@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-los-consejos-tutelares-para-menores-4991"
 country: "mx"
 rank: "ley"
 publication_date: "1979-05-13"
-last_updated: "1993-06-17"
+last_updated: "1997-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 13 de mayo de 1979.
 
@@ -675,13 +675,17 @@ VI.- Internación en los Centros de Observación y Orientación para Menores.
 
 VII.- Cualquier otra medida análoga que sirva para la educación y rehabilitación del menor.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 78o.
 
-Con excepción de las amonestaciones, las medidas aplicables a los menores serán de duración indeterminada y se extinguirá cuando fundamentalmente se presuma que se han adaptado o están en posibilidad de integrarse a la sociedad. En todo caso, las medidas se extinguirán cuando a quienes se les hubiere aplicado, cumplan 16 años.
+Con excepción de las amonestaciones, las medidas aplicables a los menores serán de duración indeterminada, por lo que el tratamiento no se suspenderá aún cuando el menor cumpla 16 años, sino hasta que a juicio del Consejo Tutelar haya logrado su readaptación social en los términos de la presente Ley.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 79o.
 
-Salvo lo dispuesto en la última parte del Artículo anterior, para que los Consejos decreten una modificación sustitución o la extinción de la medida de internamiento, deberán atender los informes que emita el Director del Centro donde el menor se encuentre depositado.
+Para que los Consejos decreten una modificación, sustitución o la extinción de la medida de internamiento, deberán atender los informes que emita el Director del Centro donde el menor se encuentre depositado.
 
 ###### ARTICULO 80o.
 
@@ -874,3 +878,9 @@ El Gobernador Constitucional del Estado, HECTOR MAYAGOITIA DOMINGUEZ.- El Secret
 P.O. 17 DE JUNIO DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor ocho días después al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 1997.
+
+PRIMERO.- El Ejecutivo del Estado, dispondrá el establecimiento de los Centros de Observación para aquellos menores que aún encontrándose en tratamiento, hayan cumplido 16 años.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno de Estado.
