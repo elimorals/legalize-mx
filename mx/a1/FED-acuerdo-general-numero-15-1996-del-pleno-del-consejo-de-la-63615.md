@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-15-1996-del-pleno-del-consejo-de-la-6361
 country: "mx"
 rank: "acuerdo"
 publication_date: "1996-08-14"
-last_updated: "1996-08-14"
+last_updated: "2003-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63615&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-08-14"
 
 ACUERDO GENERAL NUMERO 15/1996, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS BASES DE OPERACION Y FUNCIONAMIENTO DE LA COMISION MIXTA DE SEGURIDAD E HIGIENE EN EL TRABAJO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE AGOSTO DE 2003.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo IV, Septiembre de 1996, página. 783.
 
@@ -87,19 +87,23 @@ La Comisión es el órgano encargado de proponer las medidas preventivas de ries
 
 La Comisión, está integrada por cinco representantes del Consejo y cinco del Sindicato; por cada comisionado titular existirá un suplente quien sólo entrará en funciones en ausencia del primero.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 50/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE AGOSTO DE 2003)</small>
+
 ###### Artículo 6.
 
-Integran la Comisión en representación del Consejo:
+Integran la comisión en representación del consejo:
 
-a) El titular de la Secretaría Ejecutiva de Administración.
+a) El titular de la Secretaría Ejecutiva de Administración;
 
-b) El titular de la Secretaría Ejecutiva de Vigilancia.
+b) El titular de la Secretaría Ejecutiva de Vigilancia;
 
-c) El director general de Recursos Humanos.
+c) El director general de Seguridad y Protección Civil;
 
-d) El director general de Recursos Materiales y Servicios Generales.
+d) El director general de Recursos Materiales y Servicios Generales; y,
 
 e) El director general de Inmuebles y Mantenimiento.
+
+Los titulares de la Dirección General de Recursos Humanos y de la Dirección General de Servicios Médicos y Desarrollo Infantil apoyarán, en todo momento, a los integrantes de la comisión.
 
 ###### Artículo 7.
 
@@ -191,9 +195,11 @@ El presidente determinará el lugar y hora de las sesiones.
 
 ### CAPITULO VI. DEL SECRETARIO TECNICO DE LA COMISION
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 50/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE AGOSTO DE 2003)</small>
+
 ###### Artículo 19.
 
-Fungirá como secretario técnico de la Comisión, el director general de Recursos Humanos, quien tendrá las siguientes funciones:
+Fungirá como secretario técnico de la comisión, el director general de Seguridad y Protección Civil, quien tendrá las siguientes funciones:
 
 I. Formular el libro de acuerdos de los plenos ordinarios y extraordinarios de la Comisión y efectuar su desahogo mediante las gestiones administrativas necesarias para el cumplimiento de los mismos.
 
@@ -290,3 +296,11 @@ LIC. ADOLFO O. ARAGON MENDIA, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUDICIAL 
 CERTIFICA:
 
 Que este Acuerdo General Número 15/1996, que establece las Bases de Operación y Funcionamiento de la Comisión Mixta de Seguridad e Higiene en el Trabajo del Consejo de la Judicatura Federal, fue aprobado por el Pleno del propio Consejo, en sesión de catorce de agosto de mil novecientos noventa y seis, por unanimidad de votos de los consejeros: presidente Ministro José Vicente Aguinaco Alemán, Alonso Galván Villagómez, Mario Melgar Adalid, Ricardo Méndez Silva, Alfonso Oñate Laborde y Luis Gilberto Vargas Chávez.- México, Distrito Federal, a veintinueve de agosto de mil novecientos noventa y seis.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 28 DE AGOSTO DE 2003.
+
+PRIMERO.-El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
