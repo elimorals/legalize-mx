@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-mexicano-de-la-propiedad-15265"
 country: "mx"
 rank: "estatuto"
 publication_date: "1999-12-27"
-last_updated: "2002-10-10"
+last_updated: "2004-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15265&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-12-17"
 
 ESTATUTO ORGANICO DEL INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JULIO DE 2004.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de diciembre de 1999.
 
@@ -45,9 +45,11 @@ II. Secretaría, la Secretaría de Comercio y Fomento Industrial, y
 
 III. Instituto, el Instituto Mexicano de la Propiedad Industrial.
 
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 3o.
 
-Este Estatuto tiene por objeto regular la adscripción y organización interna de las áreas administrativas del Instituto, así como la distribución de las funciones previstas en la Ley, la Ley Federal del Derecho de Autor y demás disposiciones aplicables.
+Este Estatuto, aprobado mediante acuerdo 35/99/3a. adoptado por la Junta de Gobierno del Instituto el 3 de septiembre de 1999, tiene por objeto regular la adscripción y organización interna de las áreas administrativas del Instituto, así como la distribución de las funciones previstas en la Ley, Ley Federal del Derecho de Autor y demás disposiciones aplicables.
 
 ###### ARTICULO 4o.
 
@@ -69,9 +71,199 @@ Propiedad Industrial Los Servicios de Apoyo
 
 Coordinación de Planeación Estratégica
 
-Direcciones Divisionales de:
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2004)</small>
 
-Patentes Marcas Protección a la Propiedad Intelectual Sistemas y Tecnología de la Información Promoción y Servicios de Información Tecnológica Relaciones Internacionales Oficinas Regionales Administración Asuntos Jurídicos
+Dirección Divisional de Patentes
+
+- Subdirección Divisional de Procesamiento Administrativo de Patentes;
+
+-- Coordinación Departamental de Recepción y Control de Documentos;
+
+-- Coordinación Departamental de Examen de Forma;
+
+-- Coordinación Departamental de Titulación y Conservación de Derechos;
+
+-- Coordinación Departamental de Archivo de Patentes;
+
+- Subdirección Divisional de Examen de Fondo de Patentes;
+
+-- Coordinación Departamental de Examen de Fondo Area Química;
+
+-- Coordinación Departamental de Examen de Fondo Area Eléctrica;
+
+-- Coordinación Departamental de Examen de Fondo Area Biotecnológica;
+
+-- Coordinación Departamental de Examen de Fondo Area Mecánica, Modelos de Utilidad y Diseños Industriales;
+
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2004)</small>
+
+Dirección Divisional de Marcas
+
+- Subdirección Divisional de Procesamiento Administrativo de Marcas;
+
+-- Coordinación Departamental de Recepción y Control de Documentos;
+
+-- Coordinación Departamental de Conservación de Derechos;
+
+-- Coordinación Departamental de Archivo de Marcas;
+
+- Subdirección Divisional de Examen de Signos Distintivos;
+
+-- Coordinación Departamental de Examen de Marcas A;
+
+-- Coordinación Departamental de Examen de Marcas B;
+
+-- Coordinación Departamental de Examen de Marcas C;
+
+-- Coordinación Departamental de Examen de Marcas D;
+
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2004)</small>
+
+Dirección Divisional de Protección a la Propiedad Intelectual
+
+- Subdirección Divisional de Prevención de la Competencia Desleal;
+
+-- Coordinación Departamental de Infracciones y Delitos;
+
+-- Coordinación Departamental de Inspección y Vigilancia;
+
+- Subdirección Divisional de Procesos de Propiedad Industrial;
+
+-- Coordinación Departamental de Nulidades;
+
+-- Coordinación Departamental de Cancelación y Caducidad;
+
+- Subdirección Divisional de Infracciones Administrativas en Materia de Comercio;
+
+-- Coordinación Departamental de Visitas de Inspección de Infracciones en Materia de Comercio;
+
+-- Coordinación Departamental de Resoluciones en Infracciones en Materia de Comercio;
+
+- Subdirección Divisional de Cumplimiento de Ejecutorias;
+
+-- Coordinación Departamental de Cumplimiento de Ejecutorias;
+
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2004)</small>
+
+Dirección Divisional de Sistemas y Tecnología de la Información
+
+- Subdirección Divisional de Desarrollo de Sistemas;
+
+-- Coordinación Departamental de Desarrollo de Sistemas de Marcas;
+
+-- Coordinación Departamental de Desarrollo de Sistemas de Patentes;
+
+-- Coordinación Departamental de Desarrollo de Sistemas de la Protección a la Propiedad Intelectual;
+
+- Subdirección Divisional de Soporte a Sistemas;
+
+-- Coordinación Departamental de Redes y Comunicaciones;
+
+-- Coordinación Departamental de Soporte Técnico;
+
+-- Coordinación Departamental de Producción de Sistemas;
+
+- Subdirección Divisional de Productos de Información Tecnológica;
+
+-- Coordinación Departamental de Publicaciones y Estadística;
+
+-- Coordinación Departamental de Producción de Discos Compactos;
+
+-- Coordinación Departamental de Documentación Electrónica y Microfilm;
+
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2004)</small>
+
+Dirección Divisional de Promoción y Servicios de Información Tecnológica
+
+- Subdirección Divisional de Promoción y Difusión de la Propiedad Industrial;
+
+-- Coordinación Departamental de Promoción y Apoyo Logístico;
+
+-- Coordinación Departamental de Estudios de Difusión de la Propiedad Industrial;
+
+- Subdirección Divisional de Servicios de Información Tecnológica;
+
+-- Coordinación Departamental del Centro de Información Tecnológica;
+
+-- Coordinación Departamental de Acervos Documentales;
+
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2004)</small>
+
+Dirección Divisional de Relaciones Internacionales
+
+- Subdirección Divisional de Negociaciones y Legislación Internacional;
+
+-- Coordinación Departamental de Negociaciones Internacionales;
+
+- Subdirección Divisional de Asuntos Multilaterales y Cooperación Técnica Internacional;
+
+-- Coordinación Departamental de Asuntos Multilaterales;
+
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2004)</small>
+
+Dirección Divisional de Oficinas Regionales
+
+- Titular de la Oficina Regional Occidente;
+
+-- Coordinación Departamental de Marcas y Protección a la Propiedad Industrial;
+
+-- Coordinación Departamental de Invenciones y Servicios de Información Tecnológica;
+
+- Titular de la Oficina Regional Norte;
+
+-- Coordinación Departamental de Marcas y Protección a la Propiedad Industrial;
+
+-- Coordinación Departamental de Invenciones y Servicios de Información Tecnológica;
+
+- Titular de la Oficina Regional Sureste;
+
+-- Coordinación Departamental de Marcas y Protección a la Propiedad Industrial;
+
+-- Coordinación Departamental de Invenciones y Servicios de Información Tecnológica;
+
+- Titular de la Oficina Regional Bajío;
+
+-- Coordinación Departamental de Marcas y Protección a la Propiedad Industrial;
+
+-- Coordinación Departamental de Invenciones y Servicios de Información Tecnológica;
+
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2004)</small>
+
+Dirección Divisional de Administración
+
+- Subdirección Divisional de Recursos Humanos;
+
+-- Coordinación Departamental de Selección, Reclutamiento y Capacitación;
+
+-- Coordinación Departamental de Nómina;
+
+- Subdirección Divisional de Recursos Materiales y Servicios Generales;
+
+-- Coordinación Departamental de Adquisiciones;
+
+-- Coordinación Departamental de Servicios Generales;
+
+- Subdirección Divisional de Finanzas y Presupuesto;
+
+-- Coordinación Departamental de Presupuesto;
+
+-- Coordinación Departamental de Contabilidad;
+
+-- Coordinación Departamental de Tesorería;
+
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2004)</small>
+
+Dirección Divisional de Asuntos Jurídicos
+
+- Subdirección Divisional de Representación Legal;
+
+-- Coordinación Departamental de Procedimientos Legales;
+
+- Subdirección Divisional de Amparos;
+
+-- Coordinación Departamental de Amparos;
+
+- Subdirección Divisional de Legislación y Consulta;
 
 > <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2002)</small>
 
@@ -654,3 +846,7 @@ Se expide en la Ciudad de México, Distrito Federal, a los diecisiete días del 
 D.O.F. 10 DE OCTUBRE DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE JULIO DE 2004.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LOS ARTICULOS 3 Y 4 DEL CODIGO PENAL FEDERAL.
