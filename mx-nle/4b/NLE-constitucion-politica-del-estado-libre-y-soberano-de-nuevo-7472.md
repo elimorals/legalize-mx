@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1983-05-27"
+last_updated: "1983-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1983.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -56,6 +56,10 @@ El Estado de Nuevo León es libre, soberano e independiente de los demás Estado
 ###### Art. 30.
 
 El Gobierno del Estado es republicano, representativo y popular; se ejercerá por los Poderes Legislativo, Ejecutivo y Judicial, siendo la base de su organización política y administrativa el Municipio Libre. Estos Poderes derivan del pueblo y se limitan sólo al ejercicio de las facultades expresamente designadas en esta Constitución. No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un solo individuo.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+
+El Gobierno del Estado y los Municipios podrán celebrar dentro de su ámbito de competencia, convenios con la Federación, y entre sí, para fortalecer la planeación de los programas de gobierno, coordinar éstos en la ejecución de obras, prestación de servicios y en general, de cualquier otro propósito de beneficio colectivo.
 
 ###### Art. 31.
 
@@ -345,6 +349,10 @@ V.- Expedir las bases generales a las que deberán sujetarse los Ayuntamientos p
 
 VI.- Ordenar el establecimiento o supresión de Municipalidades, por el voto de la mayoría del número total de sus miembros, y dar reglas para su organización, determinando su extensión territorial y fijando sus límites.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+
+Por acuerdo de las dos terceras partes de la Legislatura, se podrán suspender Ayuntamientos, declarar que éstos han desaparecido, así como suspender o revocar el mandato de alguno de sus miembros por alguna de las causa graves que la Ley Orgánica Local prevenga, respetándose en todos los casos la garantía de audiencia.
+
 VII.- Examinar y aprobar los proyectos y arbitrios para obras de pública utilidad del Estado.
 
 > <small>(REFORMADA, P.O. 15 DE JUNIO DE 1968)</small>
@@ -470,6 +478,10 @@ La seguridad social de los servidores públicos se organizará conforme a las le
 > <small>(ADICIONADO, P.O. 27 DE MAYO DE 1983)</small>
 
 Las controversias de los servidores públicos del Estado, los Municipios y demás Entidades Públicas, así como los conflictos intersindicales, serán sometidos al Tribunal de Arbitraje del Estado.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1983)</small>
+
+XLIV.- Designar entre los vecinos los Consejos Municipales, hasta que concluya el período respectivo, cuando se declare desapareciendo un Ayuntamiento o exista la renuncia o falta absoluta de la mayoría, de sus miembros, si de acuerdo a la Ley Orgánica no procede que entren en funciones los suplentes, ni que se celebren nuevas elecciones.
 
 ###### Art. 64.
 
@@ -681,7 +693,9 @@ XVI.- Pasar al Procurador de Justicia los asuntos que deban ventilarse ante los 
 
 XVII.- (DEROGADA, P.O. 15 DE JUNIO DE 1968)
 
-XVIII.- Suspender provisionalmente hasta por quince días a los Presidentes Municipales que abusen de sus facultades, pudiendo ocurrir éstos a la Legislatura o Diputación Permanente a reclamar sus derechos. El Gobernador dará cuentas a la Legislatura o Diputación Permanente después de que use de esta facultad, acompañando los justificantes respectivos.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1983)</small>
+
+XVIII.- El Ejecutivo del Estado tendrá el mando de la fuerza pública en el municipio donde residiere habitual o transitorio.
 
 XIX.- Expedir los títulos profesionales con arreglo a las leyes.
 
@@ -983,19 +997,25 @@ REFORMADO, P.O. 28 DE ABRIL DE 1954)
 
 Los Municipios que integran el Estado son independientes entre sí, Cada uno de ellos será administrado por un Ayuntamiento de elección popular directa. Entre los Ayuntamientos y los Poderes del Estado no habrá ninguna Autoridad intermedia.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 119.
 
-Los Municipios administrarán libremente su Hacienda, la cual se formará aparte, de los bienes propios, de las contribuciones que señale el Congreso anualmente y que en todo caso deberán ser las suficientes para atender a las necesidades de aquéllos.
+Los Municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que la Legislatura establezca a su favor. Con las participaciones Federales que le correspondan de acuerdo a las bases, montos y plazos que determine anualmente la Legislatura del Estado; con los ingresos derivados de la prestación de las contribuciones que les competan, incluyendo tasas adicionales, sobre la propiedad inmobiliaria, por su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles y todas las contribuciones que señale la Ley de Ingresos de los Ayuntamientos.
+
+Los Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de alguna de las funciones relacionadas con la administración de esas contribuciones.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 120.
 
-Quedan investidos los Municipios de personalidad jurídica para todos los efectos legales.
+Los Municipios están investidos de personalidad jurídica y manejarán su patrimonio conforme a la Ley.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 121.
 
-Una Ley Reglamentaria establecerá el número de Regidores y Síndicos que juntamente con el Presidente Municipal, todos con voz y voto, compongan los Ayuntamientos. Los municipios con población de trescientos mil habitantes o más, tendrán Regidores de Representación proporcional, en la forma y términos que la propia Ley determine.
+Una Ley Reglamentaria establecerá el número de Regidores y Síndicos que juntamente con el Presidente Municipal, compongan los Ayuntamientos. Todos los Municipios, podrán tener Regidores de representación proporcional, en la forma y términos que la propia Ley determine.
 
 ###### Art. 122.
 
@@ -1023,9 +1043,11 @@ VI.- Saber leer y escribir.
 
 Los miembros del Ayuntamiento se renovarán cada tres años, tomando posesión los electos, el día primero de enero.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 124.
 
-La falta de miembros de Ayuntamiento o de Alcaldes Judiciales, durante su ejercicio, se cubrirá por los mismos Ayuntamientos a mayoría absoluta de votos, requiriéndose cuando menos la asistencia de dos terceras partes del número total de concejales, erigidos en Asamblea Electoral; dándose aviso al Ejecutivo del resultado de la elección.
+Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1980)</small>
 
@@ -1036,6 +1058,10 @@ Los Ayuntamientos por conducto del Ejecutivo enviarán a la Diputación Permanen
 ###### Art. 126.
 
 De las renuncias y licencias de miembros de Ayuntamiento, conocerán los mismos Ayuntamientos; pero aquéllas sólo serán aceptadas por causa justificada.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+
+Si las dos terceras partes de los miembros del Ayuntamiento se encuentran en el supuesto anterior, se seguirá el procedimiento previsto por el Artículo 63 Fracción VI.
 
 ###### Art. 127.
 
@@ -1053,11 +1079,39 @@ Los Ayuntamientos no podrán acordar remuneración alguna para sus miembros sin 
 
 Dentro de los primeros ocho días de cada mes los Ayuntamientos rendirán al Ejecutivo un informe detallado de su gestión administrativa del mes anterior.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 131.
 
 Quedan facultados los Ayuntamientos para promulgar su Reglamento Interior y los demás necesarios para el buen servicio, ajustándose a las bases generales a que se refiere la Fracción V del Artículo 63 de esta Constitución, así como para tener la participación que se les asignen las Leyes.
+
+Asímismo, tendrán expresamente además, las siguientes facultades:
+
+I.- Expedir de acuerdo con las bases normativas indicadas, por los bandos de policía y buen gobierno y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones;
+
+II.- Con el concurso del Estado, los Municipios, cuando así fuere necesario y lo determinen las leyes, tendrán a su cargo los siguientes servicios públicos:
+
+a).- Agua Potable y Alcantarillado.
+
+b).- Alumbrado Público.
+
+c).- Limpia.
+
+d).- Mercados y Centrales de Abasto.
+
+e).- Panteones.
+
+f).- Rastro.
+
+g).- Calles, Parques y Jardines.
+
+h).- Seguridad Pública y Tránsito.
+
+i).- Los demás que la Legislatura Local le determine según las condiciones territoriales, socio-económicas, capacidad administrativa y financiera de los municipios; los que previo acuerdo entre sus Ayuntamientos y sujeción a la Ley, podrán coordinarse para la más eficaz prestación de los servicios públicos que les corresponden.
+
+III.- En términos de las leyes federales y locales que rigen la materia y dentro de su ámbito de competencia, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permiso para construcciones y participar en la creación y administración de zona de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados por el párrafo Tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, se expedirán los reglamentos y disposiciones administrativas que fueren necesarias.
+
+IV.- Los Municipios en el ámbito de su competencia y con apego a las leyes federales y locales, planearán y regularán de manera conjunta y coordinada el desarrollo de centros urbanos que formen o tiendan a formar una continuidad demográfica, sea que éste se integre dentro del mismo Estado de Nuevo León o conjuntamente con un municipio situado en otra Entidad Federativa vecina.
 
 ###### Art. 132.
 
@@ -1457,11 +1511,15 @@ No constituyen monopolios las asociaciones de trabajadores formadas para protege
 
 Tampoco constituyen monopolio las asociaciones o sociedades cooperativas de productos que, en defensa de sus intereses o del interés general, vendan directamente en los mercados extranjeros los productos nacionales o industriales que sean la principal fuente de riqueza de la región en que se produzcan y que no sean artículos de primera necesidad, siempre que dichas asociaciones estén bajo la vigilancia o amparo del Gobierno Federal o del Estado, y en este caso, previa autorización especial del Congreso. El mismo Congreso podrá derogar, cuando las necesidades públicas así lo exijan, las autorizaciones concedidas para la formación de las asociaciones de que se trata.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 25.
 
-La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa el castigo de las infracciones de los Reglamentos Gubernativos y de Policía, el cual únicamente consistirá en multa hasta de quinientos pesos o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente que no excederá en ningún caso de quince días.
+La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y al Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, la que únicamente consistirán en multa o arresto hasta por treinta y seis horas. Cuando el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
 
-Si el infractor fuere jornalero u obrero no podrá ser castigado con multa mayor del importe de su jornal o sueldo en una semana.
+Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
+
+Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
 ###### Art. 26.
 
@@ -1734,3 +1792,25 @@ UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicaci�
 P.O. 27 DE MAYO DE 1983.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1983.
+
+DECRETO QUE REFORMA EL ARTICULO 25 DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+
+UNICO:- EL presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1983.
+
+DECRETO QUE REFORMA Y ADICIONA LOS ARTICULOS 30,63, FRACCIONES VI Y XLIII, 85 FRACCIONES VI, XVIII, 119,120,121,124, 126 Y 131 DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO
+
+- Las contribuciones locales y las participaciones a que se refiere expresamente el Artículo 119 y que no estuvieren comprendidas en la presente Ley de Ingresos, se percibirán por los Municipios a partir del primero de enero de 1984.
