@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "1991-10-19"
+last_updated: "1992-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1992.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -2599,6 +2599,10 @@ No es punible el aborto culposo causado por la mujer embarazada, ni cuando el em
 
 No se aplicará sanción cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte, o de un grave daño a su salud, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
+### CAPITULO UNICO. DE LOS DELITOS CONTRA LA ECOLOGIA
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 1992)</small>
+
 ###### ARTICULO 340.
 
 El que abandone a un niño incapaz de cuidarse asimismo o a una persona enferma, poniendo en peligro la integridad corporal de éstos, teniendo la obligación de cuidarlos, se le aplicará de un mes a cuatro años de prisión y suspensión hasta por cinco años de los derechos de Patria Potestad o Tutela, según el caso, e incapacidad para heredar en los términos de la Ley Civil. En caso de resultar además algún daño, se aplicarán las reglas del concurso.
@@ -2915,6 +2919,32 @@ Se impondrá de uno a cuatro años de prisión y multa de diez a cuarenta días 
 
 En los casos del Artículo 381, quedan exceptuados de sanción aquellos que no puedan cumplir con el deber a que el mismo Artículo se refiere, por correr peligro en su persona o en sus bienes.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 22 DE ENERO DE 1992)</small>
+
+## TITULO VIGESIMO SEGUNDO
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE ENERO DE 1992)</small>
+
+###### ARTICULO 384.
+
+Los actos u omisiones que alteren y afecten el equilibrio ecológico y la protección al ambiente, se castigarán:
+
+I. De tres meses a seis años de prisión y multa, por equivalente de cien a diez mil días de salario mínimo general vigente en la zona donde se cometa el ilícito, al que, sin contar con las autorizaciones respectivas o violando las normas de seguridad y operación a que se refiere la Ley de la materia, realice, autorice u ordene la realización de actividades que, conforme a este mismo ordenamiento, se considere como no riesgosas, que ocasionen graves daños a la salud pública o a los ecosistemas.
+
+Cuando las actividades consideradas como no riesgosas a que se refiere el párrago (sic) anterior, se lleven a cabo en un centro de población, se elevará la pena hasta tres años más de prisión y la multa hasta veinte mil días de salario mínimo general vigente, en la zona y en el momento que se cometa;
+
+II. De tres meses a seis años de prisión y multa, por el equivalente de mil a veinte días de salario mínimo general vigente en la zona donde se cometa el ilícito, al que, sin autorización de la autoridad estatal o municipal, o contraviniendo los términos en que ésta haya sido concedida, fabrique, elabore, transporte, distribuya, comercie, almacene, posea, use, reúse, recicle, recolecte, trate, deseche, descargue, disponga o en general, realice actos con materiales o residuos que no sean considerados altamente peligrosos, con arreglo a la Ley de la materia y que le compete conocer al Estado y Municipios, que ocasionen o puedan ocasionar graves daños a la salud pública, a los ecosistemas o sus elementos, previo dictamen que al efecto emitan las autoridades administrativas competentes.
+
+III. De un mes a cinco años de prisión y multa, por el equivalente de cien a diez mil días de salario mínimo general vigente en la zona donde se cometa el ilícito, al que, con violación a lo establecido en las disposiciones legales, reglamentarias y normas técnicas aplicables, les pida descargue la atmósfera, lo autorice o lo ordene, gases, humo o polvos, que ocasionen o puedan ocasionar daños graves a la salud pública, la flora, la fauna o a los ecosistemas, en el ámbito de la competencia estatal o municipal;
+
+IV. De tres meses a cinco años de prisión y multa por el equivalente de cien a diez mil días de salario mínimo general vigente en la zona donde se cometa el ilícito, al que, sin autorización de la autoridad competente y en contravención a las disposiciones legales, reglamentarias o normas técnicas aplicables, descargue, deposite o infiltre, ya sea que lo autorice o lo ordene, aguas residuales, desechos o contaminantes, en los suelos, aguas marinas, ríos, cuencas, vasos o demás depósitos o corrientes de agua en jurisdicción estatal, o en su caso municipal, que ocasionen o puedan ocasionar graves daños a la salud pública, la flora, la fauna, o los ecosistemas.
+
+Cuando se trate de aguas para ser entregadas en bloque a los centros de población, la pena se elevará hasta tres años más;
+
+V. De un mes a cinco años de prisión y multa, por el equivalente de cien y diez mil días de salario mínimo general vigente en la zona donde se cometa el ilícito, a quien, en contravención a las disposiciones legales aplicables y rebasando los límites fijados en las normas técnicas, genere emisiones o ruido, vibraciones, energía térmica, lumínica, colores o contaminación visual en zona de jurisdicción estatal o municipal, que ocasionen graves daños a la salud pública, la flora, la fauna o a los ecosistemas, y
+
+VI. De tres a ocho años de prisión y multa, por el equivalente de cien a doce mil días de salario mínimo general vigente en la zona donde se cometa el ilícito, a quien sin tomar las debidas precauciones e informar previamente a las autoridades municipales y ejidales inicie un incendio que rebase los límites del terreno que posea y dé lugar a un daño generalizado.
+
 ## TRANSITORIOS.
 
 ###### ARTICULO PRIMERO.
@@ -2962,3 +2992,9 @@ P.O. 19 DE OCTUBRE DE 1991.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 22 DE ENERO DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
