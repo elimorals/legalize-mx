@@ -4,7 +4,7 @@ identifier: "LGSM"
 country: "mx"
 rank: "ley_general"
 publication_date: "1934-08-04"
-last_updated: "1949-02-12"
+last_updated: "1956-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=578&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSM"
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE FEBRERO DE 1949.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1956.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el sábado 4 de agosto de 1934.
 
@@ -814,7 +814,11 @@ II.- La denominación, domicilio y duración de la sociedad;
 
 III.- La fecha de la constitución de la sociedad y los datos de su inscripción en el Registro Público de Comercio;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
 IV.- El importe del capital social, el número total y el valor nominal de las acciones.
+
+Si el capital se integra mediante diversas o sucesivas series de acciones, las mencionas (sic) del importe del capital social y del número de acciones se concretarán en cada emisión, a los totales que se alcancen con cada una de dichas series.
 
 Cuando así lo prevenga el contrato social, podrá omitirse el valor nominal de las acciones, en cuyo caso se omitirá también el importe del capital social.
 
@@ -824,7 +828,9 @@ VI.- La serie y número de la acción o del certificado provisional, con indicac
 
 VII.- Los derechos concedidos y las obligaciones impuestas al tenedor de la acción, y en su caso, las limitaciones al derecho de voto;
 
-VIII.- La firma autógrafa de los administradores que conforme al contrato social deban suscribir el documento.
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
+VIII.- La firma autógrafa de los administradores que conforme al contrato social deban suscribir el documento, o bien la firma impresa en facsímil de dichos administradores a condición, en este último caso, de que se deposite el original de las firmas respectivas en el Registro Público de Comercio en que se haya registrado la Sociedad.
 
 ###### ARTICULO 126.
 
@@ -906,9 +912,11 @@ Los Consejeros y Directores que hayan autorizado la adquisición de acciones en 
 
 En ningún caso podrán las sociedades anónimas hacer préstamos o anticipos sobre sus propias acciones.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
 ###### ARTICULO 140.
 
-Cuando por cualquiera causa se modifiquen las indicaciones contenidas en los títulos de las acciones, estas deberán canjearse y anularse los títulos primitivos.
+Salvo el caso previsto por el párrafo 2o. de la fracción IV del artículo 125, cuando por cualquier causa se modifiquen las indicaciones contenidas en los títulos de las acciones, éstas deberán canjearse y anularse los títulos primitivos, o bien; bastará que se haga constar en estos últimos, previa certificación notarial, o de Corredor Público Titulado, dicha modificación.
 
 ###### ARTICULO 141.
 
@@ -1677,3 +1685,7 @@ La presente ley entrará en vigor a los noventa días de su publicación en el "
 D.O.F. 12 DE FEBRERO DE 1949.
 
 Este Decreto entrará en vigor a los tres días de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1956.
+
+UNICO.- Este Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
