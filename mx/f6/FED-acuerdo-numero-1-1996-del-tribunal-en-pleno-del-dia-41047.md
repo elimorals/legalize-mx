@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1996-del-tribunal-en-pleno-del-dia-41047"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1996-02-28"
-last_updated: "1996-02-28"
+last_updated: "1996-12-17"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41047&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1996-02-19"
 
 ACUERDO No. 1/1996 DEL TRIBUNAL EN PLENO DEL DIA DIECINUEVE DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y SEIS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL AACUERDO No. 6/1996 DEL TRIBUNAL EN PLENO DEL DIA CINCO DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y SEIS, PUBLICADO EN EL D.O.F. EL 17 DE DICIEMBRE DE 1996, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: SIN EFECTOS.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 28 de febrero de 1996.
 
@@ -218,3 +220,13 @@ SEGUNDO.- Quedan sin efectos los Acuerdos Plenarios 3/1992 y 2/1994 de fechas on
 TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que este Acuerdo 1/1996, por el que se determinan los órganos encargados de aplicar las sanciones previstas en el artículo 81 de la Ley Federal de Responsabilidades de los Servidores Públicos y se establecen las reglas relativas al registro y seguimiento de la situación patrimonial de los servidores públicos de este Alto Tribunal a que se refiere el artículo 11, fracción XIII, de la Ley Orgánica del Poder Judicial de la Federación, fue emitido por el Tribunal Pleno en Sesión Privada de diecinueve de febrero de mil novecientos noventa y seis, por unanimidad de diez votos de los señores ministros: Presidente José Vicente Aguinaco Alemán, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juventino V. Castro y Castro, Juan Díaz Romero, Genaro David Góngora Pimentel, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga M. Sánchez Cordero y Juan N. Silva Meza.- México, Distrito Federal, diecinueve de febrero de mil novecientos noventa y seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DEL REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 17 DE DICIEMBRE DE 1996.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Queda sin efectos el Acuerdo Plenario 1/1996 de fecha diecinueve de febrero de mil novecientos noventa y seis, así como todos aquellos que se opongan a lo acordado en el presente.
+
+TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
