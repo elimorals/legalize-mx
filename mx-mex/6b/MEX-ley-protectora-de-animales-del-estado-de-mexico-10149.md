@@ -4,7 +4,7 @@ identifier: "MEX-ley-protectora-de-animales-del-estado-de-mexico-10149"
 country: "mx"
 rank: "ley"
 publication_date: "1985-09-04"
-last_updated: "1985-09-04"
+last_updated: "1997-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PROTECTORA DE ANIMALES DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL LA GACETA DEL GOBIERNO: 7 DE FEBRERO DE 1997.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 4 de septiembre de 1985.
 
@@ -337,9 +337,11 @@ En el caso de que las infracciones, hayan sido cometidas por personas que ejerza
 
 Los propietarios administradores o encargados de rastros que no cumplan con las disposiciones señaladas en esta Ley, se harán acreedores a multas que podrán ser desde dos hasta sesenta veces el equivalente del salario mínimo del lugar donde se cometa la falta, o bien a la cancelación de los permisos para ejercer las actividades propias de los mismos.
 
+> <small>(REFORMADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)</small>
+
 ###### Artículo 45.
 
-Para imponer la sanción se tendrá en cuenta el daño causado a los animales, si éstos mediante las atenciones necesarias no quedan imposibilitados, así como también la edad y cultura del infractor, que en todo caso deberá ser oído previamente.
+Contra los actos y resoluciones administrativos que dicten o ejecuten las autoridades competentes, en aplicación del presente ordenamiento, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
 
 ###### Artículo 46.
 
@@ -436,3 +438,23 @@ EL SECRETARIO DE GOBIERNO
 Lic. Leopoldo Velasco Mercado
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 7 DE FEBRERO DE 1997.
+
+CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Código en la Gaceta del Gobierno.
+
+###### ARTICULO SEGUNDO.
+
+Este Código entrará en vigor a los 30 días naturales siguientes al de su publicación en la Gaceta del Gobierno.
+
+###### ARTÍCULO QUINTO.
+
+Se reforman los artículos...45 de la Ley Protectora de Animales del Estado de México...
