@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-tierras-ociosas-del-estado-5079"
 country: "mx"
 rank: "ley"
 publication_date: "1918-06-23"
-last_updated: "1918-06-23"
+last_updated: "1924-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "DUR"
 
 LEY DE TIERRAS OCIOSAS PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 1924.
 
-Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 23 de junio de 1918.
+Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el 23 de Junio de 1918.
 
 DOMINGO ARRIETA, Gobernador Constitucional del Estado Libre, Independiente y Soberano de Durango, a sus habitantes hago saber:
 
@@ -35,7 +35,9 @@ DECRETO NUMERO 66.
 
 El Congreso del Estado de Durango a nombre del pueblo decreta:
 
-LEY DE TIERRAS OCIOSAS PARA EL ESTADO DE DURANGO
+LEY DE TIERRAS OCIOSAS
+
+PARA EL ESTADO DE DURANGO
 
 ###### Artículo 1°.
 
@@ -59,7 +61,11 @@ I.- En las Municipalidades de Lerdo, Gómez Palacio, Mapimí, Nazas, Rodeo y San
 
 II.- En la región de la sierra, 30 de abril.
 
-III.- En los demás Municipios del Estado: (a) maíz de riego, 28 de febrero; (b) maíz de temporal, 30 de mayo; (c) frijol, 15 de junio, (d) trigo 30 de octubre.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 1924)</small>
+
+III.- En las demás Municipalidades del Estado:
+
+(a) Maíz de riego, 28 de febrero; (b) maíz de temporal y frijol, 15 de mayo; (c) trigo, 30 de octubre.
 
 ###### Artículo 5°.
 
@@ -120,3 +126,9 @@ Victoria de Durango, junio 15 de 1918.- Alfredo Willhelm, Dip. Vice-Pte.- Pedro 
 Publíquese, circúlese y comuníquese a quienes corresponda para su exacta observancia.
 
 Victoria de Durango, junio 18 de 1918.- Domingo Arrieta.- Joaquín Moreno, Srio.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE MAYO DE 1924.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGOR DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA ESTADO DE DURANGO.
