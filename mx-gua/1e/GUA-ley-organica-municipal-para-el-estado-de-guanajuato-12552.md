@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-12552"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-25"
-last_updated: "1997-07-25"
+last_updated: "1999-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1999.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de julio de 1997.
 
@@ -60,6 +60,10 @@ El Municipio será gobernado y administrado por un Ayuntamiento, cuyos miembros 
 La autoridad municipal únicamente puede hacer lo que la Ley le concede y el gobernado todo lo que ésta no le prohibe.
 
 El Ayuntamiento deberá comunicar por escrito, en un término no mayor de treinta días hábiles, el acuerdo que recaiga a toda gestión que se le presente. Asimismo, el presidente municipal y los titulares de las dependencias y entidades de la administración pública municipal, deberán hacerlo en un plazo no mayor de quince días hábiles.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+En caso de que el Ayuntamiento, el presidente municipal o los titulares de las dependencias y entidades de la administración pública municipal, no dieren respuesta en el plazo señalado en el párrafo anterior, se tendrá por contestando en sentido negativo.
 
 ###### Artículo 5o.
 
@@ -149,9 +153,11 @@ Los ayuntamientos podrán instituir como mecanismos de consulta popular, el pleb
 
 El plebiscito y el referéndum, se realizarán conforme a las bases que se determinen en el reglamento que para el efecto expida el Ayuntamiento.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 17.
 
-Las asociaciones de habitantes, serán organismos de participación y colaboración en la gestión de demandas y propuestas de interés general.
+Las asociaciones de habitantes, serán organismos de participación y colaboración en la gestión de demandas y propuestas de interés general, de conformidad con las leyes de la materia y el reglamento correspondiente.
 
 ###### Artículo 18.
 
@@ -297,7 +303,13 @@ Ranchería.- Centro de población cuyo censo arroje un número mayor de 500 habi
 
 Caserío.- Centro de población hasta con 500 habitantes, en la zona rural.
 
-El Ayuntamiento determinará el procedimiento para las declaratorias de las categorías políticas a que se refiere este artículo; debiendo publicar la declaratoria correspondiente en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+El Ayuntamiento determinará el procedimiento para las declaratorias de las categorías políticas a que se refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+El Ayuntamiento deberá publicar las declaratorias de las categorías políticas y las relativas a las delegaciones municipales, en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 24.
 
@@ -313,9 +325,17 @@ Para proceder a la fusión o división de las categorías políticas, el Ayuntam
 
 ### CAPITULO PRIMERO. DEL AYUNTAMIENTO
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 26.
 
-Los ayuntamientos estarán integrados por un presidente municipal, un síndico, excepción hecha de los de Guanajuato, León, Irapuato, Celaya y Salamanca, que tendrán dos y el número de regidores que enseguida se expresan: León, Acámbaro, Irapuato, Celaya, Guanajuato y Salamanca, doce; Allende, San Felipe, Dolores Hidalgo, Pénjamo, Salvatierra, San Luis de la Paz, San Francisco del Rincón, Moroleón, Silao y Valle de Santiago, diez y todos los demás ocho.
+Los ayuntamientos estarán integrados por un presidente municipal, un síndico con excepción hecha de los de Acámbaro, Celaya, Guanajuato, Irapuato, León y Salamanca, que tendrán dos y el número de regidores que enseguida se expresan:
+
+Los municipios de Acámbaro, Celaya, Guanajuato, Irapuato, León y Salamanca, contarán con doce regidores.
+
+Los municipios de Allende, Cortazar, Dolores Hidalgo, Moroleón, Pénjamo, Salvatierra, San Felipe, San Francisco del Rincón, San Luis de la Paz, Silao, Uriangato, Valle de Santiago y Yuriria, se integrarán con diez regidores.
+
+Los municipios de Abasolo, Apaseo el Alto, Apaseo el Grande, Atarjea, Comonfort, Coroneo, Cuerámaro, Doctor Mora, Huanímaro, Jaral del Progreso, Jerécuaro, Manuel Doblado, Ocampo, Pueblo Nuevo, Purísima del Rincón, Romita, San Diego de la Unión, San José Iturbide, Santa Catarina, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Villagrán, Tarimoro, Tierra Blanca, Victoria y Xichú, se integrarán con ocho regidores.
 
 ###### Artículo 27.
 
@@ -327,9 +347,11 @@ El Ayuntamiento tendrá su residencia oficial en la cabecera del Municipio.
 
 El Congreso del Estado a petición del Ayuntamiento, podrá decretar el cambio de residencia, cuando existan causas justificadas para ello; el traslado será a otro lugar comprendido dentro de la circunscripción territorial del Municipio.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 29.
 
-El desempeño del cargo de presidente municipal, síndico o regidor es obligatorio y su remuneración se fijará en el presupuesto de egresos del Municipio, atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público municipal, quedando impedidos para aceptar otro empleo o cargo público por el que perciban remuneración alguna, salvo que medie permiso especial del Congreso del Estado, a excepción de los docentes.
+El desempeño del cargo de presidente municipal, síndico o regidor es obligatorio y su remuneración se fijará en el presupuesto de egresos del Municipio, atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público municipal, así como a la situación socioeconómica del Municipio, quedando impedidos para aceptar otro empleo o cargo en la administración pública municipal, estatal o federal, por el que perciban remuneración alguna, salvo que medie permiso especial del Congreso del Estado, a excepción de los docentes.
 
 ### CAPITULO SEGUNDO. DE LA INSTALACION DEL AYUNTAMIENTO
 
@@ -338,6 +360,10 @@ El desempeño del cargo de presidente municipal, síndico o regidor es obligator
 En la última sesión ordinaria del mes inmediato anterior a la fecha de terminación de actividades del Ayuntamiento saliente, se nombrará una comisión plural de regidores, que fungirá como comisión instaladora del Ayuntamiento electo. La comisión designada convocará a los integrantes del Ayuntamiento electo, de conformidad con la constancia de mayoría, de asignación y la declaratoria de validez expedidas por el órgano respectivo o, en su caso, con la resolución del Tribunal Estatal Electoral, para que acudan a la sesión de instalación formal del mismo, en los términos del presente capítulo.
 
 La comisión instaladora del Ayuntamiento electo, deberá citar a los integrantes propietarios del mismo, con por lo menos una anticipación de quince días naturales, para que concurran a la sesión de instalación.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+Cuando por causa de fuerza mayor no pueda llevarse a cabo la sesión de instalación en el lugar que se tenía previsto, se podrá realizar en un lugar distinto, previa notificación por escrito de manera fehaciente, cuando menos con tres horas de anticipación a los miembros electos del Ayuntamiento.
 
 ###### Artículo 31.
 
@@ -405,7 +431,9 @@ III.- Proceder a la entrega-recepción de la situación que guarda la administra
 
 El Ayuntamiento saliente hará entrega al Ayuntamiento entrante, del documento que contenga la situación que guarda la administración pública municipal.
 
-En la entrega-recepción, la Contaduría Mayor de Hacienda del Congreso del Estado, podrá designar un representante para que participe como observador.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+En la entrega-recepción, la Contaduría Mayor de Hacienda del Congreso del Estado, designará un representante para que participe como observador, el cual brindará asesoría, a petición de cualquier integrante del Ayuntamiento.
 
 La entrega-recepción no podrá dejar de realizarse, bajo ninguna circunstancia.
 
@@ -419,7 +447,9 @@ II.- La documentación relativa a la situación financiera y estados contables, 
 
 III.- La documentación relativa al estado que guarda la cuenta pública del Municipio; la que incluirá los oficios de razonabilidad, las observaciones, requerimientos o apercibimientos emitidos por la Contaduría Mayor de Hacienda, por la Comisión de Hacienda y Revisora de la Contaduría Mayor de Hacienda o por el Congreso del Estado;
 
-IV.- La situación de la deuda pública municipal, la documentación relativa a la misma y su registro;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+IV.- La situación de la deuda pública municipal, la documentación relativa a la misma y su registro, así como la relación y registro de los pasivos a cargo del Municipio, que no constituyan deuda pública;
 
 V.- El estado de la obra pública ejecutada y en proceso en el Municipio y la documentación relativa a la misma;
 
@@ -435,17 +465,23 @@ X.- El registro, inventario, catálogo y resguardo de bienes muebles e inmuebles
 
 XI.- La documentación relativa al estado que guardan los asuntos tratados por las comisiones del Ayuntamiento; y
 
-XII.- La demás información que se estime relevante para garantizar la continuidad de la administración pública municipal.
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+XII.- Los expedientes formados con motivo de juicios de cualquier naturaleza en los que el Municipio sea parte; y
+
+XIII.- La demás información que se estime relevante para garantizar la continuidad de la administración pública municipal.
 
 ###### Artículo 42.
 
 El secretario del Ayuntamiento entrante, levantará acta circunstanciada de la entrega-recepción, la cual deberá ser firmada por los que intervinieron y se proporcionará copia certificada a los integrantes del Ayuntamiento saliente que participaron y al representante de la Contaduría Mayor de Hacienda.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 43.
 
-Una vez concluida la entrega-recepción, el Ayuntamiento entrante designará una comisión especial, que se encargará de analizar el expediente integrado con la documentación conducente, para formular un dictamen en un plazo de treinta días naturales.
+Una vez concluida la entrega-recepción, el Ayuntamiento entrante designará una comisión especial, integrada de manera plural y proporcional a la conformación del Ayuntamiento, que se encargará de analizar el expediente integrado con la documentación conducente, para formular un informe en un plazo de treinta días hábiles.
 
-El dictamen se someterá dentro de los quince días hábiles siguientes, al conocimiento y consideración del Ayuntamiento, el cual podrá llamar a los servidores públicos señalados, para solicitar cualquier información o documentación; los que estarán obligados a proporcionarla y atender las observaciones consecuentes.
+El informe deberá referirse a todos y cada uno de los puntos contenidos en el expediente a que se refiere el artículo 41 de la presente Ley; el cual se someterá dentro de los quince días hábiles siguientes al conocimiento y consideración del Ayuntamiento, y éste podrá llamar a los servidores públicos que intervinieron en el acta de entrega-recepción, para solicitar cualquier información o documentación relacionada con la misma; los que estarán obligados a proporcionarla y atender las observaciones consecuentes.
 
 ###### Artículo 44.
 
@@ -493,9 +529,13 @@ El nombramiento del presidente municipal interino y del sustituto, podrá recaer
 
 El presidente municipal, síndicos o regidores del Ayuntamiento, sólo por causa justificada a juicio del Congreso del Estado o de la Diputación Permanente, en su caso, podrán renunciar o excusarse del cargo.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 52.
 
-Las faltas por licencia de más de un mes de los titulares de las dependencias y entidades de la administración pública municipal, serán cubiertas en la forma que señale el Ayuntamiento. Las faltas por licencia de menos de un mes, serán cubiertas por quien designe el presidente municipal.
+Las faltas por licencia de más de dos meses de los titulares de las dependencias y entidades de la administración pública municipal, serán cubiertas por quien designe el Ayuntamiento. Las faltas por licencia de menos de dos meses, serán cubiertas por quien designe el presidente municipal.
+
+Las faltas del contralor municipal serán cubiertas en los términos del artículo 115 A de esta Ley.
 
 ###### Artículo 53.
 
@@ -511,7 +551,13 @@ El Ayuntamiento funcionará en períodos de tres años, iniciando cada ejercicio
 
 Los ayuntamientos deberán resolver los asuntos de su competencia colegiadamente y, al efecto, celebrarán sesiones ordinarias, extraordinarias y solemnes, que serán públicas, con excepción de aquéllas a que se refiere el artículo 59 de esta Ley.
 
-Las sesiones del Ayuntamiento serán válidas con la asistencia de la mitad más uno de sus miembros, debiendo presidirlas el presidente municipal. En su ausencia, dirigirá los debates, el secretario del Ayuntamiento, sin derecho a voto.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+Las sesiones del Ayuntamiento serán válidas con la asistencia de más de la mitad de la totalidad de los integrantes del Ayuntamiento, debiendo presidirlas el presidente municipal. En su ausencia, dirigirá los debates, el secretario del Ayuntamiento, sin derecho a voto.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+Cuando durante el transcurso de una sesión se pierda el quórum necesario para que ésta sea válida, se terminará la misma.
 
 ###### Artículo 56.
 
@@ -543,9 +589,15 @@ III.- Las solicitudes de licencia y de remoción de servidores públicos municip
 
 IV.- La aprobación del informe del estado que guarda la administración pública municipal.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 60.
 
-Las sesiones únicamente se podrán suspender, cuando se altere gravemente el desarrollo de las mismas.
+Las sesiones únicamente se podrán suspender por las siguientes causas:
+
+I.- Cuando se altere gravemente el desarrollo de las mismas, ya sea por desorden provocado por el público asistente o por alguno de los integrantes del Ayuntamiento; y
+
+II.- Por decretarse un receso por el presidente municipal.
 
 ###### Artículo 61.
 
@@ -557,15 +609,25 @@ Sólo por causas excepcionales o justificadas, el Ayuntamiento podrá acordar el
 
 Los acuerdos del Ayuntamiento se tomarán por mayoría simple de votos, salvo aquéllos en que por disposición de esta Ley o del reglamento respectivo, se exija mayoría absoluta o calificada. En caso de empate el presidente municipal tendrá voto de calidad.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+Ningún integrante del Ayuntamiento podrá abstenerse de votar, a no ser que tenga interés personal en el asunto de que se trate. En este caso, la asistencia del integrante del Ayuntamiento se tomará en cuenta para efecto de determinar el quórum.
+
 ###### Artículo 63.
 
 Para los efectos de esta Ley, se entiende por:
 
-I.- Mayoría simple, la mitad más uno de los integrantes presentes del quórum necesario para que la sesión sea válida;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
-II.- Mayoría absoluta, la mitad más uno de la totalidad de los integrantes del Ayuntamiento; y
+I.- Mayoría simple, más de la mitad de votos en el mismo sentido de los integrantes del Ayuntamiento presentes en la sesión;
 
-III.- Mayoría calificada, las dos terceras partes de la totalidad de los integrantes del Ayuntamiento.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+II.- Mayoría absoluta, más de la mitad de votos en el mismo sentido de la totalidad de los integrantes del Ayuntamiento; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+III.- Mayoría calificada, el voto en el mismo sentido de las dos terceras partes de la totalidad de los integrantes del Ayuntamiento; cuando el resultado de la operación no sea un número entero, se tomará en consideración el número entero superior inmediato que corresponda.
 
 ###### Artículo 64.
 
@@ -611,7 +673,9 @@ b) Discutir y aprobar los reglamentos, bandos de policía y buen gobierno, circu
 
 c) Designar anualmente de entre sus miembros, a los integrantes de las comisiones del Ayuntamiento;
 
-d) Elaborar, aprobar, controlar y evaluar el plan de desarrollo municipal y sus programas; en el ejercicio de esta atribución, podrá solicitar la propuesta, opinión o colaboración del consejo de planeación;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+d) Fijar las bases para la elaboración del plan de desarrollo municipal y sus programas; así como en su oportunidad aprobarlo, controlarlo y evaluarlo. En ejercicio de esta atribución, podrán solicitar la propuesta, opinión o colaboración del consejo de planeación;
 
 e) Nombrar y remover a los delegados municipales, en los términos que señala esta Ley;
 
@@ -621,7 +685,11 @@ g) Conceder licencia para separarse de sus cargos al presidente municipal, sínd
 
 h) Crear las dependencias administrativas centralizadas y constituir entidades paramunicipales;
 
-i) Nombrar y remover al secretario, tesorero y titulares de las dependencias y entidades de la administración pública municipal, a propuesta del presidente municipal, prefiriendo en igualdad de circunstancias a los habitantes del Municipio;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+i) Nombrar al secretario, tesorero y titulares de las dependencias y entidades de la administración pública municipal, a propuesta del presidente municipal, prefiriendo en igualdad de circunstancias a los habitantes del Municipio;
+
+Remover a los servidores públicos señalados en el párrafo anterior, a propuesta del presidente municipal o de la mayoría absoluta del Ayuntamiento, en los términos del artículo 110 B de esta Ley.
 
 j) Nombrar y remover al contralor, en los términos de esta Ley;
 
@@ -787,9 +855,15 @@ VII.- Desempeñar las comisiones que le encomiende el Ayuntamiento, informando s
 
 VIII.- Asistir puntualmente a las sesiones del Ayuntamiento;
 
-IX.- Solicitar y obtener del tesorero municipal, la información relativa a la hacienda pública municipal, al ejercicio del presupuesto, al patrimonio municipal y demás documentación de la gestión municipal, necesaria para el cumplimiento de sus funciones; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
-X.- Las demás que le señalen esta Ley y otras disposiciones legales aplicables.
+IX.- Solicitar y obtener del tesorero, la información relativa a la hacienda pública, al ejercicio del presupuesto y al patrimonio municipal;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+X.- Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones; y
+
+XI.- Las demás que le señalen esta Ley y otras disposiciones legales aplicables.
 
 Cuando haya dos síndicos, el Ayuntamiento acordará la distribución equitativa de las funciones que ejercerán cada uno de ellos.
 
@@ -809,9 +883,17 @@ V.- Proponer al Ayuntamiento, las acciones convenientes para el mejoramiento de 
 
 VI.- Asistir puntualmente a las sesiones del Ayuntamiento;
 
-VII.- Solicitar y obtener del tesorero municipal, la información relativa a la hacienda pública municipal, al ejercicio del presupuesto, al patrimonio municipal y demás documentación de la gestión municipal, necesaria para el cumplimiento de sus funciones; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
-VIII.- Las demás que le señalen esta Ley y otras disposiciones legales aplicables.
+VII.- Solicitar y obtener del tesorero, la información relativa a la hacienda pública, al ejercicio del presupuesto y al patrimonio municipal;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+VIII.- Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+IX.- Las demás que le señalen esta Ley y otras disposiciones legales aplicables.
 
 ### CAPITULO NOVENO. DE LAS COMISIONES MUNICIPALES
 
@@ -827,7 +909,9 @@ Las comisiones tendrán por objeto el estudio, dictamen y propuestas de solució
 
 Las comisiones se integrarán de manera colegiada, por el número de miembros que establezca el reglamento o el acuerdo de Ayuntamiento, procurando que reflejen pluralidad y proporcionalidad; en cada comisión habrá un presidente y un secretario, asimismo, el Ayuntamiento podrá acordar la designación de comisionados para la atención de los asuntos de competencia municipal.
 
-La comisión de hacienda, patrimonio y cuenta pública deberá ser plural y proporcional, atendiendo a la conformación del Ayuntamiento.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+La comisión de hacienda, patrimonio y cuenta pública deberá ser plural y proporcional, atendiendo al porcentaje de representación de cada partido político en el Ayuntamiento.
 
 ###### Artículo 76.
 
@@ -903,7 +987,9 @@ Son causas de revocación del mandato:
 
 I.- Las violaciones graves y reiteradas a la Constitución Política de los Estados Unidos Mexicanos, a la Constitución Política del Estado y a las leyes que de ellas emanen;
 
-II.- Dejar de asistir, sin causa justificada a cuatro sesiones ordinarias del Ayuntamiento o Concejo municipal, en forma continua;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+II.- Dejar de asistir sin causa justificada a tres sesiones ordinarias del Ayuntamiento o Consejo Municipal en forma continua y hasta cinco durante un periodo de seis meses;
 
 III.- Violar en forma grave y reiterada, los presupuestos de ingresos y egresos aprobados y la normatividad aplicable, que afecte los caudales públicos; y
 
@@ -937,17 +1023,23 @@ III.- Los instrumentos, responsables y plazos de su ejecución; y
 
 IV.- Los lineamientos de política de carácter global, sectorial y de servicios municipales.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 91.
 
-Las previsiones del plan, se referirán al conjunto de la actividad económica y social y regirán el contenido de los programas operativos anuales, en concordancia siempre con el plan estatal y con el plan nacional de desarrollo.
+Las previsiones del plan deberán ser a largo plazo, se referirán al conjunto de la actividad económica y social. Las políticas y criterios del plan, regirán el contenido de los programas operativos anuales, en concordancia siempre con los planes estatal y nacional de desarrollo.
 
 ###### Artículo 92.
 
 El plan de desarrollo municipal establecerá los programas de la administración pública municipal centralizada y de las entidades paramunicipales.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 93.
 
-El plan de desarrollo municipal, deberá ser elaborado y aprobado por el Ayuntamiento, dentro de los primeros cuatro meses de la gestión municipal. Su evaluación deberá realizarse anualmente.
+Dentro de los primeros cuatro meses de la gestión del Ayuntamiento, se deberá evaluar el plan de desarrollo municipal vigente, a efecto de hacer las adecuaciones pertinentes, buscando la continuidad en los programas de interés social, o bien, se podrá aprobar uno nuevo, cuando esto se justifique porque el vigente no responda a las necesidades imperantes en el Municipio.
+
+La evaluación del plan de desarrollo municipal, deberá realizarse anualmente.
 
 ###### Artículo 94.
 
@@ -1075,7 +1167,45 @@ II.- Tesorería municipal;
 
 III.- Contraloría municipal; y
 
-IV.- Las demás que el Ayuntamiento determine, considerando las condiciones territoriales, socioeconómicas, capacidad administrativa y financiera del Municipio, así como el ramo o servicio que se pretenda atender, en los términos de la presente Ley y otras disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+IV.- Obra pública;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+V.- Servicios municipales;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+VI.- Desarrollo social;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+VII.- Seguridad pública;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+VIII.- Oficialía Mayor; y
+
+IX.- Las demás que el Ayuntamiento determine, considerando las condiciones territoriales, socioeconómicas, capacidad administrativa y financiera del Municipio, así como el ramo o servicio que se pretenda atender, en los términos de la presente Ley y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+Los ayuntamientos en el reglamento correspondiente, deberán señalar las atribuciones que tendrán las dependencias señaladas en las fracciones IV a VIII de este artículo; asimismo, podrán otorgarles la denominación que corresponda atendiendo a su organización administrativa.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+Artículo 110 A.- Los titulares de las dependencias señaladas en el artículo anterior, deberán proporcionar a los integrantes del Ayuntamiento, la información que les soliciten y sea necesaria para el ejercicio de su función.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+Artículo 110 B.- Los titulares de las dependencias señaladas en el artículo 110 de esta Ley, sólo podrán ser removidos de su cargo, cuando en el desempeño del mismo incurran en falta de probidad, notoria ineficiencia, por la comisión de faltas administrativas o delitos o por incumplimiento grave de sus atribuciones, conforme a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato.
+
+Para que sea procedente la remoción, deberá observarse lo siguiente:
+
+I.- Cuando la propuesta la formule el presidente municipal, se requerirá para su aprobación la mayoría absoluta del Ayuntamiento; y
+
+II.- Cuando la propuesta sea formulada por la mayoría absoluta del Ayuntamiento, se requerirá para su aprobación la mayoría calificada del mismo.
 
 ###### Artículo 111.
 
@@ -1093,7 +1223,9 @@ III.- Presidir los debates del Ayuntamiento en ausencia del presidente municipal
 
 IV.- Fungir como secretario de actas en las sesiones de Ayuntamiento, llevando los libros o folios que autorice el mismo, los cuales deberán rubricarse en todas y cada una de sus hojas y autorizarse al final de cada acta;
 
-V.- Cumplir y hacer cumplir los acuerdos, órdenes y circulares que el Ayuntamiento apruebe y no estén encomendados a otra dependencia;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+V.- Cumplir y hacer cumplir los acuerdos, órdenes y circulares que el Ayuntamiento apruebe y no estén encomendadas a otra dependencia; así como citar a los funcionarios que haya acordado el Ayuntamiento;
 
 VI.- Organizar, dirigir y controlar el archivo municipal y la correspondencia oficial;
 
@@ -1101,7 +1233,9 @@ VII.- Expedir, por acuerdo del Ayuntamiento o del presidente municipal, copias c
 
 VIII.- Compilar las leyes, decretos, reglamentos, periódicos oficiales del Gobierno del Estado, circulares y órdenes relativas a los distintos sectores de la administración pública municipal;
 
-IX.- Formar y actualizar el padrón municipal, cuidando que se inscriban todos los habitantes del Municipio, expresando sus datos de identificación y los de sus propiedades;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+IX.- Formar y actualizar el padrón municipal, cuidando que se inscriban todos los habitantes del Municipio, expresando sus datos de identificación y los de sus propiedades; así como integrar y mantener actualizado el padrón de las asociaciones de habitantes existentes en el Municipio;
 
 X.- Expedir las constancias de residencia que soliciten los habitantes del Municipio;
 
@@ -1153,67 +1287,111 @@ XVI.- Integrar los estados contables de cierre de ejercicio de la administració
 
 XVII.- Las demás que le confiera ésta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 115.
 
-El control interno, evaluación municipal y desarrollo administrativo, estarán a cargo de la Contraloría municipal, cuyo titular será designado a propuesta de la primera minoría y aprobado por mayoría calificada del Ayuntamiento.
+El control interno, evaluación de la gestión municipal y desarrollo administrativo, estarán a cargo de la Contraloría Municipal, cuyo titular será propuesto por la primera minoría a través de una terna, en la sesión siguiente a la de instalación del Ayuntamiento y será designado en dicha sesión.
 
-En caso de que la primera minoría no presente la propuesta en el plazo de quince días naturales, contados a partir de la instalación del Ayuntamiento, corresponderá a la segunda minoría formular la misma, contando con un término de cinco días naturales para ejercer este derecho, la que deberá ser aprobada por mayoría calificada del Ayuntamiento.
+Se entenderá por primera minoría, a los integrantes del Ayuntamiento, cuya planilla haya obtenido el segundo lugar en votación en la elección del Ayuntamiento en funciones.
 
-Cuando la primera y segunda minoría no ejerzan el derecho que les otorga este artículo, el contralor municipal será designado por mayoría absoluta del Ayuntamiento, a propuesta de cualquiera de sus integrantes.
+El Ayuntamiento tendrá por designado como contralor municipal al integrante de la terna que haya obtenido el mayor número de votos de los integrantes presentes del Ayuntamiento.
+
+Cuando por cualquier causa la primera minoría no ejerza su derecho, el contralor municipal será designado por mayoría absoluta del Ayuntamiento a propuesta de cualquiera de sus integrantes, en la sesión ordinaria siguiente a la referida en el primer párrafo de este artículo.
+
+En el presupuesto de egresos deberán preverse los recursos materiales y humanos necesarios y suficientes, con los que deberá contar la Contraloría Municipal para el ejercicio de su función.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+Artículo 115 A.- El contralor municipal podrá ser removido de su cargo cuando se encuentre en alguno de los supuestos establecido en el artículo 110 B de esta Ley, conforme al siguiente procedimiento:
+
+I.- A propuesta de la primera minoría, requiriendo para su aprobación la mayoría absoluta del Ayuntamiento; y
+
+II.- A propuesta de la mayoría absoluta del Ayuntamiento, requiriendo para su aprobación, la mayoría calificada del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+Artículo 115 B.- En caso de falta o ausencia mayor de quince días hábiles del contralor municipal se deberá proceder a designar a la persona que lo supla o sustituya, aplicando en lo conducente el procedimiento a que se refiere el artículo anterior.
+
+Cuando las faltas o ausencias no excedan del término de quince días hábiles, el contralor municipal designará quien lo supla, del personal que tenga a su cargo.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 116.
 
-Para asumir el cargo de contralor municipal, se requiere:
+Para asumir el cargo de contralor municipal, se deben reunir los siguientes requisitos:
 
 I.- Ser ciudadano guanajuatense, en ejercicio de sus derechos civiles y políticos, y no haber sido condenado ejecutoriamente por delito grave del orden común;
 
 II.- Ser profesional en las áreas económicas, contables, jurídicas o administrativas y contar de preferencia con una experiencia de cuando menos tres años; y
 
-III.- Ser de reconocida honradez.
+III.- Ser de reconocida honradez; y
+
+IV.- No haber sido dirigente de partido político ni candidato durante la elección del ayuntamiento en funciones.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 117.
 
 Son atribuciones del contralor municipal:
 
-I.- Proponer y aplicar las normas y criterios en materia de control y evaluación, que deban observar las dependencias centralizadas y paramunicipales;
+I.- Presentar al Ayuntamiento un plan de trabajo anual, durante el mes de enero;
 
-II.- Verificar el cumplimiento del plan de desarrollo municipal y sus programas;
+II.- Proponer y aplicar normas y criterios en materia de control y evaluación, que deban observar las dependencias y entidades de la administración pública municipal;
 
-III.- Realizar auditorías periódicamente a las dependencias y entidades de la administración pública municipal;
+III.- Verificar el cumplimiento del plan de desarrollo municipal y sus programas;
 
-IV.- Vigilar la correcta aplicación del gasto público;
+IV.- Realizar auditorías periódicamente a las dependencias y entidades de la administración pública municipal;
 
-V.- Informar bimestralmente al Ayuntamiento de las actividades de la Contraloría;
+V.- Vigilar la correcta aplicación del gasto público;
 
-VI.- Vigilar el registro e inventario de los bienes muebles e inmuebles del Municipio;
+VI.- Presentar bimestralmente al Ayuntamiento, un informe de las actividades de la contraloría municipal, señalando las irregularidades que se hayan detectado en el ejercicio de su función;
 
-VII.- Vigilar que las adquisiciones, enajenaciones y arrendamientos de los bienes muebles e inmuebles que realice el Ayuntamiento y la prestación de servicios públicos municipales, se supediten a lo establecido por esta Ley;
+VII.- Verificar que la administración pública municipal, cuente con el registro e inventario actualizado de los bienes muebles e inmuebles del Municipio;
 
-VIII.- Vigilar que la obra pública municipal se ajuste a las disposiciones de la Ley de Obra Pública para el Estado y los Municipios de Guanajuato y demás disposiciones aplicables en la materia;
+VIII.- Vigilar que las adquisiciones, enajenaciones y arrendamientos de los bienes muebles e inmuebles que realice el Ayuntamiento y la prestación de servicios públicos municipales, se supediten a lo establecido por esta Ley;
 
-IX.- Establecer y operar un sistema de quejas, denuncias y sugerencias;
+IX.- Vigilar que la obra pública municipal se ajuste a las disposiciones de la Ley de Obra Pública para el Estado y los Municipios de Guanajuato y demás disposiciones aplicables en la materia;
 
-X.- Participar en la entrega-recepción de las dependencias y entidades de la administración pública municipal;
+X.- Establecer y operar un sistema de quejas, denuncias y sugerencias;
 
-XI.- Verificar los estados financieros de la Tesorería municipal, así como la remisión de la cuenta pública municipal a la Contaduría Mayor de Hacienda;
+XI.- Participar en la entrega-recepción de las dependencias y entidades de la administración pública municipal;
 
-XII.- Vigilar el comportamiento de la situación patrimonial de los servidores públicos municipales, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato;
+XII.- Verificar los estados financieros de la tesorería municipal, así como revisar la integración, la remisión en tiempo y la solventación de observaciones de la cuenta pública municipal;
 
-XIII.- Vigilar el desarrollo administrativo de las dependencias y entidades de la administración pública municipal, a fin de aplicar con eficiencia los recursos humanos y patrimoniales; y
+XIII.- Vigilar el comportamiento de la situación patrimonial de los servidores públicos municipales, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato;
 
-XIV.- Las demás que le confiera ésta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
+XIV.- Vigilar el desarrollo administrativo de las dependencias y entidades de la administración pública municipal, a fin de que en el ejercicio de sus funciones apliquen con eficiencia los recursos humanos y patrimoniales;
+
+XV.- Vigilar que el desempeño de las funciones de los servidores públicos municipales, se realice conforme a la Ley;
+
+XVI.- Proponer al personal que haya de ser contratado para auxiliarlo en el desempeño de sus funciones; y
+
+XVII.- Las demás que le confiera ésta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
 
 ### CAPITULO TERCERO. DE LOS DELEGADOS MUNICIPALES
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 118.
 
-Los delegados municipales son autoridades auxiliares del Ayuntamiento y del presidente municipal, en la demarcación territorial que se les asigne. Serán nombrados y removidos por el Ayuntamiento a propuesta del presidente municipal, previa consulta a los habitantes de la delegación, o bien, mediante el procedimiento que el Ayuntamiento acuerde.
+Los delegados y subdelegados municipales son autoridades auxiliares del Ayuntamiento y del presidente municipal, en la demarcación territorial asignada a la delegación. Serán nombrados por el Ayuntamiento a propuesta del presidente municipal, previa consulta a los habitantes de la delegación.
 
-Por cada delegado se nombrará un subdelegado.
+El Ayuntamiento emitirá la convocatoria en la que se establecerán las bases para la realización de la consulta pública, para el nombramiento de delegados y subdelegados, dentro de los seis meses siguientes a la instalación del Ayuntamiento.
+
+Los delegados y subdelegados municipales durarán en su cargo tres años, salvo renuncia o remoción por cualquiera de las causas establecidas en el artículo 110 B de esta Ley, conforme a lo siguiente:
+
+I.- Cuando la propuesta de remoción la formule el presidente municipal, se requerirá para su aprobación la mayoría absoluta del Ayuntamiento; y
+
+II.- Cuando la propuesta sea formulada por la mayoría absoluta del Ayuntamiento, se requerirá para su aprobación la mayoría calificada del mismo.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 119.
 
-Para ser delegado municipal, el que sin ser integrante del Ayuntamiento, deberá cumplir los requisitos establecidos en el artículo 110 de la Constitución Política Local y ser habitante del lugar de su adscripción.
+Para ser delegado o subdelegado municipal, los que sin ser integrantes del Ayuntamiento, deberán cumplir los requisitos establecidos en el artículo 110 de la Constitución Política Local y ser habitante del lugar de su adscripción.
+
+Por cada delegado se nombrará un subdelegado, el cual auxiliará al delegado municipal, en el desempeño de sus funciones y sus atribuciones serán establecidas en el reglamento que al efecto emita el Ayuntamiento.
 
 ###### Artículo 120.
 
@@ -1235,9 +1413,11 @@ VI.- Las demás que le señalen esta u otras leyes, reglamentos, bandos municipa
 
 Los delegados municipales, podrán asesorarse en las dependencias y entidades correspondientes de la administración pública municipal, para la atención de los asuntos de su competencia.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 122.
 
-La coordinación de los delegados estará a cargo de la dependencia municipal que el Ayuntamiento acuerde.
+La coordinación de los delegados estará a cargo de la Dependencia que establezca el reglamento, o en su caso, la que acuerde el Ayuntamiento por mayoría calificada.
 
 ###### Artículo 123.
 
@@ -1463,9 +1643,11 @@ La prestación de los servicios públicos municipales, será supervisada por las
 
 Los usuarios de los servicios públicos, deberán hacer uso racional y adecuado de las instalaciones destinadas a la prestación de los mismos y comunicar a la autoridad municipal, aquéllos desperfectos y deficiencias que sean de su conocimiento.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 145.
 
-En caso de destrucción o daños causados a la infraestructura de los servicios públicos municipales, la autoridad municipal deslindará la responsabilidad e impondrá las sanciones administrativas que correspondan, sin perjuicio de que se denuncie penalmente al infractor ante las autoridades competentes y, en su caso, se efectúe la reparación del daño en los términos de la Ley de la materia.
+En caso de destrucción o daños causados a la infraestructura de los servicios públicos municipales, la autoridad municipal deslindará la responsabilidad e impondrá sanciones administrativas que correspondan, sin perjuicio de que se denuncie penalmente al infractor.
 
 ###### Artículo 146.
 
@@ -1801,6 +1983,10 @@ Cuando se requiera afectar un bien inmueble de propiedad privada, que por su ubi
 
 Sólo procederá la venta de los bienes del dominio privado del Municipio, cuando el producto de la misma represente un incremento al patrimonio municipal y sea aprobada por mayoría absoluta del Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+El Ayuntamiento podrá, si a su juicio concurren circunstancias que así lo ameriten, variar el requisito exigido para la venta relativo (sic) a que el producto de la misma represente un incremento al patrimonio municipal, justificando en el acuerdo correspondiente el beneficio social que se obtendrá con la misma, requiriendo éste para su validez ser aprobado por la mayoría calificada del Ayuntamiento.
+
 ###### Artículo 180.
 
 Tratándose de arrendamiento, cuando el término estipulado en el contrato exceda del período del Ayuntamiento que lo celebre, será necesaria la ratificación del mismo por las subsecuentes administraciones municipales.
@@ -1911,15 +2097,19 @@ La presupuestación del gasto público municipal, se sujetará a los objetivos y
 
 I.- El equilibrio entre el ingreso y el egreso;
 
-II.- Que el total de sueldos, salarios y prestaciones al personal, no exceda del cuarenta por ciento del total del presupuesto;
+II.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 1999)
 
-III.- Que el gasto de operación, mantenimiento, reconstrucción, mejoría y ampliación de los servicios municipales, diverso a sueldos y salarios, no exceda del veinte por ciento del presupuesto general;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
-IV.- Que la inversión en obra pública sea, cuando menos, del veinte por ciento del ingreso total;
+III.- Operar, mantener, reconstruir, mejorar y ampliar los servicios municipales;
+
+IV.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 1999)
 
 V.- Que el gasto público comprenda las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, pago de deuda pública y de pasivos, entre estos últimos, las contingencias laborales y la responsabilidad patrimonial a cargo del Municipio; y
 
-VI.- La distribución equitativa y proporcional del presupuesto de egresos, entre las delegaciones municipales que requieran de mayor dotación de servicios públicos.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+VI.- La distribución equitativa y proporcional del presupuesto de egresos, en la satisfacción de las necesidades del Municipio.
 
 ###### Artículo 198.
 
@@ -1943,9 +2133,11 @@ Ningún gasto podrá efectuarse sin que exista partida expresa del presupuesto q
 
 ### CAPITULO UNICO. DE LA FACULTAD REGLAMENTARIA
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 202.
 
-Los ayuntamientos están facultados para elaborar, expedir, reformar y adicionar los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general y obligatoria en el Municipio.
+Los ayuntamientos están facultados para elaborar, expedir, reformar, adicionar y abrogar los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general y obligatoria en el Municipio.
 
 ###### Artículo 203.
 
@@ -1995,21 +2187,23 @@ Los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones 
 
 ### CAPITULO PRIMERO. DE LA JUSTICIA MUNICIPAL
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 206.
 
-Los actos y resoluciones dictadas por el Ayuntamiento, por el presidente municipal y por las dependencias y entidades de la administración pública municipal, podrán ser impugnadas mediante el recurso de inconformidad, cuando afecten intereses jurídicos de los particulares.
+Los actos y resoluciones dictadas por el Ayuntamiento, podrán ser impugnados ante el Tribunal de lo Contencioso Administrativo cuando afecten intereses jurídicos de los particulares.
 
-Será optativo para el particular afectado, impugnar las resoluciones a que se refiere el párrafo anterior, mediante el recurso de inconformidad o bien, acudir directamente ante el Tribunal de lo Contencioso Administrativo.
+Los actos y resoluciones dictadas por el presidente municipal y por las dependencias y entidades de la administración pública municipal, podrán ser impugnados mediante el recurso de inconformidad cuando afecten intereses jurídicos de los particulares.
+
+El particular afectado, en su caso, impugnará las resoluciones a que se refiere el párrafo anterior ante los Juzgados Administrativos Municipales, antes de acudir al Tribunal de lo Contencioso Administrativo.
 
 ###### Artículo 207.
 
-El recurso de inconformidad contra actos y resoluciones del Ayuntamiento, se interpondrá ante el propio cuerpo colegiado.
-
-En este caso, el secretario del Ayuntamiento, fungirá como instructor del procedimiento del recurso de inconformidad.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### Artículo 208.
 
-Tratándose de actos y resoluciones que emitan el presidente municipal y las dependencias y entidades de la administración pública municipal, el recurso de inconformidad se interpondrá ante los juzgados municipales.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ### CAPITULO SEGUNDO. DEL PROCEDIMIENTO DEL RECURSO DE INCONFORMIDAD
 
@@ -2037,13 +2231,13 @@ V.- Relación de pruebas que ofrezca, para justificar los hechos en que se apoya
 
 VI.- Los documentos que justifiquen la personalidad del promovente, cuando el recurso se interponga por el representante legal o mandatario del inconforme.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 212.
 
-Tratándose del trámite ante el Ayuntamiento, recibido el escrito de inconformidad, se abrirá un período de pruebas de diez días hábiles, a efecto de que se desahoguen aquéllas que se hayan ofrecido y admitido.
+Recibido el escrito de inconformidad ante el Juzgado Administrativo Municipal, se correrá traslado a la autoridad demandada por el término de cinco días hábiles; transcurrido dicho término, se haya dado o no contestación a la demanda, se abrirá un periodo de pruebas de diez días hábiles, a efecto de que se desahoguen aquéllas que se hayan ofrecido y admitido.
 
-En el caso del trámite ante el juzgado municipal, recibido el escrito de inconformidad, se correrá traslado a la autoridad demandada por el término de cinco días hábiles; transcurrido dicho término, se haya dado o no contestación a la demanda, se abrirá un período de pruebas de diez días hábiles, a efecto de que se desahoguen aquéllas que se hayan ofrecido y admitido.
-
-Si por la naturaleza de las pruebas, el término anterior resulta insuficiente, se podrá ampliar por el lapso que se estime prudente, únicamente para el efecto de desahogar las pruebas que fueron admitidas.
+Si por la naturaleza de las pruebas, el término anterior resulta insuficiente, se podrá ampliar por el lapso que se estime prudente, únicamente para desahogar las que fueron admitidas.
 
 ###### Artículo 213.
 
@@ -2054,6 +2248,14 @@ I.- Reconocer la validez del acto impugnado;
 II.- Declarar total o parcialmente, la nulidad del acto impugnado; y
 
 III.- Decretar la nulidad del acto para determinado efecto, debiendo precisar con claridad la forma y término en que la autoridad deberá cumplirla, salvo que se trate de facultades discrecionales.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+IV.- Modificar el acto o resolución impugnada; y
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+V.- En su caso, imponer la condena que corresponda.
 
 ###### Artículo 214.
 
@@ -2071,35 +2273,47 @@ La notificación personal se hará directamente al recurrente, si acude a las of
 
 Podrá suspenderse la ejecución del acto reclamado, cuando no se afecte el interés público y se garanticen suficientemente, mediante fianza o depósito fijado por la autoridad, los posibles daños o perjuicios que pudieran causarse al confirmarse la resolución impugnada.
 
-### CAPITULO TERCERO. DE LOS JUZGADOS MUNICIPALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+### CAPITULO TERCERO. DE LOS JUZGADOS ADMINISTRATIVOS MUNICIPALES
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 216.
 
-Los juzgados municipales, son los órganos jurisdiccionales de control de la legalidad en los municipios, quienes conocerán y resolverán el recurso de inconformidad promovido por los particulares, sobre los actos y resoluciones a que se refiere el artículo 208 de esta Ley.
+Los Juzgados Administrativos Municipales son los órganos jurisdiccionales de control de legalidad en los municipios, dotados de autonomía para dictar sus fallos; quienes conocerán y resolverán el recurso de inconformidad promovido por los particulares sobre los actos y resoluciones a que se refiere el artículo 206 de esta Ley.
 
-Asimismo, tendrán competencia para calificar las conductas previstas en los reglamentos, bandos de policía y buen gobierno, circulares y disposiciones administrativas de observancia general, así como para imponer las sanciones procedentes, cuando le haya sido delegada esta facultad por el presidente municipal.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 217.
 
-Los juzgados municipales podrán ser unitarios o colegiados; su organización y funcionamiento se establecerá en el reglamento que para el efecto expida el Ayuntamiento.
+Los Juzgados Administrativos Municipales serán unitarios; su organización y funcionamiento se establecerá en el reglamento que para el efecto expida el Ayuntamiento.
 
-El Ayuntamiento acordará lo conducente, para que los juzgados municipales cuenten con el personal jurídico y administrativo, así como con los recursos financieros y técnicos, necesarios para el cumplimiento de su función.
+El Ayuntamiento acordará lo conducente, para que los Juzgados Administrativos Municipales cuenten con el personal jurídico y administrativo, así como con los recursos financieros y técnicos, necesarios para el cumplimiento de su función.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 218.
 
-Los jueces municipales serán nombrados por el Ayuntamiento, a propuesta del presidente municipal y únicamente podrán ser removidos por causa grave, a juicio de la mayoría calificada del Ayuntamiento.
+Los jueces administrativos municipales serán nombrados por el Ayuntamiento por mayoría calificada, de entre la terna que presente el presidente municipal y únicamente podrán ser removidos en los términos del artículo 110 B de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 219.
 
-Los jueces municipales, deberán satisfacer los siguientes requisitos:
+Los jueces administrativos municipales, deberán satisfacer los siguientes requisitos:
 
 I.- Ser ciudadano guanajuatense, en pleno ejercicio de sus derechos civiles y políticos;
 
 II.- Ser mayor de veinticinco años de edad;
 
-III.- Contar preferentemente con título de abogado o licenciado en derecho, legalmente expedido y, por lo menos, tres años de ejercicio profesional; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
-IV.- Gozar de buena reputación y no haber sido condenado por delito doloso, que amerite pena corporal de más de un año de prisión.
+III.- Contar con título de licenciado en Derecho o su equivalente académico, legalmente expedido por la institución facultada para ello, con por lo menos, tres años de práctica profesional; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de libertad por más de un año; pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama pública, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
 ### CAPITULO CUARTO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -2115,9 +2329,11 @@ III.- Suspensión; y
 
 IV.- Clausura.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 221.
 
-La aplicación de las sanciones, corresponderá al presidente municipal y, en su caso, a los jueces municipales, en los términos de esta Ley y de los reglamentos aplicables.
+La aplicación de las sanciones corresponderá al presidente municipal, y en su caso a la unidad administrativa en la que delegue esta facultad, cuyo titular se denominará oficial calificador; en los términos de esta Ley y de los reglamentos aplicables.
 
 ###### Artículo 222.
 
@@ -2170,3 +2386,13 @@ VICENTE FOX QUESADA
 EL SECRETARIO DE GOBIERNO
 
 RAMON MARTIN HUERTA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE DICIEMBRE DE 1999.
+
+Artículo Primero.- El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Los Ayuntamientos que aún no cuenten con Juzgados Administrativos Municipales, realizarán los ajustes y previsiones presupuestales necesarias para su creación y funcionamiento, en los términos del presente decreto.
+
+Artículo Tercero.- Los Ayuntamientos deberán emitir los reglamentos de los Juzgados Administrativos Municipales, a más tardar sesenta días después de la entrada en vigor del presente decreto.
