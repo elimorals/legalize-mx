@@ -4,7 +4,7 @@ identifier: "JAL-ley-sobre-venta-y-consumo-de-bebidas-alcoholicas-en-el-15282"
 country: "mx"
 rank: "ley"
 publication_date: "1996-10-31"
-last_updated: "2001-07-21"
+last_updated: "2002-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 31 de octubre de 1996.
 
@@ -283,7 +283,21 @@ IV. Permitir la revisión de sus establecimientos y locales a los inspectores, a
 
 V. Colocar en lugar visible en el exterior del establecimiento avisos en los que se prohiba la entrada a menores de 18 años de edad, tratándose de los giros especificados en la fracción I del artículo 9°, y
 
-VI. Cumplir con las demás disposiciones establecidas en la presente ley.
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+VI. Vigilar bajo su más estricta responsabilidad, que las bebidas con contenido alcohólico no estén adulteradas, contaminadas o alteradas al momento de servirla, o de su venta;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+VII. Destruir los envases vacíos de bebidas alcohólicas que su envase o recipiente tenga el atributo de ser no retornable;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+VIII. Cumplir con las demás disposiciones establecidas en la presente ley.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+Para los efectos de la fracción VII los dueños de establecimientos dedicados a la venta de bebidas alcohólicas, cuyos envases sean no retornables, deberán de almacenar los fragmentos o retazos producto de su destrucción, para su traslado y manejo, en recipientes o contenedores seguros, y conforme a la normatividad aplicable para el tipo de residuos que se trate.
 
 ###### Artículo 21.
 
@@ -302,6 +316,10 @@ IV. Vender o permitir el consumo de bebidas alcohólicas a los menores de edad; 
 V. Obsequiar o vender bebidas alcohólicas a los oficiales de tránsito, agentes de policía, militares y demás encargados de la seguridad pública cuando estén en servicio o porten uniforme, así como a los inspectores municipales, y
 
 VI. Vender o permitir el consumo de bebidas alcohólicas a los que visiblemente estén en estado de ebriedad, a los individuos que estén bajo los efectos de sicotrópicos, a personas con deficiencias mentales, o que estén armadas.
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+VII. Conservar en su establecimiento, envases vacíos de bebidas alcohólicas que su envase o recipiente tenga el atributo de ser no retornable, salvo los incorporados con fines decorativos.
 
 ### CAPÍTULO VI. DE LA UBICACIÓN DE LOS ESTABLECIMIENTOS
 
@@ -445,6 +463,14 @@ IV. Permitan juegos y apuestas prohibidos por la ley.
 
 V. Suministren datos falsos a las autoridades para el otorgamiento de la licencia.
 
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+VI. Conserve dentro de su establecimiento envases vacíos de bebidas alcohólicas que tengan el atributo de ser no retornables, salvo los incorporados con fines decorativos.
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+VII. Permitir que las bebidas con contenido alcohólico estén adulteradas, contaminadas o alteradas al momento de servirla, o de su venta.
+
 ###### Artículo 37.
 
 Se considerará conducta grave, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, la del servidor público que otorgue, autorice o expida licencias a sabiendas de que no se han cumplido los requisitos establecidos en la presente ley, en este caso, se cancelará la licencia respectiva y se clausurará además el establecimiento.
@@ -465,7 +491,13 @@ III. Por razones de interés público;
 
 IV. Cuando otorgada la licencia, no se inicien operaciones en un plazo de 180 días naturales, a partir de la fecha en que el titular recibió la licencia o permiso.
 
-Para la revocación de licencias se seguirá el procedimiento establecido en el artículo 316 de la Ley de Hacienda Municipal, tratándose de los giros señalados en el artículo 4° fracción II de la presente ley, y el señalado en el artículo 316 bis, en los giros especificados en la fracción I del mismo artículo.
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+La autoridad municipal podrá coordinarse con la Procuraduría Federal del Consumidor, para efectos de recibir información de los establecimientos verificados, en donde se hubiera comprobado la venta de bebidas alcohólicas que hayan estado adulteradas, contaminadas o alteradas, a efecto de revocar la licencia municipal.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+Para la revocación de licencias, tratándose de los giros establecidos en el artículo 4° fracción II, se seguirá el procedimiento establecido en el artículo 316 de la Ley de Hacienda Municipal; tratándose de los giros señalados en el artículo 4º fracción I, se aplicará lo señalado en el artículo 316 bis de la misma ley.
 
 ### CAPÍTULO X. DE LOS RECURSOS ADMINISTRATIVOS
 
@@ -530,3 +562,7 @@ DECRETO NUMERO 18001.
 P.O. 21 DE JULIO DE 2001.
 
 ÚNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE SEPTIEMBRE DE 2002.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
