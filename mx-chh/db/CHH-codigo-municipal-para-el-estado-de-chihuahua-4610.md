@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2003-01-11"
+last_updated: "2003-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2003.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -537,7 +537,11 @@ XVIII.- Vigilar, el mantenimiento y conservación del patrimonio municipal;
 
 XIX.- Dictar las disposiciones generales o particulares que tiendan a la conservación de los bienes ubicados en el Municipio, que tengan un valor relevante en el orden artístico, cultural o histórico y cuyo cuidado y conservación no corresponda a otra autoridad;
 
-XX.- Solicitar al Congreso del Estado la desafectación de un bien del dominio público y su cambio de destino;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2003)</small>
+
+XX.- Aprobar, por las dos terceras partes de los integrantes del Ayuntamiento y previo cumplimiento del procedimiento a que se refiere el artículo 110 de este Código, la incorporación, desincorporación o cambio de destino de un bien sujeto al régimen de dominio público municipal, exponiendo en el acta de Cabildo correspondiente, las razones que justifiquen dicho acto y que invariablemente, deben referirse al beneficio que el Municipio obtiene con dicha disposición y que se verificó que la medida no causa perjuicio a la comunidad.
+
+Cuando la desincorporación del régimen de dominio público tenga como finalidad la enajenación del bien, el producto de su enajenación no podrá destinarse al pago de gasto corriente.
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -1793,13 +1797,29 @@ Los derechos de tránsito, vistas, luces y otros semejantes se regirán por las 
 
 Al otorgamiento, ejecución, terminación y en general al régimen jurídico de las concesiones para el aprovechamiento de los bienes del dominio municipal, les serán aplicables en los (sic) conducente, las disposiciones de este Código, relativas a los contratos de obra y las concesiones de servicio público.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 110.
 
-La enajenación de bienes inmuebles del dominio público de los Municipios requiere su previa desafectación por el Congreso del Estado.
+Los bienes inmuebles destinados a oficinas de gobierno, así como las áreas culturales, deportivas y parques públicos municipales, que cuenten con infraestructura y estén en uso, requieren para su enajenación, la previa desafectación del régimen de dominio público decretada por el Congreso del Estado.
 
-Los Municipios al solicitar la desafectación a que se refiere el párrafo anterior, deberán acreditar en su escrito la justificación que dio origen a la enajenación.
+En los demás casos, los bienes del dominio público de los municipios podrán ser enajenados, cumpliendo previamente con lo que dispone la fracción XX, del artículo 28, de este Código, siempre y cuando se observe el siguiente procedimiento:
+
+I.- La Dirección de Desarrollo Urbano Municipal o la que corresponda, según el Ayuntamiento, emitirá un dictamen de factibilidad, aprobando o rechazando la solicitud, adjuntando al mismo lo siguiente:
+
+a) La documentación que acredite, indudablemente, la propiedad del inmueble a favor del municipio.
+
+b) La descripción y ubicación exacta del inmueble, con el plano catastral correspondiente.
+
+c) La naturaleza del régimen a que se encuentra afecto y su ubicación dentro de las hipótesis que se contemplan en este mismo Código.
+
+d) La justificación para incorporarlo, desincorporarlo, o cambiar su destino.
+
+> <small>(F. DE E., P.O. 25 DE OCTUBRE DE 2003)</small>
+
+II. Asimismo, el Síndico Municipal emitirá un dictamen sobre la factibilidad o no de la desincorporación, en cumplimiento de las atribuciones de vigilancia que le corresponden.
+
+Los bienes municipales a que hacen referencia la Ley del Patrimonio Cultural y la Ley Ecológica, ambas del Estado de Chihuahua, se regularán de conformidad con lo previsto en dichos ordenamientos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
@@ -3250,3 +3270,9 @@ A partir del segundo semestre del ejercicio 2003, quienes efectúen el pago del 
 ###### ARTÍCULO TERCERO.
 
 A partir de la aplicación de las disposiciones que establece el presente Decreto, entendida esta a partir del segundo semestre del año dos mil tres, el monto el monto (sic) del incremento en su caso del impuesto predial a pagar por los sujetos obligados de la relación tributaria, no podrá exceder en un diez por ciento, respecto al monto enterado, por el mismo bien, en el año inmediato anterior. Esta disposición operará en cada caso por año, hasta que se alcance el cien por ciento del impuesto a pagar, sin perjuicio de la actualización que pueda corresponder.
+
+P.O. 15 DE FEBRERO DE 2003.
+
+PRIMERO.- Los Procedimientos en trámite relativos a la desafectación de bienes, se sujetarán a las disposiciones legales vigentes.
+
+SEGUNDO.- El presente Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
