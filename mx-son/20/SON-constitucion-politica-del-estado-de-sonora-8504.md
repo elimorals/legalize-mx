@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1928-10-24"
+last_updated: "1932-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE OCTUBRE DE 1928.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 27 DE ABRIL DE 1932.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -1099,17 +1099,23 @@ I. Ser ciudadano mexicano en pleno ejercicio de sus derechos y tener cuando meno
 
 II. Tener la competencia necesaria a juicio del Supremo Tribunal, no haber sido condenado en juicio legal por ningún delito infamante y ser de reconocida moralidad.
 
+> <small>(REFORMADO, B.O. 27 DE ABRIL DE 1932)</small>
+
 ###### Artículo 125.
 
-Los Jueces Locales y los Menores, serán nombrados cada dos años, por los Jueces de Primera Instancia a propuesta de los Ayuntamientos, y podrán desempeñar sus cargos en períodos sucesivos.
+Los Jueces Locales y Menores serán nombrados cada dos años por los Jueces de Primera Instancia, con aprobación del Supremo Tribunal de Justicia del Estado y podrán ser reelectos.
 
-> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
+> <small>(REFORMADO, B.O. 27 DE ABRIL DE 1932)</small>
 
 ###### Artículo 126.
 
 Para ser Juez Local o Menor se requiere:
 
-Ser ciudadano mexicano en pleno ejercicio de sus derechos, tener la competencia necesaria a juicio del Juez de Primera Instancia que lo nombre y ser de reconocida buena conducta.
+I. Ser mexicano, ciudadano en pleno ejercicio de sus derechos y mayor de veinticinco y veintiún años respectivamente.
+
+II. No haber sido condenado a pena corporal por delitos del orden común y ser de reconocida buena conducta y moralidad.
+
+III. Tener la competencia necesaria a juicio del Juez que lo nombre.
 
 ###### Artículo 127.
 
@@ -1417,7 +1423,7 @@ Las próximas elecciones de Magistrados al Supremo Tribunal y de Procurador Gene
 
 DADO EN EL SALON DE SESIONES del Congreso Constituyente de Sonora, en la Villa de Magdalena, a los quince días del mes de Septiembre de mil novecientos diez y siete.
 
-PRESIDENTE, Clodoveo Valenzuela, Diputado Propietario por el Octavo Distrito Electoral.- VICE-PRESIDENTE, G. Corella, Diputado Propietario por el Segundo Distrito Electoral.- José Ma. V. Lizárraga, Diputado Propietario por el Primer Distrito Electoral.- F R. González, Diputado Suplente por el Cuarto Distrito Electoral.- A. R. Romo, Diputado Propietario por el Quinto Distrito Electoral.- Rosendo L. Galaz, Diputado Propietario por el Sexto Distrito Electoral.- J. E. León, Diputado Suplente por el Séptimo Distrito Electoral.- Alonso G. González, Diputado Propietario por el Noveno Distrito Electoral.- Vicente Rivera, Diputado Propietario por el Undécimo Distrito Electoral.- José Tirado, Diputado Propietario por el Décimo Tercero Distrito Electoral.- José A. Castro, Diputado Propietario por el Décimo Cuarto Distrito Electoral.- Ventura G. Tena, Diputado Propietario por el Décimo Quinto Distrito Electoral.- PRIMER SECRETARIO, Ant. G. Ribera, Diputado Propietario por el Décimo Distrito Electoral.- SEGUNDO SECRETARIO, A. Trujillo, Diputado Propietario por el Duodécimo Distrito Electoral.- SECRETARIO SUPLENTE, M. Othón, Diputado Propietario por el Tercer Distrito Electoral.
+PRESIDENTE, Clodoveo Valenzuela, Diputado Propietario por el Octavo Distrito Electoral.- VICE-PRESIDENTE, G. Corella, Diputado Propietario por el Segundo Distrito Electoral.- José Ma. V. Lizárraga, Diputado Propietario por el Primer Distrito Electoral.- F. R. González, Diputado Suplente por el Cuarto Distrito Electoral.- A. R. Romo, Diputado Propietario por el Quinto Distrito Electoral.- Rosendo L. Galaz, Diputado Propietario por el Sexto Distrito Electoral.- J. E. León, Diputado Suplente por el Séptimo Distrito Electoral.- Alonso G. González, Diputado Propietario por el Noveno Distrito Electoral.- Vicente Rivera, Diputado Propietario por el Undécimo Distrito Electoral.- José Tirado, Diputado Propietario por el Décimo Tercero Distrito Electoral.- José A. Castro, Diputado Propietario por el Décimo Cuarto Distrito Electoral.- Ventura G. Tena, Diputado Propietario por el Décimo Quinto Distrito Electoral.- PRIMER SECRETARIO, Ant. G. Ribera, Diputado Propietario por el Décimo Distrito Electoral.- SEGUNDO SECRETARIO, A. Trujillo, Diputado Propietario por el Duodécimo Distrito Electoral.- SECRETARIO SUPLENTE, M. Othón, Diputado Propietario por el Tercer Distrito Electoral.
 
 Por tanto, mando se imprima, publique y circule para su debido cumplimiento.
 
@@ -1468,6 +1474,10 @@ UNICO. Esta Ley principiará a surtir sus efectos desde la fecha de su publicaci
 B.O. 24 DE OCTUBRE DE 1928.
 
 Unico.- La reforma al artículo 31 de la expresada Constitución entrará en vigor al verificarse las elecciones de Diputados para el próximo período constitucional, y las demás, así como el Artículo 65 bis adicionado, cuando los electos entren legalmente en funciones.
+
+B.O. 27 DE ABRIL DE 1932.
+
+Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
 ###### ARTÍCULO ÚNICO.
 
