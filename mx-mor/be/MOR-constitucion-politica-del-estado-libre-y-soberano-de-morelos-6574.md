@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1989-04-19"
+last_updated: "1989-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 1989.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -1170,7 +1170,7 @@ Los servidores públicos a que se refiere el Artículo 74, de ésta Constitució
 
 DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1989)</small>
 
 ###### Artículo 79-A.
 
@@ -1210,7 +1210,7 @@ I.- Por los bienes públicos y privados propiedad del Estado.
 
 II.- Por los ingresos previstos anualmente en la Ley correspondiente.
 
-III.- Por el gasto público, que estará contenido en el Presupuesto de Egresos que en Ley se expida anualmente
+III.- Por el gasto público, que estará contenido en el Presupuesto de Egresos que en Ley se expida anualmente.
 
 IV.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980)
 
@@ -1220,7 +1220,7 @@ VI.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980)
 
 VII.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980)
 
-VIII.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980).
+VIII.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980)
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 1988)</small>
 
@@ -1288,9 +1288,11 @@ PRINCIPIOS GENERALES DE ADMINISTRACION PUBLICA.
 
 El ejercicio del Poder Judicial se deposita en el Tribunal superior de Justicia del Estado y en los Tribunales o Juzgados inferiores que establezca la Ley; pero su representación corresponderá siempre al Tribunal Superior.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1989)</small>
+
 ###### Artículo 87.
 
-La Ley establecerá y organizará los Tribunales, determinará sus atribuciones y marcará los procedimientos a que deban sujetarse los Magistrados y Jueces en el ejercicio de sus funciones.
+La Ley establecerá y organizará los Tribunales, garantizará la independencia de Magistrados y Jueces en el ejercicio de sus funciones, determinará sus atribuciones y marcará los procedimientos a que deberán sujetarse para ejercitarlas. Los nombramientos de los Magistrados y Jueces, serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la Profesión Jurídica.
 
 ###### Artículo 88.
 
@@ -1298,29 +1300,29 @@ Los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instanc
 
 ###### Artículo 89.
 
-El Tribunal Superior de Justicia del Estado se compondrá, cuando menos de cinco magistrados propietarios e igual número de suplentes, que durarán seis años en el ejercicio de su cargo, coincidiendo con el del Poder Ejecutivo. Sus nombramientos serán hechos por el Gobernador y sometidos a la aprobación del Congreso Local, el que otorgará o negará su aquiescencia dentro del improrrogable término de tres días, pero, si no resolviera en dicho plazo, se tendrán por aprobados. Sin la aprobación expresa o tácita del Congreso, los Magistrados no podrán tomar posesión de sus cargos.
+El Tribunal Superior de Justicia del Estado, se compondrá cuando menos de siete Magistrados Propietarios e igual número de Suplentes, que durarán seis años en el ejercicio de su cargo, el cual coincidirá con el del Poder Ejecutivo. Podrán ser reelectos, y si lo fueren sólo podrán ser privados de sus puestos en los términos del Título Séptimo de ésta Constitución. Sus nombramientos serán hechos por el Gobernador y sometidos a la aprobación del Congreso Local, el que decidirá al respecto dentro del improrrogable término de tres días; sino resolviera en dicho plazo, se tendrán por aprobados. Sin la aprobación expresa o tácita del Congreso, los Magistrados no podrán tomar posesión de sus cargos.
 
-En el caso de que la Cámara no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego como provisional, y que será sometido a la consideración del Congreso en el siguiente período ordinario de sesiones.
+En el caso de que la Cámara no apruebe dos nombramientos sucesivos respecto de una misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego como provisional y que será sometido a la consideración del Congreso en el siguiente Período Ordinario de Sesiones.
 
-En este período de sesiones, dentro los primeros cinco días, la Cámara deberá aprobar o reprobar el nombramiento, y si los aprueba o nada resuelve, el magistrado provisional continuará en sus funciones con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego en su ejercicio el magistrado nombrado provisionalmente, y el Gobernador someterá nuevo nombramiento a la Cámara, en los términos señalados.
+En éste Período de Sesiones, dentro de los primeros cinco días, la Cámara deberá resolver sobre el nombramiento; si lo aprueba o no resuelve, el Magistrado continuará en funciones con carácter definitivo. Si la cámara desecha el nombramiento, cesará de inmediato en su ejercicio el Magistrado nombrado provisionalmente y el Gobernador someterá un nuevo nombramiento a la Cámara, en los términos señalados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1989)</small>
 
 ###### Artículo 90.
 
-Para ser Magistrado Propietario o Suplente del Tribunal Superior de Justicia, se requiere:
+Para ser Magistrado, Propietario o Suplente, del Tribunal Superior de Justicia, se requiere:
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1976)</small>
+I.- Ser Ciudadano Mexicano por nacimiento, de preferencia morelense, y estar en pleno ejercicio de sus derechos políticos y civiles: (sic)
 
-I.- Ser ciudadano mexicano por nacimiento, estar en pleno ejercicio de sus derechos y tener residencia habitual en el Estado, no menor de diez años.
+II.- Haber residido en el Estado durante los últimos diez años, salvo el caso de ausencia por un tiempo máximo de seis meses, motivado por el desempeño del Servicio Público.
 
-II.- Ser Abogado con título expedido por Autoridad o corporación legalmente facultada para ello.
+III.- Poseer al momento de su designación, con antigüedad (sic) mínima de cinco años, Título de Licenciado en Derecho, expedido por la Autoridad o Institución legalmente facultada para ello: (sic)
 
-III.- Haber cumplido treinta años de edad.
+IV.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la designación.
 
-IV.- Tener seis años de ejercicio profesional por lo menos, o tres en la Judicatura.
+V.- Tener cinco años de ejercicio profesional por lo menos, o tres si se ha dedicado a la Judicatura.
 
-V.- Gozar de buena reputación y no haber sido condenado por delito que amerita pena corporal de más de un año de prisión, ni en juicio de responsabilidad a la destitución o suspensión de empleo; pero si se tratare de robo, fraude, falsificación, abuso de confianza o cualquier otro que lastime seriamente la reputación en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+VI.- Ser de reconocida honorabilidad y no haber sido condenado por delito intencional que merezca pena corporal de más de un año de prisión, o destituido o suspendido de empleo, si se trata de juicio de responsabilidad; pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que afecte seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
 ###### Artículo 91.
 
@@ -1356,9 +1358,13 @@ Las licencias de los Magistrados que no excedan de treinta días, serán concedi
 
 Las faltas absolutas de los Magistrados propietarios ó suplentes, se cubrirán mediante nombramientos en los términos del Artículo 89 anterior, y los designados durarán en ejercicio de su cargo hasta que finalice el período constitucional para el cual fueron elegidos los ausentes. Mientras se cumplan los trámites legales, ocuparán los puestos vacantes de los Magistrados propietarios, los suplentes, en el orden de su antigüedad.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1989)</small>
+
 ###### Artículo 98.
 
-Los Magistrados y Jueces no podrán ser removidos de sus respectivos encargos sino cuando observen mala conducta y previo juicio de responsabilidad; a menos que los Jueces sean promovidos a grado superior y sin perjuicio de la facultad que concede al Tribunal Superior la fracción XIII del artículos (sic) siguiente.
+Los Magistrados y Jueces percibirán una remuneración adecuada a su alta responsabilidad. Tal remuneración será irrenunciable y no podrá ser disminuida durante el ejercicio del cargo. Sólo podrán ser removidos de sus cargos cuando observen mala conducta y previo juicio de responsabilidad, sin perjuicio, por lo que a los Jueces se refiere, de la facultad que concede al Tribunal Superior, la Fracción XIII del Artículo siguiente.
+
+No se considerará remoción, el hecho de que los Jueces sean promovidos a grado superior.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -1442,11 +1448,11 @@ La Ley determinará los demás procedimientos que deban seguirse para el uso del
 
 Habrá el número de Jueces de Primera Instancia que ejercerán sus funciones en los ramos civil y penal en los Distritos Judiciales que determine la Ley.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1989)</small>
 
 ###### Artículo 103.
 
-Los jueces de Primera Instancia serán nombrados por el Tribunal Superior de Justicia, a propuesta en Terna del Ejecutivo, tendrán los requisitos que determine la Ley y durarán seis años en el ejercicio de sus funciones, coincidiendo con el período de Gobernador durante el cual se les designe.
+Los Jueves (sic) de Primera Instancia y los que con cualquiera otra denominación se designen, serán nombrados por el Tribunal Superior de Justicia del Estado, a propuesta en terna, del Titular del Poder Ejecutivo. Deberán reunir los requisitos que determine la Ley. Durarán seis años en el ejercicio de sus funciones cuyo inicio y término de los mismos, coincidirá con el Período del Titular del Poder Ejecutivo durante el cual se les designe, y tendrán la jurisdicción que les asigne la Ley Orgánica del Tribunal Superior de Justicia del Estado.
 
 ###### Artículo 104.
 
@@ -1520,7 +1526,7 @@ I.- La circunscripción geográfica de cada Municipio deberá establecerse de ta
 
 Los Municipios del Estado, cuando así fuere necesario y lo determinen las Leyes, con el concurso del Estado, tendrán a su cargo los siguientes Servicios Públicos:
 
-a).- Agua Potable y Alcantarillado,
+a).- Agua Potable y Alcantarillado;
 
 b).- Alumbrado Público;
 
@@ -2110,9 +2116,9 @@ UNICO.- El presente decreto entrará en vigor a partir del día siguiente al de 
 
 P.O. 29 DE DICIEMBRE DE 1983.
 
-DECRETO NUMERO 77
+DECRETO NO. 77
 
-PRIMERO.- El presente Decreto de reformas y adiciones a la Constitución Política del Estado libre y soberano de Morelos deberá cumplir con las formalidades establecidas en los Artículos 147 Fracciones I, II, III y 148 del mismo ordenamiento.
+PRIMERO.- El presente Decreto de reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Morelos deberá cumplir con las formalidades establecidas en los Artículos 147 Fracciones I, II, III y 148 del mismo ordenamiento.
 
 SEGUNDO.- Se derogan todas las disposiciones legales o reglamentarias que se opongan a este Decreto.
 
@@ -2197,3 +2203,17 @@ P.O. 19 DE ABRIL DE 1989.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico, "TIERRA Y LIBERTAD" Organo del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 21 DE JUNIO DE 1989.
+
+###### ARTICULO PRIMERO.
+
+En cumplimiento a lo que establece el Artículo 147, Fracción I de la Constitución Política del Estado de Morelos, remítase el presente Decreto a los Honorables Ayuntamientos del Estado, para sus efectos Constitucionales.
+
+###### ARTICULO SEGUNDO.
+
+La Reforma Constitucional aprobada por éste Congreso del Estado, y en caso de que reciba la aprobación de la mayoría de los Ayuntamientos del Estado, iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Organo del Gobierno del Estado, salvo lo que señala el Artículo 89, en su Primer Párrafo, respecto a la Inamovilidad Judicial, que iniciará su vigencia el día 18 de mayo del año de 1994.
+
+###### ARTICULO TERCERO.
+
+Una vez hecho el cómputo a que se refiere el Artículo 148, de la Constitución Política del Estado, y la declaración de haber sido aprobadas las adiciones y Reformas por los Ayuntamientos, remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos a que hacer referencia la Fracción XVII del Artículo 70, de la Constitución Política del Estado.
