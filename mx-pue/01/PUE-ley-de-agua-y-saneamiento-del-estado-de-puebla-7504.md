@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-agua-y-saneamiento-del-estado-de-puebla-7504"
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-28"
-last_updated: "1992-12-15"
+last_updated: "1994-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE AGUA Y SANEAMIENTO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 1994.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 28 de febrero de 1992.
 
@@ -273,9 +273,11 @@ Por cada miembro propietario deberá de haber un suplente, los representantes pr
 
 El libre nombramiento y remoción de los Presidentes Municipales como Vocales Propietarios, corresponderá a los Presidentes Municipales de las respectivas zonas que los eligieron.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 20.
 
-El Consejo sesionará trimestralmente, cuantas veces fuere convocado por su Presidente y a iniciativa o petición de seis o más de sus miembros y sus sesiones se regirán por las siguientes disposiciones:
+El Consejo sesionará trimestralmente, cuantas veces fuere convocado por su Presidente y a iniciativa o petición de dos de sus miembros y sus sesiones se regirán por las siguientes disposiciones:
 
 I.- Para la validez de las sesiones se requerirá la asistencia de la mayoría de sus integrantes, entre los cuales deberá de estar el Presidente.
 
@@ -310,6 +312,12 @@ VI.- Autorizar la contratación de los créditos que sean necesarios para la pre
 VII.- Proponer al Ejecutivo los proyectos de reglamentos de la Comisión Estatal.
 
 VIII.- Las demás que le asigne la presente Ley o que sean inherentes al logro de sus objetivos o que sean consecuencia o necesarios con objeto de hacer efectivas las anteriores.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 1994)</small>
+
+ARTICULO 23 BIS.- Para la vigilancia, control y evaluación del Organismo, la Secretaría de la Contraloría General del Estado designará un Comisario Público, que tendrá las atribuciones que a la misma Secretaría le otorgan, la Ley Orgánica de la Administración Pública del Estado, la Ley de Responsabilidades de los Servidores Públicos del Estado y las demás disposiciones legales aplicables.
+
+El Comisario Público, que tendrá un Suplente, asistirá a las Sesiones del Organismo, con voz pero sin voto.
 
 ###### ARTICULO 24.
 
@@ -1178,3 +1186,13 @@ N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRET
 P.O. 15 DE DICIEMBRE DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y tres.
+
+P.O. 22 DE JULIO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
