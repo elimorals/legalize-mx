@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2000-12-02"
+last_updated: "2001-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1151,9 +1151,9 @@ Se entiende por pandilla la reunión de tres o más personas que, sin estar orga
 
 Cuando el miembro de la pandilla sea ó haya sido, en los tres años anteriores a que forme parte de la pandilla, servidor público de alguna corporación policíaca, la pena se aumentará hasta en una tercera parte más de la que le corresponda por el o los ilícitos cometidos; y se impondrán, además, destitución del empleo, cargo o comisión públicos, e inhabilitación de uno a tres años, para desempeñar otro.
 
-### CAPITULO II. Corrupción de menores
+### CAPITULO II. Corrupción de menores e incapaces
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 1989)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2001)</small>
 
 ###### Art. 122.
 
@@ -1171,7 +1171,7 @@ Las mismas sanciones se aplicarán a las personas que sin ser pasajeros o de las
 
 ### CAPITULO III. Lenocinio
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ABRIL DE 2001)</small>
 
 ## TITULO CUARTO. DELITOS CONTRA LA AUTORIDAD
 
@@ -1261,9 +1261,27 @@ Se impondrán de tres meses a dos años de prisión:
 
 I. Al que fabrique, reproduzca o publique libros, escritos, imágenes y objetos obscenos y al que los exponga o, a sabiendas los distribuya, haga circular o transporte;
 
-II. Al que en sitio público y por cualquier medio ejecute, o haga ejecutar por otro u otros, exhibiciones obscenas o al que lo haga en privado, pero de manera que pueda ser visto por el público; y
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2001)</small>
 
-III. Al que invite a otro a la explotación carnal de su cuerpo.
+II. Al que en sitio público y por cualquier medio ejecute, y haga ejecutar por otro u otros, exhibiciones obscenas o al que lo haga en privado, pero de manera que pueda ser visto por el público;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2001)</small>
+
+III. Al que invite a otro a la explotación carnal de su cuerpo; y
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2001)</small>
+
+IV. Al que utilice una persona en espectáculos exhibicionistas o pornográficos.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2001)</small>
+
+Cuando la víctima del delito sea un menor de dieciocho años o incapaz, la pena será de ocho meses a seis años de prisión y multa de cincuenta a ciento veinte días de salario, para el caso de la fracción II; de dos a seis años de prisión y multa por el importe de cincuenta a ciento veinte días de salario, cuando se trate de lo señalado en la fracción III de este artículo; y, de 6 meses a 5 años de prisión y multa de trescientos a seiscientos días de salario, tratándose de lo establecido en la fracción IV.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2001)</small>
+
+Cuando el delito se cometa valiéndose de alguna relación de parentesco o autoridad sobre el menor de dieciocho años o incapaz, la pena se aumentará en una tercera parte de la que corresponda.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ABRIL DE 2001)</small>
 
 ### CAPITULO VI. Concusión
 
@@ -1271,17 +1289,21 @@ III. Al que invite a otro a la explotación carnal de su cuerpo.
 
 ###### Art. 136.
 
-Se impondrán de uno a cinco años de prisión, al que procure o facilite el deterioro de los conceptos o de los hábitos morales o materiales de una persona de cualquier sexo, menor de dieciocho años, de tal manera que ese deterioro deba considerarse negativo en comparación a las buenas costumbres o hábitos de orden ético social familiar que imperan en el Estado.
+Se impondrán de uno a cinco años de prisión y multa de cien a doscientos días de salario, al que procure o facilite el deterioro de los conceptos, valores o hábitos morales, o altere el desarrollo de la personalidad, de una persona, de cualquier sexo, menor de dieciocho años o incapaz, y que ese deterioro sea contrario a las buenas costumbres o hábitos de orden ético social familiar que imperen en el Estado.
 
-Serán considerados como corruptores, entre otros, los que inciten a la mendicidad o a la práctica de hábitos viciosos, a la ebriedad, a la depravación sexual de un púber o impúber o a la iniciación de éste en la vida sexual.
+Serán considerados como corruptores, entre otros, los que inciten a la mendicidad o a la práctica de hábitos viciosos, a la ebriedad, a la depravación sexual o a la iniciación en la vida sexual de un menor de 18 años o incapaz.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1995)</small>
+Si los actos de corrupción propician el hábito del alcoholismo, el uso de psicotrópicos, estupefacientes, enervantes, tóxicos o demás sustancias que produzcan efectos similares a los anteriores, la práctica de la prostitución o las de orden homosexual, la pena será incrementada en una cuarta parte de la que señala el primer párrafo de éste artículo.
 
-Si los actos de corrupción propician el hábito del alcoholismo, el uso de tóxicos y demás sustancias que produzcan efectos similares, la práctica de la prostitución o las de orden homosexual, la pena será incrementada en una cuarta parte más de la que le corresponda por este delito.
+Cuando se trate de los actos mencionados en el párrafo anterior y el sujeto activo del delito empleare cualquier tipo de violencia, o se valiese de alguna situación de mando, poder, función pública o autoridad que tuviere, la pena será de tres a siete años de prisión y multa de setenta a setecientos días de salario.
+
+Se aumentará en una cuarta parte de la pena que corresponda, cuando la víctima u ofendido de los delitos de este capítulo, sea menor de 12 años.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2001)</small>
 
 ###### Art. 137.
 
-Se impondrán de un mes a tres años de prisión y cierre temporal o definitivo del establecimiento, en caso de reincidencia, al que emplee menores de dieciocho años en cantinas, tabernas o centros de vicio.
+Se impondrán de un mes a tres años de prisión, multa por el importe de setenta a doscientos días de salario y cierre temporal o definitivo del establecimiento, al que por cualquier prestación en efectivo, especie o gratuitamente, utilice para beneficio propio o del establecimiento, los servicios de menores de dieciocho años en cantinas, tabernas o centros de vicio.
 
 ###### Art. 138.
 
@@ -1293,27 +1315,31 @@ Cuando el que corrompa o emplee al menor, sea pariente consanguíneo dentro del 
 
 ###### Art. 139.
 
-El delito de lenocinio se sancionará de uno a ocho años de prisión y multa por el importe de veinte a doscientos días de salario y lo comete quien:
+El delito de lenocinio se sancionará de cuatro a nueve años de prisión y multa por el importe de quinientos a dos mil días de salario y lo comete quien:
 
-I. Habitual o accidentalmente explote el cuerpo ajeno por medio del comercio carnal, se mantenga de este comercio u obtenga de él un lucro cualquiera;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2001)</small>
 
-II. Induzca, medie o solicite a una persona para que con otra comercie sexualmente con su cuerpo o le facilite los medios para que se entregue a la prostitución; y
+I. Explote el cuerpo ajeno por medio del comercio carnal, se mantenga de este comercio u obtenga de él un lucro cualquiera;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2001)</small>
+
+II. Induzca, promueva, facilite, medie consiga, entregue o solicite a una persona para que con otra comercie sexualmente con su cuerpo o le facilite los medios para que se entregue a la prostitución; y
 
 III. Regentee, administre o sostenga prostíbulos, casas de citas o lugares de concurrencia en donde se explote la prostitución u obtenga cualquier beneficio con sus productos.
 
 En cualquiera de los casos anteriores, si el reo tuviere alguna autoridad sobre la persona explotada, se le impondrá sanción de uno a ocho años de prisión, multa por el importe de cuatro a ciento noventa y seis días de salario y será privado de todo derecho sobre los bienes de aquella.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2001)</small>
 
 ###### Art. 140.
 
-Si la víctima del Lenocinio es menor de edad o incapaz mental, la pena será de seis a diez años de prisión, además de la multa mencionada en el primer párrafo del artículo precedente.
+Cuando la víctima sea menor de dieciocho años o incapaz o el delito se cometa valiéndose de alguna relación de parentesco o autoridad sobre estos, la pena será de seis a diez años de prisión, multa por el importe de mil a tres mil días de salario y será privado de todo derecho sobre la persona y los bienes de aquella.
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2001)</small>
 
 ###### Art. 141.
 
-Se impondrán de dos meses a tres años de prisión y multa por el importe de veinte a Doscientos días de salario al que, deliberadamente dedique o dé en arrendamiento una finca para ser destinada al comercio carnal.
+Se impondrán de dos a cinco años de prisión y multa por el importe de cien a mil días de salario al que deliberadamente dedique o dé en comodato o arrendamiento cualquier bien mueble o inmueble para ser destinada al comercio carnal.
 
 ### CAPITULO VIII. Desvío y Aprovechamiento Indebido de Atribuciones y Facultades
 
@@ -1381,7 +1407,7 @@ Cuando la revelación punible sea hecha por cualquier servidor público que pres
 
 ### CAPITULO UNICO. Explotación e Inducción a la Mendicidad
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ABRIL DE 2001)</small>
 
 ###### Art. 144.
 
@@ -1431,7 +1457,7 @@ V. Que sin habérsele admitido la renuncia de una comisión, empleo o cargo lo a
 
 VI. Que abandone, intencionalmente, servicios de vigilancia o custodia propiciando la comisión de un delito por su ausencia, independientemente de la penalidad que le resulte como coautor.
 
-### CAPITULO II. Estupro
+### CAPITULO II. Estupro y Prostitución Infantil
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1646,6 +1672,8 @@ Si el monto del beneficio obtenido excede del señalado en el párrafo anterior,
 ### CAPITULO VII. Adulterio
 
 ### CAPITULO VIII. Abandono de familiares
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2001)</small>
 
 ## TITULO DECIMO PRIMERO. DELITOS CONTRA LA SEGURIDAD Y LIBERTAD SEXUAL
 
@@ -1885,9 +1913,13 @@ Para los efectos de este Título, se entiende por falsedad toda alteración de l
 
 ###### Art. 172.
 
-Este delito lo comete, quien habitual o accidentalmente para beneficio propio o de terceros, se haga de dinero, cosas o valores, obligando o induciendo a menores, seniles, personas provenientes de etnias o con problemas de discapacidad física o psíquica, a obtenerlos por caridad pública.
+Este delito lo comete, quien habitual, eventual o accidentalmente para beneficio propio o de terceros, se haga de dinero, cosas o valores, obligando o induciendo a menores, seniles, personas provenientes de etnias o con problemas de discapacidad física o psíquica, a obtenerlos por caridad pública.
 
-Al autor de este delito se le impondrán de uno a tres años de prisión y multa de treinta a cien días de salario y trabajo en favor de la comunidad hasta por treinta jornadas.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2001)</small>
+
+Al autor de este delito se le impondrán de dos a cinco años de prisión, multa de cien a quinientos días de salario y de cincuenta a quinientas jornadas de trabajo a favor de la comunidad.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
 La pena se aumentará al doble de la ya señalada, cuando el inculpado sea integrante de asociación delictuosa, sin perjuicio de la pena que le corresponda por ese ilícito, o cuando al pasivo se le obligue a fingir ante la sociedad ser menesteroso, desvalido o indigente.
 
@@ -1903,6 +1935,8 @@ Si se hiciere uso de la violencia física o moral o participaren dos o más infr
 
 Este delito se perseguirá por querella de la parte ofendida o de su legítimo representante.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ABRIL DE 2001)</small>
+
 ### CAPITULO I. Disparo de arma de fuego sobre persona, ataque peligroso y maltrato al infante
 
 ###### Art. 174.
@@ -1912,6 +1946,12 @@ Se impondrá de un mes a tres años de prisión al que tenga cópula con mujer m
 Para los efectos de este artículo, se entiende por castidad el atributo de la mujer que guarda una conducta en el orden sexual, acorde con lo que socialmente se considera como buena. La honestidad se refiere a la reputación que la mujer obtiene por su buen comportamiento moral y material en lo que se relaciona con lo erótico. La seducción implica fascinación y el engaño consiste en la deformación de la verdad, ambos con miras a obtener del pasivo su conformidad para la cópula.
 
 Este delito se perseguirá por querella de la parte ofendida o de su legítimo representante. Cuando el acusado se case con la ofendida, cesará toda acción para perseguirlo y quedará sin efecto la sanción impuesta, salvo que se declare nulo el matrimonio.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2001)</small>
+
+###### Art. 174 Bis.
+
+Se impondrá de un mes a tres años de prisión y multa de cien a doscientos cuarenta días de salario a quien a cambio de cualquier prestación en dinero, especie o servicios, tenga relaciones sexuales con persona menor de dieciocho años o incapaz.
 
 ### CAPITULO II. Lesiones
 
@@ -2059,7 +2099,9 @@ Se impondrán de quince días a dos años de prisión al hombre o mujer que teng
 
 ###### Art. 183.
 
-Se impondrán de seis meses a dos años de prisión, independientemente de las sanciones a que se haga acreedor por otros delitos que resultaren, a quien sin motivo justificado incumpla respecto de sus hijos, cónyuge o de cualquier otro familiar con el que tenga obligación alimentaria, el deber de ministrarle los recursos suficientes para atender sus necesidades de subsistencia.
+Se impondrán de seis meses a dos años de prisión y de veinte a cien jornadas de trabajo a favor de la comunidad, independientemente de las sanciones a que se haga acreedor por otros delitos que resultaren, a quien sin motivo justificado incumpla respecto de sus hijos, cónyuge o de cualquier otro familiar con el que tenga obligación alimenticia, el deber de ministrarle los recursos suficientes para atender sus necesidades de subsistencia.
+
+Se impondrán de uno a cuatro años de prisión y de cincuenta a doscientas jornadas de trabajo a favor de la comunidad, cuando la víctima de este delito se trate de un menor de 7 años de edad.
 
 ###### Art. 184.
 
@@ -2141,7 +2183,7 @@ Se impondrán de seis meses a seis años de prisión al que exija para sí o par
 
 Si lo que se exigió fue la entrega de numerario, uno o más objetos o documentos y ésta se realiza, se impondrá la pena del delito de extorsión.
 
-### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
+### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2151,7 +2193,7 @@ Se impondrán de seis meses a dos años de prisión al que, sin motivo justifica
 
 Si en el allanamiento media la furtividad, el engaño o la violencia, la pena aplicable será de uno a tres años de prisión.
 
-### CAPITULO I. De las Definiciones
+### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2161,7 +2203,7 @@ Se impondrán de uno a ocho años de prisión y multa por el importe de cinco a 
 
 Las sanciones a que se refiere este artículo se impondrán independientemente de las penas que procedan por los demás delitos que resulten.
 
-### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
+### CAPITULO I. De las Definiciones
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2175,7 +2217,7 @@ II. Al que obligue a otro a prestar trabajos o servicios personales, ya sea empl
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ENERO DE 1999)</small>
 
-### CAPITULO VI. Disposiciones Comunes
+### CAPITULO IV. Delitos Cometidos por Representantes de Partido
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2269,7 +2311,7 @@ V. Efectúe el cambio de moneda nacional por divisas, sabiendo que es con el pro
 
 VI. Intimide a la víctima, a sus familiares hasta el segundo grado o a sus representantes o gestores durante o después del secuestro, para que no colaboren con las autoridades competentes.
 
-### CAPITULO IV. Delitos Cometidos por Representantes de Partido
+### CAPITULO V. Delitos cometidos por los Servidores Públicos
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2289,7 +2331,7 @@ Cuando el raptor se case con la ofendida, no se procederá contra él ni contra 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO V. Delitos cometidos por los Servidores Públicos
+### CAPITULO VI. Disposiciones Comunes
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -3157,7 +3199,7 @@ XII. Impida en forma violenta la instalación o cierre de una casilla; y
 
 XIII. Se presente en la casilla en plan intimidatorio, portando armas.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 268.
 
@@ -3215,6 +3257,8 @@ II. Condicione la prestación de un servicio público, el cumplimiento de progra
 
 III. Destine fondos, bienes o servicios que tenga a su disposición con motivo de su cargo tales como vehículos, inmuebles, equipos y servicios, al apoyo de un partido político o candidato, sin perjuicio de las penas que puedan corresponder por otros delitos, o proporcione ese apoyo con sus subordinados, usando el tiempo correspondiente a las labores de éstos para que lo presten al servicio de un partido político o candidato.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
+
 ###### Art. 271.
 
 Se impondrán hasta quinientos días multa, a los ministros de culto religioso que, en los edificios destinados al culto o en cualquier otro lugar, que por cualquier medio y en el desarrollo de actos propios de su ministerio induzcan al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención.
@@ -3264,8 +3308,6 @@ Por la comisión de cualesquiera de los delitos comprendidos en el presente cap�
 ###### Art. 278.
 
 Los responsables de los delitos contenidos en el presente capítulo por haber acordado o preparado su realización en los términos del artículo 11 de este Código, no podrán gozar del beneficio de la libertad provisional.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ## TRANSITORIOS
 
@@ -3482,3 +3524,7 @@ P.O. 23 DE SEPTIEMBRE DE 2000.
 P.O. 2 DE DICIEMBRE DE 2000.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 14 DE ABRIL DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
