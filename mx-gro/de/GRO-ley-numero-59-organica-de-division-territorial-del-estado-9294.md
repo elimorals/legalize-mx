@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-59-organica-de-division-territorial-del-estado-9294"
 country: "mx"
 rank: "ley"
 publication_date: "1944-12-20"
-last_updated: "1947-01-08"
+last_updated: "1947-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 59 ORGANICA DE DIVISION TERRITORIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1947.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1947.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 20 de diciembre de 1944.
 
@@ -103,17 +103,17 @@ II.- La Municipalidad de Igualapa comprende su Cabecera el pueblo de Igualapa y 
 
 Las cuadrillas de San José, Cruz Verde, Llano Grande, La Victoria, La Reforma (antes El Paraíso), y Colonia Enrique Rodríguez Cruz (antes Boca de Talapa).
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1945)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 1947)</small>
 
-III.- La Municipalidad de Tlacoachistlahuaca se compone de su Cabecera que lleva el mismo nombre y los pueblos de Cuananchinicha, San Cristóbal, San Gerónimo, El Terrero, Las Minas, San Martín, La Guadalupe, San Pedro, Cuit!apa, Yoloxochilt, Rancho Viejo, La Trinidad, Santa Cruz Yucunani y Jicayán de Tovar.
+III.- La Municipalidad de Tlacoachistlahuaca se compone de su Cabecera que lleva el mismo nombre y los pueblos de Cuananchinicha, San Cristobal, San Gerónimo, El Terrero, Las Minas, San Martín, La Guadalupe, San Pedro, Cuitlapa, Yoloxochilt, Rancho Viejo, La Trinidad, Santa Cruz Yucunani, Jicayán de Tovar y Huehuetonoc.
 
 Las cuadrillas de Cruz Alta, San Isidro y El Limón.
 
 Las Rancherías de Papaloapan y Tecoloapan.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1945)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 1947)</small>
 
-IV.- La Municipalidad de Xochistlahuaca comprende su Cabecera que lleva el mismo nombre y los pueblos de El Carmen, Cozoyoapan y Huehuetonoc.
+IV.- Las Municipalidades de Xochistlahuaca comprende su cabecera que lleva el mismo nombre y los pueblos de El Carmen y Cozoyoapan.
 
 Las Cuadrillas de San Miguel Tejalpan, Plan de Guadalupe, Cerro Verde Y La Soledad.
 
@@ -686,3 +686,9 @@ DECRETO NUMERO 104 BIS
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ENERO DE 1947.
+
+###### ARTICULO UNICO.
+
+El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
