@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-penales-del-estado-de-campeche-3386"
 country: "mx"
 rank: "codigo"
 publication_date: "1975-12-09"
-last_updated: "1994-08-31"
+last_updated: "1995-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1995.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el martes 9 de diciembre de 1975.
 
@@ -851,13 +851,21 @@ Siempre que un lesionado internado en un hospital público salga de él, los mé
 
 ### CAPITULO III. Aseguramiento del Inculpado
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
 ###### Artículo 142.
 
-Para que un juez pueda librar orden de aprehensión contra una persona, se requiere:
+Para que el Ministerio Público solicite y el Juez pueda librar orden de aprehensión contra una persona se requiere:
 
-I.- Que el Ministerio Público la haya solicitado;
+I.- Que preceda denuncia, acusación o querella;
 
-II.- Que se reúnan los requisitos fijados por el artículo 16 de la Constitución Federal.
+II.- Que se trate de hecho determinado que la Ley señale como delito;
+
+III.- Que ese hecho la Ley lo sancione con pena privativa de libertad;
+
+IV.- Que existan datos que acrediten los elementos que integren el tipo penal; y
+
+V.- Que existan datos que acrediten la probable responsabilidad del indiciado.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1994)</small>
 
@@ -914,6 +922,10 @@ VIII.- Asalto previsto en los artículos 251 y 252;
 IX.- Secuestro previsto en el artículo 331, exceptuándose las modalidades previstas en los párrafos penúltimo y último;
 
 X.- Robo previsto en la fracción IV del artículo 335, cuando se realice en la circunstancia señalada en el artículo 337, y en el artículo 347 todos del Código Penal;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1995)</small>
+
+X Bis.- Abigeato previsto en los artículos 349, 350, 351, 352, 353, 354 y 355 del Código Penal del Estado;
 
 XI.- Tortura previsto en el artículo 3 de la Ley para Prevenir y Sancionar la Tortura en el Estado; y
 
@@ -1823,7 +1835,9 @@ Las diligencias practicadas por el agente del Ministerio Público y por la polic
 
 Cuando aparezca de la averiguación previa que existe denuncia o querella, que se han reunido los requisitos previos que en su caso exija la ley y que se han acreditado los elementos del tipo penal y la probable responsabilidad del indiciado, el agente del Ministerio Público ejercitará la acción penal ante el órgano jurisdiccional que corresponda; éste radicará de inmediato el asunto, abriendo expediente en el que se resolverá lo que legalmente corresponda y practicará, sin demora alguna, todas las diligencias que resulten procedentes. Si la consignación es con detenido, deberá inmediatamente ratificar la detención, si ésta fuere constitucional; de no serlo decretará la libertad del detenido con las reservas de ley.
 
-Cuando la consignación sea sin detenido, el juez tendrá el plazo de tres días, contados a partir de la fecha en que se haya hecho la consignación, para dictar auto de radicación y dentro de los cinco días siguientes ordenará o negará la aprehensión, reaprehensión o comparecencia solicitada por el Ministerio Público. Tratándose de la comisión de delitos graves o de delincuencia organizada, el auto de radicación se dictará inmediatamente a la recepción de la consignación y la resolución que ordene o niegue la solicitud del Ministerio Público se dictará dentro de las veinticuatro horas siguientes.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+Cuando la consignación sea sin detenido, el Juez tendrá el plazo de tres días, contados a partir de la fecha en que se haya hecho la consignación, para dictar auto de radicación y dentro de los diez días siguientes ordenará o negará la aprehensión, reaprehensión o comparecencia solicitada por el Ministerio Público. Tratándose de la comisión de delitos graves o de delincuencia organizada, el auto de radicación se dictará inmediatamente a la recepción de la consignación y la resolución que ordene o niegue la solicitud del Ministerio Público se dictará dentro de las veinticuatro horas siguientes.
 
 En caso de que el juez omita, dentro de los plazos indicados, el dictado de las resoluciones respectivas, el agente del Ministerio Público podrá ocurrir en queja ante la Presidencia del Tribunal Superior, la que se tramitará con el simple escrito del ocurrente, el informe que el juez rinda en un plazo no mayor de tres días y la resolución que la presidencia dicte en un término no mayor de cinco días. De resultar cierta la queja, la presidencia concederá un plazo no mayor de tres días al juez para que dicte la resolución omitida y le impondrá sanción de cinco a diez días multa; de persistir el juez en su negativa la presidencia dispondrá que el secretario de acuerdos, en funciones de juez, dé cumplimiento a lo ordenado y al contumaz lo sancionará con suspensión del cargo de uno a tres meses, sin goce de sueldo. En ambos casos se pondrá nota de demérito en el expediente personal del juez.
 
@@ -1905,21 +1919,25 @@ Durante la instrucción, el juez que conozca del proceso deberá observar las ci
 
 El auto de formal prisión deberá dictarse dentro de setenta y dos horas, contadas desde que el inculpado esté a disposición del juez.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
 ###### Artículo 320.
 
-El auto a que se refiere el artículo anterior deberá reunir los siguientes requisitos:
+Todo auto de formal prisión deberá reunir los siguientes requisitos:
 
-I.- La fecha y la hora exacta en que se dicte;
+I.- Que se le haya tomado la declaración preparatoria al inculpado en los términos de Ley, o bien conste en el expediente que se negó a emitirla;
 
-II.- La expresión del delito imputado al inculpado por el Ministerio Público;
+II.- Que de lo actuado aparezcan datos suficientes que acrediten los elementos del tipo penal del delito por el cual deba seguirse el proceso;
 
-III.- El delito o delitos por los que deberá seguirse el proceso y la comprobación de sus elementos;
+III.- Que el delito sea sancionado con pena privativa de libertad;
 
-IV.- La expresión del lugar, tiempo y circunstancias de ejecución y demás datos que arroje la averiguación previa, que serán bastantes para tener por comprobado el cuerpo del delito;
+IV.- Que no esté acreditada alguna causa de licitud;
 
-V.- Todos los datos que arroje la averiguación, que hagan probable la responsabilidad del inculpado;
+V.- Que de lo actuado aparezcan datos suficientes que hagan probable la responsabilidad del indiciado;
 
-VI.- Los nombres del juez que dicte la determinación y del secretario que la autorice.
+VI.- La fecha y hora exacta en que se dicte; y
+
+VII.- Los nombres y firmas del juez que dicte la resolución y del secretario que la autorice.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1986)</small>
 
@@ -1927,9 +1945,11 @@ VI.- Los nombres del juez que dicte la determinación y del secretario que la au
 
 Cuando el delito cuya existencia se haya comprobado no merezca pena corporal, o mereciéndola ésta no exceda de un año, o esté sancionado con pena alternativa, se dictará auto con todos los requisitos del de formal prisión, sujetando a proceso a la persona contra quien aparezcan datos suficientes para presumir su responsabilidad, para el solo efecto de señalar el delito por el cual se siga el proceso.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
 ###### Artículo 322.
 
-Los autos a que se refieren los artículos anteriores se dictarán por el delito que aparezca comprobado, aún cuando con ello se cambie la apreciación legal que de los hechos se haya expresado en promociones y resoluciones anteriores.
+El Juez al dictar el auto de formal prisión o de sujeción a proceso, podrá cambiar la clasificación legal que de los hechos se hizo al ejercitarse la acción penal, siempre que funde debidamente tal modificación, atendiendo a las constancias de autos.
 
 ###### Artículo 323.
 
@@ -3256,3 +3276,11 @@ Primero.- El presente Decreto entrará en vigor el día tres de Septiembre del a
 Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 Tercero.- Queda a elección de los procesados y sentenciados el acogerse a lo que en su beneficio disponga el presente Decreto.
+
+P.O. 24 DE MAYO DE 1995.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se deroga (sic) todas las disposiciones legales y reglamentarias que se opongan a este decreto.
+
+Tercero.- Queda a la elección de los sentenciados el acogerse al beneficio que se contrae el artículo Primero de este decreto.
