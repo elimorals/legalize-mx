@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1947-10-11"
+last_updated: "1949-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE OCTUBRE DE 1947.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE ABRIL DE 1949.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -1105,9 +1105,11 @@ El Supremo Tribunal de Justicia funcionará en Salas Unitarias, que se distingui
 
 El Supremo Tribunal tendrá un Presidente, y lo será por turno, el Magistrado de cada Sala, comenzando con la Primera, en la forma que establezca la Ley.
 
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 1949)</small>
+
 ###### Artículo 119.
 
-Tendrá también un Secretario que autorice las resoluciones de las Salas.
+Tendrá también los Secretarios que fueren necesarios para el despacho de los asuntos de su competencia.
 
 ###### Artículo 120.
 
@@ -1121,7 +1123,9 @@ III. Decidir, conforme a la Ley, de las competencias de jurisdicción que se sus
 
 IV. Nombrar y remover a los Jueces de Primera Instancia conforme lo establezca la Ley.
 
-V. Nombrar y remover a su Secretario y a los empleados subalternos de éste.
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 1949)</small>
+
+V. Nombrar y remover a sus Secretarios y a sus empleados subalternos.
 
 VI. Nombrar y remover a los Visitadores de Juzgados.
 
@@ -1626,6 +1630,10 @@ B.O. 24 DE FEBRERO DE 1943.
 UNICO.- Esta Ley entrará en vigor a partir de su publicación en el Boletín Oficial del Estado.
 
 B.O. 11 DE OCTUBRE DE 1947.
+
+Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 20 DE ABRIL DE 1949.
 
 Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
