@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-transforma-al-organo-desconcentrado-denominado-10127"
 country: "mx"
 rank: "ley"
 publication_date: "1992-08-19"
-last_updated: "1992-08-19"
+last_updated: "1994-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10127&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE TRANSFORMA AL ORGANO DESCONCENTRADO DENOMINADO INSTITUTO DE CAPACITACION Y ADIESTRAMIENTO PARA EL TRABAJO INDUSTRIAL (I.C.A.T.I.), EN ORGANISMO DESCENTRALIZADO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE DICIEMBRE DE 1994
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de agosto de 1992.
 
@@ -39,9 +39,7 @@ D E C R E T A:
 
 LEY QUE TRANSFORMA AL ORGANO DESCONCENTRADO DENOMINADO INSTITUTO DE CAPACITACION Y ADIESTRAMIENTO PARA EL TRABAJO INDUSTRIAL (I.C.A.T.I.), EN ORGANISMO DESCENTRALIZADO
 
-### CAPITULO PRIMERO. De su Naturaleza Jurídica y
-
-de sus Objetivos
+### CAPITULO PRIMERO. De su Naturaleza Jurídica y de sus Objetivos
 
 ###### Artículo 1.
 
@@ -81,13 +79,37 @@ VI. Celebrar convenios de colaboración, investigación y asesoría con Instituc
 
 ### CAPITULO TERCERO (SIC). De su Organización Interna
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 5.
 
-El Consejo de Administración será el Órgano supremo de Gobierno, el cual estará integrado por un Presidente, un Vicepresidente, un Secretario, seis Vocales y un Comisario.
+El Instituto estará a cargo de:
+
+I. Un Consejo de Administración; y
+
+II. Un Director General.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 6.
 
-El Presidente del Consejo de Administración será el C. Gobernador del Estado; el Vicepresidente, el C. Secretario del Trabajo y de la Previsión Social; el Secretario, los Vocales y el Comisario, las personas que designe el C. Gobernador a propuesta del Secretario del Trabajo, y de la Previsión Social, en los dos primeros casos, y a propuesta del Secretario de la Contraloría, en el último caso. Invariablemente agregar un representante del Sector Empresarial y uno del Sector Obrero, a propuesta del Sector Industrial Privado, el primero y a propuesta de los organismos representativos de los trabajadores el segundo.
+El Consejo de Administración será el órgano de gobierno del Instituto y estará integrado por:
+
+I. Un Presidente, que será el Secretario del Trabajo y de la Previsión Social;
+
+II. Un Vicepresidente, que será designado por el Gobernador a propuesta del Presidente;
+
+III. Un Secretario designado por el Gobernador a propuesta del titular de la Secretaría del Trabajo y de la Previsión Social;
+
+IV. Seis vocales designados por el Gobernador a propuesta del titular de la Secretaría del Trabajo y de la Previsión Social.
+
+V. Un Comisario designado por el Gobernador a propuesta del Secretario de la Contraloría;
+
+VI. Dos representantes del Gobierno Federal designados por el Secretario de Educación Pública;
+
+VII. Dos representantes empresariales a propuesta del sector industrial privado; y
+
+VIII. Dos representantes del sector social a propuesta de los organismos representativos de los trabajadores.
 
 ###### Artículo 7.
 
@@ -95,9 +117,11 @@ Por cada miembro propietario, se nombrará un suplente, con excepción del Presi
 
 Las ausencias del Presidente, serán cubiertas por el Vicepresidente.
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 8.
 
-Los miembros del Consejo de Administración durarán en su cargo un período de dos años, al término del cual deberán ser ratificados o removidos, con excepción del Presidente del Consejo que permanecerá por el tiempo que dure su mandato como Gobernador del Estado.
+Los miembros del Consejo de Administración durarán en su encargo dos años, al término de los cuales deberán ser ratificados o removidos, con excepción del Presidente, quien permanecerá por el tiempo que dure al frente de la Secretaría.
 
 ###### Artículo 9.
 
@@ -125,9 +149,11 @@ VII. Delegar facultades generales y específicas en sus Directivos y apoderados.
 
 VIII. Las demás que se deriven de la presente ley y de los Ordenamientos Jurídicos correlativos.
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 11.
 
-El Director General del I.C.A.T.I., será nombrado por el Consejo de Administración, a propuesta del Gobernador del Estado, quien tendrá las facultades que le otorga la presente Ley, y el Reglamento Interior del Organismo.
+El Director General del ICATI será nombrado por el Consejo de Administración, a propuesta del Secretario del Trabajo y de la Previsión Social, quien tendrá las facultades que le otorga la presente Ley y el Reglamento Interior del Organismo.
 
 ###### Artículo 12.
 
@@ -177,9 +203,11 @@ V. Las contribuciones que aparte el Sector Privado, a través de un patronato, c
 
 El Instituto de Capacitación y Adiestramiento para el Trabajo Industrial, estará sujeto a la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y sus respectivos Reglamentos.
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 15.
 
-Las relaciones de trabajo entre el Organismo y sus trabajadores, se regirán por el Estatuto Jurídico de los Trabajadores al Servicio de los Poderes del Estado, Municipios y Organismos Coordinados y Descentralizados de carácter Estatal.
+Las relaciones de trabajo entre el Instituto y sus trabajadores, se regirán por la ley de la materia.
 
 T R A N S I T O R I O S
 
@@ -214,3 +242,11 @@ EL SECRETARIO DEL TRABAJO
 LIC. LUIS RIVERA MONTES DE OCA
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 29 DE DICIEMBRE DE 1994.
+
+PRIMERO.- Publíquese este decreto en la Gaceta del Gobierno.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta del Gobierno.
