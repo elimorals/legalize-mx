@@ -4,7 +4,7 @@ identifier: "CHH-decreto-que-crea-el-instituto-chihuahuense-de-las-mujeres-26971
 country: "mx"
 rank: "decreto"
 publication_date: "2002-08-28"
-last_updated: "2002-08-28"
+last_updated: "2002-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 DECRETO QUE CREA EL INSTITUTO CHIHUAHUENSE DE LA MUJER.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2002.
 
 Decreto publicado en el Periódico Oficial, el miércoles 28 de agosto de 2002.
 
@@ -375,11 +375,11 @@ VI.- Otros bienes, recursos y derechos que por cualquier título legal adquiera.
 
 ### CAPÍTULO SÉPTIMO. RÉGIMEN LABORAL
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 26.
 
-Los trabajadores al servicio del Instituto estarán sujetos a lo que establece la primera parte del Libro Único, Título Cuarto del Código Administrativo del Estado que regula las relaciones del Estado con sus trabajadores, así como al reglamento interior y a las disposiciones que emitan los órganos de gobierno del propio Instituto, en los términos de la presente ley.
-
-En cuanto a los integrantes del Consejo Consultivo, se estará a lo dispuesto en el último párrafo del artículo 20. Lo mismo se observará respecto de los integrantes del Consejo Directivo en cuanto a su participación en el Instituto.
+Los trabajadores al servicio del Instituto, estarán sujetos en sus relaciones laborales, a lo dispuesto por el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y su Ley reglamentaria, así como al reglamento interior y a las disposiciones que emitan los órganos de gobierno del propio Instituto, en los términos de la presente Ley.
 
 ###### ARTÍCULO 27.
 
@@ -420,3 +420,9 @@ C.P. PATRICIO MARTINEZ GARCÍA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. SERGIO ANTONIO MARTINEZ GARZA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
+
+P.O. 21 DE DICIEMBRE DE 2002.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Ofiical (sic) del Estado.
