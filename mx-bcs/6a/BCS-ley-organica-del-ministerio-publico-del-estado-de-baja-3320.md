@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-ministerio-publico-del-estado-de-baja-3320"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1991-06-20"
+last_updated: "1992-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MAYO DE 1992.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1976.
 
@@ -77,7 +77,7 @@ V. Citar, a efecto de que rindan su declaración, a los denunciantes y demás pe
 
 VI. Practicar las diligencias pertinentes para la recta y expedita administración de justicia.
 
-VII. Recabar de los funcionarios y empleados del Gobierno del Estado, las manifestaciones de sus bienes, tanto al tomar posesión de sus cargos como al dejarlos.
+VII. (DEROGADA, B.O. 20 DE MAYO DE 1992)
 
 VIII. Intervenir, en los casos y términos que prescriban las leyes, en la readaptación social de los delincuentes.
 
@@ -121,25 +121,33 @@ I. Un Procurador General de Justicia, Jefe del Ministerio Público del Fuero Com
 
 II. Un Subprocurador, substituto del Procurador General de Justicia.
 
-III. Los Agentes del Ministerio Público Auxiliares, Adscritos a la Procuraduría General de Justicia del Estado.
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1992)</small>
 
-IV. Un Director de Averiguaciones Previas y de Control de procesos; Agente del Ministerio Público.
+III. Un Director de Averiguaciones Previas y de Control de Procesos, Agente del Ministerio Público.
 
-> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1991)</small>
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1992)</small>
 
-V. Un Subdirector de Averiguaciones Previas.
+IV. Un Director de Servicios Periciales.
 
-> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1991)</small>
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1992)</small>
 
-VI. Un Subdirector de Control de Procesos.
+V. Un Director de la Policía Judicial.
 
-VII. Los Agentes del Ministerio Público investigadores y adscritos a los Juzgados y al Tribunal Superior de Justicia.
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1992)</small>
 
-VIII. Un Director de servicios periciales.
+VI. Los Agentes del Ministerio Público investigadores y adscritos a los Juzgados y al Tribunal Superior de Justicia.
 
-IX. Un Director de la Policía Judicial.
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1992)</small>
 
-X. Los Jefes de Oficina y demás personal que señale el Presupuesto.
+VII. Los Agentes del Ministerio Público adscritos al Procurador General de Justicia.
+
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1992)</small>
+
+VIII. Los Agentes Auxiliares del Ministerio Público.
+
+> <small>(ADICIONADA, B.O. 20 DE MAYO DE 1992)</small>
+
+IX. Los Subdirectores, Jefes de Oficina y demás personal que señale el presupuesto.
 
 ###### ARTICULO 10o.
 
@@ -175,19 +183,23 @@ IV. Tener un modo honesto de vivir.
 
 V. No haber sido condenado por delitos intencionales.
 
+> <small>(REFORMADO, B.O. 20 DE MAYO DE 1992)</small>
+
 ###### ARTICULO 15.
 
-Oyendo la opinión del Gobernador del Estado, el Procurador hará las designaciones y remociones, tanto de funcionarios como de empleados dependientes de la Procuraduría, para todos los efectos legales que correspondan, sin perjuicio de las disposiciones aplicables en materia de los trabajadores al servicio del Estado.
+Oyendo la opinión del Gobernador del Estado, el Procurador General de Justicia, hará las designaciones y remociones, de los servidores públicos de la Procuraduría, para todos los efectos legales que correspondan, sin perjuicio de las disposiciones aplicables en materia de los trabajadores al servicio del Estado.
 
 ###### ARTICULO 16.
 
 Los nombramientos se obtendrán previo concurso de méritos u oposición entre los aspirantes, a quienes se requerirá examen de admisión, que practicará la Institución.
 
+> <small>(REFORMADO, B.O. 20 DE MAYO DE 1992)</small>
+
 ###### ARTICULO 17.
 
-Los Agentes del Ministerio Público sólo podrán ser destituidos de sus cargos por ineptitud, mala conducta o por alguna de las causas de responsabilidades establecidas en las leyes del Estado.
+Los Agentes del Ministerio Público solo podrán ser destituidos de sus cargos por ineptitud, mala conducta o por alguna de las causas de responsabilidad establecidas en las leyes del Estado.
 
-En caso de notoria y grave responsabilidad, podrá el Procurador destituirlo desde luego en su cargo al funcionario o empleado responsable, sin perjuicio de que se ejercite en su contra la acción correspondiente.
+En caso de notoria y grave responsabilidad, podrá el Procurador General de Justicia, destituir, desde luego en su cargo al servidor público responsable sin perjuicio de que se ejercite en su contra la acción correpondiente (sic).
 
 ###### ARTICULO 18.
 
@@ -205,9 +217,11 @@ III. Ser Licenciado en Derecho, con título legalmente expedido.
 
 El Procurador podrá dispensar el requisito del título a los Agentes del Ministerio Público, cuando las necesidades del servicio así lo requieran.
 
+> <small>(REFORMADO, B.O. 20 DE MAYO DE 1992)</small>
+
 ###### ARTICULO 20.
 
-Los Agentes Auxiliares, además de reunir los requisitos señalados en el artículo anterior, deberán tener cuando menos dos años de ejercicio profesional.
+Los Agentes adscritos al Procurador además de reunir los requisitos señalados en el artículo anterior, deberán tener cuando menos dos años de ejercicio profesional.
 
 ###### ARTICULO 21.
 
@@ -269,7 +283,13 @@ I. Las del Procurador General de Justicia, por el Subprocurador y a falta de és
 
 II. Las del Subprocurador, por el Director de Averiguaciones Previas y de Control de Procesos.
 
-III. Las de los Directores, Agentes del Ministerio Público y del resto del personal por quienes designe el Procurador General de Justicia.
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1992)</small>
+
+III. Las del Director de Averiguaciones Previas y Control de Procesos y del Director de la Policía Judicial, por los Subdirectores respectivos.
+
+> <small>(ADICIONADA, B.O. 20 DE MAYO DE 1992)</small>
+
+IV. Las de los Agentes del Ministerio Público, por los Agentes Auxiliares del Ministerio Público y las del resto del personal por quienes designe el Procurador General de Justicia.
 
 > <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
 
@@ -277,9 +297,11 @@ III. Las de los Directores, Agentes del Ministerio Público y del resto del pers
 
 En las Agencias del Ministerio Público que funcionen fuera de la Capital del Estado, las faltas temporales de los Agentes se suplirán por el que designe el Procurador General de Justicia y en su defecto, por las Autoridades mencionadas en el Artículo 23 y en el orden que ahí se establece.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE MAYO DE 1992)</small>
+
 ###### ARTICULO 26.
 
-Ningún nombramiento de funcionario o empleado del Ministerio Público podrá recaer en ascendiente, descendiente, cónyuges o colaterales dentro del primer grado por consanguinidad o afinidad, del funcionario que haga la designación.
+Ningún nombramiento de servidor público del Ministerio Público podrá recaer en ascendiente, descendiente, cónyuge o colaterales dentro del primero y segundo grado por consaguinidad (sic), o afinidad, del servidor público que haga la designación.
 
 La inobservancia de esta disposición es motivo de responsabilidad de quien tenga a su cargo la expedición del nombramiento.
 
@@ -289,17 +311,21 @@ La inobservancia de esta disposición es motivo de responsabilidad de quien teng
 
 No podrá recaer ningún nombramiento en personas impedidas físicamente o con enfermedades transmisibles que les dificulte gravemente el desempeño de las funciones respectivas.
 
+> <small>(REFORMADO, B.O. 20 DE MAYO DE 1992)</small>
+
 ###### ARTICULO 28.
 
-Todo personal que fuera nombrado para desempeñar algún cargo o empleo, deberá prestar la protesta de ley y comenzar a ejercer las funciones que le corresponden, dentro de los tres días siguientes al de la fecha de nombramiento. Si no se presentare, el nombramiento se tendrá por no hecho y se procederá a hacer una nueva designación. Tratándose de funcionarios que deban trasladarse para tomar posesión de su puesto a lugares foráneos, al plazo señalado deberá agregarse el término que fije la autoridad que hizo la designación.
+Todo personal que fuera nombrado para desempeñar algún cargo o empleo, deberá prestar la protesta de ley y comenzar a ejercer las funciones que le correspondan, dentro de los tres días al de la fecha del nombramiento. Si no se presentare, el nombramiento se tendrá por no hecho y se procederá a hacer una nueva designación. Tratándose de servidores públicos que deban trasladarse para tomar posesión de su cargo a lugares foráneos. El plazo señalado, deberá agregarse al término que fija la autoridad que hizo la designación.
 
 ### CAPITULO TERCERO. EXCUSAS E INCOMPATIBILIDADES
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 29.
 
-Los funcionarios del Ministerio Público no son recusables; pero deben excusarse en los negocios en que intervengan cuando exista alguna de las causas que motiva la excusa de los jueces.
+Los servidores públicos del Ministerio Público no son recusables, pero deben excusarse en los negocios en que intervengan cuando exista alguna de las causas que motiva la excusa de los jueces, y las que establezca la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Baja California Sur.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
 
 La inobservancia de esta disposición es motivo de responsabilidad oficial.
 
@@ -311,11 +337,11 @@ El Gobernador del Estado calificará las excusas del Procurador, y éste las del
 
 (DEROGADO, B.O. 10 DE JULIO DE 1981)
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
+> <small>(REFORMADO, B.O. 20 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 32.
 
-Los funcionarios y empleados del Ministerio Público, no podrán desempeñar ningún otro empleo o cargo, público o privado, ni ejercer la abogacía, sino en causa propia de su esposa o de sus hijos. Quedan exceptuados de esta disposición los cargos docentes o de beneficencia, cuyo desempeño no perjudique las funciones o labores propias de la Institución.
+Los servidores públicos del Ministerio Público no podrán desempeñar ningún otro empleo o cargo público o privado, ni ejercer la abogacía, salvo en causa propia, de su cónyuge o de sus hijos. Quedan exceptuados de esta disposición los cargos docentes o de beneficiencia (sic), cuyo desempeño no perjudiquen las funciones o labores propias de la Institución.
 
 ## TITULO TERCERO. FACULTADES Y OBLIGACIONES DE LOS FUNCIONARIOS DEL MINISTERIO PUBLICO
 
@@ -329,13 +355,17 @@ I. Investigar la comisión de delitos y violaciones a las leyes de interés púb
 
 II. Intervenir por sí mismo, cuando lo juzgue necesario o lo acuerde el Gobernador del Estado, en los asuntos judiciales del Fuero Común, en que el Ministerio Público, conforme a la Ley, debe ser oído.
 
-III. Dar a los funcionarios y empleados de la Procuraduría las instrucciones generales o especiales que estime conveniente para el cumplimiento de sus deberes y para la unidad, eficacia y rapidez de la función del Ministerio Público.
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1992)</small>
+
+III. Dar a los servidores públicos de la Procuraduría, mediante acuerdos y circulares por escrito las instrucciones generales o especiales que estime convenientes para el cumplimiento de sus deberes y para la unidad, eficacia y rapidez de la función del Ministerio Público.
 
 IV. Investigar con especial diligencia, las detenciones arbitrarias que se cometan, promover su castigo y adoptar las medidas legales pertinentes para hacerlas cesar.
 
 V. Hacer del conocimiento del Tribunal Superior de Justicia y del Gobernador del Estado, los abusos o irregularidades graves que advierta en los Juzgados o Tribunales, para los efectos de los artículos 79, fracción VII y 101 de la Constitución Política del Estado.
 
-VI. Pedir que se haga efectiva la responsabilidad en que hubieran incurrido los funcionarios y empleados del Ministerio Público y de la administración de Justicia del Estado por los delitos o faltas oficiales que cometieren en el desempeño de sus cargos.
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1992)</small>
+
+VI. Hacer efectiva, ante quien corresponda la responsabilidad en que hubieren incurrido los servidores públicos del Ministerio Público y de la Administración de Justicia del Estado, por los delitos o faltas oficiales que cometieran en el desempeño de sus cargos.
 
 VII. Nombrar el personal de la Institución, concederle licencia o vacaciones en los términos de ley.
 
@@ -347,7 +377,9 @@ X. Presentar al Gobernador un informe o memoria anual, sobre los trabajos realiz
 
 XI. Recibir las quejas por demoras, excesos o faltas en el despacho de los asuntos en que intervenga el personal de la Institución.
 
-XII. Calificar las excusas que presenten los funcionarios o empleados de la Institución para intervenir en determinado asunto.
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1992)</small>
+
+XII. Calificar las excusas que presenten los servidores públicos de la Institución para intervenir en determinado asunto, apegándose extrictamente (sic) a lo estipulado por el artículo 29 de la presente Ley.
 
 XIII. Acordar con el Gobernador del Estado los principales asuntos de la Institución.
 
@@ -391,11 +423,11 @@ El Procurador no podrá delegar sus facultades en los casos en que la ley o el G
 
 ### CAPITULO SEGUNDO. DEL SUBPROCURADOR
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 35.
 
-Son facultades y obligaciones del Subprocurador:
+Son facultades del Subprocurador:
 
 I. Suplir en sus funciones al Procurador, en los casos previstos en esta Ley.
 
@@ -435,9 +467,9 @@ XII. Desahogar las consultas que formulen los Agentes del Ministerio Público ad
 
 XIII. En general, atender y orientar al público acerca de los derechos y obligaciones de los particulares frente a la propia Institución, especialmente a las víctimas de los delitos, con propósitos tutelares y preventivos.
 
-> <small>(ADICIONADA, B.O. 10 DE JULIO DE 1981)</small>
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1992)</small>
 
-XIV. Tramitar todo lo relativo a nombramientos, ascensos, renuncias, remociones, cambios de adscripción, licencias, vacaciones y todos los documentos de identificación para el personal de la Procuraduría, por acuerdo del Procurador General de Justicia. En ningún caso se acreditará como funcionario o empleado de la Institución, mediante la credencial o placa respectiva, a quien no preste servicios en la misma.
+XIV. Tramitar todo lo relativo a nombramientos, ascensos, renuncias, remociones, cambios de adscripción, licencias, vacaciones, así como todos los documentos de identificación para el personal de la Procuraduría, por acuerdo del Procurador General de Justicia, en ningún caso se acreditará como servidor público de la Institución, mediante la credencial o placa respectiva, quien no preste servicios en la misma.
 
 > <small>(ADICIONADA, B.O. 10 DE JULIO DE 1981)</small>
 
@@ -463,11 +495,15 @@ XIX. Las demás que le señalen las Leyes, los Reglamentos y el Procurador Gener
 
 Para el efecto de cumplir con las facultades y obligaciones señaladas en el artículo anterior, en la Sub-Procuraduría se llevará un expediente de cada uno de los distintos negocios Judiciales que se tramiten ante los Tribunales del Fuero Común, que contendrá, cuando menos, las copias siguientes: de la averiguación previa y el pliego de consignación; de la declaración preparatoria; del auto de formal prisión o del de libertad por falta de méritos; de los recursos interpuestos; de los pedimentos formulados; de las conclusiones; de las resoluciones incidentales o substanciales que se dicten; de la demanda; contestación de la demanda; ofrecimiento de pruebas; pedimentos procedentes; recursos; y demás documentos o resoluciones de importancia.
 
-### CAPITULO TERCERO. DE LOS AGENTES AUXILIARES
+> <small>(REFORMADA SU DENOMINACION, B.O. 20 DE MAYO DE 1992)</small>
+
+### CAPITULO TERCERO. DE LOS AGENTES DEL MINISTERIO PUBLICO ADSCRITOS AL PROCURADOR GENERAL DE JUSTICIA
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 37.
 
-Son facultades y obligaciones de los Agentes Auxiliares:
+Son facultades y obligaciones de los Agentes del Ministerio Público adscritos al Procurador General de Justicia:
 
 I. Dictaminar sobre los asuntos que reciba la Procuraduría para su revisión y consulta.
 
@@ -513,7 +549,9 @@ III. Ejercitar la acción penal solicitando, en su caso, la orden de aprehensió
 
 IV. Vigilar la secuela de las averiguaciones que se practiquen en todo el Estado por los Agentes del Ministerio Público, girando las instrucciones conducentes.
 
-V. Revisar y aprobar el trámite de las averiguaciones previas, que remitan en consulta los Agentes del Ministerio Público, cuando en ellas se propongan los acuerdos de consulta de archivo, de reserva, suspensión, incompetencia o acumulación de las averiguaciones y también en los casos en que estos funcionarios estimen necesario conocer la opinión del Director.
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1992)</small>
+
+V. Revisar y aprobar el trámite de las averiguaciones previas, que remitan en consulta a los Agentes del Ministerio Público, cuando en ellas se propongan los acuerdos de consulta de archivo, de reserva, suspensión, incompetencia o acumulación de las averiguaciones y también en los casos en que estos servidores públicos estimen necesario conocer la opinión del Director.
 
 VI. Llevar, con las constancias que se estimen necesarias, copias de los expedientes relativos a las averiguaciones previas.
 
@@ -607,9 +645,13 @@ V. Dictar las resoluciones procedentes, los acuerdos de reserva, suspensión, in
 
 VI. Las demás que se atribuyan las Leyes, los reglamentos y el Procurador General de Justicia del Estado.
 
-### CAPITULO OCTAVO. DIRECCION DE POLICIA JUDICIAL
+> <small>(ADICIONADO, B.O. 20 DE MAYO DE 1992)</small>
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
+ARTICULO 39 BIS.- Los Agentes Auxiliares del Ministerio Público, tendrán las mismas facultades y obligaciones de los Agentes del Ministerio Público, cuando los suplan en sus faltas temporales; pero actuarán bajo la Dirección de aquellos cuando actúen como auxiliares.
+
+### CAPITULO SEPTIMO. DIRECCION DE SERVICIOS PERICIALES
+
+> <small>(REFORMADO Y REUBICADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ###### ARTICULO 40.
 
@@ -667,9 +709,9 @@ En los lugares que haya un solo Agente del Ministerio Público, éste fungirá c
 
 > <small>(ADICIONADO, B.O. 10 DE JULIO DE 1981)</small>
 
-### CAPITULO SEPTIMO. DIRECCION DE SERVICIOS PERICIALES
+### CAPITULO OCTAVO. DIRECCION DE POLICIA JUDICIAL
 
-> <small>(REFORMADO Y REUBICADO, B.O. 10 DE JULIO DE 1981)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ###### ARTICULO 42.
 
@@ -713,6 +755,8 @@ Los servicios periciales se prestarán a pedimento de las autoridades judiciales
 
 En caso de que se solicite el servicio por otra autoridad o institución, se prestará cuando lo acuerde el Procurador.
 
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 1981)</small>
+
 ### CAPITULO UNICO
 
 ###### ARTICULO 46.
@@ -729,7 +773,9 @@ Son facultades y obligaciones de la Policía Judicial, como órgano auxiliar del
 
 I. Investigar los hechos delictuosos de que tenga conocimiento acatando instrucciones del Ministerio Público, y procediendo de acuerdo a lo dispuesto en el artículo sexto de esta ley.
 
-II. Bajo las órdenes de los funcionarios del Ministerio Público, buscar las pruebas de la existencia de los delitos y las que tiendan a determinar la responsabilidad de quienes en ellos participen.
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1992)</small>
+
+II. Bajo las ordenes de los servidores públicos del Ministerio Público, buscar las pruebas de la existencia de los delitos y las que tiendan a determinar la responsabilidad de quienes en ellos participen.
 
 III. Ejecutar las órdenes de aprehensión que le transcriban los Agentes del Ministerio Público y las de cateo que la Autoridad Judicial determine.
 
@@ -737,9 +783,11 @@ IV. Cumplir las órdenes o instrucciones que reciban de sus superiores.
 
 V. Las demás que le señalen las leyes, los reglamentos y el Procurador.
 
+> <small>(REFORMADO, B.O. 20 DE MAYO DE 1992)</small>
+
 ###### ARTICULO 49.
 
-La Policía Judicial ejercitará sus atribuciones cumpliendo órdenes expresas de los funcionarios del Ministerio Público, excepto en los casos de urgencia, en que actuará desde luego, dando cuenta inmediata al funcionario del Ministerio Público que corresponda y a su superior.
+La Policía Judicial ejercitará sus atribuciones cumpliendo ordenes expresas de los servidores públicos Agentes del Ministerio Público, excepto en los casos de urgencia en que actuará desde luego, dando cuenta inmediata a la superioridad.
 
 ###### ARTICULO 50.
 
@@ -755,15 +803,15 @@ Los Agentes de Seguridad y Tránsito son auxiliares de la Policía Judicial y po
 
 Queda estrictamente prohibida las (sic) existencia de "separos" o lugares de detención distintos a los reclusorios o cárceles públicas preventivas Municipales o Estatales.
 
+> <small>(REFORMADO, B.O. 20 DE MAYO DE 1992)</small>
+
 ###### ARTICULO 53.
 
-De igual forma queda terminantemente prohibido a la Policía Judicial, aplicar métodos de tortura o que ofendan a la dignidad humana, en el desempeño de sus funciones. La violación de esta disposición será causa de cese inmediato, sin perjuicio de que se ejercite la acción penal correspondiente; igual sanción se le aplicará al funcionario del Ministerio Público que ordene o consienta tal violación.
+De igual forma, queda terminantemente prohibido a la Policía, en el desempeño de sus funciones, aplicar métodos de tortura u otros que ofendan la dignidad humana, la violación de esta disposición será causa de cese inmediato, sin perjuicio de que se ejercite la acción penal correspondiente; igual sanción se aplicará al servidor público del Ministerio Público que ordene o consienta tal violación.
 
 ###### ARTICULO 54.
 
 Ningún miembro de la Policía Judicial podrá hacer uso de vehículos o cualquier otro objeto recogido o detenido con motivo de la comisión de delitos. La misma prohibición se establece para cualquier funcionario del Ministerio Público; la violación de esta disposición será causa de cese inmediato, sin perjuicio de que se ejercite en contra del responsable las acciones pertinentes.
-
-> <small>(ADICIONADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ## TITULO CUARTO. DISPOSICIONES GENERALES
 
@@ -777,7 +825,7 @@ Los Agentes del Ministerio Público que soliciten instrucciones del Procurador o
 
 ###### ARTICULO 57.
 
-Los agentes del Ministerio Público al formular sus conclusiones ante los Tribunales, harán una exposición metódica y suscinta (sic)de los hechos conducentes, citarán las leyes, jurisprudencia y doctrina aplicable, y en vista de ello, emitirán su juicio en proposiciones claras, precisas y concretas.
+Los agentes del Ministerio Público al formular sus conclusiones ante los Tribunales, harán una exposición metódica y suscinta (sic) de los hechos conducentes, citarán las leyes, jurisprudencia y doctrina aplicable, y en vista de ello, emitirán su juicio en proposiciones claras, precisas y concretas.
 
 ###### ARTICULO 58.
 
@@ -801,9 +849,11 @@ Antes de imponer el Procurador alguna de las correcciones disciplinarias enumera
 
 Los Tribunales en caso de tener conocimiento de alguna falta del personal del Ministerio Público, darán parte al Procurador, para que éste imponga al responsable la corrección disciplinaria que proceda.
 
+> <small>(REFORMADO, B.O. 20 DE MAYO DE 1992)</small>
+
 ###### ARTICULO 62.
 
-El Procurador, los funcionarios y empleados del Ministerio Público, son responsables por los delitos, faltas y omisiones en que incurran durante el ejercicio de sus cargos, y se perseguirán en la forma que determine la Constitución Política del Estado, la Ley de Procedimientos de la materia y la Ley de Responsabilidades de Funcionarios y Empleados Públicos. Se concede acción popular para denunciar las violaciones que se cometa a esta Ley.
+El Procurador General de Justicia y los servidores públicos del Ministerio Público, son responsables por los delitos, faltas y omisiones en que incurran durante el ejercicio de sus cargos, y se perseguirán en la forma que determina la Constitución Política del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Baja California Sur, se concede acción popular para denunciar las violaciones que se cometan a esta Ley.
 
 > <small>(ADICIONADO, B.O. 10 DE JULIO DE 1981)</small>
 
@@ -880,3 +930,9 @@ B.O. 20 DE JUNIO DE 1991.
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
+
+B.O. 20 DE MAYO DE 1992.
+
+###### ARTICULO UNICO.
+
+ESTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE AL DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
