@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "1996-12-12"
+last_updated: "1996-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -841,9 +841,11 @@ La organización administrativa de las dependencias será acordada por la Gran C
 
 La Legislatura del Estado, actuará como Gran Jurado de Sentencia respecto de los sujetos a juicio político, en los términos de la Constitución, de la ley y demás disposiciones relativas.
 
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 1996)</small>
+
 ###### Artículo 98.
 
-Para el examen previo de las denuncias sobre juicio político, se integrará una comisión conformada por cinco diputados que serán los presidentes de las comisiones de Asuntos Constitucionales, Gobernación, Derechos Humanos, Administración de Justicia y Procuración de Justicia.
+Para el examen previo de las denuncias sobre juicio político, se integrará una comisión conformada por seis diputados que serán los presidentes de las comisiones de Asuntos Constitucionales, Gobernación, Derechos Humanos, Administración de Justicia, Procuración de Justicia y Legislación.
 
 ###### Artículo 99.
 
@@ -944,6 +946,12 @@ C. LIC. GERMAN GREGORIO ORDOÑEZ MONROY
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.G. 12 DE DICIEMBRE DE 1996.
+
+PRIMERO.- Publíquese el presente decreto en la Gaceta del Gobierno.
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en la Gaceta del Gobierno.
+
+G.G. 19 DE DICIEMBRE DE 1996.
 
 PRIMERO.- Publíquese el presente decreto en la Gaceta del Gobierno.
 
