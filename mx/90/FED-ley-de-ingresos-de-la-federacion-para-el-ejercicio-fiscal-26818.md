@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-26818
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2002-12-30"
-last_updated: "2002-12-30"
+last_updated: "2003-01-20"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26818&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2002-12-26"
 ---
 # LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 2003
 
-LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE 2003.
+LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE 2003
 
-TEXTO ORIGINAL.
+ULTIMA MODIFICACION MISCELANEA FISCAL PUBLICADA EN DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 2003.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el lunes 30 de diciembre de 2002.
 
@@ -517,11 +517,15 @@ El acreditamiento a que se refiere la fracción anterior, únicamente podrá efe
 
 VIII. Las personas que adquieran diesel para su consumo final en las actividades agropecuarias o silvícolas a que se refiere el inciso c) de la fracción VI del presente artículo, podrán solicitar la devolución del monto del impuesto especial sobre producción y servicios que tuvieran derecho a acreditar en los términos de la fracción VII que antecede, en lugar de efectuar el acreditamiento a que el mismo se refiere, siempre que cumplan con lo dispuesto en esta fracción.
 
-Las personas a que se refiere el párrafo anterior que podrán solicitar la devolución, serán únicamente aquéllas cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de veinte veces el salario mínimo general correspondiente al área geográfica del contribuyente elevado al año. En ningún caso el monto de la devolución podrá ser superior a $654.82 mensuales por cada persona física, salvo que se trate de personas físicas que cumplan con sus obligaciones fiscales en los términos de las Secciones I o II del Capítulo II del Título IV de la Ley del Impuesto sobre la Renta, en cuyo caso podrán solicitar la devolución de hasta $1,309.65 mensuales.
+(MODIFICADO EN LAS CANTIDADES POR MISCELANEA FISCAL, D.O.F. 20 DE ENERO DE 2003)
+
+Las personas a que se refiere el párrafo anterior que podrán solicitar la devolución, serán únicamente aquéllas cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de veinte veces el salario mínimo general correspondiente al área geográfica del contribuyente elevado al año. En ningún caso el monto de la devolución podrá ser superior a $674.73 mensuales por cada persona física, salvo que se trate de personas físicas que cumplan con sus obligaciones fiscales en los términos de las Secciones I o II del Capítulo II del Título IV de la Ley del Impuesto sobre la Renta, en cuyo caso podrán solicitar la devolución de hasta $1,349.46 mensuales.
 
 La Secretaría de Hacienda y Crédito Público emitirá las reglas necesarias para simplificar la obtención de la devolución a que se refiere el párrafo anterior, a más tardar el 31 de enero de 2003.
 
-Las personas morales que podrán solicitar la devolución serán aquéllas cuyos ingresos en el ejercicio inmediato anterior, no hayan excedido de veinte veces el salario mínimo general correspondiente al área geográfica del contribuyente elevado al año, por cada uno de los socios o asociados, sin exceder de doscientas veces dicho salario mínimo. El monto de la devolución no podrá ser superior a $654.82 mensuales, por cada uno de los socios o asociados sin que exceda en su totalidad de $6,905.56 mensuales, salvo que se trate de personas morales que cumplan con sus obligaciones fiscales en los términos del Capítulo VII del Título II de la Ley del Impuesto sobre la Renta, en cuyo caso podrán solicitar la devolución de hasta $1,309.65 mensuales, por cada uno de los socios o asociados, sin que en este último caso exceda en su totalidad de $13,091.11 mensuales.
+(MODIFICADO EN LAS CANTIDADES POR MISCELANEA FISCAL, D.O.F. 20 DE ENERO DE 2003)
+
+Las personas morales que podrán solicitar la devolución serán aquéllas cuyos ingresos en el ejercicio inmediato anterior, no hayan excedido de veinte veces el salario mínimo general correspondiente al área geográfica del contribuyente elevado al año, por cada uno de los socios o asociados, sin exceder de doscientas veces dicho salario mínimo. El monto de la devolución no podrá ser superior a $674.73 mensuales, por cada uno de los socios o asociados sin que exceda en su totalidad de $7,115.49 mensuales, salvo que se trate de personas morales que cumplan con sus obligaciones fiscales en los términos del Capítulo VII del Título II de la Ley del Impuesto sobre la Renta, en cuyo caso podrán solicitar la devolución de hasta $1,349.46 mensuales, por cada uno de los socios o asociados, sin que en este último caso exceda en su totalidad de $13,489.08 mensuales.
 
 Las cantidades en moneda nacional establecidas en los párrafos anteriores, se actualizarán en los meses de enero y julio con el factor de actualización correspondiente al periodo comprendido desde el séptimo mes inmediato anterior hasta el último mes inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público realizará las operaciones aritméticas previstas en este artículo y publicará los resultados de la actualización en el Diario Oficial de la Federación a más tardar el día 10 de los meses citados.
 
@@ -952,3 +956,9 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 GOBIERNO DEL DISTRITO FEDERAL PROYECTOS FINANCIADOS CON DEUDA 2003 (PESOS)
 
 (VEASE ARCHIVO ANEXO)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY PUBLICADOS EN EL DIARIO OFICIAL DE LA FEDERACION.</small>
+
+D.O.F. 20 DE ENERO DE 2003.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL.</small>
