@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1994-01-01"
+last_updated: "1995-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1995.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -1157,45 +1157,57 @@ Disposiciones Generales
 
 Los cónyuges están obligados a guardarse fidelidad, a contribuir cada uno por su parte a los fines del matrimonio y a ayudarse mutuamente.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
+
 ###### Artículo 162.
 
-La mujer debe vivir con su marido. Los tribunales, con conocimiento de causa, eximirán a la mujer de esta obligación cuando el marido traslade su domicilio a país extranjero, a no ser que lo haga en servicio de la patria, o cuando se establezca en lugar insalubre o sitio indecoroso.
+Los cónyuges vivirán juntos en el domicilio conyugal. Se considera domicilio conyugal el lugar establecido de común acuerdo por ellos, en el cual ambos tendrán autoridad propia y consideraciones iguales.
+
+Los tribunales con conocimiento de causa, podrán eximir de aquella obligación a alguno de los cónyuges, cuando el otro traslade su domicilio a país extranjero, a no ser que lo haga en servicio público o social, o se establezca en lugar insalubre o indecoroso.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
 
 ###### Artículo 163.
 
-El marido debe dar alimentos a la mujer y hacer todos los gastos necesarios para el sostenimiento del hogar; pero si la mujer tuviere bienes propios o desempeñare algún trabajo, o ejerciere alguna profesión, oficio o comercio, deberá también contribuir para los gastos de la familia, siempre que la parte que le corresponda no exceda de la mitad de dichos gastos, a no ser que el marido estuviere imposibilitado para trabajar y careciere de bienes propios, pues entonces todos los gastos serán de cuenta de la mujer y se cubrirán con bienes de ella.
+Los cónyuges contribuirán económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijos, así como a la educación de estos, en los términos que la Ley establece, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades. A lo anterior no está obligado el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a esos gastos.
+
+La mujer tendrá a su favor la presunción de la necesidad de alimentos, salvo prueba en contrario.
+
+Los derechos y obligaciones que nacen del matrimonio, serán siempre iguales para los cónyuges entendiéndose los quehaceres del hogar como aportación económica, de tal manera que si alguno de ellos, contribuyera a esa subsistencia, con su trabajo en el hogar y en el cuidado de los hijos, el otro cónyuge deberá sufragar por sí solo, los gastos de subsistencia.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
 
 ###### Artículo 164.
 
-La mujer tendrá siempre derecho preferente sobre los productos de los bienes del marido y sobre sus sueldos, salarios y emolumentos, por las cantidades que correspondan para la alimentación de ella y de sus hijos menores. También tendrá derecho preferente sobre los bienes del marido, para la satisfacción del mismo objeto.
-
-La mujer puede pedir el aseguramiento de bienes para hacer efectivos estos derechos.
+Los cónyuges y los hijos, en materia de alimentos, tendrán derecho preferente sobre los sueldos, ingresos y bienes de quien tenga a su cargo el sostenimiento económico de la familia, y podrán demandar el aseguramiento de los bienes para hacer efectivos estos derechos.
 
 ###### Artículo 165.
 
-El marido tendrá el derecho que a la mujer concede el artículo anterior, en los casos en que ésta tenga obligación de contribuir, en todo o en parte, para los gastos de la familia y del hogar.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 1995)
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
 
 ###### Artículo 166.
 
-El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, de común acuerdo arreglarán todo lo relativo a la educación y establecimiento de los hijos y a la administración de los bienes que a éstos pertenezcan.
+Los cónyuges de común acuerdo, arreglarán todo lo relativo a la dirección y cuidado del hogar, la formación y educación de los hijos y a la administración de los bienes que a éstos pertenezcan.
 
-En caso de que el marido y la mujer no estuvieren de acuerdo sobre alguno de los puntos indicados, el Juez de lo Civil correspondiente procurará avenirlos y si no lo lograse, resolverá, sin forma de juicio, lo que fuere más conveniente a los intereses de los hijos.
+En caso de que el marido y la mujer no estuvieren de acuerdo respecto de alguno de los puntos indicados, el Juez de lo Familiar competente procurará avenirlos, y si no lo lograse, resolverá de inmediato sin forma de juicio, lo que fuere más conveniente a la familia e intereses de los hijos.
 
 ###### Artículo 167.
 
-Estará a cargo de la mujer la dirección y cuidado de los trabajos del hogar.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 1995)
 
 ###### Artículo 168.
 
-La mujer podrá desempeñar un empleo, ejercer una profesión, industria, oficio o comercio, cuando ello no perjudique la misión que le impone el artículo anterior.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 1995)
 
 ###### Artículo 169.
 
-El marido podrá oponerse a que la mujer se dedique a las actividades a que se refiere al artículo anterior, siempre que subvenga a todas las necesidades del hogar.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 1995)
 
 ###### Artículo 170.
 
-En caso de que la mujer insista en usar de los derechos que le concede el artículo 168, no obstante que el marido se los rehuse, apoyado en lo dispuesto en el artículo anterior, el juez respectivo resolverá lo que sea procedente.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 1995)
 
 ###### Artículo 171.
 
@@ -1205,21 +1217,19 @@ El marido y la mujer, mayores de edad, tienen capacidad para administrar, contra
 
 El marido y la mujer, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede; pero necesitarán autorización judicial para enajenarlos, gravarlos e hipotecarlos y un tutor para sus negocios judiciales.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
+
 ###### Artículo 173.
 
-La mujer necesita autorización judicial para contratar con su marido, excepto cuando el contrato que celebre sea el de mandato.
-
-El contrato de compraventa sólo puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes y siempre con autorización judicial.
+El contrato de compraventa sólo podrá celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes.
 
 ###### Artículo 174.
 
-También se requiere autorización judicial para que la mujer sea fiadora de su marido o se obligue solidariamente con él, en asuntos que sean del interés exclusivo de éste.
-
-Esta no necesita autorización judicial para otorgar fianza a fin de que su esposo obtenga la libertad.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 1995)
 
 ###### Artículo 175.
 
-La autorización, en los casos a que se refieren los tres artículos anteriores, no se concederá cuando notoriamente resulten perjudicados los intereses de la mujer.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 1995)
 
 ###### Artículo 176.
 
@@ -1421,9 +1431,13 @@ El dominio y la posesión de los bienes comunes reside en ambos cónyuges mientr
 
 El marido no puede repudiar ni aceptar la herencia común sin consentimiento de la mujer; pero el juez puede suplir ese consentimiento previa audiencia de ésta.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
+
 ###### Artículo 213.
 
-La mujer administrará la sociedad legal por consentimiento del marido o en ausencia o por impedimento de éste, con las mismas limitaciones que para él se establezcan.
+La administración de la sociedad conyugal legal, recaerá en ambos cónyuges o bien, por acuerdo mutuo en cualquiera de los dos.
+
+En caso de desacuerdo entre los cónyuges, se estará a lo dispuesto en el último párrafo del artículo 166 de este Código.
 
 ###### Artículo 214.
 
@@ -1897,13 +1911,19 @@ El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado 
 
 Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y, en su caso, a la liquidación de la sociedad conyugal; se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges, o en relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes, a la subsistencia y educación de los hijos hasta que lleguen a la mayor edad.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
+
 ###### Artículo 300.
 
-En los casos de divorcio, la mujer inocente tendrá derecho a alimentos mientras no contraiga nuevas nupcias y viva honestamente.
+El cónyuge que haya dado causa al divorcio, sólo podrá ser condenado a ministrar alimentos si el otro esta imposibilitado para trabajar o careciere de bienes propios.
 
-El marido inocente sólo tendrá derecho a alimentos cuando esté imposibilitado para trabajar y no tenga bienes propios para subsistir. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
+La mujer que haya estado dedicada exclusivamente a las labores del hogar, tendrá a su favor la presunción de la necesidad de alimentos.
 
-En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges no tienen derecho a pensión alimenticia ni a la indemnización que concede este artículo.
+La obligación de dar alimentos cesará, si el acreedor alimentario hace vida en común con otra persona como su pareja.
+
+Cuando por el divorcio se originen daños y perjuicios a los intereses del cónyuge que no dio origen al divorcio, el otro responderá de ellos como autor de un hecho ilícito.
+
+En el divorcio por mutuo consentimiento, el cónyuge que estuviere imposibilitado para trabajar y careciere de bienes propios, tendrá derecho a percibir alimentos del otro. La obligación de éste, cesará en el mismo caso que tratándose del divorcio necesario.
 
 ###### Artículo 301.
 
@@ -14940,3 +14960,7 @@ UNICO.- Las presentes reformas y adiciones entrarán en vigor quince días despu
 P.O. 1 DE ENERO DE 1994.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
