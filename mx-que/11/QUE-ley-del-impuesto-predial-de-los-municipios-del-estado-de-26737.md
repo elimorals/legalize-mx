@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-impuesto-predial-de-los-municipios-del-estado-de-26737"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2002-11-13"
+last_updated: "2002-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL IMPUESTO PREDIAL DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -375,7 +375,7 @@ II. Registro numérico para cada predio que contendrá: número de cuenta, nombr
 
 III. Registro alfabético, que identificará a cada predio por nombre del sujeto del impuesto o de quien representen a dicho sujeto, y contendrá además su domicilio, número de cuenta y la ubicación del predio.
 
-### CAPÍTULO QUINTO. DE LOS RECURSOS, INFRACCIONES Y SANCIONES
+### CAPITULO QUINTO. DE LOS RECURSOS, INFRACCIONES Y SANCIONES
 
 ###### Artículo 40.
 
@@ -451,9 +451,17 @@ La presente Ley entrará en vigor a partir del día primero de enero del año 20
 
 Se derogan todas aquellas disposiciones que se opongan a la presente, y se abroga la Ley del Impuesto Predial publicada el 31 de diciembre de 1986.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO TERCERO.
 
-En los casos que la actualización de los valores catastrales y la aplicación de la tarifa correspondiente, resulte como consecuencia un incremento mayor al 20% del Impuesto causado en el año 2002, únicamente se incrementará un 20% cada año, hasta quedar en igualdad con el resto de los contribuyentes.
+En los casos que la actualización de los valores catastrales y la aplicación de la tarifa correspondiente, resulte como consecuencia un incremento mayor al 20% del impuesto causado en el año 2002, únicamente se incrementará un 20% cada año, hasta que el resultado de la aplicación de la tarifa a la base sea menor al 20% del incremento de lo causado en el año anterior.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos del Estado podrán autorizar reducciones de hasta por un 50 por ciento en el pago del impuesto predial, únicamente en lo que corresponde al ejercicio fiscal del año 2003, sin perjuicio a lo dispuesto por los artículos 7, 8, 9 y 23 de la Ley del Impuesto Predial de los Municipios del Estado de Querétaro.
 
 ASÍ LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE.
 
@@ -500,3 +508,11 @@ LIC. BERNARDO GARCÍA CAMINO
 SECRETARÍO DE GOBIERNO
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE DICIEMBRE DE 2002
+
+###### ARTICULO ÚNICO.
+
+La presente ley entrará en vigor el día 01 de enero de 2003.
