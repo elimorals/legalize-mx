@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "1995-04-03"
+last_updated: "1995-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1995.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -2333,7 +2333,7 @@ El Presidente Municipal podrá autorizar el sacrificio de semovientes en poblado
 
 ## TITULO NOVENO. DISPOSICIONES SUSTANTIVAS Y PROCEDIMENTALES
 
-> <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ### CAPITULO V. GASTOS DE NOTIFICACION, EJECUCION E INSPECCION FISCAL
 
@@ -2987,7 +2987,7 @@ En tratándose del Impuesto Predial, se causará únicamente un Impuesto Adicion
 
 Los ingresos extraordinarios que tengan como fuente empréstitos públicos, se percibirán con arreglo a los Convenios que se celebren para su otorgamiento y previa autorización del Congreso del Estado, cuando su plazo rebase el período constitucional del Ayuntamiento en funciones.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 145.
 
@@ -3087,7 +3087,11 @@ Todos los Ingresos Públicos Municipales se destinarán a cubrir los gastos auto
 
 Queda prohibida la celebración de igualas o convenios para el pago o cobro de impuestos o derechos, así como el remate o arrendamiento de esas contribuciones, salvo los casos que estudie el Cabildo Municipal y expresamente los autorice.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+
+REQUERIMIENTO DE PAGO
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 219.
 
@@ -3313,7 +3317,7 @@ Los créditos fiscales nacen en el momento en que se realizan las situaciones ju
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
-### CAPITULO III. DE LAS AUTORIDADES FISCALES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3467,7 +3471,7 @@ El derecho de reclamación del pago de lo indebido o de lo pagado en exceso, pre
 
 La prescripción se interrumpe por cualquier gestión del interesado, hecha por escrito, ante la Autoridad competente para obtener la devolución.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ### CAPITULO IV. DE LOS CREDITOS FISCALES
 
@@ -3501,7 +3505,19 @@ III.- Por edictos, únicamente en caso de que la persona a quien deba notificars
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-ARTICULO 191 BIS-5.- La manifestación que hagan el interesado o su representante legal, de conocer un acuerdo, surtirá efectos de notificación en forma, desde la fecha en que se manifieste haber tenido tal conocimiento; si ésta es anterior a la en que debiere surtir sus efectos la notificación de acuerdo con el artículo precedente.
+ARTICULO 191 BIS-2.- Las notificaciones por oficio se harán en el domicilio que el interesado haya señalado para el efecto de iniciar alguna instancia, y solo por lo que toca al trámite y resolución de ésta. Bastará para considerar que se ha señalado domicilio para recibir notificaciones en instancias administrativas, el que la dirección del interesado aparezca impresa en la promoción respectiva. A falta del domicilio designado se tendrá en cuenta el que resulte de las disposiciones fiscales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 191 BIS-1.- Las notificaciones personales se harán en el último domicilio que la persona a quien se deba notificar, haya señalado ante las autoridades fiscales en el procedimiento administrativo de que se trate, a falta de señalamiento, se estará a las reglas previstas en el Artículo 192 a partir de su segundo párrafo de este Ordenamiento.
+
+Se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que se le espere a una hora fija del día siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato.
+
+Si la persona a quien haya que notificarse no atendiere el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla, se realizará por instructivo que se fijará en la puerta del domicilio.
+
+En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación.
+
+De las diligencias en que conste la notificación o cita, el ejecutor notificador tomará razón por escrito.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -3521,23 +3537,11 @@ ARTICULO 191 BIS-4.- Las notificaciones surtirán sus efectos el día hábil sig
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-ARTICULO 191 BIS-2.- Las notificaciones por oficio se harán en el domicilio que el interesado haya señalado para el efecto de iniciar alguna instancia, y solo por lo que toca al trámite y resolución de ésta. Bastará para considerar que se ha señalado domicilio para recibir notificaciones en instancias administrativas, el que la dirección del interesado aparezca impresa en la promoción respectiva. A falta del domicilio designado se tendrá en cuenta el que resulte de las disposiciones fiscales.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
 ARTICULO 191 BIS-3.- Las notificaciones por edictos se realizarán haciendo una publicación que contendrá un resumen de las resoluciones por notificar; dicha publicación deberá efectuarse en uno de los periódicos de mayor circulación del lugar.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-ARTICULO 191 BIS-1.- Las notificaciones personales se harán en el último domicilio que la persona a quien se deba notificar, haya señalado ante las autoridades fiscales en el procedimiento administrativo de que se trate, a falta de señalamiento, se estará a las reglas previstas en el Artículo 192 a partir de su segundo párrafo de este Ordenamiento.
-
-Se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que se le espere a una hora fija del día siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato.
-
-Si la persona a quien haya que notificarse no atendiere el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla, se realizará por instructivo que se fijará en la puerta del domicilio.
-
-En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación.
-
-De las diligencias en que conste la notificación o cita, el ejecutor notificador tomará razón por escrito.
+ARTICULO 191 BIS-5.- La manifestación que hagan el interesado o su representante legal, de conocer un acuerdo, surtirá efectos de notificación en forma, desde la fecha en que se manifieste haber tenido tal conocimiento; si ésta es anterior a la en que debiere surtir sus efectos la notificación de acuerdo con el artículo precedente.
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3613,11 +3617,7 @@ Las autoridades, cuando sean requeridas para ello por los ejecutores, prestarán
 
 Para hacer gestiones en nombre ajeno ante las Oficinas Fiscales Municipales, bastará carta poder suscrita por el mandante y dos testigos, o con carta poder suscrita por el mandante y ratificada la firma ante el jefe de la Oficina Fiscal respectiva, este funcionario podrá ordenar la ratificación del poder cuando lo estime conveniente, antes de admitir al procurador y aún después de haberlo admitido.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
-
-REQUERIMIENTO DE PAGO
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 200.
 
@@ -3653,15 +3653,15 @@ Los honorarios de los ejecutores y demás gastos a que dé lugar el procedimient
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
-REMATES
+EMBARGOS
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
-### CAPITULO V. DISPOSICIONES DIVERSAS
+### CAPITULO VI. PROCEDIMIENTO DE EJECUCION
 
-(ADICIONADO, P.O. 31 DE ENERO DE 1992) (F. DE E., P.O. 5 DE FEBRERO DE 1992)
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO III. DE LAS AUTORIDADES FISCALES
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3687,13 +3687,9 @@ VI.- En los casos previstos en la Fracción IV y en aquellos otros en que la per
 
 VII.- La circunstancia de que no encontrara testigos no interrumpirá la diligencia, la cual se llevará adelante haciendo constar tales hechos. Lo asentado por el ejecutor hará prueba plena mientras no se demuestre judicialmente su falsedad.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
-EMBARGOS
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
-
-### CAPITULO VII. INFRACCIONES FISCALES Y SANCIONES CORRESPONDIENTES
+### CAPITULO VIII. RECURSO DE INCONFORMIDAD
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3767,9 +3763,9 @@ Si al cometerse una infracción a las disposiciones fiscales, se ha incurrido en
 
 Las sanciones previstas por este capítulo serán determinadas por el Tesorero Municipal; en consecuencia, la autoridad fiscal que descubra la infracción remitirá a la Tesorería Municipal las actas que levante consignando la infracción.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+TRANSITORIOS:
 
-### CAPITULO VIII. RECURSO DE INCONFORMIDAD
+### CAPITULO VII. INFRACCIONES FISCALES Y SANCIONES CORRESPONDIENTES
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3851,7 +3847,7 @@ IV.- El desvío del poder, tratándose de sanciones impuestas por infracción a 
 
 Las resoluciones de la autoridad que conozca el recurso, tendrán el carácter de definitivas e inapelables en el orden administrativo, salvo los casos en que proceda la condonación con arreglo a las disposiciones fiscales.
 
-TRANSITORIOS:
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 206.
 
@@ -4007,11 +4003,15 @@ IV.- Hecha la revisión se comunicará el resultado a la oficina ejecutora, devo
 
 V.- Aprobado el expediente o corregidas las irregularidades observadas, se procederá al remate.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
-### CAPITULO VI. PROCEDIMIENTO DE EJECUCION
+REMATES
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
+
+### CAPITULO V. DISPOSICIONES DIVERSAS
+
+(ADICIONADO, P.O. 31 DE ENERO DE 1992) (F. DE E., P.O. 5 DE FEBRERO DE 1992)
 
 ###### ARTICULO PRIMERO.
 
@@ -4145,6 +4145,30 @@ FRACCION V.- Aquellos eventos comprendidos en el numeral 2 de la Fracción II de
 
 FRACCION VI.- En los casos de Adquisición de Inmuebles señalados en la Fracción II del Artículo 58 de esta Ley, se deducirá a la base gravable citada 10 veces el salario mínimo general elevado al año de la zona económica del Municipio de Mazatlán.
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO OCTAVO.
+
+Los contribuyentes que durante el primer bimestre de 1996 cubran adeudos anteriores al ejercicio fiscal mencionado, por concepto de Impuesto Predial sobre fincas urbanas no causarán los recargos y multas correspondientes a dicho adeudo.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO NOVENO.
+
+Durante el ejercicio fiscal de 1996, el monto del Impuesto Predial sobre Fincas Urbanas cuyas características físicas no hayan sido modificadas, en ningún caso será mayor a aquel que se hubiere determinado conforme a las disposiciones vigentes al 31 de Diciembre de 1995.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO DECIMO.
+
+Durante el ejercicio fiscal de 1996, el impuesto predial sobre fincas urbanas que resulte a cargo de contribuyentes jubilados y pensionados o de sus cónyuges, en ningún caso será mayor a aquél que se hubiere determinado conforme a las disposiciones vigentes al 31 de diciembre de 1995.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO DECIMO PRIMERO.
+
+Para el ejercicio fiscal de 1996, el artículo 52 Bis de esta Ley no tendrá vigencia.
+
 Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los veinte días del mes de Marzo de mil novecientos noventa.
 
 C. ANGEL POLANCO BERUMEN
@@ -4193,9 +4217,7 @@ El Impuesto Sobre Nóminas se causará por las erogaciones que se realicen a par
 
 ###### ARTICULO CUARTO.
 
-Sin perjuicio de cumplir con las demás obligaciones que el Artículo 292 Bis-E les impone, no están obligados al pago de este impuesto las negociaciones de nueva creación durante su primer año de operación.
-
-Se entiende como negociación de nueva creación, aquella que ha contribuído a aumentar el capital social de la economía del Estado. Por lo que, para los efectos de este impuesto no será considerada negociación de nueva creación aquella que efectúe cambio de nombre o razón social, cambio de domicilio, actividad o traspaso de la misma.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO QUINTO.
 
@@ -4350,3 +4372,9 @@ P.O. 3 DE ABRIL DE 1995.
 ###### ARTICULO UNICO.
 
 El Presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 25 DE DICIEMBRE DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
