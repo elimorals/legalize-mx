@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1984-12-28"
+last_updated: "1985-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 1985
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -201,15 +201,15 @@ El censo electoral se levantará cada seis años y precisamente en el que corres
 
 Del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 1985)</small>
 
 ###### Art. 46.
 
-Se deposita el ejercicio del Poder Legislativo en un Congreso que se renovará cada tres años, compuesto de 21 de Diputados electos por mayoría relativa y hasta 7 Diputados de minoría, que se asignarán de acuerdo con las bases y formas que señale la Ley Reglamentaria correspondiente.
+Se deposita el ejercicio del Poder Legislativo en un Congreso que se renovará cada tres años, compuesto de 26 Diputados electos por mayoría relativa y hasta 8 Diputados electos por minoría, que se asignarán de acuerdo con las bases y formas que señala la Ley Reglamentaria correspondiente.
 
-La circunscripción de los 21 Distritos Electorales, será la que resulte de dividir el total de la población en el Estado entre los Distritos señalados y por cada uno de ellos se elegirá por mayoría relativa un Diputado Propietario y un Suplente. También las asignaciones de Diputados de Minoría se harán mediante la misma fórmula de Propietario y Suplente.
+La circunscripción de los 26 Distritos Electorales, serán la que resulte de dividir el total de la población en el Estado, entre los Distritos señalados y por cada uno de ellos se elegirá por mayoría realtiva un Diputado Propietario y un Suplente. También las asignaciones de Diputados de Minoría se harán mediante la misma fórmula de Propietario y Suplente.
 
-Los Diputados electos por mayoría relativa y los Diputados de minoría, tendrán la misma categoría e iguales facultades y obligaciones.
+Los Diputados electos por mayoría relativa y los Diputados de Minoría, tendrán la misma categoría e iguales facultades y obligaciones.
 
 ###### Art. 47.
 
@@ -1773,7 +1773,7 @@ P.O. 1 DE ENERO DE 1979.
 
 DECRETO NÚMERO 204
 
-UNICO:- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 1 DE ENERO DE 1979.
 
@@ -1803,7 +1803,7 @@ UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicaci�
 
 P.O. 25 DE ENERO DE 1980.
 
-UNICO:- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 30 DE ENERO DE 1980.
 
@@ -1886,3 +1886,9 @@ P.O. 28 DE DICIEMBRE DE 1984.
 PRIMERO.- Como consecuencia de esta Reforma Constitucional, el Reglamento vigente para el Gobierno Interior del Honorable Congreso del Estado, aprobado por Decreto No. 101 de fecha 29 de mayo de 1958, tendrá carácter de Ley Orgánica del Poder Legislativo y expresamente se aprueba la modificación del título.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día primero de enero de 1985, previa la publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE MARZO DE 1985.
+
+###### ARTICULO UNICO
+
+- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
