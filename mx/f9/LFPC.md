@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "1992-12-24"
+last_updated: "1993-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JULIO DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 24 de diciembre de 1992.
 
@@ -544,9 +544,11 @@ Cualquier cargo que se prevea hacer por motivo de la expedición de un crédito 
 
 ### Capítulo VIII. De las operaciones con inmuebles
 
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 73.
 
-Los actos relacionados con inmuebles sólo estarán sujetos a esta Ley cuando los proveedores sean fraccionadores o constructores de viviendas destinadas a casa habitación para venta al público o cuando otorguen al consumidor el derecho a usar inmuebles mediante el sistema de tiempo compartido, en los términos de los artículos 64 y 65 de la presente Ley. Asimismo, esta Ley es aplicable a los arrendamientos de inmuebles destinados a casa habitación en el Distrito Federal, en cuyo caso el arrendatario se considerará como consumidor y el arrendador como proveedor.
+Los actos relacionados con inmuebles sólo estarán sujetos a esta Ley cuando los proveedores sean fraccionadores o constructores de viviendas destinadas a casa habitación para venta al público o cuando otorguen al consumidor el derecho a usar inmuebles mediante el sistema de tiempo compartido, en los términos de los artículos 64 y 65 de la presente Ley.
 
 ###### ARTICULO 74.
 
@@ -1019,3 +1021,13 @@ QUINTO.- Los procedimientos y recursos iniciados antes de la vigencia de la pres
 México, D.F., a 18 de diciembre de 1992.- Dip. Salvador Abascal Carranza, Presidente.- Sen. Carlos Sales Gutiérrez, Presidente.- Dip. Luis Pérez Díaz, Secretario.- Sen. Roberto Suárez Nieto, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de diciembre de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 21 DE JULIO DE 1993.
+
+PRIMERO.- El presente decreto entrará en vigor a los 90 días de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las disposiciones contenidas en el presente decreto, no serán aplicables a los contratos de arrendamiento celebrados con anterioridad a la entrada en vigor del mismo.
+
+TERCERO.- Los juicios y procedimientos judiciales o administrativos actualmente en trámite, se seguirán rigiendo por las disposiciones vigentes con anterioridad a la entrada en vigor del presente decreto.
