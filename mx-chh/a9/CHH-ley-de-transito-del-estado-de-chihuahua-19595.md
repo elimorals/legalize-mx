@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transito-del-estado-de-chihuahua-19595"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-31"
-last_updated: "2005-01-01"
+last_updated: "2005-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSITO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 31 de enero de 2001.
 
@@ -63,9 +63,13 @@ II. Vehículos: Todo aquel objeto capaz de desplazarse por las vías públicas c
 
 III. Peatón: Todas las personas que transiten por las vías públicas utilizando sus propios medios de locomoción naturales o auxiliados por aparatos o dispositivos para discapacitados;
 
-IV. La Secretaría: La Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
-V. La Dirección: La Dirección de Tránsito y Transporte;
+IV. La Secretaría: La Secretaría de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+V. La Dirección: La Dirección de Vialidad y Protección Civil;
 
 VI. El Municipio: Cualquiera de los municipios del Estado de Chihuahua que presten el servicio público de tránsito.
 
@@ -87,9 +91,11 @@ Cuando exista manifiesta imposibilidad de algún Ayuntamiento para prestar el se
 
 De las Autoridades de Tránsito.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 6.
 
-El Gobernador del Estado, por conducto del Secretario General de Gobierno, vigilará el cumplimiento de las leyes, reglamentos y disposiciones del tránsito de vehículos y peatones en las vías públicas, garantizando la seguridad de las mismas, de conformidad con las facultades que le confieren expresamente esta Ley y las demás normas jurídicas aplicables.
+El Gobernador del Estado, por conducto del Secretario de Seguridad Pública, vigilará el cumplimiento de las leyes, reglamentos y disposiciones del tránsito de vehículos y peatones en las vías públicas, garantizando la seguridad de las mismas, de conformidad con las facultades que le confieren expresamente esta Ley y las demás normas jurídicas aplicables.
 
 ###### Artículo 7.
 
@@ -105,15 +111,21 @@ Son autoridades de tránsito para los efectos de la presente Ley y sus reglament
 
 I. El Gobernador del Estado; dentro del ámbito de su competencia, en los términos del Convenio de Coordinación que celebre con los ayuntamientos;
 
-II. El Secretario General de Gobierno;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
-III. El Director de Tránsito y Transporte;
+II. El Secretario de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+III. El Director de Vialidad y Protección Civil;
 
 IV. Los Presidentes Municipales;
 
 V. Los Delegados de Tránsito; y,
 
-VI. Los servidores públicos dependientes de la Dirección de Tránsito y Transporte o de los Ayuntamientos a quienes esta Ley y sus reglamentos o los convenios respectivos les otorguen facultades.
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+VI. Los servidores públicos dependientes de la Dirección de Vialidad y Protección Civil o de los Ayuntamientos a quienes esta Ley y sus reglamentos o los convenios respectivos les otorguen facultades.
 
 ###### Artículo 10.
 
@@ -125,7 +137,9 @@ II. Los Peritos en vialidad;
 
 III. El Personal del servicio médico oficial;
 
-IV. La Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+IV. La Secretaría de Finanzas;
 
 V. Las Tesorerías Municipales de aquellos Municipios que presten el servicio de Tránsito;
 
@@ -141,25 +155,33 @@ I. Dictar las medidas necesarias para el cumplimiento efectivo de la presente Le
 
 II. Las demás que le confieran la Constitución General de la República, la particular del Estado y otras normas de carácter general, convenios y acuerdos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 12.
 
-El Secretario General de Gobierno se encuentra investido de las siguientes atribuciones dentro de su ámbito de competencia:
+El Secretario de Seguridad Pública, se encuentra investido de las siguientes atribuciones dentro de su ámbito de competencia:
 
 I. Ejecutar los acuerdos del Gobernador del Estado en todo lo que se refiere al tránsito de vehículos y personas, de conformidad a la presente Ley y sus reglamentos;
 
 II. Planear, aprobar, coordinar y evaluar las políticas y programas en materia de tránsito, dentro de las disposiciones legales y previo acuerdo con el Gobernador del Estado;
 
-III. Dentro de la posibilidad existente, disponer de los recursos humanos, económicos y materiales que sean necesarios para el correcto funcionamiento administrativo y operativo de la Dirección de Tránsito y Transporte, considerando lo anterior en la elaboración del anteproyecto del Presupuesto de Egresos correspondiente;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+III. Disponer de los recursos humanos, económicos y materiales que sean necesarios para el correcto funcionamiento administrativo y operativo de la Dirección de Vialidad y Protección Civil, considerando lo anterior en la elaboración del anteproyecto del Presupuesto de Egresos correspondiente:
 
 IV. Proponer al titular del Poder Ejecutivo del Estado la modificación, reformas o adiciones que requiera la presente Ley o sus reglamentos;
 
-V. Proponer al Gobernador del Estado a la persona que habrá de fungir como Director de Tránsito y Transporte;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+V. Proponer al Gobernador del Estado a la persona que habrá de fungir como Director de Vialidad y Protección Civil;
 
 VI. Resolver las controversias administrativas que se susciten sobre la interpretación o cumplimiento de esta Ley; y,
 
 VII. Las demás que establezcan los ordenamientos legales correspondientes.
 
-Estas facultades podrá ejercerlas directamente o delegarlas parcial o totalmente a la Dirección de Tránsito y Transporte.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
+Estas facultades podrá ejercerlas directamente o delegarlas parcial o totalmente a la Dirección de Vialidad y Protección Civil.
 
 ###### Artículo 13.
 
@@ -197,9 +219,11 @@ XV. Planear, promover y ejecutar campañas de difusión de las disposiciones con
 
 XVI. Las demás que expresamente le confiera esta Ley y sus reglamentos.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 14.
 
-Las facultades del Director de Tránsito y Transporte serán las que se señalan en el artículo que antecede, dentro del ámbito de su competencia.
+Las facultades del Director de Vialidad y Protección Civil serán las que se señalan en el artículo que antecede, dentro del ámbito de su competencia y las que establezca el reglamento respectivo.
 
 ###### Artículo 15.
 
@@ -231,13 +255,17 @@ Para la emisión de sus dictámenes los peritos adscritos a la Dirección deber�
 
 Actuarán también como conciliadores entre las partes involucradas en los accidentes viales puestos a su conocimiento, notificando a las autoridades competentes a solicitud de la parte interesada los hechos que pudieran ser constitutivos de algún delito, de los que se persigan por querella necesaria de conformidad a las Leyes vigentes del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 18.
 
-Compete a la Secretaría de Finanzas y Administración:
+Compete a la Secretaría de Finanzas:
 
 I. Expedir y entregar a los propietarios o legítimos poseedores de vehículos las placas metálicas, tarjetas de circulación, calcomanías u hologramas y demás signos de identificación que por la naturaleza de los vehículos y condiciones de prestación de los servicios se requieran, una vez que hayan cumplido con los requisitos que para tal efecto establecen las disposiciones aplicables;
 
-II. Mantener actualizado el padrón vehicular estatal en coordinación con la Dirección de Tránsito y Transporte; y,
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+II. Mantener actualizado el padrón vehicular estatal en coordinación con la Dirección de Vialidad y Protección Civil; y,
 
 III. Recaudar las contribuciones del orden federal o local que se establezcan en la presente Ley, en sus reglamentos o en cualquier otra norma general aplicable que deban ser cubiertas en relación con el tránsito, propiedad o posesión de vehículos.
 
@@ -247,9 +275,11 @@ Son atribuciones de la Tesorería Municipal del Ayuntamiento que corresponda:
 
 I. Recaudar las contribuciones de orden local que se establezcan en la presente Ley, en sus reglamentos, o en cualquier otra norma general aplicable que deban ser cubiertas en relación con el tránsito de vehículos.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 20.
 
-Podrá conformarse en cada municipio un Consejo Consultivo de Tránsito, integrado por representantes de los sectores empresarial, comercial, industrial, educativo, social y sindical a convocatoria del Presidente Municipal o del Director de Tránsito y Transporte, según corresponda a su ámbito de competencia, a través de las personas que los mismos designen y cumplan con los requisitos del artículo 22 de esta Ley.
+Podrá conformarse en cada municipio un Consejo Consultivo de Tránsito, integrado por representantes de los sectores empresarial, comercial, industrial, educativo, social y sindical a convocatoria del Presidente Municipal o del Director de Vialidad y Protección Civil, según corresponda a su ámbito de competencia, a través de las personas que los mismos designen y cumplan con los requisitos del artículo 22 de esta Ley.
 
 ###### Artículo 21.
 
@@ -267,9 +297,11 @@ III. No haber sido condenado por delito que amerite pena corporal; y,
 
 IV. No ser funcionario o empleado público, salvo las representaciones sindicales de maestros y trabajadores al servicio del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 23.
 
-El Consejo Consultivo de Tránsito sesionará en forma ordinaria una vez al mes y extraordinariamente cuando lo cite el Presidente Municipal o el Director de Tránsito y Transporte, el del propio Consejo o la tercera parte de sus miembros. Habrá quórum con más de la mitad de sus miembros y los acuerdos se tomarán por mayoría de los presentes.
+El Consejo Consultivo de Tránsito sesionará en forma ordinaria una vez al mes y extraordinariamente cuando lo cite el Presidente Municipal o el Director de Vialidad y Protección Civil, el del propio Consejo o la tercera parte de sus miembros. Habrá quórum con más de la mitad de sus miembros y los acuerdos se tomarán por mayoría de los presentes.
 
 El secretario levantará el acta que corresponda a cada sesión.
 
@@ -279,7 +311,9 @@ El cargo de consejero y funcionario del mismo, son honorarios.
 
 El Consejo Consultivo de Tránsito, como órgano de colaboración municipal, tendrá las siguientes atribuciones:
 
-I. Coadyuvar al mejoramiento de la función pública encomendada a la Dirección de Tránsito o a la Delegación competente en el Municipio;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+I. Coadyuvar al mejoramiento de la función pública encomendada a la Dirección de Vialidad y Protección Civil o a la Delegación competente en el Municipio;
 
 II. Opinar en relación con las medidas administrativas y de servicio acordadas por la Delegación de Tránsito correspondiente;
 
@@ -321,9 +355,11 @@ Los vehículos de servicio público de transporte son aquellos que operan sujeto
 
 Son vehículos de paso preferencial o emergencia, aquellos que cumplen funciones de seguridad y asistencia social, por lo que deberán de estar plenamente identificados como tales, además de contar con la autorización que para tal efecto establecen los ordenamientos legales correspondientes.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 29.
 
-Los vehículos que circulan por las vías públicas y que no se encuentren registrados en otra entidad federativa deberán registrarse ante la Secretaría de Finanzas y Administración.
+Los vehículos que circulan por las vías públicas y que no se encuentren registrados en otra Entidad Federativa deberán registrarse ante la Secretaría de Finanzas.
 
 ###### Artículo 30.
 
@@ -345,7 +381,9 @@ VI. Las demás que disponga esta Ley y sus reglamentos.
 
 Las placas, la tarjeta de circulación y la calcomanía u holograma son intransferibles.
 
-En cualquier caso de transmisión de la propiedad o posesión legal de los vehículos deberá realizarse el cambio correspondiente, por lo que el propietario deberá notificar la operación a la Secretaría de Finanzas y Administración con objeto de que el nuevo adquirente esté en aptitud de cumplir con lo establecido en el Artículo 30 de esta Ley y pueda obtener las placas, calcomanía u holograma y tarjeta de circulación correspondientes y pueda efectuarse el registro respectivo.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
+En cualquier caso de transmisión de la propiedad o posesión legal de los vehículos deberá realizarse el cambio correspondiente, por lo que el propietario deberá notificar la operación a la Secretaría de Finanzas con objeto de que el nuevo adquirente esté en aptitud de cumplir con lo establecido en el artículo 30 de esta Ley y pueda obtener las placas, calcomanía u holograma y tarjeta de circulación correspondientes, así como para que pueda efectuarse el registro respectivo.
 
 ###### Artículo 32.
 
@@ -421,9 +459,11 @@ Ningún vehículo podrá desplazarse por las vías públicas sin llevar colocada
 
 Los vehículos podrán circular sin placas únicamente cuando la autoridad que sea competente expida un permiso provisional, en los casos y bajo procedimiento que determine la reglamentación aplicable.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 41.
 
-La Secretaría de Finanzas y Administración expedirá las placas de circulación que correspondan de acuerdo al tipo de vehículo de que se trate, de conformidad a las disposiciones de esta Ley y su reglamento correspondiente.
+La Secretaría de Finanzas expedirá las placas de circulación que correspondan de acuerdo al tipo de vehículo de que se trate, de conformidad a las disposiciones de esta Ley y su reglamento correspondiente.
 
 Estas se clasifican en:
 
@@ -443,9 +483,11 @@ Las placas de demostración se proporcionarán exclusivamente a las personas fí
 
 La persona a la que le hayan sido proporcionados juegos de placas de demostración deberá de llevar un registro de los vehículos sobre los que se han portado y será responsable del uso que de las mismas se hagan.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 43.
 
-El extravío o robo de las placas de cualquier tipo deberá notificarse a la Secretaría de Finanzas y Administración en un término de cinco días hábiles posteriores al que ocurra la desaparición, previa denuncia de hechos ante la autoridad correspondiente con el objeto de que se tramite la reposición de las mismas, cancelándose el registro existente de las anteriores.
+El extravío o robo de las placas de cualquier tipo deberá notificarse a la Secretaría de Finanzas en un término de cinco días hábiles posteriores al que ocurra la desaparición, previa denuncia de hechos ante la autoridad correspondiente con el objeto de que se tramite la reposición de las mismas, cancelándose el registro existente de las anteriores.
 
 ## TÍTULO III.
 
@@ -513,7 +555,9 @@ De las Licencias.
 
 Para conducir un vehículo el interesado deberá obtener y portar la licencia otorgada por la autoridad competente para tal efecto.
 
-La Secretaría General de Gobierno, previo cumplimiento de los requisitos que exige esta Ley y la reglamentación aplicable, expedirá a los particulares la licencia que lo autorice para conducir vehículos por las vías públicas.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
+La Secretaría de Seguridad Pública, previo cumplimiento de los requisitos que exige esta Ley y la reglamentación aplicable, expedirá a los particulares la licencia que lo autorice para conducir vehículos por las vías públicas.
 
 La licencia de conducir deberá contener el dato que indique si el guiador a cuyo nombre se expidió la misma, realizó ante la autoridad competente su manifestación de donar o no sus órganos en caso de fallecimiento.
 
@@ -563,9 +607,11 @@ Las personas que tengan licencia para conducir expedida por autoridades de otras
 
 De la Suspensión y Cancelación de Licencias.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 50.
 
-La Dirección de Tránsito y Transporte está facultada para suspender o cancelar las licencias de conducir, mediante el procedimiento y por las causas que se señalen en esta Ley o en sus reglamentos.
+La Dirección de Vialidad y Protección Civil está facultada para suspender o cancelar las licencias de conducir, mediante el procedimiento y por las causas que se señalen en esta Ley o en sus reglamentos.
 
 ###### Artículo 51.
 
@@ -653,9 +699,11 @@ III. Las demás que establezca esta ley y sus reglamentos.
 
 De la Circulación en General.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 56.
 
-La Dirección de Tránsito y Transporte así como los Presidentes Municipales, dentro de sus respectivas competencias, dictarán las medidas encaminadas a hacer expedita y segura la circulación de vehículos y peatones en las vías públicas, pudiendo además proponer la expedición de los reglamentos que sean necesarios para tal efecto.
+La Dirección de Vialidad y Protección Civil así como los Presidentes Municipales, dentro de sus respectivas competencias, dictarán las medidas encaminadas a hacer expedita y segura la circulación de vehículos y peatones en las vías públicas, pudiendo además proponer la expedición de los reglamentos que sean necesarios para tal efecto.
 
 ###### Artículo 57.
 
@@ -745,7 +793,9 @@ Para efectos de este artículo, las vías públicas que se ubiquen frente a bien
 
 El estacionamiento de vehículos en fraccionamientos o unidades habitacionales, sujetos al régimen de propiedad en condominio, se regirán por el reglamento interior correspondiente.
 
-La Dirección de Tránsito y Transporte o el Ayuntamiento correspondiente, dentro de sus respectivas competencias, fijarán los mencionados señalamientos, horarios y los días de la semana en que exista la prohibición de estacionarse en los lugares que éstos determinen.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
+La Dirección de Vialidad y Protección Civil o el Ayuntamiento correspondiente, dentro de sus respectivas competencias, fijarán los mencionados señalamientos, horarios y los días de la semana en que exista la prohibición de estacionarse en los lugares que éstos determinen.
 
 ###### Artículo 69.
 
@@ -811,9 +861,11 @@ En los periféricos, anillos de circunvalación, vías de acceso rápido, avenid
 
 De la Educación Vial.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 77.
 
-Es obligación de la Dirección de Tránsito y Transporte la creación y desarrollo de programas de educación y seguridad vial permanentes, involucrando la participación de instituciones educativas y de los diversos sectores de la población, actividades que desempeñará a través de un departamento de educación y seguridad vial.
+Es obligación de la Dirección de Vialidad y Protección Civil la creación y desarrollo de programas de educación y seguridad vial permanentes, involucrando la participación de instituciones educativas y de los diversos sectores de la población, actividades que desempeñará a través de un departamento de educación y seguridad vial.
 
 ###### Artículo 78.
 
@@ -881,9 +933,11 @@ D) Los antecedentes de tránsito en los últimos doce meses del conductor en la 
 
 Corresponde a los Jueces Calificadores imponer y calificar las multas derivadas de las infracciones a esta Ley o a sus reglamentos, pudiendo consignar ante las autoridades competentes a quienes incurran en la comisión de un delito, poniendo a su disposición el vehículo mediante el cual se hubiesen suscitado los hechos, de acuerdo con lo que establezcan las disposiciones legales relativas, sin perjuicio de la aplicación de sanciones por infracciones de tránsito.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 82.
 
-En los casos que proceda la suspensión o la cancelación de la licencia de conducir, dicha sanción se acordará mediante resolución debidamente fundada y motivada emitida por el Director de Tránsito y Transporte.
+En los casos que proceda la suspensión o la cancelación de la licencia de conducir, dicha sanción se acordará mediante resolución debidamente fundada y motivada emitida por el Director de Vialidad y Protección Civil.
 
 Notificado el presunto infractor de la iniciación del procedimiento, se le citará a una audiencia que deberá celebrarse dentro de los cinco días hábiles siguientes para que ofrezca pruebas y alegue lo que a su derecho convenga. Concluida que fuere, se dictará la resolución que corresponda, debiendo notificarle personalmente al infractor, el contenido de la misma.
 
@@ -1052,3 +1106,43 @@ P.O. 1 DE ENERO DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del primero de enero de dos mil cinco.
+
+P.O. 19 DE ENERO DE 2005.
+
+DECRETO No. 121/05 P.E. QUE REFORMA DIVERSOS ARTICULOS DE LA LEY DE TRANSITO DEL ESTADO DE CHIHUAHUA
+
+###### ARTÍCULO PRIMERO
+
+Este Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO
+
+Para el correcto desempeño de las atribuciones que se confieren a la Secretaría de Seguridad Pública, el Ejecutivo Estatal deberá expedir el ordenamiento jurídico que regule el funcionamiento de dicha secretaría, dentro de los 60 días posteriores a la entrada en vigor de las reformas aprobadas, así como realizar las reformas necesarias al Reglamento Interior de la Secretaría General de Gobierno y al Reglamento de la Penitenciaría del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Cuando en la Ley de Protección Civil del Estado de Chihuahua, se haga referencia a la Unidad de Protección Civil, se entenderá citada la Coordinación de Protección Civil.
+
+P.O. 19 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua se haga referencia a la Dirección, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO TERCERO.
+
+Cuando en la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua se haga referencia a la Dirección, se entenderá citada la Secretaría de Administración.
+
+###### ARTÍCULO CUARTO.
+
+Cuando en la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios se haga referencia a la Dirección General de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO QUINTO.
+
+Cuando en el Código Fiscal del Estado se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas y cuando en cualquier otro ordenamiento se haga mención a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración se entenderá citada la Secretaría de Finanzas.
+
+Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Administración, la referencia se entenderá hecha a la Secretaría de Administración.
