@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fiscalizacion-superior-del-estado-de-tamaulipas-23210"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2002-12-18"
+last_updated: "2003-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre del 2001.
 
@@ -571,9 +571,9 @@ A partir del inicio de vigencia de esta ley, se abroga la Ley Orgánica de la Co
 
 Los Poderes del Estado y los organismos y empresas del sector paraestatal deberán presentar sus cuentas trimestralmente, para los efectos previstos en esta ley, a partir del ejercicio fiscal del 2002.
 
-> <small>(REFORMADO, P.O. 18 DE DIECIEMBRE 2002)</small>
+> <small>(REFORMADO, P.O. 10 DE DIECIEMBRE 2003)</small>
 
-Para los efectos previstos en esta ley, los Ayuntamientos del Estado y los organismos públicos municipales presentarán sus cuentas públicas en forma trimestral, a partir del ejecicio fiscal del 2004.
+Para los efectos previstos en esta ley, los Ayuntamientos del Estado y los organismos públicos municipales presentarán sus cuentas públicas en forma trimestral, a partir del ejecicio fiscal del 2005.
 
 ###### ARTICULO CUARTO.
 
@@ -618,3 +618,7 @@ ATENTAMENTE -"SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL D
 P.O. 18 DE DICIEM BRE 2002
 
 UNICO.- El presente Decreto entrará en vigor el 1° de Enero de 2003.
+
+P.O. 10 DE DICIEMBRE DE 2003.
+
+UNICO.- El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1° de Enero de 2004.
