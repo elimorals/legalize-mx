@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ejecucion-de-las-consecuencias-juridicas-del-delito-2216
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-14"
-last_updated: "2002-12-25"
+last_updated: "2004-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EJECUCION DE LAS CONSECUENCIAS JURIDICAS DEL DELITO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2004.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el viernes 14 de septiembre de 2001.
 
@@ -113,11 +113,13 @@ IV. Acordar con el Gobernador del Estado los asuntos que sean competencia de la 
 
 V. Elaborar y someter a la consideración del Gobernador del Estado para su aprobación y firma, en su caso, los proyectos de iniciativas de leyes, reglamentos, acuerdos y convenios relacionados con la ejecución de las consecuencias jurídicas del delito;
 
-VI. Coordinar el Patronato pospenitenciario o el organismo que se constituya con este objeto;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
 
-VII. Conceder a propuesta de la Dirección de Prevención y Readaptación Social, cuando proceda, la libertad preparatoria; y
+VI. Coordinar el Patronato pospenitenciario o el organismo que se constituya con este objeto; y
 
-VIII. Las demás que le asigne esta ley y otras disposiciones jurídicas aplicables en esta materia.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+VII. Las demás que le asigne esta ley y otras disposiciones jurídicas aplicables en esta materia.
 
 ###### Artículo 15.
 
@@ -127,13 +129,17 @@ I. Formular programas y dar seguimiento a las acciones que se deriven de los mis
 
 II. Supervisar el funcionamiento operativo de los centros de ejecución de la pena de prisión y los de medidas de seguridad;
 
-III. Proponer al Secretario General de Gobierno la concesión de la libertad preparatoria;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
 
-IV. Ejecutar las acciones del Patronato pospenitenciario o el organismo que se constituya con este objeto;
+III. Ejecutar las acciones del Patronato pospenitenciario o el organismo que se constituya con este objeto;
 
-V. Otorgar en favor de los internos sentenciados, conjuntamente con el Director de Prevención y Readaptación Social el beneficio de la remisión parcial de la pena de prisión regulado en la Ley.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
 
-VI. Las demás que le confieran esta ley y otras disposiciones jurídicas relacionadas con esta materia, o que expresamente le encomiende el Secretario General de Gobierno.
+IV. Otorgar a favor de los internos sentenciados, conjuntamente con el Director de Prevención y Readaptación Social el beneficio de remisión parcial de la sanción corporal regulado en la Ley; y,
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+V. Las demás que le confieran esta ley y otras disposiciones jurídicas relacionadas con esta materia, o que expresamente le encomiende el Secretario General de Gobierno.
 
 ###### Artículo 16.
 
@@ -141,35 +147,53 @@ Compete al Director de Prevención y Readaptación Social:
 
 I. Planear, elaborar, organizar y aplicar programas y sistemas relacionados con la ejecución de las consecuencias jurídicas del delito;
 
-II. Controlar y vigilar la ejecución de las consecuencias jurídicas del delito previstas en el código penal y en las leyes penales especiales;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
 
-III. Supervisar, vigilar y orientar el funcionamiento de los centros de ejecución de la pena de prisión y los de medidas de seguridad, promoviendo la celebración de convenios con el Gobierno Federal, los Ayuntamientos del Estado, así como organismos e instituciones públicas y privadas y particulares, a fin de lograr la readaptación social de los internos;
+II. Supervisar, vigilar y orientar el funcionamiento de los centros de ejecución de la pena de prisión y los de medidas de seguridad, promoviendo la celebración de convenios con el Gobierno Federal, los Ayuntamientos del Estado, así como organismos e instituciones públicas y privadas y particulares, a fin de lograr la readaptación social de los internos;
 
-IV. Implantar el régimen de readaptación social en los centros instituidos para la ejecución de las consecuencias jurídicas del delito basado en el trabajo, la capacitación para el mismo, la educación y la disciplina;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
 
-V. Establecer en los centros de ejecución de la pena de prisión y los de medidas de seguridad, secciones distintas y separadas para los internos detenidos, procesados y sentenciados, así como un sitio independiente de los anteriores para la internación de mujeres;
+III. Implantar el régimen de readaptación social en los centros instituidos para la ejecución de las consecuencias jurídicas del delito basado en el trabajo, la capacitación para el mismo, la educación y la disciplina;
 
-VI. Proponer al Secretario General de Gobierno la celebración de convenios de carácter general con el Gobierno Federal, a fin de que los reos sentenciados por delitos del orden común extingan su condena en establecimientos dependientes del Ejecutivo Federal;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
 
-VII. Llevar el trámite, dictaminar y someter a la consideración del Subsecretario de Gobierno, el otorgamiento de la libertad preparatoria; así como elaborar, firmar y expedir el salvo conducto otorgado a los internos que previa satisfacción de los requisitos de ley obtengan este beneficio;
+IV. Establecer en los centros de ejecución de la pena de prisión y los de medidas de seguridad, secciones distintas y separadas para los internos detenidos, procesados y sentenciados, así como un sitio independiente de los anteriores para la internación de mujeres;
 
-VIII. Participar en el Patronato pospenitenciario o el organismo que se constituya con este objeto, en la forma y términos establecidos en las disposiciones legales y reglamentarias;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
 
-IX. Cooperar con el Cuerpo de Defensores de Oficio, a fin de obtener el eficaz desempeño de las funciones de éstos;
+V. Proponer al Secretario General de Gobierno la celebración de convenios de carácter general con el Gobierno Federal, a fin de que los reos sentenciados por delitos del orden común extingan su condena en establecimientos dependientes del Ejecutivo Federal;
 
-X. Vigilar que los sentenciados por autoridades judiciales del Estado por delitos del orden común, cumplan en sus términos las consecuencias jurídicas del delito que les correspondan, cuando se les traslade a establecimientos dependientes del Poder Ejecutivo Federal;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
 
-XI. Atender, tramitar y resolver las solicitudes de prescripción de la potestad de ejecutar las consecuencias jurídicas del delito;
+VI. Tramitar, dictaminar y someter a la aprobación del Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito, el otorgamiento del beneficio de libertad preparatoria;
 
-XII. Llevar un registro de las conmutaciones, suspensiones condicionadas de ejecución, sustituciones de penas de prisión, remisiones parciales de la pena y medidas de seguridad impuestas por los tribunales del Estado, así como de las libertades preparatorias que se decreten en los centros de ejecución de la pena de prisión, para su debido cumplimiento;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
 
-XIII. Declarar en libertad a los sentenciados beneficiados con la libertad preparatoria cuando expire el término de la condena que faltare por compurgar conforme se dispone en el artículo 528 del Código de Procedimientos Penales Vigente;
+VII. Participar en el Patronato pospenitenciario o el organismo que se constituya con este objeto, en la forma y términos establecidos en las disposiciones legales y reglamentarias;
 
-XIV. Supervisar, orientar y vigilar la operación y funcionamiento de los centros de ejecución de la pena de prisión y los de medidas de seguridad;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
 
-XV. Otorgar en favor de los internos sentenciados, conjuntamente con el Subsecretario de Gobierno, a propuesta del Director del Centro de Ejecución de la Pena de Prisión, el beneficio de la sanción parcial de la pena regulada por esta ley; y
+VIII. Cooperar con el Cuerpo de Defensores de Oficio, a fin de obtener el eficaz desempeño de las funciones de éstos;
 
-XVI. Las demás que le confieran las leyes, reglamentos, decretos y acuerdos o que expresamente le encomiende el Gobernador del Estado, el Secretario General de Gobierno o el Subsecretario de Gobierno.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+IX. Vigilar que los sentenciados por autoridades judiciales del Estado por delitos del orden común, cumplan en sus términos las consecuencias jurídicas del delito que les correspondan, cuando se les traslade a establecimientos dependientes del Poder Ejecutivo Federal;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+X. Llevar un registro de las conmutaciones, suspensiones condicionadas de ejecución, sustituciones de penas de prisión, remisiones parciales de la pena y medidas de seguridad impuestas por los tribunales del Estado, así como de las libertades preparatorias que se decreten en los centros de ejecución de la pena de prisión, para su debido cumplimiento;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+XI. Supervisar, orientar y vigilar la operación y funcionamiento de los centros de ejecución de la pena de prisión y los de medidas de seguridad;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+XII. Otorgar a favor de los internos sentenciados, conjuntamente con el Subsecretario de Gobierno, a propuesta del Director del Centro de Ejecución de la Pena de Prisión, el beneficio de remisión parcial de la sanción corporal regulada por esta ley; y,
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+XIII. Las demás que le confieran las leyes, reglamentos, decretos y acuerdos o que expresamente le encomiende el Gobernador del Estado, el Secretario General de Gobierno o el Subsecretario de Gobierno.
 
 ###### Artículo 17.
 
@@ -179,11 +203,13 @@ Asimismo, podrá celebrar convenios de colaboración para que la Dirección de P
 
 También podrán celebrarse convenios con autoridades del orden federal, estatal y municipal con el propósito de lograr la atención y readaptación de los internos en su caso, de los centros de ejecución de las consecuencias jurídicas del delito.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 18.
 
-Cuando la sentencia haya causado ejecutoria se hará llegar copia certificada de la misma al sentenciado, así como al juez de vigilancia de la ejecución de las consecuencias jurídicas del delito y a la Dirección de Prevención y Readaptación Social, para que procedan conforme a sus derechos y atribuciones.
+Cuando la sentencia haya causado ejecutoria, el juzgador de la causa hará llegar sendas copias certificadas de la misma al sentenciado, al Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito y a la Dirección de Prevención y Readaptación Social, para que procedan conforme a sus derechos y atribuciones.
 
-Cuando se tenga por cumplida alguna de las consecuencias jurídicas del delito, la Dirección de Prevención y Readaptación Social lo informará al juez de vigilancia de la ejecución de las consecuencias jurídicas del delito y al juez que haya dictado la sentencia.
+Cuando se tenga por cumplida alguna de las consecuencias jurídicas del delito, la Dirección de Prevención y Readaptación Social lo informará al Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito competente y al juez que haya dictado la sentencia.
 
 ###### Artículo 19.
 
@@ -223,77 +249,81 @@ XI. Las demás que le confieran las autoridades superiores, así como las expres
 
 Son autoridades judiciales encargadas de la aplicación de esta Ley:
 
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
 I. Las salas de circuito; y,
 
-II. Los jueces de vigilancia de la ejecución de las consecuencias jurídicas del delito.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+II. Los jueces de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### Artículo 22.
 
 Los tribunales de vigilancia de la ejecución de las consecuencias jurídicas del delito tendrán la organización que disponga la Ley Orgánica del Poder Judicial y demás normas legales aplicables.
 
-Para ser juez o magistrado de vigilancia de la ejecución de las consecuencias jurídicas del delito, se deberán reunir los requisitos exigidos por la ley para ser juez de primera instancia o magistrado de sala de circuito en materia penal.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### Artículo 23.
 
-En los distritos judiciales de Ahome, Guasave, Culiacán y Mazatlán habrá, por lo menos, un juez de vigilancia de la ejecución de las consecuencias jurídicas del delito.
+En los distritos judiciales de Ahome, Guasave, Culiacán y Mazatlán habrá, por lo menos, un juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito.
 
 La jurisdicción de cada uno de ellos se ejercerá: la del distrito judicial de Ahome, en éste y en los de El Fuerte y Choix; la del distrito judicial de Guasave, en éste y en los de Sinaloa, Salvador Alvarado, Mocorito y Angostura; la del distrito judicial de Culiacán, en éste y en los distritos judiciales de Badiraguato, Navolato, Cosalá y Elota; la del distrito judicial de Mazatlán, en éste y en los de San Ignacio, Concordia, Rosario y Escuinapa.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 24.
 
-A los jueces de vigilancia de la ejecución de las consecuencias jurídicas del delito les corresponde vigilar y garantizar jurisdiccionalmente el estricto cumplimiento de las normas que regulan la ejecución de las consecuencias jurídicas del delito, así como el respeto de los derechos de toda persona mientras se mantenga privada de la libertad por estar sujeta a un proceso penal.
+A los jueces de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito les corresponde vigilar y garantizar jurisdiccionalmente el estricto cumplimiento de las normas que regulan la ejecución de las consecuencias jurídicas del delito, así como el respeto de los derechos de toda persona mientras se mantenga privada de la libertad por estar sujeta a un proceso penal.
 
 En todo caso, podrán contar con opiniones de profesionales especializados, cuando lo requiera la resolución que deban emitir.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 25.
 
-Son atribuciones del juez de vigilancia de la ejecución de las consecuencias jurídicas del delito, que ejercerá como autoridad jurisdiccional tratándose de controversias suscitadas entre la o las autoridades administrativas responsables de la aplicación de esta ley y los internos de los centros, cuando así proceda, las siguientes:
+Son atribuciones del juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito, que ejercerá como autoridad jurisdiccional tratándose de controversias suscitadas entre la o las autoridades administrativas responsables de la aplicación de esta ley y los internos de los centros, cuando así proceda, las siguientes:
 
-I. Controlar la ejecución de las consecuencias jurídicas del delito;
+I. Declarar la extinción de las consecuencias jurídicas del delito, cuando proceda en los términos previstos por el Código Penal;
 
-II. Practicar, en su caso, el cómputo de las consecuencias jurídicas del delito;
+II. Conocer y resolver los incidentes y recursos previstos en la presente Ley, o los que se regulen en otras disposiciones jurídicas de la materia;
 
-III. Tramitar y resolver los recursos e incidentes a que se refiere esta Ley, o los que se regulen en otras disposiciones jurídicas relacionadas con la materia;
+III. Resolver sobre las propuestas de otorgamiento de la libertad preparatoria que formule el Director de Prevención y Readaptación Social;
 
-IV. Declarar la extinción de las consecuencias jurídicas del delito en los casos que proceda, de conformidad con lo dispuesto por el código penal;
+IV. Resolver sobre el pedimento que formulen los sentenciados en el caso previsto por el artículo 528 del Código de Procedimientos Penales;
 
-V. Realizar visitas periódicas a los centros de ejecución de la pena de prisión y los de medidas de seguridad y entrevistarse personalmente con los internos que lo soliciten, dentro de su jurisdicción;
+V. Autorizar permisos de salida, en los términos previstos por la presente Ley;
 
-VI. Realizar visitas periódicas a los centros de privación de libertad por sujeción a proceso penal y entrevistarse personalmente, con los internos que lo soliciten, dentro del territorio de su jurisdicción;
+VI. Resolver sobre las solicitudes de rehabilitación de derechos, funciones o empleo, en los términos del Código Penal y la presente Ley;
 
-VII. Ordenar la libertad por cumplimiento de la condena, para gozar del período de suspensión condicional de la pena de prisión, o por haber sido sustituida la pena de prisión impuesta en los casos procedentes, y extender las certificaciones respectivas;
+VII. Las demás que les encomienden las leyes y disposiciones jurídicas aplicables.
 
-VIII. Controlar el cumplimiento de las obligaciones impuestas para gozar de alguna de las formas sustitutivas de la ejecución de la pena de prisión, de conformidad con lo establecido en el código penal;
+Para los efectos de este artículo, el juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito podrá solicitar la colaboración necesaria de cualesquier autoridad judicial o administrativa.
 
-IX. Controlar el cumplimiento de las obligaciones impuestas para gozar de la suspensión condicional de la ejecución de la pena de prisión, de conformidad con lo establecido en el código penal;
-
-X. Vigilar que no haya en los centros de ejecución de la pena de prisión, persona alguna detenida en forma ilegal, o persona menor de dieciocho años de edad;
-
-XI. Controlar el cumplimiento de las consecuencias jurídicas del delito reguladas en el código penal o en las leyes penales especiales, que no impliquen privación de la libertad;
-
-XII. Conocer del recurso que se interponga en contra de los actos o resoluciones de las autoridades ejecutoras de las consecuencias jurídicas del delito, por la inobservancia de las disposiciones de esta ley y de las demás disposiciones jurídicas relacionadas con la ejecución de las consecuencias jurídicas del delito;
-
-XIII. Conceder, cuando se hubiere extinguido la sanción privativa de libertad, la solicitud de rehabilitación de los derechos civiles o políticos tratándose de internos que hubieren sido suspendidos en el ejercicio de los mismos; y
-
-XIV. Las demás que le asignen esta Ley y otras disposiciones jurídicas.
-
-Para los efectos de este artículo, el juez de vigilancia de la ejecución de las consecuencias jurídicas del delito podrá solicitar la colaboración necesaria de cualesquier autoridad judicial o administrativa.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### Artículo 26.
 
-Para el cumplimiento de lo señalado en el artículo anterior, el juez de vigilancia de la ejecución de las consecuencias jurídicas del delito verificará, por lo menos trimestralmente, que el procedimiento y las instituciones de cumplimiento de las consecuencias jurídicas del delito se sujeten y cumplan con los contenidos de esta Ley y demás disposiciones jurídicas de la materia.
+Para el cumplimiento de lo señalado en el artículo anterior, el Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito verificará, por lo menos semestralmente, que las instituciones de cumplimiento de las consecuencias jurídicas del delito se sujeten y cumplan con los contenidos de esta Ley y demás disposiciones jurídicas de la materia.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### Artículo 27.
 
-Las funciones asignadas por esta Ley y demás disposiciones jurídicas relacionadas con la materia a las salas de vigilancia de la ejecución de las consecuencias jurídicas del delito, serán realizadas por las salas de circuito del Poder Judicial del Estado. Su competencia territorial será la que establezca el Pleno del Supremo Tribunal de Justicia del Estado.
+Las Salas de Circuito del Poder Judicial del Estado, serán competentes para conocer el recurso de apelación que se interponga contra las resoluciones que dicten los Jueces de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### Artículo 28.
 
-Las salas de vigilancia de la ejecución de las consecuencias jurídicas del delito serán competentes para conocer el recurso de apelación que se interponga contra las resoluciones que dicten los jueces de vigilancia de la ejecución de las consecuencias jurídicas del delito que correspondan a su competencia territorial, de conformidad con lo dispuesto en la Ley Orgánica del Poder Judicial.
+La competencia territorial de las Salas de Circuito, cuando conozcan de lo preceptuado en el artículo anterior, será de conformidad con lo dispuesto en la Ley Orgánica del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### Artículo 29.
 
-Cuando las autoridades previstas en los ordenamientos legales concedieren amnistía o indulto para el caso de sentenciados, el juez de vigilancia de la ejecución de las consecuencias jurídicas del delito ordenará su cumplimiento y será competente para resolver los incidentes que se susciten en su aplicación.
+Cuando las autoridades previstas en los ordenamientos legales concedieren amnistía o indulto para el caso de sentenciados, el Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito ordenará su cumplimiento y será competente para resolver los incidentes que se susciten en su aplicación.
 
 ###### Artículo 30.
 
@@ -389,15 +419,17 @@ En ambos casos, deberá atenderse a las condiciones personales, intereses y nece
 
 El cumplimiento de la pena de prisión no tiene por objeto infligir sufrimientos físicos a los internos ni humillar su dignidad personal, por lo que quedan prohibidos el uso de la violencia o la práctica de tortura y maltrato corporal.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 46.
 
 Los centros de procesados son establecimientos destinados exclusivamente a la retención y custodia de detenidos provisionalmente por orden judicial.
 
-El Ejecutivo del Estado dispondrá que, por lo menos, exista un establecimiento de este tipo por municipio, tanto para mujeres como para hombres, convenientemente separados de los sentenciados, a fin de facilitar la impartición de justicia penal y mantener a los internos cerca de su medio social y familiar.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### Artículo 47.
 
-El régimen de prisión preventiva tiene por objeto retener al interno a disposición de la autoridad judicial. El principio de presunción de inocencia presidirá el régimen de privación de libertad de los procesados, por lo que las disposiciones de esta Ley les son aplicables siempre y cuando no se contradiga dicho principio y resulten más favorables y útiles para resguardar su personalidad. Las cuestiones que puedan presentarse en su aplicación serán resueltas por el juez de vigilancia de la ejecución de las consecuencias jurídicas del delito.
+El régimen de prisión preventiva tiene por objeto retener al interno a disposición de la autoridad judicial. El principio de presunción de inocencia presidirá el régimen de privación de libertad de los procesados, por lo que las disposiciones de esta Ley les son aplicables siempre y cuando no se contradiga dicho principio y resulten más favorables y útiles para resguardar su personalidad. Las cuestiones que puedan presentarse en su aplicación serán resueltas por el juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito.
 
 ###### Artículo 48.
 
@@ -449,9 +481,11 @@ IV. Centro geriátrico, para los internos que hubiesen cumplido más de sesenta 
 
 Mientras en el sistema de los centros de ejecución de la pena de prisión no se cuente con estos centros especiales, en los centros existentes se establecerán secciones especiales y, en su defecto, el Ejecutivo del Estado, a través de la Dirección de Prevención y Readaptación Social, podrá solicitar la colaboración de las instituciones de salud pública y asistencia social que existan en el Estado, formalizando con ellos los convenios de colaboración procedentes.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 54.
 
-Cuando en un centro de ejecución de la pena de prisión exista sobrepoblación, de oficio, la Dirección de Prevención y Readaptación Social establecerán programas de aplicación de las penas sustitutivas y de concesión de los beneficios de la pena de prisión, respectivamente.
+Cuando en un centro de ejecución de la pena de prisión exista sobrepoblación, la Dirección de Prevención y Readaptación Social deberá hacer del conocimiento de la superioridad dicha situación, a fin de que se adopten las medidas necesarias para garantizar la readaptación social de los internos.
 
 ### CAPÍTULO II. DEL INGRESO, EGRESO Y TRASLADO
 
@@ -595,7 +629,9 @@ Las actividades integrantes del régimen de readaptación social, aunque regidas
 
 Las penas privativas de libertad se ejecutarán según el régimen de readaptación social planificado y precisado para cada interno, el cual se desarrollará en el centro y en el área que posibilite en mayor medida su reintegración al grupo social.
 
-En ningún caso se negará al sentenciado el disfrute del régimen de libertad preparatoria, cuando por la evolución de su régimen de readaptación social y la satisfacción de los demás requisitos y condiciones citadas en los artículos 126, 127, 128 y 129 se haga merecedor de él.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
+En ningún caso se negará al sentenciado el disfrute del régimen de libertad preparatoria, cuando por la evolución de su régimen de readaptación social y la satisfacción de los demás requisitos y condiciones previstas para su otorgamiento por esta Ley, se haga merecedor de él.
 
 ### CAPÍTULO IV. RÉGIMEN DISCIPLINARIO
 
@@ -713,9 +749,11 @@ La resolución que se dicte especificará la infracción por la que se le declar
 
 El interno, por sí mismo, o a través de sus familiares o defensor, podrá recurrir, verbalmente o por escrito, la sanción disciplinaria impuesta, ante el propio Consejo Técnico Interdisciplinario, ante el Director del centro o directamente ante la Dirección de Prevención y Readaptación Social, la cual, en un plazo que no exceda de setenta y dos horas, dictará la resolución que proceda, comunicándola para su ejecución al Director del centro y al interesado, agregándose la copia de aquélla al expediente del interno.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 88.
 
-Si el interno no estuviere conforme con la resolución dictada, podrá acudir ante el juez de vigilancia de la ejecución de las consecuencias jurídicas del delito para que, en un plazo que no exceda de cinco días hábiles, emita resolución confirmando, revocando o modificando la decisión del Director de Readaptación Social.
+Si el interno no estuviere conforme con la resolución dictada, podrá acudir ante el juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito para que, en un plazo que no exceda de cinco días hábiles, emita resolución confirmando, revocando o modificando la decisión del Director de Prevención y Readaptación Social.
 
 ###### Artículo 89.
 
@@ -917,6 +955,8 @@ La arquitectura del centro deberá estar de acuerdo con la clase y ubicación ge
 
 ### CAPÍTULO X. PERMISOS DE SALIDA
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 112.
 
 La administración garantizará la libertad religiosa de los internos y facilitará los medios para que pueda llevarse a cabo, por lo que deberá expedirse el reglamento respectivo.
@@ -957,9 +997,11 @@ La revisión a mujeres se realizarán por personal del mismo sexo.
 
 ### CAPITULO XII. DE LA REMISIÓN PARCIAL DE LA SANCIÓN CORPORAL
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 117.
 
-En el caso de fallecimiento o enfermedad grave de los padres, cónyuge, concubina, concubinario, hijos, hermanos, así como por importantes y comprobados motivos, con las medidas de seguridad adecuadas, se podrán conceder permisos de salida, salvo que concurran circunstancias excepcionales que las impidan, previa autorización del juez de vigilancia de las consecuencias jurídicas del delito.
+En el caso de fallecimiento o enfermedad grave de los padres, el cónyuge, concubina, concubinario, hijos, así como por importantes y comprobados motivos, con las medidas de seguridad adecuadas, se podrán conceder permisos de salida, salvo que concurran circunstancias excepcionales que las impidan, previa autorización del Juez de Primera Instancia de Vigilancia de las Consecuencias Jurídicas del Delito.
 
 ###### Artículo 118.
 
@@ -981,7 +1023,11 @@ Los estímulos y recompensas serán incluidos y considerados para el otorgamient
 
 ###### Artículo 120.
 
-Cuando el interno haya observado buena conducta, no se resista a participar en las actividades de trabajo, educativas y deportivas que se le asignen en el centro y revele a través de éstas u otros datos una efectiva readaptación social, por cada dos días de permanencia se le concederá al interno la remisión de un día. Siempre será necesaria como condición no dispensable, el dato de su efectiva readaptación social, como factor determinante para conceder o negar la remisión parcial de la sanción corporal.
+El beneficio de remisión parcial de la sanción corporal consiste en la disminución de un día de la pena de prisión establecida en la sentencia judicial por cada dos días en que el interno participe en actividades educativas, laborales y culturales en el centro de ejecución de la pena de prisión.
+
+Siempre será necesaria como condición no dispensable, el dato de su efectiva readaptación social, como factor determinante para conceder o negar la remisión parcial de la sanción corporal.
+
+Este beneficio no se otorgará a los sentenciados por los delitos de secuestro previstos en los artículos 167 y 168 del Código Penal para el Estado.
 
 ###### Artículo 121.
 
@@ -999,6 +1045,8 @@ La remisión parcial de la sanción corporal, funcionará simultáneamente con e
 
 ### CAPÍTULO XV. DE LA ASISTENCIA POSPENITENCIARIA
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 123.
 
 Los internos recibirán a su ingreso información escrita sobre el régimen del centro, sus derechos y deberes, las normas disciplinarias y los medios para formular peticiones, quejas o recursos. A quienes no puedan entender la información escrita, les será dada por el medio a través del cual puedan comprenderla.
@@ -1011,11 +1059,15 @@ Si los internos interpusieran alguno de los recursos previstos en esta ley, lo p
 
 ### CAPÍTULO I. DE LA SEMILIBERTAD
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 125.
 
 La libertad preparatoria permitirá al sentenciado el egreso del centro y su reintegración al medio libre antes del cumplimiento del tiempo señalado para la pena de prisión.
 
-La Dirección de Prevención y Readaptación Social, a petición del sentenciado, y previos los informes del Consejo Técnico Interdisciplinario del Centro, iniciará el trámite para conceder al sentenciado el régimen de libertad preparatoria en los términos dispuestos por los artículos 517, 518, 519 y 520 del Código de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
+La Dirección de Prevención y Readaptación Social, a petición del sentenciado, y previos los informes del Consejo Técnico Interdisciplinario del Centro, iniciará el trámite para conceder al sentenciado el régimen de libertad preparatoria, la cual será otorgada por el Juez de Primera Instancia de Ejecución de las Consecuencias Jurídicas del Delito.
 
 El beneficio de la libertad preparatoria no se concederá a sentenciados por el delito de secuestro previsto por los artículos 167 y 168 del Código Penal para el Estado.
 
@@ -1041,7 +1093,13 @@ II. Demostrar que cuenta con oferta para desempeñar un trabajo, profesión u of
 
 III. Demostrar, en su caso, que se integrará a un programa de educación o de formación profesional; y,
 
-IV. Demostrar que cuenta con el apoyo de persona física o moral, quien se hará responsable ante la autoridad de su comportamiento en libertad.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+IV. Demostrar que cuenta con el apoyo de persona física o moral, quien se hará responsable ante la autoridad de su comportamiento en libertad; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ENERO DE 2004)</small>
+
+V. Haber reparado el daño u otorgado garantía para cubrir su monto.
 
 La autoridad concederá la libertad preparatoria, aun cuando no se satisfagan los requisitos de las fracciones I y II, cuando el interno demuestre plenamente que la no satisfacción de los mismos obedece a causas ajenas a él. La resolución respectiva deberá estar debidamente motivada.
 
@@ -1049,9 +1107,13 @@ La autoridad concederá la libertad preparatoria, aun cuando no se satisfagan lo
 
 El sentenciado a quien se le haya concedido el régimen de libertad preparatoria, estará obligado a:
 
-I. Presentarse ante la autoridad que se le señale las veces que sea requerido, para demostrar que se están cumpliendo los requisitos señalados en el artículo anterior;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
 
-II. Residir en el domicilio que se señale en la resolución de concesión del régimen de libertad preparatoria. El cambio de domicilio deberá estar debidamente fundado y será autorizado por el Director de Readaptación Social;
+I. Presentarse ante el Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito las veces que sea requerido, para demostrar que se están cumpliendo los requisitos señalados en el artículo anterior;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+II. Residir en el domicilio que se señale en la resolución de concesión del régimen de libertad preparatoria. Cualquier cambio de domicilio deberá estar debidamente fundado y será autorizado previamente por el Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito
 
 III. En los términos precisados en la resolución que le concede la libertad preparatoria, no frecuentar determinados lugares o personas, abstenerse de practicar hábitos que, en su caso, se consideren inconvenientes para su readaptación social; y,
 
@@ -1059,9 +1121,11 @@ IV. Cumplir con el programa que le sea asignado de apoyo y acercamiento para con
 
 Las condiciones señaladas en las fracciones I, II y III deberán ser observadas desde el día del egreso hasta el cumplimiento del tiempo total de la pena de prisión. La condición señalada en la fracción IV durará el tiempo establecido en el programa.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 129.
 
-El sentenciado podrá obtener su libertad cuando dictámenes periciales demuestren que su salud se encuentra gravemente deteriorada y que la muerte le sobrevendrá en un plazo no mayor de un año.
+Las condiciones previstas en las fracciones I, II y III del artículo anterior deberán ser observadas desde el día del egreso hasta el cumplimiento total de la pena de prisión. La condición señalada en la fracción IV durará el tiempo establecido en el programa.
 
 ###### Artículo 130.
 
@@ -1071,17 +1135,17 @@ Cuando al sentenciado en régimen de libertad preparatoria se le dictare nuevo a
 
 Si el auto de formal prisión o de sujeción a proceso se dejaren sin efecto por resolución posterior, el sentenciado podrá ser incorporado, de nuevo, al régimen de libertad preparatoria.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 132.
 
-Cuando la Dirección de Prevención y Readaptación Social dicte la revocación de la libertad preparatoria, lo comunicará a la Procuraduría General de Justicia para que proceda a la detención del sentenciado y lo ponga a disposición del centro a fin de que cumpla el tiempo que le resta de la consecuencia jurídica impuesta.
+Cuando el Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito dicte la revocación de la libertad preparatoria, lo comunicará a la Procuraduría General de Justicia para que proceda conforme a sus atribuciones legales y el sentenciado cumpla el tiempo que le resta de la consecuencia jurídica impuesta.
 
 ### CAPÍTULO I. DE LA MULTA
 
 ###### Artículo 133.
 
 Los sentenciados que hayan cumplido su pena y los que de algún otro modo hayan extinguido su responsabilidad penal, deben ser plenamente reintegrados en el ejercicio de sus derechos como ciudadanos.
-
-Los antecedentes penales no podrán ser, en ningún caso, motivo de discriminación social o jurídica.
 
 ###### Artículo 134.
 
@@ -1097,7 +1161,7 @@ El Patronato Pospenitenciario o la institución jurídica igualmente idónea col
 
 ###### Artículo 136.
 
-Cuando en la sentencia ejecutoria recibida se haya sustituido la pena de prisión por la de semilibertad, la Dirección de Prevención y Readaptación Social procederá a definir el programa que deberá ser cumplido por el sentenciado en el lugar en el que se ejecute la reclusión y durante el tiempo que goce de libertad, haciéndolo del conocimiento del sentenciado y enviando copia certificada al juez de vigilancia de la ejecución de las consecuencias jurídicas del delito. Dicho programa se revisará y reajustará periódicamente, cuando sea necesario.
+Cuando en la sentencia ejecutoria recibida se haya sustituido la pena de prisión por la de semilibertad, la Dirección de Prevención y Readaptación Social procederá a definir el programa que deberá ser cumplido por el sentenciado en el lugar en el que se ejecute la reclusión y durante el tiempo que goce de libertad, haciéndolo del conocimiento del sentenciado y enviando copia certificada al Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito. Dicho programa se revisará y reajustará periódicamente, cuando sea necesario.
 
 ###### Artículo 137.
 
@@ -1105,13 +1169,17 @@ El establecimiento en el que deba cumplirse la reclusión será el que se encuen
 
 Las mujeres cuya pena de prisión haya sido sustituida por la de semilibertad tendrán derecho a que sus hijos de hasta seis meses de edad puedan permanecer con ellas en el lugar en el que cumplirán la reclusión.
 
-###### Artículo 138.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
-El sentenciado que se considere afectado con el programa de cumplimiento de la pena de semilibertad que le haya sido impuesto o con cualquier circunstancia que sea contraria a las disposiciones legales relacionadas con dicha pena, podrá acudir ante el juez de vigilancia de la ejecución de las consecuencias jurídicas del delito para que resuelva sobre su petición.
+###### Articulo 138.
+
+El sentenciado que se considere afectado con el programa de cumplimiento de la pena de semilibertad que le haya sido impuesta o con cualquier circunstancia que sea contraria a las disposiciones legales relacionadas con dicha pena, podrá acudir ante el Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito para que resuelva sobre su petición.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### Artículo 139.
 
-Cuando el sentenciado no se presente al lugar de reclusión o deje de cumplir con el programa que le fuere impuesto, la Dirección de Prevención y Readaptación Social informará sobre ello a la Procuraduría General de Justicia del Estado, al tribunal que haya ordenado la sustitución y al juez de vigilancia de la ejecución de la consecuencias jurídicas del delito, para que procedan conforme a sus atribuciones.
+Cuando el sentenciado no se presente al lugar de reclusión o deje de cumplir con el programa que le fuere impuesto, la Dirección de Prevención y Readaptación Social informará sobre ello a la Procuraduría General de Justicia del Estado, al tribunal que haya ordenado la sustitución y al Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito, para que procedan conforme a sus atribuciones.
 
 ## TÍTULO CUARTO. DE LA EJECUCIÓN DE LAS PENAS NO PRIVATIVAS DE LIBERTAD
 
@@ -1125,15 +1193,21 @@ En el momento de notificar al sentenciado lo anterior se le hará saber que si n
 
 Si el pago no se realiza en los plazos establecidos, se hará uso del procedimiento económico coactivo, quedando su trámite a cargo de la Dirección de Prevención y Readaptación Social.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 141.
 
-El sentenciado que se considere afectado con los plazos señalados para el pago del monto de la multa, podrá solicitar la reconsideración de los mismos ante el juez de vigilancia de la ejecución de las consecuencias jurídicas del delito.
+El sentenciado que se considere afectado con los plazos señalados para el pago del monto de la multa, podrá solicitar la reconsideración de los mismos ante el Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### Artículo 142.
 
-Las cantidades que reciba el personal de la Dirección de Prevención y Readaptación Social por concepto de pago de multas, serán remitidas inmediatamente a la Secretaría de Administración y Finanzas del Estado, la que expedirá los recibos correspondientes, cuyos originales serán entregados al sentenciado, dejando copia de los mismos en el expediente de ejecución para constancia y remitiendo, a su vez, copia certificada al juez de vigilancia de la ejecución de las consecuencias jurídicas del delito.
+Las cantidades que reciba el personal de la Dirección de Prevención y Readaptación Social por concepto de pago de multas, serán remitidas inmediatamente a la Secretaría de Administración y Finanzas del Estado, la que expedirá los recibos correspondientes, cuyos originales serán entregados al sentenciado, dejando copia de los mismos en el expediente de ejecución para constancia y remitiendo, a su vez, copia certificada al Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito.
 
 ### CAPÍTULO IV. DE LA SUSPENSIÓN, PRIVACIÓN E INHABILITACIÓN DE DERECHOS, FUNCIONES O EMPLEOS
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### Artículo 143.
 
@@ -1147,25 +1221,31 @@ Una vez recibida copia de la sentencia ejecutoria en la que se imponga la pena d
 
 Para los efectos de este artículo deberá observarse lo establecido en el código penal.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 145.
 
-El sentenciado que se considere afectado por la naturaleza del trabajo asignado, o por no haberse observado lo establecido en el artículo anterior, podrá solicitar la reconsideración de la medida ante el juez de vigilancia de la ejecución de las consecuencias jurídicas del delito.
+El sentenciado que se considere afectado por la naturaleza del trabajo asignado, o por no haberse observado lo establecido en el artículo anterior, podrá solicitar la reconsideración de la medida ante el Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### Artículo 146.
 
-La institución favorecida con la prestación del trabajo en favor de la comunidad deberá rendir mensualmente a la Dirección de Prevención y Readaptación Social y al juez de vigilancia de la ejecución de las consecuencias jurídicas del delito, informe detallado de las actividades realizadas por el sentenciado, pudiendo en, cualquier momento, comunicar su ausencia o faltas disciplinarias.
+La institución favorecida con la prestación del trabajo en favor de la comunidad deberá rendir mensualmente a la Dirección de Prevención y Readaptación Social y al Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito, informe detallado de las actividades realizadas por el sentenciado, debiendo comunicar su ausencia o faltas disciplinarias.
 
-Si el sentenciado se ausenta injustificadamente durante tres días en el cumplimiento de la pena, el juez de vigilancia de la ejecución de las consecuencias jurídicas del delito, ordenará, en su caso, que la pena sustituida se ejecute, computándose los días de trabajo que hayan sido cumplidos en favor de la comunidad.
+Si el sentenciado se ausenta injustificadamente durante tres días en el cumplimiento de la pena, el Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito, ordenará, en su caso, que la pena sustituida se ejecute, computándose los días de trabajo que hayan sido cumplidos en favor de la comunidad.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### Artículo 147.
 
-Cuando las condiciones laborales y personales del sentenciado fueren diferentes a las que existían en el momento en que se le impuso el trabajo en favor de la comunidad, podrá acudir ante el juez de vigilancia de la ejecución de las consecuencias jurídicas del delito para que se realicen las adecuaciones necesarias y poder cumplir con dicha pena.
+Cuando las condiciones laborales y personales del sentenciado fueren diferentes a las que existían en el momento en que se le impuso el trabajo en favor de la comunidad, podrá acudir ante el Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito para que se realicen las adecuaciones necesarias y poder cumplir con dicha pena.
 
 ### CAPÍTULO I. DE LOS CENTROS DE EJECUCIÓN DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 148.
 
-Cuando en la sentencia ejecutoria que se reciba, se imponga la suspensión, privación o inhabilitación de derechos, funciones o empleos, la Dirección de Prevención y Readaptación Social girará comunicado, acompañando copia certificada de la sentencia, a la autoridad o institución que corresponda, notificándole dicha resolución, y al juez de vigilancia de ejecución de las consecuencias jurídicas del delito.
+Cuando en la sentencia ejecutoria que se reciba, se imponga la suspensión, privación o inhabilitación de derechos, funciones o empleos, la Dirección de Prevención y Readaptación Social girará comunicado, acompañando copia certificada de la sentencia, a la autoridad o institución que corresponda, notificándole dicha resolución, y al Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito.
 
 ###### Artículo 149.
 
@@ -1203,9 +1283,11 @@ Una vez recibida copia de la sentencia ejecutoria en la que se imponga medida de
 
 Si se decide la entrega del sentenciado a quien legalmente le corresponda hacerse cargo de él, la Dirección formulará la documentación en la que se establezcan las obligaciones y garantías para satisfacer la aplicación del tratamiento y la vigilancia del sentenciado.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 155.
 
-La institución en la que haya sido internado el sentenciado o la que esté llevando a cabo el programa de tratamiento deberá enviar a la Dirección de Prevención y Readaptación Social y al juez de vigilancia de ejecución de las consecuencias jurídicas del delito, informe mensual detallado del desarrollo, avances y culminación del tratamiento, así como las ausencias o dificultades originadas por parte del sentenciado o de quien legalmente le haya sido entregado éste.
+La institución en la que haya sido internado el sentenciado o la que esté llevando a cabo el programa de tratamiento deberá enviar a la Dirección de Prevención y Readaptación Social y al Juez de Primera Instancia de Vigilancia de Ejecución de las Consecuencias Jurídicas del Delito, informe mensual detallado del desarrollo, avances y culminación del tratamiento, así como las ausencias o dificultades originadas por parte del sentenciado o de quien legalmente le haya sido entregado éste.
 
 ###### Artículo 156.
 
@@ -1221,15 +1303,19 @@ Si transcurrido el tiempo señalado en el párrafo anterior el sentenciado no se
 
 Una vez recibida copia de la sentencia ejecutoria en la que se establezca que el delito cometido por el sentenciado fue consecuencia de su inclinación o del abuso de bebidas alcohólicas, de estupefacientes, psicotrópicos o substancias que produzcan efectos similares, la Dirección de Prevención y Readaptación Social asignará al sentenciado a la institución pública o privada que determine, para que se formule y aplique el tratamiento de deshabituación o desintoxicación, según el caso y por el tiempo necesario para su rehabilitación.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 158.
 
-El sentenciado que se considere afectado por la naturaleza y duración del tratamiento o por no haberse observado lo establecido en el código penal, podrá solicitar la reconsideración de la medida ante el juez de vigilancia de la ejecución de las consecuencias jurídicas del delito.
+El sentenciado que se considere afectado por la naturaleza y duración del tratamiento o por no haberse observado lo establecido en el código penal, podrá solicitar la reconsideración de la medida ante el Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### Artículo 159.
 
-La institución a la que haya sido asignado el sentenciado deberá enviar a la Dirección de Prevención y Readaptación Social y al juez de vigilancia de la ejecución de las consecuencias jurídicas del delito, el programa de tratamiento que aplicará, así como informar quincenalmente de manera detallada su desarrollo, avances y, en su caso, culminación, pudiendo en cualquier momento, comunicar la ausencia o faltas disciplinarias del sentenciado.
+La institución a la que haya sido asignado el sentenciado deberá enviar a la Dirección de Prevención y Readaptación Social y al Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito, el programa de tratamiento que aplicará, así como informar quincenalmente de manera detallada su desarrollo, avances y, en su caso, culminación, pudiendo en cualquier momento, comunicar la ausencia o faltas disciplinarias del sentenciado.
 
-Si el sentenciado se ausenta injustificadamente durante un tiempo que impida la continuación del tratamiento o el logro de sus objetivos, el juez de vigilancia de la ejecución de las consecuencias jurídicas del delito y la Dirección de Prevención y Readaptación Social procederán conforme a sus atribuciones.
+Si el sentenciado se ausenta injustificadamente durante un tiempo que impida la continuación del tratamiento o el logro de sus objetivos, el Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito y la Dirección de Prevención y Readaptación Social procederán conforme a sus atribuciones.
 
 ### CAPÍTULO ÚNICO. DEL DERECHO DE DEFENSA
 
@@ -1243,9 +1329,11 @@ Una vez recibida copia de la sentencia ejecutoria, la Dirección de Prevención 
 
 Una vez recibida copia de la sentencia ejecutoria, la Dirección de Prevención y Readaptación Social verificará si el tribunal ha ordenado la prohibición de ir a una determinada circunscripción territorial o de residir en ella. Si así fuere, la Dirección notificará lo anterior a las autoridades administrativas de los lugares de la circunscripción territorial que comprenda la prohibición para que designen el personal que deba ejercer las funciones de vigilancia y dar cumplimiento a la sentencia penal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 162.
 
-Las autoridades a que se refiere el artículo anterior deberán rendir mensualmente a la Dirección de Prevención y Readaptación Social y al juez de vigilancia de la ejecución de las consecuencias jurídicas del delito, informe detallado sobre el cumplimiento o no de la prohibición.
+Las autoridades a que se refiere el artículo anterior deberán rendir mensualmente a la Dirección de Prevención y Readaptación Social y al Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito, informe detallado sobre el cumplimiento o no de la prohibición.
 
 En caso de incumplimiento de la prohibición por parte del sentenciado, se levantará el acta correspondiente y se remitirá a la Dirección de Prevención y Readaptación Social para que ésta haga del conocimiento de la Procuraduría General de Justicia del Estado los hechos, para los efectos legales que procedan.
 
@@ -1257,23 +1345,29 @@ Una vez recibida copia de la sentencia ejecutoria, la Dirección de Prevención 
 
 Si de la sentencia se desprende la prohibición de realizar determinadas operaciones, intervención, suspensión o disolución de la persona moral, se ordenará al personal de la Dirección la realización de los trámites correspondientes ante los tribunales competentes para que de acuerdo con las disposiciones legales aplicables se proceda a hacer efectiva la sentencia de carácter penal.
 
-## TÍTULO SÉPTIMO. PROCEDIMIENTO DE ACTUACIÓN ANTE LOS JUECES DE VIGILANCIA DE LA EJECUCIÓN DE LAS CONSECUENCIAS JURÍDICAS DEL DELITO
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ENERO DE 2004)</small>
+
+## TÍTULO SÉPTIMO. PROCEDIMIENTO DE ACTUACIÓN ANTE LOS JUECES DE PRIMERA INSTANCIA DE VIGILANCIA DE LA EJECUCIÓN DE LAS CONSECUENCIAS JURÍDICAS DEL DELITO
 
 ###### Artículo 164.
 
 Las consecuencias jurídicas del delito se ejecutarán al causar ejecutoria las sentencias; el tribunal que haga dicha declaración ordenará inmediatamente las comunicaciones que correspondan.
 
-Cuando se deba cumplir pena de prisión o medida de seguridad privativa de libertad, el tribunal competente remitirá certificación de la sentencia al juez de vigilancia de la ejecución de las consecuencias jurídicas del delito, a la Dirección de Prevención y Readaptación Social y al Director del centro de ejecución de la pena de prisión o de la medida de seguridad donde el sentenciado esté detenido, en su caso, para que procedan según corresponda.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
+Cuando se deba cumplir pena de prisión o medida de seguridad privativa de libertad, el tribunal competente remitirá certificación de las actuaciones del proceso al Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito, así como copia certificada de la sentencia a la Dirección de Prevención y Readaptación Social y al Director del centro de ejecución de la pena de prisión o de la medida de seguridad donde el sentenciado esté detenido, en su caso, para que procedan según corresponda.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### Artículo 165.
 
-Recibida la certificación de la sentencia, la Dirección de Prevención y Readaptación Social ordenará su cumplimiento y practicará el cómputo del tiempo que haya estado privado de libertad el sentenciado, con base en las reglas que establece el código penal, y fijará la fecha en que cumplirá la totalidad de la sentencia. Esta resolución y el cómputo efectuado, serán notificados al juez de vigilancia de ejecución de las consecuencias jurídicas del delito, al sentenciado y a su defensor, quienes podrán solicitar al mismo juez, revisión del cómputo practicado dentro de los tres días hábiles siguientes a su notificación. El cómputo se tendrá por aprobado al vencer el plazo para su impugnación sin que ésta se haya realizado y, habiéndose hecho, al decidir el juez sobre el particular.
+Recibida la certificación de la sentencia, la Dirección de Prevención y Readaptación Social ordenará su cumplimiento y practicará el cómputo del tiempo que haya estado privado de libertad el sentenciado, con base en las reglas que establece el Código Penal. Esta resolución y el cómputo efectuado, serán notificados al Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito, al sentenciado y a su defensor, quienes podrán solicitar al mismo juez, revisión del cómputo practicado dentro de los tres días hábiles siguientes a su notificación. El cómputo se tendrá por aprobado al vencer el plazo para su impugnación sin que ésta se haya realizado y, habiéndose hecho, al decidir el juez sobre el particular. El cómputo practicado podrá rectificarse en cualquier tiempo, a solicitud de parte o de oficio.
 
-El cómputo practicado podrá rectificarse en cualquier tiempo, a solicitud de parte o de oficio.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### Artículo 166.
 
-El sentenciado que sufra menoscabo directo en sus derechos fundamentales no afectados por la sentencia, o fuere sometido a alguna actividad o sanción disciplinaria prohibida por la ley, podrá presentar queja oral o escrita ante el juez de vigilancia de la ejecución de las consecuencias jurídicas del delito, competente.
+El sentenciado que sufra menoscabo directo en sus derechos fundamentales no afectados por la sentencia, o fuere sometido a alguna actividad o sanción disciplinaria prohibida por la Ley, podrá presentar queja oral o escrita ante el Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito, competente.
 
 También podrán plantear la queja cualquier persona o asociación de personas directamente vinculadas con los intereses del sentenciado.
 
@@ -1281,35 +1375,47 @@ El juez conocerá sobre la queja planteada en audiencia oral, a realizarse dentr
 
 En caso de queja manifiestamente improcedente, el juez la rechazará mediante resolución debidamente fundada y motivada.
 
-La resolución de rechazo total o parcial podrá ser impugnada ante la sala de vigilancia de la ejecución de las consecuencias jurídicas del delito, dentro de un plazo de cinco días hábiles, contados a partir del día siguiente a su notificación.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
+La resolución de rechazo total o parcial podrá ser impugnada ante la Sala de Circuito del Poder Judicial del Estado, dentro de un plazo de cinco días hábiles, contados a partir del día siguiente a su notificación.
 
 Por el mismo hecho y motivos, podrá presentarse sólo una queja.
 
 De constatarse positivamente los hechos denunciados, el juzgador resolverá que se restablezca el derecho conculcado. Al efecto, notificará la resolución al Director de Readaptación Social, para su cumplimiento y sanción correspondiente a quien ordenó el acto indebido.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 167.
 
-Los incidentes que se refieran a la suspensión condicional de la ejecución de la pena, a la substitución de la pena de prisión por las que permite el código penal, a la extinción de la pena, de las medidas de seguridad, así como todos los que por su importancia, el juez de vigilancia de la ejecución de las consecuencias jurídicas del delito lo estime necesario, deben ser resueltos en una audiencia oral a realizarse dentro de un plazo de cinco días, a la cual convocará a todas las partes. El incidente debe resolverse en esa misma audiencia, con las partes que asistieren. Esta resolución será apelable ante la sala de vigilancia de la ejecución de las consecuencias jurídicas del delito.
+Los incidentes que se refieran a la extinción de la pena o de las medidas de seguridad, así como todos los que por su importancia, el Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito lo estime necesario, deben ser resueltos en una audiencia oral a realizarse dentro de un plazo de cinco días, a la cual convocará a todas las partes. El incidente debe resolverse en esa misma audiencia, con las partes que asistieren. Esta resolución será apelable ante las Salas de Circuito del Poder Judicial del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### Artículo 168.
 
-Las resoluciones del juez de vigilancia de la ejecución de las consecuencias jurídicas del delito, que no concedan un beneficio de la pena de prisión, declaren o denieguen la extinción de la pena, las referidas a la sustitución de la pena de prisión, a la fijación, modificación o suspensión de las medidas de seguridad o la revocación de la suspensión condicional de la ejecución de la pena, serán apelables ante la sala de vigilancia de ejecución de las consecuencias jurídicas del delito.
+Las resoluciones del Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito que nieguen el beneficio de la libertad preparatoria, la extinción de la pena o la suspensión condicional de la ejecución de la pena prevista en el artículo 105 del Código Penal, así como las referidas a la modificación o suspensión de las medidas de seguridad, serán apelables ante las Salas de Circuito del Poder Judicial del Estado.
 
 No son apelables las resoluciones pronunciadas en los demás incidentes que se susciten dentro de la ejecución de las consecuencias jurídicas del delito, salvo que exista una grave violación al régimen de privación de libertad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 169.
 
-El recurso de apelación deberá interponerse por escrito, debidamente fundado, ante el mismo juez de vigilancia de la ejecución de las consecuencias jurídicas del delito que dictó la resolución, dentro del término de tres días, contados a partir del siguiente al de la notificación respectiva.
+El recurso de apelación deberá interponerse por escrito, debidamente fundado, ante el mismo Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito que dictó la resolución, dentro del término de tres días, contados a partir del siguiente al de la notificación respectiva.
 
 Cuando el recurrente ofrezca pruebas, tendrá que hacerlo en el mismo escrito de interposición, señalando concretamente el hecho o hechos que pretenda probar.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 170.
 
-Presentado el recurso ante el juez de vigilancia de la ejecución de las consecuencias jurídicas del delito, éste deberá emplazar a las otras partes para que dentro del plazo de tres días contesten el recurso y, en su caso, ofrezcan prueba; luego, sin más trámite e inmediatamente, deberá remitir las actuaciones a la sala de vigilancia de la ejecución de las consecuencias jurídicas del delito para que ésta resuelva. Ello suspenderá temporalmente la ejecución de la resolución apelada.
+Presentado el recurso ante el Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito, éste deberá emplazar a las otras partes para que dentro del plazo de tres días contesten el recurso y, en su caso, ofrezcan prueba; luego, sin más trámite e inmediatamente, deberá remitir las actuaciones a la Sala de Circuito del Poder Judicial del Estado para que ésta resuelva.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### Artículo 171.
 
-Recibidas las actuaciones, la sala de vigilancia de la ejecución de las consecuencias jurídicas del delito, dentro de los tres días siguientes debe admitir o rechazar el recurso, y decidir la cuestión planteada, todo en una sola resolución.
+Recibidas las actuaciones, la Sala de Circuito del Poder Judicial del Estado, dentro de los tres días siguientes debe admitir o rechazar el recurso, y decidir la cuestión planteada, todo en una sola resolución.
 
 Si la parte ha solicitado prueba y la sala la estima pertinente para resolver el recurso, debe fijar una audiencia oral a realizarse dentro de los cinco días de recibidas las actuaciones.
 
@@ -1317,17 +1423,21 @@ Quien haya ofrecido prueba para la segunda instancia, toma a su cargo la aportac
 
 La sala debe auxiliar al oferente expidiendo las citaciones o las órdenes que sean necesarias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 172.
 
-El sentenciado que reuniere los requisitos previstos en el código penal, podrá solicitar al juez de vigilancia de la ejecución de las consecuencias jurídicas del delito se le otorgue la suspensión condicional de la ejecución de la pena, señalada en el artículo 105 de dicho cuerpo normativo. El juez deberá promover el incidente de oficio, cuando fuere procedente.
+El sentenciado que reuniere los requisitos previstos en el Código Penal, podrá solicitar al Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito se le otorgue la suspensión condicional de la ejecución de la pena, señalada en el artículo 105 de dicho cuerpo normativo. El juez deberá promover el incidente de oficio, cuando fuere procedente.
 
 Recibida la solicitud, o de oficio, el juez, solicitará por el medio que estime conveniente a la Dirección de Prevención y Readaptación Social y al centro de ejecución de la pena de prisión en el que estuviere el sentenciado, la remisión, por cualquier medio, de los informes que se señalan en el código penal. Estos informes deberán rendirse en un plazo perentorio que no excederá de las veinticuatro horas hábiles siguientes.
 
 En la resolución que otorgue la suspensión condicional de la ejecución de la pena se especificarán las condiciones o reglas de conducta a que se subordina, todo de acuerdo a lo que establece el código penal. Se dará certificación de la resolución al peticionario y al Director del centro de ejecución de la pena de prisión respectivo, ordenando ponga en libertad inmediatamente al beneficiado.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 173.
 
-Al juez de vigilancia de la ejecución de las consecuencias jurídicas del delito le corresponde pronunciarse sobre la fijación, modificación o suspensión de las medidas de seguridad conforme establece el código penal. Una vez cada seis meses deberá examinar de oficio el mantenimiento o la suspensión de las medidas de seguridad impuestas por los tribunales, sin perjuicio de hacerlo en cualquier momento, previa solicitud de los interesados.
+A falta de disposición expresa de esta Ley, se estará a las prevenciones del Código de Procedimientos Penales para el Estado de Sinaloa.
 
 ###### Artículo 174.
 
@@ -1339,9 +1449,11 @@ La revocación de la suspensión condicional de la ejecución de la pena, y los 
 
 El sentenciado podrá ejercer, durante el procedimiento de ejecución de las consecuencias jurídicas del delito, todos los derechos y facultades que esta ley, la legislación penal, la procesal penal y los reglamentos le otorgan, por lo que podrá plantear ante las autoridades competentes todas las observaciones que, con fundamento en ellos, estime convenientes.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### Artículo 176.
 
-El sentenciado tendrá derecho a defensa técnica, la que podrá ser ejercida por el defensor que le haya sido designado durante el proceso penal. Si dicho defensor fuere particular y renunciara al cargo, el juez de vigilancia de la ejecución de las consecuencias jurídicas del delito instruirá al sentenciado sobre su derecho a nombrar otro defensor de su confianza y, si no lo hiciere, le nombrará uno de oficio.
+El sentenciado tendrá derecho a defensa técnica, la que podrá ser ejercida por el defensor que le haya sido designado durante el proceso penal. Si dicho defensor fuere particular y renunciara al cargo, el Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito instruirá al sentenciado sobre su derecho a nombrar otro defensor de su confianza y, si no lo hiciere, le nombrará uno de oficio.
 
 ###### Artículo 177.
 
@@ -1486,3 +1598,9 @@ P.O. 25 DE DICIEMBRE DE 2002.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 2 DE ENERO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 4 de enero de 2004, previa publicación en el Periódico Oficial "El Estado de Sinaloa".
