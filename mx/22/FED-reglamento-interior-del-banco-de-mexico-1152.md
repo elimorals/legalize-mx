@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2002-02-08"
+last_updated: "2002-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 2002.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -573,6 +573,10 @@ II. Comercializar publicaciones, reportes y demás instrumentos de divulgación 
 
 III. Tener a su cuidado el archivo histórico del Banco.
 
+> <small>(ADICIONADA, D.O.F. 5 DE JUNIO DE 2002)</small>
+
+IV. Administrar los servicios de la biblioteca y hemeroteca del Banco.
+
 > <small>(REFORMADO, D.O.F. 4 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 25.
@@ -683,7 +687,7 @@ V. Registrar y controlar contablemente el activo fijo, los inventarios y costos 
 
 VI. Requerir información a las instituciones en las que el Banco participe económicamente;
 
-VII. Atender las solicitudes de confirmación de saldos que presenten aquellos sujetos que conforme a las disposiciones aplicables, sean cuentahabientes del Banco, y
+VII. (DEROGADA, D.O.F. 5 DE JUNIO DE 2002)
 
 VIII. Apoyar al auditor externo en las actividades relacionadas con la elaboración de los dictámenes financieros correspondientes.
 
@@ -727,7 +731,9 @@ XIII. (DEROGADA, D.O.F. 1 DE OCTUBRE DE 1999)
 
 ARTICULO 28 BIS.- La Dirección de Seguridad tendrá las atribuciones siguientes:
 
-I. Coordinar y ejecutar las actividades relacionadas con la seguridad interna del Banco, y
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2002)</small>
+
+I. Coordinar y ejecutar las actividades relacionadas con la seguridad interna y la protección civil del Banco, y
 
 II. Atender y resolver los requerimientos, que le presenten las autoridades o particulares, relativos al análisis de monedas nacionales o extranjeras, para determinar si las mismas son falsas o hubieren sido alteradas.
 
@@ -765,7 +771,13 @@ III. Llevar el registro de firmas autógrafas de los funcionarios del Banco, fac
 
 IV. Expedir en favor de los funcionarios y empleados a que se refiere la fracción anterior, para los efectos de los artículos 8o. y 10 de este Reglamento, certificados relacionados con la firma electrónica, así como llevar el registro de los mismos;
 
-V. Recibir, tramitar y resolver inconformidades de los proveedores, contratistas y adquirentes, sobre licitaciones y adjudicaciones de pedidos y contratos;
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2002)</small>
+
+V. Recibir, tramitar y resolver inconformidades de los proveedores, contratistas y adquirentes, sobre licitaciones y adjudicaciones de pedidos y contratos.
+
+Recibir y desahogar las quejas materia del procedimiento de conciliación que le presenten los propios proveedores, contratistas y adquirentes con motivo de contratos que tengan celebrados con el Banco.
+
+El Contralor designará al personal que deberá efectuar las notificaciones relacionadas con los procedimientos a que se refieren los dos párrafos anteriores, incluyendo aquellas que tengan carácter personal. Para los efectos previstos en este párrafo, será medio de identificación de los notificadores la credencial que para tal efecto expida en su favor el Banco de México;
 
 VI. Verificar que los pagos derivados del ejercicio de los presupuestos de gasto corriente e inversión física y de la adquisición de los insumos necesarios para la producción de billetes y la acuñación de monedas, se efectúen con apego a las disposiciones aplicables y normas emitidas, así como a las condiciones pactadas en los pedidos y contratos;
 
@@ -773,7 +785,9 @@ VII. Contratar los seguros relacionados con los bienes propiedad del Banco o que
 
 VIII. Supervisar el manejo de efectivo, metales y valores, así como de los insumos para la fabricación de billetes;
 
-IX. Llevar el registro, control y evolución patrimonial de las personas sujetas a presentar declaración en el Banco;
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2002)</small>
+
+IX. Llevar el registro de los servidores públicos del Banco, en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
 
 X. Proponer a la Junta de Gobierno las normas a que se refiere el artículo 46 fracción XII de la Ley del Banco, y aquellas que resulten aplicables a éste, sin perjuicio de las que a otras unidades corresponda proponer a dicha Junta;
 
@@ -790,6 +804,18 @@ XV. Auditar las operaciones realizadas por el Banco, incluso en su carácter de 
 XVI. Requerir en su caso, a las instituciones en las que el Banco participe económicamente, la información necesaria para cumplir con sus atribuciones, y
 
 XVII. Apoyar en el ámbito de sus atribuciones al auditor externo en las actividades relacionadas con la elaboración de los dictámenes financieros correspondientes.
+
+> <small>(ADICIONADA, D.O.F. 5 DE JUNIO DE 2002)</small>
+
+XVIII. Llevar el registro de los cargos, puestos o comisiones en el Banco, cuyos titulares deben formalizar acta de entrega conforme a las disposiciones que emita la Comisión de Responsabilidades del Banco en la materia, e intervenir en los actos relativos;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JUNIO DE 2002)</small>
+
+XIX. Desahogar las solicitudes planteadas al Banco de México en materia de confirmación de saldos y, en general, de operaciones en las que éste sea parte, así como requerir información de la misma naturaleza, y
+
+> <small>(ADICIONADA, D.O.F. 5 DE JUNIO DE 2002)</small>
+
+XX. Expedir constancias de los registros que sean de su competencia conforme al presente Reglamento o cualquiera otra disposición.
 
 ###### ARTICULO 31.
 
@@ -1150,3 +1176,7 @@ UNICO.- Las presentes reforma y adición entrarán en vigor el día siguiente al
 D.O.F. 8 DE FEBRERO DE 2002.
 
 UNICO. Las presentes reformas y adiciones, entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE JUNIO DE 2002.
+
+UNICO. Las presentes reformas, adiciones y derogaciones, entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
