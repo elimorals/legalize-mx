@@ -4,7 +4,7 @@ identifier: "BCN-ley-reglamentaria-del-ejercicio-profesional-para-el-estado-3561
 country: "mx"
 rank: "ley"
 publication_date: "1957-07-10"
-last_updated: "1965-08-20"
+last_updated: "1969-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY REGLAMENTARIA DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 1965.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 1969.
 
 Ley publicada en el Segundo Alcance al Periódico Oficial, el miércoles 10 de julio de 1957.
 
@@ -125,35 +125,25 @@ Tal título y certificados o diplomas, serán inscritos en el registro respectiv
 
 El ejercicio de las profesiones es de interés público y se sujetará a los mandamientos de esta Ley. En caso de conflicto entre los intereses particulares de los profesionistas y los de la sociedad, la presente ley se interpretará siempre en favor de las exigencias de esta última, si no hubiere precepto expreso para resolver el conflicto.
 
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 1969)</small>
+
 ###### ARTICULO 7o.
 
-5sta (sic) Ley entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+BIS.- Sólo podrán ejercer una profesión en el Estado, en calidad de práctico, las personas que comprueben a satisfacción de las Autoridades correspondientes de esta Entidad Federativa:
 
-DADA en el Salón de Sesiones del H. Poder Legislativo, en la ciudad de Mexicali, Baja California, a los treinta y un días del mes de Mayo de mil novecientos cincuenta y siete.
+I.- Haber cumplido oportunamente con las disposiciones que establece la Ley Federal de Profesiones para los prácticos,
 
-LUIS GONZALEZ OCAMPO,
+II.- Tener autorización vigente de la Dirección General de Profesiones de la Federación, para ejercer como práctico;
 
-Diputado Presidente.
+III.- Haber sustentado los cursos de capacitación exigidos por esa Dirección General de Profesiones de la Federación;
 
-ROBERTO MAZON NORIEGA,
+IV.- Haber ejercido como práctico de alguna profesión de las que requieren título, cuando menos con una anterioridad de diez años a la fecha en que entró en vigor la presente Ley;
 
-Diputado Secretario
+V.- Comprobar una buena conducta.
 
-De conformidad con lo dispuesto por la Fracción I del Artículo 49 de la Constitución Política del Estado, mando se imprima, publique, observe y se le dé el debido cumplimiento.
+VI.- No haber sido condenado en algún proceso penal;
 
-El Gobernador Const. del Estado,
-
-LIC. BRAULIO MALDONADO SANDEZ.
-
-El Srio. Gral. de Gobierno,
-
-LIC. RAFAEL MORENO HENRIQUEZ
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 20 DE AGOSTO DE 1965.
-
-UNICO:- Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+VII.- Que en la población en que ejerzan su profesión en calidad de práctico exista un profesionista titulado en la rama de su actividad, que vigile su actuación y se haga responsable de la misma.
 
 ### CAPITULO II.
 
@@ -616,3 +606,39 @@ El Ejecutivo del Estado, en un plazo que no excederá de sesenta días a partir 
 ###### ARTICULO 6o.
 
 Esta Ley deroga todas las leyes y disposiciones locales que se le opongan.
+
+###### ARTICULO 7o.
+
+5sta (sic) Ley entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+DADA en el Salón de Sesiones del H. Poder Legislativo, en la ciudad de Mexicali, Baja California, a los treinta y un días del mes de Mayo de mil novecientos cincuenta y siete.
+
+LUIS GONZALEZ OCAMPO,
+
+Diputado Presidente.
+
+ROBERTO MAZON NORIEGA,
+
+Diputado Secretario
+
+De conformidad con lo dispuesto por la Fracción I del Artículo 49 de la Constitución Política del Estado, mando se imprima, publique, observe y se le dé el debido cumplimiento.
+
+El Gobernador Const. del Estado,
+
+LIC. BRAULIO MALDONADO SANDEZ.
+
+El Srio. Gral. de Gobierno,
+
+LIC. RAFAEL MORENO HENRIQUEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE AGOSTO DE 1965.
+
+UNICO:- Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE OCTUBRE DE 1969.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
