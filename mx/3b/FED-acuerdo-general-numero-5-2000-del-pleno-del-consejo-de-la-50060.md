@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-5-2000-del-pleno-del-consejo-de-la-50060
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-02-16"
-last_updated: "2003-04-30"
+last_updated: "2003-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50060&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-02-08"
 
 ACUERDO GENERAL NUMERO 5/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LA ADSCRIPCION DE DIVERSAS UNIDADES ADMINISTRATIVAS A LA PRESIDENCIA DEL MISMO, Y ACTUALIZA LAS ATRIBUCIONES DEL SECRETARIADO EJECUTIVO, CON LAS DIRECCIONES GENERALES QUE LES CORRESPONDEN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE AGOSTO DE 2003.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 16 de febrero de 2000.
 
@@ -655,7 +655,9 @@ XVII. Organizar y coordinar la programación de actividades culturales, cívicas
 
 XVIII. Proponer y coordinar el sistema de administración, escalafonario, de capacitación y desarrollo de personal; y aplicar los premios, estímulos y recompensas que sean de su competencia;
 
-XIX. Participar y coordinar la elaboración, difusión y aplicación de las normas que regulen las relaciones laborales, así como en los reglamentos de las comisiones mixtas, vigilando su cumplimiento;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 50/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE AGOSTO DE 2003)</small>
+
+XIX. Participar y coordinar la elaboración, difusión y aplicación de las normas que regulen las relaciones laborales, así como apoyar a los representantes del consejo que integran las Comisiones Mixtas de Seguridad e Higiene en el Trabajo;
 
 XX. Participar en el Programa de Protección Civil, en coordinación con las diversas áreas competentes del Consejo;
 
@@ -1292,3 +1294,9 @@ SEGUNDO.-El Pleno del Consejo de la Judicatura Federal nombrará al titular de l
 TERCERO.-La Dirección General de Programación y Presupuesto desarrollará sus funciones con los servidores públicos adscritos a las anteriores Direcciones Generales de Programación, Organización y Presupuesto y a la de Contabilidad, para lo cual la Secretaría Ejecutiva de Finanzas deberá presentar a la brevedad, a la Comisión de Administración, un diseño de la plantilla de personal correspondiente.
 
 CUARTO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 28 DE AGOSTO DE 2003.
+
+PRIMERO.-El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
