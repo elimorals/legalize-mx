@@ -4,7 +4,7 @@ identifier: "CJM"
 country: "mx"
 rank: "codigo"
 publication_date: "1933-08-31"
-last_updated: "1994-07-22"
+last_updated: "1998-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2557&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CJM"
 
 CODIGO DE JUSTICIA MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación el jueves 31 de agosto de 1933.
 
@@ -78,7 +78,9 @@ El Supremo Tribunal Militar se compondrá: de un presidente, general de brigada,
 
 Para ser magistrado, se requiere:
 
-I.- Ser mexicano por nacimiento, en ejercicio de sus derechos;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+I.- Ser mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II.- ser mayor de treinta años;
 
@@ -2128,7 +2130,7 @@ Los individuos de tropa que desertaren efectuando su separación ilegal del serv
 
 ###### ARTICULO 261.
 
-Los individuos de tropa que desertaren en tiempo de paz, y en alguno de los casos o con alguna de las circunstancias que especialmente se preven en seguida, serán castigados:
+Los individuos de tropa que desertaren en tiempo de paz, y en alguno de los casos o con alguna de las circunstancias que especialmente se prevén en seguida, serán castigados:
 
 I.- El que deserte de la escolta de prisioneros, detenidos o presos o de cualquiera otra no especificada en este artículo, con la pena de tres años de prisión;
 
@@ -6417,3 +6419,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las personas que hayan cometido un delito de los previstos en el Código que se reforma, incluídas las procesadas o sentenciadas con anterioridad a la entrada en vigor del presente decreto les serán aplicables las disposiciones vigentes de dicho Código en el momento en que se haya cometido, en los términos que señala el artículo 14 Constitucional.
 
 TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
+
+D.O.F. 23 DE ENERO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
