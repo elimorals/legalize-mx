@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-del-tribunal-de-lo-contencioso-5200"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-07-13"
-last_updated: "1993-07-13"
+last_updated: "1994-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1994.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 13 de julio de 1993.
 
@@ -157,9 +157,11 @@ La Sala Regional con residencia en la Ciudad de Chilpancingo, conocerá de los j
 
 La Sala Regional con residencia en la Ciudad y Puerto de Acapulco, conocerá de los juicios que se promuevan en contra de los actos administrativos y fiscales que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los Municipios y de los Organismos Públicos Descentralizados con funciones de autoridad, de carácter Estatal y Municipal, con sede en los Municipios de: Acapulco de Juárez, Coyuca de Benítez y San Marcos.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1994)</small>
+
 ###### ARTICULO 27o.
 
-La Sala Regional con residencia en la Ciudad de Chilapa, conocerá de los juicios que se promuevan en contra de los actos administrativos y fiscales que dicten, ordenen, ejecuten o traten de ejecutar las Autoridades del Poder Ejecutivo del Estado, de los Municipios y de los Organismos Públicos Descentralizados con funciones de autoridad, de carácter Estatal, y Municipal, con sede en los Municipios de: Chilapa, Atlixtac, Zitlala, Ahuacuotzingo, Olinalá, Tlapa de Comonfort, Cualac, Xalpatlahuac, Atlamajalcingo del Monte, Alcozauca de Guerrero, Tlalixtaquilla, Alpoyeca, Huamuxtitlán, Xochihuehuetlán, Metlatonoc, Malinaltepec, Tlacoapa y Zapotitlán Tablas.
+La Sala Regional con residencia en la Ciudad de Tlapa de Comonfort, Guerrero, conocerá de los Juicios que se promuevan en contra de los actos administrativos y fiscales que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los Municipios y de los Organismos Públicos Descentralizados con funciones de autoridad, de carácter estatal y municipal, con jurisdicción territorial en los Municipios de Acatepec, Ahuacuotzingo, Alcozauca de Guerrero, Alpoyeca, Atlamajalcingo del Monte, Atlixtac, Copanatoyac, Cualac, Chilapa de Alvarez, Huamuxtitlán, Malinaltepec, Metlatonoc, Olinalá, Tlacoapa, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Xalpatlahuac, Xochihuehuetlán, Zapotitlán Tablas y Zitlala.
 
 ###### ARTICULO 28o.
 
@@ -324,3 +326,15 @@ La Secretaria General de Acuerdos.
 Lic. María Elena Ramírez Ruiz.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE ENERO DE 1994.
+
+PRIMERO.- El presente Acuerdo entrará en vigor un día después de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- En un plazo no mayor de treinta días, contados a partir de la vigencia de este Acuerdo, se procederá a la instalación en Tlapa de Comonfort de la Sala Regional de la Montaña.
+
+TERCERO.- El personal profesional, técnico y administrativo adscrito a la Sala Regional que tenía su residencia en Chilapa de Alvarez, tiene garantizado su empleo, antigüedad y categoría laboral en la nueva sede de Tlapa de Comonfort.
+
+CUARTO.- La Oficialía Mayor del Tribunal de lo Contencioso Administrativo proveerá lo conducente para programar y ejecutar el traslado a Tlapa de Comonfort de expedientes, mobiliario, equipo y personal de la Sala Regional de la Montaña.
