@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-1176
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-10"
-last_updated: "2003-08-25"
+last_updated: "2005-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2005.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 10 de noviembre de 1996.
 
@@ -97,7 +97,7 @@ VII.- "Presupuesto". Documento aprobado por el Congreso del Estado mediante el c
 
 VIII.- "Secretaría". La Secretaría de Finanzas y de Administración del Estado;
 
-IX.- "Sujetos de la Ley". Los que se indican en el articulo 1º de la Ley, así como las dependencias y entidades pertenecientes a la Administración Pública Estatal o Municipal;
+IX.- "Sujetos de la Ley". Los que se indican en el artículo 1º de la Ley, así como las dependencias y entidades pertenecientes a la Administración Pública Estatal o Municipal;
 
 X.- "Tesorería ó Tesorerías". La tesorería municipal ó su equivalente; y (sic)
 
@@ -285,6 +285,10 @@ El Gasto Público será ejercido con apego a los programas y presupuestos aproba
 
 Se prohibe el establecimiento de compromisos de pago que rebasen un ejercicio presupuestal; en casos excepcionales y debidamente justificados la Secretaría, la Tesorería Municipal, la Unidad o Comisión respectiva, según sea el caso, podrán autorizar la afectación multianual, en estos casos de igual forma se requerirá la aprobación expresa del Congreso del Estado o del Cabildo Municipal, establecidas en los Presupuestos de Egresos respectivos.
 
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2005)</small>
+
+En los casos señalados en los Artículos 19 y 23 Bis de la Ley de Obras Públicas y Servicios Relacionados con el Estado de Aguascalientes se aplicará lo estipulado en los mismos, debiendo presentar únicamente un informe al H. Congreso del Estado o Cabildo Municipal.
+
 ###### ARTICULO 26.
 
 Para el ejercicio del Gasto Público será indispensable la previa formalización de los pedidos, contratos o cualquier otro acto jurídico o administrativo análogo, en los que se disponga la obligación de efectuar un pago con cargo a los presupuestos aprobados, para tal fin, se procederá conforme a los rangos de delegación de atribuciones y a los requisitos y procedimientos administrativos previstos en la Ley o en otros ordenamientos jurídicos aplicables a los casos en lo particular.
@@ -452,3 +456,13 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 25 DE AGOSTO DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE ABRIL DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días posteriores al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+TERCERO.- La adecuación del Reglamento de la Ley de Obras Públicas y Servicios Relacionados con el Estado de Aguascalientes, deberá ser publicada a más tardar dentro de los sesenta días posteriores a la publicación de las presentes modificaciones a la Ley.
+
+CUARTO.- Los procedimientos de contratación y ejecución de obra pública que se hayan comenzado con anterioridad a la vigencia del presente Decreto, se concluirán en su totalidad conforme a las disposiciones legales vigentes al momento de su realización.
