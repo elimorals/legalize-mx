@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-el-organismo-publico-desecentralizado-comite-14404
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-08"
-last_updated: "1999-05-08"
+last_updated: "2004-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14404&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO "COMITE ADMINISTRADOR DEL PROGRAMA ESTATAL DE CONSTRUCCION DE ESCUELAS" (C.A.P.E.C.E.).
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 8 de mayo de 1999.
 
@@ -115,21 +115,39 @@ I. Establecer la política general para el debido desarrollo de sus actividades 
 
 II. Aprobar, supervisar y evaluar los planes y programas que se elaboren;
 
-III. Analizar y aprobar el anteproyecto de presupuesto anual de egresos del C.A.P.E.C.E. y la estimación de ingresos correspondientes;
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-IV. Evaluar, discutir y aprobar en su caso, los informes mensuales y anuales de actividades del C.A.P.E.C.E. y los estados financieros que le presente el Director General;
+III. Analizar, supervisar y, en su caso aprobar los actos jurídicos de dominio que se celebren para el funcionamiento del CAPECE.
 
-V. Aprobar el manual de organización y operación del C.A.P.E.C.E.; así como los demás instrumentos normativos internos que deban regir en él, remitiéndolos al Titular del Poder Ejecutivo Estatal para su sanción;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-VI. Conocer y en su caso aprobar los dictámenes que emita el comisario a que se refiere el artículo 13 de la presente Ley, respecto de cada ejercicio fiscal, y adoptar en su caso las medidas que considere pertinentes con las observaciones y correcciones adecuadas;
+IV. Analizar y aprobar el anteproyecto de presupuesto anual de egresos del CAPECE y la estimación de ingresos correspondientes;
 
-VII. Elaborar el proyecto de Reglamento Interno del C.A.P.E.C.E., y remitirlo al Titular del Ejecutivo Estatal para su aprobación y expedición;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-VIII. Las demás funciones que le determinen las disposiciones legales y reglamentarias, así como las que el Ejecutivo del Gobierno del Estado le establezca.
+V. Evaluar, discutir y aprobar en su caso, los informes mensuales y anuales de actividades del CAPECE y los estados financieros que le presente el Director General;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+VI. Aprobar el manual de organización y operación del CAPECE; así como los demás instrumentos normativos internos que deban regir en él, remitiéndolos al Titular del Poder Ejecutivo Estatal para su sanción;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+VII. Conocer y en su caso aprobar los dictámenes que emita el comisario a que se refiere el artículo 13 de la presente Ley, respecto de cada ejercicio fiscal, y aprobar en su caso las medidas que considere pertinentes con las observaciones y correcciones adecuadas;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+VIII. Elaborar el proyecto de Reglamento Interno del CAPECE, y remitirlo al Titular del Ejecutivo Estatal para su aprobación y expedición; y
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+IX. Las demás funciones que le determinen las disposiciones legales y reglamentarias, así como las que el Ejecutivo del Gobierno del Estado le establezca.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 7º.
 
-La Junta de Gobierno celebrará sesiones ordinarias mensualmente y extraordinarias, cuando se requiera tratar asuntos cuya naturaleza urgente lo amerite, previa convocatoria que para tal efecto emita su Presidente.
+La Junta de Gobierno celebrará sesiones ordinarias cada dos meses y extraordinarias, cuando se requiera tratar asuntos cuya naturaleza urgente lo amerite, previa convocatoria que para tal efecto emita su Presidente.
 
 ###### Artículo 8º.
 
@@ -177,7 +195,9 @@ I. Dirigir técnica y administrativamente el C.A.P.E.C.E.;
 
 II. Representar legalmente al C.A.P.E.C.E. y actuar como mandatario general para pleitos y cobranzas, conforme a la ley, pudiendo delegar este mandato a uno o más apoderados;
 
-III. Celebrar los contratos, así como los actos jurídicos de dominio y administración necesarios para el funcionamiento del C.A.P.E.C.E., además de los que expresamente le encomiende la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+III. Celebrar los contratos y actos jurídicos de dominio y administración necesarios para el funcionamiento del CAPECE, previa autorización de la Junta de Gobierno; así como los demás que expresamente éste le encomiende;
 
 IV. Suscribir previa aprobación expresa de la Junta de Gobierno, los instrumentos que sean necesarios, con la Federación, los municipios y Organismos Públicos Descentralizados dedicados a la Educación, así como con los sectores social y privado, tendientes al cabal cumplimiento de sus fines;
 
@@ -189,13 +209,17 @@ VII. Someter a consideración de la Junta de Gobierno, para su aprobación, los 
 
 VIII. Elaborar y proponer a la Junta de Gobierno el manual de organización y operación del C.A.P.E.C.E.;
 
-IX. Proponer a la Junta de Gobierno la designación y en su caso la remoción de los Directores de área, Coordinador Jurídico y Asesor Técnico;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+IX. Proponer a la Junta de Gobierno la designación y, en su caso la remoción de los Directores y Coordinadores de área del CAPECE;
 
 X. Integrar una Comisión Interna de Administración y programación, así como convocarla y presidirla.
 
 XI. Delegar el ejercicio de una o más de las atribuciones señaladas en este artículo, en los términos que autorice previamente la Junta de Gobierno; y
 
-XII. Realizar las demás funciones que se requieran para el cumplimiento de los objetivos del C.A.P.E.C.E., así como las que le encomiende la Junta de Gobierno.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XII. Realizar las demás funciones que se requieran para el cumplimiento de los objetivos del CAPECE, así como las que le encomiende la Junta de Gobierno y las que determinen las disposiciones legales aplicables.
 
 ###### Artículo 15.
 
@@ -322,3 +346,9 @@ ING. ALBERTO CÁRDENAS JIMÉNEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 2 DE OCTUBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
