@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "1988-11-10"
+last_updated: "1989-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE NOVIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE JUNIO DE 1989.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -385,9 +385,29 @@ XIII.- Atender las quejas que presenten los particulares con motivo de acuerdos,
 
 XIV.- Conocer e investigar los actos, omisiones o conductas de los servidores públicos para constituir responsabilidades administrativas; aplicar las sanciones que correspondan en los términos que las leyes señalen y, en su caso, hacer las denuncias correspondientes ante el Ministerio Público, prestándole a éste, para tal efecto, la colaboración que le fuere requerida.
 
-XV.- Proporcionar asesoría a los ayuntamientos en materia de control gubernamental, cuando así se lo soliciten.
+> <small>(REFORMADA, B.O. 19 DE JUNIO DE 1989)</small>
 
-XVI.- Las demás que le señalen las leyes y reglamentos vigentes.
+XV.- Planear, organizar y coordinar, en el ámbito de la administración pública estatal, el Sistema Integral de Modernización y Simplificación Administrativa.
+
+> <small>(REFORMADA, B.O. 19 DE JUNIO DE 1989)</small>
+
+XVI.- Establecer, previo Acuerdo con el Gobernador del Estado, las directrices para la modernización y simplificación administrativas de carácter global, sectorial e institucional que orienten a los titulares de las dependencias y a los órganos de gobierno de las entidades, en la determinación y ejecución de las acciones que éstos autoricen, en el ámbito de sus competencias.
+
+> <small>(ADICIONADA, B.O. 19 DE JUNIO DE 1989)</small>
+
+XVII.- Definir las políticas y lineamientos para la elaboración de los reglamentos interiores y de los manuales de organización, de procedimientos y de servicios al público de las dependencias.
+
+> <small>(ADICIONADA, B.O. 19 DE JUNIO DE 1989)</small>
+
+XVIII.- Someter a la consideración del Gobernador del Estado, para su aprobación, las propuestas de reglamentos interiores y manuales de organización que formulen los titulares de las dependencias, así como las modificaciones respectivas.
+
+> <small>(ADICIONADA, B.O. 19 DE JUNIO DE 1989)</small>
+
+XIX.- Proporcionar asesoría a los ayuntamientos, en las materias de control gubernamental y de modernización y simplificación administrativas, cuando así se lo soliciten.
+
+> <small>(ADICIONADA, B.O. 19 DE JUNIO DE 1989)</small>
+
+XX.- Las demás que le señalen las leyes y reglamentos vigentes.
 
 ###### ARTICULO 27.
 
@@ -725,13 +745,13 @@ XI.- Dirigir, organizar y controlar la Oficialía de Partes y el Archivo General
 
 XII.- Celebrar y rescindir contratos de arrendamiento de bienes inmuebles, para uso de las dependencias del Poder Ejecutivo.
 
-XIII.- Establecer las directrices y políticas para la modernización de la administración pública estatal.
+XIII.- (DEROGADA, B.O. 19 DE JUNIO DE 1989)
 
-XIV.- Someter a la consideración del Gobernador del Estado, los cambios a la organización interna de las dependencias que le pongan los titulares de las mismas, cuando impliquen modificaciones a su estructura orgánica básica y deban reflejarse en su reglamento interior.
+XIV.- (DEROGADA, B.O. 19 DE JUNIO DE 1989)
 
-XV.- Determinar las políticas y lineamientos para la elaboración de los manuales de organización, de procedimientos y de servicios al público.
+XV.- (DEROGADA, B.O. 19 DE JUNIO DE 1989)
 
-XVI.- Someter a la consideración del Gobernador del Estado, la autorización para expedición de los manuales de organización de las dependencias y publicar los mismos en el Boletín Oficial del Gobierno del Estado.
+XVI.- (DEROGADA, B.O. 19 DE JUNIO DE 1989)
 
 XVII.- Coordinar y vigilar el cumplimiento de las disposiciones en materia de notariado e imponer las sanciones por infracciones a las mismas, sin perjuicio de las atribuciones constitucionales del Ministerio Público; administrar el Archivo de Notarías y autorizar los protocolos que deban utilizar los Notarios Públicos.
 
@@ -1080,3 +1100,17 @@ B.O. 10 DE NOVIEMBRE DE 1988.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 19 DE JUNIO DE 1989.
+
+###### ARTICULO PRIMERO.
+
+LOS RECURSOS HUMANOS, MATERIALES Y PRESUPUESTALES ASIGNADOS A LA DIRECCIÓN GENERAL DE ORGANIZACIÓN Y SISTEMAS DE LA OFICIALÍA MAYOR, SE TRANSFIEREN A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, A LA SECRETARÍA DE LA CONTRALORÍA GENERAL DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+LAS ATRIBUCIONES QUE SE LE CONFIERAN A LA OFICIALÍA MAYOR EN CUALQUIER ORDENAMIENTO, EN RELACIÓN CON LAS FACULTADES QUE POR DISPOSICIÓN DE ESTA LEY, SE ESTÁN TRANSFIRIENDO A LA SECRETARÍA DE LA CONTRALORÍA GENERAL DEL ESTADO, SE ENTENDERÁN OTORGADAS A ESTA DEPENDENCIA.
+
+###### ARTICULO TERCERO.
+
+LA PRESENTE LEY ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO.
