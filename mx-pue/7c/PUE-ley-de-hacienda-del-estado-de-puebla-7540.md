@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-de-puebla-7540"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "1997-03-19"
+last_updated: "1997-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 1993.
 
@@ -103,15 +103,17 @@ III.- Las aportaciones que el patrón otorgue a favor de sus trabajadores por co
 
 IV.- Las aportaciones al Instituto del Fondo Nacional de la Vivienda para los Trabajadores y las participaciones en las utilidades de las empresas.
 
-V.- La alimentación y la habitación cuando no se proporcionen gratuitamente al trabajador, así como las despensas.
+> <small>(REFORMADA. P.O. 24 DE DICIEMBRE DE 1997)</small>
+
+V.- La alimentación, la habitación y las despensas cuando no se proporcionen gratuitamente al trabajador.
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
 VI.- Los premios por asistencia o por puntualidad, y
 
-VII.- Las cantidades aportadas para fines sociales, considerándose como tales las entregadas para constituir fondos de algún plan de pensiones establecido por el patrón o derivado de la contratación colectiva. Los planes de pensiones serán sólo los que reúnan los requisitos que establezca la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADA. P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-Para que los conceptos mencionados en este precepto se excluyan como integrantes de la base de este impuesto, deberán estar registrados en la contabilidad del contribuyente.
+VII.- Las cantidades aportadas para fines sociales, considerándose como tales las entregadas para constituir fondos de algún plan de pensiones establecido por el patrón o derivado de la contratación colectiva. Los planes de pensiones serán sólo los que reúnan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
 ###### ARTICULO 2°.
 
@@ -277,21 +279,37 @@ II.- Los vehículos de la Federación, Estado y Municipios que sean utilizados p
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo, deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 17.
 
-A requerimiento de las autoridades fiscales, los contribuyentes del impuesto estatal sobre tenencia o uso de vehículos están obligados a presentar:
+A requerimiento de las autoridades fiscales, los contribuyentes del Impuesto Estatal sobre Tenencia o Uso de Vehículos están obligados a:
 
-I.- El original del documento que ampare la propiedad del vehículo.
+> <small>(REFORMADA. P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-II.- Comprobante domiciliario del contribuyente.
+I.- Presentar el original del documento que ampare la propiedad del vehículo.
 
-lll.- Comprobantes del pago de este impuesto y los derechos de control vehicular.
+> <small>(REFORMADA. P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-lV.- Tratándose de vehículos de procedencia extranjera, además deberán de acreditar su legal estancia y definitiva en el país, con la documentación original respectiva.
+II.- Presentar el comprobante domiciliario del contribuyente.
+
+> <small>(REFORMADA. P.O. 24 DE DICIEMBRE DE 1997)</small>
+
+III.- Presentar los comprobantes del pago de este impuesto y los derechos de control vehicular.
+
+> <small>(REFORMADA. P.O. 24 DE DICIEMBRE DE 1997)</small>
+
+IV.- Acreditar tratándose de vehículos de procedencia extranjera, además, su legal estancia y definitiva en el país, con la documentación respectiva.
 
 V.- Conservar durante 5 años los comprobantes de pago en los que conste el sello y/o golpe de la máquina registradora de la oficina recaudadora o autorizada.
 
-VI.- Tratándose de servicio público, además el acuerdo de otorgamiento y tarjetón de concesión.
+> <small>(REFORMADA. P.O. 24 DE DICIEMBRE DE 1997)</small>
+
+VI.- Presentar tratándose del servicio público, además, el acuerdo de otorgamiento y tarjetón de concesión.
+
+> <small>(ADICIONADA. P.O. 24 DE DICIEMBRE DE 1997)</small>
+
+VII.- Anotar en los formatos de este impuesto, al momento de solicitar su incorporación o modificación en el registro establecido por la Secretaría de Finanzas, su clave del Registro Federal de Contribuyentes, en los casos en que se encuentren inscritos en el mismo.
 
 ###### ARTICULO 18.
 
@@ -301,7 +319,9 @@ I.- Quiénes adquieran por cualquier título la propiedad, tenencia o uso de uno
 
 II.- Quiénes reciban en consignación o comisión para su enajenación, uno o más vehículos objeto de este gravamen, hasta por el monto del impuesto y sus accesorios que se hubieran dejado de pagar.
 
-III.- Los servidores públicos que en ejercicio de sus funciones autoricen altas, cambios de placas, tarjetas de circulación, cambios o modificaciones de domicilio y bajas, sin cerciorarse del pago de este impuesto.
+> <small>(REFORMADA. P.O. 24 DE DICIEMBRE DE 1997)</small>
+
+III.- Los servidores públicos del Estado que en ejercicio de sus funciones sin cerciorarse del pago de este impuesto autoricen altas, bajas, cambios de reposición de placas, tarjetas de circulación, cambios o modificaciones de domicilio, vehículo o cualquier otro dato del registro establecido por la Secretaría de Finanzas.
 
 ###### ARTICULO 19.
 
@@ -325,7 +345,9 @@ III.- Las adjudicaciones, aún cuando se realicen por el acreedor y mediante la 
 
 IV.- La permuta, en la que se considerará que se realizan dos adquisiciones.
 
-V.- En general, todo acto por el cual se transmita la propiedad.
+> <small>(REFORMADA. P.O. 24 DE DICIEMBRE DE 1997)</small>
+
+V.- Todo acto por el cual se transmita la propiedad de vehículos automotores usados, cualquiera que sea su nombre o denominación conforme a las diversas leyes.
 
 (REFORMADO, P.O. 02 DE AGOSTO DE 1994).
 
@@ -710,3 +732,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el primero de enero de mil novecientos noventa y ocho.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones al presente Decreto.
