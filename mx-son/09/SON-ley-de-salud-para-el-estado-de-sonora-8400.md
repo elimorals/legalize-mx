@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "1997-03-10"
+last_updated: "2003-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE JULIO DE 2003.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -109,9 +109,17 @@ XV. La prevención de la invalidez y la rehabilitación de los inválidos;
 
 XVI. La asistencia social;
 
-XVII. Los programas contra el alcoholismo y el tabaquismo; y
+> <small>(REFORMADA, B.O. 7 DE JULIO DE 2003)</small>
 
-XVIII. Las demás que le confiera la Ley General de Salud y otras disposiciones legales.
+XVII. Los programas contra el alcoholismo y el tabaquismo;
+
+> <small>(REFORMADA, B.O. 7 DE JULIO DE 2003)</small>
+
+XVIII. La asignación de órganos, tejidos y células para trasplantes en seres humanos, así como el fomento y promoción de la cultura de la donación de los mismos; y
+
+> <small>(ADICIONADA, B.O. 7 DE JULIO DE 2003)</small>
+
+XIX. Las demás que le confiere la Ley General de Salud y otras disposiciones legales.
 
 ###### ARTICULO 4o.
 
@@ -911,11 +919,11 @@ Asimismo, realizarán actividades de vigilancia epidemiológica, de prevención 
 
 I. Cólera, fiebre tifoidea, paratifoidea, shigelosis, amibiasis, hepatitis viral y otras enfermedades infecciosas del aparato digestivo;
 
-II. Influenza epidémica, otras infecciones agudas del aparato respiratorio, infecciones menigocóccicas y enfermedades causadas por estreptococos;
+II. Influenza epidémica, otras infecciones agudas del aparato respiratorio, infecciones meningocóccicas y enfermedades causadas por estreptococos;
 
 III. Tuberculosis;
 
-IV. Difteria, tosferina, tetanos, sarampión, poliomielitis, rubeola y parotiditis infecciosa;
+IV. Difteria, tosferina, tétanos, sarampión, poliomielitis, rubeola y parotiditis infecciosa;
 
 V. Rabia, peste, brucelosis y otras zoonosis. En estos casos, la Secretaría, además, coordinará sus actividades con la Secretaría de Salud y con otras dependencias competentes en esta materia.
 
@@ -929,7 +937,7 @@ IX. Lepra y mal del pinto;
 
 X. Micosis Sistemática;
 
-XI. Helmintiasis intestinales y extraintestinales;
+XI. Helmitiasis intestinales y extraintestinales;
 
 XII. Toxoplasmosis;
 
@@ -1303,9 +1311,75 @@ III. Hábitos de consumo de alcohol en los diferentes grupos de población; y
 
 IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO UNICO. DONACIONES Y TRASPLANTES DE ORGANOS, TEJIDOS Y CELULAS Y PERDIDA DE LA VIDA EN SERES HUMANOS
 
-> <small>(REFORMADO, B.O. 10 DE MARZO DE 1997)</small>
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
+
+ARTICULO 154 BIS.- Toda persona es disponente de su cuerpo y podrá donarlo, total o parcialmente para los fines y con los requisitos previstos en la Ley General de Salud.
+
+El consentimiento de las personas para disponer de su cuerpo, deberá efectuarse en la forma, circunstancias, requisitos, restricciones y prohibiciones previstos en el ordenamiento antes mencionado.
+
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
+
+ARTICULO 154 BIS A.- Los trasplantes de órganos, tejidos y células en seres humanos vivos, la obtención de los mismos, la selección del donante y del receptor y los requisitos del donante, se llevará a cabo de conformidad con la Ley General de Salud, el Reglamento respectivo y esta Ley.
+
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
+
+ARTICULO 154 BIS B.- Para la asignación de órganos y tejidos de donadores no vivos, deberán cumplirse los requisitos y criterios médicos previstos en la Ley General de Salud, esta Ley y los reglamentos respectivos.
+
+Cuando no exista urgencia o razón médica para asignar preferentemente un órgano o tejido, ésta se sujetará estrictamente a las listas que se integrarán con los datos de los receptores en espera.
+
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
+
+ARTICULO 154 BIS C.- El traslado, preservación, conservación, manejo, etiquetado, claves de identificación y los costos asociados al manejo de órganos, tejidos y células que se destinen a trasplantes, se ajustarán a lo que establezcan las disposiciones aplicables.
+
+Los concesionarios del servicio público de transporte, de ámbito estatal, otorgarán todas las facilidades que requiera el traslado de órganos y tejidos destinados a trasplantes, conforme a las disposiciones aplicables y las normas oficiales mexicanas que emitan las autoridades competentes.
+
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
+
+ARTICULO 154 BIS D.- El Ejecutivo del Estado establecerá el Centro Estatal de Trasplantes, el cual tendrá las facultades siguientes:
+
+I. Decidir y vigilar, dentro de su ámbito de competencia, la correcta asignación de órganos, tejidos y células para trasplantes en seres humanos;
+
+II. Promover y fomentar, en coordinación con los Consejos Estatal y Nacional de Trasplantes, dependencias y entidades federales, estatales y municipales, acciones de orientación y educación a la población, referente a la cultura de la donación de órganos, tejidos y células;
+
+III.- Actualizar, orientar y difundir entre los profesionales, técnicos y auxiliares de la salud, la información científica, técnica y sanitaria en materia de trasplantes;
+
+IV. Operar y mantener actualizado el Registro Estatal de Trasplantes en el Estado, con la siguiente información:
+
+a) Lista de donadores del Estado de Sonora, a quienes se les otorgará una credencial que los identifique plenamente;
+
+b) Lista de receptores o sujetos susceptibles de trasplante del Estado de Sonora, que se integrará en forma sistemática y cronológica de acuerdo con su presentación;
+
+c) La fecha en que se realicen los trasplantes;
+
+d) Los establecimientos autorizados para realizar trasplantes de órganos, tejidos y células, conforme a la Ley General de Salud; y
+
+e) Los profesionales de la salud que intervengan en trasplantes.
+
+V. Proporcionar al Registro Nacional de Trasplantes la información correspondiente al Estado y su actualización, en los términos de los acuerdos de coordinación que se celebren;
+
+VI. Coadyuvar con las autoridades competentes, a fin de que se respete la voluntad de las personas que han decidido donar sus órganos y tejidos;
+
+VII. Reconocer el mérito y altruismo de los donadores y sus familias, mediante la expedición de las constancias correspondientes;
+
+VIII. Diseñar e impartir cursos de capacitación al personal de salud que participe en donaciones y trasplantes de órganos y tejidos; y
+
+IX.- Las demás que le señalen otras disposiciones aplicables.
+
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
+
+ARTICULO 154 BIS E.- Sólo en caso de que la pérdida de la vida del donante esté relacionada con la averiguación de un delito, se dará intervención al Ministerio Publico y a las autoridades judiciales para la extracción de órganos y tejidos.
+
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
+
+ARTICULO 154 BIS F.- Los establecimientos de salud en el Estado autorizados por la Secretaría de Salud para dedicarse a la extracción, análisis, conservación, preparación y suministro de órganos, tejidos y células, así como a trasplantes de órganos y tejidos, deberán contar con un comité interno de trasplantes y con un coordinador de estas acciones, en los términos de la Ley General de Salud.
+
+Los establecimientos informarán al Registro Estatal de Trasplantes de las acciones que realicen, así como de los donadores, receptores y profesionales que intervengan en los trasplantes, en los términos, forma y periodicidad que señale el Centro Estatal de Trasplantes.
+
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
+
+ARTICULO 154 BIS G.- La pérdida de la vida ocurre cuando se presenta la muerte cerebral o los signos de muerte a que hace referencia la Ley General de Salud.
 
 ###### ARTICULO 145.
 
@@ -1327,7 +1401,9 @@ II. La educación a la familia para prevenir el consumo de tabaco por parte de n
 
 III. Los efectos de la publicidad en la incidencia del tabaquismo y en los problemas relacionados con el consumo del tabaco.
 
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPITULO I. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 1997)</small>
 
 ###### ARTICULO 147.
 
@@ -1347,13 +1423,15 @@ IV. Promoverán y llevarán a cabo campañas permanentes de información y orien
 
 A los establecimientos que vendan o utilicen inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan el Ejecutivo Estatal y los Ayuntamientos, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta ley.
 
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
+
 ### CAPITULO III. DE LAS CONSTRUCCIONES
 
 ### CAPITULO IV. CEMENTERIOS Y CREMATORIOS
 
-### CAPITULO V. SERVICIO DE LIMPIA
-
 ## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS ALCOHOLICAS Y NO ALCOHOLICAS
+
+### CAPITULO V. SERVICIO DE LIMPIA
 
 ### CAPITULO VI. RASTROS
 
@@ -1361,11 +1439,11 @@ A los establecimientos que vendan o utilicen inhalantes con efectos psicotrópic
 
 ### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS Y PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
+## TITULO DECIMO PRIMERO BIS. DONACIONES Y TRASPLANTES DE ORGANOS, TEJIDOS Y CELULAS Y PERDIDA DE LA VIDA EN SERES HUMANOS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 7 DE JULIO DE 2003)</small>
+
 ### CAPITULO IX. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
-
-## TITULO DECIMO SEGUNDO. SALUBRIDAD LOCAL
-
-### CAPITULO X. BAÑOS PUBLICOS
 
 ###### ARTICULO 149.
 
@@ -1395,17 +1473,19 @@ Corresponde a la Secretaría autorizar la ubicación y el funcionamiento de los 
 
 Corresponde a la autoridad municipal, con base en lo que dispongan los Bandos de Policía y Buen Gobierno y demás disposiciones legales aplicables, fijar los horarios a que deberán sujetarse los establecimientos a que se refiere el artículo anterior.
 
-## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 7 DE JULIO DE 2003)</small>
+
+## TITULO DECIMO SEGUNDO. SALUBRIDAD LOCAL
+
+### CAPITULO X. BAÑOS PUBLICOS
 
 ### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
 
 ### CAPITULO XII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
+## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
+
 ### CAPITULO XIII. GASOLINERAS
-
-## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
-
-### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS PARA EL CUIDADO PERSONAL COMO PELUQUERIAS, ESTETICAS SALONES DE BELLEZA, GIMNASIOS Y SIMILARES
 
 ###### ARTICULO 155.
 
@@ -1455,7 +1535,7 @@ La autoridad sanitaria competente publicará en el Boletín Oficial del Gobierno
 
 Las notificaciones que conforme a esta ley deban publicarse, surtirán efectos a partir del día siguiente de su publicación.
 
-### CAPITULO XV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
+### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS PARA EL CUIDADO PERSONAL COMO PELUQUERIAS, ESTETICAS SALONES DE BELLEZA, GIMNASIOS Y SIMILARES
 
 ###### ARTICULO 162.
 
@@ -1471,9 +1551,9 @@ La Secretaría verificará que los mercados y centros de abastos provisionales o
 
 ###### ARTICULO 164.
 
-Los vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales, y el ejercicio de sus actividades se sujetará a lo que dispongan esta ley, los reglamentos respectivos, y otras disposiciones legales aplicables, y las normas técnicas correspondientes.
+Los vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales, y el ejercicio de sus actividades se sujetará a lo que dispongan esta ley, los reglamentos respectivos, otras disposiciones legales aplicables, y las normas técnicas correspondientes.
 
-### CAPITULO XVI. PROGRAMA CONTRA LA RABIA
+### CAPITULO XV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
 
 ###### ARTICULO 165.
 
@@ -1507,7 +1587,7 @@ Los propietarios o poseedores de los edificios o locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias, en los términos de su competencia, podrán ejecutar las obras que estimen de urgencia, con cargo a sus propietarios o poseedores o a los dueños de las negociaciones en ellos establecidos, cuando no la realicen dentro de los plazos concedidos.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XVI. PROGRAMA CONTRA LA RABIA
 
 ###### ARTICULO 173.
 
@@ -1545,7 +1625,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a forestaci
 
 Los procedimientos de refrigeración, exhumación, cremación de cadáveres y embalsamamiento deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las normas técnicas que dicte la Secretaría.
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 179.
 
@@ -1585,7 +1665,7 @@ La autoridad municipal, proveerá de depósitos de basura en los parques, jardin
 
 Para toda la actividad relacionada con este Capítulo, se estará a lo dispuesto por esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 185.
 
@@ -1621,7 +1701,7 @@ La norma técnica correspondiente, establecerá los requisitos sanitarios y medi
 
 El sacrifico de animales en los rastros autorizados se efectuará en los días y horas que fije la autoridad municipal, tomando en consideración las condiciones del lugar y los elementos de que dispongan dicha autoridad y la autoridad sanitaria para realizar las verificaciones necesarias.
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 193.
 
@@ -1663,7 +1743,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños, sean vertidos a ríos, acueductos, corrientes o canales por donde fluyan aguas destinadas a uso o consumo humano; en todo caso deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### ARTICULO 202.
 
@@ -1679,7 +1759,7 @@ IV. Apiarios: El conjunto de colmenas destinadas a la cría, explotación y mejo
 
 ###### ARTICULO 203.
 
-Los establos, granjas avícolas y porcícolas, apiarios y otros establecimientos similares, no podrán estar ubicados en los centros de población o en lugares contiguos a ellos en un radio que delimitará la Secretaría de Salud Pública, conforme a las disposiciones legales en vigor. En todo caso, los establos y las granjas avícolas y porcícolas deberán contar con sistema de tratamiento para sus deshechos de tal manera que evite la contaminación.
+Los establos, granjas avícolas y porcicolas, apiarios y otros establecimientos similares, no podrán estar ubicados en los centros de población o en lugares contiguos a ellos en un radio que delimitará la Secretaría de Salud Pública, conforme a las disposiciones legales en vigor. En todo caso, los establos y las granjas avícolas y porcícolas deberán contar con sistema de tratamiento para sus deshechos de tal manera que evite la contaminación.
 
 ###### ARTICULO 204.
 
@@ -1693,7 +1773,7 @@ Para el establecimiento de nuevos establos, granjas avícolas, porcícolas o api
 
 Las condiciones sanitarias que deban reunir los establecimiento (sic) a que se refiere este Capítulo, estarán fijadas por esta ley, la Ley de Ganadería para el Estado de Sonora, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 207.
 
@@ -1711,7 +1791,7 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 
 Los responsables de los Reclusorios y Centros de Readaptación Social, con el apoyo de los servicios médicos de la institución y en coordinación con la autoridad sanitaria, adoptará las medidas necesarias para la detección, tratamiento, control y notificación de las enfermedades transmisibles, conforme a los reglamentos y normas técnicas aplicables.
 
-### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 211.
 
@@ -1725,7 +1805,7 @@ Para abrir al servicio público estos establecimientos deberá obtenerse licenci
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes que dicte la Secretaría.
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 214.
 
@@ -1741,7 +1821,7 @@ La autoridad sanitaria competente, una vez terminada la edificación del centro 
 
 El funcionamiento de los establecimientos a que se refiere el artículo 214 de esta ley, deberá sujetarse a lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 217.
 
@@ -1758,6 +1838,8 @@ Para la construcción o acondicionamiento de un inmueble que se pretenda destina
 ###### ARTICULO 220.
 
 La autoridad sanitaria competente, expedirá las autorizaciones a que se refieren los artículos anteriores, cuando el solicitante haya satisfecho los requisitos que establece esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 221.
 
@@ -1823,7 +1905,7 @@ Las autoridades sanitarias mantendrán campañas permanentes a fin de orientar a
 
 Queda prohibido poseer animales domésticos en aquellos edificios de condominios, o departamentos, en los que deben utilizarse pasillos, escaleras o elevadores comunes.
 
-## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
 
 ###### ARTICULO 235.
 
@@ -1874,6 +1956,10 @@ Para la construcción o acondicionamiento de un inmueble que se pretenda destina
 ###### ARTICULO 242.
 
 Para el traslado de cadáveres de un municipio a otro en el Estado, se requerirá de la autorización del Oficial del Registro Civil. Dicha autorización sólo se otorgará una vez que la autoridad sanitaria conceda el permiso correspondiente y que se satisfagan los requisitos administrativos y sanitarios que establecen esta ley y los demás ordenamientos reglamentarios.
+
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
+
+ARTICULO 242 BIS.- La internación al Estado y el traslado de cadáveres a otras entidades federativas, sólo podrá realizarse mediante autorización de la Secretaría u orden de la autoridad judicial o del Ministerio Público, previo el cumplimiento de los requisitos a que se refiere el artículo anterior.
 
 ###### ARTICULO 243.
 
@@ -1964,6 +2050,8 @@ Los certificados de defunción y de muerte fetal serán expedidos, una vez compr
 ###### ARTICULO 257.
 
 Los certificados a que se refiere este Título, se extenderán en los modelos aprobados por la Secretaría de Salud y de conformidad con las normas técnicas que la misma emita.
+
+## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
 ###### ARTICULO 258.
 
@@ -2085,7 +2173,7 @@ Se consideran medidas de seguridad aquellas disposiciones que dicten la Secretar
 
 ###### ARTICULO 273.
 
-Son medidas de seguridad sanitarias, las siguientes:
+Son medidas de seguridad sanitaria, las siguientes:
 
 I. El aislamiento;
 
@@ -2217,9 +2305,19 @@ Se sancionará con multa equivalente de diez hasta cien veces el salario mínimo
 
 Se sancionará con multa equivalente de cincuenta a quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 81 y 94 de esta ley.
 
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
+
+ARTICULO 290 BIS.- Se sancionará con multa equivalente de doscientas a quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación a lo dispuesto por el artículo 242 Bis de esta Ley.
+
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
+
+ARTICULO 290 BIS A.- Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación a las disposiciones contenidas en los artículos 154 Bis B y 154 Bis F, párrafo segundo de esta Ley.
+
+> <small>(REFORMADO, B.O. 7 DE JULIO DE 2003)</small>
+
 ###### ARTICULO 291.
 
-Las infracciones a las disposiciones de esta ley, en materia de salubridad local, no previstas en este Capítulo, serán sancionadas con multa equivalente hasta por quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo las reglas de clasificación que se establecen en el artículo 287 de esta ley.
+Las infracciones a las disposiciones de esta Ley, en materia de salubridad local, y demás disposiciones generales y normas técnicas que deriven de la misma, no previstas en este Capítulo, serán sancionadas con multa equivalente hasta por quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo a las reglas de clasificación que se establecen en el artículo 287 de esta Ley.
 
 ###### ARTICULO 292.
 
@@ -2520,3 +2618,13 @@ La presente ley entrará en vigor al día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente ley.
+
+B.O. 7 DE JULIO DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en le (sic) Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los procedimientos en trámite ante las instancias mencionadas en esta Ley se seguirán conforme a las disposiciones vigentes al momento de su iniciación.
