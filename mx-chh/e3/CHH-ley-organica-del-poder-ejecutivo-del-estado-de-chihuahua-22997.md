@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2002-05-22"
+last_updated: "2002-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2002.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -327,11 +327,11 @@ XX. Aprobar las tarifas de transporte público y tramitar las solicitudes para e
 
 XIX.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 26.
 
-A la Secretaría de Finanzas y Administración corresponde al (sic) despacho de los siguientes asuntos:
+A la Secretaría de Finanzas y Administración corresponde el despacho de los siguientes asuntos:
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -357,9 +357,9 @@ V.- Custodiar y concentrar los fondos y valores del Gobierno del Estado;
 
 VI.- Dirigir la negociación de la deuda Pública del Estado, así como llevar el registro y control del endeudamiento estatal y municipal, de conformidad con la Ley de Deuda Pública para el Estado de Chihuahua y sus municipios;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
-VII.- Representar el interés del Estado en controversias fiscales y participar en cualquier acto, contrato o convenio que obligue económicamente al Gobierno del Estado;
+VII.- Representar, salvo disposición expresa del Gobernador, el interés del Estado en controversias fiscales y participar en cualquier acto, contrato o convenio que obligue económicamente al Gobierno del Estado;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1162,3 +1162,17 @@ Para el cumplimiento de las nuevas facultades conferidas mediante el presente de
 P.O. 22 DE MAYO DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política Estatal, envíese copia de la iniciativa y de los debates del Congreso a los ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas disposiciones que se opongan al presente decreto.
