@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "1998-12-30"
+last_updated: "1999-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 1999.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1519,6 +1519,10 @@ VII.- Aquellos que en el Municipio o entidades descentralizadas manejen, recaude
 
 Los servidores públicos municipales están obligados a presentar su declaración patrimonial ante el Presidente Municipal, de lo que se dará cuenta en sesión de Cabildo; y serán remitidas al órgano que para tal efecto, designe el Ayuntamiento. Tratándose de la declaración del Presidente Municipal y Regidores, ésta será presentada ante el Congreso del Estado para el efecto de su registro y control, de conformidad con las disposiciones aplicables.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE ABRIL DE 1999)</small>
+
+Tratándose de la declaración del Presidente Municipal, Regidores y Síndico, ésta será presentada ante el Congreso del Estado para el efecto de su registro y control, de conformidad con las disposiciones aplicables.
+
 ###### ARTICULO 94.
 
 Las declaraciones de los servidores públicos municipales, deberán hacerse en los siguientes plazos:
@@ -2876,3 +2880,9 @@ DECRETO No. 107/98 I P.O.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y nueve.
+
+P.O. 24 DE ABRIL DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
