@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-instituto-de-seguridad-y-servicios-sociales-754
 country: "mx"
 rank: "ley"
 publication_date: "1981-02-10"
-last_updated: "1994-07-19"
+last_updated: "2003-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY QUE CREA EL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO DE PUEBLA, COMO UN ORGANISMO PUBLICO DESCENTRALIZADO, CON PERSONALIDAD JURIDICA Y PATRIMONIO PROPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1994.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. EL 19 DE DICIEMBRE DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento Número 1 del Periódico Oficial del Estado de Puebla, el martes 10 de febrero de 1981.
 
@@ -1354,3 +1356,39 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día primero de enero de dos mil cuatro.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley que crea el Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio de los Poderes del Estado de Puebla, publicada con fecha diez de febrero de mil novecientos ochenta y uno; igualmente, se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto seguirá cubriendo el importe de las pensiones concedidas con anterioridad a la entrada en vigor de esta Ley en los términos en que hayan sido otorgadas.
+
+El otorgamiento de las pensiones cuya solicitud se encuentre en trámite al entrar en vigor esta Ley, se determinará conforme al momento y a las condiciones en que se haya generado el derecho correspondiente.
+
+###### ARTÍCULO CUARTO.
+
+Se continúa reconociendo el derecho de antigüedad de los trabajadores que al entrar en vigor la Ley que se abroga, aportaron al fondo de pensiones el importe de los ahorros en la Institución de Ahorro de Funcionarios y Empleados Públicos, tales derechos se considerarán como tiempo de cotización al Instituto para los fines de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+A partir de la vigencia de esta Ley y por única vez, se concede el plazo de un año a las personas que hayan ingresado al servicio público en las Instituciones Públicas señaladas en el artículo 3 de esta Ley, después de haber cumplido 60 años de edad y que estén en activo, para solicitar al Instituto su incorporación al régimen de Seguridad Social que ésta establece. Para este efecto, deberá cubrir por su cuenta las cuotas, aportaciones e intereses correspondientes en los términos que fijen las disposiciones reglamentarias de esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+Los actos que se hayan realizado conforme a la Ley que se abroga, seguirán surtiendo efectos hasta la conclusión del término o cumplimiento de las condiciones en que se hayan efectuado.
+
+###### ARTÍCULO SEPTIMO.
+
+Las disposiciones reglamentarias de la presente Ley deberán ser expedidas en un término no mayor de 180 días contados a partir de la fecha en que entre en vigor la misma. En tanto se expiden estas disposiciones reglamentarias, se seguirán aplicando las vigentes en cuanto no la contravengan.
+
+###### ARTICULO OCTAVO.
+
+El fondo de vivienda, integrado por la aportación de las Instituciones Públicas en términos de esta Ley, será destinado exclusivamente para la promoción, adquisición o construcción de viviendas en beneficio de los Servidores Públicos derechohabientes.
