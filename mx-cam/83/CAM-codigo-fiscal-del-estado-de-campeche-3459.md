@@ -4,7 +4,7 @@ identifier: "CAM-codigo-fiscal-del-estado-de-campeche-3459"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-12-10"
-last_updated: "1997-06-18"
+last_updated: "1997-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3459&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO FISCAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1997.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el jueves 10 de diciembre de 1992.
 
@@ -381,17 +381,19 @@ En el caso de aprovechamientos, los recargos se calcularán de conformidad con l
 
 El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de los demás conceptos a que se refiere este artículo. Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de tres días, efectúe el pago junto con la mencionada indemnización del 20% o bien acredite fehacientemente, con las pruebas documentales procedentes, que se realizó el pago o que dicho pago no se realizó por causas exclusivamente imputables a la institución de crédito. Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualquiera de los extremos antes señalados, la autoridad fiscal requerirá y cobrará el monto del cheque, la indemnización mencionada y los demás aprovechamientos y accesorios que correspondan, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad que en su caso procediere.
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 1994)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 1997) (F. DE E., P.O. 30 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 17-A.
 
-El monto de las contribuciones, o de las devoluciones a cargo del fisco estatal se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período, debiéndose calcular hasta el diezmilésimo. Las contribuciones no se actualizarán por fracciones de mes.
+El monto de las contribuciones, aprovechamientos a que se refiere el artículo 8 de este Código, excepto recargos, así como de las devoluciones a cargo del fisco estatal, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades correspondientes. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período, debiéndose calcular hasta el diezmilésimo. Las contribuciones, los aprovechamientos de referencia, así como las devoluciones a cargo del fisco estatal, no se actualizarán por fracciones de mes.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 1994)</small>
 
 Las valores de bienes y operaciones se actualizarán de acuerdo con lo dispuesto en este artículo, cuando las leyes fiscales así lo establezcan. Las disposiciones señalarán en cada caso el período de que se trate.
 
-Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización. El monto de ésta no será deducible ni acreditable.
+(ADICIONADO, P.O. 15 DE JUNIO DE 1994)Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización. El monto de ésta no será deducible ni acreditable.
 
-Se aplicará el Indice Nacional de Precios al Consumidor publicado en el Diario Oficial de la Federación, dentro de los primeros diez días del mes siguiente al que corresponda.
+(ADICIONADO, P.O. 15 DE JUNIO DE 1994)Se aplicará el Indice Nacional de Precios al Consumidor publicado en el Diario Oficial de la Federación, dentro de los primeros diez días del mes siguiente al que corresponda.
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1997)</small>
 
@@ -1001,17 +1003,23 @@ III.- Los informes, libros o documentos requeridos deberán ser proporcionados p
 
 IV.- Como consecuencia de la revisión de los informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar en forma circunstanciada los hechos u omisiones que se hubiesen conocido y entrañen incumplimientos de las disposiciones fiscales del contribuyente o responsable solidario;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 1997)</small>
+(REFORMADA, P.O. 23 DE DICIEMBRE DE 1997) (F. DE E., P.O. 30 DE DICIEMBRE DE 1997)
 
-V.- El oficio de observaciones a que se refiere la fracción IV anterior, se notificará cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en dicha fracción. El contribuyente contará con un plazo de cuando menos quince días contados a partir del siguiente al en que se notificó el oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo;
+V.- El oficio de observaciones a que se refiere la fracción IV anterior, se notificará cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en esta última fracción. El contribuyente o responsable solidario contará con un plazo de cuando menos quince días contados a partir del siguiente al en que se notificó el oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, así como para optar por corregir su situación fiscal.
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 1997)</small>
+Se tendrán por consentidos los hechos u omisiones consignados en el oficio de observaciones, si en el precitado plazo probatorio el contribuyente o responsable solidario no presenta la documentación comprobatoria que los desvirtúe;
 
-VI.- La resolución que determine las contribuciones omitidas se notificará cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en dicha fracción; y
+(REFORMADA, P.O. 23 DE DICIEMBRE DE 1997) (F. DE E., P.O. 30 DE DICIEMBRE DE 1997)
 
-> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 1997)</small>
+VI.- Dentro del plazo para desvirtuar los hechos u omisiones asentados en el oficio de observaciones, a que se refiere la fracción V de este artículo, el contribuyente podrá optar por corregir su situación fiscal en las distintas contribuciones objeto de la revisión, mediante la presentación de la forma de corrección de su situación fiscal, que apruebe la Secretaría de Finanzas y Administración, de la que proporcionará copia a la autoridad revisora;
 
-VII.- Cuándo no hubiera observaciones, la autoridad fiscal comunicará al contribuyente, mediante oficio, la conclusión de la revisión de gabinete de los documentos presentados.
+(REFORMADA, P.O. 23 DE DICIEMBRE DE 1997) (F. DE E., P.O. 30 DE DICIEMBRE DE 1997)
+
+VII.- Cuando el contribuyente no corrija totalmente su situación fiscal conforme al oficio de observaciones o no desvirtúe los hechos u omisiones consignados en dicho documento, se emitirá la resolución que determine las contribuciones omitidas, la cual se notificará al contribuyente cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en dicha fracción; y
+
+(ADICIONADA, P.O. 23 DE DICIEMBRE DE 1997) (F. DE E., P.O. 30 DE DICIEMBRE DE 1997)
+
+VIII.- Cuando no hubiera observaciones, la autoridad fiscalizadora comunicará al contribuyente o responsable solidario, mediante oficio, la conclusión de la revisión de gabinete de los documentos presentados.
 
 ###### ARTICULO 49.
 
@@ -1279,7 +1287,13 @@ XVI.- Traficar con la documentación comprobatoria de sus ingresos;
 
 XVII.- No pagar total o parcialmente las contribuciones dentro de los plazos señalados por este Código, o eludir el pago de dichas contribuciones como consecuencia de inexactitudes, simulaciones o falsificaciones o cualquier otra maniobra encaminada a dicho fin y sean descubiertas por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación;
 
-XVIII.- Faltar en cualquier otra forma no prevista en las fracciones anteriores al cumplimiento de las obligaciones que les impone este Código o cualquier otra disposición fiscal.
+(REFORMADA, P.O. 23 DE DICIEMBRE DE 1997) (F. DE E., P.O. 30 DE DICIEMBRE DE 1997)
+
+XVIII.- Las relacionadas con la obligación de garantizar el interés fiscal, el solicitar la autorización de pago en plazos en términos del artículo 24, fracción II, segundo párrafo de este Código, cuando las autoridades fiscales comprueben que el contribuyente pudo haber ofrecido garantías adicionales; y
+
+(ADICIONADA, P.O. 23 DE DICIEMBRE DE 1997) (F. DE E., P.O. 30 DE DICIEMBRE DE 1997)
+
+XIX.- Faltar en cualquier otra forma no prevista en las fracciones anteriores al cumplimiento de las obligaciones que les impone este Código o cualquiera otra disposición fiscal.
 
 ###### ARTICULO 57.
 
@@ -1329,15 +1343,25 @@ X.- De 20 a 100 veces el salario mínimo general diario vigente en el Estado, a 
 
 XI.- De 50 a 150 veces el salario mínimo general diario vigente en el Estado, a la establecida en la fracción XVI;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+(REFORMADA, P.O. 23 DE DICIEMBRE DE 1997) (F. DE E., P.O. 30 DE DICIEMBRE DE 1997)
 
-XII.- El 50% de la contribución omitida actualizada en los términos del artículo 17-A del presente Código, en el entendido que cuando ese porcentaje arroje cantidad menor a 2 veces el salario mínimo general diario vigente en el Estado, la sanción a aplicar será la de: 2 veces ese salario mínimo, para las establecidas en la fracción XVII.
+XII.- Para las infracciones establecidas en la fracción XVII del artículo anterior, se aplicarán los porcientos que se establecen en los siguientes casos:
+
+a).- El 30% de las contribuciones omitidas actualizadas en los términos del artículo 17-A del presente Código, cuando el infractor las pague junto con sus aprovechamientos y accesorios correspondientes, antes de la notificación de la resolución que determine el monto de la contribución que omitió; y
+
+b).- Del 50% al 70% de las contribuciones omitidas actualizadas en los términos del artículo 17-A del presente Código en los demás casos.
+
+En el caso de que al aplicar los porcentajes antes descritos, arrojen una cantidad menor a 2 veces el salario mínimo diario vigente en el Estado, la sanción será la de: 2 veces ese salario mínimo.
 
 Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquella, declarando contribuciones adicionales, por dicha declaración también se aplicará la multa a que se refiere esta fracción;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+(REFORMADA, P.O. 23 DE DICIEMBRE DE 1997) (F. DE E., P.O. 30 DE DICIEMBRE DE 1997)
 
-XIII.- De 2 a 50 veces el salario mínimo general diario vigente en el Estado, a la comprendida en la fracción XVIII.
+XIII.- Para la infracción establecida en la fracción XVIII del artículo anterior, se impondrá una sanción equivalente entre el 10% del crédito fiscal garantizado y $5,000.00. En ningún caso la sanción que resulte de aplicar el porcentaje a que se refiere esta fracción será menor de $500.00 ni mayor a $5,000.00;
+
+(ADICIONADA, P.O. 23 DE DICIEMBRE DE 1997) (F. DE E., P.O. 30 DE DICIEMBRE DE 1997)
+
+XIV.- De 2 a 50 veces el salario mínimo general diario vigente en el Estado, a la comprendida en la fracción XIX.
 
 ###### ARTICULO 58.
 
@@ -1566,6 +1590,12 @@ Para los efectos de este Código, el delito es continuado cuando se ejecuta con 
 ###### ARTICULO 67.
 
 Se impondrá sanción de tres meses a seis años de prisión, a los servidores públicos que ordenen o practiquen visitas domiciliarias o embargos sin mandamiento escrito de autoridad fiscal competente.
+
+(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1997) (F. DE E., P.O. 30 DE DICIEMBRE DE 1997)
+
+###### ARTICULO 67-A.
+
+Se sancionará con prisión de uno a cinco años al servidor público que amenazare de cualquier modo a un contribuyente o a sus representantes legales o a sus dependientes, con formular por sí o por medio de la Dependencia de su adscripción, una denuncia, querella o declaratoria al Ministerio Público para que se ejercite acción penal por la posible comisión de delitos fiscales.
 
 ###### ARTICULO 68.
 
@@ -3000,5 +3030,11 @@ SEGUNDO.- SE DEROGAN CUALESQUIERA DISPOSICIONES LEGALES, REGLAMENTARIAS O ADMINI
 P.O. 18 DE JUNIO DE 1997.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan a las contenidas en este decreto.
+
+P.O. 23 DE DICIEMBRE DE 1997.
+
+Primero.- El presente decreto entrará en vigor a partir del día Primero de Enero de mil novecientos noventa y ocho.
 
 Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan a las contenidas en este decreto.
