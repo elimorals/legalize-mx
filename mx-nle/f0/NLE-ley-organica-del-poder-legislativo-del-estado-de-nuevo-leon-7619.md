@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "1992-09-11"
+last_updated: "1994-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -43,9 +43,11 @@ LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
 El Poder Legislativo del Estado de Nuevo León se deposita en un Congreso que se renovará cada tres años como lo establece el Artículo 46 de la Constitución Política Local.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+
 ###### Artículo 2o.
 
-El Congreso del Estado se integrará con veintiséis Diputados electos por mayoría relativa votados en Distritos Electorales Uninominales y hasta catorce Diputados electos por el principio de Representación Proporcional. Todos tendrán iguales atribuciones, derechos y obligaciones.
+El Congreso del Estado se integrará con veintiséis Diputados electos por mayoría relativa votados en Distritos Electorales Uninominales y hasta dieciséis Diputados electos por el principio de Representación Proporcional. Todos tendrán iguales atribuciones, derechos y obligaciones.
 
 ###### Artículo 3o.
 
@@ -111,105 +113,105 @@ Tampoco podrá cumplimentarse mandamiento judicial o administrativo sobre los bi
 
 ### CAPITULO II. DEL COLEGIO ELECTORAL
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+
 ###### Artículo 13.
 
-El Congreso del Estado mediante declaratoria se constituirá en Colegio Electoral para calificar la Elección de Gobernador y de la siguiente Legislatura y tendrá en materia electoral las atribuciones que le señale la Constitución Política y la Ley Electoral del Estado de Nuevo León.
+El Pleno del Congreso del Estado, mediante declaratoria se constituirá en Colegio Electoral, para calificar la elección de Gobernador del Estado y tendrá en materia electoral las atribuciones que le señala la Constitución Política del Estado de Nuevo León y la Ley Electoral del Estado.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
 ###### Artículo 14.
 
-También conocerá de la Nulidad de las Elecciones en los términos establecidos en la Constitución Política del Estado de Nuevo León y en la Ley Electoral del Estado.
+También conocerá de la Nulidad de la elección de Gobernador, en los términos establecidos en la Constitución Política del Estado de Nuevo León y en la Ley Electoral del Estado.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
 ###### Artículo 15.
 
-En el año de la elección del Titular del Poder Ejecutivo, el Congreso se erigirá en Colegio Electoral para calificar las elecciones de Gobernador y Diputados según lo dispuesto por el Artículo 63 fracción XV de la Constitución Política del Estado y el 165 de la Ley Electoral del Estado de Nuevo León.
-
-En el año en que solo haya elecciones para la renovación del Poder Legislativo, de acuerdo a lo previsto por la Constitución Política del Estado en el Artículo 66 fracción VI y los relativos de la Ley Electoral del Estado será la Diputación Permanente la que califique la elección de Diputados.
-
-El Congreso hará la declaratoria de Senador Propietario y Suplente, en los términos del Artículo 56 de la Constitución Política de los Estados Unidos Mexicanos.
+En el año de la elección del Titular del Poder Ejecutivo, el Congreso se erigirá en Colegio Electoral para calificar la elección de Gobernador, según lo dispuesto por el Artículo 63 Fracción XV de la Constitución Política del Estado de Nuevo León y el 164 de la Ley Electoral del Estado.
 
 Las resoluciones que se dicten en tales casos son definitivas e inatacables.
 
 ### CAPITULO III. LA COMISION INSTALADORA DEL COLEGIO ELECTORAL
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+
 ###### Artículo 16.
 
-En el año de la Elección de Gobernador y Diputados Locales la Directiva del Congreso además de sus funciones se constituirá en Comisión Instaladora para presidir los trabajos del Colegio Electoral y ser enlace con la siguiente Legislatura.
+En el año de la elección de Gobernador y Diputados Locales la Directiva del Congreso, además de sus funciones, se constituirá en Comisión Instaladora para presidir los trabajos del Colegio Electoral y ser enlace con la siguiente Legislatura. El Congreso del Estado comunicará a la Comisión Estatal Electoral, la designación de la Directiva del Congreso.
 
-En el año en que solo haya elecciones para la renovación del Poder Legislativo la Diputación Permanente erigida en Colegio Electoral actuará además como Comisión Instaladora y tendrá a su cargo las funciones señaladas en el párrafo anterior, además de las que constitucionalmente le están asignadas.
+En el año en que sólo haya elecciones para la revocación del Poder Legislativo, la Diputación Permanente actuará como Comisión Instaladora.
 
-El Congreso del Estado comunicará a la Comisión Estatal Electoral y a la Cámara de Senadores del Congreso de la Unión, la designación de la Comisión Instaladora.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
 ###### Artículo 17.
 
-La Comisión Instaladora tendrá a su cargo recibir:
+La Directiva del Congreso tendrá a su cargo recibir:
 
-I.- El resultado concentrado del Cómputo Final realizado por el Centro Estatal de Cómputo Electoral.
+I.- El resultado concentrado del Cómputo Final de la Elección del Gobernador realizado por la Comisión Estatal Electoral;
 
-II.- Copia de las Actas del resultado del cómputo, acompañada de las Actas de Escrutinio levantadas en las Casillas Electorales.
+II.- Copia de las Actas del resultado del cómputo, acompañada de las Actas de Escrutinio de la elección de Gobernador levantadas en las Casillas Electorales;
 
-III.- Copia de la Declaratoria correspondiente o en su caso de las constancias de mayoría que haya expedido.
+III.- El porcentaje de la votación de la Elección de Gobernador, obtenido por cada uno de los Partidos Políticos;
 
-IV.- Listas e Informe del Partido que obtenga el mayor número de dichas constancias en los Distritos Electorales Uninominales.
+IV.- Los paquetes electorales de la elección de Gobernador; y
 
-V.- El porcentaje de la votación obtenida por cada uno de los partidos políticos.
+V.- Copia de los escritos de protesta y de los recursos de inconformidad interpuestos por los Partidos Políticos.
 
-VI.- Los paquetes electorales.
-
-VII.- Copia de las notificaciones de recursos o resoluciones que haya recibido del Tribunal Electoral del Estado.
-
-VIII.- Recibir en su caso copia certificada del cómputo de entidad federativa de la elección de Senador, y un informe de los recursos interpuestos, que remitirá la Junta Local del Instituto Federal Electoral y la documentación correspondiente, en los términos del Artículo 257 del Código Federal de Instituciones y Procedimientos Electorales, en su inciso e).
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
 ###### Artículo 18.
 
-El Congreso del Estado constituído en Colegio Electoral o en su caso la Diputación Permanente, elegirá una comisión de Colegio Electoral para que estudie y analice la documentación a que se refiere el artículo anterior y dictamine en relación a la Elección de Gobernador y de Diputados Electos por el principio de mayoría relativa.
-
-Para emitir el dictamen relativo a la asignación de los Diputados de Representación Proporcional, la Comisión tomará en cuenta el procedimiento contenido en la Ley Electoral del Estado de Nuevo León.
-
-Tratándose de la elección de Senador se actuará en los términos del Artículo 56 de la Constitución Política de los Estados Unidos Mexicanos.
+El Pleno del Congreso del Estado, constituido en Colegio Electoral, eligirá (sic) una comisión denominada Colegio Electoral para que estudie y analice la documentación a que se refiere el artículo anterior y dictamine en relación a la elección de Gobernador del Estado.
 
 ### CAPITULO IV. DE LA CALIFICACION DE ELECCIONES
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+
 ###### Artículo 19.
 
-El Pleno del Congreso o en su caso la Diputación Permanente se constituirá en Sesión Permanente y declarará un receso para que la Comisión de Colegio Electoral formule los dictámenes correspondientes dentro de los siguientes cinco días.
+El Pleno del Congreso, se constituirá en Sesión Permanente y declarará un receso para que la Comisión de Colegio Electoral formule el Dictamen correspondiente dentro de los siguientes cinco días.
 
-Formulados los dictámenes el Presidente de la Comisión de Colegio Electoral lo comunicará a la Comisión Instaladora para que ésta cite al Pleno del Congreso. Cuando la Diputación Permanente califique la Elección ésta reanudará la Sesión y dará a conocer el dictamen el cual deberá estar suscrito por la mayoría simple de sus integrantes.
+Formulado el Dictamen, el Presidente de la Comisión del Colegio Electoral lo comunicará a la Directiva del Congreso para que éste cite a sesión del Pleno.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
 ###### Artículo 20.
 
-El día y hora en que sea convocado el Pleno del Congreso o de la Diputación Permanente en su caso, el Presidente de la Comisión de Colegio Electoral o el Diputado que éste designe dará lectura al contenido de los dictámenes de la calificación de Gobernador y Diputados Locales por los principios de mayoría relativa y de Representación Proporcional, y la declaratoria de la fórmula de Senador.
+El día y hora en que sea convocado el Pleno del Congreso, el Presidente de la Comisión de Colegio Electoral o el Diputado que éste designe, dará lectura al contenido del dictamen de la calificación de la elección del Gobernador.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
 ###### Artículo 21.
 
-El pleno podrá declarar varios recesos, pero no podrá suspender los trabajos hasta haber concluído cada uno de los siguientes casos:
+El Pleno del Congreso podrá declarar varios recesos, pero no podrá suspender los trabajos hasta haber concluido con la calificación de la elección de Gobernador.
 
-I.- La calificación de la Elección de Gobernador.
+En la misma Sesión declarará en su caso, sobre la nulidad de la elección de Gobernador, en los términos previstos por la Constitución Política del Estado de Nuevo León y la Ley Electoral del Estado.
 
-II.- La calificación de los Diputados que hubiesen obtenido mayoría relativa en cada uno de los distritos uninominales.
-
-III.- La asignación a cada partido político del número de Diputados que le corresponda, siguiendo el principio de representación proporcional de conformidad con lo establecido en la Ley Electoral del Estado de Nuevo León.
-
-En la misma Sesión declarará la nulidad de la elección de que se trate en los términos previstos por la Ley Estatal Electoral y en la Constitución Política del Estado de Nuevo León.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
 ###### Artículo 22.
 
-Al término de la Sesión, los Secretarios de la Comisión Instaladora, fijarán en los estrados del Congreso, un aviso firmado por ambos en que se dé conocimiento de la calificación de las elecciones, o en su caso de nulidad, así mismo se ordenará su publicación en el Periódico Oficial del Estado.
+Al término de la Sesión, los Secretarios de la Directiva del Congreso, fijarán en los estrados del mismo, un aviso firmado por ambos en que se dé conocimiento de la calificación de la elección de Gobernador, o en su caso de la nulidad de la misma, ordenándose su publicación en el Periódico Oficial de (sic) Estado.
 
-Los trabajos deberán ser concluídos dentro de los quince días siguientes de la fecha en que se constituye el Colegio Electoral.
+Los trabajos deberán ser concluidos dentro de los quince días siguientes de la fecha en que se constituye el Colegio Electoral.
 
 ###### Artículo 23.
 
-El mismo procedimiento se empleará para la declaratoria de la elección de Senador.
+(DEROGADO, P.O. 1 DE JUNIO DE 1994)
 
 ###### Artículo 24.
 
-Hecha la declaratoria de la elección de Senador se comunicará a la Cámara de Senadores del Congreso de la Unión, remitiéndole copia certificada del Acta de la Sesión correspondiente y demás documentación.
+(DEROGADO, P.O. 1 DE JUNIO DE 1994)
 
 ### CAPITULO V. DE LA INSTALACION DEL CONGRESO
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+
 ###### Artículo 25.
 
-Calificadas las elecciones de Diputados con arreglo a los artículos correspondientes de la Ley Electoral del Estado de Nuevo León y recibidas por los interesados las credenciales respectivas, el Presidente de la Comisión Instaladora, citará a los Diputados Electos para que se presenten al Recinto del Congreso, quince días antes de la Apertura de las Sesiones para iniciar las Juntas Preparatorias correspondientes.
+Calificadas las elecciones de Diputados con arreglo a la Constitución Política del Estado de Nuevo León y a la Ley Electoral del Estado, y recibidas por los interesados las credenciales respectivas, el Presidente de la Comisión Instaladora, citará a los Diputados Electos para que se presenten al Recinto del Congreso, quince días antes de la Apertura de las Sesiones para iniciar las Juntas Preparatorias correspondientes.
 
 Con la citación anterior la Comisión Instaladora concluirá sus funciones.
 
@@ -577,13 +579,11 @@ La Comisión de Vigilancia de la Contaduría Mayor de Hacienda estará integrada
 
 Son Comisiones Jurisdiccionales las que se integran en los términos de la Constitución y de las Leyes para el efecto de la Responsabilidad de los Servidores Públicos.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+
 ###### Artículo 73.
 
-La Comisión de Colegio Electoral funcionará transitoriamente para:
-
-I.- Dictaminar las elecciones del Gobernador y Diputados Locales, para efectos de su calificación por el Congreso en los términos que establecen las leyes; y
-
-II.- Dictaminar sobre la constancia de mayoría en la elección de Senador para formular la declaratoria en los términos del Artículo 56 de la Constitución Política del los Estados Unidos Mexicanos.
+La Comisión de Colegio Electoral funcionará transitoriamente para dictaminar en relación a la calificación o en su caso de la nulidad de la elección de Gobernador, en los términos que establecen las Leyes.
 
 ###### Artículo 74.
 
@@ -702,3 +702,9 @@ LIC. SOCRATES C. RIZZO GARCIA
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ALEJANDRO LAMBRETON NARRO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE JUNIO DE 1994.
+
+UNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
