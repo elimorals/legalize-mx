@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "1990-07-18"
+last_updated: "1991-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGOAAC"
 
 LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JULIO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 1991.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -42,9 +42,11 @@ LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO.
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley regulará la organización y funcionamiento de las organizaciones auxiliares del crédito. Asimismo, se aplicará al ejercicio de las actividades que se reputen en la misma como auxiliares del crédito. La Secretaría de Hacienda y Crédito Público, será el órgano competente para interpretar a efectos administrativos los preceptos de esta Ley, y en general para todo cuanto se refiera a las organizaciones auxiliares del crédito.
+La presente Ley regulará la organización y funcionamiento de las organizaciones auxiliares del crédito y se aplicará al ejercicio de las actividades que se reputen en la misma como auxiliares del crédito. La Secretaría de Hacienda y Crédito Público será el órgano competente para interpretar a efectos administrativos los preceptos de esta Ley y, en general, para todo cuanto se refiera a las organizaciones y actividades auxiliares del crédito.
 
 ###### ARTICULO 2o.
 
@@ -52,41 +54,45 @@ Las organizaciones auxiliares nacionales del crédito se regirán por sus leyes 
 
 Competerá exclusivamente a la Secretaría de Hacienda y Crédito Público, la instrumentación de las medidas relativas tanto a la organización como al funcionamiento de las organizaciones auxiliares nacionales del crédito.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 3o.
 
-Se considerarán organizaciones auxiliares del crédito las siguientes:
+Se consideran organizaciones auxiliares del crédito las siguientes:
 
 I. Almacenes generales de depósito;
 
 II. Arrendadoras financieras;
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+III. Sociedades de Ahorro y Préstamo;
 
-III.- Uniones de crédito;
+IV. Uniones de crédito;
 
-> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1990)</small>
+V. Empresas de factoraje financiero, y
 
-IV.- Empresas de factoraje financiero; y
-
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
-
-V.- Las demás que otras leyes consideren como tales.
+VI. Las demás que otras leyes consideren como tales.
 
 ###### ARTICULO 4o.
 
 Para los efectos de esta Ley se considera actividad auxiliar del crédito, la compra-venta habitual y profesional de divisas.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 5o.
 
-Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, para la constitución y operación de almacenes generales de depósito, arrendadoras financieras y empresas de factoraje financiero, o de la Comisión Nacional Bancaria cuando se trate de uniones de crédito.
+Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, para la constitución y operación de almacenes generales de depósito, arrendadoras financieras, sociedades de ahorro y préstamo y empresas de factoraje financiero, o de la Comisión Nacional Bancaria cuando se trate de uniones de crédito.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 Estas autorizaciones podrán ser otorgadas o denegadas discrecionalmente por dicha Secretaría, o la Comisión en su caso, según la apreciación sobre la conveniencia de su establecimiento y serán por su propia naturaleza, intransmisibles.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 Dichas autorizaciones deberán publicarse en el Diario Oficial de la Federación, así como las modificaciones a las mismas.
 
-Sólo las sociedades que gocen de autorización en los términos de esta Ley, podrán operar como almacenes generales de depósito, arrendadoras financieras, uniones de crédito o empresas de factoraje financiero.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+Sólo las sociedades que gocen de autorización en los términos de esta Ley, podrán operar como almacenes generales de depósito, arrendadoras financieras, sociedades de ahorro y préstamo, uniones de crédito y empresas de factoraje financiero.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -94,11 +100,15 @@ Sólo las sociedades que gocen de autorización en los términos de esta Ley, po
 
 La solicitud de autorización para constituir y operar una organización auxiliar del crédito deberá acompañarse de un depósito en moneda nacional o en valores emitidos por el Gobierno Federal, en la institución de crédito que la Secretaría de Hacienda y Crédito Público determine, igual al 10% del capital mínimo exigido para su constitución, según esta Ley, mismo que se devolverá al comenzar las operaciones o si se deniega la autorización, pero se aplicará al fisco federal si otorgada la misma no se cumpliera la condición referida.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+Se exceptúan de lo dispuesto en el párrafo anterior a las sociedades de ahorro y préstamo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 7o.
 
-Las palabras organización auxiliar del crédito, arrendadora financiera, almacén general de depósito, unión de crédito, empresa de factoraje financiero, casa de cambio u otras que expresen ideas semejantes en cualquier idioma, sólo podrán ser usadas en la denominación de organizaciones auxiliares del crédito o de las sociedades que se dediquen a actividades auxiliares del crédito, a las que haya sido otorgada autorización, de conformidad con lo dispuesto en la presente Ley.
+Las palabras organización auxiliar del crédito, almacén general de depósito, arrendadora financiera, sociedad de ahorro y préstamo, unión de crédito, empresa de factoraje financiero, casa de cambio u otras que expresen ideas semejantes en cualquier idioma, sólo podrán ser usadas en la denominación de organizaciones auxiliares del crédito o de las sociedades que se dediquen a actividades auxiliares del crédito, a las que haya sido otorgada autorización, de conformidad con lo dispuesto en la presente Ley.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -106,11 +116,11 @@ Se exceptúa de la aplicación del párrafo anterior, a las asociaciones de orga
 
 Las organizaciones auxiliares del crédito que no tengan el carácter de nacionales, no podrán incluir el término nacional en su denominación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 8o.
 
-Las sociedades que se autoricen para operar como organizaciones auxiliares del crédito, deberán constituirse en forma de sociedad anónima de capital fijo o variable, organizadas con arreglo a la Ley General de Sociedades Mercantiles y a las siguientes disposiciones que son de aplicación especial:
+Las sociedades que se autoricen para operar como organizaciones auxiliares del crédito, a excepción de las sociedades de ahorro y préstamo, deberán constituirse en forma de sociedad anónima de capital fijo o variable, organizadas con arreglo a la Ley General de Sociedades Mercantiles y a las siguientes disposiciones que son de aplicación especial:
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -580,13 +590,169 @@ VII. Realizar operaciones de compraventa de oro, plata y divisas. Se exceptúan 
 
 VIII. Realizar las demás operaciones que no les estén expresamente autorizadas.
 
+> <small>(ADICIONADO CON LOS ARTICULO QUE LO INTEGRAN, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+### CAPITULO II BIS. De las Sociedades de Ahorro y Préstamo
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 38-A.
+
+Las sociedades de ahorro y préstamo, serán personas morales con personalidad jurídica y patrimonio propios, de capital variable, no lucrativas, en las que la responsabilidad de los socios se limita al pago de sus aportaciones. Tendrán duración indefinida, con domicilio en el territorio nacional y su denominación deberá ir siempre seguida de las palabras "Sociedad de Ahorro y Préstamo".
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 38-B.
+
+Las sociedades de ahorro y préstamo tendrán por objeto la captación de recursos exclusivamente de sus socios, mediante actos causantes de pasivo directo o contingente, quedando la sociedad obligada a cubrir el principal y, en su caso, los accesorios financieros de los recursos captados. La colocación de dichos recursos se hará únicamente en los propios socios o en inversiones en beneficio mayoritario de los mismos.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 38-C.
+
+Las solicitudes de autorización para constituirse y operar como sociedad de ahorro y préstamo deberán acompañarse de lo siguiente:
+
+I. Proyecto de estatutos de la sociedad, en el que deberá indicarse que se constituirá como sociedad de ahorro y préstamo y que en la realización de su objeto se ajustará a lo previsto en la presente Ley, y a las demás disposiciones aplicables;
+
+II. Programa general de operación de la sociedad, que comprenda por lo menos:
+
+a) Las políticas de operaciones activas y pasivas;
+
+b) Regiones en las que pretenda operar, y
+
+c) Las bases relativas a su organización y control interno;
+
+III. Relación de socios fundadores y monto de su aportación, así como de probables administradores y principales directivos, y
+
+IV. La demás documentación e información que a juicio de la Secretaría de Hacienda y Crédito Público se requiera para el efecto.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 38-D.
+
+La escritura constitutiva de las sociedades de ahorro y préstamo y cualquier modificación a la misma, deberá ser sometida a la aprobación de la Secretaría de Hacienda y Crédito Público. Una vez aprobada la escritura o sus reformas deberán inscribirse en el Registro Público del Comercio sin que sea preciso mandamiento judicial.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 38-E.
+
+La administración y vigilancia de las sociedades de ahorro y préstamo estará encomendada a una asamblea general de socios, a un consejo de administración, a un gerente general, a un comité de vigilancia y a los demás órganos que mediante reglas de carácter general señale la Secretaría de Hacienda y Crédito Público, así como los que en su caso determine la mencionada asamblea.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 38-F.
+
+El capital social de las sociedades de ahorro y préstamo estará integrado por partes sociales, las cuales serán de igual valor y conferirán a sus socios los mismos derechos. Deberán estar íntegramente pagadas en el acto de ser suscritas.
+
+En los estatutos sociales deberá precisarse la forma como se determinará el valor de las partes sociales.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 38-G.
+
+Las partes sociales sólo podrán ser adquiridas por personas físicas y por aquéllas que mediante reglas de carácter general determine la Secretaría de Hacienda y Crédito Público.
+
+Cada socio tendrá derecho sólo a una parte social y cada parte social conferirá derecho a un voto.
+
+Las adquisiciones de partes sociales en exceso de lo previsto en los párrafos anteriores, serán nulas de pleno derecho y el importe se aplicará a la reserva a que se refiere la fracción II del artículo 38-I de la presente Ley, debiendo proceder la sociedad a la correspondiente reducción del capital social.
+
+Lo anterior sin perjuicio de las sanciones que conforme a ésta u otras leyes fueren aplicables.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 38-H.
+
+El importe del capital social pagado de las sociedades de ahorro y préstamo deberá estar invertido en los términos que determine la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 38-I.
+
+Los remanentes de operación que presenten las sociedades de ahorro y préstamo, una vez deducidos los gastos en que incurran en la realización de las propias operaciones, deberán destinarse en su totalidad de conformidad con lo siguiente:
+
+I. Obras de beneficio social propias o en colaboración con autoridades federales, estatales o municipales o con organismos públicos o privados, de modo que las mismas se orienten a la sanidad pública, la investigación, enseñanza y cultura, o a servicios de asistencia social y, que los beneficios que de ellas se deriven se extiendan especialmente al ámbito regional de actuación de la sociedad de ahorro y préstamo de que se trate;
+
+II. Constituir una reserva para el desarrollo de la propia sociedad de ahorro y préstamo, y
+
+III. La distribución entre los socios, con objeto de reducir proporcionalmente los intereses y demás accesorios de los créditos que les hubieren sido otorgados durante el ejercicio en que se hayan registrado los remanentes, o proporcionar un mayor rendimiento a los socios ahorradores.
+
+La Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria, señalará mediante reglas de carácter general los términos y porcentajes en que se llevará a cabo la distribución de remanentes.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 38-J.
+
+Al realizar sus operaciones las sociedades de ahorro y préstamo deberán diversificar sus riesgos. Al efecto, la Secretaría de Hacienda y Crédito Público oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria, determinará mediante reglas de carácter general los límites máximos de responsabilidades directas o contingentes a favor o a cargo de una sociedad de ahorro y préstamo.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 38-K.
+
+La Secretaría de Hacienda y Crédito Público expedirá las reglas de carácter general para la organización y funcionamiento de las sociedades de ahorro y préstamo, en las que se determinarán las operaciones que éstas podrán realizar. El Banco de México emitirá las disposiciones en que se establezcan las características de dichas operaciones.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 38-L.
+
+A las sociedades de ahorro y préstamo les estará prohibido:
+
+I. Recibir depósitos a la vista en cuenta de cheques;
+
+II. Dar en garantía sus propiedades;
+
+III. Dar en prenda o negociar de cualquier manera los títulos o valores de su cartera crediticia, salvo en los casos previstos en las reglas de carácter general que al efecto expida la Secretaría de Hacienda y Crédito Público, oyendo previamente la opinión del Banco de México;
+
+IV. Operar sobre los títulos representativos de su capital;
+
+V. Celebrar operaciones en las que se pacten condiciones y términos que se aparten significativamente de las condiciones que de manera general viene aplicando la sociedad de ahorro y préstamo;
+
+VI. Otorgar fianzas o cauciones;
+
+VII. Participar en el capital de otra sociedad de ahorro y préstamo y de cualquier entidad financiera;
+
+VIII. Conceder créditos distintos de los de su objeto social, salvo los de carácter laboral que otorguen a sus trabajadores, y
+
+IX. Realizar las demás operaciones que no les estén expresamente autorizadas.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 38-M.
+
+El Gobierno Federal y las entidades de la administración pública paraestatal, no podrán responsabilizarse ni garantizar el resultando de las operaciones que realicen las sociedades de ahorro y préstamo, y tampoco asumir responsabilidad alguna respecto del cumplimiento de las obligaciones contraídas con sus socios o con terceros.
+
+La inspección y vigilancia de las sociedades de ahorro y préstamo sólo se limita al cumplimiento de esta Ley.
+
+Las sociedades de ahorro y préstamo deberán mantener en un lugar visible en las oficinas de éstas, lo dispuesto en los párrafos anteriores, así como señalarse expresamente en su publicidad, en los términos que establezca la Comisión Nacional Bancaria a través de disposiciones de carácter general.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 38-N.
+
+La organización y funcionamiento de las sociedades de ahorro y préstamo, se regirán por las disposiciones contenidas en esta Ley, en las reglas de carácter general que emita la Secretaría de Hacienda y Crédito Público y en lo no previsto, por el Capítulo IV de la Ley General de Sociedades Mercantiles.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 38-O.
+
+Cuando esta Ley haga referencia a la asamblea de accionistas, a los comisarios, así como a acciones, se entenderá que tratándose de sociedades de ahorro y préstamo, se refiere a la asamblea general de los socios, al comité de vigilancia y a las partes sociales, respectivamente.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 38-P.
+
+Los grupos de personas físicas que tengan por objeto exclusivamente la captación de recursos de sus integrantes para su colocación entre éstos, podrán operar sin sujetarse a los requisitos exigidos por la presente Ley, sin que en ningún momento puedan anunciar por cualquier medio la realización de sus operaciones; la Secretaría de Hacienda y Crédito Público, fijará las bases para que cuando proceda por el número de integrantes y por la frecuencia, importancia y monto de las operaciones que realizan, se ajusten a la presente Ley, debiendo constituirse en sociedades de ahorro y préstamo.
+
+En todo caso, los integrantes de los grupos señalados en el párrafo anterior deberán establecer en forma destacada, en toda la documentación que utilicen para instrumentar las operaciones aludidas, que no son sociedades de ahorro y préstamo, ni están sujetas a la autorización de la Secretaría de Hacienda y Crédito Público, ni a la inspección y vigilancia de la Comisión Nacional Bancaria.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 38-Q.
+
+Las cajas de ahorro a que hace mención la legislación laboral, no estarán sujetas a las disposiciones de esta Ley.
+
 ### CAPITULO III. De las Uniones de Crédito
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
-
-### CAPITULO III Bis. De las empresas de factoraje financiero
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 39.
 
@@ -818,7 +984,9 @@ Cuando las inversiones hechas en los términos de la fracción VI del artículo 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO IV. Disposiciones Comunes
+### CAPITULO III Bis. De las empresas de factoraje financiero
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 45-A.
 
@@ -1022,11 +1190,9 @@ XI. Descontar, garantizar y en general, otorgar créditos distintos de los expre
 
 XII. Realizar las demás operaciones que no les están expresamente autorizadas.
 
+### CAPITULO IV. Disposiciones Comunes
+
 ### CAPITULO I. De la Contabilidad
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
-
-### CAPITULO II. De la Inspección y Vigilancia
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1048,9 +1214,11 @@ En los contratos de arrendamiento financiero, factoraje financiero y en aquellas
 
 El contrato o documento en que se hagan constar los créditos, arrendamientos financieros o factoraje financiero que otorguen las organizaciones auxiliares del crédito correspondientes, así como los documentos que demuestren los derechos de crédito transmitidos a empresas de factoraje financiero, notificados debidamente al deudor, junto con la certificación del estado de cuenta a que se refiere el artículo anterior, serán título ejecutivo mercantil, sin necesidad de reconocimiento de firma ni de otro requisito alguno.
 
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 49.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, D.O.F. 18 DE JULIO DE 1990)
+Las organizaciones auxiliares del crédito y las casas de cambio no podrán utilizar denominaciones iguales o semejantes, actuar de manera conjunta, ni ofrecer servicios complementarios, con otros intermediarios financieros, salvo en los casos previstos en las leyes para Regular las Agrupaciones Financieras, de Instituciones de Crédito y del Mercado de Valores.
 
 ###### ARTICULO 50.
 
@@ -1066,17 +1234,23 @@ Las hipotecas a que se refiere este artículo deberán ser inscritas en el Regis
 
 Será aplicable en lo pertinente a las hipotecas a que se refiere este artículo, lo dispuesto en el artículo 214 de la Ley General de Títulos y Operaciones de Crédito.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 51.
 
-Las organizaciones auxiliares del crédito, sólo podrán redescontar su cartera, con o sin su responsabilidad en instituciones de crédito, de seguros y de fianzas. La Secretaría de Hacienda y Crédito Público podrá autorizar excepciones a esta disposición, oyendo a la Comisión Nacional Bancaria y al Banco de México.
+Las organizaciones auxiliares del crédito, con excepción de las sociedades de ahorro y préstamo sólo podrán redescontar su cartera, con o sin su responsabilidad en instituciones de crédito, de seguros y de fianzas. La Secretaría de Hacienda y Crédito Público podrá autorizar excepciones a esta disposición, oyendo a la Comisión Nacional Bancaria y al Banco de México.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 51-A.
+
+Las organizaciones auxiliares del crédito y las casas de cambio, deberán presentar la información y documentación que en el ámbito de sus respectivas competencias, le soliciten la Secretaría de Hacienda y Crédito Público, el Banco de México y la Comisión Nacional Bancaria, dentro de los plazos que las mismas establezcan.
 
 ## TITULO TERCERO. De la Contabilidad, Inspección y Vigilancia
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. De la Inspección y Vigilancia
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 52.
 
@@ -1086,17 +1260,29 @@ Las organizaciones auxiliares del crédito podrán microfilmar todos aquellos li
 
 Los negativos originales de cámara obtenidos de acuerdo a lo señalado por el párrafo anterior, tendrán en juicio el mismo valor probatorio que los libros, registros y documentos microfilmados.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 53.
 
-Las organizaciones auxiliares del crédito deberán practicar sus estados financieros al día último de cada mes y publicarlos dentro del mes siguiente a su fecha. La Comisión Nacional Bancaria, queda facultada para establecer la forma y términos en que las organizaciones auxiliares del crédito deberán presentar y publicar sus estados financieros mensuales y anuales; éstos deberán ser presentados junto con la información que deberán remitirle al efecto, dentro de los 30 días siguientes al cierre correspondiente. La publicación de tales estados financieros será bajo la estricta responsabilidad de los administradores y comisarios de la organización que hayan sancionado y dictaminado la autenticidad de los datos contenidos en dichos estados contables, quienes deberán cuidar que éstos revelen efectivamente la verdadera situación financiera de la sociedad y quedarán sujetos a las sanciones correspondientes en el caso de que las publicaciones no se ajusten a esa situación.
+Las organizaciones auxiliares del crédito deberán practicar sus estados financieros al día último de cada mes. La Comisión Nacional Bancaria mediante disposiciones de carácter general, queda facultada para establecer la forma y términos en que las organizaciones auxiliares del crédito deberán presentar y publicar sus estados financieros mensuales y anuales; éstos deberán ser presentados junto con la información que remitirán al efecto, dentro de los treinta días siguientes al cierre correspondiente. La formulación y publicación de tales estados financieros será bajo la estricta responsabilidad de los administradores y comisarios de la organización que hayan sancionado y dictaminado la autenticidad de los datos contenidos en dichos estados contables, quienes deberán cuidar que éstos revelen efectivamente la verdadera situación financiera de la sociedad y quedarán sujetos a las sanciones correspondientes en el caso de que las publicaciones no se ajusten a esa situación.
 
 Si la Comisión Nacional Bancaria, al revisar los estados financieros ordenara modificaciones o correcciones que, a su juicio, fueren fundamentales para ameritar su publicación, podrá acordar que se publiquen con las modificaciones pertinentes y, en su caso, esta publicación se hará dentro de los 15 días siguientes a la notificación del acuerdo respectivo. En ningún otro caso podrán efectuarse segundas publicaciones. La revisión de la citada Comisión, no tendrá efectos de carácter fiscal.
 
-Los auditores externos que dictaminen los estados financieros anuales de las organizaciones auxiliares del crédito, deberán reunir los requisitos que fije la Comisión Nacional Bancaria y suministrarle a ésta los informes y demás elementos de juicio, en los que sustenten sus dictámenes y conclusiones.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
-Las organizaciones auxiliares del crédito no podrán pagar los dividendos decretados por sus asambleas generales de accionistas, antes de dar por concluida la revisión de los estados financieros por la Comisión Nacional Bancaria. Sin embargo, dicho organismo, discrecionalmente, podrá autorizar el reparto parcial de dichos dividendos, en vista de la información y documentación que se le presenten.
+Los estados financieros anuales de las organizaciones auxiliares del crédito deberán estar dictaminados por un auditor externo independiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+La Comisión Nacional Bancaria mediante disposiciones de carácter general, queda facultada para establecer las características y requisitos que deberán cumplir los dictámenes de los auditores externos a los estados financieros de las organizaciones auxiliares del crédito.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+Los auditores externos que dictaminen los estados financieros anuales de las organizaciones auxiliares del crédito, deberán reunir los requisitos que establezca la Comisión Nacional Bancaria a través de disposiciones de carácter general y suministrarle a ésta los informes y demás elementos de juicio, en los que sustenten sus dictámenes y conclusiones. Si durante la práctica o como resultado de la auditoría encontraren irregularidades que afecten la estabilidad o solvencia de las citadas sociedades, los auditores están obligados a comunicar dicha situación a la citada Comisión.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+Las organizaciones auxiliares del crédito no podrán pagar los dividendos decretados por sus asambleas generales de accionistas, antes de dar por concluida la revisión de los estados financieros por la Comisión Nacional Bancaria. Sin embargo, dicho organismo, discrecionalmente, podrá autorizar el reparto parcial de dichos dividendos, en vista de la información y documentación que se le presenten. Lo dispuesto en este párrafo no será aplicable a las sociedades de ahorro y préstamo.
 
 Los repartos efectuados en contravención a lo dispuesto en el párrafo anterior, deberán ser restituidos a la sociedad. Serán solidariamente responsables a este respecto, los accionistas que los hayan percibido y los administradores y funcionarios que los hayan pagado.
 
@@ -1140,13 +1326,15 @@ Sin perjuicio de las normas establecidas en este artículo, la Comisión Naciona
 
 Cuando de los estados de situación mensual que las organizaciones están obligadas a presentar a la Comisión Nacional Bancaria, resulte que aquéllas no guardan las proporciones prescritas en esta Ley, no incurrirán en responsabilidad, cuando la divergencia no exceda de un 4% de dichas proporciones, y siempre que acrediten, además, con sus estados y apuntes de contabilidad, a satisfacción de la propia Comisión, que la infracción tiene carácter excepcional.
 
-### CAPITULO II. De la Revocación y Liquidación
+### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 56.
 
-La inspección y vigilancia le las organizaciones y actividades auxiliares el crédito queda confiada a la Comisión Nacional Bancaria, la que tendrá en lo que no se oponga a esta Ley, respecto de dichas organizaciones y actividades auxiliares, todas las facultades que en materia de inspección y vigilancia de las instituciones de crédito le confiere la Ley Reglamentaria del Servicio Público de Banca y Crédito.
+La inspección y vigilancia de las organizaciones de actividades auxiliares del crédito queda confiada a la Comisión Nacional Bancaria, la que tendrá en lo que no se oponga a esta Ley, respecto de dichas organizaciones y actividades auxiliares del crédito, todas las facultades que en materia de inspección y vigilancia le confiere la Ley de Instituciones de Crédito.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 Las organizaciones auxiliares del crédito deberán rendir a la Secretaría de Hacienda y rédito Público, y a la Comisión Nacional Bancaria, en la forma y términos que al efecto establezcan; los informes y pruebas que sobre su organización, operaciones, contabilidad, inversiones o patrimonio les soliciten para fines de regulación, supervisión, control, inspección, vigilancia, estadística y demás funciones que conforme a esta Ley u otras disposiciones legales y administrativas, les corresponda ejercer.
 
@@ -1198,11 +1386,11 @@ Desde el momento de la intervención quedarán supeditadas al interventor-gerent
 
 Cuando la Comisión Nacional Bancaria acuerde levantar la intervención con el carácter de gerencia, lo comunicará así al encargado del Registro Público de Comercio que haya hecho el asiento a que se refiere el artículo 60 de esta ley, a efecto de que se proceda a su cancelación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 63.
 
-Cuando la Comisión Nacional Bancaria advierta que el estado patrimonial o las operaciones de una organización auxiliar del crédito afecten su capital pagado, lo hará del conocimiento de la Secretaría de Hacienda y Crédito Público, la cual concederá a la sociedad un plazo de quince días a partir de la fecha de la notificación, para que ésta exponga lo que a su derecho convenga. Si la propia Secretaría juzga que ha quedado comprobado que el estado patrimonial o las operaciones de la organización auxiliar, afectan su capital pagado, fijará un plazo que no será menor de sesenta días para que integre el capital en la cantidad necesaria para mantener la operación de la sociedad dentro de las proporciones legales, notificándola para este efecto.
+Cuando la Comisión Nacional Bancaria advierta que el estado patrimonial o las operaciones de una organización auxiliar del crédito o casa de cambio afecten su capital pagado, podrá fijar un plazo de hasta sesenta días naturales para que integre el capital en la cantidad necesaria para mantener la operación de la sociedad dentro de las proporciones legales, notificándola para este efecto.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1210,29 +1398,39 @@ Si transcurrido el lapso a que se refiere el párrafo anterior no se hubiere int
 
 Los tenedores de las acciones que hayan pasado al dominio de la Nación, solamente tendrán derecho a recibir de la Secretaría de Hacienda y Crédito Público contra la entrega de los títulos, el valor que se determine en el momento en que pasaron al dominio de la Nación. Si la pérdida del capital pagado hubiere sido total, dichos títulos carecerán de valor y derechos algunos y sus tenedores estarán obligados a entregarlos a la citada Secretaría.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 64.
 
-Cuando la Comisión Nacional Bancaria presuma que una persona física o moral está realizando habitualmente operaciones reservadas a las organizaciones auxiliares del crédito, o la actividad a que se refiere el artículo 4o. de esta Ley, sin gozar para ello de la autorización requerida por la misma, podrá nombrar un inspector y los auxiliares necesarios que revisen la contabilidad y demás documentación de la negociación, empresa o establecimiento de la persona física o moral, a fin de verificar si efectivamente está celebrando las operaciones mencionadas en violación a lo dispuesto por esta Ley. En este caso la Comisión Nacional Bancaria intervendrá administrativamente la negociación, empresa o establecimiento de la persona física o moral de que se trate, hasta que las operaciones ilegales queden liquidadas. En las referidas intervenciones serán aplicables, en lo conducente, los preceptos de ésta u otras leyes, que confieran facultades a la Comisión.
+Cuando la Comisión Nacional Bancaria presuma que una persona física o moral está realizando operaciones de las reservadas a las organizaciones auxiliares del crédito o a las casas de cambio, sin contar con la autorización de la Secretaría de Hacienda y Crédito Público, podrá nombrar un inspector y los auxiliares necesarios para que revisen la contabilidad y demás documentación de la negociación, empresa o establecimiento de la persona física o moral de que se trate, a fin de verificar si efectivamente está celebrando las operaciones mencionadas en violación a lo dispuesto por esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+De encontrarse violación, la Comisión Nacional Bancaria intervendrá administrativamente la negociación, empresa o establecimiento de la persona física o moral de que se trate, hasta que las operaciones ilegales queden liquidadas, sin perjuicio de las clausuras administrativas de dichas negociaciones, empresas o establecimientos. En las referidas intervenciones serán aplicables, en lo conducente, los preceptos de ésta u otras leyes que confieran facultades a la Comisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+La propia Comisión llevará a cabo las clausuras administrativas a que se refiere este artículo, quedando facultada para remover los signos externos y toda ostentación pública prohibidos, sin perjuicio de otras sanciones previstas por esta Ley.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 Los procedimientos de inspección e intervención a que se refiere el párrafo anterior son de interés público. Los afectados podrán ocurrir en defensa de sus intereses ante la Comisión Nacional Bancaria, dentro de los quince días hábiles siguientes a la fecha en que tengan conocimiento del acto o actos que reclamen, sin que ello suspenda tales procedimientos. En caso de que se ofrezcan pruebas, éstas se desahogarán en el término de diez días hábiles.
 
 ## TITULO CUARTO. De las Facultades de las Autoridades
 
-### CAPITULO UNICO. De la Compra Venta Habitual y Profesional de Divisas
+### CAPITULO II. De la Revocación y Liquidación
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 65.
 
-Las organizaciones auxiliares del crédito requerirán la autorización de la Secretaría de Hacienda y Crédito Público, para el establecimiento, cambio de ubicación y clausura de cualquier clase de oficinas, ya sea en el país o en el extranjero. Tratándose de uniones de crédito y para el caso de arrendamiento o habilitación de bodegas por parte de los almacenes generales de depósito, la Comisión Nacional Bancaria estará facultada para otorgarla, en su caso.
+Las organizaciones auxiliares del crédito y casas de cambio, deberán dar aviso a la Secretaría de Hacienda y Crédito Público, a la Comisión Nacional Bancaria y al Banco de México, por lo menos con treinta días naturales de anticipación a la apertura, cambio de ubicación y clausura de cualquier clase de oficinas en el país, excepto cuando se trate del cambio de domicilio social, del cual se requerirá autorización previa de la Secretaría de Hacienda y Crédito Público. Asimismo los almacenes generales de depósito deberán dar aviso en los mismos términos de la adquisición o arrendamiento de bodegas en territorio nacional. Tratándose de oficinas en el extranjero, se requerirá de la previa autorización de la citada Secretaría en cualquiera de los casos mencionados, al igual que para la adquisición o arrendamiento de bodegas en el extranjero por parte de los almacenes generales de depósito.
 
-Para proporcionar servicio dentro del territorio nacional, dichas organizaciones podrán establecer, además de sus oficinas principales, sucursales. Estas últimas, sujetarán sus operaciones y funcionamiento a las reglas de carácter general que para el efecto expida la Secretaría de Hacienda y Crédito Público.
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+###### ARTICULO 65-A.
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México, otorgará o negará discrecionalmente las autorizaciones a que se refiere este artículo. No será necesaria la autorización a que alude este párrafo, cuando se trate del cambio de ubicación de cualquier clase de oficinas o del establecimiento en el país de oficinas distintas a las sucursales.
+La Comisión Nacional Bancaria, a efecto de hacer cumplir eficazmente sus resoluciones de clausura, intervención administrativa, intervención gerencial y demás que se contemplan en esta Ley, podrá solicitar cuando lo considere pertinente, el auxilio de la fuerza pública.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1262,6 +1460,14 @@ Las organizaciones auxiliares del crédito requerirán de autorización previa d
 
 La Secretaría de Hacienda y Crédito Público otorgará o negará discrecionalmente las autorizaciones a que se refiere este artículo, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México.
 
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 69-A.
+
+Las multas que impongan las autoridades financieras en cumplimiento de las facultades que le confieran éstas y otras leyes financieras, se aplicarán a la creación de fondos para el otorgamiento de estímulos y recompensas por productividad y cumplimiento del personal de la Secretaría de Hacienda y Crédito Público, que de conformidad con el Reglamento Interior de la propia Dependencia, ejerzan funciones de regulación, control y supervisión de los intermediarios y personas a que se refieren las citadas leyes.
+
+Sólo ingresará a los mencionados fondos, el importe de las multas efectivamente pagadas y que hubieren quedado firmes. La distribución de los fondos se hará en los términos que señale el Reglamento que al efecto expida la Secretaría de Hacienda y Crédito Público.
+
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 70.
@@ -1270,11 +1476,11 @@ Las organizaciones auxiliares del crédito sólo podrán cerrar sus puertas y su
 
 Los días señalados en los términos anteriores, se considerarán inhábiles para los efectos de las operaciones y actividades de todo tipo a que se refiere esta Ley.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 71.
 
-Para cualquier propaganda o publicidad de organizaciones auxiliares del crédito, que se pretenda efectuar en territorio nacional o en el extranjero, se requerirá la previa aprobación de la Comisión Nacional Bancaria.
+La Comisión Nacional Bancaria podrá ordenar la suspensión de la publicidad que realicen las organizaciones auxiliares del crédito y casas de cambio, cuando a su juicio ésta implique inexactitud, obscuridad o competencia desleal entre las mismas, o que por cualquier otra circunstancia pueda inducir a error, respecto de sus operaciones y servicios.
 
 ###### ARTICULO 72.
 
@@ -1290,13 +1496,27 @@ En el caso de las organizaciones auxiliares nacionales del crédito, sin perjuic
 
 La Comisión Nacional Bancaria mediante reglas de carácter general, determinará la documentación e información que las organizaciones auxiliares del crédito deberán recabar para el otorgamiento y durante la vigencia de los contratos de arrendamiento financiero, de factoraje financiero, de crédito o préstamo de cualquier naturaleza, con o sin garantía real, así como los requisitos que dicha documentación deba reunir y la periodicidad con que deberá obtenerse.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 74.
 
-Las organizaciones auxiliares del crédito realizarán su objeto social por medio de uno o más funcionarios que se designen especialmente al efecto y de cuyos actos responderá directa e ilimitadamente la organización, sin perjuicio de las responsabilidades civiles o penales en que ellos incurran personalmente.
+Las organizaciones auxiliares del crédito y las casas de cambio realizarán su objeto social por medio de uno o más funcionarios que se designen especialmente al efecto y de cuyos actos responderá directa e ilimitadamente la organización o casa de cambio, sin perjuicio de las responsabilidades civiles o penales en que ellos incurran personalmente.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+La Comisión Nacional Bancaria, con acuerdo de su Junta de Gobierno, oyendo previamente al interesado y a la organización auxiliar del crédito o casa de cambio, podrá en todo tiempo determinar que se proceda a la remoción o suspensión de los miembros del consejo de administración, directores generales, comisarios, directores, gerentes y funcionarios que puedan obligar con su firma a la organización auxiliar del crédito o casa de cambio; cuando considere que tales personas no cuentan con la suficiente calidad técnica o moral para el desempeño de sus funciones, o no reúnan los requisitos al efecto establecidos; o incurran de manera grave o reiterada en infracciones a la presente Ley o a las disposiciones de carácter general que de ella deriven. En los dos últimos supuestos, la propia Comisión podrá además, inhabilitar a las citadas personas para desempeñar un empleo, cargo o comisión dentro del sistema financiero mexicano, por un periodo de seis meses a diez años, sin perjuicio de las sanciones que conforme a éste u otros ordenamientos legales fueren aplicables.
 
-La Comisión Nacional Bancaria podrá, en todo tiempo, acordar que se proceda a la remoción o suspensión de los miembros del consejo de administración, comisarios, directores y gerentes, y de los funcionarios que puedan obligar con su firma a la organización, cuando considere que tales designaciones no corresponden a personas con la suficiente calidad técnica o moral para la adecuada administración y vigilancia de las organizaciones, oyendo previamente al interesado y al representante de la sociedad.
+Para imponer la inhabilitación la Comisión Nacional Bancaria deberá tomar en cuenta:
+
+I. La gravedad de la infracción y la conveniencia de evitar estas prácticas;
+
+II. El nivel jerárquico, los antecedentes, la antigüedad y las condiciones del infractor;
+
+III. Las condiciones exteriores y las medidas de ejecución;
+
+IV. El monto del beneficio, daño o perjuicio económicos derivados de la infracción, y
+
+V. La reincidencia.
+
+Las resoluciones a que se refiere el segundo párrafo, podrán ser recurridas ante la Secretaría de Hacienda y Crédito Público dentro de los quince días siguientes a la fecha en que se hubieren notificado. La propia Secretaría podrá revocar, modificar o confirmar la resolución recurrida, previa audiencia de las partes.
 
 ###### ARTICULO 75.
 
@@ -1324,9 +1544,9 @@ La Secretaría de Hacienda y Crédito Público fijará, en su caso, los cargos q
 
 La Comisión Nacional Bancaria podrá proveer lo necesario para que las organizaciones auxiliares del crédito y las casas de cambio cumplan debida y eficazmente los compromisos contraídos con sus usuarios.
 
-### CAPITULO I. De las Infracciones Administrativas
+### CAPITULO UNICO. De la Compra Venta Habitual y Profesional de Divisas
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 78.
 
@@ -1360,6 +1580,10 @@ IX. Si se disuelve, quiebra o entra en estado de liquidación, salvo que el proc
 
 X. En cualquier otro establecido por la Ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+En lo referente a las sociedades de ahorro y préstamo, la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria podrá revocar la autorización correspondiente cuando se ubiquen en cualquiera de los supuestos señalados en las fracciones I en lo conducente y V a X del presente artículo, o cuando las mismas no operen conforme a lo dispuesto en el Capítulo II Bis, del Título Segundo de esta Ley, así como cuando el número de socios llegare a ser inferior al fijado como mínimo por la propia Secretaría. Para los efectos de este párrafo deberá escucharse previamente a las sociedades de ahorro y préstamo.
+
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 Tratándose de uniones de crédito, la Comisión Nacional Bancaria podrá revocar la autorización correspondiente cuando esas organizaciones auxiliares del crédito se ubiquen en cualquiera de los supuestos señalados en las fracciones anteriores de este artículo, o cuando las mismas no operen conforme a lo dispuesto en el Capítulo III, del Título Segundo de esta Ley; así como cuando el número de socios llegare a ser inferior al fijado como mínimo por la propia Comisión, de acuerdo con la fracción I del artículo 41 de esta Ley. Para los efectos de este párrafo la señalada Comisión deberá escuchar previamente a las uniones de crédito afectadas.
@@ -1390,19 +1614,21 @@ Mientras las organizaciones auxiliares del crédito no sean puestas en liquidaci
 
 ## TITULO QUINTO. De las Actividades Auxiliares del Crédito
 
-### CAPITULO II. De los Delitos
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
-
-###### ARTICULO 81.
-
-Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, para realizar en forma habitual y profesional operaciones de compra, venta y cambio de divisas con el público dentro del territorio nacional.
+### CAPITULO I. De las Infracciones Administrativas
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-Estas autorizaciones serán otorgadas o denegadas discrecionalmente por la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria.
+###### ARTICULO 81.
 
-Dichas autorizaciones serán por su propia naturaleza intransmisibles.
+Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, para realizar en forma habitual y profesional operaciones de compra, venta y cambio de divisas con el público dentro del territorio nacional, excepción hecha de los casos previstos en este artículo y en el artículo 81-A.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+Estas autorizaciones serán otorgadas o denegadas discrecionalmente por la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México, y de la Comisión Nacional Bancaria y serán por su propia naturaleza intransmisibles.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+Dichas autorizaciones así como sus modificaciones se publicarán en el Diario Oficial de la Federación y en un periódico de amplia circulación en el domicilio de la casa de cambio de que se trate.
 
 Las instituciones de crédito y las casas de bolsa no requerirán de la autorización citada, debiendo sujetarse en sus operaciones con divisas a las disposiciones legales aplicables.
 
@@ -1410,19 +1636,43 @@ Las instituciones de crédito y las casas de bolsa no requerirán de la autoriza
 
 Para los efectos de la presente Ley, no se consideran actividades habituales y profesionales, las operaciones con divisas conexas a la prestación de servicios, ni la captación de divisas por venta de bienes, que realicen establecimientos ubicados en las franjas fronterizas y zonas libres del país, y demás empresas que por sus actividades normales celebren operaciones con extranjeros.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(DEROGADOS SEXTO Y SEPTIMO PARRAFOS, D.O.F. 27 DICIEMBRE DE 1991)</small>
 
-Cuando la Comisión Nacional Bancaria presuma que una persona física o moral está realizando operaciones de las reservadas para las casas de cambio, sin contar con la autorización a que se refiere este artículo, podrá nombrar un inspector y los auxiliares necesarios a fin de comprobar dicha irregularidad. En este caso la Comisión ordenará la intervención administrativa de la negociación, empresa o establecimiento de la persona de que se trate, hasta que las operaciones ilegales sean liquidadas, sin perjuicio de la clausura administrativa de los locales de dichos establecimientos.
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+###### ARTICULO 81-A.
 
-La propia Comisión llevará a cabo las clausuras administrativas a que se refiere este artículo, quedando facultada para remover los signos externos y toda ostentación pública prohibidos.
+No se requerirá la autorización a que se refiere el artículo anterior cuando única y exclusivamente se realicen con divisas las operaciones siguientes:
+
+I. Compra y venta de billetes así como piezas acuñadas en metales comunes, con curso legal en el país de emisión;
+
+II. Compra y venta de cheques de viajero denominados en moneda extranjera;
+
+III. Compra y venta de piezas metálicas acuñadas en forma de moneda, y
+
+IV. Compra de documentos a la vista denominados y pagaderos en moneda extranjera, a cargo de entidades financieras hasta por un monto equivalente no superior a tres mil dólares de los Estados Unidos de América por documento. Estos documentos sólo podrán venderlos a instituciones de crédito y casas de cambio.
+
+En la celebración de las operaciones anteriores, el contravalor deberá entregarse en el mismo acto en que se lleven a cabo y únicamente podrán liquidarse mediante la entrega de efectivo, cheques de viajero o cheques denominados en moneda nacional.
 
 ###### ARTICULO 82.
 
 Las sociedades anónimas a quienes se otorgue la autorización a que se refiere el artículo 81 de esta Ley, se denominarán casas de cambio y deberán organizarse con arreglo a la Ley General de Sociedades Mercantiles y ajustarse a los siguientes requisitos:
 
-I. Que su objeto social sea exclusivamente la realización de compra, venta y cambio de divisas, billetes y piezas metálicas nacionales o extranjeras, que no tengan curso legal en el país de emisión; piezas de plata conocidas como onzas troy y piezas metálicas conmemorativas acuñadas en forma de moneda; así como otras operaciones afines a las antes señaladas que al efecto autorice la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general, oyendo la opinión del Banco de México;
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+I. Que su objeto social sea exclusivamente la realización, en forma habitual y profesional, de las operaciones siguientes:
+
+a) Compra o cobranzas de documentos a la vista denominados y pagaderos en moneda extranjera, a cargo de entidades financieras, sin límite por documento;
+
+b) Venta de documentos a la vista y pagaderos en moneda extranjera que las casas de cambio expidan a cargo de instituciones de crédito del país, sucursales y agencias en el exterior de estas últimas, o bancos del exterior;
+
+c) Compra y venta de divisas mediante transferencias de fondos sobre cuentas bancarias;
+
+d) Las señaladas en el artículo 81-A de esta Ley, y
+
+e) Las demás que autorice el Banco de México, mediante disposiciones de carácter general.
+
+Para efectos de lo previsto en este capítulo, por divisas se entenderán las mencionadas en el primer párrafo del artículo 13 de la Ley Orgánica del Banco de México.
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -1432,13 +1682,27 @@ a) En la realización de su objeto, la sociedad deberá ajustarse a lo previsto 
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-b) Las acciones representativas del capital de la sociedad sólo podrán transmitirse previa aprobación de la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria;
+b). Las acciones representativas del capital de la sociedad sólo podrán transmitirse previa aprobación de la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria;
 
 III. Que estén constituidas como sociedades mexicanas con cláusula de exclusión de extranjeros; y
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
 IV. Que cuenten con el capital mínimo pagado que señale periódicamente, mediante disposiciones de carácter general, la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria. En los estatutos sociales deberá señalarse que el capital citado se ajustará en los términos y condiciones que se indiquen en dichas disposiciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+Ninguna persona podrá ser propietaria de más de 10% de las acciones representativas del capital pagado de una casa de cambio, ni pertenecer a dos o más sociedades de este tipo. Se exceptúa de lo dispuesto en este párrafo a:
+
+1. El Gobierno Federal;
+
+2. Instituciones de crédito y casas de bolsa, cuyas adquisiciones se realicen en términos de la legislación aplicable;
+
+3. Las sociedades controladoras a que se refiere la Ley para Regular las Agrupaciones Financieras;
+
+4. Los accionistas de casas de cambio que adquieran acciones conforme a lo previsto en programas aprobados por la Secretaría de Hacienda y Crédito Público, conducentes a la fusión de dichas sociedades; a quienes la mencionada Secretaría podrá otorgarles excepcionalmente la autorización relativa, por un plazo no mayor de dos años, y
+
+5. Las casas de cambio cuando adquieran acciones conforme a lo previsto en programas aprobados por la Secretaría de Hacienda y Crédito Público conducentes a la fusión de las mismas.
 
 ###### ARTICULO 83.
 
@@ -1452,9 +1716,13 @@ I. Proyecto de estatutos sociales de la sociedad anónima correspondiente, relac
 
 II. Los informes señalados en la fracción III del artículo 84 de esta Ley, con objeto de evaluar la capacidad técnica y la solvencia moral de las personas en quienes vaya a recaer la administración de la sociedad; y
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
-III. Billete de depósito en moneda nacional, igual al diez por ciento del capital mínimo exigido para operar según señale la Secretaría de Hacienda y Crédito Público de acuerdo con esta Ley, expedido por institución de crédito que establezca la misma a favor de la propia Secretaría. Dicho depósito será reintegrado cuando se demuestre haber constituído la sociedad autorizada, cuando se niegue la autorización solicitada o cuando exista desistimiento por parte de los interesados, pero se aplicará al fisco federal en caso de que no se constituya la sociedad dentro de los seis meses siguientes a la fecha de autorización.
+III. Un comprobante de depósito en moneda nacional constituido en una institución de crédito o en valores gubernamentales por su valor de mercado a favor de la Tesorería de la Federación, por una cantidad equivalente al 10% del capital mínimo exigido para su constitución de acuerdo con esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+En los casos de revocación a que se refiere la fracción I del artículo 87 de esta Ley, se hará efectiva la garantía con el importe original del depósito. En los supuestos de que se niegue la autorización, se desista el interesado o se inicien operaciones en los términos previstos en esta Ley, se devolverá al solicitante el principal y accesorios del depósito.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -1472,23 +1740,29 @@ III. Deberán obtener la previa autorización de la Secretaría de Hacienda y Cr
 
 Para efectos de lo previsto en el párrafo anterior, deberán informar a la Secretaría de Hacienda y Crédito Público el nombre, nacionalidad y antecedentes sobre la capacidad técnica y solvencia moral de los administradores.
 
-Previamente al inicio de sus funciones, los administradores deberán garantizar su manejo mediante fianza expedida por institución concesionada, con las características que, mediante reglas de carácter general, determine el Banco de México;
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
-IV. Deberán obtener la previa aprobación de la Secretaría de Hacienda y Crédito Público, para su escritura constitutiva y cualquier modificación a la misma, la transmisión de acciones, el establecimiento y cambio de ubicación del domicilio, así como el establecimiento, apertura, cambio de ubicación o clausura de sucursales de atención al público y del local donde se realicen operaciones. La Secretaría citada resolverá las solicitudes que le presenten las casas de cambio, previa opinión del Banco de México y de la Comisión Nacional Bancaria.
+IV. Deberán obtener la previa aprobación de la Secretaría de Hacienda y Crédito Público, para su escritura constitutiva y cualquier modificación a la misma, así como para la transmisión de acciones.
 
-Una vez aprobada la escritura constitutiva o cualquier modificación a la misma, se deberá de inscribir en el Registro Público de la Propiedad y del Comercio, y proporcionar a la citada Secretaría los datos correspondientes dentro de los treinta días siguientes a la referida aprobación;
+Una vez aprobada la escritura constitutiva o cualquier modificación a la misma, se deberá de inscribir en el Registro Público de la Propiedad y del Comercio, y proporcionar a la Secretaría los datos correspondientes dentro de los treinta días siguientes al otorgamiento del registro;
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
-V. Sus operaciones con divisas, oro y plata, deberán ajustarse a las disposiciones de carácter general que al efecto establezca el Banco de México.
+V. Sus operaciones con divisas y metales preciosos, deberán ajustarse a las disposiciones de carácter general que al efecto establezca el Banco de México, en las que éste podrá señalar los límites de las operaciones que las casas de cambio puedan realizar en función de su capital contable.
 
-A Petición del Banco de México, las casas de cambio estarán obligadas a darle a conocer, sus posiciones de divisa, incluyendo oro y plata; y a transferirle sus activos en esos efectos, que tengan en exceso de sus obligaciones en los mismos. La transferencia se hará al precio a que se hayan cotizado en el mercado las divisas, en la fecha en que el Banco de México dicte el acuerdo respectivo; y
+A petición del Banco de México, las casas de cambio estarán obligadas a darle a conocer sus posiciones de divisas, incluyendo metales preciosos y a transferirle sus activos en esos efectos, que tengan en exceso de sus obligaciones en los mismos. La transferencia se hará al precio a que se hayan cotizado en el mercado las divisas, en la fecha en que el Banco de México dicte el acuerdo respectivo, y
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
-VI. Proporcionarán a la Comisión Nacional Bancaria sus estados de contabilidad, información financiera y toda la relacionada con su giro, en la forma y términos que la propia Comisión señale mediante reglas de carácter general, y les será aplicable el artículo 52 de esta Ley.
+VI. Proporcionarán a la Comisión Nacional Bancaria sus estados de contabilidad, información financiera y todo lo relacionado con su giro, en la forma y términos que la propia Comisión señale mediante reglas de carácter general, y les serán aplicables los artículos 52 y 53 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 84-A.
+
+El importe del capital pagado y reservas de capital de las casas de cambio, deberá ser invertido en los términos y condiciones que mediante reglas de carácter general determine la Secretaría de Hacienda y Crédito Público, oyendo previamente la opinión del Banco de México y la Comisión Nacional Bancaria.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1500,7 +1774,9 @@ Las casas de cambio estarán obligadas a recibir las visitas de inspección de l
 
 Queda prohibida cualquier propaganda en territorio nacional, relacionada con la compra, venta y cambio de divisas de manera habitual y profesional, que se realice por personas o sociedades que no cuenten con la autorización correspondiente, conforme a la presente Ley o a las demás disposiciones aplicables.
 
-Las casas de cambio deberán incluir en toda clase de propaganda o publicidad, la fecha y número de oficio en que conste la autorización que en los términos de esta Ley les fue otorgada para operar como tales.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+Las casas de cambio deberán mantener a la vista del público, en los locales donde celebren operaciones, copia del oficio de autorización que la Secretaría de Hacienda y Crédito Público les haya otorgado e incluir en toda clase de publicidad y propaganda, la fecha y número del mismo.
 
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1518,7 +1794,9 @@ La Secretaría de Hacienda y Crédito Público, oyendo al Banco de México y a l
 
 I. Si la sociedad respectiva no presenta el Testimonio de la escritura constitutiva a que se refiere el artículo 84, fracción IV de esta Ley para su aprobación dentro del término de cuatro meses de otorgada la autorización, o si no inicia sus operaciones dentro del plazo de dos meses a partir de la aprobación de la escritura o si al otorgarse ésta no estuviese suscrito y pagado el capital que determine la Secretaría de Hacienda y Crédito Público al otorgar la autorización;
 
-II. Si no mantiene el capital mínimo pagado previsto en esta Ley;
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+II. Si no mantiene el capital mínimo pagado previsto en esta Ley o bien, si su capital contable llegare a ser menor que su capital mínimo requerido y no lo restituye en el plazo que al efecto fije la Comisión Nacional Bancaria, conforme a lo dispuesto en el artículo 63 de esta Ley, o si suspende, o abandona sus actividades sin contar con la autorización de la Secretaría de Hacienda y Crédito Público;
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -1540,9 +1818,39 @@ VII. Si sus administradores han intervenido en operaciones que infrinjan las dis
 
 VIII. En cualquier otro establecido por la Ley.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
-La declaración de revocación se inscribirá en el Registro Público de la Propiedad y del Comercio, en la misma sección en la que conste la constitución de la sociedad, previa orden de la Secretaría de Hacienda y Crédito Público, incapacitará a la sociedad para realizar sus operaciones a partir de la fecha en que se notifique la revocación, y pondrá en estado de liquidación a la sociedad. La liquidación se practicará de conformidad con lo establecido por la Ley General de Sociedades Mercantiles o, para el caso de quiebra, por la Ley de Quiebras y de Suspensión de Pagos.
+La declaración de revocación se inscribirá en el Registro Público de la Propiedad y del Comercio, previa orden de la Secretaría de Hacienda y Crédito Público, y se publicará en el Diario Oficial de la Federación, así como en un periódico de amplia circulación en el domicilio de la sociedad de que se trate; incapacitará a la sociedad para realizar sus operaciones a partir de la fecha en que se notifique la revocación, y pondrá en estado de disolución y liquidación a la sociedad. La disolución y liquidación se practicará de conformidad con lo establecido por la Ley General de Sociedades Mercantiles o, para el caso de quiebra por la Ley de Quiebras y Suspensión de Pagos.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 87-A.
+
+A las casas de cambio les está prohibido:
+
+I. Operar sobre sus propias acciones;
+
+II. Emitir acciones preferentes o de voto limitado;
+
+III. Recibir depósitos bancarios de dinero;
+
+IV. Otorgar fianzas, cauciones o avales;
+
+V. Adquirir bienes inmuebles y mobiliario o equipo no destinados a las oficinas o actividades propias de su objeto social;
+
+VI. Realizar operaciones que no les estén expresamente autorizadas, y
+
+VII. Celebrar operaciones en virtud de las cuales resulten o puedan resultar deudores de la casa de cambio, sus funcionarios y empleados, salvo que correspondan a prestaciones de carácter laboral otorgadas de manera general; los comisarios propietarios y suplentes, estén o no en funciones; los auditores externos de la casa de cambio; o los ascendientes o descendientes en primer grado o cónyuges de las personas anteriores.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+### CAPITULO II. De los Delitos
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 87-B.
+
+Además de las disposiciones previstas en este Capítulo, también les será aplicable a las casas de cambio lo dispuesto en los artículos 58, 59, 60, 61 y 62 de esta Ley. Asimismo, a los accionistas de éstas, les será aplicable lo señalado en el artículo 91 de este Ordenamiento.
 
 ## TITULO SEXTO. De las Infracciones y Delitos
 
@@ -1606,13 +1914,11 @@ Para proceder penalmente por los delitos previstos en los artículos 96, 97, 98,
 
 Las multas previstas en los artículos 96, 97 y 98 de esta Ley, se impondrán a razón de días de salario. Para calcular su importe, se tendrá como base el salario mínimo general vigente en el Distrito Federal al momento de realizarse la conducta sancionada.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 96.
 
-Se impondrá pena de prisión de tres meses a dos años y multa de treinta a trescientos días de salario a los directores generales o gerentes generales, miembros del consejo de administración, comisarios y auditores externos de las organizaciones auxiliares del crédito que incurran en violación de cualquiera de las prohibiciones a que se refieren los artículos 23, fracción VII, 38, fracción III, 45, fracción XII y 45-T, fracción III de esta Ley.
-
-Las penas previstas en este artículo se aplicarán también a quienes a sabiendas hayan celebrado el negocio con la organización auxiliar del crédito, si se trata de personas físicas, o a quienes hayan representado a las sociedades deudoras.
+Se impondrá pena de prisión de tres meses a dos años y multa de treinta a trescientos días de salario a los directores generales o gerentes generales, miembros del consejo de administración, comisarios y auditores externos de las organizaciones auxiliares del crédito o de las casas de cambio que en el ejercicio de sus funciones, incurran en violación de cualquiera de las prohibiciones a que se refieren los artículos 23, fracción VII, 38, fracción III, 45, fracción XII, 45-T, fracción III y 87-A, fracción VII de esta Ley.
 
 ###### ARTICULO 97.
 
@@ -1690,15 +1996,21 @@ Serán sancionadas con pena de prisión de uno a tres años, las personas que ll
 
 ## TITULO SEPTIMO. De la Protección de los Intereses del Público
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 102.
 
-En caso de reclamación contra una organización auxiliar del crédito con motivo de las operaciones y servicios que presten al público, o a sus socios en el caso de las uniones de crédito, los reclamantes podrán, a su elección, presentarla ante la Comisión Nacional Bancaria o hacer valer sus derechos ante los tribunales competentes de la Federación o del orden común.
+En caso de reclamación contra una organización auxiliar del crédito o una casa de cambio con motivo de las operaciones y servicios que presten al público, o a sus socios en el caso de las sociedades de ahorro y préstamo y de las uniones de crédito, los reclamantes podrán, a su elección, presentarla ante la Comisión Nacional Bancaria o hacer valer sus derechos ante los Tribunales competentes de la Federación o del orden común.
 
-Las organizaciones auxiliares del crédito estarán obligadas, en su caso, a someterse al procedimiento de conciliación a que se refiere el artículo siguiente.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+Las organizaciones auxiliares del crédito y las casas de cambio estarán obligadas, en su caso, a someterse al procedimiento de conciliación a que se refiere el artículo 103 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 Cuando las reclamaciones se presenten ante la Comisión Nacional Bancaria, ésta conciliará y, en su caso, resolverá las diferencias que se susciten. Tratándose de uniones de crédito en las operaciones de comercialización, sólo conocerá de las diferencias que se susciten con sus propios socios.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 La sola presentación de la reclamación que se prevé en este artículo, interrumpe la prescripción.
 
@@ -1708,7 +2020,9 @@ La sola presentación de la reclamación que se prevé en este artículo, interr
 
 Las reclamaciones a que se refiere el artículo anterior, se ajustarán a las bases siguientes:
 
-I. Se presentarán por escrito ante la Comisión Nacional Bancaria, pudiendo hacerse en la delegación regional correspondiente. De las mismas se correrá traslado a la organización auxiliar del crédito de que se trate, requiriéndole un informe detallado, mismo que deberá presentar por conducto de un representante en la fecha que dicha Comisión señale, de manera perentoria, para la realización de una junta de avenencia a la cual se citará a las partes y que sólo podrá diferirse por una vez;
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+I. Se presentarán por escrito ante la Comisión Nacional Bancaria, pudiendo hacerse en la delegación regional correspondiente. De las mismas se correrá traslado a la organización auxiliar del crédito o casa de cambio de que se trate, requiriéndole un informe detallado, mismo que deberá presentar por conducto de un representante en la fecha que dicha Comisión señale, de manera perentoria, para la realización de una junta de avenencia a la cual se citará a las partes y que sólo podrá diferirse por una vez;
 
 II. En la junta a que se refiere la fracción anterior, se exhortará a las partes a conciliar sus intereses y si ello no fuera posible la Comisión las invitará a que de común acuerdo la designen árbitro, sea en amigable composición o en juicio arbitral de estricto derecho, a elección de las mismas. El compromiso correspondiente se hará constar en el acta que al efecto se levante;
 
@@ -1722,9 +2036,13 @@ V. En el juicio arbitral de estricto derecho, las partes formularán compromiso 
 
 Las resoluciones en juicio arbitral de estricto derecho, dictadas en el curso del procedimiento, admitirán como único recurso el de revocación y el laudo dictado sólo podrá ser impugnado en juicio de amparo;
 
-VI. El incumplimiento o desacato por parte de las organizaciones auxiliares del crédito a los acuerdos o resoluciones dictadas por la Comisión Nacional Bancaria en los procedimientos establecidos en el presente artículo, serán castigados con multa administrativa que imponga la propia Comisión, y haga efectiva la Secretaría de Hacienda y Crédito Público, por cantidad equivalente de sesenta a cien veces el salario mínimo general diario vigente en el Distrito Federal;
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
-VII. El laudo que en amigable composición o en juicio arbitral de estricto derecho condene a una organización auxiliar del crédito, le otorgará para su cumplimiento un plazo de quince días hábiles a partir de la notificación; si no lo efectuare, sin perjuicio de lo señalado en la fracción siguiente, la Comisión impondrá a la organización auxiliar del crédito una multa hasta de tres veces el importe de lo condenado, si éste fuere cuantificable, o hasta diez mil veces el salario mínimo general diario vigente en el Distrito Federal, si no lo fuere;
+VI. El incumplimiento o desacato por parte de las organizaciones auxiliares del crédito o casas de cambio a los acuerdos o resoluciones dictados por la Comisión Nacional Bancaria en los procedimientos establecidos en el presente artículo, serán castigados con multa administrativa que imponga la propia Comisión, y haga efectiva la Secretaría de Hacienda y Crédito Público, por cantidad equivalente de sesenta a cien veces el salario mínimo general diario vigente en el Distrito Federal;
+
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+VII. El laudo que en amigable composición o en juicio arbitral de estricto derecho condene a una organización auxiliar del crédito o casa de cambio, le otorgará para su cumplimiento un plazo de quince días hábiles a partir de la notificación; si no lo efectuare, sin perjuicio de lo señalado en la fracción siguiente, la Comisión impondrá a la organización auxiliar del crédito o casa de cambio una multa hasta de tres veces el importe de lo condenado, si éste fuere cuantificable, o hasta diez mil veces el salario mínimo general diario vigente en el Distrito Federal, si no lo fuere;
 
 VIII. Cuando se faltare al cumplimiento voluntario de lo convenido en la conciliación o al laudo en la amigable composición o en el juicio arbitral de estricto derecho, la parte afectada deberá acudir a los tribunales competentes, para efectos de ejcución (sic) de una u otra resolución; y
 
@@ -1809,3 +2127,29 @@ La presente Ley entrará en vigor el día siguiente al de su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 Se derogan los artículos 15 bis de la Ley Federal de Instituciones de Fianzas, 29 bis de la Ley General de Instituciones de Seguros y 49 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; así como las demás disposiciones que se opongan a lo dispuesto por esta Ley.
+
+D.O.F. 27 DE DICIEMBRE DE 1991.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a lo previsto por este Decreto.
+
+###### ARTICULO TERCERO.
+
+Los administradores de las cajas de ahorro deberán solicitar, en su caso, a la Secretaría de Hacienda y Crédito Público, la autorización para constituirse y operar como sociedad de ahorro y préstamo en un plazo de 360 días siguientes al inicio de la vigencia de este Decreto. Las personas que no presenten dicha solicitud o aquéllas a las que se les niegue la autorización, deberán de abstenerse de realizar dichas operaciones, debiendo la Comisión Nacional Bancaria, en caso contrario, actuar según los términos del artículo 64 de la Ley.
+
+###### ARTICULO CUARTO.
+
+Las sociedades anónimas que con anterioridad a la fecha de entrada en vigor del presente Decreto, cuenten con autorización de la Secretaría de Hacienda y Crédito Público para operar como casas de cambio y deseen continuar operando, tendrán un plazo de 90 días naturales, contados a partir de la publicación en el Diario Oficial de la Federación de este Decreto, para presentar a la Secretaría el primer testimonio y dos copias de la protocolización del acta de la asamblea general extraordinaria de accionistas en la que conste, que el capital social mínimo pagado de la sociedad se incrementa a cuando menos $6,000'000,000.00 ( SEIS MIL MILLONES DE PESOS 00/100 M. N.), en los términos de las disposiciones de carácter general en vigor que al efecto tenga emitidas la Secretaría de Hacienda y Crédito Público. Asimismo, dentro de tal plazo, las casas de cambio deberán ajustarse a las disposiciones que se reforman en el presente Decreto o, de lo contrario, deberán suprimir de sus estatutos sociales la palabra "Casa de Cambio" y modificar su objeto social en los términos previstos en el artículo 81-A de la presente Ley.
+
+###### ARTICULO QUINTO.
+
+Las solicitudes de autorización a que se refiere el artículo 81 de la presente Ley que estén pendientes de resolución, se tendrán por no presentadas si en un lapso de ciento ochenta días naturales contados a partir de la fecha en que entre en vigor el presente Decreto no se ajustan a lo que dispone el artículo 82, fracción I, de esta Ley.
+
+###### ARTICULO SEXTO.
+
+Los accionistas de casas de cambio que, a la entrada en vigor de esta Decreto, presenten una participación accionaria mayor al porcentaje señalando en la fracción IV del artículo 82 de esta Ley, podrán conservar su participación en exceso, no pudiendo adquirir en caso alguno nuevas acciones, ni aún tratándose de posteriores aumentos de capital, hasta que no rebasen el porciento a que se refiere la Ley.
