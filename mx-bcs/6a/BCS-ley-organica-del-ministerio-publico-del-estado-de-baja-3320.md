@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-ministerio-publico-del-estado-de-baja-3320"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1998-05-10"
+last_updated: "1999-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MAYO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE ABRIL DE 1999.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1976.
 
@@ -151,9 +151,11 @@ Las Oficinas del Ministerio Público tendrán los empleados subalternos que sean
 
 ### CAPITULO SEGUNDO. NOMBRAMIENTOS, REMOCIONES Y SUPLENCIAS
 
+> <small>(REFORMADO, B.O. 6 DE ABRIL DE 1999)</small>
+
 ###### ARTICULO 11.
 
-El Procurador General de Justicia del Estado, será nombrado y removido libremente por el Gobernador, de quien dependerá directamente.
+El Procurador General de Justicia del Estado será elegido por el Congreso del Estado a propuesta del Gobernador a través de una terna de aspirantes. Hecha la elección, el propio Ejecutivo expedirá el nombramiento respectivo, pudiendo removerlo libremente por causa justificada, conforme lo dispone el artículo 79, fracción V de la Constitución.
 
 ###### ARTICULO 12.
 
@@ -1044,3 +1046,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se concede un plazo de 120 días naturales contados a partir de la entrada en vigor del presente Decreto, para que los CC. Agentes del Ministerio Público que carezcan de título de Licenciado en Derecho legalmente expedido, acrediten lo conducente.
+
+B.O. 6 DE ABRIL DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
