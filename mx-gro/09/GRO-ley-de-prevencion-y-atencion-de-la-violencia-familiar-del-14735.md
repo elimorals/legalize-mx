@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-prevencion-y-atencion-de-la-violencia-familiar-del-14735
 country: "mx"
 rank: "ley"
 publication_date: "1999-04-13"
-last_updated: "1999-04-13"
+last_updated: "2004-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE GUERRERO, NUM. 280
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 13 de abril de 1999.
 
@@ -139,7 +139,7 @@ III.- Por el Presidente del Tribunal Superior de Justicia quien ejercerá las fu
 
 IV.- Por el Presidente de la Comisión de Defensa de los Derechos Humanos;
 
-V.- Por el Secretario de Planeación y Presupuesto;
+V.- (DEROGADA, P.O. 13 DE JULIO DE 2004)
 
 VI.- Por el Secretario de Desarrollo Social;
 
@@ -149,13 +149,17 @@ VIII.- Por el Secretario de la Juventud;
 
 IX.- Por el Procurador General de Justicia;
 
-X.- Por el Procurador Social del Campesino y Asuntos Indígenas;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
+
+X.- Por el Secretario de Asuntos Indígenas;
 
 XI.- Por el Secretario de Salud;
 
 XII.- Por el Director General del Sistema Estatal para el Desarrollo Integral de la Familia, y
 
-XIII.- Por los Consejos Municipales para la Asistencia y Prevención de la Violencia Intrafamiliar.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
+
+XIII.- Por un integrante de los Consejos Municipales para la Asistencia y Prevención de la Violencia Intrafamiliar.
 
 Los Consejos Municipales para la Asistencia y Prevención de la Violencia Intrafamiliar se integrarán en la forma siguiente:
 
@@ -289,9 +293,13 @@ El personal de las instituciones a que se refieren los dos artículos anteriores
 
 La Secretaría General de Gobierno deberá:
 
-I.- Coadyuvar a través de sus distintas áreas, en especial con la Coordinación del Sistema Estatal del Registro Civil y el Consejo de Protección de Menores, en la difusión del contenido y alcance de la presente Ley; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
 
-II.- Promover la capacitación en las materias familiar y penal, así como la sensibilización permanente del personal profesional del Servicio de la Defensoría de Oficio, de la Dirección General de Prevención y Readaptación Social y del Albergue Tutelar para Menores Infractores, según corresponda, a efecto de mejorar la atención de las víctimas y victimarios de la violencia intrafamiliar que requieran su intervención.
+I.- Coadyuvar a través de sus distintas áreas, en especial con la Coordinación Técnica del Sistema Estatal del Registro Civil, en la difusión del contenido y alcance de la presente Ley; y
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
+
+II.- Promover la capacitación en las materias familiar y penal, así como la sensibilización permanente del personal profesional del Servicio de Defensoría de Oficio, a efecto de mejorar la atención de las víctimas y victimarios de la violencia intrafamiliar que requieran su intervención.
 
 ###### ARTICULO 18.
 
@@ -331,11 +339,7 @@ IV.- Canalizar, a las instancias correspondientes, a las víctimas de violencia 
 
 ###### ARTICULO 21.
 
-Corresponde a la Secretaría de Planeación y Presupuesto:
-
-I.- Coordinar el establecimiento de programas de Asistencia y Prevención de la Violencia Intrafamiliar en las Dependencias y Organismos de la Administración Pública del Estado, bajo los lineamientos del Comité de Planeación del Desarrollo del Estado; y
-
-II.- Promover la cobertura de los Programas Federales en materia de Asistencia y Prevención de Violencia Intrafamiliar, a los Estados y Municipios.
+(DEROGADO, P.O. 13 DE JULIO DE 2004)
 
 ###### ARTICULO 22.
 
@@ -393,9 +397,11 @@ IV.- Difundir el contenido y alcance de la presente Ley.
 
 La Procuraduría contará con un Centro de Apoyo Interdisciplinario a víctimas de violencia intrafamiliar, unidad administrativa especializada con autonomía técnica y operativa, subordinada jerárquicamente al C. Procurador, organizada en los términos que establezca el reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 26.
 
-La Procuraduría Social del Campesino y Asuntos Indígenas deberá:
+La Secretaría de Asuntos Indígenas deberá:
 
 I.- Promover programas educativos entre la población indígena, referentes a la prevención de la violencia intrafamiliar;
 
@@ -500,3 +506,11 @@ El Secretario General de Gobierno.
 C. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE JULIO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su expedición.
+
+SEGUNDO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para sus efectos respectivos y publicación en el Periódico Oficial del Gobierno del Estado.
