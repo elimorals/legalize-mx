@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "2000-09-19"
+last_updated: "2000-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBBRE DE 2000.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -591,6 +591,10 @@ V. Los referentes a la convocatoria para elecciones extraordinarias; y
 
 VI. Los que se refieren a facultar al Ejecutivo para celebrar convenios con las demás Entidades Federativas limítrofes sobre las fronteras del Estado y sobre la ratificación de estos convenios, si es el caso.
 
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+Los que se refieren a la calificación de las causales para la procedencia del trámite de desintegración de ayuntamientos y suspensión o revocación del mandato a alguno de sus miembros.
+
 ###### Artículo 34.
 
 Corresponde a la Comisión de Hacienda y Presupuestos, el conocimiento de los siguientes asuntos:
@@ -623,9 +627,13 @@ I. Los referentes a la política de desarrollo económico integral y de benefici
 
 II. Los que se refieren a otorgamiento de dispensas de Ley por causas de utilidad pública, sin perjuicio de tercero;
 
-III. Los que se refieren a la autorización a los Ayuntamientos o al Ejecutivo del Estado, para la enajenación de inmuebles o constitución de derechos reales sobre los mismos; y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
 
-IV.Los que se refieren a la autorización a los Ayuntamientos o al Ejecutivo para contraer adeudos que garanticen por gravámenes de sus fuentes de percepción de ingresos.
+III. Los que se refieren a la autorización al Ejecutivo del Estado, para la enajenación de inmuebles o constitución de derechos reales sobre los mismos; y
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+IV. Los que se refieren a la autorización al Ejecutivo para contraer adeudos que garanticen por gravámenes de sus fuentes de percepción de ingresos.
 
 ###### Artículo 36.
 
@@ -915,11 +923,11 @@ IV. Del seguimiento en las acciones operativas que se realicen en material de pr
 
 V. De los demás asuntos relacionados con la materia que le sean turnados por acuerdo de la Asamblea.
 
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 47
 
-Ñ.- Corresponde a la Comisión de Desarrollo Municipal el conocimiento de los asuntos en materia municipal y su normatividad.
+Ñ.- Corresponde a la Comisión de Desarrollo Municipal conocer de los casos en que un Municipio tiene o ha dejado de tener capacidad administrativa, técnica o financiera para garantizar la eficaz prestación de una función o servicio público municipal y en su caso proponer el dictamen proyecto de decreto mediante el cual, el Gobierno del Estado debe asumir una función o servicio público municipal; así como los demás asuntos en materia municipal y su normatividad.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -1165,6 +1173,8 @@ Las iniciativas a que se refiere el artículo 28 de la Constitución Política d
 
 Es iniciativa de Ley, aquella que tienda a una resolución que otorgue derechos o imponga obligaciones a la generalidad de las personas.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1997)</small>
+
 ###### Artículo 87.
 
 Es iniciativa de Decreto aquella que tienda a una resolución que otorgue derechos o imponga obligaciones a determinadas personas físicas o morales.
@@ -1173,13 +1183,15 @@ Es iniciativa de Decreto aquella que tienda a una resolución que otorgue derech
 
 Es iniciativa de Acuerdo Económico, aquella que tienda a una resolución, que por su naturaleza, no requiera de la sanción, promulgación y publicación.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1997)</small>
+###### Artículo 89.
+
+Las resoluciones del Congreso en materia electoral y las que se refieran a la apertura o clausura de períodos de sesiones, tendrán el carácter de Decreto.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1989)</small>
 
 ###### Artículo 89.
 
 Las resoluciones del Congreso en materia electoral, tendrán el carácter de decreto.
-
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1989)</small>
 
 ###### Artículo 90.
 
@@ -1601,53 +1613,75 @@ XV. Por acuerdo de la Asamblea, certificar los documentos del archivo del Congre
 
 XVI. Las demás que le confieran la presente ley y su reglamento.
 
-(DEROGADO CON LOS CAPITULOS Y ARTICULOS
+(ADICIONADO CON LOS ARTICULOS QUE LO
 
-QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1997)
+INTEGRAN, P.O. 5 DE OCTUBRE DE 2000)
 
-## TITULO NOVENO. Procedimiento en Materia de Responsabilidades de
+## TITULO NOVENO. DE LA SUBSTANCIACION DEL TRAMITE PARA LA DESINTEGRACION
 
-Los Servidores Públicos
+DE AYUNTAMIENTOS Y SUSPENSION O REVOCACION DEL
 
-(DEROGADO CON LOS ARTICULOS
+MANDATO A ALGUNO DE SUS MIEMBROS
 
-QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1997)
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 146.
 
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
+Corresponde al Congreso del estado, por acuerdo de las dos terceras partes de su integrantes, declarar la desintegración de los Ayuntamientos, y la suspensión o revocación del mandato de alguno de sus miembros, previo el cumplimiento del derecho de audiencia y defensa de los afectados.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 147.
 
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
+Cuando el Congreso reciba alguna denuncia o queja contra Ayuntamientos o Concejos Municipales o miembros de estos cuerpos colegiados por alguna o alguna (sic) de las causas graves tipificadas por la ley que establece las bases generales de la administración pública municipal, procederá con arreglo a las disposiciones establecidas en los artículos siguientes.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 148.
 
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
+Una vez ratificada la queja o denuncia, se turnará al pleno del Congreso para que se turne a la Comisión de Gobernación, la cual calificará si la causa atribuida corresponde a las previstas por la Ley, y dictaminará en un plazo de tres días hábiles si la denuncia merece atenderse.
+
+Si la Comisión de Gobernación resuelve que la queja o denuncia no debe atenderse, deberá proponer dictamen en tal sentido para que sea la Asamblea la que resuelva lo conducente.
+
+En caso de que la Asamblea apruebe la substanciación del trámite, el Presidente de la Comisión de Gobernación citará al o a los denunciados.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 149.
 
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
+Los Ayuntamientos, Concejos Municipales o sus miembros denunciados, pueden manifestar lo que a su derecho convenga y presentar pruebas en el término de quince días hábiles a partir del día siguiente al en que fueron notificados.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 150.
 
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
+La Comisión de Gobernación substanciará la causa, recibiendo información, tomando acuerdo de las declaraciones y practicando los reconocimientos y demás diligencias que considere conducentes para el esclarecimiento de la verdad.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 151.
 
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
+Transcurrido el término mencionado en el artículo 149 de esta ley, y dentro de los quince días siguientes, se señalará día y hora para la celebración de una audiencia dentro de los diez días siguientes, en la que se desahogarán las pruebas ofrecidas y se expresarán los alegatos, citándose al denunciante y al representante del ayuntamiento, Concejo Municipal o al miembro denunciado. Concluida la audiencia, la Comisión presentará dictamen proponiendo el sentido de la resolución que deba adoptar el Congreso según el caso.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 152.
 
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
+Si la resolución adoptada por el Congreso se refiere a la desintegración del Ayuntamiento y esto ocurre durante el primer año de ejercicio, se comunicará mediante oficio al Consejo Electoral del Estado el resultado de la resolución y los términos de la convocatoria a elecciones extraordinarias.
+
+Si no procediere que se celebren nuevas el4ecciones, el Congreso designará de entre los vecinos del municipio, a propuesta de la Comisión de Gobernación, a los integrantes de los Concejos Municipales que concluirán los periodos respectivos.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 153.
 
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
+Cuando la queja de deba a la ausencia absoluta de la mayoría de los miembros propietarios o suplentes de manera que no pueda integrarse el ayuntamiento, bastará que la comisión de Gobernación constate el hecho y que someta su dictamen al Congreso, para que éste declare la desintegración del Ayuntamiento y se proceda a la designación de un Concejo Municipal o se convoque a la celebración de elecciones extraordinarias si así procediere.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 154.
 
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
+Si la resolución adoptada por el Congreso se refiere a la suspensión o revocación del mandato de alguno de los miembros del Ayuntamiento, se notificará a éste para que llame al suplente y desempeñe el cargo durante el término de la suspensión, o para que concluya el periodo en caso de revocación del mandato.
 
 ###### Artículo 155.
 
@@ -1669,7 +1703,7 @@ QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1997)
 
 QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1997)
 
-### CAPITULO I. Del Procedimiento en el Juicio Político
+### CAPITULO II. De la Declaración de Procedencia del Juicio Penal
 
 ###### Artículo 159.
 
@@ -1695,7 +1729,7 @@ QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1997)
 
 QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1997)
 
-### CAPITULO II. De la Declaración de Procedencia del Juicio Penal
+### CAPITULO III. Disposiciones Comunes para los Capítulos I y II de este Título
 
 ###### Artículo 164.
 
@@ -1749,7 +1783,7 @@ QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1997)
 
 QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1997)
 
-### CAPITULO III. Disposiciones Comunes para los Capítulos I y II de este Título
+### CAPITULO IV. De las Sanciones Administrativas
 
 ###### Artículo 176.
 
@@ -1794,8 +1828,6 @@ QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 1997)
 QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 1997)
 
 ### CAPITULO UNICO. De su Integración y Funcionamiento
-
-### CAPITULO IV. De las Sanciones Administrativas
 
 ###### Artículo 181.
 
@@ -1945,6 +1977,10 @@ Segundo. La reforma al Art. 24 de la Constitución Política del Estado de Jalis
 
 Tercero. Las reformas de los Arts. 182, 185, 186 y 188 de la Ley Reglamentaria del Poder Legislativo, entrarán en vigor el mismo día en que entre en vigor la reforma al Art. 24 de la Constitución Política del Estado.
 
+DECRETO QUE REFORMA ART. 90, P.O. 10 DE OCTUBRE DE 1989
+
+Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
 P.O. 10 DE OCTUBRE DE 1989
 
 DECRETO QUE REFORMA ART. 90.
@@ -2082,3 +2118,7 @@ SEGUNDO.- El presente decreto que contiene la reforma de los artículos 25 de la
 P.O. 19 DE SEPTIEMBRE DE 2000
 
 UNICO.- Este decreto entrará en vigor el 28 de noviembre del año 2000 previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 5 DE OCTUBRE DE 2000
+
+UNICO.- Este decreto entrará en vigor el día 22 de mayo del 2001 previa su publicación en el Periódico Oficial "El Estado de Jalisco".
