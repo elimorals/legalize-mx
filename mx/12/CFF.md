@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1999-06-30"
+last_updated: "1999-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 1999.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 30 DE JUNIO DE 1999.
 
@@ -105,6 +105,14 @@ Son productos las contraprestaciones por los servicios que preste el Estado en s
 Son créditos fiscales los que tenga derecho a percibir el Estado o sus organismos descentralizados que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que el Estado tenga derecho a exigir de sus servidores públicos o de los particulares, así como aquellos a los que las leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena.
 
 La recaudación proveniente de todos los ingresos de la Federación, aun cuando se destinen a un fin específico, se hará por la Secretaría de Hacienda y Crédito Público o por las oficinas que dicha Secretaría autorice.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 4o.-A.
+
+Los impuestos y sus accesorios exigibles por los Estados extranjeros cuya recaudación y cobro sea solicitado a México, de conformidad con los tratados internacionales sobre asistencia mutua en el cobro de los que México sea parte, les serán aplicables las disposiciones de este Código referentes a la notificación y ejecución de los créditos fiscales.
+
+La Secretaría de Hacienda y Crédito Público o las oficinas que ésta autorice recaudarán, de conformidad con los tratados internacionales antes señalados, los impuestos y sus accesorios exigibles por los Estados extranjeros.
 
 ###### Artículo 5o.
 
@@ -306,7 +314,9 @@ I. En escisión, siempre que se cumpla con los requisitos siguientes:
 
 a). Que los accionistas propietarios de por lo menos el 51% de las acciones con derecho a voto, de la sociedad escindente y de las escindidas, sean los mismos durante un periodo de dos años contado a partir del año inmediato anterior a la fecha en que se presente el aviso correspondiente ante la autoridad fiscal en los términos del Reglamento de este Código.
 
-Para determinar el porcentaje del 51% se deberá considerar el total de las acciones con derecho a voto emitidas por la sociedad a la fecha de inicio del periodo, excluyendo las que se consideran colocadas entre el gran público inversionista y que hayan sido enajenadas a través de bolsa de valores autorizada o mercados de amplia bursatilidad, de acuerdo con las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público. No se consideran como acciones con derecho a voto, aquéllas que lo tengan limitado y las que en los términos de la Legislación Mercantil se denominen acciones de goce; tratándose de sociedades que no sean por acciones se considerarán las partes sociales en vez de las acciones con derecho a voto, siempre que no lo tengan limitado.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+Para determinar el porcentaje del 51% se deberá considerar el total de las acciones con derecho a voto emitidas por la sociedad a la fecha de inicio del periodo, excluyendo las que se consideran colocadas entre el gran público inversionista y que hayan sido enajenadas a través de bolsa de valores autorizada o mercados reconocidos, de acuerdo con las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público. No se consideran como acciones con derecho a voto, aquéllas que lo tengan limitado y las que en los términos de la Legislación Mercantil se denominen acciones de goce; tratándose de sociedades que no sean por acciones se considerarán las partes sociales en vez de las acciones con derecho a voto, siempre que no lo tengan limitado.
 
 b). Que cuando desaparezca una sociedad con motivo de escisión, la sociedad escindente designe a la sociedad que asuma la obligación de presentar las declaraciones de impuestos del ejercicio e informativas que en los términos establecidos por las leyes fiscales le correspondan.
 
@@ -568,9 +578,9 @@ Artículo 20 BIS.- El Indice Nacional de Precios al Consumidor a que se refiere 
 
 I. Se cotizarán cuando menos los precios en 30 ciudades, las cuales estarán ubicadas en por lo menos 20 entidades federativas. Las ciudades seleccionadas deberán en todo caso tener una población de 20,000 o más habitantes, y siempre habrán de incluirse las 10 zonas conurbadas o ciudades más pobladas de la República.
 
-> <small>(F. DE E., D.O.F. 17 DE ENERO DE 1989)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-II. Deberán cotizarse los precios correspondientes a cuando menos 2000 productos y servicios específicos agrupados en 250 conceptos de consumo, los cuales abarcarán al menos 35 ramas de los sectores agrícola, ganadero, industrial y de servicios, conforme al catálogo de actividades económicas elaborado por el Instituto Nacional de Estadística, Geografía e Informática.
+II. Deberán cotizarse los precios correspondientes a cuando menos 1000 productos y servicios específicos agrupados en 250 conceptos de consumo, los cuales abarcarán al menos 35 ramas de los sectores agrícola, ganadero, industrial y de servicios, conforme al catálogo de actividades económicas elaborado por el Instituto Nacional de Estadística, Geografía e Informática.
 
 III. Tratándose de alimentos las cotizaciones de precios se harán como mínimo tres veces durante cada mes. El resto de las cotizaciones se obtendrán una o más veces mensuales.
 
@@ -625,6 +635,10 @@ Si se obtiene autorización para pagar a plazos, ya sea en forma diferida o en p
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 En el caso de aprovechamientos, los recargos se calcularán de conformidad con lo dispuesto en este artículo sobre el total del crédito fiscal, excluyendo los propios recargos, los gastos de ejecución y la indemnización a que se refiere este artículo. No causarán recargos las multas no fiscales.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+Las autoridades fiscales podrán condonar total o parcialmente los recargos derivados de un ajuste a los precios o montos de contraprestaciones en operaciones entre partes relacionadas, siempre que dicha condonación derive de un acuerdo de autoridad competente sobre las bases de reciprocidad, con las autoridades de un país con el que se tenga celebrado un tratado para evitar la doble tributación, y dichas autoridades hayan devuelto el impuesto correspondiente sin el pago de cantidades a título de intereses.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -788,9 +802,7 @@ XIV. Las personas a quienes residentes en el extranjero les presten servicios pe
 
 XV. La sociedad que administre o los propietarios de los inmuebles afectos al servicio turístico de tiempo compartido prestado por residentes en el extranjero, cuando sean partes relacionadas en los términos de los artículos 64-A y 74 de la Ley del Impuesto sobre la Renta, hasta por el monto de las contribuciones que se omitan.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-XVI. Los fabricantes, productores, envasadores e importadores de los bienes a que se refiere el artículo 2o., fracción I, incisos E) y F) de la Ley del Impuesto Especial sobre Producción y Servicios, por la diferencia de impuesto que resulte de conformidad con lo establecido en el artículo 8o., fracción V, de dicho ordenamiento, cuando el precio de enajenación de dichos bienes realizada por el contribuyente, sea superior en más de un 3% del precio de venta del detallista registrado por los fabricantes, productores, envasadores e importadores de conformidad con la citada Ley.
+XVI. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -824,13 +836,17 @@ Las personas morales cuyos socios o accionistas deban inscribirse conforme al p�
 
 Tratándose de contratos de asociación en participación, el asociado y el asociante tendrán las obligaciones a que se refiere el primer párrafo de este artículo. El asociante deberá hacerlo por cada contrato en el cual tenga tal calidad.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+No estarán obligados a solicitar su inscripción en el registro federal de contribuyentes los socios o accionistas residentes en el extranjero de personas morales residentes en México, así como los asociados residentes en el extranjero de asociaciones en participación, siempre que la persona moral o el asociante, residentes en México, presente ante las autoridades fiscales dentro de los tres primeros meses siguientes al cierre de cada ejercicio, una relación de los socios, accionistas o asociados, residentes en el extranjero, en la que se indique su domicilio, residencia fiscal y número de identificación fiscal.
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 Las personas que hagan los pagos a que se refiere el Capítulo I del Título IV de la Ley del Impuesto sobre la Renta, deberán solicitar la inscripción de los contribuyentes a los que hagan dichos pagos, para tal efecto éstos deberán proporcionarles los datos necesarios.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-Las personas físicas y morales residentes en el extranjero sin establecimiento permanente o base fija en el país, podrán solicitar su inscripción en el registro federal de contribuyentes, proporcionando la información a que se refiere el primer párrafo de este artículo, en los términos y para los fines que establezca la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, sin que dicha inscripción les otorgue la posibilidad de solicitar la devolución de contribuciones.
+Las personas físicas y morales residentes en el extranjero sin establecimiento permanente o base fija en el país, que no se ubiquen en los supuestos previstos en el presente artículo, podrán solicitar su inscripción en el registro federal de contribuyentes, proporcionando su número de identificación fiscal, cuando tengan obligación de contar con éste en el país en que residan, así como la información a que se refiere el primer párrafo de este artículo, en los términos y para los fines que establezca la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, sin que dicha inscripción les otorgue la posibilidad de solicitar la devolución de contribuciones.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -848,9 +864,9 @@ La Secretaría de Hacienda y Crédito Público llevará el registro federal de c
 
 La clave a que se refiere el párrafo que antecede se dará a conocer a través de un documento que se denominará cédula de identificación fiscal, la cual deberá contener las características que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-Tratándose de establecimientos para la realización de actividades empresariales, o de locales que se utilicen como base fija para el desempeño de servicios personales independientes, abiertos al público en general, los contribuyentes deberán conservar en ellos, copias de los avisos que por los mismos establecimientos o locales hayan presentando conforme a este artículo y al Reglamento de este Código, debiendo exhibirlos a las autoridades fiscales cuando éstas lo soliciten.
+Tratándose de establecimientos, sucursales, locales, puestos fijos o semifijos, para la realización de actividades empresariales, de lugares en donde se almacenen mercancías o de locales que se utilicen como base fija para el desempeño de servicios personales independientes, los contribuyentes deberán presentar aviso de apertura o cierre de dichos lugares en la forma que al efecto apruebe la Secretaría de Hacienda y Crédito Público y conservar en los lugares citados el aviso de apertura, debiendo exhibirlo a las autoridades fiscales cuando éstas lo soliciten.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -986,9 +1002,13 @@ Las personas que dictaminen sus estados financieros por contador público autori
 
 Cuando al inicio de una visita domiciliaria los contribuyentes hubieran omitido asentar registros en su contabilidad dentro de los plazos establecidos en las disposiciones fiscales, dichos registros sólo podrán efectuarse después de que la omisión correspondiente haya sido asentada en acta parcial; esta obligación subsiste inclusive cuando las autoridades hubieran designado un depositario distinto del contribuyente, siempre que la contabilidad permanezca en alguno de sus establecimientos. El contribuyente deberá seguir llevando su contabilidad independientemente de lo dispuesto en este párrafo.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-Los contribuyentes con locales, puestos fijos o semifijos en la vía pública deberán tener a disposición de las autoridades fiscales en dichos lugares, su cédula de identificación fiscal expedida por la Secretaría de Hacienda y Crédito Público, o la solicitud de inscripción en el registro federal de contribuyentes o copia certificada de cualesquiera de dichos documentos, así como los comprobantes que amparen la legal posesión o propiedad de las mercancías que vendan en esos lugares.
+Los contribuyentes con establecimientos, sucursales, locales, puestos fijos o semifijos en la vía pública, deberán tener a disposición de las autoridades fiscales en dichos lugares y, en su caso, en el lugar donde almacenen las mercancías, su cédula de identificación fiscal expedida por la Secretaría de Hacienda y Crédito Público, o la solicitud de inscripción en el registro federal de contribuyentes o copia certificada de cualesquiera de dichos documentos, así como los comprobantes que amparen la legal posesión o propiedad de las mercancías que tengan en esos lugares.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+No obstante lo dispuesto en el párrafo anterior, los contribuyentes que en los lugares señalados en el citado párrafo tengan su cédula de identificación fiscal o la solicitud de inscripción en el registro federal de contribuyentes o copia certificada de cualesquiera de dichos documentos, y el aviso de apertura a que se refiere el artículo 27, penúltimo párrafo de este Código, no estarán obligados a tener a disposición de las autoridades fiscales en esos lugares, los comprobantes que amparen la legal posesión o propiedad de las mercancías, en cuyo caso deberán conservar dichos comprobantes a disposición de las autoridades en su domicilio fiscal de acuerdo con las disposiciones de este Código.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -1230,7 +1250,19 @@ f). Efectuar en distintas partes del país reuniones de información con los con
 
 g). Publicar anualmente las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes; se podrán publicar aisladamente aquellas disposiciones cuyos efectos se limitan a periodos inferiores a un año.
 
-II. Establecerán Programas de Prevención y Resolución de Problemas del Contribuyente, a fin de que los contribuyentes designen síndicos que los representen ante las autoridades fiscales.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+II. Establecerán Programas de Prevención y Resolución de Problemas del Contribuyente, a fin de que los contribuyentes designen síndicos que los representen ante las autoridades fiscales, los cuales podrán solicitar opiniones o recomendaciones a las autoridades fiscales, respecto de los asuntos que les sean planteados por los contribuyentes.
+
+Los síndicos deberán reunir los siguientes requisitos:
+
+a) Ser licenciado en derecho, contador público o carrera afín.
+
+b) Contar con reconocida experiencia y solvencia moral, así como con el tiempo necesario para participar con las autoridades fiscales en las acciones que contribuyan a prevenir y resolver los problemas de sus representados.
+
+c) Prestar sus servicios en forma gratuita.
+
+La Secretaría de Hacienda y Crédito Público podrá expedir las reglas de carácter general que precisen las funciones de los síndicos, la manera de desarrollarlas, así como los demás aspectos y criterios que considere pertinentes para la debida aplicación y cumplimiento de lo dispuesto en esta fracción.
 
 III. (DEROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO DE ADMINISTRACION TRIBUTARIA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
@@ -1262,13 +1294,17 @@ La validez de las resoluciones que recaigan sobre las consultas aplicables a res
 
 La Secretaría de Hacienda y Crédito Público publicará anualmente las principales resoluciones favorables a los contribuyentes a que se refiere el párrafo anterior, debiendo cumplir con lo dispuesto en el artículo 69 de este Código.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 34-A.
 
-Las autoridades fiscales podrán resolver consultas que formulen los interesados relativas a la metodología utilizada en la determinación de los precios o montos de las contraprestaciones, en operaciones con partes relacionadas, en los términos del artículo 64-A de la Ley del Impuesto sobre la Renta. Estas resoluciones podrán derivar de un acuerdo con las autoridades competentes de un país con el que se tenga un tratado para evitar la doble tributación. En este último caso, las autoridades fiscales podrán discrecionalmente condonar total o parcialmente recargos, siempre que las autoridades competentes del otro país no reintegren o devuelvan cantidades a título de intereses y hayan devuelto el impuesto correspondiente.
+Las autoridades fiscales podrán resolver las consultas que formulen los interesados relativas a la metodología utilizada en la determinación de los precios o montos de las contraprestaciones, en operaciones con partes relacionadas, en los términos del artículo 64-A de la Ley del Impuesto sobre la Renta, siempre que el contribuyente presente la información, datos y documentación, necesarios para la emisión de la resolución correspondiente. Estas resoluciones podrán derivar de un acuerdo con las autoridades competentes de un país con el que se tenga un tratado para evitar la doble tributación.
 
-Las resoluciones emitidas en los términos de este artículo, podrán surtir sus efectos hasta por los cuatro ejercicios fiscales siguientes a aquél en que se otorguen, pudiendo las autoridades fiscales autorizar que las mismas surtan sus efectos hasta por los cuatro ejercicios inmediatos anteriores.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+Las resoluciones que en su caso se emitan en los términos de este artículo, podrán surtir sus efectos en el ejercicio en que se soliciten, en el ejercicio inmediato anterior y hasta por los tres ejercicios fiscales siguientes a aquél en que se soliciten. La vigencia podrá ser mayor cuando deriven de un procedimiento amistoso, en los términos de un tratado internacional de que México sea parte.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 La validez de las resoluciones podrá condicionarse al cumplimiento de requisitos que demuestren que las operaciones objeto de la resolución, se realizan a precios o montos de contraprestaciones que hubieran utilizado partes independientes en operaciones comparables.
 
@@ -1388,11 +1424,13 @@ III. Imponer la multa que corresponda en los términos de este Código y requeri
 
 En el caso de la fracción III y agotados los actos señalados en la misma, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 41-A.
 
-Las autoridades fiscales podrán solicitar a los contribuyentes, responsables solidarios o terceros, datos, informes o documentos adicionales, que consideren necesarios para aclarar la información asentada en las declaraciones de pago provisional, del ejercicio y complementarias, siempre que se soliciten en un plazo no mayor de treinta días siguientes a la presentación de las citadas declaraciones. Las personas antes mencionadas deberán proporcionar la información solicitada dentro de los quince días siguientes a la fecha en que surta efectos la notificación de la solicitud correspondiente.
+Las autoridades fiscales podrán solicitar a los contribuyentes, responsables solidarios o terceros, datos, informes o documentos adicionales, que consideren necesarios para aclarar la información asentada en las declaraciones de pago provisional, del ejercicio y complementarias, siempre que se soliciten en un plazo no mayor de tres meses siguientes a la presentación de las citadas declaraciones. Las personas antes mencionadas deberán proporcionar la información solicitada dentro de los quince días siguientes a la fecha en que surta efectos la notificación de la solicitud correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando únicamente soliciten los datos, informes y documentos a que se refiere este artículo, pudiendo ejercerlas en cualquier momento.
 
@@ -1416,9 +1454,11 @@ III. Practicar visitas a los contribuyentes, los responsables solidarios o terce
 
 IV. Revisar los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes y sobre las operaciones de enajenación de acciones que realicen, así como la declaratoria por solicitudes de devolución de saldos a favor de impuesto al valor agregado y cualquier otro dictamen que tenga repercusión para efectos fiscales formulado por contador público y su relación con el cumplimiento de disposiciones fiscales.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-V. Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales en materia de la expedición de comprobantes fiscales y de la presentación de solicitudes o avisos en materia del registro federal de contribuyentes, de conformidad con el procedimiento previsto en el artículo 49 de este Código, e inscribir a quienes de conformidad con las disposiciones fiscales deban estar inscritos en dicho registro.
+V. Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales en materia de la expedición de comprobantes fiscales y de la presentación de solicitudes o avisos en materia del registro federal de contribuyentes, así como para solicitar la exhibición de los comprobantes que amparen la legal propiedad o posesión de las mercancías, y verificar que los envases o recipientes que contengan bebidas alcohólicas cuenten con el marbete o precinto correspondiente, de conformidad con el procedimiento previsto en el artículo 49 de este Código.
+
+Las autoridades fiscales podrán solicitar a los contribuyentes la información necesaria para su inscripción en el citado registro e inscribir a quienes de conformidad con las disposiciones fiscales deban estarlo y no cumplan con este requisito.
 
 VI. Practicar u ordenar se practique avalúo o verificación física de toda clase de bienes, incluso durante su transporte.
 
@@ -1586,9 +1626,19 @@ Las autoridades fiscales deberán concluir la visita que se desarrolle en el dom
 
 El plazo a que se refiere el párrafo anterior, podrá ampliarse por periodos iguales hasta por dos ocasiones, siempre que el oficio mediante el cual se notifique la prórroga correspondiente haya sido expedido, en la primera ocasión por la autoridad o autoridades fiscales que ordenaron la visita o revisión y, en la segunda, por el superior jerárquico de la autoridad o autoridades fiscales que ordenaron la citada visita o revisión, salvo cuando el contribuyente durante el desarrollo de la visita domiciliaria o de la revisión de la contabilidad, cambie de domicilio fiscal, supuesto en el que serán las autoridades fiscales que correspondan a su nuevo domicilio las que expedirán, en su caso, los oficios de las prórrogas correspondientes. En su caso, dicho plazo se entenderá prorrogado hasta que transcurra el término a que se refiere el segundo párrafo de la fracción IV del artículo 46 de este Código.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-Si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad del contribuyente en las oficinas de las propias autoridades, o las prórrogas que procedan de conformidad con el párrafo anterior, los contribuyentes interponen algún medio de defensa en el país o en el extranjero contra los actos o actividades que deriven del ejercicio de sus facultades de comprobación, dichos plazos se suspenderán desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
+Los plazos para concluir las visitas domiciliarias o las revisiones de gabinete a que se refiere el primer párrafo y los plazos de las prórrogas que procedan conforme a este artículo, se suspenderán en los casos de:
+
+I. Huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la huelga.
+
+II. Fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión.
+
+III. Cuando el contribuyente desocupe su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando no se le localice en el que haya señalado, hasta que se le localice.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+Si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad del contribuyente en las oficinas de las propias autoridades, o las prórrogas que procedan de conformidad con este artículo, los contribuyentes interponen algún medio de defensa en el país o en el extranjero contra los actos o actividades que deriven del ejercicio de sus facultades de comprobación, dichos plazos se suspenderán desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -1650,35 +1700,35 @@ VIII. Dentro del plazo para desvirtuar los hechos u omisiones asentados en el of
 
 IX. Cuando el contribuyente no corrija totalmente su situación fiscal conforme al oficio de observaciones o no desvirtúe los hechos u omisiones consignados en dicho documento, se emitirá la resolución que determine las contribuciones omitidas, la cual se notificará al contribuyente cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en dicha fracción.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 49.
 
-Para los efectos de lo dispuesto por la fracción V del artículo 42 de este Código, las visitas domiciliarias para verificar la expedición de comprobantes fiscales o la presentación de solicitudes o avisos en materia del registro federal de contribuyentes, se realizarán conforme a lo siguiente:
+Para los efectos de lo dispuesto por la fracción V del artículo 42 de este Código, las visitas domiciliarias se realizarán conforme a lo siguiente:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-I. Se llevará a cabo en el domicilio fiscal, establecimientos, puestos fijos y semifijos en la vía pública, o sucursales de los contribuyentes, siempre que se encuentren abiertos al público en general, donde se realicen enajenaciones, presten servicios o contraten el uso o goce temporal de bienes, con el objeto de verificar el cumplimiento de las obligaciones fiscales en materia de expedición de comprobantes fiscales o presentación de solicitudes o avisos en materia del registro federal de contribuyentes.
+I. Se llevará a cabo en el domicilio fiscal, establecimientos, sucursales, locales, puestos fijos y semifijos en la vía pública, de los contribuyentes, siempre que se encuentren abiertos al público en general, donde se realicen enajenaciones, presten servicios o contraten el uso o goce temporal de bienes, así como en los lugares donde se almacenen las mercancías.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-II. Al presentarse los visitadores al lugar en donde deba practicarse la diligencia, entregarán la orden de verificación al visitado, a su representante legal, al encargado o a quien se encuentre al frente del establecimiento, indistintamente, y con dicha persona se entenderá la visita de inspección.
+II. Al presentarse los visitadores al lugar en donde deba practicarse la diligencia, entregarán la orden de verificación al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de inspección.
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 III. Los visitadores se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la inspección.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-IV. En toda visita domiciliaria para verificar la expedición de comprobantes fiscales o la presentación de solicitudes o avisos en materia del registro federal de contribuyentes, se levantará acta en la que se harán constar en forma circunstanciada los hechos u omisiones conocidos por los visitadores, relativos a la expedición de comprobantes fiscales o a la presentación de solicitudes o avisos en materia del registro federal de contribuyentes, en los términos de este Código y su Reglamento o, en su caso, las irregularidades detectadas durante la inspección.
+IV. En toda visita domiciliaria se levantará acta en la que se harán constar en forma circunstanciada los hechos u omisiones conocidos por los visitadores, en los términos de este Código y su Reglamento o, en su caso, las irregularidades detectadas durante la inspección.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 V. Si al cierre del acta de visita domiciliaria el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar el acta, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; dándose por concluida la visita domiciliaria.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-VI. Si con motivo de la visita domiciliaria a que se refiere este artículo, las autoridades conocieron incumplimientos a las disposiciones fiscales en materia de expedición de comprobantes fiscales o presentación de solicitudes o avisos en materia del registro federal de contribuyentes, se procederá a la formulación de la resolución correspondiente. Si se observa que el visitado no se encuentra inscrito en dicho registro, la autoridad requerirá los datos necesarios para su inscripción, sin perjuicio de las sanciones y demás consecuencias legales derivadas de dicha omisión.
+VI. Si con motivo de la visita domiciliaria a que se refiere este artículo, las autoridades conocieron incumplimientos a las disposiciones fiscales, se procederá a la formulación de la resolución correspondiente. Si se observa que el visitado no se encuentra inscrito en dicho registro, la autoridad requerirá los datos necesarios para su inscripción, sin perjuicio de las sanciones y demás consecuencias legales derivadas de dicha omisión.
 
 ###### Artículo 50.
 
@@ -2030,13 +2080,13 @@ El plazo a que se refiere este artículo será de diez años, cuando el contribu
 
 En los casos de responsabilidad solidaria a que se refiere el artículo 26 fracción III de este Código, el plazo será de tres años a partir de que la garantía del interés fiscal resulte insuficiente.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-El plazo señalado en este artículo no está sujeto a interrupción y sólo se suspenderá cuando se ejerzan las facultades de comprobación de las autoridades fiscales a que se refieren las fracciones II, III y IV del artículo 42 o cuando se interponga algún recurso administrativo o juicio.
+El plazo señalado en este artículo no está sujeto a interrupción y sólo se suspenderá cuando se ejerzan las facultades de comprobación de las autoridades fiscales a que se refieren las fracciones II, III y IV del artículo 42; cuando se interponga algún recurso administrativo o juicio; o cuando las autoridades fiscales no puedan iniciar el ejercicio de sus facultades de comprobación en virtud de que el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal. En estos dos últimos casos se reiniciará el cómputo del plazo de caducidad a partir de la fecha en que se localice al contribuyente.
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-El plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación antes mencionadas inicia con la notificación de su ejercicio y concluye cuando se notifique la resolución definitiva por parte de la autoridad fiscal. La suspensión a que se refiere este párrafo estará condicionada a que cada seis meses se levante cuando menos un acta parcial o final, o se dicte la resolución definitiva. De no cumplirse esta condición se entenderá que no hubo suspensión.
+El plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación antes mencionadas inicia con la notificación de su ejercicio y concluye cuando se notifique la resolución definitiva por parte de la autoridad fiscal. La suspensión a que se refiere este párrafo estará condicionada a que cada seis meses se levante cuando menos un acta parcial o final, o se dicte la resolución definitiva. De no cumplirse esta condición se entenderá que no hubo suspensión. No será necesario el levantamiento de dichas actas, cuando iniciadas las facultades de comprobación se verifiquen los supuestos señalados en las fracciones I y II del artículo 46-A de este Código.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -2063,6 +2113,14 @@ Sólo por acuerdo expreso del Secretario de Hacienda y Crédito Público se podr
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 Mediante acuerdo de intercambio recíproco de información, suscrito por el Secretario de Hacienda y Crédito Público, se podrá suministrar la información a las autoridades fiscales de países extranjeros, siempre que se pacte que la misma sólo se utilizará para efectos fiscales y se guardará el secreto fiscal correspondiente por el país de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 69-A.
+
+Las autoridades fiscales asistirán en el cobro y recaudación de los impuestos y sus accesorios exigibles por los Estados extranjeros en términos de sus respectivas legislaciones, cuando las autoridades fiscales extranjeras así lo soliciten, en los términos de los tratados internacionales de los que México sea parte, siempre que exista reciprocidad. Para estos efectos, los plazos de prescripción de los créditos fiscales extranjeros y de caducidad, así como la actualización, los recargos y las sanciones, se regirán por las leyes fiscales del Estado extranjero solicitante.
+
+En el caso en que el impuesto y sus accesorios a que se refiere este artículo sean pagados en moneda nacional, será aplicable el tipo de cambio vigente al momento en que se efectúa el pago.
 
 ### CAPITULO II. De los Delitos Fiscales
 
@@ -2256,9 +2314,9 @@ También se aplicarán las multas a que se refiere este precepto, cuando las inf
 
 Cuando se declaren pérdidas fiscales mayores a las realmente sufridas, la multa será del 30% al 40% de la diferencia que resulte entre la pérdida declarada y la que realmente corresponda, siempre que el contribuyente la hubiere disminuido total o parcialmente de su utilidad fiscal. En caso de que aún no se hubiere tenido oportunidad de disminuirla, la multa será del 20% al 30% de dicha diferencia. En el supuesto de que la diferencia mencionada no se hubiere disminuido habiendo tenido la oportunidad de hacerlo, no se impondrá la multa a que se refiere este párrafo, hasta por el monto de la diferencia que no se disminuyó. Lo dispuesto para los dos últimos supuestos se condicionará a la presentación de la declaración complementaria que corrija la pérdida declarada.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-Tratándose de la omisión en el pago de contribuciones debido al incumplimiento de las obligaciones previstas en los artículos 64-A y 74, antepenúltimo párrafo de la Ley del Impuesto sobre la Renta, las multas serán un 50% menores de lo previsto en las fracciones I y II de este artículo. En el caso de pérdidas, cuando se incumpla con lo previsto en los citados artículos, la multa será del 15% al 20% de la diferencia que resulte cuando las pérdidas fiscales declaradas sean mayores a las realmente sufridas. Lo previsto en este párrafo será aplicable, siempre que se haya cumplido con las obligaciones previstas en los artículos 58, fracción XIV y 112, fracción XII de la Ley del Impuesto sobre la Renta.
+Tratándose de la omisión en el pago de contribuciones debido al incumplimiento de las obligaciones previstas en los artículos 64-A y 74, penúltimo párrafo de la Ley del Impuesto sobre la Renta, las multas serán un 50% menores de lo previsto en las fracciones I y II de este artículo. En el caso de pérdidas, cuando se incumpla con lo previsto en los citados artículos, la multa será del 15% al 20% de la diferencia que resulte cuando las pérdidas fiscales declaradas sean mayores a las realmente sufridas. Lo previsto en este párrafo será aplicable, siempre que se haya cumplido con las obligaciones previstas en los artículos 58, fracción XIV y 112, fracción XII de la Ley del Impuesto sobre la Renta.
 
 ###### Artículo 77.
 
@@ -2324,9 +2382,9 @@ VI. Señalar como domicilio fiscal para efectos del registro federal de contribu
 
 VII. No asentar o asentar incorrectamente en las actas de asamblea o libros de socios o accionistas, el registro federal de contribuyentes de cada socio o accionista, a que se refiere el tercer párrafo del artículo 27 de este Código.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-VIII. No asentar o asentar incorrectamente en las escrituras públicas en que hagan constar actas constitutivas y demás actas de asamblea de personas morales cuyos socios o accionistas deban solicitar su inscripción en el registro federal de contribuyentes, la clave correspondiente a cada socio o accionista, conforme al octavo párrafo del artículo 27 de este Código, cuando los socios o accionistas concurran a la constitución de la sociedad o a la protocolización del acta respectiva.
+VIII. No asentar o asentar incorrectamente en las escrituras públicas en que hagan constar actas constitutivas y demás actas de asamblea de personas morales cuyos socios o accionistas deban solicitar su inscripción en el registro federal de contribuyentes, la clave correspondiente a cada socio o accionista, conforme al noveno párrafo del artículo 27 de este Código, cuando los socios o accionistas concurran a la constitución de la sociedad o a la protocolización del acta respectiva.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2408,9 +2466,9 @@ VI. No presentar aviso de cambio de domicilio o presentarlo fuera de los plazos 
 
 VII. Presentar declaración de pago provisional sin cantidad a pagar o sin saldo a favor, siempre que la declaración de pago provisional inmediata anterior haya sido presentada sin cantidad a pagar o sin saldo a favor.
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-VIII. No presentar la información a que se refieren los artículos 17 de la Ley del Impuesto sobre Tenencia o Uso de Vehículos o 19, fracciones VIII, IX y XII de la Ley del Impuesto Especial sobre Producción y Servicios, dentro del plazo previsto en dichos preceptos, o no presentarla conforme lo establecen los mismos.
+VIII. No presentar la información a que se refieren los artículos 17 de la Ley del Impuesto sobre Tenencia o Uso de Vehículos o 19, fracciones VIII, IX y XII y 26-M, fracción XII, de la Ley del Impuesto Especial sobre Producción y Servicios, dentro del plazo previsto en dichos preceptos, o no presentarla conforme lo establecen los mismos.
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2420,7 +2478,9 @@ IX. No proporcionar la información a que se refiere el artículo 20, último p�
 
 X. No proporcionar la información relativa a los clientes que soliciten la impresión de comprobantes fiscales en términos del artículo 29, segundo párrafo de este Código dentro del plazo que establecen las disposiciones fiscales o presentarla incompleta o con errores.
 
-XI. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+XI. No incluir a todas las sociedades controladas en la solicitud de autorización para determinar el resultado fiscal consolidado que presente la sociedad controladora en términos del artículo 57-B, fracción IV de la Ley del Impuesto sobre la Renta o no incorporar a la consolidación fiscal a todas las sociedades controladas en términos del artículo 57-I de dicha Ley, cuando los activos de las sociedades controladas no incluidas o no incorporadas, representen en el valor total de los activos del grupo que consolide porcientos inferiores a los que establecen los citados preceptos.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2430,9 +2490,9 @@ XII. No presentar los avisos de incorporación o desincorporación al régimen d
 
 XIII. No proporcionar la información de las personas a las que les hubiera otorgado donativos, de conformidad con los artículos 58, fracción X, 72, fracción III, 112, fracción VIII y 119-I, fracción VII de la Ley del Impuesto sobre la Renta, según sea el caso.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-XIV. No proporcionar la información de las operaciones efectuadas en el año de calendario anterior, a través de fideicomisos por los que se realicen actividades empresariales y de asociaciones en participación en los que intervengan, de conformidad con los artículos 58, fracción V, 67-F, fracción VI, 112, fracción XIII y 119-I, fracción X de la Ley del Impuesto sobre la Renta, según sea el caso.
+XIV. No proporcionar la información de las operaciones efectuadas en el año de calendario anterior, a través de fideicomisos por los que se realicen actividades empresariales, de conformidad con los artículos 58, fracción V, 67-F, fracción VI, 112, fracción XIII y 119-I, fracción X de la Ley del Impuesto sobre la Renta, según sea el caso.
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2442,27 +2502,27 @@ XV. No proporcionar la información sobre las inversiones que mantengan en accio
 
 XVI. No presentar la declaración informativa a que se refiere el artículo 32, fracción V de la Ley del Impuesto al Valor Agregado o presentarla incompleta o con errores.
 
-XVII. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+XVII. No presentar la declaración informativa de las operaciones efectuadas con partes relacionadas residentes en el extranjero durante el año de calendario inmediato anterior, de conformidad con los artículos 58, fracción XV y 112, fracción XIV de la Ley del Impuesto sobre la Renta, o presentarla incompleta o con errores.
 
-XVIII. No proporcionar la información a que se refiere el artículo 19, fracciones II, tercer párrafo y XIII de la Ley del Impuesto Especial sobre Producción y Servicios.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+XVIII. No proporcionar la información a que se refieren los artículos 19, fracciones II, tercer párrafo y XIII y 26-M, fracciones III y IV, de la Ley del Impuesto Especial sobre Producción y Servicios.
 
-XIX. No proporcionar la información a que se refiere el artículo 19, fracciones X, XVI y XVII de la Ley del Impuesto Especial sobre Producción y Servicios.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+XIX. No proporcionar la información a que se refieren los artículos 19, fracciones X y XVI y 26-M, fracciones V y VI, de la Ley del Impuesto Especial sobre Producción y Servicios.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 XX. No colocar aparatos de control volumétrico en los equipos de producción o envasamiento a que se refiere el artículo 19, fracción XVI de la Ley del Impuesto Especial sobre Producción y Servicios.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-XXI. No inscribirse en los padrones de contribuyentes a que se refiere el artículo 19, fracciones XI, XIV y XVIII de la Ley del Impuesto Especial sobre Producción y Servicios.
+XXI. No inscribirse en los padrones de contribuyentes a que se refieren los artículos 19, fracciones XI, XIV y XVIII y 26-M, fracciones VII, VIII y IX, de la Ley del Impuesto Especial sobre Producción y Servicios.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-XXII. No registrar la lista de precios de venta del detallista a que se refiere el artículo 19, fracción XV de la Ley del Impuesto Especial sobre Producción y Servicios.
+XXII. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2570,7 +2630,9 @@ IX. De $4,523.00 a $15,078.00, para la establecida en la fracción IX.
 
 X. De $13.00 a $26.00, para la establecida en la fracción X, por cada comprobante que impriman y respecto de los cuales no proporcionen información. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días y, en su caso, la cancelación de la autorización para imprimir comprobantes. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
-XI. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+XI. De $60,000.00 a $80,000.00, para la establecida en la fracción XI, por cada sociedad controlada no incluida en la solicitud de autorización para determinar el resultado fiscal consolidado o no incorporada a la consolidación fiscal.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA QUINTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1999, D.O.F. DEL 30 DE JUNIO DE 1999.</small>
 
@@ -2602,7 +2664,9 @@ XV. De $37,694.00 a $75,388.00, para la establecida en la fracción XV.
 
 XVI. De $5,453.00 a $10,906.00, a la establecida en la fracción XVI.
 
-XVII. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+XVII. De $35,000.00 a $70,000.00, para la establecida en la fracción XVII.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER FRACCION I ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
 
@@ -2632,11 +2696,7 @@ XX. De $16,359.00 a $32,718.00, para la establecida en la fracción XX.
 
 XXI. De $54,530.00 a $109,060.00, para la establecida en la fracción XXI.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA QUINTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1999, D.O.F. DEL 30 DE JUNIO DE 1999.</small>
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-XXII. De $32,718.00 a $65,436.00, para la establecida en la fracción XXII, por cada lista no presentada.
+XXII. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA QUINTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1999, D.O.F. DEL 30 DE JUNIO DE 1999.</small>
 
@@ -2926,11 +2986,11 @@ I. No adherir marbetes o precintos a los envases o recipientes.
 
 II. Hacer cualquier uso diferente de los marbetes o precintos al de adherirlos a los envases o recipientes que contengan bebidas alcohólicas.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-III. Poseer por cualquier título los bienes a que se refieren los incisos E) y F) de la fracción I del artículo 2o. de la Ley del Impuesto Especial sobre Producción y Servicios, cuyos envases o recipientes carezcan del marbete o precinto correspondiente, así como no cerciorarse de que las bebidas alcohólicas cuentan con el marbete o precinto correspondiente al momento de adquirirlas, salvo en los casos en que de conformidad con las disposiciones fiscales no se tenga obligación de adherirlos, ambas en términos de lo dispuesto en el artículo 19, fracción IV de dicha Ley.
+III. Poseer por cualquier título bebidas alcohólicas, cuyos envases o recipientes carezcan del marbete o precinto correspondiente, así como no cerciorarse de que las citadas bebidas cuentan con el marbete o precinto correspondiente al momento de adquirirlas, salvo en los casos en que de conformidad con las disposiciones fiscales no se tenga obligación de adherirlos, ambas en términos de lo dispuesto en el artículo 26-M, fracción II, de la Ley del Impuesto Especial sobre Producción y Servicios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER FRACCION I ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER FRACCIÓN I ARTÍCULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2974,11 +3034,13 @@ Son infracciones relacionadas con la obligación de garantizar el interés fisca
 
 A quien cometa las infracciones a que se refiere el artículo 86-C, se le impondrá una multa entre el 10% del crédito fiscal garantizado y $45,233.00. En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este artículo será menor de $4,523.00 ni mayor a $45,233.00.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 86-E.
 
-Son infracciones de los fabricantes, productores o envasadores de bebidas alcohólicas, bebidas alcohólicas fermentadas, cerveza y de tabacos labrados, según corresponda, no llevar el control físico a que se refiere el artículo 19, fracción X de la Ley del Impuesto Especial sobre Producción y Servicios o llevarlo en forma distinta a lo que establece dicha fracción.
+Son infracciones de los fabricantes, productores o envasadores de bebidas alcohólicas fermentadas, cerveza, bebidas refrescantes y de tabacos labrados, según corresponda, no llevar el control físico a que se refiere el artículo 19, fracción X de la Ley del Impuesto Especial sobre Producción y Servicios o llevarlo en forma distinta a lo que establece dicha fracción.
+
+Asimismo, son infracciones de los productores o envasadores de bebidas alcohólicas, no llevar los controles físico o volumétrico a que se refieren las fracciones V y VI del artículo 26-M de la Ley del Impuesto Especial sobre Producción y Servicios o llevarlos en forma distinta a lo que establecen dichas fracciones.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER FRACCIÓN I ARTÍCULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
 
@@ -3038,11 +3100,13 @@ Se sancionará con una multa de $15,078.00 a $30,155.00, a quien cometa las infr
 
 La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de $137.00 a $1,378.00.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 91-A.
 
-Son infracciones relacionadas con el dictamen de estados financieros que deben elaborar los contadores públicos de conformidad con el artículo 52 de este Código, el que el contador público que dictamina no observe la omisión de contribuciones recaudadas, retenidas, trasladadas o propias del contribuyente en el informe sobre la situación fiscal del contribuyente por el periodo que cubren los estados financieros dictaminados, cuando las autoridades fiscales en ejercicio de sus facultades de comprobación determinen dicha omisión mediante resolución y ésta quede firme.
+Son infracciones relacionadas con el dictamen de estados financieros que deben elaborar los contadores públicos de conformidad con el artículo 52 de este Código, el que el contador público que dictamina no observe la omisión de contribuciones recaudadas, retenidas, trasladadas o propias del contribuyente, en el informe sobre la situación fiscal del mismo, por el periodo que cubren los estados financieros dictaminados, cuando dichas omisiones se vinculen al incumplimiento de las normas de auditoría que regulan la capacidad, independencia e imparcialidad profesionales del contador público, el trabajo que desempeña y la información que rinda como resultado de los mismos, y siempre que la omisión de contribuciones sea determinada por las autoridades fiscales en ejercicio de sus facultades de comprobación mediante resolución que haya quedado firme.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 No se incurrirá en la infracción a que se refiere el párrafo anterior, cuando la omisión determinada no supere el 20% de las contribuciones recaudadas, retenidas o trasladadas, o el 30%, tratándose de las contribuciones propias del contribuyente.
 
@@ -3228,13 +3292,13 @@ Para determinar el valor de las mercancías y el monto de las contribuciones o c
 
 Será sancionado con las mismas penas del contrabando, quien:
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-I. Adquiera mercancía extranjera que no sea para su uso personal, la enajene o comercie con ella, sin la documentación que compruebe su legal estancia en el país, o sin el permiso previo de la autoridad federal competente, o sin marbetes tratándose de envases que contengan bebidas alcohólicas.
+I. Adquiera mercancía extranjera que no sea para su uso personal, la enajene o comercie con ella, sin la documentación que compruebe su legal estancia en el país, o sin el permiso previo de la autoridad federal competente, o sin marbetes o precintos tratándose de envases o recipientes, según corresponda, que contengan bebidas alcohólicas.
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-II. Tenga en su poder por cualquier título, mercancías extranjeras que no sean para su uso personal, sin la documentación o sin el permiso previo de la autoridad federal competente a que se refiere la fracción anterior, o sin marbetes tratándose de envases que contengan bebidas alcohólicas.
+II. Tenga en su poder por cualquier título, mercancías extranjeras que no sean para su uso personal, sin la documentación o sin el permiso previo de la autoridad federal competente a que se refiere la fracción anterior, o sin marbetes o precintos tratándose de envases o recipientes, según corresponda, que contengan bebidas alcohólicas.
 
 III. Ampare con documentación o factura auténtica, mercancía extranjera distinta de la que cubre la documentación expedida.
 
@@ -3456,7 +3520,9 @@ Se impondrá sanción de tres meses a seis años de prisión, al que dolosamente
 
 I. Altere o destruya los aparatos de control, sellos o marcas oficiales colocados con fines fiscales o impida que se logre el propósito para el que fueron colocados.
 
-II. Altere o destruya las máquinas registradoras de operación de caja en las oficinas recaudadoras, o al que tenga en su poder marbetes sin haberlos adquirido legalmente o los enajene, sin estar autorizado para ello.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+II. Altere o destruya las máquinas registradoras de operación de caja en las oficinas recaudadoras, o al que tenga en su poder marbetes o precintos sin haberlos adquirido legalmente o los enajene, sin estar autorizado para ello.
 
 III. Reproduzca o imprima los comprobantes impresos a que se refiere el artículo 29 de este Código, sin estar autorizado por la Secretaría de Hacienda y Crédito Público para imprimir comprobantes fiscales o cuando estando autorizado para ello, no se cuente con la orden de expedición correspondiente.
 
@@ -3632,6 +3698,10 @@ VII. Si son revocados los actos por la autoridad.
 
 VIII. Que hayan sido dictados por la autoridad administrativa en un procedimiento de resolución de controversias previsto en un tratado para evitar la doble tributación, si dicho procedimiento se inició con posterioridad a la resolución que resuelve un recurso de revocación o después de la conclusión de un juicio ante el Tribunal Fiscal de la Federación.
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+IX. Que sean resoluciones dictadas por autoridades extranjeras que determinen impuestos y sus accesorios cuyo cobro y recaudación hayan sido solicitados a las autoridades fiscales mexicanas, de conformidad con lo dispuesto en los tratados internacionales sobre asistencia mutua en el cobro de los que México sea parte.
+
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### Artículo 124-A.
@@ -3658,7 +3728,7 @@ Si la resolución dictada en el recurso de revocación se combate ante el Tribun
 
 Los procedimientos de resolución de controversias previstos en los tratados para evitar la doble tributación de los que México es parte, son optativos y podrán ser solicitados por el interesado con anterioridad o posterioridad a la resolución de los medios de defensa previstos por este Código. Los procedimientos de resolución de controversias son improcedentes contra las resoluciones que ponen fin al recurso de revocación o al juicio ante el Tribunal Fiscal de la Federación.
 
-(REUBICADO Y REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)
+REUBICADO Y (REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
 ###### Artículo 126.
 
@@ -3968,6 +4038,14 @@ En el supuesto del párrafo anterior, si el particular no presenta declaración 
 
 No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieran embargado bienes suficientes para garantizar el interés fiscal o cuando el contribuyente declare bajo protesta de decir verdad que son los únicos que posee. En el caso de que la autoridad compruebe por cualquier medio que esta declaración es falsa podrá exigir garantía adicional, sin perjuicio de las sanciones que correspondan. En todo caso, se observará lo dispuesto en el segundo párrafo del artículo 141 de este Código.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+También se suspenderá la ejecución del acto que determine un crédito fiscal cuando los tribunales competentes notifiquen a las autoridades fiscales sentencia de concurso mercantil dictada en términos de la ley de la materia y siempre que se hubiese notificado previamente a dichas autoridades la presentación de la demanda correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+Las autoridades fiscales continuarán con el procedimiento administrativo de ejecución a fin de obtener el pago del crédito fiscal, cuando en el procedimiento judicial de concurso mercantil se hubiere celebrado convenio estableciendo el pago de los créditos fiscales y éstos no sean pagados dentro de los 30 días siguientes a la celebración de dicho convenio o cuando no se dé cumplimiento al pago con la prelación establecida en este Código. Asimismo, las autoridades fiscales podrán continuar con dicho procedimiento cuando se inicie la etapa de quiebra en el procedimiento de concurso mercantil en los términos de la ley correspondiente.
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
 En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante la Sala del Tribunal Fiscal de la Federación que conozca del juicio respectivo u ocurrir al superior jerárquico de la autoridad ejecutora, si se está tramitando recurso, acompañando los documentos en que conste el medio de defensa hecho valer y el ofrecimiento o, en su caso otorgamiento de la garantía del interés fiscal. El superior jerárquico aplicará en lo conducente las reglas establecidas por este Código para el citado incidente de suspensión de la ejecución.
@@ -3978,7 +4056,7 @@ En caso de negativa o violación a la suspensión del procedimiento administrati
 
 #### Sección Segunda. Del embargo
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 145.
 
@@ -4016,9 +4094,11 @@ El crédito fiscal se extingue por prescripción en el término de cinco años.
 
 El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en los recursos administrativos. El término para que se consume la prescripción se interrumpe con cada gestión de cobro que el acreedor notifique o haga saber al deudor o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
 
-Los particulares podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+Cuando se suspenda el procedimiento administrativo de ejecución en los términos del artículo 144 de este Código, también se suspenderá el plazo de la prescripción.
+
+Los particulares podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -4035,6 +4115,18 @@ Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán 
 La Secretaría de Hacienda y Crédito Público dará a conocer las reglas de carácter general para la aplicación de este artículo.
 
 La cancelación de los créditos a que se refiere este artículo no libera de su pago.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 146-B.
+
+Tratándose de contribuyentes que se encuentren sujetos a un procedimiento de concurso mercantil, las autoridades fiscales podrán condonar parcialmente los créditos fiscales relativos a contribuciones que debieron pagarse con anterioridad a la fecha en que se inicie el procedimiento de concurso mercantil, siempre que el comerciante haya celebrado convenio con sus acreedores en los términos de la Ley respectiva y de acuerdo con lo siguiente:
+
+I. Cuando el monto de los créditos fiscales represente menos del 60% del total de los créditos reconocidos en el procedimiento concursal, la condonación no excederá del beneficio mínimo de entre los otorgados por los acreedores que, no siendo partes relacionadas, representen en conjunto cuando menos el 50% del monto reconocido a los acreedores no fiscales.
+
+II. Cuando el monto de los créditos fiscales represente más del 60% del total de los créditos reconocidos en el procedimiento concursal, la condonación, determinada en los términos del inciso anterior, no excederá del monto que corresponda a los accesorios de las contribuciones adeudadas.
+
+La autorización de condonación deberá sujetarse a los requisitos y lineamientos que establezca el reglamento de este Código.
 
 ###### Artículo 147.
 
@@ -4118,7 +4210,7 @@ Cuando las autoridades fiscales ordenen la práctica de un avalúo, y éste resu
 
 ###### Artículo 151.
 
-Las autoridades fiscales, para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán de pago al deudor y, en caso de no hacerlo en el acto, procederán como sigue:
+Las autoridades fiscales, para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán de pago al deudor y, en caso de que éste no pruebe en el acto haberlo efectuado, procederán de inmediato como sigue:
 
 > <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
 
@@ -4576,6 +4668,10 @@ II. Cuando el embargado efectúe el pago del crédito fiscal u obtenga resoluci�
 
 III. Se trate de bienes muebles que no hubieren sido rematados después de transcurridos dieciocho meses de practicado el embargo y respecto de los cuales no se hubiere interpuesto ningún medio de defensa.
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+IV. Se trate de bienes que por cualquier circunstancia se encuentren en depósito o en poder de la autoridad y los propietarios de los mismos no los retiren dentro de dos meses contados a partir de la fecha en que se pongan a su disposición.
+
 Se entenderá que los bienes se encuentran a disposición del interesado, a partir del día siguiente a aquél en que se le notifique la resolución correspondiente.
 
 Cuando los bienes embargados hubieran causado abandono, las autoridades fiscales notificarán personalmente o por correo certificado con acuse de recibo a los propietarios de los mismos, que ha transcurrido el plazo de abandono y que cuentan con quince días para retirar los bienes, previo pago de los derechos de almacenaje causados. En los casos en que no se hubiera señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará a través de estrados.
@@ -4715,6 +4811,10 @@ XIV. En los demás casos en que la improcedencia resulte de alguna disposición 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 XV. Que hayan sido dictados por la autoridad administrativa en un procedimiento de resolución de controversias previsto en un tratado para evitar la doble tributación, si dicho procedimiento se inició con posterioridad a la resolución que recaiga a un recurso de revocación o después de la conclusión de un juicio ante el Tribunal Fiscal de la Federación.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+XVI. Que sean resoluciones dictadas por autoridades extranjeras que determinen impuestos y sus accesorios cuyo cobro y recaudación hayan sido solicitados a las autoridades fiscales mexicanas, de conformidad con lo dispuesto en los tratados internacionales sobre asistencia mutua en el cobro de los que México sea parte.
 
 (ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
@@ -5102,7 +5202,7 @@ La acumulación se tramitará ante el magistrado instructor que esté conociendo
 
 Las solicitudes de acumulación notoriamente infundadas, se desecharán de plano.
 
-Una vez decreta la acumulación, la sala que conozca del juicio más reciente, deberá enviar los autos a la que conoce el primer juicio, en un plazo que no excederá de seis días. Cuando la acumulación se decrete en una misma sala, se turnarán los autos al magistrado que conoce el juicio más antiguo.
+Una vez decretada la acumulación, la sala que conozca del juicio más reciente, deberá enviar los autos a la que conoce el primer juicio, en un plazo que no excederá de seis días. Cuando la acumulación se decrete en una misma sala, se turnarán los autos al magistrado que conoce el juicio más antiguo.
 
 > <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
 
@@ -6443,3 +6543,19 @@ Estos nuevos formatos dejan sin efectos a las formas oficiales 1, 1-B, 1S, 1-A y
 D.O.F. 30 DE JUNIO DE 1999.
 
 Unico.- La presente Resolución entrará en vigor el 1o. de julio de 1999.
+
+D.O.F. 31 DE DICIEMBRE DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+Disposiciones Transitorias del Código Fiscal de la Federación.
+
+Artículo Segundo. En relación con las modificaciones a que se refiere el Artículo Primero de esta Ley, se estará a lo siguiente:
+
+I. Las cantidades que se contienen en el artículo 82, fracciones XI y XVII del Código Fiscal de la Federación, se entienden actualizadas al mes de enero del año 2000, debiéndose actualizar en el mes de julio del citado año de conformidad con el artículo 17-B del citado ordenamiento.
+
+II. Para efectos del artículo 27, penúltimo párrafo del Código Fiscal de la Federación, los contribuyentes que a la entrada en vigor de la presente Ley cuenten con establecimientos, sucursales, locales, puestos fijos o semifijos, para la realización de actividades empresariales, o con lugares en donde almacenen mercancías, deberán presentar el aviso de apertura de dichos lugares, a más tardar el 31 de marzo del año 2000.
+
+## TRANSITORIO
+
+Único. La presente Ley entrará en vigor el 1o. de enero de 2000.
