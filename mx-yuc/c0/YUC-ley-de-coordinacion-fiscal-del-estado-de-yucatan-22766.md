@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-coordinacion-fiscal-del-estado-de-yucatan-22766"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2001-12-28"
+last_updated: "2003-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DICIEMBRE DE 2003.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2001.
 
@@ -91,27 +91,37 @@ El factor que a cada Municipio corresponda del total de los recursos resultantes
 
 I.- El 65.5% se distribuirá entre los Municipios, en proporción directa al número de habitantes que cada uno tenga conforme a la última información oficial publicada por el Instituto Nacional de Estadística, Geografía e Informática (INEGI).
 
-II.- El 4.5% se distribuirá entre los Municipios con base en el Índice de Esfuerzo Recaudatorio del impuesto predial y de las cuotas por servicio de agua potable que se obtuvo en cada Municipio.
+> <small>(REFORMADA, D.O. 30 DICIEMBRE DE 2003)</small>
 
-El índice de Esfuerzo Recaudatorio resultará de la división entre la diferencia de lo recaudado en el último ejercicio fiscal anual por concepto de impuesto predial y el servicio de agua potable y lo recaudado en el ejercicio anual correspondiente a dos años inmediatos anteriores en los mismos rubros, entre la sumatoria de los mencionados aumentos de todos los municipios; para aquellos municipios que presenten un incremento negativo, se aplica un valor cero. Lo anterior queda expresado en la siguiente fórmula:
+II.- El 4.5% se distribuirá entre los municipios con base en el Índice de Esfuerzo Recaudatorio del impuesto predial y de las cuotas por servicio de agua potable que se obtuvo en cada Municipio.
 
-Mi
+El Índice de Esfuerzo Recaudatorio resultará de la suma de los tres factores ponderados que representen el importe recaudado en los tres últimos ejercicios fiscales anuales por concepto de impuesto predial y de las cuotas por el servicio de agua potable que cada municipio obtenga en relación con la sumatoria de lo recaudado por los ciento seis municipios en cada uno de los tres años inmediatos anteriores al actual. Los porcentajes de ponderación para cada año son:
 
-Mi
+- Para el tercer año inmediato anterior al actual 33%
 
-Fi = EMi
+- Para el segundo año inmediato anterior al actual 33%
 
-Mi = Ri - Li
+- Para el año inmediato anterior al actual 34%
+
+Lo anterior queda expresado en la siguiente fórmula:
+
+Fi=(Li3/EL3)33%+(Li2/EL2)33%+(Li1/EL1)34%
 
 En donde:
 
-Fi = Índice de esfuerzo recaudatorio del Municipio i;
+Fi = Índice de Esfuerzo Recaudatorio del Municipio;
 
-Mi= Aumento de recaudación entre Ri y Li; Si Mi es menor a cero se tomará con valor 0
+Li3 = Recaudación del impuesto predial y de las cuotas por servicio de agua potable correspondiente al tercer año inmediato anterior al actual del municipio i;
 
-Ri = Recaudación del impuesto predial y de las cuotas por servicio de agua potable en el último ejercicio anual anterior del Municipio i;
+3L3 = Sumatoria de las recaudaciones del impuesto predial y de las cuotas por servicio de agua potable correspondiente al tercer año inmediato anterior al actual de los cientos seis municipios.
 
-Li = Recaudación del impuesto predial y de las cuotas por servicio de agua potable, en el ejercicio anual correspondiente a dos años inmediatos anteriores del Municipio i;
+Li2 = Recaudación del impuesto predial y de las cuotas por servicio de agua potable correspondiente al segundo año inmediato anterior al actual del municipio i;
+
+EL2 = Sumatoria de las recaudaciones del impuesto predial y de las cuotas por servicio de agua potable correspondiente al segundo año inmediato anterior al actual de los cientos seis municipios;
+
+Li1 = Recaudación del impuesto predial y de las cuotas por servicio de agua potable correspondiente al año inmediato anterior al actual del municipio i;
+
+EL1 = Sumatoria de las recaudaciones del impuesto predial y de las cuotas por servicio de agua potable correspondiente al año inmediato anterior al actual de los ciento seis municipios.
 
 III. El 2% se distribuirá con base en el porcentaje de recaudación del impuesto predial y de cuotas de agua potable que obtuvo cada municipio en el año inmediato anterior con respecto a la captación total de estos conceptos de todos los municipios del estado.
 
@@ -272,3 +282,9 @@ SECRETARIO DE HACIENDA
 ING. ALBERTO REYES CARRILLO
 
 CRETARIO (SIC) DE PLANEACION Y PRESUPUESTO
+
+> <small>N. DE E. A CONTINUACION SE TRASCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 30 DE DICIEMBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor el uno de enero del año dos mil cuatro, previa su publicación en el Diario Oficial del Estado de Yucatán.
