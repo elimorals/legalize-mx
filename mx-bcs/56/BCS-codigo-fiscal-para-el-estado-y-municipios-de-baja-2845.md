@@ -4,7 +4,7 @@ identifier: "BCS-codigo-fiscal-para-el-estado-y-municipios-de-baja-2845"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-02-28"
-last_updated: "1990-12-20"
+last_updated: "1997-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO FISCAL PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 28 de febrero de 1987.
 
@@ -77,39 +77,55 @@ Son productos los ingresos que el Estado o Municipios perciben derivados de la e
 
 Son aprovechamientos los ingresos que el Estado o Municipios perciben y que no pueden ser catalogados como impuestos, participaciones, contribuciones especiales, derechos o productos.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 9o.
 
-La recaudación proveniente de todos los conceptos previstos en el Artículo 1o. de este Código, aun cuando se destinen a fines específicos se hará en las Oficinas exactoras de la Secretaría de Finanzas del Estado, Tesorerías Municipales o en las instituciones de crédito autorizadas al efecto.
+La recaudación proveniente de todos los conceptos previstos en el Artículo 1 de este Código, aun cuando se destinen a fines específicos se hará en las Oficinas Recaudadores de la Secretaría de Finanzas y Administración del Estado, Tesorería Municipales o en las instituciones de crédito autorizadas al efecto.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 10.
 
-Las disposiciones convenidas en esta Ley, serán ejercidas por el Ejecutivo Estatal y los Ayuntamientos en los términos que la misma Ley establece y son autoridades fiscales:
+Las disposiciones convenidas en esta Ley, serán ejercidas por el Ejecutivo Estatal y los Ayuntamientos en los términos que la misma señala y tendrán el carácter de autoridades fiscales:
 
 I.- DEL ESTADO.
 
 a).- El Gobernador del Estado.
 
-b).- El Secretario de Finanzas del Estado.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+b) El Secretario de Finanzas y Administración.
 
 c).- El Sub-Secretario de Finanzas del Estado.
 
 d).- Director de Ingresos.
 
-e).- Los Jefes de Departamento de la Dirección de Ingresos.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+e) Los Subdirectores y Jefes de Departamento de la Dirección de Ingresos.
 
-f).- El Director de Auditoría Fiscal.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
 
-g).- Los Receptores de Rentas.
+f) Los Recaudadores de Rentas.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+g) El Director de Auditoría Fiscal.
 
 h).- Los Agentes Fiscales.
 
-i).- Y a quién el Secretario de Finanzas Estatal delegue facultades.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
 
-II.- MUNICIPALES.
+i) La Unidad Jurídica Fiscal de la Secretaría de Finanzas y Administración; y
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+j) A quien el Secretario de Finanzas y Administración delegue facultades conforme al Reglamento Interior de esa Secretaría.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+II.- DEL MUNICIPIO:
 
 a).- Los Ayuntamientos.
 
@@ -131,9 +147,11 @@ En los plazos sobre vigencia y demás disposiciones a que este Artículo se refi
 
 No podrá exigirse el pago de tributo alguno que no se encuentre previsto en la Ley de Hacienda del Estado o Municipios, en la Ley de Ingresos o en una Ley Especial.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 12.
 
-La aplicación e interpretación de las Leyes y demás disposiciones fiscales estará a cargo del Poder Ejecutivo y Presidente Municipal respectivamente, quienes ejercerán estas facultades por conducto de la Secretaría de Finanzas y demás autoridades administrativas que prevengan las Leyes respectivas.
+La aplicación e interpretación de las leyes y demás disposiciones fiscales estará a cargo del Titular del Poder Ejecutivo y del Presidente Municipal respectivamente, quienes ejercerán estas facultades por conducto de la Secretaría de Finanzas y Administración, los Tesoreros Municipales y demás autoridades administrativas que prevengan las Leyes respectivas.
 
 ###### ARTICULO 13.
 
@@ -229,9 +247,11 @@ III.- A la fecha de la celebración u otorgamiento de contratos o concesiones qu
 
 La falta de pago de un crédito fiscal en la fecha o plazo establecido en las disposiciones respectivas, determina que el crédito sea exigible.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 24.
 
-El Secretario de Finanzas podrá conceder prorroga para el pago de los créditos fiscales o autorización para que los mismos sean cubiertos en parcialidades, cuando se trate de situaciones excepcionales, casos en los cuales el término podrá ser hasta de tres años.
+El Secretario de Finanzas y Administración y los Tesoreros Municipales podrán conceder prórroga para el pago de los créditos fiscales o autorización para que los mismos sean cubiertos en parcialidades, cuando se trate de situaciones excepcionales, casos en los cuales el término podrá ser hasta de tres años.
 
 ###### ARTICULO 25.
 
@@ -285,15 +305,19 @@ III.- Los impuestos contribuciones especiales, derechos, productos y aprovechami
 
 Podrá hacerse el pago de créditos fiscales bajo protesta cuando la persona que lo haga lo entere con inconformidad e intente, en su oportunidad, los recursos o medios.
 
-Las autoridades, a solicitud del interesado expresada en el momento de hacer el pago, deberán hacer constar que el pago, se hizo bajo protesta, a falta de esta constancia, bastará que el interesado, previa o simultáneamente al pago, exprese por escrito a la oficina receptora o a la Secretaría de Finanzas que el pago se efectúo bajo protesta.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+Las autoridades, a solicitud del interesado expresada en el momento de hacer el pago, deberán hacer constar que el pago se hizo bajo protesta, a falta de esta constancia, basta que el interesado previa o simultáneamente al pago, exprese por escrito a la oficina Recaudadora o a la Secretaría de Finanzas y Administración o a la Tesorería Municipal correspondiente, que el pago se efectuó bajo protesta.
 
 ###### ARTICULO 32.
 
 La protesta quedará sin efecto y el pago se considerará definitivo desde la fecha en que se hizo el entero respectivo, cuando no se intenten los recursos o medios de defensa respectivos, o fueren rechazados, o sobreseidos, o cuando de la resolución que se dicte resultare la procedencia del pago.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 33.
 
-El fisco estará obligado a devolver las cantidades que hubieren sido pagadas indebidamente, cuando se satisfagan las reglas que siguen:
+Las Autoridades Fiscales estarán obligadas a devolver las cantidades que hubieren sido pagadas indebidamente, cuando se satisfagan las reglas que siguen:
 
 I.- Que el pago de lo indebido haya tenido su origen en una autodeterminación del sujeto pasivo.
 
@@ -317,11 +341,13 @@ I.- Que se dicte acuerdo de las Autoridades Fiscales.
 
 II.- Que el derecho a reclamar la devolución no se haya extinguido.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 37.
 
-Procede la compensación cuando tanto el sujeto activo como el sujeto pasivo son acreedores y deudores recíprocos por la aplicación de un mismo gravamen, contrato o concesión y siempre que las deudas del primero sean liquidadas y exigibles. La compensación deberá autorizarse por la Secretaría de Finanzas o Tesorerías Municipales a petición del interesado.
+Procede la compensación cuando tanto el sujeto activo como el sujeto pasivo son acreedores y deudores recíprocos por la aplicación de un mismo gravamen, contrato o concesión y siempre que las deudas del primero sean liquidadas y exigibles. La compensación deberá autorizarse por la Secretaría de Finanzas y Administración o Tesorerías Municipales a petición del interesado.
 
-Cuando los créditos y las deudas no procedan de la aplicación de los mismos gravámenes, contratos o concesiones, la Secretaría de Finanzas, Tesorerías Municipales, apreciarán discrecionalmente la conveniencia de autorizar la compensación.
+Cuando los créditos y las deudas no procedan de la aplicación de los mismos gravámenes, contratos o concesiones, la Secretaría de Finanzas y Administración y las Tesorerías Municipales, apreciarán discrecionalmente la conveniencia de autorizar la compensación.
 
 ###### ARTICULO 38.
 
@@ -333,9 +359,11 @@ El Gobernador del Estado o Presidente Municipal respectivamente, mediante dispos
 
 Las multas que hubieren quedado firmes deberán ser condonadas totalmente si por pruebas diversas de las presentadas ante las autoridades administrativas o jurisdiccionales, en su caso, se demuestre que no se cometió la infracción o que la persona a la que se atribuye no es la responsable.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 40.
 
-Las multas por infracción a las disposiciones fiscales podrán ser condonadas parcialmente por el Secretario de Finanzas o Tesorero Municipal, quién apreciará discrecionalmente los motivos que tuvo la autoridad que impuso la sanción y las demás circunstancias del caso.
+Las multas por infracción a las disposiciones fiscales podrán ser condonadas parcialmente por el Secretario de Finanzas y Administración o Tesorero Municipal, quienes apreciarán discrecionalmente los motivos que tuvo la autoridad que impuso la sanción y las demás circunstancias del caso.
 
 ###### ARTICULO 41.
 
@@ -397,23 +425,31 @@ Toda consulta o petición que se formule a las autoridades deberá ser resuelta 
 
 Las resoluciones a los particulares no podrán ser revocadas o nulificadas por las autoridades en perjuicio de los interesados.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 51.
 
-Los sujetos que habitualmente tengan obligación de pagar, de retener o de recaudar impuestos, deberán inscribirse en el Registro de Contribuyentes o de Empadronamiento de la Secretaría de Finanzas, dentro de los diez días hábiles siguientes al inicio de sus actividades, salvo que las leyes fiscales señalen otro plazo.
+Las personas morales y las personas físicas con domicilio fiscal en el Estado y que realicen cualquier actividad empresarial, entendiendo por empresarial entre otras, a las comerciales, industriales, agrícolas, ganaderas, pesqueras, silvícolas; así como otras actividades, tales como prestadores de servicios, profesionistas y arrendadores de bienes muebles e inmuebles estarán obligados a inscribirse en el Registro de Contribuyentes, dentro de los quince días hábiles siguientes al inicio de sus actividades, salvo que las Leyes Fiscales señalen otro plazo. Al efectuar este registro se deberá proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, mediante los formatos que para tal efecto autoricen las autoridades competentes.
 
 Quedan exceptuados de la obligación de inscribirse los sujetos a que alude el Artículo 17 de este Código, sin menoscabo de la obligación de retener o de recaudar créditos fiscales en los casos que lo dispongan las Leyes.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 52.
 
-Quienes deban registrarse lo harán en las Oficinas Recaudadoras de Rentas de su jurisdicción, las que deberán proporcionarles sus cédulas de registro expedida por la Secretaría de Finanzas y Tesorería Municipal.
+Quienes deban registrarse lo harán en las Oficinas Recaudadoras de Rentas de su Jurisdicción, las que deberán proporcionarles sus cédulas de registro expedida por la Secretaría de Finanzas y Administración y Tesorería Municipal.
 
 La cédula de registro que se les otorgue deberá estar colocada en lugar visible del establecimiento y a falta de éste conservarse en el domicilio del interesado, debiendo citarse en toda promoción que se haga ante las autoridades fiscales.
 
-La Secretaría de Finanzas, conforme a disposiciones reglamentarias, tendrá a su cargo el registro de los sujetos pasivos y de los responsables solidarios, conforme a la técnica que considere adecuada.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+La Secretaría de Finanzas y Administración y las Tesorerías Municipales conforme a las disposiciones reglamentarias, tendrá a su cargo el registro de los sujetos pasivos y de los responsables solidarios, conforme a la técnica que consideren adecuada.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 53.
 
-Los sujetos pasivos y los responsables solidarios darán aviso a la Secretaría de Finanzas y Tesorería Municipal, por conducto de las Oficinas Recaudadoras de su jurisdicción, dentro de los diez días siguientes a aquel en que ocurran los siguientes cambios.
+Los sujetos pasivos y los responsables solidarios darán aviso a la Secretaría de Finanzas y Administración y la Tesorería Municipales por conducto de las Oficinas Recaudadoras de su jurisdicción, cuando ocurran los siguientes cambios:
 
 I.- Del domicilio, excepción hecha de quienes solo causen impuestos que deban ser retenidos y recaudados.
 
@@ -422,6 +458,10 @@ II.- De razón o denominación social, al que acompañarán copia de la escritur
 III.- De sus actividades cuando aumenten o disminuyan el giro de las mismas.
 
 IV.- De traspaso de la negociación, clausura definitiva, liquidación o cesación.
+
+> <small>(ADICIONADO. 20 DE DICIEMBRE DE 1997)</small>
+
+Cuando el aviso se presente ante la Secretaría de Finanzas y Administración, éste se deberá exhibir dentro de los quince días siguientes a aquél en que ocurran los cambios señalados. Si el aviso se presente ante la Tesorería Municipal, deberá exhibirse dentro de los 30 días siguientes a aquél en que ocurran los cambios.
 
 ###### ARTICULO 54.
 
@@ -439,7 +479,7 @@ Los avisos, declaraciones o manifestaciones se harán en las formas oficiales qu
 
 Los sujetos pasivos están obligados a llevar los libros de contabilidad y registro, que satisfagan las siguientes reglas:
 
-I.- Los registros contables previamente a su utilización, deberán estar autorizados por la Secretaría de Finanzas y Tesorería Municipal.
+I.- (DEROGADA, B.O. 20 DE DICIEMBRE DE 1997)
 
 II.- Los asientos en la contabilidad deberán efectuarse dentro de los sesenta días siguientes a la fecha en que se realicen las operaciones respectivas.
 
@@ -453,25 +493,31 @@ Los sujetos pasivos que están obligados a llevar libros de contabilidad y regis
 
 ### CAPITULO SEGUNDO. DE LAS AUTORIDADES
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 58.
 
-La Secretaría de Finanzas promoverá la colaboración de los organismos de contribuyentes y de los Colegios de Profesionistas para el estudio de los problemas de carácter general que aquejan a los particulares en el cumplimiento de sus obligaciones fiscales y buscar la solución a los mismos.
+La Secretaría de Finanzas y Administración, promoverá la colaboración de los organismos empresariales y profesionales para el estudio de los problemas de carácter general que aquejan a los contribuyentes en el cumplimiento de sus obligaciones fiscales y buscar la solución de los mismo (sic).
 
-Para este fin se crea el Comité de Contribuyentes que tendrá a su cargo plantear dichos problemas y formular sugerencias en materia fiscal, el cual estará integrado por un representante de todas las Cámaras Nacionales de Comercio del Estado, por un representante de todas las Cámaras Nacionales de las Industrias de Transformación del Estado, por un representante de todas las Asociaciones del Estado, Cámaras Nacionales del Pequeño Comercio del Estado, por un representante de todos los Colegios de Profesionistas del Estado, por representante de todas las Asociaciones Agrícolas del Estado, por un representante de todas las Asociaciones Ganaderas del Estado y por un representante de los Asalariados designado entre ellos mismos o en su caso a través del Procurador de la Defensa del Trabajo del Estado. Por cada representante Propietario se designará un Suplente. Al inicio de cada ejercicio fiscal deberá el Comité designar al representante que fungirá como Presidente del mismo.
+Para este fin, se crea el Comité de Contribuyentes que tendrá a su cargo plantear dichos problemas y formular sugerencias en materia fiscal, el cual estará integrado por el Secretario de Finanzas y Administración, el Subsecretario de Finanzas y Administración, el Director de Ingresos y el Director de Auditoría Fiscal, un representante de los Municipios del Estado, un representante de cada una de las Cámaras Comerciales, Industriales y de Servicios del Estado, debidamente constituidos, por un representante del Colegio de Contadores Públicos de Baja California Sur, A.C., y por un representante del Colegio de Abogados, A.C.
 
-Los representantes de las Cámaras Nacionales de Comercio, de las Industrias de Transformación, del Pequeño Comercio, de las Asociaciones Agrícolas y Ganaderas, serán nombrados por los propios organismos interesados.
+Los representantes propietarios y suplentes de todas las Cámaras y Colegios profesionales, serán nombrados por los propios organismos.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 59.
 
-Queda facultada la Secretaría de Finanzas para cerciorarse del cumplimiento de las obligaciones fiscales y determinar, si es el caso, los créditos fiscales omitidos, para esos fines, podrá:
+Queda facultada la Secretaría de Finanzas y Administración y las Tesorerías Municipales, para cerciorarse del cumplimiento de las obligaciones fiscales y determinar, si es el caso, los créditos fiscales omitidos, para esos fines, podrá:
 
 I.- Practicar visitas domiciliarias a los sujetos pasivos y responsables solidarios, para la revisión de su contabilidad y su documentación relacionada con las operaciones gravadas. Y
 
 II.- Solicitar a los sujetos pasivos, responsables solidarios o terceros, información relacionada con el cumplimiento de obligaciones fiscales.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 60.
 
-La Secretaría de Finanzas del Estado para hacer cumplir sus determinaciones, podrá aplicar multa de apremio de uno a diez veces el Salario Mínimo General de la Zona y si persiste el desacato, podrá consignar los hechos ante el Ministerio Público, por desacato a un mandato legítimo de autoridad competente.
+La Secretaría de Finanzas y Administración y las Tesorerías municipales, para hacer cumplir sus determinaciones podrá (sic) aplicar como medida de apremio de uno a diez veces el salario mínimo general de la zona y si se persiste el desacato, podrá (sic) consignar los hechos ante el Ministerio Público, por desacato de un mandato legítimo de autoridad competente.
 
 ###### ARTICULO 61.
 
@@ -499,13 +545,15 @@ IV.- Cuando se lleve doble juego de libros de contabilidad o registro con anotac
 
 V.- Lo dispuesto en este precepto no modifica los procedimientos para determinar o estimar la situación fiscal de los sujetos pasivos que contienen otras disposiciones fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 63.
 
-Para verificar el cumplimiento de las obligaciones fiscales a cargo de los sujetos pasivos o responsables solidarios, la Secretaría de Finanzas ordenará la práctica de visitas domiciliarias, las que se sujetarán a lo siguiente:
+Para verificar el cumplimiento de las obligaciones fiscales a cargo de los sujetos pasivos o responsables solidarios, la Secretaría de Finanzas y Administración y las Tesorerías Municipales, ordenarán la práctica de visitas domiciliarias, las que se sujetarán a lo siguiente:
 
-I.- La orden de visita deberá estar firmada por el Secretario o SubSecretario de Finanzas, que expresará:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+I.- La orden de visita deberá estar firmada por el Secretario de Finanzas y Administración y en su caso por el Tesorero Municipal, la que expresará:
 
 a).- El nombre de la persona que debe recibir la visita y el lugar donde ésta debe llevarse a cabo. Cuando se ignore el nombre de la persona que deba ser visitada se señalarán datos suficientes que permitan su identificación.
 
@@ -517,7 +565,9 @@ II.- Al iniciarse la visita se entregará la orden al visitado o a su representa
 
 III.- Los libros, registros y documentos serán examinados en el domicilio, establecimiento o dependencia del visitado.
 
-Para tal efecto el visitado deberá mantenerlos a disposición de los visitadores desde el momento de la iniciación de la visita hasta su terminación. La Secretaría de Finanzas, tomará las medidas necesarias para el cumplimiento de este precepto.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+Para tal efecto el visitado deberá mantenerlos a disposición de los visitadores desde el momento de la iniciación de la visita hasta su terminación. La Secretaría de Finanzas y Administración y las Tesorerías Municipales, tomarán las medidas necesarias para el cumplimiento de este precepto.
 
 Los libros, registros y documentos, sólo podrán recogerse:
 
@@ -531,19 +581,21 @@ V.- El visitado o la persona con la que se entiende la diligencia, los testigos 
 
 VI.- Con las mismas formalidades indicadas en la Fracción anterior, se levantarán actas parciales o complementarias para hacer constar hechos concretos en el curso de una visita o después de una conclusión. Y
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1997)</small>
 
-VII.- El visitado o quien lo represente, deberá expresar dentro de los 45 días siguientes al cierre del Acta Final, ante la Secretaría de Finanzas, las razones de su inconformidad, expresados en forma circunstanciada; ofreciendo las pruebas pertinentes, las que deberán rendir simultáneamente a su inconformidad. El plazo para rendir pruebas podrá ampliarse a instancia del interesado a juicio de la Secretaría de Finanzas. En caso de que no se ofrezcan pruebas, se perderá el derecho de hacerlo posteriormente y se tendrá al visitado conforme con los hechos asentados en el Acta Final.
+VII.- El visitado o quien lo represente, deberá expresar dentro de los 45 días siguientes al cierre del Acta final, ante la Secretaria de Finanzas y Administración, las razones de su inconformidad, expresadas en forma circunstanciada; ofreciendo las pruebas pertinentes, las que deberán rendir simultáneamente a su inconformidad. El plazo para rendir pruebas podrá ampliarse a instancia del interesado a juicio de la Secretaría de Finanzas y Administración o de las Tesorerías Municipales, en caso de que no ofrezcan pruebas se perderá el derecho de hacerlo posteriormente y se tendrá al visitado conforme con los hechos asentados en el Acta Final.
 
 ###### ARTICULO 64.
 
 Los hechos afirmados en los dictámenes que formulen Contadores Públicos sobre los estados financieros y su relación con las declaraciones fiscales se presumirán ciertos, salvo prueba en contrario, si se reúnen los siguientes requisitos:
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1997)</small>
 
-I.- Que el Contador Público que dictamine, esté registrado en la Dirección de Auditoría Fiscal de la Secretaría de Finanzas; se inscribirán para estos efectos, a las personas que tengan título de Contador Público registrado en la Dirección de Profesiones de la Secretaría de Educación Pública o en la Dirección de Educación Pública del Estado.
+I.- Que el Contador Público que dictamine esté registrado en la Dirección de Auditoría Fiscal de la Secretaría de Finanzas y Administración. Se inscribirán para estos efectos a personas que tengan título de Contador Público registrado en la Dirección de Profesiones de la Secretaría de Educación Pública o en la Dirección de Educación Pública del Estado.
 
-II.- Que el dictamen se formule de acuerdo con las disposiciones fiscales y, en su defecto, conforme a las normas y procedimientos de Auditoría Generalmente aceptados. La Secretaría de Finanzas, podrá cerciorarse mediante revisión o pruebas selectivas del cumplimiento de esta Fracción.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+II.- Que el dictamen se formule de acuerdo con las disposiciones fiscales y, en su defecto, conforme a las Normas y Procedimientos de Auditoria Generalmente aceptados. La Secretaría de Finanzas y Administración, podrá cerciorarse mediante revisión o pruebas selectivas del cumplimiento de esta Fracción.
 
 Las opiniones o interpretaciones contenidas en los dictámenes, no obligan a las autoridades fiscales, las que podrán ejercer directamente sus facultades de vigilancia y comprobarán sobre los sujetos pasivos o responsables solidarios y expedir las liquidaciones de impuestos omitidos que correspondan.
 
@@ -571,9 +623,11 @@ Los interesados podrán autorizar por escrito, en cada caso, a persona que en su
 
 Las personas que tengan o hayan tenido relaciones de negocios con sujetos pasivos o responsables solidarios, están obligados a exhibir ante las autoridades fiscales los asientos de su contabilidad, la documentación y la correspondencia que se refiere a las operaciones realizadas con aquellos, así como a proporcionar toda información que en relación con dichas personas se les solicite.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 69.
 
-Las autoridades que tengan o hayan tenido relaciones con alguno o algunos de los sujetos pasivos o responsables solidarios, deberán auxiliar a la Secretaría de Finanzas, suministrándole los informes y datos que solicite para la aplicación de las Leyes Fiscales.
+Las autoridades que tengan o hayan tenido relaciones con alguno o algunos de los sujetos pasivos o responsables solidarios, deberán proporcionar a la Secretaría de Finanzas y Administración o a las Tesorerías Municipales, los informes y datos que soliciten ara (sic) la aplicación de las Leyes Fiscales.
 
 ###### ARTICULO 70.
 
@@ -607,7 +661,7 @@ VIII.- Permitir sacar o mandar sacar de las fábricas, almacenes, bodegas, o de 
 
 IX.- Transportar o almacenar productos o efectos gravados por las Leyes Fiscales, sin haber cumplido con las disposiciones que para esos casos establezcan esas Leyes.
 
-X.- No presentar para su autorización o hacerlo extemporáneamente, los libros o sistemas de contabilidad, cuando lo exijan las disposiciones fiscales.
+X.- (DEROGADA, B.O. 20 DE DICIEMBRE DE 1997)
 
 XI.- No llevar los sistemas de contabilidad que requieran las disposiciones fiscales; llevarlos en forma distinta a como éstas disponen; no hacer los asientos correspondientes a las operaciones efectuadas, hacerlos incompletos o inexactos o fuera de los plazos respectivos.
 
@@ -633,9 +687,9 @@ XXI.- Declarar ingresos menores de los percibidos; hacer deducciones falsas; ocu
 
 XXII.- Resistirse por cualquier medio a las visitas de inspección; no suministrar los datos e informes que legalmente puedan exigir los inspectores; no mostrar los sistemas de contabilidad, documentos, registros o impedir el acceso a los almacenes, depósitos, bodegas o cualquiera otra dependencia, y en general, negarse a proporcionar los elementos que se requieren para comprobar la situación fiscal del visitado, en relación con el objeto de la visita. Y
 
-> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1997)</small>
 
-XXIII.- No obtener la licencia correspondiente a su giro o actividad, dentro de los primeros diez días de inicio de sus actividades o el refrendo del mismo en el mes de enero de los años subsecuentes; y
+XXIII.- No obtener la licencia correspondiente a su giro o actividad, o el refrendo del mismo de acuerdo a los plazos que señalen en las Leyes Fiscales.
 
 > <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
@@ -723,11 +777,15 @@ XVI.- No prestar a las autoridades fiscales el auxilio necesario para la determi
 
 XVII.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 74.
 
-La imposición de las sanciones administrativas por infracción a las disposiciones fiscales compete al Secretario de Finanzas o Tesoreros Municipales.
+La imposición de las sanciones administrativas por infracción a las disposiciones fiscales compete al Secretario de Finanzas y Administración o Tesoreros Municipales.
 
-Los funcionarios y empleados públicos, que en ejercicio de sus funciones conozcan de hechos u omisiones que puedan entrañar infracción a las disposiciones fiscales, los comunicarán a la Secretaría de Finanzas o Tesorerías Municipales, dentro de los diez días siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+Los funcionarios y empleados públicos, que en ejercicio de sus funciones conozcan de hechos u omisiones que puedan entrañar infracción a las disposiciones fiscales, los comunicarán a la Secretaría de Finanzas y Administración o Tesorerías Municipales, dentro de los diez días siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
 
 La aplicación de las sanciones administrativas que procedan se hará sin perjuicio de que se exija el pago de las prestaciones fiscales respectivas.
 
@@ -763,7 +821,15 @@ VIII.- Cuando se omita una prestación fiscal que corresponda a los actos y cont
 
 IX.- Cuando la liquidación de alguna prestación fiscal esté encomendada a funcionarios o empleados del Estado o sus Municipio, éstos serán responsables de las infracciones que se cometan y se les aplicarán las sanciones que correspondan, quedando únicamente obligados los sujetos pasivos a pagar la prestación fiscal omitida excepto en los casos en que este Código o alguna Ley Fiscal disponga que no se podrá exigir al sujeto pasivo dicho pago.
 
-X.- El Secretario de Finanzas o Tesoreros Municipales, se abstendrán de imponer sanciones, cuando se haya incurrido en infracción por caso fortuito o fuerza mayor, o cuando enteren en forma espontánea los créditos fiscales no cubiertos.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+X.- No se impondrán sanciones cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por las disposiciones fiscales o cuando se haya incurrido en infracción o causa de fuerza mayor o de caso fortuito. Se considerará que el cumplimiento no es espontáneo en el caso de que:
+
+a) La omisión sea descubierta por las autoridades fiscales.
+
+b) La omisión haya sido corregida por el contribuyente después de que las autoridades fiscales hubieren notificado una orden de visita domiciliaria, o haya mediado requerimiento o cualquier otra gestión notificada por las mismas, tendientes a la comprobación del cumplimiento de disposiciones fiscales; y
+
+c) La omisión haya sido corregida por el contribuyente con posterioridad a los 15 días siguientes a la presentación del dictamen de los estados financieros de dicho contribuyente formulado por Contador Público ante la Secretaría de Finanzas y Administración, respecto de aquellas contribuciones omitidas que hubieren sido observadas en el dictamen.
 
 No se considerará que el entero es espontáneo cuando la omisión sea descubierta por las autoridades fiscales o medie requerimiento visita, excitativa o cualquiera otra gestión efectuada par las mismas.
 
@@ -773,7 +839,9 @@ No se considerará que el entero es espontáneo cuando la omisión sea descubier
 
 Se impondrá multa por cada infracción de las revistas (sic) en los Artículos 71, 72 y 73, como sigue:
 
-I.- De un salario mínimo general de la zona al Artículo 71, Fracciones VI y X.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+I.- De un salario mínimo general de la zona al artículo 71, fracción IV.
 
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
@@ -871,7 +939,9 @@ Las autoridades fiscales podrán habilitar, mediante acuerdo escrito, horas o d�
 
 Cuando un crédito fiscal no quede satisfecho dentro del plazo que para el efecto señalen las disposiciones legales, se exigirá su pago mediante el procedimiento administrativo de ejecución.
 
-Para determinar un crédito fiscal en los casos de falta de presentación de las declaraciones mensuales de ingresos dentro de los plazos establecidos en esta Ley u otras Leyes Fiscales, la Secretaría de Finanzas o sus Oficinas Recaudadoras requerirán al contribuyente moroso para que presente en un plaso (sic) de seis días las declaraciones omitidas, de lo contrario, la Secretaría de Finanzas o sus Oficinas Extractoras procederán a formular una liquidación provisional del impuesto correspondiente, tomado como base del ingreso más alto declarado durante los seis últimos pagos o a falta de estos datos, con los que tengan a su alcance y, si en término de quince días no presentare su declaración, la liquidación provisional se considera como formulada por el contribuyente para el efecto de seguir el procedimiento de ejecución, sin perjuicio de la facultad de revisión de la Secretaría de Finanzas.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+Para determinar un crédito fiscal en los casos de falta de presentación de las declaraciones mensuales de ingresos, dentro de los plazos establecidos en esta Ley u otras Leyes Fiscales, la Secretaría de Finanzas y Administración o las Tesorerías Municipales o sus Oficinas Recaudadoras requerirán al contribuyente moroso para que presente en un plazo de seis días las declaraciones omitidos (sic); de lo contrario la Secretaría de Finanzas y Administración o las Tesorerías Municipales o sus oficinas Recaudadoras, procederán a formular una liquidación provisional del impuesto correspondiente, tomando como base el ingreso más alto declarado durante los seis últimos pagos o a falta de estos datos con los que tengan a su alcance, y si en término de quince días no presentare su declaración, la liquidación provisional se considera como formulada por el contribuyente, para el efecto de seguir el procedimiento de Ejecución, sin perjuicio de la facultad de revisión de la Secretaría de Finanzas y Administración y de las Tesorerías Municipales.
 
 Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y morales estarán obligadas a pagar el 2% del crédito fiscal por gastos de ejecución.
 
@@ -883,13 +953,17 @@ En ningún caso los gastos de ejecución, por cada una de las diligencias a que 
 
 Los vencimientos que ocurran durante el procedimiento, incluso recargos, gastos de ejecución, y cualesquiera otros, se harán efectivos, juntamente con el crédito inicial, sin necesidad de notificación ni otras formalidades especiales.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 89.
 
-No satisfecho el crédito fiscal dentro del plazo legal, la Oficina Recaudadora requerirá al deudor para que efectúe el pago del crédito dentro de los seis días siguientes, con el apercibimiento de que si no lo hiciere se le embargarán bienes suficientes para hacer efectivo el crédito fiscal y sus accesorios legales o se le clausurará el establecimiento.
+No satisfecho el crédito fiscal dentro del plazo legal, las autoridades fiscales requerirán al deudor para que efectúe el pago del crédito dentro de los seis días siguientes, con el apercibimiento de que si no lo hiciere se le embargarán bienes suficientes para hacer efectivo el crédito fiscal y sus accesorios legales o se le clausurará el establecimiento.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1987)</small>
 
 El requerimiento de pago se notificará, según el caso, en los términos de las fracciones I o III del Artículo 77 de este Código.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1987)</small>
 
 Cuando el requerimiento se haga personalmente, el ejecutor entregará copia del mandamiento de ejecución a la persona con quien entienda la diligencia y levantará acta pormenorizada, de la que también entregará copia.
 
@@ -921,9 +995,13 @@ VI.- Obligación solidaria asumida por tercero que compruebe su idoneidad y solv
 
 La garantía de un crédito fiscal deberá comprender la de los posibles recargos y gastos de ejecución.
 
-La Secretaría de Finanzas, dictará las reglas sobre los requisitos que deban reunir las garantías, vigilará que sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación o procederá al aseguramiento de otros bienes.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
 
-El Secretario de Finanzas, podrá dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo, sean notorias la amplia solvencia del sujeto pasivo o responsable solidario.
+La Secretaría de Finanzas y Administración o las Tesorerías Municipales dictarán las reglas sobre los requisitos que deban reunir las garantías. Vigilarán que sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirán su ampliación o procederán al aseguramiento de otros bienes.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+El Secretario de Finanzas y Administración o Tesoreros Municipales, podrán dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo, sean notoria la amplia solvencia del sujeto pasivo o responsable solidario.
 
 ###### ARTICULO 92.
 
@@ -1043,7 +1121,9 @@ XII.- Las pensiones civiles y militares concedidas por el Gobierno Federal, Gobi
 
 El ejecutor trabará ejecución en bienes bastantes para garantizar las prestaciones pendientes de pago, los gastos de ejecución y los vencimientos futuros, poniendo todo lo secuestrado, previa identificación, bajo la guarda del o los depositarios que fueren necesarios y que salvo cuando los hubiere designado anticipadamente la oficina exactora, nombrará el ejecutor en el mismo acto de la diligencia. El nombramiento de depositario podrá recaer en el ejecutado.
 
-La Secretaría de Finanzas, puede designar un interventor de las negociaciones embargadas, cuya remuneración será señalada por dicha autoridad con cargo a las negociaciones, quién desempeñará el cargo hasta que se otorgue garantía del interés fiscal o se liquide éste.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+Las autoridades fiscales pueden designar un interventor de las negociaciones embargadas, cuya remuneración será señalada por dicha autoridad con cargo a las negociaciones, quien desempeñará el cargo hasta que se otorgue garantía del interés fiscal o se liquide éste.
 
 ###### ARTICULO 105.
 
@@ -1053,11 +1133,11 @@ Llegado el caso de que un deudor, en cumplimiento de lo dispuesto en el párrafo
 
 En caso de abstención del acreedor, transcurrido el plazo indicado, el Jefe de la Oficina firmará la escritura o documentos relativos en rebeldía de aquel, lo que hará del conocimiento del Registro Público de la Propiedad para los efectos procedentes.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 106.
 
-Cuando se aseguren dinero, metales preciosos, alhajas, objeto (sic) de arte o valores mobiliarios, el depositario los entregará inmediatamente, previo inventario, en la caja de la Oficina Ejecutora y ésta remitirá los bienes, con excepción del dinero a la Secretaría de Finanzas dentro de las 24 horas siguientes al secuestro. La Secretaría de Finanzas proveerá lo conducente respecto de dichos bienes.
+Cuando se aseguren dinero, metales preciosos, alhajas, objetos de arte o valores mobiliarios, el depositario los entregará inmediatamente, previo inventario, en la caja de la oficina ejecutora y ésta remitirá los bienes, con excepción del dinero a la Secretaria de Finanzas y Administración o Tesorería Municipal, dentro de las 24 horas siguientes al secuestro. Las Autoridades Fiscales, proveerán lo conducente respecto de dichos bienes.
 
 ###### ARTICULO 107.
 
@@ -1067,9 +1147,11 @@ Las sumas de dinero objeto del secuestro, así como el importe de los frutos y p
 
 Si el deudor o cualquiera otra persona impidiera materialmente al ejecutor el acceso al domicilio de aquel o al lugar en que se encuentren los bienes, siempre que el caso lo requiera el ejecutor actuará en los términos del Artículo siguiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 109.
 
-Si durante el secuestro administrativo la persona con quién se entienda la diligencia no abriere las puertas de las construcciones, edificio o casas que se embarguen o donde se presuma que existen bienes muebles embargables, el ejecutor levantará acta circunstanciada ante la presencia de dos testigos o policías del punto. El Agente Fiscal de la jurisdicción del deudor hará de inmediato la denuncia del caso ante el Agente del Ministerio Público correspondiente, de la desobediencia a un mandato legítimo de la autoridad en el ejercicio de sus funciones, y asimismo para el efecto de que éste recabe la orden judicial para la rotura de las cerraduras que fuere necesario romper para que el depositario tome posesión del inmueble o para que siga adelante la diligencia.
+Cuando la persona con quien se entienda no abriere los muebles que aquél suponga guarden dinero, alhajas, objetos de arte u otros bienes embargables, el ejecutor trabará embargo en los muebles cerrados y de su contenido y los sellará y enviará en depósito a la Oficina Recaudadora, donde serán abiertos en el término de tres días por el deudor o por su representante legal, y en caso contrario, por un experto designado por la oficina en forma que determinen las autoridades fiscales, ante la presencia del interesado y en caso de no estar presente en la diligencia de apertura y de su contenido se hará constar en acta debidamente circunstanciada, con la presencia de dos testigos que designarán las autoridades fiscales.
 
 Cuando la persona con quién se entienda no abriere los muebles que aquel suponga guarden dinero, alhajas, objetos de arte u otros bienes embargables, el ejecutor trabará embargo en los muebles cerrados y de su contenido y los sellará y enviará en depósito a la oficina exactora, donde serán abiertos en el término de tres días por el deudor o por su representante legal, y en caso, contrario por un experto designado por la oficina en la forma que determine la Secretaría de Finanzas, ante la presencia del interesado y en caso de no estar presente la diligencia de apertura y de su contenido se hará constar en acta debidamente circunstanciada, con la presencia de dos testigos que designará el Secretario de Finanzas.
 
@@ -1115,9 +1197,11 @@ El embargo de bienes inmuebles, derechos reales o de negociaciones de cualquier 
 
 Cuando los bienes inmuebles, derechos reales o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del Registro Público, en todas ellas se inscribirá el secuestro.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 115.
 
-Los secuestros administrativos podrán ampliarse en cualquier momento del procedimiento de ejecución, cuando la Secretaría de Finanzas, la Tesorería Municipal o la Oficina ejecutora estimen que los bienes embargados son insuficientes para cubrir las prestaciones fiscales insolutas y los vencimientos inmediatos.
+Los secuestros administrativos podrán ampliarse en cualquier momento del procedimiento de ejecución, cuando la Secretaría de Finanzas y Administración, la Tesorería Municipal o la Oficina Ejecutora estimen que los bienes embargados son insuficientes para cubrir las prestaciones fiscales insolutas y los vencimientos inmediatos.
 
 ### CAPITULO QUINTO. DE LOS REMATES
 
@@ -1133,7 +1217,9 @@ II.- En los casos de las fracciones II y III del artículo 96.
 
 Salvo los casos que este Código autoriza, toda enajenación se hará en subasta pública que se celebrará en el local de la oficina ejecutora.
 
-La Secretaría de Finanzas, con el objeto de obtener un mayor rendimiento, podrá designar otro lugar para la enajenación u ordenar que los bienes embargados se enajenen en lotes, fracciones o en piezas sueltas.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+Las autoridades fiscales con el objeto de obtener un mayor rendimiento, podrán designar otro lugar para la enajenación u ordenar que los bienes embargados se enajenen en lotes, fracciones o en piezas sueltas.
 
 ###### ARTICULO 118.
 
@@ -1207,11 +1293,15 @@ Si en la última postura se ofrece igual suma de contado, por dos o más solicit
 
 Fincado el remate de bienes muebles se aplicará el depósito constituido y el postor, dentro de los tres días siguientes a la fecha del remate, enterará en la caja de la oficina ejecutora el saldo de la cantidad de contado ofrecido en su postura o mejoras, y constituirá las garantías a que se hubiere obligado por la parte del precio que quedare adeudo.
 
-Tan pronto como el postor hubiere cumplido con los requisitos que se refiere el párrafo anterior y el remate sea aprobado por la Secretaría de Finanzas del Estado y la Tesorería Municipal, si este requisito fuese necesario conforme al Artículo siguiente, la oficina ejecutora procederá a entregarle los bienes que le hubiere adjudicado.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+Tan pronto como el postor hubiere cumplido con los requisitos a que se refiere el párrafo anterior y el remate sea aprobado por la Secretaría de Finanzas y Administración del Estado o por la Tesorería Municipal, si éste requisito fuese necesario conforme el artículo siguiente, la oficina ejecutora procederá a entregarle los bienes que le hubiere adjudicado.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 129.
 
-Si los bienes rematados fueron inmuebles o muebles cuyo valor exceda de quinientas veces el salario mínimo general de la zona, la oficina ejecutora dentro de un plazo de cinco días enviará el expediente a la Secretaría de Finanzas para que el Secretario de la misma, previa revisión y en su caso, apruebe el remate si el procedimiento se apego a las normas que lo rigen. Si la resolución es negativa, el fincamiento que haya hecho la oficina ejecutora quedará sin efecto y el postor sólo tendrá derecho a que se le devuelva el depósito que hubiere constituido.
+Si los bienes rematados fueron inmuebles o muebles cuyo valor exceda de quinientas veces el Salario Mínimo General de la Zona, la Oficina Ejecutora dentro de un plazo de cinco días enviará el expediente a la Secretaría de Finanzas y Administración o Tesorería Municipal, para que revisen y en su caso, aprueben el remate si el procedimiento se apegó a las normas que lo rigen. Si la resolución es negativa, el ofrecimiento que haya hecho la Oficina Ejecutora quedará sin efecto y el postor sólo tendrá derecho a que se le devuelva el depósito que hubiere constituido.
 
 Aprobado el remate de bienes inmuebles se le comunicará al postor para que, dentro del plazo de diez días, entere en la caja de la oficina ejecutora la cantidad de contado ofrecida en su postura aceptada.
 
@@ -1241,9 +1331,13 @@ Queda estrictamente prohibido adquirir los bienes objeto de un remate, por si o 
 
 Con el producto del remate se pagará el interés fiscal consistente en:
 
-I.- Gastos de ejecución, a saber:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1997)</small>
 
-a).- Los honorarios de los ejecutores, depositarios y peritos, de conformidad con lo que establezcan las disposiciones reglamentarias o lo que, a falta de éstas, resuelva respecto de cada caso la Secretaría de Finanzas y la Tesorería Municipal a propuestas de las oficinas ejecutoras respectivas.
+I.- Gastos de ejecución a saber:
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+a) Los honorarios de los ejecutores, depositarios y peritos, de conformidad con lo que establezcan las disposiciones reglamentarias o lo que, a falta de éstas, resuelva respecto de cada caso la Secretaría de Finanzas y Administración y la Tesorería Municipal a propuestas de las oficinas ejecutoras respectivas.
 
 b).- Los de impresión y publicación de convocatorias.
 
@@ -1273,9 +1367,11 @@ II.- A falta de pujas, por la base de la postura legal no mejorada.
 
 III.- En caso de posturas o pujas iguales, por la cantidad en que se haya producido el empate. Y
 
-IV.- Hasta por el monto del adeudo si éste no excede de la cantidad en que deba fincarse el remate en la tercera almoneda, de acuerdo con lo estipulado en la parte final del artículo siguiente.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1997)</small>
 
-La adjudicación regulada en este Artículo, sólo será valida si la aprueba el Secretario de Finanzas.
+IV.- Hasta por el monto del adeudo, si éste no excede la cantidad en que deba fincarse el remate en la tercera almoneda, de acuerdo con lo estipulado en la parte final del artículo siguiente.
+
+La adjudicación regulada en este artículo, sólo será válida si la aprueba el Secretario de Finanzas y Administración o Tesorero Municipal.
 
 ###### ARTICULO 136.
 
@@ -1291,7 +1387,9 @@ Las oficinas ejecutoras podrán efectuar enajenaciones fuera de subasta tratánd
 
 En estos casos la enajenación podrá efectuarse cuando se cubra como mínimo el 50% del crédito fiscal, incluyendo los accesorios legales correspondientes. De no obtenerse esta cantidad, se procederá a la destrucción de bienes.
 
-Cuando se trate de bienes inmuebles o de bienes muebles que habiendo salido a subasta por lo menos en dos almonedas y no se hubieren presentado postores, las oficinas ejecutoras solicitarán al Secretario de Finanzas o al Tesorero Municipal, autorización para su enajenación al mejor postor.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+Cuando se trate de bienes muebles o de bienes muebles (sic) que habiendo salido a subasta por lo menos en dos almonedas y no se hubieren presentado postores, las oficinas ejecutoras solicitarán al Secretario de Finanzas y Administración o al Tesorero Municipal, autorización para su enajenación al mejor postor.
 
 También procederá la enajenación fuera de subasta, cuando el embargo señale al presunto adquirente y acepte el precio que dicho adquirente proponga, siempre que lo que se pague de contado cubra cuando menos el 90% de la totalidad de los créditos fiscales.
 
@@ -1353,7 +1451,9 @@ La reclamación de preferencia será hecha valer por quienes sostengan tener der
 
 La declaración del ejecutor no será admisible como prueba del derecho del reclamante.
 
-La reclamación deberá hacerse valer ante el Secretario de Finanzas en cualquier tiempo antes de que se haya aplicado el producto del remate, sin atenerse a la regla que en cuanto al término establece la Fracción II del Artículo 145.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+La reclamación deberá hacerse valer ante el Secretario de Finanzas y Administración o Tesorero Municipal, en cualquier tiempo antes de que se haya aplicado el producto del remate, sin atenerse a la regla que en cuanto al término establece la fracción II, del artículo 145.
 
 ###### ARTICULO 144.
 
@@ -1409,7 +1509,9 @@ Los juicios que se promuevan ante el Tribunal Superior de Justicia del Estado de
 
 En los juicios que se tramiten ante el Tribunal Superior de Justicia del Estado de Baja California Sur, no habrá lugar a condonación en costas. Cada parte, será responsable de sus propios gastos y los que originen las diligencias que promuevan.
 
-Los honorarios del perito tercero serán pagados por las partes. Si las que corresponda sufragar al particular, sea actor, demandado o coadyuvante, no son cubiertos oportunamente, los pagará la Secretaría de Finanzas y la Tesorería Municipal y ésta exigirá el reembolso mediante el procedimiento administrativo de ejecución.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+Los honorarios del perito tercero serán pagados por las partes. Si las que corresponda sufragar al particular, sea actor, demandado coadyuvante, no son cubiertos oportunamente, los pagará la Secretaría Finanzas y Administración o Tesorería Municipal y ésta exigirá reembolso mediante el procedimiento administrativo de ejecución.
 
 ###### ARTICULO 150.
 
@@ -1443,7 +1545,9 @@ b).- El particular a quién favorezca la resolución cuya nulidad demande la aut
 
 III.- El tercero que dentro del procedimiento administrativo aparezca como titular de un derecho incompatible con el que pretenda el actor. Y
 
-IV.- El Secretario de Finanzas o Tesorero Municipal quién será representado en la forma que señalen los ordenamientos, aun cuando no sea actor ni demandado.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+IV.- El Secretario de Finanzas y Administración o Tesorero Municipal, quien será representado en la forma que señalen los ordenamientos, aún cuando no sea actor ni demandado.
 
 Podrá apersonarse como coadyuvante de las autoridades administrativas, quien tenga interés directo en la anulación de una resolución favorable al particular.
 
@@ -1683,9 +1787,11 @@ En la contestación de la demanda no podrán cambiarse los fundamentos de derech
 
 En caso de negativa ficta, la autoridad expresará los hechos y el derecho en que se apoya la misma.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 179.
 
-Cuando haya contradicciones en cuanto a los fundamentos de derecho e interpretación entre la contestación de la autoridad que dicte u ordene, realice, ejecute o trate de ejecutar la resolución o procedimiento impugnado y la dada por la Secretaría de Finanzas del Estado únicamente se tomará en cuenta, respecto a esas contracciones lo expuesto por la propia Secretaría de Finanzas.
+Cuando haya contradicciones en cuanto a los fundamentos de derecho e interpretación entre la contestación de la autoridad que dicte u ordene, realice, ejecute o trate de ejecutar la resolución o procedimiento impugnado y la dada por la Secretaría de Finanzas y Administración del Estado y Tesorería Municipal, únicamente se tomara en cuenta, respecto a esas contradicciones lo expuesto por la propia Secretaría de Finanzas y Administración, o la Tesorería Municipal.
 
 ###### ARTICULO 180.
 
@@ -1719,7 +1825,9 @@ Las solicitudes de acumulación notoriamente infundadas se desecharán de plano.
 
 Si la autoridad niega la suspensión del procedimiento de ejecución o rechaza la garantía ofrecida, podrá promoverse, hasta antes de modificarse la resolución que ponga fin a la instancia ante el Tribunal, el incidente respectivo.
 
-La Secretaría de Finanzas o la Tesorería Municipal podrá promover el mismo incidente para combatir las decisiones dictadas por las autoridades fiscales en materia de suspensión, que no se ajusten a las normas legales aplicables.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+La Secretaría de Finanzas y Administración o Tesorería Municipal, podrá promover el mismo incidente para combatir las decisiones dictadas por las autoridades fiscales en materia de suspensión, que no se ajusten a las normas legales aplicables.
 
 ###### ARTICULO 187.
 
@@ -1892,3 +2000,7 @@ B.O. 20 DE DICIEMBRE DE 1990.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día primero de enero de 1991.
+
+B.O. 20 DE DICIEMBRE DE 1997.
+
+ÚNICO.- El presente Decreto entrará en vigor el día 1° de Enero de 1998 previa su publicación en el Boletín Oficial del Gobierno del Estado.
