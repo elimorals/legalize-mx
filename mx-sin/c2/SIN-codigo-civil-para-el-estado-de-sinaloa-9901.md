@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1982-02-24"
+last_updated: "1990-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 1990.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -11527,11 +11527,11 @@ De las Donaciones en General.
 
 El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 1990)</small>
 
 ###### Artículo 2199.
 
-La venta de un inmueble que tenga un valor hasta de $ 40,000.00 (CUARETA MIL PESOS, 00/100 M. N.), podrá otorgarse en escritura privada.
+La venta de un inmueble que tenga un valor hasta de ciento once veces el salario mínimo general vigente en el Estado, podrá otorgarse en escritura privada.
 
 ###### Artículo 2200.
 
@@ -11541,15 +11541,19 @@ Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su r
 
 De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 1990)</small>
 
 ###### Artículo 2202.
 
-Si el valor del inmueble excede de $ 40,000.00 (CUARENTA MIL PESOS, M.N.), su venta se otorgará en escritura pública.
+Si el valor del inmueble excede de ciento once veces el salario mínimo general vigente en el Estado, su venta se otorgará en escritura pública.
+
+Se excepcionan de lo anterior los contratos y las operaciones relacionadas con los inmuebles que se adquieran directamente con los créditos provenientes del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, del Instituto de la Vivienda del Estado de Sinaloa y de la Comisión Reguladora de la Tenencia de la Tierra, o de los organismos que los sustituyan, que podrán hacerse constar en documentos privados, ante dos testigos, e inscribirse en el Registro Público de la Propiedad que corresponda, con la constancia del registrador sobre la autenticidad de las firmas y la voluntad de las partes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MAYO DE 1990)</small>
 
 ###### Artículo 2203.
 
-Tratándose de bienes ya inscritos en el Registro, y cuyo valor no exceda de cinco mil pesos, cuando la venta sea al contado puede hacerse transmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
+Tratándose de bienes ya inscritos en el Registro, y cuyo valor no exceda de ciento once veces el salario mínimo general vigente en el Estado, cuando la venta sea al contado puede hacerse transmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
 
 El endoso será ratificado ante el registrador, quien tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compra-venta realizada en esta forma, hará una nueva inscripción de los bienes vendidos en favor del comprador.
 
@@ -13765,7 +13769,7 @@ Al concluir el contrato de aparcería, el aparcero que hubiere cumplido fielment
 
 ###### Artículo 2632.
 
-El propietario no tiene derecho de dejar sus tierras ociosas, sino el tiempo que sea necesario para que recobren sus propiedades fertilizantes. En consecuencia, pasada la época que en cada región fije la autoridad municipal, conforme a la naturaleza de los cultivos, si el propietario no las comienza a cultivar po sí o por medio de otros, tiene obligación de darlas en aparcería, conforme a la costumbre del lugar, a quien las solicite y ofrezca las condiciones necesarias de honorabilidad y solvencia.
+El propietario no tiene derecho de dejar sus tierras ociosas, sino el tiempo que sea necesario para que recobren sus propiedades fertilizantes. En consecuencia, pasada la época que en cada región fije la autoridad municipal, conforme a la naturaleza de los cultivos, si el propietario no las comienza a cultivar por sí o por medio de otros, tiene obligación de darlas en aparcería, conforme a la costumbre del lugar, a quien las solicite y ofrezca las condiciones necesarias de honorabilidad y solvencia.
 
 ###### Artículo 2633.
 
@@ -15602,3 +15606,9 @@ P.O. 24 DE FEBRERO DE 1982.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 16 DE MAYO DE 1990.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
