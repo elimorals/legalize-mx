@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-del-estado-de-5397"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-06-13"
-last_updated: "2002-12-30"
+last_updated: "2003-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 13 de junio de 1994.
 
@@ -371,11 +371,17 @@ XXXIV.- Adquirir los bienes y contratar los servicios que requiera el funcionami
 
 XXXV.- Poseer, administrar y conservar los bienes que conforman el patrimonio del sector central del Gobierno del Estado, cuando no corresponda a otra dependencia;
 
-XXXVI.- Ejercer actos de dominio sobre el patrimonio del Estado, previo acuerdo del Gobernador y con su representación; y ejercer el derecho de reversión sobre los concesionados con la intervención de las dependencias competentes y de acuerdo a la normatividad correspondiente;
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2003)</small>
 
-XXXVII.- Administrar la intendencia, los almacenes generales y la oficialía de partes del Poder Ejecutivo, y fijar las bases de sistematización en materia de correspondencia y archivo; y
+XXXVI.- Emitir opinión respecto a la procedencia del otorgamiento de concesiones para proyectar, construir, reconstruir, ampliar, modernizar, operar, administrar, explotar, rehabilitar y conservar obras públicas y servicios relacionadas con las mismas, cuando éstas sean financiadas por particulares; mediante dictamen de viabilidad relativo a la inversión que el concesionario aplicará, considerando que la tasa fija propuesta anual, en su caso, sea razonable y se encuentre dentro de los parámetros del mercado utilizados para proyectos de infraestructura en función del plazo; así como el tiempo de recuperación de dicha inversión y los montos estimados para ello;
 
-XXXVIII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+Analizar que se cumpla con los esquemas financieros proyectados para la obra materia de la concesión o los servicios que se relacionen, lo cual podrá hacer por sí o por conducto del Organismo Descentralizado correspondiente; requiriendo de aquél la información y documentación que se considere necesaria para tal fin.
+
+XXXVII.- Ejercer actos de dominio sobre el patrimonio del Estado, previo acuerdo del Gobernador y con su representación; y ejercer el derecho de reversión sobre los concesionados con la intervención de las dependencias competentes y de acuerdo a la normatividad correspondiente;
+
+XXXVIII.- Administrar la intendencia, los almacenes generales y la oficialía de partes del Poder Ejecutivo, y fijar las bases de sistematización en materia de correspondencia y archivo; y
+
+XXXIX.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1999)</small>
 
@@ -519,15 +525,19 @@ XVI.- Participar en el desarrollo de las comunicaciones en el Estado y formular 
 
 XVII.- Construir y conservar por sí misma y con la cooperación que se acuerde con el Gobierno Federal, las carreteras, caminos, puentes, centrales de autotransporte y aeropuertos estatales;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2003)</small>
 
-XVIII.- Administrar las carreteras, caminos y puentes de competencia estatal, existentes en la Entidad;
+XVIII.- Proyectar, construir, reconstruir, ampliar, modernizar, operar, administrar, explotar, rehabilitar y conservar por sí o por terceros, mediante financiamiento del Estado o de particulares, a través del otorgamiento de concesiones, contratos, permisos o autorizaciones según sea el caso, en términos de las disposiciones aplicables, las carreteras libres o de cuota, caminos y puentes de competencia estatal;
 
-XIX.- Ejecutar las obras necesarias para el establecimiento de estaciones de radio, televisión y en general las que se relacionen con las telecomunicaciones estatales;
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2003)</small>
 
-XX.- Poseer, vigilar, conservar y administrar los inmuebles de propiedad estatal, cuando no estén encomendadas a otras dependencias; y las plazas, paseos y parques públicos cuya construcción o conservación esté a cargo del Gobierno Estatal; y
+XIX.- Otorgar, revocar, cancelar, suspender, modificar y dar por terminadas las concesiones, permisos, autorizaciones y explotación a que se refiere la fracción anterior, vigilando e inspeccionando su cumplimento y operación en los términos de las Leyes aplicables;
 
-XXI.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+XX.- Ejecutar las obras necesarias para el establecimiento de estaciones de radio, televisión y en general las que se relacionen con las telecomunicaciones estatales;
+
+XXI.- Poseer, vigilar, conservar y administrar los inmuebles de propiedad estatal, cuando no estén encomendadas a otras dependencias; y las plazas, paseos y parques públicos cuya construcción o conservación esté a cargo del Gobierno Estatal; y
+
+XXII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1999)</small>
 
@@ -938,3 +948,7 @@ P.O. 30 DE DICIEMBRE DE 2002.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE AGOSTO DE 2003.
+
+UNICO.- Este Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
