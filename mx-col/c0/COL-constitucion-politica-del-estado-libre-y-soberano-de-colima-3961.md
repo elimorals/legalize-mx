@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2002-07-23"
+last_updated: "2004-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 2004.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -1353,7 +1353,9 @@ Los Ayuntamientos deberán instalarse en todo el Estado el día 15 de octubre de
 
 Los Ayuntamientos crearán las dependencias y entidades de la administración pública municipal necesarias para cumplir con las atribuciones de su competencia.
 
-Las comisarías, juntas y delegaciones, en su caso, serán autoridades auxiliares municipales, sus integrantes serán designados por los Ayuntamientos de conformidad con el procedimiento que aprueben para tal efecto.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2004)</small>
+
+Las comisarías, juntas y delegaciones, en su caso, serán autoridades auxiliares municipales, sus integrantes serán electos mediante el voto universal, libre, secreto y directo de los ciudadanos residentes en la localidad, de conformidad con las bases y procedimientos que aprueben para tal efecto cada uno de los ayuntamientos. Asegurando y garantizando así la participación ciudadana y vecinal. Las autoridades auxiliares municipales, durarán en su encargo tres años y su elección será en los primeros 60 días después de la toma de posesión del H. Ayuntamiento respectivo.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2554,3 +2556,9 @@ P.O. 23 DE JULIO DE 2002.
 DECRETO NO. 230, QUE REFORMA LOS ARTICULOS 22, 24, 51, 86 BIS, 89 Y 90 DE LA CONSTITUCION DEL ESTADO.
 
 UNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE ENERO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+SEGUNDO.- Por esta única vez, las autoridades auxiliares municipales de los H. Ayuntamientos del período 2003-2006 durarán en su encargo hasta el 15 de diciembre del 2006.
