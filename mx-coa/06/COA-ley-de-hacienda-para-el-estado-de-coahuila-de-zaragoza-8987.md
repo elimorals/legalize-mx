@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "1998-12-11"
+last_updated: "1998-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -1529,77 +1529,171 @@ VI.- Cervecerías, depósitos de cerveza y otros establecimientos en los que ún
 
 VII.- Fonda, taquerías y otros de naturaleza análoga $2,803.00 (DOS MIL OCHOCIENTOS TRES PESOS 00/100 M.N.). (2)
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
 
-#### SECCION SEGUNDA. LOS PRESTADOS POR SUS UNIDADES ADMINISTRATIVAS
+DE LAS REVALIDACIONES DE LICENCIAS PARA ESTABLECIMIENTOS QUE EXPENDEN BEBIDAS ALCOHOLICAS (SIC)
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
+#### SECCION SEGUNDA. OBJETO
+
+> <small>(REFORMADO Y REUBICADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 105.
 
-La expedición de la revalidación anual para el funcionamiento de establecimientos que enajenen bebidas alcohólicas o que presten servicios en que se expendan dichas bebidas, causarán derechos por revalidación en función de los servicios de inspección y vigilancia que requieren, conforme a la siguiente:
+La expedición de la revalidación anual para el funcionamiento de establecimientos que enajenen bebidas alcohólicas para el consumo dentro de los establecimientos que ofrezca algún espectáculo o diversión públicos, causarán derechos por revalidación en función de los servicios de inspección y vigilancia que requieren.
+
+SUJETO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 105-A.
+
+Son sujetos de este derecho las personas físicas y morales que se dediquen a enajenar bebidas alcohólicas o a la prestación de servicios que incluyan el expendio de dichas bebidas, total o parcialmente con el público en general para su consumo dentro de los establecimientos que ofrezca algún espectáculo o diversión públicos.
+
+Cuando la explotación de los derechos de las licencias de funcionamiento de establecimientos que expendan bebidas alcohólicas se realice por persona física o moral distinta de su titular, con el carácter de comodatario, éste será el sujeto directo de esta contribución.
+
+Para los efectos del párrafo anterior, cuando exista comodatario, el titular de la licencia de funcionamiento será responsable solidario del pago de los derechos a que se refiere esta sección.
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
 
-I.- Para la enajenación de bebidas alcohólicas para su consumo dentro de los establecimientos que ofrezcan algún espectáculo o diversión públicos $8,775.00 (OCHO MIL SETECIENTOS SETENTA Y CINCO PESOS 00/100 M.N.).
+###### ARTICULO 105-B.
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+La expedición de la revalidación anual a que se refiere esta Sección, causarán derechos por la cantidad de $10,302.00 (DIEZ MIL TRESCIENTOS DOS PESOS 00/100 M.N.).
 
-II.- Para la enajenación de bebidas alcohólicas para su consumo dentro de los establecimientos distintos a los señalados en la fracción anterior $3,068.00 (TRES MIL SESENTA Y OCHO PESOS 00/100 M.N.).
+PAGO
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
 
-III.- Por la enajenación de bebidas alcohólicas en envase cerrado o para llevar $2,194.00 (DOS MIL CIENTO NOVENTA Y CUATRO PESOS 00/100 M.N.).
+###### ARTICULO 105-C.
 
-La revalidación anual de las licencias para enajenar únicamente cerveza, acompañados por alimentos, causará el 20% de los derechos a que se refiere la fracción II de este artículo. Esta reducción no operará en aquellos establecimientos en que se expendan bebidas alcohólicas distintas de la señalada en este párrafo.
+El pago de este derecho deberá realizarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la expedición de la revalidación anual.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 1998)</small>
 
-#### SECCION PRIMERA. POR SERVICIOS DE CONTROL VEHICULAR
+#### SECCION TERCERA. OBJETO
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
 
-#### SECCION SEGUNDA. POR OTROS SERVICIOS
+###### ARTICULO 105-D.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
+La expedición de la revalidación anual para el funcionamiento de establecimientos que enajenen bebidas alcohólicas para su consumo dentro de los establecimientos, en los cuales no se ofrezca algún espectáculo o diversión públicos causarán derechos por revalidación en función de los servicios de inspección y vigilancia que requieren.
+
+SUJETO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 105-E.
+
+Son sujetos de este derecho las personas físicas y morales que se dediquen a enajenar bebidas alcohólicas o a la prestación de servicios que incluyan el expendio de dichas bebidas, total o parcialmente con el público en general en los establecimientos en los cuales no se ofrezca algún espectáculo o diversión públicos.
+
+Cuando la explotación de los derechos de las licencias de funcionamiento de establecimientos que expendan bebidas alcohólicas se realice por persona física o moral distinta de su titular, con el carácter de comodatario, éste será el sujeto directo de esta contribución.
+
+Para los efectos del párrafo anterior, cuando exista comodatario, el titular de la licencia de funcionamiento será responsable solidario del pago de los derechos a que se refiere esta sección.
+
+TARIFA
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 105-F.
+
+La expedición de la revalidación anual a que se refiere esta Sección, causarán derechos por la cantidad de $3,602.00 (TRES MIL SEISCIENTOS DOS PESOS 00/100 M.N.).
+
+La revalidación anual de las licencias para enajenar únicamente cerveza, acompañadas de alimentos causará el 20% de los derechos a que se refiere este artículo.
+
+PAGO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 105-G.
+
+El pago de este derecho deberá realizarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la expedición de la revalidación anual.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 1998)</small>
+
+#### SECCION CUARTA
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 105-H.
+
+La expedición de la revalidación anual para el funcionamiento de establecimientos que enajenen bebidas alcohólicas en envase cerrado o para llevar, causarán derechos por revalidación en función de los servicios de inspección y vigilancia que requieren.
+
+SUJETO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 105-I.
+
+Son sujetos de este derecho las personas físicas y morales que se dediquen a enajenar bebidas alcohólicas o a la prestación de servicios que incluyan el expendio de dichas bebidas, en envase cerrado o para llevar.
+
+Cuando la explotación de los derechos de las licencias de funcionamiento de establecimientos que expendan bebidas alcohólicas se realice por persona física o moral distinta de su titular, con el carácter de comodatario, éste será el sujeto directo de esta contribución.
+
+Para los efectos del párrafo anterior, cuando exista comodatario, el titular de la licencia de funcionamiento será responsable solidario del pago de los derechos a que se refiere esta sección.
+
+TARIFA
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 105-J.
+
+La expedición de la revalidación anual a que se refiere esta Sección, causarán derechos por la cantidad de $2,576.00 (DOS MIL QUINIENTOS SETENTA Y SEIS PESOS 00/100 M.N.).
+
+PAGO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 105-K.
+
+El pago de este derecho deberá realizarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la expedición de la revalidación anual.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 106.
 
-Cuando el establecimiento cuenta con licencia y habiendo presentado aviso de suspensión de actividades, las reinicie en el 1o., 2o., 3o., o 4o., trimestre, pagará por ese año el 100%, 75%, 50% o 25%, respectivamente, de las tarifas establecidas en el artículo 105, sin perjuicio de las reducciones a que se tenga derecho conforme a los artículos 109 y 110 de esta Ley.
+Cuando el establecimiento cuente con licencia y habiendo presentado aviso de suspensión de actividades, las reinicie en el 1o., 2o., 3o. o 4o., trimestre, pagará por ese año el 100%, 75%, 50% o 25%, respectivamente de las tarifas establecidas en el artículo 105-B, 105-F y 105-J, sin perjuicio de las reducciones a que se tenga derecho conforme a los artículos 109 y 110 de esta Ley.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 67], P.O. 24 DE DICIEMBRE DE 1996)</small>
+(REUBICADO, P.O. 29 DE DICIEMBRE DE 1998)
 
 ###### ARTICULO 107.
 
 La autorización de cambio de titular de una licencia causará derechos a razón del 50% de la tarifa establecida en el artículo 104, según el establecimiento de que se trate.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 68], P.O. 24 DE DICIEMBRE DE 1996)</small>
+(REUBICADO, P.O. 29 DE DICIEMBRE DE 1998)
 
 ###### ARTICULO 108.
 
 La autorización de cambio de domicilio de una licencia causará derechos a razón del 25% de la tarifa establecida en el artículo 104, según el establecimiento de que se trate.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 109.
 
-Las tarifas establecidas en los artículos 104, 105, 107 y 108, se reducirán en un 25%, cuando el establecimiento para el que se expida la autorización y licencia anual se encuentre en alguno de los siguientes municipios: Allende, Francisco I. Madero, Matamoros, Múzquiz, Nava, Parras, San Buenaventura, San Juan de Sabinas y San Pedro.
+Las tarifas establecidas en los artículos 104, 105-B, 105-F y 105-J, 107 y 108, se reducirán en un 25%, cuando el establecimiento para el que se expida la autorización y licencia anual se encuentre en alguno de los siguientes municipios: Allende, Francisco I. Madero, Matamoros, Múzquiz, Nava, Parras, San Buenaventura, San Juan de Sabinas y San Pedro.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 70], P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 29 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 110.
 
-Las tarifas establecidas en los artículos 104, 105, 107 y 108, se reducirán en un 50%, cuando el establecimiento para el que se expida la autorización y licencia anual se encuentre en alguno de los siguientes municipios: Abasolo, Candela, Castaños, Cuatrociénegas, Escobedo, General Cepeda, Guerrero, Hidalgo, Jiménez, Juárez, Lamadrid, Morelos, Nadadores, Ocampo, Progreso, Sacramento, Sierra Mojada, Viesca, Villa Unión y Zaragoza.
+Las tarifas establecidas en los artículos 104, 105-B, 105-F y 105-J, 107 y 108, se reducirán en un 50%, cuando el establecimiento para el que se expida la autorización y licencia anual se encuentre en alguno de los siguientes municipios: Abasolo, Candela, Castaños, Cuatrociénegas, Escobedo, General Cepeda, Guerrero, Hidalgo, Jiménez, Juárez, Lamadrid, Morelos, Nadadores, Ocampo, Progreso, Sacramento, Sierra Mojada, Viesca, Villa Unión y Zaragoza.
 
 PAGO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 71], P.O. 24 DE DICIEMBRE DE 1996)
+(REUBICADO, P.O. 29 DE DICIEMBRE DE 1998)
 
 ###### ARTICULO 111.
 
 El pago de este derecho deberá realizarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la expedición de la licencia de funcionamiento y revalidación anual, en su caso.
+
+(REUBICADA [N. DE E. ANTES SECCION SEGUNDA], P.O. 29 DE DICIEMBRE DE 1998)
+
+#### SECCION QUINTA. LOS PRESTADOS POR SUS UNIDADES ADMINISTRATIVAS
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
+
+#### SECCION PRIMERA. POR SERVICIOS DE CONTROL VEHICULAR
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 112.
 
@@ -1710,6 +1804,10 @@ EXENCIONES
 No se causará este derecho cuando los servicios que se presten tengan por objeto la regularización de la tenencia de la tierra urbana y sean solicitados por Dependencias o Entidades Públicas Estatales, Federales y Municipales, que tengan a su cargo la responsabilidad de este tipo de programas.
 
 ### CAPITULO QUINTO. POR SERVICIOS DE LA SECRETARIA DE EDUCACION PUBLICA
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
+
+#### SECCION SEGUNDA. POR OTROS SERVICIOS
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
@@ -2764,6 +2862,16 @@ P.O. 11 DE DICIEMBRE DE 1998.
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor a partir del 1o. de enero de 1999.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTICULO SEGUNDO.
 
