@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "1991-02-19"
+last_updated: "1992-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE FEBRERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 1992.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -39,19 +39,17 @@ CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
 ### CAPITULO I. De las acciones
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ARTICULO 1°
 
 El ejercicio de las acciones civiles requiere:
 
-I.- La existencia de un derecho;
-
-II.- La violación de un derecho o el desconocimiento de una obligación, o la necesidad de declarar, preservar o constituir aquél;
-
-III.- La capacidad para ejercitar la acción por sí, o por legítimo representante;
-
-IV.- El interés en el actor para deducirlo.
+I.- El interés en el actor para deducirla.
 
 Falta el requisito del interés siempre que no pueda alcanzarse el objeto de una acción, aun suponiendo favorable la sentencia.
+
+II.- La concurrencia de los presupuestos procesales para el ejercicio de la acción.
 
 ARTICULO 2°
 
@@ -61,11 +59,11 @@ ARTICULO 3°
 
 La acción real puede ejercitarse contra cualquier poseedor.
 
-ARTICULO 4°
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
-Cuando haya varias acciones contra una misma persona, deben intentarse en una sola demanda. Por el ejercicio de una o más, quedan extinguidas las restantes. No pueden acumularse en una sola demanda las acciones contrarias o contradictorias; ni las que dependan entre sí por el resultado que la sentencia dictada en una de ellas, haya de tener sobre las otras.
+ARTICULO 4º
 
-Queda prohibida la práctica de deducir subsidiariamente acciones contrarias o contradictorias.
+Cuando haya varias acciones contra una misma persona, que provengan de la misma causa y se refiere al mismo objeto, deben intentarse en una sola demanda. Por el ejercicio de una o más, quedan extinguidas las restantes. No pueden acumularse en una sola demanda las acciones contrarias o contradictorias; ni las que dependan entre sí por el resultado que la sentencia dictada en una de ellas, haya de tener sobre las otras.
 
 ARTICULO 5°
 
@@ -101,19 +99,29 @@ ARTICULO 11
 
 Admitida la demanda y contestada la misma, no podrán modificarse ni alterarse, salvo en los casos en que la Ley lo permita.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
-El desistimiento de la acción, la extingue; el de la demanda, posterior al emplazamiento, requerirá del consentimiento del reo y produce el efecto de volver las cosas al estado anterior a la misma. El desistimiento de la instancia, posterior al emplazamiento o el de la acción, obligan al pago de costas y de los daños y perjuicios causados, salvo convenio en contrario.
+El desistimiento de la acción, la extingue; el de la demanda, posterior al emplazamiento, requerirá del consentimiento expreso del demandado y produce el efecto de volver las cosas al estado anterior a la misma. El desistimiento de la instancia, posterior al emplazamiento o el de la acción, obligan al pago de gastos y costas y de los daños y perjuicios causados, salvo convenio en contrario.
 
-Por promoción deberá entenderse todo lo que tienda a la secuela legal de un procedimiento.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 1 DE FEBRERO DE 1992)</small>
 
-La caducidad será declarada de oficio por el tribunal.
+Se tendrá por abandonado un juicio y por perdido el derecho de las partes, si éstas no promueven durante ciento ochenta días naturales en la Primera Instancia o noventa días naturales en la Segunda, salvo los casos de fuerza mayor. El abandono en la Segunda Instancia, sólo da lugar a la pérdida del recurso y a la devolución de los autos.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
+Por promoción deberá entenderse todo lo que tienda a la secuela legal del procedimiento. La caducidad de la instancia sólo opera en los juicios, siempre y cuando hayan sido emplazados todos los demandados y no se haya citado a las partes para oír sentencia.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
+La caducidad será declarada de oficio o a petición de parte interesada.
 
 ARTICULO 12
 
 A nadie puede obligarse a intentar o proseguir una acción contra su voluntad, excepto en los casos siguientes:
 
-I.- Cuando alguno se jacte públicamente de que otro es su deudor, o de que tiene que deducir derechos sobre alguna cosa que otro posee. En este caso, el poseedor o aquel de quien se dice que es deudor, puede ocurrir al juez de su propio domicilio, pidiendo que señale un término al jactancioso para que deduzca la acción que afirma tener, apercibido de que de no hacerlo en el plazo designado, se le tendrá por desistido de la acción que ha sido objeto de la jactancia. Las cuestiones sobre jactancia se ventilarán en la forma que para los incidentes establece este Código. No se reputa jactancioso al que en un acto judicial o administrativo se reserva los derechos que pueda tener sobre alguna cosa o contra alguna persona. La acción de jactancia prescribe a los tres meses desde la fecha en que tuvieron lugar los dichos o hechos que la originan;
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 1992)</small>
+
+I.- Cuando alguno se jacte públicamente de que otro es su deudor, o de que tiene que deducir derechos sobre alguna cosa que otro posee. En este caso, el poseedor o aquél de quien se dice que es deudor, puede ocurrir al juez de su propio domicilio, pidiendo que señale un término al jactancioso para que deduzca la acción que afirma tener, apercibido que de no hacerlo en el plazo designado, se le tendrá por perdido su derecho a la acción que ha sido objeto de la jactancia. Las cuestiones sobre jactancia se ventilarán en la forma que para los incidentes establece este Código. No se reputa jactancioso al que en un acto judicial o administrativo se reserva los derechos que pueda tener sobre alguna cosa o contra alguna persona. La acción de jactancia prescribe a los tres meses desde la fecha en que tuvo conocimiento el perjudicado, de los hechos o dichos que la originan;
 
 II.- En los casos en que habiéndose interpuesto tercería, no ocurra el tercer opositor a continuarla;
 
@@ -165,9 +173,11 @@ Las acciones del estado civil tienen por objeto las cuestiones relativas al naci
 
 Las acciones del estado civil fundadas en la posesión de estado, producirán el efecto de que se ampare o restituya a quien la disfrute contra cualquier perturbador.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ARTICULO 21
 
-Ninguna acción puede ejercitarse sino por aquél a quien competa, o por su representante legítimo. No obstante eso, el acreedor puede ejercitar las acciones que competen a su deudor cuando conste el crédito de aquél en título ejecutivo; y excitado éste para deducirlas, descuide o rehuse hacerlo. El tercero demandado puede paralizar la acción pagando al demandante el monto de su crédito.
+Ninguna acción puede ejercitarse sino por aquél a quien competa o por su representante legítimo. No obstante eso, el acreedor puede ejercitar las acciones que competen a su deudor, cuando habiendo excitado a éste en forma judicial o extrajudicial ante notario, descuide o rehuse hacerlo dentro del término de diez días naturales contados a partir del siguiente al del requerimiento. El tercero demandado puede paralizar la acción pagando al demandante el monto del crédito o garantizando su pago a satisfacción de éste.
 
 Las acciones derivadas de derechos inherentes a la persona del deudor, nunca se ejercitarán por el acreedor.
 
@@ -199,9 +209,11 @@ ARTICULO 25
 
 El derecho de promover la inhibitoria no exime al reo de la obligación de comparecer en juicio y continuarlo, mientras aquélla no se decida en forma legal.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ARTICULO 26
 
-Sólo se podrá substanciar incidente previo para resolver sobre la competencia del juez, promovida por declinatoria. Las demás excepciones dilatorias, así como las perentorias, se propondrá a la vez en la contestación de la demanda y se fallarán en la sentencia definitiva.
+La incompetencia por declinatoria, se tramitará conforme a lo dispuesto en el artículo 215 de este Código. Todas las demás cuestiones dilatorias, excepciones procesales, previas o que fueren obstáculo para el desarrollo normal del proceso o para el pronunciamiento de la sentencia, que planteen las partes, deberán ser resueltas en la audiencia prevista en el artículo 219 de este Código, o en su defecto en la sentencia.
 
 ARTICULO 27
 
@@ -225,9 +237,11 @@ Los interesados y sus representantes legítimos podrán comparecer en juicio por
 
 Representan a la Hacienda Pública los Agentes del Ministerio Público que se acrediten con una credencial expedida por el Ejecutivo del Estado, o los Agentes Fiscales que nombre el propio Ejecutivo.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ARTICULO 31
 
-El tribunal examinará cuidadosamente la personalidad de las partes bajo su responsabilidad; esto no obstante, el litigante tiene el derecho de impugnarla, cuando tenga razones para ello. Contra el auto en que el juez desconozca la personalidad del actor, negándose a dar curso a la demanda, procede el recurso de queja.
+El Tribunal examinará cuidadosamente la personalidad de las partes bajo su responsabilidad; no obstante esto, el litigante tiene el derecho de impugnarla, cuando tenga razones para ello.
 
 ARTICULO 32
 
@@ -261,9 +275,11 @@ ARTICULO 37
 
 En las actuaciones judiciales no se emplearán abreviaturas, ni se rasparán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose al fin, con toda precisión, el error cometido.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ARTICULO 38
 
-Las actuaciones judiciales deberán ser autorizadas, bajo pena de nulidad, por el funcionario público a quien corresponda dar fe o certificar el acto.
+Las actuaciones judiciales deberán ser autorizadas, bajo pena de nulidad, por el servidor público a quien corresponda dar fe o certificar el acto.
 
 ARTICULO 39
 
@@ -295,15 +311,19 @@ II.- La multa que no exceda de la máxima señalada en la fracción I del artíc
 
 III.- La suspensión que no exceda de un mes.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ARTICULO 43
 
-Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, podrá ésta pedir al juez que la oiga en justicia, sin substanciación especial, y se citará para la audiencia dentro del tercer día, en la que se resolverá, sin más recurso que el de responsabilidad.
+Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, podrá ésta pedir al juez o tribunal que la oiga en justicia, sin substanciación especial, y se citará para la audiencia dentro del tercer día, en la que se resolverá sin ulterior recurso.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ARTICULO 44
 
-Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, menos el domingo y aquellos que las leyes declaren inhábiles.
+Las actuaciones judiciales se practicarán en días y horas hábiles. Son hábiles todos los días del año, menos el domingo y aquéllos que las leyes declaren inhábiles.
 
-Se entienden horas hábiles, las que median desde la salida a la puesta del sol. En los juicios sobre alimentos, impedimento de matrimonio, servidumbres legales, posesión, cuestiones familiares y los demás que determinen las leyes, no hay días ni horas inhábiles. En los demás casos el juez puede habilitar los días y horas inhábiles, para actuar, o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
+Se entienden horas hábiles, las que median desde las siete a las diecinueve horas. En los juicios sobre alimentos, impedimento de matrimonio, servidumbres legales, posesión, cuestiones familiares y los demás que determinen las leyes, no hay días ni horas inhábiles. En los demás casos, el juez puede habilitar los días y horas inhábiles, para actuar, o para que se practiquen diligencias, cuando hubiere causa, urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
 
 ARTICULO 45
 
@@ -433,11 +453,15 @@ I.- El poder que acredite la personalidad del que comparece en nombre de otro;
 
 II.- El documento o documentos que acrediten el carácter con el que el litigante se presente en juicio, en el caso de tener representación legal de alguna persona o corporación, o cuando el derecho que reclame provenga de habérsele transmitido por otra persona;
 
-III.- Una copia en papel común del escrito cuando haya de correrse traslado al colitigante. Los documentos quedarán en la secretaría para que se instruyan las partes.
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 1992)</small>
+
+III.- Una copia del escrito cuando haya de emplazarse a su contraparte, pudiéndose emplear fotocopias o cualquier otro medio de reproducción, siempre y cuando sean legibles.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ARTICULO 63
 
-También deberá acompañarse a toda demanda, contestación o réplica, el documento o documentos en que la parte interesada funde su derecho.
+También deberá acompañarse a toda demanda o contestación, el documento o documentos en que la parte interesada funde su derecho.
 
 Si no los tuviere a su disposición, designará el archivo o lugar en que se encuentren los originales.
 
@@ -489,7 +513,9 @@ ARTICULO 70
 
 En los oficios y exhortos, no se requiere la legalización de las firmas del tribunal que los expida, a menos que lo exija la ley de la jurisdicción del tribunal requerido, como requisito para obsequiarlos.
 
-Para que los exhortos de los tribunales de los Estados o del Distrito y Territorios Federales sean diligenciados por los de Veracruz, no será necesaria la legalización de las firmas de los funcionarios que los expidan.
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
+Para que los exhortos de los tribunales de los estados o del Distrito Federal, sean diligenciados por los de Veracruz, no será necesaria la legalización de las firmas de los servidores públicos que los expidan.
 
 ARTICULO 71
 
@@ -555,9 +581,11 @@ ARTICULO 80
 
 Si se probare que no se hizo la notificación personalmente, compareciendo la parte al tribunal con ese objeto, será responsable el secretario o la persona que debió hacer aquélla, de los daños y perjuicios, y se le impondrá, además, una multa equivalente hasta por diez días del salario que devengue el servidor público responsable, sin perjuicio de otras penas que merezca conforme al Código Penal.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ARTICULO 81
 
-Se notificarán personalmente los emplazamientos para contestar una demanda, para posiciones o reconocimiento de firmas y documentos, libros o papeles y cuando se haga saber el envío de los autos a otro tribunal, así como cuando en el juicio se haya dejado de actuar por seis meses consecutivos.
+Se notificarán personalmente los emplazamientos para contestar una demanda, para posiciones o reconocimiento de firmas y documentos, libros o papeles y cuando se haga saber el envío de los autos a otro tribunal, así como cuando en el juicio se haya dejado de actuar por más de noventa días naturales.
 
 > <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
 
@@ -581,9 +609,11 @@ ARTICULO 86
 
 Cuando haya de notificarse a una persona residente en otro lugar, comprendido en la jurisdicción del juez que la mande hacer, la notificación se hará por medio de oficio a la autoridad judicial correspondiente, para que ésta haga la notificación en los términos de ley.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ARTICULO 87
 
-Cuando variare el personal de un tribunal, no se proveerá decreto haciendo saber el cambio, sino que al margen del primer proveído que se dictare, después de ocurrido el cambio, se pondrán los nombres y apellidos completos de los nuevos funcionarios.
+Cuando variare el personal de un tribunal, no se proveerá Decreto haciendo saber el cambio, si en la nueva resolución se contienen los nombres y apellidos completos de los nuevos funcionarios.
 
 (REFORMADO, G.O. 31 DE MARZO DE 1988)(F. DE E., G.O. 14 DE JUNIO DE 1988)
 
@@ -631,9 +661,11 @@ ARTICULO 95
 
 Una vez concluídos los términos fijados a las partes, sin necesidad de que se acuse rebeldía, seguirá el juicio su curso y se tendrá por perdido el derecho que dentro de ellos debió ejercitarse; salvo los casos en que la ley disponga otra cosa.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ARTICULO 96
 
-Siempre que la práctica de un acto jurídico requiera la notificación de personas que estén fuera del lugar del juicio, para que concurran ante el tribunal, se debe señalar un término en el que se aumente al fijado por la ley un día más del que emplee el servicio de correos de la Federación en ir y volver. En caso de que no haya servicio de correo, se atenderá a la distancia y dificultades de las comunicaciones a juicio del juez, para fijar un término especial.
+Siempre que la práctica de un acto judicial requiera la notificación de personas que estén fuera del lugar del juicio, para que concurran ante el tribunal, se debe señalar un término en el que se aumente el fijado por la Ley, lo que hará el juez en forma discrecional atendiendo a los medios de comunicación.
 
 ARTICULO 97
 
@@ -683,27 +715,33 @@ ARTICULO 103
 
 Los honorarios de los depositarios, peritos y demás personas que intervengan en el juicio, serán regulados conforme a arancel.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ARTICULO 104
 
-Siempre será condenado en costas que incluirán los honorarios del abogado patrono de la contraparte, el litigante que no obtuviere resolución favorable, ya en lo principal, ya en los incidentes que surgieren.
+Siempre será condenado al pago de gastos y costas que incluirán los honorarios del abogado patrono de la contraparte, el litigante que no obtuviere resolución favorable, ya en lo principal, ya en los incidentes que surgieren.
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
 
 Esta condenación no comprenderá los honorarios y gastos ocasionados por promociones, pruebas y actuaciones que sean inútiles, superfluas o no autorizadas por la ley, las cuales debe pagar el funcionario responsable de ellas, en los términos de este Código.
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
+
 Para determinar los honorarios de los abogados patronos se estará al contrato sobre prestación de servicios profesionales respectivo, siempre que el mismo haya sido exhibido anexo a la demanda, contestación y reconvención en su caso, y su monto no exceda al veinte por ciento sobre la suerte principal del negocio. A falta de contrato se estará al arancel. En caso de allanamiento a la demanda no habrá condenación en gastos y costas.
 
-La condenación en costas no se hará efectiva cuando el superior revoque la resolución recurrida.
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
+La condenación en gastos y costas no se hará efectiva en Segunda Instancia cuando se modifique la resolución recurrida. Cuando el superior revoque la resolución del inferior, se estará a lo dispuesto, en el primer párrafo de este precepto.
 
 ARTICULO 105
 
 Los representantes del Fisco, de los Ayuntamientos, de la Beneficencia y del Ministerio Público, serán personalmente responsables de las costas que causaren, cuando no procedan obedeciendo instrucciones expresas o mandatos de la ley.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ARTICULO 106
 
-Presentada la regularización de costas, se emplazará a las partes para una audiencia que deberá efectuarse a más tardar dentro de cinco días, en la cual se dictará la resolución que proceda. Si nada expusiere la parte demandada, se aprobará la regulación siempre que esté de acuerdo con lo dispuesto por el artículo 104 o el arancel.
+Presentada la regularización de gastos y costas, se emplazará a las partes para una audiencia que deberá efectuarse a más tardar dentro de cinco días, en la cual se dictará la resolución que proceda. Si nada expusiere la parte demandada, se aprobará la regulación, siempre que esté de acuerdo con lo dispuesto por el artículo 104 o el arancel.
 
 > <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
 
@@ -735,6 +773,10 @@ Es juez competente aquel de los señalados en el artículo 116, ante quien los l
 
 Hay sumisión expresa, cuando los interesados renuncian terminantemente el fuero que la ley les concede y designan con precisión el juez a quien se someten.
 
+> <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
+En los casos de excusa o recusación, si el negocio estuviere radicado en un Juzgado de Primera Instancia de lo familiar, se turnará al Juzgado de Primera Instancia civil o mixto que corresponda y en caso de no haber otro de esta categoría, se enviará el expediente a un Juzgado Menor que conozca de la materia civil, del mismo distrito.
+
 ARTICULO 112
 
 Se entienden sometidos tácitamente:
@@ -747,9 +789,11 @@ III.- El que, habiendo promovido la incompetencia del juez, se desiste de ella;
 
 IV.- El tercer opositor o el que por cualquier motivo viniere al juicio en virtud de incidente.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ARTICULO 113
 
-Ni por sumisión expresa ni por tácita, se puede prorrogar jurisdicción sino a juez que la tenga del mismo género que la que se prorroga.
+Ni por sumisión expresa, ni por tácita, se puede prorrogar competencia, sino a Juez que la tenga del mismo género y grado que la que se prorroga.
 
 ARTICULO 114
 
@@ -801,17 +845,19 @@ XIV.- En los casos relativos al nombre, lo será el del domicilio del promovente
 
 XV.- El que deba conocer por virtud de la cuantía de las reclamaciones. Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demande el actor como suerte principal. Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se atenderá al monto de las mismas. Para conocer de las reclamaciones cuyo importe no exceda del equivalente a treinta días de salario mínimo general vigente en la capital del Estado, durante el mes de enero del año en que se presente la demanda o reconvención, es competente un Juez Municipal; de este monto en adelante y hasta el equivalente a quinientos días del salario mínimo general antes mencionado, es competente un Juez Menor, sin que la diferencia anual de salarios sea motivo de incompetencia; de ese equivalente en adelante, un Juez de Primera Instancia.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ARTICULO 117
 
-De las cuestiones sobre alimentos, divorcio, rectificaciones de actas de Registro Civil, nulidad de matrimonio y sucesiones, sea cual fuere el interés pecuniario que de ellas emanare, conocerán los Jueces de Primera Instancia.
+De las cuestiones inherentes a la familia, conocerán los jueces de Primera Instancia de lo Familiar.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ARTICULO 118
 
-En la reconvención es Juez competente el que lo sea para conocer de la demanda principal, pero si dicha reconvención fuere por más de cincuenta mil pesos y estuviere conociendo del caso un Juez Municipal, conocerá del mismo el Juez Menor o de Primera Instancia que corresponda. Si la reconvención excediere del equivalente a ciento ochenta días del salario mínimo general vigente en la capital del Estado, durante el mes de enero del año que corresponda y estuviere conociendo del negocio un Juez Menor, conocerá del mismo uno de Primera Instancia.
+En la reconvención es juez competente el que lo sea para conocer de la demanda principal, aunque el valor de aquélla sea inferior a la cuantía de su competencia, pero si dicha reconvención fuera superior a esa cuantía, el conocimiento pasará al juez que corresponda, atendiendo a las reglas señaladas en el artículo 116 de este Código.
+
+Si en la reconvención se planteare alguna cuestión cuyo conocimiento esté reservado a un juez de lo familiar, la competencia de éste será atrayente.
 
 ARTICULO 119
 
@@ -833,7 +879,9 @@ La inhibitoria se intentará ante el juez a quien se considere competente, pidi�
 
 La declinatoria se propondrá ante el juez a quien se considere incompetente, pidiéndole que se abstenga del conocimiento del negocio y remita los autos al considerado competente.
 
-En ningún caso se promoverán de oficio las cuestiones de competencia; pero el juez que se estime incompetente, puede inhibirse del conocimiento del negocio, remitiendo los autos a su superior para que decida la competencia.
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
+En ningún caso se promoverán de oficio las cuestiones de competencia; pero el juez que se estime incompetente, puede inhibirse del conocimiento del negocio, remitiendo los autos a su superior para que decida la competencia, cumpliendo con los requisitos previstos en el artículo 110 de este Código.
 
 > <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 1969)</small>
 
@@ -1129,9 +1177,7 @@ En los casos previstos por la fracción III, del artículo 156 del Código Civil
 
 Igualmente dictará las medidas adecuadas, de acuerdo con las restantes fracciones del precepto citado del Código Civil, para el aseguramiento y cuidado de los hijos, para evitar perjuicio de un cónyuge al otro, para cumplir con las precauciones establecidas en el caso de que la mujer quede encinta, y las demás que prevenga la Ley.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
-
-En los casos en que se reclamen alimentos, el Juez podrá en el auto en que dé entrada a la demanda, a petición de parte y atendiendo a las circunstancias, fijar una pensión alimenticia provisional y decretar su aseguramiento, cuando los acreedores justifiquen con las correspondientes actas del Registro Civil el vínculo matrimonial o su parentesco con el deudor alimentista, sin perjuicio de lo que se resuelva en la sentencia definitiva.
+> <small>(DEROGADO TERCER PARRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 Cualquiera reclamación sobre las medidas a que se refiere este Capítulo, se resolverán con un solo escrito de cada parte, sin ulterior recurso.
 
@@ -1381,9 +1427,13 @@ VII.- En su caso el valor de lo demandado.
 
 La demanda debe ser escrita y será optativo para las partes acudir asesoradas a juicio. Cuando una de las partes carezca de asesoramiento por notoria falta de capacidad económica, se solicitarán los servicios de un defensor de oficio, el que deberá acudir desde luego, a enterarse y hacerse cargo del asunto.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
-Si por algún motivo no existiera defensor de oficio en el lugar del juicio y sean notorias la pobreza e ignorancia del reclamante, el juez aceptará la relación sencilla que se le haga, y si la reclamación es legal, se encargará de suplir en una acta los defectos de forma. En todo caso, el demandado podrá ocurrir al juzgado a tomar los datos que necesite para formular su contestación, sin perjuicio que se le emplace con la copia del acta respectiva en términos de ley.
+En los negocios sobre materia familiar, el asesoramiento profesional es obligatorio, y de ser de escasos recursos alguna de las partes, se procederá en la forma que se indica en el párrafo que antecede.
+
+> <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
+El Juzgador de oficio proveerá lo conducente a fin de que el procedimiento no se paralice ni se retarde.
 
 ARTICULO 208
 
@@ -1398,6 +1448,18 @@ El Juez examinará de oficio la demanda y si la encontrare obscura o irregular o
 ARTICULO 210
 
 Presentada la demanda con los documentos y copias prevenidas, se correrá traslado de ella a la persona o personas contra quienes se proponga, y se les emplazará para que contesten dentro de nueve días.
+
+> <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
+En los casos en que se reclamen alimentos, el juez podrá en el auto en que dé entrada a la demanda, a petición de parte y atendiendo a las circunstancias, fijar una pensión alimenticia provisional y decretar su aseguramiento, cuando los acreedores justifiquen con las correspondientes copias certificadas de las actas del estado civil, el vínculo matrimonial o su parentesco con el deudor alimentista, sin perjuicio de lo que se resuelva en la sentencia definitiva.
+
+> <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
+Cualquier reclamación sobre la medida indicada en el párrafo que antecede, se podrá formular dentro del escrito de contestación a la demanda, y previa vista que se dé a la parte contraria de la reclamante, el juez la resolverá dentro del término de tres días, tomando en cuenta los documentos que se hubieren aportado. Contra esta resolución no procede recurso ordinario.
+
+> <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
+En materia de Derecho Familiar, los jueces deberán suplir la deficiencia de la queja únicamente para los menores, incapaces y para el acreedor alimentario.
 
 ARTICULO 211
 
@@ -1443,21 +1505,27 @@ La declinatoria de jurisdicción se propondrá ante el juez, pidiéndole que se 
 
 Cuando no proceda la declinatoria, debe pagar las costas causadas el que la promovió y una multa que no exceda de la máxima señalada en la fracción I del artículo 53 que, según la importancia del litigio, le impondrá el superior en favor del colitigante.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ARTICULO 216
 
-Cuando en la sentencia definitiva se declare procedente alguna excepción dilatoria, se abstendrá el juez de fallar la cuestión principal, reservando el derecho del actor.
+Cuando en la resolución que ponga fin al proceso, se declare procedente alguna excepción dilatoria previa o procesal que no hubiere sido resuelta en la audiencia prevista en el artículo 219 de este Código, o hubiere ausencia de un presupuesto procesal, no se hubiere emplazado legalmente a alguna de las partes o no estuviere debidamente integrada la relación jurídica procesal, se abstendrá el juez o tribunal de fallar la cuestión principal y hará reserva de los derechos de los (sic) partes.
 
 ARTICULO 217
 
 La contestación de la demanda quedará en el juzgado a la vista del actor.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ARTICULO 218
 
-Cuando sin justa causa después de hacerse personalmente el emplazamiento, el emplazado dejare de contestar la demanda o alguna de sus partes, se presumirán confesados los hechos que no hayan sido contestados. El silencio y las evasivas en la contestación respecto a uno o más hechos de la demanda, establecen igual presunción.
+Cuando sin justa causa, después de hacerse el emplazamiento, el emplazado dejare de contestar la demanda o alguna de sus partes, se presumirán confesados los hechos que no hayan sido contestados. El silencio y las evasivas en la contestación respecto a uno o más hechos de la demanda, establecen igual presunción. En materia familiar, la falta de contestación no produce confesión ficta, sino que se entienden contestados los hechos en sentido negativo.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ARTICULO 219
 
-A los ocho días siguientes al de la contestación de la demanda, llamará el juez a las partes a una junta en la que en debate verbal fijen con claridad los puntos cuestionados. En esa junta se observarán las siguientes reglas:
+Dentro de los ocho días siguientes al de la contestación a la demanda o una vez concluido el término para producirla, a petición de parte o de oficio, convocará el juez a una audiencia, en la que las partes dialogarán por el término máximo de quince minutos a fin de que puedan llegar a un arreglo. En caso de que lleguen a un acuerdo, celebrarán un convenio y si estuviera ajustado a derecho y no lesionare derechos de las partes o de tercero, el juez lo aprobará elevándolo a la categoría de cosa juzgada. En los negocios radicados en los juzgados de lo familiar, los trabajadores sociales procurarán avenir a las partes, proponiéndoles alternativas de solución y de llegarse a un convenio, se procederá en la forma antes señalada; a falta de trabajadores sociales y en los demás juzgados civiles y mixtos, el Secretario de trámite o en su defecto, el de acuerdos propondrá a las partes alternativas de solución. Si no hubiese convenio, se proseguirá con la audiencia, en la que las partes en debate verbal fijarán con claridad los puntos cuestionados y en el que se observarán las siguientes reglas:
 
 I.- El demandado y el actor, en sus casos, deberán confesar, negar o explicar los hechos aducidos en la demanda y en la contestación;
 
@@ -1475,25 +1543,25 @@ Si transcurrido el término del emplazamiento no es contestada la demanda, se ha
 
 Para hacer la declaración de rebeldía, el juez examinará escrupulosamente si las notificaciones precedentes están hechas al demandado en la forma legal, si el demandante no señaló casa en el lugar del juicio, y si el demandado quebrantó el arraigo.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ARTICULO 221
 
-Si no fue posible la recepción de todas las pruebas en la junta a que se refiere el artículo 219, se citará para otra, dentro de los veinte días siguientes al en que se haya efectuado la primera o al último del emplazamiento en caso de rebeldía.
+Si no fue posible la recepción de todas las pruebas en la audiencia a que se refiere el artículo 219, al término de ésta, el juez de oficio citará para otra y ordenará la preparación de las pruebas pendientes. Esta audiencia deberá celebrarse dentro de los veinte días siguientes al en que se haya efectuado la primera.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
+En esta segunda y última audiencia, se recibirán las pruebas pendientes, inclusive las de tachas, y se oirá el alegato de las partes, los que podrán formularse por escrito en la misma audiencia o formularse oralmente, asentándose en el acta únicamente las conclusiones. A continuación el juez procederá conforme a lo dispuesto en el artículo 60 de este Código.
 
-En esta segunda junta, se recibirán las pruebas pendientes, inclusive las de tachas y se oirá el alegato de las partes. A continuación el juez procederá conforme al primer párrafo del artículo 60.
-
-Al acabar la audiencia en esta junta, se tendrá por concluído el término probatorio que principia por ministerio de la ley con la notificación del primer emplazamiento.
+Al concluir esta audiencia termina el período probatorio.
 
 ARTICULO 222
 
 Las excepciones supervenientes, se harán valer hasta antes de la sentencia y dentro de tercero día de aquél en que tenga conocimiento la parte. Se substanciarán por cuerda separada y en forma de incidente, procurando que su resolución se reserve para la definitiva.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ARTICULO 223
 
-Confesada la demanda en todas sus partes o manifestada la conformidad del actor con la contestación de ella, previa su ratificación ante el Tribunal, se pronunciará sentencia.
+Confesada la demanda en todas sus partes o manifestada la conformidad del actor con la contestación de ella, previa su ratificación ante el tribunal, se pronunciará sentencia. El allanamiento producirá consecuencias jurídicas, cuando esté ajustado a derecho y no lesione derechos de las partes o de tercero.
 
 ARTICULO 224
 
@@ -1521,7 +1589,9 @@ ARTICULO 229
 
 El que niega sólo estará obligado a probar:
 
-I.- Cuando la negación envuelva la afirmación expresa de un hecho;
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 1992)</small>
+
+I.- Cuando la negación envuelva la afirmación implícita de un hecho;
 
 II.- Cuando se desconozca la presunción legal que tenga en su favor el colitigante;
 
@@ -1581,9 +1651,11 @@ IX.- Las presunciones, y
 
 X.- Los demás medios que produzcan convicción en el juzgador.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ARTICULO 236
 
-Las pruebas deben ser ofrecidas, relacionándolas con cada uno de los puntos controvertidos, declarando el nombre y domicilio de testigos y peritos, si de éstos se trata, y pidiendo la citación de la contraparte para absolver posiciones, cuando se pretenda la prueba de confesión.
+Las pruebas deben ser ofrecidas, relacionándolas con cada uno de los hechos de la demanda y contestación, proporcionando el nombre y domicilio de testigos y peritos, si de éstos se trata, y pidiendo la citación de la contraparte para absolver posiciones, cuando se pretenda la prueba de confesión.
 
 > <small>(ADICIONADO, G.O. 31 DE MARZO DE 1988)</small>
 
@@ -1607,9 +1679,7 @@ Al solicitarse la inspección judicial, se determinarán los puntos sobre que de
 
 ARTICULO 241
 
-El juez queda facultado, al admitir las pruebas ofrecidas, para elegir la forma escrita o la forma oral en la recepción y práctica de ellas, a menos que ambas partes hubieren propuesto con anterioridad forma expresa de recibirlas.
-
-En la forma escrita, las pruebas se recibirán durante el período probatorio, a medida que se vayan presentando o el juez lo determine.
+> <small>(DEROGADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ARTICULO 242
 
@@ -1849,7 +1919,9 @@ III.- Cuando habiendo aceptado, no rindiere su dictamen dentro del término fija
 
 IV.- Cuando el que fue nombrado y aceptó el cargo lo renunciare después;
 
-V.- Si el designado por los litigantes no se encontrare en el lugar del juicio o en el que deba practicarse la prueba o no se hubiere señalado su domicilio.
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 1992)</small>
+
+V.- Si el designado por los litigantes no se encontrare en el lugar del juicio o en el que deba practicarse la prueba.
 
 ARTICULO 275
 
@@ -2063,11 +2135,11 @@ Constituído el tribunal en audiencia pública el día y hora señalados al efec
 
 La audiencia se celebrará concurran o no las partes y estén o no presentes los testigos y peritos y los abogados.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ARTICULO 305
 
-Iniciada la audiencia a que se refiere el artículo 219, el Juez, mediante decreto, fijará la litis y a continuación las pruebas se recibirán y practicarán en el orden fijado en el artículo 235.
+Iniciada la audiencia a que se refiere el artículo 219, cuando no haya convenio, el juez reconocerá mediante auto, la litis fijada por las partes y a continuación las pruebas se recibirán y practicarán en el orden fijado en el artículo 235.
 
 ARTICULO 306
 
@@ -2277,9 +2349,13 @@ Para que la ejecución tenga lugar se necesita un título que la lleve aparejada
 
 Traen aparejada ejecución:
 
-I.- La primera copia de la escritura pública expedida por el juez o notario ante quien se otorgó;
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 1992)</small>
 
-II.- Las ulteriores copias dadas por mandato judicial, con citación de la persona a quien interesa;
+I.- El testimonio de la escritura pública expedida por el juez o notario ante quien se otorgó;
+
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 1992)</small>
+
+II.- Los convenios que en la vía conciliatoria se celebren y aprueben ante la Procuraduría Federal del Consumidor, exclusivamente en materia de arrendamiento sobre fincas urbanas destinadas a habitación;
 
 III.- Los demás instrumentos públicos que conforme al artículo 265 hacen prueba plena;
 
@@ -2293,9 +2369,11 @@ VII.- Las pólizas originales de contratos celebrados con intervención de corre
 
 VIII.- El juicio uniforme de contadores, si las partes ante el juez o por escritura pública o por escrito privado reconocido judicialmente, se hubieren sujetado a él expresamente o lo hubieren aprobado;
 
-IX.- La primera copia certificada, expedida por la Junta Central de Conciliación y Arbitraje del Estado, de los laudos que pronuncie, y
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 1992)</small>
 
-X.- Las demás que señale la ley.
+IX.- Las demás que señale la Ley.
+
+X.- (DEROGADA, G.O. 1 DE FEBRERO DE 1992)
 
 ARTICULO 341
 
@@ -2411,9 +2489,11 @@ ARTICULO 360
 
 Si la sentencia contuviere condena al pago de cantidad líquida y de otra ilíquida, podrá procederse a hacer efectiva la primera, sin esperar a que se liquide la segunda.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ARTICULO 361
 
-Si la sentencia no contiene cantidad líquida, la parte a cuyo favor se pronunció, al promover la ejecución, presentará su liquidación de la cual se dará vista por tres días a la parte condenada. Si ésta nada expusiere dentro del término fijado, se decretará la ejecución por la cantidad que importe la liquidación; mas si expresare su inconformidad, se dará vista de las razones que alegue a la parte promovente, por tres días. El juez fallará dentro de igual término lo que estime justo. De esta resolución no habrá más recurso que el de responsabilidad.
+Si la sentencia no contiene cantidad líquida, la parte a cuyo favor se pronunció, al promover la ejecución, presentará su liquidación de la cual se dará vista por tres días a la parte condenada. Si ésta nada expusiere dentro del término fijado, se decretará la ejecución por la cantidad que el juez apruebe prudentemente; más si expresare su inconformidad, se dará vista de las razones que alegue a la parte promovente, por tres días. El juez fallará dentro de igual término, lo que estime justo. Contra esta resolución no habrá recurso.
 
 ARTICULO 362
 
@@ -2463,9 +2543,11 @@ Cuando la sentencia condene a dividir una cosa común y no dé las bases para el
 
 Presentado el plan de partición, quedará en la secretaría a la vista de los interesados por seis días, comunes, para que formulen las objeciones dentro de ese mismo tiempo. Si las formulan, se correrá traslado al partidor y se substanciarán en el incidente en la misma forma de los de liquidación de sentencia. El juez, al resolver, mandará hacer las adjudicaciones y extender las hijuelas con una breve relación de los antecedentes respectivos.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ARTICULO 370
 
-Si la sentencia condena a no hacer, su infracción, se resolverá en el pago de daños y perjuicios al actor, quien tendrá el derecho de señalarlos, para que por ellos se despache ejecución.
+Si la sentencia condena a no hacer, su infracción, se resolverá en el pago de daños y perjuicios al actor, quien tendrá el derecho de señalarlos, debiéndosele dar vista por el término de tres días a la parte ejecutada, y se desahogue o no la misma, el juez dentro de igual término resolverá lo que corresponda. Contra esta resolución no habrá recurso.
 
 ARTICULO 371
 
@@ -3331,13 +3413,15 @@ ARTICULO 505
 
 Las sentencias que se pronuncien en esta materia, se comunicarán al Encargado del Registro Civil.
 
+> <small>(REFORMADA SU DENOMINACION, G.O. 1 DE FEBRERO DE 1992)</small>
+
 TITULO DECIMOSEGUNDO
 
-DE LOS RECURSOS
+DE LOS RECURSOS Y DE LA REVISION DE OFICIO
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 29 DE DICIEMBRE DE 1966)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 1 DE FEBRERO DE 1992)</small>
 
-### CAPITULO I. De la revocación, apelación y reposición
+### CAPITULO I. De la revocación, reposición, apelación y la revisión de oficio
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1966)</small>
 
@@ -3389,6 +3473,10 @@ Al interponerse la apelación se expresará el motivo que originó la inconformi
 
 Se aceptará como expresión de agravios la enumeración sencilla que haga la parte sobre los errores o violaciones del derecho que en su concepto haya cometido el juzgador.
 
+> <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
+Se suplirá la deficiencia en la expresión de los agravios, cuando puedan afectarse derechos de menores o incapaces, así como en materia familiar.
+
 ARTICULO 515
 
 Interpuesta una apelación el juez la admitirá sin substanciación alguna, si fuere procedente, expresando si la admite en ambos efectos o en uno sólo.
@@ -3409,9 +3497,11 @@ II.- De los autos que paralizan o ponen término al juicio, haciendo imposible s
 
 III.- De otras resoluciones que especifique la ley.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ARTICULO 518
 
-Admitida la apelación en ambos efectos, el juez remitirá los autos originales desde luego, a la sala correspondiente del Tribunal Superior, dentro del tercer día, comunicándolo a las partes para que ocurran, si lo desearen, a dicho Tribunal; en el que no se les notificará la llegada de las actuaciones.
+Admitida la apelación en ambos efectos, el Juez, remitirá los autos originales desde luego, a la Secretaría General del Tribunal Superior o en su caso a su superior inmediato, dentro del tercer día, comunicándolo a las partes para que ocurran, si lo desearen, a dicho Tribunal; en el que no se les notificará la llegada de las actuaciones.
 
 ARTICULO 519
 
@@ -3465,13 +3555,13 @@ ARTICULO 526
 
 Se da el recurso de queja en contra de los ejecutores o secretarios, por omisiones y negligencias en el desempeño de sus funciones.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ARTICULO 527
 
-El recurso de queja en contra del Juez, se presentará ante él mismo, dentro de los dos días que sigan al acto reclamado, enviándose copia a su superior dentro del mismo tiempo, por correo certificado o personalmente; dentro del tercer día de interpuesto, el Juez de los autos remitirá al superior inmediato informe con justificación; recibido éste, el superior dentro del tercer día, decidirá lo que corresponda.
+El recurso de queja en contra del Juez, se presentará ante él mismo, dentro de los dos días que sigan al acto reclamado. Dentro del término de tres días de interpuesto el recurso, el juez de los autos remitirá a la Secretaría General del Tribunal Superior de Justicia o en su caso a su superior inmediato, informe con justificación, acompañando al mismo copia legible de las constancias conducentes; recibido éste, el superior dentro del tercer día, decidirá lo que corresponda.
 
-De proceder el recurso en el caso de la fracción III del artículo 525, la Sala correspondiente remitirá las actuaciones a la Secretaría del Tribunal, para la integración del toca de apelación.
+De proceder el recurso en el caso de la fracción III del artículo 525, en la resolución se dispondrá que el inferior admita y tramite la apelación conforme a las reglas contenidas en el Capítulo Primero de este Título.
 
 > <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
 
@@ -3985,9 +4075,11 @@ ARTICULO 585
 
 La intervención que debe tener el representante del Fisco será determinada por leyes especiales, pero conservando siempre la unidad del juicio.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ARTICULO 586
 
-El albacea manifestará dentro de tres meses de hacérsele saber el nombramiento, si acepta. Si acepta y entra en la administración, le prevendrá el juez que dentro de otros tres debe garantizar su manejo con sujeción a lo dispuesto en los artículos 1641 y 1642 del Código Civil, salvo que todos los interesados le hayan dispensado de esa obligación.
+El albacea manifestará dentro de diez días de hacérsele saber el nombramiento, si acepta. Si acepta y entra en la administración, le prevendrá el Juez que dentro de los treinta días siguientes, debe garantizar su manejo con sujeción a lo dispuesto en los artículos 1641 y 1642 del Código Civil, salvo que todos los interesados le hayan dispensado de esa obligación.
 
 ARTICULO 587
 
@@ -4551,6 +4643,10 @@ ARTICULO 678
 
 Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un intestado, éste podrá seguirse tramitando con intervención de un notario, de acuerdo con lo que se establece en este Capítulo.
 
+> <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
+Cuando haya menores de edad, el trámite con intervención de un notario procederá, si se satisfacen previamente los requisitos que establece el segundo párrafo del artículo 1709 del Código Civil del Estado.
+
 ### CAPITULO X. Del testamento público cerrado
 
 ARTICULO 679
@@ -4682,6 +4778,8 @@ El juez podrá variar o modificar las providencias que dictare, sin sujeción es
 No se comprenden en esta disposición los autos que tengan fuerza de definitivos y contra los que no se hubiere interpuesto recurso alguno.
 
 Las resoluciones dictadas en jurisdicción voluntaria, son apelables en ambos efectos, salvo disposición expresa en contrario.
+
+> <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
 
@@ -4851,6 +4949,20 @@ ARTICULO 719
 
 Lo dispuesto en los artículos que preceden, se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes, menores o incapacitados.
 
+###### ARTICULO 699
+
+ARTICULO 699-A
+
+A elección del promovente, podrá tramitarse la jurisdicción voluntaria ante Juez competente o ante Notario Público, cuando se trate de diligencias de apeo y deslinde, autorizaciones para que los emancipados o habilitados puedan enajenar sus bienes, cambio de nombre voluntario, cuando se refiera exclusivamente al nombre y no de los apellidos. Así como, informaciones testimoniales para acreditar hechos referentes a la residencia, capacidad, buena conducta, dependencia económica y de dominio sobre construcciones o mejoras de fincas rústicas o urbanas, debiendo en estos últimos casos, requerir la declaración de cuando menos dos testigos idóneos.
+
+En los casos en que deba intervenir el Ministerio Público, el Notario solicitará su opinión remitiéndole copia certificada de toda la documentación respectiva, para que la exprese en un plazo improrrogable de diez días hábiles. Una vez pronunciada la resolución, dentro del término de tres días se comunicará a las autoridades o instituciones que corresponda.
+
+De haber oposición al trámite notarial, de inmediato se suspenderá y turnará al Juez competente toda la documentación, para que se decida lo conducente.
+
+Las formalidades y requisitos exigidos por este Código, siempre serán observados, y de no hacerlo el Notario, además de la responsabilidad en que incurra, será responsable del pago de los daños y perjuicios que cause.
+
+En los testimonios que expidan los Notarios relativos a estos negocios, insertarán este artículo.
+
 ### CAPITULO IV. Adopción
 
 > <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1980)</small>
@@ -4979,9 +5091,11 @@ Los gastos generales del apeo se harán por el que lo promueva. Los que importen
 
 ### CAPITULO VII. De los bienes mostrencos
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ARTICULO 735
 
-Tan pronto como una autoridad municipal tenga conocimiento de la existencia de un bien mostrenco, lo comunicará al juez de primera instancia del Distrito, para que esto mande fijar avisos en los lugares públicos de costumbre, por el término de veinte días, y designe a un perito valuador que dictaminará desde luego sobre el valor del bien.
+Tan pronto como una autoridad municipal tenga conocimiento de la existencia de un bien mostrenco, lo comunicará al Juez Menor del Distrito y de no haber éste al de Primera Instancia, para que mande fijar avisos en los lugares públicos de costumbre, por el término de veinte días, y designe a un perito valuador que dictaminará desde luego sobre el valor del bien.
 
 ARTICULO 736
 
@@ -4997,9 +5111,11 @@ En el caso del artículo anterior, la resolución que se dicte tomará en cuenta
 
 ### CAPITULO VIII. De los bienes vacantes
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ARTICULO 739
 
-Ante el juez de primera instancia que corresponda por la ubicación del bien o de los bienes que el Código Civil considera como vacantes, se presentará la denuncia respectiva con las pruebas que la justifiquen.
+Ante el Juez Menor y de no haber éste el de Primera Instancia que corresponda por la ubicación del bien o de los bienes que el Código Civil considera como vacantes, se presentará la denuncia respectiva, con las pruebas que la justifiquen.
 
 ARTICULO 740
 
@@ -5023,9 +5139,11 @@ En el caso previsto por el artículo 825 del Código Civil, se observarán las m
 
 ### CAPITULO IX. Disposiciones relativas a otros actos de jurisdicción voluntaria
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ARTICULO 745
 
-Se tramitará en la forma de incidente que habrá de seguirse con audiencia del Ministerio Público, en todo caso:
+También se tramitarán en jurisdicción voluntaria con intervención del Ministerio Público:
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MARZO DE 1988)</small>
 
@@ -5063,11 +5181,11 @@ ARTICULO 747
 
 Para establecer la competencia de los Jueces Municipales, se estará a lo dispuesto en el artículo 116.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ARTICULO 748
 
-El demandado en el acto del Juicio, podrá pedir que se declare que el negocio no es de la competencia del Juez Municipal por exceder de cincuenta mil pesos de cuantía, en tal caso el Juez oirá lo que ambas partes expongan, la opinión de los peritos que presenten y examinando las pruebas que le aporten, resolverá enseguida. Si declarara ser competente se continuará con la audiencia como lo establecen los artículos siguientes, en caso contrario remitirá lo actuado al Juez que corresponda.
+El demandado en el acto del juicio, podrá pedir que se declare que el negocio no es de la competencia del Juez Municipal por exceder de la cuantía que tiene asignada, en tal caso éste oirá lo que ambas partes expongan; la opinión de los peritos que presenten y examinando las pruebas que le aporten, resolverá enseguida. Si declarara ser competente se continuará con la audiencia como lo establecen los artículos siguientes, en caso contrario remitirá lo actuado al juez que corresponda.
 
 > <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
 
@@ -5275,7 +5393,7 @@ ARTICULO 2°
 
 La sustanciación de los negocios de jurisdicción contenciosa que estén pendientes en primera o única instancia al entrar en vigor este Código, se sujetarán a las disposiciones del anterior, hasta pronunciarse sentencia. La tramitación de la apelación contra el fallo que se dicte en esos negocios, se sujetará a este Código; pero para la procedencia del recurso regirán las disposiciones del Código anterior.
 
-La substanciación de los negocios de jurisdicción voluntaria, se acomodará desde luego a las disposiciones de este Código.
+La sustanciación de los negocios de jurisdicción voluntaria, se acomodará desde luego a las disposiciones de este Código.
 
 ARTICULO 3°
 
@@ -5406,3 +5524,17 @@ Se derogan todas las disposiciones que se opongan a la presente Ley.
 ###### ARTICULO TERCERO.
 
 Los negocios que se encuentren en trámite en los Juzgados de Primera Instancia y Menores que por efectos de esta Ley, deba conocer un Juez inferior, continuarán conociendo de ellos los Juzgados en donde se radicaron, hasta su terminación.
+
+G.O. 1 DE FEBRERO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+Este ordenamiento entrará en vigor quince días después de su publicación en la "Gaceta Oficial" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+###### ARTICULO TERCERO.
+
+En los Distritos Judiciales donde no se hayan creado los Juzgados de lo Familiar, conocerán de esta materia, los Jueces de Primera Instancia de lo Civil o Mixtos. Los asuntos familiares que se hayan promovido a la fecha en que inicien sus funciones los Juzgados Familiares, continuarán conociendo de ellos los Juzgados donde estén radicados.
