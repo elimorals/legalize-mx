@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "1998-01-28"
+last_updated: "1998-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 1998.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -49,13 +49,17 @@ Esta Ley establece las bases de organización del Poder Ejecutivo del Estado de 
 
 La actividad del Poder Ejecutivo se regirá asimismo:
 
-I.- Por la Constitución Federal y la Particular del Estado;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+I.- Por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Chihuahua;
 
 II.- Por las disposiciones de carácter federal que confieran a las dependencias o entidades locales una delegación de funciones o las consideren como ejecutoras o auxiliares de la Federación en el cumplimiento de dichas disposiciones;
 
 III.- Por los convenios que con apego a los preceptos constitucionales y legales, celebre el Poder Ejecutivo con las dependencias y entidades de la Federación, de otros Estados o de los Municipios;
 
-IV.- Por las disposiciones del Código Administrativo y del Código Fiscal del Estado y sus Reglamentos;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+IV.- Por las disposiciones legales de carácter estatal que en cualquier forma le atribuyan competencia al Poder Ejecutivo;
 
 V.- Por las normas de derecho común que le atribuyan alguna competencia al Poder Ejecutivo;
 
@@ -67,13 +71,17 @@ VII.- Por los reglamentos, acuerdos y circulares dictados con apoyo y dentro de 
 
 En el ejercicio de las atribuciones y para el despacho de los negocios del orden administrativo del Poder Ejecutivo del Estado, habrá las siguientes dependencias de la administración pública centralizada;
 
-I.- La Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+I.- Las Secretarías;
 
 II.- La Procuraduría General de Justicia;
 
-III.- Las Direcciones Generales; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-IV.- Las unidades de apoyo y asesoría adscritas directamente al Ejecutivo.
+III.- Las Coordinaciones adscritas directamente al Ejecutivo.
+
+IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 ###### ARTICULO 3o.
 
@@ -91,27 +99,37 @@ IV.- Fideicomisos.
 
 ###### ARTICULO 4o.
 
-El Procurador General de Justicia es el Consejero Jurídico del Poder Ejecutivo, en los términos que determine la Ley.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 5o.
 
-El Gobernador del Estado podrá convocar a reuniones del Secretario de Gobierno, Procurador General de Justicia, Directores Generales y demás funcionarios competentes, cuando se trate de definir o evaluar la política del Gobierno Estatal. Estas reuniones serán presididas por el titular del Poder Ejecutivo.
+El Gobernador del Estado podrá convocar a reuniones de Secretarios, Procurador General de Justicia, Coordinadores y demás funcionarios competentes, cuando se trate de definir o evaluar la política del Gobierno Estatal. Estas reuniones serán presididas por el titular del Poder Ejecutivo.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 6o.
 
-El Gobernador del Estado contará además con las unidades de asesoría de apoyo técnico y de coordinación que el propio Ejecutivo determine, de acuerdo con el presupuesto.
+El Gobernador del Estado contará, además, con las unidades de asesoría y de apoyo técnico que el propio Ejecutivo determine, de acuerdo con el presupuesto.
 
 ###### ARTICULO 7o.
 
 Las dependencias y entidades de la administración pública centralizada y paraestatal conducirán sus actividades en forma programada, con base en las políticas que para el logro de los objetivos y prioridades de la planeación estatal del desarrollo, establezca el Ejecutivo.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ## TITULO SEGUNDO. De la Administración Pública Centralizada
 
-### CAPITULO I. DE LA SECRETARIA DE GOBIERNO, PROCURADURIA GENERAL DE JUSTICIA Y DIRECCIONES GENERALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+### CAPITULO I. DE LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA CENTRALIZADA
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 8o.
 
-La Secretaría de Gobierno, la Procuraduría General de Justicia y las Direcciones Generales tendrán igual rango y entre ellas no habrá por tanto, preeminencia alguna.
+Las dependencias de la administración pública centralizada tendrán igual rango y entre ellas no habrá, por tanto, preeminencia alguna.
 
 ###### ARTICULO 9o.
 
@@ -121,17 +139,25 @@ Los titulares de las dependencias a que se refiere el Artículo anterior, ejerce
 
 Las dependencias formularán respecto de los asuntos de su competencia, los proyectos de leyes, reglamentos, decretos, circulares y acuerdos del Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 11.
 
-Los Reglamentos, decretos y acuerdos expedidos por el Gobernador del Estado deberán, para su validez y observancia constitucionales, ir firmados por el Secretario de Gobierno y el titular de la dependencia a la que el asunto corresponda.
+Los reglamentos, decretos y acuerdos expedidos por el Gobernador del Estado deberán, para su validez y observancia constitucionales, ir firmados por el Secretario General de Gobierno y el titular de la dependencia a la que el asunto corresponda.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 12.
 
-Los titulares de las dependencias, para el despacho de los asuntos de su competencia, se auxiliarán de Jefes de Departamento, Oficina, Sección y Mesa y por los demás funcionarios que establezca el reglamento interior respectivo y otras disposiciones legales.
+Los titulares de las dependencias, para el despacho de los asuntos de su competencia, se auxiliarán de Directores, Jefes de Departamento y demás servidores públicos que establezca el reglamento interior respectivo, y autorice el presupuesto de egresos.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 13.
 
-Al frente de la Procuraduría General de Justicia habrá un Procurador, quien se auxiliará en el ejercicio de sus funciones por Sub-Procuradores y los órganos que determine su Ley Orgánica.
+Al frente de la Procuraduría General de Justicia habrá un Procurador, quien se auxiliará en el ejercicio de sus funciones por un Subprocurador General, Subprocuradores de Zona y los órganos que determine su Ley Orgánica.
+
+El Procurador General de Justicia es el Consejero Jurídico del Poder Ejecutivo, en los términos que determine la ley.
 
 ###### ARTICULO 14.
 
@@ -141,17 +167,21 @@ Corresponde originalmente a los titulares de las dependencias el trámite y reso
 
 Para la más eficaz atención de los asuntos de su competencia, las dependencias podrán contar con órganos administrativos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 16.
 
-En el reglamento interior de cada una de las dependencias, que será expedido por el Gobernador del Estado, se determinarán las atribuciones de sus unidades administrativas, así como la forma en que los titulares podrán ser suplidos en sus ausencias.
+En el reglamento interior de cada una de las dependencias, que será expedido por el Gobernador del Estado y publicado en el Periódico Oficial, se determinarán las atribuciones de sus unidades orgánicas, así como la forma en que los titulares podrán ser suplidos en sus ausencias.
 
 ###### ARTICULO 17.
 
 El titular de cada dependencia expedirá los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener información sobre la estructura orgánica de la dependencia y las funciones de sus Unidades administrativas, así como los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan. Los manuales y demás instrumentos de apoyo administrativo interior, deberán mantenerse actualizados.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 18.
 
-Las dependencias establecerán sus correspondientes servicios de apoyo en materia jurídica, administrativa, de planeación, programación, organización, informática, estadística y archivos y los demás que sean necesarios en los términos que fije el Ejecutivo.
+Las dependencias establecerán, cuando se justifique plenamente, sus correspondientes servicios de apoyo en materia jurídica, administrativa, de planeación, programación, organización, informática, estadística y archivos y los demás que sean necesarios en los términos que fije el Ejecutivo.
 
 ###### ARTICULO 19.
 
@@ -171,53 +201,59 @@ El Gobernador del Estado podrá celebrar convenios de coordinación de acciones 
 
 Los Titulares de las dependencias a que se refiere el artículo octavo de esta ley presentarán al Congreso, luego que esté abierto el Segundo Período Ordinario de Sesiones, un informe por escrito del estado que guardan los asuntos de sus respectivos ramos. Asimismo, podrán ser llamados para asesorar y explicar al Congreso, cuando se vaya a discutir un proyecto de ley o a estudiar un negocio relacionado con las funciones de su cargo. Esta obligación será extensiva a los directores u órganos equivalentes de las entidades paraestatales.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 22.
 
-En casos extraordinarios o cuando exista duda de la competencia de alguna dependencia para conocer de un asunto determinado, el Gobernador del Estado resolverá por conducto de la Secretaría de Gobierno a cual de ellas corresponde el despacho del mismo.
+En casos extraordinarios o cuando exista duda de la competencia de alguna dependencia para conocer de un asunto específico, el Gobernador del Estado resolverá por conducto de la Secretaría General de Gobierno a cual de ellas corresponde el despacho del mismo.
 
 ###### ARTICULO 23.
 
 Cuando alguna dependencia necesite informes, datos o la cooperación técnica de cualquier otra, ésta tendrá la obligación de proporcionarlos.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 24.
 
-Para el estudio, planeación y despacho de los negocios del orden administrativo, el Poder Ejecutivo del Estado contará con las siguientes dependencias:
+Para el estudio, planeación y despacho de los asuntos del orden administrativo, el Poder Ejecutivo del Estado contará con las siguientes dependencias:
 
-Secretaría de Gobierno.
+Secretaría General de Gobierno.
 
-Dirección General de Finanzas y Administración.
+Secretaría de Finanzas y Administración.
 
-Dirección General de Fomento Social.
+Secretaría de Planeación y Evaluación.
 
-Dirección General de Fomento Económico.
+Secretaría de Fomento Social.
 
-Dirección General de Educación y Cultura.
+Secretaría de Desarrollo Industrial.
 
-Dirección General de Comunicaciones y Obras Públicas.
+Secretaría de Desarrollo Comercial y Turístico.
 
-Dirección General de Desarrollo Urbano y Ecología.
+Secretaría de Educación y Cultura.
 
-Dirección General de Desarrollo Rural.
+Secretaría de Comunicaciones y Obras Públicas.
+
+Secretaría de Desarrollo Urbano y Ecología.
+
+Secretaría de Desarrollo Rural.
+
+Secretaría de Desarrollo Municipal.
+
+Secretaría de la Contraloría.
 
 Procuraduría General de Justicia.
 
-Adscritas directamente al Ejecutivo existirán las siguientes unidades de apoyo y asesoría:
-
-Coordinación de Planeación y Evaluación.
-
-Coordinación de Fortalecimiento Municipal.
-
 Coordinación de Comunicación Social.
 
-Contraloría del Estado.
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-### CAPITULO II. DE LA COMPETENCIA DE LA SECRETARIA DE GOBIERNO, PROCURADURIA GENERAL DE JUSTICIA Y DIRECCIONES GENERALES
+### CAPITULO II. DE LA COMPETENCIA DE LAS DEPENDENCIAS
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 25.
 
-A la Secretaría de Gobierno corresponde el despacho de los siguientes asuntos:
+A la Secretaría General de Gobierno corresponde el despacho de los siguientes asuntos:
 
 I.- Los que le encomienda directamente la Constitución Política del Estado;
 
@@ -225,63 +261,107 @@ II.- Conducir los asuntos internos del orden político del Estado;
 
 III.- Conducir y coordinar las relaciones del Poder Ejecutivo con la Federación, con los otros Poderes del Estado, con los Ayuntamientos de la Entidad y los Agentes Consulares, en lo relativo a su competencia;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-IV.- Designar a los representantes que integrarán el Jurado, para seleccionar y someter al Pleno del Congreso la terna integrada por los candidatos a Magistrados del Supremo Tribunal de Justicia mejor calificados. Asimismo, intervenir en la integración de las ternas para la designación de autoridades municipales y demás funcionarios, de conformidad con lo dispuesto por la Constitución Política del Estado;
+IV.- Designar a los representantes que integrarán el Jurado, para seleccionar y someter al Pleno del Congreso la terna integrada por los candidatos a Magistrados del Supremo Tribunal de Justicia mejor calificados; asimismo, intervenir en la integración de las ternas para la designación de los Consejos Municipales y demás funcionarios, de conformidad con lo dispuesto por la Constitución Política del Estado;
 
 V.- Asesorar jurídicamente a las dependencias y entidades del Ejecutivo, así como a los Ayuntamientos que lo soliciten;
 
 VI.- Atender lo relativo a la remisión de iniciativas de leyes y decretos enviados por el Ejecutivo al Congreso del Estado;
 
-VII.- Publicar, compilar y archivar las leyes, los reglamentos, circulares y acuerdos del Ejecutivo y el Periódico Oficial del Gobierno del Estado; y compilar y archivar el Diario Oficial de la Federación y el Seminario Judicial de la Federación;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+VII.- Publicar en el Periódico Oficial del Gobierno del Estado las leyes, decretos y reglamentos; circulares y acuerdos del Ejecutivo, así como las demás comunicaciones de carácter oficial que determinen las leyes, y compilar y archivar el Diario Oficial de la Federación, el Semanario Judicial de la Federación y el Periódico Oficial del Gobierno del Estado.
 
 VIII.- Coordinar la elaboración del informe anual que el Gobernador debe presentar al Congreso, sobre el Estado que guarde la Administración Pública;
 
-IX.- Tomar las medidas de prevención social necesarias para la Ejecución de las sentencias dictadas por los Tribunales en contra de los reos que hayan sido puestos a disposición del Ejecutivo y acordar todo lo relativo a la libertad absoluta, libertad preparatoria, condena condicional, libertad preliberacional, indultos y beneficios, exhortos y las demás atribuciones que en este ramo especifica el Código de Defensa Social y el de Procedimientos en la misma materia;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-X.- Llevar un registro general de firmas de funcionarios y empleados y atender todo lo relativo a la legalización de firmas y certificaciones expedidas por el Ejecutivo;
+IX.- Tomar las medidas de prevención social necesarias para la ejecución de las sentencias dictadas por los Tribunales en contra de los reos que hayan sido puestos a disposición del Ejecutivo y acordar todo lo relativo a la libertad absoluta, libertad preparatoria, condena condicional, libertad preliberacional, indultos y beneficios, exhortos y las demás atribuciones que en este ramo especifican el Código Penal del Estado y el de Procedimientos en la misma materia;
 
-XI.- Coordinar las actividades de las autoridades municipales y comunicarles los acuerdos del Ejecutivo, inspeccionando su funcionamiento y dictando las medidas preventivas del caso, en los términos de la Constitución;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-XII.- Tramitar la documentación necesaria para la expedición de pasaportes, en los términos de la ley federal relativa;
+X.- Llevar un registro general de firmas de funcionarios y atender todo lo relativo a la legalización de firmas y certificaciones expedidas por el Ejecutivo;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+XI.- Apoyar las actividades de las autoridades municipales y comunicarles los acuerdos del Ejecutivo, inspeccionando su funcionamiento y dictando las medidas preventivas del caso, en los términos de la Constitución;
+
+XII.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 XIII.- Vigilar el adecuado funcionamiento de las cárceles y establecimientos penitenciarios, así como el de los consejos tutelares para menores, centros de rehabilitación o de mejoramiento para menores y demás instituciones similares;
 
 XIV.- Tramitar las expropiaciones por causa de utilidad pública;
 
-XV.- Participar en el proceso electoral, de conformidad con la Ley correspondiente;
+XV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
-XVI.- Llevar un registro de los ministros de cada culto que ejerzan en el Estado y tramitar las expediciones de licencias para ese ejercicio y la cancelación de las mismas; le corresponde asimismo, lo relativo a la apertura y cierre de templos y en general, auxiliar las autoridades federales en todo lo concerniente a esta materia;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-XVII.- Expedir las licencias definitivas a los negocios donde se expendan bebidas alcohólicas, cualesquiera que sea su naturaleza, y vigilar la correcta aplicación de las disposiciones en esta materia. Las licencias que se conceden no constituyen ningún derecho a favor de quien se otorgan, pudiendo ser aquéllas revocadas a juicio del Ejecutivo, ya sea porque falte algún requisito de ley, o porque se estime como un peligro para la tranquilidad, seguridad, moralidad o salubridad pública;
+XVI.- Ejercer las funciones que la ley determina en materia de cultos, iglesias, asociaciones religiosas y sus ministros;
 
-XVIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de Gobernación, Registral de la Propiedad y Notariado, Trabajo y Previsión Social y Registral Civil, así como vigilar la organización y el funcionamiento de los departamentos que ejerzan las atribuciones anteriores; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-XIX.- Las demás que le atribuyen expresamente las leyes y reglamentos.
+XVII.- En los términos de la Ley respectiva, expedir las licencias definitivas a los negocios donde se expendan, distribuyan o consuman bebidas alcohólicas, y vigilar la correcta aplicación de las disposiciones en esta materia;
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+XVIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de Gobernación, Registral de la Propiedad y Notariado, del Trabajo y Previsión Social, Registral Civil, y Tránsito y Transporte, así como vigilar la organización y el funcionamiento de las Direcciones que ejerzan las atribuciones anteriores de acuerdo con los ordenamientos legales aplicables;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+XIX. Ejercer la vigilancia del tránsito y garantizar la seguridad de las carreteras dependientes del Estado y los caminos y demás vías de comunicación de competencia estatal; asimismo, coordinar y normar las funciones de las delegaciones de tránsito del Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+XX. Aprobar las tarifas de transporte público y tramitar las solicitudes para el otorgamiento de concesiones o permisos de servicio público de transporte de personas, de carga o mixto, en las carreteras y demás vías de comunicación de competencia estatal; y
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+XIX.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 26.
 
-A la Dirección General de Finanzas y Administración corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Finanzas y Administración corresponde al (sic) despacho de los siguientes asuntos:
 
-I.- Atender todo lo concerniente a la Organización Fiscal y en general, ejercer las atribuciones que le confiere la Constitución Política y el Código Fiscal del Estado;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+I.- Atender todo lo concerniente a la administración financiera y fiscal y en general, ejercer las atribuciones que le confiere la Constitución Política, el Código Fiscal del Estado, la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público, la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios y demás ordenamientos;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
 
 II.- Elaborar y presentar al Ejecutivo el proyecto anual de la Ley de Ingresos y el Presupuesto de Egresos;
 
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
+
 III.- Ejercer las atribuciones derivadas de los convenios fiscales que celebre el Gobierno del Estado con el Gobierno Federal o con los Municipios de la Entidad;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
 
 IV.- Recaudar los fondos provenientes de la ejecución de la Ley de Ingresos, así como los que por otros conceptos deba percibir el Estado, ejercitando en su caso la facultad económico-coactiva;
 
-V.- Custodiar y concentrar los fondos y valores financieros del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-VI.-. Dirigir la negociación y llevar el registro y control de la deuda Pública del Estado;
+V.- Custodiar y concentrar los fondos y valores del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+VI.- Dirigir la negociación de la deuda Pública del Estado, así como llevar el registro y control del endeudamiento estatal y municipal, de conformidad con la Ley de Deuda Pública para el Estado de Chihuahua y sus municipios;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 VII.- Representar el interés del Estado en controversias fiscales y participar en cualquier acto, contrato o convenio que obligue económicamente al Gobierno del Estado;
 
-VIII.- Autorizar y controlar el ejercicio del Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-IX.- Efectuar las erogaciones conforme al Presupuesto de Egresos;
+VIII.- Autorizar y controlar el ejercicio del Presupuesto de Egresos y efectuar las erogaciones conforme al mismo;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+IX.- Autorizar la estructura programática del presupuesto de egresos e integrar a éste los programas operativos anuales que hayan sido aprobados, de conformidad con lo dispuesto por esta ley, por la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público y por la Ley de Planeación para el Estado de Chihuahua;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
 
 X.- Llevar la contabilidad de la Hacienda Pública Estatal;
 
@@ -289,133 +369,275 @@ X.- Llevar la contabilidad de la Hacienda Pública Estatal;
 
 XI.- Formular por trimestre y anualmente la cuenta general de ingresos y egresos;
 
-XII.- Establecer medidas de control respecto a los ingresos y egresos de las entidades paraestatales, así como de los Patronatos que manejen fondos oficiales;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+XII.- Establecer medidas de control respecto a los ingresos y egresos de las entidades paraestatales, así como de los patronatos que manejen fondos oficiales, en los términos de la Ley de Entidades Paraestatales del Estado de Chihuahua;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
 
 XIII.- Proporcionar asesoría en materia de interpretación y aplicación de las leyes tributarias del Estado y realizar una labor permanente de difusión y orientación fiscal;
 
-XIV.- Dirigir y vigilar el cumplimiento de las Leyes y sus Reglamentos en relación a las funciones de ingresos, egresos y contabilidad, así como vigilar la organización y funcionamiento de los Departamentos que ejerzan las atribuciones anteriores;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+XIV.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de ingresos, fiscalización, egresos, contabilidad, recursos humanos, materiales y servicios; así como vigilar la organización y funcionamiento de las direcciones que ejerzan las atribuciones anteriores;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
 
 XV.- Vigilar el cumplimiento de las disposiciones legales y reglamentarias que rigen las relaciones entre el Estado y los Servidores Públicos;
 
-XVI.- Reclutar y seleccionar, en apoyo a las Dependencias, al personal de base del Poder Ejecutivo; tramitando todo lo relativo a nombramientos, promociones, cambios de adscripción, licencias, renuncias y bajas de los servidores públicos;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+XVI.- Reclutar y seleccionar en apoyo de las dependencias, al personal de base del Poder Ejecutivo; tramitando dentro del límite de los recursos presupuestales todo lo relativo a nombramientos, promociones, cambios de adscripción, licencias, renuncias y bajas de los servidores públicos;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
 
 XVII.- Mantener actualizado el escalafón y el tabulador de los Trabajadores al Servicio del Estado y los relativos al Personal al Servicio de la Educación a cargo del Estado, así como programar los estímulos y recompensas;
 
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
+
 XVIII.- Capacitar al personal al servicio y llevar los registros del mismo, controlar su asistencia y vacaciones;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
 
 XIX.- Otorgar becas y promover actividades socioculturales y deportivas para los Servidores Públicos;
 
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
+
 XX.- Formular el inventario y llevar el control de los bienes muebles e inmuebles del Estado;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
 
 XXI.- Celebrar los contratos que tengan por objeto proporcionar locales a las oficinas gubernamentales;
 
-XXII.- Cuidar de la conservación y el mantenimiento de los bienes muebles propiedad del Estado y celebrar acuerdos o convenios con las demás dependencias y entidades de la Administración Pública Estatal y Paraestatal, para encomendarles esta función;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 1996)</small>
+XXII.- Cuidar de la conservación y el mantenimiento de los bienes muebles e inmuebles propiedad del Estado y celebrar acuerdos o convenios con las demás dependencias y entidades de la Administración Pública Estatal y Paraestatal, para encomendarles esta función;
 
-XXIII.- Planear y diseñar integralmente las modificaciones que deban hacerse a la Administración Pública Estatal en lo relativo al establecimiento de las estructuras de organización y de los sistemas de información y operación más adecuados para el logro de los objetivos del Gobierno;
+XXIII.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
-XXIV.- Asesorar a las Dependencias del Poder Ejecutivo de la Administración Centralizada como de la Paraestatal, en materia de Organización y Sistemas Administrativos;
+XXIV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
-XXV.- Dirigir y vigilar el cumplimiento de las Leyes y sus Reglamentos en relación a las funciones de Recursos Humanos, Recursos Materiales y Servicios y Organización e Informática, así como vigilar la organización y funcionamiento de los departamentos que ejerzan las atribuciones anteriores;
+XXV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
 
 XXVI.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+ARTICULO 26 BIS.- A la Secretaría de Planeación y Evaluación corresponde el despacho de los siguientes asuntos:
+
+I.- Integrar, para la aprobación del Ejecutivo, en los términos del artículo 7 de este ordenamiento, el Plan Estatal de Desarrollo, los programas de mediano plazo y los programas operativos anuales, que como anteproyecto hayan elaborado las dependencias y entidades de la administración pública estatal, con la participación del Comité de Planeación para el Desarrollo del Estado de Chihuahua;
+
+II.- Analizar y presentar al Ejecutivo para su aprobación, los programas de inversión que deban quedar comprendidos en el marco de los convenios y acuerdos de coordinación con el gobierno federal y los municipios;
+
+III.- Establecer la coordinación del Plan Estatal de Desarrollo y de los programas que de él se deriven, con los planes y programas del gobierno federal y de los municipios de la entidad;
+
+IV.- Promover la participación de los sectores social y privado en la formulación de los planes y programas, así como en la evaluación de los mismos;
+
+V.- Organizar y operar un sistema permanente de evaluación y seguimiento de la ejecución de las metas fijadas en los programas anuales y de inversión, acorde con los objetivos y necesidades de la administración pública estatal en su conjunto, así como con los que se deriven de los acuerdos y convenios de coordinación con la federación y los municipios;
+
+VI.- Establecer la normatividad, la coordinación y los mecanismos a que deberán sujetarse las dependencias y entidades de la administración pública estatal, para la instrumentación de sus sistemas internos de planeación, programación y evaluación;
+
+VII.- Establecer adecuada coordinación con la Secretaría de Finanzas y Administración para la integración de los programas operativos anuales, por parte de esta dependencia, en el proyecto de presupuesto de egresos del gobierno del Estado;
+
+VIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de planeación, programación y evaluación, así como vigilar la organización y el funcionamiento de las direcciones que ejerzan las atribuciones anteriores; y
+
+IX.- Los demás que la (sic) atribuyan expresamente las leyes y sus reglamentos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 27.
 
-A la Dirección General de Fomento Social corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Fomento Social corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-I.- Ejercer las funciones que en materia de salud pública correspondan al Estado;
+I.- Dictar la normatividad a que deberán sujetarse los organismos descentralizados e instituciones del Ejecutivo estatal que presten los servicios de salud y asistencia social y vigilar su cumplimiento;
 
-II.- Ejercer las funciones que al Estado señala la Ley General de Salud, así como las que sean descentralizadas por la Secretaría de Salud al Gobierno del Estado.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-III.- Planear, desarrollar, dirigir, vigilar y evaluar los servicios estatales de salud, deportivos y asistencia social;
+II.- Ejercer las funciones otorgadas al Ejecutivo del Estado por las leyes General y Estatal de Salud, así como por los convenios y acuerdos celebrados con el gobierno federal en esta materia;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+III.- Planear, y evaluar los servicios de salud y de asistencia social que correspondan al Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 1994)</small>
 
 IV.- Coordinar el Sistema Estatal de Salud;
 
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 1994)</small>
+
 V.- Organizar, coordinar y fomentar la enseñanza y la práctica extraescolar de los deportes;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 1994)</small>
 
 VI.- Organizar y promover acciones tendientes al pleno desarrollo de la juventud y a su incorporación en las tareas nacionales estableciendo para ello sistemas de servicios social, centros de estudio, programas de recreación y de atención a los problemas de la juventud;
 
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 1994)</small>
+
 VII.- Coordinar, concertar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los indígenas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de las administraciones públicas federal, estatal, municipal, sectores social o privado, cuando así se requiera.
 
-VIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de salud, de fomento deportivo y de asistencia social, así como vigilar la organización y funcionamiento de los organismos que ejerzan las atribuciones anteriores;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+VIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de salud, de fomento deportivo, de atención a la juventud y a la mujer y de asistencia social, así como vigilar la organización y funcionamiento de los organismos que ejerzan las atribuciones anteriores;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 1994)</small>
 
 IX.- Participar en cualquier acto, convenio o contrato que obligue al Gobierno del Estado en las materias establecidas en este Artículo;
 
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 1994)</small>
+
 X.- Otorgar a instituciones y particulares becas y subsidios para el deporte, conforme a los montos y límites previstos en el Presupuesto de Egresos y
 
-XI.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+XI.- Desarrollar programas de salud tendientes a erradicar el consumo de sustancias adictivas, abarcando las áreas de prevención, investigación y tratamiento;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+XII.- Desarrollar programas para garantizar a la mujer la igualdad de oportunidades, respaldando su papel fundamental en la integración social y familiar; y
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 1994)</small>
+
+XIII.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 28.
 
-A la Dirección General de Fomento Económico corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Industrial corresponde al (sic) despacho de los siguientes asuntos:
 
-I.- Promover, fomentar e impulsar las actividades industriales, comerciales, turísticas y mineras de la entidad;
+I.- Promover, fomentar e impulsar las actividades industriales, forestales y mineras en la entidad;
 
-II.- Asesorara y orientar a los inversionistas para la creación de empresas industriales, comerciales, turísticas y mineras;
+II.- Asesorar y orientar a los inversionistas para la creación de empresas industriales, forestales y mineras, a fin de promover fuentes de empleo;
 
-III.- Establecer un sistema de información industrial, comercial, turístico y minero, así como los mecanismos necesarios para su difusión;
+III.- Establecer un sistema de información industrial, forestal y minero, así como los mecanismos necesarios para su difusión;
 
-IV.- Levantar y mantener actualizado el inventario de recursos naturales y de infraestructura industrial, comercial, turístico y minero;
+IV.- Elaborar y mantener actualizado el inventario de infraestructura industrial, forestal y minero;
 
-V.- Proporcionar asistencia técnica a la pequeña y mediana minería e industria en coordinación con el gobierno federal, estatal y municipal, así como los sectores privados y social;
+V.- Proporcionar asistencia técnica a la pequeña y mediana industria, en coordinación con los gobiernos federal y municipales, así como los sectores privado social;
 
-VI.- Coordinar los planes y programas en materia financiera, fiscal, administrativa y social para lograr un mejor funcionamiento del sector minero, industrial y de servicios;
+VI.- Participar en los planes y programas que en materia financiera, fiscal, administrativa y social se requieran para lograr el fortalecimiento de los sectores minero, forestal e industrial;
 
-VII.- Establecer acciones y programas encaminados hacia la modernización del sector comercial y la función del abasto en el estado, en coordinación con el gobierno federal, estatal y municipal y los sectores privado y social;
+VII.- Promover y apoyar el desarrollo de empresas industrializadoras de productos agrícolas y frutícolas, preferentemente en las zonas rurales de la entidad, con el fin de impulsar la creación de empleos y contribuir al arraigo de la población;
 
-VIII.- Dirigir y vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones legales en materia de industria, comercio, turismo y minería;
+VIII.- Apoyar los trámites relativos a la creación, establecimiento, regularización y funcionamiento de las microindustrias en el Estado;
 
-IX.- Las demás que le fijen expresamente las leyes y sus reglamentos.
+IX.- Fomentar el desarrollo de la industria maquiladora y el de sus proveedores;
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1994)</small>
+X.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en materia de industria, desarrollo forestal y minería, así como vigilar la organización y funcionamiento de las direcciones que ejerzan las atribuciones anteriores; y
+
+XI.- Los demás que le atribuyan expresamente las leyes y sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+ARTICULO 28 BIS.- A la Secretaría de Desarrollo Comercial y Turístico corresponde al (sic) despacho de los siguientes asuntos:
+
+I.- Fomentar la organización, regulación y modernización de los sectores comercial y turístico en el Estado, a través de apoyos técnicos y la gestión de créditos;
+
+II.- Promover la participación de los empresarios en la creación de centros de abasto;
+
+III.- Proponer acciones y alternativas de solución, conjuntamente con las autoridades municipales y federales y los comerciantes, de la problemática que enfrenta el comercio organizado;
+
+IV.- Diseñar estrategias e instrumentos de promoción para que el comercio del Estado tenga difusión a nivel nacional e internacional;
+
+V.- Coordinar la participación de los sectores público, social y privado en las acciones orientadas a la identificación, creación, conservación, mejoramiento y uso adecuado de los recursos naturales, históricos y culturales de interés turístico en el Estado;
+
+VI.- Coordinar las gestiones encaminadas a dotar a las localidades turísticas de infraestructura de comunicaciones y apoyar los servicios públicos y de equipamiento urbano necesarios;
+
+VII.- Instrumentar el sistema de información turística estatal para promover nacional e internacionalmente los destinos turísticos locales;
+
+VIII.- Otorgar la asistencia técnica que en materia turística requieran los prestadores de estos servicios;
+
+IX.- Diseñar proyectos turísticos que involucren directamente a los pobladores en las actividades de inversión para el desarrollo de las regiones;
+
+X.- Fomentar el turismo ecológico promoviendo para tal efecto el cuidado y la preservación del ambiente natural;
+
+XI.- Ejercer las atribuciones derivadas de los convenios que en materia turística celebre el gobierno del Estado con el gobierno federal o con los municipios de la entidad;
+
+XII.- Promover la inversión nacional y extranjera en el desarrollo turístico del Estado;
+
+XIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en materia de comercio y turismo, así como vigilar la organización y el funcionamiento de las direcciones que ejerzan las atribuciones anteriores; y
+
+XIV.- Los demás que le fijen expresamente las leyes y sus reglamentos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 29.
 
-A la Dirección General de Educación y Cultura corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Educación y Cultura corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
 
 I.- Ejercer las funciones que al estado correspondan en materia educativa;
 
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
+
 II.- Planear, desarrollar, dirigir y vigilar a la educación a cargo de los Gobiernos Estatal y Municipal y de los particulares autorizados por el Estado, en todos los tipos de niveles y modalidades;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
 
 III.- Coordinar los planes y programas de estudios de las instituciones de enseñanza estatales y municipales con los establecidos por la Secretaría de Educación Pública y ejecutar las acciones derivadas de los Convenios de Coordinación que en materia educativa celebre el Gobierno del Estado, así como ejercer las atribuciones que otorga al Estado la Ley General de Educación;
 
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
+
 IV.- Revalidar los estudios, diplomas, grados o títulos equivalentes a la enseñanza que se imparte en el estado, en los términos de Ley de la Materia;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
 
 V.- Coordinar con las universidades e instituciones de educación superior lo relativo al servicio social de pasantes y demás aspectos educativos que se acuerden con ellas;
 
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
+
 VI.- Impulsar actividades de difusión y fomento a la cultura;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
 
 VII.- Otorgar a instituciones y particulares becas y subsidios educativos y culturales, conforme a los montos y límites previstos en el Presupuesto de Egresos;
 
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
+
 VIII.- Coordinar y evaluar el funcionamiento de los organismos y entidades estatales dedicados a actividades culturales;
 
-IX.- Llevar un Registro de profesionistas que ejerzan en el Estado;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-X.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones educativas y de fomento cultural, así como vigilar la organización y el funcionamiento de los departamentos que ejerzan las atribuciones anteriores;
+IX.- Ejercer las atribuciones establecidas en la Ley Estatal de Profesiones;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+X.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones educativas y de fomento cultural, así como vigilar la organización y el funcionamiento de las direcciones que ejerzan las atribuciones anteriores;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
 
 XI.- Organizar, coordinar y apoyar las actividades cívico-sociales, para fomentar el civismo y valores entre la población;
 
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
+
 XII.- Organizar y dirigir las actividades de los centros de cultura del estado en lo referente a teatros, bibliotecas y museos, entre otros;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
 
 XIII.- Impulsar y apoyar obras materiales para fortalecer el patrimonio cultural;
 
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
+
 XIV.- Fomentar y apoyar las actividades relacionadas con la ciencia y tecnología;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
 
 XV.- Participar en cualquier acto, convenio o contrato que obligue al Gobierno del Estado en las materias establecidas en este artículo, y
 
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
+
 XVI.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 30.
 
-A la Dirección General de Comunicaciones y Obras Públicas corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Comunicaciones y Obras Públicas corresponde el despacho de los siguientes asuntos:
 
 I.- Dirigir, coordinar y controlar la ejecución de los programas de obras públicas;
 
@@ -423,31 +645,33 @@ II.- Proyectar, diseñar y presupuestar toda clase de obras materiales;
 
 III.- Ejecutar y conservar las obras, por sí misma o por conducto de la Federación, Municipios, Organismos Descentralizados, Empresas de participación estatal o personas físicas o morales de los sectores social y privado;
 
-IV.- Ejercer las facultades que al Ejecutivo correspondan de conformidad con la Ley de Obras Públicas;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+IV.- Ejercer las facultades que al Ejecutivo correspondan, de conformidad con las disposiciones legales en materia de obra pública;
 
 V.- Supervisar la ejecución de las obras con el objeto de que éstas se realicen de conformidad con los requisitos técnicos especificados en los proyectos aprobados y elaborar los informes que permitan conocer el avance y la calidad de las obras públicas;
 
-VI.- Vigilar el tránsito y garantizar la seguridad en las carreteras dependientes del Estado y en los caminos y demás vías de comunicación de competencia estatal;
+VI.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 VII.- Operar y mantener los servicios de telefonía, radiotelefonía y otros relacionados con las comunicaciones, que preste el Gobierno Estatal;
 
-VIII.- Aprobar las tarifas de transporte público y tramitar las solicitudes para el otorgamiento de concesiones de servicio público de transporte, de personas, de carga o mixto, en las carreteras y demás vías de comunicación de competencia estatal;
+VIII.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 IX.- Intervenir en la designación de representantes del Ejecutivo en las dependencias y entidades federales y municipales, en materia de su competencia;
 
-X.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de obras públicas y comunicaciones y transportes, así como vigilar la organización y el funcionamiento de los departamentos que ejerzan las atribuciones anteriores; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE JULIO DE 1993)</small>
+X.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de obras públicas y comunicaciones, así como vigilar la organización y el funcionamiento de las direcciones que ejerzan las atribuciones anteriores;
 
-XI.- Cuidar de la conservación y mantenimiento de los bienes inmuebles propiedad del Estado;
+XI.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 XII.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ENERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 31.
 
-A la Dirección General de Desarrollo Urbano y Ecología corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Urbano y Ecología corresponde al despacho de los siguientes asuntos:
 
 I.- Elaborar y mantener actualizado el Plan Estatal para el Desarrollo Urbano;
 
@@ -477,97 +701,151 @@ X.- Ejecutar la política ecológica aprobada, tendiendo siempre a la protecció
 
 XI.- Proponer la celebración de acuerdos de coordinación con la Federación, Entidades Federativas o Municipios, y concertar acciones con los diversos sectores sociales en las materias de la Ley Ecológica para el Estado de Chihuahua;
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 1992)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-XII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de Desarrollo Urbano y Ecología, así como vigilar la organización y funcionamiento de los Departamentos que ejerzan las atribuciones anteriores;
+XII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de desarrollo urbano, catastro y ecología, así como vigilar la organización y funcionamiento de las direcciones que ejerzan las atribuciones anteriores;
 
-XIII.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+XIII.- Integrar y mantener actualizado con la información que proporcionen los municipios, el catastro estatal, la información geográfica, la cartografía básica, y en general, ejercer las atribuciones que al gobierno del Estado correspondan de conformidad con la Ley de Catastro, y
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+XIV.- Los demás que le atribuyan expresamente las leyes y sus reglamentos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 32.
 
-A la Dirección General de Desarrollo Rural corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Rural corresponde el despacho de los siguientes asuntos:
 
-I.- Promover y fomentar las actividades agrícolas, ganaderas, frutícolas y forestales, promoviendo el crédito, la organización, los seguros y la tecnificación en coordinación con las dependencias federales, municipales y los sectores social y privado;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-II.- Aprovechar y distribuir las aguas de jurisdicción estatal y planear obras de riego;
+I.- Fomentar las actividades agrícolas, ganaderas, frutícolas y forestales, promoviendo el crédito, la organización, los seguros y la tecnificación en coordinación con las dependencias federales, municipales y los sectores social y privado;
 
-III.- Establecer, operar y mantener el servicio meteorológico y geográfico en el estado y difundir la información correspondiente;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-IV.- Establecer la representación que al Estado corresponda en la Comisión Agraria Mixta;
+II.- Apoyar la capacitación campesina para incrementar la productividad;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+III.- Normar el aprovechamiento y distribución de las aguas de jurisdicción estatal y planear obras de riego, de conformidad con la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+IV.- Promover y apoyar la organización formal de ejidatarios, comuneros y grupos sociales, para motivar la participación ciudadana en la formulación, ejecución y evaluación de programas encaminados a mejorar las condiciones y el nivel de vida de los habitantes de las zonas rurales de la entidad;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
 V.- Controlar y vigilar el funcionamiento de las colonias agrícolas y ganaderas organizadas al amparo de la legislación local;
 
-VI.- Asesorar y vigilar el funcionamiento administrativo de los mancomunes;
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-VII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones del desarrollo agropecuario, así como vigilar la organización y el funcionamiento de los departamentos que ejerzan las atribuciones anteriores; y
+VI.- Apoyar la organización, funcionamiento y desarrollo de cuencas lecheras en el Estado;
 
-VIII.- Las demás que le fijen expresamente las leyes y sus reglamentos.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+VII.- Asesorar y vigilar el funcionamiento administrativo de los mancomunes y ejercer las facultades que le confiere la Ley para la Regularización de Colonias Agrícolas y Mancomunes Agropecuarios de Régimen Estatal;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+VIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones del desarrollo agropecuario y forestal, así como vigilar la organización y el funcionamiento de las direcciones que ejerzan las atribuciones anteriores; y
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+IX.- Los demás que le fijen expresamente las leyes y sus reglamentos.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 33.
 
-La Procuraduría General de Justicia es la dependencia del Poder Ejecutivo del Estado, en la que se integran la Institución del Ministerio Público Local y sus órganos auxiliares directos, para el despacho de los asuntos que a aquélla y a su titular, en su caso, atribuyen la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, el presente ordenamiento y las demás disposiciones legales y reglamentarias aplicables.
-
-La Institución del Ministerio Público Local, presidida por el Procurador General de Justicia y éste personalmente, tendrán entre otras, las siguientes atribuciones;
-
-I.- Vigilar la observancia de los principios de constitucionalidad y legalidad en el ámbito de su competencia, sin perjuicio de las facultades que legalmente correspondan a otras autoridades jurisdiccionales o administrativas;
-
-II.- La persecución, ante los tribunales, de todos los delitos del orden local; y por lo mismo, a él le corresponderá solicitar las órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; hacer que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita y pedir la aplicación de las penas impuestas por los tribunales, exigiendo de quien corresponda, el cumplimiento de las sentencias recaídas;
-
-III.- Intervenir en los juicios y diligencias que se relacionen con ausentes, menores, incapacitados o establecimientos de beneficiencia (sic) pública, a los que representará siempre que no tuvieren quien los patrocine, velando por sus intereses;
-
-IV.- Rendir a los Poderes del Estado, los informes que le piden sobre asuntos relativos a su ramo; y
-
-V.- La que le confiere el artículo 4° de esta Ley.
-
-> <small>(ADICIONADA, P.O. 5 DE JULIO DE 1995)</small>
-
-VI.- Prevenir; vigilar e investigar que los servidores públicos del Estado, cumplan y hagan cumplir las leyes, reglamentos y demás disposiciones normativas, de una manera oportuna, honesta y eficaz, en los términos que señale el reglamento que al efecto expida el ejecutivo, y sin perjuicio de las facultades que legalmente correspondan a otras autoridades.
-
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1995)</small>
-
-El Procurador intervendrá por sí, por conducto de los agentes del Ministerio Público o de la Contraloría de Asuntos Internos, en el ejercicio de las atribuciones a que se refiere este artículo, según las previsiones de las leyes y reglamentos y los acuerdos que dicte el ejecutivo local o el propio Procurador. El reglamento prevendrá la distribución de los asuntos entre las unidades técnicas y administrativas de la dependencia.
-
-###### ARTICULO 34.
-
-La Coordinación de Planeación y Evaluación tiene las siguientes atribuciones:
-
-I.- Elaborar, con la participación de las dependencias y entidades de la administración pública, para su aprobación por el Jefe del Ejecutivo, el Plan Estatal de Desarrollo, los planes regionales y sectoriales de desarrollo y los programas estatales de inversión;
-
-II.- Analizar y someter al Ejecutivo para su aprobación, los programas de inversión que formulen las dependencias y entidades de la administración pública estatal;
-
-III.- Establecer la coordinación de los planes y programas de desarrollo del Gobierno del Estado con los del Gobierno Federal y los de los Municipios de la Entidad;
-
-IV.- Promover la participación de los sectores social y privado en la formulación de los planes y programas de desarrollo;
-
-V.- Organizar y operar un sistema permanente de control y evaluación de la ejecución de los programas de inversión acorde con los objetivos y necesidades de la administración pública estatal en su conjunto, así como con los que en esta materia, se deriven de los acuerdos y convenios de coordinación con la Federación y los Municipios;
-
-VI.- Establecer la normatividad, la coordinación y los mecanismos a que deberán sujetarse las dependencias del Ejecutivo, tanto de la administración centralizada como de la paraestatal, para la instrumentación de sus sistemas internos de programación, control y evaluación;
-
-VII.- (DEROGADA, P.O. 4 DE AGOSTO DE 1993)
-
-VIII.- Las demás que la (sic) atribuyan expresamente las Leyes y sus Reglamentos.
-
-###### ARTICULO 35.
-
-La Coordinación de Fortalecimiento Municipal tendrá las siguientes atribuciones:
+A la Secretaría de Desarrollo Municipal corresponde el despacho de los siguientes asuntos:
 
 I.- Elaborar los planes y programas tendientes a apoyar el desarrollo de los Municipios, mediante el mejor aprovechamiento de sus recursos;
 
-II.- Proponer al Ejecutivo las acciones y mecanismos de coordinación entre el Estado y los Municipios, para fortalecer el desarrollo económico y social de éstos;
+II.- Proponer al Ejecutivo las acciones y mecanismos de coordinación entre el Estado y los Municipios para fortalecer el Desarrollo Económico y Social de éstos;
 
-III.- Proponer al Ejecutivo la celebración de convenios de coordinación con los Municipios, para la realización de obras y la prestación de servicios públicos;
+III.- Proponer al Ejecutivo la celebración de convenios de coordinación con los Municipios, para la realización de obras y la prestación de Servicios Públicos;
 
-IV.- Apoyar a los Ayuntamientos en las acciones tendientes al logro de su desarrollo administrativo, fortaleciendo sus sistemas de programación, control y evaluación, así como los procedimientos operativos para optimizar la prestación de los servicios públicos municipales; y
+IV.- Gestionar el apoyo a los Ayuntamientos en las acciones tendientes al logro de su desarrollo administrativo, para fortalecer sus sistemas de planeación, programación, control y evaluación, así como los procedimientos operativos para optimizar la prestación de los servicios públicos municipales;
 
-V.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
+V.- Promover el desarrollo equilibrado de los municipios conurbados, impulsando la organización regional, de acuerdo con la vocación económica de cada zona; y
+
+VI.- Los demás que le atribuyan expresamente las leyes y sus reglamentos.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+###### ARTICULO 34.
+
+A la Secretaría de la Contraloría corresponde el despacho de los siguientes asuntos:
+
+I.- Realizar auditorías integrales a las dependencias y entidades de la administración pública estatal, con objeto de verificar el ingreso y el gasto público, así como el cumplimiento de los programas del presupuesto de egresos;
+
+II.- Practicar auditorías, revisiones e inspecciones a los municipios, cuando ejecuten programas financiados con recursos federales o estatales, para verificar la correcta aplicación de los mismos, en los términos de las leyes y de los convenios y acuerdos celebrados;
+
+III.- Promover y supervisar el adecuado funcionamiento de los mecanismos de control de los programas de inversión de la administración pública estatal, así como de aquellos programas convenidos por el Estado con la federación, los municipios y los beneficiarios de los mismos;
+
+IV.- Vigilar el cumplimiento de la normatividad que regula la ejecución de obra pública, las adquisiciones, los arrendamientos y la prestación de servicios, así como de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua y, en su caso, determinar y aplicar sanciones de índole administrativa, en la forma y términos que determinan las leyes relativas;
+
+V.- Realizar las acciones de fiscalización que se deriven de los convenios o acuerdos celebrados con el gobierno federal en materia de obra pública, con el fin de lograr el ejercicio eficiente, transparente y honesto de los recursos federales asignados a la ejecución de programas concertados con el Estado o municipios;
+
+VI.- Promover, en el ámbito de su competencia, la celebración de convenios o acuerdos de coordinación con los ayuntamientos, para impulsar la instrumentación y el fortalecimiento de los sistemas municipales de control de la gestión pública, proporcionándoles la asesoría y el apoyo técnico que en su caso requieran, particularmente por lo que respecta a los recursos concertados con los gobiernos federal y estatal;
+
+VII.- Recibir y revisar las declaraciones de situación patrimonial de los servidores públicos que corresponda y, en su caso, imponer las sanciones administrativas en la forma y términos que determina la ley de la materia;
+
+VIII.- Practicar auditorías a las entidades paraestatales y a los municipios cuando utilicen recursos federales o estatales, con motivo del ejercicio de las atribuciones que en esta materia lleve a cabo por sí o por conducto de firmas profesionales independientes;
+
+IX.- Seleccionar, con la opinión del Secretario de Finanzas y Administración, los despachos externos de auditores que, con base en su solvencia moral, capacidad atribuida y reconocimiento profesional, puedan ser contratados para que practiquen las auditorías a que se refiere la fracción anterior;
+
+X.- Operar y evaluar los mecanismos destinados a proporcionar a los ciudadanos un servicio eficaz y oportuno de orientación e información, así como de atención de sus quejas y denuncias;
+
+XI.- Promover el establecimiento de las estructuras de organización y de los sistemas de información y operación más adecuados, planeando y diseñando integralmente las modificaciones que deban hacerse a la administración pública estatal.
+
+Asimismo, dictaminar sobre los proyectos que elaboren las dependencias y entidades para efectuar modificaciones a sus estructuras de organización, y acordar cualquier cambio a las mismas con el Gobernador del Estado;
+
+XII.- Formular y difundir la normatividad para la elaboración de manuales de organización, de procedimientos y de servicios al público, de las dependencias y entidades del Ejecutivo;
+
+XIII.- Impulsar ordenadamente en las dependencias y entidades del Ejecutivo, el desarrollo de sistemas de información a través de equipos de procesamiento electrónico de datos, proporcionando asesoría y apoyo técnico, para el desarrollo y la implantación de sistemas administrativos y de proceso electrónico, y expedir la normatividad de la materia;
+
+XIV.- Garantizar las condiciones operativas del sistema central de cómputo, al nivel de confiabilidad y productividad requeridos para dar el servicio de procesamiento centralizado, mediante la conservación de los recursos informáticos en condiciones óptimas de funcionamiento, capacidad y actualización;
+
+XV.- Dictaminar sobre la justificación de la compra de equipos y sistemas de cómputo electrónico, así como sobre la configuración, la selección y el mantenimiento de los mismos, que requieran las dependencias y entidades del Ejecutivo;
+
+XVI.- Representar, salvo disposición expresa del Gobernador, ante toda clase de autoridades, por sí o por conducto de apoderado, a la administración pública estatal, en aquellos casos en que puedan ser afectados los intereses del Estado y formular denuncias, querellas o demandas y otorgar perdón, así como ejercitar y desistirse de acciones judiciales inclusive del juicio de amparo, pudiendo, en su caso, conferir y revocar poderes generales y especiales, respecto de las responsabilidades penales o de carácter civil en que incurran los servidores de la administración pública;
+
+XVII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de auditoría interna, organización e informática, así como vigilar el funcionamiento de las direcciones que ejerzan las atribuciones anteriores; y
+
+XVIII.- Los demás que le atribuyan expresamente las leyes y sus reglamentos.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+###### ARTICULO 35.
+
+La Procuraduría General de Justicia es la Dependencia del Poder Ejecutivo del Estado en la que se integran la Institución del Ministerio Público local y sus órganos auxiliares directos, para el despacho de los asuntos que a aquella y a su titular, en su caso, atribuyen la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, el presente ordenamiento y las demás disposiciones legales y reglamentarias aplicables.
+
+La Institución del Ministerio Público local, presidida por el Procurador General de Justicia y éste personalmente, tendrán entre otras, las siguientes atribuciones:
+
+I.- Vigilar la observancia de los principios de constitucionalidad y legalidad en el ámbito de su competencia, sin perjuicio de las facultades que legalmente correspondan a otras autoridades jurisdiccionales o administrativas;
+
+II.- La persecución, ante los tribunales, de todos los delitos del orden local; y por lo mismo, a él le corresponderá solicitar las órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten los elementos del tipo penal y la responsabilidad de los inculpados; hacer que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita y pedir la aplicación de las penas impuestas por los tribunales, exigiendo de quien corresponda, el cumplimiento de las sentencias recaídas;
+
+III.- Intervenir en los juicios y diligencias que se relacionen con ausentes, menores, incapacitados o establecimientos de beneficencia pública, a los que representará siempre que no tuvieren quien los patrocine, velando por sus intereses;
+
+IV.- Rendir a los Poderes del Estado, los informes que le pidiesen sobre asuntos relativos a su ramo;
+
+V.- Dictar las medidas adecuadas para combatir y erradicar la violencia contra la mujer y los niños, desarrollando para tal efecto mecanismos institucionales; y
+
+VI.- Otorgar la protección que la ley prevé a los derechos de las víctimas, estableciendo y reforzando mecanismos jurídicos y administrativos que permitan obtener la reparación del daño.
+
+El Procurador intervendrá por sí o por conducto de los Agentes del Ministerio Público, en el ejercicio de las atribuciones a que se refiere este artículo, según las previsiones de las leyes y reglamentos y los acuerdos que dicte el Ejecutivo local o el propio Procurador. El Reglamento prevendrá la distribución de los asuntos entre las unidades técnicas y administrativas de la Dependencia.
 
 ###### ARTICULO 36.
 
 La Coordinación de Comunicación Social tendrá las siguientes atribuciones:
 
-I.- Diseñar, difundir y supervisar toda la información noticiosa generada por las dependencias del Ejecutivo;
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+I.- Diseñar, difundir y supervisar toda la información noticiosa generada por las dependencias y entidades del Ejecutivo, así como los programas y acciones de interés comunitario;
 
 II.- Diseñar y mantener un proceso dinámico de consulta de opinión ciudadana para medir el impacto real de la información noticiosa difundida, la efectividad de los medios utilizados, conocer la actitud de los gobernados ante acciones realizadas o por realizarse y la imagen de las instituciones, sus dirigentes, acciones y programas;
 
@@ -575,37 +853,21 @@ III.- Captar y compilar la información noticiosa publicada, que se relacione co
 
 IV.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
-> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 1992)</small>
-
-ARTICULO 36 BIS.- La Contraloría del Estado tiene las siguientes atribuciones:
-
-I.- Promover y supervisar el funcionamiento de los mecanismos de control y verificación de programas de inversión de la Administración Pública Estatal, así como en aquellos programas convenidos por el Estado con la Federación, los Municipios y los beneficiarios de los mismos.
-
-II.- Vigilar el cumplimiento de la normatividad y el procedimientos a que habrán de sujetarse las dependencias ejecutoras de los programas de inversión, tanto de la administración centralizada como de la descentralizada, dependientes del Ejecutivo Estatal;
-
-III.- Vigilar el cumplimiento de las Leyes de Obra Pública, de adquisiciones, arrendamientos y servicios relacionados con la obra pública, así como de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua y, en su caso, promover la imposición de las sanciones en la forma y términos que determinan las leyes relativas;
-
-IV.- Recibir y revisar las declaraciones de situación patrimonial de los servidores públicos que corresponda y, en su caso, promover la imposición de las sanciones administrativas que correspondan en la forma y términos que determina la Ley de la materia; y
-
-> <small>(ADICIONADA, P.O. 5 DE JULIO DE 1995)</small>
-
-V.- Representar, salvo disposición expresa del Gobernador, ante toda clase de autoridades, por sí o por conducto de apoderado, a la administración pública estatal en aquellos casos en que puedan ser afectados los intereses del Estado y formular denuncias, querellas o demandas y otorgar perdón, así como ejercitar y desistirse de acciones judiciales inclusive del juicio de amparo, pudiendo, en su caso, conferir y revocar poderes generales y especiales, respecto de las responsabilidades penales o de carácter civil en que incurran los servidores de la Administración Pública.
-
-VI.- Las demás que le atribuyan expresamente las leyes y reglamentos.
-
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
-### CAPITULO UNICO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
+> <small>(DEROGADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
-
-### CAPITULO III. UNIDADES DE APOYO Y ASESORIA ADSCRITAS DIRECTAMENTE AL EJECUTIVO
 
 ###### ARTICULO 37.
 
 Las instituciones con personalidad jurídica, competencia y patrimonio propios, que sean creadas por el Congreso del Estado, a iniciativa del Ejecutivo, en los términos del artículo 64 fracción XLI de la Constitución Política del Estado, cualquiera que sea la forma o estructura legal que adopten, serán considerados como organismos descentralizados de la administración pública paraestatal.
 
-Los decretos correspondientes establecerán la estructura orgánica y las funciones que se les asignen, así como la obligación del Ejecutivo del Estado de acompañar sus estados financieros a la cuenta pública anual.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE OCTUBRE DE 1998)</small>
+
+Los decretos correspondientes establecerán la estructura orgánica y las funciones que se les asignen, así como la obligación del Ejecutivo del Estado de acompañar los estados financieros de los organismos a la cuenta pública anual.
 
 ###### ARTICULO 38.
 
@@ -613,17 +875,19 @@ Dentro de la Administración Pública Paraestatal se consideran Empresas de part
 
 I.- Que el Gobierno del Estado, uno o más organismos descentralizados, una o más empresas de participación estatal mayoritaria, uno o más fideicomisos a que se refiere la fracción III del artículo 3o. de esta Ley, considerados conjunta o separadamente, aporten o sean propietarios del 50% o más del capital social;
 
-II.- Que en la constitución de su capital se hagan figurar acciones de serie especial que sólo podrán ser suscritas por el Gobierno del Estado;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+II.- Que en la constitución de su capital se hagan figurar acciones de serie especial, que sólo puedan ser suscritas por el Gobierno del Estado;
 
 III.- Que al Gobierno del Estado corresponda la facultad de nombrar a la mayoría de los miembros del consejo de administración, junta directiva u órgano de gobierno; designar al presidente, al director, al gerente; o cuando tenga facultades para vetar los acuerdos de la asamblea general de accionistas, del consejo de administración o de la junta directiva u órgano de gobierno equivalente.
 
-> <small>(ADICIONADO, P.O. 28 DE ENERO DE 1998)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE OCTUBRE DE 1998)</small>
 
-La vigilancia de la participación estatal estará a cargo de los comisarios públicos designados por la Contraloría del Estado, previa opinión no vinculante del titular de la dependencia coordinadora de sector.
+La vigilancia de la participación estatal estará a cargo de los comisarios designados por la Secretaría de la Contraloría del Estado, previa opinión no vinculante del titular de la dependencia coordinadora de sector.
 
-> <small>(ADICIONADO, P.O. 28 DE ENERO DE 1998)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE OCTUBRE DE 1998)</small>
 
-ARTICULO 38 BIS.- Las empresas de propiedad estatal son personas morales de derecho público, con patrimonio propio, creadas por el Congreso del Estado en los términos del artículo 64 fracción XLI de la Constitución Política del Estado, y cuyo objeto sea la realización de una actividad preponderantemente económica y de interés público que se considere prioritaria para el desarrollo del Estado. La vigilancia de la aportación estatal que se destine a la integración de su patrimonio, así como de los excedentes financieros que origine su operación, estará a cargo de los comisarios públicos que designe la Contraloría del Estado, previa opinión no vinculante del titular de la dependencia coordinadora de sector.
+ARTICULO 38 BIS.- Las empresas de propiedad estatal son personas morales de derecho público, con patrimonio propio, creadas por el Congreso del Estado en los términos del artículo 64, fracción XLI, de la Constitución Política del Estado, y cuyo objeto sea la realización de una actividad preponderantemente económica y de interés público que se considere prioritaria para el desarrollo del Estado. La vigilancia de la aportación estatal que se destine a la integración de su patrimonio, así como de los excedentes financieros que origine su operación, estará a cargo de los comisarios que designe la Secretaría de la Contraloría del Estado, previa opinión no vinculante del titular de la dependencia coordinadora de sector.
 
 ###### ARTICULO 39.
 
@@ -633,17 +897,17 @@ Se asimilan a las empresas de participación estatal mayoritaria, las sociedades
 
 Para los efectos de esta Ley serán empresas de participación estatal minoritaria, las sociedades en las que uno o más organismos descentralizados u otras empresas de participación estatal mayoritaria consideradas conjunta o separadamente, posean acciones o partes del capital que representen menos del 50% y hasta el 25% de aquél.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-La vigilancia de la participación estatal estará a cargo de un comisario público designado por la Contraloría del Estado, previa opinión no vinculante del titular de la dependencia coordinadora de sector.
+La vigilancia de la participación estatal estará a cargo de un Comisario designado por la Secretaría de la Contraloría del Estado, persona que no deberá estar vinculada a la dependencia responsable de la coordinación del sector correspondiente.
 
 Las relaciones de las empresas de participación estatal minoritaria con la administración pública centralizada o paraestatal, serán las que determine la ley.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 41.
 
-Los fideicomisos a que se refiere esta ley serán aquellos cuya creación autorice el Congreso de acuerdo a lo dispuesto en el artículo 64 fracción XLI de la Constitución Política del Estado. En los instrumentos relativos a la formalización del fideicomiso deberá indicarse el decreto del Congreso del Estado que lo autoriza. La Dirección General de Finanzas y Administración fungirá como fideicomitente único de la administración pública centralizada. Las entidades a que se refiere el artículo 3º. de esta ley fungirá como fideicomitentes en los fideicomisos en que dichas entidades aporten recursos para la constitución del patrimonio fideicomitido.
+Los fideicomisos a que se refiere esta Ley, serán aquellos cuya creación autorice al Congreso de acuerdo a lo dispuesto en el artículo 64, fracción XLI, de la Constitución Política del Estado. En los instrumentos relativos a la formalización del fideicomiso deberá indicarse el decreto del Congreso del Estado que lo autoriza. La Secretaría de Finanzas y Administración será el fideicomitente único de la administración pública centralizada. Las entidades a que se refiere el artículo 3 de esta ley fungirán como fideicomitentes en los fideicomisos en que dichas entidades aporten recursos para la constitución del patrimonio fideicomitido.
 
 ###### ARTICULO 42.
 
@@ -653,9 +917,9 @@ El Gobernador del Estado está facultado para determinar agrupamientos de entida
 
 Corresponderá a la dependencia encargada de la coordinación del sector a que se refiere el artículo anterior, supervisar la programación, coordinación y evaluación de la operación de las entidades de la administración pública paraestatal que determine el Ejecutivo.
 
-> <small>(ADICIONADO, P.O. 28 DE ENERO DE 1998)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE OCTUBRE DE 1998)</small>
 
-La supervisión del sistema de control de las entidades paraestatales estará a cargo de la Contraloría del Estado, en los términos que disponga la Ley de las Entidades Paraestatales del Estado de Chihuahua y demás disposiciones aplicables.
+La supervisión del sistema de control de las entidades paraestatales estará a cargo de la Secretaría de la Contraloría del Estado, en los términos que disponga la Ley de las Entidades Paraestatales del Estado de Chihuahua y demás disposiciones aplicables.
 
 ###### ARTICULO 44.
 
@@ -856,3 +1120,17 @@ Se derogan todas aquellas disposiciones que se opongan a lo establecido en el pr
 ###### ARTICULO SEXTO.
 
 La Dirección General de Finanzas y Administración deberá organizar en un plazo de treinta días hábiles contados a partir de la entrada en vigor de este Decreto, el Registro Público de Organismos Descentralizados.
+
+P.O. 3 DE OCTUBRE DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para el cumplimiento del presente decreto, se faculta al Ejecutivo para reorganizar la estructura de sus dependencias y redistribuir las partidas del Presupuesto de Egresos, sin excederse del monto total autorizado para el presente ejercicio.
+
+TERCERO.- Las funciones a cargo de alguna dependencia, establecidas en la ley que se reforma mediante este decreto o en cualquier otra ley o reglamento, así como en convenios o acuerdos celebrados con dependencias o entidades de la administración pública estatal, federal o municipal, serán asumidas por la dependencia que corresponda de conformidad con el presente decreto, a partir de la entrada en vigor del mismo.
+
+CUARTO.- Los asuntos que con motivo de este decreto deban pasar de una dependencia o entidad a otra, permanecerán en el último trámite que hubiesen alcanzado, hasta que las unidades administrativas se incorporen a la Dependencia que señale este decreto, a excepción de los casos urgentes sujetos a plazos improrrogables.
+
+QUINTO.- Cuando en este decreto se dé una denominación nueva o distinta a alguna dependencia cuyas funciones estén establecidas por otra ley, dichas atribuciones se entenderán concedidas a la dependencia que determine el presente decreto.
+
+SEXTO.- Cuando en otra ley que haya sido expedida con anterioridad a la entrada en vigor del presente decreto, se haga referencia a una unidad administrativa con el nivel orgánico de departamento, adscrita a una dependencia de la administración pública centralizada se entenderá que dicha unidad corresponde al nivel orgánico de dirección de la dependencia relativa, en los términos del artículo 12 de este ordenamiento.
