@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "1986-10-01"
+last_updated: "1988-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 1988.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1009,7 +1009,7 @@ El Gobernador se considerará separado del Despacho, cuando saliere de los lími
 
 DISPOSICIONES GENERALES.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
 ###### Art. 93.
 
@@ -1117,7 +1117,7 @@ XXXIX.- Las demás que le asignen las leyes, ya sean federales o del Estado.
 
 DEL SUPREMO TRIBUNAL DE JUSTICIA.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1968)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
 ###### Art. 94.
 
@@ -1177,9 +1177,13 @@ DEL PODER JUDICIAL.
 
 DE LOS JUECES DE PRIMERA INSTANCIA, MENORES Y DE PAZ.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
+
 ###### Art. 99.
 
-La potestad de aplicar las leyes, en materia civil y penal corresponde exclusivamente al Poder Judicial. Aquéllas podrán instituir tribunales de lo contencioso administrativo, dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias que se susciten entre la administración pública estatal o municipal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
+La potestad de aplicar las leyes en materia civil, y penal, corresponde exclusivamente al Poder Judicial. Aquellas podrán instituir tribunales de lo contencioso administrativo dotados de plena autonomía para dictar sus controversias que se susciten entre la administración pública estatal o municipal y los particulares, estableciendo las normas para su organización, funcionamiento, el procedimiento y los recursos contra sus resoluciones.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
 ### CAPITULO I.
 
@@ -1187,43 +1191,47 @@ DE LA ENSEÑANZA PUBLICA.
 
 ###### Art. 100.
 
-En ningún juicio podrá haber más de dos instancias.
+Ningún juicio podrá tener más de dos instancias.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
 ###### Art. 101.
 
-Todos los cargos y empleos del Ramo Judicial, son de libre aceptación y renunciables, pero el de Jurado lo será solamente en los casos que determine la ley.
+Todos los cargos y empleos del Ramo Judicial son de libre aceptación y renunciables.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
 ###### Art. 102.
 
-Si al terminarse el período señalado a los funcionarios judiciales no hubieren sido electos o nombrados quienes deban reemplazarlos, o no se hubiesen presentado éstos, continuarán aquéllos en el ejercicio de sus funciones hasta que se haga la elección o el nombramiento o se presenten los electos o nombrados, respectivamente.
+Si al terminarse el período señalado a los funcionarios judiciales no hubieren sido electos o nombrados quienes deban reemplazarlos o no se hubieren presentado éstos, continuarán aquellos en el ejercicio de sus funciones hasta que se haga la elección o el nombramiento o se presenten los electos o nombrados respectivamente.
 
 ###### Art. 103.
 
-El Supremo Tribunal de Justicia se compondrá cuando menos de cinco Magistrados. Estos serán inamovibles y sólo podrán ser removidos de sus cargos por mal conducta debidamente comprobada en los términos de la Ley Orgánica del Poder Judicial o previo juicio de responsabilidad.
+El Supremo Tribunal de Justicia se compondrá, cuando menos de nueve Magistrados, que serán designados por el Congreso en funciones de Colegio Electoral.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+La elección se hará por escrutinio secreto, a mayoría absoluta de votos, en relación a las personas que integren las ternas de candidatos remitidos por el Ejecutivo oportunamente en el año en que deba hacerse la Elección. En la formación de ternas, se preferirá a los Magistrados que terminen su encargo, los Jueces de Primera Instancia o Secretarios de Sala, que reúnan los requisitos establecidos en esta Constitución y que hayan prestado sus servicios con eficiencia y probidad.
 
-La elección se hará por escrutinio secreto, a mayoría absoluta de votos, en relación a las personas que integren las ternas de candidatos remitidas por el Ejecutivo oportunamente en el año en que deba hacerse la elección.
+También podrán incorporarse en las ternas aquellos Licenciados en Derecho que sean de reconocida honorabilidad y competencia en otras actividades del ejercicio profesional.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1968)</small>
+Si al efectuarse la elección no se obtuviere mayoría absoluta de votos a favor de un candidato, se repetirá entre los dos que hubieran obtenido mayoría de sufragios.
+
+Los Magistrados y Jueces en funciones o que disfruten de licencia con goce de sueldo, no podrán desempeñar otro cargo, empleo o comisión, que fueren retribuidos, salvo los de docencia y fuera de las horas designadas al despacho de los asuntos en el Poder Judicial.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
 ###### Art. 104.
 
-Tanto las faltas absolutas o temporales de los Magistrados, como las nuevas plazas, se cubrirán por elección que haga el Congreso en funciones de Colegio Electoral, siendo indispensable para ello la asistencia cuando menos, de las dos terceras partes del número total de Diputados que integren la Legislatura.
+Las faltas absolutas o temporales de los Magistrados, se cubrirán por elección que haga el H. Congreso en la misma forma que la designación primitiva, de entre las ternas que al efecto proponga el Ejecutivo, dentro de los cinco días siguientes al en que ocurriere la falta.
 
-La elección se hará por escrutinio secreto, a mayoría absoluta de votos y de entre las ternas de candidatos remitidas por el Ejecutivo, conteniendo los nombres de Abogados que reúnan los requisitos establecidos en el artículo 108 y cuyas ternas se remitirán al H. Congreso dentro de los cinco días siguientes al en que ocurriere la falta o con la anticipación necesaria cuando deba llenarse una magistratura de nueva creación.
+Si la falta temporal o absoluta ocurre durante el receso del H. Congreso, la designación la hará la Diputación Permanente, integrada conforme a lo prevenido en la fracción IX del artículo 82, tocando al Congreso en su período próximo, ratificar o rectificar el nombramiento. Si el Ejecutivo no remite las ternas de candidatos en los términos fijados por el artículo 103 o si dejare de remitir las ternas a que se refiere este mismo artículo, para cubrir las faltas absolutas o temporales de los Magistrados, el Congreso o en su caso la Diputación Permanente, la formará haciendo de entre ellos la designación respectiva.
 
-Si al efectuarse la elección no se obtuviere mayoría absoluta de votos en favor de un candidato, se repetirán ésta entre los dos que hubieren obtenido mayoría de sufragios.
-
-Cuando la falta temporal o absoluta ocurra durante el receso del H. Congreso, la designación la hará la Diputación Permanente, integrada conforme a lo prevenido en la fracción IX del Artículo 82, tocando al Congreso en su período próximo, ratificar el nombramiento y en todo caso cubrir una nueva magistratura.
-
-Si el Ejecutivo no remite las ternas de candidatos para cubrir las faltas absolutas o temporales de los Magistrados, el Congreso, o en su caso la Diputación Permanente, la formará haciendo de entre ellas, la designación respectiva.
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1982)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
 ###### Art. 105.
 
-El Supremo Tribunal de Justicia funcionará en Acuerdo Pleno y en Salas Unitarias como lo determina la Ley Orgánica respectiva y su Presidente rendirá dentro de los primero quince días del mes de agosto de cada año, un informe ante el Pleno, sobre el estado que guarda la administración de justicia.
+El Supremo Tribunal de Justicia funcionará en Acuerdo Pleno o en Salas Unitarias como lo determine la Ley Orgánica respectiva y su Presidente rendirá en el mes de agosto de cada año, un informe ante el Pleno sobre el estado que guarda la administración de justicia.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
 ### CAPITULO II.
 
@@ -1233,87 +1241,103 @@ DE LA SEGURIDAD PUBLICA.
 
 ###### Art. 106.
 
-Nunca podrán funcionar simultáneamente en el Tribunal dos o más Magistrados que sean parientes consanguíneos dentro del cuarto grado o afines dentro del segundo.
+Nunca podrán desempeñar su función simultáneamente en el Tribunal, dos o mas Magistrados que sean parientes consanguineos dentro del cuarto grado o afines dentro del segundo.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1968)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
 ###### Art. 107.
 
-Los Magistrados en funciones o que disfruten de licencia con goce de sueldo, no podrán desempeñar ningún cargo, empleo o comisión que fueren retribuidos, salvo los de Instrucción Pública en asignaturas de Derecho, con autorización del Congreso y fuera de las horas señaladas para el despacho de asuntos en el Supremo Tribunal de Justicia.
+Los Magistrados del Supremo Tribunal de Justicia y los Jueces de Primera Instancia durarán en su encargo tres años, al término de los cuales si los primeros fueren reelectos y los segundos ratificados por las dos terceras partes del número total de los Magistrados en Pleno, serán inamovibles y sólo podrán ser destituidos en los casos que determine esta Constitución, la Ley de Responsabilidad de los Servidores Públicos o la Orgánica del Poder Judicial.
+
+Los Jueces Menores y de Paz durarán indefinidamente en el cargo y podrán ser destituidos en los casos en que la ley lo estipule o cuando lo estime conveniente el Pleno del Supremo Tribunal de Justicia.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
 ###### Art. 108.
 
 Para ser Magistrado se requiere:
 
-I.- Ser mexicano por nacimiento y estar en pleno ejercicio de sus derechos.
+I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
 
-II.- Ser mayor de treinta años.
+II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la elección.
 
-III.- Ser abogado con título legal, tener cinco años, cuando menos, de práctica profesional o cuatro en la Judicatura, y seis meses, cuando menos, de residir en el Estado.
+III.- Poseer el día de la elección, con antigüedad mínima de cinco años, título profesional de Licenciado en Derecho, expedido por por (sic) la autoridad legalmente facultada para ello.
 
-IV.- Ser del estado seglar, y
+IV.- No haber sido condenado por delito que amerite pena corporal por más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-V.- No estar comprendido en la fracción IV del artículo 41 de esta Constitución, y ser de reconocida honorabilidad y buena conducta.
+V.- Ser del estado seglar.
+
+VI.- Ser de reconocida honorabilidad y buena conducta; y
+
+VII.- Haber residido en el Estado durante el último año anterior al día de la elección, salvo el caso de ausencia en ejercicio de una función pública.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
 ###### Art. 109.
 
-Corresponde al Supremo Tribunal de Justicia:
+Corresponde al Pleno del Supremo Tribunal de Justicia:
 
-I.- Iniciar ante el Congreso leyes y decretos, conforme a esta Constitución.
+I.- Iniciar ante el Congreso Leyes y decretos, conforme a esta Constitución.
 
-II.- (DEROGADA, P.O. 1 DE OCTUBRE DE 1986)
+II.- Emitir su opinión sobre los proyectos de ley o decreto relativos a la legislación civil, penal, de procedimientos y organización de tribunales, cuando con ese fin se los remita el Congreso.
 
-III.- Dirimir los conflictos que surjan entre los Poderes Legislativo y Ejecutivo del Estado, siempre que no sean de carácter político ni de la competencia de la Suprema Corte de Justicia de la Nación.
+III.- Crear la Sala correspondiente cuando la elección de un Magistrado así lo amerite.
 
-IV.- Emitir su opinión sobre los proyectos de ley o de decreto relativos a la legislación civil, penal, de procedimientos y organización de tribunales cuando con ese fin se los remita el Congreso.
+IV.- Nombrar y remover.
 
-V.- Conceder a los Magistrados licencias que pasen de tres días sin exceder de diez, para separarse de sus cargos.
+a).- A los Jueces del Estado.
 
-VI.- Nombrar:
+b).- Libremente: a los Secretarios de Salas, visitadores judiciales y demás funcionarios y empleados, cuya designación y remoción no esté determinada de otra forma en esta Constitución o en la Ley.
 
-A.- A sus Secretarios y demás empleados.
+V.- Crear y suprimir juzgados de acuerdo a las necesidades de la Administración de justicia.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+VI.- Conceder a los Magistrados licencias que pasen de cinco días pero no de diez, para separarse de su cargo.
 
-B.- A los Jueces del Estado.
+VII.- Conceder licencias por mas de diez días u hasta por seis meses a funcionarios y empleados del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+VIII.- Suspender hasta por tres meses, por causa grave justificada que no sea motivo de proceso, a los funcionarios y empleados del Poder Judicial.
 
-C.- A los Visitadores Judiciales.
+Podrá suspenderlos también, durante todo el tiempo que fuere necesario para realizar las investigaciones conducentes, con objeto de determinar su responsabilidad.
 
-D.- (DEROGADO, P.O. 24 DE ENERO DE 1979)
+IX.- Aprobar sus reglamentos interiores.
 
-E.- (DEROGADO, P.O. 24 DE ENERO DE 1979)
+X.- Formular y aplicar los exámenes de oposición para la designación de los Jueces de Primera Instancia.
 
-VII.- Conceder licencias de más de treinta días, y hasta por dos meses sin goce de sueldo, y con él, sólo en caso de enfermedad, a los Jueces y empleados que nombre y resolver sobre sus renuncias.
+XI.- Formular el anteproyecto del Presupuesto de Egresos del Poder Judicial.
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 1968)</small>
+XII.- Dirimir los conflictos que surjan entre el Poder Ejecutivo y Legislativo del Estado, siempre que no sean de la competencia de la Cámara de Senadores del Congreso de la Unión o de la Suprema Corte de Justicia de la Nación; y
 
-VIII.- Suspender hasta por tres meses o remover en los casos de los artículos 103 y 112 por causa grave, que no sea motivo de proceso, a los funcionarios comprendidos en dichas disposiciones y a los mencionados en la fracción VI.
-
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
-
-IX.- Aprobar su reglamento interior.
-
-X.- Ejercer las demás atribuciones que le señalen las leyes.
+XIII.- Ejercer las demás atribuciones que le señalan las leyes.
 
 ###### Art. 110.
 
-Para poder ser nombrado Juez de Primera Instancia, se requiere: ser ciudadano mexicano en pleno ejercicio de sus derechos, mayor de veinticinco años, abogado recibido con un año de ejercicio en su profesión y de probidad notoria e intachable.
+Los Jueces del Estado serán nombrados por el Pleno del Supremo Tribunal de Justicia. Los de Primera Instancia lo serán mediante concurso de oposición.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
 ###### Art. 111.
 
-Para poder ser nombrado Juez Menor y Juez de Paz, se requiere: ser ciudadano del Estado en pleno ejercicio de sus derechos, mayor de veinticinco años y de probidad notoria e intachable.
+Para ser nombrado Juez de Primera Instancia se requiere:
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1968)</small>
+I.- Tener cuando menos veinticinco años de edad, el día del nombramiento.
+
+II.- Poseer el día de la elección, con antigüedad mínima de un año, título profesional de Licenciado en Derecho, expedido por autoridad legalmente facultada para ello; y
+
+III.- Cumplir además con lo preceptuado en las fracciones I, IV, V, VI y VII del artículo 108 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
 ###### Art. 112.
 
-Los Jueces de Primera Instancia serán inamovibles, al cumplir cuatro años en el desempeño de su función, si hubieren demostrado probidad y competencia, en el cumplimiento de la misma; a juicio del Supremo Tribunal de Justicia. Sólo podrán ser removidos de sus cargos por mala conducta debidamente comprobada en los términos de la Ley Orgánica del Poder Judicial o previo juicio de responsabilidad. Los Jueces Menores durarán en su cargo tres años y podrán desempeñarlo en períodos sucesivos.
+Para ser nombrado Juez Menor o Juez de Paz, se requiere ser ciudadano del Estado en pleno ejercicio de sus derechos, mayor de veinticinco años y de probidad notoria e intachable.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
 ###### Art. 113.
 
-Los Jueces de Primera Instancia del Distrito Morelos, los demás de igual categoría que, al recibir su nombramiento se hallaren en la Capital, y los Menores de la Municipalidad de Chihuahua, otorgarán la protesta de ley ante el Supremo Tribunal de Justicia, y los demás foráneos que no estén en las condiciones expresadas, protestarán ante el Presidente Municipal respectivo.
+Los Jueces de Primera Instancia otorgarán la protesta de Ley, ante el Presidente del Supremo Tribunal de Justicia; los Jueces Menores lo harán ante el Juez de Primera Instancia del Distrito que corresponda y los de Paz, ante el Juez Menor de su Municipio.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
 ### CAPITULO III.
 
@@ -1321,19 +1345,25 @@ DE LA SALUBRIDAD PUBLICA.
 
 ###### Art. 114.
 
-Los Jueces Menores y Jueces de Paz estarán sujetos, en el desempeño de sus cargos, a la vigilancia de los Jueces de Primera Instancia, quienes deberán darles las consultas que soliciten conforme a la ley y podrán pedirles informes, amonestarlos y consignarlos al Supremo Tribunal de Justicia, por infracciones que impliquen responsabilidad, sin suspenderlos en ningún caso; pudiéndose recurrir, contra cualquiera de esas providencias, al Supremo Tribunal de Justicia.
+Los Jueces Menores y Jueces de Paz estarán sujetos en el desempeño de sus cargos, a la vigilancia de los Jueces de Primera Instancia, quienes deberán darles las consultas que soliciten conforme a la Ley y podrán pedirles informes, amonestarlos y en su caso, dar cuenta al Presidente del Supremo Tribunal cuando observen una conducta que implique responsabilidad en su función.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
 ###### Art. 115.
 
-Los Jueces de Primera Instancia, Menores y de Paz nombrarán, con aprobación del Supremo Tribunal, a los empleados de su dependencia inmediata.
+Los Jueces de Primer Instancia, Menores y de Paz, nombrarán y removerán con aprobación del Pleno del Supremo Tribunal de Justicia, a sus Secretarios y demás funcionarios y empleados, cuya designación y remoción no esté determinada de otro modo en las leyes y podrán concederles licencia hasta por diez días con o sin goce de sueldo, dando aviso al Presidente del Tribunal.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
 ###### Art. 116.
 
-Las faltas absolutas de los Jueces de Primera Instancia serán cubiertas, mientras se nombra a los Propietarios, por lo Jueces Interinos; las temporales de unos y otros, por los Jueces Menores de la Municipalidad donde se encuentre la cabecera del Distrito Judicial correspondiente, y las temporales de los Jueces Menores por sus respectivos Suplentes.
+Los Magistrados y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
 ###### Art. 117.
 
-La Ley Orgánica respectiva determinará el número de Jueces que deba haber en el Estado, sus respectivas jurisdicciones y competencias, y todo lo demás relativo a los funcionarios, empleados y auxiliares de la Administración de Justicia, así como a los Jurados.
+La Ley Orgánica determinará el número de Magistrados y Jueces, sus jurisdicciones, competencias y todo lo demás relativo a los funcionarios, empleados y auxiliares de la administración de justicia.
 
 ## TITULO X.
 
@@ -2094,3 +2124,27 @@ ARTICULO TRANSITORIO.- Este Decreto entrará en vigor a partir del día siguient
 P.O. 1 DE OCTUBRE DE 1986.
 
 ARTICULO TRANSITORIO.- Las presentes reformas y adiciones entrarán en vigor el día 4 de Octubre de 1986.
+
+P.O. 13 DE JULIO DE 1988.
+
+> <small>(F. DE E., P.O. 27 DE JULIO DE 1988)</small>
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Magistrados del Supremo Tribunal de Justicia que se encuentren en ejercicio de su cargo, si fueren reelectos para continuar a partir del 4 de octubre de 1989, adquirirán inamovilidad.
+
+###### ARTICULO TERCERO.
+
+Los Magistrados que hayan alcanzado el límite máximo de edad a que alude el Artículo 108, si son reelectos, serán inamovibles hasta que estén en posibilidad de jubilarse.
+
+###### ARTICULO CUARTO.
+
+Los Jueces de Primera Instancia que se encuentren en ejercicio, concluirán su encargo el 3 de octubre de 1989, en caso de haber iniciado el desempeño de su cargo con anterioridad al 4 de octubre de 1986 y si fueren ratificados, adquirirán inamovilidad.
+
+###### ARTICULO QUINTO.
+
+Los Jueces de Primera Instancia que se encuentren en ejercicio y que hayan sido designados con posterioridad al 4 de octubre de 1986, concluirán su encargo el día en que cumplan 3 años de ejercicio a partir de la fecha de su designación, a cuyo término, si son ratificados, adquiridrán (sic) inamovilidad.
