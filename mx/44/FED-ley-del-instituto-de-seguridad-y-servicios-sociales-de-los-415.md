@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-415"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-27"
-last_updated: "1993-01-06"
+last_updated: "1994-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=415&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,11 +22,7 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO EN EL ARTICULO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO PUBLICADO EN EL D.O.F. 4 DE ENERO DE 1993, SE SUSTITUYEN LAS REFERENCIAS QUE EN DICHA LEY SE HACEN A LA SECRETARIA DE PROGRAMACION Y PRESUPUESTO, POR SECRETARIA DE HACIENDA Y CREDITO PUBLICO.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1993.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O.F. DE 6 DE ENERO DE 1993 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL D.O.F. DE 4 DE ENERO DE 1993.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1994.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 27 de diciembre de 1983.
 
@@ -940,135 +936,153 @@ Artículo 90 BIS-A.- Las dependencias y entidades están obligadas a enterar al 
 
 Artículo 90 BIS-B.- Las aportaciones a que se refiere el artículo anterior, serán por el importe equivalente al dos por ciento del sueldo básico de cotización del trabajador. Tratándose del ahorro para el retiro, el límite a que se refiere el artículo 15 de esta Ley, será el equivalente a veinticinco veces el salario mínimo general que rija en el Distrito Federal.
 
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+Artículo 90 BIS-C.- Las dependencias y entidades estarán obligadas a cubrir las aportaciones establecidas en este Capítulo, así como las relativas al Fondo de la Vivienda, mediante la entrega simultánea de los recursos correspondientes en instituciones de crédito u otras entidades financieras autorizadas por la Comisión Nacional del Sistema de Ahorro para el Retiro, para su abono en las cuentas individuales del sistema de ahorro para el retiro abiertas a nombre de los trabajadores. A fin de que las instituciones o entidades mencionadas puedan individualizar dichas aportaciones, las dependencias y entidades deberán proporcionarles, directamente o a través del Instituto o de la Comisión Nacional del Sistema de Ahorro para el Retiro según lo determine ésta, información relativa a cada trabajador, en la forma y con la periodicidad que al efecto establezca la citada Comisión. Asimismo, las dependencias y entidades deberán hacer del conocimiento de las representaciones sindicales la relación de las aportaciones hechas a favor de sus agremiados.
+
+Las cuentas individuales del sistema de ahorro para el retiro tendrán dos subcuentas: la de ahorro para el retiro y la del Fondo de la Vivienda. La documentación y demás características de estas cuentas, no previstas en esta Ley, se sujetarán a las disposiciones de carácter general que expida la Comisión Nacional del Sistema de Ahorro para el Retiro.
+
+Las dependencias y entidades deberán llevar a cabo la apertura de la cuenta individual del sistema de ahorro para el retiro del trabajador en la o las instituciones de crédito o entidad financiera autorizada que ellas elijan, dentro de las que tengan oficina en la plaza o, de no haberla, en la población más cercana.
+
+El trabajador que sea titular de una cuenta individual del sistema de ahorro para el retiro y tuviera una nueva relación de trabajo, habrá de proporcionar a la dependencia o entidad respectiva su número de cuenta, así como la denominación de la institución o entidad financiera operadora de la misma.
+
+El trabajador no deberá tener más de una cuenta del sistema de ahorro para el retiro, independientemente de que se encuentre sujeto al régimen previsto en esta Ley o en la Ley del Seguro Social, o a ambos.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+Artículo 90 BIS-D.- En caso de terminación de la relación laboral, la dependencia o entidad deberá entregar a la institución de crédito o entidad financiera respectiva en favor del trabajador, la aportación correspondiente al bimestre de que se trate o, en su caso, la parte proporcional de dicha aportación en la fecha en que deba efectuar el pago de las aportaciones correspondientes a dicho bimestre.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+Artículo 90 BIS-E.- El entero de las aportaciones se acreditará mediante la entrega que las dependencias y entidades habrán de efectuar a cada uno de sus trabajadores, del comprobante expedido por la institución de crédito o entidad financiera en la que la dependencia o entidad haya enterado las aportaciones citadas, el que tendrá las características que señale la Comisión Nacional del Sistema de Ahorro para el Retiro, mediante la expedición de disposiciones de carácter general.
+
+Las instituciones de crédito o entidades financieras que reciban las aportaciones de las dependencias y entidades, deberán proporcionar a éstas, comprobantes individuales a nombre de cada trabajador dentro de un plazo de 30 días naturales, contado a partir de la fecha en que reciban las aportaciones citadas. Las dependencias y entidades estarán obligadas a entregarles a sus trabajadores dichos comprobantes junto con el último pago de sueldo de los meses de febrero, abril, junio, agosto, octubre y diciembre de cada año.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+Artículo 90 BIS-F.- La Comisión Nacional del Sistema de Ahorro para el Retiro atendiendo a consideraciones técnicas y asegurando los intereses de los trabajadores, mediante la expedición de disposiciones de carácter general podrá autorizar formas y términos distintos a los establecidos en los artículos 90 Bis-C párrafos tercero y cuarto y 90 Bis-E relativos a la apertura de cuentas, los casos de una nueva relación laboral del trabajador y el entero y la comprobación de las aportaciones.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+Artículo 90 BIS-G.- El trabajador podrá notificar a la Secretaría de Hacienda y Crédito Público, directamente o a través de la Comisión Nacional del Sistema de Ahorro para el Retiro, por sí mismo o por medio de sus representantes sindicales, el incumplimiento de las obligaciones establecidas en este Capítulo a cargo de las dependencias y entidades.
+
+Los trabajadores titulares de las cuentas del sistema de ahorro para el retiro y, en su caso sus beneficiarios, podrán a su elección, presentar directamente o a través de sus representantes sindicales sus reclamaciones contra las instituciones de crédito o entidades financieras autorizadas ante la Comisión Nacional del Sistema de Ahorro para el Retiro o hacer valer sus derechos en la forma que establecen las leyes. El procedimiento correspondiente ante la Comisión se sujetará a lo dispuesto en la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+Artículo 90 BIS-H.- Las instituciones de banca múltiple y las entidades financieras autorizadas, estarán obligadas a llevar las cuentas individuales del sistema de ahorro para el retiro en los términos de esta ley, actuando por cuenta y orden del Instituto. Dichas cuentas deberán contener para su identificación el número o clave que determine la Comisión Nacional del Sistema de Ahorro para el Retiro.
+
+Las instituciones de crédito y las entidades financieras autorizadas informarán al público mediante publicaciones en periódicos de amplia circulación en la plaza de que se trate, la ubicación de aquellas de sus sucursales en las que se proporcionarán a los trabajadores todos los servicios relacionados con los sistemas de ahorro para el retiro, en la inteligencia de que la Comisión Nacional del Sistema de Ahorro para el Retiro establecerá la proporción de las sucursales que las instituciones o entidades mencionadas deberán habilitar para este propósito de las que tengan establecidas en un mismo estado de la República o en el Distrito Federal.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+Artículo 90 BIS-I.- Las aportaciones que reciban las instituciones de crédito u otras entidades financieras autorizadas operadoras de las cuentas individuales, deberán ser depositadas a más tardar el cuarto día hábil bancario inmediato siguiente al de su recepción, en la cuenta que el Banco de México le lleve al Instituto. El propio Banco de México, actuando por cuenta del mencionado Instituto, deberá invertir dichos recursos en créditos a cargo del Gobierno Federal.
+
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
-
-Artículo 90 BIS-C.- Las dependencias y entidades estarán obligadas a cubrir las aportaciones establecidas en este Capítulo, así como las relativas al Fondo de la Vivienda, mediante la entrega simultánea de los recursos correspondientes en instituciones de crédito, para su abono en las cuentas individuales del sistema de ahorro para el retiro abiertas a nombre de los trabajadores. A fin de que las instituciones de crédito puedan individualizar dichas aportaciones, las dependencias y entidades deberán proporcionar a las instituciones de crédito información relativa a cada trabajador, en la forma y con la periodicidad que al efecto determine la Secretaría de Hacienda y Crédito Público. Asimismo, las dependencias y entidades deberán hacer del conocimiento de las representaciones sindicales la relación de las aportaciones hechas a favor de sus agremiados.
-
-Las cuentas individuales del sistema de ahorro para el retiro tendrán dos subcuentas: la de ahorro para el retiro y la del Fondo de la Vivienda. La documentación y demás características de estas cuentas, no previstas en esta Ley, se sujetarán a las disposiciones de carácter general que expida el Banco de México.
-
-Las dependencias y entidades deberán llevar a cabo la apertura de la cuenta individual del sistema de ahorro para el retiro del trabajador en la o las instituciones de crédito que ellas elijan, dentro de las que tengan oficina en la plaza o, de no haberla, en la población más cercana.
-
-El trabajador que sea titular de una cuenta individual del sistema de ahorro para el retiro y tuviera una nueva relación de trabajo, habrá de proporcionar a la dependencia o entidad respectiva su número de cuenta, así como la denominación de la institución de crédito operadora de la misma.
-
-El trabajador no deberá tener más de una cuenta del sistema de ahorro para el retiro.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
-
-Artículo 90 BIS-D.- En caso de terminación de la relación laboral, la dependencia o entidad deberá entregar a la institución de crédito respectiva en favor del trabajador, la aportación correspondiente al bimestre de que se trate o, en su caso, la parte proporcional de dicha aportación en la fecha en que deba efectuar el pago de las aportaciones correspondientes a dicho bimestre.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
-
-Artículo 90 BIS-E.- El entero de las aportaciones se acreditará mediante la entrega que las dependencias y entidades habrán de efectuar a cada uno de sus trabajadores, del comprobante expedido por la institución de crédito en la que la dependencia o entidad haya enterado las aportaciones citadas, el que tendrá las características que señale la Secretaría de Hacienda y Crédito Público, mediante la expedición de disposiciones de carácter general.
-
-Las instituciones que reciban las aportaciones de las dependencias y entidades deberán proporcionar a éstas comprobantes individuales a nombre de cada trabajador dentro de un plazo de 30 días naturales, contado a partir de la fecha en que reciban las aportaciones citadas. Las dependencias y entidades estarán obligadas a entregarles a sus trabajadores dichos comprobantes junto con el último pago de sueldo de los meses de febrero, abril, junio, agosto, octubre y diciembre de cada año.
-
-La institución de crédito que no siendo la operadora de la cuenta individual del trabajador reciba aportaciones para abono en favor de éste, deberá entregar los recursos correspondientes a la institución que opera dicha cuenta para su acreditamiento en la misma, a más tardar el tercer día hábil bancario inmediato siguiente al de su recepción.
-
-El Comité Técnico del Sistema de Ahorro para el Retiro determinará la comisión que las dependencias, entidades y los trabajadores deberán cubrir a las instituciones de crédito que expidan comprobantes y no lleven las cuentas individuales respectivas.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
-
-Artículo 90 BIS-F.- La Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México, y mediante la expedición de disposiciones de carácter general, podrá autorizar formas y términos distintos a los establecidos, para el entero y la comprobación de las aportaciones correspondientes al ahorro para el retiro y al Fondo de la Vivienda.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
-
-Artículo 90 BIS-G.- El trabajador podrá notificar a la Secretaría de Hacienda y Crédito Público, por sí mismo o por medio de sus representantes sindicales, el incumplimiento de las obligaciones a cargo de las dependencias y entidades establecidas en este capítulo.
-
-Los trabajadores titulares de las cuentas del sistema de ahorro para el retiro y, en su caso sus beneficiarios, podrán a su elección, presentar directamente o a través de sus representantes sindicales sus reclamaciones contra las instituciones de crédito ante la Comisión Nacional Bancaria o hacer valer sus derechos en la forma que establecen las leyes. El procedimiento de conciliación a que se refiere este párrafo se sujetará a lo dispuesto en los artículos 119 y 120 de la Ley de Instituciones de Crédito.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
-
-Artículo 90 BIS-H.- Las instituciones de banca múltiple estarán obligadas a llevar las cuentas individuales del sistema de ahorro para el retiro en los términos de esta Ley, actuando por cuenta y orden del Instituto. Dichas cuentas deberán contener para su identificación el registro federal de contribuyentes del trabajador.
-
-Las instituciones de crédito informarán al público la ubicación de aquellas de sus sucursales en las cuales podrán abrirse las mencionadas cuentas, mediante publicaciones en periódicos de amplia circulación en la plaza de que se trate, en la inteligencia de que habrán de habilitar a este propósito cuando menos una sucursal por cada cinco que tengan establecidas en un mismo Estado de la República o en el Distrito Federal.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
-
-Artículo 90 BIS-I.- Las aportaciones que reciban las instituciones de crédito operadoras de las cuentas individuales, deberán ser depositadas a más tardar el cuarto día hábil bancario inmediato siguiente al de su recepción, en la cuenta que el Banco de México le lleve al Instituto. El propio Banco de México, actuando por cuenta del mencionado Instituto, deberá invertir dichos recursos en créditos a cargo del Gobierno Federal.
 
 El saldo de dichos créditos al fin de cada mes, se ajustará en una cantidad igual a la resultante de aplicar al saldo promedio diario mensual de los propios créditos la variación porcentual del "Indice Nacional de Precios al Consumidor" publicado por el Banco de México, correspondiente al mes inmediato anterior al del ajuste.
 
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
 Los créditos a que se refiere el presente artículo causarán intereses a una tasa no inferior al dos por ciento anual, pagaderos mensualmente mediante su reinversión en las respectivas cuentas. El cálculo de estos intereses se hará sobre el saldo promedio diario mensual de los propios créditos, ajustado siguiendo el mismo procedimiento previsto en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
 La tasa citada será determinada por la Secretaría de Hacienda y Crédito Público, cuando menos trimestralmente, en función de los rendimientos en términos reales de los valores a largo plazo que circulen en el mercado, emitidos por el Gobierno Federal o, en su defecto, por emisores de la más alta calidad crediticia. Esta determinación será dada a conocer mediante publicación en el Diario Oficial de la Federación y en periódicos de amplia circulación en el país.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
-Artículo 90 BIS-J.- El saldo de las subcuentas de ahorro para el retiro se ajustará y devengará intereses en los mismos términos y condiciones previstos para los créditos a que se refiere el artículo anterior. Dichos intereses se causarán a más tardar a partir del cuarto día hábil bancario inmediato siguiente a aquél en que las instituciones de crédito que lleven las cuentas individuales reciban las aportaciones, para abono de las cuentas respectivas, y serán pagaderos mediante su reinversión en las propias cuentas. Las instituciones de crédito podrán cargar mensualmente a las subcuentas de ahorro para el retiro, la comisión máxima por manejo de cuenta que determine la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México. La tasa de interés pagadera al trabajador, una vez descontada la mencionada comisión, no deberá ser inferior a la mínima señalada en el tercer párrafo del artículo 90 BIS-I.
+Cuando la institución de crédito o entidad financiera receptora de las aportaciones no sea la que lleva la cuenta individual de que se trate, la Comisión Nacional del Sistema de Ahorro para el Retiro mediante disposiciones de carácter general, podrá distribuir entre la institución o entidad receptora y la operadora los beneficios que se deriven de manejar dichas aportaciones durante el periodo previsto en el primer párrafo de este artículo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+Artículo 90 BIS-J.- El saldo de las subcuentas de ahorro para el retiro se ajustará y devengará intereses en los mismos términos y condiciones previstos para los créditos a que se refiere el artículo anterior. Dichos intereses se causarán a más tardar a partir del cuarto día hábil bancario inmediato siguiente a aquél en que las instituciones de crédito u otras entidades financieras que lleven las cuentas individuales reciban las aportaciones para abono de las cuentas respectivas, y serán pagaderos mediante su reinversión en las propias cuentas. Las instituciones o entidades financieras que lleven las cuentas podrán cargar mensualmente, a las subcuentas de ahorro para el retiro, la comisión máxima que por manejo de cuenta determine la Comisión Nacional del Sistema de Ahorro para el Retiro. La tasa de interés pagadera al trabajador, una vez descontada la mencionada comisión no deberá ser inferior a la mínima señalada en el tercer párrafo del artículo 90 Bis-I.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
 El saldo de la subcuenta del Fondo de la Vivienda de las cuentas individuales devengará intereses en los términos del artículo 106.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
-Artículo 90 BIS-K.- Las instituciones de crédito deberán informar al trabajador a quien le lleven su cuenta individual del sistema de ahorro para el retiro, el estado de la misma cuando menos anualmente, en la forma que al efecto determine el Banco de México.
+Artículo 90 BIS-K.- Las instituciones de crédito o entidades financieras autorizadas, deberán informar al trabajador a quien le lleven su cuenta individual del sistema de ahorro para el retiro, el estado de la misma, con la periodicidad y en la forma que al efecto determine la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
-Artículo 90 BIS-L.- El trabajador podrá, en cualquier tiempo, solicitar directamente a la institución depositaria el traspaso a otra institución de crédito, de los fondos de su cuenta individual del sistema de ahorro para el retiro, a fin de invertirlos en los términos establecidos en el presente Capítulo.
+Artículo 90 BIS-L.- El trabajador podrá, en cualquier tiempo, solicitar directamente a la institución o entidad financiera depositaria el traspaso a otra institución de crédito o entidad financiera autorizada, de los fondos de su cuenta individual del sistema de ahorro para el retiro, a fin de invertirlos en los términos establecidos en el presente Capítulo.
 
-Ello, sin perjuicio de que la dependencia o entidad pueda continuar enterando las aportaciones en la institución de su elección, la cual extenderá los comprobantes respectivos de conformidad con lo establecido en el artículo 90 BIS-E.
+Ello, sin perjuicio de que la dependencia o entidad pueda continuar enterando las aportaciones en la institución o entidad financiera de su elección, la cual extenderá los comprobantes respectivos de acuerdo con lo establecido en el artículo 90 Bis-E, o bien de conformidad con lo señalado en las disposiciones de la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
-Los trabajadores que decidan traspasar los fondos de su cuenta individual del sistema de ahorro para el retiro de una institución de crédito a otra, pagarán la comisión que determine el Banco de México. Dicha comisión será descontada a los trabajadores del importe de los fondos objeto del traspaso.
+Los trabajadores que decidan traspasar los fondos de su cuenta individual del sistema de ahorro para el retiro de una institución de crédito o entidad financiera autorizada a otra, pagarán, en su caso, como máximo, la comisión que determine la Comisión Nacional del Sistema de Ahorro para el Retiro. Dicha comisión será descontada a los trabajadores del importe de los fondos objeto del traspaso, o bien, pagada por las instituciones o entidades financieras mencionadas según lo determine la Comisión.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
-Artículo 90 BIS-M.- El trabajador tendrá derecho a solicitar a la institución de crédito el traspaso de parte o la totalidad de los fondos de la subcuenta de ahorro para el retiro de su cuenta individual, a sociedades de inversión administradas por instituciones de crédito, casas de bolsa, instituciones de seguros o sociedades operadoras.
+Artículo 90 BIS-M.- El trabajador tendrá derecho a solicitar a la institución de crédito o entidad financiera autorizada la transferencia de parte o la totalidad de los fondos de la subcuenta de ahorro para el retiro de su cuenta individual, a sociedades de inversión administradas por instituciones de crédito, casas de bolsa, instituciones de seguros o sociedades operadoras.
 
-Sin perjuicio de lo anterior, la dependencia o entidad deberá continuar entregando las aportaciones respectivas en la institución de crédito de su elección, para abono en la subcuenta de ahorro para el retiro del trabajador.
+Sin perjuicio de lo anterior, la dependencia o entidad deberá continuar entregando las aportaciones respectivas en la institución de crédito o entidad financiera autorizada de su elección, para abono en la subcuenta de ahorro para el retiro del trabajador.
 
-Para la organización y el funcionamiento de las sociedades de inversión que administren los recursos provenientes de las mencionadas subcuentas, se requiere previa autorización de la Secretaría de Hacienda y Crédito Público, quien la otorgará o denegará discrecionalmente. Estas sociedades de inversión se sujetarán en cuanto a: la recepción de recursos, el tipo de instrumentos en los que puedan invertirlos, la expedición de estados de cuenta y demás características de sus operaciones a las reglas de carácter general que expida la mencionada Secretaría, oyendo la opinión del Banco de México.
+Para la organización y el funcionamiento de las sociedades de inversión que administren los recursos provenientes de las mencionadas subcuentas, se requiere previa autorización de la Comisión Nacional del Sistema de Ahorro para el Retiro, quien la otorgará o denegará discrecionalmente. Estas sociedades de inversión se sujetarán en cuanto a: su organización, la recepción de recursos, los tipos de instrumentos en los que puedan invertirlos, la expedición de estados de cuenta y demás características de sus operaciones, a las reglas de carácter general que expida la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
 En lo no expresamente previsto en este artículo y en las reglas a que se refiere el párrafo anterior, se estará a lo dispuesto en la Ley de Sociedades de Inversión.
 
-El trabajador tendrá derecho a solicitar a la sociedad de inversión, el traspaso de parte o la totalidad de los fondos que hubiere invertido en términos del presente artículo a otra de las sociedades de inversión referidas o a la institución de crédito que le lleve su cuenta individual del sistema de ahorro para el retiro. El trabajador que se encuentre en cualquiera de los supuestos previstos en el artículo 90 BIS-O deberá solicitar a la sociedad de inversión de que se trate, el traspaso de los fondos respectivos a la institución de crédito citada.
+El trabajador tendrá derecho a solicitar a la sociedad de inversión, la transferencia de parte o la totalidad de los fondos que hubiere invertido en términos del presente artículo a otra de las sociedades de inversión referidas o a la institución de crédito o entidad financiera autorizada que le lleve su cuenta individual del sistema de ahorro para el retiro. El trabajador que se encuentre en cualquiera de los supuestos previstos en el artículo 90 Bis-O deberá solicitar a la sociedad de inversión de que se trate, la transferencia de los fondos respectivos a la institución de crédito o entidad financiera citada.
 
-En caso de que el trabajador solicite traspasos de fondos a sociedades de inversión, en los términos de este artículo, sólo responderán de los mismos y de sus rendimientos dichas sociedades de inversión.
+En caso de que el trabajador solicite la transferencia de fondos a sociedades de inversión, en los términos de este artículo, sólo responderán de los mismos y de sus rendimientos dichas sociedades de inversión.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+Artículo 90 BIS-N.- El trabajador podrá retirar el saldo de la subcuenta de ahorro para el retiro de su cuenta individual, siempre y cuando por razones de una nueva relación laboral, deje de ser sujeto de aseguramiento obligatorio del Instituto y dicho saldo se abone en otra cuenta a su nombre en algún otro mecanismo de ahorro para el retiro de los que al efecto señale la Comisión Nacional del Sistema de Ahorro para el Retiro.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+Artículo 90 BIS-Ñ.- El trabajador tendrá derecho a solicitar la contratación de un seguro de vida o invalidez, con cargo a los recursos de la subcuenta de ahorro para el retiro, en los términos que al efecto determine la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
-
-Artículo 90 BIS-N.- El trabajador podrá retirar el saldo de la subcuenta de ahorro para el retiro de su cuenta individual, siempre y cuando por razones de una nueva relación laboral, deje de ser sujeto de aseguramiento obligatorio del Instituto y dicho saldo se abone en otra cuenta a su nombre en algún otro mecanismo del sistema de ahorro para el retiro de los que al efecto señale el Comité Técnico del Sistema de Ahorro para el Retiro.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
-
-Artículo 90 BIS-Ñ.- El trabajador tendrá derecho a solicitar la contratación de un seguro de vida, con cargo a los recursos de la subcuenta de ahorro para el retiro, en los términos que al efecto determine el Comité Técnico del Sistema de Ahorro para el Retiro.
 
 Las instituciones de seguros no podrán otorgar préstamos o créditos con cargo a dichos seguros.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
-Artículo 90 BIS-O.- El trabajador que cumpla sesenta y cinco años de edad, o adquiera el derecho a disfrutar de una pensión por jubilación, retiro por edad y tiempo de servicios, cesantía en edad avanzada, invalidez, incapacidad permanente total o incapacidad permanente parcial del 50% o más, en los términos de esta Ley o de algún plan de pensiones establecido por la dependencia o entidad de que se trate, tendrá derecho a que la institución de crédito que lleve su cuenta individual del sistema de ahorro para el retiro, le entregue por cuenta del Instituto, los fondos de la misma, situándoselos en la entidad financiera que el trabajador designe, a fin de adquirir una pensión vitalicia, o bien, entregándoselos al propio trabajador en una sola exhibición.
+Artículo 90 BIS-O.- El trabajador que cumpla sesenta y cinco años de edad, o adquiera el derecho a disfrutar una pensión por jubilación, retiro por edad y tiempo de servicios, cesantía en edad avanzada, invalidez, incapacidad permanente total o incapacidad permanente parcial del 50% o más, en los términos de esta Ley o de algún plan de pensiones establecido por la dependencia o entidad de que se trate, tendrá derecho a que la institución de crédito o entidad financiera autorizada que lleve su cuenta individual del sistema de ahorro para el retiro, le entregue por cuenta del Instituto, los fondos de la misma, situándoselos en la entidad financiera que el trabajador designe, a fin de adquirir una pensión vitalicia, o bien, entregándoselos al propio trabajador en una sola exhibición.
 
-El trabajador deberá solicitar por escrito a la institución de crédito la entrega de los fondos de su cuenta individual, acompañando los documentos que al efecto señale la Secretaría de Hacienda y Crédito Público.
+El trabajador deberá solicitar por escrito a la institución de crédito o a la entidad financiera autorizada la entrega de los fondos de su cuenta individual, acompañando los documentos que al efecto señale la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
-Los planes de pensiones a que se refiere el primer párrafo serán sólo los que reúnan los requisitos que establezca la Secretaría de Hacienda y Crédito Público.
+Los planes de pensiones a que se refiere el primer párrafo, serán sólo los que cumplan los requisitos que establezca la citada Comisión.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
-Artículo 90 BIS-P.- Tratándose de incapacidades temporales del trabajador, si éstas se prolongan por más tiempo que los periodos de prestaciones fijados por esta Ley, éste tendrá derecho a que la institución de crédito le entregue, por cuenta del instituto, una cantidad no mayor al 10 por ciento del saldo de la subcuenta de ahorro para el retiro de su cuenta individual. Para tal efecto, el trabajador deberá proceder en los términos a que se refiere el penúltimo párrafo del artículo 90 BIS-O.
+Artículo 90 BIS-P.- Tratándose de incapacidades temporales del trabajador, si éstas se prolongan por más tiempo que los períodos de prestaciones fijados por esta Ley, éste tendrá derecho a que la institución de crédito o entidad financiera le entregue, por cuenta del Instituto, una cantidad no mayor al 10 por ciento del saldo de la subcuenta de ahorro para el retiro de su cuenta individual. Para tal efecto, el trabajador deberá proceder en los términos a que se refiere el penúltimo párrafo del artículo 90 Bis-O.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
 Artículo 90 BIS-Q.- Durante el tiempo en que el trabajador deje de estar sujeto a una relación laboral, tendrá derecho a:
 
-I. Realizar aportaciones a su cuenta individual siempre y cuando las mismas sean por un importe no inferior al equivalente a cinco días de salario mínimo general vigente en el Distrito Federal. Lo anterior sin perjuicio de que las instituciones de crédito puedan recibir aportaciones por montos menores. Estas cuentas quedarán sujetas, en lo conducente, a las disposiciones establecidas en este Capítulo, y
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
+
+I. Realizar aportaciones a su cuenta individual siempre y cuando las mismas sean por un importe no inferior al equivalente a cinco días de salario mínimo general vigente en el Distrito Federal. Lo anterior, sin perjuicio de que las instituciones de crédito o entidades financieras autorizadas puedan recibir aportaciones por montos menores. Estas cuentas quedarán sujetas, en lo conducente, a las disposiciones establecidas en este Capítulo; y
 
 II. Retirar de la subcuenta de ahorro para el retiro de su cuenta individual una cantidad no mayor al 10 por ciento del saldo de la propia subcuenta.
 
-El derecho consignado en esta fracción, sólo podrán ejercerlo los trabajadores cuyo saldo de la subcuenta de ahorro para el retiro, registre a la fecha de la solicitud respectiva una cantidad no inferior equivalente al resultado de multiplicar por dieciocho el monto de la última aportación invertida en la subcuenta de que se trate, y siempre que acredite con los estados de cuenta correspondientes, no haber efectuado retiros durante los cinco años inmediatos anteriores a la fecha citada. El trabajador deberá presentar la solicitud respectiva de conformidad con lo establecido en el penúltimo párrafo del artículo 90 BIS-O.
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+El derecho consignado en esta fracción, sólo podrán ejercerlo los trabajadores cuyo saldo de la subcuenta de ahorro para el retiro, registre a la fecha de la solicitud respectiva una cantidad no inferior equivalente al resultado de multiplicar por dieciocho el monto de la última aportación invertida en la subcuenta de que se trate, y siempre que acredite con los estados de cuenta correspondientes, no haber efectuado retiros durante los cinco años inmediatos anteriores a la fecha citada. El trabajador deberá presentar la solicitud respectiva de conformidad con lo previsto en el penúltimo párrafo del artículo 90 BIS-O.
 
-Artículo 90 BIS-R.- Los trabajadores tendrán en todo tiempo el derecho de hacer aportaciones adicionales a su cuenta individual, ya sea por conducto de la dependencia o entidad al efectuarse el entero de las aportaciones, o mediante la entrega de efectivo o documentos aceptables para la institución que los reciba.
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+Artículo 90 BIS-R.- Los trabajadores tendrán en todo tiempo el derecho de hacer aportaciones adicionales a su cuenta individual, ya sea por conducto de la dependencia o entidad al efectuarse el entero de las aportaciones, o mediante la entrega de efectivo o documentos aceptables para la institución o entidad financiera que los reciba.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
 Artículo 90 BIS-S.- El trabajador titular de una cuenta individual del sistema de ahorro para el retiro, deberá a la apertura de la misma, designar beneficiarios. Lo anterior, sin perjuicio de que en cualquier tiempo el trabajador pueda sustituir a las personas que hubiere designado, así como modificar, en su caso, la proporción correspondiente a cada una de ellas.
 
-En caso de fallecimiento del trabajador, la institución de crédito respectiva entregará el saldo de la cuenta individual a los beneficiarios que el titular haya señalado por escrito para tal efecto, en la forma elegida por el beneficiario de entre las señaladas en el artículo 90 BIS-O. La designación de beneficiarios queda sin efecto si el o los designados mueren antes que el titular de la cuenta.
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+En caso de fallecimiento del trabajador, la institución de crédito o entidad financiera respectiva entregará el saldo de la cuenta individual a los beneficiarios que el titular haya señalado por escrito para tal efecto, en la forma elegida por el beneficiario de entre las señaladas en el artículo 90 BIS-O. La designación de beneficiarios queda sin efecto si el o los designados mueren antes que el titular de la cuenta.
 
 A falta de los beneficiarios a que se refiere el párrafo anterior, dicha entrega se hará conforme a lo dispuesto en el artículo 501 fracciones I a IV de la Ley Federal del Trabajo. A falta de las personas a que se refieren estas fracciones, el Instituto será el beneficiario.
 
-Los beneficiarios deberán presentar solicitud por escrito a las instituciones de crédito, en los términos señalados en el penúltimo párrafo del artículo 90 BIS-O de esta Ley.
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+Los beneficiarios deberán presentar solicitud por escrito a las instituciones de crédito o entidades financieras, en los términos señalados en el penúltimo párrafo del artículo 90 Bis-O de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
@@ -1076,27 +1090,11 @@ Artículo 90 BIS-T.- Las cantidades que correspondan a los trabajadores y a sus 
 
 Lo señalado en el párrafo anterior, no autoriza bajo ningún concepto el retiro de los recursos en plazos y condiciones distintos a los establecidos en este Capítulo.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+Artículo 90 BIS-U.- (DEROGADO, D.O.F. 22 DE JULIO DE 1994)
 
-Artículo 90 BIS-U.- El sistema de ahorro para el retiro a que se refiere este Capítulo contará con un Comité Técnico que estará integrado por siete miembros propietarios, designados: tres por la Secretaría de Hacienda y Crédito Público; dos por el Banco de México; uno por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; y uno por la Federación de Sindicatos de Trabajadores al Servicio del Estado. Por cada miembro propietario se designará un suplente. Asimismo, el Comité contará con un Secretario.
+Artículo 90 BIS-V.- (DEROGADO, D.O.F. 22 DE JULIO DE 1994)
 
-Los miembros propietarios y suplentes del Comité serán designados por los titulares de las dependencias y entidades mencionadas en el párrafo anterior, de entre los servidores públicos que ocupen los cargos de Subsecretario o Director General de la Administración Pública Federal Centralizada, o su equivalente. En el caso de la Federación de Sindicatos de Trabajadores al Servicio del Estado corresponderá hacer la designación al Secretario General del Comité Ejecutivo Nacional.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
-
-Artículo 90 BIS-V.- Al Comité Técnico del Sistema de Ahorro para el Retiro corresponderá: a) actuar como órgano de consulta respecto de asuntos relativos al sistema de ahorro para el retiro de los trabajadores; b) en su caso, recomendar a las autoridades competentes la adopción de criterios y la expedición de disposiciones sobre dicho sistema; c) autorizar términos y condiciones particulares para el cumplimiento de obligaciones y el ejercicio de derechos a que se refiere este Capítulo siempre que, a juicio del Comité, el tratamiento concedido por virtud de dichas autorizaciones sea conveniente hacerlo extensivo a todas las personas que se encuentren en el mismo supuesto; d) resolver sobre las circunstancias específicas no previstas en el presente Capítulo, siempre que, a criterio del Comité, el tratamiento concedido por virtud de tales resoluciones sea conveniente hacerlo extensivo a todas las personas que se encuentren en el mismo supuesto; y e) las demás que les señalen otras disposiciones.
-
-El Comité publicará en el Diario Oficial de la Federación las autorizaciones y resoluciones a que se refiere el presente artículo.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
-
-Artículo 90 BIS-W.- El Comité sesionará cuando menos una vez cada cuatro meses y, en cualquier momento, a petición de alguno de sus miembros propietarios.
-
-Las reuniones del Comité serán presididas por el miembro propietario que al efecto se designe de entre los presentes.
-
-Quien presida tendrá voto de calidad en caso de que empate.
-
-Para que el Comité pueda sesionar válidamente, se requerirá la asistencia de cuatro de sus miembros, debiendo estar presentes representantes de la Secretaría de Hacienda y Crédito Público y del Banco de México. Las resoluciones se tomarán por mayoría de votos de los miembros presentes.
+Artículo 90 BIS-W.- (DEROGADO, D.O.F. 22 DE JULIO DE 1994)
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
@@ -2263,3 +2261,23 @@ El Instituto deberá ir ajustando gradual y consistentemente el saldo insoluto d
 SEXTO.- El presupuesto de gastos de administración, operación y vigilancia del Fondo de la Vivienda a que se refiere el inciso d) de la fracción XV del artículo 157 que se reforma para los años de 1993, 1994, 1995 y 1996, no deberá exceder, respectivamente, del 1.30%, 1.10%, 0.90% y 0.80% de los recursos totales que maneje el propio Fondo.
 
 SEPTIMO.- Se sustituyen las referencias que en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado se hacen a la Secretaría de Programación y Presupuesto por Secretaría de Hacienda y Crédito Público.
+
+D.O.F. 22 DE JULIO DE 1994.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se deroga el artículo 108 segundo párrafo de la Ley de Instituciones de Crédito y las demás disposiciones que se opongan a lo dispuesto en este decreto.
+
+TERCERO.- Quedan en vigor las Reglas, Resoluciones y demás disposiciones emitidas con anterioridad en materia de los Sistemas de Ahorro para el Retiro, hasta en tanto no sean modificadas o abrogadas por la Comisión Nacional del Sistema de Ahorro para el Retiro en ejercicio de las atribuciones que este decreto le confiere.
+
+CUARTO.- Las facultades y funciones a que se refiere este decreto, continuarán a cargo de las dependencias, entidades y órganos, en el ámbito de sus respectivas competencias, hasta en tanto entre en funciones la Comisión Nacional del Sistema de Ahorro para el Retiro, en términos del artículo octavo transitorio.
+
+QUINTO.- El Secretario de Hacienda y Crédito Público nombrará al Presidente de la Comisión dentro de los treinta días siguientes a aquél en que este decreto entre en vigor.
+
+SEXTO.- Dentro de los treinta días siguientes a su designación el Presidente de la Comisión convocará a las dependencias del Ejecutivo Federal, a los institutos de seguridad social y al Banco de México, a efecto de que sean designados los miembros suplentes de la Junta de Gobierno, conforme a lo dispuesto en el artículo 5o., de la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro a más tardar en un plazo de treinta días contado a partir de la fecha de recepción de la convocatoria.
+
+SEPTIMO.- Dentro de los cuarenta días siguientes a la fecha en que la Junta de Gobierno quede integrada, el Presidente de la Comisión convocará a las personas, asociaciones, instituciones y dependencias a que se refieren los artículos 10 y 11 de la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro a efecto de que dentro de un plazo de veinte días, designe a los miembros del Comité Técnico Consultivo así como a los del Comité de Vigilancia.
+
+OCTAVO.- La Secretaría de Hacienda y Crédito Público dispondrá del término de ciento ochenta días a partir de la vigencia de este decreto, para que en el orden administrativo establezca lo necesario para el funcionamiento de la Comisión Nacional del Sistema de Ahorro para el Retiro debiendo proveer los recursos humanos, materiales y presupuestales que se requieran. El Capítulo V "De la Protección de los Intereses de los Trabajadores Cuentahabientes" de la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro, entrará en vigor a los doscientos setenta días de la entrada en vigor de este decreto.
+
+NOVENO.- El Reglamento Interior de la Comisión, deberá expedirse en un plazo no mayor de ciento ochenta días, contado a partir del día en que quede legalmente instalada la Junta de Gobierno y deberá ser publicado en el Diario Oficial de la Federación.
