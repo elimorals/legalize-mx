@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-publico-de-la-propiedad-del-estado-de-20207"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-03"
-last_updated: "2001-02-03"
+last_updated: "2002-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2002.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Jalisco, el sábado 3 febrero de 2001.
 
@@ -53,9 +53,11 @@ El Registro Público de la Propiedad es la dependencia del Poder Ejecutivo, bajo
 
 Con la finalidad de preservar la seguridad jurídica del tráfico inmobiliario el Registro Público de la Propiedad deberá aplicar los principios registrales de publicidad, legitimación, rogación, consentimiento, prelación, calificación, inscripción, especialización y tracto sucesivo.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### Artículo 3.
 
-Serán normas supletorias de la presente Ley los Códigos Civil y de Procedimientos Civiles.
+Serán normas supletorias de la presente Ley los Códigos Civil y de Procedimientos Civiles para el Estado de Jalisco.
 
 ###### Artículo 4.
 
@@ -305,9 +307,11 @@ Le corresponde a la Dirección de Informática la organización y administració
 
 El Director de Informática será responsable de las áreas de Desarrollo e Ingeniería y Soporte Técnico.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### Artículo 18.
 
-Para ser Director de Informática se requiere, además de los requisitos señalados en el artículo 12, lo siguiente:
+Para ser Director de Informática se requiere, además de los requisitos señalados en el artículo 11, lo siguiente:
 
 I. Tener experiencia mínima de 5 años en el área de informática;
 
@@ -481,9 +485,11 @@ Los bienes raíces o derechos reales constituidos sobre los mismos, no pueden ap
 
 La inscripción registral no convalida los actos o contratos que sean nulos de conformidad a las disposiciones legales, debiendo en todo caso estarse a lo dispuesto por el Código.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### Artículo 34.
 
-No obstante lo dispuesto en el artículo anterior, lo actos o contratos que se otorguen o celebren por personas que en la Institución aparezcan con derecho para ello, no se invalidarán en cuanto a terceros de buena fe, una vez inscritos, aunque después se anulen o resuelva el derecho del otorgante, en virtud de título anterior no inscrito o de causas que no resulten claramente de las constancias mismas de la Institución.
+No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en la Institución aparezcan con derecho para ello, no se invalidarán en cuanto a terceros de buena fe, una vez inscritos, aunque después se anulen o resuelva el derecho del otorgante mediante sentencia de autoridad competente.
 
 ###### Artículo 35.
 
@@ -533,7 +539,9 @@ XIV. Las resoluciones judiciales en que se declare un concurso mercantil;
 
 XV. La sentencia ejecutoriada que declare procedente la acción de usucapión;
 
-XVI. La cesión de derechos hereditarios sobre inmuebles en abstracto;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+XVI. La cesión de derechos hereditarios;
 
 XVII. El embargo respecto de bienes inmuebles, siempre y cuando estos obren registrados en la Oficina correspondiente, a favor de la persona que lo motivó, debiendo respetarse los derechos de copropiedad, sociedad legal o conyugal y patrimonio familiar;
 
@@ -675,7 +683,9 @@ I. Los contratos de compraventa de bienes muebles sujetos a condición resolutor
 
 II. El contrato de compraventa de bienes muebles que sean susceptibles de identificarse de manera indubitable, para los efectos de la cláusula rescisoria;
 
-III. Los contratos de compraventa de bienes muebles, por los cuales el vendedor se reserva la propiedad de los mismos;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+III. Los contratos de compraventa de bienes muebles, por los cuales el vendedor se reserva el dominio de los mismos;
 
 IV. Los contratos de prenda, conforme en lo dispuesto por el Código, así como su extinción; y
 
@@ -797,9 +807,11 @@ La Dirección autorizará al registrador para firmar los actos jurídicos que in
 
 Los actos jurídicos que son materia de registro deberán estar contenidos según la disposición jurídica que les dé origen.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### Artículo 62.
 
-Ningún registro podrá efectuarse, si no consta que el que lo pretende tiene derecho para pedir que se haga o es apoderado o representante legítimo del que lo tenga, y que se han cubierto las obligaciones fiscales correspondientes. Los notarios públicos podrán solicitar el registro de que se trate. La forma de presentar las solicitudes y los requisitos para admitir el registro, se determinarán por las disposiciones contenidas en la presente Ley y su Reglamento.
+Ningún registro podrá efectuarse, si no consta que el que lo pretende tiene derecho para pedir que se haga o es apoderado o representante legítimo del que lo tenga, y que se han cubierto las obligaciones fiscales correspondientes. Los notarios públicos podrán solicitar el registro de los actos formalizados ante su fe pública. La forma de presentar las solicitudes y los requisitos para admitir el registro, se determinarán por las disposiciones contenidas en la presente Ley y su Reglamento.
 
 ###### Artículo 63.
 
@@ -833,11 +845,15 @@ La institución dentro de un plazo no mayor a 10 días hábiles deberá elaborar
 
 ### CAPITULO II. DE LA SUSPENSION Y DENEGACION DEL REGISTRO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### Artículo 68.
 
-Si de la calificación se determina que el documento cumple con todos los requisitos legales, se procederá a su registro; en caso contrario, el registrador llamará, sin dilación, al notario y luego suspenderá el procedimiento.
+Si de la calificación se determina que el documento cumple con todos los requisitos legales, se procederá a su registro; en caso contrario, el registrador suspenderá el procedimiento y llamará, sin dilación, al notario o en su caso al interesado.
 
-El notario tendrá hasta 5 días hábiles para subsanar el procedimiento, si no lo hiciere en este plazo será negado el registro. Subsanado el procedimiento, se retrotraerá el registro a la fecha y hora de su presentación.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+El notario o interesado tendrá hasta 5 días hábiles para subsanar el procedimiento, si no lo hiciere en este plazo será negado el registro. Subsanado el procedimiento, se retrotraerá el registro a la fecha y hora de su presentación.
 
 Procede la suspensión en los casos de omisiones o defectos subsanables y la denegación por causas insubsanables.
 
@@ -879,9 +895,11 @@ Cuando la determinación del monto de los derechos por servicios registrales se 
 
 Si de la calificación de los documentos presentados para su registro resultare que la misma es improcedente de manera definitiva el solicitante podrá pedir la devolución del pago, conforme a lo establecido en los ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### Artículo 76.
 
-Cuando el servicio registral haya sido requerido por alguna autoridad, los derechos correspondientes serán cubiertos en su caso, por quien le beneficie tal requerimiento, no así cuando se trate de materia agraria y laboral o lo determinen las leyes de la materia.
+Cuando el servicio registral haya sido requerido por alguna autoridad, los derechos correspondientes serán cubiertos en su caso, por quien le beneficie tal requerimiento, excepto cuando se trate de materia agraria y laboral o lo determinen las leyes de la materia, supuestos en los que se exentará el pago de estos derechos.
 
 ### CAPITULO III. DE LA REPOSICION DE DOCUMENTOS
 
@@ -892,6 +910,8 @@ Procede la reposición de documentos registrados, cuando por su destrucción, mu
 La reposición se hará de oficio o a solicitud de parte interesada y de acuerdo a lo establecido en el Reglamento. En todo caso, con vista de los documentos que dieron origen a los registros objeto de reposición o por orden judicial.
 
 De lo anterior, el director de la Institución deberá levantar acta circunstanciada.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
 
 Los folios en que consten los asientos repuestos deberán ostentar el sello de "REPOSICION", en caso de que aparecieren los documentos originales extraviados, se cancelarán, de manera indubitable, los repuestos para evitar duplicidad, trasladándose la información faltante de los repuestos a los originales.
 
@@ -991,7 +1011,9 @@ III. Certificado de No Adeudo del impuesto predial;
 
 IV. Características del inmueble en donde se señalen medidas, linderos y nombres de colindantes con sus domicilios; y
 
-V. Plano cartográfico certificado por la autoridad catastral o expedido por peritos con coordinadas.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+V. Plano cartográfico con coordenadas, certificado por la autoridad catastral o expedido por peritos.
 
 Con la documentación anterior el juez del conocimiento ordenará en el auto de admisión notificar a los colindantes y si dentro del término de tres días siguientes a la notificación no existe inconformidad por parte de éstos, se emitirá la resolución en la que se ordene la inscripción del título respectivo.
 
@@ -1013,9 +1035,11 @@ En caso de bienes que hayan sido objeto de subdivisión deberá estarse a los (s
 
 ### CAPITULO VII. DEL REGISTRO Y REVOCACION DE MANDATOS Y PODERES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### Artículo 93.
 
-El registro, que será opcional y deberá quedar de manifiesto en el documento, de los mandatos y poderes para actos de dominio así como su revocación, se efectuará en la sección auxiliar prevista en esta Ley.
+El registro de mandatos y poderes será opcional; si se opta por registrarlo debe manifestarse expresamente en el documento que al efecto se realice. Este documento se registrará en la sección auxiliar que señala esta Ley.
 
 Sólo podrán inscribirse los poderes otorgados en el Estado de Jalisco o que se refieran a bienes inmuebles dentro del mismo, con una nota, tratándose de poderes especiales, en la sección de propiedad.
 
@@ -1037,9 +1061,11 @@ La Institución expedirá a cualquier persona que lo solicite, un certificado qu
 
 Para que sea oponible a terceros, la revocación de mandatos y poderes deberá ser registrada en la oficina registral que corresponda a la adscripción territorial del Notario, ante quien fue otorgado el mandato o poder, no obstante lo anterior, sus efectos de publicidad se extenderán a la competencia territorial de todas las oficinas registrales, a través de la integración de una base única de datos, por lo que deberán extender la certificación respectiva del registro de poderes y su revocación, de manera indistinta al lugar en donde fueron otorgados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### Artículo 98.
 
-En los mandatos y poderes otorgados en el Estado de Jalisco, los notarios procurarán anotar en los testimonios que de ellos expidan, la Oficina del Registro Público de la Propiedad en que correspondería tanto inscribir la revocación del mandato o poder, como solicitar el certificado de existencia o inexistencia de registro de revocación del mandato o poder.
+En los mandatos y poderes otorgados en el Estado de Jalisco, los notarios deben anotar en los testimonios que de ellos expidan, la Oficina del Registro Público de la Propiedad en que correspondería tanto inscribir la revocación del mandato o poder, como solicitar el certificado de existencia o inexistencia de registro de revocación del mandato o poder.
 
 La omisión de éstas anotaciones no harán ineficaces las disposiciones que regulan la inscripción de revocación de poderes.
 
@@ -1255,7 +1281,9 @@ Cuando se registre una sentencia que declare haber cesado los efectos de otra qu
 
 La cancelación de inscripciones o registro de hipotecas constituidas en garantía de títulos transmisibles por endoso, puede hacerse:
 
-I. Presentando la escritura en la que se constituyó la garantía hipotecaria, con la constancia de recibo de pago del acreedor, y la declaración suscrita por el deudor de que han quedado inutilizados los títulos de crédito. Las anteriores constancias deberán ser ratificadas ante notario;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+I. Presentando el testimonio de la escritura en la que se constituyó la garantía hipotecaria, con la constancia de recibo de pago del acreedor, y la declaración suscrita por el deudor de que han quedado inutilizados los títulos de crédito. Las anteriores constancias deberán ser ratificadas ante notario;
 
 II. Por solicitud firmada por dichos interesados y por el deudor, a la cual se acompañen inutilizados los referidos títulos; y
 
@@ -1362,3 +1390,9 @@ ING. ALBERTO CÁRDENAS JIMÉNEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 DR. MAURICIO LIMÓN AGUIRRE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE JULIO DE 2002.
+
+ÚNICO.- El presente decreto, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "El Estado de Jalisco".
