@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-31731"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "2004-06-04"
+last_updated: "2005-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -373,17 +373,27 @@ El Registro Civil, es la institución por medio de la cual, el Estado inscribe y
 
 En el Estado de Querétaro, estará a cargo de los oficiales del Registro Civil, autorizar los actos del estado civil de las personas y extender las actas relativas al nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio administrativo y defunción, así como inscribir las ejecutorias de discernimiento de tutela, las de pérdida de la capacidad o limitación de ésta para administrar bienes, la declaración de ausencia, la presunción de muerte y el divorcio judicial.
 
-Para inscribir los actos a que se refiere el párrafo anterior, se utilizarán los formatos que autorice la Dirección Estatal del Registro Civil, los que deben llenarse en forma mecanográfica.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2005)</small>
+
+Para inscribir los actos a que se refiere el párrafo anterior, se utilizarán los formatos que autorice la Dirección Estatal del Registro Civil, los que deben llenarse en forma mecanográfica y mediante los sistemas electrónicos e informáticos que ésta establezca.
 
 ###### ARTÍCULO 49.
 
 El Registro Civil del Estado, se coordinará con la Dirección General del Registro Nacional de Población de la Secretaría de Gobernación del Gobierno Federal, para llevar a cabo la asignación de la Clave Unica del Registro Nacional de Población y deberá remitir un tanto de las actas que se inscriban en las Oficialías del Registro Civil, a fin de integrar el Archivo Nacional y establecer, de manera conjunta, los procedimientos regístrales.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 50.
 
-El Registro Civil se integra, por la Dirección Estatal del Registro Civil, el Archivo Estatal y las Oficialías del Registro Civil, las cuales se ubicarán y crearán, de acuerdo con los requerimientos de servicio de la población.
+El Registro Civil se integra por:
 
-Las Oficialías del Registro Civil, estarán a cargo de los funcionarios denominados Oficiales del Registro Civil, quienes tendrán fe pública, en el desempeño de sus funciones.
+I.- La Dirección Estatal del Registro Civil;
+
+II.- El Archivo Estatal del Registro Civil, que contendrá tanto la base de datos de los registros electrónicos, como los documentos que conforman las actas del Registro Civil y sus apéndices; y
+
+III.- Las Oficialías del Registro Civil, las cuales se ubicarán y crearán en los términos que establezca el Reglamento Estatal del Registro Civil, de acuerdo con los requerimientos del servicio en la población.
+
+Las Oficialías del Registro Civil estarán a cargo de los funcionarios denominados Oficiales del Registro Civil, quienes tendrán fe pública en el desempeño de sus funciones. El nombramiento de estos funcionarios estará a cargo del Director Estatal del Registro Civil, de acuerdo a la propuesta del Ayuntamiento correspondiente al Municipio en el que se localice la Oficialía respectiva.
 
 ###### ARTÍCULO 51.
 
@@ -393,17 +403,23 @@ En las actas del Registro Civil, intervendrán: el Oficial del Registro Civil qu
 
 Las actas del Registro Civil, se referirán exclusivamente a los hechos relativos a los actos según su naturaleza, mismos que no podrán ser sino aquéllos que se mencionan en el artículo 48 de esta ley.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 53.
 
-Una vez inscritas, firmadas y autorizadas las actas, el Oficial conservará el primer ejemplar para formar los volúmenes en que se concentrarán en la Oficialía, entregará el correspondiente al interesado y remitirá a la Dirección General del Registro Civil los restantes, quien se encargará de efectuar la distribución a las dependencias o instituciones que hayan sido previamente autorizadas.
+Una vez inscritas, firmadas y autorizadas las actas, el Oficial del Registro Civil conservará el primer ejemplar para formar los volúmenes que se concentrarán en la Oficialía, entregará el correspondiente al interesado y remitirá a la Dirección Estatal del Registro Civil los restantes, incluyendo el registro electrónico del acta de que se trate; la Dirección se encargará de efectuar la distribución a las dependencias o instituciones que ésta determine.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 54.
 
-Los Oficiales del Registro Civil, bajo su más estricta responsabilidad cuidarán de que, con los tantos correspondientes a la Oficialía se formen los volúmenes de actas para integrar debidamente los archivos.
+Los Oficiales del Registro Civil, bajo su más estricta responsabilidad cuidarán que, con los tantos correspondientes a la Oficialía, se formen los volúmenes de actas y se generen los registros electrónicos correspondientes para integrar debidamente los archivos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 55.
 
-Si se perdiese o destruyese alguna de las actas o volúmenes que integran el Archivo del Registro Civil, se repondrán sacando copia de los ejemplares que se tuvieran a la mano, ya que la pérdida o destrucción ocurriese en alguna de las Oficialías o en el Archivo Estatal, y sin perjuicio de que se trate de libros duplicados o formatos.
+Si se perdiera o destruyera alguna de las actas o volúmenes que integran el Archivo Estatal del Registro Civil, se repondrán con copia certificada del duplicado que se conserve o, en su defecto, imprimiendo el registro electrónico correspondiente, asentando que se trata de una reposición y la causa de ello.
 
 En todo caso se dará aviso al Ministerio Público para que proceda a efectuar la investigación correspondiente, y en su caso ejercite la acción penal.
 
@@ -411,53 +427,87 @@ En todo caso se dará aviso al Ministerio Público para que proceda a efectuar l
 
 En relación a cada una de las actas del Registro Civil que se levante, deberá integrarse un apéndice con los documentos que le sirvan de antecedentes y, de ellos, se hará mención en la propia acta.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 57.
 
-Toda persona puede solicitar copia certificada de las actas del Registro Civil y los Oficiales y el Director, están obligados a extenderlas. Para obtener copia de los documentos del apéndice, se requiere mandamiento de autoridad judicial competente.
+Toda persona puede solicitar copia certificada de las actas del Registro Civil, los Oficiales y el Director Estatal del Registro Civil estarán obligados a extenderlas.
+
+La certificación se podrá realizar a partir del registro electrónico del acta o del documento que obra en el Archivo Estatal del Registro Civil.
+
+Asimismo, se podrán expedir certificaciones automáticas, mediante sistemas informáticos, a partir del registro electrónico del acta del Registro Civil; certificaciones que deberán contar con elementos de seguridad que acrediten su autenticidad y validez legal e impidan su falsificación.
+
+La Dirección Estatal del Registro Civil, podrá convenir con autoridades, preferentemente del Registro Civil, de otras Entidades de la República y del Servicio Exterior Mexicano, a efecto de que éstas puedan generar certificaciones automáticas.
+
+Para obtener copia de los documentos del apéndice, se requiere mandamiento de autoridad judicial competente.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 58.
 
-Cuando ocurra la pérdida o destrucción de alguna acta o libro, independientemente de su fecha o forma de registro, y no existiesen ejemplares que permitan su reposición, se podrán recibir pruebas de la existencia de los documentos, por instrumento o aun por testigos, y se efectuará un nuevo registro, en el que se consignará esta circunstancia.
+Cuando ocurra la pérdida o destrucción de actas o libros, así como de sus registros electrónicos, independientemente de su fecha o forma de asiento y no existan ejemplares que permitan su reposición, podrá solicitarse a la Dirección Estatal del Registro Civil, la generación de un nuevo registro que substituya al anterior.
 
-El trámite a que se refiere el párrafo que antecede, se hará directamente ante el Oficial del Registro Civil que corresponda; cuando el funcionario niegue el nuevo registro, podrá el interesado acudir a la autoridad judicial en los términos prescritos por el Código de Procedimientos Civiles.
+La Dirección Estatal recibirá la solicitud de reposición acompañada de las pruebas de la existencia de los documentos perdidos o destruidos y recabará, en su caso, las pruebas que considere necesarias; desahogadas las mismas, resolverá en un plazo no mayor a cinco días hábiles y de resultar procedente, autorizará un nuevo registro en el que se consignará esta circunstancia y dará aviso a la Oficialía del Registro Civil correspondiente. Cuando se niegue el nuevo registro, el interesado podrá acudir a la autoridad judicial en los términos establecidos por el Código de Procedimientos Civiles del Estado.
 
 ###### ARTÍCULO 59.
 
 No podrá asentarse en las actas, ni por vía de nota o advertencia, algo que no debe ser declarado para el acto mismo a que las actas se refieren y lo que esté expresamente prevenido por la ley. Cualquier anotación extraña se tendrá por no puesta y será sancionada con multa equivalente a sesenta días de salario mínimo vigente en la zona. En casos graves, se solicitará a la autoridad correspondiente la destitución del Oficial responsable sin perjuicio de las sanciones a que se hubiere hecho acreedor de acuerdo con las leyes y reglamentos aplicables.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 60.
 
-Los actos del Registro Civil, son estrictamente formales por lo que para su validez es necesaria la presencia del Oficial y el uso de las formas a que se refiere el articulo 48, pero la asistencia personal de los interesados, puede suplirse por mandatario cuyo nombramiento conste en escritura pública.
+Los actos del Registro Civil son estrictamente formales, por lo que para su validez es necesaria la presencia del Oficial del Registro Civil y el uso de las formas y sistemas electrónicos e informáticos a que se refiere el artículo 48, pero la asistencia personal de los interesados, puede suplirse con un mandatario, cuyo nombramiento conste en escritura pública.
 
 ###### ARTÍCULO 61.
 
 El Oficial del Registro Civil, podrá acordar, a petición de parte interesada, trasladarse a otro lugar dentro de su jurisdicción, fuera de su oficina, para levantar una acta.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 62.
 
-En la formación de las actas del estado civil, se observaran las siguientes reglas generales:
+En la formación de las actas del estado civil, se observarán las reglas generales siguientes:
 
 I. En todos los ejemplares de las actas, se adherirá la Clave Única del Registro Nacional de Población, salvo en los actos jurídicos que por su naturaleza no lo requieran, y así lo determine la Dirección Estatal del Registro Civil;
 
-II. En todas las demás actas se transcribirá la Clave Única del Registro Nacional de Población, siempre y cuando el registro de nacimiento se haya realizado durante o después de 1982, y éste cuente con la clave correspondiente. Igualmente se deberá transcribir la clave en las copias certificadas de las actas, que se expidan;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
+
+II.- En todas las demás actas y en los registros electrónicos, se transcribirá la Clave Única del Registro Nacional de Población, siempre y cuando el registro de nacimiento se haya realizado durante o después de 1982 y éste cuente con la clave correspondiente. Igualmente se deberá transcribir la clave en las copias certificadas de las actas que se expidan;
 
 III. Los testigos que intervengan en la inscripción de las actas del Registro Civil, deberán ser mayores de edad, prefiriéndose a los que designen los interesados aún cuando sean sus parientes; declararán bajo protesta de decir verdad, luego de escuchar las advertencias sobre las penas en que incurren quienes declaran falsamente ante una autoridad;
 
-IV. Extendida el acta, será leída por el Oficial o empleado registrador, para conocimiento de los interesados y testigos. La firmarán todos, y si alguno no pudiera hacerlo, imprimirá la huella digital de su pulgar derecho, salvo lo dispuesto por el artículo 51;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
+
+IV.- Elaborado el registro electrónico, se imprimirá una copia de prueba que será leída por el Oficial del Registro Civil o empleado registrador, para conocimiento de los interesados y testigos. Verificado por los interesados, que los datos se asentaron correctamente, se imprimirán los originales y se firmarán por quienes deban hacerlo; si alguien no pudiera o se encontrara impedido para ello, se procederá en los términos del artículo 51;
 
 V. Los interesados, tienen derecho a imponerse por sí mismos, del tenor del acta o de designar persona que a su nombre la lea;
 
-VI. Si algún acto comenzado, se entorpeciere porque las partes se nieguen a continuarlo o por cualquier otro motivo, se inutilizará el acta, y se glosarán los ejemplares en el volumen correspondiente con la anotación de las causas por las cuales no se llevó adelante. Esta razón, será suscrita por el oficial;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
 
-VII. Los ejemplares de que consta el formato para la inscripción de actas, una vez asentada, se glosarán de inmediato en sus respectivos volúmenes, entregando a los interesados el que les corresponda;
+VI.- Si comenzado algún acto, éste se entorpeciere porque las partes se nieguen a continuarlo o por cualquier otro motivo, se suspenderá la elaboración del registro electrónico y, en su caso, se inutilizará el acta, glosándose los ejemplares en el volumen correspondiente, con la anotación de las causas por las cuales no se concluyó el acto. Esta razón, será suscrita por el Oficial;
 
-VIII. Los formatos deberán llenarse con números arábigos y con letras, de acuerdo con los datos que se requieran y los espacios que los mismos ofrecen. Por ningún motivo se anotarán en ellos abreviaturas o siglas;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
+
+VII.- Los ejemplares de que consta el formato para la inscripción de actas, una vez asentada, se glosarán de inmediato en sus respectivos volúmenes, entregando a los interesados el que les corresponda; asimismo, se encriptará el registro electrónico y, pasando a formar parte de la base de datos del Archivo Electrónico del Registro Civil;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
+
+VIII.- Los registros electrónicos y formatos deberán llenarse con números arábigos y con letras, de acuerdo con los datos que requieran los espacios que los mismos contengan. Por ningún motivo se anotarán en ellos abreviaturas o siglas;
 
 IX. No se harán raspaduras, ni enmendaduras, ni se borrará lo escrito. Cuando se hagan anotaciones equivocadas, se cancelará el acta y se elaborará una nueva.
 
-X. Al efectuar la inscripción de las actas, no deberán dejarse espacios en blanco; si por algún motivo no pudiera anotarse cualquiera de éstos, los espacios que debiesen ocupar se cerrarán con guiones; y
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
 
-XI. A los documentos que presentasen los interesados y que forman parte de los requisitos para la celebración del acto, se les anotara la clave única de población de los interesados, siempre y cuando ésta ya les haya sido asignada con anterioridad se sellarán y archivarán en legajos con sus respectivos índices.
+X.- Al efectuar la inscripción y generarse el registro electrónico de las actas, no deberán dejarse espacios en blanco; si por algún motivo no pudiera anotarse cualquier dato, los espacios que deban ocupar se cerrarán con guiones;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
+
+XI.- Generados los registros electrónicos, deberán protegerse de alteración. Únicamente podrán modificarse cuando previamente se agoten los procedimientos administrativos que prevé el presente Código o por mandato judicial de la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2005)</small>
+
+XII.- A los documentos presentados por los interesados, que formen parte de los requisitos para la celebración del acto, se les anotará la Clave Única de Registro Nacional de Población de los solicitantes, siempre y cuando ésta ya les haya sido asignada con anterioridad, se sellarán y archivarán en legajos con sus respectivos índices.
 
 ###### ARTÍCULO 63.
 
@@ -473,9 +523,11 @@ La inscripción de actas decretada por la autoridad judicial, respecto de aquél
 
 Las declaraciones falsas, para obtener el registro de un acto del estado civil, que no fue real, o para simular que paso al amparo de las leyes nacionales, provoca la nulidad del acta. La resolución judicial que la declare ordenará la consignación de los responsables, para que el Ministerio Público proceda en los términos del Código Penal del Estado, sin perjuicio de las sanciones que para estos casos fija la Ley General de Población.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 66.
 
-Para acreditar el estado civil adquirido por los queretanos fuera del territorio nacional bastarán las constancias que, para su prueba, sean necesarias según las leyes del lugar donde se registre el hecho. Los interesados deberán presentar las constancias al Registro Civil de su domicilio, guardando los requisitos que previene el Código Federal de Procedimientos Civiles, por cuanto a su legalización. Satisfechos estos extremos, se inscribirán, levantando las actas correspondientes.
+Para acreditar el estado civil adquirido por los mexicanos fuera del territorio nacional, bastarán las constancias que para su prueba se requieran, según las leyes del lugar donde se haya registrado el acto. Los interesados deberán presentar las constancias al Registro Civil de su domicilio, observando lo dispuesto en el Código Federal de Procedimientos Civiles, por cuanto a su legalización. Satisfechos estos extremos, se hará la inscripción y la generación de los registros electrónicos que correspondan, debiendo generarse las actas conducentes.
 
 ###### ARTÍCULO 67.
 
@@ -497,15 +549,15 @@ Los actos y actas del estado civil, relativos al Oficial a su consorte y a los a
 
 El matrimonio celebrado entre menores de edad que cumplan con los requisitos previstos por la ley, causará los efectos de emancipación, sin que haya necesidad de levantar otra acta por separado sólo se anotará en las respectivas actas de nacimiento esta circunstancia. En caso de que se hubiera registrado su nacimiento en Oficialía distinta se remitirá copia certificada del matrimonio al Oficial respectivo, a efecto de que haga la anotación correspondiente.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 72.
 
 Tratándose de la celebración de actos del estado civil en que intervengan extranjeros, deberá exigirse:
 
-a) Que acredite su legal estancia en el país.
+I.- Que el extranjero acredite su legal estancia en el país.
 
-b) Si se trata de matrimonios en que intervenga un nacional y un extranjero deberá exhibirse el permiso expedido por la Secretaría de Gobernación, en que se autorice a la celebración del acto.
-
-c) Si se trata de matrimonios entre extranjeros, los contrayentes deberán acreditar su legal estancia en el país. El mismo requisito deberá observarse para el caso de divorcios administrativos, además de exigir el permiso a que se refiere el inciso anterior.
+II.- Tratándose de matrimonio o divorcio entre un nacional y un extranjero o entre extranjeros, deberá exhibirse el permiso expedido por la Secretaría de Gobernación en que se autorice la celebración del acto.
 
 ### CAPITULO II. DE LAS ACTAS DE NACIMIENTO
 
@@ -513,21 +565,39 @@ c) Si se trata de matrimonios entre extranjeros, los contrayentes deberán acred
 
 Las declaraciones del nacimiento, se harán presentando al infante ante el Oficial del Registro Civil en su oficina, y en los casos en que circunstancialmente sea necesario, el Oficial acudirá al lugar en que se encuentre.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 74.
 
-Tienen obligación de declarar el nacimiento, los padres del menor o cualquiera de ellos, en su defecto, sus tutores o tutor o quienes tengan su custodia legal, dentro del año siguiente a la fecha en que hubiere ocurrido. El Oficial del Registro Civil deberá hacer la inscripción correspondiente.
+Tienen obligación de declarar el nacimiento, dentro de los ciento ochenta días siguientes a la fecha en que hubiere ocurrido, los padres del menor, de manera conjunta o separada, aún cuando se trate de padre o madre menor de edad y no estén casados; a falta de éstos, los abuelos paternos o maternos o quienes tengan a su cargo el cuidado o custodia del menor.
 
-Transcurrido el lapso a que se refiere el párrafo anterior se procederá a la inscripción de quien no esté registrado y acredite mediante dos testigos, constancia expedida por la autoridad municipal y otros documentos fehacientes, ser vecino del Estado de Querétaro y haber nacido en territorio nacional, en los términos de lo previsto por el Artículo 132.
+Para que el Oficial del Registro Civil realice la inscripción, deberá proceder en los siguientes términos:
 
-En todos estos casos deberá presentarse la persona de cuyo nacimiento se trate, constancia del alumbramiento o prueba suficiente del mismo e identificación de quienes lo presentan, de los testigos y si fuera posible acta de nacimiento de los padres.
+I.- Tener presente a la persona de cuyo nacimiento se trate, con excepción del caso previsto en el artículo 86 de este Código;
+
+II.- Tener a la vista la constancia de alumbramiento u otra prueba suficiente para el efecto;
+
+III.- Que se le exhiba, en su caso, el acta de matrimonio de los padres para los efectos del artículo 76 de este Código;
+
+IV.- Identificar a quienes presentan al menor y a los testigos;
+
+V.- Requerir, preferentemente, copia del acta de nacimiento de los padres.
+
+Tratándose de menores de hasta cuatro años de edad, el Oficial del Registro Civil procederá a la inscripción, siempre y cuando se presenten, además de lo previsto en el párrafo que antecede:
+
+I.- Constancia de no haber sido registrado con anterioridad; y
+
+II.- Que quien lo presente, tenga residencia en el lugar en donde actúa el Oficial del Registro Civil que corresponda.
+
+Transcurrido el lapso a que se refiere (sic) los párrafos anteriores, se procederá a la inscripción de quien no esté registrado, en los términos del artículo 133 del presente Código.
 
 ###### ARTÍCULO 75.
 
 El acta de nacimiento deberá contener:
 
-Del registrado, el día, la hora, el lugar de nacimiento, el sexo, el nombre que se le imponga por la persona que lo presente, los apellidos según lo dispuesto en el artículo 37, la mención de si se presenta vivo y la impresión de su huella digital.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2005)</small>
+
+Del registrado: el día, la hora, el lugar de nacimiento, el sexo, el nombre que se le imponga por la persona que lo presente, los dos apellidos que le correspondan según lo dispuesto en el artículo 37, la mención de si se presenta vivo y la impresión de su huella digital.
 
 De los padres, abuelos y testigos se anotarán los nombres, edades, domicilios y nacionalidad, incluso cuando la presentación se haga por persona distinta, salvo si se tratase del caso del artículo 79.
 
@@ -547,9 +617,23 @@ En caso de que sólo se presente a registrar uno de los padres y no acredite el 
 
 En las actas de nacimiento, por ningún motivo se pondrán palabras que califiquen en alguna forma a la persona registrada. Al oficial que incurra en esta situación se le aplicarán las sanciones dispuestas en el artículo 59.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 79.
 
-Toda persona que encontrase a un recién nacido o en cuya casa o propiedad fuese expuesto, deberá presentarlo al Oficial del Registro Civil, con los vestidos, valores y cualesquiera otros objetos encontrados en él y declararán el día, mes y año donde lo hubiese hallado. Luego de levantar el acta correspondiente, el Oficial del Registro Civil dará aviso al Ministerio Público.
+Los recién nacidos que sean encontrados abandonados o cuya filiación se desconozca, deberán ser dotados de un acta de nacimiento, con los elementos necesarios para acreditar su personalidad.
+
+Para tal efecto, se procederá de la siguiente manera:
+
+I.- Toda persona que encuentre a un expósito, denunciará este hecho ante el Ministerio Público que corresponda, manifestando dónde y cuándo lo encontró, así como las circunstancias en que ello ocurrió, debiendo presentar los vestidos, documentos, valores y cualquier otro objeto hallado con el menor, que pudiera conducir a su posterior reconocimiento;
+
+II.- El Ministerio Público iniciará averiguación al respecto, dará aviso a la Procuraduría de la Defensa del Menor y a la Familia del Estado emitiendo una constancia, expedida por perito médico, en la cual señale el estado físico en que el menor se encuentre y su edad aparente;
+
+III.- La Procuraduría de la Defensa del Menor y la Familia del Estado designará la persona o institución que se encargará del menor y comparecerá ante el Oficial del Registro Civil a solicitar su inscripción; y
+
+IV.- El Oficial del Registro Civil procederá a la inscripción correspondiente, anotando en el acta el número de averiguación iniciada por el Ministerio Público. Se asignará al expósito un nombre y dos apellidos, que deberán ser de uso común en la región donde halla (sic) sido encontrado; se asentará como fecha probable de nacimiento, la determinada en la constancia expedida por el Ministerio Público que tuvo conocimiento de los hechos y se señalará como lugar de nacimiento, aquel donde el menor fue encontrado.
+
+El acta de registro de un expósito sólo podrá anularse o modificarse en el caso de que, con posterioridad a su expedición, se conozca la filiación del menor y que ésta sea declarada por la autoridad judicial competente.
 
 ###### ARTÍCULO 80.
 
@@ -557,11 +641,11 @@ La obligación que señala el artículo anterior la tienen también los jefes, d
 
 ###### ARTÍCULO 81.
 
-En las actas que se levanten en los casos previstos por los artículos anteriores, se expresarán las circunstancias que designa al artículo 79 y además se anotarán, la edad aparente del menor, el nombre y apellidos que se le pongan y el nombre de la persona o institución que se encargue de él.
+(DEROGADO, P.O. 11 DE MARZO DE 2005)
 
 ###### ARTÍCULO 82.
 
-Si con el expósito se hubiesen encontrado papeles, alhajas y otros objetos que puedan conducir al reconocimiento posterior de aquel, el Oficial del registro Civil ordenará su depósito ante el Ministerio Publico, mencionándolo así en al acta y recabando formal recibo de quien o quienes recojan al infante.
+(DEROGADO, P.O. 11 DE MARZO DE 2005)
 
 ###### ARTÍCULO 83.
 
@@ -771,9 +855,13 @@ Levantada el acta de divorcio, se hará la anotación correspondiente en la dive
 
 ### CAPITULO VII. DE LAS ACTAS DE DEFUNCIÓN
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 115.
 
-Ninguna inhumación o cremación se hará sin autorización suscrita por el Oficial del Registro Civil, quien se asegurará fehacientemente el fallecimiento. No se procederá a la inhumación o cremación, sino hasta después de que transcurran veinticuatro horas luego del fallecimiento, excepto en los casos en que se ordene otra cosa por la autoridad competente.
+Ninguna inhumación o cremación se hará sin acta de defunción expedida por el Oficial del Registro Civil, quien se asegurará de la existencia del certificado médico de defunción correspondiente.
+
+Los cadáveres deberán inhumarse, incinerase o embalsamarse, dentro de las cuarenta y ocho horas siguientes al fallecimiento, salvo autorización específica de la autoridad sanitaria competente o por disposición del Ministerio Público o de la autoridad judicial competente.
 
 ###### ARTÍCULO 116.
 
@@ -849,31 +937,23 @@ La nulidad de las actas del Registro Civil, sólo podrá ser decretada por la au
 
 ARTÍCULO 129 Declarada la nulidad, el juez remitirá copia de la resolución al Director del Registro Civil a efecto de que proceda a ordenar la anotación en el acta correspondiente, cuidando que la misma anotación se haga en los tantos que obran en los archivos de las dependencias a quienes originalmente se les envió.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 130.
 
-La rectificación de un acta del Registro Civil, procede cuando se solicite variar el nombre o nombres de las personas que intervinieron en el acto, o alguna otra característica esencial del mismo.
+Las actas del Registro Civil podrán ser aclaradas o rectificadas en los términos del presente artículo.
 
-La modificación de las actas del Registro Civil, procede cuando se pretenda variar los nombres de quienes aparecen en ellas, sin que el acto haya afectado su estado civil, o sea necesario cambiar alguna característica no esencial.
+La aclaración procede, cuando en ellas existan errores de escritura, mecanográficos, ortográficos, numéricos y otros meramente accidentales, siempre y cuando resulten obvios y no se afecte con su modificación los datos esenciales de las mismas. Se tramitará y resolverá en un plazo no mayor a tres días ante el Oficial del Registro Civil del domicilio de que se trate, quien informará de su resolución a la Dirección Estatal del Registro Civil.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2001)</small>
+La rectificación procede cuando se solicite variar el nombre o nombres de las personas que intervinieron en el acto o alguna otra característica esencial del mismo. Se tramitará y resolverá por la Dirección Estatal del Registro Civil, conforme al Artículo 132 de este Código, excepto cuando dicha corrección implique cambio a derechos y obligaciones relacionadas con la filiación y el parentesco o cuando éstas tengan su origen en sentencias judiciales, pues en estos casos, dichos cambios deberán solicitarse ante la autoridad jurisdiccional que corresponda.
 
-La aclaración de las actas del estado civil de las personas procede cuando en ellas existan errores mecanográficos u ortográficos, o de ambas especies que no afecten los datos esenciales de las mismas.
+Una vez resuelta y asentada la aclaración o rectificación, el dato que corresponda no podrá ser objeto de modificación posterior. Tampoco podrá modificarse si la misma tuvo su origen en sentencia judicial.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2001)</small>
-
-La solicitud de aclaración se sustanciará ante el Oficial del Registro Civil del domicilio de que se trate, quién resolverá la petición e informará de su resolución a la Dirección del Registro Civil.
-
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2001)</small>
-
-La rectificación y la modificación a que se refieren los párrafos que anteceden se tramitarán y resolverán por la Dirección del Registro Civil, conforme al Artículo 133 de este Código, excepto cuando dicha corrección implique cambio a derechos y obligaciones relacionados con la filiación y el parentesco en cuyo caso deberá solicitarse al juez competente.
-
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2001)</small>
-
-Tampoco procederán la rectificación o modificación de actas cuando estas tengan su origen en sentencias judiciales pues en estos casos dichos cambios deberán solicitarse ante la autoridad judicial que corresponda.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 131.
 
-Pueden pedir la nulidad, la rectificación o la modificación de las actas del Registro Civil:
+Pueden pedir la nulidad, la rectificación o aclaración de las actas del Registro Civil:
 
 I. Las personas de cuyo estado se trate;
 
@@ -883,61 +963,73 @@ III. Los herederos de las personas comprendidas en las fracciones anteriores;
 
 IV. Quienes pueden continuar o intentar de acuerdo a la ley, las acciones relativas a la sucesión a bienes de las personas que se mencionan en las fracciones anteriores, o quienes pueden apersonarse en los juicios incoados con motivo de las mismas;
 
-V. Las personas a quienes faculte expresamente para ello la ley en cada uno de los casos; y
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
 
-VI. El Ministerio Público.
+V.- Los que ejerzan la patria potestad o tutela sobre la persona respecto de la que haya de pedirse la nulidad, rectificación o aclaración del acta;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
+
+VI.- El apoderado legal de la persona respecto de quien deba solicitarse la nulidad, rectificación o aclaración del acta, con cláusula especial para ello; y
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2005)</small>
+
+VII.- El Ministerio Público.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 132.
 
-El trámite para la inscripción de personas mayores de un año a que se refiere el segundo párrafo del Artículo 74, se realizará ante la Dirección del Registro Civil en la forma siguiente:
+El trámite para la rectificación de actas, se verificará de la siguiente forma:
 
-I. La solicitud será presentada por escrito y de manera personal por el interesado o sus representantes legales y acompañada por lo menos de:
+I.- Presentar solicitud por escrito, de manera personal por el interesado o su representante legal, ante la Dirección Estatal del Registro Civil;
 
-a) Constancia de nacimiento del interesado o prueba suficiente del mismo en su defecto.
+a) Cuando se trate de la rectificación de un acta de nacimiento, que implique cambio en el nombre del interesado, deberá presentarse:
 
-b) Constancia expedida por autoridad municipal que acredite la residencia del interesado.
+1. El acta que se pretende corregir;
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2003)</small>
+2. Las pruebas documentales que acrediten que el interesado se ostenta con el nombre que pretende; y
 
-c) Cuando la Dirección del Registro Civil considere necesario, requerirá la presencia de dos testigos mayores de edad a quienes consten los hechos.
+3. La presentación de dos testigos que lo identifiquen y acrediten que la comunidad reconoce al interesado con el trato y la fama derivados del nombre pretendido y no con el asentado en el acta de nacimiento.
 
-d) Constancia expedida por la autoridad del Registro Civil del lugar del nacimiento, de no existir inscripción del interesado.
+b) Cuando se trate de rectificaciones en actas diferentes a las que se refiere el inciso anterior, el solicitante deberá acompañar u ofrecer pruebas idóneas para probar su pretensión, pero en todo caso deberá acreditarse en forma indubitable la identidad del solicitante.
 
-Cuando se trate de una persona que radique en un municipio distinto de la sede de la Dirección del Registro Civil, la solicitud de inscripción podrá presentarse ante el Oficial del Registro Civil correspondiente a su domicilio, quien deberá remitirla en un plazo no mayor a tres días.
+II.- Integrado el expediente respectivo y desahogadas las probanzas de referencia, la Dirección Estatal del Registro Civil resolverá de plano en un plazo no mayor a treinta días hábiles, ordenando en su caso la rectificación respectiva, misma que se comunicará a la Oficialía del Registro Civil correspondiente y a la Dirección General del Registro Nacional de Población, para que se anote en sus archivos.
 
-II. La Dirección del Registro Civil, resolverá de plano, ordenando al Oficial del Registro Civil correspondiente realice la inscripción respectiva.
+En caso de negarse la rectificación, el solicitante podrá acudir ante el juez competente en los términos que prescribe el Código de Procedimientos Civiles del Estado.
 
-En caso que la resolución sea negativa el interesado podrá plantear su pretensión ante el juez competente.
+Si el interesado radica en un municipio distinto al de la sede de la Dirección Estatal del Registro Civil, la solicitud de rectificación podrá presentarse ante el Oficial del Registro Civil correspondiente a su domicilio, quien deberá remitirla a la Dirección en un plazo no mayor de diez días hábiles.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 133.
 
-El trámite para la modificación y rectificación se verificará de la manera siguiente:
+El trámite para la inscripción de personas mayores de cuatro años a que se refiere el segundo párrafo del Artículo 74 se realizará ante la Dirección Estatal del Registro Civil, en la forma siguiente:
 
-I. La solicitud será presentada por escrito y de manera personal por el interesado o su representante legal cuando se trate de menores o incapacitados, ante la Dirección del Registro Civil, acompañada de lo siguiente:
+I.- La solicitud será presentada por escrito y de manera personal por el interesado o sus representantes legales y acompañada por lo menos de:
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2003)</small>
+a) Constancia de nacimiento del interesado o, en su defecto, prueba suficiente del mismo;
 
-a. Cuando se trate de actas de nacimiento y la pretensión implique el cambio en el nombre o apellidos del interesado, deberá acompañarse el acta que se pretende corregir, así como los medios de pruebas suficientes que acrediten que el interesado se conduce con el nombre que se pretende y que la comunidad lo reconoce con el trato y la fama derivados del mismo y no con el asentado en el acta de nacimiento, y solo para el caso de que la Dirección del Registro Civil lo estime necesario, requerirá la presencia de dos testigos que lo identifiquen y acrediten que se conduce con el nombre que se pretende.
+b) Constancia expedida por autoridad municipal que acredite la residencia del interesado;
 
-b. Cuando se trate de cambios en actas diferentes a las que se refiere el inciso anterior, el solicitante deberá acompañar u ofrecer las pruebas idóneas para probar su pretensión, pero en todo caso deberá acreditarse en forma indubitable la identidad del solicitante.
+c) Dos testigos mayores de edad a quienes les consten los hechos;
 
-II. La Dirección del Registro Civil, resolverá de plano, ordenando en su caso la modificación o rectificación respectiva que se comunicará lo mismo a la Oficialía del Registro Civil correspondiente, como a la Dirección General del Registro Nacional de Población, para que se anote en sus archivos.
+d) Constancia expedida por la autoridad del Registro Civil del lugar de nacimiento, de no existir inscripción del interesado;
 
-En caso de negarse la solicitud, el solicitante podrá acudir ante el juez competente en los términos que prescribe este Código y el Código de Procedimientos Civiles.
+e) Documentos públicos o privados mediante los cuales se acredite el uso del nombre que se pondrá al registrado;
 
-Cuando se trate de una persona que radique en un municipio distinto de la sede de la Dirección del Registro Civil, la solicitud de modificación o rectificación podrá presentarse ante el Oficial del Registro Civil correspondiente a su domicilio, quien deberá remitirla en un plazo no mayor a tres días.
+II.- Cuando se trate de menores de edad, los requisitos señalados como a), c) y e) de la fracción que antecede, podrán ser sustituidos por un dictamen, resultado del estudio e investigación que para el efecto emita la Procuraduría de la Defensa del Menor y la Familia del Estado;
 
-III. La Dirección del Registro Civil una vez que se encuentre debidamente integrado el expediente y desahogadas las probanzas, dictará resolución dentro del plazo de 15 días hábiles.
+III.- Cuando se trate de una persona que radique en un municipio distinto de la sede de la Dirección Estatal del Registro Civil, la solicitud de inscripción podrá presentarse ante el Oficial del Registro Civil correspondiente a su domicilio, quien deberá remitirla en un plazo no mayor a diez días; y
 
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2001)</small>
+IV.- La Dirección Estatal del Registro Civil, resolverá de plano en un plazo no mayor a treinta días hábiles, realizando la inscripción respectiva y notificando a la Oficialía del Registro Civil correspondiente, enviándole un ejemplar para ser integrado en su Archivo Documental del Registro Civil.
 
-ARTÍCULO 133 BIS. La tramitación, modificación o rectificación fraudulenta de actas del Registro Civil provocará su nulidad absoluta, independientemente de la responsabilidad penal de quienes hayan intervenido dolosamente, también resultarán nulas las actas cuando se acredite que existe otra de fecha anterior.
+En caso de que la resolución sea negativa, el interesado podrá plantear su pretensión ante el juez competente.
 
-Cualquier persona que tenga interés legítimo o en su caso el Agente del Ministerio Público podrá interponer la acción de nulidad a que se refiere este artículo.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2005)</small>
+
+ARTÍCULO 133 BIS. La tramitación o rectificación de actas del Registro Civil, realizadas de manera fraudulenta, provocará su nulidad absoluta, independientemente de la responsabilidad penal de quienes hayan intervenido dolosamente en el acto; también resultarán nulas las actas, cuando se acredite que existe otra de fecha anterior.
+
+Cualquier persona que tenga interés legítimo o, en su caso, el Agente del Ministerio Público, podrá interponer la acción de nulidad a que se refiere este artículo.
 
 ## TITULO SEXTO. DE LA FAMILIA
 
@@ -15816,3 +15908,21 @@ Todos los procedimientos civiles que estén en trámite al día de la publicaci�
 ###### ARTÍCULO TERCERO.
 
 Todos los actos que se hubiesen generado o presentado en forma anterior a esta Ley y que pudieren dar lugar a un proceso civil, susceptible de reclamare a través de la acción de reparación por daño moral en vía ordinaria civil o a través del incidente civil de reparación de daños en materia penal, se regirán conforme a las disposiciones vigentes previo a esta reforma.
+
+P.O. 11 DE MARZO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga la Ley publicada el 1 de enero de 1981, mediante la que se crea la Dirección Estatal Coordinadora del Registro Civil del Estado de Querétaro.
+
+###### ARTÍCULO TERCERO.
+
+La designación de los Oficiales del Registro Civil, así como las Oficialías del Registro Civil que se encuentren funcionando al momento de iniciar la vigencia de este ordenamiento legal, se tendrán por ratificadas.
+
+###### ARTÍCULO CUARTO.
+
+En ejercicio de sus facultades, el Titular del Poder Ejecutivo del Estado, emitirá el Reglamento Estatal del Registro Civil en un plazo que no exceda de 180 días naturales, contados a partir de la entrada en vigor de la presente Ley.
