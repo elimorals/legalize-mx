@@ -4,7 +4,7 @@ identifier: "COA-ley-de-planeacion-del-estado-de-coahuila-de-zaragoza-17322"
 country: "mx"
 rank: "ley"
 publication_date: "1987-09-08"
-last_updated: "1987-09-08"
+last_updated: "2001-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PLANEACION DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 8 de septiembre de 1987.
 
@@ -281,6 +281,10 @@ VI.- Verificar periódicamente la relación que guarden sus actividades, así co
 
 VII.- Las demás facultades que determine esta Ley, sus reglamentos y otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2001)</small>
+
+Corresponderá a la Secretaría de Planeación y Desarrollo, sin perjuicio del cumplimiento de las atribuciones que le competan conforme a las fracciones anteriores, coordinar las funciones y las tareas de planeación de la Administración Pública del Estado, así como del Sistema Estatal de Planeación bajo la conducción de titular de Ejecutivo.
+
 ###### ARTICULO 21.
 
 En materia de planeación, las dependencias y entidades de la administración pública municipal, tendrán las siguientes facultades:
@@ -512,3 +516,11 @@ LIC. JOSE DE LAS FUENTES RODRIGUEZ. (RUBRICA)
 EL SECRETARIO DEL EJECUTIVO DEL ESTADO.
 
 LIC. ENRIQUE MARTINEZ Y MARTINEZ. (RUBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE ENERO DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
