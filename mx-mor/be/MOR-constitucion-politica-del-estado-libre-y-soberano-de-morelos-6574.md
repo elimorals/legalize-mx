@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1983-07-20"
+last_updated: "1983-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 1983.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -182,7 +182,7 @@ V.- Por vagancia, ebriedad o toxicomanía consuetudinarias, declaradas en la for
 
 > <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 1932)</small>
 
-VI.- El que esté residiendo habitualmente fuera del Estado, salvo los casos de desempeño de cargo de elección popular, estudios, o de alguna otra comisión o empleo conferido por la Federación, Estado, o alguno de los Municipios del mismo.
+VI.- Es que esté residiendo habitualmente fuera del Estado, salvo los casos de desempeño de cargo de elección popular, estudios, o de alguna otra comisión o empleo conferido por la Federación, Estado, o alguno de los Municipios del mismo.
 
 > <small>(REFORMADO, 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -672,17 +672,19 @@ En la reforma, derogación o abrogación de las leyes o decretos, se observarán
 
 Todo Proyecto de Ley o Decreto que fuese desechado por el Congreso, no podrá volver a presentarse en las sesiones del año.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
+
 ###### Artículo 52.
 
-El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Congreso, cuando éste ejerza funciones de cuerpo electoral o de Jurado, o cuando declare que debe acusarse a alguno de los altos funcionarios de la Administración Pública, por delitos oficiales.
+El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Congreso, cuando este ejerza funciones de Cuerpo Electoral o de Jurado, o cuando declare que debe acusarse a alguno de los Servidores de la Administración Pública, por la Comisión de un Delito o en los Juicios de Responsabilidad Política.
 
-Tampoco podrán hacerlas al Decreto de convocatoria que expida la Diputación Permanente, en los casos del artículo 66 de esta Constitución.
+Tampoco podrá hacerlas al Decreto de Convocatoria que expida la Diputación Permanente, en los casos del Artículo 66 de esta Constitución.
 
 ### CAPITULO III.
 
 DE LOS SECRETARIOS.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1980)</small>
 
 ###### Artículo 53.
 
@@ -1006,7 +1008,7 @@ DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
 ###### Artículo 74.
 
-Para el despacho de los negocios encomendados al Ejecutivo habrá un Secretario General de Gobierno, un Oficial Mayor, un Secretario de Programación y Presupuesto, un Secretario de Finanzas, un Secretario de la Contraloría General, un Secretario de Obras Públicas, un Secretario de Desarrollo Agropecuario y Forestal, un Secretario de Fomento del Empleo, un Secretario de Fomento y Desarrollo Industrial, un Secretario de Turismo y un Secretario de Educación, Cultura y Bienestar Social.
+Para el despacho de los negocios encomendados al Ejecutivo habrá un Secretario de Gobierno, un Secretario de Finanzas, un Secretario de Programación y Presupuesto, un Secretario de Asentamientos Humanos y Obras Públicas, un Secretario de Desarrollo Agropecuario y un Secretario de Desarrollo y Fomento Industrial.
 
 La Ley correspondiente determinará las atribuciones y funciones de cada uno de los Secretarios del despacho.
 
@@ -1222,9 +1224,9 @@ Si dicha responsabilidad es de naturaleza penal remitirá el expediente al Procu
 
 III.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980)
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1983)</small>
 
-IV.- Conocer de las causas por delitos oficiales y comunes de los miembros del Ayuntamiento.
+IV.- Conocer de las causas por delitos oficiales y comunes y del juicio político de los miembros del Ayuntamiento.
 
 V.- Decidir las competencias que se susciten entre los Jueces de Primera Instancia y entre éstos y los de inferior categoría.
 
@@ -1444,9 +1446,9 @@ Las diferencias que se susciten entre los Municipios, siempre que no tengan car�
 
 ## TITULO SEPTIMO.
 
-DE LA RESPONSABILIDAD DE LOS ALTOS FUNCIONARIOS DEL ESTADO.
+DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
 ###### Artículo 119.
 
@@ -1538,6 +1540,8 @@ El Presidente del Congreso protestará en iguales términos al instalarse el Con
 
 "Protestais guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, las Leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de......................que el Estado os ha conferido"? El interrogado contestará. "Sí Protesto. Acto continuo, la misma autoridad que tome la Protesta dirá. "Si no lo hiciereis así, que la Nación y el Estado os lo demanden".
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JULIO DE 1983)</small>
+
 ## TITULO OCTAVO.
 
 DE LA OBSERVANCIA, REFORMAS E INVIOLABILIDAD DE LA CONSTITUCION.
@@ -1546,87 +1550,91 @@ DE LA OBSERVANCIA, REFORMAS E INVIOLABILIDAD DE LA CONSTITUCION.
 
 ###### Artículo 134.
 
-Los Diputados del Congreso del Estado, el Gobernador, los Secretarios de Despacho, el Procurador de Justicia y los Magistrados del Tribunal Superior de Justicia son responsables por los delitos oficiales y del orden común en que incurran en los términos de esta Constitución y de la Ley de Responsabilidades de Funcionarios y Empleados del Estado.
+Para los efectos de las Responsabilidades a que se refiere este Título se reputan como Servidores Públicos a los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, así como de los Ayuntamientos Municipales y en general todo aquel que desempeñe un cargo, comisión o empleo de cualquier naturaleza en la Administración Pública Estatal o Paraestatal o en las Entidades mencionadas con anterioridad.
 
-Al Gobernador solo se le podrá exigir responsabilidad durante su encargo por violación expresa a esta Constitución, ataques a la libertad electoral y delitos graves del orden común.
+Al Gobernador sólo se le podrá exigir responsabilidad durante su encargo por violación expresa a esta Constitución, ataques a la libertad electoral y delitos graves del orden común.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
 ###### Artículo 135.
 
-El Gobernador y los Diputados al Congreso del Estado, son responsables por violaciones a la Constitución General de la República y Leyes Federales y quedarán sujetos al procedimiento previsto en el Título Cuarto de la propia Ley Fundamental.
+El Gobernador, los Diputados al Congreso del Estado y los Magistrados del Tribunal Superior de Justicia son responsables en los términos del Título Cuarto de la Constitución General de la República.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
 ###### Artículo 136.
 
-Si el delito cometido por funcionarios a que se refiere el Artículo134 fuere del orden común, el Congreso del Estado declarará por mayoría absoluta de votos del total de sus miembros previa audiencia del acusado por sí, por su defensor o por ambos, si ha lugar o no a formación de causa. En caso negativo cesará todo procedimiento en contra del funcionario, sin perjuicio de que la acusación continúe cuando éste termine su encargo. En caso afirmativo, quedará suspendido en el ejercicio de sus funciones y a disposición de los Tribunales comunes, para la instrucción del proceso respectivo. En el caso de los Presidentes Municipales la declaración será hecha por el Pleno del Tribunal Superior de Justicia procediéndose en todos los demás en los mismos términos.
+Para proceder penalmente en contra de los Diputados al Congreso del Estado, el Gobernador, los Secretarios de Despacho, el Procurador General de Justicia y los Magistrados del Tribunal Superior de Justicia por la Comisión de Delitos durante el tiempo de su encargo, el Congreso del Estado, declarará por mayoría absoluta de votos del total de los miembros previa audiencia del acusado por sí, por su defensor o por ambos, si ha lugar o no a formación de causa. En caso negativo cesará todo procedimiento en contra del Servidor Público, sin perjuicio de que la acusación continúe cuando éste termine su cargo. En caso afirmativo, quedará suspendida en el ejercicio de sus funciones y a disposición de los Tribunales comunes, para la instrucción del proceso respectivo. En el caso de los Presidentes Municipales la declaración será hecha por el Pleno del Tribunal Superior de Justicia procediéndose los demás en los mismos términos.
 
 La Comisión correspondiente del Congreso del Estado, instruirá el expediente sobre el que deba determinar. La decisión del Congreso es inatacable.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
 ###### Artículo 137.
 
-De los delitos oficiales cometidos por los Funcionarios a que se refiere el Artículo 134, conocerá el Congreso como Jurado de Declaración y el Tribunal Superior de Justicia, integrado por la totalidad de sus miembros, como Jurado de Sentencia.
+Son responsables y serán sometidos a Juicio Político en su caso, por actos u omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho los Diputados al Congreso del Estado, los Secretarios de Despacho, el Procurador General de Justicia, los miembros de los Ayuntamientos Municipales, los Magistrados del Tribunal Superior de Justicia y los Jueces de Primera Instancia.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+En el Juicio Político conocerá el Congreso como Jurado de declaración y el Tribunal Superior de Justicia integrado por el total de sus miembros como Jurado de Sentencia.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
 ###### Artículo 138.
 
-En los casos del Artículo anterior, el Congreso erigido en Jurado de Declaración oirá al acusado, a su defensor o a ambos si quisieren, y previa lectura del expediente respectivo decidirá si es o no responsable. Si la declaración fuere absolutorio el Funcionario continuará en el ejercicio de su cargo. Si fuere condenatoria, quedará suspenso y a disposición del Tribunal Superior de Justicia para los efectos del Artículo siguiente.
+En los casos del Artículo anterior, el Congreso erigido en Jurado de declaración oirá al acusado, a su defensor o a ambos si quisieren, y previa lectura del expediente respectivo decidirá si es o no responsable. Si la declaración fuere absolutoria el Servidor Público continuará en el ejercicio de su encargo. Si fuere condenatorio, quedará suspenso y a disposición del Tribunal Superior de Justicia para los efectos del Artículo siguiente.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
 ###### Artículo 139.
 
-El Tribunal Superior de Justicia como Jurado de Sentencia, previa audiencia del acusador, del Procurador de Justicia y del acusado, su defensor o de ambos, procederá a mayoría absoluta de votos, a aplicar la sanción que la Ley señale. Si el hecho motivo del procedimiento ameritare sanción penal conforme a la Ley, el responsable quedará a disposición de la autoridad competente para que se le instruya el proceso respectivo.
+El Tribunal Superior de Justicia como Jurado de sentencia, previa audiencia del acusador, del Procurador de Justicia y del Acusado, su defensor o de ambos, procederá a mayoría absoluta de votos, a aplicar la sanción que la Ley señale. Si el hecho motivo del procedimiento ameritare sanción penal conforme a la Ley, el responsable quedará a disposición de la Autoridad competente para que se le instruya el proceso respectivo.
 
-Cuando el acusado sea el Procurador de Justicia, ejercerá las funciones de tal el que designe el Ejecutivo o el Funcionario que deba suplirlo con arreglo a la Ley.
+Cuando el Acusado sea el Procurador de Justicia ejercerá las funciones de tal el que designe el Ejecutivo o el Servidor Público que deba suplirlo con arreglo a la Ley.
 
 Tanto la declaración del Congreso como la resolución del Tribunal Superior de Justicia son inatacables.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
 ###### Artículo 140.
 
-Si los Funcionarios a que se refiere el Artículo 134 fueron responsables por delitos oficiales cometidos antes del tiempo en que entraron en funciones, sin que hubiera transcurrido el término de prescripción previsto en la Ley correspondiente, se procederá contra ellos en los términos señalados en los tres artículos anteriores.
+Si un Servidor Público de los señalados en el Artículo 136 son sentenciados encontrándolos penalmente responsables de un delito cometido en el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
 ###### Artículo 141.
 
-Pronunciada una sentencia por responsabilidad oficial, no podrá concederse al reo la gracia de indulto.
+La responsabilidad administrativa de los Servidores Públicos se fijará y sancionará de acuerdo a las Leyes correspondientes.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
 ###### Artículo 142.
 
-La responsabilidad en que incurran los jueces de Primera Instancia y de Paz por faltas oficiales serán del conocimiento y resolución del Tribunal Superior de Justicia.
+En asuntos del orden civil no hay inmunidad para ningún servidor público.
 
-La responsabilidad por delitos oficiales de dichos jueces será de la competencia de un jurado popular en los términos del artículo siguiente, previa la suspensión del cargo que hará el Tribunal Superior de Justicia.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
-Los delitos del orden común por los mismos funcionarios serán juzgados en la forma que establecen las leyes penales, previa la solicitud al Tribunal Superior de Justicia para que suspenda en sus funciones al indicado.
+###### ARTICULO 143.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+La responsabilidad que dé origen a Juicio Político sólo podrá exigirse contra el Servidor durante el período de su encargo o dentro de un año después de la terminación del mismo.
 
-###### Artículo 143.
-
-De los delitos oficiales en que incurran los funcionarios y empleados del Estado, no comprendidos en el Artículo 134 de esta Constitución, conocerá el jurado popular, con arreglo a la Ley; y las faltas que cometan los mismos en el ejercicio de su encargo, serán sancionadas por sus respectivos superiores por medio de correcciones disciplinarias.
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
 ###### Artículo 144.
 
-La responsabilidad puramente penal por delitos o faltas oficiales solo podrán exigirse durante el período en que el funcionario o empleado ejerza su encargo y dentro de los dos años posteriores, con excepción del delito de peculado, por el que quedará el responsable sujeto a las reglas generales sobre prescripción.
+La Responsabilidad Penal de los Servidores Públicos no comprendidos en el Artículo 136 y 145 se exigirá ante las Autoridades competentes mediante los procedimientos establecidos por la Ley sin que se requiera declaración o requisito previo alguno.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
 ###### Artículo 145.
 
-En asuntos del orden civil no hay inmunidad para ningún funcionario público.
+La responsabilidad administrativa en que incurran los Jueces de Primera Instancia y de Paz serán del conocimiento y resolución del Tribunal Superior de Justicia.
+
+Cuando dichos Jueces incurran en la comisión de delito serán juzgados en la forma que establecen las leyes respectivas previa solicitud del Tribunal Superior de Justicia para que suspenda en sus funciones al presunto responsable.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
 ###### Artículo 146.
 
-Se concede acción popular para denunciar ante las autoridades correspondientes los delitos que cometan los funcionarios o empleados públicos.
+Se concede acción popular para denunciar ante las Autoridades correspondientes los actos u omisiones que realicen los Servidores Públicos que les originen responsabilidad alguna en los términos del presente Título.
 
 ###### Artículo 147.
 
@@ -1658,7 +1666,7 @@ Todos los empleados y funcionarios públicos otorgarán la protesta respectiva, 
 
 Artículo Segundo.- El actual Congreso del Estado, por esta sola vez, comenzará su segundo período de sesiones ordinarias el día de la promulgación de la presente Constitución, y terminará el treinta y uno de diciembre del año actual.
 
-Artículo Tercero.- Dentro de los treinta días siguientes al señalado para que esta Constitución entre en vigor, el Congreso del Estado deberá erigirse en Colegio Electoral, para la elección de Magistrados del Tribunal Superior de Justicia en los términos que los artículos 40, fracción XXXVI, y 70, fracción VI, de esta misma Constitución.
+Artículo Tercero.- Dentro de los treinta días siguientes al señalado para que esta Constitución entre en vigor, el Congreso del Estado deberá erigirse en Colegio Electoral, para la elección de Magistrados del Tribunal Superior de Justicia en los términos de los artículos 40, fracción XXXVI, y 70, fracción VI, de esta misma Constitución.
 
 Artículo Cuarto.- Dentro del término de sesenta días, a partir de la fecha en que quede instalado el Tribunal Superior de Justicia, éste deberá hacer la designación de Jueces de Primera Instancia, conforme a la facultad que le confiere el artículo 99, fracción IX, de esta Constitución.
 
@@ -1871,3 +1879,9 @@ P.O. 20 DE JULIO DE 1983.
 Primero.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Remítase el presente Decreto al Ejecutivo para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política del Estado.
+
+P.O. 22 DE JULIO DE 1983.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Remítase al Ejecutivo del Estado, para los efectos de su promulgación y publicación.
