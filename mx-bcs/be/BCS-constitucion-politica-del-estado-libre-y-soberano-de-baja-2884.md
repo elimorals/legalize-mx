@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1975-08-26"
+last_updated: "1976-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE AGOSTO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 21 DE DICIEMBRE DE 1976.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -407,7 +407,9 @@ XXVI.- Autorizar al Gobernador para contratar empréstitos a nombre del Estado, 
 
 Autorizar al Gobernador del Estado para avalar los empréstitos o financiamientos que obtengan los ayuntamientos del Estado, siempre y cuando de los estudios que se practiquen al efecto aparezca demostrada la necesidad y utilidad de la obra para la cual los haya gestionado la autoridad municipal. En el convenio que celebre el Gobierno local con el ayuntamiento correspondiente se estipulará la recuperación de lo que aquel pague como avalista, garantizándolo en base de las participaciones de los impuestos que reciba el ayuntamiento, ya sean éstos federales o locales
 
-XXVII.- Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o ejerza cualquier acto de dominio sobre los bienes muebles e inmuebles pertenecientes al Estado, fijando para cada caso especial, las condiciones a que debe sujetarse, de acuerdo con las leyes respectivas. El Gobernador dará cuenta al Congreso del Estado del uso que hiciere de esta facultad;
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
+
+XXVII.- Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o ejerza cualquier acto de dominio sobre bienes muebles e inmuebles pertenecientes al Estado, cuando el valor sea mayor de $100,000.00 (CIEN MIL PESOS 00/100 M.N.) previo avalúo practicado por la Dirección de Catastro de la Secretaría de Finanzas. El Gobernador dará cuenta al Congreso del Estado del uso que hiciere de esta facultad;
 
 XXVIII.- Informarse de las concesiones y contratos de obras otorgados por el Gobernador;
 
@@ -535,7 +537,9 @@ I.- Publicar, cumplir y hacer cumplir las leyes federales;
 
 II.- Publicar, cumplir y hacer cumplir las leyes decretadas por el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia;
 
-III.- Nombrar y remover libremente al Secretario General de Gobierno, Tesorero General, Oficial Mayor, Procurador General de Justicia y demás funcionarios y empleados del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las leyes;
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
+
+III.- Nombrar y remover libremente al Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Oficial Mayor, Procurador General de Justicia y demás funcionarios y empleados del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las leyes;
 
 IV.- Nombrar a los Magistrados del Tribunal Superior de Justicia, con la aprobación del Congreso del Estado o la Diputación Permanente, en su caso;
 
@@ -621,19 +625,23 @@ XLIII.- Las demás que señalen esta Constitución y sus leyes.
 
 #### SECCION III. DE LAS DEPENDENCIAS DEL EJECUTIVO
 
-80.- Para el despacho de los negocios del orden administrativo habrá; un Secretario General de Gobierno, un Oficial Mayor, un Procurador General de Justicia, un Tesorero General y los demás funcionarios que establezca la ley orgánica del Poder Ejecutivo.
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 1976)</small>
+
+80.- Para el despacho de los negocios del orden administrativo habrá: un Secretario General de Gobierno, un Oficial Mayor, un Procurador General de Justicia, un Secretario de Finanzas, un Secretario de Desarrollo y los demás funcionarios que establezca la Ley Orgánica del Poder Ejecutivo.
 
 81.- Toda ley o decreto será refrendada por el Secretario General de Gobierno y por el funcionario del ramo relativo.
 
-82.- Para ser Secretario General de Gobierno y Oficial Mayor se requiere:
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 1976)</small>
+
+82.- Para ser Secretario General de Gobierno, Secretario de Desarrollo y Oficial Mayor se requiere:
 
 I.- Ser ciudadano sudcaliforniano;
 
 II.- Tener 30 años de edad como mínimo;
 
-III.- Tener modo honesto de vivir; y
+III.- Tener modo honesto de vivir y
 
-IV.- No haber sido condenado por delitos del fuero común, intencionales u oficiales.
+IV.- No haber sido condenado por delito del fuero común, intencionales u oficiales.
 
 83.- Son facultades y obligaciones del Secretario General de Gobierno y del Oficial Mayor:
 
@@ -687,9 +695,13 @@ II.- Intervenir en la forma y términos que la ley disponga, en los juicios que 
 
 III.- Defender los intereses del Estado ante los Tribunales.
 
-86.- Para ser Tesorero General se requiere ser ciudadano sudcaliforniano, tener 30 años de edad como mínimo y un modo honesto de vivir.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 21 DE DICIEMBRE DE 1976)</small>
 
-Son facultades y obligaciones del Tesorero General del Gobierno:
+86.- Para ser Secretario de Finanzas se requiere: ser ciudadano sudcaliforniano, tener 30 años de edad como mínimo y un modo honesto de vivir.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 21 DE DICIEMBRE DE 1976)</small>
+
+Son facultades y obligaciones del Secretario de Finanzas:
 
 I.- Recaudar los ingresos del erario conforme a las leyes en vigor, ordenando las medidas necesarias para hacerlos efectivos, así como revisar todas las resoluciones que dicten las oficinas fiscales del Estado, en el procedimiento administrativo de ejecución;
 
@@ -705,7 +717,9 @@ VI.- Formar diariamente un estado de ingresos, egresos y existencias, presentant
 
 VII.- Hacer, el día primero de cada mes, corte de caja de primera operación por el mes inmediato anterior;
 
-VIII.- Recabar del Gobernador del Estado, antes del día primero de enero de cada año, la autorización de los libros principales de la contabilidad, relativa al ejercicio fiscal que se avecine, así como autorizar oportunamente los libros auxiliares de la Tesorería General y los de sus dependencias; y
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
+
+VIII.- Recabar del Gobernador del Estado, antes del día primero de enero de cada año, la autorización de los libros principales de la contabilidad relativa al ejercicio fiscal que se avecine, así como autorizar oportunamente los libros auxiliares de la Secretaría de Finanzas y los de sus dependencias y
 
 IX.- Las demás que le confieran las leyes.
 
@@ -723,15 +737,37 @@ IX.- Las demás que le confieran las leyes.
 
 I.- El Tribunal Superior de Justicia;
 
-II.- Los jueces de primera instancia y menores de jurisdicción mixta y de lo familiar;
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
 
-III.- Los jueces mixtos de paz;
+II.- Los jueces de Primera Instancia en el Ramo Penal;
 
-IV.- Los árbitros;
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
 
-V.- El Jurado Popular; y
+III.- Los jueces de Primera Instancia en el Ramo Civil;
 
-VI.- Los demás funcionarios y auxiliares de la administración de justicia en los términos que establezcan las leyes y códigos relativos.
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
+
+IV.- Los jueces Menores;
+
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
+
+V.- Los jueces de lo Familiar;
+
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
+
+VI.- Los jueces Mixtos de Paz;
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
+
+VII.- Los Arbitros;
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
+
+VIII.- El Jurado Popular;
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
+
+IX.- Los demás funcionarios y auxiliares de la administración de justicia.
 
 90.- El Tribunal Superior de Justicia del Estado se integra con tres Magistrados Numerarios y los Supernumerarios que señale la ley orgánica respectiva, nombrados directamente por el Gobernador, con aprobación del Congreso del Estado o de la Comisión Permanente, en su caso, en los términos de esta Constitución.
 
@@ -771,7 +807,9 @@ Los jueces protestarán ante el Tribunal Superior de Justicia. Los demás funcio
 
 97.- Son facultades del Tribunal Superior de Justicia:
 
-I.- Conocer de las controversias en que el Estado fuere parte, salvo lo dispuesto por la Constitución General de la República;
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
+
+I.- Conocer de las controversias en que el Estado fuere parte como sujeto de derecho privado.
 
 II.- Conocer de los recursos de apelación, queja y cualesquiera otros señalados en las leyes comunes;
 
@@ -801,9 +839,11 @@ La misma ley normará la integración, organización y funcionamiento de los jur
 
 100.- Ningún funcionario judicial podrá tener ocupación o empleo diverso, con excepción de los docentes, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
 
-101.- El Gobernador podrá pedir ante el Congreso del Estado la destitución de cualquiera de los Magistrados del Tribunal Superior de Justicia y, ante este último, la de los jueces del orden común por los delitos, faltas u omisiones en que incurran, previstos en esta Constitución y las leyes de la materia. En estos casos, si el Congreso del Estado declara por mayoría absoluta de votos justificada la petición, el funcionario acusado quedará privado desde luego de su puesto, independientemente de cualquier responsabilidad legal en que hubiere incurrido, procediéndose a nueva designación.
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 1976)</small>
 
-El Gobernador, antes de pedir al Congreso del Estado la destitución de algún funcionario judicial, oirá a éste en lo privado, a efecto de poder apreciar en conciencia la justificación de tal solicitud.
+101.- El Gobernador podrá pedir ante el Congreso del Estado la destitución de cualquier de los Magistrados del Tribunal Superior de Justicia y si el Congreso del Estado declara por mayoría absoluta de votos justificada la petición, el Magistrado acusado quedará privado desde luego de su puesto, independientemente de cualquier responsabilidad en que hubiere incurrido, procediéndose a nueva designación.
+
+El Gobernador antes de pedir al Congreso del Estado la destitución de algún Magistrado, oirá a éste en lo privado a efecto de poder apreciar en conciencia la justificación de tal solicitud.
 
 ## TITULO SEPTIMO. DEL PATRIMONIO Y LA HACIENDA PUBLICA DEL ESTADO
 
@@ -961,7 +1001,9 @@ CONCEPTO E INTEGRACION
 
 134.- El ayuntamiento es el órgano de gobierno municipal a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
 
-135.- Los ayuntamientos se integran con un Presidente un Síndico, cinco Regidores y los suplentes de éstos, electos por sufragio directo, libre y secreto de los ciudadanos sudcalifornianos en ejercicio de sus derechos.
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 21 DE DICIEMBRE DE 1976)</small>
+
+135.- Los Ayuntamientos se integran con un Presidente, un Síndico, cinco Regidores y los Suplentes de éstos, electos por sufragio directo, libre y secreto de los ciudadanos sudcalifornianos en ejercicio de sus derechos. Los miembros de los Ayuntamientos durarán en su encargo tres años, a partir de la fecha en que tomen posesión del mismo.
 
 136.- Ningún ciudadano puede excusarse de servir al cargo de Presidente, Síndico o Regidor, salvo causa justificada calificada por el ayuntamiento.
 
@@ -1129,9 +1171,15 @@ VI.- Técnicas convenientes a sus necesidades y funciones.
 
 158.- El Gobernador del Estado, durante el período de su encargo, sólo podrá ser acusado por delitos de traición a la Patria, violación a la Constitución General de la República y del Estado y delitos graves de orden común.
 
-159.- Siempre que se trate de alguno de los funcionarios especificados en el artículo 156 y el delito fuere del orden común, el Congreso del Estado, erigido en Gran Jurado declarará si hay lugar o no a proceder contra el acusado. En caso afirmativo, por esa sola declaración quedará el acusado separado de su encargo y sujeto a la autoridad judicial correspondiente.
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 1976)</small>
 
-160.- De los delitos oficiales cometidos por los mismos funcionarios a que se refiere el artículo anterior, conocerán también el Congreso del Estado y el Tribunal Superior de Justicia, con sujeción a lo previsto en la ley de la materia.
+159.- Siempre que se impute a los altos funcionarios del Gobierno del Estado y Municipales como son: el Gobernador del Estado, los Secretarios: General de Gobierno, de Finanzas y de Desarrollo, los Diputados del Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, el Procurador General de Justicia del Estado, los Presidentes Municipales, un delito del orden común, el Congreso del Estado, erigido en Gran Jurado, declarará si hay lugar o no a proceder contra el acusado.
+
+En caso afirmativo por esta sola declaración quedará el acusado separado de su encargo y sujeto a la autoridad judicial correspondiente. Los demás funcionarios y empleados del Estado y Municipios serán consignados a las autoridades judiciales sin la intervención del Gran Jurado y el procedimiento se regirá por las leyes del orden común.
+
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 1976)</small>
+
+160.- De los delitos oficiales cometidos por los mismos altos funcionarios a que se refiere el artículo anterior, conocerán también el Congreso del Estado y el Tribunal Superior de Justicia con sujeción a lo previsto en las leyes de la materia.
 
 ## TITULO DECIMO. PREVENCIONES GENERALES
 
@@ -1145,7 +1193,9 @@ VI.- Técnicas convenientes a sus necesidades y funciones.
 
 Todo cargo o empleo público de la entidad es incompatible con cualquier otro del Estado, cuando por ambos se perciba sueldo, excepto en el caso de que se trate de los ramos de la docencia o de beneficencia.
 
-165.- Todos los funcionarios y empleados del Estado, no podrán actuar como árbitros, ni arbitradores, ni ejercer la abogacía, ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a las personas que estén bajo su patria potestad. La infracción de este artículo será causa de responsabilidad.
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 1976)</small>
+
+165.- Todos los profesionistas que sean funcionarios y empleados del Estado, no pueden ejercer su profesión sino cuando se lo permitan las leyes orgánicas aplicables de las dependencias en que trabajen. La infracción de este artículo será causa de responsabilidad.
 
 ## TITULO UNDECIMO. DE LA REFORMA E INVIOLABILIDAD DE LA CONSTITUCION
 
@@ -1284,3 +1334,15 @@ DECRETO NUMERO 22 (SIC).
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+B.O. 21 DE DICIEMBRE DE 1976.
+
+DECRETO NUMERO 55.
+
+Artículo Unico. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 21 DE DICIEMBRE DE 1976.
+
+DECRETO NUMERO 58.
+
+Artículo Unico. Este decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
