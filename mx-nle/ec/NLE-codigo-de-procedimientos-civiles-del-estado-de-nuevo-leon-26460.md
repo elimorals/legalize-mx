@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1985-02-25"
+last_updated: "1987-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 1987.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -377,9 +377,11 @@ Queda expresamente prohibido dictar otros trámites que los que para cada caso d
 
 DE LOS TERMINOS JUDICIALES.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1987)</small>
+
 ###### Artículo 56.
 
-Los términos judiciales empezarán a correr desde el día siguiente al en que quedare legalmente hecha la notificación, y se contará en ellos el día del vencimiento.
+Los términos judiciales empezarán a correr desde el día siguiente al en que quedare legalmente hecha la notificación, y se contará en ellos el día del vencimiento hasta las quince horas. Tratándose de términos fijados en horas, se computarán a partir del momento de la notificación sin incluir las horas de los días inhábiles.
 
 ###### Artículo 57.
 
@@ -429,11 +431,15 @@ Para la validez de la notificación no se requiere el consentimiento del notific
 
 El auto en que se mande hacer la notificación expresará la materia u objeto de la diligencia y la persona o personas con quienes ésta debe practicarse.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1987)</small>
+
 ###### Artículo 68.
 
-Todos los litigantes, en el primer escrito que presenten o en la primera diligencia judicial en que intervengan, deben designar casa ubicada en el lugar del juicio para que se les hagan las citaciones o notificaciones y se practiquen las diligencias que sean necesarias. También harán esa designación al notificárseles la determinación relativa, para el nuevo lugar a donde por cualquier motivo se mande pasar el negocio. Si durante el juicio varían de casa deberán dar aviso al juzgado o tribunal. Igualmente deben designar la casa en que haya de hacerse la primera citación a la persona o personas contra quienes promueven.
+Todos los litigantes en el primer escrito que presenten o en la primer diligencia judicial en que intervengan, deben designar domicilio ubicado en el lugar del juicio para que se les hagan notificaciones y se practiquen las diligencias que sean necesarias. Tratándose de procedimientos instaurados en los Distritos Judiciales del Primero al Cuarto, el domicilio que se designe para oír notificaciones, puede estar ubicado en algún lugar, en la cabecera de indistintamente cualquiera de los Distritos señalados.
 
-Cuando un litigante no cumpla con las tres primeras prevenciones de este artículo, las notificaciones, aún las que conforme a las reglas generales deban hacérseles personalmente, se le harán por medio de instructivo que se fijará en la puerta del juzgado, instructivo que contendrá los requisitos fijados en la segunda parte del artículo 69. Si no cumple con la última prevención no se hará notificación alguna a la persona contra quien se promueva hasta que se subsane la omisión.
+También harán esa designación al notificárseles la determinación relativa, para el nuevo lugar a donde por cualquier motivo se mande pasar el negocio. Si durante el Juicio varían de domicilio deberán dar aviso al Juzgado o Tribunal. Igualmente deben designar el domicilio en que haya de hacerse la primera notificación a la persona o personas contra quienes promuevan.
+
+Cuando un litigante no cumpla con las tres primeras prevenciones de este Artículo, las notificaciones que conforme a las reglas generales deben hacerse personalmente, se le harán por medio de instructivo que se fijará en la tabla de avisos del Juzgado; instructivo que contendrá los requisitos fijados en el tercer párrafo del Artículo 69. Si no cumple con la última prevención no se hará notificación alguna a la persona contra quien se promueva hasta que se subsane la omisión.
 
 ###### Artículo 69.
 
@@ -457,33 +463,45 @@ En todos estos casos el actuario o quien haga la notificación no dejará cita a
 
 Si se probare que quien debió hacer la notificación no la hizo personalmente, encontrándose presente la persona interesada en el domicilio designado, será responsable de los daños y perjuicios y satisfará una multa de cien a trescientos pesos.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1987)</small>
+
 ###### Artículo 73.
 
-Cuando se ignore el lugar donde resida la persona que deba ser citada o su habitación, se le hará la primera citación por medio de edictos publicados por tres veces a consecutivas en el Periódico Oficial y en algún otro de los que tenga mayor circulación a juicio del juez. La citación hecha por medio de los periódicos surtirá sus efectos a los diez días contados desde el siguiente al de la última publicación.
+La primera notificación a la persona cuyo lugar de residencia o habitación se ignore, se le hará por medio de edictos publicados por tres veces consecutivas en el Periódico Oficial y en algún periódico de los que tenga mayor circulación a juicio del Juez. Publicación que igualmente se hará en el Boletín Judicial en los lugares en que este se edite. La notificación hecha de esta manera surtirá sus efectos a los diez días contados desde el siguiente al de la última publicación. Si el notificado no compareciera, se le harán las demás notificaciones que sean personales por medio de instructivo en los términos del último párrafo del Artículo 69 de este Código, fijándose dicho instructivo en la tabla de avisos del Juzgado o Tribunal.
 
-Si el citado no compareciere, se le harán las demás notificaciones que sean personales por medio de instructivo en los términos del último párrafo del artículo 69 de este Código fijándose dicho instructivo en la puerta del juzgado o tribunal.
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1987)</small>
 
 ###### Artículo 74.
 
-Cuando haya que notificarse por primera vez, a una persona residente en otro lugar comprendido dentro de la jurisdicción del juez que lo mande notificar, la diligencia podrá practicarse por medio de despacho dirigido al alcalde judicial de la población o lugar donde residiere, quien la llevará a efecto de conformidad con el artículo 69. Si el interesado residiere fuera de la jurisdicción, pero dentro del Estado, la notificación se hará por medio del exhorto, dirigido a la primera autoridad judicial competente, quien en su caso, observará lo dispuesto en la primera parte de este artículo.
+Cuando haya que notificarse por primera vez a una persona residente en otro lugar comprendido dentro de la jurisdicción del Juez que lo mande notificar, la diligencia podrá practicarse por medio del funcionario encargado o por despacho dirigido al Alcalde Judicial de la población o lugar donde residiera, quien la llevará a efecto, de conformidad con el Artículo 69. Si el interesado residiere fuera de la Jurisdicción, pero dentro del Estado, la notificación se hará por medio de exhorto, dirigido a la primera Autoridad Judicial Competente, quien en su caso, observará lo dispuesto en la primera parte de este Artículo.
 
-Cuando la notificación deba practicarse por autoridades de otro Estado, del Distrito Federal o Territorios, previo el exhorto correspondiente, la notificación se sujetará a las disposiciones de la Ley del lugar donde se haga.
+Tratándose de procedimientos instaurados en los Distritos del Primero al Cuarto, para la práctica de las notificaciones, no se requerirá la remisión de exhortos o despachos, pues el funcionario encargado de practicarlas deberá constituirse en el lugar designado a fin de realizarlas en los términos de los artículos 69 y 70 de este Código.
 
-Si la notificación debe hacerse en país extranjero, se procederá de acuerdo con la Ley Federal.
+Cuando la notificación deba practicarse a virtud de exhorto de otro Estado o del Distrito Federal, se hará conforme a las prescripciones de este Código.
+
+Si la notificación debe hacerse en el País extranjero se procederá de acuerdo con el Código Federal de Procedimientos Civiles.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1987)</small>
 
 ###### Artículo 75.
 
-Practicada la primera notificación en la forma prevenida por los artículos anteriores, todas las ulteriores procedentes en el mismo juicio, tanto en el procedimiento como en diligencia, o en sus incidentes, en cuanto afecten a las mismas personas liitgantes (sic) y salvo los casos de excepción establecidos por la ley, solo se les hará personalmente si los interesados concurren al juzgado o tribunal para ese efecto y así lo solicitan, en el mismo día en que se dicte la resolución que deba notificarse, o dentro de los dos días siguientes.
+Practicada la primera notificación en la forma prevenida por los Artículos anteriores, todas las ulteriores procedentes en el mismo juicio, o en sus incidentes, en cuanto afecten a las mismas personas litigantes y salvo los casos de excepción establecidos por la Ley, sólo se les harán personalmente si los interesados concurren al Juzgado o Tribunal en el mismo día en que se dicte la resolución que deba notificarse, y así lo soliciten, o dentro de los dos días siguientes entre las nueve y quince horas.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1987)</small>
 
 ###### Artículo 76.
 
-Si las partes o sus representantes no concurren al juzgado o tribunal dentro del término fijado en el artículo anterior, la notificación se dará por hecha y producirá todos sus efectos a las dieciocho horas del último día de los a que se refiere el mismo artículo, con sólo haberse incluido, el negocio relativo en la vista de acuerdos a que se contrae el artículo siguiente.
+Si las partes o sus representantes no concurren al Juzgado o Tribunal en los días y horas a que se refiere el Artículo 75, la notificación se dará por hecha y surtirá sus efectos a las quince horas del segundo día que siga a la fecha en que se haya editado el Boletín Judicial a que se refiere el Artículo siguiente y en el que aparezca publicado el negocio relativo o en la lista de Acuerdos donde aquel no se publique.
 
-El secretario, actuario o el juez, en su caso, asentarán en autos la razón que corresponda a esta clase de notificaciones.
+El Secretario o el Juez, en su caso, asentarán en autos la razón que corresponda a esta clase de notificaciones que incluirá, en todo caso, fecha y número del Boletín Judicial.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1987)</small>
 
 ###### Artículo 77.
 
-Es obligación de los jueces, secretarios y demás empleados, a quienes la ley encomiende hacer notificaciones, publicar, todos los días, antes de las catorce horas en la Tabla de Avisos de sus mismas oficinas la lista de los negocios acordados o resueltos en ese mismo día, designándose en ella solamente los nombres y apellidos de los interesados y la naturaleza del juicio. La lista se hará por duplicado quedadno (sic) uno de los ejemplares en el archivo de la oficina para resolver cualquiera duda que se suscite e irá autorizada con el sello y la firma del juez o magistrado en todo caso, permaneciendo la otra en el lugar de su publicación por el término de quince días.
+Es obligación de los Secretarios o de los Jueces cuando actúen con testigos de asistencia, entregar para su publicación en el Boletín Judicial una lista de los negocios acordados o resueltos en ese mismo día, designándose en éste solamente el número de expediente o toca, la naturaleza del Juicio, los nombres y apellidos de las partes o interesados, salvo que el Juez estime publicación reservada por tratarse de decisiones que impliquen ejecución, pero asentándose en todo caso número de expediente y naturaleza del Juicio. La lista se hará por duplicado quedando uno de los ejemplares en el Archivo de la oficina para resolver cualquier duda que se suscite e irá autorizada con sello y firma del Juez o Magistrado en todo caso. Además se formarán dos colecciones del Boletín Judicial, una de las cuales estará siempre a disposición de los interesados en la Secretaría y otro será para el archivo. En los lugares en donde no se publique el Boletín es obligación de los funcionarios indicados publicar todos los días en la tabla de avisos de los locales que ocupan sus oficinas, antes de las quince horas la lista de Acuerdos referida.
+
+Por errores y omisiones que hagan no identificables los juicios, podrá pedirse la nulidad de las notificaciones hechas por el Boletín Judicial, así como respecto a la fecha en que surta efecto la notificación si el Boletín no se publicó en ese día. La nulidad se tramitará en la vía incidental conforme al Artículo 81 de este Código.
 
 ###### Artículo 78.
 
@@ -2729,9 +2747,11 @@ Si los bienes embargados no estuvieren valuados anteriormente, se pasará al ava
 
 No se requiere avalúo cuando el precio conste en instrumento público o se haya fijado por consentimiento de los interesados o se determine por otros medios, según las estipulaciones del contrato a menos que en el curso del tiempo o por mejoras, hubiere variado el precio.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1987)</small>
+
 ###### Artículo 468.
 
-Hecho el avalúo se sacarán los bienes a pública subasta, señalándose fecha y hora en que debe tener lugar el remate, anunciándose la venta por dos veces, de 7 en 7 días, fijándose edictos en las tablas de los juzgados, y si el valor de la cosa pasare de mil pesos se insertarán aquéllos en el Periódico Oficial del Estado y en otro de información que se edite en el lugar donde se verifique el remate; y a falta de aquél en uno de la Capital del Estado. A petición de cualquiera de las partes y a su costa el juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
+Hecho el avalúo se sacarán los bienes a pública subasta, señalándose fecha y hora en que deba tener lugar el remate, anunciándose la venta dos veces, una cada siete días, fijándose edictos en las Tablas de Avisos de los Juzgados y si el valor de la cosa pasare de cincuenta veces el salario mínimo general más bajo de la entidad, se insertarán aquéllos en el Boletín Judicial, o en el Periódico Oficial donde aquél no se publique, y en un periódico de los de mayor circulación que se edite en el lugar donde se verifique el remate, y a falta de éste en uno de la Capital del Estado. A petición de cualquiera de las partes y a su costa, el Juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
 
 ###### Artículo 469.
 
@@ -4381,7 +4401,9 @@ Declarado el concurso el juez resolverá:
 
 I.- Notificar personalmente o por cédula al deudor la formación de su concurso necesario y por lista de acuerdos al concurso voluntario;
 
-II.- Hacer saber a los acreedores la formación del concurso por medio de edictos que se publicarán por tres veces consecutivas en el Periódico Oficial del Estado y en otro de los de mayor circulación a juicio del juez. Si hubiere acreedores en el lugar del juicio se citará por medio de cédula, por correo o por telégrafo si fuere necesario;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 1987)</small>
+
+II.- Hacer saber a los acreedores la formación del concurso por medio de edictos que se publicarán por tres veces consecutivas en el Boletín Judicial y en el Periódico Oficial donde aquél no se publique, y en un periódico de los de mayor circulación en la Entidad a Juicio del Juez. Si hubiere acreedores en el lugar del Juicio, se citarán por medio de cédula o por correo, o por telégrafo si fuera necesario;
 
 III.- Nombrar síndico provisional;
 
@@ -4819,9 +4841,11 @@ La denuncia de un intestado podrá hacerse por el Ministerio Público, o por cua
 
 Si la denuncia se hiciere por un presunto heredero o por un extraño, tendrán obligación de expresar, bajo protesta de decir verdad, los nombres de los demás coherederos con expresión de sus domicilios y de si son o no mayores de edad. La omisión de este requisito hará que se tenga por no hecha la denuncia y que se dé conocimiento al Ministerio Público, para los efectos a que hubiere lugar.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1987)</small>
+
 ###### Artículo 819.
 
-Hecha la denuncia por las personas a que se refiere el artículo anterior, o por el Ministerio Público, el juez tendrá por radicado el juicio de intestado, y mandará publicar un edicto por una sola vez tanto en el Periódico Oficial como en otro de mayor circulación en el Estado, a juicio del juez, convocando a los que se crean con derecho a la herencia para que comparezcan a deducirlo dentro de treinta días, contados desde la fecha de la publicación del edicto.
+Hecha la denuncia por las personas a que se refiere el Artículo anterior, o por el Ministerio Público, el Juez tendrá por radicado el Juicio de Intestado, y mandará publicar un edicto por una sola vez tanto en el Boletín Judicial y en el Periódico Oficial donde aquél no se publique, como en un periódico de los de mayor circulación en el Estado, a juicio del Juez, convocando a los que se crean con derecho a la herencia para que comparezcan a deducirlo dentro de treinta días, contados desde la fecha de la publicación del edicto.
 
 ###### Artículo 820.
 
@@ -5667,11 +5691,11 @@ IV.- Certificado de la Dirección de Patrimonio Estatal sobre si el inmueble obj
 
 V.- Certificado de la Presidencia Municipal del lugar de ubicación del bien inmueble objeto de la información, donde se determine, si éste pertenece, al Municipio informante, en su caso el informe negativo es solo una presunción de que el Municipio no es propietario.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1987)</small>
 
 ###### Artículo 941.
 
-Si fueron cubiertos los requisitos señalados en el artículo que precede, antes de recibirse la información, se mandará publicar por el juez a costa del interesado y por una sola vez, la solicitud relativa en el Periódico Oficial del Estado y en otro de los de mayor circulación del lugar donde estén ubicados los bienes, y de no existir éste último, se fijarán avisos en tres lugares públicos del Municipio en el que esté ubicado el Juzgado ante quien se promueve, y en la Presidencia Municipal del lugar de ubicación del bien, en caso de estar situado en uno diverso al del Juzgado; debiéndose dejar constancia de este requisito en el expediente respectivo, precisándose la ubicación exacta de los lugares en que se fijó el aviso.
+Si fueron cubiertos los requisitos señalados en el Artículo que precede, antes de recibirse la información se mandará publicar por el Juez, a costa del interesado y por una sola vez, la solicitud relativa en el Boletín Judicial, o en el Periódico Oficial donde aquel no se publique, y en un periódico de los de mayor circulación del lugar donde estén ubicados los bienes, y de no existir éste último se fijarán avisos en tres lugares públicos del Municipio en el que esté ubicado el Juzgado ante quien se promueve y en la Presidencia Municipal del lugar de ubicación del bien, en caso de estar situado en uno diverso al del Juzgado, debiéndose dejar constancia de este requisito en el expediente respectivo, precisándose la ubicación exacta de los lugares en que se fijó el aviso.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 1983)</small>
 
@@ -6222,3 +6246,9 @@ P.O. 25 DE FEBRERO DE 1985.
 ###### ARTICULO UNICO
 
 - Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE ENERO DE 1987.
+
+###### ARTICULO UNICO
+
+- Este Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
