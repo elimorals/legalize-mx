@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-transito-y-transporte-del-estado-de-queretaro-11743"
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-20"
-last_updated: "1997-03-20"
+last_updated: "2000-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE QUERETARO
 
-LEY DE TRÁNSITO DEL ESTADO
+LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2000.
 
 Ley Publicada en el Periódico Oficial del Estado "La Sombra de Arteaga", el 20 de marzo de 1997.
 
@@ -31,15 +31,19 @@ Lic. ENRIQUE BURGOS GARCÍA Gobernador Constitucional del Estado Libre y Soberan
 
 LA QUINCUAGESIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 41 DE LA CONSTITUCION POLITICA LOCAL... ha tenido a bien expedir la siguiente:
 
-LEY DE TRANSITO DEL ESTADO
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE MAYO DEL 2000)</small>
+
+LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE QUERETARO
 
 ## TITULO PRIMERO. DEL TRANSITO Y EL TRANSPORTE
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 1.
 
-La presente Ley tiene por objeto establecer las bases para la ordenación y regulación del tránsito de vehículos, conductores, pasajeros y peatones que hagan uso de las vías públicas del Estado de Querétaro, así como instituir las bases para el servicio público de transporte en la Entidad.
+La presente Ley tiene por objeto establecer las bases para la ordenación y regulación del tránsito de vehículos, conductores, pasajeros y peatones que hagan uso de las vías públicas del Estado de Querétaro, así como la vialidad, y para la prestación del servicio público de transporte de personas y objetos.
 
 ###### ARTICULO 2.
 
@@ -57,27 +61,37 @@ I. El Gobernador del Estado;
 
 II. El Secretario de Gobierno;
 
-III. El Director de Seguridad Pública y Tránsito en el Estado;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2000)</small>
+
+III. El Director de Tránsito y Transporte;
 
 IV. Los Ayuntamientos, en el ámbito de su competencia;
 
 V. Los Presidentes Municipales, en el ámbito de su competencia;
 
-VI. Los comandantes y funcionarios de los diversos cuerpos de tránsito municipales en el Estado, en el ámbito de su competencia, y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2000)</small>
+
+VI. Los Titulares de los diversos cuerpos de tránsito municipal en el Estado, en el ámbito de su competencia, y
 
 VII. Los demás que con ese carácter determinen otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 5.
 
-Previo acuerdo del Ejecutivo, el Secretario de Gobierno, a través de la Dirección de Seguridad Pública y Tránsito en el Estado, dictará y aplicará cuantas medidas sean pertinentes con el objeto de organizar el tránsito de vehículos por las vías de jurisdicción estatal y del aprovechamiento de éstas para los diversos servicios de transporte, de acuerdo a las necesidades que reclame el interés público.
+Previo acuerdo del Ejecutivo, el Secretario de Gobierno, a través de la Dirección de Tránsito y Transporte, en el ámbito de sus atribuciones, dictará y aplicará las medidas que sean pertinentes con el objeto de organizar el tránsito de vehículos por las vías de jurisdicción estatal y el aprovechamiento de éstas para los diversos servicios de transporte, y coadyuvará en materia de seguridad pública con las distintas corporaciones policiales y autoridades federales y municipales, de acuerdo a las necesidades que reclame el interés público.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 6.
 
-La Dirección de Seguridad Pública y Tránsito, concursalmente con los Ayuntamientos en el ámbito de su competencia, dictará las medidas necesarias para la implantación de un programa permanente de educación vial que coadyuve a preservar la vida, la seguridad y el patrimonio de las personas.
+La Dirección de Tránsito y Transporte, coordinadamente con los Municipios en el ámbito de su competencia, dictará las medidas necesarias para la implantación de un programa permanente de educación vial que coadyuve a preservar la vida, la seguridad y el patrimonio de las personas.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 7.
 
-La Dirección de Seguridad Pública y Tránsito en el Estado y los Ayuntamientos, para la prestación del servicio público de tránsito y vialidad, se auxiliará de las personas que tengan conocimientos técnicos y científicos sobre dicha materia.
+La Dirección de Tránsito y Transporte y los Municipios, para la prestación del servicio público de tránsito y vialidad, se auxiliarán de las personas que tengan conocimientos técnicos y científicos sobre dicha materia.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES, COMPETENCIA, FACULTADES Y ORGANIZACION DE LOS CUERPOS DE TRANSITO Y VIALIDAD
 
@@ -115,9 +129,11 @@ III. Determinar las acciones tendientes a mejorar la vigilancia y el tránsito e
 
 IV. Las demás que le encomienden los ordenamientos legales y el Ejecutivo del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 10.
 
-Corresponden al Director de Seguridad Pública y Tránsito en el Estado las siguientes facultades y obligaciones:
+Corresponden al Director de Tránsito y Transporte las siguientes facultades y obligaciones:
 
 I. Organizar y operar los cuerpos de tránsito estatal;
 
@@ -147,13 +163,25 @@ XIII. Imponer en el ámbito estatal los correctivos disciplinarios al personal d
 
 XIV. Vigilar la observancia de la presente ley, reglamentos y acuerdos de la materia, y
 
-XV. Las demás que le encomienden la presente ley, los reglamentos, el Ejecutivo y el Secretario de Gobierno.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2000)</small>
+
+XV. Registrar y llevar el control de las concesiones para el servicio público de transporte de personas a carga;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2000)</small>
+
+XVI.- Proporcionar atención a la ciudadanía sobre los trámites y procedimientos relativos a las concesiones, licencias y permisos para el servicio público de transporte de personas u objetos; y
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2000)</small>
+
+XVII.- Las demás que le encomienden la presente Ley, su Reglamento, demás disposiciones aplicables así como el Ejecutivo del Estado y el Secretario de Gobierno de conformidad con dichos ordenamientos.
 
 ###### ARTICULO 11.
 
 Corresponde a los Ayuntamientos:
 
-I. Aprobar los planes y programas en materia de tránsito y vialidad de sus respectivos municipios, y operar y organizar los cuerpos de tránsito;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2000)</small>
+
+I. Aprobar los planes y programas en materia de tránsito y vialidad de sus respectivos municipios;
 
 II. Impulsar la profesionalización de los cuerpos de tránsito del municipio;
 
@@ -185,21 +213,59 @@ VII. Dictar las medidas necesarias para la observancia y cumplimiento de las dis
 
 VIII. Las demás que le confieran otros ordenamientos legales y el ayuntamiento respectivo.
 
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2000)</small>
+
+###### ARTICULO 12-A.
+
+Corresponden a los titulares de las áreas de tránsito municipales las siguientes facultades y obligaciones:
+
+I. Organizar y operar los cuerpos de tránsito municipal;
+
+II. Dictar las disposiciones, normas operativas, administrativas y disciplinarias que conforme a los reglamentos respectivos determinen la actuación de los cuerpos de Tránsito Municipal;
+
+III. Someter al acuerdo del H. Ayuntamiento por conducto del Secretario del mismo, las condiciones para la coordinación intermunicipal en materia de tránsito y vialidad;
+
+IV.- Expedir los nombramientos de los comandantes de tránsito, conforme a los requisitos establecidos en la presente Ley y su Reglamento, atendiendo a su capacidad, méritos, antigüedad y honestidad;
+
+V.- Promover la profesionalización del personal a su cargo e implementar la carrera policial;
+
+VI. Determinar los indicadores básicos relativos al número de personal y equipo necesario para la prestación del servicio de tránsito municipal;
+
+VII. Designar al personal en activo que se destinará a la prestación del servicio de tránsito municipal;
+
+VIII. Coadyuvar con el Gobierno del Estado en la difusión de la convocatoria que publique para la selección de aspirantes a ingresar a los cuerpos de tránsito;
+
+IX. Dictar las medidas que considere adecuadas para una mejor planeación de los servicios de tránsito en las vías de su ámbito de competencia;
+
+X. Imponer las sanciones que resulten aplicables en los términos de esta Ley y su Reglamento, en su ámbito de competencia;
+
+XI. Imponer al personal los correctivos disciplinarios;
+
+XII. Vigilar la observancia de la presente Ley, su Reglamento y acuerdos en la materia; y
+
+XIII. Las demás que establezca la presente Ley, su Reglamento, otros ordenamientos aplicables, el Ayuntamiento y el Presidente Municipal de conformidad con dichas disposiciones.
+
 ### CAPITULO II. DEL PROGRAMA DE TRANSITO Y VIALIDAD
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 13.
 
-El Director de Seguridad Pública y Tránsito formulará el Programa Estatal en materia de Tránsito y Vialidad, que contendrá el diagnóstico, objetivos, estrategias, metas y subprogramas específicos para cumplir con el objeto de esta Ley, mismo que someterá al acuerdo del Secretario de Gobierno en el mes de octubre de cada año.
+El Director de Tránsito y Transporte formulará el Programa Estatal en materia de tránsito y vialidad, que contendrá el diagnóstico, objetivos, estrategias, metas y subprogramas específicos para cumplir con el objeto de esta Ley, mismo que someterá al acuerdo del Secretario de Gobierno en el mes de octubre de cada año.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 14.
 
-Para efecto del artículo anterior, el Director de Seguridad Pública y Tránsito considerará el número de plazas que se requieran, así como los recursos materiales, técnicos y financieros para dar respuesta a los programas en materia de tránsito y vialidad. El programa estatal de referencia será sometido a la opinión del Consejo de Concertación Ciudadana para la Vialidad y el Transporte antes de que el Ejecutivo Estatal envíe el proyecto de Presupuesto de Egresos a la Legislatura del Estado.
+Para los fines del artículo anterior, el Director de Tránsito y Transporte considerará el número de plazas que se requieran, así como los recursos materiales, técnicos y financieros para dar respuesta a los programas en materia de tránsito y vialidad. El programa estatal de referencia será sometido a la opinión del Consejo de Concertación Ciudadana para la Vialidad y el Transporte antes de que el Ejecutivo Estatal envíe el proyecto de Presupuesto de Egresos a la Legislatura del Estado.
 
 ###### ARTICULO 15.
 
 Son policías en materia de tránsito en el Estado:
 
-I. El cuerpo de policía de la Dirección de Seguridad Pública y Tránsito, y actuará en el territorio del Estado, y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2000)</small>
+
+I. El Cuerpo de policía de la Dirección de Tránsito y Transporte, que actuará en el territorio del Estado.
 
 II. Los cuerpos de tránsito municipales, con actuación en el territorio del municipio que corresponda.
 
@@ -213,7 +279,9 @@ I. Recibir los cursos de formación básica para su ingreso, actualización y es
 
 II. Participar en los concursos de promociones para ascensos;
 
-III. Obtener estímulos y condecoraciones;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2000)</small>
+
+III. Obtener ascensos, reconocimientos y estímulos;
 
 IV. Gozar de las prestaciones y servicios de seguridad social, debiendo percibir un salario remunerador que les permita satisfacer las necesidades normales de un jefe de familia, que deberá ser igual, cuando corresponda a grados iguales, cuando estén asignados a la misma zona, independientemente de que pertenezcan a cuerpos de transito estatales o municipales.
 
@@ -291,9 +359,11 @@ Los cuerpos de tránsito, se organizarán internamente con una estructura tal qu
 
 Para eficientar la función de vialidad y transporte se distribuirá estratégicamente el territorio estatal en regiones.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 20.
 
-La Dirección de Seguridad Pública y Tránsito en el Estado vigilará la seguridad en los caminos de jurisdicción estatal, coadyuvando con los municipios en los que no sean de esta jurisdicción.
+La Dirección de Tránsito y Transporte vigilará la seguridad en los caminos de jurisdicción estatal, coadyuvando a solicitud de los Municipios en los caminos de jurisdicción municipal.
 
 ###### ARTICULO 21.
 
@@ -363,9 +433,11 @@ En el Estado Mayor y áreas técnicas en materia de tránsito y vialidad podrán
 
 Para efecto del artículo anterior, serán aplicables las demás restricciones y requisitos señalados en los artículos 22, 23, 24, y 25.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 29.
 
-El personal de tránsito en el Estado y en los municipios, será evaluado por lo menos una vez al año, por la corporación a la que pertenezcan y por la Direcciòn de Seguridad Pública en el Estado, considerando entre otros los siguientes aspectos:
+El personal de la Dirección de Transito y Transporte y de los cuerpos de tránsito de los Municipios será evaluado por lo menos una vez al año, por la corporación a la que se encuentren adscritos, considerando entre otros los siguientes aspectos:
 
 I. Estado físico y mental;
 
@@ -377,49 +449,71 @@ IV. Rendimiento y eficiencia en el servicio, y
 
 V. Preparación académica.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 30.
 
-Para efecto del artículo anterior se abrirá una hoja de servicios, misma que será controlada por el área administrativa de la Dirección de Seguridad Pública y Tránsito, en el caso del Estado, y por los Comandantes de Policía en los municipios.
+Para los fines del artículo anterior se abrirá una hoja de servicios, misma que será controlada, según el ámbito de competencia, por las áreas administrativas de la Dirección de Tránsito y Transporte y de las áreas de tránsito en los Municipios.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 31.
 
-Los elementos de la Dirección de Seguridad Pública y Tránsito en el Estado presentarán sus servicios en el lugar que señale su titular dentro del territorio estatal conforme a las necesidades del servicio, pudiendo ser removidos de adscripción o comisión cuando lo juzgue conveniente la propia Dirección.
+Los elementos de la Dirección de Tránsito y Transporte, prestarán sus servicios en el lugar que señale su superior jerárquico dentro del territorio estatal conforme a las necesidades del servicio, pudiendo ser removidos de adscripción o comisión cuando lo juzgue conveniente la propia Dirección.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DEL 2000)</small>
 
 ###### ARTICULO 32.
 
-En el área operativa y administrativa de la Dirección de Seguridad Pública y Tránsito en el Estado se establecerá un expediente por cada elemento de todas las coorporaciones existentes, mismo que contendrá la documentación desde su preparación en el Colegio de Policía, la cual será: su alta, currícula académica, evaluación, notas meritorias, arrestos, ascensos y documentación en general. El expediente de referencia se mantendrá actualizado.
+En el área operativa y administrativa de la Dirección de Tránsito y Transporte se integrará un expediente por cada elemento de todas las coorporaciones existentes, mismo que contendrá la documentación desde su preparación en el Colegio de Policía, incluyendo su alta, currícula académica, evaluación, notas meritorias, arrestos, ascensos y documentación en general. El expediente de referencia se mantendrá actualizado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 33.
 
-Para estimular el desarrollo profesional de los elementos de las coorporaciones de Tránsito en el Estado, se establecerá la Comisión de Ascensos, misma que estará integrada por:
+Para estimular el desarrollo profesional de los elementos de la Dirección de Tránsito y Transporte se establecerá la Comisión de Ascensos, misma que estará integrada por:
 
-I. Un representante de la Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2000)</small>
+
+I. Un representante de la Secretaría de Gobierno, quien fungirá como Presidente;
 
 II. Un representante de la Contraloría del Estado;
 
 III. Un representante de la Oficialía Mayor;
 
-IV. El Director de Seguridad Pública y Tránsito en el Estado, quien fungirá como Presidente;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2000)</small>
 
-V. El Subdirector Operativo de Seguridad Pública y Tránsito en el Estado;
+IV. El Director de Tránsito y Transporte; y
 
-VI. Un miembro de la corporación seleccionado por el personal del grupo a examinar, según el grado de que se trate, y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2000)</small>
 
-VII. El Jefe del Departamento de Regiones de Seguridad Pública y Tránsito en el Estado, quien fungirá como Secretario.
+V. El Jefe del Departamento de las Regiones de Tránsito en el Estado, quien fungirá como Secretario.
 
-VIII.- Un representante de la Oficialia Mayor del Municipio de que se trate.
+VI. (DEROGADA, P.O. 12 DE MAYO DE 2000)
+
+VII. (DEROGADA, P.O. 12 DE MAYO DE 2000)
+
+VIII.- (DEROGADA, P.O. 12 DE MAYO DE 2000)
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2000)</small>
+
+Para los fines de esta disposición en el ámbito municipal se estará a lo dispuesto en sus respectivos reglamentos.
 
 ###### ARTICULO 34.
 
 Los requisitos para concursar y tener opción a ocupar el grado inmediato superior y las vacantes correspondientes, serán objeto del reglamento específico.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 35.
 
-No podrá otorgarse un grado superior en la corporación sin haberlo obtenido mediante promoción escalafonaria, salvo por un acto heróico a favor de la sociedad, mismo que será debidamente fundado y motivado por el Director de Seguridad Pública y Tránsito al titular del Ejecutivo Estatal, quien acordará lo conducente.
+No podrá otorgarse un grado superior en la corporación sin haberlo obtenido mediante promoción escalafonaria, salvo lo dispuesto en el Reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 36.
 
-La convocatoria para participar en la promoción escalafonaria será emitida anualmente en los términos que se establezcan en el Reglamento.
+La convocatoria para participar en la promoción escalafonaria será emitida anualmente en los términos que se establezcan en el Reglamento correspondiente y demás disposiciones aplicables.
 
 ###### ARTICULO 37.
 
@@ -427,7 +521,7 @@ Para efecto del artículo anterior, en caso de que por razones presupuestales no
 
 ###### ARTICULO 38.
 
-Cuando una persona cause alta en la Dirección de Seguridad Pública y Tránsito en el Estado, en los cuerpos municipales, deberá asignársele un expediente denominada hoja de servicios.
+(DEROGADO, P.O. 12 DE MAYO DE 2000)
 
 ###### ARTICULO 39.
 
@@ -463,7 +557,9 @@ XIV. Las sanciones disciplinarias que, en su caso, se le hayan impuesto a los ag
 
 XV. La modificación de rango y los cambios de adscripción o actividad, y
 
-XVI. La fecha y motivo del cese o baja administrativa de la persona en la corporación de seguridad pública o tránsito.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2000)</small>
+
+XVI. La fecha y motivo del cese o baja administrativa de la persona en la corporación de tránsito.
 
 ### CAPITULO IV. DEL CONSEJO DE CONCERTACION CIUDADANA PARA LA VIALIDAD Y EL TRANSPORTE
 
@@ -473,7 +569,9 @@ Con la finalidad de que el Ejecutivo del Estado cuente con mayores elementos en 
 
 I. Un Coordinador nombrado por la sociedad civil;
 
-II. Un Secretario Técnico que será el Director de Seguridad Pública y Tránsito en el Estado;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2000)</small>
+
+II. Un Secretario Técnico que será el Director de Tránsito y Transporte;
 
 III. El Representante en el Estado de la Secretaría de Comunicaciones y Transportes, quien fungirá como Asesor Técnico del Consejo, y
 
@@ -553,25 +651,35 @@ Se consideran vehículos de servicio oficial todos los que estén destinados exc
 
 Se consideran como vehículos de servicio social los designados al cumplimiento de actividades de beneficencia pública, de asistencia y socorro social o de algún otro propósito de carácter humanitario o científico.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DEL 2000)</small>
+
 ###### ARTICULO 51.
 
-Las personas físicas o morales propietarias de vehículos destinados a transitar por las vías públicas del Estado en ejecución de cualquiera de los servicios indicados por esta ley, además de satisfacer los requisitos propios de cada caso, deberán registrarlos en la Dirección de Seguridad Pública y Tránsito en el Estado o en la Delegación de la misma.
+Las personas físicas o morales propietarias de vehículos destinados a transitar por las vías públicas del Estado en ejecución de servicios de transporte público o de carga indicados por esta Ley, además de satisfacer los requisitos propios de cada caso, deberán registrarlos en la Dirección de Tránsito y Transporte o en la Delegación de la misma.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DEL 2000)</small>
 
 ###### ARTICULO 52.
 
-Todo vehículo que no esté registrado en los términos del artículo anterior no podrá circular. La ausencia o falta oportuna del registro serán sancionadas en los términos del reglamento de esta ley, sin perjuicio de que la Dirección de Seguridad Pública y Tránsito impida la circulación de dicho vehículo.
+Todo vehículo que no esté debidamente registrado en los términos del artículo anterior no podrá hacerse circular. La ausencia o falta oportuna del registro serán sancionadas en los términos de las disposiciones aplicables, sin perjuicio de que la Dirección de Tránsito y Transporte impida la circulación de dicho vehículo.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 53.
 
-El comprobante del registro de un vehículo en la Dirección de Seguridad pública y Tránsito es el denominado "tarjeta de circulación", junto con las placas, calcomanías y demás signos de identificación que por razón del servicio y condiciones de prestación del mismo se requieran.
+El comprobante del registro de un vehículo en la Dirección de Tránsito y Transporte es el denominado "tarjeta de circulación", junto con las placas de circulación, calcomanías y demás signos de identificación que por razón del servicio y condiciones de prestación del mismo se requieran.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 54.
 
-El otorgamiento de placas queda sujeto a los convenios que sobre la materia celebre el Ejecutivo del Estado con otras autoridades o a las disposiciones que sobre el particular dicte el Secretario de Gobierno por conducto de la Dirección de Seguridad Pública y Tránsito en el Estado.
+El otorgamiento de placas de cirulación queda sujeto a los convenios que sobre la materia celebre el Ejecutivo del Estado con otras autoridades o a las disposiciones que sobre el particular dicte el Secretario de Gobierno por conducto de la Dirección de Tránsito y Transporte.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 55.
 
-En el territorio del Estado ninguna persona podrá manejar vehículo automotor sin la licencia respectiva, que expedirá la Dirección de Seguridad Pública y Tránsito, previa la satisfacción de los requisitos de esta ley, su reglamento y demás disposiciones, debiendo acreditar los exámenes de aptitud y de conocimientos para el otorgamiento de la licencia.
+En el territorio del Estado ninguna persona podrá manejar vehículo automotor sin la licencia respectiva expedida por la autoridad competente. En el Estado de Querétaro dicha liciencia será expedida por la Dirección de Tránsito y Transporte, previa la satisfacción de los requisitos de esta Ley, su Reglamento y demás disposiciones aplicables, debiendo acreditarse los exámenes de aptitud y de conocimientos para el otorgamiento de la misma. Los conductores que infrinjan esta disposición se harán acreedores a las sanciones que establece la presente Ley.
 
 ###### ARTICULO 56.
 
@@ -581,9 +689,11 @@ Las licencias a que se refiere el artículo anterior, se expedirán, se suspende
 
 Las licencias para conducir vehículos, podrán expedirse por un plazo de uno a cinco años.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 58.
 
-Los propietarios de vehículos estarán obligados a realizar las revisiones físicas y mecánicas de sus unidades, en las fechas y forma que la Secretaría de Gobierno señale a través de la Dirección de Seguridad Pública y Tránsito en el Estado.
+Los propietarios de vehículos utilizados para transporte público y de carga, están obligados a realizar las revisiones físicas y mecánicas de sus unidades de manera periódica, en las fechas y forma que la Secretaría de Gobierno señale, las que se realizarán en forma programada, de acuerdo al calendario que previamente dé a conocer la Dirección de Tránsito y Transporte o cuando así lo determine la propia Dirección.
 
 ###### ARTICULO 59
 
@@ -592,6 +702,52 @@ Todo vehículo que contamine ostensiblemente será retirado de la circulación.
 ###### ARTICULO 60.
 
 Independientemente de lo señalado en esta ley, los propietarios de vehículos están obligados a realizar las revisiones que el área responsable de la preservación ecológica señale.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2000)</small>
+
+###### ARTICULO 60-A.
+
+Los propietarios de cualquier tipo de vehículo automotor que utilicen algún combustible alterno a la gasolina o disel para la propulsión mecánica, deberán cumplir con la Norma Oficial Mexicana NOM-005-SEDG-1999, para la Instalación de Equipo de Carburación en Vehículos Automotores y Motores Estacionarios de Combustión Interna, emitida por la Secretaría de Energía y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2000)</small>
+
+###### ARTICULO 60-B.
+
+Los vehículos de combustión interna que utilicen equipo de carburación Gas L.P., deberán ser abastecidos exclusivamente en los establecimientos autorizados para ello por la autoridad competente, y que por lo tanto cuenten con las instalaciones apropiadas, dispositivos de control y seguridad, quedando prohibido ese suministro en la vía pública y en lugares no autorizados por cualquier medio.
+
+En el caso del incumplimiento de esta disposición, los propietarios del vehículo que reciba la carga y del vehículo que la suministre, así como cualquier otra persona que haya participado en dichas acciones, serán sancionados conforme a la presente Ley y su Reglamento, y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2000)</small>
+
+###### ARTICULO 60-C.
+
+Los vehículos automotores que utilicen equipo de carburación con Gas L.P., en motor de combustión interna, deberán ser sometidos a verificación y suspensión de dicho equipo durante los períodos señalados en las disposiciones aplicables y cuando así lo determine la autoridad competente.
+
+En el caso de que con motivo de dicha verificación y supervisión se determine que existen fallas, él vehículo no podrá circular hasta que su propietario compruebe que ha efectuado las reparaciones necesarias que satisfagan lo dispuesto por las normas técnicas correspondientes.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2000)</small>
+
+###### ARTICULO 60-D.
+
+Corresponde a la Dirección de Tránsito y Transporte llevar a cabo la inspección y vigilancia así como la aplicación de sanciones en los términos de esta Ley y su Reglamento respecto de los vehículos con carburación de Gas L.P., y a sus propietarios, según el caso.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2000)</small>
+
+###### ARTICULO 60-E.
+
+Los vehículos que cuenten con equipo de carburación con Gas L.P., en los que no se porte certificado de verificación expedido por la Unidad de Verificación correspondiente, serán sancionados en los términos de la presente ley, su Reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2000)</small>
+
+###### ARTICULO 60-F.
+
+En los vehículos a que se refiere el artículo anterior, deberá estar inscrita una leyenda que indique el uso del combustible alterno. El incumplimiento de lo anterior será sancionado con multa equivalente a 20 días de salario mínimo vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2000)</small>
+
+###### ARTICULO 60-G.
+
+La aplicación de las sanciones a que aluden los artículos anteriores, así como las demás sanciones previstas en la presente Ley y en su Reglamento, será independiente de las que imponga otras autoridades en ejercicio de sus funciones, y de la responsabilidad civil o penal que resultare.
 
 ### CAPITULO II. DE LOS SERVICIOS PUBLICOS DE TRANSPORTE, CONCESIONES Y PERMISOS
 
@@ -611,13 +767,17 @@ b). Permiso.
 
 El Ejecutivo del Estado a través de la Secretaría de Gobierno, es la autoridad competente para el otorgamiento de las concesiones a que se refiere la presente ley y su reglamento respectivo, previo procedimiento administrativo correspondiente.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 64.
 
-La Dirección de Seguridad Pública y Tránsito en el Estado, por delegación de facultades del Ejecutivo, es la autoridad competente para el otorgamiento de los permisos a que se refiere la presente ley y su reglamento, previo procedimiento respectivo y siempre que su expedición no esté reservada a otra autoridad.
+La Dirección de Tránsito y Transporte, por delegación de facultades del Ejecutivo, es la autoridad competente para el otorgamiento de los permisos a que se refiere la presente ley y su reglamento, previo procedimiento respectivo y siempre que su expedición no sea reservada a otra autoridad.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 65.
 
-Siendo de utilidad pública el servicio de transportación de personas u objetos en las vías públicas comprendidas dentro del Estado, la Secretaria de Gobierno, a través de la Dirección de Seguridad Pública y Tránsito, procederá a su planeación y fijará de acuerdo con las disposiciones de esta ley y sus reglamentos, las normas, rutas, itinerarios, tarifas y demás condiciones a que deba sujetarse la prestación de dicho servicio.
+Siendo de utilidad pública el servicio de transportación de personas u objetos en las vías públicas comprendidas dentro del estado, la Secretaria de Gobierno, a través de la Dirección de Tránsito y Transporte, procederá a su planeación y fijará de acuerdo con las disposiciones de esta ley y sus reglamentos, las normas, rutas, itinerarios, tarifas y demás condiciones a que deba sujetarse la prestación de dicho servicio.
 
 ###### ARTICULO 66.
 
@@ -705,9 +865,11 @@ Los propietarios de vehículos de carga, con capacidad hasta de tres toneladas, 
 
 En los casos en que temporalmente se presente una demanda extraordinaria de transporte, el Secretario de Gobierno podrá conceder permisos eventuales para la satisfacción inmediata de la misma.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 76.
 
-La Dirección de Seguridad Pública y Tránsito podrá expedir permisos provisionales en aquellos casos en que aunque no esté comprendido dentro de esta ley y por la reducida importancia de sus modalidades particulares, vengan a satisfacer alguna necesidad imprevista en la transportación de personas u objetos, previo acuerdo del Secretario de Gobierno.
+La Dirección de Tránsito y Transporte podrá expedir permisos provisionales cuando haya de satisfacerse alguna necesidad imprevista en la transportación de personas u objetos.
 
 ###### ARTICULO 77.
 
@@ -733,6 +895,10 @@ En el otorgamiento de concesiones y permisos se dará atención preferente a las
 
 Las concesiones se otorgarán por período indefinido, pero será obligación del concesionario refrendarla cada año para que puedan prestar el servicio que ampara la misma, pudiendo ser revocada por las faltas u omisiones a las que obliga la presente ley.
 
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2000)</small>
+
+Se entiende por refrendo la autorización que otorgue la Secretaria de Gobierno, a petición del concesionario, para que éste continúe prestado el servicio público de transporte, precio el cumplimiento de los requisitos que señale la Ley, su Reglamento y demás disposiciones aplicables, y la propia Secretaría de conformidad con esos ordenamientos.
+
 ###### ARTICULO 83.
 
 El Ejecutivo, a través de la Secretaría de Gobierno, podrá conceder el refrendo anual de la concesión, dependiendo de que sus titulares hayan cumplido o no con las disposiciones y obligaciones derivadas de esta ley y su reglamento.
@@ -755,7 +921,9 @@ V. En todo caso, se deberá comprobar que poseen capacidad económica y técnica
 
 Los concesionarios de la transportación de objetos y/o personas podrán organizarse en uniones, asociaciones o sociedades permitidas por la ley.
 
-Sin perjuicio de las obligaciones que la Ley de Ingresos del Estado fije a los concesionarios y permisionarios de los servicios públicos que se exploten dentro de la entidad, la Secretaría de Gobierno podrá celebrar, a través de la Dirección de Seguridad Pública y Tránsito del Estado, convenios con las uniones, asociaciones y sociedades a que se refiere el primer párrafo de este artículo, mediante los cuales se coordine la participación de los concesionarios y del Estado en la conservación y la ampliación del sistema vial en la entidad.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
+
+Sin perjuicio de las obligaciones que la Ley de Ingresos del Estado fije a los concesionarios y permisionarios de los servicios públicos que se exploten dentro de la entidad, la Secretaría de Gobierno podrá celebrar, a través de la Dirección de Tránsito y Transporte, convenios con las uniones, asociaciones y sociedades a que se refiere el primer párrafo de este artículo, mediante los cuales se coordine la participación de los concesionarios y del Estado en la conservación y la ampliación del sistema vial en la entidad.
 
 Los convenios a que se refiere este artículo tendrán esencialmente la finalidad de procurar la prestación eficiente de los servicios prestados a los usuarios del autotransporte, de proveer la satisfacción de las necesidades del momento y futuras en la materia, así como proteger y garantizar las inversiones de los concesionarios, evitando competencias desleales, desorganización de los sistemas y perjuicios para los inversionistas.
 
@@ -769,13 +937,37 @@ Los concesionarios de transporte de carga y materialistas podrán celebrar tambi
 
 Los derechos derivados de las concesiones son intransferibles.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 87.
 
-Los concesionarios podrán celebrar entre sí o con terceras personas, convenios de enlace, fusión o combinación de equipos, actos que para su validez deberán ser sometidos a la aprobación del Secretario de Gobierno a través de la Dirección de Seguridad Pública y Tránsito en el Estado, escuchando a los posibles afectados antes de emitir la resolución que corresponda.
+Los concesionarios podrán celebrar entre sí o con terceras personas, convenios de enlace, fusión o combinación de equipos, actos que para su validez deberán ser sometidos a la aprobación de la Secretaria de Gobierno a través de la Dirección de Tránsito y Transporte, escuchando a los posibles afectados antes de emitir la resolución que corresponda.
 
 ###### ARTICULO 88.
 
 El ejecutivo, por conducto de la Secretaría de Gobierno, podrá imponer en los servicios de transportación, las modalidades que dicte el interés público, fijándolas en materia de caminos, rutas o tramos, el número, capacidad y demás características de los vehículos que en ellos operen y ordenando las obras y la adopción de medidas que mejor aseguren al público usuario.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2000)</small>
+
+###### ARTICULO 88-A.
+
+En los vehículos de transporte público del Estado de Querétaro podrá instalarse anuncios. La Dirección de Tránsito y Transporte es la autoridad competente para otorgar las autorizaciones correspondientes.
+
+La publicidad que pueda portarse en los vehículos destinados al transporte público en cualquiera de las modalidades que establece esta Ley solamente podrá hacerse en los términos previstos la misma, su Reglamento, otras disposiciones aplicables y las que dicte el Titular de la Secretaría de Gobierno de acuerdo con dichos ordenamientos y de conformidad con lo siguiente:
+
+A) Vehículos a que se refiere el artículo 70 fracción I incisos a), b), c), e), h), i) de esta Ley.
+
+"Podrá colocarse publicidad en las dobelas de su interior y únicamente en los costados superiores, así como en la parte posterior y los costados de su exterior, en viníl autoadherible o similar, sin que pueda utilizar las áreas de los cristales de la unidad, a efecto de que no se obstruya la visión del conductor y pasajeros, dejando siempre sin utilizar el frente del vehículo y despejadas sus luces, calaveras, placas, defensas y señalamientos y sus datos de identificación exterior, sin exceder las dimensiones físicas del propio vehículo".
+
+En todo caso deberá observarse la ética publicitaria, no pudiendo colocarse anuncios cuyo contenido haga referencia a ideas, imágenes o mensajes que inciten a la violencia, sean contrarias a la moral y a las buenas costumbres, promuevan la discriminación de razas o condición social o el consumo de drogas, o estén redactadas en idioma distinto al español, salvo que se trate de nombres propios de productos, marcas o nombres comerciales.
+
+B) Vehículos referidos en el artículo 70 fracción I incisos d), f) y g), de esta Ley:
+
+Podrá colocarse solamente un copete en el toldo de los mismos, de material acrilico o similar con medidas máximas de 10 centímetros de ancho, 25 centímetros de largo y 12 centímetros de alto.
+
+C) Los vehículos destinados a la prestación de los servicios a que se refiere en el inciso a) fracción II del artículo 70 de esta Ley solamente podrán llevar inscritos el nombre, denominación o razón social del concesionario y nombres o logotipos relativos a sus productos o servicios.
+
+Las autorizaciones a que se refiere este artículo tendrán vigencia por un año y podrán renovarse a petición del interesado, previo cumplimiento de los requisitos correspondientes.
 
 ###### ARTICULO 89.
 
@@ -823,17 +1015,35 @@ II. Cobrar por el transporte el precio fijado en las tarifas aprobadas por la Se
 
 III. Realizar el transporte en toda la ruta especificada en la concesión o en el convenio respectivo, efectuar el recorrido conforme a los horarios aprobados, respetar las velocidades autorizadas y ceñirse a los plazos que señale el reglamento. El servicio de transportación de cosas, podrá estar sujeto a horarios y a las demás disposiciones.
 
-IV. Emplear en el servicio, los vehículos que satisfagan las condiciones de seguridad, higiene, capacidad, peso, dimensiones y demás especificaciones que con relación a cada clase de servicio determine la Dirección de Seguridad Pública y Tránsito en el Estado;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2000)</small>
+
+IV. Emplear para la prestación del servicio, los vehículos que satisfagan las condiciones de seguridad, higiene, capacidad, peso, dimensiones y demás especificaciones que con relación a cada clase de servicio determine la Dirección de Tránsito y Transporte;
 
 V. Sustituir los vehículos que temporal o definitivamente retire del servicio por otros que reúnan las necesidades de capacidad y calidad requeridas;
 
-VI. Amparar con el seguro de viajero a quienes se hallen a bordo de la unidad en servicio;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2000)</small>
 
-VII. Prestar el servicio gratuito a la población en caso de desastre y sólo mientras dura la emergencia, coordinandose con la Dirección de Seguridad Pública y Tránsito en el Estado y el área respectiva de protección civil para el efecto, y;
+VI. Amparar con el seguro correspondiente a los pasajeros y a cualquier tercero en cuanto a su integridad física y sus bienes;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2000)</small>
+
+VII. Prestar el servicio gratuito a la población en caso de desastre y sólo mientras dura la emergencia, coordinandose con la Dirección de Tránsito y Transporte y el área respectiva de protección civil para el efecto;
 
 VIII. Acatar las disposiciones de esta ley y el reglamento correspondiente.
 
 IX.- Difundir y portar, en sus unidades de transporte, de manera visible, los derechos del usuario.
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2000)</small>
+
+X.- Cumplir en tiempo y forma con las revisiones mecánicas de sus vehículos a que se refiere esta Ley;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2000)</small>
+
+XI.- Avisar a la Dirección de Tránsito y Transporte en caso de cambio de domicilio; y
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2000)</small>
+
+XII.- Las demás que señalen esta Ley, su Reglamento y demás disposiciones aplicables.
 
 ###### ARTICULO 98.
 
@@ -867,11 +1077,57 @@ V. Transmitir los derechos de la concesión o celebrar convenios que la modifiqu
 
 VI. No cumplir con sus obligaciones fiscales;
 
-VII. Circular con póliza de seguro vencida;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2000)</small>
 
-VIII. Cualquier otra irregularidad grave en la prestación del servicio, y
+VII. Circular sin póliza de seguro o con póliza vencida;
 
-IX. Las demás que señale la ley o el reglamento
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2000)</small>
+
+VIII. Incumplir más de una ocasión cualquiera de las disposiciones establecidas en los artículos 60-A, 60-B y 60-C;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2000)</small>
+
+IX. Incumplir más de una ocasión con la revisión programada de su vehículo o más de dos ocasiones en tratándose de las revisiones determinadas por la Dirección de Tránsito y Transporte a que se refiere el artículo 97 fracción X de esta Ley;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2000)</small>
+
+X. No efectuar el refrendo anual en los términos del artículo 82 de esta ley;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2000)</small>
+
+XI Los accidentes graves que sean consecuencia de fallas mecánicas notorias o previsibles o de la impericia o negligencia del conductor, y
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2000)</small>
+
+XII. Las demás que señalen la presente Ley, su Reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2000)</small>
+
+###### ARTICULO 102-A.
+
+Son causas de suspensión por tres meses de los derechos derivados de la concesión:
+
+I. Provocar accidentes que san consecuencia de fallas mecánicas o previsibles o de la impericia o negligencia del conductor;
+
+II. Presentar fallas mecánicas notorias o previsibles durante la prestación del servicio, independientemente de las consecuencias de las mismas;
+
+III. Reincidir en el incumplimiento de lo dispuesto en el artículo 60-F de esta Ley;
+
+IV. Acumular en el período de un año más de 10 infracciones al Reglamento de Tránsito; y
+
+V. Incurrir en el supuesto que establece el artículo 60-E de esta Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2000)</small>
+
+###### ARTICULO 102-B.
+
+Son causas de suspensión por seis meses de los derechos derivados de la concesión:
+
+I.Incurrir por una ocasión en cualquiera de los supuestos que establecen los artículos 60-A, 60-B y 60-C;
+
+II. Incumplir por una ocasión con la revisión de su vehículo determinada por la Dirección de Tránsito y Transporte a que se refiere el artículo 97 fracción X de esta Ley; y
+
+III. Reincidir en los supuestos a que se refiere el artículo anterior.
 
 ###### ARTICULO 103.
 
@@ -899,9 +1155,11 @@ II. Ejecutar o hacer ejecutar a bordo de los vehículos actos que atenten contra
 
 III. En general, pretender que la prestación del servicio se haga contraviniendo las disposiciones legales o reglamentarias.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 105.
 
-Para todos los efectos legales, los usuarios tienen interés legítimo y en consecuencia tienen el derecho de denunciar ante la Dirección de Seguridad Pública y Tránsito, cualquier irregularidad en la prestación del servicio público de transporte, mediante los procedimientos que la propia dependencia establezca.
+Para todos los efectos legales, los usuarios tienen interés legítimo y en consecuencia tienen el derecho de denunciar ante la Dirección de Tránsito y Transporte cualquier irregularidad en la prestación del servicio público de transporte, mediante los procedimientos que la propia Dirección establezca.
 
 ### CAPITULO IV. DE LOS PEATONES
 
@@ -909,13 +1167,17 @@ Para todos los efectos legales, los usuarios tienen interés legítimo y en cons
 
 Esta ley otorga el derecho de preferencia a la circulación del peatón, exaltando el valor de la vida humana en su aplicación, cuyo derecho deberá hacerse efectivo en los programas y reglamento correspondiente.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 107.
 
-La Dirección de Seguridad Pública y Tránsito propiciará, mediante la infraestructura y el señalamiento vial necesarios, el tránsito seguro de los peatones y la posibilidad de conectarse entre vialidades, ya sea mediante semáforos, puentes, pasos a nivel o a desnivel, u otros dispositivos y protecciones necesarias. Asimismo garantizará que dichas vialidades e infraestructura no sean obstaculizadas o invadidas
+La Dirección de Tránsito y Transporte propiciará, mediante la infraestructura y el señalamiento vial necesarios, el tránsito seguro de los peatones y la posibilidad de conectarse entre vialidades, ya sea mediante semáforos, puentes, pasos a nivel o a desnivel, u otros dispositivos y protecciones necesarias. Asimismo garantizará que dichas vialidades e infraestructura no sean obstaculizadas o invadidas.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 108.
 
-La Dirección de Seguridad Pública y Tránsito promoverá las acciones necesarias para que las vialidades peatonales existentes se mantengan en buen estado y con superficie uniforme con el fin de proporcionar a los peatones el tránsito seguro por estas vías, llevando a cabo las medidas necesarias para que estas vialidades se establezcan facilidades para personas con discapacidad y de la tercera edad.
+La Dirección de Tránsito y Transporte promoverá las acciones de mantenimiento y correctivas necesarias para que las vialidades peatonales existentes se mantengan en buen estado y con superficie uniforme con el fin de proporcionar a los peatones el tránsito seguro por estas vías, llevando a cabo las medidas necesarias para que estas vialidades cuenten con la infraestructura adecuada para el tránsito de personas con discapacidad y de la tercera edad.
 
 ## TITULO CUARTO. DE LAS INFRACCIONES, SANCIONES Y RECURSOS
 
@@ -931,7 +1193,17 @@ a). Revocación de las concesiones;
 
 b). Cancelación de permisos y autorizaciones.
 
-II. Las que imponga la Dirección de Seguridad Pública y Tránsito:
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2000)</small>
+
+c). Suspensión por tres meses de los derechos derivados de las concesiones para la prestación de servicio público de transporte;
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2000)</small>
+
+d). Suspensión por seis meses de los derechos derivados de las concesiones para la prestación de servicio público de transporte;
+
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 12 DE MAYO DE 2000)</small>
+
+II. Las que imponga la Dirección de Tránsito y Transporte:
 
 a). Amonestación;
 
@@ -939,19 +1211,23 @@ b). Multa desde uno hasta veinte días de salario mínimo vigente en la zona fij
 
 c). Suspensión temporal o definitiva de la licencia para manejar los vehículos, sin perjuicio de la sanción pecuniaria correspondiente;
 
-d). Las demás que señale esta ley o reglamento.
+d). Las demás que señale esta ley o su reglamento.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 110.
 
-La Dirección de Seguridad Pública y Tránsito calificará la infracción que resulte de conformidad con la gravedad de la falta, de acuerdo con el tabulador de infracciones que señale el reglamento y remitirá ante las autoridades administrativas o judiciales los casos que ameriten multa o pena de prisión.
+El Director de Tránsito y Transporte calificará la infracción que resulte de conformidad con la gravedad de la falta, de acuerdo con el tabulador de infracciones que señale el Reglamento de esta Ley y remitirá ante las autoridades administrativas o judiciales los casos que ameriten multa o pena de prisión.
 
 ###### ARTICULO 111.
 
 La amonestación es una sanción preventiva y al infractor que la sufra se le harán las anotaciones respectivas en el libro de infracciones que para este efecto se lleve.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 112.
 
-A fin de que se asegure el interés fiscal, para el efecto del cobro de las sanciones pecuniarias por infracciones a la ley y su reglamento queda, facultada la Dirección de Seguridad Pública y Tránsito en el Estado para iniciar el procedimiento coactivo de recaudación correspondiente a través de la Dirección de Ingresos. En caso de daños ocasionados a terceros, podrá retenerse en garantía el o los vehículos, que serán puestos a disposición inmediata de la autoridad competente.
+A fin de que se asegure el interés fiscal, para el efecto del cobro de las sanciones pecuniarias por infracciones a la presente Ley y su Reglamento queda facultada la Dirección de Tránsito y Transporte para iniciar el procedimiento coactivo de recaudación correspondiente a través de la Dirección de Ingresos. En caso de que, con motivo del tránsito de vehículos se ocasionen daños a terceros la Dirección de Tránsito y Transporte remitirá inmediatamente las unidades involucradas ante la autoridad ministerial competente.
 
 ###### ARTICULO 113.
 
@@ -959,17 +1235,23 @@ La reincidencia traerá aparejada la agravación de la sanción.
 
 Se entiende que hay reincidencia cuando una persona haya sido sancionada por la misma falta dentro de los tres meses anteriores a la infracción que se califica.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 114.
 
-La aplicación de las sanciones corresponde a la Dirección de Seguridad Pública y Tránsito, sin perjuicio de la remisión del presunto a las autoridades competentes en los casos de la comisión de un delito, en cuyo caso la Dirección de Seguridad Pública y Tránsito reunirá los suficientes elementos de información que ilustren la averiguación previa, rindiendo parte informativo e ilustrativo en su caso, sobre los hechos.
+La aplicación de las sanciones corresponde a la Secretaría de Gobierno y a la Dirección de Tránsito y Transporte, en el ámbito de sus respectivas competencias, sin perjuicio de la remisión del probable responsable a las autoridades competentes en los casos de la comisión de un delito, en cuyo caso la Dirección de Tránsito y Transporte reunirá los suficientes elementos de información que ilustren la averiguación previa, rindiendo parte informativo ilustrado en su caso sobre los hechos.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 115.
 
-La Dirección de Seguridad Pública y Tránsito del Estado impondrá las medidas disciplinarias y sanciones que deban aplicarse a funcionarios y empleados de dicha dependencia que falten al cumplimiento de sus deberes de acuerdo el Reglamento de Tránsito.
+El Director de Tránsito y Transporte impondrá las medidas disciplinarias y sanciones que deban aplicarse a funcionarios y empleados de dicha Dirección que falten al cumplimiento de sus deberes de acuerdo a esta Ley y a su Reglamento, sin perjuicio de lo previsto en otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 116.
 
-Periódicamente se formulará por la Dirección de Seguridad Pública y Tránsito en el Estado, un cuadro estadístico de accidentes, infracciones y sanciones y lo remitirá al Secretario de Gobierno para su conocimiento y efectos legales correspondientes.
+Periódicamente se formulará por la Dirección de Tránsito y Transporte un cuadro estadístico de accidentes, infracciones y sanciones y lo remitirá al Secretario de Gobierno para su conocimiento y efectos legales correspondientes.
 
 ###### ARTICULO 117.
 
@@ -979,9 +1261,11 @@ Los conductores de vehículos también podrán interponer el recurso correspondi
 
 Si el infractor fuere jornalero, obrero, campesino, ejidatario, asalariado o estudiante, la multa no podrá ser mayor al importe de un día de salario mínimo vigente en el Estado.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 119.
 
-La Dirección de Seguridad Pública y Tránsito, al calificar el monto a pagar por una infracción, podrá reducirla considerando las causas que la motivaron y la situación económica del infractor.
+El Director de Tránsito y Transporte al calificar el monto a pagar por una infracción, podrá reducirla considerando las causas que la motivaron y la situación económica del infractor.
 
 ###### ARTICULO 120.
 
@@ -997,9 +1281,11 @@ En el reglamento de tránsito respectivo quedarán señaladas las facultades y o
 
 ### CAPITULO II. DE LOS RECURSOS DE REVOCACION Y DE RECONSIDERACION
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 123.
 
-Los particulares podrán presentar en los cinco días hábiles siguientes a la fecha en que se haya levantado el acta de infracción, el recurso de revocación contra la misma. Dicho recurso se presentará ante la Dirección de Seguridad Pública, la cual deberá resolver lo conducente en forma expedita a más tardar dentro de los tres día siguientes a la interposición del mismo.
+Los particulares podrán presentar en los cinco días hábiles siguientes a la fecha en que se haya levantado el acta de infracción, el recurso de revocación contra la misma. Dicho recurso se presentará ante la Dirección de Tránsito y Tránsporte, la cual deberá resolver lo conducente en forma expedita a más tardar dentro de los tres día siguientes a la interposición del mismo.
 
 ###### ARTICULO 124.
 
@@ -1124,3 +1410,13 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 LIC. ALEJANDRO ESPINOSA MEDINA.
 
 SECRETARIO DE GOBIERNO.
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 12 DE MAYO DE 2000.
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Las facultades y referencias en materia de tránsito y concesiones, licencias y permisos de transporte público que se encuentren establecidas en otros ordenamientos legales a favor de la Dirección de Seguridad Pública y Tránsito del Estado y de la Dirección de Concesiones y Licencias, se entenderán a favor de la Dirección de Tránsito y Transporte.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a la presente ley.
