@@ -4,7 +4,7 @@ identifier: "RGIC"
 country: "mx"
 rank: "reglamento"
 publication_date: "1934-03-20"
-last_updated: "1963-12-31"
+last_updated: "1966-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=586&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "RGIC"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1963.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE OCTUBRE DE 1966.
 
 Reglamento publicado en el Diario Oficial de la Federación el martes 20 de marzo de 1934.
 
@@ -550,9 +550,13 @@ Los Presidentes de las Comisiones son responsables de los expedientes que pasen 
 
 El Presidente y los Secretarios de las Cámaras, no podrán pertenecer a ninguna Comisión durante el tiempo de sus encargos.
 
+(REFORMADO, D.O.F. 21 DE OCTUBRE DE 1966) (F. DE E., D.O.F. 22 DE OCTUBRE DE 1966)
+
 ###### ARTICULO 85.
 
-Las Comisiones de Administración, la Inspectora y las Secciones del Gran Jurado, seguirán funcionando durante los recesos del Congreso. Si alguno de sus miembros tuviere que ausentarse de la capital, lo avisará a la Cámara antes de que se cierren las sesiones.
+Las Comisiones de ambas Cámaras seguirán funcionando durante el receso del Congreso, para el despacho de los asuntos a su cargo. El Presidente de cada Comisión tendrá a su cargo coordinar el trabajo de los miembros de la Comisión y citarlos cuando sea necesario, durante los recesos, para el despacho de los asuntos pendientes. Si alguno de los miembros de las Comisiones tuviera que ausentarse de la Capital, lo avisará a la Cámara, antes de que se cierren las sesiones.
+
+Durante los recesos del Congreso, la Comisión Permanente tendrá, en lo conducente, las facultades que, en relación con las Comisiones de ambas Cámaras, otorgan a la Presidencia de las mismas, las Fracciones III y XVI del Artículo 21 de este Reglamento.
 
 ###### ARTICULO 86.
 
@@ -586,9 +590,17 @@ Cualquier miembro de la Cámara, puede asistir sin voto a las conferencias de la
 
 Para el despacho de los negocios de su incumbencia, las Comisiones se reunirán mediante cita de sus respectivos Presidentes, y podrán funcionar con la mayoría de los individuos que las forman.
 
+> <small>(REFORMADO, D.O.F. 21 DE OCTUBRE DE 1966)</small>
+
 ###### ARTICULO 94.
 
-Las Comisiones conservarán durante el receso de las Cámaras, los expedientes que tuvieren en su poder; pero no después de cerrado el último período de sesiones del Congreso a que pertenezcan, pues entonces sus Presidentes deberán entregar a la Secretaría al día siguiente de cerradas las sesiones, los expedientes que hayan quedado sin despachar, en el estado en que se encontraren, para que así pasen a la Comisión Permanente.
+Las Comisiones, durante el receso, continuarán el estudio de los asuntos pendientes, hasta producir el correspondiente dictamen. También estudiarán y dictaminarán las iniciativas que les sean turnadas por la Comisión Permanente durante el receso.
+
+Una vez que estén firmados los dictámenes por la mayoría de los miembros de las Comisiones encargadas de un asunto, se imprimirán junto con los votos particulares si los hubiere, y se remitirán a los Diputados o Senadores según corresponda, para su conocimiento y estudio.
+
+Al abrirse el período de sesiones, se tendrá por hecha la primera lectura de todo dictamen que se remita a los Legisladores antes del 15 de agosto de cada año.
+
+Los dictámenes que las Comisiones produzcan, sobre asuntos que no llegue a conocer la Legislatura que los recibió, quedarán a disposición de la siguiente Legislatura, con el carácter de proyectos.
 
 De las discusiones
 
@@ -960,9 +972,11 @@ Puntos Constitucionales,
 
 Relaciones Exteriores.
 
+(REFORMADO, D.O.F. 21 DE OCTUBRE DE 1966) (F. DE E., D.O.F. 22 DE OCTUBRE DE 1966)
+
 ###### ARTICULO 176.
 
-Las facultades y atribuciones de la Comisión Permanente son las que le confieren y señalan los artículos 29, 37 en los incisos II, III y IV de su fracción B, 79, 84, 85, 87, 98, 99 y 100; Base 4a. fracción VI del 73; fracción V del 76 y párrafo penúltimo del 97 de la Constitución Federal.
+Las facultades y atribuciones de la Comisión Permanente son las que le confieren y señalan los artículos 29, 37 en los incisos II, III y IV de su fracción B, 79, 84, 85, 87, 88, 98, 99, 100 y 135; base 4a. fracción VI del 73; fracción V del 76 y párrafo penúltimo del 97 de la Constitución Federal.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1935)</small>
 
@@ -974,9 +988,15 @@ Los empleados y obreros que presten sus servicios al Congreso de la Unión, no s
 
 Durante los recesos del Congreso, las Comisiones Administrativas de ambas Cámaras, presentarán a la Comisión Permanente, para su examen y aprobación, los Presupuesto de dietas, sueldos y gastos de las mismas, y de sus Secretarías, y la Comisión Inspectora, los de la Contaduría Mayor de Hacienda.
 
+(REFORMADO, D.O.F. 21 DE OCTUBRE DE 1966) (F. DE E., D.O.F. 22 DE OCTUBRE DE 1966)
+
 ###### ARTICULO 179.
 
-Los asuntos que, sin ser de la competencia de la Comisión Permanente, llegase a su poder, se reservarán para entregarlos en su oportunidad a la Cámara que correspondan.
+Los asuntos cuya resolución corresponda al Congreso o a una de la Cámaras, que durante el receso se presenten a la Comisión Permanente, se turnarán a las Comisiones relativas de la Cámara que corresponda.
+
+> <small>(F. DE E., D.O.F. 22 DE OCTUBRE DE 1966)</small>
+
+Cuando se trate de iniciativas de ley, se imprimirán, se ordenará su inserción en el Diario de los Debates, y se remitirán para su conocimiento a los Diputados o Senadores, según el caso, y se turnarán a las Comisiones de la Cámara a que va dirigida, para que formulen el dictamen y éste se distribuya en los términos y para los efectos del artículo 94.
 
 ###### ARTICULO 180.
 
@@ -1189,3 +1209,13 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 D.O.F. 31 DE DICIEMBRE DE 1963.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 21 DE OCTUBRE DE 1966.
+
+###### ARTICULO 1o.
+
+Publíquense las presentes reformas en el "Diario Oficial" de la Federación.
+
+###### ARTICULO 2o.
+
+Estas reformas entrarán en vigor, en la misma fecha que las correlativas de los artículos 79, 88 y 135 de la Constitución Política de los Estados Unidos Mexicanos.
