@@ -4,7 +4,7 @@ identifier: "RGIC"
 country: "mx"
 rank: "reglamento"
 publication_date: "1934-03-20"
-last_updated: "1957-12-21"
+last_updated: "1963-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=586&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "RGIC"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 1957.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1963.
 
 Reglamento publicado en el Diario Oficial de la Federación el martes 20 de marzo de 1934.
 
@@ -48,21 +48,45 @@ El Congreso tendrá cada año un período de sesiones ordinarias, que comenzará
 
 Cada Cámara, antes de cerrar su último período constitucional de sesiones ordinarias, nombrará de entre sus miembros una Comisión, denominada Instaladora, que estará integrada por cinco representantes que fungirán, el primero como Presidente, el segundo y tercero como Secretarios y los dos últimos, como suplentes primero y segundo, quienes sólo entrarán en funciones en caso de falta absoluta de cualesquiera de los tres propietarios. Las facultades de esta Comisión serán firmar las tarjetas de admisión de los presuntos diputados a las Juntas Preparatorias y sesiones de Colegio Electoral, instalar la Junta Preparatoria o integrar la Mesa Directiva de la Previa, en su caso, sujetándose a los preceptos que establecen las leyes sobre la materia.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1963)</small>
+
 ###### ARTICULO 3º.
 
-En el año de la renovación del Poder Legislativo los diputados y senadores se reunirán sin necesidad de citación alguna en sus respectivas Cámaras, a las 16 horas del 15 de agosto. Si a la reunión no concurrieren los diputados o los senadores respectivamente, en número bastante para formar quórum, se constituirán los presentes en Junta Previa y señalarán día para nueva Junta, excitando a los que no hubieren asistido para que lo hagan; esta citación se publicará en el "Diario Oficial" del Gobierno de los Estados Unidos Mexicanos.
+En el año de la renovación del Poder Legislativo, sin necesidad de citación alguna, los presuntos diputados y senadores se reunirán en sus respectivas Cámaras, a las diez horas del día 15 de agosto. Si no concurrieren en número bastante para integrar el quórum, los presentes se constituirán en Junta Previa y señalarán día y hora para la nueva Junta, convocando a los que no hubieren asistido, para que lo hagan. La citación se publicará en el "Diario Oficial" del Gobierno Federal.
+
+El quórum para las Juntas Preparatorias de la Cámara de Diputados, se formará con más de la mitad de los presuntos diputados de mayoría y, para las del Senado, con las dos terceras partes de los presuntos senadores.
 
 ###### ARTICULO 4º.
 
 Cuando a dicha reunión o a cualquiera otra posterior, concurrieren más de la mitad del número total de los diputados que deben enviar todos los Distritos Electorales y las dos terceras partes del de senadores, se constituirá Junta Preparatoria nombrando entonces una y otra Cámara de entre sus respectivos miembros, en escrutinio secreto y a mayoría de votos, un Presidente, un Vicepresidente y dos Secretarios.
 
-###### ARTICULO 5o.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1963)</small>
 
-En la Primera Junta Preparatoria, los diputados y los senadores presentarán sus credenciales y se nombrarán, a pluralidad absoluta de votos, en la Cámara de Diputados, dos Comisiones Revisoras de Credenciales; una compuesta de quince individuos, dividida en cinco secciones, para que examine la legitimidad del nombramiento de todos los miembros de la Cámara, y otra de tres, para que examine la de estos quince individuos de la Comisión. En el Senado se nombrarán también dos Comisiones: la primera de cinco individuos y la segunda de tres, con iguales funciones, respectivamente. Inmediatamente después de nombradas las Comisiones referidas, uno de los Secretarios dará lectura al inventario de los expedientes electorales que se hayan recibido, los que, acto continuo, pasarán a las mismas Comisiones, haciéndose constar la entrega en el libro de conocimientos, bajo la firma del Presidente de cada Comisión. La distribución de las Credenciales y documentación respectiva se hará entre las diversas secciones de las Comisiones Revisoras de la Cámara, pero en la de Diputados ésta distribución se realizará en el orden en que aquéllas fueren registradas en la Oficialía Mayor de la misma, de tal modo que corresponda tal distribución del uno al cinco a la sección también del uno al cinco, y así sucesivamente hasta turnarlas todas, una por una, a cada sección.
+###### ARTICULO 5º.
+
+En la Primera Junta Preparatoria de la Cámara respectiva los presuntos diputados y senadores presentarán los documentos que los acrediten como tales. Para el estudio y calificación de los expedientes electorales, se procederá en los siguientes términos:
+
+I.- En la Cámara de Diputados se nombrarán por mayoría de votos tres Comisiones Dictaminadoras. La primera estará compuesta por quince miembros divididos en cinco secciones, la que dictaminará sobre la legitimidad de la elección del resto de los miembros de la Cámara electos por mayoría; la segunda, formada por tres miembros, dictaminará sobre la elección de los presuntos diputados de la Primera Comisión; y, la tercera, integrada también por tres miembros, dictaminará sobre la votación total en el país y la elección de los diputados de partido.
+
+II.- En la Cámara de Senadores, también por mayoría absoluta de votos, se nombrarán dos Comisiones Dictaminadoras. La primera se integrará con cinco presuntos senadores y la segunda con tres, que tendrán iguales funciones, respectivamente, que las dos primeras de la Cámara de Diputados.
+
+III.- En ambas Cámaras después de nombradas las Comisiones, uno de los secretarios dará lectura al inventario de los expedientes electorales recibidos, los que de inmediato se entregarán a las Comisiones correspondientes en la siguiente forma:
+
+En la de Diputados, los expedientes electorales se distribuirán entre las diversas secciones de la Primera Comisión, conforme los presuntos hayan entregado sus constancias de mayoría de votos, debidamente requisitada, distribuyéndose de cinco en cinco, por riguroso orden, entre las secciones respectivas. A la segunda le serán entregados los expedientes relativos a los integrantes de la Primera.
+
+La intervención de la Tercera Comisión se iniciará tan pronto como vayan siendo calificados los dictámenes de las dos primeras y, una vez terminados todos los casos y conocido el resultado de la votación total en el país, formulará los dictámenes correspondientes a los diputados de partido.
+
+En la de Senadores, se entregarán a la Primera Comisión los expedientes conforme al orden en que fueron recibidos y a la Segunda le serán entregados los relativos a los integrantes de la Primera.
+
+El Presidente de cada Comisión firmará por su recibo en el libro de control.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 6º.
 
-Tres días después de la primera Junta Preparatoria se celebrará la segunda Junta Preparatoria en la que las Comisiones Revisoras de Credenciales presentarán sus dictámenes, debiendo resolver, de preferencia, aquellos casos que, a su juicio, no ameriten discusión, para presentar después los dictámenes sobre la validez o nulidad del resto de los expedientes que les fueron turnados. Estas juntas serán diarias. Los dictámenes serán unitarios.
+Dentro de los tres días siguientes a la primera Junta Preparatoria se celebrará la segunda, en la que las dos primeras Comisiones Dictaminadoras de la Cámara de Diputados y las del Senado, iniciarán la presentación de sus dictámenes. Darán preferencia a los casos que a su juicio no ameriten discusión. Las juntas subsecuentes serán diarias.
+
+Tratándose de los Diputados de mayoría y de los Senadores los dictámenes serán elaborados unitariamente. En el caso de los Diputados de partido, la Tercera Comisión formulará dictamen por cada Partido Político Nacional que hubiese adquirido el derecho relativo.
 
 ###### ARTICULO 7º.
 
@@ -94,9 +118,13 @@ El día primero de septiembre a las 17 horas, se reunirán las Dos Cámaras en e
 
 En los períodos siguientes al de la instalación del Congreso, la primera Junta se verificará diez días antes de la apertura de las sesiones, y en esta o en aquellas de las Juntas posteriores en que hubiere quórum, se elegirán Presidente y Vicepresidentes para el mes primero del período ordinario, y Secretarios y Prosecretarios para las sesiones de un año, y después de declarar que la Cámara queda legítimamente constituída para funcionar durante el período que corresponda, se nombrarán las Comisiones de que habla el artículo 11.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1963)</small>
+
 ###### ARTICULO 14.
 
-Las Cámaras no pueden abrir sus sesiones ni ejercer su cargo sin la concurrencia, en la de Senadores, de las dos terceras partes, y en la de Diputados, de más de la mitad del número total de representantes enviados por todos los Distritos Electorales.
+La Cámara de Diputados, si aún no han sido resueltos los casos de los Diputados de partido, podrá abrir sus sesiones y desarrollar sus trabajos con asistencia de más de la mitad de los Diputados de mayoría. Clasificados que sean aquéllos, el quórum se formará con la mitad más uno de todos los Diputados en ejercicio.
+
+La Cámara de Senadores no podrá abrir sus sesiones ni ejercer su encargo sin la concurrencia de las dos terceras partes de sus miembros.
 
 De la Presidencia y Vicepresidencia
 
@@ -1155,5 +1183,9 @@ D.O.F. 27 DE ENERO DE 1940.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 D.O.F. 21 DE DICIEMBRE DE 1957.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 31 DE DICIEMBRE DE 1963.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
