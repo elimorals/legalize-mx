@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "1995-12-27"
+last_updated: "1999-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 1999.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -495,65 +495,313 @@ Cuando en esta Ley se tomen como base para el pago de los créditos a cargo de l
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
 
-### CAPITULO SEGUNDO. DE LOS IMPUESTOS A LA EXPLOTACION DE JUEGOS, ESPECTACULOS, DIVERSIONES, LOTERIA Y LA OBTENCION DE PREMIOS EN APUESTAS PERMITIDAS
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+### CAPITULO PRIMERO BIS. DE LOS IMPUESTOS DE LA PROPIEDAD INMOBILIARIA
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+#### SECCION PRIMERA. DEL IMPUESTO PREDIAL
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 93 BIS.- Están obligados al pago del impuesto predial establecido en este capítulo las personas físicas y morales que sean propietarias del suelo y las construcciones adheridas a él, independientemente de los derechos que sobre las construcciones tenga un tercero. Los poseedores también están obligados al pago del Impuesto Predial por los inmuebles que posean, cuando no se conozca al propietario o el derecho de propiedad sea controvertible.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 93 BIS-1.- Los propietarios o poseedores a los que se refiere el artículo precedente, tienen la obligación de registrar y manifestar las modificaciones que sufra el inmueble y las construcciones adheridas al mismo.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 93 BIS-2.- Es objeto del impuesto predial, la propiedad o posesión de predios ubicados dentro del territorio del Municipio, cualquiera que sea su uso o destino.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 93 BIS-3.- Para la aplicación de la tarifa señalada en el artículo 93 Bis-5 de esta Ley se equiparan los predios urbanos y rústicos a que se refiere la Ley de Catastro.
+
+(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999) (F. DE E., P.O. 1 DE DICIEMBRE DE 1999)
+
+ARTICULO 93 BIS-4.- La base del impuesto es el valor catastral de los predios objeto del mismo.
+
+El valor catastral, será determinado por la Dirección General de Catastro del Estado, de conformidad con las disposiciones que establece la Ley de Catastro y su Reglamento.
+
+Cuando el avalúo catastral resulte inferior al avalúo bancario o el precio de enajenación, se considerará como valor catastral el que resulte superior entre éstos tres.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 93 BIS-5.- El impuesto predial se calculará anualmente, aplicando al valor catastral la siguiente:
+
+TARIFA
+
+I.- Predios Urbanos
+
+A).- Hasta 70,000 2/millar
+
+b).- Sobre el excedente
+
+a 70,000 3/millar
+
+II.- Predios Rústicos 2/millar
+
+III.- Cuando se trate de predios ejidales y comunales, se estará a lo dispuesto por los artículos del 106 al 108 inclusive, de la Ley Federal de la reforma (sic) Agraria.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 93 BIS-6.- El impuesto predial se causará bimestralmente y deberá pagarse dentro del primer mes de cada bimestre. Durante los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre.
+
+Cuando se pague el impuesto predial anualmente durante el primer bimestre, los contribuyentes tendrán derecho a una reducción equivalente al porcentaje que anualmente se determine en la Ley de Ingresos del Municipio correspondiente.
+
+No obstante lo dispuesto por el primer párrafo de este artículo la cantidad que resulte de la tarifa que se señala en el inciso A) del artículo 93 Bis-5, se hará en una sola exhibición en el mes de enero de cada año.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 93 BIS-7.- El valor catastral se actualizará cada dos años. Las autoridades fiscales deberán actualizarlo de conformidad con los procedimientos previstos en la Ley de Catastro, o bien por el contribuyente mediante los formatos que autorice la autoridad competente. Si es determinado el valor por el contribuyente, éste valor servirá de base de tributación y estará sujeto a comprobación de la autoridad catastral. Una vez iniciado el procedimiento por la autoridad catastral o por el contribuyente sólo procederá su actualización por el procedimiento optado.
+
+La presentación por el contribuyente de los formatos a que se refiere el párrafo anterior se hará dentro del mes de enero del año inmediato anterior a la entrada en vigor del nuevo valor catastral, su incumplimiento dará lugar a que la autoridad fiscal establezca la sanción pecuniaria de conformidad con lo dispuesto en el título VI capítulo I del Código Fiscal para el Estado de Morelos.
+
+El contribuyente no podrá declarar un valor inferior al catastralmente registrado, salvo los casos previstos en la Ley de Catastro.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 93 BIS-8.- Los recibos de pago que se expidan, tratándose del impuesto predial, sólo tendrán efectos en relación con éste mismo impuesto y por el período que amparan, sin que sean prueba de que se hayan pagado bimestres de los cinco años anteriores.
+
+Los recibos de pago por concepto del impuesto predial, no prejuzgan la propiedad del inmueble o su regularización inmobiliaria.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 93 BIS-9.- Para que la autoridad Hacendaria Municipal pueda expedir certificados de no adeudo del impuesto predial, se requiere:
+
+A) Que el predio esté al corriente en el pago del impuesto.
+
+B) Que el valor catastral no tenga una antigüedad de más de dos años, y
+
+C) Que no exista inconformidad alguna pendiente de resolver en relación con los avalúos y en general, con las bases del impuesto predial.
+
+(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999) (F. DE E., P.O. 1 DE DICIEMBRE DE 1999)
+
+ARTICULO 93 BIS-10.- En los casos de predios no registrados en la Dirección General de Catastro, o de nuevas construcciones permanentes, construcciones y de ampliaciones de construcciones y de ampliaciones de construcciones permanentes ya existentes, que no hayan sido manifestadas oportunamente por el contribuyente conforme a los (sic) dispuesto por la Ley de Catastro, la autoridad Hacendaria Municipal, determinará el crédito fiscal omitido por 5 años atrás a la fecha del conocimiento de tales hechos, salvo que el interesado pruebe que datan de fecha posterior, en cuyo caso la determinación se hará a partir de esa fecha en adelante.
+
+Sin embargo, cuando el particular solicite el empadronamiento y declare el valor del predio o de las construcciones adheridas a él, sin que medie requerimiento de la autoridad fiscal, ésta determinará el crédito fiscal omitido hasta por cinco años anteriores a la fecha de la solicitud sin que causen multas y recargos. El valor declarado en la solicitud por el contribuyente será considerado como base de tributación y estará sujeto a verificación catastral.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 93 BIS-11.- Se prohibe a los notarios y corredores públicos autorizar, en forma definitiva, escrituras en que hagan constar los contratos o resoluciones judiciales o administrativas, cuyo objeto sean predios ubicados en el Municipio, mientras no se les sea exhibido certificado de no adeudo del impuesto predial, así como el recibo oficial del pago del impuesto predial al bimestre en que se efectúa la escritura respecto de dichos predios.
+
+(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999) (F. DE E., P.O. 1 DE DICIEMBRE DE 1999)
+
+ARTICULO 93 BIS-12.- Los jueces, notarios, corredores públicos, las oficinas públicas, las empresas fraccionadoras y los particulares están obligados a proporcionar a la autoridad hacendaria municipal, dentro de un plazo de quince días hábiles, los datos relativos a los cambios que sufra la propiedad o posesión en virtud de los actos o contratos en que hayan intervenido.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+#### SECCION SEGUNDA. DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES
+
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO PRIMERO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO PRIMERO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
 
 ###### ARTICULO 94.
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
 
+(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999) (F. DE E., P.O. 1 DE DICIEMBRE DE 1999)
+
+ARTICULO 94 BIS.- Están obligados al pago del impuesto Sobre Adquisición de Bienes Inmuebles establecido en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en la superficie de terreno y la de construcción, en su caso, ubicados en el Municipio, así como los derechos relacionados con los mismos a que esta Ley se refiere. El impuesto se calculará aplicando al valor del inmueble la tasa del dos por ciento.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 94 BIS-1.- Para los efectos de esta sección, se entiende por adquisición la que se derive de:
+
+I.- Todos los actos por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte, la aportación a toda clase de asociaciones o sociedades, las que realicen al constituir la copropiedad o la sociedad conyugal;
+
+II.- La compraventa en la que el vendedor se reserve la nuda propiedad, aún cuando la trasferencia de ésta opere con posterioridad;
+
+III.- La promesa de adquirir, cuando el futuro comprador entre en posesión de los bienes o el futuro vendedor reciba el precio de la venta o parte de él, antes de que se celebre el contrato prometido o cuando se pacte alguna de estas circunstancias;
+
+IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden, respectivamente;
+
+V.- Fusión de sociedades;
+
+VI.- La dación en pago y la liquidación, reducción de capital, pago en especie, de remates, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles;
+
+VII.- Transmitir la nuda propiedad;
+
+VIII.- La que se derive de toda resolución judicial o administrativa de adjudicación de inmuebles;
+
+IX.- La cesión de derechos del heredero, legatario o copropietario, así como la renuncia de la herencia o legado efectuada después de la declaratoria de herederos o legatarios;
+
+X.- Toda afectación en Fideicomiso;
+
+XI.- Toda adquisición por arrendamiento financiero;
+
+XII.- La división de la copropiedad y la división de la sociedad conyugal por la parte que se adquiere en demasía del por ciento que le correspondía al copropietario o cónyuge; y
+
+XIII.- La celebración del contrato de permuta, en cuyo caso se considerará que se efectúan dos adquisiciones.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 94 BIS-2.- El valor del inmueble que se considerará para los efectos del artículo 94 Bis de esta Ley, será el que resulte más alto de entre el valor de la adquisición, el valor catastral y el valor que resulte del avalúo practicado por persona o institución autorizada.
+
+En la determinación del valor del inmueble, se incluirá el valor de las construcciones que en su caso tenga, independientemente de los derechos que sobre éstas tengan terceras personas.
+
+Cuando no se pacte precio, el impuesto se calculará con base en el avalúo que practique persona autorizada por la Tesorería Municipal de la demarcación correspondiente.
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 1999)</small>
+
+Las Tesorerías Municipales, establecerá (sic) las reglas de carácter general para la práctica de avalúos. Para los efectos de este impuesto, los avalúos que se emitan tendrán vigencia de seis meses, contados a partir de la fecha que se realicen. No producirán efectos fiscales los avalúos que no reúnan los requisitos a que se refiere este artículo.
+
+(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999) (F. DE E., P.O. 1 DE DICIEMBRE DE 1999)
+
+ARTICULO 94 BIS-3.- Los Municipios, por conducto de las autoridades fiscales, se reservan el derecho de revisar los avalúos que se emitan por la celebración de los actos que grava esta Ley. En consecuencia, las autoridades fiscales quedan facultadas para practicar u ordenar se practique avalúo sobre el o los inmuebles materia de los actos debiendo referirlo a la fecha de celebración, este nuevo avalúo deberá ser tomado en cuenta por la autoridad fiscal y prevalecerá sobre los avalúos anteriores y aún sobre el precio pactado en los siguientes casos:
+
+A).- Cuando el valor que resultante de dicho acto de fiscalización exceda en más de un diez por ciento de aquel o aquellos que hayan servido originalmente para determinar la base gravable de este impuesto, la autoridad fiscal con base en el nuevo avalúo procederá a determinar las diferencias del impuesto que resulten.
+
+B).- Cuando por el avalúo practicado, ordenado o tomado en consideración por las autoridades fiscales, resulten diferencias de impuesto, los fedatarios no serán responsables solidarios por las mismas, siempre y cuando el avalúo original no hubiere sido tramitado por dichos fedatarios.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 94 BIS-4.- El pago de este impuesto se deberá hacer mediante declaración, en las formas que para el efecto apruebe la Tesorería Municipal de la demarcación correspondiente, las cuales se presentarán dentro de los quince días hábiles siguientes a aquel en que se realice cualquiera de los supuestos que a continuación se señalan:
+
+I.- Cuando se adquiera la nuda propiedad;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 1999)</small>
+
+II.- A la adjudicación de los bienes de la sucesión o a los tres años de la muerte del autor de la misma, si transcurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como al cederse los derechos hereditarios o el enajenarse bienes de la sucesión. En estos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación, independientemente de que se cause por el cesionario o por el adquiriente;
+
+III.- Cuando se afecten inmuebles en fideicomiso;
+
+IV.- Cuando se elija la opción terminal en el contrato de arrendamiento financiero;
+
+V.- Tratándose de resoluciones judiciales o administrativas de adjudicación de inmuebles, a partir de la orden de inscripción o de la protocolización de la escritura;
+
+VI.- En los contratos de compraventa, a partir de la celebración.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 94 BIS-5.- En las adquisiciones que se hagan constar en escritura pública, los notarios, corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad por cada uno de los actos que consignen, lo que harán constar en la escritura y lo enterarán mediante declaración en la Tesorería Municipal que corresponda a la ubicación del inmueble.
+
+En los demás casos, los contribuyentes pagarán el impuesto mediante declaración ante la Tesorería Municipal que corresponda a la ubicación del inmueble.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 94 BIS-6.- Se presentará declaración por todas las adquisiciones aún cuando no haya impuesto a enterar.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 94 BIS-7.- Las obligaciones a cargo del contribuyente derivadas de este impuesto y sus accesorios, se extinguen en un plazo de cinco años, contados a partir del día siguiente de aquel en el que el Municipio tenga conocimiento por conducto de las autoridades fiscales.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 94 BIS-8.- Son sujetos de este impuesto:
+
+I.- El adquirente de el o los inmuebles a través de cualquiera de las figuras jurídicas señaladas en el artículo 94 Bis-1 de esta Ley.
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 1999)</small>
+
+II.- El enanjenante (sic), cedente, donante promitente vendedor, el aportante del inmueble en su caso, el deudor en caso de daciones en pago, el administrador liquidador o interventor, el usufrutuario (sic), el nudo propietario, las sucesiones por conducto de su albacea, el copropietario y el cónyuge que por virtud de tal constitución, división o disolución de la sociedad conyugal decrezca o extinga sus derechos, los permutantes así como la fiduciaria, en el caso de fideicomiso y el fedatario, este último en el caso de que no entere el impuesto.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 94 BIS-9.- Cuando la adquisición de bienes inmuebles se produzca por resoluciones de autoridades no ubicadas en el Estado de Morelos, el pago del impuesto se hará dentro de los veinte días hábiles siguientes a la fecha en que se haya formalizado la adquisición ante fedatario.
+
+Cuando dicha adquisición opere en virtud de actos y contratos celebrados fuera del territorio de la República Mexicana, o bien a través de resoluciones dictadas por autoridades extranjeras, el impuesto deberá ser cubierto dentro del plazo de noventa días hábiles, contados a partir de la fecha en que surtan sus efectos en la República Mexicana.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 94 BIS-10.- No causarán este impuesto:
+
+I.- Las adquisiciones de inmuebles que haga la Federación, el Distrito Federal, los Estados y los Municipios, para formar parte de los bienes del dominio público;
+
+II.- La adjudicación de bienes por disolución de la sociedad conyugal, siempre que no crezca el por ciento que originalmente les correspondía a los cónyuges y que se acredite que estos bienes fueron adquiridos bajo este régimen;
+
+III.- La disolución o división de la copropiedad, siempre que las partes adjudicadas no excedan de las porciones que proindiviso correspondían a cada uno de los copropietarios;
+
+IV.- Los actos o contratos traslativos de dominio en los que intervenga una institución u organismo creado por el Estado para promover la vivienda como adquirente por lo que a ellas se refiere.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 94 BIS-11.- Los fedatarios no podrán autorizar definitivamente las escrituras en que consten los actos que grava esta Ley, hasta en tanto no les sea devuelta, por la autoridad competente, la declaración en que se manifestó la operación o se realizó el pago del impuesto a que esta sección se refiere, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 94 BIS-12.- El Registro Público de la Propiedad y del Comercio no registrará la operación traslativa de dominio, si no se le exhibe el documento que contenga la declaración de este impuesto, debidamente sellado por la autoridad fiscal respectiva.
+
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO PRIMERO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO PRIMERO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
+
 ###### ARTICULO 95.
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
+
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO PRIMERO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO PRIMERO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
 
 ###### ARTICULO 96.
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
 
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO PRIMERO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO PRIMERO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
+
 ###### ARTICULO 97.
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
+
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO PRIMERO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO PRIMERO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
 
 ###### ARTICULO 98.
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
 
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO PRIMERO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO PRIMERO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
+
 ###### ARTICULO 99.
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
+
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO PRIMERO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO PRIMERO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
 
 ###### ARTICULO 100.
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
 
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO PRIMERO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO PRIMERO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
+
 ###### ARTICULO 101.
 
 El impuesto deberá pagarse en la Tesorería Municipal del lugar de la ubicación de los bienes.
+
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO PRIMERO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO PRIMERO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
 
 ###### ARTICULO 102.
 
 El pago del impuesto se hará dentro de los quince días siguientes a la operación, para los efectos de este artículo se considerará realizada la operación en los casos de informaciones testimoniales de dominio quince días naturales después de ser notificada la resolución correspondiente.
 
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO PRIMERO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO PRIMERO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
+
 ###### ARTICULO 103.
 
 Los Notarios o Jueces que actúen por Receptoría, exigirán la comprobación del pago del impuesto antes de autorizar las escrituras en que conste la operación así como la autoridad que lo expidió.
+
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO PRIMERO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO PRIMERO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
 
 ###### ARTICULO 104.
 
 Cuando el acto, contrato o promesa obre en documento privado al hacerse el pago del impuesto se presentará un tanto el contrato a la Tesorería Municipal.
 
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO PRIMERO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO PRIMERO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
+
 ###### ARTICULO 105.
 
 El encargado del Registro Público de la Propiedad no registrará la operación de traslación de dominio si no se le comprueba el pago del impuesto.
+
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO PRIMERO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO PRIMERO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
 
 ###### ARTICULO 106.
 
 Cuando las operaciones se celebren fuera del Municipio, sobre los bienes situados dentro de sus límites, el impuesto se pagará antes de ratificarse el contrato ante Notario si debe llenarse este requisito o en caso contrario antes de inscribir la escritura o contrato en el Registro Público. Si el contrato o promesa no debe ser registrado, el impuesto se pagará dentro de los treinta días naturales siguientes a la celebración de la operación.
 
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO PRIMERO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO PRIMERO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
+
 ###### ARTICULO 107.
 
 Por la promesa de enajenación de bienes que establecen las Fracciones II y XIII del Artículo 93 de esta Ley, el impuesto se liquidará una sola vez, siempre y cuando la persona del promitente comprador original. Toda cesión de derechos posterior se equipara a una nueva operación de traslación de dominio y causa el impuesto a que este capítulo se refiere.
 
-### CAPITULO TERCERO. DEL IMPUESTO ADICIONAL
+### CAPITULO SEGUNDO. DE LOS IMPUESTOS A LA EXPLOTACION DE JUEGOS, ESPECTACULOS, DIVERSIONES, LOTERIA Y LA OBTENCION DE PREMIOS EN APUESTAS PERMITIDAS
 
 ###### ARTICULO 108.
 
@@ -679,7 +927,7 @@ II.- Los que causen impuestos federales participables.
 
 Sin embargo deberán cumplir con las obligaciones de retención que éste u otros impuestos les impongan.
 
-### CAPITULO UNICO. CONTRIBUCIONES DE COOPERACION PARA OBRAS PUBLICAS
+### CAPITULO TERCERO. DEL IMPUESTO ADICIONAL
 
 ###### ARTICULO 119.
 
@@ -723,7 +971,7 @@ Este impuesto no será objeto de reducción, su aplicación se hará sobre la ba
 
 ## TITULO TERCERO. DE LAS CONTRIBUCIONES ESPECIALES
 
-### CAPITULO PRIMERO. POR PERMISOS PARA EL FUNCIONAMIENTO DE APARATOS FONOELECTROMECANICOS O ELECTRONICOS
+### CAPITULO UNICO. CONTRIBUCIONES DE COOPERACION PARA OBRAS PUBLICAS
 
 ###### ARTICULO 126.
 
@@ -807,7 +1055,7 @@ D.- En los casos de fraccionamientos, condominios, conjuntos habitacionales, div
 
 ## TITULO CUARTO. DERECHOS
 
-### CAPITULO SEGUNDO. POR PERMISOS PARA EL FUNCIONAMIENTO DE JUEGOS
+### CAPITULO PRIMERO. POR PERMISOS PARA EL FUNCIONAMIENTO DE APARATOS FONOELECTROMECANICOS O ELECTRONICOS
 
 ###### ARTICULO 129.
 
@@ -829,7 +1077,7 @@ D.- En los casos de fraccionamientos, condominios, conjuntos habitacionales, div
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
 
-### CAPITULO TERCERO. POR MANTENIMIENTO DE DRENAJE
+### CAPITULO SEGUNDO. POR PERMISOS PARA EL FUNCIONAMIENTO DE JUEGOS
 
 ###### ARTICULO 134.
 
@@ -847,7 +1095,7 @@ D.- En los casos de fraccionamientos, condominios, conjuntos habitacionales, div
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
 
-### CAPITULO CUARTO. POR SERVICIO DE RECOLECCION DE BASURA
+### CAPITULO TERCERO. POR MANTENIMIENTO DE DRENAJE
 
 ###### ARTICULO 138.
 
@@ -867,7 +1115,7 @@ c).- En los casos de condominios verticales, se considerará como frente el tota
 
 Los derechos consignados en este capítulo, serán cubiertos en forma bimestral, dentro de los primeros quince días de cada mes, en los meses de enero, marzo, mayo, julio, septiembre y noviembre.
 
-### CAPITULO QUINTO. POR MANTENIMIENTO DE ALUMBRADO PUBLICO
+### CAPITULO CUARTO. POR SERVICIO DE RECOLECCION DE BASURA
 
 ###### ARTICULO 141.
 
@@ -891,7 +1139,7 @@ e).- Los usuarios que tiren directamente su basura en el relleno sanitario; paga
 
 Serán consideradas como vía pública, las vías de acceso a los predios, los pagos de este derecho se harán conforme a lo dispuesto en el Artículo 140 de esta Ley.
 
-### CAPITULO SEXTO. POR SERVICIO DE PANTEONES
+### CAPITULO QUINTO. POR MANTENIMIENTO DE ALUMBRADO PUBLICO
 
 ###### ARTICULO 144.
 
@@ -921,7 +1169,7 @@ V.- Las Empresas Suministradoras de Energía Eléctrica deberán rendir a la Sec
 
 El pago de derechos establecidos en este capítulo se harán conforme a lo dispuesto en el Artículo 140 de esta Ley.
 
-### CAPITULO SEPTIMO. POR SERVICIOS DEL REGISTRO CIVIL
+### CAPITULO SEXTO. POR SERVICIO DE PANTEONES
 
 ###### ARTICULO 147.
 
@@ -1013,7 +1261,7 @@ e).- Construcción de capillas 10,000.00 a 15,000.00.
 
 3.- Derechos de limpieza y mantenimiento por fosa individual, anualmente $500.00 a $2,000.00.
 
-### CAPITULO OCTAVO. POR MATANZA DE GANADO
+### CAPITULO SEPTIMO. POR SERVICIOS DEL REGISTRO CIVIL
 
 ###### ARTICULO 148.
 
@@ -1067,7 +1315,7 @@ VIII.- Anotaciones marginales a actas del Registro Civil por orden judicial: 1,5
 
 IX.- Expedición de certificados de inexistencia: 1,000.00.
 
-### CAPITULO NOVENO. POR ESTANCIA DE GANADO
+### CAPITULO OCTAVO. POR MATANZA DE GANADO
 
 ###### ARTICULO 149.
 
@@ -1095,7 +1343,7 @@ II.- (DEROGADA, P.O. 25 DE ENERO DE 1989)
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
 
-### CAPITULO DECIMO. POR REGISTRO DE FIERROS
+### CAPITULO NOVENO. POR ESTANCIA DE GANADO
 
 ###### ARTICULO 151.
 
@@ -1133,25 +1381,19 @@ V.- VENTA DE SUB-PRODUCTOS:
 
 3.- No especificados. A criterio de la Autoridad Fiscal Municipal correspondiente.
 
-### CAPITULO DECIMO PRIMERO. POR SELLO DE CARNES
+### CAPITULO DECIMO. POR REGISTRO DE FIERROS
 
 ###### ARTICULO 152.
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
 
-### CAPITULO DECIMO SEGUNDO. POR DERECHOS PARA EL USO DE CORRAL MUNICIPAL
+### CAPITULO DECIMO PRIMERO. POR SELLO DE CARNES
 
 ###### ARTICULO 153.
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
 
-### CAPITULO DECIMO TERCERO
-
-POR LA AUTORIZACION INICIAL A TRAVES DEL REGISTRO, REVALIDACION ANUAL O REPOSICION DE TARJETAS DEL MISMO, A ESTABLECIMIENTOS COMERCIALES, INDUSTRIALES Y DE PRESTACION DE SERVICIOS
-
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 1995, QUEDA SIN EFECTOS EL DECRETO NUMERO 93 PUBLICADO EN EL P.O. DE 25 DE ENERO DE 1989, RESTAURANDOSE EL TEXTO DEL PRESENTE ARTICULO; MODIFICACION QUE ENTRARA EN VIGOR EL 1 DE ENERO DE 1996.</small>
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
+### CAPITULO DECIMO SEGUNDO. POR DERECHOS PARA EL USO DE CORRAL MUNICIPAL
 
 ###### ARTICULO 154.
 
@@ -1171,7 +1413,13 @@ Independientemente de los derechos anteriores, los propietarios o poseedores de 
 
 Si los semovientes u otros bienes no son retirados del corral previo pago de los derechos y gastos, dentro del plazo que rijan las disposiciones reglamentarias, la Tesorería Municipal acordará y ejecutará su venta fuera de remate, con la sola exigencia de un avalúo pericial: del producto de la venta se hará el pago de los derechos, gastos de alimentación, conservación y protección, así mismo como de los gastos del procedimiento de ejecución y pondrá el remanente a disposición de quien compruebe su derecho al mismo o de la autoridad judicial o administrativa que hubiere ordenado su retención.
 
-### CAPITULO DECIMO CUARTO. POR FUNCIONAMIENTO EN HORAS EXTRAS DE ESTABLECIMIENTOS COMERCIALES, APARATOS MECANICOS O ELECTROMECANICOS, SEAN DE MUSICA O NO
+### CAPITULO DECIMO TERCERO
+
+POR LA AUTORIZACION INICIAL A TRAVES DEL REGISTRO, REVALIDACION ANUAL O REPOSICION DE TARJETAS DEL MISMO, A ESTABLECIMIENTOS COMERCIALES, INDUSTRIALES Y DE PRESTACION DE SERVICIOS
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 1995, QUEDA SIN EFECTOS EL DECRETO NUMERO 93 PUBLICADO EN EL P.O. DE 25 DE ENERO DE 1989, RESTAURANDOSE EL TEXTO DEL PRESENTE ARTICULO; MODIFICACION QUE ENTRARA EN VIGOR EL 1 DE ENERO DE 1996.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 155.
 
@@ -2363,7 +2611,7 @@ c).- La reposición del registro, al presentar su solicitud de reposición.
 
 El Presidente municipal, para los efectos de equidad y de justicia contributiva a que se refiere la fracción IV del Artículo 31 de la Constitución Política de los Estados Unidos Mexicanos, concederá de acuerdo a sus facultades y previa inspección, los subsidios a la cuota que establece este capítulo, cuando la situación económica, ubicación, giro o circunstancias similares de los establecimientos así lo ameriten, y podrá conceder que el pago se haga en parcialidades.
 
-### CAPITULO DECIMO QUINTO. POR LEGALIZACION DE FIRMAS, CERTIFICADOS, CERTIFICACIONES Y COPIAS CERTIFICADAS SIMPLES
+### CAPITULO DECIMO CUARTO. POR FUNCIONAMIENTO EN HORAS EXTRAS DE ESTABLECIMIENTOS COMERCIALES, APARATOS MECANICOS O ELECTROMECANICOS, SEAN DE MUSICA O NO
 
 ###### ARTICULO 159.
 
@@ -2381,11 +2629,7 @@ El Presidente municipal, para los efectos de equidad y de justicia contributiva 
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
 
-### CAPITULO DECIMO SEXTO. POR LICENCIAS DIVERSAS
-
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 1995, QUEDA SIN EFECTOS EL DECRETO NUMERO 93 PUBLICADO EN EL P.O. DE 25 DE ENERO DE 1989, RESTAURANDOSE EL TEXTO DEL PRESENTE ARTICULO; MODIFICACION QUE ENTRARA EN VIGOR EL 1 DE ENERO DE 1996.</small>
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
+### CAPITULO DECIMO QUINTO. POR LEGALIZACION DE FIRMAS, CERTIFICADOS, CERTIFICACIONES Y COPIAS CERTIFICADAS SIMPLES
 
 ###### ARTICULO 163.
 
@@ -2453,7 +2697,11 @@ La legalización de firmas, certificados, certificaciones y copias certificadas 
 
 Los certificados, certificaciones y copias certificadas que expidan las dependencias del Gobierno Municipal, deberán formularse en el papel especial autorizado.
 
-### CAPITULO DECIMO SEPTIMO. POR LICENCIAS, INSPECCIONES, REVISIONES Y SUPERVISIONES OTORGADAS Y EJECUTADAS POR EL DEPARTAMENTO DE LICENCIAS DE CONSTRUCCION
+### CAPITULO DECIMO SEXTO. POR LICENCIAS DIVERSAS
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 1995, QUEDA SIN EFECTOS EL DECRETO NUMERO 93 PUBLICADO EN EL P.O. DE 25 DE ENERO DE 1989, RESTAURANDOSE EL TEXTO DEL PRESENTE ARTICULO; MODIFICACION QUE ENTRARA EN VIGOR EL 1 DE ENERO DE 1996.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 166.
 
@@ -2491,17 +2739,77 @@ a).- A los indicados en las fracciones I, IV y V del Artículo anterior al recib
 
 b).- Los indicados en las Fracciones II y III, dentro de los primeros diez días de cada mes, en forma anticipada.
 
-### CAPITULO DECIMO OCTAVO. POR PUBLICIDAD Y ANUNCIOS EN LA VIA PUBLICA
-
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 1995, QUEDA SIN EFECTOS EL DECRETO NUMERO 93 PUBLICADO EN EL P.O. DE 25 DE ENERO DE 1989, RESTAURANDOSE EL TEXTO DEL PRESENTE ARTICULO; MODIFICACION QUE ENTRARA EN VIGOR EL 1 DE ENERO DE 1996.</small>
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
+### CAPITULO DECIMO SEPTIMO. POR LICENCIAS, INSPECCIONES, REVISIONES Y SUPERVISIONES OTORGADAS Y EJECUTADAS POR EL DEPARTAMENTO DE LICENCIAS DE CONSTRUCCION
 
 ###### ARTICULO 169.
 
 Son causantes de este derecho, las personas físicas o morales o unidades económicas que desarrollen por cuenta propia o de terceros, construcciones nuevas, reconstrucciones, ampliaciones o cualquiera obra de interés particular, dentro del área territorial del Municipio.
 
-### CAPITULO DECIMO NOVENO. POR ESTACIONAMIENTO Y APROVECHAMIENTO DE LA VIA PUBLICA
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+### CAPITULO DECIMO SEPTIMO BIS. DE LOS DERECHOS POR APROBACION, AUTORIZACION Y SUPERVISION DE FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS HABITACIONALES
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 169 BIS.- Los derechos por aprobación, autorización y supervisión de fraccionamientos, condominios y conjuntos habitacionales se causarán conforme a la siguiente:
+
+TARIFA
+
+I.- Por la revisión general del proyecto el 1% sobre el presupuesto de las obras de urbanización autorizado por las autoridades de Fraccionamientos, Condominios y Conjuntos Habitacionales.
+
+II.- Por tramitación, análisis, estudios y aprobación de proyectos:
+
+A).- De planos de condominios por cada unidad o terreno: 10 días de Salario Mínimo General Vigente,
+
+B).- DE (sic) planos de fraccionamientos de terreno con calle, sobre el importe del presupuesto de obras a ejecutar que aprueben las autoridades de Fraccionamientos, Condominios y Conjuntos Habitacionales 3%,
+
+C).- De planos de conjuntos habitaciones (sic) por cada unidad: 2 días de Salario Mínimo General Vigente.
+
+3 lotes 10 días de Salario Mínimo General Vigente
+
+4 lotes 15 días de Salario Mínimo General Vigente
+
+5 lotes o más 30 días de Salario Mínimo General Vigente
+
+D).- De condominios sobre el importe del presupuesto de las obras a realizar que aprueben las Autoridades de Fraccionamientos, Condominios y Conjuntos Habitacionales 3%,
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 1999)</small>
+
+E).- Por apertura de calles, de manzanas de la zona urbana de las poblaciones o en fraccionamientos, sobre el importe de la obra de urbanización 5%,
+
+F).- Por la ampliación del plazo para la terminación de obras de urbanización y construcciones:
+
+Hasta 6 meses 10%
+
+De más de 6 meses hasta 1 año 20%
+
+De más de 1 año hasta 2 años 40%
+
+III.- Por licencias:
+
+A).- De división de predio por cada fracción, en zona urbana 5 días de Salario Mínimo General Vigente, en zona rural 50% de la cuota anterior,
+
+B).- De la relotificación de fraccionamientos 3% sobre el importe de las obras de urbanización que al efecto determinen las Autoridades de Fraccionamientos, Condominios y Conjuntos Habitacionales,
+
+C).- De fusión de lotes, por cada predio: 5 días de Salario Mínimo General Vigente.
+
+IV.- Por regularización se cobrará de acuerdo con las tarifas establecidas por cada concepto incrementándose en un 50% la cuota correspondiente.
+
+V.- Construcción de casas en serie dentro de fraccionamientos sobre el importe del presupuesto de obras por ejecutar 2%.
+
+VI.- Por supervisión sobre el importe del presupuesto de obras por ejecutar 1%.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 169 BIS-1.- Son contribuyentes de los derechos establecidos en el artículo anterior las personas físicas o morales que soliciten y en su caso obtengan las aprobaciones y licencias de los proyectos de obras solicitadas conforme a las leyes respectivas.
+
+Los derechos se pagarán dentro de los diez días hábiles siguientes a la notificación de la liquidación que formulen las Tesorerías Municipales.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 169 BIS-2.- Cuando la resolución sea en sentido negativo, respecto de la aprobación de anteproyectos y proyectos de obras que prevé la Ley correspondiente, se cobrará el importe a 10 días de Salario Mínimo General Vigente por concepto de revisión de solicitud.
+
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO DECIMO SEPTIMO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO DECIMO SEPTIMO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
 
 ###### ARTICULO 170.
 
@@ -2669,6 +2977,8 @@ XXVIII.- Otras actividades de la construcción no especificadas:
 
 Tarifa convencional que fije la autoridad fiscal municipal correspondiente.
 
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO DECIMO SEPTIMO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO DECIMO SEPTIMO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
+
 ###### ARTICULO 171.
 
 Por el acotamiento de predios ubicados en el área territorial del Municipio, se causarán derechos de acuerdo con la siguiente tarifa:
@@ -2681,17 +2991,25 @@ III.- De 0 a 10,000M2. por M2. 2.00
 
 IV.- De 0 a más de 10,000M2. por M2. 1.00
 
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO DECIMO SEPTIMO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO DECIMO SEPTIMO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
+
 ###### ARTICULO 172.
 
 Por la regularización de construcciones, a través de la autorización de planos o la emisión de licencias de construcción para obras en proceso cuando se trate de vivienda popular o de interés social, se pagará el 50% de las tarifas aplicables. Cuando se reúnen estos requisitos, el contribuyente pagará el total de las tarifas más las sanciones que procedan.
+
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO DECIMO SEPTIMO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO DECIMO SEPTIMO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
 
 ###### ARTICULO 173.
 
 Los predios urbanos ubicados en el Municipio deberán estar bardeados, por lo que se considera de interés público la construcción de bardas. Esta obligación es a cargo de los propietarios o poseedores de predios no edificados.
 
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO DECIMO SEPTIMO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO DECIMO SEPTIMO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
+
 ###### ARTICULO 174.
 
 Las bardas deben ser construidas con cualquier tipo de material distinto a madera, cartón, alambre de púas y otros similares, con una altura mínima de 2M. con la firmeza necesaria que garantice su estabilidad. Además deberán presentar buen aspecto.
+
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO DECIMO SEPTIMO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO DECIMO SEPTIMO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
 
 ###### ARTICULO 175.
 
@@ -2705,13 +3023,19 @@ c).- Hasta una altura de 5.00M. x Ml. 70.00
 
 d).- Por la demolición de bardas x Ml. 10.00
 
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO DECIMO SEPTIMO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO DECIMO SEPTIMO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
+
 ###### ARTICULO 176.
 
 Las bardas que se construyen, deberán ajustarse al alineamiento señalado para tal efecto por la Dirección de Obras Públicas Municipales ya que en caso de no apegarse a dicho señalamiento, previo requerimiento, el H. Ayuntamiento procederá a su demolición y reconstrucción, lo cual será a cargo del propietario o poseedor.
 
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO DECIMO SEPTIMO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO DECIMO SEPTIMO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
+
 ###### ARTICULO 177.
 
 El H. Ayuntamiento está facultado para construir a costa de los propietarios o poseedores, la barda de los predios baldíos que no cuentan con ella, en un término de 90 días computados a partir de la fecha en que sean requeridos dichos propietarios o poseedores.
+
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO DECIMO SEPTIMO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO DECIMO SEPTIMO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
 
 ###### ARTICULO 178.
 
@@ -2719,11 +3043,17 @@ El adeudo por la construcción de bardas hechas por el H. Ayuntamiento deberá s
 
 Los causantes de este derecho que liquiden el adeudo de contado, tendrán derecho a la aplicación de un 10% de descuento siempre y cuando el pago se efectúe dentro de los 15 días posteriores a la notificación de su adeudo.
 
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO DECIMO SEPTIMO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO DECIMO SEPTIMO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
+
 ###### ARTICULO 179.
 
 La acción del H. Ayuntamiento para el cobro de los derechos de construcción de bardas, y la reconstrucción de las mismas, en su caso, es preferente a cualquier otra y afecta directamente al predio que reciba el servicio y se ejercitará mediante el procedimiento económico coactivo de ejecución establecido en esta Ley.
 
-### CAPITULO VIGESIMO. POR INSPECCION Y VIGILANCIA
+### CAPITULO DECIMO OCTAVO. POR PUBLICIDAD Y ANUNCIOS EN LA VIA PUBLICA
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 1995, QUEDA SIN EFECTOS EL DECRETO NUMERO 93 PUBLICADO EN EL P.O. DE 25 DE ENERO DE 1989, RESTAURANDOSE EL TEXTO DEL PRESENTE ARTICULO; MODIFICACION QUE ENTRARA EN VIGOR EL 1 DE ENERO DE 1996.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 180.
 
@@ -2791,7 +3121,7 @@ ZONA 3 50%
 
 ZONA 4 25%.
 
-### CAPITULO VIGESIMO PRIMERO. POR COMERCIO AMBULANTE O SEMIFIJO
+### CAPITULO DECIMO NOVENO. POR ESTACIONAMIENTO Y APROVECHAMIENTO DE LA VIA PUBLICA
 
 ###### ARTICULO 185.
 
@@ -2811,7 +3141,7 @@ ZONA 3 25.00
 
 ZONA 4 20.00.
 
-### CAPITULO VIGESIMO SEGUNDO. POR AUTORIZACION DE CUOTAS DE ADMISION
+### CAPITULO VIGESIMO. POR INSPECCION Y VIGILANCIA
 
 ###### ARTICULO 187.
 
@@ -2833,7 +3163,7 @@ ZONA 4 20.00.
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
 
-### CAPITULO VIGESIMO TERCERO. POR SERVICIOS DE MERCADOS
+### CAPITULO VIGESIMO PRIMERO. POR COMERCIO AMBULANTE O SEMIFIJO
 
 ###### ARTICULO 192.
 
@@ -2847,19 +3177,19 @@ ZONA 4 20.00.
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
 
-### CAPITULO VIGESIMO CUARTO. POR SERVICIO DE AGUA
+### CAPITULO VIGESIMO SEGUNDO. POR AUTORIZACION DE CUOTAS DE ADMISION
 
 ###### ARTICULO 195.
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
 
-### CAPITULO UNICO
+### CAPITULO VIGESIMO TERCERO. POR SERVICIOS DE MERCADOS
 
 ###### ARTICULO 196.
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
 
-### CAPITULO PRIMERO. REZAGOS
+### CAPITULO VIGESIMO CUARTO. POR SERVICIO DE AGUA
 
 ###### ARTICULO 197.
 
@@ -2903,11 +3233,11 @@ Cuando las obras para el suministro de aguas hayan sido financiadas mediante emp
 
 Con respecto a tarifas aplicables en este capítulo, se estará a las que establezcan las Juntas de Sistema de Agua Potable en cada Municipio, o a las vigentes en 1983 en el Municipio correspondiente, incrementadas en un 35%.
 
-### CAPITULO SEGUNDO. RECARGOS
+### CAPITULO UNICO
 
 ## TITULO QUINTO. PRODUCTOS
 
-### CAPITULO TERCERO. MULTAS
+### CAPITULO PRIMERO. REZAGOS
 
 ###### ARTICULO 205.
 
@@ -2923,13 +3253,13 @@ El arrendamiento, la explotación, el traspaso y la cesión de bienes de propied
 
 Son aprovechamientos, los ingresos municipales ordinarios, no clasificados como impuestos, derechos o productos. Quedan comprendidos como tales los siguientes:
 
-### CAPITULO CUARTO. REINGRESOS
+### CAPITULO SEGUNDO. RECARGOS
 
 ###### ARTICULO 208.
 
 Son los adeudos fiscales municipales que no fueron cubiertos en su oportunidad legal, los que se exigirán conforme a las bases vigentes en la fecha en que se generó la obligación.
 
-### CAPITULO QUINTO. GASTOS DE NOTIFICACION, EJECUCION E INSPECCION FISCAL
+### CAPITULO TERCERO. MULTAS
 
 ###### ARTICULO 209.
 
@@ -2941,7 +3271,7 @@ Si el pago se hace por intervención de la autoridad fiscal, se aplicarán adem�
 
 Los causantes que obtengan plazos para cubrir sus adeudos, además de la suerte principal, pagarán intereses que se computarán anualmente sobre saldos insolutos a la tasa que se determine en la Ley de Ingresos Municipal de cada ejercicio.
 
-### CAPITULO SEXTO. OTROS INGRESOS
+### CAPITULO CUARTO. REINGRESOS
 
 ###### ARTICULO 211.
 
@@ -2957,7 +3287,7 @@ a).- Las infracciones leves se sancionarán de $1,000.00 a $10,000.00, de acuerd
 
 b).- Las infracciones graves se sancionarán de $10,001.00 en adelante de acuerdo a la gravedad de la infracción.
 
-### CAPITULO SEPTIMO. INGRESOS DIVERSOS
+### CAPITULO QUINTO. GASTOS DE NOTIFICACION, EJECUCION E INSPECCION FISCAL
 
 ###### ARTICULO 213.
 
@@ -2969,11 +3299,15 @@ II.- Cuando por improcedencia del pago de cualquier naturaleza deba exigirlo com
 
 III.- Devoluciones por faltantes en el manejo de fondos.
 
+### CAPITULO SEXTO. OTROS INGRESOS
+
 ###### ARTICULO 214.
 
 Los gastos que se originen durante el desarrollo del procedimiento administrativo de recuperación de créditos fiscales no cubiertos, de acuerdo con las facultades económica-coactivas que establece esta Ley, se cobrarán de acuerdo a lo establecido en la Ley de Ingresos Municipal vigente.
 
 La intervención de inspectores, en los casos en que se determinen violaciones a esta Ley u otras Leyes Municipales vigentes, Reglamentos o cualquier Ordenamiento, causará gastos de inspección, los que se calcularán tomando base la calificación de la infracción cometida y aplicando el porcentaje que señale la Ley de Ingresos Municipal de cada ejercicio.
+
+### CAPITULO SEPTIMO. INGRESOS DIVERSOS
 
 ###### ARTICULO 215.
 
@@ -3081,13 +3415,19 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 
 Esta Ley entrará en vigor el día primero de enero de mil novecientos noventa y seis.
 
-...
+.
 
 ###### ARTICULO QUINTO.
 
 Se deja sin efecto el decreto número 93 publicado el día 25 de enero de 1989 en el Periódico Oficial "Tierra y Libertad" en lo referente a los artículos 155 al 158 y 166 al 168 en lo relativo a Licencias, Permisos o Autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general; así como los artículos 180 al 184 en referencia a las Licencias, Permisos o Autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto los que se realicen por medio de televisión, radio, periódicos y revistas; en concordancia a lo dispuesto en el artículo 10-A de la Ley de Coordinación Fiscal cuyas modificaciones al respecto, inician su vigencia el 1º. De Enero de 1996.
 
-...
+P.O. 17 DE NOVIEMBRE DE 1999.
+
+PRIMERO.- Aprobado que sea el Decreto, túrnese al Titular del Poder Ejecutivo del Estado, para los efectos legales correspondientes.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 ###### ARTÍCULO PRIMERO.
 
