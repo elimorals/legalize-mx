@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2003-06-13"
+last_updated: "2003-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,27 +20,89 @@ abbreviation: "LGS"
 ---
 # LEY GENERAL DE SALUD
 
-LEY GENERAL DE SALUD
+LEY DE INGRESOS DEL ESTADO DE OAXACA PARA EL EJERCICIO FISCAL 2016
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
+TEXTO ORIGINAL.
 
-Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 7 de febrero de 1984.
+Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 31 de diciembre de 2015.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+DECRETO No. 1388
 
-MIGUEL DE LA MADRID HURTADO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
+LA SEXAGÉSIMA SEGUNDA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA,
 
-Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
+D E C R E T A :
 
-DECRETO:
-
-"El Congreso de los Estados Unidos Mexicanos, decreta
-
-LEY GENERAL DE SALUD
-
-## TITULO PRIMERO. Disposiciones Generales
+## Título Primero. Disposiciones Generales
 
 ### CAPITULO UNICO
+
+###### Artículo 1.
+
+Para efectos de la presente Ley, se entenderá por:
+
+I. Código: Código Fiscal para el Estado de Oaxaca;
+
+II. Congreso: Congreso del Estado;
+
+III. Dependencias: Secretarías de despacho incluidas en ellas a los órganos administrativos desconcentrados; Consejería Jurídica del Gobierno del Estado; Órganos Auxiliares que dependen directamente del Gobernador del Estado, y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca;
+
+IV. Entes Públicos: A los Poderes Legislativo y Judicial, a los Órganos Autónomos por disposición constitucional y legal, así como a las Dependencias y Entidades de la Administración Pública y demás órganos que determinen las leyes y ejerzan recursos públicos;
+
+V. Entidades: Los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos y Órganos Auxiliares de Colaboración de conformidad con la Ley de Entidades Paraestatales del Estado de Oaxaca;
+
+VI. Ley: Ley de Ingresos del Estado de Oaxaca para el Ejercicio Fiscal 2016;
+
+VII. Ley Estatal: Ley Estatal de Presupuesto y Responsabilidad Hacendaria;
+
+VIII. Ley de Fiscalización: Ley de Fiscalización Superior para el Estado de Oaxaca;
+
+IX. Ley de Responsabilidades: Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
+
+X. Ley General: Ley General de Contabilidad Gubernamental, y
+
+XI. Secretaría: Secretaría de Finanzas del Poder Ejecutivo del Estado.
+
+###### Artículo 2.
+
+Es competencia exclusiva de la Secretaría la recaudación y administración de todos los ingresos establecidos legalmente que perciba el Estado, cualquiera que sea su forma o naturaleza, aun cuando se destinen a un fin específico.
+
+Para tal efecto la Secretaría deberá identificar cada uno de los ingresos en cuentas bancarias productivas específicas, en las cuales se depositarán los recursos estatales y federales transferidos por cualquier concepto, durante el ejercicio fiscal 2016.
+
+###### Artículo 3.
+
+Los ingresos que se recauden por parte de las Dependencias y Entidades, por los diversos conceptos que establece esta Ley deberán transferirse a la Secretaría dentro de los 10 días hábiles siguientes al de su recepción y deberán registrarse, cualquiera que sea su naturaleza, en la contabilidad de la Secretaría, así como reflejarse en los informes a que alude la Ley Estatal y Ley de Fiscalización.
+
+También se concentrarán en la Secretaría, en el plazo señalado en el párrafo anterior, los derechos por el uso, goce o aprovechamiento de bienes de dominio público y los derivados de la prestación de servicios públicos a cargo de los Entes Públicos, así como los ingresos que se obtengan por la suscripción de convenios, subsidios, acuerdos, donativos, reintegros y cualquier otro bien financiero o material que reciban por cualquier otro título no considerado en los anteriores.
+
+Por lo que estarán obligadas a informar a quienes deban efectuar pago, transferencias o ministración por cualquiera de los conceptos previstos en el artículo 7 de la presente Ley, que éste deberá realizarse ante la Secretaría.
+
+El incumplimiento en la entrega o transferencia oportuna a que se refieren los párrafos anteriores, generará para los Servidores Públicos, Titulares, Jefes de la Unidad Administrativa o su equivalente u operativo de las Dependencias y Entidades del Poder Ejecutivo la obligación de pagar cargas financieras por concepto de indemnización a la Hacienda Pública Estatal.
+
+La tasa anual aplicable a dichas cargas financieras será 1.5 veces la que resulte de promediar la Tasa Ponderada de Fondeo Bancario dada a conocer diariamente por el Banco de México en su página de Internet, durante el periodo que dure la falta de concentración. En el caso de que por cualquier motivo se deje de publicar la mencionada tasa, se utilizará la tasa de interés que el Banco de México dé a conocer en sustitución de la misma.
+
+El monto de las cargas financieras se determinará dividiendo la tasa anual a que se refiere el párrafo anterior entre 360 y multiplicando por el número de días transcurridos desde la fecha en que debió realizarse la concentración y hasta el día en que la misma se efectúe. El resultado obtenido se multiplicará por el importe no concentrado oportunamente.
+
+Los Poderes Legislativo y Judicial, los Órganos Autónomos por disposición constitucional, registrarán los ingresos que obtengan por cualquier concepto en el rubro correspondiente de esta Ley, y deberán conservar a disposición de los Órganos Fiscalizadores Estatales o Federales, la documentación comprobatoria de dichos ingresos.
+
+Para los efectos del registro de los ingresos a que se refiere el párrafo anterior, se deberá presentar a la Secretaría los informes avalados por el órgano interno de control o de la comisión respectiva, según sea el caso, especificando los importes del impuesto al valor agregado que hayan trasladado por los actos o las actividades que dieron lugar a la obtención de los ingresos.
+
+Las contribuciones, productos o aprovechamientos a los que las leyes de carácter no fiscal otorguen una naturaleza distinta a la establecida en las leyes fiscales, tendrán la naturaleza establecida en éstas. Se derogan las disposiciones que se opongan a lo previsto en este artículo, en su parte conducente.
+
+Los servidores públicos que incurran en inobservancia a esta disposición, se harán acreedores a las sanciones previstas en la Ley General, Ley Estatal, Ley de Responsabilidades y demás disposiciones aplicables.
+
+###### Artículo 4.
+
+Se derogan las disposiciones legales y administrativas que contengan exenciones totales o parciales o consideren a personas como no sujetos de contribuciones estatales, otorguen tratamientos preferenciales o diferenciales en materia de ingresos y contribuciones estatales, distintas de las establecidas en la presente Ley, Ley Estatal de Hacienda y Ley Estatal de Derechos.
+
+Lo dispuesto en el párrafo anterior también será aplicable cuando las disposiciones legales y administrativas contengan exenciones totales o parciales o consideren a personas como no sujetos de contribuciones estatales, otorguen tratamientos preferenciales o diferenciales en materia de ingresos y contribuciones estatales, se encuentren contenidas en normas jurídicas que tengan por objeto la creación o las bases de organización o funcionamiento de los Entes Públicos, cualquiera que sea su naturaleza.
+
+Se derogan las disposiciones legales y administrativas que establezcan que los ingresos que obtengan las Dependencias y Entidades por concepto de derechos, productos o aprovechamientos, tienen un destino específico distintas de las contenidas en la Constitución del Estado.
+
+Se derogan las disposiciones contenidas en leyes de carácter no fiscal que establezcan que los ingresos que obtengan los Entes Públicos, por concepto de derechos, productos o aprovechamientos, e ingresos de cualquier otra naturaleza, serán considerados como ingresos propios o excedentes en el ejercicio fiscal en que se generen.
+
+###### Artículo 5.
+
+El pago extemporáneo de contribuciones dará lugar al cobro de recargos, a razón de 0.75 por ciento mensual calculados por cada mes o fracción que transcurra y se computarán a partir del día siguiente a la fecha o vencimiento del plazo de pago hasta su total liquidación.
 
 ###### ARTICULO 1o.
 
@@ -148,9 +210,61 @@ III.- La Secretaría de Salud, y
 
 IV.- Los gobiernos de las entidades federativas, incluyendo el del Departamento del Distrito Federal.
 
-## TITULO SEGUNDO. Sistema Nacional de Salud
+## Título Segundo. De los Ingresos, el Endeudamiento Público y Otras Obligaciones de Pago
 
 ### CAPITULO I. Disposiciones Comunes
+
+###### Artículo 6.
+
+En los casos de prórroga para el pago de créditos fiscales se causarán recargos:
+
+I. Al 0.75 por ciento mensual sobre los saldos insolutos.
+
+II. Cuando de conformidad con el Código, se autorice el pago a plazos, se aplicará la tasa de recargos que a continuación se establece, sobre los saldos y durante el periodo de que se trate:
+
+a) Pagos a plazos en parcialidades de hasta 12 meses, la tasa de recargos será del 1 por ciento mensual.
+
+b) Pagos a plazos en parcialidades de más de 12 meses y hasta de 24 meses, la tasa de recargos será de 1.25 por ciento mensual.
+
+c) Pagos a plazos en parcialidades superiores a 24 meses, así como tratándose de pagos a plazo diferido, la tasa de recargos será de 1.5 por ciento mensual.
+
+Las tasas de recargos establecidas en la fracción II de este artículo incluyen la actualización realizada conforme a lo establecido por el Código.
+
+###### Artículo 7.
+
+En el ejercicio fiscal 2016, el Estado percibirá los ingresos provenientes de los conceptos y en las cantidades estimadas que a continuación se enumeran:
+
+> <small>N. DE E. VÉASE TABLA EN EL EXTRA DEL P.O. DE 31 DE DICIEMBRE DE 2015, PÁGINAS DE LA 3 A LA 5.</small>
+
+Cuando en una ley o decreto se establezcan ingresos previstos en este artículo, o determinen otros conceptos de ingresos, estos se considerarán comprendidos en la fracción que corresponda a los ingresos a que se refiere este artículo.
+
+###### Artículo 8.
+
+Se autoriza al Poder Judicial para que ejerza durante el año 2016 y/o en los ejercicios fiscales posteriores, los recursos autorizados en el Artículo 10 de la Ley de Ingresos del Estado de Oaxaca para el Ejercicio Fiscal 2015, destinados a la Implementación del Sistema de Justicia Penal, en la parte en que dicho monto no hubiere sido dispuesto en el ejercicio fiscal de referencia, sujetándose a los términos establecidos en el mismo.
+
+Igualmente se autoriza al Ejecutivo del Estado para que ejerza durante el año 2016 y/o en los ejercicios fiscales posteriores los recursos derivados del Artículo 3 de la Ley de Ingresos del Estado de Oaxaca para el Ejercicio Fiscal 2013 y su reforma, en la parte en que dicho monto no hubiere sido ejercido, sujetándose en todo caso a lo establecido en el artículo de referencia y su reforma, así como lo previsto en el Decreto 1360, su reforma y anexo.
+
+###### Artículo 9.
+
+Se otorgará estímulo fiscal a los propietarios y/o tenedores de vehículos de hasta nueve años modelo anterior, por los cuales deban pagar el Impuesto sobre Tenencia o Uso de Vehículos, considerando el valor total del vehículo con el factor de depreciación que se establece en la Ley Estatal de Hacienda por tipo y servicio del vehículo, de acuerdo a lo siguiente:
+
+Valor total del Vehículo depreciado Monto a pagar
+
+Límite Inferior Límite Superior
+
+(Pesos) (Pesos)
+
+0.01 250,000.00 $1.00
+
+250,000.01 En adelante 50% del monto del
+
+Impuesto determinado
+
+Para acogerse a este beneficio deberán:
+
+I. Estar al corriente en el pago del Impuesto sobre Tenencia o Uso de Vehículos, y
+
+II. Efectuar el pago del Impuesto sobre Tenencia o Uso de Vehículos y derechos de control vehicular y el primer semestre de la verificación de emisiones a la atmosfera que corresponda a más tardar el 31 de marzo del ejercicio fiscal 2016.
 
 ###### ARTICULO 5o.
 
@@ -232,267 +346,209 @@ La Secretaría de Salud auxiliará, cuando lo soliciten los estados, en las acci
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-La Secretaría de Salud promoverá la participación, en el Sistema Nacional de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
+Los propietarios y/o tenedores de vehículos destinados al servicio privado, de diez años modelo anterior, excepto aeronaves y embarcaciones por los cuales se debe pagar el Impuesto sobre Tenencia o Uso de Vehículos, pagarán 1.00 (un peso) en el ejercicio fiscal 2016, para acogerse a este beneficio deberán:
 
-Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
+I. Estar al corriente en el pago del Impuesto sobre Tenencia o Uso de Vehículos, y
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+II. Efectuar el pago del Impuesto sobre Tenencia o Uso de Vehículos y derechos de control vehicular y el primer semestre de la verificación de emisiones a la atmosfera que corresponda a más tardar el 31 de marzo del ejercicio fiscal 2016.
 
-###### ARTICULO 11.
+###### Artículo 11.
 
-La concertación de acciones entre la Secretaría de Salud y los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+A los propietarios y/o tenedores de vehículos de hasta quince pasajeros enajenados por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciales en el ramo de vehículos, por los cuales deban pagar el Impuesto sobre Tenencia o Uso de Vehículos del servicio privado, se les otorgará un estímulo fiscal en el ejercicio fiscal 2016, conforme lo siguiente:
 
-I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado;
+Valor total del Vehículo Monto a pagar
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+Límite Inferior Límite Superior
 
-II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo la Secretaría de Salud;
+(Pesos) (Pesos)
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+0.01 250,000.00 $1.00
 
-III.- Especificación del carácter operativo de la concertación de acciones; con reserva de las funciones de autoridad de la Secretaría de Salud, y
+250,000.01 En adelante 50% del monto del
 
-IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
+Impuesto determinado
 
-###### ARTICULO 12.
+Para ser beneficiario de lo anterior, deberá realizar el registro (alta) dentro de los 15 días hábiles siguientes a la fecha de adquisición y efectuar de manera conjunta el pago del Impuesto sobre Tenencia o Uso de Vehículos y derechos de control vehicular y el primer semestre de la verificación de emisiones a la atmosfera.
 
-La competencia de las autoridades sanitarias en la planeación, regulación, organización y funcionamiento del Sistema Nacional de Salud, se regirá por las disposiciones de esta Ley y demás normas generales aplicables.
+###### Artículo 12.
+
+Los propietarios y/o tenedores de vehículos gozarán de un estímulo del 50 por ciento durante el primer semestre del ejercicio fiscal 2016 en el pago de derechos por los servicios de verificación de emisiones a la atmósfera, para acogerse a este beneficio deberán:
+
+I. Contar con el registro del vehículo en el Registro Estatal de Contribuyentes, y
+
+II. Tener placas, calcomanía y tarjeta de circulación expedido por el Estado de Oaxaca.
 
 ### CAPITULO II. Distribución de Competencias
 
-###### ARTICULO 13.
+###### Artículo 13.
 
-La competencia entre la Federación y las entidades federativas en materia de salubridad general quedará distribuida conforme a lo siguiente:
+Los propietarios y/o tenedores de vehículos tendrán un estímulo fiscal del 100 por ciento sobre las actualizaciones y recargos derivados del Impuesto sobre Tenencia o Uso de Vehículos Federal y Estatal; Impuesto sobre Enajenación de Vehículos Usados, Impuesto sobre Adquisición de Vehículos Usados y derechos vehiculares relacionados de los últimos diez años y del ejercicio actual, para acogerse a este beneficio deberán acudir a la Delegación Fiscal que corresponda, o a través de la página de la Secretaría de Finanzas www.finanzasoaxaca.gob.mx.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+El plazo para acogerse a este beneficio será del 2 de enero al 31 de mayo de 2016.
 
-A. Corresponde al Ejecutivo Federal, por conducto de la Secretaría de Salud:
+###### Artículo 14.
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+Los propietarios y/o tenedores de vehículos que tengan adeudos de Impuesto sobre Tenencia o Uso de Vehículos gozaran de un estímulo fiscal de 50 por ciento en el pago del Impuesto de los últimos 10 ejercicios fiscales, y del ejercicio actual.
 
-I.- Dictar las normas oficiales mexicanas a que quedará sujeta la prestación, en todo el territorio nacional, de servicios de salud en las materias de salubridad general y verificar su cumplimiento;
+Para acogerse a este beneficio, deberán efectuar de manera conjunta el pago del Impuesto sobre Tenencia o Uso de Vehículos y derechos de control vehicular, en el periodo del 2 de enero al 31 de mayo de 2016.
 
-II.- En las materias enumeradas en las fracciones I, III, XXI, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 3o. de esta Ley, organizar y operar los servicios respectivos y vigilar su funcionamiento por sí o en coordinación con dependencias y entidades del sector salud;
+###### Artículo 15.
 
-III.- Organizar y operar los servicios de salud a su cargo y, en todas las materias de salubridad general, desarrollar temporalmente acciones en las entidades federativas; cuando éstas se lo soliciten, de conformidad con los acuerdos de coordinación que se celebren al efecto;
+Se exime del pago del Impuesto Sobre Tenencia o Uso de Vehículos y Derechos Vehiculares relacionados que correspondan, a los propietarios y/o tenedores de vehículos que no hayan realizado el trámite de baja por pérdida total por robo o siniestro en los ejercicios fiscales 2011 al 2016, según corresponda, considerando el ejercicio fiscal inmediato posterior en el que ocurrió lo antes señalado.
 
-IV.- Promover, orientar, fomentar y apoyar las acciones en materia de salubridad general a cargo de los gobiernos de las entidades federativas, con sujeción a las políticas nacionales en la materia;
+Para acogerse a este beneficio, se deberán presentar ante las Delegaciones Fiscales copia certificada de la averiguación previa. Tratándose de pérdida total por siniestro se presentará el dictamen emitido por la Aseguradora o el acta levantada por la autoridad correspondiente que haya tomado parte del siniestro.
 
-V.- Ejercer la acción extraordinaria en materia de salubridad general;
+###### Artículo 16.
 
-VI.- Promover y programar el alcance y las modalidades del Sistema Nacional de Salud y desarrollar las acciones necesarias para su consolidación y funcionamiento;
+A los propietarios y/o tenedores de vehículos, se les otorgará un estímulo fiscal del 80 por ciento sobre el monto a pagar por pensión en encierros oficiales y 100 por ciento del Impuesto para el Desarrollo Social.
 
-VII.- Coordinar el Sistema Nacional de Salud;
+El plazo para acogerse a este estímulo será del 2 de enero al 30 de diciembre de 2016.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+Transcurrido el plazo anterior, la Dirección General de Tránsito, deberá realizar los trámites administrativos necesarios para proceder a la adjudicación a favor del Estado de los vehículos antes citados, procediendo a su destrucción y venta. Los recursos que se obtengan deberán ser destinados a la mejora de los encierros y a la adquisición de bienes a cargo de la Dirección antes citada.
 
-> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2003)</small>
+No procederá la condonación de multas derivadas de infracciones de tránsito.
 
-VII bis.- Regular, desarrollar, coordinar, evaluar y supervisar las acciones de protección social en salud;
+###### Artículo 17.
 
-VIII.- Realizar la evaluación general de la prestación de servicios de salud en materia de salubridad general en todo el territorio nacional;
+Se otorgará estímulo fiscal a los contribuyentes del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal, que se encuentren en los siguientes casos:
 
-IX.- Ejercer la coordinación y la vigilancia general del cumplimiento de las disposiciones de esta Ley y demás normas aplicables en materia de salubridad general, y
+I. Micro empresas, que cuenten con 1 y hasta 10 trabajadores, estímulo fiscal del 50 por ciento del Impuesto.
 
-X.- Las demás que sean necesarias para hacer efectivas las facultades anteriores y las que se establezcan en esta Ley y en otras disposiciones generales aplicables.
+II. Pequeñas empresas, que cuenten con 11 y hasta 30 trabajadores, estímulo fiscal del 37.5 por ciento del Impuesto.
 
-B. Corresponde a los gobiernos de las entidades federativas, en materia de Salubridad General, como autoridades locales y dentro de sus respectivas jurisdicciones territoriales:
+III. Medianas empresas, que cuenten con 31 y hasta 50 trabajadores, estímulo fiscal del 25 por ciento del Impuesto.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+Para ser beneficiario del estímulo deberán cumplir con lo siguiente:
 
-> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2003)</small>
+I. Estar al corriente en el pago del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal en los términos de las disposiciones aplicables al Impuesto de referencia;
 
-I.- Organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general a que se refieren las fracciones II, II bis, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX y XX del artículo 3o. de esta Ley, de conformidad con las disposiciones aplicables;
+II. Que el número de trabajadores del bimestre que se declara no sea inferior al número de trabajadores del bimestre anterior, y
 
-II.- Coadyuvar a la consolidación y funcionamiento del Sistema Nacional de Salud, y planear, organizar y desarrollar sistemas estatales de salud, procurando su participación programática en el primero;
+III. Estar al corriente, en su caso, en el pago de los Impuestos por la Prestación de Servicios de Hospedaje; conforme a la información registrada en el sistema que controla dicha contribución, en los términos de las disposiciones contenidas en las Leyes fiscales correspondientes al Impuesto señalado.
 
-III.- Formular y desarrollar programas locales de salud, en el marco de los sistemas estatales de salud y de acuerdo con los principios y objetivos del Plan Nacional de Desarrollo;
+###### Artículo 18.
 
-IV.- Llevar a cabo los programas y acciones que en materia de salubridad local les competan;
+A las empresas de nueva creación, que inicien operaciones en el Estado de Oaxaca, se les otorgará un estímulo fiscal en el Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal, según se encuentren en los casos siguientes:
 
-V.- Elaborar información estadística local y proporcionarla a las autoridades federales competentes;
+I. Micro empresas, que inicien operaciones con 1 y hasta 10 trabajadores en el bimestre que se declara y por los subsecuentes cinco bimestres, estímulo fiscal del 50 por ciento del Impuesto.
 
-VI.- Vigilar, en la esfera de su competencia, el cumplimiento de esta Ley y demás disposiciones aplicables, y
+II. Pequeñas empresas, que inicien operaciones con 11 y hasta 30 trabajadores en el bimestre que se declara y por los subsecuentes cinco bimestres, estímulo fiscal del 40 por ciento del Impuesto.
 
-VII.- Las demás atribuciones específicas que se establezcan en esta Ley y demás disposiciones generales aplicables.
+III. Medianas empresas, que inicien operaciones con 31 o más trabajadores en el bimestre que se declara y por los subsecuentes cinco bimestres, estímulo fiscal del 30 por ciento del Impuesto.
 
-###### ARTICULO 14.
+Para ser beneficiario del estímulo deberán cumplir con lo siguiente:
 
-(DEROGADO, D.O.F. 7 DE MAYO DE 1997)
+a) Acreditar el inicio de operaciones, y
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+b) Que el número de trabajadores declarados en la inscripción sea igual o mayor en los bimestres subsecuentes.
 
-###### ARTICULO 15.
+###### Artículo 19.
 
-El Consejo de Salubridad General es un órgano que depende directamente del Presidente de la República en los términos del artículo 73, fracción XVI, base 1a. de la Constitución Política de los Estados Unidos Mexicanos. Está integrado por un presidente que será el Secretario de Salud, un secretario y trece vocales titulares, dos de los cuales serán los presidentes de la Academia Nacional de Medicina y de la Academia Mexicana de Cirugía, y los vocales que su propio reglamento determine. Los miembros del Consejo serán designados y removidos por el Presidente de la República, quien deberá nombrar para tales cargos, a profesionales especializados en cualquiera de las ramas sanitarias.
+Las personas físicas, morales o unidades económicas sujetas al pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, tendrán un estímulo fiscal del 100 por ciento respecto de sus actualizaciones y recargos derivados del Impuesto antes señalado.
 
-###### ARTICULO 16.
+Para ser beneficiario del estímulo deberán:
 
-La organización y funcionamiento del Consejo de Salubridad General se regirá por su reglamento interior, que formulará el propio Consejo y someterá a la aprobación del Presidente de la República para su expedición.
+a) Acudir a una Delegación Fiscal o solicitar el estímulo fiscal al correo electrónico estimulo.erogaciones@finanzasoaxaca.gob.mx, y
 
-###### ARTICULO 17.
+b) Realizar el trámite dentro del plazo contado del 2 de enero hasta el 31 de mayo de 2015.
 
-Compete al Consejo de Salubridad General:
+###### Artículo 20.
 
-I.- Dictar medidas contra el alcoholismo, venta y producción de substancias tóxicas, así como las que tengan por objeto prevenir y combatir los efectos nocivos de la contaminación ambiental en la salud, las que serán revisadas después por el Congreso de la Unión, en los casos que le competan;
+A los grupos y artistas independientes oaxaqueños, se les otorgará el 50 por ciento del Impuesto para el Desarrollo Social que resulte de la cuota que se genere por el uso, goce y aprovechamiento de los bienes de dominio público en custodia de la Secretaría de las Culturas y Artes de Oaxaca.
 
-II.- Adicionar las listas de establecimientos destinados al proceso de medicamentos y las de enfermedades transmisibles prioritarias y no transmisibles más frecuentes, así como las de fuentes de radiaciones ionizantes y de naturaleza análoga;
+Las Empresas Culturales Oaxaqueñas, a las que se les otorgue el uso, goce o aprovechamiento de los bienes de dominio público en custodia de la Secretaría de las Culturas y Artes de Oaxaca se les otorgará un estímulo fiscal del 50 por ciento de la cuota que le corresponda pagar como derechos por actividades empresariales, y el 50 por ciento sobre el monto a pagar por el Impuesto para el Desarrollo Social.
 
-III.- Opinar sobre programas y proyectos de investigación científica y de formación de recursos humanos para la salud;
+###### Artículo 21.
 
-IV.- Opinar sobre el establecimiento de nuevos estudios profesionales, técnicos, auxiliares y especialidades que requiera el desarrollo nacional en materia de salud;
+A los usuarios de los servicios de seguridad y vigilancia integral especializada se otorgará un estímulo fiscal del 100 por ciento de los accesorios que se generen en el primer cuatrimestre del año.
 
-V.- Elaborar el Cuadro Básico de Insumos del Sector Salud;
+###### Artículo 22.
 
-VI.- Participar, en el ámbito de su competencia, en la consolidación y funcionamiento del Sistema Nacional de Salud;
+A las personas físicas, morales o unidades económicas se les otorgará un subsidio del 50 por ciento del Impuesto sobre Desarrollo Social que se cause en el pago de los derechos por los servicios de suministro de agua y descargas de aguas residuales a cargo de los Servicios de Agua Potable y Alcantarillado de Oaxaca y de los Organismos Operadores de Agua en la facturación que se realice durante el ejercicio fiscal 2016.
 
-VII.- Rendir opiniones y formular sugerencias al Ejecutivo Federal tendientes al mejoramiento de la eficiencia del Sistema Nacional de Salud y al mejor cumplimiento del programa sectorial de salud;
-
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1997)</small>
-
-VII bis.- Proponer a las autoridades sanitarias el otorgamiento de reconocimientos y estímulos para las instituciones y personas que se distingan por sus méritos a favor de la salud, y (sic)
-
-VIII.- Analizar las disposiciones legales en materia de salud y formular propuestas de reformas o adiciones a las mismas, y
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
-> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2003)</small>
-
-IX.- Las demás que le correspondan conforme a la fracción XVI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y esta Ley.
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-###### ARTICULO 18.
-
-Las bases y modalidades de ejercicio coordinado de las atribuciones de la Federación y de las entidades federativas en la prestación de servicios de salubridad general, se establecerán en los acuerdos de coordinación que suscriba la Secretaría de Salud con los gobiernos de las entidades federativas, en el marco del Convenio Unico de Desarrollo.
-
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
-
-La Secretaría de Salud propondrá la celebración de acuerdos de coordinación con los gobiernos de las entidades federativas para la participación de éstos en la prestación de los servicios a que se refieren las fracciones I, III, XXI, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 3o. de esta Ley.
-
-###### ARTICULO 19.
-
-La Federación y los gobiernos de las entidades federativas, de conformidad con las disposiciones legales aplicables, aportarán los recursos materiales, humanos y financieros que sean necesarios para la operación de los servicios de salubridad general, que queden comprendidos en los acuerdos de coordinación que al efecto se celebren.
-
-Los recursos que aporten las partes quedarán expresamente afectos a los fines del acuerdo respectivo y sujetos al régimen legal que les corresponda. La gestión de los mismos quedará a cargo de la estructura administrativa que establezcan, coordinadamente, la Federación y los gobiernos de las entidades federativas.
-
-###### ARTICULO 20.
-
-Las estructuras administrativas a que se refiere el segundo párrafo del artículo 19 de esta Ley, se ajustarán a las siguientes bases:
-
-I.- Se regirán por las disposiciones de esta Ley y demás normas aplicables, y por las previsiones de los acuerdos de coordinación que se celebren;
-
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
-
-II.- Se establecerán coordinadamente entre la Federación, por conducto de la Secretaría de Salud, y los gobiernos de las entidades federativas;
-
-III.- Podrán tener personalidad jurídica y patrimonio propios y funciones de autoridad, en su caso, de conformidad con los instrumentos legales de creación;
-
-IV.- Contarán con un consejo interno, que será presidido por el titular del ejecutivo local, cuando así se convenga;
-
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
-
-V.- Los titulares de las estructuras administrativas serán designados por el Secretario de Salud, a propuesta de los ejecutivos locales, y deberán tener preferentemente experiencia en salud pública;
-
-VI.- Tendrán a su cargo la administración de los recursos que aporten las partes, con sujeción al régimen legal que les corresponda;
-
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
-
-VII.- Promoverán y vigilarán la aplicación de principios, normas oficiales mexicanas y procedimientos uniformes;
-
-VIII.- Tendrán participación representantes de los usuarios, así como de los trabajadores al servicio de estas estructuras, en los términos de las disposiciones que al efecto se expidan, y
-
-IX.- Las demás que se incluyan en los acuerdos de coordinación que se celebren.
-
-###### ARTICULO 21.
-
-Los acuerdos de coordinación que se celebren se sujetarán a las siguientes bases:
-
-I.- Establecerán el tipo y características operativas de los servicios de salubridad general que constituyan el objeto de la coordinación;
-
-II.- Determinarán las funciones que corresponda desarrollar a las partes, con indicación de las obligaciones que por el acuerdo asuman;
-
-III.- Describirán los bienes y recursos que aporten las partes, con la especificación del régimen a que quedarán sujetos;
-
-IV.- Establecerán las estructuras administrativas a que se refiere el artículo 19, determinando sus modalidades orgánicas y funcionales;
-
-V.- Desarrollarán el procedimiento para la elaboración de los proyectos de programas y presupuestos anuales y determinarán los programas de actividades que vayan a desarrollarse;
-
-VI.- Definirán, en su caso, las directrices de la descentralización de los gobiernos de los estados a los municipios;
-
-VII.- Establecerán que los ingresos que se obtengan por la prestación de servicios, se ajustarán a lo que dispongan la legislación fiscal y los acuerdos que celebren en la materia el Ejecutivo Federal y los gobiernos de las entidades federativas;
-
-VIII.- Indicarán las medidas legales o administrativas que las partes se obliguen a adoptar o promover, para el mejor cumplimiento del acuerdo;
-
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
-
-IX.- Establecerán las normas y procedimientos de control que corresponderán a la Secretaría de Salud;
-
-X.- Establecerán la duración del Acuerdo y las causas de terminación anticipada del mismo;
-
-XI.- Indicarán el procedimiento para la resolución de las controversias que, en su caso, se susciten con relación al cumplimiento y ejecución del acuerdo, con sujeción a las disposiciones legales aplicables, y
-
-XII.- Contendrán las demás estipulaciones que las partes consideren necesarias para la mejor prestación de los servicios.
-
-###### ARTICULO 22.
-
-Los ingresos que se obtengan por los servicios de salubridad general que se presten en los términos de los acuerdos de coordinación a que se refieren los artículos anteriores, se afectarán al mismo concepto, en la forma que establezca la legislación fiscal aplicable.
-
-## TITULO TERCERO. Prestación de los Servicios de Salud
+## Título Tercero. De las Facilidades Administrativas, Estímulos y Subsidios Fiscales
 
 ### CAPITULO I. Disposiciones Comunes
 
-###### ARTICULO 23.
+###### Artículo 23.
 
-Para los efectos de esta Ley, se entiende por servicios de salud todas aquellas acciones realizadas en beneficio del individuo y de la sociedad en general, dirigidas a proteger, promover y restaurar la salud de la persona y de la colectividad.
+Los propietarios o poseedores de bienes inmuebles ubicados en el territorio del municipio que tenga (sic) celebrado convenio con el Estado en materia catastral, se les otorgará un estímulo fiscal del 100 por ciento en el pago de los servicios por concepto de integración al Sistema Integral de Catastro, durante el ejercicio fiscal 2016.
 
-###### ARTICULO 24.
+###### Artículo 24.
 
-Los servicios de salud se clasifican en tres tipos:
+Se otorgará un estímulo fiscal del 75 por ciento a los Municipios que tengan celebrado convenio con el Estado en materia catastral por los servicios prestados por el Instituto Catastral del Estado que estén contenidos en los convenios de referencia, durante el ejercicio fiscal 2016.
 
-I.- De atención médica;
+###### Artículo 25.
 
-II.- De salud pública, y
+Se autoriza al Ejecutivo Estatal por conducto del titular de la Secretaría, para condonar contribuciones cuando se susciten contingencias generadas por fenómenos naturales o a grupos sociales en situación de vulnerabilidad.
 
-III.- De asistencia social.
+###### Artículo 26.
 
-###### ARTICULO 25.
+El Ejecutivo Estatal por conducto de la Secretaría, entregará al Congreso los Informes de Avance de Gestión Financiera sobre los ingresos recaudados incluyendo las contribuciones pagadas en especie o en servicios, asignaciones contempladas en la Ley de Ingresos y Decreto de Presupuesto de Egresos de la Federación del Ejercicio Fiscal 2016, de los créditos u obligaciones de pago, situación económica y de las finanzas públicas en los términos previstos en la Ley General, Ley Estatal y Ley de Fiscalización.
 
-Conforme a las prioridades del Sistema Nacional de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables.
+Así mismo, la información a que se hace referencia en el párrafo anterior, deberá ser difundida en la página de internet respectiva.
 
-###### ARTICULO 26.
+###### Artículo 27.
 
-Para la organización y administración de los servicios de salud, se definirán criterios de distribución de universos de usuarios, de regionalización y de escalonamiento de los servicios, así como de universalización de cobertura.
+Para efectos de revisión sobre la rendición de la cuenta comprobada, los Ayuntamientos que hayan convenido con la Secretaría, la administración de contribuciones estatales, así como las autoridades fiscales, estarán obligadas a mantener bajo resguardo y custodia la documentación justificativa y comprobatoria de los ingresos estatales recaudados, hasta en tanto no se extingan las facultades de comprobación de las autoridades fiscales u órganos de fiscalización correspondientes.
 
-###### ARTICULO 27.
+TRANSITORIO:
 
-Para los efectos del derecho a la protección de la salud, se consideran servicios básicos de salud los referentes a:
+ÚNICO: El presente Decreto entrará en vigor a partir del uno de enero de dos mil dieciséis, previa publicación en el Órgano de difusión oficial del Estado.
 
-I.- La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias del ambiente;
+Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
 
-II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
+DADO EN EL SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- San Raymundo Jalpan, Centro, Oaxaca a 31 de diciembre de 2015.
 
-III.- La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias;
+DIP. ADOLFO TOLEDO INFANZÓN
 
-IV.- La atención materno-infantil;
+PRESIDENTE.
 
-V.- La planificación familiar;
+DIP. ALEJANDRO MARTÍNEZ RAMÍREZ
 
-VI.- La salud mental;
+SECRETARIO.
 
-VII.- La prevención y el control de las enfermedades bucodentales;
+DIP. ROSALIA PALMA LÓPEZ
 
-VIII.- La disponibilidad de medicamentos y otros insumos esenciales para la salud;
+SECRETARIA.
 
-IX.- La promoción del mejoramiento de la nutrición, y
+DIP. VILMA MARTÍNEZ CORTÉS
 
-X.- La asistencia social a los grupos más vulnerables.
+SECRETARIA.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+DIP. CARLOS ALBERTO VERA VIDAL
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
+SECRETARIO.
+
+Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Palacio de Gobierno, Centro, Oax., a 31 de diciembre del 2015.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+
+LIC. GABINO CUE MONTEAGUDO.
+
+SECRETARIO GENERAL DE GOBIERNO.
+
+ING. CARLOS SANTIAGO CARRASCO.
+
+Y lo comunico a usted, para su conocimiento y fines consiguientes.
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN.
+
+“EL RESPETO AL DERECHO AJENO ES LA PAZ”
+
+Tlalixtac de Cabrera, Centro, Oax., 31 de diciembre del 2015.
+
+SECRETARIO GENERAL DE GOBIERNO.
+
+ING. CARLOS SANTIAGO CARRASCO.
+
+Al C. ..
+
+NOTA: Las presentes firmas corresponden al Decreto N°1388.- por el que la Sexagésima Segunda Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, expide la Ley de Ingresos del Estado de Oaxaca, para el Ejercicio Fiscal 2016.
 
 ###### ARTICULO 28.
 
@@ -1014,11 +1070,7 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, REMITASE AL A
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-## TITULO TERCERO BIS. De la Protección Social en Salud
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+## Título Cuarto. De la Información y Transparencia
 
 ### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
 
@@ -5818,74 +5870,8 @@ Unico.- Este decreto entrará en vigor al día siguiente al de su publicación e
 
 D.O.F. 5 DE ENERO DE 2001.
 
-###### ARTICULO UNICO.
+###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+Se expide la Ley de Ingresos del Estado de Oaxaca para el ejercicio fiscal 2016, en los siguientes términos:
 
-D.O.F. 4 DE JUNIO DE 2002.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 15 DE MAYO DE 2003.
-
-PRIMERO. El presente Decreto entrará en vigor el 1o. de enero del año dos mil cuatro.
-
-SEGUNDO. El Ejecutivo Federal deberá emitir el Reglamento de la Ley General de Salud en Materia de Protección Social en Salud, en un plazo que no excederá de noventa días contados a partir de la entrada en vigor del presente Decreto.
-
-TERCERO. En un plazo similar al que se refiere la disposición transitoria anterior, el Consejo de Salubridad General deberá emitir las resoluciones que le correspondan como consecuencia de este Decreto.
-
-CUARTO. Para los efectos del artículo 77 Bis 1, dentro de los servicios de salud se incluirán progresivamente todas las intervenciones de manera integral, con exclusión de las intervenciones cosméticas, experimentales y las que no hayan demostrado su eficacia.
-
-QUINTO. Para los efectos del artículo 77 Bis 9, los estados y el Distrito Federal acreditarán gradualmente la calidad de las unidades médicas de la administración pública, tanto federal como local, que se incorporen al Sistema de Protección Social en Salud.
-
-SEXTO. Para efectos del artículo 77 Bis 7, fracción III, la Cédula del Registro Nacional de Población se exigirá en la medida en que dicho medio de identificación nacional se vaya expidiendo a los usuarios de Protección Social en Salud.
-
-SÉPTIMO. Para los efectos del artículo 77 Bis 12 de la Ley, la fecha de inicio para el cálculo de la actualización conforme al Índice Nacional de Precios al Consumidor será el primero de enero de 2004.
-
-OCTAVO. A partir de la entrada en vigor de este Decreto, cada año y de manera acumulativa, se podrán incorporar al Sistema de Protección Social en Salud hasta el equivalente a 14.3% de las familias susceptibles de nueva incorporación, con el fin de alcanzar el 100% de cobertura en el año 2010.
-
-En el ejercicio fiscal 2004 y subsecuentes, podrán adherirse las familias cuya incorporación pueda ser cubierta con cargo a los recursos del Fondo de Aportaciones para los Servicios de Salud a que se refiere la Ley de Coordinación Fiscal, con cargo a los recursos de los programas del Ramo Administrativo 12 Salud del Presupuesto de Egresos de la Federación y, con cargo a los recursos para la función Salud que el Ejecutivo Federal presente para el Sistema de Protección Social en Salud y que la Cámara de Diputados apruebe.
-
-La cobertura de los servicios de protección social en salud iniciará dando preferencia a la población de los dos primeros deciles de ingreso en las áreas de mayor marginación, zonas rurales e indígenas, de conformidad con los padrones que para el efecto maneje el Gobierno Federal.
-
-NOVENO. La aportación solidaria de los gobiernos de los estados y el Distrito Federal en términos del artículo 77 Bis 13, deberá iniciarse en el ejercicio fiscal de su incorporación al Sistema de Protección Social en Salud.
-
-DÉCIMO. Con el objeto de que los programas en materia de salud se ejecuten de manera más eficiente y eficaz, en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2004 y en los años subsecuentes, los recursos aprobados para la función Salud se identificarán con una estrategia integral que sea congruente con el Sistema de Protección Social en Salud.
-
-DÉCIMO PRIMERO. La Secretaría de Salud deberá constituir la previsión presupuestal a que se refiere el artículo 77 Bis 18 en el ejercicio presupuestal siguiente a aquel en que se apruebe y publique este Decreto.
-
-DÉCIMO SEGUNDO. A partir del ejercicio fiscal en que se celebre el acuerdo de coordinación correspondiente, para la entidad federativa suscriptora, el monto total de recursos aprobados del Fondo de Aportaciones para los Servicios de Salud, establecido en la Ley de Coordinación Fiscal, será utilizado para financiar los recursos que el Gobierno Federal debe destinar al Sistema de Protección Social en Salud en los términos de los artículos 77 Bis 13, fracción II y 77 Bis 20 de esta Ley.
-
-Para los efectos del párrafo anterior, las aportaciones solidarias a que se refiere el artículo 77 Bis 13, fracción II, de la Ley, se realizarán en la medida en que se incorporen las familias al Sistema en los términos del artículo transitorio octavo y de los acuerdos de coordinación correspondientes, sin afectar la continuidad de la atención de las familias no aseguradas.
-
-El Sistema de Protección Social en Salud dejará sin efectos, respecto de la entidad federativa que se incorpore al mismo, la aplicación de las disposiciones relativas al Fondo de Aportaciones para los Servicios de Salud establecidas en los artículos 25, fracción II, 29, 30 y 31 de la Ley de Coordinación Fiscal, a partir de la fecha en que suscriba el acuerdo de coordinación correspondiente. Lo anterior, sin perjuicio de la continuidad de la atención de las familias no aseguradas que deberá establecerse en el respectivo acuerdo de coordinación. Los recursos necesarios para dar continuidad a dicha atención serán calculados, sólo para efectos de referencia, con base en lo dispuesto en el artículo 30 de la Ley de Coordinación Fiscal, una vez descontados los recursos federales que se destinarán para financiar a las familias que se incorporen al Sistema.
-
-DÉCIMO TERCERO. Para los efectos de los artículos 77 Bis 13 y 77 Bis 20 de la Ley, la Secretaría de Salud determinará como punto de partida para el primer cálculo, qué montos del Fondo de Aportaciones para los Servicios de Salud a que se refiere la Ley de Coordinación Fiscal se destinó en el ejercicio fiscal de 2003 para la prestación de servicios de salud a la persona y para la prestación de servicios de salud a la comunidad, respectivamente.
-
-DÉCIMO CUARTO. En un plazo que no excederá de noventa días contados a partir de la entrada en vigor de este Decreto, la Federación deberá emitir las reglas a que se sujetará el Fondo de Protección contra Gastos Catastróficos a que se refiere el artículo 77 Bis 29.
-
-Para los efectos de dicho artículo, el fondo incluirá a la entrada en vigor de este Decreto, las siguientes categorías:
-
-I. El diagnóstico y tratamiento del Cáncer, problemas cardiovasculares, enfermedades cerebro-vasculares, lesiones graves, rehabilitación de largo plazo, VIH/SIDA, y
-
-II. Cuidados intensivos neonatales, trasplantes y diálisis.
-
-El Consejo de Salubridad General actualizará periódicamente estas categorías con base en los criterios establecidos en el artículo 77 Bis 29 de la Ley.
-
-DÉCIMO QUINTO. El Ejecutivo Federal deberá emitir el Reglamento del Consejo Nacional de Protección Social en Salud a que se refiere el artículo 77 Bis 33, en un plazo que no excederá de noventa días contados a partir de la entrada en vigor del presente Decreto.
-
-DÉCIMO SEXTO. El programa IMSS-Oportunidades continuará proporcionando servicios de salud a la población no asegurada, con el mismo modelo de atención con el que opera en la actualidad, para lo cual deberá contar con los recursos presupuestales suficientes, provenientes del Presupuesto de Egresos de la Federación, mismos que se canalizarán directamente a través del Instituto Mexicano del Seguro Social. Las familias actualmente atendidas por el programa IMSS-Oportunidades podrán incorporarse al Sistema de Protección Social en Salud. En este caso deberá cubrirse al Programa, a través del Instituto Mexicano del Seguro Social, por cada familia que decida su incorporación a dicho Sistema, la cuota social y la aportación solidaria a cargo del Gobierno Federal; la aportación solidaria a cargo de los estados y la cuota familiar en los términos de la presente Ley. En cualquier caso, el programa IMSS-Oportunidades seguirá siendo administrado por el Instituto Mexicano del Seguro Social y los bienes muebles e inmuebles con que cuenta, más aquellos que en lo sucesivo adquiera, quedan incorporados al patrimonio del Instituto Mexicano del Seguro Social, conforme a la legislación aplicable.
-
-DÉCIMO SÉPTIMO. Para los efectos de la primera integración del Consejo Nacional de Protección Social en Salud a que se refiere el artículo 77 Bis 33, se invitará a los titulares de los servicios estatales de salud de las cinco primeras entidades federativas en suscribir el acuerdo de coordinación para su integración al Sistema de Protección Social en Salud, a que se refiere el artículo 77 Bis 6 de la Ley.
-
-DÉCIMO OCTAVO. El Ejecutivo Federal deberá emitir el reglamento interno de la Comisión Nacional del Sistema de Protección Social en Salud a que se refiere el artículo 77 Bis 35, en un plazo que no excederá de sesenta días a partir de la entrada en vigor del presente Decreto.
-
-DÉCIMO NOVENO. La Secretaría de Salud dispondrá lo necesario para dar continuidad a las acciones derivadas del Programa de Salud para Todos en los mismos términos en que se ha desarrollado a la fecha, hasta en tanto se encuentre en operación plena la ejecución del presente Decreto de reformas.
-
-VIGÉSIMO. El Congreso de la Unión en uso de sus facultades legales, podrá a través de sus órganos dar seguimiento al cumplimiento de las normas aprobadas en el presente Decreto.
-
-VIGÉSIMO PRIMERO. El Programa de Desarrollo Humano Oportunidades, continuará operando conforme al modelo de atención establecido en sus reglas de operación. La Secretaría de Desarrollo Social administrará el padrón de beneficiarios de este Programa, y para su operación se coordinará con la Secretaría de Salud, a fin de evitar duplicidades administrativas.
-
-D.O.F. 13 DE JUNIO DE 2003.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+LEY DE INGRESOS DEL ESTADO DE OAXACA PARA EL EJERCICIO FISCAL 2016.
