@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "1998-01-17"
+last_updated: "1998-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1998.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -117,11 +117,11 @@ Son elegibles para el cargo de miembros de un Ayuntamiento, de junta municipal y
 
 Las autoridades Municipales actuarán dentro de la esfera de competencia que les concedan los ordenamientos jurídicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 1998)</small>
 
 ###### ARTICULO 11.
 
-El territorio del Estado se divide en los siguientes Municipios:
+El Estado se divide en los siguientes Municipios:
 
 I.- AHUMADA, con cabecera en la ciudad denominada Miguel Ahumada y la sección municipal de Carrizal;
 
@@ -159,7 +159,9 @@ XV.- COYAME, con cabecera en el pueblo denominado Santiago de Coyame y las Secci
 
 XVI.- CUAUHTEMOC, con cabecera en la ciudad del mismo nombre y las Secciones Municipales de Colonia Anahuac, Colonia Obregón y Lázaro Cárdenas;
 
-XVII.- CUSIHUIRIACHI, con cabecera en el pueblo del mismo nombre y las Secciones Municipales de Cerro Prieto, Coyachi y San Juan Bautista;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1998)</small>
+
+XVII.- CUSIHUIRIACHI, con cabecera en el pueblo denominado Cusihuiriachi de Salvador Zubirán, y las Secciones Municipales de Cerro Prieto, Coyachi y San Juan Bautista;
 
 XVIII.- CHIHUAHUA, con cabecera en la capital del Estado y las Secciones Municipales de Ciénega de Ortiz, Colonia Soto, El Charco, Guadalupe y El Sauz;
 
@@ -2770,3 +2772,9 @@ P.O. 17 DE ENERO DE 1998.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 1998.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
