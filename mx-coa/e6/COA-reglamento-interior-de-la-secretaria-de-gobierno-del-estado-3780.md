@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-378
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-01-27"
-last_updated: "1997-01-07"
+last_updated: "2004-07-09"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1997.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO, PUBLICADO EN EL P.O. DE 9 DE JULIO DE 2004, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN EFECTOS.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el viernes 27 de enero de 1995.
 
@@ -1002,3 +1004,29 @@ LIC. CARLOS JUARISTI SEPTIEN
 P.O. 7 DE ENERO DE 1997.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 9 DE JULIO DE 2004.
+
+PRIMERO. El presente reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se deja sin efectos el Reglamento Interior de la Secretaría de Gobierno, sus reformas y adiciones, publicado en el Periódico Oficial del Gobierno del Estado No. del 27 de enero de 1995.
+
+Así mismo, queda abrogado el Acuerdo por el que se crea un organismo interinstitucional denominado Consejo Estatal de Población, publicado en el Periódico Oficial del Gobierno del Estado número 60 del 27 de julio de í 984.
+
+TERCERO. En tanto entran en vigor las iniciativas de ley, reformas y adiciones a ordenamientos aplicables y se aprueban los decretos respectivos los órganos desconcentrados se regirán por el instrumento jurídico de que se trate o por el que los creó.
+
+CUARTO. Para efectos de este Reglamento se entiende con todas sus atribuciones, facultades y responsabilidades por:
+
+l. El Registro Público de la Propiedad = el Registro Público.
+
+QUINTO. El Secretario establecerá las normas, lineamientos y directrices necesarias para coordinar el sector de gobierno, así como establecer las dependencias de la Secretaría que coordinaran el control vigilancia y evaluación de los órganos desconcentrados.
+
+SEXTO. Sin perjuicio de que el Secretario expida el Manual de Organización General y demás normatividad interna la Secretaría a través de la Coordinación Administrativa deberá elaborar y sancionar su organigrama conforme a los lineamientos que se establecen en este Reglamento. La Secretaría de Finanzas deberá realizar los actos administrativos necesarios para actualizar, recategorizar e instrumentar la estructura y plantilla de puestos de la Secretaría de gobierno conforme al presupuesto de egresos correspondiente.
+
+SÉPTIMO. El personal que actualmente labora en la Secretaría deberá adscribirse a las dependencias y entidades de la Secretaría conforme lo disponga el Secretario. No se les afectará en sus derechos laborales
+
+La Coordinación Administrativa se encargará de realizar las gestiones necesarias para la adscripción o readscripción del personal.
+
+OCTAVO. El Instituto Estatal de Documentación seguirá funcionando como órgano desconcentrado de la Secretaría, hasta en tanto no se transfieran sus recursos humanos, materiales y financieros al Instituto Coahuilense de Acceso a la Información Pública conforme a la normatividad aplicable.
+
+NOVENO. Se derogan todas las disposiciones que se opongan al presente Reglamento.
