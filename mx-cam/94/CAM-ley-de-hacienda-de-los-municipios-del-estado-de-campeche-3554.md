@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "2000-01-24"
+last_updated: "2001-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -1415,6 +1415,8 @@ Tendrán el carácter de productos los ingresos que se obtengan por la enajenaci
 
 La enajenación de bienes muebles e inmuebles propiedad del Municipio deberán efectuarse de acuerdo a lo que establece para esos efectos la Ley Orgánica de los Municipios del Estado de Campeche, en vigor.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 118.
 
 Los productos por la enajenación en panteones municipales se causarán y pagarán conforme a la siguiente:
@@ -1425,77 +1427,89 @@ G R U P O 1
 
 I.- En los panteones de:
 
-San Román Sta. Lucía Samulá Lerma
+San Román Sta. Lucía Samulá Lerma Panteón
+
+Municipal
+
+Siglo XXI
 
 A.- Bóveda
 
-N$ 800.00 N$ 600.00 N$ 400.00 N$ 400.00
+$ 800.00 $ 600.00 $ 400.00 $ 400.00 $ 4,000.00
 
 B.- Cripta
 
-N$ 1000.00 N$ 550.00 N$ 500.00 N$ 550.00
+$ 1,000.00 $ 550.00 $ 500.00 $ 450.00 $ 2,500.00
 
 C.- Lote de terreno de 2.35 por 1.10 mts.
 
-N$ 300.00 N$ 300.00 N$ 300.00 N$ 300.00
+$ 300.00 $ 300.00 $ 300.00 $ 200.00 ---
 
 D.- Osario
 
-N$ 350.00 N$ 250.00 N$ 200.00 N$ 300.00
+$ 350.00 $ 250.00 $ 200.00 --- $ 600.00
+
+E.- Cremación
+
+--- --- --- --- $ 3,000.00
+
+F. Salas de velación
+
+--- --- --- --- ---
 
 II.- En los panteones del interior del Municipio:
 
-A.- Bóveda N$ 200.00
+A.- Bóveda $ 200.00
 
-B.- Cripta N$ 200.00
+B.- Cripta $ 200.00
 
-C.- Por metro cuadrado N$ 50.00
+C.- Por metro cuadrado $ 50.00
 
-D.- Osario N$ 100.00
+D.- Osario $ 100.00
 
 G R U P O 2
 
 I.- En los panteones de la cabecera municipal:
 
-A.- Bóveda N$ 1000.00
+A.- Bóveda $ 1000.00
 
-B.- Cripta N$ 1000.00
+B.- Cripta $ 1000.00
 
-C.- Por metro cuadrado N$ 500.00
+C.- Por metro cuadrado $ 500.00
 
-D.- Osario N$ 250.00
+D.- Osario $ 250.00
 
 II.- En los panteones del interior del Municipio
 
-A.- Bóveda N$ 300.00
+A.- Bóveda $ 300.00
 
-B.- Cripta N$ 300.00
+B.- Cripta $ 300.00
 
-C.- Por metro cuadrado N$ 50.00
+C.- Por metro cuadrado $ 50.00
 
-D.- Osario N$ 100.00
+D.- Osario $ 100.00
 
 G R U P O 3
 
 I.- En los panteones de la cabecera municipal:
 
-A.- Bóveda De N$ 120.00 a N$ 500.00
+A.- Bóveda De $ 120.00 a $ 500.00
 
-B.- Cripta De N$ 180.00 a N$ 600.00
+B.- Cripta De $ 180.00 a $ 600.00
 
-C.- Por metro cuadrado N$ 60.00
+C.- Por metro cuadrado $ 60.00
 
-D.- Osario N$ 250.00
+D.- Osario $ 250.00
 
 II.- En los panteones del interior del Municipio:
 
-A.- Bóveda De N$ 60.00 a N$ 120.00
+A.- Bóveda De $ 60.00 a $ 120.00
 
-B.- Cripta De N$ 90.00 a N$ 60.00
+B.- Cripta De $ 90.00 a $ 60.00
 
-C.- Por metro cuadrado N$ 30.00
+C.- Por metro cuadrado $ 30.00
 
-D.- Osario N$ 75.00
+D.- Osario $ 75.00
 
 ###### ARTICULO 119.
 
@@ -1864,3 +1878,9 @@ P.O. 24 DE ENERO DE 2000.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 13 DE DICIEMBRE DE 2001.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
