@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-de-gobierno-del-distrito-federal-2583"
 country: "mx"
 rank: "estatuto"
 publication_date: "1994-07-26"
-last_updated: "1997-12-04"
+last_updated: "1999-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2583&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "1994-07-22"
 
 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE OCTUBRE DE 1999.
 
-(REPUBLICADA EN LA G.O. 12 DE ENERO DE 1998)
+(REPUBLICADA EN LA G.O. 18 DE NOVIEMBRE DE 1999)
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de julio de 1994.
 
@@ -146,7 +146,9 @@ El gobierno del Distrito Federal para su organización política y administrativ
 
 I. Su condición de Distrito Federal, sede de los Poderes de la Unión y capital de los Estados Unidos Mexicanos;
 
-II. La unidad geográfica y estructural de la Ciudad de México y su desarrollo integral en compatibilidad con las características de las delegaciones que se establezcan en su interior para el mejor gobierno y atención de las necesidades públicas; y
+(REFORMADA, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADA, G.O. 18 DE NOVIEMBRE DE 1999)
+
+II. La unidad geográfica y estructural de la Ciudad de México y su desarrollo integral en compatibilidad con las características de las demarcaciones territoriales que se establezcan en su interior para el mejor gobierno y atención de las necesidades públicas; y
 
 (REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
 
@@ -164,9 +166,9 @@ I. La legalidad, honradez, lealtad, imparcialidad, eficiencia y eficacia que deb
 
 II. La existencia, integración, estructura y funcionamiento de órganos, unidades, dependencias centrales y entidades paraestatales, con ámbito de actuación en el conjunto de la Ciudad;
 
-(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
+(REFORMADA, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADA, G.O. 18 DE NOVIEMBRE DE 1999)
 
-III. El establecimiento, por demarcación territorial, de órganos administrativos desconcentrados, con la autonomía funcional en las materias y en los términos dispuestos en este Estatuto y las leyes respectivas;
+III.- El establecimiento en cada demarcación territorial de un órgano político-administrativo, con autonomía funcional para ejercer las competencias que les otorga este Estatuto y las leyes;
 
 (REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
 
@@ -612,7 +614,21 @@ XXV. Comunicarse con los otros órganos locales de gobierno, con la Procuradurí
 
 XXVI. Otorgar reconocimientos a quienes hayan prestado servicios eminentes a la Ciudad, a la Nación o a la Humanidad; y
 
-XXVII. Las demás que le otorgan la Constitución Política de los Estados Unidos Mexicanos y este Estatuto.
+(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADA, G.O. 18 DE NOVIEMBRE DE 1999)
+
+XXVII.- Remover a los Jefes Delegacionales, por las causas graves que establece el presente Estatuto, con el voto de las dos terceras partes de los diputados que integren la Legislatura.
+
+La solicitud de remoción podrá ser presentada por el Jefe de Gobierno o por los diputados de la Asamblea Legislativa, en este caso se requerirá que la solicitud sea presentada, al menos, por un tercio de los integrantes de la legislatura. La solicitud de remoción deberá presentarse ante la Asamblea debidamente motivada y acompañarse de los elementos probatorios que permitan establecer la probable responsabilidad.
+
+(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADA, G.O. 18 DE NOVIEMBRE DE 1999)
+
+XXVIII.- Designar, a propuesta del Jefe de Gobierno, por el voto de la mayoría absoluta de los diputados integrantes de la Legislatura, a los sustitutos que concluyan el periodo del encargo en caso de ausencia definitiva de los Jefes Delegacionales;
+
+(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADA, G.O. 18 DE NOVIEMBRE DE 1999)
+
+XXIX.- Recibir y analizar el informe anual de gestión que le presenten, por conducto del Jefe de Gobierno, los Jefes Delegacionales, los cuales podrán ser citados a comparecer ante comisiones, y
+
+XXX.- Las demás que le otorgan la Constitución y este Estatuto.
 
 (REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
@@ -1024,11 +1040,11 @@ II. Suscribir convenios con la Federación, los Estados y Municipios limítrofes
 
 Los convenios que se celebren en el seno de dichas comisiones serán suscritos por el Jefe de Gobierno del Distrito Federal o por el servidor público que éste designe para tal efecto. Tratándose de materias concurrentes o en el caso de que se comprometan recursos federales asignados o transferidos al Distrito Federal, también deberán suscribirse por un representante de la administración pública federal.
 
-(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+(REFORMADO, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADO, G.O. 18 DE NOVIEMBRE DE 1999)
 
-###### ARTICULO 72.
+###### ARTÍCULO 72.
 
-En la coordinación metropolitana, por el Distrito Federal podrán participar los titulares de las dependencias o entidades paraestatales encargadas de las materias objeto del acuerdo, así como los titulares de las demarcaciones territoriales limítrofes, conforme a las disposiciones que dicte el Jefe de Gobierno.
+En la coordinación metropolitana, por el Distrito Federal participarán los titulares de las dependencias o entidades paraestatales encargadas de las materias objeto del acuerdo, así como los titulares de los órganos político-administrativos de las demarcaciones territoriales limítrofes, conforme a las disposiciones que dicte el Jefe de Gobierno.
 
 ###### ARTICULO 73.
 
@@ -1166,13 +1182,15 @@ El Consejo de la Judicatura del Distrito Federal elaborará el presupuesto del T
 
 La administración pública del Distrito Federal se integrará con base en un servicio público de carrera, el cual se integrará con base en los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia, profesionalización, y eficacia, de conformidad con la ley que al efecto expida la Asamblea Legislativa.
 
-(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+(REFORMADO, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADO, G.O. 18 DE NOVIEMBRE DE 1999)
 
-###### ARTICULO 87.
+###### ARTÍCULO 87.
 
-La administración pública del Distrito Federal será central, desconcentrada y paraestatal, conforme a la Ley Orgánica que expida la Asamblea Legislativa, la cual distribuirá los negocios del orden administrativo del Distrito Federal.
+La Administración Pública del Distrito Federal será centralizada, desconcentrada y paraestatal, de conformidad con lo dispuesto en este Estatuto y la ley orgánica que expida la Asamblea Legislativa, la cual distribuirá los asuntos del orden administrativo del Distrito Federal.
 
-La Jefatura del Gobierno del Distrito Federal, las Secretarías, los órganos político-administrativos de las demarcaciones territoriales así como las demás dependencias que determine la ley, integran la administración pública centralizada.
+La Jefatura de Gobierno del Distrito Federal y las Secretarías, así como las demás dependencias que determine la ley, integran la administración pública centralizada.
+
+Asimismo, la Administración Pública del Distrito Federal contará con órganos político-administrativos en cada una de las demarcaciones territoriales en que se divida el Distrito Federal; dichos órganos tendrán a su cargo las atribuciones señaladas en el presente Estatuto y en las leyes.
 
 (REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
@@ -1190,11 +1208,11 @@ Para ser Secretario se requiere: ser originario o vecino del Distrito Federal co
 
 Los reglamentos, decretos y acuerdos del Jefe de Gobierno del Distrito Federal, deberán estar refrendados por el Secretario que corresponda según la materia de que se trate.
 
-(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+(REFORMADO, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADO, G.O. 18 DE NOVIEMBRE DE 1999)
 
-###### ARTICULO 91.
+###### ARTÍCULO 91.
 
-Para la eficaz atención y eficiente despacho de los asuntos de su competencia, el Jefe de Gobierno podrá constituir órganos administrativos desconcentrados, diferentes de los órganos político-administrativos de las demarcaciones territoriales, que estarán jerárquicamente subordinados al propio Jefe de Gobierno del Distrito Federal, o bien, a la dependencia que éste determine. Los titulares de estos órganos serán nombrados y removidos libremente por el propio Jefe de Gobierno.
+Para la eficaz atención y eficiente despacho de los asuntos de su competencia, el Jefe de Gobierno del Distrito Federal podrá constituir órganos administrativos desconcentrados que estarán jerárquicamente subordinados al propio Jefe de Gobierno, o bien, a la dependencia que éste determine. Los titulares de estos órganos serán nombrados y removidos libremente por el Jefe de Gobierno.
 
 (REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
@@ -1209,6 +1227,10 @@ La administración pública del Distrito Federal tendrá a su cargo, los servici
 (REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 La prestación de servicios públicos podrá concesionarse, en caso de que así lo requiera el interés general y la naturaleza del servicio lo permita, a quienes reúnan los requisitos y en los términos que establezcan las leyes, previa declaratoria que emita el Jefe de Gobierno.
+
+(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADO, G.O. 18 DE NOVIEMBRE DE 1999)
+
+Tomando en cuenta la mayor eficiencia en la prestación de los servicios públicos, el Jefe de Gobierno podrá dictar acuerdos mediante los cuales delegue en los Jefes Delegacionales la facultad de otorgar concesiones de servicios públicos que tengan efecto dentro de la Delegación.
 
 (REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
@@ -1274,37 +1296,97 @@ La ley determinará las relaciones entre el Jefe de Gobierno y las entidades par
 
 Los titulares de las entidades que conforman la administración pública paraestatal, además de cumplir los requisitos establecidos en las leyes, deberán haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en la materia o materias a cargo de la entidad a dirigir, o contar con conocimientos de alto nivel y experiencia en materia administrativa.
 
-### CAPITULO II. DE LAS DELEGACIONES
+(REFORMADA SU DENOMINACION, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADO, G.O. 18 DE NOVIEMBRE DE 1999)
 
-###### ARTICULO 104.
+### CAPITULO II. DE LAS DEMARCACIONES TERRITORIALES Y DE LOS ÓRGANOS POLÍTICO-ADMINISTRATIVOS
 
-Para la expedita y eficiente atención de las necesidades y demandas sociales; una más equitativa y eficaz prestación de los servicios públicos, sustentada en la rápida toma de decisiones; el mejor aprovechamiento de los recursos humanos y materiales; y una adecuada distribución del gasto público, la administración pública del Distrito Federal contará con órganos administrativos desconcentrados en cada demarcación territorial, con autonomía funcional en acciones de gobierno, a los que genéricamente se les denominará Delegación del Distrito Federal.
+(REFORMADO, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADO, G.O. 18 DE NOVIEMBRE DE 1999)
 
-###### ARTICULO 105.
+###### ARTÍCULO 104.
 
-A cargo de cada Delegación habrá un Delegado. Para ser Delegado se requiere:
+La Administración Pública del Distrito Federal contará con un órgano político-administrativo en cada demarcación territorial.
 
-I. Ser ciudadano del Distrito Federal, en pleno goce de sus derechos civiles y políticos;
+Para los efectos de este Estatuto y las leyes, las demarcaciones territoriales y los órganos político-administrativos en cada una de ellas se denominarán genéricamente Delegaciones.
 
-(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
+La Asamblea Legislativa establecerá en la Ley Orgánica de la Administración Pública del Distrito Federal el número de Delegaciones, su ámbito territorial y su identificación nominativa.
 
-II. Tener por lo menos veinticinco años cumplidos al momento de tomar posesión; y
+(REFORMADO, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADO, G.O. 18 DE NOVIEMBRE DE 1999)
 
-III. Ser originario del Distrito Federal, o vecino de él con residencia efectiva no menor de dos años al día del nombramiento; y
+###### ARTÍCULO 105.
 
-IV. No haber sido condenado en sentencia ejecutoriada por delito intencional cualquiera que haya sido la pena.
+Cada Delegación se integrará con un Titular, al que se le denominará genéricamente Jefe Delegacional, electo en forma universal, libre, secreta y directa cada tres años, según lo determine la Ley, así como con los funcionarios y demás servidores públicos que determinen la ley orgánica y el reglamento respectivos.
 
-###### ARTICULO 106.
+Para ser Jefe Delegacional se requiere:
 
-(DEROGADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+I. Ser ciudadano mexicano por nacimiento y no tener otra nacionalidad, en pleno goce de sus derechos;
 
-###### ARTICULO 107.
+II. Tener por lo menos veinticinco años el día de la elección;
 
-(DEROGADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+III. Ser originario del Distrito Federal con dos años de residencia efectiva inmediatamente anteriores al día de la elección, o vecino de él con residencia efectiva no menor de tres años inmediatamente anteriores al día de la elección, y
 
-###### ARTICULO 108.
+IV. Cumplir los requisitos establecidos en las fracciones IV a X del artículo 53 del presente Estatuto.
 
-El número de Delegaciones y sus límites respectivos, se establecerán en la ley orgánica de la administración pública del Distrito Federal.
+Los Jefes Delegacionales electos popularmente no podrán ser reelectos para el periodo inmediato. Las personas que por designación de la Asamblea Legislativa desempeñen ese cargo, no podrán ser electas para el periodo inmediato.
+
+(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADO, G.O. 18 DE NOVIEMBRE DE 1999)
+
+###### ARTÍCULO 106.
+
+La elección de los Jefes Delegacionales se realizará en la misma fecha en que sean electos los Diputados a la Asamblea Legislativa del Distrito Federal.
+
+Sólo los partidos políticos con registro nacional podrán registrar candidatos al cargo de Jefe Delegacional.
+
+El encargo de los Jefes Delegacionales durará tres años, iniciando el primero de octubre del año de la elección.
+
+Los Jefes Delegacionales rendirán protesta ante la Asamblea Legislativa del Distrito Federal.
+
+(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADO, G.O. 18 DE NOVIEMBRE DE 1999)
+
+###### ARTÍCULO 107.
+
+Las ausencias del Jefe Delegacional de más de quince días y hasta por noventa días deberán ser autorizadas por el Jefe de Gobierno y serán cubiertas en términos de la Ley Orgánica respectiva.
+
+En caso de ausencia por un periodo mayor a noventa días, cualquiera que sea la causa, la Asamblea Legislativa del Distrito Federal designará, a propuesta, del Jefe de Gobierno y por mayoría absoluta de los diputados integrantes de la Legislatura, al sustituto.
+
+Si la elección demarcacional fuese declarada nula, en tanto se realiza la elección extraordinaria, la Asamblea procederá a designar al correspondiente Jefe Delegacional, conforme al procedimiento establecido en el párrafo anterior.
+
+Si el Jefe Delegacional electo no se presenta a tomar posesión de su encargo, se procederá en los términos del segundo párrafo de este artículo.
+
+Las personas que sean designadas por la Asamblea en los términos de los tres párrafos anteriores, deberán cumplir los requisitos establecidos en las fracciones I, II y III del artículo 105, y los contenidos en las fracciones V, VI y X del artículo 53, ambos de este Estatuto.
+
+(REFORMADO, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADO, G.O. 18 DE NOVIEMBRE DE 1999)
+
+###### ARTÍCULO 108.
+
+Sin perjuicio de lo dispuesto por la legislación sobre responsabilidades aplicable a los servidores públicos del Distrito Federal, la Asamblea Legislativa del Distrito Federal, a propuesta del Jefe de Gobierno o de los diputados, podrá remover a los Jefes Delegacionales por las causas graves siguientes:
+
+I. Por violaciones sistemáticas a la Constitución, al presente Estatuto o a las leyes federales y del Distrito Federal;
+
+II. Por contravenir de manera grave y sistemática los reglamentos, acuerdos y demás resoluciones del Jefe de Gobierno del Distrito Federal;
+
+III. Por realizar cualquier acto o incurrir en omisiones que afecten gravemente el funcionamiento de la administración pública del Distrito Federal o el orden público en la Entidad;
+
+IV. Por desempeñar cualquier otro empleo, cargo o comisión en la Federación, Estados, Distrito Federal o Municipios, durante el tiempo que dure su encargo, excepto las actividades docentes, académicas y de investigación científica no remuneradas;
+
+V. Por invadir de manera reiterada y sistemática la esfera de competencia de la administración pública central o paraestatal del Distrito Federal;
+
+VI. Por incumplir reiterada y sistemáticamente las resoluciones de los órganos jurisdiccionales Federales o del Distrito Federal;
+
+VII. Por realizar actos que afecten gravemente las relaciones de la Delegación con el Jefe de Gobierno del Distrito Federal, y
+
+VIII. Por realizar actos que afecten de manera grave las relaciones del Jefe de Gobierno con los Poderes de la Unión.
+
+La Asamblea Legislativa calificará la gravedad de la falta y resolverá en definitiva sobre la remoción, por el voto de las dos terceras partes de los miembros integrantes de la Legislatura, siempre y cuando el Jefe Delegacional haya tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan. La resolución de la Asamblea será definitiva e inatacable y surtirá sus efectos de inmediato.
+
+En caso de remoción del Jefe Delegacional, la Asamblea Legislativa del Distrito Federal designará, a propuesta del Jefe de Gobierno, por mayoría absoluta de los integrantes de la Legislatura, al sustituto para que termine el encargo.
+
+En el caso de sentencia ejecutoria condenatoria por delito doloso en contra de un Jefe Delegacional, sin dilación alguna el juez dará cuenta a la Asamblea Legislativa del Distrito Federal para el solo efecto de que declare la destitución del cargo y nombre al sustituto, observando lo dispuesto en el párrafo anterior.
+
+Las sanciones distintas a la remoción serán aplicadas conforme a las disposiciones conducentes de la ley de la materia.
+
+Los Jefes Delegacionales deberán observar y hacer cumplir las resoluciones que emitan el Jefe de Gobierno, la Asamblea Legislativa, el Tribunal Superior de Justicia, y las demás autoridades jurisdiccionales.
+
+Las controversias de carácter competencial administrativo que se presentaren entre las Delegaciones y los demás órganos y dependencias de la Administración Pública del Distrito Federal serán resueltas por el Jefe de Gobierno.
 
 (REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
@@ -1358,23 +1440,27 @@ VI. Otros resultados previsibles en beneficio de la población; y
 
 VII. Contribuir a la estabilidad financiera de la entidad.
 
-(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+(REFORMADO, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADO, G.O. 18 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 112.
 
-Las Delegaciones contarán con asignaciones presupuestales para la realización de sus actividades, las que se determinarán en el Presupuesto de Egresos del Distrito Federal e informarán de su ejercicio al Jefe de Gobierno del Distrito Federal para la rendición de la Cuenta Pública.
+En la iniciativa de Decreto de Presupuesto de Egresos, el Jefe de Gobierno deberá proponer a la Asamblea Legislativa asignaciones presupuestales para que las Delegaciones cumplan con el ejercicio de las actividades a su cargo, considerando criterios de población, marginación, infraestructura y equipamiento urbano. Las Delegaciones informarán al Jefe de Gobierno del ejercicio de sus asignaciones presupuestarias para los efectos de la Cuenta Pública, de conformidad con lo que establece este Estatuto y las leyes aplicables.
+
+Las Delegaciones ejercerán, con autonomía de gestión, sus presupuestos, observando las disposiciones legales y reglamentarias, así como los acuerdos administrativos de carácter general de la Administración Pública Central. Las transferencias presupuestarias que no afecten programas prioritarios, serán decididas por el Jefe Delegacional, informando del ejercicio de esta atribución al Jefe de Gobierno de manera trimestral.
+
+(REFORMADO, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADO, G.O. 18 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 113.
 
-Para el mejor desempeño de sus atribuciones, los Delegados practicarán recorridos periódicos dentro de su jurisdicción, a fin de verificar la forma y las condiciones en que se presten los servicios públicos así como el estado en que se encuentren los sitios, obras e instalaciones en que la comunidad tenga interés.
+Para el mejor desempeño de sus atribuciones, los Jefes Delegacionales realizarán recorridos periódicos dentro de su demarcación, a fin de verificar la forma y las condiciones en que se presten los servicios públicos así como el estado en que se encuentren los sitios, obras e instalaciones en los que la comunidad tenga interés.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+(REFORMADO, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADO, G.O. 18 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 114.
 
-Los Delegados, de conformidad con las normas que al efecto expida el Jefe de Gobierno del Distrito Federal, darán audiencia pública por lo menos dos veces al mes a los habitantes de la Delegación, en la que éstos podrán proponer la adopción de determinados acuerdos, la realización de ciertos actos o recibir información sobre determinadas actuaciones, siempre que sean de la competencia de la administración pública del Distrito Federal.
+Los Jefes Delegacionales, de conformidad con las normas que resulten aplicables darán audiencia pública por lo menos dos veces al mes a los habitantes de la Delegación, en la que éstos podrán proponer la adopción de determinados acuerdos, la realización de ciertos actos o recibir información sobre determinadas actuaciones, siempre que sean de la competencia de la administración pública del Distrito Federal.
 
-La audiencia se realizará preferentemente en el lugar donde residan los habitantes interesados en ella, en forma verbal, en un solo acto y con la asistencia de vecinos de la Delegación y el titular de la Delegación correspondiente; y en su caso, servidores públicos de la administración pública del Distrito Federal vinculados con los asuntos de la audiencia pública.
+La audiencia se realizará preferentemente en el lugar donde residan los habitantes interesados en ella, en forma verbal, en un solo acto y con la asistencia de vecinos de la Demarcación y el Jefe Delegacional y, en su caso, servidores públicos de la administración pública del Distrito Federal vinculados con los asuntos de la audiencia pública.
 
 ### CAPITULO III. DE LAS BASES PARA LA DISTRIBUCION DE ATRIBUCIONES ENTRE ORGANOS CENTRALES Y DESCONCENTRADOS DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
@@ -1386,61 +1472,75 @@ I. La planeación del desarrollo del Distrito Federal, de acuerdo con las preven
 
 II. Formulación y conducción de las políticas generales que de conformidad con la ley se les asignen en sus respectivos ramos de la administración pública;
 
-III. Regulación interna sobre organización, funciones y procedimientos de la administración pública;
+(REFORMADA D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADA, G.O. 18 DE NOVIEMBRE DE 1999)
+
+III. Regulación interna sobre organización, funciones y procedimientos de la Administración Pública y dentro de ésta, la relativa a órganos desconcentrados constituidos por el Jefe de Gobierno;
 
 IV. La administración de la hacienda pública del Distrito Federal, con sujeción a las disposiciones aplicables;
 
-V. Adquisición, administración y enajenación de bienes del patrimonio de la Ciudad y fijación de lineamientos para su adquisición, uso y destino; tratándose del patrimonio inmobiliario, las Delegaciones podrán intervenir en la adquisición y enajenación de aquellos inmuebles que sean destinados para el cumplimiento de sus funciones;
+(REFORMADA, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADA, G.O. 18 DE NOVIEMBRE DE 1999)
+
+V. Adquisición, administración y enajenación de bienes del patrimonio de la Ciudad y fijación de lineamientos para su adquisición, uso y destino. Tratándose del patrimonio inmobiliario destinado a las Delegaciones, los Jefes Delegacionales deberán ser consultados cuando se trate de enajenar o adquirir inmuebles destinados al cumplimiento de sus funciones;
 
 VI. Prestación o concesión de servicios públicos de cobertura general en la Ciudad así como de aquéllos de las características a que se refiere la siguiente fracción;
 
-VII. Prestación de servicios públicos y planeación y ejecución de obras de impacto intradelegacional, de alta especialidad técnica, de acuerdo con las clasificaciones que se hagan en las disposiciones aplicables;
+(REFORMADA, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADA, G.O. 18 DE NOVIEMBRE DE 1999)
+
+VII. Prestación de servicios públicos y planeación y ejecución de obras de impacto en el interior de una Delegación cuando sean de alta especialidad técnica, de acuerdo con las clasificaciones que se hagan en las disposiciones aplicables. El Jefe de Gobierno podrá dictar acuerdos mediante los cuales delegue a los Jefes Delegacionales la realización o contratación de estas obras, dentro de los límites de la respectiva demarcación;
 
 VIII. Imposición de sanciones administrativas por infracciones a las leyes y reglamentos aplicables, en atención a la distribución de competencias establecida por dichos ordenamientos;
 
-IX. Dirección y coordinación de las unidades administrativas que tengan adscritas a sus respectivos ramos, de las entidades paraestatales que les sean sectorizadas, de las Delegaciones y demás órganos desconcentrados, conforme a las disposiciones aplicables;
+(REFORMADA, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADA, G.O. 18 DE NOVIEMBRE DE 1999)
 
-X. Determinación de los sistemas de participación de las Delegaciones, respecto a la prestación de servicios públicos de carácter general, como suministro de agua potable, drenaje, tratamiento de aguas, recolección de desechos en vías primarias, transporte público de pasajeros y seguridad pública;
+IX. Dirección y coordinación de las unidades administrativas que tengan adscritas a sus respectivos ramos, de las entidades paraestatales que les sean sectorizadas y de órganos desconcentrados, conforme a las disposiciones aplicables;
 
-XI. En general, las funciones de administración, planeación y ejecución de obras, prestación de servicios públicos y al público en general, actos de gobierno que incidan, se realicen o se relacionen con el conjunto de la Ciudad o tengan impacto multidelegacional; y
+(REFORMADA. D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADA, G.O. 18 DE NOVIEMBRE DE 1999)
+
+X. Determinación de los sistemas de participación y coordinación de las Delegaciones respecto a la prestación de servicios públicos de carácter general como suministro de agua potable, drenaje, tratamiento de aguas, recolección de desechos en vías primarias, transporte público de pasajeros, protección civil, seguridad pública, educación, salud y abasto;
+
+(REFORMADA, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADA, G.O. 18 DE NOVIEMBRE DE 1999)
+
+XI. En general, las funciones de administración, planeación y ejecución de obras, prestación de servicios públicos, y en general actos de gobierno que incidan, se realicen o se relacionen con el conjunto de la Ciudad o tengan impacto en dos o más Delegaciones, y
 
 XII. Las demás que en razón de jerarquía, magnitud y especialización le sean propias y determine la ley.
 
-###### ARTICULO 116.
+(REFORMADO, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADO, G.O. 18 DE NOVIEMBRE DE 1999)
 
-Las atribuciones a que se refiere el artículo anterior así como aquéllas de carácter técnico operativo podrán encomendarse a órganos desconcentrados distintos de las Delegaciones, a efecto de lograr una administración eficiente, ágil y oportuna, basada en principios de simplificación, transparencia y racionalidad, en los términos del reglamento interior a que se refiere el artículo 88 de este Estatuto.
+###### ARTÍCULO 116.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+Las atribuciones a que se refiere el artículo anterior, así como aquéllas de carácter técnico u operativo, podrán encomendarse a órganos desconcentrados, a efecto de lograr una administración eficiente, ágil y oportuna, basada en principios de simplificación, trasparencia (sic) y racionalidad, en los términos del reglamento interior de la ley respectiva. En este supuesto, las Delegaciones serán invariablemente consideradas para los efectos de la ejecución de las obras, la prestación de los servicios públicos o la realización de los actos de gobierno que tengan impacto en la Delegación respectiva.
 
-###### ARTICULO 117.
+(REFORMADO, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADO, G.O. 18 DE NOVIEMBRE DE 1999)
 
-Las Delegaciones del Distrito Federal tendrán facultades en sus respectivas jurisdicciones, en las materias de: gobierno, administración, asuntos jurídicos, obras, servicios, actividades sociales, económicas, deportivas y demás que señale la Ley Orgánica de la Administración Pública del Distrito Federal así como aquéllas que mediante acuerdo del Jefe de Gobierno se les deleguen, para el cumplimiento de sus funciones. La asignación de atribuciones atenderá a las siguientes bases:
+###### ARTÍCULO 117.
 
-I. Dirección de las actividades de la administración pública en la Delegación;
+Las Delegaciones tendrán competencia, dentro de sus respectivas jurisdicciones, en las materias de: gobierno, administración, asuntos jurídicos, obras, servicios, actividades sociales, protección civil, seguridad pública, promoción económica, cultural y deportiva, y las demás que señalen las leyes.
 
-II. Prestación de servicios públicos y realización de obras, considerando las particularidades de la Delegación y la atención a los lineamientos de integración de la Ciudad;
+El ejercicio de tales atribuciones se realizará siempre de conformidad con las leyes y demás disposiciones normativas aplicables en cada materia y respetando las asignaciones presupuestales.
 
-(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
+Los Jefes Delegacionales tendrán bajo su responsabilidad las siguientes atribuciones:
 
-III. Participación en los sistemas de coordinación de prestación de servicios o realización de obras con otras delegaciones, cuando los mismos rebasen la jurisdicción correspondiente, de acuerdo con las normas dictadas por el Jefe de Gobierno del Distrito Federal para esos efectos;
+I. Dirigir las actividades de la Administración Pública de la Delegación;
 
-IV. Emitir opinión, en los términos que determinen las leyes, en las concesiones de servicios públicos que tengan efectos en la Delegación;
+II. Prestar los servicios públicos y realizar obras, atribuidos por la ley y demás disposiciones aplicables, dentro del marco de las asignaciones presupuestales;
 
-V. Otorgamiento y revocación de licencias, permisos y autorizaciones, de acuerdo con lo establecido en las leyes y reglamentos;
+III. Participar en la prestación de servicios o realización de obras con otras Delegaciones y con el gobierno de la Ciudad conforme las disposiciones presupuestales y de carácter administrativo aplicables;
 
-VI. Imposición de sanciones administrativas por las infracciones a las leyes y reglamentos, de conformidad con la distribución de atribuciones;
+IV. Opinar sobre la concesión de servicios públicos que tengan efectos en la Delegación y sobre los convenios que se suscriban entre el Distrito Federal y la Federación o los estados o municipios limítrofes que afecten directamente a la Delegación;
 
-(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
+V. Otorgar y revocar, en su caso, licencias, permisos, autorizaciones y concesiones, observando las leyes y reglamentos aplicables;
 
-VII. Formulación de los anteproyectos de programas operativos y de presupuesto de la Delegación, sujetándose a estimaciones de ingresos que establezca el Jefe de Gobierno del Distrito Federal;
+VI. Imponer sanciones administrativas por infracciones a las leyes y reglamentos;
 
-(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
+VII. Proponer al Jefe de Gobierno, los proyectos de programas operativos anuales y de presupuesto de la Delegación, sujetándose a las estimaciones de ingresos para el Distrito Federal;
 
-VIII. Las relativas a la protección civil, en los términos de las leyes;
+VIII. Coadyuvar con la dependencia de la administración pública del Distrito Federal que resulte competente, en las tareas de seguridad pública y protección civil en la Delegación;
 
-(ADICIONADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
+IX. Designar a los servidores públicos de la Delegación, sujetándose a las disposiciones del Servicio Civil de Carrera. En todo caso, los funcionarios de confianza, mandos medios y superiores, serán designados y removidos libremente por el Jefe Delegacional;
 
-IX. Realización, en términos generales, de funciones administrativas, prestación de servicios públicos o al público y obras, de ejercicio o incidencia intradelegacional.
+X. Establecer la estructura organizacional de la Delegación conforme a las disposiciones aplicables, y
+
+XI. Las demás que les otorguen este Estatuto, las leyes, los reglamentos y los acuerdos que expida el Jefe de Gobierno.
 
 ###### ARTICULO 118.
 
@@ -1897,3 +1997,15 @@ I. El Jefe de Gobierno enviará, a más tardar el 15 de diciembre de 1997, a la 
 II. Para los efectos de la fracción anterior, el Jefe de Gobierno del Distrito Federal formulará las propuestas individuales para cada cargo. Las propuestas serán aprobadas por las dos terceras partes de los miembros presentes de la Asamblea Legislativa. En caso de que la Asamblea Legislativa no aprobase alguna o algunas de ellas, se enviarán segundas propuestas para los cargos que reste por designar; de no ser aprobadas alguna o algunas de las segundas propuestas, se presentará una tercera propuesta por cada cargo que faltase por designar, y si esta también fuese rechazada, se presentará una terna con nuevos candidatos y si ninguno de ellos obtuviera la mayoría calificada mencionada, quedará designado el que de ésta, haya obtenido el mayor número de votos;
 
 Las vacantes que por cualquier causa se presentaran serán cubiertas conforme al procedimiento anterior.
+
+D.O.F. 14 DE OCTUBRE DE 1999.
+
+REPUBLICADO , G.O. 18 DE NOVIEMBRE DE 1999.
+
+PRIMERO. Este decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación en todo lo referido a la elección directa de los titulares de los órganos político-administrativos de las demarcaciones territoriales. Las disposiciones relativas a la estructura, competencias y funcionamiento de dichos órganos, entrarán en vigor el 1 de octubre del año 2000.
+
+SEGUNDO. La elección indirecta de los titulares de las Delegaciones del Distrito Federal, prevista en el Artículo Décimo Cuarto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Estatuto de Gobierno del Distrito Federal, publicado en el Diario Oficial de la Federación de fecha 4 de Diciembre de 1997, se realizará, a partir de la entrada en vigor del presente Decreto, mediante la aprobación por el voto de la mayoría absoluta de los diputados integrantes de la Asamblea Legislativa del Distrito Federal, aplicándose en lo demás lo dispuesto por dicho Artículo Transitorio.
+
+TERCERO. Todas las menciones, atribuciones y facultades conferidas por el presente Decreto, otras leyes y reglamentos a los Delegados, se entenderán referidas, a partir del 1 de octubre del año 2000, a los Jefes Delegacionales.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
