@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1997-03-20"
+last_updated: "1999-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE FEBRERO DE 1999.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -8324,11 +8324,17 @@ PRIMERO.- El presente Decreto entrará en vigor al año siguiente de su publicac
 
 SEGUNDO.- Quienes hayan perdido su nacionalidad mexicana por nacimiento, por haber adquirido voluntariamente una nacionalidad extranjera y si se encuentran en pleno goce de sus derechos, podrán beneficiarse de lo dispuesto en el artículo 37, apartado A), constitucional, reformado por virtud del presente Decreto, previa solicitud que hagan a la Secretaría de Relaciones Exteriores, dentro de los cinco años siguientes a la citada fecha de entrada en vigor del presente.
 
-TERCERO.- Las disposiciones vigentes con anterioridad a la fecha en que el presente Decreto entre en vigor, seguirán aplicándose, respecto a la nacionalidad mexicana, a los nacidos o concebidos durante su vigencia.
+> <small>(REFORMADO, D.O.F. 26 DE FEBRERO DE 1999)</small>
+
+TERCERO.- Las disposiciones vigentes con anterioridad a la entrada en vigor de este Decreto, seguirán aplicándose a los nacidos o concebidos durante su vigencia, únicamente en todo aquello que les favorezca, sin perjuicio de los beneficios que les otorga la reforma contenida en el presente decreto.
 
 CUARTO.- En tanto el Congreso de la Unión emita las disposiciones correspondientes en materia de nacionalidad, seguirá aplicándose la Ley de Nacionalidad vigente, en lo que no se oponga al presente Decreto.
 
 QUINTO.- El último párrafo del apartado C) del artículo 37, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE FEBRERO DE 1999.
+
+UNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA; VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
