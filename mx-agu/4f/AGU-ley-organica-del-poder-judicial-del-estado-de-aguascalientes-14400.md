@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "1993-08-15"
+last_updated: "1995-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER JUDICIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1995.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -43,9 +43,11 @@ LEY ORGANICA DEL PODER JUDICIAL
 
 ### CAPITULO I. De los Tribunales del Estado
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 1o.
 
-El Poder Judicial del Estado se integra por el Supremo Tribunal de Justicia, Jueces de Primera Instancia y Jueces Menores.
+El Poder Judicial del Estado se integra por el Supremo Tribunal de Justicia, Juzgados de Primera Instancia, Civiles y Penales, Mixtos de Primera Instancia, Familiares y Mixtos Menores, el Consejo de la Judicatura Estatal, el Instituto de Capacitación y la Contraloría Interna.
 
 ###### ARTICULO 2o.
 
@@ -79,25 +81,23 @@ IX.- Los demás que designe la Ley.
 
 El Supremo Tribunal de Justicia se compondrá de siete Magistrados Propietarios como mínimo y siete Supernumerarios y funcionará en Pleno o en Salas Mixtas.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 5o.
 
 Para ser Magistrado se requiere:
 
-I.- Ser mexicano por nacimiento y domiciliado legalmente en el Estado, cuando menos un año antes del día de su designación;
+I.- Ser ciudadano mexicano por nacimiento, originario del Estado o con residencia no menor de tres años inmediatamente anteriores a la fecha de la designación;
 
-II.- Contar con título de Licenciado en Derecho y Cédula Profesional, expedidos por las autoridades correspondientes;
+II.- Poseer título de Licenciado en Derecho con una antigüedad mínima de diez años al día de la designación;
 
 III.- Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 
-IV.- Estar en pleno ejercicio de sus derechos políticos y civiles;
+IV.- No pertenecer al estado eclesiástico ni ser ministro de algún culto;
 
-V.- Tener cuando menos cinco años de práctica forense bien reconocida;
+V.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-VI.- Haber observado buena conducta pública y notoria;
-
-VII.- No haber sido condenado por delito intencional con pena privativa de libertad; y
-
-VIII.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
+VI.- No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Procurador General de Justicia, Diputado Federal o Local o dirigente de un partido político durante el año previo al día de su designación.
 
 ### CAPITULO III. Del Pleno del Tribunal
 
@@ -115,9 +115,11 @@ Las sesiones del Pleno se celebrarán en los días y horas que fije el Reglament
 
 De toda sesión del Tribunal se levantará acta que firmarán los Magistrados y el Secretario de Acuerdos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 9o.
 
-Son atribuciones del Tribunal en Pleno:
+Son atribuciones del Supremo Tribunal de Justicia del Estado en pleno:
 
 I.- Presentar Iniciativas de Ley ante la Legislatura del Estado, en asuntos que tengan por objeto mejorar la impartición de justicia;
 
@@ -131,15 +133,19 @@ V.- Declarar si ha lugar a formación de causa en contra de los Jueces, por deli
 
 VI.- Conocer de los impedimentos, recusaciones y excusas de los Jueces del Estado;
 
-VII.- Nombrar y remover a los servidores públicos del Poder Judicial. Respecto de los Jueces se observarán las prevenciones de los Artículos 55 y 56 de la Constitución Local;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1995)</small>
+
+VII.- Nombrar y remover a los servidores públicos del Supremo Tribunal de Justicia del Estado, con respecto a los Jueces se seguirá lo indicado en el Artículo 55, párrafo primero de la Constitución Política Local y sólo informará de los nombramientos y remociones de funcionarios y servidores públicos que haya hecho el Consejo de la Judicatura Estatal;
 
 VIII.- Determinar las adscripciones de los Magistrados a las Salas;
 
 IX.- Designar a Magistrados de una Sala para que transitoriamente integren otra cuando sea necesario para su funcionamiento; y adscribir los Magistrados supernumerarios a las salas, para que suplan a los propietarios en sus faltas temporales;
 
-X.- Conceder licencia a los Jueces, Secretarios y empleados de las distintas dependencias del Poder Judicial, para que se separen de sus funciones, con o sin goce de sueldo, según las circunstancias que concurran;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1995)</small>
 
-XI.- Conocer de las renuncias de los servidores públicos a que se refiere la fracción que antecede;
+X.- Conocer los informes del Consejo de la Judicatura Estatal por lo que respecta a las licencias otorgadas a los Jueces y emitir opiniones de los mismos;
+
+XI.- (DEROGADA, P.O. 2 DE ABRIL DE 1995)
 
 XII.- Excitar a los Jueces para que administren pronta y cumplida justicia, de oficio o a moción de las partes interesadas;
 
@@ -167,23 +173,31 @@ XXIII.- Ejercitar las demás facultades que le confieren las Leyes; y
 
 XXIV.- Aprobar el presupuesto anual de egresos del Poder Judicial.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 10.
 
-Los Magistrados serán nombrados por el Gobernador del Estado con la aprobación del Congreso o de la Diputación Permanente, teniendo la calidad de Presidente el que sea designado como tal.
+Los Magistrados serán nombrados en la forma que establece el Artículo 54 de la Constitución Política del Estado, tendrá calidad de Presidente el que el Pleno del Supremo Tribunal de Justicia del Estado elija, durará dos años en su encargo y podrá ser designado para un segundo período.
 
 ### CAPITULO IV. De la Presidencia del Supremo Tribunal de Justicia
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 11.
 
-Son atribuciones del Presidente del Supremo Tribunal de Justicia:
+Son atribuciones del Presidente del Supremo Tribunal de Justicia del Estado:
 
 I.- Representar al Supremo Tribunal de Justicia en particular o en general al Poder Judicial del Estado, en los términos que establezcan las Leyes, así como en los actos oficiales que se verifiquen, pudiendo para éstos efectos designar como su representante a uno de los Magistrados;
 
-II.- Tener a su cargo la parte administrativa del Tribunal;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1995)</small>
+
+II.- Tener a su cargo la parte administrativa del Tribunal, que podrá delegarla en el Consejo de la Judicatura Estatal;
 
 III.- Llevar la correspondencia oficial del Tribunal;
 
-IV.- Visitar por sí o mandar visitar de acuerdo con las Leyes relativas, los Juzgados y cárceles de la capital;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1995)</small>
+
+IV.- Visitar por sí o mandar visitar de acuerdo con las leyes relativas, los Juzgados y Centros de Readaptación Social del Estado, facultad que se podrá delegar en Magistrados Visitadores que él designará;
 
 V.- Informar al H. Congreso del Estado anualmente en la fecha que éste lo indique de las actividades realizadas en la administración de Justicia;
 
@@ -191,17 +205,25 @@ VI.- Convocar, presidir y dirigir los debates y conservar el orden de las sesion
 
 VII.- Turnar entre los Magistrados los asuntos de la competencia del Pleno, cuando estime necesario oír su parecer, para acordar algún trámite, o para que formulen el proyecto de resolución que deba ser discutido por el mismo Pleno;
 
-VIII.- Elaborar el anteproyecto de presupuesto anual de egresos del Poder Judicial para someterlo a la aprobación del Pleno;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1995)</small>
+
+VIII.- Elaborar en coadyuvancia con el Consejo de la Judicatura Estatal, el anteproyecto de presupuesto anual de egresos del Poder Judicial del Estado;
 
 IX.- Autorizar las erogaciones del presupuesto anual del Poder Judicial y llevar el control de su ejercicio;
 
 X.- Remitir al Juez competente los exhortos y despachos de acuerdo con el turno que al efecto se lleven;
 
-XI.- Proponer al Pleno el nombramiento de los servidores públicos que corresponda designar al Supremo Tribunal de Justicia;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1995)</small>
 
-XII.- Proponer al Pleno el nombramiento del Oficial Mayor y de los responsables de las dependencias administrativas del Poder Judicial;
+XI.- Informar al Pleno del Supremo Tribunal de Justicia del Estado el nombramiento de los jueces y servidores públicos que nombre el Consejo de la Judicatura Estatal;
 
-XIII.- Proponer al Pleno el nombramiento de Jueces, Secretarios, Proyectistas y Actuarios en forma interina y hasta que el Pleno haga los nombramientos definitivos;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1995)</small>
+
+XII.- Proponer al Pleno del Supremo Tribunal de Justicia del Estado el nombramiento del Oficial Mayor;
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1995)</small>
+
+XIII.- Informar al Pleno del Supremo Tribunal de Justicia del Estado el nombramiento interino de jueces, secretarios de acuerdos, proyectistas y actuarios, hasta que se hagan los nombramientos definitivos por el Consejo de la Judicatura Estatal;
 
 XIV.- Ejercer las atribuciones que le asigne el Reglamento Interior del Supremo Tribunal de Justicia;
 
@@ -209,7 +231,7 @@ XV.- Tramitar las quejas de los litigantes sobre las faltas que ocurran en el de
 
 Si las faltas fueren leves, dictará las providencias oportunas para su corrección o remedio Inmediato; si fueren graves dará cuenta al Pleno para que tome el acuerdo correspondiente;
 
-XVI.- Administrar los bienes, recursos y valores que se adquieran por el Poder Judicial;
+XVI. Administrar los bienes, recursos y valores que se adquieran por el Poder Judicial;
 
 XVII.- Crear las unidades administrativas auxiliares de la presidencia que estime convenientes para el adecuado desarrollo de sus funciones y proponer a los respectivos servidores;
 
@@ -327,7 +349,13 @@ C).- Realizar el pago de los sueldos que consten en nómina;
 
 D).- Liquidar los egresos autorizados por la presidencia del Tribunal; y
 
-E).- Las demás que conforme su ramo que (sic) les sean encomendadas por el Tribunal Superior de Justicia.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
+E).- Vigilar el desempeño de los trabajadores administrativos y de intendencia en el desarrollo de las actividades del Poder Judicial;
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
+
+F).- Las demás que conforme a su ramo le sean encomendadas por el Supremo Tribunal de Justicia.
 
 II.- Hacer las adquisiciones que se les autoricen y controlar su almacén, para lo cual deberá:
 
@@ -339,7 +367,9 @@ C).- Depositar en lugares adecuados los bienes muebles destinados al servicio de
 
 III.- Llevar los asuntos de los recursos humanos, para lo cual deberá hacer:
 
-A).- La selección, previo examen de conocimiento y aptitud del personal de base del Poder Judicial;
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
+A).- Promover, previo examen de conocimiento y aptitud, al personal de base del Poder Judicial;
 
 B).- Formar el expediente individual de los servidores públicos en su asistencia, puntualidad y eficacia; y
 
@@ -413,7 +443,9 @@ El Supremo Tribunal de Justicia determinará donde habrá los órganos a que se 
 
 Son atribuciones de la Oficialía de Partes:
 
-I.- Recibir y sellar de recibido los escritos, promociones y demandas por las que se inicie un procedimiento judicial de cualquier índole. El Oficial de Partes tendrá fe pública para el solo efecto de la recepción de documentos de que trata este artículo y para expedir las certificaciones conducentes; y
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1995)</small>
+
+I.- Recibir y sellar de recibido los escritos, promociones y demandas por las que se inicie un procedimiento judicial de cualquier índole. Además podrá recibir todos los escritos que contengan recursos para impugnar resoluciones judiciales;
 
 II.- Turnar por riguroso orden numérico los documentos de que trata la fracción anterior al Juzgado que corresponda para su trámite legal respectivo.
 
@@ -423,6 +455,8 @@ En el Supremo Tribunal de Justicia el turno lo llevarán los presidentes de Sala
 
 ### CAPITULO I. De los Juzgados de Primera Instancia
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ## TITULO TERCERO
 
 ### CAPITULO II. De los Juzgados Menores
@@ -431,15 +465,63 @@ En el Supremo Tribunal de Justicia el turno lo llevarán los presidentes de Sala
 
 ### CAPITULO IV. Visita de Juzgados
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 34.
 
-Habrá en la capital del Estado los Juzgados (sic) Primera Instancia, Civiles, Familiares y Penales que se distinguirán por los números ordinales que les correspondan, que sean necesarios, para la pronta administración de justicia; pero para la creación de un nuevo juzgado, el Supremo Tribunal de Justicia lo solicitará al H. Congreso del Estado, con la motivación necesaria.
+Habrá en la capital del Estado los Juzgados de Primera Instancia, Civiles, Familiares, Penales y Mixtos que se distinguirán por los números ordinales que les correspondan que sean necesarios para la pronta administración de justicia; pero para la creación de un nuevo juzgado, el Supremo Tribunal de Justicia lo solicitará al H. Congreso del Estado, con la fundamentación necesaria.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 35.
 
-Habrá en el Estado cuatro partidos judiciales: el primero comprenderá los Municipios de Aguascalientes, Jesús María y El Llano; el segundo, comprenderá el Municipio de Calvillo; el tercero comprenderá los Municipios de Pabellón de Arteaga, San José de Gracia, Asientos y San Francisco de los Romo, residiendo el Juzgado de Primera Instancia en el primero de los Municipios citados y el cuarto comprenderá los Municipios de Rincón de Romos, Cosío y Tepezalá, con residencia el Juzgado de Primera Instancia en el primero de los Municipios nombrados. Los Juzgados de Primera Instancia de los Partidos Judiciales Segundo, Tercero y Cuarto serán Mixtos y conocerán de asuntos civiles, familiares y penales.
+Habrá en el Estado cuatro partidos judiciales:
+
+El primero comprenderá los Municipios de Aguascalientes, Jesús María y El Llano; el segundo, comprenderá el Municipio de Calvillo; el tercero comprenderá los Municipios de Pabellón de Arteaga, San José de Gracia, Asientos y San Francisco de los Romo y el cuarto comprenderá los Municipios de Rincón de Romos, Cosío y Tepezalá, residiendo el Juzgado de Primera Instancia en el primero de los Municipios citados en cada partido. Los Juzgados de Primera Instancia de los partidos judiciales segundo, tercero y cuarto serán mixtos y conocerán de asuntos civiles, familiares y penales.
+
+Para entrar al desempeño de sus funciones, los jueces protestarán ante el Pleno del Supremo Tribunal de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 36.
+
+Los jueces de primera instancia, civiles y penales, mixtos de primera instancia, familiares y mixtos menores, serán nombrados por el Consejo de la Judicatura Estatal, previo concurso de oposición que aprueben y obtendrán un nombramiento definitivo por diez años, durante los cuales serán inamovibles; sólo podrán ser removidos de sus cargos cuando observen mala conducta o previo el juicio de responsabilidad respectivo o por falta de alguna de las cualidades que para tales cargos requiere la Ley, así como por ineptitud comprobada para el desempeño del mismo cargo que calificará el Consejo de la Judicatura Estatal.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
+###### ARTICULO 37.
+
+Para ser Juez de Primera Instancia, se requiere:
+
+I.- Ser mexicano por nacimiento y en pleno ejercicio de sus derechos civiles, con residencia mínima en el Estado de tres años anteriores a su nombramiento;
+
+II.- Ser Licenciado en Derecho, con experiencia profesional mínima de tres años anteriores a su nombramiento;
+
+III.- Ser de notoria moralidad y buenas costumbres; y
+
+IV.- No haber sido sentenciado por delito doloso con pena privativa de libertad.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
+###### ARTICULO 38.
+
+Tanto los Juzgados Familiares como los Civiles, recibirán demandas por turno, cuando y en la forma que lo disponga el Supremo Tribunal de Justicia del Estado. Los Juzgados Mixtos de Primera Instancia conocerán en sus respectivas jurisdicciones de todas las materias.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
+###### ARTICULO 39.
+
+Los Juzgados de lo Civil conocerán de:
+
+I.- Los negocios de jurisdicción voluntaria;
+
+II.- Los negocios de jurisdicción contenciosa que no sean de la competencia de los Juzgados Mixtos Menores o de lo Familiar; y
+
+III.- Diligenciación de exhortos que se reciban de tribunales del país y de los demás asuntos que les asignen las leyes.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
+###### ARTICULO 40.
 
 Los Juzgados de lo Familiar son competentes para conocer de los siguientes negocios:
 
@@ -473,47 +555,13 @@ XIV.- Constitución del patrimonio de familia y declaración de extinción;
 
 XV.- Investigación de la paternidad;
 
-XVI.- Anotaciones marginales;
+XVI.- Anotaciones marginales en actas del Registro Civil;
 
 XVII.- Los negocios de jurisdicción mixta;
 
 XVIII.- Depósito de personas; y
 
 XIX.- En los casos de interdicto a que se refiere el Artículo 377 del Código Civil.
-
-###### ARTICULO 37.
-
-Los Juzgados de lo Civil conocerán de:
-
-I.- Los negocios de jurisdicción voluntaria;
-
-II.- Los negocios de jurisdicción contenciosa que no sean de la competencia de los Jueces Menores Mixtos o de lo Familiar; y
-
-III.- Diligenciación de exhortos que se reciban de Tribunales del país y los demás asuntos que les asignen las Leyes.
-
-###### ARTICULO 38.
-
-Tanto los Juzgados Familiares como los Civiles, recibirán demandas por turno, cuando y en la forma que lo disponga el Supremo Tribunal de Justicia.
-
-###### ARTICULO 39.
-
-Para ser Juez de Primera Instancia, se requiere:
-
-I.- Ser mexicano por nacimiento y en pleno ejercicio de sus derechos civiles;
-
-II.- Ser Licenciado en Derecho;
-
-III.- Ser de notoria moralidad y buenas costumbres; y
-
-IV.- Tener tres años de práctica forense bien reconocida; y
-
-V.- No haber sido sentenciado por delito intencional con pena privativa de libertad.
-
-###### ARTICULO 40.
-
-Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia, y tratándose de Jueces Titulares sólo podrán ser removidos de sus cargos cuando observen mala conducta, previo el juicio de responsabilidad respectivo o por falta de alguna de las cualidades que para tales cargos requiere la Ley, así como por ineptitud para el desempeño del mismo cargo que calificará quien hubiere hecho el nombramiento.
-
-Para entrar al desempeño de sus funciones, los jueces protestarán ante el Supremo Tribunal de Justicia.
 
 ###### ARTICULO 41.
 
@@ -627,7 +675,9 @@ III.- Para diligenciar exhortos o despachos que reciban y que sean de su compete
 
 En los Juzgados Menores Mixtos actuará con el Juez un Secretario y tendrá la planta de empleados que fije el Presupuesto.
 
-### CAPITULO VI. De las Renuncias, Licencias y Maneras de Suplir las Faltas
+### CAPITULO VI. De las Renuncias, Licencias y Manera de Suplir las Faltas
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 55.
 
@@ -641,7 +691,9 @@ En caso de que en la localidad no existan profesionales en la materia de que se 
 
 ###### ARTICULO 57.
 
-El Presidente del Supremo Tribunal de Justicia puede disponer cuando lo estime necesario, que se practiquen visitas generales o especiales a determinado juzgado, pudiendo designar a uno de los Magistrados para tal efecto. La visita general tendrá por objeto percatarse del despacho general de los negocios radicados en el juzgado, anotando todas las irregularidades que se tengan y las quejas que se presenten, para lo cual se anunciará en la puerta del juzgado dicha visita. Las visitas especiales tendrán por objeto percatarse de las irregularidades que se hayan denunciado como cometidas en determinados asuntos.
+El presidente del Supremo Tribunal de Justicia del Estado nombrará en términos del Artículo 11 de esta ley, los Magistrados Visitadores que practicarán visitas generales o especiales para revisar cada tres meses el buen funcionamiento de los juzgados. Esto sin perjuicio de que el propio presidente efectúe las visitas que considere necesarias, sancionándose el incumplimiento conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+La visita general tendrá por objeto percatarse del despacho general de los negocios radicados en el juzgado, anotando todas las irregularidades que se tengan y las quejas que se presenten, para lo cual se anunciará en la puerta del juzgado dicha visita. Las visitas especiales tendrán por objeto percatarse de las irregularidades que se hayan denunciado como cometidas en determinados asuntos, y en todos los casos rendirán informe tanto al Presidente del Supremo Tribunal de Justicia del Estado, como al Consejo de la Judicatura Estatal.
 
 ###### ARTICULO 58.
 
@@ -657,11 +709,13 @@ Con el escrito de queja se formará inmediatamente el expediente respectivo, ano
 
 Las quejas por faltas oficiales deberán formularse por escrito, con expresión del nombre y domicilio del quejoso y la relación clara y suscinta (sic) del hecho materia de la queja con fundamentación legal.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 61.
 
-Las quejas deberán formularse directamente al Presidente del Supremo Tribunal de Justicia.
+Las quejas contra servidores públicos del Poder Judicial deberán formularse directamente al Presidente del Supremo Tribunal de Justicia del Estado, con copia al Consejo de la Judicatura Estatal.
 
-El trámite a que se refiere el párrafo anterior consistirá en el informe que rinda el servidor público en contra de quien se dirija la queja en un plazo de cinco días, y una audiencia en que presenten sus pruebas y aleguen las partes, misma que se celebrará dentro de los diez días siguientes dictándose la resolución que proceda dentro del término de cinco días. Contra esta resolución no procede recurso ordinario alguno.
+El trámite a que se refiere el párrafo anterior consistirá en el informe que rinda el servidor público en contra de quien se dirija la queja en un plazo de cinco días hábiles, y una audiencia en que presenten sus pruebas y aleguen las partes, misma que se celebrará dentro de los diez días hábiles siguientes dictándose la resolución que proceda dentro del término de cinco días. Contra esta resolución no procede recurso ordinario alguno.
 
 ###### ARTICULO 62.
 
@@ -675,11 +729,13 @@ II.- El Ministerio Público en los negocios de su intervención.
 
 La sentencia será dictada por el pleno del Supremo Tribunal de Justicia.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ABRIL DE 1995)</small>
+
 ### CAPITULO III. Del Fondo para la Administración de Justicia
 
 ###### ARTICULO 64.
 
-Las renuncias de los Magistrados Propietarios se presentarán ante el Congreso del Estado; las de los Jueces y demás servidores públicos ante el Supremo Tribunal de Justicia.
+Las renuncias de los Magistrados propietarios serán sometidas ante el Consejo de la Judicatura Estatal, en los términos del Artículo 56 de la Constitución Política del Estado; las de los Jueces y demás servidores públicos del Poder Judicial las conocerá el Supremo Tribunal de Justicia, quien de inmediato las hará del conocimiento del Consejo de la Judicatura Estatal.
 
 ###### ARTICULO 65.
 
@@ -693,21 +749,25 @@ Al concederse una licencia o aceptarse alguna renuncia, se dictarán las medidas
 
 Los Magistrados Supernumerarios serán llamados en el orden de sus nombramientos para suplir a los Magistrados Propietarios en sus faltas temporales.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 68.
 
-Las faltas absolutas de los Jueces Civiles y Penales se cubrirán con nuevos nombramientos de Jueces Interinos que durarán en su cargo un año, quienes podrán ser ratificados, pero para adquirir la titularidad se requiere el nombramiento expreso del Supremo Tribunal de Justicia.
+Las faltas absolutas de los jueces civiles, penales, familiares y mixtos se cubrirán con nuevos nombramientos de jueces interinos que durarán en su cargo un año, previa aprobación del concurso de oposición quienes podrán ser ratificados, pero para adquirir la titularidad se requiere el nombramiento definitivo del Consejo de la Judicatura Estatal en los términos del Artículo 36 de esta Ley.
 
-Las faltas temporales que no excedan de quince días se suplirán por el Primer Secretario, con la sola limitación de que no podrá dictar sentencias definitivas e interlocutorias en materia civil y en materia penal sólo definitivas.
+Las faltas temporales que no excedan de quince días se suplirán por el primer secretario de estudio y proyectos, con la sola limitación de que no podrá dictar sentencias definitivas e interlocutorias en materia civil y familiar y en materia penal sólo definitivas.
 
-En los casos de impedimentos, recusación o excusa, conocerá del negocio de que se trate el Juez que le siga en número y el último por el primero y en caso necesario, por los jueces de distinto ramo en el orden indicado.
+En los casos de impedimentos, recusación o excusa, conocerá del negocio de que se trate el juez que le siga en número y el último por el primero y en caso necesario, por los jueces de distinto ramo en el orden indicado.
 
 ###### ARTICULO 69.
 
 Las faltas absolutas y temporales de los Jueces Menores Mixtos se suplirán: las primeras por nuevo nombramiento y las segundas por los Secretarios, que actuarán con testigos de asistencia, dictándose únicamente acuerdos de trámite. En los casos de impedimento o excusa, conocerá del negocio el Juez Menor más cercano.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 70.
 
-Las faltas absolutas de los Secretarios de los Juzgados de Primera Instancia y Menores, se suplirán por nuevo nombramiento, y las temporales o accidentales con testigos de asistencia, designados por el Juez respectivo. Las funciones de dichos testigos se limitarán a la autorización de las resoluciones, trámites y demás diligencias judiciales, quedando a cargo del Juez las demás funciones que la Ley señale a los Secretarios.
+Las faltas absolutas de los secretarios de estudio y proyectos se suplirán por nuevos nombramientos y las temporales o accidentales por los secretarios de acuerdo (sic) que designe el juez; las faltas absolutas de los secretarios de acuerdos se suplirán por nuevos nombramientos, las temporales o accidentales con testigos de asistencia designados por el juez respectivo; las funciones de dichos testigos se limitarán a la autorización de las resoluciones, trámites y demás diligencias judiciales, quedando a cargo del juez las demás funciones que la ley señale a los secretarios.
 
 ###### ARTICULO 71.
 
@@ -767,6 +827,10 @@ Los reglamentos del Supremo Tribunal de Justicia y de los Juzgados de Primera In
 
 Toda excitativa de justicia se promoverá por escrito ante la autoridad que haya hecho el nombramiento de aquélla contra quien se solicite, y se despachará o denegará previo informe justificado de ésta última con audiencia del Ministerio Público. Aquélla para rendir su informe y ésta para formular su pedimento, tendrá respectivamente el término de tres días, y de igual término gozará la autoridad que haya de resolver.
 
+### CAPITULO VI. Del Consejo de la Judicatura Estatal
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 82.
 
 El fondo para la administración de justicia, se integra con:
@@ -803,6 +867,10 @@ d).- La capacitación, mejoramiento y especialización profesional del personal 
 
 La Secretaría de Finanzas informará mensualmente al Presidente del Supremo Tribunal de Justicia el estado contable del fondo, que se integra con los depósitos en dinero o en valores que se efectúen ante los tribunales judiciales del fuero común.
 
+### CAPITULO VII. Del Instituto de Capacitación del Poder Judicial del Estado
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 85.
 
 El Departamento de Computación e Informática del Poder Judicial, dependerá de la Presidencia del Supremo Tribunal de Justicia, y tendrá como funciones las siguientes:
@@ -821,6 +889,10 @@ e).- El registro computarizado y la informática de todas aquellas actividades d
 
 Para una mejor eficiencia del servicio de computación e informática, el Presidente del Supremo Tribunal de Justicia, autorizará el establecimiento de las oficinas que fueren necesarias, dependientes del departamento de computación e informática, tanto en la capital del Estado como en los Partidos Judiciales que se requieran, de acuerdo con las posibilidades presupuestales, determinando en su caso, los lugares en donde técnicamente sea conveniente establecerlos según las necesidades del servicio y el volumen de trabajo.
 
+### CAPITULO VIII. De la Contraloría Interna del Poder Judicial del Estado
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 87.
 
 La remuneración que los Magistrados y Jueces perciban por sus servicios, no podrá ser disminuida durante su encargo.
@@ -833,9 +905,11 @@ Toda persona que fuere nombrada para desempeñar algún cargo, o empleo judicial
 
 Los Magistrados, Jueces y servidores públicos del Poder Judicial, deberán concurrir a sus oficinas todos los días hábiles en las horas que determine el reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 90.
 
-Ningún servidor público de la administración de justicia, podrá desempeñar otro puesto público ni ejercer la abogacía sino en causa propia, ni ser apoderado judicial, tutor, curador, albacea, depositario judicial, síndico, administrador o interventor de concurso o árbitro.
+Excepto los integrantes del Consejo de la Judicatura Estatal y del Presidente del Consejo que también lo es del Tribunal, ningún servidor público de la administración de justicia podrá desempeñar otro puesto público, pero todos estarán impedidos para ejercer la abogacía sino en causa propia, ser apoderado judicial, tutor, curador, albacea, depositario judicial, síndico, administrador o interventor de concurso o árbitro.
 
 ###### ARTICULO 91.
 
@@ -848,6 +922,110 @@ Ningún nombramiento en la administración de justicia podrá recaer en ciegos, 
 ###### ARTICULO 93.
 
 Cuando el exceso de labores lo requiera, el Tribunal para evitar demoras en la administración de justicia, podrá nombrar jueces, secretarios, proyectistas, actuarios y en si el personal que fuere necesario para que con el carácter de auxiliares ayuden en sus labores al personal ordinario. Los empleados auxiliares podrán desempeñar varias funciones, que le serán determinadas expresamente, con la misma validez que aquellas que la Ley concede respecto del personal de planta.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ABRIL DE 1995)</small>
+
+###### ARTICULO 94.
+
+El Consejo de la Judicatura Estatal se integrará según lo dispone el Artículo 55 de la Constitución Política del Estado.
+
+Los Magistrados suplentes no podrán formar parte del Consejo, ni los jueces que tengan menos de dos años en el ejercicio de su encargo. Bastará la presencia de cuatro de sus miembros para que el Consejo pueda funcionar, pero siempre deberá contarse con la asistencia del presidente.
+
+Las sesiones ordinarias del Consejo se efectuarán una vez al mes, el día que fije el reglamento respectivo.
+
+Las extraordinarias se celebrarán cuando lo crea necesario el Presidente o lo pida algún consejero.
+
+Las resoluciones se tomarán por mayoría de votos de los consejeros presentes, quienes no podrán abstenerse de votar sino en los casos en que se tengan impedimentos legales. En caso de empate, el Presidente tendrá voto de calidad.
+
+El Consejo tendrá además un Secretario que será el Oficial Mayor del Supremo Tribunal de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
+
+###### ARTICULO 95.
+
+Corresponde al Consejo de la Judicatura Estatal:
+
+I.- Nombrar a los Jueces y servidores públicos del Poder Judicial con excepción de los del Supremo Tribunal de Justicia;
+
+II.- Informar al Supremo Tribunal de Justicia de las renuncias y licencias que hayan tramitado los Jueces para separarse de su cargo;
+
+III.- Solicitar a los Jueces de Primera Instancia la substitución de uno o más de los Consejeros por ellos designados, cuando exista causa justificada;
+
+IV.- Aceptar la renuncia de sus miembros, con excepción del Presidente y solicitar se cubran las vacantes por quien los designó;
+
+V.- Conferir comisiones a sus miembros;
+
+VI.- Comisionar a sus miembros para proponer programas de capacitación del personal del Poder Judicial;
+
+VII.- Otorgar a los servidores públicos del Poder Judicial el reconocimiento que merezcan por el buen ejercicio de sus funciones;
+
+VIII.- Conocer las denuncias que formulen los miembros del Consejo de la Judicatura Estatal, respecto de la mala actuación de algunos abogados postulantes, los cuales se harán acreedores a una amonestación y dicho organismo dará vista al Ministerio Público para que, en su caso, ejercite la acción penal correspondiente. Si no se ejercitare la acción penal, serán exonerados públicamente por el mismo Consejo;
+
+IX.- Las demás facultades que le confiera la Constitución Política del Estado, esta Ley y su reglamento.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ABRIL DE 1995)</small>
+
+###### ARTICULO 96.
+
+El Poder Judicial contará con un organismo que se denominará Instituto de Capacitación del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
+
+###### ARTICULO 97.
+
+El Instituto de Capacitación del Poder Judicial del Estado contará:
+
+I.- Con un director que será propuesto por el Consejo de la Judicatura Estatal y nombrado por el Presidente del Supremo Tribunal de Justicia. Dicho director deberá reunir los requisitos para ser Magistrado;
+
+II.- Con dos coordinadores, uno del área jurídica y otro en el área pedagógica; y
+
+III.- Con el personal administrativo que le asigne el Consejo de la Judicatura Estatal.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
+
+###### ARTICULO 98.
+
+El Instituto de Capacitación del Poder Judicial del Estado tendrá las siguientes funciones:
+
+I.- La actualización profesional de los miembros del Poder Judicial del Estado, mediante clínicas procesales;
+
+II.- La capacitación de los aspirantes a ingresar al Poder Judicial del Estado; y
+
+III.- Las demás que le confieran las Leyes y Reglamentos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ABRIL DE 1995)</small>
+
+###### ARTICULO 99.
+
+El Poder Judicial del Estado contará con una Contraloría Interna, misma que se conformará y regirá de acuerdo con esta Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
+
+###### ARTICULO 100.
+
+Son facultades de la Contraloría Interna del Poder Judicial del Estado:
+
+I.- Fijar las normas de control, evaluación, fiscalización, contabilidad y auditoría que deben observar las distintas áres (sic) del Poder Judicial, así como vigilar su cumplimiento y en su caso, presentarles el apoyo y asesoramiento que éstas les soliciten;
+
+II.- Comprobar el cumplimiento por parte de las diferentes áreas del Poder Judicial, de las obligaciones derivadas de las disposiciones estatales, en materia de planeación, presupuestación, ingresos, egresos, financiamiento, inversión, adquisiciones, patrimonio, fondos y valores de propiedad;
+
+III.- Vigilar y supervisar que los funcionarios y servidores públicos del Poder Judicial cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, adquisiciones, arrendamientos, conservación, uso, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
+
+IV.- Practicar auditorías administrativas, de contabilidad y eficiencia a las diferentes áreas, a fin de detectar anomalías y rezagos, formulando las recomendaciones respectivas;
+
+V.- Controlar el debido ejercicio del gasto público del Poder Judicial Estatal y su congruencia con el presupuesto de egresos, practicando las auditorías que para cada caso sean necesarias;
+
+VI.- Establecer el sistema de recepción de las declaraciones patrimoniales de los servidores públicos del Poder Judicial, mismas que posteriormente serán turnadas a la Contraloría General del Estado para su análisis y registro;
+
+VII.- Coordinar la recepción y atención de las quejas y denuncias que presenten los particulares, organizados o a título personal, que se deriven de las acciones de los servidores públicos adscritos al Poder Judicial, así como su atención y solventación; y en su caso determinar responsabilidades y aplicar sanciones;
+
+VIII.- Intervenir en la entrega y recepción de las distintas áreas del Poder Judicial;
+
+IX.- Coordinarse con la Contraloría General del Estado, a solicitud de cualquiera de las partes.
+
+X.- Informar al Presidente del Supremo Tribunal de Justicia del Estado y al Consejo de la Judicatura sobre los resultados de las evaluaciones, fiscalizaciones y auditorías realizadas a las diferentes áreas y juzgados que conforman el Poder Judicial, así como de las demás actividades efectuadas;
+
+XI.- Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado en el ámbito de su competencia.
 
 T R A N S I T O R I O S:
 
@@ -884,3 +1062,51 @@ Lic. Efrén González Cuéllar.
 EL SUBSECRETARIO GENERAL DE GOBIERNO EN FUNCIONES DE SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Rogelio Ramírez Soto.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE ABRIL DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, misma que deberá ser posterior a la publicación del Decreto de reformas a la Constitución Política Local, en Materia Judicial, expedido el 8 de marzo de 1995, por el H. Congreso del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Todos los Agentes del Ministerio Público del Estado, a excepción del Procurador General de Justicia, serán sometidos a un examen de conocimientos generales en el ramo, mismo que será aplicado por éste, quien podrá auxiliarse de la Comisión para la Reforma del Poder Judicial del Estado en caso de así requerirlo. Quienes no se presenten al examen aquí referido, o en su caso quienes no lo aprueben, serán tratados de conformidad con la ley respectiva.
+
+###### ARTICULO TERCERO.
+
+Los Defensores de Oficio dependientes del (sic) Procuraduría de Protección Ciudadana del Estado, que se encuentren laborando como tales en la actualidad, serán sometidos a un examen de conocimientos generales en el ramo, mismo que será aplicado por el Procurador de Protección Ciudadana, quien podrá auxiliarse de la Comisión para la Reforma del Poder Judicial del Estado en caso de así requerirlo. Quienes no se presenten a dicho examen o en su caso no lo aprueben, serán tratados de conformidad con la ley respectiva.
+
+###### ARTICULO CUARTO.
+
+La Contraloría General del Estado conocerá del recurso de revisión consignado en el Artículo 42 de la Ley Orgánica del Poder Ejecutivo del Estado, de manera temporal, hasta en tanto se constituya el Tribunal de lo Contencioso Administrativo del Estado, que asumirá esta responsabilidad.
+
+###### ARTICULO QUINTO.
+
+Los asuntos que actualmente se están ventilando ante los Tribunales del Estado conforme al Código de Procedimientos Civiles vigente antes de esta reforma aunque sea aplicado de manera supletoria, se seguirán ventilando conforme al mismo, pero si las partes de común acuerdo así lo manifiestan a la autoridad competente, podrán acogerse a las reformas del presente Decreto.
+
+###### ARTICULO SEXTO.
+
+Los asuntos que actualmente se estén ventilando ante los Tribunales del Estado conforme al Código de Procedimientos Penales vigente antes de esta reforma aunque sea aplicado de manera supletoria, se seguirán ventilando conforme al mismo, pero si las partes de común acuerdo así lo manifiestan a la autoridad competente, podrán acogerse a las reformas del presente Decreto.
+
+###### ARTICULO SEPTIMO.
+
+Los Partidos Judiciales del Estado previstos en el Artículo 35 de la Ley Orgánica del Poder Judicial del Estado, entrarán en funciones cuando el presupuesto del propio Poder lo permita y las necesidades lo requieran.
+
+###### ARTICULO OCTAVO.
+
+Para los efectos del Artículo 94 de la Ley Orgánica del Poder Judicial del Estado, por única vez, todos los jueces nombrados de acuerdo al procedimiento que establece la Constitución, podrán ser designados como miembros del Consejo de la Judicatura, sin necesidad de contar con tres años en el ejercicio de su encargo.
+
+###### ARTICULO NOVENO.
+
+Una vez instalada la Contraloría Interna, contará con un término de 30 días para elaborar su Reglamento.
+
+###### ARTICULO DECIMO.
+
+Los trabajadores al servicio de los Gobiernos del Estado, los Municipios, y Organismos Descentralizados, que actualmente laboran la jornada establecida en el Estatuto Jurídico anterior a la presente reforma, podrán optar entre seguir laborando en dicha jornada que tienen, o bien, adherirse a la jornada que se establece en el Artículo 36 de este Ordenamiento.
+
+###### ARTICULO DECIMO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
