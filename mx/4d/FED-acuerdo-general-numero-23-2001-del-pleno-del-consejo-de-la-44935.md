@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2001-08-09"
+last_updated: "2001-08-21"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE AGOSTO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE AGOSTO DE 2001.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -187,7 +187,9 @@ X.- DECIMO CIRCUITO:
 
 2.- Dos tribunales unitarios con sede en Villahermosa.
 
-3.- Tres juzgados de distrito en el Estado de Tabasco, con residencia en Villahermosa.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 48/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2001)</small>
+
+3.- Cuatro juzgados de distrito en el Estado de Tabasco, con residencia en Villahermosa.
 
 4.- Dos juzgados de distrito en el Estado de Veracruz, con sede en Coatzacoalcos.
 
@@ -215,7 +217,9 @@ XIII.- DECIMOTERCER CIRCUITO:
 
 2.- Dos tribunales unitarios con sede en Oaxaca.
 
-3.- Siete juzgados de distrito en el Estado de Oaxaca: cinco con residencia en Oaxaca y dos con sede en Salina Cruz.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 49/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2001)</small>
+
+3.- Ocho juzgados de distrito en el Estado de Oaxaca: seis con residencia en Oaxaca y dos con sede en Salina Cruz.
 
 XIV.- DECIMOCUARTO CIRCUITO:
 
@@ -658,6 +662,22 @@ SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación
 D.O.F. 9 DE AGOSTO DE 2001.
 
 ACUERDO 42/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO XV.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 21 DE AGOSTO DE 2001.
+
+ACUERDO 48/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO X.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 21 DE AGOSTO DE 2001.
+
+ACUERDO 49/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO XIII.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
