@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "1987-12-16"
+last_updated: "1989-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 1989.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -205,21 +205,23 @@ Los habitantes del Municipio tendrán los derechos y deberes que dispongan las L
 
 Los Ayuntamientos son los órganos de Gobierno Municipal a través de los cuales, el pueblo, en ejercicio de su voluntad política, realiza la autogestión de sus intereses, dentro de los límites del Municipio.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1989)</small>
+
 ###### ARTICULO 22.
 
-Los Ayuntamientos durarán en su encargo tres años y se integrarán por funcionarios de elección popular directa en la siguiente forma:
+Los Ayuntamientos durarán en su encargo tres años y se integrarán con servidores públicos de elección popular directa, en la siguiente forma:
 
-I.- En los Municipios cuya población sea hasta por treinta mil habitantes, el Ayuntamiento se integrará con un Presidente Municipal, tres Regidores y un Síndico.
+I.- En los Municipios cuya población sea hasta por treinta mil habitantes, el Ayuntamiento se integrará con un Presidente Municipal, cuatro Regidores y un Síndico.
 
-II.- En los Municipios con población hasta de cincuenta mil habitantes, el Ayuntamiento se integrará por un Presidente Municipal, cuatro Regidores y dos Síndicos.
+II.- En los Municipios con población hasta de cincuenta mil habitantes, el Ayuntamiento se integrará por un Presidente Municipal, cinco Regidores y dos Síndicos.
 
-III.- En los Municipios cuya población sea hasta de cien mil habitantes, el Ayuntamiento se integrará con un Presidente Municipal, seis Regidores y dos Síndicos.
+III.- En los Municipios cuya población sea hasta de cien mil habitantes, el Ayuntamiento se integrará por un Presidente Municipal, ocho Regidores y dos Síndicos.
 
-IV.- En los Municipios con población hasta de doscientos mil habitantes, el Ayuntamiento se integrará por un Presidente Municipal, diez Regidores y dos Síndicos.
+IV.- En los Municipios con población hasta de doscientos mil habitantes, el Ayuntamiento se integrará por un Presidente Municipal, doce Regidores y dos Síndicos.
 
-V.- En los Municipios cuya población sea mayor de doscientos mil habitantes, el Ayuntamiento será integrado por un Presidente Municipal, doce Regidores y dos Síndicos.
+V.- En los Municipios cuya población sea mayor de doscientos mil habitantes, el Ayuntamiento será integrado por un Presidente Municipal, catorce Regidores y dos Síndicos.
 
-En los términos que señala la Ley Electoral para la Renovación de los Poderes Legislativo, Ejecutivo y Ayuntamientos del Estado, los Ayuntamientos se complementarán con Regidores de representación proporcional.
+En los términos que señala la Ley Electoral para el Estado de Tamaulipas, los Ayuntamientos se complementarán con Regidores de Representación Proporcional.
 
 ###### ARTICULO 23.
 
@@ -239,17 +241,25 @@ Para ser miembro de un Ayuntamiento se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento.
 
-II.- Tener una residencia no menor de dos años en el Estado, y ser vecino del Municipio por un período no menor de un año inmediato anterior al día de la elección.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1989)</small>
 
-III.- Saber leer y escribir.
+II.- Tener una residencia no menor de cinco años en el Estado, y ser vecino del municipio por un período no menor de tres años inmediatos anteriores al día de la elección.
 
-IV.- No pertenecer al estado eclesiástico ni ser ministro del algún culto.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1989)</small>
 
-V.- No haber sido condenado por delito intencional.
+III.- No pertenecer al estado eclesiástico ni ser ministro del algún culto, aun cuando no esté en ejercicio.
 
-VI.- Tener un modo honesto de vivir y no ser ebrio, vago, malviviente o toxicómano.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1989)</small>
 
-VII.- No ser funcionario de la Federación, del Estado o del Municipio, no tener participación directa o indirecta en servicios, contratos o suministros por cuenta del Ayuntamiento o el mando de la fuerza pública en el Municipio en que se haga la elección, a no ser que se separe de su puesto o participación por lo menos 3 meses antes de dicha elección.
+IV.- No estar sujeto a proceso por delito doloso. El impedimento surte efecto desde el momento en que se notifique el auto de formal prisión. Tratándose de servidores públicos que gocen de fuero constitucional, el impedimento surte efecto desde que se declare que ha lugar para la formación de causa.
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1989)</small>
+
+V.- Tener un modo honesto de vivir, saber leer y escribir, y no estar en los casos previstos en el Artículo 106 del Código Penal del Estado; y
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1989)</small>
+
+VI.- No ser servidor público de la Federación, del Estado o del Municipio, no tener participación directa o indirecta en servicios, contratos o suministros por cuenta del Ayuntamiento o el mando de la fuerza pública en el Municipio en que se haga la elección, a no ser que se separe de su cargo o participación por lo menos noventa días antes de dicha elección.
 
 ###### ARTICULO 27.
 
@@ -617,7 +627,7 @@ V.- Concurrir a las ceremonias cívicas y a los demás actos a que fueren citado
 
 VI.- Citar a sesiones extraordinarias del Ayuntamiento si no lo hace el Presidente Municipal, en los términos de este Código y su Reglamento Interior.
 
-VII.- Las demás que les otorguen la Ley y Reglamentos.
+VII.- Las demás que les otorguen la Ley y reglamentos.
 
 ### CAPITULO IX. DE LOS SINDICOS
 
@@ -2381,7 +2391,7 @@ El Tribunal apreciará en conciencia las pruebas que se le presenten, sin sujeta
 
 ###### ARTICULO 284.
 
-Cualquier incidente que se suscite con motivo de la personalidad o de la representación, de la competencia del Tribunal, del interés de terceros, sobre la nulidad de actuaciones y otros motivos análogos, será resuelto de plano al dictar resolución en los términos a que se refiere el Artículo anterior.
+Cualquier incidente que se suscite con motivo de la personalidad o de la representación, de la competencia del Tribunal, del interés de terceros, sobre la nulidad de actuaciones y otros motivos análogos, será resuelto de plano al dictar resolución en los términos a que se refiere el artículo anterior.
 
 ###### ARTICULO 285.
 
@@ -2546,3 +2556,13 @@ N DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETO
 P.O. 16 DE DICIEMBRE DE 1987.
 
 UNICO.- El presente Decreto surtirá sus efectos a partir del 1o. de Enero de 1988.
+
+P.O. 22 DE ABRIL DE 1989.
+
+###### ARTICULO PRIMERO.
+
+Se derogan cuantas disposiciones se opongan al contenido de este Decreto.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
