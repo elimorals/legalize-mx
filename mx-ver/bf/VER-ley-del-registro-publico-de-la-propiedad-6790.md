@@ -4,7 +4,7 @@ identifier: "VER-ley-del-registro-publico-de-la-propiedad-6790"
 country: "mx"
 rank: "ley"
 publication_date: "1979-12-29"
-last_updated: "1996-11-30"
+last_updated: "1997-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE ENERO DE 1997.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 29 de diciembre 1979.
 
@@ -311,9 +311,9 @@ VIGESIMASEGUNDA ZONA REGISTRAL.- Que comprende los municipios de: Amatlán Tuxpa
 
 VIGESIMATERCERA ZONA REGISTRAL.- Que comprende los municipios de: Tlacotalpan (cabecera), Amatitlán, Angel R. Cabada, Lerdo de Tejada y Saltabarranca.
 
-> <small>(ADICIONADO, G.O. 17 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, G.O. 30 DE ENERO DE 1997)</small>
 
-VIGESIMACUARTA ZONA REGISTRAL.- Que comprende los municipios de: Minatitlán (cabecera), Cosoleacaque, Chinameca, Hidalgotitlán, Jaltiplan, Mecayapan, Otepan, Sotepan y Zaragoza.
+VIGESIMACUARTA ZONA REGISTRAL.- Que comprende los municipios de: Minatitlán (cabecera), Cosoleacaque, Chinameca, Hidalgotitlán, Jáltipan, Mecayapan, Oteapan, Soteapan, Uxpanapa y Zaragoza.
 
 ###### ARTICULO 20.
 
@@ -746,3 +746,13 @@ El Concejo de Administración Municipal, realizará sus funciones en el periodo 
 ###### ARTICULO TERCERO.
 
 Se derogan cualesquiera disposiciones que contravengan el presente DECRETO.
+
+G.O. 30 DE ENERO DE 1997.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" Organo del Gobierno del Estado.
+
+Artículo Segundo. El Concejo de Administración Municipal, iniciará sus funciones una vez que sus integrantes tomen la protesta de ley, y concluirá su periodo el 31 de diciembre de mil novecientos noventa y siete.
+
+Artículo Tercero. La cabecera municipal se determinará antes del nombramiento del Concejo municipal, o simultáneamente con él.
+
+Artículo Cuarto. Se derogan cualesquiera disposiciones que contravengan el presente Decreto.
