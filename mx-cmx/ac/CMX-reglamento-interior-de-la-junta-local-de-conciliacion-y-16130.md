@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-junta-local-de-conciliacion-y-16130"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-18"
-last_updated: "2000-04-18"
+last_updated: "2001-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16130&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-04-11"
 
 REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE MAYO DE 2001.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 18 de abril de 2000.
 
@@ -52,51 +52,59 @@ Los Representantes de los Trabajadores y de los Patrones son electos por las cor
 
 De la Estructura de la Junta Local de Conciliación y Arbitraje del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2001)</small>
+
 ###### Artículo 5o.
 
-La Junta Local de Conciliación y Arbitraje del Distrito Federal, cuenta con los siguientes Organos, Secciones, Direcciones, Unidades Administrativas y Servidores Públicos:
+La Junta Local de Conciliación y Arbitraje del Distrito Federal, cuenta con la siguiente estructura básica:
 
-- El Pleno.
+I.- El Pleno.
 
-- El Presidente.
+II.- El Presidente.
 
-- La Secretaría Particular.
+1. La Secretaría Particular;
 
-- La Coordinación de Asesores.
+2. La Coordinación de Asesores;
 
-- Las Secretarías Generales.
+3. Coordinación de Informática y Sistemas;
 
-- Las Juntas Especiales.
+4. La Unidad Jurídica de Oficialía de Partes;
 
-- La Dirección General de Huelgas.
+5. La Unidad Jurídica de Peritos;
 
-- La Dirección General de Contratos Colectivos.
+6. La Coordinación General de Administración;
 
-- La Dirección General de Conflictos Colectivos.
+6.1 Coordinación de Recursos Materiales;
 
-- La Dirección General de Registro y Actualización Sindical.
+6.2 Coordinación de Recursos Humanos;
 
-- La Dirección General de Amparos.
+6.3 Coordinación de Recursos Financieros;
 
-- La Dirección General de Conciliadores.
+A) La Secretaría General de Asuntos Individuales;
 
-- La Unidad Jurídica de Oficialía de Partes.
+1. Las Juntas Especiales;
 
-- La Unidad Jurídica de Peritos.
+2. La Secretaría Auxiliar de Amparos;
 
-- La Unidad Jurídica de Quejas.
+3. La Secretaría Auxiliar de Conciliadores;
 
-- La Dirección General de Administración.
+B) La Secretaría General de Asuntos Colectivos;
 
-- La Dirección de Recursos Materiales.
+1. La Secretaría Auxiliar de Huelgas;
 
-- La Dirección de Recursos Humanos.
+2. La Secretaría Auxiliar de Contratos Colectivos;
 
-- La Dirección de Recursos Financieros.
+3. La Secretaría Auxiliar de Conflictos Colectivos;
 
-- La Dirección de Informática y Sistemas, y
+4. La Secretaría Auxiliar de Registro y Actualización Sindical;
 
-- Las Subdirecciones, Unidades, Oficinas y el Personal Jurídico y Administrativo adscritos a cada una de ellas.
+C) La Contraloría de la Junta Local.
+
+1. La Subcontraloría de Auditoría;
+
+2. La Subcontraloría de Responsabilidades;
+
+III.- El Comité de Administración.
 
 ###### Artículo 6o.
 
@@ -218,9 +226,63 @@ VIII. Proponer la implantación de nuevos sistemas para el eficaz desarrollo de 
 
 IX. Y las demás que señalen las leyes y el presente Reglamento.
 
-### CAPITULO V. Del Presidente Titular
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 28 DE MAYO DE 2001)</small>
 
-### CAPITULO VI. De los Secretarios Generales
+### CAPITULO IV BIS
+
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2001)</small>
+
+###### Artículo 23-A.
+
+El Comité de Administración es la máxima autoridad administrativa de la Junta Local de Conciliación y Arbitraje del Distrito Federal, mismo que tendrá las siguientes atribuciones indelegables:
+
+I. Establecer las políticas, bases y lineamientos administrativos a los que deberá ajustarse la Junta Local;
+
+II. Aprobar el proyecto de presupuesto de la Junta, el cual se remitirá al Jefe de Gobierno, para el efecto de que se incorpore a la iniciativa del Presupuesto de Egresos del Distrito Federal, que se presenta a la consideración de la Asamblea Legislativa;
+
+III. Establecer sus reglas internas de operación y funcionamiento;
+
+IV. Aprobar las políticas, bases y lineamientos para la suscripción de los convenios, contratos, pedidos y/o acuerdos en materia de obra pública, adquisiciones, arrendamientos y prestación de servicios que deba celebrar la Junta, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+V. Aprobar las estructuras derivadas de la estructura básica de la Junta;
+
+VI. Autorizar la creación de Comités y Subcomités de apoyo a la administración de la Junta;
+
+VII. Aprobar el tabulador de sueldos y prestaciones para el personal de la Junta;
+
+VIII. Aprobar los manuales administrativos de la Junta;
+
+IX. Aprobar los programas de organización, control y modernización de la Junta, y
+
+X. Las demás inherentes a su función de conformidad con las disposiciones jurídicas y administrativas aplicables.
+
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2001)</small>
+
+###### Artículo 23-B.
+
+El Comité de Administración, estará integrado por:
+
+I. El Presidente de la Junta, quien lo presidirá;
+
+II. El Titular de la Secretaría General de Asuntos Individuales, quien tendrá el carácter de Vocal y en las ausencias del Presidente, podrá sustituirlo en las sesiones del Comité;
+
+III. El Titular de la Secretaría General de Asuntos Colectivos, quien tendrá el carácter de Vocal;
+
+IV. El Coordinador General de Administración de la Junta, quien tendrá el carácter de Secretario Técnico y Vocal;
+
+V. Dos Presidentes de Junta Especial, designados por el titular de la Secretaría General de Asuntos Individuales, quienes tendrán el carácter de Vocales;
+
+VI. Dos Secretarios Auxiliares, designados por el titular de la Secretaría General de Asuntos Colectivos, quienes tendrán el carácter de Vocales, y
+
+VII. El Titular de la Contraloría de la Junta Local; quien tendrá el carácter de Asesor.
+
+Los vocales tendrán derecho a voz y voto. En caso de empate el Presidente tendrá voto de calidad.
+
+Las decisiones del Comité se tomarán por el voto de la mitad más uno de sus miembros; así mismo la participación de los integrantes en dicho comité será honorífica.
+
+El Comité de Administración sesionará de manera ordinaria una vez cada tres meses y de manera extraordinaria las veces que sean necesarias.
+
+### CAPITULO V. Del Presidente Titular
 
 ###### Artículo 24.
 
@@ -322,7 +384,7 @@ VIII. Rendir al Presidente de la Junta un informe mensual de las actividades; y
 
 IX. Las demás que le confiera el Presidente.
 
-### CAPITULO VII. De las Juntas Especiales
+### CAPITULO VI. De los Secretarios Generales
 
 ###### Artículo 31.
 
@@ -366,7 +428,7 @@ XVIII. Cuidar los archivos de la Junta; y
 
 XIX. Todas las demás que les sean asignadas por la ley, el reglamento y el Presidente de la Junta.
 
-### CAPITULO VIII. De las Direcciones Generales Jurídicas de la Junta
+### CAPITULO VII. De las Juntas Especiales
 
 ###### Artículo 32.
 
@@ -612,7 +674,7 @@ XIV. Recibir o exigir en razón de su trabajo, cualquier tipo de dádiva gratifi
 
 El personal del Archivo deberá atender a los interesados en horas de labores, en forma atenta y comedida, observando probidad y honradez en el manejo de los expedientes.
 
-### CAPITULO IX. De las Unidades Jurídicas
+### CAPITULO VIII. De las Direcciones Generales Jurídicas de la Junta
 
 ###### Artículo 48.
 
@@ -836,7 +898,7 @@ V. Rendir un informe mensual al Presidente Titular de la Junta, indicando las co
 
 El Director General de Conciliadores, deberá intervenir en los conflictos que se ventilan ante la Junta, en auxilio y a petición de los Titulares de las Juntas Especiales o de las diversas direcciones, con la finalidad de armonizar los intereses de las partes, proponiendo mecanismos de solución al conflicto planteado, que coadyuven a mantener el equilibrio entre los diversos factores de la producción.
 
-### CAPITULO I. De la Dirección General de Administración
+### CAPITULO IX. De las Unidades Jurídicas
 
 ###### Artículo 73.
 
@@ -984,45 +1046,91 @@ IV. Cambiar a los peritos designados en un juicio cuando concurran circunstancia
 
 V. Rendir informe mensual al Presidente Titular de la Junta, que deberá contener el número de dictámenes solicitados y rendidos por materia en las diversas áreas de la Junta.
 
-De la Unidad Jurídica de Quejas
+> <small>(REFORMADA SU DENOMINACION, G.O. 28 DE MAYO DE 2001)</small>
+
+De la Contraloría de la Junta Local
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2001)</small>
 
 ###### Artículo 93.
 
-La Unidad Jurídica de Quejas, estará a cargo de un Jefe, que es personal de confianza, quien tendrá como responsabilidad tramitar las quejas en contra del personal jurídico y administrativo presentadas ante la misma, desde su inicio hasta su terminación.
+La Junta Local de Conciliación y Arbitraje del Distrito Federal, contará con una Contraloría, la cual se encargará de las materias relativas a la fiscalización y evaluación del funcionamiento de la Junta.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2001)</small>
 
 ###### Artículo 94.
 
-El Jefe de la Unidad recibirá y radicará las quejas que se presenten dando cuenta al Presidente Titular, cuidando que contengan el nombre del denunciante o quejoso, la fecha de presentación, la naturaleza de la misma y la autoridad o nombre del funcionario denunciado; una vez verificado lo anterior, dictará auto de radicación.
+La Contraloría de la Junta Local, estará a cargo de un Contralor que será nombrado y removido por el Presidente de la Junta.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2001)</small>
 
 ###### Artículo 95.
 
-En el auto de radicación, se ordenará se cite al quejoso, a fin de que comparezca dentro de los tres días hábiles siguientes al de la notificación, a efecto de que ratifique o amplíe su reclamación, apercibiéndole que en caso de no hacerlo, se archivará la misma por falta de interés.
+La Contraloría de la Junta Local, contará con las atribuciones siguientes:
+
+I. Planear, programar, establecer, organizar y coordinar el sistema de fiscalización y evaluación de la Junta Local;
+
+II. Fiscalizar e inspeccionar los ingresos de la Junta Local;
+
+III. Fiscalizar e inspeccionar el ejercicio del gasto de la Junta Local y su congruencia con el presupuesto de egresos;
+
+IV. Proponer al Comité de Administración o al Pleno, según sea el caso, se expidan las normas que garanticen el buen funcionamiento de la Junta Local;
+
+V. Establecer las bases generales para la realización de auditorías en la Junta Local;
+
+VI. Ordenar y realizar todo tipo de auditorías y evaluaciones a las actividades de la Junta Local, con el objeto de promover la eficacia y eficiencia de la misma, debiendo formular las observaciones y recomendaciones respectivas;
+
+VII. Verificar el cumplimiento de las disposiciones jurídicas y administrativas en materia de información, estadística, organización, procedimientos, sistemas de registros, contabilidad, presupuestación, ingresos, inversión, patrimonio, fondos, valores, pagos al personal, contratación de servicios, obra pública, adquisiciones, arrendamientos; así como conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes, archivos y demás activos de la Junta;
+
+VIII. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las diversas áreas de la Junta Local, así como a proveedores, contratistas y prestadores de servicio, cuando lo estime conveniente;
+
+IX. Coadyuvar en el seguimiento de las observaciones y recomendaciones que la Contaduría Mayor de Hacienda de la Asamblea Legislativa, realice a la Junta Local;
+
+X. Captar, recibir y resolver sobre la procedencia de las quejas y denuncias presentadas en contra de los servidores públicos de la Junta Local, que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión;
+
+XI. Realizar las investigaciones que resulten necesarias para la debida integración de los expedientes relacionados con las quejas y denuncias presentadas por particulares o servidores públicos de la Junta Local;
+
+XII. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
+
+XIII. Substanciar y resolver los procedimientos administrativos en materia de responsabilidades;
+
+XIV. Substanciar y resolver los recursos de revocación que se interpongan en contra de resoluciones que impongan sanciones administrativas a los servidores públicos de la Junta Local;
+
+XV. Auxiliar al Presidente titular en la substanciación de las sanciones a que se refiere el Titulo Doce de la Ley Federal del Trabajo;
+
+XVI. Aplicar las normas y lineamentos que regulen el procedimiento de captación, registro, control, análisis y seguimiento de evolución de situación patrimonial de los servidores públicos de la Junta Local;
+
+XVII. Intervenir en las actas entrega-recepción de las diversas áreas que conforman la Junta Local;
+
+XVIII. Intervenir en los procesos de licitación de bienes, servicios y obra pública, para vigilar que se cumpla con las disposiciones jurídicas y administrativas aplicables, y
+
+XIX. Las demás que le sean inherentes para el cumplimiento de su función de conformidad con las disposiciones jurídicas y administrativas aplicables.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2001)</small>
 
 ###### Artículo 96.
 
-Al recibir la ratificación o la ampliación de la queja, el Jefe de la Unidad deberá dictar el acuerdo en el cual ordenará se gire oficio al servidor público denunciado, corriéndole traslado con copia de la queja y, en su caso, de la ampliación, señalando fecha para audiencia, dentro de los cinco días hábiles siguientes, a la que deberán comparecer personalmente o por conducto de apoderado legal, el denunciante y el servidor público denunciado, debiendo éste dar contestación a la queja o rendir el informe respectivo. Si el trabajador fuese sindicalizado se citará al representante sindical para que intervenga en el procedimiento en defensa del denunciado y alegue lo que a sus intereses convenga, apercibiéndolo que para el caso de no comparecer, se estará a las resultas del procedimiento administrativo sancionador.
+La Contraloría de la Junta Local, contará con el personal jurídico y administrativo necesario para el correcto desempeño de sus funciones.
 
 ###### Artículo 97.
 
-Las partes en esa audiencia, podrán ofrecer pruebas y se resolverá sobre la admisión y desahogo de las mismas.
+(DEROGADO, G.O. 28 DE MAYO DE 2001)
 
 ###### Artículo 98.
 
-Concluido el desahogo de las pruebas, el Jefe de la Unidad Jurídica decretará el cierre de la instrucción y, dentro de los quince días hábiles siguientes, formulará el proyecto de resolución, poniéndolo a consideración del Presidente Titular de la Junta y de los Representantes de los Trabajadores y Patrones de la Junta Especial respectiva, para su firma o modificación.
+(DEROGADO, G.O. 28 DE MAYO DE 2001)
 
 ###### Artículo 99.
 
-El Presidente Titular de la Junta en unión con los Representantes de los Trabajadores y de los Patrones, dictará la resolución. Si ésta es absolutoria, se ordenará el archivo definitivo del expediente. En caso de ser condenatoria, en la misma se establecerán las medidas necesarias, para su debido e inmediato cumplimiento.
-
-Las resoluciones que se emitan no admiten recurso alguno.
+(DEROGADO, G.O. 28 DE MAYO DE 2001)
 
 ###### Artículo 100.
 
-Sin perjuicio de lo señalado en los artículos anteriores, el Jefe de la Unidad, dependiendo de la naturaleza de la queja, observará lo establecido en la Ley Federal del Trabajo, Ley Federal de los Trabajadores al Servicio del Estado, Ley Federal de Responsabilidades de los Servidores Públicos y las Condiciones Generales de Trabajo para el Gobierno del Distrito Federal.
+(DEROGADO, G.O. 28 DE MAYO DE 2001)
 
 ###### Artículo 101.
 
-El Jefe de la Unidad Jurídica de Quejas, deberá rendir mensualmente un informe de labores al Presidente Titular de la Junta, el cual contendrá el número de expedientes en trámite, quejas recibidas y radicadas, naturaleza de cada una de ellas, estado procesal de los procedimientos, juicios terminados y el sentido de las resoluciones.
+(DEROGADO, G.O. 28 DE MAYO DE 2001)
 
 Del Despacho de los Asuntos
 
@@ -1080,7 +1188,7 @@ La práctica de audiencias y diligencias se deberán efectuar en días y horas h
 
 ## TITULO SEGUNDO
 
-### CAPITULO II. De la Unidad de Seguridad y Vigilancia
+### CAPITULO I. De la Dirección General de Administración
 
 ###### Artículo 115.
 
@@ -1548,7 +1656,7 @@ V. Verificar que los choferes de las unidades tengan su documentación vigente p
 
 VI. Rendir al Director de Recursos Materiales y Servicios Generales, un informe diario de las incidencias que se presenten y uno semanal de todas las actividades realizadas por la Oficina a su cargo.
 
-### CAPITULO I. Del Boletín Laboral
+### CAPITULO II. De la Unidad de Seguridad y Vigilancia
 
 ###### Artículo 132.
 
@@ -1576,7 +1684,7 @@ El Jefe de la Unidad de Seguridad y Vigilancia deberá rendir un informe diario 
 
 ## TITULO TERCERO
 
-### CAPITULO II. Del Instituto de Especialización
+### CAPITULO I. Del Boletín Laboral
 
 ###### Artículo 138.
 
@@ -1610,7 +1718,7 @@ V. Entablar relaciones con los demás encargados o directores de boletines de ca
 
 VI. Rendir un informe mensual de sus actividades al Director General de Administración.
 
-### CAPITULO III. De la Biblioteca
+### CAPITULO II. Del Instituto de Especialización
 
 ###### Artículo 143.
 
@@ -1632,7 +1740,7 @@ El Director del Instituto, promoverá permanentemente la impartición de cursos 
 
 Será obligación del Director del Instituto, la aplicación y observancia del reglamento y rendir mensualmente un informe al Presidente Titular de la Junta, los cursos impartidos, el número de personas que asiste, promedio de asistencia, aprovechamiento y expedición de las constancias respectivas.
 
-### CAPITULO IV. Servicios Médicos
+### CAPITULO III. De la Biblioteca
 
 ###### Artículo 148.
 
@@ -1650,7 +1758,7 @@ El encargado de la biblioteca llevará un minucioso inventario de los libros y p
 
 El encargado de la biblioteca será directamente responsable de todo el material bibliográfico existente en la misma, y en caso de extravío o robo de algún libro o publicación deberá dar aviso, inmediatamente, al Presidente Titular de la Junta, por conducto de la Coordinación de Asesores.
 
-### CAPITULO V. Del Personal de la Junta Local de Conciliación y Arbitraje
+### CAPITULO IV. Servicios Médicos
 
 ###### Artículo 152.
 
@@ -1675,6 +1783,8 @@ La atención que brinde el Servicio Médico, básicamente será de consulta y di
 ###### Artículo 157.
 
 El Servicio Médico funcionará en el mismo horario de labores que tiene el personal de la Junta.
+
+### CAPITULO V. Del Personal de la Junta Local de Conciliación y Arbitraje
 
 ###### Artículo 158.
 
@@ -1769,3 +1879,19 @@ Lo no previsto en el presente reglamento, será resuelto conforme a las disposic
 El presente reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal.
 
 México, D.F. 11 de abril del 2000.- el Presidente de la Junta Local de Conciliación y Arbitraje del Distrito Federal.- Dr. José Francisco Becerril Mendoza.- Rúbrica.- (Firma).- El Representante de los Trabajadores ante las Juntas Especiales Uno y Uno Bis.- Lic. Aída Martínez Armenta.- Rúbrica.- (Firma).- El Representante de los Trabajadores ante las Juntas Especiales Dos y Dos Bis.- C. Margarita Muñoz Ortega.- Rúbrica.- (Firma).- El Representante de los Trabajadores ante las Juntas Especiales Tres y Tres Bis.- Lic. Rubelio Esqueda Llanes.- Rúbrica.- (Firma).- El Representante de los Trabajadores ante las Juntas Especiales Cuatro y Cuatro Bis.- C. Alejandro Herrera Hernández.- Rúbrica.- (Firma).- El Representante de los Trabajadores ante las Juntas Especiales Cinco y Cinco Bis.- C. Jorge Rivera Gómez.- Rúbrica.- (Firma).- El Representante de los Trabajadores de las Juntas Especiales Seis y Seis Bis.- C. Sergio Peña Nuñez.- Rúbrica.- (Firma).- El Representante de los Trabajadores ante las Juntas Especiales Siete y Siete Bis.- Lic. Oscar López Fuentes.- Rúbrica.- (Firma).- El Representante de los Trabajadores ante la Junta Especial Ocho.- C. Carlos Garduño Velázquez.- Rúbrica.- (Firma).- El representante de los Patrones ante las Juntas Especiales Uno y Uno Bis.- Lic. Eduardo Preciat Castilla.- Rúbrica.- (Firma).- El Representante de los Patrones ante las Juntas Especiales Dos y Dos Bis.- Lic. Ernesto Solórzano Alexander.- Rúbrica.- (Firma).- El Representante de los Patrones ante las Juntas Especiales Tres y Tres Bis.- Lic. Mario Roberto Carmona Angel.- Rúbrica.- (Firma).- El Representante de los Patrones ante las Juntas Especiales Cuatro y Cuatro Bis.- Lic. Carlos Aguirre Saavedra.- Rúbrica.- (Firma).- El Representante de los Patrones ante las Juntas Especiales Cinco y Cinco Bis.- Lic. Aldo Ernesto Cortizo Molina.- Rúbrica.- (Firma).- El Representante de los Patrones ante las Juntas Especiales Seis y Seis Bis.- Lic. Humberto Flores Palacios.- Rúbrica.- (Firma).- El Representante de los Patrones ante las Juntas Especiales Siete y Siete Bis.- Lic. Jorge Enrique Pareja Aguilar.- Rúbrica.- (Firma).- El Representante de los Patrones ante la Junta Especial Ocho.- Lic. Lydia Patricia Cano Vargas.- Rúbrica.- (Firma).- El Secretario General de Registro de Asociaciones.- Lic. Guadalupe Esther Guerrero López.- Rúbrica.- (Firma).- El Secretario General de Acuerdos.- Lic. Agustín Aguilar Tovar.- Rúbrica.- (Firma).-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO INTERIOR.</small>
+
+G.O. 28 DE MAYO DE 2001.
+
+PRIMERO.- Se derogan todas aquellas disposiciones contenidas en el Reglamento Interior de la Junta Local de Conciliación y Arbitraje del Distrito Federal, que se opongan al contenido del presente Acuerdo.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El Comité de Administración deberá celebrar su sesión de integración e instalación en un plazo no mayor a 30 días naturales, a partir de la publicación del presente Acuerdo.
+
+CUARTO.- Derivado de la presente modificación para todos los efectos legales y administrativos, las referencias hechas en el Reglamento Interior de la Junta Local, a la Dirección General de Administración, se entenderán hechas a la Coordinación General de Administración; a la Dirección de Recursos Materiales, se entenderán hechas a la Coordinación de Recursos Materiales; a la Dirección de Recursos Humanos, se entenderán hechas a la Coordinación de Recursos Humanos; a la Dirección de Recursos Financieros, se entenderán hechas a la Coordinación de Recursos Financieros; a las Secretarías Generales se entenderán hechas a la Secretaría General de Asuntos Individuales y a la Secretaría General de Asuntos Colectivos; a la Dirección General de Amparos se entenderán hechas a la Secretaría Auxiliar de Amparos; a la Dirección General de Conciliadores, se entenderán hechas a la Secretaría Auxiliar de Conciliadores; a la Dirección General de Huelgas, se entenderán hechas a la Secretaría Auxiliar de Huelgas; a la Dirección General de Contratos Colectivos, se entenderán hechas a la Secretaría Auxiliar de Contratos Colectivos; a la Dirección General de Conflictos Colectivos se entenderán hechas a la Secretaría Auxiliar de Conflictos Colectivos; a la Dirección General de Registro y Actualización Sindical, se entenderán hechas a la Secretaría Auxiliar de Registro y Actualización Sindical.
+
+Las referencias hechas en el artículo 123 del Reglamento Interior de la Junta Local, a la Dirección de Informática y Servicios de Cómputo se entenderán hechas a la Coordinación de Informática y Sistemas, misma que dependerá directamente del Presidente de la Junta Local.
+
+QUINTO.- Los asuntos que a la entrada en vigor del presente Acuerdo se encuentren en trámite ante la Unidad Jurídica de Quejas, deberán ser concluidos por ésta de conformidad con el anterior procedimiento y una vez resueltos los mismos, dicha Unidad dejará de funcionar.
