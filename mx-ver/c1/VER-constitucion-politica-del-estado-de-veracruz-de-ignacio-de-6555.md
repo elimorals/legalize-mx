@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1917-09-25"
+last_updated: "1920-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 1920.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -115,9 +115,11 @@ DE LA FORMA DE GOBIERNO Y DE LA MANERA DE ELEGIR A LOS FUNCIONARIOS PÚBLICOS.
 
 Todos los vecinos de un Municipio y los transeuntes que se hallen en él, están obligados a prestar sus servicios, según las facultades de cada uno, en casos de calamidad pública, siempre que los medios de que pueda disponer la autoridad resulten insuficientes.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+
 ###### Artículo 18.
 
-Solamente serán obligatorios, en los términos que dispongan las leyes relativas, los siguientes servicios públicos: el de las armas, los de jurado, los cargos concejiles y los cargos de elección popular, directa o indirecta; y obligatorias y gratuitas, las funciones electorales.
+Solamente serán obligatorios en los términos que dispongan las leyes relativas, los siguientes servicios públicos: el de las armas, los cargos de elección popular, directa o indirecta por los que se disfrute sueldo; y obligatorios los cargos concejiles, aunque fueren gratuitos y de elección popular, los de jurado y las funciones electorales.
 
 ###### Artículo 19.
 
@@ -379,7 +381,9 @@ Los Diputados son inviolables por las opiniones manifestadas en el ejercicio de 
 
 No podrán ser procesados por delitos comunes, sin que preceda la declaración de la Legislatura de haber lugar a formación de causa.
 
-### CAPITULO IV.. DE LA FORMACIÓN Y PUBLICACIÓN DE LAS LEYES
+### CAPITULO IV.
+
+DE LA FORMACIÓN Y PUBLICACIÓN DE LAS LEYES.
 
 ###### Artículo 66.
 
@@ -431,7 +435,9 @@ XI. Declarar, cuando se trate de delitos comunes, si hay lugar a formación de c
 
 XII. Conocer, como jurado de calificación, en las causas de responsabilidad de los mismos, por delitos cometidos en el ejercicio de sus funciones;
 
-XIII. Nombrar, a propuesta en terna del Gobernador, al Tesorero General del Estado;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1920)</small>
+
+XIII. Nombrar a propuesta en terna del Ejecutivo, al Tesorero General y al Jefe de la Dirección General de Educación;
 
 XIV. Fijar anualmente los gastos públicos y decretar las contribuciones con que hayan de ser cubiertos, en vista del Presupuesto que el Ejecutivo presente.
 
@@ -469,7 +475,9 @@ XXIX. Conceder cartas de ciudadanía a los vecinos de otros Estados que fueren a
 
 XXX. Reahabilitar (sic), con arreglo a las leyes, a los que por sentencia pronunciada en el Estado hayan perdido los derechos de ciudadanía, civiles o de familia;
 
-XXXI. Constituirse en Colegio Electoral y nombrar los Magistrados del Tribunal Superior de Justicia del Estado y el Procurador General de Justicia del mismo;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1920)</small>
+
+XXXI. Constituirse en Colegio Electoral y nombrar a los Magistrados propietarios y supernumerarios del Tribunal Superior de Justicia del Estado y al Procurador General del mismo;
 
 XXXII. Constituirse en Colegio Electoral y elegir al ciudadano que deba substituir al Gobernador del Estado, ya sea con el carácter de substituto o de provisional, en los términos del artículo 86 de esta Constitución;
 
@@ -497,7 +505,9 @@ XLIII. Conceder pensiones o auxilios a los empleados públicos que, por enfermed
 
 XLIV. Promover lo necesario para la difusión y mejoramiento de la educación en el Estado y legislar sobre enseñanza primaria y universitaria, conforme a las siguientes bases:
 
-A. El gobierno de la enseñanza primaria estará a cargo de la Dirección General de Educación, cuyo Jefe será electo por el profesorado primario, tardará cuatro años en su encargo y puede ser reelecto. Esta Dirección será autónoma y estará facultada para iniciar leyes sobre el ramo ante la Legislatura del Estado. La ley general de enseñanza determinará el alcance de aquella autonomía;
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+
+A. El Gobierno de la Enseñanza primaria, estará a cargo de la Dirección General de Educación, cuyo Jefe será nombrado por la Legislatura en los términos prevenidos por la fracción XIII y durará indefinidamente en su encargo.- Esta Dirección será autónoma en lo que se refiere únicamente a la parte técnica, pudiendo por lo que a esa parte corresponde iniciar ante la misma Legislatura, las leyes respectivas. La Ley General de Enseñanza determinará el alcance de aquella autonomía, la intervención que deba tener el Ejecutivo y las causas por las cuales podrá ser removido el Jefe de la Dirección General;
 
 B. Además de lo prevenido en el artículo 3° de la Carta Magna, la enseñanza que se imparta oficialmente debe ser racional y armónica;
 
@@ -511,13 +521,17 @@ E. La enseñanza técnica, la secundaria, la profesional y la de altos estudios,
 
 F. La Universidad Veracruzana estará formada por los educadores y profesionales en cualquiera ciencia o arte, con título o sin él que residan en el Estado. La ley general de enseñanza determinará los requisitos exigidos para ser miembro de la Universidad;
 
-G. El Cuerpo Directo de la Universidad o Consejo Universitario, estará constituído por todos los directores de las facultades, presididos por un Rector. Dentro del Consejo habrá un representante del Ejecutivo, y accidentalmente los de los Municipios que deseen tener voz en aquél. El Rector será electo por el profesorado universitario, tardará en su encargo cuatro años y puede ser reelecto;
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+
+G. El Cuerpo Director de la Universidad o Consejo Universitario, estará constituído por todos los Directores de las facultades, presididos por el Gobernador del Estado, quien podrá delegar estas atribuciones en un funcionario nombrado por él y que se llamará "Rector del Consejo Universitario".- Dentro del Consejo podrá haber un representante de los Municipios que deseen tener voz en aquél;
 
 H. La Universidad constará de cuantas facultades e instituciones acuerde el Consejo Universitario, las cuales deben fundarse y atenderse de acuerdo con el siguiente orden de preferencia: I. Enseñanza agrícola, industrial, de artes y oficios y comercial; II. Enseñanza secundaria que tendrá, como la primaria, los caracteres de racional y armónica; III. Enseñanza profesional y artística; y IV. Altos estudios;
 
 Y (SIC). La Universidad tendrá a su cargo, además de las facultades, todo lo relativo a bibliotecas públicas, museos, observatorios, gabinetes públicos de ciencias experimentales, universidades populares y demás instituciones concernientes a la cultura general;
 
-J. El Estado, por medio de la Dirección General de Educación y de la Universidad, ejercerá la sobre-vigilancia necesaria en las escuelas municipales y particulares; y
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+
+J. El Ejecutivo del Estado, por medio de Inspectores o por conducto de la Dirección General de Educación o de la Universidad, ejercerá la sobre-vigilancia necesaria en las Escuelas Municipales y Particulares, en los términos que dispongan las leyes relativas; y
 
 K. La Legislatura señalará los arbitrios que se han de aplicar al sostenimiento de la enseñanza, en vista de los presupuestos de gastos que presentarán oportunamente, la Dirección General y la Universidad. Las contribuciones y rentas destinadas a las escuelas, no podrán ser distraídas para otro objeto.
 
@@ -601,25 +615,27 @@ V. Ser del estado seglar.
 
 Los Ayuntamientos durarán en su cargo dos años y no podrán ser reelectos.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+
 ###### Artículo 114.
 
-La ley reglamentaria municipal se sujetará a las bases siguientes:
+La Ley reglamentaria Municipal se sujetará a las bases siguientes:
 
 I. Los Municipios administrarán libremente su hacienda, la cual se formará de las contribuciones municipales que señale la Legislatura;
 
 II. El Estado puede percibir un tanto por ciento, que señalará la Legislatura, sobre las rentas municipales, en el caso de que sus propios recursos no basten para cubrir sus servicios; y recíprocamente, señalará a los Municipios cantidades supletorias tomadas de su erario, cuando dichos Municipios no perciban lo suficiente para atender a sus necesidades;
 
-III. La ley que organice los Municipios, su número y las condiciones para la creación de nuevos, cuidará que queden constituídos por el número de habitantes suficientes para que puedan vivir con sus propios elementos;
+III. Al organizar los Municipios y fijar su número y condiciones para la creación de otros nuevos, cuidará de que queden constituídos por el mayor número de habitantes para que puedan vivir con sus propios elementos;
 
 IV. El Ejecutivo del Estado podrá nombrar Inspectores con el objeto de examinar la contabilidad, verificar las entradas y salidas de los fondos, vigilar los servicios públicos e informar sobre las faltas que en todos los ramos encontraren, de acuerdo, en cada caso, con las instrucciones que reciban;
 
-V. Cada Ayuntamiento nombrará y removerá libremente sus Jueces Municipales; y
-
-VI. Cada año los Municipios remitirán a la Legislatura, para su revisión y aprobación, las cuentas del anterior y los presupuestos para el siguiente.
+V. Cada año los Municipios remitirán a la Legislatura para su revisión y aprobación, las cuentas del anterior y los presupuestos para el siguiente.
 
 ### CAPITULO VIII.
 
 DEL TRIBUNAL SUPERIOR DE JUSTICIA.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
 ###### Artículo 91.
 
@@ -647,11 +663,13 @@ Se reputará aprobado por el Poder Ejecutivo todo proyecto no devuelto con obser
 
 ###### Artículo 95.
 
-El Tribunal Superior de Justicia se compondrá de nueve Magistrados, debiendo ser presidido por el que elija el mismo Cuerpo. El Presidente durará un año en su encargo, pudiendo ser reelecto. Cada Magistrado del Tribunal Superior, al entrar a ejercer su encargo, protestará, ante la Legislatura y, en su receso, ante la Diputación permanente, guardar y hacer guardar la Constitución General, la particular del Estado y las leyes que de ambas emanen, mirando en todo por el bien y prosperidad del Estado. Los jueces inferiores protestarán ante el Tribunal Superior o ante la autoridad que determine la Ley.
+El Tribunal Superior de Justicia se compondrá de nueve Magistrados propietarios y cuatro supernumerarios, debiendo ser presidido por el Magistrado que elija el mismo Cuerpo.- El Presidente durará un año en su encargo pudiendo ser reelecto. Los Magistrados supernumerarios suplirán las faltas, excusas o impedimentos de los propietarios. Cada Magistrado del Tribunal Superior al entrar a ejercer su encargo protestará ante la Legislatura y en los recesos de ésta, ante la Diputación Permanente, guardar y hacer guardar la Constitución General, la Particular del Estado y las Leyes que de ambas emanen, mirando por el bien y prosperidad del Estado, así como impartir pronta y recta justicia.- Los supernumerarios que al suplir a los propietarios hayan rendido una vez la anterior protesta, no tendrán que repetirla.- Los Jueces de Primera Instancia protestarán ante el Presidente del Tribunal o ante la autoridad judicial que el mismo Presidente designe.- Los Jueces Municipales y los Auxiliares, protestarán los primeros, ante los Jueces primeros o únicos de Primera Instancia; y los segundos ante los Jueces Municipales primero o únicos.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
 ###### Artículo 96.
 
-Para ser Magistrado, se requiere:
+Para ser Magistrado propietario o supernumerario, se requiere:
 
 I. Ser veracruzano, conforme lo determina el artículo 13, o mexicano por nacimiento, con vecindad de cinco años cumplidos en el Estado;
 
@@ -663,19 +681,33 @@ IV. Ser profesor titulado en la ciencia del Derecho y tener, cuando menos, cinco
 
 V. No tener empleo, cargo o comisión de otros Estados, ni de la Federación, o renunciarlos y estar separado de ellos antes de tomar posesión; y
 
-VI. Gozar de buena reputación y no haber sido condenado por delito del orden común que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otros, que lastimen la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1920)</small>
+
+VI. Gozar de buena reputación y no haber sido condenado por delito grave que merezca pena corporal de más de una año de prisión; pero si se tratare de delitos oficiales, de robo, fraude, estafa, falsificación, abuso de confianza u otros que lastimen la fama en el concepto público o fueren de los que causen afrenta, inhabilitará para el cargo cualquiera que haya sido la pena.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
 ###### Artículo 97.
 
-Los Magistrados que componen el Tribunal Superior de Justicia del Estado y el Procurador General de Justicia, serán nombrados por la Legislatura en funciones de Colegio Electoral, siendo indispensable que concurran, cuando menos, las dos terceras partes del número total de sus miembros. La elección se hará en escrutinio secreto y por mayoría absoluta de votos, previa discusión de las candidaturas presentadas. Si no se obtuviere mayoría absoluta en la primera votación, se repetirá entre los dos candidatos que hubieren obtenido más votos.
+Los Magistrados propietarios, los supernumerarios y el Procurador General de Justicia, serán electos por la Legislatura en funciones de Colegio Electoral, siendo indispensable que concurran cuando menos, las dos terceras partes del número total de sus miembros.- La elección se hará en escrutinio secreto y por mayoría absoluta de votos, previa discusión de las candidaturas que deberán presentarse con cinco días de anticipación, como término mínimo a la fecha de la elección.- Si no hubiere mayoría absoluta en la primera votación, se repetirá entre los dos candidatos que hubieren obtenido más votos.- Los Jueces de Primera Instancia que reúnan los requisitos prevenidos para poder ser electos Magistrados y que se hayan distinguido por su laboriosidad, eficacia, competencia y honradez en el ejercicio de sus funciones, serán preferidos a cualquiera otro abogado para ser designado Magistrado.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
 ###### Artículo 98.
 
-Los Jueces de Primera Instancia, serán nombrados por el Tribunal Superior de Justicia y tendrán los requisitos que exija la ley.
+Los Jueces de Primera Instancia serán nombrados por el Tribunal Superior de Justicia y tendrán los requisitos que exija la Ley, la que sobre este punto establecerá la carrera judicial.
+
+Los Jueces Municipales serán nombrados por el Tribunal a propuesta en terna de los Jueces primeros o únicos de Primera Instancia de cada Distrito Judicial; y los Auxiliares serán nombrados por los Jueces Municipales con aprobación del H. Tribunal; y unos y otros deberán tener los requisitos que determine la Ley.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
 ###### Artículo 99.
 
-Los Magistrados del Tribunal Superior, el Procurador General de Justicia y los Jueces de Primera Instancia, no podrán ser removidos a menos que observen mala conducta y previo el juicio de responsabilidad respectivo, excepción hecha del caso en que sean nombrados para un grado superior. La remuneración que reciban por sus servicios, no podrá ser disminuída mientras desempeñen sus empleos.
+Los Magistrados propietarios, los supernumerarios y el Procurador General, durarán en su encargo seis años a partir de la fecha de su elección, pudiendo ser reelectos siempre que se hubieren distinguido en el ejercicio de sus funciones por medio de una labor ecuánime y efectiva para el mejoramiento de la Administración de Justicia en el Estado.
+
+Los Jueces de Primera Instancia y los Municipales, durarán indefinidamente en sus cargos, pudiendo ser removidos cuando lo estimare necesario el Tribunal, por mayoría absoluta de votos de los Magistrados presentes o en los casos que determine la Ley de Responsabilidades respectiva, así como en los casos de ascensos, o cuando sean nombrados para un grado superior.- La remuneración que disfruten los funcionarios judiciales no podrá ser disminuída mientras se encuentren en el desempeño de sus cargos.
+
+Los Jueces Auxiliares cuyo cargo se estimará concejil durarán en funciones un año, pudiendo ser nombrados nuevamente para el siguiente; pero sin que tengan obligación de servir por más de dos años.
 
 ###### Artículo 100.
 
@@ -689,41 +721,57 @@ Jamás podrán reunirse en el Tribunal, dos o más Magistrados que sean pariente
 
 Los cargos de Magistrado del Tribunal Superior y de Procurador, sólo son renunciables por causa grave calificada por la Legislatura, ante la que se presentará la renuncia. En los recesos de ésta, la calificación se hará por la Diputación permanente.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+
 ###### Artículo 103.
 
-Las faltas temporales de un Magistrado del Tribunal Superior que no excedieren de un mes, no se suplirán si tuviere quórum para sus sesiones; pero si no lo hubiere, la Legislatura, o en su receso, la Diputación permanente nombrará, por el tiempo que dure la falta, un suplente. Si la falta fuere de más de un mes, la Legislatura, o en su caso, la Diputación permanente, nombrará un Magistrado provisional. Si faltare un Magistrado por defunción, renuncia o incapacidad, la Legislatura, hará nueva elección en los términos prescriptos (sic) por el artículo 97. Si la Legislatura no estuviere en sesiones, la Diputación permanente hará un nombramiento provisional mientras se reúne aquélla y hace la elección correspondiente.
+Los Magistrados propietarios del Tribunal Superior de Justicia, en sus faltas temporales que excedieren de cinco días y no pasaren de seis meses, serán substituídos por los supernumerarios en el orden de la elección de éstos.- En sus excusas o impedimentos se substituirán recíprocamente en el orden que determine la Ley; pero los supernumerarios deberán ser llamados a integrar Sala, cuando lo acordare el Presidente del Tribunal o la mayoría de los Magistrados propietarios estuviere impedida.- En estos casos deberán ser llamados por el mismo Presidente.- Si faltare un Magistrado propietario por defunción, renuncia, suspensión definitiva, incapacidad o por cualquiera otra circunstancia dentro de los seis meses restantes para cumplir su período, la falta será suplida por el supernumerario que corresponda; en caso contrario, la Legislatura hará nueva elección en los términos prevenidos por el artículo 97.- Si la Legislatura no estuviere en funciones, la Diputación Permanente hará un nombramiento provisional, mientas se reúne aquélla y hace la elección correspondiente.- Si faltare algún supernumerario, la Legislatura o la Diputación Permanente harán nuevo nombramiento según los casos, pero el nombrado por la segunda tendrá el carácter de provisional en tanto que la primera ratifica o hace nuevo nombramiento.
 
-Las licencias de los Magistrados, cuando no excedan de un mes, serán concedidas por el Tribunal Superior, pero las que excedieren de ese tiempo y las del Procurador, las concederá la Legislatura, o en su defecto, la Diputación permanente.
+Las licencias de los Magistrados, cuando no excedan de un mes, serán concedidas por el Tribunal Superior, pero las que excedieren de ese tiempo y las del Procurador, las concederá la Legislatura, o en su defecto, la Diputación Permanente.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
 ###### Artículo 104.
 
-Los Magistrados del Tribunal Superior, el Procurador de Justicia del Estado, los Jueces de Primera Instancia y los respectivos Secretarios, no podrán, en ningún caso, aceptar ni desempeñar empleo o cargo de la Federación, del Estado o de particulares, salvo los cargos honoríficos en asociaciones científicas, literarias y de beneficencia. La infracción de esta disposición será castigada con la pérdida del cargo.
+Los Magistrados propietarios y supernumerarios del Tribunal Superior, el Procurador General de Justicia del Estado, los Jueces de Primera Instancia y los respectivos Secretarios, no podrán servir o desempeñar al mimo tiempo, ningún otro empleo o cargo de la Federación, del Estado, del Municipio o de particulares, salvo los cargos honoríficos en asociaciones científicas, literarias, de beneficencia o de instrucción.- La infracción de esta disposición, será castigada con la pérdida del cargo.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
 ###### Artículo 105.
 
 Corresponde al Tribunal Superior:
 
-I. Iniciar, ante la Legislatura, las leyes y decretos que tengan por objeto mejorar la legislación civil, penal y de procedimientos judiciales;
+I. Iniciar ante la Legislatura las Leyes y Decretos que tengan por objeto mejorar la Legislación civil, penal y de organización de Tribunales;
 
-II. Conocer, como Jurado de sentencia, de las causas de responsabilidad que hubieren de formarse por delitos oficiales, a los Diputados, al Gobernador, a los miembros del Tribunal, al Secretario de Gobierno, a los miembros de los Ayuntamientos y al Procurador General de Justicia del Estado;
+II. Conocer como jurado de sentencia de las causas de responsabilidad que hubieren de formarse por delitos oficiales, al Gobernador, a los Diputados y a los miembros de los Ayuntamientos;
 
-III. Nombrar los Jueces de Primera Instancia y admitirles su renuncia, concederles, sin sueldo, las licencias que soliciten para separarse del despacho, y suspenderlos, hasta por tres meses, por causa grave justificada que no dé motivo a que se les enjuicie;
+III. Conocer, en los términos que fije la Ley respectiva, en pleno, de los instructivos de responsabilidad que hayan de formarse a sus miembros, al Procurador General, al Secretario de Gobierno, al Tesorero General del Estado, y a los Jueces de Primera Instancia, hasta resolver si ha lugar o no a formación de causa;
 
-IV. Conceder licencia, que no pase de un mes, y sin goce de sueldo, a sus empleados y a los de los Juzgados de Primera Instancia;
+IV. Nombrar a los Jueces de Primera Instancia teniendo presente lo que disponga la Ley respecto a la carrera judicial, removerlos de un Juzgado a otro o a distinto Distrito, por vía de ascenso, admitirles sus renuncias, concederles, sin goce de sueldo, las licencias que soliciten para separarse del Despacho, suspenderlos hasta por tres meses, por causa grave justificada que no dé lugar a que se les enjuicie e imponerles las demás penas económicas que determinen las Leyes;
 
-V. Nombrar y remover libremente a los empleados de sus Secretarías, castigar sus faltas con suspensión y admitir sus renuncias;
+V. Nombrar a los Jueces Municipales en los términos establecidos por el último inciso del artículo 98 y aprobar los nombramientos de los Jueces Auxiliares;
 
-VI. Hacer el examen de recepción de Abogados y Escribanos, salvo lo que disponga la ley a propósito de la Universidad del Estado;
+VI. Conceder licencias sin goce de sueldos a sus empleados, y cuando excedieren de tres meses a los de los Juzgados de Primera Instancia y a los Jueces Municipales, también sin goce de sueldo, así como a los Auxiliares, a los Defensores de Pobres y a los Visitadores Judiciales;
 
-VII. Formar su Reglamento interior;
+VII. Nombrar y remover libremente a los Defensores de Pobres, Visitadores Judiciales, a los demás empleados de sus Secretarías, castigar sus faltas con multa o suspensión y admitir sus renuncias;
 
-VIII. Dirimir los conflictos que surjan entre los Municipios y cualquiera de los Poderes del Estado; y los de los Poderes entre sí, siempre que tales conflictos no sean de la competencia de la Suprema Corte de Justicia de la Nación, conforme al artículo 105 de la Constitución General de la República; y
+VIII. Hacer el examen de recepción de Abogados y Escribanos, salvo lo que disponga la ley a propósito de la Universidad del Estado;
 
-IX. Ejercer las demás atribuciones que le señalen las leyes.
+IX. Formar su Reglamento Interior;
+
+X. Dirimir los conflictos que surjan entre los Municipios y cualquiera de los Poderes del Estado; y los de los demás poderes entre sí, siempre que tales conflictos no sean de la competencia de la Suprema Corte de Justicia de la Nación, conforme al artículo 105, de la Constitución General de la República; y
+
+XI. Ejercer las demás atribuciones que les señalen las leyes.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
 ###### Artículo 106.
 
-El cargo de Juez de Primera Instancia es renunciable; y sólo por motivos muy fundados que no coarten la libertad de los funcionarios no aceptará el Tribunal la renuncia.
+El cargo de Juez de Primera Instancia es renunciable; y sólo por motivos muy fundados que no coarten la libertad de los funcionarios, no aceptará el Tribunal la renuncia.
+
+Los Jueces de Primera Instancia tendrán las atribuciones que les señalen las Leyes; nombrarán y removerán libremente a sus empleados y podrán conceder a éstos, a los Jueces Municipales y a los Auxiliares, licencia sin goce de sueldo a los que lo devenguen hasta por tres meses, dando aviso al Tribunal.- El nombramiento de Secretario de los Juzgados de Primera Instancia se hará con aprobación del Presidente del Tribunal, quien podrá retirarla cuando existiere causa grave para ello.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
 ###### Artículo 74.
 
@@ -741,9 +789,9 @@ DE LA HACIENDA Y CRÉDITO DEL ESTADO Y DE LA TESORERÍA GENERAL.
 
 ###### Artículo 107.
 
-El Ministerio Público, a cuyo cargo está velar por la exacta observancia de las leyes de interés general, será desempeñado en el Estado por el Procurador General y los Agentes de dicho Ministerio.
+La Ley organizará debidamente los Cuerpos de Visitadores Judiciales y de Defensores de Pobres, como dependencias del H. Tribunal.
 
-La Ley Orgánica del Ministerio Público, determinará las atribuciones de los funcionarios que lo forman y los requisitos necesarios para ser Agente.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
 ###### Artículo 76.
 
@@ -777,9 +825,13 @@ Para los delitos oficiales se concede acción popular, sin obligación de consti
 
 Siempre que se trate de algún delito del orden común cometido por algún Diputado, por el Gobernador, por algún Magistrado, por el Procurador General o por el Secretario de Gobierno, la Legislatura, erigida en Jurado, declarará, por los dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador, y por mayoría, cuando se trate de otros funcionarios, si ha lugar o no a formación de causa. En caso negativo no habrá lugar a procedimiento ulterior. En el afirmativo, quedará el acusado, por el mismo hecho, separado de su encargo y sujeto a la acción de los Tribunales comunes. La declaración de haber lugar a formación de causa contra un funcionario de elección popular se requiere desde la fecha en que haya sido declarado electo.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+
 ###### Artículo 124.
 
-De los delitos oficiales de los funcionarios que expresa el artículo anterior y de los miembros de los Ayuntamientos, conocerán: la Legislatura como Jurado de acusación y el Tribunal Superior de Justicia como Jurado de sentencia. El Jurado de acusación tendrá por objeto declarar, por el mismo número de votos de que habla el artículo que precede, si el acusado es o no culpable. Si la declaración fuere absolutoria, el funcionario continuará en el ejercicio de su encargo. Si fuere condenatoria, quedará separado inmediatamente de dicho encargo y será puesto a disposición del Tribunal Superior de Justicia. Este, en Tribunal pleno, erigido en Jurado de sentencia, con audiencia del reo, de su defensor y del Procurador General, procederá a aplicar, por mayoría absoluta de votos, la pena que la ley designe.
+De los delitos oficiales cometidos por el Gobernador, los Diputados, y los miembros de los Ayuntamientos, conocerán: la Legislatura como jurado de acusación y el Tribunal Superior de Justicia como jurado de sentencia. El jurado de acusación tendrá por objeto declarar, por el mismo número de votos de que habla el artículo que procede, si el acusado es o no culpable.- Si la declaración fuere absolutoria, el funcionario continuará en el ejercicio de su cargo.- Si fuere condenatoria, quedará separado inmediatamente de dicho encargo y será puesto a disposición del Tribunal Superior de Justicia.- Este, en Tribual pleno erigido en jurado de sentencia con audiencia del reo, de su defensor y del Procurador General, procederá a aplicar por mayoría absoluta de votos, la pena que la ley designe.- Cuando se trate de algún otro funcionario de los que menciona el artículo anterior, del Tesorero General y de los Jueces de Primera Instancia, el Tribunal en pleno conocerá del instructivo de responsabilidad correspondiente, con audiencia del Procurador General o de quien haga sus veces, hasta declarar por mayoría de votos, si ha lugar o no a formación de causa.- En caso negativo no habrá lugar a ningún procedimiento ulterior.- En el afirmativo, se procederá a suspender provisionalmente al funcionario acusado, quien no disfrutará de sueldo durante la suspensión y será juzgado por una de las Salas del Tribunal en primera instancia, conociendo en segunda la Sala que siga en número.
+
+Los Jueces de Primera Instancia encargados del ramo penal o mixtos, conocerán con audiencia del Ministerio Público, de los instructivos de responsabilidad que se inicien en contra de los Jueces Municipales y Jueces Auxiliares, y en primera instancia de los procesos respectivos; en segunda conocerán las Salas del Tribunal, según proceda, observándose para la suspensión provisional y privación de sueldo en su caso, lo prevenido en el inciso anterior.
 
 ###### Artículo 125.
 
@@ -919,11 +971,13 @@ Todos los funcionarios públicos de elección popular, percibirán, por sus serv
 
 Todos los funcionarios y empleados del Estado y del Municipio, al entrar a desempeñar sus cargos, harán protesta formal de guardar y cumplir la Constitución General de la República, la particular del Estado y todas las leyes que de ambas emanen.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+
 ###### Artículo 136.
 
-El Gobernador, los Magistrados, el Procurador General del Estado, los Jueces que disfruten sueldo, los Presidentes Municipales, el Secretario de Gobierno y los Secretarios del Tribunal y Juzgados, no podrán funcionar como árbitros o arbitradores, ni ejercer la abogacía ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a las personas que estén bajo su patria potestad. La infracción de este artículo será causa de responsabilidad.
+El Gobernador, los Magistrados propietarios, los supernumerarios, cuando estos últimos estén en funciones, el Procurador General del Estado, los Jueces de Primera Instancia, los Presidentes Municipales, el Secretario de Gobierno, los Secretarios del Tribunal, los Visitadores Judiciales permanentes y los Secretarios de los Juzgados, no podrán funcionar como árbitros o arbitradores ni ejercer la abogacía ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a personas que estén bajo su patria potestad o marital.- La infracción de este artículo será causa de responsabilidad.
 
-Esta prohibición no comprende a los funcionarios o empleados que no estén en el ejercicio de sus funciones, por hallarse disfrutando de licencia sin goce de sueldo.
+Esta prohibición no comprende a los funcionarios o empleados que no estén en el ejercicio de sus funciones por hallarse disfrutando de licencia sin goce de sueldo.
 
 ###### Artículo 137.
 
@@ -957,11 +1011,17 @@ La persona que asuma el Poder Ejecutivo, convocará, desde luego, a elecciones s
 
 ###### Artículo 108.
 
-La Ley organizará el Ministerio Público del Estado, cuyos funcionarios serán nombrados y removidos libremente por el Procurador General de Justicia. Este funcionario deberá tener las cualidades requeridas para ser Magistrado y presidirá aquella institución.
+El Ministerio Público a cuyo cargo está velar por la exacta observancia de las leyes de interés general, será desempeñado en el Estado por el Procurador General y los Agentes de dicho Ministerio.
+
+El Procurador General del Estado será el Jefe de la Institución, nombrará y removerá libremente a sus empleados y a los Agentes del Ministerio Público y reunirá las mismas condiciones exigidas para poder ser Magistrado.
+
+La Ley Orgánica del Ministerio Público determinará las atribuciones de los funcionarios que lo formen y los requisitos necesarios para ser Agente.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
 ###### Artículo 109.
 
-Las faltas temporales del Procurador que no excedan de cinco días, serán suplidas por el Agente que él designe; las de mayor tiempo, que no sean absolutas, se suplirán por el Magistrado supernumerario que designe la Legislatura o la Diputación permanente; y en caso de falta absoluta se hará nueva elección por la Legislatura. Si ésta no estuviere reunida, el nombramiento lo hará, con el carácter de provisional, la Diputación permanente.
+Las faltas temporales del Procurador que no excedan de cinco días, serán suplidas por el Agente que él designe; las de mayor tiempo y las absolutas se suplirán por el Magistrado supernumerario que la Legislatura o la Comisión permanente designe, y sólo cuando la falta absoluta ocurra antes de los seis últimos meses para la terminación del período, se procederá a nueva elección.
 
 ###### Artículo 80.
 
@@ -1095,7 +1155,9 @@ XIII. Impedir los abusos de la fuerza armada, contra los ciudadanos y los pueblo
 
 XIV. Nombrar y remover libremente al Secretario de Gobierno y a los empleados de la Secretaría; concederles, sin sueldo, las licencias que soliciten; suspender a los empleados hasta por tres meses, por faltas comprobadas en el desempeño de sus obligaciones y que no den motivo a que se les instruya causa o a que se les destituya;
 
-XV. Proponer a la Legislatura, por medio de terna, el nombramiento de Tesorero General del Estado, y aprobar los nombramientos de empleados, hechos por los Jefes de Oficina en el ramo gubernativo y en el de Hacienda;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1920)</small>
+
+XV. Proponer a la Legislatura por medio de terna el nombramiento del Jefe de la Dirección General de Educación, del Tesorero General del Estado, y aprobar los nombramientos de empleados hechos por los Jefes de Oficina en el ramo gubernativo y en el de Hacienda;
 
 XVI. Nombrar los Jueces especiales del Estado Civil y fijar la demarcación en que deban ejercer sus funciones;
 
@@ -1113,7 +1175,9 @@ XXII. Disponer de las fuerzas de Seguridad Pública y movilizar la Guardia Nacio
 
 XXIII. Presidir, en las sesiones de los Ayuntamientos, y en las de toda clase de juntas a que concurra con carácter oficial;
 
-XXIV. Expedir los títulos profesionales con arreglo a las leyes;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1920)</small>
+
+XXIV. Expedir los títulos profesionales con arreglo a las leyes, presidir en el Consejo Universitario y nombrar al Rector del mismo;
 
 XXV. Tomar, en caso de invasión exterior o conmoción interior armada, las medidas extraordinarias que fueren necesarias para salvar al Estado, sujetándolas, lo más pronto posible, a la aprobación de la Legislatura si estuviere reunida; si no lo estuviere, convocará, de acuerdo con la Diputación permanente, a sesiones extraordinarias;
 
@@ -1165,17 +1229,17 @@ El cargo de Gobernador del Estado, sólo es renunciable por causa grave que cali
 
 1o. Esta Constitución se publicará, desde luego, por Bando solemne en todas las poblaciones del Estado y entrará inmediatamente en vigor.
 
-2o. La Legislatura, en su próximo período de sesiones, dará preferencia a la expedición de las Leyes Orgánicas de Tribunales, de Administración Municipal y las demás que consulte el Ejecutivo, sin perjuicio de las necesidades urgentes que ameriten la expedición de otras leyes.
+2o. (DEROGADO, G.O. 28 DE DICIEMBRE DE 1920)
 
-3o. El 7 del entrante septiembre abrirá la Legislatura un período de receso que tardará veinte días. La apertura de las sesiones ordinarias, por esta vez, tendrá lugar el 27 de septiembre, en lugar del diez y seis que prescribe esta Constitución.
+3o. (DEROGADO, G.O. 28 DE DICIEMBRE DE 1920)
 
-4o. El Ejecutivo nombrará, la primera vez, al Director General de Educación, quien habrá de fungir hasta el último de diciembre de 1919, en cuya fecha ya se habrá electo al que lo substituya.
+4o. (DEROGADO, G.O. 28 DE DICIEMBRE DE 1920)
 
 5o. Si tuviere dificultad el Ejecutivo para establecer desde luego la Universidad, la enseñanza que deba dirigir ella, quedará a cargo de un Departamento especial del Ejecutivo, llamado "Departamento Universitario", organizado conforme a la ley especial y cuyo Jefe, nombrado por el C. Gobernador, acordará directamente con el mismo funcionario.
 
-6o. La inamovilidad de los funcionarios del orden judicial comenzará a surtir sus efectos a partir de la fecha en que los Magistrados y el Procurador, que nombrará esta Legislatura, hayan tomado posesión de sus encargos.
+6o. (DEROGADO, G.O. 28 DE DICIEMBRE DE 1920)
 
-7o. Para los efectos del artículo 128 de esta Constitución, y mientras no se establezcan las Comisiones y Junta Central de que habla la fracción IX y Junta de Conciliación y Arbitraje de que tratan las fracciones XIX y XX de dicho artículo, queda, a cargo de los Ayuntamientos, la exacta aplicación de él, y la resolución más equitativa de los conflictos entre obreros y patrones, que surgieren en sus respectivos Municipios, sin perjuicio de que, en los casos de inconformidad de alguna de las partes, intervenga el Gobierno del Estado.
+7o. (DEROGADO, G.O. 28 DE DICIEMBRE DE 1920)
 
 Dada en la H. Ciudad de Córdoba, a veinticuatro de agosto de mil novecientos diez y siete.- C. Méndez Alcalde, Diputado por el 14o Distrito Electoral, Presidente.- Desiderio R. Pavón, Diputado por el 1er. Distrito Electoral.- Isaac Velázquez, Diputado por el 3er. Distrito Electoral.- Efrén A. Bauza, Diputado por el 5o Distrito Electoral.- Celerino Murrieta, Diputado por el 6o Distrito Electoral.- Gustavo Bello, Diputado por el 7o Distrito Electoral. D. Victoria, Diputado por el 8o Distrito Electoral.- Elías Pérez, Diputado por el 9o Distrito Electoral.- Miguel B. Fernández, Diputado por el 10o Distrito Electoral.- M. Limón Uriarte, Diputado por el 11o Distrito Electoral.- S. L. Herrera, Diputado por el 12o Distrito Electoral.- Pánfilo Méndez, Diputado por el 13o Distrito Electoral.- M. Loyo, Diputado por el 15o Distrito Electoral.- Rodolfo Cancela Nogueira, Diputado por el 16o Distrito Electoral.- Gaspar Méndez, Diputado por el 17o Distrito Electoral.- Luis G. Carrión, Diputado el 18o Distrito Electoral.- A. Ortíz Ríos, Diputado por el 19o Distrito Electoral.- A. Nava, Diputado por el 4o Distrito Electoral, Secretario.
 
@@ -1184,6 +1248,18 @@ Por tanto, mando se imprima, publique por Bando solemne en todo el Estado y circ
 CONSTITUCION Y REFORMAS.
 
 H. Córdoba, a 16 de septiembre de 1917.-M. Loyo.-Carlos I. Meléndez, Secretario.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+G.O. 28 DE DICIEMBRE DE 1920.
+
+1º.- Las presentes reformas se publicarán por bando solemne en todas las poblaciones del Estado y principiarán a regir desde luego.
+
+2º.- Los actuales Magistrados del Tribunal Superior y el Procurador General del Estado funcionarán únicamente hasta el 31 de diciembre del corriente año, en cuya fecha tomarán posesión los nuevos funcionarios que la Legislatura deberá haber electo, así como a los supernumerarios y al Procurador General para que funjan en el próximo período.
+
+3º.- Los Jueces de Primera Instancia nombrados por el actual Tribunal con el carácter de inamovibles, dejarán de tener ese carácter.
+
+4º.- La Legislatura procederá al nombramiento del Jefe de la Dirección General de Educación, a cuyo efecto el Ejecutivo le remitirá la terna respectiva dejando de funcionar la persona que actualmente desempeña ese encargo, de no ser ella nuevamente nombrada.
 
 ###### Artículo 2o.
 
