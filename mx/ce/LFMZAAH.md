@@ -4,7 +4,7 @@ identifier: "LFMZAAH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-05-06"
-last_updated: "1974-12-23"
+last_updated: "1981-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=407&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFMZAAH"
 
 LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLOGICOS, ARTISTICOS E HISTORICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1981.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 6 de mayo de 1972.
 
@@ -152,7 +152,7 @@ Para la reproducción de monumentos arqueológicos, históricos o artísticos, c
 
 ###### ARTICULO 18.
 
-Los registros, concesiones, autorizaciones, permisos, dictámenes periciales, asesorías y demás servicios que proporcionen los Institutos en los términos de esta Ley y su Reglamento, causarán los derechos correspondientes.
+(DEROGADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)
 
 El Gobierno Federal, los Organismos Descentralizados y el Departamento del Distrito Federal, cuando realicen obras, estarán obligados, con cargo a las mismas, a utilizar los servicios de antropólogos titulados, que asesoren y dirijan los rescates de arqueología bajo la dirección del Instituto Nacional de Antropología e Historia y asimismo entreguen las piezas y estudios correspondientes, a este Instituto.
 
@@ -391,3 +391,7 @@ D.O.F. 23 DE DICIEMBRE DE 1974.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1981.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
