@@ -4,7 +4,7 @@ identifier: "BCS-ley-sobre-el-control-de-licencias-y-establecimientos-2887"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-20"
-last_updated: "1987-12-20"
+last_updated: "2002-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY SOBRE EL CONTROL DE LICENCIAS Y ESTABLECIMIENTOS DESTINADOS AL ALMACENAJE, DISTRIBUCION, VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE REGULA EL ALMACENAJE, DISTRIBUCION, VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL NUMERO EXTRAORDINARIO DEL BOLETIN OFICIAL EL 7 DE ENERO DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 20 de diciembre de 1987.
 
@@ -540,3 +542,13 @@ LIC. VICTOR MANUEL LICEAGA RUIBAL.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 DR. RAUL CARRILLO SILVA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 7 DE ENERO DE 2002.
+
+PRIMERO.- Esta Ley entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga la ley Sobre el Control de Licencias y Establecimientos destinados al almacenaje, distribución, venta y consumo de bebidas alcohólicas del estado de Baja California Sur, contenida en el Decreto número 652 de fecha 11 de Diciembre de 1987.
+
+TERCERO.- Las autoridades materia de esta Ley adecuarán los reglamentos respectivos en un plazo no mayor de treinta días naturales, contados a partir de que inicie la vigencia del presente decreto.
