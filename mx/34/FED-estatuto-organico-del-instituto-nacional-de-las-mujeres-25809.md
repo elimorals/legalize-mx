@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-las-mujeres-25809"
 country: "mx"
 rank: "estatuto"
 publication_date: "2002-09-17"
-last_updated: "2004-04-26"
+last_updated: "2004-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25809&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-10-02"
 
 ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE LAS MUJERES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2004.
 
 Estatuto publicado en la Sección Segunda del Diario Oficial de la Federación el día Martes 17 de septiembre de 2002.
 
@@ -213,9 +213,13 @@ IV. Organos de Vigilancia y Control:
 
 A) Comisarios Públicos.
 
-B) Contraloría Interna.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
 
-Al frente de la Presidencia, Secretaría Técnica y Prosecretaría de la Junta de Gobierno; Presidencia del Instituto; de la Secretaría Ejecutiva; de las Direcciones Generales; de las Coordinaciones y de la Contraloría Interna habrá, respectivamente, un titular, quien para el despacho de los asuntos de su competencia se auxiliará, en su caso, por los Directores de Area, Subdirectores y Jefes de Departamento, así como por los demás servidores públicos que autorice la Junta de Gobierno.
+B) Organo Interno de Control.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
+
+Al frente de la Presidencia, Secretaría Técnica y Prosecretaría de la Junta de Gobierno; Presidencia del Instituto; de la Secretaría Ejecutiva; de las Direcciones Generales; de las coordinaciones y del Organo Interno de Control, habrá, respectivamente, un titular, quien para el despacho de los asuntos de su competencia se auxiliará, en su caso, por los directores de área, subdirectores y jefes de departamento, así como por los demás servidores públicos que autorice la Junta de Gobierno.
 
 La persona titular de la Presidencia, para el buen desempeño de las funciones del Instituto, podrá adscribir a la Presidencia, Secretaría Ejecutiva, Direcciones Generales y Coordinaciones, las Subdirecciones, Jefaturas de Departamento y demás unidades equivalentes a estas últimas conforme a las disposiciones legales aplicables.
 
@@ -521,13 +525,15 @@ III. Acordar con la persona titular de la Presidencia el despacho de los asuntos
 
 IV. Desempeñar las funciones y comisiones que la persona titular de la Presidencia le delegue y encomiende, manteniéndola informada oportunamente sobre el desarrollo de las mismas;
 
-V. Coordinarse y mantener comunicación constante con los Consejos y demás unidades administrativas a fin de proponer estrategias y acciones a la Presidencia, para el mejor cumplimiento de los fines del Instituto;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
+
+V. Coordinarse y mantener comunicación constante con las direcciones generales de: Planeación, Promoción y Enlace, y Evaluación y Desarrollo Estadístico, y demás unidades administrativas a fin de proponer estrategias y acciones a la Presidencia, para el mejor cumplimiento de los fines del Instituto;
 
 VI. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de las labores encomendadas a la Secretaría Ejecutiva a su cargo;
 
-> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
 
-VII. Coordinar, programar y realizar los informes que deberán ser presentados a la Junta de Gobierno anualmente y aquellos que deba presentar el Instituto ante las autoridades competentes cuando resulte procedente, previa la autorización de la Presidencia;
+VII. Coordinar y programar los informes que deberán ser presentados a la Junta de Gobierno anualmente y aquellos que deba presentar el Instituto ante las autoridades competentes cuando resulte procedente, previa autorización de la Presidencia;
 
 VIII. Colaborar y participar vigilando la función de las unidades administrativas del Instituto, reportando a la Presidencia, oportunamente la actuación de éstas;
 
@@ -581,19 +587,27 @@ XVII. Las demás que les confieran su superior jerárquico y las disposiciones l
 
 Son atribuciones de la Dirección General de Planeación:
 
-I. Proyectar y desarrollar las directrices de la política nacional para las mujeres;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
+
+I. Planear y desarrollar las directrices de la política nacional para las mujeres;
 
 II. Establecer e implementar los lineamientos metodológicos del proceso de institucionalización de la perspectiva de género;
 
-III. Proponer los mecanismos de estrategia para implementar las perspectivas de género en el ámbito federal, estatal y municipal;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
 
-IV. Establecer las estrategias de colaboración para institucionalizar la perspectiva de género con los Poderes Ejecutivo, Legislativo y Judicial;
+III. Proponer y dar seguimiento a los mecanismos de estrategia para implementar las perspectivas de género en el ámbito Federal, Estatal y Municipal;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
+
+IV. Planear las estrategias de colaboración para institucionalizar la perspectiva de género con los poderes Ejecutivo, Legislativo y Judicial;
 
 V. Diseñar, operar, así como someter a consideración de la persona titular de la Presidencia, el programa de capacitación en materia de equidad de género que lleve a cabo el Instituto de conformidad con lo dispuesto en el artículo 22 fracción IV de este Estatuto;
 
-VI. Diseñar las líneas de comunicación con la sociedad civil, para la institucionalización de perspectiva de género;
+VI. (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2004)
 
-VII. Establecer y desarrollar los lineamientos y metodologías de institucionalización con los sectores privado, académico y social;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
+
+VII. Establecer y desarrollar los lineamientos y metodologías de institucionalización con el sector académico.
 
 VIII. Diseñar programas para el fomento e institucionalización de la perspectiva de género;
 
@@ -617,15 +631,19 @@ I. Coordinar y dar seguimiento a la aplicación de la política nacional para la
 
 II. Coordinar y monitorear el proceso de institucionalización de la perspectiva de género;
 
-III. Vigilar y dar seguimiento a los mecanismos de estrategia implementados respecto de la perspectiva de género en los ámbitos federal, estatal y municipal;
+III. (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2004)
 
-IV. Observar que se implementen las estrategias de colaboración para institucionalizar la perspectiva de género con los Poderes Ejecutivo, Legislativo y Judicial;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
+
+IV. Diseñar y coordinar programas específicos para institucionalizar la perspectiva de género con los poderes Ejecutivo, Legislativo y Judicial;
 
 V. Poner en operación los mecanismos metodológicos para la institucionalización de la perspectiva de género, así como los proyectos específicos que para tal fin se instrumenten;
 
 VI. Operar las líneas de comunicación con la sociedad civil, para la institucionalización de la perspectiva de género;
 
-VII. Coordinar la operación de los lineamientos y metodologías de institucionalización con los sectores privado, académico y social;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
+
+VII. Coordinar la operación de los lineamientos y metodologías de institucionalización con los sectores privado y social.
 
 VIII. Poner en marcha los programas para el fomento e institucionalización de la perspectiva de género;
 
@@ -639,7 +657,7 @@ XII. Participar, en coordinación con la Dirección General de Administración y
 
 XIII. Operar, en coordinación con la Dirección General de Planeación, el seguimiento de la implementación de las políticas públicas;
 
-XIV. Coordinar a petición de la persona titular de la Presidencia, la elaboración de propuestas legislativas, con perspectiva de género;
+XIV. (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2004)
 
 XV. Las demás que le asigne la persona titular de la Presidencia, Secretaría Ejecutiva, así como las demás disposiciones legales aplicables.
 
@@ -737,9 +755,9 @@ XXV. Autorizar y vigilar que se realicen oportunamente los pagos de los requerim
 
 XXVI. Verificar que, en su caso, se efectúen los enteros a la Tesorería de la Federación por concepto de rendimientos bancarios, recuperación de ejercicios anteriores, recuperación de indemnizaciones, ingresos autogenerados, remanentes del ejercicio anterior, así como ejercer la representación legal del Instituto, para el pago o entero de contribuciones federales y locales, y de retenciones al personal a favor de terceros, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 26 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
 
-XXVII. Certificar y/o cotejar los documentos que forman parte de los archivos del Instituto y que sean solicitados por el público en general, en cumplimiento con lo dispuesto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y su Reglamento;
+XXVII. Certificar o cotejar los documentos que forman parte de los archivos del Instituto, para ser exhibidos ante diversas autoridades, así como las que sean solicitados por el público en general, en cumplimiento con lo dispuesto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y su Reglamento;
 
 XXVIII. Las demás que las disposiciones legales y administrativas le confieran y que le encomiende la persona titular de la Presidencia.
 
@@ -779,13 +797,23 @@ III. Proponer, por instrucciones de la persona titular de la Presidencia del Ins
 
 IV. Efectuar, por instrucciones de la persona titular de la Presidencia del Instituto, el diagnóstico y análisis de los programas y acciones que se instrumenten, para el cumplimiento de las funciones del Instituto;
 
-V. Apoyar a la persona titular de la Presidencia del Instituto en la elaboración de los documentos que le sean requeridos;
+> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
 
-VI. Las demás que le asigne la persona titular de la Presidencia del Instituto, así como las que señalen las disposiciones legales aplicables.
+V. Coordinar a petición de la persona titular de la Presidencia, la elaboración de propuestas legislativas, con perspectiva de género;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
+
+VI. Apoyar a la persona titular de la Presidencia del Instituto en la elaboración de los documentos que le sean requeridos;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
+
+VII. Las demás que le asigne la persona titular de la Presidencia del Instituto, así como las que señalen las disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 32.
 
-Son atribuciones de la Coordinación de Comunicación Social:
+Son atribuciones de la Coordinación de Relaciones Públicas y Comunicación Social:
 
 I. Elaborar, ejecutar y evaluar el programa anual de difusión de las actividades del Instituto;
 
@@ -905,6 +933,8 @@ De la Coordinación de los Organos Auxiliares
 
 #### Sección Primera. De los Comisarios Públicos
 
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 40.
 
 El Consejo Consultivo y el Consejo Social deberán coordinarse a fin de que sus funciones de asesoría, enlace, evaluación, vigilancia y reorientación sean congruentes entre sí.
@@ -915,7 +945,7 @@ La coordinación y vinculación de las integrantes de los Consejos citados, con 
 
 ###### Artículo 41.
 
-El Instituto contará con un órgano de vigilancia integrado por un Comisario Público Propietario y su suplente, designados por la Secretaría de Contraloría y Desarrollo Administrativo, en los términos de la Ley Orgánica de la Administración Pública Federal.
+El Instituto contará con un órgano de vigilancia integrado por un Comisario Público Propietario y su suplente, designados por la Secretaría de la Función Pública, en los términos de la Ley Orgánica de la Administración Pública Federal.
 
 ## Título III. De las Suplencias
 
@@ -977,47 +1007,71 @@ XV. Realizar estudios sobre la eficiencia con la que se ejerzan los desembolsos 
 
 XVI. Solicitar a la Junta de Gobierno o a la persona titular de la Presidencia del Instituto, la información que requiera para el desarrollo de sus funciones;
 
-XVII. Solicitar información y efectuar los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de Contraloría y Desarrollo Administrativo le asigne específicamente;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
+
+XVII. Solicitar información y efectuar los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Función Pública le asigne específicamente;
 
 XVIII. Rendir anualmente a la Junta de Gobierno un informe sobre los estados financieros, con base en el dictamen de los auditores externos;
 
 XIX. Realizar visitas a las instalaciones del Instituto con el propósito de verificar el cumplimiento de las obligaciones y responsabilidades a su cargo y, en su caso, promover las acciones correspondientes para corregir las deficiencias y omisiones en que se hubiere incurrido, y
 
-XX. Las demás inherentes a su función y las que le señale expresamente la Secretaría de Contraloría y Desarrollo Administrativo, en el ámbito de su competencia.
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
+
+XX. Las demás inherentes a su función y las que le señale expresamente la Secretaría de la Función Pública, en el ámbito de su competencia.
 
 #### Sección Segunda. De la Contraloría Interna
 
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 44.
 
-El Contralor Interno en el Instituto, así como las(os) titulares de las Direcciones o Areas de Responsabilidades y Auditoría, serán designadas(os) por el titular de la Secretaría de Contraloría y Desarrollo Administrativo, de quien dependerán jerárquica y funcionalmente, tendrán el carácter de autoridad y realizará la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Federales, representando al titular de dicha Secretaría, en los términos de lo dispuesto por la Ley Orgánica de la Administración Pública Federal.
+El o la titular del Organo Interno de Control en el Instituto, así como las o los titulares de las direcciones o áreas de responsabilidades, de auditoría, de auditoría de control y evaluación y apoyo al buen gobierno; y de quejas serán designadas o designados por el titular de la Secretaría de la Función Pública, de quien dependerán jerárquica y funcionalmente, tendrán el carácter de autoridad y realizará la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los tribunales federales, representando al titular de dicha Secretaría, en los términos de lo dispuesto por la Ley Orgánica de la Administración Pública Federal.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 45.
 
-El Contralor Interno podrá asistir a las sesiones de la Junta de Gobierno, así como a las de los Consejos y Comités Técnicos Especializados que se conformen, con voz pero sin voto.
+El o la titular del Organo Interno de Control podrá asistir a las sesiones de la Junta de Gobierno, así como a las de los consejos y comités técnicos especializados que se conformen, con voz pero sin voto.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 46.
 
-Para la atención de los asuntos y sustanciación de los procedimientos a su cargo, el Contralor Interno y las Direcciones de Responsabilidades y Auditoría, se auxiliarán del personal adscrito al propio Organo de Control Interno.
+Para la atención de los asuntos y sustanciación de los procedimientos a su cargo, el o la titular del Organo Interno de Control y las direcciones o áreas de responsabilidades, de auditoría de control y evaluación y apoyo al buen gobierno y de quejas, se auxiliarán del personal adscrito al propio Organo Interno de Control.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 47.
 
-Son atribuciones de la Contraloría Interna:
+Son atribuciones del Organo Interno de Control:
 
-I. Recibir quejas y denuncias por incumplimiento de las obligaciones de las(os) servidores públicos adscritos al Instituto y darles seguimiento; investigar y fincar las responsabilidades a que hubiere lugar e imponer las sanciones aplicables en términos de ley, con excepción de las que deba conocer la Dirección General de Responsabilidades y Situación Patrimonial de la Secretaría de Contraloría y Desarrollo Administrativo, así como calificar y constituir los pliegos de responsabilidades a que se refiere la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, salvo los que sean competencia de la Dirección General mencionada;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
 
-II. Dictar las resoluciones en los recursos de revocación que interpongan las(os) servidores públicos y de revisión que se hagan valer en contra de las resoluciones de las inconformidades previstas en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, que competa conocer al Director o titular del Area de Responsabilidades de la Contraloría Interna en el Instituto;
+I. Recibir quejas y denuncias por incumplimiento de las obligaciones de las o los servidores públicos adscritos al Instituto y darles seguimiento; investigar y fincar las responsabilidades a que hubiere lugar e imponer las sanciones aplicables en términos de Ley, con excepción de las que deba conocer la Dirección General de Responsabilidades y Situación Patrimonial de la Secretaría de la Función Pública, así como calificar y constituir los pliegos de responsabilidades a que se refiere la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, salvo los que sean competencia de la Dirección General mencionada;
 
-III. Realizar la defensa jurídica de las resoluciones que emitan ante las diversas instancias jurisdiccionales, representando al titular de la Secretaría de Contraloría y Desarrollo Administrativo, así como expedir las certificaciones de los documentos que obran en los archivos de la Contraloría Interna en el Instituto;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
 
-IV. Implementar el Sistema Integral de Control Gubernamental y coadyuvar a su debido funcionamiento, proponer las normas y lineamientos que al efecto se requieran, y vigilar el cumplimiento de las normas de control que expida la Secretaría de Contraloría y Desarrollo Administrativo, así como aquellas que regulan el funcionamiento del Instituto;
+II. Dictar las resoluciones en los recursos de revocación que interpongan las o los servidores públicos y de revisión que se hagan valer en contra de las resoluciones de las inconformidades previstas en la Ley de Obras Públicas y Servicios Relacionados con las Mismas y en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, que competa a conocer al Director o Titular del Area de Responsabilidades del Organo Interno de Control en el Instituto;
 
-V. Programar y realizar auditorías, inspecciones o visitas de cualquier tipo; informar periódicamente a la Secretaría de Contraloría y Desarrollo Administrativo, sobre el resultado de las acciones de control que haya realizado, y proporcionar a ésta la ayuda necesaria para el adecuado ejercicio de sus atribuciones;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
+
+III. Realizar la defensa jurídica de las resoluciones que emitan ante las diversas instancias jurisdiccionales, representando al titular de la Secretaría de la Función Pública, así como expedir las certificaciones de los documentos que obran en los archivos del Organo Interno de Control en el Instituto;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
+
+IV. Implementar el Sistema Integral de Control Gubernamental y coadyuvar a su debido funcionamiento, proponer las normas y lineamientos que al efecto se requieran, y vigilar el cumplimiento de las normas de control que expida la Secretaría de la Función Pública, así como aquellas que regulan el funcionamiento del Instituto;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
+
+V. Programar y realizar auditorías, inspecciones o visitas de cualquier tipo; informar periódicamente a la Secretaría de la Función Pública, sobre el resultado de las acciones de control que haya realizado, y proporcionar a ésta la ayuda necesaria para el adecuado ejercicio de sus atribuciones;
 
 VI. Emitir, cuando proceda, la autorización a que se refiere la fracción XXIII del artículo 47 de la Ley Federal de Responsabilidades de los Servidores Públicos, en el ámbito del Instituto;
 
 VII. Recibir, tramitar y dictaminar, en su caso, con sujeción a lo dispuesto en la Ley Federal de Responsabilidades de los Servidores Públicos, las solicitudes de los particulares relacionadas con servidoras(es) públicos del Instituto, al que se le comunicará el dictamen para que reconozca, si así lo determina, la responsabilidad de indemnizar la reparación del daño en cantidad líquida y ordenar el pago correspondiente. Lo anterior, sin perjuicio de que el Instituto conozca directamente de la solicitud del particular y resuelva lo que en derecho proceda;
 
-VIII. Coordinar la formulación de los anteproyectos de programas y presupuesto de la Contraloría Interna en el Instituto, y proponer las adecuaciones que requiera el correcto ejercicio del presupuesto;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
+
+VIII. Coordinar la formulación de los proyectos de programas y presupuesto del Organo Interno de Control en el Instituto, y proponer las adecuaciones que requiera el correcto ejercicio del presupuesto;
 
 IX. Denunciar ante las autoridades competentes los hechos de que tenga conocimiento y puedan ser constitutivos de delito, e instar a la Coordinación de Asuntos Jurídicos del Instituto a formular cuando así se requiera las querellas a que hubiere lugar;
 
@@ -1029,21 +1083,29 @@ XII. Intervenir en las sesiones de la Junta de Gobierno, con voz pero sin voto;
 
 XIII. Apoyar la función directiva y promover el mejoramiento de gestión del Instituto;
 
-XIV. Desarrollar sus funciones conforme a los lineamientos que emita la Secretaría de Contraloría y Desarrollo Administrativo;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
+
+XIV. Desarrollar sus funciones conforme a los lineamientos que emita la Secretaría de la Función Pública;
 
 XV. Realizar sus actividades de acuerdo a las reglas y bases que le permitan cumplir su cometido con autosuficiencia y autonomía;
 
 XVI. Presentar a la persona titular de la Presidencia los informes resultantes de las auditorías, exámenes y evaluaciones que realicen;
 
-XVII. Realizar la defensa jurídica de los actos y resoluciones que emita el propio Organo de Control Interno;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
+
+XVII. Realizar la defensa jurídica de los actos y resoluciones que emita el propio Organo Interno de Control;
 
 XVIII. Examinar y evaluar los sistemas, mecanismos y procedimientos de control; efectuar revisiones y auditorías, vigilando que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables, y
 
-XIX. Las demás que le atribuya expresamente el titular de la Secretaría de Contraloría y Desarrollo Administrativo y aquellas que les confieran las leyes y reglamentos a las Contralorías Internas y Organos de Control Interno.
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
+
+XIX. Las demás que le atribuya expresamente el titular de la Secretaría de la Función Pública y aquellas que les confieran las leyes y reglamentos a las contralorías internas y órganos internos de control.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 48.
 
-La Contraloría Interna para el cumplimiento de sus funciones podrá auxiliarse de Subcontralores, Jefes de Departamento y demás personal que las necesidades del servicio requieran y de conformidad con el presupuesto asignado.
+El Organo Interno de Control para el cumplimiento de sus funciones podrá auxiliarse de las o los titulares de las direcciones o áreas de responsabilidades, de auditoría, de auditoría de control y evaluación y apoyo al buen gobierno; y de quejas, subdirectores, jefes de departamento y demás personal que las necesidades del servicio requieran, y de conformidad con el presupuesto asignado.
 
 ###### Artículo 49.
 
@@ -1087,6 +1149,14 @@ III. La persona titular de la Secretaría Ejecutiva será suplida por la(el) tit
 
 IV. Los titulares de la Secretaría Técnica, así como de la Prosecretaría, de las Direcciones Generales, Dirección General Adjunta de Asuntos Internacionales, Coordinaciones, Direcciones, Subdirecciones y Jefaturas de Departamento, así como sus homólogos o equivalentes, serán suplidos por quien designe la persona titular de la Presidencia.
 
+> <small>N. DE E. LAS TRES FRACCIONES QUE A CONTINUACION SE TRANSCRIBEN FUERON PUBLICADAS EN EL D.O.F. EL 21 DE DICIEMBRE DE 2004, EL CONTENIDO DE LAS MISMAS NO CORRESPONDEN AL ARTICULO 55, SIN EMBARGO SE CITAN PARA SU CONSIDERACION.</small>
+
+"V. Promover y realizar auditorías, inspecciones o visitas de cualquier tipo; informar periódicamente a la Secretaría de la Función Pública, sobre el resultado de las acciones de control que haya realizado, y proporcionar a ésta la ayuda necesaria para el adecuado ejercicio de sus atribuciones;
+
+VIII. Coordinar la formulación de los anteproyectos de programas y presupuesto del Organo Interno de Control en el Instituto, y proponer las adecuaciones que requiera el correcto ejercicio del presupuesto;
+
+XIV. Desarrollar sus funciones conforme a los lineamientos que emita la Secretaría de la Función Pública;" (SIC)
+
 ## Artículos Transitorios
 
 PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1112,3 +1182,7 @@ México, D.F., a 2 de octubre de 2001.- Con fundamento en los artículos 13 frac
 D.O.F. 26 DE ABRIL DE 2004.
 
 Artículo Unico.- El presente Acuerdo entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE DICIEMBRE DE 2004.
+
+Artículo Unico: El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
