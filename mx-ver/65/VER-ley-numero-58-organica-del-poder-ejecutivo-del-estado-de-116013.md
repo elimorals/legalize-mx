@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2004-02-02"
+last_updated: "2004-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 58 ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE SEPTIEMBRE DE 2004 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE FEBRERO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JULIO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -549,7 +551,7 @@ III. Coordinar las actividades del Comité de Planeación para el Desarrollo del
 
 IV. Diseñar, implementar y actualizar un sistema de programación del gasto público, acorde con los objetivos y necesidades de la Administración Pública, asesorando y apoyando a las dependencias y entidades en la integración de sus programas específicos;
 
-V. Vigilar que los programas de inversión de las dependencias y entidades de la Administración Pública, se realicen conforme a los objetivos de los programas operativos anuales aprobados;
+V. (DEROGADA, G.O. 2 DE JULIO DE 2004)
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
@@ -577,7 +579,9 @@ XIII. Autorizar, previo acuerdo del Gobernador del Estado, las ampliaciones, tra
 
 XIV. Distribuir a través del Sistema Integral de Administración Financiera del Estado de Veracruz, a su cargo, los recursos financieros a las dependencias centralizadas y entidades paraestatales, de conformidad con el presupuesto autorizado y para los efectos de las acciones de control y evaluación del gasto público que establece esta Ley, el Código Financiero para el Estado y demás disposiciones aplicables;
 
-XV. Coordinar y evaluar los programas de inversión pública de las dependencias y entidades de la administración pública paraestatal;
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2004)</small>
+
+XV. Coordinar los programas de inversión pública de las dependencias y entidades de la administración pública;
 
 XVI. Presentar denuncias y formular querellas, ratificar las mismas, recibir el pago por concepto de reparación de daños y, en su caso, sin perjuicio del erario estatal, otorgar el perdón al acusado e imponer las sanciones que correspondan por infracciones a la Ley de Hacienda y demás leyes fiscales cuya aplicación le esté encomendada directamente;
 
@@ -637,7 +641,7 @@ XLII. Asesorar al Gobernador del Estado en la elaboración de los convenios que 
 
 XLIII. Formular las bases y normas de planeación, programación, presupuestación, ejecución y evaluación, que deberán observar las dependencias de la Administración Pública Estatal en materia de adquisiciones;
 
-XLIV. Revisar, en los términos de los instrumentos de coordinación que se suscriban, que los recursos financieros ministrados por la Federación al Gobierno del Estado sean canalizados hacia los objetivos propuestos en los programas respectivos, y se apliquen con honestidad y transparencia;
+XLIV. (DEROGADA, G.O. 2 DE JULIO DE 2004)
 
 XLV. Verificar y comprobar el cumplimiento de las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación de servicios, obra pública, resguardos, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles; concesiones, almacenes y demás activos y recursos materiales de la Administración Pública Estatal;
 
@@ -1165,7 +1169,9 @@ I. Planear, organizar y coordinar el sistema de control y evaluación gubernamen
 
 II. Participar en la evaluación periódica de la relación que guardan los programas y presupuestos de las dependencias y entidades de la Administración Pública, con los objetivos y prioridades del Plan Veracruzano de Desarrollo, así como los resultados de su ejecución, a fin de recomendar la adopción de las medidas necesarias para corregir las desviaciones detectadas y proponer la adecuación, en su caso, del plan y los programas respectivos;
 
-III. Evaluar los programas de inversión de las dependencias y entidades de la Administración Pública, conforme a los objetivos del Plan Veracruzano de Desarrollo;
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2004)</small>
+
+III. Controlar y evaluar los programas de inversión de las dependencias y entidades de la administración pública, conforme a los objetivos del Plan Veracruzano de Desarrollo;
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
@@ -1626,3 +1632,13 @@ Primero. El presente decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Los procedimientos de rescisión de contratos de obra pública iniciados en fecha anterior a la entrada en vigor de este decreto deberán sustanciarse y concluirse conforme a las bases que los sustentaron.
 
 Tercero. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+G.O. 2 DE JULIO DE 2004.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 848 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Publíquese en la Gaceta Oficial, órgano del gobierno del estado.
