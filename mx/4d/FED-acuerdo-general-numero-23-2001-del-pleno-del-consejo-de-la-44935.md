@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2003-11-14"
+last_updated: "2003-12-16"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE DICIEMBRE DE 2003.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -289,9 +289,9 @@ XV.- DECIMOQUINTO CIRCUITO:
 
 2.- Seis tribunales unitarios: dos con sede en Mexicali y cuatro con residencia en Tijuana.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 42/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 90/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE DICIEMBRE DE 2003)</small>
 
-3.- Trece juzgados de distrito en el Estado de Baja California: cuatro con sede en Mexicali, siete con residencia en Tijuana y dos con sede en Ensenada.
+3.- Catorce juzgados de distrito en el Estado de Baja California: cinco con sede en Mexicali, siete con residencia en Tijuana y dos con sede en Ensenada.
 
 XVI.- DECIMOSEXTO CIRCUITO:
 
@@ -1184,5 +1184,11 @@ SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación
 D.O.F. 14 DE NOVIEMBRE DE 2003.
 
 PRIMERO.- Este acuerdo entrará en vigor el veinticuatro de noviembre de dos mil tres.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 16 DE DICIEMBRE DE 2003.
+
+PRIMERO.- Este acuerdo entrará en vigor el cuatro de enero de dos mil cuatro.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
