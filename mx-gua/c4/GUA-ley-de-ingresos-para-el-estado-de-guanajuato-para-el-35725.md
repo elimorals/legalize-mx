@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ingresos-para-el-estado-de-guanajuato-para-el-35725"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2003-12-23"
-last_updated: "2003-12-23"
+last_updated: "2004-07-09"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE INGRESOS PARA EL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DE 2004
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 23 de diciembre de 2003.
 
@@ -156,6 +156,10 @@ Los derechos de tránsito por registro, circulación y control de vehículos, de
 ###### Artículo 12.
 
 El refrendo de placas de circulación a que se refiere el artículo 17 de la Ley de Hacienda para el Estado de Guanajuato, deberá pagarse a una cuota de $250.00.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2004)</small>
+
+El refrendo de placas de circulación para motocicletas, bicimotos y vehículos similares se pagará en la cantidad de $ 70.00 pesos.
 
 La expedición de tarjeta de circulación por expiración de su vigencia deberá pagarse a una cuota de $30.00.
 
@@ -742,3 +746,15 @@ JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO DE GOBIERNO
 
 GERARDO LUIS RODRÍGUEZ OROZCO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE JULIO DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Los contribuyentes que hayan cubierto el refrendo de placas de circulación para motocicletas, bicimotos y vehículos similares a una cuota de $250.00 (Doscientos cincuenta pesos 00/100 Moneda Nacional), podrán acudir a la oficina recaudadora en la que hayan realizado su pago, acompañando copia del recibo oficial que acredite el pago efectuado, así como de una identificación oficial y, en su caso, del instrumento que acredite su personalidad, a efecto de que les sea devuelto el importe de $180.00 (Ciento ochenta pesos 00/100 Moneda Nacional) que como saldo a favor les resulta de la presente adición a la Ley.
+
+A los contribuyentes que no soliciten la devolución a que se refiere el párrafo anterior, la Oficina Recaudadora a la que acudan a partir del 1º de enero del año 2005, les acreditará a su favor el importe a que se refiere el citado párrafo para el pago por concepto del derecho de refrendo de placas de circulación para motocicletas, bicimotos y vehículos similares que corresponda de acuerdo a la Ley de Ingresos para el Estado, para el Ejercicio Fiscal de 2005, y en su caso les devolverá el importe que resulte a su favor una vez hecha la acreditación correspondiente.
+
+Artículo Tercero.- Para asegurar la mayor publicidad de las disposiciones previstas en el artículo segundo transitorio del presente decreto, el Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Administración, deberá difundirlas a través de los medios de comunicación en el Estado.
