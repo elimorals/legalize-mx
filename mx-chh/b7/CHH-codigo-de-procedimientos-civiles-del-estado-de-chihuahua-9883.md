@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1993-08-25"
+last_updated: "1994-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,611 +21,545 @@ state: "CHH"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
+REGLAMENTO INTERIOR DE LOS CENTROS DE TRATAMIENTO DEL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 1993.
+TEXTO ORIGINAL.
 
-Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
+Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 27 de noviembre de 2000.
 
-EL CIUDADANO LICENCIADO OSCAR FLORES, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
+ARMANDO LOPEZ NOGALES, Gobernador del Estado de Sonora, en ejercicio de las facultades que me confieren los artículos 79, fracción I, de la Constitución Política Local y 6o. de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora; y
 
-Que el Honorable Congreso del Estado, se ha servido expedir el siguiente
+C O N S I D E R A N D O.
 
-DECRETO 431-73
+Que en razón de todo lo anterior y con fundamento además en el artículo 84 de la Ley que Crea el Consejo Tutelar para Menores del Estado de Sonora, he tenido a bien expedir el siguiente:
 
-EL QUINCUAGESIMO H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, D E C R E T A
-
-EL SIGUIENTE
-
-CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
+REGLAMENTO INTERIOR DE LOS CENTROS DE TRATAMIENTO DEL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA
 
 ## TITULO PRIMERO. DE LAS ACCIONES Y EXCEPCIONES
 
-### CAPITULO I. De las acciones
+### CAPITULO I. DISPOSICIONES GENERALES
 
-1.- El ejercicio de las acciones civiles requiere:
+###### ARTICULO 1o.
 
-I.- La existencia de un derecho y la violación de él, o bien el desconocimiento de una obligación o la necesidad de declarar, preservar o constituir un derecho;
+Las disposiciones del presente Reglamento tienen por objeto regular la organización y el funcionamiento interno de los Centros de Tratamiento dependientes del Consejo Tutelar para Menores del Estado de Sonora, y serán de observancia obligatoria para el personal del Centro, los menores sujetos a tratamiento en internación, sus padres o tutores, los defensores y las visitas.
 
-II.- La capacidad para ejercitar la acción por sí, o por medio de legítimo representante;
+###### ARTICULO 2o.
 
-III.- El interés en el actor para deducirlo. Falta el requisito de interés siempre que no pueda alcanzarse el objeto de una acción, aun suponiendo favorable la sentencia.
+Para los efectos del presente Reglamento, se entenderá por:
 
-2.- La acción procede en juicio aun cuando no se exprese su nombre, con tal de que se determine con claridad la clase de prestación que se exija del demandado y el título o causa de la acción.
+I.- Ley: Ley que Crea el Consejo Tutelar para Menores del Estado de Sonora.
 
-3.- Por las acciones reales se reclamarán: La herencia, los derechos reales o la declaración de libertad de gravámenes reales. Se dan y se ejercitan contra el que tiene en su poder la cosa y tiene obligación real, con excepción de la petición de herencia y la negatoria.
+II.- Consejo Tutelar: Consejo Tutelar para Menores del Estado de Sonora.
 
-4.- La reivindicatoria compete a quien no está en posesión de la cosa de la cual tiene la propiedad, y su efecto será declarar que el actor tiene dominio sobre ella y se la entregue el demandado con sus frutos y accesiones, en los términos prescritos por el Código Civil.
+III.- Centros: Los Centros de Tratamiento del Consejo Tutelar.
 
-5.- El tenedor de la cosa puede declinar la responsabilidad del juicio, designando al poseedor que lo sea a título de dueño.
+### CAPITULO II. DEL OBJETO Y ESTRUCTURA DE LOS CENTROS
 
-6.- El poseedor que niegue tener la posesión de la cosa reclamada, la perderá, si la tuviere en realidad, en beneficio del demandante.
+###### ARTICULO 3o.
 
-7.- Pueden ser demandados en reivindicación, además del poseedor de la cosa, el que para evitar los efectos de la acción reivindicatoria dejó de poseer, y el que está obligado a restituir la cosa o su estimación si la sentencia fuere condenatoria, aunque no posea la cosa. El demandado que pague la estimación de la cosa puede ejercitar a su vez la reivindicación.
+Los Centros tendrán a su cargo la aplicación de las medidas de tratamiento en internamiento a que hayan quedado sujetos los menores por resolución del Consejo Tutelar, con apego a las Constituciones Políticas Federal y Local y a las leyes federales y locales aplicables en la materia, basando su tratamiento en educación elemental y capacitación para el trabajo, así como procurando conservar y fortalecer en los menores la dignidad humana, propiciar su superación personal, el respeto a sí mismo y a la sociedad.
 
-8.- No pueden reivindicarse: Las cosas que están fuera del comercio; los géneros no determinados al entablarse la demanda; las cosas unidas a otras por vía de accesión según lo dispuesto en el Código Civil, ni las cosas muebles perdidas o robadas que un tercero haya adquirido de buena fe en almoneda o de comerciante que en mercado público se dedique a la venta de objetos de la misma especie, sin previo reembolso del precio que aquél haya pagado por ellas. Se presume que no hay buena fe, si de la pérdida o robo se dio aviso público oportunamente.
+###### ARTICULO 4o.
 
-9.- Al adquirente con justo título y de buena fe le compete la acción para que el poseedor de mala fe restituya la cosa con sus frutos y accesiones en los términos del artículo 4o., aun cuando el primero no haya prescrito la cosa; o para reivindicarla del que teniendo título de igual calidad, ha poseído por menos tiempo que el actor. No procede esta acción en los casos en que ambas posesiones fuesen dudosas, o el demandado tuviere su título registrado y el actor no, ni tampoco contra el dueño legítimo.
+Para el cumplimiento de su objeto los Centros contarán con las siguientes unidades y áreas técnicas:
 
-10.- Procederá la acción negatoria: para obtener la declaración de libertad o la reducción de gravámenes de bien inmueble, y la demolición de obras o señales que importen gravámenes; la tildación o anotación en el Registro de la Propiedad; y conjuntamente en su caso, la indemnización de daños y perjuicios. Esta acción se da sólo al poseedor a título de dueño, o al que tenga derecho real sobre el inmueble. Cuando la sentencia sea condenatoria, el actor podrá exigir del reo que caucione el respeto de la libertad del inmueble.
+I.- Dirección del Centro.
 
-11.- Compete la acción confesoria al titular del derecho real del inmueble y al poseedor del predio dominante que esté interesado en la existencia de la servidumbre. Se da esta acción contra el tenedor o poseedor jurídico que contraríe el gravamen, para que se obtenga el reconocimiento, la declaración de los derechos y obligaciones del gravamen, y el pago de los frutos, daños y perjuicios en su caso, y se haga cesar la violación. Si fuese la sentencia condenatoria, el actor podrá exigir del reo que afiance el respeto del derecho.
+II.- Unidades de Apoyo:
 
-12.- Se intentará la acción hipotecaria: para constituir, ampliar o registrar una hipoteca, o bien, para obtener el pago o la prelación del crédito que la hipoteca garantice. Procederá contra el poseedor a título de dueño del fundo hipotecado y, en su caso, contra los otros acreedores. Cuando después de registrada la cédula hipotecaria y contestada la demanda, cambiare el dueño y poseedor jurídico del predio, con éste continuará el juicio.
+- Unidad Administrativa.
 
-13.- La petición de herencia se deducirá por el heredero testamentario o por quien haga sus veces en la disposición testamentaria, o por el heredero intestamentario; y se da, respectivamente según la situación jurídica que guarden los bienes, contra el albacea; contra el poseedor de los bienes hereditarios a título de heredero o de cesionario de éste, o contra el que no tenga título alguno de posesión respecto de los bienes de la herencia, o dolosamente dejó de poseerlos. En su caso, se estará a lo dispuesto en los artículos 1188 y 1321 del Código Civil.
+- Unidad Operativa y de Custodia.
 
-14.- La petición de herencia se ejercitará para que sea declarado heredero el demandante, se le haga entrega de los bienes hereditarios con sus acciones, sea indemnizado, y se le rindan cuentas.
+III.- Areas Técnicas:
 
-15.- El comunero puede deducir las acciones relativas a la cosa común, en calidad de dueño, salvo pacto en contrario o ley especial que establezca otra forma para su ejercicio. No puede, sin embargo, transigir ni comprometer en árbitros el negocio, sin el consentimiento unánime de los demás condueños.
+- Area de Psicología.
 
-16.- Al perturbado en la posesión jurídica o derivada de un bien inmueble, compete el interdicto de retener la posesión, contra el perturbador, contra el que mandó tal perturbación, o contra el que, a sabiendas y directamente se aproveche de ella, y contra el sucesor del perturbador. El objeto de esta acción es poner término a la perturbación, indemnizar al poseedor, y que el demandado afiance no volver a perturbar al poseedor y sea conminado con multa o arresto para el caso de reincidencia.
+- Area Médica.
 
-Para la procedencia de esta acción se requiere: Que la perturbación consista en actos preparatorios tendientes directamente a la usurpación violenta, o a impedir el ejercicio del derecho; que se reclame dentro de un año a partir de la fecha de la perturbación, y que el poseedor no haya obtenido la posesión de su contrario por fuerza, clandestinamente, o a ruegos.
+- Area de Trabajo Social.
 
-17.- El que es despojado de la posesión jurídica o derivada de un bien inmueble debe ser, ante todo, restituido en la posesión, y le compete la acción de recobrarla, contra el despojador, contra el que haya mandado cometer el despojo, contra el que a sabiendas y directamente se aproveche de éste, y contra el sucesor del despojante. Esta acción tiene por objeto reponer al despojado en la posesión, indemnizarlo de los daños y perjuicios, obtener del demandado el que afiance su abstención de volver a despojar al demandante, y a la vez conminarlo con multa o arresto para el caso de reincidencia.
+- Area de Pedagogía.
 
-18.- La acción de recuperar la posesión se deducirá dentro del año siguiente a los actos violentos o vías de hecho causantes del despojo. No procede en favor de aquél que, con relación al demandado, poseía clandestinamente, por la fuerza, o a su ruego; pero sí contra el propietario despojante que transfirió el uso y aprovechamiento de la cosa por medio de contrato.
+###### ARTICULO 5o.
 
-19.- Al poseedor de un predio o derecho real sobre él, compete la acción para suspender la conclusión de una obra perjudicial a sus posesiones, su demolición o modificación en su caso, y la restitución de las cosas al estado anterior a la obra nueva. Compete también al vecino del lugar cuando la obra nueva se construya en bienes de uso común.
-
-La acción a que se refiere este artículo, se da contra quien mandó construir la obra, sea poseedor o detentador de la heredad donde se construye. Para los efectos de esta acción de obra nueva, se entiende por tal no sólo la construcción de nueva planta, sino también la que se realiza sobre edificio antiguo, añadiéndole, quitándole o dándole una forma distinta.
-
-20.- La acción de obra peligrosa se da al poseedor jurídico o derivado de una propiedad contigua o cercana que pueda resentirse o padecer por la ruina o derrumbe de la otra, caída de un árbol u otro objeto análogo, y su finalidad es la de adoptar medidas urgentes para evitar los riesgos que ofrezca el mal estado de los objetos referidos, obtener la demolición total o parcial de la obra, o la destrucción del objeto peligroso. Compete la misma acción a quienes tengan derecho privado o público de paso por las inmediaciones de la obra, árbol u otro objeto peligroso.
-
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1974)</small>
-
-21.- Compete acción a un tercero para coadyuvar en el juicio seguido contra su codeudor solidario. Igual facultad corresponde al tercero cuyo derecho depende de la subsistencia del derecho del demandado o actor. El deudor de obligación indivisible, que sea demandado por la totalidad de la prestación, puede hacer concurrir al juicio a sus codeudores, siempre y cuando el cumplimiento de la obligación no sea de tal naturaleza que sólo pueda ser satisfecha por el demandado.
-
-22.- El tercero obligado a la evicción deberá ser citado a juicio oportunamente para que la sentencia que se dicte pueda pararle perjuicio.
-
-23.- El tercero que, aduciendo derecho propio, intente excluir los derechos del actor y del demandado, o los del primero, solamente, tiene facultad de concurrir al pleito con arreglo a las disposiciones que este Código establece para las tercerías.
-
-24.- Las acciones del estado civil tienen por objeto: las cuestiones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento de hijos, tutela, adopción, divorcio y ausencia o atacar el contenido de las constancias del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones del estado civil perjudican aun a los que no litigaron.
-
-Las acciones de estado civil fundadas en la posesión de estado producirán el efecto de que se ampare o restituya a quien la disfrute, contra cualquier perturbador.
-
-25.- Las acciones personales se deducirán para exigir el cumplimiento de una obligación personal, ya sea de dar, de hacer, o de no hacer determinado acto.
-
-26.- El enriquecimiento sin causa de una parte, con detrimento de la otra, presta mérito al perjudicado para ejercitar la acción de indemnización en la medida en que aquélla se enriqueció.
-
-27.- El perjudicado por falta de título legal tiene acción para exigir que el obligado le extienda el documento correspondiente.
-
-28.- En las acciones mancomunadas por título de herencia o legado, sean reales o personales, se observarán las reglas siguientes:
-
-I.- Si no se ha nombrado interventor o albacea puede ejercitarlas cualquiera de los herederos o legatarios;
-
-II.- Si se ha nombrado interventor o albacea, sólo a éstos compete la facultad de deducirlas en juicio, y únicamente podrán hacerlo los herederos o legatarios cuando requeridos por ellos, el albacea o el interventor se rehusen a ejercitarlas.
-
-29.- Ninguna acción puede ejercitarse sino por aquél a quien compete, o por su representante legítimo. No obstante esto, el acreedor puede ejercitar las acciones que competen a su deudor cuando conste el crédito de aquél en título ejecutivo y, excitado el deudor para deducirlas, descuide o rehuse hacerlo. El tercero demandado puede paralizar la acción pagando al demandante el monto de su crédito.
-
-Las acciones derivadas de derechos inherentes a la persona del deudor nunca se ejercitarán por el acreedor. Los acreedores que acepten la herencia que corresponde a su deudor, ejercitarán las acciones pertenecientes a éste, en los términos en que el Código Civil lo permita.
-
-30.- Las acciones que se transmiten contra los herederos no obligan a éstos sino en proporción a sus cuotas, salvo en todo caso la responsabilidad que les resulte cuando sea solidaria su obligación con el autor de la herencia, por ocultación de bienes, o por dolo o fraude en la administración de bienes indivisos.
-
-31.- Cuando haya varias acciones contra una misma persona, respecto de una misma cosa, y provenga de una misma causa, deberán intentarse en una sola demanda. Por el ejercicio de una o varias de ellas, quedan extinguidas las otras.
-
-No pueden acumularse en la misma demanda acciones contrarias o contradictorias, ni aun con el carácter de subsidiarias; ni las posesorias con las petitorias, ni cuando una dependa del resultado de la otra. Tampoco son acumulables las acciones que, por su cuantía o por su naturaleza, corresponden a jurisdicciones diferentes.
-
-32.- A nadie puede obligarse a intentar o proseguir una acción contra su voluntad, excepto en los casos siguientes:
-
-I.- Cuando alguno públicamente se jacte de que otro es su deudor o de que tiene derechos que deducir sobre alguna cosa que otro posee. En este caso el poseedor o aquél de quien se dice que es deudor, puede ocurrir al juez de su propio domicilio pidiéndole que señale un término al jactancioso para que deduzca la acción que afirme tener, apercibido de que no haciéndolo en el plazo designado se le tendrá por desistido de ella. Este juicio se substanciará en la vía sumaria. No se reputa jactancioso al que, en algún acto judicial o administrativo se reserva los derechos que pueda tener contra alguna persona, o sobre alguna cosa;
-
-II.- Cuando por haberse interpuesto tercería ante un juez menor o de paz, por cantidad mayor de la que fija la ley para los negocios de su competencia, se hayan remitido los autos a otro juzgado y el tercero opositor no ocurra a continuar la tercería;
-
-III.- Cuando alguno tenga acción o excepción que dependa del ejercicio de la acción de otro, puede exigir de éste que la interponga o continúe desde luego, o que, en el caso de excepción, la oponga desde luego y pida que sea admitida; y si excitado para ello se rehusare, lo podrá hacer aquél;
-
-IV.- Cuando una persona pretenda hacer un viaje al extranjero o a lugar distante, y tiene fundado temor de que alguien desea frustrárselo intentando en su contra una acción en los momentos de emprenderlo, podrá obligarlo a que deduzca desde luego la acción, o espere su regreso para hacerlo;
-
-> <small>(F. DE E., P.O. 17 DE ABRIL DE 1974)</small>
-
-V.- En los supuestos de los artículos 28 y 29 de este Código.
-
-33.- Las acciones duran lo que la obligación que representan, salvo los casos en que la ley señale distinto plazo.
-
-La acción concedida en el artículo 17 del Código Civil prescribe en un año.
-
-34.- Intentada la acción y fijados los puntos cuestionados, no podrá modificarse ni alterarse a no ser que el demandado, lo consienta expresamente; pero sí podrá el actor desistirse de la acción intentada o simplemente de la demanda, en cualquier estado del juicio.
-
-El desistimiento de la acción extingue ésta. El desistimiento de la demanda, que requiere el consentimiento del demandado, sólo importa la extinción actual del procedimiento. En ambos casos, el desistimiento produce el efecto de que las cosas vuelvan al estado que tenían antes de la presentación de la demanda, y obliga al actor a pagar las costas y los daños y perjuicios a la contraparte, salvo convenio en contrario.
-
-### CAPITULO II. De las excepciones
-
-35.- Se llaman excepciones todas las defensas que pueda emplear el demandado para impedir el ejercicio actual de la acción, o para destruir ésta. En el primer caso, son dilatorias; en el segundo, perentorias. Para los efectos de su substanciación, se considerará también como excepción dilatoria, la oposición que el actor pueda hacer al reconocimiento procesal que se haga de la personalidad o capacidad del representante o apoderado del demandado.
-
-36.- Son excepciones dilatorias, las siguientes:
-
-I.- La incompetencia del Tribunal;
-
-II.- La litispendencia;
-
-III.- La conexidad de litigios;
-
-IV.- La falta de personalidad o de capacidad en el actor o en el demandado;
-
-V.- La falta de cumplimiento del plazo o de la condición a que está sujeta la acción intentada;
-
-VI.- La división;
-
-VII.- La excusión;
-
-VIII.- Las demás a que dieren ese carácter las leyes.
-
-37.- Las excepciones dilatorias, salvo lo dispuesto en el artículo siguiente, deberán oponerse dentro de los tres días siguientes a aquél en que el demandado reciba legalmente el traslado de la demanda, o se le tenga legalmente por recibido de él; y se substanciarán en artículo de previo y especial pronunciamiento, con suspensión del juicio en lo principal.
-
-El actor deberá oponer la excepción de falta de personalidad o de capacidad en el representante o apoderado del demandado, dentro de los tres días siguientes a aquél en que tenga conocimiento legal de su presentación en el juicio.
-
-38.- La incompetencia, así como la falta de personalidad o de capacidad, por causas supervenientes a las existentes en el momento de la presentación de la demanda o de su contestación, pueden promoverse en cualquier estado del juicio hasta antes de la citación para sentencia, y se substanciarán en la misma forma que las excepciones dilatorias similares. La excusión podrá también oponerse fuera del término señalado para proponer las excepciones dilatorias, con arreglo a las disposiciones respectivas del Código Civil.
-
-> <small>(F. DE E., P.O. 17 DE ABRIL DE 1974)</small>
-
-39.- La incompetencia puede promoverse por declinatoria o por inhibitoria. El litigante que hubiere optado por uno de estos medios no podrá abandonarlo y recurrir al otro. Tampoco se podrán emplear simultáneamente, debiendo pasarse por el resultado de aquél que se hubiere preferido. El que promueva la cuestión protestará en el escrito o en la comparecencia en que lo hiciere, no haber empleado el otro medio diverso al que inicie. Si resultare falsa la protesta, se le impondrá una multa hasta de quinientos pesos, aunque se hubiere decidido en su favor la competencia, o se desista de ella.
-
-40.- Las cuestiones de competencia sólo podrán entablarse a instancia de parte; pero el Tribunal que tenga razón fundada para creer que conforme a derecho es incompetente, puede de oficio inhibirse del conocimiento del negocio. Su resolución en este sentido será apelable en ambos efectos. Si se interpusiese el recurso, el superior, sin más trámite que oír a las partes en audiencia, decidirá dentro de las veinticuatro horas siguientes, confirmando o revocando el auto del inferior, devolviendo los autos al Juzgado de su procedencia o remitiéndolos en su caso directamente al juez declarado competente.
-
-41.- Todo Tribunal está obligado a suspender sus procedimientos luego que expida la inhibitoria o luego que, en su caso, la reciba. Igualmente suspenderá sus procedimientos al promoverse la declinatoria. Sin embargo, los jueces competidores podrán dictar bajo su responsabilidad las providencias que tuvieren el carácter de urgentes o precautorias, cuya subsistencia quedará pendiente del resultado de la cuestión de competencia.
-
-42.- La declinatoria de competencia se propondrá ante el juez a quien se considere incompetente, pidiéndole que se abstenga del conocimiento del negocio y remita los autos al considerado competente. El juez, inmediatamente después de interpuesta la declinatoria, remitirá los autos al Tribunal que deba decidir la competencia, emplazando previamente a las partes para que comparezcan ante el superior dentro del término de cinco días. Este término en razón de la distancia y de las condiciones de las comunicaciones, podrá ampliarse prudentemente a juicio del juez, hasta quince días.
-
-Recibidos los autos por el superior, y concluido el término señalado a las partes para que ante él comparecieran, dentro de los tres días siguientes oirá a los interesados en una audiencia, en la cual recibirá las pruebas que éstos ofrecieren; y después de oír sus alegatos, en la misma audiencia pronunciará su resolución ordenando la remisión de los autos al juez que haya estimado competente.
-
-Si la declinatoria se propuso antes de contestar la demanda, ésta se tendrá por presentada ante el juez que fue declarado competente; si se promovió de acuerdo con lo dispuesto en el artículo 38 de este Código, las diligencias practicadas por el juez declarado incompetente serán válidas hasta el momento en que, por la causa superveniente, dejó de tener competencia para conocer del asunto.
-
-43.- La inhibitoria, tratándose de tribunales del Estado, se intentará ante el juez a quien se considere competente, pidiéndole que dirija oficio al que viene conociendo del asunto, para que se inhiba de seguir conociendo y le remita los autos. El juez que reciba la solicitud, dentro de los tres días siguientes decidirá si acepta su competencia o la rechaza, pudiendo abrir previamente a prueba el punto si así lo estimare necesario. La resolución negativa es apelable en ambos efectos; y el superior respectivo, sin más trámite que una audiencia en la que informará el apelante si quisiese hacerlo, confirmará o revocará la resolución del inferior.
-
-44.- El juez ante quien se promovió la inhibitoria, ya sea que él mismo haya admitido su competencia o que hubiere sido declarada en segunda instancia, dirigirá oficio inhibitorio al juez que conoce del negocio, y remitirá desde luego las actuaciones respectivas al Tribunal que deba decidir la competencia, haciéndolo saber al interesado.
-
-Luego que el juez requerido reciba el oficio inhibitorio, acordará la suspensión del procedimiento y remitirá a su vez los autos originales al Tribunal de competencia, emplazando a las partes para que ocurran ante él a alegar de sus derechos si así les conviniere, concediéndoles un plazo que no podrá exceder de quince días.
-
-Recibidos los autos en el Tribunal superior, se citará a las partes a una audiencia dentro de los tres días siguientes a la conclusión del término que el inferior hubiere señalado a los interesados para que comparecieran ante el Tribunal superior, en la cual recibirá las pruebas que ofrecieren las partes, oirá sus alegatos y pronunciará resolución.
-
-Decidida la competencia, el Tribunal enviará los autos al juez declarado competente, con testimonio de la sentencia, de la cual remitirá otro tanto al juez contendiente. Contra la resolución del Tribunal decidiendo la competencia no cabrá ningún recurso.
-
-45.- Si por los documentos que se hubieren presentado o por otras constancias de autos, apareciere que el litigante que promueve la inhibitoria o la declinatoria se ha sometido a la competencia del Tribunal que viene conociendo del negocio, se desechará de plano continuando su curso el juicio. También se desechará de plano cualquiera competencia promovida que no tenga por objeto decidir cuál haya de ser el juez o Tribunal que deba conocer del asunto. El desechamiento a que se refiere este artículo, lo hará el Tribunal Superior al avocarse al conocimiento del conflicto en los términos de los artículos 42 y 44 de este Código.
-
-46.- Cuando dos o más jueces se nieguen a conocer de determinado asunto, la parte a quien perjudique la determinación ocurrirá al superior que deba decidir las competencias de jurisdicción, a fin de que ordene a los que se nieguen a conocer, que le envíen los expedientes en que se contengan sus respectivas resoluciones.
-
-Una vez recibidos los autos por dicho Tribunal, citará a las partes a una audiencia de pruebas y alegatos que se efectuará dentro del tercer día y en ella pronunciará resolución, ordenando la remisión de los autos al juez que haya estimado competente, enviando a los dos jueces contendientes, sendos testimonios de su resolución.
-
-Las disposiciones de este artículo son aplicables en lo conducente, a las competencias negativas que se susciten en las Salas del Supremo Tribunal de Justicia.
-
-47.- Al dirimirse las cuestiones de competencia, sólo los litigantes serán considerados como partes; y éstas podrán desistirse de la competencia antes o después de la remisión de los autos al superior que deba decidirla. Su desistimiento hará cesar la contienda.
-
-48.- Ningún juez puede sostener competencia con su superior inmediato; pero sí con otro juez o Tribunal que, aunque superior en su clase, no ejerza jurisdicción sobre él. Tampoco puede sostener su competencia el Tribunal que reconozca la jurisdicción del otro por providencia expresa, salvo que el acto del reconocimiento consista sólo en la cumplimentación de un exhorto, pues en este caso, el Tribunal requerido no estará impedido para sostenerla.
-
-49.- En la substanciación de las competencias que se susciten entre los tribunales del Estado y los de la Federación o de otro Estado, se aplicarán las siguientes disposiciones:
-
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
-
-a).- Cuando a un Juez de Primera Instancia, o de lo Familiar, Menor o de Paz, planteé competencia otro de cualquier categoría de la Federación o de otra Entidad Federativa, si las partes litigantes que actúan ante aquéllos no estuvieren conformes en reconocer la competencia del requirente, el requerido dará cuenta al Supremo Tribunal de Justicia con los antecedentes, exponiendo, al remitirlos, las razones que le asistan en pro o en contra de su competencia.
-
-b).- Siempre que un juez del Estado, a solicitud de parte legítima juzgare de su deber plantear competencia a los jueces de la Federación o de otra entidad federativa, lo hará libremente; pero si el juez requerido se negare a reconocer la competencia requirente y la parte que promovió insistiere en desconocer la competencia de aquél, se observará lo dispuesto en la parte final del inciso anterior.
-
-c).- Si un juez del Estado recibiere solicitud de alguna persona para que requiera a otro de la Federación o de otra Entidad Federativa a efecto de que se inhiba y se negare a hacerlo sin que el promovente se conformare con esa resolución, se observará también lo dispuesto en la parte final del inciso a).
-
-d).- Recibidos en el Tribunal Pleno los antecedentes e informes a que se refieren los tres incisos anteriores, se pasarán al Ministerio Público, quien, dentro del término de tres días, pedirá lo que proceda. Tres días después de devuelto el traslado, el mismo Tribunal resolverá según el caso, si debe o no iniciarse o sostenerse la competencia. Dentro de las cuarenta y ocho horas siguientes, se comunicará al juez la resolución correspondiente.
-
-e).- Si la resolución del Tribunal Pleno fuere en favor de la competencia, el juez observará la substanciación establecida por las leyes generales sobre competencias de esa clase; y si fuere desfavorable, se abstendrá, según el caso, de iniciar o sostener la competencia.
-
-f).- Si la competencia se hubiere iniciado o sostenido por disposición superior conforme al inciso precedente, y el juez requerido rehusare inhibirse, el requirente dará de nuevo cuenta al Tribunal Pleno con todos los antecedentes y con el informe respectivo, a fin de que aquél, con vista de dichos documentos resuelva si es o no de sostenerse la competencia.
-
-g).- Si de conformidad con lo establecido en la primera parte del inciso b), el juez que aceptó la competencia creyere posteriormente que debe desistirse de ella, y se opone el interesado que ante él litiga, se observará lo dispuesto en la parte final del inciso a).
-
-h).- De las resoluciones del Tribunal Pleno a que se refiere este artículo, no precederá recurso alguno.
-
-50.- Es nulo lo actuado por el juez que fuere declarado incompetente o por el que se hubiere desistido, salvo los casos siguientes:
-
-I.- Cuando la ley lo disponga expresamente;
-
-II.- Cuando la incompetencia sea por razón del territorio y convengan las partes en su validez;
-
-III.- Cuando la incompetencia haya sido declarada con arreglo a lo establecido en los artículos 40 y 46 de este Código.
-
-51.- La nulidad a que se refiere el artículo anterior es de pleno derecho y por tanto, no requiere declaración judicial. Los tribunales declarados competentes harán que las cosas se restituyan al estado que tenían antes de practicarse las actuaciones nulas. Lo dispuesto en este artículo admite las excepciones expresamente consignadas en la ley.
-
-> <small>(F. DE E., P.O. 17 DE ABRIL DE 1974)</small>
-
-52.- Salvo los casos previstos en el artículo 49 de este Código, en todos los demás en que sea declarada improcedente la incompetencia alegada por las partes, aquélla que la hubiere hecho valer será condenada en costas en lo que se refiere al procedimiento que hizo nacer, y se le impondrá, además, una multa hasta de quinientos pesos.
-
-53.- La excepción de litispendencia procede cuando un juez conoce ya del mismo negocio sobre el cual es demandado el reo. El que la oponga, debe señalar en su escrito respectivo, precisamente el juzgado donde se tramita el primer juicio, y presentará una copia autorizada de la primera demanda. Del escrito en que se oponga la excepción se dará traslado por tres días a la parte contraria, y el juez dictará su resolución dentro de las setenta y dos horas siguientes, pudiendo previamente mandar inspeccionar el primer juicio. Si declara procedente la excepción, dará por concluido el procedimiento instaurado ante él.
-
-Si por no haberse opuesto oportunamente la excepción de litispendencia, se llegaren a pronunciar sentencias contrarias o contradictorias, de ellas prevalecerá la que primeramente haya causado ejecutoria.
-
-54.- El objeto de la excepción de conexidad es que un mismo Tribunal conozca de los litigios conexos y los resuelva por una misma sentencia, aun cuando los tramite por cuerda separada. Se entenderá que existe conexidad de litigios, cuando entre ellos haya identidad de personas, identidad de acciones o éstas provengan de una misma causa, y las cosas sean distintas.
-
-La parte que oponga la excepción de conexidad acompañará a su escrito copia autorizada de la demanda y contestación que iniciaron el juicio conexo. De este escrito se correrá traslado por tres días a la parte contraria, y dentro de las setenta y dos horas siguientes el juez resolverá, pudiendo previamente mandar inspeccionar el juicio diverso del que conoce y se ha señalado como causa de la excepción. Declarada procedente la excepción, el Tribunal que conoció de ella remitirá los autos respectivos al Tribunal que conoce del litigio conexo. Si la excepción se hubiere hecho valer en ambos juicios, y en los dos se declarare procedente, conocerá de ellos el Tribunal que haya tomado conocimiento del litigio más antiguo.
-
-55.- No procederá la excepción de conexidad de litigios:
-
-I.- Cuando los litigios están en diversas instancias;
-
-II.- Cuando se trate de juicios sumarios, o de diversa naturaleza;
-
-III.- Cuando los juzgados que conozcan respectivamente de los juicios que se señalan como conexos, sean de diverso fuero o de Entidades Federativas distintas.
-
-56.- La excepción de falta de personalidad o de capacidad en el actor o en el demandado, se substanciará corriendo traslado por tres días del escrito en que se oponga, a la parte contraria. Si el caso requiriera prueba, se abrirá un término para recibirla, el cual fijará el juez prudentemente según la naturaleza de la prueba que deba rendirse. Para este efecto, la parte que vaya a rendir las pruebas señalará en su escrito correspondiente, la que opuso la excepción en el que la hizo valer, y la contraria en el que evacúe el traslado, la naturaleza de la prueba. Recibida ésta, o concluido el término del traslado corrido a la parte contraria de la que opuso la excepción si la prueba no se hubiere promovido, el juez pronunciará su resolución dentro de tres días.
-
-57.- Las demás excepciones dilatorias se substanciarán con un escrito de cada parte, pronunciándose la resolución dentro de los tres días siguientes a la conclusión del término del traslado que deberá correrse del escrito en que se oponga la excepción, a la parte contraria. Para este efecto, la parte que haga valer la excepción, acompañará a su escrito relativo, las pruebas necesarias para fundar su derecho.
-
-58.- Las excepciones perentorias deben oponerse precisamente al contestar la demanda, y después de formulada esta contestación y fijados los puntos cuestionados, no se admitirá salvo lo dispuesto en el artículo siguiente, excepción alguna ni se permitirá al demandado que cambie la opuesta a menos que el actor conviniere en ello. Las excepciones procederán en juicio aun cuando no se exprese su nombre, con tal de que se hagan valer con precisión y claridad el hecho o hechos en que se hace consistir la defensa. No podrán oponerse excepciones o defensas contrarias o contradictorias, aun cuando sea con el carácter de subsidiarias.
-
-59.- Las sentencias ejecutoriadas, las transacciones y pagos judiciales, y cualquiera otro acto procesal que tenga fuerza de cosa juzgada, impiden se entable o continúe un nuevo juicio sobre las cuestiones resueltas. Si de hecho se promoviere o se continuare, podrá hacerse valer la excepción de cosa juzgada en cualquier estado de los autos y en cualquiera instancia después de que cause ejecutoria la resolución sobre la excepción de incompetencia si se hubiere opuesto; y se substanciará y decidirá en artículo de previo y especial pronunciamiento, con arreglo a las disposiciones que este Código establece para los incidentes. Si la excepción es declarada procedente, se condenará en costas, daños y perjuicios al litigante contra quien se diere, y se le impondrá además, de oficio, una multa hasta de dos mil pesos.
+Los Centros planearán sus actividades y conducirán las mismas en forma programada según las directrices que al efecto se establezcan por el Consejo Tutelar con base a las prioridades, restricciones y políticas estatales y nacionales en materia de protección y prevención social.
 
 ## TITULO SEGUNDO. REGLAS GENERALES DEL PROCEDIMIENTO
 
-### CAPITULO I. De la personalidad y capacidad de las partes
+### CAPITULO III. DE LAS ATRIBUCIONES DE LA DIRECCION DEL CENTRO, DE LAS UNIDADES DE APOYO Y DE LAS AREAS TECNICAS
 
-60.- Todo el que conforme a la ley esté en ejercicio de sus derechos civiles, puede comparecer en juicio por sí o por apoderado con poder bastante.
+###### ARTICULO 6o.
 
-Por los que no se hallen en el caso a que se refiere el párrafo que antecede comparecerán sus representantes legítimos, los que deban suplir su incapacidad conforme a derecho, o los apoderados de éstos nombrados con arreglo a la ley.
+La Dirección del Centro estará a cargo de un Director y tendrá las siguientes atribuciones:
 
-61.- Los ausentes e ignorados serán representados como se previene en el título relativo del Código Civil; pero si a juicio del Tribunal el asunto de que se trate fuere urgente o perjudicial la dilación, el ausente será representado por el Ministerio Público. En este último caso, si se presentare por el ausente una persona que pueda comparecer en juicio, será admitida como gestor judicial.
+I.- Administrar y vigilar el buen funcionamiento del Centro;
 
-62.- La gestión judicial es admisible para representar al actor o al demandado. El gestor debe sujetarse a las disposiciones que sobre gestión de negocios establece el Código Civil y tendrá los derechos y facultades de un procurador.
+II.- Fijar los lineamientos de trabajo de las diversas unidades de apoyo y áreas técnicas del Centro;
 
-63.- El gestor judicial, antes de ser admitido, debe dar fianza de que la persona por quien gestiona pasará por lo que él haga, y de que cumplirá lo juzgado y sentenciado e indemnizará los perjuicios y gastos que se causen. La fianza será calificada por el Tribunal bajo su responsabilidad. El fiador del gestor judicial, quedará sujeto a las disposiciones que el Código Civil establece respecto de la fianza legal o judicial.
+III.- Acordar con los encargados de las unidades y áreas técnicas, la distribución del trabajo entre el personal subalterno;
 
-64.- Siempre que dos o más personas ejerciten una misma acción u opongan la misma defensa, deberán litigar unidas y bajo una misma representación. A este efecto nombrarán dentro de tres días un procurador judicial que los represente a todos, con las facultades necesarias para la continuación del juicio, o elegirán de entre ellos mismos un representante común. Si no hicieren ni una ni otra cosa, el Tribunal nombrará al representante común escogiendo a alguno de los que hayan sido propuestos; y si nadie lo hubiere sido, a cualquiera de los interesados. El procurador nombrado por los colitigantes tendrá las facultades legales que en su poder se le hayan concedido; el representante común ejercerá las que le corresponderían si litigare exclusivamente por su propio derecho, excepto las de transigir, desistirse y comprometer en árbitros, a menos de que expresamente le fueran también concedidas por los interesados en las actuaciones o en poder bastante.
+IV.- Presidir el Consejo Técnico Interdisciplinario y designar quien lo sustituya en su ausencia;
 
-65.- Mientras continúe el procurador en su encargo, los emplazamientos, notificaciones y citaciones que se le hagan, incluso las de las sentencias, tendrán la misma fuerza que si se hicieren al poderdante, sin que sea permitido pedir que se entiendan con éste. Lo mismo se entenderá respecto de la persona que haya sido autorizada para oír notificaciones, en tanto no conste en autos la voluntad expresa de la parte que la autorizó para ese efecto, acerca de que no se entiendan en lo sucesivo las notificaciones con dicha persona.
+V.- Recibir en audiencia a los internos que lo soliciten, así como a sus familiares;
 
-66.- Los tribunales examinarán la personalidad de las partes bajo su responsabilidad; no obstante esto, los litigantes tienen derecho de impugnarla en la forma y términos que este Código establece.
+VI.- Vigilar el exacto cumplimiento de los programas terapéuticos y de las resoluciones dictadas por el Consejero Instructor y el Pleno del Consejo Tutelar;
 
-Contra el auto en que el Tribunal desconozca la personalidad del actor y por ese motivo se niegue a dar curso a la demanda, cabe el recurso de apelación en ambos efectos. Resuelto el punto en segunda instancia favorablemente a la personalidad del actor, ésta no podrá ser nuevamente atacada por el demandado, salvo lo dispuesto en el artículo 38.
+VII.- Vigilar el cumplimiento de la Ley y el presente Reglamento;
 
-Contra el auto del Tribunal que reconozca la personalidad de una de las partes, no cabrá recurso alguno; quedando a la parte contraria el derecho de oponer la excepción respectiva o impugnarla con arreglo a lo establecido en el artículo 38 de este Código citado antes.
+VIII.- Coordinar las actividades de cada una de las áreas técnicas de talleres y de vigilancia del propio Centro;
 
-67.- El actor no está obligado a justificar la personalidad que atribuye al demandado, sino en el caso en que éste oponga la excepción correspondiente. Para este efecto cuando el demandado no tenga la representación que se le supone y en virtud de la cual hubiere sido llamado a juicio, o no tenga en su poder la cosa cuya posesión o propiedad se le reclama, deberá hacer valer las excepciones relativas quedando sujeto a lo dispuesto en la primera parte del artículo 846 de este Código, en caso de que lo hiciere.
+IX.- Acordar con el Pleno del Consejo Tutelar las medidas de tratamiento readaptativo que deberán aplicarse a los menores internos;
 
-### CAPITULO II. De las actuaciones
+X.- Informar mensualmente a la Presidencia del Consejo Tutelar sobre la administración del Centro y el tratamiento aplicado a los menores; y
 
-68.- Para la tramitación y resolución de los asuntos ante los tribunales ordinarios, se estará a lo dispuesto por este Código, sin que por convenio de los interesados puedan renunciarse los recursos ni el derecho de recusación, ni alterarse, modificar o renunciarse las normas del procedimiento.
+XI.- Las demás que le confiera este Reglamento y las disposiciones legales aplicables.
 
-69.- Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, con exclusión de los domingos, primero de enero, cinco de febrero, veintiuno de marzo, primero y cinco de mayo, quince y dieciséis de septiembre, doce de octubre, veinte de noviembre, y veinticinco de diciembre, y aquellos en que, por acuerdo del Supremo Tribunal de Justicia del Estado, permanezcan cerrados los tribunales. Se entienden como horas hábiles las que median entre las ocho y las veinte horas.
+###### ARTICULO 7o.
 
-En los juicios sumarios sobre alimentos, impedimentos de matrimonio, servidumbres legales, interdictos posesorios, diferencias domésticas y los demás que determinen las leyes, no hay días ni horas inhábiles. En los demás casos, el juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse. Si una diligencia de ejecución o aseguramiento de bienes, se hubiere comenzado a practicar en horas hábiles, podrá continuarse hasta su conclusión sin necesidad de que el juez habilite las que no lo fueren.
+La Unidad Administrativa estará a cargo de un Subdirector Administrativo, y tendrá las siguientes atribuciones:
 
-70.- Las actuaciones judiciales y los ocursos deberán escribirse en castellano. Los documentos redactados en idioma extranjero deberán acompañarse con la correspondiente traducción al castellano. Las fechas y cantidades se escribirán con letra.
+I.- Controlar y operar el ejercicio del presupuesto de egresos en base a las disposiciones establecidas;
 
-71.- En las actuaciones judiciales no se emplearán abreviaturas, raspaduras, ácidos u otras substancias para borrar las palabras o frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura de lo testado, salvándose al final de la actuación, con toda precisión, el error cometido. Esto último se hará también respecto de las frases o palabras entrerrenglonadas. La infracción de esta disposición, cuando no sea delictuosa, se castigará disciplinariamente por el superior respectivo.
+II.- Mantener actualizado los registros contables que se requieran para llevar a cabo el control presupuestal;
 
-72.- Las actuaciones judiciales deberán ser autorizadas bajo pena de nulidad, por el funcionario público a quien corresponda dar fe o certificar el acto.
+III.- Llevar el control por partida presupuestal del ejercicio del gasto de operación que se asigne al Centro;
 
-73.- Las audiencias en los negocios serán públicas, exceptuándose las que se refieran a divorcio, nulidad de matrimonio, y aquellas otras en que, a juicio del Tribunal, sea conveniente que se verifiquen privadamente.
+IV.- Elaborar el anteproyecto de presupuesto de egresos para la operación del Centro;
 
-Las diligencias de prueba y las demás actuaciones judiciales serán reservadas para los extraños al juicio, y no para ninguna de las partes, salvo los casos en que la ley disponga expresamente lo contrario. El acuerdo será reservado, y las partes no podrán exigir que de él se les dé conocimiento hasta en tanto no queden debidamente autorizadas las resoluciones y éstas deban notificarse.
+V.- Realizar las adquisiciones de bienes y los contratos de servicios que se requieran para el buen funcionamiento del Centro;
 
-74.- Las audiencias se celebrarán, concurran o no las partes. Los alegatos verbales que en ella produzcan los interesados no se harán constar en autos ni podrán exceder de media hora por cada parte incluyendo las réplicas y contrarréplicas. Las partes podrán, en todo caso, presentar en la audiencia sus alegaciones por escrito, las cuales se mandarán agregar a los autos.
+VI.- Tramitar las requisiciones de materiales, productos alimenticios y suministros diversos, así como recibir y controlar la calidad de los mismos, vigilando que sean destinados al cumplimiento de los programas y requerimientos de las distintas áreas, previa autorización del Director del Centro;
 
-75.- El secretario o quien haga sus veces, hará constar el día y la hora en que se presente un escrito, dando cuenta con él, a más tardar, dentro de veinticuatro horas.
+VII.- Vigilar la entrada y permanencia del personal en sus diversas labores, dentro del marco de la Ley del Servicio Civil y de las Condiciones Generales de Trabajo;
 
-Los interesados pueden presentar una copia simple de sus escritos, a fin de que se les devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el empleado que la reciba en el Tribunal.
+VIII.- Tramitar las bajas y altas del personal, las licencias y todas aquellas gestiones que procedan de acuerdo a las Condiciones Generales de Trabajo;
 
-76.- Los jueces y magistrados recibirán por sí todas las declaraciones y presidirán todos los actos de prueba asistidos de sus secretarios o de las personas que hagan sus veces. Sin embargo, en casos de urgencia y cuando el despacho de las labores del Tribunal lo exijan, podrán encomendar a sus secretarios la recepción de las declaraciones o diligencias de prueba, con excepción de aquéllas que requieran su intervención personal de modo indispensable.
+IX.- Llevar a cabo un programa de mantenimiento y conservación de las instalaciones, mobiliario y equipo del Centro, tratando con oportunidad las solicitudes de servicios que se requieran para tal fin;
 
-77.- Las diligencias que deban practicarse en lugar distinto al de la residencia del Tribunal que conoce del litigio, se encomendarán directamente a la autoridad judicial o auxiliar de ésta, que tenga su residencia en el lugar en que aquellas deban practicarse.
+X.- Mantener actualizado el inventario de bienes muebles destinados al servicio del Centro;
 
-78.- Los actos judiciales que importen declaración personal, se ejecutarán bajo protesta de decir verdad.
+XI.- Llevar un control estricto del consumo de combustibles, vigilando que este gasto sea sólo para vehículos y demás equipo oficial, asimismo llevar un control por unidad de los servicios que se le presenten a éstos;
 
-79.- En cualquier estado del negocio pueden los tribunales citar a las partes a las juntas que crean convenientes; ya sea para procurar su avenencia o para esclarecer algún punto, sin que se suspendan los términos que estén corriendo.
+XII.- Solicitar, manejar y controlar un fondo revolvente para gastos urgentes del Centro, los cuales no puedan llevarse a cabo a través de las requisiciones de materiales o solicitudes de servicio; y
 
-80.- Las juntas a que se refiere el artículo anterior, lo mismo que todas las diligencias, se verificarán en el Juzgado o Sala que deba practicarlas, a menos de que por su propia naturaleza deban practicarse en otro lugar, o cuando por razón del sexo, edad, enfermedad u otra circunstancia grave de las personas que intervengan, el Juzgado o Sala designe lugar diverso.
+XIII.- Las demás que le confieran las disposiciones legales aplicables.
 
-81.- Todas las promociones se harán en comparecencia o por escrito, a elección del promovente, salvo en los casos siguientes: a).- Cuando la ley prevenga que se hagan en forma distinta; b).- Cuando de la promoción deba correrse traslado a la parte contraria o al Ministerio Público, pues entonces se hará precisamente por escrito.
+###### ARTICULO 8o.
 
-Las promociones que por escrito se remitieran de fuera del lugar en que estuviera radicado el juicio y se dirijan al Tribunal que de él está conociendo, se tendrán por no presentadas, sin perjuicio de lo que se establece para la formulación de agravios en el recurso de apelación y para la presentación del certificado de denegada apelación.
+La Unidad Operativa y de Custodia estará a cargo de un Subdirector, y tendrá las siguientes atribuciones:
 
-82.- Al primer escrito o comparecencia deberán acompañarse los siguientes documentos, sin perjuicio de lo que se establece especialmente para la presentación de la demanda y su contestación: a).- El documento o documentos que acrediten el carácter con que el litigante se presente en juicio, en el caso de tener la representación legal de alguna persona ya fuere ésta física o moral o cuando el derecho que reclame provenga de habérsele trasmitido por otra persona; b).- El poder que acredite la personalidad del procurador, cuando éste intervenga. Para el cumplimiento de este artículo no bastará, en caso de omisión de los documentos, la protesta de presentarlos después.
+I.- Vigilar y controlar las puertas de acceso a las instalaciones, las áreas de albergue de menores, las aulas, talleres y otras áreas de trabajo colectivo;
 
-83.- Cuando de una promoción deba correrse traslado a la parte contraria de quien promueva o al Ministerio Público, deberán acompañarse al escrito relativo, las copias simples necesarias, una para cada interesado, del escrito y documentos que se presenten. Si se omitiere total o parcialmente la presentación de las copias, el Tribunal prevendrá al promovente que, dentro del término de tres días las exhiba, en la inteligencia de que, mientras no hiciere su exhibición, no se tendrá por hecha la promoción, y en los casos en que la ley señale un término para hacerla, se tendrá por no hecha en tiempo si el interesado no exhibe las copias dentro de este último.
+II.- Preservar en todo momento la seguridad personal de cada uno de los menores internos, buscando prevenir y contener cualquier conducta que comprometa la tranquilidad y buena marcha de los programas;
 
-84.- Los documentos que se hubieren presentado en juicio, deben devolverse a las partes que los presentaron, si lo pidieren; quedando en autos copia exacta de ellos, previo conocimiento que de la solicitud se dé a la parte contraria. Si el juicio estuviere concluido, bastará dejar en autos la razón de la devolución del documento.
+III.- Apoyar al personal de preceptoría en la vigilancia y desarrollo de las actividades de los internos;
 
-Cada parte podrá pedir que a su costa se le expida copia simple o certificada de los documentos presentados por la otra parte. También podrán solicitar que se les expidan copias de las actuaciones; en ambos casos, se mandarán expedir las copias con conocimiento de la otra parte.
+IV.- Determinar las horas de los turnos en las que desde cada posición se reporte “sin novedad”, o se informe de la situación que guarda la vigilancia del Centro;
 
-Los extraños a un juicio podrán solicitar copias de los documentos o actuaciones que obren en él, con arreglo a las disposiciones que este Código establece en el Capítulo relativo a la prueba documental.
+V.- Establecer el código de comunicación interna por silbato y vigilar su uso de conformidad con el manual respectivo;
 
-Las copias certificadas a que se refiere este artículo, serán autorizadas por el funcionario que determine la ley orgánica respectiva o reglamento correspondiente.
+VI.- Efectuar periódicamente revisiones y registros en los dormitorios de los menores internos e informar por escrito de los resultados;
 
-85.- A los jueces y magistrados sólo dará cuenta con los escritos y promociones de las partes, el secretario respectivo o quien haga sus veces conforme a la ley.
+VII.- Vigilar que se efectúe el registro de visitantes, vehículos y objetos diversos que ingresen al Centro;
 
-86.- Las actuaciones y las notificaciones serán nulas, cuando a las primeras les falte alguna de las formalidades esenciales de manera que la omisión deje sin defensa a alguna de las partes, y cuando la ley expresamente lo disponga; las segundas cuando se hagan en forma distinta a la prevenida en este Código.
+VIII.- Hacer del conocimiento de la autoridad competente la posesión de un objeto ilegal por parte de menores internos, personal de Centro y visitantes en general;
 
-87.- La nulidad establecida en beneficio de una de las partes, no puede ser invocada por la otra. Tampoco puede ser invocada la nulidad por la parte que dio lugar a ella.
+IX.- Informar de forma inmediata al Director del Centro y al Presidente del Consejo Tutelar, cuando se presente un intento de fuga o amotinamiento;
 
-88.- La nulidad de una actuación o notificación, deberá reclamarse en la actuación o promoción subsecuentes en que intervenga el interesado en solicitar la nulidad. Si ésta no se hiciere valer en tiempo, la actuación o notificación conceptuada nula quedará revalidada de pleno derecho, con excepción de la nulidad por defecto en el emplazamiento cuando el juicio se haya seguido en rebeldía.
+X.- Implementar los cursos de capacitación necesarios para el personal de custodia de manera sistemática, progresiva y suficiente;
 
-89.- Sólo darán lugar a resolverlas en artículo de previo y especial pronunciamiento, la nulidad por defecto en el emplazamiento, en la citación para absolución de posiciones o para reconocimiento de documentos; por defecto en el requerimiento que se haga a alguna persona para que lleve a cabo un acto de ejecución inmediata, y en los demás casos en que la ley lo determine así expresamente; y se substanciará con un escrito de cada parte. Si se promoviera prueba, se citará a las partes a una audiencia, en la que se recibirán las pruebas y se dictará resolución.
+XI.- Vigilar que el personal de custodia porte el uniforme proporcionado por la Dirección del Centro para el desempeño de sus labores;
 
-Las cuestiones que se susciten con motivo de otras nulidades de actuaciones o notificaciones, se substanciarán dando vista de la promoción de nulidad a la parte contraria de quien promueve, y se fallarán en la sentencia definitiva. Si el mejor despacho lo exigiere, se podrá formar expediente por separado, sin perjuicio de que sea en la sentencia definitiva en donde se resuelva el punto cuestionado.
+XII.- Verificar que a través de los jefes de grupo los custodios rindan un informe diario sobre sus actividades durante su turno; y
 
-90.- La nulidad declarada por defecto en el emplazamiento, implica la nulidad de todo lo actuado con posterioridad al mismo. La nulidad por defecto en la citación para absolver posiciones o reconocer documentos, involucra la de las diligencias y declaraciones judiciales relativas a esos medios de prueba. La nulidad por defecto en el requerimiento para que una persona lleve a cabo un acto determinado de ejecución inmediata, sólo implicará la nulidad de la diligencia de requerimiento y la de las correcciones disciplinarias o medios de apremio que se hayan decretado para hacer cumplir la orden judicial respectiva. Las demás nulidades de las actuaciones o notificaciones, por regla general, sólo implicarán la nulidad de la propia actuación o notificación defectuosa.
+XIII.- Las demás que le confieran las disposiciones legales aplicables.
 
-91.- En todos los casos de nulidad de actuaciones o notificaciones de previo y especial pronunciamiento, sólo se repetirán las declaradas nulas cuando así lo solicitare la parte interesada, salvo que se trate de alguna diligencia decretada de oficio pues en este caso, el Tribunal obrará discrecionalmente.
+###### ARTICULO 9o.
 
-Si al pronunciarse la sentencia definitiva hubiere de declararse la nulidad de alguna actuación o notificación de influencia notoria para la correcta resolución del juicio, el Tribunal que conozca de éste se abstendrá de declarar sobre la acción o excepción deducidas, y ordenará la reposición del procedimiento hasta antes de correrse traslado a las partes para que alegaren de su derecho a fin de que, con arreglo a lo dispuesto en la parte final del párrafo anterior de este artículo, se repitan las actuaciones o notificaciones declaradas nulas, concediéndose para ello un término prudente a juicio del Tribunal. Concluido este término, seguirá su curso el juicio. Cuando en la sentencia definitiva se declaren válidas las actuaciones o notificaciones impugnadas de nulidad, el interesado podrá reclamarlo como agravio en la segunda instancia.
+El Area de Psicología tendrá las siguientes atribuciones:
 
-92.- Las frases "dar vista" y "correr traslado" sólo significan que los autos quedan en la Secretaría para que se impongan de ellos los interesados, o para que se entreguen las copias. Las disposiciones de este artículo comprenden al Ministerio Público.
+I.- Elaborar estudios biopsicosociales a los menores;
 
-93.- Si se perdieren o destruyeren total o parcialmente los autos, será repuesto el expediente a costa del responsable, quien quedará obligado a pagar los daños y perjuicios que se ocasionaren por la pérdida o destrucción, haciéndose además la consignación del caso al Procurador General de Justicia.
+II.- Formular los dictámenes correspondientes a cada menor, en base a los reportes, resultados y avances que obtenga cada uno;
 
-La reposición del expediente se substanciará de oficio en forma incidental; y el secretario, sin necesidad de orden judicial previa, hará constar desde luego la existencia anterior y falta posterior de los autos. Los tribunales quedan facultados para investigar de oficio la existencia de las piezas de autos desaparecidas, valiéndose para ello de todos los medios que no sean contrarios a la honestidad o estén expresamente prohibidos por la ley.
+III.- Llevar el control de todos los expedientes técnicos de los menores sujetos a tratamiento;
 
-Cuando no sea posible reponer todas las actuaciones, se tendrá por probada plenamente la existencia de las que se inserten o mencionen en cualquiera resolución de que exista constancia cierta, siempre que en este caso no exista prueba de que se hubiese objetado oportunamente la exactitud de la inserción o cita que de ellas se haga.
+IV.- Realizar las evaluaciones del tratamiento instaurado a los menores;
 
-### CAPITULO III. De las resoluciones judiciales
+V.- Rendir informes técnicos de valuación al Consejero Instructor;
 
-94.- Las resoluciones judiciales pueden ser: Sentencias o autos. Sentencias son las que resuelven el punto principal del litigio o de la instancia. Autos, todas las demás resoluciones, ya sea que resuelvan un incidente, un punto que no sea de mero trámite, o uno de mera tramitación. Toda resolución expresará la fecha en que se pronuncie y se autorizará por los funcionarios respectivos y por la persona que deba dar fe de ella, con firma entera.
+VI.- Impartir las técnicas, procedimientos y medidas de orientación y rehabilitación, necesarias a los menores;
 
-95.- Las sentencias se ocuparán sólo de las acciones deducidas y de las excepciones opuestas respectivamente en la demanda y en la contestación, y de las demás pretensiones deducidas oportunamente en el litigio. Cuando los puntos litigiosos hubieren sido varios, se hará el pronunciamiento correspondiente a cada uno de ellos. Contendrán, además lo siguiente: a).- La designación del lugar en que se pronuncien y la del Tribunal que las dicte; b).- Los nombres y apellidos del actor y del demandado, y el objeto del litigio; c).- Un extracto breve de los hechos exclusivamente conducentes a los puntos resolutivos de la sentencia; d).- Las consideraciones y los fundamentos legales de ella, comprendiéndose en las primeras los razonamientos que el Tribunal haya tenido en cuenta para apreciar los hechos y para valorar las pruebas; e).- La condenación o absolución que proceda, y los demás puntos resolutivos correspondientes.
+VII.- Efectuar y promover la impartición de sesiones de orientación en diversos temas de prevención hacia los menores, cuidando de que los menores que reciban este apoyo tengan características similares de personalidad, peligrosidad y conducta infractora;
 
-Cuando hubiere de condenarse al pago de intereses, daños y perjuicios, o a la entrega de frutos, se fijará en la sentencia su importe en cantidad líquida, o se establecerán por lo menos, las bases con arreglo a las cuales deba hacerse la liquidación. Sólo en el caso de no ser posible lo uno ni lo otro se hará la condena, a reserva de fijar su importe y hacerla efectiva en la ejecución de la sentencia.
+VIII.- Promover actividades encaminadas a orientar al personal escolar, técnico y de custodia, sobre el manejo que debe darse a los menores en el interior del Centro; y
 
-96.- Los autos contendrán, cuando no sean de mero trámite, una breve exposición del punto de que se trate, y la resolución correspondiente precedida de sus fundamentos legales. Cuando los autos sean de mero trámite, bastará la simple expresión de éste.
+IX.- Las demás que le designe el Director del Centro.
 
-97.- Los autos deberán dictarse dentro de tres días y las sentencias dentro de quince salvo lo que la ley disponga para casos especiales. El término para pronunciar un auto empezará a contar desde la fecha de recibo de la promoción o de la comparecencia en su caso, que motiven la providencia; el término para pronunciar sentencia se contará a partir del día que termine la celebración de la audiencia respectiva o a partir del siguiente en que quede notificado el auto de citación para sentencia. Si el Secretario o quien haga sus veces, no diere cuenta oportunamente con el asunto, se le impondrá por escrito una corrección disciplinaria y los términos a que se refiere en particular este artículo empezarán a contar desde la fecha en que se dio cuenta con el negocio.
+###### ARTICULO 10.
 
-98.- Los tribunales no podrán, bajo ningún pretexto, aplazar, demorar, omitir o negar la resolución de las cuestiones que legalmente hayan sido sometidas a su conocimiento. Para los efectos de esta disposición, tratándose de sentencias, no incurrirá en morosidad culpable el funcionario que deba pronunciarla, si hubiere dictado por lo menos tres sentencias a la semana, sin contar las pronunciadas en rebeldía, en los días en que haya estado al frente de su oficina, siempre que la celebración de la audiencia o la citación respectiva sea de fecha posterior a las correspondientes de las sentencias pronunciadas.
+El Area Médica tendrá las siguientes atribuciones:
 
-99.- Las sentencias una vez firmadas y autorizadas por los funcionarios respectivos, no podrán ser revocadas o modificadas por el que las dictó ni por el que lo substituya en el conocimiento del asunto; pero sí podrán aclarar algún concepto, o suplir cualquiera omisión que contengan sobre un punto discutido en el litigio. Estas aclaraciones podrán hacerse de oficio dentro del día hábil siguiente al de la publicación de la sentencia, o a instancia de parte presentada dentro del día siguiente a la notificación. En este último caso, el juez o magistrado resolverá lo que estime prudente dentro del día siguiente al de la presentación del escrito en que se solicite la aclaración. El auto en que se aclare una sentencia, se considerará como parte integrante de la misma.
+I.- Elaborar las historias clínicas de los menores al momento de su ingreso al Centro, incluyendo el examen físico;
 
-Los tribunales no podrán al aclarar una sentencia, alterar o variar la parte substancial de ella.
+II.- Brindar atención médica a los menores, elaborando los diagnósticos y tratamientos adecuados;
 
-100.- Los autos que no sean apelables, podrán revocarse o modificarse mediante la interposición del recurso correspondiente, si se trata de la primera instancia; en la segunda, todos los autos podrán revocarse o modificarse mediante la interposición del recurso respectivo.
+III.- Dar a conocer en forma inmediata y por escrito a las autoridades del Centro, las enfermedades transmisibles o contagiosas que se presenten, con el fin de tomar las medidas que sean necesarias, dando aviso a las autoridades sanitarias correspondientes en caso de ser necesario;
 
-101.- Las resoluciones judiciales dictadas con el carácter de provisionales pueden modificarse en la sentencia definitiva.
+IV.- Impartir pláticas de orientación e información a los menores en temas relacionados con la salud;
 
-Las resoluciones judiciales firmes dictadas en negocios sobre alimentos, ejercicio y suspensión de la patria potestad, interdicción, jurisdicción voluntaria, y las demás que prevengan las leyes, pueden alterarse y modificarse cuando cambien las circunstancias que afectan al ejercicio de la acción que se dedujo en el juicio correspondiente.
+V.- Proponer las dietas del servicio de alimentación con el propósito de que cubran los nutrientes básicos requeridos, supervisar su elaboración y vigilar sus condiciones sanitarias;
 
-102.- Las resoluciones judiciales no se tendrán por consentidas sino cuando notificada la parte conteste expresamente de conformidad, o deje pasar el término señalado para interponer el recurso que proceda.
+VI.- Evaluar periódicamente las condiciones de higiene que existan en el Centro y proponer las medidas que sean necesarias;
 
-103.- Toda sentencia tiene a su favor la presunción de haberse pronunciado según la forma prescrita por la ley, con conocimiento de causa, y por el Tribunal legítimo y competente para pronunciarla.
+VII.- Asistir a las pláticas de orientación e información que se les impartan;
 
-104.- La sentencia firme o ejecutoriada produce acción y excepción contra los que litigaron y contra los terceros que fueron llamados legalmente al juicio. Con excepción de estos últimos, un tercero puede excepcionarse contra la sentencia firme, salvo contra la que haya recaído en juicio de estado civil a menos que, en este último caso, alegue la colusión de los litigantes para perjudicarlo.
+VIII.- Participar en las tareas comunitarias que se realizan en el interior del Centro; y
 
-### CAPITULO IV. De las correcciones disciplinarias y medios de apremio
+IX.- Las demás que le designe el Director del Centro.
 
-105.- Los magistrados y jueces tienen el deber de mantener el orden de los debates judiciales y de exigir que las partes, sus representantes y abogados, les guarden y se guarden entre sí el respeto y consideración correspondientes, lo mismo que a las autoridades cuyos actos sean materia de la instancia o petición, o aquellas que por cualquier otro motivo fueren aludidas en los escritos y alegatos; y corregirán las faltas que se cometieren imponiéndole al responsable una corrección disciplinaria. También podrán hacer uso de la fuerza pública. Si las faltas llegaren a ser delictuosas, se consignará el caso al Procurador General de Justicia, remitiéndose a este funcionario testimonio de las constancias conducentes.
+###### ARTICULO 11.
 
-También podrán los tribunales imponer, por resolución escrita, correcciones disciplinarias a los secretarios, notificadores y demás empleados dependientes de aquéllos, por las faltas que cometen en el desempeño de sus funciones o labores respectivas.
+El servicio médico estará constituido por el personal médico adscrito y los apoyos que obtenga el Consejo Tutelar de instituciones públicas o privadas.
 
-106.- Son correcciones disciplinarias: a).- El apercibimiento; b).- La multa hasta de quinientos pesos; c).- La suspensión hasta por un mes.
+###### ARTICULO 12.
 
-La multa, tratándose de obreros o jornaleros, no deberá exceder del importe de su jornal o sueldo en una semana. Tratándose de funcionarios o empleados públicos, la multa se calculará en días de sueldo, no debiendo exceder de quince días. Esto último tendrá también aplicación cuando se trate de empleados particulares.
+El suministro de medicamentos para los internos será ordenado exclusivamente por el médico del Centro y cumplimentado por el personal de custodia. La prescripción de medicamentos deberán (sic) hacerse siempre por escrito.
 
-107.- Las correcciones disciplinarias podrán imponerse de plano en el acto de cometerse la falta, o después, en vista de lo consignado en el expediente o certificación que hubiere extendido el secretario por orden del Tribunal.
+###### ARTICULO 13.
 
-108.- Cuando la corrección disciplinaria consista en multa y recaiga sobre persona que goce sueldo del Erario Público, se dará aviso de ella a la oficina pagadora respectiva para que haga el descuento correspondiente.
+El Area de Trabajo Social tendrá las siguientes atribuciones:
 
-109.- Contra cualquiera providencia en que se imponga alguna corrección disciplinaria, se oirá en audiencia al interesado si éste lo pidiere dentro de las veinticuatro horas siguientes a la en que tuvo conocimiento de la corrección. En vista de lo que aquél manifieste, el funcionario que la hubiere impuesto resolverá sin más trámite, en la misma audiencia, lo que estime procedente. Contra esta resolución no cabrá recurso alguno.
+I.- Practicar estudio socio-familiar de los menores internos, mediante la entrevista personal con sus padres o responsables;
 
-110.- Los tribunales, para hacer cumplir sus determinaciones, podrán emplear, por su orden, los siguientes medios de apremio: a).- Multa de cincuenta a quinientos pesos; b).- El auxilio de la fuerza pública; c).- Arresto hasta por quince días. Si agotados los medios de apremio, no se obtuviera el cumplimiento de la resolución que motivó el uso de ellos, el rebelde será consignado al Procurador General de Justicia como autor de desobediencia a un mandato legítimo de autoridad.
+II.- Realizar acciones tendientes a fomentar la comunicación y las relaciones entre el menor y su familia, tanto al interior como al exterior del Centro;
 
-Contra la resolución que ordene que se haga uso de un medio de apremio, cabrá el recurso de apelación en el efecto devolutivo.
+III.- Coordinar acciones con las demás áreas del Centro con el fin de propiciar la adaptación del menor a su entorno familiar y social;
 
-### CAPITULO V. De los términos judiciales
+IV.- Fomentar y propiciar la visita familiar constante a los menores internos;
 
-111.- Los términos que este Código establece salvo los casos de excepción por él mismo determinados, son improrrogables, y se contarán a partir del día siguiente a aquél en que se hubiere hecho el emplazamiento, citación o notificación.
+V.- Informar quincenalmente al Director del Centro sobre las actividades realizadas por los menores internos;
 
-Cuando fueren varias las partes y el término común, éste comenzará a contarse desde el día siguiente a la última notificación. Se entenderá que el término es común, siempre que la ley o su propia naturaleza no lo determinen como individual.
+VI.- Colaborar con las autoridades del Centro en la realización de eventos sociales y culturales;
 
-Siempre que la práctica de un acto judicial requiera citación de personas que estén fuera del lugar del juicio, para que concurran ante el Tribunal, se ampliará el término que fije la ley para ese objeto, por todo el que prudentemente sea necesario atendida la distancia y los medios de comunicación ordinaria, salvo que la ley disponga expresamente otra cosa. Esta disposición regirá también para el emplazamiento del demandado.
+VII.- Coordinar los traslados y entrega de los menores, cuando se requiera, con el apoyo del personal de seguridad;
 
-112.- Para fijar la duración de los términos, los meses se computarán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales contadas de las veinticuatro a las veinticuatro. En ningún término se contarán los días en que no puedan tener lugar actuaciones judiciales; y en los autos se hará constar el día en que comienzan a correr y aquél en que deben concluir.
+VIII.- Realizar la búsqueda y localización de familiares de menores internos cuando sea necesario; y
 
-113.- Los términos no podrán volverse a abrir después de concluidos ni suspenderse, salvo cuando la ley disponga lo contrario, o cuando el uso del término implique la lectura, vista o traslado de los autos y el Tribunal no los ponga oportunamente a disposición del interesado.
+IX.- Las demás que le señale el Director del Centro.
 
-114.- Concluidos los términos concedidos, sin necesidad de instancia de parte ni de especial declaración, seguirá el juicio su curso y, en su caso, se tendrá por perdido el derecho que dentro de ellos debió ejercitarse salvo los casos en que la ley prevenga otra cosa.
+###### ARTICULO 14.
 
-115.- Cuando este Código no señale términos para la práctica de algún acto judicial o para el ejercicio de algún derecho, se tendrán por señalados los siguientes:
+El Area de Pedagogía tendrá las siguientes atribuciones:
 
-a).- Cinco días para interponer el recurso de apelación de sentencia definitiva, b).- Tres días para apelar de autos o sentencia interlocutoria; c).- Tres días para la celebración de juntas, reconocimientos de firmas, exhibición de documentos, dictamen de peritos, a no ser que por circunstancias especiales creyere justo el Tribunal ampliar el término, lo cual podrá hacer por tres días más; d).- Tres días para todos los demás casos.
+I.- Aplicar examen pedagógico de evaluación inicial;
 
-### CAPITULO VI. De las notificaciones
+II.- Ubicar al menor en la actividad escolar correspondiente;
 
-116.- Las notificaciones, citaciones y emplazamientos se efectuarán, lo más tarde, dentro de los dos días siguientes al en que se pronuncien las resoluciones que las prevengan, a no ser que éstas o la ley dispusieren otra cosa. Se impondrá de plano a los infractores de este artículo, una multa hasta de doscientos pesos.
+III.- Elaborar recomendaciones particulares al maestro de grupo que atenderá al menor;
 
-117.- Todas las resoluciones se notificarán a las partes; a los extraños al litigio, sólo en el caso en que la resolución así lo exprese, determinándose en ella precisamente la materia u objeto de la diligencia y los nombres de las personas con quienes deba practicarse.
+IV.- Dar apoyo pedagógico y seguimiento del avance escolar del menor y de su aprovechamiento en los talleres de capacitación para el trabajo;
 
-118.- Todos los litigantes en el primer escrito que presenten o en la primera diligencia en que intervengan, designarán casa ubicada en el lugar del juicio para que en ella se les hagan las notificaciones y se practiquen las demás diligencias que sean necesarias. Igualmente deben designar la casa en que ha de hacerse la primera notificación a la persona o personas contra quienes promueven, o a solicitud suya deba citárseles para alguna diligencia. Cuando un litigante no cumpla con lo prevenido en la primera parte de este artículo, las notificaciones, aun las que conforme a este Código deben hacerse personalmente, se harán por medio de lista en el local del Juzgado o Sala y, si falta a la segunda parte, no se hará notificación alguna a la persona o personas contra quienes se promueva o deba citarse, hasta que se subsane la omisión. Para los efectos de esta última disposición no será necesario prevención especial del Tribunal.
+V.- Canalizar al menor con problemas de aprendizaje al Area de Psicología de la Institución;
 
-Cuando un litigante cambiare de domicilio, deberá designar el nuevo; y mientras no lo hiciere, las notificaciones personales se le seguirán haciendo en el domicilio que conste en autos. Esto mismo se aplicará a todas las demás personas que con cualquier carácter diverso del de partes, intervenga en el litigio, salvo cuando se trate de autoridades.
+VI.- Informar a los padres o tutores del menor acerca de su situación escolar y sus avances, para que a su egreso le brinden apoyo y continúe sus estudios; y
 
-119.- Se notificará personalmente en el domicilio del interesado:
+VII.- Las demás que le señale el Director del Centro.
 
-a).- El emplazamiento del demandado y la primera notificación en el juicio, aunque sean diligencias preparatorias o se trate de terceros extraños al juicio.
+###### ARTICULO 15.
 
-b).- El auto que ordene la absolución de posiciones o el reconocimiento de documentos.
+La educación que se imparta a los menores internos, además de estar apegada a los planes y programas oficiales, deberá enfatizar los aspectos cívico, artístico, deportivo y de necesidades para el trabajo, mediante la organización de eventos para promover esas disciplinas tanto al interior como al exterior del Centro.
 
-c).- La primera resolución que se dicte cuando se dejare de actuar más de dos meses por cualquier motivo.
+El sistema escolar que funcione en el Centro estará a cargo de un coordinador designado por el Director; se integrará por el personal docente adscrito y el de la biblioteca, así como por los talleres de capacitación y adiestramiento, de actividades culturales y deportivas.
 
-d).- Cuando se estime que se trata de un caso urgente y por este motivo así se ordenare por el Tribunal.
+###### ARTICULO 16.
 
-e).- El requerimiento de un acto a la persona que deba cumplirlo.
+El Area de Pedagogía promoverá, en coordinación con el personal directivo y docente, que los menores internos se desarrollen en un ambiente escolar de motivación y apoyo constante para lograr los fines de la educación.
 
-f).- En los demás casos que la ley lo disponga.
+###### ARTICULO 17.
 
-120.- Si se tratare de la notificación de la demanda y a la primera busca no se encontrare al demandado, cerciorado el que debe hacer la notificación de que el interesado vive en dicha casa y se encuentra en la población, le dejará cita para hora fija dentro del siguiente día, haciendo constar en el citatorio el nombre de la persona a quien se cita, el día y la hora en que debe esperar la notificación, y pondrá en el mismo el sello del juzgado autorizándose el citatorio por el notificador. Si la persona que debe ser notificada no esperase a que se le haga la notificación, ésta se le hará por medio de instructivo que se entregará a los parientes o domésticos del interesado o a cualquiera otra persona que viva en la casa; de todo lo cual se asentará razón en las diligencias. Cuando no sea forzoso entregar las copias del traslado, en el instructivo se hará una relación sucinta de la demanda y de la resolución que se notifica y, en todo caso, la designación del juicio y el nombre del promovente.
+Los certificados y constancias que se expidan a los menores no deberán contener referencia alguna al Centro.
 
-Las demás notificaciones personales se harán al interesado, o a su representante o procurador, en la casa designada al efecto; y no encontrándolo el notificador, sin necesidad de nueva búsqueda, le dejará un instructivo en el que hará constar la fecha y hora en que la entrega, el nombre y apellido del promovente, el Tribunal que manda practicar la diligencia, la determinación que se manda notificar y el nombre y apellido de la persona a quien se entrega, recogiéndole la firma en la razón que asentará del acto. Si ésta no supiere, o no pudiere o no quisiere firmar, se hará constar esta circunstancia.
+### CAPITULO IV. DEL CONSEJO TECNICO INTERDISCIPLINARIO
 
-121.- Sin perjuicio de lo dispuesto en el artículo anterior, cuando después de cerciorado el notificador de que la persona por notificar vive en la casa y se encontrare ausente de ella, y la persona con quien se entiende la notificación se niegue a recibir ésta, la notificación podrá hacerse en el lugar en que habitualmente trabaje la persona que debe ser notificada, sin necesidad de que el Tribunal dicte providencia especial para ello.
+###### ARTICULO 18.
 
-122.- Cuando no se conociere el lugar en que la persona que debe ser notificada trabaje habitualmente conforme al artículo anterior, la notificación se podrá hacer en el lugar en donde se encuentre el interesado. En este caso, si la persona notificada se negare a firmar la notificación o no supiere hacerlo, lo hará a su ruego un testigo. Si no quisiere firmar ni presentar testigo que lo haga por ella, firmarán dos testigos requeridos al efecto por el notificador. Estos testigos no podrán negarse a hacerlo, y si rehusaren se les impondrá de plano una multa hasta de doscientos pesos.
+Los Centros contarán con un Consejo Técnico Interdisciplinario, el cual se integrará por el Director del Centro, quien lo presidirá, los Subdirectores de las unidades Administrativa y Operativa y de Custodia, así como los responsables de las áreas técnicas.
 
-123.- Cuando la persona que por primera vez deba ser notificada se encontrare o residiere en punto distinto del lugar del juicio, pero dentro del mismo territorio judicial, se hará la notificación por conducto del Tribunal de la municipalidad donde se encuentre o resida, mediante despacho. Si se halla en otro distrito judicial o fuera del Estado, se librará exhorto al Tribunal respectivo, en el cual se insertará copia de la petición, de los documentos en que ésta se funde, y la resolución en cuya virtud se libra. No será necesario insertar en el exhorto la petición y documentos que la funden, cuando de ellos deban entregarse al interesado las copias simples correspondientes, las cuales para este efecto, se acompañarán al exhorto.
+Podrán acudir a las sesiones de trabajo del Consejo Técnico Interdisciplinario, asesores especiales e invitados, quienes tendrán oportunidad de opinar sobre el asunto que se trate, sin derecho a voto.
 
-No sabiéndose en que lugar se encuentra la persona por notificar o cuando se ignore su domicilio y el lugar donde trabaja habitualmente, se le citará por edictos que se publicarán por tres veces consecutivas en el Periódico Oficial del Estado, de siete en siete días, a más de fijarse un tanto de ellos en el tablero del Tribunal. Además el Tribunal ordenará que la publicación de los edictos se lleve a cabo en un diario que se edite en el lugar del juicio y en caso de no existir, en uno de la Capital del Estado.
+Los integrantes del Consejo Técnico Interdisciplinario, tendrán derecho a voz y voto; el Presidente del mismo, en caso de empate, tendrá voto de calidad.
 
-124.- En los despachos o exhortos que se libren y en los edictos que se publiquen conforme al artículo anterior se señalará a los emplazados un término prudente, a juicio del Tribunal, para que se apersonen a continuar el procedimiento en el lugar del juicio, apercibiéndolos de que de no verificarlo, éste seguirá su curso sin que se les admitan promociones de fuera del lugar del litigio, y de que todas las ulteriores notificaciones y citaciones se les harán por medio de la lista, lo cual se hará así mientras no comparezcan por sí o por apoderado.
+###### ARTICULO 19.
 
-125.- La segunda y ulteriores notificaciones se harán personal e indistintamente por el secretario, notificador o testigos de asistencia, si las partes se presentan al Tribunal respectivo, dentro de los dos días siguientes en que deben hacerse y durante las horas del despacho ordinario.
+El Consejo Técnico Interdisciplinario podrá proponer a las autoridades del Centro las medidas de alcance general para la buena marcha del mismo.
 
-Si las partes, sus procuradores o personas autorizadas para oír notificaciones, no ocurren al Tribunal como antes se dispone, la notificación se dará por hecha y surtirá sus efectos legales a las doce horas del último día a que se refiere el párrafo anterior, asentándose en los autos la correspondiente razón, expresando la fecha de la lista fijada en los estrados del Tribunal en la cual se hayan inscrito dichos autos, y el número que en esa lista le haya correspondido según se previene en el artículo siguiente.
+###### ARTICULO 20.
 
-126.- Para los efectos del artículo anterior, los secretarios de las Salas y Juzgados o quien los substituya, todos los días, concluido el acuerdo, formarán y autorizarán la lista de los negocios que se hayan acordado, numerándolos por orden sucesivo, y expresando en ella los nombres de las partes litigantes o promoventes, la clase de juicio o procedimiento de que se trate, y el cuaderno o expediente en que se hubiere dictado la resolución. Antes de las nueve horas del día siguiente al del acuerdo, los secretarios de las Salas y Juzgados o quien los substituya, fijarán en un lugar visible de su oficina, la lista formada el día anterior, la cual deberá permanecer fijada hasta la hora en que la notificación del acuerdo respectivo haya surtido sus efectos. Esta lista se hará por duplicado y se coleccionarán ambos ejemplares para resolver cualquiera cuestión que se suscite sobre la legalidad de cualquiera notificación.
+Las reuniones del Consejo Técnico Interdisciplinario se llevarán a cabo una vez por semana y se sujetarán al siguiente orden del día:
 
-127.- Deben firmar las notificaciones la persona que las hace y aquélla a quien se hacen; y si esta no supiere o no quisiere firmar, lo hará el secretario, notificador, testigos de asistencia o Notario, haciendo constar esta circunstancia.
+a) Lista de presentes.
 
-128.- Cuando se trate de citar a peritos, testigos o personas que no sean parte en el juicio, se puede hacer la notificación personalmente o por instructivo en sobre cerrado y sellado conteniendo la determinación del Tribunal que mande practicar la diligencia. Estos instructivos pueden entregarse por conducto de la policía, de las partes mismas interesadas en la cita, y de los notificadores, recogiendo la firma del notificado en el sobre que será devuelto para agregarse a los autos.
+b) Lectura, aprobación o modificación del acta de la sesión anterior y firma para los miembros del Consejo Técnico Interdisciplinario.
 
-También podrá citarse a las personas a que se refiere este artículo, por correo certificado o por telégrafo, a costa, en ambos casos, del promovente. Cuando se haga por telégrafo la citación, se enviará por duplicado a la oficina que haya de trasmitirlo, la cual devolverá sellándolo previamente, uno de los ejemplares que se agregará al expediente.
+c) Análisis, discusión y aprobación de las medidas aplicables a los internos.
 
-### CAPITULO VII. De los exhortos y despachos
+d) Asuntos generales.
 
-129.- Cuando tuviera que practicarse alguna diligencia fuera del lugar en que se sigue el juicio, se encargará su cumplimiento al Tribunal de aquél en que ha de ejecutarse. También podrán los tribunales, aunque una diligencia deba practicarse dentro de su propia competencia, encomendar, a otro de inferior categoría su cumplimiento, si por razón de la distancia fuere más práctico que éste la realice.
+###### ARTICULO 21.
 
-130.- El término para la cumplimentación de cualquier exhorto o despacho será de tres días, a no ser que las diligencias que hubieren de practicarse requieran necesariamente mayor tiempo, en cuyo caso se entenderá prorrogado hasta el de quince días.
+El Consejo Técnico Interdisciplinario tendrá las siguientes funciones:
 
-131.- El funcionario requerido acusará recibo del exhorto o despacho tan pronto como lo tenga en su poder, y comunicará al remitente, con la debida oportunidad, las causas que hubiere para no devolverlo diligenciado dentro de los referidos tres días.
+I.- Acordar la realización de estudios biopsicosociales y de personalidad a los menores, para efectos de la determinación del tratamiento más adecuado para lograr su reintegración a la familia y a la sociedad;
 
-132.- Los exhortos y despachos contendrán las inserciones necesarias según la naturaleza de la diligencia que se haya de practicar. El Tribunal requerido no entrará a juzgar de la legalidad o procedencia de la diligencia que se le encomienda; y no podrá dejar de obsequiar el exhorto o despacho, sino cuando éstos carezcan de los requisitos de forma que este Código establece, o el mismo determine expresamente que no deba cumplirse.
+II.- Proponer al Consejero la aplicación de medidas de tratamiento a los menores;
 
-133.- Si no fuere obsequiado el exhorto o despacho dirigido por un juez del Estado, el que lo expidió se dirigirá al Supremo Tribunal de Justicia para que éste lo haga cumplir si se trata de otro Juzgado del Estado, o para que requiera su cumplimiento por medio del Tribunal de la misma categoría en la Entidad a que pertenezca el Tribunal requerido.
+III.- Evaluar el desarrollo y avance del tratamiento aplicado al menor;
 
-134.- En casos urgentes se podrá usar del telégrafo; pero en el mensaje se expresará con toda claridad la diligencia de que se trate, el asunto de donde ella emane, el fundamento legal de la providencia y el aviso de que se mandará por el primer correo el exhorto o despacho que ratifique el mensaje.
+IV.- Proponer a los Consejeros la terminación de las medidas de tratamiento que se estén aplicando a algún menor, con base en sus resultados;
 
-135.- Cuando se trate de exhortos o despachos entre tribunales del Estado, no se legalizarán la firma del funcionario exhortante ni la del que practique las diligencias ordenadas por el Tribunal requirente. Tampoco es necesaria la legalización de las firmas de los exhortos que provengan de los Tribunales de otras Entidades Federativas, pues para que en este Estado se les dé entera fe y crédito, y sean cumplimentados, bastará que llenen los requisitos establecidos en este Código, para los exhortos entre tribunales locales.
+V.- Determinar la aplicación de las medidas disciplinarias a los menores internos;
 
-136.- Los exhortos dirigidos a los tribunales extranjeros o que éstos envíen a los del Estado, se sujetarán en su forma y substanciación, a las disposiciones relativas del Código Federal de Procedimientos Civiles.
+VI.- Proponer estímulos para los menores internos cuando su conducta los justifique plenamente;
 
-137.- Para las diligencias que tengan que practicarse en otro lugar distinto al en que se sigue el juicio, las partes podrán designar persona que, en su representación, asista a aquéllas, haga que se presenten los testigos si se trata de esa prueba, y acuda a cuanto exija el cumplimiento de las mismas diligencias. Esa designación se expresará en el exhorto o despacho que se libre.
+VII.- Analizar las propuestas y programas de trabajo que sometan a su consideración las diversas áreas del Centro;
 
-En el caso de este artículo, el Tribunal requerido señalará día y hora en que haya de practicarse la diligencia, citando a la persona o personas designadas si estuvieren presentes en la localidad; en caso contrario, la diligencia, si fuere posible, se llevará a efecto sin esa citación, lo mismo que cuando citados aquéllos, no ocurran al Tribunal el día y hora fijados.
+VIII.- Supervisar y evaluar el funcionamiento de los programas readaptativos del Centro; y
 
-138.- No se notificarán al que presente un exhorto o despacho, ni al representante de que trata el artículo anterior, las providencias que se dicten para cumplimentarlos, sino en los casos siguientes: a).- Cuando se prevenga en el mismo despacho que se practique alguna diligencia con citación, intervención o concurrencia del que lo hubiere presentado o del representante; b).- Cuando sea necesario requerirle para que suministre algunos datos o noticias que puedan facilitar el cumplimiento del exhorto o despacho.
+IX.- Vigilar el cumplimiento de las disposiciones de la Ley y del presente Reglamento.
 
-139.- Los tribunales podrán acordar que los exhortos y despachos que manden expedir, se entreguen, para hacerlos llegar a su destino, a la parte interesada que hubiere solicitado la práctica de la diligencia, quien tendrá la obligación de devolverlos con lo que se hubiere practicado, si por su mismo conducto se hiciera la devolución.
+### CAPITULO V. DEL INGRESO DE LOS MENORES A LOS CENTROS
 
-140.- Al dirigirse los tribunales a funcionarios o autoridades que no sean judiciales, lo harán por medio de oficio.
+###### ARTICULO 22.
 
-### CAPITULO VIII. De las costas
+Al ingresar un menor a los Centros, el personal directivo deberá tomar las siguientes medidas:
 
-141.- Se llaman costas todos los gastos hechos para promover y sostener un litigio, sean los que inmediatamente originen las promociones y diligencias constantes en los autos, sean los demás que fueren indispensables para el fin indicado y se justificaren de otra manera.
+I.- Informar al menor sobre el funcionamiento del Centro y de sus derechos y obligaciones, acto del cual deberá levantarse constancia, misma que se anexará a su expediente;
 
-142.- Por ningún acto judicial se cobrarán costas, ni aun cuando se actuare con testigos de asistencia o se practiquen diligencias fuera del lugar del juicio.
+II.- Poner al menor, en primer término, a disposición del Area Médica con el fin de valorar su estado de salud. Posteriormente remitirlo al Area de Trabajo Social para la elaboración del estudio socioeconómico y localización de familiares cuando el caso lo requiera y, finalmente, enviarlo al Area de Psicología para valorar su estado mental;
 
-143.- Cuando los magistrados, jueces, secretarios y notificadores o ejecutores practiquen alguna diligencia fuera del lugar del juicio, la parte que la promueva solamente proporcionará alimentos y medios de conducción, sin que en ningún caso puedan aquéllos cobrar honorarios.
+III.- Canalizar al menor, para su atención, a una institución médica, cuando el resultado de los exámenes practicados determine que padece trastorno psíquico grave y permanente o enfermedad grave, previa autorización del Presidente del Consejo Tutelar; y
 
-144.- Cada parte será inmediatamente responsable de las costas que originen las diligencias que promueva, sin perjuicio de que la que fuere condenada al pago de aquéllas, satisfaga a la contraria todas las que hubiere erogado o tuviere que erogar. La condenación no comprenderá los honorarios del procurador, ni la del patrono, sino cuando éstos fueren abogados con título legal registrado. Los abogados extranjeros no podrán cobrar costas, sino cuando estén autorizados legalmente para ejercer su profesión y haya reciprocidad internacional con el país de su origen, en el ejercicio de la abogacía.
+IV.- Clasificar a los menores en grupos homogéneos de acuerdo a su grado de reiterancia (sic), conducta, edad, sexo y personalidad, para su ubicación en las áreas de comedor, convivencia y, en especial la de dormitorios.
 
-145.- La condenación en costas se hará cuando así lo prevenga la ley, o cuando, a juicio del Tribunal, se haya procedido con temeridad o mala fe.
+### CAPITULO VI. DE LOS DERECHOS Y OBLIGACIONES DE LOS MENORES INTERNOS
 
-Siempre serán condenados:
+###### ARTICULO 23.
 
-a).- El que ninguna prueba rinda para justificar su acción o su excepción, si se funda en hechos disputados.
+Son derechos de los menores internos:
 
-b).- El que presentare instrumentos o documentos falsos, o testigos falsos o sobornados.
+I.- Recibir un trato respetuoso, justo y humano, exento de cualquier coacción física o psicológica;
 
-c).- El que fuere condenado en los juicios ejecutivos, hipotecarios, en los interdictos de retener y recuperar la posesión, y el que intente alguno de estos juicios si no obtiene sentencia favorable. En estos casos, la condenación se hará en primera instancia, observándose en la segunda lo que dispone la fracción siguiente.
+II.- Recibir tres alimentos diarios, así como las dietas prescritas por el servicio médico;
 
-d).- El que fuere condenado por dos sentencias conformes de toda conformidad en su parte resolutiva, sin tomar en cuenta la declaración sobre costas. En este caso, la condenación comprenderá las costas de ambas instancias.
+III.- Ser visitado por su defensor en cualquier día y hora hábil del año, previa autorización del consejero instructor en turno;
 
-146.- Las costas serán reguladas por la parte a cuyo favor se hubieren declarado, y se substanciará el incidente respectivo en vía de ejecución de sentencia, con un escrito de cada parte, resolviéndose dentro del tercer día. La resolución que se dicte en el incidente será apelable en el efecto devolutivo.
+IV.- Recibir visitas los días y horas establecidos;
 
-147.- En los negocios ante los jueces de paz no se causarán costas, cualquiera que sea la naturaleza del juicio.
+V.- Recibir atención médica, psicológica, pedagógica, social y de capacitación para el trabajo;
+
+VI.- Participar en actividades educativas, formativas, recreativas, deportivas y culturales que se lleven a cabo en el Centro;
+
+VII.- Recibir estímulos por su buen comportamiento y aceptación a las normas y lineamientos del Centro; y
+
+VIII.- Ser informado de los derechos y obligaciones relativos a su permanencia en el Centro.
+
+###### ARTICULO 24.
+
+Son obligaciones de los menores internos:
+
+I.- Acatar las normas internas de organización y funcionamiento del Centro;
+
+II.- Guardar el debido respeto a las autoridades del Centro, personal técnico, administrativo y de custodia, así como a sus compañeros internos y visitantes en general;
+
+III.- Realizar con esmero y responsabilidad las actividades que les sean encomendadas;
+
+IV.- Cumplir con los horarios de actividades establecidas por la Dirección del Centro;
+
+V.- Cuidar las instalaciones, herramienta y equipo del Centro, procurando mantener siempre la limpieza necesaria;
+
+VI.- Procurar su aseo e higiene personal;
+
+VII.- Mantener aseado el dormitorio, el área de convivencia, las aulas y los jardines y áreas de esparcimiento;
+
+VIII.- Asistir a la escuela y talleres de adiestramiento, así como a las actividades deportivas y culturales;
+
+IX.- Asistir a las pláticas de orientación e información que se les impartan; y
+
+X.- Participar en las tareas comunitarias que se realicen en el interior del Centro.
+
+###### ARTICULO 25.
+
+Queda estrictamente prohibido a los menores internos:
+
+I.- Poseer cualquier clase de objeto o sustancia que ponga en peligro la seguridad e integridad física de sus compañeros o del personal en general, así como de las instalaciones del Centro;
+
+II.- Manejar la maquinaria, equipo o herramienta de trabajo de los talleres del Centro sin la autorización y supervisión correspondientes;
+
+III.- Introducirse a alguna de las áreas del Centro fuera del horario establecido y sin la debida autorización;
+
+IV.- Introducir y tener en posesión cigarros, pastillas tóxicas, inhalantes, o algún otro estupefaciente o psicotrópico;
+
+V.- Extralimitarse en las tareas encomendadas por la Dirección;
+
+VI.- Desobedecer disposiciones de higiene general;
+
+VII.- Dañar las instalaciones con pintas de cualquier tipo en paredes, techos, pisos, mobiliario o equipo;
+
+VIII.- Establecer cualquier tipo de contacto sexual o permitir abusos sexuales en su persona;
+
+IX.- Construir, introducir o tener en posesión objetos punzocortantes contundentes o de cualquier otra modalidad que puedan resultar potencialmente dañinos; y
+
+X.- Atentar en contra de su integridad física o la de cualquier otro menor interno.
+
+### CAPITULO VII. DE LAS MEDIDAS DISCIPLINARIAS
+
+###### ARTICULO 26.
+
+Los internos que no cumplan con sus obligaciones o ejecuten actos prohibidos por este Reglamento, se harán acreedores a las siguientes medidas disciplinarias:
+
+I.- Amonestación verbal;
+
+II.- Expulsión temporal de los talleres o actividades escolares, recreativas, culturales y deportivas;
+
+III.- Amonestación por escrito con copia a su expediente personal y tutelar; y
+
+IV.- Reporte de comportamiento al Pleno del Consejo Tutelar, con la solicitud de revisar su medida tutelar;
+
+Estas medidas serán determinadas por el Consejo Técnico Interdisciplinario y se notificarán de inmediato al Consejero Instructor que corresponda.
+
+### CAPITULO VIII. DE LOS ESTIMULOS A LOS MENORES INTERNOS
+
+###### ARTICULO 27.
+
+Se otorgarán estímulos a los menores internos que demuestren interés y buena conducta en el interior del Centro, de conformidad con los lineamientos que emita el Consejo Técnico Interdisciplinario y autorice la Dirección del Centro.
+
+###### ARTICULO 28.
+
+Los estímulos consistirán en:
+
+I.- Otorgar reconocimientos por escrito con copia a su expediente personal y al expediente tutelar;
+
+II.- Reconocimiento como parte del grupo de menores de confianza para que en su caso apoyen en sus actividades al personal de custodia y administrativo; y
+
+III.- Acreditar puntuación adicional a su medida tutelar por su participación en las actividades del Centro.
+
+###### ARTICULO 29.
+
+Los internos que demuestren buena conducta y hayan sido acreedores a estímulos, a juicio del Pleno del Consejo Tutelar, podrán ser externados, aún antes de que cumplan con la puntuación asignada en la resolución definitiva.
+
+### CAPITULO IX. DE LAS MEDIDAS DE SEGURIDAD
+
+###### ARTICULO 30.
+
+La Dirección del Centro observará las medidas generales que establece este Reglamento, a fin de que se conserve el orden y se mantenga la seguridad del establecimiento, de las personas que asisten y visiten el Centro, y de los menores que se hallan en internamiento.
+
+###### ARTICULO 31.
+
+Son medidas de seguridad las siguientes:
+
+I.- La realización periódica de revisiones y registros en los dormitorios de los menores;
+
+II.- La verificación, al término del turno, de la lista de los menores y constatación de su presencia en el Centro;
+
+III.- El registro y revisión de visitantes, vehículos y objetos diversos que ingresen al Centro;
+
+IV.- El resguardo de los objetos de valor y dinero de los menores en la Dirección del Centro, previo inventario, a fin de que sean entregados a sus padres o tutores;
+
+V.- La apertura de la correspondencia del menor para cerciorarse de que no reciba objetos prohibidos o se dé a conocer alguna acción o información que ponga en riesgo a la Institución;
+
+VI.- La práctica frecuente de estrategias y simulacros para evitar los casos de intentos de fuga o amotinamientos;
+
+VII.- La retención de los menores en el aula o lugar donde se instruyan, en caso de intento de fuga o amotinamiento, durante el tiempo que sea necesario, a juicio del servicio de vigilancia, así como el retiro de los visitantes, en su caso; y
+
+VIII.- El establecimiento de una zona de no circulación para los menores internos, misma que estará a una distancia adecuada de las áreas perimetrales del Centro. En esta zona solamente podrán ingresar los menores acompañados del personal de vigilancia durante el tiempo y para los fines estrictamente necesarios.
+
+###### ARTICULO 32.
+
+El custodio que se encuentre como jefe de grupo, no podrá ausentarse de las instalaciones y siempre mantendrá la responsabilidad en el control de los menores, debiendo llevar consigo la lista actualizada de éstos.
+
+###### ARTICULO 33.
+
+Se establecerá vigilancia especial para los menores internos que sean llamados a declarar, a entrevistas en las áreas técnicas, y a apoyo en áreas de servicio de cocina, comedor, lavandería, sanitarios y regaderas.
+
+###### ARTICULO 34.
+
+Durante la noche, los dormitorios deberán vigilarse de manera continua, tanto en el frente como en la parte posterior e interior de los mismos.
+
+###### ARTICULO 35.
+
+Durante la noche y en los días de descanso para el resto del personal, los custodios deberán efectuar rondines frecuentes por las instalaciones, de manera especial en el área de los dormitorios.
+
+### CAPITULO X. DE LA VISITA FAMILIAR
+
+###### ARTICULO 36.
+
+La visita familiar deberá sujetarse a un registro de entrada y salida, así como a una revisión en la persona y objetos que porten los visitantes, respetándose siempre sus derechos.
+
+###### ARTICULO 37.
+
+La revisión de las personas visitantes se efectuará por personal de su mismo género. En caso de encontrarse algún objeto inadecuado para la seguridad del Centro, éste se retendrá y será entregado a la salida de los visitantes.
+
+###### ARTICULO 38.
+
+El Centro se reserva el derecho de prohibir la visita familiar, cuando existan motivos fundados para suponer que por las características del visitante o visitantes, éstos pueden ejercer alguna influencia negativa en el interno.
+
+###### ARTICULO 39.
+
+Los menores podrán recibir la visita del ministro del credo que profesen, y podrán celebrar los ritos de su culto, observando las disposiciones de la Dirección del Centro.
+
+###### ARTICULO 40.
+
+Sólo podrán visitar a los menores, sus familiares en primer grado y mayores de edad, y sus abogados defensores con la autorización del Consejero Instructor en ambos casos.
+
+###### ARTICULO 41.
+
+La visita para los menores cuyos familiares residan en Hermosillo será los sábados y domingos en el horario de 9:00 a 12:30 horas. Para los menores con familiares foráneos, la visita será de lunes a viernes de 9:00 a 12:30 horas.
+
+###### ARTICULO 42.
+
+Para ingresar a visitar a un interno, el familiar deberá presentar su correspondiente identificación, de preferencia credencial de elector, cartilla de servicio militar o pasaporte.
+
+###### ARTICULO 43.
+
+No se permitirá la visita de ninguna persona en la que se presuma estado de ebriedad o bajo los efectos de alguna sustancia psicotrópica o estupefaciente.
+
+###### ARTICULO 44.
+
+El Consejo Técnico Interdisciplinario determinará la conveniencia de la visita de la esposa o concubina del menor que esté en posibilidades de acreditar dicha situación.
+
+###### ARTICULO 45.
+
+Durante la visita a los menores, se deberán observar las siguientes medidas:
+
+I.- Podrá entregarse al menor cualquier tipo de alimento, siempre y cuando se consuma durante el tiempo de la visita;
+
+II.- No podrá realizar con el menor ninguna operación de lucro o comercio; y
+
+III.- Podrán entregarse al menor los artículos necesarios para su higiene personal. El cepillo dental deberá ser de materia flexible; la pasta dental y el champú deberán estar contenidos en tubo y en envase transparente de plástico.
 
 ## TITULO TERCERO. DE LA COMPETENCIA
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO XI. DE LAS RELACIONES LABORALES
 
-148.- Toda demanda o promoción debe formularse ante Tribunal competente.
+###### ARTICULO 46.
 
-149.- La competencia de los tribunales se determinará por la materia, la cuantía, el grado y el territorio.
+Los Centros estarán integrados por trabajadores de base y de confianza.
 
-150.- Salvo la competencia territorial, ninguna otra es prorrogable. Cuando se trate de aquélla, las partes pueden desistirse de seguir sosteniendo la competencia de un Tribunal, antes o después de la remisión de los autos al superior que debe decidirla.
+###### ARTICULO 47.
 
-151.- Ningún Tribunal puede negarse a conocer de un asunto sino por considerarse incompetente. En este caso debe expresar en su resolución los fundamentos legales en que se apoye.
+Será personal de confianza el Director del Centro, los Subdirectores Administrativo y Operativo y de Custodia, así como los custodios del Centro.
 
-152.- Es Tribunal competente aquél a que los litigantes, cuando se trate de fuero renunciable, se hubieren sometido expresa o tácitamente. En los demás casos, lo es el que designe la ley.
+###### ARTICULO 48.
 
-153.- Hay sumisión expresa cuando los interesados renuncian clara y terminantemente al fuero que la ley les concede y designan con toda precisión el juez a quien se someten.
+La (sic) relaciones de trabajo en los Centros se regirán por la Ley del Servicio Civil para el Estado de Sonora.
 
-154.- Se entienden sometidos tácitamente:
+### CAPITULO XII. DE LA SUPLENCIA DEL DIRECTOR DEL CENTRO
 
-I.- El demandante o promovente, por el hecho de ocurrir al juez entablando su demanda o formulando su promoción;
+###### ARTICULO 49.
 
-II.- El demandado, por contestar la demanda o por reconvenir al actor;
-
-III.- El que habiendo promovido una incompetencia se desista de ella;
-
-IV.- El tercero opositor y el que por cualquier motivo viniere al juicio.
-
-### CAPITULO II. Reglas para la fijación de la competencia
-
-155.- Es juez competente:
-
-I.- El del lugar que el deudor haya designado para ser requerido judicialmente de pago;
-
-II.- El del lugar señalado en el contrato para el cumplimiento de la obligación. Tanto en este caso como en el anterior, surte el fuero no sólo para la ejecución o cumplimiento del contrato, sino para la rescisión o nulidad;
-
-III.- El de la ubicación de la cosa, si se ejercita una acción real sobre bienes inmuebles. Lo mismo se observará respecto a las cuestiones derivadas del contrato de arrendamiento de inmuebles. Cuando estuvieren comprendidos en dos o más Distritos judiciales, la competencia se establecerá a favor del Tribunal que hubiere prevenido;
-
-IV.- El del domicilio del demandado, si se trata del ejercicio de una acción sobre bienes muebles, o de acciones personales o del estado civil. Cuando sean varios los demandados y tuvieren diversos domicilios, será competente el juez del domicilio que escoja el actor;
-
-V.- En los juicios hereditarios, el juez en cuya jurisdicción haya tenido su último domicilio el autor de la herencia; a falta de este domicilio, lo será el de la ubicación de los bienes raíces que formen la herencia, y si estuvieren en varios distritos, el juez de cualquiera de ellos a prevención; y a falta de domicilio y bienes raíces, el del lugar del fallecimiento del autor de la herencia. Lo mismo se observará en casos de ausencia;
-
-VI.- Aquél en cuyo territorio jurisdiccional radica un juicio sucesorio, para conocer:
-
-a).- De las acciones de petición de herencia.
-
-b).- De las acciones contra la sucesión antes de la partición y adjudicación de los bienes de la herencia.
-
-c).- De las acciones de nulidad, rescisión y evicción de la partición hereditaria;
-
-VII.- En los concursos de acreedores el juez del domicilio del deudor;
-
-VIII.- En los actos de jurisdicción voluntaria el del domicilio del que promueve, pero si se tratare de bienes raíces, lo será el del lugar en que éstos estén ubicados;
-
-IX.- En los negocios relativos a la tutela de los menores e incapacitados, el juez de la residencia de éstos, para la designación del tutor; y en los demás casos, el del domicilio de este último;
-
-X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimentos para contraer matrimonio, el del lugar donde se hayan presentado los pretendientes;
-
-XI.- Para decidir las diferencias conyugales y los juicios de nulidad de matrimonio, lo es el del domicilio conyugal;
-
-XII.- En los juicios de divorcio el Tribunal de la residencia del demandado y en caso de abandono de hogar, el domicilio del cónyuge abandonado;
-
-> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 1993)</small>
-
-XIII.- En los Juicios de Alimentos, el del domicilio del acreedor alimentario o de su deudor, según escoja el actor.
-
-156.- Para determinar la competencia por razón de la cuantía del negocio se tendrá en cuenta lo que demande el actor. Los réditos, daños y perjuicios posteriores a la presentación de la demanda no serán tomados en consideración, aun cuando se reclamen en ella.
-
-Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe del negocio atendiendo al importe de las rentas o prestaciones en un año, aun cuando sólo se reclamen algunas de ellas.
-
-157.- En las contiendas sobre propiedad o posesión de un inmueble, la competencia se determinará por el valor que ésta tenga. Si se trata de usufructo o derechos reales sobre inmuebles, por el valor de la cosa misma.
-
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
-
-158.- De las cuestiones sobre el estado civil o capacidad de las personas, sea cual fuere el interés pecuniario que de ellas dimanare, conocerán los Jueces de Primera Instancia o de lo Familiar, salvo los casos expresamente exceptuados por la ley.
-
-159.- En la reconvención, es juez competente el que lo sea para conocer de la demanda principal, aunque el valor de aquélla sea inferior a la cuantía de su competencia, pero no en el caso contrario.
-
-160.- Las cuestiones de tercería deben substanciarse y decidirse por el juez que sea competente para conocer del asunto principal. Cuando el interés de la tercería exceda del que la ley somete a la competencia del juez que está conociendo del negocio principal, remitirá éste los autos del juicio y de la tercería al juez que designe el tercer opositor y sea competente para conocer de la cuestión por razón de la materia, del negocio que represente mayor interés, y del territorio; y éste substanciará y resolverá ambos asuntos, con arreglo a las disposiciones de este Código.
-
-161.- Para los actos preparatorios del juicio, será competente el juez que lo fuere para conocer del negocio principal.
-
-En las providencias precautorias regirá lo dispuesto en el párrafo anterior. Si los autos estuvieren en segunda instancia, será competente para dictar la providencia precautoria el juez que conoció de ellos en primera instancia. En caso de urgencia, puede dictarla el del lugar donde se halle la persona o la cosa objeto de la providencia y efectuada ésta, se remitirán las actuaciones al Tribunal competente.
+Durante la ausencia del Director del Centro, el despacho y resolución de los asuntos correspondientes del Centro quedará a cargo del Subdirector Administrativo.
 
 ## TITULO CUARTO. DE LOS IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
 
@@ -3643,49 +3577,7 @@ III.- Llegado el caso, el que vaya a ejecutar la sentencia, asociado de la parte
 
 947.- No se admitirán promociones de nulidad de actuaciones por falta o defecto de citación o notificación.
 
-## ARTICULOS TRANSITORIOS
-
-1°.- Este Código empezará a regir en todo el Estado veinte días después de su publicación en el Periódico Oficial y desde esa fecha queda abrogado el Código de Procedimientos Civiles del Estado promulgado el 20 de Diciembre de 1941, salvo lo dispuesto en los artículos siguientes:
-
-2°.- La substanciación de los negocios de jurisdicción contenciosa, que estén pendientes en primera o única instancia al entrar en vigor el presente Código, se sujetará al Código anterior hasta pronunciarse sentencia. La apelación contra el fallo definitivo se tramitará conforme a este nuevo Código, pero para la procedencia del recurso por razón de la cuantía, regirán las disposiciones de la ley anterior.
-
-La substanciación de los negocios de jurisdicción voluntaria se ajustarán desde luego a las disposiciones del presente Código.
-
-3°.- La tramitación y resolución de las apelaciones pendientes al entrar en vigor este Código, se sujetarán a las prescripciones que él establece, salvo por lo que respecta a la procedencia del recurso por cuestión de la cuantía del negocio que se regirá por la ley anterior, observándose las siguientes disposiciones: a).- Si se hubiere interpuesto el recurso de apelación contra una resolución que conforme a este Código no fuere apelable, el recurso se admitirá o desechará con arreglo a las disposiciones del Código anterior; y si hubiere sido ya admitido, se substanciará la apelación con arreglo a este Código; b).- Las pruebas que se hubieren ofrecido y mandado recibir se practicarán con arreglo a este Código, aunque no sean de las que como procedentes, en él se señalan; c).- Si el apelante no ha alegado aún, de oficio se le prevendrá para que dentro del término legal formule su expresión de agravios, continuándose el procedimiento con arreglo a este Código; d).- Si el apelante hubiere ya presentado su escrito de alegatos, se tendrá éste como el de expresión de agravios, continuándose la substanciación del recurso.
-
-4°.- Si para la interposición de un recurso o para el ejercicio de un derecho en la tramitación de los negocios pendientes al entrar en vigor este Código, estuviere corriendo un término y el señalado en él fuere menor que el fijado en la ley anterior, se observará lo dispuesto en ésta última.
-
-DADO en el Palacio del Poder Legislativo en la Ciudad de Chihuahua, a los veintiocho días del mes de diciembre de mil novecientos setenta y tres.
-
-DIPUTADO PRESIDENTE.
-
-J. REFUGIO RODRIGUEZ RAMIREZ.
-
-DIPUTADO SECRETARIO.
-
-DR. FRANCISCO OCHOA CAUZ.
-
-DIPUTADO SECRETARIO.
-
-ING. SANTIAGO NIETO SANDOVAL.
-
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a 29 de diciembre de 1973.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
-
-LIC. OSCAR FLORES.
-
-EL SECRETARIO GRAL. DE GOBIERNO.
-
-LIC. RAMIRO COTA MARTINEZ.
-
-I N D I C E
-
-CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO L. Y S. DE CHIHUAHUA
-
-Pág.
+## TRANSITORIO
 
 ## TITULO PRIMERO. DE LAS ACCIONES Y EXCEPCIONES
 
@@ -3952,3 +3844,17 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente d
 P.O. 25 DE AGOSTO DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Dado en la residencia del Poder Ejecutivo en la Ciudad de Hermosillo, Sonora, a los veintiocho días del mes de septiembre de 2000.
+
+EL GOBERNADOR DEL ESTADO DE SONORA
+
+ARMANDO LOPEZ NOGALES
+
+EL SECRETARIO DE GOBIERNO
+
+OSCAR LOPEZ VACOVICH
