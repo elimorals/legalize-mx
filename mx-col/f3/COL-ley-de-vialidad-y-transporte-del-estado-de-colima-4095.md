@@ -4,7 +4,7 @@ identifier: "COL-ley-de-vialidad-y-transporte-del-estado-de-colima-4095"
 country: "mx"
 rank: "ley"
 publication_date: "1990-02-17"
-last_updated: "1999-04-10"
+last_updated: "2003-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE VIALIDAD Y TRANSPORTE DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 17 de febrero de 1990.
 
@@ -291,7 +291,7 @@ e).- Servicio de autos de alquiler, es aquél que se presta en automóviles para
 
 f).- Servicio exclusivo de turismo, es aquél que se presta en vehículos que reúnen condiciones óptimas de comodidad, rapidez y seguridad, y se emplean exclusivamente para el traslado del turismo nacional y extranjero; y
 
-g).- Servicio de renta de automóviles, es aquél que opera mediante la celebración de un contrato entre el concesionario del servicio y el arrendatario.
+g).- Servicio de renta de automóviles, es aquél que opera mediante la celebración de un contrato entre el concesionario del servicio y el arrendatario;
 
 II.- TRANSPORTE DE CARGA:
 
@@ -301,7 +301,7 @@ b).- Servicio de materiales para construcción, es aquél que se presta en camio
 
 c).- Servicio de express urbano y foráneo, es aquél que se presta a través de vehículos para el traslado urbano y foráneo de paquetería; y
 
-d).- Servicio especial, es aquél que se presta en vehículos destinados temporal o permanentemente al traslado de objetos en circunstancias especiales.
+d).- Servicio especial, es aquél que se presta en vehículos destinados temporal o permanentemente al traslado de objetos en circunstancias especiales;
 
 III.- TRANSPORTE MIXTO:
 
@@ -333,7 +333,7 @@ Para los transportes a que se refiere el Artículo anterior, se requerirá autor
 
 Las concesiones que se otorguen para la prestación del servicio público de transporte de personas u objetos tendrán vigencia de un año a partir de la autorización. Podrán renovarse en períodos iguales por acuerdo del Titular del Ejecutivo; pero acreditarán haber cubierto el pago anual de la revalidación, de conformidad con lo establecido por la Ley de Ingresos.
 
-En caso de terminación de la vigencia de una concesión, tendrán preferencia para obtenerla de nuevo los antigüos concesionarios en igualdad de circunstancias.
+En caso de terminación de la vigencia de una concesión, tendrán preferencia para obtenerla de nuevo los antiguos concesionarios en igualdad de circunstancias.
 
 ###### ARTICULO 27.
 
@@ -380,6 +380,10 @@ Los fedatarios públicos se abstendrán de intervenir, en cualquier forma, en ac
 Con autorización por escrito del Gobernador, la persona física titular de la concesión podrá designar beneficiarios por su orden, a la esposa e hijos menores de edad, hijos mayores de edad, concubina o persona que dependa económicamente de él. Si se omite la designación de beneficiarios, el Ejecutivo tomará en cuenta la resolución que en tal sentido expida la autoridad judicial competente. La realización de los trámites conducentes para el traspaso en favor de o los beneficiarios no causará el pago de derecho alguno.
 
 En caso de que existan beneficiarios menores de edad, éstos ejercerán sus derechos por conducto de su tutor o representante legal, en los términos previstos por la legislación civil.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
+
+En caso de que un trabajador que preste sus servicios a un concesionario de servicio público de transporte, con motivo de un accidente ocurrido en el desempeño de su trabajo pierda la vida o quede incapacitado permanentemente para trabajar, siempre y cuando no se encuentre bajo los efectos de bebidas embriagantes, drogas psicotrópicas o interviniendo en la comisión de un delito, el titular del Poder Ejecutivo del Estado, le otorgará, previa comprobación de tal circunstancia, a él o a sus beneficiarios legítimos, en su caso, una concesión para la prestación de servicio público de transporte, la cual quedará sujeta íntegramente a las disposiciones contenidas en los párrafos precedentes.
 
 ###### ARTICULO 32.
 
@@ -445,7 +449,7 @@ Cuando el Estado se haga cargo definitivamente del servicio públco (sic) de tra
 
 El Consejo Consultivo del Sistema de Transporte del Estado de Colima, se integra y funciona en los términos del decreto que lo crea y tendrá las siguientes facultades:
 
-I.- Constituirse en Organo Permanente de Consulta Popular del Ejecutivo Estatal y de los Municipios del Estado, en asuntos relacionados con la planeación, organización, prestación, control y vigilancia de transporte en el Estado de Colima.
+I.- Constituirse en Organo Permanente de Consulta Popular del Ejecutivo Estatal y de los Municipios del Estado, en asuntos relacionados con la planeación, organización, prestación, control y vigilancia de transporte en el Estado de Colima;
 
 II.- Constituirse en Organo receptor de las diferentes corrientes de opinión pública, de los distintos sectores sociales relacionados con los problemas de transporte para exponer y proponer al Ejecutivo del Estado y a los Ayuntamientos de cada uno de los Municipios Estatales las soluciones que dicte el interés público;
 
@@ -566,3 +570,7 @@ UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su public
 P.O. 10 DE ABRIL DE 1999.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 13 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
