@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "1989-01-04"
+last_updated: "1991-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1991.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -624,7 +624,9 @@ I.- Formular y conducir las políticas generales de industria, comercio exterior
 
 II.- Regular, promover y vigilar la comercialización, distribución y consumo de los bienes y servicios;
 
-III.- Establecer la política de industrialización, distribución y consumo de los productos agrícolas, ganaderos, forestales, minerales y pesqueros, escuchando la opinión de las dependencias competentes;
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1991)</small>
+
+III.- Establecer la Política de industrialización, distribución y consumo de los productos agrícolas, ganaderos, forestales, minerales y pesqueros, en coordinación con las dependencias competentes;
 
 IV.- Fomentar el comercio exterior del país.
 
@@ -640,7 +642,9 @@ VII.- Establecer la política de precios, y con el auxilio y participación de l
 
 VIII.- Regular, orientar y estimular las medidas de protección al consumidor;
 
-IX.- Coordinar y dirigir el Sistema Nacional para el Abasto, con el fin de asegurar la adecuada distribución y comercialización de productos y el abastecimiento de los consumos básicos de la población;
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1991)</small>
+
+IX.- Coordinar y dirigir con la colaboración de la Secretaría de Agricultura y Recursos Hidráulicos y de Pesca, el Sistema Nacional para el Abasto, con el fin de asegurar la adecuada distribución y comercialización de productos y el abastecimiento de los consumos básicos de la población;
 
 X.- Fomentar la organización y constitución de toda clase de sociedades cooperativas, cuyo objeto sea la producción industrial, la distribución o el consumo;
 
@@ -672,7 +676,9 @@ XXII.- Fomentar, estimular y organizar la producción económica del artesanado,
 
 XXIII.- Promover, orientar, fomentar y estimular la industria nacional;
 
-XXIV.- Promover, orientar, fomentar y estimular el desarrollo de la industria pequeña, mediana y rural y regular la organización de productores industriales;
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1991)</small>
+
+XXIV.- Promover, orientar, fomentar y estimular el desarrollo de la industria pequeña y mediana y regular la organización de productores industriales;
 
 XXV.- Promover y, en su caso, organizar la investigación técnico-industrial, y
 
@@ -688,15 +694,21 @@ XXVII.- Los demás que le encomienden expresamente las leyes y reglamentos.
 
 A la Secretaría de Agricultura y Recursos Hidráulicos corresponde el despacho de los siguientes asuntos:
 
-I.- Programar, fomentar y asesorar técnicamente la producción agrícola, ganadera, avícola, apícola y forestal en todos sus aspectos;
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1991)</small>
+
+I.- Programar, fomentar y asesorar técnicamente la producción, industrialización y comercialización agrícola, ganadera, avícola, apícola y forestal, en todos sus aspectos, en coordinación con las dependencias competentes;
 
 II.- Definir, aplicar y difundir los métodos y procedimientos técnicos destinados a obtener mejor rendimiento en la agricultura, silvicultura, ganadería, avicultura y apicultura;
 
 III.- Encauzar el crédito ejidal, agrícola, forestal y ganadero, en coordinación con la Secretaría de Hacienda y Crédito Público, hacia los renglones prioritarios; participar con ella en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros necesarios para el fomento de la producción agropecuaria, y administrar su aplicación, así como vigilar y evaluar sus resultados;
 
-IV.- Determinar y conducir las políticas de organización de productores del sector agropecuario, en torno a programas regionales y nacionales, con la participación de las autoridades locales que corresponda;
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1991)</small>
 
-V.- Fomentar las organizaciones mixtas con fines de producción agropecuaria o silvícola;
+IV.- En coordinación con los productores, formular y conducir las políticas de organización de productores del sector agropecuario en torno a programas formulados conforme a la Ley, con la participación de las autoridades que corresponda; promover agroindustrias y sistemas de comercialización, en coordinación con la Secretaría de Comercio y Fomento Industrial; y promover asociaciones y fomentar las organizaciones con fines de producción o comercialización agropecuaria o silvícola;
+
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1991)</small>
+
+V.- Promover, orientar, fomentar y estimular el desarrollo de la infraestructura industrial y comercial de la producción agropecuaria, a través de centros de acopio, almacenamiento, transporte rural, mercado de insumos y mercados regionales en las zonas productoras en coordinación con la Secretaría de Comercio y Fomento Industrial;
 
 VI.- Organizar y administrar los servicios de defensa agrícola y ganadera y de vigilancia de sanidad agropecuaria y forestal, considerando la producción de fármacos biológicos destinados a la población animal;
 
@@ -1170,15 +1182,15 @@ XX.- Fijar e imponer, de acuerdo a las leyes y reglamentos, el tipo y monto de l
 
 XXI.- Los demás que le fijen expresamente las leyes y reglamentos.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
-
 ###### ARTICULO 43.
 
 A la Secretaría de Pesca corresponde el despacho de los siguientes asuntos:
 
 I.- Formular y conducir la política pesquera del País;
 
-II.- Programar, fomentar y asesorar técnicamente la producción y explotación pesquera en todos sus aspectos;
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1991)</small>
+
+II.- Programar, fomentar y asesorar técnicamente la producción, explotación, industrialización y comercialización pesquera en todos sus aspectos, en coordinación con las dependencias competentes;
 
 III.- Participar con la Secretaría de Hacienda y Crédito Público, en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros necesarios para el fomento de la actividad pesquera; y administrar su aplicación, así como vigilar y evaluar sus resultados;
 
@@ -1196,9 +1208,13 @@ IX.- Regular la formación y organización de la flota pesquera, así como promo
 
 X.- Fomentar la organización de las sociedades cooperativas de producción pesquera y las sociedades, asociaciones y uniones de pescadores;
 
-XI.- Promover en coordinación con la Secretaría de Comercio y Fomento Industrial, la industrialización de los productos pesqueros y el establecimiento de las plantas e instalaciones industriales;
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1991)</small>
 
-XII.- Apoyar a la Secretaría de Comercio y Fomento Industrial en la promoción del consumo humano de productos pesqueros, el abastecimiento de materias primas a las industrias nacionales, y en su distribución;
+XI.- Promover el desarrollo de sistemas de comercialización y de la infraestructura y servicios comerciales e industriales pesqueros, en coordinación con la Secretaría de Comercio y Fomento Industrial;
+
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1991)</small>
+
+XII.- Promover el consumo humano de productos pesqueros y, en coordinación con la Secretaría de Comercio y Fomento Industrial, asegurar el abasto y la distribución de dichos productos, así como de materia prima a la Industria Nacional;
 
 XIII.- Regular la pesca en lo relacionado con el número, condición y capacidad del personal pesquero;
 
@@ -1403,3 +1419,9 @@ UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en e
 D.O.F. 4 DE ENERO DE 1989.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE JULIO DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor 30 días después de su publicación en el Diario Oficial de la Federación.
