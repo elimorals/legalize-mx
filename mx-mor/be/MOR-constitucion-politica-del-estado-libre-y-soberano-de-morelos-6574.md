@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1998-08-28"
+last_updated: "1999-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 1999.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -104,9 +104,11 @@ IV.- Los extranjeros, aparte de acatar puntualmente lo establecido en la Constit
 
 DE LOS MORELENSES.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 9.
 
-Los morelenses se clasifican en: morelenses por nacimiento y morelenses por residencia.
+Los morelenses lo son por nacimiento y por residencia; ambos gozarán de los mismos derechos y obligaciones, en los términos que señale la presente Constitución y las leyes reglamentarias.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1991)</small>
 
@@ -142,27 +144,35 @@ II.- Tener un modo honesto de vivir.
 
 III.- Residir habitualmente en el territorio del Estado.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 14.
 
-Son derechos de los ciudadanos Morelense:
+Son derechos del ciudadano morelense:
 
-I.- Votar en las elecciones populares.
+I.- Votar y participar activamente en las elecciones populares y en los procesos de plebiscito y referéndum a los que se convoque, en los términos que señale la Ley;
 
-II.- Poder ser electo o nombrado para cualquier empleo o comisión, siempre que reúna los demás requisitos exigidos por la Ley.
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+II.- Participar del derecho de iniciar leyes, de conformidad con lo que establecen esta Constitución y la ley de la materia; y
 
-III.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado.
+III.- Los demás establecidos en el artículo 35 de la Constitución Política de los Estados Unidos Mexicanos y en la presente Constitución.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 15.
 
 Son obligaciones del ciudadano morelense:
 
-I.- Las establecidas en los artículos 31 y 36 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)</small>
 
-II.- Las demás establecidas por la presente Constitución.
+I.- Votar en las elecciones populares y en los procesos de Plebiscito y Referéndum que se convoquen.
+
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)</small>
+
+II.- Las demás establecidas en los artículos 31 y 36 de la Constitución Política de los Estados Unidos Mexicanos; y
+
+III.- Las demás establecidas por la presente Constitución.
 
 ###### Artículo 16.
 
@@ -224,9 +234,103 @@ e).- A no ser separado del seno de la familia sino en los casos excepcionales qu
 
 III.- Los ancianos tienen derecho de acuerdo con la dignidad humana a un albergue decoroso e higiénico y a la atención y cuidado de su salud, alimentación y debido esparcimiento, de parte de sus familiares.
 
-### CAPITULO I.
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE OCTUBRE DE 1999)</small>
 
-DIVISION DE PODERES.
+### CAPITULO IV.
+
+DE LA PARTICIPACION CIUDADANA.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1999)</small>
+
+Artículo 19 bis.- Esta Constitución reconoce como medios de participación ciudadana al Plebiscito, al Referéndum y a la Iniciativa Popular.
+
+I.- Se entiende por Plebiscito la consulta a los ciudadanos para que expresen su previa aprobación o rechazo a un acto o decisión del Poder Ejecutivo o de los Ayuntamientos, que sean considerados como trascendentes para la vida pública del Estado o de los Municipios.
+
+a) Podrán someterse a Plebiscito:
+
+> <small>(F. DE E., P. O. 24 DE NOVIEMBRE DE 1999)</small>
+
+1.- Los actos o decisiones de carácter general del Ejecutivo del Estado que se consideren como trascendentes en la vida pública de esta Entidad Federativa; y
+
+2.- Los actos o decisiones de gobierno, de las autoridades municipales, siempre que se consideren trascendentes para la vida pública del municipio.
+
+b) No podrán someterse a Plebiscito los actos o decisiones del Ejecutivo del Estado o de los Ayuntamientos, relativos a:
+
+1.- El régimen interno de la Administración Pública Estatal y Municipal;
+
+2.- Los actos cuya realización sea obligatoria en los términos de las leyes aplicables; y
+
+3.- Las demás que determine la propia Constitución.
+
+c) Podrán solicitar que se convoque a Plebiscito:
+
+1.- El titular del Poder Ejecutivo;
+
+2. El diez por ciento de los ciudadanos inscritos en el padrón electoral;
+
+> <small>(F. DE E., P. O. 24 DE NOVIEMBRE DE 1999)</small>
+
+3. El Congreso del Estado, a solicitud de las dos terceras partes de sus integrantes; y
+
+4. Los Ayuntamientos, en el ámbito de su competencia.
+
+II.- Se entiende por Referéndum, el proceso mediante el cual los ciudadanos morelenses, manifiestan su aprobación o rechazo a las reformas, adiciones o derogaciones a la Constitución Política del Estado, a las leyes que expida el Congreso del Estado o a los reglamentos y bandos que emitan los Ayuntamientos.
+
+a) El Referéndum no procederá cuando se trate de:
+
+1.- Leyes o disposiciones de carácter tributario o fiscal;
+
+2.- Reformas a la Constitución Política del Estado y a las leyes locales que deriven de reformas o adiciones a la Constitución Política de los Estados Unidos Mexicanos;
+
+3.- El régimen interno del Gobierno Estatal o Municipal;
+
+4.- La designación del Gobernador interino, substituto o provisional;
+
+5.- Juicio Político;
+
+6.- Los convenios con la Federación y con otros Estados de la República; y
+
+7.- Las demás que determine la propia Constitución.
+
+b) El Referéndum podrá ser promovido por:
+
+1.- El Titular del Poder Ejecutivo;
+
+2.- El quince por ciento de los ciudadanos inscritos en el Padrón Electoral, en tratándose de la Constitución Política Estatal; el diez por ciento en tratándose de leyes estatales y reglamentos municipales;
+
+> <small>(F. DE E., P. O. 24 DE NOVIEMBRE DE 1999)</small>
+
+3.- El Congreso del Estado, a solicitud de las dos terceras partes de sus integrantes;
+
+4.- Los Ayuntamientos, en el ámbito de su competencia.
+
+Para que tengan validez los procesos de Plebiscito y Referéndum deberán contar con el voto de cuando menos el treinta por ciento de los ciudadanos inscritos en el Padrón Electoral.
+
+III.- La Iniciativa Popular es el medio por el cual los ciudadanos del Estado de Morelos podrán presentar al Congreso del Estado o a los Ayuntamientos, proyectos de creación, reforma, adición, derogación o abrogación de leyes o reglamentos respecto de materias de su competencia y que corresponda a éstos expedir.
+
+La Iniciativa Popular deberá ser promovida por el veinte por ciento de los ciudadanos inscritos en el Padrón Electoral del Estado o del Municipio, según sea el caso.
+
+No podrán ser objeto de Iniciativa Popular las materias señaladas por esta Constitución para el caso de improcedencia del Referéndum.
+
+El Instituto Estatal Electoral y el Consejo de Participación Ciudadana serán los organismos encargados de preparar, desarrollar, vigilar y calificar los procesos de Referéndum y Plebiscito que les sean solicitados de conformidad con la presente Constitución y la Ley de la Materia.
+
+El Consejo es el organismo encargado de calificar la procedencia o improcedencia de las solicitudes de Plebiscito o Referéndum que se presenten. Para llevar a cabo los procesos de Referéndum y Plebiscito, el Consejo de Participación Ciudadana coadyuvará con el Instituto Estatal Electoral.
+
+Corresponde al Instituto Estatal Electoral hacerse cargo del desarrollo operativo de los procesos de Plebiscito y Referéndum.
+
+El Consejo Estatal de Participación Ciudadana se instalará expresamente para llevar a cabo los procesos de Plebiscito y Referéndum, estará conformado de la siguiente manera:
+
+a). El Secretario General de Gobierno;
+
+b).Un Diputado por Grupo o Fracción Parlamentaria que integren el Congreso del Estado;
+
+c). Tres ciudadanos de reconocido prestigio y solvencia moral, designados por el Congreso del Estado o la Diputación Permanente, a propuesta del Titular del Poder Ejecutivo, de al menos el triple de éstos, mismos que durarán en su cargo tres años, pudiendo ser reelectos hasta por otro período igual; y
+
+d).Un Secretario de actas, propuesto por los miembros del propio Consejo, con voz, pero sin voto.
+
+Cada uno de los integrantes del Consejo de Participación Ciudadana tendrá un suplente.
+
+En la sesión de instalación el Consejo de Participación Ciudadana elegirá a su Presidente, por el voto de las dos terceras partes de sus integrantes.
 
 ## TITULO SEGUNDO.
 
@@ -234,11 +338,9 @@ DE LOS PODERES PUBLICOS.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1993)</small>
 
-### CAPITULO II.
+### CAPITULO I.
 
-INSTITUCIONES Y PROCESOS ELECTORALES.
-
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+DIVISION DE PODERES.
 
 ###### Artículo 20.
 
@@ -256,11 +358,11 @@ Los Poderes Públicos residirán en la Ciudad de Cuernavaca; pero por causas gra
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 1993)</small>
 
-### CAPITULO I.
+### CAPITULO II.
 
-DE LA ELECCION Y CALIDAD DE LOS DIPUTADOS.
+INSTITUCIONES Y PROCESOS ELECTORALES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### Artículo 23.
 
@@ -278,7 +380,9 @@ A).- El financiamiento público para los Partidos Políticos que mantengan su re
 
 B).- La ley fijará los criterios para determinar los límites a las erogaciones de los Partidos Políticos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y asimismo, señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
-III.- La organización, dirección y vigilancia de las elecciones en el Estado estarán a cargo de un organismo público autónomo denominado Instituto Estatal Electoral, autoridad en la materia, en cuya integración participan los Poderes Ejecutivo y Legislativo del Estado, los Partidos Políticos y los ciudadanos. Tendrá carácter permanente, personalidad jurídica y patrimonio propios, así como las facultades que le señale la presente Constitución y la ley.
+(REFORMADA, P.O. 1 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+III.- La organización, dirección y vigilancia de las elecciones en el Estado y los procesos plebiscitarios y de referéndum, estarán a cargo de un organismo público autónomo denominado Instituto Estatal Electoral, autoridad en la materia, en cuya integración participan los Poderes Ejecutivo y Legislativo del Estado, los Partidos Políticos y los ciudadanos. Tendrá carácter permanente, personalidad jurídica y patrimonio propios, así como las facultades que le señale la presente Constitución y la ley. El Consejo de Participación Ciudadana coadyuvará con el Instituto Estatal Electoral en la calificación de procedencia o improcedencia de las solicitudes de plebiscito o referéndum que se presenten.
 
 El Instituto Estatal Electoral dispondrá de los medios necesarios para brindar el servicio profesional electoral.
 
@@ -306,33 +410,49 @@ Las sesiones de todos los órganos colegiados del Instituto Estatal Electoral se
 
 VI.- Para garantizar los principios de legalidad y constitucionalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación, tanto administrativos como jurisdiccionales, en los términos que esta Constitución y la ley señalen. Este sistema además garantizará la protección de los derechos políticos de los ciudadanos para votar, ser votado y de asociación en los términos del artículo 14 de esta Constitución. En materia electoral la interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto impugnado.
 
-En cada proceso electoral funcionará el Tribunal Estatal Electoral como órgano autónomo, especializado, de legalidad y de plena jurisdicción, que tendrá competencia para resolver de manera definitiva y firme las impugnaciones que se presenten en las distintas etapas del proceso electoral en la forma y términos que determine la ley.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
-El Tribunal Estatal Electoral administrará sus recursos a través de una comisión, que será formada por el Magistrado Presidente del Tribunal Electoral, quien la presidirá, un Magistrado Electoral designado por insaculación y tres miembros del Consejo de la Judicatura Estatal del Tribunal Superior de Justicia. El Tribunal Estatal Electoral propondrá su presupuesto de Egresos al Magistrado Presidente del Tribunal Superior de Justicia del Estado, para su inclusión en el proyecto de presupuesto del Poder Judicial del Estado.
+El Tribunal Estatal Electoral será la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado, se integrará por tres Magistrados propietarios con sus respectivos suplentes; tendrá competencia para resolver de manera definitiva y firme las impugnaciones que se presenten en las distintas etapas del proceso electoral, así como en los tiempos no electorales, en las formas y términos que determine la ley.
 
-La ley determinará la competencia, número de Magistrados propietarios y suplentes, composición y los procedimientos de resolución y jurisprudencia del Tribunal Estatal Electoral.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
-VII.- No podrán ser Magistrados del Tribunal Estatal Electoral, quienes hubieren ejercido cargos de elección popular o directivos a nivel nacional, estatal, distrital o municipal de algún partido político, cuando menos en siete años anteriores a su designación. Dichos Magistrados, deberán además reunir los requisitos que esta Constitución establece para ser Magistrado del Tribunal Superior de Justicia; durarán en su cargo un proceso ordinario y los procesos extraordinarios que ocurrieren, hasta que sean nombrados los Magistrados del siguiente proceso ordinario de elecciones.
+El Tribunal Estatal Electoral, administrará sus recursos a través del Magistrado Presidente y propondrá su presupuesto de egresos al Titular del Poder Judicial, quien lo integrará al presupuesto de egresos de dicho poder. La fiscalización de los recursos del Tribunal Estatal Electoral estará a cargo de la Contaduría Mayor de Hacienda del Congreso del Estado.
 
-El Ejecutivo, previa consulta con los Partidos Políticos con registro en el Estado, propondrá al Consejo de la Judicatura Estatal a las personas que considere reúnen los requisitos para ser Magistrado del Tribunal Estatal Electoral; el Consejo hará la evaluación respectiva y formulará las propuestas al Poder Legislativo, quien procederá a la designación por el voto de las dos terceras partes de sus integrantes y en los recesos de éste, por la Diputación Permanente.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
-En ningún caso, los Magistrados del Tribunal Estatal Electoral podrán desempeñar cargo o empleo de la Federación, del Estado, de los Municipios o de particulares; excepto las actividades docentes, científicas, culturales, de investigación o de beneficencia, siempre y cuando no les impidan el expedito ejercicio de sus funciones. La infracción de esta disposición será sancionada con la pérdida del cargo.
+La ley determinará la composición y los procedimientos de resolución y jurisprudencia del Tribunal Estatal Electoral.
+
+(REFORMADA, P.O. 1 DE OCTUBRE DE 1999) (F. FE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+VII.- Para ser Magistrados del Tribunal Estatal Electoral, deberán reunirse los requisitos que ésta Constitución establece para ser magistrado del Tribunal Superior de Justicia, además de no haber desempeñado cargo de elección popular, haber sido militante en activo o directivo a nivel nacional, estatal, distrital o municipal de algún partido político, cuando menos cinco años anteriores a su designación.
+
+Los Magistrados del Tribunal Estatal Electoral durarán en su encargo un período de cuatro años consecutivos, o en su defecto hasta que sean nombrados los magistrados del siguiente período y podrán ser reelectos por un período más, de conformidad con lo que establezca la ley.
+
+(F. FE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+Los Magistrados del Tribunal Estatal Electoral, serán designados por el Congreso del Estado, mediante el voto de las dos terceras partes de los Diputados que integren la Legislatura.
+
+(F. FE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+Para dar cumplimiento a lo dispuesto en el párrafo anterior, se conformará una comisión calificadora integrada por tantos diputados como grupos parlamentarios integren el Congreso del Estado; los Poderes Ejecutivo y Judicial, estarán representados en la Comisión en igual número al de los Diputados. Esta Comisión emitirá una convocatoria pública y en su caso, previo el análisis que haga de los aspirantes remitirá la propuesta correspondiente al Congreso.
 
 VIII. Quienes hubieren ejercido los cargos de Magistrados del Tribunal Estatal Electoral, Consejero Presidente y Consejeros Estatales Electorales y personal directivo del Instituto Estatal Electoral, estarán impedidos para ocupar puestos de elección popular en el siguiente proceso electoral.
+
+### CAPITULO I.
+
+DE LA ELECCION Y CALIDAD DE LOS DIPUTADOS.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
+
+## TITULO TERCERO.
+
+DEL PODER LEGISLATIVO.
 
 ### CAPITULO II.
 
 DE LA INSTALACION DEL CONGRESO Y DE LOS PERIODOS DE SUS SESIONES.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
-
-## TITULO TERCERO.
-
-DEL PODER LEGISLATIVO.
-
-### CAPITULO III.
-
-DE LAS FACULTADES DEL CONGRESO.
 
 ###### Artículo 24.
 
@@ -386,21 +506,23 @@ La vecindad no se pierde por ausencia en el desempeño de los cargos públicos d
 
 No pueden ser Diputados:
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1999)</small>
 
-I.- El Gobernador del Estado, los Secretarios del despacho y el funcionario o empleado que, conforme a la Ley, cubra las faltas accidentales de éste, siempre que la suplencia se efectúe durante el período electoral.
+I.- El Gobernador del Estado, ya sea con carácter de interino, sustituto o provisional, no podrá ser electo para el periodo inmediato de su encargo, aun cuando se separe definitivamente de su puesto.
 
-II.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980) (F. DE E., P.O. 7 DE ENERO DE 1981)
+II.- (DEROGADA [N. DE E. REPUBLICADA], P.O. 1 DE OCTUBRE DE 1999)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 1996)</small>
+(REFORMADA, P.O. 1 DE OCTUBRE DE 1999) (F. DE E., P. O. 24 DE NOVIEMBRE DE 1999)
 
-III.- Los Magistrados del Tribunal Superior, el Procurador General de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, el Consejero Presidente y los Consejeros Electorales del Consejo Estatal Electoral, los Magistrados del Tribunal Estatal Electoral, así como el personal directivo del Instituto Estatal Electoral.
+III.- Los Secretarios o Subsecretarios de Despacho, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los Administradores de Rentas, los Delegados o equivalentes de la federación, los Miembros del Ejército en servicio activo, los Jefes de Policía de Seguridad Pública y los Presidentes Municipales.
 
-IV.- Los Jueces de Primera Instancia, los Agentes del Ministerio Público, los Administradores de Rentas y los Presidentes Municipales, por los Distritos Electorales en que ejerzan sus funciones.
+(REFORMADA, P.O. 1 DE OCTUBRE DE 1999) (F. DE E., P. O. 24 DE NOVIEMBRE DE 1999)
 
-V.- Los empleados de la Federación en cualquier Ramo.
+IV.- El Consejero Presidente y los Consejeros Electorales del Consejo Estatal Electoral, los Magistrados del Tribunal Estatal Electoral, así como el personal directivo del Instituto Estatal Electoral, aún si se separan de sus funciones, conforme a lo dispuesto en la fracción VIII del artículo 23 de la presente Constitución.
 
-VI.- Los Jefes Militares con mando de tropa, sean de la Federación o del Estado, así como los Jefes de Policía y Seguridad Pública.
+V.- (DEROGADA, P.O. 1 DE OCTUBRE DE 1999)
+
+VI.- (DEROGADA, P.O. 1 DE OCTUBRE DE 1999)
 
 VII.- Los que hayan tomado parte directa o indirectamente en alguna asonada, motín o cuartelazo.
 
@@ -408,11 +530,15 @@ VII.- Los que hayan tomado parte directa o indirectamente en alguna asonada, mot
 
 VIII.- Los Ministros de cualquier culto, salvo que hubieren dejado de serlo con la anticipación y en la forma que establezca la Ley Reglamentaria del artículo 130 de la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1999)</small>
+
+Los Diputados locales no podrán ser electos para el período inmediato. Los Diputados suplentes podrán ser electos al período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio. Los Diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplente.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 27.
 
-Los individuos comprendidos en las fracciones de la I a la VI del artículo anterior dejarán de tener la prohibición que en ellas se establece, siempre que se separen de sus respectivos cargos tres días naturales antes del Inicio del periodo de registro.
+Los individuos comprendidos en la fracción III del artículo anterior dejarán de tener la prohibición que en ellas se establece, siempre que se separen de sus respectivos cargos noventa días antes del día de la elección.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -424,11 +550,9 @@ Nadie puede excusarse de servir el cargo de Diputado, sino por causa bastante ca
 
 El cargo de Diputado es incompatible con cualquier otro de la Federación, del Estado o de los Municipios, con sueldo o sin él; pero el Congreso podrá dar licencia a sus miembros para desempeñar el empleo o comisión para que hayan sido nombrados, llamando a los suplentes. Se exceptúan de está prohibición los empleos o comisiones de educación y beneficencia públicas.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-DE LA INICIATIVA Y FORMACION DE LAS LEYES.
-
-(REFORMADO, P.O. 4 DE AGOSTO DE 1965) (F. DE E., P.O. 11 DE AGOSTO DE 1965)
+DE LAS FACULTADES DEL CONGRESO.
 
 ###### Artículo 30.
 
@@ -504,11 +628,11 @@ El Congreso expedirá la ley que en lo sucesivo regulará su estructura y funcio
 
 Cuando al llegar el día en que deba cerrarse alguno de los períodos de sesiones, el Congreso estuviere funcionando como Gran Jurado, prorrogará aquéllas hasta pronunciar su veredicto, sin ocuparse, entretanto, de ningún otro asunto.
 
-### CAPITULO V.
+### CAPITULO IV.
 
-DE LA DIPUTACION PERMANENTE.
+DE LA INICIATIVA Y FORMACION DE LAS LEYES.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1989)</small>
+(REFORMADO, P.O. 4 DE AGOSTO DE 1965) (F. DE E., P.O. 11 DE AGOSTO DE 1965)
 
 ###### Artículo 40.
 
@@ -692,9 +816,9 @@ XXXV.- (DEROGADA, P.O. 30 DE OCTUBRE DE 1996)
 
 XXXVI.- Nombrar Gobernador interino o Substituto en los casos que determina esta Constitución.
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1999)</small>
 
-XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal Estatal Electoral, de entre la terna que someta a su consideración el Consejo de la Judicatura Estatal; a los Magistrados del Tribunal de lo Contencioso Administrativo del Estado; al Consejero Presidente y Consejeros Electorales del Consejo Estatal Electoral, así como al Procurador General de Justicia del Estado, este último de entre la terna de ciudadanos que someta a su consideración el Ejecutivo del Estado y por el voto aprobatorio de las dos terceras partes de los integrantes de la Legislatura.
+XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia de entre la terna que someta a su consideración el Consejo de la Judicatura Estatal; a los Magistrados del Tribunal Estatal Electoral de conformidad con lo previsto en esta Constitución; a los Magistrados del Tribunal de lo Contencioso Administrativo del Estado; al Consejero Presidente y Consejeros Electorales del Consejo Estatal Electoral, así como al Procurador General de Justicia del Estado, este último de entre la terna de ciudadanos que someta a su consideración el Ejecutivo del Estado y por el voto aprobatorio de las dos terceras partes de los integrantes de la Legislatura.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -756,9 +880,13 @@ LII.- Expedir el bando solemne para dar a conocer en todo el Estado, la declarac
 
 LIII.- Aprobar por mayoría simple de los integrantes de la Legislatura, la solicitud de remoción del Procurador General de Justicia que presente el Titular del Poder Ejecutivo del Estado.
 
+(ADICIONADA, P.O. 1 DE OCTUBRE DE 1999) (F. DE E., P. O. 24 DE NOVIEMBRE DE 1999)
+
+LIV.- Solicitar al Consejo de Participación Ciudadana y al Instituto Estatal Electoral se lleven a cabo los procesos de Referéndum y Plebiscito; por acuerdo de las dos terceras partes del total de los Diputados; y
+
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
 
-LIV.- Las demás que expresamente le confiera esta Constitución.
+LV.- Las demás que expresamente le confiera esta Constitución.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -796,9 +924,11 @@ IV.- Acordará la revocación del mandato a alguno de los integrantes del Ayunta
 
 En caso de declararse desaparecido algún Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros cuando no procediere que entraren en funciones los Suplentes ni que se celebrasen nuevas elecciones, el Congreso del Estado designará entre los vecinos a los Consejos Municipales que concluirán los períodos respectivos. Cuando el Congreso se encuentre en receso, la Diputación Permanente lo convocará a fin de verificar que se han cumplido las condiciones establecidas por esta Constitución.
 
-### CAPITULO I.
+### CAPITULO V.
 
-DEL GOBERNADOR.
+DE LA DIPUTACION PERMANENTE.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1989)</small>
 
 ###### Artículo 42.
 
@@ -812,11 +942,11 @@ III.- Al Tribunal Superior de Justicia, en asuntos relacionados con la organizac
 
 IV.- A los Ayuntamientos.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+(REFORMADO, P.O. 1 DE OCTUBRE DE 1999) (F. DE E., P. O. 24 DE NOVIEMBRE DE 1999)
 
 ###### Artículo 43.
 
-Las iniciativas presentadas por el Ejecutivo del Estado, por el Tribunal Superior de Justicia, o signadas por tres o más Diputados, pasarán desde luego a la Comisión respectiva. Las presentadas por los Ayuntamientos se sujetarán a los trámites que establezca el Reglamento Interior del Congreso.
+Las iniciativas presentadas por el Ejecutivo del Estado, por el Tribunal Superior de Justicia, por los Ayuntamientos o las signadas por uno o más Diputados, pasarán desde luego a la comisión respectiva.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
@@ -864,11 +994,9 @@ El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Cong
 
 Tampoco podrá hacerlas al Decreto de Convocatoria que expida la Diputación Permanente, en los casos del Artículo 66 de esta Constitución.
 
-### CAPITULO II.
+### CAPITULO I.
 
-DE LAS FACULTADES, OBLIGACIONES Y RESTRICCIONES DEL GOBERNADOR.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+DEL GOBERNADOR.
 
 ###### Artículo 53.
 
@@ -918,7 +1046,7 @@ VII.- Conceder licencia a alguno o algunos de sus miembros para separarse de su 
 
 VIII.- Recibir los testimonios de las actas de elecciones de Diputados y de Gobernador del Estado, para entregarlos al Congreso, en sus respectivos casos.
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 IX.- Ejercer durante los recesos del Congreso las facultades a que se refieren las fracciones XXVII, XXX, XXXII, XXXIII, XXXIV, XXXVI, XXXVII, XLV y LII del artículo 40 de esta Constitución.
 
@@ -930,11 +1058,11 @@ X.- Las demás que le confiere expresamente esta misma Constitución.
 
 DEL PODER EJECUTIVO.
 
-### CAPITULO III.
+### CAPITULO II.
 
-DE LOS SECRETARIOS Y DEMAS SERVIDORES PUBLICOS.
+DE LAS FACULTADES, OBLIGACIONES Y RESTRICCIONES DEL GOBERNADOR.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
 
 ###### Artículo 57.
 
@@ -972,7 +1100,9 @@ I.- Los Ministros de algún culto, salvo que hubieren dejado de serlo con la ant
 
 II.- Los miembros del Ejército Mexicano y quienes tengan mando de fuerza dentro o fuera del Estado, que no se hayan separado del servicio activo con seis meses de anticipación, inmediatamente anteriores a las elecciones.
 
-III.- Los que tengan algún cargo o comisión civil del Gobierno Federal, si no se han separado noventa días inmediatamente anteriores a la elección.
+(REFORMADA, P.O. 1 DE OCTUBRE DE 1999) (F. DE E., P. O. 24 DE NOVIEMBRE DE 1999)
+
+III.- Los que tengan algún empleo, cargo o comisión civil del Gobierno Federal, si no se separan noventa días antes del día de la elección;
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -987,6 +1117,14 @@ Nunca podrán ser electos para el período inmediato:
 a). El Gobernador Substituto constitucional o el designado para concluir el período, en caso de falta absoluta del constitucional, aún cuando sea con distinta denominación.
 
 b). El Gobernador interino, el provisional, o el ciudadano que bajo cualquiera denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
+
+(ADICIONADA, P.O. 1 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+VI.- Los Presidentes Municipales si no se separan de sus funciones 90 días antes del día de la elección; y
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 1999)</small>
+
+VII.- El Consejero Presidente y los Consejeros Electorales del Consejo Estatal Electoral, los Magistrados del Tribunal Estatal Electoral, así como el personal directivo del Instituto Estatal Electoral, aún si se separan de sus funciones, conforme a lo dispuesto en la fracción VIII del artículo 23 de la presente Constitución.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -1042,11 +1180,11 @@ Integrado el Congreso del Estado, procederá a hacer la designación de Gobernad
 
 En todo caso que el Gobernador por cualquier circunstancia no pueda otorgar la protesta de Ley ante el Congreso o la Permanente en su caso, rendirá la protesta ante un Notario legalmente autorizado para ejercer sus funciones dentro del territorio del Estado.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-DE LA PROCURADURIA GENERAL DE JUSTICIA.
+DE LOS SECRETARIOS Y DEMAS SERVIDORES PUBLICOS.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 70.
 
@@ -1162,9 +1300,13 @@ XXX.- Conducir las acciones que conforme a la Ley y en concurrencia con los Muni
 
 XXXI.- Intervenir en todos los negocios en que el Estado sea parte o en los que se vea afectado el interés público.
 
-> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1998)</small>
+(ADICIONADA, P.O. 1 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
 
-XXXII.- Las demás que le otorgue la presente Constitución.
+XXXII.- Solicitar al Consejo de Participación Ciudadana y al Instituto Estatal Electoral inicien los procesos de Plebiscito y Referéndum, en los términos que disponga la Constitución y la Ley de la Materia;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1999)</small>
+
+XXXIII.- Las demás que otorgue la presente ley.
 
 (REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 1980) (F. DE E., P.O. 7 DE ENERO DE 1981)
 
@@ -1216,11 +1358,11 @@ El Gobernador Provisional nombrado por el Senado en el caso del artículo 69 de 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE AGOSTO DE 1998)</small>
 
-### CAPITULO V.
+### CAPITULO IV.
 
-DE LA HACIENDA PUBLICA, PROGRAMACION DEL DESARROLLO URBANO Y RURAL.
+DE LA PROCURADURIA GENERAL DE JUSTICIA.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 74.
 
@@ -1268,11 +1410,11 @@ Los servidores públicos a que se refiere el Artículo 74, de ésta Constitució
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1988)</small>
 
-### CAPITULO VI.
+### CAPITULO V.
 
-DE LA PROTECCION DE LOS DERECHOS HUMANOS.
+DE LA HACIENDA PUBLICA, PROGRAMACION DEL DESARROLLO URBANO Y RURAL.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 79-A.
 
@@ -1320,11 +1462,11 @@ El Procurador designado invariablemente deberá tener los mismos requisitos que 
 
 > <small>(REFORMADO Y REUBICADO, P.O. 7 DE JULIO DE 1988)</small>
 
-### CAPITULO VII.
+### CAPITULO VI.
 
-DE LA PROTECCION DEL AMBIENTE Y DEL EQUILIBRIO ECOLOGICO.
+DE LA PROTECCION DE LOS DERECHOS HUMANOS.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1992)</small>
 
 ###### Artículo 80.
 
@@ -1390,9 +1532,9 @@ El fenómeno de conurbación intermunicipal, se presenta cuando dos o más centr
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 1992)</small>
 
-### CAPITULO I.
+### CAPITULO VII.
 
-DISPOSICIONES PRELIMINARES.
+DE LA PROTECCION DEL AMBIENTE Y DEL EQUILIBRIO ECOLOGICO.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
@@ -1402,29 +1544,33 @@ El Congreso del Estado establecerá un organismo autónomo de protección de los
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1995)</small>
 
+### CAPITULO I.
+
+DISPOSICIONES PRELIMINARES.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
+
+###### Artículo 85-D.
+
+El Ejecutivo garantizará la conservación del patrimonio natural de la Entidad, la protección del ambiente y la preservación y restauración del equilibrio ecológico a que tienen derecho los habitantes del Estado.
+
 ### CAPITULO II.
 
 DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
-###### Artículo 85-D.
+## TITULO QUINTO.
 
-El Ejecutivo garantizará la conservación del patrimonio natural de la Entidad, la protección del ambiente y la preservación y restauración del equilibrio ecológico a que tienen derecho los habitantes del Estado.
+DEL PODER JUDICIAL.
 
 ### CAPITULO III.
 
 DE LOS JUECES DE PRIMERA INSTANCIA Y JUECES INFERIORES.
 
-## TITULO QUINTO.
-
-DEL PODER JUDICIAL.
-
-### CAPITULO IV.
-
 ###### Artículo 86.
 
-El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia del Estado, en los juzgados que establezca la Ley y en el Consejo de la Judicatura Estatal. La representación del Poder Judicial corresponderá siempre al Tribunal Superior.
+El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia del Estado, en el Tribunal Estatal Electoral, en los juzgados que establezca la ley y en el Consejo de la Judicatura Estatal. La representación del Poder Judicial corresponderá siempre al Tribunal Superior.
 
 El Consejo de la Judicatura tendrá las atribuciones que se señalan en el artículo 92-A de esta Constitución.
 
@@ -1440,11 +1586,7 @@ La Ley establecerá y organizará los Tribunales, garantizará la independencia 
 
 Los Magistrados del Tribunal Superior de Justicia, los Jueces, los respectivos Secretarios y los Consejeros de la Judicatura Estatal, no podrán desempeñar empleo o cargo de la Federación, del Estado, de los Municipios ni de particulares, por el que reciban alguna remuneración, a no ser que sean de educación o de beneficencia y que no les impidan el expedito ejercicio de sus funciones. La infracción de esta disposición será castigada con la pérdida del cargo.
 
-### CAPITULO V.
-
-DE LA DEFENSORIA PUBLICA.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+### CAPITULO IV.
 
 ###### Artículo 89.
 
@@ -1512,9 +1654,9 @@ El Consejo de la Judicatura Estatal se integrará en la forma y términos que se
 
 Son facultades del Consejo de la Judicatura Estatal:
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1999)</small>
 
-I.- Presentar a consideración del Congreso del Estado las ternas para la designación de los Magistrados del Tribunal Superior de Justicia y del Tribunal Estatal Electoral, así como someter sus licencias y renuncias a la aprobación del propio Congreso, o en su caso de la Diputación Permanente.
+I.- Presentar a consideración del Congreso del Estado las ternas para la designación de los Magistrados del Tribunal Superior de Justicia, así como someter sus licencias y renuncias a la aprobación del propio Congreso, o en su caso de la diputación permanente.
 
 II.- Convocar, conforme a las modalidades establecidas por la ley, a concurso de méritos y a examen de oposición, para efecto de designar a los Jueces integrantes del Poder Judicial.
 
@@ -1526,15 +1668,13 @@ IV.- Tener a su cargo la administración, vigilancia y disciplina del Poder Judi
 
 V.- Iniciar, a solicitud del pleno del Tribunal Superior de Justicia, investigación sobre la conducta de algún Juez u otro funcionario o empleado del Poder Judicial.
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1999)</small>
 
-VI.- Elaborar el presupuesto del Tribunal Superior de Justicia, en el que considerará el propuesto por el Tribunal Estatal Electoral, así como el de los juzgados y demás órganos judiciales y remitirlo para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
+VI.- Elaborar el presupuesto del Tribunal Superior de Justicia, así como el de los juzgados y demás órganos judiciales e integrar el propuesto por el Tribunal Estatal Electoral, y remitirlo para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
 
 VII.- Nombrar y remover, de conformidad con lo establecido en la ley, a los funcionarios y empleados del Poder Judicial, con excepción de los Secretarios de Acuerdos, Secretarios de Estudio y Cuenta y Actuarios del Tribunal Superior de Justicia, cuyo nombramiento y remoción será facultad del pleno y las Salas del Tribunal, según el caso y de acuerdo con lo que la ley establezca.
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
-
-VIII.- Designar de entre sus miembros, a los consejeros que formarán parte de la comisión a que se refiere el párrafo tercero, fracción VI del artículo 23 de esta Constitución.
+VIII.- (DEROGADA, P.O. 1 DE OCTUBRE DE 1999)
 
 > <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 1996)</small>
 
@@ -1646,11 +1786,11 @@ VII.- No podrán ser objeto de estas controversias los actos del Congreso como j
 
 La Ley determinará los demás procedimientos que deban seguirse para el uso del recurso a que se refiere el artículo 99 fracción XII, sobre las bases contenidas en el anterior.
 
-### CAPITULO I.
+### CAPITULO V.
 
-DE LA ORGANIZACION DE LOS MUNICIPIOS.
+DE LA DEFENSORIA PUBLICA.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
 ###### Artículo 102.
 
@@ -1671,6 +1811,12 @@ Habrá también el número de Jueces de categoría inferior que establezca la Le
 La Ley determinará los asuntos de la competencia de los Jueces de Primera Instancia y de los de categoría inferior, y la manera de cubrir las faltas temporales y absolutas de los mismos.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1988)</small>
+
+### CAPITULO I.
+
+DE LA ORGANIZACION DE LOS MUNICIPIOS.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ### CAPITULO II.
 
@@ -1784,9 +1930,7 @@ Para la asignación de Regidores se sumarán los votos de los Partidos que hayan
 
 Si aplicado el factor de distribución quedan regidurías por atribuir, éstas se asignarán en orden decreciente de acuerdo tanto con los mayores porcentajes de votación obtenidos por los Partidos Políticos restantes como con los porcentajes excedentes de aquellos que obtuvieron Regidurías con la aplicación del factor común.
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 1996)</small>
-
-Cuando la diferencia en el resultado de la votación entre la planilla que obtenga la mayoría y la primera minoría no supere el veinte por ciento del total de los votos obtenidos, el síndico asignado a la planilla ganadora contará como un factor de asignación en la lista de Regidores en los términos que establezca la ley.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -1866,11 +2010,11 @@ No podrán ser miembros de un Ayuntamiento o Ayudantes Municipales:
 
 I.- Los Ministros de algún culto, salvo que hubieren dejado de serlo con la anticipación y en la forma que establezca la Ley Reglamentaria del artículo 130 de la Constitución Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
+(REFORMADA, P.O. 1 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
 
-II.- Los empleados de la Federación, del Estado o de los Municipios, si no se separan de sus respectivos cargos tres días naturales previos al inicio del periodo de registro.
+II.- Los empleados de la federación, del Estado o de los Municipios si no se separan de sus respectivos cargos 90 días antes del día de la elección.
 
-Si el empleado del Municipio fuese Tesorero Municipal o Administrador de fondos municipales y del Estado, no podrá ser electo aun separándose de su encargo en el término señalado en el inciso anterior, si no han sido aprobadas sus cuentas.
+El Consejero Presidente y los Consejeros Electorales del Consejo Estatal Electoral, los Magistrados del Tribunal Estatal Electoral, así como el personal directivo del Instituto Estatal Electoral, aún si se separan de sus funciones, conforme a lo dispuesto en la fracción VIII del artículo 23 de la presente Constitución.
 
 III.- Los que tuvieren mando de fuerza pública, si no lo dejaren cuarenta y cinco días antes de la elección.
 
@@ -2567,3 +2711,17 @@ TERCERO.- Por esta única vez el Gobernador del Estado en un plazo de 10 días h
 CUARTO.- Se concede un plazo máximo de 6 meses al Ejecutivo del Estado para que revise, elabore o proponga al Congreso del Estado, las modificaciones que resulten convenientes a la normatividad Estatal, por las reformas a que se refiere el presente Decreto; en tanto se expidan dichas modificaciones, el Procurador General de Justicia continuará ejerciendo las atribuciones y responsabilidades que la ley le señale como representante del interés del Estado y como consejero jurídico del Poder Ejecutivo.
 
 QUINTO.- Se autoriza al Ejecutivo del Estado para que realice las transferencias y adecuaciones presupuestales necesarias, así como los relativos a los recursos humanos y materiales convenientes, para el eficaz cumplimiento de las reformas a que se refiere el presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 1999.
+
+PRIMERO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos señalados por los artículos 47 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+TERCERO.- Lo relativo a los procesos de Plebiscito y Referéndum, así como la iniciativa popular establecidos en el artículo 19-bis, entrarán en vigor el uno de enero del año 2001; el Congreso del Estado tiene 90 días para expedir la ley reglamentaria.
+
+CUARTO.- El Congreso del Estado deberá expedir las modificaciones al Código Estatal Electoral que se deriven de las presentes reformas, adiciones y derogaciones a más tardar 7 días naturales contados a partir de la publicación del presente Decreto.
+
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)</small>
+
+QUINTO.- El Congreso del Estado tiene 90 días para expedir las modificaciones a la Ley Orgánica Municipal que se deriven de las presentes reformas, adiciones y derogaciones.
