@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-consejos-tutelares-y-de-reeducacion-social-para-2652"
 country: "mx"
 rank: "ley"
 publication_date: "1982-01-17"
-last_updated: "1990-07-01"
+last_updated: "1992-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CONSEJOS TUTELARES Y DE REEDUCACION SOCIAL PARA MENORES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 17 de enero de 1982.
 
@@ -597,9 +597,11 @@ Son atribuciones de los Patronatos de Menores los siguientes: a).- Procurar el b
 
 Los patronatos contarán con el personal que demanden sus necesidades, especialmente con un cuerpo de trabajadores sociales que los auxiliarán en el desempeño de sus funciones.
 
-###### ARTICULO 107.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
-Cada patronato tiene obligación de rendir anualmente informe de actividades, y cuenta de sus ingresos y egresos, ante el Ejecutivo del Estado, el Patronato de la Capital, y ante los Presidentes Municipales los patronatos foráneos. Su contabilidad general se supervisará por la Tesorería General del Estado, por las Tesorerías Municipales respectivas, así como por la Contaduría Mayor de Hacienda del Congreso del Estado.
+###### Artículo 107.
+
+Cada patronato tiene obligación de rendir anualmente informe de actividades, y cuenta de sus ingresos y egresos, ante el Ejecutivo del Estado, el Patronato de la Capital, y ante los Presidentes Municipales los patronatos foráneos. Su contabilidad general se supervisará por la secretaría de Finanzas, por las Tesorerías Municipales respectivas, así como por la Contaduría Mayor de Hacienda del Congreso del Estado.
 
 ###### ARTICULO 108.
 
@@ -654,3 +656,7 @@ Lic. Miguel Romo Medina.
 P.O. 1 DE JULIO DE 1990.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 13 DE DICIEMBRE DE 1992.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
