@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-26735
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2002-12-27"
+last_updated: "2003-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO ARTEAGA
 
-LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO ARTEAGA
+LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO ARTEAGA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -124,6 +124,10 @@ Es obligación de todas las personas físicas o morales con actividad empresaria
 La Hacienda Pública de los Municipios del Estado de Querétaro, para erogar los gastos de la administración y las demás obligaciones a su cargo, percibirá en cada ejercicio fiscal, que principia el día primero de enero y termina el día 31 de diciembre de cada año, los impuestos, derechos, productos, aprovechamientos e ingresos extraordinarios que procedan sujetándose a los principios generales establecidos en esta Ley.
 
 Igualmente tendrán derecho los Municipios a percibir las participaciones y aportaciones que a los Municipios otorguen el Gobierno del Estado y el Gobierno Federal.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+Artículo 16 bis. Es obligación de todos los contribuyentes pagar en tiempo y forma sus contribuciones. La Dependencia encargada de las Finanzas Públicas Municipales tendrá la obligación de recaudar las contribuciones causadas en Ejercicios Fiscales anteriores al vigente, lo cual se preverá en una sección específica en la correspondiente Ley de Ingresos.
 
 ###### Artículo 17.
 
@@ -487,27 +491,25 @@ X. Venta de bebidas alcohólicas, en todas sus presentaciones;
 
 XI. Otras actividades semejantes a las anteriores.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 58.
 
-Para llevar a cabo las actividades que se enumeran a continuación, los interesados deberán contar con la licencia de funcionamiento correspondiente,
+Se deberá contar con licencia municipal para:
 
-I.- Sin cobro:
+a. La celebración de bailes, peleas de gallos, serenatas, ferias populares, kermesses y otras fiestas similares, así como para la quema de fuegos artificiales.
 
-a) La celebración de bailes, gallos, serenatas, ferias populares, kermesses y otras fiestas similares, así como para la quema de fuegos artificiales.
+b. El funcionamiento de aparatos fono electromecánicos, electrónicos y otros accionados por monedas o fichas.
 
-b) Para el funcionamiento de aparatos fono electromecánicos, electrónicos y otros accionados por monedas o fichas.
+c. El funcionamiento durante horas extraordinarias de los diferentes negocios o giros; o bien, de funcionamiento dominical o días feriados.
 
-c) Para el funcionamiento durante horas extraordinarias de los diferentes negocios o giros o bien, de funcionamiento dominical o días feriados.
+d. El funcionamiento eventual de equipos de sonido para anuncios o propaganda comercial.
 
-d) Para el funcionamiento eventual de equipos de sonido para anuncios o propaganda comercial.
+e. La venta eventual de bebidas embriagantes.
 
-II.- Con Cobro:
+f. Funcionar en los mercados municipales o en las zonas de mercados que se establezcan, o en la vía pública.
 
-a) La venta eventual de bebidas embriagantes.
-
-b) Para funcionar en los mercados municipales o en las zonas de mercados que se establezcan, o en la vía pública.
-
-c) Para anuncios y promociones publicitarias que se fijen gráficamente o en cualquier forma que no sea por sonido, en las calles o en los exteriores de los edificios o en sus azoteas.
+g. Fijar anuncios y promociones publicitarias que se instalen gráficamente o en cualquier forma que no sea por sonido, en las calles o en los exteriores de los edificios o en sus azoteas.
 
 ###### Artículo 59.
 
@@ -707,6 +709,10 @@ XVII. Por supervisión de obras de urbanización en fraccionamientos.
 
 XVIII. Por carta urbana del plan de desarrollo.
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+XIX. Por los servicios de vigilancia, inspección y control necesario para la ejecución de obras, se retendrá el 2% sobre el importe de cada estimación de trabajo.
+
 ### CAPÍTULO TERCERO. POR EL SERVICIO DE AGUA POTABLE Y SANEAMIENTO
 
 ###### Artículo 76.
@@ -737,11 +743,11 @@ Para los efectos del artículo anterior, los verificadores de consumo de agua ll
 
 Serán sujetos del pago de derecho de alumbrado público, los propietarios o poseedores de predios del Municipio que corresponda, que se beneficien con el servicio de alumbrado público.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 82.
 
-Los Ayuntamientos están facultados para determinar la forma del cobro de este derecho siendo de manera directa ó mediante el convenio que establezcan con la Comisión Federal de Electricidad.
+Los Ayuntamientos están facultados para determinar la forma del cobro de este derecho siendo de manera directa, previéndose en la correspondiente Ley de Ingresos, ó mediante el convenio que establezcan con la Comisión Federal de Electricidad.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
@@ -1029,6 +1035,16 @@ Por el registro en el padrón de proveedores del municipio, en el padrón de usu
 
 Por los dictámenes emitidos por protección civil, ecología y medio ambiente municipales se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+Artículo 116 bis. Por los servicios prestados por otras autoridades municipales, se cobrarán los siguientes derechos:
+
+a. Por los servicios que presta la Unidad Municipal de Acceso a la Información Gubernamental.
+
+b. Por autorización para anuncios y promociones publicitarias que se fijen gráficamente en las calles o en los exteriores de los edificios o de sus azoteas y que no sean de sonido.
+
+c. Por verificación para el otorgamiento de autorizaciones de concesiones y licencias.
+
 ###### Artículo 117.
 
 El arrendamiento de fincas y terrenos, así como la explotación de capitales de los Municipios del Estado, se hará previa autorización del Ayuntamiento, en cuyo acuerdo debe constar la opinión del Presidente Municipal, de los Regidores de Hacienda y el encargado de las finanzas del Municipio, extendiéndose contratos por escrito.
@@ -1215,6 +1231,10 @@ Por utilizar los cementerios municipales se causará y pagará lo establecido en
 
 Por el cobro de las concesiones a particulares se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+Artículo 137 bis. Por el cobro de la venta de bases de licitación por cada uno de los concursos para obra pública y adquisiciones municipales, se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 137.
@@ -1247,11 +1267,13 @@ Los Encargados de las Finanzas Públicas Municipales, empleando el procedimiento
 
 ###### Artículo 141.
 
-Los Presidentes Municipales podrán reducir hasta un cincuenta por ciento, el importe de los recargos correspondientes a rezagos fiscales, si el pago lo hicieren espontáneamente los interesados.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2003)
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 142.
 
-La recaudación de los rezagos de ejercicios fiscales anteriores, se hará de acuerdo con las disposiciones vigentes en la época en que se causaron las contribuciones que corresponden a los municipios.
+La recaudación de las contribuciones no recaudadas en ejercicios fiscales anteriores, se hará de acuerdo con las disposiciones vigentes en la época en que se causaron las contribuciones que corresponden a los municipios.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -1269,9 +1291,11 @@ A falta de otro funcionario que expresamente determinen las disposiciones legale
 
 Por toda multa que se hiciere efectiva, se expedirá el correspondiente recibo oficial, para que el importe de la misma ingrese a la dependencia encargada de las finanzas públicas, quedando estrictamente prohibido el cobro de multas por cualquier otra dependencia del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 146.
 
-Los Presidentes Municipales podrán reducir hasta un cien por ciento, el importe de las multas correspondientes a rezagos fiscales, si el pago lo hicieren espontáneamente los interesados.
+Los Presidentes Municipales podrán reducir hasta un cien por ciento, el importe de las multas correspondientes a contribuciones no recaudadas en ejercicios fiscales anteriores, si el pago lo hicieren espontáneamente los interesados.
 
 ### CAPÍTULO SEGUNDO. MULTAS
 
@@ -1307,9 +1331,13 @@ Los Presidentes Municipales quedan facultados para reducir hasta un cincuenta po
 
 ###### Artículo 151.
 
-La recaudación de los rezagos de ejercicios fiscales anteriores, se hará de acuerdo con las disposiciones vigentes en la época en que se causaron los impuestos, derechos, productos y aprovechamientos que corresponden a los Municipios.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2003)
 
 ### CAPÍTULO CUARTO. RECARGOS
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+Artículo 150 Los Presidentes Municipales quedan facultados para reducir hasta un cien por ciento, el importe de los recargos correspondientes a contribuciones no recaudadas en ejercicios fiscales anteriores, si el pago lo hicieren espontáneamente los interesados.
 
 ###### Artículo 152.
 
@@ -1330,6 +1358,10 @@ VI. Indemnizaciones y reintegros.
 VII. Cooperaciones.
 
 VIII. Subvenciones y subsidios expidiéndose en todo caso, recibo oficial donde se exprese el motivo de la recaudación.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+IX. Contribuciones de Mejoras.
 
 En todo caso deberán estar previstas en la Ley de ingresos del Municipio de que se trate.
 
@@ -1375,7 +1407,7 @@ II. Expropiaciones;
 
 III. Aportaciones extraordinarias de los entes públicos;
 
-IV. Aportaciones extraordinarias de mejoras.
+IV. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2003)
 
 ## TITULO UNICO. OBJETO Y SUJETOS DE LA SEGURIDAD Y PROTECCION DE LOS SERVIDORES PUBLICOS
 
@@ -1454,3 +1486,9 @@ P.O. 27 DE DICIEMBRE DE 2002
 Artículo Primero.- La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 26 DE DICIEMBRE DE 2003.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el periódico oficial de Gobierno del Estado "La Sombra de Arteaga"
+
+Artículo Segundo. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
