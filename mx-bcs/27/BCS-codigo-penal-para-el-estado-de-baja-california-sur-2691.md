@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-2691"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-01-15"
-last_updated: "2002-01-07"
+last_updated: "2002-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 2002.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 15 de enero de 1991.
 
@@ -205,9 +205,9 @@ IX.- Violación, en sus modalidades previstas y sancionadas en los artículos 18
 
 X.- Atentado al pudor, conforme a la hipótesis prevista en el párrafo tercero del artículo 190, en relación con el 191.
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2002)</small>
 
-XI.- Robo previsto en el artículo 211, siempre que se cometa dentro de las hipótesis señaladas en los artículos 214 fracción I primer párrafo y VI; 215 y 217 con excepción de aquellos casos en que el robo se persiga por querella en términos del artículo 243.
+XI.- Robo, previsto en el artículo 211, siempre que se cometa dentro de las hipótesis señaladas en los artículos 211-A, 211-B, 214, fracciones VI y VII, 215 y 217, con excepción de aquellos casos en los que el robo se persiga por querella, en términos del artículo 243.
 
 XII.- Abigeato, previsto en el artículo 221, siempre y cuando se cometa dentro de la primera hipótesis señalada por el artículo 222. Asimismo, en los supuestos de las fracciones I a la VI del propio artículo, siempre y cuando se trate de ganado mayor o sus crías.
 
@@ -1693,6 +1693,32 @@ Comete el delito de robo: el que se apodera de una cosa ajena mueble, sin derech
 
 Al que cometa el delito de robo se le aplicarán de 6 meses a 9 años de prisión y multa hasta por el triple del valor de lo robado.
 
+> <small>(ADICIONADO, B.O. 10 DE MARZO DE 2002)</small>
+
+ARTICULO 211 A.- Al que se apodere de un vehículo automotor, sin derecho y sin consentimiento de la persona que pueda disponer de el con arreglo a la ley, se le impondrá de dos a doce años de prisión y multa hasta por el triple del valor de lo robado.
+
+Además de la pena señalada en el párrafo anterior, se aumentará de seis meses a dos años de prisión cuando el robo sea cometido mediante la delincuencia organizada.
+
+> <small>(ADICIONADO, B.O. 10 DE MARZO DE 2002)</small>
+
+ARTICULO 211 B.- Se impondrá prisión de dos a diez años y multa de doscientos hasta mil días de salario mínimo vigente en el estado, y con independencia de las penas que le correspondan por la comisión de otros delitos, a quien sin haber tomado las precauciones necesarias para cerciorarse de su legítima procedencia:
+
+I.- Se dedique a la compra y venta de vehículos automotor robados.
+
+II.- Destruya total o parcialmente un vehículo automotor robado, lo desmantele o le sustraiga sus partes.
+
+III.- Se dedique a la compra y venta de autopartes nuevas o usadas de vehículos automotor.
+
+IV.- Altere, falsifique o modifique de cualquier manera, la documentación que acredite la propiedad o posesión de un vehículo automotor.
+
+V.- Altere, falsifique o modifique cualquiera de las series o numeración que identifique un vehículo automotor robado, o de cualquiera de sus partes.
+
+VI.- Utilice un vehículo automotor, en la comisión de uno o más delitos dolosos.
+
+> <small>(ADICIONADO, B.O. 10 DE MARZO DE 2002)</small>
+
+ARTICULO 211 C.- Al poseedor de un vehículo automotor que porte placas de circulación como robadas, se le impondrá prisión de un mes a un año y multa de hasta doscientos días de salario mínimo vigente en el estado.
+
 ###### ARTICULO 212.
 
 Se impondrán las mismas penas del robo simple, a quien se apropie de una cosa ajena, mueble, sin consentimiento de quien pueda otorgarlo conforme a la Ley y que tuviere en detentación subordinada.
@@ -1774,6 +1800,14 @@ III.- Detente, posea, custodie, altere o modifique de cualquier manera la docume
 IV.- Traslade el o los vehículos robados a otra Entidad Federativa, y
 
 V.- Utilice el o los vehículos robados en la comisión de otro u otros delitos.
+
+> <small>(ADICIONADO, B.O. 10 DE MARZO DE 2002)</small>
+
+Aporte recursos económicos o de cualquier índole, para la ejecución de las actividades descritas en las fracciones anteriores, se le considerará copartícipe en los términos del artículo 23 de este código.
+
+> <small>(ADICIONADO, B.O. 10 DE MARZO DE 2002)</small>
+
+Si en los actos mencionados participa alguna (sic) servidor público que tenga funciones de prevención, persecución, o sanción del delito a (sic) de ejecución de penas, además de las sanciones a que se refiere este artículo se le aumentará la pena de prisión hasta en una mitad más y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por un periodo igual a la pena impuesta.
 
 ###### ARTICULO 219.
 
@@ -3213,13 +3247,13 @@ Es ultraje el uso indebido de las insignias del Estado o de los Municipios, o la
 
 Al responsable de ultraje se impondrá de tres días a seis meses de prisión y multa hasta de noventa días salario.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
 
 ## TITULO VIGESIMO
 
 DE LOS DELITOS ELECTORALES.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
+T R A N S I T O R I O S :
 
 ### CAPITULO UNICO
 
@@ -3365,7 +3399,7 @@ II.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido de la
 
 La pena a que se refiere este Artículo se podrá incrementar en una cuarta parte si las conductas son cometidas por personal del órgano que tenga a su cargo el servicio del Registro Estatal de Electores.
 
-T R A N S I T O R I O S :
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO PRIMERO.
 
@@ -3456,3 +3490,7 @@ B.O. 7 DE ENERO DE 2002.
 ###### ARTICULO UNICO
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE MARZO DE 2002.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
