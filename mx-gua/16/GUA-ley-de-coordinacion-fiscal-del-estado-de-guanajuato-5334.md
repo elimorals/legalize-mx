@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-coordinacion-fiscal-del-estado-de-guanajuato-5334"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-27"
-last_updated: "1991-12-27"
+last_updated: "1995-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE COORDINACION FISCAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1995.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de diciembre de 1991.
 
@@ -65,7 +65,15 @@ I.- 20% del Fondo General de Participaciones;
 
 II.- 20% de la Participación del Impuesto Federal sobre Tenencia o Uso de Vehículos; y
 
-III.- 100% del Fondo de Fomento Municipal.
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+III.- 20% de la participación en el Impuesto Especial sobre Producción y Servicios;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+IV.- 20% de los Derechos por licencias de funcionamiento para almacenamiento, distribución y compra-venta de bebidas alcohólicas; y
+
+V.- 100% del Fondo de Fomento Municipal.
 
 ###### ARTICULO 4o.
 
@@ -81,13 +89,17 @@ b).- 40% en razón directa a la Población que registre el Municipio de acuerdo 
 
 c).- El 10% en razón proporcionalmente inversa a los factores que resulten de la Recaudación y Población a que se refieren los incisos a) y b) de este Artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 5o.
 
-El Fondo de Fomento Municipal se distribuirá entre los Municipios de acuerdo con lo siguiente:
+El Fondo de Fomento Municipal, el Impuesto Especial sobre Producción y Servicios y los Derechos por Licencias de Funcionamiento para Almacenamiento, Distribución y Compra-venta de Bebidas Alcohólicas, se distribuirán entre los municipios de acuerdo con lo siguiente:
 
 I.- Recibirán anualmente una cantidad igual a la que les hubiere correspondido en el año inmediato anterior; y
 
-II.- Adicionalmente percibirán la cantidad que resulte de aplicar, al monto del incremento que tenga este Fondo en el año para el que se hace el cálculo en relación con el año precedente, el coeficiente que se determine conforme a las siguientes reglas:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+II.- Adicionalmente percibirán la cantidad que resulte de aplicar al monto del incremento que tengan las participaciones a que se refiere este artículo en el año para el que se hace el cálculo en relación con el año precedente, el coeficiente que se determine conforme a las siguientes reglas:
 
 a).- El 50% por partes iguales entre la totalidad de los Municipios del Estado; y
 
@@ -186,3 +198,11 @@ El Encargado de la Secretaría de la Contraloría,
 ARQ. JUAN PABLO LUNA MERCADO.
 
 (Rúbricas)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE DICIEMBRE DE 1995.
+
+###### ARTICULO UNICO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA PRIMERO DE ENERO DE 1996 MIL NOVECIENTOS NOVENTA Y SEIS.
