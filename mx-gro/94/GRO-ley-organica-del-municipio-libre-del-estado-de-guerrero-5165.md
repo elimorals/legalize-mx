@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "1996-05-24"
+last_updated: "2003-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -701,9 +701,11 @@ X. Aceptar donaciones, herencias y legados a los Municipios, siempre que se haga
 
 XI. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 63.
 
-Son facultades y obligaciones de los ayuntamientos en materia de Urbanismo, Ecología y Obras Públicas, las siguientes:
+Son facultades y obligaciones de los Ayuntamientos en materia de Urbanismo, Ecología y Obras Públicas, las siguientes:
 
 I. Formular, aprobar y administrar los planes de Desarrollo Urbano Municipal;
 
@@ -737,7 +739,17 @@ XV. Prevenir y combatir la contaminación ambiental;
 
 XVI. Participar en coordinación con las instancias federales y estatales, en la planeación y regulación de los centros urbanos involucrados en los procesos de conurbación, y
 
-XVII. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2003)</small>
+
+XVII.- Atender la recolección, traslado, tratamiento y disposición final de residuos sólidos urbanos, para ello los Municipios contarán con un relleno sanitario o sitio de disposición final de residuos sólidos que se ubiquen fuera de la mancha urbana y que cuente con las condiciones necesarias para prevenir o controlar posibles afectaciones al medio ambiente y que garantice la protección de la salud pública de acuerdo a las Normas Oficiales y las Leyes de la Materia.
+
+El uso de suelo, será el no urbano y tendrá una localización especial fuera de la mancha urbana.
+
+Con la finalidad de prestar un servicio eficaz, cada Ayuntamiento tendrá un reglamento que contenga las disposiciones señaladas en la presente fracción.
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2003)</small>
+
+XVIII. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
 
 ###### ARTICULO 64.
 
@@ -1597,6 +1609,8 @@ Los Ayuntamientos establecerán reglas y procedimientos para dar de alta los bie
 
 DE LOS SERVICIOS PUBLICOS MUNICIPALES.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 138.
 
 El gasto público municipal comprende las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, así como pagos de pasivo o deuda pública que realice el Ayuntamiento y los órganos o empresas paramunicipales.
@@ -1817,13 +1831,15 @@ Cuando dos o más centros urbanos situados en territorios municipales de dos o m
 
 ###### ARTICULO 177.
 
-Los Ayuntamientos tendrán a su cargo la prestación de los siguientes servicios públicos:
+Los Ayuntamientos tendrán a su cargo la presentación (sic) de los siguientes servicios públicos:
 
 a) Agua Potable y Alcantarillado;
 
 b) Alumbrado público;
 
-c) Limpia;
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2003)</small>
+
+c) Limpia, recolección, traslado, tratamiento y disposición final de residuos sólidos;
 
 d) Mercados y Centrales de Abasto;
 
@@ -2900,3 +2916,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 24 DE MAYO DE 1996.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 4 DE MARZO DE 2003.
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: En un plazo no mayor a noventa días, contados a partir de la entrada en vigor del presente Decreto, los Ayuntamientos deberán elaborar o adecuar, en su caso, el reglamento al que alude el presente Decreto, debiendo informar al Honorable Congreso del Estado de la aprobación correspondiente.
