@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1956-11-17"
+last_updated: "1958-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 1956.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1958.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -198,6 +198,10 @@ I. Hacer que sus hijos o pupilos concurran a las escuelas públicas o particular
 II. Inscribirse en el padrón de la localidad en que residan, manifestando la propiedad que tengan, la industria, profesión o trabajo de que subsistan;
 
 III. Contribuir para los gastos públicos de la Federación, del Estado y del Municipio, de la manera proporcional y equitativa que dispongan las leyes.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1958)</small>
+
+IV. Cooperar en la Campaña de Alfabetización.
 
 ## TITULO SEGUNDO. Del Orden Público
 
@@ -975,6 +979,10 @@ III. Imponer contribuciones que no estén especificadas en la Ley General de Ing
 
 IV. Comunicarse directamente, ni por conducto del Presidente Municipal, con cualquiera autoridad Federal o de fuera del territorio del Estado, si no es por conducto del Ejecutivo del mismo, en todos aquellos asuntos que son de la competencia de los Poderes del Estado.
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1958)</small>
+
+V. Arrendar los bienes raíces que les pertenezcan sin previa autorización de la Legislatura del Estado, mediante la expedición del Decreto respectivo, cuando el plazo de vigencia de esos contratos de arrendamiento exceda del término del ejercicio legal de las autoridades que celebren los citados contratos.
+
 ###### ARTICULO 108.
 
 Los Ayuntamientos administrarán libremente la Hacienda Municipal, la cual se compondrá de los bienes propios del Municipio y de los productos de las contribuciones impuestas por la Ley General de Ingresos Municipales, o por las especiales en el caso de la última parte del artículo 104.
@@ -1536,3 +1544,15 @@ Unico.- Los Concejales que resulten electos en las elecciones municipales que se
 P.O. 17 DE NOVIEMBRE DE 1956.
 
 Unico.- El presente decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1958.
+
+DECRETO No. 93, QUE ADICIONA EL ARTICULO 107 DE LA CONSTITUCION POLÍTICA DEL ESTADO.
+
+Unico.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1958.
+
+DECRETO No. 94, QUE ADICIONA EL ARTICULO 22 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+Unico.- El presente Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
