@@ -4,7 +4,7 @@ identifier: "COL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-274
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-21"
-last_updated: "2002-12-21"
+last_updated: "2004-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2004.
 
 Ley publicada en el Suplemento No. 4 del Periódico Oficial del Estado de Colima, el sábado 21 de diciembre de 2002.
 
@@ -103,7 +103,9 @@ Son atribuciones del Congreso:
 
 I. Aprobar anualmente la Ley de Ingresos y el Presupuesto de Egresos del Gobierno del Estado;
 
-II. Revisar y fiscalizar la cuenta pública del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+II.- Aprobar el dictamen de los resultados de la cuenta pública estatal, a más tardar el 15 de noviembre el correspondiente al primer semestre de cada año, y el 15 de mayo del siguiente año el que corresponda al segundo semestre, debiendo expedir el decreto en el que se consigne la conclusión del proceso de revisión y fiscalización de los resultados de la cuenta pública correspondiente, en el que se determine si hubo o no irregularidades o faltas de carácter administrativo, así como de las propuestas de sanción a las que pueden estar sujetos quienes hayan incurrido en responsabilidad alguna;
 
 III. Ordenar la práctica de auditorías que estime necesarias a las dependencias y entidades;
 
@@ -121,13 +123,17 @@ II. Aprobar las ampliaciones de partidas presupuestales cuando los ingresos supe
 
 III. Autorizar las transferencias presupuestales necesarias para otorgar suficiencia a partidas agotadas sin modificar el monto de la dependencia, atribución que podrá ser delegada al secretario;
 
-IV. Remitir al Congreso para su revisión y fiscalización, la cuenta pública del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+IV.- Presentar al Congreso del Estado para su revisión y fiscalización semestralmente el resultado de la cuenta pública del Gobierno del Estado, dentro de los 45 días naturales siguientes a la conclusión del semestre correspondiente. Dichos resultados se elaborarán por los meses comprendidos de enero a junio y de julio a diciembre de cada año, debiendo integrar en este último periodo las cifras consolidadas anuales de los resultados de la gestión;
 
 V. Presentar en forma trimestral ante el Congreso, dentro de los 30 días posteriores a cada trimestre, el informe de la evolución de las finanzas públicas del Estado, publicando sus resultados en el Periódico Oficial del Estado;
 
 VI. Presentar ante la Legislatura, con la periodicidad y en el término que se señalan en la fracción anterior, los resultados presupuestales de ingresos, gastos y el acervo de la deuda y la plantilla de personal por dependencia o entidad; así como el monto de las participaciones recibidas y la forma de distribución hacia los municipios;
 
-VII. Ordenar la publicación en el Periódico Oficial del Estado, de los principales resultados presupuestales de la cuenta pública, revisada y fiscalizada por el Congreso, presentando un desglose de los ingresos y gastos, así como los principales resultados alcanzados con los recursos ejercidos y otro por capítulo del gasto transferido de la Federación y los resultados alcanzados con su aplicación;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+VII.- Ordenar la publicación en el Periódico Oficial del Estado, de los resultados semestrales de la cuenta pública aprobada por el congreso Local, presentando un desglose de los ingresos y gastos, así como los principales resultados alcanzados con los recursos ejercidos y un desglose por capítulo del gasto transferido de la federación y los resultados alcanzados de su aplicación;
 
 VIII. Ordenar la publicación en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación en la Entidad, las participaciones que cada año correspondan a cada uno de los municipios; y
 
@@ -151,7 +157,9 @@ VI. Operar el sistema de contabilidad del Estado y formular los informes financi
 
 VII. Elaborar mensualmente el estado de origen y aplicación de recursos del Gobierno del Estado y solicitar su publicación en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación en la entidad;
 
-VIII. Elaborar la cuenta pública del Gobierno del Estado y presentarla al Gobernador para su firma y remisión al Congreso;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+VIII. Elaborar los resultados semestrales de la cuenta pública del Estado y presentarla al titular del Poder Ejecutivo para su firma y revisión al congreso del Estado, dentro de los 45 días naturales siguientes a su conclusión de cada semestre;
 
 IX. Dictar los lineamientos que deberán observar las dependencias y entidades, para el ejercicio del presupuesto;
 
@@ -169,7 +177,15 @@ II. Practicar las auditorías, visitas e inspecciones necesarias para el cumplim
 
 III. Formular recomendaciones a las entidades fiscalizadas sobre sistemas, métodos, procedimientos o medidas que estime pertinentes se adopten.
 
-IV. Las demás que le determinen esta Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2004)</small>
+
+IV.- Revisar los resultados semestrales de la cuenta pública estatal, considerando el desahogo de las confrontas derivadas de las observaciones, la elaboración y entrega del informe primero de auditoría hasta la terminación del informe final de auditoría, con las recomendaciones sobre la aplicación de posibles sanciones, la cual deberá quedar concluida dentro de los siguientes 60 días naturales a la presentación de los mismos por el Gobierno del Estado.
+
+Al respecto, deberá remitir a la Comisión de Hacienda y Presupuesto los informes finales de auditoría del primer y segundo semestres, dentro de los siguientes 60 días naturales a la presentación del resultado de la cuenta pública semestral por parte del gobierno del Estado, para efectos de que la Comisión elabore el dictamen de resultados correspondiente; y
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+V.- Las demás que señale su Ley Orgánica y demás disposiciones legales aplicables.
 
 ###### ARTICULO 8°.
 
@@ -333,7 +349,9 @@ I. Que se encuentren contabilizados al 31 de diciembre del año correspondiente 
 
 II. Que exista disponibilidad presupuestal para ello en la fecha en que se devengaron;
 
-III. Que se informe a la Secretaría antes del último día de enero del año siguiente al del ejercicio que corresponda el gasto, cuyo pago no se hubiera cubierto; y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+III.- Que se informe a la Secretaría dentro de los 15 días naturales siguientes a la conclusión de cada semestre que corresponda al gasto, cuyo pago no se hubiere cubierto; y
 
 IV. Que se radiquen en la Secretaría los documentos que justifiquen los pagos respectivos, a más tardar en la fecha que se precisa en la fracción anterior.
 
@@ -368,6 +386,14 @@ La Secretaría formulará el proyecto de cuenta pública, conformado por los res
 ###### ARTICULO 36.
 
 La Contaduría Mayor, la Contraloría y los órganos de control interno de las entidades, tendrán facultades exclusivas para realizar dentro del ámbito de sus respectivas competencias, las auditorías necesarias que permitan comprobar que el ejercicio de los recursos se hubiere efectuado de acuerdo a las disposiciones legales y normatividad específica.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2004)</small>
+
+Las revisiones se deberán se deberán realizar por los meses comprendidos de enero a junio y de julio a diciembre de cada año, debiendo integra (sic) en este último período las cifras consolidadas anuales de los resultados de la gestión estatal.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2004)</small>
+
+Respecto del primer semestre del año, los resultados tendrán carácter provisional, por lo que podrán sufrir ajustes durante el semestre siguiente, mismos que habrán de reflejarse en los resultados anuales.
 
 ###### ARTICULO 37.
 
@@ -414,3 +440,11 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno a los 20 días del mes de Diciembre del año dos mil dos.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. FERNANDO MORENO PEÑA. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA. Rúbrica. EL SECRETARIO DE FINANZAS. ING. ALMAR PETTERSEN MORA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE JULIO DE 2004.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+Segundo.- La revisión y fiscalización de la cuenta pública municipal correspondiente al ejercicio fiscal 2003, se sujetará a las bases y disposiciones constitucionales del sistema anual de rendición de cuentas establecidas antes de la presente reforma.
