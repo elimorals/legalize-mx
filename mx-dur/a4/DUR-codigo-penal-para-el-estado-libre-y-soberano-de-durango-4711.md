@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-4711"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-08-22"
-last_updated: "1996-12-19"
+last_updated: "1997-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,501 +21,1373 @@ state: "DUR"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
+REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2004.
 
-Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 22 de agosto de 1991.
+Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 28 de diciembre de 2001.
 
-EL CIUDADANO LICENCIADO JOSE RAMIREZ GAMERO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, a sus habitantes, sabed:
+AL MARGEN UN SELLO CON EL ESCUDO DE LA NACION.- PODER EJECUTIVO.- GUANAJUATO.
 
-Que la H. Legislatura del mismo se ha servido dirigirme el siguiente:
+JUAN CARLOS ROMERO HICKS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, CON FUNDAMENTO EN LOS ARTÍCULOS 77, FRACCIONES II Y III, Y 79 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE GUANAJUATO, Y EN OBSERVANCIA DE LO DISPUESTO POR LOS ARTÍCULOS 2°, 3°, 6°, 9° Y 22 FRACCIÓN I DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO, Y
 
-Con fecha 2 de Abril del presente año, el Titular del Poder Ejecutivo envió a esta H. LVIII Legislatura Local, iniciativa de Decreto conteniendo el Código Penal para el Estado de Durango, misma que fué turnada a las Comisiones de Justicia y Legislación, de las cuales son integrantes los CC. Diputados Raul Muñoz de León, Alfonso Primitivo Ríos Vázquez, René Carreón Gómez, Ricardo F. Pacheco Rodríguez, José Ramón González León y Rafael Jacobo Femat, mismos que emitieron su dictámen favorable con base en los siguientes:
+CONSIDERANDO.
 
-CONSIDERANDOS
+POR LO ANTERIORMENTE EXPUESTO Y CON FUNDAMENTO EN LAS DISPOSICIONES LEGALES Y CONSIDERACIONES PREVIAMENTE SEÑALADAS, HE TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
-PRIMERO.- Que las normas de carácter penal aparecen con el hombre mismo en su intención inmanente de convivencia social, y como un recurso que le permitió y permite que esa convivencia no sea perturbada por conductas antisociales y que de darse estas conductas debe someterse a quienes en el atentado infringen la norma, a una sanción, que impuesta procure por un lado el castigo al infractor y por el otro le permita readaptar su conducta a las normas establecidas por la propia sociedad.
+DECRETO GUBERNATIVO NÚMERO 105
 
-SEGUNDO.- Que las normas penales que en el pasado estuvieron ligadas más con sanciones de carácter social, y que ahora y en el pasado inmediato y a través del desarrollo del derecho penal, cumplen con la función de velar en contra de los atentados al orden social y jurídico establecido y de proteger con el establecimiento de normas jurídicas penales a los individuos que integran a la sociedad pues atemperan las conductas contrarias a derecho y promueven su no ejecución so pena de la sanción correspondiente.
+###### ARTICULO ÚNICO.
 
-TERCERO.- Es indudable que el propio desarrollo del derecho penal ha permitido la renovación de sus normas jurídicas a través de las reformas a los diversos ordenamientos penales que promueven en ellos el surgimiento de un derecho social penal que conjugue la defensa de la sociedad con la presunta peligrosidad de sus integrantes.
+SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA, PARA QUEDAR EN LOS SIGUIENTES TÉRMINOS:
 
-CUARTO.- Que en cada espacio de tiempo y en cada ámbito son diferentes las conductas que la sociedad considera delictivas, por lo que el derecho penal a través de su codificación debe atender no sólo a la teoría sino a sus realidades.
-
-QUINTO.- Que la Comisión Dictaminadora coincidió con el autor de la Iniciativa en el sentido de que es ya, una necesidad impostergable revisar y de esta manera poder modernizar el conjunto de disposiciones legales que integran nuestra normatividad penal con la finalidad de que otorguen una mayor satisfacción a las necesidades de nuestra población, necesidades siempre cambiantes al encontrarse la sociedad de nuestro Estado en plena evolución y desarrollo; y que también es imprescindible actualizar y adecuar el conjunto de las normas jurídicas penales que rigen en nuestro Estado en concordancia a la evolución que presentan ordenamientos punitivos tanto de nivel federal como de otras entidades federativas y encontrarse a la par con los cuerpos normativos penales más avanzados de nuestra Nación.
-
-SEXTO.- Que en el presente Código aparecen valiosas innovaciones dentro de su articulado, encontrándose dentro de las más importantes; que en su libro primero se hace una diferenciación entre las penas y medidas de seguridad que antes se encontraban agrupadas con el título de sanciones, permitiendo esta diferenciación una más precisa y correcta aplicación de las mismas; la redefinición de la multa que anteriormente se aplicaba en base a días de salario mínimo vigente en la ciudad de Durango y que en el presente Código se aplica en base a días multa que serán impuestos de acuerdo a la percepción neta diaria del inculpado en el momento de consumar el delito; se contempla también como pena, trabajos a favor de la comunidad, que consistirán en la prestación de servicios no remunerados en Instituciones Públicas o Privadas educativas o de asistencia social. En el Libro Segundo referente a los delitos, se hace una total reubicación de títulos y capítulos con el objeto de dar una mayor coherencia y un mejor orden respecto a la clasificación, tipificación y penalidad referente a cada delito; así mismo, se contempla la creación de delitos que anteriormente no existían o no se encontraban clara o individualmente tipificados, encontrándose los siguientes: Oposición a la Ejecución de Obras o Trabajos Públicos, consistente en el hecho de que una persona o personas impidan en cualquier forma la ejecución de una obra, trabajo público, programa o cualquier otro tipo de beneficio colectivo, ordenados por la autoridad competente con los requisitos legales o con su autorización el delito de tráfico de influencia, consistente en que un servidor público por si mismo o a través de otra persona promueva, gestione o se preste a la tramitación o resolución lícita o no de negocios públicos de particulares, ajenos a las responsabilidades inherentes a su empleo, cargo o comisión y obtenga por ello un beneficio económico; el delito de concusión que lo comete un servidor público que por título de impuesto, contribución, derechos, etc., exija para su propio beneficio, ya sea por sí mismo o por interpósita persona, dinero, valores servicio o cualquier cosa no debida o en mayor cantidad de la que señala la Ley; el delito de enriquecimiento ilícito que lo cometerá el servidor público que obtenga un lucro evidentemente desproporcionado con la percepción que su empleo, cargo o comisión, tenga asignada presupuestariamente, sin demostrar la honesta procedencia de los bienes; el delito de acusación o denuncias falsas que lo cometerá la persona que impute falsamente a otra un hecho considerado como delito por la Ley ante un funcionario que deba proceder a la persecusión del mismo; el delito de Quebrantamiento de Penas no Privativas de la Libertad y Medidas de Seguridad que lo cometerá la persona a la que se le hubiere impuesto una pena que no sea la de prisión y no la cumpliere en su totalidad; el delito de Uso de Documento Falso o Alterado que lo cometerá el que dolosamente haga uso de un objeto o documento falso o alterado, pretendiendo que produzca efectos legales; el delito de Uso Indebido de Uniformes, Insignias, Distintivos, o Condecoraciones que lo cometerá el que usare credenciales o cualquier medio de identificación, uniformes, insignias, distintivos o condecoraciones a que no tenga derecho; el delito de Portación, Tráfico y Acopio de Armas Prohibidas que lo cometerá el que porte, fabrique importe, regale, trafique o acopie alguna de las armas señaladas en la relación que se hace en el mismo Capítulo; los Delitos de Vagancia y Malvivencia que los cometerá el que no se dedique a un trabjo (sic) honesto sin causa justificada y tenga malos antecedentes y el mendigo que se sorprenda con un disfraz armas, ganzúas, o cualquier instrumento que de motivo a sospechar que trata de cometer un delito; los delitos cometidos en el ejercicio de Actividades Profesionales o Técnicas, que lo cometerá aquel profesionista o técnico que abandone una actividad profesional cuando esté obligado a prestarla; el delito de Estorbo del Aprovechamiento de Bienes de Uso Común que se aplicará al que sin derecho estorbare de cualquier forma el aprovechamiento de bienes de uso común y no retirare el estorbo a pesar del requerimiento que le haga la autoridad competente; los delitos Cometidos por Fraccionadores que lo cometerá el que trafique ilegalmente con terrenos, los fraccione o divida en lotes careciendo del permiso de la autoridad correspondiente o no cumpla con los requisitos prometidos; los delitos Cometidos por Conductores de Vehículos de Motor que se aplicará al que maneje un vehículo de motor en estado de ebriedad o bajo el influjo de drogas enervantes; los delitos contra la Riqueza Forestal del Estado que se aplicarán al que sin contar con el permiso correspondiente realice explotaciones forestales, las realice violando los términos del permiso otorgado o haya proporcionado a la Autoridad datos falsos para obtener el mismo; los delitos Contra el Consumo, que lo cometerán los comerciantes o industriales que alteren la cantidad o calidad de mercancías de venta al público o les atribuyan cualidades que no tengan; los delitos Contra el Trabajo y la Previsión Social que se aplicará al patrón que habitualmente viole ciertas disposiciones de la Ley Federal del Trabajo específicamente señaladas; el delito de Disparo de Arma de Fuego y Ataque Peligroso que lo cometerá el que dispare con un arma de fuego sobre una persona o un grupo de ellas o al que ataque a alguien con cualquier arma y pueda con ello producir lesiones o la muerte; los delitos Contra la Seguridad de la Propiedad y la Posesión de Inmuebles y Límites de Crecimiento de los Centros de Población, que los cometerá al que altere términos o linderos de poblados o señales destinadas a fijar los límites de predios contiguos o entre en un predio cercado; el delito de Transferencia Ilegal de Bienes Sujetos a Régimen Ejidal o Comunal que se aplicará a quien compre, venda transfiera o adquiera ilegalmente la tenencia de bienes ejidales o comunales, con propósito de lucro o cualquier beneficio para sí mismo o para otros; el delito de Ocupación Ilegal de Edificio e Inmuebles destinados a un servicio público que se aplicará a quienes ocupen o impidan el acceso transitoriamente a edificios o inmuebles destinados a un servicio público sea cual fuere la forma o medio empleado. Delitos todos ellos, que si en épocas anteriores no era necesario contemplarlos en nuestra Codificación Penal, actualmente dados al incremento y evolución urbana y social que se presenta en nuestro Estado se hace imprescindible encontrándose ya los referidos delitos en los cuerpos normativos de otras entidades plenamente desarrolladas.
-
-CUARTO (SIC).- Que las Comisiones Dictaminadoras, al comparar puntos de vista de sus integrantes, y no obstante a la técnica jurídica contenida en la iniciativa del Titular del Ejecutivo, encontraron conveniente adicionarla con modificaciones y la introducción de normas jurídicas no consideradas en la iniciativa, dichas adiciones se hacen analizando el hecho de que no se debe pasar por alto que en el derecho penal moderno, es imposible descartar una orientación eclética, en el buen sentido de la palabra, y sobre la base del empleo de la crítica, la lógica y el disernimiento, con la pretensión de acrisolar en este Código disposiciones que puedan contener los supuestos normativos viables de darse y en base a ellos crear las medidas preventivas de las posibles figuras delictivas; siendo las modificaciones que las Comisiones consideraron pertinentes las siguientes:
-
-Se propuso reformar el artículo 16 fracción I ya que el contenido contemplado en la fracción a que se hace referencia es en extremo limitada, es decir se restringe la excluyente responsabilidad a una sóla hipótesis como es la de actuar ante una fuerza exterior irresistible por lo que se creyó que con la modificación, se abarcan todas las situaciones que se precisan tomar en cuenta, puesto que con dicha modificación la excluyente de responsabilidad prevee cuando la actividad o inactividad del agente sean involuntarias, es decir, cuando se produzca al margen de la voluntad del inculpado.
-
-Se propuso adicionar el artículo 69 con cuatro incisos a), b), c) y d), puesto que con ellos se determinan situaciones especiales de la figura delictiva del delito culposo, ya que no sería aconsejable tratar con idénticas a quien se situe dentro de este supuesto, conduciendo en situación normal y a quienes lo hacen en las condiciones expresamente señaladas en los incisos cuya inclusión se propuso, con ello se lograrán conjugar los intereses del ofendido y de la colectividad; y en forma simultánea se propiciará la justa reparación del daño, de conformidad con los conceptos de equidad, además quedarán excluidos de este supuesto normativo los casos expresamente señalados en los incisos que se propusieron.
-
-Así mismo, y como se observa en este Código, se hizo un recorrido de los artículos y capítulos a partir del título quinto del libro primero, las Comisiones consideraron oportuno incluirlas en el cuerpo normativo del Código Penal una nueva figura jurídica en el ámbito del derecho penal, siendo ésta la preclusión del derecho de querella, cuyo término es de un año a partir del día en que la parte ofendida tenga conocimiento del delito, cuya querella pretenda presentar ante la autoridad correspondiente, esto se propuso en razón a que se consideró que la posibilidad de querellarse puede convertirse en un momento determinado en un medio de ataque o amenaza de un particular contra otro, afectando en forma sutil la seguridad jurídica a la que todos tenemos derecho.
-
-En relación al delito de violación las Comisiones Dictaminadoras propusieron la inclusión en el cuerpo del Decreto, las últimas reformas aprobadas por esta Legislatura en relación al delito de que se trata, las cuales se publicaron en el Periódico Oficial del Estado No. 14 de fecha 22 de Mayo de 1990, por estimarse que dichas reformas están adecuadas en cuanto a la prevensión y punibilidad de dicha figura delictivas (sic), medidas que se tomaron tomando en consideración el sentir de la sociedad Duranguense.
-
-De igual forma las Comisiones, tomaron en consideración la iniciativa presentada ante el H. Congreso del Estado, por la C. Diputada y Licenciada Soledad Rueda de León, la cual fué turnada en fecha 4 de abril del presente año a dichas comisiones dictaminadoras, y en la cual se planteo la adición al artículo 144 del Código Penal vigente, proponiéndose en la misma, que si el contagio del Síndrome de Inmuno Deficiencia Adquirida, Sífilis o cualquier otra enfermedad venérea se realiza por medio del contagio sexual su penalidad sea de dos a seis años de prisión. Ahora bien, en lo que respecto a este tema y viendo que la iniciativa del Ejecutivo la contiene en los términos propuestos, las Comisiones consideraron que quedó satisfecho el interés legislativo de la proponente.
-
-Por último y en relación a las adiciones, las comisiones consideraron oportuno integrar al cuerpo normativo, se propuso adicionar dicho ordenamiento legal con las fracciones XVI, XVII, XVIII, XIX, XX y XXI las cuales quedaron comprendidas en el Artículo 338 de dicho Ordenamiento, y el cual se refiere al Fraude específico, lo anterior se propuso en virtud a que las mencionadas fracciones contemplan supuestos en los que se puede ubicar fácilmente: aquellos que vendan materiales y que siéndoles pagados no los entregan en su totalidad o calidad convenidos; los que lucren indebidamente con mercancía subsidiadas desvirtuando los fines perseguidos con el subsidio; los intermediarios en operación de traslación de dominio, de bienes inmuebles o de gravámenes reales, obteniéndo dinero títulos o valores, ya sea por el pago de su precio a cuenta de él o para constituir gravemente (sic) y lo destine para otro objeto de su provecho o de otra persona; los constructores o vendedores de edificios en condominio, que obtengan dinero, títulos o valores por el importe de su precio o a cuenta de él y lo destine para otro objeto difierente (sic) a lo contratado, en su provecho o de otra persona; y el que libre cheques sin tener fondos o cuenta en la Institución Bancaria librada, adiciones todas que tienen como objetivo principal proporcionar al pueblo de Durango un Código Penal que sea garante de la sociedad a la que nos debemos.
-
-Las Comisiones observaron también que dentro del articulado de la iniciativa se efectuó una revisión completa y una correspondiente adecuación de las penas que presenta para cada delito y que esta adecuación sigue los últimos lineamientos e innovaciones seguidos por las más modernas codificaciones penales de la República, así como de las más modernas y evolucionadas tendencias doctrinales, las Comisiones al observar que el Código Penal contenido en la iniciativa es realmente avanzado y responde a las nuevas necesidades de la desarrollada sociedad de nuestro Estado, coicidieron (sic) con el mismo.
-
-Con base en los anteriores considerandos la H. LVIII Legislatura del Estado, expide el siguiente:
-
-DECRETO NUMERO 263.
-
-LA HONORABLE QUINCUAGESIMA OCTAVA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN USO DE LAS FACULTADES QUE LE CONCEDE EL ARTICULO 55 DE LA CONSTITUCION POLITICA LOCAL, A NOMBRE DEL PUEBLO DECRETA:
-
-CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
 # LIBRO PRIMERO
 
-## TITULO PRIMERO. APLICACION DEL CODIGO PENAL
+## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-###### ARTICULO 1.
+###### ARTÍCULO 1°.
 
-Este Código se aplicará en el Estado de Durango en los casos que sean de la competencia de sus tribunales:
+EL PRESENTE REGLAMENTO TIENE POR OBJETO REGULAR LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS UNIDADES ADMINISTRATIVAS QUE INTEGRAN LA SECRETARÍA DE SEGURIDAD PÚBLICA.
 
-I.- Por los delitos cuya ejecución se inicie y consume en el territorio del Estado;
+###### ARTÍCULO 2°.
 
-II.- Por los delitos cuya ejecución se inicie fuera del territorio del Estado, si se consumen dentro del mismo; y
+LA SECRETARÍA DE SEGURIDAD PÚBLICA TIENE A SU CARGO VELAR POR LA PROTECCIÓN DE LOS HABITANTES DEL ESTADO, PREVENIR LA COMISIÓN DE DELITOS Y HACER GUARDAR EL ORDEN PÚBLICO, ASÍ COMO EL DESPACHO DE LOS ASUNTOS QUE LE ENCOMIENDAN LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO, LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO Y LAS DEMÁS DISPOSICIONES LEGALES APLICABLES.
 
-III.- Por los delitos permanentes o continuados, cuando un momento o acto cualquiera de ejecución, se realice dentro del territorio del Estado.
+###### ARTÍCULO 3º.
 
-En los casos comprendidos en las fracciones II y III de este artículo se aplicará el Código cuando el inculpado se encuentre en el territorio del mismo o no se haya ejercitado en su contra acción penal en otra entidad federativa cuyos tribunales sean competentes, por disposiciones análogas a las de este Código, para conocer del delito.
+PARA EL ESTUDIO, PLANEACIÓN, PROGRAMACIÓN, EJECUCIÓN Y DESPACHO DE SUS ASUNTOS, LA SECRETARÍA DE SEGURIDAD PÚBLICA CONTARÁ CON LAS SIGUIENTES UNIDADES ADMINISTRATIVAS:
 
-###### ARTICULO 2.
+I.- DESPACHO DEL SECRETARIO;
 
-Si después de cometido el delito y antes de que cause ejecutoria la sentencia que deba pronunciarse, se promulgan una o más leyes que disminuyan la pena o la sustituyan por otra que sea menos grave, se aplicará la nueva Ley.
+II.- SUBSECRETARÍA DE PREVENCIÓN;
 
-Si pronunciada la sentencia ejecutoria se dictare una ley que, dejando subsistente la pena señalada para el delito, disminuya su duración, se reducirá la pena impuesta en la misma proporción en que esté al máximo de la señalada en la posterior. En caso de que cambiare la naturaleza de la pena, si el inculpado lo solicita, se substituirá la señalada en la Ley anterior por la señalada en la posterior.
+III.- SUBSECRETARIA DE SEGURIDAD;
 
-Sin embargo, la ley abrogada deberá continuar aplicándose por los hechos ejecutados durante su vigencia a menos que los inculpados manifiesten su voluntad de acogerse al ordenamiento que estimen favorable.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
 
-Si una nueva ley deja de considerar una conducta como delito, se sobreseerán los procedimientos y cesarán los efectos de las sentencias, en sus respectivos casos.
+IV.- DIRECCIÓN GENERAL DE VINCULACIÓN Y PARTICIPACIÓN SOCIAL;
 
-En caso de haberse cubierto la reparación del daño no habrá lugar a repetir en contra del beneficiado.
+V.- DIRECCIÓN GENERAL DEL INSTITUTO PARA LA FORMACIÓN DE LOS CUERPOS DE SEGURIDAD PÚBLICA DEL ESTADO;
+
+VI.- DIRECCIÓN GENERAL DE ADMINISTRACIÓN;
+
+VII.- COORDINACIÓN EJECUTIVA DE PROTECCIÓN CIVIL;
+
+VIII.- DIRECCIÓN GENERAL DE POLÍTICA CRIMINAL Y PREVENCIÓN DEL DELITO;
+
+IX.- DIRECCIÓN GENERAL DEL SISTEMA DE CÓMPUTO, COMANDO, COMUNICACIONES Y CONTROL;
+
+X.- DIRECCIÓN GENERAL DE EJECUCIÓN PENITENCIARIA Y READAPTACIÓN SOCIAL;
+
+XI.- DIRECCIÓN GENERAL DE LAS FUERZAS DE SEGURIDAD PÚBLICA;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+XII.- DIRECCIÓN DE COORDINACIÓN Y SEGUIMIENTO;
+
+XIII.- DIRECCIÓN DE FORMACIÓN PROFESIONAL;
+
+XIV.- DIRECCIÓN DE PRESUPUESTO;
+
+XV.- DIRECCIÓN DE PERSONAL;
+
+XVI.- DIRECCIÓN DE SERVICIOS GENERALES Y ADQUISICIONES;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+XVII.- DIRECCIÓN DE PLANEACIÓN ESTRATÉGICA Y DESARROLLO;
+
+XVIII.- DIRECCIÓN DE INFORMÁTICA;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
+
+XIX.- DIRECCIÓN DE CONTROL INTERNO ADMINISTRATIVO;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
+
+XX. DIRECCIÓN DE SEGUIMIENTO DEL FONDO DE SEGURIDAD DEL ESTADO DE GUANAJUATO;
+
+XXI.- DIRECCIÓN JURÍDICA, DE VISITADURÍA INTERNA Y DERECHOS HUMANOS;
+
+XXII.- DIRECCIÓN DE COMUNICACIÓN SOCIAL;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
+
+XXIII.- DIRECCIÓN TÉCNICA DE PROTECCIÓN CIVIL;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
+
+XXIV.- DIRECCIÓN OPERATIVA DE PROTECCIÓN CIVIL;
+
+XXV.- DIRECCIÓN DE PLANEACIÓN Y ESTADÍSTICA CRIMINOLÓGICA;
+
+XXVI.- DIRECCIÓN DE POLÍTICA CRIMINAL;
+
+XXVII.- DIRECCIÓN DE PREVENCIÓN DEL DELITO;
+
+XXVIII.- DIRECCIÓN TÉCNICA DE INFRAESTRUCTURA Y SERVICIOS DE RADIO Y TELECOMUNICACIONES;
+
+XXIX.- DIRECCIÓN DE COORDINACIÓN Y CONTROL DE LOS CENTROS DE READAPTACIÓN SOCIAL;
+
+XXX.- DIRECCIONES DE LOS CENTROS ESTATALES DE READAPTACIÓN SOCIAL;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
+
+XXXI.- DIRECCIÓN DE SEGUIMIENTO A LIBERADOS;
+
+XXXII.- DIRECCIÓN DEL SISTEMA ESTATAL PARA EL TRATAMIENTO DE MENORES INFRACTORES;
+
+XXXIII.- DIRECCIÓN DE SEGURIDAD PÚBLICA;
+
+XXXIV.- DIRECCIÓN DE POLICÍA ESTATAL DE CAMINOS;
+
+XXXV.- DIRECCIÓN DE POLICÍA GANADERA;
+
+XXXVI.- SECRETARIA PARTICULAR;
+
+XXXVII.- ASESORES; Y
+
+XXXVIII.- ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS.
 
 ###### ARTICULO 3.
 
 Este Código se aplicará, por igual, a todos los responsables de los delitos, sean nacionales o extranjeros, con la salvedad, por lo que hace a estos últimos, de las excepciones reconocidas en los tratados celebrados por la Federación con otras naciones y en el derecho de reciprocidad.
 
-###### ARTICULO 4.
+###### ARTÍCULO 4°.
 
-No se aplicará este Código a los menores de 16 años. Si éstos siendo mayores de 7 años, ejecutan algún hecho descrito como delito, serán puestos a disposición del Consejo Tutelar para Menores Infractores.
+LOS TITULARES DE LAS UNIDADES ADMINISTRATIVAS A QUE SE REFIERE EL ARTÍCULO ANTERIOR, CUMPLIRÁN SUS FUNCIONES Y EJERCERÁN SUS FACULTADES DE ACUERDO CON LAS DIRECTRICES Y PROGRAMAS QUE ESTABLEZCA EL EJECUTIVO DEL ESTADO POR CONDUCTO DEL SECRETARIO.
 
-###### ARTICULO 5.
+###### ARTICULO 5°.
 
-Cuando se cometa algún deltio (sic) tipificado en otra ley, se aplicará ésta, observándose las disposiciones generales de este Código.
+LA REPRESENTACIÓN, TRÁMITE Y RESOLUCIÓN DE LOS ASUNTOS DE LA SECRETARÍA, CORRESPONDEN ORIGINALMENTE AL SECRETARIO, QUIEN PODRÁ DELEGAR SUS FACULTADES EN SERVIDORES PÚBLICOS SUBALTERNOS, CON EXCEPCIÓN DE AQUÉLLAS QUE TENGAN EL CARÁCTER DE NO DELEGABLES.
 
-## TITULO SEGUNDO. DELITO Y RESPONSABILIDAD
+## TÍTULO SEGUNDO. DE LAS FACULTADES Y ORGANIZACIÓN DE LAS UNIDADES ADMINISTRATIVAS
 
-### CAPITULO I. EL DELITO Y SUS CLASES
+### CAPÍTULO ÚNICO. DE LA COMPETENCIA Y ORGANIZACIÓN DE LA SECRETARÍA
 
-###### ARTICULO 6.
+###### ARTICULO 6°.
 
-Delito es el acto u omisión que sancionan las leyes penales, pudiendo ser cometido por acción, omisión o comisión por omisión.
+SON FACULTADES NO DELEGABLES DEL SECRETARIO:
 
-El delito es:
+l.- DEFINIR, EN ACUERDO CON EL GOBERNADOR DEL ESTADO, LAS POLÍTICAS DEL ESTADO EN MATERIA DE SEGURIDAD PÚBLICA, READAPTACIÓN SOCIAL Y PROTECCIÓN CIVIL;
 
-I.- Instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos sus elementos constitutivos;
+II.- CUMPLIR Y HACER CUMPLIR LOS ACUERDOS, ÓRDENES, CIRCULARES Y DEMÁS DISPOSICIONES EMANADAS DEL GOBERNADOR DEL ESTADO, EN LA MATERIA;
 
-II.- Permanente o contínuo, cuando la consumación se prolongó de una manera ininterrumpida durante un lapso mayor o menor de tiempo; y
+III.- RESOLVER SOBRE OPERATIVOS DE APOYO Y AUXILIO QUE LE SEAN SOLICITADOS;
 
-III.- Continuado, cuando con unidad de propósito delictivo y pluralidad de conducta se viola el mismo precepto legal.
+IV.- ESTABLECER LAS COMISIONES QUE SEAN NECESARIAS PARA EL MEJOR DESPACHO DE LOS ASUNTOS DE LA SECRETARÍA; Y (SIC)
 
-###### ARTICULO 7.
+V.- LAS DEMÁS QUE CON ESE CARÁCTER LE ATRIBUYAN OTRAS DISPOSICIONES LEGALES APLICABLES Y El GOBERNADOR DEL ESTADO;
 
-Los delitos pueden ser:
+VI.- DIRECCIÓN DE COMUNICACIÓN SOCIAL
 
-I.- Dolosos;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
-II.- Culposos; y
+###### ARTÍCULO 7°.
 
-III.- Preterintencionales.
+ESTARÁN DIRECTAMENTE ADSCRITAS AL SECRETARIO DE SEGURIDAD PÚBLICA LAS SIGUIENTES UNIDADES ADMINISTRATIVAS:
 
-El delito es doloso cuando se causa un resultado querido o aceptado, o cuando el resultado es consecuencia necesaria de la acción u omisión.
+I.- DIRECCIÓN GENERAL DE ADMINISTRACIÓN; Y
 
-El delito es culposo cuando se causa el resultado por negligencia, imprevisión, imprudencia, impericia, falta de aptitud, de reflexión o de cuidado.
+II.- DIRECCIÓN DE COMUNICACIÓN SOCIAL LA CUAL SERÁ COORDINADA POR LA SECRETARÍA PARTICULAR.
 
-El delito es preterintencional cuando se cause daño que va más allá de la intención y que no ha sido previsto ni querido y siempre y cuando el medio empleado no sea el idóneo para causar el resultado.
+###### ARTÍCULO 8°.
 
-###### ARTICULO 8.
+LOS SUBSECRETARIOS TENDRÁN LAS SIGUIENTES FACULTADES GENERALES:
 
-En el caso de que, queriéndose cometer un delito se cometa otro, por error en la persona o en el resultado, se aplicará la pena correspondiente al delito cometido, valorándose además, las circunstancias subjetivas de deliberación y ejecución.
+I.- ACORDAR CON EL SECRETARIO EL DESPACHO DE LOS ASUNTOS QUE LES CORRESPONDAN O LES SEAN ENCOMENDADOS;
 
-### CAPITULO II. TENTATIVA DEL DELITO
+II.- SOMETER A LA APROBACIÓN DEL SECRETARIO LOS ESTUDIOS Y PROYECTOS QUE ELABOREN;
 
-###### ARTICULO 9.
+III.- DIRIGIR, COORDINAR, SUPERVISAR Y EVALUAR EL DESARROLLO Y CUMPLIMIENTO DE LAS FUNCIONES ENCOMENDADAS A LAS UNIDADES ADMINISTRATIVAS ADSCRITAS A LA SUBSECRETARÍA;
 
-Existe tentativa punible cuando la resolución de cometer un delito se exterioriza ejecutando la conducta que debería producirlo u omitiendo la que debería evitarlo, si aquél no se consuma por causas ajenas a la voluntad del agente.
+IV.- SUSCRIBIR LOS DOCUMENTOS RELATIVOS AL EJERCICIO DE SUS FACULTADES Y AQUELLOS QUE LE SEAN SEÑALADOS POR DELEGACIÓN O LES CORRESPONDAN POR SUPLENCIA;
 
-Para imponer la pena de la tentativa, los jueces tendrán en cuenta la temibilidad del autor y el grado a que se hubiere llegado en la ejecución del delito.
+V.- DESEMPEÑAR LAS COMISIONES QUE EL SECRETARIO LES ENCOMIENDE Y, POR ACUERDO EXPRESO, REPRESENTAR A LA SECRETARÍA CUANDO EL TITULAR LO DETERMINE;
 
-###### ARTICULO 10.
+VI.- PROPORCIONAR, PREVIO ACUERDO CON EL SECRETARIO, LA INFORMACIÓN Y COOPERACIÓN QUE LES SEA SOLICITADA POR OTRAS AUTORIDADES O PARTICULARES;
 
-Si el sujeto desiste espontáneamente de la ejecución o impide la consumación del delito, no se impondrá pena o medida de seguridad alguna por lo que a éste se refiere, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismos delitos.
+VII.- COORDINAR CON OTROS FUNCIONARIOS DE LA SECRETARÍA, LAS LABORES QUE EN CONJUNTO, LES HAYAN SIDO ENCOMENDADAS;
 
-### CAPITULO III. PERSONAS RESPONSABLES DE LOS DELITOS
+VIII.- EXPEDIR CERTIFICACIONES DE LOS DOCUMENTOS EXISTENTES EN LOS ARCHIVOS DE LA SUBSECRETARÍA A SU CARGO. CUANDO SEAN SOLICITADAS POR PARTE LEGÍTIMA, PREVIO PAGO DE LOS DERECHOS QUE PROCEDAN; Y
 
-###### ARTICULO 11.
+IX.- LAS DEMÁS QUE LE SEÑALEN LAS DISPOSICIONES LEGALES Y REGLAMENTARIAS APLICABLES, ASÍ COMO AQUÉLLAS QUE LES CONFIERA EL SECRETARIO.
 
-Son responsables de los delitos:
+### CAPÍTULO I. DEL SECRETARIO
 
-I.- Los que acuerden, preparen o realicen la ejecución del mismo;
+###### ARTÍCULO 9°.
 
-II.- Los que lo realicen por sí mismos;
+LAS SUBSECRETARÍAS DE PREVENCIÓN Y DE SEGURIDAD, TENDRÁN IGUAL JERARQUÍA Y ENTRE ELLAS NO HABRÁ PREEMINENCIA ALGUNA.
 
-III.- Los que lo lleven a cabo sirviéndose de otro;
+###### ARTÍCULO 10.
 
-IV.- Los que induzcan intencionalmente a otro a cometerlo;
+LA SUBSECRETARÍA DE PREVENCIÓN, DEBERÁ PLANEAR, APOYAR, COORDINAR Y SUPERVISAR EL TRABAJO DE LAS SIGUIENTES DIRECCIONES GENERALES:
 
-V.- Los que obliguen o coaccionen a otro, o lo induzcan al error para que lo cometa;
+I.- DIRECCIÓN GENERAL DE POLÍTICA CRIMINAL Y PREVENCIÓN DEL DELITO; Y (SIC)
 
-VI.- Los que cooperen a la ejecución del delito con actos anteriores o simultáneos;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
 
-VII.- Los que utilicen a una persona inimputable o animal para cometerlo;
+II.- DIRECCIÓN GENERAL DEL INSTITUTO PARA LA FORMACIÓN DE LOS CUERPOS DE SEGURIDAD PÚBLICA DEL ESTADO;
 
-VIII.- Los que intervengan con otros en su comisión, aunque no conste quien de ellos produjo el resultado; y
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
 
-IX.- Los que con posterioridad a su ejecución auxilien al inculpado, en cumplimiento de una promesa anterior a la comisión del delito.
+III.- DIRECCIÓN GENERAL DE VINCULACIÓN Y PARTICIPACIÓN SOCIAL; Y
 
-###### ARTICULO 12.
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
 
-Prohibiéndose las penas trascendentales, la responsabilidad penal no debe pasar de la persona o bienes del inculpado, excepto en los casos especificados por la Ley.
+IV.- DIRECCIÓN JURÍDICA. DE VISITADURÍA INTERNA Y DERECHOS HUMANOS.
 
-###### ARTICULO 13.
+### CAPÍTULO II. DE LAS FACULTADES DE LOS SUBSECRETARIOS
 
-Los instigadores serán responsables únicamente de los actos a que se extienda la instigación, pero no de los demás que ejecute el instigado, a no ser que hubiere debido preveerlos racionalmente.
+###### ARTÍCULO 11.
 
-###### ARTICULO 14.
+LA SUBSECRETARÍA DE SEGURIDAD, DEBERÁ PLANEAR, APOYAR, COORDINAR Y SUPERVISAR EL TRABAJO DE LAS SIGUIENTES DIRECCIONES GENERALES:
 
-Las circunstancias modificativas o calificativas del delito aprovechan o perjudican a todos los inculpados que tuvieren conocimiento de ellas en el momento de su intervención o debieran preveerlas racionalmente.
+I.- DIRECCIÓN GENERAL DE READAPTACIÓN SOCIAL; Y (SIC)
 
-Las circunstancias personales de alguno o algunos de los inculpados que sean modificativas o calificativas del delito, o constituyan un elemento de éste, aprovecharán o perjudicarán únicamente a aquéllos en quienes concurran.
+II.- DIRECCIÓN GENERAL DE LAS FUERZAS DE SEGURIDAD PÚBLICA;
 
-###### ARTICULO 15.
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
 
-Si varias personas convienen en ejecutar un delito determinado y alguna o algunas de ellas cometen un delito distinto, todas responderán de la comisión del nuevo delito siempre que concurran las circunstancias siguientes:
+III.- DIRECCIÓN GENERAL DEL SISTEMA DE CÓMPUTO, COMANDO, COMUNICACIONES Y CONTROL;
 
-I.- Que el nuevo delito sea una consecuencia necesaria del primeramente convenido o sirva de medio para cometerlo; y
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
 
-II.- Que el nuevo delito debiera ser previsto racionalmente por los que convinieron en ejecutar el primero.
+IV.- COORDINACIÓN EJECUTIVA DE PROTECCIÓN CIVIL; Y
 
-No responderán del nuevo delito quienes hubieran tratado de impedir su ejecución.
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
 
-### CAPITULO IV. CAUSAS EXCLUYENTES DE RESPONSABILIDAD
+V.- DIRECCIÓN DEL SISTEMA ESTATAL PARA EL TRATAMIENTO DE MENORES INFRACTORES.
 
-###### ARTICULO 16.
+###### ARTÍCULO 12.
 
-Son causas excluyentes de responsabilidad:
+AL FRENTE DE LAS DIRECCIONES GENERALES HABRÁ UN TITULAR, QUIEN PODRÁ AUXILIARSE DEL PERSONAL QUE REQUIERAN LAS NECESIDADES DEL SERVICIO Y PERMITA EL PRESUPUESTO.
 
-I.- Incurrir el Agente en actividad o inactividad involuntarias producida por una fuerza física externa irresistible;
+###### ARTÍCULO 13.
 
-II.- Obrar el inculpado en defensa de su persona, de sus bienes o de la persona o bienes de otro repeliendo una agresión ilegítima, imprevista, inevitable, violenta, actual e inminente, siempre que exista necesidad racional del medio empleado para repelerla y no haya provocación por parte del que se defiende o de aquél a quien se defendiere o que en el caso de haber habido provocación por parte del tercero la ignore el defensor.
+LOS DIRECTORES GENERALES TENDRÁN LAS SIGUIENTES FACULTADES GENERALES:
 
-Se presumirá que existe la excluyente a que se refiere el párrafo anterior respecto del daño que se cause a un intruso en el momento de verificar un escalamiento de cercados, paredes, o al fracturar las entradas de una casa, departamento habitado o sus dependencias, a quien se sorprenda dentro de la casa-habitación u hogar propio, o de sus dependencias, en circunstancias que revelen peligrosidad o la posibilidad de una agresión.
+I.- PLANEAR, PROGRAMAR, PRESUPUESTAR Y DIRIGIR LAS FUNCIONES DE LA DIRECCIÓN GENERAL A SU CARGO, CON LA PARTICIPACIÓN DE LAS UNIDADES ADMINISTRATIVAS QUE LA INTEGRAN;
 
-III.- El miedo grave o el temor fundado o irresistible de un mal inminente y grave en la persona del contraventor o la necesidad de salvar un bien jurídico, propio o ajeno, de un peligro real, grave, actual e inminente, sacrificando otro bien jurídico igual o menor siempre que dicho peligro no hubiere sido causado por el necesitado. Esta causa no beneficia a quien tenga el deber jurídico de sufrir el peligro;
+II.- FORMULAR, EJERCER. EJECUTAR, EVALUAR Y CONTROLAR LOS PROGRAMAS Y PRESUPUESTOS NECESARIOS PARA EL DESARROLLO DE LOS ASUNTOS QUE LES COMPETEN;
 
-IV.- Obrar en el cumplimiento de un deber o en el ejercicio de un derecho consignado por la Ley. Esta causa no beneficia a quien ejerza el derecho con el sólo propósito de perjudicar a otro;
+III.- ACORDAR CON SU SUPERIOR INMEDIATO EL DESPACHO DE LOS ASUNTOS QUE LES SEAN ENCOMENDADOS;
 
-V.- Obrar causando un daño por mero accidente, sin intención ni imprudencia alguna, ejecutando un hecho lícito con todas las precauciones debidas;
+IV.- SUSCRIBIR LOS DOCUMENTOS RELATIVOS AL EJERCICIO DE SUS FUNCIONES, ASÍ COMO AQUÉLLOS QUE LES CORRESPONDAN POR DELEGACIÓN O POR SUPLENCIA Y EXPEDIR CERTIFICACIONES DE LOS DOCUMENTOS EXISTENTES EN LA DIRECCIÓN GENERAL A SU CARGO, PREVIA SOLICITUD, SIEMPRE Y CUANDO RESULTE PROCEDENTE;
 
-VI.- Obrar por error substancial de hecho que no derive de culpa;
+V.- PROPONER AL SECRETARIO Y A LOS SUBSECRETARIOS LA RESOLUCIÓN DE LOS ASUNTOS CUYA TRAMITACIÓN CORRESPONDA A LA DIRECCIÓN GENERAL A SU CARGO;
 
-VII.- Obedecer a su superior legítimo en el orden jerárquico, aún cuando su mandato constituya un delito, si esta circunstancia no es notoria, ni conocida, ni previsible racionalmente;
+VI.- FORMULAR LOS DICTÁMENES, OPINIONES E INFORMES QUE LES SOLICITEN EL SECRETARIO O LOS SUBSECRETARIOS;
 
-VIII.- Omitir un hecho debido por un impedimento legítimo e insuperable; y
+VII.- COORDINAR ACCIONES CON LOS TITULARES DE OTRAS DIRECCIONES GENERALES, CUANDO ASÍ SE REQUIERA PARA EL MEJOR FUNCIONAMIENTO DE LA SECRETARIA, INFORMANDO SIEMPRE DE ELLO AL SECRETARIO Y A LOS SUBSECRETARIOS;
 
-IX.- Obrar causando daño en la práctica de un deporte permitido por el Estado, siempre que se hayan observado las disposiciones contenidas en los reglamentos del mismo.
+VIII.- PROPORCIONAR LA INFORMACIÓN Y LA COOPERACIÓN QUE LE SEA SOLICITADA POR OTRAS AUTORIDADES O POR PARTICULARES, PREVIO ACUERDO CON EL SECRETARIO Y SUBSECRETARIO DE SU ADSCRIPCIÓN;
 
-###### ARTICULO 17.
+IX.- COORDINAR ACCIONES CON LAS DISTINTAS INSTANCIAS DE GOBIERNO, CON EL OBJETO DE ESTABLECER PROGRAMAS Y ESTRATEGIAS EN RELACIÓN CON LOS ASUNTOS DE SU COMPETENCIA, CONFORME A LAS LEYES Y DEMÁS DISPOSICIONES APLICABLES;
 
-Son causa de inimputabilidad:
+X.- ASESORAR EN ASUNTOS DE SU COMPETENCIA, A LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA;
 
-I.- La alienación u otro trastorno permanente de la persona;
+XI.- PARTICIPAR EN LA SELECCIÓN DEL PERSONAL DE LA DIRECCIÓN GENERAL A SU CARGO Y EN EL OTORGAMIENTO DE LAS LICENCIAS Y PERMISOS A QUE HAYA LUGAR; Y
 
-II.- El trastorno transitorio de la personalidad producido accidental o involuntariamente; por el empleo accidental e involuntario de sustancias tóxicas, embriagantes, o de cualquier trastorno mental involuntario de carácter patológico; y
+XII.- LAS DEMÁS QUE LES CONFIERAN LAS DISPOSICIONES LEGALES O EL SUPERIOR JERÁRQUICO EN EJERCICIO DE SUS ATRIBUCIONES.
 
-III.- La sordomudez cuando el sujeto carezca totalmente de instrucción.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ENERO DE 2004)</small>
 
-En los casos de las fracciones I y II de este artículo, solamente habrá inimputabilidad cuando la alienación o el trastorno hayan privado al sujeto del dominio necesario sobre su conducta para mantenerla dentro de las normas legales que castiguen la acción u omisión realizada.
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE VINCULACIÓN Y PARTICIPACIÓN SOCIAL
 
-###### ARTICULO 18.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
-Las causas excluyentes de responsabilidad e inimputabilidad se harán valer de oficio.
+###### ARTÍCULO 14.
 
-### CAPITULO V. CONCURSO DE DELITOS
+LA DIRECCIÓN GENERAL DE VINCULACIÓN Y PARTICIPACIÓN SOCIAL, DEBERÁ APOYAR, COORDINAR Y SUPERVISAR EL TRABAJO DE LA DIRECCIÓN DE COORDINACIÓN Y SEGUIMIENTO.
 
-###### ARTICULO 19.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2004)</small>
 
-Existe concurso de delitos siempre que alguien es juzgado en el mismo proceso por varios delitos ejecutados en actos distintos, si no se ha pronunciado antes sentencia ejecutoria y la acción penal no ha prescrito, o cuando con una sola acción, omisión o comisión, ya sea dolosa, culposa o preterintencional, se violen varias disposiciones penales compatibles entre sí.
+###### ARTÍCULO 15.
 
-###### ARTICULO 20.
+LA DIRECCIÓN GENERAL DE VINCULACIÓN Y PARTICIPACIÓN SOCIAL, TENDRÁ LAS SIGUIENTES FACULTADES:
 
-No hay concurso cuando se trate de un delito continuado o permanente.
+I.- LLEVAR A CABO LAS RELACIONES DE LA SECRETARÍA CON ENTIDADES Y ORGANISMOS PÚBLICOS O PRIVADOS;
 
-###### ARTICULO 21.
+II.- PROMOVER UNA CULTURA DE PARTICIPACIÓN CIUDADANA EN LA SEGURIDAD PÚBLICA;
 
-Tampoco existe concurso de delitos:
+III.- SERVIR DE ENLACE ENTRE LA SECRETARÍA Y LOS COMITÉS MUNICIPALES DE SEGURIDAD;
 
-I.- Si las disposiciones legales violadas por el inculpado son incompatibles entre sí. En este caso se aplicará la disposición que señale pena más grave;
+IV.- ORGANIZAR Y COORDINAR LAS REUNIONES DEL CONSEJO ESTATAL DE SEGURIDAD; ASÍ COMO DAR SEGUIMIENTO A LOS ACUERDOS DEL MISMO;
 
-II.- Si uno o varios delitos constituyen un grado o grados de otro, o medio de ejecución. En este caso se aplicará la disposición que castigue este último; y
+V.- ESTABLECER VÍNCULOS DE COLABORACIÓN CON INSTANCIAS ESPECIALIZADAS EN SEGURIDAD PÚBLICA;
 
-III.- Si un delito constituye un elemento de otro o una circunstancia agravante de su penalidad. En este caso se aplicará la disposición que castigue este delito.
+VI.- PROMOVER LA INTEGRACIÓN DE INSTANCIAS QUE COADYUVEN A LAS FUNCIONES DE LA SECRETARIA;
 
-### CAPITULO VI. REINCIDENCIA Y HABITUALIDAD
+VII.- DAR SEGUIMIENTO A LA APLICACIÓN DE LAS POLÍTICAS, PROGRAMAS Y ACCIONES EN MATERIA DE PARTICIPACIÓN CIUDADANA;
 
-###### ARTICULO 22.
+VIII.- IMPLEMENTAR PROGRAMAS DE SEGUIMIENTO A LOS OBJETIVOS DE LA SEGURIDAD PÚBLICA EN EL ESTADO;
 
-La comisión de un delito por quien hubiere sido condenado por sentencia ejecutoria anterior, implica reincidencia siempre y cuando el nuevo delito se cometa antes de que transcurra un término igual al de la prescripción de la pena fijada, contando a partir de la fecha en que la pena se haya dado por cumplida. Esa sentencia se tomará en cuenta aún cuando haya sido pronunciada fuera del Estado, siempre que el delito que la motive tenga el mismo carácter en su territorio.
+IX.- COLABORAR CON LOS MUNICIPIOS EN LA CONSTITUCIÓN, ASESORAMIENTO Y CONTROL DE LOS COMITÉS MUNICIPALES DE SEGURIDAD;
 
-###### ARTICULO 23.
+X.- DIFUNDIR LOS SERVICIOS QUE PRESTA LA SECRETARÍA EN MATERIA DE SEGURIDAD PÚBLICA; Y
 
-Será considerado delincuente habitual el reincidente que cometa un nuevo delito, siempre que las tres infracciones se hayan cometido en un período que no exceda de diez años.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
 
-###### ARTICULO 24.
+XI.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES APLICABLES, EL SECRETARIO O EL SUBSECRETARIO DE PREVENCIÓN EN EJERCICIO DE SUS ATRIBUCIONES.
 
-Las disposiciones del presente Capítulo serán aplicables aún en el caso de tentativa, pero no a los delitos contra el Estado cualquiera que sea el grado de su ejecución.
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DEL INSTITUTO PARA LA FORMACIÓN DE LOS CUERPOS DE SEGURIDAD PÚBLICA DEL ESTADO
 
-## TITULO TERCERO. PENAS Y MEDIDAS DE SEGURIDAD
+### CAPÍTULO III. DE LAS FACULTADES Y ORGANIZACIÓN DE LAS DIRECCIONES GENERALES Y COORDINACIONES
 
-### CAPITULO I. REGLAS GENERALES
+###### ARTÍCULO 16.
 
-###### ARTICULO 25.
+LA DIRECCIÓN GENERAL DEL INSTITUTO PARA LA FORMACIÓN DE LOS CUERPOS DE SEGURIDAD PÚBLICA DEL ESTADO DEBERÁ APOYAR, COORDINAR Y SUPERVISAR EL TRABAJO DE LA DIRECCIÓN DE FORMACIÓN PROFESIONAL.
 
-Las penas son:
+###### ARTÍCULO 17.
 
-I.- Prisión;
+LA DIRECCIÓN GENERAL DEL INSTITUTO PARA LA FORMACIÓN DE LOS CUERPOS DE SEGURIDAD PÚBLICA DEL ESTADO, TENDRÁ LAS SIGUIENTES FACULTADES:
 
-II.- Tratamiento en libertad;
+I.- REPRESENTAR AL INSTITUTO PARA LA FORMACIÓN DE LOS CUERPOS DE SEGURIDAD PÚBLICA ANTE ORGANISMOS NACIONALES E INTERNACIONALES EN MATERIA DE PROFESIONALIZACIÓN Y CAPACITACIÓN POLICIAL;
 
-III.- Semi-libertad;
+II.- PROPONER Y FORMULAR LOS PLANES Y PROGRAMAS DE CAPACITACIÓN Y PROFESIONALIZACIÓN PARA LOS CUERPOS DE SEGURIDAD PÚBLICA DEL ESTADO Y DEMÁS PERSONAL QUE INTEGRA LA SECRETARÍA;
 
-IV.- Multa;
+III.- EVALUAR Y ESTANDARIZAR LOS PLANES, PROGRAMAS Y DEMÁS PROPUESTAS ACADÉMICAS;
 
-V.- Reparación de daños y perjuicios;
+IV.- INSTRUMENTAR LA EVALUACIÓN Y CERTIFICACIÓN A LOS CUERPOS DE SEGURIDAD PÚBLICA DEL ESTADO;
 
-VI.- Trabajos en favor de la comunidad;
+V.- COORDINAR, CON LAS AUTORIDADES CORRESPONDIENTES, LAS CERTIFICACIONES DE COMPETENCIA LABORAL Y OCUPACIONAL;
 
-VII.- Publicación de sentencia condenatoria;
+VI.- PROPONER LA PLANTILLA DE DOCENTES E INSTRUCTORES, PARA LA FORMULACIÓN Y DESARROLLO DE LOS PLANES Y PROGRAMAS EDUCATIVOS;
 
-VIII.- Destitución; y
+VII.- BUSCAR LA MEJORA CONTINÚA Y EL FORTALECIMIENTO DEL NIVEL ACADÉMICO DEL INSTITUTO;
 
-IX.- Las demás que prevengan las leyes.
+VIII.- PROCURAR Y PROMOVER EL INTERCAMBIO ACADÉMICO CON OTRAS INSTITUCIONES; Y
 
-###### ARTICULO 26.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
 
-Son medidas de seguridad:
+IX.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES APLICABLES, EL SECRETARIO O EL SUBSECRETARIO DE PREVENCIÓN EN EJERCICIO DE SUS ATRIBUCIONES.
 
-I.- Vigilancia de la autoridad;
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN
 
-II.- Suspensión, privación e inhabilitación de derechos y funciones;
+###### ARTÍCULO 18.
 
-III.- Confinamiento;
+LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN DEBERÁ APOYAR, COORDINAR, Y SUPERVISAR EL TRABAJO DE LAS SIGUIENTES DIRECCIONES DE ÁREA:
 
-IV.- Prohibición de ir a una circunscripción territorial determinada o de residir en ella;
+I.- DIRECCIÓN DE PRESUPUESTO;
 
-V.- Decomiso, destrucción y aplicación de los instrumentos y objetos relacionados con el delito;
+II.- DIRECCIÓN DE PERSONAL;
 
-VI.- Tratamiento de inimputables permanentes y de quienes tengan el hábito de consumir estupefacientes, psicotrópicos, bebidas embriagantes o cualquiera otra substancia tóxica;
+III.- DIRECCIÓN DE SERVICIOS GENERALES Y ADQUISICIONES;
 
-VII.- Intervención, remoción, prohibición de realizar determinadas operaciones y extinción de las personas jurídicas colectivas;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
 
-VIII.- Amonestación;
+IV.- DIRECCIÓN DE PLANEACIÓN ESTRATÉGICA Y DESARROLLO INSTITUCIONAL;
 
-IX.- Caución de no ofender.
+V.- DIRECCIÓN DE INFORMÁTICA;
 
-###### ARTICULO 27.
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
 
-Las penas y medidas de seguridad se entienden impuestas en los términos y con las modalidades señaladas por este Código y por la Ley de Ejecución de Penas Privativas y Restrictivas de Libertad, y serán ejecutadas por las autoridades competentes con los propósitos previstos por el Artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, ajustándose a la resolución judicial respectiva.
+VI.- Dirección DE CONTROL INTERNO ADMINISTRATIVO; Y
 
-SUBTITULO PRIMERO
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
 
-DE LAS PENAS
+VII.- Dirección DE SEGUIMIENTO DEL FONDO DE SEGURIDAD DEL ESTADO DE GUANAJUATO.
 
-### CAPITULO II. PRISION
+### CAPÍTULO IV. DE LAS FACULTADES DE LAS DIRECCIONES DE ÁREA
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+###### ARTÍCULO 19.
 
-###### ARTICULO 28.
+LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN, TENDRÁ LAS SIGUIENTES FACULTADES:
 
-La prisión consiste en la privación de la libertad personal, su duración será de tres días a cincuenta años y se extinguirá en los establecimientos que señale el Organo de Ejecución de Sanciones.
+I.- ATENDER OPORTUNA, EFICAZ. EFICIENTE Y EXPEDITAMENTE LAS NECESIDADES ADMINISTRATIVAS DE LAS UNIDADES DE LA SECRETARÍA, DE ACUERDO CON LOS LINEAMIENTOS GENERALES FIJADOS POR EL TITULAR;
 
-### CAPITULO III. TRATAMIENTO EN LIBERTAD
+II.- ESTABLECER EN ACUERDO CON EL SECRETARIO, LAS POLÍTICAS, NORMAS, CRITERIOS, SISTEMAS Y PROCEDIMIENTOS PARA LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS, FINANCIEROS Y MATERIALES DE LA SECRETARÍA;
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+III.- DIFUNDIR Y VIGILAR EL CUMPLIMIENTO DE LAS NORMAS APLICABLES AL PROCESO INTERNO DE FORMULACIÓN, EJECUCIÓN, EVALUACIÓN Y CONTROL DE LOS PROGRAMAS Y PRESUPUESTOS DE LA SECRETARÍA;
+
+IV.- COORDINAR LA FORMULACIÓN DEL PROGRAMA ANUAL Y DEL PROYECTO DE PRESUPUESTO DE EGRESOS DE LA SECRETARÍA, POR CONDUCTO DE LOS SUBSECRETARIOS, Y VIGILAR SU CUMPLIMIENTO;
+
+V.- PRESENTAR AL SUBSECRETARIO DEL RAMO Y DIRECTORES GENERALES, LA DOCUMENTACIÓN QUE CORRESPONDA A LAS EROGACIONES DE SUS ÁREAS DE COMPETENCIA;
+
+VI.- AUTORIZAR LA DOCUMENTACIÓN NECESARIA PARA EL EJERCICIO DEL PRESUPUESTO;
+
+VII.- FORMULAR, PROMOVER E INSTRUMENTAR PROGRAMAS DE MODERNIZACIÓN ADMINISTRATIVA DE LA SECRETARÍA, Y PROPONER A LOS SUBSECRETARIOS Y DIRECTORES GENERALES, LAS MEDIDAS TÉCNICAS Y ADMINISTRATIVAS PARA LA MEJOR ORGANIZACIÓN Y FUNCIONAMIENTO DE LA DEPENDENCIA;
+
+VIII.- PARTICIPAR EN LA REVISIÓN DE LAS CONDICIONES GENERALES DE TRABAJO, DIFUNDIRLAS Y VIGILAR SU CUMPLIMIENTO;
+
+IX.- GESTIONAR CONVENIOS MERCANTILES CON CASAS COMERCIALES E INSTITUCIONES PÚBLICAS Y PRIVADAS, EN BENEFICIO DE LOS TRABAJADORES DE LA INSTITUCIÓN;
+
+X.- PREVENIR E INFORMAR OPORTUNAMENTE AL SECRETARIO. SOBRE PROBLEMAS Y DEMANDAS LABORALES INTERPUESTAS CONTRA LA DEPENDENCIA;
+
+XI.- PROPONER MODIFICACIONES A LA ESTRUCTURA ORGÁNICA DE LA DEPENDENCIA, SEGÚN LAS NECESIDADES DE LA MISMA;
+
+XII.- VERIFICAR QUE LA ESTRUCTURA ORGANIZACIONAL CORRESPONDA A LOS CRITERIOS DE EFICIENCIA DEL SERVICIO;
+
+XIII.- IMPLEMENTAR LOS PLANES, PROGRAMAS Y ESTRATEGIAS NECESARIAS EN MATERIA DE DESARROLLO ORGANIZACIONAL Y CALIDAD TOTAL QUE LLEVEN A LOGRAR EL MEJORAMIENTO CONTINÚO DE LAS DIFERENTES UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
+
+XIV.- ESTABLECER Y APLICAR LOS PROCEDIMIENTOS, POLÍTICAS, NORMAS, CRITERIOS Y SISTEMAS VIGENTES DEL GOBIERNO DEL ESTADO, PARA LA ADMINISTRACIÓN DEL PERSONAL ADSCRITO A LA SECRETARIA, ASÍ COMO PROMOVER EL DESARROLLO DE TRABAJO EN EQUIPO;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
+
+XV.- APLICAR LAS POLÍTICAS. NORMAS, CRITERIOS, SISTEMAS Y PROCEDIMIENTOS VIGENTES DEL GOBIERNO DEL ESTADO, PARA LA ADMINISTRACIÓN DE LOS SERVICIOS GENERALES Y ADQUISICIONES DE LA SECRETARIA;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
+
+XVI.- ESTABLECER LAS CONDICIONES NECESARIAS PARA TENER UN SISTEMA DE INFORMACIÓN MODERNO Y CONFIABLE CON PROGRAMAS EN MATERIA DE INFORMÁTICA;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
+
+XVII.- ESTABLECER Y APLICAR LAS POLÍTICAS, NORMAS, CRITERIOS, SISTEMAS, Y PROCEDIMIENTOS DE CONTRALORÍA INTERNA, PARA REVISAR, ANALIZAR Y CORREGIR LAS OPERACIONES CONTABLES ADMINISTRATIVAS, REALIZADAS POR LAS UNIDADES ADMINISTRATIVAS ADSCRITAS A LA SECRETARIA DE SEGURIDAD PÚBLICA DEL ESTADO, DE ACUERDO CON LA NORMATIVIDAD EXISTENTE;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
+
+XVIII.- COORDINAR, SUPERVISAR Y ATENDER LOS ASUNTOS RELACIONADOS CON LOS PROCESOS Y ACTIVIDADES REALIZADAS POR LA DIRECCIÓN ENCARGADA DEL SEGUIMIENTO Y EVALUACIÓN DE LOS RECURSOS PROVENIENTES DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; Y
+
+XIX.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES O EL SECRETARIO EN EJERCICIO DE SUS ATRIBUCIONES.
+
+#### SECCIÓN CUARTA. DE LA COORDINACIÓN EJECUTIVA DE PROTECCIÓN CIVIL
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2004)</small>
+
+###### ARTÍCULO 20.
+
+LA COORDINACIÓN EJECUTIVA DE PROTECCIÓN CIVIL DEBERÁ APOYAR, COORDINAR, Y SUPERVISAR EL TRABAJO DE LAS SIGUIENTES DIRECCIONES DE ÁREA:
+
+I.- DIRECCIÓN TÉCNICA DE PROTECCIÓN CIVIL; Y
+
+II.- DIRECCIÓN OPERATIVA DE PROTECCIÓN CIVIL.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTICULO 20], P.O. 2 DE ENERO DE 2004)</small>
+
+###### ARTÍCULO 20.
+
+LA COORDINACIÓN EJECUTIVA DE PROTECCIÓN CIVIL, TENDRÁ LAS SIGUIENTES FACULTADES:
+
+I.-PROPONER PROGRAMAS, ACCIONES Y ESTRATEGIAS EN MATERIA DE PROTECCIÓN CIVIL;
+
+II.- EJECUTAR LOS PROGRAMAS QUE APRUEBE EL CONSEJO ESTATAL DE PROTECCIÓN CIVIL;
+
+III.- ORGANIZAR. SUPERVISAR Y DIRIGIR LOS PROYECTOS DE PROTECCIÓN CIVIL;
+
+IV.- APOYAR A LAS INSTITUCIONES PÚBLICAS O PRIVADAS EN LA ELABORACIÓN Y EJECUCIÓN DE PROYECTOS DE PROTECCIÓN CIVIL;
+
+V.- PROMOVER, SUPERVISAR Y REALIZAR PROGRAMAS PERMANENTES DE CAPACITACIÓN EN MATERIA DE PROTECCIÓN CIVIL;
+
+VI.- ESTABLECER Y MANTENER LAS ACCIONES DE COORDINACIÓN CON INSTANCIAS GUBERNAMENTALES, ASÍ COMO CON PARTICULARES, PARA DIRIGIR LAS ACCIONES DE PREVENCIÓN, AUXILIO Y RECUPERACIÓN ANTE CUALQUIER CONTINGENCIA MAYOR;
+
+VII.- PROPONER LA CELEBRACIÓN DE CONVENIOS CON LAS AUTORIDADES FEDERALES MUNICIPALES Y DE OTRAS ENTIDADES FEDERATIVAS, PARA LA ADQUISICIÓN Y DOTACIÓN DE EQUIPOS DE RESCATE Y DE EMERGENCIA PARA LOS DIVERSOS CUERPOS DE AUXILIO CIVIL;
+
+VIII.- PROPONER LA CELEBRACIÓN DE CONVENIOS CON LAS AUTORIDADES FEDERALES, DE OTROS ESTADOS, DE LOS MUNICIPIOS Y DE LA INICIATIVA PRIVADA, PARA LA CAPACITACIÓN, EQUIPAMIENTO Y PREPARACIÓN DE LOS DIVERSOS GRUPOS DE APOYO QUE OPEREN EN EL ESTADO;
+
+IX.- PROMOVER LA CELEBRACIÓN DE CONVENIOS CON LOS DIFERENTES GRUPOS DE APOYO, PARA GARANTIZAR LA ADECUADA COORDINACIÓN EN LA ATENCIÓN DE DIFERENTES CONTINGENCIAS QUE SE PRESENTEN EN EL ESTADO; Y
+
+X.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES APLICABLES O EL SECRETARIO EN EJERCICIO DE SUS ATRIBUCIONES.
+
+#### SECCIÓN QUINTA. DE LA DIRECCIÓN GENERAL DE POLÍTICA CRIMINAL Y PREVENCIÓN DEL DELITO
+
+###### ARTÍCULO 21.
+
+LA DIRECCIÓN GENERAL DE POLÍTICA CRIMINAL Y PREVENCIÓN DEL DELITO DEBERÁ APOYAR, COORDINAR, Y SUPERVISAR EL TRABAJO DE LAS SIGUIENTES DIRECCIONES DE ÁREA:
+
+I.- DIRECCIÓN DE PLANEACIÓN Y ESTADÍSTICA CRIMINOLÓGICA;
+
+II.- DIRECCIÓN DE POLÍTICA CRIMINAL; Y
+
+III.- DIRECCIÓN DE PREVENCIÓN DEL DELITO.
+
+### CAPÍTULO V. DE LA SECRETARÍA PARTICULAR
+
+###### ARTÍCULO 22.
+
+LA DIRECCIÓN GENERAL DE POLÍTICA CRIMINAL Y PREVENCIÓN DEL DELITO, TENDRÁ LAS SIGUIENTES FACULTADES:
+
+I.- RECOPILAR INFORMACIÓN EN MATERIA DE SEGURIDAD, GENERADA EN EL ESTADO Y EN COORDINACIÓN CON LOS MUNICIPIOS;
+
+II.- INTEGRAR, ANALIZAR, DISCRIMINAR Y CLASIFICAR INFORMACIÓN EN MATERIA DE SEGURIDAD PÚBLICA Y EMERGENCIAS, QUE GENERE EL CENTRO DE CÓMPUTO, COMANDO, COMUNICACIONES Y CONTROL;
+
+III.- APOYAR A LOS MUNICIPIOS EN MATERIA DE INFORMACIÓN SOBRE SEGURIDAD PÚBLICA;
+
+IV.- PROPORCIONAR INFORMACIÓN A ENTIDADES PÚBLICAS EN MATERIA DE SEGURIDAD PÚBLICA Y PREVENCIÓN DEL DELITO;
+
+V.- ANALIZARLOS DATOS GENERADOS POR EL PROGRAMA DE REGISTRO Y CONTROL DE DETENIDOS;
+
+VI.- ORIENTAR LA POLÍTICA CRIMINOLÓGICA DEL ESTADO;
+
+VII.- DISEÑAR Y COORDINAR PROGRAMAS DE PREVENCIÓN DEL DELITO;
+
+VIII.- PROCESAR LA INFORMACIÓN PARA LA INSTRUMENTACIÓN METODOLÓGICA DE LOS PLANES DE SEGURIDAD PÚBLICA;
+
+IX- DIRIGIR EL REGISTRO ESTATAL DE POLICÍA;
+
+X.- ESTABLECER SISTEMAS ESTADÍSTICOS Y DE INFORMACIÓN EN MATERIA DE SEGURIDAD PÚBLICA;
+
+XI.- IMPULSAR Y APOYAR LOS PROGRAMAS DE SEGURIDAD PÚBLICA DE LOS MUNICIPIOS; Y
+
+XII.- LAS DEMÁS QUE LE SEÑALEN LAS DISPOSICIONES LEGALES APLICABLES O EL SUBSECRETARIO DE PREVENCIÓN EN EJERCICIO DE SUS ATRIBUCIONES.
+
+#### SECCIÓN SEXTA. DE LA DIRECCIÓN GENERAL DEL SISTEMA DE CÓMPUTO, COMANDO, COMUNICACIONES Y CONTROL
+
+###### ARTÍCULO 23.
+
+LA DIRECCIÓN GENERAL DEL SISTEMA DE CÓMPUTO, COMANDO, COMUNICACIONES Y CONTROL DEBERÁ APOYAR, COORDINAR Y SUPERVISAR EL TRABAJO DE LA DIRECCIÓN TÉCNICA DE INFRAESTRUCTURA Y SERVICIOS DE RADIO Y TELECOMUNICACIONES.
+
+###### ARTÍCULO 24.
+
+LA DIRECCIÓN GENERAL DEL SISTEMA DE CÓMPUTO, COMANDO, COMUNICACIONES Y CONTROL TENDRÁ LAS SIGUIENTES FACULTADES:
+
+l.- DIRIGIR EL CENTRO DE CÓMPUTO, COMANDO, COMUNICACIONES Y CONTROL;
+
+II.- COORDINAR LOS SISTEMAS DE REDES Y EMERGENCIAS DEL ESTADO;
+
+III.- FACILITAR Y APOYAR LA COORDINACIÓN ENTRE LAS CORPORACIONES DE AUXILIO Y SEGURIDAD, SEAN PÚBLICAS O PRIVADAS, QUE PARTICIPEN EN OPERATIVOS DE EMERGENCIA;
+
+IV.- DIRIGIR LA RECOPILACIÓN, CLASIFICACIÓN Y REGISTRO DE INFORMACIÓN EN MATERIA DE SEGURIDAD PÚBLICA Y EMERGENCIAS;
+
+V.- SUPERVISAR EL BUEN ESTADO LAS INSTALACIONES Y EQUIPO DE RADIOCOMUNICACIONES Y TELECOMUNICACIONES;
+
+VI.- APOYAR CON SERVICIOS DE INFRAESTRUCTURA DE TELECOMUNICACIONES A LAS AUTORIDADES ENCARGADAS DE LA SEGURIDAD PÚBLICA;
+
+VII.- INTEGRAR EN EL SISTEMA DE TELECOMUNICACIONES A ENTIDADES FEDERALES. ESTATALES Y MUNICIPALES;
+
+VIII.- ADMINISTRAR LOS SERVICIOS DE TELECOMUNICACIONES;
+
+IX.- PLANEAR, PROGRAMAR Y COORDINAR EL SISTEMA DE RADIOCOMUNICACIONES;
+
+X.- CONTROLAR LOS BIENES Y EQUIPOS DE INFRAESTRUCTURA NECESARIOS PARA LA RADIOCOMUNICACIÓN;
+
+XI.- PROPONER AL DIRECTOR GENERAL DEL INSTITUTO PARA LA FORMACIÓN DE LOS CUERPOS DE SEGURIDAD PÚBLICA DEL ESTADO, CURSOS DE ACTUALIZACIÓN Y CAPACITACIÓN PARA LOS OPERADORES DE LOS SERVICIOS DE RADIO Y TELEFONÍA; Y
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+XII.- LAS DEMÁS QUE LAS DISPOSICIONES LEGALES APLICABLES LE CONFIERAN, EL SECRETARIO O EL SUBSECRETARIO DE SEGURIDAD EN EJERCICIO DE SUS ATRIBUCIONES.
+
+#### SECCIÓN SÉPTIMA. DE LA DIRECCIÓN GENERAL DE EJECUCIÓN PENITENCIARIA Y READAPTACIÓN SOCIAL
+
+## TITULO TERCERO. DE LAS SUPLENCIAS Y RELACIONES LABORALES
+
+### CAPÍTULO VI. DE LOS ASESORES
+
+###### ARTÍCULO 25.
+
+LA DIRECCIÓN GENERAL DE EJECUCIÓN PENITENCIARIA Y READAPTACIÓN SOCIAL DEBERÁ APOYAR, COORDINAR Y SUPERVISAR LAS SIGUIENTES DIRECCIONES DE ÁREA:
+
+I.- DIRECCIÓN DE COORDINACIÓN Y CONTROL DE LOS CENTROS DE READAPTACIÓN SOCIAL;
+
+II.- DIRECCIONES DE LOS CENTROS ESTATALES DE READAPTACIÓN SOCIAL; Y
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+III.- DIRECCIÓN DEL SEGUIMIENTO A LIBERADOS.
+
+###### ARTÍCULO 26.
+
+LA DIRECCIÓN GENERAL DE EJECUCIÓN PENITENCIARIA Y READAPTACIÓN SOCIAL, TENDRÁ LAS SIGUIENTES FACULTADES:
+
+I.- EJECUTAR SANCIONES PRIVATIVAS DE LA LIBERTAD EN EL ESTADO EN LOS CASOS DE INTERNOS DEL FUERO COMÚN, ASÍ COMO AQUELLAS ATRIBUCIONES QUE SE ESTABLEZCAN EN LOS CONVENIOS QUE SE CELEBREN ENTRE EL ESTADO Y LA FEDERACIÓN, Y ENTRE EL ESTADO Y OTRAS ENTIDADES FEDERATIVAS;
+
+II.- TURNAR A LA AUTORIDAD COMPETENTE LAS SOLICITUDES DE TRASLADOS NACIONALES E INTERNACIONALES DE INTERNOS, DE CONFORMIDAD CON LAS DISPOSICIONES LEGALES APLICABLES;
+
+III.- VIGILAR Y SUPERVISAR EL CUMPLIMIENTO DEL MARCO JURÍDICO EN MATERIA DE EJECUCIÓN DE SANCIONES PRIVATIVAS DE LA LIBERTAD, EN LOS CENTROS ESTATALES Y MUNICIPALES DE READAPTACIÓN SOCIAL;
+
+IV.- (DEROGADA, P.O. 2 DE ENERO DE 2004)
+
+V.- PARTICIPAR EN LA ELABORACIÓN Y CUMPLIMIENTO DE LOS CONVENIOS DE COORDINACIÓN QUE SE CELEBREN CON EL GOBIERNO FEDERAL RELATIVOS A LA MATERIA;
+
+VI.- FORMULAR Y EVALUAR LOS PROGRAMAS TENDIENTES A LA READAPTACIÓN SOCIAL DE LAS PERSONAS SUJETAS A UNA PENA DE PRISIÓN EN LOS CENTROS DE READAPTACIÓN SOCIAL ESTATALES Y MUNICIPALES, ASÍ COMO COORDINAR Y VIGILAR SU CUMPLIMIENTO;
+
+VII.- LLEVAR EL REGISTRO DE LOS BENEFICIOS CONCEDIDOS A LOS SENTENCIADOS CONFORME A LA LEY RESPECTIVA;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+VIII.- OPERAR Y MANTENER ACTUALIZADOS LOS ARCHIVOS GENERALES DE PROCESADOS Y SENTENCIADOS DEL SISTEMA PENITENCIARIO ESTATAL;
+
+IX.- ORIENTAR TÉCNICAMENTE Y APROBAR LOS PROYECTOS PARA LA CONSTRUCCIÓN Y REMODELACIÓN DE LOS CENTROS DE READAPTACIÓN SOCIAL;
+
+X.- PARTICIPAR EN EL ESTABLECIMIENTO DE LOS CRITERIOS DE SELECCIÓN, FORMACIÓN, CAPACITACIÓN, EVALUACIÓN Y PROMOCIÓN DEL PERSONAL;
+
+XI.- ACORDAR CON EL SUBSECRETARIO DE SEGURIDAD, EL TRASLADO DE LOS INTERNOS A LOS DIFERENTES CENTROS DE READAPTACIÓN SOCIAL DEL ESTADO;
+
+XII.- ACORDAR CON LOS DIRECTORES DE LOS CENTROS DE READAPTACIÓN SOCIAL LA PRÁCTICA DE INSPECCIONES Y REVISIONES CUANDO FUERE NECESARIO;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+XIII.- ELABORAR LOS PROGRAMAS DE SEGUIMIENTO A LIBERADOS Y SUPERVISAR EL APOYO A LOS PATRONATOS PARA LA REINCORPORACIÓN SOCIAL POR EL EMPLEO;
+
+XIV.- TRAMITAR ANTE EL SECRETARIO LOS BENEFICIOS DE LIBERTAD; Y
+
+XV.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES APLICABLES O SUBSECRETARIO DE SEGURIDAD EN EJERCICIO DE SUS ATRIBUCIONES.
+
+#### SECCIÓN OCTAVA. DE LA DIRECCIÓN GENERAL DE LAS FUERZAS DE SEGURIDAD PÚBLICA
+
+###### ARTÍCULO 27.
+
+LA DIRECCIÓN GENERAL DE LAS FUERZAS DE SEGURIDAD PÚBLICA, DEBERÁ APOYAR, COORDINAR Y SUPERVISAR EL TRABAJO DE LAS SIGUIENTES DIRECCIONES DE ÁREA:
+
+I.- DIRECCIÓN DE SEGURIDAD PÚBLICA;
+
+II.- DIRECCIÓN DE POLICÍA ESTATAL DE CAMINOS; Y
+
+III.- DIRECCIÓN DE POLICÍA GANADERA.
+
+### CAPÍTULO VII. DE LOS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
+
+###### ARTÍCULO 28.
+
+LA DIRECCIÓN GENERAL DE LAS FUERZAS DE SEGURIDAD PÚBLICA, TENDRÁ LAS SIGUIENTES FACULTADES:
+
+I.- ORGANIZAR LA OPERATIVIDAD DE LA SEGURIDAD PÚBLICA EN EL ESTADO Y SUS MUNICIPIOS;
+
+II.- CONTROLAR EL ARMAMENTO Y SU ADQUISICIÓN EN COORDINACIÓN CON LA SECRETARÍA DE LA DEFENSA NACIONAL PARA LOS CUERPOS DE SEGURIDAD PÚBLICA AGRUPADOS EN LA LICENCIA OFICIAL COLECTIVA CORRESPONDIENTE, CON FUNDAMENTO EN LO ESTABLECIDO EN LA LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS Y SU REGLAMENTO; ASÍ COMO, EN CASO DE PÉRDIDA, ROBO O EXTRAVÍO POR NEGLIGENCIA. INTERPONER LAS DENUNCIAS CORRESPONDIENTES Y EXIGIR EN SU CASO, LA REPARACIÓN DEL DAÑO A LOS MUNICIPIOS Y DIRECCIONES DE SEGURIDAD PÚBLICA QUE LO TENGAN BAJO SU RESGUARDO Y RESPONSABILIDAD;
+
+III.- EJERCER EL MANDO DE LAS FUERZAS DE SEGURIDAD PÚBLICA EN EL ESTADO, PARA CONSERVAR EL ORDEN, LA TRANQUILIDAD Y LA DEFENSA DE LAS INSTITUCIONES, DE CONFORMIDAD CON LAS DISPOSICIONES LEGALES APLICABLES;
+
+IV.- PARTICIPAR EN LA ELABORACIÓN DE ESTUDIOS Y PROGRAMAS PARA LA SEGURIDAD PÚBLICA DE LA POBLACIÓN, ASÍ COMO PARA LA PREVENCIÓN DE LOS DELITOS;
+
+V.- ELABORAR EL CENSO DE LAS AUTORIDADES POLICÍACAS DEL ESTADO Y DE LOS MUNICIPIOS;
+
+VI.- CONTROLAR, CON BASE EN LA LICENCIA COLECTIVA RESPECTIVA, LA PORTACIÓN DE ARMAS PARA SERVIDORES PÚBLICOS EN LA ENTIDAD, DE ACUERDO A LOS CONVENIOS CELEBRADOS CON LAS DEPENDENCIAS FEDERALES Y DE CONFORMIDAD CON LA LEGISLACIÓN DE LA MATERIA;
+
+VII.- PROPONER LA CELEBRACIÓN DE CONVENIOS Y ACUERDOS DE COLABORACIÓN EN MATERIA DE SEGURIDAD PÚBLICA CON LAS AUTORIDADES DE LA FEDERACIÓN Y DE LOS MUNICIPIOS;
+
+VIII.- PARTICIPAR EN LA ORIENTACIÓN AL PÚBLICO SOBRE LA PREVENCIÓN DE DELITOS;
+
+IX.- VIGILAR EL ESTABLECIMIENTO Y FUNCIONAMIENTO DE LOS PRESTADORES DE SERVICIOS DE SEGURIDAD PRIVADA QUE OPEREN EN EL ESTADO;
+
+X.- SOMETER A LA CONSIDERACIÓN DEL SECRETARIO, LOS EXPEDIENTES DE SOLICITUD DE AUTORIZACIÓN PARA EL ESTABLECIMIENTO Y FUNCIONAMIENTO DE EMPRESAS DE SEGURIDAD PRIVADA;
+
+XI.- SUPERVISAR PERIÓDICAMENTE EL FUNCIONAMIENTO Y OPERACIÓN DE LAS PERSONAS FÍSICAS Y MORALES QUE PRESTEN LOS SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO Y SUS MUNICIPIOS;
+
+XII.- LLEVAR EL PADRÓN DE ARMAMENTO Y EQUIPO EMPLEADO POR LOS CUERPOS DE SEGURIDAD PÚBLICA Y LOS PRIVADOS EN LA ENTIDAD;
+
+XIII.- PARTICIPAR EN LA ELABORACIÓN DE POLÍTICAS Y PROGRAMAS PARA LA CAPACITACIÓN Y ESPECIALIZACIÓN POLICIAL, EN COORDINACIÓN CON EL INSTITUTO PARA LA FORMACIÓN DE LOS CUERPOS DE SEGURIDAD PÚBLICA DEL ESTADO;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2002)</small>
+
+XIV.- EJERCER LA VIGILANCIA EN LAS VÍAS DE COMUNICACIÓN DE LA ENTIDAD, CALIFICANDO ADEMÁS LAS INFRACCIONES QUE COMETAN LOS PARTICULARES POR VIOLACIONES A LA LEY Y AL REGLAMENTO DE TRÁNSITO.
+
+LA FACULTAD DE IMPONER Y CALIFICAR LAS INFRACCIONES EN MATERIA DE TRANSITO PODRÁ EJERCERSE POR LOS FUNCIONARIOS Y DEMÁS AGENTES A LOS QUE ESTA DIRECCIÓN GENERAL OTORGUE FACULTADES DE DECISIÓN Y MANDO PARA EL DEBIDO CUMPLIMIENTO DE LA NORMATIVIDAD DE LA MATERIA;
+
+XV.- PROPONER LA CELEBRACIÓN DE CONVENIOS DE COLABORACIÓN SOBRE VIGILANCIA Y APOYO EN LAS CARRETERAS Y CAMINOS DE LA ENTIDAD, CON AUTORIDADES FEDERALES O MUNICIPALES; Y
+
+XVI.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES APLICABLES O EL SUBSECRETARIO DE SEGURIDAD EN EJERCICIO DE SUS ATRIBUCIONES.
+
+### CAPÍTULO I. DE LAS SUPLENCIAS
 
 ###### ARTICULO 29.
 
-El tratamiento en libertad de imputables, consiste en la aplicación de las medidas laborales, educativas y curativas, en su caso, autorizadas por la Ley y conducentes a la readaptación social del sentenciado, bajo la orientación y cuidado de la autoridad ejecutora, su duración no podrá exceder de la correspondiente a la pena de prisión sustituida.
-
-Este beneficio no se concederá a los sentenciados por los delitos de homicidio calificado, parricidio, secuestro, robo de infante, violación y robo calificado.
+AL FRENTE DE LAS DIRECCIONES DE ÁREA HABRÁ UN TITULAR, QUIEN PODRÁ AUXILIARSE DEL PERSONAL QUE REQUIERAN LAS NECESIDADES DEL SERVICIO Y PERMITA EL PRESUPUESTO.
 
 ###### ARTICULO 30.
 
-Cuando el sujeto haya sido sentenciado por un delito que obedezca a la inclinación o al abuso de bebidas alcohólicas, de estupefacientes, psicotrópicos o substancias que produzcan efectos similares se aplicarán, con carácter administrativo e independientemente de la pena que corresponda, un tratamiento de deshabituación o desintoxicación según sea el caso, que no podrá exceder del término de la pena impuesta por el delito cometido. Cuando se trate de penas no privativas o restrictivas de la libertad, el tratamiento no excederá de seis meses.
+CORRESPONDE A LOS DIRECTORES DE ÁREA EL ESTUDIO, TRAMITACIÓN Y RESOLUCIÓN DE LOS ASUNTOS QUE SE SEÑALAN EN EL PRESENTE REGLAMENTO.
 
-### CAPITULO IV. SEMILIBERTAD
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ENERO DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE COORDINACIÓN Y SEGUIMIENTO
 
-###### ARTICULO 31.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2004)</small>
 
-La semilibertad implica alternación de periodos de la privación de la libertad y de tratamiento en libertad. Se aplicará, según las circunstancias del caso del siguiente modo: Externación durante la semana de trabajo o educativa con reclusión de fin de semana, salida de fin de semana, con reclusión durante el resto de éste, o salida diurna con reclusión nocturna. La duración de la semilibertad no podrá exceder de la correspondiente a la pena de prisión sustituida.
+### CAPÍTULO II. DE LAS RELACIONES LABORALES
 
-Este beneficio no se concederá a los sentenciados por los delitos de homicidio calificado, parricidio, secuestro, robo de infante, previsto en el párrafo 1o. del Artículo 281, violación y robo calificado.
+###### ARTÍCULO 31.
+
+LA DIRECCIÓN DE COORDINACIÓN Y SEGUIMIENTO, TENDRÁ LAS SIGUIENTES FACULTADES:
+
+I.- FOMENTAR LA PARTICIPACIÓN CIUDADANA Y DE LOS SECTORES SOCIALES, EN LA OPINIÓN Y CONSULTA PARA FORTALECER EL SERVICIO DE SEGURIDAD PÚBLICA;
+
+II.- CONTRIBUIR A LA ORGANIZACIÓN DE LOS COMITÉS CIUDADANOS PARA LA PREVENCIÓN DE DELITOS;
+
+III.- PROMOVER LA PARTICIPACIÓN DE LA COMUNIDAD EN LAS TAREAS QUE LLEVE A CABO LA SECRETARÍA PARA MEJORAR SU DESEMPEÑO, ORGANIZANDO LOS PROGRAMAS Y CURSOS CORRESPONDIENTES;
+
+IV.- PROMOVER LA PARTICIPACIÓN DE LOS HABITANTES, ORGANISMOS EMPRESARIALES, CÁMARAS DE COMERCIO, ASOCIACIONES. DE PROFESIONISTAS, ORGANIZACIONES NO GUBERNAMENTALES Y CENTROS ACADÉMICOS, ENTRE OTROS, PARA QUE SE INVOLUCREN EN LA EVALUACIÓN DE LAS ACTIVIDADES POLICIALES;
+
+V.- REALIZAR CAMPAÑAS DE EXHORTO A LOS CIUDADANOS PARA DENUNCIAR HECHOS ILÍCITOS, FALTA O DEFICIENCIA EN EL SERVICIO DE SEGURIDAD PÚBLICA, PREPOTENCIA, CORRUPCIÓN Y EXTORSIÓN DE LOS SERVIDORES PÚBLICOS DE QUE SE TENGA CONOCIMIENTO, A FIN DE COMBATIR LA IMPUNIDAD;
+
+VI.- ESTIMULAR Y ORGANIZAR LA PARTICIPACIÓN DE LA SOCIEDAD EN GRUPOS DE OBSERVADORES CIUDADANOS, QUE COLABOREN CON LA POLICÍA EN EL REPORTE SOBRE LUGARES Y ZONAS DE ALTO RIESGO DELICTIVO;
+
+VII.- PROMOVER EL INTERCAMBIO CON OTRAS ENTIDADES DE CARÁCTER PÚBLICO O PRIVADO PARA LA PARTICIPACIÓN CIUDADANA Y COOPERACIÓN Y FORTALECIMIENTO DE ACCIONES EN MATERIA DE PREVENCIÓN DEL DELITO;
+
+VIII.- PROMOVER LA COLABORACIÓN DE LOS CIUDADANOS Y LA PARTICIPACIÓN DE LA COMUNIDAD EN LA ELABORACIÓN DE PROGRAMAS Y EN LA EJECUCIÓN DE ACCIONES ORIENTADAS A FORTALECER LA SEGURIDAD PÚBLICA;
+
+IX.- PROMOVER LA PARTICIPACIÓN DE LOS GRUPOS REPRESENTATIVOS DE LA SOCIEDAD EN LOS FOROS DE CONSULTA CIUDADANA EN MATERIA DE SEGURIDAD PÚBLICA;
+
+X.- AMPLIAR LOS MECANISMOS DE OPINIÓN Y PARTICIPACIÓN DE LAS CÁMARAS EMPRESARIALES, JUNTAS DE VECINOS, ORGANISMOS NO GUBERNAMENTALES, ASOCIACIONES DE PROFESIONISTAS Y DE PADRES DE FAMILIA, ASÍ COMO DE ORGANISMOS NO GUBERNAMENTALES EN LA COORDINACIÓN DE ACCIONES PARA LA AUTOPROTECCIÓN Y FORTALECIMIENTO A LA SEGURIDAD;
+
+XI.- PROMOVER LA ORGANIZACIÓN DE COMITÉS CIUDADANOS ENCARGADOS DEL DESARROLLO DE PROGRAMAS Y ACTIVIDADES VINCULADAS A LA PREVENCIÓN DE LOS DELITOS Y FALTAS ADMINISTRATIVAS;
+
+XII.- COADYUVAR EN LA REALIZACIÓN DE PROGRAMAS VECINALES ORIENTADOS A LA PARTICIPACIÓN DE LA COMUNIDAD EN TAREAS DE PREVENCIÓN DEL DELITO, DE PROTECCIÓN FAMILIAR Y DE DESARROLLO COMUNITARIO;
+
+XIII.- PROMOVER LA CREACIÓN DE VIGILANTES DE ESCUELAS Y COMITÉS DE VIGILANCIA VECINAL EN LAS COLONIAS Y FRACCIONAMIENTOS DE LAS CIUDADES Y COMUNIDADES INTEGRADOS POR PERSONAS CON ARRAIGO EN LAS MISMAS;
+
+XIV.- ESTABLECER LOS LINEAMIENTOS, CONFORME A LAS POLÍTICAS INSTITUCIONALES, PARA ORIENTAR A LAS VÍCTIMAS DE DELITO SOBRE LOS SERVICIOS JURÍDICO, MÉDICO Y PSICOLÓGICO CANALIZÁNDOLAS A LAS INSTITUCIONES CORRESPONDIENTES;
+
+XV.- PROMOVER PROGRAMAS DE COBERTURA AMPLIA Y ACCESO GRATUITO, ORIENTADOS A LA CREACIÓN DE ALTERNATIVAS LABORALES, CULTURALES, DEPORTIVAS Y RECREATIVAS;
+
+XVI.- PROMOVER ACCIONES DE APOYO Y DIFUSIÓN DE ACCIONES PARA EL AUXILIO Y CANALIZACIÓN DE PERSONAS CON PROBLEMAS DE FARMACODEPENDENCIA Y ALCOHOLISMO;
+
+XVII.- PROMOVER CON LAS AUTORIDADES DE SALUD Y ASISTENCIA SOCIAL EL FORTALECIMIENTO DE LOS PROGRAMAS PARA EL TRATAMIENTO Y REHABILITACIÓN DE LOS ADICTOS A DROGAS;
+
+XVIII.- DESARROLLAR ESTRATEGIAS DE COMUNICACIÓN HACIA LA COMUNIDAD PARA DAR A CONOCER LOS SERVICIOS, APOYOS Y PROGRAMAS DE AYUDA;
+
+XIX.- DIFUNDIR, A TRAVÉS DE LOS MEDIOS DE COMUNICACIÓN, LAS INSTITUCIONES EDUCATIVAS, LOS PROGRAMAS COMUNITARIOS Y LOS ORGANISMOS SOCIALES, GUÍAS DE ORIENTACIÓN A LA FAMILIA EN MATERIA DE AUTOPROTECCIÓN;
+
+XX.- FOMENTAR LA DIFUSIÓN DE LOS VALORES CÍVICOS Y LAS ACCIONES DE PREVENCIÓN A LOS FACTORES QUE PROPICIAN LA DELINCUENCIA;
+
+XXI.- ORIENTAR A LA COMUNIDAD, CON FINES EDUCATIVOS E INFORMATIVOS, SOBRE EL DAÑO QUE CAUSAN LOS PROGRAMAS Y ESPACIOS QUE REALIZAN APOLOGÍA DE LA VIOLENCIA EN LOS MEDIOS DE COMUNICACIÓN;
+
+XXII.- AMPLIAR LOS MECANISMOS PARA QUE LA SOCIEDAD ESTE INFORMADA DE LAS NORMAS, ESTRATEGIAS Y ACCIONES DE LOS ORGANISMOS DE SEGURIDAD PÚBLICA;
+
+XXIII.- INSTRUMENTAR, EN COORDINACIÓN CON LAS ÁREAS CORRESPONDIENTES, LA REALIZACIÓN DE CAMPAÑAS Y ENCUESTAS DE OPINIÓN PARA EVALUAR Y DIFUNDIR LA PRESTACIÓN DEL SERVICIO DE SEGURIDAD PÚBLICA, TOMANDO, EN SU CASO, LAS ACCIONES CORRECTIVAS PARA LA MEJORA;
+
+XXIV.- PROMOVER E IMPULSAR ACCIONES PARA FACILITAR EL ACCESO A LOS SERVICIOS DE LA SECRETARÍA;
+
+XXV.- ESTABLECER EL SISTEMA DE ORIENTACIÓN E INFORMACIÓN AL PUBLICO Y LA RECEPCIÓN DE SUGERENCIAS;
+
+XXVI.- FORTALECER LOS PROGRAMAS INSTITUCIONALES Y COMUNITARIOS QUE PROMUEVEN EL ESTABLECIMIENTO DE ESCUELAS PARA PADRES, POLÍTICAS DE PATERNIDAD RESPONSABLE Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR ENCAMINADAS A LA INTEGRACIÓN FAMILIAR Y LA PREVENCIÓN DE LOS DELITOS;
+
+XXVII.- DISEÑAR Y EJECUTAR PROGRAMAS DE VINCULACIÓN, RECEPCIÓN, ATENCIÓN, ORIENTACIÓN Y, EN SU CASO, SEGUIMIENTO Y CANALIZACIÓN DE QUEJAS Y DENUNCIAS DE LA CIUDADANÍA ANTE LAS INSTANCIAS CORRESPONDIENTES; Y
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+XXVIII.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES APLICABLES O EL DIRECTOR GENERAL DE VINCULACIÓN Y PARTICIPACIÓN SOCIAL.
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE FORMACIÓN PROFESIONAL
 
 ### CAPITULO V. MULTA
 
-###### ARTICULO 32.
+###### ARTÍCULO 32.
 
-La multa consiste en el pago de una cantidad de dinero al Estado, que se aplicará en beneficio del Supremo Tribunal de Justicia para integrar el fondo auxiliar de la administración de la justicia, que se fijará por días-multa, los cuales no podrán exceder de quinientos. El día-multa equivale a la percepción neta diaria del inculpado en el momento de consumar el delito, tomando en cuenta todas sus percepciones. Para los efectos de este Código, el límite inferior del día-multa será el equivalente al salario mínimo diario vigente en el lugar en que se consumó el delito.
+LA DIRECCIÓN DE FORMACIÓN PROFESIONAL, TENDRÁ LAS SIGUIENTES FACULTADES:
 
-Por lo que toca al delito continuado, se atenderá al salario mínimo vigente en el momento consumativo de la última conducta; para el permanente, se considerará el salario mínimo en vigor en el momento en que cesó la consumación.
+I.- CAPACITAR Y ADIESTRAR A LAS CORPORACIONES DE SEGURIDAD PÚBLICA DEL ESTADO Y DEMÁS PERSONAL QUE INTEGRA LA SECRETARÍA;
 
-Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella, el Ejecutivo a través del órgano que corresponda podrá substituirla total o parcialmente por prestación de trabajo en favor de la comunidad.
+II.- ELABORAR LAS PROPUESTAS DE PROGRAMAS DE ESTUDIO;
 
-Cada jornada de trabajo saldará un día-multa. Cuando no sea posible o conveniente la substitución de la multa por la prestación de servicios, el propio Ejecutivo podrá colocar al sentenciado en libertad bajo vigilancia que no excederá del número de días multa-substituidos.
+III.- VIGILAR LA APLICACIÓN DE LOS PROGRAMAS DE ESTUDIO Y PROPONER LAS MODIFICACIONES PERTINENTES;
 
-Si el sentenciado se negare sin causa justificada a cubrir el importe de la multa, el Estado la exigirá mediante el procedimiento económico-coactivo.
+IV.- ORGANIZAR CONFERENCIAS Y SEMINARIOS RELACIONADOS CON LA SEGURIDAD PÚBLICA, SEGURIDAD VIAL, SEGURIDAD PENITENCIARIA Y PROTECCIÓN CIVIL;
 
-La autoridad a quien corresponda el cobro de la multa, podrá fijar plazos para el pago de ésta.
+V.- PROPONER AL DIRECTOR GENERAL EL OTORGAMIENTO DE RECONOCIMIENTOS A CAPACITADOS Y PROFESORES, POR SU PARTICIPACIÓN ACADÉMICA;
 
-En cualquier tiempo podrá cubrirse el importe de la multa descontándose de ésta, la parte proporcional a las jornadas de trabajo prestado en favor de la comunidad, o al tiempo de prisión que el reo hubiere cumplido, tratándose de la multa substitutiva de la pena privativa de libertad, caso en el cual la equivalencia será a razón de un día-multa por día de prisión.
+VI.- SUPERVISAR LA SELECCIÓN DE MATERIAL ESCOLAR Y DE PRÁCTICAS, ASÍ COMO LA ADOPCIÓN DE NUEVOS SISTEMAS APLICABLES A LA FUNCIÓN DE LOS CUERPOS DE SEGURIDAD PÚBLICA DEL ESTADO Y LOS MUNICIPIOS;
+
+VII.- DISEÑAR DESARROLLAR Y APLICAR LAS CURRICULAS, PLANES Y PROGRAMAS DE ESTUDIO EN LAS MODALIDADES DE ACTUALIZACIÓN Y ESPECIALIZACIÓN, COORDINANDO SU APLICACIÓN A TRAVÉS DEL CUERPO DE INSTRUCTORES;
+
+VIII.- PROGRAMAR LA APLICACIÓN DE LOS EXÁMENES DE COMPETENCIA PROFESIONAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA;
+
+IX.- COORDINAR LAS ESTRATEGIAS PARA LA IMPLEMENTACIÓN DEL SERVICIO CIVIL DE CARRERA DE LA SECRETARÍA;
+
+X.- ORGANIZAR Y SUPERVISAR EL CORRECTO FUNCIONAMIENTO Y USO ADECUADO DE LAS ÁREAS ACADÉMICAS, SALAS DE USOS MÚLTIPLES, SALA DE CÓMPUTO Y DEMÁS QUE LE SEAN ENCOMENDADAS POR SU DIRECTOR GENERAL;
+
+XI.- REVISAR PERIÓDICAMENTE LOS MÉTODOS DE EVALUACIÓN ASEGURÁNDOSE QUE SE APLIQUEN CORRECTAMENTE; Y
+
+XII.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES APLICABLES O EL DIRECTOR GENERAL DEL INSTITUTO PARA LA FORMACIÓN DE LOS CUERPOS DE SEGURIDAD PÚBLICA DEL ESTADO EN EJERCICIO DE SUS ATRIBUCIONES.
+
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE PRESUPUESTO
 
 ### CAPITULO VI. REPARACION DE DAÑOS Y PERJUICIOS
 
-###### ARTICULO 33.
+###### ARTÍCULO 33.
 
-La reparación de daños y perjuicios que deba ser hecha por el delincuente se exigirá de oficio por el Ministerio Público, con el que podrán coadyuvar el ofendido, sus derechohabientes o sus representantes en los términos que prevenga el Código de Procedimientos Penales.
+LA DIRECCIÓN DE PRESUPUESTO, TENDRÁ LAS SIGUIENTES FACULTADES:
 
-###### ARTICULO 34.
+I.- COORDINAR LAS DIFERENTES UNIDADES ADMINISTRATIVAS PARA LA ELABORACIÓN DEL ANTEPROYECTO DE PRESUPUESTO ANUAL DE EGRESOS DE LA SECRETARÍA;
 
-Quien se considere con derecho a la reparación de daños y perjuicios, que no pueda obtener ante el Juez Penal en virtud del no ejercicio de la acción por parte del Ministerio Público, sobreseimiento o sentencia absolutoria, podrá recurrir a la vía civil en los términos de la legislación correspondiente.
+II.- ORIENTAR, VIGILAR Y SUPERVISAR LA CORRECTA APLICACIÓN DE LAS POLÍTICAS, NORMAS, CRITERIOS, SISTEMAS Y PROCEDIMIENTOS VIGENTES DE LA SECRETARIA DE FINANZAS Y ADMINISTRACIÓN DE GOBIERNO DEL ESTADO, EN EL EJERCICIO DEL PRESUPUESTO DE LAS DIFERENTES UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA;
 
-###### ARTICULO 35.
+III.- INFORMAR AL DIRECTOR GENERAL DE ADMINISTRACIÓN SOBRE EL MANEJO DEL PRESUPUESTO Y DE LAS DEFICIENCIAS E IRREGULARIDADES DETECTADAS EN LAS DIFERENTES UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA;
 
-La reparación de daños y perjuicios comprende:
+IV.- TRAMITAR LAS TRANSFERENCIAS PRESUPUESTALES Y AUTORIZACIÓN DE GASTOS DE LA SECRETARÍA, ANTE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN DE GOBIERNO DEL ESTADO;
 
-I.- La restitución de la cosa obtenida por el delito y si no fuera posible, el pago del precio de la misma;
+V.- COADYUVAR A LA DEFINICIÓN DE MÉTODOS DE TRABAJO Y CONTROL, TENDIENTES A LA SIMPLIFICACIÓN, DESCONCENTRACIÓN Y MEJORAMIENTO DEL EJERCICIO PRESUPUESTAL DE LA SECRETARÍA; Y
 
-II.- La indemnización del daño material y moral causado; y
+VI.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES O EL DIRECTOR GENERAL DE ADMINISTRACIÓN EN EJERCICIO DE SUS ATRIBUCIONES.
 
-III.- El resarcimiento de los perjuicios ocasionados.
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE PERSONAL
 
-###### ARTICULO 36.
+###### ARTÍCULO 34.
 
-En orden de preferencia, tienen derecho a la reparación del daño:
+LA DIRECCIÓN DE PERSONAL, TENDRÁ LAS SIGUIENTES FACULTADES:
 
-I.- El ofendido; y
+I.- APLICAR LAS POLÍTICAS, NORMAS Y CRITERIOS VIGENTES DEL GOBIERNO DEL ESTADO, PARA LA ADMINISTRACIÓN DEL PERSONAL DE LA SECRETARÍA;
 
-II.- Las personas que dependen económicamente de él o tengan derecho a alimentos conforme a la Ley.
+II.- COORDINAR Y EVALUAR EL SISTEMA DE ADMINISTRACIÓN Y DESARROLLO DE PERSONAL DE LA SECRETARÍA;
 
-###### ARTICULO 37.
+III.- IMPLEMENTAR PROGRAMAS Y ESTRATEGIAS NECESARIAS EN MATERIA DE DESARROLLO. ORGANIZACIONAL Y CLIMA LABORAL, QUE CONLLEVEN AL MEJORAMIENTO CONTINÚO DE LAS DIFERENTES UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA;
 
-La obligación de pagar el importe de la reparación de los daños y perjuicios es preferente con respecto al de la multa y se cubrirá primero que cualquier otra de las obligaciones personales que se hubieren contraido con posterioridad al delito, excepción hecha de las relacionadas con los alimentos y salarios.
+IV.- ELABORAR LOS PERFILES Y ANÁLISIS DE PUESTOS DE LA SECRETARÍA, ASÍ COMO ELABORAR SISTEMAS ESCALAFONARIOS, DE ACUERDO A LAS DISPOSICIONES Y LINEAMIENTOS APLICABLES;
 
-###### ARTICULO 38.
+V.- ESTABLECER E IMPLEMENTAR LAS POLÍTICAS Y PROCEDIMIENTOS PARA EL RECLUTAMIENTO, SELECCIÓN, CONTRATACIÓN E INDUCCIÓN DEL PERSONAL DE LA SECRETARÍA;
 
-Los responsables del delito están obligados mancomunada y solidariamente a cubrir el importe de la reparación de los daños y perjuicios.
+VI.- COADYUVAR EN LA SELECCIÓN Y CONTRATACIÓN DEL PERSONAL DE MANDOS MEDIOS Y SUPERIORES, PROPONIENDO CANDIDATOS O ASPIRANTES ÓPTIMOS PARA LAS DIFERENTES UNIDADES ADMINISTRATIVAS;
 
-###### ARTICULO 39.
+VII.- ASESORAR Y APOYAR A LAS DIFERENTES UNIDADES ADMINISTRATIVAS DE LA SECRETARIA, EN EL PROCESO DE SELECCIÓN Y CONTRATACIÓN DE PERSONAL DE APOYO;
 
-Si no se logra hacer efectivo todo el importe de la reparación de los daños y perjuicios, lo que se obtenga se distribuirá proporcionalmente entre los que tienen derecho a ella, atendiendo a las cuantías señaladas en la sentencia ejecutoria, sin perjuicio de que si, posteriormente el sentenciado adquiera bienes suficientes, se cubrirá lo insoluto.
+VIII.- EFECTUAR LOS TRÁMITES DE CONTRATACIÓN, PAGO A PERSONAL, BAJAS, MODIFICACIONES, LICENCIAS, VACACIONES Y NOMBRAMIENTOS DEL PERSONAL;
 
-###### ARTICULO 40.
+IX.- DISEÑAR Y DESARROLLAR MEJORES MECANISMOS Y PROCEDIMIENTOS DE EVALUACIÓN DEL PERSONAL, ASESORANDO Y SUPERVISANDO A LAS UNIDADES ADMINISTRATIVAS EN SU CORRECTA APLICACIÓN;
 
-Si las personas que tienen derecho a la reparación de daños y perjuicios renunciaren a ella, su importe se aplicará en favor de la Beneficiencia (sic) Pública.
+X.- DIFUNDIR Y ORIENTAR AL PERSONAL Y SUS FAMILIARES DERECHOHABIENTES, SOBRE LAS. DIFERENTES PRESTACIONES Y SERVICIOS DE CARÁCTER SOCIAL A QUE TIENEN DERECHO;
 
-###### ARTICULO 41.
+XI.- APLICAR LAS SANCIONES A QUE SE HAGA ACREEDOR EL PERSONAL DE LA SECRETARÍA, REGISTRANDO Y SOLICITANDO A LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN LA AFECTACIÓN CORRESPONDIENTE;
 
-La reparación de los daños y perjuicios será fijada por el Juzgador de acuerdo con las pruebas obtenidas en el proceso.
+XII.- PREVENIR E INFORMAR OPORTUNAMENTE AL DIRECTOR GENERAL DE ADMINISTRACIÓN SOBRE PROBLEMAS Y DEMANDAS LABORALES INTERPUESTAS CONTRA LA SECRETARÍA, ASÍ, COMO DE AQUELLOS ASUNTOS TRASCENDENTALES RELACIONADOS CON EL PERSONAL; Y
 
-La reparación del daño moral será fijada al prudente arbitrio del Juez tomando en consideración la afectación moral sufrida por la víctima además de lo previsto en el Artículo 66 de este Código.
+XIII.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES O EL DIRECTOR GENERAL DE ADMINISTRACIÓN EN EJERCICIO DE SUS ATRIBUCIONES.
 
-###### ARTICULO 42.
+#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE SERVICIOS GENERALES Y ADQUISICIONES
 
-El Juzgador, teniendo en cuenta el monto de los daños y perjuicios y la situación económica del obligado, podrá fijar plazos para el pago de la reparación de aquéllos, los que en conjunto no excederán de un año, pudiendo para ello exigir garantía si lo considera conveniente.
+###### ARTÍCULO 35.
 
-###### ARTICULO 43.
+LA DIRECCIÓN DE SERVICIOS GENERALES Y ADQUISICIONES, TENDRÁ LAS SIGUIENTES FACULTADES:
 
-Los objetos de uso lícito con que se comenta (sic) el delito, propiedad del imputado, se asegurarán de oficio por la autoridad jurisdiccional para garantizar el pago de la reparación del daño y solamente se levantará el aseguramiento o no se llevará a cabo, si se otorga caución bastante a juicio del Juez.
+I.- APLICAR LAS POLÍTICAS, NORMAS, CRITERIOS, SISTEMAS Y PROCEDIMIENTOS VIGENTES DE GOBIERNO DEL ESTADO, PARA LA ADMINISTRACIÓN DE LOS SERVICIOS GENERALES Y ADQUISICIONES DE LA SECRETARÍA;
 
-###### ARTICULO 44.
+II.- TRAMITAR Y AGILIZAR LAS PETICIONES DE SERVICIOS GENERALES Y ADQUISICIONES DE LAS DIFERENTES UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA;
 
-La reparación de daños y perjuicios que deba exigirse a terceros, tendrá el carácter de responsabilidad Civil y se tramitará en forma de incidente, en los términos que fije el Código de Procedimientos Penales.
+III.- SUPERVISAR Y CONTROLAR LA PERMANENTE ACTUALIZACIÓN DE LOS INVENTARIOS Y RESGUARDOS INDIVIDUALES DE LA SECRETARÍA;
 
-###### ARTICULO 45.
+IV.- SUPERVISAR EL ÓPTIMO APROVECHAMIENTO DE LOS BIENES DE LA SECRETARÍA, CON SUJECIÓN A LAS DISPOSICIONES LEGALES QUE LA RIGEN;
 
-Son terceros obligados a la reparación de los daños y perjuicios:
+V.- PROMOVER E INSTRUMENTAR MEDIDAS DE AUSTERIDAD Y DISCIPLINA PARA EL CONSUMO DE LOS SERVICIOS Y CONSUMIBLES;
 
-I.- Los profesionistas, artistas o técnicos por los delitos que cometan sus auxiliares cuando éstos obren de acuerdo con las instrucciones de aquéllos;
+VI.- SUPERVISAR LA PRESTACIÓN DE LOS SERVICIOS DE INTENDENCIA, CONSUMO, MOBILIARIO Y EQUIPO DE OFICINA Y SU MANTENIMIENTO, ASÍ COMO DE LOS VEHÍCULOS ASIGNADOS AL PERSONAL DE LAS DIFERENTES UNIDADES ADMINISTRATIVAS, INFORMANDO OPORTUNAMENTE AL DIRECTOR GENERAL DE ADMINISTRACIÓN SOBRE LAS IRREGULARIDADES DETECTADAS; Y
 
-II.- Las personas físicas, las jurídicas colectivas y las que se ostentan con este carácter por los delitos que cometa cualquier persona vinculada por una relación laboral con ellas, cuando dicha comisión sea realizada con motivo y en el desempeño de sus servicios;
+VII.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES O EL DIRECTOR GENERAL DE ADMINISTRACIÓN EN EJERCICIO DE SUS ATRIBUCIONES.
 
-III.- Las personas jurídicas colectivas o que se ostenten como tales, por los delitos cometidos por sus socios, gerentes, administradores o quienes actúen en su representación cuando éstos sean realizados con motivo o con referencia a su relación con aquélla;
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ENERO DE 2004)</small>
 
-En la sociedad conyugal cada cónyuge responderá con sus bienes propios, para la reparación de daños y perjuicios; y
+#### SECCIÓN SEXTA. DE LA DIRECCIÓN DE PLANEACIÓN ESTRATÉGICA Y DESARROLLO INSTITUCIONAL
 
-IV.- El Estado y los Municipios por los delitos que sus funcionarios o empleados comentan (sic) con motivo o en el desempeño de su servicio.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2004)</small>
 
-###### ARTICULO 46.
+###### ARTÍCULO 36.
 
-El Estado cubrirá el daño material causado a quien hubiese obtenido el reconocimiento de su inocencia en los términos previstos en este Código o a sus derechohabientes. La reparación del daño será dispuesta de oficio por la autoridad que resuelva el reconocimiento de la inocencia, tomando en cuenta el salario mínimo general correspondiente a la zona en que se hubiese supuesto la comisión del delito, a razón de un día de salario por cada día en que la persona hubiere sido privada de su libertad durante el procedimiento y la ejecución de la pena o medida de seguridad. El juzgador mandará publicar los puntos resolutivos de la determinación correspondiente a costa del Estado, en los diarios de mayor circulación en el lugar en que resida el sujeto cuya inocencia se reconoce.
+LA DIRECCIÓN DE PLANEACIÓN ESTRATÉGICA Y DESARROLLO INSTITUCIONAL, TENDRÁ LAS SIGUIENTES FACULTADES:
 
-###### ARTICULO 47.
+I.- CONTRIBUIR AL ANÁLISIS DEL ESTADO DE FUERZA DE LA SECRETARÍA, IDENTIFICANDO SUS FORTALEZAS, DEBILIDADES O ÁREAS DE OPORTUNIDAD PARA LA DEFINICIÓN DE PROGRAMAS Y PROYECTOS ESTRATÉGICOS DE MEJORA;
 
-En caso de lesiones y homicidio y a falta de pruebas específicas respecto al daño causado, los jueces tomarán como base el salario mínimo vigente en el lugar donde ocurran los hechos y las disposiciones que en materia de indemnizaciones sobre riesgos de trabajo establezca la Ley Federal del Trabajo.
+II.- COORDINAR EL PROCESO DE PLANEACIÓN ESTRATÉGICA PARA EL PRESUPUESTO ANUAL DE EGRESOS DE LA SECRETARÍA, CON BASE A LA LEY DE PLANEACIÓN PARA EL ESTADO DE GUANAJUATO Y A LOS LINEAMIENTOS, OBJETIVOS Y METAS DEL PROGRAMA SECTORIAL DE SEGURIDAD PÚBLICA, DEL PLAN ESTATAL DE DESARROLLO Y DEL PLAN DE GOBIERNO DEL ESTADO;
+
+III.- COADYUVAR EN LA DEFINICIÓN DE LA EXPOSICIÓN DE MOTIVOS DEL PRESUPUESTO ANUAL DE EGRESOS DE LA SECRETARÍA;
+
+IV.- INTEGRAR INFORMACIÓN GENERAL Y ESTADÍSTICA DE LAS DIFERENTES UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA, IDENTIFICANDO LOS INDICADORES DE EVALUACIÓN DE DESEMPEÑO QUE IMPACTEN EN BENEFICIO SOCIAL, DANDO SEGUIMIENTO A ÉSTOS PARA LOS INFORMES LABORALES Y DE GOBIERNO QUE SE SOLICITEN;
+
+V.- COADYUVAR EN LA DEFINICIÓN DE MÉTODOS DE INNOVACIÓN ADMINISTRATIVA Y DE CALIDAD Y MEJORA CONTINUA;
+
+VI.- APOYAR A LAS DIFERENTES UNIDADES ADMINISTRATIVAS EN LA DEFINICIÓN, DESARROLLO E INSTRUMENTACIÓN METODOLÓGICA DE PROGRAMAS ESPECIALES;
+
+VII.- INTEGRAR EL ACERVO HISTÓRICO DE LOS PLANES Y PROGRAMAS DE SEGURIDAD PÚBLICA DE LA FEDERACIÓN, LA ENTIDAD Y LOS MUNICIPIOS; Y
+
+VIII.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES O EL DIRECTOR GENERAL DE ADMINISTRACIÓN EN EJERCICIO DE SUS ATRIBUCIONES.
+
+#### SECCIÓN SÉPTIMA. DE LA DIRECCIÓN DE INFORMÁTICA
+
+###### ARTÍCULO 37.
+
+LA DIRECCIÓN DE INFORMÁTICA, TENDRÁ LAS SIGUIENTES FACULTADES:
+
+l.- IMPULSAR Y COORDINAR EL DESARROLLO ESPECÍFICO DE LOS PROGRAMAS Y SISTEMAS NECESARIOS EN LAS DIFERENTES UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA;
+
+II.- ASESORAR Y AUXILIAR EN MATERIA DE INFORMÁTICA A LAS DIFERENTES UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA;
+
+III.- FOMENTAR LA HOMOLOGACIÓN DE LOS CRITERIOS Y LENGUAJES DE PROGRAMACIÓN, ASÍ COMO LA ESTANDARIZACIÓN DE LAS APLICACIONES COMPUTACIONALES A UTILIZAR EN LA SECRETARÍA;
+
+IV.- ESTABLECER LAS CONDICIONES NECESARIAS PARA TENER UN SISTEMA DE INFORMACIÓN MODERNO Y CONFIABLE;
+
+V.- LLEVAR A CABO LOS PROGRAMAS DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO EN LOS SISTEMAS DE CÓMPUTO DE LA SECRETARÍA;
+
+VI.- PROPONER AL DIRECTOR GENERAL DE ADMINISTRACIÓN SOBRE LA CAPACITACIÓN NECESARIA EN MATERIA DE INFORMÁTICA PARA LAS DIFERENTES UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA;
+
+VII.- ADMINISTRAR Y MANTENER LOS APLICATIVOS Y/O REGISTROS DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA QUE CORRESPONDA A LA SECRETARIA; Y
+
+VIII.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES O EL DIRECTOR GENERAL DE ADMINISTRACIÓN EN EJERCICIO DE SUS ATRIBUCIONES.
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
+
+#### SECCIÓN OCTAVA. DE LA DIRECCIÓN DE CONTROL INTERNO ADMINISTRATIVO
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2004)</small>
+
+ARTÍCULO 37 B (SIC).- LA DIRECCIÓN DE CONTROL INTERNO ADMINISTRATIVO TENDRÁ LAS SIGUIENTES FACULTADES:
+
+I.- EVALUAR EL EJERCICIO DEL PRESUPUESTO ASIGNADO A LA SECRETARIA DE SEGURIDAD PÚBLICA, TRANSFERENCIAS DE PARTIDAS PRESUPUESTALES Y ANÁLISIS DEL AVANCE FINANCIERO DE PROYECTOS Y PROGRAMAS AUTORIZADOS;
+
+II.- ANALIZAR Y EVALUAR LAS COMPRAS CON PRESUPUESTO ASIGNADO Y ADQUISICIONES A TRAVÉS DEL FONDO DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO, ACTUALIZACIÓN DE INVENTARIOS FÍSICOS DE ALMACÉN, MOBILIARIO, EQUIPO DIVERSO, MAQUINARIA Y VEHÍCULOS, ASÍ MISMO EL MANTENIMIENTO, CONSUMO DE COMBUSTIBLE Y LA ELABORACIÓN DE LOS RESGUARDOS INDIVIDUALES RESPECTIVOS;
+
+III.- DICTAMINAR LAS POLÍTICAS, NORMAS Y PROCEDIMIENTOS DE AUDITORIA PARA REALIZAR EVALUACIONES PERIÓDICAS, CON APEGO A LA NORMATIVIDAD VIGENTE, A LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARIA DE SEGURIDAD PÚBLICA;
+
+IV.- VERIFICAR EL CUMPLIMIENTO DE PROGRAMAS Y PROYECTOS AUTORIZADOS A LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARIA DE SEGURIDAD PÚBLICA, EVALUANDO LOS SISTEMAS DE CONTROL INTERNO ESTABLECIDOS Y LA CORRECTA APLICACIÓN DE RECURSOS HUMANOS, FINANCIEROS, TECNOLÓGICOS Y MATERIALES ASIGNADOS, CON EL PROPÓSITO DE OPTIMIZAR RESULTADOS;
+
+V.- INFORMAR OPORTUNAMENTE AL DIRECTOR GENERAL DE ADMINISTRACIÓN Y A LOS RESPONSABLES DE LAS ÁREAS EVALUADAS DE LA SECRETARIA LOS RESULTADOS DE LAS AUDITORÍAS PRACTICADAS CON LA FINALIDAD DE ESTABLECER MEDIDAS PREVENTIVAS Y CORRECTIVAS;
+
+VI.- DIFUNDIR Y VIGILAR EL CUMPLIMIENTO DE LA NORMATIVIDAD ESTABLECIDA PARA LA ADMINISTRACIÓN PÚBLICA ESTATAL;
+
+VII.- ATENDER LAS SOLICITUDES DE ASESORÍA Y FORMALIZACIÓN DE ACTAS DE ENTREGA-RECEPCIÓN DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARIA DE SEGURIDAD PÚBLICA;
+
+VIII.- ASESORAR Y ORIENTAR A LAS ÁREAS ADMINISTRATIVAS DE LA SECRETARIA DE SEGURIDAD PÚBLICA PARA LA SOLVENTACIÓN DE LAS OBSERVACIONES DERIVADAS DE LAS AUDITORIAS INTERNAS Y EXTERNAS;
+
+IX.- VERIFICAR Y VIGILAR EL CUMPLIMIENTO DE LOS ACUERDOS DERIVADOS DE LAS REUNIONES DE COORDINADORES ADMINISTRATIVOS DE LA SECRETARIA;
+
+X.- ANALIZAR Y EVALUARLOS INFORMES FINANCIEROS DE LAS TIENDAS DE LOS CENTROS ESTATALES DE READAPTACIÓN SOCIAL;
+
+XI.- REALIZAR PERIÓDICAMENTE ARQUEOS A FONDOS REVOLVENTES DE LAS UNIDADES ADMINISTRATIVAS Y A LOS INGRESOS DE LAS TIENDAS DE LOS CENTROS ESTATALES DE READAPTACIÓN SOCIAL;
+
+XII.- REVISAR PERIÓDICAMENTE EL INVENTARIO DE ALMACÉN DE ALIMENTOS Y DE PRODUCTOS QUE SE VENDEN EN LAS TIENDAS DE LOS CENTROS PE READAPTACIÓN SOCIAL Y FUERZAS DE SEGURIDAD PÚBLICA;
+
+XIII.- REVISAR LA PLANTILLA DE PERSONAL, PLAZAS AUTORIZADAS, NOMINA, ORGANIGRAMA, EXPEDIENTES DE PERSONAL Y OFICIOS DE COMISIÓN O ASIGNACIÓN DE OTRAS ÁREAS; Y
+
+XIV.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES VIGENTES O EL DIRECTOR GENERAL DE ADMINISTRACIÓN EN EL EJERCICIO DE SUS ATRIBUCIONES.
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
+
+#### SECCIÓN NOVENA. DE LA DIRECCIÓN DE SEGUIMIENTO DEL FONDO DE SEGURIDAD DEL ESTADO DE GUANAJUATO
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2004)</small>
+
+ARTÍCULO 37 C.- LA DIRECCIÓN DE SEGUIMIENTO DEL FONDO DE SEGURIDAD DEL ESTADO DE GUANAJUATO, TENDRÁ LAS SIGUIENTES FACULTADES:
+
+I.- ASESORAR AL COMITÉ TÉCNICO DEL FONDO DE SEGURIDAD DEL ESTADO DE GUANAJUATO. EN LA APLICACIÓN DE LOS RECURSOS CON BASE EN LOS ANEXOS TÉCNICOS Y CONVENIOS DE COORDINACIÓN;
+
+II.- ASESORAR A LAS COMISIONES DEL COMITÉ TÉCNICO DEL FONDO DE SEGURIDAD DEL ESTADO DE GUANAJUATO. EN LA APLICACIÓN DE LOS RECURSOS CON BASE EN LOS ANEXOS TÉCNICOS Y CONVENIOS DE COORDINACIÓN;
+
+III.- APOYAR EN LA DETECCIÓN DE NECESIDADES DE LAS ÁREAS QUE INTERVIENEN EN EL FIDEICOMISO PARA LA INTEGRACIÓN DE LAS PROPUESTAS DE INVERSIÓN DEL PROGRAMA NACIONAL DE SEGURIDAD PUBLICA;
+
+IV.- FUNGIR COMO VINCULO ENTRE LA SECRETARIA DE SEGURIDAD PÚBLICA Y LA PROCURADURÍA GENERAL DE JUSTICIA. PARA LA INTEGRACIÓN DE LAS PROPUESTAS DE INVERSIÓN DEL PROGRAMA NACIONAL DE SEGURIDAD PÚBLICA;
+
+V.- SUPERVISAR LA EMISIÓN DE INSTRUCCIONES DE PAGO;
+
+VI.- PARTICIPAR EN LA CONCILIACIÓN DE LOS AVANCES FLSLCO-FINANCIERO DE LOS PROYECTOS DEL FIDEICOMISO;
+
+VII.- PROPONER AL FIDUCIARIO. MECANISMOS PARA MEJORAR EL FUNCIONAMIENTO DEL FIDUCIARIO FONDO DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO; Y
+
+VIII.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES VIGENTES O EL DIRECTOR GENERAL DE ADMINISTRACIÓN EN EL EJERCICIO DE SUS ATRIBUCIONES.
+
+(REUBICADA [N. DE E. ANTES SECCION OCTAVA], P.O. 2 DE ENERO DE 2004)
+
+#### SECCIÓN DECIMA. DE LA DIRECCIÓN JURÍDICA, DE VISITADURÍA INTERNA Y DERECHOS HUMANOS
+
+###### ARTÍCULO 38.
+
+LA DIRECCIÓN JURÍDICA, DE VISITADURÍA INTERNA Y DERECHOS HUMANOS TENDRÁ LAS SIGUIENTES FACULTADES:
+
+I.- ASESORAR JURÍDICAMENTE AL SECRETARIO Y SUBSECRETARIOS EN LOS ASUNTOS DE SU COMPETENCIA;
+
+II.- REPRESENTAR AL SECRETARIO Y A LOS SUBSECRETARIOS EN LOS JUICIOS EN QUE ÉSTOS SEAN PARTE;
+
+III.- INTERVENIR EN LOS ASUNTOS DE CARÁCTER LEGAL EN QUE TENGA INJERENCIA LA SECRETARÍA;
+
+IV.- ELABORAR O REVISAR, SEGÚN EL CASO, LOS CONVENIOS, ACUERDOS Y CONTRATOS QUE SE CELEBREN CON INSTITUCIONES FEDERALES, ESTATALES Y MUNICIPALES, ASÍ COMO CON LOS SECTORES SOCIAL Y PRIVADO;
+
+V.- VELAR PORQUE TODO EL PERSONAL DE LA SECRETARÍA RESPETE LOS DERECHOS HUMANOS DE LAS PERSONAS Y DEL PROPIO PERSONAL;
+
+VI.- CONOCER E INVESTIGAR A PETICIÓN DE PARTE O DE OFICIO PRESUNTAS VIOLACIONES DE DERECHOS HUMANOS;
+
+VII.- RECIBIR LAS QUEJAS Y DENUNCIAS QUE SE INTERPONGAN EN CONTRA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA, POR ACTOS U OMISIONES QUE CONSTITUYAN FALTAS ADMINISTRATIVAS O VIOLACIÓN A LOS DERECHOS HUMANOS, SEGÚN LAS LEYES, REGLAMENTOS Y OTRAS DISPOSICIONES LEGALES;
+
+VIII.- INSTAURAR Y SUBSTANCIAR PROCEDIMIENTO DISCIPLINARIO, DE CONFORMIDAD CON LAS DISPOSICIONES APLICABLES, EN CUANTO SE DETECTE LA COMISIÓN DE UNA FALTA ADMINISTRATIVA O VIOLACIÓN A LOS DERECHOS HUMANOS;
+
+IX.- ORDENAR y PRACTICAR VISITAS DE SUPERVISIÓN A LAS ÁREAS DE LA SECRETARÍA Y FORMULAR INFORMES Y OPINIONES AL SECRETARIO Y A LOS SUBSECRETARIOS RESPECTO DEL RESULTADO DE LAS VISITAS;
+
+X.- DESIGNAR Y COMISIONAR VISITADORES DENTRO DEL PERSONAL DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN DE LA SECRETARÍA, PARA REALIZAR VISITAS ESPECÍFICAS;
+
+XI.- EVALUAR EL COMPORTAMIENTO DE LAS QUEJAS Y DENUNCIAS QUE SE INTERPONGAN EN CONTRA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA, SUGIRIENDO AL SECRETARIO Y SUBSECRETARIOS LAS MEDIDAS PREVENTIVAS Y CORRECTIVAS PERTINENTES;
+
+XII.- AUXILIAR AL SECRETARIO EN LA ELABORACIÓN DE LOS INFORMES A LAS COMISIONES DE DERECHOS HUMANOS CON MOTIVO DE QUEJAS CONTRA LA SECRETARÍA O SUS UNIDADES ADMINISTRATIVAS;
+
+XIII.- EVALUAR Y DICTAMINAR PARA EL SECRETARIO SOBRE LA PROCEDENCIA O IMPROCEDENCIA Y CONSECUENTE ACATAMIENTO O NO, DE LAS RECOMENDACIONES DE LAS COMISIONES DE DERECHOS HUMANOS;
+
+XIV.- CUMPLIMENTAR LAS RECOMENDACIONES DE LAS COMISIONES DE LOS DERECHOS HUMANOS QUE HAYAN SIDO ACEPTADAS POR EL SECRETARIO;
+
+XV.- REPRESENTAR AL SECRETARIO ANTE LAS COMISIONES DE DERECHOS HUMANOS EN LA DEFENSA DE LA PROPIA SECRETARÍA O DE SUS UNIDADES ADMINISTRATIVAS;
+
+XVI.- PROPONER AL SECRETARIO LA SANCIÓN APLICABLE AL INFRACTOR EN LOS TÉRMINOS DE LA LEY DE SEGURIDAD PÚBLICA Y DEMÁS LEYES Y REGLAMENTOS CORRESPONDIENTES;
+
+XVII.- ELABORAR PARA LA APROBACIÓN DEL SECRETARIO LA NORMATIVIDAD PARA LOS PROCEDIMIENTOS DISCIPLINARIOS;
+
+XVIII.- CONCEDER AUDIENCIAS AL PÚBLICO; Y
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+XIX.- LAS DEMÁS QUE SEÑALEN OTRAS DISPOSICIONES LEGALES O EL SUBSECRETARIO DE PREVENCIÓN EN EJERCICIO DE SUS ATRIBUCIONES.
+
+(REUBICADA [N. DE E. ANTES SECCION NOVENA], P.O. 2 DE ENERO DE 2004)
+
+#### SECCIÓN DECIMA PRIMERA. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
+
+###### ARTÍCULO 39.
+
+LA DIRECCIÓN DE COMUNICACIÓN SOCIAL, TENDRÁ LAS SIGUIENTES FACULTADES:
+
+I.- IDENTIFICAR Y ANALIZAR LAS NECESIDADES DE COMUNICACIÓN SOCIAL DE LAS DIVERSAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA;
+
+II.- PLANEAR, ORGANIZAR, COORDINAR Y EJECUTAR LOS PROGRAMAS DE COMUNICACIÓN SOCIAL Y RELACIONES PÚBLICAS, DE CONFORMIDAD CON LOS LINEAMIENTOS QUE ESTABLEZCA EL SECRETARIO; Y
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+III.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES APLICABLES O EL SECRETARIO, DIRECTAMENTE O POR CONDUCTO DE LA SECRETARÍA PARTICULAR, EN EJERCICIO DE SUS ATRIBUCIONES.
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
+
+#### SECCIÓN DÉCIMA SEGUNDA. DE LA DIRECCIÓN TÉCNICA DE PROTECCIÓN CIVIL
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2004)</small>
+
+ARTICULO 39 B (SIC).- LA DIRECCIÓN TÉCNICA DE PROTECCIÓN CIVIL, TENDRÁ LAS SIGUIENTES FACULTADES:
+
+I.- PROPONER PROGRAMAS, ACCIONES Y ESTRATEGIAS EN MATERIA DE PROTECCIÓN CIVIL;
+
+II.- ORGANIZAR, SUPERVISAR Y DIRIGIR LOS PROYECTOS DE PROTECCIÓN CIVIL;
+
+III.- APOYAR A LAS INSTITUCIONES PÚBLICAS O PRIVADAS EN LA ELABORACIÓN Y EJECUCIÓN DE PROYECTOS DE PROTECCIÓN CIVIL;
+
+IV.- PROMOVER, SUPERVISAR Y REALIZAR PROGRAMAS PERMANENTES DE CAPACITACIÓN EN MATERIA DE PROTECCIÓN CIVIL; Y
+
+V.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES APLICABLES O EL COORDINADOR EJECUTIVO DE PROTECCIÓN CIVIL EN EJERCICIO DE SUS ATRIBUCIONES.
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
+
+#### SECCIÓN DÉCIMA TERCERA. DE LA DIRECCIÓN OPERATIVA DE PROTECCIÓN CIVIL
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2004)</small>
+
+ARTÍCULO 39 C.- LA DIRECCIÓN OPERATIVA DE PROTECCIÓN CIVIL, TENDRÁ LAS SIGUIENTES FACULTADES:
+
+I.- EJECUTAR LOS PROGRAMAS QUE APRUEBE EL CONSEJO ESTATAL DE PROTECCIÓN CIVIL;
+
+II.- ESTABLECER Y MANTENER LAS ACCIONES DE COORDINACIÓN CON INSTANCIAS PÚBLICAS Y PRIVADAS, PARA DIRIGIR LAS ACCIONES DE PREVENCIÓN, AUXILIO Y RECUPERACIÓN ANTE CUALQUIER CONTINGENCIA MAYOR;
+
+III.- PROPONER LA CELEBRACIÓN DE CONVENIOS CON LAS AUTORIDADES FEDERALES, MUNICIPALES Y DE OTRAS ENTIDADES FEDERATIVAS, PARA LA ADQUISICIÓN Y DOTACIÓN DE EQUIPOS DE RESCATE Y DE EMERGENCIA PARA LOS DIVERSOS CUERPOS DE AUXILIO CIVIL;
+
+IV.- PROPONER LA CELEBRACIÓN DE CONVENIOS CON LAS AUTORIDADES FEDERALES, DE OTROS ESTADOS, DE LOS MUNICIPIOS Y DE LA INICIATIVA PRIVADA, PARA LA CAPACITACIÓN, EQUIPAMIENTO Y PREPARACIÓN DE LOS DIVERSOS GRUPOS DE APOYO QUE OPEREN EN EL ESTADO;
+
+V.- PROMOVER LA CELEBRACIÓN DE CONVENIOS CON LOS DI RENTES GRUPOS DE APOYO, PARA GARANTIZAR LA ADECUADA COORDINACIÓN EN LA ATENCIÓN DE DIFERENTES CONTINGENCIAS QUE SE PRESENTEN EN EL ESTADO; Y
+
+VI.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES APLICABLES O EL COORDINADOR EJECUTIVO DE PROTECCIÓN CIVIL EN EJERCICIO DE SUS ATRIBUCIONES.
+
+(REUBICADA [N. DE E. ANTES SECCION DECIMA], P.O. 2 DE ENERO DE 2004)
+
+#### SECCIÓN DÉCIMA CUARTA. DE LA DIRECCIÓN DE PLANEACIÓN Y ESTADÍSTICA CRIMINOLÓGICA
+
+###### ARTÍCULO 40.
+
+LA DIRECCIÓN DE PLANEACIÓN Y ESTADÍSTICA CRIMINOLÓGICA, TENDRÁ LAS SIGUIENTES FACULTADES:
+
+I.- INTEGRAR, CAPTURAR, ANALIZAR, DISCRIMINAR Y CLASIFICAR LA INFORMACIÓN EN MATERIA DE CRIMINOLOGÍA, SEGURIDAD PÚBLICA Y EMERGENCIAS;
+
+II.- DISEÑAR, COORDINAR Y MANEJAR EL SISTEMA DE INFORMACIÓN Y ESTADÍSTICA CRIMINOLÓGICA;
+
+III.- COADYUVAR EN LA ELABORACIÓN DEL PROGRAMA SECTORIAL DE SEGURIDAD PÚBLICA;
+
+IV.- ELABORAR DIAGNÓSTICOS QUE PERMITAN EVALUAR LOS RESULTADOS EN LA LUCHA CONTRA LA DELINCUENCIA Y PREVENCIÓN DEL DELITO;
+
+V.- SISTEMATIZAR LOS DATOS Y CIFRAS RELEVANTES SOBRE LOS DIFERENTES ÁMBITOS DE SEGURIDAD PÚBLICA QUE COADYUVEN EN LA TOMA DE DECISIONES Y CUMPLIMIENTO DE LOS OBJETIVOS;
+
+VI.- COADYUVAR EN EL DESARROLLO DE MECANISMOS PERMANENTES DE COORDINACIÓN Y COMUNICACIÓN CON LAS UNIDADES ADMINISTRATIVAS GENERADORAS DE INFORMACIÓN CRIMINAL EN LOS TRES ÁMBITOS DE GOBIERNO;
+
+VII.- ORGANIZAR Y PROCESAR LA INFORMACIÓN PARA LA INSTRUMENTACIÓN METODOLÓGICA DE LOS PLANES Y OPERATIVOS DE SEGURIDAD PÚBLICA, EVALUANDO Y DANDO SEGUIMIENTO A SU EJECUCIÓN Y RESULTADOS;
+
+VIII.- ELABORAR MAPAS CRIMINOLÓGICOS REGIONALES, MUNICIPALES Y LOCALES;
+
+IX.- PROVEER DE LA INFORMACIÓN NECESARIA PARA EL ASESORAMIENTO Y ORIENTACIÓN A LOS MUNICIPIOS EN LA ELABORACIÓN DE SUS PLANES Y PROGRAMAS DE SEGURIDAD PÚBLICA;
+
+X.- OPERAR EL REGISTRO ESTATAL DE POLICÍA; Y
+
+XI.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES APLICABLES O EL DIRECTOR GENERAL DE POLÍTICA CRIMINAL PREVENCIÓN DEL DELITO EN EJERCICIO DE SUS ATRIBUCIONES.
+
+(REUBICADA [N. DE E. ANTES SECCION DECIMA PRIMERA], P.O. 2 DE ENERO DE 2004)
+
+#### SECCIÓN DÉCIMA QUINTA. DE LA DIRECCIÓN DE POLÍTICA CRIMINAL
+
+###### ARTÍCULO 41.
+
+LA DIRECCIÓN DE POLÍTICA CRIMINAL, TENDRÁ LAS SIGUIENTES FACULTADES:
+
+I.- ESTABLECER LAS DIRECTRICES PARA DEFINIR LA POLÍTICA CRIMINOLÓGICA EN EL ESTADO;
+
+II.- DISEÑAR LA POLÍTICA CRIMINAL EN MATERIA DE PREVENCIÓN DEL DELITO Y EJECUCIÓN DE SANCIONES PRIVATIVAS DE LA LIBERTAD EN COORDINACIÓN CON LAS ÁREAS CORRESPONDIENTES;
+
+III.- ASESORAR AL DIRECTOR GENERAL DE POLÍTICA CRIMINAL Y PREVENCIÓN DEL DELITO EN LA DEFINICIÓN DE LA POLÍTICA CRIMINOLÓGICA;
+
+IV.- PROPONER REFORMAS A LAS DISPOSICIONES LEGALES, QUE SUSTENTEN LA ORIENTACIÓN DE LA POLÍTICA CRIMINOLÓGICA DEL ESTADO;
+
+V.- IMPULSAR UNA POLÍTICA CRIMINOLÓGICA INTEGRAL QUE CONTRIBUYA A PRESERVAR EL ORDEN, LA TRANQUILIDAD Y LA SEGURIDAD EN EL ESTADO;
+
+VI.- FORMULAR Y REALIZAR PROYECTOS DE INVESTIGACIÓN CIENTÍFICA, VINCULADOS CON EL DELITO, SUS CONSECUENCIAS Y LA REACCIÓN PUNITIVA ESTATAL;
+
+VII.- PROCURAR LA VINCULACIÓN CON INSTANCIAS QUE TENGAN LA MISMA FINALIDAD, EN OTROS ÓRDENES DE GOBIERNO;
+
+VIII.- REALIZAR INVESTIGACIONES ESPECIALIZADAS POR MUNICIPIO, ESTRATO SOCIAL Y FENÓMENO DELICTIVO, ENCAMINADAS AL CONOCIMIENTO INTEGRAL DE LA DELINCUENCIA; Y
+
+IX.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES APLICABLES O DIRECTOR GENERAL DE POLÍTICA CRIMINAL Y PREVENCIÓN DEL DELITO EN EJERCICIO DE SUS ATRIBUCIONES.
+
+(REUBICADA [N. DE E. ANTES SECCION DECIMA SEGUNDA], P.O. 2 DE ENERO DE 2004)
+
+#### SECCIÓN DÉCIMA SEXTA. DE LA DIRECCIÓN DE PREVENCIÓN DEL DELITO
+
+###### ARTÍCULO 42.
+
+LA DIRECCIÓN DE PREVENCIÓN DEL DELITO, TENDRÁ LAS SIGUIENTES FACULTADES:
+
+I.- DISEÑAR Y COORDINAR LOS PROGRAMAS DE PREVENCIÓN DEL DELITO;
+
+II.- INSTRUMENTAR CONVENIOS, POLÍTICAS Y LINEAMIENTOS GENERALES DE COORDINACIÓN INTERINSTITUCIONAL CON ORGANISMOS PÚBLICOS, SOCIALES Y PRIVADOS PARA LA PREVENCIÓN DEL DELITO;
+
+III.- FOMENTAR LA CULTURA DE DENUNCIA Y PREVENCIÓN DEL DELITO EN EL ESTADO;
+
+IV.- ESTUDIAR LAS CONDUCTAS ANTISOCIALES Y LOS FACTORES QUE LA PROPICIAN PARA DISEÑAR PLANES Y PROGRAMAS DE PREVENCIÓN DEL DELITO;
+
+V.- PROMOVER ACCIONES DE APOYO Y COORDINACIÓN CON ORGANISMOS PÚBLICOS Y PRIVADOS PARA LA PREVENCIÓN DEL DELITO;
+
+VI.- EJECUTAR, EN COORDINACIÓN CON LA INSTANCIA CORRESPONDIENTE, LOS PROGRAMAS DE PREVENCIÓN DEL DELITO;
+
+VII.- FORTALECER LAS ACCIONES INSTITUCIONALES ENCAMINADAS A LA PREVENCIÓN DEL CONSUMO DE DROGAS, BEBIDAS ALCOHÓLICAS Y TABACO, ESPECIALMENTE ENTRE LOS GRUPOS VULNERABLES;
+
+VIII.- FOMENTAR EL RESPETO A LA DIGNIDAD DE LA PERSONA Y LA PROMOCIÓN DE LA INTEGRACIÓN DE LA FAMILIA;
+
+IX.- FORTALECER LA CULTURA DE LA PREVENCIÓN DE LOS DELITOS Y EL RESPETO A LOS DERECHOS HUMANOS;
+
+X.- DISEÑAR Y REALIZAR CAMPAÑAS DE RESPETO A LA LEGALIDAD COMO MEDIO PARA EVITAR LA COMISIÓN DE DELITOS;
+
+XI.- PROMOVER LA PARTICIPACIÓN DE LOS MEDIOS DE COMUNICACIÓN EN LOS PROGRAMAS DE PREVENCIÓN DEL DELITO Y DE DIFUSIÓN DE LOS VALORES CÍVICOS;
+
+XII.- PROMOVER CON LAS AUTORIDADES EDUCATIVAS LA IMPLEMENTACIÓN DE PROGRAMAS ESCOLARES DE AUTOPROTECCIÓN;
+
+XIII.- PROMOVER PROGRAMAS INTERINSTITUCIONALES ORIENTADOS A LA PREVENCIÓN DE LA FARMACODEPENDENCIA;
+
+XIV.- PROMOVER LA COORDINACIÓN DE LOS TRES ÁMBITOS DE GOBIERNO Y DE LOS SECTORES DE LA SOCIEDAD EN LA ATENCIÓN DE LAS CAUSAS SOCIALES QUE PROPICIAN LA DELINCUENCIA; Y
+
+XV.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES APLICABLES O El DIRECTOR GENERAL DE POLÍTICA CRIMINAL Y PREVENCIÓN DEL DELITO EN EJERCICIO DE SUS ATRIBUCIONES.
+
+(REUBICADA [N. DE E. ANTES SECCION DECIMA TERCERA], P.O. 2 DE ENERO DE 2004)
+
+#### SECCIÓN DÉCIMA SÉPTIMA. DE LA DIRECCIÓN TÉCNICA DE INFRAESTRUCTURA Y SERVICIOS DE RADIO Y TELECOMUNICACIONES
+
+###### ARTÍCULO 43.
+
+LA DIRECCIÓN TÉCNICA DE INFRAESTRUCTURA Y SERVICIOS DE RADIO Y TELECOMUNICACIONES, TENDRÁ LAS SIGUIENTES FACULTADES:
+
+l.- MANTENER EN FUNCIONAMIENTO LOS EQUIPOS DE RADIO Y TELEFONÍA, DE LOS SISTEMAS DE EMERGENCIAS, TELECOMUNICACIONES Y TRONCAL DE RADIOCOMUNICACIONES DE LA SECRETARÍA;
+
+II.- FACILITAR Y APOYAR, EN EL ASPECTO TÉCNICO, LA COMUNICACIÓN ENTRE LAS CORPORACIONES DE AUXILIO Y SEGURIDAD, PÚBLICAS Y PRIVADAS, QUE PARTICIPEN EN OPERATIVOS DE EMERGENCIA;
+
+III.- APOYAR A LA DIRECCIÓN GENERAL DE SISTEMA DE COMPUTO, COMANDO, COMUNICACIONES Y CONTROL EN LA COORDINACIÓN Y ELABORACIÓN DE LOS PROGRAMAS DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE RADIO Y TELEFONÍA DE LA SECRETARÍA, DE ACUERDO A LOS PROGRAMAS ESTABLECIDOS;
+
+IV.- REALIZAR MONITOREOS COTIDIANOS A LOS SISTEMAS DE EMERGENCIAS, TELECOMUNICACIONES Y RADIOCOMUNICACIONES DE LA SECRETARIA;
+
+V.- SUPERVISAR Y VIGILAR EL ESTADO, FUNCIONAMIENTO Y USO DE LAS INSTALACIONES Y EQUIPOS DE EMERGENCIAS, TELECOMUNICACIONES Y RADIOCOMUNICACIONES DE LA SECRETARÍA;
+
+VI.- REALIZAR UNA SUPERVISIÓN CONSTANTE DE LOS RESPALDOS DE LA INFORMACIÓN GENERADA POR LOS SISTEMAS DE EMERGENCIAS, TELECOMUNICACIONES Y RADIOCOMUNICACIONES DE LA SECRETARIA;
+
+VII.- APOYAR CON SERVICIOS DE INFRAESTRUCTURA A LAS AUTORIDADES RELACIONADAS CON LA SEGURIDAD PÚBLICA DE LA FEDERACIÓN, ESTADO O MUNICIPIOS;
+
+VIII.- INTEGRAR TÉCNICAMENTE LOS SISTEMAS DE EMERGENCIAS, TELECOMUNICACIONES Y RADIO DE ENTIDADES FEDERALES, ESTATALES Y MUNICIPALES;
+
+IX.- GESTIONAR LO NECESARIO PARA EL MANTENIMIENTO Y REPARACIÓN DE LOS EQUIPOS DE EMERGENCIAS, TELECOMUNICACIONES Y RADIOCOMUNICACIONES;
+
+X.- COORDINAR Y MANTENER LA OPERACIÓN DEL CENTRO DE CÓMPUTO, COMANDO, COMUNICACIONES Y CONTROL, HACIENDO ACOPIO Y REGISTRANDO INFORMACIÓN EN MATERIA DE SEGURIDAD PÚBLICA Y EMERGENCIAS PARA INFORMAR A LA DIRECCIÓN DE PLANEACIÓN Y ESTADÍSTICA CRIMINOLÓGICA;
+
+XI.- COORDINAR Y MANTENER LA OPERACIÓN DEL SISTEMA DE EMERGENCIAS DEL ESTADO; Y
+
+XII.- LAS DEMÁS QUE LAS DISPOSICIONES LEGALES APLICABLES LE CONFIERAN O EL DIRECTOR GENERAL DE SISTEMA DE COMPUTO, COMANDO, COMUNICACIONES Y CONTROL EN EJERCICIO DE SUS ATRIBUCIONES.
+
+(REUBICADA [N. DE E. ANTES SECCION DECIMA CUARTA], P.O. 2 DE ENERO DE 2004)
+
+#### SECCIÓN DÉCIMA OCTAVA. DE LA DIRECCIÓN DE COORDINACIÓN Y CONTROL DE LOS CENTROS DE READAPTACIÓN SOCIAL
+
+###### ARTÍCULO 44.
+
+LA DIRECCIÓN DE COORDINACIÓN Y CONTROL DE LOS CENTROS DE READAPTACIÓN SOCIAL, TENDRÁ LAS SIGUIENTES FACULTADES:
+
+l.- PROPONER LA CELEBRACIÓN DE CONVENIOS CON LA FEDERACIÓN Y LOS MUNICIPIOS PARA EFICIENTAR LA EJECUCIÓN DE SANCIONES PRIVATIVAS DE LA LIBERTAD;
+
+II.- PROPONER EL TRASLADO DE INTERNOS DE LOS CENTROS DE READAPTACIÓN SOCIAL ESTATALES DE CONFORMIDAD A LOS LINEAMIENTOS ESTABLECIDOS POR LAS LEYES APLICABLES;
+
+III.- REALIZAR, CON ACUERDO DEL DIRECTOR GENERAL, VISITAS PERIÓDICAS A LOS CENTROS ESTATALES DE READAPTACIÓN SOCIAL CON EL OBJETO DE VERIFICAR LA OBSERVANCIA DE LA NORMATIVIDAD APLICABLE Y LA ADECUADA EJECUCIÓN DE LAS SANCIONES PRIVATIVAS DE LA LIBERTAD;
+
+IV.- BRINDAR ASESORÍA A LOS INTERESADOS SOBRE LA EJECUCIÓN DE SANCIONES;
+
+V.- ASESORAR AL PERSONAL DE LAS ÁREAS JURÍDICA, TÉCNICA, ADMINISTRATIVA Y DE SEGURIDAD DE LOS CENTROS DE READAPTACIÓN SOCIAL ESTATALES Y MUNICIPALES, A PETICIÓN DE ÉSTOS ÚLTIMOS, SOBRE EL DESEMPEÑO DE SUS FUNCIONES;
+
+VI.- PROPONER AL DIRECTOR GENERAL LA ADOPCIÓN DE POLÍTICAS Y MEDIDAS DE CARÁCTER GENERAL EN LOS CENTROS DE READAPTACIÓN SOCIAL ESTATALES PARA MANTENER LA SEGURIDAD, ORDEN Y DISCIPLINA;
+
+VII.- PROPONER AL DIRECTOR GENERAL LA REALIZACIÓN DE OPERATIVOS;
+
+VIII.- REALIZAR PROYECTOS DE INVESTIGACIÓN RELATIVOS A LA SEGURIDAD PENITENCIARIA Y LA READAPTACIÓN SOCIAL, A FIN DE AUXILIAR EN LA ORIENTACIÓN DE LA POLÍTICA CRIMINAL EN EL ÁMBITO DE LA EJECUCIÓN DE SANCIONES; Y
+
+IX.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES APLICABLES O EL DIRECTOR GENERAL DE EJECUCIÓN PENITENCIARIA Y READAPTACIÓN SOCIAL EN EJERCICIO DE SUS ATRIBUCIONES.
+
+(REUBICADA [N. DE E. ANTES SECCION DECIMA QUINTA], P.O. 2 DE ENERO DE 2004)
+
+#### SECCIÓN DÉCIMA NOVENA. DE LAS DIRECCIONES DE LOS CENTROS ESTATALES DE READAPTACIÓN SOCIAL
+
+###### ARTÍCULO 45.
+
+LAS DIRECCIONES DE LOS CENTROS ESTATALES DE READAPTACIÓN SOCIAL DEL ESTADO, TENDRÁN LAS SIGUIENTES FACULTADES:
+
+l.- SUPERVISAR LA CORRECTA APLICACIÓN DE LAS DISPOSICIONES LEGALES RELATIVAS A LA EJECUCIÓN DE SANCIONES PRIVATIVAS DE LA LIBERTAD;
+
+II.- REPRESENTAR AL CENTRO DE READAPTACIÓN SOCIAL ANTE CUALQUIER AUTORIDAD;
+
+III.- IMPONER LAS MEDIDAS CORRECTIVAS O, EN SU CASO, OTORGAR LAS MEDIDAS DE ESTÍMULO QUE AL EFECTO SE ESTABLEZCAN EN LAS DISPOSICIONES LEGALES APLICABLES;
+
+IV.- APOYAR OPERATIVAMENTE A LAS PRÁCTICAS DE INSPECCIONES Y REVISIONES A LOS CENTROS DE READAPTACIÓN SOCIAL CUANDO ASÍ LO INDIQUE SU DIRECTOR GENERAL;
+
+V.- RENDIR INFORMES PERIÓDICOS, AL DIRECTOR GENERAL, ACERCA DE LOS AVANCES EN MATERIA DE READAPTACIÓN SOCIAL DE LOS INTERNOS;
+
+VI.- TRAMITAR Y REMITIR A LA DIRECCIÓN GENERAL, LOS EXPEDIENTES DE LOS BENEFICIOS DE LIBERTAD, DE CONFORMIDAD CON LA NORMATIVIDAD APLICABLE;
+
+VII.- FORMULAR POR SI O POR CONDUCTO DEL SUBDIRECTOR LAS DENUNCIAS O QUERELLAS, ANTE LAS AUTORIDADES CORRESPONDIENTES, POR LA PRESUNTA COMISIÓN DE HECHOS DELICTUOSOS EN EL INTERIOR DEL CENTRO DE READAPTACIÓN SOCIAL;
+
+VIII.- ACORDAR CON EL DIRECTOR GENERAL, LOS TRASLADOS EXTERNOS DE LOS INTERNOS, DE CONFORMIDAD CON LA NORMATIVIDAD APLICABLE;
+
+IX.- EXPEDIR LOS MANUALES E INSTRUCTIVOS DE OPERACIÓN APLICABLES EN EL CENTRO DE READAPTACIÓN SOCIAL, DEBIENDO SOMETERLOS A LA APROBACIÓN DEL CONSEJO TÉCNICO INTERDISCIPLINARIO Y REMITIRLOS A LAS AUTORIDADES Y ORGANISMOS CORRESPONDIENTES;
+
+X.- EVITAR, POR SI O POR CONDUCTO DEL PERSONAL QUE DESIGNE, QUE EXISTAN PERSONAS DETENIDAS DENTRO DEL CENTRO DE READAPTACIÓN SOCIAL SIN QUE MEDIE MANDATO JUDICIAL O ADMINISTRATIVO;
+
+XI.- ORDENAR LA EXCARCELACIÓN DE LAS PERSONAS QUE SE ENCUENTREN EN LOS SUPUESTOS SEÑALADOS POR LA CONSTITUCIÓN GENERAL DE LA REPÚBLICA;
+
+XII.- ACORDAR LA DISTRIBUCIÓN INTERNA DEL TRABAJO ENTRE LAS SUBDIRECCIONES Y LA COORDINACIÓN DE GUARDIAS DE SEGURIDAD PENITENCIARIA;
+
+XIII.- CERTIFICAR EL EXPEDIENTE ÚNICO EN LOS CASOS DE TRASLADOS DE INTERNOS A OTROS CENTROS DE READAPTACIÓN SOCIAL; Y
+
+XIV.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES APLICABLES O EL DIRECTOR GENERAL DE EJECUCIÓN PENITENCIARIA Y READAPTACIÓN SOCIAL EN EJERCICIO DE SUS ATRIBUCIONES.
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
+
+#### SECCIÓN VIGÉSIMA. DE LA DIRECCIÓN DE SEGUIMIENTO A LIBERADOS
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2004)</small>
+
+ARTICULO 45 B (SIC).- LA DIRECCIÓN DE SEGUIMIENTO A LIBERADOS, COORDINARÁ Y APOYARÁ A LOS PATRONATOS PARA LA REINCORPORACIÓN SOCIAL POR EL EMPLEO, ASÍ COMO LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES APLICABLES O EL DIRECTOR GENERAL DE EJECUCIÓN PENITENCIARIA Y READAPTACIÓN SOCIAL.
+
+(REUBICADA [N. DE E. ANTES SECCION DECIMA SEXTA], P.O. 2 DE ENERO DE 2004)
+
+#### SECCIÓN VIGÉSIMA PRIMERA. DE LA DIRECCIÓN DEL SISTEMA ESTATAL PARA EL TRATAMIENTO DE MENORES INFRACTORES
+
+###### ARTÍCULO 46.
+
+LA DIRECCIÓN DEL SISTEMA ESTATAL PARA EL TRATAMIENTO DE MENORES INFRACTORES, TENDRÁ LAS SIGUIENTES FACULTADES:
+
+l.- COORDINAR LAS ACTIVIDADES ADMINISTRATIVAS INTERNAS DE LOS ÓRGANOS INTEGRANTES DEL SISTEMA;
+
+II.- PROVEER LO NECESARIO PARA EL EFICAZ DESEMPEÑO OPERATIVO DEL SISTEMA;
+
+III.- PROPONER LA CELEBRACIÓN DE CONVENIOS SOBRE LA MATERIA CON LAS AUTORIDADES FEDERALES Y MUNICIPALES;
+
+IV.- ELABORAR Y PROPONER LOS PROGRAMAS Y PRESUPUESTOS ANUALES DEL SISTEMA;
+
+V.- SUPERVISAR EL TRATO PRESTADO A LOS MENORES POR LOS DIFERENTES ÓRGANOS Y DEPARTAMENTOS Y EN GENERAL POR TODO EL PERSONAL DEL SISTEMA;
+
+VI.- ASESORAR A LOS INTERESADOS SOBRE EL FUNCIONAMIENTO Y ACTIVIDADES DEL SISTEMA;
+
+VII.- VIGILAR EL CUMPLIMIENTO DE LAS FUNCIONES DEL PERSONAL ADMINISTRATIVO DEL SISTEMA;
+
+VIII.- DISEÑAR Y EJECUTAR PROGRAMAS Y PROYECTOS ESTRATÉGICOS EN MATERIA DE PREVENCIÓN, PROCURACIÓN, ADMINISTRACIÓN Y EJECUCIÓN DE JUSTICIA PARA MENORES INFRACTORES;
+
+IX.- VIGILAR EL CUMPLIMIENTO DE LAS MEDIDAS IMPUESTAS POR LA COMISIÓN DICTAMINADORA DEL SISTEMA;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+X.- PRESENTAR INFORMES MENSUALES Y LOS QUE LE SEAN REQUERIDOS RELATIVOS DE SUS ACTIVIDADES POR EL SUBSECRETARIO DE SEGURIDAD;
+
+XI.- CONTACTAR CON ENTIDADES PÚBLICAS, PRIVADAS Y SOCIALES A FIN DE EFECTUAR TRÁMITES Y GESTIONES EN BENEFICIO DEL SISTEMA QUE SE REQUIERAN PARA EL BUEN FUNCIONAMIENTO, CONSERVACIÓN Y MANTENIMIENTO DE LAS INSTALACIONES;
+
+XII.- PRESTAR ATENCIÓN Y ASESORÍA A LOS MENORES INFRACTORES;
+
+XIII.- NOTIFICAR A LAS AUTORIDADES COMPETENTES SOBRE LA VIOLACIÓN DEL PROCEDIMIENTO O DE LOS DERECHOS HUMANOS DE LOS MENORES INFRACTORES;
+
+XIV.- LLEVAR EL ARCHIVO GENERAL DEL SISTEMA;
+
+XV.- VIGILAR LA SEGURIDAD DEL EDIFICIO QUE OCUPA EL SISTEMA, EN ESPECIAL LA REFERENTE AL CENTRO DE TRATAMIENTO; Y
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+XVI.- REALIZAR LAS DEMÁS FUNCIONES QUE LAS DISPOSICIONES LEGALES LE ATRIBUYAN, ASÍ COMO AQUÉLLAS QUE LE CONFIERA EL SUBSECRETARIO DE SEGURIDAD EN EJERCICIO DE SUS ATRIBUCIONES.
+
+(REUBICADA [N. DE E. ANTES SECCION DECIMA SEPTIMA], P.O. 2 DE ENERO DE 2004)
+
+#### SECCIÓN VIGÉSIMA SEGUNDA. DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA
+
+###### ARTÍCULO 47.
+
+LA DIRECCIÓN DE SEGURIDAD PÚBLICA, TENDRÁ LAS SIGUIENTES FACULTADES:
+
+I.- PLANEAR, PROGRAMAR Y EJECUTAR LOS OPERATIVOS Y DISPOSITIVOS DE SEGURIDAD PÚBLICA QUE LE SEAN AUTORIZADOS;
+
+II.- ORDENAR Y HACER CUMPLIR LAS ORDENES RECIBIDAS DE LA SUPERIORIDAD;
+
+III.- MANTENER LA DISCIPLINA DE LAS FUERZAS DE SEGURIDAD PÚBLICA Y VIGILAR QUE SE CUMPLA LA ORDENANZA;
+
+IV.- DIRIGIR LAS ACTIVIDADES DE LA ESCOLTA Y BANDA DE GUERRA; Y
+
+V.- LAS DEMÁS QUE LAS DISPOSICIONES LEGALES LE CONFIERAN O EL DIRECTOR GENERAL DE LAS FUERZAS DE SEGURIDAD PÚBLICA EN EJERCICIO DE SUS ATRIBUCIONES.
+
+(REUBICADA [N. DE E. ANTES SECCION DECIMA OCTAVA], P.O. 2 DE ENERO DE 2004)
+
+#### SECCIÓN VIGÉSIMA TERCERA. DE LA DIRECCIÓN DE POLICÍA ESTATAL DE CAMINOS
 
 ### CAPITULO VII. TRABAJOS EN FAVOR DE LA COMUNIDAD
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
 
-###### ARTICULO 48.
+###### ARTÍCULO 48.
 
-El trabajo en favor de la comunidad consiste en la prestación de servicios no remunerados en instituciones públicas, educativas o de asistencia social, o en instituciones privadas asistenciales y se desarrollará en forma que no resulte denigrante para el sentenciado, en jornadas de trabajo dentro de los periodos distintos al horario normal de sus labores, sin que exceda de la jornada extraordinaria que determine la ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora. Cada día-multa podrá substituirse por una jornada de trabajo en favor de la comunidad.
+LA DIRECCIÓN DE LA POLICÍA ESTATAL DE CAMINOS, TENDRÁ LAS SIGUIENTES FACULTADES:
 
-La extensión de la jornada de trabajo será fijada por el Ejecutivo tomando en cuenta las circunstancias del caso. Este beneficio no se concederá a los sentenciados por los delitos de homicidio calificado, parricidio, secuestro, robo de infante, previsto en el párrafo primero del Artículo 281, violación y robo calificado.
+I.- EJERCER VIGILANCIA DEL TRÁNSITO EN LAS CARRETERAS Y CAMINOS DE JURISDICCIÓN ESTATAL EN LOS TÉRMINOS DE LA NORMATIVIDAD APLICABLE;
+
+II.- ACORDAR CON EL DIRECTOR GENERAL DE LAS FUERZAS DE SEGURIDAD PÚBLICA LA REALIZACIÓN DE OPERATIVOS EN LAS CARRETERAS Y CAMINOS DE JURISDICCIÓN ESTATAL, TENDIENTES A CONSERVAR EL ORDEN Y LA TRANQUILIDAD, ASÍ COMO PARA PREVENIR Y, EN SU CASO, DETECTAR LA COMISIÓN DE DELITOS;
+
+III.- DENUNCIAR ANTE LA AUTORIDAD CORRESPONDIENTE SOBRE HECHOS POSIBLEMENTE CONSTITUTIVOS DE DELITO DE QUE SE TENGA CONOCIMIENTO;
+
+IV.- COLABORAR EN LOS SERVICIOS DE PROTECCIÓN CIVIL;
+
+V.- PROPONER LA CELEBRACIÓN DE CONVENIOS DE APOYO SOBRE LA SEGURIDAD EN LOS CAMINOS DE LA ENTIDAD CON AUTORIDADES FEDERALES O MUNICIPALES;
+
+VI.- PARTICIPAR EN CUALQUIER ACCIÓN ORDENADA POR LA SUPERIORIDAD, TENDIENTE A CONSERVAR O RESTABLECER EL ORDEN, LA TRANQUILIDAD Y LA SEGURIDAD DEL ESTADO; Y
+
+VII.- LAS DEMÁS QUE LAS DISPOSICIONES LEGALES APLICABLES LE CONFIERAN O EL DIRECTOR GENERAL DE LAS FUERZAS DE SEGURIDAD PÚBLICA EN EJERCICIO DE SUS ATRIBUCIONES.
+
+(REUBICADA [N. DE E. ANTES SECCION DECIMA NOVENA], P.O. 2 DE ENERO DE 2004)
+
+#### SECCIÓN VIGÉSIMA CUARTA. DE LA DIRECCIÓN DE POLICÍA GANADERA
 
 ### CAPITULO VIII. PUBLICACION DE SENTENCIA CONDENATORIA
 
-###### ARTICULO 49.
+###### ARTÍCULO 49.
 
-La publicación de sentencia condenatoria consiste en la inserción total o parcial de ella hasta en dos periódicos que circulen en el Distrito Judicial en que se dicte la sentencia o en la capital del Estado, o por cualquier otro medio de comunicación social los cuales serán señalados por el Juez, quien resolverá la forma en que deberá hacerse la publicación.
+LA DIRECCIÓN DE LA POLICÍA GANADERA, TENDRÁ LAS SIGUIENTES FACULTADES:
 
-La publicación se hará a costa del delincuente, si ésto no es posible y lo solicita el ofendido, se hará a costa de éste o del Estado.
+I.- COADYUVAR A MANTENER EL ORDEN EN LAS COMUNIDADES RURALES DEL ESTADO, PRESERVANDO LA SEGURIDAD EN LA PROPIEDAD GANADERA;
 
-La publicación procederá a criterio del Juez, en delitos contra el honor de personas.
+II.- COADYUVAR EN LO QUE A SU MATERIA COMPETE A LA DEFINICIÓN, APLICACIÓN Y SEGUIMIENTO DE LAS DIRECTRICES DEL PLAN DE GOBIERNO DEL ESTADO;
 
-Si el delito por el que se impuso la publicación de sentencia, fué cometido a través de un medio de comunicación social, además de la publicación a que se refiere este artículo, se hará también por el medio empleado al cometer el delito, con las mismas características que se hubieren utilizado.
+III.- APLICAR PROGRAMAS ESTATALES Y MUNICIPALES TENDIENTES A LA PREVENCIÓN DEL DELITO DE ROBO DE GANADO;
+
+IV.- SUPERVISAR LA CORRECTA APLICACIÓN DE LA NORMATIVIDAD EN EL TRANSPORTE DE ESPECIES PECUARIAS, SUS PRODUCTOS Y SUBPRODUCTOS;
+
+V.- SUPERVISAR EL CUMPLIMIENTO DE LAS DISPOSICIONES DE LA LEY GANADERA EN LOS RASTROS AUTORIZADOS Y MATADEROS;
+
+VI.- DECOMISAR LOS ANIMALES, LAS CANALES O PIEZAS, PRODUCTOS SUBPRODUCTOS QUE SE ENCUENTREN EN LOS RASTROS CLANDESTINOS, PONIÉNDOLAS A DISPOSICIÓN DE LA AUTORIDAD COMPETENTE;
+
+VII.- PONER A DISPOSICIÓN DE LAS AUTORIDADES MUNICIPALES LOS ANIMALES MOSTRENCOS, DANDO AVISO A LA ASOCIACIÓN GANADERA;
+
+VIII.- COADYUVAR CON LAS AUTORIDADES SANITARIAS ESTATALES Y FEDERALES EN LA APLICACIÓN DE LAS MEDIDAS DE SEGURIDAD ZOOSANITARIA QUE DICTEN LAS AUTORIDADES COMPETENTES; Y
+
+IX.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES O EL DIRECTOR GENERAL DE LAS FUERZAS DE SEGURIDAD PÚBLICA EN EJERCICIO DE SUS ATRIBUCIONES.
 
 ### CAPITULO IX. DESTITUCION
 
 ###### ARTICULO 50.
 
-La destitución consiste en la separación del reo de su cargo, función o empleo cuando tenga el carácter de servidor público en los casos que prevengan las leyes.
-
-SUBTITULO SEGUNDO
-
-DE LAS MEDIDAS DE SEGURIDAD
+LA SECRETARÍA CONTARÁ CON UNA SECRETARÍA PARTICULAR, QUIEN REALIZARÁ LA PROGRAMACIÓN DE SUS ACTIVIDADES, LA ATENCIÓN DE LA AUDIENCIA AL PÚBLICO, EL ESTUDIO Y ANÁLISIS DE LOS ASUNTOS DE SU COMPETENCIA Y EL MANEJO DE LA CORRESPONDENCIA OFICIAL, ASÍ COMO LAS FUNCIONES QUE EXPRESAMENTE LE ASIGNE EL SECRETARIO.
 
 ### CAPITULO X. VIGILANCIA DE LA AUTORIDAD
 
 ###### ARTICULO 51.
 
-La vigilancia de la autoridad tendrá un doble carácter:
-
-I.- La que se impone por disposición expresa de la Ley, y
-
-II.- La que se podrá imponer, discrecionalmente a los responsables de delitos de robo, lesiones y homicidio dolosos, y aquellos casos en que el Juez lo considere conveniente.
-
-En el primer caso la duración de la vigilancia será señalada en la sentencia. En el segundo, la vigilancia comenzará a partir del momento en que el sentenciado extinga la pena de prisión y no podrá exceder de un lapso de cinco años.
+LA SECRETARÍA PARTICULAR SE APOYARÁ PARA EL MANEJO DE LA CORRESPONDENCIA EN LA UNIDAD CENTRAL DE CORRESPONDENCIA Y ARCHIVO ADSCRITA A LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN.
 
 ### CAPITULO XI. SUSPENSION, PRIVACION E INHABILITACION
 
@@ -523,35 +1395,25 @@ DE DERECHOS Y FUNCIONES
 
 ###### ARTICULO 52.
 
-La suspensión consiste en la pérdida temporal de derechos y funciones y puede ser de dos clases:
+LA SECRETARÍA CONTARÁ CON LOS ASESORES QUE REQUIERA Y PERMITA SU PRESUPUESTO.
 
-I.- La que por ministerio de Ley es consecuencia necesaria de otra pena; y
+###### ARTÍCULO 53.
 
-II.- La que se impone como pena independiente.
+LOS ASESORES SERÁN PERSONAS CALIFICADAS EN ALGUNA RAMA DE CONOCIMIENTO DE SEGURIDAD PÚBLICA Y SE ENCARGARÁN DE REALIZAR LOS ESTUDIOS ESPECÍFICOS Y EVALUAR LOS PROYECTOS QUE SE LES ENCOMIENDEN.
 
-En el primer caso, la suspensión comienza y concluye con la pena de que es consecuencia.
+###### ARTÍCULO 54.
 
-En el segundo caso, si se impone con otra pena privativa de libertad, comenzará al quedar compurgada ésta. Si la suspensión no va acompañada de prisión, empezará a contar desde que cause ejecutoria la sentencia. En caso de que el reo se vea beneficiado con condena condicional, la suspensión comenzará a contarse a partir de la fecha en que cause ejecutoria la sentencia.
-
-###### ARTICULO 53.
-
-La prisión suspende o interrumpe los derechos políticos y de tutela, curatela, apoderado, defensor, albacea, perito, depositario o interventor judicial, síndico o interventor en quiebra, árbitro, arbitrador o representante de ausentes. En todo caso, una vez que causa ejecutoria la sentencia el órgano jurisdiccional comunicará al Registro Nacional de Electores, la suspensión de derechos políticos impuestos al reo.
-
-###### ARTICULO 54.
-
-La privación es la pérdida definitiva de derechos y funciones y surtirá sus efectos desde el momento en que cause ejecutoria la sentencia.
+PARA El DESPACHO DE LOS ASUNTOS DE SU COMPETENCIA, LA SECRETARÍA DE SEGURIDAD PÚBLICA PODRÁ CONTAR CON ÓRGANOS DESCONCENTRADOS QUE LE ESTARÁN JERÁRQUICAMENTE SUBORDINADOS Y TENDRÁN FACULTADES ESPECÍFICAS PARA RESOLVER SOBRE LA MATERIA Y DENTRO DEL ÁMBITO TERRITORIAL QUE SE DETERMINE EN CADA CASO, DE CONFORMIDAD CON LAS DISPOSICIONES LEGALES APLICABLES.
 
 ###### ARTICULO 55.
 
-La inhabilitación consiste en la incapacidad temporal o definitiva para obtener y ejercer derechos o funciones.
-
-Son aplicables a la inhabilitación las disposiciones contenidas en el artículo 52 de este Código.
+LA SECRETARÍA DE SEGURIDAD PÚBLICA EJERCERÁ LAS FUNCIONES DE COORDINADORA DEL SECTOR EN LOS TÉRMINOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO, DE LOS ORGANISMOS DESCENTRALIZADOS QUE ATENDIENDO A SU OBJETO Y ATRIBUCIONES LE ESTÉN SECTORIZADOS, EXPRESAMENTE A TRAVÉS DE DECRETO GUBERNATIVO.
 
 ### CAPITULO XII. CONFINAMIENTO
 
 ###### ARTICULO 56.
 
-El confinamiento consiste en la obligación de residir en determinada circunscripción territorial y no salir de ella. El órgano jurisdiccional hará la designación de la circunscripción y fijará el término de su duración, que no excederá de cinco años conciliando las exigencias de la tranquilidad pública con las circunstancias personales del sentenciado.
+EL SECRETARIO DE SEGURIDAD PÚBLICA, SERÁ SUPLIDO EN SUS AUSENCIAS POR EL SUBSECRETARIO QUE AL EFECTO DESIGNE.
 
 ### CAPITULO XIII. PROHIBICION DE IR A UNA CIRCUNSCRIPCION
 
@@ -559,13 +1421,13 @@ TERRITORIAL DETERMINADA O DE RESIDIR EN ELLA
 
 ###### ARTICULO 57.
 
-El órgano jurisdiccional, tomando en cuenta las circunstancias del delito y las propias del delincuente, podrá disponer que éste no vaya a una circunscripción territorial determinada o que no resida en ella, esta prohibición no excederá de cinco años.
+LOS SUBSECRETARIOS Y DEMÁS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA, SERÁN SUPLIDOS EN SUS AUSENCIAS POR EL FUNCIONARIO QUE AL EFECTO DESIGNE EL SECRETARIO O SUBSECRETARIO DEL RAMO.
 
 ### CAPITULO XIV. DECOMISO, DESTRUCCION Y AMPLIACION DE LOS INSTRUMENTOS Y OBJETOS RELACIONADOS CON EL DELITO
 
-###### ARTICULO 58.
+###### ARTÍCULO 58.
 
-El decomiso consiste en la pérdida de la propiedad o posesión de los instrumentos del delito así como las cosas que sean objeto o producto de él si son de uso prohibido; si son de uso lícito, se decomisarán cuando el delito sea doloso o preterintencional, y si pertenecieran a un tercero se decomisarán siempre que éste tenga conocimiento de su utilización para la realización del delito. Tratándose de armas, en todo caso serán decomisadas.
+LAS RELACIONES ENTRE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y LOS TRABAJADORES QUE PRESTAN SUS SERVICIOS EN LA MISMA, SE REGIRÁN POR LO DISPUESTO EN LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS.
 
 ###### ARTICULO 59.
 
@@ -2979,45 +3841,71 @@ V.- Impida indebidamente la reunión de una asamblea o manifestación pública, 
 
 ## TRANSITORIOS
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO PRIMERO.
 
-Este Código entrará en vigor a los (60) sesenta días de su publicación en el Periódico Oficial del Estado.
+EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL CUARTO DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2002)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+LA DIRECCIÓN GENERAL DE LAS FUERZAS DE SEGURIDAD PÚBLICA. A TRAVÉS DE LA POLICÍA ESTATAL DE CAMINOS, EJERCERÁ LAS FUNCIONES EN RELACIÓN CON LA VIGILANCIA DEL TRÁNSITO EN LAS VÍAS DE COMUNICACIÓN ESTATALES, QUE CORRESPONDÍAN A LA DIRECCIÓN GENERAL DE TRÁNSITO Y TRANSPORTE, DE ACUERDO CON EL PLAN OPERATIVO ADMINISTRATIVO CONVENIDO CON LA SECRETARIA DE GOBIERNO, SE HA DIVIDIDO EL TERRITORIO DEL ESTADO EN CINCO SECCIONES, POR LO QUE LA TRANSFERENCIA DE CADA UNA DE ELLAS SE REALIZARA CONFORME AL ORDEN SIGUIENTE:
+
+SECTOR CINCO GUANAJUATO, ALLENDE, DOLORES HIDALGO Y JUVENTINO ROSAS.
+
+ETAPA NÚMERO 1
+
+SECTOR DOS PÉNJAMO, MANUEL DOBLADO, HUANIMARO, ABASOLO, IRAPUATO, PUEBLO NUEVO, CUERAMARO Y SALAMANCA
+
+ETAPA NÚMERO 2
+
+SECTOR UNO OCAMPO, SAN FELIPE, SAN DIEGO, SILAO, ROMITA, SAN FRANCISCO DEL RINCÓN Y PURÍSIMA
+
+ETAPA NÚMERO 3
+
+SECTOR TRES SALVATIERRA, TARIMORO, SANTIAGO MARAVATÍO, CORTAZAR. VILLAGRÁN, JARAL DEL I PROGRESO, MOROLEÓN, YURIRIA, URIANGATO, ACÁMBARO, JERÉCUARO, CORONEO, TARANDACUAO, VALLE DE SANTIAGO, CELAYA, APASEO EL ALTO Y APASEO EL GRANDE.
+
+ETAPA NÚMERO 4
+
+SECTOR CUATRO: SAN JOSÉ ITURBIDE, TIERRA BLANCA, DR. MORA, SANTA CATARINA, SAN LUIS DE LA PAZ., VICTORIA, XICHÚ Y ATARJEA.
+
+ETAPA NÚMERO 5
+
+EL PROCESO ANTERIOR, COMENZARÁ A PARTIR DEL 31 TREINTA Y UNO DE AGOSTO, CON LA PRIMERA ETAPA PARA CONTINUAR DE MANERA PROGRESIVA CON LAS SIGUIENTES, HASTA CONCLUIR CON LA QUINTA ETAPA EL 31 DE DICIEMBRE DEL AÑO EN CURSO.
+
+###### ARTÍCULO TERCERO.
+
+LAS ÁREAS DE SEGURIDAD QUE ACTUALMENTE SE ENCUENTRAN EN FUNCIONES Y QUE POR VIRTUD DEL PRESENTE ORDENAMIENTO CAMBIEN DE DENOMINACIÓN, CONTINUARÁN CON LA NOMENCLATURA ORIGINAL HASTA EN TANTO SE REALICEN LAS REFORMAS LEGALES PROCEDENTES.
+
+DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE GUANAJUATO, GTO., A LOS 27 VEINTISIETE DÍAS DEL MES DE DICIEMBRE DEL AÑO 2001 DOS MIL UNO.
+
+JUAN CARLOS ROMERO HICKS
+
+EL SECRETARIO DE GOBIERNO
+
+JUAN MANUEL OLIVA RAMÍREZ
+
+SECRETARIO DE SEGURIDAD PÚBLICA
+
+FELIPE ARTURO CAMARENA GARCÍA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE AGOSTO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+EL PRESENTE DECRETO GUBERNATIVO ENTRARÁ EN VIGOR EL CUARTO DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.
 
 ###### ARTICULO SEGUNDO.
 
-A partir de la fecha señalada en el artículo anterior, se deroga el Código Penal de fecha 29 de Junio de 1983, publicado en el Periódico Oficial del Estado los días 21, 24, 28 y 31 de Junio; 4 y 7 de Agosto de 1983 y todas las normas que se opongan al presente Decreto.
+SE DEROGAN TODAS LAS DISPOSICIONES ADMINISTRATIVAS QUE SE OPONGAN AL PRESENTE.
 
-El Ciudadano Gobernador Constitucional del Estado, dispondrá se publique, circule y observe.
+P.O. 2 DE ENERO DE 2004.
 
-Dado en el Salón de Sesiones del H. Congreso del Estado en Victoria de Durango, Dgo., a los (3) tres días del mes de Julio del año de (1991) mil novecientos noventa y uno.
+###### ARTÍCULO ÚNICO.
 
-DIP. RICARDO FIDEL PACHECO RODRIGUEZ.- PRESIDENTE. DIP. SOLEDAD RUEDA DE LEON.- SECRETARIA. DIP. LORENZO ORTEGA FLORES.- SECRETARIO.- RUBRICAS.
-
-Por tanto mando se imprima, publique, circule y comuníquese a quines (sic) corresponda para su exacta observancia.
-
-DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los tres días del mes de Julio de mil novecientos noventa y uno.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
-
-LIC. JOSE RAMIREZ GAMERO. Rúbrica.
-
-EL SECRETARIO GENERAL DE GOBIERNO.
-
-LIC. SALVADOR MENDIVIL HERNANDEZ. Rúbrica.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
-
-P.O. 11 DE JUNIO DE 1992.
-
-###### ARTICULO PRIMERO.
-
-Este Decreto entrará en vigor al tercer día siguiente al de su Publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Se derogan todas las disposiciones legales que se opongan al presente.
-
-P.O. 17 DE JULIO DE 1994.
+EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL CUARTO DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.
 
 ###### ARTICULO PRIMERO.
 
