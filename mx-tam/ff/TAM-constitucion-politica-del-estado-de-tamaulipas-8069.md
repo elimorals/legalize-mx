@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1987-01-21"
+last_updated: "1988-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1988.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1127,29 +1127,37 @@ El Ejecutivo a su vez, tendrá un "Subsecretario General de Gobierno", cuyas fun
 
 ### CAPITULO I. De la Administración de Justicia
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### Art. 100.
 
-El Poder Judicial en el Estado de Tamaulipas se deposita para su ejercicio en el Supremo Tribunal de Justicia, en los Juzgados de Primera Instancia, en los Juzgados Conciliadores y en los Tribunales y Jurados que en lo sucesivo establezca la Ley, salvo las excepciones determinadas por esta Constitución.
+El Poder Judicial del Estado se deposita para su ejercicio en el Supremo Tribunal de Justicia, en los Juzgados de Primera Instancia, en los Juzgados Menores y en los Tribunales y Jurados que en lo sucesivo establezca la Ley, salvo excepciones determinadas por esta Constitución.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
+El sexenio judicial se inicia el 16 de enero del año siguiente a la elección de Gobernador y Diputados.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### Art. 101.
 
+La justicia se imparte por el Estado a través de la función jurisdiccional y ésta se ejerce por Magistrados y Jueces integrantes del Poder Judicial, independientes, imparciales, responsables y sometidos únicamente al imperio de la Ley.
+
 Ningún otro Poder, salvo cuando el Congreso actúe como Jurado, podrá ejercer funciones judiciales.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### Art. 102.
 
-Los funcionarios judiciales en ningún caso podrán suspender el cumplimiento de la Leyes, ni reglamentar la administración de justicia.
+. Los Servidores Públicos del Poder Judicial del Estado, en ningún caso podrán suspender el cumplimiento de las leyes, ni reglamentar la administración de justicia. El Supremo Tribunal de Justicia aplicará los fondos y recursos económicos de que disponga para el mejoramiento de las condiciones de trabajo de los Servidores Públicos del Poder Judicial, como lo disponga la Ley.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### Art. 103.
 
 Las Leyes determinarán las formalidades de los procedimientos judiciales.
+
+Es obligatorio cumplir las sentencias y demás resoluciones firmes del Supremo Tribunal de Justicia, de los Magistrados y de los Jueces, así como prestar la colaboración solicitada por éstos en el curso del proceso y en la ejecución de lo resuelto.
+
+La autoridad requerida en forma para el cumplimiento de una orden judicial, sin cuestionarla, deberá proporcionar los elementos necesarios para ello, y si no lo hace, se le impondrán las sanciones que la Ley determina.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
 
@@ -1163,29 +1171,31 @@ En ningún juicio podrá haber más de dos instancias.
 
 El Magistrado o Juez que haya conocido de un juicio en una instancia, no podrá hacerlo en la otra.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### Art. 106.
 
-Los delitos imputables a servidores públicos, producen acción popular contra los Magistrados, Jueces, Secretarios o empleados judiciales que los cometan y sus cómplices.
+Los delitos imputables a Servidores Públicos de la administración de justicia, producen acción popular contra los mismos y sus cómplices.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 8 DE ENERO DE 1966)</small>
 
 ###### Art. 107.
 
-El Supremo Tribunal de Justicia se integra con siete Magistrados y funcionará bajo la presidencia anual de uno de ellos en Acuerdo Pleno o por Salas, en la forma que determine la Ley.
+El Supremo Tribunal de Justicia se integra con siete Magistrados de Número y dos Supernumerarios y funcionará bajo la presidencia de uno de los Numerarios en Pleno o por Salas, en la forma que determine la Ley. El Presidente designado será el órgano de representación del Poder Judicial. Los Magistrados serán inamovibles. Los Jueces de Primera Instancia durarán en su cargo tres años y serán inamovibles si son ratificados.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1980)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### Art. 108.
 
-Los magistrados serán electos por el Congreso, erigido en Colegio Electoral, por el voto de las dos terceras partes o más de los diputados que lo integran. Durarán en el cargo seis años, y si son reelectos, pasarán a ser inamovibles, pudiendo ser solo separados en los términos del Artículo 110 de esta Constitución. En los recesos del Congreso, la Diputación Permanente nombrará magistrados con el carácter de provisionales para suplir las faltas temporales de los propietarios.
+Los Magistrados serán electos por el Congreso, erigido en Colegio Electoral, por el voto de las dos terceras partes o más de los Diputados que lo integran.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1980)</small>
+Los Magistrados y Jueces serán nombrados preferentemente entre aquellas personas que hayan prestado sus servicios con eficacia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes con otras ramas de la profesión jurídica. Son causas de retiro forzoso, de los Magistrados y Jueces, haber cumplido setenta años de edad o padecer incapacidad física incurable o mental, incluso cuando ésta fuere parcial o transitoria, que lo imposibilite para el desempeño de su función.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### Art. 109.
 
-El sexenio judicial se inicia el 16 de enero del año siguiente a la elección de Gobernador y Diputados.
+La Ley Orgánica del Poder Judicial, establecerá lo relativo a la carrera judicial, precisando los sistemas de ascenso, escalafón y provisión de vacantes, así como la necesidad de aprobar examen de oposición o concurso de méritos para el ingreso a los Juzgados de Primera Instancia. Así mismo, deberá preverse la creación de un Centro de Actualización Judicial.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -1193,21 +1203,21 @@ El sexenio judicial se inicia el 16 de enero del año siguiente a la elección d
 
 Durante su encargo los Magistrados y Jueces podrán ser separados en los términos del Título XI de esta Constitución. Cuando dichos funcionarios no cumplan debidamente sus funciones, el Congreso, si se trata de un Magistrado y el Supremo Tribunal si se trata de un Juez, podrán separarlos de plano de su encargo si a su juicio consideran fundada la separación.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### Art. 111.
 
-Para ser Magistrado se requiere:
+Para ser Magistrado del Supremo Tribunal de Justicia se requiere:
 
-I. Ser ciudadano mexicano en ejercicio de sus derechos.
+I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Ser abogado recibido conforme a las leyes, con cinco años cuando menos de práctica profesional.
+II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco el día de la elección;
 
-III. Ser mayor de treinta años de edad-
+III.- Poseer el día de la elección, con antigüedad mínima de cinco años, título profesional de abogado expedido por autoridad o institución legalmente facultada para ello;
 
-IV. Gozar de buena reputación.
+IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y,
 
-V. No ser militar ni ministro de algún culto, esté o no en ejercicio.
-
-VI. No haber sido condenado por algún delito grave del orden común.
+V.- Haber residido en el País durante los últimos cinco años, salvo el caso de ausencia en el servicio de la República por un tiempo menor de seis meses.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1953)</small>
 
@@ -1219,15 +1229,15 @@ No podrán formar parte del Tribunal tres o más Magistrados que sean parientes 
 
 Los Magistrados al entrar a desempeñar su cargo, rendirán ante el Congreso, o en sus recesos ante la Diputación Permanente, la siguiente protesta: Presidente.- "¿Protéstais guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, así como también las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión y del Estado?." – Magistrado. "Si protesto." – Presidente. "Si no lo hiciéreis así, la Nación y el Estado os lo demandarán".
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### Art. 114.
 
-Son facultades y obligaciones del Supremo Tribunal de Justicia.
+Son atribuciones del Pleno del Supremo Tribunal de Justicia:
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
 
-I.- Conocer de la ejecución de las sentencias ejecutorias pronunciadas por los Tribunales de Justicia contra el Estado, los Municipios y sus Entidades Autónomas;
+I.- Conocer, a través de la Presidencia, de las controversias del orden civil que se susciten entre los particulares y el Estado o los Ayuntamientos.
 
 II.- Dirimir las competencias que surjan entre las Autoridades Judiciales del Estado, en los términos de las Leyes respectivas.
 
@@ -1235,39 +1245,67 @@ II.- Dirimir las competencias que surjan entre las Autoridades Judiciales del Es
 
 III.- Erigirse en Jurado de sentencia para conocer las causas que se instruyan contra servidores públicos conforme a lo dispuesto en el Título XI de esta Constitución.
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
 
-IV.- Conocer y fallar en única instancia las causas que se instruyan contra alguno de sus miembros, contra los Jueces de Primera Instancia y Jueces Conciliadores por delitos cometidos en el ejercicio de sus funciones, y de las que deban substanciarse contra los Secretarios del mismo Tribunal, por faltas y abusos cometidos en el desempeño de sus empleos.
+IV.- Conocer y fallar en única instancia las causas que se instruyan contra alguno de sus miembros, contra los Jueces de Primera Instancia y Jueces Menores por delitos cometidos en el ejercicio de sus funciones y de las que deban substanciarse contra los Secretarios del mismo Tribunal, por faltas y abusos cometidos en el desempeño de sus empleos.
 
 V.- Conocer en segunda instancia de los asuntos civiles o penales que al efecto remitan los jueces de primera instancia.
 
 VI.- Iniciar ante el Congreso, Leyes tendientes a mejorar la Administración de Justicia.
 
-VII.- Elegir Presidente del Tribunal, por mayoría de votos de los Magistrados presentes en la Sesión Plenaria Ordinaria inmediata posterior al día 15 del mes de enero, de cada año; y podrá ser reelecto.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+VII.- Elegir Presidente por mayoría de votos de los Magistrados de Número, en la sesión plenaria ordinaria inmediata posterior al día 15 de enero del año en que se inicie el sexenio judicial, pudiendo ser reelecto.
 
 > <small>(REFORMADA, P.O. 4 DE JUNIO DE 1980)</small>
 
 VIII.- Nombrar a los jueces de Primera Instancia, removerlos y cesarlos en los casos en que la ley lo establezca.
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
 
-IX.- Nombrar a los Jueces Conciliadores, removiéndolos y cesándolos en los casos que la Ley lo establezca.
+IX.- Nombrar a los Jueces Menores, removerlos y cesarlos, en los casos que la ley lo establezca.
 
 > <small>(REFORMADA, P.O. 4 DE JUNIO DE 1980)</small>
 
 X.- Nombrar, remover y cesar por causa justificada al Secretario de Acuerdos, a los secretarios de las salas y de los juzgados y demás personal subalterno, cuando así convenga a la mejor administración de la justicia.
 
-XI.- Conceder licencias hasta por un mes a los funcionarios y empleados del Poder Judicial.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+XI.- Conceder licencias hasta por un mes a los Servidores Públicos del Poder Judicial.
 
 XII.- Formular su Reglamento Interior.
 
-XIII.- Conocer de las quejas formuladas contra los funcionarios y empleados del Poder Judicial.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+XIII.- Conocer de las quejas formuladas contra los Servidores Públicos del Poder Judicial.
 
 > <small>(REFORMADA, P.O.6 DE FEBRERO DE 1982)</small>
 
 XIV.- Rendir, por conducto de su Presidente, un Informe Anual del estado que guarda la Administración de Justicia, en Sesión Pública y Solemne del Congreso que se verificará durante la segunda quincena del mes de febrero en los primeros cinco años del sexenio judicial. En el sexto año se realizará en los primeros quince días del mes de enero; y
 
-XV.- Las demás facultades y obligaciones que señalan las Leyes.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+XV.- Delegar en el Presidente las atribuciones que considere procedentes.
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+XVI.- Proponer el presupuestos anual de egresos al Poder Legislativo, para su aprobación.
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+XVII.- Ejercer el presupuesto que le sea aprobado.
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+XVIII.- Establecer remuneración adecuada e irrenunciable para Magistrados y Jueces, la cual no podrá ser disminuída durante su encargo. En los casos de retiro forzoso, jubilación, incapacidad o defunción, las prestaciones se cubrirán en los términos que establezcan las leyes.
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+XIX.- Constituir, modificar, suprimir o aumentar las dependencias administrativas que sean necesarias para la buena marcha de la administración de justicia; y,
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+XX.- Las demás facultades y obligaciones que señalen las leyes.
 
 ###### Art. 115.
 
@@ -1281,35 +1319,35 @@ En las causas que hubiere de formarse a todos los Magistrados en funciones, una 
 
 ### CAPITULO II.. DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 1981)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### Art. 117.
 
-Los Tribunales Inferiores para la Administración de Justicia, estarán a cargo de los Jueces de Primera Instancia y de los Jueces Conciliadores.
+Los Tribunales inferiores para la administración de justicia, estarán a cargo de los Jueces de Primera Instancia y de los Jueces Menores.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### Art. 118.
 
-Los Jueces de Primera Instancia del Estado serán nombrados por el Supremo Tribunal de Justicia en pleno. Se podrán designar dos o más Jueces de Primera Instancia con Jurisdicción independiente en los ramos civil y penal, para un mismo Distrito Judicial, cuando el número de negocios lo haga necesario.
+Los Jueces de Primera Instancia y los Menores serán nombrados por el Supremo Tribunal de Justicia en Pleno.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### Art. 119.
 
-Los Jueces Conciliadores funcionarán cuando menos uno en cada Municipio.
+Los Juzgados Menores funcionarán en aquellos Municipios que el Pleno del Supremo Tribunal de Justicia considere necesario.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### Art. 120.
 
-La ley determinará el número de Distritos Judiciales en que se divide el Estado; el número de Jueces de Primera Instancia y de Jueces Conciliadores; sus requisitos, su competencia, su circunscripción territorial, la duración de sus funciones, la dotación de empleados y todo lo relativo a su organización.
+La Ley determinará los distritos judiciales en que se divida el Estado; el número de Jueces de Primera Instancia y de Jueces Menores; sus requisitos, su competencia, jurisdicción, duración de sus funciones, número de empleados y todo lo relativo a su organización; lo cual podrá ser modificado por el Pleno del Supremo Tribunal de Justicia cuando lo estime conveniente, con la sola obligación de publicar esta resolución en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### Art. 121.
 
-Los Juzgados de Primera Instancia y los Conciliadores serán sostenidos por el Estado.
+Los Juzgados de Primera Instancia y los Menores serán sostenidos por el Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
 
@@ -1317,17 +1355,17 @@ Los Juzgados de Primera Instancia y los Conciliadores serán sostenidos por el E
 
 Los Jueces de Primera Instancia antes de tomar posesión de su empleo, otorgarán la protesta de estilo ante el Supremo Tribunal de Justicia.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### Art. 123.
 
-Los Jueces Conciliadores otorgarán la protesta de Ley ante el Juez de Primera Instancia del respectivo Distrito Judicial.
+Los Jueces Menores otorgarán la protesta de ley ante el Juez de Primera Instancia del respectivo Distrito Judicial, que designe el Pleno del Supremo Tribunal de Justicia del Estado.
 
 ## TITULO VII. DEL MINISTERIO PUBLICO
 
 ### CAPITULO III. De los Tribunales Inferiores
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### Art. 124.
 
@@ -1365,11 +1403,11 @@ Una ley reglamentará la organización de la Defensoría de Oficio y los requisi
 
 ### CAPITULO UNICO. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### Art. 130.
 
-Las funciones políticas y administrativas de carácter municipal, serán desempeñadas por los Ayuntamientos y las Judiciales por los Jueces Conciliadores.
+Las funciones políticas y administrativas de carácter municipal, serán desempeñadas por los Ayuntamientos y las Judiciales por los Jueces Menores.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1983)</small>
 
@@ -2282,3 +2320,9 @@ Se derogan las disposiciones que se opongan a la presente Ley.
 ###### ARTICULO CUARTO.
 
 Publíquese en el Periódico Oficial del Estado para su conocimiento y efectos.
+
+P.O. 22 DE JUNIO DE 1988.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor treinta días después al de su publicación en el Periódico Oficial del Estado.
