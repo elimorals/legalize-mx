@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2001-04-12"
+last_updated: "2001-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -4750,6 +4750,16 @@ Otorgada la escritura se darán al comprador los títulos de propiedad, apremian
 
 Con el precio se pagará al acreedor hasta donde alcance y si hubiere costas pendientes de liquidar, se mantendrá en depósito la cantidad que se estime bastante para cubrirlas, hasta que sean aprobadas las que faltaren de pagarse; pero si el ejecutante no formula su liquidación dentro de los ocho días siguientes al en que se hizo el depósito, a solicitud del ejecutado, podrá el Juez ordenar la devolución.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+En el caso de créditos con garantía hipotecaria para adquisición de vivienda que sea susceptible de integrar el Patrimonio de Familia previsto por el Código Civil, se estará a lo siguiente:
+
+I.- Con el precio del remate, se pagarán las prestaciones establecidas en la sentencia a favor del acreedor, dejando el remanente a disposición del deudor, salvo mejor derecho de terceros;
+
+II.- Cuando el precio del remate no sea suficiente para cubrir las prestaciones establecidas en la sentencia, se pagará al acreedor hasta donde alcance, dando el juez por extinguidas y pagadas en su totalidad las obligaciones del deudor.
+
+Las mismas reglas se seguirán cuando el acreedor acepte recibir el bien inmueble por parte del deudor como dación en pago, previo avalúo por perito designado por el Juez.
+
 ###### ARTICULO 577.
 
 Si la ejecución se hubiere despachado a instancia de un segundo acreedor hipotecario o de otro, de la misma especie, de ulterior grado, el importe de los créditos hipotecarios preferentes, de que la finca rematada deba responder, se consignará ante el Juzgado correspondiente y el resto se entregará sin dilación al ejecutante, si notoriamente fuere inferior a su crédito o lo cubriere.
@@ -5354,6 +5364,10 @@ Se regirá por las presentes reglas todo juicio que tenga por objeto la constitu
 
 Cuando se trate del pago o prelación de un crédito hipotecario, es requisito indispensable que conste en documento debidamente registrado, y que sea de plazo vencido o que pueda exigirse el vencimiento anticipado. Sólo será exigible anticipadamente el crédito con garantía hipotecaria por incumplimiento de obligaciones de carácter económico o de aquellas que incidan en la destrucción o detrimento del bien hipotecado.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+La acción de pago por esta vía caduca en un año contado a partir del día siguiente a aquél en que tuvieron lugar los hechos que la originan. Si el actor omite o desvirtúa hechos, la caducidad operará desde el día siguiente de aquellos que debieron originar la acción intentada.
+
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 670.
@@ -5422,7 +5436,9 @@ El demandado podrá oponerse a la demanda haciendo valer sus defensas y excepcio
 
 La reconvención sólo procederá cuando se funde en el documento base de la acción; en cualquier otro caso se desechará de plano, aplicándose en lo conducente lo previsto en el artículo 273.
 
-Si el demandado no contesta la demanda, a petición del actor, se pronunciará sentencia dentro del término de diez días. Lo mismo sucederá si el demandado al contestar la demanda, se allana a la misma, caso en el cual se le eximirá del pago de gastos y costas.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001) (F. DE E., P.O. 26 DE FEBRERO DE 2002)
+
+Si el demandado no contesta la demanda, a petición del actor, se pronunciará sentencia en el término de diez días. Si al contestar la demanda, el deudor se allana en forma total a ésta, el juez en la sentencia le concederá un término de gracia de 90 días naturales para desocupar el inmueble hipotecado. Lo eximirá del pago de gastos y costas que se hubieren originado, lo condenará al pago del principal con intereses pactados, y los intereses moratorios generados desde el incumplimiento de la obligación que derivó en la demanda hasta la fecha de su presentación.
 
 Contestada la demanda o en su caso la reconvención, o transcurrido el término para ello, el juez de oficio o a petición de parte, concederá un término de cinco días comunes a las partes para que ofrezcan pruebas.
 
@@ -5430,19 +5446,13 @@ Concluido el término de ofrecimiento de pruebas, el juez admitirá las que proc
 
 Las audiencias de desahogo de pruebas sólo podrán suspenderse por caso fortuito o fuerza mayor. Concluido el término de desahogo de pruebas se mandarán poner los autos a disposición de las partes para que aleguen lo que a su derecho convenga en el término común de tres días. Dicho acuerdo surtirá efectos de citación para sentencia la que se pronunciará dentro de los diez días siguientes; el mismo término se aplicará para dictar sentencia de segunda instancia.
 
-En cualquier estado del juicio hasta antes de que se cite para sentencia y siempre que se hubiere demandado la acción de pago a través de la rescisión por incumplimiento o el vencimiento anticipado del contrato, si el demandado paga o consigna al acreedor las prestaciones de plazo vencido, el juez dará por terminado el negocio, revalidándose el contrato en todos sus términos y sin hacer condena en costas.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)(F. DE E., P.O. 26 DE FEBRERO DE 2002)
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+En cualquier estado del juicio hasta antes de que se cite para sentencia, si el demandado ofrece en pago las prestaciones de plazo vencido incluyendo costas e intereses moratorios, el juez los llamará a una audiencia a fin de que firmen el convenio respectivo, en caso de no llegar a algún convenio en dicha audiencia, el juez en un término de cinco días, determinará si procede el pago ofrecido revalidando el contrato en todos sus términos o si se sigue con el procedimiento. Esta disposición, será aplicable por una sola vez durante la vigencia del contrato hipotecario.
 
 ###### ARTICULO 680 Bis.
 
-Artículo 680 Bis (sic).- Tratándose de préstamos con garantía hipotecaria destinados a la adquisición de vivienda, en los que se demande la rescisión por incumplimiento o el vencimiento anticipado del contrato, si el demandado se allana en su contestación que en este caso consistirá en manifestar expresamente su voluntad de dar en pago al actor el inmueble adquirido con el préstamo, libre de otros gravámenes, el juez al dictar la sentencia condenará a las partes a restituirse lo que resulte de la siguiente operación: el demandado deberá entregar al actor el inmueble que da en pago dentro del término de ciento veinte días naturales y una compensación a razón del uno por ciento mensual sobre el valor fiscal actual del inmueble dado en pago, computado desde el momento de su adquisición hasta su entrega al actor, por el uso de la finca. Por su parte el actor debe restituir al deudor el total de las cantidades recibidas con motivo del préstamo, adicionadas cada una de las entregas con el interés legal establecido en el Código Civil calculado desde su pago hasta la restitución.
-
-El acreedor deberá acompañar a su demanda certificado catastral que acredite el valor fiscal actualizado del inmueble hipotecado, así como el monto y fechas de las prestaciones económicas recibidas del deudor con motivo del contrato. El juez no admitirá la demanda hasta en tanto no se cumpla con los requisitos antes señalados.
-
-En este caso la sentencia se inscribirá en el Registro Público de la Propiedad y hará las veces de escritura de adjudicación a favor del actor con la consecuente cancelación del préstamo demandado en el juicio.
-
-En el caso del primer párrafo, si resultan cantidades a favor del demandado, no se procederá a la desocupación y entrega de la finca hasta en tanto el actor pague o deposite las cantidades a restituir.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2001)
 
 (REFORMADO, P.O. 31 DE DICIEMBRE DE 1994) (F. DE E., P.O. 26 DE ENERO DE 1995)
 
@@ -8359,3 +8369,9 @@ Segundo. Las reformas que mediante el presente decreto se aprueban sólo serán 
 P.O. 12 DE ABRIL DE 2001.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 29 DE DICIEMBRE DE 2001.
+
+Primero: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo: Los procedimientos judiciales iniciados con anterioridad a la entrada en vigor del presente decreto, deberán substanciarse conforme a las disposiciones vigentes en aquel momento.
