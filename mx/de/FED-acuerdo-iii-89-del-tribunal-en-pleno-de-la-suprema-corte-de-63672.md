@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-iii-89-del-tribunal-en-pleno-de-la-suprema-corte-de-636
 country: "mx"
 rank: "acuerdo"
 publication_date: "1989-03-30"
-last_updated: "1989-03-30"
+last_updated: "1989-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63672&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,11 @@ issue_date: "1989-03-14"
 
 ACUERDO No. III/89 DEL TRIBUNAL EN PLENO DEL DIA CATORCE DE MARZO DE MIL NOVECIENTOS OCHENTA Y NUEVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE NOVIEMBRE DE 1989.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 30 de marzo de 1989.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Suprema Corte de Justicia de la Nación.
 
 ACUERDO No. III/89
 
@@ -61,7 +61,13 @@ f).- Las reclamaciones.
 
 SEGUNDO.- Los secretarios de Acuerdos respectivos harán, una vez que las Salas lo determinen, el envío correspondiente.
 
-TERCERO.- Publíquese este propio acuerdo en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación.
+> <small>(ADICIONADO [N. DE E. REFORMADO] POR EL PUNTO PRIMERO DEL ACUERDO NO. XIV/89 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 14 DE NOVIEMBRE DE 1989)</small>
+
+TERCERO.- Cuando dos o más ministros supernumerarios se encuentren impedidos para conocer de los asuntos especificados en este acuerdo, la Sala Auxiliar los devolverá a la Sala que se los había enviado.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO NO. XIV/89 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 14 DE NOVIEMBRE DE 1989)</small>
+
+CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación.
 
 TRANSITORIO:
 
@@ -72,3 +78,9 @@ LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA S
 CERTIFICA:
 
 Que este Acuerdo número III/89, relativo a la ampliación de la competencia de la Sala Auxiliar, fue aprobado por el Tribunal en Pleno en Sesión Privada celebrada el martes catorce de marzo de mil novecientos ochenta y nueve, por mayoría de diecisiete votos de los señores ministros de Silva Nava, Magaña Cárdenas, Alba Leyva, Castañón León, López Contreras, Fernández Doblado, Pavón Vasconcelos, Adato Green, Martínez Delgado, Gutiérrez de Velasco, González Martínez, Villagordoa Lozano, Moreno Flores, Suárez Torres, Chapital Gutiérrez, Díaz Romero y Presidente del Río Rodríguez, se aprobó el acuerdo de referencia; los señores ministros Rocha Díaz, Azuela Güitrón, Rodríguez Roldán y Schmill Ordóñez emitieron su voto en el sentido de que se incluyera a la Sala Auxiliar en el turno de distribución de asuntos entre las Salas Primera, Segunda, Tercera y Cuarta. México, Distrito Federal, a diecisiete de marzo de mil novecientos ochenta y nueve.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 14 DE NOVIEMBRE DE 1989.
+
+UNICO.- Este acuerdo entrará en vigor al día siguiente de su aprobación.
