@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-regula-las-actividades-de-los-23424"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-13"
-last_updated: "2002-02-13"
+last_updated: "2003-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO QUE REGULA LOS ESTABLECIMIENTOS DONDE SE VENDE Y/O CONSUME CERVEZA Y/O BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 de febrero de 2002.
 
@@ -1113,6 +1113,24 @@ TERCERO.- Quienes cuenten con licencia para la operación de cualquier giro come
 
 CUARTO.- La Tesorería Municipal y la Dirección de Inspección y Vigilancia están obligados a conservar los registros de las licencias otorgadas con anterioridad a la entrada en vigor de este Reglamento.
 
-QUINTO.- Los establecimientos cuyas licencias fueron otorgadas con anterioridad a la entrada en vigor de este Reglamento conservarán los derechos de las licencias así otorgadas, pero se sujetarán a las disposiciones de este Reglamento.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2003)</small>
 
-SEXTO.- Los establecimientos por su funcionamiento y/o condiciones de operación podrán ser sujetos de una reclasificación del giro autorizado, cuando el R. Ayuntamiento así lo considere.
+QUINTO.- Los establecimientos cuyas licencias fueron otorgadas con anterioridad a la entrada en vigor de este Reglamento conservarán los derechos de las licencias así otorgadas, pero se sujetarán a las disposiciones de este Reglamento, a excepción de lo contemplado por el artículo séptimo transitorio:
+
+SEXTO.- (DEROGADO, P.O. 13 DE ENERO DE 2003)
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2003)</small>
+
+SÉPTIMO.- La sustanciación de los procedimientos, así como los medios de defensa ejercidos por los particulares, que se iniciaron durante la vigencia del abrogado Reglamento de Alcoholes, se sujetaran a las disposiciones contenidas en el mismo hasta su total conclusión.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE ENERO DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El C. Presidente Municipal a través de la Secretaria del R. Ayuntamiento deberá turnar para su publicación la presente modificación al ordenamiento municipal, tanto a la Gaceta Municipal como al Periódico Oficial del Estado. Lo anterior de conformidad con lo establecido en el artículo 27 fracción V y 167 de la Ley Orgánica de la Administración Pública Municipal, y 76 fracción VI del Reglamento Interior del R. Ayuntamiento de la Ciudad de Monterrey.
+
+###### ARTICULO SEGUNDO.
+
+El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y deberá publicarse en la Gaceta Municipal de Monterrey.
