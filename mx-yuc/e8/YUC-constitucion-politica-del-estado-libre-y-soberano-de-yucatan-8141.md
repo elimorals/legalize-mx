@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1921-02-24"
+last_updated: "1921-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE FEBRERO DE 1921.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MARZO DE 1921.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -425,7 +425,7 @@ Durante los recesos del Congreso, funcionará una Diputación Permanente compues
 
 Las atribuciones de la Comisión Permanente, son las siguientes:
 
-I.- acordar por sí sola, cuando a su juicio lo exijan el bien o la seguridad del Estado, o a petición del Ejecutivo, la convocación del Congreso a sesiones extraordinarias, señalando el objeto u objetos de esas sesiones, y no pudiendo el Congreso ocuparse de más asuntos que aquéllos para los que fue convocado;
+I.- acordar por sí sola, cuando a su juicio lo exijan el bien o la seguridad del Estado, o a petición del Ejecutivo, la convocación del Congreso a sesiones extraordinarias, señalando el objeto u objetos de esas sesiones, y no pudiendo el Congreso ocuparse de más asuntos que aquéllos para los que fué convocado;
 
 II.- recibir la protesta de Ley a los funcionarios que deban prestarla ante el Congreso;
 
@@ -749,7 +749,7 @@ Cuando los acuerdos de los Ayuntamientos sean contrarios a la Constitución Fede
 
 ###### Artículo 84.
 
-En cada Municipio habrá un Alcalde o Ejecutivo Municipal, de elección popular directa, en la forma que establezca la Ley, el cual durará en su encargo un año.
+(DEROGADO, D.O. 30 DE MARZO DE 1921)
 
 ###### Artículo 85.
 
@@ -763,11 +763,11 @@ III.- nombrar y remover a los empleados de su despacho, conforme a lo que establ
 
 IV.- disponer de la Policía del Municipio, salvo lo dispuesto en las fracciones cuarta y quinta del artículo cincuenta y cinco de esta Constitución;
 
-V.- hacer observaciones a los acuerdos de los Ayuntamientos;
+V.- (DEROGADA, D.O. 30 DE MARZO DE 1921)
 
-VI.- pedir al Ejecutivo del Estado la suspensión de los acuerdos de los Ayuntamientos que sean contrarios a la Constitución de la República o a la del Estado o a cualquiera otra Ley o lesionen los intereses municipales;
+VI.- (DEROGADA, D.O. 30 DE MARZO DE 1921)
 
-VII.- las demás que les confiera esta Constitución y las leyes respectivas.
+VII.- (DEROGADA, D.O. 30 DE MARZO DE 1921)
 
 ## TITULO DECIMO. DISPOSICIONES GENERALES
 
@@ -950,3 +950,7 @@ Esta reforma entrará en vigor el mismo día de su publicación en el "Diario Of
 D.O. 24 DE FEBRERO DE 1921.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
+
+D.O. 30 DE MARZO DE 1921.
+
+Este decreto entrará en vigor al siguiente día de su publicación, y no afecta a los Alcaldes últimamente electos.
