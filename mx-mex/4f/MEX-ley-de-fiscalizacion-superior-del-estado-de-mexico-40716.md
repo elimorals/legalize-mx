@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2004-12-22"
+last_updated: "2005-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GAETA DE GOBIERNO: 22 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE FEBRERO DE 2005.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el jueves 26 de agosto de 2004.
 
@@ -865,13 +865,13 @@ QUINTO.- Toda referencia a la Contaduría General de Glosa en las disposiciones 
 
 SEXTO.- Los procedimientos iniciados por la Contaduría General de Glosa, que se encuentren en trámite al entrar en vigor este ordenamiento, se resolverán por el Organo Superior de Fiscalización, conforme a las disposiciones de la Ley Orgánica para la Contaduría General de Glosa del Poder Legislativo del Estado de México.
 
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 11 DE FEBRERO DE 2005)</small>
 
-SEPTIMO.- Dentro de un plazo que no exceda al día quince de febrero del año dos mil cinco, la Legislatura del Estado designará al Auditor Superior del Estado de México, designación que deberá ser publicada en el periódico oficial "Gaceta del Gobierno" al día siguiente de efectuarse ésta; asimismo, se emitirá la convocatoria a que se refiere el artículo 12 fracción I del presente ordenamiento, a más tardar el día treinta de enero del año dos mil cinco. En tanto se nombra al Auditor Superior, dicha función será ejercida de manera provisional por el Contador General de Glosa de la Legislatura.
+SEPTIMO.- Dentro de un plazo que no exceda al día 25 de septiembre del año dos mil cinco, la Legislatura del Estado designará al Auditor Superior del Estado de México, designación que deberá ser publicada en el periódico oficial "Gaceta del Gobierno" al día siguiente de efectuarse ésta, previa emisión de la convocatoria a que se refiere el artículo 12 fracción I de la Ley de Fiscalización Superior del Estado de México. En tanto se nombra al Auditor Superior, dicha función será ejercida, provisionalmente, por el Contador General de Glosa de la Legislatura.
 
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 11 DE FEBRERO DE 2005)</small>
 
-OCTAVO.- El Organo Superior de Fiscalización dentro del plazo que no exceda de ciento ochenta días naturales, contados a partir de que sea nombrado el Auditor Superior, expedirá su reglamento interior y lo someterá a la consideración de la Comisión de Vigilancia.
+OCTAVO.- El Órgano Superior de Fiscalización dentro del plazo que no exceda de noventa días naturales, contados a partir de la vigencia del presente decreto, expedirá su reglamento interior y lo someterá a la consideración de la Comisión de Vigilancia del Organo Superior de Fiscalización.
 
 NOVENO.- Las cuentas públicas del Estado y Municipios relativas al ejercicio fiscal de dos mil cuatro, serán revisadas, fiscalizadas y calificadas, de acuerdo con las disposiciones aplicables de la Ley Orgánica para la Contaduría General de Glosa del Poder Legislativo del Estado de México y demás leyes en la materia aplicables.
 
@@ -916,6 +916,20 @@ Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
 ###### ARTICULO SEGUNDO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación.
+
+###### ARTICULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
+
+G.G. 11 DE FEBRERO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
 
 ###### ARTICULO TERCERO.
 
