@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-entidades-paraestatales-del-estado-de-oaxaca-11811"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-28"
-last_updated: "1998-02-28"
+last_updated: "2001-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de febrero de 1998.
 
@@ -125,15 +125,21 @@ VIII. En su caso, la formalización de órganos consultivos o de apoyo a la enti
 
 IX. El régimen laboral a que se sujetarán los trabajadores de la entidad paraestatal.
 
-###### ARTICULO 10.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2001)</small>
 
-Las entidades paraestatales contarán con órganos de Autoridad que serán:
+###### Artículo 10.
 
-I. Organo de Gobierno, sea cual fuere su denominación, y
+Las Entidades Paraestatales contarán con los órganos de autoridad que serán:
 
-II. Director General o equivalente, quien será designado por el Ejecutivo Estatal.
+I. Órgano de Gobierno, sea cual fuere su denominación, y
 
-Aquellas entidades paraestatales, cuyo órgano de Gobierno sea unipersonal, se seguirán rigiendo en cuanto a este órgano especial, conforme a lo dispuesto a sus leyes u ordenamientos relativos.
+II. Director General o equivalente.
+
+En todas las entidades paraestatales, se designará un Subdirector General o equivalente, para auxiliar a los titulares de las direcciones y sustituirlos en sus faltas temporales.
+
+Los Directores Generales y Subdirectores o equivalentes serán designados por el Ejecutivo Estatal y cumplirán los requisitos que exige el artículo 83 de la Constitución Política del Estado.
+
+Aquellas entidades paraestatales cuyo órgano de gobierno sea unipersonal, se seguirán rigiendo en cuanto a esto de manera especial, conforme a lo dispuesto en sus leyes y ordenamientos respectivos.
 
 ###### ARTICULO 11.
 
@@ -597,7 +603,7 @@ Oaxaca de Juárez, Oax., a 16 de enero de 1998.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO,
 
-LIC.DIODORO CARRASCO ALTAMIRANO.
+LIC. DIODORO CARRASCO ALTAMIRANO.
 
 EL SECRETARIO GENERAL DE GOBIERNO,
 
@@ -616,3 +622,11 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 LIC. HECTOR ANUAR MAFUD MAFUD.
 
 Al C....
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día 1° de enero del año 2002. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
