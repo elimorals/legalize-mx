@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "1997-06-05"
+last_updated: "1999-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MARZO DE 1999.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -118,13 +118,21 @@ G. Subdirección General de Finanzas
 
 H. Subdirección General de Abastecimientos
 
-I. Contraloría General
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 1999)</small>
 
-J. Coordinación General de Comunicación Social
+I. Coordinación General de Comunicación Social
 
-K. Coordinación General de Delegaciones
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 1999)</small>
 
-L. Coordinación General de Atención al Derechohabiente
+J. Coordinación General de Delegaciones
+
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 1999)</small>
+
+K. Coordinación General de Atención al Derechohabiente
+
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 1999)</small>
+
+El Instituto contará con una Contraloría General, órgano de control interno, que se regirá conforme al artículo 52 de este Estatuto Orgánico.
 
 II. Unidades administrativas desconcentradas:
 
@@ -143,6 +151,10 @@ F. Gerencias Regionales
 G. Escuela de Dietética y Nutrición
 
 H. Sistema de Agencias Turísticas TURISSSTE
+
+> <small>(ADICIONADO, D.O.F. 30 DE MARZO DE 1999)</small>
+
+Asimismo, el Fondo de la Vivienda y el Sistema Integral de Tiendas y Farmacias del Instituto contarán, respectivamente, con una Contraloría Interna, órgano de control interno, que se regirá conforme al artículo 52 A de este Estatuto Orgánico.
 
 III. Comisión Interna de Administración y Programación.
 
@@ -618,9 +630,11 @@ VII.- Elaborar su programa de trabajo anualmente; y
 
 VIII.- Las demás que señalen otras disposiciones aplicables y aquellas que expresamente le asigne.
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 1999)</small>
+
 ###### ARTICULO 35.
 
-Para el desempeño de sus funciones la Comisión de Vigilancia podrá procurarse la información que requiera de las áreas del Instituto, debiendo éstas proporcionar la documentación e informes correspondientes. Asimismo, contará con el apoyo de la Contraloría Interna del Instituto.
+Para el desempeño de sus funciones la Comisión de Vigilancia podrá procurarse la información que requiera de las áreas del Instituto, debiendo éstas proporcionar la documentación e informes correspondientes. Asimismo, contará con el apoyo de los órganos de control interno en el Instituto.
 
 ###### ARTICULO 36.
 
@@ -696,9 +710,9 @@ VI.- Las demás que les fijen las leyes o los reglamentos y aquellas que expresa
 
 ### CAPITULO SEXTO. DE LAS UNIDADES ADMINISTRATIVAS
 
-#### SECCION PRIMERA
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE MARZO DE 1999)</small>
 
-DE LOS SUBDIRECTORES GENERALES, CONTRALOR GENERAL Y COORDINADORES GENERALES.
+#### SECCION PRIMERA. DE LOS SUBDIRECTORES GENERALES Y DE LOS COORDINADORES GENERALES
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ABRIL DE 1997)</small>
 
@@ -738,7 +752,7 @@ XII.- Las demás que señalen otras disposiciones aplicables y las que les asign
 
 Los Subdirectores Generales y Coordinadores Generales, se auxiliarán por Subdirectores de Area, Jefes de Servicios, Jefes de Departamento, Jefes de Oficina y demás personal que autorice el presupuesto.
 
-El Contralor General se auxiliará por Subcontralores, Jefes de Servicios, Jefes de Departamento, Jefes de Oficina y demás personal que autorice el presupuesto.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 30 DE MARZO DE 1999)</small>
 
 #### SECCION SEGUNDA. DE LAS SUBDIRECCIONES GENERALES
 
@@ -1032,27 +1046,27 @@ IV.- Las demás que señalen otras disposiciones aplicables.
 
 ARTICULO 51 C.- (DEROGADO, D.O.F. 19 DE NOVIEMBRE DE 1992)
 
-#### SECCION TERCERA. DE LA CONTRALORIA GENERAL
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE MARZO DE 1999)</small>
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1997)</small>
+#### SECCION TERCERA. DE LA CONTRALORIA GENERAL Y DE LAS CONTRALORIAS INTERNAS
+
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 52.
 
-La Contraloría General tendrá las funciones siguientes:
+El Instituto cuenta con una Contraloría General, órgano de control interno, al frente de la cual el Contralor General, designado en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades designados en los mismos términos.
 
-I.- Realizar las acciones necesarias para apoyar la función directiva del Instituto, así como promover el mejoramiento de la gestión pública, conforme a las normas y lineamientos que expida la Secretaría de Contraloría y Desarrollo Administrativo;
+Con sujeción a su presupuesto autorizado, las unidades administrativas desconcentradas podrán contar, en su caso, con una Contraloría Interna, en los términos del párrafo anterior. En el supuesto de que algunas de estas unidades no cuenten con dicha Contraloría, las facultades a que se refiere este artículo se ejercerán por la Contraloría General en el Instituto.
 
-II.- Examinar y evaluar los sistemas, mecanismos y procedimientos de control del Instituto, conforme a las normas y lineamientos que expida la Secretaría de Contraloría y Desarrollo Administrativo;
+Los servidores públicos a que se refieren los párrafos anteriores, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el artículo 26 fracciones III y IV del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
 
-III.- Vigilar que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables;
+> <small>(ADICIONADO, D.O.F. 30 DE MARZO DE 1999)</small>
 
-IV.- Recibir quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos del Instituto, así como investigar y, en su caso, determinar la responsabilidad administrativa correspondiente e imponer las sanciones administrativas, económicas, disciplinarias y demás aplicables, en los términos previstos en la ley de la materia;
+ARTICULO 52 A.- Las unidades administrativas desconcentradas Fondo de la Vivienda y Sistema Integral de Tiendas y Farmacias del Instituto contarán, cada una de ellas, con su respectiva Contraloría Interna.
 
-V.- Dictar las resoluciones en los recursos de revocación que interpongan los servidores públicos del Instituto respecto de la imposición de sanciones administrativas;
+Al frente de la Contraloría Interna, órgano de control interno, de cada una de las unidades administrativas desconcentradas señaladas en este artículo, el Contralor Interno designado en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades del órgano de control interno correspondiente, designados en los mismos términos.
 
-VI.- Realizar la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Federales, representando al titular de la Secretaría de Contraloría y Desarrollo Administrativo, y
-
-VII.- Las demás que señalen otras disposiciones aplicables.
+Dichos servidores públicos ejercerán las atribuciones a que se refiere el artículo 52 de este Estatuto Orgánico, en el ámbito de competencia de la unidad administrativa desconcentrada respectiva.
 
 #### SECCION CUARTA. DE LAS COORDINACIONES GENERALES
 
@@ -1566,6 +1580,12 @@ Por cada miembro de la Comisión de Vigilancia se nombrará un suplente que actu
 
 Los Subdirectores Generales, Coordinadores Generales, Vocal Ejecutivo, Delegados Estatales y Regionales, Director del Sistema Integral de Tiendas y Farmacias, Director de la Escuela de Dietética y Nutrición, Director del Sistema de Agencias Turísticas TURISSSTE, y el Director del Centro Médico Nacional "20 de Noviembre", serán suplidos en sus faltas temporales por el servidor público del Instituto que designe el Director General.
 
+> <small>(ADICIONADO, D.O.F. 30 DE MARZO DE 1999)</small>
+
+###### ARTICULO 68.
+
+Las ausencias del Contralor General, de los Contralores Internos de las unidades administrativas desconcentradas, así como las de los respectivos titulares de las áreas de responsabilidades, auditoría y quejas, serán suplidas conforme a lo previsto por el artículo 33, segundo y tercer párrafos, del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -1701,3 +1721,17 @@ Publíquese el presente Acuerdo en el Diario Oficial de la Federación y, en su 
 ###### ARTICULO SEGUNDO.
 
 El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE MARZO DE 1999.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Acuerdo en el Diario Oficial de la Federación y, en su oportunidad, inscríbase en el Registro Público de Organismos Descentralizados.
+
+###### ARTICULO SEGUNDO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO TERCERO.
+
+Los asuntos que se encuentren en trámite en la Contraloría General, en la fecha de entrada en vigor del presente Acuerdo, serán resueltos por las Contralorías Internas en el Fondo de la Vivienda y en el Sistema Integral de Tiendas y Farmacias, según sea el caso y la competencia.
