@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "1999-02-27"
+last_updated: "1999-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -515,7 +515,7 @@ Corresponde al Congreso resolver los conflictos que surjan entre los miembros de
 
 Los Ayuntamientos no podrán por ningún motivo:
 
-I.- Expedir bandos, reglamentos, circulares y demás disposiciones administrativas de observancia general, contrarios a la Constitución General de la República, a la Particular del Estado y a las leyes que de éstas emanen.
+I.- Expedir bandos reglamentos, circulares y demás disposiciones administrativas de observancia general, contrarios a la Constitución General de la República, a la Particular del Estado y a las leyes que de éstas emanen.
 
 II.- Gravar el tránsito o salida de mercancía.
 
@@ -1009,17 +1009,129 @@ Los impuestos municipales se causarán en los montos, tasas y tarifas que al efe
 
 IMPUESTO SOBRE ESPECTACULOS, DIVERSIONES PUBLICAS Y JUEGOS PERMITIDOS
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 101.
 
-Este impuesto se causará de acuerdo a la tarifa que señala la Ley de Ingresos Municipal.
+Son objeto de este impuesto los ingresos por espectáculos públicos que se celebren dentro del territorio de los Municipios, entendiéndose como tales, toda función teatral, de circo, deportiva, las peleas de gallos, bailes, juegos recreativos, establecimientos que presenten variedades, o de cualquier otra especie, que se realicen en locales o espacios abiertos o cerrados, donde se autorice la entrada mediante el pago de cierta suma de dinero, se cobre derecho de mesa o de cualquier otro tipo.
+
+Para los efectos de este impuesto, se entiende:
+
+I.- Por espectáculo teatral, las representaciones de dramas, comedias, sainetes, conciertos, ópera, operetas, ballets, zarzuela, revistas y en general, la actuación personal de actores, músicos o artistas ante el público. Están comprendidos en este concepto, los espectáculos que se den en las carpas o circos.
+
+II.- Por funciones deportivas, los encuentros de box o luchas profesionales, los juegos de pelota, en cualquier forma, las competencias o exhibiciones hípicas, corridas de toros o novilladas y otras similares.
+
+III.- Que no se consideran espectáculos públicos, los presentados en restaurantes, bares, cabarets, salones de fiesta o baile y centros nocturnos.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 101-A.
+
+Son sujetos de este impuesto las personas físicas o morales que habitual u ocasionalmente organicen o administren espectáculos públicos.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 101-B.
+
+Para la determinación del impuesto a cargo de los contribuyentes, se aplicará la tasa del ocho por ciento al total del ingreso cobrado por la actividad gravada.
+
+Para este efecto, los pases se considerarán que tienen el mismo valor que las autorizaciones o boletos de admisión, en cada caso.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 102.
 
-El impuesto que se cause sobre el valor de los boletos vendidos, se pagará dentro de las veinticuatro horas siguientes a la fecha en que se celebre el espectáculo, la diversión o el juego.
+El impuesto que se cause deberá ser enterado en la Tesorería del Municipio en que se realice la actividad gravada, dentro de los siguientes plazos:
+
+I.- Tratándose de sujetos habituales, dentro de los cinco primeros días del mes siguiente a aquel en que se haya causado; y
+
+II.- Por lo que hace a los sujetos accidentales, dentro de las veinticuatro horas siguientes al que se haya causado.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 102-A.
+
+Las autoridades fiscales de los municipios del Estado, podrán determinar, presuntivamente, la base de este impuesto, en los siguientes casos:
+
+I.- Cuando no se presenten en la Tesorería Municipal, para su sellado, los boletos o comprobantes de entrada, incluyendo los pases que se expidan.
+
+II.- Cuando no se presenten las declaraciones a que están obligados los contribuyentes o responsables solidarios.
+
+III.- Cuando los contribuyentes o responsables solidarios se opongan u obstaculicen el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales.
+
+IV.- Cuando, por los informes o documentación de que se disponga, se conozca la obtención de un ingreso superior al declarado, en un 5 por ciento, cuando menos.
+
+Para la determinación presuntiva de la base del impuesto, se considerarán las actividades realizadas, el precio de los boletos de entrada, el número de asistentes, o en su caso, la cantidad de boletos emitidos, de conformidad con las disposiciones legales aplicables y la capacidad del lugar.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 102-B.
+
+Los contribuyentes habituales u ocasionales no podrán iniciar la función en su espectáculo si no han pagado el impuesto correspondiente a la función del día o días anteriores. Los municipios del Estado a través de sus Tesorerías respectivas, están facultados para suspender la función y para clausurar el local donde se celebre el espectáculo, en los casos en que no se pague el impuesto.
+
+La clausura se realizará sellando las puertas de acceso al local en que se celebre el espectáculo y tendrá el carácter de provisional. La clausura sólo se levantará cuando se pague el impuesto y los accesorios causados.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 102-C.
+
+Los sujetos habituales del impuesto están obligados:
+
+I.- A solicitar su inscripción en el Padrón de Contribuyentes del Municipio, utilizando para el efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. Las Tesorerías Municipales podrán, de oficio, inscribir a los contribuyentes cuando tengan a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto.
+
+II.- A entregar a la Tesorería Municipal de su jurisdicción, un ejemplar de sus programas, cuando menos el día hábil anterior a la celebración de la función.
+
+III.- A notificar por escrito, a más tardar el mismo día en que se celebren las actividades gravadas por este impuesto, en la Tesorería Municipal respectiva, de cualquier cambio en los precios fijados en los programas a que se refiere la fracción anterior.
+
+IV.- A expedir boletos y comprobantes de entrada individuales, en los que se exprese el nombre de la empresa, la clase de actividad, el precio de entrada. Dichos boletos o comprobantes deberán estar numerados progresivamente.
+
+V.- A presentar, para su sellado, los boletos o comprobantes a que se hace referencia en la fracción anterior, incluyendo los pases que expidan en el territorio del Municipio donde se realice el espectáculo.
+
+VI.- A permitir y facilitar la intervención, inspección y vigilancia de los ingresos del espectáculo, por las autoridades municipales.
+
+VII.- A presentar ante la Tesorería Municipal de donde se realice la actividad gravada por este impuesto, los avisos relacionados con la modificación a los datos contenidos en la solicitud de inscripción, dentro de los 10 días hábiles siguientes a que ocurra dicha modificación.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 102-D.
+
+Las personas que ocasionalmente organicen o administren la actividad gravada por este impuesto, están obligadas:
+
+I.- A dar aviso a las Tesorerías Municipales, donde se realicen dichas actividades, a más tardar el día hábil anterior a aquel en que deba realizarse. En los casos en que la actividad gravada por este impuesto vaya a tener funciones sucesivas, bastará el aviso que deberá darse a más tardar el día hábil anterior a la fecha en que deba celebrarse la primera función.
+
+II.- A otorgar ante la Tesorería Municipal donde se haya presentado el aviso, a más tardar el día hábil anterior a la fecha en que se realice la función, garantía suficiente del interés fiscal, en los términos de la legislación aplicable, que deberá comprender el importe estimado de los impuestos que cause la actividad. Para este efecto, el Tesorero Municipal fijará bajo su responsabilidad, el importe de la garantía y resolverá sobre su calificación, admisión o rechazo, así como, en su caso, la liberación de la obligación de garantizar.
+
+III.- A expedir boletos o comprobantes de entrada individuales, que contengan el nombre de la empresa, la clase de actividad que realizará, el precio de entrada y el importe del impuesto. Dichos boletos o comprobantes deberán estar numerados progresivamente y deberán expedirse, a más tardar, el día anterior a la fecha en que debe realizarse la primera función.
+
+IV.- A presentar, para que sean sellados, los boletos o comprobantes de entrada individuales, incluyendo los pases, en la Tesorería Municipal respectiva, a más tardar, el día hábil anterior a la fecha en que se celebre el evento gravado por este impuesto.
+
+V.- A dar aviso a la Tesorería Municipal, de donde se realice la actividad gravada por este impuesto, de la finalización del evento, cuando este se celebre en funciones sucesivas. Dicho aviso se presentará, a más tardar, el día hábil anterior a la fecha en que sea programada dicha finalización.
+
+VI.- A cumplir con la obligación que establece la fracción VI del artículo anterior.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 102-E.
+
+Tienen responsabilidad solidaria para el pago del impuesto, las personas que permitan el uso o goce de los locales o inmuebles en donde se lleven a cabo las actividades gravadas por este impuesto.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 102-F.
+
+En los casos de incumplimiento de las obligaciones establecidas en este Capítulo, a los sujetos o responsables solidarios, las autoridades municipales estarán facultadas para embargar precautoriamente bienes suficientes que garanticen el interés fiscal, de conformidad con las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 102-G.
+
+Se exime del pago de este impuesto, los espectáculos por los que se cause el Impuesto al Valor Agregado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 103.
 
-No causarán el impuesto, aun cuando la entrada sea de paga, las actividades cuyos ingresos se destinen íntegramente a obras de asistencia social y servicios u obras públicas, previa comprobación de esta circunstancia ante el Ayuntamiento respectivo.
+No serán sujetos de este impuesto, las personas que realicen las actividades gravadas, cuyos ingresos se destinen a obras de asistencia social y servicios, obras públicas o instituciones que impartan educación gratuita.
 
 IMPUESTO SOBRE LA PROPIEDAD URBANA, SUBURBANA Y RUSTICA DEL OBJETO
 
@@ -2726,3 +2838,17 @@ P.O. 27 DE FEBRERO DE 1999.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 1999
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor a partir del 1 de enero del año 2000.
+
+###### ARTICULO SEGUNDO.
+
+Las personas físicas o morales que al entrar en vigor estas disposiciones se consideren como sujetos habituales de este impuesto, deberán solicitar su inscripción ante las Tesorerías de los municipios en donde habitualmente las realicen, a más tardar el día quince de febrero del año 2000. Así mismo, las autoridades fiscales del Estado, procederán a cancelar sus obligaciones en materia de este impuesto.
+
+###### ARTICULO TERCERO.
+
+Se adiciona a la Ley de Ingresos de cada uno de los 43 Municipios del Estado, el Impuesto Sobre Espectáculos Públicos, por lo que están autorizados para cobrarlo a partir del 1 de Enero del año 2000.
