@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1973-12-31"
+last_updated: "1976-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1976.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -54,15 +54,17 @@ Las únicas monedas circulantes serán:
 
 a). Los billetes del Banco de México, S. A., con las denominaciones que fijen sus estatutos;
 
-b). Las monedas metálicas de veinticinco, diez, cinco y un peso, y las de cincuenta, veinte, diez, cinco y un centavo con los diámetros, composición metálica, pesos, cuños y demás características que señalen los decretos relativos;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1976)</small>
+
+b). Las monedas metálicas de cien, veinticinco, diez, cinco y un peso, y las de cincuenta, veinte y diez centavos con los diámetros, composición metálica, peso, cuños y demás características que señalen los decretos relativos.
 
 c). Las monedas conmemorativas de acontecimientos de importancia nacional, en plata, con los valores de cada pieza y el total de la emisión, diámetros, leyes, pesos, cuños y demás características que señalen los decretos relativos.
-
-> <small>N. DE E. EN RELACION A LA DEROGACION DE LOS INCISOS d) Y e) DEL ARTICULO QUE ANTECEDE REMITASE A LOS ARTICULOS TRANSITORIOS DEL PRESENTE DECRETO.</small>
 
 d). (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1973)
 
 e). (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1973)
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1976)</small>
 
 ###### ARTICULO 2o.
 
@@ -180,7 +182,9 @@ Se declaran libres la exportación y la importación de oro acuñado o en pasta,
 
 ###### ARTICULO 3°.
 
-(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1938)
+Los pagos en efectivo de obligaciones cuyo importe sea o comprenda fracciones de la unidad monetaria distintas de los décimos de ésta, se efectuarán ajustando su monto al décimo más próximo. Tratándose de cantidades terminadas en cinco centavos, el ajuste se hará al décimo inmediato inferior.
+
+Las operaciones cuya realización no implique entrega de efectivo, se efectuarán incluyendo, en su caso, fracciones de diez centavos.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1938)</small>
 
@@ -553,3 +557,19 @@ A partir de la fecha en que entre en vigor el presente Decreto, no se acuñarán
 ###### ARTICULO TERCERO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1976.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a la fecha de publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+A partir de la fecha en que entre en vigor el presente Decreto, dejarán de acuñarse las monedas de uno y cinco centavos, cuyas características se señalaron en el Decreto de fecha 29 de diciembre de 1969, publicado en el "Diario Oficial" de la Federación del 30 del mismo mes y año.
+
+###### ARTICULO TERCERO.
+
+Las monedas a que se refiere el artículo que antecede, continuarán en circulación con el poder liberatorio que les señalaba el artículo 5o. de la Ley Monetaria de los Estados Unidos Mexicanos que se reforma, hasta el 31 de diciembre de 1977.
+
+El Banco de México, S. A., a través de sus corresponsales, canjeará las citadas monedas por otras de distinta denominación, sin limitación alguna en cuanto a plazo y cantidad.
