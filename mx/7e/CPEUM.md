@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1994-04-19"
+last_updated: "1994-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ABRIL DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JULIO DE 1994.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1534,7 +1534,9 @@ La elección del Presidente será directa y en los términos que disponga la ley
 
 Para ser Presidente se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos, e hijo de padres mexicanos por nacimiento;
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 1994)</small>
+
+I.- Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos, hijo de padre o madre mexicanos y haber residido en el país al menos durante veinte años;
 
 II.- Tener 35 años cumplidos al tiempo de la elección;
 
@@ -4125,3 +4127,9 @@ DECIMO PRIMERO.- El Congreso de la Unión conservará la facultad de legislar, e
 D.O.F. 19 DE ABRIL DE 1994.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE JULIO DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día 31 de diciembre de 1999.
