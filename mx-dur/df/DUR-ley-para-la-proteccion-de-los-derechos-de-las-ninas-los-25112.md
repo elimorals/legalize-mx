@@ -1,0 +1,702 @@
+---
+title: "LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE DURANGO"
+identifier: "DUR-ley-para-la-proteccion-de-los-derechos-de-las-ninas-los-25112"
+country: "mx"
+rank: "ley"
+publication_date: "2002-05-23"
+last_updated: "2002-05-23"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25112&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-dur"
+scjn_id: "25112"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "41"
+reform_count: "5"
+scjn_last_update: "2015-03-12"
+issue_date: "2002-04-30"
+state: "DUR"
+---
+# LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE DURANGO
+
+LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE DURANGO
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 23 de mayo de 2002.
+
+EL CIUDADANO LICENCIADO ANGEL SERGIO GUERRERO MIER, GOBERNADOR CONSITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SUS HABITANTES, SABED:
+
+QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
+
+Con fecha 15 de Diciembre del año próximo pasado, C. Dip. Blas Rafael Palacios Cordero, integrante del Partido de la Revolución Democrática, presentó Iniciativa de Decreto que contiene Ley de los Derechos de las Niñas, los Niños en el Estado de Durango y con fecha 19 de Marzo del presente año, la C. Diputada Yolanda de la Torre Valdez, integrante del Grupo Parlamentario del Partido Revolucionario Institucional, presentó Iniciativa de Decreto que contiene Ley para la Protección de los Derechos de las Niñas, los Niños y Adolescentes en el Estado de Durango; mismas que fueron turnadas a la Comisión de Asuntos de la Familia y Menores de Edad, integrada por los CC. Diputados: Blas Rafael Palacios Cordero, Yolanda de la Torre Valdéz, Jorge Herrera Delgado, Miguel Ángel Arreola Astorga y Laura Elena Estrada Rodríguez; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
+
+CONSIDERANDOS:
+
+PRIMERO.- La Constitución Política de los Estados Unidos Mexicanos, en su artículo 4º dispone que los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral, fincando a los ascendientes, tutores y a quiénes a cuyo cargo se deposita la custodia, el deber de preservar esos derechos, siendo el Estado garante del respeto a la dignidad de la niñez y el ejercicio pleno de sus derechos.
+
+SEGUNDO.- Los iniciadores coinciden en sus propuestas legislativas, en su preocupación por legislar en materia de protección de los derechos de las niñas, los niños y adolescentes en el Estado de Durango, para así materializar la garantía constitucional a la que se alude en el considerando anterior; por lo que, la Comisión que dictaminó al analizar el contenido de los proyectos de ley sometidos a su consideración al encontrar similitud en el objeto de la ley, por economía parlamentaria acordó fusionar en un solo proyecto de dictamen el contenido de ambas iniciativas, precisando con puntualidad los dispositivos legales que caracterizan a las mismas, buscando con ello cumplir con la responsabilidad encomendada.
+
+TERCERO.- En congruencia con los diversos avances que en materia de protección a la infancia han venido transcurriendo a nivel mundial y nacional, es necesario contar con una legislación en nuestro Estado que esté en consonancia con la convención de los derechos del niño adoptada por la Asamblea General de la Organización de las Naciones Unidas el 20 de noviembre de 1989 y que contiene normas mínimas necesarias universalmente aceptadas para que cada Estado parte de la citada organización, asegure su cumplimiento y vigencia. El Senado de la República en el ejercicio de sus facultades constitucionales adoptó los términos de dicha convención según se aprecia en la aprobación que se publicó en el Diario Oficial de la Federación el día 25 de enero de 1991.
+
+CUARTO.- La Comisión que dictaminó destacó la importancia que representa el avance por mejorar la situación jurídica de las niñas, los niños y adolescentes, en cuanto al reconocimiento, ejercicio efectivo y goce de sus derechos transformando la situación de los menores dejando atrás el concepto de ser objeto de tutela-protección-represión para convertirlos en sujetos de derechos. La importancia de reconocer principios que orienten el modelo de protección integral, sin duda elimina los viejos modelos que pretendían el desarrollo de la infancia sin dotarlos del reconocimiento a sus derechos fundamentales.
+
+QUINTO.- la ley consta de cinco títulos, el primero establece las disposiciones generales, plasmando que la misma es de orden público, interés social y de observancia general en nuestro Estado; se establece un catalogo de definiciones o términos que se utilizan en la misma y se puntualizan los principios rectores en la interpretación y aplicación; en el Título Segundo se contemplan los derechos y responsabilidades de los menores y del Estado, la familia y la sociedad este título consta de 18 capítulos; en el Título Tercero se dispone las disposiciones y mecanismos a favor de los menores en circunstancias especialmente difíciles con la finalidad de lograr su desarrollo armónico e integral; en el Título Cuarto, se puntualiza la participación de la Procuraduría de la Defensa del menor, la mujer y la familia en esta materia, estableciéndose mecanismos que coadyuven a salvaguardar la integridad y los derechos de los menores en circunstancias de carácter excepcional, por lo que se establece un procedimiento especial de protección; finalmente en el Título Quinto, se especifican las sanciones para quién incumpla las disposiciones de esta ley.
+
+SEXTO.- La Ley que se somete a la consideración de la Asamblea, desarrolla el ejercicio de los derechos a la vida, prioridad a la no discriminación, de identidad, a la familia, a la salud, a la integridad, al control del maltrato y abuso sexual, a la educación, al descanso, a la recreación, al esparcimiento, a opinar, a la reunión y a la libre asociación, al deporte y juegos, el respeto a su vida privada y sobre todo a la información. Con ello, esta Legislatura cumplirá íntegramente con los compromisos de la Representación Popular frente al futuro de nuestra patria y que en forma específica representan nuestros hijos; es también el esfuerzo por traducir en normas jurídicas la prevención y protección del Estado frente a la marginación, vulnerabilidad, desventaja social y susceptibilidad a las adicciones.
+
+Con base en los anteriores Considerandos, esta H. LXII Legislatura del Estado, expide el siguiente:
+
+DECRETO No. 61
+
+LA HONORABLE SEXAGÉSIMA SEGUNDA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 55 DE LA CONSTITUCIÓN POLÍTICA LOCAL, A NOMBRE DEL PUEBLO, DECRETA:
+
+LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE DURANGO
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPÍTULO ÚNICO. Disposiciones Generales
+
+###### Artículo 1.
+
+La presente Ley es de orden público, interés social y de observancia general en el Estado de Durango y tiene como objeto garantizar y promover el respeto de los derechos fundamentales de las niñas, los niños y adolescentes y establecer los principios que regulen la participación de las instituciones públicas y privadas en su defensa y protección.
+
+###### Artículo 2.
+
+Para los efectos de esta Ley, se entiende por:
+
+I. Niña o Niño.- A las personas hasta los doce años de edad incumplidos;
+
+II. Adolescentes.- toda persona que tienen entre doce años cumplidos y dieciocho años cumplidos;
+
+III. Estado.- Conjunto de dependencias y entidades que conforman la Administración Pública Estatal y Municipal;
+
+IV. Abandono.- La situación de desamparo que viven las niñas y los niños cuando los progenitores, tutores o responsables de su cuidado dejan de proporcionarles los medios básicos de subsistencia y los cuidados necesarios para su desarrollo integral sin perjuicio de lo previsto en otras leyes;
+
+V. Actividades Marginales.- Todas aquellas actividades que realizan las niñas, los niños y adolescentes que se encuentran o vivan en circunstancias de desventaja social con el fin de obtener recursos económicos, al margen de las normas jurídicas que regulan el trabajo;
+
+VI. Asistencia Social.- Al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de las niñas, los niños y adolescentes en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
+
+VII. Desarrollo Integral.- Conjunto de acciones que deben realizar el Estado, la familia y la sociedad a favor de las niñas, los niños y adolescentes, tendientes a satisfacer sus necesidades básicas, propiciar su desarrollo armónico e integral y garantizar sus derechos;
+
+VIII. Atención y Protección Integral Especial.- Al conjunto de acciones compensatorias y restitutivas que deben realizar el Estado, la familia y la sociedad a favor de las niñas, los niños y adolescentes que se encuentran en condiciones de desventaja social, y que tienen por objeto garantizar el ejercicio de sus derechos, satisfacer sus necesidades básicas y propiciar su desarrollo biopsicosocial;
+
+IX. Familia Provisional.- El núcleo familiar que proporciona por tiempo indefinido alojamiento temporal, cuidados y atenciones a niñas, a niños o adolescentes en situación de desamparo con el objeto de brindarle un ambiente propicio para su desarrollo integral;
+
+X. Familia Sustituta.- Es el grupo de individuos que va a sustituir provisional o permanentemente a la familia biológica o nuclear de la niña, el niño o adolescente;
+
+XI. Hogar Provisional.- Es el lugar donde físicamente se va a ubicar a una niña, a un niño o adolescente por tiempo determinado;
+
+XII. Maltrato Físico.- Todo acto de agresión intencional, repetitivo, en el que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física, y cuyo propósito es lograr su sometimiento y control;
+
+XIII. Maltrato Psicoemocional.- Al patrón de conducta consistente en actos u omisiones repetitivo que perturben emocionalmente a la víctima, perjudicando su desarrollo psíquico o emotivo; y cuyas formas de expresión pueden ser: prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, actitudes devaluatorias de abandono y que provoquen en quién las recibe, deterioro, disminución o afectación a su estructura de personalidad.
+
+XIV. Niña, Niño o Adolescente con Discapacidad.- Al que padece temporal o permanentemente una disminución en sus facultades físicas, mentales o sensoriales que les impiden el desarrollo normal de sus actividades;
+
+XV. Niña, niño y adolescente que se encuentran o vivan en circunstancias de desventaja social: Aquellos que dentro o fuera del ámbito familiar, y en especial por causas de pobreza o miseria, están temporal o permanentemente sujetos a abandono, maltrato psicoemocional, desintegración familiar, enfermedades severas físicas o emocionales, padezcan algún tipo de discapacidad, padres privados de la libertad, víctimas de cualquier abuso, explotación laboral o sexual o cualquier otra situación, contingencia o actividad que ponga en riesgo o impida su desarrollo integral;
+
+XVI. Prevención.- Aquéllas acciones que deben realizarse a fin de evitar el deterioro de las condiciones de vida de las niñas, los niños y adolescentes;
+
+XVII. Protección.- Aquéllas acciones que deben realizarse a fin de proporcionar bienes y servicios a las niñas, los niños y adolescentes; y
+
+XVIII. Provisión.- Aquéllas acciones que deben realizarse por los sectores público, social y privado a fin de garantizar la sobre vivencia (sic), bienestar y desarrollo pleno de las niñas y niños para dar satisfacción a sus necesidades;
+
+###### Artículo 3.
+
+Los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Durango y en las demás disposiciones aplicables, serán reconocidos a todas las niñas, los niños y adolescentes, sin perjuicio de la protección integral que contempla esta ley.
+
+La interpretación y aplicación de las disposiciones de esta ley, deberá hacerse conforme a los principios que la rigen, lo dispuesto en las normas Constitucionales, los tratados y demás instrumentos internacionales suscritos y ratificados por el Estado Mexicano.
+
+###### Artículo 4.
+
+Son principios rectores en la observancia, interpretación y aplicación de esta Ley, los siguientes:
+
+I.- El Interés Superior de las niñas, los niños y adolescentes, implica dar prioridad al bienestar de la niñez y adolescencia ante cualquier otro interés que vaya en su perjuicio.
+
+Este principio orientará la actuación del Estado, como responsable de formular y ejecutar políticas públicas orientadas a la defensa y representación jurídica, provisión, prevención, protección especial y participación de las niñas, los niños y adolescentes, mismas que deberán verse reflejadas en la formulación y ejecución de políticas públicas;
+
+Para efectos del cumplimiento oportuno de cada uno de los planes y programas derivados de esta Ley, se incluirán las partidas correspondientes en la Ley de Egresos del Estado, así como en los presupuestos de los ayuntamientos.
+
+II.- La Corresponsabilidad o Concurrencia, que asegura la participación y responsabilidad de la familia, el Estado y la sociedad en la atención de las niñas, los niños y adolescentes;
+
+III.- El de igualdad y equidad;
+
+IV.- El de vivir en familia como espacio primordial de desarrollo;
+
+V.- El de tener una vida libre de violencia; y
+
+VI.- Los demás que les reconozcan otros ordenamientos legales.
+
+###### Artículo 5.
+
+De manera enunciativa, más no limitativa, conforme a la presente Ley, las niñas, los niños y adolescentes en el Estado de Durango tienen los siguientes derechos:
+
+I.- A la Vida, Integridad y Dignidad:
+
+a) A la vida con calidad, siendo obligación del padre y la madre, de la familia, de la sociedad, garantizar su sobrevivencia y su desarrollo, así como el acceso a los medios y mecanismos necesarios para ello;
+
+b) A la no discriminación, por lo que la observancia a sus derechos se hará sin distinción alguna, independientemente del fenotipo, color, sexo, idioma, religión, opinión, origen nacional, étnico o social, posición económica, impedimentos físicos, el nacimiento o cualquier otra condición;
+
+c) A ser respetado, en su integridad física, psicoemocional y sexual;
+
+d) A ser protegidos contra toda forma de explotación;
+
+e) A recibir protección por parte de sus progenitores, familiares, el Estado y la sociedad; y
+
+f) A recibir información respecto de cuestiones de seguridad publica y de protección civil.
+
+II.- A la identidad, Certeza Jurídica y Familia:
+
+a) A la identidad, tomando como base el conjunto de atributos y derechos de la personalidad conforme a lo previsto en la legislación civil;
+
+b) A ser registrados después de su nacimiento, con un nombre y apellidos propios, de conformidad con lo establecido en la legislación civil;
+
+c) A solicitar y recibir información sobre su origen, sobre la identidad de sus padres y a conocer su origen genético;
+
+d) A vivir y crecer en el seno de una familia, conocer a sus progenitores y a mantener relaciones personales y contacto directo con ellos, aún en el caso de estar separados, salvo si ello es contrario a su interés superior.
+
+e) A emitir su opinión en todos los asuntos que le afecten y a ser escuchado, tomando en cuenta su edad y madurez en todo procedimiento judicial o administrativo, ya sea directamente o por medio de representante;
+
+f) A recibir un trato digno y apropiado cuando sean víctimas de cualquier tipo de ilícito o cuando ellos mismos cometan infracciones; y
+
+g) A recibir el apoyo del Estado en lo relativo al ejercicio y respeto de sus derechos a través de las instituciones creadas para tal efecto;
+
+III.- A la Salud y Alimentación:
+
+a) A poseer, recibir o tener acceso a los satisfactores necesarios, tales como alimentos, bienes, servicios y condiciones que posibiliten su desarrollo armónico e integral en el ámbito físico, intelectual, social y cultural.
+
+b) A tener acceso a los servicios médicos necesarios, para la prevención, tratamiento, atención y rehabilitación de discapacidades y enfermedades, de acuerdo con las bases y modalidades que establecen las disposiciones jurídicas de la materia;
+
+c) A recibir orientación y capacitación para obtener conocimientos básicos en materia de salud, nutrición, higiene, saneamiento comunitario y ambiental, así como todo aquello que favorezca su cuidado personal;
+
+d) A ser protegidos y orientados contra el consumo de drogas, estupefacientes, uso de tecnologías o cualquier otra cosa que les genere estado de dependencia o adicción; y
+
+e) A la salud y a los servicios integrales para la prevención, el tratamiento de enfermedades, su atención y rehabilitación.
+
+IV.- A la Educación, recreación, información y participación:
+
+a) A expresar su opinión libremente, conocer sus derechos y a ser escuchados en el ámbito familiar y comunitario, así como en todo procedimiento administrativo o judicial, que afecte sus esferas personal, familiar y social;
+
+b) A ser tomados en cuenta para cualquier acto relacionado con su vida personal y social;
+
+c) De asociarse y reunirse;
+
+d) A recibir información adecuada de acuerdo a sus etapas de crecimiento, que promueva su bienestar social, así como su salud bio-psicosocial y sexual, enalteciendo los valores de paz, equidad, democracia, solidaridad, libertad, justicia, respeto y tolerancia.
+
+e) A recibir educación de calidad; y
+
+f) A participar en la vida cultural de su comunidad, así como al desarrollo de la creación artística, a la recreación, esparcimiento, actividad deportiva, y a los juegos y actividades propias de su edad;
+
+V.- A la Asistencia Social:
+
+a) A ser sujetos de programas de asistencia social cuando se encuentren o vivan circunstancias de desventaja social, que garanticen la protección integral en tanto puedan valerse por si mismos y que le auxilien a recuperar su salud y equilibrio personal, en caso de daño físico o mental; y
+
+VI.- Los demás que les reconozcan otros ordenamientos legales.
+
+## TÍTULO SEGUNDO. DE LOS DERECHOS Y RESPONSABILIDADES
+
+### CAPÍTULO I. Del Derecho de Prioridad
+
+###### Artículo 6.
+
+Es deber del Estado, los municipios, la familia y la sociedad en general asegurar con absoluta prioridad, la realización de los derechos de las niñas, los niños y adolescentes relativos a la vida, seguridad e integridad, a la salud, educación, alimentación, deporte, recreación, cultura, dignidad, respeto, libertad y convivencia familiar comunitaria.
+
+###### Artículo 7.
+
+El Estado, la familia y la sociedad deben asegurar con prioridad absoluta todos los derechos y garantías a las niñas, a los niños y adolescentes. La prioridad absoluta comprende:
+
+I. Recibir protección y socorro en cualquier circunstancia y con la oportunidad que se requiere;
+
+II. Preferencia en la formulación y ejecución de las políticas públicas necesarias para la protección de sus derechos; y
+
+III. Una mayor asignación de recursos públicos a las instituciones encargadas de proteger sus derechos, y para las políticas y programas de protección.
+
+### CAPÍTULO II. Del Derecho a la Vida
+
+###### Artículo 8.
+
+Las niñas, los niños y adolescentes tienen derecho fundamental a la vida; el Estado deberá garantizar y proteger este derecho, con políticas públicas que garanticen su supervivencia, seguridad y desarrollo integral.
+
+### CAPÍTULO III. Del Derecho a la no Discriminación
+
+###### Artículo 9.
+
+Las disposiciones de esta ley se aplican a todos (sic) las niñas, los niños y adolescentes del Estado de Durango, sin discriminación alguna en razón de raza, color, sexo, edad, idioma, religión, creencias, origen étnico, cultura, opinión política, posición económica, discapacidad física, mental o sensorial, condición de nacionalidad o de nacimiento, o de cualquier otra condición de sus padres, representantes o responsables de su familia.
+
+Es deber de las autoridades, ascedientes, tutores y de los miembros de la sociedad, promover e impulsar un desarrollo igualitario entre las niñas, los niños y adolescentes, debiendo combatir o erradicar las costumbres y prejuicios alentadores de una pretendida superioridad de un sexo sobre otro.
+
+### CAPÍTULO IV. Del Derecho a la Identidad
+
+### CAPÍTULO V. Del Derecho a Vivir en Familia
+
+###### Artículo 10.
+
+Las niñas, los niños y adolescentes que nazcan en el Estado de Durango, tendrán derecho a su identidad, incluidas la nacionalidad, el nombre, a conocer a sus padres y ser cuidados por ellos, y a ser inscritos en el Registro Civil de conformidad a lo previsto en el Código Civil para el Estado de Durango.
+
+### CAPÍTULO VI. Del Derecho a la Salud
+
+### CAPÍTULO VII. Del Derecho a ser Protegido en su Integridad
+
+###### Artículo 11.
+
+Las niñas, los niños y adolescentes tienen derecho a vivir, ser criados y desarrollarse en el seno de su familia de origen y excepcionalmente en familia sustituta o en instituciones asistenciales.
+
+###### Artículo 12.
+
+Las niñas, los niños y adolescentes no podrán ser separados de su familia, salvo en circunstancias establecidas por la ley.
+
+###### Artículo 13.
+
+Las medidas de protección tendientes a separar temporalmente del seno familiar a la niña, al niño o adolescente sólo se aplicará cuando la conducta que la originó sea atribuible a quien convive con ellos y no exista otra alternativa.
+
+###### Artículo 14.
+
+La falta de recursos económicos no podrá considerarse como causa suficiente para separarlos de sus padres o familiares, o para resolver sobre la pérdida de patria potestad.
+
+El Estado velará porque sólo sean separados de sus padres y de sus madres mediante sentencia u orden preventiva judicial que declare legalmente la separación garantizándoles el derecho de audiencia de todas las partes involucradas.
+
+No deberá considerarse como exposición ni estado de abandono, los casos de padres y madres que, por extrema pobreza tengan necesidad de ganarse el sustento lejos de su lugar de residencia, tengan dificultades para atenderlos permanentemente, siempre que los mantengan al cuidado de otras personas, los traten sin violencia y provean a su subsistencia.
+
+###### Artículo 15.
+
+Es un derecho de las niñas, los niños y adolescentes man (sic) contacto directo y permanente con ambos padres, aún cuando existe se (sic) entre éstos, salvo que sea contrario a su interés superior o por decisión (sic)
+
+###### Artículo 16.
+
+El Estado reconoce la institución de la adopción de niñas, niños y adolescentes, debiendo garantizar que en ésta se atienda primordialmente a su interés superior y que se realice de conformidad con la ley de la materia.
+
+###### Artículo 17.
+
+Cuando una niña, niño o adolescente se encuentre privado de su familia, tendrán derecho a recibir la protección del Estado, por conducto del Sistema para el Desarrollo Integral de la Familia o centros asistenciales privados, conforme a la ley.
+
+###### Artículo 18.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado de Durango, en coordinación con las autoridades competentes apoyará a través de sus programas, la localización de padres o familiares a fin de obtener información que permita el reencuentro familiar.
+
+###### Artículo 19.
+
+De no ser posible la reintegración familiar, el Estado brindará la atención y cuidados asistenciales que requieran a través del Sistema para el Desarrollo Integral de la Familia del Estado de Durango y de instituciones asistenciales privadas.
+
+Las instituciones de asistencia privada que proporcionen en forma temporal o definitiva atención y cuidados a las niñas, los niños y adolescentes deben ser supervisada por la Secretaría de Salud y el Sistema para el Desarrollo Integral de la Familia del Estado de Durango.
+
+### CAPÍTULO VIII. Del Derecho a la Educación
+
+###### Artículo 20.
+
+Las niñas, los niños y adolescentes, tienen derecho a la salud. El Gobierno del Estado, a través de la Secretaría de Salud, el Sistema para el Desarrollo Integral de la Familia del Estado de Durango y demás integrantes del Sistema Estatal de Salud, prestarán servicios de calidad, especialmente en materia de prevención, tratamiento y atención.
+
+Para tal efecto realizarán las acciones siguientes:
+
+I. Asegurar la prestación de la asistencia médica y la atención sanitaria que sea necesaria, haciendo hincapié en el desarrollo de la atención primaria de salud;
+
+II. Apoyar la nutrición de la madre en estado de gestación y/o lactancia, para que el producto alcance la madurez y crecimiento necesario para su correcto desarrollo;
+
+III. Asistir médicamente, a través de las clínicas y hospitales del sector salud o de los establecimientos particulares con los que se convenga, a la madre adolescente en gestación o lactancia, sin importar su afiliación o no a los regímenes de asistencia derechohabiente;
+
+IV.- Las niñas o adolescentes embarazadas recibirán un trato digno y respetuoso en los servicios de salud e información materno-infantil y atención médica y hospitalaria;
+
+V.- Apoyar las campañas de medicina preventiva y vacunación de las diversas instancias de gobierno;
+
+VI.- Realizar las campañas de prevención y detección de enfermedades y discapacidades;
+
+VII.- Proporcionar complementos alimenticios a los menores que lo requieran;
+
+VIII.- Establecer comedores para proporcionar una alimentación balanceada a los menores que lo requieran por su precaria situación económica y que se encuentran realizando estudios en las escuelas del sector público, independientemente del nivel de escolaridad;
+
+IX.- Crear y fortalecer centros de capacitación y albergues campesinos de concentración escolar en las zonas rurales, donde se proporcione a manera de beca, alimentación y vivienda;
+
+X.- Proporcionar información y educación sexual con perspectiva de género;
+
+XI.- Asegurar que todos los sectores de la sociedad, y en particular los padres tengan conocimiento acerca de los principios básicos de la salud y la nutrición de los menores, las ventajas de la lactancia materna, la higiene y el saneamiento ambiental y las medidas de prevención de accidentes, tengan acceso a la educación pertinente y reciban apoyo en la aplicación de esos conocimientos;
+
+XII.- Impulsar programas de atención a enfermedades endémicas, epidémicas, de transmisión sexual y del VIH/SIDA, así como programas de prevención e información sobre las mismas; y
+
+XIII.- Las demás acciones que coadyuven a asegurar el derecho y la salud en forma integra.
+
+###### Artículo 21.
+
+Los servicios de prevención, tratamiento y atención, en la medida de lo posible se proporcionarán en forma gratuita, previa valoración y el estudio socioeconómico correspondiente.
+
+### CAPÍTULO IX
+
+De los Derechos al Descanso, Recreación,
+
+Esparcimiento, Deporte y Juego
+
+### CAPÍTULO X. Derecho a la Libertad de Expresión
+
+###### Artículo 22.
+
+Las niñas, los niños y los adolescentes tienen derecho a ser protegidos contra toda forma de descuido, abandono, violencia, explotación, torturas, tratos crueles, inhumanos o degradantes.
+
+###### Artículo 23.
+
+Las niñas, los niños y los adolescentes tienen derecho a ser protegidos contra cualquier forma de abuso y explotación sexual comercial en cualquiera de sus modalidades, tráfico, prostitución, pornografía y turismo infantil.
+
+El Gobierno del Estado debe establecer programas permanentes y gratuitos de asistencia y atención integral.
+
+### CAPÍTULO XI. Del Derecho a la Opinión
+
+### CAPÍTULO XII. Del Derecho a la Participación
+
+###### Artículo 24.
+
+El Estado por conducto de la Secretaría de Educación, establecerá los mecanismos que garanticen el derecho de las niñas, los niños y los adolescentes a recibir educación integral, orientada hacia el desarrollo de sus potencialidades a fin de prepararlos para una vida adulta responsable, con un espíritu cívico, de solidaridad, fraternidad, tolerancia y respeto hacia los demás; a tal efecto deberá:
+
+I. Propiciar la impartición de una educación que fomente el amor a la familia, al Estado, a la patria y cree conciencia de solidaridad, independencia y justicia social;
+
+II. Promover acciones que garanticen que sean inscritos y concurran a las escuelas;
+
+III. Fomentar la educación preescolar en toda la entidad;
+
+IV. Incrementar salas de lectura y bibliotecas especialmente diseñadas para facilitar su acceso a la información y formación intelectual;
+
+V. Proporcionar a las niñas, los niños y adolescentes con discapacidad, una educación acorde a sus necesidades;
+
+VI. Evitar la discriminación en materia de oportunidades educativas; y
+
+VII.- Las demás que contribuyan a asegurar su desarrollo integral.
+
+###### Artículo 25.
+
+Toda medida correctiva que se adopte en los centros educativos, se aplicará, respetando la dignidad de las niñas, los niños y adolescentes, garantizándoles la oportunidad de ser oídos previamente.
+
+###### Artículo 26.
+
+Los adolescentes mayores de catorce años y menores de dieciséis que laboren, de conformidad con lo establecido en los artículos 22, 23 y 173 de la Ley Federal del Trabajo, tendrán derecho a la enseñanza adecuada a sus condiciones.
+
+### CAPÍTULO XIII. Del Derecho a la Reunión
+
+###### Artículo 27.
+
+Las niñas, los niños y los adolescentes tienen derecho al descanso, recreación, esparcimiento, deporte y juego.
+
+La ejecución de los derechos consagrados en esta disposición debe estar dirigida a garantizar el desarrollo integral de la infancia y la adolescencia, y a fortalecer los valores de solidaridad, tolerancia, identidad cultural y conservación del ambiente.
+
+###### Artículo 28.
+
+El Gobierno del Estado a través de la Secretaría de Educación y los Institutos de la Cultura y del Deporte fomentará la realización de actividades culturales, artísticas, recreativas y deportivas que contribuyan al pleno desarrollo de las niñas, los niños y adolescentes.
+
+### CAPÍTULO XIV. Del Derecho a la Libre Asociación
+
+###### Artículo 29.
+
+Las niñas, los niños y los adolescentes tienen derecho a expresar libremente su pensamiento, con las limitaciones prescritas por la ley que sean necesarias para proteger la seguridad, el orden, la salud, la moral y los derechos y libertades fundamentales de terceros.
+
+Los padres, representantes o responsables tienen el deber de orientar a las niñas, los niños y adolescentes en el ejercicio de este derecho a fin de que contribuya a su desarrollo integral
+
+### CAPÍTULO XV. Del Derecho a la Protección de la Vida Privada
+
+###### Artículo 30.
+
+Las niñas, los niños y adolescentes tiene derecho a:
+
+I.- Expresar libremente su opinión en los asuntos que les afecten;
+
+II.- Que sus opiniones sean escuchadas y tomadas en cuenta, en función de su edad y madurez.
+
+###### Artículo 31.
+
+El Gobierno del Estado a través de las autoridades competentes deberá garantizar a todas las niñas, los niños y adolescentes el ejercicio de este derecho, ya sea directamente, a través de un representante o de la Procuraduría de la Defensa del Menor; especialmente en todo procedimiento administrativo o judicial de conformidad con las disposiciones aplicables.
+
+### CAPÍTULO XVI. Del Derecho a la Información
+
+###### Artículo 32.
+
+Las niñas, los niños y adolescentes tienen derecho a participar libre y activamente, en la vida familiar, social, escolar, científica, cultural, deportiva y recreativa.
+
+El Estado, la familia y la sociedad deberán propiciar y fomentar oportunidades de participación de la infancia y la adolescencia.
+
+### CAPÍTULO XVII. Del Derecho a la Administración de Justicia
+
+### CAPÍTULO XVIII. De las Responsabilidades
+
+###### Artículo 33.
+
+Las niñas, los niños y adolescentes tienen derecho a reunirse de manera pública o privada con fines lícitos y pacíficos, sin más limitaciones que las que establece la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Durango.
+
+### CAPÍTULO I. Disposiciones Generales
+
+###### Artículo 34.
+
+Las niñas, los niños y adolescentes tienen derecho a asociarse libremente con otras personas, con fines sociales, culturales, deportivos, recreativos, religiosos, políticos, económicos o de cualquier otra índole, sin más limitaciones que las que establece la Constitución Política de los Estados Unidos Mexicanos.
+
+### CAPÍTULO II. De los Derechos de las niñas, los niños y adolescentes con Discapacidad
+
+###### Artículo 35.
+
+En el Estado de Durango todas las niñas, los niños y adolescentes tienen derecho al respeto de su correspondencia, domicilio, vida privada e intimidad familiar. Este derecho no puede ser objeto de injerencias arbitrarias o ilegales.
+
+### CAPÍTULO III. Los Derechos de las niñas, los niños y adolescentes con Adicciones
+
+###### Artículo 36.
+
+Las niñas, los niños y adolescentes tienen derecho al acceso de la información y material que sea acorde con su desarrollo.
+
+El Gobierno del Estado a través de la Secretaría General de Gobierno, pugnará por que las radiodifusoras y televisoras locales difundan mensajes dirigidos exclusivamente a las niñas, los niños y adolescentes, que atienda sus necesidades informativas, la difusión de sus derechos, sus responsabilidades que promuevan la equidad, la tolerancia, los valores y la no violencia.
+
+### CAPÍTULO IV. De las niñas, los niños y adolescentes en Situación de Calle
+
+###### Artículo 37.
+
+Las niñas, los niños y adolescentes en Durango que sean considerados, acusados o declarados culpables de infringir las leyes, tendrán derecho a ser tratados con dignidad, de acuerdo a su edad y considerándose como objetivo prioritario el promover su reintegración a la sociedad.
+
+###### Artículo 38.
+
+El Estado de Durango tomará todas las medidas apropiadas para promover el establecimiento de leyes, procedimientos, autoridades e instituciones aplicables específicamente a las niñas, los niños y adolescentes que sean considerados, acusados o declarados culpables de infringir las leyes y en particular, examinarán:
+
+I.- Establecer una edad mínima antes de la cual se supondrá que las niñas, y los niños no tienen capacidad para infringir las leyes; y
+
+II.- Tratar a las niñas, los niños y adolescentes sin recurrir a procesos judiciales, respetando plenamente los derechos humanos y las salvaguardas jurídicas.
+
+### CAPÍTULO I. De las Acciones de Protección
+
+### CAPÍTULO II. De la Procuraduría de la Defensa del Menor la Mujer y la Familia
+
+###### Artículo 39.
+
+Las niñas, los niños y adolescentes del Estado de Durango están obligados a respetar las restricciones establecidas por la ley, la moral y el orden público. En particular deben cumplir con las siguientes responsabilidades:
+
+I.- Honrar a la Patria y sus Símbolos;
+
+II.- Respetar los derechos y las garantías de las demás personas;
+
+III.- Honrar, respetar y obedecer a sus padres, representantes o responsables, siempre que sus órdenes no violenten sus derechos o contravengan las disposiciones jurídicas aplicables;
+
+IV.- Ejercer sus derechos y defenderlos;
+
+V.- Cumplir sus obligaciones educativas;
+
+VI.- Conservar el ambiente y propiciar una educación ecológica; y
+
+VII.- Las demás acciones que coadyuven a asegurar el desarrollo armónico e integral
+
+###### Artículo 40.
+
+Son obligaciones de madres, padres y de todas las personas que tengan a su cuidado niñas, niños y adolescentes:
+
+I. Velar por su desarrollo físico y emocional proporcionándoles una vida digna;
+
+II. Garantizar la satisfacción de sus necesidades de alimentación, habitación, educación, vestido, atención médica y recreación; y
+
+III. Protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso y explotación.
+
+###### Artículo 41.
+
+Corresponde a las autoridades estatales y municipales, en el ámbito de sus atribuciones, asegurar a las niñas, a los niños y adolescentes la protección y ejercicio de sus derechos y la toma de medidas necesarias para su bienestar, tomando en cuenta los derechos y deberes de sus madres, padres y demás ascendientes, tutores y custodios, u otras personas que sean responsables de los mismos. De igual manera sin perjuicio de lo anterior, es deber y obligación de la comunidad a la que pertenecen y, en general de todos los integrantes de la sociedad duranguense, el respeto y el auxilio en el ejercicio de su derechos.
+
+###### Artículo 42.
+
+Las autoridades competentes del sistema educativo, sin perjuicio de la responsabilidad en el ámbito del derecho penal, están obligadas a comunicar a las autoridades competentes, cuando se presenten los siguientes casos:
+
+I. Maltrato físico y/o emocional, abuso sexual o trato corruptor, que involucren a las niñas, a los niños y adolescentes como víctima o causante de ellos;
+
+II. Consumo de drogas, estupefacientes, bebidas con contenido alcohólico, y tabaquismo entre otras sustancias perjudiciales para la salud.
+
+## TÍTULO TERCERO. DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN CIRCUNSTANCIAS ESPECIALMENTE DIFÍCILES
+
+### CAPÍTULO III. Del Procedimiento Especial de Protección
+
+###### Artículo 43.
+
+Cualquier autoridad o persona que tenga conocimiento de alguna niña, niño o adolescente, que se encuentre en condiciones de marginación, vulnerabilidad o desventaja social, considerándose como tales el maltrato, abandono, abuso y explotación sexual comercial en cualquiera de sus modalidades, y en los supuestos de sustracción o adopción ilegal, previstas o no en la presente ley, solicitará la intervención de las autoridades competentes a fin de que se apliquen de inmediato las medidas necesarias para su protección y atención, así como para la determinación de responsabilidades, en su caso.
+
+###### Artículo 44.
+
+Las autoridades estatales y municipales, así como las instituciones de asistencia privada establecerán programas a fin de proteger menores en circunstancias especialmente difíciles.
+
+### CAPÍTULO ÚNICO. De las Sanciones
+
+###### Artículo 45.
+
+Las niñas, los niños y adolescentes con discapacidad física, sensorial o intelectual, tienen derecho a gozar de una vida plena, digna y no podrán ser discriminados por ningún motivo.
+
+###### Artículo 46.
+
+El Gobierno del Estado por conducto del Sistema para el Desarrollo Integral de la Familia de Durango y demás autoridades competentes, instrumentarán programas tendientes a:
+
+I. Ofrecer apoyos educativos y formativos para padres y familias de las niñas, de los niños y adolescentes con discapacidad con la finalidad de que estén en posibilidad de aceptar y enfrentar de mejor manera la situación;
+
+II. Promover estudios e investigaciones sobre la prevención de la discapacidad;
+
+III. Fomentar una cultura de respeto y tolerancia a la discapacidad;
+
+IV. Brindar facilidades arquitectónicas y de accesibilidad en centros escolares, recreativos, culturales, comerciales, religiosos y en general en el equipamiento e infraestructura urbana; y
+
+V. Los demás que contribuyan a generar condiciones a favor de las niñas, los niños y adolescentes con discapacidad.
+
+###### Artículo 47.
+
+El Estado con la activa participación de la sociedad, debe garantizar políticas y programas contra el uso ilícito de sustancias alcohólicas, estupefacientes y psicotrópicos. Asimismo, debe asegurar programas de atención especial para la recuperación integral de las niñas, los niños y adolescentes dependientes y consumidores de estas sustancias.
+
+###### Artículo 48.
+
+Las niñas, los niños y adolescentes adictos a sustancias que producen dependencia, tendrán derecho a recibir tratamiento médico tendiente a su rehabilitación, tomándose las medidas necesarias a fin de apoyar su salud física y psicológica, para tal efecto la Secretaría de Salud, reforzará y creará programas integrales enfocados a la problemática particular asociada a los distintos tipos de drogas y a las formas de dependencia física o emocional.
+
+###### Artículo 49.
+
+La Secretaría de Salud, establecerá las campañas preventivas tendientes a crear en las familias y la sociedad, la sensibilización y concientización sobre los efectos nocivos del uso de fármacos o sustancias que produzcan adicción.
+
+###### Artículo 50.
+
+Los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia tendrán la obligación de establecer un programa específico y prioritario que contemple las medidas de defensa jurídica, de provisión, prevención, protección y asistencia para brindar atención a las niñas, los niños y adolescentes en situación de calle.
+
+###### Artículo 51.
+
+Los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia en coordinación con organismos e instituciones privadas impulsarán e implementarán medidas tendientes a prevenir y evitar que los menores realicen actividades marginales o de sobrevivencia llevando a cabo las acciones que se requieran para protegerlos y evitar su explotación.
+
+## TÍTULO CUARTO. DE LA PROCURACIÓN DE LA DEFENSA Y PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES
+
+###### Artículo 52.
+
+Toda persona, autoridad o institución que tenga conocimiento de alguna niña, niño o adolescente que se encuentre en condiciones de desventaja social, deberá hacerlo del conocimiento de las autoridades competentes, sin perjuicio del derecho que tendrá el menor de denunciar todo maltrato físico o abuso de que sea objeto; esto con el fin de tomar las medidas necesarias para su protección y atención.
+
+###### Artículo 53.
+
+Las niñas, los niños y adolescentes a quienes se violen algunos o varios de los supuestos mencionados en los artículos que anteceden, serán sujetos de especial protección por parte del Estado, para lo cual establecerán programas interinstitucionales y promoverá la participación de la sociedad con tal finalidad.
+
+###### Artículo 54.
+
+Cuando la conducta que motive la medida de protección se origine en un delito de lesiones o contra la libertad sexual del menor de edad, el Sistema para el Desarrollo Integral de la Familia o la institución pública o privada que conozca de estos hechos, podrá solicitar al Ministerio Público especializado se dicte la medida de protección que permita atender de manera urgente la situación de riesgo o peligro que enfrente el infante o adolescente.
+
+###### Artículo 55.
+
+La Procuraduría de la Defensa del Menor, la mujer y la familia, es el área administrativa que depende del Organismo Descentralizado del Poder Ejecutivo del Estado, denominado Sistema para el Desarrollo Integral de la Familia; la cual tendrá la estructura orgánica que permita la disponibilidad presupuestal y que determine su ley orgánica y el reglamento respectivo.
+
+La Procuraduría es la instancia especializada con funciones de autoridad competente en esta materia, para casos especiales, en los que intervendrá en la defensa de los derechos contemplados en esta ley a favor de las niñas, los niños y adolescentes, sin perjuicio de la aplicación de otras disposiciones legales vigentes en nuestro Estado.
+
+###### Artículo 56.
+
+Los principios del procedimiento especial y de protección se aplicarán en defensa del interés superior de las niñas, los niños y adolescentes. El Estado, deberá garantizar el principio de defensa y el debido proceso, en las decisiones que pretendan resolver algún conflicto derivado del ejercicio de los derechos contemplados en este ordenamiento.
+
+###### Artículo 57.
+
+En la instancia administrativa, el procedimiento especial de protección corresponde a la Procuraduría de la Defensa del Menor y la familia.
+
+###### Artículo 58.
+
+Las medidas de protección para las niñas, los niños y adolescentes, serán aplicables cuando sus derechos sean amenazados o violados por alguna de las siguientes causas.
+
+I. Acción u omisión de los particulares o del Estado;
+
+II. Falta, omisión o abuso de quienes ejerzan la patria potestad, custodia, cuidado o su guarda; y
+
+III. Acciones u omisiones contra sí mismos.
+
+###### Artículo 59.
+
+Cuando la Procuraduría de la Defensa del Menor la mujer y la familia, tenga conocimiento de que una niña, niño o adolescente, se encuentra en estado de abandono, de inmediato procederá en su carácter de autoridad competente a verificar tal hecho, tomando las medidas necesarias que juzgue pertinentes para la protección y salvaguarda de su integridad y tan pronto le sea posible, hará del conocimiento al Ministerio Público de los hechos o a la autoridad correspondiente.
+
+De inmediato el Ministerio Público encargará a la niña, al niño o adolescente, dependiendo de su edad, a una Institución pública o privada, apropiada para protegerlo, en tanto se agota la investigación para localizar a los responsables de dicho abandono; debiendo en todo caso, el Ministerio Público iniciar el trámite judicial que corresponda.
+
+Constatado el abandono, transcurrido el plazo de dos meses, y una vez agotada la investigación correspondiente y sin que nadie se haya presentado a reclamar al menor, la Procuraduría de la Defensa del Menor procederá a registrar a la niña, al niño o adolescente ante la Dirección General del Registro Civil cundo (sic) no exista constancia de su registro o datos que permitan determinar su identidad.
+
+###### Artículo 60.
+
+Conocido el hecho o recibida la denuncia, la Procuraduría de la Defensa del Menor constatará la situación, escuchará a las partes involucradas, recibirá las pruebas que ellas presenten y dictará inmediatamente las medias de protección que corresponden.
+
+###### Artículo 61.
+
+Las medidas de protección para las niñas, los niños y adolescentes, que deberá llevar a cabo la Procuraduría de la Defensa del Menor, en la instancia administrativa serán:
+
+I. Orientación, apoyo y seguimiento temporal a su familia;
+
+II. Protegerlos en entidades públicas y privadas;
+
+III. Matrícula y asistencia obligatorias en establecimientos oficiales de enseñanza;
+
+IV. Inclusión en programas oficiales o comunitarios de auxilio a su familia y a las personas a las que se refiere esta Ley;
+
+V. Orden de tratamiento médico, psicológico o psiquiátrico en régimen de internación o ambulatorio;
+
+VI. Inclusión en programas oficiales o comunitarios de auxilio, que implique orientación y tratamiento de adicciones;
+
+VII.- Cuidado provisional en familias substitutas; y
+
+VIII.- Las demás que contribuyan al desarrollo integral de las niñas, los niños y adolescentes.
+
+###### Artículo 62.
+
+Serán medidas aplicables a las personas que ejerzan la patria potestad o la guarda de las niñas, los niños y adolescentes, las siguientes:
+
+I. Remitirlas a programas oficiales o comunitarios de apoyo, orientación y tratamiento familiar; respecto del consumo de drogas, estupefacientes, bebidas con contenido alcohólico, y tabaquismo entre otras sustancias perjudiciales para la salud.
+
+II. Obligarlas a matricular a las niñas, los niños y adolescentes, tomando las medidas necesarias para observar su asistencia y aprovechamientos escolares.
+
+###### Artículo 63.
+
+Cuando la Procuraduría de la Defensa del Menor, la mujer y la familia, tenga conocimiento de que alguna niña, niño o adolescente, está siendo amenazado gravemente, peligra su integridad, o se presume la comisión de un delito, deberá en su carácter de autoridad competente, tomar las medidas necesarias que juzgue pertinentes con el apoyo de las áreas de trabajo social y de psicología para iniciar el procedimiento especial de protección para la salvaguarda de los derechos del menor, y tan pronto le sea posible hará del conocimiento los hechos al Ministerio Público o a la autoridad competente.
+
+Cualquier persona o autoridad que tenga conocimiento de los hechos a que se alude en el párrafo anterior, deberá hacerlos del conocimiento de la Procuraduría de la Defensa del Menor, la Mujer y la familia, del Ministerio Público o de la autoridad competente para los efectos de que se inicie el procedimiento especial de protección.
+
+Si la o las personas denunciadas tuvieren relación directa de filiación, parentesco, responsabilidad o representación con la persona ofendida, se promoverán las correspondientes ante el Juez de lo Familiar.
+
+###### Artículo 64.
+
+En los casos en que el Ministerio Público lo considere necesario, dispondrá que los niños, niñas y adolescentes y sus familias, sigan un tratamiento psicológico a fin de mejorar el ambiente familiar, o en el caso de que el daño traiga como consecuencia la comisión de un delito, ejercitará la acción ante los Tribunales competentes.
+
+###### Artículo 65.
+
+Una vez aplicado el tratamiento especializado a que se refiere el artículo anterior, el Ministerio Público determinará de acuerdo al dictamen correspondiente y escuchando a la Procuraduría de la Defensa del Menor, si el menor puede o no reintegrarse a su hogar.
+
+En los casos en que los padres, no muestren interés alguno por mejorar la situación familiar, o se vea que es perjudicial para las niñas, niños y adolescentes reintegrarlos, la Procuraduría de la Defensa del Menor, iniciará y tramitará en todas sus etapas procesales, el Juicio de Perdida de Patria Potestad, de acuerdo con el artículo 439 del Código civil vigente en el Estado.
+
+###### Artículo 66.
+
+Cuando se presente alguno de los supuestos contenidos en los artículos que anteceden y no exista un pronunciamiento judicial respecto de las medidas de protección para las niñas, los niños y adolescentes, la Procuraduría de la Defensa del Menor tramitará ante el Juez de lo Familiar, lo siguiente:
+
+I. La suspensión del régimen de visitas;
+
+II. La suspensión del cuidado, la guarda y depósito provisional;
+
+III. La suspensión provisional de la administración de bienes de los menores de edad; y
+
+IV. Cualquier otra medida que proteja los derechos reconocidos en el Código Civil vigente en el Estado a favor de las niñas, a los niños y adolescentes.
+
+## TÍTULO QUINTO
+
+###### Artículo 67.
+
+Los empleados, servidores públicos o cualquier otra persona que incumpla o interfiera en el cumplimiento de lo dispuesto en esta Ley, serán sancionadas conforme a lo señalado en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, así como por lo establecido en la legislación civil y penal aplicable al caso concreto.
+
+## TRANSITORIOS
+
+Artículo Primero.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Durango.
+
+Artículo Segundo.- Se abroga la Ley para el Desarrollo Integral y Protección a los Menores de Edad en el Estado de Durango, publicada en el Periódico Oficial del Estado de Durango No. 33 Bis de fecha 23 de Abril de 1992.
+
+Artículo Tercero.- Se derogan todas las disposiciones que contravengan lo previsto en la presente Ley.
+
+Artículo Cuarto.- Sobre la seguridad, atención y trato a los menores de edad, en caso de excepción, se aplicarán supletoriamente los ordenamientos federales vigentes y/o las disposiciones de la Organización de las Naciones Unidas en materia de protección a la infancia; así como las Convenciones Internacionales firmadas y ratificada por el Senado en nuestro país.
+
+Artículo Quinto.- Las autoridades competentes deberán emitir los reglamentos y demás disposiciones administrativas para instrumentar en el Estado lo establecido en esta Ley, en un plazo que no exceda de seis meses a partir de la publicación del presente Decreto.
+
+El Ciudadano Gobernador Constitucional del Estado, dispondrá se publique, circule y observe.
+
+Dado en el Salón de Sesiones del Honorable Congreso del Estado, en Victoria de Durango, Dgo., a los (30) treinta días del mes de abril del año (2002) dos mil dos.
+
+DIP. BLAS RAFAEL PALACIOS CORDERO
+
+PRESIDENTE. RUBRICA.
+
+DIP. RENÉ CARREÓN GÓMEZ
+
+SECRETARIO. RUBRICA.
+
+DIP. JOSÉ GUILLERMO HILARIO CANTÚ
+
+SECRETARIO. RUBRICA.
+
+POR TANTO MANDO SE IMPRIMA, PUBLIQUE, CIRCULE Y COMUNIQUESE A QUIENES CORRESPONDA PARA SU EXACTA OBSERVANCIA.
+
+DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS TREINTA DIAS DEL MES DE ABRIL DEL DOS MIL DOS.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+
+LIC. ANGEL SERGIO GUERRERO MIER. RUBRICA.
+
+EL SECRETARIO GENERAL DE GOBIERNO.
+
+LIC. JOSE MIGUEL CASTRO CARRILLO. RUBRICA.
