@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2003-09-01"
+last_updated: "2003-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE DICIEMBRE DE 2003.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -119,7 +119,9 @@ La ley establecerá las sanciones por violaciones al sufragio.
 
 La organización, desarrollo y vigilancia de los procesos electorales para las elecciones de Gobernador, Diputados a la Legislatura del Estado y Ayuntamientos, es una función estatal que se realiza a través de un organismo público autónomo, dotado de personalidad jurídica y patrimonio propios, denominado Instituto Electoral del Estado de México, en cuya integración participarán el Poder Legislativo, los partidos políticos y los ciudadanos, en los términos dispuestos por esta Constitución y la ley de la materia. En el ejercicio de esta función, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores.
 
-El Instituto será autoridad en la materia, independiente en sus decisiones y funcionamiento, y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El Consejo General será su órgano superior de dirección; se integrará por un Consejero Presidente y por seis consejeros electorales, electos en sesión del Pleno de la Legislatura del Estado, con el voto de las dos terceras partes de los diputados presentes, de entre las propuestas que formulen las fracciones legislativas. El Consejero Presidente y los Consejeros electorales tendrán voz y voto. Asimismo, por un representante de cada partido político, un Director General y un Secretario General del Instituto, quienes asistirán con voz pero sin voto.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2003)</small>
+
+El Instituto será autoridad en la materia, independiente en sus decisiones y funcionamiento, y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El Consejo General será su órgano superior de dirección; se integrará por un Consejero Presidente y por seis Consejeros Electorales, electos en sesión del Pleno de la Legislatura del Estado, con el voto de las dos terceras partes de los diputados presentes, de entre las propuestas que formulen los grupos parlamentarios. El Consejero Presidente y los Consejeros Electorales tendrán voz y voto. Asimismo, por un representante de cada partido político, un Director General y un Secretario General del Instituto, quienes asistirán con voz pero sin voto.
 
 Por cada consejero electoral propietario se elegirá un suplente.
 
@@ -1911,7 +1913,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 G.G. 9 DE SEPTIEMBRE DE 1939.
 
-Artículo Transitorio.- Este Decreto entrará en vigor desde la fecha de su publicación en la "Gaceta del Gobierno".
+Artículo Transitorio.- Este Decreto entrará en vigor desde la fecha de su publicación en la "Gaceta del Gobierno".do de dos años a que el mismo se refiere empezará a contarse desde el día 1° de enero de 1928.
 
 G.G. 27 DE DICIEMBRE DE 1939.
 
@@ -2259,13 +2261,17 @@ P.O. 28 DE FEBRERO DE 1984
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaseta (sic) del Gobierno" del Estado.
 
-P.O. 8 DE MARZO DE 1984 (DECRETO No. 233)
+P.O. 8 DE MARZO DE 1984
+
+DECRETO No. 233
 
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-P.O. 8 DE MARZO DE 1984 (DECRETO No. 234)
+P.O. 8 DE MARZO DE 1984
+
+DECRETO No. 234
 
 ###### ARTICULO PRIMERO.
 
@@ -2275,7 +2281,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 El período de la actual Legislatura concluirá el día cuatro de diciembre de mil novecientos ochenta y cuatro.
 
-P.O. 30 DE ABRIL DE 1984 (DECRETO No. 244)
+P.O. 30 DE ABRIL DE 1984
+
+DECRETO No. 244
 
 ###### ARTICULO UNICO.
 
@@ -2474,3 +2482,9 @@ PRIMERO.- Para los fines de integralidad y congruencia, la Legislatura del Estad
 SEGUNDO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Este decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+P.O. 2 DE DICIEMBRE DE 2003.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
