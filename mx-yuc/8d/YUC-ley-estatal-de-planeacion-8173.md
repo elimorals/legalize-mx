@@ -4,7 +4,7 @@ identifier: "YUC-ley-estatal-de-planeacion-8173"
 country: "mx"
 rank: "ley"
 publication_date: "1988-04-04"
-last_updated: "1988-04-04"
+last_updated: "1993-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ESTATAL DE PLANEACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE OCTUBRE DE 1993.
 
 Ley publicada en el Suplemento al Diario Oficial el Lunes 4 de abril de 1988.
 
@@ -245,11 +245,13 @@ Las comisiones y subcomisiones a que se hace referencia en los párrafos anterio
 
 Dentro del Sistema de Planeación del Desarrollo Integral del Estado tendrá lugar la participación y consulta de los diversos grupos sociales, con el propósito de que la población exprese sus opiniones para la elaboración, actualización y ejecución del Plan Estatal, de los planes municipales y de los programas a que se refiere esta Ley.
 
+> <small>(REFORMADO, D.O. 29 DE OCTUBRE DE 1993)</small>
+
 ###### Artículo 23.
 
-Las organizaciones representativas de los obreros, campesinos y grupos populares, de las instituciones académicas, profesionales y de investigación; de los organismos empresariales; de otras agrupaciones sociales y partidos políticos participarán como órganos de consulta permanente en los aspectos de la planeación democrática relacionados con su actividad, a través de los foros de consulta popular que al efecto se convoquen. Podrán participar en los mismos foros los diputados del Congreso Local.
+Las organizaciones representativas de los obreros, campesinos, Comités de Solidaridad, grupos populares de las instituciones académicas, profesionales y de investigación; de los organismos empresariales; de otras agrupaciones sociales y partidos políticos participarán como órganos de consulta permanente en los aspectos de la planeación democrática relacionados con su actividad, a través de los foros de consulta popular que al efecto se convoque, podrán participar en los mismos foros los Diputados del Congreso Local.
 
-Para el efecto y conforme a la legislación aplicable en el Sistema deberán preverse la organización y funcionamiento de las formalidades, periodicidad y términos a que deberá sujetarse la participación y consulta para la Planeación Estatal del Desarrollo.
+Para el efecto, y conforme a la Legislación aplicable en el Sistema deberán preverse la organización y funcionamiento de las formalidades, periodicidad y términos a que deberá sujetarse la participación y consulta para la planeación estatal del desarrollo.
 
 ### CAPITULO CUARTO. PLANES Y PROGRAMAS
 
@@ -476,3 +478,11 @@ LIC. MARCO A. MARTINEZ ZAPATA.
 INDICE DE LAS REFORMAS A LA
 
 LEY ESTATAL DE PLANEACION
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 29 DE OCTUBRE DE 1993.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
