@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-servicio-publico-de-transporte-del-estado-de-670
 country: "mx"
 rank: "reglamento"
 publication_date: "1989-10-25"
-last_updated: "1994-01-19"
+last_updated: "1998-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO DEL SERVICIO PUBLICO DE TRANSPORTE DEL ESTADO DE MORELOS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 1994.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE TRANSITO Y TRANSPORTES PARA EL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 20 DE MAYO DE 1998, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Primera del Periódico Oficial del Estado de Morelos, el miércoles 25 de octubre de 1989.
 
@@ -1082,3 +1084,29 @@ P.O. 19 DE ENERO DE 1994.
 ###### ARTICULO UNICO.
 
 El presente acuerdo iniciará su vigencia al día siguiente de su publicación en el Periódico "Tierra y Libertad", Organo Oficial del Gobierno del Estado.
+
+P.O. 20 DE MAYO DE 1998.
+
+PRIMERO.- El presente Reglamento abroga los Reglamentos de Tránsito y del Servicio Público de Transporte, ambos del Estado de Morelos, publicados en el Periódico Oficial "Tierra y Libertad" 3454 de fecha 25 de octubre de 1989.
+
+SEGUNDO.- El presente Reglamento entrará en vigor el día de su publicación, en el Periódico Oficial "Tierra y Libertad" órgano de difusión oficial del Gobierno del Estado.
+
+TERCERO.- Por lo que se refiere a la integración de la Comisión de Transportes del Estado, los representantes de los concesionarios señalados en las fracciones XV a, XVIII del artículo 20, del presente Reglamento, serán designados por el Ejecutivo Estataltomando (sic) en cuenta la convocatoria publicada en el Periódico Oficial "Tierra y Libertad", número 3905 de fecha 4 de marzo de 1998, y se considerará el inicio de su representación a partir de que inicie la vigencia de este Reglamento.
+
+CUARTO.- Se concede un plazo improrrogable de tres meses a la Dirección del Registro Público de la Propiedad, para que modifique su reglamento y lleve a cabo todos los trámites administrativos conducentes, a fin de que se integre todo lo relativo al registro de concesiones del servicio público de transportes en cualquier modalidad, de conformidad con el presente Reglamento.
+
+QUINTO.- Se concede un plazo máximo de un año a todos los concesionarios del servicio público del transporte en cualquier modalidad, contados a partir de que la Dirección del Registro Público de la Propiedad realice los ajustes a que se refiere el artículo anterior, para que soliciten la inscripción administrativa de sus concesiones, para no hacerse acreedores a las sanciones previstas por el presente Reglamento.
+
+SEXTO.- La Dirección General deberá realizar todos los trámites administrativos y operativos conducentes para que se efectúe ante la Dirección del Registro Público de la Propiedad, la inscripción de todas las concesiones que el Estado ha otorgado a los particulares respecto del servicio público de transportes en cualquier modalidad, en un plazo que no excederá de un año, contado a partir de que la Dirección del Registro Público de la Propiedad le informe de las modificaciones administrativas a que se refiere el artículo cuarto transitorio del presente Reglamento.
+
+SEPTIMO.- Se concede un plazo de 90 días hábiles a la Secretaría General de Gobierno, para que lleve a cabo todas las modificaciones administrativas y normativas necesarias en la creación de la Dirección General de Tránsito y Transportes.
+
+OCTAVO.- Se faculta al Secretario General de Gobierno para que designe al servidor público encargado de llevar a cabo los trámites operativos y administrativos que se requieran para la creación de la Dirección General a que se refiere el artículo 9 del presente Reglamento.
+
+NOVENO.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente Reglamento.
+
+DECIMO.- En todo lo no previsto por el presente Reglamento se faculta a la Secretaría General de Gobierno para que resuelva lo conducente.
+
+DECIMO PRIMERO.- La inscripción ante el Registro Público de la Propiedad de todos los títulos de concesión que se hubieren otorgado antes de la publicación del presente Reglamento, será gratuita, siempre y cuando se ajusten al plazo señalado en el artículo quinto transitorio del presente Reglamento.
+
+DECIMO SEGUNDO.- Los titulares de las concesiones otorgadas antes de la publicación del presente Reglamento, conservarán los derechos que sobre las mismas les ha otorgado la autoridad. Al vencimiento de éstas y para su renovación se sujetarán invariablemente a las condiciones y términos que sobre concesiones señala este Reglamento.
