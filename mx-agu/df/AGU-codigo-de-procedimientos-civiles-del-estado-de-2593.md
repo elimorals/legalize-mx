@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "1995-05-07"
+last_updated: "1995-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 1995.
 
 Código publicado en el Suplemento al Número. 29 del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -3209,6 +3209,8 @@ La sentencia que decide una tercería es apelable.
 
 ### CAPITULO III. Hipoteca
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1995)</small>
+
 ###### ARTICULO 529.
 
 Son documentos ejecutivos:
@@ -3337,23 +3339,25 @@ Si la sentencia declarase que no procede el juicio ejecutivo, reservará al acto
 
 ###### ARTICULO 549.
 
-La constitución, ampliación o división y registro de una hipoteca, así como su cancelación o bien el pago o la prelación del crédito que la hipoteca garantiza, se sujetará a las disposiciones especiales de este capítulo.
+El juicio hipotecario es un procedimiento especial que tiene por objeto la constitución, ampliación o división y registro de una hipoteca, así como su cancelación, o bien el pago o prelación del crédito que la hipoteca garantice.
 
-Cuando se trate del pago o prelación de un crédito hipotecario, es requisito indispensable que conste en escritura debidamente registrada y que sea de plazo cumplido o que deba anticiparse conforme a lo prevenido en los artículos 1830 y 2785 del Código Civil.
+Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas del presente Capítulo, es requisito indispensable que la garantía conste en escritura debidamente registrada y que el plazo de pago se haya cumplido o que deba anticiparse conforme a lo previsto en los Artículos 1830 y 2785 del Código Civil.
 
 ###### ARTICULO 550.
 
 Cuando se entable pleito entre los que contrataron la hipoteca procederá la acción hipotecaria sin necesidad del requisito del registro, siendo siempre condición indispensable para inscribir la cédula, que esté registrado el bien a nombre del demandado y que no haya inscripción de embargo o gravamen en favor de tercero.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 551.
 
-Presentada la demanda con el instrumento respectivo, si el Juez encuentra que se reunen los requisitos señalados en los artículos anteriores, dispondrá la expedición, fijación y registro de la cédula hipotecaria y el emplazamiento del deudor, si éste no contesta en el término que señala el Artículo 224 de éste Código, se procederá a dictar sentencia y si lo hiciere se continuará el procedimiento con sujeción a las demás reglas generales del juicio.
+Presentada la demanda con el instrumento respectivo, si el juez encuentra que se reúnen los requisitos señalados en los artículos anteriores, dispondrá la expedición, fijación y registro de la Cédula Hipotecaria y el emplazamiento del deudor continuando el procedimiento con sujeción a las reglas del presente capítulo y demás reglas generales del juicio.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 552.
 
-Si en el título con que se ejercita el procedimiento hipotecario se advierte que hay otros acreedores hipotecarios anteriores, el juez mandará notificarles personalmente la iniciación para que usen de sus derechos conforme a la ley. Si se ignora su domicilio, la notificación se les hará por medio de un edicto que se publicará por tres veces, de siete en siete días, en el Periódico Oficial y en otro diario de circulación estatal.
+Si en el título con que se ejercita el procedimiento hipotecario se advierte que hay otros acreedores hipotecarios anteriores, el juez mandará notificarles personalmente la iniciación para que usen de sus derechos conforme a la Ley. Si se ignora su domicilio, la notificación se les hará por medio de un solo edicto y se publicará por una sola vez en el Periódico Oficial y en tres diarios de circulación estatal.
 
 ###### ARTICULO 553.
 
@@ -3363,11 +3367,13 @@ Si comenzado el procedimiento se presentan alguno o algunos acreedores hipotecar
 
 La cédula hipotecaria contendrá una relación suscinta (sic) de la escritura y concluirá en estos términos: "En virtud de las constancias que preceden, queda sujeta la finca... de la propiedad... a juicio hipotecario, lo que se hace saber a las autoridades y al público, para que no se practique en la mencionada finca embargo alguno, toma de posesión, diligencia precautoria o cualquiera otra que entorpezca el curso del procedimiento, viole los derechos en él adquiridos por el C..."
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1995)</small>
+
 ###### ARTICULO 555.
 
-La cédula hipotecaria se fijará en la puerta principal o en los tableros del juzgado y en un lugar visible de la finca; y se inscribirá en el Registro Público de la Propiedad, a cuyo efecto se expedirá por duplicado copia certificada de la cédula. Una copia quedará en el Registro y la otra, ya registrada, se agregará a los autos.
+La Cédula Hipotecaria se fijará en la puerta principal o en los tableros del juzgado y se inscribirá en el Registro Público de la Propiedad, a cuyo efecto se expedirá por duplicado copia certificada de la Cédula. Una copia quedará en el Registro y la otra, ya registrada, se agregará a los autos.
 
-Si la finca no se ubica en el lugar del juicio, se librará exhorto o despacho al juez de la ubicación para que se haga la fijación y registro en su caso de la cédula como se previene en el párrafo anterior.
+Si la finca no se ubica en el lugar del juicio, se librará exhorto o despacho al juez de la ubicación para que se haga la fijación en los estrados del juzgado y registro de la Cédula Hipotecaria.
 
 ###### ARTICULO 556.
 
@@ -3379,17 +3385,61 @@ El deudor que no quiera aceptar la responsabilidad de depositario, entregará de
 
 Expedida la cédula hipotecaria, no podrá verificarse en la finca hipotecada ninguno de los actos en ella expresados, sino en virtud de sentencia ejecutoriada, debidamente registrada y anterior en fecha a la demanda que ha motivado la expedición de la cédula, o de providencia dictada a petición de acreedor de mejor derecho.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1995)</small>
+
 ###### ARTICULO 558.
 
-La fijación de la cédula hipotecaria produce también efecto de secuestro judicial y se regirá por las disposiciones relativas de este Código.
+La fijación de la Cédula Hipotecaria produce también efectos de secuestro judicial y se regirá por las disposiciones contenidas en este Capítulo Especial y las relativas del Código.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 559.
 
-El reo podrá alegar todas las excepciones que tuviere, probándolas por los medios que establece este Código, pero las de pago del capital o réditos, las de compensación, reconvención y novación, se justificarán precisamente por confesión judicial o con prueba documental.
+Admitida la demanda con los documentos y copias correspondientes, se correrá traslado de ella a la persona o personas contra quienes se proponga, y se les emplazará para que la contesten dentro de un término de nueve días.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 560.
 
-La sentencia debe declarar siempre si procede o no el procedimiento hipotecario, y si ha lugar al remate de los bienes sujetos a cédulas. Si decide que no procede la vía, reservará el actor sus derechos para que los haga valer en la forma correspondiente, mandará desde luego retirar y cancelar la cédula hipotecaria y, en su caso, que se devuelva la finca al demandado ordenando al depositario que rinda cuentas con pago en un término que no exceda de treinta días.
+Si en el contrato fundatorio de la acción no se estableció el domicilio de las partes y se ignore el de la demanda (sic), el emplazamiento se llevará a efecto por edictos.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 1995)</small>
+
+###### ARTICULO 560-A.
+
+La demanda deberá contestarse negándola, confesándola u oponiendo excepciones. Las excepciones de pago de capital o rédito, las de compensación, novación y espera se justificarán solamente por confesión judicial del actor o con prueba documental, de otra forma no serán admisibles y de inmediato el juez citará a las partes para oír sentencia de remate.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 1995)</small>
+
+###### ARTICULO 560-B.
+
+Las excepciones dilatorias, cualesquiera que fueren, así como los incidentes, se resolverán precisamente en la Audiencia de Juicio, antes de proceder al desahogo de las pruebas pendientes.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 1995)</small>
+
+###### ARTICULO 560-C.
+
+Contestada la demanda o transcurrido el término para ello, a petición de parte o de oficio, se recibirá el Juicio a prueba, salvo lo dispuesto por el Artículo 560-A, señalándose un término de tres días para que las partes las ofrezcan.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 1995)</small>
+
+###### ARTICULO 560-D.
+
+La sentencia debe declarar siempre si procede o no el procedimiento hipotecario, y si ha lugar al remate de los bienes sujetos a Cédulas. Si decide que no procede la vía, reservará al actor sus derechos para que los haga valer en la forma correspondiente, mandará desde luego retirar y cancelar la Cédula, ordenando al depositario que rinda cuentas con pago y se devuelva la finca en un término que no exceda de treinta días.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 1995)</small>
+
+###### ARTICULO 560-E.
+
+La sentencia definitiva de remate no admite recurso alguno.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 1995)</small>
+
+###### ARTICULO 560-F.
+
+Para los efectos del remate se aplicará lo dispuesto por el Capítulo IV del Título Décimo, a excepción del Artículo 481. En este juicio especial la venta de los bienes se anunciará señalando día y hora para la almoneda por medio de un solo edicto que se publicará en el Periódico Oficial y en tres diarios de circulación estatal.
+
+Lo anterior no limita a las partes para que a su costa y con el consentimiento del Juez puedan usar otros medios de publicidad para convocar postores, en la forma que juzguen conveniente.
 
 ### CAPITULO V. De los Alimentos
 
@@ -5388,3 +5438,7 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 7 DE MAYO DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MAYO DE 1995.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
