@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-congreso-del-estado-de-michoacan-5991"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-03-03"
-last_updated: "1990-10-25"
+last_updated: "1992-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DEL CONGRESO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 1990
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 1992
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el día 3 de marzo de 1983.
 
@@ -395,7 +395,7 @@ Las Comisiones de Investigación se constituyen con carácter transitorio; funci
 
 Las Comisiones de Dictamen y de Vigilancia se integrarán durante la segunda quincena del mes de septiembre del año en que se inicie la Legislatura.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 41.
 
@@ -423,9 +423,11 @@ Régimen, Reglamento y Prácticas Parlamentarias,
 
 Programación, Presupuesto y Cuenta Pública,
 
+Derechos Humanos,
+
 Ecología,
 
-Derechos Humanos
+Asuntos Indígenas.
 
 ###### ARTICULO 42.
 
@@ -782,3 +784,7 @@ UNICO. Este decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 25 DE OCTUBRE DE 1990.
 
 UNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
+
+P.O. 26 DE MARZO DE 1992.
+
+UNICO. Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
