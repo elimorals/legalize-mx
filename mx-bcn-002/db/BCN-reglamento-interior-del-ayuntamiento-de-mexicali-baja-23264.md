@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-mexicali-baja-23264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2003-09-26"
+last_updated: "2004-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2004.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -595,7 +595,9 @@ Mayoría absoluta, la correspondiente a más de la mitad de los integrantes del 
 
 Mayoría calificada, la correspondiente a las dos terceras partes de los integrantes del Ayuntamiento.
 
-Cuando en el presente Reglamento no se contemple el tipo de votación respecto de diversas resoluciones del Ayuntamiento, se entenderá que habrá de resolverse mediante votación por mayoría simple.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+
+Cuando en el presente Reglamento no se contemple el tipo de votación respecto de diversas resoluciones del Ayuntamiento, se entenderá que habrá de resolverse mediante votación por mayoría simple, las abstenciones no serán tomadas en consideración para efectos del cómputo de la votación.
 
 ###### ARTICULO 60.
 
@@ -629,9 +631,13 @@ II.- Una vez depositadas las cédulas, el Secretario procederá a sustraerlas y 
 
 III.- Las cédulas deberán ser destruidas una vez que se haga la declaratoria correspondiente.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 63.
 
-Voto razonado.- Los integrantes del Cabildo que así lo deseen, podrán razonar el sentido de su voto o su abstención, en la misma sesión o por escrito que se haga llegar a la Secretaría del Ayuntamiento.
+Voto razonado.- Los integrantes del Cabildo que así lo deseen, podrán razonar el sentido de su voto durante la etapa de discusión del asunto, de tal manera, que durante la votación, cada integrante se limite a expresar el sentido de su voto.
+
+Las abstenciones deberán ser razonadas, ya sea en forma verbal, o por escrito que se haga llegar a la Secretaría del Ayuntamiento. Cuando algún integrante haga llegar su abstención en forma escrita, el documento deberá ser leído en la sesión, durante la etapa de discusión del asunto de que se trate.
 
 ###### ARTICULO 64.
 
@@ -1202,3 +1208,9 @@ ARTICULO TRANSITORIO ÚNICO.- LAS PRESENTES MODIFICACIONES ENTRARÁN EN VIGOR AL
 P.O. 26 DE SEPTIEMBRE DE 2003.
 
 UNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE NOVIEMBRE DE 2004.
+
+Artículo Transitorio Único:
+
+Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
