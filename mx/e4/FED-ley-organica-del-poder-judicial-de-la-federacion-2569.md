@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "1996-11-22"
+last_updated: "1998-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -1210,9 +1210,11 @@ V. Las demás que determinen las leyes, los reglamentos y acuerdos generales cor
 
 El ingreso y la promoción de los servidores públicos de carácter jurisdiccional del Poder Judicial de la Federación se hará mediante el sistema de carrera judicial a que se refiere el presente Título, la cual se regirá por los principios de excelencia, profesionalismo, objetividad, imparcialidad, independencia y antigüedad, en su caso.
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 106.
 
-Para poder ser designado magistrado de circuito se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, mayor de treinta y cinco años, gozar de buena reputación, no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año, contar con título de licenciado en derecho expedido legalmente y práctica profesional de cuando menos cinco años, además de los requisitos previstos en esta ley respecto de la carrera judicial. Los magistrados de circuito durarán seis años en el ejercicio de su encargo, al término de los cuales, si fueren ratificados, sólo podrán ser privados de sus cargos por las causas que señala esta ley, o por retiro forzoso al cumplir setenta y cinco años de edad.
+Para poder ser designado magistrado de circuito se requiere ser ciudadano mexicano por nacimiento, que no se adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos, mayor de treinta y cinco años, gozar de buena reputación, no haber sido condenado por delito intencional con sanción privativa de la libertad mayor de un año, contar con título de licenciado en derecho expedido legalmente y práctica profesional de cuando menos cinco años, además de los requisitos previstos en esta ley respecto de la carrera judicial. Los magistrados de circuito durarán seis años en el ejercicio de su encargo, al término de los cuales, si fueren ratificados, sólo podrán ser privados de sus cargos por las causas que señala esta ley, o por retiro forzoso al cumplir setenta y cinco años de edad.
 
 ###### ARTICULO 107.
 
@@ -1222,9 +1224,11 @@ Los actuarios deberán ser ciudadanos mexicanos, en pleno ejercicio de sus derec
 
 Los secretarios y actuarios de los tribunales de circuito serán nombrados de conformidad con las disposiciones aplicables en materia de carrera judicial
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 108.
 
-Para ser designado juez de distrito se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, mayor de treinta años, contar con título de licenciado en derecho expedido legalmente, un mínimo de cinco años de ejercicio profesional, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año. Los jueces de distrito durarán seis años en el ejercicio de su encargo, al término de los cuales, si fueren ratificados o designados para ocupar el cargo de magistrados de circuito, sólo podrán ser privados de sus cargos por las causas que señala esta ley, o por retiro forzoso al cumplir setenta y cinco años de edad.
+Para ser designado juez de distrito se requiere ser ciudadano mexicano por nacimiento, que no se adquiera otra nacionalidad, estar en pleno ejercicio de sus derechos, ser mayor de treinta años, contar con título de licenciado en derecho expedido legalmente, un mínimo de cinco años de ejercicio profesional, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año. Los jueces de distrito durarán seis años en el ejercicio de su encargo, al término de los cuales, si fueren ratificados o designados para ocupar el cargo de magistrados de circuito, sólo podrán ser privados de sus cargos por las causas que señala esta ley o por retiro forzoso al cumplir setenta y cinco años de edad.
 
 ###### ARTICULO 109.
 
@@ -2905,3 +2909,7 @@ CUARTO.- Se autoriza al titular del Poder Ejecutivo Federal para que por conduct
 QUINTO.- Los criterios de jurisprudencia sostenidos por la Sala Central y la Sala de Segunda Instancia del Tribunal Federal Electoral, según corresponda, continuarán siendo aplicables en tanto no se opongan a las reformas establecidas en los artículos SEGUNDO, TERCERO y CUARTO del presente Decreto.
 
 Para que los criterios de jurisprudencia a que se refiere el párrafo anterior resulten obligatorios, se requerirá de la declaración formal de la Sala Superior del Tribunal Electoral. Hecha la declaración, la jurisprudencia se notificará de inmediato a las Salas Regionales, al Instituto Federal Electoral y, en su caso, a las autoridades electorales locales.
+
+D.O.F. 23 DE ENERO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
