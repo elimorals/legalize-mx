@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-3552"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-11"
-last_updated: "2000-12-20"
+last_updated: "2001-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 11 de diciembre de 1992.
 
@@ -343,6 +343,10 @@ E) Instituciones de beneficencia reconocidas como tales por el Ejecutivo del Est
 
 F) Trabajadores domésticos.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2001)</small>
+
+V.- Cuotas patronales pagadas al Instituto Mexicano del Seguro Social y las aportaciones efectuadas por el patrón al Instituto del Fondo Nacional de la Vivienda para los Trabajadores o al Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado y al Sistema de Ahorro para el Retiro. Para que los conceptos que se mencionan en esta fracción queden exentos, deberán estar debidamente registrados en la contabilidad del patrón en términos de la legislación fiscal correspondiente.
+
 #### SECCION OCTAVA. DE LA ESTIMACION DE EROGACIONES
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2000)</small>
@@ -387,7 +391,7 @@ El traslado del impuesto a que se refiere este artículo no se considerará viol
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION QUINTA. DEL PAGO
+#### SECCION CUARTA. DE LA TASA
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -411,7 +415,7 @@ El monto del impuesto se determinará aplicando a la base gravable a que alude e
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION CUARTA. DE LA TASA
+#### SECCION QUINTA. DEL PAGO
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -643,6 +647,14 @@ XXIII.- Por inscripción de reestructuración, en cualquiera de sus modalidades 
 
 XXIV.- Por el registro de sello, firma, rúbrica o media firma 10
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2001)</small>
+
+XXV.- Por la inscripción de aviso de testamento 1
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2001)</small>
+
+XXVI.- Por la verificación de constancia de aviso de testamento 1
+
 ### CAPITULO IV. POR NOTARIADO Y ARCHIVOS DE INSTRUMENTOS PUBLICOS NOTARIALES
 
 ###### ARTICULO 39.
@@ -818,6 +830,20 @@ V.- Motocicletas con o sin Side-Car 0.3
 VI.- Motocicletas con o sin Sidecar 3
 
 Estos derechos se pagarán en la caseta de cobro de la Secretaría de Finanzas.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2001)</small>
+
+Se exenta, en un cincuenta por ciento, del pago de los derechos anteriormente expresados, a los automóviles de servicio particular cuyos propietarios estén avecindados en cualquier localidad del Municipio de Carmen, siempre que se acredite debidamente, ante la Secretaría de Finanzas y Administración:
+
+a) Dicha vecindad, con la respectiva constancia que expida el Secretario del H. Ayuntamiento del Municipio de Carmen.
+
+b) Que el vehículo ostenta placas del Estado de Campeche, con la correspondiente tarjeta de circulación; y
+
+c) Que se está al corriente en el pago del Impuesto Sobre Tenencia o Uso de Vehículos y en el del refrendo anual de placas, con los correspondientes recibos de pago.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2001)</small>
+
+Se exenta del pago total de esa cuota a todos los vehículos automotores cuyos propietarios estén avecindados en la Villa de Isla Aguada, así como a los de servicio particular, cuyos propietarios son docentes o personal de apoyo y asistencia de educación básica adscritos a Centros Educativos ubicados en cualquier localidad del mismo Municipio de Carmen, siempre y cuando se satisfagan los presupuestos señalados en los incisos a), b) y c), del párrafo que antecede. Los docentes, personal de apoyo y asistencia de educación básica, acreditarán su adscripción, con la constancia que expida la Secretaría de Educación, Cultura y Deporte del Estado, validada por la Sección 04 del Sindicato Nacional de Trabajadores de la Educación o por la Sección Primera de Trabajadores de la Educación al Servicio del Estado, según sea el caso.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
@@ -1077,6 +1103,64 @@ a) Por el registro a concurso 6
 
 b) Por inscripción y venta de bases 9 a 35
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2001)</small>
+
+II.- Por la recepción y evaluación del informe preventivo para el aprovechamiento de materiales pétreos:
+
+a) De 1 a 10 hectáreas 80
+
+b) De 10 a 30 hectáreas 172
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2001)</small>
+
+II (sic).- Por la recepción y evaluación del informe preventivo, para fraccionamientos, unidades habitacionales, desarrollo turístico estatales, obra pública estatal o privada:
+
+a) De 5000 a 10000 m2 80
+
+b) De 10001 m2 en adelante 172
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2001)</small>
+
+III.- Por la recepción y evaluación del informe preventivo, de las industrias señaladas en el inciso c) del artículo 34 de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Campeche, a excepción de maquiladoras 80
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2001)</small>
+
+IV.- Por la recepción y evaluación del informe preventivo de maquiladoras 172
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2001)</small>
+
+V.- Por la recepción y evaluación del informe preventivo para la construcción de caminos estatales o rurales 172
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2001)</small>
+
+VI.- Por la evaluación de la manifestación de impacto ambiental:
+
+a) Modalidad general 172
+
+b) Refrendo anual 86
+
+c) Modalidad intermedia 267
+
+d) Refrendo anual 134
+
+e) Modalidad específica 354
+
+f) Refrendo anual 177
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2001)</small>
+
+VII.- Por la recepción y evaluación del Estudio de Riesgo 90
+
+a) Refrendo anual 45
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2001)</small>
+
+VIII.- Por la expedición de cédula de operación 40
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2001)</small>
+
+IX.- Por la recepción y evaluación del dictamen de impacto ambiental en su modalidad general para el aprovechamiento forestal de bosque y selvas tropicales 172
+
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 M.- ORGANISMOS DESCONCENTRADOS:
@@ -1093,291 +1177,383 @@ II.- Por el ingreso que perciban por los servicios que prestan los organismos, d
 
 a) (DEROGADO, P.O. 9 DE JUNIO DE 1999)
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2001)</small>
 
 b) INSTITUTO CAMPECHANO
 
-INGRESOS ESCOLARES
+Inscripciones Importes en Pesos
 
-Costo Costo Costo
+Concepto
 
-Preparatoria Licenciatura Postgrado
+Preparatoria Licenciatura
 
-Inscripciones
+Inscripción
 
-$145.00 $150.00 $1100.00
+165 170
 
-Examen de Admisión
+Colegiatura Mensual
 
-220.00 220.00 440.00
+120 130
 
-Curso de Introducción
+Servicio Deportivo
 
-110.00 140.00
-
-Colegiaturas Mensuales
-
-105.00 115.00
-
-Maestría en Metodología de la Investigación
-
-Por materia
-
-1000.00
-
-Diplomado en Pedagogía
-
-Por materia
-
-1000.00
-
-Elaboración de Credenciales
-
-35.00 35.00 40.00
-
-Seguro de Vida
-
-30.00 30.00
-
-Expedición de Certificados
-
-150.00 160.00 450.00
-
-Expedición de Constancias de Estudios
-
-110.00 115.00 165.00
-
-Expedición de Carta de Buena Conducta
-
-110.00 115.00 165.00
-
-Cotejo de Planes y Revalidaciones
-
-Alumnos Foráneos
-
-190.00 190.00
-
-Alumnos del Instituto Campechano
-
-70.00 80.00
-
-Examen a Título de Suficiencia
-
-130.00 140.00 1000.00
-
-Examen Extraordinario
-
-120.00 130.00 1000.00
-
-Asesoría en sistema semiescolarizado
-
-35.00
-
-Carta de Liberación de Servicio Social
-
-110.00 330.00
-
-Expedición de Carta de Pasante
-
-140.00 440.00
-
-Examen Profesional
-
-550.00 1000.00
-
-Acta de Grado
-
-150.00 275.00
-
-Trámite de firmas de Título Profesional
-
-165.00 330.00
-
-Hoja de Piel
-
-165.00 175.00
-
-Servicios Deportivos
-
-55.00
+65
 
 Material de Apoyo
 
-55.00
+65
+
+Servicio Médico Dental
+
+75 75
+
+Credencial
+
+40 40
+
+Seguro de Vida
+
+35 35
+
+Mantenimiento y Reparación de Equipo de Cómputo
+
+70 70
+
+Curso de Introducción
+
+150 200
+
+Exámenes
+
+Concepto
+
+Preparatoria Licenciatura Postgrado
+
+Examen de Admisión
+
+255 255 510
+
+Extraordinario
+
+140 150
+
+Título de Suficiencia
+
+150 160
+
+Profesional
+
+700 2000
+
+Semiescolarizado
+
+130
+
+Especial de Regularización Plan Estudio
+
+190 255
+
+Remediales
+
+255 380
+
+Recuperación de Pasantía
+
+300
+
+Asesoría
+
+45
+
+Certificado, Constancia y Carta de Buena Conducta
+
+Concepto
+
+Preparatoria Licenciatura Postgrado
+
+Expedición de Certificado de Estudios
+
+200 250 600
+
+Expedición de Constancia de Estudios y Carta de Buena Conducta
+
+130 140 190
 
 Constancia Provisional
 
-25.00 25.00
+30 30
 
-Examen en sistema semiescolariado
+Expedición de Títulos y Grados
 
-110.00
+Concepto
 
-Expedición de Diploma
+Licenciatura Postgrado
 
-120.00 120.00
+Expedición Acta de Grado
+
+180 320
+
+Trámite de Firmas
+
+200 400
+
+Derecho Hoja de Piel
+
+200 220
 
 Elaboración de Título
 
-250.00 330.00
+275 370
 
-Seminarios Inscripción
+Revisión de Tesis, Carta de Pasantes, Diplomas y Servicio Social
 
-825.00
+Concepto
 
-Seminarios costo por materia (por 3)
+Preparatoria Licenciatura Postgrado
 
-825.00
+Derecho Revisión de Tesis
 
-OTROS CURSOS
+500 1000
 
-Estudiantes del I.C. Foráneos
+Derecho Expedición de Diploma
 
-e hijos de trabajadores
+130
 
-del I.C.
+Derecho Expedición de Carta de Pasante
+
+160 510
+
+Derecho Expedición de Servicio Social
+
+130 380
+
+Cotejo de Planes, Revalidación de Estudios
+
+Concepto
+
+Preparatoria Licenciatura
+
+Alumnos Foráneos
+
+220 220
+
+Procedimiento de Titulación
+
+Concepto Costo
+
+*Examen General de Conocimiento 3000
+
+Seminarios:
+
+Inscripción 1000
+
+Costo por materia (mínimo 3) 1000
+
+*El alumno que cubra este costo, queda exento de pago del examen profesional.
+
+Postgrado, Maestría y Diplomado
+
+Concepto Postgrado
+
+Inscripción 3000
+
+Costo por Materia 2000
+
+Credencial 40
+
+Otros cursos
+
+Concepto
+
+Estudiantes del Foráneos
+
+Instituto Campechano
+
+o hijos de trabajadores
+
+del Instituto
 
 Inglés (Laboratorio)
 
 Inscripción
 
-70.00 140.00
+80 160
 
-Colegiatura Mensual
+Colegiatura
 
-50.00 100.00
+55 110
 
-Credencial (opcional)
+Credencial (Opcional)
 
-35.00 35.00
+40 40
 
-Iniciación al Arte
+Difusión Cultural
 
-Cursos talleres
+Cursos Talleres
 
 Inscripción
 
-50.00 100.00
+55 110
 
-Colegiatura Mensual
+Colegiatura
 
-40.00 80.00
+45 90
 
 Credencial
 
-35.00 35.00
+40 40
 
 Seguro de Vida
 
-30.00 30.00
+35 35
 
-Cómputo
+Servicios de Cómputo
 
-Diseño de Pág. HTML
+Concepto
 
-400.00 800.00
+Estudiantes del Foráneos
+
+Instituto Campechano
+
+o hijos de trabajadores
+
+del Instituto
+
+Cursos:
+
+Fox Inicial
+
+600 1200
+
+Fox Intermedio
+
+900 1800
+
+Diseño de Página
+
+1000 2000
 
 Herramientas Internet
 
-350.00 700.00
+385 770
 
 Power Point
 
-300.00 600.00
+450 900
 
-Excel
+Excel 97
 
-300.00 600.00
+450 900
 
-Word
+Word (97)
 
-300.00 600.00
+450 900
 
-Corel Draw
+Corel Draw 8
 
-350.00 700.00
+600 1200
 
-Windows
+Windows 95/98
 
-275.00 550.00
+450 900
 
-RENTA DE EQUIPO DE COMPUTO
+Renta de equipos:
 
-Por hora Por hora
+Computadora hora-máquina
 
-Casos Administrativos y Docentes
+A 10 B 20
 
-9.00
-
-Alquiler de Sala para capacidad instalada
-
-18.00
-
-Impresiones por Hoja
+Impresiones por hoja:
 
 Matriz
 
-2.00 4.00
+2 4
 
 Láser
 
-3.50 7.00
+3.5 7
 
 Color
 
-4.50 9.00
+4.5 9
 
-OTROS INGRESOS COSTO
+A.- Solo para casos administrativos y docentes
+
+B.- La sala sólo se alquilará por la capacidad instalada
+
+Otros trámites
+
+Concepto
+
+Preparatoria Licenciatura Postgrado
+
+Constancia de Pago
+
+30 30 30
+
+Duplicado de Credencial
+
+40 40 40
 
 Escuelas Incorporadas
 
-Incorporación 2420.00
+Concepto Costo
 
-Reg. De Inscripción por alumno 90.00
+Incorporación de escuelas 5000
 
-Legalización de Firmas en certificado 180.00
+Registro de inscripción por alumno 100
 
-Legalización de firmas en carta de Buena Conducta 120.00
+Legalización de firmas en Certificado 200
 
-Arrendamiento de la Nevería Central $4,000.00
+Legalización de firmas en Carta de Buena Conducta 160
 
-Arrendamiento Nevería Preparatoria Area de Gdpe. 3,600.00
+Alquiler de Areas Culturales
 
-Arrendamiento de la Nevería de Educación Artística 800.00
+Concepto
 
-Constancia de Pago 30.00
+Costo por hora Costo diario
 
-Duplicado de Credencial 40.00
+Base de 3 horas máxima, de excederse por ensayos se cobrará las horas adicionales por uso
 
-Recargos 10%
+Aula Magna "Benito Juárez", usando todo el servicio eléctrico
 
-Certificado Médico y Dental 65.00
+250 1300
 
-Mantenimiento de Equipo de Cómputo 60.00
+Sala de Arte "Domingo Pérez Piña", servicio eléctrico de entrada y 1 sala
 
-ARRENDAMIENTO
+100 750
 
-Renta Base Hora adicional
+Sala de Arte "Domingo Pérez Piña", servicio de todas las salas
 
-5 Horas mínimo
+200 1500
 
-Teatro "Ricardo Hernández"
+Teatro "Ricardo Hernández Cárdenas", usando todo el servicio eléctrico
 
-1000.00 200.00
+300 2000
 
-Sala de Arte "Domingo Pérez Piña" todas las Salas
+Derecho de Piso
 
-1000.00 200.00
+300
 
-Ser. elect. de entrada y 1 Sala
+Extemplo de "San José"
 
-500.00 100.00
+2000
 
-Aula Magna "Benito Juárez" usando todo el servicio eléctrico
+En el caso del Ex Templo San José y la Sala de Arte Domingo Pérez Piña, tratándose de exhibiciones que excedan las 24 hrs. y con un mínimo de 7 días, se aplicará el costo diario y a partir del segundo día en adelante se aplicará una tarifa convencional de $200.00 cuota diaria sin derecho a aire acondicionado.
 
-500.00 100.00
+En los eventos que se utilice personal para la operación del equipo y control de instalaciones en días no laborables tales como sábados, domingos y días festivos, se aplicará una cuota de $200.00 por cada técnico que participe por evento.
 
-> <small>(REFORMADO, P.O. 16 DICIEMBRE DE 1998)</small>
+Renta de Neverías
+
+Concepto Importe Mensual
+
+Educación Artística 800
+
+Edificio Central 3000
+
+Areas de Guadalupe 2700
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2001)</small>
 
 El pago de los derechos antes mencionados, deberán ser cubiertos en las oficinas recaudadoras de la Secretaría de Finanzas y Administración, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previamente a la obtención del servicio.
 
@@ -1876,3 +2052,21 @@ Primero.- El presente decreto entrará en vigor el día 1 enero del año 2001.
 Segundo.- Las cuotas que han quedado establecidas en el inciso b), de la fracción II del Apartado M del artículo 52 de la Ley de Hacienda del Estado de Campeche que son objeto de la presente reforma, relativas a cursos de cómputo, renta de equipo de cómputo y arrendamientos en general, entrarán en vigor el 1 de enero de 2001, las restantes cuotas entrarán el 1 de agosto de 2001.
 
 TERCERO.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2001.
+
+DECRETO No. 127
+
+Primero.- El presente Decreto entrará en vigor el día 1 de enero de 2002, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Las cuotas que han quedado establecidas en el inciso b) de la fracción II del Apartado M del artículo 52 de la Ley de Hacienda del Estado de Campeche, que son objeto de la presente reforma entrarán en vigor el día 1 de enero de 2002, con excepción de las relativas a Inscripciones; Exámenes; Certificado, Constancia y Carta de Buena Conducta; Expedición de Títulos y Grados; Revisión de Tesis, Carta de Pasantes, Diplomas y Servicio Social; Cotejo de Planes, Revalidación de Estudios; Otros Cursos; Otros Trámites ya Escuelas Incorporadas, que entrarán en vigor el día 1 de febrero de 2002.
+
+Tercero.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2001.
+
+DECRETO No. 129
+
+Primero.- El presente decreto entrará en vigor el día 1 de enero del año 2002, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al contenido del presente decreto, así como el Artículo Tercero del Acuerdo del Ejecutivo del Estado, expedido el día 29 de octubre de 1997, publicado en el Periódico Oficial del Estado, el día 5 de noviembre de ese mismo año, quedando dicho Acuerdo intocado en sus demás partes.
