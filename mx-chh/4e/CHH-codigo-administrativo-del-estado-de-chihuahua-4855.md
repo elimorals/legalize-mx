@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1987-08-08"
+last_updated: "1987-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "CHH"
 CODIGO ADMINISTRATIVO DEL ESTADO
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1987.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 26 DE AGOSTO DE 1987 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 232-87-P.E. II PUBLICADO EN EL P.O. DE 5 DE AGOSTO DE 1987.]</small>
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
