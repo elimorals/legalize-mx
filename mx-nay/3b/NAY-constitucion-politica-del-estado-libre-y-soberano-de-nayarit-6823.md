@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1937-11-24"
+last_updated: "1938-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1937.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1938.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -817,11 +817,11 @@ El Secretario General de Gobierno, en unión del Procurador General de Justicia,
 
 ### CAPITULO I. Del Poder Judicial
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 1937)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1938)</small>
 
 ###### Art. 81.
 
-El Ejercicio del Poder Judicial se deposita en un cuerpo que se denominará Supremo Tribunal de Justicia del Estado, en Jueces de Primera Instancia, Menores, de Paz y Tribunales para Menores e Incapacitados.
+El ejercicio del Poder Judicial se deposita en un cuerpo que se denominará Supremo Tribunal de Justicia del Estado, en Jueces de Primera Instancia, Menores, de Paz y Tribunal para Menores e Incapacitados.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 1930)</small>
 
@@ -1304,3 +1304,7 @@ El Artículo primero del presente Decreto, que reforma el artículo cincuenta y 
 ###### ARTICULO SEGUNDO.
 
 El artículo Segundo del presente Decreto que reforma el artículo 89 de la Constitución Política del Estado, entra en vigor, a partir del día primero de enero de mil novecientos treinta y ocho.
+
+P.O. 5 DE ENERO DE 1938
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE LEY NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
