@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "1997-12-27"
+last_updated: "1998-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 1998.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -2037,7 +2037,7 @@ Si el extorsionador consigue su propósito, se le impondrán de uno a nueve año
 
 Si el extorsionador no logra el fin propuesto, se le impondrán de seis meses a seis años de prisión.
 
-### CAPITULO I. De las Definiciones
+### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2047,7 +2047,7 @@ Se impondrán de seis meses a seis años de prisión al que exija para sí o par
 
 Si lo que se exigió fue la entrega de numerario, uno o más objetos o documentos y ésta se realiza, se impondrá la pena del delito de extorsión.
 
-### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
+### CAPITULO I. De las Definiciones
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2057,7 +2057,7 @@ Se impondrán de seis meses a dos años de prisión al que, sin motivo justifica
 
 Si en el allanamiento media la furtividad, el engaño o la violencia, la pena aplicable será de uno a tres años de prisión.
 
-### CAPITULO VI. Disposiciones Comunes
+### CAPITULO V. Delitos cometidos por los Servidores Públicos
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2067,7 +2067,7 @@ Se impondrán de uno a ocho años de prisión y multa por el importe de cinco a 
 
 Las sanciones a que se refiere este artículo se impondrán independientemente de las penas que procedan por los demás delitos que resulten.
 
-### CAPITULO V. Delitos cometidos por los Servidores Públicos
+### CAPITULO VI. Disposiciones Comunes
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2841,6 +2841,10 @@ Se impondrán de tres meses a tres años de prisión y multa por el importe de d
 
 I. Al que, de propia autoridad y haciendo violencia física o moral, o furtivamente, o empleando amenazas o engaño, ocupe o use un inmueble o un derecho real que no le pertenezca.
 
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 1998)</small>
+
+Siempre se entenderá como uso de violencia cuando el despojo se cometa por grupos constituidos por tres o más personas;
+
 II. Al que, de propia autoridad y haciendo uso de cualquiera de los medios indicados en la fracción anterior, ocupe un inmueble de su propiedad, en los casos en que la ley no lo permita por hallarse en poder de otra persona, o ejerza actos de dominio que lesionen derechos legítimos del ocupante;
 
 III. Al que, en los términos de las fracciones anteriores y en beneficio propio o ajeno, desviare o utilizare aguas a que no tenga derecho; y
@@ -2943,7 +2947,7 @@ X. Permita o tolere que un ciudadano emita su voto, a sabiendas de que no cumple
 
 XI. Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 269.
 
@@ -2971,7 +2975,7 @@ II. Condicione la prestación de un servicio público, el cumplimiento de progra
 
 III. Destine fondos, bienes o servicios que tenga a su disposición con motivo de su cargo tales como vehículos, inmuebles, equipos y servicios, al apoyo de un partido político o candidato, sin perjuicio de las penas que puedan corresponder por otros delitos, o proporcione ese apoyo con sus subordinados, usando el tiempo correspondiente a las labores de éstos para que lo presten al servicio de un partido político o candidato.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 271.
 
@@ -3184,3 +3188,7 @@ UNICO.- EL presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 27 DE DICIEMBRE DE 1997.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 27 DE ENERO DE 1998.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "El Estado de Jalisco".
