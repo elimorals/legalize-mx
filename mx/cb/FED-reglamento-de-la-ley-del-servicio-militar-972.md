@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-militar-972"
 country: "mx"
 rank: "reglamento"
 publication_date: "1942-11-10"
-last_updated: "1942-11-10"
+last_updated: "1943-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=972&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1942-09-08"
 
 REGLAMENTO DE LA LEY DEL SERVICIO MILITAR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JULIO DE 1943.
 
 Reglamento publicado en el Diario Oficial de la Federación el martes 10 de noviembre de 1942.
 
@@ -513,9 +513,11 @@ Los Inspectores Militares estarán facultados bajo su responsabilidad para resol
 
 Los conscriptos destinados a servir a las unidades en activo, lo harán por un año.
 
+> <small>(REFORMADO, D.O.F. 12 DE JULIO DE 1943)</small>
+
 ###### ARTICULO 83.
 
-Los conscriptos de cada clase serán llamados a las unidades del activo en dos grupos: uno que deberá incorporarse el 1° de enero de cada año y pasará a la 1ª Reserva el 31 de diciembre de ese mismo año; el otro, que deberá incorporarse el 1° de marzo de cada año y pasará a la misma clase de la Reserva que el anterior el último de febrero del año siguiente.
+Los conscriptos de cada Clase serán llamados a las unidades del activo en dos Grupos: uno, que deberá incorporarse el primero de enero de cada año y pasará a la Primera Reserva el treinta y uno de diciembre de ese mismo año; y el otro, que deberá incorporarse el primero de julio de cada año y pasará a la misma Clase de la Reserva que el anterior, el treinta de junio del año siguiente.
 
 ###### ARTICULO 84.
 
@@ -1584,3 +1586,11 @@ IV.- Este Reglamento entrará en vigor al tercer día de su publicación en el "
 V.- El presente Reglamento deroga todas las disposiciones, reglamentos y circulares que se le opongan en todo o en parte.
 
 Palacio Nacional, a 8 de septiembre de 1942.-Manuel Avila Camacho.-Rúbrica.-EI Secretario de la Defensa Nacional, Lázaro Cárdenas del Río.-Rúbrica.-El Secretario de la Marina Nacional, Heriberto Jara Corona.-Rúbrica.-El Secretario de Gobernación, Miguel Alemán.-Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 12 DE JULIO DE 1943.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
