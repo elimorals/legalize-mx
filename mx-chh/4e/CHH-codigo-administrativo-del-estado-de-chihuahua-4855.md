@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1974-12-21"
+last_updated: "1976-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 1976.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -397,7 +397,9 @@ III.- Adquirir y distribuir, previo acuerdo del Gobernador, los materiales, mueb
 
 IV.- Formular el inventario y llevar el control de los bienes del Estado;
 
-V.- Dirigir el Archivo General del Poder Ejecutivo y el despacho de la correspondencia;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 1976)</small>
+
+V.- Dirigir el Archivo General del Poder Ejecutivo despachar la correspondencia y expedir las constancias y copias que legalmente procedan, especialmente las relativas a las actas de los libros duplicados del Registro Civil, realizando además en ellos, las anotaciones marginales previstas en el Código Civil y en este Ordenamiento Administrativo;
 
 VI.- Vigilar, a través de la Intendencia General, la administración y conservación de los bienes destinados al servicio público y administrar los demás bienes que no se entreguen o encomienden a alguna otra Dependencia;
 
@@ -3015,7 +3017,7 @@ El notario, en relación con los libros del protocolo llevará una carpeta por c
 
 Los documentos del apéndice, se arreglarán por legajos, poniéndose en cada uno de ellos el número que corresponde a la escritura o acta a que se refieren y en cada no de los documentos se pondrá una letra que lo señale y distinga de los otros que forman el legajo.
 
-De los expedientes que se protocolicen por mandato judicial, se agregará una copia certificada al apéndice del volumen respectivo y se considerarán como un solo documento.
+De los expediente que se protocolicen por mandato judicial, se agregará una copia certificada al apéndice del volumen respectivo y se considerarán como un solo documento.
 
 ###### ARTICULO 406.
 
@@ -4145,7 +4147,7 @@ A las cinco de la tarde o antes, si ya hubieren votado todos los electores de la
 
 ###### ARTICULO 550.
 
-Una vez cerrada la votación se procederá a numerar, por orden, las boletas sobrantes y a inutilizarlas por medio de dos rayas diagonales con tinta. En seguida se llenarán los ejemplares de los esqueletos del modelo aprobado por la Comisión Estatal Electoral, consignando los números con cifra y letra, y los firmarán los miembros de la Mesa y los representantes de partidos o candidatos allí presentes.
+Una vez cerrada la votación se procederá a numerar, por orden, las boletas sobrantes y a inutilizarlas por medio de dos rayas diagonales con tinta. En seguida se llenarán los ejemplares de los esqueletos del modelo aprobado por la Comisión Estatal Electoral, consignando los número con cifra y letra, y los firmarán los miembros de la Mesa y los representantes de partidos o candidatos allí presentes.
 
 A continuación se reunirán en un solo expediente por su orden, los documentos siguientes:
 
@@ -10634,3 +10636,7 @@ P.O. 21 DE DICIEMBRE DE 1974.
 PRIMERO.- Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La celebración del convenio entre el Ejecutivo del Estado y la Secretaría de Educación Pública suspenderá la vigencia de las disposiciones del Código Administrativo del Estado que se opongan a su cumplimiento, la que concluirá al darse por terminado el convenio.
+
+P.O. 1 DE MAYO DE 1976.
+
+ARTICULO TRANSITORIO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
