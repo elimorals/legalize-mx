@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-de-la-administracion-publica-del-estado-de-12108"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-07"
-last_updated: "1998-09-04"
+last_updated: "2001-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2001.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 7 de abril de 1998.
 
@@ -101,6 +101,8 @@ Corresponde al Gobernador nombrar y remover libremente a los Titulares de las De
 
 ### CAPITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE ENERO DE 2001)</small>
+
 ###### ARTICULO 11.
 
 Para el estudio, planeación y despacho de los asuntos del orden administrativo del Estado, el Poder Ejecutivo distribuirá sus facultades entre las Dependencias siguientes:
@@ -114,6 +116,8 @@ Secretaría de Desarrollo Industrial.
 Secretaría de Obras Públicas, Desarrollo Urbano y Vivienda.
 
 Secretaría de Educación Pública.
+
+Secretaría de Salud
 
 Secretaría de Comunicaciones y Transportes.
 
@@ -437,13 +441,11 @@ XIX.- Las demás que le atribuyan expresamente la (sic) Leyes.
 
 SECRETARIA DE EDUCACION PUBLICA
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+
 ###### ARTICULO 37.
 
-La Secretaría de Educación Pública es la encargada de administrar la educación que imparta el Estado en todos los niveles y de atender, supervisar y coordinar las tareas educativas, así como las actividades culturales, recreativas y deportivas que otras instituciones realicen en la Entidad.
-
-###### ARTICULO 38.
-
-Corresponde a la Secretaría de Educación Pública, el despacho de los siguientes asuntos:
+La Secretaría de Educación Pública es la encargada de administrar la educación que imparta el Estado en todos los niveles y de atender, supervisar y coordinar las tareas educativas, así como las actividades culturales, recreativas y deportivas que otras instituciones realicen en la Entidad, y le corresponde el despacho de los asuntos siguientes:
 
 I.- Elaborar, ejecutar y evaluar los convenios de coordinación que en materia educativa celebre el Ejecutivo del Estado con los órganos del Gobierno Federal y los Municipios de la Entidad, enviando informes de los resultados a la Contraloría del Ejecutivo Estatal, así como a las demás instancias que el Ejecutivo le señale.
 
@@ -451,7 +453,7 @@ II.- Representar al Gobierno del Estado ante los diversos organismos educativos.
 
 III.- Acreditar, convalidar, revalidar y certificar los estudios que de acuerdo con los programas respectivos se impartan en el Estado.
 
-IV.- Elaborar el registro y control de los profesionales que ejerzan en el Estado y organizar el servicio social de estudiantes y pasantes en la entidad.
+IV.- Elaborar el registro y control de los profesionales que ejerzan en el Estado y organizar el servicio social de estudiantes y pasantes en la Entidad.
 
 V.- Organizar, coordinar, dirigir y fomentar el establecimiento de bibliotecas, casas de cultura, museos, así como orientar las actividades que estos centros realicen.
 
@@ -461,9 +463,47 @@ VII.- Desarrollar programas para la enseñanza y práctica del deporte en el Est
 
 VIII.- Organizar los programas de trabajo social y coordinarse con las diversas dependencias tanto estatales como federales, para la ejecución de los mismos.
 
-IX.- Controlar el escalafón del Magisterio del Gobierno del Estado.
+IX.- Controlar el escalafón del Magisterio del Gobierno del Estado; y
 
 X.- Las demás que señalen las Leyes.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2001)</small>
+
+SECRETARIA DE SALUD
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+
+###### ARTICULO 38.
+
+La Secretaría de Salud es la encargada de establecer la política Estatal en materia de salud, y le corresponde el despacho de los asuntos siguientes:
+
+I.- Conducir la política Estatal en materia de salud, en los términos de la Ley de Salud del Estado y demás disposiciones legales aplicables y de conformidad con las políticas del Sistema Nacional de Salud y con lo dispuesto por el Ejecutivo Estatal.
+
+II.- Establecer las bases para la organización y funcionamiento del Sistema Estatal de Salud.
+
+III.- Coordinar los programas, acciones y servicios de salud de las dependencias y entidades de la administración pública estatal, fungiendo como órgano rector.
+
+IV.- Promover instrumentos de coordinación en apoyo al cumplimiento de los programas y prestación de servicios de salud de toda dependencia o entidad pública Estatal, en los términos de las disposiciones legales aplicables.
+
+En el caso de los programas y servicios de instituciones federales de seguridad social, el apoyo se realizará de conformidad con las Leyes que rigen el funcionamiento de éstas.
+
+V.- Impulsar la descentralización de los servicios de salud a los Municipios mediante la celebración de convenios del Ejecutivo. Estos últimos, con sujeción a lo establecido en la Ley de Salud del Estado, la Ley General de Salud y las Normas Oficiales Mexicanas.
+
+VI.- Establecer las bases para el impulso en el ámbito Estatal de las actividades científicas y tecnológicas en el campo de la salud.
+
+VII.- Coadyuvar con las dependencias federales competentes a la vigilancia y control de la transferencia de tecnología en el área de salud.
+
+VIII.- Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades de salud del Estado, con sujeción a las disposiciones generales aplicables.
+
+IX.- Organizar el uso y funcionamiento del Sistema Estatal de Información Básica en materia de salud.
+
+X.- Establecer las bases para la promoción e impulso a la participación de la comunidad del Estado en el cuidado de la salud.
+
+XI.- Impulsar la permanente actualización de las disposiciones legales en materia de salud.
+
+XII.- Ejercer y realizar todas aquellas acciones que le correspondan en materia de salubridad general local y, en su caso, expedir la normatividad correspondiente, en términos de las disposiciones aplicables; y
+
+XIII.- Las demás que establezcan esta Ley, la Ley de Salud del Estado, los Reglamentos que de ella deriven y otras disposiciones legales aplicables.
 
 SECRETARIA DE COMUNICACIONES
 
@@ -862,3 +902,9 @@ P.O. 4 DE SEPTIEMBRE DE 1998.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE ENERO DE 2001.
+
+###### ARTICULO UNICO.
+
+El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
