@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-71-de-documentos-administrativos-e-historicos-18256"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-27"
-last_updated: "1990-12-27"
+last_updated: "2003-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 71 DE DOCUMENTOS ADMINISTRATIVOS E HISTORICOS DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY DE DOCUMENTOS ADMINISTRATIVOS E HISTORICOS DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
+LEY DE DOCUMENTOS ADMINISTRATIVOS E HISTORICOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
 
 Ley Publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 27 de diciembre de 1990.
 
@@ -41,7 +41,9 @@ La Honorable Quincuagésima Quinta Legislatura del Estado Libre y Soberano de Ve
 
 LEY NUMERO 71
 
-DE DOCUMENTOS ADMINISTRATIVOS E HISTORICOS DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE.
+> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+DE DOCUMENTOS ADMINISTRATIVOS E HISTORICOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 ## TITULO PRIMERO. DE LOS DOCUMENTOS ADMINISTRATIVOS E HISTORICOS
 
@@ -396,3 +398,23 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 DADO en el Salón de Sesiones de la H. Legislatura del Estado, en la ciudad de Xalapa-Equez., Ver., a los dos días del mes de mayo de mil novecientos noventa, Ing. Abel Ruiz Lopart, Diputado Presidente.- Rúbrica.- Lic. Roberto Alvarez Salgado, Diputado Secretario.- Rúbrica."
 
 En cumplimiento de lo dispuesto por la fracción I, del artículo 87 y primer párrafo del artículo 93 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave. Y para su debida publicación y observancia expido el presente decreto en la residencia del Poder Ejecutivo Estatal, en la ciudad de Xalapa-Enríquez, Veracruz, a los dos días del mes de mayo de mil novecientos noventa.- DANTE DELGADO.- Rúbrica.- El Secretario General de Gobierno, Lic. MIGUEL ANGEL DIAZ PEDROZA.- Rúbrica.- El Secretario de Finanzas y Planeación, C. GERARDO POO ULIBARRI.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "...Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Veracruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "...del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
