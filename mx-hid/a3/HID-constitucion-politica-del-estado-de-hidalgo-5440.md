@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1920-10-01"
+last_updated: "1924-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 1924.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -77,6 +77,10 @@ Distrito de Zimapán: Formado con los Municipios de Zimapán, Tasquillo y Santa 
 
 Las Cabeceras, tanto de los Distritos y de los Municipios son las que corresponden a su denominación.
 
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 1924)</small>
+
+Ésta división territorial podrá modificarse de acuerdo con el artículo 70 de la propia Constitución, las Cabeceras de Distrito o de Municipio de conformidad con leyes secundarias que se expidan al efecto.
+
 ## TITULO II. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO
 
 ### CAPITULO II. DE LOS CIUDADANOS DEL ESTADO
@@ -96,6 +100,10 @@ Por el Distrito Electoral número 3 (Tulancingo), Felipe de J. Espinosa, Diputad
 Por tanto, mando se imprima, publique solemnemente por Bando y circule para su fiel observancia.
 
 Palacio del Poder Ejecutivo, en Pachuca de Soto, a veintiuno de septiembre de mil novecientos veinte.- Nicolás Flores.- Lic. Eduardo Suárez, Subsecretario, Encargado del Despacho de la Secretaría General.
+
+P.O. 8 DE MAYO DE 1924.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
 
 ###### Artículo 5º.
 
@@ -237,7 +245,7 @@ Las resoluciones así dictadas y todas las que prevengan del Congreso erigido en
 
 ###### Artículo 25.
 
-El Congreso se reunirá en sesiones ordinarias y extraordinarias. Tendrá cada año dos períodos de sesiones ordinarias: el primero comenzará el 1º. de marzo y terminará el 15 de mayo, y el segundo comenzará el 1º. de septiembre y terminará el 15 de noviembre. Se reunirá en sesiones extraordinarias, cuando fuere convocado por la Diputación Permanente.
+El Congreso se reunirá en sesiones ordinarias y extraordinarias. Tendrá cada año dos periodos de sesiones ordinarias: el primero comenzará el 1º. de marzo y terminará el 15 de mayo, y el segundo comenzará el 1º. de septiembre y terminará el 15 de noviembre. Se reunirá en sesiones extraordinarias, cuando fuere convocado por la Diputación Permanente.
 
 ###### Artículo 26.
 
@@ -329,7 +337,7 @@ Toda resolución del Congreso no tendrá otro carácter que el de ley, decreto o
 
 ###### Artículo 40.
 
-Las leyes y decretos serán enviados al Gobernador firmados por el Presidente y los Secretarios del Congreso, y una vez sancionados por el Gobernador, serán publicados en el "Periódico Oficial" del Estado. Los Presidentes Municipales fijarán en los lugares públicos que ellos mismos designen de cada Cabecera, ejemplares auténticos de las leyes o decretos y comunicarán al Gobernador que han hecho esta publicación. Los respectivos oficios serán publicados en el "Periódico Oficial."
+Las leyes y decretos serán enviados al Gobernador firmados por el Presidente y los Secretarios del Congreso, y una vez sancionados por el Gobernador, serán publicados en el "Periódico Oficial" del Estado. Los Presidentes Municipales los fijarán en algunos lugares públicos que ellos mismos designen de cada cabecera, ejemplares auténticos de las leyes o decretos y comunicarán al Gobernador que han hecho esta publicación. Los respectivos oficios serán publicados en el "Periódico Oficial."
 
 ###### Artículo 41.
 
@@ -457,7 +465,7 @@ Si la falta absoluta ocurriere no encontrándose el Gobernador en el ejercicio d
 
 Si la falta absoluta ocurriere encontrándose el Gobernador en el ejercicio de sus funciones, el Presidente del Tribunal se encargará del Despacho del Gobierno hasta la toma de posesión del Gobernador provisional o del substituto, en sus respectivos casos.
 
-El Presidente del Tribunal se encargara, además, del Despacho del Gobierno, siempre que por cualquier motivo no precisado por esta Constitución, se encuentre acéfalo el Poder Ejecutivo.
+El Presidente del Tribunal se encargará, además, del Despacho del Gobierno, siempre que por cualquier motivo no precisado por esta Constitución, se encuentre acéfalo el Poder Ejecutivo.
 
 ###### Artículo 52.
 
@@ -807,11 +815,11 @@ En los delitos del orden común que cometiere el Gobernador, el Secretario Gener
 
 ###### Artículo 92.
 
-En los delitos oficiales cometidos por los mismos funcionarios, el Congreso erigido en Jurado de Acusación, declarara por mayoría del número total de sus miembros, si ha lugar a acusar al funcionario ante el Tribunal Superior erigido en Gran Jurado.
+En los delitos oficiales cometidos por los mismos funcionarios, el Congreso erigido en Jurado de Acusación, declarará por mayoría del número total de sus miembros, si ha lugar a acusar al funcionario ante el Tribunal Superior erigido en Gran Jurado.
 
-En caso afirmativo, el Congreso nombrara una comisión de tres de sus miembros para que sostenga la acusación.
+En caso afirmativo, el Congreso nombraáa una comisión de tres de sus miembros para que sostenga la acusación.
 
-Si el Tribunal Superior, después de oír al acusado, lo declara culpable, este quedara privado de su puesto e inhabilitado para obtener otro en el tiempo que la ley determine.
+Si el Tribunal Superior, después de oír al acusado, lo declara culpable, éste quedará privado de su puesto e inhabilitado para obtener otro en el tiempo que la ley determine.
 
 Cuando el mismo hecho tenga otra pena señalada en la ley, el propio Tribunal la impondrá al acusado.
 
@@ -819,7 +827,7 @@ Cuando el mismo hecho tenga otra pena señalada en la ley, el propio Tribunal la
 
 ###### Artículo 93.
 
-De los delitos comunes y oficiales cometidos por los Jueces de Primera Instancia y agentes del Ministerio Publico, el Tribunal Superior declarara en la forma que determine la ley, si ha o no lugar a proceder. En caso negativo, el acusado continuara en el ejercicio de su encargo, cesando todo procedimiento en su contra. En el afirmativo, quedara suspenso el acusado y sujeto a los Tribunales comunes.
+De los delitos comunes y oficiales cometidos por los Jueces de Primera Instancia y agentes del Ministerio Público, el Tribunal Superior declarará en la forma que determine la ley, si ha o no lugar a proceder. En caso negativo, el acusado continuará en el ejercicio de su encargo, cesando todo procedimiento en su contra. En el afirmativo, quedará suspenso el acusado y sujeto a los Tribunales comunes.
 
 ###### Artículo 94.
 
@@ -827,7 +835,7 @@ La responsabilidad por delitos y faltas oficiales, sólo podrá exigirse durante
 
 ###### Artículo 95.
 
-Esta Constitución puede ser adicionada o reformada. Las proposiciones que tengan este objeto, deberán estar suscritas por tres Diputados, o iniciadas por el Ejecutivo o por el Tribunal Superior de Justicia o por cinco Ayuntamientos. Estas iniciativas se sujetaran a los trámites establecidos para la expedición de las leyes; pero la discusión y votación tendrá lugar a los seis meses de presentado el dictamen, y sólo será aprobado si votan por él, más de los dos tercios del número total de Diputados.
+Esta Constitución puede ser adicionada o reformada. Las proposiciones que tengan este objeto, deberán estar suscritas por tres Diputados, o iniciadas por el Ejecutivo o por el Tribunal Superior de Justicia o por cinco Ayuntamientos. Estas iniciativas se sujetarán a los trámites establecidos para la expedición de las leyes; pero la discusión y votación tendrá lugar a los seis meses de presentado el dictamen, y sólo será aprobado si votan por él, más de los dos tercios del número total de Diputados.
 
 ###### Artículo 96.
 
@@ -847,7 +855,7 @@ Ninguna autoridad política o administrativa, dispondrá de manera alguna de las
 
 ###### Artículo 100.
 
-Todo funcionario y empleado publico, tendrá derecho a percibir el sueldo o emolumento que la ley señale, sin que pueda renunciarlo, y la ley que lo aumente o disminuya, no podrá tener lugar durante el período en que un funcionario ejerce el cargo.
+Todo funcionario y empleado público, tendrá derecho a percibir el sueldo o emolumento que la ley señale, sin que pueda renunciarlo, y la ley que lo aumente o disminuya, no podrá tener lugar durante el período en que un funcionario ejerce el cargo.
 
 ## TITULO VII. DE LOS MUNICIPIOS
 
@@ -865,7 +873,7 @@ Todo funcionario y empleado publico, tendrá derecho a percibir el sueldo o emol
 
 ###### Artículo 1°.
 
-Esta Constitución se protestara con toda solemnidad en todo el Estado, quedando derogada desde luego la anterior, así como sus adiciones y reformas.
+Esta Constitución se protestará con toda solemnidad en todo el Estado, quedando derogada desde luego la anterior, así como sus adiciones y reformas.
 
 ###### Artículo 1°.
 
@@ -873,7 +881,7 @@ El Estado de Hidalgo es parte integrante de los Estados Unidos Mexicanos, y es l
 
 ###### Artículo 2°.
 
-En tanto se expiden las leyes orgánicas relativas, continuaran rigiendo en el Estado, las vigentes en la actualidad así como los decretos y reglamentos que no se opongan a la presente Constitución ni a la General de 5 de febrero de 1917.
+En tanto se expiden las leyes orgánicas relativas, continuarán rigiendo en el Estado, las vigentes en la actualidad así como los decretos y reglamentos que no se opongan a la presente Constitución ni a la General de 5 de febrero de 1917.
 
 ###### Artículo 2°.
 
@@ -881,4 +889,4 @@ Las autoridades y funcionarios del Estado no tienen mas facultades que las que e
 
 ###### Artículo 3°.
 
-El período Constitucional de la actual Legislatura, terminara el último día de febrero de 1921; el del Gobernador, el 31 de marzo del mismo año y el de los Magistrados del Superior Tribunal de Justicia, el 4 de mayo de 1923.
+El período Constitucional de la actual Legislatura, terminará el último día de febrero de 1921; el del Gobernador, el 31 de marzo del mismo año y el de los Magistrados del Superior Tribunal de Justicia, el 4 de mayo de 1923.
