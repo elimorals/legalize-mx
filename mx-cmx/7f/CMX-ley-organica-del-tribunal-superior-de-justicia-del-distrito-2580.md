@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "1999-09-17"
+last_updated: "2000-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE SEPTIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE NOVIEMBRE DE 2000.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -558,15 +558,15 @@ V. De la diligenciación de los exhortos, rogatorias, suplicatorias, requisitori
 
 VI. De los demás asuntos que les encomienden las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 51.
 
-Los juzgados penales tendrán la competencia y las atribuciones que les confieran las leyes y estarán de turno por su orden, de conformidad con las reglas que expida el Consejo de la Judicatura del Distrito Federal. Estas reglas deberán garantizar objetividad e imparcialidad en los turnos así como equilibrio en las cargas de trabajo entre los distintos juzgados.
+Los juzgados penales ejercerán las competencias y atribuciones que les confieren las leyes, a partir de la recepción del turno de trámite que se establecerá por orden numérico en los términos del control que lleve a cabo la Dirección de Turno de Consignaciones Penales del Tribunal y de conformidad con las reglas que para el efecto expida el Consejo de la Judicatura del Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 21 DE ENERO DE 1999)</small>
+Estas reglas deberán garantizar objetividad e imparcialidad en los turnos así como equilibrio en las cargas de trabajo entre los distintos juzgados
 
-La Procuraduría General de Justicia del Distrito Federal remitirá directamente sus consignaciones al juzgado competente, siguiendo estrictamente el orden de los juzgados que estén en turno de acuerdo a la información que al respecto haga de su conocimiento el Consejo de la Judicatura de manera oportuna y sistemática.
+Los servidores públicos del Tribunal y del Consejo de la Judicatura que con motivo de sus funciones posean información sobre el turno y las reglas deberán dar trato estrictamente confidencial a dicha información, haciéndose acreedores, en caso de incumplimiento, a la respectiva sanción penal o administrativa, de acuerdo con el carácter de la infracción.
 
 ###### Artículo 52.
 
@@ -1364,6 +1364,8 @@ Se publicará en la Ciudad de México una revista que se denominará "Anales de 
 
 ### CAPITULO VI. De la Dirección de Turno de Consignaciones Penales
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 161.
 
 El Boletín Judicial se publicará diariamente, con excepción de los sábados, domingos y días inhábiles.
@@ -1442,19 +1444,25 @@ Dicha Oficialía de Partes también recibirá escritos que se dirijan a las Sala
 
 ###### Artículo 174.
 
-(DEROGADO, G.O. 21 DE ENERO DE 1999)
+Corresponde a la Dirección de turno de consignaciones penales, recibir diariamente las consignaciones que remita la Procuraduría General de Justicia del Distrito Federal para su distribución a los jueces penales, que se llevará a cabo conforme a las reglas que para el efecto expida el Consejo de la Judicatura del Distrito Federal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 175.
 
-(DEROGADO, G.O. 21 DE ENERO DE 1999)
+La Dirección de Turno de Consignaciones Penales estará integrada por un Director y el personal administrativo suficiente para su buen funcionamiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 176.
 
-(DEROGADO, G.O. 21 DE ENERO DE 1999)
+El Director deberá reunir los requisitos señalados en el artículo 17 de esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 177.
 
-(DEROGADO, G.O. 21 DE ENERO DE 1999)
+La Dirección estará en servicio en los días y horarios que señalen las reglas de turno de los jueces penales.
 
 ### CAPITULO II. Facultades del Consejo de la Judicatura
 
@@ -1873,3 +1881,7 @@ TERCERO.- Las reglas de turno a las que se refieren los artículos 51 y 201, fra
 G.O. 17 DE SEPTIEMBRE DE 1999.
 
 UNICO.- El presente Decreto entrará en vigor el 1° de octubre de 1999. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 30 DE NOVIEMBRE DE 2000.
+
+ARTÍCULO TRANSITORIO.- La presente reforma entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
