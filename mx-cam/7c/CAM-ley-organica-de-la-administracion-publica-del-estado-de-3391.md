@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-3391"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-10-26"
-last_updated: "1991-10-26"
+last_updated: "1992-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 26 de octubre de 1991.
 
@@ -75,33 +75,33 @@ Las dependencias y entidades del Ejecutivo Estatal deberán planear, programar, 
 
 ### CAPITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1992)</small>
+
 ###### Artículo 9o.
 
 Para el estudio, planeación y despacho de los asuntos de la Administración Pública Estatal, el Poder Ejecutivo contará con las siguientes dependencias:
 
-- Secretaría de Gobierno
+- Secretaría de Gobierno.
 
-- Secretaría de Planeación
+- Secretaría de Desarrollo Social.
 
-- Secretaría de Finanzas
+- Secretaría de Finanzas.
 
-- Secretaría de la Contraloría
+- Secretaría de la Contraloría.
 
-- Secretaría de Desarrollo Económico
+- Secretaría de Desarrollo Económico.
 
-- Secretaría de Desarrollo Rural
+- Secretaría de Desarrollo Rural.
 
-- Secretaría de Desarrollo Pesquero
+- Secretaría de Desarrollo Pesquero.
 
-- Secretaría de Desarrollo Urbano y Medio Ambiente
+- Secretaría de Educación, Cultura y Deporte.
 
-- Secretaría de Educación, Cultura y Deporte
+- Secretaría de Salud.
 
-- Secretaría de Salud
+- Secretaría de Obras Públicas y Comunicaciones.
 
-- Secretaría de Obras Públicas y Comunicaciones
-
-- Oficialía Mayor
+- Oficialía Mayor.
 
 - Procuraduría General de Justicia.
 
@@ -187,81 +187,113 @@ XXIV.- Ejercer como encargado del despacho en ausencia del Gobernador, en el mar
 
 XXV.- Las demás que se le asignen expresamente en las leyes y reglamentos en vigor.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1992)</small>
+
 ###### Artículo 18.
 
-La Secretaría de Planeación tiene a su cargo:
+La Secretaría de Desarrollo Social tiene a su cargo:
 
-I.- Proyectar y coordinar la planeación estatal del desarrollo y elaborar, con la participación de los diferentes grupos sociales y de los gobiernos federal y municipales, el Plan Estatal de Desarrollo;
+I.- Proyectar y coordinar la planeación estatal del desarrollo y elaborar, con la participación de los diferentes grupos sociales y de los gobiernos federal y municipales, el Plan Estatal de Desarrollo, así como proceder a su actualización periódica;
 
-II.- Establecer las normas y conducir las políticas para el diseño e implementación del proceso de planeación y de la programación, presupuestación y evaluación del presupuesto y de las acciones de gobierno;
+II.- Establecer las normas y conducir las políticas para el diseño e implementación del proceso de planeación, programación y control de las acciones de gobierno;
 
-III.- Proyectar y calcular los egresos del Gobierno Estatal, haciéndolos compatibles con la disponibilidad de recursos que señale la Secretaría de Finanzas, y en atención a las necesidades y política de desarrollo estatal;
+III.- Formular, conducir y evaluar la política estatal de desarrollo social y en particular la de asentamientos humanos, desarrollo regional y urbano, vivienda y ecología;
 
-IV.- Elaborar el Programa General de Gasto Público y el Proyecto de Presupuesto de Egresos, y presentarlos a la consideración del Gobernador del Estado;
+IV.- Autorizar los programas de inversión pública de las dependencias y entidades de la Administración Pública Estatal; revisar los expedientes técnicos de las obras; gestionar ante la Secretaría de Finanzas la aprobación de los recursos financieros y ejercer la supervisión de los mismos;
 
-V.- Autorizar los programas de inversión pública de las dependencias y entidades de la Administración Pública Estatal;
+V.- Coordinar y dirigir la participación del Gobierno del Estado en los programas especiales de coinversiones con la Federación y con los gobiernos Municipales;
 
-VI.- Analizar y autorizar las modificaciones y transferencias programáticas y presupuestales extraordinarias, con la aprobación del Gobernador;
+VI.- Fortalecer la organización social, coordinando y promoviendo la participación directa de la comunidad en proyectos e inversiones productivas y de bienestar social, concertando a través de los Comités de Solidaridad;
 
-VII.- Coordinar y dirigir la participación del Gobierno del Estado en los programas especiales de coinversiones con la federación y con los gobiernos municipales;
+VII.- Coordinar y dirigir el Sistema Estatal de Información Estadística, Geográfica y Socioeconómica y dictar la normatividad correspondiente a estas materias para uniformar los criterios de participación de todas las dependencias estatales;
 
-VIII.- Proponer, coordinar y promover la participación directa de la comunidad en proyectos e inversiones productivas y de bienestar social;
+VIII.- Establecer la normatividad para elaborar e integrar la información necesaria para la formulación del informe anual del Gobernador sobre el estado que guarde la administración pública;
 
-IX.- Participar, conjuntamente con las Secretarías de la Contraloría y de Finanzas, en la emisión de los catálogos de cuenta para la contabilidad del gasto público;
+IX.- Elaborar y publicar el anuario estadístico estatal, así como informes periódicos del comportamiento de la economía y de la gestión del Poder Ejecutivo del Estado;
 
-X.- Verificar que los subsidios y transferencias de fondos realizados por el Ejecutivo a los municipios, entidades e instituciones públicas y privadas, se apliquen en los términos establecidos en los programas previamente aprobados;
+X.- Normar, promover y vigilar el crecimiento equilibrado de las diversas comunidades y centros de población de la Entidad;
 
-XI.- Coordinar y dirigir el Sistema Estatal de Información Estadística, Geográfica y Socioeconómica del Estado y dictar la normatividad correspondiente a estas materias, para uniformar los criterios de participación de todas las dependencias estatales;
+XI.- Elaborar y coordinar el Programa Estatal de Desarrollo Urbano y Vivienda, considerando la disponibilidad de agua que determine la Comisión Nacional del Agua;
 
-XII.- Establecer la normatividad para elaborar e integrar la información necesaria para la formulación del Informe Anual del Gobernador sobre el estado de la administración pública;
+XII.- Vigilar el cumplimiento y aplicación de las disposiciones reglamentarias en materia de construcción y desarrollo urbano;
 
-XIII.- Elaborar y publicar el Anuario Estadístico Estatal, así como informes periódicos del comportamiento de la economía y de la gestión del Poder Ejecutivo Estatal;
+XIII.- Participar en la formulación de las declaratorias de usos, destinos y reservas que de predios y áreas verdes se expidan en el Estado, en coordinación con los Ayuntamientos con apego a las leyes vigentes en la materia;
 
-XIV.- Las demás que se asignen expresamente en las leyes y reglamentos vigentes en el Estado.
+XIV.- Promover y fomentar, en coordinación con los Ayuntamientos, acciones de vivienda, la organización de sociedades cooperativas de vivienda, el establecimiento de parques de materiales de construcción y, en general, las acciones necesarias para el mejoramiento de la vivienda de la población en el Estado;
+
+XV.- Proponer y coordinar la política estatal en materia de vivienda y participar en el órgano de gobierno del Instituto de Vivienda del Estado de Campeche;
+
+XVI.- Vigilar la aplicación de las normas y programas vigentes que establezcan la protección o restitución de los sistemas ecológicos del Estado, y el cumplimiento de la normatividad en materia de aprovechamiento racional de bosques, selva, flora y fauna marítima, fluvial y lacustre;
+
+XVII.- Promover el desarrollo de la conciencia ecológica de los habitantes de la Entidad y fomentar la participación social en los programas y acciones de conservación y restauración de los ecosistemas; y,
+
+XVIII.- Las demás que les señalen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1992)</small>
 
 ###### Artículo 19.
 
 La Secretaría de Finanzas tiene a su cargo:
 
-I.- Elaborar y proponer al Ejecutivo los proyectos de ley, reglamentos y demás disposiciones de carácter general que se requieran para el manejo de los asuntos financieros y tributarios del Estado;
+I.- Proyectar y calcular los ingresos del Gobierno del Estado, considerando las necesidades del gasto público estatal, la utilización razonable del crédito público y el saneamiento de las finanzas públicas del propio Estado;
 
-II.- Recaudar y administrar los impuestos, derechos, productos y aprovechamientos que correspondan al Estado en los términos de las leyes correspondientes;
+II.- Elaborar la cuenta pública anual de la Hacienda Estatal, manteniendo las relaciones con la Contaduría Mayor de Hacienda del Congreso del Estado;
 
-III.- Recaudar y administrar las contribuciones y demás ingresos federales, en los términos de las leyes y convenios vigentes;
+III.- Hacer la glosa de los ingresos y egresos del Gobierno del Estado;
 
-IV.- Dictar la normatividad necesaria para el control, supervisión, vigilancia y evaluación de las actividades de sus oficinas recaudadoras, locales y foráneas;
+IV.- Elaborar y proponer al Ejecutivo los proyectos de ley, reglamentos y demás disposiciones de carácter general que se requieran para el manejo de los asuntos financieros y tributarios del Estado;
 
-V.- Tramitar y resolver los recursos administrativos en la esfera de su competencia e intervenir en los juicios de carácter fiscal que se ventilen ante cualquier tribunal cuando tenga interés la Hacienda del Estado;
+V.- Vigilar el cumplimiento de las disposiciones legales de carácter fiscal y demás de su ramo, aplicables en el Estado;
 
-VI.- Ordenar y practicar inspecciones, revisiones y visitas domiciliarias a los contribuyentes con el objeto de verificar el cumplimiento de las obligaciones fiscales, tanto estatales como federales convenidas;
+VI.- Tramitar y resolver los recursos administrativos en la esfera de su competencia e intervenir en las controversias de carácter fiscal, que se ventilen ante cualquiera autoridad cuando tenga interés la Hacienda del Estado;
 
-VII.- Mantener actualizado el padrón fiscal de contribuyentes;
+VII.- Ejercer la facultad económico-coactiva, conforme a las leyes y reglamentos en vigor;
 
-VIII.- Vigilar el cumplimiento de las disposiciones legales de carácter fiscal y demás de su ramo, aplicables en el Estado;
+VIII.- Ejercer las atribuciones derivadas de los Convenios Fiscales que haya celebrado o que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público de la Federación y con los Gobiernos Municipales;
 
-IX.- Ejercer la facultad económica coactiva, conforme a las leyes en vigor;
+IX.- Proporcionar asesoría en materia de interpretación y aplicación de las leyes tributarias del Estado, solicitada por las autoridades federales, estatales, municipales y los particulares respecto a casos concretos;
 
-X.- Proponer al Gobernador del Estado la cancelación de cuentas incobrables, así como el otorgamiento de subsidios fiscales en los casos en que proceda;
+X.- Recaudar y administrar los impuestos, derechos, productos y aprovechamientos que correspondan al Estado en los términos de las leyes respectivas;
 
-XI.- Ejercer las atribuciones derivadas de los convenios fiscales que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público del Gobierno Federal, con los gobiernos municipales y con organismos auxiliares;
+XI.- Establecer y revisar los precios y tarifas de los bienes y servicios de la Administración Pública Estatal, o bien sentar las bases para fijarlos con la participación de las dependencias estatales que correspondan;
 
-XII.- Dictar las normas relacionadas con el manejo de fondos y valores de las dependencias, organismos auxiliares y fideicomisos del Estado, así como custodiar los documentos que constituyen valores, acciones y demás derechos que formen parte del patrimonio del Estado;
+XII.- Recaudar y administrar las contribuciones y demás ingresos federales en los términos de las leyes y convenios vigentes;
 
-XIII.- Cuidar que los empleados que manejen fondos del Estado otorgen (sic) fianza suficiente para garantizar su manejo en los términos que determine la Ley;
+XIII.- Ordenar y practicar verificaciones, inspecciones, revisiones y visitas domiciliarias a los contribuyentes con el objeto de constatar el cumplimiento de las obligaciones fiscales, tanto estatales como federales convenidas;
 
-XIV.- Dirigir la negociación y llevar el registro y control de la deuda pública del Estado; y vigilar y registrar la de los municipios, informando al Gobernador periódicamente sobre el estado de las amortizaciones de capital y pago de intereses;
+XIV.- Mantener actualizado el padrón fiscal de contribuyentes tanto estatales como federales convenidos;
 
-XV.- Proporcionar asesoría en materia de interpretación y aplicación de las leyes tributarias del Estado, solicitada por los particulares y las autoridades federales, estatales y municipales;
+XV.- Dictar la normatividad necesaria para el control, supervisión, vigilancia y evaluación de las actividades de sus oficinas recaudadoras, locales y foráneas;
 
-XVI.- Estimar y dar a conocer a la Secretaría de Planeación el monto global y la calendarización provisional del presupuesto para el siguiente ejercicio fiscal, a fin de posibilitar las atribuciones de esta última en materia de programación-presupuestación;
+XVI.- Dictar las normas relacionadas con la administración de fondos y valores de las dependencias y fideicomisos del Estado, así como custodiar los documentos que constituyen valores, acciones y demás derechos que forman parte del patrimonio del Estado;
 
-XVII.- Calendarizar y efectuar pagos con base en los programas y presupuesto que haga la Secretaría de Planeación y formular mensualmente el Estado de Origen y Aplicación de los Recursos Financieros y Tributarios del Estado;
+XVII.- Cuidar que los empleados que administren fondos del Estado otorguen fianza suficiente para garantizar la aplicación adecuada en los términos establecidos en la Ley Estatal de Responsabilidades de los Servidores Públicos;
 
-XVIII.- Revisar las operaciones financieras del Estado, aplicando los sistemas de contabilidad gubernamental;
+XVIII.- Elaborar el programa general del gasto público y el anteproyecto del Presupuesto de Egresos, y presentarlo a la consideración del Gobernador del Estado;
 
-XIX.- Hacer la glosa preventiva a los ingresos y egresos del Gobierno del Estado, elaborar la cuenta pública y mantener las relaciones con la Contaduría Mayor de Hacienda del Congreso del Estado;
+XIX.- Establecer las normas y conducir las políticas para el diseño e implementación de la programación, presupuestación y evaluación del Presupuesto de Egresos del Gobierno del Estado, así como de los organismos descentralizados;
 
-XX.- Las demás que se le asignen expresamente en las leyes y reglamentos vigentes en el Estado.
+XX.- Emitir conjuntamente con la Secretaría de la Contraloría, los catálogos de cuenta para la contabilidad del gasto público;
+
+XXI.- Formular mensualmente el estado de origen y aplicación de los recursos financieros y tributarios del Estado;
+
+XXII.- Revisar las operaciones que se hayan realizado con los recursos económicos del Gobierno del Estado, aplicando para tal efecto los sistemas de contabilidad gubernamental;
+
+XXIII.- Analizar y autorizar los recursos para los programas de inversión de las dependencias y entidades de la administración pública estatal;
+
+XXIV.- Calendarizar y efectuar pagos con base en los programas y presupuestos autorizados;
+
+XXV.- Analizar y autorizar las modificaciones y transferencias programáticas y presupuestales conforme a la normatividad que se emita al respecto;
+
+XXVI.- Dirigir la negociación y llevar el registro y control de la deuda pública del Estado; vigilar y registrar las de los municipios sólo cuando el Gobierno del Estado sea aval o responsable solidario;
+
+XXVII.- Suscribir, previo acuerdo del depositario del Ejecutivo, contratos y títulos de crédito en representación del Gobierno del Estado;
+
+XXVIII.- Proponer al Gobernador del Estado la cancelación de cuentas y créditos incobrables, así como el otorgamiento de subsidios fiscales en los casos en que proceda;
+
+XXIX.- Estimar y dar a conocer a los diversos ramos que conforman la Administración Pública Estatal, el monto global y calendarización provisional del presupuesto para el siguiente ejercicio fiscal, a fin de posibilitar las atribuciones de esta Secretaría en materia de programación-presupuestación; y,
+
+XXX.- Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### Artículo 20.
 
@@ -405,27 +437,7 @@ XI.- Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### Artículo 24.
 
-La Secretaría de Desarrollo Urbano y Medio Ambiente tiene a su cargo:
-
-I.- Normar, promover y vigilar el crecimiento equilibrado de las diversas comunidades y centros de población de la entidad;
-
-II.- Elaborar y coordinar el Programa Estatal de Desarrollo Urbano y Vivienda;
-
-III.- Vigilar el cumplimiento y aplicación de las disposiciones reglamentarias en materia de construcción y desarrollo urbano;
-
-IV.- Participar en la formulación de las declaraciones de usos, destinos y reservas que de predios y áreas verdes se expidan en el Estado, en coordinación con los ayuntamientos y en apego a las leyes vigentes en la materia;
-
-V.- Promover y fomentar, en coordinación con los ayuntamientos, acciones de vivienda, la organización de sociedades cooperativas de vivienda, el establecimiento de parques de materiales de construcción y en general las acciones necesarias para el mejoramiento de la vivienda de la población estatal;
-
-VI.- Definir y dirigir la política de la Administración Pública Estatal en materia de construcción, reconstrucción y mantenimiento de edificios públicos, monumentos y obras de ornato del Gobierno del Estado;
-
-VII.- Proponer y coordinar la política estatal en materia de vivienda y participar en los órganos de gobierno del Instituto de Vivienda del Estado de Campeche;
-
-VIII.- Vigilar la aplicación de las normas y programas vigentes que establezcan la protección o restitución de los sistemas ecológicos del Estado, y el cumplimiento de la normatividad en materia de aprovechamiento racional de bosques, selva, flora y fauna;
-
-IX.- Promover el desarrollo de la conciencia ecológica de los habitantes de la entidad, y fomentar la participación social en los programas y acciones de conservación y restauración de los ecosistemas;
-
-X.- Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+(DEROGADO, P.O. 8 DE JULIO DE 1992)
 
 ###### Artículo 25.
 
@@ -624,3 +636,19 @@ Por lo tanto mando se imprima, publique y circule para su debido cumplimiento.
 Dado en el Palacio de Gobierno del Estado, en Campeche a los veinticinco días del mes de octubre de mil novecientos noventa y uno.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. TIRSO R. DE LA GALA GUERRERO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE JULIO DE 1992.
+
+Artículo Primero.- El presente Decreto iniciará su vigencia en los términos señalados en el Artículo tercero del Código Civil del Estado, después de que sea publicado en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+Artículo Tercero.- Las referencias que se hacen en las leyes y reglamentos vigentes en el Estado a la Secretaría de Desarrollo Urbano y Medio Ambiente se entenderán hechas a la Secretaría de Desarrollo Social. Asimismo, las atribuciones que en dichas leyes y reglamentos se otorgan a la indicada Secretaría de Desarrollo Urbano y Medio Ambiente, se entenderán otorgadas a la de Desarrollo Social.
+
+Artículo Cuarto.- Las referencias que se hacen en las leyes y Reglamentos vigentes en el Estado a la Secretaría de Planeación en las materias que con motivo de la supresión de ésta pasan a la Secretaría de Finanzas del Estado, se entenderán hechas a esta última, así como las atribuciones que en esas mismas materias se otorgaren en las anotadas leyes y reglamentos a la mencionada Secretaría de Planeación.
+
+Artículo Quinto.- El personal de base, así como los recursos financieros y materiales, incluidos mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general el equipo que la Secretaría de Planeación que desaparece por efectos del presente Decreto de reformas, utiliza para la operación de los asuntos a su cargo, pasarán a la Secretaría de Desarrollo Social, con excepción de aquellos destinados a las funciones que por este mismo Decreto se transfieren a la Secretaría de Finanzas. Asimismo, pasarán a la Secretaría de Desarrollo Social el personal de base y los recursos financieros y materiales asignados en el presupuesto de egresos vigente en el Estado en el Ramo 11, con motivo de la supresión de la Secretaría de Desarrollo Urbano y Medio Ambiente y la absorción de ésta por la nueva de Desarrollo Social.
+
+Artículo Sexto.- Los programas y asuntos a cargo de la Secretaría de Desarrollo Urbano y Medio Ambiente que se encontraren en curso o pendientes de resolución en el momento de iniciar su vigencia el presente Decreto, se continuarán o serán despachados por la Secretaría de Desarrollo Social; de la misma manera, los programas y asuntos a cargo de la Secretaría de Planeación, que se transfieren a la Secretaría de Finanzas, se continuarán o serán despachados por ésta conforme a sus nuevas atribuciones.
