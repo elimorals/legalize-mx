@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-ministerio-publico-del-estado-de-zacatecas-168
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-08-12"
-last_updated: "2000-08-12"
+last_updated: "2002-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2002.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 12 de agosto del 2000.
 
@@ -300,6 +300,10 @@ I. Procurador General de Justicia del Estado;
 II. Subprocuraduría de Investigaciones;
 
 III. Subprocuraduría de Procedimientos Jurisdiccionales;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2002)</small>
+
+III-A.- Sub Procuradurías Regionales;
 
 IV. Dirección General de Investigaciones;
 
@@ -594,6 +598,16 @@ El Subprocurador de Procedimientos Jurisdiccionales, tendrá adscritos a su carg
 I. La Dirección General de Procedimientos Jurisdiccionales; y
 
 II. La Dirección de Aprehensiones, Colaboraciones y Extradiciones Internacionales.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2002)</small>
+
+###### ARTICULO 35-A.
+
+Las Sub Procuradurías Regionales se crearán por el Gobernador del Estado a propuesta del Procurador General de Justicia, en aquellos municipios o regiones que en razón de los índices delictivos así se considere necesario.
+
+Los sub procuradores regionales, ejercerán, en su ámbito territorial, las atribuciones que en materia de investigaciones y de procedimientos jurisdiccionales, a que se refieren los artículos 32 y 34 de esta ley, el respectivo acuerdo, expresamente les asigne.
+
+El Procurador General de Justicia acordará las unidades administrativas y el personal que se adscriba a las subprocuradurías regionales.
 
 ###### ARTICULO 36.
 
@@ -1050,3 +1064,9 @@ LIC. ARTURO NAHLE GARCIA
 EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 
 LIC. AQUILES GONZALEZ NAVARRO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE MARZO DE 2002
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
