@@ -4,7 +4,7 @@ identifier: "LAC"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-12"
-last_updated: "1995-05-12"
+last_updated: "1995-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2551&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAC"
 
 LEY DE AVIACION CIVIL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 12 de mayo de 1995.
 
@@ -168,9 +168,7 @@ Para estos efectos, el comandante dispondrá del apoyo de un cuerpo de verificad
 
 ###### Artículo 8.
 
-En los aeropuertos deberá integrarse un comité de horarios que determinará, de manera coordinada, la asignación a los distintos concesionarios o permisionarios de los horarios de aterrizaje y despegue de aeronaves, sobre bases equitativas y no discriminatorias, de conformidad con las frecuencias de vuelo previstas para la operación de las rutas.
-
-Dicho comité será presidido por el comandante de aeropuerto, con la participación de la administrtación del aeropuerto y de los concesionarios o permisionarios interesados. Su funcionamiento se determinará en el reglamento respectivo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AEROPUERTOS, D.O.F. 22 DE DICIEMBRE DE 1995)
 
 ### Capítulo III. De las concesiones y de los permisos
 
@@ -1003,3 +1001,33 @@ La obtención de permisos, en tanto se expiden los reglamentos respectivos, se s
 México, D.F., a 28 de abril de 1995.- Dip. Florentino Castro López, Presidente.- Sen. Martha Lara Alatorre, Presidenta.- Dip. Fernando Flores Gómez González, Secretario.- Sen. Antonio Manríquez Guluarte, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de mayo de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Esteban Moctezuma Barragán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 22 DE DICIEMBRE DE 1995.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan los artículos 327; 328; 371 fracción I, incisos b) y c) y 567 de la Ley de Vías Generales de Comunicación; el artículo 8 de la Ley de Aviación Civil; así como las demás disposiciones que se opongan a la presente Ley.
+
+Las disposiciones reglamentarias y administrativas en vigor se continuarán aplicando hasta en tanto no sean derogadas por otras, salvo en lo que se opongan a la presente Ley.
+
+Cuando en otras disposiciones se haga referencia a la figura de comandante de aeropuerto, se entenderá como comandante de aeródromo en los términos de esta Ley.
+
+TERCERO. El organismo público descentralizado Aeropuertos y Servicios Auxiliares podrá continuar administrando aeropuertos en los términos de su Decreto de creación de fecha 10 de junio de 1965, publicado en el Diario Oficial de la Federación el 12 del mismo mes y año, y de sus decretos modificatorios, hasta en tanto la Secretaría, de conformidad con lo previsto en esta Ley, otorgue concesiones respecto de los aeropuertos administrados por dicho organismo.
+
+Lo anterior, en el entendido de que Aeropuertos y Servicios Auxiliares deberá ajustarse a lo dispuesto en esta Ley, en lo relativo a la construcción, administración, operación y explotación de aeropuertos y en la prestación de los servicios.
+
+CUARTO. Las concesiones, permisos y autorizaciones que se otorguen con motivo de la presente Ley, no afectarán los derechos de los trabajadores de Aeropuertos y Servicios Auxiliares, los que serán respetados conforme a la ley de la materia.
+
+QUINTO. Las concesiones, permisos y autorizaciones otorgadas con anterioridad a la entrada en vigor de la presente Ley, serán respetadas en sus términos hasta su vencimiento.
+
+Lo anterior, en el entendido de que los concesionarios y permisionarios deberán ajustarse a lo dispuesto en esta Ley, en lo relativo a la construcción, administración, operación y explotación de aeródromos civiles y en la prestación de los servicios aeroportuarios, complementarios y comerciales.
+
+Los aeródromos de servicio general que al momento de la publicación de este ordenamiento reciban aeronaves destinadas al servicio de transporte aéreo regular, tendrán un plazo máximo de 180 días naturales, contados a partir de la publicación de esta Ley, para regularizar su situación ante la Secretaría.
+
+Por lo que se refiere a las concesiones y permisos en trámite, se estará a lo dispuesto en esta Ley.
+
+SEXTO. Las infracciones cometidas con anterioridad a la entrada en vigor de la presente Ley, se sancionarán de conformidad con las disposiciones vigentes al momento en que se cometieron.
+
+SEPTIMO. A más tardar en 180 días, contados a partir de la entrada en vigor de este ordenamiento, el Ejecutivo Federal constituirá la comisión intersecretarial a que se refiere el artículo 21 de esta Ley.
