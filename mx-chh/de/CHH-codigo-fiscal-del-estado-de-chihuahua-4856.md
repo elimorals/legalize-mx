@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1981-12-30"
+last_updated: "1982-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1982.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1049,7 +1049,7 @@ Hasta 14,500.00 Exento
 
 más de 1´000,000.00 15.0 al millar
 
-La exención hasta de $14,500.00 que contiene la tarifa, sólo operará cuando el predio sea la única propiedad inmueble del causante. En caso de tener varias, con valores dentro del límite indicado, se aplicará la tasa mínima.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 29 DE DICIEMBRE DE 1982)</small>
 
 II.- Tratándose de predios rústicos se aplicará una cuota de 6.25 al millar anual sobre el valor catastral.
 
@@ -1105,7 +1105,9 @@ N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACIO
 
 156.- Las personas que reciban en consignación o comisión para su venta automóviles cuya tenencia o uso grava este capítulo, son solidariamente responsables por los impuestos que se adeuden.
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
 157.- El impuesto se causará anualmente y deberá quedar cubierto dentro de los dos primeros meses de cada año.
 
@@ -1283,7 +1285,9 @@ La vigencia de las exenciones que se concedan de acuerdo con lo dispuesto por es
 
 Para los efectos de este artículo, el año se entiende dividido en seis bimestres: enero-febrero, marzo-abril, mayo-junio, julio-agosto, septiembre-octubre y noviembre-diciembre.
 
-109.- En el caso de predios no empadronados en la Tesorería General del Estado por causa imputable al sujeto del impuesto, se harán efectivos cinco años de impuestos anteriores a la fecha del descubrimiento de la omisión, aplicándose las sanciones correspondientes, salvo que el interesado compruebe que el lapso es menor.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1982)</small>
+
+109.- En el caso de terrenos no empadronados o construcciones no manifestadas ante la Tesorería General del Estado por causa imputable al sujeto del impuesto, se harán efectivos cinco años de impuestos anteriores a la fecha del descubrimiento de la omisión, aplicándose las sanciones correspondientes, salvo que el interesado compruebe que el lapso es menor.
 
 110.- Toda estipulación privada relativa al pago del impuesto que se oponga a lo dispuesto en el presente Capítulo, se tendrá como inexistente y por lo tanto, para los efectos fiscales, no producirá efecto legal alguno.
 
@@ -1296,6 +1300,10 @@ Para los efectos de este artículo, el año se entiende dividido en seis bimestr
 Para la actualización bienal de los valores catastrales de predios ya valuados, que no hayan sufrido modificación, no se requerirá valuación de los peritos valuadores de la Tesorería, pues bastará fijar los nuevos valores unitarios que menciona el párrafo anterior. Las notificaciones de los valores catastrales en estos casos, podrán hacerse mediante dos publicaciones en el Periódico Oficial del Estado y dos más en los periódicos de mayor circulación en el lugar en que se encuentre ubicado el predio y en su defecto, en los de la Ciudad de Chihuahua.
 
 En los casos de reavalúos a que se refiere la Sección de Catastro, el nuevo valor entrará en vigor a partir del bimestre siguiente a la fecha del traslado de dominio, de la terminación de nuevas construcciones, de las ampliaciones de las construcciones ya existentes o de la notificación del avalúo en los demás casos, con excepción de lo relativo a avalúos provisionales.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1982)</small>
+
+En poblaciones de más de 50,000 habitantes, tratándose de predios no edificados o cuya construcción tenga un valor inferior a la tercera parte del valor del terreno, el valor catastral será de un tanto más al que correspondería si estuviese edificado.
 
 ### CAPITULO IV. IMPUESTO SOBRE NOMINAS
 
@@ -1701,6 +1709,10 @@ X.- Nombre y número del Notario o autoridad ante quien se celebre el contrato u
 
 131.- Toda construcción, ampliación o modificación de la construcción ya existente, deberá ser manifestada por el sujeto del impuesto a la Tesorería General del Estado, en las formas que para el caso autorice la misma, dentro de los 15 días siguientes al de la terminación de la obra realizada.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1982)</small>
+
+A la manifestación anterior deberá adjuntarse plano catastral, permiso de construcción de la Dirección de Obras Públicas Municipales y copia del aviso de terminación de obra presentado ante el Instituto Mexicano del Seguro Social.
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
 #### SECCION PRIMERA. OBJETO, SUJETO, BASE Y TASA
@@ -1729,7 +1741,7 @@ V.- Fusión de sociedades.
 
 VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
 
-VII.- Constitución del usufructo, transmisión de éste o de la nuda propiedad así como la extinción del usufructo temporal.
+VII.- Constitución del usufructo, trasmisión de éste o de la nuda propiedad así como la extinción del usufructo temporal.
 
 VIII.- Prescripción positiva.
 
@@ -1753,13 +1765,15 @@ III.- En las permutas, la base del impuesto será el valor más alto entre los q
 
 IV.- Para los efectos de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor total de la propiedad.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1982)</small>
 
-136.- La base gravable se reducirá con la cantidad que resulte de elevar a 5 años el salario mínimo general, de la zona económica en que se encuentre ubicado el inmueble.
+136.- La base gravable se reducirá con la cantidad que resulte de multiplicar por cinco el salario mínimo general elevado al año, de la zona económica en que se encuentre ubicado el inmueble.
 
-Tratándose de casa habitación, la base gravable podrá reducirse hasta por la cantidad que el Fondo de Operación y Descuento Bancario a la Vivienda de Interés Social fije para esta última.
+Tratándose exclusivamente de casa habitación la reducción se incrementará en un 50%.
 
-Cuando del inmueble formen parte departamentos habitacionales, la reducción se hará por cada uno de ellos. Lo dispuesto en este párrafo no es aplicable a hoteles.
+Cuando del inmueble formen parte construcciones distintas a la casa habitación, la reducción se hará proporcionalmente conforme a los factores previstos en este artículo, salvo que la parte relativa a casa habitación tenga un valor inferior a la mitad del valor total del inmueble, en cuyo caso sólo se tendrá derecho a la prevista en el primer párrafo.
+
+Cuando del inmueble formen parte departamentos habitacionales, la reducción será por cada uno de ellos, siempre que los adquieran personas distintas. Lo dispuesto en este párrafo no es aplicable a hoteles.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -1825,9 +1839,9 @@ Cuando se trate de actos de adquisición otorgados o celebrados fuera del territ
 
 143.- Los plazos que establecen los artículos anteriores se interrumpirán únicamente por consulta formulada por escrito a la Tesorería General cuando exista duda sobre la procedencia del impuesto, o por inconformidad con el avalúo practicado. Los plazos continuarán corriendo a partir de la fecha en que se notifique al causante la resolución.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1982)</small>
 
-144.- Para efectuar la reducción a que se refiere el artículo 136, se considerará el salario mínimo correspondiente al año de calendario en que se efectúe la adquisición.
+144.- Para efectuar la reducción a que se refiere el artículo 136, se considerará el salario mínimo general vigente en la fecha en que se efectúe la adquisición. Tratándose de adquisiciones que consten en escritura pública se estará a la fecha de la misma.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -1851,7 +1865,7 @@ IV.- No se considerarán departamentos habitacionales los que, por sus caracter�
 
 I.- Las adquisiciones que hagan las instituciones de asistencia o de beneficiencia (sic), autorizadas por las leyes de la materia; instituciones públicas de enseñanza y establecimientos de enseñanza propiedad de particulares que funcionen con autorización o reconocimiento de validez oficial de estudios en los términos de las Leyes Federal de Educación y Estatales de la materia, si los bienes van a ser destinados exclusivamente a los fines educativos o asistenciales propios de las instituciones aludidas.
 
-II.- Las adquisiciones que se realicen al constituirse o disolverse la sociedad conyugal, así como en el acto en que se cambien las capitulaciones matrimoniales. No queda incluída en esta fracción la transmisión hereditaria de la parte correspondiente a cada cónyuge en la sociedad conyugal.
+II.- Las adquisiciones que se realicen al constituirse o disolverse la sociedad conyugal, así como en el acto en que se cambien las capitulaciones matrimoniales. No queda incluída en esta fracción la trasmisión hereditaria de la parte correspondiente a cada cónyuge en la sociedad conyugal.
 
 III.- Las adquisiciones por los Partidos y Asociaciones Políticas para su propio uso.
 
@@ -2681,9 +2695,9 @@ II.- Por el aumento, por cualquier causa, del capital social de sociedades civil
 
 III.- Por los actos tendientes a garantizar obligaciones tales como fianzas, hipotecas, etc., sobre el importe de lo garantizado, se pagará $0.75 por cada $100.00 o fracción.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1982)</small>
 
-IV.- El mandato que se haga constar en escritura pública o en escrito privado ratificado ante Notario o ante autoridad judicial, pagará $10.00 (Diez pesos 00/100 M.N.). En el primer caso el entero del impuesto se comprobará con el original del certificado de pago que se agregará al apéndice del Protocolo correspondiente; en el segundo, se adherirá a la copia auténtica que se agregue al apéndice del libro de registro de actos fuera de protocolo, poniéndose razón del pago en la que conste el número del certificado en el documento que se entregue al interesado. Si el mandato fuese judicial, el comprobante del pago del impuesto se agregará a las actuaciones conducentes.
+IV.- El mandato que se haga constar en escritura pública o en escrito privado ratificado ante Notario o ante autoridad judicial, pagará $100.00 (Cien Pesos, 00/100 M.N.). En el primer caso el entero del impuesto se comprobará con el original del certificado de pago que se agregará al apéndice del Protocolo correspondiente; en el segundo, se adherirá a la copia auténtica que se agregue al apéndice del libro de registro de actos fuera de protocolo, poniéndose razón del pago en la que conste el número del certificado en el documento que se entregue al interesado. Si el mandato fuese judicial, el comprobante de pago del impuesto se agregará a las actuaciones conducentes.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
@@ -2693,9 +2707,9 @@ V.- En los contratos de aparcería, el propietario pagará el 1% del precio de l
 
 VI.- Por los actos jurídicos no previstos en las fracciones anteriores, se pagará $1.50 (Un peso 50/100 M.N.) por cada un mil pesos o fracción sobre el valor de la operación.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1982)</small>
 
-VII.- Cuando en el acto jurídico no se exprese cantidad ni pueda determinarse el valor de la operación, se pagará la suma de $15.00 (Quince pesos 00/100 M.N.).
+VII.- Cuando en el acto jurídico no se exprese cantidad ni pueda determinarse el valor de la operación, se pagará la suma de $150.00 (Ciento Cincuenta Pesos, 00/100 M.N.).
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
@@ -2797,7 +2811,7 @@ El empadronamiento se hará en las formas que para el caso autorice la Tesorerí
 
 Los productores cubrirán, en la Recaudación de Rentas respectiva, al presentar la solicitud de empadronamiento, el derecho correlativo con arreglo a las siguientes cuotas:
 
-I.- Productores comprendidos en la Categoría A. de 300,000
+I (SIC).- Productores comprendidos en la Categoría A. de 300,000
 
 litros de producción anual en adelante $500.00
 
@@ -3515,13 +3529,11 @@ Si es a los sujetos pasivos o responsables solidarios a quienes corresponde fija
 
 333.- El Jefe de la Oficina Recaudadora a la que corresponde el cobro, dictará mandamiento de ejecución, debidamente fundado y motivado, en el que ordenará que se requiera al deudor para que en el acto de la diligencia haga pago de su adeudo y, de no hacerlo, se le embarguen bienes de su propiedad bastantes para cubrirlo, después de lo cual se le prevendrá que dentro del plazo de 5 días siguientes a la fecha del embargo deberá hacer el pago en la caja de la oficina citada, apercibido que de no hacerlo se procederá al remate de los bienes secuestrados, para cubrir con su producto el crédito insoluto, así como los accesorios, gastos y vencimientos futuros en su caso. Si el pago se hiciere en el término indicado no se causarán honorarios por la diligencia de embargo.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1982)</small>
 
-334.- Los vencimientos que ocurran durante el procedimiento administrativo de ejecución, incluso recargos, gastos de ejecución y cualquiera otros, se harán efectivos juntamente con el crédito inicial, sin necesidad de emplazamiento ni de otras formalidades, salvo las necesarias en su caso, para garantizar el interés fiscal y la formulación de las liquidaciones respectivas.
+334.- Los vencimientos que ocurran durante el procedimiento administrativo de ejecución, incluso recargos, gastos de ejecución y cualesquiera otros, se harán efectivos juntamente con el crédito inicial, sin necesidad de emplazamiento ni de otras formalidades, salvo las necesarias en su caso, para garantizar el interés fiscal y la formulación de las liquidaciones respectivas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1980)</small>
-
-Por la diligencia de requerimiento y de embargo, se causará por concepto de gastos de ejecución a cargo del deudor, un 5% sobre el monto del crédito fiscal, por cada una de dichas diligencias, pero en ningún caso podrá ser, en total, ni menor de veinte pesos, ni mayor de diez mil pesos, aún cuando por la aplicación de dicha tasa sobre el monto del crédito para cuyo cobro se siga el procedimiento económico coactivo en el que dichos gastos se causen, resulte una cantidad mayor o menor que las indicadas; por la notificación de un crédito fiscal se causarán veinte pesos por concepto de gastos de ejecución.
+Por la diligencia de requerimiento y de embargo, se causará por concepto de gastos de ejecución a cargo del deudor, un 5% sobre el monto del crédito fiscal, por cada una de dichas diligencias, pero en ningún caso podrá ser, en total, ni menor de cuarenta pesos, ni mayor de veinticinco mil pesos, aún cuando por la aplicación de dicha tasa sobre el monto del crédito para cuyo cobro se siga el procedimiento económico coactivo en el que dichos gastos se causen, resulte una cantidad mayor o menor que las indicadas; por la notificación de un crédito fiscal se causarán cuarenta pesos por concepto de gastos de ejecución.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
@@ -4598,3 +4610,7 @@ ARTICULO TRANSITORIO.- El presente decreto entrará en vigor el día primero de 
 P.O. 30 DE DICIEMBRE DE 1981.
 
 ARTICULO TRANSITORIO.- Las presentes disposiciones entrarán en vigor a partir del primero de enero de mil novecientos ochenta y dos.
+
+P.O. 29 DE DICIEMBRE DE 1982.
+
+ARTICULO TRANSITORIO.- La presente Ley entrará en vigor el día 1o. de Enero de 1983.
