@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "1993-12-03"
+last_updated: "1993-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 27 de diciembre de 1978.
 
@@ -60,9 +60,9 @@ El Fondo General de Participaciones se constituirá con el 18.51% de la recaudac
 
 La recaudación federal participable será la que obtenga la Federación por todos sus impuestos, así como por los derechos sobre la extracción de petróleo y de minería, disminuidos con el total de las devoluciones por los mismos conceptos.
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
-No se incluirán en la recaudación federal participable, los impuestos adicionales del 3% sobre el impuesto general de exportación de petróleo crudo, gas natural y sus derivados y del 2% en las demás exportaciones; ni tampoco los derechos adicionales o extraordinarios, sobre la extracción de petróleo.
+No se incluirán en la recaudación federal participable, los derechos adicionales o extraordinarios, sobre la extracción de petróleo.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -110,17 +110,43 @@ Las entidades federativas que estén adheridas al Sistema Nacional de Coordinaci
 
 En el rendimiento de las contribuciones que a continuación se señalan, participarán los Municipios, en la forma siguiente:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
-I.- 95% del 2.8% de los impuestos general de importación y 2% adicional sobre el impuesto general de exportación, a aquellos municipios colindantes con la frontera o los litorales por los que se realice materialmente la entrada al país o la salida de él de los bienes que se importen o exporten.
+I.- En la proporción de la recaudación federal participable que a continuación se señala participarán los municipios, en la forma siguiente:
 
-> <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+0.136% de la recaudación federal participable que obtenga la Federación por todos sus impuestos, así como por los derechos sobre minería y sobre la extracción de petróleo, con exclusión del derecho extraordinario sobre el mismo, disminuidos con el total de las devoluciones por los mismos conceptos; a aquellos municipios colindantes con la frontera o los litorales por los que se realicen materialmente la entrada al país o la salida de él de los bienes que se importen o exporten, siempre que la entidad federativa de que se trate celebre convenio con la Federación en materia de vigilancia y control de introducción ilegal al territorio nacional de mercancías de procedencia extranjera y en dichos convenios se establezcan descuentos en las participaciones a que se refiere esta fracción, en los casos en que se detecten mercancías de procedencia extranjera respecto de las cuales no se acredite su legal estancia en el país.
 
-II.- 3.17% del derecho adicional sobre la extracción de petróleo, excluyendo el derecho extraordinario sobre el mismo y, en su caso, del impuesto adicional del 3% sobre el impuesto general en exportaciones de petróleo crudo, gas natural y sus derivados a los municipios colindantes con la frontera o litorales, por los que se realiza materialmente la salida del país de dichos productos.
+La distribución entre los municipios se realizará mediante la aplicación del coeficiente de participación que se determinará para cada uno de ellos conforme a la siguiente fórmula:
+
+CCiT = Bi/TB
+
+Donde:
+
+CCiT es el coeficiente de participación de los municipios colindantes i en el año para el que se efectúa el cálculo.
+
+TB es la suma de Bi.
+
+i es cada entidad.
+
+Bi= (CCiT-1) (IPDAiT-1)/ IPDAT-2
+
+Donde:
+
+CCiT-1= Coeficiente de participaciones del municipio i en el año inmediato anterior a aquel para el cual se efectúa el cálculo.
+
+IPDAiT-1 = Recaudación local de predial y de los derechos de agua en el municipio i en el año inmediato anterior para el cual se efectúa el cálculo.
+
+IPDAiT-2 = Recaudación local del predial y de los derechos de agua en el municipio i en el segundo año inmediato anterior para el cual se efectúa el cálculo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
+
+II.- 3.17% del derecho adicional sobre la extracción de petróleo, excluyendo el derecho extraordinario sobre el mismo, a los municipios colindantes con la frontera o litorales por los que se realice materialmente la salida del país de dichos productos.
+
+> <small>(REFORMADO D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
 Petróleos Mexicanos y sus organismos subsidiarios, por conducto de Petróleos Mexicanos, informará mensualmente a la Secretaría de Hacienda y Crédito Público los montos y municipios a que se refiere el párrafo anterior.
 
-> <small>(REFORMADO PARRAFO PRIMERO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
 III.- 1% de la recaudación federal participable que obtenga la Federación por concepto de impuestos, así como por los derechos sobre minería y sobre la extracción de petróleo, con exclusión del derecho extraordinario sobre el mismo, en la siguiente forma:
 
@@ -128,7 +154,7 @@ III.- 1% de la recaudación federal participable que obtenga la Federación por 
 
 a).- El 0.56 % del mismo, conforme a lo siguiente:
 
-> <small>(ADICIONADO, D .O. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(ADICIONADO, D .O 31 DE DICIEMBRE DE 1986)</small>
 
 1.- El 30% se destinará a formar un Fondo de Fomento Municipal.
 
@@ -164,11 +190,11 @@ La cantidad que a cada entidad federativa corresponda en la parte del Fondo Gene
 
 Los impuestos asignables a que se refiere este artículo son los impuestos federales sobre automóviles nuevos, sobre tenencia o uso de vehículos y especial sobre producción y servicios.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 4o.
 
-Se crea una reserva de contingencia consistente en un monto equivalente al 0.25% de la recaudación federal participable de cada ejercicio. El 50% de dicha reserva será distribuida cuatrimestralmente y el 50% restante se entregará al cierre del ejercicio fiscal, y se utilizará para apoyar a aquellas entidades cuya participación total en los Fondos General y de Fomento Municipal no alcance el crecimiento experimentado por la recaudación federal participable del año respecto a la de 1990. La reserva se distribuirá para garantizar un crecimiento en las participaciones igual a la de la recaudación federal participable.
+Se crea una reserva de contingencia consistente en un monto equivalente al 0.25% de la recaudación federal participable de cada ejercicio. El 50% de dicha reserva será distribuida cuatrimestralmente y el 50% restante se entregará al cierre del ejercicio fiscal, y se utilizará para apoyar a aquellas entidades cuya participación total en los Fondos General y de Fomento Municipal a que se refieren los artículos 2o. y 2o-A, fracción III, inciso a) de esta Ley, no alcance el crecimiento experimentado por la recaudación federal participable del año respecto a la de 1990. La reserva se distribuirá para garantizar un crecimiento en las participaciones igual a la de la recaudación federal participable.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -184,7 +210,7 @@ De la reserva a que se refiere el primer párrafo de este artículo, los Estados
 
 > <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-Adicionalmente, se crea una reserva de compensación para las entidades federativas que sean afectadas por el cambio en la fórmula de participaciones. Esta reserva se formará con el remanente del 1% de la recaudación federal participable, a la que hace referencia el párrafo siguiente a la fracción III del artículo 2o., así como con el que se deriva de la parte del Fondo de Fomento Municipal, a que se refiere el artículo 2o-A, fracción III, inciso a), subinciso 2, e inciso b) de esta Ley.
+Adicionalmente, se crea una reserva de compensación para las entidades federativas que sean afectadas por el cambio en la fórmula de participaciones. Esta reserva se formará (sic) con el remanente del 1% de la recaudación federal participable, a la que hace referencia el párrafo siguiente a la fracción III del artículo 2o. así como con el que se deriva de la parte del Fondo de Fomento Municipal, a que se refiere el artículo 2o-A, fracción III, inciso a), subinciso 2, e inciso b) de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -214,11 +240,11 @@ Los municipios recibirán como mínimo el 20% del incentivo que corresponda al E
 
 Las participaciones serán cubiertas en efectivo, no en obra, sin condicionamiento alguno y no podrán ser objeto de deducciones, salvo lo dispuesto en el artículo 9o. de esta Ley. Los Gobiernos de los Estados publicarán, cuando menos una vez al año, en el Diario Oficial de la entidad, y en uno de los periódicos de mayor circulación de la misma, las participaciones que correspondan, durante un año, a cada uno de sus Municipios.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 7o.
 
-El Fondo General de Participaciones se determinará por cada ejercicio fiscal de la Federación, la cual en forma provisional hará un cálculo mensual considerando la recaudación federal participable obtenida en el mes inmediato anterior. En igual forma se procederá con el Fondo de Fomento Municipal.
+El Fondo General de Participaciones se determinará por cada ejercicio fiscal de la Federación, la cual en forma provisional hará un cálculo mensual considerando la recaudación federal participable obtenida en el mes inmediato anterior. En igual forma se procederá con las participaciones a que se refieren las fracciones I y III, incisos a) y b), del artículo 2o-A de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -232,9 +258,9 @@ Cada cuatro meses la Federación realizará un ajuste de las participaciones, ef
 
 A más tardar dentro de los cinco meses siguientes al cierre de cada ejercicio fiscal, ésta determinará las participaciones que correspondan a la recaudación obtenida en el ejercicio, aplicará las cantidades que hubiera afectado provisionalmente a los Fondos y formulará de inmediato las liquidaciones que procedan.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
-Durante los primeros meses de cada ejercicio, las participaciones en el Fondo General a que se refiere la fracción II del artículo 2o. y en el Fondo de Fomento Municipal que establece la fracción III del artículo 2o-A de esta Ley, se calcularán provisionalmente con los coeficientes del ejercicio inmediato anterior, en tanto se cuente con la información necesaria para calcular los nuevos coeficientes.
+Durante los primeros meses de cada ejercicio, las participaciones en el Fondo General de Participaciones a que se refiere la fracción II del artículo 2o., así como las que se establecen en las fracciones I y III, incisos a) y b), del artículo 2o-A de esta Ley, se calcularán provisionalmente con los coeficientes del ejercicio inmediato anterior, en tanto se cuente con la información necesaria para calcular los nuevos coeficientes.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -932,6 +958,20 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 
 PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
 
+D.O.F. 29 DE DICIEMBRE DE 1993.
+
+DISPOSICION DE VIGENCIA ANUAL DE LA LEY DE COORDINACION FISCAL
+
+###### ARTICULO DECIMO.
+
+Durante el año de 1994, la distribución entre los municipios a que se refiere la fracción I del artículo 2o-A de la Ley de Coordinación Fiscal de las participaciones mencionadas en dicha fracción, se hará utilizando el procedimiento señalado en este artículo, en lugar de la fórmula a que se refiere el tercer párrafo de dicha fracción.
+
+La distribución de las citadas participaciones se determinarán para cada municipio colindante con la frontera o los litorales por los que se realicen materialmente la entrada al país o la salida de él de los bienes que se importen o exporten, conforme al porcentaje que representen las participaciones federales recibidas en 1993 por concepto del 95% del 2.8% de los impuestos generales de importación y 2% adicional sobre el impuesto general de exportación, a que se refiere el artículo 2o-A, fracción I de la Ley de Coordinación Fiscal vigente hasta el 31 de diciembre de 1993, en el total de las participaciones que la Federación haya canalizado a los municipios por dichos conceptos durante 1993.
+
+El porcentaje que resulte para cada municipio conforme al párrafo anterior, será el coeficiente de participación que se le aplicará para el año de 1994.
+
+Los municipios colindantes con la frontera o con litorales, podrán recibir las participaciones a que se refiere este artículo, siempre que la entidad federativa de que se trate celebre convenio con la Federación en materia de vigilancia y control de introducción ilegal al territorio nacional de mercancías de procedencia extranjera y en dichos convenios se establezcan descuentos en las participaciones a que se refiere el párrafo segundo de este artículo, en los casos en que se detecten mercancías de procedencia extranjera respecto de las cuales no se acredite su legal estancia en el país.
+
 ## TRANSITORIO
 
 ## TRANSITORIO
@@ -947,3 +987,7 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publica
 D.O.F. 3 DICIEMBRE DE 1993.
 
 DISPOSICION TRANSITORIA
+
+## TRANSITORIO
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1994.
