@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "1994-12-19"
+last_updated: "1995-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -514,6 +514,10 @@ Están obligados al pago del impuesto sobre adquisición de inmuebles establecid
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
 
 El valor del inmueble podrá ser el valor de adquisición del mismo disminuido con el valor que se tomó como base para calcular el impuesto a que se refiere este capítulo en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 1995)</small>
+
+Cuando el adquirente de un bien inmueble no se encuentre en el supuesto a que se refiere el párrafo anterior, al valor del Inmueble se le podrá reducir cinco veces el salario mínimo general vigente elevado al año de la zona económica a que corresponda la ubicación del inmueble. Al valor obtenido se le aplicará la tasa determinada para el cálculo de este gravamen.
 
 #### SECCION SEXTA. DE LAS OBLIGACIONES
 
@@ -1730,3 +1734,13 @@ P.O. 19 DE DICIEMBRE DE 1994.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día primero de enero de mil novecientos noventa y cinco.
+
+P.O. 11 DE MARZO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
