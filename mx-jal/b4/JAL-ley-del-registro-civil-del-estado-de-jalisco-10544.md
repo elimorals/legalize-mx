@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "1999-06-15"
+last_updated: "1999-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 17895, PUBLICADO EN EL P.O. DE 15 DE JUNIO DE 1999, SE ADICIONA EL CAPÍTULO XV DENOMINADO “DE LAS CERTIFICACIONES”, EL QUE COMPRENDE LOS ARTÍCULOS 120 Y 121, RECORRIÉNDOSE LOS DEMÁS CAPÍTULOS Y ARTÍCULOS EN SU NÚMERO Y ORDEN.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1999.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -361,13 +359,13 @@ Los apéndices estarán constituidos por todos los documentos relativos al acta 
 
 La declaración de nacimiento se hará por el padre, por la madre o ambos, o persona distinta, en los (sic) caso previsto por la ley, dentro de los ciento ochenta días siguientes a éste. El infante deberá ser presentado ante el Oficial del Registro Civil y en los casos que circunstancialmente sea necesario, éste acudirá al lugar en que se encuentre el infante.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+
 ###### Artículo 41.
 
-Los profesionales de la medicina, los paramédicos, y las parteras que hubieren asistido el parto, tienen obligación bajo su responsabilidad, de extender constancia del nacimiento del infante, anotando el nombre de la madre; día, hora y lugar de nacimiento; sexo, peso y demás características que pudieren servir de identificación.
+Los profesionales de la medicina, paramédicos o parteras que hubieren asistido el alumbramiento, deberán extender dentro de los seis días siguientes y en forma gratuita, constancia única de nacimiento expedida y autorizada por la Secretaría de Salud y Bienestar Social del Estado, anotando el nombre y huella digital de la madre, número de orden que ocupa ese parto; así como huella digital, día, hora y lugar de nacimiento, sexo, peso y demás características de los recién nacidos, que pudieran servir de identificación.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
-
-Cuando no se dio asistencia al parto, para registrar el nacimiento se requiere: información rendida y apoyada en dos testigos vecinos de la madre que declaren la certeza de la gravidez y la fecha de nacimiento y se hará, ya sea ante el oficial del Registro Civil, presidente municipal, delegado o agente municipal; servidor público responsable del Sistema para el Desarrollo Integral de la Familia en la localidad o del Ministro Público, quienes tendrán la obligación de cerciorarse respecto de la veracidad de la información ante ellos vertida.
+Cuando no se de asistencia profesional durante el parto, para registrar el nacimiento se requiere, información rendida y apoyada por dos testigos vecinos o conocidos de la madre que sepan y les conste la gravidez y fecha de nacimiento, cuya declaración se efectuará ante el Oficial del Registro Civil, Presidente Municipal, Servidor Público responsable del Sistema para el Desarrollo Integral de la Familia en la localidad o del Ministerio Público, quienes tendrán la obligación de cerciorarse de la veracidad de la información ante ellos vertida.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
@@ -919,7 +917,7 @@ g) De las actas de inscripción de sentencia de tutela, emancipación, ausencia,
 
 (REUBICADO CON LOS ARTICULOS QUE LO INTEGRAN [N. DE E. ANTES CAPITULO XV], P.O. 15 DE JUNIO DE 1999)
 
-### CAPITULO XVI. De la nulificación, rectificación, aclaración y testadura de las actas del Registro Civil
+### CAPITULO XVI. De la nulificación, rectificación, aclaración y testadura de las actas del registro civil
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
@@ -1164,3 +1162,7 @@ PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en
 SEGUNDO.- La Dirección General del Registro Civil promoverá la suscripción de los convenios a que hace referencia el artículo 13 de esta Ley, para la promoción del uso oficial y aceptación de las certificaciones en extracto de las actas del Registro Civil.
 
 TERCERO.- Los extractos certificados de las actas de divorcio administrativo contendrán, además de los señalados en el inciso e) de la fracción VII del artículo 121, la expresión de que se hubiere tratado, de divorcio administrativo.
+
+P.O. 8 DE JULIO DE 1999.
+
+ÚNICO.- Este entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
