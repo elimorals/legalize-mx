@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "1996-09-19"
+last_updated: "1997-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE SEPTIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ABRIL DE 1997.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -53,59 +53,63 @@ El Secretario será asistido en sus funciones por un Prosecretario, quien ademá
 
 Las actas de las sesiones de la Junta, se levantarán y conservarán en los términos acordados por ésta, serán firmadas por los miembros asistentes y por el Secretario, debiéndose conservar un ejemplar de los documentos que hubieran sido relacionados en la sesión correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ABRIL DE 1997)</small>
 
 ###### ARTICULO 4o.
 
 Para el desempeño de las funciones encomendadas por la Ley, el Gobernador contará con las unidades siguientes:
 
-Dirección General de Operaciones de Banca Central.
+Dirección General de Operaciones de Banca Central
 
-Dirección General de Investigación Económica.
+Dirección General de Investigación Económica
 
-Dirección General de Análisis del Sistema Financiero.
+Dirección General de Análisis del Sistema Financiero
 
-Dirección General de Administración Interna.
+Dirección General del Fondo Bancario de Protección al Ahorro y del Fondo de Apoyo al Mercado de Valores
 
-Dirección de Emisión.
+Dirección General de Administración Interna
 
-Dirección de Disposiciones de Banca Central.
+Dirección de Emisión
 
-Dirección de Organismos y Acuerdos Internacionales.
+Dirección de Disposiciones de Banca Central
 
-Dirección de Supervisión de Fideicomisos de Fomento.
+Dirección de Organismos y Acuerdos Internacionales
 
-Dirección de Operaciones.
+Dirección de Supervisión de Fideicomisos de Fomento
 
-Dirección de Sistemas Operativos de Banca Central.
+Dirección de Operaciones
 
-Dirección de Trámite Operativo.
+Dirección de Sistemas Operativos de Banca Central
+
+Dirección de Trámite Operativo
 
 Dirección de Estudios Económicos
 
-Dirección de Medición Económica.
+Dirección de Medición Económica
 
-Dirección de Análisis Macroeconómico.
+Dirección de Análisis Macroeconómico
 
 Dirección de Información Económica
 
-Dirección de Intermediarios Financieros.
+Dirección de Intermediarios Financieros
 
-Dirección de Administración.
+Dirección Jurídica de los Fondos de Apoyo a la Banca y al Mercado de Valores
 
-Dirección de Contraloría.
+Dirección de Administración
 
-Dirección Jurídica.
+Dirección de Contraloría
 
-Dirección de Sistemas.
+Dirección Jurídica
+
+Dirección de Sistemas
 
 > <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 1996)</small>
 
 Las Direcciones Generales tendrán adscritas las Direcciones que señala el presente Reglamento. Las Direcciones de Emisión, Disposiciones de Banca Central, Organismos y Acuerdos Internacionales, así como de Supervisión de Fideicomisos de Fomento, dependerán del Gobernador.
 
-> <small>(REFORMADO, D.O.F. 28 DE MARZO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1997)</small>
 
-A cargo de las Direcciones estará un Director, quien se auxiliará en el cumplimiento de sus funciones del Tesorero, los Coordinadores, Gerentes, Subgerentes, Superintendentes, Jefes de División, de Departamento, de Oficina, Intendentes, y por los demás empleados, previstos en la estructura correspondiente.
+A cargo de las Direcciones estará un Director, quien se auxiliará en el cumplimiento de sus funciones del Tesorero, Gerentes, Subgerentes, Superintendentes, Jefes de División, de Departamento, de Oficina, Intendentes, y por los demás empleados, previstos en la estructura correspondiente.
 
 El Gobernador, además, se auxiliará en el ejercicio de sus funciones por una Gerencia de Comunicación Social y una Oficina de Relaciones Públicas.
 
@@ -137,9 +141,9 @@ La atribución aquí concedida incluye las facultades necesarias para la suscrip
 
 Tratándose de disposiciones, autorizaciones, opiniones y sanciones, que conforme a la Ley corresponda emitir al Banco, por su propio derecho o como fiduciario y respecto a consultas en materia de banca central, los documentos relativos deberán ser firmados por un funcionario de la Dirección de Disposiciones de Banca Central, junto con un funcionario de la Dirección que, conforme a este Reglamento, sea competente para atender y resolver el asunto de que se trate. Lo anterior con excepción de los asuntos sobre fabricación, distribución, canje, entrega, retiro, reproducción y destrucción de billetes y monedas metálicas, los cuales deberán estar suscritos conjuntamente por un funcionario de la Dirección de Emisión y uno de la Dirección Jurídica.
 
-> <small>(REFORMADO, D.O.F. 28 DE MARZO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1997)</small>
 
-Para la expedición de disposiciones y la imposición de sanciones, los funcionarios a que se refiere el párrafo anterior deberán ocupar puestos de Tesorero, Coordinador, Gerente o superior, o bien alguno de rango equivalente.
+Para la expedición de disposiciones y la imposición de sanciones, los funcionarios a que se refiere el párrafo anterior, deberán ocupar puestos de Tesorero, Gerente o superior, o bien alguno de rango equivalente.
 
 El acuerdo de adscripción de unidades administrativas deberá ser suscrito por el Gobernador y, en sus ausencias, por el Director General de Administración Interna.
 
@@ -167,7 +171,7 @@ La Dirección General de Operaciones de Banca Central tendrá las atribuciones q
 
 A esta Dirección General estarán adscritas la Dirección de Operaciones, la de Sistemas Operativos de Banca Central y la de Trámite Operativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE MARZO DE 1996)</small>
 
 ###### ARTICULO 13.
 
@@ -177,13 +181,25 @@ La Dirección General de Investigación Económica tendrá las atribuciones señ
 
 A esta Dirección General estarán adscritas las Direcciones de Estudios Económicos, Medición Económica, Análisis Macroeconómico e Información Económica.
 
-> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1997)</small>
 
 ###### ARTICULO 14.
 
-La Dirección General de Análisis del Sistema Financiero tendrá las atribuciones señaladas en el artículo 25, así como las relativas al desempeño en los fideicomisos Fondo Bancario de Protección al Ahorro y Fondo de Apoyo al Mercado de Valores.
+La Dirección General de Análisis del Sistema Financiero tendrá las atribuciones señaladas en el artículo 25 y tendrá adscrita la Dirección de Intermediarios Financieros.
 
-A esta Dirección General estarán adscritas la Dirección de Intermediarios Financieros.
+> <small>(ADICIONADO, D.O.F. 7 DE ABRIL DE 1997)</small>
+
+ARTICULO 14 BIS.- La Dirección General del Fondo Bancario de Protección al Ahorro y del Fondo de Apoyo al Mercado de Valores tendrá las atribuciones siguientes:
+
+I. Desempeñar las funciones encomendadas al Banco de México relativas al Fondo Bancario de Protección al Ahorro y al Fondo de Apoyo al Mercado de Valores, así como realizar todos los actos que correspondan al propio Banco para el ejercicio de tales funciones;
+
+II. Expedir, en su caso, las reglas de operación de los fondos señalados en la fracción I anterior;
+
+III. Formalizar los instrumentos en que se contengan las operaciones que realicen los fondos a que se refiere el presente artículo, y
+
+IV. Publicar información relativa a los fondos citados en la fracción I anterior, así como recabar información y datos de las instituciones de crédito y casas de bolsa, en términos de lo señalado en los artículos 122 y 89 de la Ley de Instituciones de Crédito y de la Ley del Mercado de Valores, respectivamente.
+
+Esta Dirección General tendrá adscrita la Dirección Jurídica de los Fondos de Apoyo a la Banca y al Mercado de Valores, la cual contará con las atribuciones relativas a la formalización de los actos y operaciones que realicen los referidos fondos. Las funciones de dicha Dirección Jurídica no incluirán las atribuciones que corresponden, en términos de este Reglamento a las Direcciones previstas en los artículos 17 y 28.
 
 ###### ARTICULO 15.
 
@@ -221,9 +237,13 @@ II. Resolver las solicitudes de autorización y las consultas que, de conformida
 
 III. Emitir la opinión que corresponda dar al Banco cuando la ley lo determine;
 
-IV. Expedir las reglas de operación y las disposiciones a las que deban de sujetarse los fideicomisos constituidos en el Banco por encomienda legal o bien aquéllos cuyos fines coadyuven al desempeño de sus funciones;
+> <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 1997)</small>
 
-V. Formalizar los instrumentos en que se contengan las operaciones que realicen los fideicomisos a que se refiere la fracción anterior;
+IV. Expedir las disposiciones relativas a los fideicomisos constituidos en el Banco por encomienda legal, o bien, aquéllos cuyos fines coadyuven al desempeño de sus funciones;
+
+> <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 1997)</small>
+
+V. Emitir las reglas de operación de los fideicomisos de Fomento Económico a que se refiere la fracción I del artículo 18 Bis, así como formalizar los instrumentos en que se contengan las operaciones que realicen los fideicomisos a que se refiere esta fracción;
 
 VI. Participar en los procedimientos de obtención de información y seguimiento de las operaciones realizadas por los intermediarios financieros; así como, en su caso, imponer a éstos las sanciones y medidas correctivas procedentes;
 
@@ -535,7 +555,7 @@ La Comisión de Responsabilidades realizará la investigación que proceda e int
 
 ### CAPITULO III. DE LA CONTABILIDAD Y DE LOS ESTADOS FINANCIEROS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ABRIL DE 1997)</small>
 
 ### CAPITULO IV. DEL RECURSO DE RECONSIDERACION Y DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
@@ -545,63 +565,65 @@ El balance general y los estados de cuenta consolidados mensuales del Banco, con
 
 En el Activo:
 
-Reserva Internacional.
+Reserva Internacional
 
-Activos Internacionales.
+Activos Internacionales
 
-Pasivos a Deducir.
+Pasivos a Deducir
 
-Crédito al Gobierno Federal.
+Crédito al Gobierno Federal
 
-Tenencia de Valores Gubernamentales.
+Valores Gubernamentales
 
-Crédito a Intermediarios Financieros.
+Crédito a Intermediarios Financieros y Deudores por Reporto
 
-Participaciones en Organismos Financieros Internacionales.
+Participaciones en Organismos Financieros Internacionales
 
-Inmuebles, Mobiliario y Equipo.
+Inmuebles, Mobiliario y Equipo
 
-Otros Activos.
+Otros Activos
 
 En el Pasivo:
 
-Fondo Monetario Internacional.
+Fondo Monetario Internacional
 
-Autoridades Financieras del Extranjero.
+Autoridades Financieras del Extranjero
 
-Base Monetaria.
+Base Monetaria
 
-Billetes y Monedas en Circulación.
+Billetes y Monedas en Circulación
 
-Depósitos Bancarios en Cuenta Corriente.
+Depósitos Bancarios en Cuenta Corriente
 
-Depósitos en Cuenta Corriente del Gobierno Federal.
+Depósitos en Cuenta Corriente del Gobierno Federal
 
-Otros Depósitos Bancarios.
+Otros Depósitos del Gobierno Federal
 
-Depósitos de Fondos de Apoyo a Intermediarios Financieros.
+Depósitos de Empresas y Organismos Públicos
 
-Otros Depósitos del Gobierno Federal.
+Depósitos de Regulación Monetaria
 
-Depósitos de Empresas y Organismos Públicos.
+Otros Depósitos Bancarios y Acreedores por Reporto
 
-Asignaciones de Derechos Especiales de Giro.
+Depósitos de Fondos de Apoyo a Intermediarios Financieros
 
-Otros Pasivos.
+Asignaciones de Derechos Especiales de Giro
+
+Otros Pasivos
 
 En el Capital Contable:
 
-Capital.
+Capital
 
-Reservas de Capital.
+Reservas de Capital
 
 > <small>(REFORMADO, D.O.F. 16 DE MARZO DE 1995)</small>
 
 Además se presentarán enseguida del capital contable, los rubros de Remanente de Operación del Ejercicio Anterior, en tanto éste no se haya entregado al Gobierno Federal y Cuentas de Resultados del Ejercicio en Curso. Al calce de dichos estados se hará constar el monto de las Cuentas de Orden.
 
-(REFORMADO, D.O.F. 3 DE ABRIL DE 1995) (F. DE E., D.O.F. 7 DE ABRIL DE 1995)
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1997)</small>
 
-El rubro de Reserva Internacional corresponderá a la definición que se contiene en el artículo 19 de la Ley. La tenencia de Valores Gubernamentales se presentará en neto después de descontar los depósitos de regulación monetaria, sin considerar en este rubro los valores obtenidos mediante reportos y los afectos a la reserva para pensiones del personal, y en caso de saldo acreedor, éste se ubicará en el rubro de Otros Pasivos. El Crédito a Intermediarios Financieros incluirá a la banca comercial, la banca de desarrollo, al Fondo Bancario de Protección al Ahorro, al Fondo de Apoyo al Mercado de Valores, a los fideicomisos de fomento y a los reportos con casas de bolsa. El rubro Otros Activos se presentará neto de las reservas complementarias de activo que, en su caso, existan. En los Depósitos Bancarios en Cuenta Corriente se consignará el saldo neto del conjunto de dichas cuentas, de ser acreedor; en caso de que el saldo neto sea deudor, se incluirá en el rubro de Crédito a Intermediarios Financieros.
+El rubro de Reserva Internacional corresponderá a la definición que se contiene en el artículo 19 de la Ley. En Valores Gubernamentales se presentará el neto de las tenencias de esos títulos después de descontar los depósitos de regulación monetaria, sin considerar en este rubro los valores adquiridos o transmitidos mediante reportos y los afectos a la reserva para cubrir obligaciones de carácter laboral, y en caso de saldo acreedor, éste se ubicará en el rubro Depósitos de Regulación Monetaria. El Crédito a Intermediarios Financieros y Deudores por Reporto incluirá a la banca comercial, la banca de desarrollo, al Fondo Bancario de Protección al Ahorro, al Fondo de Apoyo al Mercado de Valores, a los fideicomisos de fomento y a los reportos con casas de bolsa. El rubro Otros Activos se presentará neto de las reservas complementarias de activo que en su caso existan. En los Depósitos Bancarios en Cuenta corriente se consignará el saldo neto del conjunto de dichas cuentas, de ser acreedor; en caso de que el saldo neto sea deudor, se incluirá en el rubro de Crédito a Intermediarios Financieros.
 
 ###### ARTICULO 39.
 
@@ -738,3 +760,7 @@ UNICO.- Las presentes reformas y adición entrarán en vigor a partir de la fech
 D.O.F. 19 DE SEPTIEMBRE DE 1996.
 
 UNICO.- Las presentes reformas, derogación y adición entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE ABRIL DE 1997.
+
+UNICO.- Las presentes reformas y adición entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación, por lo que los Estados de Cuenta Consolidados mensuales relativos a enero y febrero de 1997, los cuales aún no se han publicado, deberán contener los rubros que se mencionan en el nuevo texto del artículo 38 reformado.
