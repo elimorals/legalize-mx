@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-notariado-del-estado-de-nayarit-11822"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-28"
-last_updated: "2000-12-13"
+last_updated: "2005-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY DEL NOTARIADO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2000.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL PERIODICO OFICIAL EL 29 DE ENERO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, Miércoles 28 de Enero de 1987.
 
@@ -1192,3 +1194,25 @@ P.O. 13 DE DICIEMBRE DE 2000
 ###### ARTÍCULO UNICO.
 
 El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 29 DE ENERO DE 2005.
+
+PRIMERO.- Esta ley entrará en vigor a los 30 días naturales siguientes a su publicación en el Periódico Oficial.
+
+SEGUNDO.- Se abroga la Ley del Notariado del Estado de Nayarit publicada en el Periódico Oficial, el 28 de enero de 1987 y sus específicas reformas correspondientes y se derogan las disposiciones que se opongan a esta ley.
+
+TERCERO.- Se respetarán los derechos adquiridos y todos los asuntos y trámites iniciados durante la vigencia de la Ley del Notariado que se abroga serán validos hasta la etapa procedimental y de gestión en que se encuentren a la entrada en vigor de esta ley, pero si ésta establece gestiones y procedimientos adicionales o diversos, se estará a lo que la misma señala y deberán cumplirse en sus términos.
+
+CUARTO.- Para fijar los montos y porcentajes que se apliquen a los cobros de honorarios por la función notarial en los casos concretos se establecerá, con las siguientes condiciones y procedimiento, un primer arancel que:
+
+I. Deberá ser formulado por el Colegio, mediante un proyecto, dentro del término de dos meses contados a partir de la entrada en vigor de esta Ley, en el cual hará estudios suficientes y razonables de carácter económico y actuarial para fijarlo, sujetando a lo dispuesto por el artículo 16. Aprobado el arancel por el Ejecutivo se publicará en el Periódico Oficial, debiendo comunicar esta a la Dirección;
+
+II. Tendrá que ser justo y proporcionado para la serie de servicios que se prestan, los solicitantes que los requieren y las funciones que desarrolle el Notario; deberá ser suficiente para garantizar la independencia, equilibrio y la adecuada y permanente prestación del servicio;
+
+III. En su regulación se deberán distinguir distintos supuestos, tomando en cuenta en forma especial los de servicio social y de atención a asuntos de orden público así como a grupos sociales vulnerables;
+
+IV. Contendrá previsiones respecto de la prestación organizada por el Colegio a solicitud de las autoridades correspondientes de campañas de regularización de la tenencia de la tierra y testamentos para las clases populares;
+
+V. Tomará en cuenta el servicio de asesoría específica de que se trate, así como la dificultad y riesgo del mismo;
+
+VI. Deberá cubrir los aspectos principales de la función notarial, determinando cuales servicios se encuentran fuera de arancel; esto nunca podrá aplicarse a los casos y supuestos a que se refieren las fracciones III y IV de este artículo.
