@@ -1,0 +1,960 @@
+---
+title: "REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE MORELOS"
+identifier: "MOR-reglamento-interior-del-tribunal-electoral-del-estado-de-18099"
+country: "mx"
+rank: "reglamento"
+publication_date: "2000-11-08"
+last_updated: "2000-11-08"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18099&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-mor"
+scjn_id: "18099"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "REGLAMENTO"
+original_gazette_section: "4086"
+reform_count: "7"
+scjn_last_update: "2014-01-15"
+issue_date: "2000-10-31"
+state: "MOR"
+---
+# REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE MORELOS
+
+REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE MORELOS
+
+TEXTO ORIGINAL.
+
+Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 8 de noviembre de 2000.
+
+Al margen izquierdo un escudo del Estado de Morelos que dice.- "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.- Tribunal Electoral del Estado de Morelos.
+
+REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE MORELOS
+
+## TÍTULO ÚNICO. DE LA ORGANIZACIÓN ADMINISTRATIVA DEL TRIBUNAL
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+###### ARTÍCULO 1.
+
+Este reglamento tiene por objeto regular la organización y el funcionamiento del Tribunal Estatal Electoral en el ámbito de su competencia.
+
+###### ARTÍCULO 2.
+
+Para los efectos de este reglamento, se entenderá:
+
+I. Por lo que se refiere a los ordenamientos jurídicos:
+
+a) Carta Magna.- La Constitución Política de los Estados Unidos Mexicanos;
+
+b) Constitución.- La Constitución Política del Estado Libre y Soberano de Morelos;
+
+c) Código.- El Código Electoral para el Estado de Morelos; y
+
+d) Reglamento.- El Reglamento Interior del Tribunal Estatal Electoral.
+
+II. En cuanto a las Autoridades y Órganos Electorales:
+
+a) Congreso.- Al Congreso del Estado;
+
+b) Instituto.- Al Instituto Estatal Electoral;
+
+c) Consejo.- Al Consejo Estatal Electoral del Instituto Estatal Electoral;
+
+d) Tribunal.- Al Tribunal Estatal Electoral; y
+
+e) Magistrado(s).- El o los Magistrados del Tribunal Estatal Electoral;
+
+f) Consejo de la Judicatura.- Al Consejo de la Judicatura del Poder Judicial del Estado de Morelos;
+
+g) Director Administrativo.- Al Director Administrativo del Tribunal Electoral del Estado de Morelos;
+
+h) Estado.- Al Estado de Morelos;
+
+i) Diputación Permanente.- A la Diputación Permanente del Congreso del Estado de Morelos;
+
+j) Gobierno.- Al Gobierno del Estado de Morelos;
+
+k) Notificadore(s) (sic).- Al o los Notificadore(s) (sic) del tribunal Electoral del Estado de Morelos;
+
+l) Pleno del Tribunal.- Al Pleno del Tribunal Electoral del Estado de Morelos;
+
+m) Presidente.- Al Presidente del Tribunal Electoral del Estado de Morelos;
+
+n) Secretaría General.- La Secretaría General del Tribunal Electoral del Estado de Morelos;
+
+o) Secretario (s) Instructor (es).- Al o los Secretario (s) Instructor (es) del Tribunal Electoral del Estado de Morelos;
+
+p) Secretario (s) Proyectista (s).- Al o los Secretario (s) Proyectista (s) del Tribunal Electoral del Estado de Morelos; y
+
+###### ARTÍCULO 3.
+
+El Tribunal, es el órgano público autónomo, que en términos de la Constitución constituye la máxima autoridad jurisdiccional en materia Electoral y órgano especializado del Poder Judicial del Estado, con residencia en la capital de esta Entidad Federativa.
+
+###### ARTÍCULO 4.
+
+El Tribunal se rige por las disposiciones contenidas en la Carta Magna, Constitución Local, el Código, el presente Reglamento y demás ordenamientos jurídicos aplicables.
+
+###### ARTÍCULO 5.
+
+Los asuntos relacionados con la organización y funcionamiento interior del Tribunal, que no estén expresamente reservados a alguna otra autoridad por las normas jurídicas aplicables, serán resueltos por el Pleno de dicho Tribunal, a instancia de cualquier Magistrado.
+
+### CAPÍTULO II. DE SU INSTALACIÓN E INTEGRACIÓN
+
+###### ARTÍCULO 6.
+
+El Tribunal se integrará con tres Magistrados Propietarios y tres Suplentes, electos por el voto de las dos terceras partes de los Diputados integrantes del Congreso, de la propuesta que haga ante dicho cuerpo legislativo la Comisión Calificadora, de conformidad con lo dispuesto en la Constitución.
+
+Los Magistrados electos rendirán protesta el día y la hora que el Congreso señale.
+
+El Congreso podrá designar o en su caso ratificar, a los Magistrados Propietarios y Suplentes, a más tardar cinco días previos al en que concluya el encargo de los mismos.
+
+En la primera sesión del Pleno, el Tribunal elegirá entre sus miembros al que fungirá como Presidente; acto seguido a propuesta del Magistrado Presidente electo, el Pleno designará al Secretario General.
+
+La integración del Pleno, elección del Presidente y Secretario General del Tribunal, se hará constar en acta correspondiente y en la cual se asentarán las firmas de los Magistrados, así como la del Secretario General quien dará fe y autorizará con su firma el acto.
+
+###### ARTÍCULO 7.
+
+Los Magistrados comunicarán los cambios de su domicilio particular, al tribunal, durante el desempeño de su cargo.
+
+###### ARTÍCULO 8.
+
+Durante el proceso electoral ordinario, el Tribunal se instalará e iniciará sus funciones, dentro de la primera semana del sexto mes previo al que corresponda al mes de la elección y concluirá sus actividades del proceso electoral correspondiente, con la resolución de todos los recursos que se hayan interpuesto.
+
+En tiempo no electoral el Tribunal se instalará conforme lo determine este Reglamento.
+
+###### ARTÍCULO 9.
+
+Declarada legalmente la instalación del Tribunal, se comunicará señalando el domicilio correspondiente, a los Órganos Electorales Federales y Locales, a los Poderes Locales Ejecutivo, Legislativo y Judicial, a los Partidos Políticos con registro en la Entidad y a la Ciudadanía en general, a través de los medios oficiales y de comunicación pertinentes.
+
+###### ARTÍCULO 10.
+
+Durante el proceso electoral en que ejerzan sus funciones los Magistrados Electorales, en ningún caso, podrán desempeñar cargo o empleo de la Federación, del Estado, de los Municipios o de particulares, excepto las actividades docentes, científicas, culturales, de investigación o de beneficencia; siempre y cuando no les impidan el expedito ejercicio de sus funciones. La infracción a esta disposición será sancionada con la pérdida del cargo, salvo en aquellos casos en que deba integrarse el Tribunal para resolver recursos fuera del proceso electoral.
+
+Los Magistrados del Tribunal no son recusables, pero deberán excusarse de conocer de algún asunto en el que tengan interés personal, por relaciones de parentesco, negocios, amistad o enemistad, que pueda afectar su imparcialidad.
+
+### CAPÍTULO III. DE SU ORGANIZACIÓN Y FUNCIONAMIENTO DEL PLENO
+
+###### ARTÍCULO 11.
+
+El Tribunal funcionará siempre en Pleno y sus resoluciones se acordarán por mayoría o unanimidad de votos.
+
+###### ARTÍCULO 12.
+
+Corresponde al pleno del Tribunal las atribuciones a que se refiere el artículo 215 del Código.
+
+###### ARTÍCULO 13.
+
+Las sesiones del Pleno del Tribunal serán públicas y privadas y se ajustarán a lo establecido en la Convocatoria respectiva, la cual se publicará en los estrados del propio Tribunal cuando menos veinticuatro horas antes de la fecha indicada para el Pleno.
+
+Serán públicas las sesiones del Pleno, cuando se traten de asuntos que guarden relación con el interés público y serán privadas cuando traten de asuntos administrativos del Tribunal.
+
+Las sesiones del Pleno durarán el tiempo que sean (sic) necesario para lograr los acuerdos correspondientes.
+
+###### ARTÍCULO 14.
+
+Al celebrarse las sesiones públicas del Pleno, el Presidente declarará abierta la sesión y a continuación el Secretario General dará lectura a la orden del día, que contendrá los asuntos listados en la convocatoria correspondiente, aprobados que sean, se dará inicio al análisis y discusión correspondiente para la toma de decisiones o acuerdos del caso, procediéndose a levantar el acta respectiva, misma que se firmará por los que en ella intervinieron.
+
+Para las sesiones públicas y privadas del Pleno, el Secretario General recabará de los Magistrados los asuntos que a su juicio deban ventilarse en la sesión para la que se convoque, pudiendo ser ampliada la orden del día al inicio de la sesión con los asuntos que incluyan a última hora los Magistrados.
+
+Iniciada la sesión del Pleno, ésta podrá entrar en receso por acuerdo de éste, pudiendo continuarse el mismo día o en fecha distinta, sin que pueda excederse de 48 horas.
+
+###### ARTÍCULO 15.
+
+En las sesiones del Pleno los Magistrados harán uso de la palabra solicitándosela al Magistrado Presidente sin que pueda ser interrumpido mientras este haciendo uso de la misma.
+
+###### ARTÍCULO 16.
+
+Cuando en las sesiones públicas los asistentes perturben el orden impidiendo el normal desarrollo de las mismas, el Presidente les solicitará que se retiren o bien acordará que se continúe la sesión en privado.
+
+###### ARTÍCULO 17.
+
+El acta de sesión contendrá: lugar y fecha, nombre de los Magistrados que asistan, así como del que preside; lo manifestado por los Magistrados que hayan hecho uso de la palabra, votando en pro o en contra de un asunto, concretando lo que hayan expuesto, el texto de los acuerdos firmados, y cerrará el acta el Secretario General dando fe de lo asentado en el libro correspondiente.
+
+###### ARTÍCULO 18.
+
+Las sesiones del Pleno se realizaran cuantas veces sea necesario para la atención expedita de los asuntos a su cargo, en términos del artículo 13 de este Reglamento.
+
+###### ARTÍCULO 19.
+
+Las votaciones en Sesión de Pleno podrán ser emitidas de la siguiente forma:
+
+I. Nominal abierta, con cualquier expresión oral o corporal que evidencie el sentido positivo o negativo de su pronunciamiento.
+
+II. Secreta por cédula bajo el siguiente procedimiento.
+
+El pleno tomará la decisión de votar secretamente y cada Magistrado depositará su cédula en una ánfora que se coloca en la mesa, concluida la votación, el Secretario General procederá a sacar las cédulas una a una y dará lectura en voz alta de su contenido, las que entregará al Magistrado Presidente, quien una vez hecho el cómputo declarará el resultado de dicha votación. En el supuesto de encontrarse alguna cédula en blanco, ésta se tomará como voto en contra, señalándose como tal en el acta en que conste el resultado de la votación.
+
+DEL PRESIDENTE DEL TRIBUNAL
+
+###### ARTÍCULO 20.
+
+Corresponde al Presidente del Tribunal las siguientes atribuciones:
+
+I. Las contenidas en el artículo 218 del Código;
+
+II. La designación del personal técnico profesional y administrativo que considere necesario el Pleno y permita el presupuesto para el desempeño de las funciones del Tribunal;
+
+III. Remitir los expedientes electorales y documentación oficial al Archivo General del Gobierno del Estado; y
+
+IV. Aplicar las medidas de apremio y disciplinarias que refiere este Reglamento.
+
+DE LOS MAGISTRADOS
+
+###### ARTÍCULO 21.
+
+Son atribuciones de los Magistrados propietarios las que señala el artículo 220 del Código.
+
+###### ARTÍCULO 22.
+
+Cuando se presente la hipótesis prevista en el segundo párrafo del artículo 212 del Código, el Pleno citará al Magistrado suplente que corresponda, para que se avoque al conocimiento del asunto motivo de la excusa.
+
+DEL SECRETARIO GENERAL
+
+###### ARTÍCULO 23.
+
+El Secretario General del Tribunal tendrá como atribuciones las siguientes:
+
+I. Las contenidas en el artículo 221 del Código;
+
+II. Cuidar que los tocas se encuentren debidamente requisitados y vigilar de manera especial que se hagan a los respectivos expedientes las modificaciones y anotaciones que procedan, así como los cómputos de los términos que correspondan a los Secretarios Instructores;
+
+III. Supervisar el funcionamiento del archivo del Pleno, así como su concentración y disponibilidad para su consulta;
+
+IV. Llevar el registro de las substituciones de los Magistrados del Pleno;
+
+V. Auxiliar a los Notificadores, en el desempeño de sus funciones;
+
+VI. Dictar los acuerdos que a sus funciones corresponda;
+
+VII. Auxiliar al Presidente en el despacho de la correspondencia del Tribunal;
+
+VIII. Formar expediente por cada uno de los asuntos económicos o administrativos que así lo requieran;
+
+IX. Comunicar oficialmente los acuerdos administrativos que ordene el Pleno del Tribunal;
+
+X. Preparar la sesión del Pleno oportunamente incluyendo los asuntos de la orden del día, cuando la sesión sea Pública, solo listará los asuntos cuyos proyectos de resolución le sean entregados con setenta y dos horas de anticipación a la fecha acordada para la celebración del pleno.
+
+XI. Proporcionar a los Magistrados los datos e informes que le pidan para el despacho de los asuntos del Tribunal;
+
+XII. Cuando en la sesión del Pleno, la votación sea secreta, se estará en lo dispuesto en el Artículo 19 de este Reglamento;
+
+XIII. El Secretario General proveerá con toda oportunidad llevar los registros de los libros mencionados en el artículo siguiente.
+
+XIV. Obrarán en poder del Secretario General los legajos de la correspondencia y exhortos, telegramas y telefonemas, facturas de correspondencia y circulares del Tribunal o que el Magistrado Presidente del mismo emita;
+
+XV. El resguardo de la documentación mencionada en las fracciones III y IV de este artículo, estarán bajo la custodia del Secretario General bajo su más estricta responsabilidad y el extravío, perdida o robo de las documentales en comento, deberá ser hecha del conocimiento del Magistrado Presidente en forma inmediata y denunciar los hechos en caso de darse la hipótesis de la existencia de hechos delictuosos;
+
+XVI. El Secretario General ejercerá especial vigilancia para que la correspondencia sea despachada con la debida oportunidad mediante los manuales de organización que establezca, en el que detallará la fecha, dirección, número de cada pieza; así como ser depositada en la oficina de correos y amparada con la correspondiente factura, cuidando los expedientes y demás piezas que tengan especial importancia y se les de el carácter de correspondencia registrada; y
+
+XVII. Las demás que le señala la Constitución, el Código y este Reglamento.
+
+###### ARTÍCULO 24.
+
+En la Secretaría General se llevarán los siguientes libros:
+
+I. De Gobierno;
+
+II. De actas de Sesiones Públicas y Privadas;
+
+III. De promociones y oficios que ingresen al Tribunal.
+
+###### ARTÍCULO 25.
+
+En caso de ausencia temporal no mayor a dos días del Secretario General, sus funciones podrá cubrirlas el Secretario Instructor que designe el Presidente y en caso de ausencias por mayor tiempo el Pleno a propuesta del Presidente tomará la decisión que corresponda.
+
+###### ARTÍCULO 26.
+
+Cuando haya cambio de Secretario General se dará a conocer del mismo a los Poderes Ejecutivo, Legislativo y Judicial, así como al Instituto.
+
+###### ARTÍCULO 27.
+
+La Secretaría General formará un expediente por cada servidor público electoral con la siguiente documentación, según el caso: acta de nacimiento, CURP, título profesional y cédula, constancia de estudios correspondientes, Credencial de Elector, licencia para conducir vehículos, copia del nombramiento, licencias que se le concedan, acuerdos sobre sus remociones, quejas en su contra y todos los demás que se relacionen con el desempeño de su cargo.
+
+DE LOS SECRETARIOS INSTRUCTORES, DE LOS SECRETARIOS PROYECTISTAS Y DE LOS NOTIFICADORES
+
+###### ARTÍCULO 28.
+
+Los Secretarios Instructores y los Secretarios Proyectistas, deberán ser Ciudadanos preferentemente Morelenses, con Título de Licenciado en Derecho legalmente registrado y Cédula Profesional en Pleno ejercicio de sus derechos civiles y políticos.
+
+Los Notificadores deberán reunir los mismos requisitos que los Secretarios Instructores y Proyectistas, a excepción del relativo al Título Profesional, pudiendo ser pasantes de la carrera de Licenciado en Derecho.
+
+###### ARTÍCULO 29.
+
+Son atribuciones de los Secretarios Instructores los que establece el Artículo 222 del Código Electoral, y las siguientes:
+
+I. Dar cuenta a los Magistrados Ponentes de los recursos y la correspondencia que les turne la Oficialía de Partes del Tribunal;
+
+II. Dictar los acuerdos que correspondan, los cuales deberán contener para su validez las firmas de los Magistrados de las ponencias, del Secretario Instructor y Secretario General del Tribunal;
+
+III. Desahogar las diligencias durante la sustanciación de los recursos y supervisar que se hagan en tiempo y forma las notificaciones correspondientes;
+
+IV. Cuidar que sean debidamente foliadas y selladas las fojas de los expedientes a su cargo;
+
+V. Asentar en los expedientes las razones y certificaciones que corresponda;
+
+VI. Desempeñar las tareas que les encomienden el Presidente, los Magistrados o el Secretario General, en el ámbito de su respectiva competencia; y
+
+VII. Las demás que le señale la Constitución, el Código y este Reglamento.
+
+###### ARTÍCULO 30.
+
+Los Secretarios Proyectistas tendrán las atribuciones que le confiere el Artículo 223 del Código y las siguientes:
+
+I. Desempeñar las funciones que les encomienden el Presidente, los Magistrados o el Secretario General en el ámbito de su respectiva competencia;
+
+II. Las demás que le señale la Constitución, el Código y este Reglamento.
+
+###### ARTÍCULO 31.
+
+Los Notificadores tendrán las siguientes atribuciones:
+
+I. Tener fe pública; respecto de las diligencias y notificaciones que practiquen en los expedientes que les hayan turnado;
+
+II. Notificar los acuerdos y resoluciones recaídos en los expedientes, que para tal efecto le sean turnados;
+
+III. Llevar un registro diario de los expedientes o actuaciones que se le entreguen, debiendo recibirlos con su firma y devolverlos inmediatamente después de que notifique;
+
+IV. Dar cuenta al Secretario General o al Secretario Instructor correspondiente, de los pormenores que se presenten en las diligencias;
+
+V. Practicar las diligencias y notificaciones correspondientes en los lugares designados por las partes y que obren en autos;
+
+VI. Llevar a cabo diligencias de su competencia fuera del Tribunal cuando se hubiere acordado;
+
+VII. Asentar en el expediente las razones que procedan respecto a las notificaciones que realice;
+
+VIII. Solicitar auxilio de la fuerza pública;
+
+IX. Las encomendadas por el Presidente, los Magistrados o el Secretario General en el ámbito de su respectiva competencia;
+
+X. Las demás que le señale el Código y este reglamento.
+
+DE LAS ÁREAS DEL PERSONAL TÉCNICO Y ADMINISTRATIVO
+
+###### ARTÍCULO 32.
+
+La designación de los notificadores y del personal técnico profesional y administrativo que sea necesario para el funcionamiento del Tribunal correrá a cargo del Magistrado Presidente conforme al catálogo de puestos, plazas y salarios, de conformidad al presupuesto aprobado.
+
+DE LA OFICIALÍA DE PARTES
+
+###### ARTÍCULO 33.
+
+El Tribunal contará con una Oficialía de Partes que dependerá de la Secretaría General y el personal necesario para el cumplimiento de sus funciones.
+
+###### ARTÍCULO 34.
+
+El titular de la Oficialía de Partes deberá reunir los mismos requisitos que se señalan para ser titular del archivo.
+
+###### ARTÍCULO 35.
+
+El titular de la Oficialía de Partes tendrá las actividades siguientes:
+
+I. Recibir la documentación, asentando en el original y en la copia correspondiente, mediante reloj checador o sello oficial, la fecha y la hora de su recepción, el número de fojas que integran el documento, las copias que corren agregadas al original y, en su caso la precisión del número de anexos que se acompañen;
+
+II. Conforme al procedimiento que marque el Secretario General llevar e Instrumentar los registros que se consideren indispensables para el mejor y adecuado control de la documentación recibida;
+
+III. Turnar la documentación recibida a la Secretaría General para que este a su vez la remita en estricto orden de su presentación a la ponencia de turno, en tratándose de recursos;
+
+IV. Elaborar los informes y reportes estadísticos que le sean requeridos por la Secretaría General; y
+
+V. Las demás que le sean encomendadas por la Secretaría General.
+
+DEL ARCHIVO JUDICIAL ELECTORAL
+
+###### ARTÍCULO 36.
+
+El Tribunal tendrá un archivo judicial electoral que dependerá de la Secretaría General.
+
+Durante el proceso electoral cada ponencia será responsable del manejo de los expedientes jurisdiccionales que le sean turnados, los cuales al término del proceso electoral deberá concentrar en el archivo judicial.
+
+###### ARTÍCULO 37.
+
+Para ser titular del archivo, se requiere:
+
+A) Ser mayor de edad y haber cursado estudios de nivel medio;
+
+B) No haber sido condenado por delito alguno; y
+
+C) Gozar de buena reputación y demostrar capacidad y aptitud mediante un examen de admisión.
+
+###### ARTÍCULO 38.
+
+El titular del archivo judicial electoral tendrá a su cargo las siguientes actividades:
+
+I. Recibir, concentrar y conservar los expedientes jurisdiccionales y demás documentos que se le turnen para su guarda y custodia;
+
+II. Asumir las medidas que determine el Secretario General para el registro, resguardo y consulta de los expedientes;
+
+III. Revisar que los expedientes que se le remitan estén firmados, foliados y sellados;
+
+IV. Hacer del conocimiento del Secretario General, cualquier defecto o irregularidad que advierta en los expedientes o documentos, que reciba para su archivo a fin de que, de ser material y técnicamente posible, se corrijan;
+
+V. Solicitar al Director Administrativo los recursos materiales necesarios;
+
+VI. Dar cuenta al Secretario General de los Periódicos Oficiales del Estado y de cualquier otra publicación, que deban empastarse;
+
+VII. Facilitar los expedientes a los Magistrados, Secretario General, Secretarios Instructores y Proyectistas; y
+
+VIII. Las demás que le sean encomendadas por los Magistrados, Secretario General y Director Administrativo.
+
+###### ARTÍCULO 39.
+
+El Tribunal deberá conservar en su Archivo electoral los expedientes de los asuntos definitivamente concluidos.
+
+En caso de que el Tribunal no cuente con las instalaciones para la guarda y custodia de los expedientes electorales definitivamente concluidos y que hayan quedado firmes y demás documentación oficial, el Magistrado Presidente podrá discrecionalmente remitirlos al Archivo General del Gobierno del Estado, o en su caso, conservarlos en su poder.
+
+DEL PERSONAL MECANOGRÁFICO
+
+###### ARTÍCULO 40.
+
+El personal mecanográfico en el desempeño de sus funciones, dependerá del titular de la ponencia o área a la que haya sido asignado.
+
+###### ARTÍCULO 41.
+
+El personal mecanográfico deberán (sic) reunir los siguientes requisitos:
+
+I. Ser mayor de edad;
+
+II. Estudios de nivel medio superior;
+
+III. No tener antecedentes penales.
+
+###### ARTÍCULO 42.
+
+Durante el desempeño de sus funciones, el personal mecanográfico deberá:
+
+I. Cumplir eficientemente las indicaciones de su superior inmediato;
+
+II. Llevar el control del archivo asignado a su área;
+
+III. Las demás que establezca el presente Reglamento.
+
+DEL CHOFER
+
+###### ARTÍCULO 43.
+
+El chofer estará bajo la Subordinación del Magistrado Presidente.
+
+###### ARTÍCULO 44.
+
+El Tribunal contará con los vehículos necesarios para el desempeño de sus funciones.
+
+###### ARTÍCULO 45.
+
+El chofer deberá reunir los siguientes requisitos:
+
+I. Ser mayor de edad;
+
+II. Estudios de nivel básico;
+
+III. Tener Licencia de chofer vigente; y
+
+IV. No tener antecedentes penales.
+
+###### ARTÍCULO 46.
+
+Durante el desempeño de sus labores, el Chofer deberá:
+
+I. Cuidar y mantener la unidad que le asigne la Dirección Administrativa;
+
+II. Observar el Reglamento de Tránsito Vehicular;
+
+III. Utilizar el vehículo para asuntos estrictamente oficiales;
+
+IV. Comunicar inmediatamente al Director Administrativo, en caso de accidente, robo o siniestro del vehículo asignado; y
+
+V. Desempeñar las demás funciones que le encomiende el superior jerárquico.
+
+###### ARTÍCULO 47.
+
+En caso de negligencia, impericia o por encontrarse bajo el influjo de sustancias tóxicas, embriagantes o enervantes, el chofer será responsable civil o penalmente de los actos que realice en el ejercicio de sus funciones, independientemente de las sanciones administrativas aplicables en términos de este reglamento.
+
+DEL ÁREA DE INTENDENCIA
+
+###### ARTÍCULO 48.
+
+El personal de esta área estará bajo la subordinación del Director Administrativo.
+
+###### ARTÍCULO 49.
+
+El personal de intendencia deberán (sic) reunir los siguientes requisitos:
+
+I. Ser mayor de edad;
+
+II. Saber leer y escribir;
+
+III. No tener antecedentes penales.
+
+###### ARTÍCULO 50.
+
+El personal de intendencia tendrá a su cargo el mantenimiento y limpieza de las instalaciones y mobiliario del Tribunal, así como del cuidado del material que se le proporcione para el desempeño de sus labores.
+
+DISPOSICIONES GENERALES
+
+DE LAS OBLIGACIONES Y DERECHOS
+
+###### ARTÍCULO 51.
+
+Son obligaciones del personal del Tribunal:
+
+I. Ejecutar sus actividades observando las instrucciones que reciban de sus superiores jerárquicos;
+
+II. Proceder con discreción en el ejercicio de sus funciones, guardando estricta reserva acerca de los asuntos del Tribunal que conozcan con motivo del desempeño de sus actividades, evitando proporcionar información oficial por cualquier medio, sin la autorización previa y expresa de su superior jerárquico;
+
+III. Proporcionar a las autoridades del Tribunal los datos personales que para efectos de su relación jurídica se soliciten, presentar la documentación comprobatoria que corresponda, así como comunicar oportunamente cualquier cambio sobre dicha información;
+
+IV. Cumplir con eficiencia y eficacia las funciones que se le confieran;
+
+V. Desarrollar sus actividades en el puesto, lugar y área de adscripción que determinen las autoridades del Tribunal;
+
+VI. Asistir puntualmente a sus labores y respetar sus horarios establecidos;
+
+VII. Cumplir las comisiones de trabajo que por necesidades del Tribunal se le encomienden en lugar y áreas distintos al de su adscripción, durante los periodos que se determinen;
+
+VIII. Durante sus labores conducirse con respeto y cordura; y
+
+IX. Las demás que establezca este reglamento.
+
+###### ARTÍCULO 52.
+
+El personal del Tribunal se abstendrá de:
+
+I. Faltar a sus labores sin causa justificada;
+
+II. Concurrir a sus labores en estado de ebriedad o bajo la influencia de algún narcótico o droga enervante, salvo que, en este último caso, exista prescripción médica;
+
+III. Abandonar sus labores sin autorización expresa de su superior jerárquico.
+
+###### ARTÍCULO 53.
+
+Son derechos del personal del Tribunal:
+
+I. Recibir el nombramiento correspondiente;
+
+II. Recibir las remuneraciones correspondientes al nombramiento y presupuesto asignado;
+
+III. Recibir los apoyos y la autorización correspondiente para participar en los programas de capacitación y formación.
+
+###### ARTÍCULO 54.
+
+El personal del Tribunal que se distinga por la eficiencia en el ejercicio de su trabajo, espíritu de servicio, asistencia y puntualidad, gozará de los siguientes estímulos:
+
+I. Notas de mérito;
+
+II. Diplomas; y
+
+III. Consideración para mejores cargos.
+
+DEL HORARIO DE LABORES
+
+###### ARTÍCULO 55.
+
+Los empleados del Tribunal, estarán obligados a prestar sus servicios durante los horarios que se establezcan, tomando en cuenta que durante los proceso (sic) electorales, todos los días y horas son hábiles.
+
+###### ARTÍCULO 56.
+
+Los horarios de actividades del personal que preste sus servicios al Tribunal, serán determinados discrecionalmente, atendiendo las necesidades del mismo.
+
+###### ARTÍCULO 57.
+
+El Presidente del Tribunal, habilitará al personal que deberá cubrir las guardias nocturnas por mes calendario, debiendo publicarse mediante circulares, el nombre del servidor público y su domicilio particular para la recepción de documentos.
+
+DE LOS PERMISOS Y LICENCIAS
+
+###### ARTÍCULO 58.
+
+Las Licencias de los Magistrados que no rebasen más de 30 días, durante el período de funciones del Tribunal, serán competencia del Pleno; en caso de autorizarse, la ausencia será suplida por el Magistrado Suplente que le siga en el orden de su designación.
+
+La solicitud de licencias que rebasen el período que señala el párrafo que precede, así como las renuncias, se someterán a la aprobación del Poder Legislativo del Estado, o en su caso, de la Diputación Permanente, por conducto del interesado.
+
+###### ARTÍCULO 59.
+
+Los Servidores Públicos del Tribunal designados por el Pleno, tendrán derecho a permisos económicos por tres días, dos veces al año, con goce de sueldo y bajo la estricta responsabilidad de su Superior.
+
+###### ARTÍCULO 60.
+
+Al personal administrativo se le podrá otorgar permisos económicos con goce de sueldo por tres días, dos veces al año, a discreción y responsabilidad del Director Administrativo, previa aprobación del Magistrado Presidente.
+
+###### ARTÍCULO 61.
+
+La solicitud de licencias económicas de los funcionarios públicos y del personal administrativo, deberán elaborarse por escrito, a las que recaerá el acuerdo correspondiente.
+
+###### ARTÍCULO 62.
+
+Se podrá otorgar por el Pleno licencias sin goce de sueldo hasta por 30 días a los servidores públicos designados por él mismo y al personal de las áreas administrativas del tribunal hasta por el mismo plazo por el director administrativo con el visto bueno del superior jerárquico de adscripción del solicitante de la licencia.
+
+###### ARTÍCULO 63.
+
+El personal administrativo podrá solicitar al Director o Superior inmediato, permisos para ausentarse de sus labores, siempre y cuando estos no perturben el funcionamiento de su área de adscripción.
+
+###### ARTÍCULO 64.
+
+Los permisos a que se refiere el artículo que antecede, se otorgarán previa autorización que conste en los pases de salida y entradas que elabore el Director Administrativo para dichos fines.
+
+MEDIDAS DISCIPLINARIAS
+
+###### ARTÍCULO 65.
+
+Los retardos y faltas injustificadas del personal se sancionarán:
+
+I. El personal técnico y administrativo tendrán quince minutos de tolerancia para ingresar a sus labores. Del minuto dieciséis al treinta se considerará retardo y después del minuto treinta se incurrirá en falta de asistencia.
+
+II. Tres retardos injustificados acumulados en 15 días naturales, ameritarán un día de suspensión, nueve retardos en un período de treinta días naturales, generan dos días de suspensión de labores.
+
+III. Una falta injustificada, producirá el no pago del día correspondiente a la falta de asistencia.
+
+IV. Más de tres faltas injustificadas en un período de treinta días naturales, será causal de la terminación de los efectos del nombramiento.
+
+###### ARTÍCULO 66.
+
+En caso de constituirse el abandono de empleo, el Director Administrativo elaborará el acta correspondiente, dando cuenta en forma inmediata al Presidente del Tribunal, quien propondrá al Pleno, la remoción del Servidor Público o empleado que incurra en dicha falta.
+
+###### ARTÍCULO 67.
+
+Las medidas disciplinarias se clasifican en:
+
+I. Amonestación verbal y escrita; y
+
+II. Suspensión temporal sin goce de sueldo.
+
+###### ARTÍCULO 68.
+
+En caso de incumplimiento a las disposiciones contenidas en los artículos 51 y 52 de este Reglamento, cuando el transgresor sea un servidor público designado por el pleno, el Secretario General levantará el acta correspondiente en donde se haga constar la irregularidad cometida y en el caso de los demás trabajadores o empleados, la elaborará el Director Administrativo para el tramite correspondiente.
+
+###### ARTÍCULO 69.
+
+Corresponde al Magistrado Presidente, previa aprobación del Pleno, aplicar las medidas disciplinarias conforme a las disposiciones de este Reglamento.
+
+### CAPÍTULO IV. DE LA ADMINISTRACIÓN DE LOS RECURSOS
+
+###### ARTÍCULO 70.
+
+El Magistrado Presidente administrará los recursos humanos, materiales y financieros del Tribunal contemplados en el presupuesto de egresos.
+
+###### ARTÍCULO 71.
+
+Para la administración de los recursos del Tribunal, se contará con el área administrativa correspondiente a cargo de un Director Administrativo y con el personal necesario para el cumplimiento de sus funciones mismo que será designado por el Magistrado Presidente.
+
+DEL DIRECTOR ADMINISTRATIVO
+
+###### ARTÍCULO 72.
+
+El Director Administrativo deberá contar con Licenciatura en Contaduría Pública o Administración de Empresas o carreras similares y con Título Profesional debidamente registrado o acreditando haber concluido la carrera Profesional y en trámites de titulación.
+
+###### ARTÍCULO 73.
+
+El Director Administrativo se encargará de ejecutar las políticas necesarias para el mejor funcionamiento de la administración, disciplina y vigilancia de los recursos humanos, materiales y financieros del Tribunal, previa autorización del Magistrado Presidente.
+
+###### ARTÍCULO 74.
+
+Son atribuciones del Director Administrativo, las siguientes:
+
+I. Respetar y cumplir con las instrucciones que le haga el Magistrado Presidente;
+
+II. Supervisar el control mensual de entradas y salidas del personal, adscrito al Tribunal;
+
+III. Realizar las gestiones necesarias para el cobro de nóminas del personal del Tribunal, con la retención de los impuestos correspondientes;
+
+IV. Recabar los recibos relativos a los gastos devengados por concepto de material, suministros y servicios generales del Tribunal, mediante los procedimientos administrativos pertinentes;
+
+V. Tener a su cargo el control y guarda de los activos que forman parte del patrimonio del Tribunal;
+
+VI. Llevar un inventario de los bienes muebles, valores y demás que sean asignados o propiedad del Tribunal;
+
+VII. Tramitar la adquisición de los bienes y la prestación de los servicios necesarios;
+
+VIII. Encargarse de la conservación del inmueble, mobiliario y archivos, una vez asignados oficialmente al Tribunal;
+
+IX. Llevar los registros y controles contables de los recursos financieros del Tribunal;
+
+X. Formar un expediente para cada empleado en el que se integrarán todos los documentos que tengan relación con dicha persona, tales como licencias que se concedan, copia de los acuerdos sobre sus remociones, quejas en su contra, copias de las resoluciones sobre alguna corrección disciplinaria impuesta, y de todos los demás datos que se relacionen con el desempeño de su cargo;
+
+XI. Elaborar el anteproyecto del Presupuesto de Egresos del Tribunal y someterlo a la aprobación del Magistrado Presidente;
+
+XII. Realizar funciones de pagaduría;
+
+XIII. Aplicar las sanciones al personal del Tribunal, en los términos que establece este Reglamento;
+
+XIV. Rendir mensualmente un informe de sus actividades al Magistrado Presidente;
+
+XV. Llevar el registro y administración de los recursos financieros, mancomunadamente con el Magistrado Presidente; y
+
+XVI. Las demás que le encomiende el Magistrado Presidente y este Reglamento.
+
+### CAPÍTULO V. DEL PROCEDIMIENTO ADMINISTRATIVO
+
+###### ARTÍCULO 75.
+
+El presente capítulo tiene como objetivo sistematizar las disposiciones legales que rigen el procedimiento de los medios de impugnación electoral, en sus distintas etapas desde la presentación hasta la conclusión definitiva de estos.
+
+RECEPCIÓN DE RECURSOS Y PROMOCIONES
+
+###### ARTÍCULO 76.
+
+El personal asignado en la Oficialía de Partes, coordinados por el Secretario General darán a los escritos iniciales de los Recursos y a las promociones que se relacionen con los mismos, el siguiente trámite:
+
+I. Recibirán el escrito de recurso o promoción que presente el organismo electoral, partido político o interesado, por duplicado;
+
+II. Revisarán cuidadosamente el escrito de recurso o promoción para constatar el nombre del destinatario y el número de fojas que integra el escrito;
+
+III. Verificarán en su caso, el número y características de los anexos que se acompañen;
+
+IV. Imprimirán con reloj checador, sello oficial o en su caso manualmente, tanto en el original como en la copia del escrito del recurso o promoción, la fecha y hora de recepción y devolverán una copia con acuse de recibido;
+
+V. Anotarán en el original y copia del escrito del recurso o promoción, el número de fojas que integra el documento, en su caso el número y características de los anexos que se exhiban;
+
+VI. Anotarán el número de promoción mediante el folio progresivo que corresponda;
+
+VII. Escribirán claramente el nombre y estamparán la firma de la persona que recibe el escrito del recurso o promoción, tanto en el original como en la copia;
+
+VIII. Registrarán el escrito del recurso o promoción en el libro de registros correspondiente;
+
+IX. Turnarán el escrito del recurso o promoción en forma inmediata, al Secretario General o Secretario Instructor según corresponda;
+
+X. El personal de guardia ejercerá las mismas facultades que le son propias al titular de la oficialía de partes.
+
+###### ARTÍCULO 77.
+
+El libro de registro de promociones autorizado por el Secretario General y que estará a cargo del titular de la Oficialía de Partes, contendrá los siguientes datos:
+
+I. Número de folio del escrito del recurso o promoción, fecha y hora de recepción;
+
+II. Mención del recurso o promoción;
+
+III. Organismo electoral, Partido Político o interesado que interponga el recurso o promoción;
+
+IV. Nombre y firma de la persona que recibe el escrito del recurso o promoción; y
+
+V. Observaciones que en su caso procedan.
+
+SUSTANCIACIÓN DE RECURSOS
+
+INTEGRACIÓN DE EXPEDIENTES
+
+###### ARTÍCULO 78.
+
+Recibido el recurso o promoción, el Secretario General, lo turnará al Secretario Instructor de la ponencia que corresponda, asignándole el número de toca respectivo. Para el control de los tocas se deberá contar con carátulas impresas que serán aprobadas por el Pleno.
+
+Agregará a la carátula el escrito inicial del Recurso y demás anexos, procederá a anotar el foliado y sellado del expediente hasta la última actuación.
+
+Devolverá el expediente concluido al secretario General para su guarda y custodia en el archivo judicial.
+
+DE LA ADMISIÓN O DESECHAMIENTO DE LOS RECURSOS
+
+###### ARTÍCULO 79.
+
+El Secretario Instructor formulará los proyectos de acuerdo, observando los siguientes lineamientos:
+
+I. Dictar el auto de radicación de los recursos que se interpongan, estudiando cuidadosamente las constancias que lo integran;
+
+II. Formular el acuerdo de admisión del recurso, cuando este reúna los requisitos de procedencia y se encuentren los elementos necesarios para la sustanciación de los recursos;
+
+III. Formular el acuerdo donde se adviertan las hipótesis de prevención, dándose cuenta por conducto del Secretario General al pleno del Tribunal para que resuelva lo conducente.
+
+DEL REQUERIMIENTO DE PRUEBAS
+
+###### ARTÍCULO 80.
+
+En término del artículo 252 en relación con los artículos 243 fracción I inciso f), 244 fracción II, 245 Párrafo II y 246 facción VI del Código, los Secretarios Instructores deberán:
+
+I. Analizar y estudiar la procedencia o improcedencia del requerimiento de pruebas y los demás elementos que se estimen necesarios para la resolución del recurso correspondiente;
+
+II. Formular el acuerdo mediante el cual se solicite la remisión de esas pruebas y elementos.
+
+PROCEDIMIENTO DE RESOLUCIÓN DE RECURSOS
+
+###### ARTÍCULO 81.
+
+Al recibir el Secretario Proyectista los expedientes electorales, por parte de los Magistrados Ponentes, procederá:
+
+I. Estudiar el expediente electoral;
+
+II. Proponer al Magistrado Ponente, el proyecto de desechamiento del recurso, sobreseimiento del mismo o resolución de fondo, para su aprobación o modificación;
+
+III. Aprobado el proyecto de resolución, el Magistrado Ponente lo remitirá al Secretario General, con la finalidad de que lo liste en la Sesión de Pleno que corresponda, con la necesaria anticipación de tres días.
+
+###### ARTÍCULO 82.
+
+Los proyectos de resolución contendrán:
+
+I. En la parte inicial, el lugar, fecha, datos de identificación del recurso, número de expediente y nombre de las partes;
+
+II. En cada “resultando”, se expondrá, en orden consecutivo, una relación suscita de los hechos;
+
+III. En cada “considerando”, se mencionaran los fundamentos que sustenten la competencia del Tribunal, se analizarán los motivos de impugnación planteados en el recurso, se realizará el examen y valoración de las pruebas, se invocara los preceptos legales y en su caso, las consideraciones del Tribunal, que sirvan de apoyo al sentido de la resolución;
+
+IV. El los “puntos resolutivos” se indicará el sentido de su resolución, sus efectos en su caso, el plazo para su cumplimiento y la orden de su notificación;
+
+V. La parte final, comprenderá el sentido de la votación del Pleno, su integración, el nombre del Magistrado Ponente, la autorización del Secretario General y las firmas respectivas.
+
+###### ARTÍCULO 83.
+
+En las sesiones del Pleno en que se presenten los proyectos de resolución, se observará el siguiente procedimiento:
+
+I. El Secretario General pasará lista de presentes para declarar la existencia de quórum;
+
+II. Los integrantes del Pleno aprobarán la orden del día;
+
+III. Se aprobará en su caso, el acta de la sesión anterior;
+
+IV. El Secretario General, dará lectura a proyecto de resolución o únicamente a los puntos resolutivos del mismo, si así lo considera procedente el Pleno.
+
+V. El Magistrado Presidente pondrá a discusión el proyecto; lo someterá a votación y ordenará al Secretario General, que la recabe;
+
+VI. El proyecto podrá ser aprobado por mayoría de los Magistrados y el disidente podrá limitarse a votar en contra formulando su voto particular razonado, mismo que se agregará a la resolución, para firmar todos al final de la misma;
+
+VII. Si el proyecto del Magistrado Ponente no ha sido aceptado por la mayoría, el Pleno designará mediante voto secreto a otro Magistrado para el efecto de elaborar un nuevo proyecto, debiendo engrosar la resolución con las argumentaciones que se hubiesen invocado, agregándose, como voto particular, el proyecto que no fue aprobado, si así lo desea el Magistrado Ponente;
+
+VIII. El Secretario General elaborará el acta circunstanciada de la sesión.
+
+###### ARTÍCULO 84.
+
+Para sentar la jurisprudencia en términos del artículo 263 del Código, se requiere de la declaratoria formal en sesión de Pleno, notificándose de inmediato a los órganos electorales de la Entidad.
+
+Los criterios Jurisprudenciales, se publicarán en el Periódico Oficial “Tierra y Libertad” del Gobierno del Estado.
+
+DEL PROCEDIMIENTO DE NOTIFICACIÓN DE ACTUACIONES
+
+###### ARTÍCULO 85.
+
+Las notificaciones personales de los acuerdos y resoluciones a las partes, se ajustarán a los siguientes requisitos que serán supervisados por el Secretario General o los Secretarios Instructores y observadas por el Notificador:
+
+I. Recibir el expediente por parte del Secretario General o Secretarios Instructores;
+
+II. Elaborar la Cédula de Notificación, que contenga la descripción del acuerdo o resolución, o en su caso, la razón de que se corre traslado con la copia certificada de la resolución correspondiente que se notifica, el lugar, fecha y hora en que se practica y nombre de la persona con quien se entiende la diligencia;
+
+III. Revisar el expediente para ubicar el domicilio señalado, para oír notificaciones;
+
+IV. Concurrir al domicilio indicado cerciorándose de que sea el correcto;
+
+V. Notificar al interesado el acuerdo o resolución, procurando recabar la firma o sello de recibido, en caso de que se encuentre presente;
+
+VI. De no encontrarse el interesado, la notificación se practicará con cualquier persona que se localice en el lugar señalado para tal efecto, procurando obtener la firma o sello respectivo;
+
+VII. Requerir alguna identificación al interesado o a la persona con la que se practique la notificación;
+
+VIII. Si la persona con la que se practique la diligencia se niega a recibir la cédula de notificación, se hará constar esta circunstancia en la misma, y la fijará en un lugar visible junto con la copia del acuerdo o resolución a notificar y hará la notificación por estrados;
+
+IX. Asentar la razón en autos de que, se practicó legalmente la notificación del acuerdo o resolución, en todos los casos;
+
+X. Devolver el expediente al Secretario General o Secretarios Instructores.
+
+###### ARTÍCULO 86.
+
+Las notificaciones por oficio de los acuerdos o resoluciones se practicarán a los organismos electorales y demás autoridades, debiendo los notificadores atender las siguientes disposiciones:
+
+I. Recibir el expediente por parte del Secretario General o Secretarios Instructores;
+
+II. Formularán los oficios de notificación, que incluirán el nombre del organismo electoral o autoridad que se notifica y la descripción del acuerdo o resolución correspondiente;
+
+III. Concurrirán al domicilio oficial del organismo electoral o autoridad, cerciorándose de que sea el correcto;
+
+IV. Entregarán el oficio de notificación y copia del acuerdo o resolución de que se trata, recabando el acuse de recibido;
+
+V. Asentarán la razón de que se notificó por oficio el acuerdo o la resolución;
+
+VI. Devolverán el expediente al Secretario General o Secretarios Instructores.
+
+###### ARTÍCULO 87.
+
+Las notificaciones de los acuerdos de trámite se notificarán a las partes, organismos electorales y autoridades por estrados, asimismo las resoluciones se notificarán por estrados, cuando los promoventes o comparecientes omitan señalar domicilio, este no resulte cierto o se encuentre ubicado fuera de la ciudad en la que tenga su sede la autoridad que realice la notificación respectiva a que se refiere este artículo. Para tal efecto, los notificadores seguirán estos trámites:
+
+I. Recibir el expediente por parte del Secretario General o Secretarios Instructores;
+
+II. Formular las listas de los acuerdos o resoluciones que se notifiquen por estrados;
+
+III. Colocar en los estrados las listas autorizadas con su firma y las cédulas de notificación, con las copias de los acuerdos y resoluciones que se notifiquen;
+
+IV. Asentar razón de que se practicaron las notificaciones por estrados de los acuerdos y resoluciones;
+
+V. Devolver el expediente al Secretario General y Secretarios Instructores.
+
+###### ARTÍCULO 88.
+
+Los estrados son los lugares en las oficinas de los organismos electorales y del Tribunal Estatal Electoral que estarán destinados a colocar, para su notificación, copias del escrito de interposición del recurso, así como de los acuerdos o resoluciones que le recaigan.
+
+###### ARTÍCULO 89.
+
+Las notificaciones por fax de los acuerdos de requerimiento de pruebas se harán a los organismos electorales y autoridades o en aquellos casos urgentes a los interesados, a juicio del Presidente del Tribunal. Para tal efecto los notificadores seguirán los siguientes trámites:
+
+I. Recibirá el expediente del Secretario General o Secretarios Instructores;
+
+II. Formularán los oficios de notificación, que incluirán el nombre de los organismos electorales o autoridades que se notifican o del interesado y la descripción del acuerdo o resolución correspondiente;
+
+III. Deberá marcar el número de fax correspondiente, enviando la notificación respectiva;
+
+IV. Asentará la razón de que se notificó vía fax el acuerdo o resolución, anexando el acuse de recibo;
+
+V. Devolver el expediente al Secretario General o Secretarios Instructores.
+
+###### ARTÍCULO 90.
+
+Las notificaciones por correo certificado con acuse de recibo o telegrama de los acuerdos o resoluciones, se podrán hacer a las partes y demás autoridades, debiendo seguir estos trámites:
+
+I. Recibirá el expediente del Secretario General o Secretarios Instructores;
+
+II. Llenar los formatos de telegrama o elaborar el oficio respectivo, que incluirán el nombre de las partes o autoridades a notificar y los datos de identificación de la resolución de que se trate;
+
+III. Indicar los domicilios correspondientes;
+
+IV. Asentar la razón que se notificó por correo certificado o telegrama el acuerdo o resolución, anexando la constancia respectiva;
+
+V. Devolver el expediente al Secretario General o Secretarios Instructores.
+
+### CAPÍTULO VI
+
+DEL FUNCIONAMIENTO DEL TRIBUNAL EN TIEMPOS NO ELECTORALES.
+
+###### ARTÍCULO 91.
+
+El proceso electoral concluye cuando la última resolución del Tribunal queda firme; entrando en receso respecto del proceso electoral e instalándose inmediatamente, para el caso de elecciones extraordinarias así como en tiempo no electoral.
+
+###### ARTÍCULO 92.
+
+Al concluir el proceso electoral ordinario o extraordinario, en su caso, el Tribunal continuará en sus funciones jurisdiccionales, en cumplimiento a los artículos 23 fracción VI segundo párrafo de la Constitución y 208 del Código, que ordena la permanencia de las funciones del Tribunal, estableciéndose los horarios y calendarios de acuerdo a los previstos para los Tribunales de las Disciplinas Civiles del Poder Judicial del Estado.
+
+Este Tribunal desempeñará sus servicios jurisdiccionales durante todo el año de manera permanente por disponerlo la Constitución y el Código mencionado en el primer párrafo de este artículo.
+
+###### ARTÍCULO 93.
+
+El Tribunal se conformará con la plantilla del personal necesario para el funcionamiento de su organización, operación y desarrollo.
+
+###### ARTÍCULO 94.
+
+Durante este período el Tribunal conocerá y resolverá de los Recursos de Reconsideración sujetándose a lo establecido en el artículo 79 Fracción III del presente Reglamento.
+
+###### ARTÍCULO 95.
+
+Para el efecto de fomentar, fortalecer y difundir la cultura política-electoral en el Estado, así como sus principios rectores, el Tribunal tendrá a su cargo las tareas de investigación, formación, capacitación y profesionalización de sus miembros.
+
+###### ARTÍCULO 96.
+
+El Tribunal creará las comisiones necesarias, para la consecución de los fines que refiere el artículo anterior.
+
+La estructura, organización y funcionamiento de las comisiones se sujetarán al Reglamento que para el efecto se apruebe.
+
+T R A N S I T O R I O S (SIC)
+
+###### ARTÍCULO ÚNICO.
+
+El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" del Gobierno del Estado de Morelos.
+
+Dado en salón de Plenos del Tribunal Estatal Electoral, en la ciudad de Cuernavaca Morelos a los treinta y un días del mes de Octubre del año dos mil.
+
+EL MAGISTRADO PRESIDENTE DEL TRIBUNAL ESTATAL ELECTORAL
+
+LIC. ÁNGEL GARDUÑO GONZÁLEZ
+
+EL MAGISTRADO
+
+LIC. PEDRO LUIS BENÍTEZ VÉLEZ
+
+EL MAGISTRADO
+
+LIC. JUAN TORRES SANABRIA.
+
+SECRETARIO GENERAL DEL TRIBUNAL ESTATAL ELECTORAL
+
+LIC. DANIEL GENOVEVO GARCÍA RAMÍREZ
+
+RÚBRICAS
