@@ -1,0 +1,1850 @@
+---
+title: "REGLAMENTO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE SINALOA"
+identifier: "SIN-reglamento-de-la-ley-organica-del-ministerio-publico-del-17280"
+country: "mx"
+rank: "reglamento"
+publication_date: "2000-08-09"
+last_updated: "2000-08-09"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17280&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-sin"
+scjn_id: "17280"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "REGLAMENTO"
+original_gazette_section: "95 SEGUNDA SECCION"
+reform_count: "4"
+scjn_last_update: "2019-02-18"
+issue_date: "2000-07-04"
+state: "SIN"
+---
+# REGLAMENTO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE SINALOA
+
+REGLAMENTO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE SINALOA
+
+TEXTO ORIGINAL.
+
+Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 9 de agosto de 2000.
+
+JUAN S. MILLÁN LIZÁRRAGA, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, en ejercicio de las facultades que me confieren los artículos 65, fracciones I, XIV y XXIV, 66, párrafo primero y 72 de la Constitución Política Local, y con fundamento en lo dispuesto por los artículos 1º, 2º, 3º y demás relativos de la Ley Orgánica de la Administración Pública del Estado de Sinaloa; y
+
+C O N S I D E R A N D O.
+
+Con base en las anteriores consideraciones, he tenido a bien expedir el siguiente:
+
+REGLAMENTO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE SINALOA
+
+### Capítulo I. Del Objeto del Reglamento
+
+###### Artículo 1.
+
+El presente Reglamento tiene como objeto desarrollar y pormenorizar las disposiciones contenidas en la Ley Orgánica del Ministerio Público del Estado de Sinaloa.
+
+### Capítulo II. De la Planeación, Organización y Desarrollo de la Actividad Institucional
+
+###### Artículo 2.
+
+La Procuraduría General de Justicia planeará, conducirá y desarrollará sus actividades de conformidad con las políticas, estrategias, prioridades, metas y objetivos que determine el Procurador General de Justicia, conforme a lo dispuesto por la Ley Orgánica del Ministerio Público, la Ley de Planeación del Estado, las demás disposiciones legales aplicables y el Plan Estatal de Desarrollo.
+
+###### Artículo 3.
+
+Los procesos de planeación se orientarán hacia el cumplimiento eficaz de las funciones de la institución del Ministerio Público, basándose en los siguientes principios:
+
+I. Suficiencia en la cobertura de servicio;
+
+II. Desconcentración;
+
+III. Especialización;
+
+IV. Profesionalización;
+
+V. Vinculación y participación social;
+
+VI. Coordinación y colaboración institucional;
+
+VII. Distribución racional de cargas de trabajo;
+
+VIII. Modernización jurídica, tecnológica y operativa; y,
+
+IX. Evaluación del desempeño institucional.
+
+###### Artículo 4.
+
+Para los efectos de lo dispuesto en el artículo precedente, los titulares de los órganos y unidades administrativas de la Procuraduría General de Justicia deberán formular los programas de actividades de sus respectivas dependencias, los cuales deberán ser presentados oportunamente para su aprobación al Procurador General de Justicia. Asimismo, deberán formular y rendir al Procurador General de Justicia los informes de ejecución respectivos.
+
+###### Artículo 5.
+
+La representación de la institución del Ministerio Público y de la Procuraduría General de Justicia, así como el tramite y resolución de los asuntos de su competencia, corresponde originalmente al Procurador General de Justicia, quien para el despacho de los asuntos se auxiliara de los órganos y unidades administrativas previstos en este Reglamento, así como por los que al efecto se constituyan.
+
+### Capítulo III. Del Fomento a la Participación Social en la Procuración de Justicia
+
+###### Artículo 6.
+
+La promoción de la participación ciudadana se orientará a:
+
+I. Fomentar el cumplimiento de los deberes cívicos en materia de procuración de justicia;
+
+II. Informar a la población sobre los factores, manifestaciones y consecuencias de la criminalidad;
+
+III. Informar sobre las acciones y resultados institucionales; y,
+
+IV. Atraer la colaboración en acciones preventivas y persecutorias del delito.
+
+### Capítulo IV. De la Coordinación Institucional
+
+###### Artículo 7.
+
+La coordinación que establezca la Procuraduría con otras instituciones, se sujetará al cumplimiento estricto de las funciones constitucionales y legales de aquélla, de conformidad con su capacidad humana, material y técnica, buscando el mejoramiento permanente de la misión de la misma.
+
+### Capítulo V. De la Estructura y Funciones de la Procuraduría
+
+###### Artículo 8.
+
+Para el cumplimiento de los asuntos de su competencia, la Procuraduría General de Justicia se integra con los órganos y unidades administrativas siguientes:
+
+I. Procurador General de Justicia, titular de la institución, quien se auxiliará de las dependencias siguientes:
+
+A) Secretaría Particular;
+
+B) Secretaría Técnica;
+
+C) Vocero del Procurador;
+
+D) Unidad de Vinculación y Comunicación Social;
+
+E) Coordinador de Asesores, que, a su vez, se auxiliará de la dependencia siguiente:
+
+a) Departamento de Estudios Institucionales; y
+
+F) Unidad de Control de Confianza, que, a su vez, se auxiliará de las dependencias siguientes:
+
+a) Departamento de Investigación;
+
+b) Departamento de Evaluación; y,
+
+c) Departamento de Sistemas.
+
+II. Subprocuraduría General de Justicia, la que se auxiliará de la dependencia siguiente:
+
+a) Departamento de Información y Estadística.
+
+III. Subprocuradurías Regionales de Justicia, las que se auxiliarán de las dependencias siguientes:
+
+a) Departamento de Averiguaciones Previas;
+
+b) Departamento de Control de Procesos; y,
+
+c) Departamento de Servicios Periciales;
+
+IV. Dirección de Averiguaciones Previas, la que se auxiliará de las dependencias siguientes:
+
+a) Coordinación de Averiguaciones Previas;
+
+b) Departamento de Registro, Control y Seguimiento de Averiguaciones Previas;
+
+c) Departamento de Integración de Averiguación Previas y Consultoría; y,
+
+d) Unidad de Bienes Asegurados.
+
+V. Dirección de Control de Procesos, la que se auxiliará de las dependencias siguientes:
+
+a) Departamento de Registro, Control y Seguimiento de Procesos;
+
+b) Departamento de Conclusiones y Estudios Procesales; y,
+
+c) Departamento de Agravios.
+
+VI. Dirección Jurídica Consultiva, la que se auxiliará de las dependencias siguientes:
+
+a) Departamento de Amparos; y,
+
+b) Departamento Consultivo y de Estudios Legislativos.
+
+VII. Dirección de Planeación, Desarrollo y Atención Ciudadana, la que se auxiliará de las dependencias siguientes:
+
+A) Coordinación de Informática, la que contará con:
+
+a) Departamento de Enlace al Sistema de Seguridad Pública; y,
+
+b) Departamento de Apoyo Técnico.
+
+B) Unidad de Atención Ciudadana, que contará con:
+
+a) Departamento de Atención a Víctimas del Delito; y,
+
+b) Departamento de Atención Ciudadana.
+
+C) Unidad de Prevención del Delito;
+
+D) Supervisoría de Derechos Humanos; y,
+
+E) Unidad de Capacitación y Desarrollo.
+
+VIII. Dirección de Investigación Criminalística y Servicios Periciales, la que se integrará por las dependencias siguientes:
+
+a) Departamento de Criminalística y Servicios Periciales;
+
+b) Departamento de Medicina Forense;
+
+c) Departamento de Laboratorio de Física y Química; y,
+
+d) Departamento de Archivo e Identificación Criminal.
+
+IX. Dirección de Policía Ministerial, la que se auxiliará de las dependencias siguientes:
+
+a) Subdirección de la Policía Ministerial;
+
+b) Coordinación de Investigación de Delitos;
+
+c) Coordinación de Ejecución de Ordenes de Aprehensión;
+
+d) Coordinación de Detenciones en Flagrancia;
+
+e) Coordinación de Protección a Víctimas u Ofendidos de Delitos;
+
+f) Coordinación de Colaboración Institucional;
+
+g) Coordinación Especial para la Investigación de Secuestros;
+
+h) Departamento Legal;
+
+i) Departamento de Actas; y,
+
+j) Departamento de Servicios Administrativos.
+
+X. Coordinación Administrativa, la que se auxiliará de las dependencias siguientes:
+
+a) Departamento de Contabilidad y Presupuesto;
+
+b) Departamento de Recursos Humanos;
+
+c) Departamento de Sistemas Administrativos; y,
+
+d) Departamento de Recursos Materiales y Adquisiciones.
+
+XI. Unidad de Contraloría Interna, la que se auxiliará de:
+
+a) Departamento de Visitadurías; y,
+
+b) Departamento de Quejas y Denuncias.
+
+XII. Agencias del Ministerio Público.
+
+Habrá, además, las Coordinaciones, Delegaciones, Unidades, Departamentos, Módulos, Oficinas y Secciones que se requieran para el funcionamiento de la institución, las que se crearán mediante los acuerdos respectivos y cuyas funciones deberán especificarse en el Manual de Organización y Procedimientos respectivo.
+
+###### Artículo 9.
+
+Para ser Secretario Particular, Secretario Técnico, Vocero o Coordinador de Asesores del Procurador General de Justicia se requiere:
+
+I. Ser ciudadano sinaloense en pleno ejercicio de sus derechos;
+
+II. Tener más de dieciocho años de edad;
+
+III. Poseer la aptitud necesaria para desempeñar la función, a juicio del Procurador General de Justicia;
+
+IV. Ser de notoria buena conducta; y,
+
+V. No haber sido condenado por sentencia irrevocable como responsable de un delito doloso, ni estar sujeto a proceso penal.
+
+###### Artículo 10.
+
+Para ser Subdirector, Coordinador, Delegado, Jefe de Unidad, Jefe de Departamento, Jefe de Módulo, Jefe de Oficina o Jefe de Sección se requiere:
+
+I. Ser ciudadano sinaloense en pleno ejercicio de sus derechos;
+
+II. Tener más de dieciocho años de edad;
+
+III. Tener licenciatura en la ciencia o técnicas propias de su desempeño o acreditar la capacidad o conocimientos para ello;
+
+IV. Ser de notoria buena conducta y solvencia moral y ética; y,
+
+V. No haber sido condenado por sentencia irrevocable como responsable de un delito doloso, ni estar sujeto a proceso penal.
+
+Para permanecer en la institución, los servidores públicos señalados en este artículo deberán reunir y cumplir los requisitos antes señalados durante el tiempo de pertenencia a la misma; su falta o incumplimiento tendrá como sanción la separación o destitución.
+
+### Capítulo VI. De las Atribuciones Comunes
+
+###### Artículo 11.
+
+Son atribuciones comunes a los Subprocuradores, Directores, Subdirectores, Coordinadores, Subcoordinadores, Delegados, Jefes de Unidad, Jefes de Departamento, Jefes de Módulo, Jefes de Oficina, Jefes de Sección y demás titulares de las dependencias de la Procuraduría General de Justicia, las siguientes:
+
+I. Planear, programar, controlar y evaluar las actividades a su cargo;
+
+II. Establecer mecanismos de integración que aseguren el adecuado desarrollo de las responsabilidades de la institución;
+
+III. Formular anteproyectos de programas y presupuestos que les correspondan;
+
+IV. Acordar con el superior jerárquico el despacho de los asuntos de su competencia, así como desempeñar las funciones y comisiones que aquél les encomiende y delegue, informándole del cumplimiento de las mismas;
+
+V. Consultar al superior jerárquico la delegación de sus funciones o atribuciones en servidores públicos subalternos;
+
+VI. Someter a la consideración de sus superiores jerárquicos los estudios y proyectos que se elaboren en sus áreas que lo ameriten;
+
+VII. Vigilar que en los asuntos de su competencia se dé cumplimiento a las leyes y disposiciones normativas aplicables;
+
+VIII. Dictar las medidas necesarias para el mejoramiento de las áreas que tuvieren a su cargo;
+
+IX. Proporcionar a sus superiores y a otras instituciones públicas la información o colaboración que les sea requerida, de conformidad con las leyes, acuerdos o disposiciones que emita el Procurador General de Justicia;
+
+X. Participar, en el ámbito de su competencia, en la autorización de licencias al personal a su cargo, de acuerdo con las necesidades del servicio y la normatividad de la materia;
+
+XI. Elaborar análisis, estadísticas y registros documentales y de seguimiento de los asuntos a su cargo; y,
+
+XII. Las demás que les confieran otras disposiciones legales y el Procurador General de Justicia.
+
+### Capítulo VII. Del Procurador General de Justicia
+
+###### Artículo 12.
+
+Son facultades y obligaciones indelegables del Procurador General de Justicia:
+
+I. Respetar y velar por el cumplimiento de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, así como de las leyes emanadas de ellas, en los asuntos de su competencia;
+
+II. Residir en el lugar en que tienen su asiento los Poderes del Estado;
+
+III. Intervenir personalmente, como abogado general, en los asuntos que le encomiende el Gobernador del Estado;
+
+IV. Acordar con el Gobernador del Estado y rendirle los informes que le pidiere con relación a la institución;
+
+V. Proveer lo conducente para que la procuración de justicia se realice con sentido humano y pleno respeto a los derechos fundamentales;
+
+VI. Instruir a los Agentes del Ministerio Público y demás servidores públicos de la institución, para que en el cumplimiento de sus funciones se sujeten, invariablemente, al derecho y al principio de buena fe de la institución; expedir circulares y disposiciones de observancia interna, así como las medidas disciplinarias que considere convenientes para uniformar la acción del Ministerio Público y, en su caso, proponer al Ejecutivo del Estado lo conducente para ese efecto;
+
+VII. Encomendar a los Agentes del Ministerio Público, independientemente de sus atribuciones, el estudio de asuntos propios de la institución, así como la práctica de averiguaciones especiales o la intervención en determinados procesos;
+
+VIII. Someter a la consideración del titular del Ejecutivo Estatal el Proyecto de Presupuesto de Egresos de la Procuraduría General de Justicia;
+
+IX. Proponer al Gobernador del Estado los proyectos de iniciativas de ley y de reformas, así como los proyectos de reglamentos que estime necesarios para la eficaz procuración de justicia;
+
+X. Promover las actividades cívicas y sociales en la institución, impulsando la vinculación social en el quehacer institucional de la Procuraduría;
+
+XI. Coordinar con la autoridad correspondiente la debida ejecución de los programas de seguridad que se implementen en el Estado y vigilar el cumplimiento de los convenios de coordinación y participación que celebre el Ejecutivo del Estado con la Federación, con otros Estados o con los Ayuntamientos, en lo que concierne a su esfera de competencia;
+
+XII. Velar por el debido cumplimiento de las políticas que en materia de respeto y defensa de los derechos humanos instrumente el Gobernador del Estado, así como proveer lo necesario para la atención oportuna de las recomendaciones derivadas de los organismos de defensa de éstos;
+
+XIII. Velar por el cumplimiento de la misión encomendada al Ministerio Público, mediante la instrumentación de las acciones y los apoyos que sean necesarios para ese efecto;
+
+XIV. En coordinación con la dependencia del Poder Ejecutivo Estatal encargada de seguridad pública, llevar un archivo de identidad criminal actualizado de los sentenciados por delitos que ameriten pena corporal, con los datos e identificación del o de los sentenciados; y,
+
+XV. Las demás que le confieran otras disposiciones legales y el Gobernador del Estado.
+
+###### Artículo 13.
+
+La Secretaría Particular del Procurador General De Justicia estará a cargo de un Secretario Particular, quien tendrá las siguientes atribuciones:
+
+I. Recibir a las personas que soliciten audiencia con el Procurador, así como atender y dar cauce a los asuntos en los que se solicite la intervención de éste;
+
+II. Clasificar la información recibida en la Secretaría y canalizarla a las áreas correspondientes para su trámite y seguimiento;
+
+III. Acordar con el Procurador los asuntos que por su especial naturaleza, reserva o cuidado no sean canalizados por el procedimiento general;
+
+IV. Recibir información enviada al Procurador de las diferentes áreas y dependencias que conforman la Procuraduría;
+
+V. Realizar y supervisar los trámites correspondientes relativos a allegar oportunamente al Procurador los recursos materiales y económicos necesarios para el desempeño de sus actividades, así como llevar el control de dichos recursos;
+
+VI. Supervisar y controlar los servicios secretariales y de mensajería del personal a su cargo;
+
+VII. Coordinar y supervisar la realización de las reuniones de trabajo en las que intervenga el Procurador;
+
+VIII. Coordinar, supervisar y controlar la disponibilidad de la sala de juntas de la Procuraduría;
+
+IX. Administrar los movimientos de ingresos y egresos de la caja chica, así como del corte de caja y reporte de flujo de efectivo;
+
+X. Supervisar las actividades desarrolladas en la Secretaría Particular, realizando revisiones selectivas del trabajo y acordando sistemáticamente con el Secretario Técnico y/o con el Coordinador de Asesores;
+
+XI. Mantener vinculación constante con los Secretarios Particulares de las demás dependencias de la administración pública de los tres niveles de gobierno, para agilizar los trámites y resoluciones que atañan al Procurador;
+
+XII. Transmitir las instrucciones del Procurador a las diferentes áreas de la Procuraduría e implementar los controles necesarios para verificar su cumplimiento;
+
+XIII. Planear, organizar y ejercer las funciones de supervisión necesarias para el correcto funcionamiento de la Secretaría Particular;
+
+XIV. Autorizar los gastos generales que requiera la Secretaría Particular previa justificación correspondiente;
+
+XV. Prestar al Procurador el auxilio que en lo personal requiera para el desempeño de su cargo;
+
+XVI. Llevar y dar cuenta al Procurador de la correspondencia que se le dirija;
+
+XVII. Acordar con el Procurador el tratamiento de los diversos asuntos y correspondencia que reciba; y,
+
+XVIII. Las demás que le sean conferidas por disposición legal o le encomiende el Procurador General de Justicia.
+
+###### Artículo 14.
+
+La Secretaría Técnica del Procurador General de Justicia estará a cargo de un Secretario Técnico, quien tendrá las siguientes atribuciones:
+
+I. Llevar el control, seguimiento y cumplimiento de los acuerdos, instrucciones, reuniones e intervenciones del Procurador, e informarle periódicamente de los avances o ejecución de aquellos;
+
+II. Analizar la información remitida por diversos organismos para la celebración de reuniones de trabajo en las que intervenga el Procurador a fin de formular observaciones y sugerencias sobre los aspectos más relevantes contenidos en dicha información;
+
+III. Turnar al Procurador toda aquella documentación que, por revestir especial importancia merezca su atención o llevar su firma;
+
+IV. Llevar el control y dar seguimiento a los convenios y contratos en los que intervenga el Procurador;
+
+V. Elaborar los estudios y reportes que le sean solicitados;
+
+VI. Diseñar e implementar sistemas de organización, programación, coordinación, control y seguimiento de programas y de actividades específicas relativas a la procuración de justicia;
+
+VII. Atender asuntos específicos que le instruya el Procurador y los que en coordinación solicite el Secretario Particular;
+
+VIII. Hacer acopio de material bibliográfico o hemerográfico específico, documentos, expedientes y toda la información que sea inherente a las actividades del Procurador; y,
+
+IX. Las demás que le confieran otras disposiciones legales y el Procurador General de Justicia.
+
+###### Artículo 15.
+
+El Vocero del Procurador tendrá las atribuciones siguientes:
+
+I. Planear, formular, establecer, ejecutar, coordinar, controlar y evaluar los programas, normas y lineamientos para el cumplimiento de las políticas, estrategias y acciones que en materia de comunicación social y relaciones públicas disponga y acuerde el Procurador General de Justicia;
+
+II. Planear, coordinar, implementar, realizar y controlar la elaboración del material informativo relacionado con las funciones del Procurador que deba ser trasmitido por los diversos medios de comunicación social;
+
+III. Coordinar, dirigir, procesar, efectuar y supervisar la difusión en los distintos medios de comunicación social, de toda aquella información y comunicados relativos a las diversas acciones y asuntos en que intervenga el Procurador General de Justicia;
+
+IV. Obtener, analizar, sintetizar, dar seguimiento y compilar la información que los medios de comunicación produzcan y que sea de interés o relacionada para con las actividades y persona del Procurador General de Justicia, haciéndoselas de su conocimiento de manera inmediata;
+
+V. Establecer, operar y mantener la necesaria vinculación con los medios de difusión y sus representantes, para enterarlos sobre las actividades sobresalientes realizadas por el Procurador General de Justicia dentro de sus atribuciones, y que incidan en los fines superiores de la Procuración de Justicia;
+
+VI. Organizar, coordinar, supervisar y asesorar durante su realización las conferencias de prensa, entrevistas y participaciones en programas televisivos o radiofónicos del Procurador General de Justicia;
+
+VII. Disponer e instrumentar las acciones y actividades que el orden profesional de la comunicación social conlleva, en relación con la imagen institucional del Procurador General de Justicia; y,
+
+VIII. Las demás que le confieran otras disposiciones legales o el Procurador General de Justicia.
+
+###### Artículo 16.
+
+La Unidad de Vinculación y Comunicación Social estará a cargo de un Jefe, quien tendrá las atribuciones siguientes:
+
+I. Preparar y realizar los servicios de información de la Procuraduría General de Justicia;
+
+II. Difundir oportunamente las actividades relevantes que realice la Procuraduría General de Justicia;
+
+III. Elaborar, ejecutar y dar difusión a los programas cívicos y culturales del Ministerio Público;
+
+IV. Captar, analizar y procesar la información de los medios de comunicación relativos a los acontecimientos de interés para la institución del Ministerio Público;
+
+V. Establecer relaciones con los medios de difusión y organismos representativos de los sectores sociales, con objeto de integrarlos a las tareas del Ministerio Público en materia de justicia y seguridad pública;
+
+VI. Proporcionar a los medios de comunicación la información sobre el desarrollo de las actividades de la Procuraduría General de Justicia, previa autorización directa de su titular, a efecto de no entorpecer investigaciones sobre la comisión de hechos delictuosos;
+
+VII. Difundir las actividades relevantes de la Procuraduría General de Justicia, a través de una publicación periódica;
+
+VIII. Planear, organizar y realizar foros de consulta popular a efecto de fortalecer el sistema de justicia y la seguridad pública;
+
+IX. Dirigir las relaciones públicas de las áreas de la Procuraduría General de Justicia; y,
+
+X. Las demás que le confieran otras disposiciones legales o el Procurador General de Justicia.
+
+###### Artículo 17.
+
+La Coordinación de Asesores estará a cargo de un Coordinador, quien tendrá las siguientes atribuciones:
+
+I. Realizar estudios y análisis de los asuntos que determine el Procurador General de Justicia;
+
+II. Apoyar el proceso de toma de decisiones de las áreas y dependencias que determine el Procurador General de Justicia;
+
+III. Cumplir las encomiendas específicas que el Procurador General de Justicia le asigne; y,
+
+IV. Las demás que le confieran otras disposiciones legales o el Procurador General de Justicia.
+
+###### Artículo 18.
+
+El Departamento de Estudios Institucionales estará a cargo de un Jefe de Departamento, quien tendrá las atribuciones siguientes:
+
+I. Auxiliar al Coordinador de Asesores en el cumplimiento de sus funciones y ejecutar las instrucciones que en el cumplimiento de las mismas le indique aquél;
+
+II. Estudiar y revisar el orden competencial y normativo de la institución y proponer los cambios para su actualización, su simplificación o para cubrir los vacíos regulativos que presente, propendiendo a lograr mayor eficiencia en la actividad y desarrollo institucional;
+
+III. Proporcionar, solicitar y obtener de las áreas competentes la información y documentación necesaria para el mejor ejercicio de las atribuciones y encomiendas de la Coordinación;
+
+IV. Desarrollar y controlar, auxiliándose de medios informáticos, las actividades de la Coordinación; y,
+
+V. Las demás que le confieran otras disposiciones legales y el Coordinador de Asesores.
+
+###### Artículo 19.
+
+La Unidad de Control de Confianza estará a cargo de un Jefe, quien se auxiliará por un grupo interdisciplinario de psicólogos, poligrafistas, médicos, licenciados en derecho, químicos, trabajadores sociales y demás especialistas en las diversas ramas necesarias para el desempeño de los servidores públicos de la institución, quien tendrá las siguientes atribuciones:
+
+I. Practicar las investigaciones conducentes para verificar que los servidores públicos de la institución cumplan con los principios de legalidad, eficiencia, profesionalismo, honradez, imparcialidad y respeto a los derechos humanos, previstos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado, en la Ley Orgánica del Ministerio Público y en la Ley de Responsabilidades de los Servidores Públicos del Estado, así como los de lealtad, probidad y confianza para con la Institución, en todas sus actividades internas o externas mientras pertenezcan a la misma;
+
+II. Diseñar, implementar, efectuar, dirigir, dar seguimiento, coordinar y calificar los procesos de evaluación y de verificación periódica, para el control de confianza de los servidores públicos de la Institución, conforme al presente Reglamento y otras disposiciones legales aplicables;
+
+III. Promover y participar en la revisión, actualización y fijación de los perfiles requeridos en los puestos de la institución, a fin de normar la selección y evaluación del personal aspirante y en activo;
+
+IV. Participar en las actividades de evaluación de los aspirantes a ingresar a la Procuraduría a fin de que reúnan los requisitos de aptitud y capacidad, en estricto apego a las necesidades que formulen las unidades administrativas de la institución, sin perjuicio de las evaluaciones que sean competencia de otras entidades de la institución;
+
+V. Comunicar al Procurador General de Justicia los resultados de las investigaciones y evaluaciones que se practiquen, recomendando las medidas necesarias para asegurar la confiabilidad y eficiencia del personal de la institución;
+
+VI. Establecer y controlar una base de datos que contenga los resultados de los procesos de investigación y evaluación de cada una de las personas a quienes se les haya practicado, conformando un expediente personal de cada servidor público que se mantendrá en el archivo correspondiente;
+
+VII. Coordinar, ejecutar, vigilar y supervisar las actividades de seguimiento y evaluación de las conductas y desempeño del personal de la institución, controlando la estadística de este proceso y desarrollando los informes y reportes atingentes; y,
+
+VIII. Las demás que le confieran otras disposiciones legales y el Procurador General de Justicia.
+
+Los procesos de evaluación serán iniciales, permanentes, periódicos y obligatorios para todos los servidores públicos de la Procuraduría General de Justicia, así como para quienes pretendan ingresar o reingresar a la misma.
+
+Los citados procesos de evaluación consistirán, entre otros, en la aplicación de exámenes de aptitud física, médicos, toxicológicos, químicos, psicológicos, psiquiátricos, de entorno social, situación patrimonial, poligráfico y los señalados en otras disposiciones aplicables.
+
+Los servidores públicos serán citados para la práctica de las evaluaciones; en caso de inasistencia sin causa justificada, se tendrá por no acreditada la evaluación. Quienes no aprueben las evaluaciones dejarán de prestar sus servicios a la institución.
+
+###### Artículo 20.
+
+El Departamento de Investigación estará a cargo de un Jefe, quien tendrá las facultades y obligaciones siguientes:
+
+I. Planear, coordinar, efectuar, documentar y dar seguimiento a los procesos de investigación del personal, a fin de establecer, asegurar y mantener su confiabilidad y la congruencia con los perfiles de actuación institucional;
+
+II. Definir y sujetar los procesos de investigación de la confiabilidad del personal que la Unidad inicie a los límites estrictos que las leyes establezcan, señalando las acciones y lineamientos que deberán seguirse para dicho efecto;
+
+III. Planear, instrumentar, efectuar, documentar y dar seguimiento a las investigaciones pertinentes para obtener cualquier otra información que requiera la Unidad de Control de Confianza para cumplir con sus fines, así como organizarla, compilarla y analizarla para su correcta utilización. La información podrá solicitarla y se le deberá proporcionar dentro de sus facultades legales por los demás órganos de la institución de quienes se requiera; y,
+
+IV. Las demás que le confieran otras disposiciones legales y el Jefe de la Unidad.
+
+###### Artículo 21.
+
+El Departamento de Evaluación estará a cargo de un Jefe, quien tendrá las facultades y obligaciones siguientes:
+
+I. Planear, operar, certificar, supervisar y realizar el seguimiento y evaluación del perfil de confianza de los servidores públicos de la institución y de los que pretendan su ingreso o reingreso;
+
+II. Planear, instrumentar, efectuar, operar, documentar y dar seguimiento a las evaluaciones para el Control de Confianza del Personal de ingreso, reingreso o en activo, mediante el uso del polígrafo y demás medios y exámenes que sean necesarios;
+
+III. Planear, organizar, efectuar, desarrollar y documentar estudios médicos al personal de ingreso, reingreso o en activo de la institución;
+
+IV. Planear, organizar, efectuar, documentar y dar seguimiento a estudios socioeconómicos del personal de ingreso, reingreso o en activo de la institución; y,
+
+V. Las demás que le confieran otras disposiciones legales o el Jefe de la Unidad.
+
+###### Artículo 22.
+
+El Departamento de Sistemas estará a cargo de un Jefe, quien tendrá las facultades y obligaciones siguientes:
+
+I. Planear, organizar, diseñar, operar, mantener y actualizar los programas informáticos que sean requeridos para conformar la base de datos con la información obtenida de las actividades competenciales desempeñadas por la Unidad de Control de Confianza y la configuración de los expedientes personales de cada integrante de la institución. Asimismo, conformar el archivo respectivo, que al igual que la base de datos informática, deberá mantener plena y oportunamente actualizados;
+
+II. Ingresar a la base de datos, con inmediatez a su obtención, toda la información que sea obtenida por los demás Departamentos de la Unidad, observando las prevenciones que fije la Coordinación de Informática;
+
+III. Mantener estrecha coordinación, proporcionándoles asesoría y servicio a las demás áreas de la Unidad, así como tener íntima vinculación con la Coordinación de Informática en la obtención de información atingente que ésta obtenga a su vez y seguir las prevenciones y lineamientos que la misma prescriba en el orden informático, para la mayor eficacia y eficiencia; y,
+
+IV. Las demás que le confieran otras disposiciones legales y el Jefe de la Unidad.
+
+### Capítulo VIII. Del Subprocurador General de Justicia
+
+###### Artículo 23.
+
+Son facultades y obligaciones indelegables del Subprocurador General de Justicia:
+
+I. Dirigir la planeación, programación, coordinación, vigilancia y evaluación de las actividades y funcionamiento de las unidades administrativas de su adscripción, de conformidad con los lineamientos que determine el Procurador General;
+
+II. Ejecutar las directrices de procuración de justicia, que dicte el titular del ramo;
+
+III. Llevar un registro, control y seguimiento de las actividades relevantes de la institución;
+
+IV. Llevar la estadística de los delitos que se cometen en el Estado;
+
+V. Procurar la integración y manejo actualizado de un registro único de identificación criminal en el Estado, en estrecha coordinación con las dependencias competentes de seguridad pública;
+
+VI. Desempeñar las funciones y comisiones que el Procurador General le encomiende e informarle de su desarrollo;
+
+VII. Acordar con el Procurador General el despacho de los asuntos de su competencia y de las unidades administrativas a su cargo;
+
+VIII. Someter a la aprobación del Procurador General los estudios y proyectos de programas que se elaboren en las dependencias de la institución;
+
+IX. Instrumentar un sistema de evaluación y seguimiento del Programa Estatal de Procuración de Justicia, en el marco general de seguridad pública, acordando la ejecución de los mecanismos que se implementen para tal fin con el Procurador General; y,
+
+X. Las demás que le confieran otras disposiciones legales o el Procurador General de Justicia.
+
+###### Artículo 24.
+
+El Departamento de Información y Estadística estará a cargo de un Jefe, quien tendrá las facultades y obligaciones siguientes:
+
+I. Recibir, registrar, revisar, analizar y clasificar la información que proporcionen las diversas dependencias al Subprocurador General de Justicia;
+
+II. Solicitar, obtener, registrar y procesar la información que de las actividades a cargo de la institución requiera el Subprocurador General de Justicia para el ejercicio de sus funciones;
+
+III. Instrumentar el archivo y mantenerlo actualizado, tanto físico y documental, como mediante los apoyos informáticos y de computación; y,
+
+IV. Las demás que le confieran otras disposiciones legales y el Subprocurador General de Justicia.
+
+### Capítulo IX. De los Subprocuradores Regionales de Justicia
+
+###### Artículo 25.
+
+Son facultades y obligaciones indelegables de los Subprocuradores Regionales de Justicia:
+
+I. Representar a la Procuraduría General de Justicia en los municipios de su adscripción, sin perjuicio de que dicha representación pueda ser asumida directamente por el Procurador General;
+
+II. Establecer su residencia en el lugar indicado en la Ley Orgánica del Ministerio Público del Estado;
+
+III. Coordinar y vigilar, en los Municipios de su adscripción, las actividades y el debido funcionamiento de las áreas administrativas de la Procuraduría General de Justicia, de acuerdo con las atribuciones que a cada uno de los servidores públicos corresponda, para el buen ejercicio de la representación social, conforme a las directrices que establezca el Procurador General;
+
+IV. Dirigir, en su jurisdicción, a la Policía Ministerial, por sí o por conducto del Agente del Ministerio Público que corresponda, vigilando que los Agentes de esa corporación actúen con estricto apego a derecho;
+
+V. Practicar las averiguaciones previas que les encomiende el Procurador General de Justicia;
+
+VI. Realizar visitas a las Agencias del Ministerio Público, áreas de Servicios Periciales y Partidas de la Policía Ministerial de su adscripción;
+
+VII. Solicitar la intervención de la Contraloría Interna, cuando detecten probables irregularidades de los servidores públicos de su adscripción, dando cuenta inmediata de ello al Subprocurador General;
+
+VIII. Proponer al Subprocurador General, acciones y mecanismos de coordinación que coadyuven al Sistema de Procuración de Justicia en el ámbito de su jurisdicción;
+
+IX. Proveer lo necesario para la adecuada integración y correcto funcionamiento de las Agencias del Ministerio Público de su adscripción;
+
+X. Coordinar las actividades de los Departamentos a su cargo, verificando la aplicación de los lineamientos de organización, funcionamiento, operativos y procedimentales de las Direcciones de Averiguaciones Previas, Control de Procesos y Policía Ministerial del Estado; y,
+
+XI. Las demás que les confieran otras disposiciones legales o el Procurador General de Justicia.
+
+###### Artículo 26.
+
+Son facultades y obligaciones de los Departamentos de Averiguaciones Previas:
+
+I. Coordinar y supervisar las actividades de las Agencias del Ministerio Público de la adscripción, conforme a los lineamientos de la Subprocuraduría Regional respectiva y de la Dirección de Averiguaciones Previas;
+
+II. Practicar las averiguaciones previas que les encomiende el Subprocurador Regional de Justicia respectivo;
+
+III. Prevenir y abatir el rezago de averiguaciones previas en las Agencias del Ministerio Público de la adscripción, de conformidad con los lineamientos emitidos por la Dirección de Averiguaciones Previas;
+
+IV. Elaborar y proponer a la Dirección de Averiguaciones Previas programas especiales para la eficiencia y expeditez en la integración de averiguaciones previas en las Agencias del Ministerio Público de la adscripción;
+
+V. Emitir y suscribir los dictámenes correspondientes respecto de las averiguaciones previas que remitan en consulta los Agentes del Ministerio Público de su adscripción, y en las cuales propongan:
+
+a) La reserva de las averiguaciones previas, por falta de elementos para determinar el ejercicio de la acción penal; y,
+
+b) El no ejercicio de la acción penal;
+
+VI. Recibir, registrar y dar el curso legal a las denuncias y querellas que se presenten en la Subprocuraduría Regional de Justicia correspondiente;
+
+VII. Llevar el registro, control y seguimiento de las averiguaciones previas que se inicien e integren en las Agencias del Ministerio Público de la adscripción; y,
+
+VIII. Las demás que les confieran otras disposiciones legales y el Subprocurador Regional de Justicia, así como el Director de Averiguaciones Previas por conducto de aquél.
+
+###### Artículo 27.
+
+Son facultades y obligaciones de los Departamentos de Control de Procesos:
+
+I. Coordinar y supervisar las actividades de los Agentes del Ministerio Público adscritos a los Juzgados Penales, Civiles y Familiares del orden común de sus áreas de influencia, conforme a los lineamientos de la Dirección de Control de Procesos;
+
+II. Mantener el control y seguimiento de los procesos penales del fuero común, así como de los juicios civiles y familiares en que deban intervenir los Agentes del Ministerio Público adscritos a los tribunales del orden común en la adscripción respectiva;
+
+III. Elaborar y proponer a la Dirección de Control de Procesos, por conducto de la Subprocuraduría Regional, los programas tendientes a dar eficiencia y expeditez a la actuación de los Agentes del Ministerio Público adscritos a los Juzgados Penales, Civiles y Familiares del orden común, en la adscripción correspondiente;
+
+IV. Dictaminar sobre los pedimentos efectuados por los Agentes del Ministerio Público, cuando en ellos se proponga la formulación de conclusiones no acusatorias; y,
+
+V. Las demás que les confieran otras disposiciones legales y el Subprocurador Regional de Justicia, así como el Director de Control de Procesos por conducto de aquél.
+
+###### Artículo 28.
+
+Son facultades y obligaciones de los Departamentos de Servicios Periciales:
+
+I. Coordinar las actividades de los Peritos oficiales que presten sus servicios en la adscripción;
+
+II. Llevar el registro, control y seguimiento de los servicios periciales en la zona de adscripción;
+
+III. Formular y proponer a la Dirección de Investigación Criminalística y Servicios Periciales, por conducto del Subprocurador Regional, programas orientados a la eficiencia y expeditez de los servicios periciales en el área de influencia; y,
+
+IV. Las demás que les confieran otras disposiciones legales o el Subprocurador Regional de Justicia, así como la Dirección de Investigación Criminalística y Servicios Periciales, por conducto de aquél.
+
+### Capítulo X. De la Dirección de Averiguaciones Previas
+
+###### Artículo 29.
+
+Son facultades y obligaciones indelegables del Director de Averiguaciones Previas:
+
+I. Dirigir la planeación, organización, programación, coordinación, registro, vigilancia y evaluación de las actividades y el funcionamiento de las áreas básicas a su cargo;
+
+II. Vigilar que se cumplan las reglas de la preparación de la acción penal a que se refiere el Código de Procedimientos Penales para el Estado;
+
+III. Mantener un estricto control y seguimiento de las averiguaciones previas que se inicien, practiquen y resuelvan, proveyendo a que la secuela de las mismas se haga con toda la regularidad, a efecto de evitar rezagos, rindiendo informe integral estadístico diario y mensual de los movimientos realizados;
+
+IV. Practicar las averiguaciones previas que le encomiende el Procurador General;
+
+V. Instruir y proveer lo necesario para el perfeccionamiento técnico y jurídico en la integración de las averiguaciones previas;
+
+VI. Instrumentar los medios de supervisión y control necesarios para verificar la adecuada integración de averiguaciones previas, a fin de hacer más ágiles y eficientes las labores de los Agentes del Ministerio Público investigadores;
+
+VII. Mantener vinculación permanente y realizar reuniones periódicas con el Director de Control de Procesos, a efecto de intercambiar información y acordar la actuación conducente y oportuna a fin de llevar a cabo el ofrecimiento y desahogo ante los Tribunales Jurisdiccionales, de aquellas probanzas que fortaleciendo la acción persecutoria no fueron recabadas en la averiguación previa;
+
+VIII. Examinar, en coordinación con el titular de la Dirección de Control de Procesos, las principales causas e incidencias de las resoluciones adversas a las peticiones que los Agentes del Ministerio Público investigadores formulen a los jueces de la materia en sus pliegos de consignación, al ejercitar la acción penal de su competencia; celebrando reuniones periódicas con los Agentes para el análisis de la información y determinación de las medidas correctivas del caso;
+
+IX. Implantar las medidas y mecanismos que sean conducentes para asegurar que las Agencias del Ministerio Público se encuentren siempre integradas con el personal que en carácter de permanente consigna la Ley Orgánica;
+
+X. Establecer lineamientos básicos y definir y uniformar criterios para la revisión, análisis y resolución que deban emitirse respecto de las consultas que formulen los Agentes del Ministerio Público sobre propuestas de resoluciones en las averiguaciones previas, y que deban ser dictaminadas por los Departamentos de Averiguaciones Previas de las Subprocuradurías Regionales de Justicia;
+
+XI. Proveer, controlar y supervisar los mecanismos que operan las detenciones ministeriales preventivas;
+
+XII. Proveer, vigilar y supervisar lo relativo con el aseguramiento de instrumentos, objetos o productos del delito, bienes recuperados o que causen abandono; y,
+
+XIII. Las demás que le confieran otros ordenamientos legales y el Procurador General de Justicia.
+
+###### Artículo 30.
+
+Son facultades y obligaciones de la Coordinación de Averiguaciones Previas:
+
+I. Auxiliar al Director de Averiguaciones Previas en el cumplimiento de sus funciones;
+
+II. Ejecutar las instrucciones que en el cumplimiento de sus funciones le indique el Director de Averiguaciones Previas;
+
+III. Ejercer vigilancia y control de los Departamentos de la Dirección de Averiguaciones Previas y Agencias del Ministerio Público, dando cuenta a su titular de las deficiencias e irregularidades que advierta;
+
+IV. Disponer lo conducente a efecto de que las Agencias del Ministerio Público se encuentren integradas siempre por el personal que establece la Ley Orgánica;
+
+V. Proporcionar, solicitar y obtener de las áreas competentes la información y documentación necesaria para el mejor ejercicio de las atribuciones;
+
+VI. Desarrollar y controlar, con auxilio de medios informáticos, la estadística integral de averiguaciones previas en el Estado, manteniendo actualizada la situación que aquellas guardan; y,
+
+VII. Las demás que le confieran otras disposiciones legales y el Director de Averiguaciones Previas.
+
+###### Artículo 31.
+
+Son facultades y obligaciones del Departamento de Registro, Control y Seguimiento de Averiguaciones Previas:
+
+I. Llevar el registro, control y seguimiento de las averiguaciones previas que se practiquen en las Agencias del Ministerio Público y demás dependencias de la Procuraduría General de Justicia;
+
+II. Llevar copia de las averiguaciones previas que se practiquen en las Agencias del Ministerio Público de la Entidad;
+
+III. Elaborar y proponer sistemas de registro, control y seguimiento de las averiguaciones previas, para eficientar la investigación ministerial de delitos;
+
+IV. Supervisar la integración de averiguaciones previas;
+
+V. Llevar el seguimiento de las averiguaciones previas consignadas a los Juzgados Penales, para informarse de las resoluciones principales que se dicten en los procesos, en coordinación con la dependencia competente de la Dirección de Control de Procesos; y,
+
+VI. Las demás que le confieran otras disposiciones legales, el Coordinador o el Director de Averiguaciones Previas.
+
+###### Artículo 32.
+
+Son facultades y obligaciones del Departamento de Integración de Averiguaciones Previas y Consultoría:
+
+I. Integrar y resolver las averiguaciones previas que le encomiende el Director de Averiguaciones Previas;
+
+II. Recepcionar, atender y desahogar toda clase de consultas que formulen los Agentes del Ministerio Público, sobre aspectos que no sean de la competencia de alguna otra instancia de la institución y que estén relacionados con la integración y resolución de averiguaciones previas;
+
+III. Llevar el registro, control y seguimiento de las consultas de los Agentes del Ministerio Público, así como de las respuestas que al respecto se emitan por la Dirección de Averiguaciones Previas;
+
+IV. Instruir y dar a conocer a los Departamentos de Averiguaciones Previas de las Subprocuradurías Regionales de Justicia y a los Agentes del Ministerio Público los lineamientos y criterios que deben observarse para el más eficaz y legal ejercicio de la acción penal, así como aquellos que determinen las Subprocuradurías Regionales al dictaminarse las propuestas de reserva del expediente por falta de datos o de no ejercicio de la acción penal; y,
+
+V. Las demás que le confieran otras disposiciones legales, el Coordinador o el Director de Averiguaciones Previas.
+
+###### Artículo 33.
+
+El Jefe de la Unidad de Bienes Asegurados tendrá las siguientes atribuciones:
+
+I. Vigilar que los Agentes del Ministerio Público cumplan los criterios y normas legales en materia de aseguramiento de bienes, objetos y productos del delito y de aquellos bienes relacionados con su comisión o que hayan causado abandono, y proveer lo concerniente para el registro, control, clasificación, conservación, custodia, administración y destino final de éstos, en las más estrictas condiciones de legalidad, transparencia y eficacia;
+
+II. Recibir las actas de aseguramiento, inventarios y los bienes asegurados y recuperados que le deberán remitir los Agentes del Ministerio Público;
+
+III. Realizar la clasificación necesaria de los bienes asegurados, recuperados y que causaren abandono para garantizar la mejor administración de los mismos;
+
+IV. Proponer, instrumentar y controlar los sistemas de administración, conservación, control, entrega y destino final de los bienes asegurados, recuperados y que causen abandono;
+
+V. Inventariar y almacenar los bienes asegurados, recuperados y que causaren abandono en los términos de la legislación aplicable;
+
+VI. Tomar las medidas conducentes para conservar en buen estado los bienes asegurados, recuperados y que causen abandono hasta su entrega a quien tenga derecho o, en su caso, su enajenación;
+
+VII. Entregar los bienes asegurados, recuperados y abandonados, cuando legalmente proceda, a la autoridad judicial, a quien acredite tener derecho sobre el bien o al Fondo de Apoyo a la Procuración de Justicia del Estado de Sinaloa;
+
+VIII. Proveer, indicar, registrar, controlar, vigilar, verificar, supervisar y dar seguimiento a las actividades relativas a la designación y desempeño de depositarios, interventores y administradores de bienes asegurados, recuperados y que causen abandono; así como respecto de la constitución de garantías y contratación de seguros suficientes, para el caso de daños, pérdida o uso indebido de aquellos bienes y la situación jurídica y material que guarden;
+
+IX. Fungir como enlace de la Procuraduría con las autoridades competentes en materia de administración de bienes asegurados y establecer los mecanismos de coordinación necesarios para el mejor desempeño de sus funciones, obteniendo las aprobaciones correspondientes de la superioridad en su caso;
+
+X. Requerir a los Agentes del Ministerio Público informes y la documentación relativa, sobre el aseguramiento decretado de bienes, la situación jurídica de estos y el estado que guarden lo cual verificará sobre esas bases;
+
+XI. Rendir la información que sea requerida por las autoridades competentes respecto de los bienes asegurados, recuperados o que causen abandono, así como informar sobre las irregularidades que detecte en el ejercicio de sus funciones; y,
+
+XII. Las demás que le sean conferidas por disposición legal o el Procurador General de Justicia.
+
+### Capítulo XI. De la Dirección de Control de Procesos
+
+###### Artículo 34.
+
+Son facultades y obligaciones indelegables del Director de Control de Procesos:
+
+I. Mantener un estricto control y seguimiento de los procesos penales del fuero común, así como de los juicios civiles y familiares en que deba intervenir y se dé vista al Agente del Ministerio Público;
+
+II. Vigilar el debido cumplimiento de las actividades de los Agentes del Ministerio Público adscritos a los Tribunales;
+
+III. Vigilar el exacto cumplimiento del principio de legalidad y de la pronta y expedita impartición de justicia, informando al Procurador General;
+
+IV. Remitir a la Dirección de Policía Ministerial las órdenes de aprehensión, reaprehensión, comparecencia, arresto, presentación y cateo y llevar un estricto control y seguimiento de las mismas;
+
+V. Dictaminar sobre los pedimentos de los Agentes del Ministerio Público, cuando en ello se proponga la formulación de conclusiones no acusatorias;
+
+VI. Instruir lo procedente para la tramitación de los cambios de radicación de procesos;
+
+VII. Estudiar y analizar las solicitudes de desistimiento de la acción penal propuestas, y dictaminar sobre la procedencia o improcedencia de las mismas;
+
+VIII. Tramitar, ante la autoridad competente, los traslados de internos cuando convenga al interés público;
+
+IX. Implementar los mecanismos y procedimientos que se precisen para hacer llegar a la Dirección de Investigación Criminalística y Servicios Periciales, la información que ésta requiera para la emisión de certificados o constancias de antecedentes penales; y,
+
+X. Las demás que le confieran otras disposiciones legales o el Procurador General de Justicia.
+
+###### Artículo 35.
+
+Son facultades y obligaciones del Departamento de Registro, Control y Seguimiento de Procesos:
+
+I. Llevar y mantener actualizado el registro, control y seguimiento de los procesos penales del orden común que se inicien en los Tribunales del Estado;
+
+II. Llevar y mantener actualizado el registro, control y seguimiento de las intervenciones de los Agentes del Ministerio Público en juicios civiles y familiares, y en aquellos en los que por disposición legal haya de intervenir;
+
+III. Elaborar y proponer sistemas administrativos y jurídicos para el mejoramiento del registro, control y seguimiento de los asuntos jurisdiccionales en que intervengan los Agentes del Ministerio Público; y,
+
+IV. Las demás que le confieran otras disposiciones legales, el Coordinador o el Director de Control de Procesos.
+
+###### Artículo 36.
+
+Son facultades y obligaciones del Departamento de Conclusiones y Estudios Procesales:
+
+I. Formular y proponer los pliegos de conclusiones en los casos en que la autoridad judicial de vista al Procurador General de Justicia, en las hipótesis señaladas por el Código de Procedimientos Penales, así como en los casos que el Director de Control de Procesos le indique;
+
+II. Revisar la debida elaboración de las conclusiones en los procesos penales del fuero común del Estado y comunicar al Director de Control de Procesos aquellos casos en los que se observen irregularidades en detrimento de la procuración de justicia;
+
+III. Revisar las sentencias dictadas en los procesos penales y civiles en los que tenga intervención el Ministerio Público, donde no se hubiese interpuesto el recurso de apelación, haciendo las observaciones que correspondan al Director de Control de Procesos en aquellos casos en que se considere pertinente;
+
+IV. Realizar los estudios y formular las opiniones procedentes sobre procesos determinados que le instruya el Director de Control de Procesos;
+
+V. Instrumentar los cambios de radicación de procesos solicitados para garantizar la seguridad de los procesados y posibles fugas de reos;
+
+VI. Realizar los trámites sobre el desistimiento de la acción penal, en los casos que lo ordene el Procurador General de Justicia;
+
+VII. Realizar los trámites pertinentes para la remisión a Policía Ministerial de las órdenes de aprehensión, reaprehensión y de comparecencia, expedidas por las autoridades judiciales del fuero común, así como también de los oficios de colaboración remitidos por las Procuradurías Generales de Justicia de las Entidades Federativas, formando el respectivo expediente para el debido seguimiento;
+
+VIII. Realizar los trámites para la expedición de oficios de colaboración sobre órdenes de aprehensión y reaprehensión que puedan ejecutarse en el extranjero, solicitando la certificación de las constancias y preceptos legales aplicables y la legalización de firmas de los funcionarios judiciales; y,
+
+IX. Las demás que le confieran otras disposiciones legales, el Coordinador o el Director de Control de Procesos.
+
+###### Artículo 37.
+
+Son facultades y obligaciones del Departamento de Agravios:
+
+I. Estudiar los expedientes formados en segunda instancia con motivo de la interposición de los recursos procedentes por parte de los Agentes del Ministerio Público adscritos a los Juzgados de Primera Instancia de los Ramos Penal, Civil y Familiar, y formular, en su caso, los agravios conducentes;
+
+II. Estudiar y contestar los agravios expresados por defensores o acusados en tocas penales, civiles y familiares, formados en segunda instancia;
+
+III. Registrar y mantener actualizado el libro de gobierno de los tocas formados con motivo de los recursos interpuestos;
+
+IV. Elaborar informes para el Director de Control de Procesos de aquellos asuntos donde no se expresen agravios, y cuando por deficiencias de los Agentes del Ministerio Público las resoluciones judiciales resulten adversas a la debida procuración de justicia; y,
+
+V. Las demás que le confieran otras disposiciones legales, el Coordinador o el Director de Control de Procesos.
+
+### Capítulo XII. De la Dirección Jurídica Consultiva
+
+###### Artículo 38.
+
+Son facultades y obligaciones indelegables del Director Jurídico Consultivo:
+
+I. Dirigir la coordinación, organización y evaluación de las actividades y el funcionamiento de las áreas básicas de apoyo a su cargo;
+
+II. Estudiar los asuntos sobre los que deba emitir su opinión el Procurador General, formulando los dictámenes respectivos;
+
+III. Desahogar las consultas internas de la institución que no estén encomendadas a otra dependencia;
+
+IV. Dirigir, al interior de la institución, los estudios sobre la legislación del Estado, formulando los anteproyectos que se requieran;
+
+V. Revisar los informes y toda clase de escritos que deban presentarse en los juicios de amparo interpuestos en contra de las autoridades y dependencias de la institución, a excepción de las Agencias del Ministerio Público, a las que asesorará en los casos en que lo soliciten;
+
+VI. Proponer lo conducente al Procurador General de Justicia para resolver las diferencias de criterios de interpretación normativa y doctrinal que surjan en las unidades administrativas de la institución;
+
+VII. Revisar proyectos de manuales, acuerdos, circulares y demás disposiciones normativas internas que se pretendan emitir para facilitar el desempeño de las funciones del Ministerio Público, por indicación del Procurador o que considere debe expedir éste, para ser sometido a su aprobación;
+
+VIII. Estudiar los problemas generales y especiales sobre legislación, reglamentación y elaboración de otras disposiciones administrativas relacionadas con la actividad de la institución;
+
+IX. Formular los proyectos de resolución que procedan con motivo de la interposición ante el Procurador General de Justicia de recursos de inconformidad contra resoluciones de no ejercicio de la acción penal de los Agentes del Ministerio Público;
+
+X. Revisar los proyectos de circulares y demás ordenamientos administrativos internos que formulen las demás dependencias y unidades administrativas de la institución, que deben ser firmados por el Procurador General;
+
+XI. Coordinar los trabajos y proyectos de naturaleza normativa que se les encomiende a las dependencias y demás unidades administrativas de la institución; y,
+
+XII. Las demás que le confieran otras disposiciones legales o el Procurador General de Justicia.
+
+###### Artículo 39.
+
+Son facultades y obligaciones del Departamento de Amparos:
+
+I. Recibir las notificaciones de demandas de los juicios de amparo que se promuevan contra el Procurador, los Subprocuradores, los Directores y demás servidores públicos de la institución, así como estudiar dichas demandas, preparar, revisar y entregar los informes y escritos que deban presentarse para la adecuada defensa de los intereses de la institución;
+
+II. Preparar opiniones para las dependencias de la institución en materia de amparo, cuando éstas sean señaladas como responsables en los juicios respectivos;
+
+III. Llevar y mantener actualizado el registro de los juicios de amparo que se promuevan contra las autoridades de la institución; y,
+
+IV. Las demás que le confieran otras disposiciones legales y el Director Jurídico Consultivo.
+
+###### Artículo 40.
+
+Son facultades y obligaciones del Departamento Consultivo y de Estudios Legislativos:
+
+I. Desahogar las consultas internas de la institución que le indique el Director Jurídico Consultivo;
+
+II. Compilar y estudiar la legislación del Estado, para formular los anteproyectos de iniciativas de reformas o adiciones que indique el Procurador General o para proponerlos a éste, así como formular proyectos de resolución de los recursos de inconformidad, interpuestos ante aquel, contra resoluciones de no ejercicio de la acción penal dictadas por los Agentes del Ministerio Público y dictaminadas por el Subprocurador Regional de Justicia competente;
+
+III. Formular los proyectos de instructivos, acuerdos, circulares y demás instrumentos normativos que le indique el Director Jurídico Consultivo, por acuerdo del Procurador, para facilitar el desempeño de las funciones del Ministerio Público;
+
+IV. Compilar y estudiar la normatividad que rige a la institución, para identificar los aspectos susceptibles de mejorarse y proponer lo conducente;
+
+V. Revisar, por instrucciones del Director Jurídico Consultivo los anteproyectos de instrumentos normativos que propongan las demás dependencias de la institución; y,
+
+VI. Las demás que le confieran otras disposiciones legales o el Director Jurídico Consultivo.
+
+### Capítulo XIII. De la Dirección de Planeación, Desarrollo y Atención Ciudadana
+
+###### Artículo 41.
+
+Son facultades y obligaciones indelegables del Director de Planeación, Desarrollo y Atención Ciudadana:
+
+I. Dirigir la planeación, programación, coordinación, supervisión y evaluación de las actividades y funcionamiento de las áreas a su cargo;
+
+II. Preparar y rendir los informes de avances y ejecución del Programa Estatal de Procuración de Justicia;
+
+III. Elaborar y proponer los proyectos de planes y programas de actividades de la institución y, en particular, sobre las causas, los lugares de su comisión, el impacto social que producen, costo y formas de comisión de los delitos que se cometen en la Entidad y desarrollar estrategias para su prevención y combate;
+
+IV. Someter a consideración del Procurador General los proyectos de planes y programas para la formación, capacitación, actualización y profesionalización de los servidores públicos de la institución, así como su desarrollo personal que, enunciativamente, comprenderá los aspectos de relaciones públicas, toma de decisiones, imagen y comunicación social, calidad total y otros de semejante naturaleza;
+
+V. Proveer lo relativo al procesamiento y análisis de la información con que cuenta la institución, fijando criterios, mecanismos y estrategias que la recaben oportuna y precisadamente, desarrollando los sistemas de estadística e información criminal, identificación policíaca e incidencia delictiva;
+
+VI. Instrumentar lo conducente a efecto de lograr una eficiente atención y protección institucional a víctimas u ofendidos de delitos y sus familiares, estableciendo los lineamientos para dotarles de aquella atención y protección o, en su caso, encausándolas a instituciones especializadas;
+
+VII. Establecer los criterios para otorgar asesoría jurídica gratuita, atención médica y psicológica, apoyos materiales cuando proceda y protección física o de seguridad cuando se requiera, así como proporcionar lo anterior a las víctimas u ofendidos de delitos, por conducto de las unidades correspondientes de la institución;
+
+VIII. Establecer, promover, apoyar, coadyuvar y difundir acciones para el auxilio y tratamiento de personas con problemas de farmacodependencia y alcoholismo, así como de localización a personas extraviadas o ausentes;
+
+IX. Instrumentar, promover y convenir en su caso acciones de apoyo para víctimas u ofendidos de delitos, ante organismos públicos y privados, así como en coordinación con otras áreas competentes de la Procuraduría, particularmente en lo que corresponde a que se les haga efectiva reparación de los daños y perjuicios por el delito;
+
+X. Aplicar, controlar y supervisar el auxilio y atención a víctimas u ofendidos de delitos y a personas relacionadas con los mismos, respecto de la protección física o de seguridad que sean necesaria y procedente para aquellos, operándola en su caso por conducto de los Agentes de la Policía Ministerial que le estén adscritos;
+
+XI. Instrumentar los lineamientos y mecanismos necesarios para recepcionar y atender las solicitudes directas o telefónicas, identificadas o anónimas, de auxilio o denuncia de hechos, dándoles el seguimiento correspondiente;
+
+XII. Diseñar, aplicar y dar seguimiento a las políticas, programas y acciones de la institución en materia de prevención del delito, evaluando periódicamente los resultados;
+
+XIII. Promover el fomento de la cultura de prevención del delito en la población, abarcando la participación de los sectores público, social y privado, proponiendo a las autoridades correspondientes y a la comunidad los programas y acciones de prevención del delito;
+
+XIV. Proponer y promover con las instituciones educativas, su colaboración en la aplicación de programas y acciones de prevención del delito en los planes de estudio de los educandos y directas para con estos últimos;
+
+XV. Elaborar y difundir material documental, videográfico y demás semejante, respecto a la prevención del delito;
+
+XVI. Instrumentar, supervisar y desarrollar la vinculación e intercambio de información y experiencias con instituciones y organizaciones privadas o públicas, nacionales o extranjeras, en materia de prevención del delito de acuerdo con los criterios que fije el Procurador, así como difundir según le compete las acciones que en la materia de prevención del delito recomienden los organismos internacionales de los que nuestro país sea parte;
+
+XVII. Desarrollar y aplicar los programas y acciones de la Procuraduría en materia de atención ciudadana y participación social, y asimismo difundirlos entre la población;
+
+XVIII. Desarrollar y dar seguimiento a la vinculación de la Procuraduría con instituciones sociales, públicas o privadas, para la difusión y colaboración participativa de programas de orientación e información sobre las atribuciones de la institución;
+
+XIX. Promover e impulsar las acciones adecuadas para facilitar a la población el acceso a los servicios de procuración de justicia;
+
+XX. Instrumentar los lineamientos para otorgar atención a la ciudadanía en las diversas dependencias de la Procuraduría, así como registrar, controlar, supervisar y evaluar su prestación;
+
+XXI. Proveer, instrumentar y supervisar las acciones adecuadas para el desarrollo de las funciones previstas en el artículo 8 de la Ley Orgánica del Ministerio Público, en materia de derechos humanos, promoviendo su cumplimiento y garantía, junto al fomento entre los servidores públicos de una cultura de respeto a tales derechos; y,
+
+XXII. Las demás que le confieran otras disposiciones legales o el Procurador General de Justicia.
+
+###### Artículo 42.
+
+La Coordinación de Informática estará a cargo de un Coordinador, quien tendrá las facultades y obligaciones siguientes:
+
+I. Planear, programar, coordinar, vigilar y evaluar las actividades y funcionamiento de las áreas de su adscripción;
+
+II. Organizar y proporcionar la información y estadística que le pidan el Procurador General, el Subprocurador General y el Director de Planeación, Desarrollo y Atención Ciudadana;
+
+III. Guardar y hacer guardar entre el personal a su mando, estricta confidencialidad de la información y demás datos materia de sus funciones;
+
+IV. Mantener estrecha coordinación con las unidades y áreas administrativas de la institución, proporcionando la asesoría y servicios que requieran;
+
+V. Acordar con el Director de Planeación, Desarrollo y Atención Ciudadana, los asuntos de su competencia; y,
+
+VI. Las demás que le confieran las leyes u otros ordenamientos y las que le encomienden el Procurador General o el Director de Planeación, Desarrollo y Atención Ciudadana.
+
+###### Artículo 43.
+
+Son facultades y obligaciones del Departamento de Enlace al Sistema de Seguridad Pública:
+
+I. Capturar y proporcionar los datos relativos a seguridad pública y procuración de justicia;
+
+II. Supervisar el flujo de información relacionada con la seguridad pública y la procuración de justicia;
+
+III. Participar, previo acuerdo e instrucciones del Procurador General, en el intercambio de información relativa a delitos con otras instituciones públicas;
+
+IV. Llevar la estadística sobre delitos cometidos en la Entidad y guardar confidencialidad de ella;
+
+V. Compilar, procesar y analizar la información relativa a la actividad institucional y sus resultados;
+
+VI. Elaborar los diagnósticos, informes y estadísticas que resulten de la compilación, procesamiento y análisis de información institucional;
+
+VII. Diseñar y proponer sistemas adecuados para el desarrollo de la función encomendada al Departamento; y,
+
+VIII. Las demás que le confieran las leyes y otros ordenamientos, así como las que le encomiende el Coordinador de Informática.
+
+###### Artículo 44.
+
+Son facultades y obligaciones del Departamento de Apoyo Técnico:
+
+I. Dar mantenimiento preventivo y correctivo al equipo de cómputo a cargo de la Procuraduría General de Justicia;
+
+II. Supervisar las redes de comunicación de la institución, con el fin de evitar y resolver fallas técnicas;
+
+III. Detectar nuevas necesidades de sistemas;
+
+IV. Gestionar con los usuarios del equipo de cómputo la implantación de nuevos sistemas;
+
+V. Formular y proponer el desarrollo y mantenimiento de los sistemas de información;
+
+VI. Verificar la conservación de los estándares de programación en la realización de los sistemas;
+
+VII. Elaborar los manuales técnicos y de operación de los sistemas desarrollados en la institución;
+
+VIII. Supervisar los sistemas y capacitar a los usuarios en su manejo;
+
+IX. Llevar el control de suministro de consumibles requeridos para el funcionamiento de los sistemas;
+
+X. Registrar la información que incorporen las dependencias de la Procuraduría General de Justicia; y,
+
+XI. Las demás que le confieran las leyes, otros ordenamientos y las que le encomiende el Coordinador de Informática.
+
+###### Artículo 45.
+
+La Unidad de Atención Ciudadana estará cargo de un Jefe, quien tendrá las facultades y obligaciones siguientes:
+
+I. Establecer y operar programas, sistemas y acciones para vincular a la Procuraduría con los diversos sectores representativos de la sociedad, a fin de recibir y atender, en su caso, planteamientos tendientes al mejor servicio de procuración de justicia;
+
+II. Proponer y propiciar el establecimiento de relaciones y fungir como vínculo operativo con los diversos sectores representativos de la sociedad, así como reforzar los mecanismos de interrelación con las autoridades competentes de los demás niveles de Gobierno, para avanzar la participación social en la procuración de justicia;
+
+III. Formular proyectos de programas de fomento a la participación ciudadana en la procuración de justicia;
+
+IV. Recibir, registrar, llevar el control y seguimiento y canalizar las denuncias de delitos que la población formule por vía telefónica;
+
+V. Recibir, registrar, proveer, controlar, dar seguimiento y canalizar la atención, auxilio, apoyo y protección a víctimas u ofendidos de delitos del orden común que se cometan en el Estado;
+
+VI. Proveer, controlar y dar seguimiento al otorgamiento de apoyos psicológico, jurídico y social y a la efectiva protección de víctimas u ofendidos del delito, coordinándose al efecto con las demás entidades de la Procuraduría General de Justicia y de los sectores público, privado y social de la Entidad;
+
+VII. Promover, participar, difundir y coadyuvar en programas y acciones para el auxilio y protección a víctimas u ofendidos de delitos, menores e incapaces, personas con adicción, extraviadas o ausentes y en situación vulnerable;
+
+VIII. Promover y establecer acciones, convenios y otros instrumentos, en coordinación con personas interesadas o instituciones de los sectores público, privado o social, municipales, estatales, nacionales y extranjeros, para el apoyo, auxilio y protección de víctimas u ofendidos del delito;
+
+IX. Coordinarse con las áreas competentes de la Procuraduría para promover y garantizar que se haga efectiva la reparación del daño y perjuicios a las víctimas u ofendidos del delito; y,
+
+X. Las demás que le confieran otras disposiciones legales y el Director de Planeación, Desarrollo y Atención Ciudadana.
+
+###### Artículo 46.
+
+El Departamento de Atención a Víctimas del Delito tendrá las facultades y obligaciones siguientes:
+
+I. Recibir, registrar, estudiar y canalizar las solicitudes de atención que formulen las víctimas de delitos del orden común, durante el procedimiento penal;
+
+II. Formular y proponer proyectos de programas para la atención a víctimas de delitos, ocupándose de su ejecución una vez aprobados; y,
+
+III. Las demás que le confieran otras disposiciones legales, el Director de Planeación, Desarrollo y Atención Ciudadana o el Jefe de la Unidad de Atención Ciudadana.
+
+###### Artículo 47.
+
+El Departamento de Atención Ciudadana tendrá las facultades y obligaciones siguientes:
+
+I. Recibir, registrar y atender las denuncias de delitos del orden común que se denuncien ante la institución por la vía telefónica;
+
+II. Formular y proponer proyectos de programas para la recepción y atención de denuncias telefónicas de delitos, encargándose de su ejecución una vez aprobados;
+
+III. Proporcionar orientación a los ciudadanos sobre los servicios que presta la institución, así como facilitarles su acceso a los mismos, instruyéndoles para el mejor ejercicio de sus derechos;
+
+IV. Efectuar y supervisar el sistema de atención al público en las Agencias del Ministerio Público y de los módulos que se instalen al efecto; y,
+
+V. Las demás que le confieran otras disposiciones legales, el Coordinador de Atención Ciudadana y el Director de Planeación, Desarrollo y Atención Ciudadana.
+
+###### Artículo 48.
+
+La Unidad de Prevención del Delito estará a cargo de un Jefe, quien tendrá a su cargo las facultades y obligaciones siguientes:
+
+I. Desarrollar y aplicar las políticas, programas y acciones permanentes de la Procuraduría General de Justicia en materia de prevención del delito, así como efectuar el registro, control y evaluación periódica de aquellas y sus resultados en el Estado;
+
+II. Promover y fomentar la cultura de prevención del delito en la población, en coordinación con los sectores público, social y privado del Estado, así como con particulares interesados;
+
+III. Organizar y llevar a cabo conferencias, cursos y módulos de información, así como formar comités para la prevención del delito y el desarrollo en la población de la cultura preventiva del delito;
+
+IV. Proponer a las entidades públicas sociales y privadas, programas, acciones y medidas para la prevención del delito, y desarrollarlos y aplicarlos en su caso;
+
+V. Elaborar los estudios e investigaciones sobre los factores criminógenos en los delitos cometidos en el Estado, los lugares de su comisión, el impacto social que producen, su costo, entre otros datos, y desarrollar las estadísticas criminales para proponer las políticas, estrategias, acciones y medidas que incidan al más eficaz tratamiento del fenómeno criminal y su combate;
+
+VI. Promover, controlar y dar seguimiento al intercambio de información y experiencias en materia de prevención del delito con instituciones municipales, estatales, nacionales y extranjeras, ya sean públicas, privadas o sociales;
+
+VII. Difundir en la sociedad las medidas y acciones que propendan a la prevención del delito, así como elaborar y distribuir material informativo de las mismas entre la ciudadanía;
+
+VIII. Proponer criterios de colaboración con las instituciones educativas y promover la implantación de programas de prevención del delito en los planes de estudios; y,
+
+IX. Las demás que se le confieran por disposición legal, el Procurador General de Justicia o el Director de Planeación, Desarrollo y Atención Ciudadana.
+
+###### Artículo 49.
+
+La Supervisoría de Derechos Humanos estará a cargo de un Supervisor, quien tendrá las siguientes atribuciones:
+
+I. Establecer y realizar un estricto registro, control y seguimiento de las visitas, quejas, propuestas de conciliación, recomendaciones, recursos de impugnación, solicitudes de información y todos aquellos asuntos recibidos relacionados y emanados de los organismos de defensa de los derechos humanos y de los particulares por cuestiones de esta materia;
+
+II. Estudiar y analizar las anteriores peticiones y resoluciones, instruyendo lo necesario para substanciarlas y darles respuesta dentro de los plazos fijados;
+
+III. Atender las visitas de los organismos y organizaciones de defensa de los derechos humanos y estudiar las peticiones y resoluciones que formulen, a efecto de que se consideren para el desarrollo de las investigaciones a que hubiere lugar;
+
+IV. Formular, supervisar y remitir de manera permanente y oportuna, los informes y avances de cumplimiento de recomendaciones y propuestas de conciliación que deban rendirse a los organismos de defensa de los derechos humanos, y solicitarles la descarga de los asuntos cumplidos, conforme a las recomendaciones hechas por los mismos;
+
+V. Realizar los trámites correspondientes a efecto de que, en los casos procedentes, la Unidad de Contraloría Interna de la Institución inicie los procedimientos de investigación de responsabilidad administrativa en contra de servidores públicos por causas desprendidas de presuntas transgresiones a derechos humanos, así como solicitarle la información y documentación necesaria para proveer en relación con propuestas de conciliación y recomendaciones aceptadas, que hayan emitido los organismos de defensa de derechos humanos;
+
+VI. Formular programas de concientización y difusión enfocados al respeto de los derechos humanos e impartir, en coordinación con la Unidad de Capacitación y Desarrollo, cursos sobre dicha temática, entre los servidores públicos de la institución;
+
+VII. Vigilar que los servidores públicos de la Procuraduría ajusten sus actuaciones estrictamente al marco jurídico vigente, para garantizar el irrestricto respeto a los derechos humanos;
+
+VIII. Establecer, mantener y desarrollar relaciones de enlace y coordinación con los representantes de los organismos de defensa de los derechos humanos;
+
+IX. Alentar, orientar y divulgar a través de programas, medios y mecanismos eficaces, la participación ciudadana para que los particulares hagan llegar directamente a la institución, las quejas y denuncias contra los servidores públicos de la Procuraduría General de Justicia en las que se les imputen transgresión a los derechos humanos, en el ejercicio o fuera de sus funciones;
+
+X. Proveer lo necesario para que se cumplan de manera oportuna y eficaz, las recomendaciones, peticiones y resoluciones aceptadas de los organismos de defensa de los derechos humanos;
+
+XI. Llevar el control y seguimiento de los asuntos en que se acepte la conciliación;
+
+XII. Otorgar asesoría jurídica y apoyo a los servidores públicos de la Procuraduría en la elaboración de las respuestas que deban dar a las peticiones y solicitudes que reciban de los organismos y organizaciones de derechos humanos;
+
+XIII. Proponer y diseñar convenios de colaboración y coordinación con personas de los sectores públicos, social y privado, para difundir y promover la cultura de respeto a los derechos humanos;
+
+XIV. Informar al superior jerárquico de la autoridad responsable, las omisiones, deficiencias, dilaciones, irregularidades, desvíos y toda conducta o actividad que hayan constituido transgresión a los derechos humanos derivadas de averiguaciones previas, aprehensiones, detenciones, dictámenes periciales y demás actuaciones y diligencias de los servidores públicos de la institución; y,
+
+XV. Las demás que le confieran otras disposiciones legales y las que le encomienden el Procurador General de Justicia y el Director de Planeación, Desarrollo y Atención Ciudadana.
+
+###### Artículo 50.
+
+La Unidad de Capacitación y Desarrollo estará a cargo de un Jefe, quien tendrá las atribuciones siguientes:
+
+I. Formular el programa integral para la formación, capacitación y especialización de los aspirantes a ingresar a la Procuraduría General de Justicia, así como de su personal activo, para lo cual atenderá las sugerencias que propongan las dependencias de la propia Procuraduría, que estarán orientadas a satisfacer las necesidades del servicio y serán acordes con la capacidad de la dependencia;
+
+II. Promover y realizar actividades académicas sobre temas jurídicos, buscando aprovechar sus resultados en beneficio de la procuración de justicia;
+
+III. Planear, organizar, programar, coordinar, vigilar y evaluar las actividades y el funcionamiento de las áreas básicas de apoyo a su cargo;
+
+IV. Formular el plan integral de capacitación que comprenda la formación, actualización y especialización profesional de los Agentes del Ministerio Público, Peritos y personal de Policía Ministerial, así como del resto del personal al servicio de la institución, mismo que deberá presentar para su aprobación al Procurador General de Justicia. Dicho será revisado cuando menos una vez al año;
+
+V. Promover, controlar y supervisar el ejercicio del plan y los programas de capacitación, actualización, especialización profesional y desarrollo personal que se aprueben, instrumentando lo necesario para que se cumplan los objetivos y metas que en ellos se establezcan;
+
+VI. Formular planes y programas de estudios, así como preparar los materiales didácticos de apoyo que se requieran para la implementación de cursos, seminarios, talleres, conferencias y demás actividades académicas que organice la Procuraduría General de Justicia;
+
+VII. Expedir convocatorias, especificando sus bases y requisitos, con el fin de efectuar los cursos respectivos y exámenes de oposición para ocupar el cargo de Agentes del Ministerio público;
+
+VIII. Preparar los convenios de intercambio y apoyo académico que la institución deba suscribir con instituciones educativas públicas o privadas;
+
+IX. Formular un banco de datos para la elaboración de los exámenes que se practiquen, que deberán resguardarse en estricta confidencialidad;
+
+X. Aplicar, revisar y evaluar los exámenes que se practiquen;
+
+XI. Formular las constancias, diplomas y reconocimientos sobre participación y acreditamiento, en su caso, en actividades académicas que se desarrollen;
+
+XII. Elaborar y enviar invitaciones a los eventos académicos que se programen;
+
+XIII. Instrumentar todo lo necesario para la mejor organización y realización de los eventos académicos que realice la Procuraduría General de Justicia;
+
+XIV. Coordinar la publicación de la revista jurídica y la gaceta informativa de la Procuraduría General de Justicia;
+
+XV. Promover la constitución de la Academia de Peritos de la Procuraduría General de Justicia, instrumentando lo necesario para su efectivo y eficaz funcionamiento una vez constituida;
+
+XVI. Llevar un registro de las actividades realizadas por la Unidad, así como de la participación del personal de la institución en los eventos que organice, formando los expedientes respectivos;
+
+XVII. Formular proyectos de planes y programas para la formación, capacitación, especialización y el desarrollo personal de los servidores públicos de la institución;
+
+XVIII. Llevar el registro, control, seguimiento y evaluación de la aplicación de los planes y programas de formación, capacitación, especialización y desarrollo personal que se apliquen en la Procuraduría General de Justicia;
+
+XIX. Diseñar y proponer normas y políticas para la organización y operación de la Unidad y los criterios y elementos de cada uno de los aspectos que comprende la capacitación y el desarrollo personal de los servidores públicos;
+
+XX. Elaborar y proponer medidas para el mejor desempeño de las actividades de la Unidad de Capacitación y Desarrollo;
+
+XXI. Recibir, revisar y llevar el registro y control de la información relativa a las personas que cursen los estudios programados por la Unidad de Capacitación y Desarrollo;
+
+XXII. Administrar los archivos de servicios escolares a cargo de la Unidad de Capacitación y Desarrollo;
+
+XXIII. Preparar las constancias y documentos que deba expedir la Unidad de Capacitación y Desarrollo; y,
+
+XXIV. Las demás que le confieran otras disposiciones legales o el Director de Planeación, Desarrollo y Atención Ciudadana.
+
+### Capítulo XIV. De la Dirección de Investigación Criminalística y Servicios Periciales
+
+###### Artículo 51.
+
+Son facultades y obligaciones indelegables del Director de Investigación Criminalística y Servicios Periciales:
+
+I. Ejecutar las medidas que sean conducentes para el pleno y adecuado funcionamiento de las áreas a su cargo;
+
+II. Ejercer vigilancia, control, seguimiento y evaluación de las actividades de los Departamentos de esa Dirección;
+
+III. Fomentar, programar y ejecutar las acciones que tiendan al fortalecimiento de la investigación criminalística al interior de la institución;
+
+IV. Llevar a cabo toda clase de acciones y estrategias que permitan el cumplimiento de las obligaciones y responsabilidades que en materia de servicios periciales correspondan a esa dependencia;
+
+V. Planear, establecer y dirigir los sistemas y programas administrativos, técnicos y científicos que contribuyan al mejoramiento de los servicios periciales;
+
+VI. Asegurarse de que sean oportuna y debidamente atendidas las solicitudes de servicios periciales, tanto del Ministerio Público como de otras instituciones o dependencias administrativas o jurisdiccionales;
+
+VII. Vigilar que las Agencias del Ministerio Público cuenten con el personal pericial y forense de apoyo que requieran para sus funciones de acuerdo con las leyes;
+
+VIII. Cuidar de la debida integración y operación del Archivo de Identificación Criminal;
+
+IX. Ordenar la cancelación, en los casos procedentes, de fichas signaléticas, haciendo las anotaciones de mérito y anexando copia certificada de la resolución que soporte dicha cancelación;
+
+X. Asegurar y verificar el correcto funcionamiento del Servicio Médico Forense;
+
+XI. Instrumentar lo conducente para asegurar la correcta expedición de certificados o constancias de antecedentes penales; y,
+
+XII. Las demás que le encomienden otras disposiciones legales o el Procurador General de Justicia.
+
+###### Artículo 52.
+
+El Departamento de Criminalística y Servicios Periciales estará a cargo de un Jefe, quien tendrá las atribuciones y obligaciones siguientes:
+
+I. Ejecutar las instrucciones que en cumplimiento de sus funciones y en materia de servicios periciales le dicte el Director de Investigación Criminalística y Servicios Periciales;
+
+II. Vigilar y ordenar que los servicios periciales se otorguen al personal de la institución con la prontitud que se requiera, a efecto de asegurar la expeditez y eficiencia en la investigación de los delitos;
+
+III. Registrar, atender y dar seguimiento a las solicitudes de servicios periciales de otras instituciones públicas, previo acuerdo con el Director de Investigación Criminalística y Servicios Periciales;
+
+IV. Elaborar y proponer sistemas administrativos, técnicos y científicos que contribuyan al mejoramiento de los servicios periciales;
+
+V. Emitir los dictámenes correspondientes en las diversas especialidades y en los casos y condiciones que se requieran, de acuerdo con los principios y reglas de la ciencia, disciplina o arte aplicada; y,
+
+VI. Las demás que le confieran otras disposiciones legales o el Director de Investigación Criminalística y Servicios Periciales.
+
+###### Artículo 53.
+
+El Departamento de Medicina Forense estará a cargo de un Jefe, quien tendrá las atribuciones y obligaciones siguientes:
+
+I. Coordinar la prestación del servicio a cargo de los Peritos en medicina forense;
+
+II. Llevar el registro, control y seguimiento de las actividades a cargo de los Peritos en medicina forense;
+
+III. Elaborar y proponer sistemas administrativos, técnicos y científicos que contribuyan al mejoramiento del servicio pericial en materia forense; y,
+
+IV. Las demás que le confieran otras disposiciones legales o el Director de Investigación Criminalística y Servicios Periciales.
+
+###### Artículo 54.
+
+El Departamento de Laboratorio de Física y Química estará a cargo de un Jefe, quien tendrá las atribuciones y obligaciones siguientes:
+
+I. Proporcionar auxilio en material pericial en los casos que se requiera el uso de instrumental y servicios de laboratorio de física y química;
+
+II. Mantener en condiciones de funcionalidad los laboratorios de física y química de la institución;
+
+III. Elaborar y proponer sistemas administrativos, técnicos y científicos, para el mejoramiento de los servicios derivados del uso de los laboratorios de física y química; y,
+
+IV. Las demás que le confieran otras disposiciones legales o el Director de Investigación Criminalística y Servicios Periciales.
+
+###### Artículo 55.
+
+El Departamento de Archivo e Identificación Criminal estará a cargo de un Jefe, quien tendrá las atribuciones y obligaciones siguientes:
+
+I. Llevar el registro y control del archivo de identificación criminal;
+
+II. Emitir, cuando proceda, opinión respecto a la cancelación de fichas signaléticas, haciendo las anotaciones correspondientes con la justificación documental procedente;
+
+III. Elaborar y proponer esquemas de desarrollo técnico y científico para el mejoramiento del registro y control del archivo de identificación criminal;
+
+IV. Emitir y suscribir los certificados o constancias de antecedentes penales que se soliciten legítimamente, conforme a los datos de los archivos de la institución; y,
+
+V. Las demás que le confieran otras disposiciones legales, así como el Director de Investigación Criminalística y Servicios Periciales.
+
+### Capítulo XV. De la Dirección de la Policía Ministerial
+
+###### Artículo 56.
+
+Son facultades y obligaciones indelegables del Director de la Policía Ministerial:
+
+I. Coordinar las actividades y funcionamiento de las áreas administrativas de su adscripción;
+
+II. Instruir lo conducente para el efectivo registro, distribución, control, realización y trámite de las investigaciones que realice la corporación; de las órdenes de presentación, comparecencia, aprehensión y cateo que giren los órganos jurisdiccionales y de las de detención, presentación o investigación que despache el Ministerio Público; de las detenciones en flagrancia de delincuentes; de la protección a víctimas u ofendidos de delitos, familiares, testigos o personas relacionadas con el evento o las propias víctimas u ofendidos; de la colaboración institucional otorgada por la dependencia o que le sea solicitada, así como el control del radio de la guardia de Agentes y del personal de la Policía Ministerial en cuanto a los servicios que presta;
+
+III. Rendir los informes necesarios para su intervención en los juicios de amparo;
+
+IV. Acordar con el Procurador General los asuntos de su competencia;
+
+V. Actuar bajo la autoridad y mando inmediato del Ministerio Público, auxiliándolo en el ejercicio de las atribuciones que legalmente le corresponden, cuidando y exigiendo que sus subalternos realicen lo mismo;
+
+VI. Ordenar y tomar las medidas pertinentes para que sus subalternos investiguen los probables hechos delictuosos que indique el Ministerio Público y se le rindan a éste los informes respectivos a la brevedad posible;
+
+VII. Ordenar y tomar las medidas conducentes para que los Agentes de la Policía Ministerial del Estado realicen la búsqueda de medios de prueba o convicción de la existencia de hechos punibles, así como aquellos que ayuden a determinar la presunta responsabilidad de sus autores;
+
+VIII. Llevar el control de vehículos, equipo de radiocomunicación y demás bienes asignados a sus subalternos, exigiéndoles su exclusivo y debido uso oficial y el cuidado y mantenimiento apropiados;
+
+IX. Ordenar y supervisar que se lleve un riguroso control de las labores encomendadas a la guardia de Agentes, con la finalidad de prevenir y detectar, en su caso, las conductas que se realicen al margen de las disposiciones legales y reglamentarias, en cuyo casos se harán del inmediato conocimiento de las autoridades competentes;
+
+X. Proveer lo necesario para que el personal a su mando cumpla con las disposiciones constitucionales, legales y reglamentarias que les corresponda observar en el ejercicio de sus funciones;
+
+XI. Informar oportunamente al Procurador General de Justicia el estado que guardan los asuntos de su competencia y informes escritos, diarios y mensuales, que contengan la información genérica de las actividades llevadas a cabo por cada una de las Coordinaciones de área, así como la información detallada, específica y estadística realizada por dichas Coordinaciones;
+
+XII. Implementar los mecanismos y procedimientos que correspondan para asegurar que en las Agencias del Ministerio Público se encuentre adscrito permanentemente personal de la corporación, en los términos dispuestos por las leyes; y,
+
+XIII. Las demás que le confieran las leyes u otros ordenamientos y las que le encomiende el Procurador General de Justicia.
+
+###### Artículo 57.
+
+Son facultades y obligaciones del Subdirector de la Policía Ministerial:
+
+I. Sustituir al Director de dicha corporación en sus ausencias, en cuyo caso asumirá las mismas facultades y deberes del titular;
+
+II. Auxiliar al Director en las actividades que éste determine;
+
+III. Supervisar las actividades del personal de la corporación a fin de verificar que se cumplan las instrucciones del Director, a quien le informará oportuna y permanentemente de los resultados, pudiendo sugerir las acciones atinentes para mejorar el servicio; y,
+
+IV. Las demás que le confieran las leyes u otros ordenamientos y las que le encomiende el Director de la Policía Ministerial.
+
+###### Artículo 58.
+
+Son atribuciones comunes de los Coordinadores de Investigación de Delitos, Ejecución de Ordenes de Aprehensión, Detenciones en Flagrancia, Protección a Víctimas u Ofendidos de Delitos, de Colaboración Institucional y Especial para la Investigación de Secuestros, las siguientes:
+
+I. Acordar con el Director de la Policía Ministerial las actividades correspondientes a su área; así como proponer a éste los planes y programas operativos que el área a su cargo deba llevar a cabo;
+
+II. Ejecutar, controlar y registrar las actividades de su área, rindiendo diariamente un informe circunstanciado por escrito al Director de Policía Ministerial, del cual se remitirá copia al Procurador General de Justicia, al Subprocurador General de Justicia y al Subprocurador Regional de Justicia y Director de área que corresponda, según la naturaleza y lugar de realización de los asuntos que se comprendan;
+
+III. Dirigir, coordinar, supervisar, controlar y evaluar las actividades del personal a su mando, informando al Director de las irregularidades observadas, de las medidas adoptadas y proponerle en su caso cuando excedan a su competencia las medidas correctivas procedentes;
+
+IV. Reasignar y ubicar al personal de su área en los lugares o zonas del Estado, según se requiera para el buen servicio, con acuerdo del Procurador;
+
+V. Designar, en su caso, de entre el personal asignado a su área, a quien deberá suplirlo en sus ausencias temporales que, en esa circunstancia, quedará investido de las facultades y deberes que al Coordinador corresponden;
+
+VI. Analizar, clasificar, comparar e interpretar la información y datos estadísticos producida por el ejercicio de las atribuciones del área, para proponer las estrategias, sistemas, tácticas, instrumentos, mecanismos, métodos y procedimientos para el mejor, eficaz y eficiente cumplimiento de las funciones, objetivos y metas del área y la propia institución;
+
+VII. Procurar y proponer las medidas pertinentes para la capacitación y especialización permanente del personal adscrito a su dependencia, para avanzar su desarrollo profesional y propiciar un ejercicio funcional de mayor eficacia y alta calidad;
+
+VIII. Rendir informe escrito bimestral que de manera sucinta establezca los resultados alcanzados con el ejercicio de las atribuciones de evaluación de las funciones tanto en contenido como en la forma de efectuarlas, así como de los cursos de capacitación y especialización que hubiere recibido el personal;
+
+IX. Efectuar la evaluación de las actividades de las Coordinaciones; esta medida será obligatoria y de realización mensual; y,
+
+X. Las demás que les encomienden el Director y el Subdirector de la Policía Ministerial.
+
+###### Artículo 59.
+
+El Coordinador de Investigación de Delitos tendrá las facultades y obligaciones siguientes:
+
+I. Planear, programar, controlar, ordenar, verificar, registrar y evaluar todo lo concerniente con la investigación de los hechos delictuosos del fuero común cometidos dentro del territorio del Estado, ya sea por indicación de los Agentes del Ministerio Público o por tener conocimiento directo de ellos, debiendo en este último caso, hacerlo del conocimiento inmediato del Agente del Ministerio Público que corresponda;
+
+II. Dirigir, disponer y proveer lo necesario para que sean llevadas a cabo las investigaciones de los hechos delictuosos del fuero común cometidos dentro del territorio del Estado, ya sea por indicación de los Agentes del Ministerio Público o por tener conocimiento directo de ellos, debiendo en este último caso hacerlo del conocimiento inmediato del Agente del Ministerio Público que corresponda;
+
+III. Disponer y proveer lo necesario para la búsqueda de pruebas sobre la existencia de hechos delictuosos, así como de los medios de convicción que ayuden a determinar la probable responsabilidad de sus autores;
+
+IV. Disponer y proveer lo concerniente para la entrega de citatorios, así como la presentación de personas que solicitan los Agentes del Ministerio Público para el desahogo de diligencias;
+
+V. Disponer y proveer lo concerniente para que se pongan a disposición de la autoridad competente a las personas que deban ser presentadas;
+
+VI. Disponer y proveer lo concerniente para la ejecución de órdenes de detención que dicten los Agentes del Ministerio Público, así como para poner a disposición de la autoridad a las personas detenidas;
+
+VII. Disponer y proveer lo concerniente para el registro de toda orden de investigación, de presentación, detención o citación que haya girado el Ministerio Público;
+
+VIII. Proveer y disponer lo necesario para que sean asignados al grupo respectivo los citatorios, órdenes de investigación, presentación o detención que sean giradas por el Ministerio Público para los fines de su cumplimiento;
+
+IX. Llevar a cabo las actividades de dirección, control, información, supervisión y seguimiento en la investigación de los delitos, en la búsqueda de pruebas sobre la existencia de hechos delictuosos y de los medios de convicción para determinar la probable responsabilidad de los autores;
+
+X. Disponer, proveer y verificar que en todo mandamiento del Ministerio Público que sea cumplido y recaiga en personas, se pongan éstas inmediatamente a disposición de la autoridad competente;
+
+XI. Disponer y proveer lo concerniente para llevar el registro, distribución, control y trámite de las órdenes de investigación, presentación, detención y citación que gire el Ministerio Público; y,
+
+XII. Dirigir, controlar, supervisar y evaluar en coordinación con los titulares de las Agencias del Ministerio Público, las actividades de los Agentes Policiales Investigadores adscritos a éstas.
+
+###### Artículo 60.
+
+El Coordinador de Ejecución de Ordenes de Aprehensión tendrá las facultades y obligaciones siguientes:
+
+I. Planear, programar, dirigir, controlar, ordenar, supervisar y evaluar toda la actividad relativa a la ejecución de órdenes de aprehensión, reaprehensión, comparecencia y cateo que sea emitidas por los Tribunales del Estado;
+
+II. Disponer y proveer lo concerniente para la recepción, registro, asignación, ejecución, información, control y seguimiento de toda orden de aprehensión, reaprehensión, comparecencia y cateo;
+
+III. Proveer y verificar que la recepción de las órdenes de aprehensión, reaprehensión, comparecencia y cateo se haga anotando la fecha, hora y lugar en que sean recibidas;
+
+IV. Disponer lo concerniente para que en el correspondiente libro de registro, debidamente foliado y autorizado por el Director de la Policía Ministerial, sean registradas con sus datos identificativos toda orden de aprehensión, reaprehensión, comparecencia y cateo, lo cual certificará con su firma en cada registro;
+
+V. Disponer lo necesario y verificar que todo registro de los antecitados mandamientos judiciales, se haga asentando, entre otros datos, el número de averiguación previa, Agencia de origen, Juzgado emitente, número de proceso, acusado, ofendido, delito, fecha de expedición, fecha de notificación al Ministerio Público, fecha de recepción por la sección, y fecha de ejecución, en su caso;
+
+VI. Proveer y disponer lo necesario para que sean asignados al grupo respectivo las órdenes de aprehensión, reaprehensión, comparecencia y cateo, para los fines de su ejecución y que con las copias y constancias atinentes se conforme el expediente respectivo que contenga, además de los datos de asignación, los nombres de los Agentes Policiales del grupo al que fue asignada, así como toda actividad de seguimiento para los fines de su ejecución y en su caso, el asentamiento de haberse cumplimentado aquellas;
+
+VII. Llevar a cabo las actividades de dirección, control, supervisión y seguimiento en la ejecución de las órdenes de aprehensión, reaprehensión, comparecencia y cateo, así como para rendir los informes que sean necesarios respecto a las mismas;
+
+VIII. Realizar y llevar un control estadístico diario de las órdenes de aprehensión, reaprehensión, comparecencia y cateo que se reciban para su ejecución, de las cumplimentadas y de las que no hayan alcanzado cumplimiento expresándose las razones de ello;
+
+IX. Determinar, efectuar, controlar y rendir informe de la estadística de órdenes de aprehensión, reaprehensión y comparecencia, cuyo cumplimiento se retarde, precisando las causas y las medidas correctivas dispuestas;
+
+X. Disponer que sean enviadas al banco de datos del sistema de informática de la corporación, los mandamientos judiciales recibidos, así como las cancelaciones de los mismos por razón de cumplimiento o cualquier otra de carácter legal, verificando que se mantenga actualizado este aspecto en el banco de datos;
+
+XI. Disponer, proveer y verificar que en todo mandamiento jurisdiccional cumplido, las personas aprehendidas sean efectiva y claramente informadas acerca del motivo para ello, y que así mismo aquellas personas y los objetos recabados, sean puestos inmediatamente a disposición de la autoridad competente;
+
+XII. Disponer, proveer, coordinar y verificar los traslados de personas en quienes hayan recaído órdenes de aprehensión, reaprehensión y comparecencia para que sean internadas en los Centros de Readaptación Social correspondientes, a disposición de la autoridad judicial competente;
+
+XIII. Disponer, instruir y supervisar en todo mandamiento judicial cumplimentado en el cual ocurra la aprehensión de personas, el personal para que las efectúe se ajuste plenamente a las disposiciones de la Constitución Federal y leyes que de ella emanen, preservándoles sus derechos humanos y otorgando en el caso el trato digno y respetuoso que las circunstancias particulares permitan; y,
+
+XIV. Organizar y mantener permanente enlace y comunicación con la Dirección de Control de Procesos de la Procuraduría General de Justicia del Estado, para intercambiar y hacerle llegar la información y documentación correspondiente que asegure el estricto control y seguimiento de toda orden de aprehensión, reaprehensión, comparecencia y cateo.
+
+###### Artículo 61.
+
+El Coordinador de Detenciones en Flagrancia tendrá las facultades y obligaciones siguientes:
+
+I. Planear, programar, controlar, ordenar, verificar y evaluar todas las actividades relacionadas con la detención en flagrancia que sean llevadas a cabo, en los casos procedentes;
+
+II. Recibir, registrar, asignar, ejecutar, informar, controlar y dar seguimiento de toda detención en flagrancia realizada por los Agentes a su cargo;
+
+III. Llevar a cabo las actividades de dirección, control, supervisión y seguimiento de las detenciones en flagrancia, en los casos procedentes, hasta poner a disposición el detenido ante la Agencia del Ministerio Público respectiva, así como rendir los informes que sean necesarios;
+
+IV. Instruir, controlar y verificar que toda detención en flagrancia lo sea en estricto ajustamiento con los requisitos prevenidos en los artículos 16 de la Constitución General de la República y 116 del Código de Procedimientos Penales del Estado;
+
+V. Disponer, proveer y verificar que en toda detención en flagrancia, las personas detenidas y los objetos recabados sean puestos inmediatamente a disposición del Agente del Ministerio Público competente;
+
+VI. Disponer, controlar, supervisar y verificar que en toda detención en flagrancia a las personas involucradas le sean respetados sus derechos humanos, constitucionales y legales; y,
+
+VII. Disponer y verificar que a toda persona detenida en flagrancia se le proporcione un trato digno y humano, evitándose el uso innecesario de fuerza, lo que así mismo se observará en su traslado para ponerlo a disposición de la autoridad competente.
+
+###### Artículo 62.
+
+El Coordinador de Protección a Víctimas u Ofendidos de Delitos tendrá las facultades y obligaciones siguientes:
+
+I. Planear, programar, controlar, verificar, registrar y evaluar todo lo concerniente a la protección a las víctimas u ofendidos por delitos, que consistirá en que aquellas de manera efectiva, adecuada y completa, reciban la protección física y de seguridad que requieran mediante la custodia policial;
+
+II. Recibir, registrar, asignar, ejecutar, informar, controlar y dar seguimiento de toda protección proporcionada a las víctimas u ofendidos por delitos;
+
+III. Proveer lo necesario para proporcionar la protección a víctimas u ofendidos por delitos;
+
+IV. Establecer, controlar y verificar que toda protección a víctimas u ofendidos de delitos, sea otorgada para aquellos de quienes se justifiquen aquellas calidades, que haya sido solicitada por los mismos interesados y que la medida resulta necesaria acorde con las circunstancias que reviste el evento, debiendo obtenerse, en todo caso, las constancias de la autoridad competente que sustenten lo anterior;
+
+V. Disponer lo concerniente para registrar debidamente toda protección otorgada para víctimas u ofendidos por delitos;
+
+VI. Proveer y disponer lo necesario para que sean asignados al grupo respectivo los casos de víctimas u ofendidos por delitos a fin de que reciban la adecuada y correspondiente protección;
+
+VII. Llevar a cabo las actividades de dirección, control, supervisión y seguimiento en la protección a víctimas u ofendidos por delitos, así como rendir los informes que sean necesarios; y,
+
+VIII. Verificar que se garantice y haga efectiva toda protección a víctimas u ofendidos de delitos.
+
+###### Artículo 63.
+
+El Coordinador de Colaboración Institucional tendrá las facultades y obligaciones siguientes:
+
+I. Planear, programar, ordenar, controlar, registrar y evaluar todo acto de colaboración institucional, que comprenderá las acciones recíprocas de colaboración que se preste o reciba de otras instituciones de procuración de justicia dentro de sus respectivos ámbitos de competencia y a los fines de la modernización, agilización y optimización de la lucha contra la delincuencia. Abarcará también la colaboración con instancias públicas federales, estatales, municipales y del extranjero, así como con personas físicas y morales del sector social y privado, en una participación de coordinación en operativos conjuntos en los cuales ejercerá funciones ajustadas a su ámbito de legal competencia;
+
+II. Registrar, ejecutar, informar, controlar, dar seguimiento, disponer y proveer lo necesario para que se lleve a cabo la colaboración institucional, verificando que sea cumplimentada;
+
+III. Disponer lo concerniente para que todo acto de colaboración institucional sea registrado en el correspondiente libro de registro debidamente foliado y autorizado por el Director de la Policía Ministerial, asentándose todos aquellos datos que identifiquen con precisión el acto celebrado y las actividades llevadas a cabo para ello, certificando el Coordinador con su firma cada registro;
+
+IV. Disponer lo necesario y verificar que toda colaboración se registre asentando, cuando menos, hora, fecha y lugar en que se llevó a cabo la colaboración, personas que intervinieron en la actividad realizada, una relación circunstanciada de la actividad en que consistió y el resultado de la colaboración realizada o recibida en su caso;
+
+V. Proveer y disponer lo necesario para que sean asignados al grupo respectivo los oficios de colaboración recibidos o de la que se haya solicitado y que con las copias y constancias atinentes se conforme el expediente respectivo, que contenga además de los datos de asignación, los nombres de los Agentes Policiales del grupo al que fue asignado, así como toda actividad de seguimiento y en su caso, el asentamiento de haberse cumplimentado y sus resultados;
+
+VI. Llevar a cabo las actividades de dirección, control, supervisión y seguimiento en la realización y cumplimiento de las acciones de colaboración institucional, así como rendir los informes que sean necesarios;
+
+VII. Solicitar y proveer lo conducente para obtener en todo caso el correspondiente oficio de colaboración institucional;
+
+VIII. Disponer y proveer lo conducente para recibir y trasladar en su caso, a las personas aprehendidas y los instrumentos, vestigios, objetos o productos del delito que fueren entregados en virtud de la colaboración institucional que haya sido solicitada o recibida;
+
+IX. Disponer, proveer, verificar que en todo acto de colaboración institucional efectuado, las personas aprehendidas o los objetos recabados, sean entregados sin demora a la autoridad competente; y
+
+X. Disponer, controlar y verificar que toda información sobre la posible comisión de delitos perpetrados en otra Entidad Federativa o de hechos delictivos relacionados entre sí o que se hayan iniciado, ejecutado, continuado o consumado en más de una Entidad, sea comunicada e intercambiada con aquellas de manera oportuna.
+
+###### Artículo 64.
+
+El Coordinador Especial para la Investigación de Secuestros tendrá las facultades y obligaciones siguientes:
+
+I. Planear, programar, controlar, ordenar, verificar, registrar y evaluar todo lo concerniente a la investigación de delitos de secuestro cometidos dentro del territorio del Estado, ya sea por indicación de los Agentes del Ministerio Público, o por tener conocimiento directo de ellos, debiendo en éste último caso, informar inmediatamente a la Representación Social que corresponda, así como acatar y dar seguimiento a las determinaciones que emita;
+
+II. Dirigir, disponer y proveer lo necesario para que sean llevadas a cabo las investigaciones de los secuestros cometidos en la entidad por los Grupos o Agentes Policiales adscritos a la Coordinación, ya sea por indicación de los Agentes del Ministerio Público, o por tener conocimiento directo de ellos, debiendo en éste último caso, informar inmediatamente a la Representación Social que corresponda y seguir las determinaciones que emita;
+
+III. Disponer y proveer lo necesario para la búsqueda de pruebas sobre la existencia del delito de secuestro, así como de los medios de convicción que ayuden a determinar la probable responsabilidad de sus autores;
+
+IV. Disponer lo necesario y verificar que toda orden de investigación que con motivo de un delito de secuestro se recepcione, al igual que la consecuente intervención, sean debidamente registradas asentando cuando menos, hora, fecha y lugar en que se llevó a cabo las actividades y diligencias de investigación, los agentes que las realizaron, una relación circunstanciada de las mismas, sus avances y el resultado obtenido, así como la conclusión alcanzada en su caso;
+
+V. Proveer y disponer lo necesario para que sean asignados al grupo respectivo los oficios de investigación recibidos en relación con hechos posiblemente constitutivos del delito de secuestro, y que con las copias y constancias atinentes se conforme el expediente respectivo para cada caso, que contenga además de los datos de asignación, los nombres de los agentes policiales del grupo a que fue asignado así como toda actividad de seguimiento y en su caso, el asentamiento de haberse cumplimentado y los resultados obtenidos;
+
+VI. Corresponde al Coordinador las actividades de dirección, control, supervisión y seguimiento en la realización y cumplimiento de las acciones relativas a investigación de secuestros en la entidad, así como rendir los informes necesarios. En el supuesto de la recepción directa de denuncia ante la Coordinación de hechos posibles de secuestro, se obtendrán los datos personales del informante o denunciante, proporcionándolos y dando aviso respectivo al Agente del Ministerio Público para que éste proceda conforme a sus atribuciones legales y emita los acuerdos y mandamientos correspondientes;
+
+VII. Disponer, proveer y verificar que en todo acto, las personas aprehendidas y los instrumentos, vestigios, objetos o productos del delito de secuestro que fueren recabados, sean entregados sin demora a la autoridad competente, vigilando y supervisando que en relación con las personas se cumplan los requisitos constitucionales y legales, así como el respeto pleno de sus derechos humanos, y respecto de los objetos, instrumentos, vestigios o productos del delito, que en su recolección, protección y preservación tengan la intervención correspondiente los peritos de la Dirección de Investigación Criminalística y Servicios Periciales de la institución;
+
+VIII. Disponer, controlar y verificar que toda información sobre la posible comisión de secuestros cometidos en la entidad, sea debidamente registrada, asentando el lugar de su comisión, las posibles víctimas u ofendidos, los montos o cantidades de rescate exigidas, entregadas y recuperadas en su caso, así como los avances y resultados obtenidos en la investigación;
+
+IX. Disponer y proveer lo concerniente para el registro, control y seguimiento de toda orden de investigación, de presentación, de detención y de citación que haya girado el Ministerio Público para la Coordinación, con motivo de la comisión del ilícito de secuestro;
+
+X. Proveer, ordenar y supervisar la conformación de un archivo físico documental, estructurando un expediente específico para cada caso relacionado con hechos probablemente constitutivos de secuestro, y toda la información relacionada con ellos;
+
+XI. Proveer, ordenar y supervisar la estructuración de un archivo informático en el que a través del uso de los sistemas de cómputo se realicen los registros de cada caso relacionado con hechos probablemente constitutivos de secuestro, y toda la información relacionada con ellos;
+
+XII. Proveer, ordenar y supervisar la elaboración de la estadística sistematizada y relacionada, a partir del registro de los casos, especificando, la incidencia del delito de secuestro, los lugares y fechas en que ocurren, los sujetos involucrados y reincidentes, los montos exigidos, pagados o recuperados, así como la información criminalística y criminológica, oportuna, eficiente y real, las interrelaciones de grupos o bandas delictuosas, los modos de operación de éstos, sus movimientos, mapeos, fichas de identificación fotográfica, dactilares, análisis de voces, localización oportuna de sospechosos, sus rasgos especiales, y demás datos de información adicional que resulten relevantes para la investigación exitosa de cada evento por la Coordinación;
+
+XIII. Proveer, ordenar y supervisar que los archivos físico documental e informático referidos en los puntos inmediatos, anteriores se mantengan actualizados agregándose la documentación e información pertinente; y,
+
+XIV. Proveer, ordenar, disponer, controlar, vigilar, supervisar y dar seguimiento, a la creación inmediata de el banco de datos en materia de secuestros, a través de fichas sistematizadas con los datos e información que en tal materia resulte de los sucesos ocurridos en el Estado, e incorporando y obteniendo en la debida forma y por los conductos oficiales de las demás Procuradurías Estatales y de la Procuraduría General de la República, la información relativa, completa, suficiente, precisada y actualizada, que comprenda datos y constancias de averiguaciones previas, grabaciones, material fotográfico, los elementos citados en la fracción XIII anterior y todos aquellos otros adicionales útiles y pertinentes a la mejor conformación del banco de datos en referencia.
+
+###### Artículo 65.
+
+El Departamento Legal estará a cargo de un Jefe, quien tendrá las siguientes atribuciones y obligaciones:
+
+I. Acordar con el Director de la Policía Ministerial los asuntos concernientes a su área;
+
+II. Recibir y contestar las notificaciones de todo tipo de escritos en los que se demande la intervención de la Policía Ministerial en controversias jurídicas administrativas y judiciales;
+
+III. Intervenir en cualquier controversia en que la Policía Ministerial sea parte;
+
+IV. Rendir los informes que sean solicitados a la corporación con motivo de juicios de amparo;
+
+V. Informar permanentemente al Director de la Policía Ministerial de los asuntos a su cargo y de las actividades realizadas;
+
+VI. Asesorar y apoyar a las demás áreas de la corporación en materia legal;
+
+VII. Elaborar las denuncias, querellas y demandas que resulten necesarias para el cumplimiento de las funciones de la corporación, así como participar en la tramitación de ello hasta la culminación del procedimiento respectivo; y,
+
+VIII. Las demás que le confieran las leyes u otros ordenamientos y las que le encomiende el Director de la Policía Ministerial.
+
+###### Artículo 66.
+
+El Departamento de Actas estará a cargo de un Jefe, quien tendrá las atribuciones y obligaciones siguientes:
+
+I. Acordar con el Director de la Policía Ministerial los asuntos relativos a su área;
+
+II. Elaborar los oficios mediante los cuales la Policía Ministerial ponga a disposición de otras autoridades a personas u objetos, así como recibir aquellos oficios en que la corporación reciba actuaciones, objetos o personas de autoridades distintas;
+
+III. Formular los informes policiales relativos a hechos delictuosos;
+
+IV. Redactar los informes de las actividades que correspondan a la corporación;
+
+V. Llevar registro y control del archivo de los oficios, informes y actuaciones elaborados por el propio Departamento; y,
+
+VI. Las demás que le confieran las leyes u otros ordenamientos y las que le encomiende el Director de la Policía Ministerial.
+
+###### Artículo 67.
+
+El Departamento de Servicios Administrativos estará a cargo de un Jefe, quien tendrá las atribuciones y obligaciones siguientes:
+
+I. Acordar con el Director de la Policía Ministerial los asuntos de su área;
+
+II. Planear, programar, presupuestar y administrar los recursos humanos y materiales necesarios para que realice sus funciones la corporación;
+
+III. Elaborar, revisar y operar el proyecto de presupuesto de egresos de la Dirección de Policía Ministerial, así como gestionar los recursos materiales y financieros requeridos para la atención de las necesidades y cumplimientos de los planes y programas y proveer de aquellos a los órganos encargados de su cumplimiento dentro de la Dirección;
+
+IV. Coordinar sus actividades con el área administrativa de la Procuraduría General de Justicia para ajustarlas a los lineamientos e instrucciones que ésta última fije;
+
+V. Elaborar, proponer y aplicar sistemas y procedimientos para la eficientación de los recursos de la Policía Ministerial; y,
+
+VI. Las demás que le confieran las leyes u otros ordenamientos y las que le encomiende el Director de la Policía Ministerial.
+
+### Capítulo XVI. De la Coordinación Administrativa
+
+###### Artículo 68.
+
+Son facultades y obligaciones indelegables del Coordinador Administrativo:
+
+I. Dirigir la planeación, programación, coordinación, vigilancia y evaluación de las actividades y funcionamiento de las unidades administrativas de su adscripción;
+
+II. Revisar el proyecto de presupuesto de egresos de la Procuraduría General de Justicia, tomando en consideración las necesidades de servicio de la institución y someterlo a la consideración del Procurador General, para ser turnado con toda oportunidad a las autoridades competentes;
+
+III. Gestionar ante quien corresponda los recursos materiales y financieros que, conforme al presupuesto autorizado, se requieran para la atención de las necesidades y cumplimiento de los planes y programas a cargo de la institución;
+
+IV. Proveer oportunamente a las unidades administrativas de la Procuraduría General de Justicia, mediante las acciones correspondientes y, en su caso, a través de las gestiones necesarias ante las instancias respectivas, de los bienes y servicios que requieran para su buen funcionamiento;
+
+V. Procurar la adquisición de recursos materiales y la prestación de servicios que sean necesarios, previo acuerdo con el Procurador General;
+
+VI. Establecer, con la aprobación del Procurador General de Justicia, las políticas, normas, sistemas, criterios técnicos y procedimientos para la administración de recursos humanos, financieros, materiales y tecnológicos de la institución, de conformidad con sus programas y objetivos, para proporcionar el apoyo que requieran las unidades administrativas y los servidores públicos de la institución;
+
+VII. Vigilar el ejercicio del presupuesto, autorizar las erogaciones y los convenios y contratos en los que la Procuraduría General de Justicia sea parte y afecten su presupuesto; y, (sic)
+
+VIII. Autorizar y controlar las adquisiciones necesarias para satisfacer requerimientos materiales de la institución, conforme a la Ley de la materia; y,
+
+IX. Las demás que le confieran otras disposiciones legales o el Procurador General de Justicia.
+
+###### Artículo 69.
+
+El Departamento de Contabilidad y Presupuesto estará cargo de un Jefe, quien tendrá las atribuciones y obligaciones siguientes:
+
+I. Coordinar las actividades y funcionamiento de las áreas administrativas de su adscripción;
+
+II. Registrar los movimientos contables de la institución, manteniéndolos actualizados;
+
+III. Formular el anteproyecto de presupuesto de egresos de la Procuraduría General de Justicia, tomando en consideración las propuestas que al efecto formulen las unidades administrativas de la dependencia, los lineamientos que para ello fijen las autoridades competentes y los programas y políticas de desarrollo institucional que se tracen;
+
+IV. Mantener permanentemente actualizadas las cuentas de ejercicio presupuestal de la institución;
+
+V. Formular los estados financieros y afectación presupuestal, así como los anexos y soportes de aplicación del gasto;
+
+VI. Integrar y hacer entrega oportuna a las autoridades competentes de la documentación que ampare la comprobación de ministraciones de recursos financieros a la Procuraduría General de Justicia, de conformidad con las disposiciones legales;
+
+VII. Elaborar los proyectos de presupuestos por programas;
+
+VIII. Formular las proyecciones financieras de conformidad con la calendarización del gasto autorizado a la Procuraduría General de Justicia, tomando en cuenta las prioridades de desarrollo institucional; y,
+
+IX. Las demás que le confieran las leyes u otros ordenamientos y las que le encomiende el Coordinador Administrativo.
+
+###### Artículo 70.
+
+El Departamento de Recursos Humanos estará a cargo de un Jefe, el cual tendrá las atribuciones y obligaciones siguientes:
+
+I. Coordinar las actividades y el funcionamiento de las áreas administrativas de su adscripción;
+
+II. Planear, organizar y vigilar las actividades relacionadas con la administración de recursos humanos de la institución;
+
+III. Formular programas para el mejoramiento de las condiciones económicas, sociales, culturales y de trabajo del personal de la institución;
+
+IV. Expedir constancias de trabajo, percepciones y antigüedad que soliciten los servidores públicos de la Procuraduría General de Justicia;
+
+V. Formular programas de inducción al mejoramiento del trabajo y las relaciones humanas entre los servidores públicos de la institución;
+
+VI. Tramitar ante las autoridades competentes los nombramientos, remociones, cambios de adscripción, licencias, pago de sueldos, compensaciones, honorarios, descuentos y retenciones de percepciones del personal de la Procuraduría General de Justicia;
+
+VII. Recibir y revisar los documentos y requisitos que deban reunir los aspirantes a servidores públicos de la institución;
+
+VIII. Tramitar las designaciones que ordene el Procurador General de Justicia;
+
+IX. Formular los contratos de prestación de servicios que acuerde el Procurador General;
+
+X. Mantener actualizados los expedientes del personal, así como el archivo del Departamento;
+
+XI. Atender los planteamientos que formulen los trabajadores, canalizándolos, en su caso, a las instancias administrativas competentes;
+
+XII. Proporcionar la documentación e información que requiera la Unidad de Contraloría Interna de la Procuraduría, para la práctica de los procedimientos administrativos instaurados en contra de los servidores públicos de la institución; y,
+
+XIII. Las demás que le confieran las leyes u otros ordenamientos y las que le encomiende el Coordinador Administrativo.
+
+###### Artículo 71.
+
+Son facultades y obligaciones del Departamento de Sistemas Administrativos:
+
+I. Analizar, diseñar, desarrollar, implantar, alimentar y supervisar los sistemas de cómputo para el registro y control de la información administrativa de la institución, relacionada con los aspectos presupuéstales, financieros y de recursos materiales y humanos, así como darles seguimiento para mantener actualizada aquella información;
+
+II. Apoyar y elaborar la diversa documentación que requieran las áreas de la dependencia como son informes, oficios, tarjetas, discursos, actas administrativas y otros semejantes, con auxilio de medios informáticos;
+
+III. Apoyar y elaborar los diseños gráficos que requieran las áreas de la dependencia como son personificadores, diplomas, reconocimientos, credenciales, organigramas y formatos especiales para control y otros semejantes, con auxilio de medios informáticos;
+
+IV. Actualizar y dar mantenimiento a los sistemas de cómputo implementados en la dependencia, así como a los catálogos de información conformados en la misma;
+
+V. Apoyar a las diferentes áreas de la dependencia para satisfacer todos los requerimientos que requieran la aplicación de medios informáticos;
+
+VI. Coordinar las actividades y funcionamiento del área y personal administrativo adscritos al Departamento; y,
+
+VII. Las demás que se le confieran por disposición legal o por el Coordinador Administrativo.
+
+###### Artículo 72.
+
+El Departamento de Recursos Materiales y Adquisiciones estará a cargo de un Jefe, quien tendrá las atribuciones y obligaciones siguientes:
+
+I. Coordinar y programar las actividades y funcionamiento de las áreas administrativas de su adscripción;
+
+II. Formular los estados de inventario y almacén de los bienes a cargo de la institución;
+
+III. Atender, sin demora, los requerimientos de bienes y servicios que soliciten las unidades administrativas de la institución, para lo cual deberá diseñar mecanismos y procedimientos ágiles que permitan el desarrollo eficiente;
+
+IV. Tramitar la adquisición de recursos materiales que autorice la Coordinación Administrativa;
+
+V. Informar al Coordinador Administrativo de las necesidades de equipo y materiales que se requieran para el funcionamiento de las unidades administrativas de la institución;
+
+VI. Llevar una relación de proveedores y prestadores de servicios a la institución;
+
+VII. Mantener en condiciones de servicio los bienes asignados a la Procuraduría General de Justicia;
+
+VIII. Llevar los registros, resguardos y control de bienes e inventarios asignados a las unidades administrativas y servidores públicos de la institución;
+
+IX. Hacer uso racional de los recursos financieros, soportando documentalmente las erogaciones que se autoricen;
+
+X. Proporcionar la documentación e información que requiera la Unidad de Contraloría Interna, para la práctica de los procedimientos administrativos instaurados de los servidores públicos de la institución; y,
+
+XI. Las demás que le confieran las leyes u otros ordenamientos y las que le encomiende el Coordinador Administrativo.
+
+### Capítulo XVII. De la Unidad de Contraloría Interna
+
+###### Artículo 73.
+
+Son facultades y obligaciones indelegables del Contralor Interno:
+
+I. Planear, organizar, programar, coordinar, vigilar, controlar y evaluar las actividades y el funcionamiento de las unidades administrativas de su adscripción;
+
+II. Verificar los estudios, análisis, supervisión y control, relativos a la organización e instrumentación del sistema integrado de control de la Procuraduría General de Justicia, para el manejo eficiente de los recursos humanos, financieros y materiales asignados a la institución, informando de sus resultados al Procurador General;
+
+III. Vigilar el cumplimiento de las normas de control, evaluación, fiscalización, contabilidad y auditoría que deben observar las unidades administrativas de la Procuraduría General de Justicia;
+
+IV. Ordenar la práctica de auditorías a las distintas unidades administrativas de la Procuraduría General de Justicia, informando de sus resultados al Procurador General, dando seguimiento hasta su solución de las deficiencias e irregularidades detectadas;
+
+V. Instruir lo conducente para la recepción de quejas y denuncias, investigar de oficio y resolver conforme a las normas y procedimientos aplicables acerca de las irregularidades de los servidores públicos adscritos a la Procuraduría General de Justicia, para que se determine la aplicación de las medidas o sanciones, en su caso, a que hubiere lugar;
+
+VI. Realizar visitas de supervisión a las dependencias del Ministerio Público así como a la Policía Ministerial, para verificar que el desempeño de sus funciones se ajusten al principio de legalidad, informando de sus resultados al Procurador General;
+
+VII. Formular programas que prevengan la comisión de irregularidades por los servidores públicos de la institución;
+
+VIII. Crear sistemas para identificar, investigar y determinar las infracciones administrativas por violaciones a la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, que sean aplicables a los servidores públicos de la institución;
+
+IX. Proveer lo necesario para que los servidores públicos de la institución cumplan, en los términos legales, con sus declaraciones de situación patrimonial, debiéndose coordinar para ello con la Secretaría de la Contraloría y Desarrollo Administrativo del Estado;
+
+X. Formular un programa anual de auditorías, sometiéndolo a la aprobación del Procurador General para su instrumentación y ejecución;
+
+XI. Vigilar el cumplimiento de las recomendaciones y observaciones hechas a las unidades administrativas y servidores públicos de la institución, derivadas de la práctica de auditorías, visitas o supervisiones;
+
+XII. Proveer la instalación, en lugares visibles, de buzones para la presentación de quejas y denuncias en las distintas unidades administrativas de la institución, en los cuales deberán existir los formularios respectivos;
+
+XIII. Requerir a las unidades administrativas los informes, datos, expedientes y documentos, necesarios para el cumplimiento de las atribuciones, funciones y despacho de los asuntos encomendados a la Contraloría Interna; y,
+
+XIV. Las demás que le confieran las leyes u otros ordenamientos y las que le encomiende el Procurador General de Justicia.
+
+###### Artículo 74.
+
+El Departamento de Visitadurías estará a cargo de un Jefe, quien tendrá las siguientes atribuciones:
+
+I. Formular un programa anual de visitas a las Agencias del Ministerio Público y Policía Ministerial;
+
+II. Realizar visitas de supervisión a las dependencias del Ministerio Público así como a la Policía Ministerial, para verificar que el desempeño de sus funciones se ajusten al principio de legalidad;
+
+III. Llevar el registro, control y seguimiento de las visitas de supervisión a las dependencias del Ministerio Público y de Policía Ministerial, así como de sus resultados y medidas aplicadas para mejorar la eficiencia;
+
+IV. Formular y operar un programa anual de exámenes antidrogas al personal de la institución, previa autorización del Procurador General de Justicia;
+
+V. Calificar mediante riguroso examen la aptitud de los aspirantes a ingresar como Agentes de la Policía Ministerial del Estado, en los términos del convenio de coordinación que al efecto lleven la Procuraduría General de Justicia y la dependencia estatal correspondiente; y,
+
+VI. Las demás que le confieran las leyes u otros ordenamientos y las que le encomiende el Contralor Interno.
+
+###### Artículo 75.
+
+El Departamento de Quejas y Denuncias estará a cargo de un Jefe, quien tendrá las atribuciones y obligaciones siguientes:
+
+I. Recibir, investigar de oficio y resolver, conforme a las normas y procedimientos aplicables, las irregularidades de los servidores públicos de la Procuraduría General de Justicia, para que ésta determine la aplicación de medidas o sanciones a que hubiere lugar en cada caso;
+
+II. Formular programas que prevengan la comisión de irregularidades de los servidores públicos de la institución;
+
+III. Crear sistemas para identificar, investigar y determinar las infracciones administrativas por violaciones a la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, que sean aplicables a los servidores públicos de la institución;
+
+IV. Atender y desahogar, conforme a los procedimientos legales establecidos, las quejas y denuncias que se presenten en contra de los servidores públicos de la institución, llevando el registro correspondiente;
+
+V. Proveer la instalación, en lugares visibles, de buzones para la presentación de quejas y denuncias en las distintas unidades administrativas de la institución, en los cuales deberán existir los formularios respectivos; y,
+
+VI. Las demás que le confieran las leyes u otros ordenamientos y las que le encomiende el Contralor Interno.
+
+### Capítulo XVIII. De las Agencias del Ministerio Público
+
+###### Artículo 76.
+
+Las Agencias del Ministerio Público estarán constituidas por un Agente Titular y el número de Auxiliares necesarios, así como con Agentes Investigadores de Policía Ministerial, Peritos en Criminalística y Médicos Forenses, en el número que el servicio requiera, todos los cuales estarán bajo el mando directo e inmediato del Agente Titular del Ministerio Público.
+
+###### Artículo 77.
+
+Las facultades y obligaciones de los Agentes del Ministerio Público son indelegables.
+
+Los Agentes Titulares y Auxiliares tendrán las mismas facultades y atribuciones, las que ejercerán en forma conjunta o separada, según se acuerde en las indagatorias respectivas. En todo caso, los Auxiliares actuarán bajo la dirección de los Titulares.
+
+### Capítulo XIX. De la Suplencia de los Agentes del Ministerio Publico
+
+###### Artículo 78.
+
+Las ausencias de los Titulares de las Agencias del Ministerio Público Investigadoras serán cubiertas por los Agentes Auxiliares que en cada caso designen mediante acuerdo escrito, o por quienes designe el Director de Averiguaciones Previas.
+
+###### Artículo 79.
+
+Los Agentes del Ministerio Público adscritos a Juzgados y Salas del Poder Judicial del Estado, serán sustituidos en sus faltas temporales por los funcionarios que designe el Director de Control de Procesos.
+
+### Capítulo XX. De la Profesionalización del Ministerio Público
+
+###### Artículo 80.
+
+El régimen de profesionalización de los servidores públicos de la Procuraduría General de Justicia, se establecerá en el Estatuto previsto por la Ley Orgánica del Ministerio Público.
+
+###### Artículo 81.
+
+Para ingresar y permanecer como Agente del Ministerio Público, Perito o Agente de Policía Ministerial, se requiere, además de los requisitos fijados en los ordenamientos legales aplicables, los siguientes:
+
+I. Para ingresar y permanecer como Agente del Ministerio Público, se requiere:
+
+a) Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
+
+b) Tener más de veinticinco años;
+
+c) Tener titulo de Licenciado en Derecho expedido y registrado legalmente;
+
+d) Aprobar satisfactoriamente los requisitos de ingreso y, en su caso, los cursos de formación, capacitación y actualización y los exámenes de evaluación aplicables según la ley;
+
+e) Ser de buena conducta, solvencia moral, ética, honradez y probidad notorias;
+
+f) No haber sido condenado por delito doloso;
+
+g) No hacer uso de sustancias psicotrópicas, estupefacientes u otras similares, ni padecer alcoholismo;
+
+h) En su caso, tener acreditado el Servicio Militar Nacional;
+
+i) No incurrir en reincidencia de actos, por los cuales se le haya sancionado con amonestación, suspensión o inhabilitación en los términos de las normas aplicables; y,
+
+j) Los demás requisitos que establezcan otras disposiciones aplicables.
+
+Para ingresar y permanecer como Perito, se requiere:
+
+a) Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
+
+b) Tener más de veinticinco años;
+
+c) Tener título legalmente expedido y registrado por la autoridad competente que lo faculte para ejercer la ciencia, técnica, arte o disciplina de que se trate; o acreditar plenamente los conocimientos correspondientes a la disciplina sobre la que se deba determinar;
+
+d) Acreditar el cumplimiento satisfactorio de los requisitos de ingreso y, en su caso, los cursos de formación, actualización y capacitación, aprobando los exámenes y evaluaciones aplicables;
+
+e) Ser de buena conducta, solvencia moral y ética, honradez y probidad notorias;
+
+f) No haber sido condenado por delito doloso;
+
+g) No hacer uso de sustancias psicotrópicas, estupefacientes u otras similares, ni padecer alcoholismo;
+
+h) En su caso, tener acreditado el Servicio Militar Nacional;
+
+i) No incurrir en reincidencia de actos, por los cuales se le haya sancionado con amonestación, suspensión o inhabilitación en los términos de las normas aplicables; y,
+
+j) Los demás requisitos que establezcan otras disposiciones aplicables.
+
+III. Para ingresar y permanecer como Agente de la Policía Ministerial, se requiere:
+
+a) Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
+
+b) Contar con la edad y el perfil físico, médico, ético, moral, social y de personalidad que se establezcan como necesarios para realizar la actividad policial;
+
+c) Acreditar haber concluido por lo menos los estudios de enseñanza preparatoria o su equivalente;
+
+d) Acreditar el cumplimiento satisfactorio de los requisitos de ingreso y, en su caso los cursos de formación, adiestramiento, actualización y capacitación, aprobando los exámenes y evaluaciones aplicables;
+
+e) Ser de buena conducta, honradez y probidad notorias;
+
+f) No haber sido condenado por delito doloso o culposo calificado como grave por la ley, ni ser sujeto a proceso penal;
+
+g) No hacer uso de sustancias psicotrópicas, estupefacientes u otras similares, ni padecer alcoholismo;
+
+h) En su caso, tener acreditado el Servicio Militar Nacional;
+
+i) No incurrir en reincidencia por actos, por los cuales se le haya sancionado con amonestación, suspensión o inhabilitación en los términos de las normas aplicables; y,
+
+j) Los demás requisitos que establezcan otras disposiciones aplicables.
+
+Los requisitos enumerados en este artículo deberán reunirse en todo tiempo, de manera que quienes estando en activo dejaren de reunirlos, se les dará un plazo razonable para que los reúnan, con el fin de garantizar homogeneidad en el personal de la institución y eficiencia en el servicio a la población. De no cumplirlos en dicho plazo, los servidores públicos de que se trate serán removidos de sus cargos.
+
+###### Artículo 82.
+
+Para permanecer al servicio de la institución, los Agentes del Ministerio Público, Peritos y Agentes de Policía Ministerial deberán participar en los programas de formación, capacitación, actualización y en los cursos a que se les convoque.
+
+###### Artículo 83.
+
+Los servidores públicos a que se refiere el artículo anterior, podrán ser ascendidos mediante las evaluaciones que se realicen, conforme a las normas estatutarias específicas que al efecto se expidan, mismas que preverán sistemas de estímulos que considerarán el desempeño, la formación profesional, los grados académicos y la antigüedad.
+
+###### Artículo 84.
+
+Los servidores públicos que se mencionan en los preceptos precedentes podrán ser sancionados por las causas señaladas en este reglamento, en el Estatuto del Servicio de Carrera y otras leyes aplicables, conforme a los procedimientos establecidos en dichos ordenamientos.
+
+### Capítulo XXI. Disposiciones Generales
+
+###### Artículo 85.
+
+Los servidores públicos de la Procuraduría General de Justicia deberán reunir los requisitos legales que para cada puesto deban cubrirse antes de que se formulen los nombramientos correspondientes. La violación de esta disposición será motivo de responsabilidad para quien formule el nombramiento irregular.
+
+###### Artículo 86.
+
+Para ejercer las funciones que correspondan a los cargos o empleos de la Procuraduría General de Justicia, los servidores públicos deberán tomar posesión legal. En caso contrario, serán cesados de inmediato.
+
+###### Artículo 87.
+
+El Procurador General determinará la adscripción del personal de la Procuraduría General de Justicia, conforme lo requiera el servicio y de acuerdo con las disposiciones legales que rigen a la institución.
+
+###### Artículo 88.
+
+Para instrumentar el mejor desempeño y coordinación de las funciones de la Procuraduría General de Justicia, el titular de la institución podrá constituir los Consejos, Comisiones, Centros y Comités internos que considere convenientes.
+
+###### Artículo 89.
+
+Los Consejos, Comisiones, Centros y Comités a que se refiere el artículo anterior se crearán mediante el acuerdo respectivo, en donde se indicarán sus reglas internas de organización y funcionamiento.
+
+## TRANSITORIOS
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se abroga el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sinaloa, publicado en el Periódico Oficial "El Estado de Sinaloa", número 64, Tercera Sección, del día 28 de mayo de 1993, así como sus reformas y adiciones publicadas en este mismo medio.
+
+Es dado en la residencia del Poder Ejecutivo del Gobierno del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los cuatro días del mes de julio de dos mil.
+
+Sufragio Efectivo. No Reelección
+
+El Gobernador Constitucional del Estado
+
+Juan S. Millán Lizárraga
+
+El Secretario General de Gobierno
+
+Gonzalo M. Armienta Calderón
+
+El Procurador General de Justicia
+
+Gilberto Higuera Bernal
