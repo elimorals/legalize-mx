@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2003-12-30"
+last_updated: "2004-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2004.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -3731,9 +3731,11 @@ Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que
 
 La falta temporal de tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### Art. 639.
 
-El Consejo de Familia de manera institucional desempeñará el cargo de tutor, como atribución propia, sin necesidad de discernimiento del cargo:
+El Consejo Estatal de la Familia en forma directa, o a través de sus delegados, de manera institucional desempeñará el cargo de tutor, como atribución propia, sin necesidad de discernimiento del cargo:
 
 I. De los expósitos;
 
@@ -6451,7 +6453,7 @@ El usufructo constituido a favor de personas jurídicas, que puedan adquirir y a
 
 ###### Art. 1100.
 
-El usufructo concedido por el tiempo que tarde un tercero en llegar a cierta edad, dura el número de años prefijados aunque el tercero muera antes.
+El usufructo concedido por el tiempo que tarde un tercero en llegar a cierta edad, dura el numero de años prefijados aunque el tercero muera antes.
 
 ###### Art. 1101.
 
@@ -17322,3 +17324,7 @@ P.O. 30 DE DICIEMBRE DE 2003.
 DECRETO 20421
 
 ÚNICO. El presente decreto que contiene reformas al Código Civil del Estado de Jalisco y Código de Procedimientos Civiles del Estado de Jalisco entrará en vigor al día 14 de febrero de 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 10 DE FEBRERO DE 2004.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
