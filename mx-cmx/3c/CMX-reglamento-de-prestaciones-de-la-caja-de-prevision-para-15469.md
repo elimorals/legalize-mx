@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-prestaciones-de-la-caja-de-prevision-para-15469"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-12-19"
-last_updated: "1993-09-13"
+last_updated: "1997-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15469&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1988-11-25"
 
 REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL DEPARTAMENTO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE SEPTIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE OCTUBRE DE 1997.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 19 de diciembre de 1988.
 
@@ -162,9 +162,13 @@ III. Se tomarán en cuenta los períodos que haya laborado el trabajador del ser
 
 IV. Los trabajadores a lista de raya del Departamento que hubieren prestado servicios con anterioridad al 1°. de enero de 1962, fecha en que inició operaciones la Institución, y siempre que hayan pagado sus cuotas a partir de esa fecha, cumpliendo con los demás requisitos establecidos para disfrutar de pensión, tendrán derecho a la misma, computándoseles ese tiempo sin estar obligados a cubrir cuotas especiales. Si llegaran a fallecer, a sus familiares derechohabientes se les concederá la pensión correspondiente, reconociéndoles ese lapso sin pago alguno de cuotas.
 
-> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 1997)</small>
 
-V. Cuando se hubieren prestado servicios con interrupciones con más de seis meses, antes o después del 1o. de enero de 1962, los trabajadores o, al fallecer éstos, sus familiares derechohabientes podrán solicitar que la institución adicione ese tiempo al nuevo período laborado, para así tener derecho a pensión, o correspondiéndoles ésta para incrementar con ese tiempo de servicios su antigüedad, pagando previamente las cuotas especiales que se les dictaminen por tal motivo.
+V. Cuando se hubieren prestado servicios con interrupciones con más de seis meses antes o después del 01 de enero de 1962, los trabajadores o al fallecer estos, sus familiares derechohabientes, podrán solicitar que la institución adicione el período de tiempo interrumpido al nuevo período cotizado, para así tener derecho a pensión, o correspondiendo ésta, para incrementar su antigüedad, pagando previamente las cuotas especiales relativas al preríodo (sic) de tiempo no cotizado.
+
+> <small>(F. DE E., G.O. 17 DE NOVIEMBRE DE 1997)</small>
+
+El período de tiempo cotizado con anterioridad a la interrupción deberá reconocerse, independientemente del pago de cuotas especiales antes señalado.
 
 ###### ARTICULO 16.
 
@@ -1271,3 +1275,7 @@ G.O. 13 DE SEPTIEMBRE DE 1993.
 PRIMERO.- Este Acuerdo entrará en vigor el día 18 de junio de 1993.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Departamento del Distrito Federal.
+
+G.O. 20 DE OCTUBRE DE 1997.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
