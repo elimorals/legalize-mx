@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1930-01-05"
+last_updated: "1930-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1930.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 1930.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -795,13 +795,11 @@ El Supremo Tribunal de Justicia del Estado, se compondrá de un Magistrado Propi
 
 Los Magistrados del Supremo Tribunal de Justicia en el Estado, serán electos por el Congreso del mismo, constituido en Colegio Electoral, debiendo concurrir por lo menos a la sesión en que deba hacerse la elección, las dos terceras partes del número total de sus miembros y siendo indispensable que el electo obtenga mayoría absoluta de votos. La elección se hará en escrutinio secreto
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1929)</small>
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 1930)</small>
 
 ###### Art. 84.
 
-Los Magistrados del Supremo Tribunal de Justicia, serán electos dentro de los sesenta días siguientes al de la instalación del Congreso Constitucional, y durarán en sus funciones cuatro años, pudiendo ser reelectos.
-
-Durante el período de su encargo no podrán ser removidos sin previo juicio de responsabilidad en el que se pronuncie sentencia condenatoria ejecutoriada.
+Los Magistrados del Supremo Tribunal de Justicia, serán electos dentro de los noventa días siguientes al de la instalación del Congreso Constitucional, y durarán en sus funciones cuatro años, pudiendo ser reelectos durante el periodo de su encargo no podrán ser removidos sin previo juicio de responsabilidad, en el que se pronuncie sentencia condenatoria ejecutoriada.
 
 ###### Art. 85.
 
@@ -1180,5 +1178,9 @@ P.O. 12 DE DICIEMBRE DE 1929
 El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
 
 P.O. 5 DE ENERO DE 1930
+
+El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
+
+P.O. 6 DE FEBRERO DE 1930
 
 El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
