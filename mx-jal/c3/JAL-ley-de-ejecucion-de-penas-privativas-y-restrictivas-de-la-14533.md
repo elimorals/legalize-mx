@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-la-14533
 country: "mx"
 rank: "ley"
 publication_date: "1979-06-21"
-last_updated: "1979-06-21"
+last_updated: "2003-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE PENAS DEL ESTADO DE JALISCO, PUBLICADA EN EL PERIODICO OFICIAL EL 29 DE NOVIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley Publicada en el Periódico Oficial del jueves 21 de junio de 1979.
 
@@ -638,3 +640,13 @@ Lic. Flavio Romero de Velasco
 El Secretario General de Gobierno
 
 Lic. Alfonso de Alba Martín
+
+N DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 29 DE NOVIEMBRE DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor a los sesenta días siguientes al de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se abroga el Decreto 9999 de fecha 21 de junio de 1979, que contiene la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado de Jalisco, y se derogan todas disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El Ejecutivo deberá aprobar las disposiciones reglamentarias de la presente Ley a los noventa días siguientes a su entrada en vigor.
