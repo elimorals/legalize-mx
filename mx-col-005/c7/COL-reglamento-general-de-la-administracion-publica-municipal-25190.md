@@ -4,7 +4,7 @@ identifier: "COL-reglamento-general-de-la-administracion-publica-municipal-25190
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-25"
-last_updated: "2002-05-25"
+last_updated: "2003-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO GENERAL DE LA ADMINISTRACION PUBLICA MUNICIPAL DE CUAUHTEMOC
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2003.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 25 de mayo de 2002.
 
@@ -97,7 +97,9 @@ El Ayuntamiento, de Cuauhtémoc ejerce su administración por conducto de las si
 
 4.- Oficialía Mayor
 
-5.- Dirección General de Desarrollo Urbano, Obras y Servicios Públicos
+> <small>(REFORMADO, P.O., 22 DE MARZO DE 2002)</small>
+
+5.- Dirección de Desarrollo Urbano y Obras Publicas
 
 6.- Dirección de Desarrollo Rural
 
@@ -106,6 +108,10 @@ El Ayuntamiento, de Cuauhtémoc ejerce su administración por conducto de las si
 8.- Dirección de Educación, Cultura y Deporte
 
 9.- Dirección de Seguridad Pública y Vialidad
+
+> <small>(ADICIONADO, P.O., 22 DE MARZO DE 2002)</small>
+
+10.- Dirección de Servicios Públicos.
 
 ###### ARTICULO 6°.
 
@@ -501,9 +507,11 @@ XVI. Autorizar, previo acuerdo del presidente municipal y con base en el presupu
 
 XVII. Las demás que le otorguen las leyes, reglamentos y manuales de organización.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O., 22 DE MARZO DE 2002)</small>
+
 ###### ARTICULO 20.
 
-Corresponderá al Director General de Desarrollo Urbano, Obras y Servicios Públicos:
+Corresponderá al Director de Desarrollo Urbano y Obras Publicas:
 
 I. Coordinar, supervisar y evaluar las funciones y actividades del Ayuntamiento en materia de Obras Públicas y Desarrollo Urbano.
 
@@ -581,23 +589,13 @@ XXXVII.- Promover la restauración y conservación de zonas arqueológicas.
 
 XXXVIII.- Participar en la elaboración del presupuesto de obras del Ayuntamiento; y (sic)
 
-XXXIX.- Las demás que le otorguen las leyes, reglamentos y manuales de organización.
+XXXIX.- Las demás que le otorguen las leyes, reglamentos y manuales de organización;
 
-XL.- Además de las atribuciones señaladas en las fracciones anteriores, corresponde al Director General de Desarrollo Urbano, Obras y Servicios Públicos por conducto del Departamento de Servicios Públicos:
+XL.- (DEROGADA, P.O., 22 DE MARZO DE 2002)
 
-a).- Operar y mantener la red de alumbrado público del Municipio, sin perjuicio de las funciones propias de la comisión Federal de Electricidad;
+> <small>(ADICIONADO, P.O., 22 DE MARZO DE 2002)</small>
 
-b).- Tener a su cargo las funciones de recolección y procesamiento de la basura y en general, así como las labores de limpieza pública en el municipio;
-
-c).- Conservar y mantener jardines, camellones y área verdes;
-
-d).- Tener a su cargo el servicio de mantenimiento de calles, banquetas y plazas públicas;
-
-e).- Conocer y resolver los asuntos relacionados con la limpieza, alumbrado público central de autobuses, panteón municipal; funeraria municipal y parques y jardines, así como el cumplimiento y observancia de la reglamentación municipal que le faculte para ello e imponer las sanciones correspondientes a los Infractores;
-
-f).- Organizar y prestar los servicios públicos que correspondan al municipio y que no estén atribuidos a otra dependencia; y
-
-g).- Las demás que le otorguen las leyes, reglamentos y manuales de organización.
+ARTICULO 20 BIS.- Corresponderá a la Dirección de Servicios Públicos.
 
 ###### ARTICULO 21.
 
@@ -681,7 +679,9 @@ VIII.- Participar en las giras de trabajo del Presidente Municipal por las zonas
 
 IX.- Participar en campañas de limpieza, vacunación y reforestación.
 
-X.- Redactar, imprimir y distribuir boletines informativos con las noticias de los barrios de Colima.
+> <small>(REFORMADA, P.O., 22 DE MARZO DE 2002)</small>
+
+X.- Redactar, imprimir y distribuir boletines informativos en los barrios de las comunidades del Municipio de Cuauhtémoc.
 
 XI.- Las demás que le otorguen las leyes, reglamentos y manuales de organización.
 
@@ -1175,9 +1175,11 @@ La administración municipal deberá sujetar su actuación a las facultades que 
 
 Los actos de las autoridades municipales se reputarán legales, en consecuencia, una vez dictados se procederá a su ejecución.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2002)</small>
+
 ###### ARTICULO 71.
 
-Las infracciones a las normas contenidas en los Reglamentos Municipales o en los acuerdos del Cabildo se sancionarán por las autoridades municipales, haciendo uso de las medidas previstas en los propios Reglamentos que se infrinjan y en la Ley de Ingresos o Hacienda del Municipio.
+Las infracciones a las normas contenidas en los Reglamentos Municipales o en los acuerdos del Cabildo se sancionarán por las autoridades municipales, haciendo uso de las medidas previstas en los propios Reglamentos que se infrinjas (sic) y en la ley de Hacienda Municipal para el Municipio de Cuauhtémoc.
 
 ###### ARTICULO 72.
 
@@ -1187,9 +1189,15 @@ Las autoridades municipales con capacidad legal para sancionar, deberán turnar 
 
 Las resoluciones que dicten las autoridades municipales podrán impugnarse mediante los recursos previstos en la legislación fiscal municipal o en la legislación fiscal federal, según se trate.
 
-T R A N S I T O R I O S (SIC)
+T R A N S I T O R I O S
 
-UNICO.- El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+UNICO (SIC).- El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2002)</small>
+
+###### ARTICULO SEGUNDO.
+
+El presente Reglamento Abroga el Reglamento Interior del Municipio de Cuauhtémoc, el cual fue aprobado el 5 de Diciembre de 1987 y Publicado en el Periódico Oficial "El Estado de Colima" en fecha 16 de Marzo de 1991.
 
 El Presidente Municipal dispondrá se publique, circule y observe.
 
@@ -1200,3 +1208,9 @@ Dado en el Salón de Sesiones de Cabildo del H. Ayuntamiento Constitucional de C
 > <small>(F. DE E., P.O. 22 DE MARZO DE 2003)</small>
 
 Lic. Cesar Ceballos Gómez.- Presidente Municipal.- Rubrica.- C. Pedro Martínez Rivera.- Sindico.- Rubrica.- Tec- Teresa Santa Ama Blake.- Regidora.- Rubrica.-Profra. Ma. De Jesús Fajardo López.- Regidora.- Rubrica.- Licda. Sandra Y. Ramírez Santillán.- Regidora.- Rubrica.- C. Alfonso Michel Aguirre.- Regidor.- Rubrica.- C. Carlos Yáñez Ibarra.- Regidor.- Rubrica.- C. Luis Enrique Martínez Ceballos.- Regidor.- Rubrica.- Dr. Ismael Estrada Ruiz.- Regidor.- Rubrica.- Lic. Esteban González Rodríguez.- Secretario.- Rubrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE MARZO DE 2003.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
