@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-32931"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-07-17"
-last_updated: "2003-07-17"
+last_updated: "2004-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, PUBLICADO EN LA CUARTA SECCION DEL PERIODICO OFICIAL, EL DIA 7 DE FEBRERO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL. ABROGADA.
 
 Ley publicada en el Periódico Oficial el Jueves 17 de Julio de 2003.
 
@@ -1962,3 +1964,13 @@ El Secretario General de Gobierno
 LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE FEBRERO DE 2004.
+
+PRIMERO.- Se abroga la Ley Orgánica del Poder Legislativo contenida en el Decreto número 19987 y todas las disposiciones que se opongan.
+
+SEGUNDO.- La presente ley entrará en vigor el mismo día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+TERCERO.- Los asuntos pendientes de resolver deben ser remitidos a las comisiones que establece esta ley desde las comisiones previstas en la Ley Orgánica del Poder Legislativo contenida en el Decreto 8846 para continuar su trámite con el orden de preferencia siguiente:
