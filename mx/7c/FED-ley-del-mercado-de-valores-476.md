@@ -4,7 +4,7 @@ identifier: "FED-ley-del-mercado-de-valores-476"
 country: "mx"
 rank: "ley"
 publication_date: "1975-01-02"
-last_updated: "1995-11-17"
+last_updated: "1996-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=476&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 2 de enero de 1975.
 
@@ -2316,9 +2316,11 @@ VII.- El Fondo, en cumplimiento de su objeto, podrá adquirir acciones represent
 
 VIII.- Los participantes en el mecanismo de apoyo preventivo y de protección al mercado de valores, estarán obligados a proporcionar al Fondo la información que éste les solicite, para cumplir con sus fines, así como a poner en conocimiento del mismo, con toda oportunidad, cualquier problema que confronten y que, a su juicio, pueda dar lugar a apoyos del Fondo. Asimismo, tales participantes estarán obligados a recibir los apoyos que, a propuesta del comité técnico, la Secretaría de Hacienda y Crédito Público estime necesarios y a cumplir con los programas o medidas correctivas que el Fondo les apruebe.
 
-IX.- Las sociedades que, con posterioridad a la fecha de constitución del Fondo, obtengan autorización para ser inscritas en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios de conformidad con la presente Ley, estarán obligadas a participar en el Fondo y a cubrir a éste, en los términos que indique el comité técnico, la aportación inicial que resulte de aplicar al importe de patrimonio neto del propio Fondo, el porcentaje que el capital global promedio observado durante el tercer año de operación del intermediario de que se trate, represente del promedio del capital global conjunto de tales intermediarios en el mismo año. Dicha cantidad inicial se empezará a cubrir desde que la sociedad comience sus operaciones, en los términos que indique el comité técnico.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-El importe del patrimonio neto al que se aplicará el porcentaje referido, será el promedio que registre el Fondo durante los tres primeros años de operación de la casa de bolsa o el especialista bursátil respectivos.
+IX.- Las sociedades que, con posterioridad a la fecha de constitución del Fondo, obtengan autorización para ser inscritas en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios de conformidad con la presente Ley, estarán obligadas a participar en el Fondo y a cubrir a éste, en los términos que indique el comité técnico, la aportación inicial que determine la Secretaría de Hacienda y Crédito Público, a propuesta del Banco de México, mediante disposiciones de carácter general que tomarán en cuenta, entre otros elementos, la capacidad máxima de operación, así como el volumen y riesgo de las operaciones de cada sociedad. Dicha cantidad inicial se empezará a cubrir desde que la sociedad comience sus operaciones, en los términos que indique el comité técnico.
+
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 30 DE ABRIL DE 1996)</small>
 
 X.- En el evento de que los participantes no cubran oportunamente al Fondo, las aportaciones a que se refieren las fracciones III y IX, deberán pagar al Fondo los intereses moratorios que para tal efecto determine la Secretaría de Hacienda y Crédito Público, sin perjuicio de las sanciones que corresponda aplicar de conformidad con este ordenamiento.
 
@@ -3037,3 +3039,11 @@ D.O.F. 17 DE NOVIEMBRE DE 1995.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE ABRIL DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
