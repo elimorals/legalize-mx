@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2003-12-18"
+last_updated: "2004-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE FEBRERO DE 2004.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -307,7 +307,7 @@ VI.- Custodiar todos los fondos, valores e ingresos del Estado, así como los qu
 
 VII.- Ejecutar los convenios que en materia impositiva celebre el Gobierno del Estado con la Federación o los municipios;
 
-VIII.- Vigilar el estricto cumplimiento de las leyes, reglamentos y otras disposiciones de carácter fiscal; así como practicar visitas de inspección y auditorías a contribuyentes en los términos de los ordenamientos fiscales correspondientes;
+VIII.- Vigilar el estricto cumplimiento de las leyes, reglamentos y otras disposiciones de carácter fiscal; así como practicar visitas de inspección y auditorias a contribuyentes en los términos de los ordenamientos fiscales correspondientes;
 
 IX.- Ejercer las facultades tributarias que, mediante convenio con la Federación, asuma el Gobierno del Estado;
 
@@ -597,7 +597,7 @@ C. En materia de obra pública:
 
 I.- Realizar obras públicas, directamente o a través de terceros, en los términos de la Ley de Obras Públicas del Estado de Sonora y demás disposiciones aplicables; y
 
-II.- Elaborar, directamente o a través de terceros, los estudios, proyectos arquitectónicos y de ingeniería necesaria para ejecutar las obras públicas, cumpliendo con lo previsto en las disposiciones legales y reglamentarias aplicables.
+II.- Elaborar, directamente o a través de terceros, los estudios, proyectos arquitectónicos y de ingeniería necesarios para ejecutar las obras públicas, cumpliendo con lo previsto en las disposiciones legales y reglamentarias aplicables.
 
 D. En materia de comunicaciones y transportes:
 
@@ -1287,9 +1287,11 @@ El presente Decreto entrará en vigor el primero de enero de 2004.
 
 En los casos de las atribuciones de las dependencias, que conforme a este Decreto pasen a otra dependencia, la reasignación deberá efectuarse incluyendo al personal a su servicio, presupuesto, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que las dependencias hayan utilizado para el ejercicio de las atribuciones de que se trate.
 
+> <small>(REFORMADO, B.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO TERCERO.
 
-Los asuntos que con motivo de este Decreto deban pasar de una Secretaría a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten ase incorporen a la dependencia que señale esta Ley, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+Los asuntos en trámite que con motivo de este Decreto deban pasar de una Secretaría a otra, o los recursos interpuestos en contra de los actos o resoluciones de aquélla, seguirán tramitándose ante las unidades administrativas de las Secretarías competentes, conforme este Decreto, y serán resueltos por las mismas.
 
 ###### ARTICULO CUARTO.
 
@@ -1307,6 +1309,14 @@ El Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, con la part
 
 El Ejecutivo del Estado deberá expedir el Reglamento Interior de las Secretarías que se crean, así como realizar las adecuaciones correspondientes a los reglamentos interiores de las Secretarías cuyas atribuciones se modifican por virtud de este Decreto, en un plazo no mayor de seis meses, a partir de la entrada en vigor del mismo.
 
+> <small>(REFORMADO, B.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO OCTAVO.
 
-Las atribuciones que la Ley Estatal de Bienes y Concesiones le otorga a la Comisión Estatal de Bienes y Concesiones, serán asumidas por la Secretaría de Hacienda que se crea en virtud de este Decreto.
+Las atribuciones que la Ley de Bienes y Concesiones del Estado de Sonora le otorga a la Secretaría de Finanzas, serán asumidas por la Secretaría de Hacienda que se crea en virtud de este Decreto.
+
+B.O. 12 DE FEBRERO DE 2004.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
