@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2004-06-18"
+last_updated: "2004-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -1055,9 +1055,9 @@ El Presidente del Tribunal Superior de Justicia también será el Presidente del
 
 Las personas que sean consideradas para ser Consejeros de la Judicatura deberán haberse distinguido por su honestidad, capacidad y aptitud profesional para el desempeño de la función. Los funcionarios del Poder Judicial del Estado, excepto el Presidente del Tribunal Superior de Justicia, no podrán ser Consejeros de la Judicatura, salvo si se separan del cargo cien días naturales antes de su elección o designación.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+(REFORMADO, P.O. 9 DE JUNIO DE 2004) (F. DE E., P.O. 18 DE JUNIO DE 2004)
 
-Los Consejeros de la Judicatura del Estado no representan a quien los designa, por lo que ejercerá (sic) su función con independencia e imparcialidad. Salvo el Presidente del Consejo, los demás Consejeros durarán en su cargo cinco años improrrogables y serán sustituidos de manera escalonada.
+Los Consejeros de la Judicatura del Estado no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad. Salvo el Presidente del Consejo, los demás Consejeros durarán en su cargo cinco años improrrogables y serán sustituidos de manera escalonada.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
