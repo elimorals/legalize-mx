@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-el-instituto-de-la-juventud-oaxaquena-10676"
 country: "mx"
 rank: "ley"
 publication_date: "1991-01-05"
-last_updated: "1991-01-05"
+last_updated: "2004-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY QUE CREA EL INSTITUTO DE LA JUVENTUD OAXAQUEÑA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA LA COMISION ESTATAL DE LA JUVENTUD OAXAQUEÑA, PUBLICADA EN EL PERIODICO OFICIAL EL 4 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de enero de 1991.
 
@@ -288,3 +290,17 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. ILDEFONSO ZORRILLA CUEVAS.
 
 Al C.......
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 4 DE DICIEMBRE DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado;
+
+SEGUNDO.- Se abroga el decreto número 88 de fecha 05 de enero de 1991, que contiene la Ley que crea el Instituto de la Juventud Oaxaqueña.
+
+TERCERO.- Los recursos humanos, materiales y financieros a cargo, pasarán a formar parte de la Comisión Estatal de la Juventud. Las disposiciones legales y reglamentarias que contengan la denominación, "INSTITUTO DE LA JUVENTUD OAXAQUEÑA", se entenderá que se trata de la Comisión Estatal de la Juventud. Los actos e instrumentos celebrados por la institución denominada "INSTITUTO DE LA JUVENTUD OAXAQUEÑA" seguirán vigentes y se entenderán celebrados por LA COMISION ESTATAL DE LA JUVENTUD, sin menoscabarse los derechos laborales de sus trabajadores los que se entenderán intocados. Las Secretarías de Finanzas, de Administración y de la Contraloría, en uso de sus respectivas facultades legales, realizarán todos los actos concernientes para dar el debido cumplimiento de la presente Ley.
+
+CUARTO.- El Titular del Poder Ejecutivo, tendrá un plazo improrrogable de sesenta días para dar debido cumplimiento a la Ley de la Cultura Física y el Deporte para el Estado de Oaxaca.
+
+QUINTO.- Los miembros de la Junta Directiva celebrarán sesión plenaria de integración dentro de los treinta días siguientes a la fecha de publicación de esta ley.
