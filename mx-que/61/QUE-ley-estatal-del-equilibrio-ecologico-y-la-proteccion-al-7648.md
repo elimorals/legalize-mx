@@ -4,7 +4,7 @@ identifier: "QUE-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-7648"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-26"
-last_updated: "1988-05-26"
+last_updated: "1991-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 26 de mayo de 1988.
 
@@ -259,7 +259,7 @@ VI.- La verificación del cumplimiento de las normas técnicas ecológicas de em
 
 VII.- El establecimiento de medidas para retirar de la circulación los vehículos automotores que rebasen los límites máximos permisibles de emisores contaminantes a la atmósfera que establezcan los reglamentos y normas técnicas ecológicas aplicables;
 
-VIII..- La puesta en práctica de medidas de tránsito y vialidad para evitar que los niveles de concentración de contaminantes en la atmósfera emitidos por los vehículos automotores, rebasen los límites máximos permisibles que determinen los reglamentos y las normas técnicas ecológicas aplicables;
+VIII.- La puesta en práctica de medidas de tránsito y vialidad para evitar que los niveles de concentración de contaminantes en la atmósfera emitidos por los vehículos automotores, rebasen los límites máximos permisibles que determinen los reglamentos y las normas técnicas ecológicas aplicables;
 
 IX.- El condicionamiento de las autorizaciones para el uso del suelo o de las licencias de construcción u operación, al resultado satisfactorio de la evaluación de impacto ambiental, en el caso de proyectos de obras, acciones y servicios que se mencionan en el artículo 32 de esta Ley;
 
@@ -273,7 +273,7 @@ XIII.- El establecimiento de las medidas para hacer efectiva la prohibición de 
 
 XIV.- La regulación de la imagen de los centros de población para protegerlos de la contaminación visual;
 
-XV.- La preservación y restauración del equilibrio ecológico y la protección ambiental en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados y centrales de abastos, panteones, rastros, calles, parques urbanos y jardines, tránsito y transporte local;
+XV.- La preservación y restauración del equilibrio ecológico y la protección ambiental en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados y centrales de abastos, pateones, rastros, calles, parques urbanos y jardines, tránsito y transporte local;
 
 XVI.- El manejo y disposición final de los residuos sólidos que no sean peligrosos, así como la vigilancia del manejo de los residuos sólidos industriales no peligrosos;
 
@@ -367,7 +367,7 @@ La Comisión Estatal de Ecología regirá su funcionamiento de acuerdo con el re
 
 ###### ARTICULO 15.
 
-En cada municipio existirá una comisión municipal de ecología que se encargará de coordinar las dependencias y entidades municipales y de concertar los esfuerzos de la sociedad civil en las materias a que se refiere esta Ley y que sean de competencia municipal.
+En cada municipio existirá una comisión municipal de ecología que se encargará de coordinar a las dependencias y entidades municipales y de concertar los esfuerzos de la sociedad civil en las materias a que se refiere esta Ley y que sean de competencia municipal.
 
 En cada ayuntamiento habrá un regidor encargado de la función de ecología.
 
@@ -411,7 +411,7 @@ VIII.- La coordinación entre los distintos niveles de gobierno y la concertaci�
 
 IX.- El sujeto principal de la concertación ecológica son no solamente los individuos, sino también los grupos y organizaciones sociales. El propósito de la concertación de acciones ecológicas es reorientar las relaciones entre la sociedad y la naturaleza;
 
-X.- En el ejercicio de las atribuciones que las leyes confieren al estado y a los municipios para regular, promover, restringir, prohibir, orientar y en general, inducir las acciones de los particulares en los campos económicos y social, se considerarán los criterios de preservación y restauración del equilibrio ecológico estatal;
+X.- En el ejercicio de las atribuciones que las leyes confieren al estado y a los municipios para regular, promover, restringir, prohibir, orientar y en general, inducir las acciones de los particulares en los campos económico y social, se considerarán los criterios de preservación y restauración del equilibrio ecológico estatal;
 
 XI.- Toda persona tiene derecho a disfrutar de un ambiente sano. Las autoridades, en los términos de esta y otras Leyes, tomarán las medidas para preservar ese derecho;
 
@@ -607,7 +607,7 @@ La Secretaría promoverá, con la participación de la autoridad competente, que
 
 ###### ARTÍCULO 38.
 
-El gobierno estatal y los municipios fomentarán investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento racional de los recursos y proteger los ecosistemas. Para ello se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas.
+El gobierno estatal y los municipios fomentarán investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento racional de los recursos y proteger los ecosistemas. Para ello se podrán celebrar convenios con instituciones de educación superior, centros de investigación, intituciones del sector social y privado, investigadores y especialistas.
 
 ###### ARTÍCULO 39.
 
@@ -631,7 +631,7 @@ Hecho lo anterior, el presidente municipal difundirá ampliamente dicha polític
 
 ###### ARTÍCULO 44.
 
-En los términos de esta Ley y de las demás aplicables, las áreas naturales a que se refiere el presente capítulo, podrán ser materia de protección como reservas ecológicas, para los propósitos, efectos y modalidades que en tales ordenamientos se precisan, mediante la imposición de las limitaciones que determinen las autoridades competentes para realizar en ellas sólo los usos y aprovechamientos social y estatalmente convenientes. Las mismas son consideradas en la presente Ley como áreas naturales protegidas y su establecimiento es de interés social y utilidad pública.
+En los términos de esta Ley y demás aplicables, las áreas naturales a que se refiere el presente capítulo, podrán ser materia de protección como reservas ecológicas, para los propósitos, efectos y modalidades que en tales ordenamientos se precisan, mediante la imposición de las limitaciones que determinen las autoridades competentes para realizar en ellas sólo los usos y aprovechamientos social y estatalmente convenientes. Las mismas son consideradas en la presente Ley como áreas naturales protegidas y su establecimiento es de interés social y utilidad pública.
 
 ###### ARTÍCULO 45.
 
@@ -865,7 +865,7 @@ VII.- La asignación de una tarifa especial para tomas sin uso, como en el caso 
 
 VIII.- La operación de un sistema tarifario para las tomas industriales en el que además de los costos mencionados en la fracción VI de este artículo, se adicionarán costos de tratamiento de aguas residuales, con base en las características de las aguas que se descarguen al alcantarillado;
 
-IX.- Para el abastecimiento de agua a la población, el sistema tarifario asegurará una dotación mensual mínima indispensable a un costo accesible por cada toma doméstica; en caso de ser rebasada esta dotación, el costo del consumo adicional se incrementará en función de la disponibilidad de recursos; y
+IX.- Para el abastecimiento de agua a la población, el sistema tarifario asegurará una dotación, mensual mínima indispensable a un costo accesible por cada toma doméstica; en caso de ser rebasada esta dotación el costo del consumo adicional se incrementará en función de la disponibilidad de recursos; y
 
 X.- La sustitución de agua potable por agua residual tratada en los usos productivos que así lo permitan.
 
@@ -947,11 +947,9 @@ I.- A la Secretaría:
 
 a).- Llevar, con el apoyo de otras dependencias, entidades y de los municipios, el control de las descargas de aguas residuales a los sistemas de drenaje y alcantarillado que operen en la entidad;
 
-b).- Requerir, a quienes quieran descargar a dichos sistemas y no satisfagan las normas técnicas
+b).- Requerir, a quienes quieran descargar a dichos sistemas y no satisfagan las normas técnicas ecológicas que expidan, la instalación de sistemas de tratamiento de sus aguas residuales, o en su caso, la aceptación del municipio para tomar a su cargo dicho tratamiento en la que se haga constar que el usuario cubrirá las cuotas o derechos correspondientes;
 
-ecológicas que expidan, la instalación de sistemas de tratamiento de sus aguas residuales, o en su caso, la aceptación del municipio para tomar a su cargo dicho tratamiento en la que se haga constar que el usuario cubrirá las cuotas o derechos correspondientes;
-
-c).- Determinar el monto de los derechos correspondientes que deberán pagar quienes descarguen sus aguas a los sistemas de drenaje y alcantarillado para que la dependencia o entidad estatal respectiva o los municipios puedan llevar a cabo el tratamiento necesario, y en su caso, proceder a la imposición de las sanciones a que haya lugar, y
+c).- Determinar el monto de los derechos correspondientes que deberán pagar quienes descarguen sus aguas a los sistemas de drenaje y alcantarillado para que la dependencia o entidad respectiva o los municipios puedan llevar a cabo el tratamiento necesario, y en su caso, proceder a la imposición de las sanciones a que haya lugar, y
 
 d).- Promover y regular el uso de tecnología apropiadas para el reuso de aguas residuales generadas en viviendas y unidades habitacionales principalmente en lugares donde no haya sistema de alcantarillado.
 
@@ -1163,7 +1161,9 @@ Cuando los ordenamientos a que se refiere el párrafo anterior no incluyan medid
 
 Las violaciones a los preceptos de esta Ley, sus reglamentos y disposiciones que de ella emanen, constituyen infracción y serán sancionadas administrativamente por la Secretaría en asuntos de competencia estatal, no reservados expresamente a otra dependencia y, en los demás casos, por las autoridades de los municipios en el ámbito de sus competencias, y conforme a las disposiciones locales que se expidan, con una o más de las siguientes sanciones:
 
-I.- Multa por el equivalente de veinte a veinte mil días de salario mínimo general vigente en el estado en el momento de imponer la sanción,
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1991)</small>
+
+I.- Multa por el equivalente de cinco a veinte mil días de salario mínimo general vigente en el Estado en el momento de imponer la sanción,
 
 II.- Clausura temporal o definitiva, parcial o total, y
 
@@ -1359,6 +1359,10 @@ El Secretario de Gobierno
 
 LIC. JOSE MARIA HERNANDEZ SOLIS
 
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE ENERO DE 1991.
+
 ### CAPITULO IV. CONTAMINACION VISUAL Y PROTECCION DEL PAISAJE
 
 ### CAPITULO I. ACTIVIDADES QUE NO SEAN CONSIDERADAS ALTAMENTE RIESGOSAS
@@ -1386,3 +1390,11 @@ LIC. JOSE MARIA HERNANDEZ SOLIS
 ### CAPITULO VI. DELITOS DEL ORDEN COMUN
 
 ### CAPITULO VII. DENUNCIA POPULAR
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
