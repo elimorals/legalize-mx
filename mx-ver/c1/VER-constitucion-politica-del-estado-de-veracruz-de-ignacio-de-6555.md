@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1996-11-26"
+last_updated: "1996-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE DICIEMBRE DE 1996.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -503,9 +503,7 @@ I. Ser ciudadano veracruzano, nativo del Estado, o con residencia efectiva en el
 
 II. Saber leer y escribir;
 
-> <small>(REFORMADA, G.O. 21 DE ENERO DE 1984)</small>
-
-III. Haber cumplido veintiún años;
+III. (DEROGADA, G.O. 17 DE DICIEMBRE DE 1996)
 
 > <small>(REFORMADA, G.O. 21 DE ENERO DE 1984)</small>
 
@@ -603,11 +601,11 @@ Los trabajos para la instalación de la Legislatura, en su primer período de se
 
 El día de la instalación y antes del acto, los Diputados harán formal protesta de guardar esta Constitución y la General de la República, mirando en todo por el bien del Estado. Igual protesta se exigirá a los que no hayan asistido a la instalación, cuando se presenten a desempeñar su encargo.
 
-> <small>(REFORMADO, G.O. 12 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 60.
 
-El Gobernador del Estado presentará, ante la Legislatura, el día 30 de noviembre, un informe por escrito de las actividades realizadas por el Poder Ejecutivo en el año correspondiente. Este informe será analizado por la Legislatura en sesiones subsecuentes, a las que podrán concurrir los Secretarios del Despacho, para ampliar o detallar aspectos relacionados con sus ramos.
+El Gobernador del Estado presentará, ante la legislatura, el día 30 de noviembre, un informe por escrito de las actividades realizadas por el Poder Ejecutivo en el año correspondiente. Este informe será analizado por la Legislatura en sesiones subsecuentes, a las que deberán concurrir los Secretarios del Despacho, el Procurador General de Justicia, el Contralor General del Estado y el Coordinador General de Comunicación Social para ampliar o detallar aspectos relacionados con sus ramos.
 
 > <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
 
@@ -1139,9 +1137,9 @@ IX. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a éstos e
 
 X. Ocurrir anualmente al acto de apertura de Sesiones Ordinarias de la H. Legislatura;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, G.O. 17 DE DICIEMBRE DE 1996)</small>
 
-XI. Acordar que concurran los Secretarios del Despacho, a las sesiones de la Legislatura, para que den a ésta, los informes que pida o para apoyar en los debates las observaciones que haga el Ejecutivo a los proyectos de Ley o decretos, o bien a las iniciativas que presentare;
+XI. Acordar que concurran los Secretarios del Despacho, el Procurador General de Justicia, el Contralor General del Estado y el Coordinador General de Comunicación Social a las sesiones de la Legislatura, para que den a ésta, los informes que pida o para apoyar en los debates las observaciones que haga el Ejecutivo a los proyectos de ley o decreto, o bien a las iniciativas que presentare;
 
 > <small>(REFORMADA, G.O. 21 DE SEPTIEMBRE DE 1922)</small>
 
@@ -1293,7 +1291,9 @@ Los Secretarios del Despacho serán responsables de las resoluciones del Goberna
 
 El Gobernador podrá dar a conocer sus resoluciones a través de los Secretarios del Despacho, cuando así lo estime pertinente.
 
-En cualquier tiempo, la Legislatura del Estado o la Diputación Permanente, podrá citar a los Secretarios del Despacho para que informen del Estado que guarda la administración de sus respectivos ramos. Asimismo, podrá citarlos para explicar a la Legislatura, cuando se vaya a discutir un proyecto de ley o a estudiar un asunto relacionado con el ramo de que está encargado, en los términos del Artículo 87, fracción XI de esta Constitución.
+> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 1996)</small>
+
+En cualquier tiempo, la Legislatura del Estado o la Diputación Permanente, podrá citar a los Secretarios del Despacho, al Procurador General de Justicia, al Contralor General del Estado y al Coordinador General de Comunicación Social para que informen del estado que guarda la administración de sus respectivos ramos o cuando se vaya a discutir un proyecto de Ley o estudiar un asunto relacionado con el ramo de que están encargados.
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 5 DE ABRIL DE 1984)</small>
 
@@ -1577,7 +1577,7 @@ VIII. La Legislatura analizará y aprobará la Ley de Ingresos de los ayuntamien
 
 IX. Los presupuestos de egresos serán aprobados por los ayuntamientos, según los ingresos disponibles y conforme a las bases normativas que para tal efecto expida la Legislatura;
 
-X. Los municipios , con el concurso del Estado cuando así fuere necesario y lo determinen las leyes, tendrán a su cargo los siguientes servicios públicos:
+X. Los municipios, con el concurso del Estado cuando así fuere necesario y lo determinen las leyes, tendrán a su cargo los siguientes servicios públicos:
 
 a). Agua potable y alcantarillado;
 
@@ -2310,3 +2310,17 @@ UNICO. La presente Ley entrará en vigor al día siguiente de su publicación en
 G.O. 26 DE NOVIEMBRE DE 1996.
 
 UNICO. La presente ley entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 17 DE DICIEMBRE DE 1996.
+
+DECRETO No. 29.
+
+UNICO. La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+G.O. 17 DE DICIEMBRE DE 1996.
+
+DECRETO No. 30.
+
+###### ARTICULO PRIMERO.
+
+LA PRESENTE LEY ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACIÓN EN LA 'GACETA OFICIAL' DEL ESTADO.
