@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-del-distrito-federal-15306"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-30"
-last_updated: "2001-09-04"
+last_updated: "2001-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15306&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-11-29"
 
 REGLAMENTO DE TRANSITO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE DICIEMBRE DE 2001.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de noviembre de 1999.
 
@@ -56,7 +56,9 @@ IV. Conductor, persona que lleva a cabo la conducción de un vehículo;
 
 V. Personal de apoyo vial, encargado del Programa Radar y Apoyo Vial de la Secretaría;
 
-VI. Agente, el personal de la Policía Preventiva del Distrito Federal que realiza funciones de control, supervisión y regulación del tránsito de personas y vehículos en la vía pública, así como la aplicación de sanciones por infracciones a las disposiciones establecidas en este Reglamento y demás disposiciones jurídicas en materia de tránsito;
+(REFORMADA, G.O. 5 DE DICIEMBRE DE 2001) (F. DE E., G.O. 6 DE DICIEMBRE DE 2001)
+
+VI. Agente, el elemento de la Policía Preventiva del Distrito Federal facultado por la Secretaría de Seguridad Pública para realizar funciones de control, supervisión, regulación del tránsito de personas y vehículos en la vía pública, así como de aplicación de sanciones por infracciones a las disposiciones establecidas en este Reglamento y demás disposiciones jurídicas en materia de tránsito;
 
 VII. Intersección o crucero, el lugar en donde se unen o convergen dos o más vías públicas;
 
@@ -74,7 +76,11 @@ XIII. Vía pública, todo espacio terrestre de uso común delimitado por los per
 
 XIV. Vehículo, todo medio de motor o forma de propulsión que se usa para transportar personas o carga;
 
-XV. Infracción, la conducta que lleva a cabo un conductor, peatón o pasajero que transgrede alguna disposición del presente Reglamento o demás disposiciones de tránsito aplicables y que tienen como consecuencia una sanción.
+XV. Infracción, la conducta que lleva a cabo un conductor, peatón o pasajero que transgrede alguna disposición del presente Reglamento o demás disposiciones de tránsito aplicables y que tienen como consecuencia una sanción;
+
+> <small>(ADICIONADA, G.O. 5 DE DICIEMBRE DE 2001)</small>
+
+XVI. Lugar prohibido, aquel que establecen los señalamientos expedidos por la autoridad competente, conforme al Manual de Dispositivos de Control de Tránsito.
 
 ###### ARTÍCULO 3o.
 
@@ -652,7 +658,7 @@ I. Circulación;
 
 II. Holograma de Verificación Vehicular vigente, y
 
-III. Revista vehicular tratándose de vehículos de servicio de transporte de pasajeros y de carga.
+III. (DEROGADA, G.O. 5 DE DICIEMBRE DE 2001)
 
 Las calcomanías mencionadas serán adheridas en un lugar visible en los cristales del vehículo, cuando se trate de servicio particular; y en la parte superior derecha del parabrisas de los vehículos de servicio público de transporte de pasajeros o de carga.
 
@@ -750,17 +756,19 @@ Dentro de los 60 días que sigan a la adquisición del vehículo, el adquirente 
 
 Los propietarios o conductores de vehículos que circulen en el Distrito Federal, deberán sujetarse a las disposiciones aplicables que sobre contaminación por fuentes móviles y contingencias ambientales prevé la Ley Ambiental del Distrito Federal y demás disposiciones reglamentarias, así como las disposiciones administrativas que la Secretaría del Medio Ambiente expida con base en dicha Ley.
 
+> <small>(REFORMADA, G.O. 5 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 48.
 
-Corresponde en su caso, al agente, o a las autoridades ambientales competentes, retirar de la circulación los vehículos cuyos conductores o propietarios incumplan con lo establecido en las disposiciones ambientales, cuando:
+En materia ambiental, los vehículos cumplirán con las siguientes disposiciones:
 
-I. No cuenten con el holograma de verificación vehicular de emisiones contaminantes correspondiente al período de que se trate;
+I. Contar con el holograma de verificación vehicular de emisiones contaminantes correspondientes al periodo de que se trate;
 
-II. Circulen en días u horas en que esté limitada la circulación en condiciones normales o de contingencia ambiental, y
+II. No circular en días u horas en que esté limitada la circulación en condiciones normales o de contingencia ambiental; y
 
-> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2001)</small>
+> <small>(F. DE E., G.O. 20 DE DICIEMBRE DE 2001)</small>
 
-III. Emitan humo negro o azul, es decir rebasen los límites máximos permisibles de emisiones contaminantes.
+III. No emitir humo ostensiblemente contaminante, es decir, por encima de la norma ambiental.
 
 ###### ARTÍCULO 49.
 
@@ -790,11 +798,11 @@ VIII. Los demás que determinen las disposiciones jurídicas y administrativas a
 
 ### CAPÍTULO IV. DE LOS ACCIDENTES DE TRÁNSITO Y DE LA RESPONSABILIDAD CIVIL RESULTANTE
 
-> <small>(F. DE E., G.O. 2 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.O. 5 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 51.
 
-Todo vehículo que circule en el Distrito Federal debe contar con póliza de seguro de responsabilidad civil vigente que ampare, al menos la responsabilidad civil contra daños a terceros en sus personas y patrimonio en términos de los artículos 66 y Sexto Transitorio de la Ley, cuyo inicio de vigencia ha sido dispuesto por la Asamblea Legislativa del Distrito Federal, a partir del primero de enero del 2002.
+Todo vehículo que circule en el Distrito Federal, debe contar con póliza de seguro de responsabilidad civil vigente que ampare, al menos la responsabilidad civil contra daños a terceros en sus personas, en términos de los artículos 66 y 6° transitorio de la Ley, cuyo inicio de vigencia ha sido dispuesto por la Asamblea Legislativa del Distrito Federal, a partir del 1° de enero de 2002.
 
 ###### ARTÍCULO 52.
 
@@ -848,93 +856,75 @@ V. Si el vehículo se haya estacionado o no se encuentra persona que pueda o qui
 
 VI. Una vez efectuada la revisión de los documentos y de la situación en la que se encuentran el vehículo, si éstos están en orden, el agente procederá a llenar la boleta de sanción, de la que extenderá una copia al interesado. En caso de que existan irregularidades el agente procederá de conformidad a lo que establece el artículo 59 del presente Reglamento;
 
-VII. Únicamente se remitirá el vehículo al depósito correspondiente, si la infracción cometida está prevista en los artículos 99 de la Ley y 59 del presente Reglamento;
+VII. (DEROGADA, G.O. 5 DE DICIEMBRE DE 2001)
 
-VIII. En el caso de vehículos no matriculados en el Distrito Federal y cuando el conductor no tenga licencia del Distrito Federal, se les retendrá una placa como medida para garantizar el pago de la multa a que se hayan hecho acreedores, por cualquier infracción cometida, cuya sanción deberá pagarse en el tiempo previsto en el presente Reglamento;
+VIII. (DEROGADA, G.O. 5 DE DICIEMBRE DE 2001)
 
-IX. Tratándose de vehículos que transporten sustancias tóxicas o peligrosas, se abstendrán de retirar documentación alguna o placa de matrícula, y
+IX. (DEROGADA, G.O. 5 DE DICIEMBRE DE 2001)
 
-X. No se podrán remitir al depósito los vehículos que realicen este tipo de transporte por violación a lo establecido en el presente Reglamento. En todo caso, se llenará la boleta de sanción correspondiente, permitiendo que el vehículo continúe su marcha.
+> <small>(REFORMADA, G.O. 5 DE DICIEMBRE DE 2001)</small>
+
+X. No podrán remitir al depósito los vehículos que transporten sustancias tóxicas o peligrosas, por violación a lo establecido en el presente Reglamento; en todo caso se llenará la boleta de sanción correspondiente, permitiendo que el vehículo continúe su marcha.
+
+> <small>(ADICIONADO, G.O. 5 DE DICIEMBRE DE 2001)</small>
+
+Los conductores de vehículos no matriculados en el Distrito Federal, garantizarán el pago de la multa a que se hagan acreedores, conforme lo establezca el Gobierno del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 5 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 57.
 
-Las sanciones en materia de tránsito, señaladas en este Reglamento y demás disposiciones jurídicas, serán impuestas por el agente que tenga conocimiento de la comisión de alguna de las infracciones contenidas en el mismo y se hará constar en las boletas autorizadas por la Secretaría y por Seguridad Pública, las cuales para su validez deberán contener:
+Las sanciones en materia de tránsito, señaladas en este Reglamento y demás disposiciones jurídicas, serán impuestas por el Agente que tenga conocimiento de la comisión de alguna de las infracciones contenidas en el mismo y se harán constar en las boletas autorizadas por la Secretaría y Seguridad Pública, las cuales para su validez contendrán:
 
-I. Fundamentos Jurídicos: Señalar los preceptos de este Reglamento y en su caso las demás disposiciones jurídicas aplicables a la infracción cometida y a la sanción impuesta, precisando los artículos, y en su caso las fracciones, incisos o párrafos;
+I. Fundamento Jurídico:
 
-II. Motivación.- El señalamiento de los siguientes datos:
+a) Artículos de la infracción cometida;
 
-a) Día, hora y lugar en que se cometió la conducta infractora.
+b) Artículos de la sanción impuesta.
 
-b) Nombre y domicilio del infractor, salvo que no esté presente o se niegue a proporcionarlos.
+II. Motivación:
 
-c) Marca, tipo, color, placas, y en su caso número del permiso para circular del vehículo.
+a) Día, hora, lugar y breve descripción del hecho de la conducta infractora;
 
-d) En su caso, número y tipo de licencia o permiso de conducir.
+b) Nombre y domicilio del infractor, salvo que no esté presente o no los proporcione;
 
-e) Infracción cometida y sanción impuesta.
+c) Placas y en su caso, número del permiso del vehículo para circular y
 
-III. Nombre, número de placa y firma del agente que imponga la sanción, y
+d) En su caso, número y tipo de licencia o permiso de conducir;
 
-IV. En su caso, la firma del infractor. La falta de ésta no invalida la boleta.
+III. Nombre, número de placa y firma del agente que imponga la sanción.
 
 ###### ARTÍCULO 58.
 
 Los agentes no podrán requerir documentos ni solicitar mayor información al infractor que los previstos en este Reglamento. Tratándose de servicio de pasajeros o de carga se podrán solicitar los documentos señalados en los reglamentos respectivos.
 
+> <small>(ADICIONADO, G.O. 5 DE DICIEMBRE DE 2001)</small>
+
+Los agentes se abstendrán de retener los documentos del conductor y del vehículo, tales como licencia de manejo, tarjeta de circulación y placas de matricula.
+
+> <small>(REFORMADO, G.O. 5 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 59.
 
-Los agentes remitirán al depósito aquellos vehículos que:
+El agente sólo remitirá al depósito, aquellos vehículos que:
 
-I. Les falte una o ambas placas de matrícula o no cuenten con el permiso de circulación temporal correspondiente;
+I. No cuenten con el holograma de verificación vehicular de emisiones contaminantes correspondiente al periodo de que se trate y no se pueda acreditar dicha verificación con el certificado correspondiente; circulen en días u horas en que esté limitada la circulación en condiciones normales o de contingencia ambiental; o emitan humo ostensiblemente contaminante;
 
-II. Sus placas de matrícula no coincidan con la calcomanía permanente de circulación, o con los datos asentados en la tarjeta de circulación, o los datos del vehículo contenidos en la tarjeta de circulación y en las placas, no coincidan con los que aparecen en la base de datos de Control Vehicular;
+II. Sus placas de matricula no coincidan con la calcomanía permanente de circulación, con la tarjeta de circulación, ni con la base de datos de Control Vehicular o con el número de inventario del vehículo;
 
-III. Se encuentren estacionados en lugar prohibido, en la banqueta, en doble fila o más, o perturben gravemente la circulación y no haya en el interior del vehículo persona alguna.
+III. Se encuentren estacionados en lugares prohibidos, previstos en las fracciones I, III, VIII, X, XIV a XIX del artículo 71 y fracción II del artículo 72.
 
-En este mismo caso, pero cuando en el interior del vehículo se encuentre persona responsable, ostensiblemente mayor de dieciséis años, que se niegue a la indicación del agente para moverlo, o en su caso, a descender del mismo, dicha persona será remitida al juez cívico correspondiente del lugar de los hechos, para su amonestación conforme al procedimiento previsto en la Ley de Justicia Cívica para el Distrito Federal, por constituir su desobediencia una infracción cívica; el vehículo será remitido al deposito respectivo.
+Cuando en el interior del vehículo se encuentre persona responsable ostensiblemente mayor de dieciséis años, que se niegue a la indicación del agente para moverlo, o en su caso, a descender del mismo, dicha persona será remitida al Juez Cívico correspondiente del lugar de los hechos para su amonestación, conforme al procedimiento previsto en la Ley de Justicia Cívica para el Distrito Federal, por constituir su desobediencia, una infracción cívica; el vehículo será remitido al depósito respectivo.
 
-> <small>(F. DE E., G.O. 2 DE DICIEMBRE DE 1999)</small>
+Si a bordo del vehículo, se encontrare persona ostensiblemente menor de dieciséis años, mayor de sesenta y cinco o con discapacidad, el vehículo no será remitido al depósito y el agente actuará conforme a lo dispuesto en los artículos 56 y 57 de este Reglamento y
 
-Si a bordo del vehículo, se encontrare, persona ostensiblemente menor de 16 años, mayor de 65 años o con discapacidad, el vehículo no será remitido al depósito y el agente actuará conforme a lo dispuesto en los artículos 56 y 57 de este Reglamento.
+IV. Permanezcan abandonados en la vía pública durante más tiempo del requerido y en las condiciones necesarias para presumir fundadamente su abandono; sea que se utilice para otros fines y no el de transportación, o presente señales de robo de piezas y mutilación de partes.
 
-IV. Sean conducidos por personas que, habiendo cometido una infracción a las disposiciones en materia de tránsito contenidas en este Reglamento y demás ordenamientos jurídicos aplicables, no exhiba la licencia o permiso de conducir, o cuando éstos se encuentren vencidos;
+> <small>(F. DE E., G.O. 20 DE DICIEMBRE DE 2001)</small>
 
-V. Sean conducidos por personas que, habiendo cometido una infracción en materia de tránsito, exhiba una licencia o permiso de conducir que no ampare el tipo de vehículo que se conduce;
+Los agentes que hubieren ordenado o llevado a cabo la remisión al depósito del vehículo de que se trate, proporcionaran a la brevedad posible, al Servicio de Localización Telefónica (LOCATEL), los datos del depósito en el cual se entregó, tipo de vehículo y número de placas de matrícula.
 
-> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2001)</small>
-
-VI. Teniendo la obligación de efectuar la verificación vehicular, circule sin llevar adherido el holograma de verificación vehicular que acredite el cumplimiento de esta obligación para el periodo correspondiente y no se pueda acreditar dicha verificación con el certificado correspondiente;
-
-VII. Circulen sin llevar adherida la calcomanía permanente de circulación y no se cuente con el permiso que justifique su falta;
-
-VIII. Circulen sin llevar adherida la calcomanía de revista vehicular y no se pueda acreditar el cumplimiento de esta obligación con el documento correspondiente;
-
-IX. Por deficiencias ostensibles que constituyan un peligro para la circulación o puedan producir daños a terceros o a la vía pública;
-
-X. Permanezcan abandonados en la vía pública durante más tiempo del requerido para estacionamiento o descompostura y en las condiciones necesarias para presumir fundadamente su abandono; sea que se utilice para otros fines y no el de transportación, o presente señales de robo de piezas y mutilación de partes;
-
-XI. Surtan o se abastezcan de gas natural o licuado de petróleo para su combustión, en las vías públicas o en lugares no autorizados;
-
-XII. Estando adaptados para usar gas natural o licuado de petróleo como combustible, no cuenten con la autorización para circular expedida por la autoridad competente, de conformidad con las normas aplicables;
-
-XIII. Sean conducidos por personas que se encuentren en estado de ebriedad o bajo el influjo de enervantes, estupefacientes o sustancias tóxicas o psicotrópicas;
-
-XIV. Circulen o se encuentren en vía pública y tengan pendiente el pago de una infracción, según la base de datos de Control Vehicular, salvo que el conductor exhiba el comprobante de pago correspondiente.
-
-XV. Circulen incumpliendo las disposiciones ambientales a que se refiere el artículo 47 de este Reglamento
-
-XVI. Cuando algún conductor no acate la indicación de alto que le haga el agente por la posible comisión de una infracción de tránsito, señalada en este Reglamento, o en las demás disposiciones jurídicas en materia de tránsito
-
-> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2001)</small>
-
-XVII. Circulen emitiendo humo negro o azul;
-
-XVIII. Circulen en días u horas en que esté restringida la circulación, de acuerdo con las normas ambientales correspondientes, y
-
-XIX. Cuando no cumplan con lo previsto en el artículo 82 fracciones II, III, VII y XII o en los casos establecidos en los artículos 84 y 85 de este ordenamiento, independientemente de las demás sanciones señaladas en el artículo 103 de este Reglamento y de lo dispuesto por el artículo 99 de la Ley.
-
-Los agentes que hubieren ordenado o llevado a cabo la remisión al depósito del vehículo de que se trate, proporcionará a la brevedad posible, al Servicio de Localización Telefónica (LOCATEL) los datos de depósito en el cual se entregó, tipo de vehículo y el número de placas de matrícula.
+> <small>(F. DE E., G.O. 20 DE DICIEMBRE DE 2001)</small>
 
 Lo previsto en este artículo no excluye de la aplicación de las disposiciones contenidas en los artículos 56 y 57 de este Reglamento.
 
@@ -952,15 +942,19 @@ Al propietario de un vehículo que estando adaptado para usar Gas Natural o Licu
 
 Durante este plazo el vehículo de que se trate sólo podrá circular para trasladarse al sitio que para tal efecto dispongan las autoridades, previo cumplimiento de la sanción impuesta.
 
+> <small>(REFORMADO, G.O. 5 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 62.
 
-En el caso de vehículos estacionados total o parcialmente sobre la banqueta, en lugar prohibido, en doble fila o frente a la entrada o salida de una cochera que no sea la propia, la autoridad competente sólo podrá retirar de la vía pública el vehículo de que se trate para remitirlo al depósito correspondiente, cuando no esté presente el conductor o persona alguna en su interior.
+En el caso de vehículos estacionados total o parcialmente en lugar prohibido o que obstaculicen o afecten la vialidad, cuando esté presente el conductor o alguna persona, el agente lo conminará a retirarse del lugar. Si no atendiese la recomendación, se levantará la infracción que proceda.
 
-Cuando esté presente el conductor o alguna persona en el interior del vehículo y lo remueva del lugar prohibido, se le conminará a no volver a hacerlo. Si no atendiese la recomendación, se levantará la infracción que proceda, y en caso de negativa a mover el vehículo se enviará al depósito.
+No se remitirá el vehículo al depósito cuando el conductor se presente en el momento en que el agente efectué las maniobras para enviarlo al depósito.
+
+> <small>(REFORMADO, G.O. 5 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 63.
 
-Los vehículos estacionados en la vía pública en lugares prohibidos o donde se encuentren instalados parquímetros y que no hayan cubierto la cuota de estacionamiento, en el momento de la revisión, se harán acreedores a la sanción económica establecida en el Código Financiero del Distrito Federal. En ambos casos, los vehículos serán inmovilizados por autoridad competente, o por quien ésta autorice, y serán liberados hasta que el conductor del vehículo haya cubierto las sanciones económicas a la que se hizo acreedor, debiendo pagar la misma en las oficinas que se especifiquen en las boletas de sanción.
+Los vehículos estacionados en lugares prohibidos donde se encuentren parquímetros y no hayan cubierto la cuota de estacionamiento, en el momento de la remisión, se harán acreedores a la sanción económica establecida en el Código Financiero del Distrito Federal. En ambos casos, los vehículos serán inmovilizados por autoridad competente o por quien ésta autorice y serán liberados hasta que el conductor del vehículo haya cubierto las sanciones económicas a las que se hizo acreedor, debiendo pagar la misma en las oficinas que se específican en las boletas de sanción.
 
 ###### ARTÍCULO 64.
 
@@ -1250,7 +1244,9 @@ Queda prohibido a los conductores de vehículos de transporte de pasajeros colec
 
 I. Circular:
 
-a) Por el tercer carril, contado de derecha a izquierda y usarlo para rebasar cuando la calle esté ocupada por vehículos;
+> <small>(REFORMADO, G.O. 5 DE DICIEMBRE DE 2001)</small>
+
+a) Por cualquier carril excepto el de la derecha; y rebasando vehículos en movimiento;
 
 b) Por los carriles centrales de la red vial primaria de acceso controlado y por el segundo carril de la vía lateral a excepción de utilizarlo para rebasar si no hay circulación que lo impida, salvo los vehículos de turismo que podrán hacerlo en los horarios autorizados por la Secretaría;
 
@@ -1258,17 +1254,25 @@ c) Por arterias principales en el segundo carril, a excepción de utilizarlo par
 
 II. Al circular por el carril de contraflujo de los ejes viales, rebasar a otro vehículo, salvo que dicho vehículo esté parado por alguna descompostura. En este caso, el conductor rebasará con precaución, con las luces delanteras encendidas y direccionales funcionando;
 
-III. Permitir que los usuarios viajen en los escalones de los vehículos;
+> <small>(REFORMADA, G.O. 5 DE DICIEMBRE DE 2001)</small>
+
+III. Permitir que los usuarios viajen en los escalones o cualquier parte exterior del vehículo;
 
 IV. Circular con las puertas abiertas;
 
-V. Circular sin la licencia-tarjetón o que esté vencida;
+> <small>(REFORMADA, G.O. 5 DE DICIEMBRE DE 2001)</small>
+
+V. Por conducir sin licencia-tarjetón o al amparo de una vencida, no portar una o ambas placas de matrícula o el permiso provisional correspondiente;
 
 VI. Permitir el ascenso de un pasajero en notorio estado de ebriedad o bajo el influjo de enervantes o psicotrópicos;
 
-VII. Realizar maniobras de ascenso o descenso de pasajeros o detenerse en lugares no autorizados por la Secretaría;
+> <small>(REFORMADA, G.O. 5 DE DICIEMBRE DE 2001)</small>
 
-VIII. Realizar maniobras de ascenso o descenso de pasajeros en el segundo o tercer carril de circulación, contados de derecha a izquierda, en las intersecciones o inmediatamente después de cruzar una calle o avenida;
+VII. Realizar maniobras de ascenso o descenso de pasajeros en lugares prohibidos para ello;
+
+> <small>(REFORMADA, G.O. 5 DE DICIEMBRE DE 2001)</small>
+
+VIII. Realizar maniobras de ascenso o descenso de pasajeros, en el segundo o tercer carril de circulación, contados de derecha a izquierda o en lugares prohibidos;
 
 IX. Permitir el ascenso o descenso de pasajeros estando el vehículo en movimiento;
 
@@ -1436,9 +1440,13 @@ Las infracciones a este Reglamento sancionables con multa son las contenidas en 
 
 Independientemente de las multas a que se refiere la anterior tabla de sanciones pecuniarias, los agentes pondrán a disposición del Juez Cívico de la jurisdicción correspondiente a quienes incurran en las infracciones contenidas en los artículos 59, fracción III, 99, 100 y 102 del presente Reglamento.
 
+> <small>(REFORMADO, G.O. 5 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 104.
 
-El infractor que cubra el importe de las multas que establece el este Reglamento, dentro de los cinco días siguientes de haber sido impuesta, tendrá derecho a que se le descuente un 50% del monto de la misma, con excepción de lo dispuesto por el artículo 63. Vencido este plazo no procederá descuento alguno. El pago de la multa se podrá realizar en la Tesorería del Distrito Federal o en cualquier sucursal bancaria autorizada, teniendo como plazo treinta días, contados a partir de la fecha de emisión de la boleta de sanción, vencido dicho plazo sin que se realice el pago, deberá cubrir los demás crédito fiscales que establece el Código Financiero del Distrito Federal.
+El infractor que cubra el importe de las multas que establece este Reglamento dentro de los treinta días naturales de haber sido impuesta, tendrá derecho a que se le descuente un 50% del monto de la misma, con excepción de lo dispuesto por el artículo 63. Vencido este plazo no procederá descuento alguno.
+
+El pago de la multa se realizará en las Oficinas de la Administración Tributaria de la Tesorería del Distrito Federal de la Secretaría de Finanzas o donde así lo establezca, teniendo como plazo sesenta días contados a partir de la fecha de emisión de la boleta de sanción, vencido dicho plazo sin que se realice el pago, cubrirá los demás créditos fiscales que establece el Código Financiero del Distrito Federal.
 
 ###### ARTÍCULO 105.
 
@@ -1505,3 +1513,9 @@ SEGUNDO. - Publíquese el presente decreto en la Gaceta Oficial del Distrito Fed
 TERCERO.- La reposición de placas de matrícula de servicio particular de pasajeros que se menciona en el artículo 44, únicamente es para aquellas que están fabricadas con la norma oficial mexicana NOM-001-SCT-2-2000, las matrículas de servicio particular de pasajeros fabricadas con las Normas anteriores que por alguna razón sus propietarios soliciten su reposición, deberán pagar los derechos correspondientes por este concepto y se expedirá una autorización para circular, que tendrá vigencia hasta el momento que reciba las placas con las características que marca la Norma Oficial vigente.
 
 CUARTO.- Se derogan las demás disposiciones que se opongan al presente.
+
+G.O. 5 DE DICIEMBRE DE 2001.
+
+PRIMERO. El presente Reglamento entrará en vigor al día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
