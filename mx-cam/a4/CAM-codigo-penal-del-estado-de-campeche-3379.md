@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-3379"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-08"
-last_updated: "1974-01-08"
+last_updated: "1975-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO PENAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1975.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 8 de enero de 1974.
 
@@ -2806,3 +2806,13 @@ Dado en el Palacio del Poder Legislativo del Estado, en Campeche, a los ocho dí
 Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado, en Campeche, a los ocho días del mes de Enero del año de mil novecientos setenta y cuatro.- El Gobernador Constitucional del Estado, LIC. RAFAEL RODRIGUEZ BARRERA.- El Secretario General de Gobierno, LIC. FERNANDO TRUEBA BROWN.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 16 DE DICIEMBRE DE 1975.
+
+POR SU IMPORTANCIA SE TRANSCRIBE EL ARTICULO UNICO DEL DECRETO.
+
+###### ARTICULO UNICO.
+
+Los Código Penal y de Procedimientos Penales del Estado, a que se ha hecho mención, comenzarán a regir el día 2 de enero de 1976.
