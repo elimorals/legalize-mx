@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2001-08-04"
+last_updated: "2003-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2003.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -127,7 +127,7 @@ Para su organización administrativa y territorial, los municipios se dividirán
 
 I.- Cabeceras municipales;
 
-II.- Delegaciones municipales, para ciudades y poblaciones mas importantes; y
+II.- Delegaciones municipales, para ciudades y poblaciones más importantes; y
 
 III.- Juzgados auxiliares, para rancherías y pequeñas comunidades.
 
@@ -563,7 +563,7 @@ g) Promover la gestión de las actividades productivas del municipio, estimuland
 
 h) Celebrar convenios con la federación para la administración y custodia de zonas federales; e
 
-i)Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando éstos afecten su ámbito territorial.
+i) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando éstos afecten su ámbito territorial.
 
 III.- En materia administrativa, económica y social:
 
@@ -635,7 +635,7 @@ y) Convocar a elecciones de las autoridades y organismos auxiliares del Ayuntami
 
 z) Sujetar a los trabajadores al régimen de seguridad social establecido en el estado y celebrar el contrato colectivo de trabajo en el orden municipal;
 
-aa )i ctar las medidas administrativas procedentes para vigilar y preservar el patrimonio cultural y financiero del municipio;
+aa) Dictar las medidas administrativas procedentes para vigilar y preservar el patrimonio cultural y financiero del municipio;
 
 bb) Promover, de conformidad a la capacidad presupuestal del municipio, la adquisición de los inmuebles circundantes a sus centros de población , a efecto de integrar un área de reserva urbana destinada a la expansión y desarrollo de éstos. Lo anterior sin perjuicio de solicitar la expropiación de estos inmuebles, para cuyo efecto las circunstancias anteriores serán consideradas de utilidad pública, estándose a lo dispuesto a las leyes de la materia; y
 
@@ -1231,7 +1231,7 @@ V.- Las funciones y obligaciones principales de los organismos auxiliares, será
 
 a) Contribuir al cumplimiento de los planes de desarrollo de los tres órdenes de gobierno;
 
-b )Impulsar la colaboración y participación de los habitantes en todos los aspectos del desarrollo municipal;
+b) Impulsar la colaboración y participación de los habitantes en todos los aspectos del desarrollo municipal;
 
 c) Colaborar con el Ayuntamiento para la mejor administración y prestación de servicios públicos;
 
@@ -1849,7 +1849,7 @@ Son obligaciones de los concesionarios:
 
 I.- Prestar el servicio público concesionado con eficiencia, sujetándose a lo dispuesto por esta ley y demás disposiciones legales aplicables, así como a los términos del título - concesión;
 
-II.- Cubrir a la Tesorería Municipal los derechos que correspondan, en los términos de la leyes fiscales aplicables;
+II.- Cubrir a la Tesorería Municipal los derechos que correspondan, en los términos de la (sic) leyes fiscales aplicables;
 
 III.- Contar con el personal, equipo e instalaciones suficientes para cubrir las demandas del servicio público concesionado;
 
@@ -2217,9 +2217,7 @@ En el otorgamiento de las concesiones de los bienes del dominio público municip
 
 En lo relativo a la enajenación de bienes muebles de propiedad municipal, se deberán observar las siguientes disposiciones:
 
-a)
-
-Tratándose de venta, esta podrá realizarse en subasta pública o fuera de subasta pública, preferentemente por lotes de bienes.
+a) Tratándose de venta, esta podrá realizarse en subasta pública o fuera de subasta pública, preferentemente por lotes de bienes.
 
 La venta en subasta pública se efectuará mediante el procedimiento y condiciones que determine el Ayuntamiento, o en su defecto, por el procedimiento que se establece para el remate estipulado en la Ley de Justicia y Procedimientos Administrativos para el Estado.
 
@@ -2379,11 +2377,13 @@ Los presupuestos de egresos se formularán con apoyo en programas que señalen o
 
 Durante el mes de octubre de cada año, la Tesorería Municipal recibirá de las dependencias y entidades de la administración pública municipal, sus respectivos anteproyectos de presupuestos, los cuales servirán de base para el proyecto que deberá formular la Tesorería antes del diez de noviembre, fecha en que lo presentará al Presidente Municipal.
 
-###### ARTICULO 200.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
 
-El presupuesto deberá ser aprobado por la mayoría absoluta del Ayuntamiento. En el acta que se levante se asentarán las cifras que por cada programa y ramo se hayan autorizado, y deberá publicarse en la Gaceta Municipal o en el Periódico Oficial, Órgano de Gobierno del Estado, y por otros medios que se estime pertinentes;
+###### Artículo 200.
 
-El Ayuntamiento, a más tardar el quince de diciembre, remitirá una copia autorizada del presupuesto con todos sus anexos al Congreso del Estado, para su registro.
+El presupuesto deberá ser aprobado por la mayoría absoluta del Ayuntamiento. En el acta que se levante se asentarán las cifras que por cada programa y ramo se hayan autorizado, y deberá publicarse en la Gaceta Municipal y en el Periódico Oficial, Órgano de Gobierno del Estado, y por otros medios que se estime pertinentes a mas tardar el 31 de diciembre del año previo al ejercicio fiscal correspondiente;
+
+El Ayuntamiento remitirá una copia autorizada del presupuesto con todos sus anexos al Congreso del Estado, para su registro.
 
 ###### ARTICULO 201.
 
@@ -2393,13 +2393,23 @@ Para cualquier modificación al presupuesto, se deberá seguir el mismo procedim
 
 Ningún gasto podrá efectuarse sin que exista partida expresa del presupuesto que la autorice y que tenga saldo disponible para cubrirlo, a excepción de las resoluciones de la naturaleza jurisdiccional que determinen obligaciones a cargo del municipio.
 
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2003)</small>
+
+Los beneficiarios de subsidios, aportaciones o transferencias, otorgados con cargo al Presupuesto de Egresos Municipal, deberán rendir cuenta detallada de la aplicación de los fondos relativos al Ayuntamiento, así como la información y justificación correspondientes en la forma y plazos de ley.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2003)</small>
+
+El incumplimiento comprobado en la rendición de la cuenta, motivará, en su caso, la inmediata suspensión de las subsecuentes ministraciones de fondos que por el mismo concepto se hubieren autorizado, así como el reintegro de lo que se haya suministrado.
+
 ###### ARTICULO 203.
 
 Cada Ayuntamiento organizará un sistema permanente de contabilidad que comprenda el registro de los activos, pasivos, capital o patrimonio, ingresos y egresos, asignaciones, compromisos y ejercicios que correspondan a programas y partidas de su propio presupuesto.
 
-###### ARTICULO 204.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
 
-Los Ayuntamientos autorizarán los libros de registros contables, tanto en la apertura como en el cierre de los mismos, debiendo conservarse en el archivo municipal y no podrán, por ningún motivo, modificarse o destruirse.
+###### Artículo 204.
+
+En cumplimiento a lo dispuesto por el artículo 133 de la Constitución Política del Estado, el Congreso mediante decreto que se expida al efecto, fijará anualmente a más tardar el 30 de diciembre previo al ejercicio fiscal correspondiente, los montos a los que se sujetarán los Ayuntamientos en las excepciones a los procedimientos de licitación pública para la adquisición de bienes y servicios.
 
 TÍTULO DECIMOTERCERO
 
@@ -2753,7 +2763,7 @@ En caso de que los servidores públicos municipales obligados no presentaren su 
 
 El Contralor Municipal será el responsable del registro, control y custodia de las declaraciones patrimoniales, debiendo remitir una copia dentro de los veinte días naturales posteriores a su recepción al Congreso del Estado, por conducto del Órgano de Fiscalización Superior del Estado, para su resguardo; si el Contralor no enviara las respectivas declaraciones por causa imputable a él, se le impondrá una multa que podrá ser de cincuenta a cien días de salario mínimo y hasta la destitución de su cargo.
 
-Si no se presenta la declaración final, se impondrá al omiso una sanción pecuniaria, hasta por cien días del salario mínimo vigente en la zona económica a que corresponda el municipios y se dará vista al Ministerio Público para que practique las investigaciones necesarias en cuanto a la situación patrimonial del omiso y proceda conforme a derecho, independientemente de las demás responsabilidades a que diere lugar.
+Si no se presenta la declaración final, se impondrá al omiso una sanción pecuniaria, hasta por cien días del salario mínimo vigente en la zona económica a que corresponda el municipios (sic) y se dará vista al Ministerio Público para que practique las investigaciones necesarias en cuanto a la situación patrimonial del omiso y proceda conforme a derecho, independientemente de las demás responsabilidades a que diere lugar.
 
 ### CAPÍTULO III. Del procedimiento de suspensión y revocación
 
@@ -3050,3 +3060,27 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario General de Gobierno
 
 Lic. Adán Meza Barajas
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE JUNIO DE 2003
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los plazos a que hace referencia el artículo 38 de la Ley del Organo de Fiscalización que con este decreto se reforma serán aplicables en la presentación de las cuentas publicas, a partir del ejercicio fiscal del año 2003.
+
+###### ARTICULO TERCERO.
+
+Los procedimientos resarcitorios que el Órgano hubiese iniciado con anterioridad a la entrada en vigor de esta ley, deberán sustanciarse de conformidad con las disposiciones vigentes al momento de iniciarse.
+
+###### ARTICULO CUARTO.
+
+A efecto de dar cumplimiento al artículo 204 de la Ley Municipal para el Estado de Nayarit que con este decreto se reforma, la Comisión de Hacienda, Cuenta Pública y Presupuesto, deberá presentar al Pleno del Congreso los montos a los cuales deberán sujetarse los Ayuntamientos durante el ejercicio fiscal del año 2003 en las excepciones a los procedimientos de licitación pública para la adquisición de bienes y servicios, mismo decreto que en todo caso deberá estar aprobado y publicado a más tardar el 31 de diciembre del año 2002 .
+
+###### ARTÍCULO QUINTO.
+
+El reglamento al que hace referencia la presente ley, deberá expedirse a más tardar en noventa días a partir de la entrada en vigor del presente decreto.
