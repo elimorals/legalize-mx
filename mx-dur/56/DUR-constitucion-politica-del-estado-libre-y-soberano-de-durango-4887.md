@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1942-03-26"
+last_updated: "1943-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 1942.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1943.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -369,6 +369,8 @@ Los Ayuntamientos podrán solicitar del Gobierno del Estado, cada vez que lo juz
 
 La falta absoluta del Ayuntamiento de una Municipalidad, será suficiente para que el Ejecutivo nombre una Junta Provisional de Gobierno integrada con el número de miembros que la Ley de Municipios designe para un Ayuntamiento Constitucional.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1943)</small>
+
 ## TITULO IV.
 
 DEL PODER LEGISLATIVO.
@@ -377,7 +379,7 @@ DEL PODER LEGISLATIVO.
 
 ###### Artículo 50.
 
-El Presidente Municipal será electo por los regidores, de entre ellos mismos, y será el ejecutor de las resoluciones que le sean encomendadas en comisión especial.
+El Presidente y Síndico Municipales, serán designados por elección popular directa lo mismo que los demás Regidores del Ayuntamiento. El primero tendrá el carácter de ejecutor de las resoluciones y comisiones que le sean encomendadas, y las atribuciones y obligaciones que le asignen las Leyes; el segundo será el representante jurídico del propio Ayuntamiento desempeñando además las funciones que las leyes le encomiendan.
 
 ###### Artículo 51.
 
@@ -1240,3 +1242,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 26 DE MARZO DE 1942.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+
+P.O. 23 DE DICIEMBRE DE 1943.
+
+UNICO.- Estas reformas surtirán sus efectos desde la fecha de publicación en el Periódico Oficial del Estado.
