@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-el-financiamiento-publico-por-concepto-de-52008
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-21"
-last_updated: "1998-03-14"
+last_updated: "1999-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO PARA EL FINANCIAMIENTO PÚBLICO POR CONCEPTO DE ACTIVIDADES ESPECÍFICAS QUE REALICEN LOS PARTIDOS POLÍTICOS REGISTRADOS ANTE EL CONSEJO ELECTORAL DEL ESTADO, COMO ENTIDADES DE INTERÉS PÚBLICO Y FORMAS DE ORGANIZACIÓN POLÍTICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 1999.
 
 Reglamento publicado en la Secc. III al No. 13 del Periódico Oficial del Estado de Jalisco, el martes 21 de octubre de 1997.
 
@@ -80,9 +80,11 @@ El pleno del consejo determinará el monto máximo de financiamiento a cada part
 
 La cantidad que corresponda a cada partido político registrado se dividirá entre los doce meses del año para determinar el importe mensual que podrá ministrarse a cada partido.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1999)</small>
+
 ###### Artículo 7.
 
-La comisión Revisora del Financiamiento Público con el personal de apoyo de la Dirección de Administración y Finanzas, consolidará las comprobaciones de gastos presentadas durante el año y comunicará las cifras anuales a la Dirección de Administración y Finanzas, a fin de que ésta proceda en los términos del artículo cinco de este reglamento.
+La Comisión Revisora del Financiamiento con el apoyo del personal técnico designado por el Pleno, de conformidad a lo dispuesto por la fracción XXXII del artículo 132 de la Ley Electoral del Estado, consolidará las comprobaciones de gasto presentadas durante el año y comunicará las cifras anuales a la Dirección de Administración y Finanzas, a fin de que esta proceda en los términos del artículo 5 de este reglamento.
 
 DOCUMENTACIÓN COMPROBATORIA
 
@@ -94,9 +96,15 @@ Los partidos políticos registrados deberán presentar ante la Comisión Revisor
 
 Los gastos que comprueben los partidos políticos deberán referirse directamente a las actividades específicas de que se trate. Los gastos indirectos sólo se aceptarán cuando se acredite que son estrictamente necesarios e indispensables para realizar las actividades objeto de este tipo de financiamiento público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 1999)</small>
+
 ###### Artículo 10.
 
-Los originales de los documentos comprobatorios de los que no se apruebe el gasto se podrán devolver a los partidos políticos. El Secretario Ejecutivo previa solicitud les expedirá copias certificadas en los términos del artículo 146 fracción XVII de la Ley Electoral del Estado de los gastos por los que haya procedido reintegro.
+Los originales de los documentos comprobatorios de pagos realizados por los partidos políticos se les devolverán una vez que la Comisión Revisora del Financiamiento dictamine.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 1999)</small>
+
+El Consejo Electoral conservará copia de los mismos certificada por el secretario Ejecutivo para integrar el expediente respectivo.
 
 ###### Artículo 11.
 
@@ -108,17 +116,21 @@ Las muestras a que se refiere este artículo, así como los comprobantes a que s
 
 Los partidos políticos registrados podrán invitar a los integrantes de la Comisión Revisora para que en forma presencial y selectiva, verifiquen el desarrollo de las actividades específicas, que puedan ser objeto de comprobación, caso en el que los Consejeros Comisionados que asistan, levantarán la constancia correspondiente, la que servirá de antecedente y será considerada para efectos de lo dispuesto en el artículo 11.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1999)</small>
+
 ###### Artículo 13.
 
-Los comprobantes de los pagos a que se refiere el artículo 8 del presente reglamento deberán reunir los requisitos que señalan las disposiciones fiscales para considerarlos deducibles del impuesto sobre la renta de personas morales y deberán describir pormenorizadamente la actividad retribuida, los tiempos de su realización y los productos o artículos resultado de la actividad.
+Los comprobantes de los pagos a que se refiere el artículo 8 del presente reglamento deberán reunir los requisitos que señalan las disposiciones fiscales para considerarlos deducibles del impuesto sobre la renta.
 
 ###### Artículo 14.
 
 La Comisión Revisora del Financiamiento, sin interferir en la vida interna de los partidos políticos registrados, podrá solicitarles elementos y documentación adicionales, para acreditar las actividades susceptibles de financiamiento, la que deberá ser entregada dentro de los siguientes quince días hábiles a la recepción del requerimiento.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1999)</small>
+
 ###### Artículo 15.
 
-Si persisten deficiencias en la comprobación de los gastos erogados o en las muestras que acrediten las actividades realizadas, la Comisión Revisora del Financiamiento formulará dictamen y lo hará del conocimiento del pleno para que éste resuelva, acordando cuando proceda: suspensión del financiamiento por las cantidades no comprobadas, o bien ordenar la compensación contra ministraciones pendientes, si el financiamiento ya se hubiera otorgado.
+Si persisten deficiencias en la comprobación de los gastos erogados o en las muestras que acrediten las actividades realizadas, la Comisión Revisora del Financiamiento formulará dictamen y lo hará del conocimiento del Pleno para que este resuelva en la siguiente sesión.
 
 MINISTRACIÓN DEL FINANCIAMIENTO
 
@@ -161,3 +173,7 @@ Los remanentes de financiamiento público por actividades específicas no minist
 P.O. 14 DE MARZO DE 1998.
 
 > <small>[N. DE E. EL ACUERDO PUBLICADO EN EL PERÍODICO OFICIAL DE FECHA 14 DE MARZO DE 1998, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+P.O. 30 DE ENERO DE 1999.
+
+> <small>[N. DE E. EL ACUERDO PUBLICADO EN EL PERÍODICO OFICIAL DE FECHA 30 DE ENERO DE 1999, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
