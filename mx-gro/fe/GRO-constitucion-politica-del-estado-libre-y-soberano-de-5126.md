@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1974-08-14"
+last_updated: "1975-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1974.
+> <small>N. DE E. EL HONORABLE CUADRAGESIMO OCTAVO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, APROBO EN SU DECRETO NUMERO 10 SUPRESIONES, REFORMAS Y ADICIONES A LA CONSTITUCION POLITICA VIGENTE DEL ESTADO, MODIFICANDO DE MANERA SUSTANCIAL EL TEXTO QUE A LA FECHA TENIA DICHO ORDENAMIENTO, PRESENTANDOSE POR TAL MOTIVO EL TEXTO APROBADO Y PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO EL 16 DE JULIO DE 1975.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 1975.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -35,1231 +37,11 @@ El XXIII Congreso Constitucional del Estado Libre y Soberano de Guerrero, en nom
 
 Constitución Política del Estado Libre y Soberano de Guerrero.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
-## TITULO I
+## TITULO PRIMERO.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 1°.
-
-El Estado de Guerrero, en su administración y Gobierno interiores, asegura y hará efectivos a favor de todos sus habitantes, las garantías y derechos consignados en el Título I de la Carta Fundamental de la República, y además los que señala la presente Constitución.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 2°.
-
-Se consideran habitantes del Estado todas las personas que se encuentren radicadas en su territorio.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-## TITULO II. DE LOS HABITANTES, VECINOS, GUERRENSES Y CIUDADANOS DEL ESTADO
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 3°.
-
-Son obligaciones de los habitantes del Estado:
-
-I.- Hacer que sus hijos o pupilos menores de quince años, concurran a las Escuelas Públicas o Privadas, para obtener la Instrucción Primaria Elemental, durante el tiempo que marca la Ley de Instrucción Pública.
-
-II.- Asistir en los días y horas designados por el Ayuntamiento de la localidad en que residan, al lugar que se señale al efecto, para recibir la Instrucción Cívica Militar, que los mantenga aptos en el ejercicio de sus derechos de Ciudadanos, diestros en el manejo de las armas, y conocedores de la disciplina Militar.
-
-III.- Contribuir para los gastos públicos, así de la Federación como del Estado y del Municipio en que residan, de la manera proporcional y equitativa que dispongan las Leyes.
-
-IV.- Respetar y obedecer las Leyes y Autoridades legítimamente constituídas.
-
-V.- Inscribirse en los Padrones cuya formación ordene la Autoriddad (sic); los Patrones cuidarán de que sus dependientes y subordinados cumplan con esta disposición.
-
-VI.- Auxiliar a las Autoridades para la conservación del orden público.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 4°.
-
-Se consideran vecinos del Estado, todas las personas que tengan seis meses de residencia fija en el Territorio del Estado.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 5°.
-
-La vecindad se pierde por dejar de residir habitualmente en el Estado por lo menos durante seis meses.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-#### SECCION I
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 6°.
-
-La vecindad no se pierde:
-
-I.- Por ausencia en virtud de comisión del servicio público de la Federación, del Estado o del Municipio que no constituya empleo de funciones permanentes.
-
-II.- Por ausencia con motivo de persecución política si el hecho que la motiva no importa delitos de otro género, y por último.
-
-III.- Por ausencia con ocasión de estudios artísticos, secundarios, profesionales o de cualquier carácter científico.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 7°.
-
-Son Guerrerenses:
-
-I.- Por nacimiento: los nacidos dentro del territorio del Estado y los nacidos accidentalmente fuera de él si sus padres son hijos del Estado.
-
-II.- Por naturalización: los mexicanos vecinos del Estado que residan por más de un año en su Territorio, que tengan bienes raíces o hayan prestado importantes servicios al Estado y adquieran carta de naturalización como Guerrerenses.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-#### SECCION II. INSTALACION, EJERCICIO, RECESO Y RENOVACION DEL CONGRESO
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 8°.
-
-Son ciudadanos del Estado:
-
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 1970)</small>
-
-I.- Los Guerrerenses por nacimiento varones o mujeres que reúnan los siguientes requisitos:
-
-a).- Haber cumplido dieciocho años.
-
-b).- Tener un modo honesto de vivir.
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-II.- Lo son también, todos los ciudadanos mexicanos naturalizados como Guerrerenses.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 9°.
-
-Son prerrogativas de los ciudadanos:
-
-I.- Votar en las elecciones populares en la forma que disponga la Ley.
-
-II.- Poder ser votado para todos los cargos de elección popular y nombrado para cualquier otro empleo o comisión de carácter público si reúne los requisitos que establezcan las Leyes.
-
-III.- Asociarse para tratar los asuntos políticos del Municipio, del Estado y de la República.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 10.
-
-Son obligaciones del Ciudadano:
-
-I.- Inscribirse en el Catastro de la Municipalidad, manifestando la propiedad que tenga, la industria, profesión o trabajo de que subsista, así como en los padrones electorales del lugar en que resida.
-
-II.- Alistarse y servir en la Guardia Nacional, conforme a la Ley Orgánica respectiva que expida el Congreso de la Unión, para asegurar y defender la Independencia, el Territorio, el Honor, los derechos e intereses de la Patria, así como su tranquilidad y orden interiores.
-
-III.- Votar en las elecciones populares, en el Municipio o Demarcación que le corresponda.
-
-IV.- Desempeñar todos los cargos de elección popular y las funciones electorales para que fuere nombrado, si para ello no tuviera excusa legítima.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 11.
-
-Los Ciudadanos del Estado serán preferidos en igualdad de circunstancias, para todos los empleos, cargos o comisiones emanados de nombramiento del Gobierno del mismo.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 12.
-
-Los derechos del Ciudadano se pierden:
-
-I.- Por las causas expresadas en el artículo 37 de la Constitución Federal.
-
-II.- Por adquirir la Ciudadanía de otro Estado de la República salvo cuando haya sido conferida a título de honor o de recompensa.
-
-III.- Por prestar servicios a otro Estado en contra de los intereses del Estado de Guerrero.
-
-IV.- Por sentencia ejecutoria en que se condene a inhabilitación para obtener empleos y cargos públicos, aunque sólo se refiera a determinado ramo de la administración.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 13.
-
-Los derechos o prerrogativas del Ciudadano se suspenden:
-
-I.- Por falta de cumplimiento, sin causa justificada, de cualquiera de las obligaciones que impone el artículo 10 de esta Constitución.
-
-II.- Por estar sujeto a un proceso criminal por delito que merezca pena corporal, a contar desde la fecha del auto de formal prisión.
-
-III.- Durante la extinción de una pena corporal.
-
-IV.- Por sentencia ejecutoria que imponga como pena esa suspención (sic).
-
-V.- Por declaración de haber lugar a formación de causa, en los casos de responsabilidad, contra los Funcionarios Públicos por delito (sic) oficiales o comunes, en los términos prevenidos por esta Constitución.
-
-VI.- Por incapacidad declarada conforme a las Leyes.
-
-VII.- Por vagancia, mendicidad o ebriedad consuetudinaria, declaradas legalmente.
-
-VIII.- Por estar substraído a la acción de la justicia, desde que se dicte la orden de aprehensión hasta que prescriba la acción penal.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 14.
-
-La Ley fijará otros casos en que se pierden y los en que se suspendan los derechos de Ciudadano, además de los señalados en el artículo anterior. Asimismo determinará a qué Autoridad corresponde:
-
-I.- Expedir cartas de naturalización como Guerrerenses a los vecinos de él que se hagan acreedores a ello.
-
-II.- Dictar la suspensión, pérdida o recuperación de los derechos de Ciudadano, en qué términos y con qué requisitos debe dictarse la resolución correspondiente, así como el tiempo que debe durar la suspensión de los mismos derechos, cuando no esté fijado por otras leyes.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-## TITULO III
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 15.
-
-El Estado de Guerrero, es parte integrante de la Federación Mexicana y por tanto, está sujeto a la Constitución Política de los Estados Unidos Mexicanos, expedida el 31 de enero de 1917, y a las leyes que de ella emanen; pero en su régimen interior es libre, independiente y soberano.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 16.
-
-En el pueblo reside la soberanía del Estado, en nombre de aquella la ejerce el Poder Público del mismo, en la forma y términos que establece esta Constitución.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 17.
-
-El Poder Público se instituye para beneficio del pueblo y emana originariamente de la voluntad de éste expresada de la manera que establezca esta Constitución y las leyes electorales respectivas.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 18.
-
-La forma de Gobierno del Estado es la Republicana, Representativa y Popular.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-#### SECCION III
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 19.
-
-La Capital del Estado, es la Ciudad de Chilpancingo de los Bravos, donde deben residir los poderes del mismo, salvo el caso en que por circunstancias graves, acuerde el Congreso su traslación accidental a otro lugar.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-#### SECCION IV. DE LA DIPUTACION PERMANENTE
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 20.
-
-El Territorio del Estado comprende el que le señaló la Ley de su creación con la modificación contenida en el Decreto número 1 de 23 de Marzo de 1907, relativo al arreglo de límites con el vecino Estado de Michoacán.
-
-Se divide en las siguientes Municipalidades: Ometepec, Igualapa, Tlacoachistlahuaca, Xochistlahuaca, Cuajinicuilapa, Taxco de Alarcón, Pilcaya, Tetipac, Teloloapan, Cuetzala del Progreso, Apaxtla, Ixcateopan, Pedro Ascencio de Alquisiras, San Luis Acatlán, Cuautepec, Copala, Azoyú, Chilapa, Atlixtac, Ahuacuotzingo, Copalillo, Zitlala, Ayutla de los Libres, Florencio Villarreal, Tecoanapa, Chilpancingo de los Bravo, Zumpango del Río, Leonardo Bravo, Heliodoro Castillo, Juan R. Escudero, Arcelia, General Canuto Neri, Ajuchitlán del Progreso, San Miguel Totolapan, Tlapehuala, Tecpan de Galeana, Atoyac de Alvarez, Benito Juárez, Tixtla de Guerrero, Mártir de Cuilapan, Mochitlán, Quechultenango, Iguala, Tepecoacuilco, Huitzuco, Cocula, Buena Vista de Cuéllar, Atenango del Río, Coyuca de Catalán, Zirándaro, Pungarabato, Cutzamala de Pinzón, Tlalchapa, La Unión, Coahuayutla de Guerrero, Petatlán, Tlapa, Copanatoyac, Atlamajalcingo del Monte, Tlacoapa, Tlalixtaquilla, Malinaltepec, Alcozauca de Guerrero, Zapotitlán Tablas, Xalpatlahuac, Metlatonoc, Acapulco, San Marcos, Coyuca de Benítez, Huamuxtitlán, Xochihuehuetlán, Alpoyeca, Cualac y Olinalá.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 21.
-
-El Estado adopta como base de su organización política y administrativa, el Municipio Libre, de acuerdo con el artículo 115 de la Constitución General de la República.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-### CAPITULO III. DEL PODER EJECUTIVO
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-## TITULO IV
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-#### SECCION V. DE LA INICIATIVA Y FORMACION DE LAS LEYES
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 22.
-
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa, sin que haya ninguna autoridad intermedia entre éste y el Gobierno del Estado.
-
-La Ley Electoral reglamentará la materia relativa a elecciones de Funcionarios Municipales.
-
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1974)</small>
-
-###### Artículo 23.
-
-Los Ayuntamientos estarán integrados por un Presidente Municipal, un Síndico Procurador y tres Regidores. En los Municipios que no excedan de diez mil habitantes, de acuerdo al último censo de población, los Ayuntamientos se integrarán con un Presidente Municipal, un Síndico Procurador y un Regidor.
-
-Los funcionarios Municipales durarán en su cargo tres años y no podrán ser reelectos para el período inmediato.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-#### SECCION I
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 24.
-
-Los ayuntamientos administrarán libremente su hacienda y demás bienes destinados al servicio público municipal, la cual se formará de los arbitrios que señale el Congreso de Estado y que en todo caso, serán los suficientes para atender a sus necesidades.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 25.
-
-Los Municipios quedan investidos de personalidad jurídica para todos los efectos legales. Como órganos integrantes del Estado, dependen del Gobierno de éste, en todo lo que se relaciona con el cumplimiento de las leyes del Estado y de la Federación.
-
-Una Ley determinará la organización y funcionamiento de los municipios.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 26.
-
-El Estado se dividirá para la Administración de Justicia en Distritos Judiciales integrados con las Municipalidades que determine la Ley Orgánica respectiva.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 27.
-
-La formación de los Distritos Administrativos será fijada por las Leyes Ordinarias del Ramo.
-
-> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 13 DE AGOSTO DE 1952)</small>
-
-#### SECCION II. DE LA SECRETARIA GENERAL DE GOBIERNO
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 28.
-
-Por cada Distrito Electoral, se elegirá un Diputado Propietario y un Suplente. Para los efectos de este artículo, se divide el Estado en once Distritos Electorales, que de acuerdo con el número de habitantes formará el Ejecutivo del Estado, tres meses antes de que se verifiquen las elecciones.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 29.
-
-El Poder Público del Estado se divide para su ejercicio en: Legislativo, Ejecutivo y Judicial.
-
-No podrán reunirse dos o más de estos Poderes en una sola persona o Corporación, ni depositarse el Legislativo en un individuo.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 30.
-
-El Poder Legislativo reside en una Cámara de Diputados que se denominará "CONGRESO DEL ESTADO", electos directa y popularmente del modo y en la forma que dispone la Ley Electoral.
-
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1974)</small>
-
-#### SECCION III. DEL MINISTERIO PUBLICO
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 31.
-
-Por cada Distrito Electoral se elegirán un Diputado Propietario y un Suplente. La elección de diputados será directa y se complementará, además, con diputados de partido, apegándose a lo que al respecto disponga la Ley Electoral y, en el segundo caso, a las reglas siguientes:
-
-I.- Todo partido político que hubiere obtenido su registro, cuando menos un año antes de la elección, tendrá derecho a que se le acredite un diputado de partido, si obtiene el cinco por ciento de la votación general en el Estado y hasta dos disputados de partido, en caso de que obtenga el diez por ciento o más de dicha votación.
-
-II.- Si logra la mayoría en un distrito electoral, tendrá derecho a que se le acredite un solo diputado de partido y, si obtuviere la mayoría en dos distritos electorales, no tendrá derecho a que le sean reconocidos diputados de partido.
-
-III.- Los diputados de partidos serán acreditados por riguroso orden, de acuerdo con el número decreciente de sufragios que hayan logrado en relación a los demás candidatos del mismo partido, en todo el Estado.
-
-IV.- Los diputados de mayoría y los de partido, tendrán la misma categoría e iguales derechos y obligaciones.
-
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1974)</small>
-
-###### Artículo 32.
-
-Para ser diputado se requieren los siguientes requisitos:
-
-I.- Ser ciudadano guerrerense por nacimiento, varón o mujer e hijo de padres mexicanos, en ejercicio de sus derechos.
-
-II.- Tener 21 años de edad cumplidos el día de la elección.
-
-III.- Ser nativo del Distrito que lo elija o vecino de él, con residencia cuando menos de seis meses inmediatamente anteriores al día de la elección.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 33.
-
-No pueden ser electos Diputados:
-
-I.- Los Magistrados del Tribunal Superior de Justicia, el Secretario General de Gobierno, el Subsecretario General de Gobierno, el Oficial Mayor, el Procurador General de Justicia, el Director General de Hacienda y Economía, los Jueces de Primera Instancia, los Regidores que funjan como Presidentes Municipales, los Agentes del Ministerio Público, los empleados federales de cualquier clase que sean, los que pertenezcan al Ejército Nacional o a las fuerzas del Estado, a menos que se separen definitivamente de sus funciones sesenta días antes de la elección.
-
-El Gobernador del Estado no podrá ser electo durante el período de su encargo aún cuando se separe definitivamente de él.
-
-II.- Los Ministros de algún culto religioso.
-
-III.- Los Diputados al Congreso Local durante el período de su encargo.
-
-IV.- Los Diputados y Senadores en ejercicio al Congreso de la Unión.
-
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1974)</small>
-
-###### Artículo 34.
-
-Ningún ciudadano legalmente electo diputado o acreditado como Diputado de Partido en la legislatura, podrá excusarse de ejercer este encargo si no es por causa grave que calificará el Congreso.
-
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1974)</small>
-
-Artículo 31 (sic).- Se tendrá como legalmente electo diputado al individuo que haya obtenido la mayoría de votos emitidos en el Distrito electoral por el que fuere nombrado y declarado así por la Junta Revisora o por el Colegio Electoral, en su caso y a el o los que hayan sido acreditados como diputados de partido.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-### CAPITULO I.
-
-Disposiciones varias.
-
-De la Hacienda Pública y de su Administración.
-
-###### Artículo 35.
-
-Se tendrá como legalmente electo Diputado al individuo que haya tenido la mayoría de votos emitidos en el Distrito Electoral porque fuere nombrado, y declarado así por la Junta revisora o por el Colegio Electoral en su caso.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 36.
-
-Las faltas temporales o perpetuas de los Diputados Propietarios, se cubrirán por los Suplentes respectivos.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 37.
-
-Los Diputados son inviolables por las opiniones manifestadas en el ejercicio de su encargo y no podrán ser reconvenidos por ellas en ningún tiempo ni por ninguna Autoridad.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-### CAPITULO II.
-
-De la instrucción pública.
-
-###### Artículo 38.
-
-Los Diputados durante el período de sus funciones no podrá desempeñar ninguna comisión pública ni empleo dependiente de la Federación o del Estado, a no ser con licencia previa del Congreso, paar (sic) lo cual deberá preceder la solicitud respectiva.
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-### CAPITULO IV (SIC).
-
-Prevenciones Generales.
-
-###### Artículo 39.
-
-Para la Instalación del Congreso, tendrán lugar previamente las Juntas Preparatorias que sean necesarias, las cuales detallará su Reglamento Interior.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 40.
-
-El día de la Instalación y antes del acto los Diputados otorgarán la protesta de Ley. Igual requisito se exigirá a los que no hayan asistido a la Instalación, cuando se presenten a desempeñar su encargo.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 41.
-
-Para que el Congreso pueda instalarse y ejercer sus funciones, se necesita, por lo menos, la presencia de las dos terceras partes del número total de sus miembros; pero los presentes deberán reunirse el día señalado por la Ley, y compeler, bajo las penas que ella designe, a efecto de que concurran, a los ausentes cuya elección se hubiere declarado legal por las respectivas Juntas Electorales.
-
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 1955)</small>
-
-###### Artículo 42.
-
-Habrá en cada año dos períodos de Sesiones Ordinarias; el primero comenzará el día primero de marzo y terminará el día treinta de mayo; y el segundo, el día primero de octubre y terminará el treinta y uno de diciembre; ambos períodos podrán prorrogarse por el tiempo que acuerde el Congreso y lo requiera la importancia de los asuntos pendientes. En caso de que por alguna circunstancia no pudieren abrirse o cerrarse las sesiones en los días señalados, estos actos se verificarán en la forma que lo acuerden los CC. Diputados.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-## TITULO V. DEL PODER PUBLICO
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-### CAPITULO IV. DEL PODER JUDICIAL
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 43.
-
-El Reglamento interior de la Cámara señalará las formalidades conque deben celebrarse la apertura y clausura de las sesiones.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 44.
-
-En los períodos intermediarios entre los de sesiones ordinarias, o sea en los recesos del Congreso, funcionará una Diputación Permanente. El Penúltimo día de la clausura de las sesiones ordinarias, o el anterior inmediato, si aquél fuere inhábil, nombrará el Congreso la Diputación Permanente, la cual se compondrá de cuatro miembros. El primer nombrado funcionará como Presidente, el segundo como Vocal, el tercero como Secretario y el último como Suplente.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 45.
-
-El Congreso tendrá sesiones extraordinarias cuando así lo demanden la naturaleza, urgencia y gravedad de los negocios a juicio de la Diputación Permanente o del Gobernador del Estado.
-
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1969)</small>
-
-###### Artículo 46.
-
-El día primero de abril de cada año el C. Gobernador del Estado se presentará ante el H. Congreso y rendirá un informe pormenorizado, relativo a la Gestión Administrativa realizada durante el año anterior a efecto de que el pueblo conozca el estado que guardan los distintos ramos de la Administración Pública.
-
-Se exceptúa el último informe del Ejecutivo, correspondiente al año en que termine su periodo constitucional, que se rendirá precisamente el primero de marzo, al iniciarse el primer período de sesiones del H. Congreso del Estado, correspondiente al primer año de su ejercicio constitucional.
-
-El Presidente de la Cámara contestará en términos generales.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-### CAPITULO UNICO.
-
-De la responsabilidad de los funcionarios públicos del Estado.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1930)</small>
-
-###### Artículo 47.
-
-Las sesiones tanto ordinarias como extraordinarias serán públicas; pero cuando se trate de negocios que exijan reserva, las habrá secretas, de conformidad con lo que establezca el Reglamento Interior de la Cámara.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 48.
-
-Podrán asistir a las sesiones entre los Diputados, los Magistrados del Tribunal Superior, el Procurador General de Justicia, el Secretario de Gobierno y Director General de Hacienda y Economía. Quedan obligados a asistir a dichas sesiones, estos Funcionarios, cuando parar ello fueren llamados por el Congreso. Harán uso de la palabra como los Diputados, pero no tendrán voto.
-
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 1955)</small>
-
-###### Artículo 49.
-
-El Congreso del Estado se renovará en su totalidad cada tres años y ninguno de sus miembros podrá ser reelecto para el período inmediato.
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 50.
-
-Son facultades del Congreso:
-
-I.- Expedir Leyes y Decretos para el buen Gobierno Interior del Estado, interpretarlos, reformarlos y derogarlos.
-
-II.- Pesentar (sic) ante el Congreso de la Unión, iniciativas de Ley, en todo lo que crea conveniente al bien de la Nación o del Estado.
-
-III.- Fijar anualmente todos los gastos de la Administración del Estado, previo examen del Presupuesto que presente el Ejecutivo y decretar los impuestos necesarios para cubrirlos.
-
-IV.- Practicar por medio de la Contaduría del Ramo que establece el artículo 92, la glosa de las cuentas de la Dirección General de Hacienda y Economía y demás Oficinas Rentísticas del Estado y de los Municipios.
-
-V.- Crear y suprimir empleos del Estado, según lo exijan las necesidades del servicio público y señalar, aumentar o disminuir sus respectivas dotaciones, teniendo en cuenta las circunstancias del Erario.
-
-VI.- Hacer la división Territorial del Estado, y crear y suprimir, dentro del mismo, Municipalidades o Distritos; aumentar o disminuir sus respectivos territorios, anexándoles o segregándoles pueblos o localidades, según lo reclame el bien público.
-
-VII.- Dictar las Leyes necesarias en el Ramo de Instrucción Pública y promover por todos lo medios posibles la instrucción de las masas populares.
-
-VIII.- Nombrar dentro del período improrrogable de diez días a los Magistrados Propietarios y Supernumerarios del H. Tribunal Superior de Justicia del Estado, a propuesta en Ternas por el Ejecutivo.
-
-Si uno, dos, varios o todos los Ciudadanos propuestos en las primeras ternas no fueren aprobados, el propio Ejecutivo propondrá una nueva terna excluyendo de ella a los Ciudadanos que fueren desechados. En caso de que en la (sic) dos ternas propuestas no quedasen nombrados todos los Ciudadanos Magistrados que deben integrar el H. Tribunal Superior de Justicia el Ejecutivo nombrará provisionalmente a los Ciudadanos que deban cubrir las plazas vacantes sometiendo estos nombramientos a la consideración del Congreso en el siguiente período ordinario de sesiones, quien resolverá dentro del mismo plazo improrrogable de diez días. En el caso de que no se resolviera dentro del plazo señalado seguirán funcionando los nombrados provisionalmente con el carácter de definitivos; pero si fueren desechados el Ejecutivo hará una nueva proposición sujetándose a los mismos trámites señalados al principio de este artículo.
-
-IX.- Recibir al Gobernador, así como a los Funcionarios a que se refiere la fracción anterior, la protesta de guardar y hacer guardar la Constitución General de la República, la particular del Estado y las Leyes que de ambas emanen.
-
-X.- Resolver sobre las licencias no económicas o renuncias de los Diputados y Magistrados del H. Tribunal Superior de Justicia.
-
-XI.- Conceder licencia al Gobernador cuando tenga que salir del Estado por un término mayor de 30 días o separase temporalmente de su cargo.
-
-XII.- Autorizar al Gobernador del Estado, para que celebre arreglos sobre límites del Territorio del Estado, sometiéndolos para su aprobación al Congreso Local; los cuales quedarán sujetos a la ratificación del Congreso de la Unión.
-
-XIII.- Autorizar al Ejecutivo para negociar empréstitos sobre el crédito del Estado, aprobarlos y decretar la manera de pagar la deuda.
-
-XIV.- Decretar los arbitrios Municipales, teniendo en cuenta las proposiciones que sobre el particular hagan los Ayuntamientos respectivos; revisar y aprobar las cuentas que éstos presenten por el ejercicio económico anterior, revisar y aprobar los Presupuestos que regirán en el año de su presentación.
-
-XV.- Resolver sobre la valides o nulidad de las elecciones de Ayuntamientos, cuando haya duda acerca de ellas, previo informe del Ejecutivo.
-
-XVI.- Dictar las disposiciones necesarias, a efecto de que se verifiquen las elecciones de miembros de la Cámara que hubieren dejado de hacerse.
-
-XVII.- Constituirse en Colegio Electoral para nombrar al Gobernador Interino cuando la falta temporal del Constitucional sea mayor de 30 días, asimismo para designar al Ciudadano que deba substituir al Gobernador del Estado, ya sea con el carácter de Substituto, Interino o Provisional, en los términos de los artículos 65 y 66.
-
-XVIII.- Dictar las disposiciones relativas a la Organización y a la disciplina de las Fuerzas de Policía y Seguridad Pública del Estado.
-
-XIX.- Conceder jubilaciones a empleados inutilizados en el servicio del mismo, en los términos y bajo las condiciones que determine la Ley.
-
-XX.- Erigirse en Colegio Electoral con objeto de calificar las elecciones de Gobernador, declarando electo a quién haya obtenido mayoría de sufragios.
-
-XXI.- Aprobar la suspención de los Ayuntamientos o de algunos de sus miembros, hecha por el Ejecutivo del Estado ratificando los nombramientos provisionales que éste hubiere expedido para constituir, en el primer caso, los Concejos Municipales, o completar el número de miembros que forman el Ayuntamiento, remitiendo el expediente al Ministerio Público para el ejercicio de la acción correspondiente a los hechos que así lo ameriten.
-
-En caso de que el Congreso o, en su receso, la Diputación Permanente no encuentre justificada la causa para la suspensión lo comunicará al Ejecutivo en un plazo no mayor de treinta días, contados a partir de la fecha en que hubiere recibido el expediente correspondiente, a fin de que ordene la restitución del Ayuntamiento o de los miembros del mismo que hubieren sido suspendidos.
-
-XXII.- Autorizar la enajenación o gravamen de los bienes inmuebles del Estado o de los Municipios.
-
-XXIII.- Erigirse en Gran Jurado, a efecto de declarar si ha lugar o no a la formación de causa, cuando por delitos oficiales o del orden común fueren acusados, el Gobernador, los Diputados, los Magistrados, Procurador General de Justicia y el Secretario de Gobierno.
-
-XXIV.- Legislar en lo relativo a la organización del SISTEMA PENAL, teniendo por base indispensable el trabajo, como medio de regeneración de los procesados o reos sujetos a condena.
-
-XXV.- Determinar por medio de Leyes los casos en que sea de utilidad pública la ocupación de la propiedad privada, para que de acuerdo con dichas Leyes, la autoridad administrativa haga, en cada caso, la declaración correspondiente.
-
-XXVI.- Organizar el Patrimonio de familia, designando los bienes que deben constituirlo.
-
-XXVII.- Dar leyes para combatir el alcoholismo en la forma y por los medios que se consideren más eficaces.
-
-XXVIII.- Determinar, según las necesidades locales, el número máximo de Ministros de los cultos.
-
-XXIX.- Nombrar y remover a los empleados de sus Secretarías y de la Contaduría de Glosa de acuerdo con las Leyes relativas.
-
-XXX.- Ejercer todas las facultades propias de un Cuerpo Legislativo, en todo aquello que no pugne con esta Constitución o la General de la República.
-
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 1974)</small>
-
-Artículo 50 "B" (sic).- Los diputados serán obligados gestores de la cooperación social y expositores de los problemas que confrontan las poblaciones del Distrito que representan, para lo cual deberán visitarlos en los recesos de la Cámara y se informarán:
-
-1o.- Del estado en que se encuentra la instrucción pública.
-
-2o.- Del progreso o decadencia en que se haya la industria, el comercio y las actividades agropecuarias.
-
-3o.- De los obstáculos que se opongan al adelanto de las poblaciones de su distrito y las medidas que deban tomarse para impulsar todos o algunos ramos de la riqueza pública.
-
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 1974)</small>
-
-Artículo 50 "C" (sic).- Al abrirse el período de sesiones, posterior a la visita, los diputados presentarán a la Legislatura un informe por escrito del resultado de sus observaciones, proponiendo al mismo tiempo, soluciones para remediar los males que hayan notado.
-
-La falta de cumplimiento de las obligaciones que imponen este y el anterior artículo, será causa de inhabilidad por dos años para ejercer cargos de elección popular en el Estado.
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 51.
-
-Las atribuciones de la Diputación Permanente son:
-
-I.- Velar por el cumplimiento de la Constitución y demás Leyes, dando cuenta al Congreso, en su próximo período de sesiones ordinarias, de las infracciones que hubiere notado.
-
-II.- Ejercer en sus casos las facultades a que se refieren las fracciones IX, X, XI y XV del artículo 50 de esta Constitución.
-
-III.- Dictaminar sobre todos los asuntos que queden pendientes al cerrarse las sesiones, así como los nuevos que se presenten, para que al reunirse el Congreso tenga desde luego en qué ocuparse.
-
-IV.- Convocar al Congreso a sesiones extraordinarias, por sí o a petición del Ejecutivo.
-
-V.- Suspender a los empleados de la Secretaría del Congreso y Contaduría de Glosa, cuando se hicieren acreedores a esta pena, y nombrar interinamente a quienes los substituyan, dando cuenta a la Cámara en el inmediato período de sesiones ordinarias.
-
-VI.- Llamar en las faltas temporales o absolutas de alguno de sus miembros a cualquiera de los Diputados Propietarios para integrarla, prefiriendo al que se encuentre en el lugar más cercano.
-
-VII.- Ejercer las demás funciones que le señale esta Constitución.
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 52.
-
-El derecho de iniciar Leyes corresponde:
-
-I.- Al Gobernador del Estado.
-
-II.- A los Diputados del Congreso.
-
-III.- Al Tribunal Superior de Justicia.
-
-IV.- A los Ayuntamientos.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 53.
-
-El Reglamento Interior del Congreso prescribirá el modo de proceder a la admisión, discusión y votación de las iniciativas de Ley o Decreto.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 54.
-
-Para la discusión o votación de todo proyecto de Ley o Decreto por el Congreso, se necesita la presencia de las dos terceras partes de los miembros de la Cámara; para su aprobación se requiere la mayoría absoluta de votos de los que estén presentes.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 55.
-
-Discutido y aprobado un proyecto de Ley o Decreto por el Congreso, se remitirá al Ejecutivo del Estado, quien si no tuviere observaciones que hacer lo publicará desde luego.
-
-Se reputa aprobado por el Poder Ejecutivo todo proyecto de Ley o Decreto que no devuelva al Congreso con las observaciones que considere pertinentes, en un término de 10 días hábiles; a no ser que al estar corriendo este término, el Congreso hubiere cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá hacerla el primer día hábil en que el Congreso este reunido.
-
-El proyecto de Ley o Decreto deshechado (sic) en todo o en parte por el Ejecutivo, será devuelto con sus observaciones al Congreso, en el cual deberá ser discutido nuevamente y si fuere confirmado por la mayoría absoluta de los miembros presentes, el Proyecto será Ley o Decreto y volverá al Ejecutivo para su promulgación.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 56.
-
-Para la reforma, derogación o interpretación de las Leyes y Decretos, se observarán los mismos trámites que para su formación.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 57.
-
-En los casos de urgencia notoria, calificada por las dos terceras partes de los miembros del Congreso, puede éste dispensar o abreviar los trámites reglamentarios.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 58.
-
-Todo proyecto de Ley o Decreto que fuere desechado en el Congreso, no podrá volverse a presentar en el mismo período de sesiones.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 59.
-
-El Poder Ejecutivo del Estado, se deposita en un solo individuo que se denominará "GOBERNADOR DEL ESTADO".
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 60.
-
-El Gobernador previa protesta de Ley que otorgará ante el H. Congreso del Estado, tomará posesión de su encargo el día primero de abril de cada Período Constitucional, durará en él seis años, y no podrá ser reelecto.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 61.
-
-La elección de Gobernador será directa en los términos que disponga la Ley Electoral.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 62.
-
-Para ser Gobernador del Estado se requiere:
-
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1953)</small>
-
-I.- Ser ciudadano guerrerense, varón o mujer, por nacimiento, en pleno goce de sus derechos e hijo de padres mexicanos por nacimiento.
-
-II.- Tener treinta y cinco años cumplidos al tiempo de ser electo.
-
-III.- No ser Ministro de algún Culto Religioso ni pertenecer a corporación del mismo carácter.
-
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 1956)</small>
-
-IV.- No ejercer cargo alguno de la Federación; ni ser Secretario General de Gobierno, Subsecretario General, Oficial Mayor, o Procurador General de Justicia del Estado, a menos de haberse separado definitivamente de sus cargos tres meses antes de la elección.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 63.
-
-Los requisitos señalados en el artículo anterior, son indispensables en el Ciudadano, que, con el carácter de Interino o Substituto, cubra las faltas del Gobernador Constitucional.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 64.
-
-La persona que substituyere al Gobernador Constitucional en caso de falta absoluta de éste, no podrá ser electo Gobernador para el Período inmediato. Tampoco podrá serlo para dicho período el Ciudadano que fuere nombrado Gobernador Interino en las faltas temporales del Gobernador Constitucional.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 65.
-
-En caso de falta absoluta del Gobernador del Estado ocurrida en los dos primeros años del período respectivo si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, al Gobernador Interino y expedirá, dentro de los 10 días siguientes a la designación de Gobernador Interino, la convocatoria para la elección del Gobernador que deba concluir el período respectivo, debiendo mediar, entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones un plazo no menos de seis meses ni mayor de un año.
-
-Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará desde luego un Gobernador Provisional y convocará al Congreso a sesiones extraordinarias para que éste designe al Gobernador Interino y expida la convocatoria de elecciones a que se refiere el párrafo anterior.
-
-Cuando la falta absoluta de Gobernador ocurra en los cuatro últimos años del período Constitucional respectivo, si el Congreso estuviere en sesiones elegirá desde luego al Gobernador Substituto que deba concluir el período; si el Congreso no estuviere reunido, la Diputación permanente nombrará al Gobernador Provisional y convocará al Congreso a sesiones extraordinarias para que se erija el Colegio Electoral y haga la elección del Gobernador Substituto.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 66.
-
-Si por cualquier motivo la elección del Gobernador no estuviere hecha y publicada el primero de abril del año en que deba verificarse la renovación, o el electo no se presentare en la fecha fijada cesará sin embargo el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el que designe el Congreso o a falta de éste, se encargará del Ejecutivo, con carácter provisional, el que designe la Diputación Permanente, procediéndose conforme a lo dispuesto en la primera parte del artículo anterior.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 67.
-
-El cargo de Gobernador sólo es renunciable por causa grave, que calificará el Congreso del Estado, ante el que presentará la renuncia.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 68.
-
-Son facultades y obligaciones del Gobernador:
-
-I.- Publicar, circular, ejecutar y hacer cumplir las Leyes del Estado.
-
-II.- Publicar las Leyes y Decretos Federales y hacerlos cumplir.
-
-III.- Llevar las relaciones con el Gobierno Federal y con los de los otros Estados de la República.
-
-IV.- Visitar dentro del Período de su Gobierno, los Municipios del Estado, para conocer sus necesidades, remediar sus males y promover sus mejoras.
-
-V.- Proteger la seguridad de las personas, bienes y derechos de los individuos y mantener el orden, paz y tranquilidad públicos del Estado.
-
-VI.- Presentar al Congreso para su aprobación en el mes de octubre de cada año, los proyectos de la Ley de Ingresos y el Presupuesto de Egresos para el año siguiente.
-
-VII.- Vigilar que la justicia sea pronta y debidamente administrada en todos los Tinbunales (sic) del Estado, sin ingerirse en el examen de las causas, ni en dar fallos en asuntos que correspondan exclusivamente a aquéllos.
-
-VIII.- Facilitar al Poder Judicial, los auxilios que necesite para el expedito ejercicio de sus funciones.
-
-IX.- Instituir la Guardia Nacional de conformidad con las Leyes y Reglamentos que expida el Congreso de la Unión.
-
-X.- Pedir autorización al Congreso y en su receso a la Diputación Permanente para salir fuera del Territorio del Estado por más de 30 días.
-
-XI.- Ejercer la vigilancia necesaria, para que la Instrucción Pública Primaria, sea bien atendida en todo el Estado, así como la Preparatoria y Profesional que se dé en los Colegios del mismo.
-
-XII.- Dar informes al Congreso, cuando éste lo pidiere, sobre cualquier ramo de la Administración.
-
-XIII.- Reglamentar las Leyes del Estado que lo requieran para su más fácil aplicación y mejor observancia, procurando que no varíe su espíritu.
-
-XIV.- Hacer las observaciones que creyere necesarias, a las iniciativas a proyectos de Ley o Decreto del Congreso, en los términos que dispone el artículo 55 de esta Constitución.
-
-XV.- Ejercer el mando de las Fuerzas Públicas del Estado, y especialmente las del Municipio en que resida, fija o accidentalmente.
-
-XVI.- Convocar al Congreso a sesiones extraordinarias cuando juzgue necesario.
-
-XVII.- Expedir TITULOS Profesionales con arreglo a la Ley.
-
-XVIII.- Mandar ejecutar sin modificación las sentencias de los Tribunales del Estado, en las personas de los reos que al efecto se le consignen.
-
-XIX.- Dirigir como Jefe de la Hacienda Pública la Administración de ella, cuidar de que los caudales públicos estén siempre bien asegurados, se recaude o inviertan con arreglo a las Leyes; ordenando al efecto la práctica de visitas a las Oficinas Rentísticas del Estado, para corregir los males e irregularidade (sic) que se notaren.
-
-XX.- Celebrar arreglos sobre límites del Territorio del Estado, sometiéndolos para su aprobación al Congreso Local antes de remitirlos al Congreso de la Unión para su ratificación.
-
-XXI.- Suspender con causa justificada a los Ayuntamientos o a algunos de sus miembros, nombrando provisionalmente a quienes deban substituirlos y dando cuenta al Congreso o a la Diputación Permanente, en su caso, con el expediente respectivo para que determine lo conveniente.
-
-XXII.- Informar al Tribunal Superior de Justicia de las faltas que cometan los Jueces inferiores.
-
-XXIII.- Mandar visitar los Ayuntamientos, cuando notare irregularidades, faltas o graves deficiencias en el funcionamiento y marcha administrativa de dichas corporaciones.
-
-Las visitas respectivas, podrá encomendarlas a comisionados accidentales de reconocida justificación y probidad, los que se sujetarán en todo caso a las instrucciones que por escrito les diere el Ejecutivo.
-
-XXIV.- Nombrar y remover al Secretario General de Gobierno, Procurador General de Justicia, Director General de Hacienda y Economía del Estado y a los demás empleados que de él dependan de acuerdo con las Leyes relativas.
-
-XXV.- Conceder o negar licencias con goce de sueldo a los funcionarios que lo soliciten con causa justificada y a los demás empleados que de él dependan de acuerdo con las Leyes relativas.
-
-XXVI.- Salir hasta por treinta días del Territorio del Estado, las veces que el arreglo de asuntos oficiales así lo requieran, dando aviso al Congreso y quedando encargado del Despacho el Secretario General.
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 69.
-
-Para el despacho de los negocios oficiales del Ejecutivo del Estado, habrán un Secretario General de Gobierno, un Subsecretario de Gobierno y un Oficial Mayor.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 70.
-
-La Ley Orgánica del Poder Ejecutivo reglamentará el funcionamiento de la Administración.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-## TITULO VI
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-### CAPITULO UNICO. DE LA HACIENDA PUBLICA Y DE SU ADMINISTRACION
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 71.
-
-Los Reglamentos, Decretos y Ordenes, las autorizará con su firma el Secretario General; sin cuyo requisito no serán obedecidos.
-
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 1956)</small>
-
-###### Artículo 72.
-
-Para ser Secretario General de Gobierno, o Subsecretario General de Gobierno y Oficial Mayor, se requiere:
-
-Ser ciudadano guerrerense por nacimiento e hijos de padres mexicanos por nacimiento, estar en pleno ejercicio de sus derechos, tener los conocimientos necesarios y no pertenecer al Estado Eclesiástico.
-
-Ni el Secretario o Subsecretario General de Gobierno, ni el Oficial Mayor podrán ejercer su profesión en asuntos ajenos, si son abogados.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 73.
-
-Las faltas temporales del Secretario General serán suplidas por el Subsecretario General de Gobierno, con la misma responsabilidad y prerrogativas que aquél.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 74.
-
-El Secretario General o el Subsecretario, en su caso, asistirán al Congreso:
-
-I.- Cuando el Gobernador concurra a los actos oficiales que determina esta Constitución.
-
-II.- Cuando tenga que tomar parte en la discusión de las Leyes.
-
-III.- Cuando fuere llamado por el Congreso para informar sobre algún asunto.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 75.
-
-En consulta de los problemas del Estado de gran interés, el C. Gobernador podrá reunir sólo para escuchar su opinión a los CC. Secretario General de Gobierno, Oficial Mayor, Procurador General de Justicia y a los Directores que se haga necesario pudiendo, también auscultar la opinión de Representantes de los otros Poderes.
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 76.
-
-El Ministerio Público es una Institución que tiene por objeto velar por la exacta observancia de las Leyes de interés general. Deberá ejercitar las acciones que correspondan contra los violadores de dichas Leyes; hacer efectivos los derechos concedidos al Estado, e intervendrá en los juicios que afecten a las personas a quienes la Ley otorgue especial protección.
-
-El Ministerio Público estará a cargo de un Procurador General y de los Agentes que designe la Ley respectiva; debiendo ser estos últimos, nombrados y removidos por el Procurador General, con acuerdo del Gobernador del Estado.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 77.
-
-El Procurador General de Justicia será el Consejero Jurídico del Gobierno del Estado y deberá intervenir en todos los negocios en los cuales el Estado fuere parte.
-
-El Procurador General tendrá las cualidades que se requieren para ser Magistrado del Tribunal Superior de Justicia del Estado.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 78.
-
-Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y en los demás Tribunales Inferiores que establece la Constitución para administrar la Justicia en nombre del Estado en todos los negocios de su competencia y con arreglo a las Leyes.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 79.
-
-El Tribunal Superior de Justicia se compondrá de cinco Magistrados Propietarios y de cinco Supernumerarios para cubrir las faltas temporales de aquéllos, y, serán electos por el Congreso del Estado, a propuesta en terna por el Ejecutivo, para un período de seis años.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 80.
-
-El Tribunal Superior de Justicia funcionará siempre en Pleno, bastando para ese efecto la asistencia de tres Magistrados, por lo menos; sus audiencias serán públicas con excepción de los casos en que la moral o el interés público así lo exijan y tendrá jurisdicción en los asuntos civiles, penales y demás que le señalen las Leyes, los que resolverá de acuerdo con lo dispuesto por la Ley Orgánica del Poder Judicial y los Códigos Civil, Penal y de Procedimientos.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 81.
-
-El Tribunal Superior de Justicia tendrá las facultades siguientes:
-
-I.- Conocer como Jurado de sentencia de las causas de responsabilidad que hubieren de formarse por delitos oficiales a los Diputados, a los Magistrados, al Secretario de Gobierno y al Procurador General de Justicia del Estado.
-
-II.- Nombrar los Jueces de Primera Instancia y los Jueces Menores, éstos últimos a propuesta en terna por los Ayuntamientos de las Municipalidades respectivas.
-
-III.- Nombrar y remover a los empleados de sus Secretarías y resolver sobre sus licencias y renuncias.
-
-IV.- Formar un Reglamento Interior.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 82.
-
-Para ser Magistrado del Tribunal Superior de Justicia se requiere:
-
-I.- Ser Ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos.
-
-II.- No ser menor de treinta años de edad ni tener empleo, cargo o comisión de otros Estados o de la Federación.
-
-III.- Tener Título Profesional de Abogado expedido por la Autoridad o Corporación legalmente facultada para ello.
-
-IV.- Haber ejercido la profesión durante cinco años, cuando menos, a contar de la fecha de su recepción y ser de probidad notoria y no haber sido condenado por delito que amerite pena corporal de mas de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la reputación en el concepto público, inhabilitará para el cargo de Magistrado, cualquiera que haya sido la pena.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 83.
-
-Los Magistrados del Tribunal Superior de Justicia tomarán posesión de sus cargos el primero de mayo del año de su renovación, previa protesta de Ley que otorgarán ante el Congreso del Estado.
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1959)</small>
-
-###### Artículo 84.
-
-Los Tribunales inferiores son:
-
-I.- Los Juzgados de Primera Instancia.
-
-II.- Los Juzgados Menores.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 85.
-
-Los Jueces de Primera Instancia tomarán posesión de su cargo en el mes de mayo de la renovación del Poder Judicial, cada seis años, y otorgarán la protesta de Ley ante los Ayuntamientos respectivos, con excepción de los Jueces de la Capital del Estado que la rendirán al Tribunal Superior de Justicia.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 86.
-
-Los Jueces Menores Propietario y Suplentes tomarán posesión de su empleo, previa la protesta legal ante los Ayuntamientos respectivos, en el mes de mayo del año de su renovación y durarán en dicho empleo dos años.
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1959)</small>
-
-###### Artículo 87.
-
-El Código del Menor establecerá los derechos, procedimientos y organismos destinados a la protección de los menores.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 88.
-
-La Hacienda Pública del Estado se formará:
-
-I.- Con los bienes propiedad del Estado.
-
-II.- Con el producto de los ingresos determinados por las Leyes Secundarias del Estado.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 89.
-
-En el lugar de la residencia de los Poderes del Estado, habrá una Dirección General de Hacienda y Economía en que se concentrarán todos los caudales públicos del mismo.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 90.
-
-Ningún Funcionario o empleado que tuviera que manejar caudales, ya sea del Estado o del Municipio, podrá tomar posesión de su empleo sin haber caucionado previamente su manejo.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 91.
-
-Ninguna cuenta perteneciente a caudales públicos dejará de concluirse y glosarse dentro del año siguiente a aquél en que corresponda.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-## TITULO VII. DE LA INSTRUCCION PUBLICA
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-### CAPITULO III.
-
-Del Ministerio Público.
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 1922)</small>
-
-Artículo 75 bis. El Ministerio Público es una institución que tiene por objeto velar por la exacta observancia de las leyes de interés general. Deberá ejercitar las acciones que correspondan contra los violadores de dichas leyes, hacer efectivos los derechos concedidos al Estado, e intervenir en los juicios que afecten a las personas a quienes la ley otorgue especial protección. Estará a cargo de un Procurador General y los Agentes que designe la ley respectiva.
-
-###### Artículo 92.
-
-La Glosa de las cuentas de todas las Oficinas de Hacienda del Estado y de los Municipios, se hará por la Contaduría del Ramo con arreglo a la Ley respectiva.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 93.
-
-El Ejecutivo cuidará de que la fianza con que el encargado de los caudales públicos caucione su manejo se remita al Congreso para su conocimiento.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 94.
-
-Es obligación del Estado, proporcionar al Pueblo la Instrucción Primaria. Esta será uniforme hasta donde sea posible y obligatoria para todos los habitantes del mismo, y deberá seguir las normas que establece el artículo 3° de la Constitución Federal; se pagará de los fondos públicos, con los cuales se establecerán escuelas en todas las Ciudades, Pueblos, Haciendas, Cuadrillas y Rancherías, según lo vayan permitiendo las circunstancias del Erario.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 95.
-
-La Instrucción Preparatoria y la de Profesorado de Instrucción Primaria serán gratuitas, se pagarán por el Estado y se darán a los alumnos que la soliciten, siempre que hayan concluido la Instrucción Primaria Elemental y Superior, y demostrado en ella aplicación y notable aprovechamiento.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 96.
-
-El Estado, protegerá la Instrucción Profesional.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 97.
-
-El Congreso cuando lo crea conveniente, decretará recompensas y distinciones a los Profesores que se hagan acreedores a ellas, por sus servicios en ese Ramo.
-
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 98.
-
-Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, el Secretario General de Gobierno y el Procurador General de Justicia, son responsables de los delitos, faltas u omisiones que cometan en el desempeño de su encargo; así como de los delitos, faltas u omisiones del orden común en que incurran, y para proceder en su contra en este caso se observará el siguiente procedimiento: El Congreso erigido en Gran Jurado y oyendo al interesado, declarará por los dos tercios del número total de los miembros que lo forman si ha o no lugar a proceder contra el acusado. En caso negativo no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que continúe la secuela del procedimiento criminal, cuando el acusado haya dejado de tener fuero, pues la negativa del Congreso no prejuzga en lo absoluto, los fundamentos de la acusación. En caso afirmativo, el acusado, por el mismo hecho quedará separado de su cargo y sujeto a la acción de los Tribunales Comunes. Si la sentencia de estos fuere absolutoria, el funcionario quedará en aptitud de recobrarlo.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 99.
-
-El Gobernador del Estado, durante el periodo de su encargo, sólo podrá ser acusado por violación expresa de esta Constitución y por delitos graves del orden común, y para el efecto se seguirá el procedimiento indicado en el artículo anterior con la salvedad de que si la declaratoria fuere "de ha lugar a proceder", no surtirá efecto alguno mientras no sea revisada y aprobada por la siguiente legislatura a la que hubiere hecho tal declaración.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 100.
-
-De los delitos oficiales conocerá el Congreso como Jurado de acusación y el Tribunal Superior de Justicia como Jurado de Sentencia.
-
-La Ley detallará los casos y formas de enjuiciar a los responsables por los delitos que se mencionan en este artículo y en el anterior, y otra determinará el Tribunal que como Jurado de sentencia conozca de los delitos oficiales del personal del Tribunal Superior de Justicia.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 101.
-
-Los Jueces de Primera Instancia, Menores, miembros del Ayuntamiento y Agentes del Ministerio Público, son asimismo responsables por los delitos comunes u oficiales que cometan durante el período de sus respectivos cargos.
-
-La Ley determinará los casos, procedimientos y formas en que deben ser enjuiciados.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 102.
-
-Pronunciada una sentencia de responsabilidad por delitos oficiales, no podrá concederse al reo la gracia de indulto.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 103.
-
-La responsabilidad por delitos o faltas oficiales, sólo podrá exigirse durante el período en que el Funcionario ejerza su encargo o un año después.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 104.
-
-En demandas del orden civil, no hay fueron (sic) ni inmunidad alguna.
-
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-## TITULO VIII. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 105.
-
-Ningún Ciudadano podrá desempeñar a la vez dos o más cargos de elección popular, pero el nombrado puede elegir el que prefiera desempeñar, entendiéndose renunciados los demás. Tampoco podrán reunirse en un mismo individuo dos o más empleos del Estado por los que disfrute sueldo. Se exceptúan los que fueren del ramo de Instrucción de Beneficencia Pública.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 106.
-
-Ningún empleado público podrá ser destituido sino por causa justificada. Los funcionarios y empleados que no tengan señalado el tiempo de su duración, permanecerán en sus puestos por todo aquel a que se hagan acreedores por sus servicios y buena conducta.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE JUNIO DE 1960)</small>
-
-###### Artículo 107.
-
-Los cargos y empleos del Estado no son propiedad ni forman el patrimonio de ninguna persona.
-
-La jornada diaria máxima diurna y nocturna será de ocho y siete horas respectivamente. Las que excedan serán extraordinarias y se pagarán con un ciento por ciento más de la remuneración fijada para el servicio ordinario. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias ni de tres veces consecutivas.
-
-Por cada seis días de trabajo disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro.
-
-Los trabajadores gozarán de vacaciones que nunca serán menores de veinte días al año.
-
-Los salarios serán fijados en los presupuestos respectivos, sin que su cuantía pueda ser disminuida durante la vigencia de éstos.
-
-En ningún caso los salarios podrán ser inferiores al mínimo fijado para los trabajadores en general en el lugar en que resida el empleado.
-
-A trabajo igual corresponderá salario igual, sin tener en cuenta el sexo.
-
-Solo podrán hacerse retenciones, descuentos, deducciones o embargos al salario en los casos previstos en las leyes.
-
-La designación del personal se hará mediante sistemas que permitan apreciar los conocimientos y aptitudes de los aspirantes. El Estado organizará escuelas de Administración Pública.
-
-Los trabajadores gozarán de derechos de escalafón a fin de que los ascensos se otorguen en función de los conocimientos, aptitudes y antigüedad.
-
-Los trabajadores sólo podrán ser suspendidos o cesados por causa justificada en los términos que fije la Ley. En caso de separación injustificada tendrán derecho a reinstalación de su empleo o a la indemnización correspondiente previo el procedimiento legal. En los casos de supresión de plazas los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente a la suprimida o a la indemnización de Ley.
-
-Los trabajadores tendrán el derecho de asociarse para la defensa de sus intereses comunes. Podrán asimismo hacer uso del derecho de huelga previo el cumplimiento de los requisitos que determine la Ley, respecto de una o varias dependencias del Estado, cuando se violen de manera general y sistemática los derechos que este artículo les consagra.
-
-La seguridad social se organizará conforme a las siguientes bases mínimas:
-
-a).- Cubrirá los accidentes y enfermedades no profesionales y maternidad; y la jubilación, la invalidez, vejez y muerte.
-
-b).- En caso de accidente o enfermedad, se conservará el derecho al empleo por el tiempo que determine la Ley.
-
-c).- Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo. Durante el período de lactancia, tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos. Además disfrutarán de asistencia médica y obstétrica, de medicinas, de ayudas para la lactancia y del servicio de guarderías infantiles.
-
-d).- Los familiares de los empleados públicos tendrán derecho de asistencia médica y medicinas, en los casos y en la proporción que determine la ley.
-
-e).- Se establecerán centros para vacaciones y para recuperación así como tiendas económicas para beneficio de los empleados y sus familiares.
-
-f).- Se proporcionará a los empleados públicos habitaciones baratas en arrendamiento o venta; conforme a los programas previamente aprobados.
-
-Los conflictos individuales, colectivos o intersindicales serán sometidos a la Junta Central de Conciliación y Arbitraje de Chilpancingo, según lo prevenido en la Ley reglamentaria.
-
-Los conflictos entre el Poder Judicial del Estado y sus servidores, serán resueltos por el Pleno del propio Tribunal.
-
-En los cargos que son considerados de confianza en las leyes de la materia las personas que lo desempeñen disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 108.
-
-Los Funcionarios de elección popular en el Estado y los de nombramiento del mismo, así como los demás empleados públicos, recibirán una compensación por sus servicios, la cual no es renunciable.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 109.
-
-No podrá hacerse pago alguno que no esté comprendido en el Presupuesto o determinado por Ley, posterior, ni tampoco podrán hacerse descuentos de ningún género a los funcionarios y empleados del Estado, del sueldo que les corresponda, sin su previo consentimiento.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 110.
-
-Todos los funcionarios y empleados públicos del Estado y del Municipio, antes de entrar al desempeño de sus respectivos cargos o empleos, otorgarán la protesta de cumplir y en su caso, hacer cumplir esta Constitución, la General de la República y las Leyes que de ambas emanen. Las Leyes determinarán en cada caso la fórmula de dicha protesta, y ante qué autoridad o funcionario deben otorgarla, los no mencionados de una manera especial y concreta en la presente Constitución.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 111.
-
-Todos los contratos que deba celebrar la Administración para la ejecución de obras públicas, se adjudicarán en subasta mediante convocatoria que se expida en demanda de postores.
-
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 112.
-
-La presente Constitución, puede ser adicionada o reformada por el H. Congreso del Estado. Para que las adiciones o reformas lleguen a ser parte de la Constitución, deben llenarse los requisitos siguientes:
-
-I.- Presentar una iniciativa suscrita cuando menos por dos Diputados o por el Gobernador.
-
-II.- Discutir el dictamen y, aprobado que sea por la mayoría absoluta de los Diputados que formen el H. Congreso, enviarlo a los Ayuntamientos para que manifiesten si aprueban o no las reformas, adiciones o supresiones propuestas. Es obligación de los Ayuntamientos manifestar su conformidad o inconformidad con las reformas o adiciones propuestas y se tendrán por conformes con ellas a los que, en el término de sesenta días, no contestaren en sentido afirmativo o en el negativo.
-
-III.- Que las adiciones o reformas sean aprobadas por las dos terceras partes de los Ayuntamientos del Estado.
-
-IV.- Que el Congreso haga el cómputo de los votos emitidos por los Ayuntamientos y si dichos votos fueren aprobatorios y en la proporción indicada, hará la declaración solemne de que las adiciones o reformas propuestas reforman parte de la Constitución del Estado.
-
-En ningún caso podrán alterarse los principios que establecen la Independencia, Soberanía y Libertad del Estado, su forma de Gobierno y división de Poderes.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 113.
-
-Las proposiciones o iniciativas a que se refiere el artículo anterior, si no fueren admitidos por el Congreso, no se volverán a presentar en el mismo período de sesiones. Admitidas las proposiciones o iniciativas, no se discutirán ni votarán, sin la presencia de las dos terceras partes de los individuos que forman la totalidad del Congreso, y para su aprobación se requiere el voto de igual número de Diputados.
-
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-###### Artículo 114.
-
-Esta Constitución no perderá su fuerza ni vigor, aún cuando por alguna rebelión se interrumpa su observancia. En caso de que por trastorno público, se establezca un Poder contrario a los principios que ella consigna, tan luego como el pueblo recobre su libertad, se restablecerá su observancia; y con arreglo a ella y a las Leyes que de la misma emanen, serán juzgados así los que hubieran figurado en ese Gobierno, como los que hubieren tomado parte en la rebelión.
-
-### CAPITULO UNICO. DE LOS DERECHOS Y GARANTIAS DE LOS HABITANTES DEL ESTADO
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-### CAPITULO I. DE LOS HABITANTES DEL ESTADO Y SUS OBLIGACIONES
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-### CAPITULO II. VECINOS DEL ESTADO
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-### CAPITULO III. DE LOS GUERRERENSES
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-### CAPITULO IV. DE LOS CIUDADANOS DEL ESTADO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 1970)</small>
-
-### CAPITULO UNICO. DEL ESTADO, DE SU SOBERANIA Y FORMA DE GOBIERNO, Y DE LA RESIDENCIA DE SUS PODERES
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-## TITULO IX. PREVENCIONES GENERALES
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-### CAPITULO I. DEL MUNICIPIO COMO PARTE DE LA DIVISION TERRITORIAL DEL ESTADO Y DE SU ORGANIZACION POLITICA Y ADMINISTRATIVA
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1953)</small>
-
-### CAPITULO II. DE LOS DISTRITOS
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-### CAPITULO I. DIVISION DEL PODER PUBLICO
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-### CAPITULO II. DEL PODER LEGISLATIVO
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-## TITULO X. DE LA REFORMA E INVIOLABILIDAD DE LA CONSTITUCION
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
-
-## TRANSITORIOS.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
 ###### Artículo 1°.
 
@@ -1268,6 +50,12 @@ Esta Constitución será publicada con la solemnidad debida, en todas las poblac
 ###### Artículo 2°.
 
 El período constitucional deberá contarse: para los Diputados, desde el 1°. de marzo del presente año; para el Gobernador, del 1°. de abril del mismo año; y para los Magistrados del Tribunal Superior, del 1°. de mayo último.
+
+## TITULO SEGUNDO.
+
+DEL LEMA DEL ESTADO DE GUERRERO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
 ###### Artículo 3°.
 
@@ -1281,6 +69,10 @@ Todos los funcionarios y empleados del Estado, protestarán guardar y hacer guar
 
 Los Magistrados del Tribunal Superior que fueron nombrados por el Gobierno provisional, continuarán en sus funciones, hasta que se presenten los nombrados constitucionalmente.
 
+#### SECCION I
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+
 ###### Artículo 6°.
 
 Mientras el Congreso o la Diputación Permanente, no disponga la traslación de los Poderes Públicos a la Ciudad de Chilpancingo de los Bravos, continuará siendo Capital del Estado el Puerto de Acapulco.
@@ -1288,6 +80,1694 @@ Mientras el Congreso o la Diputación Permanente, no disponga la traslación de 
 ###### Artículo 7°.
 
 Mientras se erige el nuevo Distrito de Eutimio Pinzón, quedará comprendido en el de Mina, para los efectos de las elecciones de Diputados a que se convocará oportunamente.
+
+#### SECCION II. INSTALACION, EJERCICIO, RECESO Y RENOVACION DEL CONGRESO
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+
+###### Artículo 8°.
+
+Queda derogada la Constitución del Estado de fecha 29 de noviembre de 1880, con todas sus adiciones y reformas.
+
+Dada en el Salón de sesiones del Congreso del Estado, en Acapulco de Juárez, a veintisiete de septiembre de mil novecientos diez y siete.- Presidente, Demetrio Ramos.- Diputado por el Distrito de Galeana.- Vicepresidente Rutilo Pérez.- Diputado por el Distrito de Abasolo.- Lic. Rafael Ortega.- Diputado por el Distrito de Alvarez.- R. Martínez.- Diputado por el Distrito de Bravos.- Norberto García.- Diputado por el Distrito de Guerrero.- Lic. Narciso Chávez.- Diputado por el Distrito de Hidalgo.- Lic. G. Alvarez.- Diputado por el Distrito de Morelos.- Secretario, P. A. Maldonado.- Diputado por el Distrito de Montes de Oca.- Secretario, Cayetano E. González.- Diputado por el Distrito de Allende.- Secretario Suplente, Simón Fúnes.- Diputado por el 1er. Distrito electoral de Tabares.- Secretario Suplente, Nicolás R. Uruñuela.- Diputado por el 2° Distrito electoral de Tabares.- Rubricados.
+
+Por tanto, mando se imprima, publique por bando solemne, circule, observe y sea protestada por todas las autoridades y empleados de esta Entidad Federativa.
+
+Dada en el Palacio del Poder Ejecutivo, en la Ciudad y Puerto de Acapulco de Juárez, Capital provisional de este Estado, a los seis días del mes de octubre de mil novecientos diecisiete.
+
+S. G. Mariscal.
+
+El Secretario General,
+
+J. Adams.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+P.O. 16 DE OCTUBRE DE 1920.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE GUERRERO.
+
+P.O. 10 DE JUNIO DE 1922.
+
+Las anteriores adiciones y reformas a la Constitución, serán publicadas desde luego con la solemnidad debida en todas las poblaciones del Estado.
+
+P.O. 12 DE MAYO DE 1923.
+
+Las anteriores reformas a la Constitución Política local, serán publicadas con la solemnidad debida, en todas las poblaciones del Estado y entrarán desde luego en vigor.
+
+P.O. 3 DE ABRIL DE 1926.
+
+La duración del período y la no reelección a que se refiere el artículo reformado, se aplicarán a los Diputados que integren de la XXVIII Legislatura en adelante.
+
+P.O. 19 DE JUNIO DE 1926.
+
+Surtirá sus efectos el presente Decreto, a partir de la fecha de su publicación.
+
+P.O. 27 DE NOVIEMBRE DE 1926.
+
+El presente Decreto surtirá sus efectos desde la fecha de su publicación.
+
+P.O. 21 DE MAYO DE 1927.
+
+Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación.
+
+P.O. 2 DE FEBRERO DE 1929.
+
+Este Decreto surtirá sus efectos, a partir de la fecha de su publicación.
+
+P.O. 14 DE AGOSTO DE 1929.
+
+Este Decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación.
+
+P.O. 22 DE ENERO DE 1930.
+
+Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación.
+
+P.O. 9 DE ABRIL DE 1930.
+
+Este Decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación.
+
+P.O. 13 DE AGOSTO DE 1930.
+
+Este decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación.
+
+P.O. 2 DE SEPTIEMBRE DE 1931.
+
+###### Artículo 9°.
+
+Son prerrogativas de los ciudadanos:
+
+I.- Votar en las elecciones populares en la forma que disponga la Ley.
+
+II.- Poder ser votado para todos los cargos de elección popular y nombrado para cualquier otro empleo o comisión de carácter público si reúne los requisitos que establezcan las Leyes.
+
+III.- Asociarse para tratar los asuntos políticos del Municipio, del Estado y de la República.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+
+###### ARTICULO 10.
+
+Son habitantes del Estado todas las personas que radiquen en su Territorio.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 11.
+
+Son obligaciones de los habitantes del Estado:
+
+I.- Hacer que las personas sujetas a su patria potestad, tutela o guarda concurran a las escuelas públicas o privadas para obtener la educación primaria durante el tiempo que señala la Ley de la materia.
+
+II.- Contribuir a los gastos públicos de la Federación, del Estado y del Municipio en que radiquen de la manera proporcional y equitativa que dispongan las Leyes.
+
+III.- Contribuir a todas las tareas de desarrollo económico y de bienestar social.
+
+IV.- Auxiliar a las autoridades en la conservación del orden público.
+
+V.- Inscribirse en los padrones de vecindad, electorales, fiscales y catastrales.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 12.
+
+Son vecinos del Estado de Guerrero:
+
+I.- Los que tengan un mínimo de seis meses de residencia fija en el territorio del Estado con ánimo de permanecer en él; y
+
+II.- Los que antes del plazo de seis meses manifiesten expresamente ante la autoridad municipal el deseo de adquirir la vecindad.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 13.
+
+La vecindad se pierde por dejar de residir en el Estado durante seis meses, excepto en los casos siguientes:
+
+I.- Por ausencia en virtud de comisión de servidor público de la Federación o del Estado, que no constituya el desempeño de una función o empleo de carácter permanente.
+
+II.- La ausencia por motivos de estudio o de salud.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 14.
+
+Las personas que no tengan residencia fija en el Estado o que se encuentren en el mismo de manera accidental, se considerarán como transeúntes y quedarán sujetos a las leyes.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+## TITULO TERCERO.
+
+DEL TERRITORIO DEL ESTADO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 15.
+
+Son guerrerenses:
+
+I.- Los nacidos dentro del Territorio del Estado.
+
+II.- Los que nazcan fuera del Estado, de padre o madre guerrerense.
+
+III.- Los mexicanos que tengan residencia permanente en el Estado por más de cinco años.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 16.
+
+Son ciudadanos del Estado los guerrerenses que habiendo cumplido dieciocho años tengan un modo honesto de vivir y reúnan la condición de vecindad en los términos del artículo 12.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 17.
+
+Son prerrogativas de los ciudadanos guerrerenses:
+
+I.- Elegir y ser elegido para los cargos públicos del Estado y municipales.
+
+II.- Asociarse para tratar asuntos políticos del Estado o del Municipio.
+
+III.- Ser preferidos, en igualdad de condiciones, para todos los empleos, cargos o comisiones otorgados por el gobierno del Estado, los ayuntamientos, empresas descentralizadas y de participación estatal.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 18.
+
+Son obligaciones de los ciudadanos guerrerenses:
+
+I.- Alistarse en la Guardia Nacional y servir en ella de la manera que disponga la ley de la materia.
+
+II.- Inscribirse en los padrones electorales en los términos que establezcan las leyes correspondientes.
+
+III.- Votar en las elecciones en el municipio o distrito que le corresponda.
+
+IV.- Desempeñar las funciones electorales y censales para las que fuera nombrado.
+
+V.- Desempeñar los cargos de elección popular para los que fueren nominados.
+
+VI.- Las demás que se deriven de la Constitución General de la República, de esta Constitución y de las leyes que de una y otra emanen.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+#### SECCION III
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+
+###### ARTICULO 19.
+
+Pierde la calidad de ciudadano del Estado:
+
+I.- El que por cualquier causa dejare de ser ciudadano mexicano; y
+
+II.- El que se coloque en las demás hipótesis que para ese efecto fijan las leyes.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+#### SECCION IV. DE LA DIPUTACION PERMANENTE
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+
+###### ARTICULO 20.
+
+Se suspenderán los derechos de ciudadano del Estado:
+
+I.- A los procesados, desde que se dicte el auto de formal prisión, hasta que cause ejecutoria la sentencia que los absuelva.
+
+II.- A los funcionarios y empleados públicos procesados por delitos comunes u oficiales, en los términos que establece el Capítulo de Responsabilidades de esta Constitución y las leyes correspondientes.
+
+III.- A los que por sentencia ejecutoria sean condenados a sufrir pena corporal o a la suspensión de derechos, hasta que ésta se extinga.
+
+IV.- A los que por causa de enfermedad mental tuvieren en suspenso sus derechos civiles.
+
+V.- A los que no cumplan, sin causa justificada, cualquiera de las obligaciones que impone el artículo 18. Esta suspensión durará un año y se impondrá además de las otras penas que por el mismo hecho señale la ley correspondiente.
+
+VI.- A los que se encuentran sustraídos a la acción de la justicia, desde que se dicte la orden de aprehensión hasta que se declare prescrita la acción penal.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 21.
+
+La Ley fijará, además de los casos previstos en los artículos anteriores, otros en que se pierdan o se suspendan los derechos del ciudadano guerrerense. En los casos de suspensión, cumplido el término de la sentencia los derechos se recuperarán sin necesidad de declaración.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO VII.
+
+DE LA CONCESION POR EL ESTADO DE LA CALIDAD GUERRERENSE.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+## TITULO CUARTO.
+
+DE LA POBLACION DEL ESTADO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+#### SECCION V. DE LA INICIATIVA Y FORMACION DE LAS LEYES
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+
+###### ARTICULO 22.
+
+Se podrá otorgar la calidad de guerrerenses a los mexicanos que se hayan distinguido o prestado servicios extraordinarios de evidente beneficio para la entidad, mediante decreto motivado y fundado que expida el Jefe del Ejecutivo con la aprobación de la Legislatura del Estado o de la Diputación Permanente en su caso.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 23.
+
+El Estado de Guerrero es parte integrante de la Federación Mexicana, adopta el sistema de Gobierno Republicano, representativo, democrático, federal, y está sujeto a la Constitución Política de los Estados Unidos Mexicanos de 5 de febrero de 1917.
+
+El Estado tiene facultades para concertar con la Federación y las demás entidades federativas, todos aquellos convenios que redunden en beneficio propio o común.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+#### SECCION I
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+
+###### ARTICULO 24.
+
+El Estado de Guerrero es libre y autónomo en su régimen interior y ejerce el poder en toda la extensión de la superficie territorial que le corresponde.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 25.
+
+El Poder del Estado reside en el pueblo y se ejerce por los Organos que lo representan de acuerdo con el artículo 41 de la Constitución Federal y con arreglo a esta Constitución.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 26.
+
+El Poder Público del Estado se divide para su ejercicio en: Legislativo, Ejecutivo y Judicial.
+
+No podrán reunirse dos o más de estos poderes en una sola persona o corporación, ni depositarse el Legislativo en un sólo individuo.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 27.
+
+Se declara Ciudad Capital del Estado de Guerrero, y por tanto, asiento de los Poderes, a Chilpancingo de los Bravo. En ella deberán residir el Congreso, el Gobernador y el Tribunal Superior de Justicia, salvo los casos en que, por circunstancias graves o extraordinarias acuerde el Congreso del Estado trasladar la Capital a otro lugar, a iniciativa del Jefe del Ejecutivo.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+#### SECCION II. DE LA SECRETARIA GENERAL DE GOBIERNO
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+
+###### ARTICULO 28.
+
+El Poder Legislativo se ejerce por una Cámara de Diputados que se denomina "CONGRESO DEL ESTADO", el cual deberá de renovarse totalmente cada tres años.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 29.
+
+Por cada distrito electoral habrá un diputado propietario y un suplente. La elección se hará por sufragio directo, secreto e individual y el Congreso se complementará además con diputados de partido, apegándose en todos los casos a lo que dispone la Ley Electoral del Estado y para los últimos, a las reglas siguientes:
+
+I.- Todo partido político nacional debidamente registrado ante la Secretaría de Gobernación y ante la Secretaría General de Gobierno cuando menos un año antes de la elección, si obtiene el dos punto cinco de la votación general del Estado tendrá derecho a que se le acredite de entre sus candidatos un diputado de partido y hasta dos si obtiene el diez por ciento de dicha votación.
+
+II.- Cuando un partido nacional obtenga la mayoría de votos en un Distrito, sólo tendrá derecho a que se le acredite un diputado de partido y si la obtiene en dos distritos, no se le acreditarán sino los de mayoría.
+
+III.- Los diputados de partido serán acreditados por las Juntas Preparatorias por riguroso orden, de acuerdo con el número decreciente de votos que hayan logrado en relación con los demás candidatos del mismo partido, en todo el Estado.
+
+IV.- Los diputados de mayoría y los de partido tendrán la misma categoría legal e iguales derechos y obligaciones.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 30.
+
+Se tendrá por electo como diputado al ciudadano que haya obtenido la mayoría de votos emitidos en el distrito por el que fue registrado y declarado así por las Juntas Preparatorias y los que hayan sido acreditados como diputados de partido.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+#### SECCION III. DEL MINISTERIO PUBLICO
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+
+###### ARTICULO 31.
+
+Ningún ciudadano legalmente electo diputado de mayoría o acreditado como diputado de partido podrá excusarse de ejercer su cargo si no es por causa grave que calificará el Congreso.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 32.
+
+Las faltas temporales o definitivas de los diputados propietarios serán cubiertas por los suplentes respectivos.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 33.
+
+Los diputados, durante el período de ejercicio de sus funciones, no podrán desempeñar ninguna comisión pública o empleo dependiente de la Federación, del Estado o de algún municipio por los cuales disfrute sueldo, sin licencia previa del Congreso, con excepción de la docencia. Obtenida la licencia respectiva se suspenderá el ejercicio de las funciones representativas mientras dure el nuevo cargo.
+
+La infracción de esta disposición será sancionada con la pérdida del carácter de diputado, previa resolución del Congreso.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 34.
+
+Los diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo y jamás podrán ser reconvenidos por ellas.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO II.
+
+DE LOS REQUISITOS E IMPEDIMENTOS PARA SER DIPUTADO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 35.
+
+Para ser diputado al Congreso del Estado se requiere:
+
+I.- Ser ciudadano guerrerense en ejercicio pleno de sus derechos.
+
+II.- Tener veintiún años de edad cumplidos el día de la elección.
+
+III.- Ser originario del Distrito que lo elija o vecino de él, con residencia no menor de tres años inmediatamente anteriores al día de la elección.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 36.
+
+No pueden ser electos diputados:
+
+Los funcionarios federales, los miembros del Ejército y la Armada Nacionales o de las fuerzas publicas del Estado, los Magistrados del Tribunal Superior de Justicia y los Jueces de Primera Instancia, el Secretario General de Gobierno, el Oficial Mayor, el Procurador General de Justicia y los Agentes del Ministerio Público, los directores de las dependencias del Ejecutivo y los Presidentes Municipales, a menos que se separen definitivamente de sus funciones noventa días antes de la elección; y en general, todas las demás personas impedidas por las leyes.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 37.
+
+Los diputados al Congreso del Estado no podrán ser reelectos para el período inmediato.
+
+Los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO III.
+
+DE LA INSTALACION Y FUNCIONAMIENTO DEL CONGRESO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 38.
+
+Los presuntos diputados que hayan obtenido constancia de mayoría de votos de la Junta Computadora respectiva se reunirán en la Capital del Estado en el mes de febrero del año de renovación del Congreso para celebrar una junta previa y las juntas preparatorias que sean necesarias constituidos en Colegio Electoral para calificar las elecciones, primero de diputados de mayoría y después de diputados de partido, conforme al procedimiento que para el efecto establece la Ley Orgánica del Poder Legislativo y la Ley Electoral del Estado.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO IV.
+
+DE LAS ATRIBUCIONES DEL CONGRESO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 39.
+
+El último día del mes de febrero, se instalará el Congreso iniciándose el acto con la protesta de ley que otorgarán los diputados. Igual requisito se exigirá a los que no hayan asistido a la instalación cuando se presenten a desempeñar su cargo.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 40.
+
+Para que el Congreso pueda instalarse y ejerce sus funciones se necesita por lo menos la asistencia de las dos terceras partes del número total de sus miembros pero los presentes deberán reunirse el día señalado en el artículo anterior y compeler a los ausentes para que concurra de inmediato, apercibiéndolos que de no hacerlo, se llamará al suplente respectivo, salvo los casos de impedimento justificado.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 41.
+
+Habrá en cada año dos períodos de sesiones ordinarias: el primero comenzará el día primero de marzo y terminará el treinta y uno de mayo; y el segundo, el día primero de octubre y terminará el día treinta y uno de diciembre. Ambos períodos podrán prorrogarse por el tiempo que acuerde el Congreso y lo requiera la importancia de los asuntos pendientes. En caso de que por alguna circunstancia no pudieren abrirse o cerrarse las sesiones en los días señalados, estos actos se verificarán en la forma que lo acuerden los diputados.
+
+La Ley Orgánica del Poder Legislativo señalará las formalidades con que deberá celebrarse la apertura y clausura de las sesiones.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 42.
+
+El Congreso podrá reunirse para realizar sesiones extraordinarias, cuando sea convocado para ese objeto por la Diputación Permanente, por sí o a solicitud del Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+## TITULO QUINTO.
+
+DE LA ESTRUCTURA POLITICA DEL ESTADO DE GUERRERO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO UNICO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 43.
+
+El día primero de abril de cada año se reunirá el Congreso en sesión pública y solemne ante la cual el Gobernador del Estado rendirá un informe pormenorizado del estado de la administración pública durante el año inmediato anterior.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 44.
+
+Las sesiones tanto ordinarias como extraordinarias serán públicas; pero cuando se trate de asuntos que exijan reserva las habrá secretas, de conformidad con lo que establece la Ley Orgánica del Poder Legislativo.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 45.
+
+El Secretario General de Gobierno, el Procurador General de Justicia y los directores generales de las dependencias del Poder Ejecutivo, luego que esté abierto el período de sesiones darán cuenta al Congreso, por escrito, del estado que guardan sus respectivos ramos.
+
+El Congreso podrá citar a dichos funcionarios cuando se discuta una ley o se estudie un asunto relativo a su ramo, para que informe.
+
+Podrá solicitarse la comparecencia del Presidente del Tribunal Superior de Justicia cuando se estudie una iniciativa de ley relativa al Poder Judicial.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 46.
+
+Los diputados individualmente serán gestores y promotores del pueblo. Visitarán sus respectivos distritos en los períodos de receso del Congreso para cerciorarse del estado que guardan los programas de desarrollo económico y de bienestar social, vigilar la eficaz prestación de los servicios públicos y percatarse de cualquier anomalía que pueda afectar la seguridad y tranquilidad colectivas; lo que por escrito harán del conocimiento de la Diputación Permanente, proponiendo las medidas que considere adecuadas para la solución de los problemas planteados y ésta los hará llegar la Jefe del Ejecutivo, para que proceda si se estima oportuno.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO V.
+
+DE LA DIPUTACION PERMANENTE.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 47.
+
+Son atribuciones del Congreso del Estado:
+
+I.- Expedir leyes y decretos en todas aquellas materias que no sean de la competencia exclusiva de la Federación, en términos del Artículo 124 de la Constitución Política de los Estado Unidos Mexicanos.
+
+II.- Ejercer ante el Congreso de la Unión el derecho de iniciativa de leyes y decretos conforme al Artículo 71, fracción III, de la Constitución General de la República.
+
+III.- Elaborar las leyes locales cuya expedición haga obligatoria la Constitución Federal.
+
+IV.- Expedir anualmente la Ley de Ingresos del Estado, señalando las contribuciones necesarias para cubrir el presupuesto.
+
+V.- Legislar sobre el Municipio Libre sujetándose a lo establecido por el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+
+VI.- Dictar las disposiciones relativas a la seguridad pública del Estado.
+
+VII.- Legislar en todo lo relativo al sistema penitenciario del Estado teniendo como bases la educación y el trabajo para lograr la readaptación social de los sentenciados.
+
+VIII.- Expedir leyes por las cuales se establezcan instituciones para el tratamiento de menores infractores.
+
+IX.- Legislar en materia de expropiación por causa de utilidad pública.
+
+X.- Legislar en materia de organismos descentralizados por servicio, mediante la iniciativa del Jefe del Ejecutivo.
+
+XI.- Instituir por medio de leyes, tribunales de lo contencioso administrativo para dirimir controversias entre la Administración Pública estatal o municipal y los particulares.
+
+XII.- Dictar leyes para combatir enfermedades y vicios que puedan traer como consecuencia la degeneración de la especie humana, la disminución o pérdida de las facultades mentales u otro daño físico irreversible.
+
+XIII.- Legislar en materia de división territorial del Estado a fin de crear, suprimir o fusionar municipalidades o distritos, aumentar o disminuir sus respectivos territorios, anexándoles o segregándoles pueblos o localidades, para una mejor administración general, mediante iniciativa del titular del Poder Ejecutivo.
+
+XIV.- Establecer las bases respecto de la administración, conservación o inversión de los bienes del Estado y la enajenación de aquellos que no sean susceptibles de aplicarse a un servicio público u otro uso.
+
+XV.- Decretar los arbitrios municipales, teniendo en cuenta las proposiciones que sobre el particular hagan los Ayuntamientos respectivos; revisar y aprobar las cuentas que éstos presenten para el ejercicio fiscal anterior, y revisar y aprobar los presupuestos que regirán en el ejercicio fiscal inmediato siguiente, los cuales deberán ser remitidos por conducto del Ejecutivo.
+
+XVI.- Dictar las leyes necesarias en el ramo de educación pública que no sean de la competencia de la Federación.
+
+XVII.- Excitar a los poderes de la Unión a que protejan al Estado en los casos a que hace referencia el Artículo 122 de la Constitución General de la República.
+
+XVIII.- Examinar, discutir y aprobar en su caso anualmente a iniciativa del Jefe del Ejecutivo, el Presupuesto de Egresos del Estado y expedir la ley relativa. No podrá dejar de señalar el Congreso la retribución que corresponda a un empleo que esté establecido por la ley y en caso de que por cualquier circunstancia se omita fijar dicha remuneración, se tendrá por señalada la que hubiese sido fijada en el presupuesto del año anterior o al de la ley que estableció el empleo.
+
+XIX.- Revisar en el primer período ordinario de sesiones, las erogaciones e inversión de los ingresos públicos del año fiscal anterior, otorgando constancia definitiva de aprobación en su caso o exigiendo las responsabilidades correspondientes.
+
+XX.- Convocar a elecciones de aquellos miembros del Congreso que hubiesen dejado de hacerse o hubieren sido declaradas nulas por las Juntas Preparatorias, proveyendo las disposiciones necesarias.
+
+XXI.- Erigirse en Colegio Electoral con el objeto de calificar las elecciones de Gobernador, declarando electo a quien haya obtenido la mayoría de sufragios.
+
+XXII.- Discutir y aprobar en su caso, en el improrrogable término de diez días, a partir de que son recibidos, los nombramientos de magistrados del Tribunal Superior de Justicia hechos por el Gobernador.
+
+Si el Congreso no resuelve dentro del término antes citado, se tendrán por aprobados los nombramientos. Toda negativa de aprobación al nombramiento de magistrados del Tribunal Superior deberá estar fundada y aprobada por el Congreso. En tal caso el Gobernador hará nombramiento a favor de persona distinta de la rechazada, hasta quedar definitivamente integrado el Tribunal.
+
+XXIII.- Recibir de los diputados, del Gobernador electo y de los magistrados del Tribunal Superior de Justicia, la protesta de guardar y hacer guardar la Constitución General de la República, la particular del Estado y las leyes que de una y otra emanen.
+
+XXIV.- Resolver sobre la validez o nulidad de las elecciones de ayuntamientos cuando haya duda acerca de ellas previo informe del Ejecutivo.
+
+XXV.- Aprobar en su caso, la suspensión de los ayuntamientos o de alguno de sus miembros solicitada por el Ejecutivo del Estado. Si a juicio del Congreso pudiere existir la comisión de un delito formulará la denuncia respectiva ante el Procurador de Justicia.
+
+XXVI.- Aprobar en su caso la propuesta del Ejecutivo, por ausencia definitiva de algún miembro de los Ayuntamientos, por causa grave o de fuerza mayor.
+
+XXVII.- Resolver sobre las licencias o renuncias por causas graves de sus propios miembros, del Gobernador y de los magistrados del Tribunal Superior de Justicia.
+
+XXVIII.- Constituirse en Colegio Electoral para nombrar al Gobernador Interino cuando la falta temporal del Constitucional sea mayor de treinta días; asimismo, para designar al ciudadano que deba reemplazarlo ya sea con el carácter de sustituto o interino en término de los artículos 68 a 71.
+
+XXIX.- Autorizar al Jefe del Ejecutivo para celebrar convenios sobre los límites del Territorio del Estado, sometiéndolos para su aprobación al Congreso Local y estos quedarán sujetos a la ratificación del Congreso de la Unión.
+
+XXX.- Ejercer ante la Suprema Corte de Justicia de la Nación, la representación del Estado en todos aquellos juicios originados por diferencias existentes con otros Estados sobre las demarcaciones de su respectivos Territorios, promoviendo demandas o contestándolas.
+
+XXXI.- Autorizar al Ejecutivo para negociar empréstitos sobre el crédito del Estado, aprobarlos y decretar la manera de pagar la deuda.
+
+XXXII.- Nombrar y renovar al Oficial Mayor del Congreso y al Contador Mayor de Glosa, en los términos que marque la ley respectiva.
+
+XXXIII.- Cambiar la residencia de los Poderes del Estado.
+
+XXXIV.- Informar al Congreso de la Unión en los casos a que se refiere el Artículo 73, fracción III inciso 3o. de la Constitución General de la República y ratificar, previos los estudios y observaciones, la resolución que dicte el propio Congreso Federal, de acuerdo con los incisos 6o. y 7o. de la misma fracción III.
+
+XXXV.- Recibir las denuncias en contra de los Diputados, Gobernador, Magistrados, Procurador de Justicia, Oficial Mayor de Gobierno y Directores del Despacho, por delitos oficiales y comunes, procediendo en término de los artículos 111 y 112 de esta Constitución.
+
+XXXVI.- Autorizar al Gobernador para realizar arreglos o celebrar convenios con la Federación, que sean necesarios para el buen funcionamiento de la administración general o para la mejor prestación de los servicios públicos.
+
+XXXVII.- Determinar, según las necesidades locales, el número máximo de ministros de los cultos religiosos.
+
+XXXVIII.- Expedir la Ley de los Trabajadores al Servicio del Estado de Guerrero.
+
+XXXIX.- Legislar en materia del Patrimonio Familiar.
+
+XL.- Expedir su propia Ley Orgánica.
+
+XLI.- Expedir las leyes que sean necesarias a objeto de hacer efectivas las facultades anteriores, así como cualesquiera otras concedidas por esta Constitución a los Poderes del Estado.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO VI.
+
+DE LA INICIATIVA Y FORMACION DE LAS LEYES.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 48.
+
+En los períodos de receso del Congreso funcionará una Diputación Permanente que se elegirá el penúltimo día de cada período ordinario de sesiones integrada por cuatro miembros que serán en su orden un Presidente, un Secretario, un Vocal y un Suplente.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 49.
+
+Son facultades de la Diputación Permanente:
+
+I.- Convocar por si, o a petición del Ejecutivo, a período extraordinario de sesiones del Congreso.
+
+II.- Ejercer en sus respectivos casos, las atribuciones que le confieren las fracciones XXI, XXV y XXVIII del Artículo 47 de esta Constitución.
+
+III.- Recibir la protesta de Ley de los funcionarios que deban otorgarla ante el Congreso, durante los recesos de éste.
+
+IV.- Conceder licencia a los funcionarios a que se refiere la fracción anterior hasta por el tiempo que dure el receso.
+
+V.- Recibir y resolver las denuncias que por causas graves presenten los funcionarios que deban hacerlo ante el Congreso, en los recesos de éste.
+
+VI.- Nombrar provisionalmente y con las limitaciones que establezcan las leyes, a los empleados de su Secretaría y de la Contaduría de Glosa.
+
+VII.- Llamar a los suplentes respectivos en casos de inhabilitación o suspensión temporal o permanente de los diputados que la integran, y si aquellos también estuvieren imposibilitados, expedir los decretos respectivos para que se proceda a nueva elección.
+
+VIII.- Dictaminar sobre los asuntos pendientes para el siguiente período de sesiones.
+
+IX.- Las demás que le señale esta Constitución.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO I.
+
+DEL TITULAR DEL PODER EJECUTIVO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 50.
+
+El derecho de iniciar leyes corresponde:
+
+I.- Al Gobernador del Estado.
+
+II.- A los diputados del Congreso.
+
+La discusión y aprobación de las leyes y decretos se hará con estricto apego a la Ley Orgánica del Poder Legislativo pero las iniciativas de ley enviadas por el Jefe del Ejecutivo pasarán desde luego a la comisión que deba dictaminar con arreglo a la propia ley.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 51.
+
+Para la discusión y votación de todo proyecto de ley o decreto se necesita la presencia de las dos terceras partes de los miembros del Congreso; para su aprobación se requiere la mayoría de votos de los diputados que estuvieren presentes, habiendo quórum.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 52.
+
+Discutido y aprobado un proyecto de ley o decreto por el Congreso se remitirá al Gobernador del Estado, quien si no tuviere observaciones que hacer la promulgará y ordenará su publicación en el Periódico Oficial.
+
+Se reputa aprobado por el Ejecutivo todo Proyecto de ley o decreto que no devuelva al Congreso con las observaciones que considere pertinentes en un término de diez días hábiles, a no ser que al estar corriendo este término el Congreso hubiere cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá hacerla el primer día hábil en que el mismo esté reunido.
+
+El proyecto de ley o decreto vetado en todo o en parte por el Ejecutivo será devuelto con sus observaciones al Congreso, el cual será discutido nuevamente y si fuere confirmado por las dos terceras partes de los miembros que lo integran, el proyecto será ley o decreto y volverá al Ejecutivo para su promulgación.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 53.
+
+Cuando un proyecto de ley o decreto fuere devuelto al Congreso con las observaciones del Ejecutivo y no fuere aprobado con arreglo al artículo anterior, no podrá ser sometido nuevamente a discusión sino hasta el siguiente período de sesiones ordinario.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 54.
+
+En los casos de urgencia notoria calificada por el voto de las dos terceras partes de los diputados presentes, el Congreso puede dispensar o abreviar los trámites reglamentarios, excepto en lo relativo al dictamen de la comisión de acuerdo con el artículo 50, el que sólo podrá suprimirse en los casos de obvia resolución.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 55.
+
+El Secretario General de Gobierno, el Oficial Mayor de Gobierno, el Procurador General de Justicia y los directores del ramo podrán asistir, cuando se trate de iniciativas del Ejecutivo, a las sesiones del Congreso con voz pero sin voto, previa cita del Congreso, para que expliquen los motivos de las leyes de su competencia.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 56.
+
+Para reformar, derogar o abrogar las leyes, se observarán los mismos trámites que para su formación.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 57.
+
+El Poder Ejecutivo del Estado se deposita en un solo individuo que se denominará "GOBERNADOR DEL ESTADO DE GUERRERO".
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 58.
+
+El Gobernador del Estado, de acuerdo con la concepción unitaria del Poder Ejecutivo que impone la Constitución Federal, es Jefe del Estado, del Gobierno y de la administración pública y sus facultades como Jefe del Estado y del Gobierno son intransferibles, y delegables solamente en aquellos casos previstos en esta Constitución y en las leyes. Las atribuciones administrativas podrán ser transferidas a personas físicas o morales. En este caso, el Ejecutivo conservará la facultad de revisar la legalidad de los actos de aquellas.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 59.
+
+El Gobernador del Estado será el coordinador de los esfuerzos en beneficio del pueblo, tanto de los provenientes de la Federación como de los que se originen en la propia Entidad.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 60.
+
+El Gobernador, previa la protesta de ley que otorgará ante el Congreso del Estado, tomará posesión de su cargo el día primero de abril del año de renovación del período constitucional.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 61.
+
+El Gobernador durará en su encargo seis años y no podrá ser reelecto ni electo para otro período constitucional.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 62.
+
+El cargo de Gobernador sólo es renunciable por causa grave que calificará el Congreso del Estado ante el que presentará la renuncia.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO III.
+
+DE LA ELECCION DEL GOBERNADOR.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 63.
+
+Para ser Gobernador del Estado se requiere:
+
+I.- Ser ciudadano guerrerense por nacimiento, hijo de padres mexicanos y en pleno goce de sus derechos.
+
+II.- Tener treinta años cumplidos al tiempo de ser electo.
+
+III.- No pertenecer al estado eclesiástico ni ser ministro de algún culto.
+
+IV.- No ser funcionario de la Federación ni militar en servicio activo o persona con mando de fuerzas dentro del Estado, ni Magistrado del Tribunal Superior de Justicia, Secretario General de Gobierno, Oficial Mayor o Procurador General de Justicia, a menos que se hubiere separado definitivamente del cargo tres meses antes de la elección o a mas tardar cinco días después de publicada la convocatoria cuando se trate de elecciones extraordinarias.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 64.
+
+Los requisitos señalados en las fracciones I, II y III del artículo anterior, son indispensables para el ciudadano que con el carácter de interino o sustituto cubra la falta del Gobernador Constitucional.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO IV.
+
+DE LA SUPLENCIA, DE LAS FALTAS TEMPORALES O DEFINITIVAS DEL GOBERNADOR DEL ESTADO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 65.
+
+La elección de Gobernador será directa y en los términos que disponga la Ley Electoral del Estado.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 66.
+
+La persona que sustituyere al Gobernador Constitucional en caso de falta absoluta de éste, no podrá ser electo para el período inmediato. Tampoco podrá serlo para dicho período el ciudadano que fuere nombrado Gobernador interino en las faltas temporales del Gobernador Constitucional.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO V.
+
+DE LAS ATRIBUCIONES DEL GOBERNADOR.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 67.
+
+En las faltas temporales del Gobernador que no excedan de treinta días, se encargará del despacho el Secretario General de Gobierno.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 68.
+
+Si por cualquier motivo la elección de Gobernador no estuviere hecha y declarada el primero de abril del año en que deba realizarse la renovación, o el electo no se presentare a desempeñar sus funciones en esa fecha, cesará, sin embargo, el que haya concluido su período y el Congreso nombrará inmediatamente un Gobernador interino.
+
+Si la ausencia del Gobernador electo y declarado fuere temporal, por una causa grave y justificada que calificará el Congreso, éste nombrará Gobernador Interino, el que fungirá en el tiempo por el que dure dicha ausencia.
+
+Si la ausencia temporal se convierte en absoluta se procederá conforme al siguiente artículo.
+
+Si el Congreso no estuviere reunido, la Diputación Permanente citará a los miembros ausentes a una sesión extraordinaria que se llevará a efecto dentro de las veinticuatro horas siguientes, procediendo en consecuencia.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 69.
+
+En caso de falta absoluta del Gobernador ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones se constituirá inmediatamente en Colegio Electoral y con la presencia de las dos terceras partes del número total de sus miembros cuando menos, nombrarán en escrutinio secreto y por mayoría de votos, al Gobernador Interino.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 70.
+
+En los casos a que se refieren los artículos anteriores, el mismo Congreso convocará, dentro de los diez días siguientes, a elecciones extraordinarias de Gobernador para concluir el período respectivo; debiendo mediar entre la fecha de la convocatoria y la que se señala para elecciones un plazo no menor de tres meses ni mayor de seis. El Gobernador tomará posesión de su cargo dentro de los treinta días siguientes a la declaratoria que haga el Congreso constituido en Colegio Electoral.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+## TITULO SEXTO.
+
+DEL GOBIERNO DEL ESTADO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO UNICO.
+
+DE LA DIVISION DE PODERES Y CIUDAD CAPITAL.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 71.
+
+Cuando la falta absoluta del Gobernador ocurra en los cuatro últimos años del ejercicio constitucional, si el Congreso estuviera en sesiones elegirá desde luego al Gobernador sustituto que deba concluir el período. Si el congreso no estuviere reunido se procederá en términos del artículo 68.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 72.
+
+Llegado el caso de la desaparición de los poderes del Estado se observará el procedimiento establecido en la fracción V del artículo 76 de la Constitución Federal de la República.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 73.
+
+Son atribuciones del Gobernador del Estado:
+
+I.- Iniciar ante el Congreso del Estado todas las leyes que considere necesarias.
+
+II.- Publicar las leyes y decretos federales y hacerlos cumplir.
+
+III.- Promulgar, publicar y ejecutar las leyes que expida el Congreso del Estado.
+
+IV.- Ejercitar la facultad reglamentaria que le compete, para desarrollar y hacer efectivas las leyes que expida el Congreso del Estado.
+
+V.- Proveer por todos los medios de que disponga la tranquilidad, seguridad y salubridad públicas, en igualdad de circunstancias para todos los habitantes del Estado.
+
+VI.- Vetar por una sola vez en el término improrrogable de diez días hábiles, a partir del día en que los reciba, las leyes y decretos aprobados por el Congreso del Estado.
+
+VII.- Presentar al Congreso a más tardar el día quince de diciembre de cada año para su discusión y aprobación en su caso, los proyectos de Ley de Ingresos y del Presupuesto de Egresos para el ejercicio fiscal siguiente.
+
+VIII.- Rendir el día primero de abril de cada año ante el Congreso, el informe de labores de la Administración Pública a su cargo, con excepción del último año del período constitucional que lo rendirá el día primero de marzo.
+
+IX.- Nombrar y remover libremente a los funcionarios y a los empleados del poder Ejecutivo, cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución o por las leyes correspondientes.
+
+X.- Celebrar convenios sobre límites del Territorio del Estado, sometiéndolos para su aprobación al Congreso Local antes de remitirlos al Congreso de la Unión para su ratificación.
+
+XI.- Administrar el patrimonio y dirigir las finanzas públicas del Estado con arreglo a las leyes de la materia.
+
+XII.- Ordenar visitas periódicas a los ayuntamientos para investigar irregularidades o indebidos manejos de la hacienda municipal, poniéndolos en conocimiento del Congreso para que éste resuelva lo procedente.
+
+XIII.- Solicitar del Congreso o de la Diputación Permanente en su caso, la suspensión con causa justificada de los ayuntamientos o de alguno de sus miembros debiendo resolver dicho Cuerpo Legislativo de acuerdo con sus facultades.
+
+XIV.- En caso de ausencia definitiva de algún miembro de los Ayuntamientos, por causa grave o de fuerza mayor, el Ejecutivo del Estado propondrá al Congreso o a la Diputación permanente, a quien lo sustituya.
+
+XV.- Solicitar de la Diputación Permanente que convoque al Congreso a sesiones extraordinarias, debiendo exponer en la solicitud los motivos y los asuntos a tratar.
+
+XVI.- Ejercer el mando de las fuerzas de Seguridad Pública del Estado.
+
+XVII.- Ordenar la elaboración o modificación de planos reguladores y catastrales así como las tablas y cuadros de valores para la propiedad inmueble o la construcción.
+
+XVIII.- Formar la estadística y el catastro del Estado.
+
+XIX.- Decretar en cada caso las expropiaciones por causa de utilidad pública así como la ocupación de los bienes afectados.
+
+XX.- Proveer a la eficaz satisfacción de los servicios públicos del Estado tomando en consideración los haberes presupuestales y gestionar aquellos que puedan proporcionar otras entidades públicas o privadas.
+
+XXI.- Ejercer todos los derechos y facultades concurrentes que el Artículo 27 de la Constitución Federal no reserve a la Nación o a los municipios, con las siguientes atribuciones específicas.
+
+a).- Dictar mandamientos para resolver en primera instancia los expedientes relativos a la restitución de tierras y aguas así como dotación complementaria y ampliación de ejidos.
+
+b).- Emitir opinión en los expedientes sobre creación de nuevos centros de población y en los de expropiación de tierras, bosques y aguas ejidales y comunales, y
+
+c).- Nombrar y remover libremente a los representantes del Gobierno a la Comisión Agraria Mixta.
+
+XXII.- Propiciar planificadamente y en estrecha colaboración con las autoridades federales, una distribución razonable de la población del Estado procurando en cada caso el desarrollo de las fuentes de riqueza, la concentración de la población cautiva hacia centros adecuados en que puedan proporcionarse servicios urbanos, comunicaciones y planeación familiar, sin afectar la libertad individual y la dignidad humana.
+
+XXIII.- Expedir títulos y grados profesionales o delegar esta facultad en las instituciones de enseñanza constituídas con arreglo a las leyes.
+
+XXIV.- Dirigir, controlar y concentrar el Registro Civil.
+
+XXV.- Crear, dirigir y controlar el Registro Público de la Propiedad conforme a las bases que establece para el efecto el Código Civil del Estado.
+
+XXVI.- Nombrar a los Magistrados del Tribunal Superior de Justicia, con las modalidades que esta Constitución establece.
+
+XXII (sic).- Con arreglo a las leyes reducir las penas privativas de libertad impuestas por los tribunales y ejecutar las medidas que se propongan para la readaptación social de los sentenciados.
+
+XXVIII.- Proporcionar al Poder Judicial y en general a los órganos que administran justicia, los auxilios que le soliciten para el cumplimiento cabal de sus funciones.
+
+XXIX.- Solicitar del Congreso o de la Diputación Permanente en su caso, la destitución por mala conducta de los Magistrados del Tribunal Superior de Justicia, teniendo en cuenta lo que establece el artículo 113 de esta Constitución.
+
+XXX.- Nombrar a los representantes que le conciernen en las Juntas Locales de Conciliación y Arbitraje.
+
+XXXI.- Nombrar, previo cumplimiento de las disposiciones correspondientes a los Notarios Públicos de número.
+
+XXXII.- Solicitar y obtener del Congreso o de la Diputación Permanente en su caso, autorización para salir del Territorio del Estado por más de treinta días.
+
+XXXIII.- Conceder o negar licencia con goce de sueldo a los funcionarios que las soliciten con causa debidamente justificada así como a los empleados que de él dependen, de acuerdo con las leyes respectivas.
+
+XXXIV.- Enviar al Congreso la iniciativa de la Ley Orgánica del Poder Ejecutivo.
+
+XXXV.- Las demás que se deriven de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO VI.
+
+DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 74.
+
+Para el despacho de los asuntos del Poder Ejecutivo habrá: Un Secretario General de Gobierno, un Oficial Mayor y los directores generales que determine la Ley Orgánica del mismo; los que serán nombrados y removidos libremente por el Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO VII.
+
+DEL MINISTERIO PUBLICO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 75.
+
+Para ser Secretario General de Gobierno se requiere:
+
+I.- Ser ciudadano guerrerense.
+
+II.- Ser mayor de treinta años de edad.
+
+III.- Estar en pleno ejercicio de sus derechos.
+
+IV.- Tener modo honesto de vivir.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 76.
+
+Todas las leyes, decretos y reglamentos del Gobernador del Estado deberán estar autorizados con la firma del Secretario General de Gobierno, sin cuyo requisito no surtirán sus efectos legales.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO I.
+
+DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 77.
+
+El Oficial Mayor sustituirá al Secretario General de Gobierno en sus ausencias temporales.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 78.
+
+Corresponde al Ministerio Público la persecución de todos los delitos del orden común y oficiales y por tanto, el ejercicio exclusivo de la acción penal. Tendrá bajo su mando inmediato a la Policía Judicial.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 79.
+
+El Ministerio Público estará a cargo de un Procurador General de Justicia, un Subprocurador y los Agentes que determine su Ley Orgánica. El Procurador será el Jefe de la Institución, el Consejero Jurídico del Poder Ejecutivo y representante del Estado en juicio, salvo en los casos a que se refiere el Artículo 105 de la Constitución Federal.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 80.
+
+Para ser Procurador General de Justicia se requieren los mismos requisitos que esta Constitución señala a los Magistrados del Tribunal Superior. La Ley Orgánica determinará los requisitos para ser Subprocurador y Agente del Ministerio Público.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 81.
+
+El Procurador y el Subprocurador serán nombrados y removidos por el Gobernador del Estado libremente. Los Agentes del Ministerio Público serán nombrados y removidos por el Gobernador a propuesta del Procurador.
+
+> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 82.
+
+Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y en los demás Tribunales inferiores que establece la Constitución para administrar justicia en nombre del Estado en todos los negocios de su competencia y con arreglo a las leyes.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 83.
+
+El Tribunal Superior de Justicia se integrará con los Magistrados numerarios y los supernumerarios que determine la Ley Orgánica del Poder Judicial y durarán en su cargo seis años.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 84.
+
+El Tribunal Superior de Justicia funcionará en pleno y en Salas o solamente en Pleno conforme a lo que disponga la Ley Orgánica respectiva. Será presidido por el Magistrado que elija la Corporación y el Presidente durará en su encargo un año pudiendo ser reelecto.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 85.
+
+Las faltas temporales de los Magistrados numerarios serán cubiertas por los supernumerarios; y no habiendo éstos, serán llamados los Jueces de Primera Instancia de la Capital del Estado o de los Distritos Judiciales que corresponda en orden de antigüedad. La misma regla se seguirá en los casos de impedimento del Magistrado para conocer de un negocio específico.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 86.
+
+Los Tribunales Inferiores son:
+
+I.- Los Juzgados de Primera Instancia.
+
+II.- Los Juzgados Menores; y
+
+III.- Los que con cualquier denominación se crearen en lo sucesivo.
+
+La Ley Orgánica del Poder Judicial determinará la competencia de cada Juzgado, el número de ellos en cada Distrito o cabecera municipal y sus respectivas adscripciones.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 87.
+
+Los Jueces de Primera Instancia serán nombrados por el Pleno del Tribunal Superior de Justicia, durarán en su cargo seis años y reunirán los requisitos que señale la Ley Orgánica.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 88.
+
+Los Jueces de Primera Instancia deberán satisfacer los mismos requisitos que los Magistrados del Tribunal Superior, excepto los de edad y tiempo de ejercicio de la profesión, bastando ser de veinticinco años y tener tres de práctica profesional.
+
+La Ley Orgánica respectiva determinará los requisitos que deben reunir los jueces menores y la forma de entrar en el desempeño de sus funciones.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO I.
+
+EL MUNICIPIO LIBRE.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 89.
+
+Los Magistrados y Jueces de Primera Instancia están impedidos para el ejercicio de su profesión excepto en causa propia, y no podrán desempeñar otro cargo, empleo o comisión oficiales que sean remunerados, salvo los de la docencia.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 90.
+
+Para ser Magistrado del Tribunal Superior de Justicia se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos.
+
+II.- No ser menor de treinta años de edad ni mayor de sesenta y cinco en la época de su nombramiento ni tener empleo, cargo o comisión de otro estado de la República o de la Federación.
+
+III.- Tener título profesional de licenciado en Derecho expedido por la autoridad o corporación legalmente facultada para ello y haber ejercido la profesión durante cinco años anteriores a la designación.
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 91.
+
+Son atribuciones del Tribunal Superior de Justicia funcionando en Pleno:
+
+I.- Conocer como tribunal de única instancia de las causas seguidas por delitos oficiales y comunes en contra de los diputados del Congreso, Gobernador del Estado, Magistrados, Secretario General de Gobierno, Procurador General de Justicia y Oficial Mayor.
+
+II.- Suspender de sus cargos a los Jueces de Primera Instancia y Menores contra quienes el Ministerio Público haya ejercitado acción penal por delitos oficiales y comunes. La suspensión de sus cargos se acordará una vez que el Magistrado que conozca de la consignación haga la declaración de que ha lugar a la formación de causa. La suspensión será requisito indispensable para la ejecución de la orden de aprehensión dictada en contra de dicho funcionario.
+
+III.- Dirimir y resolver las controversias que sobre competencias se susciten entre los Jueces del Estado.
+
+IV.- Nombrar a los Jueces de Primera Instancia y Menores y removerlos y trasladarlos a otro Distrito Judicial en los términos de la Ley Orgánica del Poder Judicial.
+
+V.- Nombrar y remover a los secretarios del Tribunal y resolver sobre sus licencias y renuncias.
+
+VI.- Nombrar y remover al personal administrativo de acuerdo con las disposiciones de la Ley de los Trabajadores al Servicio del Estado de Guerrero.
+
+VII.- Las demás que le señalen las leyes.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+## TITULO SEPTIMO.
+
+DEL PODER LEGISLATIVO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO I.
+
+DE LA INTEGRACION DEL PODER LEGISLATIVO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 92.
+
+Las atribuciones que le corresponden a las salas y al Presidente del Tribunal Superior serán fijadas por la Ley Orgánica del Poder Judicial.
+
+> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 93.
+
+De conformidad con lo establecido por el artículo 115 de la Constitución Federal, el Estado adoptará como base de su división territorial y de su organización política y administrativa al Municipio Libre.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO III.
+
+DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 94.
+
+El Municipio tiene personalidad jurídica propia y es titular de derechos y obligaciones de acuerdo con la fracción III del artículo 115 de la Constitución Política Federal.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 95.
+
+Conforme a lo dispuesto en el artículo anterior, corresponden a los municipios como personas morales, los derechos que se desprenden de la fracción VI del artículo 27 de la Constitución Federal y todos los demás que de esos mismos derechos se deriven.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 96.
+
+Cada municipio será administrado por un ayuntamiento que constituye el órgano de decisión, el cual estará encabezado por el Presidente Municipal, que es el órgano de ejecución y comunicación de las decisiones de aquél.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 97.
+
+Los ayuntamientos son cuerpos colegiados deliberantes y autónomos, que entrarán a realizar sus atribuciones por elección popular directa para un período de tres años. Por cada miembro propietario se elegirá un suplente y no podrán ser electos para el período inmediato incluyendo a los suplentes cuando hayan estado en ejercicio.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 98.
+
+Los municipios estarán administrados por ayuntamientos integrados en la siguiente forma:
+
+I.- Por un Presidente Municipal, un Síndico Procurador y un Regidor, cuando su población no exceda de quince mil habitantes.
+
+II.- Por un Presidente Municipal, un Síndico Procurador y tres Regidores cuando su población no exceda de sesenta mil habitantes; y
+
+III.- Por un Presidente Municipal, un Síndico Procurador y cinco Regidores, cuando su población exceda del número a que alude la fracción que antecede.
+
+Los ayuntamientos tendrán las atribuciones que les señale la Ley Orgánica del Municipio Libre.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 99.
+
+Para ser Presidente Municipal, Síndico o Regidor de un ayuntamiento se requiere:
+
+I.- Ser ciudadano guerrerense en ejercicio de sus derechos.
+
+II.- Ser originario del Municipio o tener, por lo menos, tres años de residencia anteriores a la fecha de la elección.
+
+III.- No tener empleo o cargo del Estado sesenta días antes de la fecha de su elección.
+
+IV.- No haber sido sentenciado ni estar procesado por delito que merezca pena corporal que exceda de un año de prisión; y
+
+V.- No ser ministro de algún culto religioso.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO UNICO.
+
+DE LOS BIENES DEL ESTADO Y MANEJO DE SUS INGRESOS Y EGRESOS.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 100.
+
+No pueden ser electos como miembros de los ayuntamientos: los militares en servicio activo, los individuos de las fuerzas de defensa social y los funcionarios del Estado o de la Federación, si no se separan del servicio activo los primeros o de sus cargos los últimos, noventa días antes de la elección. Tampoco pueden serlo en ninguna forma los ministros de algún culto religioso.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 101.
+
+Los Ayuntamientos administrarán libremente su hacienda, la cual se formará de las contribuciones que establezca oportunamente el Congreso del Estado y que en todo caso serán suficientes para atender a sus necesidades.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 102.
+
+Todos los miembros del ayuntamiento y el tesorero municipal serán responsables solidariamente de los hechos y actos ilícitos que se cometan en la administración de los fondos municipales, estando obligados a vigilar los actos relacionados con dicha administración.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 103.
+
+Las cuentas de los ayuntamientos serán glosados (sic) preventivamente por el regidor comisionado para el efecto y por el tesorero municipal durante los dos primeros meses del año. Esta glosa preventiva se remitirá a más tardar el día 15 de marzo a la Contaduría Mayor de Glosa de la Cámara de Diputados, la que comprobará la exactitud de la aplicación y uso de los fondos o, en su caso, determinará las responsabilidades a que haya lugar.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 104.
+
+Los ayuntamientos no podrán:
+
+I.- Fijar y cobrar contribuciones que no estén expresamente determinados en la Ley de Ingresos Municipal o decretados especialmente por la legislatura del Estado.
+
+II.- Enajenar bienes inmuebles de su propiedad sin la autorización previa del Congreso del Estado, el que para el efecto expedirá el decreto correspondiente.
+
+III.- Otorgar concesiones o celebrar contratos con particulares para la prestación de servicios municipales que excedan del límite del período para el que fueron electos, sin autorización del Congreso del Estado y con conocimiento del Gobernador.
+
+IV.- Celebrar contratos para la construcción de obras públicas cuyo costo exceda del presupuesto calculado durante el período de su gestión, sin llenar los requisitos de la fracción anterior.
+
+> <small>(ADICIONADO CON EL CAPITULO QUE LO INTEGRA, P.O. 16 DE JULIO DE 1975)</small>
+
+## TITULO OCTAVO.
+
+DEL PODER EJECUTIVO DEL ESTADO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO II.
+
+DE LOS REQUISITOS PARA SER GOBERNADOR.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 105.
+
+La Hacienda Pública del Estado se formará:
+
+I.- Con los bienes de dominio público del Estado.
+
+II- Con los bienes de dominio privado del Estado.
+
+III.- Con el producto de los ingresos que por concepto de contribuciones y otros determinen las leyes correspondientes.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 106.
+
+La Hacienda Pública del Estado será administrada por el Jefe del Ejecutivo en los términos que señalen las leyes respectivas.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 107.
+
+Ninguna cuenta perteneciente a caudales públicos dejará de concluirse y glosarse dentro del año siguiente a aquel en que corresponda. Para tal efecto la Dirección General de Hacienda del Estado enviará mensualmente a la Contaduría Mayor de Hacienda la documentación comprobatoria de los ingresos obtenidos y de los gastos ejercidos; así como la Cuenta Pública del Gobierno Estatal, correspondiente al ejercicio fiscal del año anterior. Este último documento deberá remitirse a más tardar el día 31 de mayo de cada año.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 108.
+
+Ningún funcionario o empleado que tenga que manejar fondos, ya sea del Estado o del municipio podrá tomar posesión de su cargo sin haber caucionado previamente su manejo. El Ejecutivo cuidará que esa fianza se haga del conocimiento del Congreso.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 109.
+
+La educación que proporcione el Estado será gratuita y lo puede hacer por sí mismo, por mecanismos de colaboración con la Federación o bien por conducto de los particulares con capacidad reconocida, mediante la autorización e incorporación al sistema estatal. En este último caso, las escuelas o instituciones de enseñanza incorporadas deberán cumplir estrictamente con los requisitos señalados por las leyes y en el acto mismo de incorporación, bajo pena de revocación unilateral por la autoridad otorgante.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 110.
+
+El sistema estatal de enseñanza ajustará sus planes y programas de estudio al sistema federal, estableciendo para el efecto la coordinación necesaria con las autoridades educativas federales. Tratándose de la educación superior, se procurará el desarrollo del Estado o la región, sin perjuicio de aprovechar los conocimientos, las experiencias o los medios de las instituciones federales o de otras entidades.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 111.
+
+Los diputados al Congreso del Estado, los magistrados del Tribunal Superior, el Secretario General de Gobierno, el Procurador General de Justicia y el Oficial Mayor de Gobierno son responsables de los delitos oficiales y comunes así como de las faltas u omisiones que cometan durante el tiempo en que desempeñen sus cargos.
+
+Para exigir dichas responsabilidades el procedimiento será:
+
+El Congreso del Estado recibirá la denuncia respectiva y, previo el dictamen de la Comisión Instructora declarará, oyendo al interesado, por los dos tercios del número total de sus miembros, si ha lugar o no a autorizar al Ministerio Público para que ejercite la acción penal ante el Tribunal Superior de Justicia. En caso afirmativo, el indiciado quedará, por ese sólo hecho, separado del cargo y sujeto a la acción de la justicia. En caso negativo, se suspenderá todo procedimiento en contra del interesado en tanto desempeña el cargo, suspendiéndose igualmente el término de prescripción de la acción penal.
+
+El Tribunal Superior de Justicia como instructor de la causa llenará todos los requisitos procesales que determinen las leyes respectivas.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 112.
+
+El Gobernador del Estado, durante el período de su encargo, sólo podrá ser acusado por delitos comunes graves; y para este efecto, se seguirá el procedimiento establecido en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 113.
+
+El Gobernador del Estado podrá pedir ante el Congreso la destitución, por mala conducta, de cualquiera de los Magistrados del Tribunal Superior de Justicia, pero antes de pedir la destitución oirá a éste, en lo privado, a efecto de poder apreciar en conciencia la justificación de la solicitud.
+
+En estos casos, el Congreso del Estado declarará, por mayoría de votos de la totalidad de sus miembros, si es justificada la petición. El funcionario acusado quedará privado desde luego de su cargo, independientemente de la responsabilidad legal en que hubiere incurrido, y se procederá a nueva designación.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 114.
+
+Los Jueces y los Agentes del Ministerio Público, son responsables de los delitos oficiales y comunes que cometan durante el desempeño de sus cargos; pero no podrán ser aprehendidos sin que hayan sido suspendidos en sus funciones por los superiores respectivos. Los miembros de los Ayuntamientos que cometan delitos oficiales no podrán ser aprehendidos sin ser suspendidos en sus funciones por el Ayuntamiento en pleno.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 115.
+
+La acción penal por delitos oficiales solamente podrá ejercerse durante el período en que el funcionario desempeñe su cargo o dentro de los dos años siguientes.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO UNICO.
+
+DE LOS DERECHOS CONSTITUCIONALES.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 116.
+
+Los juicios del orden civil en los que el funcionario sea parte o tercero, se sujetarán a las disposiciones de la legislación común, con la salvedad de que las autoridades judiciales que conozcan de ellos no podrán decretar el arraigo de aquel.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 117.
+
+La Administración Pública del Estado se constituirá por órganos jerárquicamente ordenados cuya competencia estará determinada por la Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 118.
+
+Las resoluciones que dicte la Administración Pública serán conforme a las normas que regulen el procedimiento administrativo y en contra de ellas podrán enderezarse, una vez agotada la vía administrativa, las acciones y recursos que señale la Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 119.
+
+Todos los conflictos de competencia administrativa de funcionarios o empleados para conocer de determinado asunto serán resueltos por el Secretario General de Gobierno, sin ulterior recurso.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO I.
+
+DE LOS LIMITES DEL TERRITORIO DEL ESTADO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 4o.
+
+Los límites del Estado son los que desde su fundación y hasta la fecha se han venido reconociendo con los Estados circunvecinos en la siguiente forma:
+
+Con Michoacán por dos Decretos: uno de la Federación publicado en el Diario Oficial del 14 de diciembre de 1906 y otro del Estado, marcado con el número 18 de 20 de noviembre de 1907, que confirma y ratifica el anterior. Con el Estado de México; por Decreto de 15 de mayo de 1849 expedido por el Congreso General (hoy Congreso de la Unión) el que precedió al Decreto de Erección del Estado, con el Estado de Morelos por el convenio celebrado entre ambas Entidades el 8 de octubre de 1946. Con Puebla: los límites están en el mapa oficial levantado en el año de 1845 por órdenes del Ejecutivo Federal; y con Oaxaca: por Laudo pronunciado por particular el 28 de abril de 1890, que acepta el dictamen de las comisiones de Límites de ambos Estados, con base al cual se expidió el Decreto de la Legislatura del Estado de 27 de noviembre del mismo año de 1890.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 120.
+
+Ningún ciudadano podrá desempeñar a la vez dos o más cargos de elección popular del Estado o de la Federación y el Estado; pero el elegido podrá optar por el que prefiera, entendiéndose renunciados los demás.
+
+Tampoco podrán reunirse en un solo individuo dos o más empleos del Estado, salvo que sean de los ramos de docencia o beneficencia públicas y su desempeño no resulte incompatible.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 121.
+
+Todos los funcionarios y empleados del Estado y de los municipios, antes de entrar al desempeño de sus respectivos cargos o empleos otorgarán ante el superior jerárquico, con las excepciones que señala esta Constitución, la protesta de cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de una y otra emanen.
+
+No se exigirá responsabilidad alguna derivada del incumplimiento de los deberes impuestos por el desempeño del cargo o empleo a quien no haya otorgado la protesta, pero sus actos no tendrán validez.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 122.
+
+Los empleados públicos de base solamente podrán ser destituidos por las causas previstas en la Ley correspondiente y mediante el procedimiento que la misma determine. La Ley creará un órgano jurisdiccional para la resolución de los conflictos individuales entre la administración y sus empleados.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 123.
+
+No podrá hacerse pago alguno que no esté comprendido en el Presupuesto de Egresos o determinado por ley posterior. Tampoco podrán hacerse descuentos de ningún género a los funcionarios y empleados del Estado o de los ayuntamientos sin su consentimiento, o así lo determine la ley o la autoridad judicial.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO II.
+
+DE LA DIVISION TERRITORIAL DEL ESTADO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 5o.
+
+Los Municipios integrantes del Estado de Guerrero son:
+
+1.- Acapulco de Juárez.
+
+2.- Ahuacuotzingo.
+
+3.- Ajuchitlán del Progreso.
+
+4.- Alcozauca de Guerrero.
+
+5.- Alpoyeca.
+
+6.- Apaxtla.
+
+7.- Arcelia.
+
+8.- Atenango del Río.
+
+9.- Atlamajalcingo del Monte.
+
+10.- Atlixtac.
+
+11.- Atoyac de Alvarez.
+
+12.- Ayutla de los Libres.
+
+13.- Azoyú.
+
+14.- Benito Juárez.
+
+15.- Buenavista de Cuéllar.
+
+16.- Coahuayutla de Guerrero.
+
+17.- Cocula.
+
+18.- Copala.
+
+19.- Copalillo.
+
+20.- Copanatoyac.
+
+21.- Coyuca de Benítez.
+
+22.- Coyuca de Catalán.
+
+23.- Cuajinicuilapa.
+
+24.- Cualac.
+
+25.- Cuautepec.
+
+26.- Cuetzala del Progreso.
+
+27.- Cutzamala de Pinzón.
+
+28.- Chilapa de Alvarez.
+
+29.- Chilpancingo de los Bravo.
+
+30.- Florencio Villarreal.
+
+31.- Gral. Canuto A. Neri.
+
+32.- Gral. Heliodoro Castillo.
+
+33.- Huamuxtitlán.
+
+34.- Huitzuco de los Figueroa.
+
+35.- Iguala de la Independencia.
+
+36.- Igualapa.
+
+37.- Ixcateopan de Cuauhtémoc.
+
+38.- José Azueta.
+
+39.- Juan R. Escudero.
+
+40.- Leonardo Bravo.
+
+41.- Malinaltepec.
+
+42.- Mártir de Cuilapa.
+
+43.- Metlatonoc.
+
+44.- Mochitlán.
+
+45.- Olinalá.
+
+46.- Ometepec.
+
+47.- Pedro Ascencio Alquisiras.
+
+48.- Petatlán.
+
+49.- Pilcaya.
+
+50.- Pungarabato.
+
+51.- Quechultenango.
+
+52.- San Luis Acatlán.
+
+53.- San Marcos.
+
+54.- San Miguel Totolapan.
+
+55.- Taxco de Alarcón.
+
+56.- Tecoanapa.
+
+57.- Tecpan de Galeana.
+
+58.- Teloloapan.
+
+59.- Tepecoacuilco de Trujano.
+
+60.- Tetipac.
+
+61.- Tixtla de Guerrero.
+
+62.- Tlacoapa.
+
+63.- Tlacoachistlahuaca.
+
+64.- Tlalchapa.
+
+65.- Tlalixtaquilla.
+
+66.- Tlapa de Comonfort.
+
+67.- Tlapehuala.
+
+68.- La Unión.
+
+69.- Xalpatláhuac.
+
+70.- Xochistlahuaca.
+
+71.- Xochihuehuetlán.
+
+72.- Zapotitlán Tablas.
+
+73.- Zirándaro.
+
+74.- Zitlala.
+
+75.- Zumpango del Río.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 6o.
+
+La Ley correspondiente fijará la extensión de límites de cada uno de los municipios del Estado.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 124.
+
+La responsabilidad de la Administración Pública y de sus funcionarios, empleados y agentes podrá exigirse por los particulares, por las causas y en la forma que determinen esta Constitución y las leyes correspondientes.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 1975)</small>
+
+## TITULO DECIMO QUINTO.
+
+DE LA REFORMA E INVIOLABILIDAD DE LA CONSTITUCION.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 125.
+
+La presente Constitución puede ser reformada o adicionada por el Congreso del Estado. Para que las reformas o adiciones lleguen a ser parte de la Constitución, deben llenarse los siguientes requisitos:
+
+I.- Presentar una iniciativa suscrita cuando menos por diputados o por el Gobernador.
+
+II.- Discutir y aprobar las reformas o adiciones o ambas, por las dos terceras partes de la totalidad de los miembros del Congreso.
+
+Si el Jefe del Ejecutivo veta las reformas o adiciones, éstas no podrán ser discutidas nuevamente hasta el siguiente período de sesiones del Congreso.
+
+Si el Congreso insistiere en sostener sus reformas o adiciones, éstas no volverán a discutirse sino hasta la siguiente Legislatura; y en caso de que ésta las aprobare de nueva cuenta, el Gobernador las promulgará sin ningún otro trámite.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 126.
+
+Esta Constitución no perderá su fuerza ni su vigor en ningún caso y por ningún motivo. Sus disposiciones son permanentes y sólo puede ser reformada o adicionada siguiendo los procedimientos y respetando los principios que la misma establece.
+
+### CAPITULO III.
+
+DE LOS DISTRITOS.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 7o.
+
+Para la integración del Poder Legislativo, el Territorio del Estado de Guerrero se divide en Distritos Electorales, cuyo número y cabecera establece la Ley Electoral.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 8o.
+
+El Estado de Guerrero se divide, para el ejercicio del Poder Judicial, en los Distritos con jurisdicción territorial y cabeceras que señala su Ley Orgánica.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 9o.
+
+La formación de los Distritos Administrativos será fijada por las Leyes respectivas.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO I.
+
+DE LOS HABITANTES DEL ESTADO Y SUS OBLIGACIONES.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO II.
+
+DE LOS VECINOS DEL ESTADO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+## TITULO NOVENO.
+
+DEL PODER JUDICIAL.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO II.
+
+DE LAS ATRIBUCIONES DEL PLENO Y DE LAS SALAS DEL TRIBUNAL SUPERIOR.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO III.
+
+DE LA CALIDAD DE GUERRERENSE.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO IV.
+
+DE LOS CIUDADANOS DEL ESTADO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO V.
+
+DE LAS PRERROGATIVAS Y OBLIGACIONES DE LOS CIUDADANOS DEL ESTADO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO VI.. DE LA PERDIDA Y SUSPENSION DE LOS DERECHOS
+
+DE LOS CIUDADANOS DEL ESTADO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+## TITULO DECIMO.
+
+DEL GOBIERNO DE LOS MUNICIPIOS DEL ESTADO.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+### CAPITULO II.
+
+DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+## TITULO DECIMO PRIMERO.
+
+DE LA HACIENDA PUBLICA DEL ESTADO Y SU ADMINISTRACION.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
+## TITULO DECIMO SEGUNDO.
+
+DE LA EDUCACION PUBLICA DEL ESTADO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+## TITULO DECIMO TERCERO.
+
+DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS DEL ESTADO.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+## TITULO DECIMO CUARTO.
+
+DE LA ADMINISTRACION PUBLICA.
+
+(ADICIONADO, P.O. 16 DE JULIO DE 1975))
+
+## TRANSITORIOS.
+
+###### Artículo 1°.
+
+Esta Constitución será publicada con la solemnidad debida, en todas las poblaciones del Estado y entrará desde luego en vigor.
+
+###### Artículo 2°.
+
+El Período Constitucional deberá contarse: para los Diputados, desde el 1°. de marzo del presente año; para Gobernador, del 1°. de abril del mismo año, y para los Magistrados del Tribunal Superior, del 1°. de mayo último.
+
+###### Artículo 3°.
+
+El Congreso, después de terminadas sus funciones de Constituyente, continuará en su carácter de Constitucional, el actual período de sesiones extraordinarias por 30 días más, para expedir las Leyes reglamentarias que juzgue de mayor urgencia.
+
+###### Artículo 4°.
+
+Todos los funcionarios y empleados del Estado, protestarán guardar y hacer guardar la presente Constitución.
+
+###### Artículo 5°.
+
+Los Magistrados del Tribunal Superior que fueren nombrados por el Gobierno Provisional, continuarán en sus funciones, hasta que se presenten los nombrados Constitucionalmente.
+
+###### Artículo 6°.
+
+Mientras el Congreso o la Diputación Permanente, no disponga la traslación de los Poderes Públicos a la Ciudad de Chilpancingo de los Bravo, continuará siendo Capital del Estado el Puerto de Acapulco.
+
+###### Artículo 7°.
+
+Queda derogada la Constitución del Estado de fecha 29 de noviembre de 1880, con todas sus adiciones y reformas.
+
+P. O. 13 DE DICIEMBRE DE 1950.
+
+UNICO:- Por haberse recibido la aprobación de los HH. Ayuntamientos del Estado de acuerdo con lo ordenado por el artículo 111 de la Constitución, estas reformas surtirán sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 1951.
+
+Artículo Primero. El Municipi o (sic) de Juan R. Escudero comprenderán los núcleos de población que se le asignen al hacerse la modificación correspondiente a la Ley Número 59 Orgánica de División Territorial del Estado.
+
+Artículo Segundo. La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE AGOSTO DE 1952.
 
 ###### Artículo 8°.
 
@@ -1477,19 +1957,25 @@ Este Decreto surtirá sus efectos desde su publicación en el Periódico Oficial
 
 P.O. 24 DE SEPTIEMBRE DE 1941.
 
-###### Artículo 1o.
+###### ARTICULO 1o.
 
-Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+En el Estado de Guerrero toda persona gozará de los derechos que otorga la Constitución Política de los Estados Unidos Mexicanos y de los señalados en la presente Constitución.
 
-###### Artículo 2o.
+El Poder Público del Estado garantiza a sus habitantes el goce de sus derechos.
 
-Se derogan todas las disposiciones anteriores que se opongan a este Decreto.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
-###### Artículo 3o.
+###### ARTICULO 2o.
 
-Por solo este año el segundo Período ordinario de Sesiones se iniciará el 1o. de octubre y terminará el 31 de diciembre.
+Es lema del Estado: "MI PATRIA ES PRIMERO".
 
-P.O. 31 DE DICIEMBRE DE 1941.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
+###### ARTICULO 3o.
+
+La Ley respectiva reglamentará el uso del Lema.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
 ###### Art. 1o.
 
@@ -1526,6 +2012,20 @@ Este Decreto entrará en vigor a partir de la fecha de su publicación en el Per
 Se derogan todas las Leyes anteriores en la parte que se opongan a la presente.
 
 P.O. 3 DE ENERO DE 1945.
+
+###### Artículo 1o.
+
+Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### Artículo 2o.
+
+Se derogan todas las disposiciones anteriores que se opongan a este Decreto.
+
+###### Artículo 3o.
+
+Por solo este año el segundo Período ordinario de Sesiones se iniciará el 1o. de octubre y terminará el 31 de diciembre.
+
+P.O. 31 DE DICIEMBRE DE 1941.
 
 ###### Art. 1o.
 
@@ -1688,3 +2188,7 @@ Se derogan los artículos de la Constitución Política Local a que se refiere e
 ###### ARTICULO SEGUNDO.
 
 Estas reformas y adiciones a la Constitución Política Local, entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JULIO DE 1975.
+
+UNICO:- Por haberse recibido la aprobación de los HH. Ayuntamientos del Estado de acuerdo con lo ordenado por el artículo 112 fracción III de la Constitución, estas reformas surtirán sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
