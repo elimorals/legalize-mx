@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1971-07-24"
+last_updated: "1971-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1971.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -428,6 +428,10 @@ c).- A falta de los anteriores el lugar en el que se hubiere realizado el hecho 
 III.- Si se trata de sucursales o agencias de negociaciones extranjeras, el lugar donde se establezcan; pero si varias dependen de una misma negociación, deberán señalar a una de ellas para que haga las veces de matriz y, de no hacerlo en un término de quince días a partir de la fecha en que presenten su aviso de iniciación de operaciones, lo hará la Tesorería General del Estado.
 
 IV.- Tratándose de personas físicas o morales, residentes en el extranjero, que realicen actividades gravadas en el Estado a través de representantes, se considerará como su domicilio el del representante.
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 1971)</small>
+
+V.- Las personas domiciliadas fuera del Estado que perciban ingresos cuya fuente se localice en el territorio de la Entidad o realicen actos u operaciones en el Estado o que surtan sus efectos dentro de él, están obligadas a pagar las contribuciones establecidas en este Código. Los sujetos residentes en la Entidad que con ellos contraten o intervengan en la relación jurídica o económica correspondiente, estarán obligados a retener el gravamen que se cause.
 
 73.- Estarán exentos de impuestos:
 
@@ -2849,7 +2853,9 @@ Si es a los sujetos pasivos o responsables solidarios a quienes corresponde fija
 
 334.- Los vencimientos que ocurran durante el procedimiento administrativo de ejecución, incluso recargos, gastos de ejecución y cualquiera otros, se harán efectivos juntamente con el crédito inicial, sin necesidad de emplazamiento ni de otras formalidades, salvo las necesarias en su caso, para garantizar el interés fiscal y la formulación de las liquidaciones respectivas.
 
-Por las diligencias de requerimiento y de embargo se causarán honorarios, a cargo del deudor; a razón del cinco por ciento sobre el monto del crédito principal, por cada una de dichas diligencias, pero en ningún caso podrá ser, en total, ni menores de cinco pesos ni mayores de cuatro mil pesos, aun cuando por la aplicación de dicha tasa sobre el monto del crédito para cuyo cobro se siga el procedimiento económico coactivo en el que dichos honorarios se causen, resulte una cantidad menor o mayor que las indicadas. El importe de los honorarios deberá ingresar a la caja de la oficina recaudadora correspondiente.
+Por las diligencias de requerimiento y de embargo se causarán honorarios, a cargo del deudor; a razón del cinco por ciento sobre el monto del crédito principal, por cada una de dichas diligencias, pero en ningún caso podrá ser, en total, ni menores de cinco pesos ni mayores de cuatro mil pesos, aun cuando por la aplicación de dicha tasa sobre el monto del crédito para cuyo cobro se siga el procedimiento económico coactivo en el que dichos honorarios se causen, resulte una cantidad menor o mayor que las indicadas.
+
+El importe de los honorarios deberá ingresar a la caja de la oficina recaudadora correspondiente.
 
 Un porcentaje de los ingresos que se obtengan por este concepto, corresponderá al ejecutor que practique las diligencias y la diferencia se distribuirá equitativamente entre el personal de base de las oficinas que intervengan en el procedimiento fiscal, conforme a las reglas y porcentajes que fije el Tesorero General del Estado.
 
@@ -3966,3 +3972,7 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir de la fech
 P.O. 24 DE JULIO DE 1971.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE AGOSTO DE 1971.
+
+ARTICULO TRANSITORIO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
