@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "1994-11-15"
+last_updated: "2000-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -89,7 +89,9 @@ La presente Ley reglamenta el derecho a la protección de la salud que toda pers
 
 El derecho a la protección de la Salud, tiene las siguientes finalidades:
 
-I. El bienestar físico y mental del hombre, para contribuir al ejercicio pleno de sus capacidades;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+
+I. El bienestar físico y mental del hombre y la mujer, para contribuir al ejercicio pleno de sus capacidades;
 
 II. La prolongación y el mejoramiento de la calidad de la vida humana;
 
@@ -429,7 +431,9 @@ I. La educación para la salud, la promoción del saneamiento básico y el mejor
 
 II. La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-III. La atención médica que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+
+III. La atención médica que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias y de personas en tránsito por la Entidad;
 
 IV. La atención materno-infantil;
 
@@ -443,11 +447,19 @@ VIII. La disponibilidad de medicamentos y otros insumos esenciales para la salud
 
 IX. La promoción del mejoramiento de la nutrición;
 
-X. La asistencia social a los grupos más vulnerables, y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+
+X. La asistencia social a los grupos más vulnerables;
 
 XI. La salud en el trabajo o laboral.
 
-XII. Las demás que establezca esta Ley o disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+
+XII.- La atención de los sujetos de violencia intrafamiliar y abandono; y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2000)</small>
+
+XIII.- Las demás que establezca esta Ley o disposiciones legales aplicables.
 
 ###### ARTICULO 30.
 
@@ -553,11 +565,11 @@ La Secretaría de Salud Pública del Estado, establecerá los procedimientos par
 
 Las autoridades sanitarias en el Estado y las propias instituciones de salud, establecerán sistemas de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como mecanismos para que presenten sus quejas, reclamaciones y sugerencias respecto a la prestación de los servicios de salud y en relación a la falta de probidad, en su caso, de los servidores públicos.
 
-> <small>(F. DE E., P.O. 25 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 48.
 
-Las personas o instituciones públicas o privadas que tengan conocimiento de accidentes o que alguna persona requiera de la prestación urgente de servicios de salud, cuidarán, por los medios a su alcance, que las mismas sean trasladadas a los establecimientos de salud más cercanos, en los que pueden recibir atención inmediata sin perjuicio de su posterior remisión a otras instituciones.
+Las personas o instituciones públicas o privadas que tengan conocimiento de accidentes o que alguna persona requiera de la prestación urgente de servicios de salud, cuidarán por los medios a su alcance, que las mismas sean trasladadas a los establecimientos de salud más cercanos, en los que puedan recibir atención inmediata sin perjuicio de su posterior remisión a otras instituciones.
 
 ###### ARTICULO 49.
 
@@ -585,9 +597,11 @@ VI. Información a las autoridades competentes de las irregularidades o deficien
 
 VII. Otras actividades que coadyuven a la protección de la salud.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 52.
 
-La Secretaría de Salud Pública del Estado y demás Instituciones de Salud Estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes, y de prevención de invalidez y rehabilitación de inválidos.
+La Secretaría de Salud y demás Instituciones de Salud, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, entre los que se encuentran los de prevención al maltrato infantil, violencia intrafamiliar, enfermedades y accidentes, discapacitados y rehabilitación de inválidos.
 
 ###### ARTICULO 53.
 
@@ -637,7 +651,9 @@ III. Acciones para controlar las enfermedades prevenibles por vacunación, los p
 
 Las autoridades sanitarias estatales, educativas y laborales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
 
-I. Los programas para padres destinados a promover la atención materno-infantil;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+
+I. Los programas para padres y madres destinados a promover la atención materno-infantil;
 
 II. Las actividades recreativas de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
@@ -645,7 +661,13 @@ III. La vigilancia de actividades ocupacionales que puedan poner en peligro la s
 
 IV. Acciones relacionadas con educación básica, alfabetización de adultos, accesos al agua potable y medios sanitarios de eliminación de excreta, y
 
-V.- Las demás que coadyuven a la salud materno-infantil; en particular el apoyo institucional para la ampliación del servicio de guarderías o centros de desarrollo infantil
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+
+V. Los programas de prevención al maltrato infantil y violencia intrafamiliar; y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2000)</small>
+
+VI. Las demás que coadyuven a la salud materno-infantil; en particular el apoyo institucional para la ampliación del servicio de guarderías o centros de desarrollo infantil.
 
 ###### ARTICULO 61.
 
@@ -667,13 +689,17 @@ Quienes practiquen esterilización sin la voluntad del paciente o ejerzan presi�
 
 Los servicios de planificación familiar comprenden:
 
-I. La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar y educación sexual, con base en los contenidos y estrategias que establezca el consejo nacional de población.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+
+I. La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar y educación sexual desde la perspectiva de género, con base en los contenidos y estrategias que establezca el Consejo Nacional de Población.
 
 II. La atención y vigilancia de los aceptantes y usuarios de servicios de planificación familiar.
 
 III. La asesoría para la prestación de servicios de planificación familiar a cargo de los sectores público, social y privado y la supervisión y evaluación en su ejecución, de acuerdo con las políticas establecidas por los Consejos Nacional, Estatal y Municipales de Población.
 
-IV. El apoyo y fomento de la investigación en materia de anticoncepción, infertilidad humana, planificación familiar y biología de la reproducción humana.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+
+IV. El apoyo y fomento de la investigación respetando la perspectiva de género en materia de planificación familiar, infertilidad humana y biología de la reproducción humana.
 
 V. La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planificación familiar, y
 
@@ -871,19 +897,25 @@ Quien realice investigación en seres humanos en contravención a lo dispuesto e
 
 En cualquier tratamiento de una persona enferma, el médico podrá autorizar nuevos recursos terapéuticos o de diagnóstico, cuando exista posibilidad fundada de salvar la vida, restablecer la salud o disminuir el sufrimiento del paciente, siempre que cuente con el consentimiento por escrito de éste, de su representante legal, en su caso, o del familiar más cercano en vínculo, y sin perjuicio de cumplir con los demás requisitos que determine esta Ley y otras disposiciones aplicables.
 
-## TITULO SEXTO. CONTROL SANITARIO DE LA DISPOSICION DE ORGANOS, TEJIDOS Y CADAVERES DE SERES HUMANOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MARZO DE 2000)</small>
+
+## TITULO SEXTO. CONTROL SANITARIO DE LA DISPOSICION DE ORGANOS, TEJIDOS, CELULAS Y CADAVERES DE SERES HUMANOS
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 90.
 
-Compete a la Secretaría de Salud del Estado, ejercer el control sanitario de la disposición de órganos, tejidos y sus componentes, y cadáveres de seres humanos. Al efecto la Secretaría tendrá a su cargo los Registro (sic) Estatales de transplantes y de transfusiones. Las disposición de cadáveres conocidos, se regirán por lo preceptuado en esta Ley.
+Compete a la Secretaría de Salud del Estado, ejercer el control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres de seres humanos. Al efecto, la Secretaría de Salud tendrá a su cargo el Registro Estatal de Transplantes y de Transfusiones Sanguíneas, la disposición de cadáveres conocidos se regirán por lo preceptuado en esta Ley.
 
 ###### ARTICULO 91.
 
 Para efectos de éste título, se entiende por:
 
-I. Disposiciones de órganos, tejidos y cadáveres de seres humanos: el conjunto de actividades relativas a la obtención, conservación, utilización, preparación, suministro y destino final de órganos, tejidos y sus componentes y derivados, productos y cadáveres de seres humanos, incluyendo los de preembriones, embriones y fetos, con fines terapéuticos, de docencia o investigación;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+
+I. Disposición de órganos, tejidos incluyendo sus componentes, células y cadáveres de seres humanos: El conjunto de actividades relativas a la obtención, análisis, conservación, utilización, preparación, suministro y destino final de órganos, tejidos y sus componentes, células y derivados, productos y cadáveres de seres humanos, incluyendo los de preembriones, embriones y fetos, con fines terapéuticos, de docencia o investigación;
 
 II. Cadáver: El cuerpo humano en el que se haya comprobado la pérdida de la vida;
 
@@ -901,7 +933,9 @@ VIII. Organo: Entidad morfológica compuesta por la agrupación de tejidos difer
 
 IX. Producto: Todo tejido o substancia excretada o expelida por el cuerpo humano como resultantes de procesos fisiológicos normales. Serán considerados productos, para efectos de este título, la placenta y los anexos de la piel; y
 
-X. Destino final: La conservación permanente, inhumación o desintegración en condiciones sanitarias permitidas por la Ley, de órganos, tejidos y sus derivados productos y cadáveres de seres humanos incluyendo los de preembriones, embriones y fetos.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+
+X. Destino final: La conservación permanente, inhumación, desintegración e inactivación de órganos, tejidos, células y derivados, productos y cadáveres de seres humanos incluyendo los de preembriones, embriones y fetos, en condiciones sanitarias permitidas por esta Ley y demás disposiciones aplicables.
 
 ###### ARTICULO 92.
 
@@ -949,31 +983,51 @@ Si antes de ese término se presentara un paro cardiaco irreversible, se determi
 
 La certificación de muerte respectiva será expedida por dos profesionales distintos de los que integren el cuerpo técnico que intervendrá en el trasplante.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 96.
 
-Los establecimientos en los cuales se realicen actos de disposición de órganos, tejidos y sus componentes y cadáveres de seres humanos, así como los profesionales responsables de dichos actos, deberán contar con la autorización de la Secretaría de Salud, en los términos de esta Ley y demás disposiciones generales aplicables.
+Los establecimientos en los cuales se realicen actos de disposición de órganos, tejidos incluyendo sus componentes y células requieren de autorización sanitaria.
+
+En caso de establecimientos en los que se realicen actos relacionados con cadáveres de seres humanos, se deberá presentar el aviso correspondiente a los Servicios de Salud del Estado, en los términos de esta Ley y demás disposiciones aplicables.
+
+Los profesionales responsables de los actos a que se refieren los párrafos anteriores también deberán presentar aviso.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 97.
 
-Se considerará disposición ilícita de órganos, tejidos y cadáveres de seres humanos, aquélla que se realiza en contra de la Ley y el orden público.
+Se considerará disposición ilícita de órganos, tejidos, células y cadáveres de seres humanos, a aquélla que se realiza en contra de la Ley y el orden público.
 
-### CAPITULO II. ORGANOS Y TEJIDOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MARZO DE 2000)</small>
+
+### CAPITULO II. ORGANOS, TEJIDOS Y CELULAS
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 98.
 
-Los trasplantes de órganos tejidos y sus componentes en seres humanos vivos, podrán llevarse a cabo con fines terapéuticos, solamente cuando hayan sido satisfactorios los resultados de las investigaciones realizadas al efecto, representen un riesgo aceptable para la salud y la vida del disponente originario y del receptor, y siempre que existan justificantes de orden terapéutico.
+Los transplantes de órganos, tejidos y células en seres humanos vivos, podrán llevarse a cabo con fines terapéuticos, solamente cuando hayan sido satisfactorios los resultados de las investigaciones realizadas al efecto, y no representen un riesgo mayor para la salud y la vida del disponente originario y del receptor, y siempre que existan justificantes de orden terapéutico.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 99.
 
-Salvo tratándose de la sangre y sus componentes, la obtención de órganos y tejidos y sus componentes de seres humanos con fines terapéuticos, se hará preferentemente de cadáveres.
+Salvo tratándose de la sangre, componentes sanguíneos y células progenitoras hematopoyéticas, la obtención de órganos o tejidos y sus componentes de seres humanos, con fines terapéuticos, se hará preferentemente en cadáveres.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 100.
 
-La selección del disponente originario y del receptor de órganos o tejidos para transplante o transfusión, se hará siempre por prescripción y bajo control médico, en los términos que fije la Secretaría de Salud.
+La selección del disponente originario y del receptor de órganos, tejidos incluyendo sus componentes y células, para transplante o transfusión, se hará siempre por prescripción y bajo control médico, en los términos que fije la Secretaría de Salud del Estado.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 101.
 
-Para efectuar la toma de órganos y tejidos se requiere el consentimiento expreso y por escrito del disponente originario, libre de coacción física o moral, otorgado en documento expedido ante dos testigos idóneos, y con las demás formalidades que al efecto señalen las disposiciones aplicables. En el caso de la sangre, no será necesario que el consentimiento sea manifestado por escrito.
+Para efectuar la toma de órganos y tejidos se requiere el consentimiento expreso y por escrito del disponente originario, libre de coacción física o moral, otorgado ante Notario o en documento expedido ante dos testigos idóneos y con las demás formalidades que al efecto señalen las disposiciones aplicables.
+
+Tratándose de sangre, componentes sanguíneos y células progenitoras hematopoyéticas, bastará el simple consentimiento por escrito del donante.
 
 El disponente originario podrá revocar el consentimiento en cualquier momento y sin responsabilidad de su parte.
 
@@ -1001,21 +1055,29 @@ Cuando el consentimiento provenga de una mujer embarazada, sólo será admisible
 
 Las personas privadas de su libertad podrán otorgar su consentimiento para la utilización de sus órganos y tejidos con fines terapéuticos, solamente cuando el receptor sea cónyuge, concubino, concubina o familiar del disponente originario de que se trate.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 106.
 
-Los establecimientos de salud, previa autorización de la Secretaría de Salud Pública del Estado, podrán instalar y mantener para fines terapéuticos: Bancos de órganos, tejidos y sus componentes, los que serán utilizados bajo la responsabilidad técnica de la dirección del establecimiento de que se trate y de conformidad con las disposiciones aplicables.
+Los establecimientos de Salud, previa autorización de la Secretaría de Salud del Estado, podrán instalar y mantener para fines terapéuticos: Bancos de órganos, tejidos incluyendo sus componentes y de células, los que serán utilizados bajo la responsabilidad técnica de la dirección del establecimiento de que se trate y de conformidad con las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 107.
 
-La extracción de la sangre humana con fines terapéuticos, su análisis, fraccionamiento de sus diferentes componentes, conservación y aplicación, estarán a cargo de bancos de sangre y servicios de transfusión que se instalarán y funcionarán de acuerdo con las disposiciones aplicables y previa autorización de la Secretaria de Salud Pública del Estado. La sangre será considerada como tejido.
+La disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas con fines terapéuticos estará a cargo de Bancos de sangre y servicios de transfusión, que se instalarán y funcionarán de acuerdo con las disposiciones aplicables y previa autorización de la Secretaría de Salud del Estado. La sangre será considerada como tejido.
 
 ###### ARTICULO 108.
 
 La Secretaría de Salud otorgará la autorización a que se refiere el artículo anterior, a los establecimientos que cuentan con el personal técnico y el equipo e instrumental necesario para la obtención, análisis, preservación sanitaria y suministro de la sangre y sus componentes y derivados con fines terapéuticos, y que tengan como responsable a un profesional médico capacitado en la materia.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 109.
 
-La sangre humana solo podrá obtenerse de voluntarios que la proporcionen gratuitamente y en ningún caso podrá ser objeto de actos de comercio. Se deberá preferir la transfusión de sangre autóloga cuando sea médicamente posible.
+La sangre humana, componentes sanguíneos y células progenitoras hematopoyéticas, sólo podrán obtenerse de voluntarios que los proporcionen gratuitamente y en ningún caso podrán ser objeto de actos de comercio.
+
+Se deberá preferir la transfusión de sangre autóloga cuando sea médicamente posible.
 
 ###### ARTICULO 110.
 
@@ -1183,9 +1245,17 @@ I. Desarrollar investigación permanente y sistemática de los riesgos y daños 
 
 II. Vigilar y certificar la calidad del agua para uso y consumo humano.
 
-III. Promover y apoyar el saneamiento básico, y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
 
-IV. En general, ejercer actividades similares a las anteriores ante situaciones que causen riesgos o daños a la salud de las personas.
+III. Promover y apoyar el saneamiento básico y vigilar la seguridad radiológica para el uso y aprovechamiento de las fuentes de radiación para uso médico, sin perjuicio de la intervención que corresponda a otras autoridades competentes;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+
+IV. Disponer y verificar que se cuente con información toxicológica actualizada, en la que se establezcan las medidas de respuesta al impacto en la salud originado por el uso de substancias tóxicas o peligrosas; y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2000)</small>
+
+V. En general, ejercer actividades similares a las anteriores ante situaciones que causen riesgo o daños a la salud de las personas.
 
 ###### ARTICULO 136.
 
@@ -1277,13 +1347,17 @@ V. Notificación obligatoria inmediata a la autoridad sanitaria más cercana de 
 
 Las personas que ejerzan la medicina o que realicen actividades afines, están obligadas a dar aviso a las autoridades sanitarias de los casos de enfermedades transmisibles, posteriormente a su diagnóstico o sospecha diagnóstica.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 145.
 
-Están obligados a dar aviso, en los términos del artículo 145 de esta ley, los jefes o encargados de laboratorios, los directores de unidades médicas, escuelas, fábricas, talleres, asilos, los jefes de oficina, establecimientos comerciales o de cualquier otra índole, y en general toda persona que por circunstancias ordinarias o accidentales, tenga conocimiento de alguno de los casos de enfermedades a que se refiere esta Ley.
+Están obligados a dar aviso, en los términos del artículo 143 de esta Ley, los jefes o encargados de laboratorios, los directores de unidades médicas, escuelas, fábricas, talleres, asilos, los jefes de oficina, establecimientos comerciales o de cualquier otra índole, y en general toda persona que por circunstancias ordinarias o accidentales, tenga conocimiento de alguno de los casos de enfermedades a que se refiere esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 146.
 
-Las medidas que se requieren para la prevención y el control de las enfermedades que enumera el artículo 144 de esta Ley, deberán ser observadas por los particulares, el ejercicio de esta acción comprenderá una o más de las siguientes medidas, según el caso de que se trate:
+Las medidas que se requieren para la prevención y el control de las enfermedades que enumera el artículo 142 de esta Ley, deberán ser observadas por los particulares, el ejercicio de esta acción comprenderá una o más de las siguientes medidas, según el caso de que se trate:
 
 I. La confirmación de la enfermedad por los medios clínicos disponibles;
 
@@ -1403,15 +1477,21 @@ Son actividades básicas de asistencia social:
 
 I. La atención a personas que, por sus carencias socioeconómicas o por problemas de invalidez, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-II. La atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo e inválidos sin recursos;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+
+II. La atención en establecimientos especializados a personas sujetas a maltrato, en estado de abandono, desamparo y sin recursos;
 
 III. La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud;
 
 IV. El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
 
-V. La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, ancianos e inválidos sin recursos;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
 
-VI. La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
+V. La prestación de servicios de asistencia jurídica y orientación social especialmente a menores, ancianos, discapacitados sin recursos y en general a cualquier otra persona en estado de necesidad;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+
+VI. La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social desde una perspectiva de género;
 
 VII. La promoción de la participación consciente y organizada de la población con carencias en las acciones de promoción, asistencia y desarrollo social que se lleven a cabo en su propio beneficio;
 
@@ -1425,13 +1505,17 @@ Para fomentar el desarrollo de programas públicos de asistencia social, el Gobi
 
 Asimismo, dentro del presupuesto aporbado (sic) para tal efecto, procurará destinar los apoyos necesarios a los programas de asistencia social, públicos y privados para fomentar su aplicación.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 164.
 
-Los menores en estado de desprotección social, tienen derecho a recibir los servicios asistenciales que necesiten en cualquier establecimiento público dependiente del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+Los menores, ancianos y mujeres en estado de desamparo y desprotección social tienen derecho a recibir los servicios asistenciales que necesiten en cualquier establecimiento público dependiente del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 165.
 
-Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata a menores y ancianos sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental. Asimismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psicosomático de los individuos.
+Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata a mujeres, menores y ancianos sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental. Asimismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psicosomático y sexual de las personas.
 
 En estos casos, las Instituciones de salud del Estado, podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores y ancianos, sin perjuicio de dar intervención a las autoridades competentes.
 
@@ -1577,17 +1661,37 @@ Las Autoridades Sanitarias del Estado a través de la Secretaría de Salud Públ
 
 Los establecimientos que señala el artículo 4º apartado B de ésta Ley, no requerirán de autorización sanitaria, debiéndose ajustar al control y verificación sanitarios, así como a los requisitos sanitarios establecidos en las disposiciones reglamentarias y Norma Oficial Mexicana que en materia de salubridad local se expidan.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 186.
 
-Los establecimientos a que se refiere este título que no requieran para su funcionamiento de autorización sanitaria, deberán dar aviso por escrito a la Secretaría de Salud Pública del Estado, 30 días antes del inicio de operaciones, dicho aviso deberá contener los siguientes datos:
+Los establecimientos a que se refiere este Título que no requieran su funcionamiento de autorización sanitaria, deberán dar aviso por escrito a la Secretaría de Salud del Estado, 30 días antes del inicio de operaciones, dicho aviso deberá contener los siguientes datos:
 
 I. Nombre y domicilio de la persona física o moral propietario del establecimiento, y
 
 II. Domicilio del establecimiento donde se realiza el proceso y fecha de inicio de operaciones.
 
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2000)</small>
+
+III. Procesos utilizados y línea o líneas de productos;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2000)</small>
+
+IV. Declaración, bajo protesta de decir verdad, de que se cumplen los requisitos y las disposiciones aplicables al establecimiento;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2000)</small>
+
+V. Clave de la actividad del establecimiento; y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2000)</small>
+
+VI. En caso de requerir responsable sanitario, número de Cédula Profesional.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 187.
 
-Todo cambio de propietario de un establecimiento de razón social, denominación o cesión de derechos de productos, deberá ser comunicado a la Autoridad Sanitaria del Estado en un plazo no mayor de 30 días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de la Norma Oficial Mexicana que al efecto se expida.
+Todo cambio de propietario de un establecimiento, de razón social o denominación, de domicilio, cesión de derechos de productos, la fabricación de nuevas líneas de productos o, en su caso, la suspensión de actividades, trabajos o servicios, deberá ser comunicado a la Autoridad Sanitaria competente en un plazo no mayor de 30 días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las disposiciones que al efecto se emitan.
 
 ###### ARTICULO 188.
 
@@ -2003,7 +2107,9 @@ Las Autoridades Sanitarias mantendrán campañas permanentes de orientación a l
 
 La autorización sanitaria es el acto administrativo mediante el cual la Autoridad Sanitaria del Estado, permite a una persona pública o privada la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine ésta Ley y demás disposiciones generales aplicables.
 
-Las autorizaciones sanitarias, tendrán el carácter de licencias o permisos.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
+
+Las autorizaciones sanitarias, tendrán el carácter de licencias, permisos o tarjetas de control sanitario.
 
 ###### ARTICULO 261.
 
@@ -2025,13 +2131,33 @@ En el caso de las autorizaciones sanitarias, la solicitud de revalidación deber
 
 Cuando cambien de ubicación los establecimientos, requerirán de nueva autorización sanitaria.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 264.
 
-Los establecimientos que presten servicios de asistencia social, no requerirán para su funcionamiento de autorización sanitaria, y serán sujetos del control y vigilancia sanitaria, así como de los requisitos que establezcan las disposiciones reglamentarias y la Norma Oficial Mexicana que se expida.
+Requieren de Licencia Sanitaria los establecimientos a que se refieren los artículos 96, 106 y 107 de esta Ley; cuando cambien de ubicación, requerirán de nueva Licencia Sanitaria.
 
 ###### ARTICULO 265.
 
 Los obligados a tener autorización sanitaria deberán exhibirla en lugar visible del establecimiento respectivo.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2000)</small>
+
+ARTICULO 265 BIS.- Requieren de permiso:
+
+I. Los responsables de la operación y funcionamiento de fuentes de radiación de uso médico, sus auxiliares técnicos y asesores especializados en seguridad radiológica, sin perjuicio de los requisitos que exijan otras autoridades competentes;
+
+II. La posesión, comercio, importación, distribución, transporte y utilización de fuentes de radiación y materiales radioactivos de uso médico, así como la eliminación, desmantelamiento de los mismos y las disposiciones de desechos;
+
+III. Los libros de control de estupefacientes o substancias psicotrópicas así como los recetarios destinados a la prescripción de estupefacientes;
+
+IV. La internación de cadáveres de seres humanos en el territorio estatal, su traslado de esta entidad federativa a otra o al extranjero, y el embalsamamiento (sic); y
+
+V. La internación en el territorio estatal o la salida de él, de órganos y tejidos de seres humanos, incluyendo la sangre, componentes sanguíneos, células progenitoras hematopoyéticas y hemoderivados.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2000)</small>
+
+ARTICULO 265 TER.- La Autoridad de Regulación Sanitaria podrá requerir tarjeta de control sanitario a las personas que realicen actividades mediante las cuales se pueda propagar alguna enfermedad transmisible, en los casos y bajo las condiciones que establezcan las disposiciones aplicables.
 
 ###### ARTICULO 266.
 
@@ -2057,23 +2183,47 @@ IV. Por incumplimiento grave a las disposiciones de esta Ley, sus reglamentos y 
 
 V. Por reiterada renuencia a acatar las ordenes que dicte la Autoridad Sanitaria, en los términos de esta Ley y demás disposiciones generales aplicables;
 
-VI. Cuando resulten falsos los datos o documentos proporcionados por el interesado, que hubieren servido de base a la Autoridad Sanitaria, para otorgar la autorización;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
 
-VII. Cuando el interesado no se ajuste a los términos, condiciones y requisitos en que se le haya otorgado la autorización o haga uso indebido de ésta;
+VI. Porque el producto objeto de la autorización no se ajuste o deje de reunir las especificaciones o requisitos que fijen esta Ley, las Normas Oficiales Mexicanas y demás disposiciones generales aplicables;
 
-VIII. Cuando lo solicite el interesado;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
 
-IX. Cuando los establecimientos o personas dejen de reunir las condiciones o requisitos bajo los cuales se hayan otorgado las autorizaciones, y
+VII. Cuando resulten falsos los datos o documentos proporcionados por el interesado que hubieren servido de base a la Autoridad Sanitaria, para otorgar la autorización;
 
-X. En los demás casos que conforme a ésta Ley y demás disposiciones legales aplicables lo determine la Autoridad Sanitaria del Estado.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+
+VIII. Cuando resulten falsos los dictámenes proporcionados por terceros autorizados;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+
+IX. Cuando los productos ya no posean los atributos o características conforme a los cuales fueron autorizados, o pierdan sus propiedades preventivas, terapéuticas o rehabilitatorias;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+
+X. Cuando el interesado no se ajuste a los términos, condiciones y requisitos en que se le haya otorgado la autorización o haga uso indebido de ésta;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2000)</small>
+
+XI. Cuando las personas, objetos o productos dejen de reunir las condiciones o requisitos bajo los cuales se hayan otorgado las autorizaciones;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2000)</small>
+
+XII. Cuando lo solicite el interesado; y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2000)</small>
+
+XIII. En los demás casos que determine la Autoridad Sanitaria del Estado, en términos de Ley.
 
 ###### ARTICULO 269.
 
 Cuando la revocación de una autorización se funde en los riesgos o daños que pueda causar o cause un servicio, la Autoridad Sanitaria dará conocimiento de tales revocaciones a las dependencias y entidades públicas que tengan atribuciones de orientación al consumidor.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 270.
 
-En los casos a que se refiere el artículo 268 de esta Ley, con excepción del previsto en la fracción VIII, la Autoridad Sanitaria citará al interesado a una audiencia para que éste ofrezca pruebas y alegue lo que a su derecho convenga.
+En los casos a que se refiere el artículo 268 de esta Ley, con excepción del previsto en la fracción X, la Autoridad Sanitaria citará al interesado a una Audiencia para que éste ofrezca pruebas y alegue lo que a su derecho convenga.
 
 En el citatorio, que se entregará personalmente al interesado, se le hará saber la causa que motive el procedimiento, el lugar, día y hora de celebración de la audiencia, el derecho que tiene para ofrecer pruebas y alegar lo que a su interés convenga, así como el apercibimiento de que si no comparece sin justa causa, la resolución se dictará tomando en cuenta sólo las constancias del expediente.
 
@@ -2155,6 +2305,20 @@ El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones q
 
 La vigilancia sanitaria se realizará mediante visitas de verificación a cargo del personal expresamente autorizado por la autoridad sanitaria estatal competente, la cual deberá realizar las respectivas diligencia (sic) de conformidad con las prescripciones de ésta Ley y demás disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2000)</small>
+
+ARTICULO 284 BIS.- Cuando la Autoridad Sanitaria detecte alguna publicidad que no reúna los requisitos exigidos por esta Ley y demás disposiciones generales aplicables en materia de Salud, elaborará un informe detallado donde se exprese lo siguiente:
+
+I. Lugar, fecha y hora de la verificación;
+
+II. El medio de comunicación social que se haya verificado;
+
+III. El texto de la publicidad anómala de ser material escrito o bien su descripción, en cualquier otro caso; y
+
+IV. Las irregularidades sanitarias detectadas y las violaciones a esta Ley y demás disposiciones generales aplicables en materia de Salud, en que se hubiere incurrido.
+
+En el supuesto de que el medio de comunicación social verificado sea la prensa u otra publicación, el informe de verificación deberá integrarse invariablemente con una copia de la parte relativa que contenga la publicidad anómala, donde se aprecia, además, del texto o mensaje publicitario, la denominación del periódico o publicación y su fecha.
+
 ###### ARTICULO 285.
 
 Las Autoridades Sanitarias competentes en el Estado podrán encomendar a sus verificadores, además, actividades de orientación, educativas y aplicación, en su caso, de las medidas de seguridad a que se refiere el artículo 294 de ésta Ley.
@@ -2199,21 +2363,33 @@ I. Se observarán las formalidades y requisitos exigidos para las visitas de ver
 
 II. La toma de muestras podrá realizarse en cualquiera de las etapas del proceso, pero deberán tomarse del mismo lote, producción o recipiente, procediéndose a identificar las muestras en envases que puedan ser cerrados y sellados.
 
-III. Se obtendrán tres muestras del producto. Una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular, otra muestra podrá quedar en poder de la misma persona a disposición de la Autoridad Sanitaria del Estado y tendrá el carácter de muestra testigo; la última será enviada por la Autoridad Sanitaria competente al laboratorio autorizado y habilitado por ésta, para su análisis oficial;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
 
-IV. El resultado del análisis oficial se notificará en forma personal o por correo certificado con acuse de recibo al interesado o titular de la autorización sanitaria de que se trate, dentro de los 30 días hábiles siguientes a la fecha de la toma de muestras;
+III. Se obtendrán tres muestras del producto. Una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular, otra muestra quedará en poder de la misma persona bajo su responsabilidad y a disposición de la Autoridad Sanitaria y tendrá el carácter de muestra testigo; la última será enviada por la Autoridad Sanitaria al laboratorio autorizado y habilitado por ésta, para su análisis oficial;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+
+IV. El resultado del análisis oficial se notificará al interesado o titular de la autorización sanitaria de que se trate, en forma personal o por correo certificado con acuse de recibo, telefax, o por cualquier otro medio por el que se pueda comprobar fehacientemente la recepción de los mismos, dentro de los treinta días hábiles siguientes a la fecha de la toma de muestras;
 
 V. En caso de desacuerdo con el resultado que se haya notificado, el interesado lo podrá impugnar dentro de un plazo de 15 días hábiles a partir de la notificación del análisis oficial. Transcurrido este plazo sin que se haya impugnado el resultado del análisis oficial, este quedará firme y la Autoridad Sanitaria del Estado procederá conforme a la fracción VII de éste artículo, según corresponda;
 
 VI. Con la impugnación a que se refiere la fracción anterior, el interesado deberá acompañar el original del análisis particular que se hubiere practicado a la muestra que haya sido dejada en poder de la persona con quien se entendió la diligencia de muestreo, así como, en su caso, la muestra testigo. Sin el cumplimiento de este requisito no se dará trámite a la impugnación y el resultado del análisis oficial quedará firme;
 
-VII. La impugnación presentada en términos de las fracciones anteriores dará lugar a que la Autoridad Sanitaria del Estado analice la muestra testigo en un laboratorio que la misma señale en presencia de las partes interesadas; en el caso de insumos médicos el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de la regulación sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos; y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
 
-VIII. El resultado del análisis de la muestra testigo se notificará en forma personal o por correo certificado con acuse de recibo al interesado o titular de la autorización sanitaria de que se trate, y en caso de que el producto reúna los requisitos y especificaciones requeridos, la Autoridad Sanitaria del Estado procederá a otorgar la autorización que se haya solicitado, o a ordenar el levantamiento de la medida de seguridad que se hubiere ejecutado, según corresponda.
+VII. La impugnación presentada en los términos de las fracciones anteriores dará lugar a que el interesado, a su cuenta y cargo, solicite a la Autoridad Sanitaria, el análisis de la muestra testigo en un laboratorio que la misma señale; en el caso de insumos médicos el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de la regulación sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos; y
 
-Si el resultado a que se refiere la fracción anterior comprueba que el producto no satisface los requisitos y especificaciones sanitarios, la Autoridad Sanitaria del Estado procederá a dictar y ejecutar las medidas de seguridad sanitarias, para establecer las sanciones que correspondan y a negar o revocar, en su caso la autorización de que se trate.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 2000)</small>
 
-Si la diligencia se practica en un establecimiento que no sea titular del registro del producto objeto de la muestra, cuando proceda, se correrá traslado al titular, mediante notificación personal o por correo certificado con acuse de recibo, de una copia del acta de verificación que consigne el muestreo realizado, así como del resultado del análisis oficial, a efecto de que éste tenga oportunidad de impugnar el resultado, dentro de los quince días hábiles siguientes.
+VIII. El resultado de los análisis de la muestra testigo, se notificará al interesado o titular de la autorización sanitaria estatal, en forma personal o por correo certificado con acuse de recibo, telefax, o por cualquier otro medio por el que se pueda comprobar fehacientemente la recepción de los mismos y, en caso de que el producto reúna los requisitos y especificaciones requeridos, la Autoridad Sanitaria procederá a otorgar la autorización que se haya solicitado, o a ordenar el levantamiento de la medida de seguridad que se hubiere ejecutado, según corresponda.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
+
+Si el resultado a que se refiere la fracción anterior comprueba que el producto no satisface los requisitos y especificaciones sanitarios, la Autoridad Sanitaria dictará y ejecutará las medidas de seguridad sanitarias, que procedan o a confirmar las que se hubieren ejecutado, a imponer las sanciones que correspondan o a negar o revocar, en su caso, la autorización de que se trate.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
+
+Si la diligencia se practica en un establecimiento que no sea donde se fabrica el producto o no sea el establecimiento del titular del registro, el verificado está obligado a enviar, en condiciones adecuadas de conservación, dentro del término de 3 días hábiles siguientes a la toma de muestras, copia del acta de verificación que consigne el muestreo realizado, así como las muestras que quedaron en poder de la persona con quien se entendió la diligencia, a efecto de que tenga la oportunidad de realizar los análisis particulares y, en su caso, impugnar el resultado del análisis oficial, dentro de los quince días hábiles siguientes a la notificación de resultados.
 
 En este caso, el titular podrá inconformarse, solicitando sea realizado el análisis de la muestra testigo.
 
@@ -2231,7 +2407,9 @@ Transcurrido este plazo, sin que se haya impugnado el resultado del análisis of
 
 En el caso de los productos recogidos en procedimientos de muestreo o verificación, sólo los laboratorios autorizados o habilitados por la Autoridad Sanitaria competente del Estado, determinarán por medio de análisis practicados, si tales productos reúnen o no sus especificaciones.
 
-## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MARZO DE 2000)</small>
+
+## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA, SANCIONES Y DELITOS
 
 ### CAPITULO III
 
@@ -2309,6 +2487,12 @@ La suspensión de trabajos o servicios será temporal. Podrá ser total o parcia
 
 Durante la suspensión se podrá permitir el acceso de las personas que tengan encomendada la corrección de las irregularidades que la motivaron.
 
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2000)</small>
+
+ARTICULO 302 BIS.- La suspensión de mensajes publicitarios en materia de Salud, procederá cuando éstos se difundan por cualquier medio de comunicación social, contraviniendo lo dispuesto por esta Ley y demás ordenamientos aplicables o cuando los Servicios de Salud determinen que el contenido de los mensajes afecta o induce a actos que pueden afectar la salud pública.
+
+En estos casos los responsables de la publicidad procederán a suspender el mensaje, dentro de las veinticuatro horas siguientes a la notificación de la medida de seguridad. Si se trata de emisiones de radio, cine o televisión, de publicaciones diarias o de anuncios en la vía pública. En caso de publicaciones periódicas, la suspensión surtirá efectos a partir del siguiente ejemplar en que apareció el mensaje.
+
 ###### ARTICULO 303.
 
 El aseguramiento de objetos, productos o substancias, tendrá lugar cuando se presuma que pueden ser nocivos para la salud de las personas que carezcan de los requisitos esenciales que se establezcan en las disposiciones legales aplicables. La Secretaría de Salud Pública del Estado y los Ayuntamientos podrán retenerlos o dejarlos en depósito hasta en tanto se determine, previo dictamen, su destino.
@@ -2343,9 +2527,11 @@ III. Clausura temporal o definitiva, que podrá ser parcial o total, y
 
 IV. Arresto hasta por 36 horas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 307.
 
-Al imponerse una sanción, se fundará y motivará la resolución, tomando en cuenta:
+Al imponerse una sanción la Autoridad Sanitaria fundará y motivará la resolución tomando en cuenta:
 
 I. Los daños que se hayan producido o puedan producirse en la salud de las personas;
 
@@ -2353,27 +2539,37 @@ II. La gravedad de la infracción;
 
 III. Las condiciones socio-económicas del infractor, y
 
-IV. La calidad de reincidente del infractor.
+IV. La calidad de reincidente del infractor;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2000)</small>
+
+V. El beneficio obtenido por el infractor, como resultado de la infracción.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 308.
 
-Se sancionará con multa equivalente hasta 20 veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación a las disposiciones contenidas en los artículos 48, 49, 74, 144, 145, 146, 158, 186, 187, 191, 193, 196, 197, 202, 208, 214, 215, 216, 218, 258 y 279 y 280 de esta Ley.
+Se sancionará con multa hasta 1,000 veces el salario mínimo general diario vigente en el Estado de Puebla, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 89, 144, 145, 146, 158, 186, 187, 191, 193, 196, 197, 202, 208, 214, 215, 216, 218, 258, 279 y 280 de esta Ley.
 
 La violación de la disposición contenida en el artículo 89 de esta Ley, se sancionará con multa equivalente hasta de 100 veces el salario mínimo general diario vigente en la zona económica de que se trate.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 309.
 
-Se sancionará con multa equivalente hasta 500 veces el salario mínimo general diario vigente en la zona económica de que se trata, la violación de las disposiciones contenidas en los artículos 147, 154, 194, 200, 205, 224, 228, 237, 243 y 255 de esta Ley.
+Se sancionará con multa de 1,000 hasta 4,000 veces el salario mínimo general diario vigente en el Estado de Puebla, la violación de las disposiciones contenidas en los artículos 147, 154, 194, 200, 205, 224, 228, 237, 243 y 255 de esta Ley.
 
-La violación a las disposiciones contenidas en los artículos 287 y 301 de esta Ley, se sancionará con multa equivalente de 50 hasta 500 veces el salario mínimo general diario vigente en la zonas (sic) económica de que se trate.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 310.
 
-Se sancionará con multa equivalente de 200 a 2,000 veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 62, 87, 88, 137 y 230 de esta Ley.
+Se sancionará con multa de 4,000 hasta 10,000 veces el salario mínimo general diario vigente en el Estado de Puebla, la violación de las disposiciones contenidas en los artículos 62, 87, 88, 137, 230, 287 y 301 de esta Ley.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 311.
 
-Las infracciones no previstas en este capítulo serán sancionadas con multa hasta de 500 veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo a las reglas de calificación que se establecen en el artículo 307 de esta Ley.
+Las infracciones no previstas en este Capítulo serán sancionadas con multa equivalente hasta por 10,000 veces el salario mínimo general diario vigente en el Estado de Puebla, atendiendo las reglas de calificación que se establecen en el artículo 307 de esta Ley.
 
 ###### ARTICULO 312.
 
@@ -2383,17 +2579,37 @@ En caso de reincidencia se duplicará el monto de la multa que corresponda. Para
 
 La aplicación de las multas serán sin perjuicio de que se dicten las medidas de seguridad sanitaria que procedan, hasta en tanto se subsanen las irregularidades.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 314.
 
-Procederá la clausura temporal o definitiva, parcial o total según la gravedad de la infracción y las características de la actividad o establecimiento en los siguientes casos:
+Procederá la clausura temporal o definitiva, parcial o total según la gravedad de la infracción y las características de las actividades o establecimiento en los siguientes casos:
 
-I. Cuando los establecimientos a que se refiere el artículo 183 no reunan los requisitos sanitarios que establece ésta Ley, las demás disposiciones reglamentarias y la Norma Oficial Mexicana correspondiente.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+
+I. Cuando los establecimientos a que se refiere el artículo 183 de esta Ley, carezcan de la correspondiente Licencia Sanitaria;
 
 II. Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de ésta Ley de las disposiciones que de ella emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la Autoridad Sanitaria;
 
 III. Cuando después de la reapertura de un establecimiento local, fábrica, construcción o edificio, por motivo de suspensión de trabajos o actividades, o clausura temporal, las actividades que en él se realicen sigan constituyendo un peligro para la salud, y
 
 IV. Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fabrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población.
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2000)</small>
+
+V. Cuando en el establecimiento se vendan o suministren estupefacientes sin cumplir los requisitos que señalen esta Ley y su Reglamento;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2000)</small>
+
+VI. Cuando en un establecimiento se vendan o suministren substancias psicotrópicas sin cumplir con los requisitos que señalen esta Ley y su Reglamento;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2000)</small>
+
+VII. Cuando se comprueben que las actividades que se realicen en un establecimiento, violan las disposiciones sanitarias, constituyendo un peligro grave para la salud; y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2000)</small>
+
+VIII. Por reincidencia en tercera ocasión.
 
 ###### ARTICULO 315.
 
@@ -2608,3 +2824,15 @@ LIC. MANUEL BARTLETT DIAZ
 EL SECRETARIO DE GOBERNACION
 
 LIC. CARLOS PALAFOX VAZQUEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE MARZO DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
