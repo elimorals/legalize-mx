@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-defensoria-de-oficio-del-estado-de-baja-2824
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-06-30"
-last_updated: "1981-06-30"
+last_updated: "2003-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY ORGANICA DE LA DEFENSORIA DE OFICIO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA DE OFICIO DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIODICO OFICIAL DEL 22 DE AGOSTO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley Orgánica publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 30 de junio de 1981.
 
@@ -272,3 +274,15 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 C. ARMANDO GALLEGO MORENO.
 
 ( Rúbrica )
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 22 DE AGOSTO DE 2003.
+
+Artículo Primero.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+Artículo Segundo.- Se abroga la Ley Orgánica de la Defensoría de Oficio del Estado de Baja California, publicada en el Periódico Oficial del Estado de Baja California con fecha de 30 de Junio de 1981.
+
+Artículo Tercero.- Se otorga un plazo de 90 días a partir de la entrada en vigor de la presente Ley, a efecto de que se elabore el Reglamento respectivo.
+
+Artículo Cuarto.- Se derogan todas las disposiciones que se opongan a esta Ley.
