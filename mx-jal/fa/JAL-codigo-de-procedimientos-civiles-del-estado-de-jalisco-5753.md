@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "1946-03-09"
+last_updated: "1953-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1953.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -154,17 +154,21 @@ Las acciones del estado civil fundadas en la posesión de estado, surtirán el e
 
 Las acciones personales se deducirán para exigir el cumplimiento de una obligación personal ya sea de dar, de hacer o no hacer determinado acto.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
 ###### ARTICULO 23.
 
-El perjudicado por falta de título legal tiene acción para exigir que el obligado le extienda el documento correspondiente.
+El perjudicado por falta de título legal tiene acción para exigir que el obligado le extienda el documento correspondiente y también lo tendrá cuando se cumpla con lo prevenido en los artículos 2163 al 2167, inclusive, del Código Civil.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
 
 ###### ARTICULO 24.
 
-En las acciones mancomunadas por título de herencia o legado, sean reales o personales, se observarán las reglas siguientes:
+Las acciones, defensas y recursos que correspondan a la masa de la herencia, podrán ser ejercitadas:
 
-I.- Si no se ha nombrado interventor ni albacea, puede ejercitarlas cualquiera de los herederos o legatarios;
+I.- Por cualquiera de los herederos y legatarios, si no está en funciones el interventor o el albacea de la sucesión;
 
-II.- Si se ha nombrado interventor o albacea, sólo a éstos compete la facultad de deducirlas en juicio, y sólo podrán hacerlo los herederos o legatarios cuando requeridos por ellos, el albacea o el interventor se rehusen a hacerlo.
+II.- Por el interventor o el albacea, si han sido ya nombrados, y están en funciones: o por cualquier heredero o legatario, cuando requerido judicial o notarialmente el albacea o el interventor rehusen o descuiden deducirlos.
 
 ###### ARTICULO 25.
 
@@ -178,13 +182,13 @@ Los acreedores que acepten la herencia que corresponde a su deudor, ejercitarán
 
 Las acciones que se ejerciten contra los herederos no obligan a éstos sino en proporción a sus cuotas, salvo en todo caso la responsabilidad que les resulte cuando sea solidaria su obligación con el autor de la herencia, por ocultación de bienes o por dolo o fraude en la administración de bienes indivisos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
 ###### ARTICULO 27.
 
-Cuando haya varias acciones contra una misma persona, respecto de una misma cosa y que provengan de una misma causa, deberán intentarse en una sola demanda; y por el ejercicio de una o más quedan extinguidas las otras.
+Cuando haya varias acciones contra una misma persona, respecto de una misma cosa y que provengan de una misma causa, deberán intentarse en una sola demanda, y por el ejercicio de una o más, quedan extinguidas las otras.
 
-No podrán acumularse en la misma demanda las acciones contrarias o contradictorias; ni las posesorias con las petitorias, ni cuando una dependa del resultado de la otra. Tampoco serán acumulables acciones que por su cuantía o naturaleza correspondan a jurisdicciones diferentes.
-
-Queda abolida la práctica de deducir subsidiariamente acciones contrarias o contradictorias.
+No podrán acumularse en la misma demanda las acciones contrarias o contradictorias, a menos que se hagan valer subsidiariamente; ni las posesorias con las petitorias. Tampoco serán acumulables acciones que por su cuantía o naturaleza correspondan a jurisdicciones diferentes.
 
 ###### ARTICULO 28.
 
@@ -242,9 +246,11 @@ VII.- La excusión;
 
 VIII.- En general las que, sin atacar en su fondo la acción deducida, tiendan a impedir legalmente el procedimiento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
 ###### ARTICULO 34.
 
-En los juicios ordinarios serán objeto de artículo de previo y especial pronunciamiento, la incompetencia, la litis pendencia y la falta de personalidad o de capacidad; en los sumarios sólo impedirán el curso del juicio, la incompetencia y la falta de personalidad o capacidad.
+En los juicios ordinarios serán objeto de artículo de previo y especial pronunciamiento la incompetencia, la litispendencia y la falta de personalidad o de capacidad así como la iniciativa de acumulación por conexidad; en los sumarios sólo impedirán el curso del Juicio, la incompetencia y la falta de personalidad o capacidad.
 
 ###### ARTICULO 35.
 
@@ -264,9 +270,11 @@ Las demás excepciones dilatorias se propondrán y tramitarán como se previene 
 
 Las excepciones perentorias se opondrán precisamente en la contestación de la demanda, en la que también podrá oponerse la reconvención, si procediere conforme a la ley.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
 ###### ARTICULO 39.
 
-Queda abolida la práctica de oponer excepciones o defensas contrarias, aun cuando sea con el carácter de subsidiarias, debiendo los Jueces desechar éstas de plano.
+Pueden oponerse excepciones contrarias, siempre y cuando se hagan valer subsidiariamente.
 
 ## TITULO SEGUNDO.
 
@@ -374,11 +382,15 @@ IV.- La suspensión que no exceda de un mes.
 
 Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, podrá ésta pedir que se le oiga en justicia, lo que se hará en una audiencia dentro del tercer día, en la que se resolverá sin más recurso que el de queja.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
 ###### ARTICULO 60.
 
-Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año menos el domingo y aquellos que las leyes declaren inhábiles.
+Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, menos el domingo y aquellos que las leyes declaren inhábiles.
 
-Se entienden horas hábiles las que median desde las siete a las dieciocho horas. En los juicios sobre alimentos, impedimento de matrimonio, servidumbres legales, posesión, cuestiones familiares y los demás que determinen las leyes, no hay días ni horas inhábiles. En los demás casos el Juez o Tribunal podrá habilitar los días y horas inhábiles para actuar, o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
+Se entienden horas hábiles las que median desde las siete a las dieciocho horas. En los juicios sobre alimentos, impedimento de matrimonio, servidumbres legales, posesión, cuestiones familiares y los demás que determinen las leyes no hay días ni horas inhábiles. En los demás casos el Juez o Tribunal podrá habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
+
+Comenzada una diligencia podrá concluirse aún cuando se hayan acabado las horas señaladas como hábiles.
 
 ###### ARTICULO 61.
 
@@ -826,9 +838,11 @@ Cada parte será inmediatamente responsable de las costas que originen las dilig
 
 Los abogados extranjeros no podrán cobrar costas, sino cuando estén autorizados legalmente para ejercer su profesión y haya reciprocidad internacional con el país de su origen, en el ejercicio de la abogacía.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
 ###### ARTICULO 139.
 
-Los procuradores y los abogados patrones serán responsables solidariamente con las partes que representen o patrocinen, hasta el cincuenta por ciento de las costas y multas, en caso de condenación.
+El pago de las costas debe repartirse entre todos los vencidos en proporción a su interés en el pleito. Si éste no puede determinarse, el reparto se hará por cabezas. Se exceptúa el caso de obligación solidaria en el cual el vencedor puede exigir el pago de la totalidad de las mismas a cualquiera de los vencidos.
 
 ###### ARTICULO 140.
 
@@ -838,21 +852,15 @@ Los funcionarios judiciales que por notoria torpeza ordenen la práctica de dili
 
 Los representantes del Fisco, de los Ayuntamientos, de la Beneficencia y del Ministerio Público, serán personalmente responsables de las costas que causaren, cuando no procedan obedeciendo instrucciones expresas o mandatos de la ley.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
 ###### ARTICULO 142.
 
-Siempre serán condenados en costas:
-
-> <small>(F. DE E., P.O. 24 DE DICIEMBRE DE 1938)</small>
+Siempre serán condenados en costas, cuando así lo solicite la contraria:
 
 I.- El litigante condenado en juicio y el que lo intente si no obtiene resolución favorable. Lo mismo se observará en los incidentes que surgieren;
 
-II.- El que presente instrumentos o documentos falsos o testigos falsos o sobornados.
-
-En estos casos la condenación se hará, la pidan o no las partes, en la primera instancia, observándose en la segunda lo que se dispone en la fracción siguiente;
-
-III.- El que fuere condenado por dos sentencias conformes de toda conformidad en su parte resolutiva, sin tomar en cuenta la declaración sobre costas. En este caso como la condenación comprenderá las costas de ambas instancias.
-
-Cuando la sentencia de segunda instancia revoque la resolución recurrida, la condenación en costas no se hará efectiva. Si la modifica, no se causarán costas por la alzada.
+II.- El que fue condenado por dos sentencias conformes de toda conformidad en su parte resolutiva. En este caso como la condenación comprenderá las costas de ambas instancias.
 
 ###### ARTICULO 143.
 
@@ -1088,81 +1096,71 @@ La no suspensión de un procedimiento en los casos a que se refiere el artículo
 
 De la Acumulación de Autos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
 ###### ARTICULO 174.
 
-La acumulación de autos podrá decretarse a instancia de parte legítima, salvo los casos en que, conforme a la ley, deba hacerse de oficio:
+La acumulación de autos se promueve oponiendo la excepción de conexidad y tiene por objeto la remisión de las actuaciones en que se opone, al Juzgado que primeramente previno en el conocimiento de la causa conexa, o si ambas se siguen en el mismo Juzgado, la glosa de la más moderna en el expediente de la más antigua.
 
-I.- Cuando la sentencia que haya de dictarse en uno de los juicios produzca excepción de cosa juzgada en el otro;
-
-II.- Cuando hubiere pendientes juicios distintos sobre un mismo objeto;
-
-III.- Cuando de seguirse separadamente los juicios, se divida la contienda de la causa.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
 
 ###### ARTICULO 175.
 
-Se entiende dividida la contienda de la causa:
+Hay conexidad de causas cuando hay identidad de personas y acciones aunque las cosas sean distintas; cuando hay identidad de personas y cosas aunque la acción sea diversa y cuando las acciones provengan de una misma causa aunque sean diversas las cosas o las personas contra quienes se ejercitan.
 
-I.- Cuando haya entre los dos juicios identidad de personas, cosas y acciones;
-
-II.- Cuando haya identidad de personas y cosas, aun cuando la acción sea diversa;
-
-III.- Cuando haya identidad de personas y acciones, aun cuando las cosas sean distintas;
-
-IV.- Cuando las acciones provengan de una misma causa aunque se den contra varios, y haya, por consiguiente, diversidad de personas;
-
-> <small>(F. DE E., P.O. 24 DE DICIEMBRE DE 1938)</small>
-
-V.- Cuando las acciones provengan de la misma causa, aunque sean diversas las cosas;
-
-VI.- Cuando haya identidad de acciones y cosas, aunque las personas sean distintas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
 
 ###### ARTICULO 176.
 
 No procede la acumulación:
 
-I.- En los juicios que estén en diversas instancias;
+I.- Cuando los pleitos estén en diversas instancias;
 
-II.- Cuando se trate de interdictos.
+II.- Cuando se trate juicios sumarios;
+
+III.- Cuando los Juzgados que conozcan respectivamente de los Juicios pertenezcan a tribunales de distinto fuero.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
 
 ###### ARTICULO 177.
 
-La acumulación podrá pedirse en cualquier estado del juicio, antes de pronunciarse sentencia.
+La excepción de conexidad con petición acumulatoria se opondrá como todas al contestar la Demanda o la Reconvención, en su caso, del Juicio nuevo, siempre que en el más antiguo no se haya pronunciado todavía sentencia, pues en caso contrario, la excepción sólo cabe para tomar en cuenta dicha Sentencia en el moderno litigio.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
 
 ###### ARTICULO 178.
 
-La acumulación se pedirá, expresando:
+La parte que promueve la acumulación acompañará a su escrito copia autorizada de la Demanda y contestación que fijaron la litis del Juicio conexo, o pedirá si es más factible la inspección de los autos. Con esta prueba y la contestación de la parte contraria que producirá dentro del tercer día, el Juez fallará dentro de las 24 veinticuatro horas siguientes y si decreta la acumulación remitirá sus autos al Juez del Juicio más antiguo para que éste lo siga aunque sea por cuerda separada y resuelva ambos juicios en una sola Sentencia. Cuando estime que la acumulación puede ser maliciosa, podrá también exigir al promovente antes de tramitarla un certificado de depósito de $ 500.00 a $5,000.00 para garantizar los presuntos daños y perjuicios que se causen en su caso.
 
-I.- El juzgado en que se sigan los juicios que deban acumularse;
+La resolución negativa de acumulación será apelable en el efecto devolutivo.
 
-II.- El objeto de cada uno de los juicios;
+La que la decrete no tiene más recurso que el de responsabilidad, y tampoco el Juez al que se remitan los autos acumulables podrá oponerse a ella pero si deberán:
 
-III.- La acción que en cada uno de sellos se ejercite;
+I.- Dar cuenta al Superior en cualquier caso de improcedencia manifiesta para la responsabilidad del que hubiere declarado procedente la acumulación;
 
-IV.- Las personas que en ellos se hayan constituido parte;
+II.- Mandar hacer efectivos al fallar en el fondo, el depósito a que se refiere la parte anterior de este precepto, para que se aplique el importe a la parte contraria, siempre que resulte patente que la susodicha acumulación se planteó para procurar la suspensión o el retardo del juicio antiguo.
 
-V.- Los fundamentos legales en que se apoye la acumulación.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
 
 ###### ARTICULO 179.
 
-Si un mismo juzgado conoce de los autos cuya acumulación se pide, una vez recibida la petición citará a las partes a una audiencia que se celebrará dentro de tres días. En ella el Secretario hará la relación de los autos y oídas las partes o sus abogados, si se hubiere presentado, se pronunciará la resolución correspondiente sin más recurso que el de responsabilidad.
-
-Si los pleitos se siguieren en juzgados diferentes, promovida la acumulación ante el Juez que conozca del juicio al cual los otros deben acumularse, se sustanciará como está prevenido para decir las competencias.
+El Juez o Tribunal que primero pronuncie sentencia en un juicio sumario conexo con otro sujeto al conocimiento de otro Juez o Tribunal, remitirá a éste copia de la sentencia ejecutoriada para los efectos que procedan.
 
 ###### ARTICULO 180.
 
-El pleito más moderno se acumulará al más antiguo, salvo los casos de juicio atractivo, en el cual la acumulación se hará siempre a éste, y de los juicios hipotecarios y ejecutivo, a los que se acumularán los de otra especie que se hubieren promovido.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1953)
 
 ###### ARTICULO 181.
 
-Desde que se pida la acumulación se suspenderá todo procedimiento en los juicios de que se trate, hasta que el superior respectivo pronuncie sentencia, sin perjuicio de que se practiquen las diligencias precautorias y urgentes.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1953)
 
 ###### ARTICULO 182.
 
-Cuando se acumulen los autos se suspenderá el curso del juicio que estuviere más próximo a su término, hasta que el otro se halle en el mismo estado, a fin de que ambos se decidan en una misma sentencia.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1953)
 
 ###### ARTICULO 183.
 
-Es válido todo lo practicado por los Jueces competentes antes de la acumulación; lo que practiquen después de pedida ésta es nulo y causa de responsabilidad, salvo cuando la ley dispone otra cosa.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1953)
 
 ## TITULO CUARTO.
 
@@ -1270,9 +1268,13 @@ V.- En los demás actos que no radiquen jurisdicción ni importen conocimiento d
 
 Del Tiempo en que Debe Proponerse la Recusación.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
 ###### ARTICULO 193.
 
-En los procedimientos de apremio y en los juicios sumarios que empiezan por ejecución, no se dará curso a ninguna recusación; no obstante, practicado el aseguramiento, hecho el embargo o desembargo en su caso, o expecida (sic) o fijada la cédula hipotecaria, se observará en su caso lo dispuesto en el artículo 625.
+En los juicios que empiezan por ejecución, no podrá admitirse ninguna recusación, sino practicado el aseguramiento y contestada la demanda, se dará curso a las recusaciones que se presenten en forma legal.
+
+No se dará curso a la recusación cuando se interponga en el momento de estarse practicando una diligencia, sino hasta que ésta termine. En los procedimientos de apremio no se admitirá ninguna recusación.
 
 ###### ARTICULO 194.
 
@@ -1392,6 +1394,14 @@ VII.- Pidiendo el examen de testigos, cuando éstos sean de edad avanzada o se h
 
 VIII.- Pidiendo el examen de testigos para probar alguna excepción, siempre que la prueba sea indispensable y los testigos se hallen en alguno de los casos señalados en la fracción anterior.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
+IX.- Pidiendo la inspección judicial que versará sobre un hecho que se relacione con el juicio que se promoverá;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
+X.- Para preconstituir una prueba de hechos o cosas que por su naturaleza puedan perderse o desaparecer.
+
 ###### ARTICULO 211.
 
 Al pedirse la diligencia preparatoria debe expresarse el motivo por el cual se solicita y el litigio que se trata de seguir o que se tema.
@@ -1410,9 +1420,11 @@ La acción que puede ejercitarse conforme a las fracciones II, III y IV del art�
 
 Cuando se pida la exhibición de un protocolo o cualquiera otro documento archivado, la diligencia se practicará en el oficio del notario o en la oficina respectiva, sin que en ningún caso salgan de ellos los documentos originales.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
 ###### ARTICULO 215.
 
-Las diligencias preparatorias de que se trata en las fracciones II a IV y VII y VIII del artículo 210 se practicarán con citación de la parte contraria a quien se correrá traslado de la solicitud por el término de tres días y se aplicarán las reglas establecidas para la práctica de la prueba testimonial.
+Las diligencias preparatorias de que se trata en las fracciones II a IV y VII, VIII, IX y X del artículo 210, se practicarán con citación de la parte contraria, a quien se correrá traslado de la solicitud por el término de tres días y se aplicarán las reglas establecidas para la práctica de la prueba testimonial.
 
 ###### ARTICULO 216.
 
@@ -1591,6 +1603,10 @@ Cuando el acreedor se rehuse en el acto de la diligencia a recibir la cosa, con 
 ###### ARTICULO 248.
 
 El depositario que se constituya en estas diligencias será designado por el Juez si con intervención de él se practicaren. Si fueren hechas con intervención de notario, la designación se hará bajo la responsabilidad del deudor.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
+ARTICULO 248 bis.- En caso de que se hubiese promover el juicio a que se refiere el artículo 247, y durante la sustanciación de éste o con posterioridad, fuese necesario hacer nuevas consignaciones con relación al mismo negocio, se verificarán dentro del mismo expediente, y la sentencia en su caso, decidirá sobre todas.
 
 ### CAPITULO VI.
 
@@ -1994,6 +2010,10 @@ La prueba de confesión se promoverá presentando el pliego que contenga las pre
 
 Las posiciones deberán articularse en términos precisos, no han de ser insidiosas, deberá contener cada una un solo hecho y éste ha de ser propio del que declara. Un hecho complejo puede comprenderse en una posición cuando por la íntima relación que exista entre sus elementos, no pueda afirmarse o negarse uno sin afirmar o negar el otro. Se tendrán por insidiosas las preguntas que se dirijan a ofuscar la inteligencia del que ha de responder, con el objeto de obtener una confesión contraria a la verdad.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
+Cada parte podrá articular a la contraria hasta cuarenta posiciones en cada instancia.
+
 ###### ARTICULO 313.
 
 Las posiciones deberán concretarse a hechos que sean objeto del debate, debiendo repelerse de oficio las que no reúnan este requisito. El Juez deberá ser escrupuloso en el cumplimiento de este precepto y tener en cuenta lo que se dispone en el artículo 297.
@@ -2116,9 +2136,11 @@ Para que en el Estado hagan fe los documentos públicos procedentes del extranje
 
 De la traducción de los documentos que se presenten redactados en idioma extranjero, se mandará dar vista a la parte contraria para que dentro del tercer día manifieste si está conforme; y si lo expresa así o no dijere nada, se pasará por la traducción. En caso contrario el tribunal nombrará traductor.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
 ###### ARTICULO 333.
 
-Siempre que uno de los litigantes pidiere copias o testimonio de parte de un documento o pieza que obre en los archivos públicos, el contrario tendrá derecho de que, a su costa se adicione con lo que crea conducente del mismo documento.
+Siempre que uno de los litigantes pidiere copia certificada de un documento o parte de él, que obre en los archivos públicos, el contrario tendrá derecho de que, a su costa, se adicione con lo que crea conducente, y solicitare dentro de término de tres días. El Juez señalará desde luego la cantidad que estime necesaria para los gastos que origine la adición, y requerirá a la parte que la hubiere solicitado, la exhiba dentro de igual término, apercibido de que de no hacerlo se le tendrá por desistido de la petición.
 
 ###### ARTICULO 334.
 
@@ -2176,7 +2198,9 @@ III.- Los documentos cuya letra o firma ha sido judicialmente declarada propia d
 
 IV.- El escrito impugnado en la parte en que reconozca la letra, como suya, aquél a quien perjudique;
 
-V.- Las firmas puestas en actuaciones judiciales en presencia del Secretario del Tribunal, por la parte cuya firma o letra se trata de comprobar.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
+V.- Las firmas o huellas digitales puestas en actuaciones judiciales en presencia del Secretario del Tribunal, por la parte cuya firma o letra o huella digital se trata de comprobar y las puestas ante cualquier otro funcionario revestido de la fé pública.
 
 ###### ARTICULO 346.
 
@@ -2212,9 +2236,15 @@ Los peritos deberán tener título en la ciencia o arte a que pertenezca el punt
 
 Si la profesión o el arte no estuvieren legalmente reglamentados o estándolo, no hubiere peritos en el lugar, podrán ser nombradas personas entendidas, aún cuando no tengan título.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
 ###### ARTICULO 353.
 
-Cada parte, dentro de los tres días siguientes a la notificación del auto que ordene el dictamen pericial, nombrará un perito, a no ser que se pusieren de acuerdo en el nombramiento de uno solo. El tercero en discordia será nombrado por el Juez.
+La parte litigante que promueva la prueba pericial, deberá nombrar su perito en el mismo escrito en que la proponga, formulando el cuestionario respectivo y obteniendo del mismo perito la aceptación, la protesta de cumplir fielmente con su encargo y el domicilio donde reciba notificaciones. La aceptación del perito debe ser ratificada ante el Juez al presentarse el escrito respectivo.
+
+Igual procedimiento empleará la parte contraria en el nombramiento de su perito, debiéndolo designar dentro del tercer día a partir de la notificación del auto que ordene el dictamen pericial.
+
+El tercero en discordia siempre será nombrado por el Juez, mediante depósito de sus honorarios que deberá verificar el promovente de la prueba y cuyo monto será fijado por dicho funcionario, atendiendo a las reglas que sobre tasación fijen las leyes.
 
 ###### ARTICULO 354.
 
@@ -2264,9 +2294,11 @@ Contra el auto en que se admita o deseche la recusación, no procederá recurso 
 
 En caso de ser desechada la recusación, se impondrá al recusante una multa que no excederá de veinte pesos, a favor del litigante.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
 ###### ARTICULO 359.
 
-El honorario de cada perito será pagado por la que lo nombró o en cuyo defecto lo hubiere nombrado el Juez y, el del tercero, por ambas partes, sin perjuicio de lo que disponga la resolución definitiva sobre condenación en costas.
+El honorario de cada perito será pagado por la que lo nombró o en cuyo defecto lo hubiere nombrado el Juez. Respecto del tercero se estará a lo dispuesto por el artículo 353. Estas disposiciones son sin perjuicio de lo que disponga la resolución definitiva sobre condenación en costas.
 
 Sección 4a.
 
@@ -2534,9 +2566,11 @@ Los libros de las negociaciones mercantiles tendrán el valor probatorio que les
 
 El reconocimiento o inspección judicial hará prueba plena, cuando se haya practicado en objetos que no requieran conocimientos especiales o científicos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
 ###### ARTICULO 409.
 
-El avalúo hecho por un solo perito o por dos, si éstos hubieren estado conformes, se tendrá como precio de la cosa valuada; si hubiere diferencia menor de un cinco por ciento, se tomará el promedio de los dos avalúos; pero si la diferencia fuere mayor, se practicará por el tercero un nuevo avalúo, y el precio legítimo será el promedio de las tres tasaciones.
+El avalúo hecho por un solo perito designado de común acuerdo, o por los peritos de las partes, si sus dictámenes fueren conformes, se tendrá como precio de la cosa valuada; si difirieren en no más de un 10% se tomará como justiprecio el promedio de los dos avalúos; pero si la diferencia fuere mayor se oirá el dictamen del tercero en discordia y su dictamen prevalecerá, salvo apreciación contraria y fundada del Juez.
 
 ###### ARTICULO 410.
 
@@ -3254,11 +3288,11 @@ III.- Cuando no se embarguen bienes suficientes por no tenerlos el deudor y desp
 
 IV.- En los casos de tercería, conforme a lo dispuesto en este Código.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
 ###### ARTICULO 527.
 
-Desde que se practica el secuestro contrae el deudor la obligación de depositario judicial de los bienes embargados. Si no quiere aceptarla, lo expresará así desde luego, o por escrito, dentro del tercer día, en cuyo caso se tendrá como depositario a la persona que bajo su responsabilidad nombre el actor, a la que se hará entrega de los bienes mediante formal inventario, después de que haya caucionado su manejo.
-
-Si el deudor nada expresare dentro del término, se entenderá que acepta continuar como depositario y si la práctica del secuestro no se entendiere con el ejecutado o su representante, los tres días que éste artículo señala, comenzarán a contarse desde que se le hubiere hecho saber la diligencia.
+En todo secuestro se tendrá como depositario a la persona que bajo su responsabilidad nombre el actor, otorgando fianza previamente o dentro de las setenta y dos horas de inventariado lo embargado. Cuando se nombre depositario al mismo demandado, éste no necesitará otorgar fianza, pero contraerá la responsabilidad civil y penal consiguiente, a menos que en el acto, de modo expreso, rehuse el depósito en cuyo caso se procederá como se previene al principio de este mismo artículo. El demandado podrá dar contrafianza para conservar la posesión de la cosa.
 
 ###### ARTICULO 528.
 
@@ -3670,7 +3704,7 @@ Vencido el término de la contestación, dentro de los tres días siguientes pod
 
 ###### ARTICULO 590.
 
-Promovida la prueba o transcurrido el término para ofrecerla, el Juez citará a las partes a un (sic) audiencia que se celebrará dentro de cinco días y en ella recibirá las ofrecidas, oirá los alegatos y pronunciará su resolución.
+Promovida la prueba o transcurrido el término para ofrecerla, el Juez citará a las partes a un audiencia que se celebrará dentro de cinco días y en ella recibirá las ofrecidas, oirá los alegatos y pronunciará su resolución.
 
 ###### ARTICULO 591.
 
@@ -3690,15 +3724,15 @@ Si la denuncia se refiere a la falsedad de un documento presentado al juicio, al
 
 ###### ARTICULO 594.
 
-Si el Ministerio Público al recibir la denuncia o durante la averiguación, solicita que se suspenda el procedimiento civil, el Juez o Tribunal así lo acordará una vez que los autos llegaren a estado de citación para sentencia. Lo mismo harán el Juez o Tribunal si estiman que los hechos denunciados por su naturaleza, necesariamente deben influir en el fallo que se dicte.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1953)
 
 ###### ARTICULO 595.
 
-Decretada la suspensión, surtirá efectos mientras el Ministerio Público no comunique que no ejercita acción penal o se pronuncia sentencia definitiva en la averiguación criminal.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1953)
 
 ###### ARTICULO 596.
 
-Concluida la averiguación criminal continuará el curso de los autos civiles y si el procedimiento penal termina sin decidir sobre la falsedad o autenticidad del documento, el Juez señalará a las partes un término prudente, que en ningún caso excederá de diez días, para que demuestren la eficacia probatoria del documento, reservándose la apreciación de éstas pruebas para la sentencia definitiva.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1953)
 
 ## TITULO DECIMO PRIMERO.
 
@@ -4928,6 +4962,12 @@ ARTICULO 810 (SIC).- Cuando el cargo de síndico fuere desempeñado sucesivament
 
 En el caso de revocación del concurso el síndico sólo percibirá honorarios de procurador en proporción a los trabajos realizados.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
+ARTICULO 813 bis.- La negociaciones al que el deudor estuviere dedicado continuaran bajo la vigilancia del síndico, mientras los acreedores acuerden en la junta general lo que crean conveniente pero en caso de urgencia, la autoridad judicial podrá resolver lo que corresponda a los intereses de aquéllos y del deudor común.
+
+Si a los dos años de comenzado el concurso no estuviese concluido será removido de plano el síndico que no podrá ser reelecto, perdiendo todo derecho de cobrar honorarios.
+
 Sección 4a.
 
 Reglas Comunes al Deudor.
@@ -5246,9 +5286,11 @@ Cuando el albacea o los peritos juzguen conveniente razonar sobre alguno de los 
 
 Todos los objetos deberán estimarse según su estado y valor actuales.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+
 ###### ARTICULO 867.
 
-El albacea deberá concluir las operaciones de inventario y avalúo dentro de sesenta días contados desde el nombramiento del perito valuador o desde que se hubiere manifestado conformidad con que al avalúo sea hecho bajo su responsabilidad conforme el artículo 854. Si los bienes se encuentran ubicados a grandes distancias o si por la naturaleza de los negocios no se creyere bastante el término concedido, el Juez podrá ampliarlo prudentemente hasta por otros sesenta días.
+El Albacea deberá concluir el inventario y avalúo dentro de noventa días contados desde el siguiente día al que se le notifique el discernimiento de su cargo. Si los bienes se encuentran ubicados a grandes distancias, o si por la naturaleza de los negocios no se creyere bastante el término concedido, el Juez podrá ampliarlo prudentemente hasta por otros sesenta días.
 
 ###### ARTICULO 868.
 
@@ -5998,7 +6040,7 @@ De la Vigilancia y Cuentas de la Tutela.
 
 En los Juzgados de Primera Instancia, bajo el cuidado y responsabilidad del Juez, se llevará un registro de los discernimientos que se hicieron de los cargos de tutor y de curador. En este registro, que estará siempre a disposición del Consejo de Tutelas y demás interesados, se insertará copia autorizada por el Secretario, de los autos de discernimiento y se anotarán los demás actos que afecten el desempeño de la tutela.
 
-###### Artículo 1002.
+###### ARTICULO 1002.
 
 Dentro de los ocho primeros días de cada año, los Jueces, en audiencia pública, con citación del Consejo de Tutelas y del Ministerio Público, procederán a examinar dicho registro y en su vista dictarán, de las medidas siguientes, las que correspondan:
 
@@ -6635,3 +6677,7 @@ P.O. 9 DE MARZO DE 1946.
 Primero.- Este presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- La substanciación de los juicios promovidos antes de la vigencia del presente Decreto, en los cuales no se hubiere dictado sentencia, continuarán conforme a las disposiciones que se reforman, pero la ejecución de ellos se ajustará a las del presente.
+
+P.O. 31 DE DICIEMBRE DE 1953.
+
+UNICO.- Estas reformas empezarán a surtir sus efectos, treinta días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
