@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2001-11-27"
+last_updated: "2001-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2001.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -43,9 +43,11 @@ ESTADO DE TAMAULIPAS
 
 ### CAPITULO I. Condición Política y Territorio
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
 ###### Art. 1o.
 
-El Estado de Tamaulipas es libre, soberano e independiente en cuanto a su Gobierno y administración interiores; pero está ligado a los Poderes de la Unión como parte integrante de los Estados Unidos Mexicanos, en todo aquello que fija expresamente la Constitución General y las leyes que de ella emanan.
+El Estado de Tamaulipas es libre, soberano e independiente en cuanto a su Gobierno y administración interiores; pero está ligado a los Poderes de la Unión como parte integrante de los Estados Unidos Mexicanos, en todo aquello que fija expresamente la Constitución Política de los Estados Unidos Mexicanos y las Leyes que de ella emanan.
 
 ###### Art. 2o.
 
@@ -207,9 +209,13 @@ El Estado reconoce a sus habitantes:
 
 I. La inviolabilidad de la propiedad, la cual no podrá ser ocupada sino por causa de utilidad pública y previa indemnización.
 
-II. La libertad de asociarse o reunirse con cualquier objeto lícito, pero en asuntos políticos es exclusiva de los ciudadanos tamaulipecos en los términos que establece la Constitución General de la República.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-III. Los derechos que la Constitución General expresa bajo el título de "Garantías Individuales".
+II. La libertad de asociarse o reunirse con cualquier objeto lícito, pero en asuntos políticos es exclusiva de los ciudadanos tamaulipecos en los términos que establece la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+III. Los derechos que la Constitución Política de los Estados Unidos Mexicanos expresa bajo el titulo de "Garantías Individuales".
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 1986)</small>
 
@@ -235,13 +241,17 @@ VI. Asistir los días y horas designados por el Ayuntamiento del Municipio en qu
 
 VII. Tomar las armas en defensa del pueblo en que vivan cuanto este fuere amagado por partidas de malhechores, acatando las disposiciones que al efecto emanen de la autoridad local.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 19.
 
-A nadie podrá obligársele a que pague un impuesto que no haya sido previamente decretado por el Congreso.
+A nadie podrá obligársele a que pague una contribución que no haya sido previamente decretada por el Congreso.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiese impuesto, se permitirá hasta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
@@ -317,7 +327,7 @@ d).- Declarará Gobernador electo al ciudadano que hubiese obtenido el mayor nú
 
 III.- La Ley establecerá un sistema de medios de impugnación para garantizar la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, y que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad; y fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, incluyendo la establecida en la Fracción IV del Artículo 99 de la Constitución Política de los Estados Unidos Mexicanos, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales. Del sistema de medios de impugnación conocerán, según la competencia, el Organismo Público Autónomo a que se refiere este Artículo y el Tribunal Estatal Electoral.
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 IV.- El Tribunal Estatal Electoral es el Organo Autónomo en su funcionamiento, con independencia en sus decisiones, y máxima autoridad jurisdiccional electoral, conformado por salas unitarias numerarias y una presidencia; se integrará con 4 Magistrados numerarios y uno supernumerario, mismos que serán designados por las dos terceras partes de los Diputados, a propuesta de los partidos políticos representados en el Congreso del Estado, y del Supremo Tribunal de Justicia del Estado; su funcionamiento y organización estarán previstos en la Ley.
 
@@ -535,11 +545,11 @@ Los Diputados que no concurran a una sesión sin causa justificada, no tendrán 
 
 ### CAPITULO II. De la instalación y labores del Congreso
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 40.
 
-El Congreso se reunirá para celebrar sus sesiones en la forma y términos que le señala esta Constitución y la Ley Orgánica del Poder Legislativo.
+El Congreso se reunirá para celebrar sus sesiones en la forma y términos que le señala esta Constitución, la Ley Orgánica del Poder Legislativo y su Reglamento.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
 
@@ -579,13 +589,7 @@ II. De estudiar, discutir y votar las iniciativas de ley que se presenten, y res
 
 ###### Art. 46.
 
-En el segundo período de sesiones se ocupará el Congreso:
-
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 1987)</small>
-
-I.- De preferencia, en discutir y decretar las leyes de ingresos del Estado y de los Municipios, así como el Presupuesto de Egresos del Estado del año siguiente; las iniciativas de leyes de ingresos y el proyecto de Presupuesto de Egresos le serán presentados antes del día treinta de noviembre de cada año por el Ejecutivo. Sólo se podrá ampliar este plazo cuando medie solicitud del Ejecutivo, suficientemente justificada a juicio del Congreso. Igualmente examinará y calificará las cuentas de recaudación y aplicación de los fondos Estatal y Municipales, correspondiente a ese año; las Cuentas Públicas correspondientes al último año de la elección constitucional de Gobernador y Ayuntamientos, deberán ser presentadas a más tardar el día 15 de diciembre, para lo cual se prorrogará forzosamente por el mes de diciembre el período de sesiones y procederá en la forma que establece la fracción I del artículo que antecede;
-
-II.- En su caso, de lo enunciado en la fracción II del artículo anterior.
+El Congreso en el segundo periodo de sesiones, se ocupará en discutir y decretar la Ley de Ingresos y el Presupuesto de Egresos del Estado del año siguiente, mismos que le serán presentados durante los primeros diez días de diciembre de cada año por el Ejecutivo. Las Leyes de Ingresos de los Municipios deberán remitirse durante los primeros diez días del mes de noviembre de cada año. Solo se podrán ampliar dichos plazos cuando medie solicitud del Ejecutivo, suficientemente justificada a juicio del Congreso. Las Cuentas Públicas correspondientes al último año del ejercicio constitucional de la Legislatura, deberán ser presentadas a ésta a más tardar el día quince de diciembre, para lo cual se prorrogará forzosamente el período de sesiones, por los días necesarios del mes de diciembre.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
 
@@ -651,15 +655,17 @@ Al abrirse el período de sesiones siguiente a la visita, los Diputados presenta
 
 Son facultades del Congreso:
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-I. Expedir, reformar y derogar las leyes y decretos en todos los ramos de la Administración Pública;
+I. Expedir, reformar y derogar las Leyes y Decretos que regulan el ejercicio del Poder Público;
 
-II. Fijar a propuesta del Gobernador, los gastos de la Administración Pública del Estado, y decretar contribuciones e impuestos para cubrirlos, determinando la duración de estos y el modo de recaudarlos. Ningún pago será legal si no está incluido en el Presupuesto o determinado por ley posterior;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2001)</small>
+II. Fijar a propuesta del Gobernador los gastos del Poder Público del Estado, y decretar contribuciones y otros ingresos para cubrirlos, determinando la duración de éstos y el modo de recaudarlos. Ningún pago será legal si no esta incluído en el presupuesto o determinado por Ley posterior;
 
-III. Condonar Impuestos del Estado, en los casos que estime convenientes, con excepción de los señalados en las fracciones I y III del artículo 133 de esta Constitución;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+III. Condonar contribuciones del Estado, en los casos que estime convenientes, con excepción de los señalados en las fracciones I y III del Artículo 133 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 14 DE MARZO DE 2001)</small>
 
@@ -673,7 +679,9 @@ V. Nombrar y remover al Oficial Mayor del Congreso, al Contador Mayor de Haciend
 
 VI. Revisar, calificar y fiscalizar, por conducto de la Contaduría Mayor de Hacienda, las cuentas públicas del Estado, de los Municipios y demás organismos que administren o manejen fondos del sector público. Una ley determinará la organización y funcionamiento de dicha Contaduría que dependerá en absoluto del Congreso y estará bajo la vigilancia de la Comisión de Hacienda y Crédito Público;
 
-VII. Fijar las bases para que el Ejecutivo pueda celebrar emprésitos sobre el crédito del Estado, con las limitaciones que marca la fracción VIII del artículo 117 de la Constitución General de la República; aprobar los contratos respectivos, y reconocer y mandar pagar las deudas que contraiga el Estado;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+VII. Fijar las bases al Ejecutivo para la contratación de empréstitos sobre el crédito del Estado, con las limitaciones que marca la fracción VIII del Artículo 117 de la Constitución Política de los Estados Unidos Mexicanos; aprobar los contratos respectivos, y reconocer y mandar pagar las deudas que contraiga el Estado;
 
 VIII. Fijar las bases al Ejecutivo para renovar los contratos de donde se origine la deuda del Estado;
 
@@ -681,9 +689,9 @@ VIII. Fijar las bases al Ejecutivo para renovar los contratos de donde se origin
 
 IX. Autorizar la enajenación y gravamen de los bienes muebles e inmuebles del Estado y de los Municipios, conforme a la ley. La venta de los bienes muebles se verificará en pública subasta, siempre que éstos hayan sido declarados inútiles a juicio del Congreso;
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-X. Fijar las bases a los Ayuntamientos para la contratación de empréstitos, conforme a la ley;
+X. Fijar las bases a los Ayuntamientos para la contratación de empréstitos, con las limitaciones previstas en la fracción VIII del Artículo 117 de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
@@ -709,23 +717,27 @@ XVIII. Establecer un Organismo de Protección de los Derechos Humanos que otorga
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-XIX. Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito, en los términos del Artículo 152 de esta Constitución.
+XIX. Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito, en los términos del Artículo 152 de esta Constitución;
 
 Asimismo, conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el Artículo 151 de esta Constitución y, en su caso, fungir como órgano de acusación en los juicios políticos que contra éstos se instauren;
 
 XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente a los tribunales del Estado;
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 1936)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XXI. Nombrar y remover a los Magistrados del Supremo Tribunal de Justicia del Estado en los términos que establece la presente Constitución;
+XXI. Elegir y remover a los Magistrados del Supremo Tribunal de Justicia del Estado, en los términos que establece la presente Constitución;
 
-XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
 XXIII. Nombrar el Gobernador Interino en los casos a que se refiere el artículo 85 de esta Constitución, para que promulgue el Decreto convocando a elecciones en los términos y forma que dicha disposición constitucional establece y para que desempeñe el Poder Ejecutivo mientras se hace cargo del mismo el Gobernador Constitucional Substituto que resulte electo;
 
-XXIV. Comunicarse con el Ejecutivo por medio de Comisiones nombradas de su seno;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+XXIV. Comunicarse con los Poderes Ejecutivo y Judicial por medio de comisiones nombradas para tal efecto;
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 1997)</small>
 
@@ -739,7 +751,9 @@ XXVII. Facultar al Ejecutivo para que celebre arreglos amistosos relativos a lí
 
 XXVIII. Resolver las cuestiones de límites que se susciten entre Municipios del Estado, siempre que entre ellos no se hayan puesto de acuerdo;
 
-XXIX. Dar la ley sobre el número máximo de Ministros de los Cultos a que le faculta el artículo 130 de la Constitución General de la República;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+XXIX. Expedir la Ley sobre el número máximo de Ministros de Cultos a que le faculta el Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 1997)</small>
 
@@ -749,43 +763,49 @@ XXX. Expedir el Bando Solemne para dar a conocer en todo el Estado la declarator
 
 XXXI. Establecer la demarcación territorial de los Distritos Electorales Uninominales en que se divida el Estado;
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XXXII. Determinar lo que crea conveniente sobre la renuncia que sobre su cargo haga el Gobernador y calificar los impedimentos que no le permitan encargarse de su cometido, decretando nueva elección si la renuncia o impedimento ocurriere dentro de los tres primeros años del período;
+XXXII. Resolver sobre la renuncia del cargo de Gobernador y calificar los impedimentos para encargarse de su cometido, y convocar a nueva elección si la renuncia o impedimento ocurrieren dentro de los tres primeros años del período;
 
 XXXIII. Computar los votos y declarar electos Senadores al Congreso de la Unión, conforme a lo dispuesto en el artículo 56 de la Constitución General, a los ciudadanos que hayan obtenido mayoría absoluta de votos, erigiéndose para el efecto en Colegio Electoral;
 
-XXXIV. Solicitar del ciudadano Presidente de la República, conforme a lo dispuesto por el artículo 29 de la Constitución Federal, la suspención de las garantías que ella otorga a los habitantes del Estado, con excepción de las que aseguran la vida del hombre; pero deberá hacerlo a petición del Ejecutivo del Estado y solamente en los casos de invasión, pertubación grave de la paz pública y cualesquiera otro que pongan al Estado en grave peligro o conflicto. En los recesos del Congreso, si el caso fuere declarado urgentísimo por unanimidad de la Diputación Permanente, esta, llamando a los Diputados existentes en el lugar donde celebre sus sesiones, que tendrán voz y voto en las deliberaciones, podrá hacer la petición antes dicha, sin perjuicio de convocarlo inmediatamente para darle cuenta y para que resuelva lo conveniente;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+XXXIV. Solicitar del Ciudadano Presidente de la República, conforme a lo dispuesto por el Artículo 29 de la Constitución Política de los Estados Unidos Mexicanos, la suspensión de las garantías que ella otorga a los habitantes del Estado, con excepción de las que aseguran la vida del hombre; pero deberá hacerlo a petición del Ejecutivo del Estado y solamente en los casos de invasión, perturbación grave de la paz pública y cualesquier otro que pongan al Estado en grave peligro o conflicto. En los recesos del Congreso, si el caso fuere declarado urgentísimo por unanimidad de la Diputación Permanente, ésta, llamando a los Diputados existentes en el lugar donde celebre sus sesiones, que tendrán voz y voto en las deliberaciones, podrá hacer la petición antes dicha, sin perjuicio de convocarlo inmediatamente para darle cuenta y para que resuelva lo conveniente;
 
 XXXV. Decretar, en su caso, el modo de cubrir el contingente de hombres que corresponda al Estado para el Ejército de la Nación;
 
 XXXVI. (DEROGADA, P.O. 10 DE JUNIO DE 1995)
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador, a sus substitutos, a los Magistrados de Supremo Tribunal de Justicia y a todos los empleados de su nombramiento que conforme las leyes no deban otorgar la protesta de otro modo;
+XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador, y a quienes en su caso deban ejercer esta función, a los Magistrados del Supremo Tribunal de Justicia, de los Tribunales Electoral y Fiscal del Estado, al Titular del Organismo Protector de los Derecho (sic) Humanos, a los Consejeros Electorales del Consejo Estatal Electoral, y a los servidores públicos de su nombramiento que conforme a las Leyes deban rendirla;
 
 XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosperidad en general;
 
 XXXIX. Estimular la beneficencia pública, reglamentarla para que llene sus fines y para que estén debidamente asegurados sus bienes;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 1993)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XL. Conceder o negar al Gobernador, licencia temporal para separarse de su cargo por más de 30 días y permiso para salir del territorio del Estado por más de 15 días, y designar a la persona que deba suplirlo interinamente en los casos que así se requiera;
+XL. Resolver sobre la solicitud de licencia temporal que formule el Gobernador para separarse de su cargo por más de 30 días y de permiso para salir del territorio del Estado por más de 15 días, y designar a la persona que deba suplirlo interinamente en los casos que así se requiera;
 
 XLI. Autorizar al Ejecutivo para crear fuerzas de servicio temporal cuando lo demanden las necesidades del Estado;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 1928)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XLII. Conceder facultades extraordinarias al Ejecutivo en alguno o en todos los ramos de la Administración Pública cuando circunstancias apremiantes así lo exijan siendo necesario para ello los votos de cuatro de los Diputados presentes;
+XLII. Conceder facultades extraordinarias al Ejecutivo en alguno o en todos los ramos de la Administración Pública cuando circunstancias apremiantes así lo exijan, siendo necesario para ello el voto de las dos terceras partes de los miembros presentes del Congreso;
 
 XLIII. La facultad que le concede el artículo 24 de esta Constitución;
 
-XLIV. Concurrir a la reforma de la Constitución General de la República en los términos que establece el artículo 135 de la misma Constitución;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+XLIV. Concurrir a la reforma de la Constitución Política de los Estados Unidos Mexicanos en los términos que establece el Artículo 135 de la misma Constitución;
 
 XLV. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado;
 
-XLVI. Dirimir los conflictos que se susciten entre el Ejecutivo del Estado y el Tribunal Superior de Justicia, sólo cuando tengan carácter puramente administrativo;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+XLVI. Dirimir los conflictos que se susciten entre el Ejecutivo del Estado y el Supremo Tribunal de Justicia, sólo cuando tengan carácter puramente administrativo;
 
 XLVII. Dictar leyes tendentes a combatir con la mayor energía el alcoholismo;
 
@@ -797,7 +817,9 @@ XLVIII. Dictar leyes para organizar dentro o fuera del Estado pero dentro del te
 
 LIX. (sic) Convocar a elecciones en caso de muerte del Gobernador, o cuando por haber declarado que ha lugar a formación de causa en su contra, haya sido consignado y quede acéfalo el Poder Ejecutivo y siempre que la falta obsoluta (sic) ocurra durante los tres primeros años del período;
 
-L. Conocer y resolver sobre la renuncia que presenten los Magistrados del Supremo Tribunal de Justicia y de los impedimentos que tengan para desempeñar sus cargos, nombrando en su caso quien deba substituirlos;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+L. Conocer y resolver sobre la renuncia que presenten los Magistrados del Supremo Tribunal de Justicia y de los impedimentos que tengan para desempeñar sus cargos, nombrando en su caso quien deba sustituirlos;
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -805,7 +827,9 @@ LI. Expedir Leyes que regulen las relaciones laborales del Estado y los Municipi
 
 LII. (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
 
-LIII. Crear nuevas Municipalidades dentro de las existentes, variar sus límites y suprimir alguna o algunas de ellas;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+LIII.- Conceder por tiempo limitado privilegio a los inventores, introductores o perfeccionadores de algún arte o mejora útil;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
 
@@ -813,7 +837,7 @@ LIV. Resolver, en definitiva, sobre las medidas adoptadas por el Gobernador, en 
 
 > <small>(REFORMADA, P.O. 6 DE JUNIO DE 2001)</small>
 
-LV.- Legislar en materia de planeación sobre la formulación, instrumentación, control, evaluación y actualización del Plan Estatal de Desarrollo, cuidando que la planeación del desarrollo económico y social sea democrática y obligatoria para el Estado y los Municipios; así como legislar sobre los procesos de participación directa de la ciudadanía, y fijar las bases generales para que los Ayuntamientos establezcan los procesos en esta materia;
+LV. Legislar en materia de planeación sobre la formulación, instrumentación, control, evaluación y actualización del Plan Estatal de Desarrollo, cuidando que la planeación del desarrollo económico y social sea democrática y obligatoria para el Estado y los Municipios; así como legislar sobre los procesos de participación directa de la ciudadanía, y fijar las bases generales para que los Ayuntamientos establezcan los procesos en esta materia;
 
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 1989)</small>
 
@@ -823,9 +847,9 @@ LVI. Para expedir leyes que instituyan el Tribunal de lo Contencioso-Administrat
 
 LVII. Aprobar los nombramientos de los Magistrados del Tribunal de lo Contencioso-Administrativo y recibir la protesta de los mismos;
 
-> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 1989)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-LVIII. Ejercer las demás facultades que le señala esta Constitución, la General de la República u otras Leyes.
+LVIII. Ejercer las demás facultades que le señala la Constitución Política de los Estados Unidos Mexicanos, esta Constitución u otras Leyes.
 
 ###### Art. 59.
 
@@ -863,21 +887,25 @@ La Diputación Permanente funcionará durante los períodos de receso del Congre
 
 Son atribuciones de la Diputación Permanente:
 
-I. Velar sobre la observancia de la Constitución y de las leyes.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
+I.- Velar por la observancia de la Constitución y de las Leyes;
 
-II.- Dictaminar sobre todos los asuntos que quedaron pendientes al terminar el período de sesiones ordinarias del Congreso y sobre los asuntos que reciba y presentar estos dictámenes el día en que se abra el nuevo período de sesiones ordinarias.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+II.- Dictaminar sobre los asuntos que quedaren pendientes al terminar el Período de Sesiones Ordinarias del Congreso y sobre los que admita, y presentar estos Dictámenes en la primera sesión ordinaria del nuevo Período de Sesiones;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 III.- Convocar al Congreso a Sesiones Extraordinarias y, en su caso, para que conozca de las denuncias en contra de servidores públicos y proceda conforme a lo dispuesto en la fracción XIX del Artículo 58 de esta Constitución; el Congreso no prolongará sus sesiones por más tiempo que el indispensable para tratar el asunto para el que fuere convocado.
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-IV.- Circular la convocatoria si después de tres días de comunicada al Ejecutivo no la hubiere éste publicado.
+IV.- Circular la convocatoria si después de tres días de comunicada al Ejecutivo éste no la hubiere publicado;
 
-V. Admitir las renuncias de los altos funcionarios, mandando cubrir sus vacantes en la forma que la Constitución establece.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+V.- Admitir la renuncia de los servidores públicos que conforme a la ley deban presentarla ante el mismo, mandando cubrir sus vacantes en la forma que lo establece la Constitución;
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
 
@@ -887,7 +915,9 @@ VI. Ejercer las atribuciones que le señalan la Ley Orgánica del Poder Legislat
 
 VII.- Ejercer, en su caso, la facultad que al Congreso concede la Fracción XXX del Artículo 58 de ésta Constitución;
 
-VIII. Recibir la protesta de los funcionarios en los casos en que deban rendirla ante el Congreso.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+VIII.- Recibir la protesta de los servidores públicos en los casos en que deban rendirla ante el Congreso;
 
 IX. Resolver sobre las solicitudes de carácter urgente que se le presentaren; cuando la resolución exija la expedición de una ley o decreto, se concretará la Comisión a formular dictamen para dar cuenta a la Legislatura.
 
@@ -965,13 +995,15 @@ Ningún proyecto de ley que fuere desechado podrá volverse a presentar en el mi
 
 Los proyectos o Iniciativas adquirirán el carácter de Ley o Decreto cuando sean aprobados por la mayoría de los Diputados presentes y entrarán en vigor en la fecha que determine el Congreso, y en caso contrario a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
 #### SECCION II.
 
 DE LA INICIATIVA Y FORMACION DE LAS LEYES.
 
 ###### Art. 69.
 
-Las leyes o decretos aprobados por el Congreso, se remitirán al Ejecutivo, quien los mandará publicar y circular para su cumplimiento, si obtuviesen su sanción, y en caso contrario los devolverá dentro de los primeros diez días útiles después de haberlos recibido, con las observaciones que estime conveniente, las cuales serán tomadas en consideración, examinadas y discutidas por el Congreso.
+Las Leyes o decretos aprobados por el Congreso se remitirán al Ejecutivo; otorgada su sanción los mandará publicar y circular para su cumplimiento; en caso contrario los devolverá dentro de los primeros diez días hábiles después de haberlos recibido, con las observaciones que estime convenientes, las cuales serán tomadas en consideración, examinadas y discutidas por el Congreso.
 
 ###### Art. 70.
 
@@ -999,11 +1031,11 @@ DE LAS FACULTADES DEL CONGRESO.
 
 Si se aprobare por segunda vez el proyecto, se devolverá al Gobernador para su promulgación inmediata.
 
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 1986)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 74.
 
-En la reforma o derogación de las Leyes, Decretos o Acuerdos, se observarán los mismos trámites establecidos para su formación.
+En la reforma, adición, derogación o abrogación de las Leyes, Decretos o Acuerdos, se observarán los mismos trámites establecidos para su formación.
 
 ###### Art. 75.
 
@@ -1035,15 +1067,15 @@ El Poder Ejecutivo se deposita en un ciudadano que se denominará "Gobernador Co
 
 Para ser Gobernador se requiere:
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-I.- Que el candidato esté en pleno goce de los derechos de ciudadanía, de acuerdo con los artículos 34, 35, 36 de la Constitución de los Estados Unidos Mexicanos y que no haya ocurrido en su perjuicio ninguno de los motivos de pérdida ni de suspensión de derechos a que se refieren los artículos 37 y 38 de la misma Constitución.
+I.- Que el candidato esté en pleno goce de los derechos de ciudadanía de acuerdo con los Artículos 34, 35 y 36 de la Constitución Política de los Estados Unidos Mexicanos y que no haya ocurrido en su perjuicio ninguno de los motivos de pérdida ni de suspensión de derechos a que se refieren los Artículos 37 y 38 de la misma Constitución;
 
-II.- Ser mexicano de nacimiento.
+II.- Ser mexicano de nacimiento;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-III.- Tener vecindad en el Estado, adquirida por lo menos 5 años antes del día de la elección.
+III.- Ser nativo del Estado, o con residencia efectiva en él no menor de 5 años inmediatamente anteriores al día de la elección;
 
 IV.- Ser mayor de treinta años de edad el día de la elección; y
 
@@ -1103,13 +1135,13 @@ La elección de Gobernador prefiere a cualquiera otra. Sólo es renunciable este
 
 Si no hubiere habido elección de Gobernador, si se hubiere hecho esta y expedida la declaratoria por el Consejo Estatal Electoral para el día 31 de diciembre del año de la elección, pero el electo no se presentare a tomar posesión de su cargo, cesará sin embargo el anterior, y el Poder Ejecutivo se depositará interinamente en el ciudadano que nombre el Congreso o la Diputación Permanente, aquel o ésta, en su caso, en Sesión Permanente y Secreta por 17 del número total de sus miembros, si se tratare del Congreso, o por la mayoría si se tratare de la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 84.
 
-En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar a formación de causa ya sea por violación a la presente Constitución o por delito del orden común, o ya por violación a la Constitución Federal y a las leyes que de ella emanen, en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los 3 primeros años del período, el Congreso Local, constituído en Sesión Permanente y Secreta, nombrará por el voto de cuando menos 17 del número total de sus miembros, un Gobernador Interino que promulgará el Decreto que se expida conforme a la Fracción XLIX del artículo 58 de esta Constitución.
+En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar a formación de causa, ya sea por violación a la presente Constitución o por delito del orden común, o ya por violación a la Constitución Política de los Estados Unidos Mexicanos y a las leyes que de ella emanen, en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los 3 primeros años del período, el Congreso Local, constituído en Sesión Permanente y Secreta, nombrará por el voto de la mayoría de sus miembros, un Gobernador Interino que promulgará el Decreto que se expida conforme a la fracción XLIX del Artículo 58 de esta Constitución.
 
-El Congreso convocará a elecciones dentro de los diez días siguientes a la toma de posesión del Gobernador Interino nombrado. El Gobernador que resulte electo durará todo el tiempo que falte para completar el período. Si los hechos tuvieren lugar dentro de los últimos tres años del período, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en funciones de Gobernador hasta terminar el período. Si el Congreso está en receso, la Comisión Permanente, por el voto de la mayoría de sus miembros, en los términos que se indican convocará desde luego al mismo Congreso a sesiones extraordinarias para que éste ratifique o revoque el nombramiento hecho por la Permanente. En caso de que el H. Congreso revoque dicho nombramiento, procederá a designar Gobernador Interino para que se haga cargo del Poder Ejecutivo mientras toma posesión el Gobernador Substituto que resulte electo.
+El Congreso convocará a elecciones dentro de los diez días siguientes a la toma de posesión del Gobernador Interino nombrado. El Gobernador que resulte electo durará todo el tiempo que falte para completar el período. Si los hechos tuvieren lugar dentro de los últimos tres años de éste, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en sus funciones de Gobernador hasta terminar el período. Si el Congreso está en receso, la Comisión Permanente, por el voto de la mayoría de sus miembros, en los términos que se indican, convocará desde luego al mismo Congreso a Sesiones Extraordinarias para que éste ratifique o revoque el nombramiento hecho por la Permanente. En caso de que el Congreso revoque dicho nombramiento, procederá a designar Gobernador Interino, quien ejercerá sus funciones hasta en tanto tome posesión el Gobernador Substituto que resulte electo.
 
 ###### Art. 85.
 
@@ -1141,37 +1173,49 @@ El Gobernador al tomar posesión de su cargo, prestará ante el Congreso y en su
 
 Las facultades y obligaciones del Gobernador son las siguientes:
 
-I. En el orden federal, las que determinen la Constitución y las Leyes Federales.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+I.- En el orden federal, las que determinen la Constitución Política de los Estados Unidos Mexicanos y las Leyes Federales;
 
 > <small>(REFORMADA, P.O. 14 DE MARZO DE 2001)</small>
 
 II.- Cuidar de la seguridad y tranquilidad del Estado según la Constitución y las leyes que al caso resultan aplicables;
 
-III. Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos, procurando que se haga efectiva la responsabilidad en que aquella incurriere.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+III.- Impedir los abusos de la fuerza pública contra los ciudadanos y los pueblos, procurando que se haga efectiva la responsabilidad en que aquella incurriere;
 
 IV. Informar a la Secretaría de Gobernación sobre la conveniencia o inconveniencia de permitir se dediquen nuevos locales a cultos religiosos.
 
 V. Promulgar y mandar publicar, cumplir y hacer cumplir la Constitución del Estado, las leyes, decretos y acuerdos del Congreso, y proveer en la esfera administrativa cuanto fuere necesario a su exacta observancia, expidiendo para el efecto los reglamentos respectivos.
 
-VI. Cuidar en los distintos ramos de la Administración de que los caudales públicos estén siempre asegurados y se recauden e inviertan con arreglo a las leyes.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1999)</small>
+VI.- Cuidar en los distintos ramos de la Administración que los caudales públicos estén asegurados y se recauden e inviertan con arreglo a las Leyes;
 
-VII.- Presentar al Congreso la Iniciativa de Ley de Ingresos del Estado, el proyecto de Presupuesto de Egresos del Estado, así como las cuentas y comprobantes de recaudación y aplicación de los fondos públicos del Estado en los términos que dispone esta Constitución;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-VIII. Disponer de la Guardia Nacional y Policía Rural del Estado según la ley.
+VII.- Presentar al Congreso la Iniciativa de Ley de Ingresos y el proyecto de Presupuesto de Egresos del Estado, así como las cuentas y comprobantes de recaudación y aplicación de los fondos públicos del Estado en los términos que dispone esta Constitución;
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1989)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-IX.- Nombrar y remover libremente a los empleados de confianza a que se refiere la Ley Reglamentaria que rige para los empleados del Poder Ejecutivo y a los demás, cuyo nombramiento y remoción no se encomiende a otra autoridad, los efectuará en los términos de la citada ley. Asimismo, nombrar y aceptar las renuncias de los Magistrados del Tribunal de lo Contencioso-Administrativo del Estado y concederles las licencias que excedan del plazo previsto en la Ley de la Materia;
+VIII.- Ejercer la facultad prevista en la fracción XV del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
 
-X. Pasar al Procurador General todos los asuntos que deban ventilarse dentro de los Tribunales, para que ejercite ante ellos las atribuciones de su ministerio.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
+IX.- Nombrar y remover libremente a los servidores públicos de confianza a que se refiere la ley respectiva y a los demás cuyo nombramiento y remoción no se encomiende a otra autoridad. Asimismo, nombrar y aceptar las renuncias de los Magistrados del Tribunal de lo Contencioso-Administrativo del Estado y concederles las licencias que excedan del plazo previsto en la Ley de la materia;
 
-XI.- Cuidar de que la Justicia se administre pronta y cumplidamente por los Tribunales y Juzgados del Estado y de que se ejecuten sus sentencias.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XII. Iniciar ante el Congreso las leyes y decretos que estime convenientes para el mejoramiento de los ramos de la Administración Pública del Estado y pedirle que inicie ante el Congreso de la Unión lo que sea de la competencia federal.
+X.- Turnar al Procurador General todos los asuntos que deban ventilarse dentro de los Tribunales para que ejercite ante ellos las atribuciones de su Ministerio;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+XI.- Resolver gubernativamente los asuntos que pongan las Leyes en el ámbito de sus atribuciones;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+XII.- Iniciar ante el Congreso las Leyes y los Decretos que estime convenientes para el mejoramiento de las funciones del Poder Público del Estado y solicitar a éste órgano que inicie ante el Congreso de la Unión lo que sea de la competencia federal;
 
 XIII. Proponer a la Diputación Permanente la convocación del Congreso a sesiones extraordinarias.
 
@@ -1189,9 +1233,13 @@ XVI.- Cuidar que la justicia administrativa se aplique de manera pronta, complet
 
 XVII. Celebrar convenios con los Gobernadores de los Estados limítrofes, para la entrada y paso de sus fuerzas de seguridad por el territorio del Estado y recíprocamente, dando cuenta al Congreso.
 
-XVIII. Celebrar, con la aprobación del Congreso del Estado y General de la Nación, tratados amistosos con los Estados vecinos para el arreglo de límites.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XIX. Convocar a los miembros del Congreso para el desempeño de sus funciones, cuando por algún incidente no hubiere Diputación Permanente.
+XVIII.- Celebrar con la aprobación del Congreso del Estado y de la Unión, tratados amistosos con los Estados vecinos para el arreglo de límites;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+XIX.- Convocar a los miembros del Congreso para el desempeño de sus funciones, cuando por alguna causa no hubiere Diputación Permanente;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -1203,7 +1251,9 @@ XXI.- Celebrar, en los términos de ley, con el Ejecutivo Federal, las dependenc
 
 XXII.- (DEROGADA, P.O. 14 DE MARZO DE 2001)
 
-XXIII. Visitar durante su período los Municipios del Estado, dictar las providencias que conforme a sus facultades fueren oportunas, y dar cuenta al Congreso con el resultado de cada visita.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+XXIII.- Visitar durante su período los Municipios del Estado, dictar las providencias que conforme a sus facultades fueren oportunas para su mejor desarrollo y dar cuenta al Congreso, cuando así fuere necesario;
 
 XXIV. Dictar las disposiciones necesarias para combatir los juegos prohibidos.
 
@@ -1211,17 +1261,21 @@ XXV. Expedir los Fiats de Notarios y Títulos profesionales con arreglo a las le
 
 XXVI. Conceder indulto de las penas en los términos y con los requisitos que expresa la ley.
 
-XXVII. Organizar la Secretaría General de Gobierno y demás Departamentos, sin alterar los presupuestos.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+XXVII.- Organizar las Dependencias y Entidades de la Administración Pública Estatal, sin alterar los presupuestos, salvo que lo apruebe el Congreso;
 
-XXVIII.- Castigar correccionalmente a los que le falten al respeto o desobedezcan sus disposiciones como gobernante con arresto o multa, en los términos del Artículo 19 de esta Constitución.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+XXVIII.- Sancionar a quienes le falten al respeto o infrinjan los reglamentos gubernativos con arresto o multa, en los términos del Artículo 19 de esta Constitución;
 
 XXIX. Nombrar uno o más apoderados para asuntos judiciales y administratiivos (sic), dentro o fuera del Estado.
 
 XXX. Concurrir al Congreso cuando lo juzgue conveniente para sostener alguna iniciativa presentada por el Ejecutivo, o enviar en su representación al Secretario General de Gobierno o a la persona que designe para el mismo objeto, o para informar cuando lo solicite el Congreso, pudiendo rendir tales informes por escrito.
 
-XXXI. Pedir al Congreso, o a la Comisión Permanente, si aquel no estuviere reunido, las facultades extraordinarias que sea necesarias para restablecer el orden en el Estado, cuando por causa de invasión o de conmoción interior se hubiere alterado. Del uso que haya hecho de tales facultades dará cuenta detallada al Congreso.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+XXXI.- Pedir al Congreso, o a la Diputación Permanente, sí aquel no estuviere reunido, las facultades extraordinarias que sean necesarias para restablecer el orden en el Estado, cuando por causa de invasión o de conmoción interior se hubiere alterado. Del uso que haya hecho de tales facultades dará cuenta detallada al Congreso;
 
 XXXII. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a estos el auxilio que necesiten para el ejercicio expedito de sus funciones.
 
@@ -1231,15 +1285,17 @@ XXXIII.- Concurrir a la apertura de los Períodos de Sesiones del Congreso, pudi
 
 XXXIV. Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad.
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XXXV.- Conceder licencias a los funcionarios y empleados o suspenderlos de conformidad con lo expresado en la Ley Reglamentaria relativa.
+XXXV.- Conceder licencias a los servidores públicos o suspenderlos de conformidad con lo expresado en la Ley Reglamentaria relativa;
 
 XXXVI. Tomar en caso de invasión exterior o conmoción interior armada, las medidas extraordinarias que fueren necesarias para salvar el Estado, sujetándolas lo más pronto posible a la aprobación del Congreso o de la Diputación Permanente.
 
 XXXVII. En caso de sublevación o de trastorno interior en el Estado, excitar, de acuerdo con el Congreso o la Diputación Permanente, a los Poderes Federales a que ministren la protección debida, si los elementos de que dispone el Ejecutivo del Estado no fueren bastantes para restablecer el orden.
 
-XXXVIII. Recibir la protesta de ley a los funcionarios y empleados de nombramiento del Ejecutivo, cuando no estuviere determinado otra cosa en la ley.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+XXXVIII.- Recibir la protesta de Ley a los servidores públicos de nombramiento del Ejecutivo, cuando no estuviere determinada otra cosa en la Ley;
 
 XXXIX. Acordar la expropiación por causas de utilidad pública con los requisitos de ley.
 
@@ -1247,9 +1303,9 @@ XL. Excitar a los Ayuntamientos en los casos que a su juicio sea necesario, para
 
 XLI. Conceder pensiones dentro o fuera del Estado a los estudiantes que acrediten que no pueden sostenerse de por sí.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XLII.- Dar cuenta al Congreso para que resuelva sobre los acuerdos de los Ayuntamientos que fueren contrarios a la Constitución General de la República, a la Constitución local o cualquiera otra ley, o cuando lesionen los intereses municipales.
+XLII.- Dar cuenta al Congreso para que resuelva sobre los acuerdos de los Ayuntamientos que fueren contrarios a la Constitución Política de los Estados Unidos Mexicanos, a la Constitución local o cualquiera otra Ley, o cuando lesionen los intereses municipales;
 
 > <small>(REFORMADA, P.O. 6 DE JUNIO DE 2001)</small>
 
@@ -1271,7 +1327,9 @@ Se prohibe al Gobernador:
 
 I. Negarse a sancionar y publicar las leyes y decretos que expida el Congreso, en los términos que prescribe esta Constitución.
 
-II. Ingerirse directa o indirectamente en las funciones del Poder Legislativo, excepto el caso de iniciar alguna ley o hacer observaciones a las que se remitan para su sanción;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+II.- Intervenir directa o indirectamente en las funciones del Poder Legislativo, excepto el caso de iniciar alguna Ley o hacer observaciones a las que se remitan para su sanción;
 
 III. Decretar la prisión de alguna persona o privarla de su libertad, sino cuando el bien y seguridad del Estado lo exijan, y aun entonces deberá ponerla en libertad o a disposición de la autoridad competente en el preciso término de treinta y seis horas, salvo lo prevenido en la fracción XXXII del artículo anterior.
 
@@ -1307,7 +1365,9 @@ Las Secretarías que integren la Administración Pública Estatal conforme al p�
 
 Para ser Secretario de Despacho del Poder Ejecutivo se requiere ser ciudadano mexicano por nacimiento, estar en ejercicio de sus derechos y tener treinta años cumplidos.
 
-Los Secretarios del Ejecutivo darán cuenta al Congreso del estado que guardan sus respectivos ramos, previa solicitud de éste.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+Los Secretarios de Despacho del Poder Ejecutivo darán cuenta al Congreso del estado que guardan sus respectivos ramos, previa solicitud de éste.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
@@ -1335,9 +1395,11 @@ V.- No haber sido condenado por delito infamante. La calificación la hace el H.
 
 Los Decretos, Reglamentos, Acuerdos, Circulares, Ordenes y disposiciones que dicte el Gobernador, así como los documentos que suscriba en ejercicio de sus funciones constitucionales, deben ser firmados por el Secretario General, sin este requisito no surtirán efectos legales.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
 ###### Art. 96.
 
-El Secretario General de Gobierno no podrá desempeñar cargo, empleo ni comisión oficiales remunerados salvo en el Ramo de la Educación.
+El Secretario General de Gobierno no podrá desempeñar otro cargo, empleo ni comisión oficiales, remunerados, salvo en el Ramo de Educación.
 
 ###### Art. 97.
 
@@ -1635,7 +1697,7 @@ DE LA PROCURACION DE JUSTICIA Y PROTECCION DE LOS DERECHOS HUMANOS.
 
 El Congreso en ambos períodos de sesiones, se ocupará del estudio, discusión y votación de las Iniciativas de ley, decreto y acuerdo que se le presenten; de la resolución de los asuntos que le corresponden conforme a la Constitución y a las Leyes; de examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos correspondientes al año anterior y que serán remitidas en la segunda quincena del mes de marzo, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos; si se actuó de conformidad con las leyes de la materia; si los gastos están justificados y si ha lugar a exigir alguna responsabilidad.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 46.
 
@@ -1675,7 +1737,7 @@ REFORMADO, P.O. 25 DE DICIEMBRE DE 1993)
 
 ###### Art. 127.
 
-En cumplimiento de lo mandado por el Artículo 20, fracción IX, de la Constitución Federal, se establece en el Estado la Defensoría de Oficio, que se encargará de defender ante cualquier autoridad a los inculpados, de intervenir como abogados patronos de las partes en materia civil y de aconsejar, en este ramo, a quien así lo solicite.
+En cumplimiento a lo dispuesto en el Artículo 20 fracción IX de la Constitución Política de los Estados Unidos Mexicanos, se establece en el Estado la Defensoría de Oficio, que se encargará de defender ante cualquier autoridad a los inculpados, de intervenir como Abogados Patronos de las partes en materia civil y de aconsejar, en este ramo, a quien así lo solicite.
 
 ###### Art. 128.
 
@@ -1689,7 +1751,7 @@ Una ley reglamentará la organización de la Defensoría de Oficio y los requisi
 
 ### CAPITULO UNICO. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 130.
 
@@ -1841,19 +1903,21 @@ La educación que impartan el Estado y los Municipios será ajena a cualquier do
 
 La educación que imparta directamente el Estado en todos sus niveles será gratuita y obligatoria la básica. Los habitantes de la Entidad tendrán las mismas oportunidades de acceso al Sistema Educativo Estatal.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 140.
 
-El sistema educativo estatal se constituye por la educación que impartan el Estado, los Municipios o sus organismos descentralizados, la Universidad Autónoma de Tamaulipas y los particulares a quienes se autorice a impartir educación o se les reconozca validez oficial de estudios, mediante el cumplimiento de los requisitos y condiciones que establezca la Ley reglamentaria, ciñéndose a lo prescrito en el Artículo Tercero de la Constitución Federal y sujetándose siempre a la vigilancia e inspección oficiales.
+El Sistema Educativo Estatal se constituye por la educación que impartan el Estado, los Municipios o sus organismos descentralizados, la Universidad Autónoma de Tamaulipas y los particulares a quienes se autorice a impartir educación o se les reconozca validez oficial de estudios, mediante el cumplimiento de los requisitos y condiciones que establezca la Ley reglamentaria, ciñéndose a lo prescrito en el Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y sujetándose siempre a la vigilancia e inspección oficiales.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
 
 En todo tiempo el Ejecutivo del Estado podrá, de acuerdo con lo dispuesto en la Ley reglamentaria, otorgar, negar, revocar o retirar la autorización o el reconocimiento de validez oficial a los estudios efectuados en los planteles particulares.
 
-> <small>(REFORMADO, P.O.26 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 141.
 
-La dirección técnica de las Escuelas Oficiales del Estado, de sus Municipios y organismos descentralizados de éstos, con excepción de los que la Ley les otorgue autonomía, estará a cargo del Ejecutivo por conducto de la Secretaría del ramo, la que además ejecutará la vigilancia e inspección oficiales de las escuelas particulares del Sistema Educativo Estatal.
+La dirección técnica de las Escuelas Oficiales del Estado, de sus Municipios y organismos descentralizados de éstos, con excepción de los que la Ley les otorgue autonomía, estará a cargo del Ejecutivo por conducto de una dependencia que se denominará Secretaría de Educación, Cultura y Deporte, la que además ejecutará la vigilancia e inspección oficiales de las escuelas particulares del Sistema Educativo Estatal.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
 
@@ -1903,7 +1967,7 @@ El Gobernador vigilará la conservación, mejoramiento y amplio desarrollo de la
 
 ###### Art. 148.
 
-Para el cumplimiento de las disposiciones contenidas en el Artículo 123 Constitucional y las leyes reglamentarias correspondientes, el Ejecutivo contará con una Dependencia cuya estructura, funciones y naturaleza jurídica, se determinarán de acuerdo a las necesidades y requerimientos que la realidad social imponga.
+Para el cumplimiento de las disposiciones contenidas en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y las leyes reglamentarias correspondientes, el Ejecutivo contará con una Dependencia cuya estructura, funciones y naturaleza jurídica, se determinarán de acuerdo a las necesidades y requerimientos que la realidad social imponga.
 
 ## TITULO XI
 
@@ -1913,11 +1977,13 @@ DISPOSICIONES GENERALES.
 
 ### CAPITULO IV. Del Trabajo y Previsión Social
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 149.
 
-Para los efectos de las responsabilidades a que se refiere este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los funcionarios y empleados, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública del Estado y de los Municipios, quienes serán responsables por los actos u omisiones en que incurren en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que se refiere este Título, se reputarán como Servidores Públicos a los representantes de elección popular, a los miembros del Poder Judicial y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Poder Público del Estado y de los Municipios, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por delitos graves del orden común.
 
@@ -2037,11 +2103,11 @@ La ley señalará los plazos de prescripción de la responsabilidad administrati
 
 ### CAPITULO UNICO.. De las responsabilidades de los Servidores Públicos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 156.
 
-En el caso de desaparición de Poderes previsto por la fracción V del artículo 76 de la Constitución Federal, serán llamados para que se encarguen provisionalmente del Ejecutivo, según el siguiente orden de preferencia.
+En el caso de desaparición de Poderes previsto por la fracción V del Artículo 76 de la Constitución Política de los Estados Unidos Mexicanos, serán llamados para que se encarguen provisionalmente del Ejecutivo, según el siguiente orden de preferencia:
 
 I. El último Secretario General de Gobierno, siempre que sea tamaulipeco por nacimiento.
 
@@ -2053,27 +2119,33 @@ III. El último presidente del Congreso, y a falta de este los anteriores, prefi
 
 El Gobernador Provisional convocará a elecciones, no pudiendo ser electo para el período a que se convoca.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
 ###### Art. 158.
 
-Todos los funcionarios y empleados públicos al entrar en funciones, deberán rendir protesta de guardar y hacer guardar la Constitución Federal y la del Estado, obligándose a desempeñar leal y patrióticamente el cargo conferido.
+Todos los servidores públicos al entrar en funciones, deberán rendir protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y la del Estado, obligándose a desempeñar leal y patrióticamente el cargo conferido.
 
 ###### Art. 159.
 
 Ningún ciudadano podrá desempeñar dos cargos de elección popular en el Estado o Municipio, debiendo elegir el que quisiere desempeñar; pero una vez que hubiere hecho la elección, perderá el derecho de desempeñar el otro.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
 ###### Art. 160.
 
-Ningún empleado o funcionario público percibirá más de un sueldo, excepción hechas de los cargos de Instrucción pública y Beneficencia.
+Ningún servidor público percibirá más de un sueldo, excepción hecha de los cargos de Instrucción Pública y Beneficencia.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 161.
 
-Los empleados y funcionarios que manejen fondos públicos, caucionarán su manejo a juicio del Ejecutivo.
+Los servidores públicos que manejen fondos públicos, caucionarán su manejo a juicio del Ejecutivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 162.
 
-La Secretaría del ramo, no hará pago alguno que no haya autorizado con la firma del Gobernador y del Secretario General de Gobierno.
+Toda erogación que se realice con cargo al Presupuesto de Egresos del Estado se hará conforme a lo dispuesto en la Ley Orgánica de la Administración Pública y en el propio Presupuesto.
 
 Los Tesoreros Municipales sólo harán pagos obedeciendo órdenes firmadas por el Presidente Municipal y el Secretario del Ayuntamiento. El Tesorero o empleado que desobedeciere esta regla, será castigado con la pena de destitución, sin perjuicio de consignarlo a la autoridad judicial competente.
 
@@ -2088,6 +2160,8 @@ En todas las Escuelas de Instrucción Primaria Elemental, Superior y Normal, ser
 ## TITULO XIII
 
 ### CAPITULO I. Prevenciones generales
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 165.
 
@@ -2981,11 +3055,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
-###### ARTICULO UNICO.
+P.O. 19 DE DICIEMBRE DE 2001.
 
-Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+###### ARTICULO UNICO
 
-D.O.F. 23 DE DICIEMBRE DE 1986.
+- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
