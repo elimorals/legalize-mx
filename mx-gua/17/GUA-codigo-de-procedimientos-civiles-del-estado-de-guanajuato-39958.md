@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1991-08-23"
+last_updated: "1992-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1992.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -1139,11 +1139,11 @@ Para el examen de los testigos que no residan en el lugar del negocio, se librar
 
 Las preguntas y repreguntas deben estar concebidas en términos claros y precisos; han de ser conducentes a la cuestión debatida; se procurará que en una sola no se comprenda más de un hecho y no hechos o circunstancias diferentes, y pueden ser en forma afirmativa o inquisitiva.
 
-> <small>(F. DE E., P.O. 8 DE MARZO DE 1934)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
 
 ###### Art. 179.
 
-Después de tomarse al testigo la protesta de conducirse con verdad y advertirlo de la pena en que incurre con falsedad, se hará constar su nombre, edad, estado, lugar de su residencia, ocupación, domicilio, si es pariente consanguíneo o afín de alguno de los litigantes y en qué grado; si tiene interés directo en el pleito, o en otro semejante y si es amigo íntimo o enemigo de alguna de las partes. A continuación se procederá al examen.
+Abierta la diligencia de desahogo de la prueba testimonial y presentados los testigos, se procederá a asentar en Autos, la forma como éstos se identificaron. Después de tomarse al testigo la protesta de conducirse con verdad y de advertirlo de la pena en que incurre el que se produce con falsedad, se hará constar su nombre, edad, estado, lugar de su residencia, ocupación, domicilio, si es pariente consaguíneo o afín de alguno de los litigantes y en qué grado; si tiene interés directo en el pleito, o en otro semejante y si es amigo íntimo o enemigo de algunas de las partes. A continuación se procederá al examen.
 
 ###### Art. 180.
 
@@ -1165,9 +1165,11 @@ El tribunal tendrá la más amplia facultad para hacer a los testigos y a las pa
 
 Si el testigo no habla el castellano, rendirá su declaración por medio de intérprete, que será nombrado por el tribunal. Cuando el testigo lo pidiere, además de asentarse su declaración en español, podrá escribirse en su propio idioma, por él o por el intérprete. Este último deberá, antes de desempeñar su cargo, protestar hacerlo lealmente, haciéndose constar esta circunstancia.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
+
 ###### Art. 185.
 
-Cada respuesta del testigo se hará constar en autos, en forma que al mismo tiempo se comprenda en ella el sentido o términos de la pregunta formulada. Sólo cuando expresamente lo pida un parte, respecto a preguntas especiales, puede el tribunal permitir que primero se escriba textualmente la pregunta y a continuación la respuesta.
+Cada pregunta que se formula el testigo y la respuesta de éste, se harán constar en Autos.
 
 ###### Art. 186.
 
@@ -1197,9 +1199,13 @@ Al valorar la prueba testimonial, el tribunal apreciará las justificaciones rel
 
 Fotografías, escritos o notas taquigráficas, y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
+
 ###### Art. 192.
 
-Para acreditar hechos o circunstancias en relación con el negocio que se ventila, pueden las partes presentar fotografías, escritos o notas taquigráficas, y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia.
+Para acreditar hechos o circunstancias en relación con el negocio que se ventila, pueden las partes presentar fotografías, notas taquigráficas, y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia.
+
+El desahogo de estas pruebas se realizará con citación a la parte contraria en día y hora que para tal efecto señale el Juez y se levantará constancia pormenorizada de tal acto, pudiendo las partes hacerse acompañar de peritos si lo estiman pertinente para que asistan al desahogo de las mismas.
 
 ###### Art. 193.
 
@@ -1763,9 +1769,11 @@ De la entrega se asentará razón en autos.
 
 Tiempo y lugar en que han de verificarse los actos judiciales.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
+
 ###### Art. 287.
 
-Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, menos los domingos, y aquellos que la ley declare festivos. Son horas hábiles las comprendidas entre las ocho y las diecinueve.
+Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, menos los sábados y domingos, así como aquellos que la Ley declare festivos. Son horas hábiles las comprendidas entre las ocho y las diecinueve.
 
 ###### Art. 288.
 
@@ -1803,11 +1811,13 @@ La falta de la razón no surte más efectos que los de la responsabilidad del om
 
 Concluídos los términos fijados a las partes, se tendrá por perdido el derecho que dentro de ellos debió ejercitarse, sin necesidad de acuse de rebeldía.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
+
 ###### Art. 295.
 
-Cuando la práctica de un acto judicial o el ejercicio de un derecho, dentro de un procedimiento judicial, deba efectuarse fuera del lugar en que radique el negocio, y se deba fijar un término para ello o esté fijado por la ley, se ampliará el término en un día más por cada cuarenta kilómetros de distancia o fracción que exceda de la mitad, entre el lugar de radicación y en el que deba tener lugar el acto o ejercitarse el derecho. La distancia se calculará sobre la vía de transportes más usual que sea más breve en tiempo.
+Cuando la práctica de un acto judicial o el ejercicio de un derecho dentro de un procedimiento judicial, deba efectuarse fuera del lugar en que radique el negocio, y se deba fijar un término para ello o esté fijado por la Ley, se ampliará el término en un día más por cada cien kilómetros de distancia o fracción que exceda de la mitad, entre el lugar de radicación y en el que deba tener lugar el acto o ejercitarse el derecho. La distancia se calculará sobre la vía de transportes más usual que sea más breve en tiempo.
 
-Se exceptúan de lo dispuesto en el párrafo anterior los casos en que, atenta la distancia, se señale expresamente, para los actos indicados, un término por la ley.
+Se exceptúan de lo dispuesto en el párrafo anterior los casos en que, atenta la distancia, se señale expresamente, para los actos indicados, un término por la Ley.
 
 ###### Art. 296.
 
@@ -3121,21 +3131,29 @@ Si los bienes no estuvieren valuados anteriormente, o si los interesados no hubi
 
 Cuando el ejecutado no hubiere hecho el nombramiento de perito valuador en el término legal, puede el actor solicitar que el juez nombre perito en rebeldía o que se pida certificado a la Oficina de Contribuciones o al Catastro, respecto al valor de la finca, y éste servirá de base para el remate; pero si en dichas oficinas no hubiere la constancia respectiva, el juez, sin nueva promoción, hará el nombramiento de perito.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
+
 ###### Art. 514.
 
-No podrá procederse al remate de bienes raíces, sin que previamente se haya pedido al Registro Público correspondiente un certificado total de los gravámenes que pesen sobre ellos, ni sin que se haya citado a los acreedores que aparezcan de dicho certificado. Si en autos obrare ya otro certificado, sólo se pedirá al Registro el relativo al período transcurrido desde la fecha de aquél hasta la en que se decretó la venta.
+No podrá procederse al avalúo de bienes raíces, sin que previamente se haya pedido al Registro Público correspondiente un certificado total de los gravámenes que pesen sobre ellos, ni sin que se haya citado a los acreedores que aparezcan de dicho certificado. Si en Autos obrare ya otro certificado, sólo se pedirá al Registro el relativo al periodo transcurrido desde la fecha de aquél hasta la en que se decretó la Venta.
+
+Los acreedores citados, tendrán derecho nombrar a su costa un perito, que, con los nombrados por el ejecutante y el ejecutado, practique el avalúo de la cosa; igual derecho tendrán para proponer un perito para el caso de desacuerdo. Para la designación, presentación, aceptación, protesta y emisión del dictamen se concede el término de diez días a partir de la citación.
 
 ###### Art. 515.
 
 Los acreedores citados conforme al artículo anterior y los que se presenten con certificados de Registro posteriores tendrán derecho de intervenir en el acto del remate, pudiendo hacer al juez las observaciones que estimen oportunas para garantizar sus derechos y apelar del auto en que se finque el remate; pero sin que su intervención pueda dar lugar a que el juez mande suspender la almoneda.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
+
 ###### Art. 516.
 
-Valuados los bienes, se anunciará su venta por dos veces, de cinco en cinco días publicándose edictos en el Periódico Oficial del Estado y en la tabla de avisos o puerta del juzgado, en los términos señalados. Si los bienes estuvieren ubicados en diversos Partidos Judiciales, en todos estos se publicarán los edictos, en la puerta del Juzgado correspondiente.
+Valuados los bienes, se anunciará su venta por una sola vez, publicándose el Edicto en el Periódico Oficial del Estado, en el periódico de mayor circulación de la localidad y en la Tabla de Avisos o Puerta del Juzgado; en los términos señalados. Si los bienes estuvieren ubicados en diversos partidos judiciales, en todos éstos se publicará el Edicto, en la Puerta del Juzgado correspondiente.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
 
 ###### Art. 517.
 
-Si en la primera almoneda no hubiere postura legal, se citará a otra, para dentro de los quince días siguientes, mandando que los edictos correspondientes se publique por una sola vez, en la forma antes indicada, y de manera que entre la publicación o fijación del edicto y la fecha del remate, medie un término que no sea menor de cinco días. En la almoneda se tendrá como precio el primitivo, con deducción de un diez por ciento.
+Si en la primera Almoneda no hubiere postura legal, se citará a otra, para dentro de los quince días siguientes, mandando que el Edicto correspondiente se publique por una sola vez, en la forma antes indicada, y de manera que entre la publicación o fijación del Edicto y la fecha del Remate, medie un término que no sea menor de cinco días. En la Almoneda se tendrá como precio el primitivo, con deducción de un diez por ciento.
 
 ###### Art. 518.
 
@@ -3257,21 +3275,19 @@ Cuando, al exigirse la deuda, convengan el ejecutante y el ejecutado en que aqu�
 
 En los casos de hipoteca o prenda en que el deudor haya convenido, en el contrato, el precio que servirá de base para el remate de los bienes hipotecados o empeñados, no se hará avalúo judicial, sino que el convenido será la base para la primer almoneda.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
+
 ###### Art. 545.
 
-Cuando los bienes cuyo remate se haya decretado fueren muebles, se observará lo siguiente:
+Cuando los bienes cuyo Remate se haya decretado fueren muebles, se observará lo siguiente:
 
-I.- Se efectuará su venta, siempre de contado, por medio de corredor o casa de comercio que expenda objetos o mercancías similares, haciéndoles saber el precio, para la busca de compradores, que será igual a las dos terceras partes del valor fijado por peritos o por convenio de las partes;
+I.- Valuados los bienes, se anunciara su Venta por una vez durante el término de nueve días mediante Edicto que se pondrá en la Tabla de Avisos del Juzgado, y por una sola vez en uno de los periódicos de mayor circulación en la localidad.
 
-II.- Si pasados diez días de puestos a la venta, no se hubiere logrado ésta, el juez ordenará un rebaja del diez por ciento del valor fijado primitivamente, y, conforme a ella, comunicará al corredor o casa de comercio el nuevo precio de venta, y así sucesivamente cada diez días, hasta obtener la realización;
+II.- Si la Venta no se logra, sin deducción alguna del precio, los bienes podrán venderse o adjudicarse en cualquier momento.
 
-III.- Efectuada la venta, el corredor o casa de comercio entregará los bienes al comprador, otorgándosele la factura correspondiente, que firmará el ejecutado o el juez en su rebeldía;
+III.- Quedando firme el Remate, el ejecutado deberá entregar la factura, y demás documentos relativos y en caso de rebeldía el Tribunal procederá a su otorgamiento.
 
-IV.- En cualquier tiempo, después de ordenada la venta, puede el ejecutante pedir la adjudicación de los bienes por precio que tuvieren señalado al hacer la petición, eligiendo los que basten para cubrir su crédito según lo sentenciado;
-
-V.- Los gastos de corretaje o comisión serán de cuenta de deudor, y se deducirá preferentemente del precio de venta que se obtenga; y
-
-VI.- En todo lo demás se estará a las disposiciones de este Capítulo.
+IV.- En todo lo demás se estará a las disposiciones de este Capítulo.
 
 # LIBRO TERCERO.
 
@@ -3647,11 +3663,13 @@ En la junta prevenida por el artículo 591 podrán los herederos nombrar interve
 
 Intestados.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
+
 ###### Art. 600.
 
 Al promoverse un intestado justificará el denunciante el parentesco o lazo, si existiere, y que lo hubiere unido con el autor de la herencia, en el grado por el que pueda considerarse heredero legítimo.
 
-Debe el denunciante indicar los nombres y domicilio de los parientes en línea recta y del cónyuge supérstite, o, a falta de ellos, los parientes colaterales dentro del cuarto grado. De ser posible se presentarán las partidas del Registro Civil que acrediten la relación.
+Debe el denunciante indicar los nombres y domicilio de los parientes en línea recta y del cónyuge supérstite, o, a falta de ellos, los parientes colaterales dentro del sexto grado. De ser posible se presentarán las partidas del Registro Civil que acrediten la relación.
 
 ###### Art. 601.
 
@@ -3671,9 +3689,11 @@ Practicadas las diligencias antes dichas, haya o no pedimento del Ministerio Pú
 
 Este auto será apelable en el efecto devolutivo.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
+
 ###### Art. 605.
 
-El mismo procedimiento establecido en los tres artículos que preceden se empleará para la declaración de herederos ab-intestato, cuando lo solicitaren ascendientes del finado o el cónyuge supérstite.
+El mismo procedimiento establecido en los tres artículos que preceden se empleará para la declaración de herederos ab-intestato, cuando lo solicitaren ascendientes del finado o el cónyuge supérstite, concubino o concubina.
 
 ###### Art. 606.
 
@@ -3683,9 +3703,11 @@ Hecha la declaración de herederos, de acuerdo con los artículos precedentes, e
 
 Si ninguno de los pretendientes hubiere sido declarado heredero, continuará como albacea judicial el interventor que se hubiere nombrado antes o que, en su defecto, se nombre.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 1992)</small>
+
 ###### Art. 608.
 
-Si la declaración de herederos la solicitaren parientes colaterales dentro del cuarto grado, el juez, después de recibir los justificantes del entroncamiento y la información testimonial del artículo 602, mandará fijar avisos en los sitios públicos del lugar del juicio y en los lugares del fallecimiento y origen del finado, anunciando su muerte sin testar y los nombres y grado de parentesco de los que reclamen la herencia, y llamando a los que se crean con igual o mejor derecho para que comparezcan en el Juzgado a reclamarlo, dentro de cuarenta días, contados a partir de la fecha en que se haya hecho la última fijación, cualquiera que sea, de los indicados, el lugar en que ésta se haya verificado.
+Si la declaración de herederos la solicitaren parientes colaterales dentro del sexto grado, el Juez después de recibir los justificantes del entroncamiento y la información testimonial del artículo 602, mandará fijar Avisos en los sitios públicos del lugar del Juicio y en los lugares del fallecimiento y origen del finado, anunciando su muerte sin testar y los nombres y grado de parentesco de los que reclamen la herencia, y llamando a los que se crean con igual o mejor derecho para que comparezcan en el Juzgado a reclamarlo, dentro de cuarenta días, contados a partir de la fecha en que se haya hecho la ultima fijación, cualquiera que sea, de las indicadas, el lugar en que esta se haya verificado.
 
 El juez prudentemente podrá ampliar el plazo anterior cuando, por el origen del difunto u otras circunstancias, se presuma que podrá haber parientes fuera de la República.
 
@@ -3767,9 +3789,11 @@ El perito o peritos designados valuará todos los bienes inventariados.
 
 Los títulos y acciones que se coticen en la bolsa de comercio podrán valuarse por informes de la misma. No será necesario tasar los bienes cuyos precios consten en instrumento público, cuya fecha esté comprendida dentro del año inmediato anterior.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
+
 ###### Art. 625.
 
-Practicados el inventario y avalúo, serán agregados a los autos y se pondrán de manifiesto en la secretaría por cinco días, para que los interesados puedan examinarlos, citándoseles, al efecto, por correo certificado.
+El albacea deberá adjuntar al inventario los títulos de propiedad cuando se listen bienes inmuebles propiedad del de Cujus; practicados el inventario y avalúo, serán agregados a los Autos y se pondrán de manifiesto en la Secretaría por cinco días, para que los interesados puedan examinarlos, citándoseles, al efecto, por correo certificado.
 
 ###### Art. 626.
 
@@ -4181,15 +4205,17 @@ De la resolución que niegue la declaración solicitada pueden apelar el promove
 
 Testamento militar.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
+
 ###### Art. 693.
 
-Luego que el Tribunal reciba, por conducto del Secretario de Guerra, el parte a que se refiere el Código Civil, citará a los testigos que estuvieren en el lugar, y, respecto a los ausentes, mandará exhorto al tribunal del lugar donde se hallen.
+Luego que el Tribunal reciba, por conducto del Secretario de la Defensa Nacional, el (sic) parte a que se refiere el Código Civil, citará a los testigos que estuvieren en el lugar, y, respecto a los ausentes, mandará exhorto al Tribunal del lugar donde se hallen.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
 
 ###### Art. 694.
 
-De la declaración judicial se remitirá copia autorizada al Secretario de Guerra.
-
-En lo demás se observará lo dispuesto en el capítulo que antecede.
+De la declaración judicial se remitirá copia autorizada al Secretario de la Defensa Nacional. De lo demás se observará lo dispuesto en el Capítulo que antecede.
 
 ### CAPITULO XIII.
 
@@ -4679,11 +4705,13 @@ Si el acreedor fuere desconocido, se le citará por medio de avisos que se publi
 
 Si el acreedor estuviere ausente o fuere incapaz, será citado su representante legítimo, si lo hubiere; en caso contrario, será representado por el Ministerio Público.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 1992)</small>
 
 ###### Art. 755.
 
-Si el acreedor no comparece en el día, hora y lugar designados, o no envía mandatario con autorización bastante para que reciba la cosa, o si compareciendo rehusan recibirla, el Juez extenderá certificación en que conste la no comparecencia del acreedor, la falta del mandatario o el acto de haberse rehusado uno u otro a recibir la cosa; con lo anterior concluye el ofrecimiento del pago.
+Si el acreedor no comparece en el día, hora y lugar designados, o no envía mandatario con autorización bastante para que reciba la cosa, o si compareciendo rehusan recibirla, el Juez extenderá certificación en que consten la no comparecencia del acreedor, la falta del mandatario o el acto de haberse rehusado uno u otro a recibir la cosa, con lo anterior concluye la medida preparatoria del ofrecimiento del pago.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1983)</small>
 
 Si se trata de prestaciones periódicas y no se ha demostrado la consignación, los subsecuentes ofrecimientos del pago se tramitarán en el mismo expediente, haciéndolo saber simplemente por lista al acreedor.
 
@@ -4914,6 +4942,12 @@ P.O. 29 DE MARZO DE 1991.
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 23 DE AGOSTO DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE AGOSTO DE 1992.
 
 ###### ARTICULO UNICO.
 
