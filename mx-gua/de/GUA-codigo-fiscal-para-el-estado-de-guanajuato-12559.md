@@ -4,7 +4,7 @@ identifier: "GUA-codigo-fiscal-para-el-estado-de-guanajuato-12559"
 country: "mx"
 rank: "codigo"
 publication_date: "1978-12-31"
-last_updated: "1987-11-20"
+last_updated: "1993-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO FISCAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 1993.
 
 Código publicado en la Segunda Parte Anexo del Periódico Oficial del Estado de Guanajuato, el domingo 31 de diciembre de 1978.
 
@@ -169,27 +169,57 @@ Son Autoridades Fiscales del Estado, para los efectos de este Código y demás d
 
 I.- El Gobernador del Estado;
 
-II.- El Secretario de Administración Financiera;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1993)</small>
 
-III.- El Director General de Ingresos;
+II.- El Secretario de Planeación y Finanzas;
 
-IV.- El Director General de Fiscalización;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1993)</small>
 
-V.- El Director General de Egresos;
+III.- El Subsecretario de Planeación y Finanzas;
 
-VI.- El Director de Administración Fiscal;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1993)</small>
 
-VII.- El Director de Catastro e Impuesto a la Propiedad Raíz;
+IV.- El Subsecretario de Administración;
 
-VIII.- El Director de Recaudación y Oficinas Recaudadoras;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1993)</small>
 
-IX.- El Director de Auditoría Fiscal;
+V.- El Director General de Ingresos;
 
-X.- El Director de Servicios Jurídicos;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1993)</small>
 
-XI.- Los Jefes de las Oficinas Recaudadoras del Estado;
+VI.- El Director General de Auditoría Fiscal;
 
-XII.- Los Auditores e Inspectores "de la Secretaría de Administración Financiera.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1993)</small>
+
+VII.- El Director General de Asuntos Jurídicos;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1993)</small>
+
+VIII.- El Director de Ingresos y Difusión Fiscal;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1993)</small>
+
+IX.- El Director de Catastro e Impuestos a la Propiedad Raíz;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1993)</small>
+
+X.- El Director de Recaudación;
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 1993)</small>
+
+XI.- El Director Regional de Auditoría Fiscal "A";
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 1993)</small>
+
+XII.- El Director Regional de Auditoría Fiscal "B";
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1993)</small>
+
+XIII.- Los Jefes de Oficinas Recaudadoras del Estado; y,
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1993)</small>
+
+XIV.- Los Auditores e Inspectores de la Secretaría de Planeación y Finanzas.
 
 #### SECCION SEGUNDA. Facultades
 
@@ -2216,3 +2246,9 @@ P.O. 20 DE NOVIEMBRE DE 1987.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE JULIO DE 1993.
+
+###### ARTICULO UNICO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR EL CUARTO DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
