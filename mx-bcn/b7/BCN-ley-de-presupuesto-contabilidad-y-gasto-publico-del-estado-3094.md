@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-3094
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-20"
-last_updated: "1997-12-31"
+last_updated: "1998-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 1998.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de septiembre de 1992.
 
@@ -286,6 +286,12 @@ Las demás Entidades manejarán sus fondos y efectuarán sus pagos a través de 
 ###### ARTICULO 36.
 
 El ejercicio del gasto público comprende el manejo y aplicación de los recursos así como su justificación, comprobación y pago, con base en el Presupuesto de Egresos aprobado, para lo cual, la Secretaría de Finanzas del Estado, las Tesorerías Municipales o su equivalente en las Entidades, llevarán el registro de los compromisos establecidos o de control presupuestal, recabando la opinión de la Secretaría de Planeación y Presupuesto o su equivalente, cuando la disponibilidad presupuestal no sea suficiente.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
+
+###### ARTICULO 36 Bis.
+
+Las erogaciones del gasto público que realicen las Entidades y Dependencias, podrán cubrirse en efectivo, tratándose de gastos menores que se realicen a través de fondos revolventes y gastos diversos sujetos a comprobación, siempre que éstos se apeguen a la normatividad específica y que los recursos para estos casos se provean mediante cheques nominativos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -654,3 +660,7 @@ DECRETO NUMERO 124.
 ###### ARTICULO UNICO.
 
 Las presentes reformas y adiciones entrarán en vigor el día primero de enero de 1998.
+
+P.O. 25 DE SEPTIEMBRE DE 1998.
+
+UNICO.- La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
