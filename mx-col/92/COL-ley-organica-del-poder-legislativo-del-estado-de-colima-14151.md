@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2000-09-30"
+last_updated: "2000-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2000.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -331,7 +331,9 @@ b).- Se pasará lista de presentes de los Diputados electos. La junta previa se 
 
 c).- Acto continuo, los Diputados electos elegirán por mayoría simple una Directiva Provisional que se integrará por un Presidente y dos Secretarios.
 
-En caso de que no se lograre el voto simple para elegir la Directiva Provisional, después de tres rondas de votación, fungirá como Presidente el Diputado designado por los Diputados electos pertenecientes al mismo partido que haya obtenido, por sí solo, el mayor número de curules, y como Secretarios, los Diputados designados por los Diputados electos pertenecientes a los partidos que hayan obtenido el segundo y tercer lugar en el número de curules. Si los Diputados pertenecientes a los partidos, no hicieren uso de su derecho a designar a los Secretarios, el Presidente de la Directiva Provisional les requerirá a hacerlo y, de rehusarse, los nombrará de entre los presentes; esto último hará en caso de que los Diputados de los demás partidos políticos no asistan a la junta previa.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+En caso de que no se lograre la mayoría simple para elegir la Directiva Provisional, después de tres rondas de votación, fungirá como Presidente el Diputado asignado por los Diputados Electos pertenecientes al mismo partido que haya obtenido, por si solo, el mayor número de curules y como Secretarios, los designados por los Diputados electos pertenecientes a los partidos que hayan obtenido el segundo y tercer lugar en el número de curules. Si los Diputados pertenecientes a estos partidos, no hicieren uso de su derecho de designar a los Secretarios, el Presidente de la Directiva Provisional los conminará a hacerlo y de rehusarse, los nombrará de entre los presentes; esto último también lo hará en el caso de que los Diputados de los demás partidos no asistan a la junta previa.
 
 En caso de que varios partidos hayan obtenido igual número de curules, y aún persistiera el empate, escogerá primero el que haya obtenido mayor número de votos en la elección de Diputados;
 
@@ -495,9 +497,11 @@ XXIII.- Motivar a las comisiones para que presenten sus dictámenes en los tiemp
 
 XXIV.- Las demás que se deriven de la Constitución, esta Ley, su Reglamento o de las disposiciones o acuerdos que emita el Congreso.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 43.
 
-El Presidente de la Directiva podrá ser removido por el Congreso cuando de manera reiterada quebrante las disposiciones de la ley. Para que la remoción proceda, se requiere del voto de las dos terceras partes de los Diputados presentes. El Vicepresidente cubrirá la Presidencia por el resto del período.
+El Presidente de la Directiva podrá ser removido por el Congreso cuando de manera reiterada infrinja las disposiciones de esta ley o su reglamento. Para que la remoción proceda, se requiere la mayoría calificada. El Vicepresidente cubrirá la Presidencia por el resto del período.
 
 ### CAPITULO IV
 
@@ -575,9 +579,9 @@ I.- Elaborar un plan de trabajo y presentarlo al Congreso para su aprobación, d
 
 II.- Proponer a la Asamblea la designación del Oficial Mayor y del Contador Mayor de Hacienda, así como pedir su remoción y vigilar el funcionamiento de ambas dependencias;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
-III.- Proponer a la Asamblea el nombramiento y remoción de los directores, funcionarios y demás empleados de confianza del Poder Legislativo;
+III.- Aprobar el nombramiento y remoción de los directores, servidores públicos y demás empleados del Poder Legislativo;
 
 IV.- Proponer a la Asamblea, la integración de las comisiones permanentes y especiales y, en su caso, a quienes deban sustituirlos cuando proceda;
 
@@ -735,6 +739,10 @@ II.- La Oficialía Mayor.
 
 La Contaduría Mayor de Hacienda es el órgano técnico auxiliar del Congreso con autonomía y jurisdicción en materia de fiscalización de la Hacienda Pública que le faculte la Ley expedida por este H. Congreso del Estado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+Será aprobado por el Congreso, a propuesta de la Comisión de Gobierno y por mayoría absoluta.
+
 Tiene a su cargo la fiscalización, control y evaluación de la hacienda pública, la revisión de las cuentas públicas del Gobierno del Estado y de los Ayuntamientos, así como de practicar auditorías a los organismos públicos descentralizados, entidades paraestatales o paramunicipales y, en general, a los organismos que administren o reciban fondos o valores públicos, además de las atribuciones que le otorgue: la Constitución, esta Ley, su Reglamento, las disposiciones que dicte el propio Congreso y los demás ordenamientos legales.
 
 ###### ARTICULO 62.
@@ -744,6 +752,10 @@ Las facultades, atribuciones y organización de la Contaduría Mayor de Hacienda
 ###### ARTICULO 63.
 
 La Oficialía Mayor es el órgano técnico administrativo dependiente y auxiliar del Congreso, para la atención y realización de los asuntos legislativos del mismo. Tendrá las funciones que le señale el Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+Será aprobado por el Congreso, a propuesta de la Comisión de Gobierno y por mayoría absoluta.
 
 Para ser Oficial Mayor se requiere: ser mexicano por nacimiento, mayor de 25 años, estar en pleno ejercicio de sus derechos, profesionista titulado, preferentemente Licenciado en Derecho y ser de reconocida capacidad y probidad en el ejercicio de su profesión.
 
@@ -865,9 +877,11 @@ h).- Se imponga alguna presea o reconocimiento instituidos por el Congreso.
 
 Cuando el Congreso actúe erigido en jurado de acusación o declaración de procedencia en los términos de la fracción XXXVI del artículo 33 de la Constitución, las sesiones serán ordinarias o extraordinarias, según el caso.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 81.
 
-Para que puedan instalarse validamente las sesiones del Congreso, será necesario que concurran, cuando menos, la mitad más uno del número total de Diputados que integran el Congreso.
+Para que puedan instalarse validamente las sesiones del Congreso, será necesario que concurran, cuando menos, la mayoría absoluta.
 
 ###### ARTICULO 82.
 
@@ -973,17 +987,21 @@ DE LAS VOTACIONES.
 
 Las resoluciones del Congreso se tomarán por mayoría de votos de los Diputados.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 95.
 
 La mayoría de votos puede ser simple, absoluta o calificada, entendiéndose por:
 
-I.- Mayoría simple, la correspondiente a la mitad más uno de los Diputados presentes;
+I.- Mayoría simple, la correspondiente a más de la mitad de los Diputados presentes;
 
-II.- Mayoría absoluta, la correspondiente a la mitad mas uno de los Diputados que integran el Congreso; y
+I (sic).- Mayoría absoluta, la correspondiente a más de la mitad de los Diputados que integran el Congreso; y
 
-III.- Mayoría calificada, la correspondiente a las dos terceras partes de los Diputados integrantes del Congreso.
+III.- Mayoría calificada, la correspondiente a cuando menos las dos terceras partes de los Diputados integrantes del Congreso.
 
-Cuando en la Constitución o en una ley se señale una mayoría diferente, se estará a lo que dispongan dichos ordenamientos.
+Cuando en la Constitución o en una ley se señale una mayoría diferente, se estará a lo que dispongan dichos ordenamientos. En todos los casos, cuando la mayoría resulte en fracciones, se estará al entero inmediato superior.
+
+Cuando en la presente ley o en su reglamento no se señale expresamente el tipo de mayoría requerida, se entenderá que deberá ser absoluta.
 
 ###### ARTICULO 96.
 
@@ -1130,3 +1148,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 30 DE SEPTIEMBRE DE 2000.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE NOVIEMBRE DE 2000.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
