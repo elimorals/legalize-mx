@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2002-08-29"
+last_updated: "2003-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2003.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -649,9 +649,11 @@ IV. La falta definitiva del Delegado Municipal será cubierta por el Secretario 
 
 ### Capítulo Unico
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2003)</small>
+
 ###### ARTICULO 44.
 
-Los Concejos Municipales designados por el Congreso del Estado en los casos que establece la Constitución Política del Estado, se formarán por un número de concejales igual al de regidores que conforme a esta Ley debe tener el municipio de que se trate.
+Los concejos municipales designados por el Congreso del Estado en los casos que establece la Constitución Política del Estado, se formarán por un número de concejales igual al de los miembros del ayuntamiento que conforme a esta Ley debe tener el municipio de que se trate.
 
 Los concejales designados deberán reunir los requisitos que establece la Constitución del Estado para ser miembro de un Ayuntamiento.
 
@@ -2020,3 +2022,9 @@ QUINTO. Por única vez, para efectos de lo establecido por el artículo 70 fracc
 SEXTO. Respecto del Presupuesto de Egresos de cada uno de los ayuntamientos para el ejercicio fiscal de 2004, éste será aprobado por el Concejo Municipal respectivo, sin perjuicio de que el ayuntamiento que inicie el 1 de enero de 2004, lo modifique si así lo estima necesario, durante los primeros 15 días de ese año.
 
 SEPTIMO. En lo concerniente a la presentación de declaración patrimonial de inicio y conclusión que a los concejales corresponde, para efectos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, por única vez el plazo de presentación será de 15 días naturales siguientes al inicio y conclusión del cargo.
+
+P.O. 30 DE AGOSTO DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
