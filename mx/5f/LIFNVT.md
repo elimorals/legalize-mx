@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "1981-11-13"
+last_updated: "1982-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE NOVIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 1982.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 24 de abril de 1972.
 
@@ -290,7 +290,9 @@ I.- Proceder a inscribirse e inscribir a sus trabajadores en el Instituto y dar 
 
 II.- Efectuar las aportaciones al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en los términos de la Ley Federal del Trabajo, de la presente Ley y su Reglamentos, y
 
-III.- Hacer los descuentos a sus trabajadores en sus salarios, conforme a lo previsto en los artículos 97 y 110 de la Ley Federal del Trabajo, que se destinen al pago de abonos para cubrir préstamos otorgados por el Instituto, así como enterar el importe de dichos descuentos en la forma y términos que establecen esta Ley y sus Reglamentos.
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1982)</small>
+
+III.- Hacer los descuentos a sus trabajadores en sus salarios, conforme a lo previsto en los artículos 97 y 110 de la Ley Federal del Trabajo, que se destinen al pago de abonos para cubrir préstamos otorgados por el Instituto y a la Administración, operación y mantenimiento de los conjuntos habitacionales, así como enterar el importe de dichos descuentos en la forma y términos que establecen esta Ley y sus Reglamentos.
 
 ###### ARTICULO 30.
 
@@ -312,9 +314,11 @@ En el caso de que el patrón no cumpla con la obligación de inscribir al trabaj
 
 El Instituto podrá inscribir a los trabajadores sin previa gestión de éstos o de los patrones.
 
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1982)</small>
+
 ###### ARTICULO 34.
 
-El trabajador tendrá derecho, en todo momento, a solicitar y obtener información directa del Instituto o a través del patrón al que preste sus servicios, sobre el monto de las aportaciones a su favor, así como de los descuentos hechos a su salario para cubrir abonos de capital e intereses correspondientes a los créditos que le haya otorgado el Instituto.
+El trabajador tendrá derecho, en todo momento, a solicitar y obtener información directa del Instituto a través del patrón al que preste sus servicios, sobre el monto de las aportaciones a su favor, así como de los descuentos a que se refiere la fracción III del artículo 29 de esta Ley.
 
 Al terminarse la relación laboral, el patrón deberá entregar al trabajador una constancia de la clave de su registro.
 
@@ -322,9 +326,11 @@ Al terminarse la relación laboral, el patrón deberá entregar al trabajador un
 
 Las aportaciones señaladas en la fracción II del artículo 29, deberán hacerse bimestralmente, a más tardar el día 15 o al día siguiente hábil si aquél no lo fuere, del mes subsecuente al bimestre al que correspondan. Estas aportaciones constituyen depósitos de dinero sin causa de intereses en favor de los trabajadores. La aplicación y entrega de los mismos, se hará conforme a lo dispuesto por el artículo 141 y demás disposiciones aplicables de la Ley Federal del Trabajo y de la presente Ley.
 
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1982)</small>
+
 ###### ARTICULO 36.
 
-Los depósitos constituidos en favor de los trabajadores, estarán exentos de toda clase de impuestos.
+Los depósitos constituidos a favor de los trabajadores, así como la cantidad adicional a que se refiere la fracción IV del artículo 141 de la Ley Federal del Trabajo y demás disposiciones aplicables de la presente Ley, estarán exentos de toda clase de impuestos.
 
 ###### ARTICULO 37.
 
@@ -357,6 +363,18 @@ d) A falta de viuda o viudo, concurrirán con las personas señaladas en las dos
 e) Los hijos que no dependan económicamente del trabajador, y
 
 f) Los ascendientes que no dependan económicamente del trabajador.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1982)</small>
+
+En los casos a que se refiere el presente artículo los trabajadores o sus beneficiarios recibirán una cantidad adicional igual a los depósitos que tengan constituidos en el Instituto.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1982)</small>
+
+Cuando los trabajadores hubieren recibido el crédito del Instituto, la devolución de los depósitos se hará con deducción de las cantidades que se hubieren aplicado al pago de dicho crédito en los términos de las fracciones I y II del artículo 141 de la Ley Federal del Trabajo, por lo que la cantidad adicional referida en el párrafo anterior será igual al monto del saldo resultante.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1982)</small>
+
+Para la devolución de los depósitos y cantidades adicionales bastará la presentación de solicitud por escrito, acompañada de las pruebas relacionadas a la petición.
 
 ###### ARTICULO 41.
 
@@ -506,11 +524,19 @@ Comete delito equiparable al de defraudación fiscal en los términos del Códig
 
 Se reputará como fraude y se sancionará como tal, en los términos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, el obtener los créditos o recibir los depósitos a que esta ley se refiere, sin tener derecho a ello, mediante engaño, simulación o sustitución de persona.
 
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1982)</small>
+
 ###### ARTICULO 59.
 
-El trabajador que deje de estar sujeto a una relación laboral, conforme a lo previsto en el Artículo 41 de esta Ley, y por quien el patrón o los patrones respectivos hayan hecho aportaciones, tiene derecho a optar por la devolución de sus depósitos o por la continuación de sus derechos y obligaciones con el Instituto. En este último caso, la base para sus aportaciones será el salario promedio que hubiere percibido durante los últimos seis meses.
+El trabajador que tenga 50 años cumplidos o más de edad y que deje de estar sujeto a una relación laboral conforme a lo previsto en el artículo 41 de esta Ley, y por quien el patrón o los patrones hayan hecho aportaciones, tiene derecho a optar por la devolución de sus depósitos o por la continuación de sus derechos y obligaciones con el Instituto.
 
-El derecho a continuar dentro del régimen del Instituto se pierde si no se ejercita mediante solicitud por escrito, presentada de acuerdo con lo que establezca el Reglamento correspondiente dentro de un plazo de seis meses contados a partir de la fecha en que, conforme a lo dispuesto por el Artículo 41, se considere que ha dejado de existir la relación laboral respectiva.
+Los trabajadores que no reúnan el requisito de la edad tendrán derecho a:
+
+a) La devolución de sus depósitos a partir de que cumplan cincuenta años previa comprobación de que han dejado de estar sujetos a una relación laboral conforme a lo previsto en el artículo 41 de esta Ley y no se encuentren inscritos en el régimen de continuación voluntaria.
+
+b) Continuar voluntariamente dentro del régimen del Instituto cuando se llenen los requisitos establecidos en el reglamento correspondiente.
+
+El derecho a continuar dentro del régimen del Instituto se pierde si no se ejercita mediante solicitud por escrito, presentada de acuerdo con lo que establezca el reglamento correspondiente, dentro de un plazo de seis meses contados a partir de la fecha en que, conforme a lo dispuesto por el artículo 41, se considere que ha dejado de existir la relación laboral respectiva.
 
 ###### ARTICULO 60.
 
@@ -522,9 +548,11 @@ b) Por declaración expresa al Instituto, firmada por el trabajador, y
 
 c) Porque el trabajador deje de constituir los depósitos, durante un periodo de seis meses.
 
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1982)</small>
+
 ###### ARTICULO 61.
 
-A los trabajadores que se jubilen se les aplicará en lo conducente, y conforme a lo que establezca el Reglamento respectivo, lo dispuesto en los artículos 59 y 60. En el caso de que opten por permanecer voluntariamente dentro del régimen del Instituto, las instituciones o patrones que les cubran el importe de su jubilación, tendrán la obligación de retener y enterar el monto de las aportaciones y descuentos a cargo del trabajador jubilado, con sujeción a las normas que en materia de aportaciones y entregas de descuentos establece esta Ley.
+Los trabajadores que se jubilen y por quienes el patrón o patrones respectivos hayan hecho aportaciones, tienen derecho a optar por la devolución de sus depósitos y de la cantidad adicional a que se refiere el artículo 40 de esta Ley, o por la continuación de sus derechos y obligaciones con el Instituto. A dichos trabajadores se les aplicará en lo conducente y conforme a lo que establezca el Reglamento respectivo, lo dispuesto en los artículos 59 y 60. En el caso de que opten por permanecer voluntariamente dentro del régimen del Instituto, las instituciones o patrones que les cubran el importe de su jubilación, tendrán la obligación de retener y enterar el monto de las aportaciones y descuentos a cargo del trabajador jubilado, con sujeción a las normas que en materia de aportaciones y entregas de descuentos establece esta Ley.
 
 ###### ARTICULO 62.
 
@@ -534,9 +562,11 @@ Las relaciones de trabajo entre el Instituto y su personal, se regirán por las 
 
 Los remanentes que obtenga el Instituto en sus operaciones, no estarán sujetos al Impuesto Sobre la Renta ni a la participación de los trabajadores en las utilidades de las empresas.
 
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1982)</small>
+
 ###### ARTICULO 64.
 
-El Instituto no podrá intervenir en la administración, operación o mantenimiento de conjuntos habitacionales, ni sufragar los gastos correspondientes a estos conceptos.
+El Instituto no podrá intervenir en la administración, operación o mantenimiento de conjuntos habitacionales, ni sufragar los gastos correspondientes a estos conceptos. Sin embargo, actuará como receptor del descuento del 1% del salario conforme a lo dispuesto en los artículos 97 y 110 de la Ley Federal del Trabajo y 29 fracción III de esta Ley, que se destinará a la administración, operación y mantenimiento de los conjuntos habitaciones (sic) en los términos que fije el Reglamento correspondiente. Para este efecto, el Instituto pondrá a disposición de la persona física o moral que corresponda conforme a dicho Reglamento las cantidades recaudadas.
 
 ###### ARTICULO 65.
 
@@ -554,9 +584,11 @@ II.- La Comisión Nacional Bancaria y de Seguros, aprobará los sistemas de orga
 
 En virtud de lo anterior, no son aplicables al Instituto del Fondo Nacional para la Vivienda de los Trabajadores, las disposiciones de la Ley para el control por parte del Gobierno Federal, de los Organismos Descentralizados y Empresas de Participación Estatal.
 
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1982)</small>
+
 ###### ARTICULO 67.
 
-Los depósitos constituidos en favor de los trabajadores en los términos del Artículo 123 Apartado A Fracción XII de la Constitución Política de los Estados Unidos Mexicanos y del Título Cuarto, Capítulo III de la Ley Federal del Trabajo, no podrán ser objeto de cesión o embargo, excepto cuando se trate de los créditos otorgados por el Instituto a los trabajadores.
+Los depósitos constituidos en favor de los trabajadores en los términos del artículo 123, Apartado A, fracción XII, de la Constitución Política de los Estados Unidos Mexicanos y del título cuarto, capítulo III, de la Ley Federal del Trabajo, así como la cantidad adicional a que se refiere dicho título, no podrán ser objeto de cesión o embargo, excepto cuando se trate de los créditos otorgados por el Instituto a los trabajadores.
 
 > <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1981)</small>
 
@@ -601,3 +633,21 @@ El presente Decreto entrará en vigor noventa días después de su publicación 
 D.O.F. 13 DE NOVIEMBRE DE 1981.
 
 UNICO.- Este decreto entrará en vigor a partir del día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 7 DE ENERO DE 1982.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+La obligación de enterar las aportaciones y los descuentos a que se refiere el artículo 29, conforme a la base salarial establecida en el artículo 143 de la Ley Federal del Trabajo, empezará a correr a partir del bimestre siguiente a aquel en que entre en vigor el presente decreto.
+
+###### ARTICULO TERCERO.
+
+Las solicitudes de devolución de fondo de ahorro que se hubieren presentado con anterioridad a la entrada en vigor de este decreto se tramitarán y resolverán conforme a las disposiciones vigentes en la fecha de la presentación de la solicitud correspondiente.
+
+###### ARTICULO CUARTO.
+
+Las solicitudes para la continuación voluntaria dentro del régimen del INFONAVIT que se hubieren presentado con anterioridad a la entrada en vigor de este decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en la fecha de presentación de la solicitud correspondiente.
