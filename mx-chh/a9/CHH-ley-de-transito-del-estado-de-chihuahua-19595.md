@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transito-del-estado-de-chihuahua-19595"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-31"
-last_updated: "2002-11-30"
+last_updated: "2003-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSITO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2003.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 31 de enero de 2001.
 
@@ -849,7 +849,9 @@ B) El daño que se hubiere causado o pudiere causarse en propiedad ajena;
 
 C) Que se haya perturbado la normalidad en la circulación de los vehículos; y,
 
-D) La reincidencia en que incurra el infractor.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2003)</small>
+
+D) Los antecedentes de tránsito en los últimos doce meses del conductor en la comisión de infracciones de la misma naturaleza.
 
 ###### Artículo 81.
 
@@ -1008,3 +1010,7 @@ El presente decreto entrará en vigor a los sesenta días contados a partir del 
 P.O. 30 DE NOVIEMBRE DE 2002.
 
 ÚNICO.- El presente decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE MARZO DE 2003.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
