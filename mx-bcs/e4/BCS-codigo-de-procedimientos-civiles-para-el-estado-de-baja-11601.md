@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-civiles-para-el-estado-de-baja-11601"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-05-23"
-last_updated: "1997-05-23"
+last_updated: "2002-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE ENERO DE 2002.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 23 de mayo de 1997.
 
@@ -5801,13 +5801,21 @@ VI. De confirmarse en su caso, por el Tribunal Superior de Justicia la resoluci�
 
 Todos los problemas inherentes a la familia se consideran de orden público, por constituir aquélla la base de la integración de la sociedad.
 
-El juez de lo familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores y de alimentos, decretando las medidas que tiendan a preservarla y a proteger a sus miembros.
+> <small>(REFORMADO, B.O. 7 DE ENERO DE 2002)</small>
+
+El juez de lo familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de violencia intrafamiliar, menores y de alimentos decretando las medidas necesarias que tiendan a preservarla y proteger a sus miembros.
 
 En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
 
+> <small>(REFORMADO, B.O. 7 DE ENERO DE 2002)</small>
+
 ###### Artículo 928.
 
-No se requieren formalidades especiales para acudir ante el juez de lo familiar cuando se solicite la declaración, preservación o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, de calificación de impedimentos de matrimonio o de las diferencias que surjan entre marido y mujer sobre administración de los bienes comunes, educación de los hijos, oposición de maridos, padres y tutores y en general todas las cuestiones familiares similares que reclamen la intervención judicial.
+No se requieren formalidades especiales para acudir ante el juez de lo familiar cuando se solicite la declaración, preservación o constitución de un derecho o se alegue la violación o el desconocimiento de una obligación, tratándose de alimentos, de calificación de impedimentos de matrimonio o de las diferencias que surjan entre marido y mujer sobre la administración de los bienes comunes, educación de los hijos, oposición de maridos, padres y tutores.
+
+De igual manera podrán acudir ante el Juez de lo Familiar los concubinos cuando tengan diferencias sobre la educación de los hijos.
+
+En general todas las cuestiones familiares similares que reclamen la intervención judicial.
 
 ###### Artículo 929.
 
@@ -6172,3 +6180,11 @@ LIC. GUILLERMO MERCADO ROMERO.
 SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RAUL ANTONIO ORTEGA SALGADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+B.O. 7 DE ENERO DE 2002.
+
+###### ARTICULO UNICO
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
