@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2000-10-20"
+last_updated: "2001-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2001.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -2029,7 +2029,7 @@ ART. 294.- Al día siguiente en que termine el período del ofrecimiento de prue
 
 ### CAPITULO IV. De la recepción y practica de las pruebas
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 295.- El Juez queda facultado al admitir las pruebas ofrecidas para elegir la forma escrita o la forma oral en la recepción y práctica de ellas, a menos que ambas partes la hubieren propuesto con anterioridad.
 
@@ -2909,9 +2909,9 @@ XV.- La consignación en pago;
 
 XVI.- Las acciones relativas a servidumbres legales o que consten en títulos públicos y;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-XVII.- Los juicios que se funden en títulos ejecutivos; y
+XVII.- Los asuntos relativos a la pérdida de la patria potestad, cuando en estos sea parte la Procuraduría para la Defensa del Menor y la Familia del Estado de Baja California, por las causas a que se refieren las fracciones III, IV, V y VI del Artículo 441 del Código Civil para el Estado de Baja California, y el menor de que se trate, se encuentre bajo la custodia del Sistema para el Desarrollo Integral de la Familia;
 
 XVIII.- En general, las cuestiones que por su naturaleza requieran celeridad o lo determine la ley.
 
@@ -6606,3 +6606,7 @@ P.O. 20 DE OCTUBRE DE 2000.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial , Organo del Gobierno del Estado.
 
 SEGUNDO.- El presente Decreto no será aplicable a los asuntos iniciados antes de su entrada en vigor, así como a los Contratos de Hipoteca, Reestructuras y Novaciones que se hubiesen celebrado con anterioridad, por lo tanto, la substanciación de los juicios hipotecarios que se encuentren en trámite o que se inicien en relación a estos contratos, continuarán de conformidad a lo dispuesto por los preceptos que dejan de tener vigencia.
+
+P.O. 29 DE JUNIO DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
