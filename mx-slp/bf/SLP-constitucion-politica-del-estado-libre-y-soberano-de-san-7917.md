@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1948-09-19"
+last_updated: "1950-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1950.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -817,9 +817,9 @@ IV.- Desempeñar las demás funciones que les confieran las leyes.
 
 ART. 76.- Habrá alcaldes en las cabeceras de los municipios donde no haya jueces menores, debiendo ser designados en elección popular. La ley determinará el número que deba haber en cada población, sus facultades y obligaciones, y sus faltas serán cubiertas por los suplentes, que también serán nombrados por elección popular.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1950)</small>
 
-ART. 77.- Los alcaldes durarán dos años en el ejercicio de su encargo. Este cargo es gratuito en general, pero podrá ser remunerado en los términos que dispongan las leyes y no se puede renunciar sino por causa grave calificada por el Supremo Tribunal de Justicia del Estado.
+ART. 77.- Los Alcaldes durarán tres años en el ejercicio de su encargo. Este cargo es gratuito en general, pero podrá ser renumerado (sic) en los términos que dispongan las Leyes y no se puede renunciar sin haber causa grave calificada por el Supremo Tribunal de Justicia del Estado.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -1061,9 +1061,7 @@ ART. 115.- Los ministros de cualquier culto establecido en el Estado, no podrán
 
 ART. 116.- Jamás se podrá proceder a la elección de ninguno de los Poderes del Estado, sin que estén las autoridades municipales electas popularmente.
 
-> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
-
-ART. 117.- Queda estrictamente prohibido en el Estado honrar a personas a actos de personas vivas, imponiendo sus nombres a ciudades, pueblos, calles, escuelas; erigirles estatuas o monumentos de cualquier clase. A los ejidos, previo decreto del Congreso del Estado, se les podrá dar el nombre de aquellos ciudadanos que se hayan distinguido o se distingan en la lucha por la causa del agrarismo.
+ART. 117.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 1950)
 
 > <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -1150,3 +1148,7 @@ TERCERO:- Quedan derogadas todas las leyes o disposiciones que se opongan a la p
 P.O. 19 DE SEPTIEMBRE DE 1948.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSI.
+
+P.O. 24 DE DICIEMBRE DE 1950.
+
+UNICO.- Estas reformas entrarán en vigor después de su publicación en el Periódico Oficial del Estado.
