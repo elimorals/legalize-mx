@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-general-del-h-tribunal-superior-de-3664"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-08-30"
-last_updated: "1997-06-28"
+last_updated: "1997-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERIOR GENERAL DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, DE LOS JUZGADOS DE PRIMERA INSTANCIA, MENORES Y DE CONCILIACIÓN Y DE LAS DEMÁS DEPENDENCIAS DEL PROPIO TRIBUNAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 1997.
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el viernes 30 de agosto de 1991.
 
@@ -141,37 +141,41 @@ Para integrar legalmente el Pleno, se requiere la concurrencia de cuatro Magistr
 
 La asistencia a las Sesiones del Pleno, es obligatoria para todos los Magistrados, así como para el Secretario General de Acuerdos, el Oficial Mayor y el Secretario Auxiliar.
 
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 18 DE DICIEMBRE DE 1997, PÁGINAS 2 A LA 3.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1997)</small>
+
 ###### Artículo 14.
 
 Las Sesiones del Pleno se desarrollarán conforme a las siguientes reglas:
 
-I.- Reunidos en el Salón de Sesiones Plenarias del Tribunal, presididas por el Presidente o por el Magistrado que lo sustituya. El Secretario de Acuerdos dará lectura a la orden del día e inmediatamente pasará lista de asistencia y de acuerdo con el resultado de la misma, el Presidente o quien lo sustituya, declarará en su caso, haber o no el quórum legal para la instalación de la Sesión;
+I.- Los Magistrados se reunirán en el Salón de Sesiones Plenarias del Tribunal, presididos por el Magistrado Presidente o por el Magistrado que lo sustituya.
 
-II.- Instalada la Sesión, el Secretario de Acuerdos dará lectura en voz alta del acta de la Sesión anterior, misma que será puesta a consideración de los presentes. Si es aprobada se procederá a su firma; pero si se hicieran observaciones se harán constar con las razones y alegaciones que las fundamenten; y, el Pleno, resolverá lo conducente sobre la procedencia de las observaciones, acordándose en su caso la modificación o revocación de los acuerdos, asentándose en el acta que se levante del Pleno en que fueron hechos, que será firmada en la Sesión del Pleno siguiente;
+El Secretario General de Acuerdos dará lectura a la Orden del Día e inmediatamente pasará lista de asistencia y, de acuerdo con el resultado de la misma, informará al Presidente o a quien lo sustituya, si hay o no quórum legal y, habiéndolo, el Presidente declarará legalmente instalada la Sesión.
 
-III.- Aprobada el acta, con observaciones o sin ellas, el Secretario General dará cuenta de los asuntos que deberán tratarse en esa Sesión y se procederá a desahogarlas en el orden listado. A petición de alguno de los Magistrados, el Secretario General dará lectura íntegra de los documentos que se le soliciten;
+II.- A continuación el Secretario General de Acuerdos dará cuenta de los asuntos que deberán tratarse en esa Sesión y se procederá a desahogarlos en el orden de su listado; a petición de alguno de los Magistrados, el Secretario General dará lectura íntegra de los documentos que se le soliciten.
 
-IV.- El Presidente dará el trámite correspondiente a cada asunto. Los Magistrados podrán hacer observaciones a los trámites dictados por el Presidente; si éste no estuviere conforme con ellas, se someterá a votación el punto, subsistiendo el trámite que apruebe la mayoría;
+III.- El Presidente dará el trámite correspondiente a cada asunto. Los Magistrados podrán hacer observaciones a los trámites dictados por el Presidente; si éste no estuviere conforme con ellas, se someterá a votación el punto, subsistiendo el trámite que apruebe la mayoría;
 
-V.- Si el Presidente considera necesario que algún asunto sea discutido con mayor amplitud o así lo pidiera alguno de los Magistrados, se reservará para el final de la Sesión. Si el Pleno estima que no es prudente resolver un asunto, sin estudio e investigación previa, nombrará una comisión compuesta por dos Magistrados para que dictaminen al respecto en el término que se les fije. Esta comisión sólo es renunciable por causa justificada a juicio del Pleno;
+IV.- Si el Presidente considera necesario que algún asunto sea discutido con mayor amplitud o así lo pidiera alguno de los Magistrados, se reservará para el final de la Sesión. Si el Pleno estima que no es prudente resolver un asunto, sin estudio e investigación previa, nombrará una comisión compuesta por dos Magistrados para que dictaminen al respecto en el término que se les fije. Esta comisión sólo es renunciable por causa justificada a juicio del Pleno;
 
-VI.- El Presidente del Tribunal presidirá las Sesiones que celebre el Pleno; dirigirá los debates y conservará el orden durante las Sesiones;
+V.- El Presidente del Tribunal presidirá las Sesiones que celebre el Pleno; dirigirá los debates y conservará el orden durante las Sesiones;
 
-VII.- El Presidente podrá conceder el uso de la palabra cuantas veces sean necesarias a los Magistrados que lo soliciten, a su juicio. Si el asunto planteado, requiere ser discutido y analizado ampliamente, se nombrará una comisión de dos Magistrados para que dictaminen al respecto;
+VI.- El Presidente podrá conceder el uso de la palabra cuantas veces sean necesarias a los Magistrados que lo soliciten, a su juicio. Si el asunto planteado, requiere ser discutido y analizado ampliamente, se nombrará una comisión de dos Magistrados para que dictaminen al respecto;
 
-VIII.- Concluida la discusión de cada asunto, se procederá a votar las propuestas, comenzando con el Magistrado de la derecha, concluyendo con el Presidente;
+VII.- Concluida la discusión de cada asunto, se procederá a votar las propuestas, comenzando con el Magistrado de la derecha, concluyendo con el Presidente;
 
-IX.- Las votaciones de cada asunto serán económicas expresándose el voto verbalmente. Cuando se trate de elección de Presidente del Tribunal, Presidentes de Sala, nombramientos de Jueces, Secretarios de Acuerdos de Sala, Proyectistas de Sala, Secretarios de acuerdos y Proyectistas de Juzgados, imposición de sanción o faltas oficiales a los funcionarios nombrados anteriormente, y en los casos que así lo estimare conveniente la mayoría de los miembros presentes en la Sesión, serán por escrutinio secreto.
+VIII.- Las votaciones de cada asunto serán económicas expresándose el voto verbalmente. Cuando se trate de elección de Presidente del Tribunal, Presidentes de Sala, nombramientos de Jueces, Secretarios de Acuerdos de Sala, Proyectistas de Sala, Secretarios de acuerdos y Proyectistas de Juzgados, imposición de sanción o faltas oficiales a los funcionarios nombrados anteriormente, y en los casos que así lo estimare conveniente la mayoría de los miembros presentes en la Sesión, serán por escrutinio secreto.
 
 En las votaciones por escrutinio secreto, cada Magistrado depositará una cédula conteniendo su voto en un recipiente que al efecto se habilite; concluido este acto, el Secretario extraerá las cédulas, una a una, leerá su contenido en voz alta. Hecho el cómputo, el Presidente declarará el resultado. Las abstenciones se considerarán emitidas en favor de la proposición que reuniere mayor número de votos.
 
 Sólo se hará constar en las actas donde se consignen las votaciones, el nombre del votante cuando así lo pida el interesado en el acto de hacerse el cómputo;
 
-X.- Para que sea aprobado o rechazado un asunto o las propuestas u observaciones, se requiere la mayoría de votos de los presentes, los Magistrados sólo dejarán de emitir su voto cuando el Pleno considere legítima la excusa que presenten para no hacerlo. Ningún Magistrado podrá proponer la excusa que corresponda a otro y si lo hace, será desechada de plano;
+IX.- Para que sea aprobado o rechazado un asunto o las propuestas u observaciones, se requiere la mayoría de votos de los presentes, los Magistrados sólo dejarán de emitir su voto cuando el Pleno considere legítima la excusa que presenten para no hacerlo. Ningún Magistrado podrá proponer la excusa que corresponda a otro y si lo hace, será desechada de plano;
 
-XI.- Cuando algún Magistrado tenga interés personal respecto de algún asunto a tratar en el Pleno, no participará en la discusión y resolución del mismo, si se encuentra presente; y
+X.- Cuando algún Magistrado tenga interés personal respecto de algún asunto a tratar en el Pleno, no participará en la discusión y resolución del mismo, si se encuentra presente; y
 
-XII.- Agotados los asuntos listados en cada Sesión, el Presidente la declarará concluida.
+XI.- Agotados los asuntos listados en el Orden del Día de la Sesión, el Presidente la declarará concluida y el Secretario General de Acuerdos procederá de inmediato a la redacción del Acta relativa, la que dentro de las veinticuatro horas siguientes será firmada por la totalidad de los Magistrados asistentes; si alguno de los Magistrados se negare a firmar, dará inmediata razón de ello, o lo hará posteriormente por escrito y el Secretario General de Acuerdos hará constar dichas circunstancias al pie de la misma acta, firmando todos los demás Magistrados, sin que por ello pierdan su validez y eficacia los acuerdos aprobados durante la Sesión.
 
 Si llegada la hora en que el despacho del Tribunal debe concluir y aún quedaran asuntos pendientes por desahogar, el Presidente consultará la opinión del Pleno sobre si debe suspenderse o continuarse la Sesión y en el acto será acatada la resolución de la mayoría.
 
@@ -1368,3 +1372,9 @@ P.O. 28 DE JUNIO DE 1997.
 Primero.- Las presentes adiciones entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
 
 Segundo.- Con fundamento en los Artículos 3 y 4 del Código Civil vigente del Estado, publíquese este Acuerdo en el Periódico Oficial del Gobierno Constitucional del Estado de Campeche, y hágase del conocimiento del Foro Campechano y Público en General.
+
+P.O. 18 DE DICIEMBRE DE 1997.
+
+Primero.- Las presentes adiciones entrarán en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
+
+Segundo.- Con fundamento en los Artículos 3 y 4 del Código Civil vigente del Estado, publíquese este acuerdo en el Periódico Oficial del Gobierno Constitucional del Estado de Campeche, por una sola vez, y hágase del conocimiento del Foro Campechano y público en General.
