@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1994-11-30"
+last_updated: "1995-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 1995.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -7905,495 +7905,461 @@ El Ejecutivo del Estado, dentro de la esfera de su competencia, dictará las med
 
 Por conducto del Departamento de Agricultura se dictarán las medidas generales y particulares que se estimen más convenientes para el fomento de las actividades agrofrutícolas y forestales, conservación de suelos, sanidad vegetal, campaña contra las plagas, enseñanza agrícola, así como el control e intensificación de los servicios agrícolas que establezca el Estado.
 
+> <small>(DEROGADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
+
 # LIBRO SEGUNDO. DE LA GANADERIA
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
+
 ## TITULO UNICO. DE LA PROTECCION GENERAL DE LA GANADERIA
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
 ### CAPITULO II. MARCA Y PROPIEDAD DE LOS GANADOS
 
 ###### ARTICULO 1351.
 
-Se declara de utilidad pública en el Estado de Chihuahua, la cría de ganado mayor, menor y porcino.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1352.
 
-Se considera como ganadero para los efectos de este Código, a toda persona, sociedad o asociación que se dedique a la cría de ganado, cualquiera que sea el número de cabezas que posea.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
 ### CAPITULO III. ANIMALES MOSTRENCOS
 
 ###### ARTICULO 1353.
 
-La propiedad de los ganados se acredita con el fierro, con la marca, con la señal de sangre, con la escritura pública o privada legalmente otorgada, con factura, con certificado de registro o de acuerdo con las demás reglas del derecho común.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1354.
 
-Todos los dueños de ganado mayor tienen la obligación de herrarlos para justificar su propiedad, y los de ganado menor, señalarlos. Queda estrictamente prohibido herrar con plancha llena, con alambres, ganchos, argollas o con fierro corrido, así como amputar totalmente una o las dos orejas. Los infractores de estas prohibiciones serán castigados administrativamente con multa de diez a quinientos pesos, que será impuesta por el Departamento de Ganadería y sin perjuicio de que se les consigne, en su caso, a la autoridad judicial competente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1355.
 
-Para los efectos de este Código, se entiende por fierro, la quemadura que se hace ordinariamente en el cuarto trasero del animal, en el lado del "criador"; por marca, la que se pone del mismo lado en la quijada; por marca-venta, la que se pone comúnmente en la paleta del mismo lado del fierro que nulifica; y por señal de sangre, el corte que suele hacerse a los animales en las orejas o en alguna otra parte.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1356.
 
-Todos los fierros y marcas de que tratan los artículos anteriores, deberán ser registrados por los interesados o sus representantes, dentro del término de treinta días siguientes a la fecha en que el ganadero establezca su negocio.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1357.
 
-El registro se hará en la Presidencia Municipal del Municipio en que estén los semovientes, aun cuando el dueño de ellos resida en otro lugar. Las personas que tengan semovientes en varios Municipios, harán el registro de fierros y marcas en todos ellos. Los Presidentes Municipales darán aviso al Gobierno del Estado para que proceda a la formación de la planilla general de fierros, marcas y señales y remita copia de ellas a todas las Municipalidades del Estado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1358.
 
-Los Presidentes Municipales, previa la aprobación del Gobierno del Estado, tienen la obligación de expedir el registro de un fierro, marca o señal, siempre que éstos no sean iguales o puedan confundirse con los ya registrados o presentados para su registro.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1359.
 
-Todos los propietarios de ganado tienen la obligación de revalidar sus fierros, marcas, marca-ventas y señales, en los años terminados en cero o en cinco.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1360.
 
-Ninguna marca de herrar o señal puede usarse sin haber sido previamente registrada; la infracción de esta disposición se castigará con multa administrativa de diez a quinientos pesos que ingresarán al erario del Municipio.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1361.
 
-Cuando un ganadero por cualquier motivo deje de usar el fierro, marca, marca-venta o señal que hubiere registrado conforme a este Código, deberá dar aviso, desde luego, de ese hecho a la autoridad municipal del lugar y ésta anotará tal circunstancia en la hoja del registro en que aparezca levantada el acta del fierro, marca o señal que deje de usarse, dando aviso al Gobierno del Estado. El incumplimiento de lo anterior será sancionado con multa de diez a quinientos pesos que aplicará el Departamento de Ganadería.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1362.
 
-Todos los municipios deben tener marca de venta para herrar los animales que enajenen, conforme a las facultades que les da este Código.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1363.
 
-Por cada registro o revalidación de fierro, marca, marca-venta o señal, los ganaderos pagarán las cuotas que fijen las leyes de ingresos municipales y tarifas estatales.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1364.
 
-Cuando un animal tenga dos fierros, marcas o señales, de los cuales uno esté registrado y otro no, se tendrá como dueño al que lo sea del fierro, marca o señal registrado, salvo pruebas en contrario.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1365.
 
-Las crías que sigan a las hembras de ganados mayores herrados y ganados menores y porcinos señalados, salvo prueba en contrario, pertenecen al dueño del fierro, marca o señal, con que estén herrados o reseñados, siempre que éstos estén debidamente registrados. Es requisito indispensable el que toda cría que se desahije, debe de estar herrada, ya que éste es el único medio con que el interesado puede probar su pertenencia.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1366.
 
-No tendrán valor legal los traspasos de fierro de herrar o señal de sangre, cuando no hayan sido debidamente autorizados por el Departamento de Ganadería.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1367.
 
-Las crías de los animales pertenecen al dueño de la madre y no al del padre, salvo convenio anterior en contrario.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1368.
 
-Los animales que no estén herrados o señalados, que se encuentren en las propiedades, se presume que son del dueño de éstas, mientras no se pruebe lo contrario, a no ser que el propietario no tenga cría de la raza a que los animales pertenecen.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1369.
 
-Los animales sin marca que se encuentran en tierras de propiedad particular que exploten en común varios condueños, se presumen del dueño de la cría de la misma especie y de la misma raza en ellas establecidas mientras no se pruebe lo contrario.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1370.
 
-La propiedad de los animales se transfiere por los medios que establece el derecho común y en los documentos en que se haga constar la operación, se hará una reseña pormenorizada de los animales que se enajenan, pudiendo ventearse éstos para anular el fierro criollo, cuando así lo exija el comprador.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1371.
 
-Las autoridades municipales y los inspectores de ganadería, no autorizarán ningún transporte de ganado que no esté amparado precisamente con la factura original expedida por el dueño del fierro del "criador" aunque dichos animales aparezcan venteados.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
 ### CAPITULO IV. INSPECCION DE GANADOS
 
 ###### ARTICULO 1372.
 
-Se consideran mostrencos, los animales que carecen de dueño, los que teniéndolo han sido abandonados intencionalmente por éste, y los que no estén herrados o señalados, salvo lo dispuesto en los artículos 1365, 1367, 1368 y 1369.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1373.
 
-La autoridad municipal está obligada a procurar la identificación de los animales considerados como mostrencos, para lo cual revisará todas las planillas de fierros; en caso de obtener ésta, hará notificar al dueño la existencia de ellos para que se presente a recogerlos dentro de un plazo de quince días, contados a partir de la notificación, previo pago que haga de los gastos erogados.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1374.
 
-En caso de no obtenerse la identificación a que se refiere el artículo anterior, la autoridad municipal dará aviso a las autoridades circunvecinas, al Gobierno del Estado y a la institución que represente a los ganaderos adjuntándoles la reseña de los animales a efecto de que, en un plazo no mayor de quince días, le informen si puede o no hacerse la identificación.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1375.
 
-Después de haberse determinado a qué persona pertenecen los animales, éstos le serán entregados previo pago de la cantidad que asigne la Presidencia Municipal, de acuerdo con los gastos que hizo por cuido y manejo de los mismos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1376.
 
-Transcurrido el plazo fijado en el artículo 1374, o en caso de no haberse obtenido la identificación a que se refiere dicho artículo, se valuarán los animales por dos peritos, dando aviso al Gobierno y a la institución de ganaderos a que se refiere el precepto citado y se anunciará la venta por una sola vez en el Periódico Oficial y por dos edictos fijados en la puerta de la casa municipal, señalándose para el remate hora hábil del décimo quinto día siguiente al de la publicación en el Periódico Oficial.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1377.
 
-Los peritos a que se refiere el artículo anterior, serán de preferencia ganaderos de la localidad y el valor de sus honorarios en ningún caso será mayor del diez por ciento del precio de venta.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1378.
 
-Las ventas de animales hechas en remate, serán en efectivo y precisamente al contado, debiendo ser éstos herrados con la marca venta del Municipio y se extenderá al comprador factura autorizada por el Presidente Municipal y el Secretario del Ayuntamiento.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1379.
 
-Hecha la venta de algún animal mostrenco se levantará el acta correspondiente, haciendo constar en ella el lugar, día y hora del remate, reseña del animal o animales vendidos, nombre del comprador y precio de la venta. Se remitirá un ejemplar de esta acta al Departamento de Ganadería del Estado para su publicación en el Periódico Oficial, otra a la institución de ganaderos a que se refiere el artículo 1374 y otra se fijará en la tabla de avisos de la Presidencia Municipal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1380.
 
-El producto de las ventas se depositará en la Tesorería Municipal, y si dentro de los tres meses siguientes al día en que se haga el remate, se presenta el dueño de los animales vendidos como mostrencos a reclamar la cantidad depositada y justifica plenamente su derecho, se le entregará el valor obtenido, menos los gastos hechos por transporte, cuidado, pasturas, publicaciones y peritaje, que hubiere hecho la Tesorería Municipal. Pasado el término de tres meses, prescribirá la acción y el saldo del dinero depositado ingresará al fondo municipal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1381.
 
-No pueden fincar el remate para sí ni por interpósita persona la autoridad municipal y empleados de su dependencia, ni los peritos que hayan valuado los bienes objeto del remate; en consecuencia, toda venta en contravención a este artículo será nula y sujetará a los infractores a las consiguientes responsabilidades.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1382.
 
-La venta de animales mostrencos se hará únicamente en las cabeceras municipales.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1383.
 
-Cualquiera contienda que se suscite con motivo de los artículos anteriores entre los interesados y la autoridad, será resuelta por la autoridad judicial competente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
 ### CAPITULO V. ABASTO PUBLICO
 
 ###### ARTICULO 1384.
 
-La inspección de ganados y sus productos es obligatoria, tiene como principal objeto la justificación de la propiedad y estará a cargo del Departamento de Ganadería.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1385.
 
-La inspección se practicará:
-
-I.- En los ganados en tránsito;
-
-II.- En los ganados destinados al sacrificio;
-
-III.- En los lugares o estaciones de embarque;
-
-IV.- En las tenerías, talabarterías y demás lugares en que se beneficien los productos de los ganados.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1386.
 
-A efecto de llevar a cabo la inspección a que se refieren los artículos anteriores, el Gobierno del Estado designará los inspectores que estime convenientes, mediante proposición hecha por la institución representante de los ganaderos, en los Municipios de que se trate, nombrando además el personal que estime necesario para el objeto aludido.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1387.
 
-Son atribuciones de los inspectores:
-
-I.- Revisar los ganados que se encuentren en tránsito para comprobar que están amparados por los documentos que justifiquen su propiedad; pases, guías sanitarias y comprobantes de pago de impuestos en su caso;
-
-II.- Pedir a la autoridad municipal más próxima, que detenga o separe los animales cuya propiedad no esté comprobada, para que exija a los interesados la justificación de la misma o en su caso, proceda de acuerdo con lo previsto en el Capítulo III de este Título;
-
-III.- Revisar los documentos de remisión y de embarque que se hagan de animales ya sea por ferrocarril, por tierra, de un punto a otro del Estado o fuera de él, a fin de comprobar que el ganado esté amparado por las guías de remisión y documentos de propiedad;
-
-IV.- Expedir los certificados correspondientes, en los que se hará constar el nombre del remitente y destinatario, lugar de procedencia y destino, número, clase y especie de ganados y marcas de propiedad;
-
-V.- Revisar las pieles que se trasladen de un lugar a otro, ya por tierra o por ferrocarril y las que se intente exportar o curtir, para los efectos de la fracción anterior;
-
-VI.- Inspeccionar las empacadora, rastros, tenerías y demás lugares que fuere necesario para comprobar si se cumple con las disposiciones de este Código;
-
-VII.- Inspeccionar los animales mostrencos y presenciar los remates;
-
-VIII.- Ejecutar las medidas que se acordaren por la autoridad competente con objeto de evitar el comercio ilícito de ganado y sus productos; y
-
-IX.- Las demás que les fije el presente Código.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1388.
 
-En caso de inspección de ganado o sus productos es obligación de los inspectores llenar las formas de certificados de inspección que contengan la especie, clase de ganado, marcas, propietario, destinatario y demás datos del caso, de la que enviarán un tanto al Departamento de Ganadería del Estado y otro a la institución de ganaderos a que se refiere el artículo 1386.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1389.
 
-En todos los casos de movilización de ganado, al hacerse la revisión por el inspector, éste deberá anotar al calce de los pases el resultado de la inspección. El inspector deberá detener todo el ganado que no confronte con la reseña que aparece en los pases o que no esté debidamente amparada con la factura correspondiente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1390.
 
-En los lugares del Estado en que no hubiere inspectores de ganadería, las autoridades municipales desempeñarán las funciones que a aquéllos correspondan.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1391.
 
-Al tratarse de ganado comprado que esté herrado con el fierro del último adquirente, exigirán se les exhiba la documentación anterior, rechazando cualquier factura que esté razonada por la Presidencia Municipal expresando haber tenido las facturas anteriores a la vista.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1392.
 
-Será obligación el cancelar los pases de ganado cuando éstos lleguen a su lugar de destino; en la cancelación deberán de poner la fecha, así como la firma y el sello correspondiente, a la vez harán la cancelación de las facturas con las cuales se amparó el ganado una vez que haya sido sacrificado en el rastro. Al ser ganado que se destine para su industrialización en las plantas, el inspector cancelará la documentación respectiva al ser recibido de conformidad por la empresa. Si es ganado que se destine para la engorda, las facturas serán canceladas una vez que el ganado se sacrifique o salga del Estado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
 ### CAPITULO VI. TRANSPORTE DE GANADO
 
 ###### ARTICULO 1393.
 
-Nadie podrá sacrificar animales para el consumo público o para el particular, sin la licencia de la autoridad municipal local, previa la inspección del animal o animales por sacrificar.
-
-En todo caso se hará la reseña detallada de los animales que van a sacrificarse y se acreditará la legítima propiedad de ellos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1394.
 
-El sacrificio de los animales para el consumo público y únicamente el de ganado vacuno para el consumo particular, deberá efectuarse precisamente en empacadoras, rastros y lugares autorizados legalmente y cumpliéndose con los reglamentos respectivos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1395.
 
-En todos los lugares públicos de abasto, se llevará por los encargados de ellos, un registro diario de reseñas, en que cuidadosamente se anotará el nombre del vendedor, del introductor, lugar de procedencia, especie, clase, color, fierro y marcas, de cada animal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1396.
 
-Los que pretendan sacrificar ganado para su industrialización, harán la manifestación a la autoridad local para obtener el permiso necesario, el que se les concederá previa reseña de los animales destinados a ese objeto y siempre que justifiquen que son de su propiedad.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1397.
 
-La conducción de un lugar a otro, tanto de la carne seca como de los demás productos de matanza, estará siempre amparada por un permiso de la autoridad municipal del lugar donde se hayan sacrificado los animales, el que se extenderá por cuadruplicado, reservándose un tanto a la autoridad, entregando otro al interesado, enviando uno de ellos al Departamento de Ganadería y el otro a la institución correspondiente integrada por ganaderos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1398.
 
-Los encargados de empacadoras, rastros y lugares autorizados, rendirán, en los términos del artículo 1395 un informe mensual al Presidente Municipal con copia al Departamento de Ganadería y a la institución ganadera a que se refiere el artículo anterior, estando igualmente obligados a suministrar toda clase de datos a cualquier persona que lo solicite.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1399.
 
-Toda persona o sociedad que se dedique al negocio de sacrificio de ganado para el consumo público, deberá otorgar fianza ante la autoridad municipal del lugar, por la cantidad que ésta fije tomando en consideración la importancia del negocio y a efecto de que responda del cumplimiento de las obligaciones de dichas personas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1400.
 
-La matanza clandestina de ganado será castigada por la autoridad administrativa, la primera vez con multa de diez a mil pesos, cuando se trate de ganado mayor, y de cinco a quinientos pesos, por el ganado menor; duplicándose la pena en caso de reincidencia.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1401.
 
-En cooperación con las autoridades y rastros municipales, los inspectores de ganadería visitarán los establecimientos en los cuales se expenda carne, para comprobar que esta misma esté debidamente sellada; al no llenar este requisito la carne será decomisada y sus propietarios serán consignados a la autoridad correspondiente para que se proceda contra éstos en los términos de ley.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
 ### CAPITULO VII. VIGILANCIA DE LOS GANADOS
 
 ###### ARTICULO 1402.
 
-Se prohibe trasladar ganado de un lugar a otro del Estado o fuera de él, sin el permiso correspondiente de la autoridad municipal del lugar de donde se haga la remisión y sin que antes se haga la revisión del ganado por el inspector o por la persona que designe la autoridad municipal.
-
-Ninguna autoridad municipal podrá autorizar el sacrificio, comercio o movilización de ganado, si no se le comprueba previamente el pago del impuesto estatal establecido, con los documentos que acreditan la propiedad debidamente razonados por la oficina de rentas respectiva.
-
-Las autoridades municipales rendirán oportunamente, en su caso, a la Tesorería General del Estado y a las recaudaciones de rentas respectivas, información pormenorizada de las guías expedidas para tránsito de ganado, a fin de que se haga la confronta necesaria para evitar las substracciones al pago del impuesto.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1403.
 
-El interesado que pretenda hacer la traslación, presentará a la Presidencia Municipal una solicitud por cuadruplicado, expresando el número de cabezas, fierro y demás señas y datos que sean necesarios para la identificación del ganado, acompañando a su solicitud los documentos que justifique la propiedad.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1404.
 
-Concedida la autorización, el Presidente Municipal la entregará al interesado remitiendo copias al Gobierno del Estado y a la institución ganadera y conservará un tanto para el archivo del Municipio.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1405.
 
-Toda persona que transporte ganado por tierra, de un lugar a otro, tiene obligación de dar aviso a las autoridades municipales de los lugares por donde transite, para que éstas le visen su "pase" y si juzgan necesario, manden hacer las inspecciones del ganado que se transporte.
-
-Antes de hacerse el embarque del ganado que se transporte por ferrocarril, deberá ser inspeccionado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1406.
 
-Los conductores y arreadores de ganado están obligados a separar inmediatamente los animales extraños que se junten a la partida que conducen y dejarlos en los lugares donde se incorporaron.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1407.
 
-Es obligación de los transeúntes, conductores y arreadores de ganado dejar bien cerradas las puertas de los cercos o potreros, aunque las hubieren encontrado abiertas y asimismo reparar cualquier daño que los animales causaren al pasar por ellos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1408.
 
-Los caminantes, conductores y arreadores de ganado están obligados a extinguir con agua o con tierra, en su caso, el fuego que hubieren hecho para la preparación de sus alimentos. El infractor de este artículo será castigado administrativamente con multa de cinco a quinientos pesos, siempre que dicha infracción no haya ocasionado daño a un tercero, pues en este caso será consignado a la autoridad respectiva para el efecto de las responsabilidades que le resulten.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1409.
 
-Es obligación de los dueños o arrendatarios de terrenos particulares, permitir el uso de sus pastos y aguajes a las partidas de ganado que crucen por sus propiedades, para ser exportadas o movilizadas dentro del mismo Estado, siempre que la permanencia de los animales en su propiedad no exceda de veinticuatro horas por cada diez kilómetros de camino interior.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1410.
 
-Queda prohibido el que se movilicen por tierra partidas de ganado durante la noche, a excepción de las que vayan por tren o por camión, siendo requisito indispensable el que presenten la documentación correspondiente al serles solicitada por la autoridad respectiva.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1411.
 
-Tratándose de ganado que proceda de otra Entidad federativa, es obligación presentar la documentación debidamente requisitada por las autoridades correspondientes y a la vez sujetarse estrictamente a las disposiciones de protección ganadera del Estado que contenga este Código, reglamentos y circulares.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1412.
 
-Ninguna autoridad municipal podrá autorizar movilización de ganado si sólo se le presentan copias fotostáticas de la documentación, ya que es requisito indispensable la exhibición de la factura original debidamente autorizada por la Presidencia Municipal correspondiente. El cuerpo de inspectores deberá parar cualquier movilización de ganado que venga amparada con documentos de esta clase.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1413.
 
-Queda estrictamente prohibido movilizar animales orejanos, quedando exceptuados los becerros hijos de vacas pintas de negro que no tengan una edad mayor de treinta días, siempre que éstos se destinen para sacrificio inmediato o bien en el caso especial de que sean becerros que se venden para ser usados como sementales. Al tratarse de ganado de registro se autorizará la movilización de los mismos previa presentación de los certificados de registro ganadero expedidos por la asociación ganadera correspondiente, debiendo confrontar el tatuaje que traen los animales en las orejas con los números que aparezcan en los certificados de registro; en caso de que se maneje caballada fina orejana, quedará a juicio del Departamento de Ganadería autorizar su movilización.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1414.
 
-Cuando se efectúen movilizaciones de ganado procedente de los Municipios en los cuales no está registrado el fierro de herrar, será obligación de la autoridad municipal exigir el pase correspondiente con el cual se amparó la movilización de ganado al salir del Municipio en donde está registrado el fierro de herrar.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1415.
 
-Para movilizar ganado comprado a otros ganaderos pero que haya sido herrado con el fierro del último adquirente, será obligación de éstos exigir la documentación anterior o en su defecto, pedir una certificación que debe expedir la autoridad municipal correspondiente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1416.
 
-Cuando a la autoridad municipal se le presenten facturas que amparan un mayor número de cabezas de ganado del que se está vendiendo, deberá expedir una certificación que contendrá los datos de identificación del ganado que aparezca en la factura del vendedor.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1417.
 
-Para trasladar pieles de un lugar a otro del Estado o fuera de éste, se necesitará el permiso previo de la autoridad municipal. El remitente presentará, junto con los comprobantes que acrediten la propiedad de las pieles, una solicitud por cuadruplicado ante la misma autoridad, en la que manifieste el número de pieles, especie de animales a que pertenecen, reseña de colores y fierro de cada piel.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1418.
 
-Cumplidos los requisitos que establece el artículo anterior, previa inspección, la autoridad concederá el permiso, repartiendo las copias en la misma forma que previene el artículo 1404 de este Título.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1419.
 
-El Gobierno del Estado inspeccionará las pieles que se curtan en las tenerías, con objeto de comprobar la propiedad de las mismas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1420.
 
-Si el inspector encontrase que la procedencia o la propiedad de alguna de las pieles no está bien comprobada, las separará y ordenará que se pongan en depósito, dando cuenta a la autoridad municipal, al Gobierno del Estado y a la institución integrada por los ganaderos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1421.
 
-El infractor de los artículos 1402, 1405, 1406 y 1417 será castigado administrativamente con una multa hasta de quinientos pesos, sin perjuicio de ser consignado a las autoridades respectivas en caso de resultarle otras responsabilidades. En caso de reincidencia se duplicará la pena.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
 ### CAPITULO VIII. DE LAS CORRIDAS
 
 ###### ARTICULO 1422.
 
-Los dueños o encargados de animales deberán ejercer sobre ellos la mayor vigilancia y cuidado, para evitar que causen daños en las sementeras o agostaderos de propiedad contigua, pero no serán responsables de los daños causados en heredades que carezcan de muros, cercas o vallados, que eficazmente impidan la entrada de los animales, salvo cuando el perjudicado pruebe que intencionalmente se lanzó el ganado a las sementeras o agostaderos; pues en este último caso será consignado a la autoridad judicial correspondiente para los efectos del Código de Defensa Social.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1423.
 
-Los dueños de ganado corriente, tienen el deber ineludible de ejercer estrecha vigilancia a fin de evitar que animales machos fecunden o perjudiquen los empadres de hembras ajenas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1424.
 
-Toda persona que descubriere en su ganado machos de calidad distinta, dará aviso al propietario o a su representante para que los recoja en un plazo de tres días, dentro del cual pueden asegurarse convenientemente y transcurrido dicho término sin que nadie se presente a reclamarlos, se entregará a la autoridad municipal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1425.
 
-La autoridad municipal dará aviso al propietario a fin de que éste pase a recogerlos dentro de un plazo de treinta días, pero transcurrido dicho término sin que el dueño se presente a recogerlos, la autoridad procederá a rematarlos, de acuerdo con lo previsto en el Capítulo III de este Título.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1426.
 
-Cuando algún semental de "sangre pura" se mezcle o pueda perjudicar a otros rebaños de diferente raza, aunque de buena calidad, si transcurrido un plazo de tres días depués (sic) de notificado el dueño o su representante, no se presenta a recogerlo, el quejoso deberá ponerlo a disposición de la autoridad. Igual práctica se observará cuando se ignore quienes fueren los dueños.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1427.
 
-Queda prohibido que una o varias personas se introduzcan a fincas ajenas, aunque no estén cercadas, para recoger animales, sin permiso del dueño de las mismas o de sus representantes, o en su defecto, de la autoridad municipal correspondiente, quien otorgará o negará dicho permiso después de haber oído a las dos partes.
-
-La persona que haga la corrida dentro de terreno ajeno, no deberá arrear ganados que no sean de su propiedad. El que contravenga esta disposición queda obligado a pagar al dueño del ganado que arrea los daños y perjuicios que cause.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1428.
 
-Nadie tendrá derecho a pastar ganados en terrenos ajenos. El ganadero que encuentre dentro de su predio animales que no sean de su propiedad, queda facultado para avisar, por conducto del Comisario de Policía más próximo a los dueños, para que se presenten a recogerlos dentro del término de tres días, más el que sea necesario emplear por razón de la distancia, y transcurrido que sea éste sin que se presente el interesado, puede remitirlos a la autoridad municipal más próxima.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
 ### CAPITULO IX. DEL REGISTRO GENEALOGICO
 
 ###### ARTICULO 1429.
 
-Por corrida se entiende, para los efectos de este Código, la reunión que los ganaderos hacen de su ganado, con objetos propios de la industria.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1430.
 
-Las corridas serán generales cuando se junte la totalidad del ganado y parciales cuando sólo una parte de éste.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1431.
 
-Los ganaderos, en sus terrenos, pueden hacer libremente cuando mejor les parezca, las corridas generales y parciales que estimen necesarias; en el primer caso darán aviso a la autoridad municipal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1432.
 
-Cada año, los ganaderos tienen la obligación de hacer una corrida general, dando aviso a la autoridad municipal más inmediata y por su conducto a los colindantes para que éstos se presenten a recoger los animales que les pertenezcan.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1433.
 
-La corrida general a que se refiere el artículo anterior, será organizada por el dueño o mayordomo del rancho en que se verifique, con asistencia del Comisario de Policía más próximo o la persona que en su lugar designe la autoridad municipal, a quien debe dársele aviso con toda anticipación de la fecha en que dé principio la corrida.
-
-La autoridad municipal dará aviso a los colindantes del rancho o hacienda en que se vaya a verificar la corrida, y a éstos o a sus legítimos representantes únicamente se les entregarán los animales que les correspondan.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1434.
 
-Terminado el apartado, el Comisario de Policía o la persona designada por la autoridad municipal, se hará cargo de los animales de marcas desconocidas que resulten de la corrida, haciendo entrega de ellos a la misma autoridad para que se vendan como mostrencos con las formalidades de ley.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1435.
 
-La entrega de los mostrencos a que se refiere el artículo anterior, se hará por inventario en el que circunstanciadamente se harán constar las marcas, color y demás señas particulares de cada animal. De dicho documento se extenderán dos ejemplares que firmarán el Comisario o comisionado que entrega y la autoridad que recibe, debiendo conservar un ejemplar cada uno de ellos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1436.
 
-Los Comisarios de Policía o comisionados, no tendrán ninguna participación de los ingresos que tengan los Municipios por concepto de remate de animales mostrencos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
 ### CAPITULO X. SANIDAD ANIMAL
 
 ###### ARTICULO 1437.
 
-El Ejecutivo del Estado autorizará a las asociaciones de ganaderos o a ganaderos en particular a vender animales de "sangre pura" si satisfacen los siguientes requisitos:
-
-I.- Comprobar haber adquirido progenitores registrados de raza pura de criadores mexicanos o extranjeros, de reconocida seriedad a juicio del propio Ejecutivo;
-
-II.- Comprobar la pureza de los animales adquiridos mediante los pedigrees correspondientes, certificados ante las autoridades del lugar de residencia del criador o ante el respectivo cónsul mexicano, si son importados;
-
-III.- Demostrar tener suficientes conocimientos de genética animal para los fines que se propone o contar con responsables técnicos en la materia;
-
-IV.- Demostrar que su granja cuenta con los medios necesarios para el aislamiento de los animales por razas y variedades sin peligro de cruzamientos;
-
-V.- Demostrar que su granja cuenta con los medios necesarios para la correcta alimentación e higiene de los progenitores y sus crías.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1438.
 
-Las asociaciones o personas a que se refiere el artículo anterior abrirán un registro genealógico de animales de "sangre pura" con los siguientes datos:
-
-I.- Progenitores hasta la segunda generación anterior, con anotaciones respecto a criadores, marcas o fierros de registro;
-
-II.- Noticia de las montas o cópulas verificadas hasta obtener la concepción;
-
-III.- Fecha de nacimiento;
-
-IV.- Identificación del animal mediante reseña detallada, marcas y fierros;
-
-V.- Relación de accidentes y enfermedades que el animal hubiere padecido;
-
-VI.- Relación de sueros y vacunas inmunizantes aplicadas al mismo animal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1439.
 
-Los libros de referencia estarán autorizados en su primera y última hoja por el Jefe del Departamento de Ganadería, debiendo encontrarse selladas las demás hojas de que conste dicho libro.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1440.
 
-Los datos a que se refiere el artículo 1437 se anotarán inmediatamente en el libro respectivo. El Departamento de Ganadería quedará autorizado para practicar visitas de inspección y para cancelar las autorizaciones concedidas en el caso de que el criador no cumpla con los requisitos señalados en los artículos precedentes.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1441.
 
-Por el registro de animales de "sangre pura" se cobrará la cantidad que fijen las disposiciones fiscales.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
 ### CAPITULO XI. PREVENCIONES GENERALES
 
 ###### ARTICULO 1442.
 
-Todo propietario al notar en su ganado la presencia de alguna enfermedad transmisible, tiene obligación de dar inmediato aviso a la autoridad municipal correspondiente, proporcionando datos, detalles y síntomas característicos de la enfermedad, para que sin pérdida de tiempo se transcriba dicho informe al Departamento de Ganadería del Estado, a la institución de ganaderos y a la Agencia de la Secretaría de Agricultura y Ganadería.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1443.
 
-Todo ganadero está obligado a inmunizar su ganado por medio del sistema de vacunación contra la enfermedad "carbón sintomático", conocido vulgarmente con el nombre de "mancha" y contra la fiebre carbonosa.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1444.
 
-Todo ganadero está obligado a vacunar su ganado para producir la inmunización, cuando así lo ordene el Departamento de Ganadería.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1445.
 
-Es obligatoria la incineración de los cadáveres de animales que hayan muerto de alguna enfermedad contagiosa.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1446.
 
-Es obligatorio el baño de los ganados atacados de sarna, de acuerdo con lo establecido en el Código Sanitario Federal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1447.
 
-En caso de falta de cumplimiento a los artículos anteriores, se aplicará a los infractores una multa de diez a cinco mil pesos por el Departamento de Ganadería.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1448.
 
-El Ejecutivo del Estado queda facultado para reglamentar todo lo concerniente a medidas preventivas o curativas que estime convenientes, a fin de combatir las enfermedades del ganado; igualmente podrá decretar las "cuarentenas" que estime oportunas en las zonas infestadas, sujetándose en todos los casos a las disposiciones vigentes en materia de sanidad y policía veterinaria.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1449.
 
-Cada año, en los primeros días del mes de septiembre, los Ayuntamientos, por conducto de los Comisarios de Policía, convocarán a los ganaderos de sus jurisdicciones a una junta en la que se tratarán los asuntos relacionados con el ramo de ganadería, comunicándose los acuerdos tomados a la Secretaría General de Gobierno y a la institución de ganaderos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1450.
 
-Para que los intereses del Estado, de los Municipios y de los ganaderos estén garantizados, los Ayuntamientos del Estado dividirán su jurisdicción en las zonas que estimen convenientes, las cuales quedarán bajo la estricta vigilancia de los Presidentes Municipales.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 ###### ARTICULO 1451.
 
-Todos los ganaderos y campesinos en general están obligados a cooperar con el Gobierno del Estado para la seguridad de los campos y para tal fin, proporcionarán los informes que la Policía del Estado, autoridades o inspectores de ganadería les pidieren cuando se trate de investigar o perseguir algún robo de ganado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)
 
 NOVENA PARTE
 
@@ -11330,3 +11296,11 @@ P.O. 30 DE NOVIEMBRE DE 1994.
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE AGOSTO DE 1995.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Tercero.- Se derogan las disposiciones contenidas en el Código Administrativo del Estado en su octava parte, libro segundo, denominado de la Ganadería, Título Único, de la Protección General de la Ganadería.
