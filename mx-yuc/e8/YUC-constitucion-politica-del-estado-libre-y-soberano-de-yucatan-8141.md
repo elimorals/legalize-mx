@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1997-12-12"
+last_updated: "2004-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE DICIEMBRE DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2004.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -573,7 +573,7 @@ XXIX.- arreglar los límites del Estado, por convenios amistosos, los cuales no 
 
 > <small>(ADICIONADA, D.O. 12 DE MARZO DE 1993)</small>
 
-XXIX Bis.- determinar el ámbito territorial de los distritos electorales del estado;
+XXIX Bis.- Determinar el ámbito territorial de los distritos electorales del estado;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -977,9 +977,9 @@ XII.- cumplir con lo dispuesto en el artículo 28 de esta Constitución;
 
 XIII.- expedir la convocatoria para las elecciones ordinarias.
 
-> <small>(REFORMADA, D.O. 26 DE FEBRERO DE 1988)</small>
+> <small>(REFORMADA, D.O. 9 DE DICIEMBRE DE 2004)</small>
 
-XIV.- presentar ante el Congreso del Estado, a más tardar el día treinta de noviembre de cada año, las iniciativas relativas a la Ley de Ingresos del Estado, al Presupuesto de Egresos del Gobierno Estatal y a la Ley General de Hacienda del propio Estado, que hubieren de regir durante el año inmediato siguiente;
+XIV.- Presentar ante el Congreso del Estado, a m tardar el día treinta de noviembre de cada año, las iniciativas relativas a la Ley de Ingresos del Estado y al Presupuesto de Egresos del Gobierno Estatal, que hubieren de regir durante el año inmediato siguiente;
 
 > <small>(REFORMADA, D.O. 11 DE MAYO DE 1984)</small>
 
@@ -2132,3 +2132,13 @@ D.O. 12 DE DICIEMBRE DE 1997.
 DECRETO 123 QUE DEROGA LA FRACCION XXXII DEL ARTICULO 30, Y EL ARTICULO 95.
 
 Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 9 DE DICIEMBRE DE 2004.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
