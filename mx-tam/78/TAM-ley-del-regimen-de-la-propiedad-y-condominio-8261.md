@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-regimen-de-la-propiedad-y-condominio-8261"
 country: "mx"
 rank: "ley"
 publication_date: "1965-10-02"
-last_updated: "1965-10-02"
+last_updated: "2003-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DEL REGIMEN DE LA PROPIEDAD Y CONDOMINIO
 
-LEY DEL RÉGIMEN DE LA PROPIEDAD Y CONDOMINIO
+LEY DEL REGIMEN DE LA PROPIEDAD Y CONDOMINIO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE BIENES INMUEBLES PARA EL ESTADO DE TAMAULIPAS, PUBLICADA EN PERIODICO OFICIAL EL DIA 11 DE JUNIO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL. ABROGADA.
 
 Ley publicada en el Periódico Oficial, el 2 de octubre de 1965.
 
@@ -304,3 +306,23 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los seis días del mes de septiembre de mil novecientos sesenta y cinco.
 
 LIC. PRAXEDIS BALBOA.- El Secretario General de Gobierno, LIC. PEDRO DE KERATRY QUINTANILLA.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE JUNIO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las escrituras constitutivas de condominio y los reglamentos de los mismos que sean anteriores a esta ley, se entenderán modificados en los términos de ésta, para efectos de la vigencia establecida por el artículo anterior. En este supuesto, la asamblea de condóminos procederá a designar el comité de vigilancia a que se refiere el artículo 34, fracción III de la ley, sin perjuicio de que los copropietarios de condominios constituidos con anterioridad podrán, en cualquier tiempo, otorgar o ajustar a las disposiciones de la misma sus escrituras constitutivas y de traslación de dominio del condominio.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley del Régimen de Propiedad y Condominio, emitida mediante el Decreto número 283, publicado en el Periódico Oficial del Estado de fecha 2 de septiembre de 1965; así como todas aquellas disposiciones que se opongan a lo dispuesto en la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos, asuntos, trámites y actos administrativos que se encuentren en proceso al entrar en vigor la presente ley, continuarán gestionándose hasta su conclusión en los términos y disposiciones establecidos en la Ley del Régimen de la Propiedad y Condominio que se abroga.
