@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-la-direccion-de-servicios-concesionados-del-24097
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-01-25"
-last_updated: "2002-01-25"
+last_updated: "2003-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 REGLAMENTO DE LA DIRECCION DE SERVICIOS CONCESIONADOS DEL MUNICIPIO DE SALTILLO, COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 1 DE ABRIL DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de enero de 2002.
 
@@ -47,7 +47,7 @@ El objeto de este Reglamento es regular orgánica y funcionalmente a la Direcci�
 
 La Dirección de Servicios Concesionados es la dependencia mediante la cual el Gobierno Municipal ejerce sus atribuciones de vigilancia, supervisión y control en materia de:
 
-I. Transporte Urbano de pasajeros y de carga;
+I. (DEROGADA, P.O. 1 DE ABRIL DE 2003)
 
 II. Funcionamiento de establecimientos que venden o sirven en cualquier modalidad bebidas con contenido alcohólico;
 
@@ -91,7 +91,7 @@ La Dirección de Servicios Concesionados contará con las siguientes unidades ad
 
 I. Departamento de Alcoholes;
 
-II. Departamento de Transporte;
+II. (DEROGADA, P.O. 1 DE ABRIL DE 2003)
 
 III. Oficina de Administración de Mercados y Panteones;
 
@@ -147,33 +147,7 @@ VIII. Las demás que le sean señaladas por el Ayuntamiento o por la Dirección.
 
 ###### ARTÍCULO 11.
 
-El Jefe del Departamento de Transporte tendrá las siguientes atribuciones y obligaciones:
-
-I. Elaborar y mantener actualizado un registro de las concesiones de transporte que autorice el municipio y de las unidades que amparen;
-
-II. Inspeccionar el estado físico de las unidades de transporte a que se refiere la fracción anterior y vigilar que las mismas cuenten con las condiciones previstas en la ley de la materia y las que garanticen la seguridad de los usuarios y los transeúntes;
-
-III. Elaborar y mantener actualizado un registro de las personas físicas o morales que presten el servicio público de transporte;
-
-IV. Contar con un padrón de las rutas de transporte y, en su caso, proponer a su superior la modificación o creación de nuevas rutas;
-
-V. Diseñar, elaborar y mantener actualizado un padrón de los operadores de las unidades de transporte público;
-
-VI. Verificar que las unidades a que se refiere este artículo cuenten con las licencias y permisos correspondientes, en materia de transporte, protección civil, limpieza y ecología;
-
-VII. Dar vista a las autoridades de procuración de justicia cuando se aprecien hechos que pueden ser constitutivos de delito;
-
-VIII. Hacer del conocimiento de las autoridades administrativas correspondientes irregularidades detectadas en materia de transporte, protección civil, limpieza y ecología;
-
-IX. Instrumentar operativos para verificar el cumplimiento de las rutas y de las normas previstas en la ley de la materia;
-
-X. Proponer a su superior jerárquico programas de capacitación para operadores de transporte;
-
-XI. Diseñar e instrumentar operativos para valorar el estado físico de los operadores de transporte;
-
-XII. Sancionar, en los términos de ley a los concesionarios u operadores que infrinjan los ordenamientos legales aplicables; y
-
-XIII. Las demás que le sean señaladas por el Ayuntamiento o por la Dirección.
+(DEROGADO, P.O. 1 DE ABRIL DE 2003)
 
 ###### ARTÍCULO 12.
 
@@ -322,3 +296,9 @@ ATENTAMENTE
 RUBEN IGNACIO MOREIRA VALDEZ
 
 Secretario del R. Ayuntamiento
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+P.O. 1 DE ABRIL DE 2003.
+
+Estas reformas entrarán en vigor un día después de su publicación en el Periódico Oficial del Gobierno del Estado, independientemente que se haga lo propio en el órgano de difusión oficial del R. Ayuntamiento de Saltillo, Coahuila.
