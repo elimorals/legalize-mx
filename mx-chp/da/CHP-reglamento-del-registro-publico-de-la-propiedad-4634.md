@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-del-registro-publico-de-la-propiedad-4634"
 country: "mx"
 rank: "reglamento"
 publication_date: "1973-09-19"
-last_updated: "1973-09-19"
+last_updated: "1978-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1978.
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Chiapas, el miércoles 19 de septiembre de 1973.
 
@@ -441,7 +441,9 @@ V.- Las capitulaciones matrimoniales y los que constituyen dote cuando en virtud
 
 VI.- Las concesiones de minas, criaderos de substancias minerales y otros semejantes;
 
-VII.- Los fideicomisos sobre bienes inmuebles;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1978)</small>
+
+VII.- Los fideicomisos sobre bienes inmuebles y las constituciones del Régimen de condominio sobre inmuebles;
 
 VIII.- Los demás títulos que la ley ordene que sean registrados y produzcan cualesquiera de los efectos de la fracción I.
 
@@ -869,11 +871,13 @@ La inscripción de un secuestro o intervención de finca inscrita en la Sección
 
 Siempre que ante un Tribunal se pida la nulidad o cancelación de una inscripción, el Juez ante quien se haya solicitado lo participará al Encargado del Registro, quien pondrá luego al margen de la inscripción una nota preventiva en estos términos: "Reclamada la nulidad o cancelación de la presente, según el documento que bajo el número tantos, agrego al libro de documentos números tantos" (lugar, fecha y firma).
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1978)</small>
+
 ###### ARTICULO 129.
 
-Igualmente serán objeto de anotación preventiva los avisos que dieren los Notarios a las Autoridades sobre el otorgamiento de un acto o contrato en que se transmita, modifique o extinga la propiedad o posesión de bienes raíces o se constituya un crédito que tenga preferencia desde su registro entre tanto se presenta el título para su inscripción definitiva.
+Igualmente serán objeto de anotación preventiva los avisos que dieren los Notarios a las Autoridades sobre el otorgamiento de un acto o contrato en que se transmita, modifique o extinga la propiedad o posesión de bienes raíces o se constituya un crédito que tenga preferencia desde su registro entre tanto se presenta el título para su inscripción definitiva, en términos del Artículo 2990 del Código Civil.
 
-Si la propiedad del inmueble no se hallare registrada, el aviso a que se refiere este artículo se hará constar mediante inscripción preventiva.
+Si la propiedad del inmueble no se hallare registrada, el aviso a que se refiere este Artículo se hará constar mediante inscripción preventiva.
 
 ###### ARTICULO 130.
 
@@ -1072,3 +1076,11 @@ El Secretario Gral. de Gobierno.
 Lic. Roberto Serrano Ornelas.
 
 Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE FEBRERO DE 1978.
+
+PRIMERO.- Quedan derogadas todas las disposiciones que se opongan a las presentes reformas.
+
+SEGUNDO.- Estas reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
