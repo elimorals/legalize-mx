@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-mexicali-baja-23264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2001-12-14"
+last_updated: "2003-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2003.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -371,15 +371,23 @@ Plazo para convocar.- La convocatoria para la celebración de las sesiones ordin
 
 El integrante del Ayuntamiento que no hubiere sido citado a una sesión de Cabildo, podrá solicitar, dentro de las veinticuatro horas siguientes a la fecha en que haya tenido conocimiento de la sesión a la que no fue citado, que se vuelvan a deliberar en su presencia, el o los acuerdos tomados en su ausencia.
 
+> <small>(ADICIONADO, [N. DE E. REFORMADO], P.O. 4 DE JULIO DE 2003)</small>
+
 ###### ARTICULO 32.
 
-Orden del día.- La convocatoria que se expida para la celebración de sesiones de Cabildo, deberá ir acompañada del orden del día, mismo que deberá contener por lo menos, los siguientes puntos:
+Orden del día.- La convocatoria que se expida para la celebración de sesiones de Cabildo, deberá ir acompañada del listado de correspondencia recibida, despachada y del orden del día, mismo que deberá contener por lo menos, los siguientes puntos:
 
-I.- Lectura y aprobación del acta de la sesión anterior, excepto en los casos de dispensa;
+I.- Lista de asistencia y declaración de quórum legal;
 
-II.- Asuntos a tratar, como objeto de la sesión;
+II.- Lectura y aprobación del acta de la sesión anterior, excepto en los casos de dispensa;
 
-III.- Asuntos generales, sólo en el caso de sesiones ordinarias.
+III.- Correspondencia recibida;
+
+IV.- Correspondencia despachada;
+
+V.- Asuntos a tratar como objeto de la sesión;
+
+VI.- Asuntos generales, sólo en el caso de sesiones ordinarias.
 
 #### SECCION IV. DEL DIFERIMIENTO, SUSPENSION Y RECESO
 
@@ -721,21 +729,25 @@ La modificación de la integración y coordinación de las comisiones podrá ten
 
 De la integración y funcionamiento de las comisiones especiales y conjuntas.- El acuerdo de Cabildo que determine la necesidad de que un asunto sea atendido por una comisión conjunta, o la creación de una comisión especial, nombrará de considerarlo necesario al Regidor que deba fungir como coordinador; debiendo observarse cuando la naturaleza de sus funciones así lo permitan, las reglas de integración y funcionamiento previstas para las comisiones permanentes.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE JULIO DE 2003)</small>
+
 ###### ARTICULO 73.
 
 Coordinadores de comisión.- Son funciones de los coordinadores de comisión:
 
-I.- Convocar, por conducto del secretario, a los miembros de la comisión para celebrar sesiones, en los términos de este ordenamiento;
+I.- Convocar por conducto del secretario, a los miembros de la comisión para celebrar sesiones, en los términos de este ordenamiento;
 
-II.- Presidir las sesiones de la comisión;
+II.- Remitir copia a cada uno de los integrantes de la comisión, de los expedientes de los asuntos que le sean turnados, con por lo menos, veinticuatro horas de anticipación a la fecha que hayan de ser discutidos en la sesión correspondiente;
 
-III.- Someter a consideración el orden en que deberán ser atendidos los asuntos en comisiones;
+III.- Presidir las sesiones de la comisión;
 
-IV.- Emitir voto de calidad en caso de empate;
+IV.- Someter a consideración el orden en que deberán ser atendidos los asuntos en comisiones;
 
-V.- Presentar al Cabildo un informe bimestral de los trabajos de su Comisión;
+V.- Emitir el voto de calidad en caso de empate;
 
-VI.- Las demás que resulten necesarias para garantizar el debido funcionamiento de la comisión.
+VI.- Presentar al Cabildo un informe bimestral de los trabajos de su comisión;
+
+VII.- Las demás que resulten necesarias para garantizar el debido funcionamiento de la comisión.
 
 ###### ARTICULO 74.
 
@@ -1176,3 +1188,9 @@ José Braulio González González
 Ana Imelda Corella Torres
 
 David Montaño Córdova
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE JULIO DE 2003.
+
+ARTICULO TRANSITORIO ÚNICO.- LAS PRESENTES MODIFICACIONES ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
