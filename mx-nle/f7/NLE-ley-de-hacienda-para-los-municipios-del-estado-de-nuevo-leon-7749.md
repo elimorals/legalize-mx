@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1980-12-29"
+last_updated: "1981-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1981.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -299,9 +299,9 @@ g) Las operaciones realizadas por o con personas que lleven a cabo programas con
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
-### CAPITULO III. IMPUESTO SOBRE DIVERSIONES Y ESPECTACULOS PUBLICOS
+### CAPITULO I BIS (SIC). IMPUESTO SOBRE ADQUISICION DE INMUEBLES
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 22.
 
@@ -431,9 +431,155 @@ OBLIGACION SOLIDARIA.- Responderán solidariamente del pago de este Impuesto el 
 
 Los Notarios, corredores públicos y jueces que actúen por receptoría serán solidariamente responsables del pago del impuesto y deberán asentar en los protocolos o libros oficiales en que hagan constar las operaciones objeto de este impuesto, ya sea al margen o incorporado dentro de su mismo texto, y en el apéndice correspondiente, los datos que identifiquen el recibo o documento oficial comprobatorio del pago de este impuesto, en cada operación, precisando la fecha y el monto del gravamen.
 
-### CAPITULO IV. IMPUESTO SOBRE JUEGOS PERMITIDOS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-### CAPITULO V. IMPUESTO SOBRE ANUNCIOS
+### CAPITULO III. IMPUESTO SOBRE DIVERSIONES Y ESPECTACULOS PUBLICOS
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+
+###### ARTICULO 28 Bis.
+
+Están obligados al pago del Impuesto Sobre Adquisición de Inmuebles, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicados en el territorio del Estado, así como los derechos relacionados con los mismos, a que este impuesto se refiere. El impuesto se calculará aplicando la tasa de 10% al valor del inmueble después de reducirlo en seis veces el salario mínimo general, elevado al año, de la zona económica en donde esté ubicado el inmueble. Cuando del inmueble formen parte departamentos habitacionales, la reducción se hará por cada uno de ellos.
+
+Lo dispuesto en este párrafo no es aplicable a hoteles.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 28 Bis 1.
+
+No se pagará este impuesto en los siguientes casos:
+
+I.- En las adquisiciones hechas por instituciones de asistencia o de beneficencia autorizadas por las leyes de la materia; y, por instituciones públicas de enseñanza y establecimientos de enseñanza propiedad de particulares que tengan autorización o reconocimiento de validez oficial de estudios en los términos de la Ley Federal de Educación, por los bienes destinados exclusivamente a sus fines educativos.
+
+II.- En las adquisiciones que se realicen al constituir o disolver la sociedad conyugal, así como en el acto en que se cambien las capitulaciones matrimoniales.
+
+III.- En las adquisiciones que haga la Federación, el Estado o los Municipios.
+
+IV.- En las adquisiciones realizadas por partidos y asociaciones políticas, para su uso propio.
+
+V.- En las adquisiciones que hagan las Juntas de Mejoramiento Moral, Cívico y Material, previa autorización del Ayuntamiento respectivo.
+
+VI.- En las adquisiciones que realicen los trabajadores al servicio de la Federación, Estado o Municipio, independientemente que estén o no sindicalizados, siempre y cuando el inmueble objeto del impuesto vaya a destinarse o se destine a vivienda y no posean otro bien raíz en el Estado. En los casos de trabajadores casados bajo el régimen de sociedad conyugal, la exención también operará al 100%.
+
+VII.- En las adquisiciones hechas por entes u organismos creados para solucionar el problema de la vivienda y de la tenencia legal de la tierra, tales como el plan estatal denominado Tierra Propia y el fideicomiso denominado Fomento Metropolitano de Monterrey, así como las personas que resulten directamente beneficiadas con sus programas.
+
+VIII.- En las adquisiciones realizadas por o con personas que lleven a cabo programas concretos, con finalidades y características iguales o similares a las que persigue el Plan Tierra Propia y el fideicomiso Fomento Metropolitano de Monterrey, previa opinión emitida por la Secretaría de Asentimientos Humanos y Planificación.
+
+IX.- En las adquisiciones por informaciones ad-perpetuam y sentencias judiciales que impliquen reconocimiento de posesión de inmueble, cuyo destino sea el señalado en las Fracciones VII VIII.
+
+X.- En las adquisiciones, derechos o renta a perpetuidad de los lotes en los panteones municipales.
+
+XI.- En las adquisiciones realizadas a través de fideicomiso en que funjan como fideicomisarios instituciones públicas o para-públicas, destinadas a la solución del problema de la vivienda en la Entidad, tales como INFONAVIT, INDECO, FOVISSTE (sic), etc.
+
+XII.- En las adquisiciones de construcciones realizadas por promotores de viviendas de interés social, siempre y cuando entre la fecha de la terminación de la construcción y la contratación con el adquirente de la vivienda no medie más del término de un año. Esta exención no ampara al suelo de las construcciones.
+
+XIII.- En las adquisiciones que se realicen por causa de muerte.
+
+XIV.- En las donaciones que se hagan entre ascendientes y descendientes en línea recta.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 28 Bis 2.
+
+Para efectos de este impuesto se entiende por adquisición, la que se derive de:
+
+I.- Todo acto por el que se trasmita la propiedad, incluyendo la donación que no se haga entre ascendientes y descendientes en línea recta y la aportación a toda clase de asociaciones o sociedades.
+
+II.- La compra–venta en la que el vendedor se reserve la propiedad, aún cuando la transferencia de ésta opere con posterioridad.
+
+III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él antes de que se celebre el contrato prometido.
+
+IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las Fracciones II y III que anteceden.
+
+V.- Fusión de sociedades.
+
+VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
+
+VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal.
+
+VIII.- Prescripción positiva.
+
+IX.- La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción a éstos.
+
+X.- Enajenación a través de fideicomiso, en los términos del Código Fiscal de la Federación. La trasmisión de dominio de un inmueble, en ejecución de un fideicomiso, causará el Impuesto Sobre Adquisición de Inmuebles, salvo cuando ésta se haga en favor del o de los fideicomisarios designados en el acto constitutivo del fideicomiso, o de los adquirentes de los derechos del fideicomisario por cualquier título, siempre que en la constitución o adquisición se haya cubierto el impuesto correspondiente.
+
+En las permutas se considerará que se efectúan dos adquisiciones.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 28 Bis 3.
+
+En la determinación de este impuesto se deberán seguir las reglas siguientes:
+
+I.- El Impuesto de Adquisición de Inmuebles se calculará tomándose el valor más alto entre el declarado en la operación, el del avalúo de institución de crédito autorizada para operar por la Secretaría de Hacienda y Crédito Público, y el indicado en el certificado de valor actual real que al efecto expida la Secretaría de Finanzas y Tesorería General del Estado.
+
+Para efectos de este impuesto, los avalúos de las instituciones bancarias y los certificados del valor actual real que expida la Secretaría de Finanzas y Tesorería General del Estado, caducarán en un plazo de noventa días.
+
+II.- Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
+
+Cuando no se pacte precio, el impuesto se calculará con base en el valor que contenga el certificado de valor actual real que expida la Secretaría de Finanzas y Tesorería General del Estado. En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes de remate, no se tomará en cuenta el precio que se hubiere pactado sino el del avalúo a que se refiere este párrafo.
+
+Para los fines del Impuesto Sobre Adquisición de Inmuebles, se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
+
+III.- En las adquisiciones que se hagan constar en escritura pública, los notarios, jueces, corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad, lo harán constar en la escritura y lo declararán y enterarán mediante la formulación de una nota oficial, conforme al modelo autorizado. La nota oficial se presentará en original y siete copias en la oficina receptora o institución bancaria correspondiente. En los demás casos, los contribuyentes pagarán el impuesto mediante la formulación de la nota oficial que presentarán ante la oficina receptora correspondiente. Se presentará declaración por todas las adquisiciones aún y cuando no haya impuesto que enterar.
+
+Los fedatarios no estarán obligados a enterar el impuesto cuando consignen en escrituras públicas operaciones por las que ya se hubiera pagado el impuesto y acompañen a su declaración copia de aquélla con la que se efectuó dicho pago.
+
+El enajenante responde solidariamente del impuesto que deba pagar el adquirente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 28 Bis 4.
+
+El pago del impuesto deberá hacerse dentro del mes siguiente a aquél en que se realice cualesquiera de los supuestos que a continuación se señalan:
+
+I.- Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
+
+II.- Al cederse los derechos hereditarios o al enajenarse bienes por la sucesión.
+
+III.- Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando se realicen los supuestos de enajenación en los términos del Código Fiscal de la Federación.
+
+IV.- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva.
+
+V.- En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública debidamente firmada, o se inscriban en del Registro Público para poder surtir efectos frente a terceros en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes.
+
+El pago del impuesto no estará sujeto a previa calificación de la autoridad fiscal municipal, quien por si no podrá modificar el certificado de valor actual real que haya expedido la Secretaría de Finanzas y Tesorería General del Estado; sin perjuicio de los demás derechos de fiscalización que aquélla conserva.
+
+Cada una de las Tesorerías Municipales de la Entidad podrá, si lo estima conveniente, designar representante ante la Secretaría de Finanzas y Tesorería General del Estado, que se encargue de emitir opinión sobre los valores reales actuales de las diferentes regiones que compongan su circunscripción.
+
+El impuesto se cubrirá en efectivo o mediante cheque certificado ante las oficinas receptoras de las Tesorerías Municipales donde se ubique el bien materia del impuesto o en las instituciones bancarias autorizadas por el Municipio correspondiente, localizadas en la circunscripción territorial del propio Municipio de que se trate. Cuando el pago se efectúe extemporáneamente, no podrá enterarse en instituciones bancarias.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 28 Bis 5.
+
+Cuando se hagan constar en escritura pública las adquisiciones previstas en las Fracciones II y III del Artículo 28 Bis 2, los contribuyentes podrán optar por diferir el pago del impuesto correspondiente hasta el momento en que se transmita la propiedad al adquirente o hasta el momento de la celebración del contrato prometido, según sea el caso, debiendo pagar el impuesto que resulte de aplicar la tasa del 2% sobre el valor del inmueble objeto de la adquisición, hecha la deducción señalada en el Artículo 28 Bis. Este impuesto es independiente del que deba pagarse al transmitirse la propiedad que se diferió (sic).
+
+En la compra-venta con reserva de dominio y en la promesa de adquirir, se presume transmitido el dominio o celebrado el contrato prometido cuando venza el plazo fijado en el contrato respectivo y será exigible el impuesto correspondiente, salvo que se compruebe con instrumento público que el contrato fué rescindido o que el futuro adquirente cedió sus derechos.
+
+La cesión de derechos derivados de los contratos señalados en el primer párrafo de este artículo causará nuevamente el impuesto. El cesionario podrá igualmente optar por diferir el pago del impuesto en los términos y condiciones mencionadas en dicho párrafo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 28 Bis 6.
+
+La reducción a que se refiere el Artículo 28 Bis, se realizará conforme a lo siguiente:
+
+I.- Se considerarán como un solo inmueble los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiere adquirido con anterioridad, para que se ajuste el monto de la reducción, pagando en su caso las diferencias de impuesto que correspondan.
+
+II.- Cuando se adquiera parte de la propiedad o de los derechos de un inmueble, la reducción se hará en la proporción que corresponda a dicha parte.
+
+III.- Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos.
+
+IV.- No se considerarán departamentos habitacionales los que por sus características originales se destinen a servicios domésticos, portería o guarda de vehículo, aún cuando se utilicen para otros fines.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 28 Bis 7.
+
+Además del enajenante, responderán solidariamente del pago de este impuesto, los notarios, jueces, corredores y demás fedatarios que por disposición legal tengan funciones notariales, cuando autoricen la operación sin haberse cerciorado del correcto cumplimiento del pago del impuesto.
+
+### CAPITULO IV. IMPUESTO SOBRE JUEGOS PERMITIDOS
 
 ###### ARTICULO 29.
 
@@ -475,7 +621,7 @@ V.- El Presidente Municipal queda facultado para establecer mediante convenio, u
 
 ARTICULO 32 A.- EXENCION.- Queda exenta de este Impuesto la celebración de espectáculos en los establecimientos que cuenten con el certificado de calidad turística, expedido por la Delegación Estatal y Federal de Turismo.
 
-### CAPITULO VI. DIVERSOS
+### CAPITULO V. IMPUESTO SOBRE ANUNCIOS
 
 ###### ARTICULO 33.
 
@@ -525,9 +671,7 @@ e) de $100.00 a $750.00 mensuales, por unidad, en el caso del inciso e) del Art�
 
 f) de $100.00 a $1,500.00 diarios, en el caso del inciso f) del Artículo 33.
 
-### CAPITULO VII. IMPUESTO A LA ADQUISICION DE CITRICOS
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
+### CAPITULO VI. DIVERSOS
 
 ###### ARTICULO 36.
 
@@ -545,7 +689,9 @@ f) de $100.00 a $1,500.00 diarios, en el caso del inciso f) del Artículo 33.
 
 (DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
-### CAPITULO I. POR COOPERACION PARA OBRAS PUBLICAS
+### CAPITULO VII. IMPUESTO A LA ADQUISICION DE CITRICOS
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
 
 ###### ARTICULO 40.
 
@@ -557,9 +703,7 @@ En el perímetro urbano de los Municipios se cobrarán $5.00 mensuales por metro
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1977)</small>
 
-### CAPITULO II. POR SERVICIOS PUBLICOS
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
+### CAPITULO I. POR COOPERACION PARA OBRAS PUBLICAS
 
 ###### ARTICULO 41 Bis.
 
@@ -625,13 +769,13 @@ II.- Dar aviso ante la misma autoridad, y dentro del plazo que señala la Fracci
 
 III.- Adoptar las medidas de control que para el pago del impuesto establezcan las autoridades correspondientes.
 
-### CAPITULO III. POR CONSTRUCCIONES Y URBANIZACIONES
+### CAPITULO II. POR SERVICIOS PUBLICOS
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
 ## TITULO TERCERO. DERECHOS
 
-### CAPITULO IV. POR CERTIFICACIONES, AUTORIZACIONES, CONSTANCIAS Y REGISTROS
+### CAPITULO III. POR CONSTRUCCIONES Y URBANIZACIONES
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
@@ -723,7 +867,7 @@ Los derechos deberán ser pagados al inicio de la obra o dentro del plazo que se
 
 La Tesorería Municipal formulará y notificará oportunamente al causante, la liquidación de los Derechos de Cooperación que resulten a su cargo, de acuerdo con el proyecto aprobado.
 
-### CAPITULO V. POR INSCRIPCIONES Y REFRENDO
+### CAPITULO IV. POR CERTIFICACIONES, AUTORIZACIONES, CONSTANCIAS Y REGISTROS
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
@@ -731,17 +875,29 @@ La Tesorería Municipal formulará y notificará oportunamente al causante, la l
 
 RASTRO.- En los Municipios de Monterrey, Allende, Guadalupe, Apodaca, Cadereyta, Escobedo, Garza García, Linares, Montemorelos, Sabinas Hidalgo, Santa Catarina, San Nicolás de los Garza y Santiago, en materia de rastro, se aplicarán las cuotas siguientes, incluyendo servicios de corrales, uso de maquinaria, edificios y refrigeración:
 
-I.- Por cabeza de ganado mayor: $50.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-II.- Por cabeza de ganado porcino: $30.00.
+I.- Por cabeza de ganado mayor, $100.00
 
-III.- Por cabeza de ganado ovi-caprino: $3.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-IV.- Por cabrito: $2.00.
+II.- Por cabeza de ganado porcino, $60.00
 
-V.- Por ave, con excepción de guajolotes: $1.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-VI.- Por guajolote: $3.00.
+III.- Por cabeza de ganado ovicaprino, $10.00
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+IV.- Por cabrito, $8.00
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+V.- Por ave, con excepción de guajolotes, $2.00
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+VI.- Por guajolote, $6.00
 
 En los demás Municipios del Estado se pagará el 50% (cincuenta por ciento) de las cuotas anteriores.
 
@@ -769,7 +925,7 @@ IX.- Menudo: $2.00 por pieza.
 
 Cuando se trate de animales incompletos, se causarán los derechos que establece este Artículo si la carne que se presenta corresponde a más de 50% del animal, si es menor se cobrará el 50% de la cuota.
 
-### CAPITULO VI. POR EXPEDICION DE CEDULA DE EMPADRONAMIENTO Y PATENTE MERCANTIL
+### CAPITULO V. POR INSCRIPCIONES Y REFRENDO
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
@@ -779,35 +935,59 @@ Servicios Prestados por las oficinas de Obras Públicas o Departamentos competen
 
 I.- Alineamiento de lotes, que no excedan de 10 -diez- metros de frente a la vía pública, en terrenos ubicados en las cabeceras de los Municipios, se pagarán:
 
-a) En el perímetro urbano del primer cuadro, $200.00.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-b) En zonas industriales, $220.00.
+a) En el perímetro urbano del primer cuadro, $250.00
 
-c) En zonas residenciales de primera, $200.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-d) En zonas residenciales de segunda, $120.00
+b) En zonas industriales, $ 300.00
 
-e) En zonas residenciales de tercera, $100.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-f) En zonas residenciales de cuarta, $50.00
+c) En zonas residenciales de primera, $250.00
 
-El excedente de 10 -diez- metros, se pagarán a razón de $6.00 el metro lineal. La categoría de las zonas residenciales será designada por la Oficina competente, para nuevos fraccionamientos; quedando a juicio del Departamento competente la clasificación de las zonas residenciales que no hayan sido clasificadas.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+d) En zonas residenciales de segunda, $150.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+e) En zonas residenciales de tercera, $120.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+f) En zonas residenciales de cuarta, $70.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+El excedente de 10–diez metros, se pagarán a razón de $8.00 metro lineal. La categoría de las zonas residenciales será designada por la Oficina competente, para nuevos fraccionamientos; quedando a juicio del Departamento competente la clasificación de las zonas residenciales que no hayan sido clasificadas.
 
 Los límites del primer cuadro serán los mismos que señala el Reglamento de Tránsito en vigor.
 
 II.- Autorización de demoliciones de fincas, el metro cuadrado de cada una de sus plantas:
 
-TIPO "A". Construcciones con estructura de concreto, $6.00 metro.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-TIPO "B". Construcciones con estructura de acero, madera y techo de lámina o madera y construcciones con de terrado. $4.00 metro.
+TIPO ´´A´´ construcciones con estructuras de concreto $8.00 metro.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+TIPO ´´B´´ Construcciones con estructuras de acero, madera y techo de lámina o madera y construcciones con techos de terrado, $ 5.00 metro.
 
 III.- Inspecciones y aprobaciones de planos de construcción se cobrará por cada metro cuadrado, en cada una de sus plantas:
 
-a) PRIMERA CATEGORIA:- Comprende edificios destinados a hoteles, salas de reunión, oficinas, negocios comerciales y residencias que tengan de dos o más de las siguientes características: Estructura de concreto reforzado o de acero, muros de ladrillo o similar, lambrín de azulejo, muros interiores con pintura o recubrimiento, pisos de granito, o de mejor calidad y preparación para clima artificial, $11.00 el metro cuadrado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-b) SEGUNDA CATEGORIA:- Comprende construcciones comerciales o casas habitación, con muros de mampostería, pisos de mosaico de pasta o granito, estucado interior, así como construcciones industriales o bodegas con estructuras de concreto: $8.00 el metro cuadrado.
+a) PRIMERA CATEGORIA:- Comprende edificios destinados a hoteles, salas de reunión, oficinas, negocios comerciales y residencias que tengan de dos o más de las siguientes características. Estructura de concreto reforzado o de acero, muros de ladrillo o similar, lambrín de azulejo, muros interiores con pintura o recubrimiento, pisos de granito, o de mejor calidad y preparación para clima artificial, $ 15.00 metro cuadrado.
 
-c) TERCERA CATEGORIA:- Comprende casa-habitación, edificios o conjuntos multifamiliares, considerados dentro de la categoría denominada de interés social, así como los edificios industriales, comerciales y bodegas con estructura de acero o madera y techo de lámina, igualmente las construcciones con cubierta de concreto tipo cascarón $6.00 el metro cuadrado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+b) SEGUNDA CATEGORIA:- comprende construcciones comerciales o casas habitación, con muros de mampostería, pisos de mosaico de pasta de granito, estucado interior, así como construcciones industriales o bodegas con estructuras de concreto: $10.00 el metro cuadrado.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+c) TERCERA CATEGORIA:- Comprende casa-habitación, edificios o conjuntos multifamiliares, considerados dentro de la categoría denominada de interés social, así como los edificios industriales, comerciales y bodegas con estructura de acero o madera y techo de lámina, igualmente las construcciones con cubierta de concreto tipo cascarón, $8.00 el metro cuadrado.
 
 d) CUARTA CATEGORIA:- Exenta, que comprende: construcciones de viviendas o cobertizos de madera de tipo provisional.
 
@@ -843,19 +1023,23 @@ IV.- Quedan exentos de los Derechos señalados en el Artículo 52 de esta Ley, l
 
 Por registro de nuevos fraccionamientos que apruebe el Gobierno del Estado, se cubrirán los siguientes derechos:
 
-I.- Por registro de planos de lotificación, por lote, $45.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+I.- Por registro de planos de lotificación, por lote $60.00.
 
 II.- Por construcción de fraccionamientos:
 
-a) Fraccionamientos de primera categoría, por metro cuadrado del predio vendible, $3.00.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+a) Fraccionamientos de primera categoría, por metro cuadrado del predio vendible, $5.00.
 
-b) Fraccionamientos de segunda categoría, o sea aquellos cuya finalidad sea la construcción de viviendas de interés social de acuerdo con las normas que establece la Ley de Instituciones de Crédito y Organizaciones Auxiliares y la Comisión Nacional Bancaria, mediante programas de vivienda que realicen organismos oficiales o particulares, por metro cuadrado de predio vendible $1.50.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+b) Fraccionamiento de segunda categoría, o sea aquellos cuya finalidad sea la construcción de viviendas de interés social de acuerdo con las normas que establece la Ley de Instituciones de Crédito y Organizaciones Auxiliares y la Comisión Nacional Bancaria, mediante programas de vivienda que realicen organismos oficiales o particulares, por metro cuadrado de predio vendible, $2.00
 
-c) Fraccionamientos de tercera categoría por metro cuadrado del predio vendible $0.75.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+c) Fraccionamientos de tercera categoría por metro cuadrado del predio vendible, $1.00
 
 III.- Ceder el 15% de la superficie urbanizada o fraccionada al municipio para escuelas parques u otros usos de interés social, sin que se pierdan las finalidades recreativas o educativas perseguidas, cuya ubicación se determinará por la autoridad competente del Gobierno del Estado. En dicha superficie no se computará la asignación a calles.
 
@@ -869,13 +1053,19 @@ b) Autorizar que la cesión del 15% de la superficie urbanizada o fraccionada, s
 
 Por registro de nuevos fraccionamientos de inmuebles para cementerios, que apruebe el organismo estatal competente, se cubrirán al Municipio los siguientes derechos:
 
-I.- Por aprobación de planos de lotificación, por lote, $30.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+I.- Por aprobación de planos de lotificación, por lote, $40.00.
 
 II.- Por construcción.
 
-a) Cementerios de primera categoría, por metro cuadrado del predio vendible, $2.00.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-b) Cementerios de segunda categoría, por metro cuadrado del predio vendible, $0.75.
+a) Cementerios de primera categoría, por metro cuadrado del predio vendible, $3.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+b) Cementerios de segunda categoría, por metro cuadrado del predio vendible, $1.00
 
 III.- Ceder al Municipio el 15% de la superficie destinada a reposos, jardines, lagos, y andadores, excepto calles, en terrenos urbanizados que puedan destinarse a escuelas, jardines u otros usos de interés social dentro del perímetro del Municipio, cuya ubicación se determinará por la Autoridad Estatal competente.
 
@@ -883,7 +1073,7 @@ III.- Ceder al Municipio el 15% de la superficie destinada a reposos, jardines, 
 
 A solicitud del fraccionador, la Autoridad competente del Estado, oyendo la opinión de la Autoridad Municipal, podrá autorizar que la cesión arriba señalada se sustituya por cesión de terrenos no urbanizados dentro del Municipio, con valor equivalente al porcentaje de superficie indicado en el párrafo anterior. La Oficina Técnica Catastral de la Secretaria de Finanzas y Tesorería General del Estado, será la Autoridad encargada de traducir en cantidad liquida el porcentaje de superficie urbanizada indicado.
 
-### CAPITULO VII. POR REVISION, INSPECCION Y SERVICIOS
+### CAPITULO VI. POR EXPEDICION DE CEDULA DE EMPADRONAMIENTO Y PATENTE MERCANTIL
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
@@ -903,35 +1093,57 @@ V.- Por autorización de libros, $1.00 por hoja.
 
 VI.- Por otras autorizaciones y registros, de $100.00 a $500.00.
 
-### CAPITULO VIII. POR EXPEDICION DE LICENCIAS
+### CAPITULO VII. POR REVISION, INSPECCION Y SERVICIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 58.
 
 Por inscripción al inicio de las actividades que se señalan:
 
-I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $3,000.00 a $15,000.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-II.- Casas de asignación, de citas, prostíbulos, hoteles de paso y establecimientos similares, de $5,000.00 a $30.000.00.
+I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $4,000.00 a $20,000.00
 
-III.- Establecimientos en que se vendan vinos de mesa y bebidas alcohólicas en botella cerrada, incluyendo mayoristas, de $500.00 a $2.500.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-IV.- Cantinas, bares, restaurantes-bares, y establecimientos similares, de $1,00.00 a $5,000.00.
+II.- Casas de asignación, de citas, prostíbulos, hoteles de paso y establecimientos similares, de $8,000.00 a $40.000.00
 
-V.- Carnicerías, pescaderías, expendios de mariscos, aves y otros animales, destinados al consumo humano de $50.00 a $500.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-VI.- Molinos de nixtamal, de $30.00 a $100.00.
+III.- Establecimientos en que se vendan vinos de mesa y bebidas alcohólicas en botella cerrada, incluyendo mayoristas, de $750.00 a $3,500.00
 
-VII.- Tortillerías, de $60.00 a $200.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-VIII.- Peluquerías y salones de belleza, de $20.00 a $500.00.
+IV.- Cantinas, bares, restaurantes-bares y establecimientos similares, de $1,500.00 a $6,500.00
 
-IX.- Salas de Cine, de $500.00 a $1,000.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-X.- Terrazas de cine, de $100.00 a $500.00.
+V.- Carnicerías, pescaderías, expendios de mariscos, aves y otros animales, destinados al consumo humano, de $75.00 a $650.00
 
-XI.- Radiolas, sinfonolas y tocadiscos, $250.00 por unidad.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+VI.- Molinos de Nixtamal, de $50.00 a $130.00
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+VII.- Tortillerías, de $80.00 a $260.00
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+VIII.- Peluquerías y salones de belleza, de $30.00 a $650.00
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+IX.- Salas de Cine, de $650.00 a $1,300.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+X.- Terrazas de cine, de $130.00 a $650.00
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+XI.- Radiolas, sinfonolas y tocadiscos, $350.00 por unidad.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
@@ -939,29 +1151,53 @@ XI.- Radiolas, sinfonolas y tocadiscos, $250.00 por unidad.
 
 Por refrendo anual de la licencia, autorización, permiso o concesión, se cobrarán:
 
-I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $2,000.00 a $10,000.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-II.- Casas de asignación, de citas, prostíbulos, hoteles de paso y establecimientos similares, de $4,000.00 a $15,000.00.
+I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $3,000.00 a $15,000.00
 
-III.- Cantinas, bares, restaurantes-bares y establecimientos similares de $750.00 a $3,000.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-IV.- Establecimientos en que se venden vinos de mesa y bebidas alcohólicas en botella cerrada, incluyendo mayoristas, de $500.00 a $2,000.00.
+II.- Casas de asignación, de citas, prostíbulos, hoteles de paso y establecimientos similares, de $6,000.00 a $30,000.00
 
-V.- Carnicerías, pescaderías, expendios de mariscos, aves o cabritos, de $25.00 a $300.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-VI.- Molinos de nixtamal, de $25.00 a $250.00.
+III.- Cantinas, bares, restaurantes-bares y establecimientos similares, de $1,000.00 a $5,000.00
 
-VII.- Tortillerías, de $10.00 a $60.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-VIII.- Peluquerías y Salones de Belleza, de $20.00 a $250.00.
+IV.- Establecimientos en que se vendan vinos de mesa y bebidas alcohólicas en botella cerrada, incluyendo mayoristas, de $750.00 a $3,000.00
 
-IX.- Salas de cine, de $500.00 a $2,000.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-X.- Terrazas de Cine, de $100.00 a $200.00.
+V.- Carnicerías, pescaderías, expendios de mariscos, aves o cabritos, de $35.00 a $400.00
 
-XI.- Radiolas, sinfonolas y tocadiscos, $150.00 por unidad.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-### CAPITULO UNICO
+VI.- Molinos de nixtamal, de $50.00 a $350.00
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+VII.- Tortillerías, de $25.00 a $100.00
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+VIII.- Peluquerías y Salones de Belleza, de $50.00 a $350.00
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+IX.- Salas de Cine, de $1,000.00 a $3,000.00
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+X.- Terrazas de cine, de $400.00 a $1,000.00
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+XI.- Radiolas, sinfonolas y tocadiscos, $300.00 por unidad.
+
+### CAPITULO VIII. POR EXPEDICION DE LICENCIAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 60.
 
@@ -999,17 +1235,27 @@ Por revisión, inspección y servicios, que se indican a continuación, se fijan
 
 I.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1980)
 
-II.- Por revisión y trámite de documentos correspondientes a la Alta o Baja de vehículos de motor, se cubrirá un derecho de $50.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-III.- Por servicios de los Departamento de Tránsito y Médico Municipales, para la expedición de licencias de manejo $100.00 por bienio.
+II.- Por revisión y trámite de documentos correspondientes a la Alta o Baja de vehículos de motor, se cubrirá un derecho de $70.00
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+III.- Por servicios de los Departamento de Tránsito y Médico Municipales, para la expedición de licencias de manejo $130.00 por bienio.
 
 Si el servicio se presta al primer año del bienio, se pagará el bienio completo; si la expedición se hace el segundo año, se pagará únicamente el 50% de la cuota.
 
-IV.- Por inscripciones que previene el Reglamento de Previsión y Seguridad Social, las cuotas serán fijadas por el Departamento de Obras Públicas Municipales, de $50.00 a $300.00 excepto por la inspección de polvorines, en que la cuota será de $1,000.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-V.- Por servicios de inspección sanitaria de animales que se transporten en vehículos de cualquier índole: $6.00 por cabeza de ganado vacuno, caballar, asnal, mular, y porcino; y $2.00 por cabeza de ganado cabrío o lanar.
+IV.- Por inscripciones que previene el Reglamento de Previsión y Seguridad Social, las cuotas serán fijadas por el Departamento de Obras Públicas Municipales, de $70.00 a $400.00 excepto por la inspección de polvorines, en que la cuota será de $1,300.00
 
-VI.- Por servicios que presten los Departamentos de Tránsito, Médicos, de Sanidad Municipal y otros, la cuota que fijen el C. Presidente Municipal, según la naturaleza del servicio de que se trate, de $20.00 a $500.00 en forma general.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+V.- Por servicios de inspección sanitaria de animales que se transporten en vehículos de cualquier índole, $8.00 por cabeza de ganado vacuno, caballar, asnal, mular, y porcino; y, $3.00 por cabeza de ganado cabrío o lanar
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+VI.- Por servicios que presten los Departamentos de Tránsito, Médicos, de Sanidad Municipal y otros, la cuota que fije el C. Presidente Municipal, según la naturaleza del servicio de que se trate, de $50.00 a $700.00 en forma general.
 
 ###### ARTICULO 63.
 
@@ -1021,23 +1267,29 @@ Los derechos por revisión, inspección y demás servicios que preste la Autorid
 
 Por la expedición de licencias se cobrará:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-I.- Para bailes, tertulias, cancioneros, variedades en casinos, clubes, restaurantes, centros sociales, terrazas, en lugares abiertos o cerrados, en que se cobre derecho de admisión o se expida boletaje para la entrada, de $20.00 a $500.00 por cada ocasión que se celebren.
+I.- Para bailes, tertulias, cancioneros, variedades en casinos, clubes, restaurantes, centros sociales, terrazas, en lugares abiertos o cerrados, en que se cobre derecho de admisión o se expida boletaje para la entrada, de $50.00 a $700.00 por cada ocasión que se celebren.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-II.- Por cada corrida de toros: $1,000.00.
+II.- Por cada corrida de toros, $1,500.00
 
-III.- Por cada novillada, $200.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1977)</small>
+III.- Por cada novillada, $300.00
 
-IV.- Por temporada de atracciones, circos y demás espectáculos públicos de $200.00 a $1,000.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+IV.- Por temporada de atracciones, circos y demás espectáculos públicos de $300.00 a $1,500.00.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+### CAPITULO UNICO
 
 ###### ARTICULO 65.
 
-por inhumación en los cementerios de primera categoría, se pagará una cuota de $50.00 y en los Municipales de $10.00, siendo los prestadores del servicio de funeraria responsables solidariamente del pago.
+por inhumación en los cementerios de primera categoría, se pagará una cuota de $75.00 y en los Municipales de $25.00, siendo los prestadores del servicio de funeraria responsables solidariamente del pago.
 
 ## TITULO CUARTO. PRODUCTOS
 
@@ -1049,11 +1301,17 @@ Los Municipios tendrán los siguientes:
 
 I.- Del arrendamiento, explotación o enajenación de los bienes de los Municipios.
 
-II.- Por ocupación de la vía pública con materiales para construcción, escombros, etc., la siguiente cuota: $2.00 diarios por metro cuadrado o fracción menor, siempre no se interrumpa la propia vía pública. Los permisos deberán obtenerse previamente de la Dirección de Obras Públicas, quien lo informará a la Tesorería Municipal; para los efectos fiscales, previamente los interesados otorgarán depósito de dinero a la citada autoridad, para garantizar la reposición de pavimento, cordones, banquetas y demás obras.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-III.- Por ocupar la vía pública con sillas, se pagará $0.20 diarios por unidad.
+II.- Por ocupación de la vía pública con materiales para construcción, escombros, etc., la siguiente cuota: $3.00 diarios por metro cuadrado o fracción menor, siempre y cuando no se interrumpa la propia vía pública. Los permisos deberán obtenerse previamente de la Dirección de Obras Públicas, la que lo comunicará a la Tesorería Municipal para efectos fiscales. Previamente los interesados otorgarán depósito de dinero a la citada autoridad, para garantizar la reposición de pavimento, cordones, banquetas y demás obras.
 
-IV.- Por ocupar la vía pública los propietarios de sitios y automóviles, de camiones y camionetas de carga o de pasajeros destinados al servicio público, pagarán $10.00 por unidad mensualmente.
+> <small>(REFORMADA, P.O. 30 DICIEMBRE 1981)</small>
+
+III.- Por ocupar la vía pública con sillas se pagará $0.50 diarios por unidad.
+
+> <small>(REFORMADA, P.O. 30 DICIEMBRE 1981)</small>
+
+IV.- Por ocupar la vía pública los propietarios de sitios y automóviles, de camiones y camionetas de carga o de pasajeros destinados al servicio público, pagarán $30.00 por unidad mensualmente.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
@@ -1275,6 +1533,24 @@ b) $100.00 a $1,500.00 diarios, en el caso del inciso b) del Artículo 33 de est
 
 Si se dan por terminados los Convenios de adhesión al Sistema Nacional de Coordinación Fiscal y de Colaboración Administrativa en Materia Fiscal Federal, mencionados en el transitorio que antecede, así como los diversos convenios de colaboración que se celebrarían o suscribirían con motivo de la adhesión del Estado de Nuevo León al Sistema Nacional de Coordinación Fiscal, el Impuesto sobre Juegos Permitidos de esta Ley, entrará en vigor nuevamente al día siguiente al en que surta sus efectos la terminación de dichos convenios en la misma forma y términos en que aparece establecido en la Ley de Hacienda para los Municipios del Estado de Nuevo León correspondiente al ejercicio de 1979.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 7o.
+
+Durante 1982 y mientas esté suspendido el Impuesto Federal Sobre Adquisición de Inmuebles y no entre en vigor algún otro Impuesto Federal que grave la adquisición, enajenación o celebración de contratos que impliquen traslación de dominio de bienes inmuebles, se suspende la vigencia del Impuesto Municipal sobre Traslación de Dominio previsto en la Ley de Hacienda para los Municipios del Estado. Si termina la suspensión del Impuesto Federal Sobre Adquisición de Inmuebles o entra en vigor algún otro Impuesto Federal que grave la adquisición, enajenación o celebración de contratos que impliquen traslación de dominio de bienes inmuebles, entrará en vigor nuevamente el referido Impuesto de Traslación de Dominio, desde el día siguiente al en que surta sus efectos cualquiera de los supuestos anteriores.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 8o.
+
+Durante 1982 y mientras esté suspendido el Impuesto Federal Sobre Adquisición de Inmuebles y no entre en vigor algún otro Impuesto Federal que grave la adquisición, enajenación o celebración de contratos que impliquen traslación de dominio de bienes inmuebles, regirá en los Municipios del Estado el Impuesto Municipal sobre Adquisición de Inmuebles, en la forma y términos previstos en el Capítulo I Bis del Título I de la Ley de Hacienda para los Municipios del Estado. Si termina la suspensión del Impuesto Federal Sobre Adquisición de Inmuebles o entra en vigor algún otro Impuesto Federal que grave la adquisición, enajenación o celebración de contratos que impliquen traslación de dominio de bienes inmuebles, quedará suspendido el referido Impuesto Municipal sobre Adquisición de Inmuebles, desde el día siguiente al en que surta sus efectos cualesquiera de los supuestos anteriores.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 9o.
+
+Tratándose de contratos de promesa de adquirir en los que se esté cumpliendo con los pagos a que se está obligado en los términos de la Ley Federal del Impuesto Sobre la Renta, o de sentencias de prescripción positiva, o de adquisiciones que consten en escritura pública, celebrados, ejecutoriadas o elevadas a la categoría de documento público antes del 1o. de enero de 1982, se deberá cubrir el Impuesto Municipal de Traslación de Dominio en los términos vigentes en la ley al celebrarse el contrato de promesa de adquirir, al declararse ejecutoriada la sentencia de prescripción positiva, o al elevarse a escritura pública la adquisición.
+
 Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital, a los veinticinco días del mes de diciembre de mil novecientos setenta y cuatro.- PRESIDENTE: DIP. LIC. JESUS J. AYALA VILLARREAL; DIP. SECRETARIO: PROFR. LIC. ERNESTO TIJERINA CANTU; DIP. SECRETARIO: LIC. JOSE LUIS CANTU VELAZQUEZ.- RUBRICAS.
@@ -1354,3 +1630,13 @@ P.O. 29 DE DICIEMBRE DE 1980.
 - Se derogan las leyes, resoluciones y disposiciones que se opongan al presente Decreto.
 
 Lo anterior no exceptúa a los causantes que cubran extemporáneamente créditos fiscales, de las sanciones y recargos que les sean aplicables.
+
+P.O. 30 DE DICIEMBRE DE 1981.
+
+###### ARTICULO PRIMERO
+
+- Este Decreto entrará en vigor el día 1o. de Enero de 1982.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan las leyes resoluciones y disposiciones que se opongan al presente Decreto.
