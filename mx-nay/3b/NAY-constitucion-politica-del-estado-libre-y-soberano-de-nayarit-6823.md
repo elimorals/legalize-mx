@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1989-12-13"
+last_updated: "1990-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 1990.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -777,19 +777,19 @@ El Gobernador no podrá salir del Territorio del Estado ni separarse del ejercic
 
 Son facultades y obligaciones del Gobernador:
 
-I.- Cuidar de la seguridad del Estado y de la de sus habitantes, protegiéndolos en el ejercicio de sus derechos.
+I. Cuidar de la seguridad del Estado y de la de sus habitantes, protegiéndolos en el ejercicio de sus derechos.
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
-II.- Sancionar, promulgar y ejecutar las Leyes y Decretos dados por el Poder Legislativo y formar en la parte administrativa los Reglamentos necesarios para su más exacta observancia.
+II. Sancionar, promulgar y ejecutar las Leyes y Decretos dados por el Poder Legislativo y formar en la parte administrativa los Reglamentos necesarios para su más exacta observancia.
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
-III.- Iniciar ante la Legislatura, las Leyes y Decretos que juzgue convenientes para el mejoramiento de la administración pública y pedirle que inicie ante el Congreso de la Unión, lo que sea de la competencia Federal.
+III. Iniciar ante la Legislatura, las Leyes y Decretos que juzgue convenientes para el mejoramiento de la administración pública y pedirle que inicie ante el Congreso de la Unión, lo que sea de la competencia Federal.
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1989)</small>
 
-IV.- Presentar a la Legislatura, el presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
+IV. Presentar a la Legislatura, el presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MARZO DE 1977)</small>
 
@@ -801,85 +801,85 @@ V.- (A). Cuidar de la legal recaudación e inversión de los caudales públicos 
 
 (C). Visitar o hacer visitar las Oficinas de su dependencia y dictar los acuerdos que procedan, haciendo las consignaciones pertinentes al Ministerio Público;
 
-VI.- Fomentar por todos los medios posibles, la educación popular y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras morales y materiales que interesen a la colectividad.
+VI. Fomentar por todos los medios posibles, la educación popular y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras morales y materiales que interesen a la colectividad.
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
 
-VII.- Visitar los Municipios del Estado, para conocer sus necesidades, remediar sus males y promover sus mejoras.
+VII. Visitar los Municipios del Estado, para conocer sus necesidades, remediar sus males y promover sus mejoras.
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
 
-VIII.- Convocar a la Legislatura a sesiones extraordinarias.
+VIII. Convocar a la Legislatura a sesiones extraordinarias.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
 IX.- Tomar parte sin voto en la discusión de las Leyes o Decretos o comisionar para ello ante el Congreso del Estado al Secretario General de Gobierno o a cualquiera otra persona.
 
-X.- Hacer cumplir los fallos y sentencias de los Tribunales y prestar a éstos el auxilio que necesiten para el ejercicio expedito de sus funciones.
+X. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a éstos el auxilio que necesiten para el ejercicio expedito de sus funciones.
 
-XI.- Impartir a los Tribunales el auxilio que demanden para el desempeño de sus funciones.
+XI. Impartir a los Tribunales el auxilio que demanden para el desempeño de sus funciones.
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
-XII.- Nombrar y remover libremente al Secretario General de Gobierno, al Procurador General de Justicia, a los Encargados de las Dependencias señaladas en la Ley Orgánica del Poder Ejecutivo y a los demás servidores públicos cuyo nombramiento no esté encomendado a otras autoridades.
+XII. Nombrar y remover libremente al Secretario General de Gobierno, al Procurador General de Justicia, a los Encargados de las Dependencias señaladas en la Ley Orgánica del Poder Ejecutivo y a los demás servidores públicos cuyo nombramiento no esté encomendado a otras autoridades.
 
-XIII.- Llevar las comunicaciones y relaciones del Estado con el Gobierno General y con los de los otros Estados.
+XIII. Llevar las comunicaciones y relaciones del Estado con el Gobierno General y con los de los otros Estados.
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
-XIV.- Dispensar el pago de las fianzas carcelarias, cuando lo estime de justicia.
+XIV. Dispensar el pago de las fianzas carcelarias, cuando lo estime de justicia.
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
-XV.- Castigar correccionalmente a los que le falten al respeto o desobedezcan sus disposiciones gubernamentales, en los términos que establece el artículo 21 de la Constitución General de la República.
+XV. Castigar correccionalmente a los que le falten al respeto o desobedezcan sus disposiciones gubernamentales, en los términos que establece el artículo 21 de la Constitución General de la República.
 
-XVI.- Hacer que las elecciones sean libres e impedir que alguno ejerza presión en ellas.
+XVI. Hacer que las elecciones sean libres e impedir que alguno ejerza presión en ellas.
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
-XVII.- Crear Organismos y Empresas Públicas Descentralizadas.
+XVII. Crear Organismos y Empresas Públicas Descentralizadas
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1989)</small>
 
-XVIII.- Formar el Catastro del Estado, y Asesorar a los Municipios en la formación de sus catastros, y en su caso, celebrar convenios con ellos para hacerse cargo de algunas de las funciones relacionadas con la Administración de las contribuciones sobre la propiedad inmobiliaria, asumir la prestación de servicios públicos a ellos encomendados, o para fomentar su desarrollo, en apoyo a lo establecido por la Constitución Federal.
+XVIII. Formar el Catastro del Estado, y Asesorar a los Municipios en la formación de sus catastros, y en su caso, celebrar convenios con ellos para hacerse cargo de algunas de las funciones relacionadas con la Administración de las contribuciones sobre la propiedad inmobiliaria, asumir la prestación de servicios públicos a ellos encomendados, o para fomentar su desarrollo, en apoyo a lo establecido por la Constitución Federal.
 
-XIX.- Conceder o denegar indulto o conmutar la pena, a los delincuentes sujetos a la competencia de los Tribunales del Estado, con los requisitos establecidos por las leyes.
+XIX. Conceder o denegar indulto o conmutar la pena, a los delincuentes sujetos a la competencia de los Tribunales del Estado, con los requisitos establecidos por las leyes.
 
-XX.- Recibir la protesta de todos los funcionarios y empleados de nombramiento del Gobernador, que conforme a las leyes no deban otorgarla ante otra Autoridad.
+XX. Recibir la protesta de todos los funcionarios y empleados de nombramiento del Gobernador, que conforme a las leyes no deban otorgarla ante otra Autoridad.
 
-XXI.- Expedir títulos profesionales previas las aprobaciones correspondientes y con arreglo a las leyes.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 1983)</small>
-
-XXII.- Tramitar y resolver sobre las solicitudes de expropiación de bienes por causa de utilidad pública en los plazos y términos de la Ley respectiva.
+XXI. Expedir títulos profesionales previas las aprobaciones correspondientes y con arreglo a las leyes.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 1983)</small>
 
-XXIII.- Concurrir a la prestación de los servicios públicos municipales cuando así fuere necesario y lo determinen las Leyes y aprobar la constitución, fusión o modificación de fraccionamientos urbanos.
+XXII. Tramitar y resolver sobre las solicitudes de expropiación de bienes por causa de utilidad pública en los plazos y términos de la Ley respectiva.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 1983)</small>
 
-XXIV.- Intervenir en los asuntos agrarios con las atribuciones que le confiera la Ley respectiva.
+XXIII. Concurrir a la prestación de los servicios públicos municipales cuando así fuere necesario y lo determinen las Leyes y aprobar la constitución, fusión o modificación de fraccionamientos urbanos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 1983)</small>
+
+XXIV. Intervenir en los asuntos agrarios con las atribuciones que le confiera la Ley respectiva.
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
 
-XXV.- Tomar, en caso de invasión extranjera o conmoción interior armada las medidas extraordinarias que fueren necesarias para salvar al Estado, sujetándolas, lo más pronto posible a la aprobación de la Legislatura, si estuviere reunida; si no lo estuviere, convocará a sesiones extraordinarias.
+XXV. Tomar, en caso de invasión extranjera o conmoción interior armada las medidas extraordinarias que fueren necesarias para salvar al Estado, sujetándolas, lo más pronto posible a la aprobación de la Legislatura, si estuviere reunida; si no lo estuviere, convocará a sesiones extraordinarias.
 
-XXVI.- Concurrir cada año al acto de abrir la Legislatura su primer período de sesiones ordinarias.
+XXVI. Concurrir cada año al acto de abrir la Legislatura su primer período de sesiones ordinarias.
 
-XXVII.- Pasar al Procurador General de Justicia en el Estado, todos los asuntos que deban ventilarse ante los Tribunales, para que ejercite ante ellos las atribuciones de su ministerio.
+XXVII. Pasar al Procurador General de Justicia en el Estado, todos los asuntos que deban ventilarse ante los Tribunales, para que ejercite ante ellos las atribuciones de su ministerio.
 
-XXVIII.- Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que aquella incurriere.
+XXVIII. Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que aquella incurriere.
 
-XXIX.- Cuidar de la conservación del orden público, disponiendo al efecto de la fuerza armada del Estado y de la del Municipio donde resida habitual o transitoriamente.
+XXIX. Cuidar de la conservación del orden público, disponiendo al efecto de la fuerza armada del Estado y de la del Municipio donde resida habitual o transitoriamente.
 
-XXX.- El Gobernador Constitucional y el interino en su caso, al tomar posesión del cargo, rendirán ante la Legislatura o la Diputación Permanente, la siguiente protesta:
+XXX. El Gobernador Constitucional y el interino en su caso, al tomar posesión del cargo, rendirán ante la Legislatura o la Diputación Permanente, la siguiente protesta:
 
-El Presidente interrogará: "PROTESTAIS, SIN RESERVA ALGUNA, GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO, Y TODAS LAS LEYES QUE DE ELLAS EMANEN, ASI COMO DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE GOBERNADOR DEL ESTADO QUE EL PUEBLO OS HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DE LA REPUBLICA Y DE ESTA ENTIDAD FEDERATIVA?" El interpelado contestará: "SI, PROTESTO," El Presidente agregará: "SI NO LO HICIEREIS ASI, QUE EL ESTADO Y LA NACION OS LO DEMANDEN".
+El Presidente interrogará: "PROTESTÁIS, SIN RESERVA ALGUNA, GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO, Y TODAS LAS LEYES QUE DE ELLAS EMANEN, ASÍ COMO DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE GOBERNADOR DEL ESTADO QUE EL PUEBLO OS HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DE LA REPÚBLICA Y DE ESTA ENTIDAD FEDERATIVA?" El interpelado contestará: "SI, PROTESTO," El Presidente agregará: "SI NO LO HICIEREIS ASÍ, QUE EL ESTADO Y LA NACIÓN OS LO DEMANDEN".
 
-XXXI.- Arreglar con autorización de la Legislatura, las cuestiones de límites con los Estados vecinos y celebrar convenios con los Gobernadores para la entrada y paso de sus fuerzas de seguridad por el territorio del Estado, y recíprocamente.
+XXXI. Arreglar con autorización de la Legislatura, las cuestiones de límites con los Estados vecinos y celebrar convenios con los Gobernadores para la entrada y paso de sus fuerzas de seguridad por el territorio del Estado, y recíprocamente.
 
-XXXII.- Las demás que le concede esta Constitución.
+XXXII. Las demás que le concede esta Constitución.
 
 ###### Art. 70.
 
@@ -939,17 +939,17 @@ Los acuerdos, circulares, órdenes y disposiciones que dicte el Gobernador, así
 
 El Secretario General de Gobierno es responsable de las disposiciones del Gobernador, que autorice con su firma, cuando fueren contrarias a la Constitución y Leyes del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1990)</small>
 
 ###### Art. 76.
 
-Las faltas temporales del Secretario General de Gobierno serán suplidas por el Subsecretario General de Gobierno, en cuyo caso tendrá las mismas responsabilidades y prerrogativas que aquél.
+Las faltas temporales del Secretario General de Gobierno serán suplidas por el Director General de Gobierno, en cuyo caso tendrá las mismas responsabilidades y prerrogativas de aquél.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1990)</small>
 
 ###### Art. 77.
 
-El Secretario General de Gobierno o el Subsecretario General de Gobierno en su caso, concurrirán a las Sesiones del Congreso cuando el Gobernador, conforme a esta Constitución deba asistir. Los Secretarios sólo cuando el Gobernador fuere requerido para informar sobre algún asunto encomendado a ellos.
+El Secretario General de Gobierno o el Director General de Gobierno en su caso, concurrirán a las Sesiones del Congreso cuando el Gobernador, conforme a esta Constitución, debe asistir. Los Secretarios sólo cuando el Gobernador fuere requerido para informar sobre algún asunto encomendado a ellos.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
@@ -1349,19 +1349,29 @@ Las Leyes determinarán casos y circunstancias en los que se deba sancionar pena
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a las que se refiere el presente artículo.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 1990)</small>
 
 ###### Art. 124.
 
-Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Secretarios de Despacho, Subsecretarios, Directores Generales, Directores de Area, Jefes de Departamentos, Jefes de Oficina, Encargados de Dependencias, el Procurador General de Justicia, los Sub-Procuradores Generales de Justicia, los Jueces de Primera Instancia, los Directores Generales o sus equivalentes de los Organismos y Empresas Descentralizadas, los de Sociedades y Asociaciones asimiladas a éstas y los de Fideicomisos Públicos, los Coordinadores Generales, Presidentes, Regidores y Síndicos de los Ayuntamientos de la Entidad, así como el Secretario, Tesorero, Directores, Jefes de Departamentos y Oficinas de los mismos.
+Podrán ser sujetos de juicio político los diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Secretarios de despacho, Directores Generales, Directores de Area, Jefes de Departamentos, Jefes de Oficina, Encargados de Dependencias, el Procurador General de Justicia, los Jueces de Primera Instancia, los Directores Generales o sus equivalentes de los organismos y empresas descentralizadas, los de sociedades y asociaiones (sic) asimiladas a éstas y los de fideicomisos públicos, los coordinadores generales, presidentes, regidores y síndicos de los Ayuntamientos de la Entidad, así como el Secretario, Tesorero, Directores, Jefes de Departamentos y Oficinas de los mismos.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 El Gobernador del Estado, los Diputados al Congreso del Estado y los Magistrados del Tribunal Superior de Justicia, sólo podrán ser sujetos de juicio político por violaciones graves a la Constitución General de la República, a la Particular del Estado, a las Leyes Federales y Locales que de ellas emanen, así como por el manejo indebido de fondos y recursos.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 Para la aplicación de las sanciones a que se refiere este precepto el Congreso del Estado procederá a elaborar la acusación respectiva y previa declaración de la mayoría absoluta del número de los miembros presentes en Sesión del Congreso, después de haber substanciado el procedimiento respectivo y con audiencia del inculpado.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+
 Para esos efectos el Congreso del Estado se constituirá separadamente en Jurado de acusación y de sentencia, para que una vez conocida de la acusación, se erija en jurado de sentencia y aplicará la sanción correspondiente mediante resolución de las dos terceras partes de los miembros presentes en sesión una vez practicadas las diligencias correspondientes y con audiencia del acusado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 Las declaraciones y Resoluciones del Congreso del Estado son inatacables.
 
@@ -1938,3 +1948,9 @@ I.- Por lo que concierne a la adición al artículo 3o. de la Constitución Pol�
 II.- Por lo que corresponde a las demás propuestas de modificación comprendidas tanto en el Código para la Administración Municipal, como en la Ley Electoral y Ley de División Territorial aplicables, surtirán los efectos de vigencia una vez que, en los términos de Ley, sea aprobada y publicada la adición al Artículo 3º de la Constitución Política del Estado, y
 
 III.- Por provenir del ejercicio competencial del Honorable Congreso y constituir un acto de soberanía, dése a conocer la creación del Municipio de Bahía de Banderas, mediante Bando Solemne cada una de las localidades que lo integran, con la publicidad y formalidad debida.
+
+P.O. 29 DE SEPTIEMBRE DE 1990.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de la Sanción y publicación respectivos.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Nayarit.
