@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1937-10-28"
+last_updated: "1939-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 1937.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 1939.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -1255,15 +1255,17 @@ El Supremo Poder Ejecutivo del Estado, se depositará en una persona, que se den
 
 El Gobernador del Estado durará en su encargo cuatro años, y será electo directa y popularmente, en los términos que establezca la ley electoral respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 1939)</small>
 
 ###### Art. 77.
 
-Para ser Gobernador se requiere:
+Para ser Gobernador, se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento, y en el pleno ejercicio de sus derechos políticos y civiles;
 
-II.- Ser ciudadano del Estado por nacimiento, o con vecindad no menor de cinco años, inmediatamente anteriores al día de la elección;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 1939)</small>
+
+II.- Ser ciudadano del Estado por nacimiento o con vecindad no menor de treinta años, inmediatamente anteriores al día de la elección;
 
 > <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1918)</small>
 
@@ -1626,3 +1628,7 @@ P.O. 28 DE OCTUBRE DE 1937
 I.- Quedan derogadas todas las disposiciones o reformas habidas antes de la presente Ley.
 
 II.- La presente Ley entrará en vigor el día primero de noviembre de mil novecientos treinta y siete.
+
+P.O. 23 DE FEBRERO DE 1939
+
+N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
