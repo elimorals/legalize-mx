@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-fomento-agropecuario-17
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-02-26"
-last_updated: "1999-02-26"
+last_updated: "2004-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO AGROPECUARIO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO AGROPECUARIO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE FOMENTO AGROPECUARIO DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO AGROPECUARIO DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 9 DE JULIO DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 26 de febrero de 1999.
 
@@ -510,3 +512,13 @@ GOBIERNO AGROPECUARIO
 LIC. CARLOS JUARISTI LIC. ABRAHAM CEPEDA
 
 SEPTIEN IZAGUIRRE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE JULIO DE 2004.
+
+PRIMERO. El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Fomento Agropecuario publicado en el Periódico Oficial del Gobierno del Estado No. 17 del 26 de febrero de 1999.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente reglamento.
