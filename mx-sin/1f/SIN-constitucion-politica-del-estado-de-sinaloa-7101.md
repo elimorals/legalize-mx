@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1977-01-05"
+last_updated: "1979-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 1979.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -157,9 +157,15 @@ Una vez suspendida o perdida la calidad de ciudadano sinaloense, sólo se recobr
 
 ### CAPITULO III. DE LAS ELECCIONES
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
+
 ###### Art. 14.
 
-Las elecciones populares serán directas, se resolverán a mayoría de sufragios, y se verificarán con sujeción estricta a las disposiciones de la Ley Electoral del Estado.
+Las elecciones populares serán directas, se resolverán a mayoría de sufragios y conforme al principio de representación proporcional y se verificarán con sujeción a las disposiciones de la Ley Reglamentaria correspondiente.
+
+Los Partidos Políticos son entidades de interés público. La Ley determinará las formas específicas y condiciones de su intervención en el proceso electoral.
+
+Los Partidos Políticos Nacionales que hayan obtenido su registro definitivo podrán participar en las elecciones estatales y municipales.
 
 ###### Art. 15.
 
@@ -221,31 +227,29 @@ El Poder Legislativo del Estado, se deposita en una asamblea que se denominará 
 
 #### SECCION I. DE LA ELECCION E INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
 
 ###### Art. 23.
 
-El Congreso del Estado se compondrá de representantes electos popularmente cada tres años.
+El Congreso del Estado se compondrá de representantes electos popularmente cada tres años. Por cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 1974)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
 
 ###### Art. 24.
 
-En cada Municipio habrá un Distrito Electoral siempre y cuando los habitantes no excedan de 150 mil. En los municipios cuya población exceda de ese número, se fijará un Distrito Electoral por cada 150 mil habitantes o fracción que exceda de 75 mil. Por cada Distrito Electoral se elegirá un Diputado Propietario y su respectivo suplente. Este cubrirá las faltas temporales o absolutas de aquél; las primeras en caso de licencia o enfermedad del Propietario hasta la presentación de éste y, las segundas, hasta terminar el período para el que ambos fueron electos.
+La Legislatura del Estado se integrará con 23 Diputados electos por el sistema de mayoría relativa en distritos electorales uninominales y hasta con 6 Diputados electos, de acuerdo con el principio de representación proporcional, mediante el sistema de listas estatales votadas en una sola circunscripción plurinominal.
 
-La elección de Diputados será directa con sujeción a lo dispuesto en este artículo y se complementará, además, con Diputados de Partido, apegándose en ambos casos, a lo que disponga la Ley Electoral y en el segundo, a las reglas siguientes:
+La demarcación territorial de los Distritos electorales uninominales se fijará teniendo en cuenta la población total del Estado. En todo caso, cada Municipio tendrá cuando menos un distrito electoral uninominal.
 
-Todo partido político nacional o estatal, al obtener el 4 por ciento de la votación total en la Entidad, en la elección respectiva, tendrá derecho a que se acredite de sus candidatos, a un Diputado, y, hasta dos como máximo, si obtiene el 6 por ciento del total de votos emitidos.
+En la elección de los Diputados de representación proporcional, la circunscripción plurinominal corresponderá al total del territorio del Estado.
 
-Si logra la mayoría en dos o más Distritos Electorales, no tendrá derecho a que le sean reconocidos Diputados de Partido, pero si triunfa en número menor, siempre que logre el porcentaje mencionado en el párrafo anterior, tendrá derecho a que sean acreditados hasta dos Diputados, sumando el electo por mayoría y al que se le acredite la representación por razón de porcentaje.
+Para que un partido político obtenga el registro de su lista estatal en la elección de Diputados de representación proporcional, deberá acreditar que participa con candidatos a Diputados por mayoría relativa en por lo menos siete de los distritos uninominales.
 
-> <small>(F. DE E., 7 DE JUNIO DE 1974)</small>
+Sólo tendrán derecho a que se les asignen diputados de representación proporcional, los partidos que no hayan obtenido 4 o más constancias de mayoría y que como mínimo alcancen el 2.5% del total de la votación recibida por todas las listas estatales.
 
-Estos serán acreditados, por riguroso orden de acuerdo con el porcentaje decreciente de los sufragios que hayan logrado en relación a los demás candidatos del mismo Partido en toda la Entidad.
+Cuando dos o más partidos con derecho a participar en la distribución de diputados de representación proporcional obtengan en su conjunto 6 o más constancias de mayoría, sólo serán objeto de reparto 3 de las curules que deban asignarse por el sistema de representación proporcional.
 
-Solamente podrán acreditar Diputados, en los términos de este Artículo, los partidos políticos nacionales o estatales que hubieren obtenido su registro, conforme a la Ley Electoral del Estado, por lo menos con un año de anterioridad al día de la elección.
-
-Los Diputados de mayoría y los de partido, tendrán la misma categoría e iguales derechos y obligaciones.
+El número de Diputados de representación proporcional que se asigne a cada partido se determinará en función del porcentaje de votos obtenidos en la circunscripción, mediante la aplicación de las fórmulas electorales y procedimientos de asignación que señale la Ley. En todo caso, la asignación se hará siguiendo el orden que tuvieren los candidatos en las listas correspondientes.
 
 ###### Art. 25.
 
@@ -267,9 +271,13 @@ III. Sea mayor de 21 años en la fecha de la elección;
 
 IV. No podrá ser electo y será nula la elección que en su favor recayere; el Gobernador del Estado, el Secretario General de Gobierno, el Secretario de Finanzas, el Secretario del Desarrollo Económico, los Magistrados del Supremo Tribunal de Justicia, los Recaudadores de Rentas, los Jueces de Primera Instancia, y demás funcionarios que no sean de elección popular por el Distrito de su jurisdicción, así como los militares en servicio activo en el Ejército Nacional, o cualquiera persona que tenga mando en la policía del Estado o del Municipio a que corresponda el Distrito Electoral por el cual pretenda elegirse, a menos que todos ellos se hayan separado de su encargo por renuncia del mismo, cuando menos tres meses antes del día de la elección.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
+
 ###### Art. 26.
 
-Cada Legislatura calificará definitiva e irrevocablemente, las elecciones de sus propios miembros, fallando sin ulterior recurso en todas las cuestiones que sobre su validez se susciten. El reglamento interior del Congreso, señalará la manera de hacer dichas calificaciones.
+Cada Legislatura calificará definitiva e irrevocablemente las elecciones de sus propios miembros, a través de un Colegio Electoral que se integrará con los presuntos Diputados que hubieren obtenido sus respectivas constancias de mayoría o de asignación proporcional.
+
+La Ley Orgánica del Congreso del Estado señalará la manera de hacer dichas calificaciones.
 
 ###### Art. 27.
 
@@ -287,11 +295,13 @@ II. Si los Diputados presentes están en minoría, exhortarán simultáneamente 
 
 Los Diputados que en el curso de las sesiones, y sin causa justificada a juicio de la Cámara, falten diez días consecutivos, se entenderá que renuncian al cargo y se llamará a los Suplentes. Si éstos tampoco se presentan dentro de un plazo igual, se declarará la vacante del puesto y se procederá de acuerdo con el artículo siguiente.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 1944)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
 
 ###### Art. 30.
 
-En los casos de los artículos 28 y 29, y en general siempre que por ausencia injustificada o por faltas absolutas de los Diputados, no pueda haber quórum, los Ayuntamientos de las cabeceras de los Distritos Electorales, a petición de los Diputados presentes, nombrarán por mayoría de votos los correspondientes substitutos, quienes funcionarán por mientras se efectúan las nuevas elecciones, si la designación se hiciere dentro de los dos primeros años del período de funciones; más si fuere dentro del último, los substitutos terminarán el período.
+En los casos de los artículo (sic) 28 y 29 y, en general, siempre que por ausencia injustificada ó por faltas absolutas de los Diputados de Mayoría no pueda haber quórum, los Ayuntamientos de las cabeceras de los distritos electorales, a petición de los Diputados presentes, nombrarán por mayoría de votos los correspondientes sustitutos, quienes funcionarán mientras se efectúan las nuevas elecciones, si la designación se hiciera dentro de los dos primeros años del período de funciones; más si fuera dentro del último, los sustitutos terminarán el período.
+
+Las vacantes de los Diputados que hubiesen sido electos según el sistema de representación proporcional, se cubrirán con los candidatos postulados por su mismo partido que hubiesen quedado en lugar preferentemente en la lista estatal respectiva.
 
 ###### Art. 31.
 
@@ -301,9 +311,19 @@ Los Diputados que falten a sesión sin causa justificada o sin el permiso del Pr
 
 En caso de desaparición total del Congreso, el Ejecutivo del Estado, en lo inmediatamente posible, convocará a elecciones.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
+
 ###### Art. 33.
 
-Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de sus funciones, y jamás podrán ser reconvenidos por la expresión de sus ideas.
+Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de sus funciones y jamás podrán ser reconvenidos por la expresión de sus ideas.
+
+El Presidente del Congreso velará por el respeto al fuero constitucional de los miembros del mismo y por la inviolabilidad del recinto donde se reúnan a sesionar.
+
+El Congreso expedirá la Ley que regulará su estructura y funcionamiento.
+
+La Ley determinará las formas y procedimientos para la agrupación de los Diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el propio Congreso.
+
+Esta Ley no podrá ser vetada, ni necesitará promulgación del Ejecutivo del Estado para tener vigencia.
 
 ###### Art. 34.
 
@@ -355,9 +375,11 @@ A la apertura del Primer Período Ordinario de Sesiones del Congreso, asistirá 
 
 En el mes de enero de cada año, el Supremo Tribunal de Justicia del Estado enviará al Congreso un Informe por escrito sobre el estado que guarde la Administración de la Justicia en la Entidad. Este Informe comprenderá todo el año próximo anterior.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
+
 ###### Art. 41.
 
-Todas las sesiones del Congreso serán públicas, con excepción de las que el reglamento interior del mismo, disponga que sean secretas.
+Todas las sesiones del Congreso serán públicas, con excepción de las que su Ley Orgánica disponga que sean secretas.
 
 ###### Art. 42.
 
@@ -405,7 +427,9 @@ X. Decretar la traslación provisional de los Poderes del Estado, fuera de la ci
 
 XI. Convocar a toda clase de elecciones para funcionarios del Estado y Municipios, cuando fuere conducente.
 
-XII. Computar y calificar las elecciones de sus propios miembros y las del Gobernador del Estado, declarando electos a los que hayan obtenido mayoría de sufragios legales. Sus resoluciones en materia electoral serán irrevocables.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 1979)</small>
+
+XII. Computar y calificar las elecciones de sus propios miembros y las del Gobernador del Estado, declarando electos a quienes resultaren con derecho a ello, en la forma y con el procedimiento que al respecto establezcan esta Constitución y las demás Leyes sobre la materia. Sus decisiones serán definitivas e inatacables.
 
 XIII. Elegir al ciudadano que deba substituir al Gobernador del Estado, con el carácter de Substituto, o de Interino, en los términos que esta Constitución señala.
 
@@ -473,29 +497,31 @@ II. Delegar sus facultades legislativas. Solo en caso de guerra extranjera podr�
 
 #### SECCION III. DE LA INICIATIVA Y FORMACION DE LAS LEYES
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
+
 ###### Art. 45.
 
-El derecho de iniciar leyes y decretos o sus reformas, compete:
+El derecho de iniciar leyes y decretos o sus reformas compete:
 
-I. A los miembros del Congreso del Estado.
+I. A los miembros del Congreso del Estado;
 
-II. Al Gobernador del Estado.
+II. Al Gobernador del Estado;
 
-III. Al Supremo Tribunal de Justicia del Estado.
+III. Al Supremo Tribunal de Justicia del Estado;
 
-IV. A los Ayuntamientos del Estado.
+IV. A los Ayuntamientos del Estado;
 
-V. A los ciudadanos sinaloenses.
-
-> <small>(ADICIONADA, P.O. 15 DE ENERO DE 1938)</small>
+V. A los ciudadanos sinaloenses;
 
 VI. A los grupos legalmente organizados en el Estado.
 
-El reglamento interior del Congreso, especificará los trámites que tenga cada una de esas iniciativas.
+La Ley Orgánica del Congreso especificará los trámites que tenga cada una de esas iniciativas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 1979)</small>
 
 ###### Art. 46.
 
-Todo proyecto de ley o decreto, se discutirá con sujeción a las prescripciones del reglamento interior del Congreso, observándose además las siguientes prevenciones generales:
+Todo proyecto de Ley o Decreto se discutirá con sujeción a las disposiciones de la Ley Orgánica del Congreso, observándose además las siguientes prevenciones generales:
 
 I. Tres días a lo menos, antes de la discusión de las leyes o decretos, la Cámara dará aviso al Ejecutivo del Estado o al Supremo Tribunal de Justicia, o con la oportunidad necesaria, a los Ayuntamientos en sus respectivos casos, a fin de que si lo estiman conveniente, envíen un Representante, que con voz, pero sin voto, tome parte en las discusiones.
 
@@ -1093,13 +1119,17 @@ Los Ayuntamientos tendrán personalidad jurídica para todos los efectos legales
 
 Compete a los Ayuntamientos el ejercicio del Poder Municipal, con las limitaciones que las leyes señalan, correspondiendo al Presidente ejercer las funciones ejecutivas como Regidor Comisionado, llevar la Jefatura Política y Administrativa de la Municipalidad y presidir las sesiones del Cabildo.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
 
 ###### Art. 113.
 
-La designación de Primer Regidor Presidente Municipal, Propietario y Suplente, y demás Regidores, se verificará cada tres años por elección directa y entrarán a funcionar el día primero de enero previa protesta que otorgarán ante el H. Ayuntamiento saliente. Por cada Regidor Propietario se eligirá (sic) un Suplente.
+La designación de Primer Regidor Presidente Municipal, Propietario y Suplente y demás Regidores, se verificará cada 3 años por elección directa y entrarán a funcionar el día primero de enero previa protesta que otorgarán ante el Ayuntamiento saliente. Por cada Regidor Propietario se elegirá un Suplente.
 
-En las elecciones para integrar los Poderes del Estado y los Municipales la mujer igual que el varón sinaloenses tienen derecho de votar y ser votadas.
+Los Municipios con población de 200,000 o más habitantes complementarán sus Ayuntamientos hasta con 4 Regidores de representación proporcional.
+
+Los Partidos Políticos que no hubiesen logrado mayoría en la elección municipal, tendrán derecho a que se les acrediten Regidores en proporción a la votación recibida, siempre que hayan obtenido por lo menos el diez por ciento de la votación sufragada.
+
+La Ley determinará la forma y los procedimientos para la asignación de los Regidores de representación proporcional, debiéndose atender siempre al orden en que hayan sido postulados por sus respectivos partidos.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -1944,3 +1974,9 @@ P.O. 5 DE ENERO DE 1977.
 ###### ARTICULO UNICO.
 
 El presente Decreto empezará a surtir sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 18 DE ABRIL DE 1979.
+
+PRIMERO.- El presente Decreto surtirá sus efectos tres días después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO.- En tanto no se expida la Ley Orgánica del Congreso, seguirá aplicándose el Reglamento Interior del mismo que actualmente se encuentra en vigor.
