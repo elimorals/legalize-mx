@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2004-01-13"
+last_updated: "2004-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGANICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE OCTUBRE DE 2004.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -170,7 +170,13 @@ XXVIII.- Establecer los órganos y sistemas para identificar, investigar y deter
 
 XXIX.- Acordar por las dos terceras partes de sus miembros presentes, si somete o no a referéndum el proyecto del ordenamiento legal en proceso de creación, modificación, derogación o abrogación, en términos de lo dispuesto por el Estatuto de Gobierno del Distrito Federal así como las leyes correspondientes; y
 
-XXX.- Las demás que le otorga la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal, la presente Ley y otros ordenamientos aplicables.
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2004)</small>
+
+XXX. Otorgar la Medalla al Mérito Policial a los elementos de la Secretaría de Seguridad Pública del Distrito Federal, en el mes de diciembre de cada año, en reconocimiento al honor y distinción en el deber de mantener el orden público y la seguridad de los ciudadanos, con base los principios de legalidad, eficiencia, profesionalismo y honradez, en términos de su propio reglamento.
+
+> <small>(ADICIONADA, G.O. 22 DE OCTUBRE DE 2004)</small>
+
+XXXI. Las demás que le otorga la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal, la presente Ley y otros ordenamientos aplicables.
 
 ###### ARTÍCULO 11.
 
@@ -1069,3 +1075,11 @@ SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal únicamente para su
 G.O. 13 DE ENERO DE 2004.
 
 PRIMERO.- Estas reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 22 DE OCTUBRE DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor una vez que sea aprobado por el Pleno de esta Asamblea Legislativa, en consecuencia, publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El Reglamento para el otorgamiento de la Medalla al Mérito Policial, será elaborado por la Comisión de Seguridad Pública de la Asamblea Legislativa, dentro de los 60 días siguientes a su aprobación por el pleno.
+
+TERCERO.- El Reglamento a que se refiere al artículo transitorio, deberá ser aprobado por el Pleno de la Asamblea Legislativa del Distrito Federal y mandarse a la Jefatura de Gobierno, para el sólo efecto de su publicación en la Gaceta Oficial del Distrito Federal.
