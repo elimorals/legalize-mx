@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1977-11-05"
+last_updated: "1978-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 1978.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -273,27 +273,27 @@ La capital del Estado de Nayarit, es la ciudad de Tepic, y en ella residirán ha
 
 El Poder Legislativo del Estado se depositará en una asamblea que se denominará: CONGRESO DEL ESTADO.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 1975)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1978)</small>
 
 ###### Art. 26.
 
-El Congreso del Estado se compondrá de nueve representantes electos popularmente, complementándose con diputados de partido. Por cada diputado propietario se elegirá un suplente.
+El Congreso del Estado se integrará de quince Diputados, electos mediante el sistema de mayoría relativa, en Distritos Uninominales, y hasta cinco Diputados electos mediante el sistema de representación proporcional, votados por listas de candidatos en una sola circunscripción plurinominal constituida por los quince Distritos Uninominales. Por cada Diputado Propietario, se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 1975)</small>
+La demarcación territorial de los quince Distritos Electorales Uninominales, será la que resulte de dividir la población total del Estado, entre el número de los Distritos Electorales Uninominales señalados o considerando regiones geográficas de la Entidad.
+
+Las elecciones de Diputados serán calificadas por un Colegio Electoral, que se integrará con cuatro presuntos Diputados electos por el principio de mayoría relativa y dos presuntos Diputados electos por el principio de representación proporcional, que serán aquellos que hayan obtenido la votación más alta en la elección respectiva. Su resolución será definitiva e inatacable.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1978)</small>
 
 ###### Art. 27.
 
-La elección de diputados será directa por mayoría de sufragios y se complementará, además, con diputados de partido, apegándose, en ambos casos a lo que disponga la Ley Electoral del Estado y, en el segundo además, a las reglas siguientes:
+La elección de los Diputados por el principio de representación proporcional, se efectuará mediante el sistema de listas de candidatos que presentarán los Partidos Políticos y observando las siguientes reglas:
 
-I.- Todos los partidos políticos registrados cuando menos un año antes al día de la elección, podrán acreditar diputados de partido.
+I.- Podrán postular a candidatos a Diputados para la elección por el principio de representación proporcional, todos los Partidos Políticos con derecho a participar en las elecciones del Estado, siempre que hayan registrado candidatos en, por lo menos, la tercera parte de los Distritos Electorales uninominales.
 
-II.- El porcentaje para acreditar un diputado de partido, será, cuando menos, del cuatro por ciento de la votación total en la entidad, en la elección respectiva, y de seis por ciento más de la votación global para el segundo de los diputados de partido, en la inteligencia de que cada partido no podrá acreditar más de dos diputados por partido.
+II.- Tendrán derecho a participar en la asignación de Diputados electos por el principio de representación proporcional, aquellos Partidos que habiendo obtenido por lo menos el uno y medio por ciento de la votación total emitida en la elección correspondiente, no hayan logrado una o más Diputaciones de mayoría relativa.
 
-III.- Cada diputado de mayoría excluye uno de partido, por lo que si el partido obtiene dos o más diputados de mayoría, ya no podrá acreditar diputados de partido.
-
-IV. El Congreso del Estado hará el cómputo de los votos de los partidos minoritarios, determinará cuantos diputados corresponden a cada partido y declarará diputados de partido a los candidatos que obtengan el mayor porcentaje de votación en relación a los votos totales de la elección. Serán diputados de partido suplentes los que hayan figurado como tales en la elección.
-
-V.- Los diputados de partido tendrán igual categoría, derechos y obligaciones que los de mayoría.
+La Ley Electoral del Estado determinará el procedimiento a que se sujetará la asignación de Diputados electos por el principio de representación proporcional.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1943)</small>
 
@@ -325,11 +325,13 @@ Los Diputados no podrán, durante el período de sus funciones, desempeñar otra
 
 ### CAPITULO II. De la instalación, duración y labores del Congreso
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1978)</small>
 
 ###### Art. 32.
 
-El Congreso del Estado no podrá abrir sus sesiones sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes deberán reunirse el día señalado por la Ley y compeler a los ausentes a que concurran dentro de los diez días siguientes, con la advertencia de que si no lo hicieren se entenderá, por ese solo hecho, que no aceptan su encargo, llamándose luego a los suplentes, los que deberán presentarse en un plazo de veinte días, y si tampoco lo hiciesen, se declarará vacante el cargo y se convocará a nuevas elecciones; excepto con justa causa.
+El Congreso del Estado no podrá abrir sus sesiones ni ejercer sus funciones, sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes deberán reunirse el día señalado por la Ley y compeler a los ausentes a que concurran dentro de los diez días siguientes, con la advertencia de que, si no lo hicieren, se entenderá por ese sólo hecho, que no aceptan su cargo, llamándose desde luego a los suplentes, los que deberán presentarse en un plazo igual, y si tampoco concurren, se declarará vacante el cargo, siempre y cuando en ambos casos no medie causa justificada.
+
+Cuando se produzcan vacantes en el Congreso por cualquiera de las causas previstas por esta Constitución; si se trata de Diputados electos por mayoría relativa, se convocará a nuevas elecciones; si trata de Diputados electos por el principio de representación proporcional, se cubrirá la vacante con aquellos candidatos del mismos Partido que hubieren quedado en lugar preferente en la lista respectiva.
 
 ###### Art. 33.
 
@@ -1069,15 +1071,19 @@ De la responsabilidad de los Funcionarios Públicos.
 
 El régimen interior de las Municipalidades, estará a cargo de corporaciones que se denominarán Ayuntamientos, no habiendo entre éstos y el Gobierno del Estado, ninguna autoridad intermedia.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1978)</small>
+
 ###### Art. 107.
 
-Los miembros de las Corporaciones Municipales serán electos popularmente, y su elección será directa en los términos que prescriba la ley respectiva.
+Los miembros de las corporaciones Municipales serán electos popularmente y su elección será directa en los términos que prescribe la Ley Electoral del Estado.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+En el caso de los Municipios con más de trescientos mil habitantes, de acuerdo con el último censo general de población, los miembros de sus Ayuntamientos se elegirán conforme al siguiente procedimiento: El Primer Regidor y Síndico serán electos por votación mayoritaria relativa; y el resto de los Regidores, serán electos mediante el sistema de representación proporcional, en los términos que señale la Ley Electoral del Estado.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1978)</small>
 
 ###### Art. 108.
 
-De los miembros de los Ayuntamientos habrá uno que se denominará Presidente Municipal, y representará al Ayuntamiento en el orden político y Administrativo; otro, Síndico con la representación Jurídica, y los demás, regidores. El Presidente Municipal, el Síndico y los Regidores serán electos directamente por el pueblo.
+Los miembros integrantes de los Ayuntamientos Constitucionales del Estado se denominarán: Presidente Municipal que será el Primer Regidor y representará al Ayuntamiento en el orden político y administrativo; Síndico el que tendrá la representación jurídica; y los demás Regidores.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 1930)</small>
 
@@ -1566,3 +1572,9 @@ P.O. 5 DE NOVIEMBRE DE 1977.
 DECRETO 5980, REFORMA ARTS. 37 Y 69.
 
 UNICO.- Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 22 DE ABRIL DE 1978.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
