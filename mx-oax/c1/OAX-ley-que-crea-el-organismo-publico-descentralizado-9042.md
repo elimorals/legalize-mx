@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-el-organismo-publico-descentralizado-9042"
 country: "mx"
 rank: "ley"
 publication_date: "1981-03-18"
-last_updated: "2001-02-10"
+last_updated: "2004-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "ARTESANIAS E INDUSTRIAS POPULARES DEL ESTADO DE OAXACA"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2001.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO OAXAQUEÑO DE LAS ARRTESANIAS, PUBLICADA EN EL PERIODICO OFICIAL EL 4 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el miércoles 18 de Marzo de 1981.
 
@@ -360,3 +362,11 @@ P.O. 10 DE FEBRERO DEL 2001.
 PRIMERO.- El presente decreto, entrará en vigor a partir del día siguiente, al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Se derogan las disposiciones de igual o menor rango que se opongan al presente decreto.
+
+P.O. 4 DE DICIEMBRE DE 2004.
+
+PRIMERO.- El presente Decreto, entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Instituto deberá de expedir su Reglamento Interno, en un plazo no mayor a noventa días hábiles, posteriores a la publicación del presente Decreto.
+
+TERCERO.- Se abroga la Ley que crea el organismo público descentralizado denominado "Artesanías e Industrias Populares de Oaxaca". Los recursos humanos, materiales y financieros a su cargo, pasarán a formar parte de "El Instituto". Las disposiciones legales y reglamentarias que contengan la denominación, "Artesanías e Industrias Populares de Oaxaca", se entenderá que se trata del Instituto Oaxaqueño de las Artesanías. Los actos e instrumentos celebrados por la institución denominada "Artesanías e Industrias Populares de Oaxaca", seguirán vigentes y se entenderán celebrados por "El Instituto Oaxaqueño de las Artesanías", sin menoscabarse los derechos laborales de sus trabajadores los que se entenderán intocados. Por esta única ocasión se faculta ampliamente a la Secretaría de Administración para que en uso de sus facultades legales, realice todos los actos concernientes para dar el debido cumplimiento de la presente Ley.
