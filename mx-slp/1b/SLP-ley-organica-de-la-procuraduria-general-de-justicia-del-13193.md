@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-procuraduria-general-de-justicia-del-13193"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-19"
-last_updated: "1998-12-19"
+last_updated: "2003-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2003.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de diciembre de 1998.
 
@@ -165,31 +165,47 @@ XIII. Un Director de Prevención del Delito y Atención a la Comunidad,
 
 XIV. Un Director de Servicios Periciales, Criminalística y Medicina Forense;
 
-XV. Un Director de la Policía Ministerial del Estado;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2003)</small>
+
+XV. Un Director General de la Policía Ministerial del Estado;
 
 XVI. Un Director de Administración;
 
 XVII. Un Director de Comunicación Social;
 
-XVIII. Un Director de Rezagos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2003)</small>
+
+XVIII. Un Director de Apoyo, Actualización, Evaluación y Resoluciones;
 
 XIX. Un Director de Informática;
 
 XX. Un Director del Instituto de Formación Ministerial;
 
-XXI. Agentes del Ministerio Público, cuya adscripción determinará el Procurador;
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2003)</small>
 
-XXII. Agentes de la Policía Ministerial;
+XXI. Un Director Jurídico y de Extradiciones;
 
-XXIII. Los Asesores del Procurador;
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2003)</small>
 
-XXIV. Los Visitadores;
+XXII. Un Director de Proyectos de Resolución de No Ejercicio de la Acción Penal, de conformidad con el artículo 167 del Código de Procedimientos Penales del Estado;
 
-XXV. El Contralor Interno;
+XXIII. Agentes del Ministerio Público, cuya adscripción determinará el Procurador;
 
-XXVI. El Consejo Consultivo de Justicia, y
+XXIV. Agentes de la Policía Ministerial;
 
-XXVII. Los Subdirectores, Jefes de Departamento, Secretarios de Acuerdos y demás personal que sea necesario y que autoricen el Reglamento interior de la dependencia y el presupuesto de egresos del Estado.
+XXV. Los Asesores del Procurador;
+
+XXVI. Los Visitadores;
+
+XXVII. El Contralor Interno;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2003)</small>
+
+XXVIII. El Consejo Consultivo de Procuración de Justicia, y
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2003)</small>
+
+XXIX. Los Coordinadores de Area, Subdirectores, los Jefes de Departamento, Secretarios de Acuerdos, Peritos y demás personal que sea necesario, y que autorice el reglamento de esta Ley, así como la Ley del Presupuesto de Egresos del Estado.
 
 ### CAPITULO II. DEL PROCURADOR GENERAL DE JUSTICIA
 
@@ -245,7 +261,9 @@ V. Ejercer el mando directo de la Policía Ministerial;
 
 VI. Confirmar, revocar o modificar las conclusiones no acusatorias de los Agentes del Ministerio Público en los procesos penales, de conformidad con lo establecido en el Código de Procedimientos Penales del Estado, así como conocer de actos cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del inculpado antes que se pronuncie sentencia;
 
-VII. Confirmar, revocar o modificar las determinaciones de no ejercicio de la acción penal en las averiguaciones previas, de conformidad con el Código de Procedimientos Penales del Estado;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2003)</small>
+
+VII. Confirmar o revocar las determinaciones de no ejercicio de la acción penal en las averiguaciones previas, de conformidad con el artículo 167 del Código de Procedimientos Penales del Estado;
 
 VIII. Autorizar el desistimiento de la acción penal en los casos que legalmente proceda;
 
@@ -269,7 +287,9 @@ II. Delegar en sus subalternos cualquiera de sus facultades, salvo aquellas que 
 
 III. Rendir informe sobre los asuntos que esté conociendo cuando así se lo requiera el Gobernador del Estado, o cuando él mismo lo estime necesario;
 
-IV. Elaborar y someter a la aprobación del Ejecutivo el reglamento de esta Ley, expedir los acuerdos, circulares y los manuales de organización y de procedimientos, conducentes al buen despacho de las funciones de la Procuraduría, así como resolver por sí o por conducto del funcionario que determine sobre el ingreso, la promoción, la adscripción, las renuncias, las sanciones y los estímulos de sus subalternos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2003)</small>
+
+IV. Elaborar y someter a la aprobación del titular del Poder Ejecutivo el reglamento de esta Ley y los demás que la misma indica; expedir los acuerdos y circulares, así como los manuales de organización y de procedimiento conducentes al buen despacho de las funciones de la Procuraduría; resolver por sí o por conducto del funcionario que determine, sobre los ingresos, promociones, adscripciones, permisos, remociones, bajas o ceses del servicio, terminaciones de las relaciones laborales, renuncias, sanciones y los estímulos de sus subalternos, en coordinación con la Oficialía Mayor de Gobierno del Estado;
 
 V. Imponer por sí o por conducto del funcionario que para el efecto designe, las sanciones disciplinarias a que se haga acreedor el personal de la Procuraduría, por faltas cometidas en el desempeño de sus funciones;
 
@@ -365,9 +385,11 @@ IV. Haber residido en el Estado, por lo menos dos años antes del día de su nom
 
 Los titulares de las Direcciones señaladas por las fracciones XI, XII, XIII, XVIII y XX del artículo 6° del presente ordenamiento, deberán ser licenciados en derecho o abogado, con título legalmente expedido y registrado ante la dependencia gubernamental correspondiente, así como tener por lo menos dos años de ejercicio profesional.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 19.
 
-Las direcciones contempladas en el artículo 6o. de la presente Ley, deberán cumplir con las atribuciones que les señale el Reglamento de la presente Ley.
+Las direcciones contempladas en el artículo 6° de la presente Ley, deberán cumplir con las atribuciones que les señale el reglamento de la misma, a excepción de la Dirección General de la Policía Ministerial que se regirá por su propio reglamento interior.
 
 ### CAPITULO V. DEL INSTITUTO DE FORMACION MINISTERIAL
 
@@ -399,7 +421,9 @@ VII. Fomentar, apoyar y divulgar la investigación de materias afines a la procu
 
 La profesionalización de los Agentes de la Policía Ministerial es obligatoria, y su actuación invariablemente se ajustará a los principios de legalidad, eficiencia y honradez.
 
-En el Reglamento de la Ley se establecerán los requisitos y procedimientos de selección de ingreso, formación, capacitación, adiestramiento, desarrollo y actualización de los servidores públicos de la Procuraduría.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2003)</small>
+
+En el reglamento del Instituto de Formación Ministerial se establecerán los requisitos y procedimientos de selección de ingreso, formación, capacitación, adiestramiento, desarrollo y actualización de los servidores públicos de la Procuraduría.
 
 ### CAPITULO VI. DE LOS AGENTES DEL MINISTERIO PUBLICO Y DE LA POLICIA MINISTERIAL
 
@@ -447,15 +471,19 @@ Son auxiliares directos del Agente del Ministerio Público, en la investigación
 
 I. La Policía Ministerial;
 
-II. Los Servicios Periciales;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2003)</small>
+
+II. Los Servicios Periciales, de Criminalística y Medicina Forense;
 
 III. Los Síndicos Municipales, quienes actuarán en sus respectivos Municipios donde no haya Agente del Ministerio Público o éste se encuentre ausente, dando cuenta de lo actuado a la brevedad posible al Representante Social más cercano, y
 
 IV. Las demás corporaciones que ejerzan funciones de Policía dentro del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 30.
 
-Para ser Agente de la Policía Ministerial se requiere:
+Para ser y permanecer como Agente de la Policía Ministerial, se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
@@ -541,13 +569,17 @@ Sin perjuicio de lo establecido en el artículo anterior, la Contraloría Intern
 
 La Contraloría Interna de la Procuraduría determinará las sanciones a que se hagan acreedores los servidores públicos de la institución, en los términos previstos por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, mediante el procedimiento que dicha ley y las demás aplicables previenen, sin perjuicio de lo que señala el artículo 11, fracción V de la presente Ley.
 
-### CAPITULO III. DEL CONSEJO CONSULTIVO
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE MAYO DE 2003)</small>
+
+### CAPITULO III. DEL CONSEJO CONSULTIVO DE PROCURACION DE JUSTICIA
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 40.
 
-El Consejo Consultivo es el órgano de vigilancia externa de participación ciudadana de la Procuraduría General de Justicia del Estado, encargado de la supervisión global de las acciones de la misma desde el punto de vista político y social, emitiendo opiniones sobre su desempeño. Asimismo, emitirá las recomendaciones y puntos de vista que considere pertinentes para el mejoramiento de la procuración de justicia.
+El Consejo Consultivo de Procuración de Justicia, es el órgano de vigilancia externa de participación ciudadana de la Procuraduría General de Justicia del Estado, encargado de la supervisión global de las acciones de la misma desde el punto de vista político y social, expresando opiniones sobre su desempeño. Asimismo, emitirá las recomendaciones y consideraciones que estime pertinentes para el mejoramiento de la procuración de justicia.
 
-La integración y funcionamiento del Consejo Consultivo se regirán por el Reglamento de esta Ley.
+La integración y funcionamiento del Consejo Consultivo de Procuración de Justicia, se regirá por el reglamento de esta Ley y el manual respectivo.
 
 ## TITULO CUARTO. DE LOS SUBDIRECTORES, JEFES DE DEPARTAMENTO Y SECRETARIOS DE ACUERDOS
 
@@ -601,13 +633,33 @@ V. Las demás que señale el Reglamento de la presente Ley.
 
 El personal de la Procuraduría tendrá derecho a estímulos honoríficos, ascensos o numerario, cuando su desempeño y servicios prestados a la institución lo ameriten. Estos estímulos y reconocimientos serán independientes de los considerados en otras leyes y se regirán por el Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 46.
 
-El Procurador General de Justicia impondrá al personal de la Procuraduría, las sanciones disciplinarias que procedan, previa garantía de audiencia que se dé al interesado, de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+El Procurador General de Justicia impondrá al personal de la Procuraduría, las sanciones disciplinarias que procedan por incumplimiento de las funciones y obligaciones previstas en la presente Ley y en su reglamento, previa garantía de audiencia que se dé al interesado, de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, sin perjuicio de lo previsto en el artículo 123 apartado B fracción XIII de la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables; con excepción de los agentes de la Policía Ministerial, que se manejarán de acuerdo con lo previsto en el Título Séptimo de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2003)</small>
+
+ARTICULO 46 BIS. A los agentes de la Policía Ministerial se les podrán imponer las siguientes sanciones disciplinarias:
+
+I. Amonestación;
+
+II. Arresto hasta por treinta y seis horas;
+
+III. Suspensión temporal de funciones hasta por noventa días, y
+
+IV. Remoción ó cese del servicio.
+
+Las sanciones previstas en las fracciones I y II serán aplicadas por el superior inmediato del agente; las establecidas en las fracciones III y IV por la Comisión de Honor y Justicia.
 
 ## TITULO SEXTO. DE LAS SUPLENCIAS, RECUSACIONES, EXCUSAS E INCOMPATIBILIDADES
 
-### CAPITULO UNICO
+> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE MAYO DE 2003)</small>
+
+### CAPITULO UNICO. DE LA COMISION DE HONOR Y JUSTICIA
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 47.
 
@@ -630,6 +682,50 @@ Los servidores públicos de la Procuraduría no podrán desempeñar otro empleo,
 ###### ARTICULO 51.
 
 Los servidores públicos de la Procuraduría, no podrán ejercer la abogacía, sino en causa propia, de su cónyuge, concubina o concubinario, de sus familiares hasta el cuarto grado o de su adoptante o adoptado. Tampoco podrán ser ministros de algún culto religioso, ni ejercer o desempeñar las funciones de depositario, apoderado judicial, tutor, curador o albacea, a no ser que tengan el carácter de heredero o legatario.
+
+## TITULO SEPTIMO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE MAYO DE 2003)</small>
+
+### CAPITULO UNICO
+
+###### ARTICULO 52.
+
+La facultad de orientar y corregir disciplinariamente a los agentes de la Policía Ministerial, corresponde al superior jerárquico en los términos de esta Ley, de su reglamento y del reglamento interior de la Dirección General de la Policía Ministerial; tomando en consideración la jerarquía del infractor, antecedentes, comportamiento y las circunstancias concurrentes; debiendo integrarse a su expediente las sanciones que se le impongan.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2003)</small>
+
+###### ARTICULO 53.
+
+La Comisión de Honor y de Justicia de la Procuraduría General de Justicia del Estado, es el órgano colegiado competente para conocer de los conflictos derivados de la relación administrativa existente entre los agentes de la Policía Ministerial. Dicha Comisión deberá además conocer y dictaminar sobre la actuación y comportamiento de los agentes de la Policía Ministerial, y aplicar las sanciones disciplinarias previstas en las fracciones III y IV del artículo 46 BIS de esta Ley, a que se hagan acreedores con motivo del incumplimiento de sus funciones u obligaciones; así como proponer al Procurador, los estímulos que deban otorgárseles en los términos que fijen los respectivos reglamentos.
+
+La Comisión de Honor y Justicia tendrá la obligación de poner a disposición de la autoridad competente, a los agentes de la Policía Ministerial que cometan actos constitutivos de delitos.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2003)</small>
+
+###### ARTICULO 54.
+
+La Comisión de Honor y Justicia de la Procuraduría General de Justicia, estará integrada por:
+
+I. Un Presidente, que será el Procurador General de Justicia ó quien designe en su lugar;
+
+II. Un Secretario, que será un representante del Secretario General de Gobierno;
+
+III. Tres vocales, que serán, el Subprocurador General de Averiguaciones Previas; el Director Jurídico de la Policía Ministerial y el Director Administrativo de la Procuraduría General de Justicia.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2003)</small>
+
+###### ARTICULO 55.
+
+La Comisión de Honor y Justicia sesionará cuando el asunto a conocer lo requiera, previa convocatoria de su Presidente.
+
+Los cargos de los integrantes de la Comisión de Honor y Justicia serán honoríficos.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2003)</small>
+
+###### ARTICULO 56.
+
+El procedimiento ante la Comisión de Honor y Justicia se sujetará a las formalidades previstas en el reglamento interior de la Dirección General de la Policía Ministerial, sin perjuicio de lo previsto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de San Luis Potosí, la presente Ley y su reglamento, y demás leyes aplicables.
 
 ## TRANSITORIOS
 
@@ -662,3 +758,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. JUAN CARLOS BARRON CERDA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE MAYO DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. El titular del Poder Ejecutivo del Estado, dentro del término de sesenta días contados a partir de la entrada en vigor del presente Decreto, deberá expedir el Reglamento Interior de la Dirección General de la Policía Ministerial, así como realizar las reformas correspondientes al Reglamento de la Ley Orgánica de la Procuraduría General de Justicia, como consecuencia del inicio de vigencia de este Decreto.
+
+CUARTO. La Comisión de Honor y Justicia de la Procuraduría General de Justicia, deberá estar integrada dentro de los quince días contados a partir de la entrada en vigor del presente Decreto.
