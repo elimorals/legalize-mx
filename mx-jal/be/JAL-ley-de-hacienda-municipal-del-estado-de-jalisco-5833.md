@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2002-05-21"
+last_updated: "2003-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1951,17 +1951,17 @@ XIII. Otros no especificados.
 
 Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Municipio por concepto de Participaciones Federales y Estatales, de conformidad a lo dispuesto en las Leyes que las concedan y en los convenios que, en su caso, se celebren o se hayan celebrado.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 1998)</small>
 
 ## TITULO SEXTO. De las Aportaciones Federales para Fines Específicos
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 1998)</small>
 
 ### CAPITULO UNICO
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 1998)</small>
 
 Art. 194 bis. Las aportaciones federales para fines específicos que a través de los diferentes fondos le corresponden al Municipio, se percibirán en los términos que establezcan el Presupuesto de Egresos de la Federación, la Ley de Coordinación Fiscal y los convenios respectivos.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 1998)</small>
 
 # LIBRO TERCERO. De los Ilícitos Fiscales
 
@@ -2124,6 +2124,10 @@ X. Deuda pública;
 > <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1998)</small>
 
 XI. Fondo de Aportaciones Federales para fines específicos.
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
+
+XII. Responsabilidad patrimonial.
 
 2ª. Estos ramos se dividirán en partidas, que representarán en forma específica el gasto público; y
 
@@ -3314,3 +3318,13 @@ TERCERO.- Para el ejercicio fiscal del 2002, el Comité Técnico de Valoración 
 P.O. 21 DE MAYO DE 2002.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- El presente decreto entrará en vigor el 1 de enero del año 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- Los asuntos que se encuentren en trámite en las dependencias o entidades relacionados con la indemnización a los particulares, derivados de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo a las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
+
+CUARTO.- El Gobierno del Estado y los ayuntamientos deberán incluir en sus respectivos presupuestos de egresos para el ejercicio fiscal del año 2004, una partida que haga frente a su responsabilidad patrimonial.
