@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-obras-publicas-y-servicios-relacionados-para-el-14472"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "1999-06-06"
+last_updated: "2001-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMADA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Gobierno Constitucional del Estado de Aguascalientes, el 6 de junio de 1999.
 
@@ -301,7 +301,9 @@ I.- Un Presidente, que será el titular de la Secretaría del Ramo en el Estado;
 
 II.- Una Secretaría Ejecutivo, que será el Director General de Obras y Servicios Públicos de la Secretaría del Ramo;
 
-III.- Los siguientes vocales, un representante de la Cámara de la Industria de la Construcción, un representante del Colegio de Profesionistas que tenga interés en la obra, un representante del Congreso del Estado, un representante de la Contraloría del Estado, un representante de la Secretaría de Finanzas del Estado, un representante de la Secretaría de Desarrollo Social del Estado, un representante del COPLADE y un representante de la dependencia que vaya a operar la obra y/o de los beneficiarios de la obra.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+III.- Los siguientes vocales: un representante de la Cámara de la Industria de la Construcción, un representante del Colegio de Profesionistas que tenga interés en la obra, un representante del Congreso del Estado, un representante de la Contraloría del Estado, un representante de la Secretaría de Finanzas del Estado, un representante de la Secretaría de Desarrollo Social del Estado, un representante de la Secretaría de Planeación del Estado y un representante de la dependencia que vaya a operar la obra y/o de los beneficiarios de la obra.
 
 ### CAPITULO III. De la Licitación Pública
 
@@ -809,7 +811,9 @@ El contratista comunicará al Sujeto de la Ley la terminación de los trabajos q
 
 Una vez que se haya constatado la terminación de los trabajos en los términos del párrafo anterior, el Sujeto de la Ley procederá a su recepción dentro del plazo que para tal efecto se haya establecido en el propio contrato, el cual no podrá exceder de diez días calendario, contados a partir de la comunicación de terminación de los trabajos. Al concluir dicho plazo, sin que el Sujeto de la Ley haya recibido los trabajos, bajo su responsabilidad, éstos se tendrán por recibidos.
 
-El Sujeto de la Ley comunicará a la Contraloría y al COPLADE terminación de los trabajos e informará la fecha señalada para su recepción a fin de que, si lo estiman conveniente, nombren representantes que asistan al acto.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+El Sujeto de la Ley comunicará a la Contraloría y a la Secretaría de Planeación del Estado la terminación de los trabajos e informará la fecha señalada para su recepción a fin de que, si lo creen conveniente, nombren representantes que asistan al acto.
 
 En la fecha señalada, el Sujeto de la Ley, bajo su responsabilidad, recibirá los trabajos y levantará el acta correspondiente.
 
@@ -1118,3 +1122,9 @@ Aguascalientes, Ags., 3 de junio de 1999.
 Felipe González González.
 
 EL SECRETARIO GENERAL DE GOBIERNO, Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2001.
+
+UNICO.- El presente decreto entrará en vigor a partir del 1o. del año 2002.
