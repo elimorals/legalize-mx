@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-22-1996-del-pleno-del-consejo-de-la-6305
 country: "mx"
 rank: "acuerdo"
 publication_date: "1996-10-31"
-last_updated: "1996-10-31"
+last_updated: "1997-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63059&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-10-23"
 
 ACUERDO GENERAL NUMERO 22/1996, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACION, DENOMINACION, JURISDICCION TERRITORIAL, COMPETENCIA Y FECHA DE INICIACION DE FUNCIONAMIENTO DE LOS NUEVOS JUZGADOS DE DISTRITO EN MATERIA CIVIL EN EL DISTRITO FEDERAL; A LAS REGLAS DE TURNO Y AL SISTEMA DE DISTRIBUCION DE ASUNTOS ENTRE DICHOS JUZGADOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE SEPTIEMBRE DE 1997.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 31 de octubre de 1996.
 
@@ -61,11 +61,15 @@ TERCERO.- Se modifica el Acuerdo 1/1993 del Pleno de la Suprema Corte de Justici
 
 “I.- PRIMER CIRCUITO: ...
 
-2.- Treinta y dos juzgados de distrito en el Distrito Federal, con residencia en la Ciudad de México.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL NUMERO 24/1997, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE SEPTIEMBRE DE 1997)</small>
+
+2.- Treinta y cuatro juzgados de distrito en el Distrito Federal, con residencia en la Ciudad de México.
 
 CUARTO.- Se modifica el punto CUARTO, del propio Acuerdo 1/1993, para quedar en los términos siguientes:
 
-CUARTO.- Los treinta y dos juzgados de distrito con residencia en el Distrito Federal serán especializados: doce en materia penal, diez en materia administrativa, ocho en materia civil y dos en materia de trabajo.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL NUMERO 24/1997, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE SEPTIEMBRE DE 1997)</small>
+
+CUARTO.- Los treinta y cuatro juzgados de distrito con residencia en el Distrito Federal serán especializados: doce en materia penal, diez en materia administrativa, diez en materia civil y dos en materia de trabajo.
 
 QUINTO.- El turno y distribución de asuntos entre los Juzgados Séptimo y Octavo de Distrito en Materia Civil en el Distrito Federal, se determina bajo las siguientes reglas:
 
@@ -94,3 +98,15 @@ CUARTO.- El Pleno del Consejo de la Judicatura Federal resolverá cualquier cues
 QUINTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
 
 EL LICENCIADO ADOLFO O. ARAGON MENDIA, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General número 22/1996, relativo a la creación, denominación, jurisdicción territorial, competencia y fecha de iniciación de funcionamiento de los nuevos juzgados de Distrito en Materia Civil en el Distrito Federal; a las reglas de turno y al sistema de distribución de asuntos entre dichos juzgados, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sus sesiones de dieciséis y veintitrés de octubre de mil novecientos noventa y seis, por unanimidad de votos de los señores Consejeros: Presidente ministro José Vicente Aguinaco Alemán, Alonso Galván Villagómez, Mario Melgar Adalid, Ricardo Méndez Silva, Alfonso Oñate Laborde y Luis Gilberto Vargas Chávez.- México, Distrito Federal, a veintinueve de octubre de mil novecientos noventa y seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 1 DE SEPTIEMBRE DE 1997.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se modifica el Acuerdo 1/1993 del Pleno de la Suprema Corte de Justicia de la Nación, de fecha trece de enero de mil novecientos noventa y tres, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
