@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-sociedades-mutualistas-del-estado-de-tamaulipas-9798"
 country: "mx"
 rank: "ley"
 publication_date: "1953-10-24"
-last_updated: "1960-03-23"
+last_updated: "2004-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE SOCIEDADES MUTUALISTAS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 1960.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE REGULA LA INTEGRACION Y OPERATIVIDAD DE LAS SOCIEDADES MUTUALISTAS PARA EL ESTADO DE TAMAULIPAS, PUBLICADA EN EL PERIODICO OFICIAL EL 2 DE MARZO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial, el 24 de octubre de 1953.
 
@@ -226,3 +228,13 @@ N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRET
 P.O. 23 DE MARZO DE 1960
 
 UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE MARZO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Sociedades Mutualistas del Estado de Tamaulipas, expedida mediante Decreto 281 de la Cuadragésima Primera Legislatura del Estado el 23 de septiembre de 1953 y publicada en el Periódico Oficial del Estado número 85 del 24 de octubre de 1953.
