@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-5-2000-del-pleno-del-consejo-de-la-50060
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-02-16"
-last_updated: "2003-08-28"
+last_updated: "2004-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50060&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-02-08"
 
 ACUERDO GENERAL NUMERO 5/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LA ADSCRIPCION DE DIVERSAS UNIDADES ADMINISTRATIVAS A LA PRESIDENCIA DEL MISMO, Y ACTUALIZA LAS ATRIBUCIONES DEL SECRETARIADO EJECUTIVO, CON LAS DIRECCIONES GENERALES QUE LES CORRESPONDEN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 2004.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 16 de febrero de 2000.
 
@@ -63,9 +63,9 @@ Estructura. La Presidencia del Consejo de la Judicatura Federal contará, para e
 
 I. Adjunta;
 
-II. De Asuntos Jurídicos;
+II. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)
 
-III. De Comunicación Social, y (sic)
+III. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)
 
 > <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 5/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE MARZO DE 2003)</small>
 
@@ -105,89 +105,19 @@ XI. Las demás que le atribuya expresamente el Presidente del Consejo de la Judi
 
 ###### Artículo 4o.
 
-Objetivo. La Dirección General de Asuntos Jurídicos se encargará de llevar a cabo gestiones legales ante toda clase de autoridades, instituciones, entidades y personas para el debido resguardo de los intereses del Consejo de la Judicatura Federal; de participar en la elaboración de la normatividad del propio Consejo; así como de brindar asesoría y asistencia técnico-jurídica a los órganos jurisdiccionales y áreas administrativas que lo integran, a efecto de que los actos que realicen se ajusten al marco normativo que regula su actuación.
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)
 
 ###### Artículo 5o.
 
-Atribuciones. La Dirección General de Asuntos Jurídicos tendrá las siguientes atribuciones:
-
-I. Dar apoyo técnico-jurídico al Presidente del Consejo de la Judicatura Federal en todos los asuntos que éste le encomiende;
-
-II. Formular y proponer al Presidente del Consejo de la Judicatura Federal los proyectos de acuerdos generales, específicos y de normatividad interna o reformas a éstos que estime necesarios para el adecuado funcionamiento del Consejo de la Judicatura Federal, así como analizar aquéllos que se presenten por otras áreas del propio Consejo y emitir opinión sobre ellos;
-
-III. Proponer al Presidente del Consejo de la Judicatura Federal los proyectos de convenios de colaboración, coordinación e intercambio con entidades federativas e instituciones públicas o privadas, nacionales o extranjeras, que se consideren necesarios para asegurar un adecuado ejercicio de la función jurisdiccional federal, y en su caso, dar opinión sobre proyectos en la misma materia que se presenten al Consejo;
-
-IV. Coadyuvar con las Secretarías Ejecutivas y Organos del Consejo de la Judicatura Federal, en la actualización y simplificación del marco normativo interno;
-
-V. Proporcionar apoyo y asesoría en materia técnico-jurídica, a las entidades federativas e instituciones públicas o privadas que lo soliciten, relacionados con las funciones y atribuciones propias del Consejo cuando el Presidente del Consejo de la Judicatura Federal así lo determine;
-
-VI. Compilar, sistematizar y publicar los criterios jurídicos que establezca el Consejo de la Judicatura Federal, a través del Pleno o sus Comisiones, y en su caso, hacer del conocimiento del Presidente del Consejo de la Judicatura los criterios que estime contradictorios;
-
-VII. Dirigir y coordinar la compilación de leyes, reglamentos, decretos, acuerdos y circulares relacionadas con el ejercicio de las atribuciones del Consejo, y proceder a su divulgación entre las áreas que lo conforman;
-
-VIII. Representar al Presidente del Consejo de la Judicatura Federal en los asuntos jurídicos que éste le encomiende;
-
-IX. Intervenir, previo acuerdo del Consejo y en su representación, sin perjuicio de las facultades y atribuciones exclusivas de sus integrantes, Secretarías Ejecutivas y Organos, en todas las controversias jurídicas en que éste sea parte y con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, formular denuncias y querellas, coadyuvar con el Ministerio Público cuando así proceda, interponer toda clase de recursos y desistirse de ellos, incluso del juicio de amparo y otorgar el perdón si procediere, previa autorización del Consejo transigir, comprometer en árbitros, absolver y articular posiciones, recibir pagos, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia y, en general, para que promueva o realice todos los actos permitidos por las leyes que favorezcan a los derechos del Consejo de la Judicatura Federal. Por virtud de esta disposición, se entenderá ratificado por dicho órgano colegiado todo lo que se haga, en los términos de ley, por la Dirección General de Asuntos Jurídicos y los representantes o delegados que designe, quienes gozarán de todas las facultades antes enunciadas;
-
-X. Proporcionar la información o cooperación técnico-jurídica que le sea requerida por las diversas áreas que integran el Consejo de la Judicatura Federal, así como emitir opinión respecto de las consultas que para la eficaz observancia de la normatividad se le formulen;
-
-XI. Analizar y emitir opinión de todo tipo de contratos y convenios a celebrarse, cuyas propuestas formulen las áreas del Consejo;
-
-XII. Orientar, asesorar y apoyar en gestiones que requieran los órganos jurisdiccionales y áreas administrativas del Consejo, para la atención de trámites ante todo tipo de autoridades, instituciones, entidades y personas relacionados con el objeto y fines del propio Consejo;
-
-XIII. Coordinar las actividades que resulten necesarias para la atención de asuntos relacionados con la adquisición de inmuebles y demás trámites colaterales, así como para proveer a su enajenación, en su caso;
-
-XIV. Asesorar jurídicamente en los procesos de adjudicación que celebren las unidades administrativas del Consejo para las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios y la contratación de obra;
-
-XV. Emitir opinión jurídica respecto de las inconformidades que se presenten en el desarrollo de los procedimientos de adjudicación en materia de adquisiciones, arrendamientos, servicios y obra pública, y participar, en su caso, en la integración de los expedientes e informes que deban turnarse para los efectos que dispone la Ley Orgánica del Poder Judicial de la Federación. (Este ordenamiento será denominado en lo sucesivo Ley);
-
-XVI. Emitir dictamen jurídico respecto del apego a la normatividad de las fianzas que otorgan los proveedores y contratistas para garantizar la seriedad de las propuestas y el cumplimiento de las obligaciones a su cargo, derivadas de los contratos que celebren con el Consejo de la Judicatura Federal, antes de su formalización y realizar las gestiones necesarias ante las instancias pertinentes para su reclamación, cuando dichos proveedores o contratistas hayan dejado de cumplir sus propuestas o las obligaciones que asumieron;
-
-XVII. Emitir dictamen jurídico en relación con las personas interesadas en ser inscritas en los catálogos de proveedores y contratistas;
-
-XVIII. Asesorar jurídicamente en los asuntos relacionados con los bienes asegurados y decomisados en que tenga injerencia el Consejo;
-
-XIX. Intervenir en los conflictos laborales de las unidades administrativas del Consejo, que se ventilen ante la Comisión Substanciadora Unica del Poder Judicial de la Federación;
-
-XX. Proponer al Presidente del Consejo de la Judicatura Federal, los candidatos a ocupar las vacantes de servidores públicos adscritos a la Dirección General;
-
-XXI. Formular y proponer su respectivo anteproyecto de presupuesto y su programa operativo anual con apego a las políticas y lineamientos que emita el Consejo;
-
-XXII. Elaborar y presentar su programa anual de trabajo, de actividades y los reportes de evaluación administrativa, con la periodicidad que le sean requeridos, y
-
-XXIII. Las demás que le atribuya expresamente el Presidente del Consejo de la Judicatura Federal.
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)
 
 ###### Artículo 6o.
 
-Objetivo. La Dirección General de Comunicación Social será la encargada de dar a conocer a la ciudadanía las acciones emprendidas por el Consejo de la Judicatura Federal, a través de los diversos canales de comunicación existentes en el país, así como de mantener actualizadas a las áreas del propio Consejo respecto a la información emitida por los medios de comunicación.
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)
 
 ###### Artículo 7o.
 
-Atribuciones. La Dirección General de Comunicación Social tendrá las siguientes atribuciones:
-
-I. Difundir información periódica en los medios sobre el quehacer del Consejo de la Judicatura Federal, mediante la emisión de boletines de prensa, la realización de conferencias de prensa y entrevistas con Consejeros y funcionarios del propio Consejo, así como por otros canales de difusión;
-
-II. Establecer comunicación directa con periodistas, columnistas y analistas políticos, con el fin de que transmitan a la sociedad las actividades del Consejo;
-
-III. Monitorear y sintetizar la información de interés que los medios generan cotidianamente, en particular, la relacionada con el Consejo de la Judicatura Federal y el Poder Judicial de la Federación;
-
-IV. Elaborar materiales informativos gráficos y didácticos para el conocimiento de la sociedad y de periodistas sobre las tareas del Consejo de la Judicatura Federal;
-
-V. Proponer instrumentos y medios que propicien la difusión de la información en las áreas del Consejo;
-
-VI. Coordinar campañas publicitarias para difundir los objetivos y actividades del Consejo de la Judicatura Federal y de sus Organos Auxiliares;
-
-VII. Participar, bajo la coordinación del Comité Editorial, junto con la Dirección General de Informática, en el diseño y actualización de la página de Internet;
-
-VIII. Coordinar las acciones necesarias para atender los requerimientos de comunicación de los Organos y áreas administrativas del Consejo de la Judicatura Federal;
-
-IX. Integrar el Comité Editorial del Consejo de la Judicatura Federal de conformidad con las bases que para tal efecto se expidan por el Pleno;
-
-X. Formular y proponer su anteproyecto de presupuesto, con apego a las políticas y lineamientos vigentes en la materia;
-
-XI. Elaborar y presentar su programa anual de trabajo, de actividades y los reportes de evaluación administrativa, con la periodicidad que le sean requeridos, y
-
-XII. Las demás que le atribuya expresamente el Presidente del Consejo de la Judicatura Federal.
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)
 
 > <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 5/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE MARZO DE 2003)</small>
 
@@ -1247,6 +1177,104 @@ XI. Verificar que los informes que presenten los diferentes Organos y miembros d
 
 XII. Las demás que determinen el Pleno del Consejo de la Judicatura Federal y la Comisión de Vigilancia, Información y Evaluación.
 
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)</small>
+
+###### Artículo 36.
+
+La Dirección General de Asuntos Jurídicos y la Dirección General de Comunicación Social dependerán directamente del Pleno del Consejo de la Judicatura Federal, a través de la Comisión de Administración y de la de Vigilancia, Información y Evaluación, respectivamente.
+
+Los titulares de las referidas direcciones generales serán nombrados por mayoría calificada de cinco votos de los consejeros, a propuesta que haga el presidente.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)</small>
+
+###### Artículo 37.
+
+Objetivo. La Dirección General de Asuntos Jurídicos se encargará de llevar a cabo gestiones legales ante toda clase de autoridades, instituciones, entidades y personas para el debido resguardo de los intereses del Consejo de la Judicatura Federal; de participar en la elaboración de la normatividad del propio consejo; así como de brindar asesoría y asistencia técnico-jurídica a los órganos jurisdiccionales y áreas administrativas que lo integran, a efecto de que los actos que realicen se ajusten al marco normativo que regula su actuación.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)</small>
+
+###### Artículo 38.
+
+Atribuciones. La Dirección General de Asuntos Jurídicos tendrá las siguientes atribuciones:
+
+I. Dar apoyo técnico-jurídico a los consejeros de la Judicatura Federal en todos los asuntos que éstos le encomienden;
+
+II. Formular y proponer a los consejeros de la Judicatura Federal los proyectos de acuerdo general, específicos y de normativa interna o reformas a éstos que estime necesarios para el adecuado funcionamiento del Consejo de la Judicatura Federal, así como analizar aquellos que se presenten por otras áreas del propio consejo y emitir opinión sobre ellos;
+
+III. Proponer a los consejeros de la Judicatura Federal los proyectos de convenios de colaboración, coordinación e intercambio con entidades federativas e instituciones públicas o privadas, nacionales o extranjeras, que se consideren necesarios para asegurar un adecuado ejercicio de la función jurisdiccional federal, y en su caso, dar opinión sobre proyectos que se presenten al consejo en la misma materia;
+
+IV. Coadyuvar con las secretarías ejecutivas y órganos del Consejo de la Judicatura Federal, en la actualización y simplificación del marco normativo interno;
+
+V. Resolver las consultas que, en materia técnico-jurídica, las entidades federativas e instituciones públicas o privadas soliciten, relacionadas con las funciones y atribuciones propias del consejo cuando el Pleno o la Comisión de Administración así lo determinen;
+
+VI. Compilar, sistematizar y publicar los criterios jurídicos que establezca el Consejo de la Judicatura Federal, a través del Pleno o sus comisiones, y en su caso, hacer del conocimiento del Pleno del Consejo de la Judicatura Federal los criterios que estime contradictorios;
+
+VII. Dirigir y coordinar la compilación de leyes, reglamentos, decretos, acuerdos y circulares relacionadas con el ejercicio de las atribuciones del consejo, y proceder a su divulgación entre las áreas que lo conforman;
+
+VIII. Representar en los asuntos jurídicos que se le encomienden, al Pleno y a la Comisión de Administración;
+
+IX. Intervenir, previo acuerdo del consejo y en su representación, sin perjuicio de las facultades y atribuciones exclusivas de sus integrantes, secretarías ejecutivas y órganos, en todas las controversias jurídicas en que éste sea parte y con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, formular denuncias y querellas, coadyuvar con el Ministerio Público cuando así proceda, interponer toda clase de recursos y desistirse de ellos, incluso del juicio de amparo y otorgar el perdón si procediere, previa autorización del consejo transigir, comprometer en árbitros, absolver y articular posiciones, recibir pagos, ofrecer y rendir toda clase de pruebas, recusar Jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia y, en general, para que promueva o realice todos los actos permitidos por las leyes que favorezcan a los derechos del Consejo de la Judicatura Federal. Por virtud de esta disposición, se entenderá ratificado por dicho órgano colegiado todo lo que se haga, en los términos de ley, por la Dirección General de Asuntos Jurídicos y los representantes o delegados que designe, quienes gozarán de todas las facultades antes enunciadas;
+
+X. Proporcionar la información o cooperación técnico-jurídica que le sea requerida por las diversas áreas que integran el Consejo de la Judicatura Federal, así como emitir opinión respecto de las consultas que para la eficaz observancia de la normativa se le formulen;
+
+XI. Analizar y emitir opinión de todo tipo de contratos y convenios a celebrarse, cuyas propuestas formulen las áreas del consejo;
+
+XII. Orientar, asesorar y apoyar en gestiones que requieran los órganos jurisdiccionales y áreas administrativas del consejo, para la atención de trámites ante todo tipo de autoridades, instituciones, entidades y personas relacionadas con el objeto y fines del propio consejo;
+
+XIII. Coordinar las actividades que resulten necesarias para la atención de asuntos relacionados con la adquisición de inmuebles y demás trámites colaterales, así como para proveer a su enajenación, en su caso;
+
+XIV. Asesorar jurídicamente en los procesos de adjudicación que celebren las unidades administrativas del consejo para las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios y la contratación de obra;
+
+XV. Emitir opinión jurídica respecto de las inconformidades que se presenten en el desarrollo de los procedimientos de adjudicación en materia de adquisiciones, arrendamientos, servicios y obra pública, y participar, en su caso, en la integración de los expedientes e informes que deban turnarse para los efectos que dispone la Ley Orgánica del Poder Judicial de la Federación;
+
+XVI. Emitir dictamen jurídico respecto del apego a la normativa de las fianzas que otorgan los proveedores y contratistas para garantizar la legalidad de las propuestas y el cumplimiento de las obligaciones a su cargo, derivadas de los contratos que celebren con el Consejo de la Judicatura Federal, antes de su formalización y realizar las gestiones necesarias ante las instancias pertinentes para su reclamación, cuando dichos proveedores o contratistas hayan dejado de cumplir sus propuestas o las obligaciones que asumieron;
+
+XVII. Emitir dictamen jurídico en relación con las personas interesadas en ser inscritas en los catálogos de proveedores y contratistas;
+
+XVIII. Asesorar jurídicamente en los asuntos relacionados con los bienes asegurados y decomisados en que tenga injerencia el consejo;
+
+XIX. Intervenir en los conflictos laborales de las unidades administrativas del consejo, que se ventilen ante la Comisión Sustanciadora Única del Poder Judicial de la Federación;
+
+XX. Formular y proponer a la Comisión de Administración a través de la Secretaría Ejecutiva de Finanzas, su respectivo anteproyecto de presupuesto y su programa anual con apego a las políticas y lineamientos emitidos por el consejo;
+
+XXI. Elaborar y presentar su programa anual de trabajo, de actividades y los reportes de evaluación administrativa, con la periodicidad que le sean requeridos; y,
+
+XXII. Las demás que le atribuyan expresamente el Pleno o la Comisión de Administración del Consejo de la Judicatura Federal.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)</small>
+
+###### Artículo 39.
+
+Objetivo. La Dirección General de Comunicación Social será la encargada de dar a conocer a la ciudadanía las acciones emprendidas por el Consejo de la Judicatura Federal, a través de los diversos canales de comunicación existentes en el país, así como de mantener actualizadas a las áreas del propio consejo respecto a la información emitida por los medios de comunicación.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)</small>
+
+###### Artículo 40.
+
+Atribuciones. La Dirección General de Comunicación Social tendrá las siguientes atribuciones:
+
+I. Difundir información periódica en los medios de comunicación, sobre el quehacer del Consejo de la Judicatura Federal, bajo la coordinación de la Comisión de Vigilancia, Información y Evaluación, mediante la emisión de boletines de prensa, la realización de conferencias de prensa y entrevistas con consejeros y funcionarios del propio consejo, así como por otros canales de difusión;
+
+II. Establecer comunicación directa con los medios de comunicación, bajo la coordinación de la Comisión de Vigilancia, Información y Evaluación, con el fin de que transmitan a la sociedad las actividades del consejo;
+
+III. Recopilar y sintetizar la información de interés que los medios de comunicación generan cotidianamente, en particular, la relacionada con el Consejo de la Judicatura Federal y el Poder Judicial de la Federación;
+
+IV. Elaborar materiales informativos gráficos y didácticos para el conocimiento de la sociedad y de medios de comunicación sobre las tareas del Consejo de la Judicatura Federal;
+
+V. Proponer instrumentos y medios que propicien la difusión de la información en las áreas del consejo;
+
+VI. De acuerdo con la disponibilidad presupuestal y con la autorización del Pleno, coordinar campañas publicitarias, para difundir los objetivos y actividades del Consejo de la Judicatura Federal y de sus órganos auxiliares;
+
+VII. Participar junto con la Dirección General de Informática, bajo la coordinación de la Comisión de Vigilancia, Información y Evaluación del Consejo de la Judicatura Federal, en el diseño y actualización de la página de internet;
+
+VIII. Coordinar las acciones necesarias para atender los requerimientos de comunicación de los órganos y áreas administrativas del Consejo de la Judicatura Federal;
+
+IX. Formular y proponer a la Comisión de Administración a través de la Secretaría Ejecutiva de Finanzas, su anteproyecto de presupuesto, con apego a las políticas y lineamientos emitidos por el consejo;
+
+X. Elaborar y presentar su programa anual de trabajo, de actividades y los reportes de evaluación administrativa, con la periodicidad que le sean requeridos; y,
+
+XI. Las demás que le atribuya expresamente el Pleno o la Comisión de Vigilancia, Información y Evaluación del Consejo de la Judicatura Federal.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente Acuerdo entrará en vigor el primero de marzo de dos mil.
@@ -1300,3 +1328,11 @@ D.O.F. 28 DE AGOSTO DE 2003.
 PRIMERO.-El presente acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 17 DE MAYO DE 2004.
+
+PRIMERO.-El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.-Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente acuerdo.
