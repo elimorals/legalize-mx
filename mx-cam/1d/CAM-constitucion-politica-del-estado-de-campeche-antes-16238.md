@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1965-05-29"
+last_updated: "1970-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 1965.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 1970.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -191,13 +191,13 @@ II.- Los extranjeros que se naturalicen conforme a las leyes de la República Me
 
 ### CAPITULO VI. De los Ciudadanos Campechanos
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 1970)</small>
 
 ###### ARTICULO 17.
 
-Son ciudadanos campechanos quienes teniendo la calidad de campechanos, reúnan además los siguientes requisitos:
+Son ciudadanos campechanos los varones y mujeres q (sic), teniendo la calidad de campechanos, reúnan además los siguientes requisitos:
 
-I.- Haber cumplido 18 años si son casados o 21 si no lo son; y
+I.- Haber cumplido 18 años, y
 
 II.- Tener un modo honesto de vivir.
 
@@ -635,7 +635,7 @@ Serán suplentes a la Diputación Permanente los demás diputados, y podrán ser
 
 Las facultades de la Diputación Permanente, además de las que expresamente le concede esta Constitución, son las siguientes:
 
-I.- Convocar al Congreso, por sí sola, cuando a su juicio lo exijan el bien o la seguridad del Estado, o a solicitud del Ejecutivo, a sesiones extraordinarias. La convocatoria señalará con toda precisión el objeto de las sesiones y la fecha en que deban comenzar, no pudiendo el Congreso ocuparse sino de los asuntos precisados en la convocatoria;
+I.- Convocar al Congreso, por sí sola, cuando a su juicio lo exijan el bien o la seguridad del Estado o a solicitud del Ejecutivo, a sesiones extraordinarias. La convocatoria señalará con toda precisión el objeto de las sesiones y la fecha en que deban comenzar, no pudiendo el Congreso ocuparse sino de los asuntos precisados en la convocatoria;
 
 II.- Emitir dictamen sobre todos los asuntos que queden sin resolución en los expedientes, a fin de que en el período inmediato de sesiones ordinarias sigan tratándose;
 
@@ -647,7 +647,7 @@ V.- Otorgar al gobernador el permiso que necesite para separarse de sus funcione
 
 VI.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia cuando excedan de 30 días;
 
-VII.- Conceder, en su caso, a los diputados propietarios o suplentes en ejercicio, licencia para separarse de sus funciones;
+VII.- Conceder en su caso, a los diputados propietarios o suplentes en ejercicio, licencia para separarse de sus funciones;
 
 VIII.- Conceder en su caso, a los diputados propietarios o suplentes en ejercicio, el permiso respectivo para aceptar algún empleo o comisión;
 
@@ -655,7 +655,7 @@ IX.- Nombrar con carácter provisional a los empleados de las dependencias del C
 
 X.- Otorgar o negar su aprobación a los nombramientos de los Magistrados del Tribunal Superior de Justicia, que le someta a su consideración el Gobernador del Estado, así como aceptar las renuncias de los propios funcionarios judiciales;
 
-XI.- Convocar a sesiones extraordinarias en el caso de delitos oficiales o del orden común, de que se acuse a los altos funcionarios públicos del Estado, en cuyo caso, no se tratará ningún negocio del Congreso ni se prolongarán las sesiones por más tiempo que el indispensable para resolver el asunto que se precisó en la Convocatoria;
+XI.- Convocar a sesiones extraordinarias en el caso de delitos oficiales o del orden común, de que se acuse a los altos funcionarios públicos del Estado, en cuyo caso, no se tratará de ningún negocio del Congreso ni se prolongarán las sesiones por más tiempo que el indispensable para resolver el asunto que se precisó en la Convocatoria;
 
 XII.- Las demás que le confiera esta Constitución.
 
@@ -1546,3 +1546,7 @@ UNICO.- El presente decreto iniciará su vigencia al día siguiente de su public
 P.O. 29 DE MAYO DE 1965.
 
 ÚNICO.- El presente Decreto de adiciones y reformas de la Constitución Política del Estado entrará en vigor el día 10 de julio de 1965.
+
+P.O. 11 DE ABRIL DE 1970.
+
+UNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
