@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-cierre-comercial-del-municipio-de-linares-41730"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-23"
-last_updated: "1994-09-23"
+last_updated: "1998-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE CIERRE COMERCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 1998.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 23 de septiembre de 1994.
 
@@ -115,25 +115,27 @@ Serán días de cierre los días señalados por la Ley Federal del Trabajo como 
 
 Si la víspera del día de la madre, del padre o del maestro cae en domingo, se permitirá a los establecimientos abrir como si fuera sábado, según su giro mercantil.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1998)</small>
+
 ###### ARTICULO 19º.
 
-Durante el mes de diciembre se autoriza a los establecimientos comerciales para abrir de las 8:00 horas A.M. a las 9:00 horas P.M., hasta el día 14 de diciembre inclusive; del día 15 al 23 inclusive, de las 8:00 horas A.M. a las 10:00 horas P.M. El día 24 se permitirá la apertura de las 8:00 horas A.M. a las 12:00 horas P.M., aún cuando sea domingo. El domingo anterior del día 24 se podrá abrir de las 8:00 horas A.M. a las 10:00 horas P.M.
+Durante el mes de diciembre se autoriza a los establecimientos comerciales para abrir de las 8:00 horas A.M. a las 9:00 horas P.M., hasta el día 14 de diciembre inclusive, del día 15 al 23 inclusive, de las 8:00 horas A.M. a las 10:00 horas P.M. El día 24 se permitirá la apertura de las 8:00 horas A.M. a las 12:00 horas P.M., aún cuando sea domingo. El domingo anterior del día 24 se podrá abrir de las 8:00 horas A.M. a las 10:00 horas P.M.
 
-Las librerías y papelerías, durante el mes de septiembre, podrán cerrar a las 10:00 horas P.M. de lunes a sábado.
+Las librerías y papelerías, durante el período comprendido del 15 de agosto al 30 de septiembre, podrán cerrar a las 10:00 P.M. de lunes a sábado, quedando a discreción de la autoridad su aplicación.
 
 ###### ARTICULO 20º.
 
 Los establecimientos autorizados por el presente reglamento a permanecer abiertos por mas de ocho horas deberán establecer en sus reglamentos interiores la forma en que se turnará el personal para que, en ningún caso, las jornadas diarias y semanales sean mayores que las máximas señaladas por la Ley Federal del Trabajo. Asimismo, los establecimientos autorizados para dar servicio las veinticuatro horas del día deberán reglamentar interiormente los turnos diurnos, nocturnos y mixtos que correspondan, así como el descanso semanal obligatorio, debiendo además otorgar a su personal las demás prestaciones establecidas por la Ley Federal del Trabajo.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1998)</small>
+
 ###### ARTICULO 21º.
 
-Se autoriza la creación de la cuota de ampliación del horario de cierre comercial para los establecimientos expendedores de cerveza, vinos y licores, tanto en botella cerrada, como al copeo según lo que enseguida se establece:
+Se autoriza la creación de la cuota de ampliación del horario de cierre comercial para los establecimientos expendedores de cerveza, vinos y licores, tanto en botella cerrada, como al copeo, según lo que en seguida se establece:
 
-A) Las cantinas y establecimientos que deseen ampliar su horario por dos horas diarias adicionales, podrán hacerlo, siempre que paguen al municipio una cuota de ampliación de cierre comercial de N$ 600.00 SEISCIENTOS NUEVOS PESOS mensuales.
+ASUNTO:
 
-B) Los clubes nocturnos y cabarets podrán ampliar sus horarios por dos horas diarias de lunes a sábado, siempre que paguen una cuota de ampliación de horario de cierre comercial de N$ 1,000.00 MIL NUEVOS PESOS mensuales al municipio.
-
-C) Los restaurantes-bar podrán ampliar su horario en los mismos términos y con la misma cuota a que se refiere el inciso anterior, bajo la misma condición de que el expendio de bebidas alcohólicas sea con alimentos.
+Las cantinas y establecimientos que deseen ampliar su horario por dos horas diarias adicionales, podrán hacerlo siempre que paguen al municipio una cantidad por ampliación de cierre comercial de cuatrocientas cuotas mensuales, consideradas estas al valor de un día del salario mínimo general que prevalezca en esta zona económica en el momento de su imposición.
 
 ###### ARTICULO 22º.
 
@@ -147,7 +149,7 @@ Por ningún motivo se concederán permisos para que abran los establecimientos c
 
 ###### ARTICULO 24º.
 
-Las personas o dueños de establecimientos que infrinjan el presente reglamento se harán acreedores a las siguientes sanciones:
+las personas o dueños de establecimientos que infrinjan el presente reglamento se harán acreedores a las siguientes sanciones:
 
 A) Amonestación.
 
@@ -184,3 +186,7 @@ PRESIDENTE MUNICIPAL
 C. LIC. MANUEL JOSE PEÑA DORIA
 
 SRIO. DEL R. AYUNTAMIENTO
+
+P.O. 17 DE ABRIL DE 1998.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
