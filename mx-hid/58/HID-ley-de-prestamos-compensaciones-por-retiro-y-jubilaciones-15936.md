@@ -4,7 +4,7 @@ identifier: "HID-ley-de-prestamos-compensaciones-por-retiro-y-jubilaciones-15936
 country: "mx"
 rank: "ley"
 publication_date: "1957-01-01"
-last_updated: "1957-01-01"
+last_updated: "1981-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15936&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PRESTAMOS, COMPENSACIONES POR RETIRO Y JUBILACIONES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 1981.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Hidalgo, el 1 de enero de 1957.
 
@@ -243,53 +243,267 @@ El Instituto fijará, por medio de tablas generales, las cantidades máximas que
 
 Si por haber sido cesado el trabajador o por otras causas graves a juicio del Instituto, no pudiere cubrir los abonos provenientes del préstamo hipotecario, podrá gozar el deudor de un plazo de seis meses de espera.
 
-### CAPITULO CUARTO. De las Jubilaciones y del Seguro de Vida a los Trabajadores al Servicio del Estado
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE ENERO DE 1981)</small>
+
+### CAPITULO CUARTO. De las Jubilaciones y de las Pensiones
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1981)</small>
 
 ###### Artículo 42.
 
-Los trabajadores a que se refiere la presente Ley, tendrán derecho a que se les otorgue pensión vitalicia por jubilación, tomando en cuenta el sueldo que disfrute el beneficiario, en el momento de adquirir este derecho.
+Jubilación es el acto en virtud del cual se releva al empleado público para seguir desempeñando su empleo en razón de su edad, de su tiempo de servicio o por imposibilidad física o mental, con derecho a percibir una pensión del total o parte de su último sueldo y en forma vitalicia.
+
+El Gobierno del Estado de Hidalgo, se obliga al pago de las pensiones por jubilación.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1981)</small>
 
 ###### Artículo 43.
 
-Cuando el beneficiario perciba dos o más sueldos, se tomará únicamente como base para este objeto el sueldo mayor.
+La jubilación o pensión se tramitará a solicitud escrita del interesado o por acuerdo expreso del Ejecutivo del Estado, y se resolverá dentro de los 45 días siguientes de iniciado el expediente.
+
+(REFORMADO, P.O. 16 DE ENERO DE 1981
 
 ###### Artículo 44.
 
-La pensión vitalicia que otorgue el Gobierno a los jubilados, será de la totalidad del sueldo, cuando el trabajador haya prestado sus servicios al Estado, durante 30 años ininterrumpidamente.
+Los empleados públicos adquieren el derecho a la pensión, en los siguientes casos:
+
+I.- Por jubilación necesaria, al cumplir los sesenta años de edad y quince o más de servicios.
+
+II.- Por jubilación voluntaria cuando hayan alcanzado treinta años de servicios sin límite de edad.
+
+III.- Por inhabilitación cuando se hayan perdido las facultades físicas o intelectuales necesarias para el desempeño normal del servicio.
+
+La inhabilitación podrá ser:
+
+a).- A causa o consecuencia del servicio, cualquiera que sea el tiempo del mismo; y
+
+b).- Por causas ajenas al trabajo, cuando los sujetos de esta ley hayan alcanzado quince o más años de servicio.
+
+(REFORMADO, P.O. 16 DE ENERO DE 1981
 
 ###### Artículo 45.
 
-A los trabajadores a que se refiere la presente ley, que física o mentalmente queden incapacitados a causa de los servicios prestados al Estado, se les jubilará con pensión vitalicia del total de sus sueldos, siempre que tengan 25 años de servicio en el momento de ocurrir la incapacidad.
+La cuota diaria de la pensión que se pague al empleado públiico (sic) a título de jubilación se determinará en la forma siguiente:
+
+I.- Por jubilación necesaria, el tanto por ciento del sueldo último, en relación con los años de servicio, conforme a la siguiente tabla:
+
+15 años de servicio 50%
+
+16 años de servicio 50.5%
+
+17 años de servicio 51%
+
+18 años de servicio 52%
+
+19 años de servicio 53%
+
+20 años de servicio 54%
+
+21 años de servicio 55%
+
+22 años de servicio 60%
+
+23 años de servicio 65%
+
+24 años de servicio 70%
+
+25 años de servicio 75%
+
+26 años de servicio 80%
+
+27 años de servicio 85%
+
+28 años de servicio 90%
+
+29 años de servicio 95%
+
+30 años de servicio 100%
+
+II.- Por inhabilitación parcial a causa o consecuencia del servicio. Se tomará como base el sueldo ultimo del empleado público, y se aplicará la tabla de valuación de incapacidades de la Ley Federal del Trabajo;
+
+III.- Por inhabilitación total a causa o consecuencia del servicio, el total del último sueldo.
+
+IV.- Por inhabilitación total por causas ajenas al servicio; se aplicarán las tablas de la fracción I de este artículo, disminuídas en un 25% veinticinco por ciento. El cálculo se hará sobre las bases del último sueldo y de los años de servicio.
+
+(REFORMADO, P.O. 16 DE ENERO DE 1981
 
 ###### Artículo 46.
 
-Para los efectos de los artículos anteriores se computará como tiempo del servicio activo, el que se emplee en el desempeño de alguna comisión de carácter docente o científico.
+Cuando el empleado público perciba dos o más sueldos se tomará como base, las pensiones a que se refiere el Artículo anterior, únicamente el sueldo mayor.
+
+(REFORMADO, P.O. 16 DE ENERO DE 1981
 
 ###### Artículo 47.
 
-Los requisitos para tener derecho a la jubilación, deberán comprobarse ante la Tesorería General del estado, la cual dictaminará si procede o no la jubilación, dando cuenta al C. Gobernador para los efectos del acuerdo correspondiente.
+Para los efectos de los artículos anteriores se computará como tiempo del servicio activo, el que se emplee en el desempeño de alguna comisión de carácter docente, científica o de elección popular.
+
+(REFORMADO, P.O. 16 DE ENERO DE 1981
 
 ###### Artículo 48.
 
-No habrá lugar a jubilación cuando concurra cualquiera de las siguientes circunstancias:
+Los requisitos para tener derecho a la jubilación, deberán comprobarse ante la Dirección de Recursos Humanos, la cual determinará si procede o no la jubilación, dando cuenta de ello al Gobernador para los efectos del acuerdo correspondiente, que será turnado a la Tesorería General del Estado.
 
-I.- Que el trabajador haya sido cesado por causa justificada o separado de su trabajo por sentencia judicial.
-
-II.- Cuando el interesado esté disfrutando de una jubilación o pensión vitalicia que le haya sido conferida por el Gobierno del Estado, por el de la Federación o de cualquiera otra Entidad Federativa o Municipal.
+(REFORMADO, P.O. 16 DE ENERO DE 1981
 
 ###### Artículo 49.
 
-Es incompatible la jubilación con el desempeño de cualquier cargo o empleo oficial por el cual se disfrute de sueldo, y cuyos servicios se presten al Estado.
+Los familiares o los dependientes económicos del empleado público adquieren el derecho a la pensión en los siguientes casos:
+
+I.- Al fallecer éste, si tenia quince o más años de servicio, si su fallecimiento acaeció a causa o consecuencia del servicio; y
+
+II.- Al fallecer el empleado público pensionado.
+
+(REFORMADO, P.O. 16 DE ENERO DE 1981
 
 ###### Artículo 50.
 
-La jubilación comenzará a surtir sus efectos desde el momento que el dictamen del Tesorero General del Estado sea aprobado por el Ejecutivo del mismo, y se expida el Acuerdo correspondiente.
+La cuota diaria de la pensión a los familiares o dependientes económicos del empleado publico, se fijará como sigue:
+
+I.- Por fallecimiento del empleado publico a causa o consecuencia del servicio; el sueldo ultimo de que disfrutaba al ocurrir el fallecimiento;
+
+II.- Por fallecimiento del empleado público a causas ajenas al servicio; las tablas de la fracción I del Artículo 45, sobre la base de su último sueldo y los años de servicio que tenía al ocurrir el deceso, menos un veinticinco por ciento.
+
+III.- Por fallecimiento del empleado público pensionado:
+
+a).- Si la pensión se le había concedido por jubilación o inhabilitación a causa o consecuencia del servicio. La última de que hubiera gozado el pensionado, con descuento de un veinticinco por ciento; y
+
+b).- Si la pensión la disfrutaba por inhabilitación por causas ajenas al servicio; la última del jubilado con deducción de un veinticinco por ciento. Esta pensión sólo se pagará durante los cinco años siguientes al fallecimiento.
+
+(REFORMADO, P.O. 16 DE ENERO DE 1981
 
 ###### Artículo 51.
 
-Las jubilaciones dentro de los cinco primeros años del funcionamiento del Instituto estarán a cargo del Gobierno del Estado. A partir del sexto año hasta el décimo quinto inclusive, estarán cubiertas proporcionalmente entre el Gobierno y el Instituto de acuerdo con los fondos que hayan sido descontados a los trabajadores.
+Las pensiones que concede la presente Ley serán incrementadas. El incremento será constante y proporcionalmente directo al total de los aumentos periódicos de las remuneraciones que se concedan en lo futuro a los empleados públicos. Los aumentos de las pensiones surtirán efectos a partir de la fecha en que haya entrado en vigor el aumento de las remuneraciones.
 
-A partir del décimo quinto año en adelante, todas las jubilaciones en la totalidad de su monto serán a cargo del Instituto.
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1981)</small>
+
+###### Artículo 52.
+
+Es obligatorio para la Tesorería general del Gobierno del Estado, pagar las pensiones a su cargo a partir de:
+
+I.- La fecha en que el empleado público deje de prestar sus servicios y cobrar sus remuneraciones en los casos en que se refiere el Artículo 44 de este ordenamiento.
+
+II.- Al día siguiente del deceso, en la pensión por fallecimiento del empleado público y de las personas jubiladas; y
+
+III.- A partir de la fecha de presentación de la solicitud a que se refiere el Artículo 43 de la presente Ley, siempre que previamente se hayan cumplido los requisitos para tener derecho a esa pensión.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1981)</small>
+
+###### Artículo 53.
+
+Concluye el disfrute de una pensión a partir de:
+
+I.- Al desaparecer la inhabilitación del empleado público a que se refiere la Fracción III del Artículo 44.
+
+II.- Al día siguiente del fallecimiento de la persona jubilada.
+
+III.- A partir de la fecha en que contraiga matrimonio o viva en concubinato la viuda, la concubina, el menor de edad y dependiente económico del jubilado o de las personas con derecho a pensión.
+
+IV.- Al día siguiente de que el hijo o el menor de edad dependiente económico del empleado público cumpla veintiún años de edad. Se exceptúa de este límite:
+
+a).- Los incapacitados en forma total; y
+
+b).- Los que comprueben a satisfacción de la Dirección de Recursos Humanos del Gobierno del Estado de Hidalgo, que les es necesario la pensión, para continuar sus estudios profesionales o técnicos, en alguna institución del sistema educativo nacional. La pensión no podrá extenderse en este caso después de los veinticinco años de edad.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1981)</small>
+
+###### Artículo 54.
+
+Para los efectos de esta Ley se considerará como sueldo último el promedio mensual de todas las prestaciones computables al empleado público, correspondiente a los seis meses inmediatos anteriores a la fecha de la solicitud de jubilación; a la del dictamen concediéndole la jubilación cuando no se hubiere formulado solicitud previa; o a la fecha de separación definitiva del servicio cuando la solicitud se haya formulado posteriormente.
+
+Las percepciones computables de quien se ocupa el párrafo anterior, serán las que correspondan específicamente a los emolumentos de servicios prestados al Gobierno del Estado conforme aparezcan consignados en las respectivas partidas de sus presupuestos de egresos, según se trate de los Poderes Ejecutivo, Legislativo o Judicial; no se considerarán los viáticos, gratificaciones, gastos de representación y otras prestaciones semejantes.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1981)</small>
+
+###### Artículo 55.
+
+Los empleados públicos sujetos a escalafón, comprobarán la regularidad escalafonaria de sus percepciones siendo necesaria la justificación de una permanencia mínima de seis meses en cada grado de escalafón salvo los ascensos que se otorguen en aplicación de la Ley de los Trabajadores al Servicio del Gobierno del Estado de Hidalgo, en el Capítulo I del Escalafón.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1981)</small>
+
+###### Artículo 56.
+
+Si la remuneración del empleado publico es variable a base de honorarios o sujeta a tasas proporcionales, se tomarán el promedio de sus percepciones durante el último año de servicios.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1981)</small>
+
+###### Artículo 57.
+
+La cuota diaria de pensiones que se conceden en virtud de esta Ley, en ningún caso será inferior al salario mínimo vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1981)</small>
+
+###### Artículo 58.
+
+La inhabilitación se reputará como causa o consecuencia del servicio en los casos en que el accidente o la enfermedad tengan las características de profesionales que consignan la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1981)</small>
+
+###### Artículo 59.
+
+Los casos de inhabilitación o fallecimiento por riesgo profesional se justificarán con examen médico, suscrito por el médico oficial, del lugar donde preste sus servicios el empleado público. Si el interesado no estuviere conforme con aquel dictamen sobre la evaluación de su caso, presentará el dictamen que haya obtenido de su médico particular. Si hubiera discrepancia fundamental, la Dirección de Recursos Humanos del Gobierno del Estado designará un tercer perito médico y resolverá.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1981)</small>
+
+###### Artículo 60.
+
+La inhabilitación o el fallecimiento provocado por el mismo servidor público, los que resulten de una riña provocada por el o los que sean consecuencia del uso de bebidas alcohólicas, barbitúricos o estupefacientes, no generan derecho alguno a jubilación o pensión.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1981)</small>
+
+###### Artículo 61.
+
+Al desaparecer la inhabilitación de un empleado público jubilado, perderá el derecho a la respectiva pensión, mediante acuerdo fundado de la Dirección de Recursos Humanos del Gobierno del Estado. Si el interesado no admite que ha desaparecido su inhabilitación; deberá seguirse los lineamientos que señala el Artículo 59 de este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1981)</small>
+
+###### Artículo 62.
+
+Cuando un empleado público jubilado por inhabilitación recupere sus facultades, deberá ser restituido en su trabajo con su misma categoría. Cuando esto no sea posible, el Gobierno del Estado le asignará otro puesto, respetándole el sueldo que le corresponde de acuerdo con el escalafón.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1981)</small>
+
+###### Artículo 63.
+
+La jubilación no es renunciable y aceptada por empleado público, carecerá de derecho para solicitar otra por el mismo concepto, salvo en el de los inhabilitados que recuperen sus facultades y queden aptos para el servicio. Se considerará aceptada una jubilación o pensión cuando el interesado no haya manifestado su inconformidad dentro del plazo de treinta días hábiles contados a partir de la fecha en que se hubiere notificado el acuerdo respectivo de la Dirección de Recursos Humanos del Gobierno del Estado.
+
+Aceptada la jubilación el empleado público queda obligado a separarse definitivamente del puesto o cargo que desempeñaba y que dió origen a su jubilación.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1981)</small>
+
+###### Artículo 64.
+
+El importe de la pensión que se concede a dos o más personas se distribuirá a prorrata entre los interesados. Si fallece una de ellas, la parte de la pensión de que disfrutaba, será en beneficio proporcional de los demás copartícipes.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1981)</small>
+
+###### Artículo 65.
+
+La percepción de una pensión concedida por el Gobierno del Estado, es incompatible con el desempeño de cualquier cargo remunerado en el propio gobierno, con excepción de los de elección popular.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1981)</small>
+
+###### Artículo 66.
+
+Cuando se presenta un caso de incompatibilidad de una jubilación, se suspenderá su pago o pensión. Pero el afectado tendrá nuevamente derecho a percibirla cuando desaparezca la incompatibilidad. La prueba queda a cargo del propio interesado. Si existiendo una incompatibilidad el jubilado recibe su pensión, queda obligado a reintegrar las cantidades percibidas indebidamente, dentro del plazo que le señale la Tesorería General del Estado. De no hacerlo, dejará de disfrutar de la pensión a que tenga derecho, hasta que cubra la prestación a su cargo.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1981)</small>
+
+###### Artículo 67.
+
+Cuando un jubilado o pensionado sea declarado reo por sentencia firme en los casos de delitos contra la seguridad exterior de la Nación o en contra de la integridad territorial del Estado, automáticamente se extinguirá su derecho jubilatorio.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1981)</small>
+
+###### Artículo 68.
+
+Las pensiones que establece este ordenamiento legal, no son susceptibles de: enajenarse, cederse, gravarse o embargarse, salvo los casos de adeudos en favor de la Tesorería General del Gobierno del Estado, o cuando se trate de acatar un mandamiento judicial sobre alimentos.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1981)</small>
+
+###### Artículo 69.
+
+Por ningún motivo la Tesorería General del Estado, dejará de pagar puntualmente las jubilaciones o pensiones.
 
 TRANSITORIOS:
 
@@ -312,3 +526,9 @@ Dado en el Salón de Sesiones del H. Congreso del Estado en Pachuca de Soto, a l
 Por tanto mando se imprima, publique y circule para su debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo en la ciudad de Pachuca de Soto, Hgo., a los treinta y un días del mes de diciembre de mil novecientos cincuenta y seis.- El Gobernador Constitucional del Estado, QUINTIN RUEDA VILLAGRAN.- El Secretario General del Gobierno, LIC. PROSPERO MACOTELA CRAVIOTO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE ENERO DE 1981.
+
+Único.- El presente Decreto surtirá sus efectos legales a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
