@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-penales-para-el-estado-de-2595"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-04-12"
-last_updated: "2001-02-19"
+last_updated: "2001-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
 
 Código publicado en el Suplemento al Número 15, del Periódico Oficial del Estado de Aguascalientes, el 12 de abril de 1992.
 
@@ -2725,17 +2725,13 @@ Formulada la solicitud en cualquier periodo del procedimiento, con excepción de
 
 En la determinación que dicte el servidor público que conozca, se fundará y motivará el otorgamiento o la negativa de tal libertad, así como la revocación de ésta, en su caso, tomando en cuenta las prevenciones constitucionales y legales aplicables, así como, los documentos que exhiba el Ministerio Público para acreditar los extremos que refiere el segundo párrafo del presente artículo.
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 380.
 
-También tendrá derecho a obtener el beneficio de la libertad provisional bajo caución:
+También tendrá derecho a obtener el beneficio de la libertad provisional bajo caución el inculpado por cualquier hecho delictivo de los calificados como graves por el Código Penal, si el ejercicio de la acción penal es por grado de tentativa.
 
-I.- El inculpado por cualquier hecho delictivo de los calificados como graves por el Código Penal, si el ejercicio de la acción penal es por grado de tentativa; y
-
-II.- El inculpado por delito grave así calificado por el Código Penal, cuando en la sentencia que se dicte en primera instancia se le aplique pena de prisión no mayor de 5 años.
-
-La excepción a lo previsto en las dos fracciones anteriores, se encontrará en los casos del delincuente peligroso o reincidente, en los términos establecidos en el artículo anterior.
+La excepción a lo previsto en el párrafo anterior, se encontrará en los casos del delincuente peligroso o reincidente, en los términos establecidos en el artículo anterior.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1994)</small>
 
@@ -3814,3 +3810,9 @@ P.O. 19 DE FEBRERO DE 2001.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente.
+
+P.O. 26 DE NOVIEMBRE DE 2001.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor a los treinta días siguientes a la fecha de su publicación en el Periódico Oficial del Estado.
