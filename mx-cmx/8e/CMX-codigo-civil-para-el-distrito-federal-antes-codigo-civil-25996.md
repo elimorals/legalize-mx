@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1954-12-31"
+last_updated: "1966-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1966.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -8763,17 +8763,19 @@ ARTICULO 2,315.- En la venta de que habla el artículo 2,312, mientras que no pa
 
 ARTICULO 2,316.- El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTICULO EN LOS TERMINOS DEL ARTICULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTICULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1966)</small>
 
-ARTICULO 2,317.- La venta de un inmueble que tenga un valor hasta de cinco mil pesos, podrá hacerse en instrumento privado que firmará el vendedor y el comprador ante dos testigos.
+ARTICULO 2,317.- Las enajenaciones de bienes inmuebles cuyo valor convencional no sea mayor de quinientos pesos y la constitución o transmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, juez de paz o Registro Público de la Propiedad.
+
+Los contratos por los que el Departamento del Distrito Federal enajene terrenos o casas para la constitución del patrimonio familiar o para personas de escasos recursos económicos hasta por un valor de ochenta mil pesos, podrán otorgarse en documento privado sin los requisitos de testigos y de ratificación de firmas.
 
 ARTICULO 2,318.- Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el párrafo segundo del art. 1,834.
 
 ARTICULO 2,319.- De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
-> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTICULO EN LOS TERMINOS DEL ARTICULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTICULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1966)</small>
 
-ARTICULO 2,320.- Si el valor del inmueble excede de cinco mil pesos su venta se hará en escritura pública.
+ARTICULO 2,320.- Si el valor del inmueble excede de quinientos pesos, su venta se hará en escritura pública, salvo lo dispuesto por el artículo 2317.
 
 ARTICULO 2,321.- Tratándose de bienes ya inscritos en el Registro y cuyo valor no exceda de cinco mil pesos, cuando la venta sea al contado puede hacerse trasmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
 
@@ -10539,9 +10541,11 @@ ARTICULO 2,916.- El acreedor hipotecario puede adquirir la cosa hipotecada, en r
 
 Puede también convenir con el deudor en que se le adjudique en el precio que se fije al exigirse la deuda, pero no al constituirse la hipoteca. Este convenio no puede perjudicar los derechos de tercero.
 
-> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTICULO EN LOS TERMINOS DEL ARTICULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTICULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1966)</small>
 
-ARTICULO 2,917.- Cuando el crédito hipotecario exceda de cinco mil pesos, la hipoteca debe otorgarse en escritura pública. Cuando no exceda de esta cantidad, podrá otorgarse en escritura privada, ante dos testigos, de la cual se harán tantos ejemplares como sean las partes contratantes.
+ARTICULO 2,917.- Para la constitución de créditos con garantía hipotecaria se observarán las formalidades establecidas en los artículos 2317 y 2320.
+
+Los contratos en los que se consigne garantía hipotecaria otorgada con motivo de la enajenación de terrenos o casas por el Departamento del Distrito Federal para la constitución del patrimonio familiar o para personas de escasos recursos, cuando el valor del inmueble hipotecado no exceda de ochenta mil pesos, se observarán las formalidades establecidas por el párrafo segundo del artículo 2317.
 
 ARTICULO 2,918.- La acción hipotecaria prescribirá a los diez años, contados desde que pueda ejercitarse con arreglo al título inscrito.
 
@@ -11690,3 +11694,9 @@ EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORI
 D.O.F. 31 DE DICIEMBRE DE 1954.
 
 EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 30 DE DICIEMBRE DE 1966.
+
+Primero.- El presente Decreto entrará en vigos (sic) tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+SEGUNDO (sic).- Se derogan las disposiciones legales que se opongan al presente Decreto.
