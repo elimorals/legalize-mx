@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1983-05-16"
+last_updated: "1983-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1983.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -211,13 +211,19 @@ XVII.- Imponer sanciones en el orden administrativo, conforme a la Ley, por infr
 
 XVIII.- Aplicar el procedimiento fiscal de ejecución, con arreglo a esta Ley.
 
-ART. 25.- La Secretaría de Finanzas del Estado y la Sub-Secretaría de Ingresos tienen la facultad y el deber de vigilar el exacto cumplimiento de las leyes, y demás disposiciones fiscales. Por lo tanto, investigarán por los medios legales, si los créditos fiscales han sido debidamente determinados y pagados; si los contribuyentes han presentado las declaraciones a que estén obligados y si los datos que contienen corresponden a la realidad y, en general, si se ha dado oportuno cumplimiento a las obligaciones que imponga la Legislación Fiscal.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1983)</small>
 
-ART. 26.- El Secretario de Finanzas y el Sub-Secretario de Ingresos son las autoridades competentes para ordenar la práctica de visitas a que se refiere la Fracción III del Artículo 24 de esta Ley.
+ART. 25.- La Secretaría de Hacienda Pública y Tesorería, la Sub-Secretaría de Hacienda Pública y Tesorería y la Sub-Secretaría de Ingresos tienen la facultad y el deber de vigilar el exacto cumplimiento de las Leyes y demás disposiciones fiscales. Por lo tanto, investigarán por los medios legales, si los créditos fiscales han sido debidamente determinados y pagados; si los contribuyentes han presentado las declaraciones a que están obligados y si los datos que contienen corresponden a la realidad y, en general, si se ha dado oportuno cumplimiento a las obligaciones que imponga la Legislación Fiscal.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1983)</small>
+
+ART. 26.- El Secretario de Hacienda Pública y Tesorería, el Sub-Secretario de Hacienda Pública y Tesorería y el Sub-Secretario de Ingreso son autoridades competentes para ordenar la práctica de visitas a que se refiere la fracción III del Artículo 24 de esta Ley.
 
 ART. 27.- Los funcionarios y empleados fiscales están obligados, bajo su inmediata responsabilidad personal, a guardar el secreto de la situación económica de los contribuyentes que haya llegado a su conocimiento en actos de servicio; les está prohibido explotar o aprovechar en cualquier forma, los secretos profesionales de negocios que en actos del servicio hayan llegado a su conocimiento, así como al suministrar datos fiscales relativos al empadronamiento y valor catastral de predios rústicos y urbanos, de negocios comerciales, industriales, agrícolas y de profesiones y oficios, salvo por orden de autoridad Judicial competente o a solicitud por escrito de Autoridad Federal o de los dueños, poseedores, arrendatarios o encargados de estos bienes y negocios.
 
-ART. 28.- La determinación, revisión y recaudación de los impuestos y demás ingresos propios del Estado y los permisos, autorizaciones o registros que sean de la competencia de la Secretaría de Finanzas, se harán por las autoridades hacendarias, a través de la Sub-Secretaría de Ingresos.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1983)</small>
+
+ART. 28.- La determinación, revisión y recaudación de los impuestos y demás ingresos propios del Estado y los permisos, autorizaciones o registros que sean de la competencia de la Secretaría de Hacienda Pública y Tesorería, se harán por las Autoridades hacendarias, a través de la Sub-Secretaría de Hacienda Pública y Tesorería y de la Sub-Secretaría de Ingresos.
 
 ART. 29.- La obligación fiscal nace cuando se realizan las situaciones jurídicas o de hecho previstas en las leyes fiscales.
 
@@ -4285,9 +4291,9 @@ III.- Previo el procedimiento legal, aplicará y ejecutará las sanciones proced
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1983)</small>
 
-ART. 391.- El Secretario de Finanzas, el Sub-Secretario de Ingresos, los Jefes de Oficinas Recaudadoras y demás autoridades fiscales, impondrán las sanciones administrativas por infracción a las disposiciones fiscales.
+ART. 391.- El Secretario de Hacienda Pública y Tesorería, el Sub-Secretario de Hacienda Pública y Tesorería, el Sub-Secretario de Ingresos, los jefes de las oficinas Recaudadoras y demás autoridades fiscales, impondrán las sanciones administrativas por infracción a las disposiciones fiscales.
 
 ART. 392.- La aplicación de las sanciones administrativas que procedan, se harán sin perjuicio de que se exija el pago de las prestaciones fiscales respectivas, de recargos en su caso, y de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
 
@@ -4611,11 +4617,15 @@ ART. 401.- Las autoridades fiscales del Estado, seguirán el procedimiento fisca
 
 ART. 402.- La aplicación del procedimiento fiscal de ejecución compete:
 
-I.- Al Secretario de Finanzas del Estado y al Sub-Secretario de Ingresos, por los créditos fiscales que deban ser pagados directamente en la Secretaría de Finanzas del Estado o por avocación de competencia en los casos en que estos funcionarios lo estimen conveniente.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1983)</small>
+
+I.- Al Secretario de Hacienda Pública y Tesorería, al Sub-Secretario de Hacienda Pública y Tesorería y al Sub-Secretario de Ingresos, por los créditos fiscales que deban ser pagados directamente en la Secretaría de Hacienda Pública y Tesorería o por avocación de competencia en los casos en que estos funcionarios lo estimen conveniente;
 
 II.- A los jefes de Oficinas Recaudadoras, dentro de sus respectivas jurisdicciones fiscales o por requerimiento que una oficina haga a otra.
 
-ART. 403.- El Secretario de Finanzas, el Sub-Secretario de Ingresos y los Recaudadores de Rentas, en ejercicio de la facultad económica-coactiva comisionarán a los ejecutores notificadores de su adscripción o a los empleados subalternos cuando las necesidades del servicio lo requieran.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1983)</small>
+
+ART. 403.- El Secretario de Hacienda Pública y Tesorería, el Sub-Secretario de Hacienda Pública y Tesorería, el Sub-Secretario de Ingresos y los Recaudadores de Rentas, en ejercicio de la facultad económica-coactiva comisionarán a los ejecutores notificadores de su adscripción o a los empleados subalternos cuando las necesidades del servicio lo requieran.
 
 ART. 404.- Los escritos y las promociones de los causantes no suspenderán el procedimiento económico-coactivo, sino en los casos en que el promovente asegure el interés fiscal en cualquiera de las formas establecidas por esta Ley.
 
@@ -5344,3 +5354,9 @@ P.O. 16 DE MAYO DE 1983.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 17 DE JUNIO DE 1983.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
