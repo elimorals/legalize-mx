@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "1988-07-21"
+last_updated: "1990-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1990.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -355,7 +355,9 @@ Cuando un predio se encuentre baldío o sin construcciones permanentes, dentro d
 
 a).- Cuando se trate de terrenos baldíos bardeados, en un 10% (diez por ciento) adicional por el primer año y un 5% (cinco por ciento) anual adicional, por cada año que continúe sin construirse, hasta un máximo del 50% (cincuenta por ciento) de la Cuota Porcentual que le corresponda;
 
-b).- Cuando se trate de terrenos baldíos sin barda en un 20% (veinte por ciento) adicional, por el primer año y en un 10% (diez por ciento) anual adicional por cada año que continúe sin construirse, hasta un máximo de 50% (cincuenta por ciento) de la cuota porcentual que le corresponda.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1990)</small>
+
+b).- Cuando se trate de terrenos baldíos sin barda en un 50% (cincuenta por ciento) adicional por el primer año y en 10% (diez por ciento) anual adicional por cada año que continúe sin construirse, hasta un máximo de 100% (cien por ciento) de la cuota porcentual que le corresponda.
 
 Este gravamen a los predios baldíos es aplicable al predio y no al sujeto pasivo del mismo, por lo que, aún cuando cambiase de propietario éste tendrá la obligación de pagar el incremento acumulado del predio.
 
@@ -1721,7 +1723,7 @@ Para dar principio a la construcción de cualquier fraccionamiento, las personas
 
 Los fraccionadores tienen las siguientes obligaciones:
 
-I.- Destinar el 15% de la superficie urbanizada o fraccionadora para las escuelas, parques, y jardines públicos, cediéndose en propiedad al municipio al que corresponda la expresada superficie en la cual no se computará la asignada a calles.
+l.- Destinar el 15% de la superficie urbanizada o fraccionadora para las escuelas, parques, y jardines públicos, cediéndose en propiedad al municipio al que corresponda la expresada superficie en la cual no se computará la asignada a calles.
 
 II.- Que la dependencia competente, señale con toda precisión la superficie afectable del 15% a que se refiere el punto anterior, localizándose ésta gráficamente en los planos respectivos de los cuales se reservará un ejemplar para la autoridad municipal correspondiente.
 
@@ -2991,9 +2993,11 @@ POR SERVICIO PUBLICO DE ILUMINACION.
 
 Son contribuyentes del derecho de iluminación pública en las calles, plazas, parques, jardines y demás lugares de uso común, los usuarios de las tarifas de la Comisión Federal de Electricidad 1, 1B, 1C, 2, 3, 8 y 12 publicadas, en el Diario Oficial de la Federación del día 31 de diciembre de 1986 y las que se lleguen a decretar.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 209.
 
-La tasa para determinar el monto del derecho de servicio público de iluminación, será del 3% en las tarifas 1, 1A, 1B, 1C, 2 y 3 del 2% en las tarifas 8, 12 y otras tarifas que establezca la Comisión Federal de Electricidad. Las tasas del derecho de aplicación sobre la base del resultado de la aplicación de los factores de utilización de las cargas instaladas en los respectivos servicios y tarifas anteriormente mencionados.
+La tasa para determinar el monto de derecho de servicio público de iluminación, será del 5% en las tarifas 1, 1A, 1B, 1C, 2 y 3 del 6% en las tarifas 8, 12 y otras tarifas que establezca la Comisión Federal de Electricidad, las tasas de derecho de aplicación sobre la base del resultado de la aplicación de los factores de utilización de las cargas instaladas en las tarifas anteriormente mencionadas.
 
 ###### ARTICULO 210.
 
@@ -3111,6 +3115,8 @@ Tendrán carácter de productos los ingresos que se obtengan por la venta de bie
 
 POR ESTACIONAMIENTO DE VEHICULOS EN LA VIA PUBLICA EN AQUELLOS LUGARES DONDE EXISTEN APARATOS MARCADORES DE TIEMPO.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 229.
 
 Tendrán carácter de productos los ingresos que se obtengan de la venta de objetos recogidos por Autoridades Municipales.
@@ -3121,15 +3127,9 @@ APROVECHAMIENTOS.
 
 ###### ARTICULO 230.
 
-Tendrán carácter de productos los ingresos que se obtengan por estacionamiento de vehículos en la vía pública en aquellos lugares donde existen aparatos marcadores de tiempo (estacionómetros), por cada hora o fracción menor de tiempo $100,00. Al infractor de esta obligación se les aplicará una sanción de $500.00 si es cubierta dentro de los dos días hábiles siguientes a aquél en que se levantó la infracción.
+En aquellos lugares donde existen aparatos marcadores de tiempo (estacionómetros), por cada media hora o fracción menor de tiempo $100 pesos al infractor de esta obligación se le aplicará una sanción de $5,000.00 pesos.
 
-Cuando la sanción se cubra después del plazo señalado en el párrafo anterior, pero antes de 30 días, se duplicará la multa, iniciándose la ejecución contra el deudor, si después de ese período no se hace efectivo.
-
-Se aplicará una multa de $10,000.00 a quienes insulten a agredan a los encargados de lo vigilancia de los estacionómetros con motivo, del ejercicio de sus funciones, sin perjuicio de su consignación a la autoridad competente por los delitos que resultaren.
-
-Las personas que opten por adquirir calcomanías anuales para uso de zonas marcadas con estacionómetros deberán cubrir la cantidad de $60,000,00.
-
-Las personas que para maniobras de carga y descarga frente a sus domicilios requieren de cajones de estacionamientos, deberán cubrir una cuota de $30,000.00 mensuales, por cada espacio que corresponda a un aparato medidor de tiempo, y tomando en cuenta las disposiciones de la Ley de Tránsito y Transportes y su reglamento.
+Se consignará a la autoridad correspondiente a quienes insulten ó agredan a los encargados.
 
 ## TITULO QUINTO
 
@@ -3159,9 +3159,11 @@ Serán ingresos municipales de los denominados aprovechamientos:
 
 9.- No especificadas.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 232.
 
-La falta oportuna del pago de impuestos, derechos, productos y aprovechamientos causará un recargo en concepto de indemnización al Fisco Municipal y de acuerdo al porcentaje fijado por la Ley de Ingresos Municipales correspondiente, en la forma y términos que la misma establece.
+La falta oportuna del pago de impuestos, derechos, causará un recargo en concepto de indemnización al fisco municipal en los términos de la Ley de Ingresos.
 
 ### CAPITULO UNICO
 
@@ -3260,3 +3262,13 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSE RAMIREZ GAMERO. EL SECRETARIO
 P.O. 21 DE JULIO DE 1988.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE ENERO DE 1990.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1o. de Enero de 1990.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
