@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1971-03-19"
+last_updated: "1972-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE MARZO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ENERO DE 1972.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -2041,9 +2041,7 @@ A los funcionarios y empleados públicos que cometan el delito de concusión, se
 
 Las sanciones del artículo anterior, se aplicarán también a los encargados o comisionados por un funcionario público que, con aquella investidura, cometan el delito de concusión.
 
-(REUBICADO [N. DE E. ANTES TITULO DECIMOSEGUNDO], D.O.F. 29 DE JULIO DE 1970)
-
-TITULO DECIMOPRIMERO
+(REUBICADO [N. DE E. ANTES TITULO DECIMOSEGUNDO], D.O.F. 29 DE JULIO DE 1970)TITULO DECIMOPRIMERO
 
 Delitos cometidos en la administración de justicia
 
@@ -2599,7 +2597,7 @@ El que cometa alguno de los delitos expresados en el artículo anterior, perder�
 
 Se impondrán hasta cinco años de prisión y multa hasta de quinientos pesos al que estando unido con una persona en matrimonio no disuelto ni declarado nulo, contraiga otro matrimonio con las formalidades legales.
 
-(REUBICADO [N. DE E. ANTES TITULO DECIMOOCTAVO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TITULO DECIMOCTAVO], D.O.F. 29 DE JULIO DE 1970)
 
 TITULO DECIMOSÉPTIMO
 
@@ -3023,7 +3021,7 @@ Al que exponga en una casa de expósitos a un niño menor de siete años que se 
 
 Los ascendientes o tutores que entreguen en una casa de expósitos un niño que esté bajo su potestad, perderán por ese sólo hecho los derechos que tengan sobre la persona y bienes del expósito.
 
-(REUBICADO SU DENOMINACION, D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TITULO VIGESIMOPRIMERO], D.O.F. 29 DE JULIO DE 1970)
 
 ## TITULO VIGESIMO SEGUNDO. Delitos en contra de las personas en su patrimonio
 
@@ -3210,6 +3208,8 @@ VI.- Si el robo de infante se comete en menor de doce años, por quien sea extra
 Cuando el delito lo comete un familiar del menor que no ejerza sobre él la patria potestad ni la tutela, la pena será de seis meses a cinco años de prisión.
 
 Si espontáneamente se pone en libertad a la persona antes de tres días y sin causar ningún perjuicio, sólo se aplicará la sanción correspondiente a la privación ilegal de la libertad de acuerdo con el artículo 364. Este beneficio no opera en el caso de la fracción III del presente artículo.
+
+(REUBICADO [N. DE E. ANTES TITULO VIGESIMO TERCERO], D.O.F. 29 DE JULIO DE 1970)
 
 ###### ARTICULO 367.
 
@@ -3451,6 +3451,14 @@ Se equipara al delito de fraude y se sancionará con prisión de 6 meses a 6 añ
 
 Si el beneficio se logra como consecuencia de una promesa falsa, se duplicarán las sanciones.
 
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 1972)</small>
+
+ARTICULO 389 bis.- Comete delito de fraude el que por sí o por interpósita persona, cause perjuicio público o privado al fraccionar y transferir o prometer transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, propio o ajeno, con o sin construcciones sin el previo permiso de las autoridades administrativas competentes, o cuando existiendo éste no se hayan satisfecho los requisitos en él señalados. Este delito se sancionará aún en el caso de falta de pago total o parcial.
+
+Para los efectos penales se entiende por fraccionar la división de terrenos en lotes.
+
+Este delito se sancionará con las penas previstas en el artículo 386 de este Código, con la salvedad de la multa mencionada en la fracción tercera de dicho precepto, que se elevará hasta cincuenta mil pesos.
+
 ###### ARTICULO 390.
 
 Son aplicables al fraude los artículos 377 y 378.
@@ -3519,6 +3527,8 @@ Si además de los daños directos resulta consumado algún otro delito, se aplic
 
 Cuando por cualquier medio se causen daño, destrucción o deterioro de cosa ajena, o de cosa propia en perjuicio de tercero, se aplicarán las sanciones del robo simple.
 
+(REUBICADO [N. DE E. ANTES TITULO VIGESIMO CUARTO], D.O.F. 29 DE JULIO DE 1970)
+
 TITULO VIGESIMOTERCERO
 
 Encubrimiento
@@ -3547,7 +3557,7 @@ IV.- Preste auxilio o cooperación de cualquier especie al autor de un delito, c
 
 > <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
 
-V.- Oculte al responsable de un delito, o los efectos (sic) objetos o instrumentos del mismo, o impida que se averigüe.
+V.- Oculte al responsable de un delito, o los efectos objetos o instrumentos del mismo, o impida que se averigüe.
 
 > <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 1967)</small>
 
@@ -3780,3 +3790,9 @@ Las solicitudes y los procedimientos sobre libertad preparatoria y condena condi
 ###### ARTICULO 3o.
 
 Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 11 DE ENERO DE 1972.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a los tres días de su publicación en el "Diario Oficial" de la Federación.
