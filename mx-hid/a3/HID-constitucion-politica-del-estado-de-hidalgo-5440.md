@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1969-11-08"
+last_updated: "1970-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1970.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -172,6 +172,12 @@ P.O. 8 DE NOVIEMBRE DE 1969.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCION.
 
 4o.- Este Decreto entrará en vigor el 1o. de enero de 1970.
+
+P.O. 8 DE ENERO DE 1970.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCION.
+
+4o.- Este decreto entrará en vigor el 15 de enero de 1970.
 
 ## TITULO II. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO
 
@@ -1105,15 +1111,15 @@ El período Constitucional de la actual Legislatura, terminara el último día d
 
 Las autoridades y funcionarios del Estado no tienen mas facultades que las que expresamente les concedan esta Constitución, la General de la República y las leyes que de ellas emanen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 1969)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ENERO DE 1970)</small>
 
 ###### Artículo 3°.
 
-El territorio del Estado es el expresado en el Supremo Decreto de Erección de 16 de enero de 1869 y dividido en 15 Distritos a los que corresponden los 83 Municipios que a continuación se expresan:
+El Territorio del Estado de Hidalgo es el expresado en el Supremo Decreto de Erección de 16 de enero de 1869 y dividido en 15 Distritos a los que corresponden los 84 Municipios que a continuación se expresan:
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 1927)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1970)</small>
 
-Distrito de Actopan: Formado con los Municipios de Actopan, Mixquiahuala, El Arenal, San Salvador, Santiago, San Agustín Tlaxiaca y Francisco I. Madero.
+Distrito de Actopan: Formado por los Municipios de Actopan, Mixquiahuala, El Arenal, San Salvador, Santiago, San Agustín Tlaxiaca, Francisco I. Madero y Progreso.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1943)</small>
 
