@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1919-11-30"
+last_updated: "1921-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1919.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1921.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -69,7 +69,7 @@ Si el infractor fuere jornalero u obrero, no podrá ser castigado con multa mayo
 
 La persecusión de los delitos, incumbe al Ministerio Público y a la Policía Judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 1919)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 1919)</small>
 
 ###### Art. 7º.
 
@@ -249,11 +249,11 @@ El ejercicio del Poder Judicial corresponde al Supremo Tribunal de Justicia, a l
 
 Jamás podrán reunirse dos o más de estos Poderes en una persona o Corporación ni el Legislativo depositar la suma de su poder en una sola persona.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1921)</small>
 
 ###### Art. 32.
 
-El Gobernador del Estado, los Diputados a la Legislatura y los Munícipes serán nombrados popularmente y por elección directa. De entre los miembros del Ayuntamiento se elegirá por los demás un Presidente que será el del Municipio. Los Magistrados y los Jueces de Partido se nombrarán por la Legislatura, los Municipales y los Jurados, por los respectivos Ayuntamientos.
+El Gobernador del Estado, los Diputados a la Legislatura, los Presidentes Municipales y los Regidores de los Ayuntamientos, serán nombrados popularmente y por elección directa. Los Magistrados y los Jueces de Partido serán nombrados por la Legislatura funcionando en Colegio Electoral, y los Municipales y los Jurados, por los Ayuntamientos respectivos.
 
 ###### Art. 33.
 
@@ -389,29 +389,33 @@ Entretanto que, conforme a lo dispuesto en el artículo 48, fracción XII de est
 
 El Gobierno interior de dichos Municipios y el manejo y distribución de los intereses pertenecientes a las poblaciones, corresponde a los Ayuntamientos, los que en los asuntos de su competencia no dependerán de otra autoridad.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1921)</small>
+
 ###### Art. 73.
 
-Los Ayuntamientos se compondrán del número de Munícipes que a su juicio sean bastantes para atender a los diversos ramos de su administración; pero en ningún caso, este número será menor de siete ni mayor de quince. Por cada munícipe propietario se nombrará un suplente.
+Los Ayuntamientos se compondrán de un Presidente y del número de Regidores que sea necesario de acuerdo con la importancia de cada Municipio, sin que el número sea mayor de quince ni menor de siete. Por cada Munícipe propietario se nombrará un suplente.
 
 ###### Art. 74.
 
 La libertad Municipal no tendrá más límites que los señalados en la Constitución Federal y en la presente.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1921)</small>
+
 ###### Art. 75.
 
-La administración de los Municipios será colectiva: en consecuencia, el Presidente solo tendrá el carácter de ejecutor de las resoluciones de la Corporación.
+Los Ayuntamientos administrarán colectivamente los asuntos de los Municipios y el Presidente de la Corporación dirigirá las deliberaciones de ésta y será el ejecutor de los acuerdos de la misma.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1921)</small>
 
 ###### Art. 76.
 
-Los Ayuntamientos se renovarán en su totalidad cada año y será Presidente Municipal durante todo ese período, el Munícipe propietario que sea electo por el mismo Ayuntamiento.
+Los Ayuntamientos se renovarán en totalidad cada año pudiendo sus miembros ser reelectos, con excepción del Presidente Municipal o quien lo substituya.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1921)</small>
 
 ###### Art. 77.
 
-La propia Corporación designará en cada caso y mediante nueva elección, otro de sus miembros para cubrir las faltas temporales o absolutas del Presidente que deba sustituirse.
+Los ciudadanos que tuvieren credenciales expedidas legalmente, se reunirán en el Salón de acuerdos del respectivo Municipio, para calificar la validez de sus credenciales y declarar el resultado, todo en los términos que ordene la Ley Electoral.
 
 ###### Art. 78.
 
@@ -471,9 +475,13 @@ XIV. Vigilar la pronta y eficaz administración de justicia en el Municipio.
 
 XV. Lo demás que les encomienden las leyes.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1921)</small>
+
 ###### Art. 83.
 
-La administración pública en las poblaciones pequeñas, en las que no haya Ayuntamiento, estará a cargo de un delegado Municipal, nombrado por el Ayuntamiento de la Cabecera del Municipio.
+La administración pública en las poblaciones pequeñas, en que no haya Ayuntamiento, estará a cargo de un Delegado Municipal, nombrado anualmente por el Ayuntamiento de la Cabecera del Municipio, quien también designará un suplente.
+
+Para ser Delegado Municipal, se necesitan los mismos requisitos que para munícipe y, además, el de ser en todo caso vecino del lugar.
 
 ###### Art. 84.
 
@@ -1010,3 +1018,7 @@ P.O. 30 DE NOVIEMBRE DE 1919.
 I.- El Presupuesto General del Estado que actualmente rige, solamente seguirá en vigor hasta el 31 de diciembre del año en curso.
 
 II.- Se faculta al Ejecutivo para que reforme, por lo que hace a plazos y fechas, los artículos de la Ley de Hacienda del Estado y demás relativos que pugnen con el exacto cumplimiento de esta Ley.
+
+P.O. 24 DE NOVIEMBRE DE 1921.
+
+Artículo segundo:- Las reformas a que se refiere la presente Ley, comenzarán a surtir sus efectos desde el día de su publicación.
