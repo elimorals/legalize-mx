@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-entidades-paraestatales-del-estado-de-oaxaca-11811"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-28"
-last_updated: "2001-09-01"
+last_updated: "2005-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de febrero de 1998.
 
@@ -81,9 +81,11 @@ Las entidades paraestatales, gozarán de autonomía de gestión para el cabal cu
 
 Sin menoscabo de lo dispuesto en el párrafo anterior, las entidades paraestatales se sujetarán al control y evaluación del Ejecutivo del Estado, en los términos previstos en la presente ley.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 5o.
 
-Las entidades quedan sujetas al control y vigilancia del Ejecutivo del Estado, en los términos de esta Ley, por conducto de las Secretarías de Finanzas y de Administración, así como la Contraloría General, en el respectivo ámbito de sus atribuciones y por las dependencias de la Administración Pública Centralizada, que al efecto determine como Coordinadoras de Sector.
+Las entidades quedan sujetas al control y vigilancia del Ejecutivo del Estado, en los términos de esta Ley, por conducto de las Secretarías de Finanzas y de Administración, así como la Secretaría de la Contraloría, en el respectivo ámbito de sus atribuciones y por las dependencias de la Administración Pública Centralizada, que al efecto determine como Coordinadoras de Sector.
 
 ###### ARTICULO 6o.
 
@@ -151,7 +153,9 @@ II. Un Secretario Técnico, que será el Director General de la Entidad Paraesta
 
 III. Vocales, el número que dispongan los actos jurídicos de creación; y
 
-IV. Un Comisario, que será el Delegado Contralor o el representante de la Contraloría General.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+IV. Un Comisario, que será el Delegado Contralor o el representante de la Secretaría de la Contraloría.
 
 El número de integrantes del órgano de Gobierno comprenderá un mínimo de cinco y un máximo de quince miembros propietarios y de sus respectivos suplentes. Los suplentes serán los servidores públicos que designe el Titular del Poder ejecutivo.
 
@@ -223,7 +227,9 @@ IX. Presentar trimestralmente al Órgano de Gobierno, el informe del desempeño 
 
 X. Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia, con que se desempeñe la entidad paraestatal y presentar al Órgano de Gobierno por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente se acuerde con dicho órgano;
 
-XI. Proporcionar la información y dar acceso a la documentación que le soliciten la Secretarías de Finanzas y de Administración, así como la Contraloría General o el Auditor Externo, para el cumplimiento de sus funciones y la que el Congreso del Estado le solicite;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+XI. Proporcionar la información y dar acceso a la documentación que le soliciten la Secretarías de Finanzas y de Administración, así como la Secretaría de la Contraloría o el Auditor Externo, para el cumplimiento de sus funciones y la que el Congreso del Estado le solicite;
 
 XII. Ejecutar los acuerdos que dicte el Órgano de Gobierno; y
 
@@ -321,9 +327,11 @@ I. Que el Gobierno del Estado, aporte como socio un mínimo del 51% del capital 
 
 II. Que al Gobierno del Estado, le corresponda a (sic) facultad de nombrar al Consejo de Administración o equivalente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 26.
 
-En las empresas en que participe el Gobierno del Estado, con la suscripción de hasta el 50% del capital social, sólo se vigilarán las inversiones del Estado, a través de la Secretaría de Finanzas y la Contraloría General y el ejercicio de los derechos respectivos, se hará por conducto de la Coordinadora de Sector correspondiente.
+En las empresas en que participe el Gobierno del Estado, con la suscripción de hasta el 50% del capital social, sólo se vigilarán las inversiones del Estado, a través de la Secretaría de Finanzas y la Secretaría de la Contraloría y el ejercicio de los derechos respectivos, se hará por conducto de la Coordinadora de Sector correspondiente.
 
 Sólo procederá la participación del Gobierno del Estado en estas Empresas, cuando su objeto sea la realización de acciones de interés general. Los montos aportados por el Gobierno del Estado a estas empresas, deberán sujetarse, en cuanto a su autorización, aplicación, control y vigilancia, a las Leyes respectivas.
 
@@ -379,15 +387,21 @@ El Ejecutivo Estatal, a través de la Secretaría de Finanzas, quien será el fi
 
 En los contratos de los Fideicomisos a que se refiere este capítulo, se deberán precisar las facultades especiales que determine el Ejecutivo Estatal, para el Comité Técnico si las hubiere, en adición a las que establece el artículo 12 de esta Ley, para los Órganos de Gobierno, indicando en todo caso, cuales asuntos requieren de la aprobación del mismo, para el ejercicio de acciones y derechos que correspondan al fiduciario.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 37.
 
-En los contratos constitutivos de Fideicomisos de la Administración Pública Estatal, se deberá reservar al Gobierno del Estado, la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisos o a terceros, salvo que se trate de fideicomisos constituidos como irrevocables, por mandato de Ley o que la naturaleza de sus fines no lo permita.
+En los contratos constitutivos de Fideicomisos de la Administración Pública Estatal, se deberá reservar al Gobierno del Estado, la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisos o a terceros, salvo que se trate de fideicomisos constituidos como irrevocables, por manda (sic) o por Ley o que la naturaleza de sus fines no lo permita.
+
+Independientemente de lo dispuesto en este Capítulo, el Gobernador del Estado podrá constituir fideicomisos con participación estatal y los sectores privado y social, con la aprobación del Congreso del Estado, cuyo único fin será impulsar el desarrollo sustentable del Estado, en los términos de la Ley de la materia.
 
 ### CAPITULO I. DE LA PLANEACION, PROGRAMACION Y PRESUPUESTO
 
 ## TITULO III. DE LA OPERACION DE LAS ENTIDADES PARAESTATALES
 
 ### CAPITULO II. DEL CONTROL Y VIGILANCIA POR PARTE DEL EJECUTIVO ESTATAL
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 38.
 
@@ -417,7 +431,7 @@ Por lo que toca a la percepción de subsidios y transferencias, los recibirá de
 
 ###### ARTICULO 43.
 
-Las entidades paraestatales, en lo tocante al ejercicio de sus presupuestos, concertación y cumplimiento de compromisos, registro de operaciones; rendimiento de informes sobre estados financieros e integración de datos para efecto de cuenta pública, deberán sujetarse a los dispuesto por esta Ley y su Reglamento y en las disposiciones legales respectivas de la materia.
+Las entidades paraestatales, en lo tocante al ejercicio de sus presupuestos, concertación y cumplimiento de compromisos, registro de operaciones; rendimiento de informes sobre estados financieros e integración de datos para efecto de cuenta pública, deberán sujetarse a lo dispuesto por esta Ley y su Reglamento y en las disposiciones legales respectivas de la materia.
 
 ###### ARTICULO 44.
 
@@ -425,13 +439,11 @@ Las entidades paraestatales, elaborarán trimestralmente estados financieros y d
 
 ### CAPITULO III. DEL REGISTRO DE ENTIDADES PARAESTATALES
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 45.
 
-Corresponde al Ejecutivo del Estado, el control y vigilancia de las entidades, a través de las Secretarías de Finanzas y de Administración, así como la Contraloría General y la coordinación, supervisión y evaluación, por conducto de las Dependencias Coordinadoras de Sector respectivas.
-
-Las atribuciones conferidas al Ejecutivo Estatal, en el párrafo anterior, serán ejercidas con el objeto de lograr la integración de las actividades de las entidades paraestatales a la planeación general y regional del desarrollo en el Estado y de obtener la máxima eficacia y eficiencia en el resultado de sus operaciones.
-
-Las atribuciones señaladas en este artículo, se entienden sin perjuicio de las que les otorga la Constitución Política del Estado y demás leyes aplicables.
+Corresponde al Ejecutivo del Estado, el control y vigilancia de las entidades, a través de las Secretarías de Finanzas y de Administración, así como la Secretaría de la Contraloría y la coordinación, supervisión y evaluación, por conducto de las Dependencias Coordinadoras de Sector respectivas.
 
 ###### ARTICULO 46.
 
@@ -479,9 +491,11 @@ V. Vigilar que los Acuerdos de Coordinación que se realicen con Dependencias y 
 
 VI. Las demás que le determinen las Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 48.
 
-La Controlaría General, tendrá respecto de las entidades paraestatales, las siguientes atribuciones:
+La Secretaría de la Controlaría, tendrá respecto de las entidades paraestatales, las siguientes atribuciones:
 
 I. Establecer y operar el Sistema de Control de la Gestión Pública, al interior de las entidades paraestatales;
 
@@ -525,17 +539,15 @@ VI. Tener acceso a toda clase de documentación, que les permita cumplir con las
 
 VII. Las demás que le determine esta Ley y la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 50.
 
-Cuando por reformas a las Leyes, varié la denominación o atribuciones de las Secretarías de Finanzas y de Administración, así como la Contraloría General o de las Coordinadoras de Sector, sus funciones serán ejercidas por la o las dependencias que conforme a la nueva legislación, correspondan tales atribuciones.
+Cuando por reformas a las Leyes, varíe la denominación o atribuciones de las Secretarías de Finanzas, de Administración, y de la Contraloría o de las Coordinadoras de Sector, sus funciones serán ejercidas por la o las dependencias que conforme a la nueva legislación, correspondan tales atribuciones.
 
 ###### ARTICULO 51.
 
-Se establece el Registro de entidades paraestatales de la Administración Pública Estatal, el cual estará a cargo de la Contraloría General.
-
-El Director General o equivalente, deberá, dentro del plazo de 30 días naturales siguientes a la fecha de constitución de la entidad paraestatal, inscribirla en el referido registro.
-
-Concediéndose el mismo plazo, cuando hubiere modificaciones o reformas que afecten la constitución o estructura de la entidad paraestatal, así como aquellos actos que deban ser objeto de registro, en términos del artículo siguiente de esta Ley, dicho plazo será computado a partir del día siguiente a la celebración de dichos actos.
+Se establece el Registro de entidades paraestatales de la Administración Pública Estatal, el cual estará a cargo de la Secretaría de la Contraloría.
 
 ###### ARTICULO 52.
 
@@ -561,9 +573,11 @@ VIII. Los demás documentos o actos que determine el Reglamento de este ordenami
 
 El Reglamento de esta Ley, determinará la constitución y funcionamiento del Registro, así como las formalidades de las inscripciones y anotaciones.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 54.
 
-La Contraloría General, en el mes de noviembre de cada año, publicará en el Periódico oficial del Gobierno del Estado, la relación de las entidades paraestatales por sectorización, que formen parte de la Administración Pública Estatal.
+La Secretaría de la Contraloría, en el mes de noviembre de cada año, publicará en el Periódico Oficial del Gobierno del Estado, la relación de las entidades paraestatales por sectorización, que formen parte de la Administración Pública Estatal.
 
 TRANSITORIOS:
 
@@ -630,3 +644,7 @@ P.O. 1 DE SEPTIEMBRE DE 2001.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día 1° de enero del año 2002. Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 22 DE MARZO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
