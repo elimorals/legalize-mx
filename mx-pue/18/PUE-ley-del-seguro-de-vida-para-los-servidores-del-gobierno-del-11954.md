@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-seguro-de-vida-para-los-servidores-del-gobierno-del-119
 country: "mx"
 rank: "ley"
 publication_date: "1952-03-14"
-last_updated: "1955-02-08"
+last_updated: "1956-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SEGURO DE VIDA PARA LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 1955.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 1956.
 
 Ley publicada en el periódico oficial del Estado de Puebla, el viernes 14 de marzo de 1952.
 
@@ -41,15 +41,17 @@ LEY DEL SEGURO DE VIDA PARA LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA
 
 ###### ARTICULO 3.
 
-El importe de la cuota individual, por cada caso de defunción, será de $5.00 CINCO PESOS.
+El importe de la cuota individual, por cada caso de defunción o de incapacidad total y permanente, será de $ 5.00 (CINCO PESOS).
 
 ###### ARTICULO 6o.
 
 La Junta de Administración se organizará y funcionará de acuerdo con el Reglamento respectivo.
 
-###### ARTICULO 7o.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1956)</small>
 
-La Tesorería General del Estado, queda facultada para descontar de los sueldos de los servidores del Gobierno del Estado, el importe de sus aportaciones en cada caso de fallecimiento, debiendo entregar la suma recaudada dentro de los diez días siguientes, al Tesorero de la Junta de Administración del "SEGURO DE VIDA DE LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA" para que éste a más tardar dentro de las veinticuatro horas siguientes, deposite dicha suma en una institución bancaria.
+###### ARTICULO 7.
+
+La Tesorería General del Estado, queda facultada para descontar de los sueldos de los Servidores del Gobierno del Estado, el importe de sus aportaciones en cada caso de fallecimiento o de incapacidad total y permanente, debiendo entregar la suma recaudada dentro de los diez días siguientes, al Tesorero de la Junta de Administración del "Seguro de Vida de los Servidores del Gobierno del Estado de Puebla", para que éste, a más tardar dentro de las veinticuatro horas siguientes, deposite dicha suma en una Institución Bancaria.
 
 > <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1955)</small>
 
@@ -77,9 +79,11 @@ Al ocurrir la muerte del asegurado, la Junta de Administración, abrirá el sobr
 
 A falta de disposición testamentaria, el importe del Seguro se entregará a los herederos legítimos.
 
-###### ARTICULO 14o.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1956)</small>
 
-La Junta de Administración del SEGURO DE VIDA DE LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA, hará conocer a los asegurados los fallecimientos que se registren, por medio de un boletín.
+###### ARTICULO 14.
+
+La Junta de Administración del Seguro de Vida de los Servidores del Gobierno del Estado, hará conocer a los Asegurados por medio de un boletín, los fallecimientos y los casos de incapacidad total y permanente que se registren.
 
 ###### ARTICULO 15o.
 
@@ -101,6 +105,30 @@ Para el eficaz funcionamiento del Seguro, la Tesorería General del Estado está
 
 Los gastos de administración, escritorio, y publicidad, serán cubiertos por el Gobierno del Estado.
 
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 1956)</small>
+
+###### ARTICULO 20.
+
+Cuando el Asegurado sufra incapacidad total y permanente o sea la pérdida absoluta de facultades o de aptitudes que lo imposibiliten para poder desempeñar cualquier trabajo por el resto de su vida, se le entregará al propio Asegurado, la cantidad de $ 25.000.00 (VEINTICINCO MIL DE PESOS) que se aportará en la forma prescrita en el artículo 8° de esta Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 1956)</small>
+
+###### ARTICULO 21.
+
+Si la incapacidad a que se refiere el artículo anterior, trae como consecuencia la pérdida de la facultades mentales del Asegurado, el Seguro se entregará a su representante legítimo.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 1956)</small>
+
+###### ARTICULO 22.
+
+La entrega del Seguro en los casos de incapacidad total y permanente del Asegurado, excluye el Seguro que se entrega en los casos de defunción.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 1956)</small>
+
+###### ARTICULO 23.
+
+La entrega de los seguros que instituye esta Ley, la hará personalmente el Ejecutivo del Estado, en acto público y con la presencia de los miembros de los Departamentos Legislativo y Judicial.
+
 TRANSITORIOS:
 
 ###### ARTICULO 1º.
@@ -121,7 +149,7 @@ El Seguro que se crea tiene como único fin la de ayuda económica para los fami
 
 Se entiende por Servidores del Gobierno del Estado de Puebla, los funcionarios electos o nombrados, maestros y empleados en general, a quienes para el desempeño de sus labores, se les expide nombramiento.
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1956)</small>
 
 ###### ARTICULO 3º.
 
@@ -145,6 +173,8 @@ PRIMERO.- Se abrogan los artículos 3°. y 8° de la Ley que se reforma, para qu
 
 SEGUNDO.- Este Decreto comenzará a surtir sus efectos a partir del día 1° de febrero de 1955.
 
+P.O. 24 DE ENERO DE 1956.
+
 ###### ARTICULO 4o.
 
 El Seguro de los Servidores del Gobierno del Estado de Puebla, estará a cargo de una Junta de Administración, la cual tendrá personalidad jurídica y estará integrada por un Representante del Gobierno del Estado, que será el Tesorero General del Estado, un Representante del Poder Legislativo, uno del Poder Judicial, y dos del Poder Ejecutivo que serán designados uno por los burócratas y otro por el profesorado.
@@ -152,3 +182,11 @@ El Seguro de los Servidores del Gobierno del Estado de Puebla, estará a cargo d
 ###### ARTICULO 5o.
 
 Los cargos de los integrantes de la Junta de Administración, serán honoríficos y durarán un año.
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan las disposiciones que se opongan a las reformas y adiciones que contiene el presente Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto comenzará a surtir sus efectos a partir del día de su publicación en el Periódico Oficial del Estado.
