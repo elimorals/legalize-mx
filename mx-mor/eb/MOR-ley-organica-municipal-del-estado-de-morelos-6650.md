@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-6650"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-11-04"
-last_updated: "1993-12-08"
+last_updated: "1997-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 1997.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos el 4 de noviembre de 1992.
 
@@ -415,45 +415,47 @@ Cuando el nombramiento de un funcionario del municipio se decida mediante el uso
 
 Para la designación de los servidores públicos municipales a que se refiere esta fracción, deberá tomarse en cuenta su competencia, honorabilidad, profesionalismo y responsabilidad;
 
-II.- Asignar a sus miembros las comisiones que deberán desempeñar; según su importancia, las comisiones serán unipersonales o colegiadas y atenderán los ramos de la administración municipal siguientes:
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 1997)</small>
 
-A).- De Gobernación, Reglamentos, Seguridad Pública, Tránsito y de Planificación y Desarrollo, encomendados directamente al Presidente Municipal;
+II.- Determinar en orden de prelación, la asignación de las Comisiones Municipales, tomando como base la distribución de Regidurías a que alude el artículo 115, fracción III, párrafos séptimo y octavo de la Constitución Política del Estado de Morelos.
 
-B).- De Patrimonio Municipal y Procuración de Justicia que presidirá el Síndico;
+Las Comisiones así integradas, serán unipersonales, permanentes y atenderán los ramos de la administración pública, en el siguiente orden:
 
-C).- Comisiones específicas a los Regidores que serán, enunciativamente, las siguientes:
+1.- Hacienda, Programación y Presupuesto.
 
-Hacienda;
+2.- Desarrollo Urbano, Vivienda y Obras Públicas.
 
-Programación y Presupuesto;
+3.- Servicios Públicos Municipales.
 
-Desarrollo Urbano y Obras Públicas;
+4.- Bienestar Social.
 
-Registro Civil;
+5.- Desarrollo Económico.
 
-Relaciones Públicas y Difusión;
+6.- Colonias y Poblados.
 
-Protección Ambiental;
+7.- Educación, Cultura y Recreación.
 
-Patrimonio Cultural;
+8.- Desarrollo Agropecuario.
 
-Mercados;
+9.- Coordinación de Organismos Descentralizados.
 
-Rastros;
+10.- Protección Ambiental.
 
-Panteones;
+11.- Derechos Humanos.
 
-Alumbrado Público;
+12.- Turismo.
 
-Colonias y Poblados;
+13.- Protección del Patrimonio Cultural.
 
-Educación, Recreación y Cultura; y
+14.- Relaciones Públicas y Comunicación Social.
 
-De Asistencia Social.
+La Comisión de Patrimonio Municipal será presidida por el Síndico y las Comisiones de Gobernación, Reglamentos, Seguridad Pública, Tránsito y de Planificación y Desarrollo, quedan encomendadas directamente al Presidente Municipal.
 
-Los Ayuntamientos podrán crear, asimismo, con el carácter de temporal o permanente, aquellas comisiones específicas que requieran las necesidades del municipio, asignándoles su duración, integración y atribuciones.
+Cuando se trate de Ayuntamientos integrados en número menor de quince, en los términos de esta Ley, la distribución de las Comisiones se agotará en todo momento, siguiendo el orden y criterio fijado en el párrafo primero de esta fracción; de manera que agotada la primer distribución, las subsecuentes lleven la misma consideración y orden.
 
-En ningún caso recaerán en un mismo Regidor las Comisiones de Hacienda y de Programación y Presupuesto.
+Los Ayuntamientos deberán expedir y publicar el Reglamento que determine las acciones que comprenderán cada una de las ramas de la administración pública municipal asignadas a las Comisiones, en los términos de este ordenamiento; en ningún caso las Comisiones, sean permanentes o temporales, podrán autorizar facultades ejecutivas a sus miembros, excepto en el caso que establece el artículo 43, párrafo segundo de esta Ley.
+
+Con el objeto de atender otras materias no previstas o en su caso asuntos específicos, según las necesidades del Municipio, los Ayuntamientos están facultados para constituir otras Comisiones, que podrán ser temporales o permanentes, debiendo expedir y publicar, de igual manera, el Reglamento que establezca su duración, integración y acciones.
 
 III.- Designar a una comisión de dos Regidores, cuando menos, que revise los inventarios, fondos y valores que hubiere entregado el Ayuntamiento saliente. Esta comisión podrá asesorarse de la Comisión de Hacienda del Congreso y por profesionales de la materia.
 
@@ -467,7 +469,7 @@ IV.- Designación de una comisión especial que elabore el proyecto de reglament
 
 Las Comisiones a que se refiere la fracción II del artículo anterior tendrán por objeto estudiar, examinar y resolver los problemas que se presenten en relación con el ramo de la administración municipal que les corresponda y vigilar que se cumplan las disposiciones y acuerdos del Ayuntamiento, para lo cual, tendrán con las dependencias de la administración pública municipal la coordinación que sea necesaria.
 
-En la distribución de comisiones se procurará que se asignen a los Regidores aquéllas que les sean afines, tomando en consideración, además, su profesión u oficio, antecedentes y experiencia.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 6 DE FEBRERO DE 1997)</small>
 
 ###### Artículo 42.
 
@@ -771,7 +773,9 @@ Son atribuciones de los Regidores:
 
 I.- Asistir puntualmente a las sesiones que celebre el Ayuntamiento y participar en las discusiones con voz y voto, sin que puedan abstenerse de votar, salvo que exista impedimento legal;
 
-II.- Vigilar y atender la rama de la administración municipal que les haya sido encomendada, informando periódicamente al Ayuntamiento de sus gestiones;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 1997)</small>
+
+II.- Vigilar y atender la rama de la administración municipal que les corresponda o les haya sido encomendada, informando trimestralmente al Ayuntamiento de sus gestiones.
 
 III.- Desempeñar personalmente, o formar parte de las comisiones que les encomienden el Ayuntamiento o el Presidente Municipal, informando de sus gestiones a quien corresponda;
 
@@ -1984,3 +1988,17 @@ P.O. 8 DE DICIEMBRE DE 1993.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación el (sic) el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
 
 SEGUNDO- Remítase el presente decreto al titular del Poder Ejecutivo Estatal para los efectos constitucionales correspondientes.
+
+P.O. 6 DE FEBRERO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+Los Ayuntamientos expedirán el Reglamento que establezca las acciones que comprendan cada una de las ramas de la administración pública municipal asignada a las Comisiones Municipales, su duración e integración, a más tardar, dentro de los noventa días hábiles siguientes al inicio de la vigencia de este Decreto.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas aquéllas disposiciones que se opongan al presente Decreto.
