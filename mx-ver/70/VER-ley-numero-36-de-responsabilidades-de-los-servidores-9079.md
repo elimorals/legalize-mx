@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-36-de-responsabilidades-de-los-servidores-9079"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-09"
-last_updated: "1984-02-09"
+last_updated: "1985-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE AGOSTO DE 1985.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 9 de febrero de 1984.
 
@@ -65,7 +65,9 @@ I.- La Legislatura del Estado;
 
 II.- El Tribunal Superior de Justicia del Estado;
 
-III.- La Subsecretaría de Gobierno;
+> <small>(REFORMADA, G.O. 24 DE AGOSTO DE 1985)</small>
+
+III.- La Dirección General de Contraloría del Gobierno del Estado;
 
 IV.- La Tesorería General del Estado;
 
@@ -411,11 +413,15 @@ SANCIONES ADMINISTRATIVAS Y PROCEDIMIENTOS PARA APLICARLAS.
 
 En las dependencias y entidades de la Administración Pública Estatal y Paraestatal, se designarán responsables, ante los cuales se puedan presentar quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos, con las que se iniciará, en su caso, el procedimiento disciplinario correspondiente.
 
-La Subsecretaría de Gobierno estará facultada para dictar reglas de control interno, prevención y procedimientos para que las quejas y denuncias del público sean atendidas y resueltas con eficiencia, estará facultada para designar a los responsables, a que se refiere el párrafo anterior, como contralores internos.
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
+
+La Dirección General de Contraloría del Gobierno del Estado estará facultada para dictar reglas de control interno, prevención y procedimientos para que las quejas y denuncias del público sean atendidas y resueltas con eficiencia, estará facultada para designar a los responsables a que se refiere el párrafo anterior, como contralores internos.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 1985)</small>
 
 ###### ARTICULO 50.
 
-La Subsecretaría, el superior jerárquico y todos los servidores públicos tienen las obligaciones de respetar y hacer respetar el derecho a la formulación de las quejas y denuncias a las que se refiere el artículo anterior y de evitar que con motivo de éstas se causen molestias indebidas al quejoso.
+La Dirección General de Contraloría, el superior jerárquico y todos los servidores públicos tienen las obligaciones de respetar y hacer respetar el derecho a la formulación de las quejas y denuncias a las que se refiere el artículo anterior y de evitar que con motivo de éstas se causen molestias indebidas al quejoso.
 
 El servidor público que coaccione al quejoso para evitar la presentación de quejas y denuncias, incurrirá en responsabilidad.
 
@@ -425,9 +431,11 @@ El Tribunal Superior de Justicia establecerá los órganos y sistemas para ident
 
 Lo propio hará, conforme a la legislación respectiva y por lo que hace a su competencia la Legislatura del Estado.
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
+
 ###### ARTICULO 52.
 
-El Secretario de Gobierno y el Subsecretario de Gobierno para los efectos de este título, serán responsables ante el Gobernador del Estado.
+El Secretario de Gobierno y el Director General de Contraloría del Estado, para los efectos de este Título, serán responsables ante el Gobernador del Estado.
 
 ###### ARTICULO 53.
 
@@ -481,43 +489,61 @@ II.- La destitución del empleo, cargo o comisión de los servidores públicos, 
 
 III.- La suspensión del empleo, cargo o comisión durante el período al que se refiere la fracción I, y la destitución de los servidores públicos de confianza se aplicarán por el superior jerárquico;
 
-IV.- El Subsecretario de Gobierno, promoverá los procedimientos a que hacen referencia las fracciones II y III, demandando la destitución del servidor público responsable o procediendo a la suspensión de éste cuando el superior jerárquico no lo haga. En este caso, la Subsecretaría desahogará el procedimiento y exhibirá las constancias respectivas al superior jerárquico;
+> <small>(REFORMADA, G.O. 24 DE AGOSTO DE 1985)</small>
+
+IV.- El Director General de Contraloría del Estado promoverá los procedimientos a que hacen referencia las fracciones II y III, demandando la destitución del servidor público responsable o procediendo a la suspensión de éste cuando el superior jerárquico no lo haga. En este caso, la Dirección General de Contraloría desahogará el procedimiento y exhibirá las constancias respectivas al superior jerárquico;
 
 V.- La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público será aplicable por resolución jurisdiccional, que dictará el órgano que corresponda según las leyes aplicables; y
 
-VI.- Las sanciones económicas serán aplicadas por el superior jerárquico, cuando no excedan de un monto equivalente a treinta veces el salario mínimo diario vigente en la zona económica donde radique el servidor público, y por la Subsecretaría cuando sean superiores a esta cantidad.
+> <small>(REFORMADA, G.O. 24 DE AGOSTO DE 1985)</small>
+
+VI.- Las sanciones económicas serán aplicadas por el superior jerárquico, cuando no excedan de un monto equivalente a treinta veces el salario mínimo diario vigente en la zona económica donde radique el servidor público y por la Dirección General de Contraloría cuando sean superiores a esta cantidad.
+
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
 
 ###### ARTICULO 57.
 
-Los directores o sus equivalentes en la administración pública paraestatal, deberán informar por escrito a la Subsecretaría de Gobierno, los hechos graves que a su juicio, sean causa de responsabilidad administrativa, para que ésta proceda como corresponda; asimismo informarán de todas las sanciones que hayan aplicado.
+Los Directores o sus equivalentes en la administración pública paraestatal, deberán informar por escrito a la Dirección General de Contraloría, los hechos graves que a su juicio, sean causa de responsabilidad administrativa, para que ésta proceda como corresponda, asimismo informarán de todas las sanciones que hayan aplicado.
+
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
 
 ###### ARTICULO 58.
 
-La Subsecretaría aplicará las sanciones correspondientes a los responsables y a los contralores internos de las dependencias, cuando éstos incurran en actos u omisiones que impliquen responsabilidad administrativa.
+La Dirección General de Contraloría aplicará las sanciones correspondientes a los responsables y a los contralores internos de las dependencias, cuando éstos incurran en actos u omisiones que impliquen responsabilidad administrativa.
 
 ###### ARTICULO 59.
 
 Incurrirán en responsabilidad administrativa, los titulares de las dependencias que se abstengan injustificadamente de sancionar a los infractores de esta Ley.
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
+
 ###### ARTICULO 60.
 
-El superior jerárquico de cada dependencia, será competente para imponer sanciones disciplinarias, excepto las económicas, cuyo monto sea superior a treinta veces el salario mínimo diario de la zona económica donde radique el servidor público, las que están reservadas exclusivamente al Subsecretario, quien comunicará los resultados del procedimiento al titular de la dependencia.
+El superior jerárquico de cada dependencia, será competente para imponer sanciones disciplinarias, excepto las económicas, cuyo monto sea superior a treinta veces el salario mínimo diario vigente en la zona económica donde radique el servidor público, las que están reservadas exclusivamente a la Dirección General de Contraloría, quien comunicará los resultados del procedimiento al titular de la dependencia.
+
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
 
 ###### ARTICULO 61.
 
-Si los superiores jerárquicos tuvieran conocimiento de hechos que impliquen responsabilidad penal, darán vista de ellos a la Subsecretaría y a la autoridad competente para conocer del ilícito.
+Si los superiores jerárquicos tuvieran conocimiento de hechos que impliquen responsabilidad penal, darán vista de ellos a la Dirección General de Contraloría y a la autoridad competente para conocer del ilícito.
+
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
 
 ###### ARTICULO 62.
 
-Si de las investigaciones y auditorías que se realicen en las dependencias apareciera la responsabilidad administrativa de los servidores públicos, se informará esta circunstancia al superior jerárquico y al Subsecretario de Gobierno, para que se proceda en términos de Ley.
+Si de las investigaciones y auditorías que se realicen en las dependencias apareciera la responsabilidad administrativa de los servidores públicos, se informará esta circunstancia al superior jerárquico y a la Dirección General de Contraloría del Gobierno, para que se proceda en términos de Ley.
+
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
 
 ###### ARTICULO 63.
 
-El Subsecretario y los titulares de las dependencias en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el salario mínimo diario vigente en la zona económica donde se cometa.
+El Director General de Contraloría y los titulares de las dependencias en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el salario mínimo diario vigente en la zona económica donde se cometa.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 1985)</small>
 
 ###### ARTICULO 64.
 
-La Subsecretaría impondrá las sanciones administrativas a que se refiere este Capítulo mediante el siguiente procedimiento:
+La Dirección General de Contraloría impondrá las sanciones administrativas a que se refiere este capítulo mediante el siguiente procedimiento:
 
 I.- Citará al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por sí o por medio de un defensor.
 
@@ -525,13 +551,21 @@ También asistirá a la audiencia el representante de la dependencia que para ta
 
 Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
 
-II.- Al concluir la audiencia o dentro de los tres días hábiles siguientes, la Subsecretaría resolverá sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes; y notificará la resolución dentro de las veinticuatro horas siguientes, al interesado, a su jefe inmediato, al representante designado por la dependencia y al superior jerárquico;
+> <small>(REFORMADA, G.O. 24 DE AGOSTO DE 1985)</small>
 
-III.- Si en la audiencia, la Subsecretaría encontrara que no cuenta con elementos suficientes para resolver o advierta elementos que impliquen otra responsabilidad administrativa a cargo del presunto responsable o de otras personas, podrá disponer la práctica de investigaciones y citar para otra u otras audiencias; y
+II.- Al concluir la audiencia o dentro de los tres días hábiles siguientes, la Dirección General de Contraloría resolverá sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes; y notificará la resolución dentro de las veinticuatro horas siguientes, al interesado, a su jefe inmediato, al representante designado por la dependencia y al superior jerárquico;
 
-IV.- En cualquier momento, previa o posteriormente al citatorio al que se refiere la fracción I del presente artículo, la Subsecretaría podrá determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, si a su juicio así conviene para la conducción o continuación de las investigaciones. La suspensión temporal no prejuzga sobre la responsabilidad que se impute. La determinación de la Subsecretaría hará constar expresamente esta salvedad.
+> <small>(REFORMADA, G.O. 24 DE AGOSTO DE 1985)</small>
 
-La suspensión temporal a que se refiere el párrafo anterior, suspenderá los efectos del acto que haya dado origen a la ocupación del empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado o éste quede enterado de la resolución por cualquier medio. La suspensión cesará cuando así lo resuelva la Subsecretaría, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo.
+III.- Si en la audiencia, la Dirección General de Contraloría encontrara que no cuenta con elementos suficientes para resolver o advierta elementos que impliquen otra responsabilidad administrativa a cargo del presunto responsable o de otras personas, podrá disponer la práctica de investigaciones y citar para otra u otras audiencias; y
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 1985)</small>
+
+IV.- En cualquier momento, previa o posteriormente al citatorio al que se refiere la fracción I del presente artículo, la Dirección General de Contraloría podrá determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, si a su juicio así conviene para la conducción o continuación de las investigaciones. La suspensión temporal no prejuzga sobre la responsabilidad que se impute. La determinación de la Dirección General de Contraloría hará constar expresamente esta salvedad.
+
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
+
+La suspensión temporal a que se refiere el párrafo anterior, suspenderá los efectos del acto que haya dado origen a la ocupación del empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado o éste quede enterado de la resolución por cualquier medio. La suspensión cesará cuando así lo resuelva la Dirección General de Contraloría, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo.
 
 Si los servidores suspendidos temporalmente no resultaren responsables de la falta que se les imputa serán restituidos en el goce de sus derechos y se les cubrirán las percepciones que debieran percibir durante el tiempo que estuvieron suspendidos.
 
@@ -549,9 +583,11 @@ Se levantará acta circunstanciada de todas las diligencias que se practiquen, q
 
 Los superiores jerárquicos podrán designar un representante que participe en las diligencias y siempre se le dará vista de todas las actuaciones.
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
+
 ###### ARTICULO 68.
 
-Las resoluciones y acuerdos de la Subsecretaría y las dependencias, durante el procedimiento a que se refiere este Capítulo, constarán por escrito, y se asentarán en el registro respectivo, que comprenderá las secciones correspondientes a los procedimientos disciplinarios y a las sanciones impuestas, entre ellas, en todo caso, las de inhabilitación.
+Las resoluciones y acuerdos de La Dirección General de Contraloría y la dependencia, durante el procedimiento a que se refiere este capítulo, constarán por escrito, y se asentarán en el registro respectivo, que comprenderá las secciones correspondientes a los procedimientos disciplinarios y a las sanciones impuestas, entre ellas, en todo caso, las de inhabilitación.
 
 ###### ARTICULO 69.
 
@@ -607,9 +643,11 @@ Las sanciones económicas que se impongan constituirán créditos fiscales a fav
 
 Si el servidor público presunto responsable confesare su responsabilidad por el incumplimiento de las obligaciones a que hace referencia la presente Ley, se procederá de inmediato a dictar resolución, a no ser que quien conoce del procedimiento disponga la recepción de pruebas para acreditar la veracidad de la confesión o el monto de los daños y perjuicios causados. En caso de que se acepte la plena validez probatoria de la confesión, se impondrá al interesado dos tercios de la sanción aplicable, si es de naturaleza económica, pero en lo que respecta a indemnización, ésta en todo caso deberá ser suficiente para cubrir los daños y perjuicios causados, y siempre deberá restituirse cualquier bien o producto que se hubiere percibido con motivo de la infracción. Quedará a juicio de quien resuelve disponer o no la suspensión, separación o inhabilitación.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 1985)</small>
+
 ###### ARTICULO 76.
 
-Para el cumplimiento de las atribuciones que le confiere esta Ley, la Subsecretaría y el superior jerárquico podrán emplear los siguientes medios de apremio:
+Para el cumplimiento de las atribuciones que le confiere esta Ley, la Dirección General de Contraloría y el superior jerárquico podrán emplear los siguientes medios de apremio:
 
 I.- Sanción económica de hasta veinte veces el salario mínimo diario en la zona económica donde reside el servidor público; y
 
@@ -617,9 +655,11 @@ II.- Auxilio de la fuerza pública.
 
 Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la legislación penal.
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
+
 ###### ARTICULO 77.
 
-Las facultades del superior jerárquico y de la Subsecretaría para imponer las sanciones que esta Ley prevé, prescribirán en tres años.
+Las facultades del superior jerárquico y de la Dirección General de Contraloría para imponer las sanciones que esta Ley prevé, prescribirán en tres años.
 
 ## TITULO CUARTO
 
@@ -627,15 +667,21 @@ Las facultades del superior jerárquico y de la Subsecretaría para imponer las 
 
 REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS.
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
+
 ###### ARTICULO 78.
 
-La Subsecretaría de Gobierno, con apoyo de la Tesorería General del Estado, llevará el registro de situación patrimonial de los servidores públicos de conformidad con esta Ley y demás disposiciones aplicables.
+La Dirección General de Contraloría del Gobierno, con apoyo de la Tesorería General del Estado, llevará el registro de situación patrimonial de los servidores públicos de conformidad con esta Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 1985)</small>
 
 ###### ARTICULO 79.
 
-Tienen la obligación de presentar declaración anual de situación patrimonial ante la Subsecretaría de Gobierno, bajo protesta de decir verdad:
+Tienen la obligación de presentar declaración anual de situación patrimonial ante la Dirección General de Contraloría de Gobierno, bajo protesta de decir verdad:
 
-I.- En el Poder Legislativo del Estado: Los Diputados, el Oficial Mayor, el Jefe del Departamento de Glosa, el Jefe del Departamento Jurídico y los auditores del Departamento de Glosa;
+> <small>(REFORMADA, G.O. 24 DE AGOSTO DE 1985)</small>
+
+I.- En el Poder Legislativo del Estado: Los Diputados, el Oficial Mayor, el Director de Contaduría y Glosa, el Director de Asuntos Jurídicos y los auditores;
 
 II.- En el Poder Ejecutivo Estatal: Todos los servidores públicos, desde el nivel de Jefes de Departamento hasta el Gobernador del Estado, además de los previstos en las fracciones IV, VI, VII y VIII;
 
@@ -651,7 +697,9 @@ VII.- En los Tribunales del Trabajo: Los miembros de Junta y Secretarios; y
 
 VIII.- En la Tesorería General del Estado: Todos los servidores públicos de confianza.
 
-Asimismo, deberán presentar la declaración de la que se trata en este precepto los demás servidores públicos que determinen la Legislatura, el Subsecretario de Gobierno y el Presidente del Tribunal Superior de Justicia, mediante disposiciones generales debidamente motivadas y fundadas.
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
+
+Asimismo, deberán presentar la declaración de la que se trata en este precepto los demás servidores públicos que determinen la Legislatura, la Dirección General de Contraloría de Gobierno y el Presidente del Tribunal Superior de Justicia, mediante disposiciones generales debidamente motivadas y fundadas.
 
 ###### ARTICULO 80.
 
@@ -663,11 +711,15 @@ II.- Dentro de los treinta días naturales siguientes a la conclusión del encar
 
 III.- Durante el mes de mayo de cada año deberá presentarse la declaración de situación patrimonial, acompañada, en su caso, de una copia de la declaración anual presentada por personas físicas para los efectos de la Ley del Impuesto Sobre la Renta, salvo que en ese mismo año se hubiese presentado la declaración a que se refiere la fracción I.
 
-Si transcurrido el plazo a que hace referencia la fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efectos el nombramiento respectivo previa declaración de la Subsecretaría de Gobierno. Lo mismo ocurrirá cuando se omita la declaración contemplada en la fracción III. Cuando se trate de los Diputados, Magistrados del Tribunal Superior de Justicia o el Magistrado del Tribunal Fiscal, se requerirá además, la declaración de la Legislatura del Estado, y en ese caso se considerarán suspendidos de su cargo hasta que cumplan con la declaración.
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
+
+Si transcurrido el plazo a que hace referencia la fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efectos el nombramiento respectivo previa declaración de la Dirección General de Contraloría de Gobierno. Lo mismo ocurrirá cuando se omita la declaración contemplada en la fracción III. Cuando se trate de Diputados, Magistrados del Tribunal Superior de Justicia o el Magistrado del Tribunal Fiscal, se requerirá además, la declaración de la Legislatura del Estado, y en ese caso se considerará suspendido de su cargo hasta que cumplan con la declaración.
+
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
 
 ###### ARTICULO 81.
 
-La Subsecretaría de Gobierno expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
+La Dirección General de Contraloría expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
 
 ###### ARTICULO 82.
 
@@ -675,23 +727,31 @@ En la declaración inicial y final de situación patrimonial se manifestarán lo
 
 En las declaraciones anuales se manifestarán sólo las modificaciones al patrimonio, con fecha y valor de adquisición. En todo caso se indicará el medio por el que se hizo la adquisición.
 
-Tratándose de bienes muebles, valores, inversiones o bienes preciosos, la Subsecretaría decidirá, mediante acuerdo general, las características que deba tener la declaración.
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
+
+Tratándose de bienes muebles, valores, inversiones o bienes preciosos, la Dirección General de Contraloría decidirá mediante acuerdo general, las características que deba tener la declaración.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 1985)</small>
 
 ###### ARTICULO 83.
 
-Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, la Subsecretaría podrá ordenar, fundando y motivando su acuerdo, la práctica de visitas de inspección y auditorías. Cuando estos actos requieran orden de autoridad judicial, la Subsecretaría hará ante ésta la solicitud correspondiente. Cuando se trate de los Diputados, Magistrados del Tribunal Superior de Justicia y el Magistrado del Tribunal Fiscal, la Subsecretaría lo comunicará previamente a la Legislatura del Estado para que acuerde lo procedente, en todo caso, deberá participar también un auditor de la Legislatura.
+Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, la Dirección General de Contraloría podrá ordenar, fundando y motivando su acuerdo, la práctica de visitas de inspección y auditorías. Cuando estos actos requieran orden de autoridad judicial, la Dirección General de Contraloría hará ante ésta la solicitud correspondiente. Cuando se trate de Diputados, Magistrados del Tribunal Superior de Justicia y el Magistrado del Tribunal Fiscal, la Dirección General de Contraloría lo comunicará previamente a la Legislatura del Estado para que acuerde lo procedente, en todo caso, deberá participar también un auditor de la Legislatura.
 
 Previamente a la inspección o al inicio de la auditoría, se dará cuenta al servidor público de los hechos que motivan estas actuaciones y se le presentarán las actas en que aquéllos consten, para que exponga lo que en derecho le convenga.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 1985)</small>
+
 ###### ARTICULO 84.
 
-El servidor público a quien se practique la visita de investigación o auditoría podrá interponer inconformidad ante la Subsecretaría de Gobierno contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cinco días siguientes a la conclusión de aquéllas, en la que expresará los motivos de inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir dentro de los treinta días siguientes a la presentación del recurso.
+El servidor público a quien se practique la visita de investigación o auditoría podrá interponer inconformidad ante la Dirección General de Contraloría de Gobierno contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cinco días hábiles siguientes a la conclusión de aquéllas, en la que expresará los motivos de inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir dentro de los treinta días siguientes a la presentación del recurso.
 
 Todas las actas que se levanten con motivo de la visita deberán ir firmadas por el servidor público y los testigos que para tal efecto designe. Si el servidor público o los testigos se negaren a firmar, el visitador lo hará constar sin que estas circunstancias afecten el valor probatorio que en su caso, posea el documento.
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
+
 ###### ARTICULO 85.
 
-Cuando se trate de los servidores públicos indicados en las fracciones I y V del artículo 79 de esta Ley, la Subsecretaría de Gobierno enviará original al Poder respectivo de todas las declaraciones de situación patrimonial que presenten dichos servidores, conservando copia en el registro correspondiente.
+Cuando se trate de los servidores públicos indicados en las fracciones I y V del artículo 79 de esta Ley, la Dirección General de Contraloría de Gobierno enviará original al Poder respectivo de todas las declaraciones de situación patrimonial que presenten dichos servidores, conservando copia en el registro correspondiente.
 
 ###### ARTICULO 86.
 
@@ -707,13 +767,17 @@ En ningún caso se podrán recibir de dichas personas títulos, valores, bienes 
 
 Se castigará como cohecho las conductas de los servidores públicos que violen lo dispuesto en este artículo y serán sancionados en términos de la legislación penal.
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
+
 ###### ARTICULO 88.
 
-Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se mencionan en el artículo anterior y cuyo monto sea superior al que en él se establece o sean de los estrictamente prohibidos, deberán informar de ello a la autoridad que la Subsecretaría de Gobierno determine a fin de ponerlos a su disposición. La autoridad correspondiente llevará un registro de dichos bienes.
+Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se mencionan en el artículo anterior y cuyo monto sea superior al que en él se establece o sean de los estrictamente prohibidos, deberán informar de ello a la autoridad que la Dirección General de Contraloría determine a fin de ponerlos a su disposición. La autoridad correspondiente llevará un registro de dichos bienes.
+
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
 
 ###### ARTICULO 89.
 
-La Subsecretaría de Gobierno hará al Ministerio Público, en su caso, declaratoria de que el funcionario sujeto a la investigación respectiva, en los términos de la presente Ley, no justificó la procedencia lícita del incremento sustancial de su patrimonio de los bienes adquiridos o de aquéllos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivo del mismo.
+La Dirección General de Contraloría hará al Ministerio Público, en su caso, declaratoria de que el funcionario sujeto a la investigación respectiva, en los términos de la presente Ley, no justificó la procedencia lícita del incremento substancial de su patrimonio de los bienes adquiridos o de aquéllos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivo del mismo.
 
 TRANSITORIOS:
 
@@ -744,3 +808,15 @@ DADA en el Salón de Sesiones de la Honorable Legislatura del Estado, en la ciud
 Por tanto mando se imprima, promulgue, circule y se le dé el debido cumplimiento.
 
 Xalapa-Enríquez, Ver., a 7 de febrero de 1984.- Lic. AGUSTIN ACOSTA LAGUNES.- Rúbrica.- El Secretario de Gobierno, Lic. IGNACIO MORALES LECHUGA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 24 DE AGOSTO DE 1985.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor tres días después de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La Subsecretaría de Gobierno del Estado dispondrá de un período de noventa días a partir de la vigencia de esta Ley, para entregar a la Dirección General de Contraloría del Gobierno del Estado la documentación y demás bienes que aquella tenga, con motivo de la aplicación de la Ley número treinta y seis de Responsabilidades de los Servidores Públicos para el Estado.
