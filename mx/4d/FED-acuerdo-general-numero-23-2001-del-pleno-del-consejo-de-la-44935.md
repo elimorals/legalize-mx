@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2002-10-30"
+last_updated: "2002-12-12"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE DICIEMBRE DE 2002.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -121,9 +121,9 @@ I.- PRIMER CIRCUITO:
 
 2.- Seis tribunales unitarios especializados: cuatro en materia penal y dos en materias civil y administrativa, todos con residencia en el Distrito Federal.
 
-> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 83/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL 62/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE DICIEMBRE DE 2002)</small>
 
-3.- Cuarenta y nueve juzgados de distrito en el Distrito Federal especializados: dieciocho en materia de procesos penales federales, seis de amparo en materia penal, diez en materia administrativa, doce en materia civil y tres en materia de trabajo, todos con sede en el Distrito Federal.
+3.- Cincuenta juzgados de distrito en el Distrito Federal especializados: dieciocho en materia de procesos penales federales, seis de amparo en materia penal, once en materia administrativa, doce en materia civil y tres en materia de trabajo, todos con sede en el Distrito Federal.
 
 II.- SEGUNDO CIRCUITO:
 
@@ -195,7 +195,9 @@ VII.- SEPTIMO CIRCUITO:
 
 VIII.- OCTAVO CIRCUITO:
 
-1.- Tres tribunales colegiados con residencia en Torreón.
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 61/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE DICIEMBRE DE 2002)</small>
+
+1.- Cuatro tribunales colegiados: tres con residencia en Torreón y uno con sede en Saltillo.
 
 2.- Dos tribunales unitarios con sede en Torreón.
 
@@ -235,7 +237,9 @@ XI.- DECIMOPRIMER CIRCUITO:
 
 XII.- DECIMOSEGUNDO CIRCUITO:
 
-1.- Cinco tribunales colegiados con residencia en Mazatlán.
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 61/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE DICIEMBRE DE 2002)</small>
+
+1.- Cuatro tribunales colegiados con residencia en Mazatlán.
 
 > <small>(REFORMADO POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
 
@@ -435,7 +439,11 @@ VI.- SEXTO CIRCUITO: Estado de Puebla.
 
 VII.- SEPTIMO CIRCUITO: Estado de Veracruz, con excepción de los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
 
-VIII.- OCTAVO CIRCUITO: Estado de Coahuila y los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
+> <small>(REFORMADA POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 61/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE DICIEMBRE DE 2002)</small>
+
+VIII.- OCTAVO CIRCUITO: Respecto de los tribunales colegiados con residencia en Torreón, su jurisdicción territorial será igual a la establecida para los juzgados de distrito en La Laguna, con sede en Torreón, Coahuila.
+
+En cuanto al tribunal colegiado con residencia en Saltillo, su jurisdicción territorial será la misma que la establecida para los juzgados de distrito en el Estado de Coahuila, con sedes en Saltillo, Piedras Negras y Monclova.
 
 IX.- NOVENO CIRCUITO: Estado de San Luis Potosí.
 
@@ -459,7 +467,7 @@ XVI.- DECIMOSEXTO CIRCUITO: Respecto de los tribunales colegiados con residencia
 
 En cuanto al tribunal colegiado con residencia en León, su jurisdicción territorial será el Estado de Guanajuato y tendrá conocimiento exclusivo para conocer de las quejas a que alude la fracción XI del artículo 95 de la Ley de Amparo, que se originen en los juzgados de distrito en el Estado de Guanajuato, con residencia en León.
 
-> <small>(REFORMADA POR EL PUNTO SEPTIMO ACUERDO GENERAL 77/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO POR EL PUNTO SEPTIMO ACUERDO GENERAL 77/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE NOVIEMBRE DE 2001)</small>
 
 XVII.- DECIMOSEPTIMO CIRCUITO: En relación con los tribunales unitarios con residencia en Chihuahua, será igual a la establecida para los juzgados de distrito en el Estado de Chihuahua, con residencia en dicha ciudad.
 
@@ -1004,3 +1012,21 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- Las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos del Consejo de la Judicatura Federal atenderán la situación laboral del personal adscrito al Juzgado Noveno de Distrito en el Estado de Sonora, con residencia en Nogales, que cambia de residencia a la ciudad de Agua Prieta.
+
+D.O.F. 12 DE DICIEMBRE DE 2002.
+
+ACUERDO 61/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NUMERO 1, APARTADOS VIII Y XII Y TERCERO APARTADO VIII.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se encomienda a las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos del Consejo de la Judicatura Federal, que atiendan la situación laboral del personal adscrito al Quinto Tribunal Colegiado del Decimosegundo Circuito.
+
+D.O.F. 12 DE DICIEMBRE DE 2002.
+
+ACUERDO 26/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NUMERO 3, APARTADO I.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
