@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-los-municipios-del-estado-de-baja-2949"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1995-10-31"
+last_updated: "1995-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE OCTUBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1985.
 
@@ -2119,11 +2119,11 @@ PARTICIPACIONES.
 
 El incumplimiento del Artículo 110, será acrredor (sic) a una sanción de 3 a 50 días salario mínimo.
 
-### CAPITULO SEGUNDO
+### CAPITULO PRIMERO
 
-DE LAS ACTIVIDADES COMERCIALES, INDUSTRIALES, MINERAS Y DE PRESTACION DE SERVICIOS.
+DISPOSICIONES GENERALES.
 
-> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 106-B.
 
@@ -2153,17 +2153,17 @@ La tasa de la contribución especial será el 1.3% sobre la base mencionada en e
 
 Los ingresos que se obtengan por la enajenación de los artículos integrantes de la canasta básica señalados por la Secretaría de Comercio y Fomento Industrial, estarán exentos al pago de la contribución especial.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 30 DE JUNIO DE 1991)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 112.
 
 Los giros que no estén inscritos en el padrón correspondiente o por los que no se hubiera obtenido licencia para su funcionamiento y operen infringiendo los términos de la licencia concedida, serán clausurados por las autoridades fiscales sin perjuicio de las sanciones correspondientes.
 
-### CAPITULO PRIMERO
+### CAPITULO SEGUNDO
 
-DISPOSICIONES GENERALES.
+DE LAS ACTIVIDADES COMERCIALES, INDUSTRIALES, MINERAS Y DE PRESTACION DE SERVICIOS.
 
-> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 1994)</small>
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 106-G.
 
@@ -2243,7 +2243,7 @@ Todas las liquidaciones de créditos fiscales se elevarán a múltiples de $ 1.0
 
 El Tesorero Municipal tendrá todas las facultades para requerir a los contribuyentes el cumplimiento de los créditos y obligaciones fiscales, aplicar el procedimiento económico coactivo e imponer sanciones y todas las atribuciones que para el Secretario de Finanzas del Gobierno del Estado establece el Código Fiscal para el Estado y Municipios de Baja California Sur y demás Leyes tributarias.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 20 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 124.
 
@@ -2291,13 +2291,55 @@ Para aplicar las reducciones a las contribuciones de referencia, dentro de los l
 
 Los recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito por infracciones a las disposiciones fiscales a cargo de pensionados o jubilados, se reducirán conforme a los porcentajes y respecto de las contribuciones que se indican en los artículos 125 y 126 de esta Ley, en la misma proporción con que se haya beneficiado al pensionado o jubilado.
 
+T R A N S I T O R I O S :
+
+## TITULO SEXTO
+
+DE LAS REDUCCIONES PARA PENSIONADOS Y JUBILADOS.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 129.
+
+Para el fomento de la inversión productiva y la generación de empleos en el Estado de Baja California Sur, los Ayuntamientos estarán facultados para otorgar en favor de los sujetos beneficiarios los siguientes estímulos fiscales:
+
+I.- Reducción en el pago del impuesto predial, establecido en el Capítulo Primero del Título Primero de esta Ley.
+
+II.- Reducción en el pago del impuesto sobre adquisición de inmuebles establecido en el Capítulo Segundo del Título Primero de la presente Ley, en relación a los inmuebles que se destienen (sic) con exclusividad a los fines de la actividad económica del sujeto beneficiario.
+
+III.- Devolución del monto que resulte por el pago de derechos por inscripción en el Registro Público de la Propiedad y de Comercio de las escrituras constitutivas de personas morales, a que refiere el artículo 39 fracción III de la presente Ley.
+
+IV.- Condonación del pago de derechos por inscripción en el Registro Público de la Propiedad y del Comercio de los siguientes documentos:
+
+a).- Actas de asamblea mediante las cuales se acuerde el incremento al capital social de sociedades, a que refieren los artículos 39 fracción III y 41 fracción III de la presente Ley.
+
+b).- Contratos de crédito a que refieren los artículos 39 fracción VII y 41 fracción XVI de la presente Ley; y
+
+c).- Estatutos de personas morales extranjeras, de conformidad con lo dispuesto en la Ley General de Sociedades Mercantiles y en la Ley de Inversión Extranjera.
+
+V.- Reducción en el pago de derechos por expedición de licencias de construcción a que refiere el Capítulo Tercero del Título Segundo de la presente Ley y en el pago de derechos por conexión a las redes de agua potable y alcantarillado a que refieren los artículos 49 y 50 de la presente Ley y demás disposiciones legales aplicables; y
+
+VI.- El acreditamiento del monto total de la adquisición de predios donde el sujeto beneficiario vaya a realizar sus actividades económicas contra el pago de derechos de cooperación que le correspondiera cubrir en la ejecución de obras públicas que realice el Municipio en esos predios, establecidos en el Capítulo Quinto del Título Segundo de la presente Ley.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 130.
+
+Para efectos de lo dispuesto en este Capítulo, se considerarán sujetos beneficiarios para recibir estímulos fiscales, todas aquellas personas físicas o morales o unidades económicas que hayan obtenido resolución favorable a la solicitud de otorgamiento de éstos, conforme al procedimiento establecido en la Ley de Fomento Económico del Estado de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 131.
+
+Las Tesorerías Municipales expedirán los Certificados de Promoción Fiscal donde se especificarán los estímulos fiscales de que gozarán los sujetos beneficiarios, de conformidad a la resolución que emita la Comisión Dictaminadora a que refiere la Ley de Fomento Económico del Estado.
+
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
 
 ## TITULO QUINTO BIS
 
 CONTRIBUCIONES ESPECIALES.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 1991)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 30 DE JUNIO DE 1991)</small>
 
 ### CAPITULO TERCERO
 
@@ -2311,11 +2353,11 @@ Se establece en el Municipio de Los Cabos la contribución especial para la obte
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 1991)</small>
 
-## TITULO SEXTO
+## TITULO SEPTIMO
 
-DE LAS REDUCCIONES PARA PENSIONADOS Y JUBILADOS.
+DE LOS ESTIMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSION PRODUCTIVA Y LA GENERACION DE EMPLEOS.
 
-T R A N S I T O R I O S :
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO UNICO
 
@@ -2480,3 +2522,9 @@ B.O. 31 DE OCTUBRE DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE DICIEMBRE DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y seis, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
