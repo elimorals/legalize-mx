@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "1998-08-08"
+last_updated: "1999-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE AGOSTO DE 1998.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 1999.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -1189,15 +1187,15 @@ Los Magistrados y Jueces no podrán en ningún caso aceptar y desempeñar empleo
 
 ###### Artículo 95.
 
-El Tribunal Superior de Justicia se compondrá de diez Magistrados numerarios y dos supernumerarios que serán designados cada seis años, durarán en el ejercicio de su cargo el mismo periodo del Gobernador que los nombró, pudiendo ser ratificados. Funcionará en Pleno o en Salas, excepto al dictar acuerdos de mero trámite.
-
-Los Magistrados supernumerarios formarán parte del Pleno solamente cuando suplan a los numerarios y tendrán, asimismo, el carácter de visitadores judiciales.
+El Tribunal Superior de Justicia se compondrá de 13 Magistrados que serán designados cada seis años, durarán en el ejercicio de su cargo el mismo periodo del Gobernador que los nombró, pudiendo ser ratificados. Funcionará en Pleno o en Salas, excepto al dictar acuerdos de mero trámite.
 
 ###### Artículo 96.
 
 Los nombramientos de los Magistrados del Tribunal Superior de Justicia serán hechos por el Gobernador y sometidos a la aprobación de la Legislatura del Estado, la que otorgará o denegará esta aprobación dentro del improrrogable término de diez días. Sin la aprobación de la Legislatura no podrán tomar posesión los Magistrados nombrados por el Gobernador; pero si la Legislatura no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos.
 
-En el caso de que la Legislatura no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento, que surtirá sus efectos desde luego como provisional y será sometido a la aprobación de la Legislatura en el siguiente periodo ordinario de sesiones. En este periodo, dentro de los primeros diez días, la Legislatura deberá aprobar o desechar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en funciones con carácter de numerario o supernumerario, según el caso. Si la Legislatura desecha el nombramiento, cesará desde luego en sus funciones el Magistrado provisional y el Gobernador someterá nuevo nombramiento a la aprobación de la Legislatura.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1999)</small>
+
+En el caso de que la Legislatura no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego como provisional y será sometido a la aprobación de la Legislatura en el siguiente periodo ordinario de sesiones. En este periodo, dentro de los primeros diez días, la Legislatura deberá aprobar o desechar el nombramiento, y si lo aprueba o nada resuelve el Magistrado nombrado provisionalmente continuará en funciones. Si la Legislatura desecha el nombramiento cesará desde luego en sus funciones el Magistrado Provisional y el Gobernador someterá nuevo nombramiento a la aprobación de la Legislatura.
 
 En los casos de faltas temporales de los Magistrados por más de tres meses, serán sustituidos mediante nombramientos que el Gobernador someterá a la aprobación de la Legislatura, observándose en su caso lo dispuesto en los párrafos anteriores.
 
@@ -1233,15 +1231,7 @@ La Presidencia del Tribunal Superior es el órgano de representación y administ
 
 ###### Artículo 99.
 
-Los Magistrados supernumerarios entrarán en funciones:
-
-I. Cuando los Magistrados numerarios tengan impedimento legal para seguir conociendo de los juicios;
-
-II. En las faltas temporales de los Magistrados numerarios;
-
-III. En las faltas absolutas de los Magistrados numerarios mientras el Gobernador procede a hacer nuevo nombramiento; y
-
-IV. En los demás casos que acuerde el pleno del Tribunal Superior.
+(DEROGADO, P.O. 26 DE MAYO DE 1999)
 
 ###### Artículo 100.
 
@@ -1259,15 +1249,21 @@ V. Nombrar a los demás trabajadores al servicio del Poder Judicial, así como a
 
 VI. Conceder licencias a Magistrados, Jueces y trabajadores de confianza del Poder Judicial, según lo establezca su Ley Orgánica y reglamentos, así como a los trabajadores de base conforme a la Ley del Servicio Civil;
 
-VII. Supervisar el estado de la Administración de Justicia en los Juzgados de primera instancia y municipales por conducto de los Magistrados supernumerarios visitadores;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1999)</small>
+
+VII. Supervisar el estado de la Administración de Justicia en los juzgados de primera instancia y municipales.
 
 VIII. Ejercer y administrar en forma autónoma el presupuesto de egresos que apruebe anualmente la Legislatura del Estado;
 
 IX. Formular y aplicar los exámenes de oposición a los aspirantes a Jueces de primera instancia;
 
-X. Emitir opinión acerca de la legalidad de una ley antes de que sea publicada, siempre que lo solicite el Gobernador del Estado, la cual en ningún caso se hará pública; y
+X. Emitir opinión acerca de la legalidad de una ley antes de que sea publicada, siempre que lo solicite el Gobernador del Estado, la cual en ningún caso se hará pública; y (sic)
 
-XI. Las demás facultades y obligaciones que les señalen esta Constitución y las leyes.
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 1999)</small>
+
+XI. Establecer la distritación judicial de conformidad con las reglas que contemple la ley;
+
+XII. Las demás facultades y obligaciones que les señalen esta Constitución y las leyes.
 
 ###### Artículo 101.
 
@@ -1286,6 +1282,8 @@ V. De la responsabilidad oficial de los Jueces en la forma que establezcan las l
 VI. De los demás asuntos que las leyes sometan a su jurisdicción.
 
 #### SECCIÓN SEGUNDA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1999)</small>
 
 ###### Artículo 102.
 
@@ -2078,3 +2076,19 @@ Lic. Arturo Romo Gutiérrez.
 La Secretaria General de Gobierno
 
 Lic. Judit M. Guerrero López.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE MAYO DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Dentro de los quince días hábiles siguientes al inicio de vigencia del presente Decreto, el Gobernador del Estado nombrará al Magistrado con que se incrementa el Tribunal Superior de Justicia. Tal nombramiento lo someterá a la aprobación de la Legislatura en los términos que establece la Constitución Política del Estado.
+
+###### ARTICULO TERCERO.
+
+A partir de la vigencia de este Decreto, quienes habían sido nombrados como Magistrados Supernumerarios, asumen el carácter de Magistrados en los términos del artículo 95 de la Constitución Política del Estado.
