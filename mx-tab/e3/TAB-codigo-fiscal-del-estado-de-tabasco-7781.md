@@ -4,7 +4,7 @@ identifier: "TAB-codigo-fiscal-del-estado-de-tabasco-7781"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-09-25"
-last_updated: "1993-09-25"
+last_updated: "1999-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO FISCAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el sábado 25 de septiembre de 1993.
 
@@ -67,7 +67,9 @@ I. Impuestos son las Contribuciones establecidas en la Ley que deben pagar las p
 
 II. Derechos son las contribuciones establecidas en la Ley por el uso de los bienes del dominio público del Estado, así como por recibir los servicios que éste presta en sus funciones de derecho público, excepto, cuando se presten por organismos descentralizados y órganos desconcentrados cuando, en este último caso se trate de contraprestaciones que no se encuentren previstas en la Ley de Hacienda del Estado. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
 
-Siempre que en este Código se haga referencia únicamente a contribuciones no se entenderán incluidos los accesorios.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
+Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el artículo 22 de este Código son accesorios de las contribuciones y participan de la naturaleza de éstas. Siempre que en este Código se hagan referencia únicamente a contribuciones no se entenderán incluidos los accesorios.
 
 ###### Artículo 3.
 
@@ -89,7 +91,9 @@ Participaciones son los ingresos que el Gobierno del Estado de Tabasco tiene der
 
 Son créditos fiscales los que tenga derecho a percibir el Gobierno del Estado o sus organismos descentralizados, que provengan de contribuciones, aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que tenga derecho a exigir de sus servidores públicos o de los particulares, así como, aquéllos a los que las leyes les den ese carácter.
 
-La recaudación proveniente de todos los ingresos del Estado, aún cuando se destinen a un fin específico, se hará por la Secretaría de Finanzas del Estado o por las oficinas que dicha Secretaría autorice.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
+La recaudación proveniente de todos los ingresos del Estado, aún cuando se destinen a un fin específico, se hará por la Secretaría de Planeación y Finanzas o por las oficinas que dicha Secretaría autorice.
 
 ###### Artículo 7.
 
@@ -105,7 +109,9 @@ IV. Ley de Catastro; y
 
 V. Los demás ordenamientos que contengan disposiciones de orden hacendario.
 
-La aplicación de las disposiciones a que se refiere este artículo le corresponderá al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y demás autoridades administrativas que establezcan las leyes.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
+La aplicación de las disposiciones a que se refiere este artículo le corresponderá al Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Finanzas y demás autoridades administrativas que establezcan las leyes.
 
 ###### Artículo 8.
 
@@ -113,23 +119,45 @@ Son autoridades fiscales del Estado:
 
 I. El Gobernador del Estado;
 
-II. El Secretario de Finanzas;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1999)</small>
 
-III. El Director de Ingresos;
+II. El Secretario de Planeación y Finanzas;
 
-IV. El Director de Auditoría y Fiscalización;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1999)</small>
 
-V. Los Subdirectores de la Dirección de Ingresos;
+III. El Director General de Ingresos;
 
-VI. Los Subdirectores de la Dirección de Auditoría y Fiscalización;
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 1999)</small>
 
-VII. Los Jefes de Departamento de la Dirección de Ingresos;
+IV. El Director de Recaudación;
 
-VIII. Los Jefes de Departamento de la Dirección de Auditoría y Fiscalización;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1999)</small>
 
-IX. Los Receptores de Rentas; y
+V. El Director de Auditoría y Fiscalización;
 
-X. Los demás que señalen las leyes.
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1999)</small>
+
+VI. Los Subdirectores de la Dirección de Recaudación;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1999)</small>
+
+VII. Los Subdirectores de la Dirección de Auditoría y Fiscalización;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1999)</small>
+
+VIII. Los Jefes de Departamento de la Dirección de Recaudación;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1999)</small>
+
+IX. Los Jefes de Departamento de la Dirección de Auditoría y Fiscalización;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1999)</small>
+
+X. Los Receptores de Rentas; y
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1999)</small>
+
+XI. Los demás que señalen las leyes.
 
 ###### Artículo 9.
 
@@ -151,7 +179,9 @@ II. En cualquier otro caso, dentro de los cinco días siguientes al momento de l
 
 En el caso de contribuciones que se deban pagar mediante retención, aún cuando quien deba efectuarla no retenga o no haga pago de la contraprestación relativa, el retenedor estará obligado a enterar una cantidad equivalente a la que debió haber retenido.
 
-Quien haga pago de créditos fiscales deberá obtener que la oficina recaudadora, el recibo oficial o la forma aprobada y controlada exclusivamente por la Secretaría de Finanzas del Gobierno del Estado, o la documentación que en las disposiciones respectivas se establezca, en la que conste la impresión original de la máquina registradora.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
+Quien haga pago de créditos fiscales deberá obtener de la oficina recaudadora el recibo oficial o la forma aprobada y controlada exclusivamente por la Secretaría de Planeación y Finanzas del Gobierno del Estado, o la documentación que en las disposiciones respectivas se establezca, en la que conste la impresión original de la máquina registradora.
 
 Cuando las disposiciones fiscales establezcan opciones a los contribuyentes, para el cumplimiento de sus obligaciones fiscales o para determinar contribuciones a su cargo, la que elija no podrá cambiarla en el mismo ejercicio.
 
@@ -277,7 +307,7 @@ Las contribuciones o sus accesorios se causarán y pagarán en moneda nacional.
 
 Se aceptarán como medios de pago, además de dinero en efectivo, cheques certificados, giros postales, telegráficos o bancarios.
 
-Los cheques personales no certificados únicamente se aceptarán cuando provengan de los notarios o funcionarios que conforme a las disposiciones fiscales se encuentren obligados a determinar y enterar contribuciones a cargo de terceros.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
 
 Los pagos que se hagan se aplicarán a los créditos más antiguos, siempre que se trate de la misma contribución y, antes del adeudo principal, a los accesorios, en el orden siguiente:
 
@@ -293,23 +323,33 @@ Cuando el contribuyente interponga algún medio de defensa legal impugnando algu
 
 Para determinar las contribuciones se considerarán inclusive las fracciones del peso.
 
-Cuando las leyes fiscales establezcan que las contribuciones se paguen mediante declaración, la Secretaría de Finanzas podrá ordenar, por medio de disposiciones de carácter general y con el objeto de facilitar el cumplimiento de la obligación, así como para allegarse de la información necesaria en materia de estadística de ingresos, que se proporcione en declaración distinta de aquella con la cual se efectúe el pago.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
+Cuando las leyes fiscales establezcan que las contribuciones se paguen mediante declaración, la Secretaría de Planeación y Finanzas podrá ordenar, por medio de disposiciones de carácter general y con el objeto de facilitar el cumplimiento de la obligación, así como para allegarse de la información necesaria en materia de estadística de ingresos, que se proporcione en declaración distinta de aquella con la cual se efectúe el pago.
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
 
 ###### Artículo 22.
 
-Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, deberán pagarse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno. La tasa de recargos para cada uno de los meses en mora será la que resulte de incrementar en cincuenta por ciento la que mediante ley fije anualmente el Congreso del Estado.
+Cuando no se cubran las contribuciones y los aprovechamientos, así como las devoluciones a cargo del fisco estatal, en la fecha o dentro del plazo fijado por las disposiciones fiscales, deberá pagarse actualización. La actualización se hará por el transcurso del tiempo y con motivo de los cambios de precios en el País, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior, al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo; además, se pagarán recargos por concepto de indemnización al Fisco Estatal por la falta de pago oportuno. Las contribuciones y los aprovechamientos, así como las devoluciones a cargo del fisco estatal, no se actualizarán por fracciones de mes.
 
-Los recargos se causarán hasta por cinco años y se calcularán sobre el total de crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el párrafo séptimo de este artículo, los gastos de ejecución y las multas por infracciones a disposiciones fiscales.
+En los casos en que el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo, no haya sido publicado por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
-En los casos de garantía de obligaciones fiscales a cargo de terceros, cuando no se pague dentro del plazo legal, los recargos se causarán por el monto de los requeridos y hasta el límite de lo garantizado.
+Los valores de bienes u operaciones se actualizarán de acuerdo con lo dispuesto por este artículo, cuando las leyes fiscales así lo establezcan. Las disposiciones señalarán en cada caso el periodo de que se trate.
 
-Cuando el pago hubiere sido menor al que corresponda, los recargos se computarán sobre la diferencia.
+Los índices mencionados son los que determine el Banco de México calculados en los términos del artículo 20 Bis del Código Fiscal de la Federación.
 
-Los recargos se causarán por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
+Las cantidades actualizadas conservarán la naturaleza jurídica que tenían antes de la actualización. Cuando la actualización se realice en pagos provisionales, su importe no será deducible ni acreditable.
 
-Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule y compruebe la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
+En el caso de los recargos, se calcularán aplicando al monto de las contribuciones o de los aprovechamientos actualizados por el periodo a que se refiere este artículo. La tasa de recargos para cada uno de los meses en mora será la que resulte de incrementar en cincuenta por ciento la que mediante ley fije anualmente el Congreso del Estado.
 
-El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y una indemnización, que será siempre de veinte por ciento del valor de aquél, y se exigirá independientemente de los demás conceptos a que se refiere este artículo. La indemnización mencionada, el monto del cheque y, en su caso, los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
+Los recargos se causarán hasta por cinco años y se calcularán sobre el total de crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el párrafo décimo de este artículo, los gastos de ejecución y las multas por infracciones a disposiciones fiscales.
+
+En los casos de garantía de obligaciones fiscales a cargo de terceros, cuando no se pague dentro del plazo legal, los recargos se causarán por el monto de los requeridos y hasta el límite de lo garantizado. Cuando el pago hubiere sido menor al que corresponda, los recargos se computarán sobre la diferencia.
+
+Los recargos se causarán por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe. Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule y compruebe la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
+
+El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar el cobro del monto del cheque y una indemnización, que será siempre de veinte por ciento del valor de aquél, y se exigirá independientemente de los demás conceptos a que se refiere este artículo. La indemnización mencionada, el monto del cheque y, en su caso, los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
 
 Si se obtiene autorización para pagar a plazos, ya sea en forma diferida o en parcialidades, se causarán, además, los recargos que establece el artículo 52 de este Código, por la parte diferida.
 
@@ -333,13 +373,17 @@ La obligación de devolver prescribe en los mismos términos y condiciones que e
 
 Los créditos y deudas entre los Gobiernos Federal, Estatal y Municipal, así como de sus organismos descentralizados o empresas de participación estatal, podrán compensarlos previo acuerdo que celebren.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
+
 ###### Artículo 25.
 
-Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas del 1% sobre nóminas o 3% sobre honorarios por actividades profesionales y ejercicios lucrativos, no gravados por la Ley del Impuesto al Valor Agregado, o que estén obligados a expedir comprobantes por las actividades que realicen, deberán solicitar su inscripción y presentar los avisos, en su caso, en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas y proporcionar la información relacionada con su identidad, domicilio y en general sobre su situación fiscal, en los formatos autorizados que para tal efecto apruebe la Secretaría.
+Las personas jurídicas colectivas, así como las personas físicas que deban presentar declaraciones periódicas del 1% sobre nóminas, 3% sobre honorarios por actividades profesionales y ejercicios lucrativos, no gravados por la Ley de Impuesto al Valor Agregado y del 2% sobre la prestación de servicio de hospedaje o que estén obligados a expedir comprobación por las actividades que realicen, deberán solicitar su inscripción y presentar los avisos, en su caso, en el Registro Estatal de Contribuyentes de la Secretaría de Planeación y Finanzas, y proporcionar la información relacionada con su identidad, domicilio y en general sobre su situación fiscal, en los formatos autorizados que para tal efecto apruebe la Secretaría.
 
 La misma obligación señalada en el párrafo anterior se establece para las sucursales o agencias, cuyas matrices no se encuentren domiciliadas dentro del territorio del Estado.
 
-La Secretaría de Finanzas llevará el Registro Estatal de Contribuyentes, basándose en los datos que las personas le proporcionen de conformidad con este artículo y en los que la propia Secretaría obtenga por cualquier otro medio, asimismo asignará la clave que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales. Las personas inscritas deberán conservar en su domicilio la documentación comprobatoria de haber cumplido con las obligaciones que establece este artículo.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
+La Secretaría de Planeación y Finanzas llevará el Registro Estatal de Contribuyentes, basándose en los datos que las personas le proporcionen de conformidad con este artículo y en los que la propia Secretaría obtenga por cualquier otro medio, asimismo asignará la clave que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales. Las personas inscritas deberán conservar en su domicilio la documentación comprobatoria de haber cumplido con las obligaciones que establece este artículo.
 
 La solicitud o los avisos a que se refiere el primer párrafo de este artículo, que se presenten en forma extemporánea, surtirán sus efectos a partir de la fecha en que sean presentados.
 
@@ -405,11 +449,15 @@ El aviso para los efectos de la fracción III de este artículo, se presentará 
 
 Cuando las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registro (sic) contables a que se refiere la fracción I de este Artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO P.O. 3 DE FEBRERO DE 1999)</small>
+
 ###### Artículo 29.
 
-Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de Registro Estatal de Contribuyentes, declaraciones o avisos ante las autoridades fiscales, lo harán en las formas que al respecto expidan (sic) la Secretaría de Finanzas, debiendo proporcionar el número de ejemplares, los datos, informes y adjuntar los documentos que dichas formas requieran.
+Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de Registro Estatal de Contribuyentes, declaraciones o avisos ante las autoridades fiscales, lo harán en las formas que al respecto expida la Secretaría de Planeación y Finanzas, debiendo proporcionar el número de ejemplares, los datos, informes y adjuntar los documentos que dichas formas requieran.
 
-En los casos que las formas para la presentación de las declaraciones o avisos que prevengan las disposiciones fiscales, no hubieren sido aprobadas por la Secretaría de Finanzas, los obligados a presentarlas la formularán en escrito por triplicado que contengan su nombre, denominación o razón social, domicilio y clave del Registro Estatal de Contribuyentes, ejercicio y los datos relativos a la obligación que pretendan cumplir; en caso de que se trate de la obligación de pago, deberá señalarse además el monto del mismo.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
+En los casos que las formas para la presentación de las declaraciones o avisos que prevengan las disposiciones fiscales, no hubieren sido aprobadas por la Secretaría de Planeación y Finanzas, los obligados a presentarlas las formularán en escrito por triplicado que contengan su nombre, denominación o razón social, domicilio y clave y Registro Estatal de Contribuyentes, ejercicio y los datos relativos a la obligación que pretendan cumplir; en caso de que se trate de la obligación de pago, deberá señalarse además el monto del mismo.
 
 Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, continuarán haciéndolo en tanto no presenten los avisos que correspondan para efecto del Registro Estatal de Contribuyentes. Tratándose de declaraciones de pago, los contribuyentes deberán presentar dichas declaraciones siempre que haya cantidad a pagar, así como la primera declaración. Cuando se presente una declaración sin impuesto a cargo, se presumirá que no existe impuesto a pagar en las declaraciones posteriores que no sean presentadas.
 
@@ -477,9 +525,11 @@ III. Conceder subsidios o estímulos fiscales.
 
 Las resoluciones que conforme a este artículo dicte el Ejecutivo Estatal, deberán señalar las contribuciones a que se refieren, salvo, que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
+
 ###### Artículo 35.
 
-Cuando los contribuyentes, los responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales, éstas podrán indistintamente:
+Cuando los contribuyentes, los responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales o cuando éstas tengan que hacer valer sus resoluciones, podrán indistintamente:
 
 I. Solicitar el auxilio de la fuerza pública;
 
@@ -487,9 +537,11 @@ II. Imponer la multa que corresponda en los términos de este Código; y
 
 III. Solicitar a la autoridad competente se proceda por desobediencia a un mandato legítimo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
+
 ###### Artículo 36.
 
-Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos, no lo hagan dentro de los plazos señalados en las disposiciones fiscales, la Secretaría de Finanzas exigirá la presentación del documento respectivo, procediendo en forma simultánea o sucesiva a realizar uno o varios de los actos siguientes:
+Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos, no lo hagan dentro de los plazos señalados en las disposiciones fiscales, la Secretaría de Planeación y Finanzas exigirá la presentación del documento respectivo, procediendo en forma simultánea o sucesiva a realizar uno o varios de los actos siguientes:
 
 I. Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones, podrán hacer efectiva al contribuyente o responsable solidario que haya incurrido en la omisión, una cantidad igual a la contribución que hubiera determinado en la última o cualquiera de las seis últimas declaraciones de que se trate, o a la que resulte para dichos períodos de la determinación formulada por la autoridad, según corresponda cuando haya omitido presentar oportunamente alguna declaración subsecuente para el pago de contribuciones propias o retenidas. Esta cantidad a pagar tendrá el carácter de pago provisional y no libera a los obligados de presentar la declaración omitida.
 
@@ -503,9 +555,11 @@ III. Imponer la multa que corresponda en los términos de este Código y requeri
 
 En el caso de la fracción III y agotados los actos señalados en la misma, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
+
 ###### Artículo 37.
 
-La Secretaría de Finanzas, a fin de comprobar que los contribuyentes o responsables solidarios han cumplido con las disposiciones fiscales o, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales, estará facultada para:
+La Secretaría de Planeación y Finanzas a fin de comprobar que los contribuyentes o responsables solidarios han cumplido con las disposiciones fiscales o, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales, estará facultada para:
 
 I. Rectificar los errores aritméticos que aparezcan en las declaraciones;
 
@@ -679,9 +733,11 @@ III. Se adviertan otras irregularidades en su contabilidad que imposibiliten el 
 
 La determinación presuntiva a que se refiere este artículo, procederá independientemente de las sanciones a que haya lugar; las autoridades fiscales utilizarán los datos de la contabilidad del contribuyente, los contenidos en las declaraciones de pagos, información que proporcionen terceros a solicitud de las autoridades fiscales, la obtenida por las autoridades fiscales en el ejercicio de sus facultades de comprobación y utilizando medios indirectos de la investigación económica o de cualquier otra clase. Las presunciones establecidas en este Código, siempre admitirán prueba con contrario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
+
 ###### Artículo 49.
 
-Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código o en las leyes fiscales, o bien que consten en los expedientes o documentos que lleven o tengan en su poder las autoridades fiscales, así como aquellos proporcionados por otras autoridades fiscales, podrán servir para motivar las resoluciones de la Secretaría de Finanzas y de cualquier otra autoridad u organismo descentralizado competente en materia de contribuciones estatales.
+Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código o en las leyes fiscales, o bien que consten en los expedientes o documentos que lleven o tengan en su poder las autoridades fiscales, podrán servir para motivar las resoluciones de la Secretaría de Planeación y Finanzas y de cualquier otra autoridad u organismo descentralizado competente en materia de contribuciones estatales.
 
 Las copias o reproducciones que deriven del microfilm o disco óptico de documento que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias o reproducciones sean certificadas por funcionarios competente (sic) para ello, sin necesidad de cotejo con los originales.
 
@@ -689,7 +745,9 @@ Las copias o reproducciones que deriven del microfilm o disco óptico de documen
 
 Las autoridades fiscales, con motivo del ejercicio de sus facultades de comprobación, respecto de contribuciones que se pagan mediante declaración periódica formulada por los contribuyentes, para determinar contribuciones omitidas procederán como sigue:
 
-I. Determinarán, en primer lugar, las contribuciones omitidas en el último ejercicio de doce meses, por el que se hubiere presentado o debió haber sido presentada la declaración mensual del uno por ciento sobre nóminas o la bimestral sobre honorarios por ejercicios lucrativos no gravados por el Impuesto al Valor Agregado, a más tardar el día anterior a aquel en que se ejerzan las facultades de comprobación, así como las contribuciones correspondientes al período transcurrido entre la fecha de terminación de dicho ejercicio y el momento en que se ejerzan las citadas facultades.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
+
+I. Determinarán, en primer lugar, las contribuciones omitidas en el último ejercicio de doce meses, por el que se hubiere presentado o debió haber sido presentada la declaración mensual del uno por ciento sobre nómina y del dos por ciento de la prestación de servicios y hospedaje o la bimestral sobre honorarios por ejercicios lucrativos no gravados por el Impuesto al Valor Agregado, a más tardar el día anterior a aquel en que se ejerzan las facultades de comprobación, así como las contribuciones correspondientes al periodo transcurrido entre la fecha de terminación de dicho ejercicio y el momento en que se ejerzan las citadas facultades.
 
 Si se tratare de contribuyentes cuyos estados financieros hubieren sido dictaminados por Contador Público autorizado, se considerará como último ejercicio, aquel de doce meses por el que se haya presentado el último dictamen, salvo, que hubieren transcurrido, cuando menos doce meses desde que presentó dicho dictamen sin haber presentado otro. En estos casos la determinación también podrá abarcar los meses posteriores a la presentación del último dictamen. Lo dispuesto en este párrafo se aplicará también a un ejercicio irregular, siempre que el ejercicio regular inmediato anterior también esté determinado;
 
@@ -775,9 +833,15 @@ El personal oficial que intervenga en los diversos trámites relativos a la apli
 
 ### Capítulo II. Delitos Fiscales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
+
 ###### Artículo 57.
 
 La aplicación de las multas por infracciones a las disposiciones fiscales, se hará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
+Cuando las multas no se paguen en le (sic) fecha establecida en las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en los términos del artículo 22 de este Código.
 
 ###### Artículo 58.
 
@@ -813,15 +877,21 @@ I. La omisión sea descubierta por las autoridades fiscales;
 
 II. La omisión haya sido corregida por el contribuyente, después de que las autoridades fiscales hubieren notificado una orden de visita domiciliaria, o haya mediado requerimiento o cualquier otra gestión notificada por las mismas, tendentes a la comprobación del cumplimiento de las disposiciones fiscales; y
 
-III. La omisión haya sido corregida por el contribuyente con posterioridad a los tres días siguientes a la presentación del dictamen de los estados financieros de dicho contribuyente, formulado por un Contador Público ante la Secretaría de Finanzas, respecto de aquellas contribuciones omitidas que hubieren sido observadas en el dictamen.
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1999)</small>
+
+III. La omisión haya sido corregida por el contribuyente con posterioridad a los tres días siguientes a la presentación del dictamen de los estados financieros de dicho contribuyente, formulado por un Contador Público ante la Secretaría de Planeación y Finanzas, respecto de aquellas contribuciones omitidas que hubieren sido observadas en el dictamen.
 
 Siempre que se omita el pago de una contribución, cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán a cargo exclusivamente de éstos y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
+
 ###### Artículo 61.
 
-La Secretaría de Finanzas podrá condonar las multas por infracciones a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
+La Secretaría de Planeación y Finanzas podrá condonar las multas por infracciones a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
 
-La solicitud de condonación de multas, en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas al respecto; no podrán ser impugnadas por los medios de defensa que establece este Código.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
+La solicitud de condonación de multas, en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría de Planeación y Finanzas al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
 
 La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
 
@@ -845,7 +915,9 @@ b) Se lleven dos o más sistemas de contabilidad con distinto contenido;
 
 c) Se destruya o permita la destrucción total o parcial de la contabilidad;
 
-d) Que se microfilme o graven en discos ópticos o en cualquier otro medio que autorice la Secretaría de Finanzas, documentación o información para efectos fiscales sin cumplir con los requisitos que establecen las disposiciones relativas. El agravante procederá sin perjuicio de que los documentos microfilmados o gravados, carezcan de valor probatorio;
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
+d) Que se microfilme o graben en disco ópticos o en cualquier otro medio que autorice la Secretaría de Planeación y Finanzas, documentación o información para efectos fiscales sin cumplir con los requisitos que establecen las disposiciones relativas. El agravante procederá sin perjuicio de que los documentos microfilmados o grabados, carezcan de valor probatorio;
 
 e) La comisión en el entero de contribuciones que se hayan retenido; y
 
@@ -865,7 +937,9 @@ II. Del 50 al 100% de las contribuciones omitidas, en los demás casos.
 
 Si las autoridades fiscales determinan contribuciones omitidas, mayores que las consideradas por el contribuyente para calcular la multa en los términos de la fracción I de este artículo, aplicarán el porciento señalado en la fracción II sobre el remanente no pagado de las contribuciones.
 
-El pago de las multas en los términos de la fracción I de este artículo se podrá efectuar en forma total o parcial por el infractor, sin necesidad que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que aprueba la Secretaría de Finanzas.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
+El pago de las multas en los términos de la fracción I de este artículo se podrá efectuar en forma total o parcial por el infractor, sin necesidad que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que apruebe las (sic) Secretaría de Planeación y Finanzas.
 
 También se aplicarán las multas a que se refiere este precepto, cuando las infracciones consistan en devoluciones indebidas o en cantidad mayor de la que corresponda. En estos casos las multas se calcularán sobre el monto del beneficio indebido.
 
@@ -917,7 +991,9 @@ III. Para las señaladas en la fracción III:
 
 a) Tratándose de declaraciones, la mayor que resulte entre cinco días de salario mínimo o el 1% de las contribuciones declaradas; en ningún caso la multa prevista en este inciso será mayor de cincuenta días de salario mínimo;
 
-b) De quince días de salario mínimo tratándose de recursos ante la Secretaría de Finanzas; y
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
+b) De quince días de salario mínimo tratándose de recursos ante la Secretaría de Planeación y Finanzas; y
 
 c) De cinco días de salario mínimo en los demás casos.
 
@@ -1023,21 +1099,29 @@ Las infracciones no previstas en este Código, pero que se encuentren en otras l
 
 ###### Artículo 77.
 
-Para proceder penalmente por los delitos fiscales previstos en este capítulo, será necesario que, ante el Ministerio Público la Secretaría de Finanzas:
+Para proceder penalmente por los delitos fiscales previstos en este Capítulo, será necesario que, ante el Ministerio Público la Secretaría de Planeación y Finanzas:
 
 I. Formule querella, tratándose de los previstos en los artículos 88, 89, 90, 91, 92, 94, 95 y 96; y
 
 II. Presente denuncia, en los demás casos no previstos en la fracción anterior.
 
-En ambos casos la Secretaría de Finanzas o quien la represente, deberá declarar que el Fisco estatal sufrió o pudo sufrir perjuicio directamente por los actos o abstenciones imputados.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
 
-Los procesos de los delitos fiscales a que se refiere la fracción I de este artículo se sobreseerán a petición de la Secretaría de Finanzas, cuando los procesados paguen las contribuciones originadas por los hechos imputados y los recargos respectivos, o bien, estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
+En ambos casos la Secretaría de Planeación y Finanzas o quien la represente, deberá declarar que el fisco estatal sufrió o pudo sufrir perjuicio directamente por los actos o abstenciones imputados.
 
-En los delitos fiscales en que sea necesaria querella y el daño o el perjuicio sea cuantificable, la Secretaría de Finanzas hará la cuantificación correspondiente en la propia querella.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
+Los procesos de los delitos fiscales a que se refiere la fracción I de este artículo se sobreseerán a petición de la Secretaría de Planeación y Finanzas, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las actualizaciones y los recargos respectivos, o bien, estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
+En los delitos fiscales en que sea necesario querella y el daño o el perjuicio sea cuantificable, la Secretaría de Planeación y Finanzas hará la cuantificación correspondiente en la propia querella.
 
 Cuando el término medio aritmético de la pena privativa de libertad que corresponda al delito imputado exceda de cinco años, para conceder la libertad provisional, el monto de la caución que fije la autoridad judicial comprenderá la suma de la cuantificación antes mencionada, las contribuciones adeudadas y los recargos, determinados por la autoridad fiscal a la fecha en que se promueva la libertad provisional. La caución que se otorgue en los términos de este párrafo no sustituye a la garantía del interés fiscal.
 
-En caso de que el procesado hubiere pagado o garantizado el interés fiscal, a entera satisfacción de la Secretaría de Finanzas, la autoridad judicial, a solicitud del procesado, podrá reducir hasta en un veinte por ciento el monto de la caución.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
+En caso de que el procesado hubiere pagado o garantizado el interés fiscal, a entera satisfacción de la Secretaría de Planeación y Finanzas, la autoridad judicial, a solicitud del procesado, podrá reducir hasta en un veinte por ciento el monto de la caución.
 
 Para los efectos de este Código, se entiende por salario, el salario mínimo general diario de la zona económica correspondiente al Estado de Tabasco, vigente en el momento de la comisión del delito o de la infracción. Se consideran mercancías: los productos, artículos y cualquier otro bien, aún cuando las leyes los consideren inalienables o irreductibles a propiedad particular.
 
@@ -1081,13 +1165,17 @@ En el caso de delito continuado, la pena podrá aumentarse hasta por una mitad m
 
 Para los efectos de este Código, el delito es continuado cuando se ejecuta con pluralidad de conductas o hechos y con unidad de intención delictuosa.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
 ###### Artículo 84.
 
-La acción penal de los delitos fiscales perseguibles por querella prescribirá en tres años, contados a partir del día en que la Secretaría de Finanzas tenga conocimiento del delito y del delincuente; y si no tiene conocimiento, en cinco años, que se computarán a partir de la fecha de la comisión del delito. En los demás casos, se estará a las Reglas del Código Penal.
+La acción penal de los delitos fiscales perseguibles por querella prescribirá en tres años, contados a partir del día en que la Secretaría de Planeación y Finanzas tenga conocimiento del delito y del delincuente; y si no tiene conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito. En los demás casos, se estará a las reglas del Código Penal.
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
 
 ###### Artículo 85.
 
-Para que proceda la condena condicional, la sustitución o conmutación de sanciones o cualquier otro beneficio a los sentenciados por los delitos fiscales, además de los requisitos señalados en el Código Penal, será necesario comprobar que los adeudos fiscales estén cubiertos o garantizados a satisfacción de la Secretaría de Finanzas.
+Para que proceda la condena condicional, la sustitución o conmutación de sanciones o cualquier otro beneficio a los sentenciados por los delitos fiscales, además de los requisitos señalados en el Código Penal, será necesario comprobar que los adeudos fiscales estén cubiertos o garantizados a satisfacción de la Secretaría de Planeación y Finanzas.
 
 ###### Artículo 86.
 
@@ -1215,7 +1303,9 @@ Se tendrá como fecha de notificación la de la última publicación en cualquie
 
 Los contribuyentes podrán garantizar el interés fiscal en alguna de las formas siguientes:
 
-I. Depósito de dinero en las oficinas recaudadoras de la Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1999)</small>
+
+I. Depósito de dinero en las oficinas recaudadoras de la Secretaría de Planeación y Finanzas;
 
 II. Prenda o hipoteca;
 
@@ -1227,15 +1317,21 @@ V. Embargo en la vía administrativa.
 
 La garantía deberá comprender, las contribuciones adeudadas, los accesorios causados, así como los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá ampliarse la garantía para que cubra el crédito y el importe de los recargos.
 
-En este Código se establecerán los requisitos que deberán reunir las garantías, la Secretaría de Finanzas vigilará que sean suficientes, tanto en el momento de su aceptación como con posterioridad y, si no lo fueren exigirá su ampliación o procederá al secuestro de otros bienes. En ningún caso las autoridades fiscales podrán dispensar el otorgamiento de la garantía.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
+En este Código se establecerán los requisitos que deberán reunir las garantías, la Secretaría de Planeación y Finanzas vigilará que sean suficientes, tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación o procederá al secuestro de otros bienes. En ningún caso las autoridades fiscales podrán dispensar el otorgamiento de la garantía.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
 
 ###### Artículo 102.
 
-La garantía del interés fiscal se otorgará a favor de la Secretaría de Finanzas o del organismo descentralizado que sea competente para cobrar coactivamente créditos fiscales.
+La garantía del interés fiscal se otorgará a favor de la Secretaría de Planeación y Finanzas o del organismo descentralizado que sea competente para cobrar coactivamente créditos fiscales.
 
 Las garantías subsistirán hasta que proceda su cancelación en los términos que establezca este Código y los gastos que se originen será por cuenta del interesado.
 
-En los casos en que conforme a las leyes, los particulares estén obligados a otorgar garantía al Gobierno Estatal, se hará a favor de la Secretaría de Finanzas y se aplicará en lo conducente lo dispuesto por este artículo.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
+En los casos en que conforme a las leyes, los particulares estén obligados a otorgar garantía al Gobierno Estatal, se hará a favor de la Secretaría de Planeación y Finanzas y se aplicará en lo conducente lo dispuesto por este artículo.
 
 ###### Artículo 103.
 
@@ -1251,9 +1347,11 @@ IV. En los demás casos que señalen este ordenamiento y otras leyes fiscales.
 
 No se otorgará garantía respecto de gastos de ejecución, salvo que el interés fiscal esté constituido únicamente por éstos.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
 ###### Artículo 104.
 
-Para los efectos de la fracción I del artículo 101 de este Código, el depósito de dinero generará intereses, calculados conforme a las tasas que para este caso señale la Secretaría de Finanzas, debiendo permanecer la cantidad original en depósito mientras subsista la obligación de garantizar, pudiendo retirar el depositante los intereses que se generen.
+Para los efectos de la fracción I del artículo 101 de este Código, el depósito de dinero generará intereses, calculados conforme a las tasas que para este caso señale la Secretaría de Planeación y Finanzas, debiendo permanecer la cantidad original en depósito mientras subsista la obligación de garantizar, pudiendo retirar el depositante los intereses que se generen.
 
 ###### Artículo 105.
 
@@ -1313,7 +1411,9 @@ La garantía deberá ampliarse dentro del mes siguiente a aquel en que concluya 
 
 Las garantías constituidas para asegurar el interés fiscal, a que se refieren las fracciones II, IV y V del artículo 101 de este Código, se harán efectivas a través del Procedimiento Administrativo de Ejecución.
 
-Si la garantía consiste en depósito de dinero en las oficinas recaudadoras de la Secretaría de Finanzas, una vez que el crédito fiscal quede firme se ordenará su aplicación por la misma Secretaría.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
+Si la garantía consiste en depósito de dinero en las oficinas recaudadoras de la Secretaría de Planeación y Finanzas, una vez que el crédito fiscal quede firme se ordenará su aplicación por la misma Secretaría.
 
 Tratándose de fianzas a favor del Estado, otorgada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible se aplicará al Procedimiento Administrativo de Ejecución de conformidad con la Ley Federal de Instituciones de Fianzas.
 
@@ -1447,7 +1547,9 @@ III. Bienes muebles no comprendidos en las fracciones anteriores; y
 
 IV. Bienes inmuebles.
 
-La persona con quien se entienda la diligencia de embargo podrá designar dos testigos, y si no lo hiciere o al terminar la diligencia los testigos designados se negaren a firmar, así lo hará constar el ejecutor en la acta, sin que tales circunstancias afecten la legalidad del embargo.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
+La persona con quien se entienda la diligencia de embargo podrá designar dos testigos; si éstos no son designados o los designados no aceptan servir como tales, el notificador ejecutor los designará, haciendo constar esta situación en el acta que se levante, sin que estas circunstancias afecten la legalidad del embargo.
 
 ###### Artículo 125.
 
@@ -1815,9 +1917,11 @@ I. Determinen contribuciones o accesorios; y
 
 II. Nieguen la devolución de cantidades que procedan conforme a la ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
+
 ###### Artículo 173.
 
-El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente el recurso de revisión ante el Secretario de Finanzas. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro, a excepción de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos.
+El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente el recurso de revisión ante la Secretaría de Planeación y Finanzas. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro, a excepción de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos.
 
 El recurso de revocación deberá interponerse ante la autoridad que emitió o ejecutó el acto impugnado, dentro de los cuarenta y cinco días siguientes a aquel en que surta efectos su notificación. La resolución de este recurso deberá dictarse dentro de los cuarenta y cinco días siguientes al de la fecha de su interposición.
 
@@ -1851,35 +1955,47 @@ El tercero que afirme ser propietario de los bienes, negociaciones o titular de 
 
 #### Sección Cuarta. Recurso de Revisión
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
 ###### Artículo 178.
 
-El recurso de revisión se interpondrá ante el Secretario de Finanzas, contra las resoluciones dictadas en los recursos de revocación o de oposición al procedimiento administrativo de ejecución.
+El recurso de revisión se interpondrá ante la Secretaría de Planeación y Finanzas, contra las resoluciones dictadas en los recursos de revocación o de oposición al procedimiento administrativo de ejecución.
 
 ###### Artículo 179.
 
 Este recurso deberá hacer valer dentro del término de quince días siguientes a la fecha en que se produzca o se tenga conocimiento de la violación que se impugne.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
 ###### Artículo 180.
 
-El Secretario de Finanzas ordenará la suspensión del acto o resolución reclamados, siempre que esté garantizado el interés fiscal.
+El Secretario de Planeación y Finanzas ordenará la suspensión del acto o resolución reclamados, siempre que esté garantizado el interés fiscal.
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
 
 ###### Artículo 181.
 
-El interesado podrá interponer este recurso por conducto del Receptor de Rentas o de los Titulares de las Unidades Administrativas, quienes lo admitirán y enviarán el expediente al Secretario de Finanzas, siempre que el escrito en que se haga valer se haya presentado dentro del término legal, en caso contrario, se considerará improcedente por extemporáneo.
+El interesado podrá interponer este recurso por conducto del Receptor de Rentas o de los titulares de las Unidades Administrativas, quienes lo admitirán y enviarán el expediente al Secretario de Planeación y Finanzas, siempre que el escrito en que se haga valer se haya presentado dentro del término legal, en caso contrario, se considerará improcedente por extemporáneo.
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
 
 ###### Artículo 182.
 
-El Secretario de Finanzas deberá dictar resolución, en relación con el recurso interpuesto, dentro de los quince días siguientes al de la fecha de su presentación.
+El Secretario de Planeación y Finanzas deberá dictar resolución en relación con el recurso interpuesto, dentro de los quince días siguientes al de la fecha de su presentación.
 
 #### Sección Quinta. Recurso de Queja
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
 ###### Artículo 183.
 
-El recurso de queja se interpondrá ante el Gobernador del Estado, contra las resoluciones del Secretario de Finanzas.
+El recurso de queja se interpondrá ante el Gobernador del Estado, contra las resoluciones del Secretario de Planeación y Finanzas.
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
 
 ###### Artículo 184.
 
-El Secretario de Finanzas deberá turnar el expediente respectivo al Gobernador del Estado, dentro de los cinco días siguientes a la fecha en que se haya interpuesto el recurso de queja, remitiendo el oficio de notificación de la resolución dictada, para comprobar que las mismas se efectuaron dentro de los términos que señalan los artículos 182 y 188 de este Código.
+El Secretario de Planeación y Finanzas deberá turnar el expediente respectivo al Gobernador del Estado, dentro de los cinco días siguientes a la fecha en que se haya interpuesto el recurso de queja, remitiendo el oficio de notificación de la resolución dictada, para comprobar que las mismas se efectuaron dentro de los términos que señalan los artículos 182 y 188 de esta Código.
 
 ###### Artículo 185.
 
@@ -1978,3 +2094,15 @@ LIC. MANUEL GURRIA ORDOÑEZ.
 LIC. ENRIQUE PRIEGO OROPEZA.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 3 DE FEBRERO DE 1999.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
