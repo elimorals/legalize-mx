@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2000-07-03"
+last_updated: "2002-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGVS"
 
 LEY GENERAL DE VIDA SILVESTRE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 2002.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -44,7 +44,9 @@ LEY GENERAL DE VIDA SILVESTRE
 
 La presente Ley es de orden público y de interés social, reglamentaria del párrafo tercero del artículo 27 y de la fracción XXIX, inciso G del artículo 73 constitucionales. Su objeto es establecer la concurrencia del Gobierno Federal, de los gobiernos de los Estados y de los Municipios, en el ámbito de sus respectivas competencias, relativa a la conservación y aprovechamiento sustentable de la vida silvestre y su hábitat en el territorio de la República Mexicana y en las zonas en donde la Nación ejerce su jurisdicción.
 
-El aprovechamiento sustentable de los recursos forestales maderables y de las especies cuyo medio de vida total sea el agua, quedará excluido de la aplicación de esta Ley y continuará sujeto a las leyes forestal y de pesca, respectivamente, salvo que se trate especies o poblaciones en riesgo.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2002)</small>
+
+El aprovechamiento sustentable de los recursos forestales maderables y no maderables y de las especies cuyo medio de vida total sea el agua, será regulado por las leyes forestal y de pesca, respectivamente, salvo que se trate de especies o poblaciones en riesgo.
 
 ###### Artículo 2o.
 
@@ -282,43 +284,41 @@ X. La coordinación de la participación social en las actividades que incumben 
 
 XI. La emisión de recomendaciones a las autoridades competentes en materia de vida silvestre, con el propósito de promover el cumplimiento de la legislación en materia de conservación y aprovechamiento sustentable.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2002)</small>
+
 ###### Artículo 11.
 
-La Federación, por conducto de la Secretaría, a petición de cualquiera de los Estados o del Distrito Federal, suscribirá convenios o acuerdos de coordinación, con el objeto de que éstos asuman la totalidad o algunas de las siguientes funciones:
+La Federación, por conducto de la Secretaría, podrá suscribir convenios o acuerdos de coordinación, con el objeto de que los gobiernos del Distrito Federal o de los Estados, con la participación, en su caso, de sus Municipios, asuman las siguientes facultades, en el ámbito de su jurisdicción territorial:
 
-I. La promoción del establecimiento de las condiciones necesarias para el desarrollo de mercados estatales para la vida silvestre, basados en criterios de sustentabilidad, así como la aplicación de los instrumentos de política ambiental para estimular el logro de los objetivos de conservación y aprovechamiento sustentable de la misma, en el ámbito de su jurisdicción territorial.
+I. Autorizar, registrar y supervisar técnicamente el establecimiento de Unidades de Manejo para la Conservación de Vida Silvestre;
 
-II. La promoción y registro del establecimiento de Unidades de Manejo para la Conservación de Vida Silvestre, en el ámbito de su jurisdicción territorial.
+II. Atender los asuntos relativos al manejo, control y remediación de problemas asociados a ejemplares y poblaciones que se tornen perjudiciales;
 
-III. La aplicación de las disposiciones en materia de otorgamiento, suspensión y revocación de registros, autorizaciones, certificaciones y demás actos administrativos vinculados al aprovechamiento y liberación de ejemplares de las especies y poblaciones silvestres en el ámbito de su jurisdicción territorial.
+III. Aplicar las medidas de sanidad relativas a la vida silvestre;
 
-IV. La aplicación de las normas en materia de otorgamiento, suspensión y revocación de licencias para el ejercicio de la caza deportiva y para la prestación de servicios de este tipo de aprovechamiento, en el ámbito de su jurisdicción territorial.
+IV. Aplicar las medidas relativas al hábitat crítico y a las áreas de refugio para proteger las especies acuáticas reguladas en la presente Ley;
 
-V. La aplicación de las disposiciones en materia de colecta científica, en el ámbito de su jurisdicción territorial.
+V. Promover y aplicar las medidas relativas al trato digno y respetuoso de la fauna silvestre;
 
-VI. La atención de los asuntos relativos al manejo, control y remediación de problemas asociados a ejemplares y poblaciones que se tornen perjudiciales en el ámbito de su jurisdicción territorial.
+VI. Promover el establecimiento de las condiciones para el manejo y destino de ejemplares fuera de su hábitat natural, de conformidad con los procedimientos establecidos en la presente Ley;
 
-VII. La aplicación de las medidas de sanidad relativas a la vida silvestre, en el ámbito de su jurisdicción territorial.
+VII. Llevar a cabo la inspección y vigilancia del cumplimiento de esta Ley y de las normas que de ella se deriven, así como imponer las medidas de seguridad y las sanciones administrativas establecidas en la propia Ley;
 
-VIII. La aplicación de las disposiciones relativas al trato digno y respetuoso de la fauna silvestre.
+VIII. Promover el establecimiento de las condiciones necesarias para el desarrollo de mercados estatales para la vida silvestre, basados en criterios de sustentabilidad, así como aplicar los instrumentos de política ambiental para estimular el logro de los objetivos de conservación y aprovechamiento sustentable de la misma;
 
-IX. La promoción del establecimiento de las condiciones para el manejo y destino de ejemplares fuera de su hábitat natural, de conformidad con los procedimientos establecidos en la presente ley.
+IX. Otorgar, suspender, modificar y revocar las autorizaciones, certificaciones, registros y demás actos administrativos vinculados al aprovechamiento y liberación de ejemplares de las especies y poblaciones silvestres, al ejercicio de la caza deportiva y para la prestación de servicios de este tipo de aprovechamiento, así como para la colecta científica, de conformidad con las normas y demás disposiciones legales aplicables, o
 
-X. Coadyuvar, con la Federación en la inspección y vigilancia del cumplimiento de esta Ley y de las normas que de ella se deriven, así como la imposición de las medidas de seguridad y de las sanciones administrativas establecidas en la propia Ley, en el ámbito de su jurisdicción territorial.
+X. Promover el desarrollo de proyectos, estudios y actividades encaminados a la educación, capacitación e investigación sobre la vida silvestre, para el desarrollo del conocimiento técnico y científico y el fomento de la utilización del conocimiento tradicional.
+
+Dichas facultades serán ejercidas conforme a lo dispuesto en esta Ley y demás disposiciones federales aplicables, así como en aquellas que de las mismas deriven.
+
+En contra de los actos que emitan los gobiernos del Distrito Federal o de los Estados y, en su caso, de sus Municipios, en ejercicio de las facultades que asuman de conformidad con este precepto respecto de los particulares, procederán los recursos y medios de defensa establecidos en el Capítulo V del Título Sexto de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2002)</small>
 
 ###### Artículo 12.
 
-La celebración de los acuerdos o convenios de coordinación, mediante los cuales los Estados y el Distrito Federal asumirán estas funciones, se regirán por el artículo 12 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y por los siguientes criterios:
-
-I. Se celebrarán a petición de una Entidad Federativa, cuando ésta manifieste que cuenta con los medios necesarios, el personal capacitado, los recursos materiales y financieros, así como la estructura institucional específica para el desarrollo de las funciones que pretendan asumir; la celebración de dichos instrumentos también podrá ser a propuesta del Ejecutivo Federal.
-
-II. La Secretaría, en coordinación con las Entidades Federativas, deberá elaborar un programa de transferencia en un plazo máximo de noventa días contados a partir de la recepción de la correspondiente solicitud.
-
-III. Su objeto versará sobre la asunción de todas, algunas o una parcialidad de las facultades a las que se refiere el artículo 11 de la presente Ley.
-
-IV. Deberán prever mecanismos periódicos de evaluación, en los que confluya la participación de los diversos sectores involucrados.
-
-V. Se preverá su periodo de duración el cual podrá ser temporal o definitivo. Las Entidades Federativas solicitarán la renovación del acuerdo o convenio, o que la Federación reasuma las funciones transferidas mediante los mismos.
+La celebración de los convenios o acuerdos de coordinación a que se refiere el artículo anterior, se sujetará a las bases previstas en el artículo 12 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
 ###### Artículo 13.
 
@@ -692,6 +692,14 @@ El programa de certificación deberá seguir los lineamientos establecidos en el
 
 La Secretaría suscribirá convenios y acuerdos de concertación y coordinación con el fin de promover la recuperación y conservación de especies y poblaciones en riesgo.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2002)</small>
+
+###### Artículo 60 Bis.
+
+Ningún ejemplar de mamífero marino, cualquiera que sea la especie podrá ser sujeto de aprovechamiento extractivo, ya sea de subsistencia o comercial, con excepción de la captura que tenga por objeto la investigación científica y la educación superior de instituciones acreditadas.
+
+El promovente de una autorización para la captura de mamíferos marinos a los que se refiere este artículo, deberá entregar a la autoridad correspondiente un protocolo completo que sustente su solicitud. El resto del trámite quedará sujeto a las disposiciones de la presente Ley y demás ordenamientos aplicables.
+
 ###### Artículo 61.
 
 La Secretaría, previa opinión del Consejo, elaborará las listas de especies y poblaciones prioritarias para la conservación y las publicará en el Diario Oficial de la Federación.
@@ -888,9 +896,7 @@ Solamente se podrá autorizar el aprovechamiento de ejemplares de especies en ri
 
 a) Los ejemplares sean producto de la reproducción controlada, que a su vez contribuya con el desarrollo de poblaciones en programas, proyectos o acciones avalados por la Secretaría cuando éstos existan, en el caso de ejemplares en confinamiento.
 
-b) Contribuya con el desarrollo de poblaciones mediante reproducción controlada, en el caso
-
-de ejemplares de especies silvestres en vida libre.
+b) Contribuya con el desarrollo de poblaciones mediante reproducción controlada, en el caso de ejemplares de especies silvestres en vida libre.
 
 ###### Artículo 86.
 
@@ -1026,7 +1032,9 @@ Los ingresos que obtengan los municipios, las entidades federativas y la Federac
 
 Los aprovechamientos no extractivos en actividades económicas deberán realizarse de conformidad con la zonificación y la capacidad de uso determinadas por la Secretaría, de acuerdo con las normas oficiales mexicanas, o en su defecto de acuerdo con el plan de manejo que apruebe la Secretaría.
 
-Artículo 102 No se otorgará dicha autorización si el aprovechamiento pudiera tener consecuencias negativas sobre las respectivas poblaciones, el desarrollo de los eventos biológicos, las demás especies que ahí se distribuyan y los hábitats y se dejará sin efecto la que se hubiere otorgado cuando se generen tales consecuencias.
+###### Artículo 102.
+
+No se otorgará dicha autorización si el aprovechamiento pudiera tener consecuencias negativas sobre las respectivas poblaciones, el desarrollo de los eventos biológicos, las demás especies que ahí se distribuyan y los hábitats y se dejará sin efecto la que se hubiere otorgado cuando se generen tales consecuencias.
 
 ###### Artículo 103.
 
@@ -1272,9 +1280,13 @@ La Secretaría podrá solicitar a instituciones de educación superior, centros 
 
 La imposición de las multas a que se refiere el artículo 123 de la presente Ley, se determinará conforme a los siguientes criterios:
 
-I. Con el equivalente de 20 a 5,000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones VI, IX, X, XI, XII, XVII, XXI y XXIII del artículo 122 de la presente Ley.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2002)</small>
 
-II. Con el equivalente de 50 a 50,000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, V, VII, VIII, XIII, XIV, XV, XVI, XVIII, XIX, XX y XXII del artículo 122 de la presente Ley.
+I. Con el equivalente de 20 a 5000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones XII, XVII, XXI y XXIII del artículo 122 de la presente Ley, y
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2002)</small>
+
+II. Con el equivalente de 50 a 50000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XIV, XV, XVI, XVIII, XIX, XX y XXII del artículo 122 de la presente Ley.
 
 La imposición de las multas se realizará con base en el salario mínimo general diario vigente para el Distrito Federal al momento de cometerse la infracción.
 
@@ -1329,3 +1341,9 @@ DÉCIMO.- Los procedimientos y recursos administrativos relacionados con las mat
 México, D.F., a 27 de abril de 2000.- Sen. Dionisio Pérez Jácome, Vicepresidente en funciones.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. Raúl Juárez Valencia, Secretario.- Dip. Marta Laura Carranza Aguayo.- Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de junio de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 10 DE ENERO DE 2002.
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
