@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2004-12-15"
+last_updated: "2005-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2005.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -151,7 +151,7 @@ III. Por falta de cumplimiento sin causa justificada, de las obligaciones impues
 
 IV. Por sentencia judicial.
 
-V. Por ser vago, ebrio consuetudinario o tahur de profesión.
+V. Por ser vago, ebrio consuetudinario o tahúr de profesión.
 
 VI. En los casos de suspensión de la ciudadanía mexicana.
 
@@ -737,7 +737,7 @@ V. Nombrar y remover a sus servidores públicos en los términos que señale la 
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-VI.- Revisar y calificar las cuentas públicas de los Poderes del Estado, de los Ayuntamientos, de los entes públicos estatales y de todo organismo estatal o municipal que administre o maneje fondos públicos. La revisión de la cuenta tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en la Ley de Ingresos y en el Presupuesto de Egresos, así como si se han cumplido los objetivos contenidos en los programas.
+VI. Revisar y calificar las cuentas públicas de los Poderes del Estado, de los Ayuntamientos, de los entes públicos estatales y de todo organismo estatal o municipal que administre o maneje fondos públicos. La revisión de la cuenta tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en la Ley de Ingresos y en el Presupuesto de Egresos, así como si se han cumplido los objetivos contenidos en los programas.
 
 Para la revisión de las cuentas públicas, el Congreso cuenta con la Auditoría Superior del Estado. La ley determinará la organización y funcionamiento de dicho órgano técnico de fiscalización superior del Congreso, el cual contará con independencia en sus funciones y autonomía presupuestal para el ejercicio de sus atribuciones. La coordinación y evaluación del desempeño de dicho órgano estará a cargo del Congreso en los términos que disponga la ley;
 
@@ -787,9 +787,9 @@ Asimismo, conocer de las imputaciones que se hagan a los servidores públicos a 
 
 XX. Conceder ammistía (sic) por delitos cuyo conocimiento corresponde exclusivamente a los tribunales del Estado;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2005)</small>
 
-XXI. Elegir y remover a los Magistrados del Supremo Tribunal de Justicia del Estado, en los términos que establece la presente Constitución. Asimismo, elegir y remover al Magistrado del Tribunal Fiscal del Estado;
+XXI. Elegir y remover a los Magistrados del Supremo Tribunal de Justicia del Estado, en los términos que establece la presente Constitución. Asimismo, elegir y remover al Magistrado del Tribunal Fiscal del Estado; y ratificar al Procurador General de Justicia, con base en la designación que realice el Gobernador del Estado;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -945,7 +945,7 @@ III. Atentar contra el sistema representativo, popular y federal.
 
 IV. Dejar de señalar retribución a un empleo establecido por la ley. En caso de que se omita fijar tal remuneración, se entenderá señalada la última que hubiere tenido.
 
-V. Mandar hacer cortes de cuentas con los acreedores del Estado, a fin de dejar sus créditos ínsolutos.
+V. Mandar hacer cortes de cuentas con los acreedores del Estado, a fin de dejar sus créditos insolutos.
 
 VI. Dispensar estudios para el efecto de otorgar títulos profesionales.
 
@@ -1167,7 +1167,7 @@ I.- Fiscalizar en forma posterior los ingresos y egresos públicos, el manejo, c
 
 II.- Entregar al Congreso del Estado los informes del resultado de la revisión de las cuentas públicas que reciba, dentro de los plazos que señale la ley. Dichos informes contemplarán los resultados de la revisión efectuada y la referencia a la fiscalización del cumplimiento de los programas.
 
-III.- Efectuar visitas domiciliarias únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus funciones, sujetándose a la leyes y a las formalidades establecidas para los cateos, y
+III.- Efectuar visitas domiciliarias únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus funciones, sujetándose a las leyes y a las formalidades establecidas para los cateos, y
 
 IV.- Determinar los daños y perjuicios que afecten las haciendas públicas estatal o municipales o al patrimonio de los entes públicos estatales y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades.
 
@@ -1339,9 +1339,9 @@ VIII.- Ejercer la facultad prevista en la fracción XV del Artículo 73 de la Co
 
 IX.- Nombrar y remover libremente a los servidores públicos de confianza a que se refiere la ley respectiva y a los demás cuyo nombramiento y remoción no se encomiende a otra autoridad;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2005)</small>
 
-X.- Turnar al Procurador General todos los asuntos que deban ventilarse dentro de los Tribunales para que ejercite ante ellos las atribuciones de su Ministerio;
+X.- Designar al Procurador General de Justicia, con la ratificación del Congreso, y turnar al titular de esa dependencia todos los asuntos que deban ventilarse dentro del ámbito de sus atribuciones;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1877,13 +1877,13 @@ XI.- Promover la conciliación entre las partes en los delitos perseguibles por 
 
 XII.- Las demás que le señalen las leyes.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DEL 2002)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2005)</small>
 
 ###### Art. 125.
 
-El Ministerio Público estará integrado por un Procurador General de Justicia que lo presidirá, SubProcuradores, Directores, Agentes y demás servidores públicos que determine la Ley Orgánica.
+El Ministerio Público estará integrado por un Procurador General de Justicia, quien lo presidirá, así como por los subprocuradores, directores, agentes y demás servidores públicos que determine la ley para su organización.
 
-La Ley Reglamentaria organizará al Ministerio Público, cuyos integrantes serán nombrados y removidos por el Ejecutivo del Estado.
+El nombramiento del Procurador General de Justicia se hará por el Gobernador, con la ratificación del Congreso del Estado, por mayoría absoluta de los integrantes de la Legislatura, la cual deberá resolver dentro de los diez días naturales posteriores; en caso de que no resuelva o la persona designada no obtenga esta mayoría, el Gobernador hará un nuevo nombramiento, debiendo resolver el Congreso sobre su ratificación dentro de los cinco días naturales siguientes, pero si la misma no se produce dentro de ese período o la persona no obtiene la citada mayoría, el Ejecutivo hará la designación directa del Procurador. El titular de la Procuraduría General de Justicia podrá ser removido libremente por el Ejecutivo del Estado. Los demás integrantes del Ministerio Público serán nombrados y removidos por el Ejecutivo. Si la vacante en la titularidad de la Procuraduría se produce durante los recesos del Congreso, la Diputación Permanente convocará de inmediato a sesión extraordinaria para conocer del asunto. En tanto se designa un nuevo Procurador, ocupará el cargo el Subprocurador que determine el Gobernador.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
@@ -3235,17 +3235,15 @@ P.O. 15 DE DICIEMBRE DE 2004.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTICULO PRIMERO.
+P.O. 10 DE FEBRERO DE 2005.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+###### ARTÍCULO PRIMERO.
 
-###### ARTICULO SEGUNDO.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-El Congreso de la Unión y las legislaturas de los Estados, en el plazo de un año computado a partir de la vigencia de este Decreto, procederán a reformar y adicionar las leyes federales, así como las Constituciones y leyes locales, respectivamente, para proveer al debido cumplimiento de las bases que se contienen en el mismo. Las contribuciones locales y las participaciones a que se refieren los incisos a) al c) de la fracción IV, se percibirán por los Municipios a partir del 1o. de enero de 1984.
+###### ARTÍCULO SEGUNDO.
 
-D.O.F. 3 DE FEBRERO DE 1983.
-
-DECRETO QUE ADICIONA UN PÁRRAFO PENÚLTIMO AL ARTÍCULO 4°.
+El actual nombramiento de la titular de la Procuraduría General de Justicia del Estado hecho conforme a las disposiciones constitucionales vigentes anteriores al presente Decreto, será sometido a la ratificación del Congreso, el cual deberá resolver dentro de los diez días siguientes; en caso necesario se atenderá, en lo conducente, al procedimiento previsto en el texto reformado del artículo 125 de la Constitución Política del Estado.
 
 ###### ARTICULO UNICO.
 
