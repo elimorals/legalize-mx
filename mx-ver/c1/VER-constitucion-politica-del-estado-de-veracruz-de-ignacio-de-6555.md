@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1997-09-29"
+last_updated: "1998-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE SEPTIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 1998.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -1105,19 +1105,33 @@ Los Diputados de mayoría relativa y de representación proporcional, como repre
 
 ###### Artículo 51.
 
-La Legislatura se renovará en su totalidad cada tres años y comenzará a funcionar, en cada trienio, el día 1º de diciembre inmediato posterior a las elecciones.
+La Legislatura se renovará en su totalidad cada tres años y comenzará a funcionar, en cada trienio, el día 5 de noviembre inmediato posterior a las elecciones.
 
-> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 1998)</small>
 
 ###### Artículo 52.
 
-En cada año tendrá un periodo de sesiones ordinarias, prorrogable por treinta días, que principiará en la fecha expresada en el artículo precedente y concluirá el último día de febrero del año siguiente.
+En cada año tendrá dos períodos de sesiones ordinarias. El primero comenzará en la fecha indicada en el Artículo precedente y concluirá el día último del mes de enero del año siguiente; pero será prorrogable hasta por treinta días naturales más. El segundo comenzará el día 2 de mayo y concluirá a más tardar el día último de junio siguiente.
 
-> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 1998)</small>
 
 ###### Artículo 53.
 
-En el período de sesiones ordinarias la Legislatura se ocupará de preferencia, en examinar, discutir y aprobar los presupuestos que, con relación a los ingresos y egresos del año siguiente, le serán presentados por el C. Gobernador; en examinar y aprobar los planes de arbitrios de los municipios; en examinar y aprobar las cuentas de recaudación y distribución de caudales del año próximo anterior, que serán presentadas por el Gobernador y los Ayuntamientos, en las fechas que indiquen las Leyes Orgánicas respectivas. La revisión no se limitará a examinar si las cantidades gastadas están o no de acuerdo con las partidas respectivas del presupuesto, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y de las responsabilidades a que hubiere lugar. No podrá haber otras partidas secretas, fuera de las que se consideren necesarias con ese carácter, en el Presupuesto del Gobierno del Estado, las que empleará el Secretario General de Gobierno por acuerdo escrito del Gobernador.
+La Legislatura tendrá como asuntos de atención preferente:
+
+I. En el primer período de sesiones ordinarias:
+
+a) Examinar, discutir y aprobar los presupuestos que, en relación con los ingresos y egresos del año siguiente, le sean presentados por el Gobernador en la fecha indicada por la ley respectiva.
+
+b) Examinar, discutir y aprobar los planes de arbitrios de los municipios que sean presentados en las fechas que indiquen las leyes respectivas;
+
+II. En el segundo periodo de sesiones ordinarias:
+
+a) Revisar y dictaminar la cuenta pública del Gobierno del estado correspondiente al año anterior, la cual deberá presentarse dentro de los últimos quince días del mes de abril de cada año, a fin de conocer los resultados de la gestión financiera, comprobar si se ha dado cumplimiento a los objetivos contenidos en los programas y ajustado a los criterios señalados en el presupuesto, y
+
+b) Examinar y aprobar las cuentas de recaudación y distribución de caudales del año próximo anterior, que presenten los ayuntamientos en las fechas indicadas en las leyes respectivas.
+
+El examen de la Legislatura del Estado no se limitará a determinar si las cantidades gastadas están de acuerdo o no con las partidas respectivas del presupuesto, sino que se extenderá a la exactitud y justificación de los gastos hechos y, de ser necesario, a las responsabilidades a que hubiere lugar. Si en él aparecieren discrepancias entre las cantidades gastadas y las partidas respectivas del presupuesto o no existiera exactitud o justificación de los gastos hechos, se determinarán las responsabilidades de acuerdo con las leyes de la materia.
 
 ###### Artículo 54.
 
@@ -1127,7 +1141,7 @@ Se reunirá la Legislatura en sesiones extraordinarias cada vez que fuere convoc
 
 DE LA INSTALACIÓN DE LA LEGISLATURA Y DE SUS SESIONES.
 
-> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 1998)</small>
 
 ###### Artículo 55.
 
@@ -1139,11 +1153,11 @@ Si las sesiones extraordinarias se prolongan hasta el tiempo en que deban comenz
 
 La Legislatura, ni el Colegio Electoral cuando se constituya conforme al Artículo 86 de esta Constitución, pueden ejercer sus funciones sin la concurrencia de más de la mitad del número total de diputados; pero los presentes, cualquiera que sea el número, deberán reunirse los días señalados por el reglamento para compeler a los ausentes a que concurran dentro de los ocho días siguientes, con la advertencia de que si no lo hicieren, se entenderá por ese solo hecho, excepto caso justificado, que no aceptan el cargo llamándose luego a los suplentes, los que deberán presentarse en un plazo igual; y si tampoco lo hicieren se declarará vacante el puesto y se convocará a nuevas elecciones en tratándose de diputados electos por mayoría relativa. Se llamará al que sigue en el orden de la lista regional votada en la circunscripción plurinominal cuando se trate de diputados electos según el principio de representación proporcional.
 
-> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 1998)</small>
 
-Se entiende también que los diputados que falten diez días consecutivos sin causa justificada o sin previa licencia del Presidente de la Legislatura -con la cual se dará conocimiento a ésta- renuncian a concurrir durante ese período llamándose desde luego a los suplentes. Si no hubiere quórum para instalar la Legislatura o para que ejerza sus funciones, una vez instalada, se convocará inmediatamente a los suplentes para que se presenten a la mayor brevedad a desempeñar su cargo, entretanto transcurren los ocho días de que antes se habla.
+Se entiende también que los diputados que falten a tres sesiones consecutivas sin causa justificada o sin previa licencia del Presidente de la Legislatura con la cual se dará conocimiento a ésta renuncian a concurrir durante ese período, llamándose desde luego a los suplentes para que se presenten a la mayor brevedad a desempeñar su cargo.
 
-> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 1998)</small>
 
 ## TITULO SEPTIMO.
 
@@ -1151,7 +1165,7 @@ DEL TRABAJO Y DE LA PREVISIÓN SOCIAL.
 
 ###### Artículo 57.
 
-El lugar de sesiones de la H. Legislatura, será la ciudad de Jalapa, en donde residirán los Poderes del Estado, los que sólo podrán transladarse a otro lugar, provisionalmente, por decreto de la Legislatura o de la Diputación Permanente.
+El lugar de sesiones de la H. Legislatura será la ciudad de Xalapa, en donde residirán los Poderes del Estado, los que sólo podrán trasladarse a otro lugar, provisionalmente, por decreto del Pleno o de la Diputación Permanente.
 
 > <small>(REFORMADO, G.O. 22 DE OCTUBRE DE 1994)</small>
 
@@ -1163,11 +1177,11 @@ Los trabajos para la instalación de la Legislatura, en su primer período de se
 
 El día de la instalación y antes del acto, los Diputados harán formal protesta de guardar esta Constitución y la General de la República, mirando en todo por el bien del Estado. Igual protesta se exigirá a los que no hayan asistido a la instalación, cuando se presenten a desempeñar su encargo.
 
-> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 1998)</small>
 
 ###### Artículo 60.
 
-El Gobernador del Estado presentará ante la Legislatura el día 1º de diciembre, un informe por escrito de las actividades realizadas por el Poder Ejecutivo en el año correspondiente, excepto en el último año de su mandato, en que dicho documento deberá presentarse el día 31 de octubre. Este informe será analizado por la Legislatura en sesiones subsecuentes, a las que deberán concurrir los Secretarios de Despacho, el Procurador General de Justicia, el Contralor General del Estado y el Coordinador General de Comunicación Social, para ampliar o detallar aspectos relacionados con sus ramos.
+El Gobernador presentará ante la Legislatura el día 15 de noviembre, un informe por escrito de las actividades realizadas por el Poder Ejecutivo en el año correspondiente. Este informe será analizado por la Legislatura en sesiones subsecuentes, a las que deberán concurrir los Secretarios de Despacho, el Procurador General de Justicia, el Contralor General del Estado y el Coordinador General de Comunicación Social, para ampliar o detallar aspectos relacionados con sus ramos.
 
 > <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
 
@@ -1205,6 +1219,8 @@ DE LAS PRERROGATIVAS DE LOS DIPUTADOS, DE LAS FACULTADES DE LA LEGISLATURA Y RES
 
 Los Diputados, durante el período de su encargo, no podrán desempeñar, sin permiso de la Legislatura, ninguna comisión pública, o empleo dependiente de la Federación, o de la Administración del Estado o de la Municipal; pero concedido el permiso, cesarán en sus funciones representativas mientras dure la nueva ocupación. La misma regla se observará con los suplentes cuando estuvieren en ejercicio. La infracción de esa disposición será castigada con la pérdida del carácter de Diputado.
 
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 1998)</small>
+
 ### CAPITULO VII. De las donaciones antenupciales
 
 ### CAPITULO IV.
@@ -1213,13 +1229,19 @@ DE LA FORMACIÓN Y PUBLICACIÓN DE LAS LEYES.
 
 ###### Artículo 67.
 
-En ningún caso podrán alegar ocupaciones particulares para excusarse del cumplimiento de los deberes de su encargo.
+Los diputados durante el periodo de su encargo deberán desempeñar con eficiencia todas y cada una de las atribuciones que les correspondan como miembros de la Legislatura y de las Comisiones, cualquiera que sea la naturaleza de éstas, a las que pertenezcan o que les sean asignadas; así como realizar las gestiones de interés general que les encomienden los ciudadanos de sus distritos o circunscripciones, acordes con las facultades de su investidura.
+
+La ley secundaria precisará los demás derechos y obligaciones de los diputados.
+
+De sus actividades deberán rendir cuando menos un informe anual al pueblo de los distritos electorales que representan, y entregarán un ejemplar del mismo a la Legislatura, sin perjuicio de que lo hagan del conocimiento público en los lugares y por los medios que estimen pertinentes. Los diputados plurinominales entregarán su informe a la H. Legislatura, pudiendo hacerlo también del conocimiento público como se indica en el párrafo anterior.
+
+En ningún caso podrán alegar ocupaciones particulares para excusarse del cumplimiento de los deberes y obligaciones de su encargo.
 
 ### CAPITULO V.
 
 DE LA DIPUTACIÓN PERMANENTE.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 1998)</small>
 
 ## TITULO TERCERO.
 
@@ -1243,9 +1265,9 @@ III. Reclamar, ante la Suprema Corte de Justicia de la Nación, cuando alguna le
 
 IV. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaratoria de Gobernador electo que hubiere hecho el Tribunal Estatal de elecciones;
 
-> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
+> <small>(REFORMADA, G.O. 10 DE MARZO DE 1998)</small>
 
-V. Conceder al Gobernador y a los Diputados licencia temporal para separase de su cargo; concederla al Gobernador para salir del Estado, licencia que puede ser global hasta por un año, y otorgar o negar su aprobación a las solicitudes de licencia de los Magistrados del Poder Judicial que les someta el Consejo de la Judicatura, así como, en los mismos términos, al Consejero que hubiera designado;
+V. Conceder al Gobernador y a los diputados licencia temporal para separarse de su cargo; concederla al Gobernador para salir del Estado, licencia que puede ser global hasta por un año, y otorgar o negar su aprobación a las solicitudes de licencia de los Magistrados del Poder Judicial que les someta el Consejo de la Judicatura, así como, en los mismos términos, al Consejero que hubiere designado. Cuando la licencia de los diputados exceda de sesenta días, se llamará al suplente para que cubra la falta;
 
 > <small>(ADICIONADA, G.O. 20 DE MARZO DE 1997)</small>
 
@@ -1283,9 +1305,21 @@ La Legislatura, al aprobar el Presupuesto de Egresos, no podrá dejar de señala
 
 Este presupuesto considerará igualmente las partidas necesarias para el desarrollo de las funciones de la Comisión Estatal Electoral, debiendo ésta rendir cuentas anualmente a la Legislatura del Estado acerca de su ejercicio.
 
+> <small>(ADICIONADO, G.O. 10 DE MARZO DE 1998)</small>
+
+Si al 31 de diciembre la Legislatura no ha aprobado el presupuesto de egresos para el año siguiente, el gasto público a ejercer en dicho período se limitará a cubrir las partidas correspondientes a las remuneraciones de los servidores públicos de los Poderes del Estado, a los servicios de salud, educación, seguridad pública, procuración e impartición de justicia, funcionamiento del Poder Legislativo, así como servicios electorales, para lo cual se ejercerá en cada mes una doceava parte del último presupuesto aprobado, hasta en tanto se apruebe el nuevo;
+
 XV. Tomar cuentas al Gobierno, cada año, o cuando le parezca oportuno, de la recaudación o inversión de los caudales públicos;
 
+> <small>(ADICIONADO, G.O. 10 DE MARZO DE 1998)</small>
+
+Para el estudio de la cuenta pública del Gobierno del estado, la Legislatura contará con la Contaduría Mayor de Hacienda, órgano con autonomía técnica encargado del análisis de los resultados de la gestión financiera anual;
+
 XVI. Contraer deudas sobre el crédito del Estado y señalar fondos para pagarlas;
+
+> <small>(ADICIONADO, G.O. 10 DE MARZO DE 1998)</small>
+
+Autorizar al Ejecutivo del Estado a enajenar a título oneroso o gratuito, o a conceder el uso y disfrute de bienes de propiedad estatal;
 
 XVII. Crear, suprimir y dotar competentemente los empleos del Estado;
 
@@ -1411,7 +1445,9 @@ h). La retención indebida del salario de los trabajadores de la educación, ser
 
 XLV. Formar su Reglamento interior, tomar las providencias necesarias para hacer concurrir o los Diputados ausentes y corregir las faltas u omisiones de los presentes;
 
-XLVI. Nombrar y remover libremente a los empleados y dependientes de su Secretaría; y
+> <small>(REFORMADA, G.O. 10 DE MARZO DE 1998)</small>
+
+XLVI. Nombrar y remover libremente a sus empleados y dependientes;
 
 > <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -1429,9 +1465,9 @@ XLIX. Crear y suprimir congregaciones; autorizar el traslado de un Ayuntamiento 
 
 L. Determinar el número de Ediles de los Ayuntamientos y sancionar los procedimientos de elección de los Agentes Municipales;
 
-> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA, G.O. 10 DE MARZO DE 1998)</small>
 
-LI. Calificar las causas graves para que los ediles se separen o renuncien a sus cargos; y las faltas temporales cuando excedan de sesenta días, definitivas o indefinidas para llamar, en su caso, a los suplentes, en los términos previstos por las leyes;
+LI. Calificar las causas graves o justificadas para que los ediles se separen o renuncien a sus cargos, y las faltas temporales de aquéllos cuando sumadas excedan de sesenta días en el lapso de un año, definitivas o indefinitivas, para llamar, en su caso, a los suplentes, en los términos previstos por las leyes;
 
 > <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -1467,9 +1503,17 @@ LV. Expedir las leyes que regulen el ámbito de competencia del Gobierno del Est
 
 LVI. Designar, con la aprobación de las dos terceras partes de los Diputados presentes; a los Magistrados del Poder Judicial, a propuesta del Consejo de la Judicatura;
 
-> <small>(REFORMADA, G.O. 11 DE FEBRERO DE 1989)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE MARZO DE 1998)</small>
 
-LVII. Expedir las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución, la Federal y las leyes que de ellas emanen a los poderes del Estado y a los municipios de la Entidad.
+LVII. Nombrar a quien deba presidir la Comisión de Derechos Humanos del Estado de Veracruz, por el voto de las dos terceras partes de los diputados presentes, de una terna propuesta por el Gobernador;
+
+> <small>(ADICIONADA, G.O. 10 DE MARZO DE 1998)</small>
+
+LVIII. Revisar las cuentas, actas, inventarios, avalúos, recibos y demás documentos que presenten o se soliciten a la Comisión Estatal Electoral, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 10 DE MARZO DE 1998)</small>
+
+LIX. Expedir las leyes que sean necesarias a fin de hacer efectivas las facultades concedidas por esta Constitución, por la Federal y las leyes que de ellas emanen, a los Poderes del Estado y a los municipios de la entidad.
 
 ###### Artículo 69.
 
@@ -1509,21 +1553,25 @@ II. Las proposiciones de los miembros de la Legislatura admitidas a discusión, 
 
 III. Las que sean hechas por los Ayuntamientos del Estado, en lo relativo a sus localidades y sobre los ramos que administren.
 
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 1998)</small>
+
 ###### Artículo 71.
 
 Las iniciativas de ley o de decreto deberán sujetarse a los trámites siguientes:
 
 I. Dictamen de comisiones;
 
-II. Una o dos discusiones, en los términos que se expresan en seguida:
+II. Discusión del dictamen en los términos del Reglamento para el Gobierno Interior del Poder Legislativo;
 
-La primera discusión se verificará el día que designe el Presidente de la Legislatura, conforme al Reglamento.
+III. Aprobación por la mayoría que, según el caso, exija la ley;
 
-Concluída esta discusión se pasará al Ejecutivo copia del expediente, para que en el término de siete días manifieste su opinión, o exprese que no usa de esa facultad.
+IV. Aprobada la ley, se turnará al depositario del Poder Ejecutivo para su sanción y publicación. El Ejecutivo podrá, dentro del término de siete días hábiles, contados a partir de la fecha en que reciba la misma, devolverla a la Legislatura con las observaciones que estime pertinentes.
 
-Si la opinión del Ejecutivo fuere conforme, se procederá sin más dilación, a la votación de la ley. Si dicha opinión discrepare, en todo o en parte, volverá el expediente a la comisión, para que en presencia de las observaciones del Ejecutivo examine de nuevo el asunto. El segundo dictamen será también discutido y puesto a votación, pero no podrá ser ley o decreto si no es aprobado por dos tercios de votos de los miembros presentes, en los puntos en que estuviere la discrepancia; y
+Si el Ejecutivo hace observaciones a la Ley, la Legislatura volverá a discutirla. Aquél, podrá nombrar un representante para que asista a la discusión a exponer los motivos que sustenten sus observaciones y responder las cuestiones que sobre el particular le formulen los diputados.
 
-III. Aprobación por la mayoría que, en cada caso, exija la ley.
+Si después de la nueva discusión, la Legislatura reitera la aprobación inicial por el voto de las dos terceras partes de sus integrantes, el Ejecutivo deberá proceder a la promulgación consecuente.
+
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 1998)</small>
 
 ## TITULO CUARTO.
 
@@ -1539,7 +1587,7 @@ DE LOS SECRETARIOS.
 
 ###### Artículo 72.
 
-En el caso de urgencia notoria calificada por el voto de los dos tercios de los Diputados presentes, o cuando esté para terminar algún período de sesiones, la Legislatura puede dispensar los trámites meramente reglamentarios, sin que se omita, en ningún caso, oír la opinión del Ejecutivo, a quien puede reducirse a dos días el término para hacer observaciones.
+En el caso de urgencia u obviedad notorias, calificada por el voto de los dos tercios de los diputados presentes, o cuando esté por terminar algún período de sesiones, la Legislatura puede dispensar los trámites meramente reglamentarios.
 
 ###### Artículo 73.
 
@@ -1563,6 +1611,8 @@ Las votaciones de ley o decreto serán nominales.
 
 Aprobado el proyecto en los términos que disponen los artículos anteriores, es ley, y se remitirá al Ejecutivo para que la publique inmediatamente.
 
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 1998)</small>
+
 ## TITULO QUINTO.
 
 > <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
@@ -1575,7 +1625,7 @@ DE LA PROTECCIÓN DE LOS DERECHOS HUMANOS.
 
 ###### Artículo 76.
 
-Desechado algún proyecto de ley o decreto, no podrá ser propuesto de nuevo en las mismas sesiones, pero ésto no impedirá que alguno o algunos de sus artículos formen parte de otro proyecto.
+Desechado algún proyecto de ley o decreto, no podrá ser propuesto de nuevo en el mismo periodo de sesiones, pero esto no impedirá que alguno o algunos de sus Artículos formen parte de otro proyecto.
 
 ###### Artículo 77.
 
@@ -1587,11 +1637,13 @@ Al promulgarse una disposición legislativa que adopte, modifique o derogue uno 
 
 Ninguna resolución de la Legislatura tendrá otro carácter que el de ley, decreto o acuerdo económico. Las leyes y decretos se comunicarán al Ejecutivo firmados por el Presidente y el Secretario de la Legislatura y los acuerdos económicos sólo por el Secretario.
 
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 1998)</small>
+
 ###### Artículo 79.
 
-El Ejecutivo no puede hacer observaciones a las resoluciones de la Legislatura cuando ejerza funciones de Cuerpo Electoral o de Jurado, lo mismo que cuando declare que debe acusarse a algún funcionario del Estado por delitos oficiales.
+El Ejecutivo no puede hacer observaciones a las resoluciones de la Legislatura en los siguientes casos: cuando ésta ejerza funciones de Jurado, o cuando declare que debe acusarse a algún funcionario del estado por delitos oficiales.
 
-Tampoco podrá hacerlas al decreto de convocatoria que expida la Diputación permanente, en el caso del artículo 82, fracción I, ni en el de la fracción V del artículo 68.
+Tampoco podrá hacerlas al decreto de convocatoria que expida la Diputación Permanente, en el caso del Artículo 82 fracción I, ni en el del Artículo 68 fracción V de esta Constitución.
 
 ### CAPITULO I. Del parentesco
 
@@ -1611,7 +1663,7 @@ DEL MINISTERIO PÚBLICO.
 
 ###### Artículo 80.
 
-La víspera del día en que deben terminar las sesiones ordinarias, la Legislatura mediante votación secreta nombrará para el tiempo de su receso una Diputación Permanente, compuesta por dieciocho Diputados en ejercicio, de los cuales nueve funcionarán como propietarios y nueve quedarán como suplentes.
+Durante los recesos de la Legislatura habrá una Diputación Permanente compuesta por 22 Diputados, de los cuales 11 funcionarán como propietarios y 11 quedarán como suplentes. Esta Diputación será nombrada mediante votación secreta la víspera del día en que deban terminar las sesiones ordinarias, en la inteligencia de que en ella concurrirán diputados de todos los grupos legislativos existentes en la Legislatura.
 
 ### CAPITULO I.
 
@@ -1629,7 +1681,9 @@ Son atribuciones de la Diputación Permanente:
 
 I. Convocar a la Legislatura a sesiones extraordinarias, en los casos que la misma Diputación estime urgente, o a moción del Ejecutivo, conforme al artículo 54, pudiendo hacer la convocatoria para lugar distinto de la capital del Estado, cuando las circunstancias así lo exijan;
 
-II. Llamar a los Diputados suplentes de la misma Diputación, cuando por muerte, renuncia, inhabilidad o licencia por más de dos meses, falte alguno de los propietarios;
+> <small>(REFORMADA, G.O. 10 DE MARZO DE 1998)</small>
+
+II. Llamar a los Diputados suplentes de la misma Diputación cuando por muerte, renuncia, inhabilidad o licencia por más de un mes, falte alguno de los propietarios;
 
 > <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
 
@@ -1637,11 +1691,17 @@ III. Nombrar provisionalmente a los Magistrados del Tribunal Superior, así como
 
 IV. Emitir su opinión en todos los asuntos que se presenten en el tiempo de su período y sobre los que quedaren pendientes al clausurarse las sesiones. Cuando se trate de asuntos de la competencia de la Legislatura, se reservarán los dictámenes para que sean discutidos por ésta;
 
-V. Acordar el llamamiento de los suplentes, en caso de muerte, separación o impedimento que no fuere transitorio, de los Diputados que hubieren de funcionar en las sesiones próximas;
+> <small>(REFORMADA, G.O. 10 DE MARZO DE 1998)</small>
 
-VI. (DEROGADA, G.O. 20 DE MARZO DE 1997)
+V. Acordar el llamamiento de los suplentes en caso de muerte, separación o impedimento que exceda de sesenta días de los diputados que hubieren de funcionar en las sesiones próximas;
 
-VII. (DEROGADA, G.O. 20 DE MARZO DE 1997)
+> <small>(ADICIONADA, G.O. 10 DE MARZO DE 1998)</small>
+
+VI. Con el voto de los dos tercios de los diputados presentes, autorizar a los ayuntamientos a enajenar a título oneroso o gratuito, o a conceder el uso o disfrute de bienes de propiedad municipal siempre que medie interés social, dando cuenta a la Legislatura en la sesión inmediata;
+
+> <small>(ADICIONADA, G.O. 10 DE MARZO DE 1998)</small>
+
+VII. Con el voto de los dos tercios de los diputados presentes, autorizar al Ejecutivo del estado a enajenar a título oneroso o gratuito, o a conceder el uso o disfrute de bienes de propiedad estatal siempre que medie interés social, dando cuenta a la Legislatura en la sesión inmediata;
 
 VIII. Convocar a elecciones extraordinarias, cuando falten, a la vez, un Diputado propietario y el suplente respectivo, y siempre que hayan de transcurrir más de seis meses para que concluya el período;
 
@@ -1733,9 +1793,9 @@ VIII. Visitar a los municipios del Estado cuando lo estime conveniente, proveyen
 
 IX. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a éstos el auxilio que necesiten para el ejercicio expedito de sus funciones;
 
-> <small>(REFORMADA, G.O. 29 DE OCTUBRE DE 1981)</small>
+> <small>(REFORMADA, G.O. 10 DE MARZO DE 1998)</small>
 
-X. Ocurrir anualmente al acto de apertura de Sesiones Ordinarias de la H. Legislatura;
+X. Ocurrir anualmente al acto de apertura del primer período de sesiones ordinarias de la H. Legislatura;
 
 > <small>(REFORMADA, G.O. 17 DE DICIEMBRE DE 1996)</small>
 
@@ -1751,9 +1811,11 @@ XIII. Impedir los abusos de la fuerza armada, contra los ciudadanos y los pueblo
 
 XIV. Nombrar y remover libremente a los Secretarios del Despacho y a los empleados de las Secretarías; concederles sin sueldo, las licencias que soliciten y suspender a los empleados hasta por tres meses, por faltas comprobadas en el desempeño de sus obligaciones y que no den motivo a que se les instruya causa o a que se les destituya;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, G.O. 10 DE MARZO DE 1998)</small>
 
-XV. Nombrar y remover libremente al Procurador General de Justicia y a todos los funcionarios y empleados dependientes del poder ejecutivo;
+XV. Nombrar y remover al Procurador General de Justicia, y someter su nombramiento a la ratificación de la Legislatura del Estado o de la Diputación Permanente, en su caso.
+
+Nombrar y remover libremente a todos los funcionarios y empleados dependientes del Poder Ejecutivo;
 
 > <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
 
@@ -11142,6 +11204,20 @@ G.O. 29 DE SEPTIEMBRE DE 1997.
 Primero. Esta ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, órgano del Gobierno del Estado.
 
 Segundo. La LVII Legislatura del Estado mantendrá su periodo de sesiones ordinarias entre el 1º de octubre y el 31 de diciembre, prorrogable por treinta días, conforme a la Legislación en vigor al momento de su instalación.
+
+G.O. 10 DE MARZO DE 1998.
+
+Primero. Se derogan todas las disposiciones que se opongan a la presente ley.
+
+Segundo. La disposición contenida en el artículo 52 entrará en vigor a partir del 5 de noviembre del año 2000.
+
+Tercero. La LVIII Legislatura del Estado que resulte electa el 2 de agosto de 1998, empezará su ejercicio constitucional el 1º de octubre del propio año y lo concluirá el 4 de noviembre del año 2000. Por consiguiente, su primer período de sesiones ordinarias terminará el 31 de diciembre, pudiendo prorrogarlo por treinta días más. Su segundo período de sesiones ordinarias se llevará a cabo del 1º de junio al 15 de julio como máximo del año correspondiente.
+
+Cuarto. En relación con lo dispuesto en la adición a la fracción XV del artículo 68, la Contaduría Mayor de Hacienda de la H. Legislatura del Estado empezará a funcionar en tiempo y forma una vez que entre en vigor la Ley Orgánica respectiva y su Reglamento Interior.
+
+Quinto. La composición de la Diputación Permanente, en los términos del artículo 80 de esta reforma, se aplicará a partir de la LVIII Legislatura. La actual conservará la estructura anterior.
+
+Sexto. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado, previo cumplimiento de lo establecido en el artículo 130 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
