@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1990-09-22"
+last_updated: "1991-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1991.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -925,9 +925,11 @@ Para ser Gobernador del Estado se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento e hijo de padres mexicanos por nacimiento.
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1991)</small>
 
-II.- Ser nativo del Estado o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección.
+II.- Haber nacido en el Estado o tener residencia efectiva en éste no menor a 5 años en los términos del artículo 116 de la Constitución General de la República.
+
+Para los efectos de este artículo se entiende por residencia efectiva vivir habitualmente en el Estado por lo menos por el tiempo a que se refiere el párrafo anterior, la cual no se interrumpirá en el caso del desempeño de un cargo de elección popular o de los altos cargos federales que sean de designación directa del Titular del Poder Ejecutivo Federal.
 
 III.- Estar en pleno ejercicio de sus derechos ciudadanos.
 
@@ -1373,7 +1375,7 @@ VII.- Planear y regular de manera conjunta y coordinada con la Federación, el E
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
+### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1797,7 +1799,7 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
+### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -2482,3 +2484,9 @@ El presente Decreto de reformas y adiciones entrará en vigor al día siguiente 
 ###### ARTICULO SEGUNDO.
 
 El Organismo que crea este Decreto deberá integrarse y entrar en operación, dentro de los ciento ochenta días siguientes a la puesta en vigor del mismo.
+
+P.O. 13 DE DICIEMBRE DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente Decreto de Reformas y Adiciones entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
