@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-urbano-del-estado-de-jalisco-5817"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-13"
-last_updated: "2000-12-21"
+last_updated: "2001-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 13 de julio de 1993.
 
@@ -857,11 +857,11 @@ IV. Las demás que disponga el presente ordenamiento.
 
 De las conurbaciones.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Artículo 15.
 
-La Procuraduría de Desarrollo Urbano es el organismo público dotado de plena autonomía y con personalidad jurídica propia, a quien le corresponden las atribuciones de orientar y defender a los ciudadanos en la aplicación de la presente Ley, vigilar la correcta ejecución de la misma, así como promover la solución de todos los asuntos relacionados con el proceso de urbanización, conforme las disposiciones generales del Título Octavo de esta Ley y las normas que se expidan para regular su integración y funcionamiento.
+La Procuraduría de Desarrollo Urbano es el Organismo Público Descentralizado del Poder Ejecutivo, con personalidad jurídica propia y patrimonio propio, a quien le corresponden las atribuciones de orientar y defender a los ciudadanos en la aplicación de la presente Ley, vigilar la correcta ejecución de la misma, así como promover la solución de todos los asuntos relacionados con el proceso de urbanización, conforme a las disposiciones de la Ley que para tal efecto se expida.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2371,7 +2371,9 @@ I. Será obligatorio formular un plan parcial de urbanización cuando se propong
 
 II. Determinará la zonificación secundaria, especificando la clasificación de áreas, los usos, destinos y reservas en los predios donde se proponga realizar:
 
-a) Obras de expansión urbana en predios comprendidos en las áreas de reservas;
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
+a) La transformación del suelo rústico a urbanizado de un área de reservas, determinando los usos y destinos correspondientes, en acciones de expansión urbana;
 
 b) Obras de renovación urbana en predios ya urbanizados del centro de población;
 
@@ -2733,7 +2735,9 @@ V. Los organismos de participación ciudadana, vecinal y de consulta previstos e
 
 VI. Los colegios profesionales y las agrupaciones o instituciones privadas legalmente constituidas, que tengan interés en el desarrollo urbano del Estado;
 
-VII. El Tribunal de lo Administrativo y las personas quienes tengan interés jurídico en la sentencia, en el supuesto previsto en la fracción IV del artículo que antecede; y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+VII. El Tribunal de lo Administrativo y las personas quienes tengan interés jurídico en la sentencia, en el supuesto previsto en la fracción VII del artículo que antecede; y
 
 VIII. Los titulares de predios y fincas comprendidos en el ámbito de aplicación del programa o plan que se propone modificar o cancelar.
 
@@ -3547,7 +3551,9 @@ Las áreas de restricción o protección:
 
 I. No son generadoras de cesiones para destinos, por lo cual su superficie no se considerará para cuantificar las áreas de cesión que se deban generar cuando se urbanicen los predios donde se localizan; y
 
-II. Las áreas a que se refiere la fracción III del artículo anterior, en donde su uso y destino lo permitan y no se hayan indemnizado o compensado a su titular, podrán ser aportadas como áreas de cesión para destinos, conforme lo previsto en la fracción IV del artículo 251 de esta Ley.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+II. Las áreas a que se refiere la fracción III del artículo anterior, en donde su uso y destino lo permitan y no se hayan indemnizado o compensado a su titular, podrán ser aportadas como áreas de cesión para destinos, conforme lo previsto en el artículo 251 de esta Ley.
 
 ###### Artículo 202.
 
@@ -3983,11 +3989,11 @@ La Dependencia Municipal acordará la autorización del Proyecto Definitivo de U
 
 La autorización del Proyecto Definitivo de Urbanización otorga el derecho a solicitar y obtener la licencia o permiso correspondiente para su ejecución, que deberá expedirse conforme las disposiciones de los artículos 245 y 246 de esta Ley.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Artículo 238.
 
-Transcurrido el plazo que se establece en el primer párrafo del artículo anterior, sin que la Dependencia Municipal resuelva sobre la autorización de un proyecto definitivo de urbanización, el urbanizador podrá insistir ante la misma dependencia para que resuelva, disponiendo esta autoridad de un plazo perentorio de una semana; como también solicitar la intervención de la Procuraduría de Desarrollo Urbano, para los efectos previstos en la fracción XVII del artículo 433 de esta Ley.
+Transcurrido el plazo que se establece en el primer párrafo del artículo anterior, sin que la Dependencia Municipal resuelva sobre la autorización de un proyecto definitivo de urbanización, el urbanizador podrá insistir ante la misma dependencia para que resuelva, disponiendo esta autoridad de un plazo perentorio de una semana; como también solicitar la intervención de la Procuraduría de Desarrollo Urbano, para los efectos de requerir a la Dependencia Municipal o al Ayuntamiento que corresponda, informe el motivo de su incumplimiento y, en su caso, se apliquen las sanciones administrativas que procedan conforme a lo previsto en la fracción III del artículo 406 de esta Ley.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -4053,9 +4059,9 @@ III. En su caso, los recibos de la Dependencia Encargada de la Hacienda Municipa
 
 IV. Recibida la solicitud por la Dependencia Municipal, procederá a expedir de inmediato la licencia o permiso de urbanización;
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
 
-V. Si la Dependencia Municipal no expide de inmediato la licencia o permiso, el urbanizador podrá insistir ante la misma Dependencia para que resuelva, disponiendo esta autoridad de un plazo perentorio de una semana; como también solicitar la intervención de la Procuraduría de Desarrollo Urbano, para los efectos previstos en la fracción XVII del artículo 433 de esta Ley; y
+V. Si la Dependencia Municipal no expide de inmediato la licencia o permiso, el urbanizador podrá insistir ante la misma Dependencia para que resuelva, disponiendo esta autoridad de un plazo perentorio de una semana; como también solicitar la intervención de la Procuraduría de Desarrollo Urbano, para los efectos de requerir a la Dependencia Municipal o al Ayuntamiento que corresponda, informe el motivo de su incumplimiento y, en su caso, se apliquen las sanciones administrativas que procedan conforme lo previsto en la fracción III del artículo 406 de esta Ley; y
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -4577,7 +4583,9 @@ VIII. En predios comprendidos en un área de reservas, en tanto se realizan las 
 
 IX. En predios de dominio público, de acuerdo a su destino y en su caso, con lo estipulado el acto o título de concesión.
 
-Los permisos o licencias que se expidan en el supuesto de la fracción IV que antecede, deberán hacerse del conocimiento de la Procuraduría de Desarrollo Urbano a efecto de que esta proceda conforme al artículo 433 de esta Ley.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Los permisos o licencias que se expidan en el supuesto de la fracción IV que antecede, deberán hacerse del conocimiento de la Procuraduría de Desarrollo Urbano.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -4617,11 +4625,11 @@ II. Si el dictamen descalifica el Proyecto de Edificación, se notificará al pr
 
 III. Si el dictamen recomienda autorizar el Proyecto de Edificación, de inmediato se expedirá la licencia o permiso de construcción, previo pago del derecho que fije la Ley de Ingresos Municipal.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Artículo 289.
 
-Transcurrido el plazo que se establece en la fracción I del artículo anterior, sin que la Dependencia Municipal resuelva sobre la autorización de un proyecto de edificación, el urbanizador podrá insistir ante la misma dependencia para que resuelva, disponiendo esta autoridad de un plazo perentorio de una semana; como también solicitar la intervención de la Procuraduría de Desarrollo Urbano, para los efectos previstos en la fracción XVII del artículo 433 de esta Ley.
+Transcurrido el plazo que se establece en la fracción I del artículo anterior, sin que la Dependencia Municipal resuelva sobre la autorización de un proyecto de edificación, el urbanizador podrá insistir ante la misma dependencia para que resuelva, disponiendo esta autoridad de un plazo perentorio de una semana; como también solicitar la intervención de la Procuraduría de Desarrollo Urbano, para los efectos de requerir a la Dependencia Municipal o al Ayuntamiento que corresponda, informe el motivo de su incumplimiento y, en su caso, se apliquen las sanciones administrativas que procedan conforme lo previsto en la fracción III del artículo 406 de esta Ley.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -4661,7 +4669,9 @@ III. Recibida la solicitud, se practicará la inspección y se dictaminará otor
 
 Transcurrido el plazo que se establece en la fracción III del artículo anterior, sin que la Dependencia Municipal resuelva sobre la certificación de habitabilidad de una edificación:
 
-I. El titular de la finca podrá insistir ante la misma dependencia para que resuelva, disponiendo esta autoridad de un plazo perentorio de una semana; como también solicitar la intervención de la Procuraduría de Desarrollo Urbano, para los efectos previstos en la fracción XVII del artículo 433 de esta Ley; y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+I. El titular de la finca podrá insistir ante la misma dependencia para que resuelva, disponiendo esta autoridad de un plazo perentorio de una semana; como también solicitar la intervención de la Procuraduría de Desarrollo Urbano, para los efectos de requerir a la Dependencia Municipal o al Ayuntamiento que corresponda, informe el motivo de su incumplimiento y, en su caso, se apliquen las sanciones administrativas que procedan conforme lo previsto en la fracción III del artículo 406 de esta Ley; y
 
 II. Si transcurre el plazo que se establece en la fracción III del artículo 293 o se agota el plazo adicional que se establece en la fracción que antecede y la Dependencia Municipal no resuelve sobre la solicitud de certificación de habitabilidad, el promovente podrá demandar mediante juicio en el Tribunal de lo Administrativo, se declare que operó a su favor la afirmativa ficta, conforme las disposiciones procesales aplicables.
 
@@ -5929,15 +5939,11 @@ VI. Los documentos que el recurrente ofrezca como pruebas, en particular la soli
 
 VII. El lugar y fecha de la promoción.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Artículo 428.
 
-El Tribunal de lo Administrativo en el procedimiento de declaración de la afirmativa ficta, de oficio requerirá al perito responsable, comparezca a:
-
-I. Ratificar el dictamen a que se refiere el artículo anterior y en su caso;
-
-II. Precisar los alcances de la autorización, permiso, licencia o acuerdo que se demanda.
+El Tribunal de lo Administrativo en el procedimiento de declaración de la afirmativa ficta, cuando se advierta que las acciones de urbanización y edificación se proponen realizarlas en sitios, predios, fincas o elementos afectos al Patrimonio Cultural del Estado, de oficio dará vista a la Procuraduría de Desarrollo Urbano y le solicitará emita su opinión respecto al dictamen del perito responsable.
 
 ###### Artículo 429.
 
@@ -5959,117 +5965,51 @@ De la integración y las atribuciones de la Procuraduría de Desarrollo Urbano.
 
 ###### Artículo 430.
 
-El Titular de la Procuraduría de Desarrollo Urbano será designado por el Congreso del Estado, a partir de la terna que integre el Consejo Estatal de Desarrollo Urbano.
+(DEROGADO, P.O. 13 DE MARZO DE 2001)
 
 ###### Artículo 431.
 
-Para ser designado Procurador de Desarrollo Urbano se requiere:
-
-I. Ser ciudadano mexicano en pleno goce de sus derechos políticos;
-
-II. Ser mayor de 30 años y menor de 60;
-
-III. Residir en el Estado, cuando menos cinco años inmediatamente anteriores al día de su designación;
-
-IV. Tener título en alguna licenciatura;
-
-V. Tener conocimientos y experiencia mínima de tres años en materia de ordenamiento y regulación del asentamiento humano; y
-
-VI. Tener disponibilidad y responsabilidad.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+(DEROGADO, P.O. 13 DE MARZO DE 2001)
 
 ###### Artículo 432.
 
-El período del cargo de Procurador de Desarrollo Urbano será de tres años y su titular sólo será removido por causa grave, conforme a las responsabilidades previstas en el artículo 91 de la Constitución Política del Estado de Jalisco.
+(DEROGADO, P.O. 13 DE MARZO DE 2001)
 
 ###### Artículo 433.
 
-Corresponde a la Procuraduría de Desarrollo Urbano el ejercicio de las siguientes atribuciones:
-
-I. Vigilar que se cumplan y observen debidamente las disposiciones que ordenen y regulen el desarrollo urbano en la Entidad;
-
-II. Realizar acciones de orientación y difusión de esta Ley, así como de otros ordenamientos relacionados con el desarrollo urbano;
-
-III. Prestar servicios gratuitos de asesoría a los ciudadanos que requieran y le soliciten apoyo en asuntos relativos a la aplicación de las disposiciones de la presente Ley y de los programas y planes de desarrollo urbano que se expidan;
-
-IV. Escuchar y encauzar debidamente las peticiones relacionadas con la promoción del desarrollo urbano, que le formulen los vecinos de cualquier centro de población de la Entidad;
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-V. Dictaminar cuando así le sea solicitado, respecto a la aplicación de las normas que ordenen y regulen el asentamiento humano en la Entidad, con el propósito de aclarar las controversias que se presenten;
-
-VI. Representar, cuando así se le solicite, a particulares o asociaciones de vecinos en la gestión de asuntos relacionados con esta materia;
-
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
-
-VII. Representar, cuando así se le solicite, a los habitantes o propietarios de predios y fincas, en el ejercicio del derecho previsto en los artículos 169 y 170 de esta Ley, para lo cual previo acuerdo fundado y motivado, solicitará a la autoridad encargada de la vigilancia y control de esas acciones los informes respecto a las contravenciones, denuncias y en su caso la aplicación de medidas de seguridad a que se refiere el Capítulo III del Titulo Séptimo de esta Ley. La autoridad requerida dentro de los diez días hábiles siguientes a su recepción, rendirá informe fundado y motivado. La falta de observancia a esta disposición se hará del conocimiento del Congreso del Estado para que en su caso, implemente las medidas que señalan los artículos 171 y 406 de esta Ley;
-
-VIII. Ejercer de oficio la acción prevista en el artículo 170 de esta Ley, en defensa de la integridad de los bienes afectos al Patrimonio Cultural del Estado;
-
-IX. Representar, cuando así se le solicite, a quienes interpongan el recurso de reconsideración en los casos previstos en el artículo 436 de esta misma Ley;
-
-X. Promover se declaren las nulidades a que se refieren las fracciones I y II del artículo 415 de esta Ley;
-
-XI. Intervenir en la celebración del convenio previsto en el artículo 390 de este ordenamiento, para ejecutar el complemento de las obras de urbanización en un desarrollo progresivo en la acción urbanística por objetivo social;
-
-XII. En coordinación con la Secretaría, promover acuerdos de coordinación con dependencias y organismos federales y municipales, tendientes a ejecutar acciones de conservación y mejoramiento en sitios y fincas afectos al Patrimonio Cultural del Estado, y establecer medidas, que garanticen su integridad;
-
-XIII. Promover la participación de los grupos sociales en los procesos de consulta que se convoquen en materia de desarrollo urbano;
-
-XIV. Participar en los procesos de consulta que convoquen las autoridades, para elaborar, evaluar y revisar los programas y planes de desarrollo urbano;
-
-XV. Solicitar a las dependencias estatales y municipales información relativa a la expedición y revisión de los Programas y Planes de Desarrollo Urbano, previstos en el artículo 43 de esta Ley;
-
-XVI. Presentar al Gobernador un informe anual, relativo a la aplicación de las normas que ordenan y regulan el asentamiento humano en el Estado; y
-
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-XVII. Intervenir en los casos previstos en los artículos 238, 245 fracción V, 289 y 294 fracción I que anteceden, para los efectos de requerir a la Dependencia Municipal o al Ayuntamiento que corresponda, informe el motivo de su incumplimiento y, en su caso, se apliquen las sanciones administrativas que procedan conforme lo previsto en la fracción III del artículo 406 de esta Ley; y
-
-XVIII. Así como todas las demás que expresamente le asignen la presente Ley, su reglamento, la legislación civil y otros ordenamientos.
+(DEROGADO, P.O. 13 DE MARZO DE 2001)
 
 ###### Artículo 434.
 
-El Reglamento Interior de la Procuraduría determinará su estructura orgánica, sus funciones específicas (sic) procedimientos de operación.
+(DEROGADO, P.O. 13 DE MARZO DE 2001)
 
 ###### Artículo 435.
 
-El Ejecutivo del Estado, conforme las disposiciones de la presente Ley, expedirá su reglamento interior y proveerá todo lo necesario en relación a su integración, organización y medios necesarios para su funcionamiento.
+(DEROGADO, P.O. 13 DE MARZO DE 2001)
 
 ### CAPITULO II
 
 De la representación en defensa de los particulares.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
 ###### Artículo 436.
 
-La Procuraduría de Desarrollo Urbano representará gratuitamente a los particulares que lo soliciten, en la tramitación del recurso de revisión, cuando los actos de autoridad que controviertan se relacionen con la autorización, ejecución, determinación de contribuciones y cuotas, así como su cobro, en acciones urbanísticas por concertación, colaboración, plusvalía y objetivo social.
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+(DEROGADO, P.O. 13 DE MARZO DE 2001)
 
 ###### Artículo 437.
 
-Para solicitar la representación de la Procuraduría, los particulares deberán concurrir a fin de formular el escrito que corresponda. Recibido el escrito de solicitud por la Procuraduría, ésta procederá a informar de inmediato a la autoridad responsable sobre la petición del particular.
-
-En este caso, el término previsto para la interposición del recurso, se interrumpirá con la presentación de la solicitud del recurrente ante la Procuraduría, para que conozca los hechos y los represente en la interposición y tramitación del medio de defensa.
+(DEROGADO, P.O. 13 DE MARZO DE 2001)
 
 ###### Artículo 438.
 
-La Procuraduría de Desarrollo Urbano informará a sus representados de los trámites que realice y sus efectos, y les solicitará su aceptación para los convenios y otros actos procesales que proponga, a fin de resolver la controversia.
+(DEROGADO, P.O. 13 DE MARZO DE 2001)
 
 ###### Artículo 439.
 
-La Procuraduría de Desarrollo Urbano representará a los habitantes y propietarios de predios y fincas que lo soliciten, en el ejercicio del derecho que establecen los artículos 169 y 170 de esta misma Ley.
-
-Recibida su solicitud y denuncia de hechos, la Procuraduría notificará de inmediato a la autoridad competente en relación con los actos que se reclamen.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+(DEROGADO, P.O. 13 DE MARZO DE 2001)
 
 ###### Artículo 440.
 
-La Procuraduría de Desarrollo Urbano informará a sus representados de la posibilidad legal de intervenir y en su caso, de las acciones que emprenda en un término de quince días hábiles siguientes a la fecha de presentación de la solicitud de intervención o representación.
+(DEROGADO, P.O. 13 DE MARZO DE 2001)
 
 ### CAPITULO III
 
@@ -6077,51 +6017,43 @@ De la defensa del Patrimonio Cultural del Estado.
 
 ###### Artículo 441.
 
-La Secretaría informará a la Procuraduría de Desarrollo Urbano de las acciones que se emprendan conforme la fracción VII del artículo 56 del presente ordenamiento.
+(DEROGADO, P.O. 13 DE MARZO DE 2001)
 
 ###### Artículo 442.
 
-Conforme al régimen al que se encuentren sujetos los sitios y edificaciones de valor histórico, artístico y cultural, la Procuraduría de Desarrollo Urbano propondrá los acuerdos de coordinación entre las distintas dependencias y organismos federales, estatales y municipales, que concurran en su ordenamiento, protección y administración.
+(DEROGADO, P.O. 13 DE MARZO DE 2001)
 
 ###### Artículo 443.
 
-Los convenios de coordinación que se celebren a fin de proteger y conservar el Patrimonio Cultural del Estado, podrán establecer instancias donde participen representantes de las autoridades y de la comunidad, para promover su conservación y vigilar la aplicación de las normas que regulen su uso o destino.
+(DEROGADO, P.O. 13 DE MARZO DE 2001)
 
 ###### Artículo 444.
 
-Toda persona podrá denunciar, ante la Procuraduría de Desarrollo Urbano, los hechos, actos u omisiones que produzcan daños en bienes afectos al Patrimonio Cultural del Estado, incluyendo el deterioro de la imagen urbana en zonas típicas de los centros de población.
+(DEROGADO, P.O. 13 DE MARZO DE 2001)
 
 ###### Artículo 445.
 
-El escrito en que se formule la denuncia, se manejará con la debida reserva y contendrá:
-
-I. Nombre, domicilio y teléfono del denunciante;
-
-II. Nombre, razón social o denominación y domicilio del propietario o usuario del predio o finca afectado, en caso de conocerse, o los datos necesarios para su localización e identificación;
-
-III. Tratándose de monumentos, edificaciones o espacios públicos, los datos que permitan su localización e identificación; y
-
-IV. Breve descripción del hecho, acto u omisión que se presume produzca daños a los bienes afectos al Patrimonio Cultural o deterioro en la imagen urbana en una zona típica del centro de población.
+(DEROGADO, P.O. 13 DE MARZO DE 2001)
 
 ###### Artículo 446.
 
-Si la denuncia resultare de competencia federal, la Procuraduría de Desarrollo Urbano la remitirá para su atención y trámite a la Delegación en el Estado de la Dependencia del Gobierno Federal a quien corresponda conocer de los hechos informados.
+(DEROGADO, P.O. 13 DE MARZO DE 2001)
 
 ###### Artículo 447.
 
-Para la atención de las denuncias que recibiere, que sean de jurisdicción estatal o municipal, la Procuraduría dispondrá la práctica de una visita de verificación en el domicilio o zona señalada para comprobación de los datos aportados por el denunciante.
+(DEROGADO, P.O. 13 DE MARZO DE 2001)
 
 ###### Artículo 448.
 
-El personal comisionado para la práctica de la verificación, integrará una cédula informativa en la que registrará los hechos, actos u omisiones que hubiere observado. En caso necesario, solicitará a la Dependencia Municipal o a la Secretaría, practique una visita de inspección, en la que participará el personal que designe la Procuraduría.
+(DEROGADO, P.O. 13 DE MARZO DE 2001)
 
 ###### Artículo 449.
 
-La Procuraduría evaluará los resultados que arroje la verificación de los hechos que le sean denunciados y solicitará a las autoridades competentes, determinen y apliquen las medidas de seguridad que correspondan, para garantizar la integridad de los bienes afectos al Patrimonio Cultural y evitar el deterioro de la imagen urbana en zonas típicas de los centros de población en el Estado.
+(DEROGADO, P.O. 13 DE MARZO DE 2001)
 
 ###### Artículo 450.
 
-La Procuraduría de Desarrollo Urbano dará a conocer al denunciante, dentro de los quince días hábiles siguientes a la presentación de la denuncia, el trámite que se haya efectuado, y dentro de los noventa días hábiles siguientes, los resultados que en su caso haya arrojado la verificación, así como las medidas ejecutadas.
+(DEROGADO, P.O. 13 DE MARZO DE 2001)
 
 ## Transitorios
 
@@ -6282,3 +6214,13 @@ TERCERO. El Titular del Poder Ejecutivo expedirá el Reglamento de la Ley de Fom
 CUARTO. El Consejo Estatal para la Cultura y las Artes deberá constituirse dentro de los cuarenta y cinco días siguientes al primero de marzo del dos mil uno.
 
 QUINTO.- El Fondo Estatal para la Cultura y las Artes, que se establezca en el Presupuesto de Egresos, deberá ser ejercido una vez creada la figura jurídica que acuerde el Ejecutivo.
+
+P.O. 13 DE MARZO DE 2001.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Quien actualmente funja como Procurador de Desarrollo Urbano del Estado de Jalisco deberá cumplir su encargo por los seis años, iniciando este término a partir del día en que tomó protesta ante la soberanía de este Poder Legislativo.
+
+CUARTO. Las reformas y adiciones de los ordenamientos señalados en los artículos primero y segundo de este decreto entrarán en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
