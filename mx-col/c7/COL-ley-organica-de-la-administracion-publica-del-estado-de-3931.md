@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-3931"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-11-16"
-last_updated: "1985-11-16"
+last_updated: "1986-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1986.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 1985.
 
@@ -67,9 +67,11 @@ El titular del Ejecutivo Estatal contará con las unidades de coordinación, ase
 
 Las dependencias y entidades de la Administración Pública del Estado conducirán sus actividades de acuerdo con los planes, programas y proyectos aprobados con base en las políticas que para el logro de los objetivos y prioridades determine el Titular del Ejecutivo Estatal.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1986)</small>
+
 ###### ARTICULO 6o.
 
-Las Secretarías: General de Gobierno, de Programación y Finanzas, de la Contraloría, de Desarrollo y de Educación, Cultura y Deporte, dependerán directamente del Gobernador y tendrán igual rango, por lo que no habrá entre ellas preeminencia alguna. Serán consideradas como dependencias de coordinación global y sus titulares ejercerán las funciones de su competencia por acuerdo del Gobernador.
+Las Secretarías: General de Gobierno, de Programación y Finanzas, de la Contraloría, de Desarrollo, de Educación, Cultura y Deporte y de Salud y Bienestar Social, dependerán directamente del Gobernador y tendrán igual rango, por lo que no habrá entre ellas preemicencia (sic) alguna. Serán consideradas como dependencias de coordinación global y sus titulares ejercerán las funciones de su competencia por acuerdo del Gobernador.
 
 ###### ARTICULO 7o.
 
@@ -123,6 +125,8 @@ Las dependencias y entidades están obligadas a proporcionarse la información y
 
 DE LA COMPETENCIA DE LAS DEPENDENCIAS CENTRALIZADAS.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1986)</small>
+
 ###### ARTICULO 19o.
 
 Para el estudio, planeación y despacho de los negocios del orden administrativo, el Poder Ejecutivo Estatal contará con las siguientes dependencias:
@@ -136,6 +140,8 @@ Secretaría de la Contraloría
 Secretaría de Desarrollo
 
 Secretaría de Educación, Cultura y Deporte
+
+Secretaría de Salud y Bienestar Social
 
 Procuraduría General de Justicia
 
@@ -335,6 +341,26 @@ XV.- Refrendar las leyes, reglamentos y decretos del Ejecutivo Estatal que le co
 
 XVI.- Los demás que le atribuyan las Leyes y Reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otra dependencia.
 
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 1986)</small>
+
+ARTICULO 24 BIS.- A la Secretaría de Salud y Bienestar Social, corresponde el despacho de los siguientes asuntos:
+
+I.- Coordinar, a través de su titular, al Sistema Estatal de Salud.
+
+II.- Representar a través de su titular, al Gobierno del Estado, ante el Subcomité de Salaud (sic) y Seguridad Social y ante los órganos colegiados del I.M.S.S., I.S.S.S.T.E. y D.I.F.
+
+III.- Evaluar la ejecución del programa estatal de salud.
+
+IV.- Ejercer las funciones de autoridad sanitaria federal que se descentralicen y las de competencia local.
+
+V.- Estimar y coordinar la operatividad de los servicios médicos y de salud pública.
+
+VI.- Administrar los recursos financieros federales que le sean transferidos por la Secretaría de Salud del Ejecutivo Federal y los que provengan del Gobierno Estatal.
+
+VII.- Elaborar el proyecto del programa Presupuesto anual.
+
+VIII.- Las demás que le atribuyan las leyes, reglamentos y convenios vigentes, siempre que esta Ley no los señale como exclusivas de otras dependencias.
+
 ###### ARTICULO 25o.
 
 A la Procuraduría General de Justicia corresponde, además de las facultades y obligaciones que específicamente le confieren la Constitución Política del Estado y demás leyes relativas, el despacho de los siguientes asuntos:
@@ -456,3 +482,9 @@ Diputado Presidente, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- Diputado Secre
 Por tanto mando se imprima, publique, circule y observe.
 
 Palacio de Gobierno, Colima, Colima, a 15 de noviembre de 1985.- El Gobernador Const. del Estado, LIC. ELIAS ZAMORA VERDUZCO.- Rúbrica.- El Secretario General de Gobierno, LIC. HECTOR DUEÑAS GONZALEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE FEBRERO DE 1986.
+
+UNICO.- El presente Decreto comenzará a surtir sus efectos al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
