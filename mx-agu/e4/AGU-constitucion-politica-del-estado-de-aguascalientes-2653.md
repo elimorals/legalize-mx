@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2000-10-23"
+last_updated: "2001-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -351,11 +351,11 @@ La infracción de esta disposición será sancionada con la pérdida de la inves
 
 El Congreso del Estado se instalará cada tres años, el 15 de noviembre del año de la elección.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2001)</small>
 
 ###### Artículo 24.
 
-El Congreso del Estado tendrá en el año dos períodos ordinarios de sesiones: El primero comenzará el 15 de noviembre y terminará el 31 de enero, y el segundo comprenderá del 30 de abril al 15 de julio.
+El Congreso del Estado tendrá en el año dos períodos ordinarios de sesiones: El primero comenzará el 15 de noviembre y terminará el 15 de febrero, y el segundo comprenderá del 30 de abril al 31 de julio.
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 1977)</small>
 
@@ -1501,7 +1501,7 @@ P.O. 5 DE ENERO DE 1975.
 
 DECRETO NÚMERO 12, POR EL QUE SE ADICIONA LA FRACCIÓN XXX AL ARTÍCULO 27 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES..
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 5 DE ENERO DE 1975.
 
@@ -1770,6 +1770,10 @@ DECRETO NÚMERO 127, QUE REFORMA EL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA L
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La Ley Estatal Electoral y el Consejo Estatal Electoral, conservarán su denominación, hasta en tanto, no se modifiquen al respecto las leyes de la materia.
+
+P.O. 12 DE MARZO DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor el 1° de noviembre del 2001.
 
 ###### ARTICULO UNICO.
 
