@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-266
 country: "mx"
 rank: "codigo"
 publication_date: "1980-09-13"
-last_updated: "1994-11-08"
+last_updated: "1998-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE NOVIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE ENERO DE 1998.
 
 Código publicado en la Gaceta Oficial de Veracruz-Llave, el sábado 13 de septiembre de 1980.
 
@@ -1075,7 +1075,7 @@ Al particular que ilegítimamente prive a otro de su libertad física, se le imp
 
 ### CAPITULO III. SECUESTRO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 140.
 
@@ -1087,7 +1087,7 @@ Al que obligue a otro a prestar servicios laborales, se le impondrán de uno a c
 
 ###### ARTICULO 141.
 
-Se impondrán de dos a veinte años de prisión y multa hasta de trescientas cincuenta veces el salario mínimo, al que prive de su libertad a otro si se realiza dentro de las siguientes hipótesis:
+Se impondrán de veinte a treinta años de prisión y multa de quinientas veces el salario mínimo, al que prive de su libertad a otro si se realiza dentro de las siguientes hipótesis:
 
 I.- Cuando se trate de obtener rescate;
 
@@ -1103,21 +1103,21 @@ V.-Cuando siendo extraño a su familia, sustraiga, retenga o por medio de engañ
 
 Si el secuestrador pone espontáneamente en libertad a la víctima dentro de los tres días siguientes a la consumación del delito, sin causarle daño, se le impondrán de seis meses a dos años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, G.O. 24 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 142.
 
-El secuestro será sancionado de cinco a treinta años de prisión y multa hasta de cuatrocientas cincuenta veces el salario mínimo, en los siguientes casos:
+Se impondrá de uno a ocho años de prisión y multa hasta de quinientas veces el salario mínimo, al que en relación con las conductas sancionadas por el artículo anterior y fuera de las causas de exclusión del delito previstas por la ley:
 
-I.- Cuando se haga uso de amenazas graves, malos tratos o tormento en la víctima;
+I. Actúe como intermediario en las negociaciones del rescate sin el acuerdo de los familiares o el de quienes gestionen legítimamente a favor de la víctima;
 
-II.-Cuando se realice en lugar desprotegido;
+II. Colabore con la difusión de las exigencias y condiciones o mensajes de los secuestradores, fuera del estricto derecho a la información.
 
-III.-Cuando el agente se ostente como autoridad sin serlo;
+III. Intervenga, con fines lucrativos, como asesor de los familiares o de quienes gestionen legítimamente a favor de la víctima, y evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del secuestro;
 
-IV.-Cuando fuere cometido por funcionario público; y
+IV. Aconseje o disuada para no presentar la denuncia del secuestro cometido o bien, el no colaborar o obstruir la actuación de las autoridades, y
 
-V.-Cuando se produzca por tres o más agentes.
+V. Intimide a la víctima, a sus familiares o a sus gestores para no colaborar con las autoridades competentes.
 
 ### CAPITULO V. ASALTO
 
@@ -1456,6 +1456,14 @@ A quien en el medio rural, robe algún instrumento o máquina de labranza, o al�
 I.-Si el valor de lo robado no excediere de cien veces el salario, con prisión de dos meses a cinco años y multa hasta de cincuenta veces dicho salario; y
 
 II.-Si el valor de lo robado, excediere de cien veces el salario, con prisión de dos a diez años y multa hasta de quinientas veces el salario.
+
+> <small>(ADICIONADO, G.O. 24 DE ENERO DE 1998)</small>
+
+ARTICULO 177 BIS.- Al que se apodere de mercancías u objetos que se transporten en vehículos que circulen por carreteras o caminos, o bienes que sean de propiedad o lleven consigo pasajeros que en ellos se transporten, se le impondrá de diez a veinte años de prisión y multa hasta de quinientas veces el salario mínimo. Cuando el robo se realice con violencia se aumentará un tercio del máximo de la pena de prisión establecida.
+
+Al que sin tomar las medias indispensables para cerciorarse de su procedencia legítima, adquiera o comercie mercancía o bienes procedentes de robos realizados a vehículos que circulen en carreteras o caminos, se le impondrá de uno a cinco años de prisión y multa hasta de trescientas veces el salario mínimo.
+
+Al que por más de una ocasión participe en la adquisición o comercialización de mercancías o bienes procedentes de robos a vehículos que circulen en carreteras o caminos se le impondrá prisión de cinco a quince años y multa hasta de quinientas veces el salario mínimo.
 
 > <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
@@ -2517,17 +2525,27 @@ b).-El cónyuge, concubina o concubinario y parientes colaterales por consanguin
 
 c).-Los que estén ligados con el delincuente por amor, respeto, gratitud o estrecha amistad.
 
-### CAPITULO I. FRACCIONAMIENTO INDEBIDO
+### CAPÍTULO VIII. PRESERVACION DEL LUGAR DE LOS HECHOS
 
-> <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
+> <small>(ADICIONADO, G.O. 24 DE ENERO DE 1998)</small>
+
+ARTICULO 284 BIS. Al que altere, modifique, cambie, obstruya o destruya, mueva o manipule de cualquier forma los vestigios, huellas, objetos, instrumentos o cadáveres que se encuentren en el lugar de los hechos como resultado de la acción u omisión delictivas, se le impondrá de seis meses a tres años de prisión y multa hasta de cincuenta veces el salario mínimo.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 24 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 283.
 
 Al que quebrante una sanción de privación, suspensión o inhabilitación de derechos, se le impondrá hasta de ciento cincuenta veces el salario mínimo. En caso de reincidencia se duplicará la multa y se impondrá prisión de seis meses a dos años.
 
-### CAPITULO II. VENTA O PROMESA DE VENTA INDEBIDA
+### CAPÍTULO IX. DELITOS DE LOS SERVIDORES PUBLICOS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JULIO DE 1991)</small>
+> <small>(ADICIONADO, G.O. 24 DE ENERO DE 1998)</small>
+
+ARTICULO 284 TER. Al servidor público que, por cualquier medio, facilite información sobre mandamientos expedidos por la autoridad judicial y ello tenga como consecuencia que se evada de la acción aquél contra el que vaya dirigido, se le impondrán de seis meses a tres años de prisión y multa hasta de cincuenta veces el salario mínimo, además será destituido de su empleo.
+
+Igual sanción se aplicará al servidor público que indebidamente quebrante la reserva de las actuaciones o proporcione copia de ellas o de los documentos que obren en la averiguación previa.
+
+> <small>(ADICIONADO CON LOS CAPITULO Y ARTICULOS QUE LO INTEGRAN, 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 284.
 
@@ -2543,29 +2561,33 @@ IV.-Use de cualquier recurso, incidente o medio notoriamente improcedente o ileg
 
 V.-Pida términos para probar lo que notoriamente no puede demostrar o no ha aprovechar su parte.
 
-> <small>(ADICIONADO CON LOS CAPITULO Y ARTICULOS QUE LO INTEGRAN, 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 24 DE ENERO DE 1998)</small>
 
-### CAPITULO III. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TITULO
+### CAPITULO I. FRACCIONAMIENTO INDEBIDO
 
-> <small>(ADICIONADO, 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
 
-### CAPITULO I. DE LOS DELITOS ELECTORALES
+### CAPITULO II. VENTA O PROMESA DE VENTA INDEBIDA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JULIO DE 1991)</small>
 
 ## TITULO XVI. DELITOS CONTRA EL DESARROLLO URBANO Y EL DERECHO A LA VIVIENDA
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, 23 DE SEPTIEMBRE DE 1986)</small>
 
-### CAPITULO II. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TITULO
+### CAPITULO III. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TITULO
 
-> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(ADICIONADO, 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 285.
 
 Se impondrá de tres a diez años de prisión y multa hasta de mil veces el salario mínimo, al que sin contar con el permiso o licencia de la autoridad correspondiente, inicie obra de construcción de fraccionamiento o de lotificación.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
+### CAPITULO I. DE LOS DELITOS ELECTORALES
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 286.
 
@@ -2580,6 +2602,10 @@ I.-Venda o prometa vender lotes de fraccionamiento o de lotificaciones; o
 II.-Venda o prometa vender construcciones ubicadas en conjuntos habitacionales.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
+### CAPITULO II. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TITULO
+
+> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 287.
 
@@ -2872,3 +2898,7 @@ G.O. 8 DE NOVIEMBRE DE 1994.
 PRIMERO.-El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO.-Se derogan las disposiciones que se opongan al presente.
+
+G.O. 24 DE ENERO DE 1998.
+
+ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
