@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2002-12-25"
+last_updated: "2003-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2003.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -65,7 +65,7 @@ Para vehículos cuyo modelo corresponda al año en curso, se tomará como base p
 
 El avalúo pericial a que se refiere el primer párrafo de este artículo, deberá ser practicado considerando el valor real del vehículo en la fecha de que se efectúe el trámite de pago del impuesto. Las autoridades fiscales estarán facultadas para revisar el peritaje presentado por el contribuyente, el que podrá ser rechazado en caso de que no se apegue al valor real del vehículo. Esta revisión se efectuará como un requisito previo al pago del impuesto.
 
-(ART. 3o.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
+ART. 3o.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -433,13 +433,17 @@ ART. 36.- No se causan los derechos a que se refiere este Capítulo:
 
 I.- Los certificados, copias certificadas o copias simples al carbón que estén gravadas expresamente en otros Capítulos de esta Ley;
 
-II.- Las certificaciones que hagan y las copias certificadas o copias simples que expidan las autoridades judiciales;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2003)</small>
+
+II.- Las certificaciones que hagan y las copias certificadas o copias simples que expidan las autoridades judiciales, con excepción de la información proporcionada en los términos señalados en el Capítulo XIII del Título Segundo de esta Ley;
 
 III.- Las copias certificadas que se expidan a quejosos para ser exhibidas en juicios de amparo promovidos contra actos de las autoridades del Estado.
 
 En la copia certificada deberá expresarse que su expedición se hace para ser presentada como prueba en el juicio de amparo respectivo; y
 
-V (SIC).- Los certificados de insolvencia.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2003)</small>
+
+IV.- Los certificados de insolvencia.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2087,11 +2091,11 @@ Cerveza 1471 1471 1471
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 1999)</small>
 
-Agencia matriz con
+Agencia matriz
 
-venta al público en
+con venta al público
 
-general 1911 1911 1911
+en general 1911 1911 1911
 
 II.- (DEROGADA, P.O. 17 DE MARZO DE 1999)
 
@@ -2389,6 +2393,88 @@ d).- Para traslado y custodia de bienes
 
 muebles, fondos y valores 25.00
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2003)</small>
+
+### CAPITULO XIII
+
+DERECHOS POR BUSQUEDA DE INFORMACION PUBLICA NO DISPONIBLE, POR REPRODUCCION Y ENVÍO DE MATERIALES QUE CONTENGAN INFORMACION PUBLICA DEL GOBIERNO DEL ESTADO DE SINALOA O DE SUS ENTIDADES PUBLICAS
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2003)</small>
+
+ART. 78 bis-3.- Por la reproducción de materiales que contengan información pública del Gobierno del Estado de Sinaloa o de sus entidades públicas, se causarán derechos conforme a la siguiente:
+
+T A R I F A
+
+CONCEPTO VECES EL SALARIO
+
+MINIMO GENERAL
+
+DIARIO VIGENTE
+
+1.- Por reproducción de:
+
+a).- Por hoja impresa en sistemas
+
+de copiado en proceso fotomecánico
+
+o impresión en hoja de tira continua: 0.05
+
+b).- Por hoja impresa en impresora
+
+láser o inyección de tinta: 0.15
+
+c).- Por copia heliográfica o fotográfica de planos:
+
+Tamaño oficio: 0.25
+
+d).- Por copia heliográfica de planos:
+
+Tamaño 54 x 35 centímetros: 0.20
+
+Tamaño 45 x 68 centímetros: 0.25
+
+Tamaño 103 x 35 centímetros: 0.30
+
+Tamaño 103 x 68 centímetros: 0.60
+
+e).- Por calca de planos a tinta:
+
+Por cada decímetro cuadrado
+
+o fracción: 0.15
+
+El mismo trabajo a lápiz, por cada
+
+decímetro cuadrado o fracción: 0.10
+
+f).- Por dibujo:
+
+En hoja hasta tamaño carta: 0.65
+
+Por decímetro cuadrado o fracción
+
+excedente: 0.10
+
+2.- Reproducción o captura de archivos en dispositivos magnéticos o discos compactos, por cada unidad de:
+
+a).- Microdisco magnético de
+
+9 centímetros: 0.50
+
+b).- Disco compacto grabado: 1.25
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2003)</small>
+
+ART. 78 bis-4.- Por el envío de materiales que contengan información pública del Gobierno del Estado de Sinaloa o de sus entidades públicas, al domicilio del solicitante, se causarán derechos por una cantidad equivalente a 1.25 salarios mínimos generales diario vigente.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2003)</small>
+
+ART. 78 bis-5.- Por la búsqueda exhaustiva de información pública del Gobierno del Estado de Sinaloa o de sus entidades públicas que no se encuentre disponible en el momento, se causarán derechos por una cantidad equivalente a 2 salarios mínimos generales diario vigentes.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2003)</small>
+
+ART. 78 bis-6.- Cuando en esta Ley se tenga fijado el cobro de algún derecho, por la reproducción de materiales que contengan información pública del Gobierno del Estado de Sinaloa o de sus entidades públicas, no se aplicará la tarifa que señala este Capítulo.
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO UNICO
@@ -2594,90 +2680,6 @@ ART. 116.- Cuando un impuesto del Estado sea condonado totalmente, y en forma ge
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ART. 117.- La recaudación del gravamen adicional municipal y demás participaciones municipales en impuestos estatales, estará a cargo de las Oficinas Recaudadoras de Rentas del Estado y será entregada a las respectivas Tesorerías Municipales, con comprobación correspondiente, mediante liquidación mensual formulada por la Secretaría de Hacienda Pública y Tesorería.
-
-### CAPITULO XVI. Impuesto sobre Juegos Permitidos
-
-ART. 232.- Es objeto de este impuesto la explotación de los juegos permitidos que se mencionan en este Capítulo.
-
-ART. 233.- Es causante de este impuesto quien explote por cualquier título, los establecimientos o centros en que se practiquen los juegos permitidos.
-
-ART. 234.- El impuesto sobre juegos permitidos, se causará de acuerdo con la siguiente:
-
-T A R I F A
-
-C a t e g o r í a s Primera Segunda Tercera
-
-I.- Mesas de
-
-Billar cada una $ 75.00 $ 50.00 $ $ 25.00
-
-II.- Mesas de
-
-Boliche, cada
-
-una 200.00 150.00 75.00
-
-III.- Mesas de
-
-Futbolito,
-
-cada una 75.00 50.00 25.00
-
-IV.- Dados, por
-
-Establecimiento 200.00 150.00 100.00
-
-V.- Palenques de
-
-pelea de gallos,
-
-por función 1,500.00 1,000.00 500.00
-
-VI.- Ruleta, por
-
-Establecimiento 1,500.00 1,000.00 500.00
-
-ART. 235.- El impuesto se causa aún cuando en el establecimiento no se cobre por el servicio de los juegos o por la entrada a la función.
-
-ART. 236.- No causarán este impuesto las instituciones sociales o deportivas en que se practiquen juegos permitidos, cuando en las escrituras o estatutos de las mismas aparezcan que no tienen carácter lucrativo y siempre que las cuotas que se cubran por las prácticas de esos juegos se destinen exclusivamente al mantenimiento o fines de dichas instituciones.
-
-La categoría aplicabel (sic) para el pago del impuesto será fijada conforme al Reglamento que expida el Ejecutivo del Estado.
-
-ART. 237.- El impuesto se causará por separado de otros impuestos que graven el establecimiento y será pagado por mensualidades adelantadas, dentro de los primeros quince días del mes a que corresponda. El impuesto; por función de peleas de gallos se pagará previamente a su celebración.
-
-ART. 238.- El pago de este impuesto se hará en la Oficina Recaudadora a cuya jurisdicción corresponda la ubicación del establecimiento.
-
-ART. 239.- Los causantes de este impuesto están obligados:
-
-I.- A registrar sus establecimientos en la Oficina Recaudadora de su jurisdicción y a presentar los avisos y declaraciones en la forma y términos que establezca esta Ley;
-
-II.- A suministrar los informes y datos que les soliciten las autoridades fiscales y a permitir las visitas de inspección que éstas ordenen;
-
-III.- A pagar oportunamente el impuesto;
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
-
-IV.- A dar aviso a la Oficina Recaudadora correspondiente, haciendo uso de las formas oficiales aprobadas por la Secretaría de Hacienda Pública y Tesorería, dentro de los diez días hábiles siguientes a la fecha en que ocurra cualquiera de los siguientes hechos:
-
-a).- De iniciación de operaciones;
-
-b).- De cambio o baja;
-
-1.- Cambio de denominación o razón social;
-
-2.- Cambio de actividad;
-
-3.- Cambio de domicilio;
-
-4.- Traspaso de la negociación;
-
-5.- Suspensión temporal de actividades; y
-
-6.- Clausura definitiva o cesación de actividades.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 239 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
 ## TITULO TERCERO. DE LOS PRODUCTOS
 
@@ -3382,6 +3384,12 @@ Artículo Quinto.- La derogación del Capítulo II, del TÍTULO PRIMERO y sus ar
 P.O. 25 DE DICIEMBRE DE 2002.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 18 DE AGOSTO DE 2003.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo. Las demás entidades públicas a que se refiere el artículo 5, fracción IV de la Ley de Acceso a la Información Pública del Estado de Sinaloa, realizarán los cobros relativos, en los términos previstos en el Capítulo XIII, Título Segundo de la Ley de Hacienda del Estado de Sinaloa, con excepción de los Ayuntamientos de los Municipios, todas las dependencias y entidades de la administración pública municipal y paramunicipal, y las personas de derecho público y privado, cuando en el ejercicio de sus actividades actúen en auxilio de los órganos municipales antes citados y cuando ejerzan gastos públicos, reciban subsidios o subvención de los mismos.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
 
