@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-empleados-del-gobierno-del-estado-698
 country: "mx"
 rank: "ley"
 publication_date: "1958-06-07"
-last_updated: "1961-09-30"
+last_updated: "1963-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PENSIONES PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1961.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 1963.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el sábado 7 de junio de 1958.
 
@@ -109,9 +109,11 @@ III.- Préstamos hipotecarios.
 
 IV.- Préstamos quirográficos a corto plazo.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
+
 ###### ARTICULO 9°.
 
-La administración del Fondo de Pensiones y la impartición de los servicios sociales a que se refieren los artículos anteriores, estarán a cargo de una dependencia del Gobierno que se denominará "Oficina de Pensiones del Estado de Oaxaca" y que estará adscrita al Monte de Piedad del Estado, cuya organización y funcionamiento quedarán sujetos al régimen que en esta propia Ley se consigna.
+La administración del Fondo de Pensiones y la impartición de los servicios sociales a que se refieren los artículos anteriores, estarán a cargo de una dependencia del Gobierno que se denominará Oficina de Pensiones del Estado de Oaxaca cuya organización y funcionamiento quedarán sujetos al régimen que en esta propia Ley se consigna.
 
 ###### ARTICULO 10.
 
@@ -179,9 +181,11 @@ Por lo que hace a la aportación de los trabajadores a que se refiere el inciso 
 
 Cuando el Gobierno del Estado o las Instituciones descentralizadas no puedan hacer a un trabajador los descuentos que le correspondan para su aportación al Fondo de Pensiones, porque goce de licencia sin sueldo o cualquiera otra causa justificada, dichas Entidades darán aviso a la Oficina de Pensiones para que ésta inmediatamente les devuelva la parte de su cooperación equivalente a los descuentos no efectuados; pero en este caso, no se tomará en cuenta al trabajador el tiempo que haya dejado de contribuir al Fondo para los efectos del cómputo del tiempo de servicios.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
+
 ###### ARTICULO 24.
 
-Cuando los empleados a quienes se haya dejado de hacer los descuentos deseen que se les compute el tiempo que a éstos corresponda, entregarán su importe a la Oficina de Pensiones con un interés del ocho por ciento anual.
+Cuando los empleados a quienes se haya dejado de hacer los descuentos deseen que se les compute el tiempo que a éstos corresponda, entregarán su importe a la Oficina de Pensiones con un interés del seis por ciento anual.
 
 ###### ARTICULO 25.
 
@@ -199,11 +203,11 @@ El cómputo de los años de servicio será simple. Para este cómputo se tomará
 
 Toda fracción de más de seis meses, al computar el último año de servicios, se considerará como año completo.
 
-> <small>(F. DE E., P.O. 7 DE JUNIO DE 1958)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
 
 ###### ARTICULO 28.
 
-En caso de que el trabajador tuviera que separarse temporalmente del servicio por desempeño de comisiones oficiales conferidas por el Gobierno del Estado, por cargo de elección popular, por cargos sindicales o por licencias por enfermedad concedidas de acuerdo con la Ley del Servicio Civil, y posteriormente se reincorpore al servicio, el periodo que abarque el desempeño de las comisiones, el cargo para el que haya sido electo o la licencia, se computará dentro del tiempo de servicio que corresponda, siempre y cuando el trabajador haya cubierto oportunamente sus descuentos para el Fondo de Pensiones sobre las percepciones que tenía al dejar el servicio. Si el trabajador no hubiere pagado sus aportaciones y desee que el tiempo a que se hace referencia se le compute como tiempo de servicio, cubrirá a la Oficina de Pensiones el importe total de aquéllas, mas el ocho por ciento anual de intereses.
+En caso de que el trabajador tuviera que separarse temporalmente del servicio por desempeño de comisiones oficiales conferidas por el Gobierno del Estado, por cargo de elección popular, por cargos sindicales o por licencias por enfermedad concedidas de acuerdo con la Ley respectiva, y posteriormente se reincorpore al servicio, el periodo que abarque el desempeño de las comisiones, el cargo para el que haya sido electo o la licencia, se computará dentro del tiempo de servicio que corresponda, siempre y cuando el trabajador haya cubierto oportunamente sus descuentos para el Fondo de Pensiones sobre las percepciones que tenía al dejar el servicio. Si el trabajador no hubiere pagado sus aportaciones y desee que el tiempo a que se hace referencia se le compute como tiempo de servicio, cubrirá a la Oficina de Pensiones el importe total de aquéllas, mas el seis por ciento anual de interés.
 
 > <small>(F. DE E., P.O. 7 DE JUNIO DE 1958)</small>
 
@@ -247,21 +251,27 @@ I.- El trabajador que tenga sesenta años cumplidos de edad y cuando menos quinc
 
 II.- El trabajador que se inhabilite física o intelectualmente, de manera permanente o temporal y por causa o consecuencia del servicio, sea cual fuere el tiempo de éste, siempre que quede comprendido dentro de las disposiciones de esta Ley y no haya dejado de cumplir con las obligaciones que la misma le impone.
 
-III.- El trabajador que se inhabilite física o intelectualmente, de manera permanente o temporal, por causas ajenas al servicio, si tiene por lo menos quince años de contribuir al Fondo y siempre que quede comprendido dentro de las disposiciones de esta Ley y no haya dejado de cumplir con las obligaciones que la misma le impone.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 1963)</small>
+
+III.- El trabajador que se inhabilite física o intelectualmente, de manera permanente o temporal, por causas ajenas al servicio, si tiene por lo menos cinco años de contribuir al Fondo y siempre que quede comprendido dentro de las disposiciones de esta Ley y no haya dejado de cumplir con las obligaciones que la misma le impone.
 
 IV.- Los deudos del trabajador o pensionista que fallezca a causa o consecuencia del servicio cualquiera que fuere el tiempo de éste, pero siempre que el trabajador haya contribuido al Fondo de Pensiones a partir de la vigencia de esta Ley y cumplido con los demás requisitos que la misma impone.
 
-Si el trabajador muriese después de que haya entrado en vigor esta Ley y antes de recibir el primer pago de sus sueldos, el descuento para el Fondo de Pensiones se hará de la cantidad que se le entregue a sus deudos por este concepto, y éstos conservarán sus derechos expeditos para la pensión que les pudiere corresponder.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
 
-El Consejo directivo de la Oficina de Pensiones reglamentará los procedimientos para que se determinen los casos de inhabilitación o de fallecimiento del trabajador o pensionista, que deban considerarse originados por causa o consecuencia del servicio de que habla este artículo.
+Si la muerte del trabajador no constituye riesgo profesional, por ser consecuencia de circunstancias comunes, sus deudos tendrán derecho al 50% de la pensión señalada en la fracción IV del artículo 56.
+
+> <small>(DEROGADO TERCER PARRAFO, P.O. 17 DE AGOSTO DE 1963)</small>
 
 ###### ARTICULO 36.
 
 Las pensiones se concederán a solicitud del trabajador, de sus deudos con derecho a pensión, de sus representantes legítimos o por determinación de la Oficina de Pensiones.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
+
 ###### ARTICULO 37.
 
-Las solicitudes de pensión deberán quedar resueltas en un plazo no mayor de sesenta días, los que se contarán a partir de la fecha de su presentación.
+Las solicitudes de pensión deberán quedar resueltas en un plazo no mayor de treinta días, los que se contarán a partir de la fecha de su presentación.
 
 ###### ARTICULO 38.
 
@@ -315,9 +325,11 @@ I.- La que hubiere sido provocada voluntariamente por el trabajador.
 
 II.- La que resulte a consecuencia del uso, por el trabajador, de bebidas alcohólicas o drogas enervantes o estupefacientes.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
+
 ###### ARTICULO 47.
 
-La pensión por inhabilitación se retirará cuando desaparezca el motivo que le dio origen. La Oficina de Pensiones queda facultada para mandar practicar los reconocimientos necesarios a los pensionistas, cada vez que lo juzgue necesario; pero por regla general se llevarán a cabo cada seis meses. Se retirará también la pensión cuando el pensionista vuelva a desempeñar algún cargo o empleo del Gobierno del Estado o de Instituciones oficiales descentralizadas.
+La pensión por inhabilitación se retirará cuando desaparezca el motivo que le dio origen o cuando el pensionista vuelva a desempeñar algún cargo o empleo de Gobierno del Estado.
 
 > <small>(F. DE E., P.O. 7 DE JUNIO DE 1958)</small>
 
@@ -395,49 +407,41 @@ DEL MONTO DE LAS PENSIONES.
 
 El monto de las pensiones se fijará como sigue:
 
-I.- Para el trabajador comprendido en la fracción I del artículo 35, el tanto por ciento del sueldo que corresponde según los años de servicio, conforme al artículo 58 de esta Ley y a la tabla siguiente:
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 1963)</small>
 
-15 años de servicio 30%
+I.- Para el trabajador comprendido en la fracción I del artículo 35, el tanto por ciento del sueldo actual que corresponda según los años de servicio, conforme a la tabla siguiente:
 
-16 " " " 33%
+15 años de servicios 40%
 
-17 " " " 36%
+16 " " " 42.5%
 
-18 " " " 40%
+17 " " " 45%
 
-19 " " " 43%
+18 " " " 47.5%
 
-20 " " " 46%
+19 " " " 50%
 
-21 " " " 50%
+20 " " " 52.5%
 
-22 " " " 53%
+21 " " " 55%
 
-23 " " " 56%
+22 " " " 60%
 
-24 " " " 60%
+23 " " " 65%
 
-25 " " " 63%
+24 " " " 70%
 
-26 " " " 66%
+25 " " " 75%
 
-27 " " " 70%
+26 " " " 80%
 
-28 " " " 73%
+27 " " " 85%
 
-29 " " " 75%
+28 " " " 90%
 
-30 " " " 80%
+29 " " " 95%
 
-31 " " " 85%
-
-32 " " " 89%
-
-33 " " " 93%
-
-34 " " " 97%
-
-35 " " " 100%
+30 " " " 100%
 
 II.- Para el trabajador que se inhabilite según la fracción II, del artículo 35 de esta Ley, el sueldo íntegro que disfrutaba al ocurrir la inhabilitación.
 
@@ -451,15 +455,19 @@ b).- Si el trabajador tenía quince años de servicios, o más, se aplicará la 
 
 V.- La pensión que se conceda a los deudos del pensionista por vejez será el setenta y cinco por ciento del monto original de la pensión primitiva.
 
-VI.- Cuando fallezca un pensionista por inhabilitación, los deudos percibirán solamente el importe de seis meses de la pensión que se les tenía concedida.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 1963)</small>
+
+VI.- Cuando fallezca un pensionista por inhabilitación, los deudos percibirán el 50% de la pensión durante el término de cinco años.
 
 ###### ARTICULO 57.
 
 La cuota diaria de una pensión que se asigne de acuerdo con esta Ley no será inferior a $2.50 diarios, ni mayor del importe de los sueldos que deban computarse de acuerdo con las disposiciones del artículo 161 de la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
+
 ###### ARTICULO 58.
 
-Para calcular el monto de la pensión, se tomará el promedio de los sueldos disfrutados por el trabajador en los cinco años inmediatos anteriores a aquel en que se le vaya a conceder el beneficio. Cuando el promedio de sueldos del último quinquenio sea inferior al quinquenio inmediato anterior, se tomará el promedio de la totalidad de los últimos diez años.
+El monto de las pensiones se formará de acuerdo con las bases señaladas en la fracción I del artículo 56. Cuando el sueldo actual del trabajador sea inferior al que resulte de promediar las remuneraciones recibidas en los últimos cinco años de servicios, se fijará la pensión de acuerdo con este último promedio.
 
 ###### ARTICULO 59.
 
@@ -477,9 +485,11 @@ Si varias personas disfrutaren de una pensión y falleciere alguna de ellas o pe
 
 DE LA INCOMPATIBILIDAD.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
+
 ###### ARTICULO 62.
 
-La percepción de una pensión es incompatible con el desempeño de cualquier servicio remunerado por el Gobierno del Estado u organismo descentralizado; con excepción de los cargos de elección popular sin compensación o si ésta es menor del cincuenta por ciento de la pensión que corresponda.
+La percepción de una pensión es incompatible con el desempeño de cualquier servicio remunerado por el Gobierno del Estado con excepción de los cargos de elección popular sin compensación o si ésta es menor del 50% de la pensión que corresponda.
 
 ###### ARTICULO 63.
 
@@ -487,15 +497,17 @@ Existiendo la incompatibilidad, se suspenderá el pago de la pensión; pero se t
 
 ###### ARTICULO 64.
 
-Es también incompatible la percepción de una pensión concedida por esta Ley con la de otra pensión remunerada por la Federación, por los Estados de ella o por los Municipios.
+(DEROGADO, P.O. 17 DE AGOSTO DE 1963)
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
 
 ###### ARTICULO 65.
 
-La persona que reciba una pensión cuando no le corresponda o cuando por incompatibilidad debiera estar suspendida, tiene la obligación de reintegrar las cantidades percibidas indebidamente, si no lo hiciere, perderá en definitiva el derecho sobre la pensión, sin perjuicio de exigirle las responsabilidades en que hubiere incurrido. Lo anterior es aplicable cuando no haya transcurrido un término de cinco años, pues pasado éste, prescribirá el derecho para existir devolución alguna.
+La persona que reciba una pensión cuando no le corresponda, tiene la obligación de reintegrar las cantidades percibidas indebidamente, si no lo hiciere, perderá en definitiva el derecho sobre la pensión, sin perjuicio de exigirle las responsabilidades en que hubiere incurrido. Lo anterior es aplicable cuando no haya transcurrido un término de cinco años, pues pasado éste, prescribirá el derecho para exigir devolución alguna.
 
 ###### ARTICULO 66.
 
-Es obligación del pensionista participar oportunamente a la Oficina de Pensiones la fecha en que se presente la incompatibilidad.
+(DEROGADO, P.O. 17 DE AGOSTO DE 1963)
 
 ### CAPITULO X.
 
@@ -547,15 +559,17 @@ Cuando el trabajador falleciere sin que sus deudos tengan derecho a pensión, é
 
 GASTOS DE FUNERAL.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1961)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
 
 ###### ARTICULO 74.
 
-Los deudos de los trabajadores que fallezcan en servicio o cuando disfruten de una licencia con goce de sueldo, recibirán la cantidad de dos meses completos de sueldo para gastos de funeral. Este beneficio será pagado también a los deudos de los trabajadores que disfruten de una licencia por tiempo determinado concedida dentro de las disposiciones de la Ley del Servicio Civil.
+Los deudos de los trabajadores que fallezcan en servicio o cuando disfruten de una licencia con goce de sueldo, recibirán la cantidad de tres meses de sueldo para gastos de funeral. Este beneficio será pagado también a los deudos de los trabajadores que disfruten de una licencia por tiempo determinado concedida dentro de las disposiciones de la Ley respectiva y a los que se encuentren en los casos a que se refiere el artículo 28 de esta misma Ley. Dicha cantidad deberá ser pagada dentro de las 24 horas siguientes al fallecimiento del trabajador.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
 
 ###### ARTICULO 75.
 
-Cuando fallezca un trabajador que haya pasado a ser pensionista, se entregará a sus deudos o a la persona que se encargue del sepelio, la cantidad equivalente al treinta por ciento de su pensión por un mes, para gastos de funeral.
+Cuando fallezca un trabajador que haya pasado a ser pensionista, se entregará a sus deudos o a la persona que se encargue del sepelio, la cantidad equivalente a dos meses de su pensión para gastos de funeral, dentro de las 24 horas siguientes al fallecimiento.
 
 ###### ARTICULO 76.
 
@@ -581,9 +595,11 @@ Los préstamos serán de tal manera que los abonos para reintegrarlos junto con 
 
 DE LOS PRESTAMOS A CORTO PLAZO.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
+
 ###### ARTICULO 80.
 
-Los préstamos podrán ser hasta por el importe de tres meses de sueldo del trabajador o de la cuota por noventa días que disfrute el pensionista. El interés que se cubrirá al liquidar el adeudo, no será mayor de nueve por ciento anual y el plazo para liquidarlo no excederá de doce meses con pagos iguales de acuerdo con la periodicidad con que se cubran los sueldos y salarios del Gobierno del Estado, de la Oficina de Pensiones o de las Instituciones descentralizadas.
+Los préstamos no excederán del importe de tres meses de sueldo del trabajador o de la cuota por noventa días que disfrute el pensionista. El interés que se cubrirá será de seis por ciento anual sobre saldos insolutos y el plazo para liquidar dicho préstamo no excederá de doce meses, mediante pagos iguales de acuerdo con la periodicidad con que se cubran los sueldos y salarios por el Gobierno del Estado, por la Oficina de Pensiones o por las Instituciones descentralizadas, en su caso.
 
 ###### ARTICULO 81.
 
@@ -597,13 +613,17 @@ Los préstamos quedarán garantizados con el importe de los descuentos hechos al
 
 DE LOS PRESTAMOS HIPOTECARIOS.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
+
 ###### ARTICULO 83.
 
-Los préstamos hipotecarios se harán hasta por quince mil pesos. En estos casos, el plazo para redimirlos no excederá de diez años y el interés que se aplique no será mayor del doce por ciento anual sobre saldos insolutos; debiendo ser los períodos de pago iguales a los que señalen, para cubrir sus remuneraciones al personal, el Gobierno del Estado, la Oficina de Pensiones y las Instituciones descentralizadas.
+Los préstamos hipotecarios se harán con un plazo para redimirlos que no excederá de diez años y el interés que se aplique no será mayor del seis por ciento anual sobre saldos insolutos. Se señalarán periodos de pago iguales a los que rigen para el pago de la remuneración al personal que contribuye al Fondo de Pensiones.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
 
 ###### ARTICULO 84.
 
-El préstamo no podrá ser mayor del setenta y cinco por ciento del valor comercial fijado, por los peritos de la Oficina de Pensiones, al inmueble de que se trate.
+Los préstamos no podrán ser mayores del noventa por ciento del valor comercial fijado, por los peritos al inmueble, materia de la operación.
 
 ###### ARTICULO 85.
 
@@ -629,25 +649,27 @@ Las operaciones hipotecarias autorizadas por esta Ley no causarán impuestos del
 
 INVERSIONES DEL FONDO DE PENSIONES.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 1963)</small>
+
 ###### ARTICULO 89.
 
-La Oficina de Pensiones podrá invertir los sobrantes del Fondo de Pensiones en las siguientes operaciones:
+La Oficina de Pensiones podrá invertir los sobrantes del Fondo de Pensiones, en las siguientes operaciones:
 
 I.- En compra y urbanización de terrenos, con la mira de formar colonias para los trabajadores contribuyentes a la formación y sostenimiento del Fondo de Pensiones. En las ventas de estos terrenos los trabajadores gozarán de un descuento de diez por ciento en relación con las operaciones que se hagan al contado con particulares. La Oficina de Pensiones queda obligada a formar e incrementar las reservas de seguridad para urbanización de terrenos, con la diferencia entre el valor de los terrenos mas gastos de urbanización, y el valor que parcialmente se asigne a los mismos, una vez urbanizados.
 
-II.- En construcción de casas en los terrenos urbanizados por la propia Oficina de Pensiones, con la mira de venderlas a los trabajadores contribuyentes a la formación del Fondo y a los pensionistas. La Oficina de Pensiones queda obligada a formar e incrementar las reservas de seguridad para la construcción de casas, con la diferencia entre el valor de los terrenos mas gastos de contrucción (sic), y el valor que parcialmente se asigne a las casas propiedad de la Oficina de Pensiones, una vez terminadas. La venta de estas casas se hará con las facilidades que en seguida se enumeran:
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 1963)</small>
 
-a).- Los trabajadores contribuyentes a la formación del Fondo y los pensionistas entrarán en posesión de las casas que se les designe sin más formalidades que firmar con la Oficina de Peniones (sic) un contrato de arrendamiento.
+II.- En la construcción de casas en terrenos urbanizados, de acuerdo con las siguientes reglas:
 
-b).- Vencido el plazo que se convenga, que no excederá de quince años, de poseer las casas y pagar regularmente la cantidad asignada como renta mensual para amortizar capital e intereses, el inmueble pasará a ser propiedad del trabajador. El pago de las escrituras y gastos serán por cuenta de éste.
+a).- Las casas se venderán exclusivamente a empleados y pensionistas del Gobierno del Estado y nunca a particulares, pues se trata de un servicio social y no de un negocio lucrativo.
 
-c).- En el caso de que el trabajador no pueda continuar pagando, porque se le separe del servicio, se le concederá un mes de plazo para habitar la casa gratuitamente por cada año que la haya ocupado, siempre que hubiere cubierto con regularidad la renta mensual que se le había asignado.
+b).- La adquisición deber ser claramente un contrato de compraventa. Mediante ésta la Oficina de Pensiones trasmite la propiedad de la casa al empleado o al pensionista, constituyéndose una hipoteca por el saldo insoluto.
 
-d).- Si el empleado hubiere cubierto sus mensualidades con toda regularidad cinco años o más, y fuere separado del servicio, y no pudiera seguir cumpliendo con los términos del contrato, tendrá derecho a vender la casa por su cuenta, entregando a la Oficina de Pensiones la parte que falte para cubrir el capital invertido y sus intereses hasta la fecha de la venta, con derecho a quedarse el mismo trabajador con el remanente. Si no encontrare comprador, la casa se rematará en subasta pública, siempre y cuando la oferta o las ofertas que hagan el comprador o los compradores, basten para cubrir a la Oficina de Pensiones el capital insoluto mas los intereses corridos hasta la fecha.
+c).- Bastará que el empleado o el pensionista cubra los gastos de escritura. El importe de la finca se cubrirá hasta en quince anualidades, causándose un interés del 6% anual sobre saldos insolutos.
 
-e).- Cuando la adquisición de casas se haga al contado se les hará al trabajador contribuyente a la formación del Fondo o al pensionista, un descuento de diez por ciento sobre el monto de las operaciones que se hicieren con particulares.
+d).- El avalúo de las casas, deberá hacerse por una comisión integrada por un Representante del Poder Ejecutivo, otro del Poder Legislativo y un tercero del Poder Judicial; dos representantes del Sindicato de Trabajadores al Servicio del Estado, uno de la Cámara de Comercio y otro del Banco Comercial Mexicano, S.A., o de otra Institución facultada para efectuar avalúos comerciales.
 
-f).- Las casas hechas por la Oficina de Pensiones podrán ser adquiridas por particulares; pero las operaciones deberán ser precisamente al contado.
+e).- Serán preferidos para la adquisición de casas, los empleados y pensionistas según su antigüedad, condiciones económicas y familiares a quienes sostengan.
 
 III.- En construcción de granjas que tengan por objeto incrementar los ingresos familiares de los trabajadores a que se refiere esta Ley. La venta de esas granjas se hará en los mismos términos y con las mismas facilidades que las casas y terrenos propiedad de la Institución.
 
@@ -661,15 +683,17 @@ La venta de los terrenos y de las casas de que se habla en este artículo, se ha
 
 DEL GOBIERNO Y ADMINISTRACION DE LA OFICINA DE PENSIONES.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
+
 ###### ARTICULO 90.
 
-La Oficina de Pensiones funcionará como una Sección adjunta al Monte de Piedad del Estado y con el personal burocrático que el Ejecutivo estime pertinente.
+La Oficina de Pensiones funcionará como una Institución autónoma y con el personal burocrático que el Ejecutivo estime pertinente.
 
 El Gobierno y la administración de la Oficina de Pensiones del Estado de Oaxaca, estarán a cargo de un Consejo Directivo, que tendrá personalidad jurídica y que estará integrado por:
 
 a).- Tres representantes del Gobierno del Estado, que serán designados uno por cada Poder.
 
-b).- Dos representantes de los trabajadores, designados por el Sindicato de Trabajadores al Servicio de los Poderes del Estado.
+b).- Dos representantes de los empleados designados por el Sindicato de Trabajadores al Servicio de los Poderes del Estado.
 
 ###### ARTICULO 91.
 
@@ -687,13 +711,17 @@ Los acuerdos del Consejo Directivo se tomarán por mayoría de votos de los miem
 
 El puesto de Presidente del Consejo Directivo deberá recaer en uno de los tres representantes del Gobierno del Estado y será nombrado a mayoría de votos de los miembros del mismo Consejo.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
+
 ###### ARTICULO 95.
 
-La ejecución de los acuerdos del Consejo Directivo estará a cargo de un funcionario que, con el nombre de Jefe de la Oficina de Pensiones del Estado de Oaxaca, será también el jefe inmediato del personal y tendrá las facultades y obligaciones que en esta misma Ley se le fijan; y será desempeñado por el C. Director del Monte de Piedad del Estado.
+La ejecución de los acuerdos del Consejo Directivo estará a cargo de un funcionario que, con el nombre de Jefe de la Oficina de Pensiones del Estado de Oaxaca, será también el jefe inmediato del Personal y tendrá las facultades y obligaciones que en esta misma Ley se le fijan.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
 
 ###### ARTICULO 96.
 
-El Jefe de la Oficina de Pensiones será nombrado por el C. Gobernador del Estado, y deberá reunir los mismos requisitos exigidos a los miembros del Consejo Directivo. Aquel Funcionario durará en su encargo por todo el tiempo que subsista su designación como Director del Monte de Piedad.
+El Jefe de la Oficina de Pensiones será nombrado por el C. Gobernador del Estado, y deberá reunir los mismos requisitos exigidos a los miembros del Consejo Directivo.
 
 ###### ARTICULO 97.
 
@@ -765,7 +793,9 @@ g).- Los estudios y proposiciones para que se dictamine sobre las pensiones.
 
 III.- Informar cada año al finalizar el ejercicio, al Jefe del Ejecutivo del Estado, sobre el monto del Fondo de Pensiones, emitiendo su opinión sobre la suficiencia o insuficiencia del mismo.
 
-IV.- Representar a la Oficina en los asuntos judiciales y administrativos.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 1963)</small>
+
+IV.- Representar a la Oficina de Pensiones con el carácter de mandatario general, para que a nombre de ésta administre sus bienes y ejercite actos de dominio, así como para que en defensa de sus derechos tenga capacidad jurídica en pleitos y cobranzas, usando de facultades generales y aún de aquellas que requieran cláusula especial, sin limitación alguna.
 
 V.- Despachar con su firma los acuerdos y la correspondencia del Consejo Directivo y de la Oficina de Pensiones.
 
@@ -775,15 +805,17 @@ VI.- Organizar y vigilar la buena administración de la Oficina de Pensiones, da
 
 VII.- Someter al acuerdo del Consejo Directivo los demás asuntos que sean de su competencia.
 
-> <small>(F. DE E., P.O. 7 DE JUNIO DE 1958)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
 
 ###### ARTICULO 101.
 
-Dentro del personal de la Oficina de Pensiones, existirá un funcionario denominado Subjefe que será el Contador del Monte de Piedad del Estado.
+Dentro del personal de la Oficina de Pensiones, existirá un funcionario denominado Subjefe que será designado por el C. Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
 
 ###### ARTICULO 102.
 
-El Subjefe de la Oficina de Pensiones auxiliará al Jefe en los asuntos técnicos y administrativos, substituyéndolo en sus ausencias temporales y asumiendo la autoridad y responsabilidad inherentes al cargo. El Subjefe fungirá además, como Secretario del Consejo Directivo.
+El Subjefe de la Oficina de Pensiones auxiliará al Jefe en los asuntos técnicos y administrativos, substituyéndolo en sus ausencias temporales y asumiendo la autoridad y responsabilidad inherentes al cargo.
 
 ###### ARTICULO 103.
 
@@ -886,3 +918,13 @@ Al C...
 P.O. 30 SEPTIEMBRE DE 1961.
 
 EN RELACION CON LA ENTRADA EN VIGOR DEL DECRETO DE REFORMAS CON ANTELACION CITADO, REMITASE A LOS ARTICULOS TRANSITORIOS 9° A 12 DEL TEXTO ORIGINAL DE LA PRESENTE LEY.
+
+P.O. 17 DE AGOSTO DE 1963.
+
+###### ARTICULO PRIMERO.
+
+Las anteriores formas entrarán en vigor a partir de la promulgación de este Decreto.
+
+###### ARTICULO SEGUNDO.
+
+Las pensiones otorgadas hasta la fecha serán revisables para ajustarlas a las disposiciones que por este decreto se modifican, únicamente en el caso de que puedan resultar beneficiados los pensionistas.
