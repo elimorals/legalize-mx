@@ -4,7 +4,7 @@ identifier: "FED-ley-del-seguro-social-411"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-12"
-last_updated: "1982-01-11"
+last_updated: "1982-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1982.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 12 de marzo de 1973.
 
@@ -2140,7 +2140,9 @@ Si el balance actuarial acusare superávit, éste se destinará a constituir un 
 
 El Consejo Técnico será el representante legal y el administrador del Instituto y estará integrado hasta por doce miembros, correspondiendo designar cuatro de ellos, a los representantes patronales en la Asamblea General, cuatro a los representantes de los trabajadores y cuatro a los representantes del Estado, con sus respectivos suplentes. El Ejecutivo Federal, cuando lo estime conveniente, podrá disminuir a la mitad la representación estatal.
 
-El Director General será siempre uno de los Consejeros del Estado y presidirá el Consejo Técnico.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+
+El Secretario de Salubridad y Asistencia y el Director General serán siempre consejeros del Estado, presidiendo este último el Consejo Técnico.
 
 Cuando deba renovarse el Consejo Técnico, los sectores representativos del Estado, de los patrones y de los trabajadores propondrán miembros propietarios y suplentes para los cargos de Consejero. La designación será hecha por la Asamblea General en los términos que fije el reglamento respectivo.
 
@@ -2667,3 +2669,9 @@ El Instituto Mexicano del Seguro Social al día siguiente de la publicación del
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor en toda la República el día. 1o. de junio de 1982.
+
+D.O.F. 30 DE DICIEMBRE DE 1982.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
