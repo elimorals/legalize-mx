@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-comision-federal-de-electricidad-17554"
 country: "mx"
 rank: "estatuto"
 publication_date: "2000-11-09"
-last_updated: "2000-11-09"
+last_updated: "2003-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17554&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-10-24"
 
 ESTATUTO ORGANICO DE COMISION FEDERAL DE ELECTRICIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 2003.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación el jueves 9 de noviembre de 2000.
 
@@ -87,51 +87,127 @@ IX. Subdirección de Generación;
 
 X. Subdirección Técnica;
 
-XI. Subdirección de Transmisión, Transformación y Control;
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
 
-XII. Subdirección de Construcción;
+XI. Subdirección de Transmisión;
 
-XIII. Subdirección de Contratación de Proyectos de Inversión Financiada;
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
 
-XIV. Subdirección de Desarrollo de Proyectos;
+XII. Subdirección de Energéticos y Seguridad;
 
-XV. Subdirección de Administración;
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
 
-XVI. Subdirección de Finanzas;
+XIII. Subdirección del Centro Nacional de Control de Energía;
 
-XVII. Coordinación del Programa de Ahorro de Energía del Sector Eléctrico;
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
 
-XVIII. Coordinación de Producción;
+XIV. Subdirección de Proyectos y Construcción;
 
-XIX. Coordinación de Programación y Análisis Administrativo;
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
 
-XX. Coordinación de Proyectos Especiales y Racionalización de Activos no Productivos;
+XV. Subdirección de Contratación de Proyectos de Inversión Financiada;
 
-XXI. Coordinación de Transmisión y Transformación;
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
 
-XXII. Coordinación del Centro Nacional de Control de Energía;
+XVI. Subdirección de Desarrollo de Proyectos;
 
-XXIII. Coordinación de Proyectos Hidroeléctricos;
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
 
-XXIV. Coordinación de Proyectos Termoeléctricos;
+XVII. Subdirección de Administración;
 
-XXV. Coordinación de Proyectos de Transmisión y Transformación;
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
 
-XXVI. Coordinación de Administración;
+XVIII. Subdirección de Finanzas;
 
-XXVII. Coordinación de Asuntos Jurídicos;
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
 
-XXVIII. Coordinación de Finanzas;
+XIX. Subdirección de Operación Financiera;
 
-XXIX. Coordinación de Operación y Control Financiero;
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
 
-XXX. Gerencias de Oficinas Nacionales, y
+XX. Subdirección de Control Financiero;
 
-XXXI. Areas Administrativas Regionales.
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+XXI. Coordinación del Programa de Ahorro de Energía del Sector Eléctrico;
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+XXII. Coordinación de Generación Hidroeléctrica;
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+XXIII. Coordinación de Generación Termoeléctrica;
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+XXIV. Coordinación de Energéticos;
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+XXV. Coordinación de Seguridad Física e Industrial;
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+XXVI. Coordinación de Transmisión;
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+XXVII. Coordinación de Protecciones, Comunicación y Control;
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+XXVIII. Coordinación del Sistema Eléctrico Nacional;
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+XXIX. Coordinación de Distribución;
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+XXX. Coordinación Comercial;
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+XXXI. Coordinación de Programación y Análisis Administrativo;
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+XXXII. Coordinación de Administración;
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+XXXIII. Coordinación de Asuntos Jurídicos;
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+XXXIV. Coordinación de Proyectos Especiales y Racionalización de Activos;
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+XXXV. Coordinación de Proyectos Hidroeléctricos;
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+XXXVI. Coordinación de Proyectos Termoeléctricos;
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+XXXVII. Coordinación de Proyectos de Transmisión y Transformación;
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+XXXVIII. Gerencias de Oficinas Nacionales y Unidades de Mando, y
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+XXXIX. Areas Administrativas Regionales.
 
 La Comisión cuenta con una Contraloría Interna, órgano de control interno, que se regirá conforme a lo dispuesto por el artículo 44 de este Estatuto.
 
-La Comisión contará, asimismo, con las Unidades Administrativas que apruebe la Junta de Gobierno y que sean autorizadas por las Secretarías de Energía, Contraloría y Desarrollo Administrativo y Hacienda y Crédito Público. Sus funciones serán señaladas en los manuales que para tal efecto se expidan.
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+La Comisión contará, asimismo, con las Unidades Administrativas que apruebe la Junta de Gobierno, que sean dictaminadas por la Dirección de Administración, y registradas por las Secretarías de la Función Pública y de Hacienda y Crédito Público. Sus funciones serán señaladas en los manuales que para tal efecto se expidan.
 
 ## Título II. De los Organos Superiores y de las Unidades Administrativas
 
@@ -247,7 +323,9 @@ III. Asistir a las reuniones de la Junta de Gobierno con voz.
 
 IV. Ejecutar las resoluciones y acuerdos que dicte la Junta de Gobierno.
 
-V. Someter a consideración de la Junta de Gobierno la estructura orgánica y funcional de la Comisión, en conformidad con los lineamientos aprobados por dicho órgano.
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+V. Someter a consideración de la Junta de Gobierno la estructura orgánica y funcional de la Comisión, de conformidad con los lineamientos aprobados por dicho órgano, y autorizar los dictámenes administrativos de las modificaciones a las estructuras orgánicas y ocupacionales de la Dirección de Administración de la Comisión.
 
 VI. Expedir los acuerdos de adscripción de las unidades administrativas que integran la Comisión y sus manuales internos.
 
@@ -305,21 +383,23 @@ V. Delegar facultades a los titulares de las unidades administrativas adscritas.
 
 VI. Suscribir los documentos relativos al ejercicio de sus facultades y las que le correspondan por delegación o suplencia.
 
-VII. Proporcionar la información solicitada por autoridad competente o por unidades administrativas de la Comisión.
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+VII. Proporcionar la información solicitada por autoridad competente o por unidades administrativas de la Comisión y expedir constancias de los documentos que obren en sus archivos.
 
 VIII. Asegurar el buen uso y preservar los bienes asignados a la Dirección a su cargo, y
 
 IX. Las demás facultades que le confieran la Junta de Gobierno, el Director General, los manuales y los ordenamientos aplicables.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+
 ###### Artículo 10.
 
 A la Dirección de Operación le corresponden, además de las facultades genéricas señaladas en el artículo anterior, las siguientes:
 
-I. Determinar las políticas, planes y programas en materia de generación, transmisión, transformación, control, distribución y comercialización de la energía eléctrica, así como los aspectos técnicos, de calidad, diseño, operación de sistemas informáticos y de enajenación de bienes no útiles.
+I. Determinar las políticas, planes y programas en materia de generación, transmisión, transformación, control, distribución y comercialización de la energía eléctrica, así como los aspectos técnicos de calidad, diseño, y operación de sistemas informáticos, y
 
-II. Atender los aspectos técnico-operativos relacionados con la generación, transmisión, transformación, control y distribución de energía eléctrica, y
-
-III. Presidir el Comité de Enajenación de Bienes Muebles e Inmuebles, y coordinar los programas correspondientes.
+II. Atender los aspectos técnico-operativos relacionados con la generación, transmisión, transformación, control y distribución de energía eléctrica.
 
 ###### Artículo 11.
 
@@ -337,29 +417,45 @@ IV. Promover la inversión privada en proyectos de infraestructura eléctrica pa
 
 A la Dirección de Administración le corresponden, además de las facultades genéricas señaladas en el artículo 9 de este Estatuto, las siguientes:
 
-I. Determinar las políticas en materia de administración de recursos humanos, relaciones laborales, capacitación, desarrollo organizacional, evaluación y seguimiento de la gestión administrativa, y participar en la administración del Fondo de la Habitación y Servicios Sociales de los Trabajadores Electricistas.
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+I. Determinar las políticas en materia de administración de recursos humanos, relaciones laborales, capacitación, desarrollo organizacional, evaluación y seguimiento de la gestión administrativa; autorizar los dictámenes administrativos de las modificaciones a las estructuras orgánicas y ocupacionales de la Comisión para su registro ante las Secretarías de Hacienda y Crédito Público y la de la Función Pública, así como establecer y administrar la evaluación de puestos de personal de mando de la Comisión, y participar en la administración del Fondo de la Habitación y Servicios Sociales de los Trabajadores Electricistas.
 
 II. Determinar las políticas en materia de administración de recursos materiales, servicios generales y riesgos, así como contratar los seguros para salvaguardar el patrimonio e infraestructura de la Comisión, excepto en proyectos de infraestructura productiva de largo plazo.
 
 III. Dictar los lineamientos y criterios para la atención y supervisión de los asuntos jurídicos de la Comisión.
 
-IV. Coordinar la ejecución de los planes y programas de desarrollo social, y
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
 
-V. Presidir el Comité Central de Adquisiciones, Arrendamientos y Servicios de la Comisión, así como la Comisión Consultiva Mixta de Abastecimientos del Sector Eléctrico.
+IV. Coordinar los programas de desarrollo social, así como los de transparencia de la Entidad, y
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+V. Presidir los Comités Central de Adquisiciones, Arrendamientos y Servicios, y el de Enajenación de Bienes Muebles e Inmuebles, así como la Comisión Consultiva Mixta de Abastecimientos del Sector Eléctrico.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2003)</small>
 
 ###### Artículo 13.
 
 A la Dirección de Finanzas le corresponden, además de las facultades genéricas señaladas en el artículo 9 de este Estatuto, las siguientes:
 
-I. Determinar las políticas en materia financiera, presupuestal, crediticia, contable y fiscal.
+I. Establecer los planes y estrategias para dotar de recursos financieros al Organismo, así como para cubrir los riesgos derivados de la variabilidad de precios de los combustibles y de las condiciones financieras de la deuda de la Comisión denominada en moneda extranjera.
 
-II. Formular e integrar los anteproyectos de presupuestos y los programas anuales de la Comisión y someterlos a la consideración del Director General.
+II. Determinar las políticas en materia financiera, de gestión de riesgos financieros y de insumos de producción, presupuestal, crediticia y contable de la Comisión.
 
-III. Contratar créditos y demás financiamientos, así como controlar su ejercicio.
+III. Formular e integrar los anteproyectos de presupuestos y los programas anuales de la Comisión y someterlos a la consideración del Director General.
 
-IV. Atender los aspectos presupuestales, financieros, fiscales y de administración de riesgos en proyectos de infraestructura productiva de largo plazo, y
+IV. Contratar créditos y demás financiamientos que autorice la Junta de Gobierno de la Comisión, así como controlar su ejercicio.
 
-V. Impulsar la diversificación de las fuentes de financiamiento de la Comisión, incluyendo la participación de la inversión privada.
+V. Atender los aspectos presupuestales, financieros, fiscales y de administración de riesgos financieros de la Comisión.
+
+VI. Impulsar la diversificación de las fuentes de financiamiento de la Comisión, incluyendo la participación de la inversión privada.
+
+VII. Impulsar las acciones necesarias para fortalecer la posición financiera de la Comisión.
+
+VIII. Evaluar y dar seguimiento del rendimiento financiero de las inversiones privadas, tanto nacionales como internacionales de la Comisión, y
+
+IX. Establecer, en el ámbito de la Comisión, los sistemas de información financiera.
 
 ###### Artículo 14.
 
@@ -371,7 +467,7 @@ II. Proponer los mecanismos e instrumentos para la conformación de un mercado d
 
 III. Proponer los lineamientos y acciones para la creación de las Divisiones de Negocio en las áreas de generación, transmisión, transformación, control y distribución de la Comisión.
 
-### Capítulo VI. De las Coordinaciones
+### Capítulo V. De las Subdirecciones
 
 ###### Artículo 15.
 
@@ -389,7 +485,9 @@ V. Delegar facultades a los titulares de las unidades administrativas adscritas.
 
 VI. Suscribir los documentos relativos al ejercicio de sus facultades y de las que le correspondan por delegación o suplencia.
 
-VII. Proporcionar la información solicitada por autoridad competente o por unidades administrativas de la Comisión.
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+VII. Proporcionar la información solicitada por autoridad competente o por unidades administrativas de la Comisión y expedir constancias de los documentos que obran en sus archivos.
 
 VIII. Asegurar el buen uso y preservar los bienes asignados a la Subdirección a su cargo, y
 
@@ -427,11 +525,15 @@ I. Establecer las normas, objetivos y metas para garantizar la disponibilidad, c
 
 II. Planear, coordinar y supervisar las acciones relacionadas con la operación y mantenimiento de las centrales generadoras que integran el Sistema Eléctrico Nacional.
 
-III. Planear y controlar, en coordinación con la Subdirección Técnica, los sistemas informáticos de la Subdirección y emitir informes sobre el resultado de la operación.
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+III. Elaborar la planeación, estudios, proyectos, programas y presupuestos para la óptima operación de las instalaciones de generación.
 
 IV. Administrar, en coordinación con la Comisión Nacional del Agua, los almacenamientos hidráulicos y el uso del agua de las centrales hidroeléctricas de la Comisión, y
 
-V. Elaborar los programas de suministro de combustibles.
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+V. Dirigir el proceso de administración de contratos con productores externos de energía eléctrica.
 
 ###### Artículo 19.
 
@@ -445,31 +547,67 @@ III. Apoyar a las unidades administrativas de la Comisión en el diseño y opera
 
 IV. Coordinar el apoyo tecnológico del Instituto de Investigaciones Eléctricas a la Comisión, así como el de otras instituciones similares; evaluar el impacto ambiental de las obras y actividades de la Comisión, y apoyar a las unidades administrativas respecto de las medidas técnicas de control.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+
 ###### Artículo 20.
 
-A la Subdirección de Transmisión, Transformación y Control le corresponden, además de las facultades genéricas señaladas en el artículo 15 de este Estatuto, las siguientes:
+A la Subdirección de Transmisión le corresponden, además de las facultades genéricas señaladas en el artículo 15 de este Estatuto, las siguientes:
 
-I. Planear, administrar, coordinar y supervisar las actividades relacionadas con la operación y mantenimiento de las líneas de transmisión y subestaciones que integran el Sistema Eléctrico Nacional.
+I. Establecer y coordinar la elaboración de las políticas, normas y lineamientos generales del proceso de transmisión de la energía eléctrica.
 
-II. Aplicar las metodologías requeridas para la incorporación de los productores externos al Sistema Eléctrico Nacional, y planear y desarrollar los procesos de comercialización de energía.
+II. Establecer y supervisar los programas relacionados con la operación y mantenimiento de las líneas de transmisión y subestaciones que integran el Sistema Eléctrico Nacional.
 
-III. Coordinar los estudios técnicos, económicos y proyectos para la disponibilidad de la red eléctrica y sus requerimientos de expansión, incluyendo a los productores externos.
+III. Dirigir y evaluar el desarrollo y aplicación de las metodologías requeridas para la incorporación de los productores externos al Sistema Eléctrico Nacional, y
 
-IV. Elaborar el predespacho mensual del Sistema Eléctrico Nacional, y
+IV. Aprobar en el ámbito de su competencia los contratos de interconexión y convenios por servicios que se firmen con productores externos.
 
-V. Aprobar y supervisar los contratos de interconexión para los productores externos, incluyendo los referentes a la importación y exportación de energía eléctrica y uso de la red del Sistema Eléctrico Nacional.
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+###### Artículo 20-A.
+
+A la Subdirección de Energéticos y Seguridad le corresponden, además de las facultades genéricas señaladas en el artículo 15 de este Estatuto, las siguientes:
+
+I. Procurar el abastecimiento de los energéticos, así como el gas natural nacional y de importación que requieran las centrales generadoras de electricidad.
+
+II. Negociar el transporte de los energéticos en sus distintas modalidades a las centrales generadoras para el oportuno abastecimiento.
+
+III. Proponer normas y procedimientos internos para asegurar la efectividad y calidad de las acciones de la Comisión en la seguridad industrial, y
+
+IV. Instrumentar y coordinar las acciones tácticas para salvaguardar las instalaciones de la Comisión
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+###### Artículo 20-B.
+
+A la Subdirección del Centro Nacional de Control de Energía le corresponden, además de las facultades genéricas señaladas en el artículo 15 de este Estatuto, las siguientes:
+
+I. Establecer los criterios, lineamientos, métodos y procedimientos para la operación del Sistema Eléctrico Nacional.
+
+II. Dirigir y supervisar la operación del Sistema Eléctrico Nacional.
+
+III. Establecer programas en coordinación con la Comisión Nacional del Agua para el manejo de los almacenamientos hidráulicos y el uso del agua de las centrales hidroeléctricas.
+
+IV. Participar en las negociaciones de los contratos internacionales de intercambio de energía y en materia de cooperación y desarrollo de tecnología en el área de sistemas eléctricos de potencia.
+
+V. Establecer y supervisar el despacho de la energía eléctrica de productores externos de energía, y
+
+VI. Dirigir el desarrollo e implementación de metodologías y proyectos para la operación y establecimiento de los precios de transferencia.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2003)</small>
 
 ###### Artículo 21.
 
-A la Subdirección de Construcción le corresponden, además de las facultades genéricas señaladas en el artículo 15 de este Estatuto, las siguientes:
+A la Subdirección de Proyectos y Construcción le corresponden, además de las facultades genéricas señaladas en el artículo 15 de este Estatuto, las siguientes:
 
 I. Participar en la integración del Programa de Obras e Inversiones del Sector Eléctrico, seleccionando los proyectos para la instalación de nuevas plantas.
 
-II. Supervisar y ejecutar proyectos, con el apoyo de la Subdirección Técnica.
+II. Establecer los programas de supervisión y ejecución de proyectos de inversión financiada y obra pública.
 
-III. Participar, en coordinación con las Subdirecciones de Generación, de Distribución y Técnica, en pruebas preoperacionales y de prestación de servicio, y
+III. Participar en las pruebas preoperacionales de las obras y proyectos construidos, así como en la prestación de servicios en coordinación con las Subdirecciones de Generación, de Transmisión y Técnica.
 
-IV. Elaborar proyectos y estudios y prestar servicios a terceros en materia de ingeniería.
+IV. Dirigir la elaboración de proyectos y estudios y prestar servicios a terceros en materia de ingeniería, y
+
+V. Supervisar la elaboración de especificaciones técnicas para las bases de licitación y participar en el proceso de evaluación de las propuestas que se reciban en las licitaciones de los proyectos de infraestructura productiva de largo plazo que le correspondan.
 
 ###### Artículo 22.
 
@@ -509,17 +647,59 @@ III. Participar con el Sindicato Unico de Trabajadores Electricistas de la Repú
 
 IV. Supervisar los sistemas institucionales de seguridad e higiene en el trabajo y de seguridad social; coordinar el programa de mantenimiento preventivo y correctivo de los inmuebles de las oficinas nacionales de la Comisión, y proporcionar servicios generales a las mismas.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+
 ###### Artículo 25.
 
 A la Subdirección de Finanzas le corresponden, además de las facultades genéricas señaladas en el artículo 15 de este Estatuto, las siguientes:
 
-I. Procurar la disponibilidad de recursos financieros de la Comisión, así como intervenir en los proyectos de infraestructura productiva de largo plazo.
+I. Dirigir la actividad de planeación financiera de la Comisión.
 
-II. Efectuar la planeación financiera de la Comisión y contribuir a su integración en los planes institucionales, y
+II. Realizar el análisis y evaluación de la posición financiera de la Comisión.
 
-III. Participar en la formulación del presupuesto, vigilar su ejercicio y generar la información financiera de la Comisión.
+III. Participar en la evaluación económica-financiera de los proyectos de infraestructura en todas sus modalidades.
 
-### Capítulo V. De las Subdirecciones
+IV. Promover la presencia de la Comisión en los mercados de capitales internacionales y ante las Agencias Calificadoras, Organismos Multilaterales e Instituciones Financieras.
+
+V. Negociar, con las instituciones financieras nacionales y extranjeras, los términos y condiciones para los financiamientos requeridos por la Comisión, y
+
+VI. Elaborar el mapa de riesgos de la Comisión, derivados de la variabilidad de los precios de los combustibles y de las condiciones financieras de la deuda de la Entidad denominada en moneda extranjera, así como controlar la aplicación de los instrumentos financieros adecuados para administrar las posiciones de riesgo identificadas.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+###### Artículo 25-A.
+
+A la Subdirección de Operación Financiera le corresponde, además de las facultades genéricas señaladas en el artículo 15 de este Estatuto, las siguientes:
+
+I. Promover las actividades relativas a la utilización y reembolso de las líneas de crédito, así como el pago oportuno del servicio de la deuda directa de la Comisión y, tratándose de proyectos de infraestructura productiva de largo plazo, previa comunicación del área encargada del proyecto.
+
+II. Promover la instrumentación de esquemas financieros y controlar el cumplimiento de los compromisos de pago contractuales de la Comisión.
+
+III. Supervisar el programa de egresos, así como la inversión de los excedentes de efectivo.
+
+IV. Normar los criterios para el ejercicio presupuestal y la operación financiera, de conformidad con las disposiciones que emitan las autoridades competentes, y
+
+V. Dirigir el proceso de programación-presupuestación y el control del presupuesto autorizado a la Comisión, así como gestionar sus modificaciones.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+###### Artículo 25-B.
+
+A la Subdirección de Control Financiero le corresponde, además de las facultades genéricas señaladas en el artículo 15 de este Estatuto, las siguientes:
+
+I. Normar y establecer los sistemas integrales de registro y control contable, así como, difundir la aplicación de criterios de la Comisión.
+
+II. Crear las provisiones financieras que autorice la Junta de Gobierno de la Comisión y mantenerlas actualizadas.
+
+III. Elaborar los Estados Financieros de la Comisión, conforme a la normatividad aplicable.
+
+IV. Normar la aplicación de la legislación en materia fiscal en el ámbito de la Comisión.
+
+V. Elaborar y presentar los estudios de análisis y evaluación financiera de la Comisión, y
+
+VI. Coordinar la atención, por parte de las áreas que competan, de los asuntos que se deriven de las observaciones hechas por los órganos fiscalizadores de la Comisión.
+
+### Capítulo VI. De las Coordinaciones
 
 ###### Artículo 26.
 
@@ -537,7 +717,9 @@ V. Delegar facultades a los titulares de las unidades administrativas adscritas.
 
 VI. Suscribir los documentos relativos al ejercicio de sus facultades y las que le correspondan por delegación o suplencia.
 
-VII. Proporcionar la información solicitada por autoridad competente o por unidades administrativas de la Comisión.
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+VII. Proporcionar la información solicitada por autoridad competente o por unidades administrativas de la Comisión y expedir constancias de los documentos que obran en sus archivos.
 
 VIII. Asegurar el buen uso y preservar los bienes asignados a la Coordinación a su cargo, y
 
@@ -553,99 +735,157 @@ II. Concertar, con otras instituciones, la promoción y ejecución de acciones e
 
 III. Procurar los recursos financieros para apoyar la realización de acciones y programas en este ámbito.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+
 ###### Artículo 28.
 
-A la Coordinación de Producción le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
+A la Coordinación de Generación Hidroeléctrica le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
 
-I. Aplicar las políticas para la operación de centrales generadoras, en concordancia con las Coordinaciones del Centro Nacional de Control de Energía y de Transmisión y Transformación.
+I. Coordinar la aplicación de las políticas para la operación de centrales generadoras hidroeléctricas, en concordancia con los lineamientos de las Subdirecciones del Centro Nacional de Control de Energía y de Transmisión.
 
-II. Establecer la normatividad para la operación, conservación y mantenimiento de las instalaciones de generación; realizar estudios de comportamiento de centrales, y proponer las acciones tendientes a optimizar su funcionamiento.
+II. Establecer la normatividad para la operación, conservación y mantenimiento de las instalaciones de generación hidroeléctricas.
 
-III. Coordinar los estudios para mejorar los sistemas de procesos de generación y de ingeniería eléctrica, y
+III. Coordinar la realización de estudios de comportamiento de centrales hidroeléctricas y proponer las acciones tendientes a optimizar su funcionamiento.
 
-IV. Participar en la elaboración de proyectos de nuevas centrales generadoras, así como conducir, vigilar y supervisar el sistema, garantía y calidad de las operaciones.
+IV. Coordinar los estudios para mejorar los sistemas de procesos de generación hidroeléctrica.
+
+V. Participar en la elaboración de proyectos de nuevas centrales generadoras hidroeléctricas, así como conducir, vigilar y supervisar el sistema, garantía y calidad de las operaciones, y
+
+VI. Coordinar los programas de desarrollo, mejora y modernización de sistemas inherentes a los procesos de generación hidroeléctrica.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+###### Artículo 28-A.
+
+A la Coordinación de Generación Termoeléctrica le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
+
+I. Coordinar la aplicación de las políticas para la operación de centrales generadoras termoeléctricas, en concordancia con los lineamientos de las Subdirecciones del Centro Nacional de Control de Energía y de Transmisión.
+
+II. Establecer la normatividad para la operación, conservación y mantenimiento de las instalaciones de generación termoeléctricas.
+
+III. Coordinar la realización de estudios de comportamiento de centrales termoeléctricas y proponer las acciones tendientes a optimizar su funcionamiento.
+
+IV. Coordinar los estudios para mejorar los sistemas de procesos de generación termoeléctrica.
+
+V. Participar en la elaboración de proyectos de nuevas centrales generadoras termoeléctricas, así como conducir, vigilar y supervisar el sistema, garantía y calidad de las operaciones, y
+
+VI. Coordinar los programas de desarrollo, mejora y modernización de sistemas inherentes a los procesos de generación termoeléctrica.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2003)</small>
 
 ###### Artículo 29.
 
-A la Coordinación de Programación y Análisis Administrativo le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
+A la Coordinación de Energéticos le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
+
+I. Realizar la negociación y la formulación de los contratos correspondientes al suministro y transporte de los energéticos con los organismos del estado y empresas privadas para la generación de energía eléctrica.
+
+II. Gestionar el transporte de los energéticos, en sus distintas modalidades, para las centrales generadoras de acuerdo al combustible con el que operan, y
+
+III. Coordinar el proceso de trámites de autorizaciones para el pago de facturas de energéticos a empresas suministradoras.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+###### Artículo 30.
+
+A la Coordinación de Seguridad Física e Industrial le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
+
+I. Supervisar las acciones operativas, tácticas, logísticas y normativas de seguridad física e industrial para la protección de las instalaciones de la Comisión.
+
+II. Elaborar las políticas y directrices de trabajo tendientes al desarrollo de una cultura de seguridad industrial y protección civil en la Comisión.
+
+III. Realizar los estudios necesarios que coadyuven al perfeccionamiento constante de los sistemas de seguridad industrial y protección civil, y
+
+IV. Definir, aplicar y coordinar las políticas, normas y acciones tanto tácticas como de operación para unificar criterios en las diferentes áreas de seguridad.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+###### Artículo 31.
+
+A la Coordinación de Transmisión le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
+
+I. Supervisar, junto con la Subdirección del Centro Nacional de Control de Energía, la confiabilidad del Sistema Eléctrico Nacional.
+
+II. Coordinar la supervisión de las condiciones de los equipos, instalaciones y sistemas, así como promover su correcta utilización.
+
+III. Normar los aspectos generales de ingeniería eléctrica del proceso de transmisión, y
+
+IV. Coordinar el análisis de las estadísticas de falla, de comportamiento de equipos y sistemas inherente al proceso de transmisión.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+###### Artículo 32.
+
+A la Coordinación de Protecciones, Comunicación y Control le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
+
+I. Coordinar la aplicación de las políticas, estrategias y especificaciones en las especialidades de protecciones, comunicaciones y control.
+
+II. Coordinar el análisis de las estadísticas de falla, de comportamiento de equipos y sistemas de protecciones, comunicaciones y control.
+
+III. Coordinar los programas de desarrollo, mejora y modernización de sistemas inherentes a los procesos de protecciones, comunicaciones y control, y
+
+IV. Coordinar los estudios para mejorar los sistemas de protecciones, comunicaciones y control.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+###### Artículo 32-A.
+
+A la Coordinación del Sistema Eléctrico Nacional le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
+
+I. Coordinar la aplicación de los criterios, ordenamientos, métodos y procedimientos para el despacho del Sistema Eléctrico Nacional.
+
+II. Administrar los almacenamientos hidráulicos y el uso del agua de las centrales hidroeléctricas.
+
+III. Supervisar la aplicación de los lineamientos y políticas en las áreas de control, en la administración de los contratos regulados con permisionarios y productores externos de energía.
+
+IV. Coordinar el intercambio de información, adecuación y/o modificación de las reglas y procedimientos operativos del sistema, y
+
+V. Coordinar los programas de desarrollo, mejora y modernización de los procesos de control del Sistema Eléctrico Nacional.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+###### Artículo 33.
+
+A la Coordinación de Distribución le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
+
+I. Establecer políticas y normas generales en materia de distribución de la energía eléctrica en el territorio nacional.
+
+II. Coordinar conjuntamente con las áreas de Generación, de Transmisión y la Subdirección del Centro Nacional de Control de Energía la operación de los sistemas de subtransmisión y distribución de la CFE.
+
+III. Supervisar la planeación de los sistemas de distribución, así como la elaboración de proyectos de subestaciones y líneas de subtransmisión.
+
+IV. Definir la normalización de los equipos, materiales y los procedimientos de ingeniería para la distribución.
+
+V. Coordinar los programas de desarrollo, mejora y modernización del proceso de distribución, y
+
+VI. Coordinar los estudios para mejorar los sistemas de distribución.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+###### Artículo 34.
+
+A la Coordinación Comercial le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
+
+I. Establecer políticas, normas y lineamientos generales que regulen la actividad comercial respecto a la contratación, medición, venta y cobro de la energía eléctrica en el territorio nacional.
+
+II. Coordinar la elaboración de los programas de atención al cliente.
+
+III. Coordinar las especificaciones de la normalización de los equipos y materiales de medición.
+
+IV Vigilar el cumplimiento de la normatividad que regula la venta de energía eléctrica, y
+
+V. Dirigir la vigilancia y control del índice de pérdidas de energía eléctrica.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+###### Artículo 35.
+
+A la Coordinación de Programación y Análisis Administrativo le corresponde, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
 
 I. Coordinar las actividades relativas a la evaluación del desempeño técnico, administrativo y financiero de los procesos sustantivos a cargo de la Dirección de Operación.
 
 II. Coordinar el sistema de información técnica y de gestión, orientado a la participación de los distintos procesos en el mercado de energía, y
 
 III. Proporcionar a las Direcciones los informes y reportes técnicos y administrativos referentes a la operación del Sistema Eléctrico Nacional.
-
-###### Artículo 30.
-
-A la Coordinación de Proyectos Especiales y Racionalización de Activos no Productivos le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
-
-I. Proponer las políticas y procedimientos en materia de afectación, baja y destino final de bienes muebles e inmuebles.
-
-II. Proponer la autorización de la baja de los inventarios y la enajenación a título oneroso de los bienes muebles de la Comisión.
-
-III. Someter a consideración del Comité de Enajenación de Bienes Muebles e Inmuebles el Programa Anual-Nacional de Enajenación de Bienes Muebles e Inmuebles, y
-
-IV. Coordinar las acciones tendientes a la racionalización de activos y asesorar a las áreas que lleven a cabo la enajenación de bienes muebles e inmuebles no útiles al servicio.
-
-###### Artículo 31.
-
-A la Coordinación de Transmisión y Transformación le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
-
-I. Supervisar la operación de las instalaciones de las áreas de transmisión y transformación.
-
-II. Supervisar, junto con el Centro Nacional de Control de Energía, la confiabilidad del Sistema Eléctrico Nacional.
-
-III. Normar los aspectos generales de ingeniería eléctrica, así como promover intercambios técnicos con instituciones externas.
-
-IV. Promover y supervisar la correcta aplicación de equipos y tecnologías convenientes para las especialidades del proceso de transmisión y transformación, y
-
-V. Consolidar y analizar las estadísticas de falla y comportamiento de equipos y sistemas, así como evaluar y dictaminar la adquisición de equipo para el proceso.
-
-###### Artículo 32.
-
-A la Coordinación del Centro Nacional de Control de Energía le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
-
-I. Establecer los criterios, lineamientos, métodos y procedimientos para la operación del Sistema Eléctrico Nacional, así como dirigir el desarrollo de los proyectos que permitan proporcionar las instalaciones y herramientas técnicas, requeridas para la operación de dicho Sistema.
-
-II. Llevar a cabo las acciones para el despacho de la energía eléctrica de productores externos de energía, y
-
-III. Participar en las negociaciones de los contratos internacionales de intercambio de energía y en materia de cooperación y desarrollo de tecnología en el área de sistemas eléctricos de potencia.
-
-###### Artículo 33.
-
-A la Coordinación de Proyectos Hidroeléctricos le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
-
-I. Determinar el potencial hidroeléctrico del país y su disponibilidad para la producción de electricidad, y realizar los estudios de identificación, evaluación, prefactibilidad y factibilidad correspondientes.
-
-II. Coordinar los estudios para seleccionar sitios donde deban construirse centrales hidroeléctricas y realizar o supervisar el diseño de las obras civiles y electromecánicas, y
-
-III. Supervisar la construcción y puesta en operación de nuevas plantas generadoras hidroeléctricas, la modernización de las existentes y el reemplazo de instalaciones obsoletas, así como de las obras asociadas.
-
-###### Artículo 34.
-
-A la Coordinación de Proyectos Termoeléctricos le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
-
-I. Coordinar los trabajos y estudios para seleccionar sitios de nuevas plantas termoeléctricas o ampliación de las existentes.
-
-II. Elaborar los programas y presupuestos de obras termoeléctricas y sus obras asociadas, en congruencia con el Programa de Obras e Inversiones del Sector Eléctrico.
-
-III. Supervisar la ejecución de las obras y puesta en servicio de centrales generadoras termoeléctricas; ampliar, modernizar o reemplazar las instalaciones obsoletas, así como las de las obras asociadas, y
-
-IV. Elaborar, con la participación de la Subdirección Técnica, las especificaciones de equipo y materiales para la construcción de obras termoeléctricas, y definir las especificaciones de obras de infraestructura complementarias.
-
-###### Artículo 35.
-
-A la Coordinación de Proyectos de Transmisión y Transformación le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
-
-I. Coordinar la selección y evaluación de trayectorias y sitios, donde deban instalarse nuevas líneas de transmisión y subestaciones.
-
-II. Elaborar los programas técnicos de las líneas de transmisión y subestaciones, así como los trabajos de rehabilitación de la infraestructura existente.
-
-III. Supervisar la construcción de proyectos, verificando el control de calidad, protección de los ecosistemas, oportunidad y costos.
-
-IV. Verificar que los proyectos cumplan con los porcentajes de integración nacional específicos, y
-
-V. Establecer normas, procedimientos y guías en las actividades de ingeniería de diseño y construcción de subestaciones y líneas de transmisión.
 
 ###### Artículo 36.
 
@@ -673,37 +913,61 @@ III. Realizar los estudios e investigaciones jurídicas relacionados con el desa
 
 IV. Proporcionar asistencia jurídica en la adquisición por vía de derecho público o privado de bienes inmuebles, en el establecimiento de derechos reales, en la desincorporación de bienes propiedad de la Comisión, en la obtención de acuerdos de destino y en los demás actos relacionados con la adquisición de derechos inmobiliarios.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+
 ###### Artículo 38.
 
-A la Coordinación de Finanzas le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
+A la Coordinación de Proyectos Especiales y Racionalización de Activos le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
 
-I. Coordinar el análisis y evaluación de la posición financiera de la Comisión y dirigir la actividad de planeación financiera.
+I. Proponer las políticas y procedimientos en materia de afectación, baja y destino final de bienes muebles e inmuebles.
 
-II. Analizar la viabilidad financiera de los proyectos de expansión de la infraestructura eléctrica y recomendar esquemas de financiamiento.
+II. Proponer la autorización de la baja de los inventarios y la enajenación a título oneroso de los bienes muebles de la Comisión.
 
-III. Promover las actividades relativas a la utilización y reembolso de las líneas de crédito, así como el pago oportuno del servicio de la deuda, y
+III. Someter a consideración del Comité de Enajenación de Bienes Muebles e Inmuebles el Programa Anual-Nacional de Enajenación de Bienes Muebles e Inmuebles, y
 
-IV. Promover la instrumentación de esquemas financieros y controlar el cumplimiento de los compromisos contractuales de proyectos estratégicos.
+IV. Coordinar las acciones tendientes a la racionalización de activos y asesorar a las áreas que lleven a cabo la enajenación de bienes muebles e inmuebles no útiles al servicio.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2003)</small>
 
 ###### Artículo 39.
 
-A la Coordinación de Operación y Control Financiero le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
+A la Coordinación de Proyectos Hidroeléctricos le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
 
-I. Coordinar el proceso de programación-presupuestación de la comisión.
+I. Determinar el potencial hidroeléctrico del país y su disponibilidad para la producción de electricidad, y realizar los estudios de identificación, evaluación, prefactibilidad y factibilidad correspondientes.
 
-II. Promover el establecimiento y operación de un sistema integral de control presupuestal.
+II. Coordinar los estudios para seleccionar sitios donde deban construirse centrales hidroeléctricas y realizar o supervisar el diseño de las obras civiles y electromecánicas, y
 
-III. Coordinar la aplicación de criterios para el ejercicio presupuestal.
+III. Supervisar la construcción y puestas en operación de nuevas plantas generadoras hidroeléctricas, la modernización de las existentes y el reemplazo de instalaciones obsoletas, así como de las obras asociadas.
 
-IV. Supervisar el control del presupuesto autorizado; gestionar las modificaciones que se requieran, e intervenir en los proyectos de infraestructura productiva de largo plazo.
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2003)</small>
 
-V. Vigilar el establecimiento y operación de sistemas integrales de control contable y presupuestal, así como la correcta aplicación de los estados financieros de la comisión.
+###### Artículo 39-A.
 
-VI. Normar la aplicación de criterios de registro contable y de ejercicio presupuestal.
+A la Coordinación de Proyectos Termoeléctricos le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
 
-VII. Promover la aprobación de recursos fiscales para la Comisión, así como intervenir en los proyectos de infraestructura productiva de largo plazo, y
+I. Coordinar los trabajos y estudios para seleccionar sitios de nuevas plantas termoeléctricas o ampliación de las existentes.
 
-VIII. Apoyar la modernización de los sistemas informáticos en materia financiera.
+II. Elaborar los programas y presupuestos de obras termoeléctricos y sus obras asociadas, en congruencia con el Programa de Obras e Inversiones del Sector Eléctrico.
+
+III. Supervisar la ejecución de las obras y puesta en servicio de centrales generadoras termoeléctricas; ampliar, modernizar o reemplazar las instalaciones obsoletas, así como las de las obras asociadas, y
+
+IV. Elaborar, con la participación de la Subdirección Técnica, las especificaciones de equipo y materiales para la construcción de obras termoeléctricas, y definir las especificaciones de obras de infraestructura complementarias.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+###### Artículo 39-B.
+
+A la Coordinación de Proyectos de Transmisión y Transformación le corresponden, además de las facultades genéricas señaladas en el artículo 26 de este Estatuto, las siguientes:
+
+I. Coordinar la selección y evaluación de trayectorias y sitios, donde deban instalarse nuevas líneas de transmisión y subestaciones.
+
+II. Supervisar los programas de ejecución de los proyectos de las líneas de transmisión y subestaciones, así como las actividades previas y los trabajos de rehabilitación de la infraestructura existente.
+
+III. Supervisar la construcción de proyectos de transmisión, verificando la calidad, protección de los ecosistemas, oportunidad y costos.
+
+IV. Coordinar el establecimiento de normas, procedimientos y guías en las actividades de ingeniería de diseño y construcción de subestaciones y líneas de transmisión, y
+
+V. Coordinar la administración de los contratos de proyectos de obra pública financiada.
 
 ### Capítulo VII. De las Gerencias de Oficinas Nacionales
 
@@ -723,15 +987,19 @@ V. Delegar facultades a los titulares de las unidades administrativas adscritas.
 
 VI. Suscribir los documentos relativos al ejercicio de sus facultades y las que le correspondan por delegación o suplencia.
 
-VII. Proporcionar la información solicitada por autoridad competente o por unidades administrativas de la Comisión.
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2003)</small>
+
+VII. Proporcionar la información solicitada por autoridad competente o por unidades administrativas de la Comisión y expedir constancias de los documentos que obran en sus archivos.
 
 VIII. Asegurar el buen uso y preservar los bienes asignados a la Gerencia a su cargo, y
 
 IX. Las demás facultades que le confieran su jefe inmediato, los manuales y los ordenamientos aplicables.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+
 ###### Artículo 41.
 
-La Comisión cuenta con las Gerencias siguientes:
+La Comisión cuenta con las Gerencias y Unidades de estructura de mando siguientes:
 
 I. Abastecimientos;
 
@@ -751,95 +1019,127 @@ VIII. Capacitación;
 
 IX. Centrales Nucleoeléctricas;
 
-X. Comercial;
+X. Combustibles Líquidos y Carbón;
 
-XI. Comunicación Social;
+XI. Comunicación y Control;
 
-XII. Construcción de Proyectos de Transmisión y Transformación;
+XII. Comunicación Social;
 
-XIII. Construcción de Proyectos Hidroeléctricos;
+XIII. Construcción de Proyectos de Transmisión y Transformación;
 
-XIV. Construcción de Proyectos Termoeléctricos;
+XIV. Construcción de Proyectos Hidroeléctricos;
 
-XV. Contabilidad;
+XV. Construcción de Proyectos Termoeléctricos;
 
-XVI. Control de Gestión;
+XVI. Contabilidad;
 
-XVII. Créditos;
+XVII. Contratos de Obra Pública;
 
-XVIII. Desarrollo Social;
+XVIII. Control de Gestión;
 
-XIX. Distribución;
+XIX. Control y Evaluación Financiera;
 
-XX. Energéticos;
+XX. Créditos;
 
-XXI. Estudios de Ingeniería Civil;
+XXI. Desarrollo Social;
 
-XXII. Estudios Económicos;
+XXII. División para la Administración de Contratos con Productores Externos de Energía;
 
-XXIII. Evaluación y Programación de Inversiones;
+XXIII. Estudios de Ingeniería Civil;
 
-XXIV. Generación Hidroeléctrica;
+XXIV. Estudios Económicos;
 
-XXV. Generación Termoeléctrica;
+XXV. Evaluación y Programación de Inversiones;
 
-XXVI. Informática y Telecomunicaciones;
+XXVI. Gas Natural;
 
-XXVII. Ingeniería Eléctrica;
+XXVII. Gestión de Riesgos;
 
-XXVIII. Ingeniería Experimental y Control;
+XXVIII. Información y Administración de Energía;
 
-XXIX. Jurídica de Asuntos Consultivos;
+XXIX. Informática y Telecomunicaciones;
 
-XXX. Laboratorio de Pruebas de Equipos y Materiales;
+XXX. Ingeniería Civil;
 
-XXXI. Legal de Proyectos de Inversión Financiada;
+XXXI. Ingeniería Eléctrica;
 
-XXXII. Licitaciones y Contratación de Proyectos de Inversión Financiada;
+XXXII. Ingeniería Experimental y Control;
 
-XXXIII. Modernización;
+XXXIII. Ingeniería y Desarrollo;
 
-XXXIV. Operación del Sistema Eléctrico Nacional;
+XXXIV. Jurídica de Asuntos Consultivos;
 
-XXXV. Operación Financiera;
+XXXV. Laboratorio de Pruebas de Equipos y Materiales;
 
-XXXVI. Planeación Financiera;
+XXXVI. Legal de Proyectos de Inversión Financiada;
 
-XXXVII. Presupuesto;
+XXXVII. Licitaciones y Contratación de Proyectos de Inversión Financiada;
 
-XXXVIII. Programa de Ahorro de Energía del Sector Eléctrico;
+XXXVIII. Líneas de Transmisión;
 
-XXXIX. Programación de Sistemas Eléctricos;
+XXXIX. Modernización;
 
-XL. Programación y Evaluación Administrativa;
+XL. Operación del Mercado;
 
-XLI. Programación y Evaluación Financiera;
+XLI. Operación del Sistema Eléctrico Nacional;
 
-XLII. Protección Ambiental;
+XLII. Operación Financiera;
 
-XLIII. Protecciones, Comunicaciones y Control;
+XLIII. Planeación Financiera;
 
-XLIV. Proyectos de Líneas de Transmisión y Subestaciones;
+XLIV. Presupuestos;
 
-XLV. Proyectos de Productores Externos de Energía;
+XLV. Producción Hidroeléctrica;
 
-XLVI. Proyectos Geotermoeléctricos;
+XLVI. Producción Termoeléctrica;
 
-XLVII. Relaciones Laborales;
+XLVII. Programa de Ahorro de Energía del Sector Eléctrico;
 
-XLVIII. Seguimiento y Control;
+XLVIII. Programación de Sistemas Eléctricos;
 
-XLIX. Seguridad Industrial;
+XLIX. Programación y Evaluación Administrativa;
 
-L. Sistemas de Información y Administración de Energía;
+L. Programación y Evaluación Financiera;
 
-LI. Subestaciones y Líneas de Transmisión;
+LI. Programas Logísticos;
 
-LII. Técnica de Proyectos Hidroeléctricos;
+LII. Protección Ambiental;
 
-LIII. Técnica de Proyectos Termoeléctricos, y
+LIII. Protecciones;
 
-LIV. Técnica de Proyectos de Transmisión y Transformación.
+LIV. Proyecto ASARE;
+
+LV. Proyectos de Líneas de Transmisión y Subestaciones;
+
+LVI. Proyectos de Obra Pública Financiada;
+
+LVII. Proyectos de Productores Externos de Energía;
+
+LVIII. Proyectos Geotermoeléctricos;
+
+LIX. Relaciones Laborales;
+
+LX. Seguimiento y Control;
+
+LXI. Seguridad Física;
+
+LXII. Seguridad Industrial;
+
+LXIII. Subestaciones;
+
+LXIV. Técnica de Proyectos Hidroeléctricos;
+
+LXV. Técnica de Proyectos Termoeléctricos;
+
+LXVI. Técnica de Proyectos de Transmisión y Transformación;
+
+LXVII. Unidad de Administración de Riesgos;
+
+LXVIII. Unidad de Desarrollo Organizacional y Evaluación;
+
+LXIX. Unidad de Ingeniería Especializada, y
+
+LXX. Unidad del Fondo de la Habitación y Servicios Sociales para los Trabajadores Electricistas.
 
 ### Capítulo VIII. De las Areas Administrativas Regionales
 
@@ -847,21 +1147,23 @@ LIV. Técnica de Proyectos de Transmisión y Transformación.
 
 La Comisión contará con Areas Administrativas Regionales dentro de la circunscripción territorial que determine la Junta de Gobierno, que estarán jerárquicamente subordinadas a las unidades administrativas a las cuales se encuentren adscritas, y con las facultades específicas señaladas en los manuales que se expidan.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+
 ###### Artículo 43.
 
 Las Areas Administrativas Regionales a que se refiere el artículo anterior son las siguientes:
 
 I. Areas de Control;
 
-II. Areas de Transmisión y Transformación;
+II. Gerencia Regional de Transmisión;
 
 III. Gerencias Divisionales de Distribución;
 
 IV. Gerencias Regionales de Producción;
 
-V. Residencias Generales de Construcción de: Proyectos Hidroeléctricos; de Proyectos Termoeléctricos, y de Proyectos de Transmisión y Transformación, y
+V. Residencias Generales de Construcción de: Proyectos Hidroeléctricos; de Proyectos Termoeléctricos; y de Proyectos de Transmisión y Transformación, y
 
-VI. Residencias Generales de Proyectos Geotermoeléctricos.
+VI. Residencias Generales de Construcción de Proyectos Geotermoeléctricos.
 
 ### Capítulo IX. Del Organo de Control Interno
 
@@ -914,3 +1216,13 @@ Este Estatuto fue expedido por la Junta de Gobierno de Comisión Federal de Elec
 La Junta de Gobierno de Comisión Federal de Electricidad aprobó el acta de la sesión ordinaria de fecha 31 de agosto de 2000, en la sesión ordinaria celebrada el 19 de octubre de 2000, mediante el acuerdo número ciento setenta y siete/2000.
 
 México, D.F., a 24 de octubre de 2000. Director General Ing. Alfredo Elías Ayub Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 11 DE JUNIO DE 2003.
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones administrativas internas que se opongan al presente Acuerdo.
+
+Tercero. Los derechos de los trabajadores no se verán afectados por la reestructuración orgánica que se autoriza por el presente Acuerdo.
