@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2004-01-13"
+last_updated: "2004-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2004.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -33,7 +33,7 @@ Que en uso de la facultad que ha tenido a bien conferirme el H. Congreso de la U
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 25 DE MAYO DE 2000)</small>
 
-CóDIGO CIVIL PARA EL DISTRITO FEDERAL
+CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
 Disposiciones preliminares
 
@@ -437,7 +437,7 @@ El Ministerio Público cuidará que las actuaciones e inscripciones que se hagan
 
 ### CAPITULO IV. De las actas de adopción
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 54.
 
@@ -633,7 +633,7 @@ Si el reconocimiento se hiciere en oficina distinta de aquélla en que se levant
 
 ###### ARTICULO 84.
 
-Dictada la resolución judicial definitiva que autorice la adopción, el Juez, dentro del término de ocho días, remitirá copia certificada de las diligencias al Juez del Registro Civil que corresponda, a fin de que, con la comparecencia del adoptante, se levante el acta correspondiente.
+Dictada la resolución judicial definitiva que autorice la adopción, el Juez, dentro del término de tres días, remitirá copia certificada de las diligencias al Juez del Registro Civil que corresponda, a fin de que, con la comparecencia del adoptante, se levante el acta correspondiente.
 
 > <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -1009,11 +1009,11 @@ Las autoridades judiciales que declaren la ausencia, la presunción de muerte, l
 
 El Juez del Registro Civil hará la anotación correspondiente en las actas de nacimiento y de matrimonio, en su caso, e insertará los datos esenciales de la resolución judicial que se le haya comunicado.
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 133.
 
-Cuando se recobre la capacidad legal para administrar, se revoque la adopción simple o se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Juez del Registro Civil por el mismo interesado y por la autoridad que corresponda, para que cancele la inscripción a que se refiere el artículo anterior.
+Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Juez del Registro Civil por el mismo interesado o por la autoridad que corresponda para que cancele la inscripción a que se refiere el artículo anterior.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -2417,9 +2417,11 @@ Faltando los parientes a que se refieren las disposiciones anteriores, tienen ob
 
 Los hermanos y parientes colaterales a que se refiere el artículo anterior, tienen la obligación de proporcionar alimentos a los menores o discapacitados, este último supuesto incluye a los parientes adultos mayores, hasta el cuarto grado.
 
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 307.
 
-El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen el padre y los hijos.
+El adoptante y el adoptado tienen la obligación de darse alimentos en los casos en que la tienen los padres y los hijos.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -2497,7 +2499,7 @@ III.- El tutor;
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
-IV.- Los hermanos y demás parientes colaterales dentro del cuarto grado.
+IV.- Los hermanos y demás parientes colaterales dentro del cuarto grado;
 
 > <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -3057,7 +3059,9 @@ III.- A percibir la porción hereditaria y los alimentos que fije la ley;
 
 IV.- Los demás que se deriven de la filiación.
 
-### CAPITULO III. De la pérdida; suspensión y limitación de la patria potestad
+### CAPITULO III. De la pérdida; suspensión, limitación y terminación de la patria potestad
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
 
 #### SECCIÓN PRIMERA. Disposiciones generales
 
@@ -3155,19 +3159,23 @@ En el supuesto de la fracción I del artículo anterior, si los que ejercen la p
 
 Si el tutor o el Ministerio Público no consienten en la adopción, deberán expresar la causa en que se funden, la que el juez calificará tomando en cuenta los intereses del menor o incapacitado.
 
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 399.
 
-El procedimiento para hacer la adopción será fijado en el Código de Procedimientos Civiles.
+El procedimiento para tramitar la adopción será fijado en el Código de Procedimientos Civiles.
 
 ###### ARTICULO 400.
 
 Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 401.
 
-El Juez de lo Familiar que apruebe la adopción remitirá copia de las diligencias respectivas al Juez del Registro Civil del lugar para que levante el acta.
+El Juez de lo Familiar que apruebe la adopción remitirá copia de las diligencias respectivas al Juez del Registro Civil del Distrito Federal para que levante el acta.
+
+Levantada ésta, el Juez del Registro Civil remitirá las constancias de dicho registro a su homologo del lugar donde se levantó el Acta de Nacimiento originaria, para los efectos del artículo 87 de este Código.
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -3213,21 +3221,19 @@ El Juez de lo Familiar que apruebe la adopción remitirá copia de las diligenci
 
 #### SECCION TERCERA. De los efectos de la adopción
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 410-A.
 
-El adoptado se equipara al hijo consanguíneo para todos los efectos legales, incluyendo los impedimentos de matrimonio. El adoptado tiene en la familia del o los adoptantes los mismos derechos, deberes y obligaciones del hijo consanguíneo.
+El adoptado en adopción plena se equipara al hijo consanguíneo para todos los efectos legales, incluyendo los impedimentos del matrimonio. El adoptado tiene en la familia del o los adoptantes los mismos derechos, deberes y obligaciones del hijo consanguíneo.
 
-La adopción extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con las familias de éstos, salvo para los impedimentos de matrimonio. En el supuesto de que el adoptante esté casado con alguno de los progenitores del adoptado no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas que resultan de la filiación consanguínea.
+La adopción plena extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con la familia de éstos, salvo para los impedimentos de matrimonio. En el supuesto de que el adoptante esté casado o tenga una relación de concubinato con alguno de los progenitores del adoptado, no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas que resulten de la filiación consanguínea.
 
 La adopción es irrevocable.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
-
 ###### ARTICULO 410-B.
 
-Para que la adopción pueda tener efectos, además de las personas a que se refiere el artículo 397 de este Código, deberá otorgar su consentimiento el padre o madre del menor que se pretende adoptar, salvo que exista al respecto declaración judicial de abandono.
+(DEROGADO, G.O. 9 DE JUNIO DE 2004)
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -3253,11 +3259,9 @@ Para el caso de las personas que tengan vínculo de parentesco consanguíneo con
 
 #### SECCIÓN CUARTA. De la Adopción Internacional
 
-> <small>(ADICIONADO, D.O.F. 28 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
 
-ARTICULO 410 E.- La adopción internacional es la promovida por ciudadanos de otro país, con residencia habitual fuera del territorio nacional; y tiene como objeto incorporar, en una familia, a un menor que no puede encontrar una familia en su propio país de origen. Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano y, en lo conducente, por las disposiciones de este Código.
-
-Las adopciones internacionales siempre serán plenas.
+ARTICULO 410 E.- La adopción internacional es la promovida por ciudadanos de otro país, con residencia habitual fuera del territorio nacional. Esta adopción se regirá por los tratados internacionales ratificados por el Estado Mexicano bajo el principio de bilateralidad y, en lo conducente, por las disposiciones de este Código.
 
 La adopción por extranjeros es la promovida por ciudadanos de otro país, con residencia permanente en el territorio nacional. Esta adopción se regirá por lo dispuesto en el presente Código.
 
@@ -3451,7 +3455,7 @@ Estas medidas se tomarán a instancias de las personas interesadas, del menor cu
 
 Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 9 DE JUNIO DE 2004)</small>
 
 ### CAPITULO III. De la tutela legítima de los menores
 
@@ -3459,53 +3463,35 @@ Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego qu
 
 La patria potestad se acaba:
 
-I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
+I. Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1970)</small>
+II. Con la emancipación derivada del matrimonio;
 
-II.- Con la emancipación, derivada del matrimonio;
+III. Por la mayor edad del hijo;
 
-III.- Por la mayor edad del hijo;
+IV. Con la adopción del hijo;
 
-> <small>(ADICIONADA, G.O. 25 DE MAYO DE 2000)</small>
+V. Cuando el que ejerza la patria potestad de un menor, lo entregue a una Institución pública o privada de asistencia social legalmente constituida, para ser dado en adopción de conformidad con lo dispuesto por el artículo 901 bis del Código de Procedimientos Civiles.
 
-IV.- Con la adopción del hijo, en cuyo caso, la patria potestad la ejercerá el adoptante o los adoptantes.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 444.
 
 La patria potestad se pierde por resolución judicial:
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+I. Cuando el que la ejerza sea condenado expresamente a la pérdida de ese derecho;
 
-I.- Cuando el que la ejerza sea condenado expresamente a la pérdida de ese derecho;
+II. En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 283 de éste Código;
 
-II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 283;
+III. En el caso de violencia familiar en contra del menor, siempre que esta constituya una causa suficiente para su pérdida;
 
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
+IV. El incumplimiento de la obligación alimentaría por más de 90 días, sin causa justificada;
 
-III.- En el caso de violencia familiar en contra del menor, siempre que ésta constituya una causa suficiente para su pérdida;
+V. Por el abandono que el padre o la madre hicieren de los hijos por más de tres meses, sin causa justificada;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 25 DE MAYO DE 2000)</small>
+VI. Cuando el que la ejerza hubiera cometido contra la persona o bienes de los hijos, un delito doloso, por el cual haya sido condenado por sentencia ejecutoriada; y
 
-IV.- El incumplimiento reiterado de la obligación alimentaria inherente a la patria potestad;
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-V.- Por la exposición que el padre o la madre hicieren de sus hijos;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 25 DE MAYO DE 2000)</small>
-
-VI.- Por el abandono que el padre o la madre hicieren de los hijos por más de seis meses;
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-VII.- Cuando el que la ejerza hubiera cometido contra la persona o bienes de los hijos, un delito doloso, por el cual haya sido condenado por sentencia ejecutoriada; y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 25 DE MAYO DE 2000)</small>
-
-VIII.- Cuando el que la ejerza, sea condenado dos o más veces por delito grave.
+VII. Cuando el que la ejerza sea condenado dos o más veces por delitos graves.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -6213,7 +6199,7 @@ La legislación federal correspondiente determinará a quien pertenecen los cauc
 
 ###### ARTICULO 914.
 
-Los cauces abandonados por corrientes de agua que no sean de la Federación, pertenecen a los dueños de los terrenos por donde corren esas aguas. Si la corriente era limítrofe de varios predios, el cauce abandonado pertenece a los propietarios de ambas riberas proporcionalmente a la extensión del frente de cada heredad, a lo largo de la corriente, tirando una línea divisoria por en medio del álveo.
+Los cauces abandonados por corrientes de agua que no sean de la Federación, pertenecen a los dueños de los terrenos por donde corren esas aguas. Si la corriente era limítrofe de varios predios, el cauce abandonado pertenece a los propietarios de ambas riberas proporcionalmente a la extensión del frente de cada heredad, a lo largo de la corriente, tirando una línea divisoria por enmedio del álveo.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -10839,11 +10825,11 @@ I.- En todos los casos el propietario deberá dar aviso de manera fehaciente al 
 
 > <small>(REFORMADA, G.O. 16 DE ENERO DE 2003)</small>
 
-II.- El o los arrendatarios dispondrán de treinta días para dar aviso por escrito al arrendador, de su voluntad de ejercitar el derecho de preferencia que se consigna en este artículo, en los términos y condiciones de la oferta, exhibiendo para ello las cantidades exigibles al momento de la aceptación de la oferta, conforme a las condiciones señaladas en ésta.
+II.- El o los arrendatarios dispondrán de treinta días para dar aviso por escrito al arrendador, de su voluntad de ejercitar el derecho de preferencia que se consigna en este artículo, en los términos y condiciones de la oferta, exhibiendo para ello las cantidades exigibles al momento de la aceptación de la oferta, conforme a las condiciones señaladas en ésta;
 
 > <small>(REFORMADA, G.O. 16 DE ENERO DE 2003)</small>
 
-III.- En caso de que el arrendador, dentro del término de treinta días a que se refiere la fracción anterior, cambie cualquiera de los términos de la oferta inicial, estará obligado a dar un nuevo aviso por escrito al arrendatario, quien a partir de ese momento dispondrá de un nuevo plazo de treinta días. Si el cambio se refiere al precio, el arrendador solo estará obligado a dar este nuevo aviso cuando el incremento o decremento del mismo sea de más de 10 por ciento.
+III.- En caso de que el arrendador, dentro del término de treinta días a que se refiere la fracción anterior, cambie cualquiera de los términos de la oferta inicial, estará obligado a dar un nuevo aviso por escrito al arrendatario, quien a partir de ese momento dispondrá de un nuevo plazo de treinta días. Si el cambio se refiere al precio, el arrendador solo estará obligado a dar este nuevo aviso cuando el incremento o decremento del mismo sea de más de 10 por ciento;
 
 > <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1993)</small>
 
@@ -12649,7 +12635,7 @@ II.- Los gastos de rigurosa conservación y administración de los bienes concur
 
 III.- Los gastos de funerales del deudor, proporcionados a su posición social, y también los de su mujer e hijos que estén bajo su patria potestad y no tuviesen bienes propios;
 
-IV.- Los gastos de la última enfermedad de las personas mencionadas en la fracción anterior, hechos en los últimos seis meses que precedieron al día del fallecimiento:
+IV.- Los gastos de la última enfermedad de las personas mencionadas en la fracción anterior, hechos en los últimos seis meses que precedieron al día del fallecimiento;
 
 V.- El crédito por alimentos fiados al deudor para su subsistencia y la de su familia, en los seis meses anteriores a la formación del concurso;
 
@@ -13409,7 +13395,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 D.O.F. 11 DE NOVIEMBRE DE 1943.
 
-DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAIS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACION VIGENTES
+DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAIS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACION VIGENTES.
 
 ###### ARTICULO 1o.
 
@@ -13499,7 +13485,7 @@ D.O.F. 30 DE DICIEMBRE DE 1966.
 
 Primero.- El presente Decreto entrará en vigos (sic) tres días después de su publicación en el "Diario Oficial" de la Federación.
 
-SEGUNDO (sic).- Se derogan las disposiciones legales que se opongan al presente Decreto.
+Segundo.- Se derogan las disposiciones legales que se opongan al presente Decreto.
 
 D.O.F. 17 DE ENERO DE 1970.
 
@@ -13788,3 +13774,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 G.O. 13 DE ENERO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor 60 días naturales después de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 9 DE JUNIO DE 2004.
+
+PRIMERO. Remítase al Jefe de Gobierno del distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión también en el Diario Oficial de la Federación, en los términos previstos por el artículo 49 del Estatuto de Gobierno del Distrito Federal.
+
+SEGUNDO. Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Se derogan todas aquellas disposiciones que contravengan lo establecido en la presente Ley.
