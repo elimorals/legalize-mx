@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "1996-12-24"
+last_updated: "1997-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -1331,11 +1331,11 @@ El pago de los derechos por los servicios a que se refiere esta Sección, deber�
 
 OBJETO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 55], P.O. 24 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 92.
 
-Es objeto de este derecho, los servicios que presta la Secretaría de Finanzas por la expedición de licencias para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas siempre que se efectúe total o parcialmente con el público en general y la revalidación anual de las mismas.
+Es objeto de este Derecho, los servicios que presta la Secretaría de Finanzas, en coordinación con la Secretaría de Salud y Desarrollo Comunitario y la Secretaría de Gobierno, en el ámbito de sus respectivas competencias y en aplicación de los ordenamientos de la materia, por la expedición de licencias para el funcionamiento de establecimientos cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas siempre que se efectúe total o parcialmente con el público en general y la revalidación anual de las mismas.
 
 SUJETO
 
@@ -1411,11 +1411,17 @@ IV.- Cuando se dé alguna de las otras causales de cancelación de la licencia e
 
 Las anteriores causales se harán efectivas independientemente de la sanción que corresponda de seguir realizando la actividad sin licencia para el funcionamiento y revalidación anual.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 61], P.O. 24 DE DICIEMBRE DE 1996)
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 100-A.
+
+La Secretaría de Finanzas, en coordinación con la Secretaría de Salud y Desarrollo Comunitario y la Secretaría de Gobierno del Estado, tendrán a su cargo, en el ámbito de sus respectivas competencias, la inspección y vigilancia de los establecimientos que expendan bebidas alcohólicas, para verificar periódicamente que éstos reúnan las condiciones de salubridad e higiene que establecen las leyes, cumplan con la ubicación y con los horarios autorizados para la enajenación y expendio de bebidas alcohólicas, contenidos en las disposiciones legales aplicables y que su funcionamiento no ofenda la moral y las buenas costumbres.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 101.
 
-Las autoridades fiscales darán a conocer mediante resolución, la cancelación de las licencias de los establecimientos que expendan bebidas alcohólicas, la cual deberá estar debidamente fundada y motivada.
+Las autoridades fiscales darán a conocer mediante resolución, la cancelación de las licencias de los establecimientos que expendan bebidas alcohólicas, la cual deberá estar debidamente fundada y motivada. La motivación de la cancelación de las licencias se hará de acuerdo a los procedimientos realizados por las autoridades de salud y seguridad pública en cumplimiento con las visitas correspondientes que conforme a las normas aplicables en la materia deban efectuarse.
 
 Esta resolución podrá ser impugnada conforme a las disposiciones aplicables para el recurso administrativo de revocación establecido en el Código Fiscal para el Estado de Coahuila, dentro de los quince días siguientes al en que surta efectos la notificación a la que se refiere el párrafo anterior. En el mismo plazo, el contribuyente deberá suspender la enajenación o expendio de bebidas alcohólicas que realizaba al amparo de la licencia cancelada, hasta en tanto no se resuelva en definitiva sobre la inconformidad.
 
@@ -1425,7 +1431,9 @@ Esta resolución podrá ser impugnada conforme a las disposiciones aplicables pa
 
 La Secretaría de Finanzas, podrá autorizar o negar el funcionamiento de establecimientos para enajenar bebidas alcohólicas tomando en cuenta su ubicación, el número de establecimientos existentes en cada municipio, la conveniencia de combatir el alcoholismo y las disposiciones de salubridad aplicables.
 
-Las autoridades fiscales negarán o cancelarán la licencia para el funcionamiento de aquellos establecimientos que con su funcionamiento o su ubicación ofendan la moral pública o las buenas costumbres, cuando estén ubicados en la cercanía de escuelas, centros de trabajo, hospitales o cuarteles, o por así requerirlo el interés social.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
+
+Las autoridades fiscales negarán la expedición o cancelarán la licencia para el funcionamiento de aquellos establecimientos que con su funcionamiento o su ubicación ofendan la moral pública o las buenas costumbres, o cuando estén ubicados en la cercanía de escuelas, hospitales, parques y jardines públicos, instalaciones deportivas, cuarteles, centros de trabajo, centros culturales y templos religiosos o por así requerirlo el interés social, o cuando el establecimiento no cumpla con las normas de salubridad e higiene que establecen las leyes, incumpla en más de tres ocasiones con los horarios autorizados para la enajenación y expendio de bebidas, independientemente de las sanciones a que se haga acreedor por estos motivos. Para lo anterior la Secretaría de Finanzas solicitará la información correspondiente de las autoridades de salud y seguridad pública del Estado competentes.
 
 La Secretaría de Finanzas, cuando lo considere conveniente, podrá autorizar la reubicación de los establecimientos cuya licencia de funcionamiento hubiere sido cancelada en términos del párrafo anterior.
 
@@ -1457,7 +1465,7 @@ VI.- Cervecerías, depósitos de cerveza y otros establecimientos en los que ún
 
 VII.- Fonda, taquerías y otros de naturaleza análoga $2,380.00 (DOS MIL TRESCIENTOS OCHENTA PESOS 00/100 M.N.).
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 65], P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
 
 #### SECCION SEGUNDA. LOS PRESTADOS POR SUS UNIDADES ADMINISTRATIVAS
 
@@ -1465,25 +1473,17 @@ VII.- Fonda, taquerías y otros de naturaleza análoga $2,380.00 (DOS MIL TRESCI
 
 ###### ARTICULO 105.
 
-La expedición de la revalidación anual para el funcionamiento de establecimientos que enajenen bebidas alcohólicas o que presten servicios en los que se expendan dichas bebidas, causarán derechos conforme a la siguiente:
+La expedición de la revalidación anual para el funcionamiento de establecimientos que enajenen bebidas alcohólicas o que presten servicios en que se expendan dichas bebidas, causarán derechos por revalidación en función de los servicios de inspección y vigilancia que requieren, conforme a la siguiente:
 
 TARIFA
 
-I.- Distribuidor de cerveza o vinos, ladies bar, cabaret, discotec bar, video bar, salón de baile, casa de huéspedes, hoteles de paso y moteles de paso $7,437.00 (SIETE MIL CUATROCIENTOS TREINTA Y SIETE PESOS 00/100 M.N.);
+I.- Para la enajenación de bebidas alcohólicas para su consumo dentro de los establecimientos $7,437.00 (SIETE MIL CUATROCIENTOS TREINTA Y SIETE PESOS 00/100 M.N.).
 
-II.- Tienda de autoservicio $5,579.00 (CINCO MIL QUINIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.);
+II.- Para la enajenación de bebidas alcohólicas en restaurantes y establecimientos similares en que se consuman acompañadas de alimentos $3,719.00 (TRES MIL SETECIENTOS DIECINUEVE PESOS 00/100 M.N.).
 
-III.- Restaurante bar, restaurantes y estadios $3,719.00 (TRES MIL SETECIENTOS DIECINUEVE PESOS 00/100 M.N.);
+III.- Para la enajenación de bebidas alcohólicas en envase cerrado $2,600.00 (DOS MIL SEISCIENTOS PESOS 00/100 M.N.).
 
-IV.- Supermercados, agencias y cantina o bar $2,600.00 (DOS MIL SEISCIENTOS PESOS 00/100 M.N.);
-
-V.- Expendio de vinos y licores, tiendas de abarrotes, minisuper, casinos, clubes sociales y deportivos, círculos sociales y semejantes, billares y boliches, hoteles, salón de fiesta, y subagencia $1,860.00 (MIL OCHOCIENTOS SESENTA PESOS 00/100 M.N.); y
-
-VI.- Cervecerías, depósitos de cerveza y otros establecimientos en los que únicamente se enajene cerveza $1,190.00 (MIL CIENTO NOVENTA PESOS 00/100 M.N.)
-
-VII.- Fonda, taquerías y otros de naturaleza análoga $595.00 (QUINIENTOS NOVENTA Y CINCO PESOS 00/100 M.N.).
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 66], P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
 
 #### SECCION PRIMERA. POR SERVICIOS DE CONTROL VEHICULAR
 
@@ -1495,7 +1495,7 @@ VII.- Fonda, taquerías y otros de naturaleza análoga $595.00 (QUINIENTOS NOVEN
 
 ###### ARTICULO 106.
 
-Cuando el establecimiento cuenta con licencia y habiendo presentado aviso de suspensión de actividades, las reinicie en el 1o., 2o., 3o., o 4o., trimestre, pagará por ese año el 100%, 75%, 50% ó 25%, respectivamente, de las tarifas establecidas en el artículo anterior, sin perjuicio de las reducciones a que se tenga derecho conforme a los artículos 109 y 110 de esta Ley.
+Cuando el establecimiento cuenta con licencia y habiendo presentado aviso de suspensión de actividades, las reinicie en el 1o., 2o., 3o., o 4o., trimestre, pagará por ese año el 100%, 75%, 50% o 25%, respectivamente, de las tarifas establecidas en el artículo 105, sin perjuicio de las reducciones a que se tenga derecho conforme a los artículos 109 y 110 de esta Ley.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 67], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -2167,7 +2167,9 @@ OBJETO
 
 Es objeto de esta contribución la realización de pagos por concepto de impuestos, derechos y cualquier otra contribución que se cause conforme a la presente ley y demás disposiciones fiscales del Estado, así como los accesorios que se paguen.
 
-No se considerarán incluidos en el objeto de esta contribución, los pagos correspondientes al Impuesto Sobre Nóminas, al impuesto adicional sobre los derechos que se causen por los servicios que presta el Registro Público de la Propiedad y del Comercio y los derechos que se causen por los servicios que presta la Secretaria de Educación Pública.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
+
+No se considerarán incluidos en el objeto de esta contribución, los pagos correspondientes al Impuesto Sobre Nóminas, al Impuesto Sobre Diversiones y Espectáculos Públicos relativos a eventos cinematográficos, teatrales y de circo, al Impuesto por Servicios de Hospedaje, al Impuesto Sobre Ingresos por Premios Derivados de Loterías, Rifas, Sorteos, Juegos con Apuestas y Concursos, al Impuesto Adicional Sobre los Derechos que se causen por los servicios que presta el Registro Público de la Propiedad y del Comercio y los derechos que se causen por los servicios que presta la Secretaría de Educación Pública.
 
 El rendimiento de esta contribución será destinado exclusivamente al fomento a la educación en el Estado.
 
@@ -2646,3 +2648,13 @@ DISPOSICION DE VIGENCIA ANUAL
 UNICA.- Los contribuyentes del Impuesto Sobre Nóminas podrán optar por el pago anual del impuesto en términos del artículo 27 de esta ley siempre y cuando el monto de lo pagado por este mismo concepto durante el ejercicio fiscal anterior, no exceda de la cantidad de $1,500.00 (MIL QUINIENTOS PESOS 00/100 M.N.).
 
 Los contribuyentes que se acojan a la opción señalada en el párrafo anterior, gozarán de un estímulo fiscal consistente en un descuento del 15% (quince porciento) del impuesto a su cargo, siempre y cuando la declaración correspondiente al mes de enero, se presente dentro del plazo establecido en esta ley.
+
+P.O. 12 DE DICIEMBRE DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los propietarios de establecimientos que enajenen o expendan bebidas alcohólicas, que por cualquier motivo no hubieren pagado los derechos por la revalidación de la licencia de funcionamiento, de acuerdo a las tarifas establecidas en el artículo 105 de la Ley de Hacienda para el Estado de Coahuila que mediante el presente Decreto se reforma, deberán pagarlos dentro del mes siguiente a la fecha de entrada en vigor de este Decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO.- La presente reforma no deroga el Artículo 475-D del Código Municipal para el Estado de Coahuila.
