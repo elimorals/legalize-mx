@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-general-de-justicia-del-12026"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-05"
-last_updated: "1998-02-05"
+last_updated: "1999-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1999.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de febrero de 1998.
 
@@ -477,9 +477,15 @@ Se procurará que los oficiales secretarios, mediante las evaluaciones correspon
 
 Las normas reglamentarias y las demás disposiciones aplicables establecerán sistemas de estímulos económicos derivados del desempeño, formación profesional grados académicos y antigüedad de los agentes del Ministerio Público y agentes de la Policía Investigadora de la Procuraduría.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 42.
 
-Los agentes del Ministerio Público y de la Policía Investigadora que estén sujetos a proceso penal como probables responsables de delito doloso, o culposo con resultado de homicidio o lesiones graves, serán suspendidos desde que se dicte el auto de formal prisión o de sujeción a proceso y hasta que se emita sentencia ejecutoriada. En caso de que ésta fuese condenatoria serán destituidos; si por el contrario fuese absolutoria, se les restituirá en sus derechos.
+Los agentes del Ministerio Público y de la Policía Investigadora que estén sujetos a proceso penal como probables responsables de delito doloso, serán suspendidos desde que se dicte el auto de formal prisión o de sujeción a proceso y hasta que se emita sentencia ejecutoriada. En caso de que ésta fuese condenatoria serán destituidos; si por el contrario fuese absolutoria, se les restituirá en sus derechos.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+
+Rige lo anterior independientemente de la procedencia, en su caso, de las causas de suspensión y cese establecidas por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios y la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
 
 Los servidores públicos de la Procuraduría integrantes del Servicio Civil de Carrera, podrán además ser suspendidos o destituidos por las causas y siguiendo el procedimiento establecido en las disposiciones aplicables.
 
@@ -574,3 +580,9 @@ Ing. Alberto Cárdenas Jiménez
 El Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE DICIEMBRE DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
