@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2003-01-03"
+last_updated: "2003-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2003.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -195,7 +195,9 @@ III.- Secretaría de Planeación y Finanzas;
 
 IV.- Secretaría de Desarrollo Social;
 
-V.- Secretaría de Asentamientos Humanos y Obras Públicas;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2003)</small>
+
+V.- Secretaría de Infraestructura y Desarrollo Urbano;
 
 VI.- Secretaría de Desarrollo Económico;
 
@@ -215,9 +217,9 @@ XI.- Secretaría de Seguridad Pública;
 
 XII.- Secretaría del Trabajo y Previsión Social;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2003)</small>
 
-XIII.- Dirección de Tránsito y Transportes;
+XIII.- Dirección General de Informática;
 
 XIV.- Dirección del Registro Público de la Propiedad y del Comercio;
 
@@ -231,9 +233,7 @@ XVII.- Dirección General de Ecología;
 
 XVIII.- Dirección de Control y Evaluación Gubernamental, y
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-XIX.- Comisión Agraria Mixta.
+XIX.- (DEROGADA, P.O. 14 DE FEBRERO DE 2003)
 
 ### CAPITULO I
 
@@ -371,9 +371,9 @@ X.- Tramitar la expedición de pasaportes, en los términos de los Convenios res
 
 XI.- (DEROGADA, P.O. 31 DE MAYO DE 1991)
 
-(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2003)</small>
 
-XII.- Tramitar los nombramientos de los magistrados del Tribunal Superior de Justicia;
+XII.- Despachar los asuntos que conforme a la Ley General de Transporte Público del Estado de Baja California, competen al Gobernador del Estado;
 
 (REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
 
@@ -597,9 +597,9 @@ XXI.- Proporcionar asesoría en materia de planeación, programación, presupues
 
 XXII.- Formar parte de los órganos de dirección y de Gobierno de las entidades de la Administración Pública Paraestatal;
 
-XXIII.- Dirigir el servicio de procesamiento electrónico de datos a las dependencias y entidades de la Administración Pública Estatal;
+XXIII.- (DEROGADA, P.O. 14 DE FEBRERO DE 2003)
 
-XXIV.- Asesorar a las dependencias y entidades en la adquisición, uso y aprovechamiento de los recursos en materia de informática;
+XXIV.- (DEROGADA, P.O. 14 DE FEBRERO DE 2003)
 
 XXV.- Intervenir en el establecimiento de criterios y montos de los subsidios y estímulos fiscales, en coordinación con las dependencias a quien corresponda el fomento de las actividades productivas;
 
@@ -701,15 +701,17 @@ XX.- Los demás que determinen las leyes y reglamentos.
 
 ARTICULO 26 BIS.- (DEROGADO, P.O. 5 DE JUNIO DE 1998)
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE FEBRERO DE 2003)</small>
+
 ### CAPITULO VIII
 
-DE LA COMPETENCIA DE LA SECRETARIA DE ASENTAMIENTOS HUMANOS Y OBRAS PUBLICAS.
+DE LA COMPETENCIA DE LA SECRETARIA DE INFRAESTRUCTURA Y DESARROLLO URBANO.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 27.
 
-A la Secretaría de Asentamientos Humanos y Obras Públicas le corresponden la atención y trámite de los siguientes asuntos:
+A la Secretaría de Infraestructura y Desarrollo Urbano le corresponde la atención y trámite de los siguientes asuntos:
 
 > <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1992)</small>
 
@@ -955,27 +957,49 @@ XV.- Impulsar la permanente actualización de las Disposiciones Legales en mater
 
 XVI.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE FEBRERO DE 2003)</small>
+
 ### CAPITULO XIV
 
-DE LA COMPETENCIA DE LA DIRECCION DE TRANSITO Y TRANSPORTES.
+DE LA COMPETENCIA DE LA DIRECCION GENERAL DE INFORMATICA.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 33.
 
-A la Dirección de Tránsito y Transportes corresponde la atención y trámite de los siguientes asuntos:
+A la Dirección General de Informática, le corresponde la atención y trámite de los siguientes asuntos:
 
-I.- Vigilar el cumplimiento de las Leyes y Reglamentos de Tránsito y Transportes de jurisdicción estatal;
+I.- Formular, definir, establecer, aplicar y evaluar las políticas, lineamientos y criterios técnicos en materia de informática, a que deberán sujetarse las dependencias y entidades de la Administración Pública Estatal; así como vigilar su adecuado cumplimiento;
 
-II.- Vigilar y controlar el tránsito en las carreteras y caminos de jurisdicción estatal;
+II.- Definir la política para el desarrollo de soluciones de gobierno electrónico, aplicables a todos los sectores de la administración gubernamental;
 
-III.- Otorgar permisos y concesiones, previo Acuerdo del Gobernador, para la prestación de servicios de autotransportes en el Estado;
+III.- Integrar, establecer y coordinar el Programa Estatal de Informática y, vigilar el cumplimiento de las acciones que lo integran, así como las actividades que en la materia desarrollen las dependencias y entidades de la Administración Pública Estatal;
 
-IV.- Controlar los vehículos accidentados o retenidos por violación a las Leyes o Reglamentos aplicables;
+IV.- Integrar y coordinar el Sistema de Información Gubernamental, como mecanismo institucional para mantener actualizada y disponible para la Administración Pública Estatal, todo el conjunto de datos, indicadores y estadísticas de carácter relevante para el eficaz desempeño de sus funciones, así como la elaboración de nuevos sistemas que considere estratégicos;
 
-V.- Estudiar, planear y controlar el servicio público de transporte de pasajeros y de carga de jurisdicción estatal;
+V.- Operar y administrar la red estatal de datos, así como redes particulares de las dependencias y entidades de la Administración Pública Estatal que así lo soliciten;
 
-VI.- Estudiar y proponer, en el seno del Comité de Planeación para el Desarrollo del Estado, programas tendientes a mejorar las comunicaciones y transportes en el Estado, y
+VI.- Definir la estrategia de crecimiento, administración y operación de la red estatal de telecomunicaciones, así como las redes particulares de las dependencias integradas a éstas; asegurando el desarrollo ordenado de la infraestructura de telecomunicaciones del Ejecutivo del Estado;
 
-VII.- Los demás que determinen expresamente las Leyes y Reglamentos.
+VII.- Formular en coordinación con las dependencias y entidades de la Administración Pública Estatal, los proyectos de cambio integral de las mismas, en los que se incorpore el uso de la tecnología en materia de informática, para lograr mayor eficiencia en la función gubernamental;
+
+VIII.- Proveer a las dependencias y entidades gubernamentales de nuevas aplicaciones y servicios computacionales, así como brindar y dirigir el servicio de procesamiento electrónico de datos, a través de la organización y operación de equipos, y la custodia, emisión y distribución de información derivada de los sistemas institucionales;
+
+IX.- Emitir los dictámenes técnicos relacionados con programas de capacitación, adquisición y arrendamiento de equipo, la contratación de servicios de consultoría o asesoría en materia de informática, y la contratación de sistemas desarrollados por terceros que requieran las dependencias o entidades de Administración Pública Estatal;
+
+X.- Proporcionar asesoría a las distintas dependencias y entidades gubernamentales para la adquisición, instalación y utilización del equipo de cómputo que requieran para el eficaz desempeño de sus funciones;
+
+XI.- Asesorar y apoyar técnicamente a las dependencias y entidades de la Administración Pública Estatal, en el diseño y generación de indicadores y estadísticas de la actividad gubernamental, así como su actualización y conservación mediante bancos de información;
+
+XII.- Diseñar la estrategia del portal institucional del Poder Ejecutivo, así como administrar el contenido y apoyar a las dependencias y entidades paraestatales que así lo soliciten, en el diseño, elaboración, publicación y actualización de las páginas que lo conforman;
+
+XIII.- Diseñar la estrategia del Intranet del Poder Ejecutivo, así como administrar el contenido y apoyar a las dependencias y entidades paraestatales que así lo soliciten, en el diseño, elaboración, publicación y actualización de las páginas que lo conforman;
+
+XIV.- Diseñar la estrategia y validación de la información institucional que se generen a través del uso de sistemas de información, asegurando la integridad, confiabilidad, homogeneidad y oportunidad de la información crítica para el estado, así como promover el uso transversal de la misma, para la mejor toma de decisiones por parte del Poder Ejecutivo;
+
+XV.- Establecer en coordinación con la Oficialía Mayor de Gobierno, los planes, programas y calendarios anuales para impartir cursos en materia de informática;
+
+XVI.- Los demás que determinen las Leyes y Reglamentos.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE JUNIO DE 2001)</small>
 
@@ -1267,7 +1291,7 @@ DE LA COMPETENCIA DE LA COMISION AGRARIA MIXTA.
 
 ###### ARTICULO 40.
 
-A la Comisión Agraria Mixta le corresponden las atribuciones y deberes que establecen el Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal de Reforma Agraria y las demás Leyes y Decretos sobre la materia.
+(DEROGADO, P.O. 14 DE FEBRERO DE 2003)
 
 ### CAPITULO I
 
@@ -1646,6 +1670,38 @@ SEGUNDO.- Las atribuciones que se otorgan en otras Leyes, reglamentos, decretos 
 TERCERO.- El titular del Poder Ejecutivo dentro de los treinta días siguientes a partir de la entrada en vigor de las presentes reformas, deberá realizar las adecuaciones al reglamento interno de la Secretaría de Seguridad Pública y de la Secretaría General de Gobierno.
 
 CUARTO.- El titular del Poder Ejecutivo, por conducto de las dependencias competentes, integrará una comisión intersecretarial, a efecto de realizar la transferencia de los recursos humanos, materiales y presupuestales de la Secretaría de Seguridad Pública a la Secretaría General de Gobierno, para atención de las atribuciones que se le confieren.
+
+P.O. 14 DE FEBRERO DE 2003.
+
+DECRETO NUMERO 147.
+
+PRIMERO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las referencias que se hacen o que se hagan y las atribuciones que se otorgan en otras leyes, reglamentos, decretos y demás disposiciones legales, a la Secretaría de Asentamientos Humanos y Obras Públicas, se entenderán hechas a la Secretaría de Infraestructura y Desarrollo Urbano, a partir de la entrada en vigor de las presentes reformas.
+
+TERCERO.- Los asuntos a cargo de la Secretaría de Asentamientos Humanos y Obras Públicas, que se encontraren en trámite y pendientes de resolución al momento de entrar en vigor de las presentes reformas, serán atendidos y resueltos por la Secretaría de Infraestructura y Desarrollo Urbano.
+
+CUARTO.- Los derechos laborales de los servidores públicos y empleados de la Secretaría de Asentamientos Humanos y Obras Públicas, serán plenamente respetados adecuando los puestos y nombramientos a las necesidades de la Secretaría de Infraestructura y Desarrollo Urbano, de conformidad con los reglamentos internos y manuales operativos, que para los objetivos de la nueva estructura administrativa se requieran de acuerdo a estas reformas.
+
+QUINTO.- Los recursos financieros, materiales y humanos, así como los archivos de la Secretaría de Asentamientos Humanos y Obras Públicas, se entenderán que son de la Secretaría de Infraestructura y Desarrollo Urbano, observando los trámites administrativos y jurídicos que para el efecto disponga la Dirección de Control y Evaluación Gubernamental del Estado.
+
+SEXTO.- El titular del Poder Ejecutivo dentro de los noventa días siguientes a partir de la entrada en vigor de las presentes reformas expedirá el reglamento interno de la Secretaría de Infraestructura y Desarrollo Urbano. En tanto no se expida el Reglamento a que se refiere el párrafo anterior, la Secretaría de Infraestructura y Desarrollo Urbano, deberá seguir aplicando el reglamento interno de la Secretaría de Asentamientos Humanos y Obras Públicas.
+
+P.O. 14 DE FEBRERO DE 2003.
+
+DECRETO NUMERO 148.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
+
+SEGUNDO.- Los asuntos que tiene a su cargo la Dirección de Informática de la Secretaría de Planeación y Finanzas que se encontraren en trámite y pendientes de resolución al momento de entrar en vigor este Decreto, serán resueltos por la Dirección General de Informática.
+
+TERCERO.- El personal, los bienes, recursos presupuestales e información que la Dirección de Informática de la Secretaría de Planeación y Finanzas haya utilizado o estén asignados para la atención de los asuntos de su competencia, se destinarán a las atribuciones y funciones de la Dirección General de Informática que se crea con este Decreto.
+
+CUARTO.- Las referencias que se hacen o se hagan y las atribuciones que se otorguen en otras leyes, reglamentos, decretos y demás disposiciones legales a la Dirección de Informática de la Secretaría de Planeación y Finanzas, se entenderán hechas a la Dirección General de Informática a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- La vigilancia del cumplimiento de las leyes y reglamentos en materia de Transporte Público, el otorgamiento de permisos y concesiones de servicio público para el arrastre, almacenamiento y guarda de vehículos, el control de vehículos accidentados o retenidos por violación de las leyes o reglamentos aplicables, el transporte de pasajeros y de carga, y demás para la prestación de servicios de transporte público, a que se refería el artículo 33 que se reforma, se entiende que corresponden a los ayuntamientos en sus respectivos ámbitos de competencia. Asimismo, las referencias hechas o que se hagan y las atribuciones otorgadas o que se otorguen en la Ley de Tránsito y Transportes del Estado de Baja California, otras leyes, reglamentos y demás disposiciones aplicables, a la Dirección de Tránsito y Transportes del Estado, o a cualquiera de sus unidades administrativas en materia de expedición, canje o revalidación de licencias para conducir vehículos, tarjetas de circulación, Placas o calcomanías del servicio particular y público, así como todos los trámites relacionados con dichos servicios, se entenderán referidos a la Secretaría de Planeación y Finanzas.
+
+SEXTO.- El Titular del Poder Ejecutivo, dentro de los noventa días siguientes a partir de la vigencia de este Decreto, expedirá el Reglamento Interno de la Dirección General de Informática.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 279.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE TLAXCALA”.]
 
