@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2000-03-29"
+last_updated: "2003-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2003.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -110,6 +110,14 @@ CODIGO FAMILIAR DEL ESTADO DE ZACATECAS
 ###### ARTICULO 1.
 
 Las normas del derecho de familia son de carácter social y tutelares substancialmente de la mujer, de los menores, de los mayores incapacitados y de los ancianos.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2003)</small>
+
+Se reconoce el derecho de toda persona a una vida libre de violencia y se promoverá el combate a la violencia familiar hasta su erradicación.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2003)</small>
+
+En lo conducente, son aplicables a las instituciones que regula este ordenamiento, las disposiciones de la Ley para prevenir y atender la violencia familiar, que son de orden público e interés social.
 
 ###### ARTICULO 2.
 
@@ -1401,7 +1409,9 @@ IX. La separación del hogar conyugal por desavenencia entre los cónyuges, si s
 
 X. La declaración de ausencia legalmente hecha o la presunción de muerte, en los casos de excepción en que no se necesite para que se haga que preceda la declaración de ausencia;
 
-XI. La sevicia, las amenazas, la difamación o injurias graves, o los malos tratamientos de un cónyuge para el otro, siempre que tales actos hagan imposible la vida conyugal, a juicio del Juez;
+> <small>(REFORMADA P.O. 19 DE FEBRERO DE 2003)</small>
+
+XI. La violencia familiar de un cónyuge al otro o hacia los hijos, se ejerza o no, en el domicilio conyugal, así como las amenazas, las injurias o los malos tratos aunque no sean recurrentes y cíclicos pero que, a juicio del Juez, hagan imposible la vida en común;
 
 XII. La negativa injustificada de los cónyuges a cumplir con las obligaciones relativas a la contribución económica para el sostenimiento del hogar y la alimentación de los hijos, o el incumplimiento de la sentencia que condene al pago de tal obligación;
 
@@ -1821,6 +1831,8 @@ II. Los nacidos dentro de los trescientos días siguientes al en que cesó, la v
 
 ### CAPITULO PRIMERO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS HIJOS
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 306.
 
 La filiación de los hijos de los cónyuges se prueba con la partida de nacimiento de aquéllos y con el acta de matrimonio de éstos.
@@ -2203,7 +2215,7 @@ EN ESTABLECIMIENTOS DE BENEFICENCIA
 
 ###### ARTICULO 370.
 
-Los descendientes, cualesquiera que sean su estado, edad o condición, deben honrar y respetar a sus ascendientes.
+Los ascendientes y descendientes, cualesquiera que sean su estado, edad o condición, tienen el deber recíproco de honrarse y respetarse.
 
 ###### ARTICULO 371.
 
@@ -2251,9 +2263,11 @@ Solamente por falta o impedimento del padre y de la madre, la patria potestad co
 
 Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los que la ejerzan sin permiso de ellos o decreto de la Autoridad competente.
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 380.
 
-Las personas que tienen al hijo bajo la patria potestad deben educarlo convenientemente y tienen la facultad de corregirlo y castigarlo mesuradamente.
+Las personas que tienen al hijo bajo la patria potestad deben educarlo y corregirlo con respeto a su dignidad; por tanto, quedan prohibidos los castigos corporales e infamantes.
 
 ###### ARTICULO 381.
 
@@ -4326,3 +4340,13 @@ SEXTO. El presupuesto de Egresos del Estado para el ejercicio fiscal de 1998, co
 P.O. 29 DE MARZO DE 2000.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 19 DE FEBRERO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
