@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-las-juntas-de-mejoramiento-moral-civico-y-7764"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-23"
-last_updated: "1958-12-31"
+last_updated: "1967-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA LAS JUNTAS DE MEJORAMIENTO MORAL, CIVICO Y MATERIAL EN EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1958.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1967.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 23 de diciembre de 1953.
 
@@ -45,7 +45,7 @@ I.- Por inculcar en los ciudadanos un claro concepto de sus derechos y obligacio
 
 II.- Fomentar el culto a los héroes que han forjado la Patria, sacrificando su tranquilidad y aún su propia existencia.
 
-III.- Realizar todas las obras de mejoramiento material a su alcance, como pavimentación, alumbrado, servicio de agua potable, drenaje, construcción de planteles escolares, hospitales, centros de asistencia social, carreteras, interurbanas, establecimientos de beneficiencia (sic), parques, jardines, obras de ornamento, y en general todas aquellas obras materiales que tiendan al mejoramiento de la higiene y la salud pública.
+III.- (DEROGADA POR ARTICULO NOVENO TRANSITORIO DE LA LEY DE PLANIFICACION DEL ESTADO DE NUEVO LEON, P.O. 27 DE DICIEMBRE DE 1967)
 
 ###### Artículo 3o.
 
@@ -140,3 +140,13 @@ ELIAS CANTU
 P.O. 31 DE DICIEMBRE DE 1958.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 27 DE DICIEMBRE DE 1967.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+LEY DE PLANIFICACION DEL ESTADO DE NUEVO LEON
+
+1o.- Esta Ley entrará en vigor el día primero de enero de 1968, si para entonces ha sido publicada en el Periódico Oficial del Estado, o, en su defecto, tres días después de que se haya efectuado la publicación.
+
+9o.- Se deroga la fracción III del artículo 2o. de la Ley de fecha 4 de octubre de 1953 que creó las Juntas de Mejoramiento Moral, Cívico y Material en el Estado de Nuevo León, subsistiendo dicha Ley en todo lo que no se contraponga a la presente.
