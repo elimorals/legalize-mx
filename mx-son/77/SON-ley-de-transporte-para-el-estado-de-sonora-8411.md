@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transporte-para-el-estado-de-sonora-8411"
 country: "mx"
 rank: "ley"
 publication_date: "1992-07-20"
-last_updated: "1992-07-20"
+last_updated: "1994-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el lunes 20 de julio de 1992.
 
@@ -441,9 +441,11 @@ VI.- Observaciones.
 
 El libro de control deberá tener debidamente selladas y foliadas cada una de sus hojas.
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 32.
 
-Recibida la solicitud se turnará a la Secretaría de Infraestructura Urbana y Ecología para que elabore un dictamen técnico sobre la misma; en un plazo que no excederá de sesenta días, con base en el dictamen anterior, la Dirección de Transporte determinará la procedencia o improcedencia del otorgamiento de las concesiones solicitadas; si fuera favorable, se radicará y se publicará ésta, por una sola vez en el Boletín Oficial del Gobierno del Estado y en un periódico de circulación en la Entidad, a costa del interesado, con el fin de que en un plazo de quince días contados a partir de la última publicación, las personas que pudiesen resultar afectadas presenten sus observaciones.
+Recibida la solicitud se turnará a la Secretaría de Infraestructura Urbana y Ecología para que elabore un dictamen técnico sobre la misma; en un plazo que no excederá de sesenta días, con base en el dictamen anterior, la Dirección de Transporte determinará la procedencia o improcedencia del otorgamiento de las concesiones solicitada; si fuera favorable, se radicará y se publicará ésta, por una sola vez en el Boletín Oficial del Gobierno del Estado y en un periódico de circulación en la Entidad, a costa del interesado, con el fin de que en un plazo de quince días contados a partir de la última publicación, las personas que pudiesen resultar afectadas presenten sus observaciones.
 
 ###### ARTICULO 33.
 
@@ -658,6 +660,8 @@ IV.- Central: el lugar donde se ubiquen dos o más terminales.
 Cuando los concesionarios de automóviles de alquiler pretendan reubicar la asignación del sitio, deberán formular solicitud a la Dirección General de Transporte, misma que en el término de cinco días hábiles notificará a los terceros que pudiesen resultar perjudicados, a fin de que aleguen lo que a su derecho convenga, en un término de diez días naturales. Vencido el término la Dirección General de Transporte resolverá en definitiva.
 
 ### CAPITULO IV. DEL PROCEDIMIENTO PARA EL OTORGAMIENTO Y CANCELACION DE CONCESIONES PARA EXPLOTACION DE CENTRALES Y TERMINALES
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 54.
 
@@ -970,3 +974,11 @@ LIC. MANLIO FABIO BELTRONES RIVERA
 EL SECRETARIO DE GOBIERNO,
 
 LIC. ROBERTO SANCHEZ CEREZO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 30 DE DICIEMBRE DE 1994.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
