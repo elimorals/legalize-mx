@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1993-08-23"
+last_updated: "1993-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE SEPTIEMBRE DE 1993 (3) EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 1993.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 23 DE AGOSTO DE 1993.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE SEPTIEMBRE DE 1993.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -192,9 +192,39 @@ En los juicios del orden civil, la sentencia definitiva deberá ser conforme a l
 
 No se autoriza la celebración de tratados para la extradición de reos políticos, ni para la de aquellos delincuentes del orden común que hayan tenido en el país donde cometieron el delito, la condición de esclavos; ni de convenios o tratados en virtud de los que se alteren las garantías y derechos establecidos por esta Constitución para el hombre y el ciudadano.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
 ###### Art. 16.
 
-Nadie puede ser molestado en su persona, familia, domicilio, papeles y posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento. No podrá librarse ninguna orden de aprehensión o detención, sino por la autoridad judicial, sin que preceda denuncia, acusación o querella de un hecho determinado que la ley castigue con pena corporal, y sin que estén apoyadas aquéllas por declaración, bajo protesta, de persona digna de fe o por otros datos que hagan probable la responsabilidad del inculpado, hecha excepción de los casos de flagrante delito en que cualquiera persona puede aprehender al delincuente y a sus cómplices, poniéndolos sin demora a disposición de la autoridad inmediata. Solamente en casos urgentes, cuando no haya en el lugar ninguna autoridad judicial, y tratándose de delitos que se persiguen de oficio, podrá la autoridad administrativa, bajo su más estrecha responsabilidad, decretar la detención de un acusado, poniéndolo inmediatamente a disposición de la autoridad judicial. En toda orden de cateo, que sólo la autoridad judicial podrá expedir y que será escrita, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan, a lo que únicamente debe limitarse la diligencia, levantándose al concluirla, una acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa, por la autoridad que practique la diligencia.
+Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia, acusación o querella de un hecho determinado que la ley señale como delito, sancionado cuando menos con pena privativa de libertad y existan datos que acrediten los elementos que integran el tipo penal y la probable responsabilidad del indiciado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+La autoridad que ejecute una orden judicial de aprehensión, deberá poner al inculpado a disposición del juez, sin dilación alguna y bajo su más estricta responsabilidad. La contravención a lo anterior será sancionada por la ley penal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+En los casos de delito flagrante, cualquier persona puede detener al indiciado poniéndolo sin demora a disposición de la autoridad inmediata y ésta, con la misma prontitud, a la del Ministerio Público.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+Sólo en casos urgentes, cuando se trate de delito grave así calificado por la ley y ante el riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público podrá, bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+En casos de urgencia o flagrancia, el juez que reciba la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+Ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial; este plazo podrá duplicarse en aquellos casos que la ley prevea como delincuencia organizada. Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal.
+
+> <small>(REFORMADO [N. DE E. REFORMADO Y REUBICADO], D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+En toda orden de cateo, sólo la autoridad judicial podrá expedir y que será escrita, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan, a lo que únicamente debe limitarse la diligencia, levantándose al concluirla, una acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa, por la autoridad que practique la diligencia.
 
 La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de los libros y papeles indispensables para comprobar que se han acatado las disposicioies (sic) fiscales, sujetándose en estos casos, a las leyes respectivas y a las formalidades prescriptas para los cateos.
 
@@ -234,35 +264,39 @@ La Federación y los Gobiernos de los Estados establecerán instituciones especi
 
 Los reos de nacionalidad mexicana que se encuentren compurgando penas en países extranjeros, podrán ser trasladados a la República para que cumplan sus condenas con base en los sistemas de readaptación social previstos en este artículo, y los reos de nacionalidad extranjera sentenciados por delitos del orden federal en toda la República, o del fuero común en el Distrito Federal, podrán ser trasladados al país de su origen o residencia, sujetándose a los Tratados Internacionales que se hayan celebrado para ese efecto. Los gobernadores de los Estados podrán solicitar al Ejecutivo Federal, con apoyo en las leyes locales respectivas, la inclusión de reos del orden común en dichos Tratados. El traslado de los reos sólo podrán (sic) efectuarse con su consentimiento expreso.
 
+> <small>(REFORMADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
 ###### Art. 19.
 
-Ninguna detención podrá exceder del término de tres días, sin que se justifique con un auto de formal prisión, en el que se expresarán: el delito que se impute al acusado, los elementos que constituyen aquél, lugar, tiempo y circunstancias de ejecución y los datos que arroje la averiguación previa, los que deben ser bastantes para comprobar el cuerpo del delito y hacer probable la responsabilidad del acusado. La infracción de esta disposición hace responsable a la autoridad que ordene la detención o la consienta, y a los agentes, ministros, alcaides o carceleros que la ejecuten.
+Ninguna detención ante autoridad judicial podrá exceder del término de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de formal prisión y siempre que de lo actuado aparezcan datos suficientes que acrediten los elementos del tipo penal del delito que se impute al detenido y hagan probable la responsabilidad de éste. La prolongación de la detención en perjuicio del inculpado será sancionada por la ley penal. Los custodios que no reciban copia autorizada del auto de formal prisión dentro del plazo antes señalado, deberán llamar la atención del juez sobre dicho particular en el acto mismo de concluir el término, y si no reciben la constancia mencionada dentro de las tres horas siguientes pondrán al inculpado en libertad.
 
-Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de formal prisión. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de acusación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
+Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de formal prisión o de sujeción a proceso. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de averiguación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
 
-Todo mal tratamiento que en la aprehensión o en las prisiones, toda molestia que se infiera sin motivo legal; toda gabela o contribución, en las cárceles, son abusos que serán corregidos por las leyes y reprimidos por las autoridades.
+Todo maltratamiento que en la aprehensión o en las prisiones, toda molestia que se infiera sin motivo legal; toda gabela o contribución, en las cárceles, son abusos que serán corregidos por las leyes y reprimidos por las autoridades.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE DICIEMBRE DE 1948)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
 ###### Art. 20.
 
-En todo juicio del orden criminal tendrá el acusado las siguientes garantías:
+En todo proceso de orden penal, tendrá el inculpado las siguientes garantías:
 
-> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
-I.- Inmediatamente que lo solicite será puesto en libertad provisional bajo caución, que fijará el Juzgador, tomando en cuenta sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito, incluyendo sus modalidades, merezca ser sancionado con pena cuyo término medio aritmético no sea mayor de cinco años de prisión, sin más requisito que poner la suma de dinero respectiva, a disposición de la autoridad judicial, u otorgar otra caución bastante para asegurarla, bajo la responsabilidad del Juzgador en su aceptación.
+I.- Inmediatamente que lo solicite, el juez deberá otorgarle la libertad provisional bajo caución, siempre y cuando se garantice el monto estimado de la reparación del daño y de las sanciones pecuniarias que en su caso puedan imponerse al inculpado y no se trate de delitos en que por su gravedad la ley expresamente prohiba conceder este beneficio.
 
-La caución no excederá de la cantidad equivalente a la percepción durante dos años del salario mínimo general vigente en el lugar en que se cometió el delito. Sin embargo, la Autoridad Judicial, en virtud de la especial gravedad del delito, las particulares circunstancias personales del imputado o de la víctima, mediante resolución motivada, podrá incrementar el monto de la caución hasta la cantidad equivalente a la percepción durante cuatro años del salario mínimo vigente en el lugar en que se cometió el delito.
+El monto y la forma de caución que se fije deberán ser asequibles para el inculpado. En circunstancias que la ley determine, la autoridad judicial podrá disminuir el monto de la caución inicial.
 
-Si el delito es intencional y representa para su autor un beneficio económico o causa a la víctima daño y perjuicio patrimonial, la garantía será cuando menos tres veces mayor al beneficio obtenido o a los daños y perjuicios patrimoniales causados.
+El juez podrá revocar la libertad provisional cuando el procesado incumpla en forma grave con cualquiera de las obligaciones que en términos de ley se deriven a su cargo en razón del proceso.
 
-Si el delito es preterintencional o imprudencial, bastará que se garantice la reparación de los daños y perjuicios patrimoniales, y se estará a lo dispuesto en los dos párrafos anteriores.
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
-II.- No podrá ser compelido a declarar en su contra, por lo cual queda rigurosamente prohibida toda incomunicación o cualquier otro medio que tienda a aquel objeto.
+II.- No podrá ser obligado a declarar. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura. La confesión rendida ante cualquier autoridad distinta del Ministerio Público o del juez, o ante éstos sin la asistencia de su defensor carecerá de todo valor probatorio.
 
 III.- Se le hará saber en audiencia pública, y dentro de las cuarenta y ocho horas siguientes a su consignación a la justicia, el nombre de su acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en este acto su declaración preparatoria.
 
-IV.- Será careado con los testigos que depongan en su contra, los que declararán en su presencia si estuviesen en el lugar del juicio, para que pueda hacerles todas las preguntas conducentes a su defensa.
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+IV.- Siempre que lo solicite, será careado en presencia del juez con quienes depongan en su contra.
 
 > <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 1917)</small>
 
@@ -272,15 +306,27 @@ VI.- Será juzgado en audiencia pública por un juez o jurado de ciudadanos que 
 
 VII.- Le serán facilitados todos los datos que solicite para su defensa y que consten en el proceso.
 
-VIII.- Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión; y antes de un año si la pena máxima excediera de ese tiempo.
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
-IX.- Se le oirá en defensa por sí o por persona de su confianza, o por ambos, según su voluntad. En caso de no tener quien lo defienda, se le presentará lista de los defensores de oficio para que elija el que, o los que le convengan. Si el acusado no quiere nombrar defensores, después de ser requerido para hacerlo, al rendir su declaración preparatoria, el juez le nombrará uno de oficio. El acusado podrá nombrar defensor desde el momento en que sea aprehendido, y tendrá derecho a que éste se halle presente en todos los actos del juicio; pero tendrá obligación de hacerlo comparecer cuantas veces se necesite.
+VIII.- Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediere de ese tiempo, salvo que solicite mayor plazo para su defensa.
+
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+IX.- Desde el inicio de su proceso será informado de los derechos que en su favor consigna esta Constitución y tendrá derecho a una defensa adecuada, por sí, por abogado, o por persona de su confianza. Si no quiere o no puede nombrar defensor, después de haber sido requerido para hacerlo, el juez le designará un defensor de oficio. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera; y,
 
 X.- En ningún caso podrá prolongarse la prisión o detención, por falta de pago de honorarios de defensores o por cualquiera otra prestación de dinero, por causa de responsabilidad civil o algún otro motivo análogo.
 
 Tampoco podrá prolongarse la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motivare el proceso.
 
 En toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+Las garantías previstas en las fracciones V, VII y IX también serán observadas durante la averiguación previa, en los términos y con los requisitos y límites que las leyes establezcan; lo previsto en las fracciones I y II no estará sujeto a condición alguna.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+En todo proceso penal, la víctima o el ofendido por algún delito, tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando la requiera y, los demás que señalen las leyes.
 
 > <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
@@ -728,6 +774,10 @@ Los partidos políticos tendrán derecho al uso en forma permanente de los medio
 
 En los procesos electorales federales los partidos políticos nacionales deberán contar, en forma equitativa, con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular.
 
+> <small>(ADICIONADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+La ley establecerá las reglas a que se sujetarán el financiamiento de los partidos políticos y sus campañas electorales.
+
 > <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
 Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
@@ -744,17 +794,47 @@ El organismo público será autoridad en la materia, profesional en su desempeñ
 
 El organismo público agrupará para su desempeño, en forma integral y directa, además de las que le determine la ley, las actividades relativas al padrón electoral, preparación de la jornada electoral, computos y otorgamiento de constancias, capacitación electoral y educación cívica e impresión de materiales electorales. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que disponga la ley.
 
-> <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 1990)</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO, PUBLICADO EN EL D.O.F. EL 3 DE SEPTIEMBRE DE 1993, EL ANTERIOR PARRAFO DECIMO PRIMERO HA SIDO DEROGADO.</small>
 
-La ley establecerá un sistema de medios de impugnación de los que conocerán el organismo público y un tribunal autónomo, que será órgano jurisdiccional en materia electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+> <small>(REFORMADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
-> <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 1990)</small>
+La ley establecerá un sistema de medios de impugnación de los que conocerán el organismo público previsto en el párrafo octavo de este artículo y el Tribunal Federal Electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten invariablemente al principio de legalidad.
 
-El tribunal electoral tendrá la competencia y organización que determine la ley; funcionará en pleno o salas regionales, resolverá en una sola instancia y sus sesiones serán públicas. Los Poderes Legislativo y Ejecutivo garantizarán su debida integración. Contra sus resoluciones no procederá juicio ni recurso alguno, pero aquéllas que se dicten con posterioridad a la jornada electoral sólo podrán ser revisadas y en su caso modificadas por los Colegios Electorales en los términos de los Artículos 60 y 74, fracción I, de esta Constitución. Para el ejercicio de sus funciones, contará con cuerpos de magistrados y jueces instructores, los cuales serán independientes y responderán solo al mandato de la ley.
+> <small>(ADICIONADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+En materia electoral la interposición de los recursos no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnado.
+
+> <small>(ADICIONADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+El Tribunal Federal Electoral será órgano autónomo y máxima autoridad jurisdiccional electoral. Los Poderes Legislativo, Ejecutivo y Judicial garantizarán su debida integración.
+
+> <small>(ADICIONADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+El Tribunal Federal Electoral tendrá competencia para resolver en forma definitiva e inatacable, en los términos de esta Constitución y la ley, las impugnaciones que se presenten en materia electoral federal, las que establecen los párrafos segundo y tercero del artículo 60 de esta Constitución, y las diferencias laborales que se presenten con las autoridades electorales establecidas por este artículo. Expedirá su Reglamento Interior y realizará las demás atribuciones que le confiera la ley.
+
+> <small>(ADICIONADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+El Tribunal Federal Electoral funcionará en Pleno o Salas y sus sesiones de resolución serán públicas en los términos que establezca la ley.
+
+> <small>(ADICIONADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+Para cada proceso electoral se integrará una Sala de segunda instancia con cuatro miembros de la judicatura federal y el Presidente del Tribunal Federal Electoral, quien la presidirá. Esta Sala será competente para resolver las impugnaciones a que se refiere el párrafo tercero del artículo 60 de esta Constitución.
+
+> <small>(ADICIONADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+El Tribunal Federal Electoral se organizará en los términos que señale la ley. Para el ejercicio de su competencia contará con cuerpos de magistrados y jueces instructores, los cuales serán independientes y responderán sólo al mandato de la ley.
 
 > <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 1990)</small>
 
 Los consejeros magistrados y los magistrados del tribunal deberán satisfacer los requisitos que señale la ley, que no podrán ser menores a los que señala esta Constitución para ser ministro de la Suprema Corte de Justicia de la Nación. Serán electos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, de entre los propuestos por el Ejecutivo Federal. Si dicha mayoría no se lograra en la primera votación, se procederá a insacular de los candidatos propuestos, el número que corresponda de consejeros magistrados y magistrados del tribunal. La ley señalará las reglas y el procedimiento correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+Los cuatro miembros de la judicatura federal, que con el Presidente del Tribunal Federal Electoral integren la Sala de segunda instancia, serán electos para cada proceso electoral por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, de entre los propuestos por la Suprema Corte de Justicia de la Nación. Si no se alcanza esta mayoría, se presentarán nuevas propuestas para el mismo efecto, y si en este segundo caso tampoco se alcanzara la votación requerida, procederá la Cámara a elegirlos de entre todos los propuestos por mayoría simple de los diputados presentes. La ley señalará las reglas y el procedimiento correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+Durante los recesos del Congreso de la Unión, la elección a que se refieren los dos párrafos anteriores será realizada por la Comisión Permanente.
 
 ### CAPITULO II.
 
@@ -858,27 +938,39 @@ La demarcación territorial de los 300 distritos electorales uninominales será 
 
 Para la elección de los 200 diputados según el principio de representación proporcional y el Sistema de Listas Regionales, se constituirán cinco circunscripciones electorales plurinominales en el país. La Ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
 
-> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
 ###### Art. 54.
 
-La elección de los 200 diputados según el principio de representación proporcional y el sistema de listas regionales, se sujetará a las siguientes bases y reglas y a lo que disponga la ley:
+La elección de los 200 diputados según el principio de representación proporcional y el sistema de asignación por listas regionales, se sujetará a las siguientes bases y a lo que disponga la ley:
+
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 1990)</small>
 
 I. Un partido político, para obtener el registro de sus listas regionales, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos doscientos distritos uninominales;
 
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 1990)</small>
+
 II. Todo partido político que alcance por lo menos el uno y medio por ciento del total de la votación emitida para las listas regionales de las circunscripciones plurinominales, tendrá derecho a que le sean atribuidos diputados según el principio de representación proporcional;
 
-III. Al partido político que cumpla con lo dispuesto por las dos bases anteriores, le serán asignados diputados por el principio de representación proporcional. La ley establecerá la fórmula para la asignación. Además, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes;
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
-IV. En todo caso, para el otorgamiento de las constancias de asignación se observarán las siguientes reglas:
+III. Al partido político que cumpla con lo dispuesto por las dos bases anteriores, adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, les serán asignados por el principio de representación proporcional, de acuerdo con su votación nacional emitida, el número de diputados de su lista regional que le corresponda en cada circunscripción plurinominal. En la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes;
 
-a) Ningún partido político podrá contar con más de trescientos cincuenta diputados electos mediante ambos principios;
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
-b) Si ningún partido político obtiene por lo menos el treinta y cinco por ciento de la votación nacional emitida, a todos los partidos políticos que cumplan con lo dispuesto en las dos bases anteriores le será otorgada constancia de asignación por el número de diputados que se requiera para que su representación en la Cámara, por ambos principios, corresponda en su caso, al porcentaje de votos obtenido;
+IV. En ningún caso un partido político podrá contar con más de 315 diputados por ambos principios;
 
-c) Al partido político que obtenga el mayor número de constancias de mayoría y el treinta y cinco por ciento de la votación nacional, le será otorgada constancia de asignación de diputados en número suficiente para alcanzar la mayoría absoluta de la Cámara. Se le asignarán también dos diputados de representación proporcional, adicionalmente a la mayoría absoluta, por cada uno por ciento de votación obtenida por encima del treinta y cinco por ciento y hasta menos del sesenta por ciento, en la forma que determine la ley;
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
-d) El partido político que obtenga entre el sesenta por ciento y el setenta por ciento de la votación nacional, y su número de constancias de mayoría relativa represente un porcentaje del total de la Cámara inferior a su porcentaje de votos, tendrá derecho a participar en la distribución de diputados electos según el principio de representación proporcional hasta que la suma de diputados obtenidos por ambos principios represente el mismo porcentaje de votos.
+V. El partido político que haya obtenido más del 60% de la votación nacional emitida, tendrá derecho a que se le asignen diputados por el principio de representación proporcional, hasta que el número de diputados por ambos principios sea igual a su porcentaje de votación nacional emitida sin rebasar el límite señalado en la fracción IV de este artículo;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+VI. Ningún partido político que haya obtenido el 60% o menos de la votación nacional emitida podrá contar con más de 300 diputados por ambos principios; y
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
+VII. En los términos de lo establecido en las fracciones III, IV, V y VI anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de las fracciones V o VI, se adjudicarán a los demás partidos políticos con derecho a ello en cada una de las circunscripciones plurinominales, en proporción directa con las respectivas votaciones nacionales de estos últimos. La ley desarrollará las reglas y fórmulas necesarias para estos efectos.
 
 ###### Art. 55.
 
@@ -916,13 +1008,15 @@ VI. No ser Ministro de algún culto religioso, y
 
 VII. No estar comprendido en alguna de las incapacidades que señala el artículo 59.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
 ###### Art. 56.
 
-La Cámara de Senadores se compondrá de dos miembros por cada Estado y dos por el Distrito Federal, nombrados en elección directa. La Cámara se renovará por mitad cada tres años.
+Para integrar la Cámara de Senadores, en cada Estado y en el Distrito Federal se elegirán cuatro senadores, de los cuales tres serán electos según el principio de votación mayoritaria relativa y uno será asignado a la primera minoría. Para cada entidad federativa, los partidos políticos deberán registrar una lista con tres fórmulas de candidatos.
 
-La legislatura de cada Estado y la Comisión Permanente del Congreso de la Unión, en el caso del Distrito Federal, declararán electo al que hubiese obtenido la mayoría de los votos emitidos.
+La senaduría de primera minoría le será asignada a la fórmula de candidatos que encabece la lista del partido político que, por sí mismo, haya ocupado el segundo lugar en número de votos en la entidad de que se trate.
+
+La Cámara de Senadores se renovará en su totalidad, en elección directa, cada seis años.
 
 ###### Art. 57.
 
@@ -942,21 +1036,15 @@ Los Senadores y Diputados al Congreso de la Unión no podrán ser reelectos para
 
 Los Senadores y Diputados Suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero los Senadores y Diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
-> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
 ###### Art. 60.
 
-Cada Cámara calificará a través de un Colegio Electoral la elegibilidad y la conformidad a la ley de las constancias de mayoría o de asignación proporcional a fin de declarar, cuando proceda, la validez de la elección de sus miembros.
+El organismo público previsto en el artículo 41 de esta Constitución, de acuerdo con lo que disponga la ley, declarará la validez de las elecciones de diputados y senadores en cada uno de los distritos electorales uninominales y en cada una de las entidades federativas; otorgará las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos y hará la asignación de senadores de primera minoría de conformidad con lo dispuesto en el artículo 56 de esta Constitución y en la ley. Asimismo, hará la declaración de validez y la asignación de diputados según el principio de representación proporcional de conformidad con el artículo 54 de esta Constitución y la ley.
 
-El Colegio Electoral de la Cámara de Diputados se integrará por cien presuntos diputados propietarios nombrados por los partidos políticos en la proporción que les corresponda respecto del total de las constancias otorgadas en la elección de que se trate.
+La declaración de validez, el otorgamiento de las constancias y la asignación de diputados o senadores podrán ser impugnadas ante las salas del Tribunal Federal Electoral, en los términos que señale la ley.
 
-El Colegio Electoral de la Cámara de Senadores se integrará, tanto con los presuntos senadores que hubieren obtenido la declaración de la legislatura de cada Estado y de la Comisión Permanente del Congreso de la Unión, en caso del Distrito Federal, como con los senadores de la anterior legislatura que continuarán en el ejercicio de su encargo.
-
-Las constancias otorgadas a presuntos legisladores cuya elección no haya sido impugnada ante el tribunal serán dictaminadas y sometidas desde luego a los Colegios Electorales, para que sean aprobadas en sus términos, salvo que existiesen hechos supervenientes que obliguen a su revisión por el Colegio Electoral correspondiente.
-
-Las resoluciones del tribunal electoral serán obligatorias y sólo podrán ser modificadas o revocadas por los Colegios Electorales mediante el voto de las dos terceras partes de sus miembros presentes, cuando de su revisión se deduzca que existan violaciones a las reglas en materia de admisión y valoración de pruebas y en la motivación del fallo, o cuando éste sea contrario a derecho.
-
-Las resoluciones de los Colegios Electorales serán definitivas e inatacables.
+Las resoluciones de las salas a que se refiere el párrafo anterior, exclusivamente podrán ser revisadas por la Sala de segunda instancia del Tribunal Federal Electoral, mediante el recurso que los partidos políticos podrán interponer cuando hagan valer agravios debidamente fundados por los que se pueda modificar el resultado de la elección. Los fallos de esta Sala serán definitivos e inatacables. La ley establecerá los presupuestos, requisitos de procedencia y el trámite para este medio de impugnación.
 
 ###### Art. 61.
 
@@ -970,9 +1058,11 @@ El Presidente de cada Cámara velará por el respeto al fuero constitucional de 
 
 Los diputados y senadores propietarios durante el período de su encargo, no podrán desempeñar ninguna otra comisión o empleo de la Federación o de los Estados por los cuales se disfrute sueldo, sin licencia previa de la Cámara respectiva; pero entonces cesarán en sus funciones representativas, mientras dure la nueva ocupación. La misma regla se observará con los diputados y senadores suplentes, cuando estuviesen en ejercicio. La infracción de esta disposición será castigada con la pérdida del carácter de diputado o senador.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
 ###### Art. 63.
 
-Las Cámaras no pueden abrir sus sesiones ni ejercer su cargo sin la concurrencia, en la de senadores, de las dos terceras partes, y en la de diputados, de más de la mitad del número total de sus miembros; pero los presentes de una y otra deberán reunirse el día señalado por la ley, y compeler a los ausentes a que concurran dentro de los treinta días siguientes, con la advertencia de que si no lo hiciesen, se entenderá por ese solo hecho que no aceptan su encargo, llamándose luego a los suplentes, los que deberán presentarse en un plazo igual, y si tampoco lo hiciesen, se declarará vacante el puesto y se convocará a nuevas elecciones.
+Las Cámaras no pueden abrir sus sesiones ni ejercer su cargo sin la concurrencia, en cada una de ellas, de más de la mitad del número total de sus miembros; pero los presentes de una y otra deberán reunirse el día señalado por la ley y compeler a los ausentes a que concurran dentro de los treinta días siguientes, con la advertencia de que si no lo hiciesen se entenderá por ese sólo hecho, que no aceptan su encargo, llamándose luego a los suplentes, los que deberán presentarse en un plazo igual, y si tampoco lo hiciesen, se declarará vacante el puesto y se convocará a nuevas elecciones.
 
 Se entiende también que los diputados o senadores que falten diez días consecutivos, sin causa justificada o sin previa licencia del presidente de su respectiva Cámara, con la cual se dará conocimiento a ésta, renuncian a concurrir hasta el período inmediato, llamándose desde luego a los suplentes.
 
@@ -986,21 +1076,27 @@ Incurrirán en responsabilidad, y se harán acreedores a las sanciones que la le
 
 Los diputados y senadores que no concurran a una sesión, sin causa justificada o sin permiso de la Cámara respectiva, no tendrán derecho a la dieta correspondiente al día en que falten.
 
-> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
 ###### Art. 65.
 
-El Congreso se reunirá a partir del 1o. de noviembre de cada año, para celebrar un Primer Período de Sesiones Ordinarias y a partir del 15 de abril de cada año para celebrar un Segundo Período de Sesiones Ordinarias.
-
-En ambos Períodos de Sesiones el Congreso se ocupará del estudio, discusión y votación de las Iniciativas de Ley que se le presenten y de la resolución de los demás asuntos que le correspondan conforme a esta Constitución.
-
-En cada Período de Sesiones Ordinarias el Congreso se ocupará de manera preferente de los asuntos que señale su Ley Orgánica.
+El Congreso se reunirá a partir del 1o. de septiembre de cada año, para celebrar un primer período de sesiones ordinarias y a partir del 15 de marzo de cada año para celebrar un segundo período de sesiones ordinarias.
 
 > <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1986)</small>
 
+En ambos Períodos de Sesiones el Congreso se ocupará del estudio, discusión y votación de las Iniciativas de Ley que se le presenten y de la resolución de los demás asuntos que le correspondan conforme a esta Constitución.
+
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1986)</small>
+
+En cada Período de Sesiones Ordinarias el Congreso se ocupará de manera preferente de los asuntos que señale su Ley Orgánica.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
 ###### Art. 66.
 
-Cada Período de Sesiones Ordinarias durará el tiempo necesario para tratar todos los asuntos mencionados en el Artículo anterior, pero el Primero no podrá prolongarse más que hasta el 31 de diciembre del mismo año, y el Segundo hasta el 15 de julio del mismo año.
+Cada período de sesiones ordinarias durará el tiempo necesario para tratar todos los asuntos mencionados en el artículo anterior. El primer período no podrá prolongarse sino hasta el 15 de diciembre del mismo año, excepto cuando el Presidente de la República inicie su encargo en la fecha prevista por el artículo 83, en cuyo caso las sesiones podrán extenderse hasta el 31 de diciembre de ese mismo año. El segundo período no podrá prolongarse más allá del 30 de abril del mismo año.
+
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1986)</small>
 
 Si las dos Cámaras no estuvieren de acuerdo para poner término a las Sesiones antes de las fechas indicadas, resolverá el Presidente de la República.
 
@@ -1360,9 +1456,9 @@ XXX.- Para expedir todas las leyes que sean necesarias, a objeto de hacer efecti
 
 Son facultades exclusivas de la Cámara de Diputados:
 
-> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
-I.- Erigirse en Colegio Electoral para ejercer las atribuciones que la ley le señala respecto a la elección de Presidente de la República.
+I.- Erigirse en Colegio Electoral para calificar la elección de Presidente de los Estados Unidos Mexicanos en la forma que determine la ley. Su resolución será definitiva e inatacable.
 
 II.- Vigilar por medio de una Comisión de su seno, el exacto desempeño de las funciones de la Contaduría Mayor.
 
@@ -1790,11 +1886,11 @@ Los supernumerarios que suplan a los numerarios, permanecerán en el desempeño 
 
 Las renuncias de los Ministros de la Suprema Corte de Justicia, solamente procederán por causas graves; serán sometidas al Ejecutivo y si éste las acepta, serán enviadas para su aprobación al Senado, y en su receso, a la de la Comisión Permanente.
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+> <small>(REFORMADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
 ###### Art. 100.
 
-Las licencias de los ministros, cuando no excedan de un mes, serán concedidas por la Suprema Corte de Justicia de la Nación; las que excedan de este tiempo, las concederá el Presidente de la República con la aprobación del Senado, o en sus recesos con la de la Comisión Permanente. Ninguna licencia podrá exceder del término de dos años.
+Las licencias de los ministros, cuando no excedan de un mes, serán concedidas por la Suprema Corte de Justicia de la Nación; las que excedan de este tiempo, las concederá el Presidente de la República con la aprobación del Senado, o en sus recesos, con la de la Comisión Permanente, salvo en los casos previstos en los párrafos dieciséis y diecinueve del artículo 41 de esta Constitución. Ninguna licencia podrá exceder del término de dos años.
 
 > <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
@@ -1972,8 +2068,6 @@ En los casos no previstos en los párrafos anteriores, conocerán de la revisió
 
 IX.- Las resoluciones que en materia de amparo directo pronuncien los Tribunales Colegiados de Circuito no admiten recurso alguno, a menos que decidan sobre la inconstitucionalidad de una ley o establezcan la interpretación directa de un precepto de la Constitución, caso en que serán recurribles ante la Suprema Corte de Justicia, limitándose la materia del recurso exclusivamente a la decisión de las cuestiones propiamente constitucionales.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 10 DE AGOSTO DE 1987)</small>
-
 > <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
 X.- Los actos reclamados podrán ser objeto de suspensión en los casos y mediante las condiciones y garantías que determine la ley, para lo cual se tomará en cuenta la naturaleza de la violación alegada, la dificultad de reparación de los daños y perjuicios que pueda sufrir el agraviado con su ejecución, los que la suspensión origine a terceros perjudicados y el interés público.
@@ -2014,21 +2108,7 @@ XVI.- Si concedido el amparo la autoridad responsable insistiere en la repetici�
 
 XVII.- La autoridad responsable será consignada a la autoridad correspondiente, cuando no suspenda el acto reclamado debiendo hacerlo, y cuando admita fianza que resulte ilusoria o insuficiente, siendo en estos dos últimos casos, solidaria la responsabilidad civil de la autoridad con el que ofreciere la fianza y el que la prestare.
 
-> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
-
-XVIII.- Los alcaides y carceleros que no reciban copia autorizada del auto de formal prisión de un detenido, dentro de las setenta y dos horas que señala el artículo 19, contadas desde que aquél esté a disposición de su juez, deberán llamar la atención de éste sobre dicho particular, en el caso mismo de concluir el término y si no reciben la constancia mencionada, dentro de las tres horas siguientes lo pondrán en libertad.
-
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
-
-Los infractores del artículo citado de esta disposición serán consignados inmediatamente a la autoridad competente.
-
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
-
-También será consignado a la autoridad o Agente de ella, el que, realizada una aprehensión, no pusiere al detenido a disposición de su juez, dentro de las veinticuatro horas siguientes.
-
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
-
-Si la detención se verificare fuera del lugar en que reside el juez, al término mencionado se agregará el suficiente para recorrer la distancia que hubiere entre dicho lugar y el en que se efectuó la detención.
+XVIII.- (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -2326,11 +2406,13 @@ II.- Tener, en ningún tiempo, tropa permanente ni buques de guerra.
 
 III.- Hacer la guerra por sí a alguna potencia extranjera, exceptuándose los casos de invasión y de peligro tan inminente, que no admita demora. En estos casos darán cuenta inmediata al Presidente de la República.
 
+> <small>(REFORMADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
 ###### Art. 119.
 
-Cada Estado tiene obligación de entregar sin demora los criminales de otro Estado o del extranjero, a las autoridades que lo reclamen.
+Cada Estado y el Distrito Federal están obligados a entregar sin demora a los indiciados, procesados o sentenciados, así como a practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito, atendiendo a la autoridad de cualquier otra entidad federativa que los requiera. Estas diligencias se practicarán, con intervención de las respectivas procuradurías generales de justicia, en los términos de los convenios de colaboración que, al efecto, celebren las entidades federativas. Para los mismos fines, los Estados y el Distrito Federal podrán celebrar convenios de colaboración con el Gobierno Federal, quien actuará a través de la Procuraduría General de la República.
 
-En estos casos, el auto del Juez que mande cumplir la requisitoria de extradición, será bastante para motivar la detención por un mes, si se tratare de extradición entre los Estados, y por dos meses cuando fuere internacional.
+Las extradiciones a requerimiento de Estado extranjero serán tramitadas por el Ejecutivo Federal, con la intervención de la autoridad judicial en los términos de esta Constitución, los Tratados Internacionales que al respecto se suscriban y las leyes reglamentarias. En esos casos, el auto del juez que mande cumplir la requisitoria será bastante para motivar la detención hasta por sesenta días naturales.
 
 ###### Art. 120.
 
@@ -2366,7 +2448,7 @@ DEL TRABAJO Y DE LA PREVISION SOCIAL.
 
 Toda persona tiene derecho al trabajo digno y socialmente útil; al efecto, se promoverán la creación de empleos y la organización social para el trabajo, conforme a la Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 1978)</small>
 
 El Congreso de la Unión, sin contravenir a las bases siguientes, deberá expedir leyes sobre el trabajo, las cuales regirán:
 
@@ -2697,34 +2779,6 @@ Todo funcionario público, sin excepción alguna, antes de tomar posesión de su
 ###### Art. 129.
 
 En tiempo de paz, ninguna autoridad militar puede ejercer más funciones que las que tengan exacta conexión con la disciplina militar. Solamente habrá Comandancias Militares fijas y permanentes en los castillos, fortalezas y almacenes que dependan inmediatamente del Gobierno de la Unión; o en los campamentos, cuarteles o depósitos que, fuera de las poblaciones, estableciere para la estación de las tropas.
-
-> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1992)</small>
-
-###### Art. 130.
-
-El principio histórico de la separación del Estado y las iglesias orienta las normas contenidas en el presente artículo. Las iglesias y demás agrupaciones religiosas se sujetarán a la ley.
-
-Corresponde exclusivamente al Congreso de la Unión legislar en materia de culto público y de iglesias y agrupaciones religiosas. La ley reglamentaria respectiva, que será de orden público, desarrollará y concretará las disposiciones siguientes:
-
-a) Las iglesias y las agrupaciones religiosas tendrán personalidad jurídica como asociaciones religiosas una vez que obtengan su correspondiente registro. La ley regulará dichas asociaciones y determinará las condiciones y requisitos para el registro constitutivo de las mismas;
-
-b) Las autoridades no intervendrán en la vida interna de las asociaciones religiosas;
-
-c) Los mexicanos podrán ejercer el ministerio de cualquier culto. Los mexicanos así como los extranjeros deberán, para ello, satisfacer los requisitos que señale la ley;
-
-d) En los términos de la ley reglamentaria, los ministros de cultos no podrán desempeñar cargos públicos. Como ciudadanos tendrán derecho a votar, pero no a ser votados. Quienes hubieren dejado de ser ministros de cultos con la anticipación y en la forma que establezca la ley, podrán ser votados;
-
-e) Los ministros no podrán asociarse con fines políticos ni realizar proselitismo a favor o en contra de candidato, partido o asociación política alguna. Tampoco podrán en reunión pública, en actos del culto o de propaganda religiosa, ni en publicaciones de carácter religioso, oponerse a las leyes del país o a sus instituciones, ni agraviar, de cualquier forma, los símbolos patrios.
-
-Queda estrictamente prohibida la formación de toda clase de agrupaciones políticas cuyo título tenga alguna palabra o indicación cualquiera que la relacione con alguna confesión religiosa. No podrán celebrarse en los templos reuniones de carácter político.
-
-La simple promesa de decir verdad y de cumplir las obligaciones que se contraen, sujeta al que la hace, en caso de que faltare a ella, a las penas que con tal motivo establece la ley.
-
-Los ministros de cultos, sus ascendientes, descendientes, hermanos y cónyuges, así como las asociaciones religiosas a que aquellos pertenezcan, serán incapaces para heredar por testamento, de las personas a quienes los propios ministros hayan dirigido o auxiliado espiritualmente y no tengan parentesco dentro del cuarto grado.
-
-Los actos del estado civil de las personas son de la exclusiva competencia de las autoridades administrativas en los términos que establezcan las leyes, y tendrán la fuerza y validez que las mismas les atribuyan.
-
-Las autoridades federales, de los estados y de los municipios tendrán en esta materia las facultades y responsabilidades que determine la ley.
 
 > <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1992)</small>
 
@@ -3941,3 +3995,45 @@ DECRETO QUE REFORMA EL PARRAFO CUARTO Y ADICIONA LOS PARRAFOS SEXTO Y SEPTIMO DE
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- En tanto se expide la ley del banco central, reglamentaria del artículo 28 de esta Constitución, continuará en vigor la Ley Orgánica del Banco de México.
+
+D.O.F. 3 DE SEPTIEMBRE DE 1993.
+
+DECRETO QUE REFORMA Y ADICIONA LOS ARTICULOS 41, 54, 56, 60, 63, 74, Y 100.
+
+Artículo Primero. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. Permanecerán en sus cargos los actuales Magistrados del Tribunal Federal Electoral electos por la Cámara de Diputados del Congreso de la Unión, según Decreto publicado en el Diario Oficial de la Federación el 3 de octubre de 1990.
+
+Artículo Tercero. En la elección federal de 1994 se elegirán, para cada Estado y el Distrito Federal, dos senadores de mayoría relativa y uno de primera minoría a las Legislaturas LVI y LVII del Congreso de la Unión, quienes durarán en funciones del 1o. de noviembre de 1994 a la fecha del término del ejercicio de la última legislatura citada. Para esta elección, los partidos políticos deberán registrar una lista con dos fórmulas de candidatos en cada entidad federativa.
+
+En la elección federal de 1997, se elegirá a la Legislatura LVII un senador por cada Estado y el Distrito Federal, según el principio de mayoría relativa, quien durará en funciones del 1o. de noviembre de 1997 a la fecha en que concluya la señalada Legislatura. Para esta elección, los partidos políticos deberán registrar una lista con una fórmula de candidatos en cada entidad federativa.
+
+Artículo Cuarto. Los diputados federales a la LVI Legislatura durarán en su encargo del 1o. de noviembre de 1994 a la fecha en que concluya la citada legislatura.
+
+Artículo Quinto. La elección federal para integrar la LVI Legislatura de la Cámara de Diputados del H. Congreso de la Unión, se realizará con base en la distribución de los distritos uninominales y las cinco circunscripciones plurinominales en que se dividió el país para el proceso electoral federal de 1991. Para la elección federal de 1997, por la que se integrará la LVII Legislatura, se hará la nueva distribución de distritos uninominales con base en los resultados definitivos del censo general de población de 1990.
+
+Artículo Sexto. Se derogan todas las disposiciones que se opongan a las reformas establecidas en el presente Decreto.
+
+D.O.F. 3 DE SEPTIEMBRE DE 1993.
+
+DECRETO QUE REFORMA LOS ARTICULOS 16, 19, 20 Y 119 Y DEROGA LA FRACCION XVIII DEL ARTICULO 107.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto por el Artículo Segundo Transitorio.
+
+SEGUNDO.- Lo previsto en el párrafo primero de la fracción I, del artículo 20 Constitucional del presente Decreto, entrará en vigor al año contado a partir de la presente publicación.
+
+D.O.F. 3 DE SEPTIEMBRE DE 1993.
+
+DECRETO QUE REFORMA LOS ARTICULOS 65 Y 66.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El período ordinario correspondiente a noviembre y diciembre del año de 1993 y los períodos ordinarios correspondientes al año de 1994, se celebrarán de acuerdo con las fechas que han venido rigiendo en los términos del Decreto de reformas publicado el 7 de abril de 1986.
+
+TERCERO.- A partir del 15 de marzo de 1995 los períodos de sesiones ordinarias se celebrarán de acuerdo con las fechas establecidas por el presente Decreto.
+
+CUARTO.- Los diputados que se elijan a la LVI legislatura del Congreso de la Unión durarán en sus funciones del 1o. de noviembre de 1994 al 31 (sic) agosto de 1997.
+
+QUINTO.- Los senadores que se elijan a las LVI y LVII legislaturas del Congreso de la Unión durarán en sus funciones del 1o. de noviembre de 1994 al 31 de agosto del año 2000.
+
+Los senadores que se elijan en 1997 durarán en sus funciones del 1o. de noviembre de dicho año, al 31 de agosto del año 2000.
