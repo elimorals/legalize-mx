@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1936-09-19"
+last_updated: "1936-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 1936.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 1936.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -951,17 +951,11 @@ Todos los miembros del Ayuntamiento y el Tesorero Municipal serán responsables 
 
 El matrimonio es un contrato civil. El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. El matrimonio y los demás actos del estado civil de las personas, son de la exclusiva competencia de los funcionarios y autoridades del orden civil, en los términos prevenidos por las leyes, y tendrán la fuerza y validez que las mismas les atribuyan.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1936)</small>
+
 ###### ARTICULO 150.
 
-La enseñanza es libre, pero laica, excepto la profesional de los establecimientos particulares.
-
-Ninguna corporación religiosa ni ministro de algún culto, podrán establecer o dirigir escuelas de instrucción primaria, por sí ni por interpósita persona.
-
-Las escuelas primarias particulares sólo podrán establecerse mediante la vigilancia oficial.
-
-La enseñanza primaria oficial será gratuita.
-
-Por ningún motivo se revalidará, otorgará dispensa o se determinará cualquier otro trámite que tenga por fin dar validez en los cursos oficiales, a estudios hechos en los establecimientos destinados a la enseñanza profesional de los ministros de los cultos. La autoridad que infrinja esta disposición será penalmente responsable, y la dispensa o trámite referidos, se anulará trayendo consigo también la nulidad del título profesional para cuya obtención haya sido parte de la infracción de este precepto.
+La enseñanza que imparte el Estado será socialista, con exclusión de toda doctrina religiosa; combatirá el fanatismo y los prejuicios, para lo cual la escuela organizará sus enseñanzas y actividades en forma que permita crear en la juventud un concepto racional y exacto del Universo y de la vida social. Por tanto, no podrá establecerse en el territorio del Estado ninguna Escuela de educación primaria, secundaria o profesional que sea dirigida o apoyada económicamente por corporaciones religiosas, ministros de cualquier culto o por interpósitas personas. Tampoco podrán establecerse por sociedades por acciones que exclusiva y preferentemente se dediquen a actividades educativas. El personal docente en todo caso, además de la conveniente preparación profesional, estará de acuerdo con este precepto en su moral e ideología. Corresponde al Estado la formación de planes, programas y métodos de enseñanza. Los planteles particulares sólo podrán funcionar con la autorización expresa del Ejecutivo del Estado, quien discrecionalmente en cualquier tiempo podrá retirarla, así como el reconocimiento de validez de estudios hechos en los establecimientos citados. Contra esta determinación no procederá recurso ni juicio alguno. La educación primaria será obligatoria y el Estado la impartirá gratuitamente.
 
 ###### ARTICULO 151.
 
@@ -1334,3 +1328,7 @@ Primero.- Aprobada esta reforma constitucional, los Diputados locales que se des
 Segundo.- En los comicios que se efectúen en el año de mil novecientos cuarenta, será electa la totalidad de los Diputados locales que deben integrar la Legislatura del Estado.
 
 Tercero.- La instalación de la XXXVII Legislatura, se sujetará a las disposiciones del artículo 41 no reformado y relativos, del Reglamento interior de la H. Legislatura.
+
+P.O. 14 DE DICIEMBRE DE 1936.
+
+UNICO.- Esta Ley (sic) comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial.
