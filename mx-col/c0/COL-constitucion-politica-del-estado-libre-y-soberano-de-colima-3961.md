@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1942-12-26"
+last_updated: "1943-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1942.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 1943.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -485,9 +485,11 @@ VII.- No estar en servicio activo en el Ejército Nacional ni en las fuerzas del
 
 VIII.- Sólo podrá ser designado Gobernador Interino, Substituto o Provisional, un Ciudadano Colimense por nacimiento y en pleno goce de sus derechos.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1943)</small>
+
 ###### Artículo 52.
 
-El Gobernador será electo popular y directamente, entrará a ejercer sus funciones el día primero de noviembre del año de su elección, durará en su encargo cuatro años y no volverá a ser electo.
+El Gobernador será electo popular y directamente, entrará en ejercicio de sus funciones el día primero de noviembre del año de su elección; durará en su encargo seis años y no podrá volver a ser electo.
 
 (REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -501,13 +503,13 @@ El Gobernador, antes de tomar posesión de su cargo rendirá la protesta de Ley 
 
 No podrán ser electos para el período inmediato los Ciudadanos que hayan desempeñado el Poder Ejecutivo con el carácter de Gobernador Substituto, Interino o Provisional, siempre que desempeñen el cargo en los dos últimos años del período.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1943)</small>
 
 ###### Artículo 55.
 
-Las faltas temporales del Gobernador del Estado, hasta por quince días, serán suplidas por el Secretario General de Gobierno con el carácter de Encargado del Despacho y las que excedan de tal período serán cubiertas por un Gobernador Interino que a mayoría de votos de los Diputados presentes, nombrará el Congreso o en sus recesos la Diputación Permanente, debiendo tener el nombrado los requisitos que señala el artículo 51 de esta Constitución. Cuando la falta fuere absoluta y ocurriere dentro del tercero o cuarto año del periodo constitucional, se nombrará un substituto que desempeñará el cargo hasta que termine el período; pero si la falta tuviere lugar dentro de los dos primeros años, se nombrará un Gobernador interino quien hará entrega del Poder al ciudadano que hubiere resultado electo en las elecciones extraordinarias a que haya convocado el Congreso conforme a sus facultades.
+Las faltas temporales del Gobernador del Estado, hasta por quince días serán suplidas por el Secretario General de Gobierno con el carácter de encargado del Despacho y las que excedan de este término serán cubiertas por un Gobernador Interino que a mayoría de votos de los Diputados presentes nombrará el Congreso o en sus recesos la Diputación Permanente, debiendo tener el nombrado los requisitos que establece el artículo 51 de esta Constitución, a excepción del señalado por la fracción VII del mismo artículo. Cuando la falta fuere absoluta y ocurriera dentro de los tres últimos años del período constitucional, se nombrará un substituto que desempeñará el cargo hasta que termine el período; pero si la falta tuviere lugar dentro de los tres primeros años, se nombrará un Gobernador Interino quien hará entrega del Poder al ciudadano que hubiere resultado electo en las elecciones extraordinarias a que haya convocado el Congreso conforme sus facultades.
 
-Llegado el caso previsto por la fracción V del artículo 76 de la Constitución General de la República, el Gobernador Provisional, convocará a elecciones extraordinarias dentro de un término que no exceda de quince días, y el electo tomará posesión de su cargo, inmediatamente que se haga la declaratoria respectiva.
+Llegando el caso previsto por la fracción V del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos, el Gobernador Provisional convocará a elecciones extraordinarias dentro de un término que no exceda de quince días, y el electo tomará posesión de su cargo inmediatamente que se haga la declaratoria respectiva.
 
 (REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -1477,7 +1479,7 @@ Sin embargo, el nombramiento de Magistrados se hará antes del día 27 del actua
 
 ###### Artículo 3º.
 
-El nombramiento de Jueces deberá hacerse el día primero de enero próximo, de acuerdo con lo que disponga la Ley Orgánica del Poder Judicial que comenzará a regir en la propia fecha, en la cual los Jueces deberán tomar posesión de sus respectivos cargos, previa la protesta correspondiente.
+El nombramiento de Jueces deberá hacerse el día primero de enero próximo, de acuerdo con lo que disponga la Ley Orgánica del Poder Judicial que comenzará a regir en la propia fecha, en la cual los Jueces deberán tomar posesión de sus respectivos cargos, previa la protesta correspondiente..
 
 P.O. 28 DE DICIEMBRE DE 1940.
 
@@ -1494,6 +1496,8 @@ Las presentes reformas entrarán en vigor a partir de la fecha de su publicació
 P.O. 26 DE DICIEMBRE DE 1942.
 
 UNICO.- Las presentes reformas entrarán en vigor el día 1º de enero de 1943.
+
+P.O. 20 DE FEBRERO DE 1943.
 
 ###### Artículo 2.
 
@@ -1514,3 +1518,7 @@ UNICO.- Las presentes reformas entrarán en vigor el día 1º de enero de 1943.
 ###### Artículo 6.
 
 (DEROGADO, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932)
+
+###### Artículo 2°.
+
+Este Decreto surtirá efectos a partir de la fecha de su publicación en el periódico oficial "El Estado de Colima".
