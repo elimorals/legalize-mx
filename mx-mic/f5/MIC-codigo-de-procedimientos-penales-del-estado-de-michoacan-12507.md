@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-penales-del-estado-de-michoacan-12507"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-08-31"
-last_updated: "1998-08-31"
+last_updated: "2004-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2004.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 31 de agosto de 1998.
 
@@ -241,6 +241,16 @@ Reglas para la práctica de diligencias de averiguación previa.- Inmediatamente
 
 I.- Proporcionar seguridad y auxilio a las víctimas;
 
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2004)</small>
+
+En casos de violencia familiar podrá:
+
+a) Procurar atención médica y psicológica de urgencia;
+
+b) Restringir al agresor comunicación con la víctima; y,
+
+c) Restringir al agresor acercamiento con la víctima.
+
 II.- Impedir que se pierdan, destruyan o alteren las huellas y vestigios del hecho delictuoso, los instrumentos o cosas objeto o productos del mismo;
 
 III.- Saber qué personas fueron testigos;
@@ -248,6 +258,10 @@ III.- Saber qué personas fueron testigos;
 IV.- Evitar que el delito se siga cometiendo; y,
 
 V.- En general, impedir que se dificulte la averiguación, procediendo a la detención de los que intervinieron en su comisión en los casos de delito flagrante.
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2004)</small>
+
+VI. Impedir que los órganos de una persona declarada con muerte cerebral, que sean útiles para fines terapéuticos, de investigación o docencia, solicitados por instituciones de salud, pierdan su función fisiológica, para lo cual deberá realizar sin dilación las diligencias que el caso amerite, previo consentimiento escrito del titular o del representante legítimo.
 
 Lo mismo se hará tratándose de delitos que solamente puedan perseguirse por querella, si ésta ha sido formulada.
 
@@ -3269,7 +3283,13 @@ II.- Que garantice las sanciones pecuniarias, que en su caso, puedan imponérsel
 
 III.- Que caucione el cumplimiento de las obligaciones a su cargo, que la ley establece en razón del proceso.
 
-No procede conceder la libertad provisional bajo caución en los delitos graves previstos en los siguientes artículos del Código Penal: 57, homicidio culposo en agravio de dos o más personas, cometido por conductores de transporte de pasajeros o de carga, de servicio público o concesionado por autorización, permiso o licencia de autoridades competentes; 108, homicidio en perjuicio de prisioneros, consumado en el tipo de rebelión, por jefes o agentes de Gobierno y rebeldes; 109, rebelión, ejecutado por extranjeros; 120, evasión de presos, en el supuesto de que el sujeto activo facilite, al mismo tiempo o en un solo acto, la evasión de una o varias personas privadas de su libertad por la autoridad competente, por delito grave; 132, asociación delictuosa; 137 fracción VIII y último párrafo, ataques a las vías de comunicación en la modalidad de destrucción e inutilización de un campo de aviación particular o del Estado, y para realizar las conductas de que habla el citado precepto se valga de explosivos; 138, incendio de un vehículo del servicio público ocupado por una o más personas; 158, terrorismo; 164, corrupción de menores; 220, incesto; 228, secuestro; 229 bis, tráfico de personas, sus miembros y órganos; 237 y 238, asalto; 240, violación; 246, abusos deshonestos perpetrados en las hipótesis normativas consistentes en la introducción, por medio de la violencia física o moral, por motivo de actos eróticos o cualquier otra causa, por vía anal o vaginal, de cualquier elemento o instrumento diferente al miembro viril, o cuando sin emplearse la violencia el ofendido no estuviere en posibilidades de resistir la conducta delictuosa; 264, homicidio simple intencional; 265, homicidio en riña o duelo; 267, homicidio calificado, ejecutado con las agravantes contempladas en el artículo 279; 270 fracciones IV y V, lesiones perpetradas dolosamente; 271, lesiones dolosas que pongan en peligro la vida; 283, parricidio; 283 bis, filicidio; 303 fracciones I, IV, V, VII, VIII y X, robo perpetrado con las calificativas a que se refieren las fracciones anotadas; 312 fracción III y 313, abigeato; 330, último párrafo, despojo cometido por dos o más personas, únicamente por lo que respecta a los autores intelectuales y a quienes dirijan la ejecución del injusto penal; y, 334, daño en las cosas por incendio, inundación o explosión.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2004)</small>
+
+No procede conceder la libertad provisional bajo caución en los delitos graves previstos en los siguientes artículos del Código Penal: 57, homicidio culposo en agravio de dos o más personas, cometido por conductores de transporte de pasajeros o de carga, de servicio público o concesionado por autorización, permiso o licencia de autoridades competentes; 108, homicidio en perjuicio de prisioneros, consumado en el tipo de rebelión, por jefes o agentes de Gobierno y rebeldes; 109, rebelión, ejecutado por extranjeros; 120, evasión de presos, en el supuesto de que el sujeto activo facilite, al mismo tiempo o en un solo acto, la evasión de una o varias personas privadas de su libertad por la autoridad competente, por delito grave; 132, asociación delictuosa; 137 fracción VIII y último párrafo, ataques a las vías de comunicación en la modalidad de destrucción e inutilización de un campo de aviación particular o del Estado, y para realizar las conductas de que habla el citado precepto se valga de explosivos; 138, incendio de un vehículo del servicio público ocupado por una o más personas; 158, terrorismo; 164, corrupción de menores; 203 bis, falsificación de documentos y uso de documentos falsos; 220, incesto; 228, secuestro; 229 bis, tráfico de personas, sus miembros y órganos; 236 bis, extorsión; 237 y 238, asalto; 240, violación; 246, abusos deshonestos perpetrados en las hipótesis normativas consistentes en la introducción, por medio de la violencia física o moral, por motivo de actos eróticos o cualquier otra causa, por vía anal o vaginal, de cualquier elemento o instrumento diferente al miembro viril, o cuando sin emplearse la violencia el ofendido no estuviere en posibilidades de resistir la conducta delictuosa; 264, homicidio simple intencional; 265, homicidio en riña o duelo; 267, homicidio calificado, ejecutado con las agravantes contempladas en el artículo 279; 270 fracciones IV y V, lesiones perpetradas dolosamente; 271, lesiones dolosas que pongan en peligro la vida; 283, parricidio; 283 bis, filicidio; 303 fracciones I, IV, V, VII, VIII y X, robo perpetrado con las calificativas a que se refieren las fracciones anotadas; 312 fracción III y 313, abigeato; 330, último párrafo, despojo cometido por dos o más personas, únicamente por lo que respecta a los autores intelectuales y a quienes dirijan la ejecución del injusto penal; 334, daño en las cosas por incendio, inundación o explosión; 347 fracciones II y III y 348, delitos contra la ecología.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2004)</small>
+
+Asimismo, no se concederá libertad provisional bajo caución en caso de tentativa de los delitos señalados en el presente artículo.
 
 En la hipótesis de injustos penales no graves, previa petición de la Representación Social, el tribunal podrá negar, mediante auto debidamente motivado y fundado, la libertad provisional bajo caución, cuando esté legalmente demostrado que el inculpado ha sido condenado con anterioridad, por algún delito calificado como grave por la ley o cuando el Ministerio Público aporte elementos idóneos al juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
 
@@ -4258,3 +4278,11 @@ En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constit
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES.- (Firmados).
 
 DIPUTADO PRESIDENTE.- ALFREDO ESQUIVEL RAMIREZ.- DIPUTADO SECRETARIO.- VICTOR CORONA ALVA.- DIPUTADO SECRETARIO.- JAIME OSEGUERA HERRERA.-(Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 6 DE JULIO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
