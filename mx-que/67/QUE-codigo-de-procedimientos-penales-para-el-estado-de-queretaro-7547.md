@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "1999-04-02"
+last_updated: "1999-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 02 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -289,15 +289,15 @@ III.- A que se le notifique personalmente las determinaciones sobre el ejercicio
 
 IV.- A impugnar, en los términos y forma que el presente Código establece, las determinaciones del no ejercicio de la acción penal tomadas por el Procurador General de Justicia.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ARTICULO 37 (De los derechos del ofendido ante el órgano jurisdiccional).- La persona ofendida por el delito, en la fase del procedimiento ante el órgano jurisdiccional, tendrá los siguientes derechos:
 
-I.- Coadyuvar con el Ministerio Público durante la fase judicial del procedimiento penal, ofreciendo al juzgador, por conducto de aquél o directamente, medios de prueba que conduzcan a comprobar la existencia del delito, la responsabilidad penal del imputado, y la existencia y monto de los daños y perjuicios que se le hayan ocasionado;
+I.- Coadyuvar con el Ministerio Público durante la fase judicial del procedimiento penal, ofreciendo al juzgador, por conducto de aquél o directamente, medios de prueba que conduzcan a comprobar la existencia del delito, la responsabilidad penal del imputado, y la existencia del monto de los daños y perjuicios que se le hayan ocasionado;
 
-II.- Pedir directamente al órgano jurisdiccional que decrete el embargo precautorio de los bienes en que puedan hacerse efectivos, en su oportunidad, la reparación de los daños y perjuicios, así como que dicte las providencias necesarias para que se le restituya en el goce de sus derechos, en los términos previstos en este Código;
+II.- Pedir directamente al órgano jurisdiccional que decrete el embargo precautorio de los bienes en que puedan hacerse efectivos, en su oportunidad, la reparación de los daños y perjuicios, así como que dicte las providencias necesarias para que se le restituya en el goce de sus derecho, en los términos previstos en este Código;
 
-III.- En el mismo plazo concedido al Ministerio Público, formular conclusiones, únicamente por lo que respecta a la existencia de daños y perjuicios y su monto;
+III.- En el mismo plazo concedido al Ministerio Público, formular conclusiones, únicamente por el que respecta a la existencia de daños y perjuicios y su monto;
 
 IV.- Interponer el recurso de apelación, únicamente por lo que respecta al concepto a que se refiere la fracción anterior,
 
@@ -535,7 +535,7 @@ ARTICULO 100 (Correcciones disciplinarias).- Son correcciones disciplinarias:
 
 I.- Apercibimiento;
 
-II.- Multa de uno a quince días de salario mínimo, vigente en el momento y lugar en que se cometa la falta que amerite la corrección. Tratándose de jornaleros, obreros o trabajadores, la multa no deberá exceder de un día de su salario, y, si se trata de campesinos, de un día de ingresos;
+II.- Multa de uno a quince días de salario mínimo, vigente en el momento y lugar en que se cometa la falta que amerite la corrección. Tratándose de jornaleros, obreros o trabajadores, la multa no deberá exceder de un día de su salario, y, si se trata de campesinos, de un día de ingreso;
 
 III.- Arresto hasta de treinta y seis horas, y
 
@@ -607,7 +607,7 @@ ARTICULO 112 (Aprehensión en lugar donde no se tiene acceso público).- En el c
 
 ARTICULO 113 (Aprehensión en servicios públicos).- Cuando deba aprehenderse a un empleado público o a un particular que en ese momento esté prestando un servicio público, se tomarán las providencias necesarias para que no se interrumpa el servicio y para que aquél no se sustraiga de la acción de la justicia.
 
-ARTICULO 114 ( ¿Orden de presentación o comparecencia).- Cuando el delito esté sancionado con pena no privativa de libertad o con pena alternativa y estuvieren reunidos los demás requisitos a que se refiere el artículo 16 Constitucional para dictar mandamiento de aprehensión, se librará orden de comparecencia en contra del imputado para que rinda su declaración preparatoria, en el día y hora señalados para tal efecto.
+ARTICULO 114 (Orden de presentación o comparecencia).- Cuando el delito esté sancionado con pena no privativa de libertad o con pena alternativa y estuvieren reunidos los demás requisitos a que se refiere el artículo 16 Constitucional para dictar mandamiento de aprehensión, se librará orden de comparecencia en contra del imputado para que rinda su declaración preparatoria, en el día y hora señalados para tal efecto.
 
 Si el imputado no comparece en la oportunidad indicada, se fijará nuevo día y hora, ordenando a la policía judicial su presentación forzosa.
 
@@ -707,11 +707,11 @@ XIV.- La rebelión en los supuestos de los artículos 249, 250, 251 y 252;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-XV.- El terrorismo en el supuestp del primer párrafo del artículo 254;
+XV.- El terrorismo en el supuesto del primer párrafo del artículo 254;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-XVI.- El saboyaje en los supuestos de las fracciones I y II del artículo 255, y
+XVI.- El sabotaje en los supuestos de las fracciones I y II del artículo 255, y
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -720,6 +720,10 @@ XVII.- La tortura en los supuestos de los artículos 309 y 311.
 > <small>(ADICIONADA, P.O. 2 DE ABRIL DE 1999)</small>
 
 XVIII.- El fraude previsto por los artículos 193 y 194, cuando se cometan en las circunstancias previstas en el artículo 195.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+XIX.- El abigeato previsto en la fracción III del artículo 189 Del Código Penal para el Estado de Querétaro.
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1999)</small>
 
@@ -1413,7 +1417,7 @@ Cuando se niegue la orden de aprehensión o comparecencia y ésta cause ejecutor
 
 ARTICULO 259 (Plazo y objetivo de la declaración preparatoria).- Dentro de las cuarenta y ocho horas siguientes al momento en que el inculpado esté a disposición del juez, éste le hará saber, en audiencia pública, el nombre de su acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en ese acto su declaración preparatoria.
 
-ARTICULO 260 (Nombramiento de defensor).- La declaración preparatoria comenzará por las generales del inculpado, en las que se incluirán también los apodos que tuviere. Acto seguido, el juez le hará saber el derecho que tiene para defenderse, por si o por persona de su confianza, a menos que haya designado defensor durante las diligencias de preparación del ejercicio de la acción penal y éste se encuentre presente. En caso de no tener quien lo defienda se le presentará la lista de los defensores de oficio para que elija el que, o los que le convengan. Si el indiciado no quiere nombrar defensor, después de ser requerido para hacerlo, el juez le nombrará uno de oficio.
+ARTICULO 260 (Nombramiento de defensor).- La declaración preparatoria comenzará por las generales del inculpado, en las que se incluirán también los apodos que tuviere. Acto seguido, el juez le hará saber el derecho que tiene para defenderse, por si o por persona de su confianza, a menos que haya designado defensor durante las diligencias de preparación del ejercicio de la acción penal y éste se encuentre presente. En caso de no tener quien lo defienda, se le presentará la lista de los defensores de oficio para que elija el que, o los que le convengan. Si el indiciado no quiere nombrar defensor, después de ser requerido para hacerlo, el juez le nombrará uno de oficio.
 
 ARTICULO 261 (Libertad bajo caución).- Una vez satisfecho el requisito del artículo anterior, el Juzgador a continuación dará a conocer al inculpado si tiene derecho a gozar de la libertad bajo caución y, en su caso, las condiciones en que puede gozar de ese beneficio.
 
@@ -1947,7 +1951,7 @@ ARTICULO 352 (Tramitación por separado).- Los incidentes sobre competencia se t
 
 RECUSACIONES
 
-ARTICULO 353 (Calificación del impedimento).- El impedimento se calificará por el superior a quien correspondería resolver de una recusación, en vista del informe que, dentro de tres días rinda el juez o magistrado. Contra la resolución que se dicte no habrá recurso alguno.
+ARTICULO 353 (Calificación del impedimento).- El impedimento se calificará por el superior a quien correspondería resolver de una recusación, en vista del informe que, dentro de tres días, rinda el juez o magistrado. Contra la resolución que se dicte no habrá recurso alguno.
 
 ARTICULO 354 (Plazo para interponer la recusación).- La recusación puede interponerse en cualquier tiempo pero no después de que se haya citado para sentencia, y no suspende la instrucción ni la tramitación del recurso pendiente. Después de la citación para sentencia solo será admisible la recusación, en caso de que hubiere cambio de personal en el juzgado o del tribunal de conocimiento, y deberá proponerse dentro de los tres días siguientes a aquél en que se notifique el auto en que se haga saber tal circunstancia.
 
@@ -2015,9 +2019,7 @@ El Ministerio Público y el Defensor podrán nombrar peritos de su parte.
 
 En los partidos judiciales donde no exista perito psiquiatra, hará sus veces el médico legista.
 
-> <small>(F. DE E., P.O. 24 DE AGOSTO DE 1989)</small>
-
-ARTICULO 343 (Contenido del dictamen psiquiátrico).- El dictamen expresará si el inculpado se encuentra en alguno de los estados a que se refiere el artículo 339 de este Código; si en la fecha en que se cometieron los hechos imputados el inculpado se encontraba en dicho estado; si la enfermedad lo incapacita para comprender el carácter ilícito del hecho, así como las consecuencias de su inobservancia, o para conducirse de acuerdo con esa comprensión; si comprende el proceso que se le sigue; si su estado le permite permanecer en prisión ordinaria, o bien, en caso contrario, sobre las condiciones en que deba efectuarse su reclusión o su entrega, cuando ésta proceda, a la persona a quien corresponda hacerse de cargo de él.
+ARTICULO 343 (Contenido del dictamen psiquiátrico).- El dictamen expresará si el inculpado se encuentra en alguno de los estados a que se refiere el artículo 338 de este Código; si en la fecha en que se cometieron los hechos imputados el inculpado se encontraba en dicho estado; si la enfermedad lo incapacita para comprender el carácter ilícito del hecho, así como las consecuencias de su inobservancia, o para conducirse de acuerdo con esa comprensión; si comprende el proceso que se le sigue; si su estado le permite permanecer en prisión ordinaria, o bien, en caso contrario, sobre las condiciones en que deba efectuarse su reclusión o su entrega, cuando ésta proceda, a la persona a quien corresponda hacerse de cargo de él.
 
 ARTICULO 344 (Aplicación supletoria de las demás disposiciones de este Código).- Serán aplicables al procedimiento especial para inimputables, las disposiciones de este Código en todo aquello en que no se opongan a las reglas contenidas en este Capítulo.
 
@@ -2063,7 +2065,7 @@ ARTICULO 369 (Acumulación durante la preparación del proceso).- Las disposicio
 
 ### CAPITULO IV. SEPARACION DE EXPEDIENTES
 
-F. DE E., P.O. 24 DE AGOSTO DE 1989)
+> <small>(F. DE E., P.O. 24 DE AGOSTO DE 1989)</small>
 
 ARTICULO 370 (Separación de expedientes).- Procederá la separación de expedientes, únicamente, cuando, siguiéndose un proceso, por uno o varios delitos, en contra de varios inculpados, alguno o algunos de ellos renuncien al plazo a que se refiere el artículo 274 de este Código para ser juzgados, en tanto que otro u otros exijan se les respete dicho plazo.
 
@@ -2216,6 +2218,16 @@ P.O. 2 DE ABRIL DE 1999.
 ###### ARTICULO PRIMERO.
 
 La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 10 DE DICIEMBRE DE 1999.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
 
 ###### ARTICULO SEGUNDO.
 
