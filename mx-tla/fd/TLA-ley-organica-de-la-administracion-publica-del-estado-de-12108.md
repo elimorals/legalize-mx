@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-de-la-administracion-publica-del-estado-de-12108"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-07"
-last_updated: "2001-01-26"
+last_updated: "2001-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2001.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 7 de abril de 1998.
 
@@ -111,7 +111,9 @@ Secretaría de Gobierno.
 
 Secretaría de Finanzas.
 
-Secretaría de Desarrollo Industrial.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2001)</small>
+
+Secretaría de Desarrollo Económico.
 
 Secretaría de Obras Públicas, Desarrollo Urbano y Vivienda.
 
@@ -361,15 +363,21 @@ b).- Respecto a los impuestos federales coordinados, recibir y exigir en su caso
 
 c).- Las demás que le señalen las Leyes.
 
-SECRETARIA DE DESARROLLO INDUSTRIAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE FEBRERO DE 2001)</small>
+
+SECRETARIA DE DESARROLLO ECONOMICO
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2001)</small>
 
 ###### ARTICULO 33.
 
-La Secretaría es la encargada de elaborar y ejecutar las políticas y programas de desarrollo industrial que comprenda lo relacionado a la inversión, la producción, la distribución de la industria, su fomento y consolidación.
+La Secretaría es la encargada de elaborar y ejecutar las políticas y programas de desarrollo económico que comprenda lo relacionado a la inversión, la producción, la distribución de la industria, su fomento y consolidación.
+
+REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 2001)
 
 ###### ARTICULO 34.
 
-A la Secretaría de Desarrollo Industrial le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Económico le corresponde el despacho de los siguientes asuntos:
 
 I.- Planear y prever las necesidades para el establecimiento de la expansión industrial, procurando un adecuado equilibrio entre la actividad industrial y otras actividades que se realicen en el Estado.
 
@@ -387,7 +395,31 @@ VII.- Fomentar, estimular e integrar la pequeña y mediana industria.
 
 VIII.- Organizar y patrocinar exposiciones, ferias, congresos y eventos para el mayor desarrollo industrial.
 
-IX.- Las demás que le señalen las Leyes.
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2001)</small>
+
+IX.- Analizar, evaluar, proponer y concertar acciones de colaboración entre los sectores público y privado en materia de desarrollo, productividad y competitividad de la planta y cadenas productivas en el Estado.
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2001)</small>
+
+X.- Establecer mecanismos de coordinación de acciones entre las dependencias del sector público y los organismos del sector privado en materia de desarrollo económico.
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2001)</small>
+
+XI.- El fomento y la promoción eficiente de la inversión y de las ventajas comparativas de la economía estatal atendiendo en lo particular a la ampliación, modernización y mantenimiento de la infraestructura de los sectores industrial, comercial, de servicios y artesanal, en el ámbito de su diversidad regional.
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2001)</small>
+
+XII.- Promover y proponer alternativas de planeación económica en el Estado.
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2001)</small>
+
+XIII.- Participar en la mejora regulatoria y la simplificación administrativa.
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2001)</small>
+
+XIV.- Promover la definición de los estímulos y apoyos necesarios, a fin de facilitar el establecimiento y operación de las empresas, atendiendo tanto a criterios de generación de empleo como de calidad estratégica y prioritaria.
+
+XVI.- Las demás que le señalen las Leyes.
 
 SECRETARIA DE OBRAS PUBLICAS, DESARROLLO
 
@@ -908,3 +940,9 @@ P.O. 26 DE ENERO DE 2001.
 ###### ARTICULO UNICO.
 
 El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE FEBRERO DE 2001.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
