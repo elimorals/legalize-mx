@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "1987-12-31"
+last_updated: "1988-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1988.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -41,11 +41,11 @@ LEY FEDERAL DE DERECHOS
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 1o.
 
-Los derechos que establece esta Ley, se pagarán por los servicios que presta el Estado en sus funciones de derecho público o por el uso o aprovechamiento de los bienes del dominio público de la nación.
+Los Derechos que establece esta Ley, se pagarán por el uso o aprovechamiento de los bienes del dominio público de la Nación, así como por recibir servicios que presta el Estado en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -59,11 +59,25 @@ Cuando de conformidad con la Ley Orgánica de la Administración Pública Federa
 
 Los incrementos en las cuotas de derechos, se calcularán sobre el importe de la cuota anterior antes de efectuar el ajuste a que se refiere el artículo 6o. de esta Ley. Las tasas sobre valor no se incrementarán mediante la aplicación de factores.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
 La Secretaría de Hacienda y Crédito Público elaborará y distribuirá, mediante folletos, los textos de la Ley.
 
 ###### ARTICULO 2o.
 
 Los derechos que se establecen en esta Ley se pagarán en el monto, forma, lugar y época de pago que en cada capítulo se señalan. Cuando en el capítulo respectivo no se establezca la forma, monto, lugar y época de pago se aplicarán estas disposiciones.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+Los organismos públicos descentralizados que en cumplimiento al objeto para el que fueron creados usen o aprovechen bienes del dominio público de la Nación o presten los servicios públicos exclusivos del Estado, estarán obligados a pagar los derechos que se establecen en esta Ley con las excepciones que en la misma se señalan.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+Cuando se creen organismos públicos descentralizados no contemplados en esta Ley; que en cumplimiento del objeto para el que fueron creados, presten servicios exclusivos del Estado o usen o aprovechen bienes del dominio público de la Nación, estarán obligados a pagar por concepto de derechos el 10% de sus ingresos.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+Los derechos que están obligados a pagar los organismos públicos descentralizados por prestar servicios exclusivos del Estado, se destinarán al organismo de que se trate en caso de encontrarse en estado deficitario para cubrir sus gastos de operación, conservación, mantenimiento e inversión hasta por el monto de la deficiencia presupuestal correspondiente. Esta circunstancia y el monto correspondiente se determinará por la Secretaría de Hacienda y Crédito Público, la que, en su caso, podrá otorgar la autorización respectiva. Las cantidades excedentes no tendrán destino específico.
 
 La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, aun cuando de conformidad con otras leyes o decretos no estén obligados a pagar contribuciones o estén exentos de ellas, deberán pagar los derechos que establece esta Ley con las excepciones que en la misma se señalan.
 
@@ -595,11 +609,11 @@ IV.- Por el refrendo de pasaportes oficiales............. 1,000.00
 
 V.- Por la expedición de pasaportes oficiales, ordinarios, individuales o familiares y de documentos de identidad y viaje distintos de los señalados en las fracciones anteriores........... 4,000.00
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 21.
 
-Los diputados y senadores del Congreso de la Unión no pagarán el derecho a que se refiere esta Sección.
+Los diputados y senadores del Congreso de la Unión y los miembros del Servicio Exterior Mexicano no pagarán el derecho a que se refiere esta Sección.
 
 #### SECCION SEGUNDA. Registro Nacional de Valores e Intermediarios
 
@@ -755,9 +769,9 @@ b).- En los demás casos. 25,000.00
 
 VI.- Para reformar los contratos de fideicomiso a que se refiere la fracción anterior:
 
-a).- Los del inciso a). 30,000.00
+a).- Los del inciso a) 30,000.00
 
-b).- Los del inciso b). 15,000.00
+b).- Los del inciso b) 15,000.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -781,7 +795,7 @@ X.- Por la recepción y examen de cada solicitud de permiso, o de reposición de
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-XI.- Los no especificados en las fracciones anteriores. 6,000.00
+XI.- Los no especificados en las fracciones anteriores 6,000.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -1167,9 +1181,9 @@ Se pagarán derechos por el almacenaje de mercancías en depósito ante la aduan
 
 I.- Tres días después de terminada la descarga para materias explosivas, inflamables, contaminantes, radioactivas, corrosivas, animales vivos, perecederas de fácil descomposición que no requieran estar en refrigeración y diez días para otras mercancías, si el motivo del depósito ante la aduana es la entrada de mercancías al país;
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-II.- 180 días naturales contados desde la fecha en que se presenten las mercancías en depósito ante la aduana, si el motivo del almacenaje es su salida del país;
+II.- 90 días naturales contados desde la fecha en que se presenten las mercancías en depósito ante la aduana, si el motivo del almacenaje es su salida del país;
 
 III.- Diez días a partir de la fecha en que se pongan a disposición de los interesados las mercancías que hubieran sido secuestradas;
 
@@ -1197,7 +1211,9 @@ señalado en el inciso anterior 45.00
 
 II.- Se pagará por cada día de almacenaje el doble de las cuotas establecidas en la fracción anterior, cuando se trate de las siguientes mercancías:
 
-a) Las contenidas en caja, cartones, rejas y otros empaques, cuyo volumen sea de más de 5 metros cúbicos.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+a).- Las contenidas en cajas, contenedores vacíos, cartones, rejas y otros empaques y envases cuyo volumen sea más de 5 metros cúbicos.
 
 b) Las que deban guardarse en cajas fuertes o bajo custodia especial.
 
@@ -1216,6 +1232,10 @@ III.- Los equipajes o efectos personales de pasajeros, por cada cien kilogramos 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 Por el almacenaje a que se refiere el último párrafo de los artículos 185 y 195 del Código Fiscal de la Federación, se estará obligado al pago del derecho de almacenaje, conforme a las disposiciones establecidas en esta Sección, el que se causará a partir de la fecha en que se hubieran puesto los bienes a disposición del adquirente o del embargado, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+Para los efectos del presente artículo, los contenedores vacíos se considerarán mercancías.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -1783,9 +1803,19 @@ IV.- Por cada anualidad de vigencia:
 
 a).- A partir de la cuarta hasta la séptima......... 670.00
 
-b).- De la octava a la décima......... 1.350.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+b).- De la octava a la undécima...... 18,500.00
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+c).- A partir de la duodécima...... 27,800.00
 
 V.- Por el registro de fusión de titulares o de la transmisión de los derechos que confiere un Certificado de Invención o que puedan derivarse de una solicitud en trámite; por el registro o modificación de una autorización de explotación; por el cambio de nombre del solicitante o del titular de un Certificado de Invención, por cada uno de los actos enunciados............ 500.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+VI.- Por rehabilitación de certificado de invención caduco por falta de pago oportuno de la anualidad correspondiente.............. 300,000.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -1811,7 +1841,13 @@ b).- Por cada solicitud de prórroga....... 350.00
 
 III.- Por la expedición del título incluyendo las tres primeras anualidades de vigencia........ 2,000.00
 
-IV.- Por la cuarta y quinta anualidad de vigencia............ 1,000.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+IV.- Por cada anualidad de vigencia:
+
+a).- Por la cuarta y quinta.......... 20,500.00
+
+b).- Por la sexta y séptima.......... 36,000.00
 
 V.- Por el registro de la fusión de titulares o de la transmisión de los derechos que confiere un registro de dibujo o modelo industrial o que puedan derivarse de una solicitud en trámite; por el registro o modificación de una licencia contractual de explotación; por el cambio de nombre del solicitante o del titular de un dibujo o modelo industrial, por cada uno de los actos enunciados..........1.000.00
 
@@ -1839,7 +1875,9 @@ d).- Por la renovación si se efectúa previa comprobación del uso de la marca 
 
 e).- Por la renovación si se efectúa previa comprobación del uso de la marca en otra clase....... 4,000.00
 
-II.- Por la revisión de cada reposición de documentación o complementación de información faltante.......... 500.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+II.- Por la revisión de cada reposición de documentación o complementación de información o por cada solicitud de prórroga............ 10,500.00
 
 III.- Por el registro y expedición del título en caso de:
 
@@ -1877,9 +1915,9 @@ IV.- Por el registro de la fusión de usuarios autorizados o transmisión de der
 
 V.- Por el registro de una licencia de autorización de uso otorgada por el usuario autorizado de una denominación de origen........... 3,000.00
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-VI.- Por la revisión de cada reposición de documentación o complementación de información faltante......... 2,000.00
+VI.- Por la revisión de cada reposición de documentación o complementación de información faltante o por cada solicitud de prórroga............... 10,500.00
 
 > <small>(REFORMADO PRIMER PARRAFO,D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -1889,7 +1927,9 @@ Por la solicitud, registro y transmisión de avisos comerciales a que se refiere
 
 I.- Por el estudio de una solicitud de aviso comercial........ $1,000.00
 
-II.- Por la revisión de cada reposición de documentación o complementación de información faltante......... 500.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+II.- Por revisión de cada reposición de documentación o complementación de información faltante o por cada solicitud de prórroga................. 10,500.00
 
 III.- Por el registro y expedición de título de aviso comercial........... 1,000.00
 
@@ -1907,7 +1947,9 @@ I.- Por el estudio de una solicitud de publicación de nombre comercial.........
 
 a).- Por la renovación de los efectos de la publicación............ 1,000.00
 
-II.- Por la revisión de cada reposición de documentación o complementación de información faltante......... 500.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+II.- Por la revisión de cada reposición de documentos o complementación de información faltante o por cada solicitud de prórroga................. 10,500.00
 
 III.- Por la publicación de un nombre comercial........... 1,000.00
 
@@ -2109,6 +2151,12 @@ mexicanas, utilizando el sistema de sustitución
 
 de deuda pública por inversión
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 72-A.
+
+los ingresos que se obtengan por el derecho de inversiones extranjeras a que se refieren los artículos 71 y 72 de esta Ley, se destinarán a la dependencia prestadora del servicio, para cubrir sus gastos de operación, conservación, mantenimiento e inversión, así como para promover la inversión extranjera, hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado. La parte de los ingresos que excedan el límite señalado en este artículo, no tendrán fin específico.
+
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 73.
@@ -2151,17 +2199,51 @@ lote……. 25,000.00
 
 III.- Por la supervisión, a solicitud de parte interesada, efectuado por el personal de la dependencia prestadora del servicio, relativa al cumplimiento de normas o especificaciones, por cada comisionado, diariamente……… 3,000.00
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+IV.- Aparatos, materiales, componentes dispositivos, maquinaria, equipos o sistemas destinados a la generación, transformación, abastecimiento o utilización de la energía eléctrica, cualquiera que sea el origen de ésta, por solicitud................ 80,000.00.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+V.- Equipo, maquinaria, aparatos, tubería, artefactos, instrumentos dispositivos, accesorios y servicios que se destinen a la utilización de los gases L. P. y natural, por solicitud....... 80,000.00.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+VI.- Artículos de joyería y orfebrería elaborados con oro, plata, platino, y paladio:
+
+a).- Análisis por unidad de platino............. 16,500.00
+
+b).- Análisis por unidad de paladio.............. 13,000.00
+
+c).- Análisis por unidad de oro............ 7,500.00
+
+d).- Análisis por unidad de plata............ 3,800.00
+
+e).- Expedición del certificado respectivo............. 3,000.00
+
+f).- Expedición de certificados de exportación, por cada diez piezas o fracción efectivamente muestreadas.............. 18,600.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+VII.- Por solicitud de autorización para el uso del sello oficial de garantía.......... 100,000.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+VIII.- Por el otorgamiento y uso de sello oficial de garantía, anualmente........... 480,000.00
+
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 73-B.
 
 Cuando para la prestación de los servicios a que se refiere esta Sección, se requiera el traslado de personal o equipo fuera de la oficina en que se encuentre el mismo, el derecho de normas se incrementará en la cantidad equivalente a los gastos que implique el traslado de personal y equipo. Los gastos extraordinarios y de pasaje se comprobarán con los documentos en que conste la erogación, de los cuales se le entregará una copia al contribuyente; asimismo se incrementarán con los viáticos que conforme a reglas de carácter general expida la autoridad competente.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 73-C.
 
-Por el registro en el Sistema Nacional de Acreditamiento de Laboratorios de Pruebas y la expedición del certificado respectivo efectuados por la autoridad competente, se pagará el derecho por acreditamiento de laboratorios conforme a una cuota de $ 10,000.00
+Por solicitud para el ingreso en el sistema nacional de acreditamiento de laboratorios de pruebas y la expedición del certificado respectivo efectuados por la autoridad competente, por laboratorio $ 360,000.00.
+
+Por cada visita de evaluación formal y de post-acreditamiento, por evaluador diariamente $ 240,000.00.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -2173,11 +2255,37 @@ I.- Por cada certificación de método y sistema de medición $6,000.00
 
 II.- Por cada certificación oficial de calibración de equipos patrones e instrumentos de medición 1.600.00
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 73-E.
 
-Por el registro en el Sistema Nacional de Acreditamiento de Laboratorios de Pruebas y la expedición del acreditamiento respectivo efectuadas por la Secretaría de Comercio y Fomento Industrial. se pagará el derecho por acreditamiento de laboratorios conforme a una cuota de $3,500.00
+Por el registro y autorización de técnico responsable para la proyección y construcción de instalaciones que utilicen y aprovechen energía eléctrica y gas L. P. y natural, se pagarán las siguientes cuotas:
+
+I.- Para el uso de energía eléctrica:
+
+a).- Ingeniero titulado con estudios de subestaciones, líneas de transmisión y distribución e instalaciones en fuerza y alumbrado... $ 100,000.00
+
+b).- Pasante de ingeniería o Técnico nivel vocacional con estudios de subestaciones, líneas de transmisión y distribución e instalaciones en fuerza y alumbrado............ $ 80,000.00
+
+c).- Técnico a nivel secundaria con estudios de instalaciones en fuerza y alumbrado.......................... $ 50,000.00
+
+II.- Para el uso y aprovechamiento de gas L. P. y natural:
+
+a).- Profesionistas dedicados a cualquier rama de la Ingeniería, titulados, excepto los que se incluyan en el ramo de la construcción......... $ 100.000.00
+
+b).- Personas con bachillerato, vocacional o equivalente con experiencia en el ramo......................... $ 80,000.00
+
+c).- Profesionistas dedicados al ramo de la construcción como son ingenieros civiles o arquitectos, titulados...... $ 100,000.00
+
+d).- Instalador....................... $ 50,000.00
+
+Por el refrendo del registro a que se refieren las fracciones que anteceden, se pagará un derecho del 50% de la cuota del registro de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 73-F.
+
+Los ingresos que se obtengan por los derechos que se establecen en este Capítulo, se destinarán a la dependencia prestadora del servicio, para cubrir sus gastos de operación, conservación, mantenimiento e inversión, hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado. La parte de los ingresos que excedan el límite señalado en este artículo, no tendrán fin específico.
 
 (REUBICADA CON LOS ARTICULOS QUE LA INTEGRAN [N. DE E. ANTES SECCION CUARTA DEL CAPITULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)
 
@@ -2242,8 +2350,6 @@ Cuando se trate de productos básicos, respecto de los cuales el fabricante cuen
 > <small>(REFORMADA SU DENOMINACION Y REUBICADA CON EL ARTICULO QUE LA INTEGRA [N. DE E. ANTES SECCION SEXTA DEL CAPITULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION SEGUNDA. Servicios de Telégrafos y Teléfonos
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 78.
 
@@ -2317,7 +2423,9 @@ La cuota que establece esta fracción se pagará aun cuando la verificación se 
 
 V.- Instrumentos de medición con capacidad mayor a las indicadas en la fracción III y menor de 5,000 kilogramos, 100,000 metros lineales, 1,000 metros cuadrados, 100 metros cúbicos o 100,000 litros; básculas electrónicas o de precisión, cualquiera que sea su alcance de medición y tipo de precisión; así como máquinas dosificadoras que se usen en el llenado o dosificado, por cada uno........ $ 670.00
 
-VI.- Instrumentos de medición con capacidad mayor a la indicada en la fracción anterior.................. $ 1,350.00
+VI.- Instrumentos de medición con capacidad mayor a la indicada en la fracción
+
+anterior................ $ 1,350.00
 
 VII.- Medidores para gas licuado de petróleo o cualquier otro gas, susceptibles de medir en estado líquido o en vapor, por cada uno......... $ 540.00
 
@@ -2335,13 +2443,17 @@ Cuando para la verificación de instrumentos o básculas con capacidad hasta de 
 
 Los derechos a que se refiere esta Sección, se pagarán al presentarse los instrumentos de medir a verificación, al presentarse las manifestaciones de los mismos, o en su caso, al practicarse las inspecciones en las que se compruebe que los instrumentos no fueron manifestados ni presentados a verificación.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 81-A.
+
+Los ingresos que se obtengan por los derechos que se establecen en este Capítulo, se destinarán a la dependencia prestadora del servicio, para cubrir sus gastos de operación, conservación, mantenimiento e inversión, hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado. La parte de los ingresos que excedan el límite señalado en este artículo, no tendrán fin específico.
+
 ### CAPITULO VII. De la Secretaría de Agricultura y Recursos Hidráulicos
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 #### SECCION CUARTA. Servicio de Correos
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 82.
 
@@ -2359,17 +2471,19 @@ III.- Por la expedición del permiso para descarga de aguas residuales distintas
 
 IV.- Por la autorización o permiso para modificar las características de los títulos a que se refiera la fracción I de este artículo, respecto a la extracción o derivación, uso o aprovechamiento, sustitución de usuarios, ubicación o características constructivas de las obras, por cada uno.............. 15,000.00
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 82-A.
 
-Por el otorgamiento de asignaciones, concesiones o permisos para la construcción de obras o para la extracción de materiales de construcción en cauces, vasos, zonas federales y depósito de propiedad nacional, se pagará anualmente el derecho de concesión de inmuebles federales, conforme a las siguientes cuotas:
+Por la expedición de título de concesión para la extracción de materiales de construcción de cauces, vasos y depósitos de propiedad nacional, así como de permisos para la ocupación de terrenos de cauces, vasos y zonas federales y para la construcción de obras hidráulicas destinadas al uso de aguas de fuentes superficiales, se pagará el derecho conforme a las siguientes cuotas:
 
-I.- Para la construcción de obras, por cada una.............. $ 32,500.00
+I.- Título de concesión para la extracción de materiales de construcción, por cada uno....................... $ 33,500.00
 
-II.- Para la extracción de materiales de construcción, por cada uno............. 25,000.00
+II.- Permiso para la ocupación de terrenos de cauces, vasos y zonas federales, por cada uno............... 10,000.00
 
-Este derecho se pagará independientemente del que corresponde por el uso o goce del inmueble conforme al Título II de esta Ley.
+III.- Permiso para la construcción de obras, por cada uno........... 50,000.00
+
+Los derechos a que se refiere este artículo se pagarán independientemente de los que correspondan por el uso o goce del inmueble conforme al Título II de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -2407,11 +2521,11 @@ Por los servicios de riego y drenaje que se proporcionen en los distritos y unid
 
 Las cuotas por el servicio de riego y drenaje en los distritos y unidades de riego, serán en la cantidad necesaria para cubrir los costos de operación y mantenimiento de las obras de infraestructura en cada distrito o unidades de riego. Los Comités Directivos de cada distrito de riego o las asociaciones de usuarios de las unidades de riego propondrán para su aprobación a la Secretaría de Hacienda y Crédito Público, en consulta con la Secretaría de Agricultura y Recursos Hidráulicos, las cuotas calculadas por el volumen que deben cubrir los usuarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 83-C.
 
-Los ingresos que se obtengan por los derechos que se establecen en esta Sección, se destinarán a la dependencia que proporcione los servicios, para la construcción y conservación de obras de infraestructura hidráulica, de las entidades federativas en que se recauden, hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado para tal efecto.
+Los ingresos que se obtengan por los derechos que se establecen en esta Sección, se destinarán a la Comisión Nacional del Agua que proporciona los servicios de agua, para la construcción, conservación y mantenimiento de obras de infraestructura hidráulica, hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado. La parte de los ingresos que excedan el límite señalado en este artículo, no tendrán fin específico.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -2457,7 +2571,7 @@ IV.- Por el cumplimiento de disposiciones especiales, tendientes a proteger la s
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-#### SECCION SEXTA. Servicio a la Navegación en el Espacio Aéreo Mexicano
+#### SECCION SEXTA. Servicios a la Navegación en el Espacio Aéreo Mexicano y Técnicos Aeronáuticos
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -3253,49 +3367,9 @@ Para los efectos de los artículos 96, del 98 al 103, 108, 109, 111, 112-A Y 112
 
 Lo anterior tendrá efectos tanto para los sistemas terrestres de microondas como para los que se proporcionen por satélite, incluyendo los servicios complementarios del exterior, que permitan junto con el Sistema Nacional de Telecomunicaciones proporcionar el servicio completo.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
 ###### ARTICULO 104.
 
-Por el servicio nacional permanente de telerreservaciones en la modalidad de reservación de espacios, se pagará el derecho de telerreservaciones conforme a las siguientes cuotas:
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-I.- En aeronaves de equipo de turbohélice o reacción, por la reservación de asiento, en vuelos nacionales, la que resulte de aplicar el 1.3% al precio promedio de los boletos de viaje sencillo en el servicio normal de la Ciudad de México a Acapulco, a Guadalajara y a Monterrey.
-
-Para los efectos de esta fracción, se consideran como pasajeros a los que hayan abordado en aeronaves de equipo de turbohélice o reacción para vuelos nacionales e internacionales, de conformidad con el documento que contiene los pasajeros transportados por cada vuelo de las líneas aéreas validado por la dependencia prestadora del servicio.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-II.- En hoteles, por la reservación de cada habitación y de acuerdo a la categoría de los mismos.
-
-a).- de 1 a 3 estrellas............... $ 2,500.00
-
-b).- de 4 estrellas............. 4,000.00
-
-c).- de 5 estrellas........... 6,600.00
-
-d).- Categoría de gran turismo y clase especial............... 11,000.00
-
-III.- En autobuses foráneos, por la reservación de asientos, por cada pasajero.......... $ 230.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-VI (sic).- En ferrocarriles, por la reservación de espacios, por cada pasajero............ $ 410.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-V.- En transbordadores, por la reservación de espacios, por pasajero y por vehículo…… $ 550.00
-
-VI.- Por la conexión al sistema de telerreservación de agencias de viajes:
-
-a).- Por conexión........... $ 175,000.00
-
-b).- Por cada terminal, mensualmente………… $ 27,000.00
-
-Para los efectos de la fracción I de este artículo, se considerarán como pasajeros a los que hayan abordado en aeronaves de equipo de reacción para vuelos nacionales e internacionales, de conformidad con el documento que contiene los pasajeros transportados por cada vuelo de las líneas aéreas validado por la dependencia prestadora del servicio.
-
-Los avisos de cobro por los servicios a que se refieren las fracciones I a V, de este artículo, se formularán mensualmente a las empresas transportistas, u hoteleras que hayan hecho la reservación, aplicando la cuota correspondiente al número de asientos y habitaciones, según correspondan, contabilizados al último día de cada mes. Tratándose de la fracción VI, el aviso de cobro del primer mes o fracción, se formulará conjuntamente con la cuota inicial por conexión.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -3867,55 +3941,9 @@ Las cuotas que señala este artículo corresponden al segmento terrestre naciona
 
 III.- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1987)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
 ###### ARTICULO 113.
 
-Por el servicio telegráfico internacional en sus modalidades de mensajes de fonotelegrafía, giros, expedición de tarjeta de cuenta transferida y registro de direcciones cablegráficas, se pagará el derecho de telegrafía internacional, conforme a las siguientes cuotas:
-
-I.- Mensajes ordinarios:
-
-País o lugar Mínimo de Por mensaje con Por cada palabra
-
-de destino. palabras. el mínimo de palabras. excedente.
-
-a).- Africa, Asia y
-
-Oceanía 7 $ 881.00 $ 126.00
-
-b).- Centroamérica y
-
-Cuba excepto Belice 7 206.00 30.00
-
-c).- Estados Unidos de
-
-América 15 923.00 36.00
-
-d).- Europa y Caribe 7 734.00 105.00
-
-e).- Belice 7 588.00 84.00
-
-f).- Sudamérica y Canadá 7 441.00 63.00
-
-El nombre del contribuyente, destino, domicilio y firma, si se cobran, a excepción de los mensajes entre México y los Estados Unidos de América.
-
-II.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)
-
-III.- Por el servicio telegráfico internacional en cualquiera de sus modalidades, que se reciban por teléfono en la oficina de fonotelegrafía, en cualquier horario, se pagará por la transmisión de mensajes el 30% adicional a las cuotas señaladas en las fracciones I y II de este artículo.
-
-IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1986)
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-V.- Por la expedición de tarjetas de cuenta transferida para el uso del servicio telex y del telegráfico internacional en cualquiera de las modalidades indicadas en esta Ley; a partir de la fecha de su expedición, por cada una, $ 1,700.00 anuales.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-VI.- Por las direcciones cablegráficas registradas en el servicio telegráfico internacional, en cualquier modalidad de mensaje por cada una, anualmente $ 3,400.00.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-VII.- Por la expedición de copias certificadas de telegramas, por cada una $ 1,000.00.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -4521,11 +4549,11 @@ II.- Para el caso de servicios de conducción de señales hacia o desde la regi�
 
 III.- La conducción de la señal dentro del territorio nacional, desde las estaciones terrenas respectivas hacia el lugar de origen o destino, quedará sujeta a la aplicación de las cuotas del servicio correspondiente que señale esta Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 115-N.
 
-Los ingresos que se obtengan por los derechos a que se refieren los artículos 91, 92, 93 y 113 de esta Ley, a excepción de aquellos que se destinen a cubrir los gastos de operación que se generen con motivo de la prestación del servicio, así como los que se deben pagar en moneda extranjera por servicios internacionales a otras administraciones, se destinarán al organismo público descentralizado Telégrafos Nacionales, para cubrir sus gastos de operación, conservación, mantenimiento e inversión, hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado. La parte de los ingresos que excedan el límite señalado en este artículo, no tendrá fin específico.
+Los ingresos que se obtengan por los derechos que se establecen en esta Sección, se destinarán al órgano encargado de prestar los servicios de telecomunicaciones para cubrir sus gastos de operación, conservación, mantenimiento e inversión, hasta por el monto que señale el presupuesto de egresos que le hubiere sido autorizado. La parte de los ingresos que excedan el límite señalado en este artículo, no tendrá fin específico.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -4535,143 +4563,19 @@ Los ingresos que se obtengan por los derechos a que se refieren los artículos 9
 
 ###### ARTICULO 116.
 
-Por los servicios telegráficos que se presten a través de la red telegráfica nacional en el interior de la República, se pagará el derecho por servicios telegráficos conforme a las siguientes cuotas:
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-I.- Telegramas ordinarios:
-
-a).- Telegramas depositados en oficinas telefónicas o radiofónicas, así como los depositados en cualquier administración que tengan como destino final una oficina telefónica o radiofónica:
-
-1.- Hasta diez palabras de texto $ 30.00
-
-2.- Cada palabra excedente 3.00
-
-b).- Telegramas ordinarias distintos de los anteriores:
-
-1.- Hasta diez palabras de texto $ 55.00
-
-2.- Por cada palabra excedente 5.00
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-c).- Telemensaje, por cada depósito de mensajes de hasta 300 palabras.......... $ 700.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-II.- Teleimpreso:
-
-a).- Por el servicio nacional, por cada página tamaño carta u oficio, incluyendo el servicio de entrega a domicilio, cuando éste se encuentre ubicado dentro de la ciudad en la que se reciba la señal........................ $ 1,300.00
-
-b).- Por el servicio internacional:
-
-1.- Por la primera página...................... $ 4,800.00
-
-2.- Por cada página adicional................. 1,200.00
-
-Los derechos a que se refiere este inciso, no incluyen el pago correspondiente a la llamada telefónica de larga distancia, que debe cubrir el solicitante del servicio.
-
-c).- Por la recepción de Teleimpresos provenientes del extranjero, el destinatario pagará............ 4,800.00
-
-III.- Telegramas urgentes, o con acuse de recibo.
-
-Por los telegramas urgentes se pagará doble cuota. Cuando el mensaje contenga acuse de recibo, se pagará una cuota adicional equivalente al importe de un mensaje de diez palabras ordinario o urgente, según sea el caso.
-
-IV.- Telegramas de contestación pagada:
-
-Además de la cuota que corresponda al telegrama depositado por el expedidor, se pagará la cuota adicional que proceda, según el carácter del telegrama de respuesta y el número de palabras que el expedidor autorice para el mismo. En caso de que el corresponsal use mayor número de palabras de las autorizadas, cubrirá las excedentes como corresponda. Si el corresponsal no hiciere uso de este servicio, no podrá exigírsele respuesta ni se reembolsará el importe cubierto por este concepto.
-
-V.- Telegramas de giros.
-
-Se pagará la cuota correspondiente a un telegrama ordinario o urgente, según el caso, de diez palabras de texto, además del premio por la situación de fondos. El expedidor podrá insertar un máximo de cinco palabras sin costo adicional alguno.
-
-VI.- Servicio de fonotelegramas.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-Los suscriptores de las empresas telefónicas de servicio público que transmitan sus telegramas desde su aparato telefónico a la administración de telégrafos de su localidad, pagará el derecho que corresponda por telegramas ordinarios. De acuerdo con los convenios celebrados con las compañías telefónicas, éstas cobrarán por el servicio que presten y recaudarán el derecho incluyéndolo en la facturación que expidan.
-
-VII.- Conferencias telegráficas del público, los telegramas que origine la conferencia entre los interesados pagarán la cuota de telegramas urgentes.
-
-VIII.- Por situación de giros telegráficos, sobre la cantidad situada 1%
-
-La cuota mínima por este concepto será de $1.00.
-
-IX.- Registro de Direcciones Telegráficas, anualmente, por cada una $ 400.00
-
-X.- Expedición de copias de telegramas solicitadas por los interesados, por cada una 40.00
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-XI.- Telexgrama, por la transmisión de telegramas ordinarios o urgentes que se realicen de las administraciones telegráficas a suscriptores del servicio télex, o viceversa, se pagará el derecho conforme a las cuotas a que se refieren las fracciones I y III de este artículo, respectivamente.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-XII.- Por el servicio de situación de fondos a cualquier lugar de la República Mexicana, a través del Sistema Girofax, se pagará el 2% sobre la cantidad situada, más los costos de conducción, de conformidad con las cuotas contenidas en esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 117.
 
-Los ingresos que se obtengan por los derechos que se establecen en esta Sección, se destinarán a la administración de los servicios de telégrafos, para cubrir los gastos de operación, conservación, mantenimiento e inversión, hasta el monto que señale el presupuesto de egresos que hubiera sido autorizado para tal efecto.
-
-> <small>(F. DE E., D.O.F. 24 DE ENERO DE 1986)</small>
-
-La parte de los ingresos que excedan el límite señalado en este artículo, no tendrán fin específico.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 118.
 
-Por los servicios telefónicos y radiofónicos que se presten a través de la red telegráfica nacional en el interior de la República, se pagará el derecho por servicios telefónicos conforme a las siguientes cuotas:
-
-I.- Por el servicio de telefonemas y radiofonemas se pagará una cuota equivalente a la sobretasa que se menciona en el párrafo siguiente, debiéndose pagar doble cuota por el servicio urgente.
-
-Cuando el punto de destino final de un mensaje esté comunicado por oficina telefónica o radiofónica incorporada a la red nacional, se pagará una sobretasa de $8.00 hasta por las diez primeras palabras de texto y $0.80 por cada palabra excedente, además de la cuota telegráfica que corresponde entre la administración de procedencia y la adscripción de la oficina telefónica o radiofónica incorporada. o viceversa.
-
-II.- Conferencia telefónicas y radiofónicas.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-a).- Por los primeros tres minutos de conferencia.......... $ 35.00
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-b).- Por cada minuto excedente de los primeros tres.......... 12.00
-
-c).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1983)
-
-Las conferencias se clasificarán en ordinarias y urgentes, pagándose por estas últimas el doble de la cuota del derecho. Cuando la conferencia no tenga efecto por causa imputable a los interesados, el mensaje de cita pagará una cuota equivalente al importe de un minuto excedente de conversación en una conferencia.
-
-Las conferencias telefónicas y radiofónicas solicitadas por funcionarios y empleados federales, pagarán los derechos que correspondan, salvo los casos de franquicias señalados en esta Ley.
-
-III.- Por los aparatos telefónicos de servicio privado, conectados a líneas de la red telegráfica y nacional, por enlace, mensualmente $400.00.
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 119.
 
-No pagarán derechos por los servicios de telégrafos y teléfonos, prestados a través de la red telegráfica nacional:
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-I.- Los mensajes oficiales del Poder Judicial de la Federación y de las entidades federativas, los de los tribunales administrativos, así como los del Poder Legislativo Federal.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-II.- Los casos que señalan los párrafos segundo y tercero del artículo 23 de la Ley de Amparo.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-III.- Los mensajes de los partidos políticos constituidos en los términos de la legislación correspondiente, siempre que no se trate de propaganda electoral, asuntos de interés personal, ni para mensajes cuyos destinatarios se encuentren en la misma ciudad o zona urbana de giro.
-
-IV.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1983)
-
-V.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1983)
-
-VI.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1983)
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 #### SECCION TERCERA. Estudios de Flora y Fauna
 
@@ -5423,6 +5327,18 @@ IV.- Por cada derivación adicional al sistema primario............ 10,000.00.
 
 Por la autorización a los concesionarios y permisionarios de servicios de Telecomunicaciones, para el establecimiento y operación de estaciones terrenas receptoras para enlaces nacionales descendentes, se pagará anualmente el derecho de autorización para estaciones terrenas, conforme a la cuota de $ 100,000.00.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 128-C.
+
+Por las autorizaciones para establecer estaciones terrenas transreceptoras utilizadas por permisionarios o concesionarios de sistemas o redes con enlaces nacionales para servicios de voz o datos, se pagará anualmente por cada estación terrena sobre su valor conforme a las siguientes cuotas:
+
+I.- Por cada estación terrena maestra de control.............. 0.03%
+
+II.- Por cada estación terrena remota............. 0.3%
+
+Los porcentajes a que se refieren las fracciones I y II que anteceden, se aplicarán al valor consignado en la factura o en el documento legal que ampare el valor de adquisición de las estaciones terrenas que formen parte del sistema o red.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 129.
@@ -5725,6 +5641,16 @@ Por la inspección inicial, de estaciones terrenas receptoras para enlaces nacio
 
 Por la verificación de sistemas, los concesionarios y permisionarios de vías generales de comunicación de sistemas especiales de telecomunicaciones, en servicio público o sistemas privados, pagarán el derecho por la verificación de sistemas, conforme a la cuota de $ 100,000.00.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 133-E.
+
+Por la inspección inicial de estaciones terrenas transreceptoras utilizadas por permisionarios o concesionarios de sistemas o redes con enlaces nacionales para servicios de voz o datos, se pagará el derecho conforme a las siguientes cuotas:
+
+I.- Por cada estación terrena maestra de control............. $ 250,000.00
+
+II.- Por cada estación terrena remota............. $ 150,000.00
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 134.
@@ -5771,7 +5697,7 @@ Por la inspección inicial, verificación y vigilancia de estaciones y equipos a
 
 I.- Estaciones de radiodifusión:
 
-a).- Por cada estación en las bandas de 535-1, 605 kilohertz y de 2 a 20 megahertz.. $ 10,000.00
+a).- Por cada estación en las bandas de 535-1, 605 kilohertz y de 2 a 20 megahertz.................... $ 10,000.00
 
 b).- Por cada estación en la banda de 88-108 megahertz............... 13,000.00
 
@@ -5947,397 +5873,43 @@ c).- Modificaciones............ $ 5,000.00
 
 ###### ARTICULO 142.
 
-Por los servicios de correo en vía de superficie en el régimen interior de la República, se pagará el derecho de correo, por pieza, conforme a las siguientes cuotas:
-
-A.- Cartas, tarjetas postales e impresos.
-
-I.- Por los primeros 20 gramos o fracción.......... $ 12.00
-
-II.- Por cada 20 gramos o fracción distintos a los que se refiere la fracción anterior y hasta 100 gramos.......... 8.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-III.- Por cada 100 gramos o fracción, distintos a los que se refiere la fracción anterior y hasta 1 kilogramo………. 20.00
-
-B.- Diarios y publicaciones periódicas, autorizadas por la dependencia prestadora del servicio, depositados por sus editores o agentes en los plazos reglamentarios
-
-del servicio, por cada 500 gramos o fracción, por pieza para un mismo destinatario......... 9.00
-
-C.- Bultos conteniendo mercancías, conforme a las siguientes cuotas:
-
-(VEASE ARCHIVO ANEXO)
-
-Por los libros e impresos, cuando sean depositados por sus editores o agentes, así como diarios y publicaciones periódicas distintas a las señaladas en el apartado "B" de este artículo, con peso mínimo de 60 gramos, se pagará el 50% del derecho que resulte conforme a lo establecido para la zona "A" de este apartado.
-
-Para los efectos de este apartado, las zonas de distancias fijadas en base a los kilómetros de carretera, son las siguientes:
-
-I.- "A" hasta 200 kilómetros.
-
-II.- "B" de más de 200 a 500 kilómetros.
-
-III.- "C" de más de 500 a 800 kilómetros.
-
-IV.- "D" de más de 800 a 1,000 kilómetros.
-
-V.- "E" de más de 1,000 a 2,000 kilómetros.
-
-VI.- "F" de más de 2,000 a 3,000 kilómetros.
-
-VII.- "G" de más de 3,000 kilómetros.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 143.
 
-Por los servicios de correo en vía aérea en el régimen interior de la República, se pagará el derecho de correo, por pieza, conforme a las siguientes cuotas:
-
-A.- Cartas, tarjetas postales e impresos.
-
-I.- Por los primeros 20 gramos.......... $ 12.00
-
-II.- Por cada 20 gramos o fracción distintos a los que se refiere la fracción anterior, hasta 100 gramos............ 8.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-III.- Por cada 100 gramos o fracción distintos a los que se refiere la fracción anterior y hasta 1 kilogramo............ 35.00
-
-B.- Bultos conteniendo mercancías, conforme al doble de las cuotas a que se refiere el apartado C del artículo 142 de esta Ley. Por los libros e impresos, así como diarios y publicaciones periódicas con peso mínimo de 60 gramos, se pagará el 75% del derecho que resulte de conformidad con este apartado.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 143-A.
 
-Por los servicios de correo acelerado en el régimen interior de la República, se pagará el derecho de correo, por pieza, conforme a las siguientes cuotas:
-
-Servicio Servicio
-
-Local Foráneo
-
-I.- Hasta 100 gramos $ 1,000.00 $ 2,500.00
-
-II.- De más de 100 y hasta 500 gramos $ 1,500.00 $ 3,000.00
-
-III.- De más de 500 y hasta 1,000 gramos $ 2,000.00 $ 3,500.00
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-IV.- De más de 1,000 gramos, independientes
-
-de la cuota anterior por cada kilogramo
-
-o fracción adicional $ 2,500.00 $ 3,500.00
-
-Para los efectos de aplicación de este artículo por servicio local se entenderá aquél que se presta para conducir piezas postales dentro de la misma población. Por servicio foráneo se entenderá a aquél que se presta para conducir piezas postales de una población a otra.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 144.
 
-Por los servicios de correo que se prestan en el régimen interior de la República, distintos de los señalados en los demás artículos de esta Sección, se pagará el derecho de correo conforme a las siguientes cuotas:
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-I.- Correo certificado, por pieza:
-
-a).- Para entregarse exclusivamente al destinatario o a quien éste autorice por escrito ante la oficina de correos........... $ 40.00
-
-b).- Para entregarse al destinatario o a persona distinta de él que se encuentre en la misma dirección del destinatario........... 30.00
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-II.- Reembolso, por pieza.......... 30.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-III.- Acuse de recibo por pieza....... 550.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-IV.- Seguro postal, además del franqueo correspondiente, por cada $1,000.00 o fracción del valor declarado......... 50.00
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-V.- Aviso de pago de giros, por pieza:
-
-a).- Solicitado en el momento de su expedición........... 22.00
-
-b).- Solicitado con posterioridad a la fecha de su expedición........ 37.00
-
-VI.- Reexpedición de correspondencia a población diferente: se pagará el derecho correspondiente al nuevo destino.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-VII.- Almacenaje de toda correspondencia a partir del undécimo día hábil de haberse notificado al destinatario, diariamente:
-
-a).- Hasta 100 grs.............. $ 100.00
-
-b).- De más de 100 grs. hasta 500 grs…….... 150.00
-
-c).- De más de 500 grs............... 200.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-VIII.- Trámites extraordinarios......... 45.00
-
-IX.- Premios por giros:
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-a).- Solicitado expresamente para situación de fondos, una cuota de $ 20.00 y además el 2% sobre el valor del giro.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-b).- Expedidos para cubrir el valor de cada reembolso, una cuota de $ 40.00 y además el 4% sobre el valor del giro expedido.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-X.- Premios por vales:
-
-a).- Con valor hasta de........ $ 1,000.00.. $ 270.00
-
-b).- Con valor de.............. $ 5,000.00.. $ 350.00
-
-c).- Con valor de.............. $ 10,000.00.. $ 450.00
-
-d).- Con valor de.............. $ 20,000.00.. $ 650.00
-
-e).- Con valor de.............. $ 50,000.00.. $ 1,200.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-XI.- Permiso para envío de correspondencia con derechos por cobrar por bimestre o fracción........... 250.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-XII.- Alquiler de cajas de apartado:
-
-a).- Tamaño chico, cada una por bimestre o fracción............ $ 1,000.00
-
-b).- Tamaño cuádruple cada una, por bimestre o fracción......... 3,000.00
-
-XIII.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1984)
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-XIV.- Permiso para uso de máquina franqueadora, cada uno por doce meses........ 1,200.00
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-XV.- Tarjeta postal de identificación........... 45.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-XVI.- Formas estampilladas, de emisión oficial, adicionalmente al franqueo correspondiente:
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-a).- Fajillas, por cada una........... 5.00
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-b).- Sobres, cada uno............ 5.00
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-c).- Tarjetas carta, tarjeta postal y correograma, cada uno…..... 6.00
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-XVII.- Permiso por el registro de publicaciones periódicas cada uno, por doce meses......... 1,800.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-XVIII.- Devolución de bultos registrados, bultos con reembolso y bultos asegurados, con peso mayor de 1 kilogramo, se cobrará la cuota que corresponda por la devolución.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-XIX.- Por el envío de llaves de hotel cuando carezcan de las estampillas correspondientes, el destinatario pagará el doble de las cuotas que se establecen en el apartado A del Artículo 142 de esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 144-A.
 
-Por los servicios de correo para propaganda comercial en el régimen interior de la República, por cada depósito de más de 10,000 piezas, con peso máximo de 300 gramos por unidad, siempre que sean de peso y dimensiones iguales y éstas se depositen previa autorización en los términos y condiciones que establezca la dependencia prestadora del servicio, oyendo la opinión de la Secretaría de Hacienda y Crédito Público, se pagará el derecho de correo por pieza, de conformidad con las siguientes cuotas:
-
-I.- Hasta 20 gramos.............. $ 100.00
-
-II.- De más de 20 y hasta 50 gramos............... $ 150.00
-
-III.- De más de 50 y hasta 100 gramos............. $ 250.00
-
-IV.- De más de 100 y hasta 200 gramos............. $ 350.00
-
-V.- De más de 200 y hasta 300 gramos.............. $ 400.00
-
-VI.-. Por la autorización a que se refiere este artículo, anualmente.............. $ 20,000.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 145.
 
-Por los servicios de correo internacional en vías de superficie, aéreas y servicios adicionales, se pagará el derecho de correo conforme a las siguientes cuotas:
-
-A.- Vías de superficie.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-I.- Cartas, tarjetas postales y tarjetas carta, por pieza hasta de 2 kilogramos........ $ 19.00
-
-II.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1983)
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-III.- Diarios y publicaciones periódicas e impresos en general, con límite de peso de hasta 2 kilogramos por pieza y libros con límite de peso de hasta 10 kilogramos, se pagarán derechos conforme a la siguiente tabla:
-
-hasta de 20 gramos.......... $ 9.00
-
-de más de 20 a 100 gramos.......... 21.00
-
-IV.- Pequeños paquetes, por piezas hasta de 1 kilogramo:
-
-Hasta de 100 gramos........... $14.00
-
-De más de 100 a 250 gramos............ 26.00
-
-De más de 250 a 500 gramos............. 36.00
-
-De más de 500 a 1,000 gramos........... 77.00
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-V.- Por las cartas y tarjetas postales, impresos en general, pequeños paquetes y las encomiendas de superficie que se envíen por avión con prioridad reducida, con destino a los países con los que se haya celebrado convenio, se cobrará, además de las cuotas establecidas para vía de superficie, el 30% de las sobretasas aéreas fijadas por Convenio Postal Universal, según la zona de destino de que se trate.
-
-Para los países con los que se establezca esta modalidad se suspenderá el servicio de superficie.
-
-B.- Vía aérea.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-I.- Cartas y tarjetas postales, además de cuotas que establece el apartado "A", fracción I de este artículo, se pagará la sobretasa que para vía aérea establece el Convenio Postal Universal, según la zona de destino de que se trate.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-II.- Impresos en general, libros y pequeños paquetes, además de las cuotas que establece el apartado "A", fracciones III y IV de este artículo, se pagará la sobretasa que para vía aérea establece el Convenio Postal Universal, según la zona de destino de que se trate.
-
-III.- Por los servicios de correo internacional por vía aérea para correspondencia agrupada con destino a Brasil, Canadá y Estados Unidos de Norteamérica, se pagará el derecho de correo conforme a la siguiente.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-III.- Por los servicios de correo internacional por vía aérea para correspondencia agrupada, se pagará el derecho de correo, de acuerdo a los siguientes grupos de países:
-
-(VEASE ARCHIVO ANEXO)
-
-Además de las cuotas a que se refiere el párrafo que antecede:
-
-a).- Por el servicio programado se pagará una cuota mensual de........... $ 5,000.00
-
-b).- Por el servicio no programado se pagará por pieza una cuota de.......... 2,000.00
-
-> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-La Secretaría de Hacienda y Crédito Publico determinará las tarifas por el servicio de correo internacional a que se refiere esta fracción por el período que falte para concluir el año de calendario de que se trate, cuando México establezca este servicio con otros países.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-C.- Servicios adicionales.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-I.- Correo Certificado, por pieza……… $ 60.00
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-Correo certificado, para entregarse al destinatario, además de la cuota anterior............ 17.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-II.- Aviso de recepción, por pieza............ 110.00
-
-III.- Aviso de pago de giros, por pieza............. 75.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-IV.- Almacenaje, por cada paquete de más de 500 gramos, a partir del undécimo día hábil de haberse notificado al destinatario, diariamente…….. 200.00
-
-V.- Reclamaciones y trámites extraordinarios........... 80.00
-
-VI.- Petición de devolución, reexpedición o modificación de dirección........ 50.00
-
-VII.- Presentación a la aduana, por pieza:
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-a).- Encomiendas, importación...................$ 3,700.00
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-b).- Encomiendas, exportación...................1,100.00
-
-c).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1987)
-
-d).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1987)
-
-VIII.- Premios por giros, además del 2% sobre el valor del giro expedido se cobrará un derecho de........... 35.00
-
-IX.- Tarjeta de identidad postal de la Unión Postal Universal.......... 65.00
-
-X.- Cupones respuesta.......... 90.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-XI.- Por las mercancías procedentes del extranjero que se reciban por la vía postal, se pagará el 3% sobre el valor base para el impuesto general de importación.
-
-> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-> <small>(DEROGADO ULTIMO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 145-A.
 
-Para los efectos de aplicación de los artículos de esta Sección, por servicios de correo se entenderán conjuntamente los servicios postales y de correspondencia que proporciona la dependencia prestadora del servicio.
-
-Para efectos de aplicación de las cuotas de los derechos señalados en esta Sección, las mismas se incrementarán trimestralmente, en la misma proporción en que se incrementen las tasas básicas que fija el Convenio Postal Universal conforme al valor del franco oro postal.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 146.
 
-Los derechos por servicios internacionales de correos correspondientes a encomiendas que presta la Secretaría de Comunicaciones y Transportes, se pagarán derechos de correo conforme a la (sic) cuotas que se señalen en los convenios internacionales que celebre México.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 147.
 
-No se pagará el derecho de correo por la correspondencia oficial del Poder Judicial de la Federación y del de las Entidades Federativas, así como la de los Tribunales Administrativos.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-Los partidos políticos constituidos en los términos de la legislación correspondiente, así como la Comisión Federal Electoral, no pagarán el derecho de correo, por el envío de su correspondencia ordinaria, su propaganda y sus publicaciones periódicas.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Lo dispuesto en este artículo, también se aplica al servicio de correo certificado con acuse de recibo.
-
-(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984) (F. DE E., D.O.F. 4 DE MARZO DE 1985)
-
-La correspondencia del servicio internacional estará exenta del pago del derecho de correo en los casos que así lo determinen expresamente los convenios y tratados postales internacionales.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-No se pagará el derecho de correo por la correspondencia de cecogramas para invidentes hasta por paquetes de 7 kilogramos, así como en los casos que señalan los párrafos segundo y tercero del artículo 23 de la Ley de Amparo.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-No pagarán el derecho de correo la correspondencia entre bibliotecas públicas que contenga libros, así como los envíos de libros que en forma gratuita a éstas, hagan las empresas editoriales residentes en México.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 147-A.
 
-Los Ingresos que se obtengan por el derecho de correo que se establece en esta Sección se destinará a la administración de los servicios de correo, para cubrir los gastos de operación, conservación, mantenimiento e inversión, hasta el monto que señale el presupuesto de egresos que hubiera sido autorizado para tal efecto.
-
-La parte de los ingresos que excedan el límite señalado en este artículo, no tendrán fin específico.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 #### SECCION SEGUNDA. Derechos de Autor
 
@@ -6583,7 +6155,7 @@ V.- Expedición, revalidación o reposición de la autorización de peso y dimen
 
 VI.- Verificación de las condiciones físicas del vehículo............. 600.00
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 #### SECCION TERCERA. Registro y Ejercicio Profesional
 
@@ -6747,6 +6319,10 @@ Esta cuota ampara los servicios de control de tránsito aéreo, radar, navegaci�
 
 C.- Servicios extraordinarios de control de tránsito aéreo, proporcionado a operadores regionales, alimentadoras, taxi aéreo nacional y regional, vuelos regulares y no regulares, nacionales e internacionales, escuelas de aviación, privados y oficiales, fuera del horario normal de operación, por cada media hora o fracción.......... $ 1,500.00
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+Por el servicio de extensión de horario de oficinas de despacho, por cada media hora o fracción $ 15,000.00.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 D.- Servicios diversos proporcionados a operadores regionales, alimentadores, taxi aéreo, vuelos comerciales regulares o no regulares, nacionales e internacionales, escuelas de aviación, aeronaves privadas y oficiales.
@@ -6784,6 +6360,12 @@ Las aeronaves pertenecientes a escuelas de aviación que realicen vuelos de ense
 Asimismo no pagarán el derecho establecido en la fracción I del apartado D del artículo 151 de esta Ley, las aeronaves que presten servicio de auxilio, búsqueda o salvamento, de combate de epidemias o plagas y de zonas de desastre.
 
 Para los efectos de este artículo, no se considerarán como de enseñanza los vuelos de entrenamiento de las líneas aéreas comerciales.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 152-A.
+
+Los ingresos que se obtengan por los derechos que se establecen en el artículo 151 de esta Ley, se destinarán al órgano encargado de proporcionar los servicios a la navegación en el espacio aéreo mexicano para cubrir sus gastos de operación, conservación, mantenimiento e inversión, hasta por el monto que señale el presupuesto de egresos que le hubiere sido autorizado. La parte de los ingresos que excedan el límite señalado en este artículo, no tendrá fin específico.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -6987,9 +6569,23 @@ No se pagará el derecho de aeronáutica civil a que se refiere este artículo, 
 
 Por concepto de inspección, se pagará el derecho de aeronáutica civil conforme a las siguientes cuotas:
 
-I.- Reparación mayor de hélice..... $ 1,200.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-II.- Cambio de motor de aeronave............. 2,500.00
+I.- Reparación mayor de hélice; efectuada por un mecánico independiente............... $ 21,000.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+II.- Cambio de motor de aeronaves:
+
+a).- De pistón menor de 340 H. P............. 43,500.00
+
+b).- De pistón mayor de 340 H. P............. 55,000.00
+
+c).- Turbo hélice............. 75,000.00
+
+d).- Turbo reactor hasta 1000 LBS EMP…....….. 100,000.00
+
+e).- Turbo reactor hasta 11,000 LBS EMP................ 135,000.00
 
 III.- Cambio de hélice de aeronave............. 2,000.000
 
@@ -6997,15 +6593,21 @@ IV.- Reparación mayor de motor............ 2,500.00
 
 V.- Servicio de 1,000 horas de planeador de aeronave hasta 3,000 kilogramos........... 2,000.00
 
-VI.- Reparación mayor de planeador de aeronave, hasta 3,000 kilogramos de peso máximo de despegue.......... 3,000.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-VII.- Reparación mayor de planeador de aeronave de 3,000 a 12,500 kilogramos de peso máximo de despegue………… 3,500.00
+IV.- Reparación mayor de motor; efectuada por un mecánico independiente........... 43,500.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+VII.- Reparación mayor de planeador de aeronaves, de 3,001 a 12,500 kilogramos de peso máximo de despegue........... 60,500.00
 
 VIII.- Reparación mayor del planeador de aeronave de más de 12,500 kilogramos de peso máximo de despegue………… 8,000.00
 
 IX.- Reparación después de accidente de aeronave, hasta 3,000 kilogramos de peso máximo de despegue……….. 3,000.00
 
-X.- Reparación después de accidente de aeronave, de 3,000 a 12,500 kilogramos de peso máximo de despegue………. 3,500.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+X.- Reparación después de accidente de aeronaves, de 3,001 a 12,500 kilogramos de peso máximo de despegue............. 60,500.00
 
 IX.- Reparación después de accidente de aeronave, de más de 12,500 kilogramos de peso máximo de despegue………. 8,500.00
 
@@ -7016,6 +6618,32 @@ XIII.- Cambio de núcleo de rotor principal.............. 1,000.00
 XIV.- Cambio de palas de rotor de cola............. 500.00
 
 XV.- Cambio de núcleo de rotor de cola............ 500.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+XVI.- Modificación estructural de planeador, aeronaves, hasta 3,000 kilogramos de peso máximo de despegue........... 52,000.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+XVII.- Modificación estructural de planeador; aeronaves de 3,001 a 12,500 kilogramos de peso máximo de despegue........... 60,500.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+XVIII.- Modificación estructural de planeador, aeronaves mayores de 12,500 kilogramos de despegue............ 147,000.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+XIX.- Armado de partes de aeronaves hasta 3,000 kilogramos de peso máximo
+
+de despegue............. 147,000.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+XX.- Vuelos de inspección de ayudas a la navegación, aérea con aeronaves verificadoras:
+
+a).- Para determinación de sitio, certificación, verificación periódica y especial, sin utilizar el sistema de inspección en vuelo en el traslado, costo por hora.......... 1'650,000.00
+
+b).- Para determinación de sitio, certificación, verificación periódica y especial, utilizando el sistema de inspección en vuelo, costo por hora de vuelo.......... 2'350,000.00
 
 ###### ARTICULO 156.
 
@@ -7051,13 +6679,9 @@ mecánico de abordo 4,000.00 4,000.00
 
 d) Meteorólogo auxiliar o previsor 4,000.00 4,000.00
 
-> <small>(F. DE E., D.O.F. 4 DE MARZO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-e) Observador del tiempo. Despachador de
-
-aeronaves; mecánico, sobrecargo: Instructor:
-
-simulador de vuelo, de tierra 2,900.00 2,900.00
+e) Observador del tiempo, despachador: de aeronaves, mecánico, sobrecargo; instructor: simulador de vuelo, instructor de tierra........... 22,500.00
 
 f) Estudiante para piloto 900.00
 
@@ -7103,15 +6727,9 @@ III.- Controlador; auxiliar, zona área
 
 navegante; mecánico de a bordo 2,700.00
 
-> <small>(F. DE E., D.O.F. 4 DE MARZO DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-IV.- Sobrecargo; meteorólogo auxiliar o previsor;
-
-observador del tiempo; despachador de
-
-aeronaves; Instructor: simulador de vuelo,
-
-de tierra; mecánico en general 2,700.00
+IV.- Sobrecargo: meteorólogo auxiliar o previsor; observador del tiempo; despachador de aeronaves; instructor simulador no de vuelo: instructor de tierra; mecánico en general................... $ 21,000.00
 
 V.- Estudiante para piloto 1,800.00
 
@@ -7139,13 +6757,9 @@ III.- Controlador: auxiliar, zona, área
 
 navegante; mecánico de abordo 4,000.00
 
-IV.- Sobrecargo; meteorólogo auxiliar o previsor;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-observador del tiempo; despachador de
-
-aeronaves; Instructor: de simulador de vuelo, de
-
-tierra; mecánico en general 2,700.00
+IV.- Sobrecargo: meteorólogo auxiliar o previsor; observador del tiempo; despachador de aeronaves; instructor simulador de vuelo, instructor de tierra; mecánico en general..... $ 21,000.00
 
 D. Reexpedición de licencias:
 
@@ -7191,7 +6805,19 @@ d).- Aeronaves de más de 12,501 kilogramos.............. 20,000.00
 
 II.- Certificado de matrícula................. $2,000.00
 
-III.- Reposición de certificado de matrícula............... 6,000.00
+III.- Reposición de certificado de matrícula............... $ 6,000.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+IV.- Reposición de certificado de aeronavegabilidad por período de vigencia:
+
+a).- Aeronaves monomotoras............ $ 59,500.00
+
+b).- Aeronaves hasta 6,000 kilogramos............. 130,000.00
+
+c).- Aeronaves de 6,001 hasta 12,500 kilogramos.............. 261,000.00
+
+d).- Aeronaves de más de 12,500 kilogramos............ 521,000.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -7207,9 +6833,9 @@ a).- De servicio privado.............. $ 7,000.00
 
 b).- De servicio público.............. 15,000.00
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-II.- Para funcionamiento de talleres aeronáuticos:
+II.- Para funcionamiento de talleres aeronáuticos se pagará anualmente y por cada año de vigencia del permiso:
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -7251,7 +6877,9 @@ p).- Reparación o mantenimiento de accesorios u otros........... 20,000.00
 
 q).- Fábricas de aeronaves hasta 3,000 kilogramos............ 50,000.00
 
-r).- Fábricas de aeronaves de 3,000 kilogramos a 6,000 kilogramos peso despegue.... 80,000.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+r).- Fábrica de aeronaves de 3,001 a 6,000 kilogramos de peso máximo de despegue.................... 1'388,000.00
 
 s).- Fábrica de componentes aeronáuticos y equipo auxiliar.......... 40,000.00
 
@@ -7271,7 +6899,9 @@ a).- Reparación o mantenimiento de helicópteros de peso máximo de despegue ha
 
 b).- Reparación o mantenimiento de helicópteros de peso máximo de despegue de más de 3,000 kilogramos……… 50,000.00
 
-III.- De operación para aeronaves de empresas privadas.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+III.- De operación para aeronaves de empresas privadas nacionales y extranjeras:
 
 a).- Para aeronaves monomotoras............ 5,000.00
 
@@ -7285,7 +6915,7 @@ e).- Por modificación de cualesquiera de los anteriores permisos............ 3,
 
 IV.- De operación para aeronaves que se dedican a propaganda o publicidad, tales como: arrojar volantes, con equipo de sonido, letreros en lastre, globos cuativos, entre otros.
 
-a) .- Con vigencia anual........... 12,000.00
+a).- Con vigencia anual........... 12,000.00
 
 b).- Por un solo vuelo........... 2,000.00
 
@@ -7299,7 +6929,9 @@ a).- Aeronaves monomotoras de pistón de servicio público de pasajeros.........
 
 b).- Aeronaves bimotoras de pistón de servicio público hasta 6,000 kilogramos de peso máximo de despegue............ 2,000.00
 
-c).- Aeronaves bimotoras de pistón de servicio público de 6,000 hasta 12,500 kilogramos de peso máximo de despegue............ 4,000.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+c).- Aeronaves bimotoras de pistón de servicio público de 6,001 hasta 12,500 kilogramos de peso máximo de despegue........... 69,500.00
 
 d).- Aeronaves de pistón de servicio público con peso máximo de despegue superior a 12,500 kilogramos............ 5,000.00
 
@@ -7329,7 +6961,7 @@ b).- Pasajeros, correo y express y carga por período de vigencia........... 16,
 
 Su modificación........... 8,000.00
 
-c) Pasajeros, correo, express y carga por período de vigencia........... 28,000.00
+c).- Pasajeros, correo, express y carga por período de vigencia........... 28,000.00
 
 Su modificación........... 14,000.00
 
@@ -7341,15 +6973,15 @@ a).- Pasajeros, correos, express y carga, por período de vigencia….... 9,000.
 
 Su modificación.......... 2,000.00
 
-b) Pasajeros, correo, express y carga, por período de vigencia........... 10,000.00
+b).- Pasajeros, correo, express y carga, por período de vigencia........... 10,000.00
 
 Su modificación........... 3,000.00
 
-c) Taxi aéreo regional, por período de vigencia............ 14,000.00
+c).- Taxi aéreo regional, por período de vigencia............ 14,000.00
 
 Su modificación.......... 7,000.00
 
-d) Taxi aéreo nacional, por período de vigencia............ 30,000.00
+d).- Taxi aéreo nacional, por período de vigencia............ 30,000.00
 
 Su modificación.......... 15,000.00
 
@@ -7358,6 +6990,12 @@ Su modificación.......... 15,000.00
 e).- Exclusivo de carga........... 15,000.00
 
 Su modificación............... 7,500.00
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+f).- Servicio especializado........... 360,000.00
+
+Su modificación....................... 180,000.00
 
 VIII.- Para venta y distribución de aviones, por período de vigencia.......... 30,000.00
 
@@ -7422,6 +7060,46 @@ a).- De comunicación.......... $ 10,000.00
 b).- De radionavegación.......... 15,000.00
 
 c).- De radar........... 25,000.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+XVI.- Para vuelos internacionales de fletamento de pasajeros o carga, o bien a demanda del usuario en taxi aéreo o ambulancia:
+
+a).- Aeronaves monomotoras de pistón de servicio público de pasajeros...... $ 15,500.00
+
+Su modificación....................... 7,750.00
+
+b).- Aeronaves bimotoras de pistón de servicio público hasta 6,000 kilogramos de peso máximo de despegue........... 34,500.00
+
+Su modificación....................... 17.250.00
+
+c).- Aeronaves bimotoras de pistón de servicio público de 6,001 hasta 12,500 kilogramos de peso máximo de despegue........... 69,500.00
+
+Su modificación....................... 34,700.00
+
+d).- Aeronaves de pistón de servicio público con peso máximo de despegue superior a 12,500 kilogramos.......... 87,000.00
+
+Su modificación....................... 43,500.00
+
+e).- Aeronaves de reacción o de turbo hélice de servicio público hasta de 20,000 kilogramos de peso máximo de despegue............ 104,000.00
+
+Su modificación....................... 52,000.00
+
+f).- Aeronaves de reacción de servicio público hasta 50,000 kilogramos de peso máximo de despegue............ 174,000 00
+
+Su modificación....................... 87,000.00
+
+g).- Aeronaves de reacción de servicio público hasta 80,000 kilogramos de peso máximo de despegue............... 258,000.00
+
+Su modificación....................... 129,000.00
+
+h).- Aeronaves de reacción de servicio público superior a 80,000 kilogramos de peso máximo de despegue............ 347,000.00
+
+Su modificación....................... 173,500.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+XVII.- Autorización de extensión de horario de servicio en los aeropuertos, por cada media hora o fracción............ 17,500.00.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -8973,9 +8651,7 @@ b).- En curso de regularización………. 400.00
 
 XXV.- Materias libres para alumnos inscritos........... $ 100.00
 
-> <small>(ADICIONADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
-
-XXVI.- Registro de actas constitutivas de las asociaciones de padres de familia............ $ 500.00
+XXVI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ### CAPITULO XI. De la Secretaría de la Reforma Agraria
 
@@ -9123,7 +8799,7 @@ Las oficinas pagadoras de las dependencias de la administración pública federa
 
 #### SECCION SEGUNDA. Aguas Distintas de las de Distritos de Riego
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 #### SECCION UNICA. Espectro Radioeléctrico
 
@@ -9131,9 +8807,7 @@ Las oficinas pagadoras de las dependencias de la administración pública federa
 
 ###### ARTICULO 192.
 
-Por los permisos de excepción para la pesca, por cada embarcación extranjera y por cada viaje hasta de 60 días, se pagará el derecho de pesca conforme a la cuota
-
-de $ 15,000.00.
+Por los permisos de excepción para la pesca, por cada embarcación extranjera y por cada viaje hasta de 60 días, se pagará el derecho de pesca conforme a la cuota de...................... $ 15,000.00.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -9483,7 +9157,7 @@ Por la expedición, renovación o modificación de las autorizaciones y dictáme
 
 I.- Dictamen de predios donde se pretenda construir, ampliar o reubicar plantas o bodegas conforme a su capacidad total:
 
-a).- Hasta 100,000 litros de agua o 10,000 metros cuadrados de área de almacenamiento….……. $ 250,000.00
+a).- Hasta 100,000 litros de agua o 10,000 metros cuadrados de área de almacenamiento.………. $ 250,000.00
 
 b).- De 100,000 y hasta un millón de litros de agua o mayores a 10,000 metros cuadrados de área de almacenamiento.............. $ 500,000.00
 
@@ -9491,7 +9165,7 @@ c).- De más de un millón de litros de agua………… $ 2'000,000.00
 
 II.- Dictamen de plantas y bodegas para evaluar su uso y funcionamiento:
 
-a).- Hasta 100,000 litros de agua o 10,000 metros cuadrados de área de almacenamiento.………. $ 250,000.00
+a).- Hasta 100,000 litros de agua o 10,000 metros cuadrados de área de almacenamiento….……. $ 250,000.00
 
 b).- De 100,000 y hasta un millón de litros de agua o superiores a 10,000 metros cuadrados de área de almacenamiento.............. $ 500,000.00
 
@@ -9525,6 +9199,34 @@ I.- Cuando se trate de establecimientos, locales, instalaciones o transportes de
 
 II.- Cuando se trate de establecimientos, locales, instalaciones, transportes, productos o bienes para el servicio de gobiernos extranjeros, en caso de reciprocidad.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+### CAPITULO XV. De los Derechos a cargo de Organismos Descentralizados por prestar servicios exclusivos del Estado
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 195-M.
+
+Telégrafos Nacionales, pagará por concepto de derechos por los servicios telegráficos y radiotelegráficos exclusivos del Estado el 0.5% de sus ingresos mensuales, dentro de los 15 días del mes calendario siguiente de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 195-N.
+
+La Comisión Federal de Electricidad pagará por concepto de derechos por el servicio de generación de energía eléctrica exclusivo del Estado el 0.5% de sus ingresos mensuales, dentro de los 15 días del mes calendario siguiente de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 195
+
+Ñ.- El Servicio Postal Mexicano pagará por concepto de derechos por los servicios de correos exclusivos del Estado el 0.5% de sus ingresos mensuales dentro de los 15 días del mes calendario siguiente de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 195-O.
+
+Ferrocarriles Nacionales de México pagará por concepto de derechos por la prestación del servicio de ferrocarriles, el 0.5% de sus ingresos mensuales, dentro de los 15 días del mes de (sic) calendario siguiente de que se trate.
+
 ### CAPITULO I. Bosques
 
 ### CAPITULO II. Pesca
@@ -9535,21 +9237,19 @@ II.- Cuando se trate de establecimientos, locales, instalaciones, transportes, p
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-### CAPITULO IV. Muelle y Desembarque
+### CAPITULO IV. Muelle, Embarque y Desembarque
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
 ### CAPITULO V. Sal
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO VI. Carreteras y Puentes
-
 ## TITULO II. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
 
-### CAPITULO VII. Aeropuertos
+### CAPITULO VI. Carreteras y Puentes
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 196.
 
@@ -9593,9 +9293,9 @@ El pago del derecho a que este artículo se refiere, se hará previamente al apr
 
 Los derechos a que se refiere este capítulo, quedan afectados en 50% a la Secretaría de Agricultura y Recursos Hidráulicos para fines de forestación y reforestación.
 
-### CAPITULO VIII. Agua
+### CAPITULO VII. Aeropuertos
 
-> <small>(DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 199.
 
@@ -9613,17 +9313,25 @@ Lo dispuesto en este artículo, no modificará los convenios o acuerdos celebrad
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO IX. Uso o goce de Inmuebles
+### CAPITULO VIII. Agua
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 200.
 
 Las personas físicas o morales que usen los puertos nacionales, pagarán por cada embarcación en tráfico de altura que entre a los mismos, por tonelada de registro bruto o fracción el derecho de puerto de altura conforme a la cuota de $16.10.
 
-(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984) (F. DE ., D.O.F. 4 DE MARZO DE 1985)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-Tratándose de embarcaciones que realicen tráfico mixto, se pagará el 90% de la cuota correspondiente al derecho de puerto de altura, por cada puerto en que entren. En el caso de las embarcaciones dedicadas exclusivamente a actividades turísticas se pagará el 75% de dicha cuota.
+Tratándose de embarcaciones que realicen tráfico mixto se pagará el 90% de la cuota correspondiente al derecho de puerto de altura, por cada puerto en que entren.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 200-A.
+
+Las personas físicas o morales que usen los puertos nacionales pagarán, por cada embarcación de altura que entre a los mismos, dedicada exclusivamente a actividades turísticas, por cada tonelada de registro bruto, conforme a la cuota de $ 570.00.
+
+Tratándose de embarcaciones que realicen exclusivamente actividades turísticas y que toquen, en un viaje, diversos puertos nacionales, pagarán el 90% de la cuota a que se refiere el párrafo anterior, por cada uno de los puertos a que entren, después del primero.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -9634,6 +9342,14 @@ Las personas físicas y las morales que usen los puertos nacionales, pagarán po
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
 Los derechos a que se refieren los artículos 200 y 201 de esta Ley se pagarán al día siguiente a aquél en que entre a puerto la embarcación.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+En el caso de las embarcaciones dedicadas exclusivamente a actividades turísticas, se pagará el 75% de la cuota de cabotaje, por cada puerto en que entren.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+Los derechos a que se refieren los artículos 200 y 201 de esta Ley, se pagarán dentro de los 5 días siguientes a aquél en que entre a puerto la embarcación.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -9655,9 +9371,9 @@ IV.- Por embarcación local comercial............. 27.00
 
 Para los efectos de este artículo, se entiende por yate toda embarcación que exclusivamente está destinada al placer personal de sus propietarios o poseedores, sin perseguir fines de lucro.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-El derecho a que se refiere este artículo, se pagará dentro de los 5 días siguientes, contados a partir del momento en que atraquen las embarcaciones.
+El derecho a que se refiere este artículo se pagará dentro de un plazo de 5 días, contados a partir del momento en que desatraquen las embarcaciones.
 
 > <small>(REFORMADO PARRAFO PRIMERO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -9677,7 +9393,7 @@ Las embarcaciones extranjeras que estén autorizadas para realizar tráfico de c
 
 Las autoridades portuarias, antes de expedir el despacho de salida de una embarcación, verificarán el correcto pago de los derechos a que se refiere este capítulo.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+(REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 204.
 
@@ -9697,17 +9413,13 @@ VI.- Las que lleguen para limpiar sus fondos, para ser reparadas o para matricul
 
 VII.- Las embarcaciones nacionales dedicadas exclusivamente a la pesca comercial.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 204-A.
 
-Los ingresos que se obtengan por los derechos que se establecen en este Capítulo, se destinarán a la Comisión Nacional Coordinadora de Puertos en aquellos casos en que la conservación y el mantenimiento de las instalaciones portuarios y de atraque se realicen por entidades públicas coordinadas por ésta para cubrir los gastos de operación, conservación, mantenimiento e inversión de los puertos que administra, hasta el monto que señale el presupuesto de egresos que hubiera sido autorizado para tal efecto.
+Los ingresos que se obtengan por los derechos que se establecen en este Capítulo, se destinarán al órgano encargado de la conservación, mantenimiento y dragado de las instalaciones portuarias, para cubrir los gastos de operación, conservación, mantenimiento e inversión de los puertos nacionales, hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado. La parte de los ingresos que excedan el límite señalado en este artículo, no tendrán fin específico.
 
-Los ingresos que se recauden por concepto de derechos de atraque en los puertos que administra el Sistema Portuario Tampico-Altamira, se destinarán a éste para los fines a que se hace referencia en el párrafo anterior.
-
-La parte de los ingresos que excedan el límite señalado en este artículo, no tendrán un fin específico.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 205.
 
@@ -9721,31 +9433,29 @@ II.- Mercancías de importación......... 30.00
 
 III.- Mercancías en tráfico de cabotaje.......... 45.00
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-El derecho a que se refiere este artículo, se pagará a partir del día siguientes a aquél en que se haya realizado la carga y descarga de las mercancías.
+El derecho a que se refiere la fracción I de este artículo, se pagará dentro de los 5 días siguientes a aquel en que se presente a las autoridades aduaneras el pedimento de exportación; el derecho a que se refiere la fracción II del mismo artículo, se pagará dentro de los 5 días siguientes a aquél en que se realice la descarga de las mercancías; y el derecho a que se refiere la fracción III del propio numeral se pagará dentro de los 5 días siguientes a aquél en que se realice la carga o la descarga de las mercancías.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-### CAPITULO X. Fauna Silvestre
+### CAPITULO IX. Uso o goce de Inmuebles
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 206.
 
-El pasajero, que desembarque en muelles propiedad de la Federación, pagará el derecho de desembarque conforme a las siguientes cuotas:
+El pasajero que embarque o desembarque en muelles propiedad de la Federación, pagará el derecho de embarque o desembarque, conforme a las siguientes cuotas:
 
 I.- En instalaciones no exclusivas al servicio de los mismos........... $70.00
 
 II.- En instalaciones exclusivas para los mismos............. 140.00
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-No se cobrará el derecho de desembarque por las embarcaciones que salen del puerto y regresan al mismo sin tocar otro puerto.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-El derecho a que se refiere este artículo, se pagará por una sola vez al desembarco de los pasajeros.
+Los derechos a que se refiere este artículo, se pagarán por una sola vez al momento en que se realice el embarque o desembarque de pasajeros.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -9765,11 +9475,11 @@ V.- La correspondencia en general.
 
 VI.- Los restos de naufragio o accidente de mar.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 208.
 
-No se pagará el derecho de desembarque a que se refiere este Capítulo, por las embarcaciones siguientes:
+No se pagará el derecho do embarque o desembarque a que se refiere este Capítulo, por las embarcaciones siguientes:
 
 I.- Las de guerra extranjeras y las nacionales.
 
@@ -9785,7 +9495,9 @@ VI.- Las que lleguen para limpiar sus fondos, para ser reparadas o para matricul
 
 VII.- Las embarcaciones nacionales dedicadas exclusivamente a la pesca comercial.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+No se cobrará el derecho de embarque o desembarque a los pasajeros de embarcaciones que salen del puerto y regresan al mismo sin tocar otro puerto.
 
 > <small>(REFORMADO PARRAFO PRIMERO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -9795,15 +9507,17 @@ Los derechos de muelle y de desembarque, se pagarán en las oficinas que al efec
 
 Las autoridades portuarias, antes de expedir el despacho de salida de una embarcación, verificarán el correcto pago de los derechos.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 209-A.
 
-Los ingresos que se obtengan por los derechos de muelle y desembarque que se establecen en este Capítulo, se destinarán a la Comisión Nacional Coordinadora de Puertos en aquellos casos en que la conservación y el mantenimiento de las instalaciones portuarias se realicen por entidades públicas coordinadas por ésta para cubrir los gastos de operación, conservación, mantenimiento e inversión de las instalaciones portuarias que administra, hasta el monto que señale el presupuesto de egresos que hubiera sido autorizado para tal efecto.
+Los ingresos que se obtengan por los derechos que se establecen en este Capítulo, se destinarán al órgano encargado de la conservación, mantenimiento y dragado de las instalaciones portuarias, para cubrir los gastos de operación, conservación, mantenimiento e inversión de los puertos nacionales, hasta el monto que se señala el presupuesto de egresos que le hubiere sido autorizado. La parte de los ingresos que excedan el límite señalado en este artículo, no tendrán fin específico.
 
-Los ingresos que se recauden por concepto de derechos de muelle y desembarque en los puertos que administra el Sistema Portuario Tampico-Altamira, que destinarán a éste para los fines a que se hace referencia en el párrafo anterior.
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-La parte de los ingresos que excedan el límite señalado en este artículo, no tendrán fin específico.
+###### ARTICULO 209-B.
+
+El sistema Portuario Tampico-Altamira pagará por concepto de derechos por el uso o aprovechamiento de los puertos nacionales, el 10% de sus ingresos mensuales, dentro de los 15 días del mes calendario siguiente de que se trate.
 
 ###### ARTICULO 210.
 
@@ -9821,249 +9535,65 @@ El pago del derecho sobre sal, deberá realizarse en las oficinas que al efecto 
 
 A la declaración se deberá acompañar las facturas de venta de primera mano de sal o especificar los volúmenes de sal utilizados por el productor por otros procesos industriales, tratándose de autoconsumo.
 
+### CAPITULO X. Fauna Silvestre
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
 ### CAPITULO XI. Espacio Aéreo
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-### CAPITULO XII. Hidrocarburos
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 212.
 
-Las personas físicas o las morales que usen las carreteras y puentes federales que se mencionan en esta sección, pagarán derechos conforme a las cuotas que para cada caso se establecen.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-Cuando el organismo que tenga a su cargo la administración de las carreteras y de los puentes federales ponga en operación carreteras o puentes distintos de los que prevé esta Ley, las cuotas que deberán aplicarse para el pago del derecho a que se refiere este Capítulo serán las que estén cobrando a los usuarios de los mismos, señaladas en los artículo 213 fracción V y 214 fracción II de esta Ley. Tratándose de las clases 3 y 4, se aplicarán las cuotas a que se refieren las fracciones III y IV del artículo 214 de la misma Ley, respectivamente.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-Cuando se aumente el número de vías en una carretera, el derecho que se pagará será conforme a las cuotas establecidas en la fracción V del artículo 213 de esta Ley, de acuerdo al número de kilómetros.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+Caminos y Puentes Federales de Ingresos y Servicios Conexos pagará por concepto de derechos por el uso de las carreteras y puentes federales el 20% de sus ingresos mensuales dentro de los 15 días del mes de (sic) calendario siguiente de que se trate.
 
 ###### ARTICULO 213.
 
-Por el uso de las carreteras, según la clase, de vehículo, se pagará el derecho carretera conforme a las cuotas que a continuación se señalan:
-
-I.- Autopistas: Indios Verdes-San Cristóbal, Tepexpan-Teotihuacán, Oacalco-Cuautla, Tepoztlán-Oacalco, La Pera-Tepoztlán y Orizaba-Fortín de las Flores.
-
-Clase
-
-1 $ 300.00
-
-2 $ 600.00
-
-II.- Autopistas: México-Chalco, Río Frío-San Martín, San Martín-Puebla, Puebla-Amozoc, Los Médanos-La Misión, Orizaba-Córdoba y Chapalilla-Compostela (residente).
-
-Clase
-
-1 $ 450,00
-
-2 $ 900,00
-
-III.- Autopistas: Cuernavaca-Amacuzac (Intermedia), México-Teotihuacan-Tizayuca, Tepoztlán-Cuautla, Tijuana-Rosarito, Salamanca-Irapuato y Cosoleacaque-Nuevo Teapa.
-
-Clase
-
-1 $ 600,00
-
-2 $ 1,200.00
-
-IV.- Autopistas: Cuernavaca-Amacuzac (Completa), Querétaro-Celaya, México-Río Frío, Río Frío-Puebla, Rosarito-La Misión, La Misión-Ensenada y Guadalajara-Zapotlanejo.
-
-Clase
-
-1 $ 900.00
-
-2 $ 1,800.00
-
-V.- Autopistas: México, Cuernavaca, Amacuzac-Iguala y Chapalilla-Compostela (normal).
-
-Clase
-
-1 $ 1,000.00
-
-2 $ 2,000.00
-
-VI.- Autopistas: Puebla-Acatzingo, Acatzingo-Esperanza, Esperanza-Orizaba y Apaseo-Salamanca.
-
-Clase
-
-1 $ 1,200.00
-
-2 $ 2,400.00
-
-VII.- Autopistas: México-Querétaro (Casetas Tepotzotlán; Palmillas; Jorobas-Huehuetoca y Polotitlán) y Apaseo-Irapuato.
-
-Clase
-
-1 $ 1,500.00
-
-2 $ 3,000.00
-
-VIII.- Autopistas: Acatzingo-Orizaba.
-
-Clase
-
-1 $ 2,500.00
-
-2 $ 5,000.00
-
-Para los efectos de este artículo, en los tramos carreteros Indios Verdes-San Cristóbal, Méxio-Teotihuacán-Tizayuca, y México-Chalco, así como en la caseta Jorobas-Huehuetoca, los contribuyentes de la clase 1, pagarán el 70% de las cuotas correspondientes.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 214.
 
-Por el uso de los puentes, según la clase de vehículo o si el uso se efectúa por peatones, se pagará el derecho de puentes, conforme a las cuotas que a continuación se señalan:
-
-I.- Puentes: Cadereyta, San Juan Valentín Gómez Farías, Culiacán, La Piedad, Tuxpan, Pánuco y Chairel.
-
-Clase
-
-1 $ 300.00
-
-2 $ 600.00
-
-II.- Puentes: Colorado, Miguel Alemán, Sinaloa, La Antigua, Ameca, Nautla, Tecolutla, Papaloapan, Caracol, Grijalba y Usumacinta.
-
-Clase
-
-1 $ 450.00
-
-2 $ 900.00
-
-3 $ 150.0
-
-III.- Puentes: Paso del Norte, Matamoros, Camargo, Piedras Negras, Acuña, Reynosa, Laredo I y II, Antonio Dovali Jaime y Alvarado.
-
-Clase
-
-1 $ 600.00
-
-2 $ 1,200.00
-
-3 $ 150.00
-
-IV.- Puentes: Las Flores, Ojinaga, Coatzacoalcos y Tlacotalpan.
-
-Clase
-
-1 $ 750.00
-
-2 $ 1,500.00
-
-3 $ 150.00
-
-4 $ 750.00
-
-V.- Puentes: Rodolfo Robles.
-
-Clase
-
-1 $ 1,050.00
-
-2 $ 2,100.00
-
-3 $ 150.00
-
-4 $ 1,050.00
-
-Unicamente se pagará el derecho que establece este artículo, por la clase 3 en los puentes Miguel Alemán; Paso del Norte; Matamoros; Camargo; Piedras Negros; Acuña; Reynosa; Laredo I y II; Las Flores, Rodolfo Robles y Ojinaga.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 215.
 
-Para los efectos del pago de los derechos a que se refieren los artículos 213 y 214 de esta Ley, los vehículos y peatones tendrán la siguiente clasificación:
-
-1.- Automóviles, turismos, pick-ups con o sin remolque y motocicletas, por cada vehículo.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-2.- Autobuses de pasajeros, camiones de carga o tractores con semirremolque o remolque, se aplicará el 50% de la cuota por cada eje excedente a partir del quinto eje.
-
-3.- Peatones, por cada uno.
-
-4.- Ferrocarril, por cada máquina y vagón que lo componga.
-
-Los contribuyentes pagarán los derechos de carreteras y de puentes en las oficinas que al efecto autorice la Secretaría de Hacienda y Crédito Público.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 216.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1984)
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 217.
 
-No se pagarán los derechos de carretera y de puente, por los vehículos militares. policiales, ambulancias y las de auxilio turístico, siempre que por sus características y emblemas se identifiquen como vehículos para esos efectos.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-Asimismo no pagarán los derechos a que este artículo se refiere los diputados y senadores del Congreso de la Unión.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 218.
 
-El organismo que tenga a su cargo la administración de las carreteras y de los puentes a que se refiere este Capítulo, deberá fijar en lugar visible para los usuarios de los mismos, por lo menos las cuotas vigentes de los derechos de carreteras y de puentes para las clases 1 y 3 a que se refiere el artículo 215 de esta Ley.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
-Los ingresos que se obtengan por los derechos a que se refiere esta sección se destinarán al organismo que tenga a su cargo la administración de las carreteras y los puentes, hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado, para cubrir sus gastos de operación, conservación, mantenimiento e inversión. Los ingresos que excedan el límite señalado, no tendrán fin específico.
+### CAPITULO XII. Hidrocarburos
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+###### ARTICULO 219.
+
+Aeropuertos y Servicios Auxiliares pagará por concepto de derechos por el uso de los aeropuertos federales el 50% de sus ingresos mensuales dentro de los 15 días del mes de calendario siguiente de que se trate.
+
+###### ARTICULO 220.
+
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
+
+###### ARTICULO 221.
+
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
+
+###### ARTICULO 221-A.
+
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ### CAPITULO XIII. Minería
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-###### ARTICULO 219.
-
-Los pasajeros que en vuelos de salida, usen los aeropuertos federales, deberán pagar el derecho de aeropuerto conforme a las siguientes cuotas:
-
-I.- En vuelos nacionales, la que resulte de aplicar el 6.5% al precio promedio de los boletos de viaje sencillo en el servicio normal de la Ciudad de México a Guadalajara, a Monterrey y a Acapulco.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-II.- En vuelos internacionales, la equivalente a tres veces la última cuota que se haya aplicado en el mismo período del año de calendario inmediato anterior en vuelos nacionales. Para los efectos de esta fracción, se considera como período de primavera-verano el comprendido entre el 1o. de abril y el 30 de septiembre y el período otoño-invierno el comprendido entre el 1o. de octubre y el 31 de marzo.
-
-Tratándose de vuelos de salida nacional e internacional, en los que los pasajeros aborden el avión normalmente en la plataforma de aviación general de los aeropuertos a que se refiere este artículo y el costo del boleto de viaje sencillo sea inferior al precio del boleto de viaje sencillo en servicio normal de cualquiera que salga de la Ciudad de México, se pagará el derecho de aeropuerto conforme a la cuota que resulte de aplicar el 5% al valor del boleto del pasajero por viaje sencillo.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-###### ARTICULO 220.
-
-No pagarán los derechos a que se refiere este Capítulo, las personas siguientes:
-
-I.- Los menores de dos años.
-
-II.- La tripulación de las aeronaves.
-
-III.- Los comandantes de aeropuertos e inspectores de aeronáutica.
-
-IV.- Los representantes y agentes diplomáticos de países extranjeros, en caso de reciprocidad.
-
-V.- Los Diputados y Senadores del Congreso de la Unión.
-
-VI.- Los pasajeros deportados.
-
-No se pagará el derecho de aeropuerto por el uso de los del Ejército y de la Armada.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-###### ARTICULO 221.
-
-El derecho de aeropuerto en vuelos nacionales se recaudará por las compañías nacionales de aviación y se enterará en las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público, a más tardar el día 15 del mes de calendario siguiente a aquél en que hubiera sido recaudado. El derecho a que se refiere este párrafo, deberá incluirse en el precio del boleto y en ningún caso se cobrará a los contribuyentes expresamente y por separado de dicho precio.
-
-El derecho de aeropuerto en vuelos internacionales, se pagará previamente a la salida de los vuelos en los lugares que al efecto autorice la Secretaría de Hacienda y Crédito Público.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-###### ARTICULO 221-A.
-
-Los ingresos que se obtengan por el derecho de uso de aeropuertos en vuelos internacionales que se establecen en este Capítulo, se destinarán al organismo encargado de la administración de los aeropuertos federales para cubrir los gastos de inversión, conservación y mantenimiento de los mismos, hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado para tal efecto.
-
-La parte de los ingresos que excedan el límite señalado en el párrafo anterior, no tendrán fin específico.
 
 ###### ARTICULO 222.
 
@@ -10079,21 +9609,31 @@ Zonas de Disponibilidad
 
 1 2 3 4
 
-A.- Por las aguas provenientes de fuentes
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-superficiales o extraídas del subsuelo a
+A.- Por las aguas provenientes de
 
-excepción de las del mar 4.50 2.30 1.20 0.60
+fuentes superficiales o extraídas
 
-> <small>(REFORMADO SEGUNDO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+del subsuelo, a excepción de las
 
-Cuando el aprovechamiento de aguas se realice en zonas de acuíferos sobreexplotados o de disponibilidad I, se pagará el 75% de la cuota que se aplique en el sistema de agua potable del municipio dónde se realice el aprovechamiento o del más cercano a éste, a excepción de las que se extraigan dentro del Distrito Federal y de los Estados de Guanajuato, Hidalgo, México, Morelos, Puebla y Querétaro, en cuyo caso la cuota se determinará conforme a lo siguiente:
+del mar 8.00 4.20 2.20
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-I.- Por las aguas superficiales, cualquiera que sea su fuente, independientemente del destino que se les dé, por metro cúbico.... $ 150.00
+Cuando el uso de las aguas de fuentes superficiales o extraídas del subsuelo se realice en zonas de acuíferos sobreexplotados o de disponibilidad 1, se pagará el 75% de la cuota que se aplique en el sistema de agua potable del municipio donde se realice dicho uso o del más cercano a éste, pero en ningún caso deberá ser inferior a $ 200.00 por metro cúbico ni superior a la que se pague en el Distrito Federal y su zona metropolitana.
 
-II.- Por las aguas extraídas de pozos, independientemente del destino que se les dé, $105.00 por metro cúbico de agua.
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+Cuando el uso se efectúe para fines industriales en el Distrito Federal y en su zona metropolitana, la cuota se determinará conforme a lo siguiente:
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+I.- Por las aguas superficiales, cualquiera que sea su fuente, independientemente del destino que se les dé, por metro cúbico de agua............ $ 300 00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+II.- Por las aguas extraídas de pozos, independientemente del destino que se les dé, por metro cúbico de agua............... 600.00
 
 III.- En el caso de que en el Departamento del Distrito Federal o los municipios del Valle de México, requieran del uso o aprovechamiento de agua de pozos que no sean de su propiedad, para su conexión transitoria a la red de agua potable, de la cuota señalada en el inciso anterior, el contribuyente propietario del pozo, podrá acreditar contra el derecho que le corresponda pagar, $130.00 por cada metro cúbico de agua que le proporcione a dichas entidades mientras dure la conexión.
 
@@ -10111,31 +9651,33 @@ I.- Uso de agua potable asignada a entidades
 
 federativas y municipios 0.32 0.16 0.08 0.04
 
-II.- Fuerza motriz usada directamente o
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-transformada en energía eléctrica, conforme
+II.- Generación hidroeléctrica y fuerza motriz, utilizada directamente o transformada en energía eléctrica para servicios propios:
 
-a lo siguiente:
+Zona de disponibilidad 1.............. $ 0.80
 
-a).- Generación hidroeléctrica por cada
+Zona de disponibilidad 2.............. $ 0.55
 
-kilowatt-hora, según la zona donde
+Zona de disponibilidad 3.............. $ 0.40
 
-se localice 0.12 0.06 0.03 0.02
+Zona de disponibilidad 4............. $ 0.30
 
-b).- Fuerza motriz para servicios propios,
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-por caballo métrico/hora producido 0.08 0.04 0.02 0.01
+III.- Acuacultura, centros recreativos y balnearios:
 
-III.- Acuacultura, en los casos en que se practique la actividad mediante obras artificiales que permitan aprovechar agua corriente o almacenada:
+Zona de disponibilidad 1.............. $ 0.16
 
-a).- Si solamente atraviesa los estanques de acuacultura y descarga en su fuente original, $0.005.
+Zona de disponibilidad 2.............. $ 0.08
 
-b).- Cuando se aprovecha para crear condiciones propicias y no descarga en su fuente original, $0.038.
+Zona de disponibilidad 3.............. $ 0.04
 
-c).- Por el uso o aprovechamiento de aguas residuales provenientes de descargas directas, se pagará un derecho equivalente al 25% de las cuotas señaladas en el apartado A de este artículo.
+Zona de disponibilidad 4.............. $ 0.02
 
-d).- Por el uso o aprovechamiento de aguas que se extraigan de lagos y lagunas en zonas turísticas para satisfacer necesidades domésticas el derecho sobre agua se pagará conforme a la cuota de $12.00 por cada m³ que tenga el bien inmueble que se beneficia con la extracción anualmente, el cual se considerará como pago definitivo.
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+C.- Por el uso o aprovechamiento de aguas residuales provenientes de descargas directas, se pagará un derecho equivalente al 25% de las cuotas señaladas en el Apartado A de este artículo.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -10149,13 +9691,11 @@ I.- Por la extracción o derivación de aguas nacionales que realicen personas f
 
 II.- Por el uso o aprovechamiento de aguas residuales en zonas de acuíferos sobreexplotados, cuando se deje de usar o aprovechar agua distinta de ésta en la misma proporción.
 
-III.- Por las aguas que regresen a su fuente original, siempre que tengan el certificado de las autoridades correspondientes de que no están contaminadas y no está alterada su temperatura; una copia de dicho certificado se deberá acompañar a la declaración del ejercicio. En estos casos, los contribuyentes deben tener instalado medidor, tanto a la entrada como a la salida de las aguas. Lo dispuesto en esta fracción no es aplicable al supuesto señalado en el apartado B fracciones II y III del artículo 223 de esta Ley.
-
-Esta disposición también será aplicable a las aguas extraídas del subsuelo que sean vertidas a fuentes superficiales."
+III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 IV.- Por usos agropecuarios, incluyendo a los distritos y unidades de riego, así como a las juntas de agua.
 
-V.- Por el agua destinada a acuacultura, tratándose de ejidatarios, comuneros o pequeños propietarios.
+V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -10165,15 +9705,15 @@ Los contribuyentes del derecho a que se refiere este Capítulo, deberán contar 
 
 Asimismo, los contribuyentes estarán obligados a informar a las autoridades fiscales de las descomposturas de su medidor dentro del trimestre en que tuvieron conocimiento de la misma.
 
-Lo dispuesto en este artículo no será aplicable al uso o aprovechamiento de aguas nacionales a que se refiere el apartado D del artículo 223 de esta Ley.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 > <small>(DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 226.
 
-El usuario calculará el derecho sobre agua por ejercicios fiscales y efectuará pagos provisionales trimestrales a más tardar el día 15 de los meses de enero, abril, julio y octubre, mediante declaración que presentarán en las oficinas que al efecto autorice la Secretaría de Hacienda y Crédito Público. El pago provisional se hará por el derecho que corresponda al agua que se haya usado o aprovechado durante los 3 meses inmediatos anteriores para lo cual efectuarán la lectura del medidor durante el último día hábil del trimestre de que se trate y lo compararán con la lectura que efectuaron el último día del trimestre anterior.
+El usuario calculará el derecho sobre agua por ejercicios fiscales y efectuará pagos provisionales trimestrales a más tardar el día 15 de los meses de enero, abril, julio y octubre, mediante declaración que presentará en las oficinas de la Comisión Nacional del Agua o en aquellas oficinas que autorice la Secretaría de Hacienda y Crédito Público. El pago provisional se hará por el derecho que corresponda al agua que se haya usado o aprovechado durante los 3 meses inmediatos anteriores, para lo cual efectuarán la lectura del medidor durante el último día hábil del trimestre de que se trate y lo compararán con la lectura que efectuaron el último día del trimestre anterior.
 
-El derecho del ejercicio, deducidos los pagos provisionales trimestrales, se pagará mediante declaración que se presentará ante las oficinas autorizadas, dentro de los tres meses siguientes al cierre del mismo ejercicio.
+El derecho del ejercicio, deducidos los pagos provisionales trimestrales, se pagará mediante declaración que se presentará en las oficinas antes citadas, dentro de los tres meses siguientes al cierre del mismo ejercicio.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -10181,47 +9721,67 @@ El derecho del ejercicio, deducidos los pagos provisionales trimestrales, se pag
 
 Cuando no se pueda Determinar el volumen de agua, como consecuencia de la descompostura del medidor por causas no imputables al contribuyente, el derecho de agua se pagará conforme a la cantidad de metros cúbicos usados en promedio los cuatro últimos trimestres.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 228.
 
-Las autoridades fiscales podrán determinar presuntivamente el derecho de agua, cuando:
+Procederá la determinación presuntiva del volumen del agua, en los siguientes casos:
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 I.- No se tenga instalado aparato de medición.
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
 II.- No funcione el medidor y no se haya informado dentro del plazo que se establece en el artículo 225 de esta Ley.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 III.- Estén rotos los sellos del medidor o se haya alterado su funcionamiento.
 
-IV.- El contribuyente no efectúe el pago del derecho en los términos del artículo 226 de esta Ley.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-La determinación presuntiva a que se refiere este artículo procederá independientemente de las sanciones a que haya lugar.
+IV.- El contribuyente no efectúe el pago del derecho en los términos del artículo 226 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
+La determinación presuntiva a que se refiere este artículo procederá independientemente de las sanciones a que haya lugar.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 229.
 
-Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales calcularán el derecho de agua, considerando indistintamente:
+Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, se calculará el derecho de agua, considerando indistintamente
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 I.- El volumen que señale el título de asignación, concesión, autorización o permiso.
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
 II.- Los volúmenes que señale su aparato de medición.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 III.- Calculando la cantidad de agua que al contribuyente pudo obtener durante el período para el cual se efectúe la determinación, de acuerdo a las características de sus instalaciones.
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
 IV.- Otra información obtenida por las autoridades fiscales en el ejercicio de sus facultades de comprobación.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 V.- Los medios indirectos de la investigación económica o de cualquier otra clase.
 
-La Secretaría de Hacienda y Crédito Público podrá exigir el pago del derecho con base en la determinación del volumen que efectúe la Secretaría de Agricultura y Recursos Hidráulicos.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+La Secretaría de Hacienda y Crédito Público determinará el derecho y exigirá su pago con base en la determinación del volumen que efectúe la Comisión Nacional del Agua.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 230.
 
-Los ingresos que se obtengan por los derechos a que se refiere este Capítulo, se destinarán a la dependencia administradora del agua para cubrir los gastos de operación, conservación, mantenimiento e inversión, de las obras de infraestructura hidráulica de las entidades federativas en que se recauden, hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado para tal efecto.
-
-La parte de los ingresos que excedan al límite señalado en el párrafo anterior, no tendrá fin específico.
+Los ingresos que se obtengan por los derechos a que se refiere este Capítulo, se destinarán a la Comisión Nacional del Agua que administra el uso o aprovechamiento del agua, para cubrir los gastos de operación, conservación, mantenimiento e inversión de obras de infraestructura hidráulica, hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado. La parte de los ingresos que excedan el límite señalado en este artículo, no tendrá fin específico.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -10251,33 +9811,59 @@ I.- El 10% anual del valor del inmueble colindante.
 
 II.- El 5% anual del valor del inmueble colindante, cuando se destine para protección y ornato, no se realicen construcciones y el concesionario o permisionario sea propietario, poseedor o arrendatario del predio colindante a éste.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-III.- De $ 250.00 mensuales por hectárea, cuando en el mismo se realicen actividades agropecuarias.
+III.- Cuando en el inmueble se realicen actividades agropecuarias:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+a).- $ 500.00 mensuales por hectárea tratándose de zonas federales de cauces de corriente.
 
-IV.- De $ 10.00 mensuales por metro cuadrado cuando el uso o goce consista en la realización de labores de investigación científica o de actividades pesqueras.
+b).- El 2% anual del valor del terreno colindante por hectárea, tratándose de zonas federales de vasos, lagos y lagunas.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-V.- Por instalaciones de telecomunicación:
+IV.- De $ 10.00 mensuales por metro cuadrado cuando el uso o goce consista en la realización de actividades pesqueras.
 
-a).- En espacios cerrados, por cada metro cuadrado o fracción, mensualmente........ $ 20,000.00
+No se pagará el derecho a que se refiere este artículo cuando el inmueble sea destinado para labores de investigación científica.
 
-b).- En espacios abiertos, mensualmente:
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-1.- Por cada antena instalada............ $ 10,000.00
+V.- De $ 0.50 mensuales por metro cuadrado, cuando el uso o goce consista en la realización de actividades de acuacultura.
 
-2.- Por cada torre instalada............. $ 20,000.00
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-> <small>(DEROGADO PENULTIMO PARRAFO [N. DE E. ULTIMO PARRAFO], D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+VI.- Por obras e instalaciones que se encuentren en la zona federal marítimo terrestre, que se definen a usos particulares o comerciales, se pagará anualmente el 1% del valor del avalúo que presente el particular. En los casos en que la autoridad considere que dicho avalúo es de un valor inferior en más de un 10% de su valor comercial, se deberá ajustar el avalúo que al efecto determina la Comisión de Avalúos de Bienes Nacionales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+VII.- Por instalaciones de telecomunicación:
+
+a).- En espacios cerrados, por cada metro cuadrado o fracción, mensualmente......... $ 27,000.00
+
+b).- En espacios abiertos mensualmente:
+
+1.- Por cada antena instalada......... $ 13,000.00
+
+2.- Por cada torre instalada.......... $ 27,000.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+Las cuotas señaladas en las fracciones III, IV y V que anteceden, sólo se aplicarán cuando la actividad señalada en cada caso constituya la principal del concesionario o permisionario. En todo caso los contribuyentes podrán optar por pagar conforme a lo establecido en la fracción I de este artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+Tratándose del uso o goce de bienes de uso común, se estará obligado al pago del derecho, se tenga o no concesión, cuando se obtenga un aprovechamiento especial, debiéndose revisar y ajustar el pago anualmente de conformidad a lo establecido por la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 232-A.
+
+Las personas físicas y las morales, titulares de concesiones para la explotación de bienes del dominio público que queden afectos a servicios públicos, distintos de los señalados en el artículo anterior, pagarán el derecho de explotación que ascenderá al 5% de los ingresos que por este concepto obtengan.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 233.
 
-Para los efectos del artículo anterior, el valor del inmueble federal será el que resulte mayor entre el valor catastral o el de adquisición del terreno colindante con aquél, este último valor se ajustará aplicando el factor correspondiente, conforme al número de años transcurridos entre su adquisición y la fecha en que se debe pagar el derecho de acuerdo con la tabla de ajuste que al efecto establezca la Ley del Impuesto sobre la Renta.
+Para los efectos del artículo 232, con excepción de la fracción VI, el valor del inmueble federal será el que resulte mayor entre el valor catastral o el de adquisición del terreno colindante con aquél, este último valor se ajustará aplicando el factor correspondiente, conforme al número de años transcurridos entre su adquisición y la fecha en que se debe pagar el derecho de acuerdo con la tabla de ajuste que al efecto establezca la Ley del Impuesto Sobre la Renta.
 
 Si no se tiene el valor catastral o no se puede determinar el de adquisición del inmueble colindante se tomará el valor de avalúo del mismo practicado por persona autorizada. Tratándose de adquisiciones por prescripción en las que no se pueda determinar la fecha en que se consumó la prescripción adquisitiva, se tomará como tal aquélla en que se haya interpuesto la demanda. Cuando no se pueda efectuar la separación del valor de las construcciones y el del terreno, se considerará como valor de éste el 20% del valor total del inmueble.
 
@@ -10295,11 +9881,11 @@ La Secretaría de Hacienda y Crédito Público para fijar las cuotas a que se re
 
 Tratándose de bienes de uso común, sólo se estará obligado al pago del derecho, cuando se tenga concesión para un aprovechamiento especial o cuando dicho aprovechamiento se lleve a cabo sin tener la concesión.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 234.
 
-El derecho por el uso o goce de inmuebles, se calculará por ejercicios fiscales. Los contribuyentes efectuarán pagos provisionales bimestrales durante los meses de febrero, abril, junio, agosto, octubre y diciembre, mediante declaración que presentarán en las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público. El pago provisional será una sexta parte del monto del derecho calculado al año.
+Los derechos a que se refieren los artículos 232 y 232-A de esta Ley, se calcularán por ejercicios fiscales. Los contribuyentes efectuarán pagos provisionales bimestrales durante los meses de febrero, abril, julio, agosto, octubre y diciembre mediante declaración que presentarán en las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público. El pago provisional, tratándose por el uso o goce de inmuebles, será una sexta parte del monto del derecho calculado al año.
 
 El derecho del ejercicio, deducidos los pagos provisionales bimestrales, se pagará mediante declaración que se presentará ante las oficinas autorizadas dentro de los tres meses siguientes al cierre del ejercicio.
 
@@ -10317,15 +9903,19 @@ II.- Incrementar el valor catastral con la cantidad que resulte de aplicarle el 
 
 Cuando las autoridades fiscales hagan las valuaciones a que se refiere este artículo, proporcionarán al contribuyente un extracto del avalúo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 236.
 
-Están obligadas a pagar el derecho por extracción de materiales, las personas físicas y las morales que extraigan materiales de los cauces, vasos y zonas de corrientes, así como de los depósitos de propiedad nacional, conforme a la cuota que resulte de aplicar el 10% al valor que tengan estos materiales en la región o en el mercado más cercano.
+Están obligadas a pagar el derecho por extracción de materiales, las personas físicas y las morales que extraigan materiales de los cauces, vasos y zonas de corrientes, así como de los depósitos de propiedad nacional, conforme a la cuota que resulte de aplicar el 10% al valor comercial de estos materiales en el mercado más cercano.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+El derecho por extracción de materiales se pagará previamente mediante declaración que se presente en las oficinas de la Comisión Nacional del Agua o en las que, autorice la Secretaría de Hacienda y Crédito Público.
 
-El derecho por extracción de materiales se pagará previamente mediante declaración en las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público.
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 236-A.
+
+Los ingresos que se obtengan por los derechos por la extracción de materiales de los cauces, vasos y zonas de corriente a que se refiere el artículo anterior, así como los que provengan del uso o goce de los inmuebles señalados por el artículo 232 cuando en los mismos se realicen actividades agropecuarias o pesqueras y sean administrados por la Comisión Nacional del Agua, se destinarán a ésta, para la construcción, operación, mantenimiento y conservación de obras de infraestructura hidráulica, hasta por el monto que señale el presupuesto de egresos que le hubiere sido autorizado. La parte de los ingresos que excedan el límite señalado en este artículo, no tendrán fin específico.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -10969,11 +10559,19 @@ El gas natural se convertirá en petróleo crudo de conformidad a su equivalenci
 
 Para los efectos de la fracción IV del artículo 255, se considerarán los barriles de petróleo crudo efectivamente utilizados en la elaboración de productos petroquímicos y cuando éstos se produzcan con gas natural se calculará su equivalencia a barriles de petróleo crudo conforme al artículo anterior.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 257.
 
-Para determinar el derecho del ejercicio, se considerará como precio de los barriles de petróleo crudo el precio promedio en que efectivamente se exporten los barriles en el ejercicio.
+Para determinar el derecho de los hidrocarburos destinados al autoconsumo y a la exportación, se considerará como precio de los barriles de petróleo crudo, el precio promedio en que efectivamente se exporten los barriles en el ejercicio.
+
+Para determinar el derecho sobre hidrocarburos destinados al consumo nacional, se considerará como precio de los barriles de petróleo crudo el que resulte de dividir el valor devengado de las ventas internas realizadas por Petróleos Mexicanos de petróleo crudo, petrolíferos, gas natural y petroquímicos, durante el mes de que se trate, entre el número de barriles de hidrocarburos destinados al consumo nacional. El valor de las ventas no incluirá el impuesto especial sobre producción y servicios ni el impuesto al valor agregado.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 257-A.
+
+Se entenderá por autoconsumo el volumen de hidrocarburos que Petróleos Mexicanos utilice en sus propios procesos industriales, incluyendo la quema de gas y las mermas por derramas.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -11958,3 +11556,79 @@ El certificado será personal el contribuyente y no podrá ser transmitido por a
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1988.
+
+D.O.F. 31 DE DICIEMBRE DE 1988.
+
+Disposición de vigencia anual
+
+###### ARTICULO VIGESIMO TERCERO.
+
+Durante el año de 1989 se aplicarán en materia de derechos las siguientes disposiciones:
+
+I.- Para los efectos del artículo 1o. de la Ley, las cuotas de los derechos se incrementarán con el factor de 1.15 a partir del 1o. de enero de 1989 y, a partir del 1o. de febrero de 1989 se incrementarán en la fecha y en la misma proporción en que se incremente el salario mínimo general del área geográfica correspondiente al Distrito Federal con las excepciones que a continuación se indican:
+
+a).- Las cuotas de los derechos a que se refiere la Sección Cuarta del Capítulo III y las Secciones Cuarta y Octava del Capítulo VI del Título I de la Ley; así como los artículos 91, 92, 93, 96, 97, 98, 99, 100, 101, 102, 103, 105, 107, 110 y 112, con el factor de 1.5, a partir del 1o. de enero de 1989.
+
+b).- Las cuotas de los derechos a que se refiere la Sección Cuarta del Capítulo I del Título I de la Ley, con el factor de 1.3 a partir del 1o. de enero de 1989.
+
+c).- Las cuotas de los derechos a que se refiere la Sección Unica del Capítulo IV del Título I de la Ley, así como el artículo 151, con el factor de 2.0, a partir del 1o. de enero de 1989.
+
+d).- Las cuotas de los derechos a que se refiere el artículo 200, con el factor de 1.771, a partir del 1o. de enero de 1989.
+
+e).- Las cuotas de los derechos a que se refiere el artículo 205, con el factor de 3.714, a partir del 1o. de enero de 1989.
+
+f).- Las cuotas de los derechos a que se refiere el artículo 202, con el factor de 1.25, a partir del 1o. de enero de 1989.
+
+g).- Las cuotas de los derechos a que se refiere la Sección Tercera del Capítulo III del Título I de esta Ley, con el factor de 1.905, a partir del 1o. de enero de 1989.
+
+h).- La cuota del derecho a que se refiere el artículo 53-C de esta Ley con el factor de 2.7, a partir del 1o. de enero de 1989.
+
+II.- No se incrementarán por factor las cuotas de los derechos a que se refieren los artículos 73-A fracciones IV, V, VI, VII y VIII; 73-C; 73-E; 200-A; 223 Apartado A, fracciones I, y II, y las contenidas en la fracción siguiente de este artículo de Disposiciones de Vigencia Anual.
+
+III.- Los servicios en los que la mayoría de los costos se cubren en moneda extranjera, a que se refiere el artículo 3o., quinto párrafo, de la Ley Federal de Derechos, son:
+
+a).- De telex internacional, previsto por los artículos 91, fracciones III y IV y 92, fracción II, de dicha Ley.
+
+b).- De telecomunicaciones a través de satélites internacionales en lo que se refiere a las cantidades que la Secretaría de Comunicaciones y Transportes tenga que pagar por la utilización del segmento espacial y los servicios complementarios del exterior, conforme al artículo 103-A de la Ley.
+
+c).- De comunicaciones marítimas por satélite y otros medios, previsto en el artículo 91, fracción IV de la Ley.
+
+d).- De conducción internacional de señales por satélite y otros medios, conforme a los artículos 106 y 108, último párrafo de la Ley.
+
+e).- De transmisión internacional de señales de datos, previsto por el artículo 94 Apartado C fracción IV de la Ley.
+
+f).- De conducción de señales de México al extranjero correspondiente al tramo internacional, previstos por los artículos 106, 108, 109 Apartado B, 111, 112-A, 112-B fracciones I y II de la Ley.
+
+g).- De servicio de transmisión de mensajes financieros, previsto por el artículo 95 de la Ley.
+
+h).- De servicio radiomarítimo proporcionado a embarcaciones extranjeras, previsto por el artículo 115 Apartados A y B en sus fracciones II de la Ley.
+
+i).- De conducción de señales en donde la mayoría de los costos se cubren en moneda extranjera, previstos en los artículos 105, fracciones I, II y III en sus incisos a); 107 fracción I, inciso a) y la fracción II; 110 fracción I, inciso a) y 112 fracción I, inciso a) de la Ley.
+
+j).- Los prestados por oficinas de la Federación en el extranjero.
+
+k).- Los servicios por los que se causen los derechos de pesca comercial, sal destinada a la exportación, casa deportiva, así como de puerto, atraque, embarque y desembarque.
+
+> <small>(F. DE E., D.O.F. 17 DE ENERO DE 1989)</small>
+
+IV.- Para los efectos del artículo 83-B de la Ley Federal de Derechos durante 1989 los usuarios de los Distritos de Riego con superficie regable menor de 50,000 hectáreas en los que la tenencia media de la tierra por usuario sea mayor de 5 hectáreas, así como los usuarios de Distritos de Riego con superficie regable menor de 50,000 hectáreas en las que la parcela media por usuario sea mayor de 6 hectáreas, deberán cubrir, mediante el pago de cuotas por el servicio de riego y drenaje, el 100% de sus necesidades presupuestales para la realización de programas normales de operación y mantenimiento de sus obras de infraestructura.
+
+En el año de 1989 los Distritos de Riego con superficie regable mayor de 50,000 hectáreas con parcela media por usuario menor de 5 hectáreas y los que aún teniendo superficie regable menor, cuenten con parcela media por usuario de 3 a 6 hectáreas, deberán ser autosuficientes en el 80% de sus necesidades presupuestales para los programas normales de operación y mantenimiento de sus obras.
+
+Los Distritos de Riego en los que la parcela media por usuario sea menor de 3 hectáreas, durante el año de 1989 deberán ser autosuficientes en el 60% de sus necesidades presupuestales para los programas de operación y mantenimiento de sus obras.
+
+La Secretaría de Hacienda y Crédito Público en consulta con la Secretaría de Agricultura y Recursos Hidráulicos, publicará cuales son los Distritos de Riego que se encuentran comprendidos dentro de cada uno de los supuestos anteriores.
+
+Si en el año de 1989 la escasez de agua derivada de sequía o insuficiencia de los acuíferos subterráneos, las catástrofes sufridas por fenómenos hidrometereológicos o por plagas, o cualquier otra causa de fuerza mayor, afecten el programa de un Distrito de Riego, impidiendo a los agricultores sembrar con cultivo de riego la totalidad de sus parcelas registradas en el padrón de usuarios, por lo menos una vez durante el ciclo agrícola, la autosuficiencia presupuestal para la operación, conservación y mantenimiento de sus obras, se reducirá en proporción igual a la disminución a la del programa de riego. También se podrán reducir los porcentajes de autosuficiencia a que se refieren los párrafos anteriores, cuando la situación económica del Distrito de Riego no permita alcanzar dichos porcentajes, si así lo constatan las Secretarías de Hacienda y Crédito Público y de Agricultura y Recursos Hidráulicos, a petición del Comité Directivo del Distrito de Riego.
+
+V.- Los ingresos que se obtengan por los derechos a que se refieren los artículos 91, 92 y 93 de la Ley, a excepción de aquellos que se utilicen para cubrir los gastos de operación que se generen con motivo de la prestación del servicio y los que se empleen para pagar servicios internacionales en moneda extranjera, se destinarán al organismo público descentralizado Telégrafos Nacionales, para cubrir sus gastos de operación, conservación, mantenimiento e inversión, hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado. La parte de los ingresos que excedan del límite señalado en esta fracción no tendrá fin específico.
+
+VI.- El pago del derecho de caza deportiva a que se refiere el artículo 238 de esta Ley, por la temporada 1989 - 1990, se realizará conforme a las cuotas vigentes al inicio de dicha temporada. Los contribuyentes residentes en el país pagarán el 25% de dichas cuotas, a excepción de las fracciones XVIII y XIX del citado precepto, caso en el cual se aplicará el 10% de las cuotas a que se refieren dichas fracciones.
+
+VII.- Para la determinación del derecho de minería a que se refiere el artículo 263 de la Ley, las tasas se reducirán en un 40% en el caso de pequeños mineros y en un 20% para los medianos mineros, de conformidad a lo señalado en el artículo 274 de la Ley.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1989.
