@@ -4,7 +4,7 @@ identifier: "LCCBID"
 country: "mx"
 rank: "ley"
 publication_date: "1959-12-19"
-last_updated: "1967-12-28"
+last_updated: "1970-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=436&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCCBID"
 
 LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DEL BANCO INTERAMERICANO DE DESARROLLO.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1970.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 19 de diciembre de 1959.
 
@@ -42,17 +42,17 @@ LEY que establece bases para la ejecución en México, por el Poder Ejecutivo Fe
 
 Se aprueba el Convenio Constitutivo del Banco Interamericano de Desarrollo, para los efectos de la fracción VIII del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 8 de abril de 1959.
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1965)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1970)</small>
 
 ###### ARTICULO 2o.
 
-El Banco de México, S. A., queda autorizado para hacer, con la garantía del Gobierno Federal, la subscripción de acciones o partes sociales del Banco Interamericano de Desarrollo, hasta por la cantidad de doscientos veinticuatro millones cuatrocientos ochenta mil dólares de los Estados Unidos de Norteamérica.
+El Banco de México, S.A., queda autorizado para efectuar, con la garantía del Gobierno Federal, la suscripción de acciones o partes sociales del Banco Interamericano de Desarrollo, hasta por el equivalente de trescientos setenta y ocho millones trescientos mil dólares de los Estados Unidos de Norteamérica.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1967)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1970)</small>
 
 ###### ARTICULO 3o.
 
-El Banco de México, S. A., queda autorizado para aportar, con la garantía del Gobierno Federal, hasta la cantidad de setenta y cuatro millones trescientos sesenta y siete mil dólares de los Estados Unidos de América, para cubrir la cuota de contribución de México al Fondo para Operaciones Especiales a que se refiere el Artículo IV del Convenio Constitutivo de dicho Organismo.
+El Banco de México, S. A., queda autorizado para aportar, con la garantía del Gobierno Federal, hasta por el equivalente de ciento cuarenta y cuatro millones cincuenta y tres mil dólares de los Estados Unidos de Norteamérica, para cubrir la cuota de contribución de México al Fondo para Operaciones Especiales a que se refiere el Artículo IV del Convenio Constitutivo de dicho Organismo.
 
 ###### ARTICULO 4o.
 
@@ -119,3 +119,9 @@ SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el
 D.O.F. 28 DE DICIEMBRE DE 1967.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1970.
+
+PRIMERO.- Las aportaciones a que se refiere el presente Decreto, se realizarán de acuerdo con las resoluciones que adopte la Asamblea de Gobernadores del Banco Interamericano de Desarrollo y con las gestiones que sobre el particular efectúe el Gobierno Federal.
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
