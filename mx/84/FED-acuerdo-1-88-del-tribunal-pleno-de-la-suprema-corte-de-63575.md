@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-1-88-del-tribunal-pleno-de-la-suprema-corte-de-63575"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-01-15"
-last_updated: "1991-08-20"
+last_updated: "1991-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63575&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-01-15"
 
 ACUERDO No. 1/88, DEL TRIBUNAL EN PLENO DEL DIA QUINCE DE ENERO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE SEPTIEMBRE DE 1991.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 15 de enero de 1988.
 
@@ -323,13 +323,21 @@ IX.- El Juzgado Séptimo de Distrito en el estado de Sonora, con residencia en C
 
 4.-Distrito de Navojoa, que comprende las siguientes municipalidades: Navojoa, con las Comisarías de Rosales, Tesia, Camoa, San Ignacio, Bacabachi, Fundición y Masiaca; y Quiriego, con la Comisaría de Batacosa. Cabecera: Navojoa;
 
-X.- El Juzgado Primero de Distrito en el estado de Veracruz, con residencia en la ciudad de Xalapa, ejercerá jurisdicción en los distritos judiciales locales de Xalapa, Coatepec, Misantla, Jalacingo y Huatusco;
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO XXVII/91 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 17 DE SEPTIEMBRE DE 1991)</small>
 
-XI.- Los Juzgados Segundo y Tercero de Distrito en el estado de Veracruz, con residencia en la ciudad de Veracruz, ejercerán jurisdicción en el territorio del estado, excepto en los distritos judiciales locales comprendidos en las fracciones X, XII y XIII;
+X.- El Juzgado Primero de Distrito en el estado de Veracruz, con residencia en la ciudad de Xalapa, ejercerá jurisdicción en las siguientes municipalidades: Acajete, Acatlán, Actopan, Alpatláhuac, Alto Lucero, Altotonga, Apazapan, Atzalan, Ayahualulco, Banderilla, Calcahualco, Coacoatzintla, Coatepec, Colipa, Comapa, Cosautlán de Carvajal, Coscomatepec, Chiconquiaco, Emiliano Zapata, Huatusco, Ixhuacán de los Reyes, Ixhuatlán del Café, Jalacingo, Jalcomulco, Jilotepec, Juchique de Ferrer, Landero y Coss, Martínez de la Torre, Miahuatlán, Las Minas, Misantla, Naolinco, Nautla, Perote, Rafael Lucio, Sochiapa, Tatatila, Tenampa, Tenochtitlán, Teocelo, Tepatlaxco, Tepetlán, Tlacolulan, Tlacotepec de Mejía, Tlaltetela, Tlalnelhuayocan, Tlapacoyan, Tonayán, Totutla, Vega de Alatorre, Las Vigas de Ramírez, Villa Aldama, Xalapa, Xico, Yecuatlá y Zentla;
 
-XII.- El Juzgado Cuarto de Distrito en el estado de Veracruz, con residencia en la ciudad de Coatzacoalcos, ejercerá jurisdicción en los municipios de: Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Moloacán, Oteapan, Pajapan, Santa Lucrecia, Zaragoza, Mecayopan, Oluta, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Acayucan, Minatitlán y Texistepec;
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO XXVII/91 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 17 DE SEPTIEMBRE DE 1991)</small>
 
-XIII.- Los Juzgados Quinto y Sexto de Distrito en el estado de Veracruz, con residencia en la ciudad de Tuxpan, ejercerán jurisdicción en los municipios de Amatlán de Tuxpan, Castillo de Teayo, Chinampa de Gorostiza, Tamiahua, Tancoco, Temapache, Tepetzintla, Tihuatlán, Citlaltépetl, Pánuco, Pueblo Viejo, Tamalín, Tampico Alto, Tantima, Chiconamel, Chontla, Ixcatepec, Plantón Sánchez, Tempoal, Huayacocotla, Amatlán de los Reyes, Ixhuatlán de Madero, Benito Juárez, Tlachichilco, Zacualpan, Zontecomatlán de López y Fuentes, Texcatepec, Coahuitlán, Coatzintla, Coyutla, Coxquihuí, Espinal, Gutiérrez Zamora, Mecatlán, Filomeno Mata, Ozuluama de Mascareñas, Tecolutla, Zozocolco de Hidalgo, Tantoyuca, Chicontepec, Tuxpan y Papantla, del estado de Veracruz;
+XI.- Los Juzgados Segundo y Tercero de Distrito en el estado de Veracruz, con residencia en la ciudad de Veracruz, ejercerán jurisdicción en las siguientes municipalidades: Acula, Acultzingo, Alvarado, Amatitlán, Amatlán de los Reyes, Angel R. Cabada, La Antigüa, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Boca del Río, Camarón de Tejeda, Camerino Z. Mendoza, Carrillo Puerto, Catemaco, Coetzala, Córdoba, Cosamaloapan, Cotaxtla, Cuichapa, Cuitláhuac, Chacaltianguis, Chocamán, Fortín, Hueyapan de Ocampo, Huiloapan de Cuauhtémoc, Ignacio de la Llave, Isla, Ixhuatlancillo, Ixmatlahuacan, Ixtaczoquitlán, Jamapa, José Azueta, Juan Rodríguez Clara, Lerdo de Tejada, Magdalena, Maltrata, Manlio Favio Altamirano, Mariano Escobedo, Medellín, Mixtla de Altamirano, Naranjal, Nogales, Omealca, Orizaba, Otatitlán, Paso de Ovejas, Paso del Macho, La Perla, Playa Vicente, Puente Nacional, Rafael Delgado, Los Reyes, Río Blanco, Saltabarranca, San Andrés Tenejapan, San Andrés Tuxtla, Santiago Tuxtla, Soledad Atzompa, Soledad de Doblado, Tehuipango, Tequila, Texhuacan, Tezonapa, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tlaquilpa, Tlilapan, Tomatlán, Tres Valles, Tuxtilla, Ursulo Galván, Veracruz, Xoxocotla, Yanga y Xongolica;
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO XXVII/91 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 17 DE SEPTIEMBRE DE 1991)</small>
+
+XII.- El Juzgado Cuarto de Distrito en el estado de Veracruz, con residencia en la ciudad de Coatzacoalcos, ejercerá jurisdicción en las municipalidades de: Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Las Choapas, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Texistepec y Zaragoza;
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO XXVII/91 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 17 DE SEPTIEMBRE DE 1991)</small>
+
+XIII.- Los Juzgados Quinto y Sexto de Distrito en el estado de Veracruz, con residencia en la ciudad de Tuxpan, ejercerán jurisdicción en las municipalidades de: Amatlán Tuxpan, Benito Juárez, Castillo de Teayo, Cazones de Herrera, Cerro Azul, Citlaltépetl, Coahuitlán, Coatzintla, Coxquihui, Coyutla, Chalma, Chiconamel, Chicontepec, Chinampa de Gorostiza, Chontla, Chumatlán, El Higo, Espinal, Filomeno Mata, Gutiérrez Zamora, Huayacocotla, Ilamatlán, Ixcatepec, Ixhuatlán de Madero, Mecatlán, Ozuluama, Pánuco, Papantla, Platón Sánchez, Poza Rica de Hidalgo, Pueblo Viejo, Tamalín, Tamiahua, Tampico Alto, Tancoco, Tantima, Tantoyuca, Tecolutla, Temapache, Tempoal, Tepetzintla, Texcatepec, Tihuatlán, Tlachichilco, Tuxpan, Zacualpan, Zontecomatlán y Zozocolco de Hidalgo.
 
 XIV.- Los Juzgados Primero y Segundo de Distrito en el Estado de Coahuila, con residencia en la ciudad de Saltillo, ejercerán jurisdicción en los municipios de Saltillo, Ramos Arizpe, General Cepeda, Arteaga y Parras;
 
@@ -562,3 +570,11 @@ SEGUNDO.- Los nuevos tribunales colegiado y unitario del Vigésimo Segundo Circu
 TERCERO.- La Comisión de Gobierno y Administración y los ministros inspectores de los tribunales de Circuito y juzgados de Distrito comprendidos en este acuerdo, resolverán cualquier cuestión que pudiera suscitarse.
 
 CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación, y hágase del conocimiento de todos los tribunales de Circuito y juzgados de Distrito del país.
+
+D.O.F. 17 DE SEPTIEMBRE DE 1991.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Comisión de Gobierno y Administración y los ministros inspectores de los tribunales de Circuito y los Juzgados de Distrito comprendidos en este acuerdo, resolverán cualquier cuestión que pudiera suscitarse.
+
+TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación, y hágase del conocimiento de los correspondientes tribunales colegiados y unitario del Séptimo Circuito, y de los juzgados de Distrito en dicho Circuito, para su conocimiento.
