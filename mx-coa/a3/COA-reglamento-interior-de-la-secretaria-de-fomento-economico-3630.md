@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-fomento-economico-3630"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-06-27"
-last_updated: "1995-06-27"
+last_updated: "1997-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO ECONOMICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 1997.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el martes 27 de junio de 1995.
 
@@ -47,6 +47,8 @@ REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO ECONOMICO
 
 La Secretaría de Fomento Económico es la dependencia de la Administración Pública Estatal encargada de auxiliar al titular del Ejecutivo en la promoción, fomento, regularización y evaluación del desarrollo de la actividad económica del Estado en las áreas industriales, mineras, comerciales y de turismo, con las funciones y atribuciones que expresamente le encomienda la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, así como otras leyes, reglamentos, decretos, acuerdo y ordenes del Gobernador del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 2º.
 
 Al frente de la Secretaría habrá un Secretario quien tendrá a su cargo el despacho de los asuntos encomendados a la Secretaría y que, para el efecto se auxiliará de las siguientes unidades administrativas:
@@ -55,15 +57,15 @@ Al frente de la Secretaría habrá un Secretario quien tendrá a su cargo el des
 
 - Dirección General de Promoción y Fomento Económico
 
-- Dirección General de Fomento Turístico
-
-- Dirección de Estadística y Gestión
+- Dirección de Minería
 
 - Dirección Administrativa
 
 - Dirección de Promoción Internacional
 
-- Dirección de Servicios Turísticos
+- Dirección de la Oficina Internacional
+
+- Dirección de Promoción Turística
 
 Los manuales de organización precisarán la estructura orgánica y las funciones específicas de las áreas que conforman las unidades administrativas a que se refiere este artículo.
 
@@ -227,51 +229,27 @@ X.- Proporcionar asistencia y asesoría a las Unidades de Promoción situadas en
 
 XI.- Comunicar al Secretario la información que reciban de oficinas situadas en el exterior del país, que sea competencia de la propia dependencia;
 
-XII.- Proporcionar información a los inversionistas nacionales y extranjeros interesados en invertir en la entidad, relativa a los apoyos y ventajas que para el propósito ofrece el Estado; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
-XIII.- Las demás que le confiera y las que le señalen las disposiciones legales aplicables, así como las que le competen a las unidades administrativas que se le hubieren adscrito o le asigne el Secretario.
+XII.- Proporcionar información a los inversionistas nacionales y extranjeros interesados en invertir en la entidad, relativa a los apoyos y ventajas que para tal propósito ofrece el Estado;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+XIII.- Proponer al titular de la Secretaría las políticas aplicables en materia turística;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+XIV.- Planear, coordina (sic) y evaluar el desarrollo turístico del Estado;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+XV.- Estimular la inversión pública y privada para el desarrollo turístico de aquellas zonas que hayan sido declaradas como prioritarias en los Planes Nacional y Estatal de Turismo; y
+
+XVI.- Las demás que le confiera y las que le señalen las disposiciones legales aplicables, así como las que le competen a las unidades administrativas que se le hubieren adscrito o le asigne el Secretario.
 
 ###### ARTICULO 10º.
 
-Corresponde al Director General de Fomento Turístico, previo acuerdo con el Secretario:
-
-I.- Proponer al titular de la Secretaría, las políticas aplicables en materia turística;
-
-II.- Participar, en el ámbito de su competencia y en coordinación con las dependencias y entidades que corresponda, en la elaboración del Plan Estatal de Turismo;
-
-III.- Planear, coordinar y evaluar el desarrollo turístico del Estado;
-
-IV.- Estimular la inversión pública y privada para el desarrollo turístico de aquellas zonas que hayan sido declaradas como prioritarias en los Planes Nacional y Estatal de Turismo;
-
-V.- Vigilar, en el ámbito de su competencia, en el cumplimiento de las leyes, reglamentos y demás disposiciones que en materia turística sean aplicables en el Estado;
-
-VI.- Coordinar el desarrollo de sus funciones con las que lleven a cabo las autoridades federales o municipales en materia turística, en el marco de los convenios y acuerdos que para tal efecto suscriban;
-
-VII.- Ejecutar, en el ámbito de su competencia, las acciones y compromisos derivados de los convenios y acuerdos de coordinación celebrados por el Estado con la Federación o los Municipios;
-
-VIII.- Proponer al Secretario, la celebración de convenios en materia turística e intervenir en la esfera de su competencia, en la formulación de aquéllos en que el Ejecutivo Estatal intervenga;
-
-IX.- Elaborar y someter a la consideración del Secretario, los anteproyectos de leyes, reformas o adiciones a éstas, decretos, acuerdos y demás disposiciones legales y administrativas relacionadas con el fomento al turismo;
-
-X.- Apoyar la formación e integración de consejos, comités, organizaciones y cualquier otro tipo de agrupaciones de naturaleza turística en la entidad;
-
-XI.- Asesorar en materia turística y en el análisis de sus políticas, así como en la elaboración de proyectos en este rubro, a los Municipios del Estado cuando así lo soliciten;
-
-XII.- Elaborar, promover, difundir y, en su caso, distribuir información, propaganda y publicidad en materia de turismo;
-
-XIII.- Integrar y difundir información estadística en materia de turismo;
-
-XIV.- Llevar y mantener actualizado el inventario del patrimonio turístico del Estado;
-
-XV.- Llevar y mantener actualizado el Padrón de Prestadores de Servicios Turísticos en la Entidad;
-
-XVI.- Ejecutar los lineamientos que determine el Secretario para apoyar a las autoridades Federales o Municipales en la correcta aplicación de los precios y tarifas autorizadas o registradas en la prestación de los servicios turísticos;
-
-XVII.- Promover, fomentar y coordinar la ejecución de programas de capacitación para los prestadores de servicios turísticos en el Estado;
-
-XVIII.- Someter a la consideración del Secretario la realización de foros, eventos, cursos y demás actividades destinadas a la capacitación del personal adscrito a la Dirección General a su cargo; y
-
-XIX.- Las demás que le confiera y las que le señalen las disposiciones legales aplicables, así como las que le competen a las unidades administrativas que se le hubieren adscrito o le asigne el Secretario.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 1997)
 
 ### CAPITULO IV. DE LAS DIRECCIONES DE AREA
 
@@ -305,35 +283,37 @@ X.- Promover la capacitación permanente del personal a su cargo para el desarro
 
 XI.- Las demás que las disposiciones legales les atribuyan, así como aquéllas que les confiera el titular de la Secretaría y su superior jerárquico inmediato.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 13.
 
-Corresponde al Director de Estadística y Gestión, previo acuerdo con el Director General de Coordinación de Política y Fideicomisos:
+Corresponde al Director de Minería, previo acuerdo con el Director General de Coordinación de Política y Fideicomisos:
 
-I.- Recopilar, en el ámbito de competencia de la dependencia, la información que se requiera para establecer bancos de datos, sistemas y reportes necesarios para la promoción general del Estado;
+I.- Apoyar en el diseño e instrumentación de los programas de detección de necesidades y oportunidades a las empresas mineras establecidas en la entidad;
 
-II.- Detectar y determinar las fuentes de información, que reúnan las condiciones de confiabilidad, oportunidad y consistencia que se requiera para los efectos de la fracción que antecede;
+II.- Promover y fomentar las actividades de minería en el Estado, conforme a las disposiciones aplicables en la materia;
 
-III.- Detectar y obtener información, en materia competencia de la Secretaría para la elaboración de los perfiles de los municipios del Estado y mantenerlos actualizados en forma semestral o anual;
+III.- Realizar los estudios necesarios a efecto de proporcionar las bases mediante las cuales se establezcan las políticas en materia minera en la entidad por parte de las instancias competentes, atendiendo los ordenamientos jurídicos aplicables;
 
-IV.- Supervisar el desarrollo y la utilización del Sistema de Perfiles Municipales; así como la correcta actualización de sus datos;
+IV.- Atender y dar seguimiento a las solicitudes de apoyo presentadas por el sector minero estatal;
 
-V.- Definir las necesidades internas y requerimientos externos para la elaboración del Sistema de Parques Industriales, así como su actualización y modificación semestral y anual;
+V.- Promover la inversión nacional y extranjera de las diversas áreas de la minería del Estado;
 
-VI.- Definir en coordinación con las áreas correspondientes, los requerimientos que sobre el desarrollo y utilización de los sistemas de información de nuevas inversiones, directorios, micropartes se estimen necesarios;
+VI.- Coordinar la organización de eventos, foros, congresos y demás actividades similares en materia minera;
 
-VII.- Supervisar el desarrollo, actualización mensual y el debido uso de las bases de datos con las unidades productivas del Estado;
+VII.- Asistir y participar en las diversas ferias, exposiciones y convenciones nacionales e internacionales relacionadas con la minería, a través de las cuales se promueve y fomente la inversión en este rubro en la entidad;
 
-VIII.- Elaborar y supervisar la integración del reporte mensual sobre el comportamiento del empleo formal en la entidad, y llevar a cabo su difusión ante las dependencias y entidades de la Administración Pública Estatal, así como ante los organismos del sector productivo del Estado;
+VIII.- Promover la realización e (sic) cursos de capacitación y adiestramiento en las diversas áreas de la minería;
 
-IX.- Supervisar y coordinar mensualmente, la elaboración del folleto de indicadores económicos del Estado;
+IX.- Participar en la instrumentación de programas de apoyo a la minería social, en beneficio de grupos económicamente débiles;
 
-X.- Supervisar la obtención de información, validar los datos recabados, así como dar seguimiento al procesamiento de las estadísticas mensuales para la obtención de los siguientes indicadores: Captación y Colocación de Recursos, Desempleo INEGI, Consumo y Usuarios de Energía Eléctrica, Venta de Combustibles, Servicios Aéreos, Producción Minería, Industria Maquilladora, Revisiones Salariales y Contractuales, Registro de Sociedades y Aumento de Capital y demás relativos.
+X.- Coordinar la elaboración y evaluación de programas interinstitucionales de fomento a la pequeña y mediana minería;
 
-XI.- Colaborar, en el ámbito de su competencia, en la elaboración y actualización de la Guía para el Inversionista;
+XI.- Propiciar y apoyar la organización formal de los pequeños y medianos mineros;
 
-XII.- Participar, en el ámbito de su competencia y de conformidad con las disposiciones aplicables, con los principales organismos Federales, Estatales y Municipales de concertación en materia de inversiones, comercio exterior, capacitación y demás relacionadas con sus funciones;
+XII.- Promover medidas de coordinación, desregulación, descentralización y simplificación administrativa en beneficio del sector minero;
 
-XIII.- Apoyar las funciones de gestoría que se soliciten a la Secretaría a través de comités y reuniones que se lleven a cabo con los sectores productivos del Estado; y
+XIII.- Promover el uso de tecnología para la modernización de la planta productora minera del Estado; y
 
 XIV.- Las demás que las disposiciones legales le atribuyan, así como aquéllas que le confiera el titular de la Secretaría y el Director General de Coordinación de Política y Fideicomisos.
 
@@ -387,37 +367,67 @@ XII.- Obtener y mantener actualizada información sobre el crecimiento de las em
 
 XIII.- Las demás que las disposiciones legales le atribuyan, así como aquéllas que le confiera el titular de la Secretaría y su superior jerárquico inmediato.
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+ARTICULO 15 BIS.- Corresponde al Director de la Oficina Internacional, previo acuerdo con el Director General de Promoción y Fomento Económico:
+
+I.- Promover las actividades económicas de la entidad en los Estados Unidos de América, con presencia constante y directa en los mercados internaciones;
+
+II.- Informar al Director general respecto a las oportunidades para la actividad productiva del estado en el extranjero;
+
+III.- Asistir y participar en ferias y exposiciones a través de las cuales se promueva y fomente la inversión en el Estado;
+
+IV.- Realizar las investigaciones respectivas a efecto de detectar las áreas de oportunidad para la actividad económica del estado en los Estados Unidos de América;
+
+V.- Organizar y coordinar, en el ámbito de su competencia, misiones comerciales de empresarios extranjeros interesados en las actividades económicas de la entidad;
+
+VI.- Distribuir información recopilada por la Secretaría a las organizaciones productivas del extranjero, a efecto de promover y fomentar las actividades económicas de la entidad;
+
+VII.- Establecer comunicación con instancias públicas y privadas de los Estados Unidos de Norteamérica, que contribuyan a la actividad productiva del estado;
+
+VIII.- Informar y orientar a los empresarios extranjeros que los soliciten, respecto a las actividades económicas del Estado, así como de aquellas atribuciones competencia de la Secretaría;
+
+IX.- Atender y proporcionar orientación a empresarios del estado que soliciten las funciones competencia de la Dirección;
+
+X.- Reportar periódicamente al Director General del área de su adscripción sobre los cambios en la política económica comercial de Estados Unidos de América en relación con la del país; y
+
+XI.- Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera el titular de la Secretaría y su superior jerárquico inmediato.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 16.
 
-Corresponde al Director de Servicios Turísticos, previo acuerdo con el Director General de Fomento Turístico:
+Corresponde al Director de Promoción Turística, previo acuerdo con el Director General de Promoción y Fomento Económico:
 
-I.- Llevar a acabo, conforme a las disposiciones aplicables, las acciones tendientes a la promoción y fomento del turismo en el Estado;
+I.- Participar, en el ámbito de su competencia y en coordinación con las dependencias y entidades competentes, en la elaboración del Plan Estatal de Turismo;
 
-II.- Realizar los estudios necesarios para la definición de las políticas aplicables en materia turística;
+II.- Vigilar, en la esfera de su competencia, el cumplimiento de las leyes, reglamentos y demás disposiciones que en materia turística sean aplicables en el Estado;
 
-III.- Atender y dar seguimiento a las quejas presentadas por los turistas y visitantes;
+III.- Proponer al Secretario la celebración de convenios en materia turística e intervenir en la formulación de aquéllos en que el Ejecutivo Estatal sea parte;
 
-IV.- Proporcionar, a través de las unidades administrativas que correspondan, información turística a quienes visiten el Estado, así como a la comunidad en general;
+IV.- Ejecutar y dar seguimiento a las acciones y compromisos derivados de los convenios y acuerdos de coordinación celebrados por el Estado con la Federación o los municipios;
 
-V.- Coordinar la operación del Sistema de Información Turística Estatal;
+V.- Apoyar la formación e integración de consejos, comités, organizaciones y cualquier otro tipo de agrupaciones de naturaleza turística en la entidad;
 
-VI.- Llevar el control estadístico de la ocupación hotelera;
+VI.- Asesorar, en materia turística y en análisis de sus políticas, así como en la elaboración de proyectos turísticos, a los municipios de la entidad, cuando así lo soliciten;
 
-VII.- Realizar ante la Secretaría de Turismo del Gobierno Federal, los trámites necesarios para el registro de los prestadores de servicios turísticos en la entidad;
+VII.- Elaborar, promover, difundir y, en su caso, distribuir información, propaganda y publicidad en materia de turismo respecto de la entidad;
 
-VIII.- Actualizar, conforme a su competencia, el Registro Nacional de Turismo en el Estado;
+VIII.- Integrar y difundir información estadística en materia de turismo;
 
-IX.- Atender las solicitudes presentadas por los prestadores de servicios turísticos de la entidad;
+IX.- Actualizar, conforme a su competencia, el Registro Nacional de Turismo en la entidad;
 
-X.- Coordinar la organización de eventos, foros y congresos en materia turística;
+X.- Llevar y mantener actualizado el Padrón de Prestadores de Servicios Turísticos en el Estado;
 
-XI.- Proporcionar asesoría a las personas interesadas en llevar a cabo inversiones turísticas en el Estado;
+XI.- Promover, fomentar y coordinar la ejecución de programas de capacitación para los prestadores de servicios turísticos en el Estado;
 
-XII.- Coordinar la elaboración de material promocional turístico de la entidad;
+XII.- Realizar los estudios necesarios para la definición de las políticas aplicables en la entidad en materia turística;
 
-XIII.- Coordinar las actividades que lleven a cabo las Promotorías Turísticas existentes en el Estado; y
+XIII.- Coordinar la operación del Sistema de Información Turística Estatal;
 
-XIV.- Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera el titular de la Secretaría y su superior jerárquico inmediato.
+XIV.- Coordinar la organización de eventos, foros, congresos y demás actividades similares en materia turística; y
+
+XV.- Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera el titular de la Secretaría y su superior jerárquico inmediato.
 
 ### CAPITULO V. DE LOS ORGANOS DESCONCENTRADOS
 
@@ -478,3 +488,11 @@ LIC. CARLOS JUARISTI SEPTIEN
 EL SECRETARIO DE FOMENTO ECONOMICO
 
 ING. JOSE ANTONIO MURRA GIACOMAN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. DEL 5 DE DICIEMBRE DE 1997.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
