@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1999-12-29"
+last_updated: "2001-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2001.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -157,6 +157,14 @@ El desistimiento de la acción extingue ésta. El desistimiento de la demanda, q
 
 35.- Se llaman excepciones todas las defensas que pueda emplear el demandado para impedir el ejercicio actual de la acción, o para destruir ésta. En el primer caso, son dilatorias; en el segundo, perentorias. Para los efectos de su substanciación, se considerará también como excepción dilatoria, la oposición que el actor pueda hacer al reconocimiento procesal que se haga de la personalidad o capacidad del representante o apoderado del demandado.
 
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+Las excepciones procederán en juicio aun cuando no se exprese su nombre, con tal de que se haga valer con precisión y claridad el hecho o hechos en que se hace consistir la defensa.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+No podrán oponerse excepciones o defensas contrarias o contradictorias, aun cuando sea con el carácter de subsidiarias.
+
 36.- Son excepciones dilatorias, las siguientes:
 
 I.- La incompetencia del Tribunal;
@@ -175,41 +183,75 @@ VII.- La excusión;
 
 VIII.- Las demás a que dieren ese carácter las leyes.
 
-37.- Las excepciones dilatorias, salvo lo dispuesto en el artículo siguiente, deberán oponerse dentro de los tres días siguientes a aquél en que el demandado reciba legalmente el traslado de la demanda, o se le tenga legalmente por recibido de él; y se substanciarán en artículo de previo y especial pronunciamiento, con suspensión del juicio en lo principal.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-El actor deberá oponer la excepción de falta de personalidad o de capacidad en el representante o apoderado del demandado, dentro de los tres días siguientes a aquél en que tenga conocimiento legal de su presentación en el juicio.
+37.- Salvo lo dispuesto en el artículo 38, las excepciones dilatorias y las objeciones aducidas respecto de los presupuestos procesales, se opondrán dentro de los tres días siguientes a aquél en que el demandado haya sido emplazado y se resolverán en la audiencia de conciliación y depuración del proceso, a menos que en disposición expresa se señale trámite diferente.
 
-38.- La incompetencia, así como la falta de personalidad o de capacidad, por causas supervenientes a las existentes en el momento de la presentación de la demanda o de su contestación, pueden promoverse en cualquier estado del juicio hasta antes de la citación para sentencia, y se substanciarán en la misma forma que las excepciones dilatorias similares. La excusión podrá también oponerse fuera del término señalado para proponer las excepciones dilatorias, con arreglo a las disposiciones respectivas del Código Civil.
+De todas las excepciones que deban resolverse en la audiencia, se dará vista a la contraria por el término de tres días para que manifieste lo que a su derecho convenga.
 
-> <small>(F. DE E., P.O. 17 DE ABRIL DE 1974)</small>
+Si al oponer las excepciones de falta de personalidad, conexidad, litispendencia o falta de capacidad, se promueven pruebas, deberán ofrecerse en los escritos respectivos, fijando los puntos sobre los que versan, y de ser admisibles, se ordenará su preparación para que se reciban en la audiencia de conciliación y depuración procesal.
 
-39.- La incompetencia puede promoverse por declinatoria o por inhibitoria. El litigante que hubiere optado por uno de estos medios no podrá abandonarlo y recurrir al otro. Tampoco se podrán emplear simultáneamente, debiendo pasarse por el resultado de aquél que se hubiere preferido. El que promueva la cuestión protestará en el escrito o en la comparecencia en que lo hiciere, no haber empleado el otro medio diverso al que inicie. Si resultare falsa la protesta, se le impondrá una multa hasta de quinientos pesos, aunque se hubiere decidido en su favor la competencia, o se desista de ella.
+En la excepción de falta de personalidad, únicamente serán admisibles la documental y la pericial. Cuando se alegue falta de exactitud, de autenticidad o de falsedad del documento con el que se pretenda acreditar la representación con que se comparece, también serán admisibles la inspección judicial y el cotejo del documento correspondiente. La interposición de esta excepción, suspende el procedimiento hasta el momento en que se resuelva en la audiencia de depuración del proceso.
+
+En las demás excepciones dilatorias, solo se admitirá la prueba documental. Si se trata de excepciones de litispendencia y conexidad, se admitirá también, la prueba de inspección de los autos.
+
+En este caso, desahogadas las pruebas en una sola audiencia, que no se diferirá bajo ningún supuesto, se oirá en alegatos y en el mismo acto se dictará la sentencia que corresponda.
+
+El Tribunal nunca podrá diferir la resolución que deberá dictarse en la misma audiencia.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+37 Bis.- El actor deberá oponer la excepción de falta de personalidad o de capacidad en el representante o apoderado del demandado, dentro de los tres días siguientes a aquél en que tenga conocimiento legal de su presentación en el juicio y se substanciará corriendo traslado a la contraria por tres días del escrito en que se oponga. Si se promueven pruebas se ofrecerán en los escritos iniciales, y de ser admisibles se ordenará su preparación para que se reciban en la audiencia de conciliación y depuración procesal.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+38.- La incompetencia, así como la falta de personalidad o de capacidad, por causas supervinientes a las existentes en el momento de la presentación de la demanda o de su contestación, pueden promoverse en cualquier estado del juicio hasta antes de citación para sentencia y se substanciarán en forma incidental. La objeción de la personalidad suspenderá el procedimiento hasta en tanto se resuelva. La excusión podrá también oponerse fuera del término señalado para proponer las excepciones dilatorias, con arreglo a las disposiciones respectivas del Código Civil y se resolverá en la definitiva.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+38 Bis.- En la excepción de falta de personalidad del actor, o en la impugnación que se haga a la personalidad del representante o apoderado del demandado, cuando se declare fundada una u otra, si fuere subsanable el defecto, el tribunal concederá un plazo no mayor de ocho días para que se subsane, y de no hacerse así, cuando se tratare del demandado, se continuará el juicio en rebeldía de éste. Si no fuera subsanable la del actor, el juez de inmediato dará por terminado el juicio y devolverá las documentales exhibidas previa simple toma de razón que se deje en autos.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+39.- La incompetencia puede promoverse por declinatoria o por inhibitoria. El litigante que hubiere optado por uno de estos medios no podrá abandonarlo y recurrir al otro. Tampoco se podrán emplear simultáneamente, debiendo pasarse por el resultado de aquél que se hubiere preferido. El que promueva la cuestión protestará en el escrito o en la comparecencia en que lo hiciere, no haber empleado el otro medio diverso al que inicie. Si resultare falsa la protesta, se le impondrá una multa de hasta 20 veces el salario mínimo, aunque se hubiere decidido en su favor la competencia, o se desista de ella.
 
 40.- Las cuestiones de competencia sólo podrán entablarse a instancia de parte; pero el Tribunal que tenga razón fundada para creer que conforme a derecho es incompetente, puede de oficio inhibirse del conocimiento del negocio. Su resolución en este sentido será apelable en ambos efectos. Si se interpusiese el recurso, el superior, sin más trámite que oír a las partes en audiencia, decidirá dentro de las veinticuatro horas siguientes, confirmando o revocando el auto del inferior, devolviendo los autos al Juzgado de su procedencia o remitiéndolos en su caso directamente al juez declarado competente.
 
-41.- Todo Tribunal está obligado a suspender sus procedimientos luego que expida la inhibitoria o luego que, en su caso, la reciba. Igualmente suspenderá sus procedimientos al promoverse la declinatoria. Sin embargo, los jueces competidores podrán dictar bajo su responsabilidad las providencias que tuvieren el carácter de urgentes o precautorias, cuya subsistencia quedará pendiente del resultado de la cuestión de competencia.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-42.- La declinatoria de competencia se propondrá ante el juez a quien se considere incompetente, pidiéndole que se abstenga del conocimiento del negocio y remita los autos al considerado competente. El juez, inmediatamente después de interpuesta la declinatoria, remitirá los autos al Tribunal que deba decidir la competencia, emplazando previamente a las partes para que comparezcan ante el superior dentro del término de cinco días. Este término en razón de la distancia y de las condiciones de las comunicaciones, podrá ampliarse prudentemente a juicio del juez, hasta quince días.
+41.- Las cuestiones de competencia se tramitarán sin suspender el procedimiento, pero la subsistencia de éste quedará pendiente del resultado de la cuestión de competencia.
 
-Recibidos los autos por el superior, y concluido el término señalado a las partes para que ante él comparecieran, dentro de los tres días siguientes oirá a los interesados en una audiencia, en la cual recibirá las pruebas que éstos ofrecieren; y después de oír sus alegatos, en la misma audiencia pronunciará su resolución ordenando la remisión de los autos al juez que haya estimado competente.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-Si la declinatoria se propuso antes de contestar la demanda, ésta se tendrá por presentada ante el juez que fue declarado competente; si se promovió de acuerdo con lo dispuesto en el artículo 38 de este Código, las diligencias practicadas por el juez declarado incompetente serán válidas hasta el momento en que, por la causa superveniente, dejó de tener competencia para conocer del asunto.
+42.- La declinatoria de competencia se propondrá ante el juez a quien se considere incompetente, pidiéndole que se abstenga del conocimiento del negocio y remita los autos al considerado competente.
+
+El juez, inmediatamente después de interpuesta la declinatoria, remitirá copia autorizada de los autos al Tribunal que deba decidir la competencia, emplazando previamente a las partes para que comparezcan ante el superior para la continuación del trámite correspondiente.
+
+Notificadas las partes que los autos se han recibido por el superior, éste dentro de los tres días siguientes en una audiencia oirá los alegatos de los interesados y pronunciará su resolución ordenando la remisión de los autos al juez que estime competente.
+
+Si la declinatoria se propuso antes de contestar la demanda, ésta deberá presentarse ante el juez que sea declarado competente. Si se promovió de acuerdo con lo dispuesto en el artículo 38 de este Código, las diligencias practicadas por el juez declarado incompetente serán válidas hasta el momento en que por la causa superviniente, dejó de tener competencia para conocer del asunto.
 
 43.- La inhibitoria, tratándose de tribunales del Estado, se intentará ante el juez a quien se considere competente, pidiéndole que dirija oficio al que viene conociendo del asunto, para que se inhiba de seguir conociendo y le remita los autos. El juez que reciba la solicitud, dentro de los tres días siguientes decidirá si acepta su competencia o la rechaza, pudiendo abrir previamente a prueba el punto si así lo estimare necesario. La resolución negativa es apelable en ambos efectos; y el superior respectivo, sin más trámite que una audiencia en la que informará el apelante si quisiese hacerlo, confirmará o revocará la resolución del inferior.
 
-44.- El juez ante quien se promovió la inhibitoria, ya sea que él mismo haya admitido su competencia o que hubiere sido declarada en segunda instancia, dirigirá oficio inhibitorio al juez que conoce del negocio, y remitirá desde luego las actuaciones respectivas al Tribunal que deba decidir la competencia, haciéndolo saber al interesado.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-Luego que el juez requerido reciba el oficio inhibitorio, acordará la suspensión del procedimiento y remitirá a su vez los autos originales al Tribunal de competencia, emplazando a las partes para que ocurran ante él a alegar de sus derechos si así les conviniere, concediéndoles un plazo que no podrá exceder de quince días.
+44.- El juez ante quien se promovió la inhibitoria, ya sea que él mismo haya admitido su competencia o que hubiere sido declarada en segunda instancia, dirigirá oficio inhibitorio al juez que conoce del negocio y remitirá desde luego las actuaciones respectivas al Tribunal que deba decidir la competencia, haciéndolo saber al interesado.
 
-Recibidos los autos en el Tribunal superior, se citará a las partes a una audiencia dentro de los tres días siguientes a la conclusión del término que el inferior hubiere señalado a los interesados para que comparecieran ante el Tribunal superior, en la cual recibirá las pruebas que ofrecieren las partes, oirá sus alegatos y pronunciará resolución.
+Luego que el juez requerido reciba el oficio inhibitorio, remitirá a su vez copia autorizada de los autos al Tribunal de competencia, emplazando a las partes para que ocurran ante él a alegar de sus derechos si así les conviniere, siguiéndose el trámite previsto por el artículo 42.
 
-Decidida la competencia, el Tribunal enviará los autos al juez declarado competente, con testimonio de la sentencia, de la cual remitirá otro tanto al juez contendiente. Contra la resolución del Tribunal decidiendo la competencia no cabrá ningún recurso.
+Decidida la competencia a favor del requirente, el Tribunal ordenará al juez incompetente que envíe los autos al juez declarado competente, remitiendo sendos testimonios de la sentencia pronunciada a los jueces contendientes. En caso contrario continuará conociendo del asunto el juez requerido.
+
+Contra la resolución del Tribunal decidiendo la competencia no cabrá ningún recurso.
 
 45.- Si por los documentos que se hubieren presentado o por otras constancias de autos, apareciere que el litigante que promueve la inhibitoria o la declinatoria se ha sometido a la competencia del Tribunal que viene conociendo del negocio, se desechará de plano continuando su curso el juicio. También se desechará de plano cualquiera competencia promovida que no tenga por objeto decidir cuál haya de ser el juez o Tribunal que deba conocer del asunto. El desechamiento a que se refiere este artículo, lo hará el Tribunal Superior al avocarse al conocimiento del conflicto en los términos de los artículos 42 y 44 de este Código.
 
-46.- Cuando dos o más jueces se nieguen a conocer de determinado asunto, la parte a quien perjudique la determinación ocurrirá al superior que deba decidir las competencias de jurisdicción, a fin de que ordene a los que se nieguen a conocer, que le envíen los expedientes en que se contengan sus respectivas resoluciones.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-Una vez recibidos los autos por dicho Tribunal, citará a las partes a una audiencia de pruebas y alegatos que se efectuará dentro del tercer día y en ella pronunciará resolución, ordenando la remisión de los autos al juez que haya estimado competente, enviando a los dos jueces contendientes, sendos testimonios de su resolución.
+46.- Cuando dos o más jueces se nieguen a conocer de determinado asunto, la parte a quien perjudique la determinación ocurrirá al superior que conforme a la Ley Orgánica del Poder Judicial deba decidir las competencias de jurisdicción, a fin de que ordene a los que se nieguen a conocer, le envíen las constancias de los expedientes en que se contengan sus respectivas resoluciones.
+
+Si varios tribunales fueren competentes para resolver la cuestión de competencia el interesado podrá escoger libremente entre ellos para iniciar su instancia.
+
+Una vez recibidas las constancias respectivas por dicho Tribunal, citará a las partes a una audiencia de pruebas y alegatos que se efectuará dentro del tercer día y en ella pronunciará resolución, ordenando la remisión de los autos al juez que estime competente, enviando a los dos jueces contendientes, sendos testimonios de su resolución.
 
 Las disposiciones de este artículo son aplicables en lo conducente, a las competencias negativas que se susciten en las Salas del Supremo Tribunal de Justicia.
 
@@ -217,47 +259,61 @@ Las disposiciones de este artículo son aplicables en lo conducente, a las compe
 
 48.- Ningún juez puede sostener competencia con su superior inmediato; pero sí con otro juez o Tribunal que, aunque superior en su clase, no ejerza jurisdicción sobre él. Tampoco puede sostener su competencia el Tribunal que reconozca la jurisdicción del otro por providencia expresa, salvo que el acto del reconocimiento consista sólo en la cumplimentación de un exhorto, pues en este caso, el Tribunal requerido no estará impedido para sostenerla.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
 49.- En la substanciación de las competencias que se susciten entre los tribunales del Estado y los de la Federación o de otro Estado, se aplicarán las siguientes disposiciones:
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+a).- Cuando a un juez del Estado plantee competencia otro de cualquier categoría de la Federación o de otra Entidad Federativa, si alguna de las partes se inconforma, el requerido dará cuenta al Supremo Tribunal de Justicia con los antecedentes, exponiendo, al remitirlos, las razones que le asistan en pro o en contra de su competencia.
 
-a).- Cuando a un Juez de Primera Instancia, o de lo Familiar, Menor o de Paz, planteé competencia otro de cualquier categoría de la Federación o de otra Entidad Federativa, si las partes litigantes que actúan ante aquéllos no estuvieren conformes en reconocer la competencia del requirente, el requerido dará cuenta al Supremo Tribunal de Justicia con los antecedentes, exponiendo, al remitirlos, las razones que le asistan en pro o en contra de su competencia.
+b).- Si un juez del Estado, recibe solicitud de parte legítima para plantear competencia a un Juez de la Federación o de otra Entidad Federativa, resolverá libremente si acepta o no la petición. Si la acepta, girará oficio al juez requerido comunicándole su resolución; si el Juez requerido se negare a reconocer la competencia del requirente y la parte que promovió insistiere en desconocer la competencia de aquél, el requirente actuará conforme lo dispuesto en la parte final del inciso anterior.
 
-b).- Siempre que un juez del Estado, a solicitud de parte legítima juzgare de su deber plantear competencia a los jueces de la Federación o de otra entidad federativa, lo hará libremente; pero si el juez requerido se negare a reconocer la competencia requirente y la parte que promovió insistiere en desconocer la competencia de aquél, se observará lo dispuesto en la parte final del inciso anterior.
+c).- Recibidos en el Tribunal Pleno los antecedentes e informes a que se refieren los dos incisos anteriores, se dará vista al Ministerio Público, quien dentro del término de tres días, pedirá lo que proceda.
 
-c).- Si un juez del Estado recibiere solicitud de alguna persona para que requiera a otro de la Federación o de otra Entidad Federativa a efecto de que se inhiba y se negare a hacerlo sin que el promovente se conformare con esa resolución, se observará también lo dispuesto en la parte final del inciso a).
+Dentro de los tres días siguientes de evacuada la vista el propio Tribunal resolverá según el caso, si debe o no iniciarse o sostenerse la competencia.
 
-d).- Recibidos en el Tribunal Pleno los antecedentes e informes a que se refieren los tres incisos anteriores, se pasarán al Ministerio Público, quien, dentro del término de tres días, pedirá lo que proceda. Tres días después de devuelto el traslado, el mismo Tribunal resolverá según el caso, si debe o no iniciarse o sostenerse la competencia. Dentro de las cuarenta y ocho horas siguientes, se comunicará al juez la resolución correspondiente.
+Dentro de las cuarenta y ocho horas siguientes, se comunicará al juez la resolución correspondiente.
 
-e).- Si la resolución del Tribunal Pleno fuere en favor de la competencia, el juez observará la substanciación establecida por las leyes generales sobre competencias de esa clase; y si fuere desfavorable, se abstendrá, según el caso, de iniciar o sostener la competencia.
+d).- Si la resolución del Tribunal Pleno fuere a favor de la competencia, el juez observará la substanciación establecida por las reglas generales sobre competencias de esta clase. Si fuere desfavorable, se abstendrá, según el caso, de iniciar o sostener la competencia.
 
-f).- Si la competencia se hubiere iniciado o sostenido por disposición superior conforme al inciso precedente, y el juez requerido rehusare inhibirse, el requirente dará de nuevo cuenta al Tribunal Pleno con todos los antecedentes y con el informe respectivo, a fin de que aquél, con vista de dichos documentos resuelva si es o no de sostenerse la competencia.
+e).- Si la competencia se hubiere iniciado o sostenido por disposición superior conforme al inciso precedente y el juez requerido rehusare inhibirse, el requirente dará de nuevo cuenta al Pleno con todo los antecedentes y con el informe respectivo, a fin de que aquél con vista de dichos documentos resuelva si es o no de sostenerse la competencia.
 
-g).- Si de conformidad con lo establecido en la primera parte del inciso b), el juez que aceptó la competencia creyere posteriormente que debe desistirse de ella, y se opone el interesado que ante él litiga, se observará lo dispuesto en la parte final del inciso a).
+f).- Si de conformidad con lo establecido en la primera parte del inciso b), el juez que aceptó la competencia creyere posteriormente que debe desistirse de ella y se opone el interesado que ante él litiga, se observará lo dispuesto en la parte final del inciso a).
 
-h).- De las resoluciones del Tribunal Pleno a que se refiere este artículo, no precederá recurso alguno.
+g).- De las resoluciones del Pleno a que se refiere este artículo, no procederá recurso alguno.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
 50.- Es nulo lo actuado por el juez que fuere declarado incompetente o por el que se hubiere desistido, salvo los casos siguientes:
 
-I.- Cuando la ley lo disponga expresamente;
+I.- La demanda, la contestación a la demanda, la reconvención y su contestación, si las hubo, se tendrán como presentadas ante el juez que sea declarado competente;
 
-II.- Cuando la incompetencia sea por razón del territorio y convengan las partes en su validez;
+II.- Las actuaciones relativas al conflicto competencial, o aquellas por las que se decrete de oficio;
 
-III.- Cuando la incompetencia haya sido declarada con arreglo a lo establecido en los artículos 40 y 46 de este Código.
+III.- Cuando la incompetencia sea por razón del territorio y convengan las partes en su validez;
+
+IV.- Que se trate de incompetencia sobrevenida; y
+
+V.- Cuando la ley lo disponga expresamente.
 
 51.- La nulidad a que se refiere el artículo anterior es de pleno derecho y por tanto, no requiere declaración judicial. Los tribunales declarados competentes harán que las cosas se restituyan al estado que tenían antes de practicarse las actuaciones nulas. Lo dispuesto en este artículo admite las excepciones expresamente consignadas en la ley.
 
-> <small>(F. DE E., P.O. 17 DE ABRIL DE 1974)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-52.- Salvo los casos previstos en el artículo 49 de este Código, en todos los demás en que sea declarada improcedente la incompetencia alegada por las partes, aquélla que la hubiere hecho valer será condenada en costas en lo que se refiere al procedimiento que hizo nacer, y se le impondrá, además, una multa hasta de quinientos pesos.
+52.- Salvo los casos previstos en el artículo 49 de este Código, en todos los demás en que sea declarada improcedente la incompetencia, la parte que la hubiere hecho valer será condenada en costas generadas en el procedimiento que hizo nacer y se le impondrá además una multa de hasta doscientos salarios mínimos.
 
-53.- La excepción de litispendencia procede cuando un juez conoce ya del mismo negocio sobre el cual es demandado el reo. El que la oponga, debe señalar en su escrito respectivo, precisamente el juzgado donde se tramita el primer juicio, y presentará una copia autorizada de la primera demanda. Del escrito en que se oponga la excepción se dará traslado por tres días a la parte contraria, y el juez dictará su resolución dentro de las setenta y dos horas siguientes, pudiendo previamente mandar inspeccionar el primer juicio. Si declara procedente la excepción, dará por concluido el procedimiento instaurado ante él.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+53.- La excepción de litispendencia procede cuando un juez conoce ya del mismo negocio sobre el que se emplaza al demandado. El que la oponga, debe señalar en su escrito respectivo, precisamente el juzgado donde se tramita el primer juicio y presentar una copia autorizada de la primera demanda. Del escrito en que se oponga la excepción se dará traslado por tres días a la parte contraria y el juez dictará su resolución en la audiencia de conciliación y depuración del proceso, pudiendo previamente mandar inspeccionar el primer juicio. Si se declara procedente la excepción dará por concluido el procedimiento instaurado ante él.
 
 Si por no haberse opuesto oportunamente la excepción de litispendencia, se llegaren a pronunciar sentencias contrarias o contradictorias, de ellas prevalecerá la que primeramente haya causado ejecutoria.
 
-54.- El objeto de la excepción de conexidad es que un mismo Tribunal conozca de los litigios conexos y los resuelva por una misma sentencia, aun cuando los tramite por cuerda separada. Se entenderá que existe conexidad de litigios, cuando entre ellos haya identidad de personas, identidad de acciones o éstas provengan de una misma causa, y las cosas sean distintas.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-La parte que oponga la excepción de conexidad acompañará a su escrito copia autorizada de la demanda y contestación que iniciaron el juicio conexo. De este escrito se correrá traslado por tres días a la parte contraria, y dentro de las setenta y dos horas siguientes el juez resolverá, pudiendo previamente mandar inspeccionar el juicio diverso del que conoce y se ha señalado como causa de la excepción. Declarada procedente la excepción, el Tribunal que conoció de ella remitirá los autos respectivos al Tribunal que conoce del litigio conexo. Si la excepción se hubiere hecho valer en ambos juicios, y en los dos se declarare procedente, conocerá de ellos el Tribunal que haya tomado conocimiento del litigio más antiguo.
+54.- El objeto de la excepción de conexidad es que un mismo Tribunal conozca los litigios conexos y los resuelva por una misma sentencia, aún cuando los tramite por cuerda separada. Se entenderá que existe conexidad de litigios, cuando entre ellos haya identidad de personas, identidad de acciones o éstas provengan de una misma causa, y las cosas sean distintas.
+
+La parte que oponga la excepción acompañará a su escrito respectivo, copia autorizada de la demanda y contestación que iniciaron el juicio conexo. De este escrito se correrá traslado por tres días a la parte contraria y el Juez dictará su resolución en la audiencia de conciliación y depuración del proceso, pudiendo previamente mandar inspeccionar el juicio diverso del que conoce y se ha señalado como causa de la excepción.
+
+Declarada procedente dicha excepción, el Tribunal que conoció de ella remitirá los autos respectivos al que conoce del litigio conexo. Si la excepción se hubiere hecho valer en ambos juicios, y en los dos se declarare procedente, conocerá de ellos el que haya tomado conocimiento del litigio más antiguo.
 
 55.- No procederá la excepción de conexidad de litigios:
 
@@ -267,13 +323,25 @@ II.- Cuando se trate de juicios sumarios, o de diversa naturaleza;
 
 III.- Cuando los juzgados que conozcan respectivamente de los juicios que se señalan como conexos, sean de diverso fuero o de Entidades Federativas distintas.
 
-56.- La excepción de falta de personalidad o de capacidad en el actor o en el demandado, se substanciará corriendo traslado por tres días del escrito en que se oponga, a la parte contraria. Si el caso requiriera prueba, se abrirá un término para recibirla, el cual fijará el juez prudentemente según la naturaleza de la prueba que deba rendirse. Para este efecto, la parte que vaya a rendir las pruebas señalará en su escrito correspondiente, la que opuso la excepción en el que la hizo valer, y la contraria en el que evacúe el traslado, la naturaleza de la prueba. Recibida ésta, o concluido el término del traslado corrido a la parte contraria de la que opuso la excepción si la prueba no se hubiere promovido, el juez pronunciará su resolución dentro de tres días.
+56.- (DEROGADO, P.O. 10 DE FEBRERO DE 2001)
 
-57.- Las demás excepciones dilatorias se substanciarán con un escrito de cada parte, pronunciándose la resolución dentro de los tres días siguientes a la conclusión del término del traslado que deberá correrse del escrito en que se oponga la excepción, a la parte contraria. Para este efecto, la parte que haga valer la excepción, acompañará a su escrito relativo, las pruebas necesarias para fundar su derecho.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-58.- Las excepciones perentorias deben oponerse precisamente al contestar la demanda, y después de formulada esta contestación y fijados los puntos cuestionados, no se admitirá salvo lo dispuesto en el artículo siguiente, excepción alguna ni se permitirá al demandado que cambie la opuesta a menos que el actor conviniere en ello. Las excepciones procederán en juicio aun cuando no se exprese su nombre, con tal de que se hagan valer con precisión y claridad el hecho o hechos en que se hace consistir la defensa. No podrán oponerse excepciones o defensas contrarias o contradictorias, aun cuando sea con el carácter de subsidiarias.
+57.- Cuando se declare la improcedencia de la vía, su efecto será el de continuar el procedimiento para el trámite del juicio en la vía que se considere procedente, declarando la validez de lo actuado, sin perjuicio de la obligación que tiene el juez de regularizar el procedimiento.
 
-59.- Las sentencias ejecutoriadas, las transacciones y pagos judiciales, y cualquiera otro acto procesal que tenga fuerza de cosa juzgada, impiden se entable o continúe un nuevo juicio sobre las cuestiones resueltas. Si de hecho se promoviere o se continuare, podrá hacerse valer la excepción de cosa juzgada en cualquier estado de los autos y en cualquiera instancia después de que cause ejecutoria la resolución sobre la excepción de incompetencia si se hubiere opuesto; y se substanciará y decidirá en artículo de previo y especial pronunciamiento, con arreglo a las disposiciones que este Código establece para los incidentes. Si la excepción es declarada procedente, se condenará en costas, daños y perjuicios al litigante contra quien se diere, y se le impondrá además, de oficio, una multa hasta de dos mil pesos.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+58.- Las excepciones perentorias deben oponerse precisamente al contestar la demanda.
+
+Después de formulada la contestación y fijados los puntos cuestionados, no se admitirá, salvo lo dispuesto en el artículo siguiente, excepción alguna, ni se permitirá al demandado que cambie la opuesta a menos que el actor conviniere en ello.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+59.- Las sentencias ejecutoriadas, las transacciones y pagos judiciales y cualquier otro acto procesal que tenga fuerza de cosa juzgada, impiden se entable o continúe un nuevo juicio sobre las cuestiones resueltas.
+
+Si de hecho se promoviere o continuare, podrá hacerse valer la excepción de cosa juzgada en cualquier estado de los autos y en cualquier instancia después de que cause ejecutoria la resolución sobre la excepción de incompetencia si se hubiere opuesto. Se substanciará y decidirá en artículo de previo y especial pronunciamiento, con arreglo a las disposiciones que este Código establece para los incidentes.
+
+Si la excepción es declarada procedente, se condenará en costas, daños y perjuicios al litigante contra quien se diere, y se le impondrá además, de oficio, una multa de hasta doscientos salarios mínimos.
 
 ## TITULO SEGUNDO. REGLAS GENERALES DEL PROCEDIMIENTO
 
@@ -413,7 +481,15 @@ Las resoluciones judiciales firmes dictadas en negocios sobre alimentos, ejercic
 
 También podrán los tribunales imponer, por resolución escrita, correcciones disciplinarias a los secretarios, notificadores y demás empleados dependientes de aquéllos, por las faltas que cometen en el desempeño de sus funciones o labores respectivas.
 
-106.- Son correcciones disciplinarias: a).- El apercibimiento; b).- La multa hasta de quinientos pesos; c).- La suspensión hasta por un mes.
+106.- Son correcciones disciplinarias:
+
+a).- El apercibimiento;
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+b).- La multa hasta de veinte veces el salario mínimo;
+
+c).- La suspensión hasta por un mes.
 
 La multa, tratándose de obreros o jornaleros, no deberá exceder del importe de su jornal o sueldo en una semana. Tratándose de funcionarios o empleados públicos, la multa se calculará en días de sueldo, no debiendo exceder de quince días. Esto último tendrá también aplicación cuando se trate de empleados particulares.
 
@@ -457,7 +533,9 @@ a).- Cinco días para interponer el recurso de apelación de sentencia definitiv
 
 ### CAPITULO VI. De las notificaciones
 
-116.- Las notificaciones, citaciones y emplazamientos se efectuarán, lo más tarde, dentro de los dos días siguientes al en que se pronuncien las resoluciones que las prevengan, a no ser que éstas o la ley dispusieren otra cosa. Se impondrá de plano a los infractores de este artículo, una multa hasta de doscientos pesos.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+116.- Las notificaciones, citaciones y emplazamientos se efectuarán, lo mas tarde dentro de los dos días siguientes al en que se pronuncien las resoluciones que las prevengan, a no ser que éstas o la ley dispusieren otra cosa. Se impondrá de plano a los infractores de este artículo una multa de hasta cincuenta salarios mínimos.
 
 117.- Todas las resoluciones se notificarán a las partes; a los extraños al litigio, sólo en el caso en que la resolución así lo exprese, determinándose en ella precisamente la materia u objeto de la diligencia y los nombres de las personas con quienes deba practicarse.
 
@@ -485,7 +563,9 @@ Las demás notificaciones personales se harán al interesado, o a su representan
 
 121.- Sin perjuicio de lo dispuesto en el artículo anterior, cuando después de cerciorado el notificador de que la persona por notificar vive en la casa y se encontrare ausente de ella, y la persona con quien se entiende la notificación se niegue a recibir ésta, la notificación podrá hacerse en el lugar en que habitualmente trabaje la persona que debe ser notificada, sin necesidad de que el Tribunal dicte providencia especial para ello.
 
-122.- Cuando no se conociere el lugar en que la persona que debe ser notificada trabaje habitualmente conforme al artículo anterior, la notificación se podrá hacer en el lugar en donde se encuentre el interesado. En este caso, si la persona notificada se negare a firmar la notificación o no supiere hacerlo, lo hará a su ruego un testigo. Si no quisiere firmar ni presentar testigo que lo haga por ella, firmarán dos testigos requeridos al efecto por el notificador. Estos testigos no podrán negarse a hacerlo, y si rehusaren se les impondrá de plano una multa hasta de doscientos pesos.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+122.- Cuando no se conociere el lugar en que la persona que debe ser notificada trabaje habitualmente conforme al artículo anterior, la notificación se podrá hacer en el lugar en donde se encuentre el interesado. En este caso, si la persona notificada se negare a firmar la notificación o no supiere hacerlo, lo hará a su ruego un testigo. Si no quisiere firmar ni presentar testigo que lo haga por ella, firmarán dos testigos requeridos al efecto por el notificador. Estos testigos no podrán negarse a hacerlo, y si se rehusaren se les impondrá de plano una multa de hasta cien veces el salario mínimo.
 
 123.- Cuando la persona que por primera vez deba ser notificada se encontrare o residiere en punto distinto del lugar del juicio, pero dentro del mismo territorio judicial, se hará la notificación por conducto del Tribunal de la municipalidad donde se encuentre o resida, mediante despacho. Si se halla en otro distrito judicial o fuera del Estado, se librará exhorto al Tribunal respectivo, en el cual se insertará copia de la petición, de los documentos en que ésta se funde, y la resolución en cuya virtud se libra. No será necesario insertar en el exhorto la petición y documentos que la funden, cuando de ellos deban entregarse al interesado las copias simples correspondientes, las cuales para este efecto, se acompañarán al exhorto.
 
@@ -677,7 +757,21 @@ XIV.- Si él, su cónyuge o alguno de sus expresados parientes, siguen algún pr
 
 XV.- Si es tutor o curador de alguno de los interesados, o no han pasado tres años de haberlo sido.
 
-163.- Los magistrados, jueces, secretario y asesores, tienen el deber de excusarse del conocimiento de los negocios en que ocurre alguna de las causas expresadas en el artículo anterior, aun cuando las partes no los recusen. La excusa debe proponerse inmediatamente que se avoquen al conocimiento de un negocio de que no deben conocer por impedimento, o dentro de las veinticuatro horas siguientes de que ocurra el hecho que origina el impedimento si dentro de las mismas tienen conocimiento de él, o a contar de las siguientes veinticuatro horas de que lo hayan tenido, y ordenarán desde luego la remisión de los autos al Tribunal que deba substituirlos en el conocimiento del negocio. Contra el auto en que se declare impedido un magistrado o juez o en el que éstos admitan la excusa de sus secretarios, no cabrá ningún recurso. Cuando la excusa haya sido formulada sin causa legítima, la parte que se considere agraviada pondrá el hecho en conocimiento del Procurador General de Justicia para los efectos legales a que hubiere lugar.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+163.- Los magistrados, jueces, secretarios y asesores, tienen el deber de excusarse del conocimiento de los negocios en que ocurra alguna de las causas expresadas en el artículo anterior, aun cuando las partes no los recusen, debiendo expresar concretamente la causa en que se funde.
+
+La excusa debe proponerse inmediatamente que se avoquen al conocimiento de un negocio del que no deben conocer, o dentro de las veinticuatro horas siguientes a que tengan conocimiento de la existencia del hecho que origina el impedimento, ordenando desde luego la remisión de los autos al Tribunal que deba substituirlos en el conocimiento del negocio.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+163 Bis.- Cuando alguna de las partes, el juez o magistrado que deba conocer del asunto motivo de la excusa, consideren que esta carece de causa legítima, manifestarán su inconformidad dentro de las veinticuatro horas siguientes a la fecha en que surta sus efectos la resolución en que se excusó el funcionario, misma que será resuelta por la Sala de apelación o por el Pleno, según sea el caso.
+
+Para tales efectos, la solicitud respectiva deberá presentarse ante el funcionario que ha dejado de conocer del asunto, quien enviará a su superior informe detallado de la cuestión acompañándolo de las pruebas que estime pertinentes.
+
+Si se justifica que la excusa no tuvo causa legítima, la autoridad revisora ordenará que el asunto vuelva al tribunal del funcionario excusado e impondrá a éste la corrección disciplinaria que estime adecuada.
+
+Para el trámite y calificación de la ilegitimidad de la excusa, se aplicarán, en lo conducente las reglas establecidas para la recusación.
 
 ### CAPITULO II. De la recusación
 
@@ -717,7 +811,11 @@ VI.- Cuando los asesores sólo deban consultar sobre determinaciones de mero tr�
 
 #### SECCION CUARTA. De los efectos de la recusación
 
-172.- Entre tanto se califica y decide la recusación, ésta suspende la jurisdicción del funcionario recusado.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+172.- Entre tanto se califica o decide, la recusación no suspende la jurisdicción del tribunal o del juez, por lo que se continuará con la tramitación del procedimiento.
+
+Si la recusación se declara fundada, será nulo lo actuado por el funcionario recusado, a partir de la fecha en que se interpuso la recusación.
 
 173.- Declarada procedente la recusación, termina la jurisdicción del magistrado o juez, o la intervención del Secretario o asesor, en el negocio de que se trate.
 
@@ -729,21 +827,29 @@ VI.- Cuando los asesores sólo deban consultar sobre determinaciones de mero tr�
 
 176.- Los tribunales desecharán de plano toda recusación que no estuviere hecha en tiempo, o que no se funde en alguna de las causas a que se refiere el artículo 162 de este Código. Su desechamiento lo hará el Tribunal que deba conocer de la recusación, al tiempo de avocarse el conocimiento de ella.
 
-177.- Toda recusación se interpondrá ante el juez o magistrado que conozca del negocio, expresándose con toda claridad y precisión la causa en que se funda.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-Interpuesta la recusación, el magistrado o juez recusado remitirá inmediatamente los autos al Tribunal que deba decidirla conforme a la Ley Orgánica del Poder Judicial, emplazando al recusante para que, dentro del término de cinco días ocurra ante el superior a seguir la substanciación de la recusación. El funcionario recusado, al remitir los autos al superior, remitirá también un informe sobre los hechos en que la recusación se funde.
+177.- Toda recusación se interpondrá ante el juez o magistrado que conozca del negocio, expresándose con toda claridad y precisión la causa en que se funda, remitiendo aquél de inmediato testimonio de las actuaciones respectivas a la autoridad competente para resolver la recusación y un informe sobre los hechos en que la recusación se funde.
 
-Los magistrados y jueces que conozcan de una recusación, son irrecusables para sólo este efecto.
+Los magistrados y jueces que deban conocer y resolver una recusación, son irrecusables para sólo este efecto.
 
-178.- Recibidos los autos y el informe a que se refiere el artículo anterior por el Tribunal que debe decidir la recusación, hará saber la llegada de los mismos al recusante. Si el funcionario recusado omitiera remitir oportunamente los autos o el informe, de oficio o a petición de parte el superior le ordenará su inmediata remisión.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+178.- Recibidos el testimonio y el informe a que se refiere el artículo anterior por el Tribunal que debe decidir la recusación, hará saber la llegada de los mismos al recusante y dictará la resolución correspondiente.
+
+Si el funcionario recusado omitiera remitir oportunamente el testimonio o el informe, de oficio o a petición de parte el superior le ordenará su inmediata remisión.
 
 179.- El Tribunal que conozca de la recusación abrirá el asunto a prueba, de oficio o a petición de parte, cuando lo juzgue necesario; y serán admisibles todos los medios de prueba establecidos en este Código, incluso la confesión del funcionario recusado y de la parte contraria al recusante.
 
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-180.- Si se declarare improcedente o no probada una causa de recusación, se impondrá al recusante una multa hasta de cincuenta veces el salario mínimo general, vigente en la ciudad de Chihuahua en la fecha en que se haga valer la recusación.
+180.- Si se declara improcedente o no probada una causa de recusación, se impondrá al recusante una multa de hasta doscientas veces el salario mínimo.
 
-181.- Si en la sentencia se declara que procede la recusación, volverán los autos al Juzgado o Sala de su origen con testimonio de aquella resolución, para que a su vez los remita al Tribunal que corresponda. Si se desechare, se declarare improcedente, o no se hubiere probado la causa de la recusación, volverán los autos al funcionario recusado para que continúe el procedimiento.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+181.- Si en la sentencia se declara que procede la recusación, se enviara al Juzgado o Sala de su origen testimonio de aquella resolución, para que a su vez remita al tribunal que corresponda los autos del procedimiento en que se inicio la recusación.
+
+Si se desechare, se declarare improcedente, o no se hubiere probado la causa de la recusación, se comunicara al funcionario recusado para los efectos legales consiguientes.
 
 182.- Las recusaciones de los secretarios se substanciarán en los términos que señalan los artículos anteriores, rindiendo el secretario su informe al dar cuenta a su superior, con el escrito o promoción de recusación.
 
@@ -786,6 +892,34 @@ VIII.- Pidiendo el examen de testigos para probar alguna excepción, siempre que
 191.- Promovido el juicio, el Tribunal, a solicitud del que hubiere pedido la preparación, mandará agregar las diligencias practicadas para que surtan sus efectos.
 
 192.- Si el tenedor del documento o cosa mueble fuere el mismo a quien se va a demandar, y sin causa alguna se negare a exhibirlos, se le apremiará por los medios legales, y sí aún así se resistiere a la exhibición, o destruyere, deteriorare u ocultare aquéllos, o con dolo o malicia dejare de poseerlos, satisfará todos los daños y perjuicios que se hayan seguido, quedando además sujeto a la responsabilidad en que hubiere incurrido. Si alegare alguna causa para no hacer la exhibición, se le oirá con arreglo a las disposiciones relativas a los incidentes.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+192 Bis.- Quien pretenda evitar un litigio futuro, puede ocurrir ante el Juez competente en turno, para que procure la conciliación respecto a las cuestiones controvertidas.
+
+Recibida que sea la solicitud, el Juez fijará fecha dentro de los ocho días siguientes, para la celebración de la junta de conciliación, citando a los interesados personalmente para que concurran a ella, asistidas de su abogado o persona de su confianza que los asesore.
+
+Cuando se trate de indígenas o personas en extrema pobreza, el Juez le designará un defensor de oficio.
+
+La junta se desarrollará de la manera siguiente:
+
+I.- El Juez escuchará las pretensiones y razonamientos que exponga el solicitante, así como la defensa que argumente la persona cuya citación se solicitó;
+
+II.- Orientará a los interesados para encontrar por ellos mismos la solución de su problema;
+
+III.- De no lograrse un mutuo entendimiento, el Juez propondrá la solución que su criterio le dicte; y
+
+IV.- Cualquiera que sea el resultado, se levantará el acta correspondiente que firmarán los intervinientes ante la presencia judicial y cuando se haya llegado a un avenimiento, se consignarán las estipulaciones.
+
+Si el Juez considera que el convenio se ajusta a derecho, lo aprobará, dándole vista a las partes para que dentro de tres días manifiesten lo que a sus intereses convenga.
+
+Transcurrido el plazo, si las partes lo ratifican, lo elevará a la categoría de sentencia ejecutoriada condenándolas a estar y pasar por él como cosa juzgada.
+
+En caso de que no se llegare a ningún arreglo, se dará por terminado el procedimiento dejando constancia de ello, quedando a salvo los derechos de las partes para promover a lo que a sus intereses convenga en el procedimiento pertinente. En este caso, las expresiones vertidas durante la diligencia por el Juez o por los interesados, no tendrán eficacia probatoria alguna.
+
+La junta de conciliación, a petición de los interesados, podrá repetirse por una sola vez dentro de los ocho días siguientes, sin que su celebración o el término que dure el trámite afecte al derecho de los mismos.
+
+El conocimiento del asunto no creará prevención en el Juzgador y además estará impedido para conocer del asunto cuando se plantee el juicio en el que se pretenda dilucidar la cuestión analizada.
 
 ### CAPITULO II. Medios preparatorios del juicio ejecutivo
 
@@ -959,43 +1093,113 @@ El que haya obtenido la providencia de suspensión provisional de una obra nueva
 
 ## TITULO SEXTO. DEL JUICIO ORDINARIO
 
-### CAPITULO I. De la demanda, de su contestación y de la fijación de los puntos cuestionados
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2001)</small>
 
-248.- Todas las contiendas entre partes, que no tengan señalada en este Código tramitación especial, se ventilarán en juicio ordinario, siendo aplicables las disposiciones de este Capítulo, en lo conducente, a los demás juicios que establece este Código.
+### CAPITULO I. De la demanda, de su contestación, de la rebeldía, de la fijación de la litis, y de la audiencia de conciliación y depuración procesal
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+248.- Todas las contiendas entre partes, que no tengan señalada en este Código tramitación especial, se ventilarán en proceso ordinario, siendo aplicables las disposiciones de este Capítulo a los demás procedimientos y procesos que establece este Código, en la reglamentación del procedimiento de depuración del proceso.
 
 249.- El juicio principiará por la demanda, en la cual se expresarán con claridad y precisión los hechos, los fundamentos de derecho, la acción que se intenta, la persona contra quien se promueve el juicio y la petición que se deduzca de los antecedentes referidos.
 
-250.- Con la demanda debe presentar el actor los documentos a que se refieren los artículos 82 y 83 de este Código, y además, los que acrediten o funden la acción intentada cuando conforme al Código Civil, los derechos o contratos en que la acción se apoye, deben constar por escrito para ser válidos.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-Entablada la demanda, no se admitirán al actor otros documentos para acreditar o fundar su acción, que los de fecha posterior; los que no le haya sido posible adquirir con anterioridad por causas que no le son imputables, si en este caso hubiere designado en la misma demanda el archivo o lugar en que se encuentran los originales; y los de fecha anterior a la demanda, cuando con respecto a éstos, bajo protesta de decir verdad asevere el actor que no tuvo antes conocimiento de su existencia.
+250.- Con la demanda el actor debe adjuntar los siguientes documentos:
 
-251.- Si la demanda fuere obscura o irregular, el juez prevendrá al actor que dentro de tres días la aclare, corrija o complete de acuerdo con lo dispuesto en los dos artículos anteriores, para lo cual señalará las omisiones o defectos que a su juicio contiene la demanda. Si el actor no cumpliere con la prevención a que se refiere el párrafo que antecede dentro del término fijado, el juez, de oficio, desechará la demanda siendo su resolución apelable en ambos efectos.
+I.- Los que acrediten o funden la acción, cuando conforme al Código Civil, los derechos o contratos en que la acción se apoye, deban constar por escrito para ser válidos;
 
-252.- Cuando la demanda reúna los requisitos fijados en los artículos anteriores, la admitirá el juez y dispondrá que de ella se corra traslado a la persona o personas contra quienes se proponga, y las emplazará para que dentro de nueve días la contesten, si es que residen o se encuentran en el lugar en que debe seguirse el juicio, estándose para los demás casos, a lo dispuesto en el artículo 111 y en el Capítulo VI del Título Segundo de este Código.
+II.- Aquellos que prueben la representación que ostente; y
 
-253.- Los efectos de la presentación de la demanda son: Interrumpir la prescripción con arreglo a las disposiciones relativas del Código Civil, si no lo está por otros medios; señalar el principio de la instancia; y determinar el valor de las prestaciones exigidas cuando aquél no pueda extenderse a otro tiempo.
+III.- Las copias simples necesarias para el traslado.
 
-254.- Los efectos del emplazamiento son: Prevenir el juicio en favor del juez que lo inicia; sujetar al emplazado a seguir el juicio ante el juez que lo emplazó siendo competente al tiempo de la citación, aunque después deje de serlo con relación al demandado porque éste cambie de domicilio, o por otro motivo legal; obligar al demandado a contestar ante el juez que lo emplazó, salvo siempre el derecho de provocar la incompetencia; producir todas las consecuencias de la interpelación judicial, si por otros medios no se hubiere constituido ya en mora el obligado; y originar el interés legal en las obligaciones pecuniarias sin causa de réditos.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-255.- El demandado deberá contestar la demanda dentro del término fijado en el emplazamiento, cuando no se hubieren opuesto excepciones dilatorias en el plazo fijado por este Código; y si éstas se hubieren opuesto y substanciado, dentro de nueve días contados en la forma siguiente: a).- Desde el día siguiente a la notificación de la resolución que haya declarado improcedentes las excepciones opuestas, si contra aquélla no se interpuso apelación o el recurso fuere desechado; b).- Desde el día siguiente a la notificación del auto del juez que haga saber a las partes la llegada de la ejecutoria de segunda instancia que las deseche.
+251.- Si a criterio del Juez la demanda fuere oscura o irregular, prevendrá al actor para que dentro de tres días la aclare, corrija o complete de acuerdo con lo dispuesto en los dos artículos anteriores, para lo cual señalará las omisiones o defectos que a su juicio contiene la demanda.
 
-El auto que deseche las excepciones dilatorias opuestas por estimar su interposición extemporánea o por no tener aquél carácter, deberá dictarse dentro de las veinticuatro horas siguientes a la presentación del escrito respectivo, sin que se considere interrumpido el término para contestar la demanda. Este auto será apelable en el efecto devolutivo.
+Si el actor no cumpliere con la prevención a que se refiere el párrafo que antecede, el Juez, de oficio, desechará la demanda, cuya resolución será apelable en ambos efectos.
 
-256.- La contestación de la demanda se formulará sujetándose a las reglas establecidas para la demanda, aplicándose en su caso y en lo conducente, lo dispuesto en el artículo 250. En ella deberá el demandado proponer simultáneamente con las excepciones perentorias que tuviere, la reconvención o compensación que tenga derecho a ejercitar, debiendo presentar en el caso de que haga uso de éstas últimas, las copias simples correspondientes, quedándole a salvo su derecho para hacerlas valer en juicio diverso, si no las ejercitare en la forma expresada.
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+251 Bis.- Radicada la demanda, no se admitirán al actor otros documentos para acreditar o fundar su acción excepto:
+
+a).- Aquellos de fecha posterior.
+
+b).- Los que no le haya sido posible obtener con anterioridad por causas que no le sean imputables, si en este caso hubiere designado en la misma demanda el archivo o lugar en que se encuentran los originales; y
+
+c).- Los de fecha anterior a la demanda, cuando con respecto a éstos, bajo protesta de decir verdad asevere el actor que no tuvo antes conocimiento de su existencia, y que además no introduzcan elementos nuevos a los puntos que conforman la litis.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+252.- Cuando la demanda reúna los requisitos fijados en los artículos anteriores, la admitirá el juez y ordenará que se corra traslado a la parte demandada y emplazarla para que dentro de nueve días la conteste, si es que reside o se encuentra en el lugar en que debe seguirse el proceso, estándose para los demás casos, a lo dispuesto en el artículo 111 y en el Capítulo VI del Título Segundo de este Código.
+
+Asimismo, hará saber a la parte demandada que las excepciones dilatorias se estudiarán y resolverán, concurran o no las partes, en la audiencia previa de depuración procesal.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+253.- Los efectos de la presentación de la demanda son:
+
+a).- Interrumpir la prescripción con arreglo a las disposiciones relativas del Código Civil, si no lo está ya consumada por otros medios.
+
+b).- Señalar el principio de la instancia.
+
+c).- Determinar el valor de las prestaciones exigidas, cuando aquél no pueda extenderse a otro tiempo.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+254.- Los efectos del emplazamiento son:
+
+a).- Prevenir el proceso en favor del juez que lo inicia.
+
+b).- Sujetar al emplazarlo a seguir el proceso ante el juez que lo emplazó siendo competente al tiempo de la citación, aunque después deje de serlo con relación al demandado, sea por que éste cambie de domicilio, o por otro motivo legal.
+
+c).- Crear la potestad del demandado de contestar ante el juez que lo emplazó, salvo el derecho de promover la incompetencia.
+
+d).- Producir todas las consecuencias de la interpelación judicial, si por otros medios el obligado no se hubiere constituido ya en mora; y
+
+e).- Originar el interés legal en las obligaciones pecuniarias sin causa de réditos.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+255.- El demandado deberá contestar la demanda dentro del plazo fijado en el auto de radicación. En la contestación propondrá la reconvención en los casos en que proceda. Las excepciones perentorias y la reconvención se discutirán al propio tiempo y se decidirán en la misma sentencia.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+256.- La contestación de la demanda se formulará sujetándose a las reglas establecidas para la demanda, aplicándose en su caso, y en lo conducente, lo dispuesto en el artículo 250.
 
 Si se opusiere como única excepción la de cosa juzgada, se procederá en la forma establecida en el artículo 59 de este Código.
 
-257.- Si en la contestación a la demanda se opusiere reconvención o compensación, se correrá traslado al actor por seis días, siguiendo después el juicio su curso legal, discutiéndose aquéllas al mismo tiempo que las excepciones que se hubieren opuesto y decidiéndose en la misma sentencia.
+El demandado que oponga la reconvención deberá presentar las copias simples para el traslado, quedando a salvo sus derechos para hacer valer su acción reconvencional en juicio diverso si no cumpliere con este requisito.
 
-258.- Transcurrido el término del emplazamiento sin que el demandado haya dado contestación a la demanda, se hará la declaración de rebeldía y se mandará recibir el negocio a prueba con arreglo a las disposiciones del Capítulo VI del Título Séptimo de este Código.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-Se presumen confesados los hechos de la demanda que se dejó de contestar.
+257.- Si en la contestación a la demanda se opusiere reconvención o compensación, se correrá traslado al actor por nueve días para que la conteste, siguiendo después el proceso su curso legal, discutiéndose aquéllas al mismo tiempo que las excepciones que se hubieren opuesto y decidiéndose en la misma sentencia.
 
-259.- Contestada la demanda, se tendrá al demandado por conforme con todos los hechos sobre los que explícitamente no se haya suscitado controversia en razón de no haberlos negado, refutado de diversa manera, o expresado que los ignora. Sobre los hechos no impugnados a que se refiere este artículo no se admitirá prueba en contrario.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+258.- El litigante que no conteste la demanda será declarado rebelde sin necesidad de que medie petición de la parte contraria.
+
+Igualmente será declarado rebelde cuando el que haya sido arraigado, quebrante el arraigo sin dejar apoderado instruido.
+
+Se presumen confesados los hechos de la demanda que se dejo de contestar.
+
+A la omisión de contestar la reconvención o compensación le serán aplicables las disposiciones relativas a la falta de contestación de la demanda.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+259.- Contestada la demanda, se tendrá al demandado por conforme con todos los hechos sobre los que explícitamente no se haya suscitado controversia en razón de no haberlos negado, refutado de diversa manera, o expresado que los ignora.
+
+Con relación de los hechos no impugnados a que se refiere este artículo, no se admitirá prueba en contrario.
 
 260.- Confesada la demanda en todas sus partes, se dará por concluida la controversia y se dictará sentencia, procediendo a la ejecución por quien corresponda. Si la confesión no afecta a toda la demanda, continuará su curso legal el procedimiento sin que se admita prueba en contrario sobre el punto confesado. En su caso se observará lo dispuesto en los artículos 264 y 374 de este Código.
 
-261.- La fijación de la litis quedará establecida al contestarse o tenerse por contestada la demanda y, en su caso, al contestar el actor sobre la reconvención o compensación propuestas por el demandado o al transcurrir el término fijado para dar esta contestación. Si el juez lo estimare necesario para fijar con claridad y precisión los puntos cuestionados, podrá citar a las partes antes de abrir el juicio a prueba en su caso, a una junta que se celebrará dentro de los ocho días siguientes al en que se tuvo por presentada la demanda, y en su caso, por presentado el escrito de reconvención o compensación. Esta audiencia será verbal y en ella se observarán las reglas siguientes:
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+261.- La litis quedará fijada al contestarse o tenerse por contestada la demanda, o por el auto en que se haga la declaración de rebeldía y en su caso, al contestar el actor la reconvención o compensación propuestas por el demandado, o transcurrir el plazo fijado para producirla sin haberlo hecho.
+
+Si el Juez lo estimare necesario, para fijar con claridad y precisión los puntos cuestionados, antes de abrir el proceso a prueba en su caso, podrá citar a las partes a una junta que celebrará dentro de los ocho días siguientes al en que se tuvo por contestada la demanda, y en su caso, por contestado el escrito de reconvención o compensación.
+
+Esta audiencia será verbal y en ella se observarán las reglas siguientes:
 
 I.- El actor deberá confesar, negar o explicar los hechos que adujo el demandado en su contestación;
 
@@ -1003,15 +1207,57 @@ II.- El demandado deberá confesar, negar o explicar los hechos que para destrui
 
 III.- El silencio y respuestas evasivas de las partes se tendrán como confesión de los hechos a que se refieren;
 
-IV.- No se requiere acta pormenorizada de la junta siendo bastante el que se haga constar en ella los puntos controvertidos, entendiéndose que hay conformidad de las partes con todos los demás;
+IV.- No se requiere acta pormenorizada de la junta, siendo bastante el que se hagan constar en ella los puntos controvertidos, entendiéndose que hay conformidad de las partes con todos los demás;
 
-V.- Debe el juez, con toda energía, reprimir digresiones y alegatos de los litigantes, compeliéndolos a responder llanamente sobre los hechos de la demanda y su contestación.
+V.- El Juez, con el propósito de evitar disgresiones y alegatos inútiles, compelerá a los litigantes para que respondan llanamente sobre los hechos de la demanda y su contestación.
 
-262.- Las excepciones supervenientes se harán valer hasta antes de la sentencia y dentro del tercer día de que tenga conocimiento la parte. Se substanciarán incidentalmente y su resolución se reservará para la sentencia.
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-263.- El juez recibirá el juicio a prueba en el caso de que alguno de los litigantes lo haya solicitado, o de que él lo estime necesario. Contra el auto en que se ordene que el juicio se reciba a prueba no cabrá recurso alguno; aquél en que se niegue será apelable en ambos efectos.
+261 Bis.- Si las cuestiones controvertidas fueren puramente de derecho y no de hecho, una vez fijada la litis, se correrá traslado a las partes por un plazo común de cinco días para que aleguen una vez concluido, se citará para sentencia.
 
-264.- Si las cuestiones controvertidas fueren puramente de derecho y no de hecho, una vez fijada la litis, se correrá traslado a las partes por cinco días a cada una para que aleguen y, concluido este término, se citará para sentencia, debiendo pronunciarse aquélla dentro de ocho días. No incurrirá en morosidad el juez que dejare de dictar la sentencia dentro del plazo señalado si se encuentra en el caso previsto en el artículo 98 de este Código.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+262.- Del auto en virtud del cual quede fijada la litis, se dará vista por tres días a la contraria con las excepciones dilatorias opuestas.
+
+Al contestar la vista se presentará (sic) u ofrecerán las pruebas para el objeto a que se refiere el artículo siguiente.
+
+Evacuado el traslado, o fenecido el plazo, el juez señalará día y hora para la celebración de la audiencia de conciliación y depuración procesal, citando a las partes materiales para dentro de los diez días posteriores.
+
+La citación se hará en forma personal.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+263.- Si una o ambas partes no concurrieran sin causa justificada a la audiencia que se señala en el artículo anterior, el juez la sancionará con una multa hasta por los montos establecidos en el inciso b) del artículo 106 de este Código. En todo caso el juez procederá a examinar las cuestiones relativas a la depuración del juicio.
+
+Si asistieren las dos partes el juez procederá a procurar la conciliación, proponiendo en su caso alternativas de solución al litigio. Si los interesados llegan a un convenio, el juez lo aprobará de plano si procede legalmente y dicho pacto tendrá fuerza de cosa juzgada.
+
+En caso de desacuerdo entre los litigantes la audiencia proseguirá y el juez, que dispondrá de amplias facultades de dirección procesal, examinará, en su caso, las excepciones dilatorias propuestas, la excepción de cosa juzgada si se hubiere opuesto hasta ese momento y los presupuestos procesales, resolviendo con base en las pruebas presentadas.
+
+Si se objetó la capacidad o representación procesal, y fuere subsanable conforme a las pruebas que en su caso se hubieren presentado al contestar la vista a que alude el artículo 262, el juez resolverá lo conducente.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+264.- Si se alegaren defectos en la demanda, contestación, reconvención o compensación, de los descritos en el artículo 250, el juez dictará las medidas conducentes para subsanarlos.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+264 a.- Si estuviere pendiente de resolverse cualquier conflicto competencial, se estará al resultado de la resolución que lo dirima, de acuerdo a lo dispuesto por el artículo 50.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+264 b.- Cualquier cuestión que se resuelva en esta audiencia será apelable en el efecto devolutivo.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+264 c.- Las demás excepciones y la reconvención, se decidirán en la definitiva, aplicándose en su caso el último párrafo del artículo 59.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+264 d.- Para el solo efecto de regularizar el proceso, los jueces podrán ordenar, aún fuera de esta audiencia, que se subsane cualquier omisión o deficiencia que notaren.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+264 e.- El juez recibirá el juicio a prueba en el caso de que alguno de los litigantes lo haya solicitado o de que él lo estime necesario. Contra el auto en el que se ordene que el juicio se reciba a prueba no cabrá recurso alguno; aquél en que se niegue será apelable en ambos efectos.
 
 ### CAPITULO II. De la prueba
 
@@ -1045,9 +1291,13 @@ IV.- Cuando la negativa fuere elemento constitutivo de la acción.
 
 Los daños y perjuicios que se ocasionen a tercero por comparecer o exhibir cosas o documentos, serán indemnizados por la parte que ofreció la prueba o por ambas si el Tribunal procedió de oficio sin perjuicio de hacer la regulación de costas en su oportunidad.
 
-274.- Las diligencias de prueba sólo podrán practicarse dentro del término probatorio bajo la sanción de nulidad y responsabilidad del juez. Se exceptúan aquellas diligencias que, ofrecidas en tiempo legal, no pudieron practicarse por causas independientes del interesado o por caso fortuito, fuerza mayor o dolo del contrincante; en estos casos, previa solicitud del interesado se podrá ordenar concluirlas o recibirlas dando conocimiento de ellas a las partes y señalando al efecto un término prudente, por una sola vez. Si la parte contraria se opusiere a esa recepción de pruebas, y el juez lo juzgare necesario, recibirá el punto a prueba para acreditar los hechos que funden el caso de excepción, abriendo para este efecto un término de cinco días, y dentro de las veinticuatro horas siguientes a su conclusión, resolverá lo que proceda.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-275.- Fuera de los casos de excepción señalados en el artículo anterior, sólo son admisibles después del término de prueba y hasta antes de la citación para sentencia, y sin que ello suspenda el curso del juicio, la confesión y los documentos que en la demanda, en la contestación o dentro del término probatorio hubiesen sido designados y pedidos conforme a los artículos 250, 256 y 274, y no se recibieren en el Tribunal hasta después de concluido dicho término.
+274.- Excepto los casos señalados por la ley, las diligencias de prueba sólo podrán practicarse dentro del término probatorio bajo la sanción de nulidad y responsabilidad del Juez.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+275.- Fuera de los casos de excepción señalados en el artículo anterior, sólo son admisibles después del término de prueba y hasta antes de la citación para sentencia, y sin que ello suspenda el curso del juicio, la confesión, la pericial, la testimonial de testigo hostil y los documentos que en la demanda, en la contestación o dentro del término probatorio hubiesen sido designados y pedidos conforme a los artículos 251 bis y 256, y no se recibieron en el Tribunal hasta después de concluido dicho término.
 
 276.- Los tribunales tomarán en consideración, aunque las partes no lo pidan dentro del término probatorio, las constancias de autos y los documentos que hubieren acompañado a la demanda y a la contestación, respectivamente, estimándolos para los efectos legales con el valor probatorio que por sí mismos les corresponde.
 
@@ -1095,7 +1345,9 @@ III.- Que se designen, en su caso, los archivos públicos o particulares donde s
 
 IV.- Que se exhiba el certificado de depósito de la cantidad que como multa fije el juez conforme al artículo siguiente. La exhibición del certificado se hará dentro de los tres días siguientes al de la notificación del auto en que se fije la cantidad que debe depositarse en la oficina de rentas del lugar, a reserva de resolver sobre si es de concederse o no el término extraordinario. No haciéndose la exhibición dentro del plazo fijado, se tendrá al interesado por desistido de su solicitud, sin recurso alguno.
 
-284.- El litigante a quien se hubiere concedido la dilación extraordinaria y no rindiese las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante a juicio del juez, será condenado, al extinguirse el periodo probatorio, a pagar una multa de quinientos a tres mil pesos y a la indemnización de daños y perjuicios.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+284.- El litigante a quien se hubiera concedido la dilación extraordinaria y no rindiese las pruebas que hubiera propuesto, sin justificar que para ello tuvo impedimento bastante a juicio del juez, será condenado, al extinguirse el periodo probatorio, a pagar una multa de ciento cincuenta a trescientas veces el salario mínimo y al pago de daños y perjuicios.
 
 285.- El término extraordinario de prueba correrá desde el día siguiente al de la notificación del auto en que se otorgue, sin perjuicio de que el ordinario que se hubiese concedido se dé por concluido al vencerse. El juez, teniendo en consideración las distancias y la facilidad o dificultad de las comunicaciones, señalará dentro de los plazos que enseguida se establecen, el término que estime bastante para la recepción de la prueba ofrecida:
 
@@ -1265,7 +1517,11 @@ V.- Las firmas puestas en actuaciones judiciales en presencia del secretario del
 
 C.- De la prueba pericial
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
 330.- La prueba pericial procede cuando sean necesarios conocimientos especiales en alguna ciencia, arte o industria o la disponga la ley; y se ofrecerá expresando los puntos sobre los que debe versar y las cuestiones que deben resolver los peritos.
+
+Podrá desahogarse hasta antes de citación para sentencia.
 
 331.- Los peritos deben tener título en la ciencia o arte a que pertenezca el punto sobre el que ha de oírse su parecer, si la profesión o arte estuvieren legalmente reglamentados. Si no lo estuvieren, o estándolo no hubiere peritos titulados en el lugar, podrán ser nombrados cualesquiera personas entendidas en la materia de que se trate.
 
@@ -1289,7 +1545,9 @@ V.- Cuando el designado por los litigantes no se encontrare en el lugar del juic
 
 335.- Cuando a la práctica de la diligencia deba de concurrir el juez, concurrirá también el perito tercero en discordia y se observarán las reglas siguientes:
 
-I.- El perito que dejare de concurrir sin causa justa, calificada por el juez, incurrirá en una multa hasta de doscientos pesos y será responsable de los daños causados por su culpa, observándose lo previsto en el artículo 350 de este Código;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2001)</small>
+
+I.- El perito que dejare de concurrir sin causa justa, calificada por el juez, incurrirá en una multa de hasta doscientas veces el salario mínimo y será responsable de los daños causados por su culpa, observándose lo previsto en el artículo 350 de este Código;
 
 II.- Los peritos practicarán unidos la diligencia y las partes podrán en el acto de ella hacerles cuantas observaciones consideren pertinentes; pero deberán retirarse para que los peritos discutan y deliberen solos;
 
@@ -1305,7 +1563,9 @@ II.- Tener interés directo o indirecto en el juicio, o en otro semejante;
 
 III.- Ser socio, inquilino, arrendador, amigo íntimo o enemigo manifiesto de alguna de las partes.
 
-El litigante que haga valer la recusación deberá presentar, al formularla, las pruebas necesarias para demostrar la causa que se alegue, y el juez de plano la calificará. Contra el auto en que se admite o deseche la recusación no procederá recurso alguno. Si la recusación se admitiera, se nombrará nuevo perito por el juez. En caso de que se rechazara la recusación, se impondrá al recusante una multa que no excederá de doscientos pesos.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+El litigante que haga valer la recusación deberá presentar, al formularla las pruebas necesarias para demostrar la causa que se alegue, y el juez de plano la calificará. Contra el auto en que se admite o se deseche la recusación no procederá recurso alguno. Si la recusación se admitiera, se nombrará nuevo perito por el juez. En caso de que se rechazará la recusación, se impondrá al recusante una multa de hasta doscientos salarios mínimos.
 
 338.- Cuando la ley fije bases a los peritos para formar su juicio, se sujetarán a ellas; pudiendo, sin embargo, exponer y fundar las consideraciones que en su concepto deban modificarlo en el caso de que se trate.
 
@@ -1325,7 +1585,11 @@ E.- De la prueba testimonial
 
 343.- Todos los que tengan conocimiento de los hechos que las partes deben probar, están obligados a declarar como testigos.
 
-344.- Los testigos serán citados a declarar cuando la parte que ofrezca su testimonio manifieste no poder por sí misma hacer que comparezcan. En caso de que el domicilio proporcionado por el oferente no resulte ser del testigo, o de comprobarse que se solicitó su citación con el propósito de obstruir el procedimiento, se impondrá al promovente una multa hasta de trescientos pesos, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido. En tal caso, la prueba testimonial deberá declararse desierta. Los testigos que citados legalmente se nieguen a comparecer, y los que habiendo comparecido se nieguen a declarar, serán apremiados por el Tribunal.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+344.- Los testigos serán citados a declarar cuando la parte que ofrezca su testimonio manifieste no poder por sí misma hacer que comparezcan. En caso de que el domicilio proporcionado por el oferente no resulte ser del testigo, o de comprobarse que se solicitó su citación con el propósito de obstruir el procedimiento, se impondrá al promovente una multa de hasta cien veces el salario mínimo, sin perjuicio de que se denuncie la falsedad en que se hubiere incurrido. En tal caso, la prueba testimonial deberá declararse desierta. Los testigos que citados legalmente se nieguen a comparecer, y los que habiendo comparecido se nieguen a declarar, serán apremiados por el Tribunal.
+
+El juez podrá ordenar la recepción de la declaración de testigos hostiles hasta antes de citación para sentencia.
 
 345.- A las personas de más de sesenta años y a los enfermos podrá el juez, según las circunstancias, recibirles su declaración en sus casas y en presencia de las partes si éstas hubieren concurrido.
 
@@ -2431,7 +2695,9 @@ Si en la primera reunión no fuere posible rectificar y graduar todos los crédi
 
 646.- Los acreedores podrán hacerse representar por apoderado o procurador. Quien represente a más de un acreedor sólo podrá tener como máximo hasta cinco votos, pero para entrar a formar mayoría por cantidades o capitales se computará el monto total de todos los créditos.
 
-647.- Si el síndico no presentare al dar principio la junta el informe a que se refiere el artículo 645 en la forma cabal en él indicada, perderá el derecho de cobrar honorarios y será removido de plano imponiéndosele, además, una multa hasta de cincuenta pesos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+647.- Si el síndico no presentare al dar principio la junta el informe a que se refiere el artículo 645 en la forma cabal en él indicada, perderá el derecho de cobrar honorarios y será removido de plano imponiéndosele, además, una multa de hasta quinientas veces el salario mínimo.
 
 El juez, en su caso, procederá a hacer la nueva designación de síndico, citándose de nuevo para la junta de rectificación y graduación para dentro de los ocho días siguientes a la conclusión del término que se haya concedido al nuevo síndico para la formación del informe, el que no podrá ser menor de quince días ni mayor de veinte, a contar de aquél en que se pongan a su disposición los libros, documentos y demás papeles necesarios para ese efecto.
 
@@ -3089,7 +3355,27 @@ Tratándose de resoluciones judiciales que califiquen de ilegales las posiciones
 
 824.- La apelación puede admitirse en el efecto devolutivo y en el suspensivo, o sólo en el primero. La apelación admitida en ambos efectos suspende desde luego la ejecución del auto o sentencia hasta que en segunda instancia se dicte la resolución correspondiente y ésta sea conocida por el inferior. La apelación admitida sólo en el efecto devolutivo, no suspende la ejecución de la sentencia o del auto apelados.
 
-825.- Salvo los casos expresamente exceptuados por la ley, procede la apelación en ambos efectos respecto de las siguientes resoluciones: a).- De las sentencias definitivas; b).- De los autos que resuelvan, en artículo de previo y especial pronunciamiento, sobre personalidad o capacidad de las partes y los que versen sobre nulidad de actuaciones o de notificaciones tramitadas con arreglo a las disposiciones de este Código sobre incidentes de previo pronunciamiento; c).- De aquéllos que declaren procedentes las excepciones dilatorias que se hayan hecho valer; d).- De los autos en que de oficio se desconozca la personalidad de un litigante. Los en que se reconozca sólo serán atacables mediante la interposición de la excepción correspondiente; e).- De aquéllos que declaren improcedentes las excepciones de litispendencia y de conexidad de litigios; f).- De autos que desechen una demanda y los denegatorios de prueba; g).- De las resoluciones que califiquen las posiciones o preguntas en las pruebas confesional y testimonial; h).- De aquellas otras resoluciones respecto de las que expresamente lo determine la ley.
+825.- Salvo los casos expresamente exceptuados por la ley, procede la apelación en ambos efectos respecto de las siguientes resoluciones:
+
+a).- De las sentencias definitivas;
+
+b).- De los autos que resuelvan, en artículo de previo y especial pronunciamiento, sobre personalidad o capacidad de las partes y los que versen sobre nulidad de actuaciones o de notificaciones tramitadas con arreglo a las disposiciones de este Código sobre incidentes de previo pronunciamiento;
+
+c).- De aquéllos que declaren procedentes las excepciones dilatorias que se hayan hecho valer;
+
+d).- De los autos en que de oficio se desconozca la personalidad de un litigante. Los en que se reconozca sólo serán atacables mediante la interposición de la excepción correspondiente;
+
+e).- De aquéllos que declaren improcedentes las excepciones de litispendencia y de conexidad de litigios;
+
+f).- De autos que desechen una demanda y los denegatorios de prueba;
+
+g).- (DEROGADO, P.O. 10 DE FEBRERO DE 2001)
+
+h).- De aquellas otras resoluciones respecto de las que expresamente lo determine la ley.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+La calificación de posiciones en la confesional y de preguntas en la testimonial, es irrecurible.
 
 826.- Serán apelables en el efecto devolutivo: a).- Los autos que, con excepción de los señalados en el artículo anterior, tengan fuerza de definitivos o lo disponga expresamente la ley, si además lo fuere la sentencia definitiva del juicio en que se dicten. Se entenderá que los autos tienen fuerza definitiva, cuando causen un gravamen que no puede repararse en la sentencia que decida el negocio en lo principal, salvo aquéllos que se refieran a la mera tramitación del juicio; b).- Los autos que declaren improcedentes las excepciones previstas en las fracciones V a VIII del artículo 36; c).- Las demás resoluciones respecto de las que la ley lo determine expresamente.
 
@@ -3165,7 +3451,9 @@ Si por cualquier motivo el certificado de denegada apelación no quedare termina
 
 845.- Cuando el juez no cumpliere con lo prevenido en el artículo 859, el interesado podrá ocurrir en queja ante el Presidente del Supremo Tribunal de Justicia, haciendo relación del auto o sentencia de que haya apelado, expresando la fecha en que se le hizo la notificación, la de interposición del recurso, y la determinación que a ésta haya recaído, y solicitará se libre orden al juez para que expida el certificado correspondiente.
 
-Presentado el escrito a que se refiere el párrafo anterior, el Presidente del Tribunal prevendrá al juez informe dentro de un plazo que no podrá exceder de tres días, sobre los hechos que en él se refieren; y si de tal informe resultaren comprobados éstos, ordenará al juez expida dentro del tercer día el certificado a que se refiere el artículo 859 imponiéndosele por la falta una multa de cinco a veinticinco pesos. Si no resultare justificada la queja, se declarará así y se mandará archivar el expediente.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+Presentado el escrito a que se refiere el párrafo anterior, el Presidente del Tribunal prevendrá al juez informe dentro de un plazo que no podrá exceder de tres días, sobre los hechos que en él se refieren; y si de tal informe resultaren comprobados éstos, ordenará al juez expida dentro del tercer día el certificado a que se refiere el artículo 859 imponiéndosele por la falta una multa de hasta cincuenta veces el salario mínimo. Si no resultare justificada la queja, se declarará así y se mandará archivar el expediente.
 
 846.- Si residen en el mismo lugar el juez y el Tribunal de apelación, el interesado se presentará a éste dentro de los tres días siguientes contados desde la fecha en que se le entregue el certificado de denegada apelación. Si el Tribunal de alzada reside en otro lugar, el juez señalará el término con arreglo a las disposiciones generales sobre la materia, haciéndolo constar al fin del certificado y dejando de todo, el secretario, razón en autos. Si el interesado no se presenta ante el superior respectivo con el certificado dentro del término fijado, se tendrá por desierto el recurso.
 
@@ -3535,7 +3823,11 @@ V.- La calificación de la excusa de la patria potestad en los casos a que se re
 
 VI.- La aclaración de actas del estado civil cuando se trate de errores gramaticales, mecanográficos, de letras o de palabras concernientes a la real identificación de la persona y no cuando se trata de los casos señalados por el artículo 24 de este Código.
 
-903.- La mujer menor de edad que deseando contraer matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar su depósito. Tanto en este caso, como en los que a continuación se expresan, no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias respectivas. Los casos a que se refiere el párrafo anterior son: el depósito de menores o incapacitados que se hallen sujetos a la patria potestad o a tutela y que fueren maltratados por sus padres o tutores, reciban de éstos ejemplos perniciosos a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes; y el depósito de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+903.- La mujer menor de edad que deseando contraer matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar su depósito. Tanto en este caso, como en los que a continuación se expresan, no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias respectivas.
+
+Los casos a que se refiere el párrafo anterior son: el depósito de menores o incapacitados que se hallen sujetos a la patria potestad o a tutela y que fueren maltratados por sus padres o tutores, reciban de éstos ejemplos perniciosos a juicio de juez o sean obligados por ellos a cometer actos reprobados por las leyes; y el depósito de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
 
 > <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE MAYO DE 1981)</small>
 
@@ -3553,15 +3845,15 @@ I.- El Juez estará facultado para intervenir de oficio en los asuntos que afect
 
 En estos casos, el Juez deberá exhortar a los interesados para que se avengan, resolviendo sus diferencias mediante convenio, que evite la controversia o dé por terminada la intervención judicial;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2001)</small>
 
-II.- No se requiere formalidades especiales para acudir ante el Juez de lo Familiar cuando se solicite la declaración, preservación, restitución o constitución de un derecho o se alegue la violación del mismo o el consentimiento de una obligación, tratándose de alimentos, de calificación de impedimentos de matrimonio o de las diferencias que surjan entre marido y mujer sobre la administración de bienes comunes, educación de hijos, oposición de marido, padres y tutores, de sustracción ilegal o retención indebida de menores, y en general todas la (sic) cuestiones familiares similares que reclamen la intervención judicial.
+II.- No se requieren formalidades especiales para acudir ante el Juez de lo Familiar cuando se solicite la declaración, preservación, restitución o constitución de un derecho o se alegue la violación del mismo, el cumplimiento de una obligación, tratándose de alimentos, de calificación de impedimentos de matrimonio o de las diferencias que surjan entre marido y mujer sobre la administración de bienes comunes, educación de los hijos, oposición del marido, padres y tutores, de sustracción ilegal o retención indebida de menores, y en general todas las cuestiones familiares similares que reclamen la intervención judicial.
 
-Podrá acudirse al Juez de lo familiar por escrito o por comparecencia personal en los casos urgentes a que se refiere el presente artículo, exponiendo de manera breve y concisa los hechos que reclamen su intervención, con la copia de la promoción inicial o de la actuación donde se consigne la comparecencia del interesado, mismas que serán proveídas a más tardar dentro del término de tres días, así como con las copias de los documentos que se presentaren, se emplazará a la contraria para que en igual forma produzca su contestación dentro de los tres días siguientes del emplazamiento.
+Podrá acudirse ante el Juez de lo Familiar por escrito o por comparecencia personal en los casos urgentes a que se refiere el presente artículo, exponiendo de manera breve y concisa los hechos que reclamen su intervención, con la copia de la promoción inicial o de la actuación donde se consigne la comparecencia del interesado, mismas que serán proveídas a más tardar dentro del término de tres días así como con las copias de los documentos que se presentaren, se emplazará a la contraria para que en igual forma produzca su contestación dentro de los tres días siguientes al emplazamiento.
 
-Tratándose de alimentos, ya sea provisionales o los que se deban por contrato, por testamento o por disposición de la ley, el Juez fijará a petición del acreedor, sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional mientras se resuelve el juicio.
+Tratándose de alimentos, ya sea provisionales o los que se deban por contrato, por testamento o por disposición de la Ley, el Juez fijará a petición del acreedor, sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional mientras se resuelve el juicio.
 
-En el caso de sustracción ilegal de menores, el depósito provisional o recuperación deberá sustanciarse conforme a lo previsto por el Capítulo IV, del Título Decimotercero de este Código;
+En caso de sustracción ilegal de menores, el depósito provisional o recuperación deberá sustanciarse conforme a lo previsto por el capítulo IV, del Título Decimotercero de este Código;
 
 III.- En el auto admisorio se fijará día y hora para la celebración de la audiencia de pruebas y alegatos, la que tendrá lugar dentro de los ocho días siguientes;
 
@@ -3569,9 +3861,9 @@ IV.- En dicha audiencia las partes ofrecerán y aportarán sus pruebas y en ella
 
 V.- Si por cualquiera circunstancia la audiencia no pudiera celebrarse, se verificará dentro de los cinco días siguientes;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2001)</small>
 
-VI.- En el caso de que cualesquiera de las partes no se encontrare debidamente asesorada se le designará un defensor de oficio, el que deberá comparecer al Tribunal dentro del día siguiente al que se le haga saber el nombramiento, a aceptar el cargo y a enterarse del asunto, disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón se diferirá la audiencia en un término igual;
+VI.- En el caso de que cualesquiera de las partes no se encontrare debidamente asesorada, se le designará un defensor de oficio, el que deberá comparecer al Tribunal dentro del día siguiente al en que se le haga saber el nombramiento, a aceptar el cargo y a enterarse del asunto, disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón se diferirá la audiencia en un término igual;
 
 VII.- El Juez podrá, en todo tiempo, cerciorarse personalmente o con el auxilio de trabajadores sociales o peritos de la veracidad de los hechos controvertidos, y razonará cuidadosamente la parte de su fallo en que confiera valor probatorio a los informes o dictámenes de esta manera obtenidos;
 
@@ -3675,7 +3967,9 @@ III.- La finca o departamento arrendado cuando se trate de desocupación.
 
 ### CAPITULO V. Del juicio
 
-928.- Si al anunciarse el despacho del negocio no estuviere presente el actor y el demandado sí hubiere concurrido, se impondrá al actor una multa de diez a cincuenta pesos que se aplicará al demandado por vía de indemnización y sin que se justifique haberse hecho el pago no se citará de nuevo para el juicio.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+928.- Si al anunciarse el despacho del negocio no estuviere presente el actor y el demandado sí hubiere concurrido, se impondrá al actor una multa de hasta diez salarios mínimos, que se aplicará al demandado por vía de indemnización y sin que se justifique haberse hecho el pago no se citará de nuevo para el juicio.
 
 929.- Si al ser llamado a contestar la demanda no estuviere presente el demandado y constare que fue debidamente citado, lo cual comprobará el juez con especial cuidado, se dará por contestada la demanda en sentido afirmativo y por confesados los hechos en ella expresados, y se continuará la audiencia. Cuando se presente durante ella el demandado, continuará ésta con su intervención según el estado en que se halle y no se le admitirá prueba sobre ninguna excepción si no demostrare el impedimento de caso fortuito o fuerza mayor que le impidiera presentarse a contestar la demanda.
 
@@ -4082,3 +4376,23 @@ DECRETO No. 419-99-I-P.O.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE FEBRERO DE 2001.
+
+Decreto No. 762-00 I P.O.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE FEBRERO DE 2001.
+
+Decreto No. 798/01 V P.E.
+
+PRIMERO.- El presente decreto entrará en vigor a los sesenta días siguientes, contados a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las reformas a que se refiere el presente Decreto, no serán aplicables a persona alguna que tenga créditos contratados con anterioridad a su entrada en vigor, ni tratándose de créditos novados o restructurados con anterioridad a la misma.
