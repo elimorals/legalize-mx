@@ -4,7 +4,7 @@ identifier: "NLE-ley-reglamentaria-del-registro-publico-de-la-propiedad-y-7911"
 country: "mx"
 rank: "ley"
 publication_date: "1972-01-22"
-last_updated: "1982-06-23"
+last_updated: "1983-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7911&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 22 de enero de 1972.
 
@@ -411,13 +411,17 @@ Procederá también la rectificación cuando en el documento inscrito en el Regi
 
 ### CAPITULO XVI. DE LA CANCELACION DE LAS INSCRIPCIONES
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 54o.
 
-La cancelación es la anotación que implica la extinción total o parcial de las inscripciones, y puede hacerse:
+La cancelación es la anotación que implica la extinción total ó parcial de las inscripciones, y puede hacerse:
 
-I.- Por consentimiento de las partes; y
+I.- Por consentimiento de las partes;
 
-II.- Por resolución judicial.
+II.- Por resolución judicial; y
+
+III.- En los demás casos que así lo determine la Ley.
 
 ###### ARTICULO 55o.
 
@@ -578,3 +582,7 @@ N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRET
 P.O. 23 DE JUNIO DE 1982.
 
 UNICO:- Las presentes reformas entrarán en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE DICIEMBRE DE 1983.
+
+UNICO: Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
