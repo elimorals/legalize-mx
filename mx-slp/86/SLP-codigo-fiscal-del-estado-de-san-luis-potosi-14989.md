@@ -4,7 +4,7 @@ identifier: "SLP-codigo-fiscal-del-estado-de-san-luis-potosi-14989"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-08-05"
-last_updated: "1999-08-05"
+last_updated: "1999-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO FISCAL DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1999.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 5 de agosto de 1999.
 
@@ -55,9 +55,11 @@ Las disposiciones fiscales que se refieran a los sujetos, objeto, base gravable,
 
 Son disposiciones supletorias de este Código las normas fiscales federales, las normas del derecho común estatal y los principios generales de derecho, siempre que su aplicación no sea contraria a la naturaleza y a los principios del derecho tributario.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 3º.
 
-La ignorancia de las leyes, reglamentos y demás disposiciones fiscales, no servirá de excusa ni aprovechará a persona alguna. Sin embargo, las autoridades fiscales, cuando se trate de manifiesta ignorancia o de incapacidad legal o económica comprobada, tomarán en consideración estos supuestos para la aplicación de las disposiciones legales. Asimismo, podrán otorgar estímulos fiscales cuando con ello se promueva la creación de empleos y el desarrollo económico del Estado.
+La ignorancia de las leyes, reglamentos y demás disposiciones fiscales no servirá de excusa ni aprovechará a persona alguna. Sin embargo, las autoridades fiscales podrán otorgar estímulos fiscales en forma general a sectores de contribuyentes, cuando sus condiciones económicas lo justifiquen o con ello se incentive la recaudación, se promueva la creación de empleos o el desarrollo económico del Estado.
 
 ###### ARTICULO 4º.
 
@@ -95,9 +97,11 @@ I. Ordinarios: los provenientes de las contribuciones y sus accesorios, de produ
 
 II. Extraordinarios: los provenientes de empréstitos o financiamientos, apoyos de la Federación o del Estado, así como todos aquellos cuya percepción se autorice excepcionalmente para permitir el pago de gastos o inversiones accidentales, extraordinarios o especiales del Estado o de los Municipios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 7º.
 
-Para efectos de la presente Ley se entiende por:
+Para efectos de las disposiciones fiscales estatales se entiende por:
 
 I. Contribuciones: los impuestos, los derechos y las contribuciones de mejoras. Se causan cuando se realiza el hecho o acto jurídico previsto en la ley respectiva, naciendo así la obligación fiscal, y para tal efecto se entenderá por:
 
@@ -143,7 +147,9 @@ La tasa de recargos moratorios será igual a la que determine la Secretaría de 
 
 Los recargos se causarán hasta por cinco años. Se calcularán por el total del crédito fiscal, excluyendo los accesorios.
 
-Los recargos no podrán ser condonados o reducidos en ningún caso.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+Los recargos no podrán ser condonados o reducidos a los contribuyentes en lo particular, en ningún caso.
 
 ###### ARTICULO 12.
 
@@ -213,15 +219,23 @@ Las autoridades fiscales podrán habilitar los días y las horas inhábiles, cua
 
 El sujeto activo de la obligación fiscal es el Estado o el Municipio. El sujeto pasivo es la persona física, moral o unidad económica, mexicana o extranjera que de acuerdo con las leyes respectivas, está obligado de manera directa o indirecta al pago de una prestación o contraprestación determinada por las leyes a favor del erario estatal o municipal.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 24.
 
 No causarán contribuciones:
 
-I. La Federación, los estados y los municipios, en los casos de reciprocidad;
+a) Estatales:
 
-II. Los organismos descentralizados de la Federación, del Estado y de los municipios, y
+I. La Federación, los Estados y los Municipios en los casos de reciprocidad, y
 
-III. La Universidad Autónoma de San Luis Potosí.
+II. La Universidad Autónoma de San Luis Potosí.
+
+En cualquier caso, es condición que el hecho o acto que de lugar a la causación de la contribución, esté directamente relacionado con los fines esenciales u objeto público de la entidad de que se trate.
+
+b) Municipales:
+
+Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados y los municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público, en cuanto se refiere a contribuciones, incluyendo tasas adicionales, que establezcan los Estados sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora así como los que tengan por base el cambio de valor de los inmuebles y por los ingresos derivados de la prestación de servicios públicos a su cargo, inclusive.
 
 ###### ARTICULO 25.
 
@@ -1866,3 +1880,11 @@ El Secretario General de Gobierno
 LIC. JUAN CARLOS BARRON CERDA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 30 DE DICIEMBRE DE 1999.
+
+PRIMERO. Este Decreto entrará en vigor a partir del día primero de enero del año 2000.
+
+SEGUNDO. La derogación del artículo 80 de la Ley de Hacienda del Estado, entrará en vigor al iniciar su vigencia la reforma aprobada por la Cámara de Diputados del Congreso de la Unión, con fecha 17 de julio de 1999, al artículo 115 de la Constitución General de la República; mientras tanto, los derechos por la expedición de la licencia estatal de uso de suelo a que se refieren los artículos 60 a 62 del Código Urbano y Ecológico, los seguirá cobrando el Estado.
