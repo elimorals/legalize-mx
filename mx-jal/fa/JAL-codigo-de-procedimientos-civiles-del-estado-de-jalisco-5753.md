@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "1957-11-12"
+last_updated: "1962-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 1957.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1962.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -5826,6 +5826,8 @@ Los actos de que tratan los capítulos siguientes se sujetarán a las reglas que
 
 De las Informaciones Ad-Perpetuam.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1962)</small>
+
 ###### ARTICULO 965.
 
 La declaración de estado de minoridad puede pedirse:
@@ -6324,21 +6326,23 @@ En las diligencias de que trata este Capítulo se oirá precisamente al Minister
 
 ###### ARTICULO 1051.
 
-Las informaciones ad-perpetuam podrán decretarse cuando sólo tenga interés el promovente y se trate:
+Las informaciones Ad-perpetuam podrán decretarse cuando sólo tenga interés el promovente y se trate:
 
-I.- De justificar algún hecho o acreditar algún derecho;
+I.- Justificar algún hecho o acreditar algún derecho;
 
 II.- Cuando se pretenda justificar la posesión como medio para acreditar el dominio pleno de un inmueble;
 
 III.- Cuando se trate de comprobar la posesión de un derecho real.
 
-La información se recibirá siempre con citación del Ministerio Público; en los casos de las fracciones primera y segunda, con citación también de los colindantes y del Encargado del Registro de la Propiedad de la comprensión donde estuviere ubicado el inmueble, y los comprendidos en la fracción tercera, con audiencia del propietario y de los demás partícipes del derecho real, cuando los haya.
+La información se recibirá siempre con citación del Ministerio Público; notificando personalmente el auto inicial al Síndico del Ayuntamiento y al Delegado de Hacienda del Municipio en que queden ubicados los bienes o derechos sobre los que verse la información. En los casos de las fracciones I y II, con citación también de los colindantes y del Encargado del Registro de la Propiedad y de la comprensión donde estuviere ubicado el inmueble, y los comprendidos en la Fracción III, con audiencia del propietario y de los demás partícipes del derecho real cuando los haya.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1962)</small>
 
 ###### ARTICULO 1052.
 
-Cuando se pretenda acreditar alguno de los hechos a que se refieren los artículos 2958 y 2960 del Código Civil, presentada la solicitud, la cual deberá contener la descripción precisa del inmueble de que se trate, se mandará publicar un edicto que contenga el extracto de ella en el periódico oficial del Estado y en un diario de los de mayor circulación, a juicio del Juez, citando a los que se crean con derecho para que se presenten a oponerse. También se publicará el edicto fijándolo durante diez días en la puerta del Juzgado, en las casas consistoriales y en los demás sitios públicos de costumbre.
+Cuando se pretenda acreditar alguno de los hechos a que se refieren los Artículos 2958 y 2960 del Código Civil, presentada la solicitud, la cual deberá contener la descripción precisa del inmueble de que se trate, se mandará publicar un edicto que contenga el extracto de ella en el Periódico Oficial del Estado y en un Diario de los de mayor circulación, a juicio del Juez, notificando personalmente el auto inicial al Síndico o Representante Jurídico del Ayuntamiento y al Delegado de Hacienda del Municipio de la ubicación de los bienes; citando a los que se crean con derecho para que se presenten a oponerse. También se publicará el edicto fijándolo durante diez días en la puerta del Juzgado, en las casas Consistoriales y en los demás sitios públicos de costumbre.
 
-El certificado a que se refiere el artículo 2958 del Código Civil, deberá comprender los últimos diez años.
+El certificado a que se refiere el Artículo 2958 del Código Civil, deberá comprender los últimos diez años.
 
 ###### ARTICULO 1053.
 
@@ -6681,3 +6685,7 @@ UNICO.- Las reformas anteriores comenzarán a surtir sus efectos treinta días d
 P.O. 12 DE NOVIEMBRE DE 1957.
 
 UNICO.- Esta Ley comenzará a surtir sus efectos quince días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE DICIEMBRE DE 1962.
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
