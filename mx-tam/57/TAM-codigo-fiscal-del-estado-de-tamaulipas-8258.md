@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8258"
 country: "mx"
 rank: "codigo"
 publication_date: "1976-12-29"
-last_updated: "1991-12-28"
+last_updated: "2004-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "TAM"
 
 CÓDIGO FISCAL DEL ESTADO
 
-> <small>N. DE E. POR DISPOSICION DEL ARTÍCULO SEGUNDO TRANSITORIO SE ABROGA EL PRESENTE CODIGO, EXCEPTUANDO SU CAPÍTULO RELATIVO AL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, HASTA EN TANTO INICIE SU VIGENCIA EL CÓDIGO DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE TAMAULIPAS QUE RESUELVE LAS CONTROVERSIAS DE CARACTER FISCAL, P.O. 28 DE DICIEMBRE DE 1991.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTÍCULO SEGUNDO TRANSITORIO SE ABROGA EL PRESENTE CÓDIGO, EXCEPTUANDO SU CAPÍTULO RELATIVO AL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, HASTA EN TANTO INICIE SU VIGENCIA EL CÓDIGO DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE TAMAULIPAS QUE RESUELVE LAS CONTROVERSIAS DE CARÁCTER FISCAL, P.O. 28 DE DICIEMBRE DE 1991.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 1991.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de Diciembre de 1976.
 
@@ -981,6 +981,12 @@ Concluida la audiencia de pruebas y alegatos, deberá dictarse resolución en un
 
 Conocerá del juicio de nulidad, el Tribunal Fiscal del Estado, el que dictará sus fallos en representación del Ejecutivo del Estado o de los Ayuntamientos, pero será independiente de cualquier otra autoridad administrativa y tendrá su residencia en la capital del Estado.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 199.
+
+El Tribunal Fiscal será unitario y estará a cargo de un Magistrado, que será nombrado y removido por el Congreso del Estado; durará en su encargo seis años y no podrá ser removido, sino por causa de responsabilidad.
+
 ###### ARTICULO 198o.
 
 Conocerá del juicio de nulidad, el Tribunal Fiscal del Estado, el que dictará sus fallos en representación del Ejecutivo pero será independiente de cualquier otra autoridad administrativa y tendrá su residencia en la Capital del Estado.
@@ -1461,7 +1467,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los veinticuatro días del mes de diciembre de mil novecientos setenta y seis.- ENRIQUE CARDENAS GONZALEZ.- Secretario General de Gobierno, Lic. Homero Pérez Alvarez.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTIÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 9 DE DICIEMBRE DE 1978.
 
@@ -1526,3 +1532,7 @@ Cuando con anterioridad al 1º de enero de 1992 se hayan causado recargos, ésto
 ###### ARTICULO NOVENO.
 
 Se derogan las disposiciones que se opongan a lo previsto por este Código.
+
+P.O. 15 DE DICIEMBRE DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor a partir el día siguiente de su publicación en el Periódico Oficial del Estado.
