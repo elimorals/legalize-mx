@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-13039"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-10-08"
-last_updated: "1992-12-26"
+last_updated: "1994-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1994.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de octubre de 1988.
 
@@ -117,15 +117,21 @@ IV.- El Cuarto, con residencia en la Población de Villa de Alvarez, comprende l
 
 ### CAPITULO I. SUPREMO TRIBUNAL DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 6.
 
-El Supremo Tribunal de Justicia residirá en la Capital del Estado y estará integrado por un número impar de Magistrados Propietarios, no menor de siete, conforme a lo acordado por el Pleno; dos suplentes que cubrirán las faltas temporales de cualquiera de aquéllos y dos Supernumerarios que sustituirán a los anteriores, cuando por excusa o recusación de éstos no hubiere quien pueda conocer el negocio o cuando por las mismas causas no pudiera integrarse el Pleno. Los Magistrados serán nombrados en la forma y términos que determina la Constitución Política del Estado.
+El Supremo Tribunal de Justicia reside en la Capital del Estado, y está integrado por un número de Magistrados Propietarios no menor de ocho, conforme a lo acordado por el Pleno, dos Suplentes y dos Supernumerarios, designados todos en la forma y términos que determina la Constitución Política del Estado.
 
-Uno de los Magistrados Propietarios será el Presidente del Tribunal, quien no integrará Sala, pero concurrirá a la discusión y votación de las resoluciones.
+El Supremo Tribunal funciona en Pleno y en Salas.
 
-El Magistrado Suplente percibirá sueldo igual al que señale el Presupuesto a los Propietarios en los casos y durante el tiempo que sustituya a éstos, según lo establecido en la fracción II del Artículo 64 de esta Ley. Los Magistrados Supernumerarios percibirán los emolumentos que en cada caso le sean asignados por el Pleno y deberán ser proporcionados a los servicios que presten.
+El Pleno se compone de los magistrados propietarios que integran el Supremo Tribunal de Justicia, pero bastará la presencia de las tres cuartas partes de sus miembros para que pueda funcionar. Los magistrados suplentes y supernumerarios formarán parte del Pleno cuando substituyan a los magistrados propietarios y desempeñarán además las funciones que se contienen en la presente Ley.
+
+El Presidente del Supremo Tribunal de Justicia será uno de los magistrados propietarios, no integrará Sala durante el tiempo que desempeñe el cargo y será sustituido en ella por el magistrado que se designe en el Pleno.
+
+Los magistrados suplentes percibirán sueldo igual al que señale el Presupuesto a los propietarios en los casos y durante el tiempo que sustituyan a éstos, según lo establecido en la fracción II del artículo 64 de esta Ley. Los magistrados Supernumerarios percibirán los emolumentos que en cada caso le sean asignados por el Pleno y deberán ser proporcionales a los servicios que presten.
+
+Las resoluciones del Pleno se tomarán por unanimidad o por mayoría de votos de los magistrados presentes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal o no hayan estado presentes durante la discusión del asunto de que se trate. En caso de empate se resolverá el asunto en la siguiente sesión, para la que se convocará a los magistrados que hubiesen concurrido a la anterior y a los que hubiesen faltado a la misma, siempre que estos no estuvieren legalmente impedidos; si en la última sesión tampoco se obtuviere mayoría se tendrá por desechado el proyecto y el Presidente del Supremo Tribunal designará otro magistrado distinto del ponente, para que formule nuevo proyecto, teniendo en cuenta las opiniones vertidas.
 
 ###### ARTICULO 7.
 
@@ -135,15 +141,21 @@ Las designaciones de los Magistrados Propietarios, Supernumerarios y Suplentes d
 
 Los Magistrados durarán en el ejercicio de su encargo seis años, que se contarán desde el día primero de noviembre en que se inicia el período constitucional del Ejecutivo, podrán ser reelectos y si lo fueren, sólo podrán ser privados de sus puestos en los términos que determine la Constitución Política del Estado y la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
+
+Cuando se aumente el número de Magistrados, Jueces, Secretarios de Acuerdos, Actuarios, o bien de salas o juzgados, se publicarán los acuerdos respectivos en el Periódico Oficial del Estado y en los estrados de los juzgados y del Supremo Tribunal, para el conocimiento de los litigantes y público en general.
+
 ### CAPITULO II. PLENOS ORDINARIOS Y EXTRAORDINARIOS DEL TRIBUNAL
 
 ###### ARTICULO 9.
 
 El Supremo Tribunal de Justicia funcionará en Pleno Ordinario los días lunes hábiles de cada semana para el ejercicio de las atribuciones que le confieren las fracciones IV, V, VII, VIII y X del Artículo 74 de la Constitución Política del Estado. En Pleno Extraordinario, previa convocatoria del Presidente, para conocer y resolver de los asuntos a que se refieren las fracciones I, II, III, VI y IX del mismo precepto constitucional.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 10.
 
-Son facultades del Tribunal en Pleno Ordinario:
+Corresponde al Pleno del Tribunal:
 
 I.- Designar a los Jueces, Secretarios de Acuerdos del Tribunal y de las Salas; Jefe de la Unidad de Apoyo Administrativo y Directores de los Departamentos y demás Dependencias;
 
@@ -151,9 +163,13 @@ II.- Remover, suspender o cesar en su caso a los Jueces y demás empleados del P
 
 III.- Conceder licencias que no excedan de tres meses, al Presidente del Tribunal, a los Magistrados, Jueces y demás servidores públicos de la Administración de Justicia. Las licencias podrán concederse con goce de sueldo íntegro, hasta por dos meses en un año, siempre que exista causa justificada para otorgarla;
 
-IV.- Dirimir las competencias de jurisdicción que se susciten entre los Tribunales del Estado, así como conocer y resolver del recurso de responsabilidad civil que se interponga en contra de los Magistrados;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
 
-V.- Acordar el aumento de Partidos Judiciales, de Juzgados, de la Planta de Secretarios y demás Servidores Públicos de la Administración de Justicia, así como fijar y cambiar la residencia de los juzgados, cuando las necesidades del servicio lo requieran y lo permitan las condiciones del Erario;
+IV.- Conocer y resolver sobre las cuestiones de competencia que por inhibitoria o por declinatoria se hagan valer en los términos de los Códigos de Procedimientos Penales y Civiles, respecto de los Jueces de Primera Instancia Penales, Civiles, de lo Familiar, Mercantiles y Mixtos; así como, previa petición de parte interesada, de los casos en que dos o más jueces se niegen (sic) a conocer de determinado asunto;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+
+V.- Acordar la creación o modificación de los Partidos Judiciales, Juzgados, de la Planta de Secretarios y demás Servidores Públicos de la Administración de Justicia, así como fijar y cambiar la materia y la residencia de los juzgados, cuando las necesidades del servicio lo requieran y lo permitan las condiciones del Erario;
 
 VI.- Designar a los Magistrados que deberán encargarse de las visitas al Centro de Readaptación Social del Estado, Penitenciarías y demás lugares de detención; visitas que tendrán por objeto cerciorarse del cumplimiento de los Reglamentos Interiores de aquellos establecimientos y el trato que reciban los reclusos. Estas visitas se harán cuando menos una vez al mes y motivarán un informe por escrito al Tribunal para que éste dicte las medidas pertinentes;
 
@@ -163,9 +179,17 @@ VIII.- Corregir los abusos que se advierten en la práctica del ramo de justicia
 
 IX.- Ordenar el registro de las cédulas profesionales de los abogados postulantes en el libro especial que llevará la Secretaría, cerciorándose plenamente de la legalidad de ellas y de la identidad de la persona a quien fue expedida;
 
-X.- Calificar, con exclusión de los presuntos impedidos las excusas o recusaciones de sus miembros, cuando surja oposición, complementando el quórum en su caso con el suplente; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
 
-XI.- Las demás que les confiera las leyes.
+X.- Conocer y resolver sobre las recusaciones interpuestas en contra de los Magistrados de las Salas, así como, la oposición de las partes respecto de las excusas de los Magistrados de las Salas, con exclusión de los presuntos impedidos; en la inteligencia que de proceder la recusación o excusa respecto de dos Magistrados de una misma Sala, tendrá que llamarse a uno de los supernumerarios, que en sustitución de los anteriores, concurrirá en el conocimiento y resolución del negocio, con el Magistrado que no se excusó ni fue recusado, quien de no ser el Presidente de la Sala, fungirá como tal por Ministerio de Ley.
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
+
+XI.- Conocer y resolver sobre las quejas administrativas que se hagan valer en contra de los Jueces de Primera Instancia y Mixtos de Paz; y
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+
+XII.- Las demás que les confieran las leyes.
 
 ###### ARTICULO 11.
 
@@ -251,7 +275,9 @@ II.- Representar oficialmente al Poder Judicial del Estado;
 
 III.- Ejecutar los acuerdos de los Plenos del Tribunal, despachar y autorizar la correspondencia oficial, en los asuntos que no sean de la competencia exclusiva de los Magistrados;
 
-IV.- Presidir las sesiones del Pleno del Tribunal y de las Salas, dirigir los debates y conservar el orden durante su desarrollo;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+
+IV.- Presidir las sesiones del Pleno del Tribunal, dirigir los debates y conservar el orden durante su desarrollo;
 
 V.- Practicar visitas a los Juzgados, vigilando el cumplimiento de los deberes de los Servidores Públicos del Ramo Judicial, sancionar las faltas que no constituyan delito, mediante la respectiva sanción disciplinaria que juzgue aplicable, atendiendo a lo previsto en los Códigos de Procedimientos Civiles, Penales o Ley Estatal de Responsabilidades de los Servidores Públicos. Si se presume la comisión de delitos, acordará la consignación al Ministerio Público. De las medidas que haya tomado dará conocimiento en el Pleno Ordinario inmediato del Tribunal;
 
@@ -263,7 +289,9 @@ VIII.- Conceder licencias económicas hasta por quince días a los Servidores P�
 
 IX.- Proponer oportunamente los nombramientos de los servidores públicos que deba hacer el Tribunal en Pleno Ordinario en caso de vacante;
 
-X.- Distribuir por riguroso turno los negocios judiciales que deban conocer los Magistrados;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+
+X.- Distribuir por riguroso turno los negocios judiciales que, de acuerdo a la materia, deban conocer las Salas que integran el Supremo Tribunal de Justicia del Estado;
 
 XI.- Tramitar todos los asuntos de la competencia del Pleno Ordinario del Tribunal hasta ponerlos en estado de resolución. Si estimare dudoso o trascendental un trámite, lo someterá a la consideración del Pleno para que éste resuelva lo que proceda;
 
@@ -303,39 +331,101 @@ El Presidente del Supremo Tribunal tendrá a su cargo, la policía de los edific
 
 SECRETARIOS DE ACUERDOS DE LAS SALAS
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 19.
 
-El Supremo Tribunal de Justicia funcionará en Salas Colegiadas, integradas cada una de ellas por dos Magistrados Propietarios.
+El Supremo Tribunal de Justicia funciona en salas integradas cada una de ellas por tres magistrados propietarios, pero bastará la presencia de dos para que pueda actuar válidamente; contará, además, con los magistrados suplentes y supernumerarios que se estimen necesarios en acuerdo tomado por el Pleno del Tribunal, quien determinará el número de ellos que habrán de adscribirse, en razón de la materia, a las correspondientes salas.
 
-El Tribunal en Pleno, acordará el número, la integración y competencia de las Salas
+Los magistrados suplentes sustituirán las faltas temporales o accidentales, en los casos de ausencia de dos de los magistrados propietarios de cada Sala. En caso de que entre los ausentes se encuentre el Presidente de la Sala, fungirá como tal por ministerio de ley, el magistrado propietario presente.
 
-Cada uno de los Magistrados Propietarios, será ponente en los asuntos que conozca la Sala respectiva. La ponencia formulada será sometida a la consideración y resolución del Pleno de la Sala, pero cada Magistrado llevará el trámite de los negocios que le correspondan por turno, que estará bajo control de la Secretaría de Acuerdos de la Sala.
+Los magistrados supernumerarios suplirán a los magistrados propietarios de la sala, cuando dos de ellos estén impedidos por excusa o recusación en el conocimiento de uno o varios negocios. No tendrá lugar la sustitución por los supernumerarios cuando estén impedidos todos los magistrados propietarios y exista respecto de una misma materia más de una sala, en cuyo caso, el negocio en que se dio la excusa o recusación, pasará al conocimiento y trámite de la sala, en la que sus miembros o dos de ellos no tengan impedimento.
+
+En los primeros días de los meses de enero, mayo y septiembre, cada sala eligirá (sic) de entre sus miembros, un Presidente, que ejercerá este encargo por cuatro meses y no podrá ser reelecto durante el mismo año, salvo lo dispuesto en el artículo siguiente.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 20.
 
-El Presidente del Supremo Tribunal presidirá y formará parte del Pleno de cada una de las Salas y las resoluciones se tomarán por mayoría de votos. El Presidente tendrá voto de calidad en caso de empate. El Pleno válidamente podrá actuar estando presentes dos Magistrados, siempre y cuando uno de ellos sea el Presidente Propietario o por Ministerio de Ley.
+En caso de faltas accidentales o temporales, los Presidentes serán suplidos por los demás magistrados propietarios en el orden de su designación. Cuando las faltas excedan de treinta días, serán sustituidos por quienes resulten en el sorteo que se realizará entre los dos magistrados restantes.
 
-En caso de que la ponencia fuera rechazada se entregará el negocio a uno de los Magistrados que formaron la mayoría, para que formule nuevo proyecto en el sentido de la votación obtenida.
+El Tribunal en Pleno acordará el número, la integración y competencia de las salas, que serán numeradas progresivamente cuando sean más de una respecto de una misma materia.
+
+Las materias civil, de lo familiar y mercantil serán competencia de las salas mixtas, pero cuando el número de asuntos lo amerite, podrán crearse con acuerdo del Pleno, además, salas especializadas respecto de cada una de esas materias o transformarse las mixtas en especializadas.
+
+La materia penal será competencia exclusiva de las salas penales, cuyo número podrá aumentar por acuerdo del Pleno, cuando lo exijan las necesidades del servicio.
+
+Cada una de las salas tendrá los Secretarios de Acuerdos, Secretarios Actuarios y personal subalterno o administrativo que fuere necesario para el despacho de los negocios, los que serán propuestos por las respectivas salas al Pleno, para las designaciones correspondientes.
+
+Cada sala estará facultada para conceder a su personal, permisos que no excedan de quince días, por causa justificada, con goce de sueldo o sin el. Lo anterior deberá comunicarse al Presidente del Tribunal y al Jefe de la unidad de Apoyo Administrativo, para efectos de control.
+
+Cuando se trate de licencias por más de quince días, se estará a lo dispuesto en la fracción III del artículo 10 de esta Ley.
+
+Cuando por necesidades extraordinarias, las salas requieren temporalmente de personal de confianza o subalterno para el desahogo de los negocios, se hará del conocimiento del Pleno para los efectos de la autorización correspondiente.
+
+Cada magistrado llevará el trámite de los negocios que le correspondan por turno y actuará con el Secretario de Acuerdos de la respectiva sala, quien tendrá el control de los mismos.
+
+Las respectivas salas resolverán, en sesión extraordinaria, las cuestiones administrativas que exclusivamente les atañan y no estén reservadas para el conocimiento del pleno, debiendo levantar acta de cada sesión debidamente autorizada en el Libro correspondiente, tanto por el Presidente de la Sala como por el Secretario de Acuerdos.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 21.
 
-Las Salas respectivas sesionarán en el Pleno los miércoles y viernes de cada semana, para conocer y resolver los asuntos de su competencia.
+Las resoluciones de las salas se tomarán por unanimidad o por mayoría de votos. El Presidente tendrá voto de calidad en caso de empate. Las salas podrán actuar cada una de ellas válidamente estando presentes dos magistrados siempre y cuando uno de ellos sea el Presidente propietario o por ministerio de ley.
+
+En caso de que la ponencia fuera rechazada se presentará de nuevo, pero tomando en cuenta en ella las opiniones vertidas, para su resolución en la siguiente sesión. Si en ésta se volviera a desechar por mayoría, se entregará el negocio a uno de los magistrados que por mayoría se opusieran, para que formule nuevo proyecto en el sentido de lo propuesto en la votación.
+
+Las resoluciones o acuerdos que sin tener el carácter de sentencia pongan fin a un negocio judicial, también serán dictados por el pleno de la sala que corresponda; al igual que los proveídos que recaigan en los cuadernos que se formen con motivo de los juicios de amparo.
+
+Las salas respectivas sesionarán en pleno los miércoles y viernes de cada semana para conocer y resolver los asuntos de su competencia.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 22.
 
-Corresponde al Pleno de las Salas conocer y resolver:
+Son obligaciones del Presidente de cada Sala:
 
-I.- De las apelaciones, revisiones y quejas, en asuntos civiles, familiares y mercantiles;
+I.- Distribuir los asuntos por riguroso turno, entre él y los demás integrantes de la sala, para su trámite, estudio y presentación del proyecto de resolución que en cada uno debe formularse;
 
-II.- De las apelaciones y demás recursos establecidos por el Código de Procedimientos Penales del Estado; y
+II.- Presidir las sesiones del Pleno de las salas, dirigir los debates y conservar el orden durante su desarrollo;
 
-III.- De los demás negocios que determinen las leyes.
+III.- Autorizar con el Secretario de Acuerdos respectivo, las actas que se levanten con motivo de las sesiones del Pleno de la Sala;
+
+IV.- Llevar la correspondencia oficial de su sala, cuyo control y archivo corresponderá al Secretario de Acuerdos;
+
+V.- Recibir las solicitudes de permisos presentadas por el personal y someterlas a la consideración del Pleno de su Sala, comunicando por escrito el resultado al solicitante a la brevedad; y
+
+VI.- Conocer de los demás asuntos que le encomiende esta ley y su Reglamento, comunicando de inmediato a los demás miembros de la Sala.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 23.
 
-Las resoluciones o acuerdos que sin tener el carácter de sentencia pongan fin a un negocio judicial, también serán dictados por el Pleno de la Sala que corresponda; al igual que los proveídos que recaigan en los cuadernos que se formen con motivo de los juicios de amparo.
+Corresponde conocer y resolver:
+
+A).- A las salas penales:
+
+I.- Las apelaciones, reposiciones de procedimiento, denegación de apelaciones que interpongan las partes en contra de las resoluciones de los jueces de primera instancia penales;
+
+II.- Las recusaciones que se hagan valer respecto de los jueces en los procesos de su conocimiento y de los secretarios de acuerdos de las salas;
+
+III.- La oposición propuesta por las partes en contra de las excusas hechas valer por los referidos jueces o secretarios de acuerdos de las salas; y
+
+IV.- De los demás asuntos que les encomienden las leyes aplicables.
+
+B).- A las salas mixtas:
+
+I.- Las apelaciones que se interpongan en contra de las resoluciones pronunciadas por los jueces de primera instancia en asuntos civiles, de lo familiar y mercantiles, conforme a los ordenamientos procesales respectivos;
+
+II.- Las revisiones que en su caso procedan respecto de las resoluciones pronunciadas por los jueces de primera instancia en los asuntos del ramo, ya citados;
+
+III.- Las quejas jurisdiccionales previstas en el artículo 722 del Código de Procedimientos Civiles del Estado, a excepción de la contemplada en el párrafo último de su artículo 170, por estar indicado a quien corresponde su conocimiento;
+
+IV.- Las recusaciones que por causas que imputen las partes, se hagan valer en contra de los expresados jueces y de los secretarios de acuerdos de la sala;
+
+V.- La oposición propuesta por alguna de las partes en contra de las excusas hechas valer por los referidos jueces o secretarios de acuerdos de las salas; y
+
+VI.- De los demás asuntos que en función de su competencia le atribuyan las respectivas leyes aplicables.
 
 ###### ARTICULO 24.
 
@@ -1478,3 +1568,11 @@ SEGUNDO.- Se faculta al Pleno del Supremo Tribunal de Justicia del Estado, para 
 P.O. 26 DE DICIEMBRE DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 9 DE JULIO DE 1994.
+
+PRIMERO.- El presente Decreto entrará en vigor a los 30 días siguientes de la fecha de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Hasta en tanto sean designados nuevos Magistrados Propietarios el Supremo Tribunal de Justicia funcionará en Salas Colegiadas, integradas cada una de ellas, por dos magistrados propietarios y sesionarán en Pleno los días miércoles y viernes de cada semana, para conocer y resolver los asuntos de su competencia jurisdiccional, como actualmente la tienen determinada. Cada uno de los Magistrados propietarios será ponente en los asuntos que conozca la sala respectiva. La ponencia formulada será sometida a la consideración y resolución del pleno de la sala, pero cada magistrado llevará el trámite de los negocios que le correspondan por turno, que estará bajo control de la Secretaría de Acuerdos de la sala.
+
+TERCERO.- El Presidente del Supremo Tribunal presidirá y formará parte del pleno de cada una de las salas y las resoluciones se tomarán por mayoría de votos. El Presidente tendrá voto de calidad en caso de empate. El pleno válidamente podrá actuar estando presentes dos magistrados siempre y cuando uno de ellos sea el Presidente Propietario o por Ministerio de Ley. En caso de que la ponencia fuera rechazada se entregará el negocio a uno de los magistrados que formaron la mayoría, para que formule nuevo proyecto en el sentido de la votación obtenida.
