@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-municipal-para-el-estado-de-zacatecas-8238"
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-29"
-last_updated: "1993-02-03"
+last_updated: "1993-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sabado 29 de diciembre de 1984.
 
@@ -399,9 +399,7 @@ No se pagará el impuesto en las adquisiciones de bienes inmuebles que hagan la 
 
 Tampoco se pagará el impuesto en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
 
-> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 1993)</small>
-
-Tampoco se pagará el Impuesto en las Adquisiciones que realicen las Asociaciones Religiosas constituidas en los términos de la Ley de la Materia, siempre que, en este último caso, la adquisición se realice dentro de los seis meses siguientes a su registro constitutivo.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO TERCERO. DEL IMPUESTO SOBRE ANUNCIOS Y PROPAGANDA
 
@@ -617,7 +615,7 @@ EL DIRECTOR GENERAL DE GOBIERNO
 
 LIC. RAUL RODRIGUEZ SANTOYO.
 
-> <small>N. DE E. A CONTINUACION DE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACION SE TRANCRIBEN LOS ARTICULOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 9 DE ENERO DE 1988
 
@@ -631,12 +629,26 @@ P.O. 1 DE MAYO DE 1991
 
 ###### ARTICULO PRIMERO.
 
-Durante los años de 1991, 1992 y 1993 se aplicarán las tasas del 8%, del 6%, y del 4%, respectivamente, en lugar de la tasa establecida en artículo 32 de la Ley de Hacienda Municipal.
+Durante los años de 1991, 1992, y 1993 se aplicarán las tasas del 8%, del 6%, y del 4%, respectivamente, en lugar de la tasa establecida en artículo 32 de la Ley de Hacienda Municipal.
 
 ###### ARTICULO SEGUNDO.
 
-El presente Decreto entrará en vigor el día 1º de julio de mil novecientos noventa y uno.
+El presente decreto entrará en vigor el día 1º de julio de mil novecientos noventa y uno.
 
 P.O. 3 DE FEBRERO DE 1993
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1993
+
+###### ARTICULO PRIMERO.
+
+Las asociaciones religiosas constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el impuesto sobre adquisición de inmuebles, por las adquisiciones que se realicen hasta el 31 de diciembre de 1994.
+
+###### ARTICULO SEGUNDO.
+
+Durante del año de 1994, el impuesto a que se refiere el artículo 28 de la Ley, que resulte a cargo del contribuyente, en ningún caso será mayor a aquel que se hubiere determinado en los términos de las disposiciones aplicables de la Ley de Hacienda Municipal en materia de este impuesto vigente al 31 de diciembre de 1990.
+
+###### ARTICULO TERCERO.
+
+El presente decreto entrará en vigor el día 1º. de enero de 1994.
