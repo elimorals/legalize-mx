@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1955-03-19"
+last_updated: "1955-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 1955.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 1955.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -655,6 +655,10 @@ XXXVI.- Decretar la expropiación por causa de utilidad pública, en la forma qu
 
 XXXVII.- Siempre que esté en goce de facultades extraordinarias en el Ramo de Hacienda, condonar contribuciones cuando lo considere justo y equitativo.
 
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1955)</small>
+
+XXXVIII.- Expedir el nombramiento del Magistrado del Tribunal Fiscal Unitario del Estado y someterlo a la aprobación de la Legislatura Local, en la misma forma y términos que establece el artículo 70 de esta Constitución, para los Magistrados del Supremo Tribunal de Justicia.
+
 ###### Artículo 59.
 
 El Gobernador no puede:
@@ -1105,9 +1109,13 @@ En lugar de la residencia de los Poderes del Estado habrá una Contaduría Gener
 
 Toda cuenta de fondos públicos quedará glosada a más tardar tres meses después de su presentación. La falta de cumplimiento de este precepto será causa de responsabilidad así de los empleados de la Contaduría como de la comisión Inspectora.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1955)</small>
+
 ###### Artículo 118.
 
-La Contaduría General expedirá, en la forma que la ley prevenga el Finiquito de las cuentas que glose, y rendirá cada tres meses al Congreso, por conducto de la Comisión respectiva, un informe de las operaciones que haya practicado.
+La Contaduría General, expedirá en la forma que la Ley prevenga, el finiquito de las cuentas que glosa y rendirá cada tres meses al Congreso, por conducto de la Comisión respectiva, un informe de las operaciones que haya practicado.
+
+El Tribunal Fiscal Unitario del Estado, es el Supremo Organo Administrativo Fiscal y conocerá, en la forma y términos que establezca el procedimiento contencioso del Título Segundo del Código Administrativo de esta misma Entidad, de las inconformidades de los causantes en contra de las resoluciones dictadas por las autoridades fiscales del Estado.
 
 ###### Artículo 119.
 
@@ -1674,3 +1682,7 @@ Este decreto surtirá sus efectos a partir de la fecha de su publicación en el 
 P.O. 19 DE MARZO DE 1955.
 
 Este Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 1955.
+
+Estas reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado, derogándose todas aquellas disposiciones que se les opongan.
