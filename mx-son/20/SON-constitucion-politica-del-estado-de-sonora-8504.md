@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1996-11-11"
+last_updated: "1996-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE DICIEMBRE DE 1996.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -1069,9 +1069,9 @@ XVIII. Formar y aprobar, en su caso, el Reglamento interior de cada una de sus d
 
 XIX. Representar a la Hacienda Pública, pudiendo, en los casos que lo estime conveniente, delegar esa representación.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 12 DE DICIEMBRE DE 1970)</small>
+> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1996)</small>
 
-XX. Ejercer el mando supremo de las fuerzas del Estado, y movilizarlas según las necesidades públicas; así como disponer de la policía del municipio donde resida habitual o transitoriamente, y nombrar y remover, en los términos que establezca la ley reglamentaria, a los jefes y oficiales superiores de la policía urbana de los Municipios del Estado.
+XX. Ejercer el mando supremo de las fuerzas del Estado y movilizarlas según las necesidades públicas; así como disponer de la Policía del Municipio donde resida habitual o transitoriamente. El nombramiento y remoción de los Jefes y Oficiales Superiores de la Policía urbana de los Municipios del Estado, se hará en los términos de la Ley Reglamentaria.
 
 XXI. Convocar al Congreso a sesiones extraordinarias por conducto de la Diputación Permanente, expresando el objeto de ellas.
 
@@ -2628,6 +2628,12 @@ Los Magistrados de las Salas Regionales del Supremo Tribunal de Justicia, previa
 Asimismo, los Jueces de Primera Instancia nombrados para el período comprendido del 16 de septiembre de 1995 al 15 de septiembre de 1997, así como los que fueren designados en el curso de dicho período, continuarán en el desempeño de sus cargos, hasta la conclusión del mismo.
 
 Si al concluir el término precisado en los párrafos que anteceden el Consejo del Poder Judicial del Estado de Sonora no ha expedido los nombramientos correspondientes de Magistrado Regional de Circuito y de Jueces de Primera Instancia, continuarán en funciones quienes se encuentren desempeñando dichos cargos, hasta en tanto tomen posesión los nuevamente nombrados.
+
+B.O. 16 DE DICIEMBRE DE 1996.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
