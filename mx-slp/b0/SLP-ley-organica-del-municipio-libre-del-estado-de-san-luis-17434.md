@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2001-06-27"
+last_updated: "2002-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2002.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -311,9 +311,11 @@ La Ley Electoral del Estado normará el proceso de preparación, desarrollo y ve
 
 ### CAPITULO II. De la Instalación de los Ayuntamientos
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2002)</small>
+
 ###### ARTICULO 17.
 
-Los ayuntamientos serán electos para un período de tres años; se instalarán solemne y públicamente el día veintiséis de septiembre del año de su elección; sus miembros protestarán ante el Ayuntamiento saliente, representado por su Presidente o en su caso, por quien designe el Congreso del Estado.
+Los ayuntamientos serán electos para un período de tres años; se instalarán solemne y públicamente el día uno de enero del año posterior a su elección; sus miembros protestarán ante el Ayuntamiento saliente, representado por su Presidente o en su caso, por quien designe el Congreso del Estado.
 
 ###### ARTICULO 18.
 
@@ -875,7 +877,9 @@ XV. Ejercer en materia de lo dispuesto por el artículo 130 de la Constitución 
 
 XVI. Solicitar licencia por escrito y por causa justificada al Ayuntamiento, para ausentarse del Municipio por más de diez días; debiendo formular aviso para ausentarse por un término menor;
 
-XVII. Rendir ante el Pleno del Ayuntamiento en sesión solemne, durante la segunda quincena del mes de septiembre de cada año, un informe por escrito en el que manifieste el estado que guarda la administración pública municipal; y comparecer posteriormente cuando así lo acuerde con el propio Cabildo, a fin de responder a las observaciones que el cuerpo edilicio le formule;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2002)</small>
+
+XVII. Rendir ante el Pleno del Ayuntamiento en sesión solemne, durante la primera quincena del mes de diciembre de cada año, un informe por escrito en el que manifieste el estado que guarda la administración pública municipal; y comparecer posteriormente cuando así lo acuerde con el propio Cabildo, a fin de responder a las observaciones que el cuerpo edilicio le formule;
 
 XVIII. Vigilar la conducta oficial de los empleados del Municipio, corrigiendo oportunamente las faltas que observe y haciendo del conocimiento de la autoridad competente aquellas que pudieran ser tipificadas como delito;
 
@@ -1367,6 +1371,8 @@ De igual forma, podrán crearse patronatos que tengan fines específicos, que es
 
 ### CAPITULO I. De la Planeación
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2002)</small>
+
 ## TITULO SEXTO. DEL PATRIMONIO Y DE LA HACIENDA PUBLICA MUNICIPAL
 
 ### CAPITULO II. Del Presupuesto
@@ -1519,9 +1525,11 @@ Las omisiones o excesos de las autoridades municipales en el manejo de la Hacien
 
 ###### ARTICULO 121.
 
-Los ayuntamientos planearán sus actividades en un Plan Municipal de Desarrollo, que deberá elaborarse, aprobarse y publicarse en un plazo no mayor de cuatro meses a partir de la instalación del Ayuntamiento, o cuando el cambio de Ayuntamiento coincida con el cambio de Gobernador del Estado, en un plazo de seis meses. La vigencia del plan no excederá del período constitucional que les corresponda; este programa deberá ser congruente con el Plan Estatal de Desarrollo.
+Los ayuntamientos planearán sus actividades en un Plan Municipal de Desarrollo, que deberá elaborarse, aprobarse y publicarse en un plazo no mayor de cuatro meses a partir de la instalación del Ayuntamiento.
 
-En los meses de octubre y noviembre del año en que tomen posesión, los ayuntamientos convocarán a foros de consulta popular y, tomando en consideración sus resultados, propondrán a través del Comité de Planeación del Desarrollo Estatal, los objetivos y prioridades municipales que deban incorporarse al Plan Estatal de Desarrollo. En lo aplicable, los ayuntamientos deberán sujetarse a lo dispuesto por la Ley de Planeación del Estado de San Luis Potosí.
+La vigencia del Plan no excederá del período constitucional que le corresponde; este programa debe ser congruente con el Plan Estatal de Desarrollo.
+
+En los meses de febrero y marzo del año en que tomen posesión, los ayuntamientos convocarán a foros de consulta popular y, tomando en consideración sus resultados, propondrán a través del Comité de Planeación del Desarrollo Estatal, los objetivos y prioridades municipales que deban incorporarse al Plan Estatal de Desarrollo. En lo aplicable, los ayuntamientos deberán sujetarse a lo dispuesto por la Ley de Planeación del Estado de San Luis Potosí.
 
 ### CAPITULO I. De las Modalidades en su Prestación
 
@@ -1994,3 +2002,21 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 27 DE JUNIO DE 2001.
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE AGOSTO DE 2002.
+
+PRIMERO.- EL presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. Por única ocasión, la Quincuagésima Sexta Legislatura del Congreso del Estado, procederá conforme a las atribuciones que le confieren los artículos 122 de la Constitución Política del Estado, y 44 de la Ley Orgánica del Municipio Libre, a fin de designar de entre los vecinos a los concejos municipales que funcionarán del día 26 de septiembre de 2003 al 31 de diciembre del mismo año.
+
+Para los efectos de la integración de los concejos municipales a que se refiere el párrafo que antecede, el Congreso del Estado respetará la representación política que actualmente guardan los ayuntamientos.
+
+CUARTO. Por única vez, en relación con lo dispuesto por el artículo 31, Apartado b), fracción VI de la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí, los proyectos de Ley de Ingresos para el ejercicio fiscal de 2004, serán presentados por los ayuntamientos en ejercicio, a más tardar el 15 de septiembre de 2003.
+
+QUINTO. Por única vez, para efectos de lo establecido por el artículo 70 fracción XVII de la Ley Orgánica del Municipio Libre que se reforma en los términos del presente Decreto, los presidentes municipales que concluyan su período el 25 de septiembre de 2003, deberán presentar el informe del estado que guarda la administración pública municipal, a más tardar el día 15 del mes de septiembre de 2003.
+
+SEXTO. Respecto del Presupuesto de Egresos de cada uno de los ayuntamientos para el ejercicio fiscal de 2004, éste será aprobado por el Concejo Municipal respectivo, sin perjuicio de que el ayuntamiento que inicie el 1 de enero de 2004, lo modifique si así lo estima necesario, durante los primeros 15 días de ese año.
+
+SEPTIMO. En lo concerniente a la presentación de declaración patrimonial de inicio y conclusión que a los concejales corresponde, para efectos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, por única vez el plazo de presentación será de 15 días naturales siguientes al inicio y conclusión del cargo.
