@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-16-2002-de-la-comision-de-creacion-de-nuevos-62674
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-04-04"
-last_updated: "2002-04-04"
+last_updated: "2002-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62674&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-03-22"
 
 ACUERDO CCNO/16/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA PRORROGA DEL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL OCTAVO Y DECIMOPRIMER TRIBUNALES COLEGIADOS EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO, AMBOS CON RESIDENCIA EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 2002.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de abril de 2002.
 
@@ -53,6 +53,8 @@ ACUERDO
 
 PRIMERO.- Se prorroga el plazo de exclusión del turno de nuevos asuntos al Octavo Tribunal Colegiado en Materia de Trabajo del Primer Circuito y al Decimoprimer Tribunal Colegiado de la propia materia y Circuito, ambos con residencia en el Distrito Federal, por el lapso de dos meses, al establecido en el punto QUINTO del Acuerdo General 86/2001, para el primero de los Tribunales nombrados; y por el periodo de un mes al establecido en el punto PRIMERO del Acuerdo CCNO/12/2002, para el Tribunal nombrado en segundo término.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/18/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 5 DE JUNIO DE 2002, SE PRORROGA EL PLAZO DE EXCLUSION DE TURNO DE ASUNTOS NUEVOS PARA EL OCTAVO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO, CON RESIDENCIA EN EL DISTRITO FEDERAL, POR EL LAPSO DE UN MES, DEL 1 AL 30 DE JUNIO DE 2002.</small>
+
 Los periodos de exclusión señalados comprenderán del uno al treinta de abril de dos mil dos, para el Decimoprimer Tribunal Colegiado de la materia, Circuito y sede mencionados; y del uno de abril al treinta y uno de mayo de dos mil dos, para el Octavo Tribunal Colegiado de la materia, Circuito y residencia señalados; por ende, los nuevos asuntos que se reciban en el lapso inicialmente indicado en la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia de Trabajo del Primer Circuito, serán del conocimiento del Primer, Segundo, Tercer, Cuarto, Quinto, Sexto, Séptimo, Noveno, Décimo, Decimosegundo, Decimotercer, Decimocuarto y Decimoquinto Tribunales Colegiados de la materia y Circuito citados, concluido este periodo el conocimiento corresponderá a los Tribunales recién citados incluyendo al Decimoprimer Tribunal Colegiado de la materia y Circuito referidos; con excepción de aquellos que estén relacionados con los que se encuentren en trámite en el Octavo y Decimoprimer Tribunales Colegiados de la materia y sede aludidos, en cuyo supuesto se turnarán a estos últimos, con el propósito de evitar el pronunciamiento de resoluciones contradictorias; y las demás excepciones que procedan conforme a lo dispuesto en el Acuerdo General 50/2001, del Pleno del Consejo de la Judicatura Federal.
 
 Dichos plazos de exclusión podrán ser modificados o interrumpidos antes de su conclusión, cuando a juicio de esta Comisión se presenten circunstancias especiales que así lo ameriten.
@@ -68,3 +70,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO CESAR THOME GONZALEZ, SECRETARIO EJECUTIVO DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/16/2002, de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, relativo a la Prórroga del Plazo de Exclusión del Turno de Nuevos Asuntos al Octavo y Decimoprimer Tribunales Colegiados en Materia de Trabajo del Primer Circuito, ambos con residencia en el Distrito Federal, fue aprobado por la propia Comisión en sesión privada extraordinaria celebrada el veintidós de marzo de dos mil dos, por los señores Consejeros: Presidente, José Guadalupe Torres Morales y Manuel Barquín Alvarez.- México, Distrito Federal, a veintidós de marzo de dos mil dos.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 5 DE JUNIO DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
