@@ -4,7 +4,7 @@ identifier: "COL-ley-del-instituto-de-vivienda-del-estado-de-colima-4004"
 country: "mx"
 rank: "ley"
 publication_date: "1992-04-11"
-last_updated: "1992-04-11"
+last_updated: "1997-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL INSTITUTO DE VIVIENDA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 11 de abril de 1992.
 
@@ -183,7 +183,9 @@ X.- Nombrar y remover a los Directores de Area y demás personal de confianza, a
 
 XI.- Aprobar la constitución de reservas territoriales;
 
-XII.- Aprobar la aplicación de las utilidades anuales;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+XII.- Aprobar los informes financieros anuales;
 
 XIII.- Revisar y aprobar, en su caso, los planes de comercialización del Instituto, así como la adquisición y arrendamiento de los inmuebles que se requieran para la prestación de sus servicios y realización de sus actividades;
 
@@ -390,3 +392,9 @@ Dado en el Recinto Oficial del Poder Legislativo a los dos días del mes de abri
 Por lo tanto mando se imprima circule y observe.
 
 Dado en Palacio de Gobierno, a los nueve días del mes de abril de 1992.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE DELGADO MAGAÑA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE FEBRERO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
