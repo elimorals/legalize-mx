@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "1969-08-06"
+last_updated: "1973-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE AGOSTO DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 9 DE MAYO DE 1973.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -595,11 +595,15 @@ Cuando un trabajador a quien se haya otorgado una pensión siga en servicio, sin
 
 En ningún caso un pensionista podrá regresar a servicio activo, salvo el de inhabilitados que quedaren aptos para el servicio, los que fueren electos para cargos de elección popular o los designados para puestos de confianza del Ejecutivo.
 
+> <small>(REFORMADO, B.O. 9 DE MAYO DE 1973)</small>
+
 ###### Artículo 62.
 
-Es incompatible la percepción de una pensión otorgada por el Instituto con la percepción de cualquiera otra pensión concedida por el propio Instituto y organismos públicos a que se refieren los artículos 1o. y 3o. de esta Ley y que estén incorporados al régimen de la misma. Es igualmente incompatible la percepción de una pensión con el desempeño de cualquier cargo, empleo o comisión remunerados por el Estado y organismos públicos, siempre que tales cargos y empleos impliquen la incorporación al régimen de esta Ley. Los interesados podrán gozar nuevamente de la pensión, cuando desaparezca la incompatibilidad. Tal incompatibilidad no existirá entre la percepción de una pensión concedida por el Instituto por servicios prestados al Gobierno del Estado y el desempeño de la docencia en la Universidad de Sonora o en otro organismo público descentralizado de fines educativos, ni entre aquella y la pensión por servicios docentes en dichos organismos.
+Es incompatible la percepción de una pensión, otorgada por el Instituto con la percepción de cualquiera otra pensión concedida por el propio Instituto y organismos públicos a que se refieren los artículos 1º y 3º de esta Ley y que están incorporados al régimen de la misma. Es igualmente incompatible la percepción de una pensión ganada por derecho propio con el desempeño de cualquier cargo, empleo o comisión remunerados por el Estado y organismos públicos, siempre que tales cargos y empleos impliquen la incorporación al régimen de esta Ley. Los interesados podrán gozar nuevamente de la pensión, cuando desaparezca la incompatibilidad. Tal incompatibilidad no existirá entre la percepción de una pensión concedida por el Instituto por servicios prestados al Gobierno del Estado y el desempeño de la docencia en el Universidad de Sonora o en otro organismo público descentralizado de fines educativos, y entre aquella y la pensión por servicios docentes en otros organismos.
 
-El infractor a la disposición antes expresada, estará obligado a reintegrar las cantidades percibidas indebidamente en el plazo que le será fijado por el Instituto, pero que nunca será menor al tiempo en que las hubiera recibido. Desaparecida la incompatibilidad y reintegradas las cantidades indebidamente recibidas, el pensionista puede volver a disfrutar de la pensión otorgada. Si no hiciese el reintegro en los términos de este artículo, perderá todo derecho a la pensión. Los pensionistas quedan obligados a dar aviso inmediato al Instituto cuando acepten cualesquiera de los empleos, cargos o comisiones a que se ha hecho referencia; igualmente, quedan obligados a dar aviso en caso de otorgamiento de alguna otra pensión. En todo caso, el Instituto ordenará la suspensión de la pensión otorgada.
+El Infractor a la disposición antes expresada estará obligado a reintegrar las cantidades percibidas indebidamente en el plazo que le será fijado por el Instituto, pero que nunca será menor al tiempo en que las hubiera recibido. Desaparecida la incompatibilidad y reintegradas las cantidades indebidamente recibidas, el pensionista puede volver a disfrutar de la pensión otorgada. Si no hiciese el reintegro en los términos de este artículo, perderá todo derecho a la pensión.
+
+Los pensionistas quedan obligados a dar aviso inmediato el Instituto cuando acepten cualesquiera de los empleos, cargos o comisiones a que se ha hecho referencia; igualmente quedan obligados a dar aviso en caso de otorgamiento de alguna pensión. En todo caso, el Instituto ordenará la suspensión de la pensión otorgada.
 
 ###### Artículo 63.
 
@@ -625,15 +629,19 @@ SECCION 2a
 
 JUBILACION
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 13 DE ENERO DE 1965)</small>
+> <small>(REFORMADO, B.O. 9 DE MAYO DE 1973)</small>
 
 ###### Artículo 68.
 
-Tienen derecho a la jubilación los trabajadores con treinta años o más de servicio y quince años de contribución al Instituto como mínimo en los términos de esta Ley, cualquiera que sea su edad.
+Tienen derecho a la jubilación los trabajadores con treinta años o más de servicios y quince años de contribución al Instituto, como mínimo, en los términos de esta Ley, cualquiera que sea su edad.
 
-La jubilación dará derecho al pago de una cantidad equivalente al 100% de su sueldo regulador que se define en el artículo 73 y su percepción comenzará a partir del día siguiente a aquél en que el trabajador hubiese disfrutado el último sueldo por haber causado baja.
+La jubilación dará derecho al pago de una cantidad equivalente el cien por ciento de su último sueldo si se cumple con los requisitos abajo señalados y su percepción comenzará a partir del día siguiente a aquél en que el trabajador lo hubiese devengado.
 
-"PARA COMPUTAR LOS QUINCE AÑOS DE CONTRIBUCION AL INSTITUTO DEBEN TOMARSE EN CUENTA LAS APORTACIONES HECHAS AL FONDO DE PENSIONES DE LA ANTIGUA DIRECCION GENERAL DE PENSIONES DEL ESTADO".
+Los requisitos a que se refiere el párrafo anterior son los siguientes:
+
+I.- Que el último sueldo obedezca a designación hecha a su favor por el Ejecutivo del Estado de acuerdo a circunstancias juzgadas como normales; y
+
+II.- Que la cantidad contribuida por el trabajador al fondo de pensiones durante los últimos cinco años se calcule sobre la base del último sueldo.
 
 SECCION 3a
 
@@ -861,11 +869,13 @@ TERCERA.- El pago póstumo beneficia a los deudos de todos los funcionarios, emp
 
 ### CAPITULO OCTAVO. DE LA INDEMNIZACION GLOBAL
 
+> <small>(REFORMADO, B.O. 9 DE MAYO DE 1973)</small>
+
 ###### Artículo 89.
 
-Al trabajador que sin tener derecho a jubilación o a pensión por vejez o invalidez, se separe definitivamente del servicio, se le otorgará una indemnización global equivalente al seis por ciento con que hubiere contribuido de acuerdo con el artículo 16, o sea a las tres cuartas partes de las aportaciones que hubiere hecho a partir de la fecha de entrada en vigor de esta ley. Las aportaciones anteriores a esta ley se le devolverán íntegramente, al separarse del servicio sin jubilación o pensión.
+Al trabajador que sin tener derecho a jubilación o pensión por vejez o invalidez, se separe definitivamente del servicio, se le otorgará una indemnización global equivalente al seis por ciento con hubiese contribución de acuerdo con el artículo 16, o sea a la tres cuartas partes de las aportaciones que hubiese hecho a partir de la fecha de entrada en vigor de esta Ley. Las aportaciones anteriores a esta Ley se devolverá íntegramente, al separarse del servicio sin jubilación o pensión.
 
-Si el trabajador falleciere sin tener derecho a las pensiones mencionadas al principio de este artículo, el Instituto entregará a sus familiares derechohabientes el importe de la indemnización global.
+Si el trabajador falleciere sin tener derecho a las pensiones mencionadas al principio de este artículo, el Instituto entregará el importe de la global a los beneficiario (sic) que aquél hubiere designado, y la falta de designación, a sus derechos legítimos.
 
 ###### Artículo 90.
 
@@ -1330,3 +1340,9 @@ Los oficios de designación de beneficiarios que se encuentren dirigidos, hasta 
 ###### ARTICULO 4o.
 
 La presente ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 9 DE MAYO DE 1973.
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
