@@ -4,7 +4,7 @@ identifier: "FED-reglas-de-caracter-general-de-la-ley-de-concursos-46861"
 country: "mx"
 rank: "reglas"
 publication_date: "2003-01-30"
-last_updated: "2003-01-30"
+last_updated: "2004-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46861&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-01-23"
 
 REGLAS DE CARACTER GENERAL DE LA LEY DE CONCURSOS MERCANTILES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ABRIL DE 2004.
 
 Reglas publicadas en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de enero de 2003.
 
@@ -62,6 +62,10 @@ Nivel 2: Con título universitario, al menos tres años de experiencia y capacid
 Nivel 3: Pasante universitario o técnico de enseñanza media superior con experiencia en actividades profesionales de tres años al menos.
 
 Nivel 4.- Técnico de enseñanza media superior, o estudiante de último año de una carrera universitaria, o asistente en las labores operativas del Especialista.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ABRIL DE 2004)</small>
+
+Los Conciliadores y los Síndicos determinarán libremente sus auxiliares dado que la retribución de éstos provendrá por acuerdo que tengan los Conciliadores y Síndicos con ellos y con cargo a la retribución que les corresponda a los especialistas.
 
 Registro.- El Registro de Especialistas de Concursos Mercantiles, el cual contará con las secciones necesarias para incluir a Visitadores, Conciliadores y Síndicos y a las combinaciones de éstos.
 
@@ -173,6 +177,10 @@ Regla 33.- La renovación de los registros será anual, previa comprobación ant
 
 Para no afectar a terceros se prorrogará automáticamente el Registro de los Especialistas que estén desempeñando una función en tanto ésta concluye, sin que se suspenda su obligación de actualización.
 
+> <small>(ADICIONADO, D.O.F. 7 DE ABRIL DE 2004)</small>
+
+Los especialistas que se encuentren en el supuesto del párrafo que antecede, no serán sorteados para nuevas designaciones.
+
 ## TITULO V - PROCEDIMIENTO ALEATORIO DE DESIGNACION
 
 Regla 34.- El procedimiento aleatorio deja al azar la designación del Especialista, asegurando igualdad de oportunidades a todos los registrados elegibles.
@@ -191,11 +199,17 @@ II. Entre éstos, identificar a los Especialistas de acuerdo a la Categoría en 
 
 III. Identificar, para su retiro del procedimiento aleatorio, a aquellos Especialistas que antes de la celebración del mismo hayan solicitado suspensión de actividades por causa justificada a juicio del Instituto.
 
-IV. Con el propósito de dar oportunidad a la totalidad de los especialistas registrados, se identificará, para excluirlos del proceso, a los Especialistas que estén designados a un proceso concursal en el momento del procedimiento o hayan ya actuado como tales.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ABRIL DE 2004)</small>
 
-No se excluirán a los Especialistas asignados a un proceso que no hubiere tenido actividad en los últimos tres meses.
+IV. Identificar, para excluirlos del proceso, a los Especialistas que estén designados y actuando en un proceso concursal.
 
-Cuando todos los Especialistas elegibles hayan sido o estén designados a un proceso concursal, el proceso aleatorio eliminará este paso, incluyéndolos a todos a fin de iniciar un nuevo ciclo de designaciones.
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2004)</small>
+
+No se excluirá a los Especialistas asignados a un proceso que no hubiere tenido actividad o se encuentre suspendido en los últimos 45 días naturales.
+
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2004)</small>
+
+Cuando todos los Especialistas elegibles se encuentren designados y actuando en algún concurso, el proceso aleatorio eliminará este paso, incluyéndolos a todos para hacer la designación correspondiente.
 
 Estos pasos de identificación se podrán hacer con sistema de procesamiento electrónico, utilizando los datos contenidos en la Clave Individual de Registro de los Especialistas.
 
@@ -464,3 +478,11 @@ Cuarto.- Los honorarios de los especialistas que han iniciado labores antes de l
 Quinto.- Las cauciones otorgadas por los especialistas antes de la entrada en vigencia de estas Reglas, se mantendrán operativas conforme a las Reglas de Carácter General Ordenadas por la Ley de Concursos Mercantiles, en vigor al momento de su designación.
 
 Dado en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de enero de dos mil tres.- El Director General del Instituto Federal de Especialistas de Concursos Mercantiles, Luis Manuel C. Méjan Carrer.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LAS PRESENTES REGLAS.</small>
+
+D.O.F. 7 DE ABRIL DE 2004.
+
+PRIMERO. Con independencia de lo dispuesto por la regla 2 de las Reglas de Carácter General de la Ley de Concursos Mercantiles, y sin perjuicio de ello, este acuerdo podrá ser publicado en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente acuerdo entrará en vigor el día 5 de abril de 2004.
