@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1951-01-05"
+last_updated: "1960-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 1960.
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE RADIO Y TELEVISION PUBLICADA EN EL D.O.F. 19 DE ENERO DE 1960, SE DEROGA EL CAPITULO SEXTO DEL LIBRO QUINTO DE LA LEY DE VIAS GENERALES DE COMUNICACION, CON EXCEPCION DE LO RELATIVO A INSTALACIONES DE AFICIONADOS, CONSIGNADO EN SU ARTICULO 406. SE DEROGAN TAMBIEN TODAS AQUELLAS DISPOSICIONES QUE SE OPONGAN A LA PRESENTE LEY.</small>
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -566,7 +568,7 @@ V.- Las tarifas estarán en vigor durante el período que las mismas indiquen. S
 
 Todas las tarifas, ya sea que señalen o no el término de su vigencia, estarán sujetas a ser revisadas, modificadas o canceladas, en los términos que ordene la Secretaría de Comunicaciones de conformidad con esta ley y su reglamento.
 
-VI.- La clasificación de efectos será uniforme para cada sistema de transportes en las zonas que fije la Secretaría y se formulará de acuerdo con lo que se determine en el Reglamento.
+VI.- Las clasificación de efectos será uniforme para cada sistema de transportes en las zonas que fije la Secretaría y se formulará de acuerdo con lo que se determine en el Reglamento.
 
 ###### ARTICULO 56.
 
@@ -3586,27 +3588,21 @@ Las instalaciones de comunicaciones eléctricas destinadas a servicios especiale
 
 Las instalaciones de comunicaciones eléctricas para servicios especiales, pagarán la cuota que determine la Secretaría de Comunicaciones, en cada caso.
 
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE RADIO Y TELEVISION, D.O.F. 19 DE ENERO DE 1960)</small>
+
 ### CAPITULO VI. Instalaciones radiodifusoras comerciales, culturales, de experimentación científica y de aficionados
 
 ###### ARTICULO 403.
 
-Las concesiones para operar radiodifusoras comerciales, sólo podrán otorgarse a ciudadanos mexicanos por nacimiento o a sociedades mexicanas. Respecto de estas últimas, se requiere que sus socios sean ciudadanos mexicanos y si se trata de sociedades por acciones, éstas tendrán precisamente el carácter de nominativas. Una vez otorgada una concesión, será motivo de caducidad, aparte de los indicados en esta Ley, la cesión o enajenación total o parcial de la propia concesión o la de acciones o participaciones de socios de la sociedad concesionaria, a un súbdito extranjero. Las instalaciones radiodifusoras comerciales sólo podrán difundir:
-
-I.- Programas musicales y piezas de teatro;
-
-II.- Programas de divulgación científica y artística;
-
-III.- Crónicas, informaciones deportivas o de interés general, y
-
-IV.- Propaganda comercial con las limitaciones que se señalen en los reglamentos respectivos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE RADIO Y TELEVISION, D.O.F. 19 DE ENERO DE 1960)
 
 ###### ARTICULO 404.
 
-Las estaciones radiodifusoras culturales sólo podrán ser establecidas o explotadas por la Federación, los Gobiernos de los Estados, los Municipios y las Universidades, y se destinarán para transmitir exclusivamente asuntos de índole cultural e informaciones de interés general, que no tengan carácter comercial.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE RADIO Y TELEVISION, D.O.F. 19 DE ENERO DE 1960)
 
 ###### ARTICULO 405.
 
-Las instalaciones de radioexperimentación científica se destinarán exclusivamente a la realización de trabajos de investigación sobre la radiocomunicación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE RADIO Y TELEVISION, D.O.F. 19 DE ENERO DE 1960)
 
 ###### ARTICULO 406.
 
@@ -3614,55 +3610,39 @@ Las instalaciones de aficionados se autorizarán exclusivamente para iniciarse e
 
 ###### ARTICULO 407.
 
-La Secretaría de Comunicaciones dictará las medidas conducentes a fin de evitar interferencias entre las estaciones de radiocomunicación. En caso necesario, suspenderá temporal o definitivamente el servicio de toda estación que impida la buena comunicación de cualquier otra.
-
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 1940)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE RADIO Y TELEVISION, D.O.F. 19 DE ENERO DE 1960)
 
 ###### ARTICULO 408.
 
-La Secretaría de Comunicaciones designará un interventor que ejercerá el debido control y vigilancia en el funcionamiento y explotación en cada radiodifusora comercial, quedando sus emolumentos a cargo de los concesionarios.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE RADIO Y TELEVISION, D.O.F. 19 DE ENERO DE 1960)
 
 ###### ARTICULO 409.
 
-La retransmisión de programas desarrollados en el extranjero y recibidos por las estaciones radiodifusoras, únicamente podrá hacerse con la previa aprobación de la Secretaría de Comunicaciones. Se prohibe la retransmisión de programas de las estaciones nacionales sin el consentimiento previo del concesionario o permisionario de la estación de origen.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE RADIO Y TELEVISION, D.O.F. 19 DE ENERO DE 1960)
 
 ###### ARTICULO 410.
 
-Las instalaciones de las estaciones se efectuarán en las mejores condiciones técnicas exigibles, de acuerdo con los principios más modernos de la radiocomunicación, y deberán estar dotadas de dispositivos de seguridad para prevenir accidentes al personal encargado de su manejo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE RADIO Y TELEVISION, D.O.F. 19 DE ENERO DE 1960)
 
 ###### ARTICULO 411.
 
-La Secretaría de Comunicaciones podrá dictar todas las medidas que juzgue convenientes para corregir y mejorar los servicios de las estaciones de radio, pudiendo, además, ordenar la suspensión de los servicios que se presten deficientemente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE RADIO Y TELEVISION, D.O.F. 19 DE ENERO DE 1960)
 
 ###### ARTICULO 412.
 
-Para el estudio de los problemas de radiodifusión comercial y la debida marcha de las estaciones, se creará una Comisión Consultiva, compuesta de cinco miembros, tres de ellos designados por la Secretaría de Comunicaciones y dos por la Cámara Nacional de Transportes y Comunicaciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE RADIO Y TELEVISION, D.O.F. 19 DE ENERO DE 1960)
 
 ###### ARTICULO 413.
 
-La Secretaría de Comunicaciones se reserva el derecho de autorizar o negar determinadas frecuencias para las estaciones de radio, y de modificar en cualquier tiempo las que hubiere otorgado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE RADIO Y TELEVISION, D.O.F. 19 DE ENERO DE 1960)
 
 ###### ARTICULO 414.
 
-Las tarifas de las estaciones radiodifusoras comerciales, quedarán sujetas a las prevenciones de esta Ley; pero en el Reglamento respectivo se fijarán las modalidades especiales de dichas tarifas, en consonancia con las características propias a la actividad de estas vías.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE RADIO Y TELEVISION, D.O.F. 19 DE ENERO DE 1960)
 
 ###### ARTICULO 415.
 
-La Secretaría de Comunicaciones determinará:
-
-I.- La clasificación de las estaciones inalámbricas;
-
-II.- Los servicios a que estarán destinados;
-
-III.- Las longitudes de ondas que deberán usar;
-
-IV.- Los lugares donde deberán ubicarse;
-
-V.- Las condiciones técnicas de los aparatos e instalaciones;
-
-VI.- La potencia de los equipos transmisores y exactitud de las ondas de cada estación, métodos de funcionamiento y horas en que deban operar, y
-
-VII.- Las disposiciones reglamentarias que se requieran para mantener en todo tiempo el control y la vigilancia del Gobierno Federal sobre las estaciones inalámbricas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE RADIO Y TELEVISION, D.O.F. 19 DE ENERO DE 1960)
 
 ### CAPITULO VII. Instalaciones a bordo
 
@@ -5367,3 +5347,17 @@ D.O.F. 5 DE ENERO DE 1951.
 DECRETO QUE MODIFICA EL LIBRO SEXTO DE LA LEY DE VIAS GENERALES DE COMUNICACION DE 31 (SIC) DE DICIEMBRE DE 1939.
 
 UNICO.- El presente decreto entrará en vigor 15 días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 19 DE ENERO DE 1960.
+
+LEY FEDERAL DE RADIO Y TELEVISION.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO 1.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO 2.
+
+Se deroga el capítulo sexto del libro quinto de la Ley de Vías Generales de Comunicación, con excepción de lo relativo a instalaciones de aficionados, consignado en su artículo 406. Se derogan también todas aquellas disposiciones que se opongan a la presente ley.
