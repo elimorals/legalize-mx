@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-el-instituto-de-cultura-de-yucatan-13446"
 country: "mx"
 rank: "ley"
 publication_date: "1987-09-30"
-last_updated: "1987-09-30"
+last_updated: "1989-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "YUC"
 
 LEY QUE CREA EL INSTITUTO DE CULTURA DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE NOVIEMBRE DE 1989.
 
-Ley Publicada en el Suplemento al Diario Oficial el Miércoles 30 de septiembre de 1987.
+Ley Publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 30 de septiembre de 1987.
 
 GOBIERNO DEL ESTADO
 
@@ -53,9 +53,11 @@ Se declara de interés social la preservación y promoción constante y permanen
 
 Se declara al Instituto como organismo coordinador del Gobierno del Estado ante otros organismos e instancias de carácter cultural, educativo y científico que desarrollen programas en el Estado, sin mengua de la irrestricta autoridad de éstos en las áreas de su propia demarcación y competencia.
 
+> <small>(REFORMADO, D.O. 13 DE NOVIEMBRE DE 1989)</small>
+
 ###### ARTICULO 4.
 
-Se describe e incorporan a la estructura administrativa coordinadora, normativa y orgánica del Instituto con dependencia directa, los Centros Culturales, Artísticos y Educativos siguientes: El Centro Estatal de Bellas Artes, Los Teatros "José Peón Contreras" y "Daniel Ayala Pérez", la Casa de la Cultura del Mayab, la Biblioteca Central Pública del Estado, "Manuel Cepeda Peraza", la Hemeroteca del Estado "José María Pino Suárez", el Centro Cultural Obrero, las Galerías de Arte y en coordinación con el Instituto Nacional de Antropología e Historia, la Pinacoteca del Estado "Juan Gamboa Guzmán" y el Palacio Cantón, así como el Museo de Arte Popular en coordinación con el Instituto Nacional Indigenista y la Unidad Regional de Culturas Populares en coordinación técnica con la Dirección General de Culturas Populares de la Subsecretaría de Cultura de la Secretaría de Educación Pública, respetando los ámbitos de su competencia y los acuerdos y convenios establecidos o que se establezcan.
+Se describe e incorporan a la estructura administrativa, coordinadora, normativa y orgánica del Instituto con dependencia directa, los Centros Culturales y Artísticos siguientes: Los Teatros "José Peón Contreras" y "Daniel Ayala Pérez", la Casa de la Cultura del Mayab, la Biblioteca Pública Central del Estado, "Manuel Cepeda Peraza", la Hemeroteca del Estado "José María Pino Suárez", el Centro Cultural Obrero, las Galerías de Arte y, en coordinación con el Instituto Nacional de Antropología e Historia, la Pinacoteca del Estado "Juan Gamboa Guzmán" y el Palacio Cantón, así como el Museo de Arte Popular en coordinación con el Instituto Nacional Indigenista y la Unidad Regional de Culturas Populares en coordinación técnica con la Dirección General de Culturas Populares de la Subsecretaría de Cultura de la Secretaría de Educación Pública, respetando los ámbitos de su competencia y los acuerdos y convenios establecidos y los que para el efecto se establezcan.
 
 ###### ARTICULO 5.
 
@@ -159,35 +161,17 @@ XXIII.- Promover, coordinar y en su caso, realizar actos de reconocimiento a tod
 
 XXIV.- Adquirir, usar, usufructuar, administrar y conservar los bienes muebles e inmuebles destinados al cumplimiento de su objetivo.
 
+> <small>(REFORMADO, D.O. 13 DE NOVIEMBRE DE 1989)</small>
+
 ###### ARTICULO 13.
 
-El Instituto se coordinará con la Secretaría de Educación y la Dirección General de Educación Pública en el Estado, para observar que sus actividades, programas y acciones sean congruentes con las políticas de educación y cultura en la Entidad o, en su caso, con la Dirección de Servicios Coordinados de Educación Pública en el Estado, y de conformidad a las normas dispuestas por la Secretaría deEducación Pública.
+El Instituto coordinará sus actividades con la Secretaría de Educación del Estado, como cabeza del sector educativo, para procurar que sus actividades, programas y acciones sean congruentes con las políticas de educación y cultura de la Entidad, trazadas por la dependencia citada en términos de la legislación de la materia. Asimismo, se coordinará con la Dirección de Servicios Coordinados de Educación Pública en el Estado, para los mismos fines, y de conformidad con las normas establecidas y las que para el efecto establezca la Secretaría de Educación Pública.
+
+> <small>(REFORMADO, D.O. 13 DE NOVIEMBRE DE 1989)</small>
 
 ###### ARTICULO 14.
 
-El Instituto será el organismo normativo en materia de educación artística, en estrecha coordinación y vinculación con la Dirección General de Educación Pública y por conducto del Centro Estatal de Bellas Artes, por medio del cual deberá llevar a cabo entre otros programas los siguientes:
-
-I.- La investigación de la educación artística formal y no formal.
-
-II.- El propiciar y favorecer la formación armónica e integral de los niños, los jóvenes y los adultos a través del conocimiento y la práctica de las disciplinas artísticas.
-
-III.- La creación y formación de talleres formales y no formales de educación artística en las disciplinas de Teatro, de Danza, la Música, las Artes Pláticas y la Literatura.
-
-IV.- Promover la vinculación entre los programas del Centro Estatal de Bellas Artes y los sistemas educativos en el Estado, a fin de que la currícula de sus talleres sea acorde a los programas generales de educación.
-
-V.- Organizar el funcionamiento de Talleres de Sensibilización e Introducción hacia las artes dedicadas especialmente a los niños.
-
-VI.- Promover talleres para la ocupación del tiempo libre en los que puedan participar personas de cualquier nivel de cocimiento, edad o sexo.
-
-VII.- Promover cursos de capacitación y actualización entre los instructores y el personal docente.
-
-VIII.- Impulsar talleres y programas de educación artística en todos los niveles educativos.
-
-IX.- Otorgar los diplomas y los créditos correspondientes en materia de educación artística.
-
-X.- Coordinarse en el Instituto Nacional de Bellas Artes para el desarrollo de los programas conjuntos y el cumplimiento de los convenios establecidos a través de la Subdirección de Investigación y Educación Artística del Instituto Nacional de Bellas Artes.
-
-XI.- Establecer otros programas de supervisión y mantenimietno que permitan la conservación de los edificios, donde se albergan los talleres, así como el de los equipos, instrumentos, herramientas, libros, etc., mantener actualizados los inventarios.
+La Secretaría de Educación, como dependencia normativa en materia de educación artística, tendrá a su cargo el Centro Estatal de Bellas Artes, teniendo para ello las facultades que determine la Ley de la materia.
 
 ###### ARTICULO 15.
 
@@ -267,51 +251,47 @@ I.- El Consejo Directivo, y
 
 II.- La Dirección General.
 
+> <small>(REFORMADO, D.O. 13 DE NOVIEMBRE DE 1989)</small>
+
 ###### ARTICULO 21.
 
 El Consejo Directivo es la autoridad superior del Instituto y se integrará de la siguiente forma:
 
-I.- El Presidente que será el Ciudadano Gobernador del Estado;
+I.- El Gobernador del Estado, quien lo presidirá;
 
-II.- El Vicepresidente que lo será el Secretario de Educación en el Estado
+II.- Los siguientes vocales:
 
-III.- Vocal Secretario que será el Director (a) del Instituto.
+a).- El Secretario de Gobierno, quien suplirá las ausencias del Presidente del Consejo;
 
-IV.- Vocal Primero que será el Rector de la Universidad Autónoma de Yucatán.
+b).- El Secretario de Educación;
 
-V.- Vocal Segundo que será el Director General de Educación Pública en el Estado.
+c).- El Secretario de Planeación y Presupuesto;
 
-VI.- Vocal Tercero que será el Director del Instituto Tecnológico de Mérida.
+d).- El Tesorero General del Estado;
 
-VII.- Vocal Cuarto que será el Secretario de Finanzas.
+e).- El Rector de la Universidad Autónoma de Yucatán;
 
-VIII.- Vocal Quinto que será el Secretario de Desarrollo Económico.
+f).- El Secretario de Desarrollo Industrial y Comercial;
 
-IX.- Vocal Sexto que será el Coordinador General del Centro de Planeación del Gobierno del Estado de Yucatán.
+g).- Los demás que, sin exceder de cinco, designe el Gobernador del Estado.
 
-X.- Vocal Séptimo que será el Presidente del Consejo Técnico Consultivo del Instituto y representará a las agrupaciones culturales y artísticas en el Estado.
+III.- El Secretario de la Contraloría General del Estado, con el carácter de Comisario.
 
-XI.- Vocal Octavo que será el Presidente del Patronato del Instituto.
+Se designará además un Secretario de Actas y Acuerdos en términos de la Ley de Entidades Paraestatales.
 
-XII.- Vocal Noveno el Director General del Instituto Nacional de Bellas Artes.
+Por cada uno de los vocales y el comisario, se designará un suplente.
 
-XIII.- Vocal Décimo el Director General del Programa Cultural de las Fronteras.
-
-XIV.- Comisario que será un representante de la Contraloría del Estado.
-
-XV.- Podrá contar con más Vocales representativos de las asociaciones y sociedades civiles y de profesionistas constituidas en el Estado, que el Presidente del Consejo determine.
-
-XVI.- Para el Vocal Secretario y cada uno de los Vocales se nombrará un suplente.
+> <small>(REFORMADO, D.O. 13 DE NOVIEMBRE DE 1989)</small>
 
 ###### ARTICULO 22.
 
-El Consejo sesionará ordinariamente cada tres meses y extraordinariamente a convocatoria del Presidente o del Vicepresidente y el Vocal Secretario, cuantas veces sea necesario en su caso, a solicitud dirigida por escrito al Presidente por dos Vocales como mínimo.
+El Consejo sesionará ordinariamente cada tres meses y extraordinariamente cuando así sea necesario, a criterio del Presidente del Consejo o de quien legalmente lo sustituya.
 
-> <small>(F. DE E., D.O. 9 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, D.O. 13 DE NOVIEMBRE DE 1989)</small>
 
 ###### ARTICULO 23.
 
-El Consejo sesionará legalmente previa la existencia del quórum, que se constituirá con la asistencia de más de la mitad de sus miembros. Las decisiones del Consejo se tomarán por mayoría de votos y en caso de empate el Presidente tendrá voto de calidad. El Reglamento General del Instituto regulará el orden y desarrollo de dichas sesiones.
+El Consejo sesionará válidamente previa la existencia del quórum, que se integrará con la asistencia de por lo menos la mitad más uno de sus miembros. Las decisiones del Consejo se tomarán por mayoría de los presentes y en caso de empate, quien presida la sesión tendrá voto de calidad. El Reglamento del Instituto regulará el orden y desarrollo de las sesiones del Consejo.
 
 ###### ARTICULO 24.
 
@@ -319,21 +299,25 @@ A las sesiones del Consejo podrán asistir con voz pero sin voto, relevantes per
 
 ###### ARTICULO 25.
 
-El Vicepresidente, el Vocal Secretario, así como los Vocales no podrán enviar suplentes en las reuniones ordinarias; la ausencia del Presidente del Consejo Directivo, por causas de fuerza mayor en las reuniones ordinarias serán cubiertas por el Vicepresidente o el Secretario del mismo o el servidor público que designe para tal caso el Presidente.
+(DEROGADO, D.O. 13 DE NOVIEMBRE DE 1989)
 
 ###### ARTICULO 26.
 
 Los cargos del Consejo Directivo serán honoríficos y por lo tanto quienes lo integren no tendrán retribución alguna.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 13 DE NOVIEMBRE DE 1989)</small>
+
 ###### ARTICULO 27.
 
-Son facultades, atribuciones y obligaciones del Consejo Directivo las siguientes:
+Son facultades, atribuciones y obligaciones del Consejo Directivo:
 
 I.- Establecer la política cultural que deberá seguir el Instituto a nivel Estatal y Nacional, así como normar la coordinación que deberá llevar a cabo con otros organismos e instituciones culturales para la aplicación e interpretación de esta política.
 
 II.- Establecer la coordinación y los vínculos que en materia de política cultural deberá seguir el Instituto con la Secretaría de Educación.
 
-III.- Establecer las bases para que el Instituto elabore y lleve a cabo el Plan Estatal de Desarrollo Cultural.
+> <small>(REFORMADA, D.O. 13 DE NOVIEMBRE DE 1989)</small>
+
+III.- Establecer las bases para que el Instituto elabore y lleve a cabo el Programa de Desarrollo Cultural, congruente con los lineamientos que para tal efecto establezca el Plan Estatal de Desarrollo.
 
 IV.- Aplicar y supervisar la observancia y cumplimiento de esta Ley y su reglamento.
 
@@ -355,7 +339,9 @@ XII.- Evaluar en forma sistemática el avance y el desarrollo de sus programas a
 
 XIII.- Promover ante las autoridades competentes la preservación y rescate del patrimonio cultural, histórico y artístico del Estado de Yucatán.
 
-XIV.- Nombrar de acuerdo con la Dirección General un Consejo Técnico Consultivo para que asesore al Instituto en sus planes y programas.
+> <small>(REFORMADA, D.O. 13 DE NOVIEMBRE DE 1989)</small>
+
+XIV.- Nombrar a los integrantes del Consejo Técnico Consultivo, para que asesore al Instituto en sus planes y programas en términos de esta ley;
 
 XV.- Integrar por conducto de la Dirección General un Patronato que funcione como órgano de apoyo para incrementar su patrimonio, así como el de auxiliar en su conservación y,
 
@@ -369,17 +355,21 @@ La Dirección General del Instituto estará a cargo de un Director (a) General.
 
 Para ser Director (a) General del Instituto se deberá ser mexicano por nacimiento y tener un amplio conocimiento de la Entidad, así como del objeto y funciones del Instituto, contar con experiencia en la administración y tener relaciones por su carrera profesional y por sus actividades con la naturaleza del Instituto.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 13 DE NOVIEMBRE DE 1989)</small>
+
 ###### ARTICULO 30.
 
-El Director (a) General será nombrado y removido por el Gobernador del Estado y Presidente del Consejo Directivo de la siguiente manera:
+El Director General será nombrado y removido libremente por el Gobernador del Estado y Presidente del Consejo Directivo.
 
 I.- El Consejo Directivo presentará por conducto del Vocal Secretario en reunión ordinaria una lista de candidatos a la Dirección.
 
 II.- El Consejo Directivo llevará a cabo una votación para elegir de la terna propuesta al que será Director (a) General del Instituto, de conformidad a lo ordenado por el Artículo 36 de este Capítulo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 13 DE NOVIEMBRE DE 1989)</small>
+
 ###### ARTICULO 31.
 
-El Director (a) General del Instituto tendrá las siguientes facultades y obligaciones:
+El Director General del Instituto tendrá las siguientes facultades y obligaciones:
 
 I.- Dirigir, administrar y representar al Instituto entre los organismos, Instituciones y dependencias de carácter cultural o educativo.
 
@@ -407,7 +397,7 @@ XII.- Nombrar y relevar al personal de confianza del Instituto, y al de base con
 
 XIII.- Nombrar y relevar a los subdirectores generales y a los directores de área, previo acuerdo del Consejo Directivo.
 
-XIV.- Cumplir con las funciones y obligaciones que le competen como Secretario del Consejo Directivo y las que le sean asignadas por el Presidente del mismo.
+XIV.- (DEROGADA, D.O. 13 DE NOVIEMBRE DE 1989)
 
 XV.- Coordinar el Subcomité Especial de Cultura en el Seno del Comité de Planeación del Gobierno del Estado de Yucatán, para lo cual el Gobernador le expedirá el nombramiento correspondiente, elaborar los planes y programas que deberá llevarse a cabo en coordinación con otras instituciones culturales, por medio de las oficinas correspondientes.
 
@@ -670,3 +660,11 @@ EL OFICIAL MAYOR POR AUSENCIA
 DEL SECRETARIO DE GOBIERNO
 
 ING. RAMIRO ALPIZAR CARRILLO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 13 DE NOVIEMBRE DE 1989.
+
+PRIMERO.- Se derogan las disposiciones legales que se opongan a lo dispuesto en este decreto.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
