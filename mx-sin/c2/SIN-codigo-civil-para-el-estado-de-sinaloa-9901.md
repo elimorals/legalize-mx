@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1970-04-09"
+last_updated: "1971-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1971.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -233,13 +233,13 @@ Disposiciones Generales.
 
 En el Estado estará a cargo de los Oficiales del Registro Civil, autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en la misma Entidad Federativa; así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1971)</small>
 
 ###### Artículo 36.
 
-Los Oficiales del Registro Civil llevarán por duplicado cinco libros que se denominan "Registro Civil" y que contendrán:- el primero, en dos tomos, para actas de nacimientos, levantándose en el tomo 1o. las actas de nacimiento a que se refiere el artículo 54 de este Código, y en el 2do., las declaraciones que menciona el artículo 57 de la misma Ley; el segundo, actas de reconocimiento de hijos naturales, adopción, tutela, emancipación y supervivencia; el tercero; actas de matrimonio; el cuarto, actas de fallecimiento; y el quinto, actas de divorcio, inscripciones de ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+Los Oficiales del Registro Civil llevarán por duplicado cinco libros que se denominan "Registro Civil" y que contendrán: el primero, actas de nacimiento y de reconocimiento de hijos cuando éste se efectúe en el momento de asentar el nacimiento; el segundo, actas de reconocimiento de hijos cuando se realice en acto posterior al registro de nacimiento; actas de adopción; tutela, emancipación y supervivencia; el tercero, actas de matrimonio; el cuarto, actas de fallecimiento; y el quinto, actas de divorcio, inscripciones de las ejecutorias que declaren la ausencia la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes, así como cualquier inscripción que deba ser asentada en el Registro Civil y que sea ordenada por autoridad competente.
 
-Toda acta deberá asentarse en los libros del Registro que corresponda y se irán haciendo inmediatamente copias exactas de ellas, que autorizará el Oficial del Registro Civil, con las que formará el libro duplicado que debe remitir a la Secretaría General de Gobierno en los términos del Artículo 41 de este Código.
+Este acto deberá asentarse en los dos ejemplares del Registro.
 
 ###### Artículo 37.
 
@@ -247,11 +247,13 @@ Las actas del Registro Civil sólo se pueden asentar en los libros de que habla 
 
 La infracción de esta regla producirá la nulidad del acta y se castigará con la destitución del Oficial del Registro Civil.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1971)</small>
+
 ###### Artículo 38.
 
 Si se perdiere o destruyere alguno de los libros del Registro, se sacará inmediatamente copia del otro ejemplar, ya sea que la pérdida ocurra en las Oficinas del Registro Civil o en las de la autoridad administrativa a quien se hubieren remitido los duplicados.
 
-El Procurador de Justicia del Estado cuidará de que se cumpla esta disposición y, a ese efecto, el Oficial del Registro o el encargado del Archivo Judicial, le darán aviso de la pérdida.
+El Procurador de Justicia del Estado cuidará de que se cumpla esta disposición y, a ese efecto, el Oficial del Registro o el encargado del Archivo del Registro Civil, le darán aviso de la pérdida.
 
 ###### Artículo 39.
 
@@ -261,11 +263,13 @@ El estado civil de las personas sólo se comprueba por las constancias relativas
 
 Cuando no hayan existido registros, se hayan perdido, estuvieren ilegible (sic), o faltaren las hojas en que se pueda suponer que se encontraba el acta, se podrá recibir pruebas del acto por instrumentos o testigos; pero si uno sólo de los registros se ha inutilizado y existe el otro ejemplar, de éste deberá tomarse la prueba, sin admitir la de otra clase.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1971)</small>
+
 ###### Artículo 41.
 
-Todos los libros del Registro Civil serán visados en la primera y última hojas por el Presidente Municipal respectivo; y autorizados por el mismo con su rúbrica en todas las demás. Se renovarán cada año y un ejemplar quedará en el Archivo del Registro Civil, así como los documentos que le corresponda, remitiéndose el otro ejemplar durante el primer mes del año siguiente, a la Secretaría General de Gobierno, para que se deposite en el Archivo General.
+Todos los libros del Registro Civil serán visados en la primera y última hoja por el Presidente Municipal respectivo y autorizados por el Oficial del Registro Civil con su rúbrica en todas las demás. Se renovarán cada año y un ejemplar quedará en el archivo del Registro Civil así como los documentos que le corresponda, remitiéndose el otro ejemplar en el transcurso del primer mes del año siguiente, al Archivo General del Registro Civil.
 
-Si al terminar el año hubiere hojas en blanco, se inutilizarán con rayas transversales, certificándose por el Oficial del Registro, en la última escrita, el número de actos ejecutados y el de las hojas que se inutilicen. Los libros terminarán por un índice alfabético formado por apellidos, que se llevará con el día; cuando haya dos o más individuos del mismo nombre y apellido, se agregará el segundo de éstos.
+Si al terminar el año hubiere hojas en blanco, se inutilizarán con rayas transversales, certificándose por el Oficial del Registro Civil en la última escrita de los libros que no tengan modelo impreso y en la primera no utilizada de los libros con modelo impreso, el número de actas asentadas y el de las hojas que se inutilicen. Se añadirá a cada uno de los libros original y duplicado, un índice alfabético formado por apellidos, que se llevará diariamente; cuando haya dos o más individuos del mismo nombre y apellido, se agregará el segundo de éstos.
 
 ###### Artículo 42.
 
@@ -347,23 +351,27 @@ De las Actas de Nacimiento.
 
 Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil, en su Oficina o en la casa donde aquel hubiere nacido.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1971)</small>
+
 ###### Artículo 55.
 
-Tienen obligación de declarar el nacimiento: el padre, dentro de los treinta días de ocurrido aquel, y, en su defecto, la madre dentro de los noventa días.
+Tienen obligación de declarar el nacimiento: el padre y la madre dentro de los noventa días de ocurrido aquél.
 
-Los médicos, cirujanos o matronas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil, dentro de los tres días siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
+Los médicos, cirujanos o matronas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil, dentro de los tres días siguientes. La misma obligación tiene el Jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
 
 Recibido el aviso, el Oficial del Registro Civil tomará las medidas legales que sean necesarias, a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1971)</small>
+
 ###### Artículo 56.
 
-Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán castigadas con una multa de cinco a cincuenta pesos, que impondrá la autoridad municipal del lugar donde se haya hecho la declaración extemporánea del nacimiento.
+Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán castigados con una multa de cincuenta a quinientos pesos que impondrá el Oficial Registrador, debiendo efectuarse el pago en la Oficina Recaudadora de Rentas a que corresponda la Oficina del Registro Civil de que se trate.
 
-En la misma pena incurrirán las personas que no cumplan con la obligación de dar el aviso prevenido en el párrafo segundo del artículo anterior.
+En la misma pena incurrirán las personas que no cumplan con la obligación de dar el aviso prevenido en prevenido en el párrafo segundo del artículo anterior.
 
 ###### Artículo 57.
 
-En las poblaciones en que no haya Oficial del Registro Civil, el niño será presentado a la persona que ejerza la autoriadad (sic) municipal, y ésta dará la constancia respectiva que los interesados llevarán al Oficial del Registro que corresponda, para que asiente el acta.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 1971)
 
 ###### Artículo 58.
 
@@ -371,17 +379,27 @@ El acta de nacimiento se extenderá con asistencia de dos testigos que pueden se
 
 Si el niño se presenta como hijo de padres desconocidos, el Oficial del Registro, le pondrá nombre y apellido, haciéndose constar esta circunstancia en el acta.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1971)</small>
+
 ###### Artículo 59.
 
-Cuando el nacido fuere presentado como hijo de matrimonio, se asentarán los nombres, domicilio y nacionalidad de los padres; los nombres y domicilios de los abuelos y los de la persona que hubiere hecho la presentación. Los testigos de que habla el Artículo anterior declararán también acerca de la nacionalidad de los padres del presentado ante el Registro.
+Cuando el nacido fuere presentado como hijo de matrimonio, se asentarán los nombres, domicilio y nacionalidad de los padres; los nombres y domicilios de los abuelos y los de la persona que hubiere hecho la presentación. Los testigos de que habla el artículo anterior declararán también acerca de la nacionalidad de los padres del presentado ante el Registro.
+
+Salvo los casos de urgencia como los previstos por los artículos 75 y 338 de este mismo Código, el Oficial del Registro Civil deberá cerciorarse de que los comparecientes que manifiestan ser los padres del presentado, son casados entre sí, mediante la exhibición de la copia certificada del acta de matrimonio correspondiente, o mediante la compulsa del libro correspondiente, si el matrimonio se efectuó en esa misma Oficina.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1971)</small>
 
 ###### Artículo 60.
 
-Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo nacido fuera de matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituida en la forma establecida en el artículo 44; haciéndose constar en todo caso la petición.
+La madre soltera o casada no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento correspondiente. Si al hacerse la presentación para el registro no comparece la madre, el Oficial Registrador deberá citarla por los conductos debidos para que se presente a efectuar el registro. Si la mujer a quien se le atribuye la maternidad comparece y manifiesta no ser la madre del presentado, no se asentará su nombre en el acta.
 
-La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacerse la presentación no se da el nombre de la madre, se pondrá en el acta que el presentado es hijo de madre desconocida; pero la investigación de la maternidad podrá hacerse ante los Tribunales de acuerdo con las disposiciones relativas de este Código.
+Si por cualquier causa, la madre no puede presentarse a registrar a su hijo, se asentará su nombre en el acta, pero el Oficial Registrador deberá hacer constar que se agotaron todos los recursos que se señalan en el párrafo anterior.
 
-Además de los nombres de los padres se hará constar en el acta de nacimiento su nacionalidad y domicilio; declarando acerca de la primera circunstancia los testigos que deben de intervenir en el acto.
+Si al hacerse la presentación no se da el nombre de la madre, se pondrá en el acta que el presentado es hijo de madre desconocida, pero la investigación de la maternidad podrá hacerse ante los Tribunales de acuerdo con las disposiciones relativas de este Código.
+
+Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo nacido fuera de matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituído en la forma establecida en el Artículo 44; haciéndose constar en todo caso la petición.
+
+Además de los nombres se hará constar en el acta de nacimiento su nacionalidad y domicilio; declarando acerca de la primera circunstancia los testigos que deben de intervenir en el acto.
 
 ###### Artículo 61.
 
@@ -447,37 +465,45 @@ Si al dar el aviso de un nacimiento se comunicare también la muerte del recién
 
 En el acta de nacimiento de gemelos, el Oficial del Registro Civil hará constar las particularidades que los distingan y quien nació primero, según las noticias que le comunique el médico, el cirujano, la matrona o las personas que hayan asistido al parto.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE NOVIEMBRE DE 1971)</small>
+
 ### CAPITULO III.
 
-De las Actas de Reconocimiento de Hijos Naturales.
+De las Actas de Reconocimiento de Hijos Nacidos Fuera de Matrimonio.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1971)</small>
 
 ###### Artículo 77.
 
-Si el padre o la madre de un hijo natural, o ambos, lo reconocieren al presentarlo dentro del término de la ley para que se registre su nacimiento, el acta de éste contendrá los requisitos establecidos en los artículos anteriores, con expresión de ser el hijo natural, y de los nombres del progenitor que lo reconozca. Esta acta surtirá los efectos del reconocimiento legal.
+Si el padre o la madre de un hijo nacido fuera de matrimonio, o ambos, le reconocieran al presentarlo para su registro de nacimiento, el acta de éste tendrá los requisitos establecidos en los Artículos anteriores, con expresión de ser hijos de progenitor o progenitores que lo reconozcan, cuyos nombres llevará sin que por ninguna circunstancia se utilice en el acta la denominación de Hijo Natural u otra semejante. Esta acta surtirá efectos de reconocimiento legal.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1971)</small>
 
 ###### Artículo 78.
 
-Si el reconocimiento del hijo natural se hiciere después de haber sido registrado su nacimiento, se formará acta separada en la que, además de los requisitos a que se refiere el artículo que precede, se observarán los siguientes, en sus respectivos casos:
+Si el reconocimiento del hijo nacido fuera del matrimonio se hiciera después de haber sido registrado su nacimiento, se formará acta separada, en la que además de los requisitos a que se refiere el Artículo anterior, se observarán los siguientes, en sus respectivos casos:
 
-I.- Si el hijo es mayor de edad, se expresará en el acta su consentimiento para ser reconocido;
+a).- Si el hijo es mayor de edad, se expresará en el acta su consentimiento para ser reconocido;
 
-II.- Si el hijo es menor de edad, pero mayor de catorce años, se expresará su consentimiento y el de su tutor;
+b).- Si el hijo es menor de edad, pero mayor de catorce años; se expresará su consentimiento y el de su tutor;
 
-III.- Si el hijo es menor de catorce años, se expresará tan solo el consentimiento del tutor.
+c).- Si el hijo es menor de catorce años, se expresará sólo el consentimiento del tutor.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 1956)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1971)</small>
 
 ###### Artículo 79.
 
-Lo dispuesto en el Artículo anterior se observará también cuando se haya omitido la presentación para el registro del nacimiento del hijo natural, o esta presentación se haya hecho después del término de la Ley.
+Lo dispuesto en el Artículo 77 se observará también cuando se haya omitido la presentación para el registro del nacimiento del hijo nacido fuera de matrimonio.
 
 ###### Artículo 80.
 
 Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará, dentro del término de quince días, al encargado del Registro el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento, observándose las demás prescripciones contenidas en este Capítulo y en el Capítulo IV, del Título Séptimo de este Libro.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1971)</small>
+
 ###### Artículo 81.
 
-La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa de veinte a cien pesos, que impondrá y hará efectiva el juez ante quien se haga valer el reconocimiento.
+La omisión del registro, en el caso del Artículo que precede, no quita los efectos legales de reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa de doscientos mil pesos, que impondrá y hará efectiva el Juez ante quien se haga valer el reconocimiento.
 
 ###### Artículo 82.
 
@@ -579,11 +605,13 @@ III.- Que es su voluntad unirse en matrimonio.
 
 Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o no supiere escribir, lo hará por él, otra persona conocida, mayor de edad y vecina del lugar.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1971)</small>
+
 ###### Artículo 98.
 
 Al escrito a que se refiere el artículo anterior, se acompañarán:
 
-I.- El acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años y la mujer mayor de catorce;
+I.- El acta de nacimiento de los pretendientes, pero si ésta fuera extemporánea y por su aspecto no sea notorio que el varón es mayor de dieciséis años o la mujer mayor de catorce, se exigirá además un dictamen médico que compruebe su aptitud para procrear.
 
 II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 149, 150 y 151;
 
@@ -595,9 +623,9 @@ Para los indigentes tienen obligación de expedir gratuitamente este certificado
 
 V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar ese convenio ni aún a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 189 y 211, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber a efecto de que el convenio quede debidamente formulado;
 
-Si de acuerdo con lo dispuesto en el artículo 185 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura.
+Si de acuerdo con lo dispuesto en el Artículo 185 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura.
 
-VI.- Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad del matrimonio, en caso de que alguno de los pretendientes hubiera sido casado anteriormente;
+VI.- Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad del matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
 
 VII.- Copia de la dispensa de impedimento, si los hubo.
 
@@ -1940,6 +1968,10 @@ Del Reconocimiento de los Hijos Nacidos Fuera del Matrimonio.
 ###### Artículo 341.
 
 La filiación de los hijos nacidos de matrimonio se prueba con la partida de su nacimiento y con el acta de matrimonio de sus padres.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1971)</small>
+
+Si en el acta de Nacimiento consta el estado matrimonial de los padres en los términos del segundo párrafo del artículo 59, bastará este documento.
 
 ###### Artículo 342.
 
@@ -11965,7 +11997,7 @@ El propietario no puede rehusar como fiador a una persona que reúna los requisi
 
 Si la renta no excede de veinticinco pesos mensuales, es potestativo para el arrendatario dar fianza o substituir esa garantía con el depósito de un mes de renta.
 
-No puede renunciarse anticipadamente el derecho de cobrar la indemnización que conceden los Artículos 2330, 2331 y 2332.
+No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 2331.
 
 ###### Artículo 2334.
 
@@ -12469,9 +12501,7 @@ El mandato será siempre por escrito y podrá otorgarse:
 
 I.- En escritura pública;
 
-II.- En escrito privado, firmado por el otorgante y dos testigos y ratificadas las firmas ante Notario Público, Juez de Primera Instancia, Jueces Menores o ante el correspondiente funcionario o empleado administrativo, cuando el mandato se otorgue para asuntos administrativos;
-
-III.- En carta poder sin ratificación de firmas.
+II.- En carta poder o escrito privado firmado por el otorgante ante dos testigos y ratificadas las firmas ante Notario o Jueces de Primera Instancia, cuando sea judicial y el interés del negocio no sea mayor de un mil pesos.
 
 ###### Artículo 2434.
 
@@ -15292,3 +15322,7 @@ UNICO.- El presente Decreto comenzará a surtir sus efectos legales correspondie
 P.O. 9 DE ABRIL DE 1970.
 
 UNICO.- El presente Decreto surtirá sus efectos legales a los tres días de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 30 DE NOVIEMBRE DE 1971.
+
+UNICO.- El presente Decreto empezará a surtir sus efectos legales correspondientes a partir del día 1o. de Enero de 1972.
