@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2001-06-11"
+last_updated: "2003-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE ABRIL DE 2003.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1221,13 +1221,13 @@ No podrán reunirse en el Tribunal Superior de Justicia dos o más magistrados q
 
 Aunque los magistrados no se presenten a tomar posesión de sus cargos en el término en que deban hacerlo, cesarán sin embargo los anteriores, entrando desde luego en funciones los que se presenten, y en lugar de aquéllos, los interinos conforme a las leyes respectivas.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2003)</small>
 
 ###### Artículo 94.
 
-El Tribunal Superior de Justicia funcionará en pleno y en salas regionales.
+El Tribunal Superior de Justicia funcionará en pleno y en salas colegiadas y unitarias regionales.
 
-El pleno estará integrado por todos los magistrados y las salas, por tres magistrados cada una.
+El pleno estará integrado por todos los magistrados; las salas colegiadas por tres magistrados cada una y las unitarias por un solo magistrado.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -1245,23 +1245,29 @@ IV. Expedir y modificar el Reglamento Interior del Tribunal; y
 
 V. Ejercer las atribuciones que le señalen la Ley Orgánica del Poder Judicial y otros ordenamientos legales.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE ABRIL DE 2003)</small>
 
 ###### Artículo 96.
 
-Corresponde a las salas regionales del Tribunal Superior de Justicia conocer y resolver:
+Corresponde a las salas colegiadas y unitarias regionales del Tribunal Superior de Justicia conocer y resolver:
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 I. En segunda instancia, los asuntos que determinen los ordenamientos legales aplicables;
 
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+
 II. Los conflictos de competencia que se susciten entre los jueces del Estado; y
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 III. Los demás asuntos que les confieran las leyes.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2003)</small>
 
 ###### Artículo 97.
 
-Para el despacho de los asuntos, las salas civiles conocerán los juicios de carácter civil y mercantil; las salas de lo familiar lo correspondiente a este ramo; y las salas penales los asuntos de esta materia.
+Para el despacho de los asuntos habrá en cada región, salas colegiadas y unitarias, que conocerán de los asuntos que la ley les otorgue competencia.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -2416,3 +2422,13 @@ P.O. 11 DE JUNIO DEL 2001
 PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+P.O. 16 DE ABRIL DE 2003
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
