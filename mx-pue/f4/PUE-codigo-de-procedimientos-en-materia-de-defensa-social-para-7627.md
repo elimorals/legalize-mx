@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2002-01-23"
+last_updated: "2002-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 2002.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -215,9 +215,9 @@ Cuando las partes en el juicio estimen que no es competente el Juez que conoce d
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2000)</small>
 
-I.- El auto en que se acepte o niegue la inhibición es recurrible en apelación, la cual no suspende el procedimiento.
+I.- El auto en que se acepte o niegue la inhibición es recurrible en apelación, la cual no suspende el procedimiento;
 
-II.- La resolución que acepte la inhibición no tendrá el efecto de nulificar lo actuado por el Juez declarado incompetente.
+II.- La resolución que acepte la inhibición no tendrá el efecto de nulificar lo actuado por el Juez declarado incompetente;
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2000)</small>
 
@@ -599,9 +599,25 @@ IV.- Recibir atención médica de urgencia o tratamiento psicológico, cuando lo
 
 V.- Proporcionar al Ministerio Público o al Juez directamente, todos los datos o medios de prueba con que cuente para acreditar los elementos del delito, así como la procedencia y monto de la reparación del daño; y
 
-VI.- Las demás que señalen las leyes.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2002)</small>
 
-El Juez de oficio mandará citar a la víctima, al ofendido o a su representante legal para que manifieste lo que a su derecho convenga.
+VI.- Ser informado de los derechos que en su favor señala la Constitución Política de los Estados Unidos Mexicanos y demás legislación estatal que lo establezca;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2002)</small>
+
+VII.- Que se le repare el daño, en los casos en que proceda; para lo cual el Ministerio Público deberá solicitarlo al Juez que conozca del proceso;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2002)</small>
+
+VIII.- Cuando la víctima o el ofendido sean menores de edad, no estarán obligados a carearse con el inculpado o procesado, si se tratare de los delitos de violación o violación equiparada, plagio o secuestro;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2002)</small>
+
+IX.- Solicitar a las autoridades competentes para sí o para los sujetos vinculados a ella, las medidas y providencias necesarias tendientes a proteger su integridad corporal, domicilio, posesiones o derechos; cuando existan datos fundados de que éstos puedan ser afectados por el o los responsables del delito o por terceros; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2002)</small>
+
+X.- Las demás que señalen las Leyes.
 
 ###### Artículo 55.
 
@@ -1181,15 +1197,17 @@ Cuando deba aprehenderse a un empleado o funcionario público, a un militar o ag
 
 Cuando antes de cumplida una orden de aprehensión, se desvanecieren los datos que sirvieron para fundarla, el Juez, a instancia del Ministerio Público o de oficio, decretará la suspensión de la orden, sin perjuicio de que se continúe la averiguación y se solicite y dicte posteriormente la aprehensión, cuando aparecieren elementos que la justifiquen.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 121.
 
-Cuando la Averiguación Previa así lo requiera y el Ministerio Público lo considere necesario, podrá éste decretar el arraigo del indiciado, para lo cual deberá tomar en cuenta las características del hecho imputado y las circunstancias personales del probable responsable que permitan presumir fundadamente su intención de eludir la acción de la justicia; esa determinación deberá estar plenamente fundada y motivada y el arraigo sólo se prolongará el tiempo estrictamente indispensable para integrar debidamente la Averiguación de que se trate, sin que pueda exceder de treinta días.
+Cuando la Averiguación Previa así lo requiera y el Ministerio Público lo considere necesario, podrá éste bajo su responsabilidad, solicitar por escrito a la Autoridad Judicial competente, que decrete el arraigo del indiciado; para lo cual deberá considerar las características del hecho imputado y las circunstancias personales del probable responsable, que permitan presumir fundadamente su intención de eludir la acción de la justicia; dicha petición deberá estar plenamente fundada y motivada. El arraigo sólo se prolongará el tiempo estrictamente indispensable para integrar debidamente la Averiguación Previa de que se trate, sin que pueda exceder de treinta días.
 
-De igual manera durante el proceso el Organo Jurisdiccional estará facultado para decretar el Arraigo debiendo realizar las mismas valoraciones que las señaladas para el Ministerio Público.
+El Juez notificará al indiciado y al Ministerio Público interesado de la orden de arraigo, así como señalará el lugar en que éste deba llevarse a cabo. Corresponderá al Representante Social cumplir con la medida decretada, respetando las garantías individuales del arraigado.
 
-El levantamiento del Arraigo dentro de la Averiguación Previa, será resuelto por el Ministerio Público y dentro del procedimiento, por el Juez que conoce de la causa.
+El levantamiento del arraigo será resuelto por la Autoridad Judicial que lo decretó.
+
+De igual manera durante el proceso el Órgano Jurisdiccional estará facultado para decretar el arraigo debiendo realizar las mismas valoraciones que las señaladas para el Ministerio Público.
 
 ### CAPITULO CUARTO.- PRUEBA EN MATERIA DE DEFENSA SOCIAL
 
@@ -3328,3 +3346,13 @@ P.O. 23 DE ENERO DE 2002.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE SEPTIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
