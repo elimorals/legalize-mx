@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-impuesto-sobre-alcoholes-y-bebidas-alcoholicas-21673"
 country: "mx"
 rank: "ley"
 publication_date: "1969-04-11"
-last_updated: "1974-02-28"
+last_updated: "1978-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL IMPUESTO SOBRE ALCOHOLES Y BEBIDAS ALCOHOLICAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1978.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 11 de abril de 1969.
 
@@ -557,7 +557,9 @@ X.- Transportar sin el permiso correspondiente alcohol o bebidas alcohólicas, e
 
 XI.- Violar las marcas, sellos, etiquetas y demás medios de identificación y control de la mercancía a que se refiere esta Ley, así como los flejes con que se aseguran los empaques o recipientes de los mismos.
 
-XII.- Tener en su poder o en uso, envases de capacidad mayor a 19 y a 5 litros para el alcohol o bebidas alcohólicas, respectivamente.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+XII.- Tengan en su poder o uso, envases de capacidad distinta a 20 litros y sus múltiplos, tratándose de alcohol y 5 litros tratándose de bebidas alcohólicas.
 
 XIII.- Tener en su poder o en uso envases sin la marca del producto que contengan.
 
@@ -615,7 +617,9 @@ Los envases permitidos para la venta o transporte de los productos gravados por 
 
 I.- Para las bebidas alcohólicas, hasta de 5 litros.
 
-II.- Para los alcoholes, hasta de 19 litros, con excepción del desnaturalizado que se utiliza para la industria.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+II.- Para los alcoholes los recipientes de 20 litros y sus múltiplos, con excepción del desnaturalizado que se utiliza para la Industria.
 
 ###### ARTICULO 57o.
 
@@ -720,3 +724,7 @@ Se derogan todas las disposiciones legales que se opongan a lo que previene este
 P.O. 28 DE FEBRERO DE 1974.
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1978.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
