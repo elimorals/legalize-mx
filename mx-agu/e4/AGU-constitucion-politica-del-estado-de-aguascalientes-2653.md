@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1991-02-24"
+last_updated: "1991-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 1991.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 1991.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -661,7 +661,7 @@ III.- Asistir a la apertura de los períodos ordinarios de sesiones del Congreso
 
 > <small>(REFORMADA, P.O. 26 DE AGOSTO DE 1990)</small>
 
-IV.- Informar anualmente y por escrito al Congreso del Estado, en el transcurso de los primeros quince días del Primer Período de Sesiones Ordinarias, sobre el estado general que guarde la administración pública estatal.
+IV.- Informar anualmente y por escrito al Congreso del Estado, en el transcurso de los primeros quince días del Primer Período de Sesiones Ordinarias, sobre el estado general que guarde la administración pública estatal;
 
 V.- Pedir y dar informes al Congreso sobre cualquier ramo de la Administración, y al Supremo Tribunal sobre el de Justicia;
 
@@ -725,11 +725,17 @@ El cargo de Gobernador solo es renunciable por causa grave que calificará el Co
 
 Del Secretario General de Gobierno.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1991)</small>
 
 ###### Artículo 48.
 
-Para el despacho de los negocios de la administración pública del Estado, habrá un Secretario General de Gobierno, quien deberá reunir los mismos requisitos que se requieren para ser Gobernador.
+Para el despacho de los negocios de la Administración Pública del Estado, habrá un Secretario General de Gobierno, quien deberá reunir los siguientes requisitos:
+
+I.- Ser ciudadano mexicano por nacimiento y nativo del Estado, con residencia efectiva en él, no menor de cinco años inmediatamente anteriores al día de la designación;
+
+II.- Estar en pleno ejercicio de sus derechos; y
+
+III.- Ser mayor de treinta años.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1293,7 +1299,7 @@ El presente decreto surtirá sus efectos desde la fecha de su expedición.
 
 P.O. 8 DE DICIEMBRE DE 1929.
 
-DECRETO NÚMERO 193, POR EL QUE SE REFORMAN LOS ARTÍCULOS 19 Y 33 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
+DECRETO NÚMERO 192, POR EL QUE SE REFORMAN LOS ARTÍCULOS 15, 16 Y 30 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
 ###### Artículo 3o.
 
@@ -1301,7 +1307,7 @@ El presente decreto surtirá sus efectos desde la fecha de su expedición.
 
 P.O. 8 DE DICIEMBRE DE 1929.
 
-DECRETO No. 193, POR EL QUE SE REFORMAN LOS ARTICULOS 19 Y 33 DE LA CONSTITUCION POLITICA LOCAL.
+DECRETO NÚMERO 193, POR EL QUE SE REFORMAN LOS ARTÍCULOS 19 Y 33 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
 ###### Artículo 3o.
 
@@ -1516,3 +1522,7 @@ Los Comisionados Magistrados de la Comisión Estatal Electoral y los Magistrados
 ###### ARTICULO TERCERO.
 
 Las presentes reformas y adiciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE OCTUBRE DE 1991.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
