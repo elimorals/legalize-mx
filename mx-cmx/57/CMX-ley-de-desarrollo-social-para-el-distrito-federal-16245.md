@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-social-para-el-distrito-federal-16245"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-23"
-last_updated: "2000-05-23"
+last_updated: "2002-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16245&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-04-24"
 
 LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de mayo de 2000.
 
@@ -402,6 +402,14 @@ I. Creará y operará un Sistema de Información en materia de Desarrollo Social
 
 II. Recibirá las propuestas de los Consejos Delegacionales, organizaciones civiles y de la sociedad en general a fin de analizarías y, en su caso, incorporarlas a los criterios de ejecución del Programa de Desarrollo Social, coordinándose para ello con el Consejo.
 
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
+
+Artículo 28 bis.- En los subsidios y beneficios de tipo material y económico que se otorguen, con objeto de los programas sociales específicos implementados por el Gobierno del Distrito Federal y las Delegaciones, deberán llevar impreso la siguiente leyenda:
+
+"Este programa es de carácter público, no es patrocinado ni promovido por partido político alguno y sus recursos provienen de los impuestos que pagan todos los contribuyentes. Esta prohibido el uso de este programa con fines políticos, electorales, de lucro y otros distintos a los establecidos.
+
+Quien haga uso haga uso indebido de los recursos de este programa, en el Distrito Federal será sancionado de acuerdo con la Ley aplicable y ante la autoridad competente".
+
 ###### Artículo 29.
 
 La sociedad podrá participar activamente en la planeación, programación, implementación y evaluación de los programas y acciones de Desarrollo Social, de acuerdo a lo establecido por la Ley y la ley de Participación Ciudadana del Distrito Federal.
@@ -455,3 +463,15 @@ TERCERO.- El Consejo de Desarrollo Social, los Consejos Delegacionales y la Comi
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a 11 de abril del dos mil.- POR LA MESA DIRECTIVA.- DIP. MARIA DE LOS ANGELES CORREA DE LUCIO, PRESIDENTA.- DIP. ELVIRA ALBARRAN RODRIGUEZ, SECRETARIA.- DIP. JESUS EDUARDO TOLEDANO LANDERO, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 57, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia de la Jefa de Gobierno del Distrito Federal, en la Cuidad de México, a los veinticuatro días del mes de abril de dos mil.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, CLARA JUSIDMAN RAPOPORT.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 26 DE DICIEMBRE DE 2002.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Para su mayor difusión, publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+CUARTO.- El Jefe de Gobierno del Distrito Federal, realizara las adecuaciones necesarias en los materiales entregados con objeto de cumplir los programas sociales específicos, a fin de dar cumplimiento al presente decreto.
