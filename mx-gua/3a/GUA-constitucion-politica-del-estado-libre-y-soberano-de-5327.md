@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1973-12-09"
+last_updated: "1973-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1973.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -595,19 +595,19 @@ Del Poder Legislativo.
 
 La Legislatura Local se compondrá cuando menos, del número de Diputados Propietarios que, como mínimo y atenta la población del Estado, señale la Constitución General de la República, designados por Distritos Electorales cada tres años, en la forma que determine el Código Electoral del Estado. Por cada Diputado propietario se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1973)</small>
 
 ###### Art. 36.
 
 Para ser Diputado a la Legislatura del Estado, se requiere:
 
-I. Ser Ciudadano guanajuatense en ejercicio de sus derechos y no haber sido condenado por delito alguno contra la propiedad.
+I. Ser ciudadano guanajuatense en ejercicio de sus derechos y no haber sido condenado ejecutoriamente por delitos cometidos en ejercicio de funciones públicas o por delitos graves del orden común.
 
-II. Haber terminado la instrucción primaria.
+II. Haber terminado la educación primaria y tener un modo honesto de vivir.
 
-III. Tener veinticinco años cumplidos al tiempo de la elección.
+III. Tener 21 años cumplidos al tiempo de la elección; y.
 
-IV. No encontrarse comprendido en alguna de las prohibiciones que señala el artículo siguiente.
+IV.- No encontrarse comprendido en alguna de las prohibiciones que señala el artículo siguiente.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
 
@@ -1243,7 +1243,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 P.O. 19 DE AGOSTO DE 1945.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
 
 P.O. 19 DE ENERO DE 1950.
 
@@ -1328,3 +1328,9 @@ P.O. 9 DE DICIEMBRE DE 1973.
 ###### ARTICULO UNICO.
 
 Las reformas a la Constitución Política del Estado Libre y Soberano de Guanajuato, contenidas en este decreto, entrarán en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE DICIEMBRE DE 1973.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
