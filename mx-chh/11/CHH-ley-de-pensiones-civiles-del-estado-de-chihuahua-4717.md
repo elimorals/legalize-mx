@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-pensiones-civiles-del-estado-de-chihuahua-4717"
 country: "mx"
 rank: "ley"
 publication_date: "1981-12-19"
-last_updated: "1994-07-09"
+last_updated: "1994-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PENSIONES CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1994.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de diciembre de 1981.
 
@@ -259,9 +259,11 @@ En los casos señalados en el artículo 54 el trabajador deberá pagar la totali
 
 El patrimonio de Pensiones y las operaciones que afecten al Fondo, gozarán de las exenciones y franquicias que señalen las leyes para los bienes del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
+
 ###### ARTICULO 18.
 
-Los regímenes patrimonial y financiero de la Institución son independientes de los del Estado e instituciones afiliadas. El Director de Pensiones Civiles solicitará al Gobierno del Estado la práctica de dos auditorías durante el período constitucional de la administración pública en el segundo y quinto años del mismo.
+Los regímenes patrimonial y financiero de la institución son independientes de los del Estado e instituciones afiliadas. El director de pensiones civiles solicitará al gobierno del Estado la práctica de auditorías durante el período constitucional de la administración pública, en el segundo y quinto años del mismo; independientemente de lo previsto por el artículo 137 de la Constitución Política del Estado.
 
 ###### ARTICULO 19.
 
@@ -716,3 +718,9 @@ P.O. 9 DE JULIO DE 1994.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 1994.
+
+PRIMERO:- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
