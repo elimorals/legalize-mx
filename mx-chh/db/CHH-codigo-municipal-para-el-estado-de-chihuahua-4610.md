@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2003-04-05"
+last_updated: "2003-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2003.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -771,9 +771,13 @@ VI.- Informar al Ayuntamiento sobre cualquier deficiencia que notare en los dife
 
 VII.- Proponer al Ayuntamiento, iniciativas de reglamentos y de iniciativa de ley, al Congreso del Estado en asuntos municipales;
 
-VIII.- No podrán ser reconvenidos por las opiniones que manifiesten, en el desempeño de su cargo, disfrutarán de las dietas, que acuerde el Ayuntamiento y contarán con los apoyos que les corresponda, conforme al reglamento interior, para realizar las gestorías de auxilio a los habitantes del Municipio; y
+VIII.- No podrán ser reconvenidos por las opiniones que manifiesten, en el desempeño de su cargo, disfrutarán de las dietas, que acuerde el Ayuntamiento y contarán con los apoyos que les corresponda, conforme al reglamento interior, para realizar las gestorías de auxilio a los habitantes del Municipio; y (sic)
 
-IX.- Las demás que les otorguen, otras disposiciones aplicables a la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2003)</small>
+
+IX.- Una vez que reciba de la Asamblea Municipal la constancia de mayoría y antes de tomar posesión del cargo, asistir a los cursos de Profesionalización, Capacitación y Formación que instrumente el Ayuntamiento respectivo, tendientes a proporcionar conocimiento y habilidades inherentes al cargo para el que fueron electos;
+
+X.- Las demás que les otorguen, otras disposiciones aplicables a la materia.
 
 ###### ARTICULO 34.
 
@@ -3306,6 +3310,12 @@ DECRETO No. 606/03 VI P.E.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 5 DE ABRIL DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE ABRIL DE 2003.
 
 ###### ARTICULO UNICO.
 
