@@ -4,7 +4,7 @@ identifier: "DUR-codigo-fiscal-municipal-4881"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-03-20"
-last_updated: "1988-03-20"
+last_updated: "1988-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO FISCAL MUNICIPAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 1988.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 20 de marzo de 1988.
 
@@ -237,7 +237,9 @@ Son atribuciones del Presidente Municipal:
 
 I.- Ordenar la baja de establecimientos comerciales, industriales o de prestación de servicios en los casos en que se omita el aviso de clausura, por muerte o ausencia de los contribuyentes, debiendo recaer acuerdo escrito fundado y motivado sobre el particular;
 
-II.- Condonar parcialmente hasta en un 50% las multas por infracciones a las disposiciones fiscales, debiendo recaer escrito debidamente motivado sobre el particular;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1988)</small>
+
+II.- Condonar parcialmente hasta un 50% las multas por infracciones a las disposiciones fiscales y recargos debiendo recaer escrito debidamente motivado sobre el particular;
 
 III.- Condonar las multas administrativas, únicamente cuando el infractor sea persona insolvente o cuando la infracción sea leve y no haya mediado mala fé ni intención de eludir las obligaciones correspondientes;
 
@@ -249,9 +251,15 @@ VI.- Autorizar la matanza de ganado, aves y otras especies, fuera de los rastros
 
 VII.- Otorgar las licencias de funcionamiento de giros;
 
-VIII.- Acordar la revocación de Iicencias de funcionamiento de giros, de conformidad al procedimiento que se establece en la presente Ley; y
+VIII.- Acordar la revocación de Iicencias de funcionamiento de giros, de conformidad al procedimiento que se establece en la presente Ley; y (sic9
 
-IX.- Las demás que le otorguen las Leyes y Reglamentos, de carácter fiscal.
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 1988)</small>
+
+IX.- Autorizar hasta un 30% de reducción en los créditos fiscales, tomando en consideración las circunstancias específicas de cada caso;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1988)</small>
+
+X.- Las demás que le otorguen las leyes y reglamentos.
 
 ###### ARTICULO 25o.
 
@@ -1337,7 +1345,25 @@ V.- Los derechos por avalúo, conforme la tarifa en vigor.
 
 VI.- Los de impresión y publicidad de convocatorias.
 
-VII.- Los demás que, con el carácter de extraordinarios eroguen las autoridades ejecutoras, con motivo del procedimiento de ejecución.
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 1988)</small>
+
+VII.- Mínimo de gastos de Ejecución: Cuando en los casos de las infracciones anteriores, el 3% del crédito sea inferior al 80% de un salario mínimo general diario de la zona económica correspondiente al Municipio de Durango, se cobrará esta cantidad en vez del 3% del crédito.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 1988)</small>
+
+VIII.- Máximo de los Gastos de Ejecución: En ningún caso los gastos de ejecución por cada una de las diligencias a que se refiere este Artículo, excluyendo las erogaciones extraordinarias, podrán ascender de la cantidad equivalente al 80% de un salario mínimo general de la zona económica correspondiente al municipio de Durango, elevado al año.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 1988)</small>
+
+IX.- Los ingresos obtenidos por concepto de Gastos de Ejecución, se distribuirán entre el personal que participe en el proceso de ejecución y los funcionarios del Ayuntamiento que intervinieren en el proceso de ejecución en la forma que acuerde el Tesorero Municipal.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 1988)</small>
+
+X. Los demás que con el carácter de extraordinario erogan las autoridades ejecutoras con motivo del procedimiento de ejecución.
+
+(REUBICADA [N. DE E. REFORMADA], P.O. 26 DE JUNIO DE 1988)
+
+XI.- Las demás que, con el cargo de extraordinarios erogan las autoridades ejecutoras, con motivo del procedimiento de ejecución.
 
 El fondo que se forme con los honorarios de ejecución, se distribuirá en la forma que acuerde el Ayuntamiento.
 
@@ -2040,3 +2066,9 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los cuat
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSE RAMIREZ GAMERO. Rúbrica.
 
 EL SECRETARIO GENERAL DE GOBIERNO. LIC. GUSTAVO RIVERA RAMOS. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 26 DE JUNIO DE 1988.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
