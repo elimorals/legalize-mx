@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1983-02-26"
+last_updated: "1984-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 1984.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -481,9 +481,11 @@ II. Con el control y vigilancia de la Contaduría Mayor de Hacienda, proponiendo
 
 III.Con el nombramiento y la remoción de los empleados de la Contaduría Mayor de Hacienda y la proposición de sanciones administrativas a que se hagan éstos acreedores.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
+
 ###### Artículo 38.
 
-Corresponde a la Comisión de Responsabilidades, el conocimiento de los asuntos en los que el Congreso deba resolver, erigiéndose en GRAN JURADO o en JURADO DE ACUSACION o de ACUSACION Y SENTENCIA , conforme a lo preceptuado por los Artículos 49, 50 y 51 de la Constitución Política del Estado;
+Corresponde a la Comisión de Responsabilidades, el conocimiento de los asuntos en los que el Congreso deba resolver, erigiéndose en jurado de acusación y de sentencia, conforme lo preceptuado por el Art. 49, de la Constitución Política del Estado; o en jurado de procedencia, conforme a lo dispuesto por el Art. 50 de la propia Constitución, y con sujeción a los procedimientos que establece el título IX de esta Ley.
 
 ###### Artículo 39.
 
@@ -1013,7 +1015,9 @@ Se entiende por mayoría de votos, la correspondiente a la mitad más uno de los
 
 Se entiende por mayoría absoluta de votos, la correspondiente a la mitad más uno de los Diputados que integren el Congreso.
 
-### CAPITULO UNICO
+### CAPITULO I. Del Procedimiento en el Juicio Político
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
 
 ###### Artículo 132.
 
@@ -1053,6 +1057,10 @@ Toda minuta de ley o de decreto se iniciará con las siguientes palabras: "El Co
 
 ## TITULO SEPTIMO. De la Contaduría Mayor de Hacienda
 
+### CAPITULO II. De la Declaración de Procedencia del Juicio Penal
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
 ###### Artículo 141.
 
 La Contaduría Mayor de Hacienda es la dependencia del Congreso que desempeña las labores de revisión de las cuentas públicas del Estado y de los Ayuntamientos, bajo la vigilancia de la Comisión de Inspección del propio Congreso. De igual manera, tiene las atribuciones que en materia de presupuestos, le señala su Ley Orgánica.
@@ -1085,6 +1093,10 @@ X. Las que se deriven de la Ley Orgánica de la Contaduría Mayor de Hacienda y 
 
 ## TITULO VIII. De la Secretaría del Congreso
 
+### CAPITULO III. Disposiciones Comunes para los Capítulos I y II de este Título
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
 ###### Artículo 143.
 
 Los empleos de la Secretaría del Congreso, serán desempeñados por las personas que éste designe, a proposición de cualquiera de los Diputados, previo dictamen de la Comisión de Tesorería. Dichos empleos serán en el número y categoría que señala el Presupuesto de Egresos de la Entidad, pero siempre será obligatorio el que haya un Oficial Mayor.
@@ -1113,61 +1125,397 @@ VII. Cuidar el archivo, de acuerdo con las disposiciones que dicte la Presidenci
 
 VIII. Cuidar de que haya en existencia, suficiente papelería y útiles de oficina, para el desempeño de las funciones a cargo de la Secretaría.
 
-## TITULO IX. De la Diputación Permanente
+(REFORMADA SU DENOMINACION, CAPITULOS Y ARTICULOS QUE
+
+LO INTEGRAN, P.O. 12 DE ABRIL DE 1984
+
+## TITULO IX. Procedimiento en Materia de Responsabilidades de
+
+Los Servidores Públicos
+
+(REFORMADO CON LOS Ý ARTICULOS
+
+QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 1984)
 
 ###### Artículo 146.
 
-En la última sesión de un período ordinario, el Congreso deberá elegir los integrantes Propietarios y Suplentes de la Diputación Permanente, que deba fungir durante todo el receso, aun cuando el Congreso funcione en períodos extraordinarios.
+Corresponde a la Comisión de Responsabilidades del Congreso del Estado, instruir los procedimientos de los asuntos en que la Legislatura deba resolver, erigida en jurado de acusación y en jurado de sentencia, en contra de los servidores públicos que señala el Art. 49 de la Constitución Política Local.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
 
 ###### Artículo 147.
 
-La Diputación Permanente elegirá de entre sus integrantes, y precisamente en la sesión de su instalación, que se celebrará al día siguiente del en que el Congreso hubiere clausurado el período ordinario inmediato anterior, un Presidente, dos Secretarios y Dos Vocales primero y segundo, así como tres Suplentes.
+Las denuncias serán presentadas ante el Oficial Mayor del Congreso, quien asentará de inmediato la ratificación, previa identificación del denunciante.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
 
 ###### Artículo 148.
 
-En las faltas accidentales del Presidente, lo substituirá el Primer Vocal y en ausencia de éste, el Segundo Vocal.
+Turnada la denuncia a la Comisión de Responsabilidades, ésta dictaminará si la conducta atribuida corresponde a las enumeradas en el Art. 7º. De la Ley de Responsabilidades de los Servidores Públicos del estado de Jalisco y si el inculpado está comprendido entre los servidores públicos a que se refiere el Art. 2º. de la misma Ley, así como si la denuncia es procedente y, por lo tanto, amerita la incoación del procedimiento.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
 
 ###### Artículo 149.
 
-En caso de falta definitiva del Presidente, la propia Diputación elegirán de entre sus integrantes, quien lo substituya.
+Dentro de los tres días hábiles siguientes al dictamen a que se hace referencia en el artículo anterior, la Comisión comunicará al denunciado sobre la materia de la denuncia, haciéndole saber su garantía de defensa y que puede, a su elección, comparecer o informar por escrito y ofrecer pruebas, dentro de los cinco días hábiles siguientes a la notificación.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
 
 ###### Artículo 150.
 
-En las faltas accidentales de los Secretarios, el Presidente nombrará al que deba substituirlos, eligiendo de entre los Vocales.
+La Comisión abrirá un periodo de veinte días hábiles, para el desahogo de pruebas, dentro del cual evacuará las admitidas al denunciante y al servidor público, así como las que la propia Comisión estime necesarias.
+
+Si al concluir el plazo señalado no hubiese sido posible desahogar las pruebas ofrecidas, o es preciso allegarse otras, la Comisión podrá ampliarlo por el término que resulte estrictamente necesario.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
 
 ###### Artículo 151.
 
-En caso de falta definitiva de uno o de ambos Secretarios, se procederá de acuerdo con lo dispuesto por el Artículo 149.
+Terminada la instrucción del procedimiento, se pondrá el expediente a la vista del denunciante, por un plazo de tres días hábiles, y por otros tantos a la del servidor público y sus defensores, a fin de que tomen los datos que requieran para formular sus alegatos, mismos que deberán presentar por escrito, dentro de los tres días hábiles siguientes a la conclusión del segundo plazo señalado.
 
-Si las faltas a que se refieren los artículos anteriores, no pudieren ser cubiertas por quienes deban suplirlos, se llamará a los Suplentes.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
 
 ###### Artículo 152.
 
-La Diputación Permanente comunicará al Ejecutivo, la forma en que quedó integrada, a más tardar el día hábil que siga al de su instalación. Igual comunicación enviará a las demás autoridades que señala el artículo 84, tanto al instalarse como al clausurar sus labores.
+Transcurrido el plazo para la presentación de los alegatos, se hayan o no presentado éstos, la Comisión formulará sus conclusiones, en vista de las constancias del procedimiento. Para este efecto, analizará los hechos imputados, valorará las pruebas desahogadas, y hará las consideraciones jurídicas que procedan, para fundar la terminación o continuación del procedimiento.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
 
 ###### Artículo 153.
 
-La Diputación Permanente deberá celebrar cuando menos una sesión semanal, y podrá funcionar con la asistencia de tres de sus componentes.
+Si de las constancias procesales se desprende la inocencia del denunciado, la Comisión propondrá en sus conclusiones que no ha lugar a acusar.
+
+En caso contrario, las conclusiones acusatorias precisarán:
+
+I. La descripción exacta de los hechos y en cuál de los casos previstos por el Art. 7º. de la Ley de Responsabilidades de los Servidores Públicos del estado de Jalisco, encuadran; si los hechos denunciados están legalmente comprobados y cuáles son los elementos de convicción que los acreditan;
+
+II. Que quedó demostrada la presunta responsabilidad del denunciado, precisando los elementos de convicción que la llevaron a esta conclusión;
+
+III. Las circunstancias que hubiesen concurrido en los hechos; y
+
+IV. La sanción que deba imponerse.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
 
 ###### Artículo 154.
 
-Los negocios que hayan quedado pendientes de dictamen en el período inmediato anterior y los que se hayan recibido durante el receso, deberán ser dictaminados por la Diputación Permanente, la que dará cuenta con ellos al Congreso en el período ordinario siguiente o en el extraordinario que se celebre si fuere el caso; pero de ninguna manera podrá, la Diputación Permanente, dictaminar sobre asuntos que correspondan a las Comisiones de Tesorería, Responsabilidades y Asuntos Electorales.
+Si la Comisión resolviese que no procede acusar al servidor público, éste continuará en el ejercicio de su cargo. En caso contrario, se le pondrá a disposición de la Asamblea del Congreso que, erigida en Jurado de Acusación, procederá a votar y discutir las conclusiones propuestas, siendo la misma Comisión la que las sostendrá ante dicha Asamblea.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
 
 ###### Artículo 155.
 
-A fin de facilitar el despacho de los dictámenes que emita la Diputación Permanente, ésta deberá distribuir entre sus integrantes, las Comisiones a que se refiere el Capítulo III del Título III de esta Ley, Comisiones que tendrán el carácter de internas. Dichas Comisiones formularán los proyectos que le correspondan, con la obligación de rendirlos en un término de quince días, contados a partir de la fecha en que haya recibido los documentos relativos. La Diputación Permanente resolverá, si los proyectos formulados por las Comisiones Internas los hace suyos, como dictámenes o bien, si designa a otros integrantes de ella para que formulen un nuevo proyecto.
+Una vez aprobadas las conclusiones acusatorias, la Asamblea, por conducto del Oficial Mayor, emplazará a la Comisión encargada de la acusación, al acusado y a su defensor para que en un término de cinco días ofrezcan sus pruebas.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
 
 ###### Artículo 156.
 
-El Presidente y los Secretarios de la Diputación Permanente, tendrán las mismas facultades que el Presidente y los Secretarios del Congreso, en lo conducente.
+En esta etapa, solo se admitirán las pruebas que, ofrecidas en tiempo ante la Comisión, no hubiesen sido desahogadas, y las supervenientes que versen sobre hechos de igual naturaleza.
+
+La Asamblea podrá disponer la práctica de las diligencias que estime necesarias para el mejor conocimiento de los hechos.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
 
 ###### Artículo 157.
 
-Las sesiones, discusiones y votaciones de la Diputación Permanente, se regirán por las disposiciones aplicables relativas al Congreso.
+El desahogo de las pruebas y la práctica de las diligencias a que se refiere el artículo anterior, se llevarán a cabo en un término no mayor de quince días hábiles.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
 
 ###### Artículo 158.
 
-La Representación del Poder Legislativo radicará en la Diputación Permanente, durante los recesos del Congreso.
+Desahogadas las pruebas, o transcurrido el término para ello, la Asamblea se erigirá en jurado de sentencia y citará a la Comisión, al acusado y a su defensor, a una audiencia que se desarrollará como sigue:
+
+I. La Secretaría dará lectura a las constancias procesales, así como a las conclusiones formuladas por la Comisión, la cual hará las aclaraciones que le soliciten, el acusado, su defensor o cualquiera de los integrantes de la Asamblea;
+
+II. Se concederá la palabra a un miembro de la Comisión, al acusado y a su defensor, para que expresen alegatos; y
+
+III. Retirados el acusado y su defensor, se discutirá y resolverá sobre la procedencia o improcedencia de la acusación y, en su caso, sobre la imposición de la sanción o sanciones pertinentes, correspondiendo al Presidente de la Asamblea hacer la declaratoria respectiva.
+
+(ADICIONADO CON LOS ARTICULOS
+
+QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 1984)
+
+### CAPITULO IV. De las Sanciones Administrativas
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 159.
+
+Cuando se presente denuncia ante el Congreso del Estado por el Ministerio Público, a fin de que pueda procederse penalmente en contra de alguno de los servidores públicos a que se refiere el Art. 50, de la Constitución Política del Estado, y de los Magistrados del Poder Judicial, cumplidos los requisitos procedimentales respectivos para el ejercicio de la acción penal, se actuará en lo pertinente, de acuerdo con el procedimiento previsto en el capítulo anterior en materia de juicio político. En este caso, la Comisión de Responsabilidades citará al denunciado y, con intervención de éste, recibirá las pruebas que le ofrezca el denunciante, a efecto de emitir dictamen, dentro de los treinta días hábiles siguientes, donde precise, si los hechos que se atribuyen al denunciado, pueden o no ser constitutivos de delito y, además si las pruebas desahogadas generan indicios suficientes para presumir la intervención en aquellos, por parte del denunciado.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 160.
+
+Recibido el dictamen correspondiente por la Asamblea, el Presidente del Congreso anunciará a este, que debe erigirse en jurado de procedencia, dentro de las 24 horas siguientes a la fecha en que se hubiese depositado el dictamen, haciéndolo saber el inculpado, a su defensor, así como al denunciante.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 161.
+
+A la hora señalada, de conformidad a lo dispuesto por el artículo anterior, previa declaración del Presidente del Congreso, este conocerá en asamblea del dictamen que la comisión le presente y actuará en los mismos términos previstos por el Art. 158, en materia de juicio político.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 162.
+
+Si la Asamblea declara que ha lugar a proceder contra el inculpado, éste quedará inmediatamente separado de su empleo, cargo o comisión y, sujeto a la jurisdicción de las autoridades competentes. En caso negativo, no habrá lugar a procedimiento ulterior, mientras subsista el fuero, pero tal declaración no será obstáculo para que el procedimiento continúe su curso, cuando el servidor público haya concluido el desempeño de su empleo, cargo o comisión.
+
+Por ningún motivo tendrán trascendencia jurídica, en los procesos penales, los procedimientos y las declaraciones a que se refiere este capítulo.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 163.
+
+No podrá seguirse proceso penal a un servidor público de los que se hace referencia en el Art. 159 de esta Ley, sin haberse satisfecho los requisitos a que se refiere este capítulo. El Congreso, o la Diputación Permanente, en su caso, a través de la Secretaría, librarán oficio al juez que conozca de la causa, a fin de que suspenda el procedimiento, en tanto se plantea y resuelve si ha lugar a proceder, ordenando deje sin efecto cualquier orden de comparecencia, para declaración preparatoria, o restrictiva de libertad, si la hubiese dictado.
+
+(ADICIONADO CON LOS ARTICULOS
+
+QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 1984)
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 164.
+
+Durante el receso del Congreso, la diputación permanente deberá convocar al mismo a sesiones extraordinarias, en los casos de denuncias de grave responsabilidad de servidores públicos.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 165.
+
+Por ningún motivo, podrá disponerse trámite alguno de los establecidos en los capítulos I y II de este Título.
+
+Las declaraciones y resoluciones definitivas del Congreso del Estado, en materia de juicio político y declaración de procedencia, son inatacables.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 166.
+
+Cuando la Comisión de Responsabilidades, o la Asamblea, deba practicar una diligencia de pruebas, que requiera la presencia del denunciado, se notificará a éste, para que concurra a ella o informe por escrito. La falta de comparecencia o de informe no perjudicará al inculpado.
+
+Se podrá encomendar al juez de Primera Instancia que corresponda, la práctica de aquellas diligencias que deban desahogarse fuera del lugar de residencia del Congreso, por medio de despacho firmado por el Presidente de la Comisión de Responsabilidades, o por los Secretarios del Congreso, al que se acompañará testimonio de las constancias necesarias.
+
+El Juez de Primera Instancia practicará las diligencias que se le encomienden, con estricta sujeción a las indicaciones que aquellos le comuniquen.
+
+Para la práctica de las diligencias a que se refiere este artículo, todas las comunicaciones se entregarán personalmente, o se enviarán por correo, en pieza certificada y con acuse de recibo, libres de gasto.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 167.
+
+Los miembros del Congreso que hayan de intervenir en algún acto del procedimiento podrán excusars4e, y ser recusados, sólo cuando tuviesen con el denunciado alguno de los vínculos que señalan las fracciones siguientes:
+
+I. Parentesco hasta el cuarto grado en cualquier línea;
+
+II. Amistad estrecha;
+
+III. Enemistad manifiesta, o
+
+IV. Ser denunciante o defensor en el procedimiento de que se trate.
+
+Sólo con expresión de causa podrá recusarse a cualquiera de los miembros del Congreso del Estado que deban participar en actos del procedimiento.
+
+La recusación podrá hacerse valer por el servidor público, desde que sea requerido para que nombre defensor y hasta la fecha en que se cite para la audiencia, en la que el Congreso se erigirá en jurado de procedimiento o de sentencia.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 168.
+
+Presentada la excusa o la recusación, la Comisión o la asamblea, en su caso, sin intervención del impugnado, la calificara dentro de los tres días hábiles siguientes.
+
+Declarada procedente la excusa o la recusación, y si se trata de un miembro de la Comisión de Responsabilidades, se llamará a otro para integrarla.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 169.
+
+La asamblea, la Comisión de Responsabilidades, el denunciante, así como el denunciado y su defensor, podrán solicitar de las oficinas o establecimientos públicos, los documentos y expedientes originales, en su caso, copias certificadas que pretendan ofrecer como prueba ante la Comisión o la asamblea y que se relacionen con los hechos motivo de estos procedimientos.
+
+Las autoridades estarán obligadas a entregar las constancias señaladas en el párrafo anterior, sin costo alguno y sin demora. Si no lo hicieren, la Comisión o la asamblea por sí, o a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, apercibida de que, en caso de no hacerlo, pondrá en conocimiento de su superior jerárquico dicha omisión para que proceda, sancionando, según sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 170.
+
+Dictada la resolución definitiva en el procedimiento, los documentos y expedientes mencionados deberán ser devueltos a la oficina de su procedencia, pudiendo dejarse copia certificada de las constancias que la Comisión o la asamblea estimen pertinentes.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 171.
+
+La Comisión o la asamblea no podrán erigirse en órgano de acusación o jurado de procedencia o sentencia, sin que antes se compruebe, fehacientemente, que el servidor público, su defensor, o el denunciante, han sido debidamente citados.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 172.
+
+Cuando en el curso del procedimiento seguido a un servidor público, de los mencionados en los Arts. 146 y 159 de esta Ley, se presentare nueva denuncia o requerimiento en su contra, se procederá respecto de ella con arreglo a este título, hasta agotar la instrucción de los diversos procedimientos, procurando, de ser posible, la acumulación procesal.
+
+Si la acumulación fuese procedente, la Comisión formulará en un solo documento sus conclusiones o dictamen, que comprenderá el resultado de los diversos procedimientos.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 173.
+
+La Comisión y la Asamblea podrán disponer las medidas de apercibimiento que fuesen necesarias, mediante acuerdo de la mayoría de sus miembros presentes, en la sesión respectiva.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 174.
+
+Las declaraciones o resoluciones aprobadas por la Comisión o la Asamblea, con arreglo a esta Ley, se comunicarán a los Tribunales del Poder Judicial, si se trata de alguno de sus integrantes, y al Ejecutivo, para su conocimiento y efectos legales, así como para su publicación en el Periódico Oficial El Estado de Jalisco. El mismo aviso se dará al Ayuntamiento respectivo, tratándose de alguno de sus munícipes.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 175.
+
+En todas las cuestiones referentes a la materia sustantiva o adjetiva, no previstas en esta Ley, se aplicarán, en lo conducente, las disposiciones de los Códigos Penal y de Procedimientos Penales del Estado.
+
+(ADICIONADO CON LOS ARTICULOS
+
+QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 1984)
+
+###### Artículo 176.
+
+Incurren en responsabilidades administrativas, los servidores públicos que infrinjan las obligaciones establecidas en el Capítulo I, del Título Tercero, de la Ley de Responsabilidades de los Servidores Públicos del estado de Jalisco.
+
+Cualquiera persona, bajo su más estricta responsabilidad, y aportando elementos de prueba, podrá denunciar actos u omisiones que impliquen responsabilidades de los servidores públicos.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 177.
+
+El Congreso del Estado o la Diputación Permanente, por conducto del titular de la Comisión de Tesorería, para el buen funcionamiento de la administración, por incumplimiento de las obligaciones a que se refiere el artículo anterior, podrá imponer las siguientes sanciones:
+
+I. Amonestación por escrito;
+
+II. Suspensión en el empleo, cargo o comisión, hasta por treinta días;
+
+III. Destitución; y
+
+IV. Destitución con inhabilitación, hasta por seis años, para desempeñar empleos, cargos o comisiones en el servicio público.
+
+El propio titular de Tesorería podrá autorizar al Oficial Mayor, para aplicar la primera de las sanciones señaladas.
+
+La sanción prevista en la frac. IV de este artículo, se aplicará, conforme lo dispone la Ley de Responsabilidades de los Servidores públicos del estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 178.
+
+Para aplicar las sanciones establecidas en este capítulo, con excepción de la de amonestación por escrito, se deberá estar a las siguientes reglas:
+
+I. Conocida una irregularidad, se solicitará informe al servidor público presunto responsable de la misma, haciéndole llegar, en su caso, copia de la denuncia o acta administrativa, así como la documentación en que se funden, concediéndole un término de cinco días hábiles para que produzca, por escrito, su contestación, y ofrezca las pruebas conducentes;
+
+II. Transcurrido el término mencionado en la fracción que antecede, se señalará día y hora para la celebración de una audiencia, en la que se desahogarán las pruebas ofrecidas y se expresarán los alegatos, citándose al denunciante y al servidor público, encargado para resolución, la que deberá ser pronunciada, dentro de los quince días hábiles siguientes;
+
+III. La resolución que se dicte deberá notificarse al encausado, así como al denunciante, dentro de los tres días hábiles siguientes a aquél en que se pronuncie. Cuando no se contare con elementos suficientes para resolver, o se descubriesen algunos que impliquen nueva responsabilidad a cargo del denunciado, o de otra persona, y hasta antes de la citación para pronunciar resolución, podrá ordenarse la práctica de diligencias para mejor proveer, así como el emplazamiento de los servidores públicos involucrados; y
+
+IV. De todas las diligencias que se practiquen, se levantará acta circunstanciada, que deberán suscribir quienes en ella intervengan. En caso de negativa, se asentará tal circunstancia, sin que esto afecte su valor probatorio.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 179.
+
+Las resoluciones por las que se impongan las sanciones administrativas, previstas en las fracs. II, III y IV, del Art. 177, de esta Ley, podrán ser impugnadas por el servidor público, ante el Tribunal de Arbitraje y Escalafón.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 180.
+
+En todo lo no previsto en este capítulo, se estará a lo que al efecto dispone la Ley de Responsabilidades de Servidores Públicos del estado de Jalisco.
+
+(ADICIONADO CON EL CAPITULO Y ARTICULOS
+
+QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 1984)
+
+## TITULO X. De la Diputación Permanente
+
+(ADICIONADO CON LOS ARTICULOS
+
+QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 1984)
+
+###### Artículo 181.
+
+En la última sesión de un período ordinario, el Congreso deberá elegir los integrantes propietarios y suplentes de la diputación permanente, que deba fungir durante todo el receso, aún cuando el Congreso funcione en períodos extraordinarios.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 182.
+
+La diputación permanente elegirá de entre sus integrantes, y precisamente en la sesión de su instalación, que se celebrará al día siguiente del que el Congreso hubiese clausurado el período ordinario inmediato anterior, un presidente, dos secretarios y dos vocales primero y segundo, así como tres suplentes.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 183.
+
+En las faltas accidentales del Presidente, lo substituirá el Primer Vocal y, en ausencia de éste, el Segundo Vocal.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 184.
+
+En caso de falta definitiva del Presidente, la propia diputación elegirá, de entre sus integrantes, quien lo sustituya.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 185.
+
+En las faltas accidentales de los secretarios, el presidente nombrará al que deba sustituirlos, eligiendo de entre los vocales.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 186.
+
+En caso de falta definitiva de uno o de ambos secretarios, se procederá de acuerdo con lo dispuesto por el Art. 184.
+
+Si las faltas a que se refieren los artículos anteriores no pudiesen ser cubiertas por quienes deban suplirlos, se llamará a los suplentes.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 187.
+
+La diputación permanente comunicará al Ejecutivo, la forma en que quedó integrada, a más tardar el día hábil que siga al de su instalación. Igual comunicación enviará a las demás autoridades que señala el artículo 84, tanto al instalarse como al clausurar sus labores.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 188.
+
+La diputación permanente deberá celebrar cuando menos, una sesión semanal, y podrá funcionar con la asistencia de tres de sus componentes.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 189.
+
+Los asuntos que hayan quedado pendientes de dictamen en el período inmediato anterior, y los que se hayan recibido durante el receso, deberán ser dictaminados por la diputación permanente, la que dará cuenta con ellos al Congreso, en el período ordinario siguiente, o en el extraordinario que se celebre, si fuere el caso; pero, de ninguna manera, podrá la diputación permanente, dictaminar sobre asuntos que correspondan a las comisiones de Tesorería, responsabilidades y asuntos electorales.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 190.
+
+A fin de facilitar el despacho de los dictámenes que emita la diputación permanente, ésta deberá distribuir, entre sus integrantes, las comisiones a que se refiere el capítulo III, del título III, de esta Ley, Comisiones que tendrán el carácter de internas. Dichas comisiones formularán los proyectos que le correspondan, con la obligación de rendirlos en un término de quince días, contados a partir de la fecha en que hayan recibido los documentos relativos. La diputación permanente resolverá si los proyectos formulados por las comisiones Internas los hace suyos, como dictámenes, o bien, si designa a otros integrantes de ella para que formulen un nuevo proyecto.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 191.
+
+El presidente y los secretarios de la diputación permanente, tendrán las mismas facultades que el presidente y los secretarios del Congreso, en lo conducente.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 192.
+
+Las sesiones, discusiones y votaciones de la diputación permanente se regirán por las disposiciones aplicables, relativas al Congreso.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
+###### Artículo 193.
+
+La representación del Poder Legislativo radicará en la diputación permanente, durante los recesos del Congreso.
 
 ## TRANSITORIOS
 
@@ -1244,3 +1592,9 @@ Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 26 DE FEBRERO DE 1983
 
 Unico. Este Derecho (sic) entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 12 DE ABRIL DE 1984
+
+Primero. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Segundo. Este decreto entrará en vigor al tercer día de su publicación en el Periódico Oficial El Estado de Jalisco.
