@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-contabilidad-y-gasto-publico-de-los-42428"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-04"
-last_updated: "2004-12-04"
+last_updated: "2005-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2005.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 4 de diciembre de 2004.
 
@@ -279,7 +279,11 @@ T R A N S I T O R I O S
 
 PRIMERO. Esta Ley entrará en vigor el uno de enero de 2005.
 
-SEGUNDO. En un plazo de sesenta días a partir de la vigencia de la presente Ley, la Contaduría Mayor de Hacienda deberá proponer los catálogos de cuentas a que se refiere el primer párrafo del artículo 32 de este Ordenamiento.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2005)</small>
+
+SEGUNDO. Los catálogos de cuenta que utilizarán los municipios para el Ejercicio Fiscal 2005, serán los que se utilizaron en el año 2004.
+
+Los catálogos de cuenta que utilizarán los municipios y los organismos intermunicipales para el Ejercicio Fiscal 2006, serán emitidos por la Contaduría Mayor de Hacienda del Honorable Congreso del Estado, a más tardar el 31 de octubre de 2005.
 
 TERCERO. Dentro de los sesenta días posteriores a la entrada en vigor de este Ordenamiento, los ayuntamientos en su esfera administrativa, elaborarán su Reglamento de Presupuesto, Contabilidad y Gasto Público, tomando en consideración lo dispuesto por esta Ley, así como la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí.
 
@@ -312,3 +316,11 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+
+P.O. 17 DE MARZO DE 2005.
+
+PRIMERO.-El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
