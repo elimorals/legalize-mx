@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-consejos-tutelares-para-menores-infractores-en-5465"
 country: "mx"
 rank: "ley"
 publication_date: "1979-02-08"
-last_updated: "1988-08-08"
+last_updated: "2003-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5465&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES EN EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1988.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES EN EL ESTADO DE HIDALGO, PUBLICADA EN EL PERIODICO OFICIAL EL 24 DE MARZO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 8 de febrero de 1979.
 
@@ -562,3 +564,17 @@ SEGUNDO.- Los Consejeros que se encuentren en funciones al entrar en vigor las p
 TERCERO.- La adscripción de los servidores públicos de base del Consejo Tutelar y del Centro de Observación y Tratamiento a la Secretaría de Gobernación no afectará los derechos laborales que tengan adquiridos.
 
 CUARTO.- En los casos de daños en propiedad ajena culposo cometidos hasta la fecha en que entre en vigor el presente decreto, en que conforme a la reforma al Artículo 50 deba conocer el Consejo Auxiliar, si este ya existiere se abocará a su conocimiento siempre que no se hubieren remitido al Consejo Tutelar.
+
+P.O. 24 DE MARZO DE 2003.
+
+PRIMERO.- La presente Ley entrará en vigor a los treinta días siguientes a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Queda abrogada la Ley de los Consejos Tutelares para Menores Infractores, expedida el 8 de diciembre de 1978 y publicada el 8 de febrero de 1979, así como sus reformas.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan a la presente Ley.
+
+CUARTO.- En tanto se establezcan los Consejos Auxiliares para Menores Infractores, conocerá de las infracciones no graves, el Consejo Tutelar Central para Menores Infractores.
+
+QUINTO.- Dentro del plazo de un año contado a partir de la vigencia de esta Ley, se deberán instalar en los Municipios de la Entidad, los Consejos Tutelares Auxiliares para Menores Infractores.
+
+SEXTO.- Los asuntos que se encuentran actualmente en trámite, serán resueltos conforme a la Ley que se abroga.
