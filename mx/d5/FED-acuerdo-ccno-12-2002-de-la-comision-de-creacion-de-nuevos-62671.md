@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-12-2002-de-la-comision-de-creacion-de-nuevos-62671
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-03-04"
-last_updated: "2002-04-04"
+last_updated: "2002-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62671&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-02-26"
 
 ACUERDO CCNO/12/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA PRORROGA DEL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL DECIMOPRIMER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO, CON RESIDENCIA EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ABRIL DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 2002.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 4 de marzo de 2002.
 
@@ -49,7 +49,7 @@ En consecuencia, con fundamento en los preceptos constitucionales y legales invo
 
 ACUERDO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/16/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 4 DE ABRIL DE 2002, SE PRORROGA EL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL DECIMOPRIMER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO, CON RESIDENCIA EN EL DISTRITO FEDERAL, POR EL LAPSO DE DOS MESES, DEL 1 AL 30 DE ABRIL 2002.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/18/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 5 DE JUNIO DE 2002, SE PRORROGA DEL PLAZO DE EXCLUSION DEL TURNO DE ASUNTOS NUEVOS AL OCTAVO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO, CON RESIDENCIA EN EL DISTRITO FEDERAL, POR UN LAPSO DE UN MES, DEL 1 AL 30 DE JUNIO DE 2002.</small>
 
 PRIMERO.- Se prorroga el plazo de exclusión de turno de nuevos asuntos al Decimoprimer Tribunal Colegiado en Materia de Trabajo del Primer Circuito, con residencia en el Distrito Federal, por el lapso de un mes, al establecido en el punto QUINTO del Acuerdo General 86/2001.
 
@@ -70,6 +70,12 @@ EL LICENCIADO CESAR THOME GONZALEZ, SECRETARIO EJECUTIVO DE CARRERA JUDICIAL, AD
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 4 DE ABRIL DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 5 DE JUNIO DE 2002.
 
 PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
