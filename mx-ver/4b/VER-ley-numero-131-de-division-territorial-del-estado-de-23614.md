@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-131-de-division-territorial-del-estado-de-23614"
 country: "mx"
 rank: "ley"
 publication_date: "1988-07-14"
-last_updated: "2003-03-18"
+last_updated: "2003-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE DIVISION TERRITORIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PARA LA ELECCION DEL PODER LEGISLATIVO DEL MISMO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 14 de julio de 1988.
 
@@ -85,9 +85,9 @@ Distrito VI. Cabecera: Poza Rica de Hidalgo. Municipios: Coatzintla y Poza Rica 
 
 Distrito VII. Cabecera: Papantla. Municipios: Coahuitlán, Coxquihui, Coyutla, Chumatlán, Espinal, Filomeno Mata, Mecatlán, Zozocolco de Hidalgo y Papantla.
 
-> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
-Distrito VIII. Cabecera: Martínez de la Torre. Municipios: Gutiérrez Zamora, Nautla, Tecolutla, Tlapacoyan y Martínez de la Torre.
+Distrito VIII. Cabecera: Martínez de la Torre. Municipios: Gutiérrez Zamora, Nautla, San Rafael, Tecolutla, Tlapacoyan y Martínez de la Torre.
 
 > <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -149,9 +149,9 @@ Distrito XXII. Cabecera: Boca del Río. Municipios: Ignacio de la Llave, Jamapa,
 
 Distrito XXIII. Cabecera: Cosamaloapan. Municipios: Acula, Alvarado, Amatitlán, Carlos A. Carrillo, Chacaltianguis, Ixmatlahuacan, Otatitlán, Tlacojalpan, Tlacotalpan, Tres Valles, Tuxtilla y Cosamaloapan.
 
-> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
-Distrito XXIV. Cabecera: Santiago Tuxtla. Municipios: Isla, José Azueta, Juan Rodríguez Clara, Playa Vicente y Santiago Tuxtla.
+Distrito XXIV. Cabecera: Santiago Tuxtla. Municipios: Isla, José Azueta, Juan Rodríguez Clara, Playa Vicente, Santiago Sochiapan y Santiago Tuxtla.
 
 > <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -185,11 +185,11 @@ La presente Ley entrará en vigor al día siguiente de su publicación en la "Ga
 
 ###### ARTICULO SEGUNDO.
 
-Queda abrogada desde esta fecha, la Ley de División Territorial del Estado de Veracruz-Llave, para la elección del Poder Legislativo del mismo, de fecha 24 de noviembre de 1964 y derogadas las demás disposiciones, que se opongan a la presente Ley.
+Queda abrogada desde esta fecha, la Ley de División Territorial del Estado de Veracruz de Ignacio de la Llave, para la elección del Poder Legislativo del mismo, de fecha 24 de noviembre de 1964 y derogadas las demás disposiciones, que se opongan a la presente Ley.
 
-DADA EN EL SALON DE SESIONES DE LA HONORABLE QUINCUAGESIMA CUARTA LEGISLATURA DEL ESTADO LIBRE Y ''SOBERANO DE VERACRUZ-LLAVE, EN LA CIUDAD DE XALAPA-ENRIQUEZ, SU CAPITAL A LOS VEINTE DIAS DEL MES DE ABRIL DE MIL NOVECIENTOS OCHENTA Y OCHO.- Diputado Presidente.- Lic. Gabriel Fuster Jiménez.- Rúbrica.- Diputado Secretario.- Prof. Arnulfo García Rangel.- Rúbrica".
+DADA EN EL SALON DE SESIONES DE LA HONORABLE QUINCUAGESIMA CUARTA LEGISLATURA DEL ESTADO LIBRE Y ''SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN LA CIUDAD DE XALAPA-ENRIQUEZ, SU CAPITAL A LOS VEINTE DIAS DEL MES DE ABRIL DE MIL NOVECIENTOS OCHENTA Y OCHO.- Diputado Presidente.- Lic. Gabriel Fuster Jiménez.- Rúbrica.- Diputado Secretario.- Prof. Arnulfo García Rangel.- Rúbrica".
 
-EN CUMPLIMIENTO DE LO DISPUESTO POR LA FRACCION I DEL ARTICULO 87 Y PRIMER PARRAFO DEL ARTICULO 93 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE, Y PARA SU DEBIDA PUBLICACION Y OBSERVANCIA, EXPIDO EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO ESTATAL, EN LA CIUDAD DE XALAPA-ENRIQUEZ, VERACRUZ A LOS VEINTINUEVE DIAS DEL MES DE ABRIL DE MIL NOVECIENTOS OCHENTA Y OCHO.
+EN CUMPLIMIENTO DE LO DISPUESTO POR LA FRACCION I DEL ARTICULO 87 Y PRIMER PARRAFO DEL ARTICULO 93 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y PARA SU DEBIDA PUBLICACION Y OBSERVANCIA, EXPIDO EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO ESTATAL, EN LA CIUDAD DE XALAPA-ENRIQUEZ, VERACRUZ A LOS VEINTINUEVE DIAS DEL MES DE ABRIL DE MIL NOVECIENTOS OCHENTA Y OCHO.
 
 FERNANDO GUTIERREZ BARRIOS
 
@@ -264,3 +264,9 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 31 DE DICIEMBRE DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor el primero de enero de dos mil cuatro, previa publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
