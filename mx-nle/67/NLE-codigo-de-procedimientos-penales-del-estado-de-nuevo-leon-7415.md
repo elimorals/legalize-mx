@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "1995-07-28"
+last_updated: "1996-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1996.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -83,7 +83,11 @@ En estos casos el Ministerio Público podrá retener al indiciado solamente hast
 
 > <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 1994)</small>
 
-V.- Hará que tanto el ofendido como el presunto responsable, en su caso, sean examinados inmediatamente por los médicos legistas para que dictaminen, con carácter de provisional, acerca del estado psicofisiológico en que se encuentren. Tratándose del presunto responsable se verificará su identidad, para determinar que sea precisamente la persona a la que se refiere la averiguación.
+V.- Hará que tanto el ofendido como el presunto responsable, en su caso, sean examinados inmediatamente por los médicos legistas para que dictaminen, con carácter de provisional, acerca del estado psicofisiológico en que se encuentren. Tratándose del presunto responsable se verificará su identidad, para determinar que sea precisamente la persona a la que se refiere la averiguación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JUNIO DE 1996)</small>
+
+VI.- Solicitar a la autoridad jurisdiccional las medidas precautorias de arraigo, aseguramiento o embargo que resulten indispensables para la averiguación previa, así como las órdenes de cateo que procedan.
 
 ###### ARTICULO 4.
 
@@ -442,6 +446,10 @@ Las cauciones que se otorguen ante los Tribunales o el Ministerio Público, en s
 Cuando haya temor fundado de que el obligado a la reparación del daño y perjuicio, oculte o enajene los bienes en que deba hacerse efectiva dicha reparación, y una vez comprobados los elementos del tipo y la probable responsabilidad del inculpado, el Ministerio Público, el ofendido o la víctima o sus representantes, podrán pedir al Juez el embargo precautorio de dichos bienes, observándose lo dispuesto en el Código de Procedimientos Civiles.
 
 Cuando el inculpado u otra persona en su nombre, otorguen caución bastante, a juicio del órgano jurisdiccional, para asegurar la satisfacción de la responsabilidad de los daños y perjuicios causados, se levantará el embargo efectuado.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1996)</small>
+
+Durante la etapa de preparación del ejercicio de la acción penal, el Ministerio Público, en los términos de los dos párrafos que preceden, podrá solicitar el embargo precautorio de bienes del indiciado.
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
@@ -985,17 +993,21 @@ Tratándose de los delitos culposos con motivo del tránsito de vehículos, en d
 
 (DEROGADO, P.O. 21 DE OCTUBRE DE 1994)
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1996)</small>
+
 ###### ARTICULO 139.
 
-(DEROGADO, P.O. 21 DE OCTUBRE DE 1994)
+Cuando con motivo de una averiguación previa el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta las características del hecho imputado y las circunstancias personales de aquél, recurrirá al órgano jurisdiccional, fundando y motivando su petición, para que éste, oyendo al indiciado, resuelva el arraigo con vigilancia de la autoridad, que ejercerán el Ministerio Público y sus auxiliares. El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de 30 días, prorrogables por igual término a petición del Ministerio Público por una sola vez. El Juez resolverá, escuchando al Ministerio Público y al arraigado, sobre la subsistencia o el levantamiento del arraigo.
 
 ###### ARTICULO 140.
 
 Toda mujer que sea detenida en prisión preventiva, lo será en lugar distinto y separado del de los varones, y su custodia será encomendada a personal exclusivamente femenino.
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1996)</small>
+
 ###### ARTICULO 141.
 
-(DEROGADO, P.O. 21 DE OCTUBRE DE 1994)
+Cuando por la naturaleza del delito, de la pena aplicable al imputado o las circunstancias personales del mismo, no deba ser internado en prisión preventiva y existan elementos para suponer que podrá sustraerse a la acción de la justicia, el Ministerio Público podrá solicitar al juez, fundada y motivadamente, o éste disponer de oficio, con audiencia del imputado, el arraigo de éste con las características y por el tiempo que el juzgador señale, sin que en ningún caso pueda exceder del máximo señalado en el artículo 139 tratándose de la averiguación previa, o bien en el proceso por el término constitucional en que éste deba resolverse.
 
 ###### ARTICULO 142.
 
@@ -1319,15 +1331,23 @@ Agotada la averiguación por el Ministerio Público, por reunirse los requisitos
 
 En caso de que la detención de una persona exceda de los términos señalados en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y 3 fracción IV, tercer párrafo de este código, se presumirá que estuvo incomunicada y las declaraciones que haya rendido no tendrán validez.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 1996)</small>
 
 ###### ARTICULO 194.
 
-El Ministerio Público podrá otorgar la libertad bajo caución del inculpado en los supuestos previstos por el artículo 493, fijando la caución que corresponda conforme al artículo 20 fracción I de la Constitución Política de los Estados Unidos Mexicanos y 497 de este código.
+El Ministerio Público podrá otorgar la libertad bajo caución del inculpado en los supuestos previstos por el artículo 493, fijando la caución que corresponda conforme al artículo 20 fracción I de la Constitución Política de los Estados Unidos Mexicanos y 497 de este código, sin perjuicio de solicitar su Arraigo en caso necesario.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
 Cuando se otorgue la libertad caucional durante la averiguación previa, se prevendrá al iniciado de que comparezca cuantas veces se le requiera para la práctica de diligencias; y ante el Juez a quien se consigne, concluida la averiguación, quien ordenará su presentación. Si no comparece sin causa y comprobada, previa solicitud del Ministerio Público adscrito, ordenará su aprehensión y mandará hacer efectiva la garantía otorgada.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+
 La garantía se devolverá por el Ministerio Público, cuando se resuelva el no ejercicio de la acción penal. Consignado el caso, tal garantía se considerará prorrogada ante el Juez.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1996)</small>
+
+Cuando el delito merezca pena alternativa o no privativa de libertad, se dispondrá la libertad sin necesidad de caución y sin perjuicio de pedir el arraigo correspondiente.
 
 ## TITULO QUINTO. INSTRUCCION
 
@@ -1989,9 +2009,13 @@ Siempre que se tome declaración a un menor de edad, a un pariente del inculpado
 
 Si de la instrucción aparecieren presunciones bastantes, para sospechar que algún testigo se ha producido con falsedad o se ha contradicho manifiestamente en sus declaraciones, será inmediatamente puesto a disposición del Ministerio Público; se mandarán compulsar las piezas conducentes para la averiguación del delito, y se formarán separadamente el proceso correspondiente, sin que por esto se suspenda la causa que se esté siguiendo.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1996)</small>
+
 ###### ARTICULO 295.
 
-Cuando hubiere de ausentare alguna persona que puede declarar acerca del delito, de sus circunstancias, o de la persona del inculpado, el tribunal, a solicitud de cualquiera de las partes, podrá arraigar al testigo por el tiempo que fuere estrictamente indispensable para que rinda su declaración. Si de ésta resultare que el arraigado lo fue indebidamente, tendrá derecho de exigir que se lo indemnice por los daños y perjuicios causados por el arraigo.
+Cuando hubiere de ausentare alguna persona que puede declarar acerca del delito, de sus circunstancias, o de la persona del inculpado, el Tribunal, a solicitud del reo, su defensor o la parte ofendida, podrá arraigar al testigo por el tiempo que fuere estrictamente indispensable para que rinda su declaración, sin que en ningún caso exceda de treinta días. Igualmente, el Ministerio Público tanto durante la averiguación previa como durante la instrucción, podrá solicitar al Juez el arraigo de testigo en el caso previsto en la primera parte.
+
+Si del procedimiento resultare que el testigo o indiciado fue arraigado indebidamente, tendrá derecho de exigir que se le indemnice por el o los particulares, los funcionarios solicitantes y ordenadores subsidiariamente con el Estado, por los daños y perjuicios causados por el arraigo.
 
 ###### ARTICULO 296.
 
@@ -3672,3 +3696,7 @@ Se derogan todas las disposiciones legales que se opongan a la presente reforma.
 ###### ARTICULO TERCERO.
 
 Los asuntos que se encuentren en trámite al entrar en vigor estas reformas, seguirán siendo competencia de los órganos jurisdiccionales que estén conociendo de los mismos.
+
+P.O. 5 DE JUNIO DE 1996.
+
+UNICO:- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
