@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-seguridad-escolar-para-el-estado-de-chihuahua-40693"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-31"
-last_updated: "2004-07-31"
+last_updated: "2005-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 31 de julio de 2004.
 
@@ -85,6 +85,10 @@ IV. Brigada: Las brigadas preventivas de seguridad escolar;
 
 V.- Comunidad escolar: Conjunto de personas que comparten espacios educativos, dentro de los cuales se consideran a alumnos, docentes, personal de apoyo y administrativo, padres de familia, vecinos y autoridades educativas.
 
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2005)</small>
+
+VI.- Secretaría de Seguridad: La Secretaría de Seguridad Pública.
+
 ###### Artículo 6.
 
 En lo no previsto por la presente Ley, serán de aplicación supletoria:
@@ -112,6 +116,10 @@ III. El Secretario de Educación y Cultura;
 IV. Los Ayuntamientos;
 
 V. Los órganos de gobierno de los organismos públicos descentralizados cuya cabeza de sector sea la Secretaría de Educación y Cultura.
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2005)</small>
+
+VI. El Secretario de Seguridad Pública.
 
 ###### Artículo 8.
 
@@ -157,6 +165,24 @@ VII. Vigilar que en la toma de decisiones, en la materia de esta ley, las autori
 
 VIII. Las que conforme a esta ley y otras disposiciones aplicables le correspondan.
 
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2005)</small>
+
+###### Artículo 10 Bis.
+
+Corresponde a la Secretaría de Seguridad Pública:
+
+I.- Auxiliar a las autoridades en el cumplimiento de esta Ley y demás disposiciones legales que de ésta deriven;
+
+II.- Celebrar acuerdos de colaboración con los Ayuntamientos de la Entidad a fin de cumplir el objetivo de la presente Ley;
+
+III.- Aplicar los programas de prevención para el mejor cumplimiento del objeto de esta Ley, así como apoyar y asesorar a las brigadas escolares;
+
+IV.- Formular, desarrollar programas y realizar las acciones que le competen, en materia de seguridad escolar, coordinándose, en su caso, con las demás dependencias del Ejecutivo Estatal, según sus respectivas esferas de competencia, y con los municipios de la Entidad y con la sociedad;
+
+V.- Auxiliar en las revisiones a que se refiere el artículo 30 de esta Ley; y
+
+VII (SIC).- Las que conforme a este ordenamiento y otras disposiciones aplicables le correspondan.
+
 ###### Artículo 11.
 
 Corresponde a los Ayuntamientos:
@@ -177,9 +203,13 @@ Corresponde a los Órganos de Gobierno de los Organismos Públicos Descentraliza
 
 I.- Aplicar en la esfera de su competencia, esta ley y sus reglamentos, así como vigilar su observancia;
 
-II.- Proponer al titular de la Secretaría de Educación y Cultura, la adopción de medidas necesarias para el cabal cumplimiento de los objetivos de esta Ley, y en su caso, aplicarlas en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
-III.- Coadyuvar con la Secretaría de Educación y Cultura y los Ayuntamientos, en la formulación del Registro de las Brigadas de los planteles educativos a su cargo;
+II.- Proponer a los titulares de la Secretaría de Educación y Cultura y de la Secretaría de Seguridad Pública, la adopción de medidas necesarias para el cabal cumplimiento de los objetivos de esta Ley, y en su caso, aplicarlas en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+III.- Coadyuvar con la Secretaría de Educación y Cultura, la Secretaría de Seguridad Pública y los Ayuntamientos, en la formulación del registro de las brigadas de los planteles educativos a su cargo;
 
 IV.- Las que conforme a esta ley y otras disposiciones aplicables les correspondan.
 
@@ -391,28 +421,18 @@ SEGUNDO.- El Poder Ejecutivo del Estado cuenta con un plazo de ciento ochenta d�
 
 TERCERO.- A partir de la expedición del reglamento de la presente ley, los centros escolares cuentan con ciento ochenta días para que se adecue la reglamentación interior de los centros escolares a la presente ley y su reglamento.
 
-D A D O en el Salón de Sesiones del Poder Legislativo, en la Ciudad de Chihuahua, Chih., a los quince días del mes de junio del año dos mil cuatro.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
 
-PRESIDENTE
+P.O. 19 DE ENERO DE 2005.
 
-DIP. VÍCTOR VALENCIA DE LOS SANTOS
+###### ARTÍCULO PRIMERO.
 
-SECRETARIO
+Este Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
 
-DIP. JESÚS JAVIER BACA GÁNDARA
+###### ARTÍCULO SEGUNDO.
 
-SECRETARIO
+Para el correcto desempeño de las atribuciones que se confieren a la Secretaría de Seguridad Pública, el ejecutivo Estatal deberá expedir el ordenamiento jurídico que regule el funcionamiento de dicha secretaría, dentro de los 60 días posteriores a la entrada en vigor de las reformas aprobadas, así como realizar las reformas necesarias al Reglamento Interior de la Secretaría General de Gobierno y al Reglamento de la Penitenciaría del Estado.
 
-DIP. JORGE ARELLANES MORENO
+###### ARTÍCULO TERCERO.
 
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los quince días del mes de julio del año dos mil cuatro.
-
-EL GOBERNADOR INTERINO DEL ESTADO
-
-LIC. SERGIO ANTONIO MARTÍNEZ GARZA
-
-EL PROCURADOR GENERAL DE JUSTICIA ENCARGADO DEL DESPACHO DE LA SECRETARIA GENERAL DE GOBIERNO POR MINISTERIO DE LEY
-
-LIC. JESUS ANTONIO PIÑON JIMENEZ
+Cuando en la Ley de Protección Civil del Estado de Chihuahua, se haga referencia a la unidad de Protección Civil, se entenderá citada la Coordinación de Protección Civil.
