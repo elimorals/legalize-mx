@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1995-07-15"
+last_updated: "1995-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1995.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3321,7 +3321,7 @@ VII.- Aprovechar el poder, el empleo o el cargo para satisfacer indebidamente al
 
 ## TITULO OCTAVO.
 
-Delitos cometidos por funcionarios y empleados de la Administración Pública, Estatal y Municipal o escentralizada.
+Delitos cometidos por funcionarios y empleados de la Administración Pública, Estatal y Municipal o Descentralizada.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE NOVIEMBRE DE 1982)</small>
 
@@ -4361,6 +4361,10 @@ XIII.- Al vendedor de materiales de construcción o cualquiera especie que habie
 
 XIV.- Al fiador que enajene o grave los bienes raíces cuyas inscripciones de propiedad estén anotadas, conforme lo dispone el Código Civil, y de la operación resulta la insolvencia del citado fiador.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
+
+Asimismo se aplicará de tres a siete años de prisión y de treinta a ciento veinte días de multa al que, teniendo la obligación de cubrir alimentos conforme a la Ley, eluda proporcionarlos a sus ascendientes y descendientes en primer grado, o a su cónyuge, colocándose dolosamente en estado de insolvencia.
+
 382.- Se impondrá prisión de seis meses a ocho años y multa de cinco mil a diez mil pesos, o sólo la prisión al que, para hacerse de una cantidad de dinero en numerario, en papel moneda o billetes de banco, de un documento que importa obligación, liberación o transmisión de derechos o de cualquiera otra cosa ajena mueble, logre que se le entregue por medio de maquinaciones, engaños o artificios.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
@@ -4722,6 +4726,10 @@ SEGUNDO. Los reos que se encuentren comprendidos en las hipótesis del artículo
 P.O. 15 DE JULIO DE 1995.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 10.
 
