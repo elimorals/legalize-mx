@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-notariado-para-el-estado-de-guerrero-no-114-19432"
 country: "mx"
 rank: "ley"
 publication_date: "1967-09-06"
-last_updated: "1979-03-21"
+last_updated: "1984-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE GUERRERO NO. 114
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 1984.
 
 Ley publicada en los Periódicos Oficiales del Estado de Guerrero, el 6 de septiembre de 1967; el 13 de septiembre de 1967; el 20 de septiembre de 1967; y el 4 de octubre de 1967.
 
@@ -369,9 +369,11 @@ Se prohibe a los Notarios revocar, rescindir o modificar el contenido de una esc
 
 El notario no podrá autorizar acto alguno, sino haciéndolo constar en el protocolo y observando las formalidades prescritas en esta Ley, salvo que otra ley especial disponga algo diferente.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1984)</small>
+
 ###### Art. 54.
 
-Las enajenaciones de bienes inmuebles cuyo valor convencional sea mayor de mil pesos y la constitución o transmisión de derechos reales estimados en más de mil pesos o que garanticen un crédito por mayor cantidad que la mencionada, para su validez, deberán constar en escritura ante Notario.
+La enajenación inmuebles y la constitución o transmisión de derechos reales, cuyo valor sea mayor al señalado en el artículo 2317 del Código Civil vigente en el Estado, para su validez, deberán constar en escritura pública.
 
 ###### Art. 55.
 
@@ -1190,3 +1192,7 @@ UNICO:- Este Decreto entrará en vigor a partir de la fecha de su publicación e
 P.O. 21 DE MARZO DE 1979.
 
 UNICO:- Este Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 1984.
+
+UNICO.- Las presentes reformas surtirán sus efectos, a partir de los quince días después de su publicación en el Periódico Oficial del Estado.
