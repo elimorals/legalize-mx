@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1961-05-17"
+last_updated: "1964-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 1961.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1964.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -369,17 +369,13 @@ Los Diputados que no concurran a una sesión sin causa justificada o sin previo 
 
 El Congreso tendrá cada año dos períodos de sesiones ordinarias: el primero del 16 de septiembre al 31 de diciembre; y el segundo, del 27 de febrero al 30 de abril del año siguiente. Estos períodos serán prorrogables por el tiempo que, según las necesidades del servicio público, acuerde el Congreso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JUNIO DE 1960)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1964)</small>
 
 ###### Art. 50.
 
-El día 27 de febrero de cada año, con excepción del que corresponde al año en que tome posesión del cargo, el Gobernador del Estado concurrirá al Congreso y rendirá a la Legislatura un informe acerca de la situación que guarden los diversos ramos de la administración pública.
+El día 27 de febrero de cada año, con excepción del que corresponda al año en que tome posesión del cargo, el Gobernador del Estado concurrirá al Congreso y rendirá a la Legislatura un informe acerca de la situación que guarden los diversos ramos de la administración pública.
 
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 1960)</small>
-
-De la gestión administrativa realizada en los últimos diez meses de cada sexenio, el Gobernador informará al Congreso, el día 20 de diciembre del año respectivo.
-
-El Presidente del Congreso contestará en términos generales.
+De la gestión administrativa realizada en los últimos diez meses de cada sexenio, el Gobernador informará al Congreso, el día 20 de noviembre del año respectivo.
 
 (REUBICADO, P.O. 4 DE MAYO DE 1946)
 
@@ -1580,3 +1576,7 @@ Este decreto comienza a surtir sus efectos legales desde la fecha de su publicac
 P.O. 17 DE MAYO DE 1961.
 
 UNICO.- Este decreto surte sus efectos legales desde la fecha de su publicación en el Periódico Oficial del Gobierno.
+
+P.O. 8 DE JULIO DE 1964.
+
+UNICO.- Este Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno.
