@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-del-tribunal-de-lo-contencioso-5200"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-07-13"
-last_updated: "1994-11-04"
+last_updated: "1994-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 1994.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 13 de julio de 1993.
 
@@ -53,9 +53,39 @@ El Tribunal de lo Contencioso Administrativo se integrará por una Sala Superior
 
 El horario de labores en el Tribunal será de las 08:30 a las 15:00 horas de todos los días hábiles. Este horario podrá modificarse por la Sala Superior, según las necesidades.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+No son días hábiles los sábados y domingos, así como los señalados excepcionalmente por la Sala Superior y los festivos previstos en el artículo 23 de la Ley de Trabajo de los Servidores Públicos del Estado de Guerrero número 248.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
 ###### ARTICULO 5o.
 
-Son días hábiles todos los del año, excepto los sábados y domingos, los que señale el calendario oficial del Gobierno del Estado y los que determine la Sala Superior del Tribunal.
+Los servidores públicos del Tribunal de lo Contencioso Administrativo tendrán las obligaciones siguientes, para salvaguardar la legalidad, lealtad, honradez, imparcialidad y eficiencia en el ejercicio de la función jurisdiccional:
+
+l. Cumplir con la máxima diligencia el servicio que les sea encomendado y abstenerse de cualquier acto u omisión, que cause la suspensión o deficiencia del servicio o implique abuso o ejercicio indebido de un empleo, cargo o comisión;
+
+II. Utilizar los recursos que tengan asignados para el desempeño de su empleo, cargo o comisión, las facultades que les sean atribuídas o la información reservada a que tengan acceso por su función, exclusivamente para los fines a que están afectos;
+
+III. Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, conserven bajo su cuidado o a la cual tengan acceso, impidiendo o evitando el uso, la sustracción, destrucción, ocultamiento o inutilización indebida de aquéllas;
+
+IV. Observar buena conducta en su empleo, cargo o comisión, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con las que tenga relación con motivo de éste;
+
+V. Observar en la dirección de sus inferiores jerárquicos las debidas reglas del trato y abstenerse de incurrir en agravio o abuso de autoridad;
+
+VI. Observar respeto y subordinación legítima con respeto a sus superiores jerárquicos inmediatos o mediatos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
+
+VII. Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el procedimiento contencioso administrativo;
+
+VIII. Informar al Magistrado de la Sala Regional de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refiere este artículo;
+
+IX. Comunicar por escrito al Magistrado Presidente de la Sala Superior, el incumplimiento de las obligaciones establecidas en este artículo; y
+
+X. Las demás que les impongan las Leyes y Reglamentos.
 
 ###### ARTICULO 6o.
 
@@ -382,3 +412,11 @@ P.O. 4 DE NOVIEMBRE DE 1994.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Publíquese en la Revista Jurídica, órgano de difusión oficial del Tribunal de lo Contencioso Administrativo.
+
+P.O. 15 DE NOVIEMBRE DE 1994.
+
+PRIMERO.- El presente Acuerdo entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Acuerdo.
+
+TERCERO.- Publíquese, en la Revista Jurídica, órgano de difusión del Tribunal de lo Contencioso Administrativo del Estado de Guerrero.
