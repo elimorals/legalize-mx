@@ -4,7 +4,7 @@ identifier: "SON-ley-del-servicio-civil-para-el-estado-de-sonora-8403"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-27"
-last_updated: "1992-12-28"
+last_updated: "1994-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el sábado 27 de agosto de 1977.
 
@@ -226,6 +226,14 @@ Las mujeres disfrutarán, con goce de salario íntegro, de un mes de descanso an
 Serán días de descanso obligatorio los siguientes: lo. de enero, 5 y 24 de febrero, 21 de marzo, lo. y 5 de mayo, 17 de julio, 15 y 16 de septiembre, 12 de octubre, 2 y 20 de noviembre y 25 de diciembre.
 
 En los días señalados también disfrutará el trabajador de salario íntegro.
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 1994)</small>
+
+En cuanto a los trabajadores de la educación, los días de descanso obligatorio serán aquellos que contemple el Calendario Escolar para el Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 1994)</small>
+
+El Calendario Escolar para el Estado de Sonora lo elaborará anualmente la dependencia responsable del ramo y deberá publicarse, cuando menos con treinta días de anticipación al inicio del año escolar, en el Boletín Oficial del Gobierno del Estado y en los medios de comunicación que aseguren su conocimiento oportuno por la comunidad sonorense.
 
 ###### ARTICULO 28.
 
@@ -1108,3 +1116,9 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+B.O. 29 DE DICIEMBRE DE 1994.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
