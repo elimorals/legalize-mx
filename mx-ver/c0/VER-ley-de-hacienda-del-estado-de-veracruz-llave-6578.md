@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-del-estado-de-veracruz-llave-6578"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "2001-04-03"
+last_updated: "2001-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE ABRIL DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE 12 DE OCTUBRE DE 2001
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -39,83 +39,43 @@ LEY NUMERO 24
 
 DE HACIENDA DEL ESTADO DE VERACRUZ-LLAVE
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 12 DE OCTUBRE DE 2001)</small>
 
-## TITULO PRIMERO. De los impuestos
+## TÍTULO PRIMERO. DE LOS IMPUESTOS
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 12 DE OCTUBRE DE 2001)</small>
 
 ### CAPITULO PRIMERO. Del impuesto sobre transporte público en zonas
 
 urbanas, suburbanas y foráneas
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 1.
 
-Este impuesto se causará por la percepción de ingresos que se obtengan por la prestación del Servicio de Transporte Público Terrestre de Personas que se haga dentro de las Zonas Urbanas, Suburbanas y Foráneas.
-
-Para los efectos de este impuesto se considera:
-
-I. Urbanos .-Los que prestan el servicio dentro de las poblaciones;
-
-II.-Suburbanos.-Los que prestan el servicio dentro de las poblaciones y en su periferia, y
-
-III.-Foráneos.-Los que prestan el servicio de una a otra población.
-
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 12 DE OCTUBRE DE 2001)
 
 ###### ARTICULO 2.
 
-Son sujetos de este impuesto las personas físicas o morales que prestan el servicio de Transporte Público Terrestre de personas dentro de las Zonas Urbanas, Suburbanas y Foráneas.
-
-> <small>(REFORMADO G.O. 31 DE DICIEMBRE DE 1985)</small>
+(DEROGADO, G.O. 12 DE OCTUBRE DE 2001)
 
 ###### ARTICULO 3.
 
-La base del impuesto será el monto total de los ingresos a que se refiere el artículo primero.
+(DEROGADO, G.O. 12 DE OCTUBRE DE 2001)
 
 ###### ARTICULO 4.
 
-Este impuesto se causará, liquidará y pagará a razón de 1.0% sobre el monto de la base que se señala en el artículo anterior.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1985)</small>
+(DEROGADO, G.O. 12 DE OCTUBRE DE 2001)
 
 ###### ARTICULO 5.
 
-Son obligaciones de los contribuyentes de este impuesto:
-
-> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
-
-I. Inscribirse dentro de los 30 días siguientes a la fecha en que fue otorgado el acuerdo de concesión, al Registro Estatal de Contribuyentes ante la oficina de Hacienda del Estado del lugar donde se realicen sus actividades de conformidad con el artículo 85 del Código Fiscal para el Estado.
-
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1985)</small>
-
-II.-Cuando un mismo contribuyente tenga varios vehículos deberá registrarlos por separado en el lugar donde preste el servicio de transporte público.
-
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1985)</small>
-
-III.-El pago del impuesto deberá hacerse mediante declaración que se presentará en la Oficina de Hacienda donde el contribuyente preste el servicio de transporte público, dentro de los primeros veinte días del mes siguiente a aquel en que se haya generado el ingreso.
-
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1985)</small>
+(DEROGADO, G.O. 12 DE OCTUBRE DE 2001)
 
 ###### ARTICULO 6.
 
-El contribuyente podrá optar por pagar el impuesto en los términos del artículo anterior o bajo las siguientes condiciones:
-
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
-a).-Una cuota mensual o trimestral por unidad que determinará la Secretaría de Finanzas y Planeación, estimando ingresos probables de los contribuyentes de este impuesto que utilicen esta opción que no podrá ser menor por cada mes a la cantidad equivalente a dos días de salario mínimo de la zona económica del lugar donde se encuentra prestando el servicio la unidad.
-
-Este tipo de cuota deberá ser pagada en los términos de la fracción III del artículo anterior y no genera la obligación de presentar declaración de ingresos.
-
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
-b).-Una cuota anual por unidad que la Secretaría de Finanzas y Planeación determinará considerando el registro de los ingresos gravables. Dicha cuota deberá cubrirse a más tardar el 31 de mayo del año de que se trate. Quienes opten por esta forma de pago, tendrán un descuento equivalente al 20% del importe a pagar.
+(DEROGADO, G.O. 12 DE OCTUBRE DE 2001)
 
 ###### ARTICULO 7.
 
-Estas disposiciones son aplicables exclusivamente a la prestación de servicios a que se refiere la fracción V del artículo 15 de la Ley del Impuesto al Valor Agregado.
+(DEROGADO, G.O. 12 DE OCTUBRE DE 2001)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
@@ -123,11 +83,11 @@ Estas disposiciones son aplicables exclusivamente a la prestación de servicios 
 
 ###### ARTICULO 8.
 
-(DEROGADO, G.O. 3 DE ABRIL DE 2001)
+(DEROGADO, G.O. 4 DE ABRIL DE 2001)
 
 ###### ARTICULO 9.
 
-(DEROGADO, G.O. 3 DE ABRIL DE 2001)
+(DEROGADO, G.O. 4 DE ABRIL DE 2001)
 
 ###### ARTICULO 10.
 
@@ -836,3 +796,7 @@ Código Fiscal para el Estado de Veracruz-Llave, Ley de Hacienda del Estado, con
 CUARTO. Se derogan todas las disposiciones que se opongan a lo previsto por este Código.
 
 QUINTO. Publíquese en la Gaceta Oficial del Estado para los efectos de su obligatoriedad.
+
+G.O. 12 DE OCTUBRE DE 2001.
+
+ÚNICO.-El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
