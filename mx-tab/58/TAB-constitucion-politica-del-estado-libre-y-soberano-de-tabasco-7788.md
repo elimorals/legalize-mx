@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1991-01-12"
+last_updated: "1992-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 1992.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -503,15 +503,15 @@ XXXII.- Suspender, por acuerdo de las dos terceras partes de sus integrantes, a 
 
 Se consideran causas graves las previstas en el Artículo 66 reformado en esta propia Constitución.
 
-XXXIII.- Expedir y modificar su Reglamento Interior;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 1992)</small>
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 1983)</small>
+XXXIII.- En caso de declarar desaparecido un Ayuntamiento por renuncia o por falta absoluta de sus miembros y que conforme a la ley no proceda que entren en funciones los suplentes o nulas las elecciones, nombrar un consejo municipal integrado por tres personas que se harán cargo de la administración municipal temporalmente hasta que conforme a la ley de la materia se realicen nuevas elecciones.
 
-XXXIV.- En caso de declarar desaparecido a un Ayuntamiento o por renuncia o por falta absoluta de la mayoría de sus miembros, y que conforme a la Ley no procediera que entraran en funciones los suplentes, ni que se celebrarán nuevas elecciones, la Legislatura designará entre los vecinos a los Consejos Municipales que concluirán los períodos respectivos.
+Cuando a juicio de la Legislatura, no sea posible celebrar dichas elecciones, el Concejo concluirá el período constitucional respectivo.
 
-Si algunos de los miembros dejara de desempeñar su cargo será sustituido por su suplente, y de no ser esto posible, la Legislatura designará a un vecino de la comunidad para que concluya el período.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 1992)</small>
 
-Cuando las elecciones municipales se declaren nulas, o por cualquier causa desaparecieran los Poderes del Ayuntamiento, siempre que tales situaciones se presentaran dentro del primer año de su correspondiente ejercicio, la Legislatura nombrará un Consejo Provisional compuesto de tres personas que se encargará temporalmente de las funciones del Ayuntamiento hasta que se celebren elecciones extraordinarias, las que deberán efectuarse en el plazo señalado por la Ley.
+XXXIV.- Expedir y modificar su Reglamento Interior.
 
 XXXV.- Cambiar provisional o definitivamente la residencia de los Poderes del Estado por el voto de las dos terceras partes de los miembros de la Legislatura;
 
@@ -1610,3 +1610,9 @@ P.O. 12 DE ENERO DE 1991.
 Primero: Las reformas a que se refiere este Decreto, fueron aprobadas en los términos del Artículo 83 de la propia Constitución.
 
 Segundo: Este decreto surtirá sus efectos legales a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE ENERO DE 1992.
+
+PRIMERO: Las reformas a que se refiere este decreto, fueron aprobadas en los términos del artículo 83 de la propia Constitución.
+
+SEGUNDO: El presente decreto surtirá sus efectos legales a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
