@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1986-05-07"
+last_updated: "1987-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE NOVIEMBRE DE 1987.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de julio de 1931.
 
@@ -54,9 +54,9 @@ Las únicas monedas circulantes serán:
 
 a). Los billetes del Banco de México, S. A., con las denominaciones que fijen sus estatutos;
 
-> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 9 DE NOVIEMBRE DE 1987)</small>
 
-b). Las monedas metálicas de quinientos, cien, cincuenta, veinte, diez, cinco y un pesos, con los diámetros, composición metálica, cuños y demás características que señalen los decretos relativos.
+b). Las monedas metálicas de un mil, quinientos, cien, cincuenta, veinte, diez, cinco y un pesos, con los diámetros, composición metálica, cuños y demás características que señalen los decretos respectivos.
 
 > <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1986)</small>
 
@@ -753,3 +753,9 @@ D.O.F. 7 DE MAYO DE 1986.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE NOVIEMBRE DE 1987.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
