@@ -4,7 +4,7 @@ identifier: "SON-reglamento-para-el-cobro-y-aplicacion-de-gastos-de-12297"
 country: "mx"
 rank: "reglamento"
 publication_date: "1977-02-02"
-last_updated: "1977-02-02"
+last_updated: "1982-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO PARA EL COBRO Y APLlCACION DE GASTOS DE EJECUCION Y PAGO DE HONORARIOS POR NOTIFICACION DE CREDITOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 27 DE DICIEMBRE DE 1982.
 
 Reglamento publicado en el Alcance del Boletín Oficial del Estado de Sonora, el miércoles 2 de febrero de 1977.
 
@@ -135,39 +135,15 @@ Las primas por cobranza se cubrirán con cargo a los fondos a que se refiere el 
 
 ### CAPITULO II. Honorarios de Ejecución
 
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 1982)</small>
+
 ###### Artículo 19.
 
-Los honorarios de ejecución se calcularán conforme a la siguiente
+Los Honorarios de Ejecución, se calcularán conforme a la siguiente:
 
-T A R I F A
+T A R I F A S:
 
-I.- Por el requerimiento de pago cuando el monto del crédito fiscal sea:
-
-Límite Límite Cuota % para
-
-Inferior Superior Fija aplicarse sobre
-
-el excedente
-
-del límite
-
-inferior.
-
-Hasta $1,000.00 12
-
-De $1,000.01 a 1,500.00 $120.00 más 10
-
-De 1,500.01 2,000.00 175.00 más 8
-
-De 2,000.01 a 3,000.00 220.00 más 6
-
-De 3,000.01 a 4,000.00 280.00 más 4
-
-De 4,000.01 a 5,000.00 320.00 más 2
-
-De 5,000.01 en adelante 340.00 más 1
-
-II.- Por la diligencia de embargo, cuando el monto del crédito fiscal sea:
+I.- Por la notificación de requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales de cuyo posterior cumplimiento se derive el pago extemporáneo de prestaciones fiscales y por las diligencias de requerimientos de pago, cuando el monto del crédito fiscal sea::
 
 Límite Límite Cuota % para
 
@@ -179,41 +155,63 @@ del límite
 
 inferior.
 
-Hasta $1,000.00 16
+De $ 0.01 a a $ 2,000.00 13.0
 
-De $1,000.01 a 1,500.00 160.00 más 10
+De 2,000.01 a 3,000.00 260.00 más 6.5
 
-De 1,500.01 2,000.00 210.00 más 9
+De 3,000.01 a 4,000.00 325.00 más 4.5
 
-De 2,000.01 a 3,000.00 255.00 más 8
+De 4,000.01 a 5,000.00 370.00 más 2.5
 
-De 3,000.01 a 4,000.00 335.00 más 5
+De 5,000.01 6,000.00 395.00 más 1.5
 
-De 4,000.01 a 5,000.00 385.00 más 3
+II.- Por la diligencia de embargo, así como por las de remoción del deudor como depositario que impliquen extracción de bienes; cuando el monto del crédito fiscal será (sic):
 
-De 5,000.01 en adelante 415.00 más 1
+Límite Límite Cuota % para
+
+Inferior Superior Fija aplicarse sobre
+
+el excedente
+
+del límite
+
+inferior.
+
+De $ 0.01 a a $ 2,000.00 15.0
+
+De 2,000.01 a 3,000.00 300.00 más 9.5
+
+De 3,000.01 a 4,000.00 325.00 más 5.5
+
+De 4,000.01 a 5,000.00 450.00 más 3.5
+
+De 5,000.01 6,000.00 485.00 más 2.0
+
+De 6,000.01 en adelante 505.00 más 1.0
 
 ###### Artículo 20.
 
 En los secuestros en la vía administrativa a que se refiere el artículo 91 fracción V del Código Fiscal del Estado de Sonora, los honorarios por las diligencias a que dieren lugar, se calcularán con arreglo a la tarifa que antecede y deberán ser cubiertos por los interesados al acordarse la práctica de las mismas.
 
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 1982)</small>
+
 ###### Artículo 21.
 
-El cobro de honorarios conforme a la Tarifa del Artículo 19 de este Reglamento, en ningún caso excederá de los siguientes límites:
+El cobro de honorarios conforme a las tarifas del artículo 19 de este reglamento, en ningún caso excederá de los siguientes límites:
 
-El monto máximo de honorarios por requerimiento de pago no excederá de $ 6,000.00.
+El monto máximo de honorarios por requerimientos de pago y para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, de cuyo posterior cumplimiento se derive el pago extemporáneo de prestaciones fiscales, no excederá de $10.000.00.
 
-El monto máximo de honorarios por la diligencia de embargo no excederá de $ 10,000.00.
+El monto máximo de honorarios por las diligencias de embargo y por las de remoción del deudor como depositario que impliquen extracción de bienes, no excederá de $15,000.00.
 
 ###### Artículo 22.
 
 Las demás diligencias que, como consecuencia natural de las anteriores están obligados a practicar los ejecutores, no darán origen al pago de otros emolumentos que los expresamente señalados en los preceptos que anteceden.
 
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 1982)</small>
+
 ###### Artículo 23.
 
 Los honorarios de los depositarios, se calcularan con base en el monto del crédito, conforma a la siguiente:
-
-T A R I F A
 
 Límite Límite Cuota % para
 
@@ -225,17 +223,19 @@ del límite
 
 inferior.
 
-Hasta $5,000.00 5
+De $ 0.01 a 10,000.00 7.0
 
-De $5,000.01 a 10,000.00 $250.00 más 4
+De 10,000.01 a 15,000.00 700.00 más 5.0
 
-De 10,000.01 a 15,000.00 450.00 más 3
+De 15,000.01 a 20,000.00 950.00 más 4.0
 
-De 15,000.01 a 20,000.00 600.00 más 2
+De 20,000.01 a 25,000.00 1,150.00 más 3.0
 
-De 20,000.01 a en adelante 700.00 más 1
+De 25,000.01 a 30,000.00 1,300.00 más 2.0
 
-Los honorarios que resulten de la aplicación de la tarifa anterior, en ningún caso podrán exceder de la cantidad de $ 5,000.00.
+De 30.000.01 en adelante 1,400.00 más 1.0
+
+Los honorarios que resulten de la aplicación de la tarifa anterior, en ningún caso podrán exceder de la cantidad de $10,000.00.
 
 ###### Artículo 24.
 
@@ -372,3 +372,15 @@ EL TESORERO GENERAL DEL ESTADO
 Héctor Lutteroth C.
 
 FIRMADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 27 DE DICIEMBRE DE 1982.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los gastos y honorarios originados por diligencias practicadas con anterioridad a la vigencia de este Decreto, se aplicarán y distribuirán conforme a las disposiciones aplicables en la fecha de la práctica de tales diligencias.
