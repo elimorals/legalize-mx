@@ -1,0 +1,343 @@
+---
+title: "LEY FEDERAL DE CORREDURIA PUBLICA"
+identifier: "LFCP"
+country: "mx"
+rank: "ley_federal"
+publication_date: "1992-12-29"
+last_updated: "1992-12-29"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "118"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "LEY"
+original_gazette_section: "20"
+reform_count: "4"
+scjn_last_update: "2012-04-09"
+issue_date: "1992-12-23"
+abbreviation: "LFCP"
+---
+# LEY FEDERAL DE CORREDURIA PUBLICA
+
+LEY FEDERAL DE CORREDURIA PUBLICA
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Diario Oficial de la Federación, el martes 29 de diciembre de 1992.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+
+CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:
+
+Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente
+
+D E C R E T O
+
+"EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
+
+LEY FEDERAL DE CORREDURIA PUBLICA
+
+###### ARTICULO 1o.
+
+La presente ley es de orden público y de observancia en toda la República. Su objeto es regular la función del corredor público.
+
+###### ARTICULO 2o.
+
+La aplicación de la presente ley corresponde al Ejecutivo Federal, a través de la Secretaría de Comercio y Fomento Industrial, con la participación que corresponda a las autoridades estatales.
+
+Cuando esta ley haga referencia a la Secretaría, se entenderá la Secretaría de Comercio y Fomento Industrial.
+
+###### ARTICULO 3o.
+
+Corresponde a la Secretaría:
+
+I.- Asegurar la eficacia del servicio que prestan los corredores públicos como auxiliares del comercio, cuidando siempre la seguridad jurídica en los actos en que intervengan;
+
+II.- Examinar a las personas que deseen obtener la calidad de aspirantes a corredores o a ejercer como corredores públicos, asegurándose de que éstos sean personas dotadas de alta calidad profesional y reconocida honorabilidad;
+
+III.- Expedir y revocar las habilitaciones correspondientes;
+
+IV.- Vigilar la actuación de los corredores públicos y la de los colegios de corredores;
+
+V.- Imponer las sanciones que prescribe la presente ley; y
+
+VI.- Las demás funciones que dispongan las leyes y reglamentos.
+
+###### ARTICULO 4o.
+
+Para efectos de la presente ley, el territorio nacional se divide en plazas: una por cada estado y otra por el Distrito Federal.
+
+###### ARTICULO 5o.
+
+Los corredores públicos podrán ejercer sus funciones fuera de la plaza respectiva. Cuando actúen como fedatarios lo podrán hacer únicamente dentro de la plaza para la que fueron habilitados, aunque los actos que se celebren ante su fe podrán referirse a cualquier otro lugar.
+
+El corredor sólo podrá cambiar de plaza previa autorización de la Secretaría.
+
+###### ARTICULO 6o.
+
+Al corredor público corresponde:
+
+I.- Actuar como agente mediador, para transmitir e intercambiar propuestas entre dos o más partes y asesorar en la celebración o ajuste de cualquier contrato o convenio de naturaleza mercantil;
+
+II.- Fungir como perito valuador, para estimar, cuantificar y valorar los bienes, servicios, derechos y obligaciones que se sometan a su consideración, por nombramiento privado o por mandato de autoridad competente;
+
+III.- Asesorar jurídicamente a los comerciantes en las actividades propias del comercio;
+
+IV.- Actuar como árbitro, a solicitud de las partes, en la solución de controversias derivadas de actos, contratos o convenios de naturaleza mercantil, así como las que resulten entre proveedores y consumidores, de acuerdo con la ley de la materia;
+
+V.- Actuar como fedatario público para hacer constar los contratos, convenios, actos y hechos de naturaleza mercantil, excepto en tratándose de inmuebles; así como en la emisión de obligaciones y otros títulos valor; en hipotecas sobre buques, navíos y aeronaves que se celebren ante él, y en el otorgamiento de créditos refaccionarios o de habilitación o avío, de acuerdo con la ley de la materia;
+
+VI.- Actuar como fedatarios en la constitución, modificación, fusión, escisión, disolución, liquidación y extinción de sociedades mercantiles y en los demás actos previstos en la Ley General de Sociedades Mercantiles; y
+
+VII.- Las demás funciones que le señalen esta y otras leyes o reglamentos.
+
+Las anteriores funciones se entenderán sin perjuicio de lo dispuesto en otras leyes y no se consideran exclusivas de los corredores públicos.
+
+###### ARTICULO 7o.
+
+Sólo podrán ostentarse como corredores públicos las personas habilitadas por la Secretaría, en los términos de esta ley. La infracción a este precepto será sancionada con una multa hasta por el equivalente a 500 veces el salario mínimo general vigente para el Distrito Federal, monto que podrá imponerse diariamente mientras persista la infracción, sin perjuicio de la responsabilidad penal que resulte.
+
+###### ARTICULO 8o.
+
+Para ser corredor se requiere:
+
+I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
+
+II.- Contar con título profesional de licenciado en derecho y la cédula correspondiente;
+
+III.- No haber sido condenado, mediante sentencia ejecutoriada, por delito intencional que merezca pena corporal; y
+
+IV.- Solicitar, presentar y aprobar el examen para aspirante y el examen definitivo, habiendo obtenido la habilitación correspondiente.
+
+###### ARTICULO 9o.
+
+Para la realización de los exámenes se estará a lo siguiente:
+
+I.- Para el examen de aspirante se deberá:
+
+a) Contar con título de licenciado en derecho y acreditar una práctica profesional de por lo menos dos años;
+
+b) Presentar solicitud ante la Secretaría, la que, dentro de los noventa días naturales siguientes a su fecha de recepción, notificará directamente o a través del colegio respectivo, la fecha y el lugar para la sustentación del examen; y
+
+c) Presentar el examen de acuerdo con lo que disponga el reglamento. La Secretaría le notificará el resultado al día siguiente.
+
+II.- Para el examen definitivo se deberá:
+
+a) Haber obtenido la calidad de aspirante a corredor;
+
+b) Acreditar una práctica de por lo menos un año en el despacho de algún corredor o notario público; y
+
+c) Presentar la solicitud correspondiente, observándose en lo conducente lo que dispone el inciso b) de la fracción I anterior.
+
+###### ARTICULO 10.
+
+El examen definitivo será sustentado ante un jurado que se integrará como sigue:
+
+I.- Un representante de la Secretaría, el cual deberá tener por lo menos nivel de director general o contar con designación específica del Secretario de Comercio y Fomento Industrial, y sin cuya presencia no podrá celebrarse el examen;
+
+II.- Un representante del Gobernador del Estado o del Jefe del Departamento del Distrito Federal, según corresponda; y
+
+III.- Un corredor público designado por el colegio de corredores local o, en su defecto, por la Secretaría.
+
+No podrá fungir como miembro del jurado el corredor bajo cuya responsabilidad realizó su práctica el sustentante o persona alguna que tenga relación de parentesco o laboral o que perciba honorarios de dicho sustentante.
+
+###### ARTICULO 11.
+
+El examen definitivo constará de dos partes:
+
+I.- Una prueba escrita, que podrá consistir en la resolución de un cuestionario o en la redacción de una póliza o acta, una u otra de alto grado de dificultad; y
+
+II.- Una prueba oral, que consistirá en las preguntas que los miembros del jurado harán al sustentante sobre la prueba a que se refiere la fracción anterior y sobre cuestiones jurídicas aplicables a la función del corredor público.
+
+Compete en exclusiva al jurado decidir si el sustentante es o no apto para ejercer como corredor público. La decisión del jurado no admitirá recurso alguno.
+
+El sustentante que no apruebe el examen no podrá volver a solicitar otro sino hasta transcurridos seis meses.
+
+###### ARTICULO 12.
+
+La persona habilitada para ejercer como corredor público, previamente al inicio de sus funciones, deberá:
+
+I.- Otorgar la garantía que señale la Secretaría;
+
+II.- Proveerse a su costa de sello y libro de registro debidamente autorizados por la Secretaría. El sello tendrá forma circular, con un diámetro de cuatro centímetros, en el centro el Escudo Nacional y alrededor de éste la inscripción de la plaza que corresponda, el número de corredor de dicha plaza y el nombre y apellidos del corredor;
+
+III.- Registrar el sello y su firma ante la Secretaría y el Registro Público de Comercio de la plaza que corresponda; y
+
+IV.- Establecer su oficina en la plaza para la que fue habilitado, dentro de los noventa días naturales siguientes a la fecha en que haya recibido la habilitación correspondiente.
+
+Satisfechos todos los requisitos que anteceden, la Secretaría mandará publicar en el Diario Oficial de la Federación o en el periódico o gaceta de la entidad federativa de que se trate, el acuerdo de habilitación correspondiente, a partir de lo cual el corredor público podrá iniciar el ejercicio de sus funciones.
+
+###### ARTICULO 13.
+
+El corredor público sólo podrá excusarse de actuar en caso de existir prohibición legal, así como en días festivos y feriados u horas inhábiles, o cuando los interesados no le anticipen los gastos necesarios.
+
+###### ARTICULO 14.
+
+El corredor público podrá pactar libremente el monto de sus honorarios. Sin embargo, deberá ostentar, en forma clara y notoria a la vista del público, el monto que corresponda a los principales servicios que ofrezca al público y deberá especificar a sus clientes sus honorarios y gastos aproximados antes de proceder a prestar el servicio o servicios.
+
+###### ARTICULO 15.
+
+Son obligaciones del corredor público:
+
+I.- Ejercer personalmente su función, con probidad, rectitud y eficiencia;
+
+II.- No retrasar indebidamente la conclusión de los asuntos que se le planteen;
+
+III.- Proponer los negocios con exactitud, claridad y precisión;
+
+IV.- Asegurarse de la identidad de las partes que contraten, convengan o ratifiquen ante su fe, así como de su capacidad legal para contratar y obligarse, así como orientar y explicar a las partes o comparecientes el valor y las consecuencias legales de los actos de que se trate;
+
+V.- Guardar secreto profesional en lo relativo al ejercicio de sus funciones y, cuando actúe con el carácter de mediador, no revelar, mientras no se concluya el acto, convenio o contrato, los nombres de los contratantes ni los datos o informes sobre el acto, a menos que lo exija la ley o la naturaleza de la operación, o medie consentimiento de las partes;
+
+VI.- Expedir las copias certificadas de las actas y pólizas que le soliciten los interesados, así como de los documentos originales que haya tenido a la vista;
+
+VII.- Dar toda clase de facilidades para la inspección que de su archivo y libros de registro practique un representante de la Secretaría;
+
+VIII.- Dar aviso a la Secretaría para separarse del ejercicio de su función por un plazo mayor a 20 días y menor de 90 y, cuando exceda de este último término, solicitar la licencia respectiva, la cual podrá ser renunciable;
+
+IX.- Pertenecer al colegio de corredores de la plaza en que ejerza; y
+
+X.- Las demás que dispongan las leyes y reglamentos.
+
+###### ARTICULO 16.
+
+Los corredores diariamente, por orden de fecha y bajo numeración progresiva, formarán archivo de las pólizas y actas de los actos en que intervengan y en el mismo orden asentarán el extracto de las pólizas en el libro especial que llevarán al efecto y que se denominará de registro, el cual no deberá tener raspaduras, enmendaduras, interlineaciones o abreviaturas.
+
+El libro de registro y el archivo deberán llevarse con estricto apego a lo dispuesto por el reglamento de esta ley. Cuando se trate de cualquiera de los actos a que se refiere la fracción VI del artículo 6o. de esta ley, se estará, en lo conducente, a lo dispuesto en la Sección Cuarta del Capítulo Tercero de la Ley del Notariado para el Distrito Federal y el Reglamento de esta Ley.
+
+###### ARTICULO 17.
+
+El libro de registro y el archivo de pólizas y actas de los corredores que por cualquier motivo dejen de ejercer, serán entregados por quien los tuviere en su poder al colegio de corredores respectivo para su guarda, y si no lo hubiere, a la Secretaría.
+
+###### ARTICULO 18.
+
+Póliza es el instrumento redactado por el corredor para hacer constar en él un acto, convenio o contrato mercantil en el que esté autorizado a intervenir como funcionario revestido de fe pública.
+
+Acta es la relación escrita de un hecho jurídico en el que el corredor intervino con fe pública y que contendrá las circunstancias relativas al mismo.
+
+Las actas y pólizas autorizadas por los corredores son instrumentos públicos y los asientos de su libro de registro y las copias certificadas que expida de las pólizas, actas y asientos son documentos que hacen prueba plena de los contratos, actos o hechos respectivos.
+
+El corredor podrá expedir copias certificadas para hacer constar las actas o pólizas en que haya intervenido, siempre que obren en su archivo y que aparezcan debidamente registradas en el libro correspondiente.
+
+###### ARTICULO 19.
+
+Las pólizas y actas a que se refiere el artículo anterior deberán:
+
+I.- Contener el lugar y fecha de su elaboración y el nombre y número del corredor, así como su firma y sello;
+
+II.- Consignar los antecedentes y contener la certificación, en su caso, de que el corredor tuvo a la vista los documentos que se le hubieren presentado;
+
+III.- Ser redactados con claridad, precisión y concisión;
+
+IV.- Dejar acreditada la personalidad de las partes o comparecientes, así como los datos de quien comparezca en representación de otros, relacionando o insertando los documentos respectivos, o agregándolos en copia cotejada al archivo, con mención de ello en el instrumento correspondiente;
+
+V.- Elaborarse en español, incluidos los documentos que se presenten en idioma extranjero;
+
+VI.- Hacer constar que el corredor se aseguró de la identidad de las partes contratantes o ratificantes y que, a su juicio, tienen capacidad legal;
+
+VII.- Hacer constar que les fue leído el instrumento a las partes, testigos o intérpretes, o que la leyeron ellos mismos;
+
+VIII.- Hacer constar que el corredor les explicó a las partes el valor y las consecuencias legales del contenido del instrumento;
+
+IX.- Hacer constar que las partes firmaron de conformidad el instrumento, o, en su caso, que no lo firmaron por haber declarado no saber o no poder hacerlo, en cuyo caso firmará la persona que elija, sin que lo pueda hacer el corredor. En todo caso, la persona que no firme imprimirá su huella digital;
+
+X.- Hacer constar la fecha o fechas de firma;
+
+XI.- Hacer constar la declaración, en su caso, de los representantes en el sentido de que sus representados tienen capacidad legal y que la representación que ostentan no les ha sido revocada ni limitada;
+
+XII.- Hacer constar los hechos que presencie el corredor y que sean integrantes del acto de que se trate, así como la entrega de dinero o títulos; y
+
+XIII.- Hacer constar lo demás que dispongan las leyes y reglamentos.
+
+###### ARTICULO 20.
+
+A los corredores les estará prohibido:
+
+I.- Comerciar por cuenta propia o ser comisionistas;
+
+II.- Ser factores o dependientes;
+
+III.- Adquirir para sí o para su cónyuge, ascendientes o descendientes, o parientes colaterales hasta el cuarto grado, los efectos que se negocien por su conducto;
+
+IV.- Expedir copias certificadas de constancias que no obren en su archivo o libro de registro, o no expedirlos íntegramente, o de documentos mercantiles cuando sus originales no les hubieran sido presentados para su cotejo;
+
+V.- Ser servidores públicos o militares en activo;
+
+VI.- Desempeñar el mandato judicial;
+
+VII.- Actuar como fedatario en caso de que intervengan por sí o en representación de tercera persona, su cónyuge, sus parientes consanguíneos o afines en línea recta sin limitación de grados, los consanguíneos en la colateral hasta en el cuarto grado inclusive, y los afines en la colateral hasta en el segundo grado;
+
+VIII.- Ejercer funciones de fedatario si el acto o hecho interesa al corredor, a su cónyuge o a alguno de sus parientes en los grados que expresa la fracción inmediata anterior;
+
+IX.- Recibir y conservar en depósito sumas de dinero, valores o documentos que representen numerario con motivo de los actos o hechos en que intervengan como fedatarios, excepto en los siguientes casos:
+
+a) El dinero o cheques destinados al pago de impuestos o derechos causados por las actas o pólizas efectuadas ante ellos; o
+
+b) En los demás casos en que las leyes así lo permitan.
+
+X.- Ejercer su actividad si el hecho o el fin del acto es legalmente imposible o contrario a la ley o a las buenas costumbres; y
+
+XI.- Las demás que establezcan las leyes y reglamentos.
+
+###### ARTICULO 21.
+
+El corredor público que incumpla con lo dispuesto en esta ley y su reglamento se hará acreedor a las siguientes sanciones:
+
+I.- Amonestación escrita;
+
+II.- Multa hasta por el equivalente a 500 veces el salario mínimo general vigente para el Distrito Federal;
+
+III.- Suspensión hasta por seis meses en caso de reincidencia;
+
+IV.- Cancelación definitiva de la habilitación en los siguientes casos:
+
+a) Violaciones graves y reiteradas a las disposiciones de la presente ley;
+
+b) Ser condenado por delito intencional, mediante sentencia ejecutoriada que amerite pena corporal; o
+
+c) Haber obtenido la habilitación con información y documentación falsa.
+
+En caso de habérsele cancelado la habilitación, no podrá volver a ser habilitado.
+
+Las sanciones serán aplicadas por la Secretaría atendiendo a la gravedad de la infracción y la capacidad económica del infractor y oyendo previamente al interesado, el cual tendrá un plazo perentorio para aportar pruebas, de acuerdo con el procedimiento que señale el reglamento.
+
+###### ARTICULO 22.
+
+La resolución que se dicte suspendiendo o cancelando la habilitación de un corredor, deberá publicarse en el Diario Oficial de la Federación y en la gaceta o periódico oficial de la entidad federativa respectiva.
+
+###### ARTICULO 23.
+
+En cada entidad federativa en que haya tres o más corredores, se establecerá un colegio de corredores que tendrá las siguientes funciones:
+
+I.- Promover en su plaza el correcto ejercicio de la función de corredor, de acuerdo con lo que dispone la ley;
+
+II.- Proponer a la Secretaría los cuestionarios de los exámenes que se requieran para adquirir la calidad de aspirante a corredor, así como del definitivo;
+
+III.- Participar en el jurado a que esta ley se refiere;
+
+IV.- Turnar a la Secretaría las solicitudes de exámenes que haya recibido;
+
+V.- Comunicar a la Secretaría sobre la existencia de infracciones a esta ley o su reglamento;
+
+VI.- Rendir a las autoridades los informes que les soliciten en las materias de su competencia;
+
+VII.- Fomentar la creación de nuevas corredurías públicas y el incremento de la calidad de sus servicios; y
+
+VIII.- Las demás que fijen las leyes y reglamentos.
+
+## TRANSITORIOS
+
+PRIMERO.- La presente ley entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan el Título Tercero del Libro Primero del Código de Comercio que comprende los artículos 51 a 74, así como las demás disposiciones legales y reglamentarias que se opongan a lo establecido en el presente decreto.
+
+TERCERO.- A partir de que entre en vigor la presente ley, sólo podrán ser habilitados como corredores, licenciados en derecho con título legalmente expedido y registrado.
+
+CUARTO.- Los corredores públicos que hayan sido habilitados conforme a las disposiciones del Código de Comercio se continuarán regulando por éste. Los corredores públicos que hayan sido habilitados antes de la entrada en vigor de la presente Ley podrán solicitar y obtener una nueva habilitación sin más requisitos, en cuyo caso serán regulados por la presente ley a partir de la publicación del acuerdo correspondiente en el Diario Oficial de la Federación.
+
+QUINTO.- Mientras se expide el reglamento correspondiente, continuará siendo aplicable en toda la República el Reglamento de Corredores para la Plaza de México de 1o. de noviembre de 1891, en cuanto no se oponga a lo establecido en la presente ley.
+
+México, D.F., a 19 de diciembre de 1992.- Sen. Carlos Sales Gutiérrez, Presidente.- Dip. Elpidio Tovar de la Cruz, Presidente.- Sen. Roberto Suárez Nieto, Secretario.- Dip. Layda Elena Sansores San Román, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
