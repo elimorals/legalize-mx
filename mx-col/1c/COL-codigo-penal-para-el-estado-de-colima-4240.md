@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "1994-07-09"
+last_updated: "1995-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 1995.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -491,19 +491,29 @@ PROHIBICION DE IR A UNA CIRCUNSCRIPCION TERRITORIAL DETERMINADA O DE RESIDIR EN 
 
 El decomiso consiste en la pérdida de la propiedad o posesión de los instrumentos, objetos y productos del delito a favor del Estado.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1995)</small>
+
 ###### ARTICULO 50.
 
 Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Si son de uso lícito, se decomisarán cuando el delito sea doloso o preterintencional; y si pertenecen a un tercero, se decomisarán siempre que éste tenga conocimiento de su utilización para la realización del delito.
 
-Respecto de los instrumentos o cosas decomisadas, el ejecutivo determinará su destino, según su utilidad, para beneficio de la Procuración y Administración de Justicia o para fines de docencia o investigación.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1995)</small>
 
 ###### ARTICULO 51.
 
-Todos aquellos objetos que se encuentren a disposición de las Autoridades investigadoras y judiciales del orden penal, que no hayan sido decomisados y que en un lapso de 90 días naturales contados a partir de la notificación personal al interesado o de dos años cuando aquélla no se haya hecho por no constar domicilio cierto de éste, no sean recogidos por quienes tengan derecho para hacerlo, se considerarán como bienes mostrencos y se procederá a su venta en los términos de las disposiciones relativas del Código Civil para el Estado de Colima, teniéndose al Supremo Tribunal de Justicia o a la Procuraduría General de Justicia, en su caso, como denunciantes, para los efectos de la participación que concede el Artículo 781 del propio Código Civil, participación que para dichas instituciones se aumentará a un 50% y se destinará al mejoramiento de la procuración y administración de justicia.
+Todos aquellos objetos que se encuentren a disposición de las autoridades investigadoras y judiciales del orden penal, que no hayan sido decomisadas y que en un lapso de 30 días naturales contados a partir de la notificación al interesado no sean recogidos por quien tenga derecho para hacerlo, serán puestos a disposición del Ejecutivo del Estado para los efectos del artículo siguiente.
+
+Cuando no conste el nombre o domicilio cierto del interesado, se le notificará por medio de edictos que se publicarán en un periódico de los de mayor circulación, concediéndole el término de 6 meses para los efectos precisados en el párrafo anterior.
+
+En el caso de bienes perecederos o de costosa conservación que se encuentren a disposición de la autoridad competente, se procederá a su venta inmediata, al precio que rija en el mercado y el producto se depositará a disposición de quien tenga derecho al mismo, actuándose en la forma indicada en los párrafos anteriores respecto a la notificación y plazos señalados, y si transcurridos éstos, el producto no ha sido recogido, se aplicará para los fines señalados en el artículo siguiente.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1995)</small>
 
 ###### ARTICULO 52.
 
-En el caso de bienes perecederos o de costosa conservación, que se encuentren a disposición de la autoridad competente, se procederá a su venta inmediata, al precio que rija en el mercado, y el producto se depositará a disposición de quien tenga derecho al mismo, actuándose en la forma indicada en el Artículo anterior respecto a la notificación y plazos señalados, y si transcurridos éstos, el producto no ha sido recogido, se aplicará para el mejoramiento de la procuración y administración de justicia.
+Respecto de los instrumentos, bienes, objetos y productos a que se refieren los artículos anteriores, el Ejecutivo del Estado determinará su destino, según su utilidad, para beneficio de la procuración y administración de justicia o para fines de docencia o investigación.
+
+El Ejecutivo del Estado reglamentará el procedimiento conforme al cual se hará efectivo el cumplimiento de este artículo.
 
 ### CAPITULO IX.
 
@@ -1412,6 +1422,14 @@ VIOLACION DE CORRESPONDENCIA.
 ###### ARTICULO 138.
 
 Al que de manera permanente forme parte de una asociación o banda de tres o más personas, destinada a delinquir, se le impondrán de uno a siete años de prisión y multa hasta por ochenta unidades.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 1995)</small>
+
+Cuando la asociación delictuosa asuma el carácter de delincuencia organizada, las sanciones aplicables serán de cinco a quince años de prisión y multa hasta por cien unidades.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 1995)</small>
+
+Deben entenderse como delincuencia organizada, los casos en los que el propósito del grupo sea la comisión de alguno o algunos de los siguientes delitos: evasión de presos previsto en el artículo 121; homicidio señalado en los artículos 168, 169, 170 y 183; secuestro establecido en el artículo 199; amenazas y coacción mencionados en el artículo 203; violación citado en el artículo 206 parte final, artículo 207 último párrafo, 208, 209 y en lo conducente el 210; y robo referido en los artículos 226 y 227.
 
 ### CAPITULO I.
 
@@ -2592,3 +2610,7 @@ P.O. 9 DE JULIO DE 1994.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 7 DE OCTUBRE DE 1995.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
