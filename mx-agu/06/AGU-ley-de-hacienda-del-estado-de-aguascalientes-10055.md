@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "1984-01-01"
+last_updated: "1992-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -157,17 +157,23 @@ IV.- Tratándose de prórrogas, por anualidades anticipadas o fracción si el pe
 
 V.- Tratándose de actos o contratos por tiempo indeterminado, por el primer año se observará !o dispuesto en la fracción I de este artículo, por el período subsecuente se estará a lo dispuesto en la fracción anterior para las prórrogas.
 
-VI.- En los casos de contratos de construcción, el plazo para su presentación será de treinta días a partir de la fecha de firma del mismo. Cuando la construcción se inicie en la fecha del contrato, se deberá dar aviso a la Tesorería General del Estado, dentro de los diez días siguientes de dicha iniciación.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
-Para los efectos de este artículo, los contribuyentes presentarán una declaración ante la oficina Receptora correspondiente, o donde en su caso lo disponga la Tesorería General del Estado, a la que anexarán copia del documento en que haga constar el acto o contrato gravado.
+VI.- En los casos de contratos de construcción, el plazo para su presentación será de treinta días a partir de la fecha de firma del mismo. Cuando la construcción se inicie en la fecha del contrato, se deberá dar aviso a la Secretaría de Finanzas dentro de los diez días siguientes de dicha iniciación.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
+Para los efectos de este artículo, los contribuyentes presentarán una declaración ante la Oficina Receptora correspondiente, o donde en su caso lo disponga la Secretaría de Finanzas, a la que anexará copia del documento en que haga constar el acto o contrato gravado.
 
 ###### ARTICULO 10.
 
 En el caso de que las obligaciones estipuladas están sujetas a alguna condición, se causará el impuesto como si fuesen puras y simples.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 11.
 
-Los notarios públicos o quienes hagan sus veces, los particulares tratándose de documentos privados u otorgados fuera del Estado o los funcionarios judiciales cuando sea potestativa la protocolización de sus resoluciones, deberán dar aviso a la Tesorería General del Estado de los actos o contratos en que intervengan, gravados por el impuesto que regula este Capítulo.
+Los notarios públicos o quienes hagan sus veces, los particulares tratándose de documentos privados u otorgados fuera del Estado o los funcionarios judiciales cuando sea potestativa la protocolización de sus resoluciones, deberán dar aviso a la Secretaría de Finanzas de los actos o contratos en que intervengan, gravados por el impuesto que regula este Capítulo.
 
 ###### ARTICULO 12.
 
@@ -235,9 +241,15 @@ El pago de este impuesto deberá realizarse en la Oficina Receptora correspondie
 
 I.- Cuando la explotación de diversiones públicas se realice permanentemente en establecimientos fijos, dentro de los primeros veinte días del mes siguiente al en que se hubiesen percibido los ingresos objeto del gravamen, presentado al efecto una declaración de los ingresos obtenidos, en las formas aprobadas.
 
-II.- Cuando se trate de contribuyentes eventuales, al terminar cada función, liquidando el impuesto por conducto del interventor que al efecto designe la Tesorería General del Estado.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
-En el caso del párrafo anterior, la Tesorería General del Estado podrá autorizar al contribuyente de que se trate, para enterar el impuesto causado, ante la Oficina Receptora que corresponda, al siguiente día hábil de aquel en que se celebre la función o funciones.
+II.- Cuando se trate de contribuyentes eventuales, al terminar cada función, liquidando el impuesto por conducto del interventor que al efecto designe la Secretaria de Finanzas.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
+En el caso del párrafo anterior, la Secretaría de Finanzas podrá autorizar al contribuyente de que se trate para enterar el impuesto causado, ante la Oficina Receptora que corresponda, al siguiente día hábil de aquel en que se celebre la función o funciones.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
 Cuando por cualquier circunstancia, el interventor designado no ocurra a formular la liquidación y en su caso recaudar el impuesto, el contribuyente se encuentra obligado a ejecutar el pago del mismo, el siguiente día hábil a aquel en que ocurra la función o funciones.
 
@@ -245,11 +257,13 @@ Cuando por cualquier circunstancia, el interventor designado no ocurra a formula
 
 ###### ARTICULO 18.
 
-Los contribuyentes de este impuesto tienen, además las siguientes obligaciones:
+Los contribuyentes de este impuesto tienen, además, las siguientes obligaciones:
 
 I.- Si explotan habitualmente el espectáculo público en establecimiento fijo:
 
-a).- Registrarse en la Tesorería General del Estado, por conducto de la Oficina Receptora correspondiente, haciendo uso de las formas aprobadas y proporcionando los datos y los documentos que las mismas exijan, a más tardar el día anterior al en que vayan a dar principio las actividades gravadas.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
+a).- Registrar en la Secretaría de Finanzas, por conducto de la Oficina Receptora correspondiente, haciendo uso de las formas aprobadas y proporcionando los datos y los documentos que las mismas exijan, a más tardar el día anterior al que vayan a dar principio las actividades gravadas.
 
 b).- Presentar los avisos de cambio de domicilio, suspensión de actividades, traspaso o clausura, ante las mismas autoridades, previamente a la fecha en que ocurran tales hechos o circunstancias.
 
@@ -257,23 +271,33 @@ II.- Si la explotación se realiza en forma eventual, o si se realiza permanente
 
 a).- Presentar un informe ante la Oficina Receptora que corresponda, que indique el período durante el que se realizará la diversión, a mas tardar el día anterior al en que se inicie.
 
-b).- Otorgar garantía a satisfacción de la Tesorería General del Estado en alguna de las formas previstas en el Código Fiscal del Estado, que no será inferior al impuesto correspondiente a un día de actividades ni superior al que pudiera corresponder a tres días, previamente a la iniciación de actividades.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
+b).- Otorgar garantía a satisfacción de la Secretaría de Finanzas en alguna de las formas previstas en el Código Fiscal del Estado, que no será inferior al impuesto correspondiente a un día de actividades ni superior al que pudiera corresponder a tres días, previamente a la iniciación de actividades.
 
 c).- Dar el aviso correspondiente en los casos de ampliación del período de explotación, ante la Oficina Receptora de su jurisdicción, a más tardar el último día que comprenda el aviso cuya vigencia se vaya a ampliar.
 
-III.- Presentar ante la Tesorería General del Estado u Oficina Receptora respectiva, para su resello, el boletaje y el programa que corresponda a cada función, cuando menos un día antes de que se verifiquen los espectáculos.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
+III.- Presentar ante la Secretaría de Finanzas u Oficina Receptora respectiva, para su resello, el boletaje y el programa que corresponda a cada función, cuando menos un día antes de que se verifiquen los espectáculos.
 
 IV.- No vender boletos en tanto no estén resellados por las autoridades fiscales.
 
-V.- Permitir a los interventores que designe la Tesorería General del Estado o sus Oficinas Receptoras, la verificación y determinación del pago del Impuesto, dándoles las facilidades que requieran para su cumplimiento.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
-VI.- En general, adoptar las medidas de control que para la correcta determinación de este impuesto, establezca la Tesorería General del Estado.
+V.- Permitir a los interventores que designe la Secretaría de Finanzas o sus Oficinas Receptoras, la verificación y determinación del pago del impuesto, dándoles las facilidades que requieran para su cumplimiento.
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
+VI.- En general, adoptar las medidas de control que para la correcta determinación de este impuesto, establezca la Secretaría de Finanzas.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
 #### SECCION TERCERA. De la Responsabilidad Solidaria
 
 ###### ARTICULO 19.
 
-Cuando los sujetos de este impuesto, obligados a otorgar garantía de acuerdo con lo dispuesto en la fracción II inciso b) del artículo anterior, no hubieran cumplido con tal obligación, la Tesorería General del Estado, podrá suspender el espectáculo hasta en tanto no se garantice el pago del impuesto, para lo cual el interventor que se designe solicitará el auxilio de la fuerza pública.
+Cuando los sujetos de este impuesto, obligados a otorgar garantía de acuerdo con lo dispuesto en la fracción II inciso b), del artículo anterior, no hubieran cumplido con tal obligación, la Secretaría de Finanzas, podrá suspender el espectáculo hasta en tanto no se garantice el pago del impuesto, para lo cual el interventor que se designe solicitará el auxilio de la fuerza pública.
 
 #### SECCION CUARTA. De la Base
 
@@ -281,11 +305,13 @@ Cuando los sujetos de este impuesto, obligados a otorgar garantía de acuerdo co
 
 Este impuesto en ningún caso, deberá ser repercutido al espectador.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
 #### SECCION QUINTA. Del Pago
 
 ###### ARTICULO 21.
 
-Las autoridades competentes, al otorgar permisos para la explotación de espectáculos, deberán dar aviso a la Tesorería General del Estado, o a sus Oficinas Receptoras, de las autorizaciones que otorguen, a más tardar el día anterior al en que vaya a realizarse o a principiar la explotación del espectáculo.
+Las autoridades competentes, al otorgar permisos para las (sic) explotación de espectáculos, deberán dar aviso a la Secretaría de Finanzas, o a sus Oficinas Receptoras, de las autorización que otorguen, a más tardar el día anterior al que vaya a realizarse o al principiar la explotación del espectáculo.
 
 ###### ARTICULO 22.
 
@@ -297,17 +323,23 @@ II.- El equipo y las instalaciones que se utilicen en la diversión o espectácu
 
 #### SECCION SEXTA. De las Obligaciones de los Contribuyentes
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 23.
 
 Los derechos por la prestación de servicios públicos que presten las diversas dependencias del Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento en que provoque por parte del Estado, el gasto que deba ser remunerado por aquél, salvo el caso que la disposición que fije el derecho, señale cosa distinta.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 24.
 
-El importe de las tasas que para cada derecho señala la Ley de Ingresos del Estado, deberá ser cubierto en la receptoría de Rentas de la jurisdicción donde se presta el servicio, o en el lugar que al efecto señale la Tesorería General del Estado.
+El importe de las tasas que para cada derecho señala la Ley de Ingresos del Estado, deberá ser cubierto en la Receptoría de Rentas de la jurisdicción donde se presta el servicio, o en el lugar que al efecto señale la Secretaría de Finanzas.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 25.
 
-La dependencia, funcionario o empleado que preste el servicio por el cual se paguen los derechos, procederá a la realización del mismo, al presentarle el interesado el recibo que acredite su pago ante la Tesorería General del Estado o Receptoría de Rentas respectiva.
+La dependencia, funcionario a (sic) empleado que preste el servicio por el cual se paguen los derechos, procederá a la realización del mismo, al presentarle el interesado el recibo que acredite su pago ante la Secretaría de Finanzas o Receptoría de Rentas respectiva.
 
 ###### ARTICULO 26.
 
@@ -321,11 +353,13 @@ El funcionario o empleado público que preste algún servicio por el que se caus
 
 En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio o el desarrollo de una actividad, la consignación del importe fijado por el órgano recaudador en los términos establecidos por las leyes fiscales, dará lugar a la prestación de dicho servicio o al desarrollo de la actividad.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
 #### SECCION UNICA
 
 ###### ARTICULO 29.
 
-Las empresas que gocen de franquicias fiscales al amparo de los ordenamientos legales respectivos del Estado, quedarán sujetas a la vigilancia de la Tesorería General del Estado por el término que duren tales franquicias.
+Las empresas que gocen de franquicias fiscales al amparo de los ordenamientos legales respectivos del Estado, quedarán sujetas a la vigilancia de la Secretaría de Finanzas por el término que duren tales franquicias.
 
 #### SECCION UNICA
 
@@ -333,17 +367,21 @@ Las empresas que gocen de franquicias fiscales al amparo de los ordenamientos le
 
 El pago de derechos por servicios de vigilancia a empresas que gocen de franquicias fiscales, deberá hacerse dentro de los primeros veinte días de cada mes, mediante una declaración adjunta a la que los contribuyentes están obligados a presentar en relación con el Impuesto al Valor Agregado.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
 #### SECCION UNICA
 
 ###### ARTICULO 31.
 
-Si con motivo de la revisión de las declaraciones presentadas por los contribuyentes del derecho a que se refieren los dos artículos anteriores, se desprende la existencia de error o falsedad en las cantidades manifestadas, la Tesorería General del Estado lo hará del conocimiento de los interesados para los efectos del artículo siguiente.
+Si con motivo de la revisión de las declaraciones presentadas por los contribuyentes del derecho al que se refieren los dos artículos anteriores, se desprende la existencia de error o falsedad en las cantidades manifestadas, la Secretaría de Finanzas lo hará del conocimiento de los interesados para los efectos del artículo siguiente.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
 #### SECCION UNICA
 
 ###### ARTICULO 32.
 
-Después de transcurridos dos meses sin que el derecho a que se refiere el artículo anterior, haya sido pagado o si existe incumplimiento a las condiciones de la concesión de la franquicia, el Tesorero General del Estado queda facultado para declarar la nulidad de la franquicia fiscal de que vengan disfrutando las empresas.
+Después de transcurridos dos meses sin que el derecho a que se refiere el artículo anterior, haya sido pagado o si existe incumplimiento a las condiciones de la concesión de la franquicia, el Secretario de Finanzas queda facultado para declarar la nulidad de la franquicia fiscal de que vengan disfrutando las empresas.
 
 #### SECCION UNICA
 
@@ -488,3 +526,9 @@ C.P. Alfredo de Alba Olavarrieta.
 EL SECRETARIO DE PLANEACION Y DESARROLLO ESTATAL,
 
 Lic. Oscar López Velarde Vega.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE DICIEMBRE DE 1992.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
