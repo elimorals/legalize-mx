@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2002-08-09"
+last_updated: "2003-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2003.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -951,31 +951,51 @@ III.- Tres días para la celebración de juntas, reconocimientos de firmas, exhi
 
 IV.- Tres días para todos los demás casos.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 2003)</small>
 
-ART. 138.- La caducidad de la instancia operará, cualquiera que sea el estado de procedimiento, si transcurridos seis meses naturales contados a partir de la notificación de la última determinación judicial, no hubiere promoción, de cualquiera de las partes, que tienda a llevar adelante el procedimiento. Los efectos y formas de la declaración de caducidad se sujetarán a las siguientes normas:
+ART. 138.- La caducidad de la instancia operará, cualquiera que sea el estado del procedimiento, desde la presentación de la demanda hasta antes de que se cite a las partes para oír resolución, si transcurridos seis meses naturales contados a partir de la notificación de la última determinación judicial, no hubiere promoción, de cualquiera de las partes, que tienda a llevar adelante el procedimiento. Los efectos y formas de la declaración de caducidad se sujetarán a las siguientes normas:
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1995)</small>
 
 I.- La caducidad de la instancia es de orden público, irrenunciable y no puede ser materia de convenios entre las partes. El Juez la declarará de oficio o a petición de cualquiera de las partes cuando concurran las circunstancias a que se refiere el presente artículo;
 
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1995)</small>
+
 II.- La caducidad extingue el proceso pero no la acción; en consecuencia se puede iniciar un nuevo juicio, sin perjuicio de lo dispuesto en la fracción V de este artículo;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1995)</small>
 
 III.- La caducidad de la primera instancia convierte en ineficaces las actuaciones del juicio y las cosas deben volver al estado que tenían antes de la presentación de la demanda y se levantarán los embargos preventivos y cautelares. Se exceptúan de la ineficacia susodicha las resoluciones firmes sobre competencia, litispendencia, conexidad, personalidad y capacidad de los litigantes, que regirán en el juicio ulterior si se promoviere. Las pruebas rendidas en el proceso extinguido por caducidad podrán ser invocadas en el nuevo si se promoviere siempre que se ofrezcan y precisen en la forma legal;
 
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1995)</small>
+
 IV.- La caducidad de la segunda instancia deja firmes las resoluciones apeladas. Así lo declarará el Tribunal de Apelación;
 
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1995)</small>
+
 V.- La caducidad de los incidentes solo afectará a las actuaciones del incidente sin abarcar las de la instancia principal aunque haya quedado en suspenso ésta por la admisión de aquél;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1995)</small>
 
 VI.- Para los efectos del artículo 1155 fracción II del Código Civil se equipara a la desestimación de la demanda la declaración de caducidad del proceso;
 
 VII.- (DEROGADA, P.O. 20 DE JULIO DE 1979)
 
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1995)</small>
+
 VIII.- No tiene lugar la declaración de caducidad: a).- En los juicios universales de concursos y sucesiones, pero sí en los juicios con ellos relacionados que se tramiten independientemente, que de aquellos surjan o por ellos se motiven; b).- En las actuaciones de jurisdicción voluntaria; c).- En los juicios de alimentos y en los previstos por los artículos 319 y 320 del Código Civil; y d).- En los juicios seguidos ante la justicia de paz;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1995)</small>
 
 IX.- El término de la caducidad sólo se interrumpirá por promociones de las partes o por actos de las mismas realizados ante autoridad judicial diversa siempre que tengan relación inmediata y directa con la instancia;
 
 X.- (DEROGADA, P.O. 10 DE AGOSTO DE 1987)
 
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1995)</small>
+
 XI.- Contra la declaración de caducidad se dá sólo el recurso de revocación en los juicios que no admiten apelación. Se substanciará con un escrito de cada parte en que se propongan pruebas y la audiencia de recepción de éstas, de alegatos y sentencia. En los juicios que admiten la alzada cabe la apelación en ambos efectos. Si la declaratoria se hace en segunda instancia se admitirá la reposición. Tanto en la apelación de la declaración como en la reposición, la substanciación se reducirá a un escrito de cada parte en que se ofrezcan pruebas y una audiencia en que se reciban, se alegue y se pronuncie resolución. Contra la negativa a la declaración de caducidad en los juicios que igualmente admitan la alzada cabe la apelación en el efecto devolutivo, con igual substanciación;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1995)</small>
 
 XII.- Las costas serán a cargo del actor; pero serán compensables con las que corran a cargo del demandado en los casos previstos por la ley y además en aquellos en que opusiere reconvención, compensación, nulidad y en general las excepciones que tienden a variar la situación jurídica que privaba entre las partes antes de la presentación de la demanda.
 
@@ -3519,7 +3539,7 @@ ART. 510.- Si la sentencia condena a no hacer, su infracción se resolverá en e
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 511.- Cuando en virtud de la sentencia o de la determinación del juez debe entregarse alguna cosa inmueble, se procederá inmediatamente a poner en posesión de la misma al actor o a la persona en quien fincó el remate aprobado, practicando a este fin todas las diligencias conducentes que solicite el interesado.
+ART. 511.- Cuando en virtud de la sentencia o de la determinación del Juez debe entregarse alguna cosa inmueble, se procederá inmediatamente a poner en posesión de la misma al actor o a la persona en quien fincó el remate aprobado, practicando a este fin todas las diligencias conducentes que solicite el interesado.
 
 Si la cosa fuere mueble y pudiere ser habida, se le mandará entregar al actor o al interesado que indicará la resolución. Si el obligado se resistiere, lo hará el actuario, quien podrá emplear el uso de la fuerza pública y aun mandar romper las cerraduras.
 
@@ -6626,3 +6646,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publica
 P.O. 9 DE AGOSTO DE 2002.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 2003.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
