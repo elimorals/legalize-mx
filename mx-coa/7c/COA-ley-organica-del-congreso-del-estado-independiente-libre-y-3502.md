@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-3502
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-09-06"
-last_updated: "1998-06-30"
+last_updated: "2004-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 6 de septiembre de 1994.
 
@@ -587,9 +587,27 @@ Si las disposiciones tomadas por el Presidente no fueren suficientes para contro
 
 La Diputación Permanente es el órgano del Congreso del Estado, que funcionará durante los recesos del Pleno.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2004)</small>
+
 ###### ARTICULO 68.
 
-La Diputación Permanente estará integrada por un Presidente, un Vicepresidente, dos Secretarios y cuatro Vocales, electos en escrutinio secreto y por mayoría de votos, de entre los que estén en funciones un día antes de la clausura de las sesiones ordinarias o del periodo de instalación de la Legislatura. Para suplir las faltas de los electos, se nombrarán, del mismo modo y en igual número, suplentes que serán llamados para sustituirlos, conforme al orden de su nombramiento.
+La Diputación Permanente se integrará con once diputados propietarios, de los cuales se nombrará un Presidente, un Vicepresidente, dos secretarios y siete vocales, además de once suplentes, los cuales se elegirán en escrutinio secreto y por mayoría de votos de entre los que estén en funciones un día antes de la clausura del periodo de sesiones o en el periodo de instalación de la legislatura.
+
+Por cada uno de los diputados electos como propietarios, se nombrará respectivamente un suplente, que los sustituirá en caso de ausencia temporal o absoluta.
+
+Para la integración de la Diputación Permanente, se observará lo siguiente:
+
+I.- En primer lugar, se asignarán seis lugares para el Grupo Parlamentario que haya obtenido la mayoría absoluta en el Congreso del Estado.
+
+II.- Enseguida, se asignará en orden descendente de representación, un lugar para cada uno de los Grupos Parlamentarios que conforme al resultado electoral estén representados en el Congreso, exceptuando al Grupo Parlamentario mayoritario.
+
+III.- De los lugares restantes, se asignará a cada Grupo Parlamentario, por el orden de su representación, la cantidad que proporcionalmente le corresponda en relación a los once diputados que conforman la diputación permanente, restándoles el diputado ya asignado en la fracción que antecede. Se exceptúa de lo anterior al Grupo Parlamentario Mayoritario.
+
+IV. En caso de empate de dos o más Grupos Parlamentarios en la representación en el Congreso, se decidirá por el número de votos obtenidos en el proceso electoral correspondiente.
+
+En caso de que ningún Partido Político obtenga la mayoría absoluta en el Congreso del Estado, se asignará un Diputado a cada Grupo Parlamentario y el resto se asignará en orden descendente de representación, proporcionalmente al número de Diputados que tenga en la Legislatura.
+
+La elección de la diputación Permanente se hará conforme una Planilla, en la que se determinarán los cargos que ocuparán sus integrantes.
 
 ###### ARTICULO 69.
 
@@ -988,3 +1006,9 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 Artículo Cuarto.- Se derogan todas las disposiciones que contravengan el sentido de la presente reforma.
+
+P.O. 4 DE MAYO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Estado.
+
+SEUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
