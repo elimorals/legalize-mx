@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2000-11-30"
+last_updated: "2002-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MARZO DE 2002.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -344,7 +344,7 @@ II A.- Coadyuvar a la promoción comercial y turística del país a través de s
 
 > <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 1995)</small>
 
-II B.- Capacitar a los miembros del Servicio Exterior Mexicano en las áreas comercial y turística, para que puedan cumplir con las responsabilidades derivadas de lo dispuesto en la fracción anterior,
+II B.- Capacitar a los miembros del Servicio Exterior Mexicano en las áreas comercial y turística, para que puedan cumplir con las responsabilidades derivadas de lo dispuesto en la fracción anterior;
 
 III.- Intervenir en lo relativo a comisiones, congresos, conferencias y exposiciones internacionales, y participar en los organismos e institutos internacionales de que el Gobierno mexicano forme parte;
 
@@ -878,11 +878,11 @@ IV.- Fomentar, en coordinación con la Secretaría de Relaciones Exteriores, el 
 
 V.- Estudiar, proyectar y determinar los aranceles y fijar los precios oficiales, escuchando la opinión de la Secretaría de Hacienda y Crédito Público; estudiar y determinar las restricciones para los artículos de importación y exportación, y participar con la mencionada Secretaría en la fijación de los criterios generales para el establecimiento de los estímulos al comercio exterior;
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-VI.- Estudiar y determinar mediante reglas generales, conforme a los montos globales establecidos por la Secretaría de Hacienda y Crédito Público, los estímulos fiscales necesarios para el fomento industrial, el comercio interior y exterior y el abasto, incluyendo los subsidios sobre impuestos de importación, y administrar su aplicación, así como vigilar y evaluar sus resultados;
-
 > <small>N. DE E. EN RELACION CON LA PRESENTE FRACCION, SE DEROGAN EXCLUSIVAMENTE LAS FACULTADES EN MATERIA DE INSPECCION Y VIGILANCIA, DE PRECIOS O TARIFAS, ASI COMO LA DE SANCIONAR EN LOS CASOS DE INCUMPLIMIENTO, D.O.F. 4 DE ENERO DE 1989.</small>
+
+VII.- Establecer la política de precios, y con el auxilio y participación de las autoridades locales, vigilar su estricto cumplimiento, particularmente en lo que se refiere a artículos de consumo y uso popular, y establecer las tarifas para la prestación de aquellos servicios de interés público que considere necesarios, con la exclusión de los precios y tarifas de los bienes y servicios de la Administración Pública Federal; y definir el uso preferente que deba darse a determinadas mercancías;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 VII.- Establecer la política de precios, y con el auxilio y participación de las autoridades locales, vigilar su estricto cumplimiento, particularmente en lo que se refiere a artículos de consumo y uso popular, y establecer las tarifas para la prestación de aquellos servicios de interés público que considere necesarios, con la exclusión de los precios y tarifas de los bienes y servicios de la Administración Pública Federal; y definir el uso preferente que deba darse a determinadas mercancías;
 
@@ -1246,7 +1246,11 @@ XXIV.- Llevar el registro público de la propiedad inmobiliaria federal y el inv
 
 XXIV bis.- Reivindicar los bienes propiedad de la nación, por conducto del Procurador General de la República;
 
-XXV.- Las demás que le encomienden expresamente las leyes y reglamentos.
+> <small>(ADICIONADA, D.O.F. 13 DE MARZO DE 2002)</small>
+
+XXV.- Formular y conducir la política general de la Administración Pública Federal para establecer acciones que propicien la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere, y
+
+XXVI.- Las demás que le encomienden expresamente las leyes y reglamentos.
 
 ###### ARTICULO 38.
 
@@ -1963,3 +1967,11 @@ La facultad prevista en la fracción XXV, del artículo 27 de la Ley Orgánica d
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 13 DE MARZO DE 2002.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente ordenamiento.
+
+Artículo Tercero.- En relación con la reforma a que se refiere el ARTICULO TERCERO del presente Decreto, los asuntos relativos a las responsabilidades administrativas, civiles y penales en que hubieren incurrido las autoridades locales o municipales, con motivo de la desviación de recursos federales recibidos y que se encuentren en trámite o pendientes de resolución, deberán sustanciarse de conformidad con las disposiciones vigentes al momento en que se cometió la irregularidad.
