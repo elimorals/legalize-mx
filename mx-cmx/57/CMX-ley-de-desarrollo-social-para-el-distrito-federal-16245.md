@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-social-para-el-distrito-federal-16245"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-23"
-last_updated: "2002-12-26"
+last_updated: "2004-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16245&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-04-24"
 
 LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE ENERO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de mayo de 2000.
 
@@ -450,7 +450,41 @@ Las acciones de las organizaciones civiles para la realización de proyectos o p
 
 Las formas de evaluación de cada programa, serán determinadas por las instituciones que lo instrumenten, en apego a los indicadores que para tal efecto establezca el Programa de Desarrollo Social. En ningún caso podrá transcurrir más de un año para que se realice una evaluación.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 27 DE ENERO DE 2004)</small>
+
+###### Artículo 35.
+
+La Metodología para medir la evolución de la pobreza y el desarrollo social, será un instrumento público que permitirá planear, diseñar y evaluar el impacto de la aplicación de la Política de Desarrollo Social en el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 27 DE ENERO DE 2004)</small>
+
+###### Artículo 36.
+
+La Secretaría será la responsable de elaborar y actualizar la Metodología para medir la evolución de la pobreza y el desarrollo social del Distrito Federal. Para el efecto podrá suscribir convenios con instituciones académicas, gubernamentales o sociales para fijar los lineamientos y criterios que permitan definir, identificar y medir la pobreza y desarrollo social del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 27 DE ENERO DE 2004)</small>
+
+###### Artículo 37.
+
+La Metodología y los estudios sobre la evolución de la pobreza y el desarrollo social del Distrito Federal, serán enviados a la Asamblea Legislativa del Distrito Federal y al Consejo para conocer su opinión, misma que deberá emitirse en los treinta días posteriores a la recepción del documento.
+
+> <small>(ADICIONADO, G.O. 27 DE ENERO DE 2004)</small>
+
+###### Artículo 38.
+
+La Secretaría realizará las mediciones de la evolución de la pobreza y el desarrollo social en el Distrito Federal con una periodicidad anual, con la finalidad de implementar políticas sociales con nuevos conceptos de sustentabilidad y equidad que rescaten la seguridad humana y por consiguiente el Desarrollo Social, disminuyendo con ello la pobreza en nuestra Ciudad.
+
+> <small>(ADICIONADO, G.O. 27 DE ENERO DE 2004)</small>
+
 ### CAPITULO OCTAVO. DE LA EVALUACION
+
+###### Artículo 39.
+
+La Secretaría publicará en la Gaceta Oficial del Distrito Federal la metodología y los resultados de las mediciones de la evolución de la pobreza y el desarrollo social y pondrá a disposición de los ciudadanos, a través de sus paginas electrónicas, todos los estudios e información requerida para aplicar la Metodología.
+
+### CAPITULO NOVENO. DE LA MEDICION DE LA POBREZA Y EL DESARROLLO
+
+> <small>(ADICIONADO, G.O. 27 DE ENERO DE 2004)</small>
 
 ## ARTICULOS TRANSITORIOS
 
@@ -475,3 +509,7 @@ SEGUNDO.- Para su mayor difusión, publíquese en el Diario Oficial de la Federa
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
 
 CUARTO.- El Jefe de Gobierno del Distrito Federal, realizara las adecuaciones necesarias en los materiales entregados con objeto de cumplir los programas sociales específicos, a fin de dar cumplimiento al presente decreto.
+
+G.O. 27 DE ENERO DE 2004.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
