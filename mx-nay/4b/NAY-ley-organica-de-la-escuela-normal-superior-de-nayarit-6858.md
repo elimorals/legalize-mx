@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-escuela-normal-superior-de-nayarit-6858"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1974-03-02"
-last_updated: "1974-03-02"
+last_updated: "1976-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6858&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DE LA ESCUELA NORMAL SUPERIOR DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 1976.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit el sábado 2 de marzo de 1974.
 
@@ -95,13 +95,17 @@ Los acuerdos de la Asamblea de Gobierno se tomarán por mayoría de votos.
 
 ###### ARTICULO 7o.
 
-La Autoridad máxima de la Escuela Normal Superior de Nayarit, será la Asamblea de Gobierno y tendrá las siguientes atribuciones:
+La Autoridad Máxima de la Escuela Normal Superior de Nayarit, será la Asamblea de Gobierno y tendrá las siguientes atribuciones:
 
 I. Expedir las Normas Legales reglamentarias y disposiciones generales encaminadas a la mejor organización y funcionamiento académico, técnico y administrativo de la Escuela.
 
-II. Elaborar, modificar y aprobar los planes de estudios, programas, métodos y procedimientos de enseñanza.
+II. Elaborar, modificar y aprobar los planes de estudios, programas, métodos y procedimientos de
 
-III. Designar al Director de la Escuela, a propuesta en terna hecha por el Ejecutivo del Estado; conocer de su renuncia o removerlo por causa grave, de acuerdo con el procedimiento que fije la Ley;
+enseñanza .
+
+> <small>(REFORMADA, P.O.22 DE MAYO DE 1976)</small>
+
+III. Proponer una terna al Ejecutivo del Estado, para que éste designe al Director de la Escuela; correspondiendo a la Asamblea de Gobierno conocer de la renuncia del Director, o removerlo por causas graves, de acuerdo con el procedimiento que fije la Ley.
 
 IV. Designar, a propuesta del Director, al Personal Técnico, Docente y Administrativo y removerlo por causa grave, a su juicio.
 
@@ -109,7 +113,7 @@ V. Conocer y sancionar anualmente el Plan de Arbitrios y el presupuesto de egres
 
 VI. Resolver en última instancia, los problemas que afectan la vida y la buena marcha de la Institución, aplicar las sanciones por violación a está Ley.
 
-VII. Acordar estímulos y recompensas al Personal Docente, Técnico y Administrativo, así como a los Alumnos, que a su juicio lo merezcan, por su actividades académicas y extraescolares.
+VII. Acordar estímulos y recompensas al Personal Docente, Técnico y Administrativo, así como a los Alumnos, que a su juicio lo merezcan, por su actividades académicas y extraescolares.xtraescolares.
 
 ###### ARTICULO 8o.
 
@@ -270,3 +274,9 @@ Lic. Roberto Gómez Reyes.- Rúbrica
 El Director General de Gobernación
 
 Lic. Héctor Velázquez Rodríguez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE MAYO DE 1976
+
+UNICO.- El presente Decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
