@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1987-08-05"
+last_updated: "1987-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CHH"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE AGOSTO DE 1987 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1987.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -2693,7 +2691,7 @@ El notario, en relación con los libros del protocolo llevará una carpeta por c
 
 Los documentos del apéndice, se arreglarán por legajos, poniéndose en cada uno de ellos el número que corresponde a la escritura o acta a que se refieren y en cada no de los documentos se pondrá una letra que lo señale y distinga de los otros que forman el legajo.
 
-De los expediente que se protocolicen por mandato judicial, se agregará una copia certificada al apéndice del volumen respectivo y se considerarán como un solo documento.
+De los expedientes que se protocolicen por mandato judicial, se agregará una copia certificada al apéndice del volumen respectivo y se considerarán como un solo documento.
 
 ###### ARTICULO 406.
 
@@ -9253,45 +9251,19 @@ El Ejecutivo del Estado, con propósitos de policía, culturales, de fomento a l
 
 ###### ARTICULO 1314.
 
-El Gobernador concederá los permisos necesarios para explotar el servicio público de transporte de pasajeros, de carga o mixto, en los caminos del Estado, de acuerdo con los siguientes requisitos:
-
-I.- Tendrán preferencia:
-
-a).- En igualdad de condiciones, las solicitudes presentadas en primer término;
-
-b).- Las personas que con anterioridad hayan explotado un servicio de esa naturaleza;
-
-c).- Los vecinos del Estado.
-
-II.- Los permisionarios deberán obtener y exhibir una póliza de seguro del viajero o de las mercaderías que transporten, sujetándose para los efectos de esta disposición a lo establecido en la Ley de Vías Generales de Comunicación y su reglamento;
-
-III.- Los mismos permisionarios deberán otorgar fianza de diez mil pesos para garantizar su responsabilidad civil proveniente de daños en propiedad ajena y los causados por atropellamiento de personas;
-
-IV.- Se negará el permiso cuando el solicitante sea extranjero, disfrute de otro anterior o la ruta se haya declarado cerrada por el Ejecutivo del Estado;
-
-V.- Deberán fijarse con claridad los itinerarios, tarifas y horarios;
-
-VI.- Se procurará que no se establezcan competencias desleales o ruinosas, ni se perjudiquen los intereses de los permisionarios o del público.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
 
 ###### ARTICULO 1315.
 
-Los permisionarios a que se refiere el artículo anterior deberán otorgar la garantía indicada en el mismo precepto en cualquiera de las siguientes formas:
-
-I.- Mediante fianza, comprobando el fiador, de la manera prescrita en los artículos 2745 y 2746 del Código Civil, que tiene bienes raíces para responder de sus obligaciones, calificados catastralmente cuando menos en el doble del importe de la garantía;
-
-II.- Mediante póliza expedida por una institución de crédito legalmente autorizada para ello;
-
-III.- Mediante depósito en efectivo constituido en la Tesorería General del Estado o en alguna de sus dependencias;
-
-IV.- Mediante prenda sobre el vehículo propiedad del permisionario, siempre que el valor del mismo, a juicio de los peritos de tránsito, iguale cuando menos al duplo del importe de la garantía exhibida.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
 
 ###### ARTICULO 1316.
 
-El Gobernador estará facultado para revocar los permisos a que se refieren los artículos anteriores, cuando en cualquier forma se infrinjan los requisitos señalados en este Código, demás leyes y reglamentos. La revocación se dictará previa audiencia del interesado, a quien el mismo Ejecutivo concederá un término prudente, que no deberá exceder de diez días, para que ofrezca las pruebas que a sus derechos convenga.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
 
 ###### ARTICULO 1317.
 
-Las leyes y reglamentos de Tránsito fijarán, en caso necesario, las tarifas que deben aplicarse de acuerdo con el servicio que se preste en los vehículos de alquiler.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -9299,55 +9271,39 @@ Las leyes y reglamentos de Tránsito fijarán, en caso necesario, las tarifas qu
 
 ###### ARTICULO 1318.
 
-Son infracciones de tránsito los actos y omisiones señalados en este Código, leyes y reglamentos respectivos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
 
 ###### ARTICULO 1319.
 
-El Director General y los Delegados de la Policía de Tránsito son competentes para sancionar dichas infracciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
 
 ###### ARTICULO 1320.
 
-Sólo podrán aplicarse las siguientes sanciones:
-
-I.- Amonestación;
-
-II.- Apercibimiento;
-
-III.- Multa;
-
-IV.- Reparación del daño;
-
-V.- Arresto;
-
-VI.- Cancelación de la licencia para manejar;
-
-VII.- Revocación del permiso de ruta concedido, previo acuerdo del Ejecutivo del Estado.
-
-(REFORMADO, P.O. 8 DE MARZO DE 1986) (F. DE E., P.O. 22 DE MARZO DE 1986)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
 
 ###### ARTICULO 1321.
 
-Las infracciones leves serán sancionadas con amonestación, apercibimiento o multa hasta de $1,000.00 (Un mil pesos 00/100 M.N.) y las graves o los casos de reincidencia con multa hasta $20,000.00 (veinte mil pesos 00/100) o arresto inconmutable hasta por treinta y seis horas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
 
 ###### ARTICULO 1322.
 
-A los reincidentes o infractores habituales podrán suspendérseles o cancelárseles las licencias para manejar.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
 
 ###### ARTICULO 1323.
 
-Cuando el hecho o la omisión constituyan una infracción antisocial, se consignará al responsable a las autoridades competentes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
 
 ###### ARTICULO 1324.
 
-El daño en propiedad ajena cometido por imprudencia, producido por la circulación de vehículos a los que hacen alución (sic) este Código, Leyes y Reglamentos de Tránsito, sólo podrá ser consignado a las autoridades competentes a petición de parte ofendida.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
 
 ###### ARTICULO 1325.
 
-La infracción de las sanciones impuestas con arreglo a los artículos anteriores podrá ser recurrida ante el Gobernador del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
 
 ###### ARTICULO 1326.
 
-Las Leyes y Reglamentos de Tránsito del Estado fijarán el procedimiento con arreglo al cual se tramitará el recurso a que se refiere el precepto anterior.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
 
 # LIBRO TERCERO. DE LAS OBRAS PUBLICAS
 
@@ -13032,3 +12988,17 @@ Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico
 ###### ARTICULO SEGUNDO.
 
 En la misma fecha se derogan los artículos del 1306 al 1313 del Código Administrativo del Estado y los artículos del 1 al 104 y del 148 al 202 de la Ley de Tránsito del Estado.
+
+P.O. 8 DE AGOSTO DE 1987.
+
+LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE CHIHUAHUA.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En la misma fecha se derogan los artículos del 1314 al 1326 del Código Administrativo del Estado y los artículos del 105 al 147 de la Ley de Tránsito del Estado.
