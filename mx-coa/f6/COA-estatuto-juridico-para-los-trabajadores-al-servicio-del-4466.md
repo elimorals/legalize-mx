@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-al-servicio-del-4466"
 country: "mx"
 rank: "estatuto"
 publication_date: "1972-10-21"
-last_updated: "1991-03-12"
+last_updated: "1991-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURIDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1991.
 
 Estatuto publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 21 de octubre de 1972.
 
@@ -45,27 +45,49 @@ DISPOSICIONES GENERALES.
 
 ### CAPITULO UNICO.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 1.
 
-La presente ley es de observancia general para las dependencias de los Poderes del Estado y sus trabajadores.
+La presente Ley es de observancia general para los Titulares de las dependencias y entidades de los Poderes del Estado y sus trabajadores.
 
 ###### ARTICULO 2.
 
 El trabajo es un derecho y un deber sociales. No es artículo de comercio, exige respeto para las libertades y dignidad de quien lo presta y debe efectuarse en condiciones que aseguren la vida, la salud y un nivel económico decoroso para el trabajador y su familia. No podrán establecerse distinciones entre los trabajadores por motivo de raza, sexo, edad, religión, doctrina política o condición social.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
+Es interés social, promover y vigilar la capacitación y el adiestramiento, así como mantener la integridad física y mental de los trabajadores. Para tal efecto, se constituirán las Comisiones Mixtas de Capacitación y Adiestramiento y de Seguridad e Higiene que estarán integradas por igual número de representantes de la dependencia o entidad de que se trate y de los trabajadores.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
+El funcionamiento de dichas Comisiones se normará de acuerdo a los Reglamentos Internos que ellas emitan.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 3.
 
-Para los efectos de esta Ley, la relación jurídica de trabajo se entiende establecida entre las dependencias de los Poderes del Estado y los trabajadores a su servicio.
+Para los efectos de esta Ley, la relación jurídica se entiende establecida entre las dependencias y entidades de los Poderes del Estado y los trabajadores a su servicio.
 
 ###### ARTICULO 4.
 
 Siendo los titulares de las dependencias los representantes de las mismas, exclusivamente para los efectos de esta Ley, se entenderá como titular:
 
-I.- En el Poder Legislativo: El Presidente de la Cámara, y durante los recesos del Congreso, el Presidente de la Diputación Permanente;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1991)</small>
 
-II.- En el Poder Ejecutivo: El Gobernador del Estado, o quien lo substituya en sus faltas temporales o absolutas, el Secretario del Ejecutivo, el Oficial Mayor de la Secretaría General de Gobierno, el Tesorero General del Estado, los Recaudadores de Rentas del Estado, el Procurador General de Justicia, el Director de Policía y Tránsito, los Directores de los Centros Penitenciarios del Estado, el Director General de Obras Públicas, el Director General del Registro Público de la Propiedad, los Directores de las Oficinas del Registro Público de la Propiedad, el Director General del Catastro, el Jefe del Departamento de Trabajo, los Presidentes de las Juntas de Conciliación y Arbitraje, los Oficiales del Registro Civil, los Directores del Hospital Civil "Dr. Gonzalo Valdés ", del Hospital Infantil "Beatriz Velasco de Alemán" y del Hospital General de Torreón Universitario, así como quien desempeñe la Jefatura de las diversas Direcciones o Departamentos, de acuerdo con las leyes o reglamentos que regulen su funcionamiento;
+I.- En el poder Legislativo: El Presidente de la Gran Comisión;
 
-III.- En el Poder Judicial: el Presidente del Supremo Tribunal de Justicia, los Magistrados Titulares de cada una de las Salas del Supremo Tribunal de Justicia, los Jueces de Primera Instancia, los Jueces Locales Letrados, los Jueces Locales Legos y los Jueces Auxiliares o quienes los suplan en sus faltas temporales, el Jefe de Defensores de Oficio y el Presidente del Tribunal para Menores.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
+II.- En el Poder Ejecutivo: El Gobernador del Estado, los Secretarios del Ramo, el Procurador de Justicia y los Directores de los Departamentos considerados en la Ley Orgánica de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
+III.- En el Poder Judicial: El Pleno del Tribunal de Justicia, los Magistrados Presidentes de las Salas, los Magistrados Titulares de los Tribunales Unitarios de Distrito, los Jueces de Primera Instancia y los Consejos Tutelares para Menores; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
+IV.- En las Entidades Paraestatales: Su Director o el órgano equivalente, según el instrumento jurídico por el que hayan sido creadas.
 
 ###### ARTICULO 5.
 
@@ -75,13 +97,17 @@ Son irrenunciables los derechos que la presente ley otorga a los trabajadores.
 
 Las actuaciones y certificaciones que hubieren de hacerse con motivo de la aplicación de las disposiciones contenidas en la presente ley no causarán impuesto alguno.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 7.
 
-En todo lo no previsto por esta Ley o disposiciones especiales, se aplicarán supletoriamente y en su orden, la Ley Federal del Trabajo, el Código de Procedimientos Civiles del Estado de Coahuila, la costumbre, el uso y los principios generales del Derecho.
+En todo lo no previsto por esta Ley o disposiciones especiales, se aplicarán supletoriamente y en su orden, la Ley Federal de los Trabajadores al Servicio del Estado Reglamentaria del Apartado B del artículo 123 Constitucional, la Ley Federal del Trabajo, el Código de Procedimientos Civiles del Estado de Coahuila, la costumbre, el uso y los principios generales de Derecho.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 8.
 
-Para la interpretación de las normas de trabajo se tomarán en consideración las finalidades del artículo 123 de la Constitución General de la República.
+Para la interpretación de las normas de trabajo se tomarán en consideración las finalidades del Apartado "B" del artículo 123 de la Constitución General de la República.
 
 ###### ARTICULO 9.
 
@@ -135,9 +161,11 @@ DISPOSICIONES GENERALES.
 
 Trabajador es toda persona física mayor de 14 años de edad que presta un servicio físico, intelectual, o de ambos géneros a los Poderes del Estado, en virtud de nombramiento expedido legalmente o por figurar en las listas de raya de trabajadores temporales.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 11.
 
-Los trabajadores de base deberán ser de nacionalidad mexicana. Además deberá observarse lo dispuesto por el artículo 178 de la Constitución Política del Estado.
+Los trabajadores de base deberán ser de nacionalidad mexicana y sólo podrán ser sustituidos por extranjeros cuando no existan mexicanos que puedan desarrollar el servicio respectivo. La sustitución será decidida por los titulares a que se refiere el artículo 4o. de la presente Ley.
 
 ###### ARTICULO 12.
 
@@ -155,7 +183,7 @@ I.- Los trabajadores sujetos al Estatuto Jurídico para los Trabajadores de la E
 
 II.- Los trabajadores que presten sus servicios a organismos, institutos o comisiones, cualquiera que sea la denominación con que se les conozca, sostenidos con aportaciones del Estado y de la Federación, los Municipios o los particulares;
 
-III.- Los trabajadores dependientes de institutos o de organismos descentralizados del Gobierno del Estado de Coahuila;
+III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1991)
 
 IV.- Las personas que presten sus servicios al Estado mediante contrato civil o sujetos a pago de honorarios;
 
@@ -315,6 +343,10 @@ II.- Durante el período del embarazo no podrán desempeñar trabajos peligrosos
 
 III.- Disfrutarán de un descanso de seis semanas anteriores y seis posteriores al parto;
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
+Si durante la incapacidad por gravidez, tuviera lugar el período vacacional del cual la trabajadora debiera disfrutar, éste empezará a correr y se otorgará inmediatamente terminada dicha incapacidad.
+
 IV.- En el período de lactancia tendrán dos reposos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos;
 
 V.- Durante los períodos de descanso a que se refiere este artículo, percibirán su salario íntegro;
@@ -357,7 +389,9 @@ Las labores peligrosas o insalubres a que se refiere el Artículo 35, son aquél
 
 Los mayores de 14 años y menores de 16 para trabajar requieren:
 
-I.- Que hayan cumplido con la educación obligatoria a que se refiere el Artículo 116 de la Constitución Política del Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
+I.- Que hayan cumplido con la educación obligatoria a que se refiere el Artículo 118 de la Constitución Política del Estado;
 
 II.- Certificado médico que acredite su aptitud para el trabajo; y
 
@@ -379,9 +413,11 @@ DE LOS NOMBRAMIENTOS.
 
 DE LOS EFECTOS DEL NOMBRAMIENTO.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 42.
 
-El nombramiento es el instrumento jurídico que formaliza la relación de trabajo entre el titular de la dependencia y el trabajador.
+El nombramiento es el instrumento jurídico que formaliza la relación de trabajo entre la dependencia o entidades y el trabajador.
 
 ###### ARTICULO 43.
 
@@ -435,7 +471,9 @@ Esta suspensión tendrá vigencia hasta la fecha en que se compruebe ante el Tri
 
 Si durante el proceso el trabajador obtiene libertad bajo caución, podrá, ser reinstalado en su empleo, exceptuándose aquellos casos en que a juicio del Tribunal los delitos cometidos sean de tal naturaleza grave que desvirtúen la función pública.
 
-III.- Los trabajadores que tengan encomendado manejo de fondos, podrán ser suspendidos hasta por 60 días por el titular de la dependencia respectiva, cuando aparezca alguna irregularidad en su gestión, mientras se practica la investigación y se resuelve sobre su cese.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
+III.- Cuando aparezca alguna irregularidad de la que pueda derivarse una responsabilidad imputable a los trabajadores que tengan encomendado manejo de fondos, éstos podrán ser suspendidos hasta por 60 días, sin menoscabo de sus derechos laborales, en tanto concluya la investigación. Si resultare responsabilidad se procederá a los términos del presente Estatuto y de las demás disposiciones legales aplicables.
 
 IV.- Cuando el trabajador tenga que cumplir con lo dispuesto en la fracción III del artículo 31 de la Constitución General de la República y no pueda concurrir a sus labores.
 
@@ -519,7 +557,9 @@ III.- Las disposiciones disciplinarias y la forma de aplicarlas;
 
 IV.- Las fechas y condiciones en que los trabajadores deben someterse a exámenes médicos previos y periódicos; y
 
-V.- Las demás reglas que fueren convenientes para obtener mayor seguridad y eficacia en el trabajo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
+V.- Las demás reglas que determine la Comisión Mixta de Seguridad e Higiene y que fueren convenientes para obtener mayor seguridad y eficiencia en el trabajo.
 
 ###### ARTICULO 53.
 
@@ -649,9 +689,13 @@ El plazo para el pago del salario no será mayor de quince días y se efectuará
 
 Las horas extraordinarias de trabajo se pagarán con un ciento por ciento más del salario asignado a las horas de jornada ordinaria.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 76.
 
-Cuando por necesidad del servicio se labore en días de descanso, se pagará con un cien por ciento más del salario que corresponda por el descanso.
+Cuando por necesidad del servicio se labore en días de descanso, las horas de trabajo extraordinarias se pagarán con un cien por ciento más del salario que corresponde al trabajador en los días ordinarios de trabajo.
+
+La prolongación de tiempo extraordinario que exceda de nueve horas a la semana, se pagarán con un doscientos por ciento más del salario que corresponda al trabajador en los días ordinarios de trabajo.
 
 ###### ARTICULO 77.
 
@@ -769,7 +813,9 @@ Son obligaciones de las dependencias:
 
 I.- Preferir, en igualdad de condiciones de conocimiento, aptitudes y antigüedad a los trabajadores de base que acrediten tener mejores derechos conforme al escalafón, a los trabajadores sindicalizados respecto de quienes no lo estén, a las personas que hubieren prestado servicios eminentes al Estado, y a los que con anterioridad les hubieren prestado servicios satisfactoriamente;
 
-II.- Cumplir con todos los servicios de higiene y de prevención de accidentes que señalen las leyes vigentes sobre la materia;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
+II.- Cumplir con todos los servicios de higiene y de prevención de accidentes que señalen la Comisión Mixta de Seguridad e Higiene y las leyes vigentes sobre la materia;
 
 III.- Reinstalar a los trabajadores de base en las plazas de las cuales los hubieren separado injustificadamente y ordenar el pago de los salarios caídos a que fueren condenados por laudo ejecutoriado;
 
@@ -813,9 +859,11 @@ DE LOS RIESGOS DE TRABAJO Y DE LOS ACCIDENTES Y ENFERMEDADES QUE NO LOS CONSTITU
 
 RIESGOS DE TRABAJO.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 88.
 
-Los riesgos de trabajo que sufran los trabajadores se regirán por las disposiciones de la Ley Federal del Trabajo, en lo que no contradigan a lo dispuesto por el artículo 188 de la Constitución Política del Estado.
+Los riesgos de trabajo se regirán por lo dispuesto en la Ley Federal de los Trabajadores al Servicio del Estado Reglamentaria del Apartado B del Artículo 123 Constitucional, aplicándose supletoriamente la Ley Federal del Trabajo y la Constitución Política del Estado de Coahuila.
 
 ### CAPITULO II.
 
@@ -852,6 +900,10 @@ El Sindicato de Trabajadores al Servicio del Gobierno del Estado de Coahuila es 
 Sólo se reconocerá la existencia de un sindicato de trabajadores al Servicio del Estado. En caso de que concurran varios grupos que pretendan ese derecho, el reconocimiento se hará por el Tribunal de Conciliación y Arbitraje en favor de la asociación mayoritaria, no admitiéndose la formación de sindicatos minoritarios.
 
 El Sindicato tendrá su Central en la Capital del Estado y Delegaciones en las cabeceras de los Municipios.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
+Se podrá reconocer también la existencia de un Sindicato en las entidades paraestatales, siempre y cuando se reúnan los requisitos legales que se establecen para el Sindicato de la Administración Central.
 
 ###### ARTICULO 92.
 
@@ -931,7 +983,9 @@ I.- Adquirir bienes muebles necesarios para cumplir con sus fines;
 
 II.- Adquirir bienes inmuebles destinados inmediata y directamente al objeto de su institución;
 
-III.- Contraer obligaciones cuando se deriven de los actos señalados en las dos fracciones anteriores y así lo decidan los miembros de su directiva; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
+III.- Contraer obligaciones cuando se deriven de los actos señalados en las dos fracciones anteriores y así se decida conforme a los estatutos internos del Sindicato; y
 
 IV.- Defender ante todas las autoridades sus derechos y ejercitar las acciones correspondientes.
 
@@ -991,9 +1045,11 @@ III.- Por que deje de reunir los requisitos señalados por esta Ley; y
 
 IV.- Por determinación del Tribunal de Conciliación y Arbitraje prevista en el artículo 109.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 113.
 
-En caso de disolución del Sindicato, por cualquiera de las causas señaladas en el artículo anterior, una vez cubierto el importe del pasivo, el remanente que resulte sólo podrá ser destinado en la forma y orden determinados en sus Estatutos. Si no estuviere previsto el destino o no se pudiere aplicar, el remanente será entregado a la Universidad de Coahuila.
+En caso de disolución del Sindicato por cualquiera de las causas señaladas en el Artículo anterior, una vez cubierto el importe del pasivo, el remanente que resulte será entregado en forma equitativa a todos los miembros activos del Sindicato.
 
 ###### ARTICULO 114.
 
@@ -1006,6 +1062,8 @@ DEL ESCALAFON.
 ### CAPITULO II.
 
 COMISION MIXTA DE ESCALAFON.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 115.
 
@@ -1067,13 +1125,15 @@ PROCEDIMIENTOS DE LAS PROMOCIONES DE LOS TRABAJADORES DE BASE.
 
 ###### ARTICULO 122.
 
-En cada uno de los tres Poderes del Gobierno del Estado funcionará una Comisión Mixta de Escalafón, integrada por igual número de representantes del Poder respectivo y del Sindicato, de acuerdo con las necesidades de sus dependencias, quienes designarán un árbitro que decida los casos de empate. Si no hay acuerdo, la designación del árbitro la hará el Tribunal de Conciliación y Arbitraje en un término que no excederá de diez días y de una lista de cuatro candidatos que las partes en conflicto le propongan.
+En cada uno de los tres Poderes del Estado y en las entidades paraestatales funcionará una Comisión Mixta de Escalafón, integrada por igual número de representantes del Poder y Entidad respectiva y del Sindicato, de acuerdo con las necesidades de sus dependencias, quienes designarán un árbitro que decida los casos de empate. Si no hay acuerdo, la designación del árbitro la hará el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Tres Poderes del Estado y Municipios, en un término que no excederá de diez días hábiles y de una lista de cuatro candidatos que las partes en conflicto le propongan.
 
 ###### ARTICULO 123.
 
 Los integrantes de la Comisión Mixta de Escalafón deberán ser mayores de edad.
 
-El representante del Sindicato será trabajador de base y deberá prestar sus servicios en el Poder correspondiente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
+El representante del Sindicato será trabajador de base y deberá prestar sus servicios en el Poder o Entidad Paraestatal correspondiente.
 
 ###### ARTICULO 124.
 
@@ -1383,7 +1443,9 @@ PERSONAL DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE.
 
 El Tribunal de Conciliación y Arbitraje será colegiado y funcionará en dos Secciones, denominadas por número ordinal y presididas por un tercer árbitro que fungirá como Presidente del Tribunal y de cada una de las Secciones.
 
-La Primera Sección, conocerá de los conflictos que surjan entre los Poderes del Estado y sus trabajadores.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
+La Primera Sección, conocerá de los conflictos que surjan entre los Poderes del Estado o las Entidades Paraestatales y sus trabajadores.
 
 Integrarán la primera Sección, además del tercer árbitro, un representante del Gobierno del Estado, que será designado por la Legislatura Local o por la Diputación Permanente durante los recesos de aquélla, a proposición que en sendas ternas presentará el Gobernador del Estado y el Pleno del Tribunal Superior de Justicia, y un representante de los trabajadores, designados por el Sindicato Unico de los Trabajadores al Servicio del Estado de Coahuila.
 
@@ -1425,11 +1487,17 @@ II.- Ser mayor de veinticinco años; y
 
 III.- No haber sido condenado por delitos contra la propiedad o a sufrir pena mayor de un año de prisión por cualquier otra clase de delitos intencionales.
 
-El Presidente deberá ser Licenciado en Derecho, con tres años de ejercicio profesional como mínimo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+El presidente deberá ser Licenciado en Derecho, con tres años de ejercicio profesional como mínimo.
 
-Los representantes de los trabajadores deberán haber servido en las dependencias como empleados de base, por un período no menor de cinco años, precisamente anterior a la fecha de la designación.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
+Los representantes de los trabajadores deberán haber servido en las dependencias o entidades como empleados de base, por un período no menor de cinco años, precisamente anteriores a la fecha de la designación.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
+El representante del Gobierno del Estado deberá ser Licenciado en Derecho, con tres años de ejercicio profesional como mínimo.
 
 ###### ARTICULO 175.
 
@@ -1504,6 +1572,8 @@ PROCEDIMIENTO ANTE EL TRIBUNAL DE CONCILIACION Y ARBITRAJE.
 ### CAPITULO II.
 
 MEDIOS DE APREMIO.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 181.
 
@@ -1639,7 +1709,7 @@ EJECUCION DE LAUDOS.
 
 ###### ARTICULO 205.
 
-El Tribunal, para hacer cumplir sus determinaciones, podrá imponer multas hasta de mil pesos.
+El Tribunal, para hacer cumplir sus determinaciones, podrá imponer multas hasta de quince veces el salario mínimo vigente en la Capital del Estado.
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
 
@@ -1675,9 +1745,9 @@ Las correcciones a que alude el artículo anterior serán:
 
 I.- Amonestaciones;
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 1991)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1991)</small>
 
-II.- Multa que no podrá exceder de dos días de salario mínimo vigente en la Capital del Estado; y
+II.- Multa que no podrá exceder de quince veces de salario mínimo vigente en la Capital del Estado;
 
 III.- Suspensión del empleo con privación de sueldos hasta por tres días.
 
@@ -1782,3 +1852,11 @@ El Presidente del Tribunal que actualmente viene fungiendo, permanecerá en su p
 ###### ARTICULO CUARTO.
 
 En tanto se integra el Tribunal de Conciliación y Arbitraje en la forma prevista por el presente Decreto, los asuntos seguirán tramitándose como se ha venido haciendo hasta la fecha.
+
+P.O. 31 DE DICIEMBRE DE 1991.
+
+PRIMERO.- Cuando en los Artículos del Estatuto, se haga mención al Sindicato se tendrá por referido a cualquiera de los Sindicatos legalmente constituidos y registrados conforme al mismo.
+
+Las disposiciones que sean aplicables a las dependencias según el ordenamiento reformado, lo serán también en lo conducente a las Entidades Paraestatales, salvo disposición en contrario.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
