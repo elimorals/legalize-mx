@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2004-08-24"
+last_updated: "2004-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE NOVIEMBRE DE 2004.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1277,9 +1277,13 @@ IV. Que la autoridad haga o deje de hacer un acto de cualquier índole.
 
 A los sentenciados por el delito de secuestro previsto en este artículo no se les concederán los beneficios comprendidos en la Ley de Ejecución de Sanciones para el Estado de Veracruz de Ignacio de la Llave.
 
-> <small>(ADICIONADO, G.O. 24 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.O. 3 DE NOVIEMBRE DE 2004)</small>
 
-Cuando la víctima del delito sea un menor de edad la pena de prisión podrá ser hasta de setenta años.
+La pena de prisión podrá ser de hasta setenta años cuando:
+
+a) La víctima del delito sea menor de edad, mayor de sesenta años o por cualquier causa no pueda resistir el ilícito, padezca alguna enfermedad que requiera el suministro de medicamentos o tratamiento que sean suspendidos, o se trate de mujer embarazada; y
+
+b) El activo sea o haya sido, o se ostente, sin serlo, integrante de alguna institución policiaca o servidor público en alguna de las áreas de prevención o persecución de delitos, administración de justicia o readaptación social; o tenga alguna relación de confianza, laboral, de parentesco o de negocios con el pasivo o con sus familiares; cometa el delito en pandilla o asociación delictuosa o con la intervención de inimputables o mutile cualquier parte del cuerpo de la víctima.
 
 > <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
 
@@ -1289,9 +1293,11 @@ Si el secuestrador libera espontáneamente a la víctima dentro de los tres día
 
 Cuando el inculpado proporcione datos que permitan localizar a la víctima con vida, la pena será de cinco a doce años de prisión y multa hasta de cien días de salario.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 165.
 
-Iguales penas que las previstas en el artículo anterior se aplicarán a quien:
+Se impondrán de cinco a doce años de prisión y multa hasta de cien días de salario a quien:
 
 I. Intervenga, con fines lucrativos, como asesor de los familiares o de quienes gestionen legítimamente a favor de la víctima, y evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del secuestro; o
 
@@ -3018,3 +3024,9 @@ Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 24 DE AGOSTO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+G.O. 3 DE NOVIEMBRE DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor los quince días siguientes al de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
