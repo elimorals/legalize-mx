@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2001-01-23"
+last_updated: "2001-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2001.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -336,6 +336,14 @@ VIII. Erogaciones Extraordinarias; y
 IX. Deuda Pública.
 
 Los anteriores capítulos se dividirán, a su vez, en partidas que representarán las autorizaciones específicas del presupuesto, en la forma que determinen los manuales e instructivos a que alude el artículo 25 de esta ley.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2001)</small>
+
+Los poderes Ejecutivo y Legislativo en su último año de gestión constitucional, deberán prever en sus respectivos presupuestos de egresos, un capítulo específico para el proceso de entrega-recepción de ambos poderes, con el objetivo de eficientar, agilizar y transparentar este proceso.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2001)</small>
+
+La partida prevista para el proceso de entrega-recepción deberá cumplir en forma estricta, con los criterios de racionalidad, austeridad y disciplina presupuestal.
 
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 2000)</small>
 
@@ -866,3 +874,7 @@ P.O. 16 DE ENERO DE 2001.
 P.O. 23 DE ENERO DE 2001.
 
 ÚNICO.- Este decreto entrará en vigor a los 60 sesenta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 3 DE FEBRERO DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
