@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1985-02-27"
+last_updated: "1985-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 1985.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -341,11 +341,21 @@ Los Diputados propietarios, durante el período de su encargo y los Suplentes, c
 
 El Congreso tendrá cada año dos períodos ordinarios de sesiones prorrogables a juicio de la Cámara por el tiempo que fuere necesario; el primero comenzará el día primero de diciembre y terminará el día primero de abril siguiente, y el segundo principiará el primero de junio y concluirá el día primero de agosto inmediato.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1985)</small>
 
 ###### Art. 37.
 
-En el primer período se ocupará preferentemente el Congreso de discutir y aprobar la Ley de Ingresos y Presupuesto de Egresos del Estado y las Leyes de Ingresos de los diversos Municipios, para lo cual deberán ser presentados los proyectos respectivos antes del día 5 de Diciembre de cada año, a fin de que empiecen a regir desde el Primero de enero inmediato, en el concepto de que se tendrán las vigentes como prorrogadas, mientras no se aprueben las nuevas. En el segundo período revisará la Cuenta Pública del Estado y la de los Municipios del año anterior, que deberán ser presentados al Congreso dentro de los primeros 10 días desde su apertura. La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas de los presupuestos, sino que se extenderá al examen y justificación de las responsabilidades que resulten. En ambos períodos se ocupará, además, de estudiar, discutir y votar las iniciativas legales que se presenten y de resolver todos los asuntos que le corresponden.
+En el primer período ordinario de sesiones, el Congreso se ocupará de discutir y aprobar la Ley de Ingresos y Presupuesto de Egresos del Estado y las Leyes de Ingresos de los Municipios, para lo cual deberán ser presentados los proyectos respectivos antes del día cinco de diciembre de cada año, a efecto de que puedan regir a partir del primero de enero inmediato. En tanto no se aprueben las nuevas, se tendrán por prorrogadas las correspondientes al año anterior.
+
+Así mismo, en este período revisará y aprobará en su caso, los dictámenes de la Diputación Permanente respecto de las cuentas mensuales del gasto público del Estado que rinda el Gobernador, y las de los Municipios que presenten los Ayuntamientos, correspondientes a los meses de julio, agosto, septiembre y octubre, salvo que se hubiese prorrogado el período ordinario de sesiones o hubiese estado en períodos extraordinarios de sesiones en cualesquiera de estos meses, en cuyos casos revisará y aprobará las cuentas mencionadas que estuviesen pendientes y las que le fuesen presentadas en tales períodos.
+
+También en este primer período ordinario de sesiones revisará y aprobará en su caso, las cuentas del gasto público del Estado y de los Municipios correspondientes a los meses de noviembre, diciembre, enero y febrero, recibidas por el Congreso.
+
+En el segundo período, se ocupará de revisar los dictámenes de la Diputación Permanente relacionados con las cuentas de los gastos públicos del Estado y de los Municipios, de los meses de mayo y junio recibidas por el Congreso.
+
+A partir de la fecha de presentación de las cuentas del gasto público a que se hace referencia, el Congreso dispondrá hasta de veinte días para revisarlas, aprobarlas o hacer observaciones y, de proceder, expedir el finiquito correspondiente. La Diputación Permanente producirá sus dictámenes en un lapso de veinte días posteriores a la presentación de cada cuenta de gasto público.
+
+En los dos períodos el Congreso se ocupará, además, del estudio, discusión y votación de las iniciativas de Ley que se presenten y de la resolución de todos los asuntos que le correspondan.
 
 ###### Art. 38.
 
@@ -359,7 +369,9 @@ III. El Ejecutivo del Estado.
 
 IV. El Supremo Tribunal de Justicia del Estado.
 
-En estos tres últimos casos, la convocatoria se hará por conducto de la misma Diputación Permanente. En las sesiones extraordinarias, se tratarán de preferencia los asuntos que las motiven, pero sin exclusión de los que a juicio de la Cámara deban también resolverse.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1985)</small>
+
+En los últimos tres casos, la convocatoria se hará por conducto de la misma Diputación Permanente. En los períodos extraordinarios se tratarán de preferencia los asuntos que los motiven, sin perjuicio de los que señale esta Constitución y de los que a juicio de la Cámara deban también resolverse.
 
 ###### Art. 39.
 
@@ -415,7 +427,7 @@ VI. Ratificar los arreglos concertados entre las Municipalidades con motivo de l
 
 VII. Crear nuevas Municipalidades dentro de los límites de las ya existentes, siendo necesario para el efecto:
 
-A). Que la fracción o fracciones que pretendan erigirse en Municipalidad, cuenten con una población cuando menos, de TREINTA MIL HABITANTES, según el último censo del Estado, y tomando en cuenta el asentimiento de la mayoría de sus ciudadanos.
+(A). Que la fracción o fracciones que pretendan erigirse en Municipalidad, cuenten con una población cuando menos, de TREINTA MIL HABITANTES, según el último censo del Estado, y tomando en cuenta el asentimiento de la mayoría de sus ciudadanos.
 
 (B). Que se compruebe debidamente ante el Congreso, que tienen los elementos bastantes para proveer a su existencia política.
 
@@ -465,9 +477,9 @@ XX. Conocer de las imputaciones formuladas mediante juicio político en contra d
 
 XXI. Expedir anualmente la Ley de Ingresos y Egresos del Estado.
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 1939)</small>
+(REFORMADA, P.O. 26 DE ABRIL DE 1985) (F. DE E., P.O. 3 DE JUNIO DE 1985)
 
-XXII. Revisar anualmente, por medio de la Contaduría Mayor de Hacienda, la cuenta general de gastos del Estado que presente el Ejecutivo, y las de los Municipios que presenten los Ayuntamientos; hacer la glosa preventiva de los movimientos mensuales, girando las observaciones que procedan y exigiendo las responsabilidades que resulten o expidiendo el finiquito en caso de aprobación, ASI COMO EFECTUAR VISITAS DE INSPECCION A LAS TESORERIAS MUNICIPALES, CUANDO MENOS UNA VEZ EN EL AÑO A CADA UNA.
+XXII. Revisar, por medio de la Contaduría Mayor de Hacienda, las cuentas mensuales del gasto público efectuado por el Estado y de cada uno de los Municipios. La revisión de dichas cuentas mensuales no se limitará a investigar si las cantidades gastadas están o no de acuerdo con el presupuesto aprobado, sino que se extenderá a la formulación de las observaciones que procedan y a expedir los finiquitos o en su caso a dictar las medidas tendientes a fincar las responsabilidades de los servidores públicos a quienes les sean imputables y efectuar, cuando menos una vez al año, visitas de inspección a todas y cada una de las tesorerías municipales.
 
 XXIII. Autorizar al Gobernador para que celebre empréstitos en nombre del Estado y aprobar o no los contratos respectivos.
 
@@ -729,9 +741,9 @@ IV. Convocar al Congreso a sesiones extraordinarias por conducto de la Diputaci�
 
 V. Facilitar a las autoridades judiciales del Estado, los auxilios que necesiten para el desempeño de sus funciones y excitarlas a que otorguen pronta y debida justicia.
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 1937)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1985)</small>
 
-VI. Presentar al Congreso del Estado, antes del día 5 de diciembre de cada año, el Proyecto de Ley de Ingresos y Egresos para el año siguiente.
+VI. Presentar al Congreso del Estado, a más tardar el día cinco de diciembre de cada año, el Proyecto de Ley de Ingresos y Presupuesto de Egresos del Estado para el año siguiente y remitir, dentro de los primeros diez días hábiles de cada mes, la cuenta del gasto público efectuado en el mes anterior.
 
 VII. Cuidar de que la recaudación e inversión de los caudales públicos se hagan con arreglo a las leyes.
 
@@ -2248,3 +2260,17 @@ Quedan sin efecto las elecciones de Magistrados Suplentes que se encuentren vige
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 26 DE ABRIL DE 1985.
+
+###### ARTICULO PRIMERO.
+
+Las cuentas de los gastos públicos del Estado y de los Municipios correspondientes al año de 1984 se presentarán dentro de los treinta días siguientes al en que entre en vigor el presente Decreto y el Congreso del Estado las revisará y aprobará, en su caso, y expediría los finiquitos correspondientes dentro de un término igual, a partir de su presentación.
+
+###### ARTICULO SEGUNDO.
+
+Una vez aprobadas, en su caso, las cuentas de los gastos públicos de 1984, dentro de los treinta días siguientes a su aprobación, el Gobernador del Estado y los Ayuntamientos rendirán sus informes relativos a la cuenta del gasto público de los meses que procedan respecto al ejercicio presupuestal de 1985 y el Congreso del Estado, dentro de un término igual los revisará y aprobará, en su caso, expidiendo los finiquitos correspondientes.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
