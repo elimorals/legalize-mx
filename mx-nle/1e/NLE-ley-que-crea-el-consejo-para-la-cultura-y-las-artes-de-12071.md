@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-consejo-para-la-cultura-y-las-artes-de-12071"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-07"
-last_updated: "1995-06-07"
+last_updated: "1998-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO PARA LA CULTURA DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 7 de junio de 1995.
 
@@ -85,7 +85,7 @@ El CONSEJO estará integrado por:
 
 I.- Un Presidente;
 
-II.- Un Vicepresidente;
+II.- (DEROGADA, P.O. 10 DE JULIO DE 1998)
 
 III.- Un Secretario Técnico;
 
@@ -105,7 +105,9 @@ f) El Secretario de Educación o su representante.
 
 g) Un representante de la Sociedad Civil.
 
-El Presidente, el Vicepresidente, el Secretario Técnico y los vocales a que se refieren los incisos a), b), c) y g) de la fracción IV, serán nombrados por el Gobernador del Estado, previa consulta privada que realice entre la comunidad cultural.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1998)</small>
+
+El Presidente, el Secretario Técnico y los vocales a que se refieren los incisos a), b), c) y g) serán nombrados por el Gobernador del Estado, previa consulta privada que realice entre la comunidad cultural.
 
 Los vocales representantes de las disciplinas artísticas señaladas serán elegidos democráticamente por los artistas de cada disciplina.
 
@@ -119,7 +121,9 @@ Los cargos que desempeñen los vocales del CONSEJO serán honoríficos.
 
 El CONSEJO celebrará una sesión mensual ordinaria y las extraordinarias que sean necesarias, cuando lo solicite el Presidente, el Director Ejecutivo o la mayoría de sus miembros.
 
-Las sesiones del CONSEJO en primera convocatoria serán válidas con la asistencia del Presidente o del Vicepresidente, del Secretario Técnico y de once vocales, y en segunda convocatoria con los miembros que asistan.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1998)</small>
+
+Las sesiones del Consejo en primera convocatoria serán válidas con la asistencia del Presidente, del Secretario Técnico y de once Vocales; y en segunda convocatoria, con los miembros que asistan.
 
 Al término de cada sesión se citará a los presentes a la siguiente reunión, enviando invitación a los miembros que no hubiesen asistido.
 
@@ -149,17 +153,7 @@ VII.- En general, realizar todos aquellos actos que sean necesarios para el func
 
 ###### ARTICULO 9o.
 
-El Vicepresidente tendrá las siguientes facultades:
-
-I.- Desarrollar, dirigir y coordinar los estudios, dictámenes, recomendaciones y análisis que considere necesarios para el buen desarrollo de las labores normativas y rectoras del CONSEJO;
-
-II.- Ejecutar los acuerdos y disposiciones del CONSEJO que recaigan en el área de su competencia;
-
-III.- Coordinar los trabajos de las comisiones y comités que establezca el CONSEJO, de acuerdo con lo dispuesto por la fracción VIII del artículo 3o.;
-
-IV.- En caso de ausencia del Presidente, presidir las sesiones del CONSEJO ejerciendo en dicho supuesto todas las atribuciones que señala el artículo anterior, y
-
-V.- Las demás que le señalen la Ley y su Reglamento.
+(DEROGADO, P.O. 10 DE JULIO DE 1998)
 
 ###### ARTICULO 10.
 
@@ -167,7 +161,7 @@ El Secretario Técnico tendrá las facultades siguientes:
 
 I.- Formular las actas y acuerdos de las sesiones ordinarias y extraordinarias que celebre el CONSEJO;
 
-II.- Colaborar con los estudios y análisis que desarrolle el Vicepresidente;
+II.- (DEROGADA, P.O. 10 DE JULIO DE 1998)
 
 III.- Convocar y proponer el orden del día de las sesiones ordinarias; y
 
@@ -254,3 +248,11 @@ OTHON RUIZ MONTEMAYOR
 EL C. SECRETARIO DE DESARROLLO SOCIAL
 
 MENTOR TIJERINA MARTINEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 10 DE JULIO DE 1998.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
