@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-62-de-expropiacion-para-el-estado-de-veracruz-de-657
 country: "mx"
 rank: "ley"
 publication_date: "1987-10-08"
-last_updated: "1987-12-19"
+last_updated: "1991-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE EXPROPIACION PARA EL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE FEBRERO DE 1991.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 8 de octubre de 1987.
 
@@ -57,13 +57,17 @@ La expropiación, ocupación temporal, total o parcial o limitación de derechos
 
 Por causa de utilidad pública podrán ser objeto de expropiación, ocupación temporal total o parcial o de limitación de los derechos de dominio, toda clase de bienes, estén o no en el comercio.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 3o.
 
-Le corresponde a la Secretaría de Comunicaciones y Obras Públicas, por conducto de la Dirección General del Patrimonio del Estado:
+Le corresponde a la Secretaría de Desarrollo Urbano, por conducto de la Dirección General del Patrimonio del Estado:
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 1991)</small>
 
-a).- Recabar toda la información y documentación tendientes a comprobar y, en su caso, a determinar la existencia de algunas de las causas que las Leyes consideren de utilidad pública y poner a la disposición del Presidente Municipal respectivo y del Colegio de Notarios, para que en un plazo de diez días hábiles emitan su opinión sobre si han sido satisfechos los requisitos legales.
+a).- Recabar toda la información y documentación tendentes a comprobar y, en su caso, a determinar la existencia de alguna o algunas de las causas que las leyes consideren de utilidad pública y poner el expediente, a la disposición del Presidente Municipal respectivo y del Colegio de Notarios, para que en un plazo de diez días hábiles a partir de la fecha en que reciban la comunicación de la solicitud, emitan su opinión sobre si han sido satisfechos los requisitos legales.
+
+Para los efectos del párrafo anterior, la comunicación al Presidente Municipal y al Colegio de Notarios, se podrá hacer por correo certificado o cualquier otro medio en el que se haga constar la fecha de recepción y en el caso de que alguno de ellos o ambos, no emitan la opinión en el plazo indicado, se les tendrá por formulada en sentido favorable. En todo caso, a la comunicación se le deberá agregar copia del expediente.
 
 > <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
 
@@ -153,11 +157,13 @@ Las notificaciones personales se practicarán en el domicilio del interesado. En
 
 Los afectados, después de la primera notificación personal, están obligados a señalar domicilio en la capital del Estado, a efecto de que ahí se practiquen las ulteriores notificaciones; en caso de omisión, se realizará, por edictos que se publicarán en a "Gaceta Oficial" del Estado, por una sola vez.
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 12.
 
-Contra el Decreto que contenga la declaratoria de expropiación, los afectados, podrán interponer ante el Gobernador del Estado, por conducto del Departamento Jurídico del Gobierno del Estado, por escrito y dentro de los quince días hábiles siguientes a su notificación, Recurso Administrativo de Revocación, con el que deberán exhibir y ofrecer las pruebas y el pliego de alegatos que a sus intereses convenga. El recurso deberá ser resuelto en un plazo no mayor de treinta días hábiles.
+Contra el Decreto que contenga la Declaratoria de Expropiación, los afectados, dentro de los quince días hábiles siguientes a su notificación, podrán interponer recurso administrativo de Revocación, ante el Gobernador del Estado, mediante escrito que se presente en el Departamento Jurídico del Gobierno del Estado, con el que deberán exhibir y ofrecer las pruebas y el pliego de alegatos que a sus intereses convengan. El recurso deberá ser resuelto en un plazo no mayor de treinta días hábiles, contados a partir de su recepción en el Departamento Jurídico.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
 
 Si la autoridad administrativa no resuelve el recurso interpuesto dentro del plazo legal, se entenderá fallado en favor de los afectados y como consecuencia quedará revocada la resolución y, en su caso, el Registro Público de la Propiedad que corresponda cancelará la anotación preventiva que hubiese hecho conforme al artículo octavo de esta Ley.
 
@@ -203,11 +209,11 @@ Los gravámenes y derechos que personas distintas al propietario tengan sobre lo
 
 ### CAPITULO IV. DE LA INDEMNIZACION
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 20.
 
-El precio que será señalado como indemnización, será la cantidad que como valor catastral del bien esté fijado en las oficinas de Hacienda del Estado, ya sea que este valor haya sido declarado por el propietario o simplemente aceptado por él de un modo tácito por haber pagado sus impuestos con esta base. El exceso de valor o el demérito que haya tenido la propiedad por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor catastral, al igual que en los casos de ocupación temporal o limitación de dominio, quedarán sujetos a juicio pericial, y a resolución judicial, debiendo observarse lo mismo cuando se trate de objetos cuyo valor no esté fijado en las oficinas de Hacienda del Estado.
+El precio que será señalado como indemnización, será la cantidad que como valor catastral del bien esté fijado en los registros de las oficinas del Departamento de Catastro o sus Delegaciones, ya sea que este valor haya sido declarado por el propietario o simplemente aceptado por él de un modo tácito por haber pagado sus impuestos con esta base. El exceso de valor o el demérito que haya tenido la propiedad, por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor catastral, al igual que en los casos de ocupación temporal o limitación de dominio, quedarán sujetos a juicio pericial y la resolución judicial; debiendo observarse lo mismo cuando se trate de objetos cuyo valor no esté fijado en los registros de las oficinas del Departamento de Catastro o sus Delegaciones.
 
 > <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
 
@@ -249,6 +255,12 @@ Los honorarios de cada perito, serán cubiertos por la parte que deba nombrarlo 
 
 Contra la resolución judicial que fije el monto de la indemnización, o la designación de perito, no procederá recurso alguno.
 
+> <small>(ADICIONADO, G.O. 16 DE FEBRERO DE 1991)</small>
+
+###### ARTICULO 27.
+
+Para los efectos de esta Ley se extenderá como días hábiles, todos los del año, con excepción de los sábados y domingos; así como los días de descanso obligatorio que señala la Ley Federal del Trabajo y todos aquellos días en que no labore la oficina de que se trate.
+
 TRANSITORIOS:
 
 ###### ARTICULO PRIMERO.
@@ -270,3 +282,13 @@ G.O. 19 DE DICIEMBRE DE 1987.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día siguiente a la fecha de su publicación en la "Gaceta Oficial" del Gobierno del Estado.
+
+G.O. 16 DE FEBRERO DE 1991.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
