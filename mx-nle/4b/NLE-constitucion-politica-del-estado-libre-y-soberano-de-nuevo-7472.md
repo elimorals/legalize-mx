@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1927-06-11"
+last_updated: "1928-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 1927.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 1928.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -323,7 +323,9 @@ XXI.- Nombrar al Gobernador interino o sustituto del Estado, en los casos que pr
 
 XXII.- Nombrar a los Magistrados del Superior Tribunal de Justicia en caso de faltas absolutas.
 
-XXIII.- Nombrar al Tesorero General del Estado.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1928)</small>
+
+XXIII.- Nombrar al Tesorero General del Estado, a propuesta en terna del Ejecutivo.
 
 XXIV.- Conceder o negar al Gobernador licencia temporal para separarse de su puesto y para salir fuera del Estado, y designar a la persona que deba suplirle interinamente.
 
@@ -397,7 +399,9 @@ V.- Manifestar su opinión por escrito al Gobernador, en los casos en que éste 
 
 VI.- Ejercer las facultades a que se refieren los artículos 52, 63 en sus Fracciones IV, XXI, XXXVI, 89, 90, 91 y 98 de esta Constitución.
 
-VII.- Nombrar interinamente en caso necesario al Tesorero del Estado.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1928)</small>
+
+VII.- Nombrar interinamente al Tesorero General del Estado a propuesta en terna del Ejecutivo, cuando su falta absoluta ocurra durante un receso del Congreso.
 
 VIII.- Recibir los expedientes de elecciones de todos los mandatarios públicos del Estado y practicar, para la renovación del Congreso, lo que prescribe la Ley Electoral y el Reglamento interior del mismo.
 
@@ -547,13 +551,21 @@ XXII.- Remitir al Congreso, con el informe respectivo, los proyectos de presupue
 
 XXIII.- Rendir los informes a que se refiere la fracción XIII del art. 63.
 
-XXIV.- Las demás que le conceda expresamente esta Constitución.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1928)</small>
+
+XXIV.- Proponer terna al Congreso para Tesorero General del Estado y removerlo libremente, enviando nueva terna al Congreso
 
 ###### Art. 86.
 
 No puede el Gobernador:
 
-I.- Ausentarse del Estado sin licencia del Congreso ni salir de la Capital a cualquier otro punto del Estado, sin dar aviso al Congreso o en su receso a la Diputación Permanente, con expresión del tiempo que deba durar su ausencia.
+REFORMADA, P.O. 28 DE ABRIL DE 1928)
+
+I.- Ausentarse del Estado por más de 15 días sin licencia del Congreso o de la Diputación Permanente en su caso.
+
+Cuando el Gobernador se ausentare del Estado por un término mayor de tres días y menor de quince, deberá dar aviso al Congreso o a la Diputación Permanente en el receso de aquel.
+
+Para salir fuera de la República necesita en todo caso licencia del Congreso o de la Diputación Permanente.
 
 II.- Impedir o embarazar con pretexto alguno las elecciones populares ni la reunión y deliberación del Congreso.
 
@@ -563,17 +575,23 @@ IV.- Imponer contribución alguna que no esté prevista por ley o decreto.
 
 V.- Mandar inmediata y personalmente, en campaña, la Guardia Nacional y demás fuerzas del Estado, sin haber obtenido permiso de la Legislatura o de la Diputación Permanente.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1928)</small>
+
 ###### Art. 87.
 
-Para el despacho de los negocios de todos los ramos habrá un solo Secretario de Gobierno, quien deberá tener las mismas cualidades que se requieren para ser Diputado al Congreso del Estado, y el Gobernador lo nombrará y removerá a su arbitrio.
+Para el Despacho de los negocios de todos los Ramos habrá un solo Secretario de Gobierno, quien deberá tener los mismos requisitos que se necesitan para ser Gobernador del Estado, y éste lo nombrará y removerá a su arbitrio.
 
 ###### Art. 88.
 
 Ninguna orden del Gobernador se tendrá como tal, si no es que vaya firmada por el Secretario o por quien lo sustituya legalmente; y ambos serán responsables de todas las órdenes que firmen.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1928)</small>
+
 ###### Art. 89.
 
-En caso de impedimento, licencia o imposibilidad temporal del Gobernador, el Congreso o en su receso la Diputación Permanente, nombrará interinamente al ciudadano que se encargue del Poder Ejecutivo.
+Cuando el Congreso otorgare al Gobernador licencia para ausentarse del Estado por treinta días o menos, o el Gobernador se encontrare impedido por igual término, quedará encargado del Poder Ejecutivo el Secretario General de Gobierno, quien desempeñará el cargo hasta que el Gobernador Interino que se nombre otorgue la protesta de Ley. En estos casos el Oficial Mayor o el Jefe del Departamento Primero de la Secretaría de Gobierno refrendará la firma del Encargado del Poder Ejecutivo.
+
+Si la licencia fuere por más de treinta días o en caso de impedimento del Gobernador debidamente comprobado, el Congreso o la Diputación Permanente en su caso nombrará al ciudadano que se encargue interinamente del Poder Ejecutivo.
 
 ###### Art. 90.
 
@@ -699,9 +717,11 @@ Para que la causa pueda iniciarse cuando el alto funcionario haya vuelto a ejerc
 
 De los delitos y faltas cometidos en el ejercicio de su cargo por los funcionarios de que habla el artículo 106, conocerá el Congreso como Jurado de Declaración y el Tribunal Superior de Justicia como Jurado de Sentencia. El primer Jurado tendrá por objeto declarar en los términos señalados por el art. 106. si el acusado es o no culpable. Si la declaración fuere absolutoria, el funcionario continuará en el ejercicio de su cargo; si fuere condenatoria, quedará por ese solo hecho separado de él y será puesto a disposición del Tribunal Superior de Justicia. Este, en Tribunal Pleno y erigido en Gran Jurado de Sentencia, con audiencia del reo, del Procurador de Justicia y del acusador si lo hubiere, procederá a aplicar a mayoría absoluta de votos la pena que la ley designe en el caso a discusión.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1928)</small>
+
 ###### Art. 109.
 
-Sin embargo de lo dispuesto en los artículos anteriores, el Gobernador del Estado durante el ejercicio de su cargo, sólo podrá ser acusado por violación a la Constitución y a las leyes Constitucionales, y por delitos graves del orden común.
+Sin embargo de lo dispuesto en los Artículos anteriores, el Gobernador del Estado durante el ejercicio de su cargo, soló (sic) podrá ser acusado por traición a la Patria, violaciones a la Constitución y delitos del orden común.
 
 ###### Art. 110.
 
@@ -825,9 +845,17 @@ La Hacienda del Estado se compone de los edificios del mismo, de las aguas que n
 
 Anualmente, en la segunda quincena del mes de Octubre, el Ejecutivo presentará al Congreso un proyecto de presupuesto general, para su discusión y aprobación.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1928)</small>
+
 ###### Art. 135.
 
-Será Jefe de la Hacienda Pública del Estado el Tesorero General, con exclusión de cualquiera otra autoridad, y presentará en la segunda quincena de Septiembre de cada año, ante el Congreso, una Memoria circunstanciada del estado que guarda la Hacienda Pública, proponiendo los medios necesarios para mejorarla; y justificará ante el mismo Congreso el manejo de sus cuentas, siendo personal y pecuniariamente responsable de las faltas u omisiones en el cumplimiento de su deber.
+Será Jefe de la Hacienda Pública del Estado el Tesorero General.
+
+No podrá recaudar ninguna cantidad por concepto de impuesto o contribución que no esté basado en la Ley emanada del Congreso y sancionado por el Ejecutivo.
+
+No se hará ningún Egreso sin órden escrita del Gobernador y que esté previamente autorizado por Ley o Decreto del Congreso.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1928)</small>
 
 ## TITULO X.
 
@@ -835,15 +863,21 @@ Prevenciones Generales.
 
 ###### Art. 136.
 
-Nunca será pagada por la Tesorería del Estado cantidad alguna sin orden del Gobernador y que no esté previamente autorizada por ley o decreto del Congreso.
+El Tesorero enviará al Ejecutivo en la segunda quincena de agosto de cada año, una memoria circunstanciada del Estado que guarda la Hacienda Pública.
+
+Al principio del año Fiscal rendirá al Ejecutivo, cuentas generales del año anterior y parciales cada vez que éste las requiera.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1928)</small>
 
 ###### Art. 137.
 
-Todos los empleados de Hacienda que tuvieren manejo de caudales públicos en el Estado otorgarán previamente fianza suficiente para garantizarlo.
+El Tesorero General del Estado y todos los empleados de Hacienda que tengan manejo de caudales públicos, otorgarán previamente ante el Ejecutivo, fianza suficiente para garantizar su manejo a juicio del mismo Ejecutivo.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1928)</small>
 
 ###### Art. 138.
 
-El año fiscal correrá del primero de Marzo al último de Febrero siguiente.
+El año fiscal correrá del primero de enero al 31 de diciembre.
 
 ###### Art. 139.
 
@@ -1171,4 +1205,16 @@ Esta Ley comenzará a surtir sus efectos el día primero de enero de 1928.
 
 ###### ARTICULO SEGUNDO
 
-En los Ayuntamientos donde faltare algún Regidor o Síndico, el día primero de enero de 1928, lo designarán los mismos, de conformidad con el artículo 124 de la Constitución Política Local, para estar en todo de acuerdo con el Art. 2° de la Ley de Gobierno Interior de los Municipios reformada.nzará a surtir sus efectos el día primero de enero de 1928.
+En los Ayuntamientos donde faltare algún Regidor o Síndico, el día primero de enero de 1928, lo designarán los mismos, de conformidad con el artículo 124 de la Constitución Política Local, para estar en todo de acuerdo con el Art. 2° de la Ley de Gobierno Interior de los Municipios reformada.
+
+P.O. 28 DE ABRIL DE 1928.
+
+DECRETO NÚMERO 60
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+
+P.O. 28 DE ABRIL DE 1928.
+
+DECRETO NÚMERO 62.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
