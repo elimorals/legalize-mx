@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1996-01-15"
+last_updated: "1996-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 1995.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 1996.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 15 DE ENERO DE 1996.
 
@@ -980,7 +980,7 @@ Las personas físicas con actividades empresariales y las personas morales que s
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-I. Las que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a N$7,554,000.00, que el valor de su activo determinado en los términos de la Ley del Impuesto al Activo sea superior a N$15,107,000.00 o que por lo menos 300 de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior. Las cantidades a que se refiere este párrafo se actualizarán anualmente, en los términos del artículo 17-A de este ordenamiento.
+I. Las que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a $7,554,000.00, que el valor de su activo determinado en los términos de la Ley del Impuesto al Activo sea superior a $15,107,000.00 o que por lo menos 300 de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior. Las cantidades a que se refiere este párrafo se actualizarán anualmente, en los términos del artículo 17-A de este ordenamiento.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1468,8 +1468,6 @@ I. Que el contador público que dictamine esté registrado ante las autoridades 
 
 a). Las personas de nacionalidad mexicana que tengan título de contador público registrado ante la Secretaría de Educación Pública y que sean miembros de un colegio de contadores reconocido por la misma Secretaría; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO REMITIRSE AL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS EN CITA.</small>
-
 > <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
 b). Las personas extranjeras con derecho a dictaminar conforme a los tratados internacionales de que México sea parte.
@@ -1782,8 +1780,6 @@ Mediante acuerdo de intercambio recíproco de información, suscrito por el Secr
 
 ### CAPITULO I. Del Recurso Administrativo
 
-> <small>N. DE E. LOS ARTICULOS QUE COMPRENDIAN LAS SECCIONES SEGUNDA Y TERCERA PASAN A FORMAR PARTE DE LA ACTUAL SECCION PRIMERA, ABARCANDO LOS ARTICULOS 116 AL 128.</small>
-
 (REUBICADA Y REFORMADA SU DENOMINACION, D.O.F. 15 DE DICIEMBRE DE 1995)
 
 ###### Artículo 70.
@@ -2092,23 +2088,13 @@ d). De $134.00 en los demás documentos.
 
 II. Respecto de la señalada en la fracción II:
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
 a). De $73.00 por no poner el nombre o ponerlo equivocadamente.
-
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 b). De $37.00 por no poner el domicilio o ponerlo equivocadamente.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
 c). De $7.00 por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
 d). De $73.00 por no señalar la clave que corresponda a su actividad preponderante conforme al catálogo de actividades que publique la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, o señalarlo equivocadamente.
-
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 e). De $73.00 en los demás casos.
 
@@ -2132,13 +2118,9 @@ V. Para la señalada en la fracción V, la multa será de $5,000.00 a $20,000.00
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
 
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
 VI. Para la señalada en la fracción VI la multa será de $480.00.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
-
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 VII. Para la señalada en la fracción VII la multa será de $96.00.
 
@@ -2520,7 +2502,7 @@ VII. Auxilien a otro después de su ejecución, cumpliendo una promesa anterior.
 
 ###### Artículo 96.
 
-Es respnsable (sic) de encubrimiento en los delitos fiscales, quien, sin previo acuerdo y sin haber participado en él, después de la ejecución del delito:
+Es respnsable (sic) de encubrimiento en los delitos fiscales, quien, sin previo acuerdo y sin haber participado en él, despues de la ejecución del delito:
 
 I. Con ánimo de lucro adquiera, reciba, traslade u oculte el objeto del delito a sabiendas de que provenía de éste, o si de acuerdo con las circunstancias debía presumir su ilegítimaprocedencia (sic), o ayude a otro a los mismos fines.
 
@@ -2604,11 +2586,11 @@ El delito de contrabando se sancionará con pena de prisión:
 
 > <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
 
-I. De tres meses a seis años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, es de hasta N$100,000.00, respectivamente o, en su caso, la suma de ambas es de hasta N$150,000.00.
+I. De tres meses a seis años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, es de hasta $100,000.00, respectivamente o, en su caso, la suma de ambas es de hasta $150,000.00.
 
 > <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
 
-II. De tres a nueve años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, excede de N$100,000.00, respectivamente o, en su caso, la suma de ambas excede de N$150,000.00.
+II. De tres a nueve años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, excede de $100,000.00, respectivamente o, en su caso, la suma de ambas excede de $150,000.00.
 
 III. De tres meses a nueve años, cuando se trate de mercancías cuyo tráfico haya sido prohibido por el Ejecutivo Federal en uso de las facultades señaladas en el segundo párrafo del artículo 131 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -2710,7 +2692,7 @@ Comete el delito de defraudación fiscal quien con uso de engaños o aprovechami
 
 > <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
-El delito de defraudación fiscal se sancionará con prisión de tres meses a seis años si el monto de lo defraudado no excede de N$100,000.00; cuando exceda, la pena será de tres a nueve años de prisión.
+El delito de defraudación fiscal se sancionará con prisión de tres meses a seis años si el monto de lo defraudado no excede de $100,000.00; cuando exceda, la pena será de tres a nueve años de prisión.
 
 Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a seis años de prisión.
 
@@ -2816,43 +2798,7 @@ Se impondrá sanción de tres meses a seis años de prisión, al que se apodere 
 
 La misma pena se impondrá a quien dolosamente destruya o deteriore dichas mercancías.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-Artículo 115 BIS.- Se sancionará con pena de tres a nueve años de prisión, a quien a sabiendas de que una suma de dinero o bienes de cualquier naturaleza provienen o representan el producto de alguna actividad ilícita:
-
-I. Realice una operación financiera, compra, venta, garantía, depósito, transferencia, cambio de moneda o, en general, cualquier enajenación o adquisición que tenga por objeto el dinero o los bienes antes citados, con el propósito de:
-
-a). Evadir de cualquier manera el pago de créditos fiscales;
-
-b). Ocultar o disfrazar el origen, naturaleza, propiedad, destino o localización del dinero o de los bienes de que se trate;
-
-c). Alentar alguna actividad ilícita, o
-
-d). Omitir proporcionar el informe requerido por la operación; o
-
-II. Transporte, transmita o transfiera la suma de dinero o bienes mencionados, desde algún lugar a otro en el país, desde México al extranjero o del extranjero a México, con el propósito de:
-
-a). Evadir de cualquier manera el pago de créditos fiscales;
-
-b). Ocultar o disfrazar el origen, naturaleza, propiedad, destino o localización del dinero o de los bienes de que se trate;
-
-c). Alentar alguna actividad ilícita; o
-
-d). Omitir proporcionar el informe requerido por la operación.
-
-Las mismas penas se impondrán a quien realice cualquiera de los actos a que se refieren las dos fracciones anteriores que tengan por objeto la suma de dinero o los bienes señalados por las mismas con conocimiento de su origen ilícito, cuando éstos hayan sido identificados como producto de actividades ilegales por las autoridades o tribunales competentes y dichos actos tengan el propósito de:
-
-a). Ocultar o disfrazar el origen, naturaleza, propiedad, destino o localización del dinero o de los bienes de que se trate; o
-
-b). Alentar alguna actividad ilícita.
-
-> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-Igual sanción se impondrá a los empleados y funcionarios de las instituciones que integran el sistema financiero, que con el propósito de prestar auxilio o cooperación para evitar la identificación o localización de las sumas de dinero o bienes a que se refiere este artículo, no cumplan con la obligación de recabar o falseen la información sobre la identificación del cliente y la correspondiente operación, conforme a lo previsto en las disposiciones que regulan el sistema financiero.
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-Para los efectos de este artículo, se entiende por sistema financiero el comprendido por las instituciones de crédito, de seguros y de fianzas, almacenes generales de depósito, arrendadoras financieras, sociedades de ahorro y préstamo, sociedades financieras de objeto limitado, uniones de crédito, empresas de factoraje financiero, intermediarios bursátiles, casas de cambio y cualquier otro intermediario financiero o cambiario.
+Artículo 115 BIS.- (DEROGADO, D.O.F. 13 DE MAYO DE 1996)
 
 ## TITULO V. De los Procedimientos Administrativos
 
@@ -4626,8 +4572,6 @@ En el caso de que se interponga recurso, se suspenderá el efecto de la sentenci
 
 Siempre que se esté en alguno de los supuestos previstos en las fracciones II y III, del artículo 238 de este Código, el Tribunal Fiscal de la Federación declarará la nulidad para el efecto de que se reponga el procedimiento o se emita nueva resolución; en los demás casos, también podrá indicar los términos conforme a los cuales debe dictar su resolución la autoridad administrativa, salvo que se trate de facultades discrecionales.
 
-> <small>N. DE E. EL PRESENTE ARTICULO EN LA REFORMA QUE SE INDICA, DEJA DE SER 239 BIS PASANDO A SER 239-A.</small>
-
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### Artículo 239-A.
@@ -4643,8 +4587,6 @@ III. Los acuerdos de la Presidencia que admitan la petición o que de oficio dec
 Lo dispuesto en el párrafo anterior no se llevará a cabo cuando las partes hayan señalado domicilio para recibir notificaciones en el Distrito Federal.
 
 IV. Una vez cerrada la instrucción del juicio la Sala Regional remitirá el expediente original a la Secretaría General de Acuerdos de la Sala Superior la que lo turnará al magistrado ponente que corresponda conforme a las reglas que determine el Pleno del propio Tribunal.
-
-> <small>N. DE E. EL PRESENTE ARTICULO EN LA REFORMA QUE SE INDICA, DEJA DE SER 239 TER PASANDO A SER 239-B.</small>
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -5514,6 +5456,16 @@ II.- Para los efectos de lo dispuesto en el artículo 46-A del Código Fiscal de
 
 UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1995.
 
+LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE 1995.
+
+## TRANSITORIOS
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- La presente Ley entrará en vigor el día 1o. de enero de 1995.
+
+QUINTO.- A partir del 1o. de enero de 1995, las cantidades, tarifas y tablas que aparecen en los artículos que se indican de las leyes fiscales que se mencionan, serán las que a continuación se establecen. Las cantidades, tarifas y tablas que se mencionan en este artículo se entenderán actualizadas hasta el mes de enero de 1995, debiéndose efectuar las posteriores actualizaciones en los términos que establezcan las leyes que las contengan a partir de la actualización prevista para el mes de julio de 1995, excepto tratándose de las cantidades relativas a las Leyes de los Impuestos sobre Automóviles Nuevos y Tenencia o Uso de Vehículos, las cuales se actualizarán en el mes de enero de 1996, de conformidad con los preceptos aplicables de dichas Leyes.
+
 D.O.F. 28 DE DICIEMBRE DE 1994.
 
 LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE 1995, POR LA QUE SE ACTUALIZA EL CODIGO FISCAL DE LA FEDERACION.
@@ -5583,3 +5535,15 @@ Segundo.- A partir de la entrada en vigor de esta Ley quedan derogados los artí
 D.O.F. 15 DE ENERO DE 1996.
 
 LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+D.O.F. 13 DE MAYO DE 1996.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El artículo 115 bis del Código Fiscal de la Federación, vigente hasta la entrada en vigor del presente decreto, seguirá aplicándose por los hechos realizados durante su vigencia. Asimismo, dicho precepto seguirá aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por el mencionado artículo.
+
+Para proceder penalmente en los casos a que se refiere el artículo 115 bis del Código Fiscal de la Federación, en los términos del párrafo anterior, se seguirá requiriendo la querella de la Secretaría de Hacienda y Crédito Público.
+
+Para efectos de la aplicación de las penas respectivas, regirá lo dispuesto en el artículo 56 del Código Penal citado, sin que ello implique la extinción de los tipos penales.
+
+TERCERO.- Para los supuestos, sujetos y efectos del artículo anterior, los delitos previstos en el artículo 115 bis del Código Fiscal de la Federación, se seguirán calificando como graves, en los términos del artículo 194 del Código Federal de Procedimientos Penales, para todos los efectos legales procedentes.
