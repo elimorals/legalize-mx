@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2003-09-11"
+last_updated: "2003-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -627,7 +627,13 @@ Las faltas del Presidente del Supremo Tribunal de Justicia del Estado hasta por 
 
 Las faltas de los magistrados numerarios del Supremo Tribunal de Justicia, que excedan de quince días hábiles, así como las vacantes de dichos cargos, en tanto toma posesión el nuevo numerario, serán cubiertas por los magistrados supernumerarios en el orden que acuerde el Pleno del Tribunal.
 
-Cuando la totalidad de los magistrados supernumerarios se encuentren integrando Sala o no estén en funciones por cualquier motivo y, asimismo, durante las ausencias por menos de quince días hábiles de los magistrados que integren Sala, ésta podrá funcionar válidamente con dos de ellos en lo relativo a la sustanciación del procedimiento, excepción hecha respecto de la sentencia definitiva, para lo cual el Tribunal Pleno designará a los magistrados que deban integrar el quórum respectivo. Lo mismo se observará en casos de excusa o recusación de los magistrados.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2003)</small>
+
+Cuando la totalidad de los magistrados supernumerarios se encuentren integrando Sala o no estén en funciones por cualquier motivo y, asimismo, durante las ausencias por menos de quince días hábiles de los magistrados que integren Sala, ésta podrá funcionar válidamente con dos de ellos en lo relativo a la substanciación del procedimiento, excepción hecha respecto de la sentencia definitiva, para lo cual el Tribunal Pleno designará a los magistrados que deban integrar el quórum respectivo.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2003)</small>
+
+Lo mismo se observará en casos de excusa o recusación de uno o dos magistrados, caso este último en que la Sala será presidida por el magistrado de ella que no hubiese sido sustituido. Cuando el impedimento sea de los tres magistrados que integran una Sala, el asunto pasará al conocimiento de la Sala que, de la misma materia, le siga en número.
 
 ###### Artículo 54.
 
@@ -3002,3 +3008,7 @@ SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente 
 TERCERO.- Los asuntos que se encuentren en trámite en las dependencias o entidades relacionados con la indemnización a los particulares, derivados de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo a las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
 
 CUARTO.- El Gobierno del Estado y los ayuntamientos deberán incluir en sus respectivos presupuestos de egresos para el ejercicio fiscal del año 2004, una partida que haga frente a su responsabilidad patrimonial.
+
+P.O. 13 DE NOVIEMBRE DE 2003.
+
+ÚNICO.- El presente decreto que contiene reformas a la Ley Orgánica del Poder Judicial del Estado de Jalisco, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
