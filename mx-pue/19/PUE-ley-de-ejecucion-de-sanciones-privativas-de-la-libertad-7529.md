@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ejecucion-de-sanciones-privativas-de-la-libertad-7529"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-30"
-last_updated: "1991-12-31"
+last_updated: "1999-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS DE LA LIBERTAD PARA EL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el martes 30 de diciembre de 1975.
 
@@ -387,6 +387,10 @@ Condena Condicional, Absolución por Inocencia, Libertad Preparatoria, Indulto y
 
 El beneficio de la condena condicional, la absolución por inocencia, la libertad preparatoria, el indulto y la retención se sujetará en cuanto a su procedencia y a su tramitación a las condiciones y términos señalados por el Código de Defensa Social y el Código de Procedimientos en Materia de Defensa Social, dándose la intervención que le corresponda a los Consejos Técnicos correspondientes.
 
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 1999)</small>
+
+ARTICULO 54 BIS.- No se concederán los beneficios establecidos en la presente Ley, a aquellos internos que hubiesen sido condenados por los delitos previstos en el artículo 69 incisos B, C, D, F, H, I, J, K, L, M y S del Código de Procedimientos en Materia de Defensa Social, así como el delito a que se refiere el artículo 183 del Código de Defensa Social, cuando la ejecución del mismo se relacione de manera directa con los delitos señalados en los incisos indicados.
+
 ## TITULO CUARTO
 
 De las Sanciones.
@@ -456,3 +460,9 @@ Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
 P.O. 31 DE DICIEMBRE DE 1991.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE MARZO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
