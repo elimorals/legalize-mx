@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2003-06-14"
+last_updated: "2003-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2003.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -417,13 +417,13 @@ Asimismo se considerarán trabajadores de base los empleados que reuniendo los r
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1992)</small>
 
-b).- Son funcionarios y empleados de confianza del Poder Ejecutivo: El Secretario de Gobierno, El Procurador General de Justicia, los Directores Generales y Coordinadores, el Secretario Particular del Gobernador, los Jefes de Departamento, Oficina y División; los Agentes y Sub-agentes del Ministerio Público, adscritos a la Procuraduría General de Justicia y de la Policía Judicial dependiente de la misma, el Encargado del Departamento de Identificación Criminal y los Peritos Técnicos y Médicos Legistas; los Abogados Consultores del Gobierno, los Presidentes, Secretarios, Notificadores o Actuarios de las Juntas de Conciliación y Arbitraje; el Procurador General de la Defensa del Trabajo y los Procuradores Auxiliares, así como los Inspectores del Trabajo; los Representantes del Gobierno en la Comisión Agraria Mixta y en la Junta Local de Caminos, los Jefes de las Oficinas del Registro Público de la Propiedad y del Registro Civil; el Jefe de la Oficina Estatal de Profesiones; los Recaudadores; Contadores y Cajeros de las Oficinas Receptoras; el Director, Subdirector, los Agentes de Seguridad y Celadores de la Penitenciaría del Estado; el Director y Encargado del Periódico Oficial del Estado, el Director de los Teléfonos del Estado; los Miembros de los Patronatos de la Asistencia Pública y Beneficencia Privada; los Directores de los Hospitales y demás Centros Asistenciales, los Celadores y las Trabajadoras Sociales a su servicio; el Secretario y el Director de la Escuela de Rehabilitación dependiente del mismo Tribunal; los Inspectores Fiscales; los Inspectores de Ganadería; el Intendente del Palacio de Gobierno, los Jefes de Tránsito; los Agentes de Policía de Tránsito del Estado; los comisionados especiales y empleados al servicio personal del Gobernador; los Inspectores de Municipios y los Jefes de Almacén de la Proveeduría.
+b).- Son funcionarios y empleados de confianza del Poder Ejecutivo: El Secretario de Gobierno, El Procurador General de Justicia, los Directores Generales y Coordinadores, el Secretario Particular del Gobernador, los Jefes de Departamento, Oficina y División; los Agentes y Sub-agentes del Ministerio Público, adscritos a la Procuraduría General de Justicia y de la Policía Judicial dependiente de la misma, el Encargado del Departamento de Identificación Criminal y los Peritos Técnicos y Médicos Legistas; los Abogados Consultores del Gobierno, los Presidentes, Secretarios, Notificadores o Actuarios de las Juntas de Conciliación y Arbitraje; el Procurador General de la Defensa del Trabajo y los Procuradores Auxiliares, así como los Inspectores del Trabajo; los Representantes del Gobierno en la Comisión Agraria Mixta y en la Junta Local de Caminos, los Jefes de las Oficinas del Registro Público de la Propiedad y del Registro Civil; el Jefe de la Oficina Estatal de Profesiones; los Recaudadores; Contadores y Cajeros de las Oficinas Receptoras; el Director, Subdirector, los Agentes de Seguridad y Celadores de la Penitenciaría del Estado; el Director y Encargado del Periódico Oficial del Estado, el Director de Teléfonos del Estado; los Miembros de los Patronatos de la Asistencia Pública y Beneficencia Privada; los Directores de los Hospitales y demás Centros Asistenciales, los Celadores y las Trabajadoras Sociales a su servicio; el Secretario y el Director de la Escuela de Rehabilitación dependiente del mismo Tribunal; los Inspectores Fiscales; los Inspectores de Ganadería; el Intendente del Palacio de Gobierno, los Jefes de Tránsito; los Agentes de Policía de Tránsito del Estado; los comisionados especiales y empleados al servicio personal del Gobernador; los Inspectores de Municipios y los Jefes de Almacén de la Proveeduría.
 
 También serán considerados como empleados de confianza en todas las Dependencias del Ejecutivo, las secretarias y los secretarios, los miembros de comisiones de estudios y consultores y las personas que presten servicio mediante contrato.
 
 Son funcionarios y empleados de confianza del Poder Legislativo, el Oficial Mayor y el Contador General de Hacienda. Son funcionarios y empleados de confianza del Poder Judicial; El Secretario General del Supremo Tribunal de Justicia y los Secretarios de las Salas de Apelación y de los Juzgados; los visitadores judiciales, los Jueces de Primera Instancia o de lo Familiar, Menores y de Paz, los Jefes de Defensorías de Oficio y los Ministros Ejecutores.
 
-Son funcionarios y empleados de confianza de los Organismos Descentralizados los que se determinen conforme a sus propias disposiciones normativas.
+Son funcionarios y empleados de confianza de los Organismos Descentralizados los que se determinan conforme a sus propias disposiciones normativas.
 
 c).- Son trabajadores eventuales y extraordinarios aquéllos cuyos servicios se contratan transitoriamente, cuyos sueldos se pagan por lista de raya o por nombramiento en que se especifique tal carácter, y los interinos que cubran vacantes temporales de trabajadores de base.
 
@@ -559,17 +559,11 @@ Cuando por cualquier motivo un trabajador no pudiere hacer uso de las vacaciones
 
 El trabajador tendrá derecho a que se le pague una prima no menor a dos días y medio de salario, al disfrutar cada período vacacional.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2003)</small>
 
-ARTICULO 94 BIS.- Los trabajadores al servicio de los Poderes Legislativo, Ejecutivo y Judicial que tengan una antiguedad mínima de un año, disfrutarán de una gratificación de fin de año de 40 días de sueldo, que les deberá ser cubierta en dos partes iguales, la primera antes del 15 de diciembre del año a que corresponda la gratificación y la segunda, a más tardar, el 15 de enero del año siguiente.
+ARTICULO 94 BIS.- Los trabajadores al servicio de los Poderes Legislativo, Ejecutivo y Judicial que tengan una antigüedad mínima de un año, disfrutarán de una gratificación de fin de año de 40 días de sueldo, que les deberá ser cubierta en dos partes iguales, la primera antes del 15 de diciembre del año que corresponda y la segunda a más tardar el 15 de enero del siguiente año.
 
-Los trabajadores con antiguedad menor de un año, pero con más de tres meses de servicios, tendrán derecho a la gratificación en forma proporcional, sobre las siguientes bases:
-
-a).- 30 días de sueldo a quienes hayan ingresado antes del 1o. de abril del año a que corresponda la gratificación.
-
-b).- 20 días a quienes hayan ingresado antes del 1o. de julio del año a que corresponda la gratificación.
-
-c).- 10 días a los que hayan ingresado antes del 1o. de octubre del año a que corresponda la gratificación.
+Los trabajadores con antigüedad menor a un año, independientemente que se encuentren laborando o no a la fecha del pago de la gratificación mencionada, tendrán derecho a que se les pague la parte proporcional de la misma, conforme al tiempo que hubieren trabajado, cualquiera que fuere éste.
 
 ###### ARTICULO 95.
 
@@ -8269,9 +8263,9 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO VII. DE LAS CONURBACIONES
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 ###### ARTICULO 1489.
 
@@ -8337,13 +8331,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-DECIMA PRIMERA PARTE
-
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+#### SECCION QUINTA. DE LA VIVIENDA
 
 ###### ARTICULO 1504.
 
@@ -8391,7 +8381,7 @@ DECIMA PRIMERA PARTE
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1515.
 
@@ -8417,9 +8407,9 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
 ###### ARTICULO 1521.
 
@@ -8457,9 +8447,9 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 ###### ARTICULO 1529.
 
@@ -8477,9 +8467,15 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 1533.
 
@@ -8489,9 +8485,9 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO VII. DE LAS CONURBACIONES
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
 ###### ARTICULO 1535.
 
@@ -8523,9 +8519,7 @@ DECIMA PRIMERA PARTE
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
 ###### ARTICULO 1542.
 
@@ -8551,7 +8545,7 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 # LIBRO UNICO. SERVICIOS PUBLICOS DE AGUA POTABLE Y SANEAMIENTO
 
@@ -10776,3 +10770,9 @@ P.O. 14 DE JUNIO DE 2003.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE SEPTIEMBRE DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
