@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-planeacion-del-estado-de-san-luis-potosi-7949"
 country: "mx"
 rank: "ley"
 publication_date: "1985-04-30"
-last_updated: "1985-04-30"
+last_updated: "1996-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PLANEACION DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el 30 de abril de 1985.
 
@@ -43,19 +43,37 @@ LEY DE PLANEACION DEL ESTADO DE SAN LUIS POTOSI
 
 Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto constituir el Sistema Estatal de Planeación Democrática, y determinar las bases y principios de la planeación así como las normas de integración, coordinación y participación de autoridades, órganos y sectores sociales que forman al sistema.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1996)</small>
+
 ###### ARTICULO 2.
 
-Para los efectos de esta Ley, se entiende por planeación la ordenación sistemática de las acciones de la Administración Pública Estatal y Municipal que tiene por objeto la consecución de los principios políticos, sociales, económicos y culturales contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de San Luis Potosí, así como alcanzar los objetivos básicos del Gobierno.
+La planeación deberá llevarse a cabo como un medio para el eficaz desempeño de la responsabilidad del Gobierno del Estado sobre el desarrollo integral de la Entidad y deberá tender a la consecución de los fines y objetivos políticos, económicos, sociales y culturales contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la del Estado de San Luis Potosí. Para ello, la planeación estatal estará basada en los siguientes principios:
+
+I.- El fortalecimiento de la autonomía del Estado en lo político, lo económico y lo cultural, en el marco del Pacto Federal;
+
+II.- La consolidación de la democracia como sistema de vida, fundado en el constante mejoramiento económico, social y cultural de la sociedad, impulsando la participación activa de sus sectores y organizaciones en la planeación, ejecución y vigilancia de los programas de desarrollo;
+
+III.- La igualdad de derechos, la atención de las necesidades básicas y el mejoramiento de la calidad de vida de la población, particularmente de los grupos sociales que no disponen de los satisfactores esenciales;
+
+IV.- El impulso del desarrollo regional equilibrado y el fortalecimiento del municipio a través de la descentralización de los recursos; y
+
+V.- El equilibrio de los factores productivos, que proteja y promueva el empleo y la inversión, en un marco de estabilidad económica y social.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 3.
 
-La planeación estatal deberá llevarse a cabo como un medio para el eficaz desempeño de la responsabilidad del Estado sobre su desarrollo integral y deberá atender a la consecución de los fines y objetivos, políticos, sociales, económicos y culturales contenidos en la Constitución Política del Estado.
+Para los efectos de esta ley se entiende por planeación estatal del desarrollo, la ordenación racional y sistemática de acciones gubernamentales cuyo propósito es la transformación de las condiciones económicas y sociales prevalecientes en la Entidad, de conformidad con las normas y principios legales establecidos.
 
-A través de esta planeación se fijarán objetivos, metas, estrategias y prioridades; se asignarán recursos, responsabilidades y tiempos de ejecución; se coordinarán las acciones del proceso de planeación estatal con las de la planeación nacional y se concertarán las actividades de los sectores social y privado que tengan por objeto alcanzar los fines de la planeación estatal.
+Mediante la planeación se fijarán objetivos, metas, estrategias, prioridades, políticas y acciones; se asignarán recursos, responsabilidades y tiempo de ejecución, se concertará la participación de los sectores social y privado en este proceso.
+
+Los objetivos y prioridades de la planeación estatal serán congruentes con los establecidos en la planeación nacional.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 4.
 
-El Sistema Estatal de Planeación Democrática establece, como objetivo inmediato, la formulación de un Plan Estatal de Desarrollo en el que se contengan los objetivos de desarrollo del Estado y como fin mediato la instrumentación de programas cuya ejecución está a cargo de las administraciones públicas estatal y municipal.
+El proceso de la planeación normado por la presente ley, se sujetará a un instrumento rector denominado Plan Estatal de Desarrollo; con base en él se elaborarán los demás instrumentos de la planeación del desarrollo estatal, tales como, programas institucionales, sectoriales, regionales, municipales y especiales.
 
 ###### ARTICULO 5.
 
@@ -63,177 +81,137 @@ Los planes y programas derivados del proceso de planeación, se sujetarán a un 
 
 ### CAPITULO II. DEL SISTEMA DE PLANEACION DEMOCRATICA
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1996)</small>
+
 ###### ARTICULO 6.
 
-El proceso de planeación es el conjunto de acciones para formular, instrumentar, controlar y evaluar el plan estatal de desarrollo y los programas que de él se deriven.
+El Sistema de Planeación Democrática de San Luis Potosí se soportará en los esfuerzos de la administración pública, de los sectores social y privado y de los ciudadanos interesados en el proceso de desarrollo, conforme a las siguientes etapas:
 
-En la etapa de formulación se elaboran el Plan Estatal de Desarrollo y los Programas de mediano y largo plazos. Comprende la preparación de diagnósticos económicos, sociales y regionales, la definición de objetivos y prioridades del desarrollo, estrategias y políticas, previsión de recursos y criterios de coordinación y concertación con los sectores.
+I.- En la etapa de formulación se elaborarán el Plan Estatal de Desarrollo y los programas de mediano y largo plazo. Comprende la preparación de diagnósticos económicos, sociales y regionales, la definición de objetivos, prioridades del desarrollo, estrategias, políticas, acciones, previsión de recursos, criterios de coordinación y concertación con los organismos sociales;
 
-En la etapa de instrumentación se traducen los lineamientos y estrategias del Plan Estatal en programas de mediano y corto plazos, precisando metas, asignando recursos, determinando responsables y fijando tiempos de ejecución.
+II.- En la etapa de instrumentación se traducirán los lineamientos y estrategias del Plan Estatal de Desarrollo en programas de mediano y corto plazo, precisando metas, asignando recursos, determinando responsables y fijando tiempos de ejecución;
 
-En la etapa de control se vigila que las acciones realizadas cumplan con las normas administrativas, contables, jurídicas y de planeación, y que la ejecución de los programas logre los objetivos y prioridades de la planeación.
+III.- En la etapa de control, se vigilará que las acciones realizadas cumplan con las normas administrativas, contables, jurídicas y de planeación y que la ejecución de los programas logre los objetivos y prioridades de la planeación; y
 
-En la etapa de evaluación se valoran cualitativa y cuantitativamente los resultados del plan y programas en un lapso determinado, para incorporar los cambios y reorientaciones que hagan vigente el plan estatal.
+IV.- En la etapa de evaluación se valorarán cualitativa y cuantitativamente los resultados del plan y programas en un lapso determinado, para incorporar los cambios y reorientaciones que hagan vigente el Plan Estatal de Desarrollo.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 7.
 
-Son autoridades y órganos del Sistema Estatal de Planeación Democrática:
+El Sistema de Planeación Democrática de San Luis Potosí estará formado por:
 
-A) El Poder Ejecutivo Estatal.
+I.- El Congreso del Estado;
 
-B) El Congreso del Estado.
+II.- El Gobernador del Estado, las dependencias y entidades de la Administración Pública Estatal;
 
-C) Los Ayuntamientos.
+III.- Los ayuntamientos, las dependencias y entidades de la Administración Pública Municipal;
 
-D) Los Presidentes Municipales.
+IV.- Las dependencias y entidades de la Administración Pública Federal; y
 
-E) El Comité de Planeación del Desarrollo Estatal.
+V.- Las Organizaciones sociales cuyas actividades deban ser consideradas en la planeación del desarrollo del Estado.
 
-F) Los Comités de Planeación del Desarrollo Municipal.
-
-G) Las Dependencias y entidades de la Administración Pública Estatal.
-
-H) Las Administraciones públicas municipales.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 8.
 
-En el Sistema Estatal de Planeación Democrática, las atribuciones y funciones de planeación serán las siguientes:
+En el Sistema de Planeación Democrática, las atribuciones y funciones de planeación serán las siguientes:
 
-I.- Del Titular del Ejecutivo Estatal:
+I.- Del Congreso del Estado:
 
-A).- Conducir el proceso de planeación.
+A).- Aprobar el Plan Estatal de Desarrollo que le presente el titular del Ejecutivo;
 
-B).- Aprobar el Plan Estatal de Desarrollo.
+B).- Conocer los planes de desarrollo municipales;
 
-C).- Planear y conducir las actividades de la Administración Pública.
+C).- Procurar la congruencia del gasto público con los objetivos del Plan Estatal de Desarrollo al autorizar las leyes de ingresos del Estado y los municipios y la Ley del Presupuesto de Egresos del Estado, así como las cuentas públicas municipales; y
 
-D).- Aprobar los programas operativos de la Administración Pública.
+D).- Solicitar al Ejecutivo del Estado y ayuntamientos, informe sobre avances de los programas derivados del Plan Estatal de Desarrollo y de los planes municipales.
 
-E).- Ordenar la asignación de recursos.
+II.- Del Gobernador del Estado:
 
-F).- Informar al Congreso sobre el avance de los programas.
+A).- Conducir el proceso de planeación estatal;
 
-G).- Coordinar e inducir acciones y programas con los otros niveles de Gobierno y concentrarlas con los sectores social y privado.
+B).- Elaborar el Plan Estatal de Desarrollo y presentarlo al Congreso del Estado para su aprobación;
 
-H).- Celebrar con la Federación, conforme a las Leyes, los convenios de coordinación que fueren necesarios.
+C).- Establecer los lineamientos y criterios para la programación y actividades de la administración pública;
 
-I).- Aplicar las medidas disciplinarias, en el ámbito de su competencia, a quienes violen la presente Ley o no cumplan con los Programas y Planes de trabajo.
+D).- Aprobar los programas operativos anuales de la administración pública;
 
-II.- Del Congreso del Estado:
+E).- Ordenar la asignación de recursos;
 
-A).- Participar dentro de los Organos y Foros de Consulta Popular.
+F).- Rendir un informe anual al Congreso del Estado, sobre la ejecución del Plan Estatal de Desarrollo y sobre el avance de los programas.
 
-B).- Procurar la congruencia del gasto con los objetivos del Plan Estatal de Desarrollo al autorizar las Leyes de Ingresos del Estado y Municipios y la de los Egresos del Estado, así como las cuentas públicas municipales.
+G).- Coordinar e inducir acciones y programas con el gobierno federal y los ayuntamientos y concertarlos con los organismos sociales;
 
-C).- Solicitar del Ejecutivo y Ayuntamientos, informes sobre avances de los programas derivados del Plan Estatal de Desarrollo.
+H) Celebrar con la Federación, conforme a las leyes, los convenios de coordinación que fueren necesarios; e
 
-D).- Determinar por Ley los servicios públicos municipales necesarios para la consecución del Plan Estatal de Desarrollo.
+I).- Aplicar las medidas disciplinarias; en el ámbito de su competencia, a quien viole la presente ley o no cumpla con los programas y planes de trabajo.
 
-E).- Vigilar a través de su órgano de control, la ejecución estricta del Plan Estatal y programas que se deriven del mismo.
+III.- De os Ayuntamientos:
 
-III.- De Los Ayuntamientos:
+A).- Formular y aprobar el Plan de Desarrollo Municipal; así como los programas derivados de los mismos;
 
-A).- Formular y aprobar planes y programas de Desarrollo Municipal.
+B).- Aprobar los programas operativos anuales de la Administración Pública Municipal;
 
-B).- Constituir foros de consulta popular permanente.
+C).- Vigilar que las actividades de las dependencias municipales tengan congruencia con los programas derivados de los planes de desarrollo estatal y municipal;
 
-C).- Aprobar los programas operativos de la Administración Pública Municipal y de los servicios públicos a su cargo.
+D).- Proponer a los Gobiernos Federal y Estatal programas de inversión para el desarrollo municipal;
 
-D).- Proponer, en el seno del COPLADE, los programas a coordinar con el Estado y la Federación.
+E).- Vigilar que las dependencias de las administraciones públicas municipales conduzcan sus actividades de acuerdo con los objetivos de los planes de desarrollo estatal y municipales;
 
-E).- Fijar las prioridades de alcance municipal que deban incorporarse al Plan Estatal de desarrollo.
+F).- Vigilar que las dependencias municipales elaboren sus presupuestos de acuerdo con los programas emanados de los planes de desarrollo municipales;
 
-IV.- Del Presidente Municipal:
+G).- Concertar e inducir con los sectores social y privado, acciones encaminadas a la consecución de los objetivos del plan y programas de desarrollo municipales;
 
-A).- Vigilar que las actividades de las dependencias municipales tengan congruencia con los programas derivados de los planes estatal y municipal.
+H).- Coordinar las actividades de las administraciones públicas municipales con las actividades de las administraciones públicas Federal y Estatal, en programas de desarrollo;
 
-B).- Proponer a los gobiernos Federal y Estatal, que coordinen programas de inversión para el desarrollo municipal dentro del marco del Convenio Unico de Desarrollo.
+I).- Remitir al Congreso del Estado, para su conocimiento los planes municipales de desarrollo;
 
-C).- Vigilar que la Administración Pública municipal conduzca sus actividades de acuerdo a los objetivos de los Planes Estatal y Municipal.
+J).- Coadyuvar con los órganos de control estatal en la vigilancia de la ejecución de los programas; y
 
-D).- Vigilar que las dependencias municipales elaboren sus presupuestos de acuerdo a los programas emanados del plan municipal.
+K).- Celebrar con los gobiernos federal y estatal, conforme a las leyes, los convenios de coordinación que fueren necesarios.
 
-E).- Concertar e inducir, con los sectores social y privado, acciones encaminadas, a la consecución de los objetivos del plan y programas municipales.
+IV.- Del Comité de Planeación del Desarrollo Estatal:
 
-F).- Coordinar las actividades de la administración pública municipal con las actividades de las administraciones públicas Federal y Estatal en programas de desarrollo.
+A).- Ser el foro en el que se compatibilicen en el nivel estatal los esfuerzos que en materia de planeación realicen la Administración Pública Federal, el Gobierno Estatal y los ayuntamientos;
 
-G).- Redimir los planes municipales de desarrollo y programas operativos anuales al Congreso del Estado para su conocimiento.
+B).- Proyectar y coordinar las actividades de la planeación estatal del desarrollo, con la participación que corresponda a los gobiernos municipales y los sectores sociales, y elaborar los programas específicos que le señale el Gobernador del Estado;
 
-H).- Coadyuvar con los órganos de control estatal, en la vigilancia de la ejecución de los programas.
+C).- Elaborar el Plan Estatal de Desarrollo, integrando al mismo los planes municipales, las propuestas de las dependencias de la Administración Pública Estatal y los planteamientos y propuestas de los grupos social y privado interesados;
 
-V.- Del Comité de Planeación del Desarrollo Estatal:
+D).- Proporcionar información y asesoría técnica para la actualización del Plan Estatal de Desarrollo, de los planes municipales y de los programas que de ellos se deriven;
 
-A).- Ser el foro en el que se compatibilicen en el nivel estatal, los esfuerzos que en materia de planeación realicen la administración pública federal, el gobierno estatal y los ayuntamientos.
+E).- Vigilar que la información que se genere reúna los requerimientos de veracidad y oportunidad;
 
-B).- Proyectar y coordinar las actividades de la planeación estatal del desarrollo, con la participación que corresponda a los gobiernos municipales y los sectores sociales y elaborar los programas específicos que le señale el Gobernador del Estado.
+F).- Elaborar diagnósticos, fijar prioridades y diseñar estrategias que ordenen las acciones para la aplicación de los recursos;
 
-C).- Elaborar el Plan Estatal, integrando al mismo los planes municipales, las propuestas de las dependencias y órganos de la Administración Pública Estatal, así como los planteamientos y propuestos de los grupos sociales interesados.
+G).- Proponer a las administraciones públicas, Federal, Estatal y Municipal, programas y proyectos de mediano y largo plazo, considerando su viabilidad técnica y financiera y el impacto en las condiciones económicas y sociales del Estado;
 
-D).- Ser el único conducto de propuesta, a nivel Estatal, para las coordinaciones que establezca el Ejecutivo del Estado con el Ejecutivo Federal y con los Ayuntamientos en la planeación sectoral, multisectoral y regional.
+H).- Realizar estudios de los efectos económicos y sociales de los programas ejecutados y del logro de los objetivos y prioridades de la planeación estatal;
 
-E).- Proporcionar información y asesoría técnica para la permanente actualización del Plan Estatal, de los Planes Municipales y de los programas que de ellos se deriven.
+I).- Dictar lineamientos para la programación-presupuestación anual, que garanticen congruencia de los programas y proyectos de las dependencias con el Plan Estatal de Desarrollo;
 
-F).- Vigilar que la información que se genere para la planeación estatal reúna los requerimientos de veracidad y oportunidad que demanden los plazos de planeación.
+J).- Elaborar los programas sectoriales tomando en cuenta las propuestas que presenten las dependencias y entidades estatales y federales de cada sector y los gobiernos municipales; y
 
-G).- Elaborar diagnósticos, fijar prioridades, diseñar estrategias que ordenen las acciones para la aplicación de los recursos.
+K).- Coordinar las actividades tendientes a cumplir con los programas operativos anuales.
 
-H).- Proponer a las Administraciones Públicas Federal y Estatal, programas y proyectos de mediano y largo plazo considerando su repercusión en los programas operativos anuales.
+V.- De los Comités de Planeación del Desarrollo Municipal:
 
-I).- Realizar los estudios para comprobar que los efectos económicos y sociales de la ejecución de los programas, se dirijan a la realización de los objetivos y prioridades de la planeación estatal.
+A).- Ser la instancia en la cual se institucionaliza la consulta popular para la planeación democrática;
 
-J).- Vigilar que exista congruencia entre el Plan y los programas que se generen en el sistema estatal de planeación y que las acciones tendientes a su cumplimiento se sujeten a la normatividad de la planeación.
+B).- Proyectar y coordinar con los organismos sociales y privados las actividades de la planeación en el ámbito municipal;
 
-K).- Integrar y ejecutar el Sistema Estatal de Control y Vigilancia para la ejecución de los programas, a través de un órgano de control.
+C).- Formular y proponer a los gobiernos estatal y federal programas de inversión, gasto y financiamiento para el municipio, congruentes con sus respectivos presupuestos de ingresos y egresos;
 
-VI.- De los Comités de Planeación del Desarrollo Municipal:
+D).- Recibir y analizar las propuestas de inversión que formulen los representantes de las localidades del municipio, dándoles curso a las que se consideren procedentes;
 
-A).- Ser la instancia en la cual se institucionaliza la Consulta Popular para la Planeación Democrática.
+E).- Proponer al Comité de Planeación del Desarrollo del Estado programas y acciones que se puedan ejecutar con recursos directos del Estado o en el marco del Convenio de Desarrollo Social, así como la inversión federal directa, que contribuyan a alcanzar los objetivos y metas del Plan de Desarrollo Municipal;
 
-B).- Proyectar y coordinar las actividades de planeación en el ámbito territorial de su municipio con la participación de los sectores social y privado que lo integran.
+F).- Promover acuerdos de coordinación entre los sectores públicos, social y privado que permitan el logro de los objetivos del Plan de Desarrollo Municipal;
 
-C).- Participar en la elaboración del Plan y Programas de Desarrollo Municipal.
+G).- Elaborar un registro sistemático de la obra pública municipal que permita su eficiente control y seguimiento, así como vigilar la ejecución de obras y acciones federales y estatales dentro del municipio e informar al Comité de Planeación del Desarrollo del Estado; y
 
-D).- Formular y proponer a los Gobiernos Estatal y Federal, a través del Ayuntamiento y del COPLADE, programas de inversión, gasto y financiamiento para el Municipio, como medio para complementar los criterios conforme a los cuales definen sus respectivos presupuestos de egresos.
-
-E).- Recibir y analizar las propuestas de inversión que le formulen las distintas localidades del Municipio, dándoles curso a las que se consideren procedentes.
-
-F).- Sugerir y proponer al COPLADE programas y acciones que se puedan coordinar en el marco del Convenio Unico de Desarrollo, y que contribuyan a alcanzar los objetivos y metas del plan Municipal.
-
-G).- Promover la concertación de acuerdos de cooperación y colaboración entre los sectores público, social y privado tendientes a orientar los esfuerzos al logro de los objetivos del Plan Municipal de Desarrollo.
-
-H).- Levantar un inventario y elaborar un registro contínuo de la obra pública que se ejecute en el Municipio, como información básica para la Planeación.
-
-I).- Integrar y ejecutar dentro de su jurisdicción un sistema municipal de control y vigilancia para la ejecución de los planes y programas.
-
-VII.- De las Dependencias de la Administración Pública Estatal.
-
-A).- Intervenir respecto de las materias que les competan, en la elaboración del Plan Estatal.
-
-B).- Coordinar y ejecutar las actividades tendientes a cumplir con los programas anuales resultantes del Plan Estatal.
-
-C).- Coordinar las actividades que correspondan a las entidades de la administración estatal, agrupadas en su sector, en materia de planeación.
-
-D).- Elaborar los programas sectoriales, tomando en cuenta las propuestas que presenten los integrantes del sector y los gobiernos municipales.
-
-E).- Mantener la congruencia de los programas sectoriales con el Plan Estatal, los programas municipales y los especiales que determine el Gobernador del Estado.
-
-F).- Elaborar los propuestos anuales para la ejecución de los programas sectoriales correspondientes, que contendrán calendario de ministración, ubicación de las obras, el monto total por programa y los beneficios que reportarán al Estado y Municipio.
-
-G).- Considerar el ámbito territorial de las acciones previstas en los programas a su cargo, procurando su congruencia con los objetivos y prioridades de los planes y programas de los Gobiernos Municipales.
-
-H).- Vigilar el cumplimiento de la normatividad que rige sus acciones y operaciones, en lo contable, jurídico y financiero; así como los objetivos y metas contenidos en sus programas.
-
-I).- Responder ante quien corresponda de la ejecución de los planes y programas que le sean asignados.
-
-VIII.- De las Dependencias de la Administración Municipal.
-
-A).- Intervenir respecto de las materias que les competan en la elaboración del Plan Municipal.
-
-B).- Elaborar sus programas y presupuestos anuales.
-
-C).- Mantener la congruencia de sus programas con el Plan Estatal y en Plan Municipal, así como los Programas Federales y Estatales cuyo ámbito sea el Municipio.
-
-D).- Vigilar el cumplimiento de la normatividad que siguen sus acciones y operaciones en lo contable, financiero y jurídico, así como los objetivos y metas contenidas en sus programas.
+H).- Vigilar el cumplimiento de la normatividad que siguen sus acciones, así como los objetivos y metas contenidos en los programas.
 
 ###### ARTICULO 9.
 
@@ -251,21 +229,23 @@ Las disposiciones reglamentarias de estos comités dispondrán los plazos y form
 
 ### CAPITULO III. DEL PLAN Y LOS PROGRAMAS DE DESARROLLO
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1996)</small>
+
 ###### ARTICULO 11.
 
-El Sistema Estatal de Planeación Democrática deberá producir instrumentos documentales que se clasifican como sigue:
+El Sistema de Planeación Democrática deberá producir instrumentos documentales que se clasifican como sigue:
 
 I.- Instrumentos normativos de mediano plazo:
 
-A).- Plan Estatal de Desarrollo.
+A) Plan Estatal de Desarrollo.
 
-B).- Programas subregionales y Especiales.
+B) Programas regionales y especiales.
 
-C).- Programas Institucionales.
+C) Programas Institucionales.
 
 II.- Instrumentos operativos.
 
-A).- Programas anuales:
+A) Programas anuales:
 
 Sectoriales.
 
@@ -273,35 +253,35 @@ Institucionales.
 
 Municipales.
 
-B).- Leyes de Ingresos Estatal y Municipales.
+B) Leyes de Ingresos Estatal y Municipales.
 
-C).- Presupuesto de Egresos del Estado y Presupuestos de Egresos Municipales.
+C) Presupuestos anuales de egresos del Estado y municipios.
 
-D).- Convenio Unico de Desarrollo.
+D) Convenio de Desarrollo Social.
 
-E).- Convenio de Desarrollo Estado-Municipio.
+E) Convenio de Desarrollo Estado-Municipio.
 
-F).- Convenios de coordinación.
+F) Convenios de coordinación.
 
 III.- Instrumentos de control.
 
-A).- Informes de la situación económica y social.
+A) Informes de la situación económica y social.
 
-B).- Informes de las autoridades gubernamentales.
+B) Informes de las autoridades gubernamentales.
 
 IV.- Instrumentos para la evaluación.
 
-A).- Informes de Gobierno del Ejecutivo Estatal.
+A) Informe anual del titular del Ejecutivo del Estado.
 
-B).- Informes de los Presidentes Municipales.
+B) Informe anual de los Presidentes Municipales.
 
-C).- Informes al Congreso del Estado.
+C) Informes al Congreso del Estado.
 
-D).- Cuenta Pública.
+D) Informe anual del estado de la cuenta pública.
 
-E).- Informes de los foros de consulta popular.
+E) Informes de los foros de consulta popular.
 
-F).- Informes sectoriales e institucionales.
+F) Informes sectoriales e institucionales.
 
 ###### ARTICULO 12.
 
@@ -313,15 +293,19 @@ El Plan Estatal deberá elaborarse, aprobarse y publicarse en un plazo de seis m
 
 En la formulación del Plan Estatal de Desarrollo intervendrán las dependencias y entidades de la Administración Pública Estatal, los grupos sociales interesados a través de los foros de consulta popular, los Ayuntamientos de la Entidad y el COPLADE.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1996)</small>
+
 ###### ARTICULO 14.
 
-El Plan Estatal contendrá los objetivos, estrategias y prioridades del desarrollo estatal, las previsiones sobre los recursos a utilizar, la definición de instrumentos y responsables de su ejecución, los lineamientos de política general, sectoral y subregional.
+El Plan Estatal de Desarrollo contendrá los objetivos, estrategias, prioridades y líneas de acción del desarrollo estatal, las previsiones sobre los recursos a utilizar, la definición de instrumentos y responsables de su ejecución, los lineamientos de política general, sectorial y regional.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 15.
 
-El Plan Estatal de Desarrollo deberá indicar los programas sectoriales, institucionales y subregionales que habrán de elaborarse para la atención de los aspectos específicos y de interés general para el desarrollo de la entidad.
+El Plan Estatal de Desarrollo deberá indicar los programas sectoriales, institucionales y regionales que habrán de elaborarse para la atención de los aspectos específicos y de interés general para el desarrollo de la Entidad.
 
-En la formulación de estos programas se observará congruencia entre ellos; con el Plan Nacional de Desarrollo y con los Planes y Programas Municipales.
+En la formulación de estos programas se observará su congruencia con el Plan Nacional de Desarrollo y con los planes y programas municipales.
 
 ###### ARTICULO 16.
 
@@ -375,23 +359,31 @@ El Plan Estatal y los programas sectoriales, así como los planes municipales y 
 
 El Congreso del Estado podrá citar a los funcionarios de la administración pública estatal o a los Presidentes Municipales, para que informen el avance y grado de cumplimiento de los objetivos y prioridades fijados en el Plan Estatal o Planes Municipales, cuya ejecución sea responsabilidad de los comparecientes.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1996)</small>
+
 ###### ARTICULO 27.
 
 El Plan Estatal, los Planes Municipales y los Programas, serán obligatorios para las dependencias de las Administraciones Públicas Estatal y Municipales en el ámbito de sus respectivas competencias.
 
-En los casos en los que el cumplimiento de los programas que deriven del Plan Estatal, requiera de la concurrencia de la Administración Pública Federal o de la Municipal, su ejecución deberá coordinarse formalizándose a través del Convenio Unico de Desarrollo, de los Convenios de Desarrollo Municipales y de los acuerdos de coordinación que de ellos emanen.
+En los casos en los que el cumplimiento de los programas que deriven del Plan Estatal de Desarrollo requiera de la concurrencia de la Administración Pública Federal o de la Municipal, su ejecución deberá coordinarse, formalizándose a través del Convenio de Desarrollo Social respectivo, de los Convenios de Desarrollo Municipales y de los acuerdos de Coordinación que ellos emanen.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 28.
 
-La integración y revisión de los Programas Operativos de las Dependencias de la Administración Pública Estatal, será responsabilidad de la Secretaría de Programación y Presupuesto del Estado.
+La integración y revisión de los programas operativos de las dependencias de la Administración Pública Estatal, serán responsabilidad de la Secretaría de Planeación y Finanzas del Estado.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 29.
 
-Cuando el Desarrollo de una región dentro del Estado, requiera que se realicen acciones de integración programática y presupuestal de los Municipios y del Estado entre sí, esta integración se efectuará por la Secretaría de Programación y Presupuesto del Estado.
+Cuando el desarrollo de una región dentro del Estado requiera que se realicen acciones de integración programática y presupuestal de los municipios y del Estado entre sí, esta integración se efectuará por la Secretaría de Planeación y Finanzas del Estado.
 
 ###### ARTICULO 30.
 
 El Ejecutivo del Estado podrá celebrar convenios con los gobiernos municipales, para que éstos coadyuven, en el ámbito de sus respectivas jurisdicciones, a la consecución de los objetivos de la Planeación Nacional y Estatal y para que las acciones a realizarse por la Federación, el Estado y los Municipios, se planeen de manera conjunta.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 31.
 
@@ -399,17 +391,17 @@ Para los efectos del artículo anterior, el Ejecutivo del Estado podrá convenir
 
 I.- Su participación directa en la Planeación Estatal o por conducto de los COPLADEM o a través de las propuestas que estimen pertinentes.
 
-II.- Los procedimientos de coordinación entre las Autoridades Estatales y Municipales para propiciar la Planeación del Desarrollo Integral de cada municipio y su congruencia con la planeación.
+II.- Los procedimientos de coordinación entre las autoridades estatales y municipales para propiciar la planeación del desarrollo de cada municipio y su congruencia con la planeación estatal;
 
-III.- El establecimiento de lineamientos y procedimientos que orienten la formulación del Programa Operativo Anual y que permitan instrumentar las políticas, objetivos y estrategias definitivas en el Plan Municipal.
+III.- El establecimiento de lineamientos y procedimientos que orienten la formulación del Programa Operativo Anual y que permitan instrumentar objetivos, estrategias, políticas y acciones del Plan de Desarrollo Municipal;
 
-IV.- Los apoyos a través del COPLADE para el establecimiento de lineamientos metodológicos que permitan al COPLADEM la eficaz coordinación de acciones para el control y evaluación permanente del Plan Municipal y del Programa Operativo Anual.
+IV.- Los apoyos a través del COPLADE para el establecimiento de lineamientos metodológicos que permitan a los COPLADEM la eficaz coordinación de acciones para el control y evaluación permanente del Plan de Desarrollo Municipal y del Programa Operativo Anual.
 
-V.- La información y asesoría técnica del COPLADE al COPLADEM para la formulación y actualización permanente del Plan Municipal, así como para incorporar los planteamientos que emanen del mismo Plan Estatal.
+V.- La información y asesoría técnica del COPLADE a los COPLADEM para la formulación y actualización de los Planes de Desarrollo Municipal, así como para incorporar los planteamientos que emanen del Plan Estatal de Desarrollo.
 
-VI.- Mecanismos de participación para la ejecución de acciones y programas de desarrollo socioeconómico que coordine el Estado con el Ejecutivo Federal, así como de aquellos Programas Estatales definidos como prioritarios para el desarrollo municipal.
+VI.- Los mecanismos de participación para la ejecución de acciones y programas de desarrollo socioeconómico que coordine el Estado con el Ejecutivo Federal, así como de aquellos programas estatales definidos como prioritarios para el desarrollo municipal; y
 
-VII.- La elaboración de Programas Subregionales.
+VII.- La elaboración de programas regionales.
 
 ###### ARTICULO 32.
 
@@ -419,13 +411,17 @@ En los Convenios a que se refiere este Capítulo, el Ejecutivo del Estado determ
 
 El Ejecutivo Estatal ordenará la publicación en el Periódico Oficial, de los Convenios que se suscriban con los gobiernos municipales.
 
-### CAPITULO V (SIC). CONCERTACION E INDUCCION
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1996)</small>
+
+### CAPITULO IV. CONCERTACION E INDUCCION
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 34.
 
-El Ejecutivo del Estado, a través de sus Dependencias y Organos Auxiliares, podrá concertar la realización de las acciones previstas en el Plan Estatal y sus Programas, con las representaciones de los grupos sociales o con los particulares.
+El Ejecutivo del Estado a través de sus dependencias y entidades, podrá concertar la realización de las acciones previstas en el Plan Estatal de Desarrollo y sus programas con las representaciones de los organismos sociales.
 
-Los Ayuntamientos podrán concertar, asimismo, con los sectores social, privado y particulares, la realización de las acciones previstas en el Plan Municipal y sus Programas.
+Asimismo, los ayuntamientos podrán concertar con los organismos sociales la realización de las acciones previstas en sus planes y programas municipales.
 
 ###### ARTICULO 35.
 
@@ -441,7 +437,9 @@ Los Programas y Presupuestos de los consejos, empresas, juntas, comisiones, comi
 
 El Plan Estatal indicará el uso selectivo de los instrumentos de política económica para inducir las acciones de los particulares para el cumplimiento de sus objetivos, políticas y estrategias.
 
-### CAPITULO VI. RESPONSABILIDADES
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1996)</small>
+
+### CAPITULO V. RESPONSABILIDADES
 
 ###### ARTICULO 38.
 
@@ -486,3 +484,11 @@ PROFR. Y LIC. CARLOS JONGUITUD BARRIOS
 El Secretario General de Gobierno,
 
 PROFR. REFUGIO ARAUJO DEL ANGEL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE AGOSTO DE 1996.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
