@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1945-02-12"
+last_updated: "1948-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 1948.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el jueves 30 de julio de 1936.
 
@@ -7213,7 +7213,7 @@ El testamento marítimo solamente producirá efectos legales si fallece el testa
 
 Si el testador desembarca en un lugar donde no haya Agente Diplomático o Consular, y no se sabe si ha muerto, ni la fecha del fallecimiento, se procederá conforme a lo dispuesto en el Título XI del Libro Primero.
 
-### CAPITULO V. De la sucesión de los hermanos y medios hermanos
+### CAPITULO V. De la sucesión de los colaterales
 
 ###### Artículo 1451.
 
@@ -7263,13 +7263,15 @@ Cuando siendo válido el testamento no debe subsistir la institución de hereder
 
 Si el testador dispone legalmente sólo de una parte de su (sic) bienes el resto de ellos forma la sucesión legítima.
 
+> <small>(REFORMADO, P.O 12 DE FEBRERO DE 1948)</small>
+
 ###### Artículo 1460.
 
 Tienen derecho a heredar por sucesión legítima:
 
-I. Los descendientes, cónyuge, ascendientes, hermanos y medios hermanos, y en ciertos casos la concubina;
+I.- Los descendientes, cónyuge, ascendientes, parientes colaterales dentro del cuarto grado y en ciertos casos la concubina.
 
-II. A falta de los anteriores la Beneficencia Pública del Estado de Michoacán.
+II.- A falta de los anteriores, el Fisco del Estado.
 
 ###### Artículo 1461.
 
@@ -7287,7 +7289,7 @@ Los parientes que se hallaren en el mismo grado heredarán por partes iguales.
 
 Las líneas y grados de parentesco se arreglarán por las disposiciones contenidas en el Capítulo Primero, Título Sexto, Libro Primero.
 
-### CAPITULO VII. De la sucesión de la Beneficencia Pública
+### CAPITULO VII. De la sucesión del Fisco del Estado
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 1939)</small>
 
@@ -7391,6 +7393,8 @@ El cónyuge recibirá las porciones que le correspondan conforme a los dos artí
 
 A falta de descendientes, ascendientes y hermanos, el cónyuge sucederá en todos los bienes.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE FEBRERO DE 1948)</small>
+
 ### CAPITULO III. De la aceptación y de la repudiación de la herencia
 
 ###### Artículo 1489.
@@ -7401,9 +7405,21 @@ Si sólo hay hermanos por ambas líneas, sucederán por partes iguales.
 
 Si concurren hermanos con medios hermanos, aquéllos heredarán doble porción que éstos.
 
+> <small>(ADICIONADO, P.O 12 DE FEBRERO DE 1948)</small>
+
+Si concurren hermanos con sobrinos, hijos de hermanos o medios hermanos premuertos, que sean incapaces de heredar o que hayan renunciado a la herencia, los primeros heredarán por cabeza y los segundos por estirpes, teniendo en cuenta lo dispuesto en el párrafo que antecede.
+
+> <small>(ADICIONADO, P.O 12 DE FEBRERO DE 1948)</small>
+
+A falta de hermanos sucederán sus hijos dividiéndose la herencia por estirpes y la porción de cada estirpe por cabezas.
+
+> <small>(REFORMADO, P.O 12 DE FEBRERO DE 1948)</small>
+
 ###### Artículo 1491.
 
-Al aplicar los dos artículos anteriores se tendrá en cuenta lo que ordena el Capítulo siguiente.
+A falta de los llamados en los artículos anteriores, sucederán los parientes más próximos dentro del cuarto grado, sin distinción de línea, ni consideración al doble vínculo y heredarán por partes iguales.
+
+Al aplicar las disposiciones anteriores, se tendrá en cuenta lo que ordena el capítulo siguiente.
 
 ### CAPITULO IV. De los albaceas
 
@@ -7419,15 +7435,19 @@ III. Si concurre con hijos que sean suyos y con hijos que el autor de la herenci
 
 IV. Si concurre con ascendientes del autor de la herencia, tendrá derecho a la cuarta parte de los bienes que forman la sucesión;
 
-V. Si concurre con hermanos o medios-hermanos, tendrá derecho a una tercera parte de los bienes que forman la sucesión.
+> <small>(REFORMADA, P.O 12 DE FEBRERO DE 1948)</small>
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 1939)</small>
+V. Si concurre con parientes colaterales dentro del cuarto grado del autor de la sucesión, tendrá derecho a una tercera parte de ésta.
 
-VI. Si el autor de la herencia no deja descendientes, ascendientes, cónyuge, hermanos ni medios hermanos, la mitad de la herencia pertenece a la concubina y la otra mitad al Fisco del Estado.
+> <small>(REFORMADA, P.O 12 DE FEBRERO DE 1948)</small>
+
+VI. Si el autor de la herencia no deja descendientes, ascendientes, cónyuge o parientes colaterales dentro dle (sic) cuarto grado, la mitad de los bienes de la sucesión pertenecerán a la concubina, y la otra mitad al Fisco del Estado.
 
 En los casos a que se refieren las fracciones II, III y IV debe observarse lo dispuesto en los artículos 1483 y 1484, si la concubina tiene bienes.
 
 Si al morir el autor de la herencia tenía varias concubinas en las condiciones mencionadas al principio de este artículo, ninguna de ellas heredará.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE FEBRERO DE 1948)</small>
 
 ### CAPITULO V. Del inventario y de la liquidación de la herencia
 
@@ -7435,11 +7455,11 @@ Si al morir el autor de la herencia tenía varias concubinas en las condiciones 
 
 A falta de todos los herederos llamados en los capítulos anteriores, sucederá el Fisco del Estado.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 1939)</small>
+REFORMADO, P.O 12 DE FEBRERO DE 1948)
 
 ###### Artículo 1494.
 
-Cuando sea heredero el Fisco del Estado, los bienes designados se venderán en los términos que señalan las disposiciones relativas del Código Fiscal o sus concordantes.
+Cuando sea heredero el Fisco del Estado al causar estado la declaratoria de herederos, se venderán los bienes yacentes en los términos de los artículos 63, 64 y 65 del Código Fiscal.
 
 ## TITULO PRIMERO. Fuentes de las obligaciones
 
@@ -14324,3 +14344,9 @@ Los artículos 1069 y 1071, que se refieren a la prescripción adquisitiva, se a
 ###### ARTICULO TERCERO.
 
 Esta Ley empezará a regir desde el día de su publicación en el Periódico Oficial del Gobierno.
+
+P.O. 12 DE FEBRERO DE 1948.
+
+###### ARTICULO UNICO.
+
+La presente Ley empezará a regir a partir del día siguiente de su publicación en el Periódico Oficial.
