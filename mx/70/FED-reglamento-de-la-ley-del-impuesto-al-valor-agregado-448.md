@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-impuesto-al-valor-agregado-448"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-02-29"
-last_updated: "1997-12-29"
+last_updated: "1999-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=448&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1984-02-28"
 
 REGLAMENTO DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE MARZO DE 1999.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 29 de febrero de 1984.
 
@@ -91,13 +91,9 @@ Para determinar el pago provisional a que se refiere el artículo 5o. de la Ley,
 
 Cuando en la declaración de pago provisional de que se trate se omita el acreditamiento correspondiente, éste podrá llevarse a cabo en la declaración del período siguiente o en la del ejercicio. Lo dispuesto en este párrafo es sin perjuicio del derecho que tienen los contribuyentes de presentar declaraciones complementarias.
 
-> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
-
 ###### ARTICULO 13.
 
-Para determinar el impuesto acreditable del periodo por el que se efectúa el pago provisional o del ejercicio, se sumará el impuesto que de conformidad con la Ley hubiera sido trasladado al contribuyente y el que haya pagado con motivo de la importación de bienes o servicios, en el propio periodo por el cual se efectúa el pago provisional o en el ejercicio, siempre que se reúnan los requisitos que señala el artículo 4o. de la Ley.
-
-Si el contribuyente está obligado al pago del impuesto sólo por una parte de sus actividades, deberá identificar los gastos e inversiones que se efectuaron en el periodo por el cual se realiza el pago provisional o en el ejercicio para realizar dicha parte, y considerará como impuesto acreditable de dicho periodo o del ejercicio, el que le hubiera sido trasladado y el que haya pagado en sus importaciones con motivo de sus gastos e inversiones; cuando no pueda identificar el destino de parte de sus gastos e inversiones, además del impuesto identificable acreditará el impuesto no identificable en la proporción que represente el valor de las actividades por las que esté obligado al pago del impuesto, en el valor del total de sus actividades.
+(DEROGADO, D.O.F. 19 DE MARZO DE 1999)
 
 ###### ARTICULO 14.
 
@@ -109,11 +105,11 @@ Del impuesto del ejercicio se deducirán los pagos provisionales determinados co
 
 (DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 15.
 
-Para calcular el impuesto acreditable del periodo por el cual se efectúa el pago provisional o del ejercicio en los términos del artículo 13 de este Reglamento, no se incluirá el valor de los actos o actividades siguientes:
+Con relación al artículo 4o. de la Ley y para calcular el impuesto acreditable del periodo por el cual se efectúa el pago provisional o del ejercicio, no se incluirá el valor de los actos o actividades siguientes:
 
 I.- Enajenación del suelo, salvo que sea parte del activo circulante del contribuyente, aun cuando se haga a través de certificados de participación inmobiliaria.
 
@@ -133,9 +129,9 @@ No es aplicable la fracción II de este artículo a las personas morales que per
 
 No son aplicables las fracciones III, IV y V de este artículo a las instituciones de crédito, de seguros, de fianzas y para el depósito de valores, a las casas de cambio, a las sociedades de inversión y organizaciones auxiliares del crédito.
 
-> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1999)</small>
 
-Las casas de bolsa, para determinar el impuesto acreditable a que se refiere este artículo, considerarán dentro del valor de sus actividades, la diferencia entre los ingresos que perciban por concepto de intereses, premios de reporto y compraventa de valores, y los pagos que efectúen por dichos conceptos.
+Las casas de bolsa, así como los contribuyentes a que se refiere el párrafo anterior, para determinar el impuesto acreditable a que se refiere este artículo, podrán optar por considerar dentro del valor de sus actividades, la diferencia entre los ingresos que perciban por concepto de premios de reporto y compraventa de valores, y los pagos que efectúen por dichos conceptos.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE MAYO DE 1990)</small>
 
@@ -395,25 +391,13 @@ El aprovechamiento en el extranjero de servicios prestados por personas resident
 
 Para los efectos del artículo 29 fracción V de la Ley, se entiende por transportación internacional de bienes, la que en los términos del artículo 16 de la propia Ley, no se presta en territorio nacional, incluyendo la que se realiza entre dos puntos ubicados en el extranjero.
 
-> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
-
 ###### ARTICULO 45-A.
 
-Para los efectos del artículo 31 de la Ley, las personas residentes en el país que enajenen bienes sujetos al régimen de importación temporal en los términos de la Ley Aduanera, a empresas de comercio exterior o aquellas catalogadas como maquiladoras de exportación, deberán entregar copia del pedimento de importación que ampara dichos bienes a la empresa a la cual le sean enajenados, en el momento en que se efectúe la enajenación respectiva, de conformidad con el artículo 11 de la Ley.
-
-> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+(DEROGADO, D.O.F. 19 DE MARZO DE 1999)
 
 ###### ARTICULO 45-B.
 
-Los proveedores nacionales de las empresas de comercio exterior y de las maquiladoras de exportación, podrán aplicar la tasa del 0%, en las enajenaciones de bienes que realicen a dichos contribuyentes, siempre que éstos cumplan con los siguientes requisitos:
-
-I.- Realicen el trámite de la importación temporal por conducto de agente o apoderado aduanal, sin que sea necesaria la presentación física de las mercancías ante la autoridad aduanera.
-
-II.- Efectúen el trámite de la importación temporal dentro de los quince días siguientes a aquél en el que hubieran adquirido las mercancías de que se trate, debiendo entregar una copia del pedimento respectivo a su proveedor.
-
-Para los efectos de este artículo, se podrá incluir en un solo pedimento de importación temporal, todas las operaciones de un mismo proveedor, pudiendo descargarlo en los pedimentos de exportación que se presenten ante la aduana de despacho de las mercancías.
-
-Las empresas de comercio exterior o las maquiladoras de exportación podrán aplicar la tasa del 0%, siempre que entreguen a sus proveedores copia de la documentación oficial que les expidan las autoridades competentes que las acrediten como tales, a fin de que éstos anoten en los comprobantes que expidan el número de registro de la empresa de comercio exterior o maquiladora de exportación.
+(DEROGADO, D.O.F. 19 DE MARZO DE 1999)
 
 ### CAPITULO VII. De las Obligaciones de los Contribuyentes
 
@@ -558,3 +542,7 @@ SEGUNDO.- Las casas de bolsa podrán calcular el impuesto acreditable en los té
 D.O.F. 29 DE DICIEMBRE DE 1997.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE MARZO DE 1999.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
