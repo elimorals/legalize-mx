@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "1936-01-10"
+last_updated: "1939-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-12-30"
 
 LEY ORGANICA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1939.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -569,6 +569,10 @@ III.- Cuando durante el juicio apareciere o sobreviniese alguna de las causas de
 
 IV.- Cuando de las constancias de autos apareciere claramente demostrado que no existe el acto reclamado, o cuando no se probare su existencia en la audiencia a que se refiere el artículo 155 le (sic) esta ley.
 
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1939)</small>
+
+V.- En los amparos promovidos en materia civil, en que se versan sólo intereses de particulares, y de que conozca la Suprema Corte de Justicia directamente, cuando transcurran cuatro meses sin que los quejosos gestionen por escrito ante la misma Suprema Corte la continuación de la tramitación o la resolución del juicio.
+
 Cuando hayan cesado los efectos del acto reclamado o cuando hayan ocurrido causas notorias de sobreseimiento, la parte quejosa y la autoridad o autoridades responsables están obligadas a manifestarlo así, y si no cumplen esa obligación, se les podrá imponer una multa de diez a trescientos pesos, según las circunstancias del caso.
 
 ###### ARTICULO 75.
@@ -642,6 +646,10 @@ El recurso de revisión se interpondrá por escrito, en el que el recurrente exp
 Cuando el recurrente interponga la revisión ante el juez de Distrito o autoridad que conozca o haya conocido del juicio, deberá exhibir una copia del escrito de expresión de agravios para el expediente y una para cada una de las otras partes. Si interpusiere el recurso directamente ante la Suprema Corte de Justicia, deberá hacerlo saber, bajo protesta de decir verdad, al juez o autoridad que haya dictado la resolución recurrida, acompañando las copias necesarias del escrito de revisión, como en el caso anterior.
 
 Cuando falten total o parcialmente las copias a que se refiere el párrafo anterior, se requerirá al recurrente para que presente las omitidas dentro del término de tres días. Si no las exhibiere, el juez de Distrito o autoridad que corresponda tendrá por no interpuesto el recurso, o lo hará saber a la Suprema Corte de Justicia en el caso de que el recurrente hubiese interpuesto la revisión directamente ante ella.
+
+(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1939) (F. DE. E., D.O.F. 27 DE ENERO DE 1940)
+
+Tratándose de amparos civiles en que el recurso de revisión se haya propuesto por particulares en defensa de sus intereses privados, se les tendrá como tácitamente desistidos del recurso si dejan transcurrir cuatro meses sin gestionar por escrito ante la Corte la continuación de la tramitación o la resolución de los mismos.
 
 ###### ARTICULO 86.
 
@@ -1546,3 +1554,9 @@ Sufragio Efectivo. No Reelección.
 México, D. F., a 8 de enero de 1936.- El Secretario de Gobernación, Silvano Barba González.- Rúbrica.
 
 Al C...
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 30 DE DICIEMBRE DE 1939.
+
+UNICO.- Respecto a la primera gestión en los amparos pendientes ante la Suprema Corte, el plazo de cuatro meses que esta Ley señala comenzará a correr treinta días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
