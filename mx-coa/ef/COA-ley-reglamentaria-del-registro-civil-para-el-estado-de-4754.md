@@ -4,7 +4,7 @@ identifier: "COA-ley-reglamentaria-del-registro-civil-para-el-estado-de-4754"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "1989-04-14"
+last_updated: "1999-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY REGLAMENTARIA DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1999
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 31 de diciembre de 1975.
 
@@ -120,6 +120,10 @@ DE LA DIRECCION ESTATAL DEL REGISTRO CIVIL.
 ###### Art. 9.
 
 La Dirección Estatal del Registro Civil, que dependerá directamente de la Secretaría General de Gobierno, será el órgano del Poder Ejecutivo al que corresponderá la organización, dirección y administración de las Oficinas del Registro Civil, y tendrá su sede en la capital del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1999)</small>
+
+Los funcionarios a que hace referencia la presente ley, que cuenten con título de licenciado en derecho, no podrán ejercer el mandato judicial y el ejercicio de la profesión de abogado, en asuntos en que haya contienda; y su función es incompatible con la actividad de comerciante, agente de cambio, corredor público o ministro de cualquier culto. Se exceptúan de lo anterior, los cargos docentes, asistenciales y electorales.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
@@ -1007,6 +1011,10 @@ V. Cuando se haga pública o notoria su mala conducta.
 
 Son causas de destitución del Director, del Subdirector, del Oficial Mayor, de los Registradores y del Jefe del Archivo de la Dirección Estatal del Registro Civil, las que se mencionan en las fracciones III, IV y V, del artículo anterior. También habrá lugar a la destitución del Director cuando teniendo conocimiento, no informe al Gobernador, por conducto de la Secretaría General de Gobierno, de las faltas cometidas por los Oficiales Registradores, que ameriten remoción del cargo.
 
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1999)</small>
+
+Son causas de destitución de los funcionarios del Registro Civil, la infracción del segundo párrafo del artículo 9 de esta ley.
+
 > <small>(REFORMADO, P.O. 14 DE ABRIL DE 1989)</small>
 
 ###### Art. 115.
@@ -1017,7 +1025,7 @@ Los Oficiales que expidan constancias o testimonios inexactos, o que no concuerd
 
 ###### Art. 116.
 
-Los Oficiales que autoricen actas o asienten hechos del estado civil, fuera de las circunscripción territorial que les corresponda, o cobren honorarios superiores a los autorizados en la tarifa oficial, serán sancionados con una multa de cinco a cincuenta días de salario mínimo vigente en la capital del Estado, y en caso de reincidencia, con la remoción del cargo.
+Los Oficiales que autoricen actas o asienten hechos del estado civil, fuera de la circunscripción territorial que les corresponda, o cobren honorarios superiores a los autorizados en la tarifa oficial, serán sancionados con una multa de cinco a cincuenta días de salario mínimo vigente en la capital del Estado, y en caso de reincidencia, con la remoción del cargo.
 
 > <small>(REFORMADO, P.O. 14 DE ABRIL DE 1989)</small>
 
@@ -1112,3 +1120,7 @@ Se derogan todas las disposiciones legales que se opongan al presente decreto.
 ###### ARTICULO TERCERO.
 
 Los ficheros de control y el libro de familia a que refieren los artículos 14 y 26, se implementarán, una vez que sean autorizadas las formas oficiales.
+
+P.O. 25 DE JUNIO DE 1999.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
