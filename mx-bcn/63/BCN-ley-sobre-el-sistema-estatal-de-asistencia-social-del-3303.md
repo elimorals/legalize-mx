@@ -4,7 +4,7 @@ identifier: "BCN-ley-sobre-el-sistema-estatal-de-asistencia-social-del-3303"
 country: "mx"
 rank: "ley"
 publication_date: "1986-11-10"
-last_updated: "1998-01-23"
+last_updated: "1998-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1998.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 10 de noviembre de 1986.
 
@@ -251,6 +251,38 @@ XXI.- Las demás que establezcan las disposiciones aplicables en la materia.
 
 El Organismo contará con la Procuraduría para la Defensa del Menor y la Familia, como un órgano técnico especializado de protección jurídica a la integridad familiar, a los menores, a los ancianos y minusválidos sin recursos, la cual tendrá las facultades que su mismo acuerdo de creación le asigne dentro de los objetivos de este Sistema para el Desarrollo Integral de la Familia de Baja California, y las que le otorguen las demás Leyes del Estado.
 
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+La Procuraduría residirá en la Capital del Estado, y funcionará en cada Municipio del Estado a través de Subprocuradurías, con el personal suficiente para cubrir las necesidades que demande el cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+ARTICULO 18 BIS.- La Procuraduría para la Defensa del Menor y la Familia tendrá las siguientes atribuciones:
+
+I.- Prestar servicios de asesoría y representación jurídica al menor, ancianos y minusválidos sin recursos, preferentemente cuando se afecten intereses de los primeros y de las familias, cuando se atente contra su seguridad o integridad;
+
+II.- Proporcionar orientación jurídica en general, tendiente a solucionar los conflictos que pongan en peligro la integración familiar;
+
+III.- Realizar estudios jurídicos referentes a menores, ancianos, minusválidos y a la familia;
+
+IV.- Promover investigaciones y trámites especiales a solicitud del Poder Judicial y fungir como órgano de consulta a particulares en derecho familiar;
+
+V.- Auxiliar al Ministerio Público en la protección de incapaces y en los procedimientos civiles y familiares en que se les de vista conforme a la Ley;
+
+VI.- Difundir el tipo de servicio que se presta en la Procuraduría y cuales son sus propósitos y funciones para el beneficio de las familias;
+
+VII.- Promover la regularización de los actos o hechos inherentes al Registro Civil, de conformidad con las disposiciones jurídicas aplicables especialmente cuando se trate de actas de nacimientos, matrimonios y adopciones;
+
+VIII.- Intervenir en el ejercicio de la tutela de los menores que correspondan al Estado, en los términos de las leyes respectivas;
+
+IX.- Estudiar y proponer políticas generales tendientes a prevenir conductas antisociales de menores;
+
+X.- Elaborar y entregar mensualmente un control de actividades a la Dirección Operativa;
+
+XI.- Coordinar, supervisar y evaluar las Subprocuradurías Municipales y mantener informada a la Dirección Operativa el desarrollo de las mismas, y
+
+XII. Las demás que se deriven de esta Ley y su Reglamento.
+
 ###### ARTICULO 19.
 
 En casos de desastre, como inundaciones, terremotos, derrumbes, explosiones, incendios y otros de la misma naturaleza por los que se causen daños a la población, el Organismo, sin perjuicio de las atribuciones que en auxilio de los damnificados lleven a cabo otras Dependencias y Entidades de la Administración Pública Federal, Estatal o Municipal, promoverá la atención y coordinación de las acciones de los distintos sectores sociales que actuen en beneficio de aquéllos, en el ámbito de su competencia.
@@ -313,13 +345,39 @@ V.- Las demás que sean necesarias para el ejercicio de las facultades anteriore
 
 El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias que se requieran de conformidad con el Reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
 ###### ARTICULO 26.
 
-La Junta de Gobierno estará integrada por el Presidente del Patronato del Organismo, será designado por el Gobernador del Estado, el Titular de los Servicios Coordinados de Salud Pública, o el Titular de la Secretaría de Salud del Estado, el Secretario General de Gobierno, el Secretario de Planeación y Presupuesto, el Secretario de Finanzas, el Secretario de Educación y Bienestar Social, Procurador General de Justicia del Estado, Director del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Secretario de Asentamientos Humanos y Obras Públicas del Estado, el Secretario de Fomento Agropecuario del Estado y el Director General del Organismo.
+La Junta de Gobierno del Organismo estará integrada por:
+
+I.- El Director General del Organismo;
+
+II.- El Secretario General de Gobierno;
+
+III.- El Director del Instituto de Servicios de Salud;
+
+IV.- El Secretario de Planeación y Finanzas;
+
+V.- El Secretario de Educación y Bienestar Social;
+
+VI.- El Procurador General de Justicia;
+
+VII.- El Presidente del Patronato del Organismo, y
+
+VIII.- Cuatro ciudadanos que representen a la sociedad, los cuales serán designados conforme lo establezca esta Ley y su Reglamento.
 
 Los miembros de la Junta de Gobierno serán suplidos por los funcionarios que legalmente estén facultados para ejercer atribuciones del Titular en su ausencia.
 
+Tratándose de los miembros que señala la fracción VIII de este artículo, se suplirán dichas ausencias por quienes se lleguen a designar previamente al momento de que soliciten formar parte de la Junta.
+
 La Junta de Gobierno contará con un Secretario Técnico, designado por la misma, a propuesta del Director General.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+ARTICULO 26 BIS.- Para la designación de los ciudadanos que tengan interés en participar como miembros de la Junta de Gobierno, el Director General deberá lanzar convocatoria dirigida a las asociaciones y sociedades civiles dedicadas a la beneficencia privada y a la asistencia social, así como a la sociedad en general, con el fin de que soliciten integrar esta Junta.
+
+El Reglamento interno del Organismo regulará los procedimientos de designación, pero en caso de que por cualquier causa no sea posible integrar a los representantes y sus respectivos suplentes, la Junta nombrará a los ciudadanos que reúnan el perfil para integrar la misma.
 
 ###### ARTICULO 27.
 
@@ -414,6 +472,10 @@ El Organismo recomendará y promoverá el establecimiento de Organismos similare
 ###### ARTICULO 35.
 
 El Gobierno del Estado y el Organismo, conforme a sus respectivos ámbitos de competencia promoverán que las Dependencias y Entidades del Estado y de los Municipios destinen los recursos necesarios a los Programas de Servicios de Salud en Materia de Asistencia Social.
+
+(ADICIONA UN SEGUNDO PARRAFO, P.O. 6 DE NOVIEMBRE DE 1998)
+
+El Organismo deberá asignar en el proyecto de Presupuesto de Egresos que corresponde al Sistema para el Desarrollo Integral de la Familia, las cantidades económicas necesarias y convenientes para atender los requerimientos en materia de asistencia social y desarrollo integral de la familia en el Estado, así como para garantizar de manera subsidiaria la protección nutricional de los menores conforme a lo dispuesto por el segundo párrafo del artículo 7° de la Constitución Política del Estado Libre y Soberano de Baja California.
 
 ###### ARTICULO 36.
 
@@ -566,3 +628,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publi
 SEGUNDO. Quedan sin efecto todas las disposiciones que se oponga a la entrada en vigor de este Decreto.
 
 TERCERO. El ejecutivo del Estado hará la revisión, adecuación y publicación al Reglamento de esta Ley, en un plazo que no excederá de 60 días naturales posteriores a la publicación de este Decreto.
+
+P.O. 6 DE NOVIEMBRE DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación, en el Periódico Oficial de Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las disposiciones legales y reglamentarias que se opongan al presente decreto de reforma y adición, deberán ser modificadas a los quince días siguientes al de su entrada en vigor.
