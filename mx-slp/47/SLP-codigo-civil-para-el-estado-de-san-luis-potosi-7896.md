@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "1967-12-24"
+last_updated: "1968-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 1968.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -4821,81 +4821,57 @@ ART. 1632.- Los contratos se perfeccionan por el mero consentimiento; excepto aq
 
 ART. 1633.- La validez y el cumplimiento de los contratos no puede dejarse al arbitrio de uno de los contratantes.
 
-Representación
+Vicios del Consentimiento
 
-ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
+ART. 1648.- El consentimiento no es válido si ha sido dado por error, arrancando por violencia o sorprendido por dolo.
 
-ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
+ART. 1649.- El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo determinante de la voluntad de cualquiera de los que contratan, si en el acto de la celebración se declara ese motivo o si se prueba por las circunstancias del mismo contrato que se celebró éste en el falso supuesto que lo motivó y no por otra causa.
 
-ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
+ART. 1650.- El error de cálculo sólo da lugar a que se rectifique.
 
-Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
+ART. 1651.- Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes, y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
 
-Del Consentimiento
+ART. 1652.- El dolo o mala fe de una de las partes y el dolo que proviene de un tercero, sabiéndolo aquélla, anulan el contrato si ha sido la causa determinante de este acto jurídico.
 
-ART. 1639.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por la Ley o por convenio la voluntad deba manifestarse expresamente.
+ART. 1653.- Si ambas partes proceden con dolo, ninguna de ellas puede alegar la nulidad del acto o reclamarse indemnizaciones.
 
-ART. 1640.- Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
+ART. 1654.- Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
 
-ART. 1641.- Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono.
+ART. 1655.- Hay violencia cuando se emplea fuerza física o amenaza que importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, de sus descendientes o de sus parientes colaterales dentro del segundo grado.
 
-ART. 1642.- Cuando la oferta se haga sin fijación de plazo a una persona no presente, el autor de la oferta quedará ligado durante tres días, además del tiempo necesario para la ida y vuelta regular del correo público, o del que se juzgue bastante, no habiendo correo público, según las distancias y la facilidad o dificultad de las comunicaciones.
+ART. 1656.- El temor reverencial, esto es, el sólo temor de desagradar a las personas a quienes se debe sumisión y respeto, no basta para viciar el consentimiento.
 
-ART. 1643.- El contrato se forma en el momento en que el proponente reciba la aceptación, estando ligado por su oferta según los artículos precedentes.
+ART. 1657.- Las consideraciones generales que los contratantes expusieren sobre los provechos y perjuicios que naturalmente pueden resultar de la celebración o no celebración del contrato, y que no importen engaño o amenaza alguna de las partes, no serán tomadas en cuenta al calificar el dolo o la violencia.
 
-ART. 1644.- La oferta se considerará como no hecha si la retira su autor y el destinatario recibe la retractación antes que la oferta. La misma regla se aplica al caso en que se refiere la aceptación.
+ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la violencia.
 
-ART. 1645.- Si al tiempo de la aceptación hubiere fallecido el proponente, sin que el aceptante fuere sabedor de su muerte, quedarán los herederos de aquél obligados a sostener el contrato.
+ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
 
-ART. 1646.- El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considerará como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
+Interpretación
 
-ART. 1647.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
+ART. 1687.- Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
 
-Del objeto y del motivo o fin de los Contratos
+Si las palabras parecieren contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquéllas.
 
-ART. 1660.- Son objeto de los contratos:
+ART. 1689 (SIC).- Cualquiera que se la generalidad de los términos de un contrato, no deberán entenderse comprendidos en él cosas distintas y casos diferentes de aquellos sobre los que los interesados se propusieron contratar.
 
-I.- La cosa que el obligado debe dar;
+ART. 1689.- Si alguna cláusula de los contratos admitiere diversos sentidos, deberá entenderse en el más adecuado para que produzca efecto.
 
-II.- El hecho que el obligado debe hacer o no hacer.
+ART. 1690.- Las cláusulas de los contratos deben interpretarse las unas por las otras, atribuyendo a las dudosas el sentido que resulte del conjunto de todas.
 
-ART. 1661.- La cosa objeto del contrato debe: 1o. Existir en la naturaleza. 2o. Ser determinada o determinable en cuanto a su especie. 3o. Estar en el comercio.
+ART. 1691.- Las palabras que pueden tener distintas aceptaciones serán entendidas en aquélla que sea más conforme a la naturaleza y objeto del contrato.
 
-ART. 1662.- Las cosas futuras pueden ser objeto de un contrato. Sin embargo, no puede serlo la herencia de una persona viva, aun cuando ésta preste su consentimiento.
+ART. 1692.- El uso o la costumbre se tendrán en cuenta para interpretar las ambigüedades de los contratos.
 
-ART. 1663.- El hecho positivo o negativo, objeto del contrato, debe ser:
+ART. 1693.- Cuando absolutamente fuere imposible resolver las dudas por las reglas establecidas en los artículos precedentes, si aquéllas recaen sobre circunstancias accidentales del contrato, y éste fuere gratuito, se resolverá en favor de la menor transmisión de derechos e intereses; si fuere oneroso se resolverá la duda en favor de la mayor reciprocidad de intereses.
 
-I.- Posible;
+Si las dudas de cuya resolución se trata en este artículo recayesen sobre el objeto principal del contrato, de suerte que no pueda venirse en conocimiento de cual fue la intención o la voluntad de los contratantes, el contrato será nulo.
 
-II.- Lícito.
+De la Capacidad
 
-ART. 1664.- Es imposible el hecho que no puede existir porque es incompatible con una ley de la naturaleza o con una norma jurídica que debe regirlo necesariamente y que constituye un obstáculo insuperable para su realización.
+ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
 
-ART. 1665.- No se considerará imposible el hecho que no pueda ejecutarse por el obligado, pero sí por otra persona en lugar de él.
-
-ART. 1666.- Es ilícito el hecho que es contrario a las leyes de orden público o a las buenas costumbres.
-
-ART. 1667.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público ni a las buenas costumbres.
-
-Forma
-
-ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
-
-ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
-
-ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
-
-Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
-
-División de los Contratos
-
-ART. 1671.- El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada.
-
-ART. 1672.- El contrato es bilateral cuando las partes se obligan recíprocamente.
-
-ART. 1673.- Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
-
-ART. 1674.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la elevación de la ganancia o pérdida, sino hasta que ese acontecimiento se realice.
+ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
 
 Cláusulas que pueden contener los Contratos
 
@@ -4927,31 +4903,71 @@ ART. 1685.- En el caso del artículo anterior, cada uno de los herederos respond
 
 ART. 1686.- Tratándose de obligaciones indivisibles, se observará lo dispuesto en el artículo 1840.
 
-Interpretación
+Del Consentimiento
 
-ART. 1687.- Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
+ART. 1639.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por la Ley o por convenio la voluntad deba manifestarse expresamente.
 
-Si las palabras parecieren contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquéllas.
+ART. 1640.- Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
 
-ART. 1689 (SIC).- Cualquiera que se la generalidad de los términos de un contrato, no deberán entenderse comprendidos en él cosas distintas y casos diferentes de aquellos sobre los que los interesados se propusieron contratar.
+ART. 1641.- Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono.
 
-ART. 1689.- Si alguna cláusula de los contratos admitiere diversos sentidos, deberá entenderse en el más adecuado para que produzca efecto.
+ART. 1642.- Cuando la oferta se haga sin fijación de plazo a una persona no presente, el autor de la oferta quedará ligado durante tres días, además del tiempo necesario para la ida y vuelta regular del correo público, o del que se juzgue bastante, no habiendo correo público, según las distancias y la facilidad o dificultad de las comunicaciones.
 
-ART. 1690.- Las cláusulas de los contratos deben interpretarse las unas por las otras, atribuyendo a las dudosas el sentido que resulte del conjunto de todas.
+ART. 1643.- El contrato se forma en el momento en que el proponente reciba la aceptación, estando ligado por su oferta según los artículos precedentes.
 
-ART. 1691.- Las palabras que pueden tener distintas aceptaciones serán entendidas en aquélla que sea más conforme a la naturaleza y objeto del contrato.
+ART. 1644.- La oferta se considerará como no hecha si la retira su autor y el destinatario recibe la retractación antes que la oferta. La misma regla se aplica al caso en que se refiere la aceptación.
 
-ART. 1692.- El uso o la costumbre se tendrán en cuenta para interpretar las ambigüedades de los contratos.
+ART. 1645.- Si al tiempo de la aceptación hubiere fallecido el proponente, sin que el aceptante fuere sabedor de su muerte, quedarán los herederos de aquél obligados a sostener el contrato.
 
-ART. 1693.- Cuando absolutamente fuere imposible resolver las dudas por las reglas establecidas en los artículos precedentes, si aquéllas recaen sobre circunstancias accidentales del contrato, y éste fuere gratuito, se resolverá en favor de la menor transmisión de derechos e intereses; si fuere oneroso se resolverá la duda en favor de la mayor reciprocidad de intereses.
+ART. 1646.- El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considerará como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
 
-Si las dudas de cuya resolución se trata en este artículo recayesen sobre el objeto principal del contrato, de suerte que no pueda venirse en conocimiento de cual fue la intención o la voluntad de los contratantes, el contrato será nulo.
+ART. 1647.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
 
-Disposiciones Finales
+Forma
 
-ART. 1694.- Los contratos que no están especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
+ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
 
-ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
+ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
+
+ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
+
+Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
+
+División de los Contratos
+
+ART. 1671.- El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada.
+
+ART. 1672.- El contrato es bilateral cuando las partes se obligan recíprocamente.
+
+ART. 1673.- Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
+
+ART. 1674.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la elevación de la ganancia o pérdida, sino hasta que ese acontecimiento se realice.
+
+Del objeto y del motivo o fin de los Contratos
+
+ART. 1660.- Son objeto de los contratos:
+
+I.- La cosa que el obligado debe dar;
+
+II.- El hecho que el obligado debe hacer o no hacer.
+
+ART. 1661.- La cosa objeto del contrato debe: 1o. Existir en la naturaleza. 2o. Ser determinada o determinable en cuanto a su especie. 3o. Estar en el comercio.
+
+ART. 1662.- Las cosas futuras pueden ser objeto de un contrato. Sin embargo, no puede serlo la herencia de una persona viva, aun cuando ésta preste su consentimiento.
+
+ART. 1663.- El hecho positivo o negativo, objeto del contrato, debe ser:
+
+I.- Posible;
+
+II.- Lícito.
+
+ART. 1664.- Es imposible el hecho que no puede existir porque es incompatible con una ley de la naturaleza o con una norma jurídica que debe regirlo necesariamente y que constituye un obstáculo insuperable para su realización.
+
+ART. 1665.- No se considerará imposible el hecho que no pueda ejecutarse por el obligado, pero sí por otra persona en lugar de él.
+
+ART. 1666.- Es ilícito el hecho que es contrario a las leyes de orden público o a las buenas costumbres.
+
+ART. 1667.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público ni a las buenas costumbres.
 
 ### CAPITULO II. De la declaración unilateral de la voluntad
 
@@ -5237,37 +5253,21 @@ De las Obligaciones en General
 
 ## TITULO PRIMERO. Fuentes de las Obligaciones
 
-Vicios del Consentimiento
+Representación
 
-ART. 1648.- El consentimiento no es válido si ha sido dado por error, arrancando por violencia o sorprendido por dolo.
+ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
 
-ART. 1649.- El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo determinante de la voluntad de cualquiera de los que contratan, si en el acto de la celebración se declara ese motivo o si se prueba por las circunstancias del mismo contrato que se celebró éste en el falso supuesto que lo motivó y no por otra causa.
+ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
 
-ART. 1650.- El error de cálculo sólo da lugar a que se rectifique.
+ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
 
-ART. 1651.- Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes, y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
+Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
 
-ART. 1652.- El dolo o mala fe de una de las partes y el dolo que proviene de un tercero, sabiéndolo aquélla, anulan el contrato si ha sido la causa determinante de este acto jurídico.
+Disposiciones Finales
 
-ART. 1653.- Si ambas partes proceden con dolo, ninguna de ellas puede alegar la nulidad del acto o reclamarse indemnizaciones.
+ART. 1694.- Los contratos que no están especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
 
-ART. 1654.- Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
-
-ART. 1655.- Hay violencia cuando se emplea fuerza física o amenaza que importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, de sus descendientes o de sus parientes colaterales dentro del segundo grado.
-
-ART. 1656.- El temor reverencial, esto es, el sólo temor de desagradar a las personas a quienes se debe sumisión y respeto, no basta para viciar el consentimiento.
-
-ART. 1657.- Las consideraciones generales que los contratantes expusieren sobre los provechos y perjuicios que naturalmente pueden resultar de la celebración o no celebración del contrato, y que no importen engaño o amenaza alguna de las partes, no serán tomadas en cuenta al calificar el dolo o la violencia.
-
-ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la violencia.
-
-ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
-
-De la Capacidad
-
-ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
-
-ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
+ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
 
 ### CAPITULO III. De las Obligaciones Conjuntivas y Alternativas
 
@@ -7241,7 +7241,9 @@ De las Asociaciones y de las Sociedades
 
 I.- De las Asociaciones
 
-ART. 2499.- Cuando un número no menor de veinte individuos convinieren en reunirse, de manera que no sea enteramente transitoria, para realizar un fin común que no esté prohibido por la Ley y que no tenga carácter preponderantemente económico, constituyen una asociación.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1968)</small>
+
+ART. 2499.- Cuando más de tres individuos convienen en reunirse, de manera que no sea enteramente transitoria, para realizar un fin común que no esté prohibido por la Ley y que no tenga carácter preponderantemente económico, constituyen una asociación.
 
 ART. 2500.- El contrato por el que se constituya una asociación, debe constar por escrito.
 
@@ -7251,7 +7253,9 @@ ART. 2502.- Las asociaciones se regirán por sus estatutos, los que deberán ser
 
 ART. 2503.- El poder supremo de las asociaciones reside en la asamblea general. El director o directores de ellas tendrán las facultades que les conceden los estatutos y la asamblea general, con sujeción a estos documentos.
 
-ART. 2504.- La asamblea general se reunirá en la época fijada los estatutos o cuando sea convocada por la dirección. Esta deberá citar a asamblea cuando para ello fuere requerida por lo menos por el cinco por ciento de los asociados, o si no lo hiciere, en su lugar lo hará el juez de lo civil a petición de dichos asociados.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1968)</small>
+
+ART. 2504.- La asamblea general se reunirá en la época fijada por los Estatutos o cuando sea convocada por la dirección. Esta deberá citar a asamblea cuando para ello fuere requerida por más de un asociado, si no lo hiciere, en su lugar lo hará el Juez de lo Civil a petición de dichos asociados. El Director tendrá voto de calidad.
 
 ART. 2505.- La asamblea general resolverá:
 
@@ -8580,3 +8584,7 @@ El presente Decreto entrará en vigor el día 1o. de enero de 1968.
 ###### ARTICULO SEGUNDO.
 
 Las escrituras en trámite en las oficinas del Registro Público de la Propiedad y de Comercio en el Estado, al entrar en vigor este Decreto, no requerirán el certificado de gravámenes expresado.
+
+P.O. 25 DE ENERO DE 1968.
+
+UNICO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
