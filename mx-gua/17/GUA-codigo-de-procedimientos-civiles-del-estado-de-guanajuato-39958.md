@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1991-03-29"
+last_updated: "1991-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 1991.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -177,17 +177,11 @@ El tribunal que resuelva la incompetencia declarará de oficio la nulidad.
 
 Competencia por materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1991)</small>
 
 ###### Art. 23.
 
-Los Jueces Menores son competentes para conocer exclusivamente de los negocios, contenciosos cuya cuantía no sea mayor de la cantidad que resulte de multiplicar por setenta y cinco veces el salario mínimo general diario obligatorio más alto vigente en el Estado de Guanajuato.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1968)</small>
-
-En ningún caso podrán conocer de reclamaciones contra la Federación, el Estado o los Municipios.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ABRIL DE 1981)</small>
+Los Jueces Menores son competentes para conocer exclusivamente de negocios, contenciosos cuya cuantía no sea mayor de la cantidad que resulte de multiplicar por quinientos el salario mínimo general diario más alto vigente en el Estado de Guanajuato.
 
 Cuando se modifique la competencia en razón de la cuantía, seguirán conociendo de los asuntos en trámite los jueces ante los que se plantearon.
 
@@ -4914,6 +4908,12 @@ P.O. 19 DE DICIEMBRE DE 1989.
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 29 DE MARZO DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE AGOSTO DE 1991.
 
 ###### ARTICULO UNICO.
 
