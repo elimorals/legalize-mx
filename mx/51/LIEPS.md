@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1985-12-31"
+last_updated: "1986-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 1986.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -218,7 +218,9 @@ El derecho al acreditamiento es personal para los contribuyentes de este impuest
 
 El impuesto se calculará por ejercicios fiscales, excepto en el caso de importaciones ocasionales de bienes en el que se estará a lo dispuesto en el artículo 16 de esta Ley.
 
-Los contribuyentes efectuarán pagos provisionales a más tardar el día 20 de cada uno de los meses del ejercicio, mediante declaración que presentarán en las oficinas autorizadas. El pago provisional será la diferencia entre el impuesto que corresponda al total de las actividades realizadas en el mes de calendario anterior, a excepción de las importaciones, y las cantidades por las que proceda el acreditamiento.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1986)</small>
+
+Los organismos descentralizados que realicen preponderantemente actividades empresariales, las instituciones de seguros y las sociedades mercantiles efectuarán pagos provisionales a más tardar el día 7 de cada uno de los meses del ejercicio, mediante declaración que presentarán en las oficinas autorizadas. Tratándose de los demás contribuyentes efectuarán dichos pagos a más tardar el día 15 de cada uno de los meses del ejercicio. El pago provisional será la diferencia entre el impuesto que corresponda al total de las actividades realizadas en el mes de calendario anterior, a excepción de las importaciones, y las cantidades por las que proceda el acreditamiento.
 
 Cuando en la declaración de pago provisional resulte saldo a favor, el contribuyente podrá acreditarlos contra el impuesto a su cargo que le corresponda en los pagos provisionales siguientes hasta agotarlo o solicitar su devolución, siempre que en este último caso sea sobre el total del saldo a favor. Los saldos que resulten a favor del contribuyente en la última declaración de pago provisional de su ejercicio no se podrán acreditar en declaraciones posteriores.
 
@@ -232,13 +234,11 @@ Si en la declaración del ejercicio el contribuyente tuviera cantidades a su fav
 
 Los saldos cuya devolución se solicite no podrán acreditarse en declaraciones posteriores.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 1986)</small>
 
 ###### ARTICULO 5o.
 
-A.- Los productores, envasadores o importadores que a través de comisionistas, mediadores, agentes, representantes, corredores, consignatarios o distribuidores, enajenen los bienes a que se refiere el artículo 2o. de esta Ley, estarán obligados a retener el impuesto sobre la contraprestación que a éstos corresponda y enterarlo mediante declaración en las oficinas autorizadas, a más tardar el día 20 del mes siguiente a aquél en que se efectuó la retención; cuando las contraprestaciones se incluyan en el valor de la enajenación por las que se pague este impuesto, no se efectuará la retención y no se considerarán contribuyentes de este impuesto por dichas actividades.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+A.- Los productores, envasadores o importadores, que a través de comisionistas, mediadores, agentes, representantes, corredores, consignatarios o distribuidores, enajenen los bienes a que se refiere el Artículo 2o. de esta Ley, estarán obligados a retener el impuesto sobre la contraprestación que a éstos corresponda y enterarlo mediante declaración en las oficinas autorizadas, en los plazos establecidos por el segundo párrafo el artículo 5o. de esta Ley. Cuando las contraprestaciones se incluyan en el valor de la enajenación por las que se pague este impuesto, no se efectuará la retención y no se considerarán contribuyentes de este impuesto por dichas actividades.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -814,4 +814,16 @@ III.- Durante los años de 1986 a 1990, quienes proporcionen los servicios telef
 
 La presente Ley entrará en vigor el día 1o. de enero de 1986.
 
+D.O.F. 30 DE ABRIL DE 1986.
+
 ## TRANSITORIO
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de mayo de 1986.
+
+###### ARTICULO SEGUNDO.
+
+Los pagos provisionales de los impuestos sobre la renta, valor agregado, automóviles nuevos y especial sobre producción y servicios, así como el entero del impuesto sobre las erogaciones por remuneración al trabajo personal prestado bajo la dirección y dependencia de un patrón y las aportaciones señaladas en la fracción II del artículo 29 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, que deban efectuarse en el mes de mayo de 1986, se podrán hacer en los plazos que establecen las disposiciones vigentes hasta el 30 de abril de 1986.
+
+## TRANSITORIOS
