@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-4748"
 country: "mx"
 rank: "ley"
 publication_date: "1987-03-11"
-last_updated: "2003-03-12"
+last_updated: "2003-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 11 de marzo de 1987.
 
@@ -105,7 +105,9 @@ XIII.- La prevención y el control de enfermedades transmisibles y accidentes;
 
 XIV.- La prevención y el control de las enfermedades no transmisibles;
 
-XV.- La prevención de la invalidez y la rehabilitación de los inválidos;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+XV.- La prevención de la discapacidad y la rehabilitación de las personas con discapacidad;
 
 XVI.- La asistencia social;
 
@@ -177,7 +179,9 @@ I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la
 
 II.- Contribuir al adecuado desarrollo demográfico;
 
-III.- Colaborar al bienestar social de la población mediante servicios de asistencia social, principalmente a menores en estado de abandono, ancianos desamparados y minusválidos, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+III.- Colaborar al bienestar social de la población mediante servicios de asistencia social, principalmente a personas con discapacidad, menores en estado de abandono, ancianos desamparados, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
 
 IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como la integración social y al crecimiento físico y mental de la niñez;
 
@@ -435,7 +439,9 @@ I.- Preventivas, que incluyen las de promoción general y las de protección esp
 
 II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno; y
 
-III.- De rehabilitación, que incluyan acciones tendientes a corregir las invalideces físicas y mentales.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+III.- De rehabilitación, que incluyen acciones tendientes a corregir las discapacidades.
 
 ### CAPITULO III. PRESTADORES DE SERVICIOS DE SALUD
 
@@ -537,9 +543,11 @@ VI.- Información a las autoridades competentes de las irregularidades o deficie
 
 VII.- Otras actividades que coadyuven a la protección de la salud.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 52.
 
-La Dirección General de Desarrollo Social y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades o accidentes y de prevención de invalidez y de rehabilitación de inválidos.
+La Dirección General de Desarrollo Social y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades o accidentes y de prevención de discapacidades y de rehabilitación de personas con discapacidad.
 
 ###### ARTICULO 53.
 
@@ -659,11 +667,13 @@ La Dirección General de Desarrollo Social conforme a las normas técnicas bási
 
 A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 70.
 
-Los padres o quienes ejerzan la patria potestad de menores, tutores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
+Los padres o quienes ejerzan la patria potestad de menores, tutores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de alguna discapacidad.
 
-A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
+A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de personas con discapacidad.
 
 ## TITULO CUARTO. RECURSOS HUMANOS PARA LA SALUD
 
@@ -1105,15 +1115,21 @@ Será objeto de esta Ley los servicios asistenciales que presten tanto las insti
 
 Son actividades de Asistencia Social:
 
-I.- La atención a personas que, por sus carencias socio-económicas o por problemas de invalidez, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
-II.- La atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo e inválidos sin recursos;
+I.- La atención a personas que, por sus carencias socio-económicas o por problemas de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+II.- La atención en establecimientos especializados a personas con discapacidad, menores y ancianos en estado de abandono o desamparo sin recursos;
 
 III.- La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud;
 
 IV.- El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
 
-V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, ancianos e inválidos sin recursos;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a personas con discapacidad, menores y ancianos sin recursos;
 
 VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -1133,19 +1149,23 @@ Procurará destinar los apoyos a los programas de asistencia social, públicos y
 
 Los menores en estado de desprotección social, tienen derecho a recibir los servicios asistenciales que necesiten en cualquier establecimiento público dependiente del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 130.
 
-Los integrantes del Sistema Estatal de Salud, deberán dar atención preferente e inmediata a menores y ancianos sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental. Asimismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física y mental o el normal desarrollo psico-somático de los individuos.
+Los integrantes del Sistema Estatal de Salud, deberán dar atención preferente e inmediata a personas con discapacidad, menores y ancianos sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental. Asimismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física y mental o el normal desarrollo psico-somático de los individuos.
 
-En estos casos, las instituciones de salud del Estado podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores y ancianos, sin perjuicio de dar intervención a las autoridades competentes.
+En estos casos, las instituciones de salud del Estado podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de las personas con discapacidad, menores y ancianos, sin perjuicio de dar intervención a las autoridades competentes.
 
 ###### ARTICULO 131.
 
 El Ejecutivo del Estado y los municipios contarán con organismos descentralizados, con personalidad, competencia y patrimonio propios, que tendrán entre sus objetivos, en coordinación con el organismo federal encargado de la asistencia social, la promoción de ésta en el ámbito estatal, la prestación de servicios de ese campo y la realización de las demás acciones que establezcan las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 132.
 
-El Ejecutivo del Estado y los municipios proveerán la creación de establecimientos en los que se dé atención a personas con padecimientos mentales, a niños desprotegidos y a ancianos desamparados.
+El Ejecutivo del Estado y los municipios proveerán la creación de establecimientos en los que se dé atención a personas con discapacidad, a niños desprotegidos y a ancianos desamparados.
 
 ###### ARTICULO 133.
 
@@ -1191,33 +1211,51 @@ Los servicios y acciones que presten y realicen las instituciones de asistencia 
 
 Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus respectivas competencias, colaborarán para proporcionar atención rehabilitatoria, cuando así se requiera.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 144.
 
-La Dirección General de Desarrollo Social, en coordinación con otras instituciones públicas, promoverá que en los lugares en que se presten servicios públicos; se dispongan facilidades para las personas inválidas.
+La Dirección General de Desarrollo Social, en coordinación con otras instituciones públicas, promoverá que en los lugares en que se presten servicios públicos; se dispongan facilidades para las personas con discapacidad.
 
 ###### ARTICULO 145.
 
 El patrimonio de la Beneficencia Pública será administrado por el organismo estatal a que se refiere el Artículo 131 de esta Ley. Al respecto, a este organismo corresponderá, entre otras atribuciones, representar los intereses del patrimonio de la Beneficencia Pública y distribuir los recursos que a la misma se le destinen.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 146.
 
-Para los efectos de esta Ley, se entiende por invalidez la limitación en la capacidad de una persona para realizar por sí misma actividades necesarias para su desempeño físico, mental, social, ocupacional y económico como consecuencia de una insuficiencia somática, sicológica o social.
+Para los efectos de esta Ley, se entiende por discapacidad la limitación en la capacidad de una persona para realizar por sí misma actividades necesarias para su desempeño físico, mental, social, ocupacional y económico como consecuencia de una insuficiencia somática, psicológica o social.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTICULO 147.
 
-La atención en materia de prevención de invalidez y rehabilitación de inválidos comprende:
+La atención en materia de prevención de discapacidades y rehabilitación de personas con discapacidad comprende:
 
-I.- La investigación de las causas de la invalidez y de los factores que la condicionan;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
-II.- La promoción de la participación de la comunidad en la prevención y control de las causas y factores condicionantes de la invalidez;
+I.- La investigación de las causas de la discapacidad y de los factores que la condicionan;
 
-III.- La identificación temprana y la atención oportuna de procesos físicos, mentales o sociales que puedan causar invalidez;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
-IV.- La orientación educativa en materia de rehabilitación a la colectividad en general y en particular a las familias que cuenten con algún inválido, promoviendo al efecto la solidaridad social;
+II.- La promoción de la participación de la comunidad en la prevención y control de las causas y factores condicionantes de la discapacidad;
 
-V.- La atención integral de los inválidos, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que requieran;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
-VI.- La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de los inválidos; y
+III.- La identificación temprana y la atención oportuna de procesos físicos, mentales o sociales que puedan causar discapacidad;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+IV.- La orientación educativa en materia de rehabilitación a la colectividad en general y en particular a las familias que cuenten con alguna persona con discapacidad, promoviendo al efecto la solidaridad social;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+V.- La atención integral de las personas con discapacidad, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que requieran;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+VI.- La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con discapacidad; y
 
 VII.- La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación.
 
@@ -1225,13 +1263,17 @@ VII.- La promoción de la educación y la capacitación para el trabajo, así co
 
 Los servicios de rehabilitación que proporcionen los establecimientos que dependen del Estado, estarán vinculados sistemáticamente a los de rehabilitación y asistencia social que presten los organismos a que se refiere el Artículo 131 de esta Ley.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 149.
 
-El Ejecutivo del Estado, a través del organismo a que se refiere el Artículo 131 de esta Ley y en coordinación con las dependencias y entidades federales, promoverá el establecimiento de centros y servicios de rehabilitación somática, social y ocupacional para las personas que sufran cualquier tipo de invalidez, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
+El Ejecutivo del Estado, a través del organismo a que se refiere el Artículo 131 de esta Ley y en coordinación con las dependencias y entidades federales, promoverá el establecimiento de centros y servicios de rehabilitación somática, social y ocupacional para las personas que sufran cualquier tipo de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTICULO 150.
 
-El organismo del Ejecutivo Estatal previsto en el Artículo 131 de esta Ley tendrá entre sus objetivos operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de invalidez y participar en programas de rehabilitación y educación especial.
+El organismo del Ejecutivo Estatal previsto en el Artículo 131 de esta Ley tendrá entre sus objetivos operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de discapacidades y participar en programas de rehabilitación y educación especial.
 
 ## TITULO DECIMO. PROGRAMAS CONTRA LAS ADICCIONES
 
@@ -2218,3 +2260,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Los establecimientos a que se refiere el artículo 166 Bis de la mencionada Ley, deberán dar cumplimiento a lo dispuesto por dicho artículo, en un término de 60 días, a partir de la entrada en vigor del presente Decreto.
+
+P.O. 24 DE SEPTIEMBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
