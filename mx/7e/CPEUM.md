@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1960-01-20"
+last_updated: "1960-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 1960.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE DICIEMBRE DE 1960.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1696,11 +1696,15 @@ Los Poderes de la Unión, tienen el deber de proteger a los Estados contra toda 
 
 DEL TRABAJO Y DE LA PREVISION SOCIAL.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE SEPTIEMBRE DE 1929)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
 ###### Art. 123.
 
-El Congreso de la Unión, sin contravenir a las bases siguientes, deberá expedir leyes sobre el trabajo, las cuales regirán entre los obreros, jornaleros, empleados, domésticos y artesanos y de una manera general sobre todo contrato de trabajo:
+El Congreso de la Unión, sin contravenir a las bases siguientes deberá expedir leyes sobre el trabajo, las cuales regirán:
+
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
+
+A.- Entre los obreros, jornaleros, empleados domésticos, artesanos y de una manera general, todo contrato de trabajo:
 
 I.- La duración de la jornada máxima será de ocho horas.
 
@@ -1787,6 +1791,56 @@ XXX.- Asimismo serán consideradas de utilidad social, las sociedades cooperativ
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 1942)</small>
 
 XXXI.- La aplicación de las leyes del trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, pero es de la competencia exclusiva de las autoridades federales, en asuntos relativos a la industria textil, eléctrica, cinematográfica, hulera y azucarera, minería, hidrocarburos, ferrocarriles y empresas que sean administradas en forma directa o descentralizada por el Gobierno Federal; empresas que actúen en virtud de un contrato o concesión federal, y las industrias que le sean conexas; a empresas que ejecuten trabajos en zonas federales y aguas territoriales; a conflictos que afecten a dos o más entidades federativas; a contratos colectivos que hayan sido declarados obligatorios en más de una entidad federativa y, por último, las obligaciones que en materia educativa corresponden a los patrones, en la forma y términos que fija la ley respectiva.
+
+> <small>(ADICIONADO, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
+
+B.- Entre los Poderes de la Unión, los Gobiernos del Distrito y de los Territorios Federales y sus trabajadores:
+
+I.- La jornada diaria máxima de trabajo diurna y nocturna será de ocho y siete horas respectivamente. Las que excedan serán extraordinarias y se pagarán con un ciento por ciento más de la remuneración fijada para el servicio ordinario. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias ni de tres veces consecutivas;
+
+II.- Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro;
+
+III.- Los trabajadores gozarán de vacaciones que nunca serán menores de veinte días al año;
+
+IV.- Los salarios serán fijados en los presupuestos respectivos, sin que su cuantía pueda ser disminuída durante la vigencia de éstos.
+
+En ningún caso los salarios podrán ser inferiores al mínimo para los trabajadores en general;
+
+V.- A trabajo igual corresponderá salario igual, sin tener en cuenta el sexo;
+
+VI.- Sólo podrán hacerse retenciones, descuentos, deducciones o embargos al salario, en los casos previstos en las leyes;
+
+VII.- La designación del personal se hará mediante sistemas que permitan apreciar los conocimientos y aptitudes de los aspirantes. El Estado organizará escuelas de Administración Pública;
+
+VIII.- Los trabajadores gozarán de derechos de escalafón a fin de que los ascensos se otorguen en función de los conocimientos, aptitudes y antigüedad;
+
+XI (sic).- Los trabajadores sólo podrán ser suspendidos o cesados por causa justificada, en los términos que fije la ley.
+
+En caso de separación injustificada tendrá derecho a optar por la reinstalación en su trabajo o por la indemnización correspondiente, previo el procedimiento legal. En los casos de supresión de plazas, los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente a la suprimida o a la indemnización de ley;
+
+X.- Los trabajadores tendrán el derecho de asociarse para la defensa de sus intereses comunes. Podrán, asimismo, hacer uso del derecho de huelga previo el cumplimiento de los requisitos que determine la ley, respecto de una o varias dependencias de los Poderes Públicos, cuando se violen de manera general y sistemática los derechos que este artículo les consagra;
+
+XI.- La seguridad social se organizará conforme a las siguientes bases mínimas:
+
+a).- Cubrirá los accidentes y enfermedades profesionales; las enfermedades no profesionales y maternidad; y la jubilación, la invalidez, vejez y muerte.
+
+b).- En caso de accidente o enfermedad, se conservará el derecho al trabajo por el tiempo que determine la ley.
+
+c).- Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo. Durante el período de lactancia, tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos. Además, disfrutarán de asistencia médica y obstétrica, de medicinas, de ayudas para la lactancia y del servicio de guarderías infantiles.
+
+d).- Los familiares de los trabajadores tendrán derecho a asistencia médica y medicinas, en los casos y en la proporción que determine la ley.
+
+e).- Se establecerán centros para vacaciones y para recuperación, así como tiendas económicas para el beneficio de los trabajadores y sus familiares.
+
+f).- Se proporcionarán a los trabajadores habitaciones baratas en arrendamiento o venta, conforme a los programas previamente aprobados;
+
+XII.- Los conflictos individuales, colectivos o intersindicales serán sometidos a un Tribunal Federal de Conciliación y Arbitraje integrado según lo prevenido en la ley reglamentaria.
+
+Los conflictos entre el Poder Judicial de la Federación y sus servidores, serán resueltos por el Pleno de la Suprema Corte de Justicia de la Nación;
+
+XIII.- Los militares, marinos y miembros de los cuerpos de seguridad pública, así como el personal de servicio exterior se regirán por sus propias leyes;
+
+XIV.- La ley determinará los cargos que serán considerados de confianza. Las personas que los desempeñen disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social.
 
 ## TITULO SEPTIMO.
 
@@ -2359,3 +2413,13 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 D.O.F. 20 DE ENERO DE 1960.
 
 UNICO.- Las presentes reformas entrarán en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 5 DE DICIEMBRE DE 1960.
+
+###### ARTICULO PRIMERO.
+
+Esta reforma entrará en vigor al día siguiente de la publicación de esta ley en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Entretanto se expida la respectiva ley reglamentaria, continuará en vigor el Estatuto de los Trabajadores al Servicio de los Poderes de la Unión en cuanto no se oponga a la presente.
