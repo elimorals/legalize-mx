@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-venta-almacenaje-y-consumo-publico-de-25686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2002-06-14"
+last_updated: "2002-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE JUNIO DE 2002.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2002.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de mayo de 2002.
 
@@ -1177,9 +1175,11 @@ El presente reglamento entrará en vigor el día siguiente de su publicación en
 
 Se derogan todas aquellas disposiciones administrativas de carácter municipal que se opongan al presente reglamento.
 
+> <small>(REFORMADO. P.O. 9 DE AGOSTO DE 2002)</small>
+
 ###### ARTICULO TERCERO.
 
-Una vez que entre en vigor el presente reglamento la Secretaria del Ayuntamiento dentro de un plazo no mayor de quince días deberá lanzar la convocatoria para efecto de llevar a cabo lo que dispone el artículo 52 de este reglamento.
+Una vez que entre en vigor el presente reglamento la Secretaría del Ayuntamiento deberá en un plazo no mayor de noventa días turnar al Cabildo por conducto del C. Presidente Municipal, la convocatoria para llevar acabo (sic) lo que dispone el artículo 52 de este ordenamiento.
 
 ###### ARTICULO CUARTO.
 
@@ -1198,3 +1198,19 @@ El pago de la revalidación a que se refiere el artículo 40 del presente ordena
 Las personas físicas o morales, cuyo trámite se encuentre pendiente a la publicación del presente reglamento se atenderán a las disposiciones contenidas en la Ley para la Venta o Almacenaje de Bebidas Alcohólicas y Alcohol en el Estado de Baja California, publicada en Periódico (sic) Oficial del Estado, de fecha 10 de Agosto de 1981 abrogada en cuanto a los requisitos de obtención del permiso correspondiente, y a la Ley para la Venta, Almacenaje y Consumo Público de Bebidas Alcohólicas del Estado de Baja California, Publicada en el Periódico Oficial No. 49, de fecha 09 de Noviembre de 2001, Tomo CVIII, y al presente Reglamento vigentes, en cuanto a la obtención o negativa del permiso de que se trate.
 
 Dado en Palacio Municipal a los veinticinco días de abril de dos mil dos en Sesión Ordinaria de Cabildo del XVII Ayuntamiento de Tijuana Baja California.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE AGOSTO DE 2002.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+PRIMERO: ...
+
+SEGUNDO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO: Publíquese en dos periódicos de mayor circulación en la localidad para conocimiento de los vecinos.
+
+CUARTO: Se derogan todas aquellas disposiciones que se opongan a la presente
+
+reforma.
