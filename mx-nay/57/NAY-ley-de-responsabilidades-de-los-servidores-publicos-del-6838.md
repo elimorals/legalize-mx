@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-responsabilidades-de-los-servidores-publicos-del-6838"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-01"
-last_updated: "1991-07-10"
+last_updated: "1998-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 1998.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 1 de Febrero de 1984.
 
@@ -681,6 +681,16 @@ En las declaraciones anuales se manifestarán las modificaciones al patrimonio, 
 
 Tratándose de bienes muebles, la Secretaría de la Contraloría General del Estado, decidirá mediante acuerdo general, las características que deba contener la declaración.
 
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 1998)</small>
+
+###### ARTICULO 87 Bis.
+
+El Poder Ejecutivo del Estado y los Ayuntamientos de la entidad establecerán los procedimientos y mecanismos procedentes, para realizar en el ámbito de sus respectivas competencias, las acciones que se requieren para cumplir con los acuerdos y resoluciones del sistema nacional de seguridad pública, debiéndose llevar a cabo para el efecto de una estrecha coordinación con la Secretaría General de Gobierno, Procuraduría General de Justicia y la Secretaría de la Contraloría General del Estado.
+
+La Secretaría de la Contraloría General, podrá utilizar la información contenida en las declaraciones patrimoniales, correspondientes a los servidores públicos, adscritos a los cuerpos policiales estatales, en términos de los Acuerdos de Coordinación derivados del Sistema Nacional de Seguridad Pública.
+
+Asimismo, los Ayuntamientos, proveerán a la mencionada dependencia la información patrimonial referente a los servidores públicos de los cuerpos policiales municipales, conforme a los Acuerdos de Coordinación respectivos.
+
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1984)</small>
 
 ###### ARTICULO 88.
@@ -756,3 +766,9 @@ UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de
 P.O. 10 DE JULIO DE 1991.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Nayarit.
+
+P.O. 6 DE MAYO DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado de Nayarit y los Ayuntamientos Constitucionales dispondrán de un término de 30 días a partir de la fecha de entrada en vigor del presente decreto, para que procedan a celebrar los convenios relacionados con el cumplimiento a que se refiere la presente modificación legislativa.
