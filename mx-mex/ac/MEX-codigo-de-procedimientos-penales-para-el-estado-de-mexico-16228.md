@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-16228
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2000-03-20"
+last_updated: "2000-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2000.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -377,9 +377,11 @@ Para decretar la práctica de un cateo, bastará la existencia de indicios o dat
 
 La resolución en que se acuerde la práctica de un cateo será notificada únicamente al Ministerio Público.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 53.
 
-El cateo se practicará por el órgano jurisdiccional que lo decrete, por el secretario del mismo, por el Ministerio Público o por la Policía Judicial, según se ordene en el mandamiento respectivo, en el día y hora señalados en la resolución, o bien en el día y hora que estime oportunos el ejecutor, si la propia resolución lo faculta para ello.
+El cateo se practicará por el órgano jurisdiccional que lo decrete, por el secretario del mismo, por el Ministerio Público o por la policía ministerial, según se ordene en el mandamiento respectivo, en el día y la hora señalados en la resolución, o bien en el día y hora que estime oportunos el ejecutor, si la propia resolución lo faculta para ello.
 
 ###### Artículo 54.
 
@@ -909,7 +911,9 @@ El Ministerio Público ordenará la detención en caso urgente, por escrito, fun
 
 En caso de que no se haya ejecutado la orden de detención determinada por el Ministerio Público y hubiesen desaparecido los requisitos a que se refiere la fracción III, éste la dejará sin efecto, consignando la averiguación previa al órgano jurisdiccional.
 
-La orden de detención será ejecutada por la Policía Judicial, la que deberá, sin dilación alguna, poner al detenido a disposición del Ministerio Público que la haya librado.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+La orden de detención será ejecutada por la Policía Ministerial, la que deberá, sin dilación alguna, poner al detenido a disposición del Ministerio Público que la haya librado.
 
 ###### Artículo 144.
 
@@ -955,7 +959,9 @@ Se hará constar en la averiguación previa la información que se le de sobre t
 
 El Ministerio Público, durante la averiguación previa deberá conceder al indiciado inmediatamente que lo solicite, su libertad provisional bajo caución; siempre y cuando no se trate de delitos en que por su gravedad la ley expresamente prohiba conceder este beneficio; pudiendo negársele cuando el indiciado haya sido condenado con anterioridad por algún delito calificado por la ley como grave o cuando existan datos fehacientes para establecer que la libertad del indiciado representa por su conducta precedente, por las circunstancias o características del delito cometido, un riesgo para el ofendido o para la sociedad. El monto y la forma de la caución se fijarán conforme a lo dispuesto por el artículo 319 de este código.
 
-Al consignar los hechos al órgano jurisdiccional, se prevendrá personalmente al indiciado para que comparezca ante aquél dentro de los tres días siguientes a la consignación, haciéndole saber la fecha de la misma, y que de no comparecer dentro de ese término, el juez revocará la libertad, ordenará su aprehensión y hará efectiva la garantía.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+Al consignar los hechos al órgano jurisidiccional, se notificará personalmente al indiciado para que comparezca ante aquél dentro de los tres días siguientes a la consignación, haciéndole saber la fecha de la misma, y que de no comparecer dentro de este término, el juez revocará la libertad, ordenará su aprehensión y hará efectiva la garantía.
 
 ###### Artículo 147.
 
@@ -1043,7 +1049,9 @@ I. Cuando la conducta o hecho de que conozca, no sean constitutivos de delito;
 
 II. Cuando esté extinguida legalmente; o
 
-III. Cuando exista plenamente comprobada alguna causa de inexistencia del delito.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+III. Cuando exista plenamente comprobada alguna causa excluyente del delito o de la responsabilidad.
 
 ###### Artículo 159.
 
@@ -1051,7 +1059,9 @@ El Ministerio Público solamente puede desistirse de la acción penal:
 
 I. Cuando durante el proceso resulte que los hechos no son constitutivos de delito; y
 
-II. Cuando durante el proceso judicial aparezca plenamente comprobado en autos que el indiciado no ha tenido participación en el delito que se persigue, o que exista en su favor alguna causa excluyente de incriminación; pero solamente por lo que se refiere a quienes estén en estas circunstancias.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+II. Cuando durante el proceso judicial aparezca plenamente comprobado en autos que el indiciado no ha tenido participación en el delito que se persigue, o que exista en su favor alguna causa excluyente del delito o de la responsabilidad pero solamente por lo que se refiere a quienes estén en estas circunstancias.
 
 ###### Artículo 160.
 
@@ -1061,19 +1071,25 @@ Las resoluciones que se dicten en los casos a que se refieren los dos artículos
 
 Para que el desistimiento de la acción penal produzca el efecto señalado en el artículo anterior, deberá constar en el proceso debidamente fundado y motivado.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 162.
 
 En todo proceso penal, la víctima o el ofendido por algún delito, tendrá derecho a:
 
-I. Recibir la atención médica, psicológica y jurídica que requiera;
+I. Recibir asesoría jurídica; ser informado de los derechos que en su favor establece la Constitución y, cuando lo solicite, ser informado del desarrollo del procedimiento penal;
 
-II. Que se le satisfaga la reparación del daño cuando esto proceda;
+II. Coadyuvar con el Ministerio Público; a que se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la averiguación previa como en el proceso, y a que se desahoguen las diligencias correspondientes.
 
-III. Comparecer a las audiencias por sí o a través de su representante; y
+Cuando el Ministerio Público considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa;
 
-IV. Aportar las pruebas tendientes a comprobar el cuerpo del delito y la responsabilidad del inculpado. En esta caso deberá hacerlo por conducto del Ministerio Público. Cuando se trate de la reparación del daño, podrá hacerlo directamente.
+III. Recibir, desde la comisión del delito, atención medica y psicológica de urgencia;
 
-El Ministerio Público realizará las promociones conducentes a la obtención de los derechos de la víctima u ofendido por el delito, y el órgano jurisdiccional dictará las providencias encaminadas al mismo fin.
+IV. Que se le repare el daño. En los casos en que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño y el juzgador no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria;
+
+V. Cuando la víctima o el ofendido sean menores de edad, no estarán obligados a carearse con el inculpado cuando se trate de los delitos de violación o secuestro. En estos casos se llevarán a cabo declaraciones en las condiciones que establezca la ley; y
+
+VI. Solicitar las medidas y providencias que prevea la ley para su seguridad y auxilio.
 
 ## TITULO QUINTO. INSTRUCCION
 
@@ -1177,7 +1193,9 @@ II. Que se haya comprobado el cuerpo del delito que se impute al inculpado;
 
 III. Que en su contra existan elementos de prueba suficientes que hagan probable su responsabilidad en la comisión del delito; y
 
-IV. Que no esté comprobada en su favor alguna causa de inexistencia del delito o que extinga la acción penal.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+IV. Que no esté comprobada en su favor alguna causa excluyente del delito o de la responsabilidad o que extinga la acción penal.
 
 El plazo a que se refiere el párrafo primero de este artículo se duplicará cuando lo solicite el inculpado por sí o por su defensor, al rendir su declaración preparatoria, siempre que dicha ampliación sea con la finalidad de aportar y desahogar pruebas para que el juez resuelva su situación jurídica.
 
@@ -1387,9 +1405,13 @@ Cuando hubiere de ausentarse del lugar en que se practiquen las diligencias algu
 
 #### SECCION TERCERA. CAREOS
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 209.
 
 Siempre que el Ministerio Público, en la averiguación previa, o el órgano jurisdiccional, durante la instrucción, observen algún punto de contradicción entre las declaraciones de dos o más personas, se procederá a la práctica de los careos correspondientes, sin perjuicio de repetirlos cuando lo estimen oportuno o surjan nuevos puntos de contradicción.
+
+Cuando lo solicite el inculpado, será careado, en presencia del juez, con quien deponga en su contra, salvo lo dispuesto en la fracción V del artículo 162 de este código.
 
 ###### Artículo 210.
 
@@ -1647,7 +1669,9 @@ El órgano jurisdiccional razonará en sus resoluciones lógica y jurídicamente
 
 Sólo se condenará al acusado cuando se compruebe la existencia del cuerpo del delito y su responsabilidad. En caso de duda debe absolverse.
 
-## TITULO SEPTIMO (SIC)
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+## TITULO SEXTO. JUICIO
 
 ### CAPITULO I. CONCLUSIONES
 
@@ -1731,7 +1755,7 @@ II. Las sentencias contra las cuales no proceda recurso alguno; y
 
 III. Las sentencias que, habiendo sido impugnadas, haya desistimiento del recurso o se declare desierto el mismo.
 
-## TITULO OCTAVO. RECURSOS
+## TITULO SEPTIMO
 
 ### CAPITULO UNICO. DEL SOBRESEIMIENTO
 
@@ -1769,13 +1793,13 @@ En caso de ser varios los inculpados o los delitos, el sobreseimiento se decreta
 
 El auto de sobreseimiento surtirá los efectos de sentencia absolutoria y ejecutoriado tendrá categoría de cosa juzgada.
 
-## TITULO NOVENO. INCIDENTES
+## TITULO OCTAVO. RECURSOS
 
 ### CAPITULO I. REVOCACION
 
 ### CAPITULO II. APELACION
 
-## TITULO DECIMO. PROCEDIMIENTOS ESPECIALES
+## TITULO NOVENO. INCIDENTES
 
 ### CAPITULO III. DENEGADA APELACION
 
@@ -1797,13 +1821,17 @@ En el recurso de apelación se examinará si en la resolución impugnada se apli
 
 La segunda instancia se abrirá a petición de parte para resolver sobre los agravios que le cause la resolución recurrida, los que se expresarán al interponerse el recurso o en el término señalado en el artículo 289 de este código.
 
+> <small>(REFORMADO PRIMERO PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 280.
 
-Tendrá derecho a apelar:
+Tendrá derecho de apelar:
 
 I. El Ministerio Público;
 
-II. El acusado y su defensor; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+II. El acusado o su defensor; y
 
 III. El ofendido o su representante, cuya personalidad haya sido reconocida en los términos de este código, únicamente respecto a los autos y las sentencias que afecten de manera estrecha e inseparable su derecho para reclamar la reparación del daño o la responsabilidad civil proveniente de la comisión de un delito.
 
@@ -2041,7 +2069,7 @@ La revisión de resoluciones en las que el órgano jurisdiccional haya aplicado 
 
 En el caso de que la sentencia en que se aplique la disposición de los artículos 58 y 79 del código penal hubiere sido apelada, el superior respectivo confirmará, modificará o revocará la resolución al resolver el recurso de apelación.
 
-## TITULO DECIMO PRIMERO. EJECUCION DE SANCIONES
+## TITULO DECIMO. PROCEDIMIENTOS ESPECIALES
 
 ### CAPITULO I. PROCEDIMIENTO PARA LOS INIMPUTABLES
 
@@ -2397,7 +2425,9 @@ XVI. Haber sido magistrado o juez en el mismo asunto, en otra instancia;
 
 XVII. Haber sido agente del Ministerio Público, perito, testigo, apoderado, patrono o defensor en el asunto que se trata o haber gestionado o recomendado anteriormente el asunto a favor o en contra de alguno de los interesados; o
 
-XIX. (sic) Estar en alguna situación que pueda afectar su imparcialidad en forma análoga o más grave que las mencionadas.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+XVIII. Estar en alguna situación que pueda afectar su imparcialidad en forma análoga o más grave que las mencionadas.
 
 ###### Artículo 366.
 
@@ -2623,6 +2653,8 @@ Cuando en un procedimiento civil, familiar, mercantil, laboral o administrativo 
 
 El Ministerio Público, dentro del término de diez días, practicará desde luego las diligencias necesarias para poder determinar si los hechos pueden llegar a ser constitutivos de delito o no; en el primer caso y siempre que estos hechos sean de tal naturaleza que si llegare a dictar resolución con motivo de ellos, ésta deba necesariamente influir en las resoluciones que pudieran dictarse en el procedimiento, el Ministerio Público pedirá y el juez, tribunal o autoridad administrativa hará que se suspenda el trámite del mismo hasta que se pronuncie una resolución definitiva en el asunto penal.
 
+## TITULO DECIMO PRIMERO. EJECUCION DE SANCIONES
+
 ### CAPITULO III. APERCIBIMIENTO
 
 ###### Artículo 410.
@@ -2688,6 +2720,10 @@ Si hubiere duda sobre la mayoría de edad del inculpado al suceder los hechos de
 ###### Artículo 420.
 
 En el caso en que una persona haya amenazado a otra con causarle un daño que sea constitutivo de delito, el Ministerio Público levantará una acta circunstanciada, observando en lo conducente las disposiciones del capítulo I del título II de este código. Seguidamente citará al denunciado para apercibirle que se abstenga de cometerlo, hacer constar el apercibimiento en el acta respectiva, entregando copias certificadas al ofendido sin costo alguno, y archivar ésta previas las anotaciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+Será castigado como reincidente en caso de cometer el delito por el que fue apercibido.
 
 ###### Artículo 421.
 
@@ -2770,3 +2806,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
+
+P.O. 1 DE SEPTIEMBRE DE 2000
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- Las reformas a los artículos 162 y 209 del Código de Procedimientos Penales para el Estado de México, entrarán en vigor cinco días después del inicio de vigencia de la reforma al artículo 20 de la Constitución General de la República.
+
+TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
