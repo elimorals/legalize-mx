@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-13577"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-03"
-last_updated: "2001-10-25"
+last_updated: "2001-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial, el 3 de febrero de 1999.
 
@@ -277,7 +277,9 @@ V. Efectuar las tramitaciones y registros que requiere el control, vigilancia y 
 
 VI. Controlar, operar y actualizar el Registro Estatal de Contribuyentes y aplicar las disposiciones legales vigentes respecto a las obligaciones fiscales de los contribuyentes;
 
-VII.- Llevar la contabilidad del Gobierno Estatal, debiendo formular los Estados Financieros y la Cuenta Pública;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+VII.- Llevar la contabilidad del Gobierno Estatal, debiendo formular los Estados Financieros y la Cuenta Pública que deberá ser enviada trimestralmente al Congreso del Estado, para su revisión;
 
 VIII. Administrar y custodiar los fondos y valores del Gobierno del Estado, fincando en su caso, las responsabilidades correspondientes;
 
@@ -823,7 +825,7 @@ XXXI. Establecer criterios para llevar a cabo la desregulación empresarial, eli
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
 
-XXXII.- Establecer y promover estrategias que eleven la competitividad y productividad de la mano de obra en el Estado, así como las que vinculen el sector productivo con el educativo, en coordinación con la Secretaría de Educación, Cultura, Deporte y establecer mecanismos que faciliten el contacto entre la oferta y la demanda de trabajo;
+XXXII.- Establecer y promover estrategias que eleven la competitividad productividad de la mano de obra en el Estado, así como las que vinculen el sector productivo con el educativo, en coordinación con la Secretaría de Educación, Cultura, Deporte y establecer mecanismos que faciliten el contacto entre la oferta y la demanda de trabajo;
 
 XXXIII. Proponer al Ejecutivo Estatal, la firma de convenios de colaboración con los demás Estados miembros de la Federación, particularmente con las Entidades vecinas, a fin de promover de manera conjunta, la creación de polos de desarrollo que beneficien a los Estados participantes;
 
@@ -831,7 +833,7 @@ XXXIV. Establecer y operar los mecanismos de seguimiento y evaluación de los pr
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
 
-XXXV.- Coordinar como cabeza de sector, las actividades de las entidades estatales denominadas: Desarrollo Urbano del Puerto Industrial de Altamira, S. A. de C.V. y Canal Intracostero de Tamaulipas, S.A. de C.V.; y,
+XXXV.- Coordinar como cabeza de sector, las actividades de las entidades estatales denominadas: Desarrollo Urbano del Puerto Industrial de Altamira, S.A. de C.V. y Canal Intracostero de Tamaulipas, S.A. de C.V.; y,
 
 XXXVI. Los demás que con relación al ramo le encomiende el Titular del Ejecutivo del Estado.
 
@@ -931,19 +933,39 @@ XXIII.- Los demás que, con relación al ramo, le encomiende el Titular del Ejec
 
 ### CAPITULO CUARTO. DE LAS ENTIDADES PARAESTATALES DEL PODER EJECUTIVO
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 30.
 
-Constituyen órganos auxiliares de la administración pública las entidades creadas como organismos descentralizados, las empresas de participación estatal mayoritaria, o fideicomisos públicos.
+Constitiyen órganos auxiliares de la administración pública las entidades creadas como organismos descentralizados, empresas de participación estatal mayoritaria o fideicomisos que se organicen de manera análoga a las anteriores, en cuyo caso se considerarán públicos.
 
-Los organismos públicos descentralizados podrán ser creados por Decreto, del Congreso o del Ejecutivo local. Las empresas y fideicomisos se constituirán en los términos que fijen las leyes aplicables; previo a ello, el Congreso o el Ejecutivo, según sea el caso, expedirán el Decreto, por el que se autorice y se fijen las bases de su conformación. Dichos Decretos deberán contener, por lo menos, los siguientes requisitos: denominación, domicilio legal, objeto de creación, aportaciones y fuentes de recursos para integrar su patrimonio y, en su caso, la forma en que habrá de incrementarse, designación o integración de su órgano de gobierno, las facultades y obligaciones del Director General, órganos de vigilancia, así como sus facultades, régimen laboral a que se sujetarán las relaciones de trabajo, y la forma y términos de su extinción y liquidación.
+Los organismos públicos descentralizados podrán ser creados por Decreto del Congreso o del Ejecutivo local. Las empresas de participación estatal mayoritaria y fideicomisos públicos se constituirán en los términos que fijen las leyes aplicables; previo a ello, el Congreso o el Ejecutivo, según sea el caso, expedirán el Decreto por el que se autorice y se fijen las bases de su conformación. Dichos decretos deberán contener, por lo menos, los siguientes requisitos:
+
+I.- Denominación;
+
+II.- Domicilio legal;
+
+III.- Objeto de creación;
+
+IV.- Aportaciones y fuentes de recursos para integrar su patrimonio y, en su caso, la forma en que habrá de incrementarse;
+
+V.- Designación o integración de su órgano de gobierno;
+
+VI.- Atribuciones del Director General;
+
+VII.- Organos de vigilancia y sus atribuciones;
+
+VIII.- Régimen laboral a que se sujetarán las relaciones de trabajo; y
+
+IX.- Forma y términos de su extinción y liquidación.
 
 Las entidades se agruparán en sectores definidos y serán coordinadas por el titular de la dependencia cuya competencia comprenda las funciones de la entidad correspondiente.
 
-Las relaciones de las entidades con el Ejecutivo, se llevarán a cabo a través de la dependencia coordinadora. En caso de duda sobre la dependencia que deba coordinar una entidad, resolverá el titular del Ejecutivo.
+Las relaciones de las entidades con el Ejecutivo se llevarán a cabo a través de la dependencia coordinadora. En caso de duda sobre la dependencia que deba coordinar una entidad resolverá el titular del Ejecutivo.
 
-La extinción y liquidación de una entidad, se realizará mediante un acto de la misma naturaleza del que la creó, previa opinión de la dependencia coordinadora del sector al que pertenezca.
+La extinción y liquidación de una entidad se realizará mediante un acto de la misma naturaleza del que la creó, previa opinión de la dependencia coordinadora del sector al que pertenezca.
+
+Las entidades deberán remitir a la Secretaría de Finanzas del Poder Ejecutivo, su cuenta pública trimestral, a fin de que sea presentada al Congreso del Estado para su revisión.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2001)</small>
 
@@ -1070,3 +1092,21 @@ P.O. 25 DE OCTUBRE DE 2001
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE DICIEMBRE DE 2001
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1° de enero del año 2002.
+
+###### ARTICULO SEGUNDO.
+
+Las cuentas públicas relativas al ejercicio fiscal de 2001 y anteriores serán revisadas de acuerdo al procedimiento previsto con anterioridad a la entrada en vigencia del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Las cuentas públicas relativas al ejercicio fiscal de 2002 y posteriores serán revisadas de conformidad a lo dispuesto en el presente Decreto.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
