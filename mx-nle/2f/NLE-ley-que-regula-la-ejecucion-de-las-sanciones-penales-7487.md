@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-regula-la-ejecucion-de-las-sanciones-penales-7487"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-01"
-last_updated: "1994-06-01"
+last_updated: "2004-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 1 de junio de 1994.
 
@@ -79,17 +79,23 @@ III.- Que no exista algún impedimento legal; y
 
 IV.- Que en base a estricto principio de reciprocidad, las autoridades competentes de la entidad federativa que corresponda, acepten el traslado.
 
-## TITULO SEGUNDO. DE LA DIRECCION DE PREVENCION Y DE READAPTACION SOCIAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 01 DE SEPTIEMBRE DE 2004)</small>
+
+## TITULO SEGUNDO. DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
 ### CAPITULO UNICO. DEL FUNCIONAMIENTO Y ATRIBUCIONES
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 7o.
 
-La ejecución de las sanciones corresponde al Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, a través de la Dirección de Prevención y Readaptación Social, salvo la ejecución que la Ley reserve expresamente a otra autoridad.
+La ejecución de las sanciones corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Seguridad Pública, salvo la ejecución que la Ley reserve expresamente a otra autoridad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTICULO 8o.
 
-Para los efectos del artículo anterior, la Dirección de Prevención y Readaptación Social tendrá las siguientes atribuciones:
+Para los efectos del artículo anterior, la Secretaría de Seguridad Pública tendrá las siguientes atribuciones:
 
 I.- Organizar, dirigir y administrar los establecimientos penitenciarios en el Estado;
 
@@ -119,17 +125,43 @@ XIII.- En los casos de confinamiento o prohibición de ir a un lugar determinado
 
 XIV.- Despachar todos los asuntos que se refieran a informes solicitados por cualquier autoridad, respecto al ámbito de su competencia;
 
-XV.- Intervenir en la selección de los candidatos a la preliberación y reclusión en instituciones abiertas; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
 
-XVI.- Las demás que fijen ésta u otras leyes y reglamentos.
+XV.- Intervenir en la selección de los candidatos a la preliberación y reclusión en instituciones abiertas;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
+
+XVI.- Vigilar durante un año, la conducta de los inculpados a quienes el Ministerio Público les haya dictado la reserva del ejercicio de la acción Penal;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
+
+XVII.- Vigilar la conducta de los inculpados, respecto a quienes el Juez les haya decretado la suspensión del procedimiento a prueba;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
+
+XVIII.- Vigilar la conducta de los inculpados que en el caso del delito de violencia familiar hayan obtenido su libertad mediante acuerdo. Asimismo, verificar que los inculpados se sujetaron a tratamiento de rehabilitación médico psicológico;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
+
+XIX.- Informar al Ministerio Público o al Juez, según sea el caso, si los inculpados a que se refieren las fracciones XVI, XVII y XVIII de este artículo, reiteraron o no su conducta delictiva;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
+
+XX.- Organizar y supervisar el cumplimiento del trabajo en beneficio de la comunidad, cuando sea impuesto como pena por la autoridad jurisdiccional; y
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
+
+XXI.- Las demás que fijen ésta u otras leyes y reglamentos.
 
 ###### ARTICULO 9o.
 
-La Dirección de Prevención y Readaptación Social estará a cargo de una persona con título de Licenciado en Derecho o en Criminología y tendrá el personal técnico y administrativo que se requiera y autorice el presupuesto.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2004)
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTICULO 10.
 
-El funcionamiento de la Dirección de Prevención y Readaptación Social del Estado se sujetará a esta Ley y a su respectivo reglamento.
+El funcionamiento de la Secretaría de Seguridad Pública respecto a la ejecución de las sanciones penales se sujetará a esta Ley y al reglamento respectivo.
 
 ## TITULO TERCERO. DE LA EJECUCION DE LAS SANCIONES PRIVATIVAS DE LA
 
@@ -147,7 +179,7 @@ Los establecimientos penitenciarios estarán a cargo de un Director y tendrán e
 
 ###### ARTICULO 13.
 
-El Director, para los fines de vigilancia y administración, se ajustará a la aplicación del reglamento interior, tomando las medidas conducentes para el debido cumplimiento de esta Ley. Así mismo cuidará que se guarden buenas condiciones de higiene y seguridad.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2004)
 
 ###### ARTICULO 14.
 
@@ -157,9 +189,11 @@ Para el adecuado funcionamiento de los establecimientos penitenciarios, en la de
 
 Antes de asumir el cargo y durante el desempeño de éste, el personal de los establecimientos penitenciarios debe seguir los cursos de formación y de actualización que se realicen, así como aprobar los exámenes de selección.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 16.
 
-En la construcción de nuevos establecimientos preventivos y de ejecución de sanciones y en el remozamiento o la adaptación de los existentes, la Dirección de Prevención y Readaptación Social tendrá funciones de orientación y asistencia técnica.
+En la construcción de nuevos establecimientos preventivos y de ejecución de sanciones y en el remozamiento o la adaptación de los existentes, la Secretaría de Seguridad Pública tendrá funciones de orientación y asistencia técnica.
 
 ###### ARTICULO 17.
 
@@ -179,11 +213,15 @@ El Consejo podrá sugerir también a la autoridad ejecutiva del Centro Penitenci
 
 El Consejo Técnico Interdisciplinario será presidido por el Director del establecimiento o por el funcionario que le substituya en sus faltas y se integrará con los miembros de superior jerarquía del personal técnico, administrativo y de custodia; debiendo cubrirse, en todo caso, las siguientes áreas de conocimiento: medicina general, medicina psiquiátrica, psicología, trabajo social, derecho con conocimiento en ciencias penales, criminología, educativa, trabajo en el interior y disciplina interna.
 
-La Dirección de Prevención y Readaptación Social contará con un Consejo Técnico General, integrado por las mismas disciplinas indicadas y tendrá como función revisar los dictámenes que envíen los Consejos Técnicos de los Centros Penitenciarios, así como realizar los estudios de los internos que se encuentren recluidos en los establecimientos carcelarios de los distintos Distritos Judiciales foráneos.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
+
+La Secretaría de Seguridad Pública contará con un Consejo Técnico General, integrado por las mismas disciplinas indicadas y tendrá como función revisar los dictámenes que envíen los Consejos Técnicos de los Centros Penitenciarios, así como realizar los estudios de los internos que se encuentren recluidos en los establecimientos carcelarios de los distintos Distritos.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTICULO 21.
 
-Los Municipios del Estado adoptarán las medidas necesarias a efecto de que sus cárceles cuenten con las instalaciones adecuadas para los reclusos de uno y otro sexo y se mantengan en buenas condiciones de higiene y seguridad. La Dirección de Prevención y Readaptación Social vigilará que se cumpla con esta disposición.
+Los Municipios del Estado adoptarán las medidas necesarias a efecto de que sus cárceles cuenten con las instalaciones adecuadas para los reclusos de uno y otro sexo y se mantengan en buenas condiciones de higiene y seguridad. La Secretaría de Seguridad Pública vigilará que se cumpla con esta disposición.
 
 ###### ARTICULO 22.
 
@@ -265,9 +303,11 @@ La visita íntima, que tiene por finalidad principal el mantenimiento en las rel
 
 ### CAPITULO III. DE LA EJECUCION DE OTRAS SANCIONES PENALES
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 36.
 
-La ejecución de sanciones penales no privativas de libertad cuyo cumplimiento incumba al Ejecutivo, deberá ser comunicada por los tribunales del Estado a la Dirección de Prevención y Readaptación Social.
+La ejecución de sanciones penales no privativas de libertad cuyo cumplimiento incumba al Ejecutivo, deberá ser comunicada por los tribunales del Estado a la Secretaría de Seguridad Pública.
 
 ###### ARTICULO 37.
 
@@ -289,9 +329,11 @@ La libertad definitiva es aquélla que se otorga cuando el condenado a sanción 
 
 Ningún funcionario puede, sin causa justificada, aplazar, demorar u omitir el cumplimiento de lo dispuesto en el artículo que precede. De hacerlo incurrirá en responsabilidad.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 41.
 
-Al quedar en libertad definitiva una persona, la Dirección de Prevención y Readaptación Social le entregará una constancia de la legalidad de su salida, de la conducta observada durante su reclusión y de su aptitud para el trabajo.
+Al quedar en libertad definitiva una persona, la Secretaría de Seguridad Pública le entregará una constancia de la legalidad de su salida, de la conducta observada durante su reclusión y de su aptitud para el trabajo.
 
 ###### ARTICULO 42.
 
@@ -319,21 +361,27 @@ III.- Que adopte en el plazo que la resolución determine, cualquier medio hones
 
 IV.- Que alguna persona de arraigo se obligue a presentarlo siempre que para ello sea requerido, previa caución que otorgue, la que se hará efectiva si no cumple dicha obligación;
 
-V.- Que el beneficiado con la libertad preparatoria resida en el lugar que se determine, del cual no podrá ausentarse sin el permiso de la Dirección de Prevención y Readaptación Social. La designación se hará conciliando la circunstancia de que pueda proporcionársele trabajo en el lugar que se fije, con el hecho de que su permanencia en él no sea obstáculo para su enmienda; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
+
+V.- Que el beneficiado con la libertad preparatoria resida en el lugar que se determine, del cual no podrá ausentarse sin el permiso de la Secretaría de Seguridad Pública. La designación se hará conciliando la circunstancia de que puedan realizarse las gestiones para que obtenga trabajo en el lugar que se fije, con el hecho de que su permanencia en él no sea obstáculo para su enmienda; y
 
 VI.- Que haya reparado el daño causado u otorgado garantía para cubrir el monto.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 46.
 
-El recluso que crea tener derecho a la libertad preparatoria, elevará su solicitud a la Dirección de Prevención y Readaptación Social, exhibiendo copia para la Dirección del establecimiento penitenciario.
+El recluso que crea tener derecho a la libertad preparatoria, elevará su solicitud a la Secretaría de Seguridad Pública, exhibiendo copia para la Dirección del establecimiento penitenciario.
 
 ###### ARTICULO 47.
 
 Presentada la solicitud se hará la consulta del Consejo Técnico Interdisciplinario y se recabarán los informes que a éste proporcione el Director del establecimiento en que esté internado el solicitante.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 48.
 
-La resolución que conceda la libertad preparatoria tomará en consideración todos los informes y conclusiones recabados por la Dirección de Prevención y Readaptación Social, incluyendo la solvencia e idoneidad del fiador.
+La resolución que conceda la libertad preparatoria tomará en consideración todos los informes y conclusiones recabados por la Secretaría de Seguridad Pública, incluyendo la solvencia e idoneidad del fiador.
 
 Igualmente contendrá las observaciones y antecedentes relacionados con la conducta del reo durante su internamiento, así como los datos que demuestren que se encuentra en condiciones de ser reintegrado a la vida social.
 
@@ -341,9 +389,11 @@ Igualmente contendrá las observaciones y antecedentes relacionados con la condu
 
 La resolución que conceda la libertad preparatoria será firmada por el Ejecutivo Estatal o por el titular de la Dependencia que tenga asignada dicha función, en los términos de la Ley Orgánica de la Administración Pública del Estado y será comunicada al Director del establecimiento respectivo.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 50.
 
-Otorgada la caución, se expedirá por el Director de Prevención y Readaptación Social la orden de libertad del reo beneficiado, haciéndole entrega al mismo de una copia de la resolución que haya concedido el beneficio.
+Otorgada la caución, se expedirá por la Secretaría de Seguridad Pública la orden de libertad del reo beneficiado, haciéndole entrega al mismo de una copia de la resolución que haya concedido el beneficio.
 
 ###### ARTICULO 51.
 
@@ -355,17 +405,23 @@ II.- Si el liberado es condenado por nuevo delito doloso mediante sentencia ejec
 
 El sentenciado cuya libertad preparatoria haya sido revocada, deberá cumplir el resto de la pena. Los hechos que originen los nuevos procesos a que se refiere este artículo, interrumpen los plazos para extinguir la sanción.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 52.
 
-Para darse cumplimiento a lo dispuesto en la fracción II del artículo anterior, la autoridad judicial que tenga conocimiento del o de los nuevos delitos en que haya incurrido el liberado, dará parte al Ejecutivo y a la Dirección de Prevención y Readaptación Social.
+Para darse cumplimiento a lo dispuesto en la fracción II del artículo anterior, la autoridad judicial que tenga conocimiento del o de los nuevos delitos en que haya incurrido el liberado, dará parte al Ejecutivo y a la Secretaría de Seguridad Pública.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTICULO 53.
 
-Los individuos que disfruten de la libertad preparatoria quedarán sujetos a la vigilancia de la Dirección de Prevención y Readaptación Social, por el tiempo que les faltare para extinguir su sanción.
+Los individuos que disfruten de la libertad preparatoria quedarán sujetos a la vigilancia de la Secretaría de Seguridad Pública, por el tiempo que les faltare para extinguir su sanción.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTICULO 54.
 
-Cuando hubiere expirado el término de la condena que faltare por compurgar, el agraciado ocurrirá a la Dirección de Prevención y Readaptación Social, para que, en vista de la sentencia y de los informes que se recaben, se haga de plano la declaración de quedar el reo en libertad definitiva.
+Cuando hubiere expirado el término de la condena que faltare por compurgar, el recluso ocurrirá a la Secretaría de Seguridad Pública, para que, en vista de la sentencia y de los informes que se recaben, se haga de plano la declaración de quedar el reo en libertad definitiva.
 
 ###### ARTICULO 55.
 
@@ -395,9 +451,11 @@ El indulto en ningún caso extinguirá la obligación de reparar el daño.
 
 ### CAPITULO IV. CONMUTACION Y SUBSTITUCION DE SANCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 61.
 
-El Ejecutivo, tratándose de delitos de carácter político, podrá, a través de la Dirección de Prevención y Readaptación Social, hacer la conmutación de las sanciones, después de la sentencia ejecutoriada, conforme a las siguientes reglas:
+El Ejecutivo, tratándose de delitos de carácter político, podrá, a través de la Secretaría de Seguridad Pública, hacer la conmutación de las sanciones, después de la sentencia ejecutoriada, conforme a las siguientes reglas:
 
 I.- Cuando la sanción impuesta sea la de prisión, se conmutará por confinamiento por el término igual al de los dos tercios de lo que debería durar la prisión, observándose lo previsto en el segundo párrafo del artículo 60 del Código Penal del Estado; y
 
@@ -417,9 +475,11 @@ Para los efectos de lo dispuesto en los artículos anteriores es condición inel
 
 El Patronato de Asistencia a Liberados tendrá a su cargo prestar asistencia moral y material a los excarcelados tanto por el cumplimiento de condenas, como por libertad procesal, absolución, condena condicional o libertad preparatoria.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 65.
 
-El Ejecutivo del Estado, a propuesta de la Dirección de Prevención y Readaptación Social, designará a los integrantes del Patronato con los ciudadanos más representativos de los diferentes sectores de la sociedad, en cuya integración, en todo caso, habrá un representante de la Comisión Estatal de Derechos Humanos designado por ésta.
+El Ejecutivo del Estado, a propuesta de la Secretaría de Seguridad Pública, designará a los integrantes del Patronato con los ciudadanos más representativos de los diferentes sectores de la sociedad, en cuya integración, en todo caso, habrá un representante de la Comisión Estatal de Derechos Humanos designado por ésta.
 
 El Patronato será presidido por la persona que nombre el Ejecutivo del Estado.
 
@@ -476,3 +536,13 @@ SOCRATES RIZZO GARCIA.
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 GUSTAVO ALARCON MARTINEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los procedimientos administrativos que en cualquier instancia estén en trámite al iniciar la vigencia de este Decreto, se tramitarán con las disposiciones de carácter general que estuvieran vigentes al momento del inicio de dichos procedimientos.
+
+Artículo Tercero.- Se derogan todas las disposiciones legales que se opongan a esta Ley.
