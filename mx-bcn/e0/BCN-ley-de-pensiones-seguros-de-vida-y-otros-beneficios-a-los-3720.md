@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-pensiones-seguros-de-vida-y-otros-beneficios-a-los-3720"
 country: "mx"
 rank: "ley"
 publication_date: "1960-05-20"
-last_updated: "1983-06-10"
+last_updated: "1991-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PENSIONES, SEGUROS DE VIDA Y OTROS BENEFICIOS A LOS VETERANOS DE LA REVOLUCION, DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 20 de mayo de 1960.
 
@@ -97,15 +97,15 @@ Los beneficios que el Gobierno del Estado otorga a los Veteranos en reconocimien
 
 I.- Pensión Vitalicia hasta de $15,000.00 mensuales para el Veterano, y en caso de su fallecimiento, para su cónyuge, previo dictamen de la Comisión Consultiva.
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1983)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 1991)</small>
 
-II.- Seguro de vida para el Veterano y su cónyuge por la cantidad de $30,000.00 por cada uno.
+II.- Seguro de Vida para el Veterano y su Cónyuge por la cantidad de cien salarios mínimos vigentes por cada uno.
 
 III.- Servicio médico-quirúrgico gratuito en las Instituciones oficiales, incluyendo hospitalización y medicamentos, para los Veteranos.
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1983)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 1991)</small>
 
-IV.- Además de la Póliza a que se refiere el Artículo 6o. Fracción III, en relación con el Artículo 7o. Fracción II, el Estado proporcionará como paga de marcha al ocurrir la defunción del Veterano o de su cónyuge, la cantidad de $30,000.00 por cada uno, para gastos de funerales.
+IV.- Además de la póliza a que se refiere el Artículo 6o. Fracción III, en relación con el Artículo 7o. Fracción II, el Estado proporcionará como pago de marcha al ocurrir la defunción del Veterano o de su cónyuge, la cantidad de cuarenta y cinco salarios mínimos vigentes, por cada uno, para gastos de funerales.
 
 V.- El Estado honrará en vida a los Veteranos de la Revolución, concediéndoles Diplomas y Condecoraciones. En su sepelio se le harán a cada Veterano, los honores que acuerde la Comisión.
 
@@ -218,3 +218,9 @@ UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación e
 P.O. 10 DE JUNIO DE 1983.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE AGOSTO DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
