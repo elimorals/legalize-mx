@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1936-03-24"
+last_updated: "1936-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1936.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1936.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -75,21 +75,41 @@ P.O. 24 DE MARZO DE 1936.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
 
+P.O. 16 DE JUNIO DE 1936.
+
+DECRETO NUMERO 363, QUE REFORMA LOS PARRAFOS PRIMERO Y DECIMOSEGUNDO DEL ARTICULO 3° DE LA CONSTITUCION.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 16 DE JUNIO DE 1936.
+
+DECRETO NUMERO 364, QUE REFORMA LOS PARRAFOS 1° Y 3° DEL ARTICULO 3° DE LA CONSTITUCION.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 16 DE JUNIO DE 1936.
+
+DECRETO NUMERO 365, QUE REFORMA EL PRIMERO Y QUINTO PARRAFOS DEL ARTICULO 3° DE LA CONSTITUCION.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
 ###### Artículo 3º.
 
-El Territorio del Estado es el expresado en el Supremo Decreto de erección de 16 de enero de 1869 y se divide en quince Distritos a los que corresponden los 76 Municipios que a continuación se expresan:
+El Territorio del Estado es el expresado en el Supremo Decreto de erección de 16 de enero de 1869 y se divide en quince Distritos a los que corresponden los 79 Municipios que a continuación se expresan:
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 1927)</small>
 
 Distrito de Actopan: Formado con los Municipios de Actopan, Mixquiahuala, El Arenal, San Salvador, Santiago, San Agustín Tlaxiaca y Francisco I. Madero.
 
-Distrito de Apam: Formado con los Municipios de Apam, Tepeapulco y Tlanalapan.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1936)</small>
+
+Distrito de Apam: Formado con los Municipios de Apam, Tepeapulco, Tlanalapan y Almoloya.
 
 Distrito de Atotonilco el Grande: Formado con los Municipios de Atotonilco el Grande, Huasca y Omitlan.
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 1936)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1936)</small>
 
-Distrito de Huejutla: Formado con los Municipios de Huejutla, Orizatlán, Huazalingo, Huautla, Atlapexco, Xochiatipán, Tlanchinol y Jaltocán.
+Distrito de Huejutla: Formado con los Municipios de Huejutla, Orizatlán, Huazalingo, Huautla, Atlapexco, Xochiatipan, Tlanchinol, Jaltocán y Yahualica.
 
 Distrito de Huichapan: Formado con los Municipios de Huichapan, Tecozautla, Nopala y Chapantongo
 
@@ -107,7 +127,9 @@ Distrito de Pachuca: Formado con los Municipios de Pachuca, Mineral del Monte, M
 
 Distrito de Tenango de Doria: Formado con los Municipios de Tenango de Doria, San Bartolo Tutotepec, Agua Blanca, Iturbide y Huehuetla.
 
-Distrito de Tula de Allende: Formado con los Municipios de Tula de Allende, Tlaxcoapan, Tepeji del Río, Tetepango, Tezontepec de Aldama, Atitalaquia, Tepetitlán y Atotonilco Tula.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1936)</small>
+
+Distrito de Tula de Allende: Formado con los Municipios de Tula de Allende, Tlaxcoapan, Tepeji del Río, Tetepango, Tezontepec de Aldama, Atitalaquia, Tepetitlán, Atotonilco, Tula y Ajacuba.
 
 Distrito de Tulancingo: Formado con los Municipios de Tulancingo, Acaxochitlán, Cuautepec, Acatlán, Metepec y Singuilucan.
 
@@ -977,7 +999,7 @@ En tanto se expiden las leyes orgánicas relativas, continuaran rigiendo en el E
 
 Las autoridades y funcionarios del Estado no tienen mas facultades que las que expresamente les concedan esta Constitución, la General de la República y las leyes que de ellas emanen.
 
-> <small>(REFORMADO, PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 1936)</small>
+> <small>(REFORMADO, PRIMER PARRAFO, P.O. 16 DE JUNIO DE 1936)</small>
 
 ###### Artículo 3°.
 
