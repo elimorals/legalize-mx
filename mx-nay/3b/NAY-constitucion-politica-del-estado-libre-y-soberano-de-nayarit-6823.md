@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1977-03-12"
+last_updated: "1977-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 1977.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -957,11 +957,11 @@ IV.- Tener no menos de treinta ni más de sesenta años cumplidos, el día de la
 
 Para ser Juez de Primera Instancia, se requiere: ser mexicano, mayor de edad, abogado con título oficial; pero en caso de falta absoluta de éste podrá serlo con carácter interino, un conocedor en derecho a juicio del Supremo Tribunal; y para ser Juez Menor o de Paz, sólo se requiere: ser ciudadano mexicano, mayor de edad, instruido en la ciencia del Derecho a juicio del mismo Tribunal.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1926)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1977)</small>
 
 ###### Art. 87.
 
-Los Jueces de Primera Instancia, los Menores y de Paz, y los demás empleados del Poder Judicial, serán nombrados por el Supremo Tribunal de Justicia del Estado, pudiendo ser removidos de sus cargos solamente con causa justificada a juicio del Tribunal.
+Los Jueces de Primera Instancia, los Menores y de Paz y los demás empleados del Poder Judicial, serán nombrados por el Supremo Tribunal de Justicia del Estado. Los Jueces de Primera Instancia no podrán ser removidos de sus cargos sin previo juicio en el que se haya pronunciado sentencia condenatoria ejecutoriada y los demás empleados podrán ser removidos por causa justificada a juicio del Tribunal.
 
 ###### Art. 88.
 
@@ -1213,11 +1213,11 @@ En los delitos del orden común que cometieren el Gobernador, los Diputados, los
 
 Una vez hecha la declaración de haber lugar a formación de causa en contra de los altos Funcionarios a que se refiere el artículo anterior, por los delitos, faltas u omisiones oficiales en que incurran, conocerá del proceso el Supremo Tribunal de Justicia en única Instancia, en la forma que determine la Ley de Responsabilidades de Funcionarios del Estado. Si se tratare de la responsabilidad oficial del Magistrado en funciones, será substituido en los términos de Ley.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1977)</small>
 
 ###### Art. 125.
 
-De los delitos comunes cometidos por los Jueces de Primera Instancia, Menores, de Paz, Presidentes Municipales, Síndicos y Regidores, el Supremo Tribunal declarará en la forma que determine la Ley, si ha lugar o no a proceder. En caso afirmativo, quedará suspenso el acusado y sujeto a los Tribunales del orden común. De los delitos, faltas y omisiones oficiales en que incurran dichos Funcionarios, el Supremo Tribunal resolverá sobre la culpabilidad del acusado en la forma que determine la Ley, imponiendo en su caso la pena que es de aplicarse por el delito, falta u omisión oficial.
+De los delitos comunes cometidos por los Jueces de Primera Instancia, Presidentes Municipales, Síndicos y Regidores, el Supremo Tribunal declarará en la forma que determine la Ley, si ha lugar o no a proceder. En caso afirmativo, quedará suspenso el acusado y sujeto a los Tribunales del orden común. De los delitos, faltas y omisiones oficiales en que incurran dichos funcionarios, el Supremo Tribunal resolverá sobre la culpabilidad del acusado en la forma que determine la Ley, imponiendo en su caso la pena que es de aplicarse por el delito, falta u omisión oficial.
 
 ###### Art. 126.
 
@@ -1309,7 +1309,7 @@ DIPUTADO POR EL 14º DISTRITO ELECTORAL.
 
 Pablo Retes, Z., Vice-Presidente, Diputado por el Primer Distrito Electoral.- Marcos Esmerio, Diputado por el Segundo Distrito Electoral.- M.L. Urbina, Diputado por el Tercer Distrito Electoral.- Francisco Amézquita, Diputado por el Cuarto Distrito Electoral.- F. R. Pérez, Diputado por el Quinto Distrito Electoral.- Manuel Guzmán, Diputado Suplente por el Sexto Distrito Electoral.- Fidencio Estrada, Diputado por el Séptimo Distrito Electoral.- José María Ledón, Diputado por el Octavo Distrito Electoral.- J. Aguiar Béjar, Diputado Suplente por el Décimo Distrito Electoral.- Francisco N. Arroyo, Diputado por el Décimosegundo Distrito Electoral.- Antonio de P. Monroy, Diputado por el Décimotercero Distrito Electoral.- Mig. C. Madrigal, Diputado por el Décimoquinto Distrito Electoral.- F. R. Corona, Primer Secretario, Diputado por el Noveno Distrito Electoral.- Alfredo Robles, Segundo Secretario, Diputado por el Décimo Primero Distrito Electoral.
 
-Por lo tanto mando se imprima, publique por Bando Solemne, circule y sé le dé el más exacto cumplimiento.
+Por lo tanto mando se imprima, publique por Bando Solemne, circule y se le dé el más exacto cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo en Tepic, Nay., a los cinco días del mes de febrero de mil novecientos diez y ocho.
 
@@ -1536,3 +1536,9 @@ Este Decreto entrará en vigor a partir de la fecha de su publicación en el Per
 P.O. 12 DE MARZO DE 1977
 
 UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JUNIO DE 1977
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
