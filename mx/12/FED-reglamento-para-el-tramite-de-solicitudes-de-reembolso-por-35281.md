@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-tramite-de-solicitudes-de-reembolso-por-3528
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-17"
-last_updated: "2003-12-17"
+last_updated: "2005-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35281&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-10-16"
 
 REGLAMENTO PARA EL TRAMITE DE SOLICITUDES DE REEMBOLSO POR LA PRESTACION DE SERVICIOS MEDICOS EXTRAINSTITUCIONALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE REGLAMENTO HA SIDO ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA EL TRAMITE DE SOLICITUDES DE REEMBOLSO POR LA PRESTACION DE SERVICIOS MEDICOS EXTRAINSTITUCIONALES, PUBLICADO EN EL D.O.F. EL 31 DE MARZO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación el miércoles 17 de diciembre de 2003.
 
@@ -472,3 +474,15 @@ Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
 Atentamente
 
 México, D.F., a 16 de octubre de 2003.- El Secretario, Roberto Figueroa Martínez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 31 DE MARZO DE 2005.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento para el Trámite de Solicitudes de Reembolso por la Prestación de Servicios Médicos Extrainstitucionales, aprobado mediante acuerdo número 20.1284.2003 de la Junta Directiva del ISSSTE, publicado en el Diario Oficial de la Federación el 17 de diciembre de 2003.
+
+TERCERO.- Las solicitudes de reembolso que se encuentren en trámite y pendientes de Dictaminación y notificación a la fecha de entrada en vigor del presente reglamento, serán sustanciadas y dictaminadas por el Comité o la Comisión, conforme al Reglamento que se abroga.
+
+CUARTO.- Expídanse el Manual de Procedimientos para el Trámite de Solicitudes de Reembolso por la Prestación de Servicios Médicos Extrainstitucionales y el de Integración y Funcionamiento del Comité y Subcomité Técnico y de la Comisión Delegacional de Solicitudes de Reembolso."
