@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-planeacion-del-estado-de-puebla-6665"
 country: "mx"
 rank: "ley"
 publication_date: "1988-08-31"
-last_updated: "1988-08-31"
+last_updated: "1997-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE PLANEACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 1997.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el día 31 de agosto de 1988.
 
@@ -463,6 +463,12 @@ Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico
 
 El cómputo de los plazos que se señalan en los Artículos 23 y 24, se iniciarán por esta única vez, a partir de la publicación de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1997)</small>
+
+###### ARTICULO TERCERO.
+
+El plazo al que se refiere el artículo 24 de la presente Ley por esta única vez y para el ejercicio constitucional del 1° de junio de 1997 al 31 octubre del año 2000, de los Ayuntamientos del Estado, se amplía hasta por siete meses. Este plazo inicia el día de la toma de posesión de los Ayuntamientos.
+
 Salón de Sesiones del Honorable Congreso del Estado a los veintitrés días del mes de agosto de mil novecientos ochenta y ocho.- DIPUTADO PRESIDENTE, Enrique Rodríguez Sosa.- DIPUTADO SECRETARIO, Emiliano Morales Vergara.- DIPUTADA SECRETARIA, Yolanda Gutiérrez de Vélez.- Rúbricas.
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
@@ -482,3 +488,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 Lic. Alfredo de la Torre y Martínez
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE SEPTIEMBRE DE 1997.
+
+###### ARTICULO PRIMERO.
+
+Expídase el decreto respectivo y remítase al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado.
