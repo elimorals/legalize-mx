@@ -4,7 +4,7 @@ identifier: "SLP-codigo-fiscal-del-estado-de-san-luis-potosi-14989"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-08-05"
-last_updated: "1999-12-30"
+last_updated: "2004-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO FISCAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2004.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 5 de agosto de 1999.
 
@@ -375,6 +375,16 @@ V. Una vez notificada la autorización de la autoridad, el contribuyente tendrá
 
 VI. El crédito fiscal podrá ser exigido íntegramente por la autoridad, cuando el contribuyente o responsable solidario deje de cubrir tres parcialidades sucesivas; cuando no otorgue la garantía del interés fiscal en el plazo establecido o ésta sea insuficiente y cuando sea declarado en quiebra o solicite su liquidación judicial.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 36 BIS. Los contribuyentes obligados a pagar mediante declaración, podrán optar por compensar las cantidades que tengan a su favor, contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de impuestos estatales, o en su caso municipales, y las administre la misma autoridad, incluyendo sus accesorios. Al efecto bastará que efectúen la compensación de las cantidades actualizadas, conforme a lo previsto por el artículo 9º de este Código, desde el mes en que se realizó el pago de lo indebido, o se presentó la declaración que contenga el saldo a favor, hasta aquél en que la compensación se realice, presentando para ello el aviso de compensación correspondiente, dentro de los cinco días siguientes a aquélla en que la misma se haya efectuado.
+
+Si la compensación se hubiere efectuado y no procediera, se causarán recargos en los términos del artículo 11 de este Código, sobre las cantidades compensadas indebidamente, actualizadas por el período transcurrido desde el mes en que se efectuó la compensación indebida, hasta a aquél en que se haga el pago del monto de la compensación indebidamente efectuada.
+
+No se podrán compensar las cantidades cuya devolución se haya solicitado, o cuando haya prescrito la obligación para devolverlas.
+
+Las autoridades fiscales podrán compensar de oficio, las cantidades que los contribuyentes tengan derecho a recibir de las autoridades fiscales por cualquier concepto, en los términos de lo dispuesto en el artículo 35 de este Código, aun en el caso de que la devolución hubiera sido o no solicitada, contra las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros, cuando éstos hayan quedado firmes por cualquier causa. En este caso, se notificará personalmente al contribuyente la resolución que determine la compensación.
+
 ###### ARTICULO 37.
 
 Las facultades de las autoridades para comprobar el cumplimiento de obligaciones fiscales de pago de contribuciones y accesorios, así como presentación de declaraciones, avisos y documentos, al igual que para determinar créditos fiscales, caducan en cinco años, contados a partir de la fecha en que se haya presentado la información necesaria para que la autoridad hubiera podido determinar la obligación o, en su defecto, a partir de la fecha en que haya ocurrido el hecho generador de la obligación o vencido el plazo para su cumplimiento.
@@ -399,19 +409,7 @@ Procederá la cancelación de los créditos fiscales en las cuentas públicas, c
 
 ###### ARTICULO 40.
 
-Los contribuyentes tienen derecho a solicitar la condonación de las multas impuestas por las autoridades fiscales, cuando se demuestren los supuestos siguientes:
-
-I. Que la infracción se cometió por ignorancia;
-
-II. Que no se causó perjuicio grave al fisco;
-
-III. Que la sanción es desproporcionada respecto de sus ingresos, y
-
-IV. En su caso, que la omisión que motivó la infracción fue ya atendida o corregida.
-
-La solicitud de condonación no constituirá instancia y respecto de su resolución no procederá medio de defensa alguno.
-
-Se suspenderá el procedimiento de ejecución de la multa, si el infractor comprueba la presentación de la solicitud y garantiza el interés fiscal.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 41.
 
@@ -453,7 +451,9 @@ I. Constar por escrito;
 
 II. Indicar la persona a la que va dirigido o en su defecto, los datos que permitan su identificación;
 
-III. Señalar la autoridad o dependencia que lo emite;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+III. Señalar la autoridad que lo emite;
 
 IV. Estar fundado y motivado;
 
@@ -537,6 +537,18 @@ Los funcionarios y empleados fiscales del Estado y los municipios, así como los
 
 Queda terminantemente prohibido a los funcionarios y empleados fiscales proporcionar datos escritos o verbales relativos a la situación de los contribuyentes. Esta información sólo podrá facilitarse a los interesados o a sus representantes legítimos y a las autoridades judiciales o administrativas competentes. Podrá proporcionarse también a los notarios, a juicio de la autoridad fiscal, si formulan su solicitud por escrito y fundan y motivan suficientemente su petición.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 54 BIS. Las autoridades fiscales podrá (sic) condonar, total o parcialmente, las multas por infracción a las disposiciones fiscales, inclusive las determinadas por el propio contribuyente, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad al imponer la sanción.
+
+En todos los casos se atender á la gravedad y la reincidencia a la infracción, así como la capacidad económica del infractor y el perjuicio causado a la Hacienda Pública.
+
+Sólo procederá la condonación de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
+
+La solicitud de condonación de multas en los términos de este artículo no constituirá instancia, y las resoluciones que dicte la Secretaría de Finanzas al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
+
+La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
+
 ### CAPITULO II. DE LAS FACULTADES DE COMPROBACION DE LAS AUTORIDADES FISCALES
 
 ###### ARTICULO 55.
@@ -593,7 +605,13 @@ II. Los visitadores al citar al visitado o a su representante podrán hacer una 
 
 III. Si el contribuyente presenta aviso de cambio de domicilio, después de recibir el citatorio, la visita podrá llevarse a cabo en el nuevo domicilio y en el anterior, cuando el visitado conserve el local de éste, sin que para ello se requiera nueva orden o ampliación de la orden de visita, haciendo constar tales hechos en el acta que levanten, y
 
-IV. Cuando exista peligro de que el visitado se ausente o pueda realizar maniobras para impedir el inicio o desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la contabilidad.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+IV. Cuando exista peligro de que el visitado se ausente o pueda realizar maniobras para impedir el inicio o desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la contabilidad, y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+V. La visita se realizará en el lugar o lugares que se señalen en la orden, indistintamente.
 
 ###### ARTICULO 59.
 
@@ -607,7 +625,9 @@ III. Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer a
 
 IV. Durante el desarrollo de la visita, los visitadores, a fin de asegurar la contabilidad, correspondencia o bienes que no estén registrados en aquella, podrán indistintamente, sellar o colocar marcas en dichos documentos, bienes o en muebles, archiveros u oficinas donde se encuentren, así como dejarlos, en calidad de depósito, al visitado o a la persona con quien se entienda la diligencia, previo inventario que al efecto formulen. En el caso de que algún documento que se encuentre en los muebles, archiveros u oficinas que se sellen, sea necesario al visitado para realizar sus actividades, se le permitirá extraerlo ante la presencia de los visitadores, quienes podrán sacar copia del mismo, y
 
-V. La visita domiciliaria no podrá durar más de cuatro meses, contados a partir de la notificación de la orden y hasta el levantamiento de la última acta parcial. Este plazo podrá ampliarse una vez por un periodo igual, previa notificación del oficio en el que el superior jerárquico de la autoridad que emitió la orden autorice tal ampliación. Vencido el plazo a que se refiere esta fracción sin que se haya notificado el oficio de ampliación, o vencido este plazo también sin que se levante la última acta parcial, quedará sin efectos la orden y no podrá emitirse una nueva por los mismos conceptos.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+V. La visita domiciliaria no podrá durar más de seis meses, contados a partir de la notificación de la orden y hasta el levantamiento de la última acta parcial. Este plazo podrá ampliarse una vez por un período igual, previa notificación del oficio en el que el superior jerárquico de la autoridad que emitió la orden autorice tal ampliación. Vencido el plazo a que se refiere esta fracción sin que se haya notificado el oficio de ampliación, o vencido este plazo también sin que se levante la última acta parcial, quedará sin efectos la orden y no podrá emitirse una nueva por los mismos conceptos.
 
 ###### ARTICULO 60.
 
@@ -657,7 +677,9 @@ VII. Cuando las autoridades fiscales conozcan de terceros, hechos u omisiones qu
 
 VIII. Se tendrán por consentidos, salvo prueba en contrario, los hechos consignados en oficio de observaciones, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señala lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad, y
 
-IX. La revisión de la contabilidad o documentación, no podrá durar más de cuatro meses, contados a partir de la notificación del requerimiento y hasta la notificación del oficio de observaciones. Este plazo podrá ampliarse una vez por un periodo igual, previa notificación del oficio en el que el superior jerárquico de la autoridad que emitió el requerimiento autorice tal ampliación. Vencido el plazo a que se refiere esta fracción sin que se haya notificado el oficio de ampliación, o vencido este plazo también sin que se notifique el oficio de observaciones, quedará sin efectos el requerimiento y no podrá emitirse uno nuevo por los mismos conceptos.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+IX. La revisión de la contabilidad o documentación no podrá durar más de seis meses, contados a partir de la notificación del requerimiento y hasta la notificación del oficio de observaciones. Este plazo podrá ampliarse una vez por un período igual, previa notificación del oficio en el que el superior jerárquico de la autoridad que emitió el requerimiento autorice tal ampliación. Vencido el plazo a que se refiere esta fracción sin que se haya notificado el oficio de ampliación, o vencido este plazo también sin que se notifique el oficio de observaciones, quedará sin efectos el requerimiento y no podrá emitirse uno nuevo por los mismos conceptos.
 
 ###### ARTICULO 64.
 
@@ -804,6 +826,10 @@ Las notificaciones por instructivo se harán fijando en el domicilio del interes
 ###### ARTICULO 78.
 
 Las notificaciones de requerimientos de obligaciones incumplidas darán lugar, invariablemente, al pago de los gastos de notificación, que serán equivalentes a tres días de salario mínimo general de la zona y se destinarán a cubrir las remuneraciones del personal encargado de llevar a cabo las notificaciones.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 78 BIS. Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de cinco veces el salario mínimo general de la zona.
 
 ### CAPITULO II. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
@@ -1409,9 +1435,13 @@ III. Cuando la multa se pague dentro de los quince días siguientes a su notific
 
 Son infracciones por incumplimiento a la obligación principal de pago de las contribuciones, las siguientes:
 
-I. Por omitir contribuciones que sean determinadas por la autoridad fiscal, se aplicará una multa del setenta al cien por ciento de la contribución omitida, y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-II. Por omitir contribuciones que sean pagadas después de iniciadas las facultades de comprobación, pero antes de ser determinadas por la autoridad fiscal, se aplicará una multa del cincuenta al setenta por ciento de la contribución omitida.
+I. El cuarenta porciento de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios, antes de la notificación de la resolución que determine el monto de las contribuciones omitidas, y
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+II. Del cincuenta al ciento porciento de las contribuciones omitidas en los demás casos.
 
 Se aplicarán estas mismas multas en los casos de devoluciones o compensaciones que se efectúen y resulten improcedentes.
 
@@ -1491,7 +1521,9 @@ VI. Utilizar documentos falsos para la realización de trámites fiscales.
 
 Se impondrán las siguientes sanciones a quien cometa las infracciones señaladas en el artículo anterior:
 
-I. Multa de treinta a noventa días de salario, a la prevista en las fracciones I y II;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+I. Multa de quince a cuarenta y cinco días de salario, por cada obligación omitida a las previstas en las fracciones I y II;
 
 II. Multa de quince a sesenta días de salario, a la prevista en la fracción III;
 
@@ -1888,3 +1920,11 @@ P.O. 30 DE DICIEMBRE DE 1999.
 PRIMERO. Este Decreto entrará en vigor a partir del día primero de enero del año 2000.
 
 SEGUNDO. La derogación del artículo 80 de la Ley de Hacienda del Estado, entrará en vigor al iniciar su vigencia la reforma aprobada por la Cámara de Diputados del Congreso de la Unión, con fecha 17 de julio de 1999, al artículo 115 de la Constitución General de la República; mientras tanto, los derechos por la expedición de la licencia estatal de uso de suelo a que se refieren los artículos 60 a 62 del Código Urbano y Ecológico, los seguirá cobrando el Estado.
+
+P.O. 18 DE DICIEMBRE DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del uno de enero del año 2005.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+TERCERO. En caso de que se concesione alguna de las carreteras de cuota de acuerdo con la ley, se derogará la parte relativa del artículo 93 BIS de la Ley de Hacienda del Estado de San Luis Potosí, que se reforma mediante este Decreto, estableciéndose en el contrato de concesión o en el instrumento jurídico respectivo, las tarifas máximas que podrá cobrar el concesionario, mismas que deberán ser equivalentes a las que en este instrumento legislativo se establecen para el ejercicio fiscal 2005, incluyendo el Impuesto al Valor Agregado.
