@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "1964-01-25"
+last_updated: "1969-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 1964.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 1969.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -455,6 +455,10 @@ VII.- Universidad de Nuevo León y todas sus Dependencias.
 
 VIII.- Las Unidades Burocráticas Municipales comprenderán a todo el personal de base que presten sus servicios al Municipio.
 
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 1969)</small>
+
+IX.- Escuela Normal Superior del Estado.
+
 ### CAPITULO SEGUNDO. De las Huelgas
 
 ###### Art. 59o.
@@ -814,3 +818,7 @@ El Secretario General de Gobierno.- LIC. JESUS C. TREVIÑO.
 P.O. 25 DE ENERO DE 1964.
 
 UNICO:- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P. O. 15 DE NOVIEMBRE DE 1969.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
