@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-profesiones-del-estado-de-sinaloa-7359"
 country: "mx"
 rank: "ley"
 publication_date: "1955-05-03"
-last_updated: "1955-05-03"
+last_updated: "1956-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PROFESIONES DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 1956.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el 3 de mayo de 1955.
 
@@ -59,15 +59,29 @@ Para el ejercicio de una o varias Especialidades se requiere autorización de la
 
 2o.- Haber realizado en forma idónea, los estudios especiales de perfeccionamiento científico y técnico en la ciencia o rama de la ciencia de que se trate; o haber venido ejerciendo la especialidad por 5 años consecutivos.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1956)</small>
+
 ###### ARTICULO 5o.
 
-Para los efectos de la presente Ley, se entienden como legales los títulos expedidos por las Instituciones siguientes:
+Para los efectos de la presente Ley se consideran aptos para su registro los títulos profesionales que de acuerdo con sus ordenamientos respectivos sean expedidos:
 
-I.- Los expedidos en el Estado con arreglo a sus leyes relativas por la Universidad de Sinaloa y demás Instituciones que obtuvieren o hayan obtenido el reconocimiento de la autoridad competente.
+I.- Por la Universidad de Sinaloa respecto a las Escuelas, Facultades o Institutos que la integran o que en lo sucesivo se incorporen a ella.
 
-II.- Los expedidos por las demás Entidades Federativas conforme a las leyes respectivas, siempre que en el lugar de su expedición exista la Escuela o Facultad correspondiente cuyo funcionamiento esté debidamente autorizado y además que se justifique haber cursado los estudios que deben ser equivalentes a los planes de estudios de la Universidad Autónoma de México, a la Universidad de Sinaloa, y las Universidades o Escuelas Superiores de las demás Entidades Federativas de conformidad con la fracción V del artículo 121 de la Constitución.
+II.- Por el Gobernador del Estado respecto a las Universidades, Escuelas e Institutos que dependan directamente del Gobierno del Estado, o que en el futuro obtengan su incorporación a la Dirección General de Educación.
 
-III.- Las expedidas por las Universidades y Escuelas en el extranjero siempre que hayan sido revalidadas en nuestro país por alguna de las Instituciones citadas en el párrafo anterior.
+III.- Por las autoridades de la Federación y de los demás Estados o por las Instituciones que forman parte de los sistemas educativos de una y otros, sean descentralizados o incorporadas, siempre que se compruebe ante la Dirección Gral. de Profesiones:
+
+a).- La existencia del plantel;
+
+b).- La identidad del profesionista;
+
+c).- Haber cursado y aprobado el profesionista los estudios primarios, secundarios, preparatorios, vocacionales y profesionales requeridos por las leyes y reglamentos respectivos; y
+
+e) (sic).- En su caso, haber sido aprobado en el examen profesional relativo, de conformidad con la Fracción V del artículo 121 de la Constitución General de la República.
+
+IV.- Por las universidades y escuelas de países extranjeros, siempre que tales títulos hayan sido revalidados en nuestro país por alguna de las instituciones citadas en las fracciones anteriores.
+
+Por ningún concepto se registrarán títulos ni se revalidarán estudios de aquellas instituciones que no tengan los planteles profesionales correspondientes.
 
 ###### ARTICULO 6o.
 
@@ -586,3 +600,9 @@ Dr. RIGOBERTO AGUILAR PICO
 El Secretario Gral. de Gobierno
 
 LIC. MANUEL DIAZ Jr.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE ABRIL DE 1956.
+
+UNICO. El presente Decreto comenzará a surtir sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
