@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1980-12-31"
+last_updated: "1981-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1981.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -959,7 +959,21 @@ XXXIII.- Conceder o negar licencia con goce de sueldo a los funcionarios que las
 
 XXXIV.- Enviar al Congreso la iniciativa de la Ley Orgánica del Poder Ejecutivo.
 
-XXXV.- Las demás que se deriven de esta Constitución.
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 1981)</small>
+
+XXXV.- Otorgar y cancelar concesiones de servicios públicos.
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 1981)</small>
+
+XXXVI.- Establecer la Política en materia habitacional, colonias populares y asentamientos humanos conforme a las leyes de la materia.
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 1981)</small>
+
+XXXVII.- Celebrar convenios con la Federación para la realización de obras y servicios públicos, sometiéndolos a la aprobación del Congreso del Estado.
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1981)</small>
+
+XXXVIII.- Las demás que se deriven de esta Constitución y de sus Leyes Reglamentarias.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1089,9 +1103,9 @@ La Ley Orgánica respectiva determinará los requisitos que deben reunir los jue
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
-### CAPITULO I.
+### CAPITULO II.
 
-EL MUNICIPIO LIBRE.
+DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1113,7 +1127,7 @@ III.- Tener título profesional de licenciado en Derecho expedido por la autorid
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 1975)</small>
 
 ###### ARTICULO 91.
 
@@ -1151,17 +1165,15 @@ DE LA INTEGRACION DEL PODER LEGISLATIVO.
 
 Las atribuciones que le corresponden a las salas y al Presidente del Tribunal Superior serán fijadas por la Ley Orgánica del Poder Judicial.
 
-> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 1975)</small>
-
 ###### ARTICULO 93.
 
 De conformidad con lo establecido por el artículo 115 de la Constitución Federal, el Estado adoptará como base de su división territorial y de su organización política y administrativa al Municipio Libre.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
-### CAPITULO III.
+### CAPITULO UNICO.
 
-DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS.
+DE LOS BIENES DEL ESTADO Y MANEJO DE SUS INGRESOS Y EGRESOS.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1221,9 +1233,9 @@ V.- No ser ministro de algún culto religioso.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
-### CAPITULO UNICO.
+### CAPITULO II.
 
-DE LOS BIENES DEL ESTADO Y MANEJO DE SUS INGRESOS Y EGRESOS.
+DE LAS ATRIBUCIONES DEL PLENO Y DE LAS SALAS DEL TRIBUNAL SUPERIOR.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1627,6 +1639,8 @@ Si el Congreso insistiere en sostener sus reformas o adiciones, éstas no volver
 
 Esta Constitución no perderá su fuerza ni su vigor en ningún caso y por ningún motivo. Sus disposiciones son permanentes y sólo puede ser reformada o adicionada siguiendo los procedimientos y respetando los principios que la misma establece.
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
 ### CAPITULO III.
 
 DE LOS DISTRITOS.
@@ -1669,9 +1683,9 @@ DEL PODER JUDICIAL.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
 
-### CAPITULO II.
+### CAPITULO I.
 
-DE LAS ATRIBUCIONES DEL PLENO Y DE LAS SALAS DEL TRIBUNAL SUPERIOR.
+EL MUNICIPIO LIBRE.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1705,9 +1719,9 @@ DEL GOBIERNO DE LOS MUNICIPIOS DEL ESTADO.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
 
-### CAPITULO II.
+### CAPITULO III.
 
-DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS.
+DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -2208,3 +2222,7 @@ UNICO.- Este Decreto surtirá sus efectos a partir de su publicación en el Peri
 P.O. 31 DE DICIEMBRE DE 1980.
 
 UNICO.- El presente Decreto empezará a surtir sus efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ENERO DE 1981.
+
+UNICO.- El presente Decreto empezará a surtir sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
