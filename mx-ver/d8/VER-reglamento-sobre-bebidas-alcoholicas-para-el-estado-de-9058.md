@@ -4,7 +4,7 @@ identifier: "VER-reglamento-sobre-bebidas-alcoholicas-para-el-estado-de-9058"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-02-13"
-last_updated: "1992-02-13"
+last_updated: "2003-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9058&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # REGLAMENTO SOBRE BEBIDAS ALCOHOLICAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE-ANTES VERACRUZ-LLAVE-
 
-REGLAMENTO SOBRE BEBIDAS ALCOHOLICAS PARA EL ESTADO DE VERACRUZ-LLAVE
+REGLAMENTO SOBRE BEBIDAS ALCOHOLICAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 13 de febrero de 1992.
 
@@ -37,7 +37,11 @@ C O N S I D E R A N D O.
 
 Por lo anterior y acorde con los planteamientos de la Ley General de Salud y en especial con lo señalado en el Programa Contra el Alcoholismo y la Ley de Salud Estatal, he tenido a bien expedir el siguiente:
 
-REGLAMENTO SOBRE BEBIDAS ALCOHOLICAS PARA EL ESTADO DE VERACRUZ-LLAVE
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL DECRETO NO. 547 DE REFORMA CONSTITUCIONAL, PUBLICADO EN EL P.O. DE 18 DE MARZO DE 2003, PARA LOS EFECTOS CONSTITUCIONALES Y LEGALES PROCEDENTES, TODAS LAS LEYES, DECRETOS, CODIGOS U ORDENAMIENTOS ESTATALES DE OBSERVANCIA GENERAL, VIGENTES QUE EN SU DENOMINACION CONTENGAN LA EXPRESION "...ESTADO DE VERACRUZ-LLAVE", SE ENTENDERAN REFERIDAS AL "...ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE MARZO DE 2003)</small>
+
+REGLAMENTO SOBRE BEBIDAS ALCOHOLICAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -370,3 +374,23 @@ Para lo no contemplado en el presente Reglamento, se estará a lo que establezca
 En tanto se expiden las normas técnicas que se deriven del presente Reglamento, seguirán aplicándose las expedidas por la Autoridad Sanitaria Federal.
 
 DADO en el Palacio del Poder Ejecutivo del Estado Libre y Soberano de Veracruz-Llave, en la ciudad de Xalapa-Enríquez, Veracruz, el día veinte de junio de mil novecientos noventa y uno.- DANTE DELGADO.-Rúbrica. Lic. MIGUEL ANGEL DIAZ PEDROZA.- Rúbrica.- Secretario General de Gobierno.- DR. RAFAEL VELASCO FERNANDEZ.- Rúbrica.- Secretario de Salud y Asistencia.- GERARDO POO ULIBARRI.- Rúbrica.-Secretario de Finanzas y Planeación.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "...Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Veracruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "...del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
