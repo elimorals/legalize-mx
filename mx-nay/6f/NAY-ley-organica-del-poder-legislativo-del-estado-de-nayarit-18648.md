@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-18648"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-03-08"
-last_updated: "2001-05-05"
+last_updated: "2004-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2004.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 8 de marzo de 2000.
 
@@ -85,21 +85,49 @@ Ninguna autoridad judicial o administrativa podrá dictar mandamiento que afecte
 
 El Presidente de la Comisión de Gobierno Legislativo, el de la Mesa Directiva o en su caso el de la Permanente, podrá solicitar el auxilio de la fuerza pública para salvaguardar el fuero constitucional de los diputados y la inviolabilidad del Recinto Legislativo.
 
-###### ARTICULO 9o.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
 
-El Congreso del Estado celebrará en cada año dos periodos constitucionales de sesiones ordinarias; el primero iniciará el día 18 de agosto y terminará el día 17 de diciembre; y el segundo comenzará el día 18 de marzo y concluirá el día 17 de mayo del año respectivo.
+###### ARTICULO 9º.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DEL 2000)</small>
+El Congreso, en los términos del artículo 36 de la Constitución, celebrará anualmente los periodos de sesiones ordinarias. Cuando haya lugar a prorrogar dichas sesiones, el presidente de la legislatura presentará oportunamente un punto de acuerdo aduciendo los motivos que obligan a continuar las actividades legislativas, debiendo ser aprobado por el voto de la mayoría de los diputados asistentes. De las prórrogas se dará aviso a los poderes y Ayuntamientos oportunamente.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 10.
 
-El Congreso del Estado podrá celebrar sesiones extraordinarias de conformidad a lo establecido por el artículo 40 de la Constitución Local, las cuales se convocarán por la Diputación Permanente, por el titular del Poder Ejecutivo o por acuerdo de las dos terceras partes del número total de diputados, pero por conducto de la Diputación Permanente.
+Las sesiones extraordinarias se convocarán conforme lo dispone el artículo 40 constitucional. El acuerdo respectivo deberá ser publicado en el Periódico Oficial, Órgano del Gobierno del Estado o en la Gaceta Parlamentaria.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 11.
 
-Todas las resoluciones que emita el Congreso tendrán el carácter de ley, decreto o acuerdo, mismos que se comunicarán oficialmente al titular del Poder Ejecutivo para su promulgación, publicación y observancia en el Periódico Oficial, conforme a lo previsto por los artículos 54, 55 y 56 de la Constitución Política Local.
+Las resoluciones que emita el Congreso tendrán el carácter de ley, decreto o acuerdo, en los términos que al efecto disponen los artículos 46 y 53 de la Constitución.
 
-Se excepcionan de lo anterior las resoluciones previstas en el artículo 58 de la Constitución Local.
+Dichas resoluciones tendrán las siguientes características:
+
+I. Cuando se trate de nuevos ordenamientos, llevarán un nombre. El título o nombre de cualquier ordenamiento indicará el tipo, número, fecha y, de forma precisa, pero breve, el contenido u objeto de la disposición nombrada. Cada ordenamiento se identificará y denominará plenamente y se distinguirá de otros, llevándose un registro documental y cronológico.
+
+II. El tipo de ordenamiento indicará claramente su materia normativa. Los órganos técnicos del Congreso instrumentarán las medidas para establecer una adecuada organización de control y archivo de las resoluciones que se emitan, debiendo llevarse una numeración progresiva de los expedientes legislativos que dará inicio cada nueva legislatura, sin que tal numeración sea necesario imponerla obligatoriamente en la resolución que se publique oficialmente. Cada resolución se distinguirá por su nombre y materia.
+
+III. Las reformas, adiciones y artículos transitorios de cualquier ordenamiento, deberán incluirse y formar parte del cuerpo legal.
+
+IV. Las normas temporales especificarán su periodo de vigencia.
+
+V. Todos los ordenamientos contendrán un índice desglosado.
+
+VI. En el caso de los acuerdos se llevará un registro por separado, clasificando los que fueren legislativos, administrativos o parlamentarios.
+
+VII. En las resoluciones que se emitan no se repetirán las disposiciones o principios constitucionales, señalándose las normas de aplicación supletoria, en su caso.
+
+VIII. Las reglas generales sobre el contenido normativo de las resoluciones deberán:
+
+a) Responder a un criterio único de ordenación;
+
+b) Su regulación normativa irá de lo general a lo particular, de lo abstracto a lo concreto, de lo normal a lo excepcional y de lo principal a lo procesal.
+
+c) El desarrollo temático se hará de manera jerárquica y ordenada, sin dejar vacíos o lagunas.
+
+d) El orden interno precisará: la finalidad, las definiciones cuando así proceda, el ámbito de aplicación, la parte sustantiva, las infracciones y sanciones, el procedimiento y las disposiciones finales, si hubieren.
 
 ###### ARTICULO 12.
 
@@ -137,7 +165,9 @@ Son derechos de los diputados:
 
 I.- Integrar la legislatura constitucional para la cual fue electo;
 
-II.- Iniciar leyes y decretos, proponer reformas y adiciones a la normatividad jurídica e intervenir en las discusiones y votaciones de los mismos conforme lo establecen la presente Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2004)</small>
+
+II.- Iniciar leyes, decretos o acuerdos, así como proponer reformas, adiciones o supresiones a la normatividad vigente e intervenir en las discusiones y votaciones conforme a los procedimientos y requisitos establecidos en la Constitución, esta ley y el reglamento respectivo.
 
 III.- Participar con voz y voto en las sesiones del pleno del Congreso, en las reuniones de la Diputación Permanente cuando forme parte de ésta y así mismo podrá asistir con voz, pero sin voto, a las sesiones de las Comisiones de las que no forme parte;
 
@@ -459,9 +489,11 @@ Cuando se hubiere convocado a periodo extraordinario de sesiones del Congreso, e
 
 Cuando hubiere observaciones al acta de la Asamblea por uno o varios diputados, se procederá a insertar éstas en hoja anexa firmada por el o los interesados, la que deberá ser certificada por un Secretario de la Mesa Directiva al término de la sesión.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 50.
 
-Las Leyes, Decretos o Acuerdos que apruebe la Asamblea Legislativa, seguirán el trámite dispuesto en el artículo 53 de la Constitución Local. En caso de ausencia de alguno de los diputados que deban firmar las resoluciones, serán sustituidos por sus respectivos suplentes, los que tendrán derecho a que su nombre aparezca en el documento respectivo el cual firmarán para su validez.
+Las leyes o decretos seguirán los trámites y formalidades a que se refieren los artículos 53, 54, 55 y 56 de la Constitución Política. Los acuerdos se comunicarán al gobernador en los términos de la parte relativa del artículo 53 constitucional, mediante escrito firmado por el presidente del Congreso.
 
 ###### ARTICULO 51.
 
@@ -749,95 +781,89 @@ De no encontrarse en funciones la Legislatura, la Diputación Permanente convoca
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 85.
 
-El Congreso del Estado, para su debido funcionamiento en el cumplimiento de sus atribuciones deberá contar con la estructura técnica y administrativa que se establece en la presente Ley.
+La estructura técnica y administrativa del Congreso se organiza en la Secretaría General, la Oficialía Mayor y el Órgano de Fiscalización Superior, las cuales estarán bajo la autoridad inmediata de la Comisión de Gobierno.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 05 DE MAYO DEL 2001)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 86.
 
-El Proceso Legislativo y los Asuntos Jurídicos del Congreso se ejercerán a través de la Secretaría General y su titular se denominará Secretario General. Las atribuciones del Congreso en materia de vigilancia y fiscalización de los caudales públicos se ejercerán por el Órgano de Fiscalización Superior de acuerdo a lo dispuesto en el Título Noveno de la presente Ley. La Gestión Administrativa Interna del Congreso se ejercerá por la Oficialía Mayor, y contará con la siguiente estructura:
+El secretario general y el oficial mayor serán nombrados, a propuesta de la Comisión de Gobierno, por la asamblea con el voto de la mayoría absoluta de los diputados integrantes de la legislatura, y durarán en sus cargos 4 años, pudiendo ser ratificados por una sola vez.
 
-I.- Dirección de Administración;
-
-II.- Tesorería;
-
-III.- Departamento de Recursos Humanos; y
-
-IV.- Departamento de Recursos Materiales y Servicios Generales.
-
-> <small>(REFORMADO, P.O. 05 DE MAYO DEL 2001)</small>
-
-La administración y ejercicio de los recursos financieros se ejercerá por conducto de la Tesorería la cual deberá presentar la cuenta pública del Congreso por conducto de la Oficialía Mayor, dentro de los veinte días del trimestre siguiente al que corresponda su ejercicio, a la Comisión de Hacienda, Cuenta Pública y Presupuesto, para los efectos y en los términos que dispone la Ley del Órgano de Fiscalización Superior del Estado.
-
-La gestión social estará a cargo de la Unidad de Gestoría Social, conforme a lo establecido en el Reglamento de Gobierno Interior y del Proceso Legislativo.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 87.
 
-La Secretaría General del Poder Legislativo es el órgano técnico responsable de la Coordinación Parlamentaria y Jurídica del Congreso y se encuentra bajo la autoridad inmediata de la Comisión de Gobierno Legislativo.
+La Secretaría General es la dependencia encargada de llevar a cabo las actividades relacionadas con el proceso legislativo, la investigación y elaboración de los estudios legislativos y la asistencia y seguimiento de los asuntos jurídicos que corresponda.
 
-###### ARTICULO 88.
-
-El Secretario General será nombrado por la Asamblea con el voto de la mayoría absoluta de los diputados integrantes de la Legislatura a propuesta de la Comisión de Gobierno Legislativo para un periodo de 4 años, pudiendo ser ratificado por una sola vez.
-
-###### ARTICULO 89.
-
-El Secretario General deberá reunir los siguientes requisitos:
-
-I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos, mayor de 30 años;
-
-II.- Poseer título profesional de Licenciado en Derecho debidamente registrado;
-
-III.- Gozar de buena reputación y reconocida honorabilidad;
-
-IV.- No haber desempeñado algún cargo de dirección de partido político ni haber desempeñado algún cargo de elección popular, durante los últimos tres años; y
-
-V.- Acreditar ante la Comisión de Gobierno Legislativo los conocimientos y experiencia necesarios.
-
-###### ARTICULO 90.
-
-Para el despacho de los asuntos a su cargo la Secretaría General contará con la estructura siguiente:
+Para el cumplimiento de dichas funciones, la Secretaría tendrá la estructura siguiente:
 
 I.- Dirección de Proceso Legislativo;
 
 II.- Dirección de Asuntos Jurídicos;
 
-III.- Dirección del Centro de Investigación Legislativa y Biblioteca;
+III.- Dirección de Investigación Legislativa y Biblioteca
 
-IV.- Coordinación de la Crónica Parlamentaria; y
+IV.- Coordinación de la Crónica Parlamentaria;
 
-V.- Coordinación de Informática Legislativa.
+V.- Coordinación de Informática Legislativa;
+
+VI.- Coordinación de Apoyo Parlamentario, y
+
+VII.- Departamento de Archivo.
+
+El Reglamento establecerá sus respectivas atribuciones, así como los requisitos y procedimiento para la designación de sus titulares.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
+
+###### ARTICULO 88.
+
+Para ser secretario general del Congreso se requiere:
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos mayor de 30 años;
+
+II.- Poseer título profesional de licenciado en derecho debidamente registrado;
+
+III.- Gozar de buena reputación y reconocida honorabilidad;
+
+IV.- No haber desempeñado algún cargo de dirección de partido político ni de elección popular, durante los últimos tres años;
+
+V.- Acreditar ante la Comisión de Gobierno los conocimientos y experiencia necesarios.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
+
+###### ARTICULO 89.
+
+La Oficialía Mayor es la dependencia encargada de la gestión administrativa del Congreso, con la siguiente estructura:
+
+I.- Dirección de Administración;
+
+II.- Tesorería;
+
+III.- Departamento de Recursos Humanos, y
+
+IV.- Departamento de Recursos Materiales y Servicios Generales.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
+
+###### ARTICULO 90.
+
+La administración y ejercicio de los recursos financieros estará a cargo de la Tesorería, cuyo titular caucionará competentemente para su desempeño.
+
+La cuenta pública del Congreso se presentará, por conducto del Oficial Mayor, a la Comisión de Hacienda, Cuenta Pública y Presupuesto, dentro de los veinte días del trimestre siguiente al que corresponda su ejercicio, para los efectos y en los términos que dispone la Ley de Fiscalización Superior.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 91.
 
-El titular de la Secretaría General tendrá las siguientes atribuciones y obligaciones:
+Los titulares de las dependencias administrativas y técnicas serán designados por la asamblea con la votación calificada de sus integrantes y a propuesta de la Comisión de Gobierno.
 
-I.- Prestar asesoría técnica a la Mesa Directiva, a la Comisión de Gobierno Legislativo y a la Diputación Permanente en el desempeño de sus funciones;
+Los titulares de las demás áreas internas de cada dependencia se designarán y removerán por acuerdo de la Comisión de Gobierno, en los términos señalados por el reglamento.
 
-II.- La elaboración de las actas de sesiones y ordenar su publicación y archivo;
-
-III.- Preparar y coordinar las acciones e instrumentos técnicos necesarios para el proceso legislativo y la adecuada celebración de las sesiones;
-
-IV.- Llevar el registro y control de las resoluciones emitidas;
-
-V.- Llevar los libros, registros y demás documentos establecidos para el control y seguimiento de los asuntos del Congreso;
-
-VI.- Elaborar la Gaceta Parlamentaria;
-
-VII.- Coordinar los trabajos de las Direcciones, Coordinaciones y Departamentos a su cargo;
-
-VIII.- Brindar apoyo a las Comisiones Ordinarias y Especiales para el adecuado y eficaz cumplimiento de sus atribuciones;
-
-IX.- Remitir al Poder Ejecutivo las leyes, Decretos o Acuerdos que apruebe el pleno o la Diputación Permanente, para el trámite legal correspondiente;
-
-X.- Presentar anualmente informe por escrito al Pleno de la Cámara;
-
-XI.- Certificación de documentos para su trámite legal correspondiente;
-
-XII.- Instrumentar el Servicio Civil de Carrera para los servidores públicos y trabajadores del Congreso, en coordinación con el Oficial Mayor y el Contador Mayor de Hacienda previa aprobación del programa anual por parte de la Comisión de Gobierno Legislativo;
-
-XIII.- Las demás que surjan de la aplicación de esta Ley y su Reglamento, así como las que se le encomienden por la Asamblea, la Comisión de Gobierno Legislativo o la Diputación Permanente;
+Los requisitos y procedimientos para la designación de los titulares de las dependencias administrativas y técnicas serán determinados en el reglamento, a excepción del Auditor General del Órgano de Fiscalización que se establecerá en la ley de la materia.
 
 ## TITULO OCTAVO. DEL PROCESO LEGISLATIVO
 
@@ -887,19 +913,27 @@ IV.- Observar cuando menos dos lecturas del dictamen ante la Asamblea, salvo dis
 
 V.- Discusión y votación del proyecto presentado, así como su elaboración, firma y remisión de la Ley o Decretos aprobados al titular del Poder Ejecutivo del Estado para su trámite legal correspondiente;
 
-VI.- Los acuerdos parlamentarios deberán presentarse por escrito y se desahogarán previo análisis del dictamen correspondiente, salvo que la Asamblea acuerde que es de urgente y obvia resolución, en cuyo caso se discutirá y aprobará en la Sesión que se presente; y una vez aprobados, la Dirección de Proceso Legislativo les dará el trámite correspondiente.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2004)</small>
+
+VI.- Los acuerdos que contengan declaraciones legislativas, administrativas o parlamentarias deberán presentarse por escrito y se desahogarán previo análisis del dictamen correspondiente, salvo que al momento de su presentación la asamblea acuerde que es de urgente y obvia resolución, en cuyo caso se discutirá y aprobará, en su caso, en el mismo acto. La Secretaría General hará los trámites que en este caso correspondan, para la debida integración del expediente.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 100.
 
-Si el Ejecutivo devuelve la Ley o Decreto aprobados, conforme a lo establecido en los artículos 54 y 55 de la Constitución Local, deberá dictaminarse exclusivamente sobre las observaciones que el Ejecutivo hubiese hecho, para ser sometida a la discusión y aprobación por votación de mayoría absoluta de los diputados que integren la Legislatura.
+Las observaciones que en su caso presente el Ejecutivo a las leyes o decretos aprobados por la legislatura, en los términos de los artículos 54, 55 y 56 de la Constitución, se darán cuenta en sesión plenaria de la misma y se turnarán a las comisiones competentes para que procedan a su revisión; el nuevo dictamen versará exclusivamente sobre las observaciones presentadas y, una vez concluido y firmado por la mayoría de sus integrantes, se pondrá a discusión de la asamblea, previa lectura, y será aprobado, en su caso, por el voto de la mayoría de legisladores presentes. A la sesión donde deba discutirse el asunto, será invitado el gobernador para que por sí, o por medio de representante autorizado, participe en las deliberaciones y responda a los cuestionamientos que le formulen los diputados conforme a las normas establecidas en el reglamento del Congreso.
+
+En todos los casos, si a pesar de que el Congreso hubiere rechazado las observaciones, confirmando en todo o en parte la resolución original, el gobernador se niega o dilata la respectiva publicación, entonces, en los plazos señalados por la Ley del Periódico Oficial, el presidente del Congreso o de la Diputación Permanente se dirigirá por escrito para pedir que sin demora lo publique y, si no lo hace de inmediato, se informará de ello al pleno procediéndose a fincarle las responsabilidades legales que hubiere lugar.
 
 ###### ARTICULO 101.
 
 La Secretaría General solicitará al Periódico Oficial, Organo de Gobierno del Estado, dotación de ejemplares en cantidad suficiente para archivo, difusión o distribución gratuita entre los diputados.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 102.
 
-Las resoluciones que dicte el Congreso en materia de acuerdos, sea que se presenten de manera individual o a través de los Grupos Parlamentarios, deberán sustentarse en el dictamen correspondiente y en su caso, tramitarse conforme lo ordena el Reglamento. La presentación de acuerdos se asentará en actas para su trámite correspondiente, sólo los integrantes de la Legislatura podrán presentar solicitudes de acuerdos legislativos o parlamentarios.
+Los acuerdos podrán ser presentados de manera individual por los diputados o bien como grupos parlamentarios, en su caso. Su dictaminación y trámite se ajustarán al reglamento.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 05 DE MAYO DEL 2001)</small>
 
@@ -1027,13 +1061,17 @@ La destitución del servidor público y en su caso su inhabilitación para desem
 
 ### CAPITULO II. DE LA DECLARATORIA DE PROCEDENCIA
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 122.
 
-En el caso de funcionarios públicos sujetos a responsabilidad política por actos u omisiones cometidas en el desempeño de sus funciones, el Congreso del Estado formulará declaratoria de procedencia de acuerdo a lo establecido en los artículos 124, 125 y demás relativos de la Constitución Política del Estado.
+En el caso de servidores públicos sujetos a responsabilidad penal por delitos cometidos durante el ejercicio del cargo, el Congreso formulará declaratoria de procedencia con el objeto de separarlos del cargo en tanto se encuentren sujetos a proceso penal, en los términos y con las formalidades establecidas en los artículos 122, 123 fracción II, 125, 126 y 128 segundo párrafo de la Constitución Política del Estado, así como en las leyes de la materia.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 123.
 
-Cuando se presente denuncia o querella por particulares o a pedimento expreso del Procurador General de Justicia, en contra de algunos de los servidores públicos que se encuentren investidos de fuero constitucional a que se refiere el artículo 123 de la Constitución Política del Estado, por la comisión de hechos delictuosos, se actuará en lo pertinente de conformidad con el procedimiento establecido para el juicio político en la Ley de la materia.
+Cuando se presente denuncia, o bien lo solicite directamente el Procurador General de Justicia, en contra de los servidores públicos señalados por la Constitución Política, a quienes se les impute hechos delictuosos, el Congreso se ajustará a los procedimientos y formalidades establecidas en la ley de la materia.
 
 ## TITULO DECIMO TERCERO. DE LA SUSPENSION Y DESAPARICION DE AYUNTAMIENTOS Y
 
@@ -1142,3 +1180,9 @@ P.O. 05 DE MAYO DEL 2001
 ###### ARTICULO UNICO.
 
 El presente decreto surtirá sus efectos el día siguiente de su publicación en el Periódico, Oficial Organo de Gobierno del Estado.
+
+P.O. 16 DE JUNIO DE 2004.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Por lo que respecta a la numeración progresiva de los expedientes legislativos que contengan las resoluciones aprobadas por la legislatura, entrará en vigor hasta el 17 de agosto de 2005.
