@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1948-04-06"
+last_updated: "1948-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 1948.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -63,7 +63,9 @@ I. Los que se conceden a los habitantes de la República en el Capítulo 1º del
 
 II. Si son mexicanos, los que les concede la misma Constitución.
 
-III. Votar en las elecciones populares siempre que el individuo sea ciudadano mexicano en el ejercicio de sus derechos, y no sea ministro de algún culto ni pertenezca al estado eclesiástico.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1948)</small>
+
+III. Votar en las elecciones populares siempre que la persona sea ciudadano mexicano en el ejercicio de sus derechos, y no sea ministro de ningún culto ni pertenezca al estado eclesiástico. Las mujeres participarán en las elecciones Municipales de acuerdo con la facultad que les otorga la fracción I del Artículo 115 de la Constitución General de la República;
 
 IV. Ser votado en toda elección popular y desempeñar cualquier empleo del Estado, cuando además de los requisitos que fija el párrafo anterior, el individuo tenga las condiciones que la Ley exija para cada caso.
 
@@ -85,13 +87,13 @@ El Supremo Poder del Estado se divide, para su ejercicio, en Legislativo, Ejecut
 
 El Poder Legislativo se deposita en una asamblea que se denomina Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1948)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1948)</small>
 
 ###### Art. 8º.
 
-El Congreso del Estado se compondrá de Diputados electos popularmente cada tres años.
+El Congreso del Estado se compondrá de Diputados electos cada tres años.
 
-Los individuos a quienes las Juntas Computadoras de las Cabeceras de Distrito Electoral expidan credenciales, declarando que han obtenido mayoría de votos para Diputados, instalados en Colegio Electoral, calificarán la elección, declarando quiénes son Diputados conforme a la Ley. Esta declaratoria y todos los demás actos del Congreso en funciones de Colegio Electoral son irrevocables.
+Los individuos a quienes el Consejo Electoral expida credenciales, declarando que han obtenido mayoría de votos para Diputados, instalados en Colegio Electoral, calificarán la elección declarando quiénes son Diputados conforme a la Ley. Esta declaratoria y todos los demás actos del Congreso en funciones de Colegio Electoral son irrevocables.
 
 La Diputación Permanente es la facultada para instalar el Colegio Electoral.
 
@@ -459,13 +461,13 @@ XVI. Convocar al Congreso a sesiones extraordinarias, debiendo hacerlo a la mayo
 
 La Administración Municipal, se ejerce por los Ayuntamientos que residirán en las Cabeceras de las Municipalidades.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1948)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1948)</small>
 
 ###### Art. 37.
 
-Los Ayuntamientos se compondrán de Munícipes nombrados en elección popular directa, calificada por ellos mismos, en los términos que disponga la Ley Electoral.
+Los Ayuntamientos se compondrán de Munícipes nombrados en elección popular directa, calificada por el Consejo Electoral o por el Tribunal Electoral, en los términos de la Ley de la materia.
 
-Para ser electo Munícipe es requisito indispensable tener domicilio legal en el lugar en que hubiere de funcionar, cuando menos desde dos años antes al día de la elección.
+Para ser electo Munícipe es requisito indispensable tener domicilio legal en el lugar en que hubiere de funcionar, cuando menos desde dos años antes del día de la elección.
 
 Los Munícipes durarán en su encargo tres años y se renovarán en su totalidad al final de cada período.
 
@@ -734,3 +736,19 @@ P.O. 6 DE ABRIL DE 1948.
 PRIMERO.- Las reformas a que se refiere el presente Decreto surtirán sus efectos en los períodos que se iniciarán el 1º de enero, el primero de febrero y el primero de abril de 1953, respectivamente, para Munícipes, Diputados y Magistrados.
 
 SEGUNDO.- Por esta sola vez los próximos períodos para Diputados y Munícipes serán de cuatro años, y de dos para los Magistrados. Las elecciones y designación correspondientes, se ajustarán a la forma y términos que establecen la Constitución Política y la Ley Electoral del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 1948.
+
+DECRETO NUMERO 5373.
+
+UNICO.- Esta reforma empezará a surtir sus efectos el día en que se declare que es parte de la Constitución Política del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 1948.
+
+> <small>N. DE E. POR LA IMPORTANCIA DEL CONTENIDO DEL ARTICULO UNICO DEL DECRETO, SE TRANSCRIBE INTEGRAMENTE EL MISMO.</small>
+
+DECRETO NUMERO 5375.
+
+###### ARTICULO UNICO.
+
+Se declara que las reformas a los Artículos 4o. fracción III, 8o. y 37o., aprobadas por este H. Congreso en sesión del día 30 de agosto del corriente año, forman parte de la Constitución Política del Estado y por lo tanto entrarán en vigor, de acuerdo con lo estipulado en el Decreto respectivo, al publicarse en el Periódico Oficial "El Estado de Jalisco".
