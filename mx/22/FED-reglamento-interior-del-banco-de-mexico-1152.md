@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2003-06-02"
+last_updated: "2004-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ABRIL DE 2004.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -65,7 +65,7 @@ La Junta de Gobierno y sus miembros, contarán con los asesores que la propia Ju
 
 Las actas de las sesiones de la Junta de Gobierno se conservarán en volúmenes anuales y serán firmadas por quien haya presidido la Junta y por el Secretario, así como por los miembros de la Junta de Gobierno asistentes que quieran hacerlo, debiéndose conservar en un apéndice un ejemplar de los documentos que hubieran sido relacionados en la sesión de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 4o.
 
@@ -293,43 +293,39 @@ La Dirección General de Administración Interna tendrá las atribuciones señal
 
 A esta Dirección General estarán adscritas las Direcciones de Administración, Contabilidad y de Seguridad, así como las Gerencias de Inmuebles e Informática. La Gerencia de Inmuebles contará con las atribuciones relativas a la formalización de los actos, convenios y contratos relacionados con la adquisición, uso, mantenimiento, administración, enajenación, construcción, adaptación y demolición de bienes inmuebles, sus instalaciones y equipos, así como los bienes muebles que integran el mobiliario y equipo de oficina, ya sean propiedad del Banco o que ocupe bajo cualquier título, y administrar el almacén. La Gerencia de Informática operará y desarrollará los sistemas de informática de esta Dirección General y de las unidades administrativas adscritas a ésta, pudiendo realizar todos los actos necesarios para ese fin.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 16.
 
-La Dirección General de Emisión tendrá las atribuciones siguientes:
+La Dirección General de Emisión tendrá las atribuciones señaladas en el artículo 16 Bis de este Reglamento, así como las de formalizar los actos necesarios para la fabricación de billetes y la acuñación de moneda metálica; diseñar y realizar la manufactura de billetes de banco y otros impresos de seguridad en sus instalaciones, incluyendo las relacionadas con el mantenimiento de los equipos e instalaciones correspondientes a dichos procesos; colaborar con bancos centrales, acuñadores y proveedores, en aspectos relacionados con la fabricación de billetes y moneda metálica, así como administrar los programas de capacitación del personal que realiza labores técnicas vinculadas a la fabricación de billete.
 
-I. Formalizar los actos necesarios para la fabricación de billetes y la acuñación de moneda metálica, bien en sus propias instalaciones, o a través de terceros, así como los relacionados con el mantenimiento de los equipos e instalaciones relativos a dicho proceso;
+A esta Dirección General estará adscrita la Dirección de Programación y Distribución de Efectivos.
 
-II. Convenir los actos correspondientes al traslado y custodia de efectivo, valores y metales preciosos, incluyendo los concernientes a la operación y mantenimiento del equipo que el Banco utilice para tal efecto;
+> <small>(ADICIONADO, D.O.F. 7 DE ABRIL DE 2004)</small>
 
-> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 1998)</small>
+ARTICULO 16 BIS.- La Dirección de Programación y Distribución de Efectivos, tendrá las atribuciones siguientes:
 
-III. Formalizar los actos vinculados al adecuado almacenamiento, abastecimiento, canje, retiro, reproducción, destrucción y entrega de signos monetarios, así como los relativos a corresponsalía de caja. Estando además facultada para expedir disposiciones relacionadas con las actividades mencionadas en esta fracción y resolver las sanciones correspondientes;
+I. Convenir los actos correspondientes al traslado y custodia de efectivo, valores y metales preciosos, incluyendo los concernientes a la operación y mantenimiento del equipo que el Banco utilice para tal efecto;
 
-IV. Recabar información de los integrantes del sistema bancario, respecto a los montos y características de sus existencias de billete y moneda metálica y la relacionada con las entregas y retiro de efectivo realizadas con el Banco, así como la información correspondiente al empleo de efectivo en sus operaciones;
+II. Formalizar los actos vinculados al adecuado almacenamiento, abastecimiento, canje, retiro, reproducción, destrucción y entrega de signos monetarios, así como los relativos a corresponsalía de caja. Estando además facultada para expedir disposiciones relacionadas con las actividades mencionadas en esta fracción y resolver las sanciones correspondientes;
 
-V. Comercializar monedas, o piezas que hubieren tenido ese carácter, con empaque o acabado especial y metales. También podrá comercializar bienes elaborados en la Fábrica de Billetes, conforme a lo dispuesto en el artículo 62 de la Ley;
+III. Recabar información de los integrantes del sistema bancario, respecto a los montos y características de sus existencias de billete y moneda metálica y la relacionada con las entregas y retiro de efectivo realizadas con el Banco, así como la información correspondiente al empleo de efectivo en sus operaciones;
 
-VI. Administrar los programas de capacitación del personal que realiza labores técnicas vinculadas a la fabricación de billete;
+IV. Comercializar monedas, o piezas que hubieren tenido ese carácter, con empaque o acabado especial y metales. También podrá comercializar bienes elaborados en la Fábrica de Billetes, conforme a lo dispuesto en el artículo 62 de la Ley;
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 1997)</small>
+V. Colaborar con bancos centrales, acuñadores y proveedores en aspectos relacionados con la puesta en circulación, proceso y distribución de billetes y monedas metálicas;
 
-VII. Operar las sucursales del Banco;
+VI. Operar las sucursales del Banco, y
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 1997)</small>
-
-VIII. Colaborar con bancos centrales, acuñadores y proveedores, en aspectos relacionados con la fabricación de billetes y moneda metálica, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 13 DE JUNIO DE 1997)</small>
-
-IX. Tener a su cuidado la colección numismática del Banco.
+VII. Tener a su cuidado la colección numismática del Banco.
 
 ###### ARTICULO 17.
 
 La Dirección de Disposiciones de Banca Central tendrá las atribuciones siguientes:
 
-I. Expedir las disposiciones que conforme a la Ley corresponda emitir al Banco, con excepción de las señaladas en la fracción III del artículo 16 anterior;
+> <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 2004)</small>
+
+I. Expedir las disposiciones que conforme a la Ley corresponda emitir al Banco, con excepción de las señaladas en la fracción II del artículo 16 Bis;
 
 II. Resolver las solicitudes de autorización y las consultas que, de conformidad con las disposiciones aplicables al Sistema Financiero, sean planteadas al Banco;
 
@@ -471,15 +467,41 @@ ARTICULO 19 BIS.- La Dirección de Análisis y Evaluación de Mercados tendrá l
 
 I. Dar seguimiento y evaluar el efecto que tienen en los mercados financieros, las acciones que toma el Banco para instrumentar la política monetaria, la política cambiaria y las reformas al sistema de pagos;
 
-II. Desarrollar y establecer de manera conjunta con las Direcciones de Operaciones y de Trámite Operativo del Banco, criterios para medir y controlar los riesgos en que incurre el propio Banco, en la administración de los activos internacionales, así como verificar que dichos criterios se cumplan, y
+> <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 2004)</small>
 
-> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 1998)</small>
+II. Desarrollar y establecer de manera conjunta con la Dirección de Operaciones del Banco, criterios para medir y controlar los riegos en que incurre el propio Banco, en la administración de los activos internacionales, así como verificar que dichos criterios se cumplan;
 
-III. Dar seguimiento a la actividad de los intermediarios financieros en los mercados de dinero y cambios, con el propósito de identificar estrategias que pudieran afectar la sana competencia en los mercados, y
+> <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 2004)</small>
 
-> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 1998)</small>
+III. Dar seguimiento a la actividad de los intermediarios financieros en los mercados de dinero y cambios, con el propósito de identificar estrategias que pudieran afectar la sana competencia en los mercados;
 
-IV. Recabar la información necesaria de los intermediarios financieros, para prever los flujos de divisas.
+> <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 2004)</small>
+
+IV. Recabar de los intermediarios financieros información necesaria, para prever los flujos de divisas;
+
+> <small>(ADICIONADA, D.O.F. 7 DE ABRIL DE 2004)</small>
+
+V. Recabar información de instituciones financieras del exterior respecto a créditos en moneda extranjera otorgados a residentes nacionales;
+
+> <small>(ADICIONADA, D.O.F. 7 DE ABRIL DE 2004)</small>
+
+VI. Recabar información de las dependencias y entidades del sector público respecto de las operaciones con divisas que tengan proyectado efectuar en el mercado, así como de aquellas que deban realizar con el Banco;
+
+> <small>(ADICIONADA, D.O.F. 7 DE ABRIL DE 2004)</small>
+
+VII. Recabar información de los intermediarios financieros a fin de desagregar entre sectores la tenencia de instrumentos de deuda;
+
+> <small>(ADICIONADA, D.O.F. 7 DE ABRIL DE 2004)</small>
+
+VIII. Supervisar que las dependencias y entidades de la Administración Pública Federal que no tengan el carácter de intermediarios financieros cumplan con las disposiciones que emita el Banco conforme al artículo 34 de su Ley;
+
+> <small>(ADICIONADA, D.O.F. 7 DE ABRIL DE 2004)</small>
+
+IX. Participar en la expedición de disposiciones, así como en la atención de autorizaciones, consultas y opiniones relacionados con las atribuciones anteriores, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE ABRIL DE 2004)</small>
+
+X. Concertar y formalizar acuerdos relacionados con las atribuciones antes señaladas.
 
 > <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 1998)</small>
 
@@ -627,11 +649,15 @@ IV. Publicar información de carácter financiero.
 
 ARTICULO 25 BIS 1.- La Dirección de Intermediarios Financieros de Fomento tendrá las atribuciones siguientes:
 
-I. Dirigir y supervisar el desempeño de las funciones encomendadas al Banco como Fiduciario en el Fondo de Operación y Financiamiento Bancario a la Vivienda, Fondo para el Desarrollo Comercial, Fondo de Garantía y Fomento para las Actividades Pesqueras, Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, Fondo Especial para Financiamientos Agropecuarios y Fondo Especial de Asistencia Técnica y Garantía para Créditos Agropecuarios;
+> <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 2004)</small>
+
+I. Dirigir y supervisar el desempeño de las funciones encomendadas al Banco como Fiduciario en el Fondo de Garantía y Fomento para las Actividades Pesqueras, Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, Fondo Especial para Financiamientos Agropecuarios y Fondo Especial de Asistencia Técnica y Garantía para Créditos Agropecuarios;
 
 II. Coadyuvar con las autoridades competentes, en las negociaciones tendientes a la obtención de recursos por parte de las entidades señaladas en la fracción inmediata anterior;
 
-III. Requerir a los fideicomisos de fomento económico a que se refiere la fracción I, a las instituciones de banca de desarrollo, al Patronato del Ahorro Nacional, a las organizaciones nacionales auxiliares del crédito y a las instituciones nacionales de seguros y de fianzas, la información necesaria para evaluar su operación;
+> <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 2004)</small>
+
+III. Requerir a los fideicomisos de fomento económico a que se refiere la fracción I, a las instituciones de banca de desarrollo, a la Financiera Rural, a las organizaciones nacionales auxiliares del crédito y a las instituciones nacionales de seguros y de fianzas, la información necesaria para evaluar su operación;
 
 IV. Realizar diagnósticos de los intermediarios financieros mencionados en la fracción III;
 
@@ -1284,3 +1310,7 @@ UNICO.- Las presentes reformas, entrarán en vigor al día siguiente al de su pu
 D.O.F. 2 DE JUNIO DE 2003.
 
 UNICO. Las presentes reforma y adición entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE ABRIL DE 2004.
+
+UNICO. Las presentes reformas y adiciones, entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
