@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1989-04-01"
+last_updated: "1989-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 1989.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -673,9 +673,9 @@ L. Conocer y resolver sobre la renuncia que presenten los Magistrados del Suprem
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-LI.- Expedir Leyes que regulen las relaciones laborales del Estado y los Municipios con sus respectivos trabajadores, en base a lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
+LI. Expedir Leyes que regulen las relaciones laborales del Estado y los Municipios con sus respectivos trabajadores, en base a lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
 
-LII. (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
+LII.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
 
 LIII. Crear nuevas Municipalidades dentro de las existentes, variar sus límites y suprimir alguna o algunas de ellas.
 
@@ -687,9 +687,17 @@ LIV. Resolver, en definitiva, sobre las medidas adoptadas por el Gobernador, en 
 
 LV. Expedir leyes en materia de planeación, en base a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos;
 
-(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1983)(F. DE E. 2 DE JUNIO DE 1984)
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1989)</small>
 
-LVI. Ejercer las demás facultades que le señala esta Constitución, la General de la República u otras leyes;
+LVI. Para expedir leyes que instituyan el Tribunal de lo Contencioso-Administrativo, dotado de plena autonomía para dictar sus fallos, que tenga a su cargo dirimir las controversias de carácter administrativo que se susciten entre las autoridades del Estado, los Ayuntamientos y sus Organismos Públicos Descentralizados y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones;
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 1989)</small>
+
+LVII. Aprobar los nombramientos de los Magistrados del Tribunal de lo Contencioso-Administrativo y recibir la protesta de los mismos.
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 1989)</small>
+
+LVIII. Ejercer las demás facultades que le señala esta Constitución, la General de la República u otras Leyes;
 
 ###### Art. 59.
 
@@ -985,9 +993,9 @@ VII.- Presentar al Congreso las iniciativas de leyes de ingresos del Estado y de
 
 VIII. Disponer de la Guardia Nacional y Policía Rural del Estado según la ley.
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1989)</small>
 
-IX.- Nombrar y remover libremente a los empleados de confianza a que se refiere la Ley Reglamentaria que rige para los empleados del Poder Ejecutivo y a los demás cuyo nombramiento y remoción no se encomiende a otra autoridad, los efectuará en los términos de la citada Ley.
+IX.- Nombrar y remover libremente a los empleados de confianza a que se refiere la Ley Reglamentaria que rige para los empleados del Poder Ejecutivo y a los demás, cuyo nombramiento y remoción no se encomiende a otra autoridad, los efectuará en los términos de la citada ley. Asimismo, nombrar y aceptar las renuncias de los Magistrados del Tribunal de lo Contencioso-Administrativo del Estado y concederles las licencias que excedan del plazo previsto en la Ley de la Materia;
 
 X. Pasar al Procurador General todos los asuntos que deban ventilarse dentro de los Tribunales, para que ejercite ante ellos las atribuciones de su ministerio.
 
@@ -1003,7 +1011,9 @@ XIV. (DEROGADA, P.O. 29 DE MARZO DE 1986)
 
 XV. Cuidar de que la justicia se administre pronta y cumplidamente por los Tribunales y Jueces del Estado y de que se ejecuten sus sentencias.
 
-XVI. (DEROGADA POR EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO No. 311, P.O. 4 DE JUNIO DE 1980)
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 1989)</small>
+
+XVI.- Cuidar que la justicia administrativa se aplique de manera pronta, completa e imparcial por el Tribunal de lo Contencioso-Administrativo;
 
 XVII. Celebrar convenios con los Gobernadores de los Estados limítrofes, para la entrada y paso de sus fuerzas de seguridad por el territorio del Estado y recíprocamente, dando cuenta al Congreso.
 
@@ -2372,6 +2382,12 @@ P.O. 22 DE JUNIO DE 1988.
 Este Decreto entrará en vigor treinta días después al de su publicación en el Periódico Oficial del Estado.
 
 P.O.1 DE ABRIL DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE ABRIL DE 1989.
 
 ###### ARTICULO UNICO.
 
