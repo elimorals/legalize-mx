@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1994-del-tribunal-en-pleno-del-dia-primero-630
 country: "mx"
 rank: "acuerdo"
 publication_date: "1994-02-25"
-last_updated: "1997-03-14"
+last_updated: "1998-06-26"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63024&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1994-02-01"
 
 ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MARZO DE 1997.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 26 DE JUNIO DE 1998, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: SIN EFECTO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 25 de febrero de 1994.
 
@@ -201,7 +203,7 @@ QUINTO.- Se reforma modifica y adiciona el punto Tercero, fracciones IV, V, VI, 
 
 > <small>(REFORMADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 16/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MARZO DE 1996)</small>
 
-"XXIX.- Los Juzgados Tercero y Cuarto de Distrito en el Estado de Guanajuato, con residencia en la ciudad de León, ejercerán jurisdicción en los municipios de León, Ciudad Manuel Doblado, San Francisco del Rincón, Purísima de Bustos, San Felipe y Ocampo;"
+"XXIX.- Los Juzgados Tercero y Cuarto de Distrito en el Estado de Guanajuato, con residencia en la ciudad de León, ejercerán jurisdicción en los municipios de León, Ciudad Manuel Doblado, San Francisco del Rincón, Purísima de Bustos, San Felipe y Ocampo;
 
 > <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 16/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MARZO DE 1996)</small>
 
@@ -302,3 +304,15 @@ SEGUNDO.- Se modifica el Acuerdo 1/1994 del Pleno de la Suprema Corte de Justici
 TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
 
 CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 26 DE JUNIO DE 1998.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día primero de julio de mil novecientos noventa y ocho.
+
+SEGUNDO.- Quedan sin efecto los Acuerdos 1/1993 y 1/1994 de fechas trece de enero de mil novecientos noventa y tres y primero de febrero de mil novecientos noventa y cuatro, respectivamente, del Pleno de la Suprema Corte de Justicia de la Nación. Asimismo, quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+TERCERO.- Los Acuerdos Generales que dicte el Consejo de la Judicatura Federal con posterioridad al inicio de la vigencia del presente Acuerdo y que se refieran a la determinación del número y límites territoriales de los circuitos, así como respecto al número, límites territoriales y especialización por materia de los tribunales colegiados y unitarios de circuito y de los juzgados de distrito, se integrarán a este Acuerdo General para efectos de su actualización.
+
+CUARTO.- Las modificaciones a la circunscripción territorial de los municipios que realicen los Estados de la República en el ámbito de sus respectivas competencias y que cambien la distribución contenida en el presente Acuerdo General, serán analizadas por el Consejo de la Judicatura Federal y, en su caso, las variaciones relativas a que haya lugar se efectuarán en Acuerdos Generales que se integren al propio Acuerdo.
+
+QUINTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
