@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "1962-12-11"
+last_updated: "1967-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1962.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 1967.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -1346,11 +1346,13 @@ En el Tribunal, queda el Ministro recusado separado del conocimiento del negocio
 
 Contra las resoluciones que se dicten en los casos de los Artículos anteriores y 201, no habrá más recurso que el de responsabilidad.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1967)</small>
+
 ###### ARTICULO 205.
 
-Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa de uno a cinco pesos si se trata de un Juez de Paz; de cinco a cincuenta pesos si fuere un Juez Menor o de cincuenta a trescientos pesos si el recusado fuere un Juez de Primera Instancia o un Magistrado.
+Si se declara improcedente o no probada la causa de recusación se impondrá al recusante una multa de $ 1.00 a $ 5.00 si se trata de Juez de Paz; de $ 5.00 a $ 50.00 si fuere un Juez Menor; o de $ 50.00 a $ 300.00 si el recusado fuera un Juez de Primera Instancia o un Magistrado.
 
-No se dará curso a ninguna recusación, si no exhibe el recusante al interponerla, el billete de depósito por el máximo de la multa, la que en su caso se aplicará al colitigante si lo hubiere, por vía de indemnización, y en caso contrario, al Fisco del Estado.
+No se dará curso a ninguna recusación, si no exhibe el recusante, al interponerla el certificado de depósito por el máximo de la multa, la que en su se aplicará al colitigante, si lo hubiere, por vía de indemnización, y en caso contrario, al Fisco del Estado.
 
 ###### ARTICULO 206.
 
@@ -1588,9 +1590,11 @@ Si lo debido fuese cosa cierta y determinada que debiera consignarse en el lugar
 
 Cuando el acreedor no haya estado presente en la oferta y depósito, debe ser notificado de esa diligencia entregándole copia simple de ella.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1967)</small>
+
 ###### ARTICULO 244.
 
-La consignación de dinero puede hacerse exhibiendo certificado de depósito que expida la institución autorizada por la ley para el efecto.
+La consignación de dinero debe hacerse exhibiendo certificado de depósito que expidan la Tesorería General del Estado o Delegación de la misma ubicada en el lugar del juicio.
 
 ###### ARTICULO 245.
 
@@ -3286,11 +3290,15 @@ IV.- En los casos de tercería, conforme a lo dispuesto en este Código.
 
 En todo secuestro se tendrá como depositario a la persona que bajo su responsabilidad nombre el actor, otorgando fianza previamente o dentro de las setenta y dos horas de inventariado lo embargado. Cuando se nombre depositario al mismo demandado, éste no necesitará otorgar fianza, pero contraerá la responsabilidad civil y penal consiguiente, a menos que en el acto, de modo expreso, rehuse el depósito en cuyo caso se procederá como se previene al principio de este mismo artículo. El demandado podrá dar contrafianza para conservar la posesión de la cosa.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 1967)</small>
+
 ###### ARTICULO 528.
 
-Se exceptúan de lo dispuesto en el artículo anterior:
+Se exceptúan de lo dispuesto en el Artículo anterior:
 
-I.- El embargo de dinero o de créditos fácilmente realizables que se efectúen en virtud de sentencia, porque entonces se hace entrega inmediata al actor en pago; en cualquier otro caso el depósito se hará en el Banco de México o en casa comercial de crédito reconocido en los lugares en que no esté establecido aquél y el billete de depósito se conservará en el Juzgado;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1967)</small>
+
+I.- El embargo de dinero o de créditos fácilmente realizables que se efectúen en virtud de sentencia, porque entonces se hace entrega inmediata al actor en pago; en cualquier otro caso el depósito se hará en la Tesorería General del Estado o Delegación que corresponda y el Certificado de depósito se conservará en el Juzgado;
 
 II.- El secuestro de bienes que hubieren sido objeto de embargo judicial anterior, en cuyo caso el depositario primero en tiempo, lo será respecto de todos los embargos subsecuentes mientras subsista el primero, a no ser que el embargo sea por virtud de cédula hipotecaria, derecho de prenda u otro privilegio real, porque entonces éste prevalecerá si el crédito de que procede es de fecha anterior al primer secuestro;
 
@@ -3514,11 +3522,11 @@ Será postura legal la que cubra dos terceras partes del avalúo o del precio fi
 
 Cuando por el importe del avalúo no sea suficiente la parte de contado para cubrir el crédito o créditos y las costas, será postura legal dos terceras partes del avalúo dadas de contado.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1967)</small>
+
 ###### ARTICULO 560.
 
-Para tomar parte en la subasta, los licitadores deberán presentar por escrito su postura y consignar previamente, en el establecimiento de crédito destinado al efecto por la ley, a disposición del Juzgado, una cantidad igual, por lo menos, al diez por ciento efectivo de la postura legal para el remate, sin cuyos requisitos no serán admitidas.
-
-Se devolverán las consignaciones a sus respectivos dueños acto continuo al remate, excepto la del mejor postor que se conservará en depósito como garantía del cumplimiento de sus obligaciones y, en su caso, como parte del precio de la venta.
+Para tomar parte en la subasta, los licitadores deberán presentar por escrito su postura y consignar previamente, en la Tesorería General del Estado o Delegación correspondiente, a disposición del Juzgado, una cantidad igual, por lo menos, al 10% efectivo de la postura legal para el remate, sin cuyos requisitos no serán admitidos. Se devolverán los certificados de depósito a sus respectivos dueños acto continuo al remate, excepto la del mejor postor que se conservará en depósito como garantía del cumplimiento de sus obligaciones y, en su caso, como parte del precio de la venta.
 
 ###### ARTICULO 561.
 
@@ -4892,11 +4900,13 @@ Sección 3a.
 
 De la Administración del Concurso.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1967)</small>
+
 ###### ARTICULO 804.
 
-Luego que el síndico acepte el cargo, se procederá a darle posesión de los bienes, libros y papeles del deudor, por riguroso inventario. Si éstos se encuentran fuera del lugar del juicio, la diligencia se llevará a efecto con intervención de la autoridad judicial que se exhortará para ese fin y con citación del deudor.
+Luego que el síndico acepte el cargo, se procederá a darle posesión de los bienes, libros y papeles del deudor, por riguroso inventario. Si éstos se encuentran fuera del lugar del juicio, la diligencia se llevará a efecto con la intervención de la autoridad judicial que se exhortará para ese fin y con citación del deudor.
 
-El dinero se depositará en el establecimiento designado al efecto por la ley, quedando en poder del síndico lo indispensable para atender los gastos de administración.
+El dinero se depositará en la Tesorería General del Estado o Delegación que corresponda quedando en poder del síndico lo indispensable para atender los gastos de administración.
 
 ###### ARTICULO 805.
 
@@ -4920,9 +4930,11 @@ Si el síndico provisional comprendiere que hay necesidad de realizar bienes por
 
 Lo mismo se hará cuando fuere extrictamente (sic) indispensable para cubrir gastos urgentes de administración y conservación.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1967)</small>
+
 ###### ARTICULO 809.
 
-El síndico deberá presentar al juzgado dentro de los primeros diez días de cada mes, pasado en el que fué puesto en posesión de los bienes, en cuaderno por separado, un estado de la administración, previo depósito en el establecimiento respectivo del dinero que hubiere recibido. Esas cuentas estarán a disposición de los interesados hasta el fin del mes, dentro de cuyo término podrán ser objetadas. Las objeciones se substanciarán con la contestación del síndico y la resolución judicial dentro del tercer día. Contra ella procede la apelación en el efecto devolutivo.
+El síndico deberá presentar al Juzgado dentro de los primeros diez días de cada mes, pasado en el que fue puesto en posesión de los bienes, en cuaderno por separado, un estado de la administración, previo depósito del dinero que hubiere recibido. Esas cuentas estarán a disposición de los interesados hasta el fin del mes, dentro de cuyo término podrán ser objetadas. Las objeciones se substanciarán con la contestación del síndico y la resolución judicial dentro del tercer día. Contra ella procede la apelación en el efecto devolutivo.
 
 ###### ARTICULO 810.
 
@@ -4994,15 +5006,17 @@ II.- Cuando haya menores interesados;
 
 III.- Cuando haya peligro de que se oculten o dilapiden los bienes.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1967)</small>
+
 ###### ARTICULO 818.
 
-Como medidas urgentes, en los casos del artículo anterior, el Juez deberá:
+Como medidas urgentes, en los casos del Artículo anterior, el Juez deberá:
 
 I.- Reunir los papeles del difunto, los que cerrados y sellados se depositarán en el secreto del Juzgado;
 
 II.- Ordenar a la Administración de Correos que le remitan la correspondencia que venga para el autor de la sucesión, con la cual hará lo mismo que con los demás papeles;
 
-III.- Mandar depositar el dinero y alhajas en el establecimiento ordenado por la ley.
+III.- Mandar depositar el dinero y alhajas en la Tesorería General del Estado.
 
 ###### ARTICULO 819.
 
@@ -5404,9 +5418,11 @@ Los libros de cuentas y papeles del difunto se entregarán al albacea y hecha la
 
 Si nadie se presenta alegando derechos a la herencia o por no haber sido reconocidos los que se presentaron se declarará heredera a la Beneficencia Pública, se entregarán a ésta los bienes y los libros y papeles que tengan relación con la herencia. Los demás se archivarán con los autos del intestado en cubierta cerrada y sellada, que rubricarán el Juez, el representante del Ministerio Público y el Secretario.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1967)</small>
+
 ###### ARTICULO 891.
 
-El dinero y alhajas se depositarán en el establecimiento destinado por la ley para ese efecto; pero el Juez dispondrá que se entreguen al interventor las sumas que crea necesarias para los gastos más indispensables, si ya hubiere otorgado la garantía correspondiente.
+El dinero y alhajas se depositarán en la Tesorería General del Estado; pero el Juez dispondrá que se entreguen al interventor las sumas que crea necesarias para los gastos más indispensables, si ya hubiere otorgado la garantía correspondiente.
 
 ###### ARTICULO 892.
 
@@ -5416,11 +5432,13 @@ Sección 6a.
 
 De la Rendición de Cuentas.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1967)</small>
+
 ###### ARTICULO 893.
 
-El interventor, el cónyuge en el caso del artículo 879 y el albacea, están obligados a rendir cuentas de su administración en los términos que señala el artículo 1639 del Código Civil.
+El interventor, el cónyuge en el caso del Artículo 879 y el albacea, están obligados a rendir cuentas de su administración en los términos que señala el Artículo 1639 del Código Civil.
 
-El Juez de oficio exigirá el cumplimiento de esta obligación y mandará depositar las cantidades que resulten líquidas, a disposición del Juzgado, en el establecimiento que previene este Código.
+El Juez de Oficio exigirá el cumplimiento de esta obligación y mandará depositar las cantidades que resulten líquidas, a disposición del Juzgado, en la Tesorería General del Estado o Delegación Correspondiente.
 
 ###### ARTICULO 894.
 
@@ -6034,21 +6052,23 @@ De la Vigilancia y Cuentas de la Tutela.
 
 En los Juzgados de Primera Instancia, bajo el cuidado y responsabilidad del Juez, se llevará un registro de los discernimientos que se hicieron de los cargos de tutor y de curador. En este registro, que estará siempre a disposición del Consejo de Tutelas y demás interesados, se insertará copia autorizada por el Secretario, de los autos de discernimiento y se anotarán los demás actos que afecten el desempeño de la tutela.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1967)</small>
+
 ###### ARTICULO 1002.
 
-Dentro de los ocho primeros días de cada año, los Jueces, en audiencia pública, con citación del Consejo de Tutelas y del Ministerio Público, procederán a examinar dicho registro y en su vista dictarán, de las medidas siguientes, las que correspondan:
+Dentro de los ocho primeros días de cada año, los Jueces, en audiencia pública, con citación del consejo de tutelas y del Ministerio Público, procederán a examinar dicho registro y en su vista dictarán, de las medidas siguientes, las que correspondan:
 
-I.- Si resultare haber fallecido algún tutor, hará que sea reemplazado con arreglo a la ley;
+I.- Si resultare haber fallecido algún tutor, hará que sea reemplazado con arreglo a la Ley;
 
 II.- Si hubiere alguna cantidad de dinero depositada para darle destino determinado, harán que desde luego tengan cumplido efecto las prescripciones del Código Civil;
 
-III.- Exigirán también que rindan cuentas los tutores que deban darlas y que por cualquier motivo no hubieren cumplido con la prescripción expresa del artículo 640 del Código Civil;
+III.- Exigirán también que rindan cuentas los tutores que deban darlas y que por cualquier motivo no hubieren cumplido con la prescripción expresa del Artículo 640 del Código Civil;
 
-IV.- Oblgiarán (sic) a los tutores a que depositen en el establecimiento público destinado al efecto, los sobrantes de las rentas o productos del caudal de los menores después de cubiertas las sumas señaladas con arreglo a los artículos 589, 604 y 615 del Código Civil, y de pagado el tanto por ciento de administración;
+IV.- Obligarán a los tutores a que depositen los sobrantes de las rentas o productos del caudal de los menores después de cubiertas las sumas señaladas con arreglo a los Artículos 589, 604 y 615 del Código Civil, y de pagado el tanto por ciento de administración;
 
-V.- Si los Jueces lo creyeran conveniente, decretarán el depósito cuando se presenten dificultades insuperables para el inmediato cumplimiento de los artículos 607 y 608 del Código Civil;
+V.- Si los Jueces lo creyeran conveniente, decretarán depósito cuando se presenten dificultades insuperables para el inmediato cumplimiento de los Artículos 607 y 608 del Código Civil;
 
-VI.- Pedirán, al efecto, las noticias que estimen necesarias del estado en que se halle la gestión de la tutela y adoptarán las medidas que juzguen convenientes para evitar los abusos y remediar los que puedan haberse cometido.
+VI.- Pedirán, al efecto, las noticias que estimen necesarias del Juzgado en que se halle la gestión de la tutela y adoptarán las medidas que juzguen convenientes para evitar los abusos y remediar los que puedan haberse cometido.
 
 ###### ARTICULO 1003.
 
@@ -6689,3 +6709,9 @@ UNICO.- Esta Ley comenzará a surtir sus efectos quince días después de su pub
 P.O. 11 DE DICIEMBRE DE 1962.
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 7 DE MARZO DE 1967.
+
+PRIMERO.- Quedan derogadas las disposiciones legales del orden común que se opongan a las reformas contenidas en esta Ley; consecuentemente, por depositario de numerario en asuntos que deban ventilarse ante los Tribunales del Estado, se entiende la Tesorería General o la Delegación Hacendaria respectiva.
+
+SEGUNDO.- La presente Ley, entrará en vigor quince días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
