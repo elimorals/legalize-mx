@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2000-02-14"
+last_updated: "2003-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCION AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -1387,7 +1387,7 @@ Para conocer la calidad de las aguas, se establecerá un sistema estatal de moni
 
 ###### ARTICULO 126.
 
-Para la prevención y control de la contaminación del suelo, se considerarán los criterios establecidos en la Ley General.
+Para la prevención y control de la contaminación del suelo, se considerarán los criterios establecidos en la Ley General y en la Ley General para la Prevención y Gestión Integral de Residuos.
 
 ### CAPITULO IV. Denuncia Ciudadana
 
@@ -1451,19 +1451,25 @@ IV. El confinamiento o depósito final de residuos no peligrosos que excedan los
 
 ###### ARTICULO 132.
 
-La generación, recolección, almacenamiento, transporte, reuso, tratamiento, estaciones de transferencia y centros de confinamiento temporal y disposición final de los residuos que no estén considerados, en los términos de la Ley General como peligrosos, estará sujeta a las disposiciones de la presente Ley, su reglamento, las normas oficiales mexicanas y demás disposiciones que resulten aplicables.
+La generación, recolección, almacenamiento, transporte, reuso, tratamiento, estaciones de transferencia y centros de confinamiento temporal y disposición final de los residuos que no estén considerados, en los términos de la Ley General como peligrosos, estará sujeta a las disposiciones de la presente Ley, su reglamento en materia de Prevención y Gestión Integral de Residuos, las normas oficiales mexicanas y demás disposiciones que resulten aplicables.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 133.
 
 En materia de residuos no peligrosos, corresponde a la Secretaría:
 
-I. Autorizar la prestación de servicios a terceros que tenga por objeto la recolección, transporte, almacenamiento, reuso y tratamiento de residuos no peligrosos;
+I. Autorizar la prestación de servicios a terceros que tenga por objeto la recolección, transporte, almacenamiento, reuso y tratamiento de residuos no peligrosos, previo procedimiento de licitación conforme a la Ley Patrimonial del Estado, y demás ordenamientos aplicables.
 
 II. Autorizar al generador de residuos no peligrosos, la instalación y operación de sistemas para el tratamiento, incineración y disposición final dentro y fuera de la instalación donde se generen dichos residuos;
 
-III. Vigilar el cumplimiento de las normas oficiales mexicanas en materia de sistemas de generación, recolección, almacenamiento, transporte, reuso, tratamiento, estaciones de transferencia, centros de confinamiento temporal y disposición final de los residuos sólidos e industriales no peligrosos en el ámbito de su competencia; y
+III. Vigilar el cumplimiento de las normas oficiales, mexicanas en materia de sistemas de generación, recolección, almacenamiento, transporte, reuso, tratamiento, estaciones de transferencia, centros de confinamiento temporal y disposición final de los residuos sólidos e industriales no peligrosos en el ámbito de su competencia;
 
-IV. Tomar las medidas preventivas necesarias para evitar contingencias ambientales por el inadecuado manejo de residuos no peligrosos.
+IV. Tomar las medidas preventivas necesarias para evitar contingencias ambientales por el inadecuado manejo de residuos no peligrosos;
+
+V. Aplicar el reglamento en materia de Prevención y Gestión Integral de Residuos; y
+
+VI.- Autorizar la disposición final o tratamiento de residuos según los Planes de Manejo que la Secretaría exija al generador.
 
 Para obtener la autorización a que se refiere este artículo, se requiere la presentación de una solicitud, en los términos del reglamento. La autoridad deberá resolver sobre la misma en un plazo no mayor de 10 días y en caso de no hacerlo se entenderá negada la solicitud.
 
@@ -1479,17 +1485,21 @@ III. Inspeccionar y vigilar el cumplimiento de esta Ley, su reglamento y las nor
 
 IV. Solicitar al generador o al prestador de servicios de residuos no peligrosos, un plan de contingencias ambientales.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2003)</small>
+
 ### CAPITULO II. Medidas de Seguridad
 
 #### SECCIÓN V. Prevención y Control de la Contaminación por Ruido, Vibraciones, Energía Térmica y Lumínica, Olores y Contaminación Visual
 
 ###### ARTICULO 135.
 
-Sólo se podrá autorizar el confinamiento de residuos no peligrosos cuando éstos no puedan ser técnica ni económicamente sujetos de reuso o cualquier tipo de tratamiento.
+Sólo se podrá autorizar el confinamiento de residuos no peligrosos cuando éstos no puedan ser técnica ni económicamente sujetos de reuso o cualquier tipo de tratamiento, en los términos de la Ley General para la Prevención y Gestión Integral de Residuos y del reglamento de la presente Ley en la materia.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 136.
 
-Cuando el manejo de residuos no peligrosos genere impactos negativos al suelo, independientemente de las sanciones penales o administrativas que procedan, los responsables estarán obligados a:
+Cuando el manejo de residuos no peligrosos genere impactos negativos al suelo, independientemente de las sanciones penales o administrativas que procedan, los responsables estarán obligados a cumplir con lo establecido por el reglamento de la presente Ley, así como a:
 
 I. Llevar a cabo las acciones necesarias para recuperar y restablecer las condiciones del suelo con el propósito de que éste pueda ser destinado a alguna de las actividades previstas en el programa de desarrollo urbano o de ordenamiento ecológico que resulte aplicable para el predio o zona respectiva; y
 
@@ -1526,6 +1536,8 @@ V. Llevar a cabo las medidas preventivas necesarias para evitar contingencias am
 La autorización del estudio de riesgo y el programa para la prevención de accidentes y atención a contingencias, se tramitará en los términos del reglamento de esta Ley, pero en todo caso, la autoridad deberá resolver sobre la misma en un plazo no mayor de treinta días hábiles. Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá negada la solicitud.
 
 #### SECCION I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 140.
 
@@ -1568,6 +1580,8 @@ V. Impulsar el fortalecimiento de la educación ambiental, a través de la reali
 VI. Promover inversiones de los sectores social y empresarial, organizaciones no gubernamentales, académicas y demás personas interesadas, para la preservación, restauración y la protección al ambiente.
 
 #### SECCION II. Residuos no Peligrosos
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 144.
 
@@ -1982,5 +1996,11 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE DICIEMBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## TITULO OCTAVO. MEDIDAS DE CONTROL, DE SEGURIDAD Y SANCIONES
