@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-de-la-ley-de-transporte-para-el-estado-de-baja-12259
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-06-05"
-last_updated: "1998-06-05"
+last_updated: "2002-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12259&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # REGLAMENTO DE LA LEY DE TRANSPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-REGLAMENTO DE LA LEY DE TRANSPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+REGLAMENTO DE LA LEY DE TRANSPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 2002.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 5 de junio de 1998.
 
@@ -291,9 +291,13 @@ Los horarios, itinerarios y tarifas, serán fijados previamente por las partes c
 
 Este servicio únicamente se prestará como de primera clase, en unidades tipo integral, que no excedan de una antigüedad de cinco años y con un mínimo de veinte asientos.
 
-F) AUTOMÓVILES DE ALQUILER CON CHOFER (TAXIS).- Es aquél que se presta en automóvil con chofer, con capacidad mínima de 3 y máxima de 5 pasajeros, dentro de una población determinada, sin horario ni ruta fija, mediante el pago del precio que fije la tarifa correspondiente, que necesariamente deberá de estar a la vista del público en las propias unidades y en los sitios.
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 2002)</small>
+
+F) AUTOMÓVILES DE ALQUILER CON CHOFER (TAXIS).- Es aquél que se presta en automóvil con chofer, con capacidad mínima de 3 y máxima de 15 pasajeros, dentro de una población determinada, sin horario ni ruta fija, mediante el pago del precio que fije la tarifa correspondiente, que necesariamente deberá de estar a la vista del público en las propias unidades y en los sitios.
 
 Este servicio podrá prestarse hacia otras ciudades o poblaciones del Estado para dejar únicamente el pasaje o, en su caso, que el servicio sea convenido de manera permanente con regreso al lugar de origen donde se contrató.
+
+Tratándose de unidades con capacidad de 3 pasajeros, deberán de ser automóviles de 2 a 5 puertas.
 
 G) DE PERSONAL.- Es aquél que prestan las personas físicas o jurídicas para el traslado exclusivo de sus empleados sin costo alguno para estos últimos; las unidades en que se brinde este servicio deberán ser, en cualquiera de sus formas, similares a las que se utilicen para el transporte de pasaje.
 
@@ -1578,3 +1582,11 @@ LIC. GUILLERMO MERCADO MORENO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. RAÚL ANTONIO ORTEGA SALGADO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+B.O. 20 DE JUNIO DE 2002.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
