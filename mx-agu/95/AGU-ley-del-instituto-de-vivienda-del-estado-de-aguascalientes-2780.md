@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-vivienda-del-estado-de-aguascalientes-2780
 country: "mx"
 rank: "ley"
 publication_date: "1989-02-12"
-last_updated: "1989-02-12"
+last_updated: "1992-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE VIVIENDA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Suplemento al número 7 del Periódico Oficial del Estado de Aguascalientes, el 12 de febrero de 1989.
 
@@ -143,7 +143,9 @@ c) Vocal: el representante del Comité de Planeación para el Desarrollo del Est
 
 d) Vocal: el representante de la Secretaría de Obras Públicas;
 
-e) Vocal: el representante de la Tesorería General del Estado;
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
+e) Vocal: el representante de la Secretaría de Finanzas;
 
 f) Vocal: el representante de los Ayuntamientos; y
 
@@ -364,3 +366,9 @@ Ing. Miguel Angel Barberena Vega
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Héctor Valdivia Carreón.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE DICIEMBRE DE 1992.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3°. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
