@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "1997-02-21"
+last_updated: "1997-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 1997.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -2691,6 +2691,10 @@ No se admitirá prueba alguna de su imputación al acusado de calumnia, ni se li
 
 Cuando haya pendiente un juicio en averiguación de un delito imputado a alguien y se haya acusado de calumnia al denunciante o querellante, se suspenderá el ejercicio de la acción de calumnia, hasta que dicho juicio termine. En este caso la prescripción comenzará a correr cuando termine el juicio.
 
+#### SECCION UNICA
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 366.
 
 No servirá de excusa de la difamación, ni de la calumnia que el hecho imputado sea notorio, o que el reo sólo haya reproducido lo ya publicado en cualquier parte.
@@ -3213,9 +3217,7 @@ XVI.- Abstenerse injustificadamente de hacer la consignación que corresponda cu
 
 XVII.- Detener a un individuo durante la averiguación previa fuera de los casos señalados por la ley, o detenerlo por más tiempo del señalado en el párrafo séptimo del artículo 16 Constitucional;
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 1994)</small>
-
-XVIII.- Obligar al inculpado a declarar, usando la incomunicación, intimidación o tortura;
+XVIII.- (DEROGADA, P.O. 14 DE MARZO DE 1997)
 
 > <small>(ADICIONADA, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -3324,6 +3326,10 @@ Las sanciones de los delitos cometidos por servidores públicos que presten el s
 Los delitos a que se refiere este Capítulo producen acción popular.
 
 > <small>(ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 1995)</small>
+
+### CAPITULO VIGESIMO PRIMERO.- DE LA TORTURA
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 441.
 
@@ -3535,6 +3541,34 @@ Se impondrá de setenta o (sic) doscientos días de multa y prisión de tres a s
 
 Por la comisión de cualquiera de los delitos comprendidos en el presente Capítulo se podrá imponer a los servidores públicos además de la pena señalada, la inhabilitación de uno a cinco años, y en su caso, la destitución del cargo.
 
+> <small>(ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, P.O. 14 DE MARZO DE 1997)</small>
+
+###### Artículo 449.
+
+Comete el delito de tortura el Servidor Público que, con motivo de sus atribuciones, cause a una persona intimidación, incomunicación, dolores o sufrimientos graves, sean físicos o psíquicos con el fin de obtener, del torturado o de un tercero, información o una confesión, o castigarla por un acto que haya cometido o se sospeche ha cometido, o coaccionarla para que realice o deje de realizar una conducta determinada.
+
+No se considerarán como tortura las molestias o penalidades que sean consecuencia únicamente de sanciones legales, que sean inherentes o incidentales a éstas, o derivadas de un acto legítimo de autoridad.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 1997)</small>
+
+###### Artículo 450.
+
+A quien cometa el delito de tortura se aplicará prisión de tres a doce años y multa de doscientos a quinientos días de salario mínimo e inhabilitación para desempeñar empleo, cargo o comisión de cualquier naturaleza en el servicio público hasta por dos tantos del lapso de privación de libertad impuesta.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 1997)</small>
+
+###### Artículo 451.
+
+Las penas previstas en el Artículo anterior se aplicarán al servidor público que, con motivo del ejercicio de su cargo, con cualesquiera de las finalidades señaladas en el Artículo 449, instigue, compela, o autorice a un tercero o se sirva de él para causar a una persona intimidación, incomunicación, dolores o sufrimientos graves, sean físicos o psíquicos; o no evite que se causen dichos dolores o sufrimientos a una persona que esté bajo su custodia.
+
+Se aplicarán las mismas penas al tercero que, con cualquier finalidad, instigado o autorizado, explícita o implícitamente, por un servidor público, cause intimidación, incomunicación, dolores o sufrimientos graves sean físicos o psíquicos a un detenido.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 1997)</small>
+
+###### Artículo 452.
+
+No se considerarán como causas excluyentes de responsabilidad del delito de tortura el que se invoque o existan situaciones excepcionales como inestabilidad política interna, urgencia en las investigaciones o cualquier otra circunstancia. Tampoco podrá invocarse como justificación la orden de un superior jerárquico o de cualquier otra autoridad.
+
 T R A N S I T O R I O S :
 
 ###### ARTICULO 1º.
@@ -3594,6 +3628,16 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 21 DE FEBRERO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE MARZO DE 1997.
 
 ###### ARTICULO PRIMERO.
 
