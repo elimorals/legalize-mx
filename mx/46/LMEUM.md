@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1993-09-09"
+last_updated: "1993-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE SEPTIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1993.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de julio de 1931.
 
@@ -188,13 +188,13 @@ La emisión de billetes del Banco de México se ajustará a lo dispuesto en esta
 
 Corresponderá privativamente al Banco de México ordenar la acuñación de monedas según lo exijan las necesidades monetarias de la República y estrictamente dentro de los límites de esas necesidades.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1980)</small>
-
 ###### ARTICULO 13.
 
-La acuñación de monedas metálicas sólo podrá ser ordenada por el Banco de México, en los términos de su Ley Orgánica, por resolución que tome su Consejo de Administración en votación secreta, por mayoría de siete votos, cuando menos, quedando tal resolución sujeta al veto del Secretario de Hacienda y Crédito Público.
+(DEROGADO PRIMER PARRAFO, POR EL ARTICULO DECIMO OCTAVO TRANSITORIO DE LA LEY DEL BANCO DE MEXICO, D.O.F. 23 DE DICIEMBRE DE 1993)
 
-La acuñación que se haga en forma distinta a la prevenida en esta ley será causa de destitución inmediata y de responsabilidad civil para los consejeros y funcionarios del Banco que la ordenen y para los funcionarios y empleados que la ejecuten. Quienes lleven a cabo acuñaciones deberán, bajo su responsabilidad más estricta, observar los acuerdos que el Banco de México dicte conforme a este artículo, no vetados por el Secretario de Hacienda y Crédito Público, cualesquiera que sean las órdenes que en contrario reciban y la autoridad de que procedan.
+> <small>(DEROGADO SEGUNDO PARRAFO, POR EL ARTICULO DECIMO OCTAVO TRANSITORIO DE LA LEY DEL BANCO DE MEXICO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1980)</small>
 
 El Banco de México sólo podrá ordenar la fabricación de moneda metálica a quienes previamente la Secretaría de Hacienda y Crédito Público haya autorizado para ese efecto.
 
@@ -1559,3 +1559,11 @@ D.O.F. 9 DE SEPTIEMBRE DE 1993.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- La moneda de cincuenta pesos a que se refiere este Decreto, deberá contener en el reverso el símbolo "N$", en lugar del símbolo "$" hasta que el Banco de México en términos de lo dispuesto por el Artículo Tercero Transitorio del Decreto por el que se crea una nueva unidad del Sistema Monetario de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 22 de junio de 1992, retire de la circulación las monedas metálicas representativas de la unidad monetaria que ha sido sustituida.
+
+D.O.F. 23 DE DICIEMBRE DE 1993.
+
+> <small>N. DE E. EL ARTICULO DECIMO OCTAVO TRANSITORIO DE LA LEY DEL BANCO DE MEXICO, REFORMA A LA LEY MONETARIA POR DECRETO DE FECHA 15 DE DICIEMBRE DE 1993.</small>
+
+PRIMERO.- Esta Ley entrará en vigor el 1o. de abril de 1994,...
+
+DECIMO OCTAVO.- Se derogan los artículos ... 13, párrafos primero y segundo de la Ley Monetaria de los Estados Unidos Mexicanos,...
