@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-municipal-del-estado-de-hidalgo-5427"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-31"
-last_updated: "1988-12-31"
+last_updated: "1996-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 1996.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1982.
 
@@ -191,7 +191,9 @@ El pago de los Impuestos y Derechos se hará precisamente en la Tesorería Munic
 
 I.- Los pagos mensuales y bimestrales se efectuarán en los quince primeros días de cada mes o bimestre;
 
-II.- Los pagos anuales en los primeros treinta días del año a que corresponde el pago;
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 1996)</small>
+
+II.- Los pagos anuales o por anualidad anticipada, en los primeros 30 días del año que corresponde el pago, excepción hecha cuando en el mes de Enero del Ejercicio Fiscal respectivo, coincida con el año de renovación del Ayuntamiento, por lo que en ese supuesto se realizará a partir del día 16 de Enero de ese Ejercicio Fiscal.
 
 III.- Fuera de los dos casos anteriores y a falta de disposición expresa, las demás contribuciones se causarán al efectuarse el acto que causa el tributo al solicitarse o recibirse el servicio respectivo.
 
@@ -2556,3 +2558,9 @@ P.O. 31 DE DICIEMBRE DE 1988.
 PRIMERO.- El presente Decreto entrara en vigor el día 1º. De Enero de 1989.
 
 SEGUNDO.- Túrnese al Ejecutivo, para su sanción, publicación y cumplimiento en el Periódico Oficial del Gobierno del Estado y demás efectos que consigna el Artículo 51 de la Constitución Política de la Entidad.
+
+P.O. 21 DE OCTUBRE DE 1996.
+
+###### ARTICULO UNICO.
+
+Una vez aprobado el decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
