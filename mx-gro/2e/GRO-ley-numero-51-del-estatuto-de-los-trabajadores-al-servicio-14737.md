@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-51-del-estatuto-de-los-trabajadores-al-servicio-1473
 country: "mx"
 rank: "ley"
 publication_date: "1976-04-21"
-last_updated: "1976-04-21"
+last_updated: "1981-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 51: ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 1981.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 21 de abril de 1976.
 
@@ -85,11 +85,11 @@ e).- Los secretarios de los ayuntamientos, tesoreros, oficiales mayores, consult
 
 f).- Los empleados y funcionarios de Organismos Públicos Coordinados y descentralizados de carácter estatal, a quienes conforme a su estructura orgánica tengan ese carácter tales como directores, jefes de departamento, contadores, jefes de oficina, consultores, etc.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+
 ###### ARTICULO 6o.
 
-Esta Ley solamente es aplicable a los trabajadores de base y supernumerarios de los Poderes del Estado, Municipios y de los Organismos Públicos Coordinados y Descentralizados de carácter estatal. Los empleados de confianza no quedan comprendidos en el presente ordenamiento.
-
-Los trabajadores de nuevo ingreso que cubran alguna plaza vacante serán de base después de seis meses consecutivos de servicio.
+Esta Ley solamente es aplicable a los trabajadores de base y supernumerarios de los Poderes del Estado, Municipios y de los Organismos Públicos Coordinados y Descentralizados de carácter estatal. Los empleados de confianza no quedan comprendidos en el presente ordenamiento, pero disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la Seguridad Social, en los términos del reglamento que al efecto dicta el Ejecutivo.
 
 ###### ARTICULO 7o.
 
@@ -834,3 +834,15 @@ ING. RUBEN FIGUEROA FIGUEROA.
 EL SECRETARIO GRAL. DE GOBIERNO.
 
 ALFONSO SOTOMAYOR.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE SEPTIEMBRE DE 1981.
+
+###### ARTICULO PRIMERO.
+
+Se reforma el articulo 6o. del Estatuto de los Trabajadores al Servicio del Estado, de los Municipios y de los Organismos Públicos, Coordinados y Descentralizados del Estado de Guerrero.
+
+###### ARTICULO SEGUNDO.
+
+Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
