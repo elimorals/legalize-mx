@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1919-03-23"
+last_updated: "1919-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 1919.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1919.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -307,7 +307,9 @@ III. Velar por la conservación del orden, de la tranquilidad y de la seguridad 
 
 IV. Velar igualmente por la eficacia de los servicios y administración públicos, iniciando, al efecto, las leyes y decretos que fueren pertinentes.
 
-V. Presentar en el primer período de sesiones de la Legislatura, el día que éstas comiencen, la cuenta de los gastos de administración correspondientes al año fiscal anterior, y también el primer día del segundo período de sesiones ordinarias, presentar el presupuesto de gastos del año fiscal próximo y un proyecto de arbitrios para cubrir esos gastos.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1919)</small>
+
+V. Presentar en el segundo período de sesiones de la Legislatura, el día que éstas comiencen, la cuenta de los gastos de la Administración correspondientes al año fiscal anterior, y también el primer día del primer período de sesiones ordinarias presentar el presupuesto de gastos del año fiscal próximo y un proyecto de arbitrios para cubrir esos gastos.
 
 VII (sic). Cuidar de que los fondos públicos estén bien asegurados y de que la recaudación y distribución de ellos se sujeten en todo a la ley.
 
@@ -543,19 +545,25 @@ De los períodos de sesiones.
 
 La Legislatura del Estado, tendrá cada año dos períodos de sesiones ordinarias: el primero comenzará el 15 de septiembre y el segundo el primero de abril; su duración será de tres meses el primero y de dos el segundo, pudiendo prorrogarse uno y otro, hasta por un mes.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1919)</small>
+
 ###### Art. 41.
 
-Durante el primer período se ocupará de estudiar, discutir y votar las iniciativas de leyes ordinarias que se le presenten y de resolver los demás asuntos que se sometan a su consideración.
+Durante el primer período de sesiones, se ocupará de los asuntos siguientes:
+
+I.- Examinar y calificar las cuentas de recaudación y distribución de caudales del año próximo anterior, que serán presentadas por la Administración General de Rentas en los primeros cinco días del período de sesiones. La revisión no se limitará a examinar si las cantidades gastadas están o no de acuerdo con las partidas del Presupuesto, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y a la determinación de las responsabilidades a que hubiere lugar.
+
+II.- Examinar y aprobar el Presupuesto que, con relación a los gastos del año siguiente, le será presentado por el Gobernador, y decretar los impuestos necesarios para cubrirlo.
+
+III.- Estudiar y discutir las leyes de carácter urgente, así como resolver toda clase de negocios de esta índole.
+
+Para los efectos de las fracciones I y II de este artículo, los años fiscales se contarán del 1° de enero al 31 de diciembre de cada año.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1919)</small>
 
 ###### Art. 42.
 
-Durante el segundo período de sesiones, se ocupará de los asuntos siguientes:
-
-I. Examinar y calificar las cuentas de recaudación y distribución de caudales del año próximo anterior; que serán presentadas por la Administración General de Rentas, en los primeros cinco días del período de sesiones. La revisión no se limitará a examinar si las cantidades gastadas están o no de acuerdo con las partidas del presupuesto, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y a la determinación de las responsabilidades a que hubiere lugar.
-
-II. Examinar y aprobar el presupuesto que, con relación a los gastos del año siguiente, le será presentado por el Gobernador, y decretar los impuestos necesarios para cubrirlos.
-
-III. Estudiar y discutir las leyes de carácter urgente, así como resolver toda clase de negocios de esta índole.
+Durante el segundo período se ocupara de estudiar, discutir y votar las iniciativas de leyes ordinarias que se le presenten y de resolver los demás asuntos que se sometan a su consideración.
 
 ###### Art. 43.
 
@@ -996,3 +1004,9 @@ Lic. Francisco Espinosa.
 P.O. 23 DE MARZO DE 1919.
 
 Artículo Segundo.- Las anteriores reformas surtirán sus efectos desde el día de la promulgación del presente Decreto, que se hará por bando solemne el 10 del mes actual.
+
+P.O. 30 DE NOVIEMBRE DE 1919.
+
+I.- El Presupuesto General del Estado que actualmente rige, solamente seguirá en vigor hasta el 31 de diciembre del año en curso.
+
+II.- Se faculta al Ejecutivo para que reforme, por lo que hace a plazos y fechas, los artículos de la Ley de Hacienda del Estado y demás relativos que pugnen con el exacto cumplimiento de esta Ley.
