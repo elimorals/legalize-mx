@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-procedimientos-para-la-atencion-de-quejas-de-1400
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-04-29"
-last_updated: "1999-04-29"
+last_updated: "2003-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14004&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,730 +19,972 @@ issue_date: "1999-03-17"
 ---
 # REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCION DE QUEJAS DE LA COMISION NACIONAL DE ARBITRAJE MEDICO
 
-REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCION DE QUEJAS DE LA COMISION NACIONAL DE ARBITRAJE MEDICO
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 1 DE FEBRERO DE 2007.
 
-Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el jueves 29 de abril de 1999.
+Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 30 de abril de 2004.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Salud.- Dirección General de Asuntos Jurídicos.
+ARTURO MONTIEL ROJAS, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
 
-REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCION DE QUEJAS DE LA COMISION NACIONAL DE ARBITRAJE MEDICO
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
 
-### CAPITULO PRIMERO. DEL OBJETO Y PRINCIPIOS
+DECRETO NUMERO 46
 
-###### Artículo 1o.
+A H. "LV" LEGISLATURA DEL ESTADO DE MEXICO
 
-El presente Reglamento tiene por objeto normar los procedimientos de la Comisión Nacional de Arbitraje Médico, sus disposiciones son obligatorias para los servidores públicos de este órgano desconcentrado; las partes estarán obligadas al cumplimiento de este instrumento en los términos que el mismo establece.
+DECRETA:
 
-###### Artículo 2o.
+###### ARTICULO PRIMERO.
 
-Para efectos de este Reglamento, se entenderá por:
+Se expide la Ley de Transparencia y Acceso a la Información Pública del Estado de México, conforme al tenor siguiente:
 
-I las propuestas de CONAMED;
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO
 
-AMIGABLE COMPOSICION.- Procedimiento para el arreglo de una controversia entre un usuario y un prestador de servicio médico oyendo
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-II. CLAUSULA COMPROMISORIA.- La establecida en cualquier contrato de prestación de servicios profesionales o de hospitalización, a través de la cual las partes designen competente a CONAMED para resolver las diferencias que puedan surgir con ocasión de dichos contratos, mediante la conciliación o el arbitraje;
+### Capítulo I. Objeto de la Ley
 
-III. COMPROMISO ARBITRAL.- El instrumento otorgado por partes capaces y en pleno ejercicio de sus derechos civiles por el cual designen a CONAMED para la resolución del procedimiento arbitral; determinen el negocio sometido a su conocimiento; acepten las reglas de procedimiento fijadas en el presente Reglamento o, en su caso, señalen reglas especiales para su tramitación;
+###### Artículo 1.
 
-IV. CONAMED.- La Comisión Nacional de Arbitraje Médico;
+La presente Ley es reglamentaria de los párrafos segundo y tercero del artículo 5º de la Constitución Política del Estado Libre y Soberano de México y tiene por objeto, tutelar y garantizar, a toda persona, el ejercicio del derecho de acceso a la información pública y proteger los datos personales que se encuentren en posesión de los Sujetos Obligados.
 
-V. DECRETO.- El Decreto por el que se crea CONAMED, publicado en el Diario Oficial de la Federación el tres de junio de mil novecientos noventa y seis;
+### Capítulo II. De las Definiciones
 
-VI. DICTAMEN.- Informe pericial de CONAMED, precisando sus conclusiones respecto de alguna cuestión sometida a su análisis, dentro del ámbito de sus atribuciones;
+###### Artículo 2.
 
-VII. IRREGULARIDAD EN LA PRESTACION DE SERVICIOS MEDICOS.- Todo acto u omisión en la atención médica que contravenga las disposiciones que la regulan, incluidos los principios científicos y éticos que orientan la práctica médica;
+Para los efectos de esta Ley, se entenderá por:
 
-VIII. LAUDO.- Es el acto por medio del cual CONAMED resuelve las cuestiones sometidas a su conocimiento a través del compromiso arbitral;
+I. Ley: a la Ley de Transparencia y Acceso a la Información Pública del Estado de México;
 
-IX. OPINION TECNICA.- Dictamen emitido por CONAMED, de oficio, para el mejoramiento de la calidad en la atención médica, especialmente en asuntos de interés general;
+II. Datos Personales: La información concerniente a una persona física identificada o identificable, relativa a su origen étnico o racial, o que esté referida a las características físicas, morales, vida afectiva y familiar, domicilio, número telefónico, situación patrimonial, ideología y opinión política; creencias o convicciones religiosas, estado de salud, orientación sexual o análogas relacionadas con su intimidad; y en general, toda aquella información de carácter personal que no sea susceptible de ser publicada, proporcionada o comercializada por autoridad alguna sin consentimiento expreso de la persona a quien se refiera, salvo que medie mandamiento de autoridad judicial;
 
-X. NEGATIVA EN LA PRESTACION DE SERVICIOS MEDICOS.- Todo acto u omisión contrario a las normas que rigen la atención médica, por el cual se rehusa la prestación de servicios obligatorios;
+III. Órganos Autónomos: El Instituto Electoral del Estado de México, el Tribunal Estatal Electoral, la Comisión Estatal de Derechos Humanos, las Universidades e Instituciones de Educación Superior dotadas de autonomía y cualquier otro establecido en la Constitución Política del Estado Libre y soberano de México;
 
-XI. PARTES.- Quienes hayan decidido someter su controversia, mediante la suscripción de una cláusula compromisoria o compromiso arbitral, al conocimiento de CONAMED;
+IV. Servidor Público.- Toda persona que desempeñe un empleo, cargo o comisión en alguno de los poderes del Estado, en los municipios, en los tribunales administrativos y organismos auxiliares, así como los titulares o quienes hagan sus veces en empresas de participación estatal o municipal, sociedades o asociaciones asimiladas a estas, en los fideicomisos públicos y en los órganos autónomos. Por lo que toca a los demás trabajadores del sector auxiliar, su calidad de servidores públicos estará determinada por los ordenamientos legales respectivos;
 
-XII. PRESTADOR DEL SERVICIO MEDICO.- Las instituciones de salud de carácter público, social o privado, así como los profesionales, técnicos y auxiliares de las disciplinas para la salud sea que ejerzan su actividad para dichas instituciones, o de manera independiente;
+V. Información Pública: Toda aquella que esté en posesión de los Sujetos Obligados, en ejercicio de sus atribuciones;
 
-XIII. PRINCIPIOS CIENTIFICOS DE LA PRACTICA MEDICA.- El conjunto de reglas para el ejercicio médico contenidas en la literatura aceptada, en las cuales se establecen los medios ordinarios para la atención médica y los criterios para su empleo;
+VI. Información Clasificada: Aquella considerada por la presente Ley como reservada o confidencial;
 
-XIV. PRINCIPIOS ETICOS DE LA PRACTICA MEDICA.- El conjunto de reglas bioéticas y deontológicas universalmente aceptadas para la atención médica;
+VII. Información Reservada: La clasificada con este carácter de manera temporal por las disposiciones de esta Ley, cuya divulgación puede causar daño en términos de lo establecido por artículo 20 del presente ordenamiento;
 
-XV. QUEJA.- Petición a través de la cual una persona física por su propio interés o en defensa del derecho de un tercero, solicita la intervención de CONAMED en razón de impugnar la denegación injustificada de servicios médicos, o la negligencia, impericia o dolo en su prestación;
+VIII. Información Confidencial: La clasificada con este carácter, de manera permanente, por las disposiciones de esta u otras leyes, que al ser divulgada afecte la privacidad de las personas;
 
-XVI. SECRETARIA.- La Secretaría de Salud;
+IX. Instituto: El Instituto de Transparencia y Acceso a la Información Pública del Estado de México;
 
-XVII. TRANSACCION.- Es un contrato otorgado ante CONAMED por virtud del cual las partes, haciéndose recíprocas concesiones terminan una controversia, y
+X. Comité de Información: Cuerpo colegiado que se integre para resolver sobre la información que deberá clasificarse, así como para atender y resolver los requerimientos de las Unidades de Información y del Instituto;
 
-XVIII. USUARIO.- Toda persona que requiera u obtenga servicios médicos.
+XI. Unidades de Información: Las establecidas por los sujetos obligados para atender las solicitudes de información pública;
 
-###### Artículo 3o.
+XII. Servidor Público Habilitado: Persona encargada de apoyar a sus respectivas Unidades de Información y aportar en primera instancia el fundamento y motivación de la clasificación de la información;
 
-En aquellos casos en que los hechos materia de la queja se hayan suscitado en el territorio de alguna de las entidades federativas y no se cuente con una institución con funciones similares a la Comisión, la queja se radicará en ésta y será resuelta conforme a los procedimientos establecidos en el presente ordenamiento.
+XIII. Seguridad del Estado: La protección de los elementos esenciales del Estado Mexicano y del Estado de México, como población, territorio, gobiernos, orden jurídico, la soberanía estatal, la autonomía Municipal, la seguridad interior;
 
-###### Artículo 4o.
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-Cuando se reciba una queja escrita que resulte de la competencia de alguna Comisión Estatal, se acusará recibo y, sin admitir la queja, se turnará a la Comisión Estatal respectiva, notificando al quejoso de este hecho.
+XIV. Versión Pública: la información pública separada de un documento que contenga información clasificada.
 
-###### Artículo 5o.
+## TITULO SEGUNDO. SUJETOS DE LA LEY
 
-Para el cumplimiento de su objeto, en términos de su Decreto y del presente Reglamento, CONAMED realizará las siguientes acciones:
+### Capítulo I. De los Derechos de las Personas
 
-I. Atenderá las quejas presentadas;
+###### Artículo 3.
 
-II. Gestionará la atención inmediata de los usuarios, cuando la queja se refiera a demora o negativa de servicios médicos;
+La información pública generada, administrada o en posesión de los Sujetos Obligados en ejercicio de sus atribuciones, será accesible de manera permanente a cualquier persona, privilegiando el principio de máxima publicidad de la información. Los Sujetos Obligados deben poner en práctica, políticas y programas de acceso a la información que se apeguen a criterios de publicidad, veracidad, oportunidad, precisión y suficiencia en beneficio de los solicitantes.
 
-III. Actuará en calidad de conciliador y árbitro, atendiendo a las cláusulas compromisorias y compromisos arbitrales, y
+###### Artículo 4.
 
-IV. Intervendrá de oficio en asuntos de interés general, propugnando por la mejoría de los servicios médicos, para cuyo efecto emitirá las Opiniones Técnicas que estime necesarias.
+Toda persona tiene el derecho de acceso a la información pública, sin más limitaciones que las establecidas en la presente Ley.
 
-###### Artículo 6o.
+En materia política, solo podrán ejercer este derecho los mexicanos.
 
-Los procedimientos ante CONAMED invariablemente serán gratuitos.
+###### Artículo 5.
 
-### CAPITULO SEGUNDO. DE LA ATENCION DE LAS QUEJAS
+Toda persona que acredite la titularidad de sus datos personales, en posesión de los Sujetos Obligados, tiene derecho a saber si se está procesando información y a solicitar las rectificaciones o supresiones que correspondan cuando los registros sean ilícitos, injustificados o inexactos y a conocer los destinatarios cuando esta información sea transmitida.
 
-###### Artículo 7o.
+###### Artículo 6.
 
-Todo servidor público de la Comisión está obligado a guardar reserva de los asuntos que se tramiten y substancien en la misma, así como respecto de los documentos públicos o privados que formen parte de los expedientes de queja y de las opiniones que se adopten en cada caso.
+El acceso a la información pública será permanente y gratuito. La expedición de documentos, grabaciones y reproducciones se sujetará, en su caso, al pago de los derechos, productos y aprovechamientos establecidos en la legislación correspondiente.
 
-###### Artículo 8o.
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-Las quejas deberán presentarse ante CONAMED de manera personal por el quejoso, ya sea en forma verbal o escrita, y deberán contener:
+En ningún caso, el pago de derechos deberá exceder el costo de reproducción de la información en el material solicitado y el costo de envío.
 
-I. Nombre, domicilio y, en su caso, el número telefónico del quejoso y del prestador del servicio médico contra el cual se inconforme;
+### Capítulo II. De los Sujetos Obligados
 
-II. Una breve descripción de los hechos motivo de la queja;
+###### Artículo 7.
 
-III. Número de afiliación o de registro del usuario, cuando la queja sea interpuesta en contra de instituciones públicas que asignen registro a los usuarios;
+Son sujetos obligados:
 
-IV. Pretensiones que deduzca del prestador del servicio;
+I. El Poder Ejecutivo del Estado de México, las dependencias y organismos auxiliares, los fideicomisos públicos y la Procuraduría General de Justicia;
 
-V. Si actúa a nombre de un tercero, la documentación probatoria de su representación, sea en razón de parentesco o por otra causa, y
+II. El Poder Legislativo del Estado, los órganos de la Legislatura y sus dependencias;
 
-VI. Firma o huella digital del quejoso.
+III. El Poder Judicial y el Consejo de la Judicatura del Estado;
 
-A la queja se agregará copia simple, legible, de los documentos en que soporte los hechos manifestados y de su identificación. Cuando se presenten originales, CONAMED agregará al expediente copias confrontadas de los mismos, devolviendo los originales a los interesados.
+IV. Los Ayuntamientos y las dependencias y entidades de la administración pública municipal;
 
-###### Artículo 9o.
+V. Los Órganos Autónomos;
 
-CONAMED brindará la orientación que el usuario necesite, especialmente la que se refiere a los alcances y efectos legales de la conciliación y el arbitraje y de los procedimientos alternos existentes.
+VI. Los Tribunales Administrativos.
 
-### CAPITULO TERCERO. DE LA CONCILIACION Y LA TRANSACCION
+La información relativa a los partidos políticos, será proporcionada por el Instituto Electoral del Estado de México, conforme a lo establecido por el Código de la materia. En el caso de las personas de derecho privado que ejerzan o administren fondos públicos, la información será proporcionada por el Sujeto Obligado que realizó la transferencia de recursos, independientemente de la modalidad en que se hubiese realizado.
 
-### CAPITULO CUARTO. DE LOS ACTOS PROCESALES EN GENERAL
+Los servidores públicos deberán transparentar sus acciones así como garantizar y respetar el derecho a la información pública.
+
+###### Artículo 8.
+
+Los responsables y quienes intervengan en el procesamiento de datos de información reservada y confidencial están obligados a guardar el secreto y sigilo correspondiente, conservando la confidencialidad aún después de su función como servidor público.
+
+###### Artículo 9.
+
+Los Sujetos Obligados deberán informar anualmente por escrito al Instituto sobre las actividades realizadas, en cumplimiento de las obligaciones que se deriven de la presente Ley.
 
 ###### Artículo 10.
 
-Cuando la queja pueda ser resuelta a través de orientación o de informes, CONAMED procederá a desahogarla de inmediato.
+En la Administración y Custodia de los archivos de información pública, los sujetos obligados, los servidores públicos habilitados y los servidores públicos en general, se ajustarán a lo establecido por la Ley de Documentos Administrativos e Históricos del Estado de México.
 
 ###### Artículo 11.
 
-Una vez recibida la queja, se registrará y asignará número de expediente, acusando CONAMED el recibo de la misma.
+Los Sujetos Obligados sólo proporcionarán la información que generen en el ejercicio de sus atribuciones.
 
-### CAPITULO QUINTO. DE LOS PLAZOS Y NOTIFICACIONES
+## TITULO TERCERO. DE LA INFORMACION
+
+### Capítulo I. De la información Pública de Oficio
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 12.
 
-En caso de desechamiento por incompetencia, se orientará al quejoso para que acuda a la instancia correspondiente.
+Los Sujetos Obligados deberán tener disponible en medio impreso o electrónico, de manera permanente y actualizada, de forma sencilla, precisa y entendible para los particulares, la información siguiente:
+
+I. Leyes, reglamentos, decretos, acuerdos, convenios, manuales de organización y procedimientos y demás disposiciones en los que se establezca su marco jurídico de actuación;
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+II. Directorio de servidores públicos de mandos medios y superiores con referencia particular a su nombramiento oficial, puesto funcional, remuneración de acuerdo con lo previsto por el Código Financiero; datos que deberán señalarse de forma independiente por dependencia y entidad pública de cada Sujeto Obligado;
+
+III. Los programas anuales de obras y, en su caso, la información relativa a los procesos de licitación y contratación del área de su responsabilidad;
+
+IV. La que contenga los sistemas, procesos, oficinas, ubicación, costos y responsables de atender las solicitudes de acceso a la información, así como el registro de las solicitudes recibidas y atendidas;
+
+V. Nombre, dirección, teléfono y horarios de atención al público de los responsables de las Unidades de Información;
+
+VI. La contenida en los acuerdos y actas de las reuniones oficiales, de cualquier órgano colegiado de los Sujetos Obligados;
+
+VII. Presupuesto asignado y los informes sobre su ejecución, en los términos que establece el Presupuesto de Egresos del Gobierno del Estado;
+
+VIII. Padrones de beneficiarios de los programas desarrollados por el Estado y los municipios, así como información disponible sobre el diseño, montos, acceso y ejecución de los programas de subsidio, siempre y cuando la publicación de estos datos no produzca discriminación. Esta disposición sólo será aplicable en aquellos programas que por su naturaleza y características permitan la integración de los padrones de referencia;
+
+IX. La situación financiera de los municipios, Poder Legislativo y sus órganos, Poder Judicial y Consejo de la Judicatura, Tribunales Administrativos, Órganos Autónomos, así como de la deuda pública municipal, conforme a las disposiciones legales aplicables;
+
+X. La que proporcionen los partidos políticos a la autoridad electoral, a la que sólo tendrán acceso los mexicanos;
+
+XI. Los procesos de licitación y contratación para la adquisición de bienes, arrendamientos y prestación de servicios que hayan celebrado en el área de su responsabilidad con personas físicas o morales de derecho privado;
+
+XII. Convenios que suscriban con otros entes de los sectores público, social y privado;
+
+XIII. Mecanismos de participación ciudadana en los procesos de elaboración, implementación y evaluación de políticas públicas y toma de decisiones;
+
+XIV. Planeación, programación y contenidos de la información que difundan a través de los diversos medios escritos y electrónicos;
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XV. Agenda de reuniones públicas a las que convoquen los titulares de los sujetos obligados;
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XVI. Índices, catálogos de información pública y listado de bases de datos personales que cada sujeto obligado posee y maneja;
+
+XVII. Expedientes concluidos relativos a la expedición de autorizaciones, permisos, licencias, certificaciones y concesiones;
+
+XVIII. Los informes de las auditorias realizadas por los órganos de control interno, la Secretaría de la Contraloría, los órganos de control interno de los Poderes Legislativo y Judicial, las contralorías de los órganos autónomos, la Contaduría General de Glosa del Estado, las contralorías municipales y despachos externos, las aclaraciones que correspondan; y, en su oportunidad, las resoluciones de las responsabilidades de las mismas cuando éstas hayan causado Estado; y (sic)
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XIX. Programas de trabajo e informes anuales de actividades de acuerdo con cada plan o programa establecido por los Sujetos Obligados;
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XX. Los indicadores establecidos por los Sujetos Obligados, tomando en cuenta las metas y objetivos planteados en el Plan Estatal de Desarrollo y demás ordenamientos aplicables;
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XXI. Los trámites y servicios ofrecidos así como los requisitos para acceder a los mismos;
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XXII. Informes y estadísticas que tengan que realizar en términos del Código Administrativo del Estado de México.
 
 ###### Artículo 13.
 
-Si la queja fuere incompleta, imprecisa, obscura o ambigua, CONAMED requerirá por escrito al interesado para que la aclare o complete en un plazo no mayor de diez días, contados a partir de la fecha en que surta efectos la notificación.
+Los Sujetos Obligados a los que se refiere el artículo 7 fracción I de esta Ley, adicionalmente a la información señalada en el artículo anterior deberán contar de manera permanente y actualizada, con la siguiente:
 
-Si el quejoso no desahogara la aclaración en diez días hábiles, contados a partir de la fecha en que surta efectos el segundo requerimiento, se concluirá el expediente, por falta de interés.
+I. La derivada del Sistema de Planeación Democrática para el desarrollo del Estado de México;
+
+II. La Situación económica, ingresos, egresos y deuda pública en los términos que establezca la legislación aplicable, que será proporcionada por la Secretaría de Finanzas, Planeación y Administración; y
+
+III. Los proyectos de disposiciones reglamentarias, directamente, a través de la Dirección Jurídica y Consultiva del Estado de México o del Consejo Consultivo para la Actualización de la Legislación del Estado de México, diez días hábiles anteriores a su publicación, se podrán dar a conocer por los medios disponibles. Lo anterior no aplicará cuando las anteriores instancias, determinen que su conocimiento puede afectar los objetivos que se pretenden lograr con su vigencia o se trate de situaciones de emergencia.
 
 ###### Artículo 14.
 
-Las quejas procedentes serán remitidas en un plazo no mayor de dos días hábiles, a partir de su calificación, a la Dirección General de Conciliación o, en su caso, a la Dirección General de Coordinación Regional, con la documentación de soporte.
+Los Sujetos Obligados a los que se refiere el artículo 7 fracción II de esta Ley, adicionalmente a la información señalada en el artículo 12 deberán contar, de manera permanente y actualizada, con la siguiente:
+
+> <small>(REFORMADA, G.G. 1 DE FEBRERO DE 2007)</small>
+
+I. Informes y cuentas públicas que por disposición legal deben entregar las entidades públicas estatales y municipales al Poder Legislativo y que hayan sido revisados por la Legislatura;
+
+II. Iniciativas, dictámenes, informes, diario de debates, decretos, acuerdos y las resoluciones aprobadas;
 
 ###### Artículo 15.
 
-De recibirse dos o más quejas por los mismos actos u omisiones que se atribuyan al prestador del servicio médico, se acordará su trámite en un solo expediente. El acuerdo respectivo será notificado a todos los quejosos y, en su caso, al representante común en el evento de haberse desahogado el procedimiento previsto en el artículo 67.
+Los Sujetos Obligados a los que se refiere el artículo 7 fracción IV de esta Ley, adicionalmente a la información señalada en el artículo 12 deberán contar, de manera permanente y actualizada, con la siguiente:
+
+I. Datos referentes al desarrollo de obras para brindar los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales; alumbrado público; programas de limpia, recolección, traslado y tratamiento de residuos sólidos; ubicación geográfica de mercados y centrales de abasto, panteones, rastros, parques, jardines y su equipamiento;
+
+II. Planes de Desarrollo Municipal; reservas territoriales y ecológicas; participaciones federales y todos los recursos que integran su hacienda, cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y tablas de valores unitarios de suelo y construcciones, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
+
+III. Información en materia de protección civil, los planes de desarrollo urbano, ordenamientos ecológicos y uso de la vía pública.
 
 ###### Artículo 16.
 
-CONAMED hará del conocimiento de los prestadores del servicio médico, dentro de un plazo de diez días hábiles a partir de su admisión, conforme a lo previsto en los artículos 50 y 51:
-
-I. El nombre del quejoso, y
-
-II. Un resumen del motivo de la queja.
-
-En la misma diligencia se requerirá al prestador para que presente un informe en relación con el servicio prestado.
-
-Cuando se trate de un establecimiento se requerirá, además, copia simple del registro diario de pacientes en que conste la atención médica si es que el usuario hubiere sido atendido exclusivamente por consulta externa y si se tratare de atención hospitalaria, del expediente clínico.
+La información a que se refiere el presente capítulo deberá presentarse de forma tal que facilite su uso y comprensión por las personas, y permita asegurar su calidad, veracidad, oportunidad y confiabilidad.
 
 ###### Artículo 17.
 
-A efecto de promover la avenencia de las partes, CONAMED procederá en un término que no exceda de quince días hábiles a fijar el día y hora para la audiencia de conciliación, notificándoselos por escrito, con un mínimo de cinco días anteriores a la misma.
+Los Sujetos Obligados deberán preparar la automatización, presentación y contenido de su información, así como su integración en medios electrónicos, observando los lineamientos o, en su caso, recomendaciones que expida el Instituto. Entre tanto, los Sujetos Obligados que no puedan satisfacer esta exigencia técnica, dispondrán por medio de los elementos a su alcance, los documentos que contengan la información de referencia.
 
 ###### Artículo 18.
 
-Abierta la audiencia, el conciliador manifestará a las partes sus derechos, así como un resumen sucinto de la queja y del informe presentado, señalando los elementos comunes y los puntos de controversia, y las exhortará para que se conduzcan con verdad y lleguen a un arreglo.
+Los Sujetos Obligados pondrán a disposición de las personas interesadas los medios necesarios, a su alcance, para que éstas puedan obtener la información, de manera directa y sencilla. Las unidades de información deberán proporcionar apoyo a los usuarios que lo requieran y dar asistencia respecto de los trámites y servicios que presten.
 
-### CAPITULO SEXTO. DEL PROCEDIMIENTO ARBITRAL
+### Capítulo II. De la Información Clasificada como
 
-#### SECCION PRIMERA. DISPOSICIONES COMUNES
+Reservada y Confidencial
 
 ###### Artículo 19.
 
-El conciliador podrá en todo momento requerir a las partes los elementos de convicción que estime necesarios para la conciliación, así como para el ejercicio de las atribuciones que a la Comisión le confiere el presente Reglamento.
-
-Las partes podrán aportar las pruebas que estimen pertinentes y necesarias para acreditar los elementos de la queja y del informe. El conciliador, podrá diferir la audiencia de conciliación hasta por dos ocasiones cuando lo estime pertinente, o a instancia de ambas partes, debiendo en todo caso señalar día y hora para su reanudación, dentro de los quince días siguientes.
+El derecho de acceso a la información pública sólo será restringido cuando se trate de información clasificada como reservada o confidencial.
 
 ###### Artículo 20.
 
-En caso de inasistencia de un prestador de servicios a la audiencia de conciliación, o ante el incumplimiento de presentar los documentos mencionados en el artículo 16, se solicitará, en el caso de instituciones públicas, la intervención de los órganos internos de control, a efecto de que coadyuven con la Comisión en el cumplimiento de sus objetivos. Cuando se trate de un prestador de servicios que ejerza su actividad de manera privada, se solicitará la intervención de las asociaciones de profesionales con las que la Comisión haya establecido acuerdos de colaboración necesarios.
+Para los efectos de esta Ley, se considera información reservada, la clasificada como tal, de manera temporal, mediante acuerdo fundado y motivado, por los sujetos obligados cuando:
 
-En cualquier caso, CONAMED según la naturaleza del asunto, podrá formular Opinión Técnica valiéndose de los elementos de que disponga. Esta Opinión podrá ser enviada al prestador del servicio a efecto de plantear directrices para la mejoría de la atención médica y, en su caso, contendrá una excitativa proponiendo alguna alternativa conciliatoria, dejando a salvo, desde luego, los derechos de ambas partes.
+I. Comprometa la Seguridad del Estado o la Seguridad Pública;
+
+II. Pueda dañar la conducción de las negociaciones de acuerdos interinstitucionales, incluida aquella información que otros Estados u organismos internacionales entreguen con carácter de confidencial al Estado de México;
+
+III. Pueda dañar la situación económica y financiera del Estado de México;
+
+IV. Ponga en riesgo la vida, la seguridad o la salud de cualquier persona, o cause perjuicio a las actividades de fiscalización, verificación, inspección y comprobación del cumplimiento de las Leyes, de prevención del delito, procuración y administración de justicia, de readaptación social y de la recaudación de contribuciones;
+
+V. Por disposición legal sea considerada como reservada;
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+VI. Pueda causar daño a los expedientes procesales o procedimientos administrativos, incluidos los de quejas, denuncias, inconformidades, responsabilidades administrativas y resarcitorias hasta que no esté total y definitivamente concluido dicho procedimiento;
+
+VII. El daño que pueda producirse con la publicación de la información sea mayor que el interés público de conocer la información de referencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 21.
 
-En caso de que el usuario no acuda a la audiencia de conciliación y no se presente dentro de los cinco días siguientes a la audiencia respectiva, sin haber justificado fehacientemente su inasistencia, se le tendrá por desistido de la queja, acordándose como asunto concluido, remitiéndose a archivo teniendo como consecuencia que no podrá presentar otra queja ante la Comisión por los mismos hechos.
+El acuerdo que clasifique la información como reservada deberá contener los siguientes elementos:
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+I. Un razonamiento lógico que demuestre que la información encuadra en alguna de las hipótesis de excepción previstas en la Ley;
+
+II. Que la liberación de la información de referencia pueda amenazar efectivamente el interés protegido por la Ley;
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+III. La existencia de elementos objetivos que permitan determinar si la difusión de la información causaría un daño presente, probable y específico a los intereses jurídicos tutelados en los supuestos de excepción previstos en la Ley.
 
 ###### Artículo 22.
 
-Los convenios celebrados por las partes con motivo de la conciliación, en los que expresen las contraprestaciones que se harán, serán propuestos por la Comisión y deberán ajustarse en todo momento a lo que las partes manifiesten para avenirse, con la sola limitación de que no deberán ser contrarios a derecho.
+La información clasificada como reservada, podrá permanecer con tal carácter hasta por un periodo de 9 años, contados a partir de su clasificación, salvo que antes del cumplimiento del periodo de restricción, dejaran de existir los motivos de su reserva.
 
 ###### Artículo 23.
 
-De realizarse satisfactoriamente la instancia conciliatoria, se dejará constancia legal y se procederá al archivo de las actuaciones como un asunto definitivamente concluido.
+Los Sujetos Obligados podrán solicitar autorización al Instituto para ampliar el tiempo de reserva, hasta por un plazo igual y por una sola vez, siempre que subsistan las circunstancias que motivaron su clasificación.
 
 ###### Artículo 24.
 
-Agotada la fase conciliatoria, y de no lograrse el arreglo de las partes, el conciliador las exhortará a que designen como árbitro a la Comisión para solucionar la controversia.
-
-Si las partes así lo deciden, dentro de los tres días siguientes se turnará el expediente a la Dirección General de Arbitraje para la continuación del procedimiento arbitral, la que deberá prever lo conducente a efecto de que, dentro de un plazo no mayor a los treinta días siguientes al en que se conozca su aceptación, se lleve a efecto la audiencia para firma de compromiso arbitral.
+Tratándose de información, en posesión de los Sujetos Obligados, que se relacione con el secreto comercial, industrial, fiscal, bancario, fiduciario u otro considerado como tal por alguna disposición legal, se estará a lo que la legislación de la materia establezca.
 
 ###### Artículo 25.
 
-No obstante haberse agotado la etapa conciliatoria, en la audiencia a que se refiere el numeral anterior, CONAMED a través de su personal, invitará a las partes a llegar a un arreglo, al efecto y en su carácter de amigable componedor, procederá a presentar las alternativas conciliatorias que a su juicio existan, sin prejuzgar respecto de los derechos de las partes.
+Para los efectos de esta Ley, se considera información confidencial, la clasificada como tal, de manera permanente por su naturaleza o mediante acuerdo fundado y motivado por los Sujetos Obligados, cuando:
+
+I. Contenga datos personales y al ser divulgada afecte la privacidad de las personas;
+
+II. Por disposición legal sea considerada como confidencial;
+
+III. Se entregue a los Sujetos Obligados bajo promesa de secresía.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+No se considerará confidencial la información que se encuentre en los registros públicos o en fuentes de acceso público, ni tampoco la que sea considerada por la presente Ley como información pública.
 
 ###### Artículo 26.
 
-Cuando se trate de asuntos relacionados con la atención médica de menores e incapaces, la audiencia conciliatoria referida en el artículo anterior tendrá por objeto determinar, exclusivamente, las medidas de atención médica que, en su caso, hayan de proporcionarse a los usuarios; hecho lo anterior, se continuará el procedimiento arbitral.
+La información que contenga datos personales debe sistematizarse en archivos elaborados con fines lícitos. Salvo en el caso de la información necesaria para proteger la seguridad pública o la vida de las personas, no deberá registrarse ni se obligará a las personas a proporcionar datos que puedan originar discriminación, en particular información sobre el origen racial o étnico, preferencia sexual, opiniones políticas, convicciones religiosas, filosóficas o de otro tipo, o sobre la participación en una asociación o la afiliación a una agrupación gremial.
 
 ###### Artículo 27.
 
-Si las partes llegaran a un arreglo, procederán a otorgar, desde luego, el contrato de transacción, al efecto podrán emplearse en lo conducente, los formatos que emita CONAMED, respetándose puntualmente la voluntad de las partes.
+Los archivos con datos personales deberán ser actualizados de manera permanente y ser utilizados exclusivamente para los fines para los que fueron creados. La finalidad de un archivo y su utilización en función de ésta, deberá especificarse y justificarse. Su creación deberá ser objeto de una medida de publicidad o que permita el conocimiento de la persona interesada, a fin de que ésta ulteriormente pueda asegurarse de que:
+
+I. Los datos personales reunidos y registrados son pertinentes a la finalidad;
+
+II. Ninguno de esos datos personales es utilizado o revelado sin su consentimiento, con un propósito incompatible con el que se haya especificado; y
+
+III. El período de conservación de los datos personales no excede del necesario para alcanzar la finalidad con que se han registrado.
 
 ###### Artículo 28.
 
-En las transacciones se tomarán en cuenta las siguientes reglas:
+El acuerdo que clasifique la información como confidencial deberá contener un razonamiento lógico en el que demuestre que la información se encuentra en alguna o algunas de las hipótesis previstas en la presente Ley.
 
-I. Se mirará ante todo, por la protección de la salud de los usuarios;
+## TITULO CUARTO. DEL ACCESO A LA INFORMACION PUBLICA
 
-II. Cuando haya conflicto de derechos, se buscará ante todo proteger a quien deban evitársele perjuicios respecto de quien pretenda obtener lucro;
-
-III. Si el conflicto fuere entre derechos iguales o de la misma especie, se buscará la resolución observando la mayor igualdad entre las partes;
-
-IV. La voluntad de los particulares no puede eximir de la observancia de la ley, ni alterarla ni modificarla y sólo son renunciables los derechos privados que no afecten directamente al interés público, cuando la renuncia no perjudique los derechos de tercero;
-
-V. La autonomía de las partes para otorgar contratos y convenios no puede ir en contra de la ley, el orden público o las buenas costumbres;
-
-VI. Contra la observancia de la ley no puede alegarse desuso, costumbre o práctica en contrario;
-
-VII. Será nula toda transacción que verse:
-
-a.-) Sobre delito, dolo y culpa futuros, y
-
-b.-) Sobre la acción civil que nazca de un delito o culpa futuros.
-
-Cuando sea necesario, el personal de CONAMED ilustrará a las partes al respecto, vigilando que las transacciones no sean suscritas en términos lesivos en razón de suma ignorancia, notoria inexperiencia o extrema miseria.
+### Capítulo I. De los Comités de Información
 
 ###### Artículo 29.
 
-Los contratos de transacción tendrán para las partes, en términos de los artículos 2953 del Código Civil para el Distrito Federal y 533 del Código de Procedimientos Civiles para el Distrito Federal, la misma eficacia y autoridad de la cosa juzgada.
+En cada dependencia, organismo auxiliar y fideicomiso de la administración pública estatal y en la Procuraduría General de Justicia del Estado de México se establecerá un Comité de Información, integrado por:
 
-Las transacciones han de interpretarse estrictamente y sus cláusulas son indivisibles, a menos que las partes convengan, expresamente, otra cosa.
+I. El titular de la dependencia, del organismo auxiliar o, del fideicomiso o, el servidor público que ellos mismos designen, quien presidirá el Comité;
+
+II. El responsable o titular de la unidad de información; y
+
+III. El titular del órgano del control interno.
+
+El Comité adoptará sus decisiones por mayoría de votos.
 
 ###### Artículo 30.
 
-Si los obligados cumplieren voluntariamente con las obligaciones que asuman en los contratos, se mandará archivar el expediente como asunto total y definitivamente concluido, en caso contrario, se brindará la asesoría necesaria para su ejecución en los términos de ley.
+Los Comités de Información tendrán las siguientes funciones:
+
+I. Coordinar y supervisar las acciones realizadas en cumplimiento de las disposiciones previstas en esta Ley;
+
+II. Establecer de conformidad con las disposiciones reglamentarias, las medidas que coadyuven a una mayor eficiencia en la atención de las solicitudes de acceso a la información;
+
+III. Aprobar, modificar o revocar la clasificación de la información;
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+IV. Supervisar la aplicación de los lineamientos en materia de acceso a la información pública para el manejo, mantenimiento y seguridad de los datos personales, así como los criterios de clasificación expedidos por el Instituto;
+
+V. Elaborar un programa para facilitar la sistematización y actualización de la información, mismo que deberá remitirse al Instituto dentro de los primeros veinte días de cada año; y (sic)
+
+VI. Enviar los datos necesarios para la elaboración del informe anual del Instituto, de conformidad con lo que éste solicite;
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+VII. Emitir las resoluciones que correspondan para la atención de las solicitudes de información, así como de acceso y de corrección de datos personales, de acuerdo con los lineamientos que emita el Instituto.
 
 ###### Artículo 31.
 
-Para la tramitación y resolución de los asuntos ante CONAMED, se estará a lo dispuesto en el presente Reglamento, siempre que las partes no hubieren realizado alguna prevención especial en la cláusula compromisoria o en el compromiso arbitral.
+En los Poderes Legislativo y Judicial, los municipios, los órganos autónomos y los Tribunales Administrativos, se establecerán Comités de información que se integrarán y funcionarán en términos de este capítulo.
 
-El arbitraje podrá tramitarse ante CONAMED por correo certificado con acuse de recibo, en cuyo caso, las partes determinarán en el compromiso, el modo de cumplir las formalidades esenciales del procedimiento arbitral.
+### Capítulo II. De las Unidades de Información
 
 ###### Artículo 32.
 
-Todos los expedientes se formarán por CONAMED con la colaboración de las partes, terceros, demás interesados y auxiliares que tengan que intervenir en el procedimiento, observándose forzosamente las siguientes reglas:
-
-I. Todos los escritos y actuaciones deberán escribirse en español y estar firmados por quienes intervengan en ellos. Cuando alguna parte no supiere o no pudiere firmar, impondrá su huella digital, firmando otra persona en su nombre y a su ruego, indicando estas circunstancias;
-
-II. Tratándose de personas que por provenir de algún grupo indígena no hablen o entiendan el idioma español, se les asignará gratuitamente un intérprete;
-
-III. Los documentos redactados en idioma extranjero deberán acompañarse de la correspondiente traducción al español. Se exceptúa de esta regla la literatura médica en otro idioma;
-
-IV. En las actuaciones ante CONAMED, las fechas y cantidades se escribirán con letra, y no se emplearán abreviaturas ni rasparán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura salvándose al final del documento con toda precisión el error cometido;
-
-V. Las actuaciones de CONAMED deberán ser autorizadas, bajo pena de nulidad, por quien actúe a título de Secretario; en tratándose de las salas de arbitraje, fungirá como secretario el personal jurídico asignado, y
-
-VI. Cuando se trate de documentos esenciales para la queja, especialmente del expediente clínico y otros que por su naturaleza sean insustituibles, a juicio de CONAMED, se presentarán, además, copias simples, las que una vez confrontadas y autorizadas por quien actúe como secretario, se agregarán al expediente, quedando los originales en resguardo de CONAMED, donde podrá verlos la parte contraria, si lo pide.
+Los Sujetos Obligados contarán con un área responsable para la atención de las solicitudes de información, a la que se le denominará Unidad de Información.
 
 ###### Artículo 33.
 
-Las audiencias se llevarán a efecto observando las siguientes reglas:
+Los Sujetos Obligados designarán a un responsable para atender la Unidad de Información, quien fungirá como enlace entre éstos y los solicitantes. Dicha Unidad será la encargada de tramitar internamente la solicitud de información y tendrá la responsabilidad de verificar en cada caso que la misma no sea confidencial o reservada.
 
-I. Serán privadas, en tal razón sólo podrán encontrarse dentro del recinto en que se lleven a efecto, las personas que legítimamente hayan de intervenir;
-
-II. Los servidores públicos de CONAMED que intervengan, estarán obligados a identificarse plenamente;
-
-III. Quien actúe como secretario, bajo la supervisión del superior jerárquico que corresponda, hará constar el día, lugar y hora en que principie la audiencia, así como la hora en que termine;
-
-IV. No se permitirá interrupción en la audiencia por persona alguna, sea de los que intervengan en ella o de terceros ajenos a la misma. El personal de CONAMED queda facultado para hacer salir del recinto en que se actúe a la persona que interfiera el desarrollo de la diligencia;
-
-V. Las personas que intervengan en la diligencia deberán comportarse debidamente. El personal de CONAMED, sin perjuicio de lo previsto en el artículo 35, queda facultado para corregir y hacer salir del recinto en que se actúe, a la persona que de palabra o de obra o por escrito, faltare a la consideración y respeto debidos a las partes, terceros o al personal de CONAMED, y
-
-VI. Se levantará acta circunstanciada de la audiencia, la cual será signada por los que intervengan. La negativa a firmar el acta o a recibir copia de la misma, se deberá hacer constar en el acta y no afectará su validez, ni la de la audiencia.
+Las Unidades de Información no podrán proporcionar a particulares los nombres de los solicitantes y el contenido de la información que se genera como resultado del procedimiento para el acceso a la información pública y corrección de datos personales.
 
 ###### Artículo 34.
 
-El personal que actúe recibirá por sí mismo las declaraciones y presidirá los actos de prueba, bajo su más estricta responsabilidad.
+El responsable de la Unidad de Información deberá tener el perfil adecuado para el cumplimiento de las obligaciones que se derivan de la presente Ley.
 
 ###### Artículo 35.
 
-Para mantener el buen orden en las diligencias a cargo de CONAMED, se estará a lo previsto en el artículo 61 del Código de Procedimientos Civiles para el Distrito Federal.
+Las Unidades de Información tendrán las siguientes funciones:
+
+I. Recabar, difundir y actualizar la información pública de oficio a la que se refiere esta Ley;
+
+II. Entregar, en su caso, a los particulares la información solicitada;
+
+III. Auxiliar a los particulares en la elaboración de solicitudes y, en su caso, orientarlos sobre el lugar donde les pueden proporcionar la información que solicitan;
+
+IV. Efectuar las notificaciones a los particulares;
+
+V. Proponer al Comité los procedimientos internos que contribuyan a la mayor eficiencia en la atención de las solicitudes de acceso a la información;
+
+VI. Proponer a quien preside el Comité de Información, los servidores públicos habilitados en cada unidad administrativa;
+
+VII. Llevar un registro de las solicitudes de acceso a la información, sus resultados y costos;
+
+VIII. Presentar ante el Comité, el proyecto de clasificación de información;
+
+IX. Las demás necesarias para facilitar el acceso a la información; y
+
+X. Las demás que disponga esta Ley y las disposiciones reglamentarias.
 
 ###### Artículo 36.
 
-Las actuaciones de CONAMED se practicarán en días y horas hábiles. Son días hábiles todos los días del año, excepto sábados y domingos y aquellos que las leyes declaren festivos, en términos del calendario oficial.
-
-Se entienden horas hábiles las que medien desde las nueve hasta las dieciocho horas.
+En los Poderes Legislativo y Judicial, los municipios, los órganos autónomos y los Tribunales Administrativos, se establecerán Unidades de Información que funcionarán en términos de este capítulo.
 
 ###### Artículo 37.
 
-CONAMED tendrá una oficialía de partes común, sin perjuicio de que en cada unidad administrativa exista una propia.
-
-La primera tendrá las siguientes atribuciones:
-
-I. Turnar el escrito por el cual se inicie un procedimiento, al área que corresponda, para su trámite;
-
-II. Recibir los escritos de término que se presenten después del horario señalado en el artículo anterior, y
-
-III. Proporcionar el servicio desde las ocho treinta, hasta las veinte horas, durante los días señalados en el artículo anterior y remitir los escritos que reciba al área correspondiente, a más tardar al día siguiente.
+Cada Unidad de Información deberá elaborar un catálogo de información o de expedientes clasificados que será del conocimiento público.
 
 ###### Artículo 38.
 
-Los interesados podrán exhibir una copia simple de las promociones que presenten a fin de que la oficialía de partes correspondiente se los devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el empleado que la reciba.
+En el ámbito del Poder Ejecutivo las Unidades de Información, acatarán las recomendaciones, lineamientos y criterios del Instituto y atenderán los requerimientos de informes que realice el mismo.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+El gobierno del Estado de México podrá nombrar delegados administrativos para dar una mejor atención a las solicitudes de información.
+
+### Capítulo III. De los Servidores Públicos Habilitados
 
 ###### Artículo 39.
 
-Solamente podrán presentarse en la oficialía de partes común:
-
-I.- La primera promoción, y
-
-II.- Los escritos entregados el día de vencimiento de algún plazo otorgado por CONAMED, después del horario señalado en el artículo 36.
-
-Fuera de los casos anteriores, las promociones de las partes deberán ser presentados en la oficialía de partes de la unidad ante la que promuevan.
+Los Servidores Públicos Habilitados serán designados por el Presidente del Comité de Información.
 
 ###### Artículo 40.
 
-Quien actúe como secretario de la mesa o sala que corresponda, dará cuenta de los escritos presentados, a más tardar dentro de las cuarenta y ocho horas de su presentación.
+Los Servidores Públicos Habilitados tendrán las siguientes funciones:
+
+I. Localizar la información que le solicite la Unidad de Información;
+
+II. Proporcionar la información que obre en los archivos y que le sea solicitada por la Unidad de Información;
+
+III. Apoyar a la Unidad de Información en lo que ésta le solicite para el cumplimiento de sus funciones;
+
+IV. Proporcionar a la Unidad de Información, las modificaciones a la información pública de oficio que obre en su poder;
+
+V. Integrar y presentar al Responsable de la Unidad de Información la propuesta de primera clasificación de información, la cual tendrá los fundamentos y argumentos en que se basa dicha propuesta;
+
+VI. Verificar, una vez analizado el contenido de la información, que no se encuentre en los supuestos de información clasificada; y
+
+VII. Dar cuenta a la Unidad de Información del vencimiento de los plazos de reserva.
+
+### Capítulo IV. Del Procedimiento de Acceso
 
 ###### Artículo 41.
 
-El personal que funja como secretario cuidará de que las promociones originales o en copias sean claramente legibles y de que los expedientes sean claramente foliados, al agregarse cada una de las hojas; rubricarán todas éstas en el centro de los escritos y pondrán el sello de la secretaría en el fondo del cuaderno, de manera que queden selladas las dos caras.
+Los Sujetos Obligados sólo proporcionarán la información pública que se les requiera y que obre en sus archivos. No estarán obligados a procesarla, resumirla, efectuar cálculos o practicar investigaciones.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 42.
 
-En ningún caso se entregarán los expedientes a las partes para que los lleven fuera de CONAMED. Las frases "dar vista" o "correr traslado" sólo significan que los documentos estarán en CONAMED para su consulta por los interesados, para la entrega de copias, para tomar apuntes, alegar o hacer cuentas. Las disposiciones de este artículo comprenden a las autoridades que pudieran solicitar los expedientes.
+Cualquier persona, podrá ejercer el derecho de acceso a la información pública. Este derecho podrá ejercerse de manera directa; cuando se trate de consultas verbales y mediante la presentación de una solicitud por escrito libre, en los formatos proporcionados por el Instituto a través de la Unidad de Información respectiva o vía electrónica, a través del sistema automatizado de solicitudes respectivo. Cuando se realice una consulta verbal deberá ser resuelta por la Unidad de Información en el momento, de no ser posible se invitará al particular a iniciar el procedimiento de acceso; las consultas verbales no podrán ser recurribles conforme lo establece la presente ley.
 
 ###### Artículo 43.
 
-CONAMED está obligada a expedir, a costa del solicitante, sin demora alguna, copia simple o fotostática de los documentos o resoluciones que obren en el expediente, bastando que la parte interesada lo solicite verbalmente, sin que se requiera acuerdo especial, dejando constancia en el propio expediente de su recepción.
+La solicitud por escrito deberá contener:
 
-Para obtener copia certificada de cualquier documento que obre en el expediente, la parte interesada debe solicitarlo en comparecencia o por escrito, requiriéndose el acuerdo del área en el que esté radicado el asunto y sólo se expedirá, cuando se pidiere copia o testimonio de parte de un documento, o no se encuentre suscrito el compromiso arbitral, si se adiciona con lo que a su costa estime conducente la contraria.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-Cuando se encuentre suscrito el compromiso arbitral y la parte interesada solicite copia certificada de uno o varios documentos completos, en ningún caso se dará vista a la contraria. Al entregarse las copias certificadas, el que las reciba debe dejar razón y constancia de su recibo, en el que señale las copias recibidas.
+I. El nombre del solicitante, domicilio para recibir notificaciones y, en su caso, correo electrónico;
 
-No se entregarán a terceros ajenos al procedimiento arbitral copias de ningún documento de los contenidos en los expedientes. En caso de requerirlo alguna autoridad legalmente facultada, será necesario legal mandamiento escrito.
+II. La descripción clara y precisa de la información que solicita;
+
+III. Cualquier otro detalle que facilite la búsqueda de la información; y
+
+IV. Modalidad en la que solicita recibir la información.
+
+No se dará curso a las solicitudes que carezcan de los requisitos establecidos en la fracción primera de este artículo.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 44.
 
-CONAMED en términos de los artículos 631 y 634 del Código de Procedimientos Civiles para el Distrito Federal, solicitará cuando resulte necesario, el auxilio judicial.
-
-De igual forma cuando sea necesario, podrá solicitar la colaboración de las dependencias y entidades de la Administración Pública.
+La Unidad de Información notificará al particular, por escrito o vía electrónica, dentro del plazo de cinco días hábiles, si requiere completar, corregir o ampliar los datos de la solicitud escrita. Si transcurrido un plazo igual no es atendido el requerimiento, se tendrá por no presentada la petición, quedando a salvo los derechos de la persona para volverla a presentar.
 
 ###### Artículo 45.
 
-Para lo no previsto en el presente ordenamiento, en cuanto al procedimiento, se estará a lo dispuesto en Código de Procedimientos Civiles para el Distrito Federal.
+De no corresponder la solicitud a la Unidad de Información, ésta orientará a los solicitantes para que presenten la solicitud a la Unidad de Información que corresponda.
 
 ###### Artículo 46.
 
-Para la resolución de las controversias, en cuanto al fondo, se aplicarán:
-
-I. El Código Civil para el Distrito Federal en materia común y para toda la República en materia federal, por cuanto se refiere a los aspectos civiles;
-
-II. La Ley General de Salud y sus disposiciones reglamentarias por cuanto se refiere a los aspectos médicos;
-
-III. La Ley Reglamentaria del artículo 5o. constitucional relativo al ejercicio de las profesiones en el Distrito Federal, especialmente por cuanto se refiere al ejercicio profesional, y
-
-IV. Los principios científicos y éticos que orientan la práctica médica.
+La Unidad de Información deberá entregar la información solicitada dentro de los diez días hábiles siguientes a la recepción de la solicitud. Este plazo podrá ampliarse hasta por otros siete días hábiles, siempre que existan razones para ello, debiendo notificarse por escrito al solicitante.
 
 ###### Artículo 47.
 
-Las resoluciones de trámite deberán mandarse notificar por publicación en los listados que para dichos efectos se emitan por CONAMED, dentro de los ocho días siguientes a aquel en que se hubiere citado para dictarse.
+En el caso de que no se cuente con la información solicitada o que ésta sea clasificada, la Unidad de Información deberá notificarlo al solicitante por escrito, en un plazo que no excederá de diez días hábiles contados a partir de la fecha de presentación de la solicitud.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 48.
 
-Se notificarán personalmente:
+La obligación de acceso a la información pública se tendrá por cumplida, cuando el solicitante previo el pago, previsto en el articulo 6 de esta Ley, si es el caso, tenga a su disposición la información vía electrónica o copias simples, certificadas o en cualquier otro medio en el que se encuentre contenida la información solicitada, o cuando realice la consulta de la información en el lugar en el que ésta se localice.
 
-I. La admisión de la queja, al prestador del servicio médico;
+Cuando la información solicitada ya esté disponible para consulta, se le hará saber por escrito al solicitante el lugar donde puede consultarla y las formas para reproducir o adquirirla.
 
-II. Los autos definitivos, y
+Una vez entregada la información, el solicitante acusará recibo por escrito, dándose por terminado el trámite de acceso a la información.
 
-III. Los laudos.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 49.
 
-Toda notificación que por disposición del presente ordenamiento deba hacerse personalmente, se entenderá con el interesado, su representante, mandatario, procurador o autorizado en el expediente, entregando la resolución correspondiente, previa suscripción del acuse de recibo en el cual se anotará la razón correspondiente.
+Cuando un mismo medio, impreso o electrónico, contenga información pública y clasificada, la unidad de información sólo podrá proporcionar la primera, siempre que lo anterior sea técnicamente factible, pudiendo generar versiones públicas.
+
+### Capítulo V. Del Procedimiento para el Acceso y Corrección de Datos Personales
 
 ###### Artículo 50.
 
-Al notificar la admisión de la queja al prestador del servicio médico, se estará al siguiente procedimiento:
+Las Unidades de Información deberán recibir y dar curso a las solicitudes de las personas que tengan por objeto la corrección, sustitución, rectificación o supresión total o parcial de sus datos personales.
 
-I. Además de cumplir con las reglas fijadas en las fracciones I y II del artículo 51, el notificador se identificará ante la persona con la que entienda la diligencia; exhortando a ésta para que a su vez se identifique, asentando su resultado, así como los medios por los que se cerciore de ser el domicilio del buscado, precisando los signos exteriores del inmueble que puedan servir de comprobación de haber acudido al domicilio señalado y las manifestaciones que haga el que reciba la notificación en cuanto a su relación laboral, de parentesco, negocios, de habitación o cualquier otra existente con el interesado;
+Se exceptúan de esta disposición las modificaciones que estén reguladas por otros ordenamientos.
 
-II. Además de la cédula, se entregará a la persona con quien se entienda la diligencia, un resumen de la queja debidamente cotejado y sellado, en el cual no se mencionarán las pruebas del quejoso, para evitar su indefensión en el evento de que el prestador decida no someterse al arbitraje, y
-
-III. Cuando exista oposición a la diligencia, el notificador expresará en el acta las causas precisas por las que no se hubiere podido notificar, ante lo cual CONAMED procederá a realizar la notificación por correo certificado con acuse de recibo; en este supuesto prevendrá al prestador en el sentido de que si llegare a emitirse alguna Opinión Técnica de CONAMED, se tomarán en cuenta exclusivamente la información del quejoso y la que ésta se allegue por otros medios.
+En el ámbito del Poder Ejecutivo las respuestas negativas a las solicitudes realizadas en ejercicio del procedimiento de corrección de datos personales deberán ser notificadas de oficio al Instituto, para que éste proceda y requiera al omiso, respecto del fundamento y motivación legal en que sustente su negativa. En caso de que el Instituto desestime las razones expresadas, conminará al omiso a realizar el acto solicitado.
 
 ###### Artículo 51.
 
-Cuando se tratare de notificación personal, en caso distinto al del artículo anterior, las partes deberán acudir a notificarse en el local de CONAMED; cuando no lo hicieren dentro de los tres días siguientes al en que se hubiere emitido la resolución, la notificación se llevará a efecto conforme a las siguientes reglas:
-
-I. CONAMED hará la notificación por cédula, en la que hará constar la fecha y hora en que se entregue; la clase de procedimiento, los nombres y apellidos de las partes; en su caso, la razón o denominación social del prestador; la unidad que manda practicar la diligencia; transcripción de la determinación que se manda notificar y el nombre y apellidos de la persona a quien se entrega, levantándose acta de la diligencia, a la que se agregará copia de la cédula entregada en la que se procurará recabar la firma de la persona con la cual se hubiera entendido la diligencia. Tales documentos se agregarán al expediente;
-
-II. Si no se encontrare al buscado, la cédula se entregará a los parientes, empleados o domésticos del interesado o a cualquier otra persona que viva en el domicilio señalado, después de que el notificador se haya cerciorado de que ahí lo tiene la persona que debe ser notificada; se expondrán en todo caso los medios por los cuales el notificador se haya cerciorado de que ahí tiene su domicilio la persona buscada, y
-
-III. Si existiere oposición a la diligencia o la persona a notificar hubiere cambiado su domicilio sin haberlo notificado a CONAMED, ésta procederá a realizar la notificación, dentro de los dos días siguientes al en que se presente la oposición o se tenga noticia del cambio de domicilio, por publicación en los listados que para dichos efectos se emitan, debiéndose agregar al expediente, además de los documentos previstos en la regla anterior, la constancia de inclusión en el listado correspondiente.
+Para que proceda la solicitud, el interesado deberá precisar las modificaciones que deben realizarse y aportar la documentación necesaria. El Sujeto Obligado tendrá un plazo de treinta días hábiles desde la presentación de la solicitud para realizar las modificaciones o expresar las razones fundadas y motivadas por las que no procedieron las mismas. En ambos casos la Unidad de Información deberá notificarlo al interesado en un plazo no mayor de diez días hábiles.
 
 ###### Artículo 52.
 
-Todas las notificaciones, excepción hecha de las realizadas en el arbitraje tramitado por correo certificado, surtirán sus efectos al día siguiente al en que se practiquen. Para el caso de ordenarse la notificación por correo en el caso de la oposición prevista en la fracción III del artículo 50, ésta surtirá sus efectos al día siguiente de haber puesto CONAMED la cédula en el correo.
+No será necesario el consentimiento de las personas para difundir o entregar datos personales, cuando se presenten los siguientes supuestos:
 
-Los plazos empezarán a correr al día siguiente hábil en que surta efecto la notificación y se contará en ellos el día del vencimiento. En ningún plazo se tomarán en cuenta los días inhábiles.
+I. Que la información sea necesaria para diagnóstico médico, prestación de servicios médicos o la gestión de servicios de salud, y no pueda recabarse autorización de la persona por impedimentos de salud;
+
+II. Que la información sea para fines estadísticos y científicos, siempre que ésta sea agregada, no pueda relacionarse con las personas a las que se refiere y se solicite con el fundamento jurídico correspondiente;
+
+III. Que la información sea requerida por orden judicial;
+
+IV. Que la información sea requerida para la prestación de un servicio contratado a particulares por los Sujetos Obligados. En este caso la entrega de la información se hará una vez que se haya cubierto una fianza para garantizar la secrecía, el buen manejo de la información y que sólo se utilizará para los propósitos estrictamente señalados en el contrato. Dicha fianza no exime al contratista de las responsabilidades en que pudiera incurrir por el uso indebido de la información. Una vez terminado el contrato, el particular devolverá los datos personales que para uso exclusivo y temporal le fueron otorgados;
+
+V. Los demás casos que expresamente señalen otras leyes y los reglamentos respectivos.
 
 ###### Artículo 53.
 
-CONAMED sólo reconoce como términos comunes a las partes el relativo a ofrecimiento de pruebas, y aquellos en que se determine la vista para el desahogo por las partes al mismo tiempo.
+Las personas o sus representantes legales, podrán solicitar información de sus datos personales. La Unidad de Información tendrá un plazo de diez días hábiles, contados a partir de recibida la solicitud para entregar los datos.
 
 ###### Artículo 54.
 
-En los autos se hará constar el día de inicio y conclusión de los términos.
+Los trámites que se realicen para el procedimiento previsto en este capítulo, así como la entrega de la información requerida será gratuita.
 
 ###### Artículo 55.
 
-Una vez concluidos los términos fijados a las partes, sin necesidad de que se acuse rebeldía, el procedimiento seguirá su curso y se tendrá por perdido el derecho que dentro de ellos debió ejercitarse.
+Las Unidades de Información deberán hacer del conocimiento del Instituto u órgano equivalente, las bases de datos personales que posean los Sujetos Obligados e informarle sobre su actualización.
+
+## TITULO QUINTO. DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION
+
+### Capítulo I. De la Naturaleza y Atribuciones
+
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 56.
 
-Cuando este Reglamento no señale términos para la práctica de algún acto arbitral, o para el ejercicio de algún derecho, se tendrá por establecido el de tres días, sin necesidad de prevención especial.
+Se crea el Organismo Público Descentralizado no sectorizado de carácter estatal denominado, "Instituto de Transparencia y Acceso a la Información Pública del Estado de México", dotado de personalidad jurídica y patrimonio propios, con autonomía operativa, presupuestaria y de decisión, que tiene por objeto la difusión, protección y respeto al derecho de acceso a la información pública y a la protección de datos personales.
+
+Para garantizar la autonomía de gestión, decisión y el cabal cumplimiento de su objeto, el Instituto queda exceptuado de lo establecido por el artículo 4, el segundo párrafo del artículo 9, así como por lo señalado en el Capítulo III salvo lo dispuesto en el artículo 16, y el artículo 23, todos de la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México, la cual en lo general no se aplicará en lo que se oponga a la presente Ley.
+
+El Instituto de Transparencia y Acceso de Información Pública del Estado de México, podrá modificar su estructura y base de organización, conforme al procedimiento que al efecto establezca el Consejo, cuando sea necesario, para mejorar el desempeño de sus funciones, el cumplimiento de sus fines o la coordinación de sus actividades.
 
 ###### Artículo 57.
 
-En términos del Título Octavo del Código de Procedimientos Civiles para el Distrito Federal, del DECRETO y el presente ordenamiento, las partes en una controversia relacionada con la prestación de servicios médicos, tienen derecho a sujetar sus diferencias al arbitraje de CONAMED.
+En su organización, funcionamiento y control, el Instituto se sujetará a lo establecido por la presente Ley y su Reglamento Interior y en sus decisiones se regirá por los principios de autonomía, legalidad, publicidad y objetividad.
+
+> <small>(ADICIONADO, G.G. 28 DE DICIEMBRE DE 2004)</small>
+
+El Instituto aplicará las disposiciones del Libro Décimo Tercero del Código Administrativo del Estado de México, en lo que no se oponga a la presente Ley. Asimismo, determinará la conformación de sus comités a efecto de dar debido cumplimiento a lo dispuesto por dicho Código.
 
 ###### Artículo 58.
 
-Para la tramitación del procedimiento arbitral se requerirá de cláusula compromisoria o compromiso arbitral debidamente suscritos por las partes.
+Para el ejercicio de sus atribuciones el Instituto tendrá acceso a la información pública, que se genere en el ámbito del Poder Ejecutivo; tratándose de información clasificada como reservada o confidencial, podrá conocerla para resolver medios de impugnación, determinando su debida clasificación o desclasificación y de no proceder esta última, continuará bajo el resguardo del sujeto obligado en cuya posesión originalmente se encontraba.
 
-Sólo puede iniciar un procedimiento arbitral ante CONAMED o intervenir en él, quien tenga interés en que ésta declare o constituya un derecho o emita una determinación arbitral y quien tenga el interés contrario. Podrán promover los interesados, por sí o a través de sus representantes o apoderados.
+Los Sujetos Obligados señalados en el artículo 7 fracción I de esta Ley, deberán facilitar los trabajos del Instituto.
 
 ###### Artículo 59.
 
-La acción procede en arbitraje, aun cuando no se exprese su nombre, con tal que se determine con claridad la clase de prestación que se exija de la contraparte y el título o causa de la acción.
+El patrimonio del Instituto se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas presupuestales que anualmente se le señalen en el Presupuesto de Egresos del Gobierno del Estado de México.
 
 ###### Artículo 60.
 
-Son partes en el arbitraje quienes hubieren otorgado la cláusula compromisoria o el compromiso arbitral, en términos del presente Reglamento.
+El Instituto tendrá las siguientes atribuciones:
+
+I. Interpretar en el orden administrativo la presente Ley;
+
+II. Vigilar en el ámbito de su competencia el cumplimiento de la presente Ley;
+
+III. Establecer lineamientos y criterios de carácter obligatorio en materia de acceso a la información pública para las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal, así como a la Procuraduría General de Justicia del Gobierno del Estado, y vigilar su cumplimiento;
+
+IV. Establecer lineamientos para el manejo, mantenimiento y seguridad de los datos personales, que estén en posesión de los Sujetos Obligados, señalados en la fracción anterior, y vigilar su cumplimiento;
+
+V. Emitir criterios para la clasificación y catalogación de la información pública y vigilar su cumplimiento;
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+VI. Formular recomendaciones a los Sujetos Obligados en lo referente al acceso a la información pública y a la protección de datos personales, así como de sus criterios de clasificación y lineamientos;
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+VII. Conocer y resolver los recursos de revisión que promuevan los particulares en contra de actos de los Sujetos Obligados señalados en la fracción I del artículo 7 de esta Ley. Dichas resoluciones tendrán efectos obligatorios y vinculatorios para los Sujetos Obligados señalados;
+
+VIII. Solicitar a los Sujetos Obligados los datos para la integración de su informe anual, incluidas las consultas verbales atendidas;
+
+IX. Proporcionar asesoría y apoyo técnico a los Sujetos Obligados para la elaboración y ejecución de programas de información;
+
+X. Apoyar a los Sujetos Obligados en el cumplimiento de las obligaciones que les impone la presente Ley;
+
+XI. Hacer del conocimiento del órgano de control interno de cada dependencia, organismo auxiliar y fideicomiso de la Administración Pública Estatal, las presuntas infracciones a esta Ley. Las resoluciones finales que al respecto expidan los órganos de control interno y que hayan causado estado, deberán ser notificadas al Instituto, quien deberá hacerlas públicas a través de su informe anual;
+
+XII. Elaborar formatos de solicitudes de acceso a la información pública y orientar a los particulares;
+
+XIII. Coadyuvar a la elaboración y aplicación de los criterios para la conservación y archivo de la información pública;
+
+XIV. Realizar y difundir estudios e investigaciones que contribuyan al objeto de esta Ley;
+
+XV. Capacitar a los servidores públicos en materia de acceso a la información;
+
+XVI. Difundir entre los servidores públicos y los particulares los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de aquélla;
+
+XVII. Rendir informe anual de actividades a través de su Presidente ante el Pleno de la Legislatura, dentro del primer periodo ordinario de sesiones del año;
+
+XVIII. Designar, a través de su Presidente, a los servidores públicos de su adscripción y administrar sus recursos materiales y financieros;
+
+XIX. Elaborar y remitir a la Secretaría de Finanzas, Planeación y Administración su proyecto de presupuesto anual para que sea integrado al Proyecto de Presupuesto del Gobierno del Estado;
+
+XX. Expedir su Reglamento Interior y demás normas de operación; y (sic)
+
+> <small>(REFORMADA, G.G. 28 DE DICIEMBRE DE 2004)</small>
+
+XXI. Administrar los recursos humanos, bienes y patrimonio del Instituto, así como determinar y autorizar su estructura orgánica y su personal.
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XXII. Realizar de oficio y a petición de parte, si existieran elementos suficientes a juicio del Consejo del Instituto, análisis y recomendaciones, o en su caso, lineamientos en relación con presuntos incumplimientos a las disposiciones de la Ley;
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XXIII. Emitir comunicados públicos sobre el incumplimiento de sus resoluciones o por infracciones reiteradas a la Ley, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XXIV. Ordenar a los Sujetos Obligados señalados en la fracción I del artículo 7°, la entrega de información en términos de la presente Ley;
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XXV. Revisar los criterios de clasificación, desclasificación y custodia de la información reservada y confidencial, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XXVI. Establecer procedimientos para verificar las acciones realizadas por los Sujetos Obligados en el cumplimiento de sus obligaciones en términos de la presente Ley;
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XXVII. Las demás que le confiere la presente Ley y otras disposiciones aplicables.
+
+### Capítulo II. De la Administración e Integración del Instituto
 
 ###### Artículo 61.
 
-Todo el que esté en pleno ejercicio de sus derechos civiles puede comprometer en árbitros sus negocios y comparecer al arbitraje.
+La dirección y administración del Instituto estará a cargo de un Consejo y su Presidente, quien tendrá la representación legal del organismo.
+
+El Consejo estará integrado por dos consejeros y un Consejero Presidente designados por el Gobernador del Estado, cuyo nombramiento deberá hacerse del conocimiento de la Legislatura de manera inmediata.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+Las decisiones del Consejo se harán constar en actas en las que sólo se asentarán los asuntos a tratar y los acuerdos tomados.
 
 ###### Artículo 62.
 
-Los tutores no pueden comprometer los negocios de los incapacitados ni nombrar árbitro a CONAMED sino con aprobación judicial, salvo en el caso de que dichos incapacitados fueren herederos de quien celebró el compromiso o estableció la cláusula compromisoria.
+La Legislatura o la Diputación Permanente, en su caso, podrán objetar por mayoría de sus integrantes alguno o algunos de los nombramientos, en un plazo no mayor de diez días hábiles posteriores al nombramiento. Vencido este plazo sin que se emita resolución al respecto se entenderán por no objetados los nombramientos del Ejecutivo.
+
+Si existiese objeción a alguno o algunos de los nombramientos, el Gobernador del Estado deberá proceder a efectuar nuevos nombramientos, que desde luego serán comunicados al Poder Legislativo para los efectos del párrafo anterior, en un plazo no mayor de diez días hábiles.
+
+En caso de que por segunda ocasión existan objeciones, el Gobernador del Estado hará nuevos nombramientos que no admitirán objeción.
 
 ###### Artículo 63.
 
-Por los menores e incapaces, comparecerán sus representantes legítimos o los que deban suplir su incapacidad conforme a derecho.
+Los Consejeros y el Consejero Presidente desempeñarán su cargo por un período de cuatro años; y, en lo individual, podrán ser ratificados para fungir por otro periodo igual, o ser nuevamente designados con distintos nombramientos, en este supuesto, al término de su gestión no podrán ser ratificados.
+
+En todo caso, deberá observarse el mismo procedimiento que se siguió para la primera designación.
 
 ###### Artículo 64.
 
-Será optativo para las partes acudir asesoradas a las audiencias de conciliación y de pruebas y alegatos, y en este supuesto los asesores necesariamente deberán ser profesionales en alguna de las disciplinas para la salud o licenciados en derecho, con cédula profesional y en legal ejercicio de su profesión. En caso de que una de las partes se encuentre asesorada y la otra no, CONAMED celebrará la audiencia correspondiente y suplirá la deficiencia de la parte que no se encuentre asesorada, procurando la mayor equidad.
+Los Consejeros y el Consejero Presidente solo podrán ser removidos de su cargo y destituidos por las causales siguientes:
+
+I. Cuando en ejercicio de sus funciones transgredan en forma grave o reiterada las disposiciones contenidas en la Constitución General de la República, la Particular del Estado y esta Ley, o incurra en alguna responsabilidad administrativa que amerite su destitución; lo cual deberá ser calificado por las dos terceras partes de los integrantes (sic) Legislatura del Estado;
+
+II. Cuando hayan sido condenados por un delito que merezca pena corporal, mediante sentencia ejecutoria.
 
 ###### Artículo 65.
 
-CONAMED examinará de oficio la personalidad de las partes y los interesados podrán corregir cualquier deficiencia al respecto hasta la audiencia conciliatoria. Contra el auto que desconozca la personalidad negándose a dar trámite al arbitraje, no procederá recurso alguno.
+El procedimiento para la destitución de los integrantes del Consejo, por alguna de las causas establecidas en la fracción I del artículo anterior, se sujetará a las reglas siguientes:
+
+I. Será iniciado por el Titular del Ejecutivo o por una cuarta parte de los integrantes de la Legislatura;
+
+II. Si es iniciado por el Titular del Ejecutivo, lo hará del conocimiento de inmediato, de la Legislatura, para que ésta proceda conforme a la fracción siguiente.
+
+III. Iniciado el procedimiento, la Legislatura del Estado citará al o a los Consejeros inculpados, para que comparezcan a desahogar su garantía de audiencia, en la que podrán formular alegatos y ofrecer las pruebas que a sus intereses convengan.
+
+IV. Desahogada la garantía de audiencia, la Legislatura del Estado determinará la responsabilidad del o de los inculpados, calificará la gravedad de la infracción, y resolverá, por las dos terceras partes de sus integrantes, si es el caso de proceder a la destitución;
+
+V. La resolución de la Legislatura que determine la destitución de alguno o algunos de los Consejeros, será comunicada al Titular del Ejecutivo para que proceda a la destitución y, en su oportunidad, a la designación de nuevos Consejeros.
+
+En el supuesto de que la Legislatura resuelva que no es el caso de proceder a la destitución, se dará por terminado el procedimiento respectivo.
 
 ###### Artículo 66.
 
-La gestión de negocios no será admisible ante CONAMED, aunque se pretenda bajo la forma de gestión judicial.
+Para ser Consejero se requiere:
+
+I. Ser Mexiquense en los términos establecidos por el artículo 23 de la Constitución Política del Estado Libre y Soberano de México;
+
+II. Tener más de veinticinco años de edad;
+
+III. Gozar de buena reputación y no haber sido condenado por delito que merezca pena corporal;
+
+IV. No tener ni haber tenido cargo alguno de elección popular ni haber sido postulado como candidato, en los últimos cinco años anteriores a la designación;
+
+V. No haber sido titular de alguna de las secretarías de la administración pública estatal ni Procurador General de Justicia del Estado durante un año previo a su designación;
+
+VI. Contar con título profesional de alguna licenciatura y tener conocimientos en la materia;
+
+VII. Gozar de prestigio social y profesional;
+
+VIII. No ser ni haber sido dirigente de partido o asociación política alguna por lo menos cinco años antes de su designación; y
+
+IX. No ser ni haber sido ministro de culto por lo menos cinco años antes de su designación.
 
 ###### Artículo 67.
 
-Siempre que dos o más personas ejerzan una misma acción u opongan la misma excepción, deberán participar en el procedimiento unidas y bajo la misma representación.
+Para ser Consejero Presidente, además de lo establecido por las fracciones I, III, V, VI y VII del artículo anterior, se requiere:
 
-A este efecto, deberán, dentro de los tres días, nombrar un mandatario, quien tendrá las facultades que en el poder se le hayan concedido, necesarias para la continuación del procedimiento. En caso de no designar mandatario, podrán elegir entre ellas mismas un representante común. Si dentro del término señalado no nombraren un mandatario ni hicieren la elección del representante común, o no se pusieren de acuerdo en ella, CONAMED nombrará al representante común escogiendo a alguno de los propuestos; y si nadie lo hubiere sido, a cualquiera de los interesados.
+I. Tener más de 30 años de edad;
 
-El representante común que designe CONAMED tendrá las mismas facultades que si promoviera exclusivamente por su propio derecho, excepto las de desistirse y transigir, salvo que los interesados lo autorizaren expresamente en el compromiso arbitral.
+II. No tener ni haber tenido cargo alguno de elección popular ni haber sido postulado como candidato, en los últimos diez años anteriores a la designación;
 
-Cuando las partes actúen unidas, el mandatario nombrado, o en su caso el representante común, sea el designado por los interesados o por CONAMED, será el único que pueda representar a los que hayan ejercido la misma acción u opuesto la misma excepción, con exclusión de las demás personas.
-
-El representante común o el mandatario designado por quienes actúen unidos, son inmediata y directamente responsables por negligencia en su actuación y responderán de los daños y perjuicios que causen a sus poderdantes y representados. El mandatario o el representante común podrán actuar por medio de apoderado o mandatario y autorizar personas para oír notificaciones en los términos de este ordenamiento.
+III. No ser ni haber sido militante o dirigente de partido o asociación política alguna, por lo menos diez años antes de su designación;
 
 ###### Artículo 68.
 
-Mientras continúe el mandatario o el representante común en su encargo, los emplazamientos, notificaciones y citaciones de toda clase que se le hagan, tendrán la misma fuerza que si se hicieran a los representados, sin que le sea permitido pedir que se entiendan con éstos.
+Durante su gestión los Consejeros y el Consejero Presidentes no podrán desempeñar ningún otro empleo, cargo o comisión, salvo las docentes en instituciones educativas o alguna de beneficencia que no implique remuneración siempre que sean compatibles con sus horarios, responsabilidades y actividades dentro del Instituto.
 
 ###### Artículo 69.
 
-La controversia será la determinada por las partes en la cláusula compromisoria o el compromiso arbitral y por ninguna causa podrá modificarse ni alterarse, no obstante, en la audiencia de conciliación referida en los artículos 24 y 25, podrán determinarse resueltos uno o varios puntos, quedando el resto pendiente para el laudo.
+A fin de poder cumplir con sus atribuciones y objetivos, el Instituto contará con la estructura orgánica y funcional necesaria.
 
-El desistimiento de la instancia realizado con posterioridad a la suscripción del compromiso, requerirá del consentimiento de la parte contraria. El desistimiento de la acción extingue ésta aun sin consentimiento de la contraparte.
-
-El desistimiento de la queja produce el efecto de que las cosas vuelvan al estado que tenían antes de la presentación de aquélla. El desistimiento de la instancia o de la acción, posteriores a la suscripción del compromiso arbitral, obligan al que lo hizo a pagar costas y los daños y perjuicios a la contraparte, salvo convenio en contrario.
+### Capítulo III. De los Medios de Impugnación
 
 ###### Artículo 70.
 
-En la tramitación del procedimiento arbitral, CONAMED estará obligada, invariablemente, a recibir pruebas y oír alegatos, cualquiera que fuere el pacto en contrario.
+En las respuestas desfavorables a las solicitudes de acceso a la información pública o de corrección de datos personales, las unidades de información deberán informar a los interesados el derecho y plazo que tienen para promover recurso de revisión.
 
 ###### Artículo 71.
 
-CONAMED estará facultada para intentar la avenencia de las partes en todo tiempo, antes de dictar el laudo definitivo. Cualesquiera que fueren los términos del compromiso arbitral, se entenderá invariablemente que CONAMED siempre estará facultada para actuar a título de amigable componedor.
+En el ámbito del Poder Ejecutivo, los particulares podrán interponer recurso de revisión cuando:
+
+I. Se les niegue la información solicitada;
+
+II. Se les entregue la información incompleta o no corresponda a la solicitada;
+
+III. Se les niegue modificar, corregir o resguardar la confidencialidad de los datos personales;
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+IV. Se considere que la respuesta es desfavorable a su solicitud.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 72.
 
-Son reglas generales para el arbitraje médico, las siguientes:
-
-1a.- Todas las cuestiones litigiosas, salvo en el caso de las excepciones previstas en este Reglamento, deben ser resueltas en el laudo definitivo, sin que el proceso se suspenda.
-
-2a.- En términos de los artículos 34 de la Ley Reglamentaria del artículo 5o. constitucional en materia de profesiones para el Distrito Federal, y 9o. del Reglamento de la Ley General de Salud en materia de prestación de servicios de atención médica, los actos del procedimiento sólo serán conocidos por las partes, los terceros que intervengan en forma legítima y el personal facultado de CONAMED. Por lo tanto, quedan prohibidas las audiencias públicas y las manifestaciones a terceros extraños al procedimiento, sean a cargo de las partes o de CONAMED. Sólo podrá darse a conocer públicamente el laudo cuando fuere adverso al prestador del servicio médico o aun no siéndolo a solicitud de éste.
-
-3a.- Las facultades procesales se extinguen una vez que se han ejercitado, sin que puedan repetirse las actuaciones.
-
-4a.- De toda promoción planteada por una de las partes, se dará vista a la contraria a efecto de que manifieste lo que a su derecho convenga, conforme a las disposiciones de este Reglamento.
-
-5a.- No se requerirá la presentación de promociones escritas; CONAMED dispondrá los medios para que las partes puedan alegar verbalmente lo que a su derecho convenga y desahogar sus pruebas sin formalidades especiales. CONAMED asentará fielmente las alegaciones de las partes en las actas correspondientes y dispondrá de formatos accesibles de los que podrán servirse éstas a lo largo del procedimiento.
-
-6a.- Tanto la audiencia de conciliación, como la de pruebas y alegatos, deberán concluir el mismo día en que se inicien; eventualmente, por causas extraordinarias, podrán dejarse continuadas para fecha posterior, debiendo concluir la diligencia dentro de los cinco días hábiles siguientes.
-
-#### SECCION SEGUNDA. DE LA CLAUSULA COMPROMISORIA Y EL COMPROMISO ARBITRAL
+El recurso de revisión se presentará por escrito ante la Unidad de Información correspondiente, o vía electrónica por medio del sistema automatizado de solicitudes respectivo, dentro del plazo de 15 días hábiles, contado a partir de la fecha en que el afectado tuvo conocimiento de la resolución respectiva.
 
 ###### Artículo 73.
 
-Las partes podrán otorgar su compromiso arbitral ante CONAMED antes de que haya juicio civil, durante éste y después de sentenciado, sea cual fuere el estado en que se encuentre. El compromiso posterior a la sentencia irrevocable sólo tendrá lugar si los interesados la conocieren. En caso de existir algún juicio en trámite, las partes necesariamente deberán renunciar a la instancia previa, pues de otro modo no podrá intervenir CONAMED en calidad de árbitro.
+El escrito de recurso de revisión contendrá:
+
+I. Nombre y domicilio del recurrente, y en su caso, la persona o personas que éste autorice para recibir notificaciones;
+
+II. Acto impugnado, Unidad de Información que lo emitió y fecha en que se tuvo conocimiento del mismo;
+
+III. Razones o motivos de la inconformidad;
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+IV. Firma del recurrente o en su caso huella digital para el caso de que se presente por escrito, requisitos sin los cuales no se dará trámite al recurso.
+
+Al escrito de recurso deberá acompañarse copia del escrito que contenga el acto impugnado.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 74.
 
-El compromiso arbitral, cuando sea otorgado mediante un instrumento especial ante CONAMED, deberá contener como mínimo:
-
-I. Los datos generales de las partes;
-
-II. El negocio o negocios que se sujeten a procedimiento arbitral;
-
-III. En su caso, el término fijado para el procedimiento arbitral, cuando se modifiquen los plazos fijados en el presente Reglamento;
-
-IV. La aceptación del presente Reglamento y, en su caso, la mención de las reglas especiales de procedimiento que estimen necesarias;
-
-V. La determinación de las partes respecto a si renuncian a la apelación;
-
-VI. El señalamiento expreso de ser sabedores de que el compromiso produce las excepciones de incompetencia y litispendencia, si durante él se promueve el negocio en un tribunal ordinario;
-
-VII. El señalamiento expreso y bajo protesta de decir verdad de no existir controversia pendiente de trámite ante los tribunales, un juicio conexo o cosa juzgada en relación al mismo asunto, exhibiendo cuando sea necesario el desistimiento de la instancia;
-
-VIII. La determinación, en su caso, del juez que haya de ser competente para todos los actos del procedimiento arbitral en lo que se refiere a jurisidicción que no tenga CONAMED, y para la ejecución de la sentencia y admisión de recursos, y
-
-IX. Las demás que determinen las partes.
-
-El plazo del procedimiento arbitral, se contará a partir de que CONAMED acepte el nombramiento de ambas partes.
+El Instituto subsanará las deficiencias de los recursos en su admisión y al momento de su resolución; asimismo, establecerá las condiciones necesarias para que los particulares puedan establecer sus recursos de manera electrónica.
 
 ###### Artículo 75.
 
-Para el caso de amigable composición, el compromiso podrá otorgarse en intercambio de cartas, telex, telegramas u otros medios de telecomunicación que dejen constancia del acuerdo, o en un intercambio de escritos de queja y contestación en los que el compromiso sea afirmado por una parte sin ser negado por la otra. La referencia hecha en un contrato a un documento que contenga una cláusula compromisoria, constituirá compromiso arbitral siempre que dicho contrato conste por escrito y la referencia implique que esa cláusula forma parte del contrato.
+Recibido el recurso de revisión, el consejero presidente, en un plazo no mayor de tres días hábiles, lo turnará a un consejero quien será designado ponente, quien presentará al Consejo el expediente con el proyecto de resolución. El Consejo resolverá en definitiva dentro de un plazo de treinta días hábiles siguientes a la fecha de interposición del recurso.
 
-Las partes, en la audiencia a que se refiere el numeral 24, ratificarán el compromiso otorgado en la forma prevista en el párrafo anterior, mediante la suscripción del instrumento señalado en el artículo 74, sin modificar o alterar la controversia, señalando, en su caso, los puntos resueltos.
-
-Cuando se trate de arbitraje por correo certificado, las partes acordarán lo necesario, siguiendo, en lo conducente, las reglas de este capítulo.
-
-#### SECCION TERCERA. DEL JUICIO ARBITRAL
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 76.
 
-El juicio arbitral se sujetará a las siguientes reglas generales:
-
-1a.- Serán admisibles toda las pruebas susceptibles de producir la convicción de CONAMED, especialmente la pericial y los elementos aportados por las ciencias biomédicas;
-
-2a.- Quedan prohibidos los interrogatorios entre las partes con fines confesionales, asimismo las pruebas que fueren contrarias a la moral y al derecho;
-
-3a.- En la ponderación del caso se evaluará la procedencia de las apreciaciones de las partes conforme a las disposiciones en vigor y en los casos en que tales disposiciones lo autoricen, la correcta aplicación de los principios científicos y éticos que orientan la práctica médica a través de la literatura generalmente aceptada, así como las disposiciones y recomendaciones médicas de las instancias especializadas;
-
-4a.- CONAMED determinará a título de pruebas para mejor proveer, el desahogo de los peritajes que estime pertinentes;
-
-5a.- Cuando se requiera el examen del paciente por los peritos que hayan de intervenir, CONAMED determinará las medidas necesarias para preservar el respeto al paciente. En este supuesto el paciente deberá, según su estado de salud lo permita, cooperar para su examen. La oposición injustificada al reconocimiento médico por parte de CONAMED o de los peritos, hará tener por ciertas las manifestaciones de la contraria;
-
-6a.- Las pruebas aportadas, especialmente las periciales y la documentación médica en que conste la atención brindada, serán valoradas bajo las reglas de la sana crítica, y
-
-7a.- Se realizará, cuando sea necesaria la resolución de una cuestión jurídica previa, una audiencia preliminar, el resto de las cuestiones debatidas se resolverán en el laudo.
+La resolución del Instituto deberá remitirse a la Unidad de Información, una vez que haya causado estado quien deberá cumplimentarla dentro del plazo de diez días hábiles.
 
 ###### Artículo 77.
 
-La Dirección General de Arbitraje acordará la recepción del expediente, dentro de los dos días siguientes a la fecha en que lo reciba, y dará vista a las partes por diez días comunes, para que en ese término:
+Las prescripciones contenidas en el presente capítulo serán aplicables a los Poderes Legislativo y Judicial, a los Municipios del Estado, a los Órganos Autónomos y Tribunales Administrativos.
 
-a.-) Ofrezcan sus pruebas;
-
-b.-) Presenten las apreciaciones escritas que estimen necesarias, a reserva de ampliarlas de manera verbal o por escrito en la audiencia, y
-
-c.-) Exhiban los documentos que obren en su poder.
+En estos casos el recurso de revisión será resuelto por el servidor público que determinen las disposiciones legales o reglamentarias respectivas.
 
 ###### Artículo 78.
 
-En virtud del carácter especializado de CONAMED, sólo serán admisibles en el juicio arbitral, las siguientes probanzas:
+En contra de las resoluciones dictadas en los recursos de revisión por el Instituto o por los ayuntamientos, los particulares afectados podrán promover el juicio administrativo ante el Tribunal de lo Contencioso Administrativo.
 
-a) La instrumental.
-
-b) La pericial.
-
-c) El reconocimiento médico del paciente.
-
-d) Las fotografías, quedando comprendidas bajo esta denominación las cintas cinematográficas y cualesquiera otras producciones fotográficas, y
-
-e) La presuncional.
+Las resoluciones que dicten los demás sujetos obligados, en materia del recurso de revisión, no admitirán medio de defensa ordinario alguno.
 
 ###### Artículo 79.
 
-Sólo se admitirán las pruebas ofrecidas dentro del término fijado en el artículo 77, las acordadas por CONAMED para mejor proveer, y las supervenientes, debiendo, acreditar quien argumente la existencia de estas últimas, su naturaleza.
+La Comisión de Derechos Humanos del Estado de México tendrá la intervención que la ley de su creación le atribuye, para garantizar el ejercicio del derecho de acceso a la información pública y de protección de datos personales.
+
+## TITULO SEXTO. DEL ACCESO A LA INFORMACION EN LOS DEMAS SUJETOS OBLIGADOS
+
+### Capítulo Único
 
 ###### Artículo 80.
 
-CONAMED determinará a título de pruebas para mejor proveer, las que considere pertinentes, teniendo libertad para solicitar a las partes la información que estime necesaria e interrogar tanto a las partes como a los peritos que, en su caso, sean ofrecidos.
-
-CONAMED tomará en cuenta como pruebas todas las actuaciones y los documentos aportados oportunamente aunque no se ofrezcan, con excepción de los rechazados expresamente.
+Los Poderes Legislativo y Judicial del Estado; los Municipios; los Tribunales Administrativos y los órganos autónomos, en el ámbito de sus respectivas competencias, establecerán el órgano equivalente al del Título Quinto de la presente ley, para proporcionar y garantizar a los particulares el acceso a la información y la protección de los datos personales, de conformidad con lo previsto en esta Ley.
 
 ###### Artículo 81.
 
-Las partes sólo podrán ofrecer la confesional cuando se refiera exclusivamente a las manifestaciones contenidas en autos; en ningún caso será admisible la prueba de posiciones.
+Las disposiciones que los Sujetos Obligados emitan deberán señalar:
+
+I. Las unidades de información responsables de publicar la información a que se refiere el artículo 12;
+
+II. El Comité de información o su equivalente;
+
+III. El servidor público habilitado o su equivalente;
+
+IV. Los criterios y procedimientos de clasificación y conservación de la información reservada o confidencial;
+
+V. Una instancia interna responsable de aplicar la Ley, resolver los recursos, y las demás facultades que le otorga este ordenamiento.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+Cualquier disposición que emitan los Sujetos Obligados deberá observar los principios y enunciados normativos de la presente Ley, y en ningún caso podrán ir en contra de la misma.
+
+## TITULO SEPTIMO. DE LAS RESPONSABILIDADES Y LAS SANCIONES
+
+### Capítulo Único
 
 ###### Artículo 82.
 
-Cuando las partes no puedan obtener directamente documentos que hayan ofrecido como pruebas, podrán pedir a CONAMED que los solicite a las personas u organismos que los tengan en su poder, quedando a cargo de las partes gestionar el envío de los mismos a CONAMED para que obren en el expediente el día de la audiencia de pruebas y alegatos.
+Para los efectos de esta ley son causas de responsabilidad administrativa de los servidores públicos de los sujetos obligados:
+
+I. Cualquier acto u omisión que provoque la suspensión o deficiencia en la atención de las solicitudes de información;
+
+II. Alterar la información solicitada;
+
+III. Actuar con dolo o mala fe en la clasificación o desclasificación de la información;
+
+IV. Entregar información clasificada como reservada;
+
+V. Entregar información clasificada como confidencial fuera de los casos previstos por esta ley;
+
+VI. Vender, sustraer o publicitar la información clasificada;
+
+VII. Hacer caso omiso de los requerimientos y resoluciones del Instituto o del órgano equivalente, en su caso;
+
+VIII. En general dejar de cumplir con las disposiciones de esta ley.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+El Instituto, por acuerdo de su Consejo podrá realizar un extrañamiento público al servidor público que actualice alguna de las causas de responsabilidad administrativa, establecidas en esta Ley y en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, sin necesidad de que inicie el procedimiento administrativo disciplinario.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 83.
 
-Al ofrecer la prueba pericial, las partes deberán exhibir los interrogatorios que en su caso deban responder los peritos y precisar los puntos respecto de los cuales versará el peritaje.
+Los servidores públicos de los sujetos obligados que incurran en las responsabilidades administrativas establecidas en el artículo anterior, serán castigados con las sanciones máximas establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios.
 
-Dada la naturaleza especializada de CONAMED, en caso de que los dictámenes rendidos por los peritos de las partes sean total o parcialmente contradictorios, intervendrá el Presidente de la Sala a fin de dictaminar en definitiva, siendo improcedente la petición de designar un tercero en discordia ajeno a CONAMED.
+En caso de reincidencia de cualquiera de los supuestos descritos en el artículo 82, la sanción correspondiente será duplicada.
 
 ###### Artículo 84.
 
-CONAMED podrá desechar de plano el desahogo de todas las testimoniales que le fueren ofrecidas, cuando la cuestión debatida se refiera exclusivamente a aspectos de apreciación médica. Cuando se acepte la testimonial, cada parte podrá ofrecer como máximo dos testigos.
+La atención extemporánea de las solicitudes de información no exime a los servidores públicos de la responsabilidad administrativa en que hubiese incurrido en términos de este capítulo.
 
 ###### Artículo 85.
 
-De no existir la necesidad de resolver cuestiones previas, conforme a lo que señala la regla 7a. del artículo 76, se continuará el procedimiento en la forma prevista en los artículos subsecuentes.
+En los casos en que el Instituto o el órgano equivalente, en su caso, determine que por negligencia no se hubiese atendido alguna solicitud en los términos de esta ley, requerirá a la Unidad de Información correspondiente para que proporcione la información sin costo alguno para el solicitante, dentro del plazo de diez días hábiles a partir del requerimiento.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 86.
 
-Transcurrido el término de diez días a que se refiere el artículo 77, CONAMED dará cuenta con la documentación que obre en el expediente, resolviendo sobre la admisión o desechamiento de pruebas, y fijará las medidas necesarias para la preparación de la audiencia de pruebas y alegatos, la cual se llevará a efecto el día y hora señalados por CONAMED.
+Los servidores públicos de los sujetos obligados que de acuerdo con el Instituto a los órganos equivalentes, hagan caso omiso a los requerimientos y resoluciones para la entrega de la información, podrán ser sancionados conforme a los ordenamientos aplicables y, en su caso, lo harán del conocimiento del Ministerio Público, quien deberá investigar dichas conductas.
 
-###### Artículo 87.
+T R A N S I T O R I O S
 
-Los peritajes de parte podrán ser presentados durante la audiencia, inclusive, debiendo acompañarse a los mismos, original y copia simple de la cédula profesional del perito, y en el evento de ser especialista, original y copia de la documentación comprobatoria de ese carácter. No será necesaria la ratificación de los dictámenes en diligencia especial.
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
 
-###### Artículo 88.
+SEGUNDO.- La Ley de Transparencia y Acceso a la Información Pública del Estado de México y las reformas al Código Administrativo del Estado de México y a la Ley de Documentos Administrativos e Históricos del Estado de México tendrán vigencia, hasta en tanto entren en vigor los párrafos segundo y tercero, adicionados al artículo 5 de la Constitución Política del Estado Libre y Soberano de México, aprobados por esta Legislatura.
 
-La presentación de los peritajes de parte y los testigos designados, será a cargo y costa de quien los hubiere propuesto. En la audiencia de pruebas y alegatos sólo podrán intervenir los peritos que asistan; de igual forma, cuando se admita la prueba testimonial, sólo serán examinados los testigos que sean presentados por las partes.
+TERCERO.- Los Consejeros del Instituto deberán ser designados dentro de los tres meses siguientes al inicio de la vigencia de la presente Ley e iniciarán sus funciones un mes después de su designación.
 
-###### Artículo 89.
+CUARTO.- El Poder Legislativo, el Poder Ejecutivo, el Poder Judicial, los Municipios, los órganos autónomos y los Tribunales Administrativos, emitirán las disposiciones reglamentarias correspondientes a la presente Ley, dentro de los seis meses siguientes al inicio de su vigencia.
 
-Las partes podrán acordar la no presentación de peritajes de parte, en cuyo supuesto podrán formular por escrito, las preguntas que estimen convenientes a CONAMED, en su carácter de perito especializado, las que serán atendidas en el dictamen que al efecto emita para desahogar la prueba pericial.
+QUINTO.- Los Sujetos Obligados deberán nombrar a los responsables de las Unidades de Información, o su equivalente y, a los integrantes de los comités de información, así como designar a los servidores públicos habilitados a más tardar tres meses después de la designación de los Consejeros y del Consejero Presidente.
 
-###### Artículo 90.
+La conformación de las estructuras a que se refiere esta disposición, deberá hacerse con los recursos humanos, materiales y financieros asignados, por lo que no deberá implicar erogaciones adicionales.
 
-Queda estrictamente prohibida y se desechará de plano, la propuesta de citación indiscriminada al personal médico y paramédico que hubiere tenido relación con la atención del paciente de que se trate.
+SEXTO.- La información pública de oficio a que se refiere la presente Ley deberá estar disponible a más tardar un año después de la designación de los Consejeros y del Consejero Presidente.
 
-###### Artículo 91.
+SEPTIMO.- Los Sujetos Obligados deberán elaborar el catálogo de información a que se refiere la presente Ley, a más tardar un año después de la designación de los Consejeros y del Consejero Presidente.
 
-En la audiencia de pruebas y alegatos, se procederá como sigue:
+OCTAVO.- Los particulares podrán presentar solicitudes de acceso a la información pública y corrección de datos personales en términos de la presente Ley, después de un año de la designación de los Consejeros y del Consejero Presidente.
 
-I. Declarada abierta la audiencia e identificados los asistentes, se procederá al desahogo de las pruebas que en su caso hayan sido admitidas. Si a la apertura de la audiencia no existiere ninguna prueba pendiente, sin más trámite se procederá a oír los alegatos finales de las partes;
+NOVENO.- El Instituto expedirá su reglamento interior dentro de los tres meses siguientes a su integración.
 
-II. Al examinar a los testigos, se formularán las preguntas por la parte que los hubiere propuesto con arreglo al interrogatorio presentado por el oferente, acto seguido se harán las repreguntas, las cuales se formularán directamente por la contraria exclusivamente respecto de los hechos a que se haya referido, finalmente CONAMED si lo estima pertinente, formulará las preguntas que estime necesarias;
+Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
-III. A continuación, si las partes o CONAMED lo estimasen necesario, procederán a solicitar a los peritos de parte, presentes en la audiencia, amplíen verbalmente su dictamen;
+Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los dieciocho días del mes de marzo del año dos mil cuatro.- Presidente.- Dip. Juan Ignacio Samperio Montaño.- Secretarios.- Dip. Juan Manuel San Martín Hernández.- Dip. María Isabel de Jesús Viejo Plancarte.- Rúbricas.
 
-IV. Las preguntas formuladas a los testigos y peritos se realizarán de manera simple y llana, sin artificio alguno y sin denostar o presionar al compareciente;
+Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
 
-V. Si CONAMED lo estimase necesario, podrá determinarse la realización de una junta de peritos, la que se desahogará con los que asistan;
+Toluca de Lerdo, Méx., a 30 de abril del 2004.
 
-VI. Concluido el desahogo de las pruebas, se procederá a recibir los alegatos finales de las partes, primero las del quejoso y acto seguido las del prestador del servicio. Las partes podrán acordar, atendiendo a la naturaleza del asunto, que la audiencia sólo tenga por objeto recibir sus alegaciones finales. Los alegatos sólo podrán referirse a los puntos objeto del arbitraje, por lo que deberán referirse a los puntos controvertidos evitando disgresiones. Se desecharán de plano las argumentaciones impertinentes, y
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO
 
-VII. Hecho lo anterior, CONAMED determinará cerrada la instrucción citando a las partes para laudo.
+ARTURO MONTIEL ROJAS
 
-#### SECCION CUARTA. DE LAS RESOLUCIONES ARBITRALES
+(RUBRICA).
 
-###### Artículo 92.
+EL SECRETARIO GENERAL DE GOBIERNO
 
-Las resoluciones de CONAMED son:
+MANUEL CADENA MORALES
 
-I. Simples determinaciones de trámite y entonces se llamarán acuerdos;
+(RUBRICA).
 
-II. Determinaciones provisionales o definitivas que no resuelvan el fondo de la controversia y se llamarán autos, y
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-III. Laudos, que siempre tendrán el carácter de definitivos.
+G.G. 28 DE DICIEMBRE DE 2004.
 
-###### Artículo 93.
+PRIMERO.- Publíquese el presente decreto ene l Periódico Oficial "Gaceta del Gobierno".
 
-Todas las resoluciones serán autorizadas por quienes las emitan con firma entera.
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-Los laudos serán emitidos por el Comisionado Nacional o por los Presidentes de las Salas de Arbitraje en las que se desahogue el juicio arbitral.
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
-###### Artículo 94.
+G.G. 29 DE DICIEMBRE DE 2006.
 
-CONAMED no podrá, bajo ningún pretexto, aplazar, dilatar ni negar la resolución de las cuestiones que hayan sido fijadas en el compromiso arbitral.
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-Tampoco podrá variar ni modificar sus resoluciones después de firmadas, pero sí podrá aclarar algún concepto o suplir cualquier deficiencia, sea por omisión sobre un punto discutido o cuando exista oscuridad o imprecisión, sin alterar la esencia de la resolución.
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-Estas aclaraciones podrán hacerse de oficio dentro del día hábil siguiente al de la publicación de la resolución o a instancia de parte presentada dentro de los tres días hábiles siguientes al de la notificación. En este último supuesto, CONAMED resolverá lo que estime procedente dentro de los dos días siguientes al de la presentación del escrito en que se solicite la aclaración.
+TERCERO.- Los Sujetos Obligados cumplirán de manera obligatoria con lo previsto en las fracciones XIX, XX, XXI y XXII del artículo 12 a más tardar a los 90 días posteriores al de la entrada en vigor del presente decreto.
 
-###### Artículo 95.
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
-Cuando se determine el pago de daños y perjuicios se fijará su importe en cantidad líquida o se establecerán por lo menos, las bases con arreglo a las cuales deba hacerse la liquidación.
+G.G. 1 DE FEBRERO DE 2007.
 
-Sólo en caso de no ser posible lo uno ni lo otro, se hará la condena, a reserva de fijarse su importancia y hacerla efectiva en ejecución de laudo.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-###### Artículo 96.
+SEGUNDO.- La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de México, contenida en el presente Decreto, entrará en vigor al día siguiente del inicio de la vigencia de la reforma al primer párrafo de la fracción XXXII del artículo 61 de la Constitución Política del Estado Libre y Soberano de México.
 
-Las resoluciones deben tener el lugar, fecha y responsables de su emisión, los nombres de las partes contendientes, el carácter con que concurrieron al procedimiento y el objeto de la controversia. Al efecto, se emplearán los formatos que determine la Comisión Nacional.
-
-###### Artículo 97.
-
-En términos de los artículos 91, 92, 93 y 533 del Código de Procedimientos Civiles para el Distrito Federal, son aplicables a los laudos de CONAMED las siguientes reglas:
-
-I. Todo laudo tiene en su favor la presunción de haberse pronunciado legalmente, con conocimiento de causa, mediante intervención legítima de CONAMED y en términos del compromiso arbitral;
-
-II. El laudo firme produce acción y excepción contra las partes y contra el tercero llamado legalmente al procedimiento que hubiere suscrito el compromiso arbitral;
-
-III. El tercero puede excepcionarse contra el laudo firme, y
-
-IV. Las transacciones otorgadas ante CONAMED y los laudos se considerarán como sentencias, en términos de la legislación procesal en vigor.
-
-###### Artículo 98.
-
-Las resoluciones de CONAMED deben dictarse y mandarse notificar, dentro de los ocho días siguientes a aquel en que se hubiere citado para dictarse.
-
-Los laudos deben dictarse y mandarse notificar dentro de los quince días siguientes a aquel en que se hubiere hecho la citación para laudo. Sólo cuando hubiere necesidad de que CONAMED examine documentos voluminosos, al resolver el laudo, podrá disfrutar de un término ampliado de quince días más para los fines ordenados anteriormente.
-
-## TRANSITORIOS
-
-PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Los asuntos en trámite arbitral se resolverán con arreglo a las cláusulas compromisorias y los compromisos arbitrales otorgados previamente por las partes. En el evento que la naturaleza del procedimiento arbitral lo permita, dado el avance de su tramitación, las partes podrán acordar que las diligencias pendientes se sujeten a lo previsto en el presente Reglamento.
-
-De conformidad con lo dispuesto por el artículo 8o., fracción II del Decreto por el que se crea la Comisión Nacional de Arbitraje Médico, el Consejo de la Comisión, en su décima segunda sesión ordinaria, celebrada en la Ciudad de México, Distrito Federal, el diecisiete de marzo de mil novecientos noventa y nueve, expidió el presente Reglamento de Procedimientos para la Atención de Quejas, instruyendo al Secretario Técnico para que se publique en el Diario Oficial de la Federación.- El Presidente del Consejo de la Comisión Nacional de Arbitraje Médico, Héctor Fernández Varela Mejía.- Rúbrica.
+TERCERO.- El presente Decreto será aplicable en la entrega, recepción, revisión y fiscalización de las cuentas públicas del Estado y de los municipios, correspondientes al ejercicio fiscal 2006.
