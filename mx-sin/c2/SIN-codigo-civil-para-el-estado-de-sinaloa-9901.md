@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1942-12-31"
+last_updated: "1943-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1942.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1943.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -11675,11 +11675,11 @@ Hay arrendamiento cuanto las dos partes contratantes se obligan recíprocamente,
 
 El arrendamiento no puede exceder de diez años para las fincas destinadas a habitación, de quince para las destinadas al comercio, y de veinte para las fincas destinadas para el ejercicio de una industria.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1941)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1943)</small>
 
 ###### Artículo 2281.
 
-La renta o precio del arrendamiento puede consistir en una suma de dinero o en cualquiera otra cosa equivalente, con tal que sea cierta y determinada. Cuando se trate de fincas urbanas el precio del arrendamiento no podrá exceder del equivalente a uno por ciento sobre el valor fiscal de la finca aumentando un 10%.
+La renta o precio del arrendamiento puede consistir en una suma de dinero o en cualquiera otra cosa equivalente con tal que sea cierta y determinada.
 
 ###### Artículo 2282.
 
@@ -11939,6 +11939,8 @@ La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses
 
 Disposiciones Especiales respecto de los Arrendamientos por Tiempo Indeterminado.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1943)</small>
+
 ###### Artículo 2335.
 
 El propietario de un predio rústico debe cultivarlo, sin perjuicio de dejarlo descansar el tiempo que sea necesario para que no agote su fertilidad. Si no lo cultiva, tiene obligación de darlo en arrendamiento o en aparcería, de acuerdo con lo dispuesto en la Ley de Tierras Ociosas.
@@ -12055,11 +12057,11 @@ Del modo de Terminar el Arrendamiento.
 
 ###### Artículo 2360.
 
-Todos los arrendamientos, sean de predios rústicos o urbanos, que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte, dado en forma indubitable con dos meses de anticipación si el predio es urbano, y con un año si es rústico.
+Los arrendamientos de predios rústicos que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte, dado en forma indubitable con un año de anticipación, observándose lo dispuesto en los artículos 2338, 2339 y 2340.
 
 ###### Articulo 2361.
 
-Dado el aviso a que se refiere el artículo anterior, el arrendatario del predio urbano está obligado a poner cédulas y a mostrar el interior de la casa a los que pretendan verla. Respecto de los predios rústicos, se observará lo dispuesto en los artículos 2338, 2339 y 2340.
+(DEROGADO, P.O. 31 DE JULIO DE 1943)
 
 ### CAPITULO I.
 
@@ -12101,9 +12103,11 @@ VII.- Por expropiación de la cosa arrendada hecha por causa de utilidad públic
 
 VIII.- Por evicción de la cosa en arrendamiento.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1943)</small>
+
 ###### Artículo 2366.
 
-Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que disponen los artículo 2360 y 2361.
+Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que dispone el artículo 2360.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1941)</small>
 
@@ -15204,3 +15208,7 @@ Artículo Unico.- Este Decreto comenzará a surtir sus efectos a partir de la fe
 P.O. 31 DE DICIEMBRE DE 1942.
 
 Unico.- Este Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación en el "Periódico Oficial del Gobierno del Estado".
+
+P.O. 31 DE JULIO DE 1943.
+
+Artículo Unico.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
