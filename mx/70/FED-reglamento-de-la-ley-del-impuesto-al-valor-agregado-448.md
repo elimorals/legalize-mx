@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-impuesto-al-valor-agregado-448"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-02-29"
-last_updated: "1990-05-15"
+last_updated: "1992-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=448&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1984-02-28"
 
 REGLAMENTO DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MAYO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MARZO DE 1992.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 29 de febrero de 1984.
 
@@ -39,11 +39,9 @@ Cuando en este Reglamento se haga referencia a la Ley, se entenderá que se trat
 
 Cuando se haga alusión a los actos o actividades por los que se deba pagar el impuesto, se considerarán incluidos aquellos a los que se les aplique la tasa de 0%.
 
-> <small>(F. DE E., D.O.F. 22 DE MAYO DE 1984)</small>
-
 ###### ARTICULO 2o.
 
-Para los efectos del artículo 2o. de la Ley, se considerarán residentes en las franjas fronterizas o en las zonas libres, a los contribuyentes con uno o varios establecimientos en dichas franjas o zonas, por lo que se refiere a los actos o actividades que realicen en dichos establecimientos. Lo dispuesto en este artículo también es aplicable a los comitentes u otras personas que realicen dichos actos o actividades en las franjas o zonas mencionadas, por conducto de comisionistas o personas que actúen por cuenta ajena, con establecimiento en los citados lugares.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 ###### ARTICULO 3o.
 
@@ -71,15 +69,9 @@ Los medicamentos magistrales y oficinales a que se refiere la legislación sanit
 
 Para los efectos del acreditamiento a que se refiere el artículo 4o. y la expedición de comprobantes señalada en el artículo 32 fracción III de la Ley, los contribuyentes que realicen los actos o actividades a que se refiere el artículo 2o. A de la misma, no tendrán la obligación de trasladar en forma expresa y por separado el impuesto a la tasa del 0%.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
-
 ###### ARTICULO 9o.
 
-Para los efectos de lo dispuesto en el artículo 4o. de la Ley, sólo será acreditable el impuesto trasladado al contribuyente cuando las erogaciones que efectúe sean deducibles para los fines del impuesto sobre la renta.
-
-Se considerará acreditable el impuesto trasladado en las adquisiciones de aviones en la proporción en que las erogaciones realizadas sean deducibles para fines del impuesto sobre la renta.
-
-No será acreditable el impuesto trasladado al contribuyente por los gastos de representación a que se refieren los artículos 25, fracción V, y 137, fracción V, de la Ley del Impuesto sobre la Renta.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 ###### ARTICULO 10.
 
@@ -89,21 +81,21 @@ Para los efectos de la fracción II del artículo 4o. de la Ley, la enajenación
 
 Para los efectos de este impuesto, se considerará como valor neto el que resulte de deducir del valor de los actos o actividades por los que se deba pagar el impuesto, el monto de las devoluciones, descuentos o bonificaciones en los términos del artículo 7o. de la Ley.
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 12.
 
-Para determinar el pago provisional a que se refiere el artículo 5º de la Ley, se aplicarán las tasas que correspondan según sea el caso, al valor neto de los actos o actividades realizados en el mes por enajenación de bienes, prestación de servicios, otorgamiento del uso o goce temporal de bienes, e importación de bienes o servicios con excepción de la de bienes tangibles, así como las exportaciones. El resultado de esta operación será disminuido con el monto del impuesto acreditable en ese mes, el saldo pendiente de acreditar del mes inmediato anterior del mismo ejercicio, y en su caso, el saldo a favor del ejercicio anterior; el contribuyente que opte por la devolución del saldo pendiente de acreditar del mes inmediato anterior, no podrá acreditarlo posteriormente.
+Para determinar el pago provisional a que se refiere el artículo 5o. de la Ley, se aplicarán las tasas que correspondan, según sea el caso, al valor neto de los actos o actividades realizados en el período por la enajenación de bienes, prestación de servicios, otorgamiento del uso o goce temporal de bienes, e importación de bienes o servicios con excepción de la de bienes tangibles, así como las exportaciones. El resultado de esta operación será disminuido con el monto del impuesto acreditable en dicho período, con el saldo pendiente de acreditar del período inmediato anterior siempre que se trate del mismo ejercicio, y en su caso, con el saldo a favor del ejercicio anterior; el contribuyente que opte por la devolución del saldo pendiente de acreditar del período inmediato anterior, no podrá acreditarlo posteriormente.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+Cuando en la declaración de pago provisional de que se trate se omita el acreditamiento correspondiente, éste podrá llevarse a cabo en la declaración del período siguiente o en la del ejercicio. Lo dispuesto en este párrafo es sin perjuicio del derecho que tienen los contribuyentes de presentar declaraciones complementarias.
 
-Cuando en la declaración de pago provisional de que se trate se omita el acreditamiento correspondiente, éste podrá llevarse a cabo en la declaración del mes siguiente, o en la del ejercicio. Lo dispuesto en este párrafo es sin perjuicio del derecho que tienen los contribuyentes de presentar declaraciones complementarias.
-
-> <small>(F. DE E., D.O.F. 22 DE MAYO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 13.
 
-Para determinar el impuesto acreditable del mes o del ejercicio, se sumará el impuesto que de conformidad con la Ley hubiera sido trasladado al contribuyente y el que haya pagado con motivo de la importación de bienes o servicios, en el propio mes o en el ejercicio, siempre que se reúnan los requisitos que señala el artículo 4o. de la Ley.
+Para determinar el impuesto acreditable del periodo por el que se efectúa el pago provisional o del ejercicio, se sumará el impuesto que de conformidad con la Ley hubiera sido trasladado al contribuyente y el que haya pagado con motivo de la importación de bienes o servicios, en el propio periodo por el cual se efectúa el pago provisional o en el ejercicio, siempre que se reúnan los requisitos que señala el artículo 4o. de la Ley.
 
-Si el contribuyente está obligado al pago del impuesto sólo por una parte de sus actividades, deberá identificar los gastos e inversiones que se efectuaron en el mes o en el ejercicio para realizar dicha parte, y considerará como impuesto acreditable del mes o del ejercicio el que le hubiera sido trasladado y el que haya pagado en sus importaciones con motivo de sus gastos e inversiones; cuando no pueda identificar el destino de parte de sus gastos e inversiones, acreditará el impuesto en la proporción que represente el valor de aquellas por las que esté obligado al pago del impuesto, en el valor del total de sus actividades.
+Si el contribuyente está obligado al pago del impuesto sólo por una parte de sus actividades, deberá identificar los gastos e inversiones que se efectuaron en el periodo por el cual se realiza el pago provisional o en el ejercicio para realizar dicha parte, y considerará como impuesto acreditable de dicho periodo o del ejercicio, el que le hubiera sido trasladado y el que haya pagado en sus importaciones con motivo de sus gastos e inversiones; cuando no pueda identificar el destino de parte de sus gastos e inversiones, además del impuesto identificable acreditará el impuesto no identificable en la proporción que represente el valor de las actividades por las que esté obligado al pago del impuesto, en el valor del total de sus actividades.
 
 ###### ARTICULO 14.
 
@@ -111,17 +103,15 @@ Para determinar el impuesto del ejercicio a que se refiere el artículo 5o. de l
 
 Del impuesto del ejercicio se deducirán los pagos provisionales determinados conforme al artículo 12 de este Reglamento, así como los efectuados con motivo de la importación de bienes tangibles.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
-
 ###### ARTICULO 14-A.
 
-Las personas físicas que opten por pagar el impuesto sobre la renta conforme al régimen simplificado establecido por la Sección II del Capítulo VI del Título IV de la Ley de lo materia y que hayan obtenido en el año de calendario inmediato anterior ingresos hasta de doscientos millones de pesos, deberán efectuar los pagos provisionales del impuesto al valor agregado en forma bimestral o más tardar el día 17 del mes inmediato posterior al bimestre que corresponda, mediante declaración que presentarán ante las oficinas autorizadas.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
-> <small>(F. DE E., D.O.F. 22 DE MAYO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 15.
 
-Para calcular el impuesto acreditable del mes o del ejercicio en los términos del artículo 13 de este Reglamento, no se incluirá el valor de los actos o actividades siguientes:
+Para calcular el impuesto acreditable del periodo por el cual se efectúa el pago provisional o del ejercicio en los términos del artículo 13 de este Reglamento, no se incluirá el valor de los actos o actividades siguientes:
 
 I.- Enajenación del suelo, salvo que sea parte del activo circulante del contribuyente, aun cuando se haga a través de certificados de participación inmobiliaria.
 
@@ -133,9 +123,17 @@ IV.- Enajenación de moneda nacional y extranjera, así como la de piezas de oro
 
 V.- Intereses pagados por instituciones de crédito y uniones de crédito.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
-No son aplicables las fracciones III, IV y V de este artículo a las instituciones de crédito, de seguros, de fianzas y para el depósito de valores, a las casas de bolsa y de cambio, a las sociedades de inversión y organizaciones auxiliares del crédito. No es aplicable la fracción II, a las sociedades mercantiles que perciban ingresos preponderantemente por los conceptos en ella previstos.
+No es aplicable la fracción II de este artículo a las personas morales que perciban ingresos preponderantemente por los conceptos en ella previstos.
+
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+No son aplicables las fracciones III, IV y V de este artículo a las instituciones de crédito, de seguros, de fianzas y para el depósito de valores, a las casas de cambio, a las sociedades de inversión y organizaciones auxiliares del crédito.
+
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+Las casas de bolsa, para determinar el impuesto acreditable a que se refiere este artículo, considerarán dentro del valor de sus actividades, la diferencia entre los ingresos que perciban por concepto de intereses, premios de reporto y compraventa de valores, y los pagos que efectúen por dichos conceptos.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE MAYO DE 1990)</small>
 
@@ -155,7 +153,9 @@ I.- Cuando se trate de declaraciones de pagos provisionales y no se haya present
 
 II.- Cuando se modifique una declaración del ejercicio, el contribuyente podrá optar por solicitar devolución o por continuar el acreditamiento en la declaración de pago provisional siguiente al día en que se presente la complementaria.
 
-Cuando el valor neto de los actos actividades por los que se debe pagar el impuesto en el ejercicio sea superior a la suma del declarado en los meses que comprenda el mismo o cuando el importe del impuesto acreditable en el ejercicio sea inferior a la suma del declarado por los meses, que corresponda a dicho ejercicio, se deberán presentar declaraciones complementarias por el mes o meses a que correspondan las diferencias, debiéndose cubrir los recargos conforme a lo señalado en el artículo 32 del Código Fiscal de la Federación.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+Cuando el valor neto de los actos o actividades por los que se deba pagar el impuesto en el ejercicio sea superior a la suma del declarado en los pagos provisionales que comprenda el mismo, o cuando el importe del impuesto acreditable en el ejercicio sea inferior a la suma del declarado por los pagos provisionales que correspondan a dicho ejercicio, se deberán presentar declaraciones complementarias por el periodo o periodos por los que se efectúan pagos provisionales a que correspondan las diferencias, debiéndose cubrir los recargos conforme a lo señalado en el artículo 32 del Código Fiscal de la Federación.
 
 ###### ARTICULO 17.
 
@@ -221,21 +221,7 @@ Lo dispuesto en el párrafo anterior no es aplicable a las enajenaciones que efe
 
 ###### ARTICULO 23.
 
-Las tiendas a que se refiere la fracción VIII del artículo 9o. de la Ley, deberán:
-
-I.- Contar con un sistema de control que permita el acceso a dichos establecimientos exclusivamente a los derechohabientes, agremiados, miembros o trabajadores, según sea el caso.
-
-II.- Efectuar las enajenaciones, sin propósito de lucro. En consecuencia su precio de venta no deberá ser superior al costo y gastos de adquisición, impuestos trasladados y los gastos indispensables de operación.
-
-III.- Incluir en lugar visible de la documentación que expidan la leyenda "Venta a Consumidor Final".
-
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
-
-Quedan comprendidos dentro de lo dispuesto en la fracción VIII del artículo 9o. de la Ley, todos
-
-los sindicatos de trabajadores.
-
-Los bienes enajenados por terceros en las áreas o locales por las que dichas tiendas les otorguen su uso o goce, no tendrán el beneficio a que se refiere este artículo.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 ###### ARTICULO 24.
 
@@ -247,7 +233,9 @@ Los bienes enajenados por terceros en las áreas o locales por las que dichas ti
 
 Para los efectos del artículo 12 de la Ley, en las enajenaciones a plazo en los términos del Código Fiscal de la Federación, el impuesto correspondiente al precio pactado excluyendo intereses, se podrá diferir conforme sean efectivamente recibidos los pagos; el impuesto que corresponda a los intereses se podrá diferir al mes en que éstos sean exigibles.
 
-Tratándose de arrendamiento financiero, se podrá diferir el impuesto que corresponda conforme sean exigibles los abonos.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+Tratándose de arrendamiento financiero, se podrá diferir el impuesto que corresponda al monto de los pagos por concepto de intereses conforme éstos sean exigibles.
 
 Lo dispuesto en este artículo será aplicable siempre que para efectos del impuesto sobre la renta el contribuyente opte por considerar como ingreso acumulable el que efectivamente le hubiere sido pagado conforme a lo dispuesto por el artículo 16 de la Ley del Impuesto sobre la Renta.
 
@@ -269,17 +257,33 @@ El impuesto en el caso de contratos de obra a precio alzado o por administració
 
 Cuando se presten servicios independientes a través de un contrato de obra y en el mismo se pacte que no se proporcionarán los materiales y que el pago será en función de cantidad de trabajo realizado y no de días laborados, el prestador de servicios que opte por efectuar los pagos provisionales del impuesto sobre la renta mediante retención efectuada en los términos del artículo 80 de la Ley del Impuesto sobre la Renta, deberá pagar el impuesto al valor agregado mediante retención que realice el contratante. En este caso, el prestador de servicios queda liberado, por los pagos que reciba, de presentar declaraciones y de llevar libros y registros, no pudiendo hacer acreditamiento alguno; el contratante considerará el impuesto retenido como impuesto a él trasladado y lo acreditará en su caso.
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 28.
 
-Para los efectos de la fracción IX del artículo 15 de la Ley, se entiende por aseguramiento contra riesgos agropecuarios el que se preste a través de los contratos de seguro agrícola integral, ganadero y conexos a la actividad agropecuaria en los términos de la Ley del Seguro Agropecuario y de Vida Campesino; y por seguros en operaciones de vida, los que bajo esta denominación señalen dicha Ley y la Ley General de Instituciones de Seguros.
+Para los efectos de la fracción IX del artículo 15 de la Ley, se entiende por seguros de vida, los que bajo esta denominación señale la Ley General de Instituciones y Sociedades Mutualistas de Seguros.
 
 ###### ARTICULO 29.
 
 Para los efectos del inciso a) de la fracción X del artículo 15 de la Ley, no se estará obligado al pago del impuesto, por los intereses derivados de operaciones de financiamiento, aun cuando quien proporcione el financiamiento no sea la misma persona que enajene el bien, siempre que en el contrato se condicione el préstamo a la adquisición de un determinado inmueble destinado a casa habitación.
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 30.
 
-Para los efectos del artículo 15 fracción X inciso b) de la Ley, se entenderá por operaciones de financiamiento las que tengan el carácter de activas o pasivas de crédito, entendiéndose como tales aquellas por las que las instituciones de crédito o uniones de crédito reciban o paguen las contraprestaciones a que se refiere dicha fracción.
+Para los efectos del artículo 15, fracción X, inciso b) de la Ley, se entenderá por operaciones de financiamiento las que tengan el carácter de activas o pasivas de crédito, entendiéndose como tales aquéllas por las que las instituciones de crédito, uniones de crédito o empresas de factoraje financiero reciban o paguen las contraprestaciones a que se refiere dicha fracción.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 30-A.
+
+Para los efectos del artículo 15, fracción X, inciso b) de la Ley, se consideran bienes de inversión, aquéllos que integran el activo fijo en los términos del segundo párrafo del artículo 42 de la Ley del Impuesto sobre la Renta.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 30-B.
+
+Para los efectos del artículo 15, fracción X, inciso i) de la Ley, se consideran colocados entre el gran público inversionista, los títulos de crédito que reúnan los requisitos que para ser considerados como tales establece la Ley del Impuesto sobre la Renta.
 
 ###### ARTICULO 31.
 
@@ -290,6 +294,12 @@ Para los efectos de la fracción XIV del artículo 15 de la Ley, los servicios p
 ###### ARTICULO 31-A.
 
 Para los efectos del artículo 17 de la Ley, la prestación de los servicios a que se refieren los contratos de construcción de obra inmueble, comprende las actividades señaladas en el cuarto párrafo del artículo 2o. de la Ley del Impuesto sobre la Renta, así como en los artículos 3o. y 11 del Reglamento de dicha Ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 31-B.
+
+Para los efectos del segundo párrafo del artículo 17 de la Ley, se entienden incluidos dentro de lo previsto por dicho precepto, los contratos de obra pública celebrados con Dependencias o Entidades de la Administración Pública Federal.
 
 ###### ARTICULO 32.
 
@@ -353,11 +363,11 @@ Si otorgada la garantía, no se concedió el subsidio solicitado, la misma se ha
 
 Cuando el contribuyente haga valer algún medio de defensa en contra de las resoluciones que dicten las autoridades aduaneras, el impuesto al valor agregado se pagará tomando en cuenta el monto del impuesto general de importación que se obtenga de los datos suministrados por el propio contribuyente, y la diferencia de impuestos que en su caso resulte, la pagará hasta que se resuelva en definitiva la controversia, debiendo garantizarse el interés fiscal en los términos del Código Fiscal de la Federación y su Reglamento.
 
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 40-A.
 
-Para los efectos de lo dispuesto en el artículo 24 de la Ley, los contribuyentes que importan bienes intangibles o servicios por los que deban pagar este impuesto, podrán efectuar el acreditamiento en los términos de los artículos 4o. y 5o. de la propia Ley en la misma declaración de pago provisional del mes a que corresponde dichas importaciones.
+Para los efectos de lo dispuesto en el artículo 24 de la Ley, los contribuyentes que importan bienes intangibles o servicios por los que deban pagar este impuesto, podrán efectuar el acreditamiento en los términos de los artículos 4o. y 5o. de la propia Ley en la misma declaración de pago provisional del periodo a que correspondan dichas importaciones.
 
 ###### ARTICULO 41.
 
@@ -382,6 +392,26 @@ El aprovechamiento en el extranjero de servicios prestados por personas resident
 ###### ARTICULO 45.
 
 Para los efectos del artículo 29 fracción V de la Ley, se entiende por transportación internacional de bienes, la que en los términos del artículo 16 de la propia Ley, no se presta en territorio nacional, incluyendo la que se realiza entre dos puntos ubicados en el extranjero.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 45-A.
+
+Para los efectos del artículo 31 de la Ley, las personas residentes en el país que enajenen bienes sujetos al régimen de importación temporal en los términos de la Ley Aduanera, a empresas de comercio exterior o aquellas catalogadas como maquiladoras de exportación, deberán entregar copia del pedimento de importación que ampara dichos bienes a la empresa a la cual le sean enajenados, en el momento en que se efectúe la enajenación respectiva, de conformidad con el artículo 11 de la Ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 45-B.
+
+Los proveedores nacionales de las empresas de comercio exterior y de las maquiladoras de exportación, podrán aplicar la tasa del 0%, en las enajenaciones de bienes que realicen a dichos contribuyentes, siempre que éstos cumplan con los siguientes requisitos:
+
+I.- Realicen el trámite de la importación temporal por conducto de agente o apoderado aduanal, sin que sea necesaria la presentación física de las mercancías ante la autoridad aduanera.
+
+II.- Efectúen el trámite de la importación temporal dentro de los quince días siguientes a aquél en el que hubieran adquirido las mercancías de que se trate, debiendo entregar una copia del pedimento respectivo a su proveedor.
+
+Para los efectos de este artículo, se podrá incluir en un solo pedimento de importación temporal, todas las operaciones de un mismo proveedor, pudiendo descargarlo en los pedimentos de exportación que se presenten ante la aduana de despacho de las mercancías.
+
+Las empresas de comercio exterior o las maquiladoras de exportación podrán aplicar la tasa del 0%, siempre que entreguen a sus proveedores copia de la documentación oficial que les expidan las autoridades competentes que las acrediten como tales, a fin de que éstos anoten en los comprobantes que expidan el número de registro de la empresa de comercio exterior o maquiladora de exportación.
 
 ### CAPITULO VII. De las Obligaciones de los Contribuyentes
 
@@ -409,11 +439,15 @@ En los servicios de teléfono, energía eléctrica, hotelería incluyendo sus ac
 
 El precio que se cobre al cliente deberá ser siempre el mismo, independientemente de que el impuesto se traslade dentro del precio o en forma expresa y por separado de él.
 
-Quien deba trasladar el impuesto, para determinar el valor de la contraprestación pactada dividirá el precio incluyendo el impuesto, entre 1.06, 1.15 ó 1.2, según se trate de operaciones afectas a la tasa del 6%, 15% o 20%. Si de la operación anterior resultan fracciones de la unidad monetaria, la cantidad se ajustará a la unidad más próxima. Tratándose de cantidades terminadas en cincuenta centavos, el ajuste se hará a la unidad inmediata inferior. El resultado obtenido se restará al monto total de la operación y la diferencia será el impuesto. Esta misma operación se asentará en los libros de contabilidad.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+Quien deba trasladar el impuesto, para determinar el valor de la contraprestación pactada dividirá el precio incluyendo el impuesto, entre 1.06 ó 1.10, según se trate de operaciones afectas a la tasa del 6% ó 10 %. Si de la operación anterior resultan fracciones de la unidad monetaria, la cantidad se ajustará a la unidad más próxima. Tratándose de cantidades terminadas en cincuenta centavos, el ajuste se hará a la unidad inmediata inferior. El resultado obtenido se restará al monto total de la operación y la diferencia será el impuesto. Esta misma operación se asentará en los libros de contabilidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 48.
 
-Para los efectos del articulo 33 de la Ley, los notarios, corredores, jueces y demás fedatarios que por disposición legal tengan funciones notariales, quedan relevados de la obligación de efectuar el cálculo y entero del impuesto a que se refiere dicho artículo cuando la enajenación de inmuebles se realice por contribuyentes que deban presentar declaraciones del ejercicio de este impuesto y exhiban copia sellada de las últimas declaraciones mensual y del ejercicio, tratándose del primer ejercicio deberán presentar copia sellada de la última declaración mensual
+Para los efectos del artículo 33 de la Ley, los notarios, corredores, jueces y demás fedatarios que por disposición legal tengan funciones notariales, quedan relevados de la obligación de efectuar el cálculo y entero del impuesto a que se refiere dicho artículo cuando la enajenación de inmuebles se realice por contribuyentes que deben presentar declaraciones del ejercicio de este impuesto y exhiban copia sellada de las últimas declaraciones de pago provisional y del ejercicio. Tratándose del primer ejercicio deberán presentar copia sellada de la última declaración de pago provisional.
 
 No se consideran enajenaciones de bienes efectuadas en forma accidental, aquellas que realicen los contribuyentes obligados a presentar declaraciones del ejercicio de este impuesto.
 
@@ -471,11 +505,9 @@ III.- En el caso de enajenación de bienes muebles, prestación de servicios u o
 
 Para los efectos de este artículo, se considera como entrega material de los bienes el acto mediante el cual el enajenante, o quien otorga el uso o goce temporal, pone a disposición material del adquirente o a quien se otorga el uso o goce temporal, el bien objeto de la operación.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
-
 ###### ARTICULO 50-A.
 
-Los contribuyentes que paguen el impuesto conforme al régimen simplificado para los efectos de la Ley del Impuesto sobre la Renta, podrán determinar el impuesto a su cargo considerando como impuesto trasladado y acreditable el que corresponda a los actos o actividades que hayan considerado como entradas y salidas en el citado impuesto, en cuyo caso, la documentación comprobatoria de sus actividades deberá expedirse en la fecha en se cobraron en efectivo los bienes enajenados o los servicios prestados.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 ### CAPITULO VIII. De las Facultades de las Autoridades
 
@@ -514,3 +546,9 @@ D.O.F. 15 DE MAYO DE 1990.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE MARZO DE 1992.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las casas de bolsa podrán calcular el impuesto acreditable en los términos de lo dispuesto por el artículo 15 de este Reglamento, a partir del 1o. de enero de 1992.
