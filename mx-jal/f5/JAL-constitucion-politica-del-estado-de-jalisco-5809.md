@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1948-09-25"
+last_updated: "1950-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 1950.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -365,13 +365,11 @@ Cuando la falta absoluta del Gobernador ocurriere en el último año del períod
 
 Si al comenzar un periodo constitucional, no se presentare el Gobernador o la elección no estuviere hecha y declarado el 1º de marzo, cesará sin embargo el Gobernador cuyo periodo hubiere concluido, y entonces, así como en las faltas repentinas, se encargará desde luego del Poder Ejecutivo en Calidad de Gobernador Interino, el Magistrado que estuviere desempeñando la Presidencia del Supremo Tribunal de Justicia, mientras se hace la designación de que se habla en el artículo anterior y se presenta el designado.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 1939)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1950)</small>
 
 ###### Art. 31.
 
-El Gobernador podrá ausentarse del territorio del Estado o separarse de sus funciones hasta por quince días. Durante los primeros cinco de este término, no se le considerará separado de sus funciones; pero a partir del sexto, dará aviso de su separación o ausencia al Congreso o a la Diputación Permanente y el Secretario de Gobierno se hará cargo, del despacho, con las atribuciones que establezca la Ley Orgánica del Poder Ejecutivo.
-
-Sólo con permiso del Congreso o de la Diputación Permanente, podrá ausentarse del territorio del Estado o separarse de sus funciones por más de quince días.
+El Gobernador podrá ausentarse del territorio del Estado o separarse de sus funciones hasta por treinta días. Durante los primeros diez de este término, no se le considerará separado de sus funciones, pero a partir del onceavo, dará aviso de su separación o ausencia al Congreso o a la Diputación Permanente, y el Secretario General de Gobierno se hará cargo del despacho, con las atribuciones que establezca la Ley Orgánica del Poder Ejecutivo. Sólo con permiso del Congreso o de la Diputación Permanente, podrá ausentarse del Territorio del Estado o separarse de sus funciones por más de quince días.
 
 ###### Art. 32.
 
@@ -752,3 +750,7 @@ DECRETO NUMERO 5375.
 ###### ARTICULO UNICO.
 
 Se declara que las reformas a los Artículos 4o. fracción III, 8o. y 37o., aprobadas por este H. Congreso en sesión del día 30 de agosto del corriente año, forman parte de la Constitución Política del Estado y por lo tanto entrarán en vigor, de acuerdo con lo estipulado en el Decreto respectivo, al publicarse en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 2 DE MARZO DE 1950.
+
+UNICO.- Esta reforma entrará en vigor a partir del día en que se declare que es parte integrante de la Constitución de acuerdo con lo que establece el Artículo 66 de la Constitución Política del Estado.
