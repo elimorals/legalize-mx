@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2004-10-04"
+last_updated: "2004-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE OCTUBRE DE 2004.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -50,6 +50,10 @@ El Estado reconoce la composición pluricultural de su población, en particular
 ###### Artículo 2.
 
 En Sonora la investidura de los funcionarios públicos emana de la ley y está sujeta a ella. Las prescripciones legales constituyen el único límite a la libertad individual. En este concepto, las autoridades sólo pueden obrar ejercitando facultades expresas de la ley y los particulares pueden hacer todo lo que ésta no les prohíba.
+
+> <small>(ADICIONADO, B.O. 7 DE OCTUBRE DE 2004)</small>
+
+El Estado garantizará el derecho de acceso a la información pública, sin más limitación que el respeto a la privacidad de los individuos y la seguridad estatal y nacional. El deber público concomitante a este derecho será cumplido directamente por las autoridades obligadas. La vigilancia de este cumplimiento quedará a cargo del Tribunal Estatal Electoral y de Transparencia Informativa que resolverá con fuerza de imperio todas las controversias que se susciten al efecto. La ley secundaria establecerá procedimientos sencillos y plazos cortos para la respuesta de la autoridad a los peticionarios particulares de información pública. Esta misma ley definirá los conceptos relacionados con el derecho de acceso a la información pública y las atribuciones competenciales de los órganos encargados de su cumplimiento y vigilancia, sobre la base de que el deber público respectivo se extiende tanto a los tres poderes del estado, como a los ayuntamientos, organizaciones paraestatales y paramunicipales y, en general, a todos los niveles de gobierno, cualquiera que sea su denominación o estructura, así como a los partidos políticos y las personas físicas o morales, inclusive de naturaleza privada, que por cualquier motivo y de cualquier modo reciban fondos públicos.
 
 ## TITULO PRIMERO.
 
@@ -305,17 +309,27 @@ La Ley establecerá los montos máximos que tendrán las aportaciones pecuniaria
 
 El financiamiento público de los partidos políticos y de sus campañas electorales deberá prevalecer sobre los privados, para tal efecto, el Consejo Estatal Electoral integrará un órgano de fiscalización que controlará y vigilará el uso de todos los recursos con que cuenten, sean de origen privado o público y propondrá las sanciones que deban imponerse por el uso indebido de estos recursos, de conformidad con lo que establezca la Ley.
 
-La Ley establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y un Tribunal Estatal Electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten,w invariablemente, al principio de legalidad. Sus sesiones serán públicas.
+> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
 
-El Tribunal Estatal Electoral será, en el Estado, el órgano especializado y la máxima autoridad jurisdiccional en materia electoral y de procesos de participación ciudadana, funcionará de manera permanente y tendrá a su cargo la substanciación y resolución, en única instancia, de los medios de impugnación que establezcan las leyes respectivas.
+La Ley establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y un Tribunal Estatal Electoral y de Transparencia Informativa. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten, invariablemente, al principio de legalidad. Sus sesiones serán públicas.
 
-El Tribunal estará compuesto por tres Magistrados Propietarios y dos Magistrados Suplentes Comunes, los cuales serán nombrados por el Congreso del Estado el que deberá emitir una convocatoria pública para tal fin. El Congreso integrará una Comisión Plural que presentará al Pleno la lista de aspirantes y mediante el voto de las dos terceras partes de sus integrantes, nombrará a los Magistrados del Tribunal Estatal Electoral.
+> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
 
-Los Magistrados del Tribunal Estatal Electoral durarán en su encargo nueve años. El Tribunal Estatal será renovado parcialmente cada tres años, salvo que se actualice el supuesto de remoción previsto por la Ley respectiva.
+El Tribunal Estatal Electoral y de Transparencia Informativa tendrá plena autonomía operativa y decisión, así como personalidad jurídica y patrimonio propios. Será la máxima autoridad jurisdiccional en materia electoral, de procesos de participación ciudadana y de acceso a la información pública, funcionará de manera permanente y tendrá a su cargo la substanciación y resolución, en única instancia, de los medios de impugnación que establezcan las leyes respectivas.
+
+> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
+
+El Tribunal estará compuesto por tres magistrados propietarios y dos magistrados suplentes comunes, los cuales serán nombrados por el Congreso del Estado el que deberá emitir una convocatoria pública para tal fin. El Congreso integrará una Comisión Plural que presentará al Pleno la lista de aspirantes y mediante el voto de las dos terceras partes de sus integrantes, nombrará a los magistrados del Tribunal Estatal Electoral y de Transparencia Informativa.
+
+> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
+
+Los magistrados del Tribunal Estatal Electoral y de Transparencia Informativa durarán en su encargo nueve años. El Tribunal Estatal será renovado parcialmente cada tres años, salvo que se actualice algún supuesto de remoción de entre los previstos por la Ley respectiva.
 
 Los Magistrados nombrados para concluir el periodo de otro, por falta definitiva o absoluta de éste, desempeñarán sus funciones hasta la conclusión del periodo de aquél.
 
-La organización y competencia del Tribunal Estatal Electoral será fijada por la Ley.
+> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
+
+La organización y competencia del Tribunal Estatal Electoral y de Transparencia Informativa será fijada por la Ley.
 
 En materia electoral la interposición de los medios de impugnación no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnado.
 
@@ -323,7 +337,9 @@ El Consejo Estatal Electoral realizará el cómputo final de la elección de Gob
 
 Las leyes en materia electoral deberán promulgarse y publicarse por lo menos noventa días naturales antes de que inicie el proceso electoral en que vayan a aplicarse y durante el mismo no podrá realizarse modificación alguna.
 
-En la integración de los organismos electorales habrá paridad de género y se observará, en su conformación, el principio de alternancia de género. Asimismo, en la integración del Tribunal Estatal Electoral será obligatorio conformarlo por ambos géneros.
+> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
+
+En la integración de los organismos electorales habrá paridad de género y se observará, en su conformación, el principio de alternancia de género. Asimismo, en la integración del Tribunal Estatal Electoral y de Transparencia Informativa será obligatorio conformarlo por ambos géneros.
 
 ###### Artículo 23.
 
@@ -487,9 +503,9 @@ VIII. No haber sido diputado o senador propietario al Congreso de la Unión, den
 
 IX. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
 
-> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1996)</small>
+> <small>(REFORMADA, B.O. 7 DE OCTUBRE DE 2004)</small>
 
-X. No haber sido Magistrado Numerario o Supernumerario del Tribunal Estatal Electoral, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separe del cargo dentro del plazo que establezca la Ley.
+X. No haber sido Magistrado numerario o supernumerario del Tribunal Estatal Electoral y de Transparencia Informativa, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separe del cargo dentro del plazo que establezca la Ley.
 
 ###### Artículo 34.
 
@@ -531,17 +547,23 @@ En todos los casos en que por cualquiera causa desaparezca el Congreso, el Ejecu
 
 Para designar el Congreso electo en la forma establecida en el Artículo anterior, se añadirá al número que le corresponda la palabra "BIS", si dentro del periodo constitucional del Congreso desaparecido se instalare el nuevo.
 
-> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 41.
 
-El Congreso tendrá en el año dos períodos de sesiones ordinarias: el primero comenzará el 16 de septiembre y terminará el 15 de diciembre y el segundo comprenderá desde el 1o de abril hasta el día último de junio. Ambos períodos pueden ser prorrogables.
+El Congreso tendrá durante el año dos períodos de sesiones ordinarias y dos periodos de sesiones extraordinarias.
 
-> <small>(REFORMADO, B.O. 28 DE ABRIL DE 1994)</small>
+Los periodos de sesiones ordinarias serán: el primero desde el 16 de septiembre hasta el 15 de diciembre y el segundo desde el 1º de abril hasta el día último de junio. Ambos periodos podrán prorrogarse.
+
+Los periodos de sesiones extraordinarias serán: el primero desde la terminación del primer periodo de sesiones ordinarias hasta el día último de marzo y el segundo desde la terminación del segundo periodo de sesiones ordinarias hasta el 15 de septiembre.
+
+> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 42.
 
-En el primer período el Congreso se ocupará de discutir y aprobar los presupuestos de egresos e ingresos para el año siguiente. El segundo período se destinará, preferentemente, a examinar las cuentas públicas del año anterior, y a calificarlas dentro de los cinco meses siguientes, contados a partir de la fecha límite de su presentación ante el Congreso.
+Sin perjuicio de su función legislativa ordinaria, en el primer periodo de sesiones ordinarias el Congreso se ocupará de modo preferente de discutir y aprobar las leyes y presupuestos de ingresos y egresos para el año siguiente. En las mismas condiciones, el segundo periodo se destinará, preferentemente, a examinar las cuentas públicas del año anterior y a calificarlas dentro de los cinco meses siguientes a partir de la fecha límite de su presentación ante el Congreso.
+
+Durante los periodos de sesiones extraordinarias la Diputación Permanente ejecutará y vigilará un sistema que será regulado por la ley secundaria para concluir los trabajos que se encuentren pendientes a cargo de las comisiones dictaminadoras, así como para iniciar o continuar cualquier otro trabajo propio de dichas comisiones con el objeto de que éstas reciban y se avoquen al análisis, discusión y, en su caso, dictamen de cualquier iniciativa que se presente durante dichos periodos. Para este último efecto, las iniciativas que se reciban en periodos de sesiones extraordinarias serán turnadas a comisiones por la Diputación Permanente, iniciándose de inmediato los trabajos que correspondan a menos de que uno de los integrantes de dicha Permanente reclame el turno que se le haya dado al asunto, en cuyo caso se incluirá el mismo, para decisión definitiva de turno, en la siguiente sesión que celebre el Pleno del Congreso.
 
 ###### Artículo 43.
 
@@ -743,7 +765,7 @@ d). Que igualmente se oiga sobre el particular al Ejecutivo del Estado. El infor
 
 e). Que la creación del nuevo municipio sea aprobada por las dos terceras partes de los miembros del Congreso.
 
-XIII. Para suprimir aquéllos municipios que carezcan de elementos bastantes para proveer a su existencia política, siempre que la supresión sea aprobada por las dos terceras partes de los miembros del Congreso. Decretada la extinción se designará la jurisdicción dentro de la cual quedarán comprendidos los municipios desaparecidos.
+XIII. Para suprimir aquellos municipios que carezcan de elementos bastantes para proveer a su existencia política, siempre que la supresión sea aprobada por las dos terceras partes de los miembros del Congreso. Decretada la extinción se designará la jurisdicción dentro de la cual quedarán comprendidos los municipios desaparecidos.
 
 Para que la supresión tenga efecto se oirá al ayuntamiento o ayuntamientos interesados y al Ejecutivo del Estado, en los términos establecidos en los incisos c) y d) de la fracción anterior.
 
@@ -767,9 +789,13 @@ XVIII. Para aprobar o rechazar los nombramientos de los Magistrados del Supremo 
 
 XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y concederles licencia hasta por dos meses con goce de sueldo y por más de ese tiempo sin goce de él.
 
-(REFORMADA, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADA, B.O. 15 DE MARZO DE 2004)
+> <small>(ADICIONADA, B.O. 7 DE OCTUBRE DE 2004)</small>
 
-XX. Para nombrar a los Magistrados Propietarios y a los Magistrados Suplentes Comunes del Tribunal Estatal Electoral y a los Consejeros Estatales Electorales Propietarios y Suplentes Comunes del Consejo Estatal Electoral, según el procedimiento establecido por esta Constitución y la Ley.
+XIX Bis. Para ratificar o rechazar el nombramiento del Procurador General de Justicia que haga el Ejecutivo del Estado.
+
+> <small>(REFORMADA, B.O. 7 DE OCTUBRE DE 2004)</small>
+
+XX. Para nombrar a los magistrados propietarios y a los magistrados suplentes comunes del Tribunal Estatal Electoral y de Transparencia Informativa y a los consejeros estatales electorales propietarios y suplentes comunes del Consejo Estatal Electoral, según el procedimiento establecido por esta Constitución y la Ley.
 
 > <small>(REFORMADA, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -804,6 +830,10 @@ XXVI. Para crear y suprimir empleos públicos del Estado y señalar, aumentar o 
 > <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
 XXVII. Para autorizar al Ejecutivo y a los Ayuntamientos a fin de que contraigan deudas en nombre del Estado y de los Municipios, respectivamente, fijándoles expresamente las bases a que deban sujetarse, sín contravenir al Artículo 117 de la Constitución General de la República.
+
+> <small>(ADICIONADA, B.O. 7 DE OCTUBRE DE 2004)</small>
+
+XXVII Bis. Para citar al Secretario de Gobierno y los demás Secretarios de Estado, al Procurador General de Justicia, a los directores y administradores de los organismos descentralizados o de las empresas de participación estatal mayoritaria, con el objeto de que quienes sean convocados rindan la información que resulte pertinente cuando se analice una ley o un asunto concerniente a sus respectivos ramos o actividades, especificándose en cada caso si la comparecencia de que se trate se realizará ante el Pleno o ante alguna o algunas de las comisiones del Congreso.
 
 XXVIII. Para conceder amnistías por delitos cuyo conocimiento corresponda privativamente a los Tribunales del Estado.
 
@@ -875,6 +905,10 @@ XLIII Bis. Para instituir Tribunales de lo Contencioso Administrativo dotados de
 
 También podrá instituir Tribunales de Conciliación y Arbitraje que conozcan de las controversias que surjan de la aplicación de las leyes que regulen las relaciones entre los trabajadores del Servicio Civil y los titulares de las entidades y dependencias públicas en que presten sus servicios.
 
+> <small>(ADICIONADA, B.O. 7 DE OCTUBRE DE 2004)</small>
+
+XLIII Bis A. Para promover y difundir en el Estado la cultura de la apertura informativa y del ejercicio del derecho de acceso a la información pública y establecer criterios generales para la catalogación y conservación de documentos.
+
 XLIV. Para expedir las leyes concernientes a la administración y gobierno interior del Estado en todos sus ramos, interpretarlas, aclararlas o derogarlas y hacer efectivas las facultades expuestas y todas las demás que le confieran la Constitución General de la República, esta Local y las leyes que de ellas emanen.
 
 #### SECCION VI.
@@ -915,9 +949,17 @@ VI. Recibir durante sus funciones las protestas que deban otorgarse ante el Cong
 
 VII. Convocar al Congreso a sesiones extraordinarias para que provea el nombramiento respectivo cuando se trate de cubrir las ausencias del Gobernador.
 
-> <small>(ADICIONADA, B.O. 9 DE ABRIL DE 1984)</small>
+> <small>(ADICIONADA, B.O. 7 DE OCTUBRE DE 2004)</small>
 
-VII Bis. Convocar al Congreso a sesiones extraordinarias para que se aboque al conocimiento de los hechos correspondientes, cuando se trate de las faltas u omisiones graves que cometan los servidores públicos a que alude la Fracción I del Artículo 144 de esta Constitución, cuando se trate de los delitos cometidos por los servidores públicos que enumera el primer párrafo del Artículo 146 y, en todos aquellos casos que a juicio de la Diputación Permanente, sean de gravedad y urgencia.
+VII Bis. Convocar al Congreso a sesiones extraordinarias en cualquiera de los siguientes casos:
+
+A). Inmediatamente después de que la Diputación Permanente reciba uno o más dictámenes aprobados por las comisiones dictaminadoras que impliquen la creación, modificación, derogación o abrogación de una ley;
+
+B). En todos aquellos casos de la competencia del Congreso que a juicio de la Diputación Permanente sean de gravedad o urgencia;
+
+C). Cuando se trate de faltas u omisiones cometidas por servidores públicos en la hipótesis de la fracción I del artículo 144 de esta Constitución; y
+
+D). Cuando se trate de la comisión de los delitos de servidores públicos que se previenen por el primer párrafo del artículo 146 de esta Constitución.
 
 VIII. Dictaminar únicamente los asuntos cuya resolución definitiva sea de su exclusiva competencia.
 
@@ -1003,9 +1045,9 @@ VI. No haber figurado, directa o indirectamente, en alguna asonada, motín o cua
 
 VII. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
 
-> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1996)</small>
+> <small>(REFORMADA, B.O. 7 DE OCTUBRE DE 2004)</small>
 
-VIII. No haber sido Magistrado Numerario o Supernumerario del Tribunal Estatal Electoral, ni consejero estatal propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separen del cargo dentro del plazo que establezca la ley.
+VIII. No haber sido magistrado numerario o supernumerario del Tribunal Estatal Electoral y de Transparencia Informativa, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separen del cargo dentro del plazo que establezca la Ley.
 
 ###### Artículo 71.
 
@@ -1107,15 +1149,15 @@ VI. Imponer las sanciones administrativas que determinen las leyes y reglamentos
 
 Imponer asímismo, las sanciones que por infracciones a las Leyes y Reglamentos Gubernativos se señalen en los mismos, cuando en tales Ordenamientos no se especifique qué Autoridad debe imponerlas.
 
-> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADA, B.O. 4 DE OCTUBRE DE 2004)</small>
 
-VII. Presentar cada año ante el Congreso, durante la segunda quincena del mes de noviembre, los Proyectos de Presupuestos de Ingresos y Egresos del Estado, que deberán regir en el año fiscal inmediato siguiente; y, en la primera quincena del segundo período de sesiones ordinarias, la cuenta de gastos del año anterior.
+VII. Presentar cada año ante el Congreso del Estado, durante la primera quincena del mes de noviembre, los proyectos de presupuesto de ingresos y egresos del Estado, que deberán regir en el año fiscal inmediato siguiente, y, en la primera quincena del segundo período de sesiones ordinarias, la cuenta de gastos del año anterior.
 
 > <small>(REFORMADA, B.O. 24 DE SEPTIEMBRE DE 1969)</small>
 
 VIII. Asistir a rendir ante el Congreso, el informe a que se refiere el artículo 46 de esta Constitución.
 
-IX. Concurrir a la apertura de las sesiones extraordinarias que hubiere solicitado del Congreso, con objeto de explicar los motivos en que haya fundado la convocatoria.
+IX. (DEROGADA, B.O. 7 DE OCTUBRE DE 2004)
 
 X. Informar al Congreso por sí, por conducto del Secretario de Gobierno o de la persona que al efecto designe, sobre cualquier ramo de la administración, cuando el mismo Congreso lo solicite.
 
@@ -1159,9 +1201,9 @@ XXII. Hacer observaciones por una sola vez en el improrrogable término de diez 
 
 XXIII. Cuidar de que los fondos públicos, en todo caso, estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la Ley.
 
-> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, B.O. 7 DE OCTUBRE DE 2004)</small>
 
-XXIV. Nombrar y remover libremente a los Secretarios y Subsecretarios, Procurador General de Justicia, y hacer la designación de los Magistrados del Supremo Tribunal de Justicia y de lo Contencioso Administrativo, sometiéndolo a la aprobación del Congreso.
+XXIV. Nombrar y remover libremente a los Secretarios y Subsecretarios, así como nombrar al Procurador General de Justicia, sometiéndolo a la ratificación del Congreso del Estado.
 
 XXV. Nombrar a los oficiales del Registro Civil y fijar la demarcación en que deban ejercer sus funciones.
 
@@ -1395,9 +1437,9 @@ VII. Intervenir en las juntas de vigilancia de cárceles para exigir que se cump
 
 VIII. Informar al Supremo Tribunal sobre los defectos que encontrare en las leyes, así como de las irregularidades o deficiencias que observare en las autoridades encargadas de aplicarlas.
 
-> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADA, B.O. 7 DE OCTUBRE DE 2004)</small>
 
-IX. Rendir a los Poderes del Estado los informes que le pidan sobre asuntos relativos a la institución.
+IX. Rendir al Pleno del Poder Legislativo y al Titular del Poder Ejecutivo los informes que le pidan sobre los asuntos relativos a la institución.
 
 > <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1409,11 +1451,13 @@ X. Las demás que le señalan las leyes, tanto federales como del Estado.
 
 La Ley organizará al Ministerio Público, debiendo estar presidida la Institución por un Procurador General de Justicia del Estado, quien dependerá directamente del Gobernador del Estado.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 98.
 
-El Procurador General de Justicia será nombrado por el Ejecutivo en los términos de la fracción XXIV del Artículo 79 de esta Constitución.
+El Procurador General de Justicia será nombrado por el Gobernador del Estado dentro de los primeros treinta días del inicio de su administración o, en su caso, dentro de los primeros treinta días contados a partir de la salida, por cualquier circunstancia, de quien desempeñe dicho cargo. En todo caso, el nombramiento del Procurador deberá ser ratificado por el Congreso del Estado. El Ejecutivo podrá remover libremente de su cargo al Procurador General de Justicia.
+
+Si por cualquier motivo no se ratifica o es rechazado por el Congreso el nombramiento que formule el Ejecutivo, o no se presenta el ratificado al desempeño de su cargo en un plazo de cinco días hábiles, el Gobernador nombrará uno provisional que no podrá ser la misma persona cuyo nombramiento haya rechazado o denegado el Congreso. El Procurador General de Justicia Provisional durará en su cargo hasta seis meses, plazo durante el cual el Ejecutivo podrá presentar las propuestas que sean necesarias para que el Congreso decida en definitiva.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1421,11 +1465,11 @@ El Procurador General de Justicia será nombrado por el Ejecutivo en los términ
 
 Para ser Procurador General de Justicia se necesitan los mismos requisitos que para ser Magistrado del Supremo Tribunal.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 100.
 
-El Procurador General rendirá la protesta de la Ley ante el Gobernador del Estado.
+El Procurador General de Justicia rendirá la protesta de ley ante el Presidente del Congreso y el Titular del Poder Ejecutivo.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -1707,9 +1751,9 @@ IV. No haber sido condenado por la Comisión de un delito intencional, aún cuan
 
 V. En el caso del Presidente Municipal y el Síndico, tener 21 años cumplidos; tratándose de los Regidores, tener 18 años cumplidos.
 
-> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1996)</small>
+> <small>(REFORMADA, B.O. 7 DE OCTUBRE DE 2004)</small>
 
-VI. No haber sido Magistrado Numerario o Supernumerario del Tribunal Estatal Electoral, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separen del cargo del plazo que establezca la ley.
+VI. No haber sido magistrado numerario o supernumerario del Tribunal Estatal Electoral y de Transparencia Informativa, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separe del cargo dentro del plazo que establezca la Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
@@ -1989,11 +2033,11 @@ De conformidad con las bases establecidas en la legislación secundaria, los Con
 
 Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-(REFORMADO PRIMER PARRAFO, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADO, B.O. 15 DE MARZO DE 2004)
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 143.
 
-Se reputará como servidor público para los efectos de este Título y será responsable por los actos u omisiones en que incurra en el ejercicio de su función, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la Administración Pública Estatal o Municipal, en el Poder Legislativo, en el Poder Judicial, así como los servidores del Consejo Estatal Electoral, Consejos Distritales Electorales, Consejos Municipales Electorales y los del Tribunal Estatal Electoral.
+Se reputará como servidor público para los efectos de este Título y será responsable por los actos u omisiones en que incurra en el ejercicio de su función, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la Administración Pública Estatal o Municipal, en el Poder Legislativo, en el Poder Judicial, así como los servidores del Consejo Estatal Electoral, Consejos Distritales Electorales, Consejos Municipales Electorales y los del Tribunal Estatal Electoral y de Transparencia Informativa.
 
 > <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -2007,9 +2051,9 @@ El Congreso expedirá la Ley de Responsabilidades de los servidores públicos me
 
 I. Responsabilidad política, determinada mediante juicio político, cuando el servidor público, en el ejercicio de sus funciones, incurra en actos u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
 
-(REFORMADO, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADO, B.O. 15 DE MARZO DE 2004)
+> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
 
-Sólo podrán ser sujetos a Juicio Político, los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los Magistrados Regionales de Circuito y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los Subprocuradores, los Secretarios y Subsecretarios, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los Consejeros Estatales Electorales, el Secretario del Consejo Estatal Electoral, los Magistrados y Secretario General del Tribunal Estatal Electoral, Presidentes Municipales, Síndicos, Regidores, Secretarios y Tesoreros de los Ayuntamientos, así como los Directores Generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los Municipios.
+Sólo podrán ser sujetos a juicio político, los diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los Magistrados Regionales de Circuito y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los subprocuradores, los secretarios y subsecretarios, los jueces de primera instancia, los agentes del ministerio público, los consejeros estatales electorales, el secretario del Consejo Estatal Electoral, los magistrados y secretario general del Tribunal Estatal Electoral y de Transparencia Informativa, presidentes municipales, síndicos, regidores, secretarios y tesoreros de los Ayuntamientos, así como los directores generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los Municipios.
 
 Las sanciones consistirán en la destitución del servidor público y, en su caso, la inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
@@ -2033,11 +2077,11 @@ En el caso de que el Gobernador del Estado, Diputados Locales y Magistrados del 
 
 El procedimiento de juicio político, deberá iniciarse durante el tiempo en que el servidor público desempeñe un empleo, cargo o comisión, o dentro del año siguiente al de la conclusión de sus funciones. La (sic) sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
 
-(REFORMADO PRIMER PARRAFO, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADO, B.O. 15 DE MARZO DE 2004)
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 146.
 
-Para proceder penalmente contra el Gobernador, Diputados al Congreso del Estado, Magistrados del Supremo Tribunal de Justicia, Magistrados Regionales de Circuito y del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia, Secretarios y Subsecretarios, Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, Jueces de Primera Instancia y Agentes del Ministerio Público, los Consejeros Estatales Electorales, Secretario del Consejo Estatal Electoral, los Magistrados y Secretario General del Tribunal Estatal Electoral por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará, por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, diputados al Congreso del Estado, magistrados del Supremo Tribunal de Justicia, magistrados Regionales de Circuito y del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia, secretarios y subsecretarios, presidentes municipales, síndicos y regidores de los Ayuntamientos, jueces de primera instancia y agentes del ministerio público, los consejeros estatales electorales, secretario del Consejo Estatal Electoral, los magistrados y secretario general del Tribunal Estatal Electoral y de Transparencia Informativa por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará, por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -2881,23 +2925,41 @@ El Congreso del Estado, al renovar los Consejeros Estatales Electorales, de conf
 
 ###### ARTICULO TERCERO.
 
-Para efectos de dar cumplimiento a la obligación de renovar parcialmente y garantizar la representación de ambos géneros en la integración del Tribunal Estatal Electoral, se procederá de la siguiente manera:
-
-A).- Los actuales Magistrados Numerarios del Tribunal Estatal Electoral, ciudadanos Alfredo López Moreno, Pedro González Avilés y Francisco Peralta Núñez, concluirán el ejercicio de sus funciones a la entrada en vigor de la presente Ley, como consecuencia de la nueva estructura del Tribunal y en virtud de haber fenecido el periodo de su encargo.
-
-B).- De igual manera, en virtud de la nueva estructura del Tribunal Estatal Electoral que propone esta Ley, los actuales Magistrados Supernumerarios, ciudadanos Marco Antonio Encinas Cajigas y Jorge Guadalupe Romero Meneses, concluirán el ejercicio de sus funciones a la entrada en vigor de la presente Ley.
-
-C).- En virtud de la nueva estructura del Tribunal Estatal Electoral que plantea la presente reforma, continuará en el ejercicio de su encargo como Magistrado Propietario el C. Lic. Luis Enrique Pérez Alvidrez, por un período de tres años, contados a partir de la toma de protesta en el cargo. Asimismo, derivado del imperativo que previene garantizar la representación de género, se designa a la actual Magistrada Supernumeraria C. Lic. María Teresa González Saavedra como Magistrada Propietaria del Tribunal Estatal Electoral, por un período de seis años, contados a partir de la toma de protesta en el cargo.
-
-Los ciudadanos Luis Enrique Pérez Alvidrez y María Teresa González Saavedra, deberán rendir protesta del cargo a la entrada en vigor de esta Ley, ante el Pleno o la Diputación Permanente de este Congreso, según sea el caso.
-
-A fin de culminar la integración del Tribunal Estatal Electoral, el Congreso del Estado emitirá convocatoria pública para designar al tercer Magistrado Propietario y a los dos Magistrados Suplentes Comunes, cuyos periodos para el ejercicio de su encargo será de nueve años. En la designación de los Magistrados Suplentes Comunes se respetará el principio de equidad y paridad de género.
+(DEROGADO, B.O. 7 DE OCTUBRE DE 2004)
 
 B.O. 4 DE OCTUBRE DE 2004.
 
 ###### ARTÍCULO ÚNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación, en su caso, que emitan la mitad más uno de los Ayuntamientos del Estado, a todos los cuales se les deberá notificar lo que corresponda para los efectos del artículo 163 de la Constitución Política Local.
+
+B.O. 7 DE OCTUBRE DE 2004.
+
+LEY No. 77, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo, en su caso, que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley para los efectos dispuestos por el artículo 163 de la Constitución Política Local.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto que lleve a cabo el cómputo respectivo y en caso de resultar aprobada la presente Ley, por cuando menos, la mitad más uno de los ayuntamientos de los Municipios de la Entidad, se remita al Titular del Poder Ejecutivo Estatal para su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 7 DE OCTUBRE DE 2004.
+
+LEY No. 78, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo, en su caso, que emitan los Ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley para los efectos dispuestos por el artículo 163 de la Constitución Política Local.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto que lleve a cabo el cómputo respectivo y en caso de resultar aprobada la presente Ley, por cuando menos, la mitad más uno de los Ayuntamientos de los Municipios de la Entidad, se remita al Titular del Poder Ejecutivo Estatal para su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 7 DE OCTUBRE DE 2004.
+
+LEY No. 79, QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCION.
+
+UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo, en su caso, que emitan los Ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley para los efectos dispuestos por el artículo 163 de la Constitución Política Local.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto que lleve a cabo el cómputo respectivo y en caso de resultar aprobada la presente Ley, por cuando menos, la mitad más uno de los Ayuntamientos de los Municipios de la Entidad, se remita al Titular del Poder Ejecutivo Estatal para su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
