@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-poder-judicial-del-estado-de-san-13199"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-10"
-last_updated: "2003-04-22"
+last_updated: "2003-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2003.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de diciembre de 1998.
 
@@ -2109,6 +2109,70 @@ L).- Fecha de recibido;
 
 M).- Observaciones.
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 27 DE MAYO DE 2003)</small>
+
+XI.- Libro de Ordenes de Presentación, en donde se anotarán:
+
+A).- Número de orden;
+
+B).- Fecha de la averiguación y de oficio;
+
+C).- Número de averiguación previa;
+
+D).- Autoridad remitente;
+
+E).- Delito (s);
+
+F).- Nombre del indiciado (s);
+
+G).- Nombre del ofendido (s);
+
+H).- Fecha de resolución y sentido;
+
+I).- Fecha y número de oficio entregado al Representante Social;
+
+J).- Fecha del archivo provisional;
+
+K).- Fecha de salida del archivo;
+
+L).- Fecha de cumplimiento de la orden de aprehensión;
+
+M).- Número de proceso;
+
+N).- Observaciones;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 27 DE MAYO DE 2003)</small>
+
+XII.- Libro de ordenes de Comparecencia, donde se señalarán:
+
+A).- Número de orden;
+
+B).- Fecha de la averiguación y de oficio;
+
+C).- Número de averiguación previa;
+
+D).- Autoridad remitente;
+
+E).- Delito (s);
+
+F).- Nombre del indiciado (s);
+
+G).- Nombre del ofendido (s);
+
+H).- Fecha de resolución y sentido;
+
+I).- Fecha y número de oficio entregado al Representante Social;
+
+J).- Fecha de archivo provisional;
+
+K).- Fecha de salida del archivo;
+
+L).- Fecha de cumplimiento de la orden de aprehensión;
+
+M).- Número de proceso;
+
+N).- Observaciones.
+
 ###### ARTICULO 133.
 
 Para el control de los asuntos que se siguen en los Juzgados Mixtos, el Secretario de Acuerdos llevará los Libros que se llevan tanto en los Juzgados Civiles como en los Juzgados Penales, los cuales se encuentran especificados en los articulos 130 y 132 del presente Reglamento y que les serán entregados por la Presidencia del Supremo Tribunal.
@@ -3806,3 +3870,11 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se abroga el Capítulo Séptimo del Reglamento Interior del Poder Judicial del Estado, que se denomina Del Tribunal Electoral, expedido por el Pleno del Supremo Tribunal de Justicia del Estado el día 12 de Noviembre de 1998, publicado en el Periódico Oficial del Estado, el día 10 de Diciembre de 1998.
 
 TERCERO.- Se derogan todas las disposiciones reglamentarias que se opongan al contenido del presente Reglamento.
+
+P.O. 27 DE MAYO DE 2003.
+
+## [N. DE E. TRANSITORIOS DE LAS “ADICIONES AL ARTÍCULO 132 DEL REGLAMENTO INTERIOR DEL PODER JUDICIAL”.]
+
+PRIMERO.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan a este acuerdo.
