@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "1996-06-05"
+last_updated: "1997-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 1997.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -85,9 +85,9 @@ En estos casos el Ministerio Público podrá retener al indiciado solamente hast
 
 V.- Hará que tanto el ofendido como el presunto responsable, en su caso, sean examinados inmediatamente por los médicos legistas para que dictaminen, con carácter de provisional, acerca del estado psicofisiológico en que se encuentren. Tratándose del presunto responsable se verificará su identidad, para determinar que sea precisamente la persona a la que se refiere la averiguación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JUNIO DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1997)</small>
 
-VI.- Solicitar a la autoridad jurisdiccional las medidas precautorias de arraigo, aseguramiento o embargo que resulten indispensables para la averiguación previa, así como las órdenes de cateo que procedan.
+VI.- Procurar la conciliación entre las partes, en delitos cuya sanción máxima no exceda de tres años de prisión y no sean consideradas como graves, o tengan señalados una pena alternativa.
 
 ###### ARTICULO 4.
 
@@ -104,6 +104,10 @@ IV.- Cuando de las diligencias practicadas se desprenda plenamente que el inculp
 V.- Cuando los hechos de que conozca hayan sido materia de diverso procedimiento penal, concluído con sentencia ejecutoria;
 
 VI.- En los casos señalados por el artículo 72, segundo párrafo, del Código Penal.
+
+(ADICIONADA, P.O. 29 DE ENERO DE 1997) (F. DE E., P.O. 1 DE AGOSTO DE 1997)
+
+VII.- Cuando se logre la conciliación entre las partes en los casos establecidos en la fracción VI del Artículo anterior.
 
 El Procurador, oyendo la opinión de sus agentes auxiliares, será quien en definitiva decida si se ejercita o no la acción penal. Contra dicha resolución, no cabe recurso alguno.
 
@@ -214,6 +218,10 @@ Si se cometiera uno o más delitos en dos o más distritos del Estado, será com
 ###### ARTICULO 17.
 
 En los casos de concurso material de delitos del orden común, la competencia se fijará atendiendo al delito que merezca mayor sanción; y a la privativa de libertad, cuando se señalen varias de distinta naturaleza.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 1997)</small>
+
+En caso de concurso de delitos del fuero común que tengan conexidad con delitos federales, la competencia se fijará conforme a lo dispuesto en el Código Federal de Procedimientos Penales.
 
 ###### ARTICULO 18.
 
@@ -351,9 +359,11 @@ Los Tribunales deben ordenar de oficio los trámites y providencias encaminados 
 
 La iniciación de todo procedimiento judicial será comunicada al Tribunal Superior de Justicia del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 40.
 
-Las promociones verbales de las partes durante el procedimiento, que no sean de las que se formulen en el acto de una notificación, podrán hacerse ante los Secretarios, así como la ratificación de las que se hagan por escrito cuando aquélla se ordena. De todos ellos se tomará razón escrita.
+Las promociones e informes verbales que se reciban durante el procedimiento, que no sean de las que se formulen en el acto de una notificación, podrán hacerse ante los Secretarios, así como la ratificación de las que se hagan por escrito cuando aquélla se ordena. De todos ellos se tomará razón escrita. Lo mismo se observará cuando el informe se reciba vía telefónica.
 
 En caso de urgencia, los Magistrados o Jueces podrán comisionar a sus Secretarios para la práctica de cualquier acto judicial, incluyendo las notificaciones.
 
@@ -371,11 +381,13 @@ Si las faltas llegaren a constituir delito, se hará del conocimiento del Minist
 
 El Ministerio Público, dentro de la averiguación previa, podrá imponer las correcciones disciplinarias que este Código señala, por las faltas que cometan las personas que en ella participen.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 44.
 
-Contra cualquiera providencia en que se imponga alguna corrección disciplinaria, se oirá al interesado, si lo solicita dentro de las veinticuatro horas siguientes a la en que tenga conocimiento de ella.
+Cuando se imponga alguna corrección disciplinaria, se oirá al interesado dentro de las veinticuatro horas siguientes a la en que se le haga saber de ésta.
 
-En vista de lo que manifieste el interesado, el que la hubiere impuesto resolverá lo que estime procedente.
+En vista de lo que manifieste el interesado, se resolverá lo procedente.
 
 ###### ARTICULO 45.
 
@@ -563,7 +575,9 @@ Cuando en la averiguación previa el Ministerio Público requiera la práctica d
 
 El cateo se practicará por el Ministerio Público que lo solicite, al concluir el cual se levantará acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado, y en su ausencia o negativa, por quien practique la diligencia.
 
-Cuando no se cumplan estos requisitos, la diligencia carecerá de eficacia, sin que sirva de excusa el consentimiento de los ocupantes del lugar.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
+
+Si el Juez niega la práctica del cateo, se estará a lo dispuesto en el Artículo 200 de este Código.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
@@ -925,6 +939,10 @@ Se entiende que hay delito flagrante cuando el indiciado es detenido en el momen
 
 4) Existan huellas o indicios que hagan presumir fundadamente su intervención en la comisión del delito.
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 1997)</small>
+
+Lo anterior siempre y cuando no haya transcurrido un plazo de setenta y dos horas, desde la comisión de los hechos delictuosos.
+
 Se entiende que existe caso urgente cuando el Ministerio Público exprese y funde los indicios que acrediten:
 
 a).- Que el indiciado haya intervenido en la comisión de alguno de los casos señalados como delitos graves en el código penal;
@@ -969,9 +987,11 @@ El Ministerio Público, en su caso, de oficio o a petición de parte, verificar�
 
 6) Comunicará de inmediato la detención a la Representación Diplomática o Consular que corresponda, si el detenido es un extranjero.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 136.
 
-No se procederá a la detención de personas mayores de 70 años o de mujeres en estado de embarazo, o en período de puerperio, o bien, cuando no hubieren transcurrido 40 días después del parto; a menos que se les impute la comisión de un delito cuya pena en su término medio aritmético exceda de 5 años.
+No se procederá a la detención de personas mayores de 70 años o de mujeres en estado de embarazo, o en período de puerperio, o bien, cuando no hubieren transcurrido cuarenta días después del parto; a menos que se les impute la comisión de un delito grave.
 
 Lo mismo se observará tratándose de la ejecución de orden de aprehensión y detención pero no de la ejecución de sanciones.
 
@@ -993,21 +1013,23 @@ Tratándose de los delitos culposos con motivo del tránsito de vehículos, en d
 
 (DEROGADO, P.O. 21 DE OCTUBRE DE 1994)
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 139.
 
-Cuando con motivo de una averiguación previa el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta las características del hecho imputado y las circunstancias personales de aquél, recurrirá al órgano jurisdiccional, fundando y motivando su petición, para que éste, oyendo al indiciado, resuelva el arraigo con vigilancia de la autoridad, que ejercerán el Ministerio Público y sus auxiliares. El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de 30 días, prorrogables por igual término a petición del Ministerio Público por una sola vez. El Juez resolverá, escuchando al Ministerio Público y al arraigado, sobre la subsistencia o el levantamiento del arraigo.
+Cuando con motivo de una averiguación previa el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta las características del hecho imputado y las circunstancias personales de aquél, recurrirá al órgano jurisdiccional, fundando y motivando su petición, para que éste resuelva de plano el arraigo con vigilancia de la autoridad, que ejercerán el Ministerio Público y sus auxiliares. El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de 30 días, prorrogables por igual término a petición del Ministerio Público. El Juez resolverá, escuchando al Ministerio Público y al arraigado, sobre la subsistencia o el levantamiento del arraigo.
+
+Se entiende por arraigo la medida decretada por la autoridad judicial consistente en obligar a un indiciado o testigo a permanecer por determinado tiempo en su domicilio, en un municipio determinado o en el territorio del Estado, a disposición de la autoridad ordenadora.
 
 ###### ARTICULO 140.
 
 Toda mujer que sea detenida en prisión preventiva, lo será en lugar distinto y separado del de los varones, y su custodia será encomendada a personal exclusivamente femenino.
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 141.
 
-Cuando por la naturaleza del delito, de la pena aplicable al imputado o las circunstancias personales del mismo, no deba ser internado en prisión preventiva y existan elementos para suponer que podrá sustraerse a la acción de la justicia, el Ministerio Público podrá solicitar al juez, fundada y motivadamente, o éste disponer de oficio, con audiencia del imputado, el arraigo de éste con las características y por el tiempo que el juzgador señale, sin que en ningún caso pueda exceder del máximo señalado en el artículo 139 tratándose de la averiguación previa, o bien en el proceso por el término constitucional en que éste deba resolverse.
+Cuando por la naturaleza del delito, de la pena aplicable al imputado o de las circunstancias personales del mismo, no deba ser internado en prisión preventiva y existan elementos para suponer que podría sustraerse a la acción de la justicia, el Ministerio Público podrá solicitar al Juez, fundada y motivadamente, o éste disponer de oficio durante el proceso, el arraigo del indiciado con las características y por el tiempo que el juzgador señale, sin que en ningún caso pueda exceder del máximo señalado en el Artículo 139 tratándose de la averiguación previa, o bien en el proceso por el término constitucional en que éste deba resolverse, a excepción de aquellos delitos para los cuales la ley señale pena alternativa.
 
 ###### ARTICULO 142.
 
@@ -1337,17 +1359,17 @@ En caso de que la detención de una persona exceda de los términos señalados e
 
 El Ministerio Público podrá otorgar la libertad bajo caución del inculpado en los supuestos previstos por el artículo 493, fijando la caución que corresponda conforme al artículo 20 fracción I de la Constitución Política de los Estados Unidos Mexicanos y 497 de este código, sin perjuicio de solicitar su Arraigo en caso necesario.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
 
-Cuando se otorgue la libertad caucional durante la averiguación previa, se prevendrá al iniciado de que comparezca cuantas veces se le requiera para la práctica de diligencias; y ante el Juez a quien se consigne, concluida la averiguación, quien ordenará su presentación. Si no comparece sin causa y comprobada, previa solicitud del Ministerio Público adscrito, ordenará su aprehensión y mandará hacer efectiva la garantía otorgada.
+Cuando en el curso de la averiguación aparecieren modificadas las condiciones que existían en el momento de concederse la libertad provisional bajo caución, el Ministerio Público podrá variar el monto de la garantía otorgada, sujetándose a las reglas contenidas en el Capítulo respectivo.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
 
-La garantía se devolverá por el Ministerio Público, cuando se resuelva el no ejercicio de la acción penal. Consignado el caso, tal garantía se considerará prorrogada ante el Juez.
+El Ministerio Público podrá hacer efectiva la garantía si el indiciado no acatare, sin causa justificada, las disposiciones que el primero dictare.
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
 
-Cuando el delito merezca pena alternativa o no privativa de libertad, se dispondrá la libertad sin necesidad de caución y sin perjuicio de pedir el arraigo correspondiente.
+La garantía se devolverá por el Ministerio Público cuando se resuelva el no ejercicio de la acción penal. Consignado el caso, tal garantía se considerará prorrogada ante el Juez, hasta en tanto no se decida su modificación o cancelación.
 
 ## TITULO QUINTO. INSTRUCCION
 
@@ -1389,9 +1411,11 @@ La orden de aprehensión que el juez dicte, se entregará al Ministerio Público
 
 Siempre que se lleve a cabo una aprehensión en virtud de orden judicial, la Policía Judicial, asentando la fecha y hora de la detención, está obligada a poner al detenido, sin dilación alguna y bajo su más estricta responsabilidad, a disposición del juez respectivo. La contravención a lo previsto en este artículo se sancionará conforme lo dispone el Código Penal.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 200.
 
-Cuando no existan méritos bastantes, conforme al artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, para ordenar la aprehensión del inculpado, el juez, una vez decretada la negativa, solo podrá volver a actuar en la causa, en virtud de nueva solicitud de orden de aprehensión, por parte del Ministerio Público, apoyada en pruebas diversas a las anteriores consideradas por la autoridad judicial, y desahogadas ante ésta.
+Si el Juez niega la orden de aprehensión, de comparecencia o de cateo, por considerar que no están reunidos los requisitos de los Artículos 16 de la Constitución Política de los Estados Unidos Mexicanos y 197 de este Código, y se solicitare la práctica de nuevas pruebas, se regresará el expediente al Ministerio Público investigador a efecto de que las desahogue, estando facultado para solicitar de nueva cuenta la orden de aprehensión, de comparecencia o de cateo apoyado en pruebas diversas a las anteriores ya consideradas por la autoridad judicial.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 21 DE OCTUBRE DE 1994)</small>
 
@@ -1417,33 +1441,53 @@ La declaración preparatoria se desahogará en audiencia pública, sin que en el
 
 En ningún caso y por ningún motivo, podrá el juez emplear la incomunicación, la intimidación, la tortura o cualquier otro medio de coacción para obligar al detenido a declarar.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 204.
 
 El Juez está obligado a hacer saber al inculpado, en este acto:
 
-I.- El motivo de su detención, leyéndole la denuncia o la querella; el nombre de la persona o personas que le imputan la comisión del delito o delitos, la naturaleza y causa de la acusación, para que conozca bien el hecho punible que se le atribuye y pueda contestar al cargo;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1997)</small>
+
+I.- El motivo de la acusación leyéndole la denuncia o la querella, el nombre de la persona o personas que le imputan la comisión del delito o delitos, la naturaleza y causa de la acusación para que conozca bien el hecho punible que se le atribuye y pueda contestar al cargo;
+
+> <small>(REFORMADA P.O. 21 DE OCTUBRE DE 1994)</small>
 
 II.- La garantía de libertad caucional, en los casos en que proceda, y el procedimiento para obtenerla;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
 
 III.- Que tiene derecho a una adecuada defensa, por abogado, por sí o por persona de su confianza. Si no quiere o no puede nombrar un defensor, después de ser requerido para ello, el Juez le nombrará uno de oficio.
 
 En caso de que la designación recaiga sobre quien no tenga cédula profesional de licenciado en derecho o autorización de pasante, conforme a la Ley que reglamente el ejercicio de las profesiones, el Tribunal dispondrá que intervenga, además del designado, un defensor de oficio que oriente a aquél, y directamente al propio inculpado, en todo lo que concierne a su adecuada defensa;
 
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
+
 IV.- Que tiene derecho a que el defensor se halle presente en todos los actos del juicio y éste (sic) obligación de comparecer cuantas veces se le requiera;
 
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
+
 V.- Que tiene derecho a no declarar. O declarar, si ese es su deseo, asistido por defensor;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
 
 VI.- Que tiene derecho a que se le designe un traductor que le hará saber los derechos anteriores y le asistirá en todos los actos procedimentales sucesivos y en la correcta comunicación con el defensor, cuando el detenido sea un indígena o un extranjero que no entienda suficientemente el castellano.
 
 El juez, en su caso, de oficio o a petición de parte, verificará que perdure ese canal de comunicación; y si lo estimare prudente, podrá nombrar el defensor o el traductor que mejoren dicha comunicación;
 
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
+
 VII.- Que tiene derecho, si el inculpado es extranjero, a que se comunique a la Representación Diplomática o Consular que corresponda;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
 
 VIII.- Que se le recibirán todos los testigos y las pruebas que ofrezca en los términos de ley, auxiliándosele para obtener la comparecencia de las personas que indique, siempre que éstas estén domiciliadas en el lugar del juicio y que le serán facilitados, para su defensa, todos los datos que solicite y que consten en el proceso;
 
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
+
 IX.- Que tiene derecho, si así lo solicita, a ser careado con los testigos que depusieron en su contra para que pueda hacerles todas las preguntas conducentes a su defensa; y
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
 
 X.- Que tiene derecho a ser juzgado antes de cuatro meses si se trata de delito cuya pena máxima no exceda de dos años de prisión y antes de un año si la pena excediere de ese tiempo, salvo que solicite mayor plazo para su defensa.
 
@@ -1499,9 +1543,13 @@ La formal prisión se pronunciará cuando se reúnan los siguientes requisitos:
 
 I.- Que se haya tomado declaración preparatoria del inculpado, en la forma y con los requisitos que establece el capítulo anterior, o bien que conste en el expediente que se rehusó a declarar;
 
-II.- Que el delito que se impute al detenido tenga señalada sanción privativa de libertad y de lo actuado aparezcan datos suficientes que acrediten los elementos del tipo; y
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1997)</small>
 
-III.- Que de lo actuado aparezcan datos suficientes que hagan probable la responsabilidad del detenido.
+II.- Que el delito que se impute al inculpado tenga señalada sanción privativa de libertad y de lo actuado aparezcan datos suficientes que acrediten los elementos del tipo; y
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1997)</small>
+
+III.- Que de lo actuado aparezcan datos suficientes que hagan probable la responsabilidad del inculpado.
 
 El plazo al que se refiere el párrafo primero de este artículo, se duplicará únicamente cuando lo solicite el inculpado, o su defensor, al rendir su preparatoria o dentro de las tres horas siguientes, siempre que sea con la finalidad de aportar y desahogar pruebas para que el Juez resuelva su situación jurídica.
 
@@ -1921,7 +1969,9 @@ La citación puede hacerse verbalmente al testigo, donde quiera que se encuentre
 
 Cuando no se pueda hacer la citación verbalmente, se hará por cédula, la cual será entregada por personal del juzgado o por los Auxiliares del Ministerio Público directamente a la persona citada, quien deberá firmar el recibo correspondiente en la copia de la cédula, o bien estampar en ésta sus huellas digitales cuando no sepa firmar; si se negare a hacerlo, el personal comisionado asentará éste hecho y el motivo que el citado expresare para su negativa.
 
-Cuando el caso lo permita, podrá enviarse la cédula por correo, en sobre cerrado y sellado, con acuse de recibo.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
+
+Cuando el caso lo permita, podrá enviarse la cédula por correo, en sobre cerrado y sellado, con acuse de recibo, o por cualquier otro medio, debiendo certificar esta circunstancia el Secretario del Juzgado.
 
 ###### ARTICULO 280.
 
@@ -2015,7 +2065,9 @@ Si de la instrucción aparecieren presunciones bastantes, para sospechar que alg
 
 Cuando hubiere de ausentare alguna persona que puede declarar acerca del delito, de sus circunstancias, o de la persona del inculpado, el Tribunal, a solicitud del reo, su defensor o la parte ofendida, podrá arraigar al testigo por el tiempo que fuere estrictamente indispensable para que rinda su declaración, sin que en ningún caso exceda de treinta días. Igualmente, el Ministerio Público tanto durante la averiguación previa como durante la instrucción, podrá solicitar al Juez el arraigo de testigo en el caso previsto en la primera parte.
 
-Si del procedimiento resultare que el testigo o indiciado fue arraigado indebidamente, tendrá derecho de exigir que se le indemnice por el o los particulares, los funcionarios solicitantes y ordenadores subsidiariamente con el Estado, por los daños y perjuicios causados por el arraigo.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
+
+Si del procedimiento resultare que el testigo fue arraigado indebidamente, tendrá derecho de exigir que se le indemnice por el o los particulares solicitantes, o por el Estado cuando el solicitante sea el Ministerio Público, por los daños y perjuicios causados por el arraigo.
 
 ###### ARTICULO 296.
 
@@ -2427,7 +2479,9 @@ El trámite de la aclaración interrumpe el plazo señalado para interponer la a
 
 El sobreseimiento procederá en los casos siguientes:
 
-I.- Cuando aparezca que la responsabilidad penal está extinguida;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1997)</small>
+
+I.- Cuando aparezca que la responsabilidad penal está extinguida, o se logre la conciliación en términos del Artículo 111 del Código Penal;
 
 II.- Que la pretensión punitiva está legalmente extinguida, o que existe en favor del inculpado una causa excluyente de responsabilidad;
 
@@ -2445,9 +2499,9 @@ VIII.- Cuando esté plenamente comprobado que en favor del inculpado existe algu
 
 IX.- Cuando el Procurador General de Justicia del Estado confirme o formule conclusiones no acusatorias.
 
-En los casos de sobreseimiento siempre será el Juez el que decida si procede o no la solicitud del Ministerio Público.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
 
-En ningún caso procederá el sobreseimiento en Segunda Instancia.
+Sólo en el caso de la fracción I de este Artículo procederá el sobreseimiento en segunda instancia.
 
 ###### ARTICULO 370.
 
@@ -2975,7 +3029,9 @@ I.- Cuando el responsable se hubiere sustraído a la acción de la justicia;
 
 II.- Cuando se advierta que el delito por el que se está procediendo es de aquellos que no pueden perseguirse sin previa querella del ofendido, y ésta no ha sido presentada, o cuando no se ha satisfecho un requisito previo que la Ley exija para que pueda incoarse el procedimiento. En estos casos, decretada la suspensión, se pondrá en absoluta libertad al procesado;
 
-III.- Cuando enloquezca el procesado, cualquiera que sea el estado del proceso;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1997)</small>
+
+III.- Cuando enloquezca el procesado, cualquiera que sea el estado del proceso. En este caso se observará lo dispuesto en el Título Décimo de este Código;
 
 IV.- Cuando no exista auto de formal prisión o de sujeción a proceso, y se llenen además los siguientes requisitos:
 
@@ -3445,6 +3501,8 @@ La ejecución de la sentencia, en lo relativo a la reparación del daño y perju
 
 ### CAPITULO TERCERO. CONVERSION, CONMUTACION Y SUBSTITUCION DE SANCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 517.
 
 (DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
@@ -3485,7 +3543,7 @@ La ejecución de la sentencia, en lo relativo a la reparación del daño y perju
 
 ###### ARTICULO 526.
 
-El órgano jurisdiccional podrá convertir de oficio o a petición de parte la pena de prisión no mayor de dos años por una pena de multa siempre y cuando se trate de delincuentes primarios.
+El órgano jurisdiccional podrá convertir de oficio o a petición de parte la pena de prisión no mayor de tres años por una pena de multa, siempre y cuando se trate de delincuentes primarios, señalando en su sentencia la primera.
 
 En la sentencia deberá fijarse la sanción de prisión que procediera, y fundase (sic) y razonarse la conversión que se decrete, apreciando las condiciones personales del condenado y las económicas, para fijar el monto de la multa.
 
@@ -3548,6 +3606,10 @@ Al que una vez se le hubiere concedido la rehabilitación, nunca se le podrá co
 ###### ARTICULO 539.
 
 Después de tres años de haberse cumplido la pena impuesta; de seis años, si se trata de reincidente, y de nueve si se trata de habitual, los registros o anotaciones de cualquiera clase, relativos a la condena impuesta, no podrán ser comunicados a ninguna entidad o persona, con excepción de las Autoridades judiciales, Ministerio Público o Policiales, para fines exclusivos de la investigación.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 1997)</small>
+
+Tratándose de primarios, transcurrido un tiempo igual a la sentencia, más una cuarta parte sin que sea inferior a tres años, la autoridad correspondiente, previa evaluación, podrá otorgar Carta de No Antecedentes Penales, quedando el mismo, sólo para efectos de información administrativa.
 
 ### CAPITULO UNICO. JUICIOS DE RESPONSABILIDAD
 
@@ -3700,3 +3762,9 @@ Los asuntos que se encuentren en trámite al entrar en vigor estas reformas, seg
 P.O. 5 DE JUNIO DE 1996.
 
 UNICO:- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE ENERO DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
