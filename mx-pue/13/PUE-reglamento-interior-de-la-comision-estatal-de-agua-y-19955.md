@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-comision-estatal-de-agua-y-19955"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-12-17"
-last_updated: "1997-12-17"
+last_updated: "2000-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA COMISION ESTATAL DEL AGUA Y SANEAMIENTO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2000.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 17 de diciembre de 1997.
 
@@ -69,29 +69,49 @@ II. Un Administrador General.
 
 La Comisión Estatal para el estudio, la planeación, la programación, la coordinación, la ejecución, el desarrollo, la evaluación, el apoyo y el control de los servicios y de la realización de las actividades que tiene encomendados, contará con los siguientes Órganos Auxiliares y Servidores Públicos, así como con las Direcciones Administrativas, que a continuación se mencionan:
 
-I.- Coordinación Técnica.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2000)</small>
 
-II.- Dirección Jurídica.
+I.- Coordinación Técnica;
 
-III.- Unidad de Desarrollo Administrativo.
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2000)</small>
 
-IV.- Dirección de Planeación.
+II.- Coordinación de Planeación y Administración;
 
-V.- Dirección de Proyectos.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2000)</small>
 
-VI.- Dirección de Construcción y Supervisión.
+III.- Dirección Jurídica;
 
-VII.- Dirección de Apoyo y Coordinación con Municipios y Organismos Operadores.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2000)</small>
 
-VIII.- Dirección Administrativa.
+IV.- Unidad de Desarrollo Administrativo;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2000)</small>
+
+V.- Dirección de Planeación;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2000)</small>
+
+VI.- Dirección de Proyectos;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2000)</small>
+
+VII.- Dirección de Construcción y Supervisión;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2000)</small>
+
+VIII.- Dirección de Apoyo y Coordinación con Municipios y Organismos Operadores; y
+
+IX- Dirección Administrativa.
 
 La Comisión Estatal, igualmente podrá contar con Órganos Administrativos Desconcentrados que con el carácter de Órganos Operadores formarán parte de la misma y tendrán a su cargo la prestación del Servicio Público de Agua Potable y Alcantarillado incluyendo el Saneamiento, en aquellos Municipios que hayan solicitado el concurso de la Comisión para la prestación de dichos servicios.
 
 Estos Órganos se regularán en los términos señalados en el Capítulo III de la Ley de Agua y Saneamiento del Estado de Puebla.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 5.
 
-La Coordinación Técnica, Direcciones y Unidad de Desarrollo Administrativo de la Comisión Estatal realizarán sus actividades en forma programada y de acuerdo con las políticas, lineamientos y estrategias que establezcan el Consejo de Administración y el Administrador General, en el ámbito de sus respectivas atribuciones.
+La Coordinación Técnica, la Coordinación de Planeación y Administración, las Direcciones y la Unidad de Desarrollo Administrativo de la Comisión Estatal, realizarán sus actividades en forma programada y de acuerdo a las políticas, lineamientos y estrategias que establezca el Consejo de Administración y el Administrador General, en el ámbito de sus respectivas atribuciones.
 
 ### CAPITULO II. Consejo de Administración
 
@@ -197,13 +217,17 @@ XXIV.- Mantener un sistema permanente de información, educación y toma de conc
 
 XXV.- Realizar las demás funciones que se requieran para el mejor desempeño de las anteriores facultades y atribuciones, así como de las que se le asignen en otras Leyes aplicables, o le encomiende expresamente el Ejecutivo, el Consejo, la Ley de Agua y Saneamiento del Estado de Puebla y su Reglamento.
 
-### CAPITULO IV. Coordinador Técnico
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE AGOSTO DE 2000)</small>
+
+### CAPITULO IV. De las Coordinaciones
 
 ###### Artículo 18.
 
 El Coordinador Técnico dependerá directamente del Administrador General y acordará con dicho funcionario los asuntos de su competencia y tendrá las siguientes atribuciones:
 
-I.- Dirigir, controlar y evaluar las acciones de las áreas de planeación, proyectos de operación y de construcción.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2000)</small>
+
+I. Dirigir, controlar y evaluar las acciones de las áreas de proyectos, construcción y supervisión así como de apoyo y coordinación;
 
 II.- Apoyar las acciones de coordinación con Dependencias de los tres niveles de Gobierno para trámites de asuntos relacionados con la materia.
 
@@ -211,13 +235,15 @@ III.- Dar el trámite correspondiente a las consultas de las áreas técnicas so
 
 IV.- Recopilar la información de las áreas técnicas para someterlas a consideración del Titular.
 
-V.- Proporcionar a los Ayuntamientos y Organismos Operadores, la asesoría y apoyo técnico para la regulación de los servicios de agua potable, alcantarillado y saneamiento a ese cargo.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2000)</small>
+
+V.- Proporcionar a los Ayuntamientos y Organismos Operadores, la asesoría y apoyo técnico para la regulación de los servicios de agua potable, alcantarillado y saneamiento a su cargo;
 
 VI.- Recopilar la información para la formulación de los informes trimestral y anual que deba rendir el Titular al Consejo de Administración.
 
 VII.- Participar en la revisión y evaluación de los planes y programas.
 
-VlII.- Realizar reuniones de evaluación y control de las áreas a su cargo.
+VIII.- Realizar reuniones de evaluación y control de las áreas a su cargo.
 
 IX.- Ejecutar los acuerdos del C. Administrador General.
 
@@ -225,11 +251,49 @@ X.- Proponer al Administrador General, políticas, procedimientos, programas y a
 
 XI.- Controlar y evaluar las acciones para optimizar la calidad del agua, que una vez utilizada se vierta en los cauces y vasos.
 
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2000)</small>
+
+###### Artículo 18 Bis.
+
+El Coordinador de Planeación y Administración dependerá directamente del Administrador General, acordará con dicho funcionario los asuntos de su competencia y tendrá las siguientes atribuciones:
+
+I.- Dirigir, controlar, evaluar y supervisar las acciones de las áreas de planeación y administración;
+
+II.- Apoyar las acciones de coordinación con Dependencias de los tres niveles de Gobierno para dar trámite a los asuntos relacionados con la materia;
+
+III.- Dar el trámite y resolución correspondiente, a las consultas de las áreas de planeación y administración sometiéndolas en su caso a consideración del Titular;
+
+IV.- Recopilar la información de las áreas de planeación y administración, para someterlas a consideración del Titular;
+
+V.- Proporcionar a los Ayuntamientos y Organismos Operadores, la asesoría, apoyo de planeación y administración para la regulación de los servicios de agua potable, alcantarillado y saneamiento a su cargo;
+
+VI.- Hacer acopio de la información, para la formulación de los informes trimestrales y anual que deba rendir el Titular del Consejo de Administración;
+
+VII.- Participar en la revisión y evaluación de los planes y programas hidráulicos del Estado y de la propia Comisión;
+
+VIII.- Realizar reuniones de evaluación y control de las áreas a su cargo;
+
+IX.- Ejecutar los acuerdos del Administrador General;
+
+X.- Proponer al Administrador General, políticas, procedimientos, programas y acciones que permitan a la Comisión Estatal, lograr efectividad en los servicios que la población del Estado requiera;
+
+XI.- Analizar en coordinación con las áreas respectivas, la rentabilidad económica de los proyectos de inversión de la Comisión Estatal, a fin de evaluar los beneficios económicos y sociales que justifiquen los costos, riesgos y esfuerzos que impliquen su ejecución;
+
+XII.- Participar en la elaboración de estudios y análisis económico financieros, con objeto de determinar las tarifas aplicables a los servicios que presta la Comisión Estatal;
+
+XIII.- Formular pronósticos de la demanda de los servicios que presta la Comisión Estatal con el objeto de planear y programar el desarrollo de éstos;
+
+XIV.- Promover la modernización administrativa y operativa de la Comisión; y
+
+XV.- Formular el presupuesto de ingresos y egresos, gastos de capital y gasto corriente, así como de operación de la Comisión.
+
 ### CAPITULO V. Dirección Jurídica
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 19.
 
-El Director de Asuntos Jurídicos dependerá directamente del Administrador General y acordará con dicho funcionario los asuntos de su competencia y tendrá las siguientes atribuciones:
+El Director Jurídico dependerá directamente del Administrador General, acordará con dicho funcionario los asuntos de su competencia y tendrá las siguientes atribuciones:
 
 I.- Representar a la Comisión Estatal ante toda clase de autoridades y particulares en los asuntos en que sea parte y que afecten o puedan afectar sus intereses jurídicos, o el desempeño normal de sus funciones.
 
@@ -285,9 +349,11 @@ XIII.- Realizar las demás actividades necesarias para el mejor desempeño de su
 
 ### CAPITULO VII. Dirección de Planeación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 21.
 
-El Director de Planeación dependerá directamente del Coordinador Técnico y acordará con dicho funcionario los asuntos de su competencia y tendrá las siguientes atribuciones:
+El Director de Planeación dependerá directamente del Coordinador de Planeación y Administración, acordará con dicho funcionario los asuntos de su competencia y tendrá las siguientes atribuciones:
 
 I.- Formular las propuestas de planes y programas de corto, mediano y largo plazo del Organismo y operar los instrumentos de evaluación y control correspondientes.
 
@@ -297,7 +363,7 @@ III.- Apoyar la participación de la Comisión Estatal en el seno del Comité de
 
 IV.- Planear a corto, mediano y largo plazo, el desarrollo de la Comisión Estatal a través del programa institucional y de los correspondientes programas operativos anuales, conforme a los lineamientos establecidos en el Plan Estatal de Desarrollo y de acuerdo con las indicaciones que el Administrador General le señale al respecto.
 
-V.- Formular pronósticos de demanda de los servicios que presta la Comisión Estatal con el objeto de planear y programar el desarrollo de éstos.
+V.- (DEROGADA, P.O. 7 DE AGOSTO DE 2000)
 
 VI.- Establecer en coordinación con las distintas áreas de la Comisión Estatal, los objetivos y las metas de servicios que las mismas deben alcanzar para la adecuada atención a las demandas de los usuarios.
 
@@ -305,7 +371,7 @@ VII.- Determinar el mejor aprovechamiento de los recursos de la Comisión Estata
 
 VIII.- Participar en la realización de los estudios que sirvan de base para programar los proyectos de obras y servicios que realizará y prestará la Comisión Estatal a corto, mediano y largo plazo, así como de aquéllos relacionados con el posible otorgamiento de concesiones en coordinación con las Unidades Administrativas correspondientes.
 
-IX.- Participar en la elaboración, estudios y análisis económicos y financieros, con objeto de determinar las tarifas aplicables a los servicios que presta la Comisión Estatal.
+IX.- (DEROGADA, P.O. 7 DE AGOSTO DE 2000)
 
 X.- Establecer, en coordinación con las demás áreas, un sistema integral de información, acorde con las necesidades de la Comisión Estatal, mediante el adecuado aprovechamiento del equipo electrónico de datos.
 
@@ -317,7 +383,7 @@ XIII.- Promover el intercambio de información sistematizada a las Unidades Admi
 
 XIV.- Hacer cumplir las medidas de seguridad en las instalaciones, equipos y soporte lógico de los sistemas informáticos de la Comisión Estatal, conforme a los lineamientos establecidos.
 
-XV.- Analizar, en coordinación con las áreas respectivas, la rentabilidad económica de los proyectos de inversión de la Comisión Estatal, a fin de evaluar los beneficios económicos y sociales que justifiquen los costos, riesgos y esfuerzos que implique su ejecución.
+XV.- (DEROGADA, P.O. 7 DE AGOSTO DE 2000)
 
 XVI.- Coordinar la formulación de los presupuestos de ingresos, gastos de capital y gasto corriente de operación, con la colaboración de las demás áreas de la Comisión Estatal.
 
@@ -327,7 +393,9 @@ XVIII.- Llevar a cabo los estudios corporativos que posibiliten el más amplio d
 
 XIX.- Elaborar, en coordinación con las áreas respectivas, los manuales de organización, de procedimientos y de servicios de la Comisión, vigilando que se mantengan actualizados y en su caso evaluar e informar sobre su cumplimiento.
 
-XX.- Realizar las demás actividades necesarias para el mejor desempeño de sus atribuciones y las que le encomiende el Administrador General a través del Coordinador Técnico; y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2000)</small>
+
+XX.- Realizar las demás actividades necesarias para el mejor desempeño de sus atribuciones y las que le encomiende el Administrador General a través del Coordinador de Planeación y Administración; y
 
 XXI.- Las que le asigne la Ley y este Reglamento.
 
@@ -437,9 +505,11 @@ XXIII.- Las demás que le asigne la Ley y este Reglamento.
 
 ### CAPITULO XI. Dirección Administrativa
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 25.
 
-El Director Administrativo dependerá directamente del Administrador General y acordará con dicho funcionario los asuntos de su competencia y tendrá las siguientes atribuciones:
+El Director Administrativo dependerá directamente del Coordinador de Planeación y Administración, acordará con dicho funcionario los asuntos de su competencia y tendrá las siguientes atribuciones:
 
 I.- Proponer y coordinar las políticas y funciones referentes a la administración de los recursos humanos, materiales y financieros de la Comisión Estatal.
 
@@ -495,7 +565,9 @@ XXVI.- Obtener las autorizaciones y los permisos que se requieran para la adquis
 
 XXVII.- Promover y realizar las acciones necesarias para que la Comisión Estatal cuente con un sistema de informática para su operación, así como de los estudios cartográficos y de apoyos técnicos y programas de soporte informático que se requieran.
 
-XXVIII.- Realizar las demás actividades necesarias para el mejor desempeño de sus atribuciones o las que le encomiende expresamente el Administrador General; y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2000)</small>
+
+XXVIII.- Realizar las demás actividades necesarias para el mejor desempeño de sus atribuciones o las que le encomiende expresamente el Coordinador de Planeación y Administración; y
 
 XXIX.- Las demás que le asigne la Ley y este Reglamento.
 
@@ -574,3 +646,19 @@ Artículo Tercero.- Se derogan todas las disposiciones que se opongan al present
 Heroica Puebla de Zaragoza a los veinticuatro días del mes de octubre de mil novecientos noventa y siete.
 
 Honorable Consejo de Administración de la Comisión Estatal de Agua y Saneamiento del Estado de Puebla: El Presidente del Consejo.- DOCTOR EDUARDO VAZQUEZ VALDES.- Rúbrica.- El Secretario Técnico.- DOCTOR EDUARDO MACIP ZUÑIGA.- Rúbrica.- Vocales Propietarios.- LICENCIADO MANUEL SILVA AGUIRRE.- Rúbrica.- LICENCIADO FRANCISCO CASTILLO MONTEMAYOR.- Rúbrica.- LICENCIADO MARIO MONTENEGRO FREGOSO.- Rúbrica.- LICENCIADO JUAN CARLOS LASTIRI QUIROZ.- Rúbrica.- INGENIERO JORGE BARRON LEVET.- Rúbrica.- PROFESOR ROBERTO BAUTISTA JIMENEZ.- Rúbrica.- CIUDADANO JOSE ANDRES VICTOR MANI TOTOLHUA.- Rúbrica.- QUIMICO FARMACO BIOLOGO RUBEN HUERTA RUIZ.- Rúbrica.- LICENCIADO HECTOR ALBINO VARGAS BELLO.- Rúbrica.- LICENCIADO ALEJANDRO SANCHEZ RAMIREZ.- Rúbrica.- INGENIERO RAUL DE LA LLATA MIER.- Rúbrica.- LICENCIADO MAURICIO BRAVO MERINO.- Rúbrica.- ARQUITECTO ALFREDO AJURIA HUERTA.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
+
+P.O. 7 DE AGOSTO DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos que con motivo de este Decreto deban pasar de una Unidad Administrativa a otra, continuarán tramitándose de la misma forma, hasta que la Unidad competente se integre definitivamente a la Comisión Estatal de Agua y Saneamiento de Puebla; en términos de las disposiciones aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
