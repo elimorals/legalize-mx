@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2003-10-29"
+last_updated: "2004-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ABRIL DE 2004.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1530,6 +1530,10 @@ XXIX-J.- Para legislar en materia de deporte, estableciendo las bases generales 
 
 XXIX-K.- Para expedir leyes en materia de turismo, estableciendo las bases generales de coordinación de las facultades concurrentes entre la Federación, Estados, Municipios y el Distrito Federal, así como la participación de los sectores social y privado.
 
+> <small>(ADICIONADA, D.O.F. 5 DE ABRIL DE 2004)</small>
+
+XXIX-M (SIC).- Para expedir leyes en materia de seguridad nacional, estableciendo los requisitos y límites a las investigaciones correspondientes.
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
 XXX.- Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
@@ -1818,9 +1822,9 @@ IV.- Nombrar, con aprobación del Senado, los Coroneles y demás oficiales super
 
 V.- Nombrar a los demás oficiales del Ejército, Armada y Fuerza Aérea Nacionales, con arreglo a las leyes.
 
-> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 1944)</small>
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2004)</small>
 
-VI.- Disponer de la totalidad de la fuerza armada permanente o sea del ejército terrestre, de la marina de guerra y de la fuerza aérea para la seguridad interior y defensa exterior de la Federación.
+VI.- Preservar la seguridad nacional, en los términos de la ley respectiva, y disponer de la totalidad de la Fuerza Armada permanente o sea del Ejército, de la Armada y de la Fuerza Aérea para la seguridad interior y defensa exterior de la Federación.
 
 VII.- Disponer de la Guardia Nacional para los mismos objetos, en los términos que previene la fracción IV del artículo 76.
 
@@ -2846,6 +2850,8 @@ IX.- Gravar la producción, el acopio o la venta del tabaco en rama, en forma di
 
 El Congreso de la Unión y las Legislaturas de los Estados dictarán, desde luego, leyes encaminadas a combatir el alcoholismo.
 
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+
 ###### Art. 118.
 
 Tampoco pueden, sin consentimiento del Congreso de la Unión:
@@ -2855,8 +2861,6 @@ I.- Establecer derechos de tonelaje, ni otro alguno de puertos, ni imponer contr
 II.- Tener, en ningún tiempo, tropa permanente ni buques de guerra.
 
 III.- Hacer la guerra por sí a alguna potencia extranjera, exceptuándose los casos de invasión y de peligro tan inminente, que no admita demora. En estos casos darán cuenta inmediata al Presidente de la República.
-
-> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
 
 ###### Art. 119.
 
@@ -5001,6 +5005,10 @@ D.O.F. 29 DE SEPTIEMBRE DE 2003.
 D.O.F. 29 DE OCTUBRE DE 2003.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE ABRIL DE 2004.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
