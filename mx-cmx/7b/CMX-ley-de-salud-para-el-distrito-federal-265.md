@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-para-el-distrito-federal-265"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-15"
-last_updated: "2002-11-28"
+last_updated: "2004-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=265&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1986-12-19"
 
 LEY DE SALUD PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE ENERO DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 15 de enero de 1987
 
@@ -467,6 +467,20 @@ III.- Dispensar cuidado y diligencia en el uso y conservación de los materiales
 ###### ARTICULO 16 Bis 5.
 
 La prestación y verificación de los servicios de atención médica, se sujetarán a lo previsto en la Ley General y las Normas Oficiales Mexicanas (NOM) correspondientes.
+
+> <small>(ADICIONADO, G.O. 27 DE ENERO DE 2004)</small>
+
+###### ARTICULO 16 Bis 6.
+
+Las instituciones públicas de salud del Gobierno del Distrito Federal, gratuitamente y en condiciones de calidad, deberán proceder a la interrupción del embarazo en los supuestos permitidos en el Nuevo Código Penal para el Distrito Federal, cuando la mujer interesada así lo solicite. Para la cual las referidas instituciones públicas de salud deberán proporcionar información oportuna y veraz de otras opciones con que cuentan las mujeres además de la interrupción del embarazo, así como las consecuencias en su salud.
+
+La interrupción del embarazo deberá realizarse en un término de cinco días, contados a partir de que sea presentada la solicitud y satisfechos los requisitos establecidos en la legislación aplicable.
+
+> <small>(ADICIONADO, G.O. 27 DE ENERO DE 2004)</small>
+
+###### ARTICULO 16 Bis 7.
+
+Los prestadores de los servicios de salud a quienes corresponda practicar la interrupción del embarazo en los casos permitidos por el Nuevo Código Penal para el Distrito Federal, y cuyas creencias religiosas o convicciones personales sean contrarias a tal interrupción, podrán ser objetores de conciencia y por tal razón excusarse de intervenir en la interrupción del embarazo, debiendo referir a la mujer con un médico no objetor. Cuando sea urgente la interrupción del embarazo para salvaguardar la salud o la vida de la mujer, no podrá invocarse la objeción de conciencia. Será obligación de las instituciones públicas de salud garantizar la oportuna prestación de los servicios y la permanente disponibilidad de personal no objetor de conciencia en la materia.
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -1593,3 +1607,7 @@ G.O. 28 DE NOVIEMBRE DE 2002.
 PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 27 DE ENERO DE 2004.
+
+ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
