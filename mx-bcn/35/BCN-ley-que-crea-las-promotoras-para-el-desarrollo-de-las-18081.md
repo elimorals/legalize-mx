@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-crea-las-promotoras-para-el-desarrollo-de-las-18081"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-20"
-last_updated: "2001-02-02"
+last_updated: "2003-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE CREA LAS PROMOTORAS PARA EL DESARROLLO DE LAS COMUNIDADES RURALES Y POPULARES DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 2000.
 
@@ -99,7 +99,11 @@ VI.- Estructurar, administrar y operar el Sistema Estatal de Transporte Escolar,
 
 VII.- Impulsar el mantenimiento, construcción, reconstrucción, ampliación, rehabilitación y conservación de caminos y accesos a colonias populares, carreteras vecinales, redes de electrificación, drenaje pluvial y aguas negras, alumbrado público, abastecimiento de agua potable para uso doméstico en aquellas regiones que no cuenten con el sistema de suministro, y demás obras de infraestructura necesarias para el desarrollo de las comunidades rurales y populares;
 
-VIII.- Concurrir con las autoridades competentes en la construcción, ampliación, remodelación y mantenimiento de escuelas, instalaciones o unidades deportivas, salones sociales comunitarios, parques o áreas recreativas, y demás actividades tendientes a promover un adecuado desarrollo regional de las comunidades rurales y populares.
+VIII.- Concurrir con las autoridades competentes en la construcción, ampliación, remodelación y mantenimiento de escuelas, instalaciones o unidades deportivas, salones sociales comunitarios, parques o áreas recreativas, y demás actividades tendientes a promover un adecuado desarrollo regional de las comunidades rurales y populares;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2003)</small>
+
+IX.- Ejecutar las obras de urbanización bajos los sistemas previstos por la Ley de Urbanización del Estado de Baja California.
 
 ### CAPITULO TERCERO. DEL PATRIMONIO DE LAS PROMOTORAS
 
@@ -121,11 +125,15 @@ IV.- Los demás ingresos que adquieran por cualquier otro medio legal permisible
 
 Cada Promotora, será administrada por un Consejo de Administración, que se integrará por:
 
-I.- El Coordinador de Desarrollo Social del Estado;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2003)</small>
+
+I.- El Secretario de Infraestructura y Desarrollo Urbano;
 
 II.- El Secretario de Gobierno;
 
-III.- El Secretario de Asentamientos Humanos y Obras Públicas;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2003)</small>
+
+III.- El Secretario de Desarrollo Social;
 
 IV.- El Secretario de Planeación y Finanzas;
 
@@ -143,9 +151,11 @@ En el caso de la Promotora Tijuana intervendrá el o los Presidentes Municipales
 
 El Consejo de Administración, queda facultado para incluir la participación especial con voz pero sin voto, de cualquier representación del sector público o privado, quienes a invitación expresa del Consejo, podrán asistir a las reuniones en que tengan interés o conocimiento del tema de que se trate.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 12.
 
-El cargo de Presidente de cada Consejo de Administración, recaerá en el Coordinador de Desarrollo Social del Estado, quien en sus ausencias designará a un suplente.
+El cargo de Presidente de cada Consejo de Administración, recaerá en el Titular de la Dependencia que coordine el sector al cual pertenezcan las Promotoras, en términos de la Ley Orgánica de la Administración Pública del Estado de Baja California, quien podrá designar por escrito un suplente para cubrir sus ausencias temporales.
 
 ###### ARTICULO 13.
 
@@ -386,3 +396,9 @@ P.O. 2 DE FEBRERO DE 2001.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+P.O. 13 DE JUNIO DE 2003.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
