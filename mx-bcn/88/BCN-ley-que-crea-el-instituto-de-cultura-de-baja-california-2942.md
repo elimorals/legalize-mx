@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-crea-el-instituto-de-cultura-de-baja-california-2942"
 country: "mx"
 rank: "ley"
 publication_date: "1989-03-31"
-last_updated: "2003-06-06"
+last_updated: "2003-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2942&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY QUE CREA EL INSTITUTO DE CULTURA DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2003.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE CULTURA DE BAJA CALIFORNIA, PUBLICADA EN EL PERIODICO OFICIAL EL 24 DE OCTUBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 31 de marzo de 1989.
 
@@ -696,3 +698,31 @@ DR. ARTURO GUERRA FLORES.
 P.O. 6 DE JUNIO DE 2003.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE OCTUBRE DE 2003.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley que Crea el Instituto de Cultura de Baja California, publicada en el Periódico Oficial del Estado de fecha 31 de marzo de 1989.
+
+TERCERO.- Por esta única ocasión, el procedimiento para la elección de los vocales señalados en los incisos e), f), y g), de la fracción II, del artículo 15 de esta Ley, se ajustará a lo siguiente:
+
+a) El Secretario de Educación y Bienestar Social, publicará la convocatoria en el Periódico Oficial del Estado y en un diario de mayor circulación estatal, dentro de los quince días siguientes a aquél en que entre en vigor esta Ley;
+
+b) La convocatoria a que se refiere el párrafo anterior, deberá indicar que se cuenta con quince días naturales para que se presenten las propuestas por escrito y se acrediten los requisitos que en su caso se soliciten, así como la fecha en que tendrá verificativo la elección;
+
+c) El Secretario de Educación y Bienestar Social, llevará a cabo el proceso de elección ante la presencia de los demás integrantes de la Junta de Gobierno y en la fecha señalada por la convocatoria, la cual no podrá exceder de quince días naturales siguientes al vencimiento del plazo para la presentación de las propuestas, y
+
+d) En caso de que en una primera ronda exista empate o no se obtenga la cantidad de votos requeridos, se realizarán tantas rondas como fuesen necesarias hasta determinar el ganador.
+
+CUARTO.- Dentro de los sesenta días siguientes a la entrada en vigor de esta Ley, el Secretario de Educación y Bienestar Social, convocará a la totalidad de los integrantes de la Junta de Gobierno al acto de instalación formal.
+
+QUINTO.- El actual Director General del ICBC, continuará en el desempeño de sus funciones.
+
+SEXTO.- Los actos, resoluciones, acuerdos y las disposiciones de carácter general, así como los poderes, mandatos y en lo general, las representaciones otorgadas y las facultades concedidas, emitidos y otorgados al amparo de la Ley que se abroga se considerarán vigentes, siempre y cuando no se opongan a este ordenamiento.
+
+SÉPTIMO.- Los derechos laborales de los trabajadores del ICBC, serán respetados conforme a las disposiciones legales aplicables.
+
+OCTAVO.- Los integrantes del Consejo Consultivo y del Patronato, designados bajo el amparo de la Ley que se abroga, seguirán en sus cargos hasta en tanto se designen sustitutos, dentro de los sesenta días siguientes a la instalación de la Junta de Gobierno.
+
+NOVENO.- Dentro de los ciento ochenta días siguientes a la entrada en vigor de esta Ley, el Titular del Poder Ejecutivo expedirá el Reglamento Interno del ICBC.
