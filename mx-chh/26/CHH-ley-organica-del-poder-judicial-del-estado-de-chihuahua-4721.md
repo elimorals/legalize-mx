@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2003-07-19"
+last_updated: "2003-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 2003.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -1941,11 +1941,11 @@ En caso de ausencia absoluta de los Jueces Menores, el Pleno del Tribunal hará 
 
 En caso de excusa o recusación de un Juez Menor, conocerá del negocio el Menor del Municipio más cercano, aplicándose para esto último las reglas fijadas para los Jueces de Primera Instancia. Al separarse el Juez inhibido de sus funciones por más de noventa días o definitivamente, volverá el asunto al Juzgado de su origen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 2003)</small>
 
 ###### ARTICULO 163.
 
-Corresponde a los jueces menores:
+Corresponde a los Jueces Menores:
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
@@ -1959,55 +1959,97 @@ III.- Conocer de las providencias que sean competencia de los Jueces de Primera 
 
 IV.- En materia familiar conocerán de todos aquellos asuntos en los que las prestaciones reclamadas puedan determinarse económicamente, aplicando la regla establecida por la fracción I de este precepto;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 2003)</small>
 
-V.- Conocer de los procedimientos penales que se instruyan por alguno de los siguientes delitos:
+V.- Conocer de los procedimientos penales que se instruyan por algunos de los siguientes delitos:
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 a).- Variación u ocultación del nombre o domicilio;
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+
 b).- Desobediencia y resistencia de particulares;
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 c).- Oposición a que se ejecute alguna obra o trabajo público;
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+
 d).- Quebrantamiento de sellos;
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 e).- Falsedad ante la autoridad;
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+
 f).- Imputaciones falsas;
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 g).- Quebrantamiento de sanciones;
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+
 h).- Violación de correspondencia;
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 i).- Ultrajes a la moral pública;
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+
 j).- Delitos contra la filiación y el estado civil;
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 k).- Lesiones, excepto las previstas en los artículos 200 y 201 del Código Penal;
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+
 l).- Delitos de peligro para la vida y la salud corporal en los términos en que lo establece el Título X del Código Penal;
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 m).- Allanamiento de morada;
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+
 n).- Coacción y amenazas;
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 o).- Adulterio;
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+
 p).- Estupro;
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 q).- Abusos sexuales, salvo que merecieren penalidad agravada;
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+
 r).- Robo, fraude y abuso de confianza si su monto no excede de mil veces el salario mínimo al momento de la comisión del delito;
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 s).- Daños intencionales y preterintencionales cuyo monto no exceda de mil veces el salario mínimo y daños por imprudencia cualquiera que fuere su cuantía;
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 2000)</small>
+(REFORMADO, P.O. 11 DE OCTUBRE DE 2000) (F. DE E., P.O. 22 DE NOVIEMBRE DE 2000)
 
 t).- Encubrimiento por favorecimiento y receptación, si el delito principal es de los reservados a su jurisdicción;
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 2000)</small>
+(REFORMADO, P.O. 11 DE OCTUBRE DE 2000) (F. DE E., P.O. 22 DE NOVIEMBRE DE 2000)
 
-u).- Delitos que tengan pena alternativa o solo pecuniaria.
+u).- Delitos que tengan pena alternativa o solo pecuniaria;
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2003)</small>
+
+v).- Incumplimiento de Obligaciones de Asistencia Familiar.
 
 VI.- Practicar, cuando haya detenido, las primeras diligencias en los procesos por delitos de la competencia de los Jueces de Primera Instancia, donde no los hubiere, hasta resolver la situación jurídica;
 
@@ -2301,7 +2343,7 @@ La misma regla que señala el párrafo anterior, se seguirá para el caso de las
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DEL PROCEDIMIENTO DE QUEJA PARA SANCIONAR LAS FALTAS
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
@@ -2475,7 +2517,7 @@ El Pleno determinará si la comisión de delitos imprudenciales o la privación 
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
 
-### CAPITULO II. DEL PROCEDIMIENTO DE QUEJA PARA SANCIONAR LAS FALTAS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
@@ -2587,7 +2629,7 @@ Cuando una queja se interponga sin fundamento y así se declare por la autoridad
 
 ## TITULO NOVENO. DE LAS ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIO Y OBRA PUBLICA DEL PODER JUDICIAL
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ENERO DE 2000)</small>
 
 ### CAPITULO III. DE LAS INCONFORMIDADES
 
@@ -2631,7 +2673,7 @@ En todo caso, recabará por los medios que estime conducentes todos aquellos ele
 
 El Reglamento establecerá las bases para las adquisiciones, arrendamientos, contratación y prestación de servicios y obra pública, así como para la enajenación de todo tipo de bienes que se realice con recursos del Fondo Auxiliar para la Administración de Justicia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ENERO DE 2000)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 216.
 
@@ -2671,7 +2713,7 @@ V.- Con las personas a las que se declare en estado de quiebra o suspensión de 
 
 VI.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de la ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 219.
 
@@ -2846,3 +2888,13 @@ P.O. 19 DE JULIO DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JULIO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor 60 días después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procesos en trámite serán concluidos por los Juzgados competentes ante los cuales se iniciaron.
