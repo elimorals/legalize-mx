@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2004-07-30"
+last_updated: "2004-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE AGOSTO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -453,9 +453,13 @@ XXXIV. Expedir en lo conducente, para efectos de lo dispuesto en las fracciones 
 
 XXXV. Dictar, previo acuerdo de las dos terceras partes de sus integrantes, disposiciones que afecten al patrimonio inmobiliario municipal. La enajenación, transmisión de la posesión o dominio de bienes inmuebles se podrá otorgar siempre que medie autorización expresa del Congreso del Estado;
 
-XXXVI. Cuando se trate de la contratación de obras o servicios públicos que comprometan al municipio por un plazo mayor al período del Ayuntamiento, o de contratos de obra pública cuyo monto exceda del veinte por ciento de la partida presupuestal respectiva, se requerirá el acuerdo del Cabildo, para someterlo a la aprobación del Congreso del Estado.
+> <small>(REFORMADA, G.O. 24 DE AGOSTO DE 2004)</small>
 
-XXXVII. Contratar empréstitos, previa autorización del Congreso del Estado;
+XXXVI. Cuando se trate de la contratación de obras y servicios públicos que comprometan al municipio por un plazo mayor al periodo del Ayuntamiento, se requerirá el acuerdo del Cabildo, para someterlo a la aprobación del Congreso del Estado; en el caso de contratos de obra pública cuyo monto exceda del veinte por ciento de la partida presupuestal respectiva, se requerirá en los mismo (sic) términos el acuerdo del Cabildo, para someterlo a la aprobación del Congreso del Estado o, en sus recesos, de la Diputación Permanente;
+
+> <small>(REFORMADA, G.O. 24 DE AGOSTO DE 2004)</small>
+
+XXXVII. Contratar empréstitos, previa autorización del Congreso del Estado o de la Diputación Permanente;
 
 XXXVIII. Participar en la elección de Agentes y Subagentes Municipales, de conformidad con lo dispuesto por esta ley;
 
@@ -2336,3 +2340,9 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
 G.O. 30 DE JULIO DE 2004.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 24 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
