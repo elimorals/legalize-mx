@@ -4,7 +4,7 @@ identifier: "LOSHF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-10-11"
-last_updated: "2001-10-11"
+last_updated: "2002-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22143&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOSHF"
 
 LEY ORGANICA DE SOCIEDAD HIPOTECARIA FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2002.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 11 de octubre de 2001.
 
@@ -148,7 +148,9 @@ Los titulares de las dependencias mencionadas, designarán como suplentes de los
 
 II. Dos consejeros de la serie "B" designados por el Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público. Los nombramientos deberán recaer en personas que por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos, y
 
-III. Un consejero de la serie "B" designado por el Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, que tendrá el carácter de consejero independiente. El nombramiento de consejero independiente, deberá recaer en persona que por sus conocimientos, honorabilidad, prestigio profesional y experiencia sea ampliamente reconocido.
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+III. Un consejero de la serie "B" designado por el Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, que tendrá el carácter de consejero independiente. El nombramiento de consejero independiente, deberá recaer en persona de nacionalidad mexicana que por sus conocimientos, honorabilidad y prestigio profesional sea ampliamente reconocido.
 
 El consejero independiente deberá asistir a todas las sesiones del Consejo Directivo y no tendrá suplente. En caso de que dejare de asistir, sin causa justificada a juicio del Consejo Directivo, al treinta por ciento o más de las sesiones que se hubieren convocado en un mismo ejercicio, podrá ser removido de su cargo, en cuyo caso se designará nuevo consejero conforme a lo dispuesto en el párrafo anterior.
 
@@ -166,7 +168,9 @@ En el orden del día de las sesiones del Consejo Directivo, deberán listarse lo
 
 No podrán ser consejeros las personas que:
 
-I. Se encuentren en los casos señalados en el artículo 23 de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+I. Se encuentren en los supuestos señalados en el penúltimo párrafo del artículo 41 de la Ley de Instituciones de Crédito;
 
 II. Ocupen un puesto de elección popular, mientras estén en el ejercicio del mismo, o
 
@@ -188,9 +192,11 @@ IV. La representación de asociaciones, gremios, federaciones, confederaciones d
 
 Los consejeros independientes deberán comunicar al Presidente del Consejo Directivo sobre cualquier situación que pudiere derivar en un conflicto de intereses, así como abstenerse de participar en la deliberación correspondiente. Asimismo, deberán mantener absoluta confidencialidad sobre todos aquellos actos, hechos o acontecimientos que pudieran afectar la operación de la Sociedad, incluyendo las deliberaciones del Consejo Directivo, mientras dicha información no se haya hecho del conocimiento del público.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
 ###### Artículo 18.
 
-Son causas de remoción de los consejeros de la serie "B", del consejero independiente y del Director General:
+Son causas de remoción de los consejeros de la serie "B" y de los consejeros independientes:
 
 I. La incapacidad mental, así como la incapacidad física que impida el correcto ejercicio de sus funciones durante más de seis meses;
 
@@ -201,6 +207,10 @@ III. Utilizar, en beneficio propio o de terceros, la información confidencial d
 IV. Someter a sabiendas, a la consideración del Consejo Directivo información falsa, y
 
 V. Tomar decisiones que vayan en contra de lo dispuesto en el artículo 5o. de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+Además de las causas de remoción señaladas en este precepto, a los consejeros de la serie "A" y al Director General, se les removerá de su cargo cuando se determine su responsabilidad mediante resolución definitiva dictada por autoridad competente, por ubicarse en alguno de los supuestos contenidos en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
 ###### Artículo 19.
 
@@ -218,11 +228,13 @@ II. Aprobar el informe anual de actividades que le presente el Director General;
 
 III. Aprobar los programas específicos y reglamentos internos de la Sociedad, que le presente el Director General, a efecto de someterlos a la autorización de la Secretaría de Hacienda y Crédito Público;
 
-IV. Expedir con sujeción a los criterios de carácter general señalados en el artículo 134 constitucional las bases, procedimientos, reglas, requisitos, políticas, lineamientos y las normas conforme a las cuales la Sociedad deba contratar las adquisiciones, enajenaciones de bienes, arrendamientos, realización de obra inmobiliaria y prestaciones de servicios de cualquier naturaleza; que acreditarán la economía, eficacia, imparcialidad y honradez, que aseguren las mejores condiciones para la Sociedad, cuando las licitaciones públicas no sean idóneas para asegurar dichas condiciones;
+IV. (DEROGADA, D.O.F. 24 DE JUNIO DE 2002)
 
 V. Expedir las normas y criterios a los cuales deberán sujetarse la elaboración y el ejercicio del presupuesto de gasto corriente y de inversión física de la Sociedad, así como aprobar dicho presupuesto y las modificaciones que corresponda efectuar durante el ejercicio, sujetándose a los montos globales autorizados al efecto por la Secretaría de Hacienda y Crédito Público, y
 
-VI. Aprobar las condiciones generales de trabajo que deban observarse en las relaciones entre la Sociedad y su personal, así como los tabuladores e incrementos de sueldos, pensiones o jubilaciones y demás prestaciones de carácter económico y de seguridad social que corresponda, previa opinión y recomendación que, en su caso, emita el Comité de Sueldos y Prestaciones.
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+VI. Aprobar, a propuesta del director general, la estructura orgánica, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos; programas de estímulos, ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la Sociedad, previa opinión y recomendación que en su caso emita el comité de recursos humanos y desarrollo institucional, así como opinar sobre las condiciones generales de trabajo que rijan las relaciones laborales entre la Sociedad y sus trabajadores.
 
 ###### Artículo 21.
 
@@ -276,9 +288,15 @@ La Ley de Instituciones de Crédito, la Ley del Banco de México, la legislació
 
 El ejercicio de la Sociedad se iniciará el primero de enero y terminará el treinta y uno de diciembre de cada año. La Sociedad estará obligada a publicar en el Diario Oficial de la Federación el balance general de fin de ejercicio.
 
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
 ###### Artículo 28.
 
-La Sociedad formulará anualmente sus programas financieros, presupuestos generales de gasto e inversiones y las estimaciones de ingresos, así como sus programas operativos de acuerdo a los lineamientos, medidas y mecanismos que al efecto establezca la Secretaría de Hacienda y Crédito Público.
+La Sociedad formulará anualmente sus programas financieros, presupuestos generales de gastos e inversiones, así como sus programas operativos, de acuerdo a los lineamientos, medidas y mecanismos que al efecto establezca la Secretaría de Hacienda y Crédito Público.
+
+A la Secretaría de Hacienda y Crédito Público compete coordinar, evaluar y vigilar la actuación de la Sociedad, así como autorizar las modalidades en la asignación de recursos, en los términos del artículo 31 de la Ley de Instituciones de Crédito.
+
+Se procurará el mejor aprovechamiento y la canalización más adecuada de los recursos de la Sociedad en el marco de la autonomía de gestión requerida para su eficaz funcionamiento de conformidad con las disposiciones legales aplicables.
 
 ###### Artículo 29.
 
@@ -290,29 +308,29 @@ La Secretaría de Hacienda y Crédito Público, podrá determinar las demás per
 
 Las operaciones de la Sociedad podrán hacerse constar en documento privado que, sin más formalidad, deberá ser inscrito por los encargados de los registros públicos correspondientes, en los términos del artículo 66 de la Ley de Instituciones de Crédito. La constitución de garantías deberá sujetarse a las formalidades que establezca la legislación aplicable.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
 ###### Artículo 31.
 
-El Consejo Directivo tendrá un Comité de Sueldos y Prestaciones, que estará integrado de la siguiente forma: dos representantes de la Subsecretaría de Hacienda y Crédito Público, el consejero a que se refiere el artículo 14, fracción III de esta Ley, nombrado por el Consejo Directivo, un representante del Banco de México, el Director General de la Sociedad, así como un representante de la Comisión Nacional Bancaria y de Valores con voz y sin voto. Contará también con un secretario técnico nombrado por la Sociedad, el cual asistirá a las reuniones con voz y sin voto.
+La Sociedad tendrá un comité de recursos humanos y desarrollo institucional, que estará integrado de la siguiente forma: dos representantes de la Secretaría de Hacienda y Crédito Público, que serán el Subsecretario de Egresos y el Subsecretario de Hacienda y Crédito Público; uno de los consejeros a que se refiere el artículo 14 fracción III de esta Ley, designado por el Consejo Directivo; una persona que por sus conocimientos y desarrollo profesional, tenga amplia experiencia en el área de recursos humanos; un representante de la Secretaría de Contraloría y Desarrollo Administrativo que será el Subsecretario de Desarrollo y Simplificación Administrativa; el Director General de la Sociedad, así como un representante de la Comisión Nacional Bancaria y de Valores, con voz y sin voto. De entre los miembros del Comité se designará a un presidente y sus decisiones se tomarán por mayoría de votos. El Subsecretario de Hacienda y Crédito Público contará con voto de calidad en caso de empate. Asimismo, el Comité contará con un secretario técnico, quien tendrá voz, pero sin voto.
 
-El Director General de la Sociedad se abstendrá de participar en las sesiones del Comité, que tengan por objeto emitir opiniones o recomendaciones con respecto a sus sueldos, prestaciones económicas y de seguridad social.
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+El Director General se abstendrá de participar en las sesiones del Comité que tengan por objeto emitir opiniones o recomendaciones con respecto a su sueldo, prestaciones económicas y de seguridad social.
 
 El Comité se reunirá cuantas veces sea necesario a petición del Director General, quien enviará la convocatoria respectiva a los miembros del mismo, en donde establecerá el orden del día, así como el lugar y fecha para la celebración de la sesión.
 
-Este Comité opinará y propondrá, en términos de las condiciones generales de trabajo, el pago, modificación, tabulación o incremento de sueldos, salarios, pensiones, jubilaciones y demás prestaciones económicas y de seguridad social, establecidas en beneficio de los servidores públicos que laboren en la Sociedad.
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+Este Comité opinará y propondrá en términos de las condiciones generales de trabajo, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos; programas de estímulos, ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la Sociedad.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+Salvo el consejero independiente y el profesional con experiencia en el área de recursos humanos, los demás miembros del Comité contarán con sus respectivos suplentes, quienes serán preferentemente servidores públicos del nivel inferior inmediato siguiente y deberán tener cuando menos nivel de director general.
 
 ###### Artículo 32.
 
-La Sociedad enviará al Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público y ésta a su vez al Congreso de la Unión junto con los Informes sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública, y en los recesos de éste, a la Comisión Permanente, lo siguiente:
-
-I. En el informe de enero a marzo de cada año, una exposición sobre los programas de créditos y garantías a seguir por la sociedad durante el ejercicio respectivo, indicando las políticas y criterios conforme a los cuales realizará sus operaciones a fin de coadyuvar al cumplimiento del Plan Nacional de Desarrollo, así como un informe sobre el presupuesto de gasto corriente y de inversión de la sociedad, correspondiente a dicho ejercicio.
-
-En este informe también deberá darse cuenta sobre las contingencias derivadas de las garantías otorgadas por la Sociedad y el Gobierno Federal al amparo de un estudio actuarial efectuado por una calificadora de prestigio;
-
-II. En el informe de abril a junio de cada año, un informe sobre el cumplimiento del programa anual de la sociedad durante el segundo semestre del ejercicio inmediato anterior y en general, sobre el ejercicio del gasto corriente y de inversión, así como de las actividades de la sociedad en el conjunto de dicho ejercicio, y
-
-III. En el informe de julio a septiembre de cada año, un informe sobre el cumplimiento del programa anual de la sociedad durante el primer semestre del ejercicio de que se trate.
-
-Asimismo, la Sociedad deberá publicar trimestralmente en dos periódicos de amplia circulación en el país, el estado que guarda el patrimonio, así como los indicadores más representativos de la situación financiera y de la administración de la misma.
+(DEROGADO, D.O.F. 24 DE JUNIO DE 2002)
 
 ## TRANSITORIOS
 
@@ -322,7 +340,13 @@ SEGUNDO.- La Sociedad Hipotecaria Federal será fiduciario sustituto del Fondo d
 
 El Gobierno Federal otorga garantías adicionales al mencionado Fondo, para la continuación de sus programas de garantía en operación, hasta por seis mil millones de unidades de inversión, a fin de que dicho Fondo pueda absorber pérdidas extraordinarias que, en su caso, llegaren a presentarse por una cantidad que exceda a la de las reservas, mismas que no podrán ser retiradas, debiendo destinarse a cubrir en todo momento las contingencias que respalden tales programas. Al efecto el Fondo deberá mantener informada a la Secretaría de Hacienda y Crédito Público de la evolución de las mencionadas reservas.
 
-Por un plazo de doce años contados a partir de la entrada en vigor del presente Decreto, el Gobierno Federal responderá en todo tiempo de las obligaciones que la Sociedad contraiga con terceros.
+(REFORMADO, D.O.F. 24 DE JUNIO DE 2002) (F. DE E., D.O.F. 8 DE JULIO DE 2002)
+
+El Gobierno Federal responderá en todo tiempo de las obligaciones que la Sociedad contraiga con terceros hasta la conclusión de dichos compromisos.
+
+(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002) (F. DE E., D.O.F. 8 DE JULIO DE 2002)
+
+Las nuevas obligaciones que suscriba o contraiga la Sociedad a partir del 1o. de enero del 2014, no contarán con la garantía del Gobierno Federal.
 
 TERCERO.- Las inscripciones y anotaciones marginales de cualquier naturaleza efectuadas en los Registros Públicos de la Propiedad y del Comercio, así como cualquier otro Registro, relativas al Banco de México en su carácter de fiduciario del Fondo de Operación y Financiamiento Bancario a la Vivienda, respecto de inmuebles, contratos, convenios, títulos de crédito, comisiones de carácter mercantil y cualesquiera otras, se entenderán referidas a Sociedad Hipotecaria Federal, a partir de que ésta funja como fiduciario sustituto de ese Fondo, de acuerdo a lo previsto en el artículo segundo transitorio de este Decreto.
 
@@ -351,3 +375,43 @@ DECIMO PRIMERO.- Se derogan las disposiciones que se opongan a la presente Ley.
 México, D.F., a 25 de septiembre de 2001.- Dip. Beatriz Paredes Rangel, Presidenta.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Martha Silvia Sánchez González, Secretario.- Sen. Sara Isabel Castellanos Cortés, Secretaria.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de octubre de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 24 DE JUNIO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+La Secretaría de Hacienda y Crédito Público dará a conocer las reglas para determinar las cuotas a que se refiere el artículo 55 bis de la Ley de Instituciones de Crédito, así como el régimen de inversión de los fideicomisos, que deberán constituir las instituciones de banca de desarrollo dentro de los siguientes noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Las instituciones de banca de desarrollo, se sujetarán a las Condiciones Generales de Trabajo vigentes, hasta en tanto no se emitan las nuevas y éstas entren en vigor.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a las leyes que se reforman, adicionan y derogan en el presente Decreto.
+
+###### ARTICULO QUINTO.
+
+Los procedimientos que hubieren iniciado con anterioridad a la entrada en vigor del presente Decreto, conforme a las leyes que se reforman, adicionan y derogan continuarán rigiéndose por las disposiciones vigentes en la fecha de publicación de este Decreto.
+
+###### ARTICULO SEXTO.
+
+El comité de planeación de recursos humanos y desarrollo institucional, deberá integrarse y entrar en funciones en un plazo no mayor de noventa días naturales contados a partir de la fecha en que entre en vigor el presente Decreto.
+
+###### ARTICULO SEPTIMO.
+
+El comité de administración integral de riesgos deberá integrarse y entrará en funciones dentro de los 60 días hábiles siguientes a la fecha en que entre en vigor el presente Decreto.
+
+###### ARTICULO OCTAVO.
+
+Por lo que se refiere a la modificación al artículo 7o. de la Ley Orgánica de Nacional Financiera, las referencias contenidas en los ordenamientos jurídicos en donde se señale que los depósitos de títulos, valores o sumas en efectivo que tengan que hacerse por o ante las autoridades administrativas o judiciales de la Federación o por o ante las autoridades administrativas del Distrito Federal, así como las sumas en efectivo, títulos o valores que secuestren las autoridades judiciales o administrativas de la Federación y aquellas que secuestren las autoridades administrativas del Distrito Federal, se constituyan en Nacional Financiera, Sociedad Nacional de Crédito, deberá entenderse que los mismos podrán constituirse en las sociedades nacionales de crédito, instituciones de banca de desarrollo que estén autorizadas por ley para tal efecto.
+
+###### ARTICULO NOVENO.
+
+Los Consejos Consultivos Estatales y Nacional a que se refieren los artículos 33 y 34 de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos deberán integrarse y entrar en funciones dentro de los 180 días naturales siguientes a la fecha en que entre en vigor el presente Decreto.
