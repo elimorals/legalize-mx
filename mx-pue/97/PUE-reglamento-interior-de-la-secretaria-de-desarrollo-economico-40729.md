@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-desarrollo-economico-40
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-13"
-last_updated: "2004-08-13"
+last_updated: "2004-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en el Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de agosto de 2004.
 
@@ -113,6 +113,8 @@ XX.- Centro Comercial.- Inmueble destinado al comercio público, formado por loc
 
 La Secretaría llevará a cabo sus actividades en forma programada y de conformidad con las políticas, lineamientos, estrategias, prioridades y restricciones que para el logro de sus objetivos y metas establezca el Gobernador del Estado y determine el Secretario, en concordancia con los Planes Nacional y Estatal de Desarrollo.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 4.
 
 Para el estudio, planeación y ejercicio de las atribuciones y despacho de los asuntos de su competencia, la Secretaría se auxiliará y contará con los siguientes servidores públicos y unidades administrativas:
@@ -138,10 +140,6 @@ Para el estudio, planeación y ejercicio de las atribuciones y despacho de los a
 - Coordinación de Comercio Interior
 
 - Dirección de Comercio Interior
-
-- Coordinación General de Desarrollo Económico Regional
-
-- Dirección de Desarrollo Económico Regional
 
 - Dirección de la Unidad de Desarrollo Administrativo, Planeación e Informática
 
@@ -473,29 +471,29 @@ IV.- Diseñar y promover, en el ámbito de su competencia, los programas y polí
 
 V.- Promover los apoyos financieros para el desarrollo de proyectos comerciales y agroindustriales, cuyo fin principal sea ante todo la generación de empleo sustentable;
 
-VI.- Asesorar a los particulares que así lo soliciten, en el establecimiento de nuevas empresas comerciales en el Estado, y
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
-VII.- Las demás que le encomiende el Secretario, así como las que expresamente le confiera la demás normatividad aplicable.
+VI.- Asesorar a los particulares que así lo soliciten, en el establecimiento de nuevas empresas comerciales en el Estado;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+VII.- Coordinar la difusión de los servicios y apoyos que competen a la Secretaría, entre las empresas establecidas en las diferentes regiones del Estado;
+
+> <small>(ADICIONADA, P.O.3 DE DICIEMBRE DE 2004)</small>
+
+VIII.- Coordinar las actividades de las Unidades de Desarrollo Regional; y
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+IX.- Las demás que le encomiende el Secretario, así como las que expresamente le confiera la demás normatividad aplicable.
+
+> <small>(DEROGADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 ### CAPÍTULO VII. DE LA COORDINACIÓN GENERAL DE DESARROLLO ECONÓMICO REGIONAL
 
 ###### ARTÍCULO 14.
 
-El Coordinador General de Desarrollo Económico Regional depende directamente del Secretario y tendrá, además de las atribuciones señaladas en el artículo 12 de este Reglamento, las siguientes:
-
-I.- Formular y someter a la consideración del Secretario, los proyectos generadores de empleo y desarrollo económico en las distintas regiones del Estado, y coordinar su ejecución;
-
-II.- Coordinar la difusión de los servicios y apoyos que competen a la Secretaría, entre las empresas establecidas en las diferentes regiones del Estado;
-
-III.- Promover la desconcentración de empresas hacia el interior del Estado, con la finalidad de lograr un desarrollo regional equilibrado;
-
-IV.- Atender las instrucciones del Gobernador del Estado o del Secretario, referentes a desarrollo económico regional estatal, y rendirles informe sobre las acciones realizadas;
-
-V.- Proporcionar información a los particulares que lo requieran, sobre la infraestructura existente en las regiones y microrregiones del Estado;
-
-VI.- Coordinar las actividades de las Unidades de Desarrollo Regional, y
-
-VII.- Las demás que le encomiende el Secretario, así como las que expresamente le confiera la demás normatividad aplicable.
+(DEROGADO, P.O. 3 DE DICIEMBRE DE 2004)
 
 ### CAPÍTULO VIII. DE LA COORDINACIÓN GENERAL DEL SISTEMA ESTATAL DE ÁREAS Y PARQUES INDUSTRIALES
 
@@ -647,7 +645,9 @@ El Director de Comercio Exterior estará adscrito a la Subsecretaría de Comerci
 
 I.- Organizar, controlar, dirigir y evaluar las actividades de las áreas administrativas a su cargo, conforme a las disposiciones jurídicas aplicables y los lineamientos que determine el Secretario o su superior jerárquico;
 
-II.- Acordar con su superior jerárquico el despacho de los asuntos de la Dirección General a su cargo o de las áreas administrativas que la integran, debiendo cumplir y hacer cumplir los acuerdos que le dicte;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+II.- Acordar con su superior jerárquico el despacho de los asuntos de la Dirección a su cargo o de las áreas administrativas que la integran, debiendo cumplir y hacer cumplir los acuerdos que le dicte;
 
 III.- Recibir en acuerdo a los servidores públicos subalternos y conceder audiencias al público en las materias de su competencia;
 
@@ -795,31 +795,13 @@ XIV.- Previo acuerdo del superior jerárquico, promover, fomentar, apoyar, organ
 
 XV.- Las demás que le encomiende el Secretario o el Coordinador de Comercio Interior, o las que expresamente le otorgue la demás normatividad aplicable.
 
+> <small>(DEROGADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
 ### CAPÍTULO XVI. DE LA DIRECCIÓN DE DESARROLLO ECONÓMICO REGIONAL
 
 ###### ARTÍCULO 23.
 
-El Director de Desarrollo Económico Regional estará adscrito a la Coordinación General de Desarrollo Económico Regional y tendrá, además de las atribuciones señaladas en el artículo 16 de este Reglamento, las siguientes:
-
-I.- Diseñar los mecanismos, sometiéndolos a la consideración del superior jerárquico, así como aplicar las acciones para promover y fomentar el desarrollo económico regional;
-
-II.- Establecer comunicación, previo acuerdo del superior jerárquico, con los Gobiernos Federal, Estatal y Municipal, para identificar la problemática y el modelo de desarrollo de cada región, con el fin de apoyar la formulación, ejecución y seguimiento de proyectos específicos;
-
-III.- Operar en la medida de su competencia, los programas de desarrollo económico regional y proyectos específicos en el Estado;
-
-IV.- Organizar reuniones en los diferentes Municipios del Estado, que así lo soliciten, para conocer la problemática económica de las diferentes regiones, e informar sobre los apoyos que existen para impulsar el desarrollo de programas y proyectos de impacto regional;
-
-V.- Coordinarse con otras instancias para asesorar a los inversionistas en la formulación, integración, difusión y ejecución de proyectos productivos que favorezcan el desarrollo económico regional;
-
-VI.- Aplicar las políticas de descentralización económica, conforme a los lineamientos que dicte el Secretario;
-
-VII.- Atender y gestionar las propuestas de desarrollo económico regional que se le planteen;
-
-VIII.- Promover ante las instancias competentes, el otorgamiento de capacitación necesaria, para impulsar el desarrollo productivo en los Municipios del Estado;
-
-IX.- Gestionar conforme a la normatividad aplicable, la elaboración de los estudios relativos a la promoción de la actividad empresarial en las regiones del Estado, y
-
-X.- Las demás que le encomiende el Secretario o el Coordinador General de Desarrollo Económico Regional, así como las que expresamente le otorgue la demás normatividad aplicable.
+(DEROGADO, P.O. 3 DE DICIEMBRE DE 2004)
 
 ### CAPÍTULO XVII. DE LA DIRECCIÓN DE ASUNTOS JURÍDICOS
 
@@ -847,7 +829,7 @@ IX.- Proponer al Secretario las bases y requisitos legales a que deban ajustarse
 
 X.- Revisar y, en su caso, dictaminar la procedencia jurídica del otorgamiento, celebración, modificación, suspensión, revocación, terminación, rescisión, nulidad total o parcial y demás efectos jurídicos de los convenios, contratos, concesiones, autorizaciones, permisos y licencias que competan a la Secretaría;
 
-XI.- Previo acuerdo del Secretario, intervenir de manera individual o en forma coordinada con otras Dependencias y Entidades de la Administración Pública Federal, Estatal o Municipal, en la formulación de proyectos de leyes, reglamentos, acuerdos, decretos, convenios y demás disposiciones jurídicas que el Secretario proponga al Gobernador del Estado;
+Xl.- Previo acuerdo del Secretario, intervenir de manera individual o en forma coordinada con otras Dependencias y Entidades de la Administración Pública Federal, Estatal o Municipal, en la formulación de proyectos de leyes, reglamentos, acuerdos, decretos, convenios y demás disposiciones jurídicas que el Secretario proponga al Gobernador del Estado;
 
 XII.- Llevar el control, registro y archivo de los convenios, contratos e instrumentos que celebre el Secretario con la Administración Pública Federal, los Estados, Municipios, asociaciones, sociedades y particulares;
 
@@ -1090,3 +1072,11 @@ SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Econ�
 TERCERO.- Cuando las funciones de alguna unidad administrativa establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercidas por alguna otra unidad de las que el mismo establece o cuando se cambie su adscripción, pasarán a la unidad que se determine, el personal, el mobiliario, el archivo y en general, el equipo que aquélla haya utilizado; respecto a los asuntos que se encuentren en trámite, competerá a la nueva unidad administrativa terminar su substanciación y dictar la resolución que corresponda.
 
 Dado en la sede del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintisiete días del mes de julio de dos mil cuatro.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- RÚBRICA.- El Secretario de Desarrollo Económico.- ANTONIO ZARAÍN GARCÍA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO</small>
+
+P.O. 3 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
