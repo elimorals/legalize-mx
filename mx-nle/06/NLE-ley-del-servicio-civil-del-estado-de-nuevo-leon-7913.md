@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "1969-11-15"
+last_updated: "1981-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 1981.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -49,25 +49,43 @@ Para los efectos de esta Ley, se entiende por trabajador a toda persona física 
 
 Desde el momento en que el trabajador toma posesión del empleo o encargo para el que haya sido designado, o desde que aparezca su nombre en nómina o lista de raya, se entiende establecida la realización jurídica protegida por este Ordenamiento.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1981)</small>
+
 ###### Art. 4o.
 
-Para los efectos de esta Ley, los trabajadores se dividirán en dos grupos:
+Para los efectos de esta Ley, el personal al Servicio del Estado o de sus Municipios se clasificará de la manera siguiente:
 
-I.- Trabajadores de base, y
+I.- Trabajadores de Confianza:
 
-II.- Trabajadores de confianza.
+A) DEL PODER LEGISLATIVO:
 
-A).- Serán trabajadores de confianza en el Poder Legislativo: El C. Oficial Mayor; en el Poder Ejecutivo: los Ayudantes del C. Gobernador; el C. Secretario Particular; el C. Secretario General de Gobierno, el C. Oficial Mayor; los CC. Abogados Consultores; el Auditor General; el C. Intendente del Palacio; el C. Ing. Jefe de la Oficina de Fomento y Obras Públicas; los integrantes del Comité Administrador del Departamento de Maquinaria Agrícola; el C. Director de los Talleres Linotipográficos del Gobierno; el C. Proveedor General de Gobierno, el C. Director de la Banda de Música del Estado; el C. Procurador General de Justicia y Sub-Procurador; el C. Jefe de la Policía Judicial del Estado; el C. Procurador General de la Defensa del Trabajo; el C. Presidente de la Junta Central de Conciliación y Arbitraje; así como los CC. Presidentes de las Juntas Municipales Permanentes que funcionen en el Estado; el C. Srio. de la Comisión Agraria Mixta; el C. Inspector Gral. de Policía; el C. Srio de la Inspección Gral. de Policía y Comandantes; el C. Director del Penal del Estado; el C. Tesorero Gral. del Estado; el C. Oficial Mayor; el C. Contador; los CC. Recaudadores de Rentas de los Municipios; los CC. Visitadores de Hacienda; Registradores de la Propiedad; Oficiales del Registro Civil; el C. Presidente de la Junta Central Catastral; el C. Director Gral. de Educación Primaria y Secundaria y el C. Secretario de la Dirección; el C. Rector de la Universidad de Nuevo León; el C. Secretario General; el C. Oficial Mayor; el C. Tesorero; los CC. Directores de las Facultades y Escuelas dependientes de la Universidad; el C. Jefe del Departamento de Acción Social Universitaria; los CC. Miembros del Consejo Directivo de la Junta de Beneficencia Pública; los CC. Directores de Hospitales y Clínicas, así como el C. Jefe de Interventores de Espectáculos Públicos; los CC. Representantes del Ejecutivo en las Comisiones o Juntas que realicen trabajos con cooperación de la Federación; en el Poder Judicial; el C. Secretario del Tribunal Pleno.
+El Oficial Mayor y Asesores.
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 1964)</small>
+B) DEL PODER JUDICIAL:
 
-B).- Serán trabajadores de confianza en los municipios, los siguientes: en la Presidencia Municipal: el C. Srio. Particular; el Chofer del C. Presidente Municipal; Jefe de Agentes Confidenciales; Sub-Jefe de Agentes Confidenciales y Representante en México, en la Secretaría: el C. Srio. del R. Ayuntamiento; el C. Oficial Mayor; el C. Oficial Primero; en la Tesorería: El C. Tesorero, el Contador General, el Sub-Contador, los cajeros y los recaudadores; Jefe y Sub-Jefe de Colectores de Pisos; Jefe de Inspectores de Comercio, Sub-Jefe de Inspectores de Comercio; Jefe de Máquinas Electro-Fonéticas y Jefe de Inspectores de Espectáculos; en el Departamento Legal: el C. Jefe del Departamento y Secretario en la Proveeduría: el C. Proveedor Municipal; así como el Supervisor General; en el Alumbrado Público: el C. Jefe y Sub-Jefe del Depto; en la Oficina de Mejoras: el C. Jefe de la Junta de Mejoras Materiales y Sub-Jefe de la misma; en Obras Públicas: el C. Director, el Sub-Director; el Secretario y Jefe del Departamento de Bienes Municipales; Panteones: el C. Administrador; en Limpia y Transportes: el C. Jefe del Departamento; Sub-Jefe y Supervisor de Equipos; en Jardines: el C. Jefe y Sub-Jefe; Puesto de Socorros: el C. Director Sub-Director; Administrador del Puesto de Socorros: el C. Jefe de Agentes de Sanidad y Sub-Jefe de Agentes; Rastro: el C. Administrador del Rastro; Sub-Jefe Médico Veterinario; Romanero; Jefe de Maquinaria; Jefe de Inspectores de Carnes y Sub-Jefe de Inspectores de Carnes; Tránsito: Jefe del Departamento; Sub-Jefe Médico de Tránsito; el C. Srio. y Perito en Choques; Juzgados Menores: el C. Defensor de Oficio en asuntos Civiles; Comisarías: Comisarios y Sub-Comisarios; Alcaide de la Cárcel Correccional; Sub-Alcaide e Inspector de Comisarías; Departamento de Recreación: Jefe del Departamento y Sub-Jefe; Acción Cívica Municipal: C. Jefe del Departamento y Sub-Jefe; Biblioteca Municipal: el C. Director de la Biblioteca; Junta Municipal de Reclutamiento: el Jefe del Departamento.
+Magistrados, Jueces, Secretarios, Actuarios y Comisarios.
 
-C).- Los trabajadores no incluidos en los incisos anteriores serán de base y por ello inamovibles. Los de Nuevo ingreso serán de base, después de seis meses de servicio. Cuando se trate de plazas de nueva creación, la clasificación que corresponda a un trabajador será determinada por la disposición legal que las establezca.
+C) DEL PODER EJECUTIVO:
+
+Secretarios, Jefe de Ayudantes, Ayudantes, Coordinadores o Asesores del C. Gobernador, Secretario General de Gobierno, Secretario de Finanzas y Tesorero General del Estado, Procurador General de Justicia, Oficial Mayor de Gobierno, Secretarios de Despacho, Presidente de la Junta de Conciliación y Arbitraje; Vice-Presidente de la Junta Estatal de Agua Potable y Alcantarillado; Presidente del Consejo Tutelar para Menores; Procuradores para la Defensa del Trabajo; Presidentes de Juntas de Conciliación y Arbitraje; Secretarios; Jueces de lo Fiscal; Sub-Secretarios; Sub-Procuradores; Sub-Tesoreros, Contralores; Directores Generales; Directores; Sub-Directores, Coordinadores, Delegados de Finanzas; Oficiales del Registro Civil; así como los Asesores, Coordinadores, Auxiliares Directos de los Titulares mencionados; Defensores de Oficio; Registradores; Agentes y Delegados del Ministerio Público; Médicos Legistas; todo el personal de los servicios Aéreos del Estado; Peritos Dictaminadores; Supervisores; Auditores; Administradores; Inspectores; Conciliadores, y los Representantes del Ejecutivo en Comisiones, Juntas, Fondos, Fideicomisos y Empresas u organismos descentralizados.
+
+D) DE LOS MUNICIPIOS:
+
+Los Secretarios, Jefe de Ayudantes, Ayudantes, Auxiliares, Coordinadores o Asesores del C. Presidente Municipal; el Secretario del Ayuntamiento; los Secretarios; el Tesorero; Oficiales Mayores; Oficiales Primeros; Proveedores; Contralores; Sub-Tesoreros; Sub-Proveedores; Directores Generales; Directores; Sub-Directores; Coordinadores; Delegados Municipales; Recaudadores; Jefes y Sub-Jefes; así como los Asesores; Coordinadores y Auxiliares Directos de los Titulares mencionados; Instructores de Artes; Manualidades u oficios; Profesionistas que presten atención médica; Administradores; Actuarios; Comisarios; Peritos Dictaminadores; Supervisores; Auditores; y los Representantes del C. Presidente Municipal en Comisiones, Juntas, Fondos, Fideicomisos y Empresas u organismos descentralizados.
+
+Así mismo todos los elementos que laboren en las corporaciones de Seguridad Pública del Estado o los Municipios; incluyendo la de tránsito; la de la Policía Judicial y de los Reclusorios del Estado y de los Municipios; quienes se regirán por sus Reglamentos de Trabajo respectivo (sic), con excepción del personal administrativo.
+
+Y todos aquellos trabajadores del Estado o sus Municipios que ejerzan funciones de dirección, vigilancia o fiscalización.
+
+II.- Serán trabajadores de base los no comprendidos o enunciados por su categoría o función en la Fracción anterior. Los de nuevo ingreso serán de base, después de seis meses de servicio.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1981)</small>
 
 ###### Art. 5o.
 
-Esta Ley sólo regirá las relaciones entre los Poderes del Estado y los trabajadores de base y entre los Ayuntamientos de los Municipios y sus trabajadores de base. La Policía; los Agentes de Tránsito y el Personal de Vigilancia de todo género de establecimientos penitenciarios y carcelarios, así como el personal de Hospitales, Guarderías y Puesto de Socorro, disfrutarán de las mismas prerrogativas concedidas por esta Ley a los empleados de base, con excepción del derecho de Huelga. El sistema de trabajo y régimen interior de los últimos citados, se normarán por su reglamento respectivo. Los empleados de confianza no quedan comprendidos en este Ordenamiento y en igual forma quedan exceptuados de la presente Ley los trabajadores y personal de las empresas expropiadas, poseídas o administradas por el Gobierno.
+Esta Ley regirá las relaciones de los trabajadores de los Poderes del Estado y de sus Municipios. El personal administrativo de hospitales, guarderías, puestos de socorros y, en general, el de aquellas dependencias en que la suspensión del servicio implique un daño colectivo inminente, disfrutarán de las mismas prerrogativas concedidas por esta Ley a los trabajadores de base, con excepción del derecho de huelga.
+
+Todos los trabajadores de las dependencias que funcionan en cooperación entre los Municipios, el Estado y la Federación, así como los fideicomisos, fondos y empresas u organismos descentralizados que dependan o donde intervenga el Gobierno Estatal o los Municipios, quedarán sometidos a lo que dispongan las leyes que los rigen; y en lo no previsto a la presente Ley.
 
 ###### Art. 6o.
 
@@ -227,9 +245,11 @@ En ningún caso, los trabajadores al servicio del Estado o de los Municipios, pe
 
 ### CAPITULO CUARTO. De la Obligación del Gobierno del Estado y de los Ayuntamientos, para sus trabajadores considerados individualmente
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 1981)</small>
+
 ###### Art. 36o.
 
-Son obligaciones del Gobierno y de los Ayuntamientos:
+Son obligaciones del Gobierno y de los Municipios:
 
 I.- Preferir en igualdad de condiciones de competencia y antigüedad a los trabajadores que estén prestando sus servicios o los hayan prestado con anterioridad en forma satisfactoria, a los que acrediten tener mejores derechos conforme al escalafón, y a los Veteranos de la Revolución debidamente reconocidos por la Defensa Nacional. Para los efectos del párrafo que antecede en cada una de las unidades burocráticas se formarán los escalafones de antigüedad y eficiencia.
 
@@ -249,7 +269,9 @@ VIII.- El escalafón así formado, y sus rectificaciones tendrán la publicidad 
 
 IX.- Proporcionar a los trabajadores y funcionarios las facilidades indispensables para obtener habitaciones cómodas e higiénicas, ya sea adquiriéndose en propiedad o mediante el arrendamiento de las mismas, cobrándoseles rentas moderadas que no excederán del medio por ciento mensual del valor catastral de las fincas.
 
-X.- Proporcionar gratuitamente a los trabajadores al servicio del Estado y sus familiares y a los trabajadores al servicio de los Municipios y sus familiares, servicios Médicos, y de medicinas y que deberán quedar establecidas de manera fija en cada Unidad Burocrática.
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 1981)</small>
+
+X.- Proporcionar a los trabajadores al Servicio del Estado y sus familiares y a los trabajadores al servicio de los Municipios y sus familiares, servicios médicos y de medicinas, directamente o a través de las instituciones que se determinen.
 
 XI.- Cubrir las indemnizaciones por separación injustificada por los accidentes que sufran los trabajadores con motivo del trabajo o a consecuencia de él, y por las enfermedades profesionales que contraigan en el trabajo o en el ejercicio de la profesión que desempeñen.
 
@@ -259,7 +281,9 @@ XIII.- Proporcionar dentro de sus posibilidades económicas, campos deportivos p
 
 XIV.- Conceder licencia sin goce de sueldo a sus trabajadores, para el desempeño de las comisiones que se les confieran o cuando fueren promovidos temporalmente al ejercicio de otra comisión; o como funcionario público de elección. Las licencias abarcarán todo el período para el desempeñoñ (sic) de la comisión. El tiempo que dure se computará como efectivo dentro del escalafón.
 
-XV.- Hacer las deducciones que solicite la organización a que pertenezca el funcionario o trabajadores siempre que se sujeten a los términos de esta Ley.
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 1981)</small>
+
+XV.- Hacer las deducciones que solicite la organización a que pertenezcan los trabajadores siempre que se sujeten a los términos de esta Ley.
 
 ### CAPITULO QUINTO. De las obligaciones de los funcionarios y trabajadores
 
@@ -435,29 +459,21 @@ Todos los conflictos que surjan entre la Federación de Organizaciones y las uni
 
 Las remuneraciones que se paguen a los Directores y empleados de las organizaciones y, en general, los gastos que originen el funcionamiento de éstas, serán cubiertos en todo caso por los miembros de la organización de que se trate.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1981)</small>
+
 ###### Art. 58o.
 
-Para los efectos de esta Ley, las Unidades Burocráticas se formarán con los trabajadores de las dependencias Gubernamentales y Municipales que separadamente se anotan a continuación, en el concepto de que cada una constituirá una Unidad.
+Para los efectos de esta Ley, cada una de las unidades burocráticas se integrarán con los trabajadores de base de:
 
-I.- Poder Ejecutivo con las excepciones que más abajo se anotan.
+a).- El Gobierno del Estado, con excepción de los trabajadores a que se refieren los incisos b) y c).
 
-II.- Poder Legislativo.
+b).- Educación Pública.
 
-III.- Poder Judicial.
+c).- Escuela Normal Superior del Estado.
 
-IV.- Educación Pública.
+d).- Las Unidades Burocráticas Municipales comprenderan a todo el personal de base que preste un servicio a los Municipios.
 
-V.- Caminos, Maquinaria Agrícola, Obras Públicas y todas sus Dependencias.
-
-VI.- Asistencia, Beneficencia Pública y sus Dependencias.
-
-VII.- Universidad de Nuevo León y todas sus Dependencias.
-
-VIII.- Las Unidades Burocráticas Municipales comprenderán a todo el personal de base que presten sus servicios al Municipio.
-
-> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 1969)</small>
-
-IX.- Escuela Normal Superior del Estado.
+Los fondos, fideicomisos, juntas, comisiones y empresas u organismos descentralizados, que dependan o donde intervengan el Estado o los Municipios, podrán integrar unidades burocráticas con sus trabajadores de base; previa aprobación del Tribunal de Arbitraje para los Trabajadores al Servicio del Estado.
 
 ### CAPITULO SEGUNDO. De las Huelgas
 
@@ -553,9 +569,11 @@ Al resolverse que una declaración de huelga es legal, el Tribunal de Arbitraje,
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1981)</small>
+
 ###### Art. 76o.
 
-Los riesgos profesionales que sufran los trabajadores al servicio del Estado, o de los Municipios, se regirán por las disposiciones de la Ley Federal del Trabajo; pero las licencias que con ese motivo se concedan, serán con goce de sueldo íntegro en los casos en que esta Ley conceda igual prerrogativa tratándose de enfermedades no profesionales.
+Los riesgos profesionales que sufran los trabajadores al servicio del Estado o de los Municipios, se regirán por las disposiciones de la Ley Federal del Trabajo.
 
 ###### Art. 77o.
 
@@ -675,7 +693,9 @@ II.- Para conocer de los conflictos colectivos que surjan entre las Organizacion
 
 III.- Para conocer de los conflictos intergremiales que se susciten entre las organizaciones de trabajadores al servicio del Estado o del Municipio.
 
-IV.- Para llevar a cabo el registro de las organizaciones de trabajadores al Servicio del Estado y la cancelación del mismo registro, y
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 1981)</small>
+
+IV.- Para llevar a cabo el registro de las organizaciones de trabajadores al Servicio del Estado y sus Municipios y la cancelación del mismo registro, y
 
 V.- Para nombrar el personal necesario para el funcionamiento del mismo.
 
@@ -755,25 +775,23 @@ Las resoluciones dictadas por el Tribunal de Arbitraje, serán inapelables, y se
 
 Las autoridades estarán obligadas a prestar auxilios al Tribunal de Arbitraje para hacer respetar sus resoluciones, cuando fueren requeridas para ello.
 
-## TITULO SEPTIMO. De las Sanciones por infracciones a esta Ley y por desobediencia a las resoluciones del Tribunal de Arbitraje
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE FEBRERO DE 1981)</small>
+
+## TITULO SEPTIMO. De las Oficinas de Personal
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1981)</small>
 
 ###### Art. 108o.
 
-Las infracciones a la presente Ley que no tenga establecida otra fracción, y la desobediencia a la resolución del Tribunal de Arbitraje, se castigarán:
+El Gobierno del Estado y los Municipios, establecerá (sic) oficina de personal que tendrá las siguientes atribuciones:
 
-I.- Con multa hasta de $1,000.00, y
+I.- Controlar al personal de todas las dependencias.
 
-II.- Con destitución del trabajador sin responsabilidad para el Estado o el Municipio.
+II.- Integrar los expedientes individuales de los trabajadores y llevar en éstos el registro de la trayectoria del trabajador en el servicio público.
 
-III.- Podrán ser sancionados también los faltistas y los que no cumplan con los horarios de entrada y salida a su trabajo, estableciéndose el principio de puntos buenos y malos, siendo los primeros para los casos en que el trabajador sea cumplido y cuyo empeño y laboriosidad lo hagan merecedor de ese estímulo y los últimos para sus faltas.
+III.- Proporcionar, a los trabajadores que lo soliciten, la información que éstos requieran sobre sus expedientes y expedir a éstos, constancias que certifiquen su antigüedad, categoría y sueldo.
 
-A).- Los puntos buenos servirán no solo para acreditar al empleado o funcionario como un buen trabajador y por lo tanto para ser preferido en casos de ascensos y demás de que habla esta Ley, sino para definir los puntos malos que llegare a tener; dándose para ese efecto, a los puntos buenos y malos, el mismo valor.
-
-B).- En cada oficina se llevará un expediente para cada empleado o funcionario que en ella presten sus servicios, en el que semanariamente se anotarán los puntos buenos y malos. Si durante la semana no ha cometido el trabajador falta que lo haga merecedor de un punto malo, se le anotará, de oficio, un punto bueno, anotándose también un punto por cada trabajo extraordinario que ejecute y en cada ocasión que colabore con la oficina, fuera de sus obligaciones, para el más rápido despacho de los negocios y para conservar el orden y buena marcha de la misma.
-
-C).- Cada dos faltas de puntualidad, sin permiso o causas justificadas, dará lugar a la anotación de un punto malo, en el expediente del trabajador; el abandono del trabajo antes de la hora, a punto malo; cada falta de asistencia sin causa justificada o sin permiso del jefe de la Oficina, causará un punto malo. En el concepto de que al reunir el trabajador en su expediente 50 puntos malos en un año, ser motivo de terminación de los efectos del nombramiento, y el empleado o funcionario quedará fuera de servicio sin responsabilidad para el Estado.
-
-D).- Al hacer el cómputo anual a que se refiere el párrafo anterior, se hará constar en el expediente si el trabajador resultó o no con puntos malos para llevar nueva cuenta el año siguiente. Estas sanciones serán impuestas, en su caso, por el Tribunal de Arbitraje.
+IV.- Conservar en buen estado los Archivos de expedientes, incluyendo los de los trabajadores que hayan causado baja. El archivo de Expedientes servirá a las Autoridades para tener los antecedentes del trabajador que reingrese a las Dependencias y para aumentar a éste su antigüedad anterior, si la tuviere.
 
 T R A N S I T O R I O S
 
@@ -822,3 +840,21 @@ UNICO:- Este Decreto entrará en vigor el día siguiente al de su publicación e
 P. O. 15 DE NOVIEMBRE DE 1969.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P. O. 13 DE FEBRERO DE 1981.
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+###### ARTICULO SEGUNDO
+
+- El personal de las corporaciones de Seguridad Pública del Estado o de los Municipios incluyendo Tránsito, Policía Judicial, y Reclusorios del Estado y de los Municipios, se regirán por sus propios reglamentos que expedirá la Autoridad competente. El Personal que actualmente preste sus servicios en cualesquiera de las Corporaciones señaladas conservará su antigüedad, derechos de escalafón y las prestaciones económicas serán similares a las de los trabajadores del Estado, o de los Municipios según el caso.
+
+###### ARTICULO TERCERO
+
+- Los Reglamentos especiales de los Cuerpos de Seguridad mencionados, se expedirán en un plazo no mayor de 60 (sesenta) días, contados a partir de la publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO CUARTO
+
+- Se derogan las disposiciones y leyes que se opongan al presente Decreto.
