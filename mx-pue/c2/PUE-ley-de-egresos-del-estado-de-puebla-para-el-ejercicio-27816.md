@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-egresos-del-estado-de-puebla-para-el-ejercicio-27816"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-20"
-last_updated: "2002-12-20"
+last_updated: "2003-08-06"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ LEY DE EGRESOS DEL ESTADO DE PUEBLA
 
 PARA EL EJERCICIO FISCAL 2003
 
-TEXTO ORIGINAL.
+Ultima reforma publicada en el Periódico Oficial: l 6 de Agosto de 2003.
 
-Ley publicada en el Periódico Oficial del Gobierno de Puebla. el 20 de diciembre de 2002
+Ley publicada en el Periódico Oficial del Gobierno de Puebla el 20 de diciembre de 2002
 
 Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Congreso del Estado.- Puebla.
 
@@ -763,13 +763,19 @@ En materia de obra pública ejecutada con recursos federales y estatales, se est
 
 Corresponde a la Secretaría contratar y manejar la Deuda Pública del Gobierno del Estado y otorgar la garantía del mismo para la realización de operaciones crediticias, siempre que los créditos se destinen a inversiones públicas productivas en los términos de la legislación aplicable y que sean acordes con los objetivos y prioridades del Plan Estatal de Desarrollo 1999-2005. Las entidades podrán ejercer las atribuciones que en particular le señala la legislación vigente en la materia.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2003)</small>
+
 ###### ARTÍCULO 80.
 
-El Gobierno del Estado, a través de la Secretaría, durante el presente ejercicio, podrá contratar financiamiento para inversiones públicas productivas de sus dependencias o entidades, de conformidad con la legislación vigente en la materia.
+El monto máximo para contratar obligaciones o empréstitos a cargo del Ejecutivo del Estado, destinados a inversiones públicas productivas, para el presente ejercicio fiscal será de $ 1,500'000,000.00 (UN MIL QUINIENTOS MILLONES DE PESOS 00/100 M.N.), más los accesorios financieros que se generen por la contratación y ejercicio de dichos financiamientos.
 
-Asimismo, del presupuesto autorizado se determinarán los importes correspondientes para satisfacer los compromisos derivados del financiamiento que se contrate durante el presente ejercicio.
+Asimismo, el monto máximo de las obligaciones o empréstitos a cargo de las Entidades del Ejecutivo del Estado durante el presente ejercicio fiscal, será de $ 160'000,000.00 (CIENTO SESENTA MILLONES DE PESOS 00/100 M.N.), más los accesorios financieros que se generen por la contratación y ejercicio derivado de dichos financiamientos.
 
-El Ejecutivo, por medio de la Secretaría, informará al Poder Legislativo la situación que guarda la deuda directa y contingente al rendir la Cuenta Pública del ejercicio correspondiente.
+Para cubrir las erogaciones que resulten de la contratación de la deuda a que se refiere el primer párrafo de este artículo y que deban pagarse durante el presente ejercicio fiscal, la Secretaría, prodrá destinar recursos del Presupuesto de Egresos autirizado hasta por la cantidad total de $ 203'000,000.00 (DOSCIENTOS TRES MILLONES DE PESOS 00/100 M.N.)
+
+Tratándose de las Entidades, éstas, de su propio presupuesto de Egresos, determinarán las cantidades que se destinarán a las amortizaciones que deban realizarse en el presente ejercicio fiscal.
+
+El Ejecutivo Estatal, a través de la Secretaría, informará al Honorable Congreso del Estado la situación que guarda la deuda al rendir la Cuenta Pública del Ejercicio correspondiente.
 
 ###### ARTÍCULO 81.
 
@@ -844,3 +850,11 @@ Artículo Quinto.- Si durante la vigencia de la presente Ley, son creados Organi
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de diciembre de dos mil dos.- Diputado Presidente.- ADRIÁN VÍCTOR HUGO ISLAS HERNÁNDEZ.- Rúbrica- Diputado Vicepresidente.- JUAN RAMÍREZ RAMÍREZ- Rúbrica.- Diputado Secretario.- JOSÉ GERARDO HILARIO GARCILAZO MARTÍNEZ.- Rúbrica.- Diputada Secretaria.- MARÍA SARA CAMELIA CHILACA MARTÍNEZ.- Rúbrica
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los doce días del mes de diciembre del año dos mil dos.- El Gobernador Constitucional del Estrado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.
+
+> <small>N.DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE AGOSTO DE 2003
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para la contratación de financiamiento que requiera el Ejecutivo del Estado y sus Entidades Paraestatales, se sujetarán a lo dispuesto en los Decretos de autorización correspondiente.
