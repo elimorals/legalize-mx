@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1984-02-18"
+last_updated: "1984-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1984.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -977,11 +977,11 @@ El Secretario General de Gobierno, en unión del Procurador General de Justicia,
 
 El ejercicio del Poder Judicial se deposita en su cuerpo que se denominará Tribunal Superior de Justicia del Estado, en Jueces de Primera Instancia y Menores.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1984)</small>
 
 ###### Art. 82.
 
-El Tribunal Superior de Justicia del Estado, se compondrá de tres Magistrados Propietarios y tres Suplentes o Supernumerarios.
+El Tribunal Superior de Justicia del Estado, se compondrá de Cinco Magistrados Propietarios y Cinco Suplentes o Supernumerarios.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
@@ -1579,7 +1579,7 @@ P.O. 7 DE ENERO DE 1939.
 
 UNICO.- El presente Decreto surte sus efectos a partir del día primero de enero de mil novecientos treinta y nueve.
 
-P.O. 27 DE NOVIEMBRE DE 1940
+P.O. 27 DE NOVIEMBRE DE 1940.
 
 ART. PRIMERO.- Los juicios de responsabilidad oficial que se encuentren instaurados en contra de Ayuntamientos en general o de CC. Regidores en particular, se declaran sujetos a la revisión del H. Congreso, para lo cual el Magistrado del Supremo Tribunal o el Procurador General de Justicia del Estado, en su caso, remitirán al propio Congreso los expedientes respectivos dentro del término de diez días contados desde la fecha en que entre en vigor esta disposición.
 
@@ -1776,3 +1776,7 @@ Publíquese en el Periódico Oficial, Organo del Gobierno del Estado.
 P.O. 18 DE FEBRERO DE 1984.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 21 DE JULIO DE 1984.
+
+UNICO.- Remítase el presente Decreto a los Ayuntamientos de la Entidad en los términos y para los efectos del Artículo 131 de la Constitución Política Local y publíquese en el Periódico Oficial, incluyendo la declaratoria que corresponda.
