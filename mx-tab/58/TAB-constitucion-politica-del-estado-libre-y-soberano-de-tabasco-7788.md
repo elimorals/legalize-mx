@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2000-11-29"
+last_updated: "2000-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -753,15 +753,23 @@ B) El Gobernador Interino, el Provisional o el Ciudadano que bajo cualquier deno
 
 El Gobernador, al tomar posesión de su cargo, rendirá ante el Congreso o ante la Comisión Permanente la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de Gobernador que el Pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado. Si no lo hiciere así que la Nación o el Estado me lo demanden".
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>N. DE E. VEASE ACCION DE INCONSTITUCIONALIDAD 9/2001, P.O. 17 DE MARZO DE 2001.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 47.
 
-En el caso de falta absoluta del Gobernador, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviera en sesiones, se erigirá inmediatamente en Colegio Electoral y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, a un Gobernador Interino.
+En el caso de falta absoluta del Gobernador, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en Sesiones, se erigirá inmediatamente en Colegio Electoral y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, a un Gobernador Interino. Si no se reúne el quórum requerido o los Diputados presentes no aprueban el nombramiento por mayoría absoluta, se convocará a una segunda Sesión para los mismos efectos, y si en ella tampoco acude el número necesario de Diputados o persiste el desacuerdo en el nombramiento de Gobernador Interino, se convocará a una tercera Sesión, que será celebrada con los Diputados que acudan y el nombramiento citado se hará con el acuerdo que se tome por la mayoría de los Diputados presentes.
 
-El mismo Congreso expedirá, dentro de los cinco días siguientes al de la designación de Gobernador Interino, la convocatoria para la elección de Gobernador que debe concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para efectuar elecciones, un plazo no menor de tres meses ni mayor de seis.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará, desde luego, a un Gobernador Provisional y convocará a sesiones extraordinarias al Congreso para que éste designe al Gobernador Interino y expida la convocatoria para la elección de Gobernador, en los términos del párrafo anterior.
+El mismo Congreso expedirá, la convocatoria para la elección de Gobernador que deba concluir el periodo respectivo; debiendo mediar entre la fecha de la convocatoria y la que se señale para efectuar elecciones, un plazo no menor de tres meses ni mayor de dieciocho.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará desde luego, a un Gobernador Provisional y convocará a sesiones extraordinarias al Congreso para que éste designe al Gobernador Interino y proceda en los términos del párrafo anterior.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 Cuando la falta de Gobernador ocurriese después del segundo año del período respectivo, si el Congreso se encontrase en sesiones designará al Gobernador Sustituto que deberá concluir el período. Si el Congreso no estuviera reunido, la Comisión Permanente nombrará un Gobernador Provisional y convocará al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la designación Gobernador Sustituto.
 
@@ -1888,3 +1896,15 @@ P.O. 29 DE NOVIEMBRE DE 2000.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 30 DE DICIEMBRE DE 2000.
+
+DECRETO 450.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
