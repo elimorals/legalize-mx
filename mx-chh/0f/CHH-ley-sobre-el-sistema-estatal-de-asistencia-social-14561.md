@@ -4,7 +4,7 @@ identifier: "CHH-ley-sobre-el-sistema-estatal-de-asistencia-social-14561"
 country: "mx"
 rank: "ley"
 publication_date: "1987-03-21"
-last_updated: "1994-11-30"
+last_updated: "2000-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2000.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 21 de marzo de 1987.
 
@@ -197,9 +197,27 @@ XVII.- Los análogos y conexos a los anteriores que tiendan a modificar y mejora
 
 El Ejecutivo del Estado contará con un organismo público descentralizado, con personalidad jurídica competencia y patrimonio propios, que se denominará Sistema para el Desarrollo Integral de la Familia del Estado de Chihuahua, el cual será la entidad rectora de la asistencia social y tendrá como objetivos la promoción de ella, la prestación de servicios en ese campo, el incremento de la interrelación sistemática de acciones que en la materia lleven a cabo las instituciones públicas y privadas, así como la realización de las demás acciones que establecen las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 14.
 
-Cuando esta Ley haga mención al Organismo, se entenderá hecha al Sistema para el Desarrollo Integral de la Familia del Estado de Chihuahua.
+Para los efectos de esta ley deberá entenderse por:
+
+I.- Familia: la célula de la sociedad que provee a sus miembros, de los elementos que se requieren en sus diversas etapas de desarrollo, en los términos del Código Civil del Estado de Chihuahua;
+
+II.- Desarrollo integral: las actividades que por su naturaleza atienden al pleno desenvolvimiento del potencial de las personas, a la atención de su salud, al de su medio ambiente físico y social, así como al respeto de sus garantías constitucionales y derechos humanos;
+
+III.- Centro de atención: los lugares donde los adultos mayores puedan recibir asistencia social en los términos de esta ley y demás dispositivos legales aplicables;
+
+IV.- Geriatría: rama de la medicina que estudia la vejez y los medios para curar las enfermedades propias de ésta;
+
+V.- Gerontología: la ciencia que estudia los cambios anatómicos, fisiológicos, bioquímicos y psicológicos de los seres humanos, producidos por efecto del tiempo, así como los efectos y consecuencias derivados de la vejez;
+
+VI.- Procuraduría: la Procuraduría General de Justicia del Estado, quien contará con un órgano especializado para la protección jurídica y defensa de los derechos de los adultos mayores;
+
+VII.- Secretaría: la Secretaría de Fomento Social del Gobierno del Estado;
+
+VIII.- Organismo: el Sistema para el Desarrollo Integral de la Familia del Estado de Chihuahua.
 
 ###### ARTICULO 15.
 
@@ -567,6 +585,96 @@ IV.- Formulación de sugerencias para mejorar los servicios de asistencia social
 
 V.- Otras actividades que coadyuven a la protección de la salud.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE MAYO DE 2000)</small>
+
+### CAPITULO V. DE LOS ADULTOS MAYORES
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2000)</small>
+
+###### ARTICULO 44.
+
+Para los efectos de esta Ley se entenderá por adulto mayor a la persona de 65 años de edad o más.
+
+Los adultos mayores tendrán la obligación de participar en la planeación y ejecución de los diversos programas que se instituyan en su beneficio.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2000)</small>
+
+###### ARTICULO 45.
+
+La atención que preste el Estado a los adultos mayores deberá ser integral, respetuosa de su dignidad en cuanto personas, orientada a evitar todo tipo de discriminación y segregación por motivos de edad, de tal manera que contribuya al fortalecimiento de la solidaridad y al apoyo mutuo entre generaciones, conforme a lineamientos de largo plazo que hagan posible la estabilización de una sociedad envejecida, pero energética y productiva, que aliente a las generaciones futuras.
+
+Para los efectos de esta ley, se entiende por adultos mayores a las personas de 65 años de edad o más, y por atención integral:
+
+I.- La prestación de servicios médicos especializados de acuerdo con las características físicas, mentales y sociales del mencionado grupo de edad;
+
+II.- La creación de oportunidades de carácter laboral para su desempeño productivo en los sectores público, social y privado, de acuerdo con sus condiciones psicológicas, orgánicas y sociales;
+
+III.- La puesta en práctica de programas que tengan por objeto la realización de terapias ocupacionales, la capacitación laboral, la participación en servicios comunitarios y en general su adiestramiento en artes y oficios;
+
+IV.- La puesta en práctica de programas cuyo fin sea favorecer la interactuación de los adultos mayores con los diversos grupos que integran la sociedad, a fin de fortalecer los vínculos de comunicación y solidaridad social entre ellos;
+
+V.- La programación y el fomento de actividades educativas, deportivas, artísticas, de diversión, sano esparcimiento y culturales;
+
+VI.- El sustento a los adultos mayores que no puedan valerse por si mismos; y
+
+VII.- En general, la ejecución de programas y actividades que tengan por objeto fortalecer una cultura de respeto, solidaridad y justa valoración de los ancianos.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2000)</small>
+
+###### ARTICULO 46.
+
+El Estado concederá estímulos fiscales a las empresas asentadas en su territorio que creen puestos de trabajo para personas de 50 años o más, así como para discapacitados, de conformidad con el reglamento que al efecto expida.
+
+En los casos de adultos mayores que no puedan valerse por sí mismos, por carecer de recursos o por estar imposibilitados para obtenerlos, el Estado ejercerá sus derechos y obligaciones en materia de asistencia pública y podrá coordinar esfuerzos con las instituciones de asistencia privada para proveer a su sustento alimentario en los términos del Código Civil.
+
+El Estado deberá conceder, previa realización de estudios económicos anuales, una reducción en el pago de impuestos y derechos en beneficio de los adultos mayores, la cual deberá consignarse en el respectivo proyecto de presupuesto de ingresos, así como promover lo conducente ante las autoridades municipales, en los términos del Reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2000)</small>
+
+###### ARTICULO 47.
+
+La Secretaría de Fomento Social vigilará y cuidará que las acciones de salud y en general las asistenciales se sujeten a lo establecido en este ordenamiento.
+
+Asimismo, el Estado regulará a través de la Secretaría, la operación de las instituciones cuyo objeto sea la asistencia social de los adultos mayores, en cualquiera de sus modalidades, de conformidad con lo establecido en la ley de la materia y su reglamento.
+
+Compete a la Secretaría asumir la asistencia jurídica del adulto mayor para cualquier efecto administrativo o jurisdiccional, o la representación de éste cuando proceda.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2000)</small>
+
+###### ARTICULO 48.
+
+Los descendientes en línea recta o los parientes colaterales hasta el segundo grado del adulto mayor, deberán participar de manera activa, permanente y efectiva en el propósito de buscar orientación e información gerontológica para proveer a aquel de lo necesario para su vida y sustento, y vincularse con individuos o instituciones, públicas o privadas, con objeto de proteger, cumplir y gestionar por la vía legal lo establecido en este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2000)</small>
+
+###### ARTICULO 49.
+
+La familia deberá ser la institución por excelencia en la cual desenvuelvan su vida los adultos mayores, y solamente en los casos previstos por la Ley se les podrá situar en lugares distintos al seno del hogar, mismos que deberán contar con las condiciones y medios que les garanticen los cuidados debidos y el respeto a sus derechos en tanto personas.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2000)</small>
+
+###### ARTICULO 50.
+
+La familia no podrá obligar al adulto mayor a efectuar trabajos o actividades contra su voluntad o que impliquen un esfuerzo que vaya en perjuicio de su integridad, bienes y derechos.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2000)</small>
+
+###### ARTICULO 51.
+
+Es obligación de la familia y de la sociedad en general, conocer los derechos que asisten a los adultos mayores y proveer a la plena y exacta observancia de los mismos.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2000)</small>
+
+###### ARTICULO 52.
+
+Corresponde a los grupos de la sociedad organizada de los adultos mayores, participar de manera coordinada y concertada con las instituciones públicas, sociales y privadas, a efecto de coadyuvar en la planeación y ejecución de los programas que se instituyan en beneficio de aquellos.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2000)</small>
+
+###### ARTICULO 53.
+
+Cualquier persona que conozca de hechos que impliquen el mal trato, discriminación, omisión de cuidados o abandono de adultos mayores, deberá hacerlo del conocimiento de la Procuraduría o de la Secretaría, para los efectos legales a que haya lugar.
+
 T R A N S I T O R I O S
 
 PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -604,3 +712,9 @@ P.O. 30 DE NOVIEMBRE DE 1994.
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE MAYO DE 2000.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
