@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-ministerio-publico-del-estado-de-chihuahua-462
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-01-08"
-last_updated: "1992-01-08"
+last_updated: "1995-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1995.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 8 de enero de 1992.
 
@@ -55,7 +55,9 @@ A) En la averiguación previa:
 
 I.- Recibir denuncias o querellas sobre hechos que puedan constituir delitos;
 
-II.- Investigar los delitos del orden común con el auxilio de la Policía Judicial, de Servicios Periciales y de los cuerpos de seguridad pública en el Estado, cuidando de compensar cargas de trabajo distribuyéndolas de acuerdo a su especialidad;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
+
+II.- Investigar directamente los delitos del orden común y, si lo considera pertinente, solicitará el auxilio de la Policía Judicial del Estado, de Servicios Periciales y de los Cuerpos de Seguridad Pública en el Estado, cuidando de compensar cargas de trabajo, distribuyéndolas de acuerdo a su especialidad;
 
 III.- Practicar las diligencias necesarias y allegarse las pruebas pertinentes para la comprobación del cuerpo del delito y la probable responsabilidad de los inculpados para fundar y motivar, en su caso, el ejercicio de la acción penal;
 
@@ -63,13 +65,21 @@ IV.- Recabar de cualquier oficina pública los informes y datos que estime neces
 
 V.- Citar a cuanta persona pueda aportar datos para la investigación de los delitos y, en caso de no comparecer, ordenar su localización y presentación por conducto de la policía judicial o de los cuerpos de seguridad pública que actúen en su auxilio, sujetándose en todo momento al principio de respeto a los derechos de los individuos;
 
-VI.- Asegurar al ofendido en el goce de sus derechos siempre que aquellos estén legalmente justificados;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
 
-VII.- Solicitar la aplicación de las medidas precautorias de arraigo y las órdenes de cateo, en los términos del artículo 16 de la Constitución General de la República y del Código de Procedimientos Penales;
+VI.- Asesorar al ofendido, asegurando el goce de sus derechos;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
+
+VII.- Ordenar la detención de los indiciados cuando estén satisfechas las exigencias contenidas en el párrafo quinto, del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y 145 del Código de Procedimientos Penales;
 
 VIII.- Turnar las actuaciones de averiguación previa a la unidad de Agentes del Ministerio Público adscritos a los Tribunales, poniendo a su disposición, en su caso, a las personas detenidas y los objetos e instrumentos relacionados con las diligencias practicadas; y
 
-IX.- Acordar la reserva del expediente o el no ejercicio de la acción penal, en los casos que dispone el Código de Procedimientos Penales.
+IX.- Acordar la reserva del expediente o el no ejercicio de la acción penal, en los casos que dispone el Código de Procedimientos Penales;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 1995)</small>
+
+X.- Vigilar que a los indiciados los asista un defensor de oficio cuando no cuenten con defensor particular, en cumplimiento a lo previsto por el artículo 20 de la Constitución Federal.
 
 B) En la consignación y durante el proceso:
 
@@ -81,7 +91,9 @@ III.- Solicitar, en los términos del artículo 16 de la Constitución Política
 
 IV.- Poner a disposición de la autoridad judicial, sin demora, a las personas detenidas en los términos de las normas constitucionales y legales ordinarias;
 
-V.- Remitir al órgano jurisdiccional que lo haya solicitado, a las personas aprehendidas en cumplimiento de una orden dictada por éste en el término señalado por los párrafos tercero y cuarto de la Fracción XVIII del artículo 107, de la Constitución General de la República;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
+
+V.- Consignar al órgano jurisdiccional que corresponda, a las personas detenidas en cumplimiento a lo señalado por los párrafos tercero y séptimo del artículo 16, de la Constitucional General de la República;
 
 VI.- Pedir el embargo precautorio de bienes para los efectos de la reparación del daño, salvo que ésta se encuentre garantizada;
 
@@ -113,23 +125,45 @@ La institución del Ministerio Público estará a cargo de un Procurador General
 
 I.- El Subprocurador General;
 
-II.- Los Subprocuradores de Zona;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
 
-III.- Los Coordinadores Regionales;
+II.- El Contralor de Asuntos Internos;
 
-IV.- El Departamento Jurídico;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
 
-V.- Los Agentes del Ministerio Público Auxiliares adscritos a la Procuraduría y a las Subprocuradurías;
+III.- Los Subprocuradores de Zona;
 
-VI.- El Departamento de Concertación Social;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
 
-VII.- Las Oficinas del Procurador para la Atención Ciudadana;
+VI (sic).- Los Coordinadores Regionales;
 
-VIII.- Las Oficinas de Averiguaciones Previas y de Conciliación y Servicio Social, con los Agentes del Ministerio Público que autorice el presupuesto; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
 
-IX.- Los Agentes y Subagentes del Ministerio Público investigadores, los adscritos a los Tribunales Judiciales y el Coordinador de éstos en su caso.
+V.- El Departamento Jurídico;
 
-Los servidores públicos, titulares de las unidades orgánicas a que se refiere este articulo, son Agentes del Ministerio Público para todos los efectos legales que corresponda y ejercerán, en todo caso, las facultades que expresamente les sean conferidas por el Procurador.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
+
+VI.- Los Agentes del Ministerio Público Auxiliares Adscritos a la Procuraduría, a las Subprocuradurías y a la Contraloría de Asuntos Internos;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
+
+VII.- Los Agentes del Ministerio Público Especializado en la investigación y persecución de los delitos que, por su naturaleza, por la época o lugar, sean de gran incidencia o trascendencia social;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
+
+VIII.- El departamento de Concertación Social, Atención Ciudadana y Conciliación y Servicio Social;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
+
+IX.- Las Oficinas de Averiguaciones Previas, con los Agentes del Ministerio Público que autorice el presupuesto; y
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 1995)</small>
+
+X.- Los Agentes y Subagentes del Ministerio Público Investigadores, así como los adscritos a los Tribunales Judiciales.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1995)</small>
+
+Los servidores públicos titulares de las unidades orgánicas a que se refiere este Artículo, son Agentes del Ministerio Público para todos los efectos legales que corresponda y ejercerán, en todo caso, las facultades que expresamente les sean conferidas por el Procurador.
 
 ###### ARTICULO 5o.
 
@@ -175,29 +209,71 @@ VIII.- Trasmitir al personal de la institución las instrucciones generales y es
 
 IX.- Resolver sobre el ingreso, promoción, adscripción, renuncias, permisos, licencias, sanciones y estímulos de sus subalternos, sin perjuicio de las disposiciones que regulen las relaciones laborales entre el Ejecutivo del Estado y sus trabajadores;
 
-X.- Emitir resolución sobre la reserva y el archivo de los expedientes de averiguación previa y desistimiento de la acción penal;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
+
+X.- Emitir resolución sobre la reserva y el archivo de los expedientes de averiguación previa y desistimiento de la acción penal.
+
+En contra de la abstención del ejercicio de la acción penal o de su desistimiento, el interesado podrá inconformarse ante el órgano jurisdiccional que establezca la ley;
 
 XI.- Solicitar al Pleno del Supremo Tribunal de Justicia del Estado el cambio de radicación de los procesos cuando el delito imputado sea grave o el reclusorio en donde se encuentra el procesado no preste la seguridad debida;
 
 XII.- Intervenir en representación del Estado en toda controversia que afecte los intereses de éste, ante los Tribunales del Estado y de la Federación;
 
-XIII.- Designar previo acuerdo con el Ejecutivo Estatal, cuando así lo estime conveniente, un Coordinador de Agentes del Ministerio Público adscritos a los Juzgados, en aquellos lugares en que por su número sea posible distribuir sus funciones por mesas especializadas;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
+
+XIII.- Expedir, a petición de la parte directamente interesada, las certificaciones respecto a la situación legal de personas o cosas;
 
 XIV.- Propiciar la modernización de los sistemas de informática necesarios para el óptimo desempeño de las funciones del Ministerio Público y, en general, de todas las unidades administrativas de la Procuraduría;
 
 XV.- Firmar y ordenar el despacho de la correspondencia oficial y demás documentación de su competencia; difundir la información sobre las actividades de la Procuraduría; y
 
-XVI.- Las demás que se deriven de las leyes de la materia.
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 1995)</small>
+
+XVI.- Rendir a los poderes del Estado y a la Comisión Estatal de Derechos Humanos, los informes que le soliciten sobre asuntos relativos a su ramo.
+
+En el caso de la última, únicamente en asuntos de su competencia;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 1995)</small>
+
+XVII.- Nombrar al personal que suplirá las ausencias temporales de los Agentes del Ministerio Público; y
+
+XVIII.- Las demás que se deriven de las leyes de la materia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 1995)</small>
 
 ###### ARTICULO 9o.
 
-Compete al Subprocurador General, que será el que tenga su sede en la Ciudad de Chihuahua, las siguientes funciones:
+Competen al Subprocurador General, las siguientes funciones:
 
 I.- Suplir las ausencias temporales del Procurador General de Justicia;
 
 II.- Mantener la coordinación y la comunicación entre las Subprocuradurías, con el fin de garantizar el eficaz cumplimiento de los objetivos, políticas y programas establecidos por el Procurador; y
 
 III.- Las demás que le confieran otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 1995)</small>
+
+###### ARTICULO 9o.
+
+BIS.- El Contralor de Asuntos Internos tendrá el mismo nivel jerárquico que el Subprocurador General, deberá contar, para su designación, con los mismos requisitos que éste y dependerá directamente del Procurador General de Justicia o de quien lo sustituya legalmente y se auxiliará, para el ejercicio de sus funciones, del personal técnico y administrativo que se determine por acuerdo del Procurador conforme a las necesidades del servicio.
+
+Corresponden a la Contraloría de Asuntos Internos, las siguientes atribuciones:
+
+I.- Llevar a cabo los estudios relativos a la organización e instrumentación de un sistema integrado de control para el manejo eficiente y eficaz de los recursos humanos, financieros y materiales que tiene asignado la Procuraduría, informando de los resultados al Procurador;
+
+II.- Efectuar revisiones a las distintas dependencias de la Procuraduría, informando al Procurador de las observaciones y recomendaciones conducentes, estableciendo en su caso las medidas para su cumplimiento;
+
+III.- Formular los pliegos de responsabilidades, actas, recomendaciones e instrucciones que procedan en razón de las cuales turnará los expedientes respectivos a quien competa, para la continuación de su trámite, o bien, solicitará al Procurador o a quien esté facultado, la imposición de correcciones disciplinarias sin perjuicio de la acción penal que pudiere corresponder o el cese cuando éste proceda conforme a derecho.
+
+En la investigación y resolución de estas actuaciones se observarán las reglas del procedimiento penal, de esta Ley Orgánica, del Reglamento de Asuntos Internos que al efecto se expida y demás ordenamientos legales aplicables.
+
+IV.- Sugerir las medidas necesarias para reducir la incidencia de faltas administrativas entre los servidores públicos de la institución;
+
+V.- Ejercer, previo acuerdo del Procurador, las anteriores atribuciones respecto a las dependencias de la administración pública estatal que soliciten, por escrito y a través de su titular, la intervención de la Contraloría;
+
+VI.- Participar con voz y voto, conforme a los respectivos reglamentos, en toda clase de modificaciones, promociones, ingresos, remociones y sanciones respecto al personal de la Procuraduría General de Justicia del Estado; y
+
+VII.- Las demás que le confieran otras leyes y reglamentos.
 
 ###### ARTICULO 10.
 
@@ -321,9 +397,13 @@ La Policía Judicial y los Servicios Periciales actuarán bajo la autoridad y ma
 
 Toda investigación, por grave que se considere el hecho delictuoso que la genere, se deberá realizar bajo principios técnicos y aprovechando en lo conducente los avances científicos y garantizando el absoluto respeto a los derechos humanos.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1995)</small>
+
 ###### ARTICULO 25.
 
-Tratándose de delitos perseguibles de oficio o cuando la gravedad de las circunstancias lo amerite, se faculta, en su calidad de auxiliares del Ministerio Público, a la Policía Preventiva y a la de Tránsito para que, bajo su más estricta responsabilidad, practiquen las primeras diligencias que deberán remitir inmediatamente, junto con los objetos e instrumentos del delito, valores y demás que hubieren recobido (sic), así como a las personas detenidas si las hubiere.
+Tratándose de delitos perseguibles de oficio o cuando la gravedad de las circunstancias lo amerite, se faculta en calidad de auxiliares del Ministerio Público, a la Policía Preventiva y a la de Tránsito para que, bajo su más estricta responsabilidad, practiquen las primeras diligencias que deberán remitirle en un término de tres días de haberlas iniciado, junto con los objetos e instrumentos del delito, valores y demás que hubieren recogido.
+
+Si hubiere detenidos, la remisión se hará inmediatamente.
 
 ###### ARTICULO 26.
 
@@ -333,7 +413,13 @@ I.- Las del Procurador, por el Subprocurador General, y en ausencia de ambos por
 
 II.- Las de los Subprocuradores de Zona, por el Coordinador Regional con la misma sede que aquél; y
 
-III.- En los lugares donde sólo haya un Agente o Subagente del Ministerio Público, éstos serán suplidos por el Recaudador de Rentas de la localidad o quien haga sus veces.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
+
+III.- Las de los Agentes del Ministerio Público por el personal que designe el Procurador General de Justicia o bien los Subprocuradores dentro de su competencia; y
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 1995)</small>
+
+IV.- En los lugares donde sólo haya un Agente o Subagente del Ministerio Público o no haya ninguno de los dos, éstos serán suplidos por el Recaudador de Rentas de la localidad o quien haga sus veces.
 
 ###### ARTICULO 27.
 
@@ -365,9 +451,11 @@ El Gobernador del Estado calificará las excusas del Procurador y éste las de l
 
 Ningún funcionario o empleado del Ministerio Público, de la Policía Judicial o de los Servicios Periciales podrá desempeñar otro puesto oficial, salvo los de carácter docente o de beneficencia, siempre que no concurran con alguno de otro ramo. Tampoco podrá ejercer la abogacía sino en causa propia, de su cónyuge o concubina, de sus ascendientes o descendientes, de sus hermanos, adoptante o adoptado. No podrá ejercer ni desempeñar las funciones de depositario o apoderado judicial, tutor, curador, albacea judicial a no ser que tenga el carácter de heredero o legatario. El mismo impedimento habrá para ser síndico, administrador, interventor de quiebra o concurso, corredor, comisionista, árbitro o arbitrador.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1995)</small>
+
 ###### ARTICULO 33.
 
-El Ministerio Público estará investido de fe pública y podrá expedir constancias de actuaciones o registros que obren en su poder, sólo cuando exista mandamiento de autoridad competente que funde y motive su requerimiento o cuando la solicitud provenga del denunciante o querellante ofendido o su representante legal debidamente acreditado, o del inculpado o su defensor y únicamente de las declaraciones que hayan rendido, salvo en los casos que sea estrictamente indispensable para deducir derechos ante los tribunales civiles, penales, laborales o administrativos, para el trámite de alguna prestación que otorguen instituciones asistenciales, compañías de seguros y otras análogas.
+El funcionario del Ministerio Público encargado de la averiguación previa, deberá permitir al inculpado y al ofendido o a sus representantes, consultar el expediente respectivo. Asimismo, previa solicitud, les expedirá copias certificadas dé las actuaciones y registros que consten en el expediente.
 
 ###### ARTICULO 34.
 
@@ -410,3 +498,9 @@ LIC. FERNANDO BAEZA MELENDEZ
 EL SECRETARIO DE GOBIERNO
 
 LIC. MARTHA I. LARA ALATORRE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE JULIO DE 1995.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
