@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1997-06-12"
+last_updated: "1997-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JUNIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE JULIO DE 1997.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -14641,6 +14641,14 @@ El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en
 
 Si la hipoteca se ha constituído para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituída para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
 
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 1997)</small>
+
+Los institutos de seguridad social y demás instituciones u organismos que lleven al cabo (sic) programas de financiamiento o construcción de viviendas de interés social, podrán ceder sus créditos con garantía hipotecaria por endoso del título, sin necesidad de notificación al deudor, de escritura pública ni de inscripción en el Registro, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los mismos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 1997)</small>
+
+En los supuestos previstos en los dos párrafos anteriores, la inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor de el o los cesionarios referidos en tales párrafos, quienes tendrán todos los derechos y acciones derivados de ésta.
+
 ARTICULO 2860
 
 La hipoteca generalmente durará por todo el tiempo que subsista la obligación que garantice y cuando ésta no tuviere término para su vencimiento, la hipoteca no podrá durar más de diez años.
@@ -15810,3 +15818,13 @@ G.O. 12 DE JUNIO DE 1997.
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
 
 SEGUNDO. Las adopciones que se hallen en trámite a la fecha de la publicación de las presentes reformas, adiciones y modificaciones, se seguirán tramitando de acuerdo a las disposiciones vigentes, hasta antes de la publicación de estas reformas; pero si en aquellas adopciones, hubiere la voluntad del adoptante de darle a la adopción el carácter de plena deberá seguirse con este procedimiento de acuerdo con las disposiciones legales contenidas en esta ley.
+
+G.O. 31 DE JULIO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las disposiciones de esta ley, no se aplicarán a los créditos hipotecarios contratados antes de la entrada en vigor de la misma.
