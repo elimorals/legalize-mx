@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-beneficencia-para-el-estado-de-baja-california-8952"
 country: "mx"
 rank: "ley"
 publication_date: "1954-06-20"
-last_updated: "1983-07-20"
+last_updated: "2002-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE BENEFICENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1983.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIODICO OFICIAL DEL 25 DE OCTUBRE DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 20 de junio de 1954.
 
@@ -1726,3 +1728,41 @@ SEGUNDO.- Los Patronos nombrados con base en la presente reforma durarán en su 
 P.O. 20 DE JULIO DE 1983.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 25 DE OCTUBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día siguiente de su publicación, en el Periódico Oficial, órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Sobre el Sistema Estatal de Asistencia Social del Estado de Baja California publicada en el periódico Oficial No. 31 de fecha 10 de Noviembre de 1986.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Beneficencia para el Estado de Baja California, publicada en el Periódico Oficial del Estado número 20, de fecha 20 de Junio de 1954, Tomo LXVII.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado deberá elaborar el Reglamento de la Ley de Asistencia Social Para el Estado, dentro de los ciento ochenta días siguientes a partir de la entrada en vigor de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+Las Instituciones de Asistencia Social, que se hayan constituido en los términos de la Ley (sic) Beneficencia del Estado publicada en el Periódico Oficial número 20 de fecha 20 de junio de 1954, tomo LXVII, mantendrán dicho carácter y deberán adecuar su organización y funcionamiento a las disposiciones de la presente ley, dentro de los noventa días siguientes a la entrada en vigor de este ordenamiento.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Desarrollo Social, deberá lanzar convocatoria pública dirigida a las instituciones de asistencia social privada, para que en los términos y bajo las condiciones que determine en la publicación, propongan a los ciudadanos para ser miembro de la Junta de Gobierno del Sistema Estatal para el Desarrollo Integral de la Familia de Baja California, dentro de los treinta días hábiles siguientes a partir de la entrada en vigor de esta Ley; debiendo dentro del mismo término integrar la Junta de Gobierno del DIF Estatal conforme a la nueva estructura prevista en esta ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las personas designadas como miembros del Patronato del Sistema Estatal para el Desarrollo Integral de la Familia de Baja California, expedidos al amparo de la ley que se abroga, mantendrán su vigencia en los mismos términos y condiciones en que fueron expedidos.
+
+###### ARTÍCULO OCTAVO.
+
+Los nombramientos del personal del Sistema Estatal para el Desarrollo Integral de la Familia de Baja California, expedidos al amparo de la ley que se abroga, mantendrán su vigencia en los mismos términos y condiciones en que fueron expedidos.
+
+###### ARTÍCULO NOVENO.
+
+Los acuerdos y decretos que se hayan expedido al amparo de las Leyes que se abrogan por la presente Ley, que otorgan exenciones, prerrogativas, beneficios o estímulos a instituciones de asistencia social privada, seguirán teniendo sus efectos en los términos que fueron creados. Aquellos acuerdos o decretos que no tengan fecha de terminación expirarán el treinta y uno de diciembre del dos mil dos.
