@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1995-04-29"
+last_updated: "1997-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 1997.
 
 Constitución Publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -2061,6 +2061,12 @@ Los Diputados que resulten electos durarán en sus funciones del primero de novi
 
 (DEROGADO, P.O. 7 DE ENERO DE 1994)
 
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+###### ARTICULO OCTAVO.
+
+Para los efectos de elegir a la LX Legislatura Constitucional del Estado y de renovar los Ayuntamientos que iniciaron su ejercicio el primero de enero de 1996, el proceso electoral deberá iniciarse dentro de los primeros quince días del mes de enero de 1998, debiendo operar el Congreso del Estado las modificaciones necesarias en el Código Electoral del Estado.
+
 P.O. 21 DE DICIEMBRE DE 1983.
 
 ###### ARTICULO UNICO.
@@ -2158,3 +2164,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 El nombramiento de magistrados a que se refiere el Artículo 19 de la Constitución Política Local, por esta única ocasión, deberá realizarse en el mes de mayo de 1995.
+
+P.O. 4 DE OCTUBRE DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
