@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1991-02-16"
+last_updated: "1991-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE FEBRERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 1991.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -477,9 +477,9 @@ IV. No ser ministro de ningún culto religioso;
 
 V. No tener empleo, cargo o comisión del Estado o de otros Estados, ni de la Federación o Municipios, o estar separado de ellos cuando menos noventa días antes de la elección, únicamente por lo que hace a los propietarios; y
 
-> <small>(ADICIONADA, G.O. 21 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 1991)</small>
 
-VI. No tener antecedentes penales por comisión de delitos de naturaleza intencional.
+VI. No tener antecedentes penales por la comisión de delitos realizados con dolo, exceptuando aquéllos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.
 
 ###### Artículo 49.
 
@@ -819,7 +819,7 @@ LI. Calificar las causas graves para que los ediles se separen o renuncien a sus
 
 LII. Aprobar o autorizar en su caso a los ayuntamientos, si procede:
 
-a). La contratación de obras y servicios publicos que hagan los ayuntamientos, cuando produzcan obligaciones que excedan la duración del ayuntamiento contratante;
+a). La contratación de obras y servicios públicos que hagan los ayuntamientos, cuando produzcan obligaciones que excedan la duración del ayuntamiento contratante;
 
 b). La celebración de contratos y de obras públicas cuando su valor exceda del veinte por ciento de la partida presupuestal respectiva;
 
@@ -939,9 +939,9 @@ III. No ser ministro de ningún culto religioso;
 
 IV. No tener empleo, cargo o comisión del Estado o de otros Estados, ni de la Federación o Municipios, o estar separado de ellos cuando menos sesenta días antes de la elección únicamente por lo que hace a los propietarios; y
 
-> <small>(REFORMADA, G.O. 21 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 1991)</small>
 
-V. No tener antecedentes penales, por la comisión de delitos de naturaleza intencional.
+V. No tener antecedentes penales por la comisión de delitos realizados con dolo, exceptuando aquéllos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE FEBRERO DE 1991)</small>
 
@@ -1685,7 +1685,9 @@ IV. No ser ministro de ningún culto religioso;
 
 V. No tener empleo, cargo o comisión del Estado o de otros Estados, ni de la Federación o Municipios; o estar separado de ellos, cuando menos noventa días antes de la elección; y
 
-VI. No tener antecedentes penales, por la comisión de delitos de naturaleza intencional.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 1991)</small>
+
+VI. No tener antecedentes penales por la comisión de delitos realizados con dolo, exceptuando aquéllos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.
 
 ###### Artículo 84.
 
@@ -2138,3 +2140,13 @@ Los Ayuntamientos y Concejos Municipales que estén en funciones concluirá su g
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+G.O. 23 DE JULIO DE 1991.
+
+###### ARTICULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente reforma.
