@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-seguridad-y-servicios-sociales-de-los-trabajadores-15838
 country: "mx"
 rank: "ley"
 publication_date: "1987-06-03"
-last_updated: "1991-06-22"
+last_updated: "1993-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 3 de junio de 1987.
 
@@ -77,11 +77,13 @@ Generalidades.
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+
 ### CAPITULO I. DEL PATRIMONIO E INVERSIONES
 
 ###### ARTICULO 1.
 
-La presente Ley tiene por objeto el establecimiento de un régimen de seguridad y servicios sociales en favor de los trabajadores públicos y sus familiares o dependientes económicos, con el propósito de proteger a los mismos y garantizarles los derechos que esta Ley les confiere.
+La presente Ley tiene por objeto el establecimiento de un régimen de Seguridad y Servicios Sociales en favor de los trabajadores públicos al servicio del Gobierno del Estado de Campeche, de sus Municipios y de los Organismos Públicos Descentralizados de carácter estatal, así como de sus familiares o dependientes económicos, con el propósito de proteger a los mismos y garantizarles los derechos que esta Ley les confiere.
 
 ###### ARTICULO 2.
 
@@ -145,15 +147,19 @@ VI.- Otras Prestaciones Sociales.
 
 Los beneficiarios deberán cumplir con los requisitos que establece esta Ley y los reglamentos y acuerdos que expida el Instituto, para que puedan gozar de las prestaciones que les correspondan.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 8.
 
-El Instituto proporcionará a todos sus beneficiarios una Cédula de Identificación para que puedan ejercitar sus derechos, misma que deberá ser tramitada por la organización sindical o la dirección de personal correspondiente, y resellada semestralmente.
+El Instituto proporcionará a todos sus beneficiarios una Cédula de Identificación permanente para que puedan ejercitar sus derechos, misma que deberá ser tramitada por el servidor público interesado, la organización sindical o la Dirección de Recursos Humanos correspondiente.
 
 ###### ARTICULO 9.
 
 Las controversias judiciales que surjan sobre la aplicación de esta Ley, así como todas aquéllas en que el Instituto tuviera el carácter de actor o demandado, serán de la competencia de los Tribunales del Estado.
 
 ### CAPITULO II. GOBIERNO Y ADMINISTRACION
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 10.
 
@@ -179,7 +185,9 @@ IX.- Los muebles e inmuebles que el Estado, Municipios y Organismos Públicos De
 
 X.- Cualquiera otra percepción respecto de la cual el Instituto resultare beneficiario; y
 
-XI.- Un fondo social permanente de $ 20'000,000.00 (VEINTE MILLONES DE PESOS).
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 1993)</small>
+
+XI.- Un fondo social permanente de N$20,000.00 (veinte mil nuevos pesos 00/100 M.N.)
 
 ###### ARTICULO 11.
 
@@ -203,7 +211,9 @@ La inversión de las reservas del Instituto deberá hacerse en las mejores condi
 
 Las reservas se invertirán preferentemente:
 
-I.- En bonos o títulos emitidos por el Gobierno Federal y del Estado, Instituciones Nacionales de Crédito o entidades encargadas del manejo de servicios públicos;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 1993)</small>
+
+I.- En bonos o títulos emitidos por el Gobierno Federal y del Estado, Instituciones de Crédito o entidades encargadas del manejo de servicios públicos;
 
 II.- En la adquisición, construcción o financiamiento de habitaciones para trabajadores y demás muebles e inmuebles propios para los fines del Instituto; y
 
@@ -223,7 +233,7 @@ Las cuentas del Instituto quedarán sujetas a la revisión, glosa y aprobación 
 
 ###### ARTICULO 18.
 
-El órgano de gobierno del Instituto será el Consejo Directivo.
+El órgano máximo de gobierno del Instituto será el Consejo Directivo.
 
 ###### ARTICULO 19.
 
@@ -313,7 +323,45 @@ VI.- Informar al Consejo Directivo, en caso de existir unidades médicas, de las
 
 VII.- Convocar a sesiones ordinarias y extraordinarias del Consejo Directivo; y
 
-VIII.- Todas las demás que le fije esta Ley y los Reglamentos, o le señale el Consejo Directivo.
+###### ARTICULO 26.
+
+Son facultades y obligaciones del Director General del Instituto las siguientes:
+
+I.- Ejecutar los acuerdos del Consejo Directivo;
+
+II.- Representar al Instituto en los asuntos administrativos y judiciales;
+
+III.- Proponer al Consejo:
+
+a).- El plan de inversiones con los proyectos de los presupuestos anuales de ingresos y egresos, y
+
+b).- Los proyectos de reformas o adiciones a los reglamentos internos;
+
+IV.- Formular los estudios y dictámenes sobre las solicitudes de jubilación o pensión y demás prestaciones que requieran el acuerdo expreso del Consejo Directivo;
+
+V.- Informar durante el mes de enero de cada año el estado financiero y del cumplimiento de las obligaciones del Instituto, así como de las actividades desarrolladas durante el período anual inmediato anterior;
+
+VI.- Informar al Consejo Directivo, en caso de existir unidades médicas, de las actividades y estado en que se encuentran las mismas;
+
+VII.- Convocar a sesiones ordinarias y extraordinarias del Consejo Directivo; y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 1993)</small>
+
+VIII.- Proponer al Consejo Directivo el nombramiento y, en su caso, la remoción de los servidores públicos de confianza del Instituto;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 1993)</small>
+
+IX.- Resolver, bajo su inmediata y directa responsabilidad, los asuntos urgentes a reserva de informar al Consejo Directivo, sobre las acciones realizadas y los resultados obtenidos;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 1993)</small>
+
+X.- Establecer los métodos que permitan el óptimo aprovechamiento de los recursos y bienes muebles e inmuebles del Instituto, para la realización de su objeto social;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 1993)</small>
+
+XI.- Presentar cuatrimestralmente al Consejo Directivo un informe sobre las actividades del Instituto, el avance de sus programas y el ejercicio de sus presupuestos de ingresos y egresos, anexando los estados financieros correspondientes; y
+
+XII.- Todas las demás que le fije esta Ley y los Reglamentos, o le señale el Consejo Directivo.
 
 ###### ARTICULO 27.
 
@@ -351,6 +399,10 @@ I.- Las altas, bajas y cambios de los servidores públicos; y
 
 II.- Las modificaciones de los sueldos.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1993)</small>
+
+La afiliación de los servidores públicos al Instituto será automática con la expedición del nombramiento correspondiente.
+
 ###### ARTICULO 33.
 
 Los servidores públicos están obligados a proporcionar al Instituto:
@@ -387,9 +439,11 @@ III.- Cuando el servidor público sufra prisión preventiva seguida de sentencia
 
 IV.- Cuando el servidor público fuere suspendido, por todo el tiempo que dure dicha circunstancia y siempre que por resolución firme sea reinstalado en su empleo.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 39.
 
-Para disfrutar el cómputo mencionado en el artículo anterior, el servidor público deberá pagar la totalidad de las cuotas correspondientes más los intereses que hubiese causado dicha suma, conforme a la tasa de interés en vigor en la Banca Nacional durante el periodo de tiempo.
+Para disfrutar del cómputo mencionado en el Artículo anterior, el servidor público deberá cubrir mensualmente sus aportaciones al Instituto, conforme a lo establecido en el Artículo 30 de esta Ley, sobre la base de las percepciones de que disfrutaba al tiempo de su separación transitoria. En caso contrario, deberá pagar la totalidad de las cuotas insolutas más los intereses que hubiese causado dicha suma, conforme a la tasa de interés que apruebe el Consejo Directivo del Instituto para el otorgamiento de las prestaciones económicas que concede esta Ley.
 
 ###### ARTICULO 40.
 
@@ -563,6 +617,10 @@ IV.- Por inhabilitación total a causa o consecuencia del servicio: el 100% del 
 
 V.- Por inhabilitación total por causas ajenas al servicio: se aplicarán las tablas de la fracción I de este Artículo, disminuidas en un 20%.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1993)</small>
+
+Las pensiones serán ajustadas de acuerdo a las revisiones establecidas en el Artículo 64 de esta Ley, y generalmente se incrementarán en forma proporcional al salario mínimo.
+
 ###### ARTICULO 62.
 
 Los familiares o dependientes económicos del servidor público adquieren el derecho a pensión:
@@ -583,9 +641,13 @@ II.- Por fallecimiento del servidor público por causas ajenas al servicio: se a
 
 III.- Por fallecimiento del servidor público pensionado:
 
-a).- Si la pensión se le había concedido por jubilación o inhabilitación a causa o consecuencia del servicio: la última de que hubiera gozado el pensionado;
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
 
-b).- Si la pensión la disfrutaba por jubilación o inhabilitación por causas ajenas al servicio: la última que hubiere gozado el pensionado, con deducción de un 20%.
+a).- Si la pensión se le había concedido por jubilación o inhabilitación a causa o consecuencia del servicio: la última de que hubiere gozado el pensionado, con descuento de un 10% el segundo año, e igual deducción en los años subsecuentes, hasta llegar al 50% de la pensión original.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+
+b).- Si la pensión la disfrutaba por inhabilitación por causas ajenas al servicio: la última que hubiere gozado el pensionado. Esta pensión sólo se pagará durante los seis meses siguientes al fallecimiento del pensionado.
 
 Las pensiones señaladas en los incisos a) y b) sólo se pagarán durante los seis meses siguientes al fallecimiento del pensionado.
 
@@ -639,9 +701,11 @@ La inhabilitación o el fallecimiento se reputarán como producidos a causa o co
 
 Los casos de inhabilitación o fallecimiento por riesgos de trabajo se justificarán con examen médico de profesional nombrado por el Consejo, y con la copia certificada de las respectivas diligencias judiciales o administrativas que se hubieran desahogado sobre el caso. Si el interesado no estuviere conforme con aquel dictamen sobre la evaluación de su caso, presentará el dictamen que haya obtenido de su médico particular. Si hubiere discrepancia fundamental, el Consejo designará un tercero, perito médico, escogido de la terna que presentarán los peritos que hubieran intervenido anteriormente. El dictamen del tercero será definitivo.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 71.
 
-La inhabilitación o el fallecimiento provocados por el mismo servidor público, los que resulten de una riña por él provocada o los que sean consecuencia del uso de bebidas alcohólicas, barbitúricos o estupefacientes, no generan derecho alguno a jubilación o pensión, si aquéllos ocurren antes de cinco años de prestar sus servicios el inhabilitado o fallecido. Si ocurren después de cinco años, sus derechohabientes recibirán el 50% correspondiente y si ocurren después de diez años los mismos derechohabientes recibirán el 100%.
+La inhabilitación o el fallecimiento provocados por el mismo servidor público, los que resulten de una riña por él provocada o los que sean consecuencia de bebidas alcohólicas, barbitúricos o estupefacientes, no generan derecho alguno a jubilación o pensión. Si aquellos ocurren después de cinco años de prestar sus servicios el inhabilitado o fallecido, el servidor público o sus dependientes económicos podrán solicitar las dos terceras partes de las aportaciones a que se refiere el Artículo 30, las cuales cubrirá el Instituto dentro de los treinta días siguientes a la fecha de la solicitud respectiva.
 
 ###### ARTICULO 72.
 
@@ -679,11 +743,13 @@ Las pensiones que establece esta Ley no son susceptibles de enajenarse, cederse,
 
 Por ningún motivo el Instituto dejará de pagar oportunamente las jubilaciones o pensiones. En el caso de suspensión de derechos que prevé el Artículo 37 de esta Ley, el Instituto continuará cubriendo la jubilación o pensión, cuando así lo acuerde el Consejo Directivo y cargará el importe de lo pagado a la cuenta de la Entidad Pública respectiva con sus intereses correspondientes.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+
 ### CAPITULO V. PRESTAMOS A CORTO PLAZO, ESPECIALES E HIPOTECARIOS
 
 ###### ARTICULO 80.
 
-Se establece para el servidor público un seguro por fallecimiento, cuya cantidad no podrá ser menor a $1'000,000.00 (UN MILLON DE PESOS 00/100 M.N.), ya sea que esté en servicio activo o jubilado o pensionado.
+Se establece para el servidor público un seguro por fallecimiento, cuya cantidad no podrá ser menor a N$1,000.00 (mil nuevos pesos 00/100 M.N.), ya sea que esté en servicio activo, jubilado o pensionado.
 
 ###### ARTICULO 81.
 
@@ -751,17 +817,23 @@ Todo préstamo a corto plazo se considera insoluto cuando el deudor sea separado
 
 El préstamo especial con garantía colateral será aquél que llene tal requisito a satisfacción del Director General y estará destinado a resolver un problema económico urgente o a cubrir una necesidad apremiante que en uno u otro caso ayude a mejorar la situación económica del servidor público y de su familia. El Director General calificará su procedencia y señalará los términos de la garantía colateral.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 96.
 
-El préstamo especial con garantía colateral deberá cubrirse dentro de un plazo no mayor de veinticuatro meses, con los intereses que fije el Consejo Directivo, mediante pagos periódicos iguales o en una sola exhibición. Se documentará con arreglo a los títulos ejecutivos mercantiles y en ningún caso se hará la renovación o ampliación de esta clase de préstamos.
+El préstamo especial con garantía colateral deberá cubrirse dentro de un plazo no mayor de treinta y seis meses, con los intereses que fije el Consejo Directivo, mediante pagos periódicos iguales o en una sola exhibición. Se documentará con arreglo a los títulos ejecutivos mercantiles y en ningún caso se hará la renovación o ampliación de esta clase de préstamos.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 97.
 
-El Instituto concederá préstamos especiales para la adquisición de productos de consumo duradero según las disponibilidades del Instituto, siempre que el solicitante ofrezca garantía suficiente a juicio del Director y lo amortice en un período no mayor de veinticuatro meses, con descuentos quincenales.
+El Instituto concederá préstamos especiales para la adquisición de productos de consumo duradero según las disponibilidades del Instituto, siempre que el solicitante ofrezca garantía suficiente a Juicio del Director y lo amortice en un período no mayor de treinta y seis meses, con descuentos quincenales.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 98.
 
-Los servidores públicos y los jubilados por el Instituto tendrán derecho a obtener préstamos hipotecarios que se otorgarán por acuerdo del Consejo Directivo con los recursos del Instituto. Esta clase de préstamos se concederán al servidor público con dos años como mínimo de contribución al patrimonio del Instituto, así como al servidor público jubilado. Se destinarán exclusivamente a resolver el problema de la habitación familiar y, por consiguiente, sólo se otorgarán para comprar o construir una casa habitación, incluyendo o no el valor del terreno; para realizar ampliaciones, reparaciones o ambos trabajos; o para redimir gravámenes constituidos sobre la casa habitación propiedad del solicitante.
+Los servidores públicos y los jubilados por el Instituto tendrán derecho a obtener préstamos hipotecarios que se otorgarán por acuerdo del Consejo Directivo con los recursos del Instituto. Esta clase de préstamos se concederán al servidor público con cinco años como mínimo de contribución al patrimonio del Instituto, así como al servidor público jubilado. Se destinarán exclusivamente a resolver el problema de la habitación familiar y, por consiguiente, sólo se otorgarán para comprar o construir una casa habitación, incluyendo o no el valor del terreno; para realizar ampliaciones, reparaciones o ambos trabajos; o para redimir gravámenes constituidos sobre la casa habitación propiedad del solicitante.
 
 ###### ARTICULO 99.
 
@@ -839,13 +911,17 @@ Las obligaciones que en favor del Instituto señala la presente Ley a cargo de l
 
 La prescripción se interrumpirá por cualquier gestión de cobro hecha por escrito judicial o extrajudicialmente.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 115.
 
-Los funcionarios y servidores públicos que violen las disposiciones que les impone esta Ley, serán sancionados con multa de hasta treinta veces el salario mínimo vigente en el momento de su aplicación, según la gravedad del caso.
+Los servidores públicos que violen las disposiciones que les impone esta Ley, serán sancionados con multa de hasta cincuenta veces el salario mínimo vigente en el momento de su aplicación, según la gravedad del caso.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 116.
 
-Sin perjuicio de lo establecido en el Artículo anterior, los miembros del Consejo Directivo, el Director, los funcionarios y trabajadores del Instituto, estarán sujetos a la responsabilidad civil, administrativa o en su caso penal, que pudiera derivar, al tomar acuerdos o medidas notoriamente lesivas para la Institución; por lo que en salvaguarda de los intereses económicos y solidez financiera de la misma, deberán fundamentar sus decisiones en estudios económicos, los que una vez aprobados, se relacionarán y anexarán a las actas que contengan los respectivos acuerdos.
+Sin perjuicio de lo establecido en el Artículo anterior, los miembros del Consejo Directivo, el Director y los servidores públicos, estarán sujetos a la responsabilidad civil, administrativa o en su caso penal, que pudiera derivar, al tomar acuerdos o medidas notoriamente lesivas para la Institución; por lo que en salvaguarda de los intereses económicos y solidez financiera de la misma, deberán fundamentar sus decisiones en estudios económicos, los que una vez aprobados, se relacionarán y anexarán a las actas que contengan los respectivos acuerdos.
 
 ###### ARTICULO 117.
 
@@ -897,9 +973,11 @@ Lo establecido en los dos párrafos que se adicionan al artículo 58, sólo ser�
 
 Un Reglamento Interior fijará las obligaciones y facultades del personal del Instituto y en él se señalará quién deberá substituir al Director en sus ausencias temporales, mayores de quince días.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 7o.
 
-Los funcionarios del Instituto, que vinieran desempeñando un diverso empleo público, quedarán amparados por los beneficios previstos en esta Ley, preservando sus derechos de acuerdo a las aportaciones efectuadas y las que continúen realizando con el carácter de funcionarios públicos durante su encomienda con el Instituto.
+Los trabajadores del Instituto, que vinieran desempeñando un diverso empleo público, quedarán amparados por los beneficios previstos en esta Ley, preservando sus derechos de acuerdo a las aportaciones efectuadas y las que continúen realizando con el carácter de servidores públicos durante su encomienda con el Instituto.
 
 Dado en el Palacio del Poder Legislativo del Estado; en Campeche el veintinueve de mayo de mil novecientos ochenta y siete.- "AÑO DE DON PEDRO SAINZ DE BARANDA Y BORREYRO".- DR. FERNANDO TREJO MONTES DE OCA, D. P.- PROFRA. MIREYA PEREZ DOMINGUEZ, D. S.- CESAR AVILES HERRERA, D. S.- Rúbricas.
 
@@ -918,3 +996,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 22 DE JUNIO DE 1991.
 
 Unico.- El presente decreto entrará en vigor el día 1º de agosto del presente año.
+
+P.O. 3 DE JUNIO DE 1993.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
