@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1928-06-23"
+last_updated: "1932-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 1928.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 1932.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -256,6 +256,28 @@ I. Ser ciudadano del Estado en ejercicio de sus derechos, nacido en el Estado o 
 II. Tener veinticinco años cumplidos el día de la elección.
 
 III. Poseer suficiente instrucción.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1932)</small>
+
+ART. 29.- No podrán ser electos Diputados:
+
+I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Supremo Tribunal de Justicia y el Procurador General de Justicia.
+
+II.- Los Diputados y Senadores al Congreso de la Unión que hubieren estado en ejercicio, si no han transcurrido por lo menos dos años, contados desde la fecha en que conforme a la Ley haya terminado el período para el cual fueron electos.
+
+III.- Los Magistrados, Jueces y Empleados de la Federación en el Estado.
+
+IV.- Los Militares que hayan estado en servicio dentro de los cuatro meses anteriores a la fecha de la elección.
+
+V.- Los que hayan sido condenados por algún delito contra la propiedad o grave contra las personas.
+
+VI.- Los Ministros de cualquier culto, estén o no en ejercicio.
+
+VII.- Los Presidentes Municipales y los Munícipes, si no han transcurrido un año por lo menos, contado desde la fecha en que conforme a la Ley hayan terminado su período para el cual fueron electos.
+
+VIII.- Los Secretarios de Ayuntamientos, los Jueces y Empleados del Estado y Municipales, todos ellos en su circunscripción, si estuvieren en ejercicio dentro de los cuatro meses anteriores a la elección.
+
+IX.- Nunca podrán ser electos los que alguna vez hubieren desempeñado el cargo de Diputados al Congreso Local. Esta prohibición no comprende a los Suplentes.
 
 ###### Art. 29.
 
@@ -691,9 +713,11 @@ IV. Los que desempeñen algún cargo o comisión de otros Estados o de la Federa
 
 V. Los Magistrados del Supremo Tribunal, Procurador General de Justicia, ni el Secretario General de Gobierno o quien haga sus veces, si no se encuentran separados de sus cargos cuando menos noventa días antes de la elección.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1932)</small>
+
 ###### Art. 81.
 
-El día 5 de febrero inmediato a la elección, entrará el Gobernador a ejercer sus funciones por cuatro años, y no podrá ser reelecto para el período inmediato.
+El día 5 de Febrero inmediato a la elección, entrará el Gobernador a ejercer sus funciones por cuatro años y nunca podrá volver a desempeñar este cargo, ni por nueva elección ni con el carácter de provisional o interino. Tampoco podrá ser electo Diputado al Congreso del Estado si no han transcurrido ocho años por lo menos, contados a partir del día en que se haya separado definitivamente como Gobernador, ya sea por renuncia, licencia ilimitada o por haber fenecido constitucionalmente el período para el cual fue electo.
 
 ###### Art. 82.
 
@@ -1113,7 +1137,13 @@ III. Los Municipios administrarán libremente su hacienda, la cual se formará, 
 
 IV. Los Ayuntamientos tendrán personalidad jurídica para contratar y obligarse. Los Síndicos serán los representantes de la personalidad jurídica de los Ayuntamientos.
 
-V. El que haya desempeñado las funciones de Presidente Municipal en un período, no podrá desempeñarlas en el siguiente, ni en virtud de una elección, ni supliendo faltas.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE DICIEMBRE DE 1932)</small>
+
+V.- No podrá ser electo miembro de un Ayuntamiento, el que hubiere desempeñado otro cargo de elección popular del Municipio, del Estado, o de la Federación, si no ha transcurrido un año por lo menos contado desde la fecha en que conforme a la Ley feneció el período para el cual fué electo.
+
+El que haya desempeñado las funciones de Presidente Municipal en virtud de una elección, nunca podrá ser designado para desempeñar ese cargo en el mismo Municipio.
+
+El que haya desempeñado las funciones de Presidente Municipales (sic) en un período supliendo faltas no podrá desempeñar de ningún modo en el siguiente.
 
 VI. Por cada miembro propietario del Ayuntamiento se eligirá un suplente.
 
@@ -1406,3 +1436,7 @@ P.O. 23 DE JUNIO DE 1928.
 ###### ARTICULO UNICO.
 
 Este Decreto empezará a regir tan luego como sean debidamente sancionadas las reformas del artículo 115 de la Constitución General.
+
+P.O. 14 DE DICIEMBRE DE 1932.
+
+UNICO:- Este Decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación en el Periódico Oficial del Estado.
