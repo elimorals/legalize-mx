@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1990-12-25"
+last_updated: "1992-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 1992.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -54,6 +54,14 @@ En el Estado de Guanajuato todas las personas gozan de la protección que les ot
 ###### ARTICULO 2.
 
 El Poder Público únicamente puede lo que la Ley le concede y el gobernado todo lo que ésta no le prohibe.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 1992)</small>
+
+La Ley determinará la organización, funcionamiento, competencia y procedimientos de un organismo estatal de protección de los derechos humanos, que conocerá de quejas en contra de actos y omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial del Estado; formulará acuerdos o recomendaciones públicas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 1992)</small>
+
+Este organismo no será competente tratándose de asuntos electorales, laborales o jurisdiccionales.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -685,7 +693,11 @@ XXI.- Otorgar o negar su aprobación a los nombramientos de los Magistrados del 
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
 
-Elegir, de entre sus miembros, a sus representantes ante los Organismos Electorales y a las personas que le competa para integrar dichos órganos y el Organismo Jurisdiccional electoral, en los términos que establezca la Ley de la materia. Esta facultad la tendrá la Diputación Permanente, cuando el Congreso no esté en período de sesiones;
+Elegir, de entre sus miembros, a sus representantes ante los Organismos Electorales y a las personas que le competa para integrar dichos órganos y el Organismo Jurisdiccional electoral, en los términos que establezca la Ley de la materia. Esta facultad la tendrá la Diputación Permanente, cuando el Congreso no esté en período de sesiones.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 1992)</small>
+
+Designar al titular del organismo estatal defensor de los derechos humanos, de acuerdo a la propuesta que formule el Gobernador del Estado, en los términos de la Ley respectiva y ratificar los nombramientos que conforme a la misma requieren de ello. Esta facultad la tendrá la Diputación Permanente cuando el Congreso no esté en período de sesiones;
 
 XXII.- Erigirse en Jurado de Responsabilidades, en los casos de Juicio Político;
 
@@ -1952,6 +1964,12 @@ No se aplicará retroactivamente a los Magistrados que se encuentren en funcione
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 25 DE DICIEMBRE DE 1990.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 1992.
 
 ###### ARTICULO UNICO.
 
