@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1954-12-28"
+last_updated: "1956-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1956.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -37,7 +37,7 @@ LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 ###### ARTICULO 1°.
 
@@ -45,29 +45,9 @@ Son instituciones de seguros:
 
 I.- Las instituciones nacionales de seguros;
 
-II.- Las sociedades mexicanas autorizadas para practicar alguna o algunas de las siguientes operaciones de seguros:
+II.- Las sociedades mexicanas privadas autorizadas para practicar operaciones de seguros; y
 
-a). Vida;
-
-b). Accidentes y enfermedades;
-
-c). Responsabilidad civil y riesgos profesionales;
-
-d). Marítimo y transportes;
-
-e). Incendio;
-
-f). Agrícola;
-
-g). Automóviles;
-
-h). Crédito;
-
-i). Diversos.
-
-> <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 1946)</small>
-
-III.- Las sucursales de empresas de seguros extranjeras autorizadas para operar en México conforme a esta Ley.
+III.- Las sucursales de compañías extranjeras de seguros autorizadas para operar en la República conforme a esta Ley.
 
 ###### ARTICULO 2°.
 
@@ -113,9 +93,7 @@ III.- Sin embargo, cuando ninguna de las empresas aseguradoras autorizadas para 
 
 IV.- Se prohibe a toda persona la intermediación en las operaciones a que se refieren las fracciones I y II que anteceden.
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1952)</small>
-
-V.- Para que una institución de seguros pueda practicar varias de las operaciones a que se refiere la fracción II del artículo 1°, deberá tener autorización del Gobierno Federal para cada ramo, y en este caso, la institución practicará las operaciones de cada ramo por conducto de un departamento especial y la parte del patrimonio de la institución que se afecte a cada departamento, en los términos del artículo 20, deberá expresarse en la contabilidad con mención de los bienes o valores que la integran.
+V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1956)
 
 > <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
@@ -123,21 +101,25 @@ V.- Para que una institución de seguros pueda practicar varias de las operacion
 
 No se considerarán instituciones de seguros sujetas a la presente ley, las asociaciones de personas, especialmente las cajas y uniones de seguros de los organismos profesionales, que sin expedir pólizas o contratos, concedan a sus miembros seguros en caso de muerte o beneficios en el de enfermedad; pero estarán sujetas a una reglamentación que expedirá la Secretaría de Hacienda y Crédito Público, donde se fijarán las bases para que, cuando por le número de asociados, por la frecuencia e importancia de los seguros que concedan y de los siniestros pagados, la misma Secretaría ordene a estas mutualidades que se ajusten a las disposiciones de la presente ley, convirtiéndose en instituciones de seguros.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
 ###### ARTICULO 5°.
 
-Las compañías extranjeras de seguros podrán tener en la República sucursales para efectuar alguna o algunas de las operaciones de seguros enumeradas en la fracción II del artículo 1°. de esta Ley, siempre que reúnan los siguientes requisitos:
+Para que las sucursales de compañías extranjeras de seguros puedan operar en el país, deberán satisfacer los siguientes requisitos:
 
-I.- Cumplir con los preceptos sobre sociedades extranjeras contenidos en la Ley General de Sociedades Mercantiles;
+I.- Cumplir con los preceptos sobre sociedades extranjeras contenidos en la Ley General de Sociedades Mercantiles.
 
-II.- Señalar el capital con que trabajarán sus sucursales en la República en los términos del artículo 21.
+II.- Obtener la autorización del Gobierno Federal a que se refieren los artículos 1o. y 11, conforme a lo dispuesto en el artículo 12, para lo cual deberán demostrar que tienen cinco años de funcionamiento normal y que se encuentran habilitadas para operar de acuerdo con las leyes de su país de origen.
 
-> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+Los apoderados residentes en la República deberán estar autorizados para representar a la sociedad sin limitación de facultades y para realizar todos los actos de un apoderado general, en los términos de los tres primeros párrafos del artículo 2554 del Código Civil del Distrito y Territorios Federales. Las sociedades extranjeras no podrán repartir en caso alguno a sus asegurados en México, dividendos que no provengan de las utilidades que obtengan por las operaciones que efectúen en el país, y deberán sujetarse a las disposiciones de esta ley que les sean aplicables, respecto a distribución de utilidades.
 
-III.- Obtener autorización del Gobierno Federal conforme a lo dispuesto en el artículo 12, para lo cual deberán demostrar que tienen cinco años de funcionamiento normal y que se encuentran habilitadas para operar de acuerdo con las leyes de su país de origen. Los apoderados residentes en la República deberán estar autorizados para representar a la Sociedad sin limitación de facultades y para realizar todos los actos de un apoderado general, en los términos de los tres primeros párrafos del artículo 2554 del Código Civil del Distrito y Territorios Federales. Las sociedades extranjeras no podrán repartir en caso alguno a sus asegurados en México, dividendos que no provengan de las utilidades que obtengan por las operaciones que efectúen en el país, y deberán sujetarse a las disposiciones de esta ley que les sean aplicables, respecto a distribución de utilidades.
+Deberán llevar, en su domicilio social en la República, los libros exigidos para todo comerciante y, además, los auxiliares de registro indispensables, debiendo conservar copia de las pólizas expedidas en el país y todos los documentos relacionados con su negocio, a fin de que la Secretaría pueda mantener un completo control en las inspecciones que se practiquen y sobre los informes que suministren.
 
-Deberán llevar, en su domicilio social en la República, los libros exigidos para toda comerciante y, además, los auxiliares de registros indispensables, debiendo conservar copia de la pólizas expedidas en el país y todos los documentos relacionados con su negocio, a fin de que la Secretaría pueda mantener un completo control en las inspecciones que se practiquen y sobre los informes que suministren.
+Las instituciones extranjeras autorizadas para operar en el país no podrán expedir pólizas de seguros sino por conducto de su sucursal respectiva.
 
-Las instituciones extranjeras autorizadas para operar en el país, no podrán expedir pólizas de seguros sino por conducto de su sucursal respectiva.
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
+
+III.- Afectar a sus operaciones en la República el capital mínimo que les fije la Secretaría de Hacienda y Crédito Público en los términos del artículo 20. Las sucursales de compañías extranjeras deberán constituir e invertir en los términos de esta Ley su capital, reservas de capital, utilidades no distribuídas y reservas técnicas y deberán mantener siempre en disponibilidad, dentro de la República, en los términos que esta Ley establece, todos los bienes, títulos, créditos o valores afectos a estos renglones.
 
 ###### ARTICULO 6°.
 
@@ -173,35 +155,71 @@ III.- Por contraseguro, el convenio en virtud del cual una institución de segur
 
 ###### ARTICULO 11.
 
-El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, otorgará discrecionalmente las autorizaciones para que se constituyan y operen en materia de seguros, las empresas que llenen los requisitos de la Sección 2a. de este Capítulo. Esas autorizaciones son intrasmisibles.
+El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público y oyendo la opinión de la Comisión Nacional de Seguros, otorgará discrecionalmente las autorizaciones para que se constituyan y operen en materia de seguros, las sociedades que llenen los requisitos que establece la Sección 2a. de este capítulo.
 
-> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+Las autorizaciones se referirán a las siguientes operaciones:
+
+a). Vida;
+
+b). Accidentes y enfermedades; y
+
+c). Daños.
+
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
+
+Las autorizaciones para practicar operaciones de daños se otorgarán para alguno o algunos de los siguientes ramos: responsabilidad civil y riesgos profesionales; marítimo y transportes; incendio; agrícola; automóviles; crédito; y diversos.
+
+Podrán otorgarse autorizaciones para practicar exclusivamente el reaseguro, en alguna o algunas de las operaciones mencionadas en este artículo.
+
+Para que una institución de seguros pueda practicar varias de las operaciones a que se refiere este artículo, deberá tener autorización del Gobierno Federal para cada una de ellas, y en su caso, para cada ramo.
+
+Las autorizaciones, por su propia naturaleza, son intransmisibles.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 ###### ARTICULO 12.
 
-El procedimiento para obtener las autorizaciones, se sujetará a las reglas siguientes:
+El procedimiento para obtener las autorizaciones se sujetará a las reglas siguientes:
+
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
 1a.- Las solicitudes se presentarán ante la Secretaría de Hacienda y Crédito Público, con los siguientes anexos:
 
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 a). Proyecto de escritura constitutiva de la Sociedad.
 
-b). Comprobante de haber constituído en el Banco de México o en la Nacional Financiera, S. A., según el caso, en efectivo o en títulos de la Deuda Pública, a su valor de mercado; un depósito igual al 10% de la suma que como capital mínimo, según los ramos en que se pretenda operar, exige el artículo 20 a las sociedades anónimas. Independientemente de que la sociedad por constituir sea mutualista o anónima, deberá llenarse este requisito para que pueda iniciarse el trámite de la solicitud. El depósito se devolverá: cuando se deniegue la solicitud o cuando habiéndose otorgado, se compruebe la inscripción de la sociedad en el Registro Público de Comercio.
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 26 DE JUNIO DE 1957)
+
+b). Comprobante de haber constituído en la Nacional Financiera, S. A., en efectivo o en los valores mencionados en el artículo 86, a su valor de mercado, un depósito igual al 10% de la cifra mínima que como capital señala el artículo 20 a las sociedades anónimas, según las operaciones o ramos en que se pretenda operar. Independientemente de que la sociedad por constituir sea mutualista o anónima, o se trate de sucursal de compañía extranjera deberá llenarse este requisito para que pueda iniciarse el trámite de la solicitud. El depósito quedará a disposición de la Secretaría de Hacienda y Crédito Público y se devolverá cuando se niegue la autorización solicitada o cuando habiéndose otorgado, se compruebe la inscripción de la sociedad en el Registro Público de Comercio y la iniciación de sus operaciones;
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 c). En caso de que se trate de sucursales a que se refiere el artículo 5°., los apoderados de la sociedad extranjera, deberán obligar expresamente en su solicitud a sus poderdantes, a responder ilimitadamente con todos sus bienes y no sólo con los que se encuentren en la República, sometiéndose exclusivamente a las leyes mexicanas y a la jurisdicción de los tribunales del país, en todos los negocios efectuados dentro del Territorio Nacional, en la inteligencia de que el compromiso y la sumisión a que éste capítulo se refiere, serán en beneficio de todas las personas que puedan tener créditos o acciones a cargo de la institución, por operaciones o negocios realizados dentro de la República, o para ser cumplidos en ésta.
 
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 2a.- Si se otorga la autorización, la Secretaría de Hacienda y Crédito Público, hará las observaciones que procedan al proyecto de escritura constitutiva o bien le otorgará su aprobación, comunicándolo al solicitante dentro de los 15 días hábiles siguientes a la fecha de la autorización.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 3a.- De la escritura constitutiva se exhibirá testimonio para que la Secretaría de Hacienda en el término de 15 días hábiles, otorgue la aprobación o haga las observaciones pertinentes cuando no se ajuste al proyecto aprobado y hechas que sean las modificaciones, se exhibirá nuevo testimonio para su aprobación que se otorgará en igual plazo. De ésta se remitirá copia al Registro Público del Comercio para su inscripción, sin que se requiera mandamiento judicial.
 
-> <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 1946)</small>
+(REFORMADA, D.O.F. 16 DE ABRIL DE 1946) (F. DE E., D.O.F. 2 DE AGOSTO DE 1946)
 
 4a.- Toda autorización que se otorgue, quedará sujeta a la condición suspensiva de la inscripción de la Sociedad en el Registro Público del Comercio.
 
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 5a.- No podrán inscribirse en dicho Registro escrituras constitutivas de sociedades cuyo objeto sea operar en materia de seguros, si no se insertan los documentos oficiales que comprueben haberse otorgado la autorización de la Secretaría de Hacienda y si no ha recibido el Registrador o no se le exhibe, la aprobación de la escritura, otorgada conforme a la regla tercera.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 6a.- Cualquiera posterior modificación a la escritura constitutiva, deberá ser sometida a la aprobación de la Secretaría de Hacienda. Otorgada ésta, se enviará copia al Registro Público del Comercio para que se haga la inscripción sin requerirse mandamiento judicial.
 
 Cualquiera reforma en la constitución y funcionamiento de sociedades extranjeras con sucursales autorizadas en el país, será dada a conocer a la Secretaría de Hacienda para que se cumplan las disposiciones legales aplicables.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 7a.- Las inscripciones en el Registro Público del Comercio de escrituras para las cuales no se haya obtenido la aprobación de la Secretaría de Hacienda y Crédito Público que esta ley requiere; no producirán efectos legales.
 
@@ -277,17 +295,23 @@ SECCION 2a.
 
 De la organización
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
 ###### ARTICULO 17.
 
-Las sociedades anónimas que tengan por objeto operar como instituciones de seguros mexicanas o nacionales, deberán ser constituídas con arreglo a lo que dispone la Ley General de Sociedades Mercantiles, en cuanto no esté previsto en esta Ley, y, particularmente, en las siguientes bases:
+Las sociedades anónimas que tengan por objeto operar como instituciones de seguros privadas, o nacionales, deberán ser constituídas con arreglo a lo que dispone la Ley General de Sociedades Mercantiles, en cuanto no esté previsto en esta Ley, y particularmente, a las siguientes bases:
 
 > <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
 I.- Estarán facultadas para emitir acciones no suscritas que se conservarán en la caja de la sociedad y que serán entregadas a los suscriptores contra el pago total de su valor nominal y de las primas que la sociedad fije, en su caso, pudiendo la misma sociedad, cuando el pago se haga en exhibiciones, expedir a los suscriptores certificados provisionales, en los que se harán constar las exhibiciones que el suscriptor cubra. También podrán establecerse sociedades con capital variable, pero en este caso el capital mínimo que exige esta Ley estará siempre representado por acciones sin derecho a retiro. La escritura constitutiva y, en su defecto, las resoluciones relativas a la Asamblea General, determinarán la forma, términos y condiciones en que deberá hacerse la emisión de las acciones y en que podrá ejercitarse el derecho de retiro. Los tenedores de acciones con derecho a retiro deberán tener facultad, por lo menos, para nombrar a dos de los consejeros y a un comisario de la sociedad, siempre que el capital pagado sobre tales acciones represente más del quince por ciento del capital exhibido de una sociedad. Aun cuando las acciones con derecho a retiro estén divididas en varias series, se considerarán como formando una sola para la designación de consejeros. El importe del capital pagado por las acciones sin derecho a retiro se hará constar en todos los documentos de la sociedad en que aparezca mencionado el capital social;
 
-II.- El capital exhibido en las sociedades de capital fijo, o el importe pagado sobre las acciones sin derecho a retiro en las sociedades de capital variable, deberá ser, desde el momento de la constitución de la sociedad, igual, por lo menos, a la mitad del capital mínimo correspondiente, conforme a esta Ley;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-III.- Las acciones podrán ser pagadas en exhibiciones que en ningún caso serán menores del 20% del valor nominal de la acción, y en cuya periodicidad no exederá de un año, sin perjuicio de lo dispuesto en la fracción II del artículo 15.
+II.- El capital exhibido en las sociedades de capital fijo, o el importe pagado sobre las acciones sin derecho a retiro en las sociedades de capital variable, deberá ser, desde el momento de la constitución de la sociedad, igual por lo menos al del capital mínimo, de acuerdo con la autorización;
+
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 26 DE JUNIO DE 1957)
+
+III.- Las acciones podrán ser pagadas en exhibiciones que en ningún caso serán menores del 20% del valor nominal de la acción, y cuya periodicidad no excederá de un año, sin perjuicio de lo dispuesto en la fracción anterior;
 
 > <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
@@ -381,21 +405,39 @@ XII.- Con un 25%, cuando menos, de los remanentes a que se refiere la fracción 
 
 Los poderes que las instituciones de seguros otorguen, no requerirán otras inserciones que las relativas al acuerdo del Consejo que haya autorizado el otorgamiento del mandato, a las facultades que en la escritura o en los estatutos se conceden al Consejo sobre el particular y a la comprobación del nombramiento de los Consejeros.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ABRIL DE 1946) (F. DE E., D.O.F. 2 DE AGOSTO DE 1946)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 ###### ARTICULO 20.
 
-El capital mínimo con que deberán contar las sociedades anónimas que se organicen, para operar como instituciones de seguros, será de quinientos mil pesos para cada uno de los ramos a que se refieren los incisos “a”, “b”, “c”, “d”, “e” y “h”, de la fracción II del artículo 1°. y de trescientos mil pesos para cada uno de los ramos a que se refieren los incisos “f”, “g” e “i”, de la propia fracción. Cuando una misma institución se proponga practicar varias de las operaciones a que se refiere dicha fracción, deberá tener un capital, por lo menos, igual a la suma de los capitales mínimos requeridos para cada uno de los ramos en que desee operar.
+Las instituciones de seguros organizadas como sociedades anónimas deberán contar con un capital mínimo que será determinado discrecionalmente por la Secretaría de Hacienda y Crédito Público al otorgar la autorización, dentro de los siguientes límites:
 
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-Las responsabilidades que contraiga cualquier institución de seguros, sin reasegurar, no serán superiores, en cada riesgo, al 10% de su capital, reservas de previsión y estatutarias. Cuando se trate de instituciones que operen en los ramos de vida y de responsabilidad civil y riesgos profesionales, la Secretaría de Hacienda fijará a cada institución el límite máximo de responsabilidad que pueda retener para cada riesgo.
+a). Para operaciones de vida, de $2.000,000.00 a $6.000,000.00;
 
-> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+b). Para operaciones de accidentes y enfermedades, de $500,000.00 a $1.500,000.00;
+
+c). Para operaciones de daños, de $1.000,000.00 a $2.000,000.00, cuando la empresa practique solamente uno de los ramos a que se refiere el inciso c) del artículo 11; de $2.000,000.00 a $4.000,000.00 cuando opere dos de dichos ramos y de $3.000,000.00 a $6.000,000.00 cuando opere tres o más.
+
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
 ###### ARTICULO 21.
 
-El capital de las sucursales de instituciones extranjeras a que se refiere el artículo 5°. deberá ser, por lo menos, de quinientos mil pesos para cada uno de los ramos del seguro a que se refiere la fracción II del artículo 1°. Lo dispuesto en el artículo 32, regirá respecto del capital de las sucursales de empresas extranjeras, en la inteligencia de que dichas sucursales mantendrán siempre en disponibilidad, dentro de la República, en los términos que esta ley establece, todos los bienes, títulos, créditos o valores que constituyan la inversión de su capital, de las reservas técnicas y de previsión y de su fondo legal de reserva.
+La responsabilidad que asuma una institución de seguros sin reasegurar, no será superior en cada riesgo, a los siguientes porcentajes de la suma de su capital pagado más reservas de capital, reservas de previsión y utilidades no distribuídas, afectos a cada una de las operaciones que la institución esté autorizada a practicar en los términos del artículo 11:
+
+I.- En accidentes y enfermedades, 5%;
+
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
+
+II.- En daños:
+
+a). 5% cuando la institución opere solamente uno de los ramos a que se refiere el inciso c) del artículo 11;
+
+b). 4% cuando opere dos de dichos ramos; y
+
+c). 3% cuando opere tres o más ramos.
+
+Tratándose de las operaciones de vida, la Comisión Nacional de Seguros fijará a cada institución el límite máximo de retención, tomando en cuenta el volumen de sus operaciones, su promedio de seguro en vigor y la experiencia que haya obtenido.
 
 ###### ARTICULO 22.
 
@@ -423,7 +465,9 @@ III.- Las instituciones de seguros sobre la vida, remitirán, además, las tabla
 
 IV.- Cuando las instituciones aseguradoras en el ramo de vida pretendan emitir planes especiales para los cuales no existan tabulados los valores de las primas netas ni de las reservas, estarán obligadas a presentar a la Secretaría de Hacienda esos valores, calculados por la propia institución. También estarán obligadas a hacerlo, cuando pretendan usar tablas para los que no existan calculados esos valores;
 
-V.- El proyecto de organización y funcionamiento de su contabilidad teniendo en cuenta los ramos en que pretenda operar la empresa;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
+V.- El proyecto de organización y funcionamiento de su contabilidad, teniendo en cuenta las operaciones y los ramos que pretenda practicar la empresa;
 
 VI.- El porcentaje que se repartirá de las utilidades de la compañía entre los asegurados, así como el procedimiento que sirva para determinar el dividendo que a cada asegurador corresponda de acuerdo con la prima de su póliza, plan de seguro y número de años que ha estado asegurado.
 
@@ -449,6 +493,8 @@ No se aceptarán operaciones o beneficios fundados en sorteos o azares que no pu
 
 Las instituciones de seguros autorizadas para hacer negocios en el país podrán establecer sucursales o agencias en cualquier parte del territorio nacional, previa autorización, en cada caso, de la Secretaría de Hacienda y Crédito Público, la que determinará administrativamente los requisitos y formalidades que deben llenarse. Ninguna institución nacional o mexicana de seguros, tendrá facultad para establecer sucursales o agencias en el extranjero si previa autorización de la Secretaría de Hacienda y Crédito Público.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
 ## TITULO I. De las instituciones de seguros
 
 ### CAPITULO I. De las autorizaciones y de la organización
@@ -457,11 +503,15 @@ SECCION 1a.
 
 De las autorizaciones
 
-> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 ###### ARTICULO 29.
 
-Cuando una institución opere en diversos ramos en los términos del artículo 3°., deberá anotar en libros auxiliares de su contabilidad, para fines de manejo interior y de la inspección, el departamento a que correspondan las operaciones que celebre, y las reservas legales correspondientes a un ramo determinado, no podrán servir para cumplir obligaciones contraídas por pólizas emitidas en otros ramos.
+Cuando una institución practique varias de las operaciones a que se refiere el artículo 11 de esta Ley, deberá realizar cada una de ellas en departamentos especializados y afectará y registrará separadamente en libros, el capital y reservas de capital que queden afectos a las operaciones de vida; de accidentes y enfermedades; o de daños.
+
+Las reservas técnicas y cualquiera operación las deberán registrar también por separado, de conformidad con el párrafo anterior.
+
+Las reservas técnicas quedarán afectas a cada departamento, y en operaciones de daños a cada ramo, y no podrán servir para garantizar obligaciones contraídas por pólizas emitidas en otras operaciones y en su caso, en otros ramos.
 
 > <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
@@ -477,23 +527,23 @@ Mientras las instituciones de seguros no sean puestas en liquidación o declarad
 
 ###### ARTICULO 32.
 
-El capital pagado, las reservas de capital y los sobrantes que la asamblea general de accionistas afecte a los fines del artículo 78, en las instituciones de seguros constituídas en forma de sociedades anónimas, así como el fondo de reserva en las sociedades mutualistas a que se refiere la fracción XII del artículo 18 de esta Ley, deberán ser invertidos precisamente en los bienes siguientes:
+El capital pagado y las reservas de capital, así como las utilidades no distribuídas afectas a los fines del artículo 78 en las instituciones de seguros organizadas en forma de sociedades anónimas y el fondo de reserva en las sociedades mutualistas a que se refiere la fracción XII del artículo 18 de esta ley, deberán ser invertidos precisamente en:
 
 > <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1937)</small>
 
 I.- Bienes, créditos o valores de los enumerados en el artículo 85 de esta Ley, subsistiendo para inversiones de esta clase, las reglas establecidas en los artículos 86 y 87 de la misma;
 
-> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1937)</small>
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
-II.- Recargos sobre las primas netas pendientes de cobro que no tengan más de 30 días de vencidas en la fecha de balance o de la estimación, cuando se trate de instituciones que practiquen el ramo de vida;
+II.- a) Acciones de instituciones de seguros. La inversión en esta clase de valores nunca podrá ser mayor del 20% de la suma del capital pagado y reservas de capital de la inversora y sólo podrá hacerse con los excedentes de esta suma sobre su capital mínimo legal o sobre el 10% de la reserva de riesgos en curso , si se trata de las operaciones comprendidas en los incisos a) y b) del artículo 11, o el 15% de las primas brutas cobradas durante el año para las demás operaciones, en caso de que dichos porcentajes sean superiores al capital mínimo legal. La inversión en acciones de una misma institución de seguros, en ningún caso excederá del 40% del capital de la emisora; b) Acciones de instituciones autorizadas para operar exclusivamente en reaseguro. La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros, fijará el porciento máximo para inversión en acciones de las señaladas en este inciso;
 
-> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1937)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-III.- Acciones de instituciones de seguros. La inversión en esta clase de valores nunca podrá ser mayor del 20% de la suma del capital pagado y reservas estatutarias de la inversora, y sólo podrá hacerse con los excedentes de esta suma sobre su capital mínimo legal, o sobre: el 10% de la reserva de riesgos en curso, si se trata de los ramos de seguro comprendidos en los incisos a) y b) de la fracción II del artículo 1o., o el 15% de las primas brutas cobradas durante el año para los demás ramos, en caso de que dichos porcentajes sean superiores al capital mínimo legal. La inversión en acciones de una misma institución de seguros, en ningún caso excederá del 40% del capital de la emisora.
+III.- Inversiones en el extranjero que sea necesario hacer como requisito para efectuar operaciones de seguros fuera del territorio nacional, previa autorización de la Secretaría de Hacienda y Crédito Público, en los términos del artículo 28 de esta ley, hasta el 30% de los excedentes sobre el capital mínimo;
 
-> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1937)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-IV.- Saldos deudores de agentes y agencias;
+IV.- Saldos deudores de agentes por anticipos;
 
 > <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1937)</small>
 
@@ -507,37 +557,41 @@ VI.- Muebles y enseres, descontando la reserva por depreciación;
 
 VII.- Diversos deudores, provenientes de operaciones propias del objeto de las instituciones aseguradoras.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-La Secretaría de Hacienda y Crédito Público fijará administrativamente los porcentajes máximos de capital pagado, reservas de capital y sobrantes afectos a los fines del artículo 78, que puedan invertirse en los conceptos a que se refieren las fracciones IV, V, VI y VII de este artículo.
+La Secretaría de Hacienda y Crédito Público fijará administrativamente, mediante disposiciones de carácter general, los porcientos máximos de capital pagado, reservas de capital y utilidades no distribuídas afectas a los fines del artículo 78, que puedan invertirse en los conceptos a que se refieren las fracciones IV, V, VI y VII de este artículo.
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1952) (F. DE E., D.O.F. 28 DE ENERO DE 1952)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-Los sobrantes no afectos a los fines del artículo 78, podrán ser invertidos libremente, pero sin violar las prohibiciones de esta Ley.
+Las utilidades no distribuídas que no estén afectas a los fines del artículo 78, podrán ser invertidas libremente, pero sin violar las prohibiciones del artículo 39. En todo caso la sociedad sólo podrá tener por objeto operar como institución de seguros en los términos de la fracción V del artículo 17.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-Las inversiones de capital pagado, reservas de capital y sobrantes de toda especie a que se refiere este artículo, no estarán sujetas a las reglas sobre depósito de valores establecidas en el artículo 93 de esta Ley.
+Las inversiones de capital pagado, reservas de capital y utilidades no distribuídas de toda especie a que se refiere este artículo, no estarán sujetas a las reglas sobre depósito de valores establecidas en el artículo 93 de esta Ley.
 
 ###### ARTICULO 33.
 
 Se considerarán operaciones de seguros sujetas a las disposiciones de las leyes mexicanas, las que se celebren en territorio nacional.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ABRIL DE 1946)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 ### CAPITULO II. Del funcionamiento
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1952)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 ### CAPITULO I. De las reservas
 
 ###### ARTICULO 34.
 
-Las operaciones de seguros que quedan comprendidas dentro de la enumeración de la fracción II del artículo 1°., son las siguientes:
+Los seguros comprendidos dentro de la enumeración de operaciones y ramos del artículo 11 son los siguientes:
 
-I.- Para el ramo de vida, las que tengan como base del contrato los riesgos que puedan afectar la persona del asegurado en su existencia. Se consideran comprendidos dentro de este ramo, los beneficios adicionales que, basados en la salud o en accidentes personales, se incluyan en pólizas regulares de seguros sobre la vida;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-II.- Para el ramo de accidentes y enfermedades, las que tengan como base la lesión o incapacidad que afecte la integridad personal, salud o vigor vital del asegurado, ocasionada por un accidente o enfermedad de cualquier genero;
+I.- Para las operaciones de vida, los que tengan como base del contrato riesgos que puedan afectar la persona del asegurado en su existencia. Se considerarán comprendidos dentro de estas operaciones los beneficios adicionales que basados en la salud o en accidentes personales se incluyan en pólizas regulares de seguros de vida;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
+II.- Para las operaciones de accidentes y enfermedades, los que tengan como base la lesión o incapacidad que afecte la integridad personal, salud o vigor vital del asegurado, ocasionada por un accidente o enfermedad de cualquier género;
 
 III.- Para el ramo de responsabilidad civil y riesgos profesionales, el pago de la indemnización que el asegurado deba aun tercero a consecuencia de un hecho que cause un daño previsto en el contrato de seguro;
 
@@ -545,7 +599,9 @@ III.- Para el ramo de responsabilidad civil y riesgos profesionales, el pago de 
 
 IV.- Para el ramo marítimo y de transporte el pago de la indemnización por los daños y perjuicios que sufran los muebles o semovientes objeto del traslado. Pueden igualmente asegurarse los cascos de las embarcaciones y los aeroplanos para obtener el pago de la indemnización que resulte por los daños o la pérdida de unos u otros, o por los daños o perjuicios causados a la propiedad ajena o a terceras personas con motivo de su funcionamiento. En estos casos, se podrán incluir en las pólizas regulares que se expidan, el beneficio adicional de responsabilidad civil;
 
-V.- Para el ramo de incendio, las que tengan por base la indemnización de todos los daños y pérdidas causados por incendio, explosión, fulminación o accidentes de naturaleza semejante;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
+V.- Para el ramo de incendio, los que tengan por base la indemnización de todos los daños y pérdidas causados por incendio, explosión, fulminación o accidentes de naturaleza semejante;
 
 VI.- Para el ramo agrícola, el pago de indemnización por los daños o perjuicios que sufran los asegurados por muerte, pérdida o daños ocurridos a sus animales o el pago de indemnización por pérdida parcial o total de los provechos esperados de la tierra antes de la cosecha;
 
@@ -559,9 +615,11 @@ VIII.- Para el ramo de seguro de crédito el pago de la indemnización de una pa
 
 IX.- Para el ramo de diversos, el pago de la indemnización debida por daños y perjuicios ocasionados a personas o casos por cualquiera otra eventualidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
 ###### ARTICULO 35.
 
-Queda facultada la Secretaría de Hacienda y Crédito Público para estimar los riesgos que dentro de cada ramo puedan cubrirse, siempre que los riesgos no enumerados tengan las características técnicas de los consignados para cada ramo.
+Queda facultada la Secretaría de Hacienda y Crédito Público para resolver qué riesgos puedan cubrirse dentro de cada una de las operaciones o ramos mencionados en el artículo anterior, siempre que los riesgos no enumerados tengan las características técnicas de los consignados para cada operación o ramo.
 
 Cuando alguna clase de las comprendidas en el ramo de diversos adquiera una importancia tal que amerite considerarla como ramo independiente, la Secretaría de Hacienda y Crédito Público podrá declarar esa clase como ramo especial para los efectos del artículo anterior.
 
@@ -591,9 +649,9 @@ Para computar el monto de las primas que conforme al presente artículo se hayan
 
 En el reaseguro o coaseguro entre instituciones autorizadas, se dará preferencia a las instituciones nacionales o mexicanas, en el concepto de que dichas operaciones se harán a base de estricta reciprocidad en cuanto al monto de las primas, y por lo mismo, cesará para una compañía la obligación de ofrecer a otra, cuando ésta tenga en su cuenta de primas por reaseguros o coaseguros, un saldo no compensado que alcance la suma de $2,000.00.
 
-> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-Tratándose de los ramos a que se refieren los incisos “a”, “b”, “c”, “d”, “f” y “h”, de la fracción II del artículo 1°. de esta ley, podrá practicarse el reaseguro sin limitación en el país o en el extranjero.
+Tratándose de las operaciones de vida y de accidentes y enfermedades así como de los ramos de responsabilidad civil y riesgos profesionales, de marítimo y transportes, agrícola y crédito, podrá practicarse el reaseguro sin limitación en el país o en el extranjero.
 
 > <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
 
@@ -619,7 +677,9 @@ II.- Dar en prenda los valores de su cartera;
 
 III.- Operar con sus propias acciones;
 
-IV.- Aceptar riesgos mayores de los establecidos en el artículo 20;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
+IV.- Aceptar riesgos mayores de los establecidos en el artículo 21; y
 
 V.- Entrar en sociedades mercantiles de responsabilidad ilimitada y explotar por su cuenta minas, oficinas metalúrgicas, establecimientos mercantiles o industriales o fincas rústicas. En el evento de que adquieran en pago créditos, bienes o establecimientos de los que esta fracción comprende, podrán continuar la explotación por un término que, sin exceder de un año, autorice la Secretaría de Hacienda y Crédito Público.
 
@@ -663,11 +723,11 @@ Las instituciones de seguros no podrán repartir a sus accionistas, asegurados, 
 
 Las provisiones que para castigos se establezcan, podrán ser ajustadas de un balance a otro, con aprobación de la Secretaría de Hacienda y Crédito Público, pero sólo en la medida en que se hayan modificado los hechos y factores que sirvieron de base para su cálculo, y respetando siempre las reglas de estimación del activo establecidas en esta ley.
 
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 ###### ARTICULO 46.
 
-La Secretaría de Hacienda y Crédito Público fijará para cada ramo de seguros, el importe máximo que podrán emplear las instituciones para gastos de adquisición de nuevos seguros, así como el máximo de las comisiones, sueldos, gastos y cualquier otra compensación que les sea permitido pagar a sus agentes, y la manera de efectuar esos pagos; en el concepto de que tales comisiones sólo se pagarán sobre las primas que hayan ingresado efectivamente a la compañía. La propia Secretaría podrá fijar un límite mayor en los casos a que se refiere este artículo, para los primeros tres años de funcionamiento de las instituciones nacionales y mexicanas de seguros.
+La Comisión Nacional de Seguros fijará, para cada una de las operaciones y ramos de seguros, el importe máximo que podrán emplear las instituciones para gastos de adquisición de nuevos seguros, así como el máximo de las comisiones, sueldos, gastos y cualquier otra compensación que les sea permitido pagar a sus agentes y la manera de efectuar esos pagos; en el concepto de que tales comisiones sólo se pagarán sobre las primas que hayan ingresado efectivamente a la compañía. La propia Comisión podrá fijar un límite mayor en los casos a que se refiere este artículo, para los primeros tres años de funcionamiento de las instituciones nacionales y privadas de seguros.
 
 > <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
@@ -679,7 +739,9 @@ Para el ramo de vida, las partidas que deben considerarse como gastos de adquisi
 
 En ningún caso las instituciones de seguros ni sus agentes, podrán conceder a sus asegurados reducción de primas, participación en utilidades o comisiones, o cualquiera otra ventaja no especificada en la póliza.
 
-Las reglas establecidas para determinar el importe de las primas, su devolución, el pago de dividendos en las pólizas en que se contrate ese beneficio y, en general todas las estipulaciones que contengan los contratos en los diversos ramos de seguros, se aplicarán sin excepción a todos los riesgos de la misma clase.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
+Las reglas establecidas para determinar el importe de las primas, su devolución, el pago de dividendos en las pólizas en que se contrate ese beneficio y, en general, todas las estipulaciones que contengan los contratos en las diversas operaciones y ramos de seguros, se aplicarán sin excepción a todos los riesgos de la misma clase.
 
 ###### ARTICULO 49.
 
@@ -753,6 +815,8 @@ Las instituciones aseguradoras no podrán en general, designar los seguros en lo
 
 ### CAPITULO II. De la inversión de las reservas
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
 ###### ARTICULO 63.
 
 El certificado médico que pida la institución en caso de fallecimiento del asegurado, expresará las causas y el desarrollo de la enfermedad que originó la muerte. Y si la compañía exige que se expida formulario determinado, éste deberá ser previamente sometido a la aprobación de la Secretaría de Hacienda y Crédito Público.
@@ -767,19 +831,23 @@ II.- Reservas para obligaciones pendientes de cumplir por pólizas vencidas, por
 
 III.- Reservas de previsión para fluctuaciones de valores y desviaciones estadísticas.
 
-> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 ###### ARTICULO 65.
 
-Las reservas de riesgos en curso que deberán constituir las instituciones de seguros, serán:
+Las reservas de riesgos en curso que deberán constituir las instituciones de seguros, por los seguros o reaseguros que practiquen, serán:
 
-> <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 1946)</small>
+(REFORMADA, D.O.F. 16 DE ABRIL DE 1946) (F. DE E., D.O.F. 2 DE AGOSTO DE 1946)
 
 I.- La reserva media de primas correspondiente a las pólizas en vigor en el momento de la valuación, disminuída de las primas netas diferidas, para los seguros en los cuales la prima sea constante y la probabilidad del siniestro, creciente con el tiempo.
 
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 II.- La parte de las primas de tarifa no devengada a la fecha de la valuación para los seguros temporales renovables, dentro del período de cada año en vigor y en el ramo de vida.
 
-III.- El 45% de las primas correspondientes a las pólizas emitidas, menos devoluciones y cancelaciones, durante el año a cuyo final se hace el cálculo, para los seguros a que se refieren los incisos “b” a “i”, de la fracción II del artículo 1°. de esta ley.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
+III.- Para las operaciones a que se refieren los incisos b) y c) del artículo 11 de esta ley, el 45% del total de las primas emitidas durante el año, correspondientes a las obligaciones asumidas por seguros o reaseguros menos cancelaciones y devoluciones.
 
 ###### ARTICULO 66.
 
@@ -867,27 +935,43 @@ Las reservas para obligaciones pendientes deberán ser constituídas en efectivo
 
 > <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 ### CAPITULO III. Del control de las inversiones
 
-> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 ###### ARTICULO 76.
 
-La reserva de previsión para el ramo de seguros a que se refiere el inciso “a” de la fracción II del artículo 1°. de esta ley, se constituirá con el 1% de las primas cobradas durante el año, deducción hecha de las cedidas por concepto de reaseguro. Si el 10% de la utilidades netas que arroje el estado de pérdidas y ganancias formulado de acuerdo con esta ley, es mayor que el importe de la suma a que se refiere el párrafo anterior, las instituciones aseguradoras deberán constituír como reserva de previsión, precisamente este 10% de las utilidades.
+La reserva de previsión para las operaciones de vida se constituirá con el 1% de las primas cobradas durante el año, deducción hecha de la cedidas por concepto de reaseguro.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
+Si el 10% de las utilidades netas que arroje el estado de pérdidas y ganancias formulado de acuerdo con esta Ley, es mayor que el importe de la suma a que se refiere el párrafo anterior, las instituciones aseguradoras deberán constituir como reserva de previsión, precisamente este 10% de las utilidades.
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 Para el cálculo de la reserva de previsión en los términos del párrafo anterior, las instituciones aseguradoras no deberán incluir como deducción en su Estado de Pérdidas y Ganancias el 1% de las primas cobradas.
 
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 La reserva así constituída deberá incrementarse cada año hasta que llegue a tener un valor igual al 10% de las reservas medias de primas, más el 25% de las primas anuales de tarifas de las pólizas de seguro temporal renovable, vigente a la fecha de la valuación.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 ###### ARTICULO 77.
 
-La reserva de previsión para los demás ramos, se constituirán con el 3% de las primas correspondientes a las pólizas emitidas durante el año, menos las cedidas por concepto de reaseguro, las devoluciones y las cancelaciones. Si el 20% de las utilidades que arroje el estado de pérdidas y ganancias es mayor que el importe que arroje el porcentaje a que se refiere el párrafo anterior, las instituciones deberán constituir la reserva de previsión precisamente con este 20% de utilidades.
+La reserva de previsión para las demás operaciones y ramos se constituirá con el 3% de las primas correspondientes a las pólizas emitidas durante el año, menos las cedidas por concepto de reaseguro, las devoluciones y las cancelaciones.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
+Si el 20% de las utilidades que arroje el estado de pérdidas y ganancias es mayor que el importe que arroje el porcentaje a que se refiere el párrafo anterior, las instituciones deberán constituir la reserva de previsión precisamente con este 20% de utilidades.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
 
 Para el cálculo de la reserva de previsión en los términos del párrafo anterior, las compañías aseguradoras no deberán incluir como deducción en su estado de pérdidas y ganancias el 3% de las primas a que se refiere este artículo.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
 
 La reserva así constituída deberá incrementarse cada año, hasta completar una suma igual al monto del capital mínimo o al 30% de las primas netas retenidas, si el importe de este porcentaje es mayor que el capital mínimo.
 
@@ -895,7 +979,7 @@ La reserva así constituída deberá incrementarse cada año, hasta completar un
 
 ARTICULO 77 bis.- La reserva de previsión constituída e incrementada en los términos de los dos artículos anteriores será acumulativa y no deberá ser disminuída aun cuando llegare a exceder los topes señalados. Esta reserva sólo podrá afectarse en los casos previstos en esta ley.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1952)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 ## TITULO II. De las reservas y de su inversión
 
@@ -903,17 +987,25 @@ ARTICULO 77 bis.- La reserva de previsión constituída e incrementada en los t�
 
 ###### ARTICULO 78.
 
-En las instituciones de seguros, la suma del capital pagado, las reservas de capital, los sobrantes afectos a este fin y la reserva de previsión, nunca deberá ser menor que el 10% de la reserva de riesgos en curso si se trata de seguros comprendidos en los incisos a) y b) de la fracción II del artículo 1°. y si la institución tiene hasta $10.000,000.00 de reservas técnicas; del 9% en el caso de reservas técnicas que vayan de $10.000,000.00 a $25.000,000.00; del 8% si las reservas son de $25.000,000.00 a $50.000,000.00;del 7% si las reservas son de $50.000,000.00 a $75.000,000.00; del 6% si las reservas son de $75.000,000.00 a $100.000,000.00 y del 5% cuando las reservas alcancen a $100.000,000.00 o más; ni menor del 15% de las primas brutas cobradas durante el año para los demás ramos de seguros.
+En las instituciones de seguros, la suma del capital pagado, las reservas de capital, las utilidades no distribuídas afectas a este fin y la reserva de previsión, nunca deberá ser menor del 10% de las reservas de riesgos en curso si se trata de las operaciones de vida y de accidentes y enfermedades y si la institución tiene hasta $10.000,000.00 de dichas reservas técnicas; del 9% en el caso de reservas técnicas que vayan de $10.000,000.00 a $25.000,000.00; del 8% si las reservas son de $25.000,000.00 a $50.000,000.00; del 7% si las reservas son de $50.000,000.00 a $75.000,000.00; del 6% si las reservas son de $75.000,000.00 a $100.000,000.00 y del 5% cuando las reservas alcancen $100.000,000.00 o más.
 
-> <small>(F. DE E., D.O.F. 28 DE ENERO DE 1952)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
+Tratándose de las operaciones de daños, la suma del capital pagado, las reservas de capital, las utilidades no distribuídas afectas a este fin y la reserva de previsión, será por lo menos igual al resultado de calcular el 20% de las primas directas más el 10% de las primas de reaseguro emitidas durante el año.
+
+(REFORMADO, D.O.F. 5 DE ENERO DE 1952) (F. DE E., D.O.F. 28 DE ENERO DE 1952)
 
 Cuando a juicio de la Comisión Nacional de Seguros, tales proporciones no sean suficientes para garantizar las posibles pérdidas por desviaciones estadísticas, la propia Comisión determinará que sean aumentados el capital y las reservas de capital o de previsión, en los términos y condiciones que estime prudentes.
 
-La falta de cumplimiento a lo dispuesto por este artículo dará lugar a que la sociedad de que se trate sea declarada en estado de disolución.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
+La falta de cumplimiento a lo dispuesto por este artículo, dará lugar a que la Secretaría de Hacienda y Crédito Público señale un plazo, que no excederá de un año, para que sean aumentados el capital, las reservas de capital o de previsión, y en caso de incumplimiento, transcurrido dicho plazo, se incurrirá en causa de revocación de la autorización.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 ###### ARTICULO 79.
 
-Las instituciones de seguros calcularán las reservas técnicas al 31 de diciembre de cada año y estarán obligadas a constituirlas separadamente para cada ramo en la forma y términos que señala el artículo 84. La Secretaría de Hacienda y Crédito Público podrá, sin embargo, exigir que en cualquier momento se haga una valuación de dichas reservas, y las instituciones estarán obligadas a constituir inmediatamente, para cada ramo las reservas que arroje dicha estimación.
+Las instituciones de seguros calcularán y registrarán su reservas técnicas al 31 de diciembre de cada año para efectos de balance, sin perjuicio de lo dispuesto en el artículo 84. La Secretaría de Hacienda y Crédito Público podrá ordenar que en cualquier momento se haga una valuación de dichas reservas y las instituciones estarán obligadas a registrarlas e invertirlas de inmediato, conforme a los resultados que arroje dicha estimación para cada operación y ramo.
 
 ###### ARTICULO 80.
 
@@ -939,129 +1031,143 @@ Si con la aplicación total de las reservas estatutarias, de previsión, y reduc
 
 Las instituciones de seguros sobre la vida que se vean obligadas a reducir las bases de valuación de sus reservas medias de primas, en los términos del artículo anterior, no podrán repartir dividendos a sus asegurados ni accionistas mientras no estén en posibilidad de constituir dichas reservas conforme a las bases originales, y mientras no hayan reconstituido las reservas de previsión y las estatutarias y en su caso el capital qué tuvieren que reducir, para poder cubrir los deficientes sufridos.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
 ###### ARTICULO 83.
 
-Las instituciones de seguros estarán obligadas a constituir las reservas que correspondan a los riesgos asumidos por los reaseguros que practiquen.
+En las operaciones de reaseguro, practicadas con instituciones autorizadas o no autorizadas, la institución autorizada cedente que haya emitido el seguro directo en el país, deberá retener e invertir también dentro del país, las reservas a que se refieren las fracciones I y II del artículo 64, en los términos de esta Ley.
 
 ###### ARTICULO 84.
 
-Las reservas técnicas constituídas al 31 de diciembre de cada año de acuerdo con el Capítulo anterior, deberán encontrarse íntegramente invertidas a más tardar el día último de marzo del año siguiente, y quedar afectas al ramo de seguros a que correspondan.
+Las reservas técnicas a que se refiere el capítulo anterior deberán constituirse e invertirse en los siguientes términos:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
+I.- Las reservas para riesgos en curso se sujetarán al siguiente régimen:
+
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
+
+a). En las operaciones de vida, se calcularán y registrarán al 31 de diciembre de cada año. Estas reservas deberán encontrarse íntegramente invertidas en los bienes, créditos y valores que señala el artículo 85 al 31 de enero siguiente. Para ajustar las inversiones de estas reservas a las proporciones que fijan los artículos 86 y 87, las instituciones dispondrán de un plazo que vencerá el 31 de marzo de cada año;
+
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
+
+b). En las operaciones a que se refieren los incisos b) y c) del artículo 11, se calcularán y registrarán al día último de los meses de marzo, junio, septiembre y diciembre de cada año, agregando la reserva correspondiente a la prima emitida en el trimestre de que se trate y deduciendo la de igual período del año inmediato anterior. Estas reservas deberán encontrarse íntegramente invertidas y ajustadas en los términos de los artículos 85, 86 y 87, dentro de los 90 días siguientes a cada una de las fechas antes indicadas.
+
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
+
+II.- Las reservas para obligaciones pendientes de cumplir deberán registrarse e invertirse en los términos del artículo 75.
+
+III.- Las reservas de previsión, calculadas en los términos de los artículos 76 y 77, se registrarán al 31 de diciembre de cada año. Estas reservas deberán encontrase íntegramente invertidas al 31 de enero siguiente en los bienes, créditos y valores que señala el artículo 85 y deberán ajustarse a las proporciones que fijan los artículos 86 y 87 dentro de un plazo que vencerá el 31 de marzo de cada año.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 ###### ARTICULO 85.
 
-El importe total de las reservas a que se refiere la fracción II del artículo 64, deberá mantenerse precisamente en efectivo o invertirse en valores que a juicio de la Secretaría de Hacienda, sean de rápida realización.
+El importe total de las reservas a que se refiere la fracción II del artículo 64, deberá mantenerse precisamente en efectivo o invertirse en valores que a juicio de la Secretaría de Hacienda y Crédito Público sean de fácil realización.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
+El importe total de las reservas para riesgos en curso, a que se refiere la fracción I del artículo 64, deberá invertirse precisamente en los siguientes bienes:
 
-El importe total de las reservas, a que se refieren las fracciones I y III del mismo artículo 64, deberá invertirse precisamente en los siguientes bienes:
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-(REFORMADA, D.O.F. 16 DE FEBRERO DE 1949)(F. DE E., D.O.F. 16 DE MARZO DE 1949)
+I.- Primas retenidas correspondientes a reservas constituídas por operaciones de reaseguro celebradas con instituciones de seguros autorizadas o no autorizadas, por la parte retenida por la cedente, así como las inversiones hechas en el extranjero por reservas técnicas correspondientes a operaciones directas practicadas fuera del país por instituciones autorizadas, pero estas últimas inversiones sólo se computarán para los efectos de las operaciones realizadas por la sucursal o agencia correspondiente;
 
-I.- Bonos o títulos emitidos por el Gobierno Federal, por el del Distrito Federal y por Instituciones Nacionales de Crédito, en los términos del siguiente artículo 86.
+II.- Bonos o títulos emitidos por el Gobierno Federal, por el del Distrito Federal y por instituciones nacionales de crédito, en los términos del artículo 86; así como valores emitidos por organismos públicos descentralizados de carácter federal, aprobados para este efecto por la Comisión Nacional de Valores;
 
-> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 1949)</small>
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-II.- Bonos hipotecarios, bonos de caja, cédulas hipotecarias y obligaciones, emitidas o garantizadas en su caso, por instituciones de crédito debidamente autorizadas, así como los valores mobiliarios garantizados por el Fondo Nacional de Garantía.
+III.- Cédulas hipotecarias y bonos, garantizadas o emitidos por instituciones de crédito legalmente autorizadas;
 
-(REFORMADA, D.O.F. 16 DE FEBRERO DE 1949)(F. DE E., D.O.F. 16 DE MARZO DE 1949)
+IV.- Acciones y obligaciones de compañías mexicanas que no sean mineras, petroleras o de seguros, aprobadas para este efecto por la Comisión Nacional de Valores, por medio de acuerdos generales;
 
-III.- Acciones y obligaciones de compañías mexicanas, que no sean mineras, petroleras o de seguros, aprobadas por la Comisión Nacional de Valores, por medio de acuerdos generales, o acciones de sociedades que se organicen exclusivamente con el objeto de adquirir el dominio y administrar edificios en los que sea accionista alguna institución de seguros, y siempre que, además, en el edificio propiedad de esas sociedades, tenga su oficina principal la institución de seguros accionistas.
+V.- Préstamos con garantía prendaria de las acciones, bonos, títulos o valores a que se refieren las tres fracciones anteriores. El importe del préstamo no excederá del 80% del valor de la prenda, estimado de acuerdo con el artículo 92 de esta ley;
 
-> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 1949)</small>
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-IV.- Préstamos con garantía prendaria de los bonos o títulos a que se refieren las tres fracciones anteriores.
+VI.- Préstamos con garantía de las reservas medias de primas, siempre que el importe del préstamo no exceda de la reserva terminal correspondiente;
 
-El importe de la operación no excederá del 80% del valor de la prenda, estimado de acuerdo con esta ley.
+VII.- Préstamos hipotecarios sobre inmuebles urbanos que a juicio de la Comisión Nacional de Seguros se estimen de productos regulares, a plazos no mayores de diez años, siempre que el importe del préstamo no exceda del 50% del valor total de los inmuebles que queden afectos en garantía hipotecaria, ni del 30% de su valor, cuando se trate de inmuebles especializados, de acuerdo con las características que fije la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 1949)</small>
+Cuando se trate de préstamos hipotecarios sobre inmuebles urbanos destinados a habitación, que reúnan las características que administrativamente fije la misma Secretaría, el plazo de amortización no excederá de quince años ni el importe del préstamo, del 65% del valor del inmueble.
 
-V.- Préstamos con garantía de las reservas medias de primas, siempre que el importe del préstamo no exceda de la reserva terminal correspondiente.
+Los préstamos hipotecarios deberán tener garantía en primer lugar y se reembolsarán por pagos periódicos iguales de capital o de capital e intereses, anuales, semestrales o de más frecuente periodicidad. Los inmuebles dados en garantía deberán estar asegurados contra incendio, terremoto y explosión por su valor destructible. El valor de los inmuebles se determinará de acuerdo con las normas del artículo 92 de esta ley;
 
-(REFORMADA, D.O.F. 16 DE FEBRERO DE 1949)(F. DE E., D.O.F. 16 DE MARZO DE 1949)
+VIII.- Inmuebles urbanos de productos regulares, en territorio de la República, que deberán estar siempre asegurados contra incendio, explosión y terremoto por su valor destructible;
 
-VI.- En préstamos hipotecarios sobre inmuebles urbanos, reembolsables en amortizaciones iguales anuales, semestrales o demás frecuente periodicidad y a plazos no mayores de diez años, siempre que el importe del préstamo no exceda del 50% del valor total de las fincas que queden afectas en garantía hipotecaria, ni del 30% de su valor, cuando las construcciones de carácter especial, la maquinaria y otros muebles inmovilizados representen más de la mitad del valor de los bienes afectos en garantía. Las construcciones y muebles inmovilizados que en la garantía se comprendan, deberán estar asegurados contra incendio por una cantidad que baste, cuando menos, para cubrir el valor del crédito. Los valores a que se refiere esta fracción se fijarán en los términos del avalúo que se practique de acuerdo con el artículo 92.
+IX.- Certificados de participación inmobiliaria emitidos en los términos de la Ley General de Títulos y Operaciones de Crédito, con fideicomiso de inmuebles que reúnan las características señaladas en la fracción anterior. Los contratos de fideicomiso deberán ser sometidos a la aprobación de la Comisión Nacional de Seguros. Estos certificados se computarán como inversiones en inmuebles;
 
-> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 1949)</small>
+X.- Depósitos bancarios a la vista en instituciones de crédito legalmente autorizadas;
 
-VII.- Adquisición en la República de bienes inmuebles urbanos de productos regulares, que deberán siempre estar asegurados contra incendio, explosión y terremoto por su valor destructible.
+XI.- Primas de renovación pendientes de cobro que no tengan más de treinta días de vencidas a la fecha del balance o de la estimación, cuando se trate de Instituciones que practiquen operaciones de vida;
 
-> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 1949)</small>
+XII.- Descuentos y redescuentos a instituciones de crédito y créditos de habilitación o refaccionarios, de acuerdo con las disposiciones reglamentarias que dicte la Secretaría de Hacienda y Crédito Público.
 
-VIII.- Reservas de riesgos en curso y de obligaciones pendientes de cumplir en otras instituciones autorizadas conforme a esta Ley, en la parte que de sus riesgos hubiere reasegurado.
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 1949)</small>
+Las reservas de previsión a que se refiere la fracción III del artículo 64 deberán invertirse precisamente en cualquiera de los bienes, créditos o valores a que se refieren las fracciones II a X y la XII de este artículo.
 
-IX.- Depósitos a la vista en Bancos de concesión Federal.
+No podrán considerarse como inversiones de las reservas técnicas, los intereses vencidos y pendientes de cobro de valores o préstamos, ni las rentas de bienes raíces.
 
-(REFORMADA, D.O.F. 16 DE FEBRERO DE 1949)(F. DE E., D.O.F. 16 DE MARZO DE 1949)
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-X.- Inversiones correspondientes a las reservas por pólizas expedidas en países extranjeros por sucursales o agencias conforme a las leyes que en éstos sean aplicables. Estas inversiones sólo se computarán por los efectos de las operaciones realizadas por la sucursal correspondiente.
-
-> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 1949)</small>
-
-XI.- Primas netas pendientes de cobro que no tengan más de 30 días de vencidas en la fecha del balance o de la estimación, cuando se trate de instituciones que practiquen el ramo de la vida. No podrán considerarse como inversiones de las reservas los intereses vencidos y pendientes de cobro de bonos, préstamos o rentas de bienes raíces.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
-
-XII.- Descuentos y redescuentos a instituciones de crédito, de acuerdo con las disposiciones reglamentarias que dicte la Secretaría de Hacienda y Crédito Público.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
-
-Las inversiones de las reservas técnicas estarán afectas a las obligaciones contraídas por la institución por las pólizas emitidas, y no podrán disponer de ellas, total ni parcialmente, sino para cumplir las obligaciones contraídas, y las que resulten por virtud de sentencia ejecutoria de los tribunales de la República o por laudo de la Comisión Nacional de Seguros, a favor de los asegurados o beneficiarios, de acuerdo con esta ley. Por tanto, los bienes en que se encuentren invertidas las reservas enumeradas en las tres fracciones del artículo 64, son inembargables.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1952)</small>
+Las inversiones de las reservas técnicas estarán afectas a las obligaciones contraídas por la institución por las pólizas emitidas y no podrán disponer de ellas, total ni parcialmente sino para cumplir las obligaciones contraídas y las que resulten por virtud de sentencia ejecutoria de los tribunales de la República o por laudo de la Comisión Nacional de Seguros, a favor de los asegurados o beneficiarios, de acuerdo con esta ley. Por tanto, los bienes en que se encuentren invertidas las reservas enumeradas en las tres fracciones del artículo 64, son inembargables.
 
 El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, podrá, mediante disposiciones de carácter general, modificar, reformar y variar los renglones, objetos y límites de inversión de las instituciones de seguros, así como señalar otros nuevos, para satisfacer necesidades de orden social o de interés público.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
 ###### ARTICULO 86.
 
-Por lo menos el 30% de las reservas técnicas de las instituciones de seguros estarán precisamente invertidas en certificados de participación o bonos hipotecarios de las instituciones nacionales de crédito, en valores en serie del Gobierno Federal o del Distrito Federal, emitidos para obras de servicios públicos, garantizados con la afectación en fideicomiso de algún impuesto, cuota de servicio o ingreso suficiente a juicio de la Secretaría de Hacienda y Crédito Público para el servicio de amortización e intereses, siempre que el fideicomiso en favor de los tenedores de valores se constituya en una institución nacional de crédito, o que otorgue mandato irrevocable en favor del representante común de los tenedores de valores para los cobros de las cuotas de percepción de los ingresos. Para los efectos de la inversión obligatoria a que se refiere este artículo, sólo se computarán los valores antes mencionados, que se emitan con un interés no superior al 6% anual.
+Por lo menos el 25% de las reservas técnicas, del capital pagado y de las reservas de capital de las instituciones de seguros, estarán precisamente invertidos en certificados de participación o bonos hipotecarios de las instituciones nacionales de crédito, en valores en serie del Gobierno Federal o del Distrito Federal, emitidos para obras de servicios públicos, garantizados con la afectación en fideicomiso de algún impuesto, cuota de servicio o ingreso suficiente a juicio de la Secretaría de Hacienda y Crédito Público para el servicio de amortización e intereses, siempre que el fideicomiso en favor de los tenedores de valores se constituya en una institución nacional de crédito, o que se otorgue mandato irrevocable en favor del representante común de los tenedores de valores para los cobros de la cuotas de percepción de los ingresos. Para los efectos de la inversión obligatoria a que se refiere este artículo, sólo se computarán los valores antes mencionados, que se emitan con un interés no superior al 6% anual.
 
-> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 1949)</small>
+Un 5% de las reservas técnicas, del capital pagado y de las reservas de capital, deberá estar invertido en bonos para la habitación popular emitidos por instituciones nacionales de crédito. Además, deberá mantenerse invertido cuando menos el 5% de las reservas técnicas, del capital pagado y de las reservas del capital, como sigue:
 
-La Secretaría de Hacienda, por medio de acuerdos generales, oyendo a la Comisión Nacional de Seguros y a la Comisión Nacional de Valores, podrá admitir que se invierta un 5% de su capital y reservas de capital y técnicas dentro del 30% referido, en valores de la Deuda Pública Titulado a Cargo del Gobierno Federal, de características distintas a las señaladas en el párrafo anterior.
+1.- En habitaciones populares construídas por las instituciones de seguros, con rentas bajas que, en ningún caso, excedan de $350.00 mensuales, de acuerdo con las características que para cada región del país fije la Secretaría de Hacienda y Crédito Público, previa opinión del Instituto Nacional de la Vivienda; o
 
-(REFORMADO, D.O.F. 16 DE FEBRERO DE 1949)(F. DE E., D.O.F. 16 DE MARZO DE 1949)
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-Las inversiones que hagan las Instituciones de Seguros en obras de utilidad social, calidad que determinará la Secretaría de Hacienda, con opinión de la Comisión Nacional de Seguros, podrán ser asimiladas a la inversión en valores del Estado, para los efectos del cómputo del 30% que exige este artículo, hasta un 5% de su capital y reservas de capital y técnicas y siempre que las instituciones inviertan en dichas obras cuando menos otro tanto igual al que se les considere, que se afectará a otros renglones de inversión.
+2.- En la edificación de habitaciones populares destinadas a ser vendidas mediante procedimientos de amortización cuyos pagos periódicos, por su poca cuantía, puedan equipararse al importe de rentas, de acuerdo con las características y plazos de amortización que autorice la propia Secretaría de Hacienda y Crédito Público, tras de oír la opinión del Instituto Nacional de la Vivienda; o
 
-> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 1949)</small>
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-Para los efectos de su inversión en los valores a que se refiere este precepto, previo estudio de las deducciones procedentes, la Comisión Nacional de Seguros determinará el monto total de las reservas técnicas de las Instituciones de Seguros.
+3.- En préstamos hipotecarios con interés no mayor del 7% anual, destinados a la construcción de habitaciones populares, que podrán otorgarse hasta por un 65% del valor del inmueble hipotecado, siempre que el inmueble se utilice precisamente para la habitación del deudor; o
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
+4.- En bonos para la habitación popular emitidos por instituciones nacionales de crédito.
+
+La Secretaría de Hacienda y Crédito Público, por medio de acuerdos generales, oyendo a la Comisión Nacional de Seguros y a la Comisión Nacional de Valores, podrá admitir que se invierta un 5% de su capital y reservas de capital y técnicas dentro del 25% referido, en valores de la Deuda Pública titulada a cargo del Gobierno Federal, de características distintas a las señaladas en el primer párrafo de este artículo.
+
+Las inversiones que hagan las instituciones de seguros en obras de utilidad social, calidad que determinará la Secretaría de Hacienda, con opinión de la Comisión Nacional de Seguros, podrán ser asimiladas a la inversión en valores del Estado, para los efectos del cómputo del 25% que exige este artículo, hasta un 5% de su capital y reservas de capital y técnicas y siempre que las instituciones inviertan en dichas obras cuando menos otro tanto igual al que se les considera, que se afectará a otros renglones de inversión.
+
+Para los efectos de su inversión en los valores a que se refiere este precepto se deducirán del total de las reservas técnicas, las inversiones mencionadas en la fracción I del artículo 85 y las que la Comisión Nacional de Seguros determine previo el estudio correspondiente. Las instituciones autorizadas cedentes, estarán obligadas a hacer la inversión a que se refiere este precepto en la parte que corresponda a las primas retenidas.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 ###### ARTICULO 87.
 
-Las inversiones que del importe total de las reservas técnicas haga una misma institución en cualquiera de los siguientes bienes o valores, se limitarán a las proporciones, respecto a dicho total que a continuación se indican:
+Las inversiones que del importe total de las reservas técnicas a que se refieren las fracciones I y III del artículo 64, haga una institución de seguros en cualquiera de los siguientes bienes, créditos o valores, se limitarán a las proporciones que a continuación se indican respecto de dicho total:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-I.- Hasta un 50% en bienes inmuebles urbanos o en derechos reales con garantía de los mismos. La Comisión Nacional de Seguros, en vista de casos concretos, podrá fijar la proporción de bienes inmuebles y de derechos reales que dentro de este 50% deban tener las instituciones. Las cantidades que inviertan las instituciones de seguros en la construcción o adquisición de un solo inmueble, no excederán del límite que señale discrecionalmente la Comisión Nacional de Seguros, por medio de disposiciones de carácter general, con la aprobación de la Secretaría de Hacienda y Crédito Público;
+I.- Hasta un 30% en los préstamos hipotecarios, y en las cédulas y bonos hipotecarios a que se refieren las fracciones III y VII del artículo 85, así como en los préstamos con garantías de estos valores. No se computarán dentro de este límite los valores de esta clase emitidos ni las cédulas garantizadas por instituciones nacionales de crédito;
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
+II.- Hasta un 30% en los inmuebles urbanos a que se refiere la fracción VIII del artículo 85. Las cantidades que inviertan las instituciones de seguros en la construcción o adquisición de un solo inmueble, no excederá del límite que señale discrecionalmente la Comisión Nacional de Seguros, por medio de disposiciones de carácter general con la aprobación de la Secretaría de Hacienda y Crédito Público.
 
-I bis.- Hasta un 20%, en los descuentos y redescuentos a que se refiere la fracción XII del artículo 85.
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 1949)</small>
+La suma de las inversiones a que se refieren las dos fracciones anteriores y la fracción IX del artículo 85 no excederá en ningún caso del 50% de las reservas mencionadas en el primer párrafo de este artículo;
 
-II.- Hasta un 10% en efectivo o en depósitos a la vista.
+III.- Hasta un 10% en efectivo o en depósitos bancarios a la vista;
 
-(REFORMADA, D.O.F. 16 DE FEBRERO DE 1949) (F. DE E., D.O.F. 16 DE MARZO DE 1949)
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
 
-III.- Hasta un 10% en acciones de Sociedades Anónimas o préstamos prendarios con garantía de las mismas, sin que esta inversión de su capital y reservas de capital y técnicas pueda exceder del 30% del capital de la emisora.
+IV.- Hasta un 20% en las acciones a que se refiere la fracción IV del artículo 85 y en préstamos con garantía de las mismas.
 
-> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 1949)</small>
+El 20% establecido en esta fracción podrá invertirse totalmente en valores industriales o en préstamos con garantía de los mismos. Tratándose de valores emitidos por empresas que no sean industriales y de préstamos con garantía de estos valores, no representarán más de la cuarta parte de dicho porciento.
 
-Del 10% fijado en la fracción anterior, las Instituciones de Seguros no podrán invertir sino un 5% de su capital y reservas de capital y técnicas en acciones de Instituciones de Crédito o préstamos prendarios, con garantía de dichos títulos, sin que esta inversión pueda exceder del 30% del capital de la emisora.
+Las instituciones de seguros podrán invertir hasta el 5% de las reservas técnicas mencionadas en este artículo en acciones de instituciones de crédito o en préstamos prendarios con garantía de dichos títulos, pero estas inversiones se computarán dentro del 20% establecido en la presente fracción.
 
-> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 1949)</small>
+Las inversiones en acciones a que se refiere esta fracción no excederán del 30% del capital de la sociedad emisora;
 
-Los créditos, títulos o valores de que sea responsable un mismo deudor o emisor, no excederán del 10% de las reservas de capital y técnicas excepto cuando se trate de inversiones hechas en los términos del artículo 86.
+V.- Hasta un 20% en los descuentos y redescuentos y en créditos de habilitación o refaccionarios a que se refiere la fracción XII del artículo 85; pero sin que las operaciones de préstamos hechas en forma directa excedan del 5% de las reservas técnicas.
+
+Los créditos, títulos o valores de que sea responsable un mismo deudor o emisor, no excederán del 10% de la suma de las reservas técnicas, capital y reservas de capital de la institución inversora, con excepción de los valores a que se refiere el artículo 86 y de las cédulas hipotecarias garantizadas por instituciones hipotecarias legalmente autorizadas.
 
 ###### ARTICULO 88.
 
@@ -1069,21 +1175,23 @@ La Secretaría de Hacienda podrá autorizar a las instituciones para que inviert
 
 Para el ramo de vida, una vez que las reservas correspondientes a obligaciones en monedas extranjeras lleguen a ser iguales al 25% ya dicho, las instituciones no podrán ya expedir pólizas en monedas extranjeras. Estos valores podrán ser bonos de gobiernos extranjeros o garantizados por éstos, que se coticen en bolsas oficiales y que se capitalicen al 5 -½ % o menos; y siempre que los intereses hayan sido pagados de una manera regular durante los cinco años anteriores a la fecha de la adquisición. También pueden ser obligaciones de compañías extranjeras, siempre que estén cotizadas en bolsas oficiales y hayan estado al corriente en sus servicios por lo menos durante los cinco años anteriores a la fecha de la adquisición.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
 ###### ARTICULO 89.
 
-Cuando las inversiones afectadas a las reservas las hiciere una institución en cualquiera de la operaciones a que se refieren las fracciones VI y VII del artículo 85 de esta Ley, se hará constar en la escrituras respectivas a qué rama de seguros queda afecto el derecho.
+Cuando una institución hiciere inversiones de las reservas técnicas en los créditos y bienes a que se refieren las fracciones VII y VIII del artículo 85 de esta ley, se hará constar en las escrituras respectivas a qué operación o ramo de seguros queda afecta esa inversión.
 
-Las mismas escrituras especificarán que no podrá hacerse ninguna operación con los inmuebles o con los créditos hipotecarios sin autorización previa en ambos casos, de la Secretaría de Hacienda y Crédito Público.
+Las mismas escrituras especificarán que no podrá hacerse ninguna operación con los inmuebles o con los créditos hipotecarios sin autorización previa, en ambos casos, de la Comisión Nacional de Seguros.
 
-> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+Cuando una institución de seguros deseare afectar los bienes a que se refiere este artículo a otra operación o ramo de seguros, podrá hacerlo previa autorización de la Comisión Nacional de Seguros, la que ordenará al Registro Público de la Propiedad se haga la inscripción marginal correspondiente. Igual procedimiento se seguirá cuando uno de los bienes de la misma especie no represente inversión de reservas técnicas y se quiera afectarlo a alguna de ellas, con expresión de la operación o ramo correspondiente.
 
-Cuando una institución de seguros deseare cambiar de ramo la afectación de los bienes a que se refiere este artículo, podrá hacerlo previa autorización de la Secretaría de Hacienda, la que ordenará al Registro Público de la Propiedad, se haga la inscripción marginal correspondiente. Igual procedimiento se seguirá cuando uno de los bienes de la misma especie, no represente inversión de reservas técnicas y se quiera afectarlos a alguna de ellas, con expresión del ramo correspondiente.
+Los inmuebles que adquieran las instituciones de seguros, de acuerdo con la fracción VIII del artículo 85 de esta ley, no deberán tener ningún gravamen y si sobre ellos pesa algún contrato de arrendamiento éste no podrá exceder de 6 años.
 
-Los inmuebles que adquieran la instituciones de seguros de acuerdo con la fracción VII del artículo 85 de esta Ley, no deberán tener ningún gravamen y si sobre ellos pesa algún contrato de arrendamiento, éste no podrá exceder de seis años.
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
 ###### ARTICULO 90.
 
-Las instituciones de seguros no podrán vender o hipotecar sus bienes raíces ni cancelar hipotecas u otros derechos reales afectos a las reservas, ni arrendar por más de seis años sus bienes sin autorización previa de la Secretaría de Hacienda y Crédito Público.
+Las instituciones de seguros no podrán, sin autorización previa de la Comisión Nacional de Seguros, prometer en venta, vender, ni dar en arrendamiento por más de 6 años, bienes inmuebles afectos a sus reservas técnicas, a su capital o reservas de capital. Tampoco podrán adquirir inmuebles, otorgar créditos hipotecarios, cancelar garantías hipotecarias u otros derechos reales a su favor, ni adquirir certificados de participación inmobiliaria, sin autorización previa de la Comisión Nacional de Seguros. Para que una institución de seguros, pueda hipotecar o gravar en cualquier forma sus bienes requerirá autorización previa de la Secretaría de Hacienda y Crédito Público, la que sólo se otorgará en casos de emergencia en los términos y condiciones que la propia Secretaría de Hacienda estime convenientes.
 
 ###### ARTICULO 91.
 
@@ -1119,9 +1227,9 @@ b). Después del período a que se refiere el inciso anterior, en su valor nomin
 
 c). Cuando la cotización dominante el día de la estimación sea inferior al 95% de su valor nominal, al valor que resulte de acuerdo con las reglas de la fracción III de este artículo;
 
-> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1937)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-V.- Los créditos a que se refieren las fracciones IV, V y VI del artículo 85, serán estimados a su valor nominal. Cuando el valor de la garantía no alcance a cubrir el crédito correspondiente, se estimarán al valor de realización de esa garantía, estimado por la Secretaría de Hacienda y Crédito Público;
+V.- Los créditos a que se refieren las fracciones V, VI y VII del artículo 85 serán estimados a su valor nominal. Cuando el valor de la garantía no alcance a cubrir el crédito correspondiente se estimarán al valor de realización de esa garantía, estimado por la Comisión Nacional de Seguros;
 
 (REFORMADA PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1953) (F. DE E., D.O.F. 25 DE FEBRERO DE 1954)
 
@@ -1169,25 +1277,31 @@ VII.- Los demás bienes y créditos serán estimados por la Secretaría de Hacie
 
 ###### ARTICULO 93.
 
-Los títulos o valores que se mencionan en la fracción III del artículo 75 y en las fracciones I, II y III del 85, se depositarán precisamente en la Nacional Financiera, S. A., con expresión del ramo a que correspondan dichas inversiones. Tal depósito quedará afecto al cumplimiento de las obligaciones de la institución en el ramo correspondiente.
+El efectivo y los títulos o valores afectos a las reservas para obligaciones pendientes de cumplir en los términos de los artículos 75 y 86 y del primer párrafo del artículo 85, deberán depositarse precisamente en la Nacional Financiera, S. A., con expresión de las operaciones o ramos a que correspondan dichas inversiones. Estas inversiones quedarán afectas al cumplimiento de las obligaciones de la institución en la operación o ramo correspondiente.
 
-Las instituciones de seguros podrán retirar en cualquier tiempo alguno o algunos de los títulos o valores, reemplazándolos por otros de igual valor, previa la aprobación de la Secretaría de Hacienda.
+Los títulos o valores mencionados en las fracciones II, III, IV y IX del artículo 85, afectos a las demás reservas técnicas se depositarán también en la Nacional Financiera, S. A., expresándose asimismo las operaciones o ramos a que correspondan dichas inversiones y quedarán afectas al cumplimiento de las obligaciones de la institución en la operación o ramo correspondiente.
+
+Las instituciones de seguros podrán retirar, en cualquier tiempo, alguno o algunos de los títulos o valores, reemplazándolos por otros de igual valor, previa la aprobación de la Comisión Nacional de Seguros.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 ###### ARTICULO 94.
 
-La existencia de los valores y demás bienes en que se encuentren invertidas las reservas, deberá justificarse en cualquier momento, en el domicilio legal de la institución, a requerimiento de la Secretaría de Hacienda y Crédito Público, en la forma que a continuación se indica:
+La existencia de valores y demás bienes en que se encuentren invertidas las reservas técnicas, deberá justificarse en cualquier momento, en el domicilio legal de la institución, a requerimiento de la Comisión Nacional de Seguros, en la forma que a continuación se indica:
 
 > <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 I.- De los valores, mediante la exhibición de los certificados de depósito de la Nacional Financiera, S. A. y en el caso del artículo 99, mediante la exhibición del certificado expedido por el Banco de México, S. A.
 
-II.- De los préstamos prendarios, mediante la exhibición del documento respectivo y de los valores pignorados;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
+II.- De los préstamos prendarios, refaccionarios y de habilitación, mediante la exhibición de los documentos respectivos y, en su caso, de los valores pignorados;
 
 III.- De los préstamos sobre pólizas, mediante la exhibición de los documentos requeridos;
 
 IV.- De los préstamos hipotecarios, por medio de las escrituras respectivas, a las que se acompañe el dictamen pericial en que conste el valor de la propiedad hipotecada;
 
-V.- De los inmuebles, por medio de las escrituras respectivas, a las que deberán estar unidos todos los documentos que constituyan la titulación de la finca, así como el comprobante de estar asegurada la propiedad;
+V.- De los inmuebles, por medio de las escrituras respectivas, a las que deberán estar unidos todos los documentos que constituyan la titulación de la finca así como el comprobante de estar asegurada la propiedad;
 
 VI.- De las reservas en otras instituciones autorizadas conforme a la ley, por el estado de reaseguros cedidos por la institución, el que se comprobará por medio de los estados de reaseguros aceptados por las instituciones reaseguradoras, y si se juzga necesario, por las pólizas, contratos y registros respectivos;
 
@@ -1197,21 +1311,23 @@ VII.- De los depósitos hechos en bancos, con el estado de cuenta suministrado p
 
 VIII.- De las inversiones de las reservas en países extranjeros mediante el certificado expedido por autoridad competente, debidamente legalizado; y
 
-(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1953) (F. DE E., D.O.F. 25 DE FEBRERO DE 1954)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-IX.- De las primas netas pendientes de cobro, por medio de una relación que indique por lo menos el número de la póliza, el importe de la prima neta y la fecha de vencimiento de la prima, relación que deberá ser comprobada con los registros de primas o con los recibos correspondientes; y
+IX.- De las primas de renovación pendientes de cobro, por medio de una relación que indique, por lo menos, el número de la póliza, el importe de la prima y la fecha de su vencimiento, relación que deberá ser comprobada con los registros de primas o con los recibos correspondientes; y
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
 
 X.- Los descuentos y redescuentos a instituciones de crédito, mediante los títulos debidamente endosados, o, en su defecto, por los comprobantes que expida la institución de crédito.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
 ### CAPITULO UNICO
 
 ###### ARTICULO 95.
 
-Si por el informe mensual sobre inversiones de reserva a que se refiere el artículo 104, se comprueba que el importe de dichas inversiones es menor que el monto total de las reservas a que se refiere el artículo 79 de esta ley, calculado al 31 de diciembre anterior, la institución estará obligada a constituir, en los términos de este ordenamiento, el faltante en las inversiones a menos de que por medio de una nueva valuación se demuestre que las inversiones existentes son suficientes para cubrir las reservas calculadas conforme a dicha valuación.
+Si por el informe mensual sobre inversiones de reservas técnicas a que se refiere el artículo 104, se comprueba que el importe de dichas inversiones es menor que el monto total de las reservas calculadas y registradas conforme a lo establecido en el artículo 84, la institución estará obligada a invertir, en los términos de este ordenamiento, el faltante correspondiente, a menos de que por medio de una nueva valuación se demuestre que las inversiones existentes son suficientes para cubrir las reservas calculadas conforme a dicha valuación.
 
-Si, por el contrario, el informe mensual arroja un total de inversiones superior al importe de las reservas al 31 de diciembre anterior, la institución podrá obtener autorización de la Secretaría de Hacienda y Crédito Público para retirar el excedente de inversiones, siempre que la institución demuestre que las inversiones que quedan afectas a las reservas son suficientes para cubrir las reservas técnicas calculadas a la fecha del retiro de valores.
+Si por el contrario, el informe mensual arroja un total de inversiones superior al importe de las reservas técnicas calculadas y registradas conforme a lo dispuesto en el artículo 84, la institución podrá obtener autorización de la Comisión Nacional de Seguros para retirar el excedente de inversiones, siempre que la institución demuestre que las inversiones que quedan afectas a las reservas son suficientes para cubrir las reservas técnicas calculadas a la fecha del retiro de valores.
 
 ###### ARTICULO 96.
 
@@ -1353,9 +1469,9 @@ Para el ramo marítimo y de transportes, además:
 
 XIII.- Registro de pólizas abiertas;
 
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-Para el ramo de vida, además:
+Para las operaciones de vida, además:
 
 XIV.- Registro de asegurados para pólizas de grupo;
 
@@ -1369,7 +1485,9 @@ XVIII.- Registro de primas netas, cobradas, iniciales y de renovación.
 
 Cuando el copiador de pólizas y endosos se lleve en hoja sueltas, éstas deberán encuadernarse y empastarse en orden progresivo.
 
-Las instituciones que practiquen varios ramos de seguros en los términos del artículo 3°., deberán llevar los libros auxiliares que para los distintos ramos se indican en este artículo, para fines de manejo interior y de la inspección y para la graduación de acreedores, en su caso, anotando en ellos las operaciones que correspondan a cada ramo.
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 26 DE JUNIO DE 1957)
+
+Las instituciones que practiquen varias de las operaciones y ramos de seguros que se señalan en el artículo 11, deberán llevar los libros auxiliares que para las distintas operaciones y ramos se indican en este artículo, para fines de manejo interior y de la inspección y para la graduación de acreedores, en su caso, anotando en ellos lo que corresponda a cada operación o ramo.
 
 (REFORMADO, D.O.F. 16 DE ABRIL DE 1946) (F. DE E., D.O.F. 2 DE AGOSTO DE 1946)
 
@@ -2008,3 +2126,29 @@ D.O.F. 28 DE DICIEMBRE DE 1954.
 ###### ARTICULO UNICO.
 
 Las presentes reformas entrarán en vigor a partir del día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1956.
+
+###### ARTICULO PRIMERO.
+
+Estas reformas entrarán en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Las instituciones autorizadas con anterioridad a las presentes reformas, gozarán del plazo de un año para ajustar su capital pagado a las cifras mínimas señaladas en el artículo 20 reformado.
+
+La Secretaría de Hacienda y Crédito Público podrá prorrogar el plazo anterior por un año más cuando así lo amerite la situación financiera de la institución.
+
+###### ARTICULO TERCERO.
+
+Se deroga la fracción V del artículo 3o. de esta ley.
+
+###### ARTICULO CUARTO.
+
+Las instituciones de seguros ajustarán sus inversiones a lo que dispone el artículo 86 reformado en el plazo de un año, pero tanto la disminución de la inversión obligatoria de 30% a 25% a que se refiere el primer párrafo del precepto antes citado, como las inversiones mencionadas en el mismo artículo hasta llegar al 10% obligatorio, se hará en la proporción que corresponda, el día último de los meses de marzo, junio, septiembre y diciembre de 1957, pero sin que en ningún momento la inversión total en valores públicos sea inferior al 30%.
+
+###### ARTICULO QUINTO.
+
+Las instituciones de seguros que al entrar en vigor estas reformas tuvieren inversiones en exceso del límite del 30% establecido en la fracción I del artículo 87 reformado, podrán conservar los préstamos y valores a que esa fracción se refiere, hasta su amortización, pero no podrán renovar ni otorgar créditos hipotecarios ni adquirir nuevos valores de los antes mencionados mientras no se ajusten al nuevo límite.
+
+Las instituciones de seguros que al entrar en vigor estas reformas tuvieren inmuebles urbanos en exceso del 30% a que se refiere la fracción II del artículo 87 reformado, podrán conservar dichos inmuebles en los términos de las disposiciones legales vigentes en el momento de su adquisición, pero sólo podrán adquirir nuevos inmuebles hasta que tengan capacidad legal dentro del 30% mencionado.
