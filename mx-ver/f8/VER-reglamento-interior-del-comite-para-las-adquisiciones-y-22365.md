@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-comite-para-las-adquisiciones-y-22365"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-25"
-last_updated: "2001-09-25"
+last_updated: "2003-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DEL COMITE PARA LAS ADQUISICIONES Y OBRAS PUBLICAS DEL GOBIERNO DEL ESTADO DE VERACRUZ IGNACIO DE LA LLAVE -ANTES VERACRUZ-LLAVE-
 
-REGLAMENTO INTERIOR DEL COMITE PARA LAS ADQUISICIONES Y OBRAS PUBLICAS DEL GOBIERNO DEL ESTADO DE VERACRUZ-LLAVE
+REGLAMENTO INTERIOR DEL COMITE PARA LAS ADQUISICIONES Y OBRAS PUBLICAS DEL GOBIERNO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el martes 25 de septiembre de 2001.
 
@@ -31,17 +31,25 @@ Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de
 
 MIGUEL ALEMÁN VELAZCO, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE, EN EJERCICIO DE LAS ATRIBUCIONES QUE ME CONFIERE EL ARTÍCULO 49 FRACCIÓN III DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO; Y CON FUNDAMENTO EN LOS ARTÍCULOS 8 FRACCIÓN II DE LA LEY ORGÁNICA DEL PODER EJECUTIVO ESTATAL; Y 11 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y ADMINISTRACIÓN DE LOS BIENES MUEBLES DEL PODER EJECUTIVO DEL ESTADO, HE TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
-REGLAMENTO INTERIOR DEL COMITÉ PARA LAS ADQUISICIONES Y OBRAS PÚBLICAS DEL GOBIERNO DEL ESTADO DE VERACRUZ-LLAVE.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO, TERCERO Y CUARTO DEL DECRETO NO. 547 PUBLICADO EN LA G.O. DE 18 DE MARZO DE 2003, TODAS LAS LEYES, DECRETOS, O CODIGOS U ORDENAMIENTOS ESTATALES DE OBSERVANCIA GENERAL, VIGENTES QUE EN SU DENOMINACION CONTENGAN LA EXPRESION "ESTADO DE VERACRUZ-LLAVE", SE ENTENDERAN REFERIDAS AL" ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".</small>
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 18 DE MARZO DE 2003)</small>
+
+REGLAMENTO INTERIOR DEL COMITÉ PARA LAS ADQUISICIONES Y OBRAS PÚBLICAS DEL GOBIERNO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
+
 ###### Artículo 1.
 
-El Comité para las Adquisiciones y Obras Públicas del Gobierno del Estado de Veracruz-Llave es un órgano colegiado de carácter técnico, de coordinación y asesoría, cuyo propósito fundamental es promover que las actividades y operaciones que realicen las dependencias y entidades del Gobierno del Estado en materia de adquisiciones y obras públicas, se realicen en condiciones de legalidad, transparencia, imparcialidad y eficiencia, de manera que prevalezca el interés del Estado en términos de economía, calidad y oportunidad.
+El Comité para las Adquisiciones y Obras Públicas del Gobierno del Estado de Veracruz de Ignacio de la Llave es un órgano colegiado de carácter técnico, de coordinación y asesoría, cuyo propósito fundamental es promover que las actividades y operaciones que realicen las dependencias y entidades del Gobierno del Estado en materia de adquisiciones y obras públicas, se realicen en condiciones de legalidad, transparencia, imparcialidad y eficiencia, de manera que prevalezca el interés del Estado en términos de economía, calidad y oportunidad.
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
 
 ###### Artículo 2.
 
-Para fines de este Reglamento se entenderá por Ley de Adquisiciones: la Ley de Adquisiciones, Arrendamientos y Administración de los Bienes Muebles del Poder Ejecutivo del Estado; por Ley de Obras Públicas: la Ley de Obras Públicas para el Estado; por Secretaría: la Secretaría de Finanzas y Planeación; por Contraloría: la Contraloría General del Estado; por Comité: el Comité para las Adquisiciones y Obras Públicas del Gobierno del Estado de Veracruz; por Subcomités: los Subcomités de Adquisiciones y Obras Públicas de las dependencias y entidades; por dependencias: las que señala el artículo 9 de la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz-Llave y sus órganos desconcentrados; por entidades: los organismos descentralizados, las empresas de participación estatal y los fideicomisos donde el Gobierno del Estado sea fideicomitente; y por sector privado: las Cámaras, Asociaciones, Uniones, Agrupaciones, sean profesionales, de la industria, comercio, construcción y prestadores de servicios.
+Para fines de este Reglamento se entenderá por Ley de Adquisiciones: la Ley de Adquisiciones, Arrendamientos y Administración de los Bienes Muebles del Poder Ejecutivo del Estado; por Ley de Obras Públicas: la Ley de Obras Públicas para el Estado; por Secretaría: la Secretaría de Finanzas y Planeación; por Contraloría: la Contraloría General del Estado; por Comité: el Comité para las Adquisiciones y Obras Públicas del Gobierno del Estado de Veracruz; por Subcomités: los Subcomités de Adquisiciones y Obras Públicas de las dependencias y entidades; por dependencias: las que señala el artículo 9 de la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave y sus órganos desconcentrados; por entidades: los organismos descentralizados, las empresas de participación estatal y los fideicomisos donde el Gobierno del Estado sea fideicomitente; y por sector privado: las Cámaras, Asociaciones, Uniones, Agrupaciones, sean profesionales, de la industria, comercio, construcción y prestadores de servicios.
 
 ### Capítulo II. De la Integración del Comité
 
@@ -346,3 +354,23 @@ Artículo Cuarto. Después de la expedición de los manuales a que se refiere el
 Dado en la residencia del Poder Ejecutivo del Estado, en la ciudad de Xalapa- Enríquez, Veracruz, a los veinticuatro días del mes de septiembre de dos mil uno.
 
 Licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 Y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "... Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión" ... Estado de Veracruz - Llave", se entenderán referidas al "... Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos. los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda" ... del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leves relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial. Órgano del Gobierno del Estado.
