@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1977-07-23"
+last_updated: "1978-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE JULIO DE 1977.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MARZO DE 1978.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -321,17 +321,37 @@ El ejercicio del Poder Legislativo del Estado se deposita en una Asamblea que se
 
 #### SECCIÓN PRIMERA. DE LA LEGISLATURA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1974)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO 1978)</small>
 
 ###### Art. 37.
 
-El ejercicio del Poder Legislativo del Estado se deposita en una Asamblea que se denominará Legislatura del Estado, y que será integrada por Diputados electos directa y popularmente.
+El ejercicio del Poder Legislativo, se deposita en una Asamblea que se denominará Legislatura del Estado, integrada por Diputados electos en su totalidad por Sufragio Popular directo. Por cada Diputado Propietario se eligirá un Suplente.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1972)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
 
 ###### Art. 38.
 
-Se elegirán un diputado propietario y un suplente para cada doscientos cincuenta mil habitantes o más, no pudiendo el Congreso del Estado, en ningún caso quedar integrado por menos de trece diputados.
+La Legislatura del Estado se compondrá con 28 Diputados electos en Distritos Electorales, según el principio de votación mayoritaria relativa y hasta con 9 Diputados de Representación Proporcional.
+
+La elección se efectuará conforme a lo que disponga la Ley Reglamentaria y además a las siguientes reglas:
+
+I. La base para realizar la demarcación territorial de los 28 Distritos Electorales, será la resultante de dividir la población total del Estado, conforme al último censo general de población, entre el número de los Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y socio-económico.
+
+II. La asignación de Diputaciones de Representación Proporcional, se sujetará a las Bases siguientes:
+
+a).- Se constituirán hasta 3 circunscripciones en el Estado integradas cada una, por los Distritos Electorales que, en términos de la Ley Reglamentaria se determinen.
+
+Para tener derecho a Diputaciones de Representación Proporcional, el Partido Político de que se trate, deberá participar con candidatos en por lo menos la tercera parte de los Distritos Electorales que integren cada una de las circunscripciones.
+
+b).- El partido que no haya obtenido 3 o más constancias de mayoría, tendrá derecho a que le sean acreditados de entre sus candidatos registrados, Diputados de Representación Proporcional, siempre que alcance por lo menos el 1.5% del total de la votación emitida en el Estado, una vez deducida la que haya obtenido en favor de sus candidatos en los Distritos en que haya alcanzado mayoría.
+
+III. Al Partido que satisfaga los requisitos anteriores, se le asignará un Diputado de Representación Proporcional, que será el que haya alcanzado el mayor porcentaje de votación minoritaria.
+
+Las siguientes asignaciones se harán a los candidatos de los Partidos que hayan alcanzado, en los Distritos respectivos, los porcentajes más elevados de votación minoritaria en cada una de las circunscripciones mencionadas en el inciso a) de la fracción anterior, siempre que sigan manteniendo el porcentaje mínimo estatal requerido, una vez deducidas las votaciones, de las Diputaciones de Representación Proporcional, ya asignadas.
+
+En ningún caso, podrán asignarse a un mismo Partido más de 3 Diputaciones de Representación Proporcional.
+
+Dos Diputados de mayoría y los de minoría tendrán la misma categoría e iguales derechos y obligaciones.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 1972)</small>
 
@@ -405,6 +425,10 @@ Ningún ciudadano podrá excusarse de desempeñar el cargo de Diputado, si no es
 
 Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo y jamás podrán ser reconvenidos por ellas.
 
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 1978)</small>
+
+La Legislatura velará por el respeto al fuero Constitucional de sus miembros y por la inviolabilidad del Recinto donde se reúnan a sesionar.
+
 ###### Art. 43.
 
 El ejercicio del cargo de Diputado es incompatible con cualquiera comisión o empleo del Gobierno Federal o del Estado, por el que se disfrute sueldo; por la Legislatura podrá conceder licencia a sus miembros, según los casos, para poder desempeñar las funciones que les hayan sido encomendadas.
@@ -415,7 +439,7 @@ Los diputados electos presentarán sus credenciales a la Secretaría de la Legis
 
 ###### Art. 46.
 
-Durante los ocho días a que se refiere el artículo anterior, se tendrán las juntas necesarias para la calificación de credenciales y su aprobación y se elegirán Presidente, Vicepresidente y Secretarios de la Legislatura en los términos que dispongan el mismo Reglamento interior.
+Durante los quince días a que se refiere el Artículo anterior, se tendrán las juntas necesarias para la calificación de las constancias y su aprobación y se elegirán Presidente, Vicepresidente y Secretarios de la Legislatura, en los términos que disponga la misma Ley Orgánica.
 
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 1977)</small>
 
@@ -433,13 +457,13 @@ El Período anual de sesiones ordinarias dará principio el 5 de septiembre y co
 
 Se reunirá además, en sesiones extraordinarias siempre que fuere convocada al efecto por la Diputación Permanente o por el Ejecutivo, por conducto de ésta.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
+
 ###### Art. 50.
 
-Las sesiones ordinarias y extraordinarias de la Legislatura se abrirán con asistencia del Gobernador y con las formalidades que prescriba el Reglamento interior.
+Las Sesiones Ordinarias y Extraordinarias de la Legislatura se abrirán con la asistencia del Gobernador y con las formalidades que prescriba la Ley Orgánica.
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1971)</small>
-
-En la apertura de las sesiones extraordinarias el Presidente de la Diputación Permanente informará de las razones que originaron la convocatoria.
+En la apertura de las Sesiones extraordinarias, el Presidente de la Diputación Permanente informará de las razones que originaron la Convocatoria.
 
 ###### Art. 51.
 
@@ -487,11 +511,15 @@ El primer Período anual de sesiones ordinarias, dará principio el día 5 de se
 
 La Legislatura se renovará en su totalidad cada tres años, sin que por ningún motivo el mandato por virtud del cual funcionen sus miembros pueda prorrogarse más allá de este período de tiempo.
 
-(REFORMADO, P.O. 23 DE JULIO DE 1977) (F. DE E., P.O. 28 DE JULIO DE 1977)
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
 
 ###### Art. 45.
 
-Los Diputados electos presentarán sus credenciales a la Secretaría de la Legislatura, a fin de darse cuenta con ellos en la primera junta preparatoria, que deberá tener verificativo ocho días antes de la apertura de las sesiones, eligiéndose en la propia junta, la Mesa Directiva conforme al Reglamento Interior.
+La Legislatura calificará la elección de sus miembros a través de un Colegio Electoral que se integrará por ocho presuntos Diputados, que de acuerdo con las constancias de mayoría que registre la Comisión Estatal Electoral, hayan obtenido mayor número de votos y por tres presuntos Diputados de Representación Proporcional, uno de cada Partido, con el porcentaje más alto de votación.
+
+Los Diputados electos, presentarán sus constancias registradas a la Secretaría de la Legislatura, a fin de que se dé cuenta con ellas en la primera junta preparatoria, que deberá tener verificativo quince días antes de la apertura de las Sesiones, eligiéndose en la propia junta, la Mesa Directiva conforme a la Ley Orgánica.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
 
 #### SECCION TERCERA. DE LA INICIATIVA Y FORMACION DE LAS LEYES
 
@@ -677,7 +705,9 @@ XXV.- Dar bases generales conforme a las cuales el Ejecutivo pueda concertar emp
 
 XXVI. Llamar a los Diputados suplentes respectivos, en caso de muerte, exoneración o inhabilidad previamente calificada de los Diputados propietarios;
 
-XXVII. Formar su Reglamento interior;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1978)</small>
+
+XXVII.- Expedir su Ley Orgánica.
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -1355,11 +1385,25 @@ El Tribunal Superior de Justicia nombrará a los Jueces de Primera Instancia, lo
 
 Los Ayuntamientos serán Asamblea deliberante, y como Cuerpos Colegiados, tendrán autoridad y competencias propias en los asuntos que se sometan a su decisión, pero la ejecución de ésta corresponderá exclusivamente a los Presidentes Municipales; serán integrados por elección popular directa, debiendo durar en funciones tres años y no pudiendo ser electos para el período inmediato siguiente, ninguno de sus miembros propietarios o suplentes que hayan funcionado.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
 
 ###### Art. 136.
 
-Los Ayuntamientos se compondrán de: Un Jefe de la Asamblea, que se denominará Presidente Municipal y de varios miembros llamados Síndicos y Regidores, cuyo número total será siempre impar y se determinará en razón directa de la importancia del Municipio que representen en la forma que lo disponga la Ley Orgánica respectiva.
+Los Ayuntamientos se integrarán con un Jefe de Asamblea que se denominará Presidente Municipal y con varios miembros más, llamados Síndicos y Regidores, cuyo número total se determinará en razón directa de la población del Municipio que representen, en la forma en que lo disponga la Ley Orgánica respectiva.
+
+En los Municipios cuya población sea de 300 mil o más habitantes, los Ayuntamientos tendrán adicionalmente hasta 2 Regidores electos, según el principio de representación proporcional.
+
+De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuido un Regidor, al Partido Político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los siguientes requisitos:
+
+a).- Que hubieren registrado fórmula de candidato en las elecciones municipales respectivas.
+
+b).- No haya alcanzado el triunfo por mayoría relativa en la misma elección.
+
+c).- Alcance por lo menos el 1.5% del total de la votación emitida en el Municipio correspondiente.
+
+Un Segundo Regidor, podrá ser atribuido, al Partido que habiendo obtenido el segundo porcentaje en la votación minoritaria, tenga por lo menos más de la mitad de los sufragios que el Partido triunfador minoritario haya alcanzado, de no darse éste mínimo de proporción se le atribuirá éste segundo Regidor al Partido triunfador minoritario.
+
+La Ley Reglamentaria determinará los procedimientos que se observarán en dicha asignación.
 
 > <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1927)</small>
 
@@ -2386,3 +2430,9 @@ G.G. 23 DE JULIO DE 1977.
 ###### ARTICULO UNICO.
 
 El presente Decreto, entrará en vigor a los 5 días después de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+G.G. 11 DE MARZO DE 1978.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno del Estado".
