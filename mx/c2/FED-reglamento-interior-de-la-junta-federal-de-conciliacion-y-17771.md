@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-junta-federal-de-conciliacion-y-17771
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-17"
-last_updated: "2000-11-17"
+last_updated: "2002-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-10-26"
 
 REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACION Y ARBITRAJE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE FEBRERO DE 2002.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el viernes 17 de noviembre de 2000.
 
@@ -57,9 +57,11 @@ VI. Presidentes de Juntas Especiales: Los Presidentes de las Juntas Especiales d
 
 VII. Secretaría: La Secretaría del Trabajo y Previsión Social.
 
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 4.
 
-Para el despacho de los asuntos de su competencia, la Junta Federal de Conciliación y Arbitraje se integrará con un representante del Gobierno y con los representantes de los trabajadores y de los patrones electos legalmente y contará con los siguientes órganos jurídicos y administrativos, y servidores públicos:
+Para el despacho de los asuntos de su competencia, la Junta Federal de Conciliación y Arbitraje se integrará con un representante del Gobierno y con los representantes de los trabajadores y de los patrones electos legalmente y contará con los siguientes órganos jurídicos y administrativos y servidores públicos:
 
 Pleno de la Junta
 
@@ -75,7 +77,7 @@ Coordinación General de Administración
 
 Presidentes de Juntas Especiales
 
-De las Coordinaciones de Conciliadores, y de Asesores de la Presidencia
+Coordinaciones de Conciliadores, y de Asesores de la Presidencia
 
 Secretaría Auxiliar de Emplazamientos a Huelga
 
@@ -87,7 +89,7 @@ Secretaría Auxiliar de Peritajes y Diligencias
 
 Secretaría Auxiliar de Apoyo y Control Procesal a Juntas Especiales
 
-Secretaría Auxiliar de Información Técnica y Documentación
+Secretaría Auxiliar de Información Técnica y Documental
 
 Secretaría Auxiliar de Amparos
 
@@ -95,7 +97,7 @@ Subcoordinación de Programación, Organización y Presupuesto
 
 Subcoordinación de Administración de Personal
 
-Subcoordinación de Recursos Materiales y Servicios Generales
+Dirección de Recursos Materiales y Servicios Generales
 
 Unidad de Registro de Contratos Colectivos y Reglamentos Interiores de Trabajo
 
@@ -113,7 +115,7 @@ Secretarios de Acuerdos
 
 Actuarios
 
-Los servidores públicos que integran el personal jurídico de la Junta, contarán con las facultades de decisión o dirección inherente a su cargo, como lo establece la Ley Federal del Trabajo, y la Ley Federal de los Trabajadores al Servicio del Estado.
+Los servidores públicos que integran el personal jurídico de la Junta contarán con las facultades de decisión o dirección inherentes a su cargo, como lo establece la Ley Federal del Trabajo, y la Ley Federal de los Trabajadores al Servicio del Estado.
 
 Asimismo, la Junta contará con las Unidades Técnicas y Jefaturas de Departamento que sean necesarias para el adecuado cumplimiento de sus funciones, así como el personal técnico, jurídico y administrativo que se adscriban a dichas unidades, de conformidad con el presupuesto asignado.
 
@@ -1036,3 +1038,9 @@ QUINTO.- Cuando la competencia de algunas de las áreas o unidades administrativ
 El presente Reglamento fue aprobado en lo general en la sesión celebrada el día 28 de septiembre del año 2000, por el Pleno de la Junta Federal de Conciliación y Arbitraje, y en lo particular en la sesión celebrada en Pleno extraordinario el día 26 de octubre del año en curso, en la Ciudad de México, D.F., a 26 de octubre de 2000.
 
 EL C. SECRETARIO GENERAL DE ACUERDOS Y CONFLICTOS COLECTIVOS Y SECRETARIO DEL PLENO DE LA JUNTA FEDERAL DE CONCILIACION Y ARBITRAJE: CERTIFICA: QUE LA PRESENTE COPIA FOTOSTATICA EN TREINTA Y DOS FOJAS ESCRITAS POR UN SOLO LADO, CONCUERDAN FIELMENTE CON EL ORIGINAL DEL REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACION Y ARBITRAJE QUE FUE APROBADO EN LO GENERAL POR EL PLENO LLEVADO A CABO EL DIA 28 DE SEPTIEMBRE DEL AÑO 2000, Y EN LO PARTICULAR EN LA SESION CELEBRADA EN PLENO EXTRAORDINARIO EL DIA 26 DE OCTUBRE DEL AÑO EN CURSO, Y QUE FUERON PRESIDIDOS POR EL LIC. ANTONIO MONTES PEÑA, PRESIDENTE DE LA JUNTA FEDERAL DE CONCILIACION Y ARBITRAJE.- A LOS 26 DIAS DEL MES DE OCTUBRE DEL AÑO 2000. CONSTE.- EL C. SECRETARIO LIC. DOMINGO GARCIA MANRIQUE.- RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 20 DE FEBRERO DE 2002.
+
+Unico.- El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
