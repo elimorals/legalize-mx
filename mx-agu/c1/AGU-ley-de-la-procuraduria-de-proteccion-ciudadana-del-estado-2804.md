@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-procuraduria-de-proteccion-ciudadana-del-estado-2804"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-01"
-last_updated: "1994-05-01"
+last_updated: "1995-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 LEY DE LA PROCURADURIA DE PROTECCION CIUDADANA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1995.
 
-Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 1 de mayo de 1994.
+Ley publicada en la Sección Primera del Periódico Oficial del Gobierno Constitucional del Estado de Aguascalientes, el 1 de mayo de 1994.
 
 OTTO GRANADOS ROLDAN, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 
@@ -443,9 +443,13 @@ La recomendación será pública y autónoma, no tendrá carácter imperativo pa
 
 En todo caso, una vez recibida por la autoridad o servicio público de que se trate, informará dentro de los cinco días hábiles siguientes a su notificación, si acepta dicha recomendación. Entregará en su caso, en otros cinco días adicionales, las pruebas correspondientes de que ha cumplido con la recomendación. Dicho plazo podrá ser ampliado cuando la naturaleza de la recomendación así lo amerite.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 50.
 
-Las recomendaciones y los acuerdos de no responsabilidad se referirán a casos concretos, las autoridades no podrán aplicarlos a otros casos por analogía o mayoría de razón.
+Las recomendaciones y los acuerdos de no responsabilidad se referirán a casos concretos, las autoridades no podrán aplicarlos a otros casos por analogía o por mayoría de razón.
+
+En contra de recomendaciones, acuerdos o resoluciones definitivas de la Procuraduría de Protección Ciudadana, procederá el recurso de reconsideración, mismo que se interpondrá por el afectado ante el Consejo Consultivo de la Procuraduría de Protección Ciudadana, mismo organismo que lo substanciará y dictará la resolución correspondiente.
 
 ### CAPITULO IV. De las Notificaciones y los Informes
 
@@ -577,6 +581,10 @@ III.- Ser Licenciado en Derecho, con título legalmente expedido y registrado en
 
 IV.- Acreditar no haber sido condenado por delito intencional sancionado con pena corporal.
 
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 1995)</small>
+
+V.- Aprobar el examen de oposición que aplique el Instituto de Capacitación Judicial del Estado.
+
 ###### ARTICULO 71.
 
 Los Defensores de Oficio tendrán las siguientes obligaciones:
@@ -682,3 +690,17 @@ Otto Granados Roldán.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Efrén González Cuéllar.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE ABRIL DE 1995.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, misma que deberá ser posterior a la publicación del Decreto de reformas a la Constitución Política Local, en Materia Judicial, expedido el 8 de marzo de 1995, por el H. Congreso del Estado.
+
+###### ARTICULO DECIMO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
