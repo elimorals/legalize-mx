@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1956-06-10"
+last_updated: "1966-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 1956.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 1966.
 
-Constitución publicada en el Periódico Oficial del Estado de Baja California, el 16 de agosto de 1953.
+Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
 Alfonso García González,
 
@@ -175,15 +175,11 @@ El Congreso calificará las elecciones de sus miembros, resolviendo sobre la leg
 
 Las sesiones del Colegio Electoral se iniciarán diez días antes de la Instalación del Congreso. Las credenciales que no fueren calificadas en este período, lo serán con posterioridad.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1966)</small>
+
 ###### ARTICULO 22.
 
-El Congreso del Estado tendrá, cada año, dos períodos ordinarios de sesiones: uno, del 1ro. de octubre al 31 de diciembre, y el otro, del 1ro. de marzo al 31 de mayo.
-
-En el primer período se ocupará, preferentemente, del examen, discusión y aprobación de los presupuestos de egresos del Estado y de los Municipios, correspondientes al siguiente ejercicio fiscal, así como de decretar los impuestos y percepciones necesarios para cubrirlos.
-
-En el segundo período se ocupará, preferentemente, del examen, discusión y aprobación de las cuentas públicas del año anterior, tanto del Estado como de los Municipios. En esta función no se limitará a investigar si las cantidades gastadas están o nó de acuerdo con las partidas respectivas del presupuesto, sino también a comprobar la exactitud y justificación de los gastos hechos y a determinar las responsabilidades que resultaren.
-
-En ambos períodos ordinarios, la Legislatura del Estado estudiará y votará las iniciativas de leyes o decretos que se presenten, y resolverá los demás asuntos que le corresponden, conforme a esta Constitución.
+El Congreso del Estado tendrá cada año dos períodos ordinarios de sesiones: uno del primero de Octubre al treinta y uno de Enero y el otro del primero de Abril al treinta de Junio.
 
 ###### ARTICULO 23.
 
@@ -795,7 +791,7 @@ En el Estado será protegida la propiedad literaria y artística. La Ley fijará
 
 ###### ARTICULO 102.
 
-El destino de las donaciones intervivos o testamentarias hechas conforme a las leyes para fines de interés social, no podrá ser variado ni modificado por ninguna ley, El Ejecutivo velará porque tales donaciones sean aplicadas a su objeto.
+El destino de las donaciones intervivos o testamentarias hechas conforme a las leyes para fines de interés social, no podrá ser variado ni modificado por ninguna ley. El Ejecutivo velará porque tales donaciones sean aplicadas a su objeto.
 
 ###### ARTICULO 103.
 
@@ -1011,10 +1007,14 @@ El Secretario General de Gobierno
 
 LIC. JOSE ELIAS CASTRO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
 
 P.O. 10 DE JUNIO DE 1956.
 
 PRIMERO.- El presente Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Por esta única vez los nombramientos de los Magistrados y Jueces actualmente en funciones, cesarán en sus efectos legales a partir del día en que este Decreto entre en vigor y las nuevas designaciones al tiempo señalado por los artículos 59 y 64 Reformados por este Decreto, ésto es, hasta el treinta y uno de octubre de mil novecientos cincuenta y seis.
+
+P.O. 10 DE JUNIO DE 1966.
+
+UNICO.- La presente reforma comenzará a regir el día 1o. de Octubre de 1966.
