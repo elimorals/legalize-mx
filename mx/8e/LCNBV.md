@@ -4,7 +4,7 @@ identifier: "LCNBV"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-28"
-last_updated: "1999-01-18"
+last_updated: "2001-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2560&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCNBV"
 
 LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2001.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el viernes 28 de abril de 1995.
 
@@ -62,7 +62,13 @@ II.- Junta de Gobierno o Junta, a la Junta de Gobierno de la Comisión;
 
 III.- Presidente, al Presidente de la Comisión, y
 
-IV.- Entidades del sector financiero o entidades, a las sociedades controladoras de grupos financieros, instituciones de crédito, casas de bolsa, especialistas bursátiles, bolsas de valores, sociedades operadoras de sociedades de inversión, sociedades de inversión, almacenes generales de depósito, uniones de crédito, arrendadoras financieras, empresas de factoraje financiero, sociedades de ahorro y préstamo, casas de cambio, sociedades financieras de objeto limitado, instituciones para el depósito de valores, instituciones calificadoras de valores, sociedades de información crediticia, así como otras instituciones y fideicomisos públicos que realicen actividades financieras y respecto de los cuales la Comisión ejerza facultades de supervisión.
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+
+IV.- Entidades del sector financiero o entidades financieras, a las sociedades controladoras de grupos financieros, instituciones de crédito, casas de bolsa, especialistas bursátiles, bolsas de valores, sociedades de inversión, sociedades operadoras de sociedades de inversión, sociedades distribuidoras de acciones de sociedades de inversión, almacenes generales de depósito, uniones de crédito, arrendadoras financieras, empresas de factoraje financiero, sociedades de ahorro y préstamo, casas de cambio, sociedades financieras de objeto limitado, instituciones para el depósito de valores, contrapartes centrales, instituciones calificadoras de valores, sociedades de información crediticia, personas que operen con el carácter de entidad de ahorro y crédito popular, así como otras instituciones y fideicomisos públicos que realicen actividades financieras y respecto de los cuales la Comisión ejerza facultades de supervisión;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+
+V.- Organismos de integración: A las Federaciones y Confederaciones a que se refiere la Ley de Ahorro y Crédito Popular.
 
 ### CAPITULO II. DE LAS FACULTADES
 
@@ -70,7 +76,9 @@ IV.- Entidades del sector financiero o entidades, a las sociedades controladoras
 
 Corresponde a la Comisión:
 
-I.- Realizar la supervisión de las entidades, así como de las personas físicas y demás personas morales cuando realicen actividades previstas en las leyes relativas al sistema financiero;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+
+I.- Realizar la supervisión de las entidades financieras, los organismos de integración, así como de las personas físicas y demás personas morales cuando realicen actividades previstas en las leyes relativas al sistema financiero;
 
 II.- Emitir en el ámbito de su competencia la regulación prudencial a que se sujetarán las entidades;
 
@@ -92,9 +100,13 @@ X.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION Y DEFENSA
 
 XI.- Autorizar la constitución y operación, así como determinar el capital mínimo, de aquellas entidades que señalan las leyes;
 
-XII.- Autorizar o aprobar los nombramientos de consejeros, directivos, comisarios y apoderados de las entidades, en los términos de las leyes respectivas;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-XIII.- Determinar o recomendar que se proceda a la amonestación, suspensión, veto o remoción y, en su caso, inhabilitación de los consejeros, directivos, comisarios, delegados fiduciarios, apoderados, funcionarios y demás personas que puedan obligar a las entidades, de conformidad con lo establecido en las leyes que las rigen;
+XII.- Autorizar a las personas físicas que celebren operaciones con el público, de asesoría, promoción, compra y venta de valores, como apoderados de los intermediarios del mercado de valores, en los términos que señalen las leyes aplicables a estos últimos;
+
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+
+XIII.- Determinar o recomendar que se proceda a la amonestación, suspensión o remoción y, en su caso, inhabilitación de los consejeros, directivos, comisarios, delegados fiduciarios, apoderados, funcionarios, auditores externos independientes y demás personas que puedan obligar a las entidades, de conformidad con lo establecido en las leyes que las rigen;
 
 XIV.- Ordenar la suspensión de operaciones de las entidades de acuerdo a lo dispuesto en esta Ley;
 
@@ -104,9 +116,13 @@ XVI.- Investigar aquellos actos de personas físicas, así como de personas mora
 
 XVII.- Ordenar la suspensión de operaciones, así como intervenir administrativa o gerencialmente, según se prevea en las leyes, la negociación, empresa o establecimientos de personas físicas o a las personas morales que, sin la autorización correspondiente, realicen actividades que la requieran en términos de las disposiciones que regulan a las entidades del sector financiero, o bien proceder a la clausura de sus oficinas;
 
-XVIII.- Investigar presuntas infracciones en materia de uso indebido de información privilegiada, de conformidad con las leyes que rigen a las entidades;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-XIX.- Imponer sanciones administrativas por infracciones a las leyes que regulan las actividades, entidades y personas sujetas a su supervisión, así como a las disposiciones que emanen de ellas;
+XVIII. Investigar actos o hechos que contravengan lo previsto en la Ley del Mercado de Valores, para lo cual podrá practicar visitas que versen sobre tales actos o hechos, así como emplazar, requerir información o solicitar la comparecencia de presuntos infractores y demás personas que puedan contribuir al adecuado desarrollo de la investigación;
+
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+
+XIX. Imponer sanciones administrativas por infracciones a las leyes que regulan las actividades, entidades y personas sujetas a su supervisión, así como a las disposiciones que emanen de ellas y, en su caso, coadyuvar con el ministerio público respecto de los delitos previstos en las leyes relativas al sistema financiero;
 
 XX.- Conocer y resolver sobre el recurso de revocación que se interponga en contra de las sanciones aplicadas, así como condonar total o parcialmente las multas impuestas;
 
@@ -208,9 +224,11 @@ Por cada vocal propietario se nombrará un suplente. Los vocales deberán ocupar
 
 Corresponde a la Junta de Gobierno:
 
-I.- Autorizar o aprobar los nombramientos de consejeros, directivos, comisarios y apoderados de las sociedades controladoras de grupos financieros, instituciones de banca múltiple y casas de bolsa, en los términos de las leyes respectivas;
+I.- (DEROGADA, D.O.F. 1 DE JUNIO DE 2001)
 
-II.- Determinar o recomendar que se proceda a la amonestación, suspensión, veto o remoción y, en su caso, inhabilitación de los consejeros, directivos, comisarios, delegados fiduciarios, apoderados, funcionarios y demás personas que puedan obligar a las entidades, de conformidad con lo establecido en las leyes que las rigen;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+
+II.- Determinar o recomendar que se proceda a la amonestación, suspensión o remoción y, en su caso, inhabilitación de los consejeros, directivos, comisarios, delegados fiduciarios, apoderados, funcionarios, auditores externos independientes y demás personas que puedan obligar a las entidades, de conformidad con lo establecido en las leyes que las rigen;
 
 III.- Acordar la intervención administrativa o gerencial de las entidades con objeto de suspender, normalizar o resolver las operaciones que pongan en peligro su solvencia, estabilidad o liquidez, o aquéllas violatorias de las leyes que las rigen o de las disposiciones de carácter general que de ellas deriven, en los términos que establecen las propias leyes;
 
@@ -397,3 +415,9 @@ SEGUNDO.- Se derogan los artículos 119 y 120 de la Ley de Instituciones de Cré
 TERCERO.- Para los efectos de los artículos 72 y 83 de esta Ley, las menciones a la Comisión Nacional de Seguros y Fianzas en los artículos 135 y 136 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, y 93 y 94 de la Ley Federal de Instituciones de Fianzas, se deberán entender referidas a la Comisión Nacional para la Defensa de los Usuarios de Servicios Financieros.
 
 DECIMO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+D.O.F. 1 DE JUNIO DE 2001.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
