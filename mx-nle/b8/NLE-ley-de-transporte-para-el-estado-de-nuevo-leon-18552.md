@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transporte-para-el-estado-de-nuevo-leon-18552"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-25"
-last_updated: "2000-10-25"
+last_updated: "2002-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de octubre de 2000.
 
@@ -431,9 +431,13 @@ Estos plazos podrán variar en función de que los vehículos tengan longitud ma
 
 Los prestadores del servicio público de transporte de pasajeros, están obligados a colocar en las unidades que prestan dichos servicios, en un lugar visible al usuario, la información relativa al servicio que se establezca en el Reglamento.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
+
 ###### Artículo 26.
 
-La Secretaría, en coordinación con los prestadores del servicio público de transporte de pasajeros, establecerá en beneficio del usuario la utilización de tecnologías de vanguardia, para la implantación de nuevos métodos de manejos operacionales y financieros, incluyendo sistemas de peaje en las distintas modalidades del transporte, con el fin de mejorar la seguridad, la eficiencia de servicio y la comodidad del usuario.
+La Secretaría, en coordinación con los prestadores del servicio público de transporte de pasajeros, establecerá en beneficio del usuario la utilización de tecnologías de vanguardia, para la implantación de nuevos métodos de manejos operacionales y financieros, incluyendo sistemas de peaje en las distintas modalidades del transporte que propicien que los operadores desempeñen con mayor eficacia la conducción de las unidades, con el fin de mejorar la seguridad, la eficiencia del servicio y la comodidad del usuario.
+
+En ningún caso estará permitida la instalación de controles físicos en el interior de las unidades de transporte público que obstaculicen el libre desplazamiento de los usuarios.
 
 ### CAPITULO IV. DEL SERVICIO PUBLICO DE TRANSPORTE DE CARGA
 
@@ -996,3 +1000,9 @@ LIC. FERNANDO ELIZONDO BARRAGÁN
 EL C. SECRETARIO DE DESARROLLO URBANO Y OBRAS PUBLICAS
 
 ARQ. OSCAR BULNES VALERO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE JULIO DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor noventa días posteriores a su publicación en el Periódico Oficial del Estado.
