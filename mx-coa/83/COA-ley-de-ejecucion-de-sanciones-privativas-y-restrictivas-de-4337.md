@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ejecucion-de-sanciones-privativas-y-restrictivas-de-4337
 country: "mx"
 rank: "ley"
 publication_date: "1977-03-25"
-last_updated: "1977-03-25"
+last_updated: "1999-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD PARA EL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 25 de marzo de 1977.
 
@@ -525,61 +525,31 @@ DEL TRATAMIENTO SEMI-INSTITUCIONAL.
 
 ###### ARTICULO 72.
 
-El tratamiento semi-institucional de reclusión intermitente se aplicará a los condenados por sentencia ejecutoria a cinco años de prisión o menos, cuando la opinión de los integrantes del Consejo Técnico de la Institución sea unánime sobre el alto grado de readaptabilidad social del interno, y siempre que concurran los requisitos siguientes:
-
-I.- Que no haya sido sentenciado condenatoriamente con anterioridad por delito alguno, y no se le haya aplicado medidas tutelares de internamiento en un Centro de Orientación para Menores por haber observado conductas previstas en una o varias Normas Penales; y
-
-II.- Que tenga u obtenga una forma honesta de vivir, principalmente derivada del trabajo o de la educación.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIOS DEL CODIGO PENAL DE COAHUILA, P.O. 28 DE MAYO DE 1999)
 
 ###### ARTICULO 73.
 
-El tratamiento semi-institucional de reclusión intermitente podrá comprender cualquiera de las medidas siguientes:
-
-I.- Salida diaria con reclusión nocturna y reclusión durante todo el fin de semana;
-
-II.- Salida diaria, incluyendo los días de fin de semana, con reclusión nocturna durante todos los días de la semana;
-
-III.- Salida diaria con reclusión nocturna de lunes a viernes y permisos de salida los fines de semana, con regreso el domingo o el lunes siguiente; y
-
-IV.- Permiso de salida semanal, con reclusión los días de fin de semana, en los cuales la reclusión podrá ser únicamente nocturna o durante todo el fin de semana.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIOS DEL CODIGO PENAL DE COAHUILA, P.O. 28 DE MAYO DE 1999)
 
 ###### ARTICULO 74.
 
-El tratamiento semi-institucional de reclusión intermitente se sujetará a las condiciones siguientes:
-
-I.- Que otorgue fianza en el término y a satisfacción de la Dirección de Prevención y Readaptación Social;
-
-II.- Que el semi-liberado se abstenga de la ingestión de bebidas embriagantes, del empleo de estupefacientes o sustancias de efectos análogos, salvo, prescripción médica;
-
-III.- Que se abstenga de ocurrir a cantinas, bares, tabernas, cervecerías, billares, cabarets u otros sitios inconvenientes;
-
-IV.- Que cumpla en los términos y extensión con la medida otorgada; y
-
-V.- Que mantenga su forma honesta de vivir.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIOS DEL CODIGO PENAL DE COAHUILA, P.O. 28 DE MAYO DE 1999)
 
 ###### ARTICULO 75.
 
-El tratamiento semi-institucional de reclusión intermitente se revocará:
-
-I.- Si el semi-liberado no cumple con las condiciones citadas en el artículo precedente;
-
-II.- Cuando se observe que el semi-liberado guarda mala conducta familiar o social, que no sea delictiva, fuera de la Institución;
-
-III.- Si el semi-liberado es condenado por nuevo delito mediante sentencia ejecutoria, en cuyo caso será de oficio la revocación.
-
-En los supuestos previstos en las fracciones I y II de este artículo, a juicio fundado de la Dirección de Prevención y Readaptación Social se podrá conceder al semi-liberado una nueva oportunidad, amonestándolo debidamente.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIOS DEL CODIGO PENAL DE COAHUILA, P.O. 28 DE MAYO DE 1999)
 
 ###### ARTICULO 76.
 
-La revocación definitiva del tratamiento semi-institucional de reclusión intermitente traerá aparejada la consecuencia de que se haga efectiva la fianza y que al semi-liberado se le aplique el tratamiento institucional, sin perjuicio de que, en su caso, pueda aplicarse con posterioridad el tratamiento semi-institucional de preliberación.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIOS DEL CODIGO PENAL DE COAHUILA, P.O. 28 DE MAYO DE 1999)
 
 ###### ARTICULO 77.
 
-Compete a la Dirección de Prevención y Readaptación Social la autorización para la aplicación del tratamiento semi-institucional de reclusión intermitente y su revocación. Para la autorización respectiva, el Director o Alcaide del Centro remitirá a aquella la certificación de conducta del interno dentro de la institución, así como los estudios integrales de personalidad practicados al interno y el dictamen del Consejo Técnico sobre el grado de readaptabilidad y en el que se especifique, además, el tipo y extensión de medida que se considere aconsejable.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIOS DEL CODIGO PENAL DE COAHUILA, P.O. 28 DE MAYO DE 1999)
 
 ###### ARTICULO 78.
 
-Compete al Director o Alcaide del Centro, la ejecución y supervisión del tratamiento semi-institucional de reclusión intermitente, debiendo informar periódicamente del mismo a la Dirección de Prevención y Readaptación Social. El Director o Alcaide deberá suspender dicho tratamiento cuando tenga conocimiento de que haya concurrido alguna de las hipótesis del artículo 75 comunicado lo anterior a la Dirección de Prevención y Readaptación Social.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIOS DEL CODIGO PENAL DE COAHUILA, P.O. 28 DE MAYO DE 1999)
 
 ###### ARTICULO 79.
 
@@ -1238,3 +1208,13 @@ OSCAR FLORES TAPIA.- (Rúbrica).
 EL SECRETARIO DEL EJECUTIVO DEL ESTADO.
 
 LIC. ROBERTO OROZCO MELO. (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE MAYO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO. VIGENCIA. El presente código entrará en vigor en septiembre 1° de 1999.
+
+QUINTO. DEROGACIÓN DE CIERTAS NORMAS DE LA LEY DE EJECUCIÓN DE SANCIONES. Desde el día en que inicie su vigencia este código, se derogan todas las normas relativas al tratamiento semi-institucional de exclusión intermitente que prevé la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad.
