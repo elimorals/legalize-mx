@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1995-10-13"
+last_updated: "1995-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1995.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -11153,11 +11153,13 @@ En la venta de que habla el artículo 2186 mientras que no pasa la propiedad de 
 
 El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 1995)</small>
 
 ###### ARTICULO 2191.
 
-La enajenación de bienes inmuebles cuyo valor convencional no sea mayor de cuatro veces el salario mínimo general elevado al año en Baja California y la constitución o transmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, Juez de Paz o Registro Público de la Propiedad.
+La enajenación de Bienes Inmuebles cuyo valor convencional no sea mayor de la cantidad que resulte de multiplicar por 6,500 el importe del salario mínimo diario vigente en el Estado de Baja California y la constitución o transmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, Juez de Paz o Registro Público de la Propiedad.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
 
 Los contratos por los que el Gobierno del Estado, Municipios y Organismos Descentralizados enajenen terrenos o casas para la constitución del patrimonio familiar o para personas de escasos recursos económicos hasta por un valor de cuatro veces el salario mínimo general elevado al año en Baja California, podrán otorgarse en documento privado sin los requisitos de testigos y de ratificación de firmas.
 
@@ -15048,3 +15050,9 @@ P.O. 13 DE OCTUBRE DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE OCTUBRE DE 1995.
+
+###### ARTICULO UNICO.
+
+La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
