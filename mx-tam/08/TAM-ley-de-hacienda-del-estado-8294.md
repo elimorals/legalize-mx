@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1991-12-18"
+last_updated: "1993-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -301,7 +301,7 @@ N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE
 
 Cuando en las manifestaciones o avisos no se expresen los datos o no se acompañen los documentos o planos respectivos, la Tesorería General del Estado dará un plazo de quince días para que se corrija la omisión, que se contará a partir de la fecha en que los interesados reciban el requerimiento.
 
-Transcurrido dicho plazo si no se expresan los datos o presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería no tomará en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor, las sanciones que procedan.
+Transcurrido dicho plazo si no se expresan los datos o presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería no tomarán en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor, las sanciones que procedan.
 
 DE LAS OBLIGACIONES DE LOS TERCEROS
 
@@ -339,7 +339,7 @@ N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE
 
 ###### ARTICULO 29o.
 
-Las comunicaciones a que se refiere el artículo anterior, se harán por escrito dentro de los quince días siguientes a la fecha en que la Dirección General de Obras y Servicios Públicos o demás autoridades citadas reciban las manifestaciones de terminación o de ocupación de las construcciones o ampliaciones que deben presentar los constructores.
+Las comunicaciones a que se refiere el artículo anterior, se hará por escrito dentro de los quince días siguientes a la fecha en que la Dirección General de Obras y Servicios Públicos o demás autoridades citadas reciban las manifestaciones de terminación o de ocupación de las construcciones o ampliaciones que deben presentar los constructores.
 
 DE LAS EXENCIONES
 
@@ -1947,7 +1947,7 @@ El impuesto se causará al cosechar los frutos o productos agrícolas y deberá 
 
 Los frutos o producto agrícolas que se encuentren en el estado, sin acreditar que provienen de otra entidad mediante la documentación Fiscal expedida en el lugar de origen y sellada por la primera caseta o autoridad fiscal competente del estado que toque en su traslado, se presumirán producidos en Tamaulipas y estarán sujetos al pago de este Impuesto.
 
-Los retenedores del impuesto sobre frutos o productos agrícolas deberán enterarlo en las Oficinas Fiscales del Estado de la jurisdicción de cada uno de sus centros de recepción dentro de los cinco días siguientes a la fecha en que reciben el producto.
+Los retenedores del impuesto sobre frutos o productos agrícolas deberán enterarlo en las Oficinas Fiscales del Estado de la jurisdicción de cada uno de sus centros de recepción dentro de los cinco días siguientes a l a fecha en que reciben el producto.
 
 La Tesorería General del Estado, podrá autorizar a empresas establecidas si su solvencia lo justifica y a petición de estas, a liquidar el impuesto retenido dentro de los quince días siguientes al movimiento de recepción de la quincena inmediata anterior.
 
@@ -2565,7 +2565,7 @@ DE LAS OBLIGACIONES DE LOS TERCEROS
 
 ###### ARTICULO 219.
 
-Los retenedores de este impuesto y en general quienes hagan pagos a los sujetos del mismo, tienen la obligación de proporcionar los datos y documentos que les sean solicitados por las autoridades fiscales del Estado, para verificar el correcto pago de este gravamen.
+Los retenedores de este impuesto y en general quienes hagan pagos a los sujetos del mismo, tienen obligación de proporcionar los datos y documentos que les sean solicitados por las autoridades fiscales del Estado, para verificar el correcto pago de este gravamen.
 
 DE LAS EXENCIONES
 
@@ -2891,11 +2891,9 @@ TARIFA GENERAL DE DERECHOS POR SERVICIOS PUBLICOS EN EL ESTADO.
 
 Los derechos por servicios no previstos ni exceptuados expresamente por este Título II, se determinarán por asimilación aplicando las cuotas o tasas que correspondan a los casos con los que tengan semejanza.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1993)</small>
 
-ARTICULO 258 A.-
-
-VEASE TABLA ANEXA
+ARTICULO 258 A.- Para los efectos de la causación de los derechos sobre la base de salarios mínimos, para la aplicación de tarifas, de cantidades en millares o en porcientos, los montos que resulten se ajustarán de conformidad con lo dispuesto en el Artículo 21 del Código Fiscal del Estado para determinar el monto del pago de los mismos.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -2961,17 +2959,17 @@ TARIFA:
 
 I.- Inscripciones.
 
-1.- Inscripción de hechos relativos al nacimiento, reconocimiento de hijos, adopciones y defunción, 10 % de un día de salario mínimo.
+II.- Inscripción de hechos relativos al nacimiento, reconocimiento de hijos, adopciones y defunción 10 % de un día de salario mínimo.
 
-2.- Inscripción de actas de matrimonio, dos días de salario mínimo.
+2.- Inscripción de actas de matrimonio dos días de salario mínimo.
 
-3.- Inscripción de actas de divorcio:
+3.- Inscripción de actas de divorcio.
 
 a).- Expedidas en el país, dos días de salario mínimo.
 
 b).- Expedidas fuera del país, cuatro días de salario mínimo.
 
-Cuando los servicios del oficial se presten a solicitud del interesado en horas o días inhábiles o en lugar distinto a la sede de la oficialía, su inscripción causará una cuota igual al importe de ocho días de salario mínimo.
+Cuando los servicios del oficial se presten a solicitud del interesado en horas o días inhábiles o en lugar distinto a la sede de la Oficialía, su inscripción causará una cuota igual al importe de ocho días de salario mínimo.
 
 II.- REGULARIZACIONES Y CANCELACIONES.
 
@@ -2981,17 +2979,17 @@ a).- El registro de actos celebrados en el extranjero causarán los derechos est
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1985)</small>
 
-b).- La inscripción de las resoluciones judiciales de cancelación o rectificación de actas del estado civil causarán la cuota igual al 50 % del importe de un día de salario mínimo.
+b).- La inscripción de las resoluciones judiciales de cancelación o rectificación de actas del estado civil causarán la cuota igual 50% del importe de un día de salario mínimo.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-c).- La corrección de errores en inscripciones causará la cuota igual al 50 % del importe de un día de salario mínimo..
+c).- La corrección de errores en inscripciones causará la cuota igual al 50% del importe de un día de salario mínimo.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
 III.- CERTIFICACIONES
 
-Las certificaciones de constancias que obren en los libros del Rregistro Civil causarán la cuota de 50 % del importe de un día de salario mínimo.
+Las certificaciones de constancias que obren en los libros del Registro Civil causarán la cuota de 50% del importe de un día de salario mínimo.
 
 ###### ARTICULO 262o.
 
@@ -3281,9 +3279,11 @@ a).- Urbanos y suburbanos, sobre el valor catastral, 1 al millar.
 
 b).- Rústicos cuyo valor no exceda de cinco días de salario mínimo, 2.5% de un día de salario mínimo.
 
-c).- Rústicos, cuyo valor catastral sea superior a $50,000.00, pagarán la cuota de l inciso anterior y sobre el excedente hasta la cantidad de $ 50,000.00 pagarán el 2.5%.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1993)</small>
 
-d).- Rústicos, cuyo valor catastral sea superior a $ 5,000.00 pagarán los porcentajes de los incisos anteriores por los primeros $ 50,000.00 y sobre el excedente 1.5%
+c).- Rústicos, cuyo valor catastral sea superior a cinco días de salario mínimo pagarán la cuota del inciso anterior y sobre el excedente de dicho valor, el 1.5%.
+
+d).- (DEROGADO, P.O. 16 DE ENERO DE 1993)
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -3678,3 +3678,9 @@ P.O. 18 DE DICIEMBRE DE 1991
 PRIMERO.- El presente Decreto entrará en vigor el 1 de enero de 1992.
 
 SEGUNDO.- Para los efectos del Artículo 258 B al inicio de la vigencia del presente Decreto se entenderá como salario mínimo aplicable el vigente al 31 de diciembre de 1991.
+
+P.O. 16 DE ENERO DE 1993
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
