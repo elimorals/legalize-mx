@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-21-de-aguas-del-estado-de-veracruz-de-ignacio-de-227
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2001-06-29"
+last_updated: "2003-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 21 DE AGUAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY DE AGUAS DEL ESTADO DE VERACRUZ-LLAVE
+LEY DE AGUAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
 
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 29 de junio de 2001.
 
@@ -41,7 +41,9 @@ LA HONORABLE QUINCUAGÉSIMA NOVENA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y S
 
 LEY NÚMERO 21
 
-DE AGUAS DEL ESTADO DE VERACRUZ-LLAVE
+> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+LEY DE AGUAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -53,7 +55,9 @@ La presente Ley es de orden público e interés social y tiene por objeto reglam
 
 Se consideran de jurisdicción estatal las aguas, sus cauces, lechos y riberas respectivos, localizadas en el territorio del Estado de Veracruz, en términos de lo dispuesto por la Constitución y leyes federales, esta ley y demás leyes del Estado.
 
-En el Estado de Veracruz-Llave se considerará de utilidad pública el aprovechamiento de las aguas cuyo curso o depósito se localice en dos o más predios.
+> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+En el Estado de Veracruz de Ignacio de la Llave se considerará de utilidad pública el aprovechamiento de las aguas cuyo curso o depósito se localice en dos o más predios.
 
 ###### Artículo 2.
 
@@ -905,9 +909,11 @@ El reglamento que al efecto se expida, determinará, de conformidad con las disp
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
 ###### Artículo 44.
 
-Se considera de interés público la promoción y fomento de la participación organizada del sector social y de los particulares para el financiamiento, construcción, ampliación, rehabilitación, mantenimiento, conservación, operación y administración de la infraestructura hidráulica del Estado de Veracruz-Llave, así como para la prestación de los servicios públicos de suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales; y las acciones que promuevan el reúso de las aguas tratadas.
+Se considera de interés público la promoción y fomento de la participación organizada del sector social y de los particulares para el financiamiento, construcción, ampliación, rehabilitación, mantenimiento, conservación, operación y administración de la infraestructura hidráulica del Estado de Veracruz de Ignacio de la Llave, así como para la prestación de los servicios públicos de suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales; y las acciones que promuevan el reúso de las aguas tratadas.
 
 ###### Artículo 45.
 
@@ -983,9 +989,11 @@ Al término de la vigencia del título de concesión, la infraestructura hidráu
 
 Los promotores y desarrolladores de fraccionamientos o parques habitacionales, comerciales, industriales o mixtos, podrán, en los términos del presente capítulo, obtener concesión para prestar transitoriamente los servicios a que se refieren los Capítulos Segundo, Tercero y Cuarto del Título siguiente. Las condiciones especiales para esta concesión transitoria se contendrán en el reglamento de la presente ley.
 
+> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
 ###### Artículo 53.
 
-Las controversias que se susciten con motivo de la interpretación y aplicación de las concesiones a que se refiere este capítulo, se resolverán conforme a las disposiciones del Código de Procedimientos Administrativos para el Estado de Veracruz-Llave.
+Las controversias que se susciten con motivo de la interpretación y aplicación de las concesiones a que se refiere este capítulo, se resolverán conforme a las disposiciones del Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 54.
 
@@ -1389,9 +1397,11 @@ Los notarios públicos, salvo mandamiento judicial, no autorizarán o certificar
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
 ###### Artículo 108.
 
-Además de las señaladas en el artículo 1 de esta Ley, se estiman aguas de jurisdicción estatal las que forman parte integrante de los terrenos de propiedad del Gobierno del Estado de Veracruz-Llave, por los que corren o en los que se encuentran sus depósitos.
+Además de las señaladas en el artículo 1 de esta Ley, se estiman aguas de jurisdicción estatal las que forman parte integrante de los terrenos de propiedad del Gobierno del Estado de Veracruz de Ignacio de la Llave, por los que corren o en los que se encuentran sus depósitos.
 
 La jurisdicción estatal de las aguas a que se refiere el párrafo anterior, subsistirá aun cuando las agua no cuenten con la declaratoria respectiva, emitida por el Ejecutivo del Estado; asimismo, subsistirá la propiedad de esas aguas, cuando mediante la construcción de obras, sean desviadas del cauce o de vaso originales, o se impida su afluencia a ellos. Las aguas residuales provenientes del uso de las aguas de jurisdicción estatal tendrán el mismo carácter.
 
@@ -1932,3 +1942,23 @@ Lic. Miguel Alemán Velazco
 Gobernador del Estado.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "...Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Veracruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "...del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
