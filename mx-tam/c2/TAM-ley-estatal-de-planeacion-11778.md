@@ -4,7 +4,7 @@ identifier: "TAM-ley-estatal-de-planeacion-11778"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-19"
-last_updated: "1996-04-20"
+last_updated: "1998-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ESTATAL DE PLANEACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el 19 de septiembre de 1984.
 
@@ -379,17 +379,19 @@ El Ejecutivo Estatal ordenará la publicación, en el Periódico Oficial del Est
 
 ### CAPITULO SEXTO. CONCERTACION E INDUCCION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 51.
 
-El Ejecutivo del Estado, por sí o a través de sus Dependencias y Entidades podrán concertar la realización de las acciones previstas en el Plan y los Programas, con las representaciones de los grupos sociales o con los particulares interesados.
+El Ejecutivo del Estado, por sí o a través de sus Dependencias y Entidades, y los Municipios, deberán concertar la realización de las acciones previstas en sus Planes y Programas, con las representaciones de los grupos sociales o con los particulares interesados.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1996)</small>
 
 Lo anterior se realizará a través de los Consejos de Desarrollo para el Bienestar Social que para el efecto se constituyan, cuyas funciones serán entre otras, las siguientes:
 
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1998)</small>
 
-I.- Planear, programar, operar, controlar, dar seguimiento y evaluar, los recursos correspondientes de Presupuesto de Egresos de la Federación, Ramo 00026.
+I.- Planear, programar, operar, controlar, dar siguimiento (sic) y evaluar los recursos correspondientes del Presupuesto de Egresos de la Federación, cuando expresamente se detrmine.
 
 > <small>(ADICIONADA, P.O. 20 DE ABRIL DE 1996)</small>
 
@@ -490,3 +492,9 @@ El Reglamento a que se hace referencia en el Artículo 51, deberá formularse en
 ###### ARTICULO TERCERO.
 
 A partir de la vigencia del presente Decreto, los Consejos que actualmente se encuentran integrados, se denominarán Consejos de Desarrollo para el Bienestar Social, con sujeción al Reglamento que se expide.
+
+P.O. 31 DE ENERO DE 1998
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
