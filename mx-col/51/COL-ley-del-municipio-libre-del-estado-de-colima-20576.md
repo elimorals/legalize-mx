@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2004-01-13"
+last_updated: "2004-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2004.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -1707,9 +1707,11 @@ El presente decreto entrará en vigor a los treinta días de su publicación en 
 
 Se abroga la Ley Orgánica del Municipio Libre, expedida por el Congreso del Estado, mediante decreto número 58, el 12 de enero de 1995 y publicado en el periódico oficial el 14 del mismo mes y año, y demás disposiciones que se opongan a la presente Ley, con excepción de lo previsto en el artículo siguiente.
 
-###### ARTICULO TERCERO.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2004)</small>
 
-Los ayuntamientos deberán contar con los órganos contencioso-administrativos municipales, a más tardar el 15 de septiembre del año 2003. Queda en vigor el capítulo III del Título Noveno de la Ley Orgánica del Municipio Libre, denominado "De los Recursos Administrativos".
+###### ARTÍCULO TERCERO.
+
+Los ayuntamientos de los municipios en que se divide el territorio del Estado de Colima deberán establecer los órganos de lo contencioso administrativo municipales a más tardar en el año 2008, siempre y cuando su población sea de por lo menos cincuenta mil habitantes. En caso de que para el año aludido existan municipios que no tengan una población de por lo menos cincuenta mil habitantes, los ayuntamientos de los mismos estarán obligados a establecer los órganos de lo contencioso administrativo municipal en un plazo de dos años contados a partir de que cuenten con por lo menos el número de habitantes referido. En tanto no se dé el supuesto aludido en este artículo, queda en vigor el capítulo III del Título Noveno de la Ley Orgánica del Municipio Libre, denominado De los Recursos Administrativos.
 
 En tanto entre en vigor la ley que establezca los órganos para dirimir las controversias que se susciten entre las administraciones municipales y los particulares y los ayuntamientos establezcan los órganos a que se refiere el párrafo anterior, las personas afectadas podrán interponer el recurso señalado en el capítulo arriba mencionado. Asimismo continúa en vigor el sistema actual de Tribunal de lo Contencioso Administrativo del Estado. Dicho Tribunal seguirá substanciando los asuntos municipales en trámite al entrar en vigor la ley respectiva, aplicando la normatividad vigente.
 
@@ -1742,3 +1744,7 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- A partir de la entrada en vigor del presente Decreto, los Cabildos Municipales tendrán hasta el 23 de enero del 2004 para hacer las modificaciones y adecuaciones a la reglamentación correspondiente y publicar el reglamento respectivo.
 
 Artículo Tercero.- Las autoridades auxiliares por esta única ocasión deberán ser electos y asumir el encargo antes de que concluya el mes de febrero del 2004 y terminar el mismo el 15 de diciembre del 2006.
+
+P.O. 8 DE MAYO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
