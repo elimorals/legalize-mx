@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-comondu-del-estado-de-2326
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2002-07-10"
+last_updated: "2002-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMONDU DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -97,9 +97,13 @@ BASE Y TASA DEL IMPUESTO
 
 El impuesto sobre la propiedad rústica se causara sobre el valor catastral de los predios rústicos conforme a las siguientes tasas:
 
-a). 10.04 al millar anual si están explotados por su dueño
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
-b). 19.5 al millar anual si no están explotados por su dueño
+a). 1.19 al millar anual sí están explotados por su dueño.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+b). 2.26 al millar anual sino están explotados por su dueño.
 
 c). En ningún caso el impuesto predial anual será inferior a un días (sic) de salario mínimo.
 
@@ -107,25 +111,35 @@ c). En ningún caso el impuesto predial anual será inferior a un días (sic) de
 
 El impuesto sobre la propiedad ejidal se ajustará a las disposiciones relativas de la ley federal de reforma agraria, sin que su monto pueda exceder el 5% de su producción anual.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 8.
 
-El impuesto sobre las plantas de actividades empresariales de índole industrial siendo estas: las que se dedican a la extracción, conservación o transformación de materia prima, acabado de productos y la elaboración de satisfactores. a razón de 12 al millar.
+El impuesto sobre las plantas de actividades empresariales de índole industrial siendo éstas: las que se dedican a la extracción, conservación, o transformación de materia prima, acabado de productos y la elaboración de satisfactores, a razón de 2.54 al millar anual.
 
 ###### Artículo 9.
 
 El impuesto predial sobre la propiedad urbana se causará:
 
-a). A razón del 7.5. al millar anual sobre el valor catastral, de los predios destinados totalmente por el contribuyente para su propia casa-habitación; en este caso no se aplicara el segundo párrafo del inciso c) de este artículo.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
-b). A razón del 14 al millar sobre el valor catastral, de los predios destinados a uso distinto del de casa-habitación del contribuyente.
+a). A razón del 2.0 al millar anual sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitacion.
 
-c). a razón del 14 al millar sobre el valor catastral de los predios no edificados o baldíos. incrementándose anualmente en un 2.6 al millar hasta en tanto no sea construida la edificación. la tasa no excederá de 70 al millar.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
-d). A razón de 14 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta o con reserva de dominio. esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
+b). A razón del 3.1 al millar anual sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
 
-e). En el caso de los predios donde exista casa habitación y comercio, el contribuyente deberá solicitar ante la dirección de catastro, la subdivisión correspondiente para la aplicación de la tasa según el destino del uso del suelo.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
-En ningún caso el impuesto predial anual deberá ser inferior a dos días de salario mínimo.
+c). A razón del 7.8 al millar anual sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un 1.11 al millar hasta en tanto no sea construida la edificación, la tasa no excederá de 20 al millar.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+d). A razón de 6 al millar anual sobre el valor catastral de los predios no edificados o baldíos ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados, siempre y cuando dichos predios no sean enajenados a terceros, prometidos en venta o con reserva de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una subdivisión, fusión o relotificación común.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+e). En ningún caso el impuesto predial anual deberá ser inferior a tres días de salario mínimo.
 
 ###### Artículo 10.
 
@@ -139,11 +153,15 @@ III. Los sujetos del impuesto predial tendrán el derecho de pagar anticipadamen
 
 IV. Cuando sean modificadas las delimitaciones de colonias catastrales, o avenidas especiales; o bien, los valores unitarios de terrenos y construcciones o los valores catastrales fijados de acuerdo a la ley misma, surtirán efecto y entrarán en vigor a partir del bimestre inmediato posterior a su publicación en el Boletín Oficial del Gobierno del Estado.
 
-V. La cuota del impuesto sobre el valor promedio entre el catastral, el de adquisición, el declarado por el causante y el de avalúo pericial entrará en vigor a partir del bimestre siguiente al de aquel en que ocurra el hecho o circunstancia que de lugar a la practica del avalúo conforme al código fiscal de la Federación y Ley de Catastro vigentes; sin perjuicio de que si tal hecho o circunstancia ocurre en el caso de predios, construcciones, los llanos de las fincas rústicas y ejidales y los terrenos inexactamente clasificados por los que no se hubiese cubierto el impuesto, la dependencia correspondiente determinara el gravamen en cantidad liquida y los hará efectivo respecto de los cinco años anteriores, conforme a las disposiciones legales vigentes de ese entonces.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
-Cuando se trate de cambios de valores unitarios de terrenos y construcciones por revaluación que señalan los artículos relativos de la Ley de Catastro, la cuota del impuesto sobre los valores detallados en el párrafo que antecede, entrara en vigor a partir del bimestre siguiente al de haber sido publicados los valores unitarios en el Boletín Oficial del Gobierno del Estado.
+V. Los terrenos inexactamente clasificados por los que no se hubiese cubierto el impuesto, la dependencia correspondiente determinará el gravamen en cantidad líquida y los hará efectivos respecto de los cinco años anteriores, conforme a las disposiciones legales vigentes de ese entonces.
 
-VI. El impuesto predial causado anualmente no podrá ser inferior a un salario mínimo diario general vigente.
+Cuando se trate de cambios de valores unitarios de terrenos y construcciones por actualizaciones de valores catastrales entrarán en vigor a partir del bimestre siguiente al de haber sido publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+VI. El impuesto predial causado anualmente no será inferior a tres días salario mínimo.
 
 ###### Artículo 11.
 
@@ -183,7 +201,7 @@ Se considera vivienda de interés social aquella que su costo de adquisición no
 
 ###### Artículo 14.
 
-No se causara este impuesto en las adquisiciones de inmuebles del dominio publico de la Federación, Estados extranjeros, Estados o los municipios en caso de reciprocidad.
+No se causara este impuesto en las adquisiciones de inmuebles del dominio público de la Federación, Estados extranjeros, Estados o los municipios en caso de reciprocidad.
 
 ###### Artículo 15.
 
@@ -229,7 +247,9 @@ En los casos de permuta, se considera que se efectúa una adquisición por cada 
 
 El valor del inmueble que se considera para los efectos del articulo 13 de esta ley, será la siguiente:
 
-I. El valor más alto entre el estipulado en el contrato, el valor catastral o fiscal o el avalúo comercial pericial. Entendiéndose como avalúo comercial los dictámenes valuatorios practicados por peritos con autorización municipal, los peritajes tendrán una vigencia de 120 días naturales, contados a partir de la fecha de expedición.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+I. El valor comercial, entendiéndose que es el dictamen valuatorio practicado por peritos con autorización Municipal, el cual tendrán una vigencia de 120 días naturales contados a partir de la fecha de expedición, mismo que no podrá ser inferior al valor catastral.
 
 II. En los casos de remate el valor más alto entre el fiscal, el catastral y el avalúo pericial que sirva de base para la celebración del mismo.
 
@@ -469,13 +489,7 @@ IX. La inscripción de testamentos, declaraciones de herederos, sentencias, decl
 
 X. Si se trata de bienes muebles identificables por marcas y números, la inscripción de la condición resolutoria en los casos de venta, de pacto de reserva de dominio de la propiedad del bien mueble y constitución de reserva de dominio de la propiedad del bien mueble y constitución de prenda en general el 50% de la cuota que señala la fracción II.
 
-XI. El depósito de testamentos ológrafos.
-
-a). Si se hace en las oficinas del registro 5 días salario mínimo
-
-b). Si se hace fuera de las oficinas del registro en las horas ordinarias 8 días salario mínimo.
-
-c). Si se hace fuera de las oficinas del registro en horas extraordinarias 10 días salario mínimo.
+XI. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2002)
 
 XII. Por depósito de cualquier otro documento 5 días salario mínimo.
 
@@ -635,9 +649,11 @@ VII. Se exceptúa del pago de derechos de inscripción en el registro público d
 
 ### CAPÍTULO SEGUNDO. SERVICIOS CATASTRALES
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 42.
 
-Los servicios prestados por las oficinas catastrales causarán un derechos (sic) que se pagará previamente a su expedición conforme a las cuotas de la siguiente.
+Los servicios prestados por las oficinas catastrales causarán un derecho que se pagará previamente a su expedición o su ejecución conforme a las cuotas de la siguiente:
 
 TARIFA.
 
@@ -645,13 +661,43 @@ I. Por cada copia de planos 3 días salario mínimo
 
 II. Avalúos periciales por cada predio sobre su valor, sin que pueda ser inferior a un día salario mínimo 0.5 al millar.
 
-III. Certificados, por cada hoja o fracción 25% salario mínimo
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+III. Certificados por la primera hoja o fracción, un día de salario mínimo; por las subsecuentes .25 días de salario mínimo.
 
 IV. Otorgamiento de claves catastrales, por cada una 1 día salario mínimo.
 
 V. Por búsqueda de datos para proporcionar información económica y/o certificado 1 día salario mínimo por predio.
 
-VI. Por deslindes o levantamientos prediales que se realicen a solicitud de particulares, de acuerdo con el tiempo en que se ejecuten los trabajos relativos 2 días salario mínimo en adelante.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+VI. Por deslindes o levantamientos prediales que se realicen a solicitud de particulares se ajustarán a las siguientes cuotas:
+
+ZONA URBANA
+
+1. Deslinde en base de brigada. 4 días salario mínimo
+
+2. Deslinde fuera de base de brigada
+
+a). De 1 a 25 Kilómetros. 8 días salario mínimo
+
+b). De 26 a 50 Kilómetros. 12 días salario mínimo
+
+c). De 51 a 75 Kilómetros. 15 días salario mínimo
+
+d). De 76 a 125 Kilómetros. 20 días salario mínimo
+
+e). De 126 a 175 Kilómetros. 24 días salario mínimo
+
+f). De 176 Kilómetros en adelante. 28 días salario mínimo
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+VII. Servicios varios
+
+a). Autorización de fusión de predios por unidad 2 días salario mínimo
+
+b). Autorización de subdivisión, lotificación y relotificación de predios por unidad 2 días salario mínimo
 
 ### CAPÍTULO TERCERO. LICENCIAS PARA CONSTRUCCIÓN
 
@@ -753,7 +799,7 @@ Consumo mensual únicamente en servicio doméstico 1 día salario mínimo.
 
 b). El usuario pagará el costo del medidor, accesorios, materiales y trabajos extraordinarios por la conexión del servicio de agua potable.
 
-#### SECCION II. ALCANTARILLADO (SIC)
+#### SECCION II (SIC). ALCANTARILLADO
 
 II. El usuario del servicio de alcantarillado estará obligado a pagar de la siguiente manera:
 
@@ -801,7 +847,7 @@ a). Presupuesto de ejecución de obra, para los incisos V, VI y IX.
 
 b). Resultado del avalúo del sistema entre la producción, para las fracciones VII y VIII.
 
-c). De 7 a 10 días de salario mínimo, para el inciso X
+c). De 7 a 10 días de salario mínimo, para el inciso X.
 
 ###### Artículo 51.
 
@@ -877,7 +923,7 @@ II. En los casos de la construcción de banquetas y guarniciones, los derechos s
 
 III. Cuando se trate de pavimentos, los derechos serán causados en la siguiente forma:
 
-a). Si la pavimentación cubre la totalidad del ancho del arroyo, causaran los derechos los propietarios o poseedores de los predios ubicados en ambas aceras de la vía pública que se pavimente.
+a). Si la pavimentación cubre la totalidad del ancho del arroyo, causaran los derechos los propietarios o poseedores de los predios ubicados en ambas aceras de la vía publica que se pavimente.
 
 El monto de los derechos se determinara multiplicando la cuota unitaria que corresponda, atendiendo el costo del pavimento construido por el numero de metros lineales comprendidos desde la guarnición de la banqueta hasta el eje del arroyo y el producto por el numero de metros lineales del frente de cada predio.
 
@@ -1736,5 +1782,11 @@ B.O. 10 DE JULIO DE 2002.
 Los ayuntamientos de la entidad contarán con noventa días naturales par (sic) los efectos de lo dispuesto por los artículos 26, 90, 91, 92, y 94 de la Ley Orgánica Municipal Reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur, reformados por este Decreto, en lo que se refiere a los bandos de policía y gobierno y reglamentos.
 
 ###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2002.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
