@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-para-el-curso-de-instruccion-de-1007"
 country: "mx"
 rank: "reglamento"
 publication_date: "1947-10-29"
-last_updated: "1947-10-29"
+last_updated: "1951-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1007&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1947-10-20"
 
 REGLAMENTO ORGANICO PARA EL CURSO DE INSTRUCCION DE GUARDIAMARINAS DEL CUERPO GENERAL Y DEL CUERPO DE INGENIEROS MECANICOS NAVALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 1951.
 
-Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 29 de octubre de 1947.
+Reglamento publicado en la Segunda Sección del Diario Oficial, el miércoles 29 de octubre de 1947.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -197,9 +197,13 @@ Los auxiliares de los Jefes de Instrucción calificarán mensualmente el aprovec
 
 ### CAPITULO CUARTO. Del Curso
 
+> <small>N. DE E. DE CONFORMIDAD AL ACUERDO POR EL QUE SE MODIFICA EL TIEMPO DE SERVICIO, SE CREAN LAS PLAZAS DE TENIENTES DE CORBETA Y LA CANCELACION DE LAS GUARDIAMARINAS EN LOS CUERPOS GENERAL E INGENIEROS MECANICOS NAVALES DE LA ARMADA DE MEXICO, ASI COMO LAS ASIGNACIONES DE TECNICO QUE SEAN NECESARIAS PARA AQUELLOS GUARDIAMARINAS QUE RESULTEN APROBADOS EN LOS EXAMENES RESPECTIVOS Y A PARTIR DEL PRIMERO DE JULIO DEL PRESENTE AÑO.</small>
+
+> <small>(REFORMADO, D.O. 12 DE JUNIO DE 1951)</small>
+
 ###### ARTICULO 31.
 
-La duración del curso de Guardiamarinas será de dos años, a partir de la fecha en que hubieren egresado de la Escuela Naval. El mes siguiente a la terminación de este período se denominará “De exámenes”; destinándose 15 días para su preparación en la citada Escuela y otros 15 a las pruebas.
+La duración del curso de Guardiamarinas será de un año seis meses, a partir de la fecha en que hubieren egresado de la Escuela Naval. El mes siguiente a la terminación de este período se denominará “De exámenes”; destinándose 15 días para su preparación en la citada Escuela y otros 15 a las pruebas.
 
 ###### ARTICULO 32.
 
@@ -652,3 +656,9 @@ puesto en conocimiento inmediato del Escalón
 Superior pidiendo se le examine por una Junta
 
 de Médicos.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 12 DE JUNIO DE 1951.
+
+EL ACUERDO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIO FEDERALES EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
