@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1981-05-30"
+last_updated: "1983-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 1983.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -5627,7 +5627,23 @@ III.- Los créditos por indemnización cuando la víctima fuere un asalariado so
 
 IV.- Las anteriores disposiciones se observarán en el caso del artículo 2545 de este Código.
 
-1801.- Independientemente de los daños y perjuicios, el Juez puede acordar a favor de la víctima de un hecho ilícito, o de su familia, si aquélla muere, una indemnización equitativa, a título de reparación moral, que pagará el responsable del hecho. Esa indemnización no podrá exceder de la tercera parte de lo que importe la responsabilidad civil. Lo dispuesto en este artículo no se aplicará al estado en el caso previsto en el artículo 1813.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1983)</small>
+
+1801.- Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspecto físico, o bien en la consideración que de sí misma tienen los demás.
+
+Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño material, tanto en responsabilidad contractual, como extracontractual. Igual obligación de reparar el daño moral tendrá quien incurra en responsabilidad objetiva conforme al artículo 1798, así como el Estado y sus funcionarios conforme al artículo 1813, ambas disposiciones del presente Código.
+
+La acción de reparación no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando ésta haya intentado la acción en vida.
+
+El monto de la indemnización lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso.
+
+Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el juez ordenará, a petición de esta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 1983)</small>
+
+1801 BIS.- No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los Artículos 6o. y 7o. de la Constitución General de la República.
+
+En todo caso, quien demanda la reparación del daño moral por responsabilidad contractual o extracontractual deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
 
 1802.- Las personas que han causado en común un daño, son responsables solidariamente hacia la víctima por la reparación a que están obligadas de acuerdo con las disposiciones de este capítulo.
 
@@ -6205,7 +6221,9 @@ Si no tuvieren plazo cierto, se aplicará lo prevenido en el artículo 1963, par
 
 1998.- Al estimar el deterioro de una cosa se atenderá no solamente a la disminución que el causó en el precio de ella, sino a los gastos que necesariamente exija la reparación.
 
-1999.- Al fijar el valor y deterioro de una cosa, no se atenderá al precio estimativo o de afección, a no ser que se pruebe que el responsable destruyó o deterioró la cosa con el objeto de lastimar la afección del dueño; el aumento que por estas causas se haga no podrá exceder de una tercera parte del valor común de la cosa.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1983)</small>
+
+1999.- Al fijar el valor y deterioro de una cosa, no se atenderá al precio estimativo o de afecto, a no ser que se pruebe que el responsable destruyó o deterioró la cosa con objeto de lastimar los sentimientos o afectos del dueño; el aumento que por estas causas se haga, se determinará conforme a lo dispuesto por el Artículo 1801.
 
 2000.- La responsabilidad civil puede ser regulada por convenio de las partes, salvo aquellos casos en que la ley disponga expresamente otra cosa.
 
@@ -9112,3 +9130,7 @@ P.O. 30 DE MAYO DE 1981.
 PRIMERO.- Este Decreto entrará en vigor en toda la Entidad veinte días después de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Para los efectos del artículo 56-Bis de la Ley Orgánica del Poder Judicial del Estado, los Juzgados de Primera Instancia seguirán conociendo, hasta su conclusión, de las controversias del orden familiar conforme al procedimiento iniciado, siempre que en las mismas se haya practicado el emplazamiento al demandado o demandados. En caso contrario, remitirán los expedientes respectivos al Juez de lo Familiar que corresponda, para su tramitación conforme a las disposiciones del presente Decreto.
+
+P.O. 23 DE FEBRERO DE 1983.
+
+ARTICULO TRANSITORIO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
