@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1983-07-07"
+last_updated: "1983-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1983.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -273,7 +273,9 @@ II. Facultar al Ejecutivo, con las limitaciones que crea necesarias para que por
 
 III. Fijar la división territorial política, administrativa y judicial del Estado.
 
-IV. Determinar los gastos del Estado y de los Municipios para cada ejercicio fiscal, así como las contribuciones para cubrirlos y examinar las cuentas correspondientes.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1983)</small>
+
+IV. Determinar los gastos del Estado para cada Ejercicio Fiscal, así como las contribuciones del Estado y municipios para cubrirlos y examinar las cuentas correspondientes.
 
 V. Crear y suprimir los empleos públicos.
 
@@ -281,9 +283,9 @@ VI. Dar bases para que el Ejecutivo pueda celebrar empréstitos sobre el crédit
 
 VII. Hacer el escrutinio de los votos emitidos en la elección de Gobernador; calificar dicha elección y declarar electo al que haya obtenido mayoría.
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 1939)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1983)</small>
 
-VIII. Aprobar o rechazar los nombramientos de Magistrados al Tribunal Superior de Justicia que expida el Ejecutivo; y en su caso designarlos dentro de las ternas que éste le proponga.
+VIII. Aprobar o rechazar los nombramientos de Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo del Estado que hiciere el Ejecutivo de la Entidad; y, en su caso, designarlos dentro de las ternas que éste le proponga.
 
 IX. Designar en los términos que previene esta Constitución al ciudadano que deba substituir al Gobernador en sus faltas temporales o absolutas.
 
@@ -291,13 +293,13 @@ IX. Designar en los términos que previene esta Constitución al ciudadano que d
 
 X. Convocar a elecciones extraordinarias cuando fuere necesario y decidir conforme a sus atribuciones.
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 1939)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1983)</small>
 
-XI. Conocer de las renuncias de los Diputados y del Gobernador y de los Magistrados que hayan sido previamente aceptadas por el Ejecutivo.
+XI. Conocer de las renuncias de los Diputados, del Gobernador, de los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo del Estado, que hayan sido previamente aceptadas por el Ejecutivo;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 1939)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1983)</small>
 
-XII. Otorgar licencias a los Diputados y al Gobernador para separarse de sus cargos y además a éste último para permanecer fuera del territorio del Estado. Conocer de las licencias que por más de dos meses conceda el Ejecutivo a los Magistrados.
+XII. Otorgar licencias a los Diputados y al Gobernador para separarse de sus cargos, y además, a éste último, para permanecer fuera del territorio del Estado. Conocer de las licencias que, por más de dos meses, conceda el Ejecutivo a los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo del Estado;
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 1983)</small>
 
@@ -329,7 +331,7 @@ XXIII. Formar su Reglamento Interior y dictar las disposiciones necesarias para 
 
 Durante el receso del Congreso habrá una Diputación Permanente compuesta de 5 miembros de aquel Cuerpo, como propietarios y tres como suplentes, electos en la forma y término que señala el Reglamento respectivo.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1968)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
 
 ###### Art. 25.
 
@@ -337,25 +339,17 @@ Son atribuciones de la Diputación Permanente:
 
 I. Conceder las licencias y permisos a que se refiere la Fracción XII del Artículo 23;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1972)</small>
+II. Dictaminar sobre los negocios que en las últimas sesiones ordinarias hayan quedado pendientes y sobre los que después se presenten, para dar cuenta al Congreso;
 
-II. Resolver sobre las modificaciones a los presupuestos municipales que propongan los Ayuntamientos y sobre sus peticiones para disponer de los depósitos legales en materia de agua y drenaje y plaza y pisos en mercados;
+III. Convocar al Congreso a sesiones extraordinarias, en los casos de denuncia de grave responsabilidad de servidores públicos; en los que deba ejercer el Congreso sus funciones de Colegio Electoral; para la designación de Gobernador; en los que haya de aprobar o rechazar los nombramientos de Magistrados que expida el Ejecutivo, y en los que tenga que convocar a elecciones extraordinarias;
 
-III. Dictaminar sobre los negocios que en las últimas sesiones ordinarias hayan quedado pendientes y sobre los que después se presenten para dar cuenta al Congreso;
+IV. Llamar a los Suplentes de la misma Diputación para cubrir las faltas absolutas o temporales de los propietarios;
 
-IV. Convocar al Congreso a Sesiones Extraordinarias en el caso de acusación por delitos oficiales o de orden común cometidos por funcionarios que gocen de fuero; en el caso de tener que ejercer aquel Cuerpo sus funciones de Colegio Electoral para la designación del Gobernador o Magistrados; y en el de tener que convocar a Elecciones Extraordinarias;
+V. Recibir los expedientes electorales relativos a la elección de Diputados y Gobernador, para el solo efecto de entregarlos a la Junta Preparatoria Electoral del Congreso o a éste;
 
-V. Llamar a los Suplentes de la misma Diputación para suplir las faltas absolutas o temporales de los Propietarios;
+VI. Instalar las Juntas Preparatorias del nuevo Congreso; y
 
-VI. Recibir los expedientes electorales relativos a la elección de Diputados y Gobernador, para el sólo efecto de entregarlos a la Junta Preparatoria Electoral del Congreso o a éste;
-
-VII. Instalar las Juntas Preparatorias del nuevo Congreso;
-
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1972)</small>
-
-VIII. Nombrar a los empleados de la Secretaría del Congreso y de la Contaduría Mayor de Hacienda, cuyos nombramientos serán considerados en el siguiente periodo de sesiones del Congreso, para su ratificación o rectificación, en los términos del Reglamento respectivo;
-
-IX. Nombrar los empleados de la Secretaría del Congreso o de la Contaduría Mayor de Hacienda, cuyos nombramientos serán considerados en el siguiente período de sesiones del Congreso, para su ratificación o rectificación, en los términos del Reglamento respectivo.
+VII. Nombrar a los Servidores Públicos de la Secretaría del Congreso y de la Contaduría Mayor de Hacienda, cuyos nombramientos serán considerados en el siguiente periodo de sesiones del Congreso, para su ratificación o rectificación, en los términos de la Ley Reglamentaria respectiva.
 
 ###### Art. 26.
 
@@ -387,7 +381,9 @@ De las Facultades y Obligaciones del Gobernador.
 
 El Gobernador entrará a ejercer su encargo el primer día de marzo posterior a su elección, durará en él seis años y nunca podrá ser reelecto.
 
-El Ciudadano que haya desempeñado el Poder Ejecutivo como Gobernador substituto o interino no podrá ser electo para el período inmediato; pudiendo serlo para completar el período en que funcione, siempre que se separe cuando menos con treinta días antes de la elección.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
+
+El ciudadano que haya desempeñado el Poder Ejecutivo como Gobernador substituto o interino, no podrá ser electo para el período inmediato, debiéndose estar en todo caso a lo dispuesto por el Art. 115 de la Constitución General de la República.
 
 En caso de que el substituto funcione por licencia concedida al Gobernador, no quedará impedido para ser electo en el período inmediato, siempre que no estuviere en el desempeño del cargo, noventa días antes de celebrarse la elección.
 
@@ -507,6 +503,8 @@ XVII. Celebrar convenios con los Gobiernos Federal y de los Estados, para que lo
 
 ### CAPITULO UNICO. Del Poder Judicial
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
+
 ###### Art. 36.
 
 Es base de la división territorial y de la organización política y administrativa del estado de Jalisco, el Municipio Libre investido de personalidad jurídica y patrimonio propio, con las facultades y limitaciones establecidas en la Constitución Política de los Estados Unidos Mexicanos y los siguientes fundamentos:
@@ -595,13 +593,33 @@ Cuando dos o más centros urbanos situados en el territorio de dos o más munici
 
 ###### Art. 39.
 
-El Poder Judicial del Estado, se deposita en el Supremo Tribunal de Justicia, Jueces de Primera Instancia, Jueces Menores, Jueces de Paz, y Jurados.
+El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, jueces de Primera Instancia, jueces menores, jueces de paz y jurados.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 1939)</small>
+La función jurisdiccional en materia administrativa, incluyendo la fiscal, estará a cargo del Tribunal de lo Contencioso Administrativo del Estado.
+
+La función jurisdiccional para resolver las controversias entre el Estado, los municipios, los Organismos Descentralizados y Empresas de Participación Mayoritaria de ambos con sus servidores, en materia laboral, estará a cargo del Tribunal de Arbitraje y Escalafón.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
 
 ###### Art. 40.
 
-El Supremo Tribunal de Justicia funcionará en acuerdo pleno o en Salas, con el número de Magistrados que fije la Ley.
+El Supremo Tribunal de Justicia funcionará en acuerdo pleno o en salas, con el número de Magistrados que fije la Ley, y le corresponden las siguientes atribuciones:
+
+I. Conocer de todas las controversias del orden criminal, civil y de lo familiar;
+
+II. Resolver los conflictos de competencia que se susciten entre los Tribunales a que se refiere el artículo anterior;
+
+III. Formular su Reglamento Interior;
+
+IV. Nombrar los jueces;
+
+V. Permitir que se proceda criminalmente contra los jueces;
+
+VI. Conceder licencias a los jueces para que se separen de sus cargos y admitir las renuncias de los mismos;
+
+VII. Conceder licencias a los Magistrados hasta por dos meses, para que se separen del ejercicio de sus funciones, y llamar a los suplentes por el orden que crea conveniente; y
+
+VIII. Nombrar y remover, en la forma que determinen las leyes, a los demás servidores públicos del Poder Judicial.
 
 ###### Art. 41.
 
@@ -613,23 +631,37 @@ II. Ser abogado con título oficial, y tener cuando menos cinco años de prácti
 
 III. Tener treinta años cumplidos el día de la elección; estar en el pleno ejercicio de sus derechos políticos y civiles, y haber observado una conducta pública notoriamente buena.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1948)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 1983)</small>
 
 ###### Art. 42.
 
-Los nombramientos de los Magistrados al Supremo Tribunal de Justicia serán expedidos por el Gobernador y sometidos a la consideración del Congreso, el que otorgará o negará su aprobación dentro del improrrogable término de cinco días. Si no lo hiciere dentro de ese plazo, se tendrán por aprobados los nombramientos. Cuando el Congreso rechazare alguno, el Gobernador propondrá una terna de candidatos, uno de los cuales deberá ser electo por la Cámara dentro de cinco días. Si en ese tiempo no se hace la elección, el Gobernador expedirá el nombramiento definitivo en favor de cualquiera de los que hubieren figurado en la terna.
+Los nombramientos de los Magistrados al Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo serán expedidos por el Gobernador, y sometidos a la consideración del Congreso, el que otorgará o negará su aprobación, dentro del improrrogable término de 15 días. Si no lo hiciere dentro de este plazo, se tendrán por aprobados los nombramientos. Cuando el Congreso rechazare alguno, el Gobernador propondrá una terna de candidatos, uno de los cuales deberá ser electo por la Cámara, dentro de cinco días. Si en ese tiempo no se hace la elección, el Gobernador expedirá el nombramiento definitivo en favor de cualquiera de los que hubiesen figurado en la terna.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1948)</small>
 
 No aceptado alguno de los tres por el Congreso, el Ejecutivo nombrará definitivamente a otra persona que no hubiere sido propuesta para la misma vacante.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1948)</small>
+
 Cuando ocurra alguno de los casos previstos en el párrafo que antecede durante los recesos del Congreso, la Diputación Permanente ejercerá con carácter provisional, las atribuciones que se asignan a aquél. Las determinaciones que tome serán sometidas a la Cámara en el Período inmediato de sesiones.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1948)</small>
 
 Los Magistrados y los Jueces durarán en el cargo seis años, a partir del primero de abril del año en que se inicie el período constitucional del Ejecutivo.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1948)</small>
+
 Los que fueren designados en el curso del período durarán solamente hasta la conclusión del mismo.
 
-Los Magistrados y Jueces sólo podrán ser destituidos previo juicio de responsabilidad, cuando observen mala conducta, o cuando pierdan alguna de las cualidades que para esos cargos exige la Ley. Las causas de destitución serán calificadas: de los Magistrados, por el Congreso, y de los Jueces por el Supremo Tribunal de Justicia.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
+
+Los Magistrados y Jueces sólo podrán ser destituidos o inhabilitados, previo el juicio correspondiente que establece el Título Séptimo de esta Constitución.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1948)</small>
 
 Independientemente de lo dispuesto en el párrafo anterior, el Gobernador podrá pedir al Congreso la destitución de cualquier Magistrado o juez por alguna de las causas enunciadas. Si el Congreso declara, por mayoría absoluta de votos justificada la petición, el funcionario acusado quedará privado desde luego de su puesto, sin perjuicio de que se le haga efectiva la responsabilidad en que hubiere incurrido.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1948)</small>
 
 El Gobernador aceptará las renuncias de los Magistrados y les concederá licencias por más de dos meses, pero sus actos deberán ser ratificados por el Congreso o por la Comisión Permanente.
 
@@ -637,33 +669,33 @@ El Gobernador aceptará las renuncias de los Magistrados y les concederá licenc
 
 Los Jueces de Primera Instancia, Menores y de Paz, serán nombrados por el Supremo Tribunal de Justicia, en los términos que fije la Ley orgánica respectiva.
 
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1983)</small>
+
+Para ser juez de Primera Instancia se necesita ser abogado con Título Oficicial (sic) registrado.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
+
 ###### Art. 44.
 
-Para se Juez de Primera Instancia se necesita ser abogado con título oficial.
+La Ley organizará los tribunales y el Ministerio Público, así como lo relativo a los Jurados y al Sistema de Ayuda Legal.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
 
 ###### Art. 45.
 
-La Ley organizará los Tribunales y el Ministerio Público, así como lo relativo a Jurados.
+El Tribunal de lo Contencioso Administrativo estará dotado de plena autonomía para dictar sus resoluciones y tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten, entre las autoridades del Estado, municipales y de los organismos descentralizados de ambos, con los particulares. Igualmente, de las que surjan entre el Estado y los municipios, o de éstos entre sí.
+
+La Ley Orgánica del Tribunal de lo Contencioso Administrativo que al efecto se expida, establecerá las normas para su organización y funcionamiento; los procedimientos y los recursos contra las resoluciones que dicte.
+
+Para el conocimiento, por parte de dicho Tribunal, de las controversias administrativas y fiscales de índole Municipal, se requerirá de previo convenio que celebren los Ayuntamientos respectivos, con el Ejecutivo del Estado.
+
+Serán aplicables a los Magistrados del Tribunal de lo Contencioso Administrativo, las disposiciones legales relativas a los del Supremo Tribunal de Justicia; contenidas en esta Constitución y en otros ordenamientos jurídicos; pero, en lo referente a los requisitos para su designación, deberán satisfacer además lo que señale la Ley Orgánica del Tribunal de lo Contencioso Administrativo.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
 
 ###### Art. 46.
 
-Corresponde exclusivamente al Tribunal de Justicia:
-
-I. Formar su Reglamento Interior.
-
-II. Nombrar los Jueces.
-
-III. Permitir que se proceda criminalmente contra los Jueces.
-
-IV. Conocer de los procesos que por delitos oficiales, se sigan contra el Gobernador, los Diputados, el Secretario de Gobierno, el Procurador de Justicia y los Munícipes.
-
-V. Conceder licencias a los Jueces para que se separen de sus cargos y admitir las renuncias de los mismos.
-
-VI. Conceder licencia a los Magistrados hasta por dos meses para que se separen del ejercicio de sus funciones y llamar a los suplentes por el orden que crea conveniente.
-
-VII. Nombrar y remover en la forma que determinen las leyes, a los demás empleados y subalternos del Poder Judicial.
-
-VIII. Nombrar de entre los Magistrados suplentes, periódicamente, uno o más Visitadores de Juzgados, con la retribución que asigne el Presupuesto Respectivo.
+Corresponde al Tribunal de Arbitraje y Escalafón conocer de las controversias que se susciten entre el Estado, los municipios y los Organismos Descentralizados de ambos, con sus servidores, con motivo de la relación de trabajo y se regirá por la Ley para los Servidores Públicos del estado de Jalisco y por todas las demás Leyes y Reglamentos de la materia.
 
 ###### Art. 47.
 
@@ -791,33 +823,45 @@ Toda elección popular será directa en los términos de la Ley, exceptuando las
 
 Nadie puede ejercer dos o más cargos de elección popular, debiendo optar el ciudadano electo por alguno de ellos.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
+
 ###### Art. 61.
 
-Todo cargo o empleo público es incompatible con alguno otro de la Federación o del Estado, cuando por ambos se perciba sueldo, salvo los de los ramos de Instrucción y Beneficencia.
-
-Los Diputados en ejercicio durante el período de su encargo, sean propietarios o suplentes, no podrán desempeñar ninguna otra comisión o empleo del Estado o Federal por los cuales se disfrute sueldo o gratificación, sino con licencia previa del Congreso; pero entonces cesarán en sus funciones respectivas mientras dure la nueva ocupación. Se exceptúan los empleos de Instrucción, de Beneficencia, las comisiones de carácter científico y las que se tengan en oficinas que no dependan inmediatamente del Ejecutivo, las cuales se pueden desempeñar sin perder el carácter de Diputado, siempre que así lo acuerde el Congreso al conceder la licencia. La infracción de estas disposiciones será castigada con la pérdida del cargo.
-
-Los magistrados propietarios aun cuando gocen de licencia, y los suplentes en ejercicio por más de dos meses, además del impedimento a que se refiere el párrafo primero de este artículo, no podrán ejercer su profesión de abogado, ni patrocinar negocios judiciales ante los Tribunales. Los Magistrados en funciones pueden aceptar comisiones de carácter científico, literarias y de beneficencia, con permiso del Congreso, quien dirá al concederlo, si cesan en sus funciones mientras dure la nueva comisión. La infracción de estas disposiciones será castigada con la pérdida del cargo.
-
-###### Art. 62.
-
-Los cargos de elección popular directa son preferentes a los de nombramiento y renunciables solo por causa grave que calificará la Corporación a quien toque conocer de las renuncias.
+Los cargos de elección popular directa son preferentes a los de nombramiento, y renunciables sólo por causa grave que calificará la corporación a quien corresponda conocer de la renuncia.
 
 Los demás cargos serán aceptables voluntariamente.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
+
+###### Art. 62.
+
+Todo cargo o empleo público es incompatible con algún otro de la Federación o del Estado cuando por ambos se perciba sueldo, salvo los de los ramos de Instrucción y Beneficencia.
+
+Los Diputados, durante el período de su encargo, sean propietarios o suplentes en ejercicio, no podrán desempeñar ninguna otra comisión o empleo del Estado o Federal, por los cuales se disfrute sueldo o gratificación, sino con licencia previa del Congreso; pero, entonces, cesarán en sus funciones respectivas mientras dure la nueva ocupación. Se exceptúan los empleos de Instrucción, de Beneficencia, las comisiones de carácter científico y las que se tengan en oficinas que no dependen inmediatamente del Ejecutivo, las cuales se pueden desempeñar, sin perder el carácter de Diputados, siempre que así lo acuerde el Congreso al conceder la licencia. La infracción de estas disposiciones será castigada con la pérdida del cargo.
+
+Los Magistrados propietarios, aún cuando gocen de licencia, y los suplentes en ejercicio por más de dos meses, además del impedimento a que se refiere el párrafo primero de este Artículo, no podrán ejercer su profesión de abogados ni patrocinar negocios judiciales ante los Tribunales. Los Magistrados en funciones pueden aceptar cargos de instrucción y comisiones de carácter científico, literarias y de beneficencia, con permiso del Congreso, quien dirá al concederlo si cesan en sus funciones mientras dure la nueva comisión. La infracción de estas disposiciones será castigada con la pérdida del cargo.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
+
 ###### Art. 63.
 
-Los funcionarios que entren a ejercer su encargo después del día señalado por esta Constitución o por las leyes, como principio del período que les corresponde, sólo durarán en sus funciones el tiempo que les faltare para cumplir dicho período.
+Cuando por circunstancias imprevistas no pudiere instalarse el Congreso o el Supremo Tribunal de Justicia, ni el Gobernador tomar posesión de su cargo, el día fijado por esta Constitución, lo hará luego que sea posible.
+
+Los servidores públicos que entren a ejercer su encargo después del día señalado por esta Constitución o por las Leyes, como principio del período que les corresponde, sólo durarán en sus funciones el tiempo que les faltare para cumplir dicho periodo.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
 
 ###### Art. 64.
 
-Cuando por circunstancias imprevistas no pudiere instalarse el Congreso o el Supremo Tribunal de Justicia, ni el Gobernador tomar posesión de su encargo el día fijado por esta Constitución, lo harán luego que sea posible.
+Ninguna autoridad impondrá préstamos forzosos, ni las oficinas harán gasto alguno que no conste en los presupuestos o que no sea aprobado por el Congreso. La infracción de este artículo hace responsables tanto a las autoridades que la manden, como a los servidores públicos que la obedezcan.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
 
 ### CAPITULO CUARTO. De la inviolabilidad de esta Constitución
 
 ###### Art. 65.
 
-Ninguna autoridad impondrá préstamos forzosos, ni las oficinas harán gasto alguno que no conste en los Presupuestos o que no sea aprobado por el Congreso. La infracción de este artículo hace responsables tanto a las autoridades que la manden, como a los empleados que la obedezcan.
+Las relaciones laborales del Estado, de los municipios y de los organismos descentralizados de ambos con sus servidores, se regirán por la Ley para los Servidores Públicos del estado de Jalisco, respetando las disposiciones fundamentales del Art. 123 y sus Leyes Reglamentarias, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Art. 66.
 
@@ -1000,5 +1044,13 @@ P.O. 7 DE JULIO DE 1983.
 Primero.- Envíese el presente Decreto a los Ayuntamientos de la Entidad, en los términos y para los efectos del Art. 66 de la Constitución Política del Estado.
 
 Segundo.- Este Decreto entrará en vigor el día de su publicación en el Periódico oficial El Estado de Jalisco, incluyendo la Declaratoria a que se refiere el Art. 66 de la Constitución Política del Estado.
+
+Tercero.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE JULIO DE 1983.
+
+Primero.- Envíese el presente Decreto a los Ayuntamientos del Estado, en los términos y para los efectos de lo dispuesto en el Art. 66 de la Constitución Política del Estado.
+
+Segundo.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial El Estado de Jalisco, incluyendo la declaratoria a que se refiere el Art. 66 de la Constitución Política del Estado.
 
 Tercero.- Se derogan las disposiciones que se opongan al presente Decreto.
