@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1999-04-01"
+last_updated: "1999-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 1999.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -115,9 +115,11 @@ Las Leyes, Reglamentos y demás disposiciones fiscales de alcance general, entra
 
 Las normas de derecho tributario que establezcan cargas a los particulares y las que señalen excepciones a las mismas, serán de aplicación estricta.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 1999)</small>
+
 ###### Art. 15.
 
-El Congreso del Estado expedirá las Leyes de Ingresos para todos los Municipios, en las que se determinarán las tarifas, cuotas y tasas con que deba afectarse cada una de las fuentes especificadas por esta Ley y, en su caso, las bases para su fijación.
+El Congreso del Estado aprobará a más tardar al día treinta de noviembre de cada año, las leyes de ingresos de los municipios, en las que se determinarán las tarifas, cuotas y tasas con que deba afectarse cada uno (sic) de las fuentes específicas por esta ley y, en su caso, las bases para su fijación.
 
 > <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 1998)</small>
 
@@ -1733,8 +1735,6 @@ Quedan comprendidos dentro de este capítulo, los ingresos que obtenga el Erario
 
 Art. 194 bis. Las aportaciones federales para fines específicos que a través de los diferentes fondos le corresponden al Municipio, se percibirán en los términos que establezcan el Presupuesto de Egresos de la Federación, la Ley de Coordinación Fiscal y los convenios respectivos.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 1998)</small>
-
 ###### Art. 193.
 
 Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Municipio por concepto de:
@@ -1773,9 +1773,11 @@ XIII. Otros no especificados.
 
 Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Municipio por concepto de Participaciones Federales y Estatales, de conformidad a lo dispuesto en las Leyes que las concedan y en los convenios que, en su caso, se celebren o se hayan celebrado.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 1998)</small>
 
 ## TITULO SEXTO. De las Aportaciones Federales para Fines Específicos
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 1998)</small>
 
 ### CAPITULO UNICO. Del Gasto Público
 
@@ -3012,5 +3014,9 @@ P.O. 25 DE FEBRERO DE 1999.
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 1 DE ABRIL DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 3 DE JUNIO DE 1999.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
