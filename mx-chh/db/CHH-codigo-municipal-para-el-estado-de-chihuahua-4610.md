@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2004-10-30"
+last_updated: "2004-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2004.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -657,9 +657,13 @@ XXXVIII.- Intervenir en la formulación y aplicación de programas de transporte
 
 XXXIX.- Celebrar convenios para la administración y custodia de zonas federales;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
 
-XL.- Las demás que le confieren las leyes y sus reglamentos.
+XL.- Aprobar el anteproyecto de tablas de valores unitarios de suelo y construcciones que expida la autoridad catastral municipal, mismas que servirán de base para el cálculo de los impuestos que gravan la propiedad inmobiliaria y someterlo a la consideración del Congreso del Estado, antes del día treinta y uno de octubre del año anterior al ejercicio, para su aprobación y posterior publicación en el Periódico Oficial del Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+XLI.- Las demás que les confieren las leyes y sus reglamentos.
 
 ### CAPITULO IV. ATRIBUCIONES DE LOS PRESIDENTES MUNICIPALES
 
@@ -2309,9 +2313,17 @@ b).- Los copropietarios y los coposeedores de bienes inmuebles sujetos a régime
 
 c).- Los fideicomitentes, mientras sean poseedores de predios objeto del fideicomiso o los fideicomisarios que estén en posesión del predio en cumplimiento del fideicomiso;
 
-d).- Los titulares de los derechos agrarios, sobre la propiedad ejidal o comunal, de conformidad con lo establecido en la Legislación Agraria;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
 
-e).- Los poseedores, que por cualquier título tengan el uso o goce de predios de la Federación, Estados o Municipios.
+d).- Los ejidos y comunidades, como persona moral de derecho social, respecto a las tierras de uso común, que conforman la dotación o restitución agraria:
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+e).- Los comuneros, ejidatarios y avecindados, respecto de las parcelas y lotes de las zonas de urbanización ejidal que posean;
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+f).- Los poseedores, que por cualquier título tengan el uso o goce de predios de la Federación, Estados o Municipios.
 
 II.- Con responsabilidad objetiva:
 
@@ -2345,17 +2357,59 @@ Si no lo hicieren, se tendrá como domicilio para los efectos de este impuesto, 
 
 #### SECCION II. DE LA BASE Y TASA
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 148.
 
-La base del impuesto es el valor catastral del inmueble, determinado por lo dispuesto en la Ley de Catastro del Estado.
+La base del impuesto es el valor catastral del inmueble, determinado por lo dispuesto en la Ley de Catastro del Estado, debiendo reflejar el valor de mercado de las propiedades.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 149.
 
-El impuesto se determinará anualmente, aplicando la tasa del 1% sobre la base, en los términos dispuestos por el artículo anterior.
+El impuesto se determinará anualmente, conforme a las siguientes tarifas:
+
+I. Predios urbanos
+
+LIMITES DE RANGO TASA DE RANGO CUOTA FIJA
+
+DE LA BASE (Aplicable sobre la VECES DEL
+
+DEL IMPUESTO porción del valor de SALARIO MINIMO
+
+la base que exceda (Suma fija a pagar
+
+VALOR CATASTRAL del límite del rango) por todo valor
+
+catastral mayor al
+
+VECES DEL SALARIO límite de rango)
+
+MINIMO
+
+0 2 al millar 0
+
+4000 3 al millar 8
+
+8000 4 al millar 20
+
+14000 5 al millar 44
+
+28000 6 al millar 114
+
+(VALOR CATASTRAL – LÍMITE DE RANGO MENOR MÁS PRÓXIMO CONVERTIDO A MONEDA NACIONAL) * TASA DE RANGO + CUOGTA FIJA CONVERTIDA A MONEDA NACIONAL = IMPUESTO PREDIAL DIRECTO ANUAL.
+
+El Impuesto Predial se calculará con el siguiente procedimiento aritmético:
+
+Al resultado de la diferencia del valor catastral del predio y el límite de rango menor más próximo convertido a moneda nacional, se le aplicará la tasa correspondiente al excedente de ese límite inferior y se le adicionará la cuota fija del mismo rango, convertida a moneda nacional.
+
+El salario mínimo que servirá de base para este cálculo, será el vigente para la capital del Estado, al treinta de noviembre del año anterior al ejercicio que se trate.
+
+II.- Para los predios rústicos la tasa de 2 al millar.
+
+III.- Para los fundos mineros la tasa de 2.5 al millar.
+
+El impuesto neto a pagar nunca será inferior al equivalente a dos salarios mínimos de la zona económica que corresponda.
 
 #### SECCION III. DE LAS EXENCIONES
 
@@ -3443,13 +3497,13 @@ P.O. 14 DE JUNIO DE 2003.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 21 DE JUNIO DE 2003.
+P.O. 16 DE JULIO DE 2003.
 
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 16 DE JULIO DE 2003.
+P.O. 19 DE JULIO DE 2003.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3459,7 +3513,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 Para la (sic) elecciones de las Juntas Municipales en la (sic) Secciones Municipales de "Bermúdez" y de "El Pilar", se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, en lo conducente y deberán llevarse a cabo las elecciones dentro de los 180 días siguientes a la entrada en vigor del presente decreto.
 
-P.O. 19 DE JULIO DE 2003.
+P.O. 21 DE JUNIO DE 2003.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3504,5 +3558,75 @@ Notifíquese el presente Decreto a los H. Ayuntamientos de la entidad para los e
 P.O. 30 DE OCTUBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor el primero de enero del año dos mil cinco.
+
+###### ARTÍCULO SEGUNDO.
+
+Únicamente para el ejercicio fiscal 2005, a partir del primero de enero, el valor catastral de los predios será actualizado por la autoridad catastral municipal, de manera general, estableciéndose como nuevo valor de cada cuenta, el equivalente a la cantidad que produzca el mismo Impuesto Predial directo anual causado en el 2004, tomando como factores las tasas y tarifas previstas en el artículo 149 del Código Municipal para el Estado de Chihuahua, que entrará en vigor el primero de enero de 2005.
+
+La actualización de cada cuenta de los predios urbanos será la que resulte de aplicar la siguiente fórmula:
+
+IMPUESTO CAUSADO 2004 - CUOTA FIJA + LÍMITE INFERIOR DEL RANGO =
+
+NUEVO VALOR CATASTRAL TASA APLICABLE.
+
+Para determinar las variables de la fórmula, se utilizará la siguiente matriz.
+
+VARIABLE POR CADA CONSTANTES POR CADA RANGO
+
+CUENTA
+
+IMPUESTO CAUSADO CUOTA LIMITE TASA
+
+2004 FIJA INFERIOR APLICABLE
+
+DEL RANGO
+
+De 0.01 hasta 336.88 0 0 .002
+
+De 336.89 hasta 842.20 336.88 168,440 .003
+
+De 842.21 hasta 1,852.84 842.20 336,880 .004
+
+De 1,852.85 hasta 4,800.54 1,852.84 589.540 .005
+
+De 4,800.55 en adelante 4,800.54 1,179,080 .006
+
+Las variables de la fórmula se definen de la siguiente manera:
+
+IMPUESTO CAUSADO 2004: Es el Impuesto Predial directo anual que causa, sin descuentos ni recargos o sanciones, cada cuenta del padrón al 31 de diciembre de 2004, aplicando las tasas correspondientes a ese ejercicio.
+
+CUOTA FIJA: Es el pago fijo expresado en moneda nacional de cada límite de rango en la tarifa para el pago del Impuesto Predial urbano, prevista en el artículo 149 del Código Municipal, que entrará en vigor en el ejercicio 2005.
+
+LÍMITE INFERIOR DEL RANGO: Son límites de rango expresados en pesos de la tarifa para el cálculo del Impuesto Predial, prevista por el artículo 149 del Código Municipal para el ejercicio 2005.
+
+TASA APLICABLE: Son las tasas progresivas por grados, que se aplicarán para el cálculo del Impuesto Predial a partir del año 2005.
+
+Para los predios rústicos:
+
+IMPUESTO CAUSADO 2004 = NUEVO VALOR CATASTRAL
+
+.002
+
+Para los fundos mineros: = NUEVO VALOR CATASTRAL
+
+IMPUESTO CAUSADO 2004
+
+.0025
+
+###### ARTÍCULO TERCERO
+
+Las actualizaciones que resulten de la aplicación del artículo transitorio anterior, serán impugnables en los términos del artículo 32 de la Ley de Catastro del Estado de Chihuahua.
+
+###### ARTÍCULO CUARTO
+
+Todos los municipios deberán realizar una investigación con la participación de peritos valuadores autorizados, a fin de obtener el Estudio Integral de Valores de Mercado y con base en ello elaborarán las tablas de valores, que someterán a la consideración del Congreso del Estado, en los términos de este decreto, para entrar en vigor en el año 2006. Así mismo, realizarán un programa intensivo de actualización catastral para captar predios omisos y nuevas construcciones.
+
+La inobservancia de lo anterior será sancionado en los términos del artículo 23, fracciones XVII y XVIII de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
 
 ## TRANSITORIOS
