@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1918-11-09"
+last_updated: "1921-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 1918
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 1921.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -1247,7 +1247,9 @@ Para ser Secretario de Gobierno se requiere:
 
 I.- Ser mexicano por nacimiento, en el goce de sus derechos políticos y civiles;
 
-II.- Ser mayor de 30 años;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 1921)</small>
+
+II.- Ser ciudadano queretano;
 
 III.- No pertenecer al estado eclesiástico, ni ser ministro de alguna religión o secta.
 
@@ -1326,6 +1328,10 @@ N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRET
 P.O. 9 DE NOVIEMBRE DE 1918
 
 N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION , NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+
+P.O. 21 DE MAYO DE 1921
+
+N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
 ###### Art. 2º.
 
