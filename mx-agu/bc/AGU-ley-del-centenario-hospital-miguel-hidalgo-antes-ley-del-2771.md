@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-centenario-hospital-miguel-hidalgo-antes-ley-del-2771"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-20"
-last_updated: "1988-12-18"
+last_updated: "1989-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL HOSPITAL HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1989.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 20 de diciembre de 1987.
 
@@ -39,25 +39,29 @@ La H. LIII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de 
 
 LEY DEL HOSPITAL HIDALGO
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1989)</small>
+
 ###### ARTICULO 1o.
 
-Se crea el Hospital Miguel Hidalgo como un organismo dependiente de la Administración Pública Estatal, sujeto a las disposiciones del presente Ordenamiento.
+Se crea el Hospital Miguel Hidalgo como un organismo del Poder Ejecutivo del Estado dependiente en lo técnico y operativo del Instituto de Salud del Estado de Aguascalientes, sujeto a las disposiciones del presente ordenamiento.
 
 Su domicilio será la ciudad de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1989)</small>
 
 ###### ARTICULO 2o.
 
 El Hospital Hidalgo tendrá por objeto:
 
-I.- Prestar atención médica a la población abierta que lo requiera;
+I.- Prestar atención médica a la población abierta que lo requiera, de acuerdo a las disposiciones de la Ley Estatal de Salud y de las políticas y programas del Instituto de Salud del Estado de Aguascalientes;
 
-II.- Formular y desarrollar los programas de atención a usuarios, de conformidad con las normas, políticas y estrategias que establezcan en sus respectivos ámbitos de competencia, el Ejecutivo Federal a través de la Secretaría de Salud y el Gobierno Estatal;
+II.- Desarrollar los programas de atención a usuarios, de conformidad con las normas, políticas y estrategias que establezcan en sus respectivos ámbitos de competencia el Ejecutivo Federal a través de la Secretaría de Salud y el Gobierno del Estado a través del Instituto de Salud del Estado de Aguascalientes;
 
-III.- Apoyar los programas de salud pública que determinen las autoridades del Gobierno del Estado y Federales, formando parte del Sistema Regionalizado de Salud de la población abierta;
+III.- Apoyar los programas de salud pública que determinen las autoridades del Gobierno del Estado y federales, formando parte del Sistema Regionalizado de Salud a la población abierta;
 
-IV.- Apoyar la formación y capacitación de recursos humanos para la salud, en coordinación con las autoridades educativas del Estado y la Secretaría de Salud; y
+IV.- Apoyar la formación y capacitación de recursos humanos para la salud, en coordinación con las autoridades de la Secretaría de Salud, del Instituto de Salud del Estado de Aguascalientes y de las autoridades educativas del Estado; y
 
-V.- Apoyar los Programas de Investigación en el campo de la salud, en la medida de sus esfuerzos.
+V.- Apoyar los programas de investigación en el campo de la salud, de acuerdo a las normas vigentes y a las políticas del Instituto de Salud del Estado de Aguascalientes.
 
 ###### ARTICULO 3o.
 
@@ -83,21 +87,27 @@ V.- Las cuotas que por sus servicios recaude; y
 
 VI.- En general los demás bienes, derechos y recursos que adquiera por cualquier título legal.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1989)</small>
+
 ###### ARTICULO 6o.
 
-El Hospital Miguel Hidalgo gozará de autonomía en su organización interna, en su funcionamiento y en el manejo de los recursos que le sean asignados, sin más limitaciones que las que provengan de las decisiones de la Junta de Gobierno y de las leyes aplicables.
+El Hospital Miguel Hidalgo gozará de autonomía en su organización interna, en su funcionamiento y en el manejo de los recursos que les sean asignados, sin más limitaciones que las que provengan de las decisiones y de las políticas administrativas de sus órganos de gobierno y de las leyes aplicables.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1989)</small>
 
 ###### ARTICULO 7o.
 
 Los órganos de gobierno del Hospital Hidalgo serán:
 
-I.- La Junta de Gobierno, y
+I.- El Gobernador del Estado; y
 
-II.- La Dirección General.
+II.- La Dirección General del Instituto de Salud del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1989)</small>
 
 ###### ARTICULO 8o.
 
-El Hospital Hidalgo contará con un Consejo Técnico y un Patronato como órganos auxiliares de asesoría y apoyo de la Dirección General.
+El Hospital Hidalgo contará con una Junta de Gobierno, un Consejo Técnico y un Patronato como órganos auxiliares de asesoría y apoyo de la Dirección General.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1988)</small>
 
@@ -109,29 +119,25 @@ Cada miembro titular designará a quien lo supla en sus ausencias.
 
 Los miembros de la Junta de Gobierno desempeñarán sus cargos con carácter honorífico y por lo tanto, sin retribución o compensación alguna.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1989)</small>
+
 ###### ARTICULO 10.
 
 La Junta de Gobierno tendrá las siguientes facultades:
 
-I.- Conocer, aprobar y emitir recomendaciones sobre el programa de trabajo, presupuesto, informes y estados financieros del Hospital que proponga o elabore el Director General;
+I.- Conocer y emitir recomendaciones sobre el programa de trabajo, presupuesto, informes y estados financieros del Hospital que proponga o elabore el Director General;
 
-II.- Aprobar el Estatuto Orgánico y los Manuales de Organización, de Procedimientos y de Servicios de Hospital;
+II.- Analizar y opinar sobre el Estatuto Orgánico y los Manuales de Organización, de Procedimientos y de Servicios del Hospital.
 
-III.- Fijar y ajustar las cuotas de recuperación por los servicios que preste el Hospital;
+III.- Opinar sobre el ajuste de las cuotas de recuperación por los servicios que preste el Hospital;
 
-IV.- Aprobar, de conformidad con las disposiciones legales y reglamentarias aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos y acuerdos que deba celebrar el Hospital con terceros, respecto a obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles;
+IV.- Analizar y sugerir sobre la estructura orgánica del Hospital y las modificaciones que a la misma procedan;
 
-V.- Aprobar la estructura orgánica del Hospital y las modificaciones que a la misma procedan.
+V.- Sugerir la creación de comités de apoyo;
 
-VI.- Autorizar la creación de Comités de Apoyo;
+VI.- Conocer y opinar en relación a los cambios en la Dirección General del Hospital, previa consulta con los órganos de gobierno del mismo; y
 
-VII.- Nombrar y remover a propuesta de su Presidente, al Director General del Hospital;
-
-VIII.- Designar, promover y remover, a propuesta del Director General, al Subdirector Médico, y al Administrador del Hospital.
-
-IX.- Fijar los lineamientos a que se deberán sujetar los convenios, contratos y demás actos jurídicos que se celebren con dependencias y entidades federales y estatales, así como organismos de los sectores social y privado; y
-
-X.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
+VII.- Las demás que le sean delegadas por los órganos de gobierno y que fueren necesarias para el ejercicio de las facultades anteriores.
 
 ###### ARTICULO 11.
 
@@ -139,57 +145,69 @@ La Junta de Gobierno celebrará como mínimo cuatro sesiones ordinarias al año 
 
 La Junta sesionará válidamente con la asistencia de por lo menos la mitad más uno de los miembros; los acuerdos se tomarán por mayoría de votos de los miembros presentes y el Presidente tendrá voto de calidad en caso de empate.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1989)</small>
+
 ###### ARTICULO 12.
 
-El Director General será nombrado por la Junta de Gobierno, a propuesta del Presidente de la misma.
+El Director General será nombrado y removido por el Gobernador del Estado.
 
 ###### ARTICULO 13.
 
 El Director General será mexicano por nacimiento, con título profesional de Médico Cirujano, expedido cinco años antes de su designación y con experiencia en dirección y administración de hospitales.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1989)</small>
+
 ###### ARTICULO 14.
 
-El Director General tendrá las siguientes facultades:
+Los órganos de gobierno tendrán las siguientes facultades:
 
-I.- Administrar el Hospital y actuar como representante legal del mismo con facultades generales para actos de administración y para pleitos y cobranzas, así como para realizar aquellos actos que requieran cláusula especial, conforme a las leyes, incluyendo la sustitución de poder, exclusivamente para pleitos y cobranzas, formular querellas y otorgar perdón judicial;
+I.- Administrar el Hospital de acuerdo a las políticas administrativas y reglamentarias del Instituto de Salud del Estado de Aguascalientes;
 
-II.- Ejecutar los acuerdos y disposiciones de la Junta de Gobierno y atender sus recomendaciones;
+II.- Presentar para su conocimiento a la Junta de Gobierno, los planes de labores, presupuestos, informes de utilidades y estados financieros del Hospital;
 
-III.- Presentar para su aprobación a la Junta de Gobierno, los planes de labores, presupuestos, informes de utilidades y estados financieros del Hospital;
+III.- Autorizar de conformidad con las disposiciones legales y reglamentarias aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos y acuerdos que deba celebrar el Hospital con terceros, respecto a obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles;
 
-IV.- Celebrar convenios, contratos y demás actos jurídicos que sean necesarios para el cumplimiento del objeto del Hospital, informando de ello a la Junta de Gobierno;
+IV.- Celebrar convenios, contratos y demás actos jurídicos que sean necesarios para el cumplimiento del objeto del Hospital;
 
-V.- Informar a la Junta de Gobierno sobre los proyectos de inversión;
+V.- Fijar los lineamientos a que se deberán sujetar los convenios, contratos y demás actos jurídicos que se celebren con dependencias y entidades federales y estatales, así como organismos de los sectores social y privado;
 
-VI.- Dar a conocer a la Junta de Gobierno los informes, dictámenes y recomendaciones del auditor externo, así como los informes y estados financieros bimestrales del Hospital;
+VI.- Informar a la Junta de Gobierno sobre los proyectos de inversión;
 
-VII.- Aplicar y vigilar la correcta ejecución del gasto presupuestal autorizado;
+VII.- Dar a conocer a la Junta de Gobierno los informes, dictámenes y recomendaciones del Auditor Externo, así como los informes y estados financieros bimestrales del Hospital;
 
-VIII.- Planear, dirigir, organizar y evaluar el desarrollo de los Programas del Hospital;
+VIII.- Aplicar y vigilar la correcta ejecución del gasto presupuestal autorizado;
 
-IX.- Fomentar la investigación científica y la función docente;
+IX.- Planear, dirigir, organizar y evaluar el desarrollo de los programas del Hospital;
 
-X.- Presidir las reuniones científicas que se realicen dentro del Hospital;
+X.- Fomentar la investigación científica y la función docente;
 
-XI.- Promover y fomentar las relaciones científicas con otras instituciones hospitalarias, sociedades médicas y las instituciones educativas que impartan conocimientos en el área de la salud;
+XI.- Presidir las reuniones científicas que se realicen dentro del Hospital;
 
-XII.- Presidir el Consejo Técnico del Hospital;
+XII.- Promover y fomentar las relaciones científicas con otras instituciones hospitalarias, sociedades médicas y las instituciones educativas que impartan conocimientos en el área de la salud;
 
-XIII.- Proponer a los integrantes de las Comisiones de investigación, Eticas y Bioseguridad a que se refiere el título sexto de la Ley de Salud, del Estado de Aguascalientes;
+XIII.- Presidir el Consejo Técnico del Hospital;
 
-XIV.- Solicitar el nombramiento del personal y llevar las relaciones laborales de acuerdo con las disposiciones legales;
+XIV.- Proponer para su autorización a la Junta de Gobierno a los integrantes de las Comisiones de Investigación, Etica y Bioseguridad a que se refiere el Título Sexto de la Ley de Salud del Estado de Aguascalientes;
 
-XV.- Asistir a las sesiones del Patronato del Hospital; y
+XV.- Proponer para su autorización a la Junta de Gobierno, el nombramiento del personal y llevar las relaciones laborales de acuerdo con las disposiciones legales y a las políticas administrativas del Instituto de Salud del Estado de Aguascalientes; y
 
-XVI.- Las demás que sean necesarias para el desempeño de las anteriores o que le delegue la Junta de Gobierno.
+XVI.- Las demás que sean necesarias para el desempeño de las anteriores.
+
+Los órganos de gobierno podrán delegar en forma total o parcial las facultades anteriores.
+
+El Director General del Hospital tendrá las facultades que le sean delegadas por los órganos de gobierno del mismo.
+
+Las Jefaturas de Enseñanza y Anatomía Patológica, serán nombradas por los órganos de gobierno, de una terna propuesta por la Universidad Autónoma de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1989)</small>
 
 ###### ARTICULO 15.
 
-El auditor externo es el Organo de Vigilancia del Hospital, será nombrado por la Contraloría General del Gobierno del Estado y tendrá las siguientes atribuciones:
+El Auditor Externo es el órgano de vigilancia del Hospital, será nombrado por la Contraloría General del Gobierno del Estado y tendrá las siguientes atribuciones:
 
 I.- Practicar las auditorías de los estados financieros y las de carácter administrativo que se requieran;
 
-II.- Recomendar a la Junta de Gobierno y al Director General, las medidas preventivas y correctivas que sean convenientes para el mejoramiento del Hospital; y
+II.- Recomendar a los órganos de gobierno del Hospital Hidalgo las medidas preventivas y correctivas que sean convenientes para el mejoramiento del Hospital; y
 
 III.- Asistir a las sesiones de la Junta de Gobierno con carácter informativo, con voz pero sin voto.
 
@@ -215,9 +233,11 @@ La Dirección General del Hospital tendrá como Organo de Asesoría a un Consejo
 
 El Consejo Técnico no tendrá facultades ejecutivas y se limitará a dar opinión sobre los asuntos concernientes al funcionamiento, desde el punto de vista técnico, médico y docente, que se sometan a su consideración.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1989)</small>
+
 ###### ARTICULO 20.
 
-Los gastos correspondientes a la operación del Hospital se cubrirán con los ingresos que se obtengan por los conceptos a que se refieren las fracciones II a IV del Artículo 5o. conforme al presupuesto de egresos aprobado por la Junta de Gobierno, en el que se contemplará una partida especial para la prestación de servicios sanitarios y asistenciales a indigentes.
+Los gastos correspondientes a la operación del Hospital se cubrirán con sus ingresos de acuerdo a las políticas administrativas aprobadas por los órganos de gobierno.
 
 ###### ARTICULO 21.
 
@@ -298,5 +318,9 @@ Lic. Héctor Valdivia Carreón.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 18 DE DICIEMBRE DE 1988.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 2 DE ABRIL DE 1989.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
