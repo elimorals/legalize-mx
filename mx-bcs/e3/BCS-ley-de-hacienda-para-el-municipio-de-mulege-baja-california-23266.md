@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-mulege-baja-california-232
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2001-11-05"
+last_updated: "2002-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MULEGE, BAJA CALIFORNIA SUR.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -179,31 +179,35 @@ Son sujetos por deuda ajena y responsabilidad solidaria, los propietarios de pre
 
 Son sujetos por deuda ajena y con responsabilidad y solidaria, los servidores públicos y empleados municipales, que indebidamente alteren los datos que sirvan de base para el cobro del impuesto Predial, o que posibiliten la evasión fiscal deliberadamente o bien, que expidan constancia de no existencia de adeudos fiscales, sin cerciorarse de la existencia de los mismos, sin perjuicio de las consecuencias administrativas y penales que por tales actos se deriven.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 21.
 
-El impuesto sobre la Propiedad Rústica, se causará sobre el valor catastral de los predios rústicos conforme a las siguientes tasas:
+El Impuesto Sobre la Propiedad Rústica, se causará sobre el Valor Catastral de los Predios Rústicos conforme a las siguientes tarifas:
 
-I. 10.04 al millar anual si están explotados por su dueño.
+I. 6.388 al millar anual si están explotados por su dueño.
 
-II. 19.5 al millar si no están explotados por su dueño.
+II. 12.408 al millar, si no están explotados por su dueño.
 
-En ningún caso el Impuesto Predial anual será inferior a dos salarios mínimos.
+En ningún caso el Impuesto Predial anual sobre propiedad rústica será inferior a tres salarios mínimos.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 22.
 
 El Impuesto Predial sobre la propiedad urbana se causará:
 
-I. A razón de 6.5 al millar anual sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación.
+I. A razón de 1.960 al millar anual sobre el Valor Catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación.
 
-II. A razón de 13 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
+II. A razón de 3.921 al millar sobre el Valor Catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
 
-III. A razón de 26 al millar sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un 2.6 al millar; hasta en tanto no sea construida una edificación. La tasa no excederá de 52 al millar.
+III. A razón de 16.545 al millar sobre el Valor Catastral de los predios no edificados o baldíos, incrementándose anualmente en un 1.651 al millar; hasta en tanto no sea construida una edificación. La Tasa no excederá de 33.06 al millar.
 
-IV. A razón del 13 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
+IV. A razón del 3.921 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
 
-Se considerará lote baldío aquél que teniendo construcciones, éstas representen menos del 50% del valor catastral del terreno.
+Se considera lote baldío aquél que teniendo construcciones éstas representen menos del 50% del Valor Catastral del terreno.
 
-En ningún caso el impuesto predial anual deberá ser inferior a dos salarios mínimos.
+En ningún caso el Impuesto Predial anual sobre la Propiedad Urbana deberá ser inferior a 3 salarios mínimos.
 
 ###### Artículo 23.
 
@@ -211,7 +215,9 @@ El Impuesto Predial se cubrirá en las Oficinas Recaudadoras correspondientes:
 
 I. Sobre la propiedad urbana, rústica y las plantas de beneficio, establecimientos metalúrgicos, por bimestres adelantados en los primeros diez días de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
 
-II. Si el impuesto anual equivale a dos salarios mínimos, previo estudio socio económico, podrá cubrirse hasta en dos exhibiciones iguales; la primera dentro del mes de enero y la segunda dentro del mes de julio del año que corresponda.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+II. Si el Impuesto anual equivale a 3 salarios mínimos, previo estudio socioeconómico, podrá cubrirse hasta en dos exhibiciones iguales; la primera dentro del mes de Enero y la segunda dentro del mes de Julio del año que corresponda.
 
 III. El Ayuntamiento podrá decidir a través de su órgano máximo de gobierno, que otra instancia distinta a la municipal recaude lo relativo al impuesto predial, en parcialidades de forma mensual y/o bimestral, en las cuales se pagará lo correspondiente a la doceava y/o sexta parte del monto anual que resulte de la tasa fijada en esta Ley, de acuerdo al valor comercial; dichos pagos se realizarán dentro de los primeros 10 días de cada mes.
 
@@ -2218,3 +2224,9 @@ C. LIC. LEONEL EFRAÍN COTA MONTAÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LAZÁRRAGA PERAZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 31 DE DICIEMBRE DE 2002.
+
+UNICO.- La presente Ley entrará en vigor el día primero del mes de Enero del año 2003, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, y su ámbito territorial de validez se circunscribe a la jurisdicción del Municipio de Mulegé, Baja California Sur.
