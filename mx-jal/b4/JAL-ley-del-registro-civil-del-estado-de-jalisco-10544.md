@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2001-07-21"
+last_updated: "2003-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2003.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -79,11 +79,15 @@ III. Las oficialías que sean necesarias para el cumplimiento eficaz de este ser
 
 La Dirección General del Registro Civil dependerá de la Secretaría General de Gobierno del Estado; en tanto que los oficiales jefes y las oficialías dependerán de los ayuntamientos.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2003)</small>
 
 ###### Artículo 6.
 
-La Dirección General del Registro Civil tendrá a su cargo el Archivo General en donde se conservarán los ejemplares de las actas y documentos relativos a las mismas, los que deberán de integrarse en expedientes relacionados conforme al número de acta que le corresponda. En caso de inscripción computarizada, se regirá conforme al procedimiento de guarda y distribución de las copias de respaldo informático que establezca el reglamento respectivo.
+La Dirección General del Registro Civil tendrá a su cargo el Archivo General, en donde se conservarán los ejemplares de las actas y documentos relativos a las mismas, los que deberán de integrarse en expedientes relacionados conforme al número de acta que les corresponda.
+
+En caso de inscripción computarizada, la consulta, conservación y distribución de esta información se regirá conforme al procedimiento que establezca el reglamento respectivo.
+
+> <small>(F. DE E., P.O. 8 DE ABRIL DE 2003)</small>
 
 La Dirección General del Registro Civil expedirá las certificaciones y extractos de las actas y documentos que se encuentren en sus archivos, conforme a las disposiciones de esta Ley y su Reglamento.
 
@@ -121,11 +125,11 @@ Quien sea designado, se aplicará de inmediato a recibir capacitación en los t�
 
 La Dirección General del Registro Civil organizará en forma permanente y periódica, reuniones de capacitación y evaluación con los oficiales del Registro Civil y asimismo todo tipo de actos y eventos, cuya finalidad sea la superación de la institución y actualización de sus servidores públicos.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2003)</small>
 
 ###### Artículo 13.
 
-Corresponde a la Dirección General del Registro Civil proponer al Gobernador, con estricta observancia al artículo 12 de la Ley Orgánica del Poder Ejecutivo del Estado, la celebración de convenios de coordinación en materia del Registro Civil, con las autoridades federales, estatales y municipales.
+Corresponde a la Dirección General del Registro Civil proponer al Gobernador, con estricta observancia del artículo 12 de la Ley Orgánica del Poder Ejecutivo del Estado, la celebración de convenios de coordinación en materia de Registro Civil, con las autoridades federales, estatales y municipales, especialmente con las instituciones encargadas de la seguridad social.
 
 ###### Artículo 14.
 
@@ -315,7 +319,9 @@ Para asentar los actos a que se refiere el artículo anterior, existirá un form
 
 Los formatos serán expedidos por la Dirección General del Registro Civil; los oficiales remitirán todas las copias que se generen a la misma Dirección, exceptuando el ejemplar del acta que se entrega al interesado y el original que se queda en la oficialía para formar los libros de cada uno de los actos.
 
-La citada Dirección será la encargada de formar el Archivo General y estará obligada a enviar las copias y la información que señalen las leyes respectivas a las autoridades federales.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2003)</small>
+
+La citada Dirección será la encargada de formar el Archivo General y estará obligada a enviar las copias y la información que señalen las leyes y los convenios que al efecto sean suscritos.
 
 ###### Artículo 33.
 
@@ -1180,3 +1186,9 @@ P.O. 5 DE OCTUBRE DE 2000.
 P.O. 21 DE JULIO DE 2001.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco."
+
+P.O. 4 DE MARZO DE 2003.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Ejecutivo del Estado en un término no mayor a 60 días deberá tomar las medidas administrativas pertinentes, para la correcta ejecución de lo contenido en el segundo párrafo del artículo 6.
