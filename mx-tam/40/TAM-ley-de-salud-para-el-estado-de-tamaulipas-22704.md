@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2001-11-27"
+last_updated: "2003-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -1139,6 +1139,18 @@ III.- Brindará la atención médica que se requiera a las personas que hayan in
 
 IV.- Promoverá campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por la inhalación de substancias tóxicas.
 
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2003)</small>
+
+V.- Prohibirá y vigilará la venta de sustancias inhalables con efectos psicotrópicos en los establecimientos que tengan como principal actividad:
+
+a) La reparación y aseo de calzado, fijos o ambulantes;
+
+b) La carpintería, ebanistería, encuadernación y tapicería;
+
+c) La hojalatería y pintura automotriz o similares; y
+
+d) Los que en sus procesos de producción o de prestación de servicios utilicen dichas sustancias o similares y que produzcan efectos análogos.
+
 ###### ARTICULO 103.
 
 Los establecimientos industriales, comerciales, de servicios, de artesanías y otras actividades que utilicen y vendan substancias inhalantes con acción psicotrópica y que no se ajusten al control que disponga la autoridad sanitaria, así como los responsables de los mismos, serán sujetos de la aplicación de las medidas de seguridad y sanciones que correspondan en los términos de esta ley.
@@ -1163,17 +1175,27 @@ DEL CONTROL SANITARIO DE LOS ESTABLECIMIENTOS QUE PROCESEN BEBIDAS NO ALCOHOLICA
 
 ### CAPITULO I. DE LAS AUTORIZACIONES SANITARIAS
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2003)</small>
+
 ###### ARTICULO 106.
 
 La autoridad sanitaria competente ejercerá el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas en estado natural, mezcladas o preparadas, para su consumo dentro de los mismos establecimientos. El procesamiento de estos productos deberá realizarse en condiciones higiénicas, sin adulteración o contaminación.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2003)</small>
+
 ###### ARTICULO 107.
 
-A los menores de edad, bajo ninguna circunstancia, se les deberá expender o suministrar bebidas alcohólicas. Cuando por la apariencia física de quien pretenda adquirirlas no sea evidente su mayoría de edad, se le deberá exigir identificación oficial; si omite presentarla, no se le podrán expender o servir los productos solicitados.
+En los establecimientos que expendan bebidas alcohólicas en cualquiera de sus presentaciones autorizadas, se exigirá que quienes pretendan adquirirlas demuestren ser mayores de edad, lo que se acreditará con identificación oficial, sin lo cual no se expenderán o servirán los productos solicitados. A los menores de edad, bajo ninguna circunstancia, se les podrán expender o suministrar bebidas alcohólicas.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 108.
 
-Para evitar el abuso, prevenir adicciones y riesgos en la salud por el consumo de bebidas alcohólicas en estado natural, mezcladas o preparadas, queda prohibido su expendio en la vía pública, en bolsas de cualquier material, con fines promocionales, y las barras libres.
+Queda prohibida la venta de bebidas alcohólicas en envase diverso o en cualquier presentación que no sea su original, preparadas o mezcladas para llevar, así como en barras libres o promociones diversas, independientemente de la denominación que se les dé, en los que sólo se cobren cuotas de recuperación o cuota única con derecho a ingerir indiscriminadamente bebidas alcohólicas, se cobren precios notoriamente inferiores al equivalente del precio regular al público de esas bebidas, o se expendan o suministren en modalidades que fomenten el consumo inmoderado de las mismas.
+
+Igualmente se prohíbe ofrecer, dar o suministrar, de manera gratuita, espontánea, voluntaria o por simple cortesía o acción semejante, cualquier tipo de bebidas de contenido alcohólico a los asistentes a bares, discotecas, centros de espectáculos o negocios afines o similares, que entrañe la incitación al consumo de las mismas.
+
+Queda prohibida toda competencia, concurso o actividad similar, sin importar el nombre que se le dé en que se invite, incite, suministre, practique o participe mediante el consumo de bebidas alcohólicas, sin importar el lugar en donde se pretenda realizar dicha actividad.
 
 ###### ARTICULO 109.
 
@@ -1233,15 +1255,21 @@ El responsable de la construcción, reconstrucción, modificación o acondiciona
 
 ###### ARTICULO 117.
 
-Las autorizaciones sanitarias serán otorgadas por la Secretaría, y tendrán el carácter de licencias, permisos, registros o tarjetas de control sanitario.
+Las autorizaciones sanitarias serán otorgadas por la Secretaría, y tendrán el carácter de licencias, constancias, permisos, registros o tarjetas de control sanitario.
 
 ###### ARTICULO 118.
 
 Las autorizaciones sanitarias serán otorgadas por tiempo determinado o indeterminado. Las autorizaciones por tiempo determinado podrán ser prorrogadas. Las autoridades sanitarias llevarán un registro de las autorizaciones concedidas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 2003)</small>
+
 ###### ARTICULO 119.
 
-Requieren licencia sanitaria los establecimientos siguientes:
+La Secretaría podrá expedir, entre otros, licencias o constancias, según se trate, a saber:
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2003)</small>
+
+A).- Requieren licencia sanitaria los establecimientos siguientes:
 
 I.- Los que presten servicios de atención médica, y de asistencia social;
 
@@ -1256,6 +1284,10 @@ V.- Los demás casos que se señalen en otras disposiciones legales aplicables.
 La licencia sanitaria deberá exhibirse en lugar visible del establecimiento.
 
 Las clínicas a que se hace referencia en la fracción II de este artículo son aquellas que proporcionan tratamientos faciales superficiales y profundos, tratamientos corporales manuales o con aparatos electromecánicos, depilación temporal y definitiva, y programas de reducción de peso por dietas o procedimientos diversos.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2003)</small>
+
+B).- Requerirán constancia sanitaria los establecimientos que se dediquen al almacenamiento, distribución y enajenación de bebidas alcohólicas y aquéllos en los que se consuman o suministren dichas bebidas.
 
 ###### ARTICULO 120.
 
@@ -1306,6 +1338,10 @@ VIII.- En los demás casos que determine la autoridad sanitaria conforme a la pr
 ###### ARTICULO 124.
 
 Cuando la revocación de una autorización se funde en los riesgos o daños que pueda causar o cause un servicio, la autoridad sanitaria hará del conocimiento de tales revocaciones a las dependencias y entidades públicas, que tengan atribuciones de orientación al consumidor.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2003)</small>
+
+Cuando la revocación de una constancia se funde en los riesgos o daños que se puedan causar o causen a la salud de la población, la autoridad sanitaria hará del conocimiento de tales revocaciones a las dependencias encargadas de regular y normar el funcionamiento de los establecimientos que se dediquen al expendio de bebidas alcohólicas.
 
 ###### ARTICULO 125.
 
@@ -1698,3 +1734,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria; Capital del Estado de Tamaulipas, a los doce días del mes de noviembre del año dos mil uno.-
 
 ATENTAMENTE -"SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. TOMAS YARRINGTON RUVALCABA.-El SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRÍGUEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE OCTUBRE DE 2003.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias que se opongan a lo dispuesto en este Decreto.
