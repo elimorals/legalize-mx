@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1968-07-18"
+last_updated: "1969-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE JULIO DE 1968.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE NOVIEMBRE DE 1969.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -3665,15 +3665,21 @@ ARTICULO 702
 
 En el acta de nacimiento de gemelos, el Oficial del Registro Civil hará constar las particularidades que los distingan y quién nació primero, según las noticias que le comuniquen el médico, el cirujano, la matrona o las personas que hayan asistido al parto.
 
-### CAPITULO III. De las actas de reconocimiento de hijos naturales
+> <small>(REFORMADA SU DENOMINACION, G.O. 27 DE NOVIEMBRE DE 1969)</small>
+
+### CAPITULO III. De las actas de reconocimiento de hijos nacidos fuera de matrimonio
+
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 1969)</small>
 
 ARTICULO 703
 
-Si el padre o la madre de un hijo natural, o ambos, lo reconocieren al presentarlo dentro del término de ley para que se registre su nacimiento, el acta de éste contendrá los requisitos establecidos en los artículos anteriores, con expresión de ser el hijo natural, y de los nombres del progenitor que lo reconozca. Esta acta surtirá efectos de reconocimiento legal.
+Si el padre o la madre de un hijo nacido fuera de matrimonio, o ambos, lo reconocieren al presentarlo dentro del término de la Ley para que se registre su nacimiento, el acta de éste contendrá los requisitos establecidos en los artículos anteriores, con expresión de ser hijos del progenitor o progenitores que lo reconozcan, cuyos nombres llevará sin que por ninguna circunstancia se utilice en el acta la denominación de "hijo natural" u otra semejante. Esta acta surtirá efectos de reconocimiento legal.
+
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 1969)</small>
 
 ARTICULO 704
 
-Si el reconocimiento del hijo natural se hiciere después de haber sido registrado su nacimiento, se formará acta separada en la que, además de los requisitos a que se refiere el artículo que precede, se observarán los siguientes, en sus respectivos casos:
+Si el reconocimiento del hijo nacido fuera de matrimonio se hiciere después de haber sido registrado su nacimiento, se formará acta separada en la que, además de los requisitos a los que se refiere el artículo que precede, se observarán los siguientes en sus respectivos casos:
 
 I.- Si el hijo es mayor de edad, se expresará en el acta su consentimiento para ser reconocido;
 
@@ -15064,3 +15070,7 @@ G.O. 19 DE MARZO DE 1968.
 G.O. 18 DE JULIO DE 1968.
 
 Esta Ley principiará a surtir efectos, tres días después de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 27 DE NOVIEMBRE DE 1969.
+
+UNICO.- Esta Ley entrará en vigor tres días después de su publicación en la "Gaceta Oficial" del Estado.
