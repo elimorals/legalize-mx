@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "1981-01-08"
+last_updated: "1995-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 1995.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -963,7 +963,7 @@ IV.- El del domicilio del demandado, si se trata de ejercicio de una acción sob
 
 Cuando sean varios los demandados y tuvieren diversos domicilios será competente el juez del domicilio que escoja el actor;
 
-V.- En los juicios hereditarios, el juez en cuya comprensión haya tenido su último domicilio el autor de la herencia; a falta de ese domicilio lo será el de la ubicación de los bienes raíces que forman la herencia, y si estuvieren en varios distritos, el juez de cualquiera de ellos a prevención; y a falta de domicilio y bienes raíces, el del lugar del fallecimiento del autor de la herencia. Lo mismo se observará en casos de ausencia;
+V.- En los juicios hereditarios, el juez en cuya comprensión haya tenido su último domicilio el autor de la herencia; a falta de ese domicilio lo será el de la ubicación de los bienes raíces que forman la herencia, y si estuvieren en varios distritos, el juez de cualquiera de ellos a prevención; y a falta de domicilio y bienes raíces, el del lugar del fallecimiento del autor de la herencia. Lo mismo se observará en casos de audiencia;
 
 VI.- Aquel en cuyo territorio radica un juicio sucesorio para conocer:
 
@@ -1837,7 +1837,7 @@ El juez al calificar la admisibilidad de las pruebas, determinará el monto de l
 
 ###### Artículo 303.
 
-El litigante al que se hubiere concedido la ampliación a que se refiere el artículo anterior y no rindiere las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante, será condenado a pagar en beneficio de su contraparte una sanción pecuniaria hasta de quince días de salario mínimo de la zona económica, si el juicio se tramita ante juez menor y hasta veinte días del salario mínimo de la zona económica si se tramita ante juez de primera instancia, así como la indemnización de daños y perjuicios, dejándose además de recibir la prueba.
+El litigante al que se hubiere concedido la ampliación a que se refiere el artículo anterior y no rindiere las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante, será condenado a pagar en beneficio de su contraparte una sanción pecuniaria hasta de quince días del salario mínimo de la zona económica, si el juicio se tramita ante juez menor y hasta veinte días de salario mínimo de la zona económica si se tramita ante juez de primera instancia, así como la indemnización de daños y perjuicios, dejándose además de recibir la prueba.
 
 ### CAPITULO VI. De la Audiencia
 
@@ -2041,7 +2041,7 @@ El juez podrá hacer por sí mismo la comprobación después de oír a los perit
 
 ###### Artículo 341.
 
-La impugnación de falsedad de un documento puede hacerse desde la contestación de la demanda hasta seis días antes de celebración de la audiencia de pruebas y alegatos. La parte que redarguye de falso un documento debe indicar específicamente los motivos y las pruebas; cuando se impugna la autenticidad del documento privado o público sin matriz, deben señalarse los documentos indubitables para el cotejo y promover la prueba pericial correspondiente. Sin estos requisitos se tiene por no redargüido o impugnado el instrumento.
+La impugnación de falsedad de un documento puede hacerse desde la contestación de la demanda hasta seis días antes de la celebración de audiencia de pruebas y alegatos. La parte que redarguye de falso un documento debe indicar específicamente los motivos y las pruebas; cuando se impugna la autenticidad del documento privado o público sin matriz, deben señalarse los documentos indubitables para el cotejo y promover la prueba pericial correspondiente. Sin estos requisitos se tiene por no redargüido o impugnado el instrumento.
 
 De la impugnación se correrá traslado al colitigante y en la audiencia del juicio se presentarán las pruebas y contrapruebas relativas a la impugnación.
 
@@ -3089,11 +3089,15 @@ I.- Para intervenir en el acto del remate, pudiendo hacer al juez las observacio
 
 II.- Para recurrir el auto de aprobación del remate, en su caso, y
 
-III.- Para nombrar a su costa un perito que con los nombrados por el ejecutante y el ejecutado practique el avalúo de la cosa. Nunca disfrutará de este derecho después de practicado el avalúo por los peritos de las partes o el tercero en discordia, en su caso, ni cuando la valorización se haga por otros medios.
+III.- (DEROGADA, P.O. 13 DE ENERO DE 1995)
 
 ###### Artículo 523.
 
 El avalúo se practicará de acuerdo con las reglas establecidas para la prueba pericial. Si fueren más de dos los peritos valuadores no habrá necesidad de nombrar tercero en discordia.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+
+En el remate de bienes hipotecados, cuando las partes no hayan acordado en el momento de la constitución de la hipoteca la institución de crédito que deba hacer el avalúo que servirá de base del remate, el Juez designará la institución de crédito que deba hacerlo.
 
 ###### Artículo 524.
 
@@ -3711,7 +3715,9 @@ DE LOS JUICIOS Y PROCEDIMIENTOS ESPECIALES
 
 TITULO DECIMOCUARTO
 
-### CAPITULO UNICO
+### CAPITULO II (SIC). Del Juicio Hipotecario
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
 
 ###### Artículo 634.
 
@@ -3765,13 +3771,147 @@ Los muebles u objetos que en la casa se encuentren si no hubiere persona de la f
 
 Para la ejecución del desahucio se tiene como domicilio legal del ejecutado, la finca o departamento de cuya desocupación se trata.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE ENERO DE 1995)</small>
+
+### CAPITULO UNICO
+
+###### Artículo 644-A.
+
+El juicio hipotecario es un procedimiento especial que tiene por objeto la constitución o ampliación de las hipotecas necesarias, la división o extinción de hipotecas o bien el pago o prelación del crédito que la hipoteca garantice.
+
+Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas del presente capítulo, es requisito indispensable que la escritura conste en escritura debidamente registrada y que el plazo de pago se haya cumplido, o que deba anticiparse conforme a lo previsto en los artículos del Código Civil.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+
+###### Artículo 644-B.
+
+Cuando se establece pleito entre los que contrataron la hipoteca procederá juicio hipotecario sin necesidad del registro, siendo siempre condición indispensable para inscribir la cédula, que esté registrado el bien a nombre del demandado y que no haya inscripción de embargo o gravamen a favor de tercero.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+
+###### Artículo 644-C.
+
+Presentado el escrito de demanda acompañado del instrumento respectivo, el Juez, si encuentra que reúnen los requisitos fijados por los artículos anteriores ordenará la expedición de la cédula hipotecaria y en su inscripción en el Registro Público de la Propiedad y mandará se corra traslado de la demanda al deudor para que dentro del término de nueve días ocurra a contestarla. En la contestación de demanda el deudor podrá oponer excepciones que no podrán ser otras que las de pago, de contrato no cumplido, novación, nulidad, de quita o de espera que consten por escrito, incompetencia, litispendencia, conexidad o de cosa juzgada, las tres últimas solamente se admitirán si se exhiben con la contestación las copias selladas de la demanda o de la contestación de demanda o, tratándose de la litispendencia y conexidad, de las cédulas de emplazamiento del juicio primeramente promovido; en el caso de la cosa juzgada se deberá acompañar como prueba, copia de la sentencia.
+
+La personalidad de los promoventes se analizará de oficio por el Juez. Las excepciones que se opongan no suspenderán el procedimiento y se resolverán de plano en la audiencia de ley. No procederá la reconvención en este juicio.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+
+###### Artículo 644-D.
+
+Tanto en la demanda como en la contestación de demanda deberán las partes plantear la controversia y ofrecer todas sus pruebas. El Juez resolverá sobre la admisión de pruebas en el auto que recaiga a los escritos en que se ofrezcan, las que deberán desahogarse en la audiencia de ley, misma que deberá tener lugar en un término no mayor de 30 días.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+
+###### Artículo 644-E.
+
+Las partes deberán ofrecer pruebas de su acción o de sus excepciones y defensas en los términos del artículo que antecede exhibiendo los documentos que tengan en su poder o la copia sellada solicitando los documentos que no tuvieran en los términos de los Artículos 91 y 92 de este ordenamiento.
+
+La preparación de las pruebas quedará a cargo de la parte oferente, por lo que en el acto de la audiencia, deberá presentar testigos, peritos y demás pruebas que le hayan sido admitidas y solamente en caso que demuestre fehacientemente al Juez la imposibilidad de preparar el desahogo de algunas de las pruebas que le fueron admitidas, éste, bajo su más estricta responsabilidad auxiliará al oferente expidiendo los oficios y citaciones que corresponda y nombrará perito tercero en discordia en caso de ser necesario, cuyos honorarios deberán ser cubiertos por las partes en porcentajes iguales. Lo anterior a efecto de preparar las pruebas y desahogarse en los términos del párrafo siguiente a más tardar en la audiencia de ley.
+
+Si llamado a un testigo, perito o solicitado un documento que haya sido ofrecido y admitido como prueba, no se desahogan éstos en el momento de celebrarse la audiencia de ley, no obstante el auxilio del Juzgado para su obtención por causa imputable al oferente, se declarará desierta la prueba ofrecida.
+
+El Juez deberá estar presente en la audiencia, la que se iniciará resolviendo los incidentes que hubieran, desahogará las pruebas admitidas y que procesalmente se puedan desahogar. Las que no estuvieren preparadas por culpa de los oferentes se declararán desiertas, por lo que la audiencia no se suspenderá ni habrá diferimientos de ésta en ningún caso, por falta de preparación.
+
+Desahogadas las pruebas, las partes podrán alegar lo que a su derecho convenga y el Juez dictará la resolución que corresponda.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+
+###### Artículo 644-F.
+
+Los incidentes no suspenderán el procedimiento, se tramitarán en los términos del Artículo 422 de este Código y la resolución se dictará conjuntamente con la sentencia definitiva.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+
+###### Artículo 644-G.
+
+El secuestro de la finca hipotecada se regirá por lo dispuesto en el Capítulo II, del Título Noveno de este código, debiendo quedar el deudor en posesión de la finca cuando habite en ella en calidad de depositario.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+
+###### Artículo 644-H.
+
+Inscrita la cédula hipotecaria, no podrá verificarse en la finca hipotecada ninguno de los actos en ella expresados, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior en fecha a la demanda que ha motivado la expedición de la cédula o de la providencia dictada a petición de acreedor de mejor derecho.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+
+###### Artículo 644-I.
+
+Para el avalúo de la finca se observará lo prevenido en el Capítulo V, Sección Tercera del Título Séptimo de este código.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+
+###### Artículo 644-J.
+
+El valor del bien para efectos del remate del bien hipotecado será el que determine la institución de crédito que señalen las partes en la constitución de la hipoteca o en defecto de ésta, la institución del crédito que señale el juez.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+
+###### Artículo 644-K.
+
+El recurso de apelación en su caso, solo será admitido en el efecto devolutivo.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+
+###### Artículo 644-L.
+
+Agotado el procedimiento, si resulta probada la acción, al decidir los derechos controvertidos, la sentencia decretará el remate de los bienes hipotecados.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+
+###### Artículo 644-M.
+
+Si el superior revoca el fallo de primera instancia que declaró procedente el remate, luego que vuelvan los autos al Juzgado de su origen, se mandará cancelar la inscripción de la cédula hipotecaria en el Registro Público y en su caso se devolverá la finca al demandado, ordenando al depositario que rinda cuentas con pago en el término que le fije el Juez, que no podrá exceder de treinta días, si el remate se hubiere ya verificado, se hará efectiva la fianza en vía de apremio.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+
+###### Artículo 644-N.
+
+Si en el Título con que se ejercita una acción hipotecaria se advierte que haya otros acreedores hipotecarios anteriores, el Juez mandará notificarles la cédula hipotecaria para que usen de sus derechos conforme a la ley.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+
+###### Artículo 644
+
+.O- La cédula hipotecaria contendrá una relación sucinta de la escritura y concluirá en los términos: "En virtud de las constancias que proceden, queda sujeta la finca...... de la propiedad de ...... a juicio hipotecario, lo que se hace saber a las autoridades y al público, para que no se practique en la mencionada finca ningún embargo, toma de posesión, diligencia precautoria o cualquiera otra que entorpezca el curso del presente juicio o viole los derechos en él adquiridos por el C. (Aquí el nombre del actor).
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+
+###### Artículo 644-P.
+
+La cédula hipotecaria se inscribirá en el Registro Publico correspondiente, a cuyo efecto se expedirá por duplicado copia certificada de la cédula, una copia quedará en el registro y la otra, ya registrada, se agregará a los asuntos(sic).
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+
+###### Artículo 644-Q.
+
+Si la finca no se halla en el lugar del juicio, se librará exhorto al Juez de la ubicación, para que ordene el registro de la cédula como se previene en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+
+###### Artículo 644-R.
+
+Desde el día del emplazamiento, contrae el deudor la obligación de depositario judicial de la finca hipotecada, de sus frutos y de todos los objetos que con arreglo a la escritura y conforme al Código Civil, deban considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+
+###### Artículo 644-S.
+
+El deudor que no quiera aceptar la responsabilidad de depositario, entregará desde luego la tenencia material de la finca al actor depositario que éste nombre.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+
+###### Artículo 644-T.
+
+En el caso previsto en los Artículos 3049 y 3050, en relación con el 3095 del Código Civil, no habrá lugar a la venta judicial, pero si habrá avalúo del precio que corresponda a la cosa en el momento de exigirse el pago, la venta se hará de la manera que se hubiere convenido; y a falta de convenio, por medio de corredores. El deudor puede oponerse a la venta alegando las excepciones que tuviere, y esta oposición se substanciará incidentalmente.
+
+También puede (sic) oponerse a la venta los hipotecarios posteriores, alegando prescripción de la acción hipotecaria.
+
 TITULO DECIMOQUINTO
 
 Divorcio por mutuo consentimiento
 
 ### CAPITULO I. Reglas Generales
-
-### CAPITULO II. De la Rectificación y Graduación de Créditos
 
 ###### Artículo 645.
 
@@ -3981,7 +4121,7 @@ El juez debe compeler a los árbitros a cumplir con sus obligaciones.
 
 ## TITULO DECIMO SEPTIMO. De los Concursos
 
-### CAPITULO III. De la Administración del Concurso
+### CAPITULO II. De la Rectificación y Graduación de Créditos
 
 ###### Artículo 684.
 
@@ -4029,7 +4169,7 @@ En este caso y en el previsto en el artículo anterior, la revocación se tramit
 
 El concursado en el caso de concurso forzoso deberá presentar al juzgado, dentro de los cinco días de la notificación del auto que lo declare, un estado detallado de su activo y pasivo con nombres y domicilios de acreedores y deudores, privilegiados y avalistas; si no lo presentare lo hará el síndico.
 
-### CAPITULO IV. Del deudor común
+### CAPITULO III. De la Administración del Concurso
 
 ###### Artículo 690.
 
@@ -4113,7 +4253,7 @@ Los acreedores listados en el estado del deudor o que presentaren sus documentos
 
 Si al hacerse una cesión de bienes sólo hubiese acreedores hipotecarios, será forzosamente el síndico o el acreedor hipotecario primero en tiempo quien litigará en representación de los demás acreedores.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO IV. Del deudor común
 
 ###### Artículo 706.
 
@@ -4153,7 +4293,7 @@ El síndico será removido de plano si dejare de rendir la cuenta mensual o deja
 
 Será removido por los trámites establecidos para los incidentes por mal desempeño de su cargo o por comprobarse alguno de los impedimentos a que se refiere el artículo 708.
 
-### CAPITULO II. De las Testamentarías
+### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 713.
 
@@ -4171,7 +4311,7 @@ Si en el curso del juicio se hace constar que los bienes son inferiores a los cr
 
 ## TITULO DECIMO OCTAVO. Juicios sucesorios
 
-### CAPITULO III. De los intestados
+### CAPITULO II. De las Testamentarías
 
 ###### Artículo 715.
 
@@ -4329,7 +4469,7 @@ VI.- Lo relativo a la aplicación de los bienes.
 
 Si durante la tramitación de un intestado apareciere el testamento, se sobreseerá aquél para abrir el juicio de testamentaría, a no ser que las disposiciones testamentarias se refieran sólo a una parte de los bienes hereditarios. En este caso se acumularán los juicios bajo la representación del ejecutor testamentario y la liquidación y partición serán siempre comunes, los inventarios lo serán también cuando los juicios se acumularen antes de su facción.
 
-### CAPITULO IV. Del Inventario y Avalúo
+### CAPITULO III. De los intestados
 
 ###### Artículo 736.
 
@@ -4375,7 +4515,7 @@ Si se impugnare la validez del testamento, o la capacidad legal de algún herede
 
 En la junta prevenida por el artículo 736 podrán los herederos nombrar interventor conforme a la facultad que les concede el artículo 1672 del Código Civil y se nombrará precisamente en los casos previstos por el 1676 del mismo Código.
 
-### CAPITULO V. De la Administración
+### CAPITULO IV. Del Inventario y Avalúo
 
 ###### Artículo 745.
 
@@ -4461,7 +4601,7 @@ Al albacea se le entregarán los bienes sucesorios, así como los libros y papel
 
 Si no se hubiere presentado ningún aspirante a la herencia antes o después de los edictos o no fuere reconocido con derechos a ella ninguno de los pretendientes, se tendrá como heredero al Estado.
 
-### CAPITULO VI. De la liquidación y partición de la herencia
+### CAPITULO V. De la Administración
 
 ###### Artículo 762.
 
@@ -4543,7 +4683,7 @@ La remoción a que se refiere el último precepto será de plano.
 
 Los gastos de inventarios y avalúo son a cargo de la herencia, salvo que el testador hubiere dispuesto otra cosa.
 
-### CAPITULO VII. De la Transmisión Hereditaria del Patrimonio Familiar
+### CAPITULO VI. De la liquidación y partición de la herencia
 
 ###### Artículo 778.
 
@@ -4649,7 +4789,7 @@ El auto que apruebe o repruebe la cuenta es apelable en el efecto devolutivo.
 
 Concluido y aprobado el inventario, el albacea procederá a la liquidación de la herencia.
 
-### CAPITULO VIII. De la tramitación del notario
+### CAPITULO VII. De la Transmisión Hereditaria del Patrimonio Familiar
 
 ###### Artículo 800.
 
@@ -4763,7 +4903,7 @@ V.- Expresión de las cantidades que algún heredero quede reconociendo a otro, 
 
 La sentencia que apruebe o repruebe la partición, es apelable en ambos efectos.
 
-### CAPITULO IX. Del Testamento Público Cerrado
+### CAPITULO VIII. De la tramitación del notario
 
 ###### Artículo 817.
 
@@ -4779,7 +4919,7 @@ IV.- Todas las resoluciones se harán constar en actas y no se requieren peticio
 
 V.- El acta o actas en que consten las adjudicaciones pueden servir de título a los interesados.
 
-### CAPITULO X. Declaración de ser Formal el Testamento Ológrafo
+### CAPITULO IX. Del Testamento Público Cerrado
 
 ###### Artículo 818.
 
@@ -4805,7 +4945,7 @@ Siempre que haya oposición de algún aspirante a la herencia o de cualquier acr
 
 Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un intestado, éste podrá seguirse tramitando con la intervención de un notario, de acuerdo con lo que se establece en este Capítulo.
 
-### CAPITULO XI. Declaración de ser Formal el Testamento Privado
+### CAPITULO X. Declaración de ser Formal el Testamento Ológrafo
 
 ###### Artículo 823.
 
@@ -4825,7 +4965,7 @@ Será preferida para la protocolización de todo testamento cerrado, la notaría
 
 Si se presentaren dos o más testamentos cerrados de una misma persona, sean de la misma fecha o de diversas, el juez procederá respecto a cada uno de ellos como se previene en este capítulo y los hará protocolizar en un mismo oficio para los efectos a que haya lugar en los casos previstos por los artículos 1424 y 1426 del Código Civil.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO XI. Declaración de ser Formal el Testamento Privado
 
 ###### Artículo 827.
 
@@ -4839,7 +4979,7 @@ Recibido el pliego, procederá el Tribunal como se dispone en el artículo 1492 
 
 Si para la debida identificación fuere necesario reconocer la firma, por no existir los testigos de identificación que hubieren intervenido, o por no estimarse bastante sus declaraciones, el Tribunal nombrará a un perito para que confronte la firma con las indubitadas que existan del testador, y teniendo en cuenta su dictamen hará la declaración que corresponda.
 
-### CAPITULO II. Del nombramiento de tutores y del discernimiento del cargo
+### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 830.
 
@@ -4871,7 +5011,7 @@ TITULO DECIMONOVENO
 
 De la Jurisdicción Voluntaria
 
-### CAPITULO III. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
+### CAPITULO II. Del nombramiento de tutores y del discernimiento del cargo
 
 ###### Artículo 834.
 
@@ -4921,7 +5061,7 @@ Toda cuestión que surja en los negocios a que se refieren los capítulos siguie
 
 En los negocios de menores e incapacitados intervendrán el juez de Primera Instancia y los demás funcionarios que determine el Código Civil.
 
-### CAPITULO IV. Adopción
+### CAPITULO III. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
 
 ###### Artículo 843.
 
@@ -5035,7 +5175,7 @@ Cuando del examen de la cuenta resulten motivos graves para sospechar dolo, frau
 
 Los tutores no pueden ser removidos ni excusarse por acto de jurisdicción voluntaria.
 
-### CAPITULO V. De las informaciones ad perpétuam
+### CAPITULO IV. Adopción
 
 ###### Artículo 856.
 
@@ -5079,7 +5219,7 @@ Para recibir dinero prestado en nombre del menor o incapacitado necesitará el t
 
 Lo dispuesto en los Artículos que preceden se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes e incapacitados.
 
-### CAPITULO VI. Apeo y Deslinde
+### CAPITULO V. De las informaciones ad perpétuam
 
 ###### Artículo 864.
 
@@ -5113,7 +5253,7 @@ La adopción plena es irrevocable en los términos de los Artículos 934 y 935 d
 
 La impugnación de la adopción y su revocación, no pueden promoverse en diligencias de jurisdicción voluntaria.
 
-### CAPITULO I. Reglas Generales
+### CAPITULO VI. Apeo y Deslinde
 
 ###### Artículo 869.
 
@@ -5145,7 +5285,7 @@ Las informaciones se protocolizarán en el protocolo del notario que designe el 
 
 En ningún caso se admitirán en jurisdicción voluntaria informaciones de testigos sobre hechos que fueren materia de un juicio comenzado.
 
-### CAPITULO II. De la controversia del orden familiar
+### CAPITULO I. Reglas Generales
 
 ###### Artículo 874.
 
@@ -5201,9 +5341,11 @@ Los puntos respecto a los cuales hubiere oposición, no quedarán deslindados ni
 
 Los gastos generales del apeo se harán por el que los promueva, los que importen la intervención de los peritos que designen y de los testigos que presenten los colindantes serán pagados por el que nombre a los unos y presente a los otros.
 
-### CAPITULO III. Disposiciones relativas a otros actos de materia familiar
+### CAPITULO II. De la controversia del orden familiar
 
 ## TITULO VIGESIMO. De la Materia Familiar
+
+### CAPITULO III. Disposiciones relativas a otros actos de materia familiar
 
 ###### Artículo 880.
 
@@ -5365,7 +5507,7 @@ Cuando se presente como actor o como reo alguien que no sea personalmente conoci
 
 No será necesaria la identificación aunque se trate de personas desconocidas cuando por la naturaleza o circunstancias del caso no hubiere peligro de suplantación de la persona.
 
-El que se presente como actor o como reo usando nombre de otro para hacerse pasar por él, se considerará como falsario y quedará sujeto a las sanciones que determine el Código Penal.
+El que se presente como actor o como reo usando nombre de otro para hacerse pasar por él, se considerará como falsario y quedará sujeto a las sanciones que termine el Código Penal.
 
 Del Juicio
 
@@ -5549,8 +5691,20 @@ Todos los asuntos que estén tramitándose al comenzar a regir este Código se s
 
 Los términos que estén corriendo al comenzar a regir este Código se computarán conforme e las disposiciones del mismo o del anterior, aplicándose las que señalen mayor tiempo.
 
-Artículo Cuarto.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Código.
+Cuarto.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Código.
 
 Dado en el Salón de Sesiones de la II Legislatura Constitucional, en la ciudad de Chetumal, capital del Estado de Quintana Roo, a los veintinueve días del mes de octubre de mil novecientos ochenta.- Diputado Presidente.- Faride Cheluja Pérez.- Rúbricas.- Diputado Secretario.- Germán García Padilla.- Rúbricas.
 
 Dado en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Chetumal, capital de Quintana Roo, a los treinta días del mes de octubre de mil novecientos ochenta.- El Gobernador Constitucional del Estado.- Lic. Jesús Martínez Ross.- Rúbrica.- El Secretario de Gobierno.- Lic. José Irabien Medina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 13 DE ENERO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+###### ARTICULO SEGUNDO.
+
+Los juicios que actualmente se estén tramitando que tengan por objeto cualquiera de los supuestos previstos en el Artículo 644-A del presente decreto, se seguirán substanciando conforme a las normas establecidas para los juicios en que se iniciaron, hasta su resolución definitiva.
