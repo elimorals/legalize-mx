@@ -4,7 +4,7 @@ identifier: "GRO-ley-reglamentaria-del-registro-civil-del-estado-de-guerrero-518
 country: "mx"
 rank: "ley"
 publication_date: "1988-07-05"
-last_updated: "1988-07-05"
+last_updated: "2004-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY REGLAMENTARIA DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 5 de julio de 1988.
 
@@ -219,9 +219,13 @@ XXXIV.- Permitir la revisión de los libros o cuadernos de actas a la persona qu
 
 XXXV.- En las actas de registro de nacimiento, deberán omitir o suprimir en su caso la mención de hijo natural o cualquier otra nota infamatoria a la dignidad del individuo;
 
-XXXVI.- En la expedición de copias certificadas de actas del estado civil, independientemente de la firma del oficial, deberá llevar insertas las iniciales de la mecanógrafa que elabora el acta y firma del que la coteja, y
+XXXVI.- En la expedición de copias certificadas de actas del estado civil, independientemente de la firma del oficial, deberá llevar insertas las iniciales de la mecanógrafa que elabora el acta y firma del que la coteja, y (sic)
 
-XXXVII.- Las demás que le señale el Código Civil vigente en el Estado.
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2004)</small>
+
+XXXVII. Informar a los contrayentes, previo a la celebración del matrimonio, las características de los regímenes patrimoniales establecidos en el Código Civil vigente en el Estado; y
+
+XXXVIII.- Las demás que le señale el Código Civil vigente en el Estado.
 
 ###### ARTICULO 13o.
 
@@ -367,9 +371,9 @@ h) Información testimonial, cuando sea mayor de 18 años;
 
 i) Recibo de pago de los derechos autorizados correspondientes.
 
-### CAPITULO SEGUNDO. DEL SUPERVISOR DE OFICIALIAS DE LA COORDINACION TECNICA DEL
+### CAPITULO SEGUNDO
 
-SISTEMA ESTATAL DEL REGISTRO CIVIL.
+DEL SUPERVISOR DE OFICIALIAS DE LA COORDINACION TECNICA DEL SISTEMA ESTATAL DEL REGISTRO CIVIL.
 
 ###### ARTICULO 31.
 
@@ -714,3 +718,11 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE JULIO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para sus efectos constitucionales.
