@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1990-11-09"
+last_updated: "1990-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1990.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -207,7 +207,9 @@ Para resolver las controversias que se susciten en los procesos electorales habr
 
 La Ley Electoral del Estado, reglamentaria de esta Constitución en la materia, regulará y garantizará el desarrollo de los procesos electorales; el ejercicio del sufragio; los derechos, obligaciones, organización y funciones de los partidos, asociaciones políticas y organismos electorales; la preparación, desarrollo, vigilancia, cómputo y calificación de las elecciones; el procedimiento de lo contencioso electoral; y en general las demás disposiciones relativas al proceso electoral.
 
-El Gobierno del Estado, con la participación de los partidos políticos y de los organismos electorales competentes, procurará la actualización permanente del padrón electoral del Estado.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+
+El organismo electoral competente con la participación del Gobierno del Estado, de los Partidos Políticos y los Ciudadanos, actualizará permanentemente el padrón electoral.
 
 ## TITULO IV.
 
@@ -303,23 +305,25 @@ Corresponde al Presidente del Congreso velar por el respeto al Fuero Constitucio
 
 Los Diputados Suplentes entrarán en funciones en caso de falta absoluta de los Propietarios respectivos, y también en caso de falta temporal, cuando sean llamados por el Congreso en los términos que disponga el Reglamento del mismo.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### Art. 55.
 
-La Legislatura tendrá cada año de ejercicio dos Períodos de Sesiones Ordinarios. El primero abrirá el 16 de septiembre y terminará el 15 de diciembre y podrá ser prorrogado hasta por un mes. El segundo comenzará el día primero de marzo y terminará el día último de abril, pudiendo también ser prorrogado por un mes.
+La Legislatura tendrá cada año de ejercicio dos períodos de Sesiones Ordinarios. El primero se abrirá el 15 de Octubre y terminará el 15 de Enero y podrá ser prorrogado hasta por un mes. El segundo comenzará el día 15 de Abril y terminará el 15 de Junio, pudiendo también ser prorrogado por un mes.
 
-En el año de la elección para la renovación del Titular del Poder Ejecutivo, el Segundo Período Ordinario de Sesiones comprenderá el 1o. de mayo al 10 de agosto, en el que se atenderá primordialmente lo relativo al Sexto Informe de Gobierno; a la calificación de la elección del siguiente Gobernador y Diputados y a la toma de protesta de Ley al Gobernador que resulte electo, en Sesión Solemne que deberá celebrarse el día 1o. de agosto. Este período podrá ser prorrogado hasta por quince días.
+En el año de la elección para la renovación del Titular del Poder Ejecutivo, el Segundo Período Ordinario de Sesiones comprenderá del 1o. de Julio al 14 de Octubre, en el que se antenderá primordialmente lo relativo al Sexto Informe de Gobierno; a la calificación de la elección del siguiente Gobernador y Diputados y a la toma de protesta de Ley al Gobernador que resulte electo, en Sesión Solemne que deberá celebrarse el día 4 de Octubre.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### Art. 56.
 
-Tanto para la instalación del Congreso como para la apertura de sesiones se necesita la presencia de la mayoría de los Diputados. Cuando por cualquiera circunstancia el período de sesiones ordinarias no comenzare el 16 de Septiembre, el Congreso, al reunirse, podrá permanecer en ejercicio, según el estado de los negocios, todos los tres meses de sesiones ordinarias, o concluir éstas cuando lo crea conveniente.
+Tanto para la instalación del Congreso como para la apertura de Sesiones se necesita la presencia de la mayoría de los Diputados. Cuando por cualquier circunstancia el Período de Sesiones Ordinario no comenzare en las fechas señaladas en el Artículo anterior, el Congreso al reunirse, podrá permanecer en ejercicio, según el estado de los negocios, todos los tres meses de Sesiones Ordinarias, o concluir éstas cuando crean conveniente.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### Art. 57.
 
-Durante los primeros cinco años de Ejercicio Constitucional del Gobernador del Estado, en el transcurso de la primera quincena del mes de marzo, dentro del Segundo Período de Sesiones, el Congreso celebrará una Sesión Solemne el día y hora que se señala a propuesta del Ejecutivo, a la que deberá asistir el propio Gobernador del Estado y el Tribunal Superior de Justicia. En dicha Sesión el primero presentará un informe por escrito en el que manifieste la situación y perspectivas generales del Estado y de la Administración Pública. El Sexto Informe de Gobierno lo rendirá el Titular del Poder Ejecutivo en iguales términos y comprenderá el Período del Año Fiscal anterior y el tiempo transcurrido del siguiente año hasta la fecha de su emisión, celebrándose la Sesión Solemne para ese fin la primera quincena del mes de junio. En ambos casos, el Presidente del Congreso contestará en términos generales.
+Durante los primeros cinco años de Ejercicio Constitucional del Gobernador del Estado, en el transcurso de la segunda quincena del mes de Mayo, dentro del Segundo Período de Sesiones, el Congreso celebrará una Sesión Solemne el día y hora que se señale a propuesta del Ejecutivo, a la cual deberá asistir el propio Gobernador del Estado y los Magistrados del Tribunal Superior de Justicia. En dicha Sesión el primero presentará un Informe por escrito en el cual manifieste la situación y perspectivas generales del Estado y de la Administración Pública. El Sexto Informe de Gobierno lo rendirá el Titular del Poder Ejecutivo en iguales términos y comprenderá el Período del año fiscal anterior y el tiempo transcurrido del siguiente año hasta la fecha de su emisión, celebrándose la Sesión Solemne para ese fin la segunda quincena del mes de Julio. En ambos casos, el Presidente del Congreso contestará en términos generales la presentación del mismo.
 
 ###### Art. 58.
 
@@ -679,19 +683,19 @@ II.- Tener cuando menos treinta años cumplidos para el día de la elección y n
 
 No pueden ser electos, para Gobernador del Estado, el Secretario General de Gobierno y los Secretarios del Despacho del Ejecutivo, los Magistrados, el Procurador General de Justicia, los Empleados Federales y los Militares de la Federación que en servicio activo residan en el Estado.
 
-> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
-Para que los comprendidos en este artículo puedan ser electos necesitan separarse absolutamente de sus puestos cuando menos ciento ochenta días antes de la elección.
+Para que los comprendidos en este artículo puedan ser electos necesitan separarse absolutamente de sus puestos cuando menos noventa días antes de la elección.
 
 ###### Art. 83.
 
 La elección de Gobernador prefiere a cualquier otro cargo del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1o. DE ENERO DE 1969)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### Art. 84.
 
-El Gobernador será electo cada seis años y tomará posesión de su cargo el día 1o. de Agosto.
+El Gobernador será electo cada seis años y tomará posesión de su cargo el día 4 de Octubre.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
 
@@ -1163,11 +1167,11 @@ V.- Tener un modo honesto de vivir; y
 
 VI.- Saber leer y escribir.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### Art. 123.
 
-Los miembros del Ayuntamiento se renovarán cada tres años, tomando posesión los electos, el día primero de enero.
+Los miembros del Ayuntamiento se renovarán cada tres años, tomando posesión los electos, el día 31 de Octubre.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -1251,9 +1255,11 @@ De la Hacienda Pública del Estado.
 
 La Hacienda del Estado se compone de los edificios del mismo, de las aguas que no siendo federales tampoco pertenezcan a particulares, por pasar de una finca a otra; de las herencias y bienes vacantes, de los créditos que tenga a su favor, de sus propias rentas, de las contribuciones que decrete el Legislativo y de los demás ingresos que determinen las leyes fiscales.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+
 ###### Art. 134.
 
-Anualmente, en la segunda quincena del mes de Octubre, el Ejecutivo presentará al Congreso un proyecto de presupuesto general, para su discusión y aprobación.
+Anualmente, en la segunda quincena del mes de Noviembre el Ejecutivo presentará al Congreso un proyecto de presupuesto general, para su discusión y aprobación.
 
 > <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
@@ -1493,7 +1499,9 @@ Una ley del Congreso determinará qué profesiones necesitan título para su eje
 
 Nadie puede ser obligado a prestar trabajos personales sin la justa retribución y sin su pleno consentimiento, salvo el trabajo impuesto como pena por la Autoridad Judicial, el cual se sujetará a las disposiciones constitucionales relativas.
 
-En cuanto a los servicios públicos, sólo podrán ser obligatorios en los términos que establezcan las leyes relativas, el de las armas, los de Jurado, los cargos concejiles y los de elección popular directa o indirecta; y obligatorias y gratuitas las funciones electorales.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+
+En cuanto a los servicios públicos, sólo podrán ser obligatorios, en los términos que establezcan las leyes relativas, el de las armas, los de jurado, los cargos consejiles y los de elección popular directa o indirecta; y obligatorias y gratuitas las funciones electorales, excepto aquellas que se realicen profesionalmente en los términos de esta Constitución y de las Leyes correspondientes.
 
 El Estado no permite que se lleve a efecto ningún contrato, pacto o convenio que tenga por objeto el menoscabo, la pérdida o el irrevocable sacrificio de la libertad del hombre, ya sea por causa de trabajo, de educación o de voto religioso.
 
@@ -1981,7 +1989,37 @@ P.O. 30 DE OCTUBRE DE 1985.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O.13 DE ABRIL DE 1987.
+P.O. 7 DE OCTUBRE DE 1987.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE OCTUBRE DE 1987.
+
+UNICO:- El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE ABRIL DE 1988.
+
+UNICO:- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 1990.
+
+DECRETO NUMERO 148, QUE REFORMA EL ARTICULO 53, DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 1990.
+
+DECRETO NUMERO 149, QUE REFORMA EL ARTICULO 63 FRACCION II, DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+
+UNICO:- El presente Decreto entrará en vigor, el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 1990.
+
+DECRETO QUE REFORMA EL ARTICULO 10 DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1990.
 
 ###### ARTICULO UNICO
 
@@ -2016,3 +2054,27 @@ P.O. 9 DE NOVIEMBRE DE 1990.
 DECRETO QUE REFORMA EL ARTICULO 10 DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO PRIMERO
+
+- Las reformas a los artículos 55, 56, 57, 84 y 123 de la Constitución Política del Estado de Nuevo León no tendrán aplicación en el ejercicio de los primeros tres años del próximo Titular del Poder Ejecutivo y en la renovación del Poder Legislativo y Ayuntamientos correspondientes al año de 1991.
+
+###### ARTICULO SEGUNDO
+
+- Los Diputados componentes de la Legislatura electa en 1991 durarán tres años y treinta días, por esa sola vez, para que los Titulares del Congreso Local entren en ejercicio en las fechas a las cuales se refieren las reformas.
+
+###### ARTICULO TERCERO
+
+- El Congreso del Estado, por mayoría absoluta, por esta única vez hará la designación de un Gobernador de Transición que cubra el período del primero de agosto al tres de octubre de mil novecientos noventa y siete. El Ciudadano electo deberá reunir los requisitos constitucionales para ocupar el cargo.
+
+###### ARTICULO CUARTO
+
+- Los miembros del Ayuntamiento con ejercicio a partir del mes de enero de mil novecientos noventa y dos por esa única vez concluirán sus labores el treinta de octubre de mil novecientos noventa y cuatro.
+
+###### ARTICULO QUINTO
+
+- Las reformas a los Artículos 82 último párrafo, y 134 entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEXTO
+
+- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
