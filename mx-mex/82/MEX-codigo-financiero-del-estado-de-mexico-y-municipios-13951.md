@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2003-06-30"
+last_updated: "2003-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE AGOSTO DE 2003.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -232,6 +232,10 @@ Son autoridades fiscales, el Gobernador, los ayuntamientos, los presidentes, sí
 ###### Artículo 17.
 
 El Estado, los municipios y los organismos públicos descentralizados podrán celebrar convenios para la administración y recaudación de contribuciones y aprovechamientos; y en este caso se considerarán autoridades fiscales, quienes asuman la función en los términos de los convenios que suscriban.
+
+> <small>(ADICIONADO, G.G. 7 DE AGOSTO DE 2003)</small>
+
+El Gobernador, por conducto del titular de la Secretaría, podrá celebrar convenios de colaboración administrativa con otros Estados y el Distrito Federal, en las materias de verificación, determinación y recaudación de las contribuciones, así como para la notificación de créditos fiscales y aplicación del procedimiento administrativo de ejecución.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -9375,9 +9379,29 @@ El costo de los programas y de las actividades necesarias para llevar a cabo las
 
 Una vez que se apruebe el Presupuesto de Egresos por la H. Legislatura, el Ejecutivo Estatal, por conducto de la Secretaría, deberá comunicar a las dependencias y entidades públicas, dentro de los primeros 20 días hábiles del ejercicio fiscal correspondiente, la distribución de sus presupuestos; en el caso de los municipios se hará por la Tesorería.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 7 DE AGOSTO DE 2003)</small>
+
 ###### Artículo 324.
 
-(DEROGADO, G.G. 6 DE DICIEMBRE DE 2002)
+Los convenios de coordinación que involucren recursos del gasto de inversión pública que celebre el Gobernador por conducto de la Secretaría con los Ayuntamientos, deberán sujetarse por lo menos a las bases siguientes:
+
+I. Definirán con precisión las materias y actividades que constituyan el objeto del convenio.
+
+II. Las acciones materia del convenio deberán ser congruentes con el plan estatal de desarrollo y los programas estatales.
+
+III. La participación porcentual que aporte cada una de las partes para el cumplimiento de su objeto.
+
+IV. La medición de que el ejercicio de estos recursos, se sujetará a las disposiciones legales y de la normatividad aplicable.
+
+V. El compromiso de los Ayuntamientos cuando menos de:
+
+a) Eficientar su recaudación en ingresos propios en relación a las metas que al efecto recomiende el Instituto Hacendario del Estado de México.
+
+b) Impulsar la ejecución de obras y acciones de beneficio social, a través del sistema de aportaciones de mejoras.
+
+c) Presentar un programa para sanear sus finanzas respecto de los compromisos contraídos con organismos públicos estatales y federales, en relación a los rubros de agua, energía eléctrica y aportaciones de seguridad social, de acuerdo a las condiciones económicas de cada uno de los municipios.
+
+VI. Contendrán las demás estipulaciones que las partes consideren necesarias para el correcto cumplimiento y evaluación del convenio.
 
 ###### Artículo 325.
 
@@ -9892,3 +9916,9 @@ G.G. 30 DE JUNIO DE 2003.
 Primero.- Publíquese el presente acuerdo en el periódico oficial "Gaceta del Gobierno".
 
 Segundo.- Este acuerdo entrará en vigor al día siguiente a su publicación en el periódico oficial "Gaceta de Gobierno".
+
+G.G. 7 DE AGOSTO DE 2003.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
