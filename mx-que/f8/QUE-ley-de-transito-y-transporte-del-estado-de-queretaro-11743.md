@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-transito-y-transporte-del-estado-de-queretaro-11743"
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-20"
-last_updated: "2000-05-12"
+last_updated: "2003-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2000.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REFORMA LA DEONOMINACION DE LA LEY DE TRANSITO DEL ESTADO DE QUERETARO Y REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA MISMA, PUBLICADA EN EL PERIODICO OFICIAL EL 3 DE OCTUBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley Publicada en el Periódico Oficial del Estado "La Sombra de Arteaga", el 20 de marzo de 1997.
 
@@ -673,13 +675,13 @@ El comprobante del registro de un vehículo en la Dirección de Tránsito y Tran
 
 ###### ARTICULO 54.
 
-El otorgamiento de placas de cirulación queda sujeto a los convenios que sobre la materia celebre el Ejecutivo del Estado con otras autoridades o a las disposiciones que sobre el particular dicte el Secretario de Gobierno por conducto de la Dirección de Tránsito y Transporte.
+El otorgamiento de placas de circulación queda sujeto a los convenios que sobre la materia celebre el Ejecutivo del Estado con otras autoridades o a las disposiciones que sobre el particular dicte el Secretario de Gobierno por conducto de la Dirección de Tránsito y Transporte.
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 55.
 
-En el territorio del Estado ninguna persona podrá manejar vehículo automotor sin la licencia respectiva expedida por la autoridad competente. En el Estado de Querétaro dicha liciencia será expedida por la Dirección de Tránsito y Transporte, previa la satisfacción de los requisitos de esta Ley, su Reglamento y demás disposiciones aplicables, debiendo acreditarse los exámenes de aptitud y de conocimientos para el otorgamiento de la misma. Los conductores que infrinjan esta disposición se harán acreedores a las sanciones que establece la presente Ley.
+En el territorio del Estado ninguna persona podrá manejar vehículo automotor sin la licencia respectiva expedida por la autoridad competente. En el Estado de Querétaro dicha licencia será expedida por la Dirección de Tránsito y Transporte, previa la satisfacción de los requisitos de esta Ley, su Reglamento y demás disposiciones aplicables, debiendo acreditarse los exámenes de aptitud y de conocimientos para el otorgamiento de la misma. Los conductores que infrinjan esta disposición se harán acreedores a las sanciones que establece la presente Ley.
 
 ###### ARTICULO 56.
 
@@ -1123,7 +1125,7 @@ V. Incurrir en el supuesto que establece el artículo 60-E de esta Ley.
 
 Son causas de suspensión por seis meses de los derechos derivados de la concesión:
 
-I.Incurrir por una ocasión en cualquiera de los supuestos que establecen los artículos 60-A, 60-B y 60-C;
+I. Incurrir por una ocasión en cualquiera de los supuestos que establecen los artículos 60-A, 60-B y 60-C;
 
 II. Incumplir por una ocasión con la revisión de su vehículo determinada por la Dirección de Tránsito y Transporte a que se refiere el artículo 97 fracción X de esta Ley; y
 
@@ -1420,3 +1422,21 @@ PRIMERO. Esta Ley entrará en vigor al día siguiente al de su publicación en e
 SEGUNDO. Las facultades y referencias en materia de tránsito y concesiones, licencias y permisos de transporte público que se encuentren establecidas en otros ordenamientos legales a favor de la Dirección de Seguridad Pública y Tránsito del Estado y de la Dirección de Concesiones y Licencias, se entenderán a favor de la Dirección de Tránsito y Transporte.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a la presente ley.
+
+P.O. 3 DE OCTUBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+El titular del Ejecutivo del Estado deberá expedir el Reglamento de Tránsito correspondiente, en un plazo no mayor de 90 días naturales, contados a partir de la publicación de la presente Ley, mientras tanto, seguirá siendo aplicable, en lo que no se oponga a ella, el Reglamento de Tránsito del Estado de Querétaro, publicado el día 2 de marzo de 2001, mismo que se deroga una vez que el ejecutivo emita el Reglamento de Transito Correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Transito del Estado de Querétaro y la Ley que Reforma la Denominación de la Ley de Transido (sic) del Estado de Querétaro y Reforma, Deroga y Adicione diversas disposiciones de la misma, publicadas en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" en fechas 20 de marzo de 1997 y 12 de mayo de 2000 respectivamente.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos que se encuentren en trámite ante la Dirección de Tránsito y Transporte del Estado o la autoridad municipal que corresponda, se resolverán de conformidad a los ordenamientos legales vigentes al momento de su iniciación.
