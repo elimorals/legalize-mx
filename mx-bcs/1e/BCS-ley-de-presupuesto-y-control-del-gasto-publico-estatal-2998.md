@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-presupuesto-y-control-del-gasto-publico-estatal-2998"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "1984-12-10"
+last_updated: "1985-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PRESUPUESTO Y CONTROL DEL GASTO PUBLICO ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1985.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 20 de febrero de 1984.
 
@@ -45,7 +45,7 @@ LEY DE PRESUPUESTO Y CONTROL DEL GASTO PUBLICO ESTATAL.
 
 El presupuesto, la contabilidad y el gasto público Estatal se norman y regulan por las disposiciones de esta Ley, la que será aplicada por el Ejecutivo Estatal a través de la Secretaría de Finanzas.
 
-> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 2°.
 
@@ -67,11 +67,11 @@ VII. SECRETARIA DE DESARROLLO
 
 VIII. SECRETARIA DE ASENTAMIENTOS HUMANOS Y OBRAS PUBLICAS
 
-IX. PROCURADURIA GENERAL DE JUSTICIA
+IX. SECRETARIA DE SALUD
 
-X. CONTRALORIA GENERAL
+X. PROCURADURIA GENERAL DE JUSTICIA
 
-XI. SERVICIOS GENERALES DEL GOBIERNO DEL ESTADO
+XI. CONTRALORIA GENERAL
 
 XII. OBRAS PUBLICAS Y CONSTRUCCIONES
 
@@ -80,6 +80,8 @@ XIII. SUBSIDIOS Y PARTICIPACIONES A MUNICIPIOS
 XIV. DEUDA PUBLICA
 
 XV. ORGANISMOS DESCENTRALIZADOS Y PROGRAMAS INSTITUCIONALES
+
+XVI. SERVICIOS GENERALES DEL GOBIERNO DEL ESTADO
 
 ###### ARTICULO 3°.
 
@@ -378,3 +380,13 @@ B.O. 10 DE DICIEMBRE DE 1984.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE DICIEMBRE DE 1985.
+
+###### ARTICULO PRIMERO.
+
+Por esta única vez y en virtud de que la Secretaría de Salud fué creada a mediados del ejercicio presupuestal del año de 1985, y para el ejercicio fiscal correspondiente a los meses que restan del presente año, el ramo que corresponde a la Secretaría de Salud será creado con el número XVI.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día Io. (sic) de Enero de 1986, previa su publicación en el Boletín Oficial del H. Congreso del Estado y en lo referente al Artículo Transitorio anterior, surtirá efecto el día siguiente al de su publicación.
