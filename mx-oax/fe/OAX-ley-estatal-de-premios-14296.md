@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-premios-14296"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-05"
-last_updated: "1999-05-01"
+last_updated: "2001-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE PREMIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2001.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 5 de diciembre de 1998.
 
@@ -379,6 +379,16 @@ c) reportaje.
 
 4.- TRAYECTORIA PERIODISTICA.
 
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2001)</small>
+
+5.- PERIODISMO DEPORTIVO, otorgándose en cualquiera de los siguientes campos:
+
+a) noticia;
+
+b) crónica, reportaje, y entrevista;
+
+c) fotografía.
+
 ###### ARTICULO 44.
 
 Este premio se concederá en concurso doble; participando por una parte, personas físicas y, por el otro, las organizaciones responsables.
@@ -572,3 +582,7 @@ AL C.....
 P.O. 1 DE MAYO DE 1999.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE JULIO DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
