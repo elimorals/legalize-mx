@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-26-de-desarrollo-urbano-regional-y-vivienda-para-141
 country: "mx"
 rank: "ley"
 publication_date: "1999-04-17"
-last_updated: "2003-03-18"
+last_updated: "2003-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE DESARROLLO REGIONAL Y URBANO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE OCTUBRE DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 17 de abril de 1999.
 
@@ -895,11 +895,21 @@ La solicitud para fusionar, subdividir, lotificar o relotificar terrenos, deber�
 
 Las autorizaciones a que se refiere este capítulo se otorgarán con base en lo dispuesto por el reglamento respectivo de esta Ley, con las excepciones que el mismo prevea.
 
+> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2003)</small>
+
 ###### Artículo 81.
 
-Las disposiciones secundarias determinarán los tipos de fraccionamientos, los usos y destinos, los mínimos de superficies de lotes, frentes, vialidad, restricciones de ubicación y construcción, infraestructura necesaria, donaciones, mobiliario urbano, garantías, mecanismos de supervisión y recepción y demás elementos de la urbanización, de acuerdo con sus diferentes tipos; no obstante las dimensiones mínimas de lotes para vivienda unifamiliar serán de 105 m2 con un frente de 7m lineales.
+Las disposiciones secundarias determinarán los tipos de fraccionamientos, los usos y destinos, los mínimos de superficies de lotes, frentes, vialidad, restricciones de ubicación y construcción, infraestructura necesaria, donaciones, mobiliario urbano, garantías, mecanismos de supervisión y recepción y demás elementos de la urbanización, de acuerdo con sus diferentes tipos; así como los requisitos, condiciones y procedimientos para la autorización de fraccionamientos, además de las obligaciones de los fraccionadores y de los adquirentes de lotes en los mismos.
 
-Además, establecerá los requisitos, condiciones y procedimientos para la autorización de fraccionamientos, así como las obligaciones de los fraccionadores y de los adquirentes de lotes en los mismos.
+Las dimensiones mínimas de lotes para vivienda unifamiliar serán de ciento cinco metros cuadrados con un frente de siete metros lineales y sólo en desarrollos habitacionales de interés social se permitirá el lote de ocupación unifamiliar cuyas dimensiones mínimas sean de sesenta y siete metros con cinco decímetros cuadrados de superficie y cuatro metros con cincuenta centímetros lineales de frente, siempre que sobre el mismo exista una vivienda estructuralmente independiente o, en su caso, se demuestre fehacientemente que el adquirente o el promotor ha recibido crédito para su constricción inminente.
+
+No se permitirá el traslado de dominio de los lotes a que se refiere el párrafo anterior cuando:
+
+I. No exista vivienda sobre él construida o no se demuestre la obtención de crédito con tal finalidad;
+
+II. Se carezca de infraestructura básica en el sitio en que se ubique el lote; y
+
+III. Contándose con infraestructura básica en la zona, no se permita ampliar la cobertura del servicio por incremento de densidad y la mayor participación del suelo urbano.
 
 ###### Artículo 82.
 
@@ -1148,3 +1158,9 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 13 DE OCTUBRE DE 2003.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
