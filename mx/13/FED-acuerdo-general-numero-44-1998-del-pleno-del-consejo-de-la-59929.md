@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-44-1998-del-pleno-del-consejo-de-la-5992
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-12-15"
-last_updated: "1998-12-15"
+last_updated: "1999-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59929&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-02"
 
 ACUERDO GENERAL NUMERO 44/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DE LA VISITADURIA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE NOVIEMBRE DE 1999.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial del a Federación, el martes 15 de diciembre de 1998.
 
@@ -261,13 +261,21 @@ Los visitadores se abstendrán de intervenir en las funciones propias de la acti
 
 Las visitas ordinarias de inspección tienen efectos primordialmente preventivos, de control o para recabar información respecto al funcionamiento de los órganos jurisdiccionales, al desempeño de sus miembros, a las condiciones de trabajo y a las necesidades del órgano jurisdiccional.
 
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 1999)</small>
+
 ###### Artículo 22.
 
-Las visitas ordinarias de inspección se llevarán a cabo cuando menos dos veces por año. Para tal efecto, el secretario ejecutivo sorteará periódicamente entre los visitadores, los Tribunales de Circuito y los Juzgados de Distrito que deban visitarse conforme al programa elaborado por el visitador general.
+Las visitas ordinarias de inspección se llevarán a cabo cuando menos dos veces por año, una inspección se deberá realizar de manera física por los visitadores judiciales nombrados por el Pleno del Consejo de la Judicatura Federal, mientras que la otra evaluación del funcionamiento de los Tribunales de Circuito y Juzgados de Distrito se verificará a través de informes circunstanciados.
 
-Tales sorteos serán generales y se realizarán para cubrir periodos de visita no mayores de dos años; sin perjuicio de efectuar los que resulten necesarios por impedimento, ausencia o falta definitiva del visitador sorteado o por cualquiera otra causa justificada.
+> <small>(F. DE E., D.O.F. 26 DE NOVIEMBRE DE 1999)</small>
 
-Los visitadores podrán inspeccionar más de una vez un mismo órgano jurisdiccional durante ese lapso.
+La Visitaduría Judicial elaborará un programa de visitas en el que instrumentará lo necesario para que los dos tipos de inspecciones se lleven a cabo en el transcurso del año en forma alternada y cubran periodos no mayores de seis meses.
+
+Para la práctica de las visitas ordinarias físicas de inspección, la Secretaría Ejecutiva de Disciplina sorteará entre los visitadores, los Tribunales de Circuito y los Juzgados de Distrito, conforme al programa elaborado por el visitador general; sin perjuicio de las visitas ordinarias para efectos de ratificación y extraordinarias que ordene el Pleno o la Secretaría Ejecutiva de Disciplina.
+
+El informe circunstanciado deberá ser rendido con precisión y bajo protesta de decir verdad por los titulares de los órganos jurisdiccionales y, en el caso de los Tribunales Colegiados de Circuito, por su presidente, en los formatos que para tal efecto autorice la Comisión de Disciplina y remitido con los anexos respectivos en los plazos que al efecto se señalen conforme al calendario que elabore la Visitaduría Judicial.
+
+Los datos proporcionados en el informe circunstanciado servirán de base al secretario ejecutivo de Disciplina para la elaboración del dictamen correspondiente, sin perjuicio de que aquéllos sean objeto de verificación en la siguiente visita de inspección que se practique, o antes de ella cuando así sea necesario.
 
 ###### Artículo 23.
 
@@ -688,3 +696,11 @@ TERCERO.-Hasta en tanto se emita el Manual de los Órganos Jurisdiccionales y Of
 CUARTO.-Se derogan los acuerdos generales que en relación con la Visitaduría y la práctica de cualquier visita de inspección ha emitido el Consejo de la Judicatura Federal.
 
 LICENCIADO ADOLFO O. ARAGÓN MENDÍA, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General Número 44/1998, que regula la organización y funcionamiento de la Visitaduría Judicial del Consejo de la Judicatura Federal, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de dos de diciembre de mil novecientos noventa y ocho, por unanimidad de votos de los señores consejeros: presidente Ministro José Vicente Aguinaco Alemán, Alonso Galván Villagómez, Rodolfo Héctor Lara Ponte, María Concepción Elisa Martín de Zúñiga, Mario Melgar Adalid, Alfonso Oñate Laborde y Luis Gilberto Vargas Chávez.-México, Distrito Federal, a ocho de diciembre de mil novecientos noventa y ocho.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 22 DE NOVIEMBRE DE 1999.
+
+PRIMERO.-Este acuerdo entrará en vigor a partir del primer día hábil de enero del año dos mil, sin perjuicio de las reglas propuestas para las visitas correspondientes al año de mil novecientos noventa y nueve.
+
+SEGUNDO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
