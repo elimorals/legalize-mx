@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1951-06-06"
+last_updated: "1952-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1951.
-
-(REPUBLICADO EN EL PERIODICO OFICIAL: 4 DE JULIO DE 1951)
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 1952.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -535,7 +533,9 @@ I.- Proteger la seguridad de las personas, bienes y derechos de los individuos y
 
 II.- En caso de delito infraganti, y en los términos de la ley, decretar el arresto de cualquiera persona, poniéndola inmediatamente a disposición de la autoridad o Juez competente.
 
-III.- Nombrar los Jefes de las Oficinas de su dependencia y aprobar o no la designación que de empleados subalternos hagan los Jefes de las mismas.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 1952)</small>
+
+III.- Nombrar los Jefes de las Oficinas de su dependencia y a los empleados subalternos de las mismas, en los términos que establezca la Ley del Servicio Civil.
 
 IV.- Cuidar de que la Justicia se administre pronta y cumplidamente por los Tribunales del Estado y de que se ejecuten las sentencias, prestando a aquéllos el auxilio que necesiten para el mejor ejercicio de sus funciones. Esta inspección no lo autoriza a intervenir directa ni indirectamente en el examen de los juicios pendientes, ni disponer en manera alguna de las personas de los reos.
 
@@ -703,7 +703,9 @@ VI.- Examinar las noticias que mensualmente deberán remitírsele por todos los 
 
 VII.- Oír las dudas de ley que se ofrezcan a los Jueces de Primera Instancia y Alcaldes Judiciales y pasarlas al Congreso, así como las que ocurran al mismo Tribunal, con el informe correspondiente.
 
-VIII.- Nombrar y remover libremente a los empleados de sus Secretarías; castigar sus faltas con multa o suspensión y admitir sus renuncias.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 1952)</small>
+
+VIII.- Nombrar y remover, en los términos que establezca la Ley del Servicio Civil, a los empleados de sus Secretarías; castigar sus faltas y admitir sus renuncias.
 
 IX.- Hacer el Reglamento para su gobierno interior.
 
@@ -1314,5 +1316,9 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 6 DE JUNIO DE 1951.
 
 (REPUBLICADO, P.O. 4 DE JULIO DE 1951)
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 30 DE ABRIL DE 1952.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
