@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1946-10-16"
+last_updated: "1949-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 1949.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -433,7 +433,9 @@ XVII. Convocar a elecciones ordinarias.
 
 XVIII.- Convocar a elecciones extraordinarias de Diputados cuando por cualquiera circunstancia falten de una manera absoluta el propietario y el suplente.
 
-XIX. Convocar a elecciones extraordinarias de Gobernador, cuando éste por cualquiera circunstancia, faltare de una manera absoluta más de dos años antes de que termine el período para el que hubiere sido electo.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 1949)</small>
+
+XIX. Convocar a elecciones extraordinarias de Gobernador en los casos previstos en los artículos 53 y 54.
 
 XX. Calificar las elecciones de sus miembros y hacer la declaratoria correspondiente.
 
@@ -447,7 +449,9 @@ XXIII. Recibir la protesta de Ley a los Diputados, al Gobernador del Estado, a l
 
 XXIV. Conceder licencia a sus miembros; al Gobernador cuando tenga que salir fuera del Estado o separarse temporalmente de su cargo; y a los Magistrados cuando su separación sea por más de un mes.
 
-XXV. Nombrar Gobernador suplente en el caso de la fracción anterior, o Interino cuando la falta sea absoluta.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 1949)</small>
+
+XXV. Nombrar Gobernador interino en los casos y términos de los artículos 5°, 53 y 54.
 
 XXVI.- Conocer de las renuncias de los Diputados, del Gobernador y de los Magistrados.
 
@@ -513,7 +517,9 @@ VI. Recibir la protesta de Ley a los funcionarios que deban prestarla ante el mi
 
 VII. Conceder las licencias a que se refiere la fracción XXIV del artículo 43.
 
-VIII. Nombrar a la persona que deba suplir al Gobernador; y cuando la falta sea absoluta, nombrar uno Provisional, convocando desde luego al Congreso a sesiones extraordinarias, que se efectuarán dentro de los ocho días siguientes, para el nombramiento de Gobernador Interino.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 1949)</small>
+
+VIII. Designar Gobernador interino en el caso del artículo 52; nombrar Gobernador Provisional en el caso del artículo 53; y convocar desde luego al Congreso a sesiones extraordinarias de acuerdo con las mismas disposiciones.
 
 IX. Las demás que le confiere la Ley.
 
@@ -529,23 +535,33 @@ El Ejercicio del Poder Ejecutivo del Estado se deposita en un solo individuo que
 
 La elección de Gobernador será popular directa y se hará en los términos que disponga la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1944)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1949)</small>
 
 ###### Art. 48.
 
-El Gobernador entrará a ejercer sus funciones el día 15 de enero posterior a la elección, durará en su encargo seis años, y en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de Interino, Provisional o Substituto Encargado del Despacho.
+El Gobernador entrará a ejercer su cargo el día 15 de enero porterior (sic) a la elección y durará en él seis años.
+
+El ciudadano que haya desempeñado el cargo de Gobernador del Estado, cuyo origen haya sido la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo, podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del Despacho.
+
+Nunca podrán ser electos para el período inmediato:
+
+a) El ciudadano designado por el Congreso o por la Comisión Permanente, para concluir el periodo, en caso de falta absoluta del constitucional, cualquiera que sea su denominación.
+
+b) El ciudadano designado por el Congreso o por la Comisión Permanente, que bajo cualquiera denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ABRIL DE 1949)</small>
 
 ###### Art. 49.
 
-Para ser Gobernador se requiere:
+Para ser Gobernador Constitucional se requiere:
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 1949)</small>
 
-I.- Ser mexicano por nacimiento y ciudadano del Estado en ejercicio de sus derechos, con cinco años de residencia consecutivos en su territorio inmediatamente anteriores al día de la elección, o uno si fuere nacido en él.
+I. Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos y nativo del Estado. Careciendo de esta última calidad, tener una residencia efectiva no menor de cinco años, inmediatamente anteriores al día de la elección.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 1949)</small>
 
-II.- Tener treinta y cinco años cumplidos el día de la elección y no ser mayor de sesenta y cinco.
+II. Tener treinta y cinco años cumplidos el día de la elección.
 
 III. No ser Ministro de ningún culto.
 
@@ -553,9 +569,9 @@ IV. No estar en servicio activo en el Ejército Nacional, ni en las fuerzas del 
 
 V. No ser en el Estado, funcionario o alto empleado de la Federación, Secretario General de Gobierno o quien haga sus veces, Magistrado del Tribunal Superior de Justicia, Procurador de Justicia, ni Tesorero General, a menos que se separen de sus funciones noventa días antes de la elección.
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 1949)</small>
 
-VI.- No haber sido Gobernador Constitucional del Estado, Substituto, Interino o Suplente.
+VI. No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 48.
 
 ###### Art. 50.
 
@@ -567,19 +583,33 @@ El Gobernador al tomar posesión de su encargo otorgará la protesta de ley ante
 
 Sin permiso del Congreso y en su caso de la Diputación Permanente, el Gobernador no podrá separarse del Territorio del Estado, ni del ejercicio de sus funciones por más de noventa y seis horas.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1949)</small>
+
 ###### Art. 52.
 
-Las faltas temporales del Gobernador serán suplidas por la persona que nombre el Congreso o la Diputación Permanente, a propuesta en terna del Ejecutivo.
+En caso de falta temporal del Gobernador, el Congreso; si estuviere reunido, o, en su defecto, la Comisión Permanente, designará un Gobernador interino para que funcione durante el tiempo que dure dicha falta, que no podrá ser de más de tres meses.
+
+Cuando la falta del Gobernador sea por más de tres meses y el Congreso no estuviere reunido, la Comisión Permanente convocará a sesiones extraordinarias del Congreso para que éste resuelva sobre la licencia y nombre, en su caso, al Gobernador interino.
+
+Si la falta, de temporal se convirtiere en absoluta, se procederá como dispone el artículo 53.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1949)</small>
 
 ###### Art. 53.
 
-Si la falta de Gobernador fuere absoluta, el Congreso, por el voto de las dos terceras partes del número total de sus miembros, en escrutinio secreto y obrando como Colegio Electoral, nombrará un Interino que reúna las condiciones que exije (sic) el artículo 49; y en el caso de que halle en receso, la Diputación Permanente nombrará un Gobernador Provisional convocando desde luego al Congreso a sesiones extraordinarias para que nombre al Interino. Este seguirá encargado del Poder Ejecutivo, por el tiempo que faltaba a su antecesor, siendo menos de dos años; excediendo de este tiempo, se convocará a nueva elección, la que se verificará dentro de los dos meses siguientes, y el nuevamente electo ejercerá sus funciones hasta terminar el período Constitucional.
+En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, un Gobernador interino; el mismo Congreso expedirá dentro de los diez días siguientes al de la designación de Gobernador interino, la convocatoria para la elección extraordinaria de Gobernador substituto que deba concluir el período respectivo; debiendo mediar, entre la fecha de la Convocatoria y la que señale para la celebración de las elecciones, un plazo no menor de treinta días ni mayor de tres meses.
 
-No podrá ser electo Gobernador constitucional el Interino.
+Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará desde luego un Gobernador provisional, y convocará a sesiones extraordinarias al Congreso para que éste, a su vez, designe al Gobernador interino, y expida la Convocatoria a elección extraordinaria en los términos del párrafo anterior.
+
+Cuando la falta de Gobernador ocurriese en los cuatro últimos años del período respectivo, si el Congreso se encontrase en sesiones, se constituirá inmediatamente en Colegio Electoral y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, un Gobernador substituto que deberá concluir el período.
+
+Si el Congreso no estuviere reunido, la Comisión Permanente nombrará un Gobernador provisional y convocará al Congreso a sesiones extraordinarias para que se erija en Colegio electoral y haga la elección de Gobernador substituto en términos del párrafo anterior.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1949)</small>
 
 ###### Art. 54.
 
-Si al comenzar un período constitucional no se presentare el Gobernador, o la elección no estuviere hecha y declarada el quince de enero cesará, sin embargo, el Gobernador cuyo período hubiere concluido; y el Poder Ejecutivo se depositará en la persona que la Diputación Permanente o el Congreso nombren, con el carácter de Provisional o Interino, en tanto se presenta el electo, se hace la elección o la declaración respectiva.
+Si al comenzar un período constitucional no se presentase el Gobernador electo, o la elección no estuviere hecha y declarada el quince de enero, cesará, sin embargo, el Gobernador cuyo período hubiere concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador interino, el que designe el Congreso, procediéndose desde luego conforme a lo dispuesto en el artículo anterior.
 
 ###### Art. 55.
 
@@ -589,9 +619,11 @@ El cargo de Gobernador sólo es renunciable por causa grave calificada por el Co
 
 Para el Despacho de los negocios del Poder Ejecutivo, habrá un funcionario que se denomine "Secretario General de Gobierno", quien debe ser ciudadano mexicano por nacimiento.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1949)</small>
+
 ###### Art. 57.
 
-El Secretario General substituirá al Gobernador en el caso previsto en el artículo 51, sin necesidad de protesta.
+El Secretario General de Gobierno quedará encargado del despacho en el caso previsto en el artículo 51, sin necesidad de protesta.
 
 ###### Art. 58.
 
@@ -743,9 +775,13 @@ La Ley organizará el Ministerio Público, fijará las atribuciones de los funci
 
 De los Municipios.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1949)</small>
+
 ###### Art. 72.
 
-Cada Municipio será administrado por un Ayuntamiento y no habrá ninguna Autoridad intermediaria entre éste y el Gobierno del Estado.
+Cada Municipio será Administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+
+En las elecciones Municipales, participarán las mujeres en igualdad de condiciones que los varones, con el derecho de votar y ser votadas.
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1946)</small>
 
@@ -1010,3 +1046,7 @@ En el año de 1947, el C. Gobernador informará de su gestión en la apertura de
 ###### ARTICULO 4°.
 
 El Congreso del Estado designará Magistrados en el año de 1949 para que funcionen del 1° de Mayo del mismo año hasta el 31 de Enero de 1951.
+
+P.O. 6 DE ABRIL DE 1949.
+
+El presente Decreto surtirá sus efectos a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
