@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1979-11-09"
+last_updated: "1980-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 1980.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -4271,7 +4271,7 @@ Es poseedor de una cosa el que ejerce sobre ella un poder de hecho, salvo lo dis
 
 ###### Art. 791.
 
-Cuando en virtud de un acto jurídico el propietario entrega a otro una cosa, concediéndole el derecho de retenerla, temporalmente en su poder en calidad de usufructurario, arrendatario, acreedor pignoraticio, depositario, u otro título análogo, los dos son poseedores de la cosa. El que la posee a título de propietario tiene una posesión originaria, el otro, una posesión derivada.
+Cuando en virtud de un acto jurídico el propietario entrega a otro una cosa, concediéndole el derecho de retenerla, temporalmente en su poder en calidad de usufructuario, arrendatario, acreedor pignoraticio, depositario, u otro título análogo, los dos son poseedores de la cosa. El que la posee a título de propietario tiene una posesión originaria, el otro, una posesión derivada.
 
 ###### Art. 792.
 
@@ -5125,7 +5125,7 @@ Si se constituye a favor de varias personas simultáneamente, sea por herencia, 
 
 ###### Art. 981.
 
-Si se constituye sucesivamente, el usufructo no tendrá lugar sino en favor de las personas que existan al tiempo de comenzar el derecho del primer usufructurario.
+Si se constituye sucesivamente, el usufructo no tendrá lugar sino en favor de las personas que existan al tiempo de comenzar el derecho del primer usufructuario.
 
 ###### Art. 982.
 
@@ -5167,7 +5167,7 @@ Si el usufructo comprendiera cosas que se deteriorasen por el uso, el usufructua
 
 ###### Art. 991.
 
-Si el usufructo comprende cosas que no pueden usarse sin consumirse, el usufructurario tendrá el derecho de consumirlas, pero está obligado a restituírlas, al terminar el usufructo, en igual género, cantidad y calidad. No siendo posible hacer la restitución, está obligado a pagar su valor, si se hubiesen dado estimadas, o su precio corriente al tiempo de cesar el usufructo, si no fueron estimadas.
+Si el usufructo comprende cosas que no pueden usarse sin consumirse, el usufructuario tendrá el derecho de consumirlas, pero está obligado a restituírlas, al terminar el usufructo, en igual género, cantidad y calidad. No siendo posible hacer la restitución, está obligado a pagar su valor, si se hubiesen dado estimadas, o su precio corriente al tiempo de cesar el usufructo, si no fueron estimadas.
 
 ###### Art. 992.
 
@@ -9055,13 +9055,21 @@ Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el art�
 
 La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de daños y perjuicios con sujeción a las siguientes reglas:
 
-I.- Cuando el daño se causa a las personas y produzca la muerte o incapacidad total, parcial o temporal, el monto de la indemnización se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima, y tomando por base la utilidad o salario que perciba.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 1980)</small>
 
-II.- Cuando la utilidad o salario exceda de veinticinco pesos diarios, no se tomará en cuenta sino esa suma para fijar la indemnización.
+I.- Cuando el daño se causa a las personas y produzca la muerte o incapacidad total, parcial o temporal, el monto de la indemnización se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima y tomando por base el emolumento o salario que perciba.
 
-III.- Si la víctima no percibe utilidad o salario, o no puede determinarse éste, el pago se acordará tomando como base el salario mínimo.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 1980)</small>
 
-IV.- Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles, y se cubrirán preferentemente en forma de pensión o pagos sucesivos.
+II.- En los casos a que se refiere la fracción anterior, cuando el emolumento o salario excede del doble del salario mínimo vigente en la zona económica de que se trate, no se tomará en cuenta sino esa suma para fijar la indemnización.
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 1980)</small>
+
+III.- Si la víctima no percibe emolumento o salario, o no puede determinarse éste, el pago se acordará tomando como base el salario mínimo.
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 1980)</small>
+
+IV.- Los créditos por indemnización, cuando la víctima fuere asalariado, son intransferibles y se cubrirá en una sola exhibición, salvo convenio entre las partes.
 
 V.- Las anteriores disposiciones se observarán en el caso del artículo 2540 de este Código.
 
@@ -9481,7 +9489,7 @@ La solidaridad estipulada no da a la obligación el carácter de indivisible; ni
 
 ###### Art. 1899.
 
-Las obligaciones divisibles en que haya mas de un deudor o acreedor se regirán por las reglas comunes de las obligaciones; las indivisibles en que haya mas de un deudor o acreedor se sujetarán a las siguientes disposiciones.
+Las obligaciones divisibles en que haya más de un deudor o acreedor se regirán por las reglas comunes de las obligaciones; las indivisibles en que haya mas de un deudor o acreedor se sujetarán a las siguientes disposiciones.
 
 ###### Art. 1900.
 
@@ -14413,7 +14421,7 @@ XIV.- La promesa de contratar para que surta efectos contra tercero;
 
 XV.- Las escrituras que contengan la constitución del régimen de condominio y sus modificaciones;
 
-XVI.- Los documentos en que se establezca propiedad publica cuyos titulares podrán ser el Estado, los municipios, organismos descentralizados creados por el Estado u organizados con base en ordenamientos jurídicos en vigor;
+XVI.- Los documentos en que se establezca propiedad pública cuyos titulares podrán ser el Estado, los municipios, organismos descentralizados creados por el Estado u organizados con base en ordenamientos jurídicos en vigor;
 
 XVII.- Los demás títulos que la Ley ordene expresamente sean registrados.
 
@@ -14822,3 +14830,7 @@ A la brevedad posible y previo aviso en el Periódico Oficial y en otro de mayor
 P.O. 9 DE NOVIEMBRE DE 1979.
 
 UNICO:- El presente Decreto entrará en vigor, 30 días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE ENERO DE 1980.
+
+UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
