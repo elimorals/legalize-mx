@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2004-07-24"
+last_updated: "2004-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -85,7 +85,7 @@ El Gobierno del Estado está obligado a prestar y promover servicios educativos 
 
 ###### ARTICULO 7o.
 
-La educación que imparta el Estado de Jalisco, sus Municipios, y sus organismos descentralizados; así como los particulares con autorización o reconocimiento de validez oficial de estudios, tendrá además de los fines señalados en el artículo 3o. de la Constitución Federal y en la Ley General de Educación, los siguientes:
+La educación que imparta el Estado de Jalisco, sus Municipios, y sus organismos descentralizados; así como los particulares con autorización o reconocimiento de validez oficial de estudios, tendrá además de los fines señalados en el artículo 3º de la Constitución Federal y en la Ley General de Educación, los siguientes:
 
 I.- Contribuir al desarrollo integral del ser humano, promoviendo los valores éticos-sociales, para que ejerza plenamente sus capacidades dentro del marco de una convivencia social armónica, todo ello con la participación activa del educando, estimulando su iniciativa y un alto sentido de responsabilidad social;
 
@@ -111,7 +111,9 @@ X.- Impulsar la creación artística y propiciar la adquisición, el enriquecimi
 
 XI.- Impulsar la educación física y la práctica del deporte escolar;
 
-XII.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud, la planeación familiar, la paternidad responsable y las consecuencias nocivas de los vicios, propiciando su rechazo; sin menoscabo de la libertad y del respeto absoluto a la dignidad humana;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XII.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud, la planeación familiar, la paternidad responsable y las consecuencias nocivas de los vicios, de manera particular por el uso o consumo de cualquier tipo de drogas, propiciando su rechazo; sin menoscabo de la libertad y del respeto absoluto a la dignidad humana;
 
 XIII.- Fomentar y encausar el desarrollo y la aplicación del avance científico y tecnológico de acuerdo a las necesidades del crecimiento económico y social de la entidad, propiciando el uso racional de los recursos naturales a fin de preservar el equilibrio ecológico, promoviendo entre los individuos el cuidado, rehabilitación y mantenimiento del medio ambiente y la naturaleza;
 
@@ -235,7 +237,7 @@ DE LAS OBLIGACIONES Y ATRIBUCIONES DEL EJECUTIVO ESTATALA (SIC) TRAVÉS DE LA SE
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 2003)</small>
 
-###### Artículo 14.
+###### ARTICULO 14.
 
 Corresponden al Ejecutivo Estatal por conducto de la Secretaría de Educación del Estado las siguientes facultades:
 
@@ -299,7 +301,7 @@ XVII.- Promover y fomentar en el Estado las actividades artísticas, culturales 
 
 XVIII.- Promover la ampliación de los servicios educativos, fomentando la creación de instituciones públicas que ofrezcan nuevas opciones para el educando;
 
-XIX.- Fomentar la producción y difusión de programas de radio, televisión y video, que impulsen el desarrollo cultural y educativo de la población destacando los valores éticos y universales en que se sustenta la convivencia social, así como la difusión de la educación abierta a través de los medios de comunicación;
+XIX.- Fomentar la producción y difusión de programas de radio, televisión y vídeo, que impulsen el desarrollo cultural y educativo de la población destacando los valores éticos y universales en que se sustenta la convivencia social, así como la difusión de la educación abierta a través de los medios de comunicación;
 
 XX.- Promover que los contenidos de todo tipo de programas transmitidos por los medios de comunicación coadyuven al logro de los fines que la educación debe tener, en orden a lo establecido en la presente Ley;
 
@@ -483,7 +485,7 @@ IV.- Ofrecer servicios médicos, psicológicos, de trabajo social, pedagógico y
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2003)</small>
 
-###### Artículo 28.
+###### ARTICULO 28.
 
 El personal que atienda a los niños en este nivel de educación deberá ser egresado de aquellas instituciones que impartan la educación de tipo superior o de educación normal en todos sus niveles y especialidades.
 
@@ -641,7 +643,7 @@ El Ejecutivo del Estado y los Ayuntamientos promoverán el mejoramiento de la nu
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2003)</small>
 
-###### Artículo 49.
+###### ARTICULO 49.
 
 Para ser docente o directivo de educación indígena se requiere ser bilingüe: lengua autóctona y español, y tener preparación mínima de bachillerato o su equivalente, dando prioridad a los de la misma etnia.
 
@@ -1157,7 +1159,7 @@ La Secretaría de Educación del Estado publicará en la primera quincena de ago
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2003)</small>
 
-###### Artículo 123.
+###### ARTICULO 123.
 
 Los particulares que impartan servicios educativos con incorporación o reconocimiento de validez oficial de estudios, en cualquiera de sus niveles, tipos o modalidades, deben proporcionar becas de un cinco por ciento como mínimo del total de la matrícula del periodo escolar en cada nivel educativo, mismas que se destinarán a los alumnos que satisfagan los requisitos que en el reglamento de becas se establezcan.
 
@@ -1169,7 +1171,7 @@ No formarán parte del porcentaje mínimo las becas otorgadas por algún institu
 
 > <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2003)</small>
 
-Artículo 123 bis.- Cada plantel escolar deberá dar a conocer a la Secretaría de Educación el proceso, mecanismos y requisitos mediante los cuales serán otorgadas las becas, mismos que deberán estar contemplados en el reglamento de becas y que serán aprobados por la Secretaría de Educación y dados a conocer en forma completa a estudiantes, maestros y padres de familia, previamente al otorgamiento de becas.
+ARTICULO 123 bis.- Cada plantel escolar deberá dar a conocer a la Secretaría de Educación el proceso, mecanismos y requisitos mediante los cuales serán otorgadas las becas, mismos que deberán estar contemplados en el reglamento de becas y que serán aprobados por la Secretaría de Educación y dados a conocer en forma completa a estudiantes, maestros y padres de familia, previamente al otorgamiento de becas.
 
 El otorgamiento de becas se deberá hacer en cada plantel por una comisión integrada por maestros, directivos y padres de familia. La integración de las comisiones, así como el proceso de entrega de becas será supervisado y aprobado por la Secretaría de Educación y dado a conocer a la comunidad educativa.
 
@@ -1237,7 +1239,7 @@ Los padres o tutores de los menores de 18 años con necesidades de educación es
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
 
-###### Artículo 128.
+###### ARTICULO 128.
 
 En cada plantel en el que se impartan servicios educativos del nivel básico podrá formarse la asociación de padres de familia, a la cual libremente podrán integrarse los padres de familia, tutores o quienes ejerzan la patria potestad de los educandos.
 
@@ -1690,3 +1692,7 @@ P.O. 8 DE JULIO DE 2004
 P.O. 24 DE JULIO DE 2004.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+
+P.O. 2 DE OCTUBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
