@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1982-09-11"
+last_updated: "1983-01-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -887,15 +887,21 @@ En las permutas se considerará que se efectúan dos adquisiciones.
 
 DE LA TASA
 
+(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 1983)(F. DE E. P.O. 5 DE FEBRERO DE 1983)
+
+###### ARTICULO 99.
+
+El valor del inmueble que se considerará para los efectos del Artículo 96 será el valor más alto entre el precio pactado y el del avalúo pericial que al efecto practique el Departamento de Catastro de la Tesorería General del Estado.
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
-
-###### ARTICULO 99o.
-
-El valor del inmueble que se considerará para los efectos del Artículo 96 será el valor más alto entre el declarado en la operación y el certificado de valor catastral que al efecto expida la Tesorería General.
 
 Cuando con motivo de la adquisición el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
 
-Cuando no se pacte precio el impuesto se calculará con base en el avalúo que practique la Tesorería General del Estado. En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el de avalúo a que se refiere este párrafo.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1983)</small>
+
+En la constitución, adquisición o extinción de usufructo o de la nuda propiedad y en la adquisición de bienes en remate no se tomará en cuenta el precio que se hubiere pactado, sino el del avalúo al que se refiere este Artículo.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
 Para los fines de este impuesto se considera que el usufructo y la nuda propiedad tiene un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
@@ -1565,7 +1571,7 @@ La obligación que este artículo impone, deberá cumplirse por los propietarios
 
 ###### ARTICULO 154o.
 
-Las personas que realicen operaciones de venta de ganado que ostente fierro, marca o señal diferente a las que correspondan a su registro, comprobarán el pago del impuesto, ante las autoridades fiscales. Si se encuentran en poder de una persona animales con fierro marca o señal (sic) diferentes a los del registro correspondiente a dicha persona, se presumirán que han adquirido dicho ganado en virtud de operación de venta y deberán cubrir el impuesto conforme a la tarifa que establece este capítulo.
+Las personas que realicen operaciones de venta de ganado que ostente fierro, marca o señal diferente a las que correspondan a su registro, comprobarán el pago del impuesto, ante las autoridades fiscales. Si se encuentran en poder de una persona animales con fierro marca o señal diferentes a los del registro correspondiente a dicha persona, se presumirán que han adquirido dicho ganado en virtud de operación de venta y deberán cubrir el impuesto conforme a la tarifa que establece este capítulo.
 
 En el caso de traslación de ganado que no tenga el fierro, marca o señal del vendedor o propietario a quien se extendió el recibo oficial correspondiente, se presumirá como actos de doble operación y deberán cubrir el impuesto más la sanción correspondiente.
 
@@ -2661,7 +2667,7 @@ Son obligaciones de los sujetos de este impuesto:
 
 I.- Liquidar el impuesto en el momento en que se haga el entero de los conceptos básicos sobre los cuales recae, en las declaraciones que se presenten con motivo del pago de estos, salvo en aquellos casos en que se prevea una forma distinta.
 
-II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días 1o. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
+II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días lo. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
 
 III.- Las demás que este capítulo establece.
 
@@ -3094,3 +3100,7 @@ Para conocimiento y aplicación, publíquese este Decreto en el Periódico Ofici
 P.O. 11 DE SEPTIEMBRE DE 1982
 
 UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE ENERO DE 1983
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
