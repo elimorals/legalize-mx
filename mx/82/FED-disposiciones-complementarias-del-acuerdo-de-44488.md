@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-de-44488"
 country: "mx"
 rank: "otro"
 publication_date: "2003-04-02"
-last_updated: "2003-04-02"
+last_updated: "2003-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44488&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,13 @@ issue_date: "2003-03-27"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 53 (BRASIL, 2002)
 
-DECRETO PARA LA APLICACION DEL ACUERDO DE COMPLEMENTACION ECONOMICA No. 53, SUSCRITO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA FEDERATIVA DEL BRASIL
+ACUERDO POR EL QUE SE DA A CONOCER LA ENTRADA EN VIGOR DEL ACUERDO DE COMPLEMENTACION ECONOMICA No. 53, SUSCRITO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA FEDERATIVA DEL BRASIL
 
-Decreto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 2 de abril de 2003.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 2 de mayo de 2003.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de las facultades que me confieren los artículos 89, fracción I y 131 de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 2, 4 y 14 de la Ley de Comercio Exterior; 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y
+FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 34 fracción XXX de la Ley Orgánica de la Administración Pública Federal; 5 fracción X de la Ley de Comercio Exterior, y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
@@ -33,11 +33,19 @@ Que el 28 de diciembre de 1980 fue aprobado por el Senado de la República el Tr
 
 Que en el marco del Tratado de Montevideo 1980, los Estados Unidos Mexicanos y la República Federativa del Brasil suscribieron el 3 de julio de 2002 el Acuerdo de Complementación Económica No. 53;
 
-Que el mencionado Acuerdo de Complementación Económica No. 53 fue publicado el 31 de diciembre de 2002, en el Diario Oficial de la Federación, y
+Que el 31 de diciembre de 2002, se publicó en el Diario Oficial de la Federación; Acuerdo de Complementación Económica No. 53, suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil.
 
-Que para efectos exclusivamente de otorgar las preferencias pactadas en el Acuerdo de Complementación Económica No. 53 es necesario establecer para su exacta observancia la tabla de equivalencias de la Nomenclatura de la ALADI (NALADISA) con la de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, he tenido a bien expedir el siguiente
+Que el 2 de abril de 2003, se publicó en el Diario Oficial de la Federación el Decreto para la aplicación del Acuerdo de Complementación Económica No. 53, suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil;
 
-DECRETO PARA LA APLICACIÓN DEL ACUERDO DE COMPLEMENTACIÓN ECONÓMICA No. 53, SUSCRITO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPÚBLICA FEDERATIVA DEL BRASIL
+Que el 26 de septiembre de 2002 y el 2 de abril de 2003, la Representación Permanente de Brasil y de México ante la ALADI, respectivamente, notificaron a la Secretaría General de la ALADI el cumplimiento de sus formalidades jurídicas, con lo cual concluye el procedimiento para la entrada en vigor prevista en el artículo primero transitorio del Decreto para la aplicación del Acuerdo de Complementación Económica No. 53, suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil, y
+
+Que el artículo primero transitorio del propio decreto, dispone que la fecha de entrada en vigor del mismo será treinta (30) días después de que las partes hayan efectuado el intercambio de comunicaciones que acrediten el cumplimiento de las formalidades jurídicas, necesarias para la aplicación del Acuerdo de Complementación Económica No. 53 suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil, he tenido a bien expedir el siguiente:
+
+ACUERDO POR EL QUE SE DA A CONOCER LA ENTRADA EN VIGOR DEL ACUERDO DE COMPLEMENTACION ECONOMICA No. 53, SUSCRITO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA FEDERATIVA DEL BRASIL
+
+###### ARTICULO UNICO.
+
+El Acuerdo de Complementación Económica No. 53, suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil, publicado el 31 de diciembre de 2002 en el Diario Oficial de la Federación, entrará en vigor el 2 de mayo de 2003 de conformidad con el artículo primero transitorio del Decreto para la aplicación del Acuerdo de Complementación Económica No. 53, suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -63,12 +71,8 @@ a) certificado de origen, de conformidad con lo establecido por el artículo seg
 
 b) certificado de cupo ALADI expedido por la Secretaría de Economía, cuando así corresponda.
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Decreto entrará en vigor treinta (30) días después de que las Partes hayan efectuado el intercambio de comunicaciones que acrediten el cumplimiento de las formalidades jurídicas necesarias para la aplicación del Acuerdo de Complementación Económica No. 53 suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil.
+UNICO.- El presente Acuerdo entrará en vigor el día de su publicación, en el Diario Oficial de la Federación.
 
-Para tal efecto, la Secretaría de Economía publicará en el Diario Oficial de la Federación un aviso en el que notifique la fecha de entrada en vigor del Acuerdo de Complementación Económica No. 53 suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil.
-
-SEGUNDO.- De conformidad con el Artículo XVIII-3 del Acuerdo de Complementación Económica No. 53, suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002, quedan sin efecto todas las disposiciones y preferencias contenidas en el Acuerdo de Alcance Parcial de Renegociación No. 9 publicado en el Diario Oficial de la Federación el 1o. de julio de 1988, y sus Protocolos Modificatorios o Adicionales, quedando abrogado el Decreto para la Aplicación del Séptimo Protocolo Adicional del Acuerdo de Alcance Parcial No. 9 suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil, publicado en el Diario Oficial de la Federación el 27 de julio de 2000 y el Decreto para la Aplicación del Octavo Protocolo Adicional del Acuerdo de Alcance Parcial No. 9 suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil, publicado en el Diario Oficial de la Federación el 4 de julio de 2001, así como cualquier otra disposición que se oponga a lo dispuesto en el presente Decreto.
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de marzo de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+México, D.F., a 25 de abril de 2003.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
