@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "1954-09-25"
+last_updated: "1962-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1962.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de Septiembre de 1954.
 
@@ -5159,9 +5159,13 @@ Si al morir el autor de la herencia tenía varias concubinas en las condiciones 
 
 ### CAPITULO VII. De la sucesión de la Beneficencia Pública
 
-ART. 1527.- A falta de todos los herederos llamados en los capítulos anteriores, sucederá la Beneficencia Pública.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1962)</small>
 
-ART. 1528.- Cuando sea heredera la Beneficencia Pública, y entre lo que le corresponda existan bienes raíces que no pueda adquirir conforme al artículo 27 de la Constitución, se venderán los bienes en pública subasta, antes de hacerse la adjudicación, aplicándose a la Beneficencia Pública el precio que se obtuviere.
+ART. 1527.- A falta de todos los herederos llamados en los Capítulos anteriores sucederá el Fisco del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1962)</small>
+
+ART. 1528.- Cuando sea heredero el Fisco del Estado y entre lo que corresponda existan bienes raíces que no pueda adquirir el Estado conforme al Artículo 27 de la Constitución Política Mexicana, se venderán los bienes en pública subasta, de hacerse la adjudicación.
 
 ### CAPITULO I. De las precauciones que deben adoptarse cuando la viuda quede encinta
 
@@ -9303,6 +9307,8 @@ ART. 2929.- Podrán cancelarse parcialmente las inscripciones hipotecarias de qu
 
 ART. 2930.- Podrá también cancelarse total o parcialmente la hipoteca que garantice tanto títulos nominativos como al portador, por consentimiento del representante común de los tenedores de los títulos, siempre que esté autorizado para ello y declare bajo su responsabilidad que ha recibido el importe por el que cancela.
 
+### CAPITULO III. DEL REGISTRO DE LA PROPIEDAD INMUEBLE
+
 De los títulos inscribibles y de los anotables
 
 ART. 2931.- En el registro de la propiedad inmueble se inscribirán:
@@ -9332,8 +9338,6 @@ VII.- Las declaraciones de expropiación, de limitación de dominio o de ocupaci
 VIII.- Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en el Registro;
 
 IX.- Cualquier otro título que sea anotable de acuerdo con este Código u otras leyes.
-
-### CAPITULO III. DEL REGISTRO DE LA PROPIEDAD INMUEBLE
 
 De los efectos de las anotaciones
 
@@ -9562,3 +9566,9 @@ GRAL. DE DIV. JESUS GONZALEZ LUGO.
 ALFREDO RUISECO AVELLANEDA,
 
 Secretario Gral. de Gobierno.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 29 DE DICIEMBRE DE 1962.
+
+Este decreto empezará a surtir sus efectos legales a partir de su publicación en el Periódico Oficial del Estado.
