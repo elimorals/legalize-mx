@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-municipal-para-el-estado-de-zacatecas-8238"
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-29"
-last_updated: "1988-01-09"
+last_updated: "1989-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1989.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sabado 29 de diciembre de 1984.
 
@@ -295,9 +295,17 @@ En los casos en que se transmita la nuda propiedad del inmueble la base del impu
 
 ###### ARTICULO 32.
 
-El impuesto se calculará aplicando la tasa del 10% al valor del inmueble después de reducirlo en cinco veces al salario minimo general elevado al año de la zona económica en que se encuentre ubicado el inmueble.
+El impuesto se calculará aplicando la tasa del 2% al valor del inmueble.
 
 Cuando el inmueble forme parte de departamentos habitacionales, la reducción se hará por cada uno de ellos. Lo dispuesto en este párrafo no es aplicable a hoteles.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1989)</small>
+
+En operaciones que tengan por objeto la enajenación de unidades habitacionales de vivienda social, ya sea por su superficie, características de construcción o financiamiento, la reducción será hasta de 10 veces el salario mínimo general elevado al año.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1989)</small>
+
+Para los efectos del párrafo anterior, se observará el valor que la Dirección de Catastro y Registro Público del Estado le asigne a la vivienda social en la entidad.
 
 ###### ARTICULO 33.
 
@@ -315,7 +323,7 @@ IV.- No se considerarán departamentos habitacionales los que por sus caracterí
 
 ###### ARTICULO 34.
 
-El pago de este impuesto deberá hacerse dentro de los quince días naturales siguientes a la fecha del a celebración del acto por el que se adquirió la propiedad o de aquel en que se realice cualquiera de los supuestos que a continuación se señalan:
+El pago de este impuesto deberá hacerse dentro de los quince días naturales siguientes a la fecha de la celebración del acto por el que se adquirió la propiedad o de aquel en que se realice cualquiera de los supuestos que a continuación se señalan:
 
 I. Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
 
@@ -611,8 +619,12 @@ EL DIRECTOR GENERAL DE GOBIERNO
 
 LIC. RAUL RODRIGUEZ SANTOYO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN DE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 9 DE ENERO DE 1988
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1989
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
