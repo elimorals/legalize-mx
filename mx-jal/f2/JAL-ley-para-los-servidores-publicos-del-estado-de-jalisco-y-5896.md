@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2002-02-12"
+last_updated: "2002-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -329,7 +329,7 @@ Todo Servidor Público antes de tomar posesión de su cargo, rendirá la protest
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1987)</small>
 
-La protesta de los servidores públicos se rendirá en los términos siguientes: El que tome la protesta interrogará como sigue: ¿ protesta usted desempeñar leal y patrióticamente el cargo de (el que se confiera al interesado) que se le confirió, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ella emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado? El interesado responderá: "Si protesto", la autoridad que tome la protesta añadirá: "Si no lo hiciere así que la Nación y el Estado se lo demanden".
+La protesta de los servidores públicos se rendirá en los términos siguientes: El que tome la protesta interrogará como sigue: ¿ protesta usted desempeñar leal y patrióticamente el cargo de (el que se confiera al interesado) que se le confirió, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ella emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado? el interesado responderá: "Si protesto", la autoridad que tome la protesta añadirá: "Si no lo hiciere así que la Nación y el Estado se lo demanden".
 
 ###### Art. 19.
 
@@ -1039,6 +1039,8 @@ V. Un plazo mayor de quince días para el pago de los sueldos y demás prestacio
 
 ### CAPITULO I. Del tribunal de arbitraje y escalafón
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2002)</small>
+
 ###### Art. 94.
 
 Huelga es la suspensión temporal de trabajo como resultado de una coalición de servidores públicos de base, decretada en la forma y términos que esta ley establece.
@@ -1183,17 +1185,39 @@ Para los efectos de la prescripción, los meses se regularán por el número de 
 
 ## TITULO QUINTO
 
-### CAPITULO III. Procedimientos especiales
+### CAPITULO III. Del Procedimiento ante el Tribunal de Arbitraje y Escalafón
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
 
 ###### Art. 112.
 
-El Tribunal de Arbitraje y Escalafón estará compuesto por tres Magistrados que durarán en su cargo seis años, que se iniciarán a partir del día primero de julio del año en que principie su correspondiente período constitucional, pudiendo ser reelectos y serán: Uno, en representación de los Poderes del Estado, de los Municipios, de los Organismos Descentralizados, Empresas o asociaciones de participación mayoritaria Estatal o Municipal, que designe el Ejecutivo, otro, representante de los trabajadores, designado a través de la Federación de Sindicatos de Trabajadores al Servicio del Estado de Jalisco; y, un tercero, designado por el Colegio de Notarios del Estado, a través de su Consejo que deberá recaer, necesariamente, en un Notario Público Titular, y en ejercicio, de la ciudad de Guadalajara.
+Para conocer de los conflictos laborales individuales y colectivos que se presenten entre los sujetos de esta Ley habrá un Tribunal de Arbitraje y Escalafón, el cual se integrará por:
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+I. Un magistrado designado por el Gobernador el Estado de Jalisco;
 
-Por cada Magistrado, las instituciones que lo hayan designado, nombrarán un suplente, quien sustituirá de oficio al Titular, en ausencias temporales o definitivas y, llegado este caso, deberá hacerse nueva designación, sin perjuicio de la sustitución temporal por el suplente, hasta que ésta haya sido hecha.
+II. Un magistrado que será designado por la Federación de Sindicatos que tenga mayor representación de servidores públicos, lo cual será validado por el propio Tribunal de Arbitraje y Escalafón, de conformidad con las disposiciones que establezca esta Ley; y
 
-El Tribunal de Arbitraje y Escalafón será presidido por aquel de los Magistrados que elijan de entre sí, sus miembros, durando en funciones un año, pudiendo ser reelecto.
+III. Un tercer magistrado, designado por los otros dos árbitros.
+
+Los magistrados del Tribunal de Arbitraje y Escalafón durarán en su cargo tres años, que iniciarán a partir del día primero de julio del año en que principie su periodo, pudiendo ser ratificados.
+
+Por cada integrante, se nombrará un suplente, quien en ausencia temporal del titular, lo sustituirá de oficio. En caso de ausencia definitiva deberá hacerse nueva designación, sin perjuicio de la sustitución temporal por el suplente, hasta que ésta haya sido hecha.
+
+El Presidente del Tribunal de Arbitraje y Escalafón será designado de entre los mismos, el cual durará en funciones un año y no podrá ser reelecto para el periodo inmediato.
+
+El Tribunal de Arbitraje y Escalafón contará con el personal administrativo que sea necesario para su debido funcionamiento.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2002)</small>
+
+Art. 112 bis. Para la designación de los magistrados del Tribunal de Arbitraje y Escalafón se estará a lo siguiente:
+
+I. El nombramiento de los magistrados designados por el Gobernador del Estado y los trabajadores deberá llevarse a cabo a más tardar el primero de junio del año en que principie su correspondiente periodo; y
+
+II. Para la elección del tercer magistrado y su suplente, los magistrados del Tribunal de Arbitraje y Escalafón salientes deberán expedir convocatoria dentro de los diez primeros días del mes de abril, misma que será publicada en tres periódicos de mayor circulación en el Estado de Jalisco, a efecto de que el Colegio de Notarios, los Colegios de Abogados debidamente registrados y las instituciones de educación superior en el Estado de Jalisco, sometan a consideración de los magistrados designados por el Gobernador del Estado y por los trabajadores, una lista de candidatos remitiendo los expedientes a más tardar al día siguiente de la designación de éstos, para acreditar que los ciudadanos propuestos cumplen con los requisitos establecidos en la presente Ley y tienen aptitud para ocupar dicho cargo.
+
+Una vez remitidos los expedientes a los magistrados designados por el Gobernador del Estado y por los trabajadores, éstos deberán designar al tercer magistrado y su suplente que integrará el Tribunal de Arbitraje y Escalafón, a más tardar el día 20 de junio del año en que inicie su periodo.
+
+A falta de acuerdo, tanto el magistrado designado por el Gobernador del Estado como el magistrado de los trabajadores propondrán, cada uno, dos candidatos de los expedientes que fueron remitidos inicialmente, a fin de que, mediante insaculación, sea designado el tercer magistrado y su suplente del Tribunal de Arbitraje y Escalafón. Levantándose acta circunstanciada de lo anterior por el Secretario de Acuerdos del Tribunal adscrito al Pleno.
 
 ###### Art. 113.
 
@@ -1201,29 +1225,45 @@ Para ser Magistrado del Tribunal de Arbitraje y Escalafón, se requiere:
 
 I. Ser ciudadano mexicano por nacimiento, nativo del Estado o domiciliado en él, cuando menos, tres años antes del día de la designación;
 
-II. Ser abogado con título oficial, y tener, cuando menos, cinco años de práctica forense reconocida;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2002)</small>
+
+II. Ser abogado con título oficial y tener, cuando menos, cinco años de ejercicio profesional y experiencia acreditable en materia laboral;
 
 III. Tener treinta años cumplidos el día de la elección, estar en el pleno ejercicio de sus derechos políticos y civiles, y haber observado una conducta pública notoriamente buena;
 
-IV. Prestar servicio en alguna de las dependencias gubernamentales a que se refiere esta ley, a excepción del Magistrado Notario. Los Titulares de los Poderes no podrán en ningún caso, formar parte del Tribunal; y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2002)</small>
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+IV. Prestar servicio en alguna de las dependencias gubernamentales a que se refiere esta Ley, a excepción del tercer magistrado designado por los magistrados nombrados por el Gobernador del Estado y por los trabajadores. Los titulares de los Poderes no podrán, en ningún caso, formar parte del Tribunal; y
 
-V. Para tener el cargo de Magistrado representante de los Trabajadores al Servicio del Estado deberá, quien lo desempeñe, estar ocupando un puesto de base en alguno de los Poderes del Gobierno Estatal o de los Municipios y, quedará inhabilitado para desempeñar la Magistratura, si aceptare un cargo de confianza o fuere electo para ocupara alguno de elección popular.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1987)</small>
+V. Para tener el cargo de magistrado designado por los trabajadores al servicio del Estado deberá, quien lo desempeñe, estar ocupando un puesto de base en alguno de los poderes del gobierno estatal o municipal; y
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2002)</small>
+
+VI. Para tener el cargo de magistrado designado por el Gobernador del Estado y por los trabajadores, éstos deberán solicitar licencia sin goce de sueldo por el periodo que dure su cargo.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2002)</small>
 
 ###### Art. 114.
 
-El Tribunal de Arbitraje y Escalafón será competente para resolver las controversias que se susciten entre los Poderes del Estado, los Ayuntamientos los Organismos Descentralizados, empresas o asociaciones de participación mayoritaria estatal o municipal y sus servidores, así como de los conflictos que surjan entre la Federación de Sindicatos de Servidores Públicos y los Sindicatos que la integran, o sólo entre éstos. También será competente para invalidar las resoluciones de las Comisiones Mixtas de Escalafón, a instancia de uno o varios concursantes que consideren vulnerados sus derechos escalafonarios.
+El Tribunal de Arbitraje y Escalafón será competente para:
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
+I. Conocer y resolver los conflictos individuales que se susciten entre los Titulares de las dependencias y entidades públicas y sus trabajadores, así como los demás casos que la ley prevea;
+
+II. Conocer y resolver los conflictos colectivos que surjan entre las dependencias y entidades públicas y las organizaciones sindicales de trabajadores;
+
+III. Conocer y resolver los conflictos que surjan entre las Federaciones de Sindicatos y los sindicatos que las integran, o sólo entre estos;
+
+IV. Conocer del registro de los sindicatos y federaciones estatales y, en su caso, resolver la cancelación de los mismos previo juicio que se siga para tal efecto a petición de parte;
+
+V. Efectuar el registro de las Condiciones Generales de Trabajo; e
+
+VI. Invalidar las resoluciones de las comisiones mixtas de escalafón, a instancia de uno o varios concursantes que consideren vulnerados sus derechos escalafonarios.
 
 Dicho Tribunal queda exceptuado para conocer y resolver las controversias o conflictos en materia de relaciones de trabajo que se susciten entre los servidores públicos que presten sus servicios en los tribunales y Consejo General del Poder Judicial a que se refiere el primer párrafo del artículo 56 de la Constitución Política del Estado. También queda exceptuado de conocer y resolver las controversias o conflictos de carácter colectivo que abarquen más de una entidad federativa y en que sean parte sindicatos nacionales o federales reconocidos por el Gobierno del Estado.
 
-### CAPITULO I. Disposiciones generales
-
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+### CAPITULO IV. Del Procedimiento de Ejecución
 
 ###### Art. 115.
 
@@ -1235,11 +1275,11 @@ El Tribunal de Arbitraje y Escalafón actuará en pleno, cuando se trate de conf
 
 En los conflictos de naturaleza individual, el Tribunal de Arbitraje y Escalafón podrá comisionar a un auxiliar de instrucción, o secretario, para la tramitación del procedimiento desde su inicio hasta el cierre de instrucción.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2002)</small>
 
 ###### Art. 117.
 
-El procedimiento será público, gratuito, inmediato, y se iniciará a instancia de parte. Los Magistrados, secretarios y auxiliares de instrucción, deberán de tomar las medidas conducentes para lograr la mayor economía de tiempo, concentración y sencillez en el proceso.
+El procedimiento será público, gratuito, inmediato, y se iniciará a instancia de parte. Los integrantes del Tribunal de Arbitraje y Escalafón deberán tomar las medidas conducentes para lograr la mayor economía de tiempo, concentración y sencillez en el proceso.
 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
@@ -1311,11 +1351,21 @@ El Tribunal de Arbitraje y Escalafón podrá tener acreditada la personalidad de
 
 Siempre que dos o más personas ejerciten la misma acción u opongan idéntica excepción en un mismo proceso, deben litigar unidas y con una representación en común, salvo que los colitigantes puedan tener intereses opuestos. Si los interesados no hicieren el nombramiento, el Tribunal de Arbitraje y Escalafón deberá hacerlo, escogiendo de entre los propios interesados. El representante común tendrá los derechos, obligaciones y responsabilidad inherentes a un mandatario judicial.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2002)</small>
 
 ###### Art. 126.
 
-Los Magistrados, secretarios y auxiliares de instrucción del Tribunal de Arbitraje y Escalafón no son recusables, pero deberán excusarse de conocer de los juicios en que intervengan, cuando exista una causa fundada para ello, que manifestarán en el momento de proponer la calificación al Tribunal.
+Los magistrados del Tribunal de Arbitraje y Escalafón, secretarios y auxiliares de instrucción no son recusables, pero deberán excusarse de conocer de los juicios en que intervengan, cuando:
+
+I. Tengan parentesco por consaguinidad (sic), dentro del cuarto grado o de afinidad dentro del segundo, con cualquiera de las partes;
+
+II. Tengan el mismo parentesco con el representante legal, abogado o patrono de cualquiera de las partes;
+
+III. Tengan interés personal directo o indirecto en el procedimiento;
+
+IV. Sea socio, arrendatario, arrendador, trabajador o patrón o que dependa económicamente de alguna de las partes o de sus representantes; y
+
+V. Sea deudor, acreedor, heredero o legatario de alguna de las partes o sus representantes.
 
 ###### Art. 127.
 
@@ -1323,21 +1373,21 @@ Las excusas e impedimentos se calificarán de plano y, en su tramitación, se ob
 
 I. Se deberá manifestar la excusa por escrito, dentro de las 48 horas siguientes a la que se tenga conocimiento del impedimento.
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2002)</small>
 
-II. Si el Pleno lo declara procedente, se llamará al Magistrado suplente de la Institución que lo haya designado quien integrará el Tribunal únicamente en el juicio en donde se haya excusado el Magistrado en funciones;
+II. Si el pleno lo declara procedente, se llamará a su suplente quien integrará el Tribunal únicamente en el juicio donde se haya excusado el magistrado titular en funciones;
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2002)</small>
 
-III. Si se estima por el Pleno que no es causa suficiente para que constituya impedimento legal, el Magistrado continuará en sus funciones y seguirá conociendo del juicio.
+III. Si se estima por el Pleno que no es causa suficiente para que constituya impedimento legal, el magistrado titular del Tribunal continuará en sus funciones y seguirá conociendo del juicio; y
 
 > <small>(ADICIONADA, P.O. 17 DE ENERO DE 1998)</small>
 
 IV. En los casos de secretarios y auxiliares de instrucción, el Pleno designará a la persona que deberá de seguir conociendo del negocio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 27 DE JUNIO DE 2002)</small>
 
-### CAPITULO II. De la comisión de evaluación
+### CAPITULO I. Disposiciones generales
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -1403,11 +1453,11 @@ El Pleno del Tribunal, el auxiliar de instrucción, o el secretario, calificará
 
 En la audiencia de desahogo, sólo se recibirán las pruebas admitidas previamente, a no ser que se refieran a hechos supervenientes, en cuyo caso, se dará vista a la contraria antes de resolver lo procedente. Se exceptúan las relativas a las tachas de testigos o la confesional, siempre que se ofrezcan antes de la declaratoria de haberse concluido el procedimiento y se cite a las partes a oír el laudo correspondiente.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2002)</small>
 
 ###### Art. 135.
 
-El Tribunal tendrá las más amplias facultades para la práctica de las diligencias de desahogo de pruebas. Los servidores públicos autorizados de las entidades públicas, pondrán a disposición del Tribunal los documentos, archivos y constancias que se refieran o se relacionen con los hechos investigados en el procedimiento, sin perjuicio de quien envíen las copias que les solicite el Tribunal. Concluida la recepción de pruebas y practicadas las diligencias ordenadas por el Tribunal, se declarará concluido el procedimiento y se citará a las partes a oír el laudo.
+El Tribunal de Arbitraje y Escalafón tendrá las más amplias facultades para la práctica de las diligencias de desahogo de pruebas. Los servidores públicos autorizados de las entidades públicas, pondrán a disposición del Tribunal los documentos, archivos y constancias que se refieran o se relacionen con los hechos investigados en el procedimiento, sin perjuicio de que envíen las copias que les solicite el Tribunal. Concluida la recepción de pruebas y practicadas las diligencias ordenadas por el Tribunal, se declarará concluido el procedimiento y se dictará el laudo correspondiente dentro de un término que no excederá de veintidós días hábiles.
 
 ###### Art. 136.
 
@@ -1423,13 +1473,15 @@ Antes de pronunciarse el laudo, los Magistrados podrán solicitar mayor informac
 
 La caducidad en el proceso se producirá, cuando cualquiera que sea su estado, no se haya efectuado algún acto procesal, ni promoción durante un término mayor de seis meses, así sea con el fin de pedir que se dicte el laudo. No operará la caducidad, aún cuando dicho término transcurra, por estar pendiente el desahogo de diligencias que deban practicarse fuera del local del Tribunal o de recibirse informes o copias certificadas que hayan sido solicitadas. A petición de parte interesada, o de oficio, el Tribunal declarará la caducidad cuando se estime consumada.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2002)</small>
 
 ###### Art. 139.
 
-Las resoluciones dictadas por el Tribunal de Arbitraje y Escalafón serán inapelables, excepto el auto de admisión de demanda respecto del cual se establece el incidente de inadmisibilidad por demanda frívola e improcedente, el cual debe de promoverse por la parte demandada, dentro del improrrogable término de los cinco días siguientes al emplazamiento, y resolverse como de previo y especial pronunciamiento por el Pleno del Tribunal dentro de los 10 días siguientes a su interposición; la promoción de este incidente suspende todo el procedimiento y el término para contestar la demanda en el caso de que sea desechado, correrá íntegro a favor de la demandada a partir de la notificación de la resolución que lo deseche. Todas las resoluciones del Tribunal deberán cumplirse, especialmente por parte de quien sea condenado en el Laudo. Pronunciado el Laudo, el Tribunal lo notificará personalmente a las partes.
+Las resoluciones dictadas por el Tribunal de Arbitraje y Escalafón serán inapelables, excepto el auto de admisión de demanda respecto del cual se establece el incidente de inadmisibilidad por demanda frívola e improcedente, el cual debe de promoverse por la parte demandada, dentro del improrrogable término de los cinco días siguientes al emplazamiento, y resolverse como de previo y especial pronunciamiento por el Pleno del Tribunal dentro de los diez días siguientes a su interposición; la promoción de este incidente suspende todo el procedimiento. Todas las resoluciones del Tribunal deberán cumplirse, especialmente por parte de quien sea condenado en el laudo. Pronunciado el laudo, el Tribunal deberá notificarlo personalmente a las partes al siguiente día hábil.
 
-### CAPITULO III. Del sistema administrativo
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2002)</small>
+
+### CAPITULO II. De la comisión de evaluación
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -1441,9 +1493,11 @@ Las autoridades están obligadas a prestar auxilio al Tribunal de Arbitraje y Es
 
 El Tribunal tiene la obligación de proveer a la eficaz e inmediata ejecución de los laudos y, a ese efecto, dictará todas las medidas necesarias en la forma y términos que, a su juicio, sean procedentes.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2002)</small>
+
 ###### Art. 142.
 
-Cuando se pida la ejecución de un laudo, el Tribunal despachará auto con efectos de mandamiento en forma y autorizará a un Secretario para que, asociado de la parte que obtuvo resolución favorable, se constituya en el domicilio de la parte contraria y la requiera para que cumpla la resolución, apercibiéndola de que, de no hacerlo, se procederá al uso de los medios de apremio.
+Cuando se pida la ejecución de un laudo, el Tribunal de Arbitraje y Escalafón, despachará auto con efectos de mandamiento en forma, notificándolo en el domicilio procesal y apercibiéndola de que, de no cumplir con dicha resolución, se procederá al uso de los medios de apremio.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
 
@@ -1497,7 +1551,7 @@ En tanto que no se declare ilegal, inexistente o terminado un conflicto de huelg
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
 
-### CAPITULO IV. Del desarrollo y profesionalización
+### CAPITULO III. Del sistema administrativo
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -1579,7 +1633,7 @@ Quienes desempeñen algún puesto del Servicio, tendrán los mismos derechos y o
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
 
-### CAPITULO V. De la separación y reincorporación
+### CAPITULO IV. Del desarrollo y profesionalización
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -1682,6 +1736,10 @@ V. Llevar libro de registro de movilidad y promoción del personal inscrito en e
 VI. Las demás que le otorgue la presente Ley, el Reglamento Interno y los acuerdos de la Comisión.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
+
+### CAPITULO V. De la separación y reincorporación
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
 ###### Art. 169.
 
@@ -1885,7 +1943,7 @@ Tercero. Quedan subsistentes las normas legales que atañan a alguna oficina o u
 
 Cuarto. El Tribunal de Arbitraje y Escalafón funcionará de acuerdo con los preceptos de esta ley y el Reglamento Interior que expida el mismo Tribunal, el cual deberá sujetarse a los principios generales del presente Ordenamiento.
 
-Quinto. Quedan derogadas, tan sólo por lo que ve al Magistrado del Tribunal de Arbitraje y Escalafón, previsto por esta ley, las incompatibilidad (sic) establecidas por la Ley del Notariado en vigor.
+Quinto. (DEROGADO, P.O. 27 DE JUNIO DE 2002)
 
 Sexto. Los actuales magistrados designados en el año de 1978, continuarán en funciones hasta el día treinta de junio de 1984.
 
@@ -1992,3 +2050,25 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO.- Para el ejercicio fiscal del 2002, el Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, será convocado de inmediato, para que a más tardar el 31 de marzo del 2002, evalúe las percepciones aprobadas en los presupuestos respectivos, sin que esta evaluación pueda afectar las prestaciones ya aprobadas.
+
+P.O. 27 DE JUNIO DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Los magistrados del Tribunal de Arbitraje y Escalafón que entren en funciones a partir del 1 de julio del año en curso, durarán en su encargo, por única ocasión, hasta el 30 de junio del año 2004.
+
+CUARTO.- Las disposiciones establecidas en el artículo 112 bis no serán aplicables para la designación de los magistrados que entrarán en funciones el 1 de julio del año en curso.
+
+QUINTO.- Por única ocasión, la Federación de Sindicatos de mayor antigüedad en su registro ante el Tribunal de Arbitraje y Escalafón designará a un magistrado titular para el periodo comprendido del 1 de julio de 2002 al 30 de junio de 2003, periodo en el cual se llevará a cabo, por el Tribunal de Arbitraje y Escalafón, el procedimiento respectivo para determinar cuál Federación de Sindicatos tiene la mayor representación de servidores públicos.
+
+El magistrado suplente para el periodo mencionado en el párrafo anterior, será nombrado por la Federación de Sindicatos de reciente registro.
+
+Una vez realizado el recuento a que se refiere el primer párrafo de este artículo, la Federación de Sindicatos que tenga la mayor representación designará al magistrado y a su suplente que ejercerán sus funciones en el periodo comprendido del 1 de julio de 2003 al 30 de junio de 2004.
+
+SEXTO.- Para la designación del magistrado y su suplente a que se refiere la fracción III del artículo 112 de la Ley, los magistrados del Tribunal de Arbitraje y Escalafón salientes deberán expedir convocatoria a más tardar el 30 de junio del año en curso misma que deberá ser publicada en tres periódicos de mayor circulación en el Estado de Jalisco; asimismo, el Colegio de Notarios, los Colegios de Abogados debidamente registrados y las instituciones de educación superior en el Estado de Jalisco, deberán remitir las propuestas de los candidatos, de los magistrados designados por el Gobernador del Estado y por los trabajadores hasta el 15 de julio del mismo año, a efecto de que sea designado el tercer magistrado y su suplente a más tardar el 26 de julio de 2002.
+
+A falta de acuerdo, tanto el magistrado designado por el Gobernador del Estado como el magistrado designado por los trabajadores propondrán, cada uno, dos candidatos de los expedientes remitidos inicialmente, a fin de que, mediante insaculación, sea designado el tercer magistrado y su suplente del Tribunal de Arbitraje y Escalafón a más tardar el 31 de julio de 2002, y entre en funciones el 1º de agosto del mismo año. Levantándose acta circunstanciada de lo anterior por el Secretario de Acuerdos del Tribunal adscrito al Pleno.
+
+SÉPTIMO.- El Secretario de Acuerdos del Tribunal adscrito al Pleno fungirá, durante el mes de julio del año 2002, como magistrado provisional con las facultades y obligaciones que le da la Ley a los demás magistrados.
