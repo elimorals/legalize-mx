@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-15-2002-de-la-comision-de-creacion-de-nuevos-62673
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-03-26"
-last_updated: "2002-03-26"
+last_updated: "2002-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62673&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-03-19"
 
 ACUERDO CCNO/15/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA PRORROGA DEL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL SEGUNDO Y TERCER TRIBUNALES COLEGIADOS DEL DECIMOSEPTIMO CIRCUITO, CON RESIDENCIA EN CHIHUAHUA, CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 2002.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de marzo de 2002.
 
@@ -51,6 +51,8 @@ ACUERDO
 
 PRIMERO.- Se prorroga el plazo de exclusión del turno de nuevos asuntos establecido en el punto Primero del Acuerdo CCNO/9/2002 para el Segundo y Tercer Tribunales Colegiados del Decimoséptimo Circuito, con residencia en Chihuahua, Chihuahua, por el lapso de dos meses.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/20/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 5 DE JUNIO DE 2002, SE PRORROGA EL PLAZO DE EXCLUSION DEL TURNO DE ASUNTOS NUEVOS, PARA EL SEGUNDO Y TERCER TRIBUNALES COLEGIADOS, POR UN LAPSO DE QUINCE DIAS; ASIMISMO, SE EXCLUYE TEMPORALMENTE DEL TURNO DE ASUNTOS NUEVOS AL PRIMER TRIBUNAL COLEGIADO, TODOS DEL DECIMOSEPTIMO CIRCUITO, CON RESIDENCIA EN CHIHUAHUA, CHIHUAHUA, POR UN TERMINO DE QUINCE DIAS; PRORROGA Y EXCLUSION QUE COMPRENDERA DEL 1 AL 15 DE JUNIO DE 2002.</small>
+
 El periodo de exclusión señalado comprenderá del uno de abril al treinta y uno de mayo de dos mil dos, por ende, los nuevos asuntos que se reciban en el lapso indicado en la Oficina de Correspondencia Común de los Tribunales Colegiados del Decimoséptimo Circuito, con residencia en Chihuahua, Chihuahua, serán del conocimiento del Primer y Quinto Tribunales Colegiados del citado Circuito, con excepción de aquellos que estén relacionados con los que se encuentren en trámite en el Segundo y Tercer Tribunales Colegiados del Circuito aludido, en cuyo supuesto se turnarán a estos últimos, con el propósito de evitar el pronunciamiento de resoluciones contradictorias; y las demás excepciones que procedan conforme a lo dispuesto en el Acuerdo General 50/2001, del Pleno del Consejo de la Judicatura Federal.
 
 SEGUNDO.- Una vez transcurrido el plazo señalado en el punto anterior, los nuevos asuntos se distribuirán entre los cuatro Tribunales Colegiados del Decimoséptimo Circuito con residencia en Chihuahua, Chihuahua, con las salvedades apuntadas, conforme al sistema computarizado que se utiliza para esos efectos.
@@ -64,3 +66,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO CESAR THOME GONZALEZ, SECRETARIO EJECUTIVO DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/15/2002, de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, Relativo a la Prórroga del Plazo de Exclusión del Turno de Nuevos Asuntos al Segundo y Tercer Tribunales Colegiados del Decimoséptimo Circuito, con Residencia en Chihuahua, Chihuahua, fue aprobado por la propia Comisión en sesión privada ordinaria celebrada el diecinueve de marzo de dos mil dos, por los señores Consejeros: Presidente José Guadalupe Torres Morales y Manuel Barquín Alvarez.- México, Distrito Federal, a diecinueve de marzo de dos mil dos.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 5 DE JUNIO DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
