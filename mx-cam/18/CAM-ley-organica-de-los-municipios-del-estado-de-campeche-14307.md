@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "2000-06-29"
+last_updated: "2001-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -397,11 +397,13 @@ V.- La Sección Municipal de Carrillo Puerto;
 
 VI.- Las poblaciones ejidos, rancherías y heredades que constituyen la circunscripción de la cabecera y secciones municipales en la forma siguiente:
 
-1.- A la ciudad de Champotón, Cabecera del Municipio, corresponden:
+> <small>(REFORMADO PRIMER PARRAFO, P. O. 3 DE JULIO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1998)</small>
+1. A la Ciudad de Champotón, Cabecera del Municipio, corresponden:
 
-a) Los pueblos de: Pustunich y Maya Tecún.
+> <small>(REFORMADO, P. O. 3 DE JULIO DE 2001)</small>
+
+a) Los pueblos de Pustunich y Maya Tecún I, y la congregación de Maya Tecún II.
 
 b) Ejidos de: Paraíso, San Pablo Pixtún, Villa de Guadalupe, José María Morelos y Pavón, Ley Federal de Reforma Agraria, Dzacabuchén, Aquiles Serdán, (antes Chuiná), Xbacab, Revolución, Juan de la Barrera, Km. 67 (antes Venustiano Carranza), López Mateos (antes La Desconfianza), San Antonio Yacasay, Buenaventura, San Miguel, Ulumal, Moguel, San Juan Carpizo, Canasayab y López Portillo No. 2, El Cañaveral, General Ortiz Avila, Ignacio López Rayón, San Miguel, Punta de Valle de Quetzalcoatl, Lázaro Cárdenas, Carlos Salinas de Gortari, N.C.P.E. Villamar, La Prudencia, San Antonio del Río, Nuevo Michoacán, Nayarit Castellot, Moch Cohuó, N.C.P.E. Ignacio Allende, N.C.P.E. Melchor Ocampo, Kukulcán, General Ignacio Gutiérrez, Profr. Graciano Sánchez, Dzitbalché Castellot, Chilam Balam, Ah-kim-pech y Coronel Ortiz Avila.
 
@@ -2838,3 +2840,9 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente decreto.
 
 Tercero.- Los Ayuntamientos procederán a la adecuación de sus marcos reglamentarios en un plazo no mayor de noventa días contados a partir de la fecha en que cobre vigencia este decreto.
+
+P.O. 3 DE JULIO DE 2001.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente decreto.
