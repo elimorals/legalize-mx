@@ -4,7 +4,7 @@ identifier: "LINS"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-26"
-last_updated: "2004-07-20"
+last_updated: "2004-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LINS"
 
 LEY DE LOS INSTITUTOS NACIONALES DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE NOVIEMBRE DE 2004.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de mayo de 2000.
 
@@ -104,7 +104,9 @@ V bis.- Instituto Nacional de Medicina Genómica, para la regulación, promoció
 
 VI. Instituto Nacional de Pediatría, para los padecimientos de la población infantil hasta la adolescencia;
 
-VII. Instituto Nacional de Perinatología, para la salud reproductiva y perinatal;
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2004)</small>
+
+VII. Instituto Nacional de Perinatología Isidro Espinosa de los Reyes, para la salud reproductiva y perinatal;
 
 VIII. Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz, para la psiquiatría y la salud mental;
 
@@ -621,3 +623,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las Secretarías de Hacienda y Crédito Público y de Salud, así como el Consejo Nacional para la Ciencia y Tecnología realizarán lo necesario para otorgar las previsiones de recursos necesarias para el establecimiento, desarrollo y operación del Instituto Nacional de Medicina Genómica.
 
 TERCERO.- Una vez constituida la Junta de Gobierno del Instituto Nacional de Medicina Genómica, expedirá su Estatuto Orgánico en un plazo de sesenta días, contados a partir de la entrada en vigor del presente Decreto.
+
+D.O.F. 5 DE NOVIEMBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
