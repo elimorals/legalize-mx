@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2003-04-22"
+last_updated: "2003-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,13 +22,11 @@ issue_date: "2002-07-11"
 
 NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2003.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
 (Al margen superior izquierdo un escudo que dice: CIUDAD DE MÉXICO.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL)
-
-DECRETO DE NUEVO CÓDIGO PENAL PARA EL DISTRITO FEDERAL.
 
 ANDRÉS MANUEL LÓPEZ OBRADOR, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
 
@@ -1030,6 +1028,10 @@ III. El agente conduzca en estado de ebriedad o bajo el influjo de estupefacient
 
 IV. No auxilie a la víctima del delito o se dé a la fuga.
 
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
+
+Cuando se ocasionen lesiones de las previstas en las fracciones VI y VII del artículo 130 de este Código cometidas culposamente y se trate de vehículos de pasajeros, carga, servicio público o servicio al público o de transporte escolar, o servicio de transporte de personal de alguna institución o empresa, y el agente conduzca en estado de alteración voluntaria de la conciencia a que se refiere la fracción VII del artículo 138 de este Código, la pena aplicable será de dos años seis meses a ocho años de prisión.
+
 Además, se impondrá suspensión de los derechos en cuyo ejercicio hubiese cometido el delito, por un lapso igual al de la pena de prisión que se le imponga; o si es servidor público, inhabilitación por el mismo lapso para obtener otro empleo, cargo o comisión de la misma naturaleza.
 
 ###### ARTÍCULO 141.
@@ -1576,6 +1578,8 @@ El que cometa alguno de los delitos expresados en el artículo anterior, perder�
 
 ### CAPÍTULO VIII. DAÑO A LA PROPIEDAD
 
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 205.
 
 Se impondrán de uno a cinco años de prisión y de ciento ochenta a trescientos sesenta días multa, al que:
@@ -1587,6 +1591,8 @@ II Contraiga matrimonio con una persona casada, si conocía el impedimento al ti
 ## TÍTULO DÉCIMO. DELITOS CONTRA LA DIGNIDAD DE LAS PERSONAS
 
 ### CAPÍTULO IX. ENCUBRIMIENTO POR RECEPTACIÓN
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
 
 ###### ARTÍCULO 206.
 
@@ -1750,9 +1756,11 @@ Cuando la difamación o la calumnia se hubiese cometido con anterioridad al fall
 
 Al que con ánimo de dominio y sin consentimiento de quien legalmente pueda otorgarlo, se apodere de una cosa mueble ajena, se le impondrán:
 
-I. De veinte a sesenta días multa, cuando el valor de lo robado no exceda de veinte veces el salario mínimo, o no sea posible determinar su valor;
+I. (DEROGADA, G.O. 15 DE MAYO DE 2003)
 
-II. Prisión de seis meses a dos años y sesenta a ciento cincuenta días multa, cuando el valor de lo robado exceda de veinte pero no de trescientas veces el salario mínimo;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
+
+II. Prisión de seis meses a dos años y sesenta a ciento cincuenta días multa, cuando el valor de lo robado no exceda de trescientas veces el salario mínimo o cuando no sea posible determinar el valor de lo robado;
 
 III. Prisión de dos a cuatro años y de ciento cincuenta a cuatrocientos días multa, cuando el valor de lo robado exceda de trescientas pero no de setecientas cincuenta veces el salario mínimo, y
 
@@ -1780,7 +1788,7 @@ Se aumentarán en una mitad las penas previstas en el artículo 220 de este Cód
 
 I. En un lugar cerrado;
 
-II. Respecto de vehículo automotriz o partes de éste;
+II. (DEROGADA, G.O. 15 DE MAYO DE 2003)
 
 III. Aprovechando alguna relación de trabajo, de servicio o de hospitalidad;
 
@@ -1796,11 +1804,13 @@ VIII. Respecto de documentos que se conserven en oficinas públicas, cuando la s
 
 IX. En contra de persona con discapacidad o de más de sesenta años de edad; o
 
-X. En contra de transeúnte.
+X. (DEROGADA, G.O. 15 DE MAYO DE 2003)
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
 
 ###### ARTÍCULO 224.
 
-Además de las penas previstas en el artículo 220 de este Código, se impondrá de tres meses a cuatro años de prisión, cuando el robo se cometa:
+Además de la (sic) penas previstas en el artículo 220 de este Código, se impondrá de dos a seis años de prisión, cuando el robo se cometa:
 
 I. En lugar habitado o destinado para habitación, o en sus dependencias, incluidos los movibles;
 
@@ -1812,9 +1822,19 @@ IV. Aprovechando la situación de confusión causada por una catástrofe, desord
 
 V. En despoblado o lugar solitario;
 
-VI. Por quien haya sido o sea miembro de alguna corporación de seguridad pública, aunque no esté en servicio; o
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
 
-VII. Valiéndose el agente de identificaciones falsas o supuestas órdenes de la autoridad.
+VI. Por quien haya sido o sea miembro de algún cuerpo de seguridad pública o personal operativo de empresas que presten servicios de seguridad privada, aunque no esté en servicio;
+
+VII. Valiéndose el agente de identificaciones falsas o supuestas órdenes de la autoridad;
+
+> <small>(ADICIONADA, G.O. 15 DE MAYO DE 2003)</small>
+
+VIII. Respecto de vehículo automotriz o parte de éste; o
+
+> <small>(ADICIONADA, G.O. 15 DE MAYO DE 2003)</small>
+
+IX. En contra de transeúnte.
 
 ###### ARTÍCULO 225.
 
@@ -1823,6 +1843,10 @@ Las penas previstas en los artículos anteriores, se incrementarán con prisión
 I. Con violencia física o moral, o cuando se ejerza violencia para darse a la fuga o defender lo robado; o
 
 II. Por una o más personas armadas o portando instrumentos peligrosos.
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
+
+Se equipara a la violencia moral, la utilización de juguetes u otros objetos que tengan la apariencia, forma o configuración de armas de fuego, o de pistolas de municiones o aquéllas que arrojen proyectiles a través de aire o gas comprimido.
 
 ###### ARTÍCULO 226.
 
@@ -1982,15 +2006,25 @@ La pena prevista en el párrafo anterior, se aumentará en una mitad a los insti
 
 ###### ARTÍCULO 239.
 
-Al que destruya o deteriore una cosa ajena o una propia en perjuicio de otro, se le impondrán las penas previstas en el artículo 220 de este Código.
+Al que destruya o deteriore una cosa ajena o una propia en perjuicio de otro, se le impondrán las siguientes penas:
+
+I. De veinte a sesenta días multa, cuando el valor del daño no exceda de veinte veces el salario mínimo, o no sea posible determinar su valor;
+
+II. Prisión de seis meses a dos años y sesenta a ciento cincuenta días multa, cuando el valor del daño exceda de veinte pero no de trescientas veces el salario mínimo;
+
+III. Prisión de dos a cuatro años y de ciento cincuenta a cuatrocientos días multa, cuando el valor del daño exceda de trescientos pero no de setecientas cincuenta veces el salario mínimo; y
+
+IV. Prisión de cuatro a diez años y de cuatrocientos a seiscientos días multa, cuando el valor del daño exceda de setecientas cincuenta veces el salario mínimo.
 
 ###### ARTÍCULO 240.
 
 Cuando los daños sean causados por culpa, sólo se impondrá al responsable multa hasta por el valor de los daños y perjuicios causados, y se le condenará a la reparación de éstos. Si se repara el daño antes de que el Ministerio Público ejercite acción penal, se extinguirá la pretensión punitiva. Se sobreseerá el juicio, si el inculpado repara los daños y perjuicios, antes de que se dicte sentencia en segunda instancia.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 241.
 
-Las penas previstas en el artículo 220 de este Código, se aumentarán en una mitad, cuando por incendio, inundación o explosión, dolosamente se cause daño a:
+Las penas previstas en el artículo 239 de este Código, se aumentarán en una mitad, cuando por incendio, inundación o explosión, dolosamente se cause daño a:
 
 I. Un edificio, vivienda o cuarto habitado;
 
@@ -2002,11 +2036,15 @@ IV. Bibliotecas, museos, templos, escuelas o edificios y monumentos públicos; o
 
 V. Montes, bosques, selvas, pastos, mieses o cultivos de cualquier género.
 
-Cuando el delito se cometa culposamente, en las hipótesis previstas en este artículo, se impondrá la mitad de las penas a que se refiere el artículo 220 de este Código.
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+
+Cuando el delito se cometa culposamente, en las hipótesis previstas en este artículo, se impondrá la mitad de las penas a que se refiere el artículo 239 de este Código.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
 
 ###### ARTÍCULO 242.
 
-Cuando los daños se ocasionen culposamente con motivo de tránsito de vehículos, se impondrá la mitad de las penas previstas en el artículo 220 de este Código, en los siguientes casos:
+Cuando los daños se ocasionen culposamente con motivo de tránsito de vehículos, se impondrá la mitad de las penas previstas en el artículo 239 de este Código, en los siguientes casos:
 
 I. Se trate de vehículos de pasajeros, carga, servicio público o servicio al público;
 
@@ -2022,7 +2060,7 @@ Se impondrá además, suspensión de los derechos en cuyo ejercicio hubiese come
 
 ###### ARTÍCULO 243.
 
-Se impondrán prisión de tres meses a dos años y de treinta a ciento veinte días multa, a quien con ánimo de lucro, después de la ejecución de un delito y sin haber participado en él, adquiera, posea, desmantele, venda, enajene, comercialice, trafique, pignore, reciba, traslade, use, u oculte los objetos o productos de aquél, con conocimiento de esta circunstancia, si el valor de cambio no excede de quinientas veces el salario mínimo.
+Se impondrán prisión de tres meses a dos años y de treinta a ciento veinte días multa, a quien después de la ejecución de un delito y sin haber participado en él, adquiera, posea, desmantele, venda, enajene, comercialice, trafique, pignore, reciba, traslade, use u oculte los instrumentos, objetos o productos de aquél, con conocimiento de esta circunstancia, si el valor de cambio no excede de quinientas veces el salario mínimo.
 
 Si el valor de éstos es superior a quinientas veces el salario, se impondrán de tres a diez años de prisión y ciento veinte a mil días multa.
 
@@ -2044,23 +2082,31 @@ Igualmente se requerirá querella para la persecución de terceros que hubiesen 
 
 Se perseguirán por querella los delitos previstos en los artículos:
 
-a) 220, cuando el monto del robo no exceda de cincuenta veces el salario mínimo o no sea posible determinar su valor, salvo que concurra alguna de las agravantes a que se refieren las fracciones II, VIII, IX y X del artículo 223 o las previstas en los artículos 224 y 225.
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+
+a) 220, cuando el monto de lo robado no exceda de cincuenta veces el salario mínimo, salvo que concurra alguna de las agravantes a que se refieren las fracciones VIII y IX del artículo 223 o las previstas en el artículo 224, o cualquiera de las calificativas a que se refiere el artículo 225.
 
 b) 222, 227, 228, 229, 230, 231, 232, 234 y 235.
 
 c) 237, salvo que el delito se cometa en alguna de las hipótesis a que se refiere el artículo 238; y
 
-d) 239.
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
-Se perseguirán de oficio los delitos de abuso de confianza, fraude, administración fraudulenta e insolvencia fraudulenta, a que se refieren los artículos 227, 230, 231, 234 y 235, cuando el monto del lucro o valor del objeto exceda de cinco mil veces el salario, o cuando se cometan en perjuicio de dos o más ofendidos.
+d) 239 y 242.
+
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+
+Se perseguirán de oficio los delitos a que se refieren los artículos 227, 228, 229, 230, 231, 232, 233, 234 y 235, cuando el monto de lucro o valor del objeto exceda de cinco mil veces el salario mínimo o cuando se cometan en perjuicio de dos o más ofendidos.
 
 ###### ARTÍCULO 247.
 
 Para establecer la cuantía que corresponda a los delitos previstos en este Título, así como para la determinación de la multa, se tomará en consideración el salario mínimo vigente en el Distrito Federal, al momento de la ejecución del delito.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 248.
 
-No se impondrá sanción alguna por los delitos previsto en los artículos 220, 228, 229, 230, 232, 234, despojo a que se refiere el artículo 237, fracciones I y II, siempre y cuando no se cometa con violencia física o moral y no intervengan dos o más personas y 239, cuando el agente sea primo -delincuente, si éste restituye el objeto del delito y satisface los daños y perjuicios o, si no es posible la restitución, cubra el valor del objeto y los daños y perjuicios, antes de que el Ministerio Público ejercite acción penal, salvo que se trate de delitos cometidos con violencia, por personas armadas o medie privación de la libertad o extorsión.
+No se impondrá sanción alguna por los delitos previsto en los artículos 220, en cualquiera de la (sic) modalidades a que se refieren las fracciones I, III y IX del artículo 224, 228, 229, 230, 232 y 234; cuando el monto o valor del objeto, lucro, daño o perjuicio no exceda de cincuenta veces el salario mínimo; despojo a que se refiere el artículo 237 fracciones I y II, siempre y cuando no se cometan con violencia física o moral y no intervengan dos o más personas y 239, todos ellos cuando el agente sea primo-delincuente, si este restituye el objeto del delito o satisface los daños y perjuicios o, si no es posible la restitución, cubra el valor del objeto y los daños y perjuicios, antes de que el Ministerio Público ejercite acción penal, salvo que se trate de delitos cometidos con violencia por personas armadas o medie privación de la libertad o extorsión.
 
 En los mismos supuestos considerados en el párrafo anterior, se reducirá en una mitad la sanción que corresponda al delito cometido, si antes de dictarse sentencia en segunda instancia, el agente restituye la cosa o entrega su valor y satisface los daños y perjuicios causados.
 
@@ -2102,9 +2148,11 @@ Cuando el miembro de la pandilla sea o haya sido servidor público de alguna cor
 
 Se impondrán prisión de cuatro a ocho años y de cien a mil días multa al que forme parte de una asociación o banda de tres o más personas con el propósito de delinquir.
 
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 254.
 
-Cuando tres o más personas se organicen para cometer de forma permanente o reiterada alguno de los delitos siguientes: ataques a la paz pública, secuestro, tráfico de menores, sustracción o retención de menores e incapaces, corrupción de menores e incapaces, pornografía infantil, lenocinio, robo de conformidad con el artículo 223, fracción II de este Código, o extorsión, se les impondrán de seis a doce años de prisión y de doscientos a mil días multa, sin perjuicio de las penas que resulten por los delitos cometidos por los miembros de la organización delictiva.
+Cuando tres o más personas se organicen para cometer de forma permanente o reiterada alguno de los delitos siguientes: ataques a la paz pública, secuestro, tráfico de menores, sustracción o retención de menores e incapaces, corrupción de menores e incapaces, pornografía infantil, lenocinio, robo de conformidad con el artículo 224, fracción VIII de este Código, o extorsión, se les impondrán de seis a doce años de prisión y de doscientos a mil días multa, sin perjuicio de las penas que resulten por los delitos cometidos por los miembros de la organización delictiva.
 
 ###### ARTÍCULO 255.
 
@@ -3119,3 +3167,9 @@ G.O. 22 DE ABRIL DE 2003.
 Primero.- El presente Decreto entrará vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+G.O. 15 DE MAYO DE 2003.
+
+Primero: El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+Segundo: Túrnese al C. Jefe de Gobierno para los efectos constitucionales procedentes.
