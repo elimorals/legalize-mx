@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "1996-11-20"
+last_updated: "1997-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1997.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -105,11 +105,11 @@ Los demás que la Legislatura local determine según las condiciones territorial
 
 Las autoridades municipales tienen competencia plena sobre su territorio, población, así como su organización política y administrativa, dentro de los marcos legales.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 10.
 
-Los municipios libres en que se divide el Estado son: Calkiní, Campeche, Carmen, Champotón, Hecelchakán, Hopelchén, Palizada, Tenabo y Escárcega.
+Los Municipios Libres en que se divide el Estado de Campeche son: Calakmul, Calkiní, Campeche, Carmen, Champotón, Escárcega, Hecelchakán, Hopelchén, Palizada y Tenabo.
 
 ###### ARTICULO 11.
 
@@ -367,9 +367,11 @@ b) Los Ejidos de Sabancuy, Oxcabal, Ignacio M. Altamirano, Chekubul, Chicbul, Pl
 
 c) Los ranchos de San Felipe González, Molón, Sabancuy, El Sitio, Chan Rosado, Yabaxique, San Nicolás, Tichel, Pocito, Calax, Punta de Piedra, San José, San Pedro, Quita Calzones, Hermanos Maldonado, La Pita, Flamboyán, El Sequel, Tres Hermanos, Chamizal, Alfredo Góngora, Cuyoc, Polkay, El Gallo, Hoaxin, Yacaxal, El Pavito, José Gallo, Don Mauro, El Esfuerzo, Mecina, Hermanos May, Santa Isabel, Buenavista, Martirio, Herradura, Las Piedras, Ensenada Honda, Zacazonapan, California, Desiderio Campos, Conchecuenché, El Toro, Supultepec, San Enrique, Bolostoc, Cuyo de la Mula, Santa Lilia, Pirí, Cobal, San Gabriel, La Esperanza, Mina de Oro, Santa Isabel, Sal Sol, Augusto Gómez Villanueva, Tres Marías, Los Pasos, Geny, San Luis, Rancho Alegre, Chevojá, Infierno, Catalina, San Fernando, Santa Josefa, Santa Anita, Cien Fuegos, Camagüey.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 16.
 
-El Municipio de Champotón, comprende:
+El Municipio de Champotón comprende:
 
 I.- La ciudad de Champotón, Cabecera del Municipio;
 
@@ -381,21 +383,13 @@ IV.- La Sección Municipal de Sihochac;
 
 V.- La Sección Municipal de Carrillo Puerto;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1997)</small>
 
-VI.- La Sección Municipal de Constitución.
+VI.- Las poblaciones ejidos, rancherías y heredades que constituyen la circunscripción de la cabecera y secciones municipales en la forma siguiente:
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 1994)</small>
-
-Las poblaciones, Ejidos, Rancherías y Heredades que constituyen la circunscripción jurisdiccional de la cabecera y Secciones Municipales en la forma siguiente:
-
-I.- A la ciudad de Champotón, Cabecera del Municipio, corresponden:
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1994)</small>
+1.- A la ciudad de Champotón, Cabecera del Municipio, corresponden:
 
 a) El pueblo de: Pustunich.
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1994)</small>
 
 b) Ejidos de: Paraíso, San Pablo Pixtún, Villa de Guadalupe, José María Morelos y Pavón, Ley Federal de Reforma Agraria, Dzacabuchén, Aquiles Serdán, (antes Chuiná), Xbacab, Revolución, Juan de la Barrera, Km. 67 (antes Venustiano Carranza), López Mateos (antes La Desconfianza), San Antonio Yacasay, Buenaventura, San Miguel, Ulumal, Moguel, San Juan Carpizo, Canasayab y López Portillo No. 2, El Cañaveral, General Ortiz Avila, Ignacio López Rayón, San Miguel, Punta de Valle de Quetzalcoatl, Lázaro Cárdenas, Carlos Salinas de Gortari, N.C.P.E. Villamar, La Prudencia, San Antonio del Río, Nuevo Michoacán, Nayarit Castellot, Moch Cohuó, N.C.P.E. Ignacio Allende, N.C.P.E. Melchor Ocampo, Kukulcán, General Ignacio Gutiérrez, Profr. Graciano Sánchez, Dzitbalché Castellot, Chilam Balam, Ah-kim-pech y Coronel Ortiz Avila.
 
@@ -405,7 +399,7 @@ d) Las haciendas de: Chenkán, Desempeño, San Dimas, Ulumal y San Luis Carpizo.
 
 e) Los ranchos de: Apazote, Continente, Champox, Desempeño, Gesté, Holatún, Holail, Mancalá, Monte Bravo, Nilún, Nuevo León, Paixán, Placeres, Potrerito, Potrero Grande, Retiro, Zakakal, San Enrique, San Gerónimo, San Juan Paychacché, San Miguel, Santa Cruz, Santa Lucía, Santa Rita, Teop, Santa Cecilia, San Jorge, San Eduardo, Villa Minerva, San Manuel, San Samuel, Las Flores, San Juan, Sulvec, Los Corcitos, San Pablito, San Esteban, Playa Azul, San Arturo, El Milagro, Santa María, San José, El Oasis, Santa Rosa, La Guaira, El Madroño, La Cañada, El Charrito, Las Palmas, Monte Cristo, Hermanos Sarmiento, El Zapote, Jaimes, Ulumal, Laramie, Los Tres Hermanos, El Rosario, Santa Laura, Las Recias, La Verónica, Porfirio Díaz, Belén, Soledad, San Pedro, La Guadalupe, Las Cruces, San Martín, El Vesubio, El Tapatío, El Retorno, La Unión, La Aurora, El Sacrificio, El Nopal, Santa Lucía, El Jobo, San Moguel, Santa Elena, Margarito, Obregón, Las Bugambilias, San Javier, Miraflor, Nueva Esperanza, El Divisadero, San Enrique, Santa Susana, Las Delicias, San Francisco, El Mante, La Ponderosa, Emiliano, El Valenciano, El Valencianito, San Marcos, San Fernando, Santa Enriqueta, El Puente, Peña Blanca, El Calvario, La Vigilia, San Eduardo, San Diego, La Peña, Las Gardenias, Tres Hermanos, Santa Cruz, Santa Rosalía, La Esperanza, Jobón, Flamboyán, Santa Fe y El Danubio;
 
-II.- A la Sección Municipal de Hool, corresponden:
+2.- A la Sección Municipal de Hool, corresponden:
 
 a) El Pueblo de Hool, Cabecera de la Sección.
 
@@ -415,11 +409,7 @@ c) Las Haciendas de San Antonio Teop, San Miguel y San Nicolás.
 
 d) Los ranchos de Kesté, Esperanza, Erika, San José, Arellano y San Miguel;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1993)</small>
-
-III.- A la Sección Municipal de Seybaplaya, corresponde:
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1993)</small>
+3.- A la Sección Municipal de Seybaplaya, corresponde:
 
 a) La Ciudad de Seybaplaya, Cabecera de la Sección.
 
@@ -435,7 +425,7 @@ f) Las congregaciones de Ciudad Sol, Acapulquito y Costa Blanca.
 
 g) Los ranchos de: Boxol, Chunhuás, Destino, Hunaban, Monte Frío, El Morro, Nenelá y Xculpac;
 
-IV.- A la Sección Municipal de Sihochac, corresponden:
+4.- A la Sección Municipal de Sihochac, corresponden:
 
 a) El pueblo de Sihochac, Cabecera de la Sección.
 
@@ -445,23 +435,13 @@ c) La Hacienda de San Pedro.
 
 d) Los ranchos de: San Francisco, El Amigo, San Cristóbal, Santa Lilia, San Manuel, Júpiter y El Delta;
 
-V.- A la Sección Municipal de Carrillo Puerto, corresponden:
+5.- A la Sección Municipal de Carrillo Puerto, corresponden:
 
 a) El pueblo de Carrillo Puerto, Cabecera de la Sección.
 
 b) Los ejidos de Pixoyal, Cinco de Febrero, Miguel Colorado, Chac Chaito y Yohaltún.
 
 c) Las Secciones Ejidales de: Nuevo Paraíso y la Provincia.
-
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 1994)</small>
-
-VI.- A la Sección Municipal de Constitución corresponden:
-
-a) El pueblo de Constitución, Cabecera de la Sección.
-
-b) Los pueblos de: Silvituc, Xbonil, Chan Laguna, Conhuás y Concepción.
-
-c) Los ejidos de: Centenario, N.C.P.E. Altamira de Zináparo, N.C.P.E. López Mateos, N.C.P.E. Benito Juárez, N.C.P.E. El Porvenir, N.C.P.E. Valentín Gómez Farías, N.C.P.E. Felipe Angeles, Las Maravillas, Santa Lucía, Pablo García, Km. 120, Emiliano Zapata, Eugenio Echeverría Castellot, Puebla de Morelia, El Chichonal, El Jobal, La Flor de Chiapas, Laguna Grande, José López Portillo, Benito Juárez No. 3 y Plan de San Luis.
 
 ###### ARTICULO 17.
 
@@ -491,6 +471,8 @@ b) El ejido de Zodzil.
 
 c) Los ranchos de Chenxulá, Cholul, San Antonio del Pom, San Jacinto, San Manuel, San Isidro, San Pedro, San Román, Santa Cristina.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 18.
 
 El Municipio de Hopelchén, comprende:
@@ -501,23 +483,21 @@ II.- La Sección Municipal de Bolonchén de Rejón;
 
 III.- La Sección Municipal de Dzibalchén;
 
-IV.- La Sección Municipal de Xpujil;
+IV.- Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la cabecera y secciones municipales en la forma siguiente:
 
-V.- Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la cabecera y secciones municipales en la forma siguiente:
-
-A la ciudad de Hopelchén, Cabecera del Municipio corresponden:
+1.- A la ciudad de Hopelchén, Cabecera del Municipio corresponden:
 
 a) El pueblo de San Juan Bautista Sahcabchén.
 
 b) Las congregaciones de Suc-Tuc, Crucero San Luis, Ich-Ek, Xcupil, Becanchén, Konchén, El Poste, Katab, Rancho Sosa, Yaxché-Akal, Xcalot-Akal.
 
-A la Sección Municipal de Bolonchén de Rejón, corresponden:
+2.- A la Sección Municipal de Bolonchén de Rejón, corresponden:
 
 a) La Villa de Bolonchén de Rejón, cabecera de la Sección.
 
 b) Las Congregaciones de Xcanahaltún, Xtampak, Chunyaxnic, San Antonio Yaxché, Chun-Cedro, Xculoc, Chunhuaymil.
 
-A la Sección Municipal de Dzibalchén, corresponden:
+3.- A la Sección Municipal de Dzibalchén, corresponden:
 
 a) La Villa de Dzibalchén, Cabecera de la Sección.
 
@@ -526,14 +506,6 @@ b) Los pueblos de Chunchintok, Ukúm, Xmaben.
 c) La Villa de Vicente Guerrero.
 
 d) Las Congregaciones de Pakchén, Chencoh, Ramón Corona, Chanchén, Chun-Ek, Xmejía, Pach-Uitz, Xcanjá.
-
-A la Sección Municipal de Xpujil, corresponde:
-
-a) La congregación de Xpujil, Cabecera de la Sección.
-
-b) El pueblo de Zoh-Laguna.
-
-c) Las congregaciones de Gustavo Díaz Ordaz, 20 de Noviembre, Tomás Aznar, Nuevo Becal, Central Juanita, Carolina, Dos Aguadas, Josefa Ortiz de Domínguez, Zibal, Cibalito, Arroyo Negro, Los Alacranes, Santa Rosa, Yaka, Juan, Frontera Sur, Manuel Castilla Brito, Ricardo Payro, Cristóbal Colón, El Carmen, La Misteriosa, Los Chinos, Las Pailas, Manuel Crescencio Rejón, José María Morelos y P., Becán, Felipe Angeles, Flores Magón y Emiliano Zapata, Halatún, Alacranes.
 
 ###### ARTICULO 19.
 
@@ -598,6 +570,30 @@ I BIS.- El pueblo de Francisco Villa;
 II.- Los Ejidos: Escárcega y sus colonias La Chiquita y La Esperanza; Justicia Social; Lechugal; Libertad; Miguel de la Madrid; Rodolfo Fierros; Belén y su anexo El Saúz; Matamoros; Kilómetro 74; Juan Escutia; Juan de la Barrera; José de la Cruz Blanco; Asunción; División del Norte; Haro; Francisco I. Madero; Don Samuel; Luna; Kilómetro 36; Nuevo Progreso No. 2; La Victoria; El Pital o Nuevo Pital; Chontalpa; Kilómetro 18 o 18 de Marzo; San Isidro; El Huiro; Guadalajara; Benito Juárez No. 2; El Quebrache; Ojo de Agua; Zaragoza; Conquista Campesina; Chinal; Belisario Domínguez; Aguacatal; San José; Venustiano Carranza No. 2; El Gallo; Felipe Angeles; El Sacrificio; y La Flor; y
 
 III.- Los ranchos: Las Ruinas; Providencia; Monte Bravo; San Martín; San Joaquín; Oscar Flores; Chaucil 1; Chaucil 2; Chaucil 3; Chaucil 4; Chaucil 5; Caña Fístula 1; Caña Fístula 2; Búfalo; La Estancia; Coliman; Golondrinas; Zeta; San Jorge; Martín; Pedregal; Sacrificio; La Fortuna; Piedras; Elisa; Mil Flores; Félix Romero; Carlos Schnabel; Monte Claro; San Carlos; Gran Poder; San Ignacio; Carlos Heredia; Carmen; Puente de Juárez; Puerto Escondido; Rosa Encerrada; Félix Faller; Hidalgo; Mercedes; El Círculo; Trapiche; Tamarindo; Las Palmas; Encarnación; Selva Negra; San Manuel; Dos Hermanos; Jorge Cural; Jorge Medina; Elidé Hernández; Las Ardillas; Potro; Isis; La Unión; San Jorge 1; La Bomba; El Gallo; Guadalajara; Buenavista; Santa Ana; San Manuel; Otoño; Santa Lucía; Los Altos de Cuyoc; Bonanza; Ponderosa; La Herradura; Láramie; Entre Hermanos; Jabin; Jimbal; San Juan; San Jorge Coyoc; La Flor; San Andrés Mosquetero; Miraflores; Santa Rita; Hermanos Gómez; San Rafael; San Pedro; Esperanza 1: Esperanza 2; Hermanos Navarro; Carmita; El Retiro; San Isidro Cuyoc; Triple R; Leonor; María de la Luz; El Porvenir; El Charro; San Jorge; Pucté 1; Pucté 2; Pucté 3; Pucté 4; Pucté 5; Santa Juliana; Palma Larga; Vista Alegre; Piedral; Guadalupe; Jimba; Taurino; Partenón; San Manuel; Campeador; Borrego; El Limón; Santo Tomás; El Caobo; Neftalín Inurreta; La Esmeralda; El Jazmín; Aventurero; Las Cruces; Progreso; Everardo Espinosa; Daniel Santiago; Santa Fé; Palma Sola; Faisán; Libertad; Carmen; Asunción; San Antonio; Santa María; José Fuentes Ramos; Aída; Saúl Pérez Sosa; Anastacio Damián; Los Reyes; Santo Tomás; Soltero; Juan Mora Guillermo; Norberto Moreno Cano; Eduardo Guillermo Méndez; Adelita; Las Nubes; La Estrella; San Juan; Porfía; Trinidad; Santa Rosalía; El Rey II; Ceferino Moreno Escalante; Jorge Moreno Escalante; Herradura; Nanzal; Vista Alegre; La Libertad; Pedro Moreno Gómez; Esperanza; San Francisco; Laureles; Buenavista; Esperanza; Ilusión; Sacrificio; Trinidad; Vértice; Juanito; Jacinta; Magueyitos; Santa Gertrudis; San Isidro; La Flor; San Pablo; Santa María; San Miguel; San Manuel; Sacrificio; Progreso; Asunción; Fátima; Mameyal; La Gimba; Los Reyes; Los Lirios; El Rincón; El Rosario; Lote 1; Lote 2; Lote 3; Lote 4; Lote 5; Lote 6; Lote 7; Lote 12; Lote 13; Lote 14; Lote 15; Lote 16; Lote 17; Jimbal; Pucteal; Pokar 1; Pokar 2; La Libertad; Salvador; Benitez; Tres Campos; La Unión; Laureles 1; Laureles 2; Bárbara; San Carlos 2; Corozal 1; Corozal 2; San Carlos; Invierno; Las Camelias; Otoño; Loma Linda; Elvira; Tres Hermanos; El Pensamiento; Marcos Verdejo; Lino Melenes; Gustavo Garduño; Catalina; El Vergel; y los demás que se encuentren dentro de los lindes de este Municipio, aunque no estén mencionados en esta relación.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 1997)</small>
+
+ARTICULO 20 TER.- El Municipio de Calakmul comprende:
+
+I.- La congregación de Xpujil, cabecera del Municipio;
+
+II.- La Sección Municipal de Constitución;
+
+III.- Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la cabecera y sección municipal en la forma siguiente:
+
+1. A la congregación de Xpujil, cabecera del Municipio, corresponden:
+
+a) El pueblo de Zoh-Laguna; y
+
+b) Las congregaciones de: Aguas Amargas, Aguas Turbias, Arroyo Negro, Alianza Productora, Arroyo de Cuba, Becán, Bel-Há, Bella Unión Ver. (Los Chinos), Blaisillo, Bonanza, Caña Brava, Carlos A. Madrazo, Carlos Sansores Pérez (La Paz), Centauro del Norte, Central Chiclera Villahermosa, Cerro de las Flores, Cristobal Colón, Dieciséis de Septiembre (L. Alvarado), Dos Lagunas, Dos Lagunas (sic), Dos Naciones, E. Echeverría Castellot (El Carrizal), El Carmen II, El Porvenir, El Manantial, El Mirador, El Refugio, El Silencio, El Tesoro, Felipe Angeles II, Guillermo Prieto, Gustavo Díaz Ordaz (San Antonio Soda), Hermenegildo Galeana, Heriberto Jara Corona, Ing. Eugenio Echeverría Castellot, Ing. Ricardo Payro Jene (Polo Norte), José Morelos y Pavón (Civalito), Josefa Ortiz de Domínguez (Icaiché), Justo Sierra Méndez, Lázaro Cárdenas Nº 2 (Ojo de Agua), La Guadalupe, La Amapola, La Lucha, La Lucha (sic), La Tombola, La Unión (Dos Arroyos), La Victoria, La Virgencita de la Candelaria, Ley de Fomento Agropecuario (La Misteriosa), Los Pollos, Los Alacranes, Los Angeles, Los Tambores de Emiliano Zapata, Manuel Castilla Brito, Manuel Crescencio Rejón, Narciso Mendoza, Niños Héroes, Nueva Vida, Nuevo Bécal (El 19), Nuevo Campanario, Nuevo Conhuás, Nuevo Paraíso, Nuevo Progreso, Nuevo San José, Nuevo Veracruz, Once de Mayo, Paraguas, Pioneros del Río Xnohá, Placeres, Placeres (sic), Plan de Ayala (5 de Mayo), Quiché de las Pailas, Ricardo Flores Magón (Laguna Cooxlí), San Antonio, San Dimas (Alianza II), San Miguel, San José (Kilómetro 120), Santo Domingo, Santa Rosa, Solidaridad, Tepeyac, Tomás Aznar B. (La Moza), Tres Reyes, Unidad y Trabajo, Unión 20 de Junio (Mancolona), Veinte de Noviembre, Veintiuno de Mayo (Lechugal), Veintidós de Abril, Yatuchil, Zoh-Laguna (Alvaro Obregón);
+
+2.- A la Sección Municipal de Constitución corresponden:
+
+a) El pueblo de Constitución, cabecera de la Sección;
+
+b) Los pueblos de: Silvituc, Xbonil, Chac-Laguna, Conhuás y Concepción; y
+
+c) Los ejidos de Centenario, N.C.P.E., Altamira de Zináparo, N.C.P.E. López Mateos, N.C.P.E. Benito Juárez, N.C.P.E. El Porvenir, N.C.P.E. Valentín Gómez Farías, N.C.P.E. Felipe Angeles, Las Maravillas, Santa Lucía, Pablo García, Km. 120, Emiliano Zapata, Eugenio Echeverría Castellot, Puebla de Morelia, El Chichonal, El Jobal, La Flor de Chiapas, Laguna Grande, José López Portillo, Benito Juárez No. 3 y Plan de San Luis.
 
 ###### ARTICULO 21.
 
@@ -2694,3 +2690,9 @@ Cuarto.- El H. Ayuntamiento del Municipio de Campeche también deberá proceder 
 P.O. 20 DE NOVIEMBRE DE 1996.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Campeche.
+
+P.O. 15 DE ENERO DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido de este Decreto.
