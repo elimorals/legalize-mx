@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1928-09-30"
+last_updated: "1928-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1928.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 1928.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -641,9 +641,11 @@ La administración de Justicia en en (sic) Primera Instancia, estará a cargo de
 
 Los Jueces de Primera Instancia durarán en el ejercicio de sus funciones cuatro años que se contarán del mismo modo que a los individuos del Tribunal Supremo, continuando, como éstos, en el ejercicio de sus funciones mientras no se presenten los nuevamente nombrados.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1928)</small>
+
 ###### Artículo 75.
 
-Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal, a propuesta en terna de los Ayuntamientos.
+Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia del Estado.
 
 ###### Artículo 76.
 
@@ -669,13 +671,17 @@ IV. Desempeñar las demás funciones que en el orden judicial los designen las l
 
 De los Jueces Menores.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1928)</small>
+
 ###### Artículo 78.
 
-Habrá Jueces Menores en cada una de las poblaciones que designe la ley, los que serán nombrados por elección popular directa. La ley determinará el número que ha de haber en cada población, sus facultades, obligaciones y modo de llenar sus faltas.
+Habrá Jueces Menores en cada una de las poblaciones que designe la Ley Orgánica respectiva, los que serán nombrados por Supremo Tribunal de Justicia, a propuesta en terna del Ayuntamiento de cada Municipio. La ley determinará el número de esos funcionarios que ha de haber en cada población, sus facultades, obligaciones y modo de llenar sus faltas.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1928)</small>
 
 ###### Artículo 79.
 
-Los Jueces Menores durarán en el ejercicio de su encargo el tiempo que designe la Ley Orgánica respectiva no pudiendo renunciarlo sino por causa grave calificada por el Ayuntamiento a que corresponda.
+Los Jueces Menores durarán en el ejercicio de su encargo el tiempo que designe la Ley Orgánica respectiva, no pudiendo renunciarlo sino por causa grave calificada por el Supremo Tribunal de Justicia.
 
 ###### Artículo 80.
 
@@ -759,9 +765,11 @@ Cada Municipio será representado y administrado por un Ayuntamiento de elecció
 
 El Municipio tendrá personalidad jurídica para todos los efectos legales.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1928)</small>
+
 ###### Artículo 97.
 
-El número de consejales que integren los Ayuntamientos, será determinado por la Ley Orgánica relativa debiendo, en todo caso no ser menor de cinco.
+El número de Concejales que integren los Ayuntamientos, será determinado por la Ley Orgánica relativa, debiendo en todo caso no ser menor de tres.
 
 ###### Artículo 98.
 
@@ -1348,5 +1356,9 @@ P.O. 13 DE SEPTIEMBRE DE 1928.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LE ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACAN.
 
 P.O. 30 DE SEPTIEMBRE DE 1928.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LE ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACAN.
+
+P.O. 7 DE OCTUBRE DE 1928.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LE ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACAN.
