@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "2003-07-07"
+last_updated: "2004-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -551,6 +551,10 @@ b).- Cuando se derive de contratos de promesa de venta, con reserva de dominio y
 
 c).- Cuando exista desmembración de la propiedad de manera que una persona tenga la nuda propiedad y otra el usufructo.
 
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+III.- La propiedad o posesión de predios ejidales y comunales, así como su explotación o aprovechamiento tratándose de los supuestos a que se refiere la fracción V del artículo 53 de esta Ley.
+
 ###### ARTICULO 52.
 
 (DEROGADO, B.O. 16 DE NOVIEMBRE DE 1987)
@@ -561,15 +565,35 @@ c).- Cuando exista desmembración de la propiedad de manera que una persona teng
 
 Son sujetos del impuesto:
 
-I.- Los propietarios de predios a que se refiere la fracción I del artículo 51.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-II.- Los poseedores de predios a que se refiere la fracción II del artículo 51.
+I. Los propietarios de predios a que se refiere la fracción I del artículo 51 de esta Ley.
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+II.- Los poseedores de predios a que se refiere la fracción II del artículo 51 de esta Ley.
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 III.- Los fideicomitentes, mientras sean poseedores del predio objeto del fideicomiso o los fideicomisarios que estén en posesión del predio, aun cuando todavía no se les transmita la propiedad o los terceros adquirentes por cualquier acto derivado de un fideicomiso.
 
-Cuando el sujeto del impuesto predial, acredite su calidad de jubilado o pensionado, o ser viuda de alguno de los sujetos anteriores, se aplicará el crédito fiscal correspondiente reducido en un 50%, otorgándose este beneficio a una sola vivienda de su propiedad o posesión.
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+IV.- Los ejidatarios y comuneros si el aprovechamiento de los predios es individual y los núcleos de población ejidal o comunal, si es colectivo, tratándose de los predios a que se refiere la fracción III del artículo 51 de esta Ley.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+V.- El que explote o aproveche predios ejidales o comunales en calidad de asociado, usufructuario, arrendatario, acreedor pignoraticio, depositario u otro título análogo.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+Cuando los sujetos del impuesto predial, a que se refieren las fracciones I y II de este artículo, acrediten su calidad de jubilado o pensionado, o ser viuda de algunos de los sujetos anteriores, se aplicará el crédito fiscal correspondiente reducido en un 50%, otorgándose este beneficio a una sola vivienda de su propiedad o posesión.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 Para los efectos anteriores, se consideran jubilados o pensionados aquellas personas que acrediten la calidad correspondiente.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 Si el sujeto del impuesto predial no posee la calidad de pensionado o jubilado, pero demuestra una edad superior a los sesenta y cinco años o ser discapacitado, tendrá derecho a la reducción del cincuenta por ciento del importe del impuesto predial de su vivienda, previo estudio socioeconómico que acredite ser de escasos recursos.
 
@@ -583,11 +607,35 @@ II.- Los propietarios de predios que hubiesen prometido en venta o hubieran vend
 
 III.- Los empleados de las oficinas recaudadoras de los Municipios que dolosamente expidan certificados de no adeudo del Impuesto Predial.
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+IV.- Los adquirentes de productos provenientes de terrenos ejidales o comunales y los intermediarios incluyendo a aquellos que procesen, empaquen o proporcionen otro tipo de maquila relacionados con dichos productos así como los que realicen trámites para efectos de su exportación, quienes estarán obligados además a:
+
+a).- Verificar que se ha cubierto el impuesto y de no acreditarse su pago, retenerlo y expedir al productor el formato de retención de impuesto predial ejidal autorizado por la Tesorería Municipal respectiva y enterarlo en la propia Tesorería Municipal de su jurisdicción, debiendo acompañar las copias de los permisos de siembra que se relacionan en el citado formato.
+
+b).- Presentar en la Tesorería Municipal respectiva, dentro de los días 1 al 20 de cada mes, una manifestación por cuadruplicado, enterando el importe del impuesto retenido, en su caso.
+
+Esta manifestación deberá contener los siguientes datos:
+
+1.- Fecha en que se recibieron los productos gravados o se realizó la prestación del servicio.
+
+2.- Nombre del propietario del producto.
+
+3.- Cantidad de kilogramo o unidad de medida que corresponda al producto.
+
+4.- Nombre y ubicación de los predios ejidales o comunales del que proceden los productos, con expresión del municipio en el que estén ubicados.
+
+5.- Número de permiso de siembra de donde proviene el producto.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 55.
 
-La base del impuesto, tratándose de predios urbanos y rurales, será el valor catastral determinado según los estudios de valor practicados por el Ayuntamiento y consignados en los planos y tablas de valores unitarios de suelo y construcción que apruebe anualmente el Congreso del Estado, el cual se causará y pagará conforme a las tarifas que se fijen en las leyes de ingresos de los ayuntamientos.
+La base del impuesto será:
+
+I.- Tratándose de predios urbanos y rurales, el valor catastral determinado según los estudios de valor practicados por el Ayuntamiento y consignados en los planos y tablas de valores unitarios de suelo y construcción que apruebe anualmente el Congreso del Estado. El impuesto se causará y pagará conforme a las tarifas que se fijen en las leyes de ingresos de los Ayuntamientos.
+
+II.- Tratándose de predios rústicos ejidales o comunales, el valor de la producción comercializada de cada cultivo por ciclo productivo, proveniente de dichos predios cuando sean aprovechados para la producción agropecuaria, silvícola o acuícola. El impuesto se causará y pagará a la tasa, tarifa o cuota que se fije en las leyes de ingresos de los Ayuntamientos.
 
 ###### ARTICULO 56.
 
@@ -617,15 +665,23 @@ En los casos de reavalúos, así como de fusiones y subdivisiones de predios, la
 
 En los casos de traslación de dominio, el reavalúo cuando proceda, entrará en vigor el trimestre siguiente a dicha traslación.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 61.
 
-La cuota del Impuesto Predial es anual, pero su importe se pagará trimestralmente, durante los meses de enero, abril, julio y octubre, pudiendo hacerse por anualidad anticipada.
+La cuota del impuesto predial es anual, pero su importe se pagará trimestralmente, durante los meses de enero, abril, julio y octubre, pudiendo hacerse por anualidad anticipada, salvo los supuestos a que alude el artículo 61 BIS de este ordenamiento.
 
 El pago por anualidad anticipada del Impuesto Predial, no impide el cobro de diferencias que deba hacer la Tesorería Municipal, por cambio de las bases gravables o alteración de las cuotas del impuesto.
 
 > <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 1986)</small>
 
 No obstante lo dispuesto en el primer párrafo de este artículo, el pago de la cuota mínima, en todos los casos, se hará mediante una sola exhibición en el mes de enero de cada año.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 61 BIS.- Tratándose de predios ejidales o comunales aprovechados para la producción agropecuaria, silvícola o acuícola, el pago se hará al efectuarse la venta de los productos y en su defecto, dentro de los veinte días siguientes a la fecha en que éstos se hubieran cosechado, debiéndose anexar a la declaración de que se trate la copia del permiso de siembra y copia de la factura o liquidación correspondiente.
+
+De la recaudación correspondiente al impuesto efectivamente pagado, conforme al párrafo anterior, los municipios entregarán el 50% al ejido o comunidad propietario o poseedor de los predios donde se genere el gravamen.
 
 ###### ARTICULO 62.
 
@@ -653,9 +709,11 @@ Los certificados de no adeudo y las autorizaciones que se expidan a los notarios
 
 En los casos de predios no empadronados o de nuevas construcciones permanentes, de reconstrucciones y de ampliaciones permanentes ya existentes, que no hayan sido manifestadas oportunamente conforme a la Ley de Catastro del Estado, las Tesorerías Municipales harán el recobro por cinco años atrás a la fecha del descubrimiento del predio, construcciones, reconstrucciones o ampliaciones, salvo que el interesado pruebe que tales hechos o actos datan de fecha posterior, en cuyo caso el recobro del impuesto se hará a partir de esta fecha en adelante y la cuota se aplicará de acuerdo con lo dispuesto en este capítulo. Para el caso que nos ocupa, no se aplicará el recobro cuando los interesados, en forma directa, acudan a hacer las manifestaciones correspondientes, sin que a esa fecha de manifestación, Tesorería Municipal hubiese descubierto la omisión.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 66.
 
-Los recibos de pago que expidan las Tesorerías Municipales, tratándose del Impuesto Predial, sólo tendrán efectos en relación con este mismo impuesto y con el trimestre que amparan sin que sean pruebas de que se hayan pagado los trimestres de los cinco años anteriores.
+Los recibos de pago que expidan las Tesorerías Municipales, tratándose de los supuestos a que se refiere el artículo 61 de este ordenamiento, sólo tendrán efectos en relación con este mismo impuesto y con el trimestre que amparan sin que sean pruebas de que se hayan pagado los trimestres de los cinco años anteriores.
 
 ###### ARTICULO 67.
 
@@ -1025,19 +1083,63 @@ En el caso de que un contribuyente cuente con dos o más inmuebles para servicio
 
 Los contribuyentes del impuesto por la prestación de servicios de hospedaje, deberán formular declaraciones hasta en tanto no presenten el aviso de baja al padrón de contribuyentes o de suspensión temporal de actividades.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+### CAPITULO SEPTIMO. Del Impuesto Municipal sobre Tenencia o Uso de Vehículos
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 103 BIS C.- Están obligados al pago de este impuesto, las personas físicas y las morales, tenedoras o usuarias de vehículos de más de diez años de fabricación anteriores al de aplicación de esta Ley.
+
+Para los efectos de este impuesto, se presume que el propietario es tenedor o usuario del vehículo.
+
+Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses ante la Tesorería Municipal respectiva, no estando obligados a presentar por este impuesto la solicitud de inscripción en el registro de empadronamiento de la Tesorería Municipal respectiva.
+
+Para los efectos de este impuesto, también se considerarán automóviles a los omnibuses, camiones y tractores no agrícolas tipo quinta rueda.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 103 BIS D.- Son solidariamente responsables del pago del impuesto:
+
+I.- Quienes por cualquier título, adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de este impuesto;
+
+II.- Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 103 BIS E.- Los contribuyentes comprobarán el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 103 BIS F.- Este impuesto se pagará conforme a la tarifa, tasa o cuota que se fije en las leyes de ingresos de los Ayuntamientos.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 103 BIS G.- No se pagará el impuesto, en los términos de este Capítulo, por la tenencia o uso de los siguientes vehículos:
+
+I.- Los importados temporalmente en los términos de la legislación aduanera;
+
+II.- Los automóviles, que estén al servicio de los cuerpos diplomáticos y consulados extranjeros acreditados ante nuestro país.
+
+III.- Los que tengan para su venta los distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación.
+
+IV.- Los vehículos de la Federación, del Estado y de los Municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, limpia, recolección de basura, pipas de agua, servicios funerarios y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos.
+
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo, deberá pagar el impuesto correspondiente dentro de los quince días siguientes a aquel en que tenga lugar el hecho de que se trata.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 103 BIS H.- Los tenedores o usuarios de los vehículos a que se refieren las fracciones I y IV del artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Tesorería Municipal que se encuentran comprendidos en dichos supuestos.
+
 > <small>N. DE E. LOS TITULOS TERCERO A OCTAVO SE REESTRUCTURAN INTEGRAMENTE, CON SUS RESPECTIVOS CAPITULOS Y SECCIONES, OBSERVANDOSE QUE ESTAS ULTIMAS NO EXISTEN EN LA NUEVA ESTRUCTURA DE LA LEY, B.O. 16 DE NOVIEMBRE DE 2003.</small>
 
 > <small>(REFORMADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 2003)</small>
-
-### CAPITULO PRIMERO. Disposiciones Generales
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ## TITULO TERCERO. De los Derechos
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO SEGUNDO. Agua Potable y Alcantarillado
+### CAPITULO PRIMERO. Disposiciones Generales
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1089,7 +1191,7 @@ Las cuotas o tarifas de los derechos que se causen por la prestación de los ser
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO TERCERO. Alumbrado Público
+### CAPITULO SEGUNDO. Agua Potable y Alcantarillado
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1099,7 +1201,7 @@ Las cuotas o tarifas de los derechos que se causen por la prestación del servic
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO CUARTO. Limpia
+### CAPITULO TERCERO. Alumbrado Público
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1135,9 +1237,9 @@ ARTICULO 111 BIS.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO QUINTO. Mercados y Centrales de Abasto
+### CAPITULO CUARTO. Limpia
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 112.
 
@@ -1181,9 +1283,9 @@ ARTICULO 113 BIS.- El pago de los derechos se hará previamente a la prestación
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO SEXTO. Panteones
+### CAPITULO QUINTO. Mercados y Centrales de Abasto
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 114.
 
@@ -1203,7 +1305,7 @@ Por el uso de sanitarios en los mercados y centrales de abasto, se causará el d
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO SEPTIMO. Rastros
+### CAPITULO SEXTO. Panteones
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1257,7 +1359,7 @@ Las agencias funerarias deberán recaudar o retener los derechos que, por concep
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO OCTAVO. Parques
+### CAPITULO SEPTIMO. Rastros
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1335,7 +1437,7 @@ ARTICULO 123 BIS E.- Las oficinas recaudadoras, al recibir aviso o tener conocim
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO NOVENO. Seguridad Pública
+### CAPITULO OCTAVO. Parques
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1345,7 +1447,7 @@ Por el acceso a los parques y a otros centros que tengan por objeto satisfacer l
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO DECIMO. Tránsito
+### CAPITULO NOVENO. Seguridad Pública
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1375,7 +1477,7 @@ III.- Los demás que consideren los Ayuntamientos, siempre que estén previstos 
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO DECIMO PRIMERO. Estacionamiento
+### CAPITULO DECIMO. Tránsito
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1423,7 +1525,7 @@ Por el estacionamiento de vehículos en la vía pública, donde se hayan instala
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO DECIMO SEGUNDO. Desarrollo Urbano
+### CAPITULO DECIMO PRIMERO. Estacionamiento
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1439,7 +1541,7 @@ Cuando los ayuntamientos tengan contratado seguro por la pérdida o los daños c
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO DECIMO TERCERO. Control Sanitario de Animales Domésticos
+### CAPITULO DECIMO SEGUNDO. Desarrollo Urbano
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1653,6 +1755,26 @@ El importe de las cuotas por la prestación de los anteriores servicios se reduc
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
+### CAPITULO DECIMO TERCERO. Control Sanitario de Animales Domésticos
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 137.
+
+Por los servicios en materia de control sanitario de animales domésticos, que se presten en los centros antirrábicos, se pagarán las cuotas que apruebe el Congreso del Estado en las leyes de ingresos de los Ayuntamientos.
+
+Son objeto de pago de cuotas a que se refiere el párrafo anterior los conceptos siguientes:
+
+I.- Vacunación preventiva;
+
+II.- Captura;
+
+III.- Retención por 48 horas; y
+
+IV.- Las demás que se establezcan en las leyes de ingresos de los Ayuntamientos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
 ### CAPITULO DECIMO TERCERO BIS. Uso o Tenencia de Anuncios o Publicidad
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
@@ -1673,25 +1795,27 @@ ARTICULO 137 BIS B.- Estarán exentos del pago de estos derechos, los anuncios, 
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-###### ARTICULO 137.
-
-Por los servicios en materia de control sanitario de animales domésticos, que se presten en los centros antirrábicos, se pagarán las cuotas que apruebe el Congreso del Estado en las leyes de ingresos de los Ayuntamientos.
-
-Son objeto de pago de cuotas a que se refiere el párrafo anterior los conceptos siguientes:
-
-I.- Vacunación preventiva;
-
-II.- Captura;
-
-III.- Retención por 48 horas; y
-
-IV.- Las demás que se establezcan en las leyes de ingresos de los Ayuntamientos.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE DICIEMBRE DE 1996)</small>
-
 ### CAPITULO DECIMO CUARTO. Otros Servicios
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 138.
+
+Los Ayuntamientos del Estado conforme a sus características y necesidades propias, causarán los derechos a que se refiere este capítulo por aquellos servicios que preste la autoridad municipal y que no estén previstos en este título. Para tal efecto podrán proponer, en sus iniciativas de leyes de ingresos y presupuestos de ingresos, los derechos adicionales que estimen pertinentes.
+
+Se consideran, además, como otros servicios que causan derechos los siguientes rubros:
+
+I.- Expedición de certificados;
+
+II.- Expedición de legalización de firmas;
+
+III.- Expedición de certificación de documentos; y
+
+IV.- Las demás que se establezcan en las leyes de ingresos de los Ayuntamientos.
+
+Las cuotas por los derechos que originan los rubros anteriores deberán ser aprobadas por el Congreso del Estado en las leyes de ingresos de los Ayuntamientos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ### CAPITULO DECIMO QUINTO. Licencias para la Colocación de Anuncios o Publicidad
 
@@ -1726,24 +1850,6 @@ Serán responsables solidarios los propietarios de los predios, fincas o vehícu
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ARTICULO 138 BIS B.- Estarán exentos del pago de estos derechos, los anuncios, carteles o cualquier tipo de publicidad que realicen las entidades gubernamentales en sus funciones de derecho público, los partidos políticos, las instituciones de asistencia o beneficencia pública, las asociaciones religiosas y las de carácter cultural.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2000)</small>
-
-###### ARTICULO 138.
-
-Los Ayuntamientos del Estado conforme a sus características y necesidades propias, causarán los derechos a que se refiere este capítulo por aquellos servicios que preste la autoridad municipal y que no estén previstos en este título. Para tal efecto podrán proponer, en sus iniciativas de leyes de ingresos y presupuestos de ingresos, los derechos adicionales que estimen pertinentes.
-
-Se consideran, además, como otros servicios que causan derechos los siguientes rubros:
-
-I.- Expedición de certificados;
-
-II.- Expedición de legalización de firmas;
-
-III.- Expedición de certificación de documentos; y
-
-IV.- Las demás que se establezcan en las leyes de ingresos de los Ayuntamientos.
-
-Las cuotas por los derechos que originan los rubros anteriores deberán ser aprobadas por el Congreso del Estado en las leyes de ingresos de los Ayuntamientos.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -1827,15 +1933,11 @@ IV.- Las demás que se establezcan en las leyes de ingresos de los Ayuntamientos
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO PRIMERO. Disposiciones Genéricas
-
-> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
-
 ## TITULO CUARTO. Contribuciones Especiales por Mejoras
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO SEGUNDO. Procedimiento
+### CAPITULO PRIMERO. Disposiciones Genéricas
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
@@ -1901,7 +2003,7 @@ Los notarios públicos, corredores y funcionarios autorizados para dar fe públi
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO TERCERO. Forma de Pago
+### CAPITULO SEGUNDO. Procedimiento
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
@@ -1973,7 +2075,7 @@ III.- Por las obras de electrificación, el monto que corresponda por inmueble s
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO CUARTO. Recursos
+### CAPITULO TERCERO. Forma de Pago
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
@@ -2007,9 +2109,9 @@ No se pagarán las contribuciones especiales por mejoras por los predios a que s
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO UNICO. Productos
+### CAPITULO CUARTO. Recursos
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 157.
 
@@ -2033,7 +2135,7 @@ Dentro de los quince días siguientes a la notificación del crédito fiscal cor
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO UNICO. Aprovechamientos
+### CAPITULO UNICO. Productos
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -2133,9 +2235,9 @@ Los saldos insolutos derivados del contrato, causarán la tasa de interés que a
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO UNICO. Participaciones
+### CAPITULO UNICO. Aprovechamientos
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 166.
 
@@ -2189,9 +2291,9 @@ IV.- La acción del Fisco para hacer efectivas las sanciones, mediante el proced
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO PRIMERO. Infracciones
+### CAPITULO UNICO. Participaciones
 
-> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 168.
 
@@ -2221,7 +2323,7 @@ Las participaciones estatales que en los términos de las leyes, decretos y conv
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO SEGUNDO. Sanciones
+### CAPITULO PRIMERO. Infracciones
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -2259,9 +2361,9 @@ XIV.- Las demás que se establezcan en los Reglamentos, las Circulares y las dem
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO UNICO. Reglamentos, Circulares y demás Disposiciones Administrativas de Observancia General en Materia Hacendaria
+### CAPITULO SEGUNDO. Sanciones
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 171.
 
@@ -2300,6 +2402,10 @@ Se impondrá multa por cada infracción de las previstas en el artículo 170 de 
 ## TITULO NOVENO. Facultad Reglamentaria de los Ayuntamientos en Materia Hacendaria
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+
+### CAPITULO UNICO. Reglamentos, Circulares y demás Disposiciones Administrativas de Observancia General en Materia Hacendaria
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 173.
 
@@ -2678,3 +2784,51 @@ B.O. 7 DE JULIO DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 31 DE DICIEMBRE DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto en vigor a partir del 1º de enero de 2005, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Tratándose del impuesto predial sobre predios rústicos ejidales o comunales hasta en tanto los ayuntamientos envíen a este Poder Legislativo la propuesta de tasa o tarifa respectiva, la tasa aplicable será la del 3% sobre el valor de la producción comercializada.
+
+> <small>(F. DE E., B.O. 17 DE ENERO DE 2005)</small>
+
+###### ARTICULO CUARTO.
+
+Tratándose del impuesto municipal sobre tenencia o uso de vehículo, se pagará conforme la siguiente:
+
+TARIFA
+
+TIPO DE VEHÍCULOS AUTOMÓVILES CUOTA
+
+4 Cilindros $ 73.00
+
+6 Cilindros $ 140.00
+
+8 Cilindros $ 169.00
+
+Camiones pick up $ 73.00
+
+Vehículos con peso vehicular y con capacidad de carga hasta 8 toneladas $ 88.00
+
+Vehículos con peso vehicular y con capacidad de carga mayor a 8 toneladas $ 122.00
+
+Tractores no agrícolas tipo quinta rueda incluyendo minibuses, microbuses, autobuses y demás vehículos destinados al transporte de carga y pasaje $ 207.00
+
+Motocicletas hasta de 250 cm3 $ 3.00
+
+De 251 a 500 cm 3 $ 19.00
+
+De 500 a 750 cm 3 $ 36.00
+
+De 751 a 1000 cm 3 $ 68.00
+
+De 1001 en adelante $ 103.00
