@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1977-07-13"
+last_updated: "1977-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 1977.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -615,13 +615,13 @@ V.- No haber figurado directa o indirectamente en la Comisión de algún delito 
 
 VI.- Poseer por lo menos Educación Media Superior.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 1977)</small>
 
 ###### ARTICULO 41.
 
-El Gobernador en cada período Constitucional, tomará posesión de su encargo el día primero de diciembre y hará previamente, ante el Congreso del Estado, formal protesta en los términos siguientes:
+El Gobernador en cada Período Constitucional, tomará posesión de su encargo el día ocho de diciembre y hará previamente ante el Congreso del Estado formal protesta en los términos siguientes:
 
-"PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE ELLAS EMANEN Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE GOBERNADOR QUE EL PUEBLO ME HA CONFERIDO, CUIDANDO EN TODO POR EL BIEN Y LA PROSPERIDAD DEL ESTADO". El Presidente del Congreso o de la Comisión Permanente, en su caso, le contestará en estos términos: "SI ASI NO LO HICIEREIS QUE EL PUEBLO OS LO DEMANDE".
+"PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE ELLAS EMANEN Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE GOBERNADOR QUE EL PUEBLO ME HA CONFERIDO, CUIDANDO EN TODO POR EL BIEN Y LA PROSPERIDAD DEL ESTADO". El Presidente del Congreso o de la Comisión Permanente, en su caso, le contestará en estos términos: "SI ASI NO LO HICIEREIS, QUE EL PUEBLO OS LO DEMANDE".
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
@@ -647,11 +647,11 @@ El Gobernador Provisional, en ningún caso podrá legislar, enajenar bienes, ni 
 
 En todos los casos de falta absoluta de Gobernador a que se refiere este artículo, el Presidente del Tribunal Superior de Justicia del Estado, asumirá desde luego, con la protesta que ya tiene otorgada y por Ministerio de Ley, el Poder Ejecutivo, mientras tanto el Congreso o la Comisión Permanente efectúa el nombramiento de Gobernador.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 1977)</small>
 
 ###### ARTICULO 44.
 
-Si al comenzar un período constitucional no se presentare el Gobernador Electo o la elección no estuviere hecha o declarada el primero de diciembre, cesará en sus funciones el Gobernador saliente, y se encargará desde luego del despacho del Poder Ejecutivo, en calidad de Gobernador Provisional, el que designe el Congreso.
+Si al comenzar un período constitucional no se presentare el Gobernador Electo o la elección no estuviere hecha o declarada el ocho de diciembre, cesará en sus funciones el Gobernador saliente y se encargará desde luego del despacho del Poder Ejecutivo, en calidad de Gobernador Provisional, el que designe el Congreso.
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
@@ -1586,3 +1586,13 @@ Quedan derogadas todas las disposiciones que se opongan a las presentes reformas
 ###### ARTICULO SEGUNDO.
 
 Estas reformas entrarán en vigor una vez concluído el procedimiento establecido en el Artículo 93 de la Constitución Política del Estado de Chiapas, Fracciones I, II, III, IV, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE NOVIEMBRE DE 1977.
+
+PRIMERO.- Para los efectos de esta Reforma Constitucional, la Legislatura del Estado de Chiapas, del año de la elección, designará a la persona que ocupará el cargo de Gobernador con el carácter de Provisional, del día primero al día ocho de diciembre de 1982. Fecha esta última en que deberá tomar posesión el Gobernador Constitucional Electo.
+
+SEGUNDO.- Los funcionarios que por disposición constitucional deban durar en su encargo seis años como lo determina el artículo 55 de la Constitución Política de Chiapas, por única ocasión prorrogarán su ejercicio del primero al ocho de diciembre de 1982.
+
+TERCERO.- Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
