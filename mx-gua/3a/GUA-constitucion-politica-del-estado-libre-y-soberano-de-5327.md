@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1921-11-24"
+last_updated: "1922-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1921.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 1922.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -69,7 +69,7 @@ Si el infractor fuere jornalero u obrero, no podrá ser castigado con multa mayo
 
 La persecusión de los delitos, incumbe al Ministerio Público y a la Policía Judicial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 1919)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 1919)</small>
 
 ###### Art. 7º.
 
@@ -597,11 +597,11 @@ Si las sesiones extraordinarias se prolongaren hasta la fecha en que deban dar p
 
 De las Facultades de la Legislatura.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 1919)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 1922)</small>
 
 ###### Art. 48.
 
-Son facultades de la Legislatura:
+Son facultades del Congreso Legislativo:
 
 I. Expedir cuantas leyes sean conducentes al Gobierno y administración de todos los ramos que comprenden.
 
@@ -615,9 +615,11 @@ V. Conceder amnistías en circunstancias extraordinarias, por el voto de las dos
 
 VI. Reclamar ante la Suprema Corte de Justicia de la Nación, cuando alguna ley o acto del Gabierno (sic) General constituya un ataque a la soberanía, independencia o libertad del Estado o a la Constitución Federal.
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 1922)</small>
 
-VII. Hacer el escurtinio (sic) de los votos emitidos en las elecciones de Gobernador y de Diputados a la Legislatura y declarar electos a los que hayan obtenido mayoría en los comicios.
+VII. Hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y declarar electo al que haya obtenido mayoría en los comicios.
+
+Cada presunta Legislatura calificará las elecciones de sus miembros y resolverá las dudas que hubiere sobre ellas. Su resolución será definitiva e inatacable.
 
 VIII. Calificar toda clase de elecciones cuando se reclame contra ellas.
 
@@ -723,15 +725,17 @@ Las iniciativas o proyectos de ley que fueren desechados por la Legislatura, no 
 
 De la Diputación Permanente.
 
+(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 1922))
+
 ###### Art. 53.
 
-Son obligaciones de la Diputación permanente:
+Son obligaciones de la Diputación Permanente:
 
 I. Acordar por sí sola, cuando el caso lo exija, o a iniciativa del Ejecutivo, la convocatoria de la Legislatura a sesiones extraordinarias.
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
+(REFORMADA, P.O. 28 DE MAYO DE 1922))
 
-II. Recibir los expedientes relativos a las elecciones de Gobernador y de Diputados a la Legislatura, reservándolos a ésta, para que hagan los cómputos y las declaraciones que correspondan.
+II. Recibir los expedientes relativos a las elecciones de Gobernador y de Diputados Locales, reservando los primeros a la Legislatura y los segundos al C. Presidente de la Junta Preparatoria del nuevo Congreso para que se hagan los cómputos y declaraciones respectivos.
 
 III. Nombrar Jueces de Partido interinos, para sustituir en sus faltas a los propietarios, dando cuenta a la Legislatura, al comenzar las sesiones ordinarias.
 
@@ -1022,3 +1026,7 @@ II.- Se faculta al Ejecutivo para que reforme, por lo que hace a plazos y fechas
 P.O. 24 DE NOVIEMBRE DE 1921.
 
 Artículo segundo:- Las reformas a que se refiere la presente Ley, comenzarán a surtir sus efectos desde el día de su publicación.
+
+P.O. 28 DE MAYO DE 1922.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
