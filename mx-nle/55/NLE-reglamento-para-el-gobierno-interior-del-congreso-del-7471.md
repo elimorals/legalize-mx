@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "1992-09-16"
+last_updated: "1993-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 1993.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -847,7 +847,13 @@ Toda sesión se sujetará a un orden del día que se aprobará previamente por l
 
 De toda sesión se formulará una acta, la cual será aprobada en la siguiente sesión:
 
-Las actas se enumerarán en orden progresivo en cada Legislatura y contendrán la asistencia de los Diputados y el desarrollo de los trabajos de la sesión.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1993)</small>
+
+Las Actas se enumerarán en orden progresivo en cada Legislatura y contendrán el número de Diputados asistentes y el desarrollo sintetizado de los trabajos de la Sesión.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 1993)</small>
+
+Por separado se llevará el Diario de Debates del Congreso del Estado, que contendrá el señalamiento de qué Diputado preside la Sesión y además la transcripción literal del desarrollo de la Sesión.
 
 Las actas de la última sesión Ordinaria, la de un Período Extraordinario o la última de la Diputación Permanente, invariablemente serán aprobadas en la siguiente sesión del Pleno o de la Diputación Permanente según sea el caso, para lo cual con toda oportunidad la Secretaría hará llegar copia del Acta a los integrantes de la Legislatura, para que formulen las aclaraciones y correcciones pertinentes.
 
@@ -1264,3 +1270,9 @@ LIC. SOCRATES C. RIZZO GARCIA
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ALEJANDRO LAMBRETON NARRO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE MARZO DE 1993.
+
+UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
