@@ -4,7 +4,7 @@ identifier: "FED-codigo-civil-federal-antes-codigo-civil-para-el-distrito-641"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1985-02-07"
+last_updated: "1986-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=641&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2025-11-14"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE FEBRERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1986.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -4110,6 +4110,8 @@ Si el ausente se presenta o se prueba su existencia antes de que sea declarada l
 
 ### CAPITULO V. De la presunción de muerte del ausente
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+
 ###### ARTICULO 698.
 
 La declaración de ausencia interrumpe la sociedad conyugal, a menos de que en las capitulaciones matrimoniales se haya estipulado que continúe.
@@ -4142,9 +4144,11 @@ Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada l
 
 ###### ARTICULO 705.
 
-Cuando hayan transcurrido seis años desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
+Cuando hayan transcurrido 6 años desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
 
-Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que hayan transcurrido dos años, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán medidas provisionales autorizadas por el Capítulo I de este Título.
+Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, o por encontrarse a bordo de un buque que naufrague, o al verificarse una inundación u otro siniestro semejante, bastará que hayan transcurrido dos años, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en estos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán medidas provisionales autorizadas por el capítulo I de este Título.
+
+Cuando la desaparición sea consecuencia de incendio, explosión, terremoto o catástrofe aérea o ferroviaria, y exista fundada presunción de que el desaparecido se encontraba en el lugar del siniestro o catástrofe, bastará el transcurso de seis meses, contados a partir del trágico acontecimiento, para que el juez de lo familiar declare la presunción de muerte. En estos casos, el juez acordará la publicación de la solicitud de declaración de presunción de muerte, sin costo alguno y hasta por tres veces durante el procedimiento, que en ningún caso excederá de treinta días.
 
 ###### ARTICULO 706.
 
@@ -11972,7 +11976,7 @@ Los asientos podrán anularse por resolución judicial con audiencia de los inte
 
 ARTICULO 3,068.- La nulidad de los asientos a que se refiere el artículo anterior, no perjudicará el derecho anteriormente adquirido por un tercero, protegido con arreglo al artículo 3009.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LOS INTEGRA, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRA, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ### CAPITULO IV. Del registro de operaciones sobre bienes muebles
 
@@ -12385,3 +12389,9 @@ TRANSITORIO PRIMERO.- Los contratos celebrados con anterioridad a la promulgaci�
 DECRETO DE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES RELACIONADAS CON INMUEBLES EN ARRENDAMIENTO.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE ENERO DE 1986.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas al Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
