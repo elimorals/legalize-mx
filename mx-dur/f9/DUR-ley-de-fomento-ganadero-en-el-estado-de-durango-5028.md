@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-ganadero-en-el-estado-de-durango-5028"
 country: "mx"
 rank: "ley"
 publication_date: "1971-07-11"
-last_updated: "1971-07-11"
+last_updated: "1973-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "DUR"
 
 LEY DE FOMENTO GANADERO EN EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 1973.
 
-Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 11 y jueves 15 de julio de 1971.
+Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 11 de julio de 1971.
 
 PODER EJECUTIVO DEL ESTADO.
 
@@ -875,7 +875,7 @@ Todo ganado bovino, estabulado o semi-estabulado, será sometido cada 6 meses a 
 
 El resto del ganado tuberculinizado, cuya reacción sea positiva, deberá también sacrificarse en un tiempo máximo de 72 horas.
 
-Así mismo el ganado estabulado y semi-estabulado deberá ser sometido cada año a la prueba de Brucellosis en el caso de que en una propietario del ganado deberá proceder a la explotación se encuentre esta enfermedad, el vacunación de hembras de 3 a 6 meses de edad bajo la supervisión de la Dirección General de Agricultur (sic) y Ganadería, no permitiéndosele la venta para cría de ganado. (sic)
+Así mismo el ganado estabulado y semi-estabulado deberá ser sometido cada año a la prueba de Brucellosis en el caso de que en una propietario del ganado deberá proceder a la explotación se encuentre esta enfermedad, el vacunación de hembras de 3 a 6 meses de edad bajo la supervisión de la Dirección General de Agricultur (sic) y Ganadería, no permitiéndosele la venta para cría de ganado.(sic)
 
 ###### ARTICULO 144.
 
@@ -911,15 +911,17 @@ La Secretaría de Agricultura y Ganadería, designará para la coordinación de 
 
 Para llevar a cabo la presente Campaña contra la Garrapata, el Jefe de la misma oportunamente elaborará su plan de trabajo sometiendo a la consideración del Comité Estatal, para su aprobación y conjuntamente expedirán el Reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1973)</small>
+
 ###### ARTICULO 151.
 
-Para los trabajos de la Campaña, queda dividido el Estado en las siguientes zonas:
+Para los trabajos de la Campaña contra la Garrapata queda dividido el Estado en las siguientes Zonas:
 
-a).- Zona Libre.- Comprende todas las poblaciones, ranchos y rancherías, dentro de los Municipios de: Gómez Palacio, Lerdo, Tlahualilo, Mapimí, Villa Hidalgo, Villa Ocampo, San Bernardo, Guanaceví, Indé, El Oro; San Pedro del Gallo, Nazas, San Luis del Cordero, Rodeo, Coneto de Comonfort, San Juan del Río, Peñon Blanco, Cuencamé, Simón Bolívar, Santa Clara, San Juan de Guadalupe, Pánuco de Coronado, Guadalupe Victoria, Tepehuanes, Canatlán; parte Oriente de Santiago Papasquiaro, Otáez y parte Sureste del Municipio de San Dimas.
+a).- ZONA LIBRE.- Comprendiendo todos los poblados, ranchos y rancherías dentro de los Municipios de: Gómez Palacio, Lerdo, Tlahualilo, Mapimí, Hidalgo, Ocampo, San Bernardo, Guanaceví, Indé, El Oro, San Pedro del Gallo,, Nazas, San Luis del Cordero, Rodeo, Coneto de Comonfort, San Juan del Río, Peñon Blanco, Cuencamé, Simón Bolívar, Santa Clara, San Juan de Guadalupe, Pánuco de Coronado, Guadalupe Victoria, Tepehuanes, Canatlán, parte Oriente de Santiago Papasquiaro y de Otáez, parte Sureste de San Dimas, Durango, Nombre de Dios, Poanas, Vicente Buerrero y Súchil.
 
-b).- Zona de Erradicación.- Comprende todas las poblaciones, haciendas, ranchos y rancherías dentro de los Municipios de: Durango, Nombre de Dios, Poanas, Vicente Guerrero y Súchil.
+b).- ZONA INFESTADA.- Comprende los poblados, ranchos y rancherías dentro de los Municipios de: Topia, Canelas, Tamazula, parte Oeste de Otáez, parte Oeste y Sur de San Dimas, Pueblo Nuevo, parte Sur de Santiago Papasquiaro y El Mezquital.
 
-c).- Zona de trabajo.- Comprende las poblaciones, ranchos y rancherías de los Municipios de: Topia, Canelas, Tamazula, parte Oeste de Otáez parte Oeste y Sur de San Dimas, Pueblo Nuevo, parte Sur de Santiago Papasquiaro y Mezquital.
+Mismos que de acuerdo con el programa de trabajo de la Campaña Contra la Garrapata, pasará a trabajos de Promoción, Control y Erradicación para finalmente lograda la erradicación de la garrapaat (sic) transmisora de la Piroplasmosis bovina a Zona Libre.
 
 ###### ARTICULO 152.
 
@@ -957,9 +959,13 @@ Los propietarios de ganado de la zona enunciada en el artículo 151 inciso (b), 
 
 Los animales de las especies bovina y equina procedentes de otros Estados, quedarán sujetos a las estipulaciones de los artículos indicados en este Capítulo, concediéndose acción pública para denunciar la infracción de los citados artículos a las Autoridades tanto Sanitarias como Administrativas.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1973)</small>
+
 ###### ARTICULO 161.
 
-Queda establecido en el cordón sanitario entre la zona de trabajo a que se refiere el inciso (c) del artículo 151 y los incisos (a) y (b) del mismo artículo.
+Queda establecida la nueva línea cuarentenaria de la Zona Libre de garrapata en la forma siguiente:
+
+La nueva línea cuarentenaria de esta zona que se declara libre de garrapata, se inicia en el poblado "Laguna de Progreso" cercano a la colindancia entre los Municipios de Durango y San Dimas, continuando de este punto hacia el Sur por la misma línea de colindancia entre los Municipios ya citados, llegando hasta la quebrada Animas sube aguas arriba por su afluente la quebrada del Jaral hasta su remate en el Rancho de Cruz de Piedra de este punto continúa por el nacimiento de La Quebrada de San Bartolo aguas abajo que después toma el nombre de Quebrada de Galindo en la confluencia de la Quebrada de Llano Grande continúa aguas arriba hasta la mojonera de Los Escalones; de este punto sigue hacia el Sureste por la colindancia Sur de los Río del Arco, Benítez y Bajíos de Don Víctor, lindero que pasa por los puntos; Cordón Solitario, Guijarro, El Sauco, Peñuelas y Alazanas y que sirve de colindancia este último entre los Municipios de Durango, Pueblo Nuevo, y Mezquital, de las Alazanas cambia el rumbo hacia el Noreste siguiendo el filo de la Sierra de Bayacora o Santa Elena pasando por la Ceja de Los Monos, Alto del Rincón de Marfíl, Alto del Resorte, Puerto de la Campaña hasta el cerro El Papantón en donde toma el rumbo Este pasando por Cruz de Payán a Puerto de La Tinajita, este último es punto trino en donde colindan los Municipios de Nombre de Dios, Mezquital y Durango, siendo la línea anterior colindancia entre el Municipio de Durango y El Mezquital. Del Puerto de La Tinajita sigue la línea por la colindancia entre los Municipios de Nombre de Dios y Mezquital que es una línea quebrada que pasa por la mojonera de Portezuelo, mojonera de Zacatitanes que limitan al antiguo puerto de la Tinaja, continúa por la Mojonera del Manflor, hacia el Este por todo el lindero Sur del terreno del Venado, hasta el paso de Acevedo, en este punto sigue el curso del Río El Mezquital aguas abajo hasta el lugar en que se le unen el Arroyo de Jacales y siguiendo por éste, aguas arriba se dirige hacia el Este hasta la Mojonero de Caporalillos de aquí una línea Sureste a la Mojonera Ojo de Borrego en donde termina la colindancia entre el Municipio del Mezquital y Nombre de Dios, de este punto continúa la colindancia entre Súchil y Mezquital con una línea Sureste hacia el Picacho de Cerro Blanco, de este punto continúa con rumbo general Sur por la Colindancia Oeste del predio Milpas y Zotoles, pasando por los puntos Mesa del Burro a la subida del Puerto Colorado de aquí sigue la línea con rumbo general Sur que sigue el lindero Oeste del predio Las Margaritas pasando por la Mojonera Alto de San Pablo hasta llegar a la esquina de ese mismo predio denominado Pico de Eteria o Tres Puertos de aquí con rumbo Sureste se sigue hasta el Cerro de Guanajuatillo esquina Sureste del predio Las Margaritas y de este punto con rumbo hacia el Sur termina la línea cuarentenaria en el Cerro de Toyana en el que se continúa la línea cuarentenaria en el Estado de Zacatecas.
 
 ###### ARTICULO 162.
 
@@ -1060,3 +1066,9 @@ Por tanto mando se imprima, publique, circule y comunique a quienes corresponda 
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo. a los quince días de junio del año de mil novecientos setenta y uno.
 
 El Gobernador Constitucional del Estado, ING. ALEJANDRO PAEZ URQUIDI.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. A. SERGIO GUERRERO MIER. Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE MAYO DE 1973.
+
+UNICO.- El presente Decreto entrará en vigor tres días después de la fecha de su publicación en el Periódico Oficial del Estado.
