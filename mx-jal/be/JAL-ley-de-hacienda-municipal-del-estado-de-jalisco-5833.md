@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2003-12-30"
+last_updated: "2004-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,29 +21,47 @@ state: "JAL"
 ---
 # LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
+REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
-Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
+Reglamento publicado en el Número 42 del Periódico Oficial del Estado de Hidalgo, el lunes 21 de octubre de 2013.
 
-Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
+PRESIDENCIA MUNICIPAL PACHUCA DE SOTO, ESTADO DE HIDALGO.
 
-Enrique Alvarez del Castillo, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber:
+HONORABLE AYUNTAMIENTO CONSTITUCIONAL DEL MUNICIPIO DE PACHUCA DE SOTO, ESTADO DE HIDALGO.
 
-Que por la Secretaría del H. Congreso del Estado se me ha comunicado el siguiente
+El C. Eleazar Eduardo García Sánchez, en mi carácter de Presidente Municipal de Pachuca de Soto, Estado de Hidalgo; a sus habitantes hace saber:
 
-DECRETO
+Con fundamento en los artículos 115 fracción II párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos, 115, 122, 123 y 141 fracción II de la Constitución Política del Estado de Hidalgo, 1, 2, 3, 7 y 56 fracción I, inciso a), 69, fracción IX, 70, 71 fracción I inciso d), 72, 189, 190 y 191 de la Ley Orgánica Municipal del Estado; artículos 1, 2, 3, 6, 7, 9 fracciones II, VII, VIII, XIII, XIV, XVI, XIX, 10, 11 fracción III, 12, 13 inciso a), 14, 33, 56 párrafo primero, 57, 75, 95, 96, 97, 104, 105 fracción IV, 110, 127, 128, 130 y 132 del Reglamento Interior del Honorable Ayuntamiento de Pachuca de Soto y demás relativas aplicables y vigentes que facultan al Ayuntamiento para expedir los Reglamentos y demás disposiciones dentro del ámbito de su competencia, ponemos a la atenta consideración de este Honorable Cuerpo Colegiado, la presente iniciativa con proyecto de decreto POR MEDIO DEL CUAL SE ABROGA EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO, CONTENIDO EN EL DECRETO NÚMERO DIECISIETE PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL DÍA 08 DE DICIEMBRE DEL AÑO 2008 Y CREA EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO, al tenor de la siguiente:
 
-Número 11558. El Congreso del Estado decreta:
+R E L A T O R Í A
 
-Ley de Hacienda Municipal del estado de Jalisco
+PRIMERO. Durante el desarrollo de la Vigésima Segunda Sesión Ordinaria Pública celebrada el día 06 de diciembre del año dos mil doce, fue aprobada por Unanimidad de Votos el turno a comisiones la propuesta presentada por el Ing. Eleazar Eduardo García Sánchez, Presidente Constitucional del Ayuntamiento de Pachuca de Soto, estado de Hidalgo, mediante la cual propone EL DECRETO POR MEDIO DEL CUAL SE ABROGA EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO, CONTENIDO EN EL DECRETO NÚMERO DIECISIETE PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL DÍA 08 DE DICIEMBRE DEL AÑO 2008 Y CREA EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO.
+
+SEGUNDO. El Lic. Hugo Espinosa Quiroz, Secretario del Honorable Ayuntamiento, envió el oficio con clave SA/OM/162/2012 bajo el expediente identificado como SA/DP/056/2012, a la Comisión Permanente de Gobernación, Bandos, Reglamentos y Circulares, para su estudio, análisis, discusión y dictamen correspondiente.
+
+TERCERO. Una vez turnada la solicitud respectiva a la Comisión asignada, la Comisión Permanente de Gobernación, Bandos, Reglamentos y Circulares procedió a su estudio, análisis y discusión, para ello con fecha 08 de febrero del año 2013, se llevó a cabo la Décima Segunda Sesión Ordinaria, mediante votación unánime de los integrantes de la Comisión se declara en sesión Permanente y se continúa con la sesión los días 11, 13, 18, 19, 20, 26 y 27 de febrero; 11 y 14 de marzo; 8 de abril; 13 de mayo; 03 de junio; 08 de julio, 01 de agosto del presente año, previa declaración de los recesos correspondientes, para que el día de hoy miércoles 21 de agosto de 2013, se presenta el dictamen correspondiente a los integrantes de la Comisión en base a los siguientes:
+
+CONSIDERANDOS
+
+[...]
+
+Por todo lo anterior, se somete a la consideración del H. Ayuntamiento el siguiente Dictamen que contiene el Proyecto de Resolutivo con el siguiente:
+
+ACUERDO
+
+ÚNICO.- Emítase el decreto que crea el REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO. Para quedar de la siguiente manera:
+
+DECRETO MUNICIPAL NÚMERO SIETE
+
+QUE CONTIENE EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO
 
 # LIBRO PRIMERO. Disposiciones Preliminares
 
-## TITULO UNICO
+## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-### CAPITULO I. Disposiciones Generales
+### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 1.
 
@@ -265,7 +283,7 @@ Los impuestos, contribuciones especiales, derechos, aprovechamientos, participac
 
 Los productos se regularán por las disposiciones legales indicadas en el párrafo anterior o por lo que, en su caso, prevengan los contratos o concesiones respectivas.
 
-### CAPITULO II. De las Autoridades Fiscales, sus Atribuciones y del Procedimiento Administrativo
+### CAPÍTULO I. DEL AYUNTAMIENTO DEL MUNICIPIO DE PACHUCA DE SOTO
 
 ###### ARTÍCULO 8.
 
@@ -487,7 +505,7 @@ Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin
 
 El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones fiscales, estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados. Dicha reserva, no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los servidores públicos encargados de la administración y la defensa de los intereses fiscales del municipio, a las autoridades judiciales en proceso del orden penal o a los Tribunales competentes que conozcan de pensiones alimenticias.
 
-### CAPITULO III. De los Sujetos, sus Derechos y Obligaciones
+### CAPÍTULO II. DEL PRESIDENTE MUNICIPAL
 
 ###### ARTÍCULO 15.
 
@@ -515,7 +533,9 @@ X. Coadyuvar en materia electoral, según le señalen las leyes o los convenios 
 
 XI. Representar jurídicamente al Municipio en todos aquellos actos administrativos cuando esté legalmente facultado para ello;
 
-XII. Nombrar y remover libremente a los servidores de la Administración Pública Municipal;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2020)</small>
+
+XII. Nombrar y remover libremente a los servidores de la Administración Pública Municipal, observando el principio de paridad de género.
 
 XIII. Crear e implementar las comisiones administrativas que permitan el mejor desempeño y atención de los asuntos de la Administración Pública Municipal; y
 
@@ -554,6 +574,10 @@ X. Secretaría de Desarrollo Económico;
 XI. Secretaría de Administración; y
 
 XII. Secretaría de Contraloría y Transparencia.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XIII. Secretaría Municipal de las Mujeres.
 
 ###### ARTÍCULO 18.
 
@@ -729,7 +753,7 @@ En los casos de cambio de nombre, denominación o razón social, domicilio o act
 
 Cuando un establecimiento sea objeto de traspaso, simultáneamente al aviso correspondiente, el adquirente deberá cumplir con la obligación de registrarse o empadronarse.
 
-### CAPITULO IV. Del Nacimiento y Extinción de los Créditos Fiscales
+### CAPÍTULO III. DE LAS ATRIBUCIONES DEL PRESIDENTE MUNICIPAL
 
 ###### ARTÍCULO 19.
 
@@ -775,9 +799,13 @@ XIX. Las demás que les señalen la o el Presidente Municipal y la normatividad 
 
 Con el propósito de procurar mayor eficiencia en el despacho de los asuntos de la Administración Pública Municipal, las secretarías quedan obligadas a coordinarse entre sí cuando la naturaleza de sus funciones así lo requiera, así también, proporcionar la información que entre ellas se soliciten.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 20.
 
 Para la organización y administración de los servicios públicos en el Municipio, se habrán de nombrar, de acuerdo a sus propias atribuciones legales, por la o el Presidente Municipal, los funcionarios y empleados necesarios para el cumplimiento de los planes, programas y proyectos, en concordancia a lo establecido por el presupuesto de egresos que se formule anualmente para el Municipio.
+
+La o el Presidente Municipal deberá observar el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de la administración municipal.
 
 ###### ARTÍCULO 21.
 
@@ -1079,9 +1107,11 @@ Unicamente el Congreso del Estado, mediante disposición de carácter general, p
 
 # LIBRO SEGUNDO. De los Ingresos
 
-## TITULO PRIMERO. Impuestos
+## TÍTULO SEGUNDO. DE LOS ÓRGANOS DE GOBIERNO Y DE ADMINISTRACIÓN DEL MUNICIPIO
 
-### CAPITULO I. Disposiciones Generales
+### CAPÍTULO I
+
+DE LAS DISPOSICIONES GENERALES PARA LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO.
 
 ###### ARTÍCULO 26.
 
@@ -1267,27 +1297,49 @@ Para el despacho de los asuntos que le competen, durante las ausencias temporale
 
 Para el cumplimiento de las atribuciones y funciones a su cargo, la o el titular de la Secretaría General Municipal contará con la siguiente estructura:
 
-I. Dirección General Jurídica.
+I.- Coordinación General Jurídica;
 
-a) Dirección de lo Contencioso;
+a).- Dirección de lo Contencioso;
 
 1) Departamento de la Junta de Reclutamiento;
 
-b) Dirección de la Oficialía del Registro del Estado Familiar;
+b).- Dirección de la Oficialía del Registro del Estado Familiar;
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2018)</small>
+II.- Secretaría Técnica;
 
-c) Oficina Conciliadora
+III.- Dirección de Desarrollo Político;
 
-II. Dirección de Desarrollo Político;
+IV.- Dirección de Vinculación Ciudadana;
 
-III. Dirección de Vinculación Ciudadana;
+V.- Dirección de Reglamentos y Espectáculos;
 
-IV. Dirección de Reglamentos y Espectáculos;
+VI.- Dirección de Protección Civil, Bomberos y Gestión Integral de Riesgos; y
 
-V. Dirección de Protección Civil, Bomberos y Gestión Integral de Riesgos; y
+VII.- Dirección de Comunicación Social.
 
-VI. Dirección de Comunicación Social.
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2021)</small>
+
+ARTÍCULO 32 BIS.- La Secretaría Técnica de la Secretaría General Municipal, es el órgano de vinculación entre la propia Secretaría General Municipal y los diferentes niveles de gobierno, las dependencias municipales, organizaciones no gubernamentales y la sociedad en general, y tendrá las siguientes atribuciones:
+
+I.- Definir y dar seguimiento a las metas del gobierno municipal.
+
+II.- Revisar la propuesta de los Manuales de Organización y Procedimientos de la estructura orgánica para que sea presentada al titular de la Secretaría General Municipal;
+
+III.- Ejecutar los programas que le correspondan en el contexto del Plan Municipal de Desarrollo y de la reglamentación interior de la administración municipal;
+
+IV.- Auxiliar a la persona titular de la Secretaría General Municipal en la conducción de política interior del municipio;
+
+V.- Coordinar las acciones de los Consejos de Colaboración y delegados municipales;
+
+VI.- Auxiliar en la atención de la audiencia ciudadana a la persona titular de la Secretaría, previo acuerdo.
+
+VII.- Elaborar fichas técnicas de las reuniones que presida la persona titular de la Secretaría y de los acuerdos que se establezcan, tanto con otras dependencias del municipio, del Estado y las organizaciones sociales;
+
+VIII.- Realizar el registro, dar seguimiento y Vigilar el cumplimiento de los acuerdos, convenios, contratos y otros, celebrados con las diferentes áreas de la Secretaría y con otras Dependencias u organizaciones sociales, hasta concluir el proceso
+
+IX.- Coordinar, supervisar y evaluar a las direcciones de área de la Secretaría General Municipal, respecto de sus funciones encomendadas; y
+
+X.- Coordinarse técnicamente con el Oficial Mayor del Ayuntamiento para que las Sesiones de Cabildo se lleven a cabo de acuerdo a lo programado y autorizado previamente por dicho órgano colegiado.
 
 ###### ARTÍCULO 33.
 
@@ -1349,7 +1401,7 @@ Los Impuestos se liquidarán y pagarán, de conformidad con las tarifas, tasas o
 
 En el caso de celebrarse convenios entre los gobiernos Estatal y Municipal para la recaudación de los Impuestos establecidos en este título se estará a lo señalado en los convenios respectivos.
 
-### CAPITULO II. Impuesto sobre Actividades Comerciales Industriales y de Prestación de Servicios
+### CAPÍTULO II. DE LAS UNIDADES DE APOYO AL PRESIDENTE MUNICIPAL
 
 ###### ARTÍCULO 34.
 
@@ -1665,7 +1717,7 @@ VIII. Las asociaciones de obreros y campesinos constituidas para la producción 
 
 IX. La enajenación de valores y de títulos de crédito.
 
-### CAPITULO III. Impuesto sobre Diversiones Públicas
+### CAPÍTULO III. DE LA SECRETARÍA GENERAL MUNICIPAL
 
 ###### Art. 74.
 
@@ -1741,7 +1793,7 @@ I. Los bienes inmuebles en que se exploten diversiones públicas, cuando sean pr
 
 II. El equipo y las instalaciones que se utilicen en la diversión.
 
-### CAPITULO IV. Impuesto sobre Matanza de Ganado, Aves y otras Especies Animales
+### CAPÍTULO IV. DE LA SECRETARÍA DE PLANEACIÓN Y EVALUACIÓN
 
 ###### Art. 81.
 
@@ -1765,7 +1817,7 @@ El pago de este impuesto se hará en forma anticipada, en la Tesorería Municipa
 
 Los contribuyentes de este impuesto están obligados a efectuar la matanza de animales en los Rastros Municipales o en los lugares que para ese efecto autorice el Presidente Municipal, debiendo dar aviso a la Tesorería Municipal. Asimismo, están obligados a comprobar la propiedad de los animales.
 
-### CAPITULO V. Impuesto sobre Posesión y Explotación de Carros Fúnebres
+### CAPÍTULO V. DE LA SECRETARÍA DE LA TESORERÍA MUNICIPAL
 
 ###### Art. 86.
 
@@ -1791,9 +1843,7 @@ Estarán exentas del pago de este impuesto, las instituciones de asistencia y se
 
 Los contribuyentes de este impuesto, simultáneamente a la presentación de su solicitud de empadronamiento, deberán presentar a la Tesorería Municipal, una relación de las unidades que posean y exploten, así como todos los datos que ésta exija, manifestando las altas y bajas de dichas unidades cuando éstas ocurran.
 
-### CAPITULO VI. Del Impuesto Predial
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+### CAPÍTULO VI. DE LA SECRETARÍA DE SERVICIOS PÚBLICOS MUNICIPALES
 
 #### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
 
@@ -1881,6 +1931,10 @@ II. Dirección de Alumbrado Público; y
 
 III. Dirección de Mercados, Comercio y Abasto.
 
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2022)</small>
+
+IV. Dirección del Rastro Municipal o Dirección del Rastro Municipal Metropolitano.
+
 ###### ARTÍCULO 57.
 
 A la Dirección de Sanidad Municipal le corresponderá el ejercicio de las siguientes atribuciones:
@@ -1913,15 +1967,15 @@ XIII. Administrar y mantener limpio y en buen funcionamiento el horno de cremaci
 
 XIV. Supervisar las actividades que se lleven a cabo en el espacio asignado al área de nichos y resteros (sic);
 
-XV. Hacer cumplir las disposiciones sanitarias vigentes y aplicables al rastro municipal;
+XV. (DEROGADA, P.O. 28 DE MARZO DE 2022)
 
-XVI. Verificar la documentación que acredite la procedencia legítima de los semovientes que ingresen a las instalaciones para su sacrificio y la realización del pago de los impuestos y derechos correspondientes;
+XVI. (DEROGADA, P.O. 28 DE MARZO DE 2022)
 
-XVII. Proporcionar el servicio de refrigeración de los cárnicos en canal;
+XVII. (DEROGADA, P.O. 28 DE MARZO DE 2022)
 
-XVIII. Cumplir con la normatividad vigente en materia de salud pública que permita un control sanitario estricto de la matanza de las distintas especies, permitiéndole al consumidor que la carne que consume se encuentra en perfectas condiciones de consumo; verificando que los productos cárnicos, que ingresen al municipio para su comercialización, acudan a las instalaciones del rastro municipal para el resello, comprobando que reúnan las condiciones de sanidad para el consumo humano, estableciendo la coordinación con las autoridades sanitarias en la vigilancia y cumplimiento de las normas de higiene establecidas en la materia;
+XVIII. (DEROGADA, P.O. 28 DE MARZO DE 2022)
 
-XIX. Cumplir las disposiciones legales y reglamentarias aplicables a los rastros del municipio; supervisar y vigilar que, en el manejo, comercialización y transporte de los productos cárnicos se cumplan las disposiciones sanitarias vigentes, para que estos lleguen para el consumo humano en óptimas condiciones sanitarias; y
+XIX. (DEROGADA, P.O. 28 DE MARZO DE 2022)
 
 XX. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
 
@@ -1980,6 +2034,48 @@ XV. Coordinar con las diferentes Secretarías Municipales, Estatales y Federales
 XVI. Coadyuvar con la Secretaría de Desarrollo Económico en la investigación, gestión, promoción e integración de los proyectos ejecutivos de aquellos programas federales y estatales encaminados al mejoramiento de la infraestructura de los mercados públicos y centrales de abasto del Municipio; y
 
 XVII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
+
+ARTÍCULO 59 BIS.- Corresponde al Titular de la Dirección del Rastro Municipal o Dirección del Rastro Municipal Metropolitano, las siguientes atribuciones:
+
+I. Administrar y vigilar el correcto funcionamiento del Rastro Municipal o Metropolitano de Pachuca de Soto, Hidalgo;
+
+II. Diseñar en coordinación con el Secretario de Servicios Públicos Municipales, los mecanismos de mejora en el funcionamiento, infraestructura y funcionamiento del rastro municipal;
+
+III. Hacer cumplir las disposiciones sanitarias vigentes y aplicables al rastro municipal;
+
+IV. Vigilar la conservación del rastro del Municipio de Pachuca de Soto, Hidalgo;
+
+V. Elaborar ante el Secretario de Servicios Públicos Municipales, la propuesta de las cuotas y tarifas para su integración o derogación en la Ley de Ingresos al año que corresponda;
+
+VI. Sujetarse a las Leyes de Transparencia y Rendición de Cuentas;
+
+VII. Solicitar al Secretario de Servicios Públicos Municipales, los trabajos de mantenimiento para el correcto funcionamiento del rastro municipal;
+
+VIII. Vigilar que los derechos por el uso y aprovechamiento del rastro municipal sean debidamente cobrados por la caja de la Tesorería Municipal ubicada en estas instalaciones;
+
+IX. Informar al Secretario de Servicios Públicos Municipales, sobre la recaudación de manera trimestral;
+
+X. Exigir a los introductores de ganado y aves de corral, los documentos con los que comprueben la propiedad, procedencia de los animales y el pago de derechos de la matanza;
+
+XI. Vigilar que el personal contratado para la operación y funcionamiento del rastro municipal sea de acuerdo a las (sic) sus actividades;
+
+XII. Cuidar el orden, impidiendo toda clase de indisciplina, juegos y discusiones, introducción y consumo de bebidas alcohólicas, en las diferentes áreas del rastro municipal;
+
+XIII. Llevar el libro de registro de sacrificio, uso de corrales y demás actividades desempeñadas en el rastro municipal;
+
+XIV. Firmar los recibos que se expidan, por concepto de los servicios que proporcione el rastro;
+
+XV. Consignar a la autoridad correspondiente, las faltas o delitos que se cometan durante las horas de trabajo y dentro del edificio;
+
+XVI. Hacer cumplir con la normatividad vigente en materia de salud pública que permita un control sanitario estricto de la matanza de las distintas especies, permitiéndole al consumidor que la carne se encuentre en perfectas condiciones de consumo; verificando que los productos cárnicos, que ingresen al Municipio para su comercialización, acudan a las instalaciones del rastro municipal para el resello, comprobando que reúnan las condiciones de sanidad para el consumo humano, estableciendo la coordinación con las autoridades sanitarias en la vigilancia y cumplimiento de las normas de higiene establecidas en la materia.
+
+XVII. Hacer Cumplir las disposiciones legales y reglamentarias aplicables a los rastros del Municipio; supervisar y vigilar que, en el manejo, comercialización y transporte de los productos cárnicos, se cumplan las disposiciones sanitarias vigentes, para que estos lleguen para el consumo humano en óptimas condiciones sanitarias;
+
+XVIII. Vigilar que las carnes que salgan del rastro, lleven marcados los sellos sanitarios y administrativos, así como los recibos por el pago de derechos que se hayan expedido; y
+
+XIX. Las demás que los reglamentos en la materia señalen.
 
 ###### Art. 92.
 
@@ -2185,17 +2281,15 @@ Las autoridades judiciales o administrativas previamente al remate de inmuebles,
 
 Si del informe apareciese algún crédito fiscal insoluto, la autoridad retendrá del producto del remate la cantidad suficiente a cubrirlo, remitiéndola inmediatamente a la Tesorería Municipal para que ésta extienda y envíe el recibo correspondiente, que será entregado al adquirente del inmueble.
 
-### CAPITULO VII. Impuesto sobre Transmisiones Patrimoniales
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1999)</small>
+### CAPÍTULO VII. DE LA SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
 
 #### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 60.
 
-La Secretaría de Medio Ambiente y Desarrollo Sustentable es una dependencia de la Administración Pública Municipal, encargada de apoyar a la o el Presidente Municipal, en la conducción de la política sobre el control y supervisión del medio ambiente, recursos municipales, contaminación, cambio climático y, en lo general, la protección y conservación de sus medios bióticos y abióticos, así mismo la protección, control y bienestar de la fauna del Municipio, a través de una gestión pública municipal comprometida con una administración eficaz y eficiente, en el manejo de los recursos asignados.
+La Secretaría de Medio Ambiente y Desarrollo Sustentable es una dependencia de la Administración Pública Municipal, encargada de apoyar a la o el presidente municipal, en la conducción de la política sobre el control y supervisión del medio ambiente, recursos municipales, contaminación, cambio climático y, en lo general, la protección y conservación de sus medios bióticos y abióticos, así mismo, la protección, control, bienestar de la fauna, ejemplares de vida silvestre, exóticos y endémicos depositados en sus instalaciones por las autoridades ambientales o competentes en el tema y así como algunos ejemplares con legal procedencia rescatados de maltrato o trato indigno por particulares, todo esto de acuerdo a la capacidad presupuestal, a través de una gestión pública municipal comprometida con una administración eficaz y eficiente, en el manejo de los recursos asignados.
 
 ###### ARTÍCULO 61.
 
@@ -2257,7 +2351,7 @@ XXVII. Proponer la búsqueda de financiamiento y fondeo para los Planes, Proyect
 
 XXVIII. Autorizar mediante dictamen los proyectos de arborización y reforestación de las obras públicas o privadas a ejecutarse;
 
-XXIX. Proponer, aplicar, desarrollar y ejecutar las acciones, proyectos y programas en material (sic) de recursos naturales con capitales provenientes de diferentes fondos;
+XXIX. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2020)
 
 > <small>(ADICIONADA [N. DE E. REFORMADA],P.O. 5 DE MAYO DE 2020)</small>
 
@@ -2291,9 +2385,39 @@ XXXVI.- Coordinar la conformación y operación del Área Técnica de Protecció
 
 XXXVII. Participar en el Consejo Municipal de Bienestar Animal el cual tendrá por objeto autorizar y vigilar el comportamiento de las políticas públicas tendientes al bienestar animal;
 
-> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2020)</small>
+XXXVIII. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2020)
 
-XXXVIII.- Las demás que le asignen las Leyes, Reglamentos y demás normatividad Federal y Estatal, aplicable a su ámbito de competencia y la o él Presidente Municipal.
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XXXIX.- Planear, coordinar y evaluar la operación de la Unidad de Rescate, Rehabilitación y Reubicación de la Fauna Silvestre, Endémica y Exótica de México, en los términos de la Ley orgánica Municipal del Estado de Hidalgo y Reglamento Interior de la Administración Pública Municipal de Pachuca de Soto, Estado de Hidalgo, el decreto de presupuesto de egresos del Municipio de Pachuca de soto, Hidalgo; así como los oficios circulares que emitan las Autoridades competentes en la materia;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XL. Coordinar y rubricar la presentación trimestralmente ante la Junta de Gobierno (sic) un informe de actividades de la unidad, que incluya la evaluación programática-presupuestal, la captación de los ingresos y el ejercicio del presupuesto de egresos, así como los estados financieros correspondientes;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XLI. Vigilar la utilización del recurso autorizado al organismo descentralizado, con la intervención que en su caso corresponda a la Secretaría de la Tesorería Municipal;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XLII. Vigilar los programas de corto, mediano y largo plazo: institucionales, de acción, financiero y operativo anual, así como las cuotas y tarifas, y presentarlos para su aprobación a la junta de gobierno;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XLIII. Vigilar la administración y representación legal de la Unidad de Rescate, Rehabilitación y Reubicación de la Fauna Silvestre, Endémica y Exótica de México;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XLIV. Dirigir la elaboración del programa operativo en el que deberá basar su actuación con enfoque en presupuesto basado en resultados;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XLV. SUpervisar (sic) las donaciones en especie o monetarias para beneficio de los ejemplares de vida silvestre que se encuentren en Unidad de Rescate, Rehabilitación y Reubicación de la Fauna Silvestre, Endémica y Exótica de México, sus estudios diagnósticos, tratamientos, traslado y todo lo que contribuya a mejorar el bienestar del animal; y
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XLVI. Las demás que le asignen las leyes, reglamentos y demás normatividad federal y estatal, aplicable a su ámbito de competencia y la o él presidente municipal.
 
 #### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
 
@@ -2307,7 +2431,11 @@ II. Dirección de Sustentabilidad de los Recursos Naturales.
 
 > <small>(ADICIONADA, P.O. 5 DE MAYO DE 2020)</small>
 
-III.- Área Técnica de Protección, Sanidad Animal y Control de especies animales
+III. Área Técnica de Protección, Sanidad Animal y Control de especies animales
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+IV. Unidad de Rescate, Rehabilitación y Reubicación de la Fauna Silvestre, Endémica y Exótica de México
 
 ###### ARTÍCULO 63.
 
@@ -2408,6 +2536,52 @@ X. Promover la investigación de nuevas fuentes de energía renovables, que coad
 XI. Coordinar la difusión y aplicación de Normas Oficiales Mexicanas y disposiciones legales relacionadas con el uso de nuevas fuentes de energía renovables que produzcan un menor impacto ecológico al medio ambiente, conforme al ámbito de su competencia; y
 
 XII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 64 BIS.- Para el cumplimiento de su objeto, la primera Unidad de Rescate, Rehabilitación y Reubicación de Fauna Silvestre, Endémica y Exótica de México, tendrá las siguientes atribuciones:
+
+I. Recibir, alojar, alimentar y atender médica y conductualmente a los animales de vida silvestre, exóticos y endémicos depositados en sus instalaciones por las autoridades ambientales o competentes en el tema y así como algunos ejemplares con legal procedencia rescatados de maltrato o trato indigno por particulares, todo esto de acuerdo a la capacidad presupuestal, a través de la proyección ejecución y evaluación de programas y acciones, en coordinación con las dependencias y entidades de las administraciones públicas federal, estatal, municipal, así como con los sectores social y privado de acuerdo a los ordenamientos legales aplicables a la materia.
+
+II. Gestionar administrativa y legalmente el proceso de traslado, reubicación o liberación de animales de vida silvestre depositados por las autoridades ambientales o competentes en el tema.
+
+III. Reproducir sólo a especies endémicas del territorio nacional sujetas a las capacidades técnicas, de instalaciones y de presupuesto de la unidad
+
+IV. Fomentar la investigación a partir de estudios de caso, en conjunto con universidades y centros de investigación.
+
+V. la unidad no venderá ni comprará animales de vida silvestre.
+
+VI. Generar investigación científica en materia de fauna silvestre, así como su divulgación para mitigar y concientizar sobre el tráfico ilegal de especies.
+
+VII. Coadyuvar con la autoridad ambiental competente para llevar a cabo el rescate de los ejemplares.
+
+VIII. ser parte del proceso de rescate, rehabilitación, y en su caso, liberación en su medio natural y/o la entrega del animal a áreas naturales protegidas o santuarios en México o el extranjero, de acuerdo a los lineamientos legales vigentes.
+
+IX. Contribuir con campañas de educación ambiental a la cultura del respeto de fauna.
+
+X. Fungir como un órgano consultivo y de apoyo del presidente municipal respecto de la población de vida silvestre atendida por esta unidad.
+
+XI. Convocar a la participación activa de la sociedad civil y de las instituciones públicas y privadas para el rescate y rehabilitación de la fauna silvestre, endémica y exótica.
+
+XII. Gestionar donativos en especie o en efectivo para ayudar a cubrir los gastos que genera la alimentación, diagnóstico y tratamiento de los ejemplares y lo que derive.
+
+XIII. Establecer convenios con instituciones nacionales e internacionales, profesionistas independientes y todo aquel que aporte conocimientos y habilidades en beneficio de los ejemplares tratados en esta unidad.
+
+XIV. Salvaguardar la integridad física del personal por medio de reglamentos y protocolos de seguridad y bioseguridad.
+
+XV. Capacitación y actualización del personal en temas de salud, seguridad, manejo y etología.
+
+XVI. Los visitantes podrán apreciar a los animales que se encuentren en los espacios destinados para este fin.
+
+XVII. Se tendrá un representante legal (director), representante técnico (veterinario o biólogo) y plan de manejo como requisito de registro de PIMVS ante la secretaría.
+
+XVIII. Dentro de la plantilla del personal siempre se contará con un médico veterinario zootecnista como titular del área médica y un biólogo o médico veterinario como titular del área de etología.
+
+XIV (SIC). Nos regimos bajo los cinco dominios del bienestar animal teniendo la eutanasia bajo el sacrificio humanitario como última opción por lo que se debe de hacer todo lo médico y humanamente posible para salvar la vida de los animales que ingresan a esta unidad sin contravenir en su dignidad.
+
+XV. si el director ejecutivo deja el cargo, en efecto deja de ser representante legal siendo el (la) nuevo(a) director representante legal del PIMVS realizando el trámite correspondiente ante la secretaría.
+
+XVI. Se cobrará estancia del ejemplar depositado cuando pueda ser aplicado.
 
 ###### Art. 112.
 
@@ -2607,7 +2781,7 @@ Tratándose de las partes que intervengan en la adquisición de bienes inmuebles
 
 Para enajenar cualquier inmueble o transmitir algún derecho real, el causante deberá presentar comprobante donde se acredite que no existe adeudo por concepto de impuesto predial en la fecha en que se autoricen las escrituras, actos o contratos.
 
-### CAPITULO VIII. Impuesto sobre Explotación de Semovientes
+### CAPÍTULO VIII. DE LA SECRETARÍA DE OBRAS PÚBLICAS, DESARROLLO URBANO, VIVIENDA Y MOVILIDAD
 
 #### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
 
@@ -3021,7 +3195,7 @@ V. Aves, 20 cabezas; y
 
 VI. Colmenas, 5 unidades.
 
-### CAPITULO IX. Impuestos Extraordinarios
+### CAPÍTULO IX. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA, TRÁNSITO Y VIALIDAD
 
 #### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
 
@@ -3271,151 +3445,91 @@ El objeto, el sujeto, los responsables solidarios, la base, el pago y demás ele
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE AGOSTO DE 1999)</small>
 
-### CAPITULO X. Del Impuesto sobre Negocios Jurídicos
-
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 1999)</small>
-
-Art. 131 bis. Es objeto de este impuesto:
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2000)</small>
-
-I. La realización, celebración o expedición de los actos o contratos relativos a construcción, reconstrucción o ampliación de inmuebles.
-
-En todos los casos en que se efectúen actos comprendidos en el párrafo anterior, se considera que se ha celebrado el contrato respectivo.
-
-No se considerarán como objeto de este impuesto los casos de autoconstrucción. Se entiende que existe autoconstrucción cuando se agoten los siguientes requisitos:
-
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
-
-1. Que el propietario del terreno donde se efectúe la obra, sea quien la realice, ya sea personalmente o con el auxilio de no más de tres personas ajenas a su familia;
-
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
-
-2. Que la propiedad del terreno y de la construcción recaiga en una sola persona y que ésta acredite no poseer más propiedades, mediante certificación que al efecto expida la Dirección de Catastro; y
-
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
-
-3. Que el permiso de construcción esté expedido por las autoridades competentes, a nombre del propietario del inmueble, y que éste o su asesor acrediten su carácter de responsable de la obra.
-
-Para los efectos de la excepción anterior, la Tesorería Municipal podrá efectuar la declaratoria de no causación correspondiente, siempre que lo solicite el interesado, dentro de los treinta días siguientes de la iniciación de la obra, y compruebe encontrarse en el caso de autoconstrucción.
-
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
-
-II. Son sujetos de este impuesto las personas físicas o jurídicas que asuman el costo de la obra en los actos o contratos. Será responsable solidario el propietario del bien;
-
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
-
-III. Será base para el pago de este impuesto, el costo total de las obras que tengan por objeto la construcción, reconstrucción y ampliación de obras materiales, calculado conforme a las tablas de valores unitarios aprobadas por el Congreso del Estado;
-
-IV. Este impuesto se liquidará y pagará de conformidad con la tarifa que al efecto señale la Ley de ingresos del Municipio.
-
-Siempre que por virtud de algún acto o contrato público o privado, cualquier persona adquiera una propiedad como terreno, teniendo construcción al momento del acto o del otorgamiento del contrato respectivo, que no hubiera sido hecha por el adquirente del terreno, la Tesorería Municipal procederá a cobrar al sujeto pasivo la diferencia de los impuestos realmente causados y a imponer, como sanción pecuniaria, una multa hasta de tres tantos del crédito fiscal omitido, más accesorios, pues en estos casos y para los efectos de este impuesto se considera que no solamente se transmitió el terreno sin construir, sino también la construcción misma;
-
-V. El pago de este impuesto se efectuará dentro de los plazos que a continuación se indican:
-
-En los casos de contratos de construcción, reconstrucción, ampliación o demolición de inmuebles, dentro de los treinta días siguientes a la fecha de firma del mismo. A falta de contrato escrito, dentro de los treinta días siguientes a la fecha de inicio de la construcción.
-
-Independientemente de la fecha del contrato, los sujetos pasivos del impuesto están obligados a presentar por escrito, ante la Tesorería Municipal, un aviso de construcción, dentro de los diez días siguientes al inicio de la misma.
-
-Para los efectos de esta fracción, los contribuyentes presentarán declaración ante la Oficina de Recaudación correspondiente, o donde, en su caso lo disponga la Tesorería Municipal, a la que anexarán copia del documento en que se haga constar el acto o contrato gravado.
-
-VI. Están exentos del pago de este impuesto:
-
-a) La Federación, el Estado y los municipios;
-
-b) Los contratos de construcción que celebren las empresas paraestatales y organismos descentralizados;
-
-c) Los contratos de construcción o financiamiento relativos a la edificación o adquisición de viviendas de interés social, clasificadas como tipo Cajón A.
-
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
-
-d) La realización de actos o contratos, cuando su objeto sea la construcción, reconstrucción y ampliación de inmuebles destinados a viviendas de interés social, unifamiliar y de tipo popular, según las definiciones previstas en la Ley de Ingresos del Municipio.
-
-Los notarios o quienes hagan sus veces, los registradores y las autoridades, no expedirán testimonios, ni registrarán o darán trámite a actos o contratos en que intervengan, o documentos que se les presenten, hasta que sea pagado el impuesto que se cause.
-
-En todo caso, al margen de la matriz y en los testimonios o en los documentos privados, deberá asentarse la constancia de pago o la que éste no se causa.
-
-No se dará trámite ni se registrará documento alguno si no obra en él dicha constancia.
-
-En el caso de que las obligaciones estipuladas estén sujetas a alguna condición, se causará el impuesto como si fuesen puras y simples.
-
-> <small>(ADICIONADO CON LA SECCION Y EL ARTICULO QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 1999)</small>
+### CAPÍTULO X. DE LA SECRETARÍA DE DESARROLLO HUMANO Y SOCIAL
 
 #### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 83.
 
-La Secretaría de Desarrollo Humano y Social es una dependencia de la Administración Pública Municipal, encargada de apoyar a la o el Presidente Municipal, en la conducción de la política social, coordinando el desarrollo, crecimiento y bienestar de la población del municipio, mediante acciones que garanticen los derechos sociales de personas, familias y grupos sociales en situación de pobreza, vulnerabilidad y marginación, estableciendo vínculos con los gobiernos Federal y Estatal, y con organizaciones de la sociedad civil, en la aplicación de programas y proyectos destinados al desarrollo social.
+La Secretaría de Desarrollo Humano y Social es una dependencia de la Administración Pública Municipal, encargada de apoyar a la o el presidente municipal, en la conducción de la política social, coordinando el desarrollo, crecimiento y bienestar de la población del Municipio, mediante acciones que garanticen los derechos sociales de personas, familias y grupos sociales en situación de pobreza, vulnerabilidad y marginación, estableciendo vínculos con los gobiernos federal y estatal, y con organizaciones de la sociedad civil, en la aplicación de programas y proyectos destinados al desarrollo social.
 
-Además se encargará de fomentar la participación ciudadana en la educación, la cultura, el deporte, la recreación y la promoción cívico-social y humana, encaminada a regular y garantizar el derecho a la equidad de género entre la mujer y el hombre.
+Además, se encargará de fomentar la participación ciudadana en la educación, la inclusión, la salud, relaciones libres de discriminación, la recreación y la promoción cívico-social; encaminada a regular y garantizar el derecho a la igualdad real entre personas, generando acciones para contribuir a la justicia social y al desarrollo humano de la población.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 84.
 
-A la o el Titular de la Secretaría de Desarrollo Humano y Social, le corresponderá el despacho de las siguientes atribuciones:
+A la o el titular de la Secretaría de Desarrollo Humano y Social, le corresponderá el despacho de las siguientes atribuciones:
 
-I. Formular, ejecutar y dar seguimiento al Programa de Desarrollo Humano y Social para fortalecer las capacidades de los grupos socialmente vulnerables del Municipio que no sean competencia de otras secretarías de la administración municipal;
+I. Formular, ejecutar y dar seguimiento al programa de desarrollo humano y social para fortalecer las capacidades de grupos socialmente vulnerables del municipio que no sean competencia de otras secretarías de la administración municipal;
 
-II. Proponer a la o el Presidente Municipal, coordinar y ejecutar políticas públicas incluyentes que promuevan la igualdad de oportunidades para el desarrollo social y humano de los habitantes del Municipio, así como la participación ciudadana en actividades educativas, artísticas, culturales, cívicas, recreativas, de salubridad y deportivas;
+II. Proponer a la o el presidente municipal, coordinar y ejecutar las políticas públicas que promuevan la igualdad de oportunidades para el desarrollo social y humano de la población del municipio, así como la participación ciudadana en actividades educativas, artísticas, cívicas, recreativas, de salubridad.
 
-III. Promover la participación corresponsable de las diferentes secretarías y entidades municipales, estatales, federales y la sociedad civil en los programas de desarrollo social y humano a su cargo;
+III. Promover la participación corresponsable de las diferentes secretarías y entidades municipales, estatales, federales y la sociedad civil; en los programas de desarrollo social y humano a su cargo;
 
-IV. Planear, formular, normar, instrumentar, coordinar y supervisar el establecimiento de acciones de carácter social para la promoción y ejecución de programas, obras y proyectos que contribuyan al mejoramiento de la calidad de vida de los habitantes de (sic) Municipio;
+IV. Planear, formular, normar, instrumentar, coordinar y supervisar el establecimiento de acciones de carácter social para la promoción y ejecución de programas, obras y proyectos que contribuyan al mejoramiento de la calidad de vida de los habitantes del municipio;
 
-V. Proyectar y coordinar la participación del Municipio con los gobiernos Estatal y Federal, sobre la política social;
+V. Proyectar y coordinar la participación del municipio con los gobiernos estatal y federal, sobre la política social;
 
-VI. Coordinar las acciones que incidan en el combate a la pobreza, fomentando un mejor nivel de vida, en lo que la o el Presidente Municipal convenga con los gobiernos estatales y federal, buscando en todo momento propiciar la simplificación de los procedimientos y el establecimiento de medidas de seguimiento, control y evaluación;
+VI. Coordinar las acciones que incidan en el combate a la pobreza, fomentando un mejor nivel de vida, en lo que la o el presidente municipal convenga con los gobiernos estatal y federal, buscando en todo momento propiciar la simplificación de los procedimientos y el establecimiento de medidas de seguimiento, control y evaluación;
 
 VII. Gestionar el ejercicio de recursos federales y estatales en aquellos programas de desarrollo social en los cuales exista concurrencia con los otros niveles de gobierno;
 
-VIII. Coordinar con la Secretaría de Desarrollo Económico Municipal, el fomento de condiciones que permitan estimular la productividad de grupos vulnerables de la población del Municipio;
+VIII. Coordinar con la secretaría de desarrollo económico municipal, el fomento de condiciones que permitan estimular la productividad de grupos en situación de vulnerabilidad de la población del municipio;
 
-IX. Proponer políticas públicas que permitan contribuir al desarrollo de capacidades productivas de las personas, familias, grupos vulnerables y organizaciones sociales;
+IX. Proponer políticas públicas que permitan contribuir al desarrollo de capacidades productivas de las personas, familias, grupos en situación de vulnerabilidad y organizaciones sociales;
 
-X. Proponer a la o el Presidente Municipal, políticas de apoyo a la participación de los grupos vulnerables de la población, para promover su participación activa en el desarrollo de sus capacidades, con base en los principios de equidad e igualdad de oportunidades, en coordinación con las autoridades Estatales y Federales competentes en la materia;
+X. Proponer a la o el presidente municipal, políticas de apoyo a la participación de los grupos vulnerables de la población, para promover su participación activa en el desarrollo de sus capacidades, con base en los principios de equidad, inclusión e igualdad de oportunidades, en coordinación con las autoridades estatales y federales competentes en la materia;
 
-XI. Coadyuvar y ejecutar, en el ámbito de su competencia, el programa educativo del Municipio, en coordinación con las autoridades federales y estatales responsables en la materia;
+XI. Coadyuvar y ejecutar, en el ámbito de su competencia, el programa educativo del municipio, en coordinación con las autoridades estatales y federales responsables en la materia;
 
-XII. Proponer los mecanismos de difusión y promoción de la cultura y las artes dentro del ámbito municipal, fomentando la participación de los diferentes grupos sociales;
+XII. Diseñar programas, proyectos y estudios focalizados a la atención de la diversidad sexual, que permitan promover sus derechos a la vida, salud, educación, trabajo, profesionalización, participación ciudadana, medio ambiente, recreación y deporte, principalmente; pero sin ser exclusivos;
 
-XIII. Fomentar, organizar y programar eventos y actividades culturales, cívicas, de recreación y esparcimiento para los habitantes y visitantes del municipio, enfocados a desarrollar una cultura ciudadana participativa y socialmente corresponsable;
+XIII. Fomentar, organizar y programar eventos y actividades culturales, cívicas, de recreación y esparcimiento, para los habitantes y visitantes del municipio, enfocados a desarrollar una cultura ciudadana participativa y socialmente corresponsable;
 
-XIV. Formular estrategias mediante las cuales se organice, administre y enriquezca sistemáticamente las bibliotecas públicas municipales;
+XIV. Formular estrategias mediante las cuales se organicen, administren y enriquezcan sistemáticamente las bibliotecas públicas municipales;
 
 XV. Promover el patrocinio en la realización de congresos, asambleas, reuniones, eventos, competencias, conferencias y concursos de carácter científico, técnico, cultural, educativo y artístico;
 
-XVI. Establecer metas cuantitativas y cualitativas e indicadores de resultados y de gestión de los programas de desarrollo social a su cargo y de aquellos que se realicen de manera coordinada con los gobiernos Estatal y Federal;
+XVI. Establecer metas cuantitativas y cualitativas e indicadores de resultados y de gestión de los programas de desarrollo social a su cargo y de aquellos que se realicen de manera coordinada con los gobiernos estatal y federal;
 
 XVII. Establecer mecanismos para incluir la participación social organizada en los programas, proyectos y acciones de desarrollo humano y social a cargo de la secretaría;
 
-XVIII. Proponer programas y acciones que propicien el desarrollo humano y social de los niños, niñas y jóvenes en el Municipio;
+XVIII. Proponer programas y acciones que propicien el desarrollo humano y social de los niños, niñas, adolescentes y jóvenes del municipio;
 
-XIX. Conducir y formular la política municipal de Atención a la Juventud, instrumentando los programas, proyectos y estudios que les garantice, entre otros, sus derechos a la vida, salud, educación, trabajo, profesionalización, medio ambiente, recreación y deporte;
+XIX. Conducir y formular la política municipal de atención a las personas adultas mayores, instrumentando los programas, proyectos y estudios que les garanticen entre otros, sus derechos a la vida digna, salud, educación, trabajo, profesionalización, medio ambiente, recreación y deporte;
 
-XX. Fungir, cuando así se lo instruya la o el Presidente Municipal, como representante en materia de la juventud, ante las diferentes instancias de gobierno, organizaciones sociales, estatales, nacionales, y dado el caso, internacionales; buscando concertar acuerdos y convenios para promover la participación en la ejecución de las políticas, programas y acciones tendientes al desarrollo integral de la juventud;
+XX. Fungir, cuando así lo instruya la o el presidente municipal, como representante en materia de personas adultas mayores ante las diferentes instancias de gobierno, organizaciones sociales, estatales, nacionales, y dado el caso, internacionales; buscando concertar acuerdos y convenios para promover la participación en la ejecución de las políticas, programas y acciones tendientes al desarrollo y atención integral de las personas adultas mayores;
 
 XXI. Fomentar la cultura de la corresponsabilidad social;
 
-XXII. Proponer políticas públicas que garanticen el derecho a la igualdad de género entre las mujeres y los hombres, estableciendo los lineamientos y mecanismos institucionales que oriente el (sic) Municipio hacia el cumplimiento de la igualdad sustantiva en el ámbito del desarrollo humano y social; y
+XXII. Proponer políticas públicas que garanticen el derecho a la igualdad de género entre las mujeres y los hombres, estableciendo los lineamientos y mecanismos institucionales que oriente el municipio hacia el cumplimiento de la igualdad sustantiva en el ámbito del desarrollo humano y social; y
 
-XXIII. Las demás que le asignen las Leyes, Reglamentos y demás normatividad Federal y Estatal, aplicable a su ámbito de competencia y la o él Presidente Municipal.
+XXIII. Las demás que le asignen las leyes, reglamentos y demás normatividad federal y estatal, aplicable en su ámbito de competencia y la o el presidente municipal.
 
 #### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 85.
 
-Para el cumplimiento de su objeto, estudio, planeación, operación y despacho de las funciones y atribuciones a su cargo, la Secretaría de Desarrollo Humano y Social contará con la siguiente estructura:
+Para el cumplimiento de su objeto, estudio, planeación, operación y despacho de funciones y atribuciones a su cargo, la Secretaría de Desarrollo Humano y Social contará con la siguiente estructura:
 
-I. Dirección de Desarrollo Social;
+a) Dirección de desarrollo social;
 
-II. (DEROGADA POR ARTÍCULO SEXTO TRANSITORIO DEL DECRETO MUNICIPAL NÚMERO VEINTIUNO.- QUE CONTIENE LA CREACIÓN DEL INSTITUTO MUNICIPAL PARA LA CULTURA DE PACHUCA, HIDALGO, P.O. 29 DE DICIEMBRE DE 2014)
+b) Dirección de salud humana;
 
-III. Dirección de Educación; y
+c) Dirección de educación; y
 
-IV. (DEROGADA POR ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO MUNICIPAL NÚMERO DIECINUEVE POR EL QUE SE CREA EL INSTITUTO MUNICIPAL PARA LA JUVENTUD DEL MUNICIPIO DE PACHUCA DE SOTO, P.O. 29 DE DICIEMBRE DE 2014)
+d) Dirección de atención a las personas adultas mayores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 86.
 
-A la Dirección de Desarrollo Social le corresponderá el ejercicio de las siguientes atribuciones:
+La Dirección de Desarrollo Social, le corresponderá el ejercicio de las siguientes atribuciones:
 
 I. Proponer líneas estratégicas para la planeación, organización y ejecución de la política Municipal en materia de desarrollo humano y social del Municipio;
 
@@ -3451,55 +3565,183 @@ XVI. Promover acciones encaminadas a lograr la re-certificación anual de la Red
 
 XVII. Participar en campañas de vacunación, ferias de salud, detecciones oportunas de cáncer cérvico uterino, diabetes mellitus, hipertensión arterial, embarazo de alto riesgo así como pláticas de salud sexual y reproductiva a la población del Municipio; y,
 
-XVIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XVIII. Coordinar a través del Departamento de Diversidad Sexual la vinculación de poblaciones de la Diversidad Sexual.
+
+XIX. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 86 BIS.- Al Departamento de Diversidad Sexual le corresponderá el despacho de las siguientes atribuciones.
+
+I.- Proponer acciones en materia de política y planeación Municipal para la Atención de las poblaciones de la Diversidad Sexual.
+
+II.- Diseñar programas y proyectos focalizados a la atención, visibilización e inclusión de la Diversidad Sexual, que permitan promover sus derechos a la vida, salud, educación, trabajo, profesionalización, participación ciudadana, medio ambiente, recreación deporte y demás derecho, principalmente pero sin ser exclusivos;
+
+III.- Coordinar la observancia de la Ley para Prevenir, Atender y Eliminar la Discriminación en el Estado de Hidalgo así como impulsar la Ley para la Familia del Estado de Hidalgo, de acuerdo con las últimas reformas del 2019 relativas a la población de la Diversidad Sexual y del marco jurídico vigente aplicable en la materia;
+
+IV.- Brindar asesoría y seguimiento a las problemáticas de las poblaciones de la Diversidad Sexual, para el acceso a los programas Municipales, Estatales y Federales, que apoyen el desarrollo integral de estas poblaciones en el Municipio;
+
+V.- Generar programas de capacitación para el personal médico y de enfermería para que reconozcan y garanticen el pleno derecho a la salud sin discriminación.
+
+VI.- Buscar la vinculación con las autoridades para la generación de un programa de inclusión laboral para personas de la diversidad sexual con énfasis en las personas trans, y generar una cultura de un mercado laboral más amplio para ellas.
+
+VII.- Es necesario impulsar un programa municipal de capacitación educativa integral de la sexualidad, acorde a los contextos locales, con el fin de generar conocimiento más asertivo para la comunidad educativa sobre las orientaciones sexuales y las identidades de género.
+
+VIII.- Generar programas de apoyo a personas LGBTTTIQ+ y sus familias con el fin de generar confianza en la expresión de su identidad de género o su orientación sexual, y retribuir a garantizar seguridad en infancias diversas con énfasis en proteger las infancias trans.
+
+IX.- Generar políticas publicas para la inclusión de personas de la Diversidad Sexual en las administraciones pública (sic).
+
+X.- Generar un programa de capacitación para las autoridades procuradoras de justicia, así como a policías municipales con el fin de conocer los derechos y las condiciones de la población LGBTTTIQ+.
+
+XI.- Impulsar un programa de capacitación a las autoridades y funcionarios de la administración pública municipal, sobre los derechos humanos y la condición de las personas LGBTTTIQ+, con el fin de garantizar un trato digno a esta población.
+
+XII.- Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 87.
 
-(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL DECRETO MUNICIPAL NÚMERO VEINTIUNO.- QUE CONTIENE LA CREACIÓN DEL INSTITUTO MUNICIPAL PARA LA CULTURA DE PACHUCA, HIDALGO, P.O. 29 DE DICIEMBRE DE 2014)
+A la Dirección de Salud Humana; para el desarrollo de sus funciones contara con el:
+
+I. Departamento de programas de prevención, promoción de la salud y servicios médicos;
+
+La persona titular de la dirección de atención a la salud humana, deberá contar con formación en medicina general; título, cedula profesional y experiencia comprobada.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 87 BIS.- A la Dirección de Salud Humana le corresponderá el ejercicio de las siguientes atribuciones:
+
+I. Contribuir para el programa municipal de salud;
+
+II. Diseñar y ejecutar programas y acciones para contribuir a mejorar las condiciones de salud de la población en condición de vulnerabilidad en el Municipio;
+
+III. Diseñar e implementar acciones directas e indirectas de fomento a la salud integral, individual y colectiva de la población del municipio;
+
+IV. Elaborar y ejecutar programas de prevención y regulación sanitaria de acuerdo a los ordenamientos estatales, federales y del propio municipio;
+
+V. Promover acciones encaminadas a lograr la recertificación anual del (sic) la red nacional de municipio saludables;
+
+VI. Participar en campañas de vacunación, ferias de salud, detección oportuna de cáncer cérvico uterino, cáncer de mama, diabetes mellitus, hipertensión arterial, prevención de embarazo adolescente, atención a embarazo de alto riesgo, así como acciones para la atención de la salud sexual y reproductiva a la población del municipio;
+
+VII. Fomentar e incorporar acciones que coadyuven a la creación, conservación y disfrute de las condiciones de salud que contribuyan al desarrollo humano y social de la población;
+
+VIII. Implementar acciones para contribuir a la educación para la salud de la población;
+
+IX. Brindar atención médica de calidad, preferentemente a grupos en situación de vulnerabilidad;
+
+X. Coordinar y vigilar acciones de sanidad en el municipio;
+
+XI. Implementar acciones sobre vigilancia epidemiológica dentro del municipio;
+
+XII. Brindar atención médica al personal que labora en la administración municipal;
+
+XIII. Participar en comités municipales de salud;
+
+XIV. Dar seguimiento a las incapacidades del personal sindicalizado y de confianza de la administración pública municipal y proporcionar la información a recursos humanos;
+
+XV. Contar con información estadística actualizada en materia de salud en el municipio;
+
+XVI. Promover programas específicos de atención de niñas, niños y adolescentes, mujeres y personas adultas mayores;
+
+XVII. Observar y dar cumplimiento puntual a las normas oficiales vigentes en materia de salud; y
+
+XVIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 88.
 
 A la Dirección de Educación le corresponderá el ejercicio de las siguientes atribuciones:
 
-I. Diseñar y ejecutar programas y acciones para contribuir a mejorar las condiciones de vida de la población en condición de vulnerabilidad en el Municipio sin acceso a la educación;
+I. Diseñar y ejecutar programas y acciones para contribuir a mejorar las condiciones de vida de la población en condición de vulnerabilidad en el municipio sin acceso a la educación;
 
-II. Brindar asesoría gratuita a grupos vulnerables del Municipio, para la continuación de su formación académica en primaria, secundaria y preparatoria mediante el sistema abierto;
+II. Brindar asesoría gratuita a grupos vulnerables del municipio, para la continuación de su formación académica en primaria, secundaria y preparatoria mediante el sistema abierto;
 
 III. Implementar programas y proyectos que coadyuven al abatimiento de la problemática del rezago educativo en el municipio;
 
-IV. Formular y proponer programas y acciones, orientadas al mejoramiento de la infraestructura educativa de manera coordinada con la Secretaría de Obras Públicas, Desarrollo Urbano, Vivienda y Movilidad;
+IV. Formular y proponer programas y acciones, orientadas al mejoramiento de la infraestructura educativa de manera coordinada con la secretaría de obras públicas, desarrollo urbano, vivienda y movilidad;
 
-V. Determinar acciones complementarias en materia educativa a fin de gestionar y coordinar apoyos para la población del Municipio;
+V. Determinar acciones complementarias en materia educativa a fin de gestionar y coordinar apoyos para la población del municipio;
 
-VI. Formular las políticas, lineamientos y estrategias mediante las cuales se organice, administre y enriquezca sistemáticamente las bibliotecas públicas municipales;
+VI. Formular las políticas, lineamientos y estrategias mediante las cuales se organicen, administren y enriquezcan sistemáticamente las bibliotecas públicas municipales;
 
-VII. Vigilar, coordinar, administrar y supervisar el funcionamiento y debida operación de las bibliotecas públicas municipales, enlazadas con la Red Nacional de Bibliotecas del Consejo Nacional para la Cultura y las Artes, en interacción con la Red Estatal de Bibliotecas;
+VII. Vigilar, coordinar, administrar y supervisar el funcionamiento y debida operación de las bibliotecas públicas municipales, enlazadas con la red nacional de bibliotecas del consejo nacional para la cultura y las artes, en interacción con la red estatal de bibliotecas;
 
 VIII. Coordinar y supervisar la prestación del servicio de las bibliotecas públicas municipales a la ciudadanía;
 
 IX. Elaborar el programa de actualización bibliotecaria;
 
-X. Coordinar el personal de las bibliotecas públicas municipales;
+X. Coordinar al personal de las bibliotecas públicas municipales;
 
-XI. Promover las bibliotecas en los medios masivos de difusión, así como el fomento del hábito a la lectura;
+XI. Promover a las bibliotecas en los medios masivos de difusión, así como el fomento del hábito de lectura;
 
-XII. Promoción de instalación de mayor número de bibliotecas públicas con la participación del gobierno en sus diferentes ámbitos y de la comunidad;
+XII. Promoción de instalación de un mayor número de bibliotecas públicas con la participación del gobierno en sus diferentes ámbitos y de la comunidad;
 
 XIII. Promover la participación ciudadana e infantil en materia educativa y cívica;
 
-XIV. Coordinar los consejos de participación social en la educación del Municipio, en vinculación con las autoridades estatales y federales;
+XIV. Coordinar los consejos de participación social en la educación del municipio, en vinculación con las autoridades estatales y federales;
 
-XV. Organizar acciones, mediante las cuales se propicie el patrocinio en la realización de congresos, asambleas y reuniones, eventos, competencias y concursos de carácter científico, técnico, cultural, educativo y artístico; y
+XV. Organizar acciones mediante las cuales se propicie el patrocinio en la realización de congresos, asambleas y reuniones, eventos, competencias y concursos de carácter científico, técnico, cultural, educativo y artístico;
 
-XVI. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+XVI. Coadyuvar con acciones encaminadas a la integración de la perspectiva de género, perspectiva de niñez, por lo que se incluirán actividades coordinadas con las secretarías y los institutos, encaminadas a las ciencias y humanidades, el reforzamiento de las matemáticas, la lecto-escritura, la literacidad, la historia, la geografía, el civismo, la tecnología, la innovación, las lenguas extranjeras, la educación física, el deporte, las artes, en especial la música, la promoción de estilos de vida saludables, la educación sexual y reproductiva, y el cuidado al medio ambiente;
+
+XVII. Proponer a la o el titular de la secretaría, programas y proyectos enfocados a la atención de la población en general, mediante el centro integral de desarrollo municipal (cidem);
+
+XVIII. Diseñar e implementar cursos, talleres y capacitación en línea y presenciales para todos los ciudadanos, impartidos por el centro integral de desarrollo municipal (cidem);
+
+XIX. Promover actividades artísticas, deportivas y culturales en el centro integral de desarrollo municipal (cidem), dirigidas a ciudadanos de todas las edades que contribuyan a la salud y al bienestar social, además también pensadas en personas con discapacidad;
+
+XX. Promover la capacitación y aprendizaje de artículos, productos y servicios para emprendimiento laboral; y
+
+XXI. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 89.
 
-(DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO MUNICIPAL NÚMERO DIECINUEVE POR EL QUE SE CREA EL INSTITUTO MUNICIPAL PARA LA JUVENTUD DEL MUNICIPIO DE PACHUCA DE SOTO, P.O. 29 DE DICIEMBRE DE 2014)
+La Dirección de atención a las personas adultas mayores para el logro de sus fines contara con el:
 
-### CAPITULO XI. IMPUESTO SOBRE ESPECTACULOS PUBLICOS
+I. Departamento atención integral para la vida digna y de calidad de las personas adultas mayores;
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 89 BIS.- A la Dirección de Atención a las Personas Adultas Mayores, le corresponderá el ejercicio de las siguientes atribuciones:
+
+1. Proponer a la o el titular de la secretaría, acciones en materia de política y planeación municipal para la atención a las personas adultas mayores;
+
+2. Diseñar programas, proyectos y estudios focalizados a la atención de los adultos mayores, que permitan promover sus derechos a la vida, salud, educación, trabajo, profesionalización, medio ambiente, recreación y deporte, principalmente;
+
+3. Representar, cuando le sea instruido a la o el titular de la secretaría, ante las diferentes instancias municipales, estatales y federales, organizaciones sociales y privadas, estatales, nacionales o internacionales; relacionadas con la atención a las personas adultas mayores;
+
+4. Proponer a la o el titular de la secretaría, la concertación de acuerdos y convenios con las diferentes instancias municipales, estatales y federales, que promuevan la participación del municipio en la ejecución de políticas, programas y acciones tendientes al desarrollo integral de las personas adultas mayores;
+
+5. Coordinar la observancia de la ley de las personas adultas mayores del estado de hidalgo y del marco jurídico vigente aplicable en la materia;
+
+6. Promover en coordinación con la secretaría de desarrollo económico municipal, la implementación de programas y proyectos que impulsen el emprendimiento de nuevos negocios para las personas adultas mayores;
+
+7. Implementar acciones y procedimientos, que permitan vincular a los sectores producticos del municipio con las personas adultas mayores, promoviendo el acceso a un empleo formal;
+
+8. Coordinar la gestión y promoción de becas, trabajo, formación profesional y capacitación a las personas adultas mayores del municipio;
+
+9. Brindar asesoría a las personas adultas mayores para el acceso a los programas municipales, estatales y federales, que apoyen a su desarrollo integral en el municipio;
+
+10. Gestionar ante las autoridades competentes, servicios de medicina general y especializada, dirigida a las personas adultas mayores del municipio, con el objetivo de preservar su salud;
+
+11. Coordinar las bases de organización y funcionamiento para el establecimiento de comités de personas adultas mayores;
+
+12. Establecer un sistema de captación de propuestas, sugerencias e inquietudes de las personas adultas mayores, que permita su adecuada canalización a la (sic) diferentes secretarías municipales;
+
+13. Proporcionar atención jurídica para salvaguardar la garantía de ejercicio de los derechos humanos de las personas adultas mayores.
+
+14. Establecer estrategias para promover la cultura del buen trato para las personas adultas mayores en el municipio;
+
+15. Implementar estrategias de atención para la salud mental de las personas adultas mayores; y
+
+16. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+
+### CAPÍTULO XI. DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
 #### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
 
@@ -3681,73 +3923,21 @@ XV. Organizar y coordinar con otras secretarías y entidades, ferias, exposicion
 
 XVI. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
 
-#### SECCION PRIMERA. Del Objeto
+#### SECCIÓN PRIMERA. DEL PRESIDENTE MUNICIPAL
 
-> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 1999)</small>
+#### SECCIÓN SEGUNDA. DE LA SECRETARÍA PARTICULAR
 
-Art. 131 bis-A. Es objeto del impuesto sobre espectáculos públicos, el ingreso que se obtenga por concepto de la explotación de los espectáculos como teatro, ballet, ópera, circo, lucha libre, box, taurinos, fútbol, basquetbol, beisbol, y demás espectáculos deportivos, excepto charrería; espectáculos de carpa, variedades, conciertos, audiciones musicales, exhibiciones de cualquier naturaleza y otros espectáculos de carácter artístico.
+#### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
 
-No se considerarán objeto de este impuesto los ingresos que obtenga la Federación, el Estado y los Municipios por las diversiones y espectáculos públicos que directamente realicen. Tampoco se considerarán objeto de este impuesto los ingresos que se perciban por el boleto de entrada en los eventos de exposición para el fomento de actividades comerciales, industriales, agrícolas, ganaderas y de pesca, así como los ingresos que se obtengan por la celebración de eventos cuyos fondos se canalicen a instituciones asistenciales o de beneficencia.
+#### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA GENERAL MUNICIPAL
 
-#### SECCION SEGUNDA. De los Sujetos
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
 
-Son sujetos de este impuesto las personas físicas, jurídicas o unidades económicas que perciban los ingresos a que se refiere el artículo anterior.
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL JURÍDICA
 
-#### SECCION TERCERA. De la Base y Cuota
+## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO
 
-Es base para el pago de este impuesto el monto total de los ingresos obtenidos.
-
-En la cuota, este impuesto se liquidará de conformidad con la tarifa que al efecto señale la Ley de Ingresos Municipal a que corresponda. En caso de que en una misma función se presenten dos o más espectáculos, el impuesto se causará con el porcentaje más alto.
-
-#### SECCION CUARTA. Del Pago
-
-El pago de este impuesto deberá realizarse en la Oficina de la Tesorería Municipal correspondiente, ó en las Instituciones Bancarias autorizadas para este fin, dentro de los siguientes plazos:
-
-a) Cuando los espectáculos públicos se realicen permanentemente en establecimientos fijos, será a más tardar el día veinte del mes siguiente al que se hubiesen percibido los ingresos, presentando al efecto una declaración de los ingresos obtenidos en las formas aprobadas; y
-
-b) Cuando se trate de contribuyentes eventuales, al terminar cada actividad o función, efectuarán el pago diariamente.
-
-En el caso del párrafo anterior, la Tesorería Municipal podrá autorizar al contribuyente de que se trate, para enterar del impuesto causado, al siguiente día hábil de aquél en que se celebre la actividad o función.
-
-#### SECCION QUINTA. De las Obligaciones
-
-Los contribuyentes de este impuesto cuando exploten los espectáculos públicos en establecimiento fijo, tienen, además, las siguientes obligaciones:
-
-a) Presentarse ante la Tesorería Municipal u Oficialía de Padrón y Licencias en su caso, para llenar la solicitud para la obtención de su licencia de funcionamiento, haciendo uso de las formas aprobadas y proporcionando los requisitos que en ella se requieran, mínimo el día anterior al que vayan a dar principio a la explotación de los espectáculos;
-
-b) Presentar avisos de cambio de giro o domicilio, suspensión de actividades, traspaso ó clausura ante las autoridades mencionadas en el párrafo que antecede previamente a la fecha en que ocurran tales actos o circunstancias;
-
-c) Cuando los espectáculos públicos se realicen en forma eventual, o no cuenten con establecimiento fijo deberán:
-
-1) Presentar un informe ante la Tesorería Municipal u Oficialía Mayor de Padrón y Licencias en su caso, que indique el período durante el que se realizarán los hechos o actos que originen el impuesto, a mas tardar el día anterior al que se inicien;
-
-2) Previamente al inicio de las actividades, otorgar garantía, a satisfacción de la Tesorería Municipal u Oficialía Mayor de Padrón y Licencias en su caso, en alguna de las formas previstas en esta ley, que no será inferior al impuesto estimado, correspondiente a un día de actividad;
-
-3) Dar el aviso correspondiente, en los casos de ampliación del período de explotación, ante la Tesorería Municipal, u Oficialía Mayor de Padrón y Licencias en su caso, a más tardar, el último día que comprende el aviso cuya vigencia se vaya a ampliar;
-
-d) En el caso de que se utilicen medios electrónicos para la expedición de boletos o control de asistencia a los eventos, o espectáculos públicos, las personas físicas o jurídicas responsables de la operación de estos medios, previamente pondrán a disposición de la autoridad municipal los manuales de operación de los sistemas; y entregar al día siguiente los reportes de resultados que se les soliciten;
-
-e) Presentar ante la Tesorería Municipal u Oficialía Mayor de Padrón y Licencias en su caso, para su resello, el boletaje y el programa que corresponda a cada función, cuando menos un día antes de que se verifiquen los espectáculos;
-
-f) No vender boletos en tanto no están resellados por las autoridades municipales;
-
-g) Permitir a los supervisores que designe el ayuntamiento o sus oficinas de recaudación municipal, la verificación y determinación del pago del impuesto, dándoles las facilidades que requieran para su cumplimiento;
-
-h) En general, adoptar las medidas de control que, para la correcta determinación de este impuesto, establezca la Tesorería Municipal;
-
-i) Este impuesto, en ningún caso, deberá ser trasladado al espectador.
-
-Cuando los sujetos de este impuesto, obligados a otorgar garantía de acuerdo con lo dispuesto en el, inciso c), numeral 2 de la fracción anterior no hubieran cumplido con tal obligación, la autoridad Municipal podrá suspender el espectáculo hasta en tanto no se garantice el pago del impuesto, para lo cual, el supervisor que se designe solicitará el auxilio de la fuerza pública.
-
-Quedan preferentemente afectos a garantizar el pago de este impuesto:
-
-a) Los bienes inmuebles en que se exploten espectáculos públicos, cuando sean propiedad de los contribuyentes de este impuesto; y
-
-b) El equipo y las instalaciones que se utilicen en el mencionado espectáculo.
-
-## TITULO SEGUNDO. De los Derechos
-
-### CAPITULO I. Disposiciones Generales
+### CAPÍTULO XII. DE LA SECRETARÍA DE ADMINISTRACIÓN
 
 #### SECCIÓN PRIMERA. DEL TITULARDE (SIC) LA SECRETARÍA
 
@@ -4049,7 +4239,7 @@ El servidor público que preste algún servicio por el que se cause un derecho, 
 
 En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio o el desarrollo de una actividad, la consignación del importe fijado por el Tesorero Municipal, en los términos establecidos por las Leyes Fiscales, dará lugar a la prestación de dicho servicio o al desarrollo de la actividad.
 
-### CAPITULO II. Licencias, Permisos y Registros
+### CAPÍTULO XIII. DE LA SECRETARÍA DE CONTRALORÍA Y TRANSPARENCIA
 
 #### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
 
@@ -4363,6 +4553,8 @@ XVII. Establecer, en coordinación con el área competente de la Secretaría Gen
 
 XVIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
 ###### Art. 138.
 
 Previo estudio que al efecto practiquen las autoridades municipales, las licencias se otorgarán por cada giro y no por domicilio o propietario. Se entiende por giro toda actividad concreta, ya sea comercial, industrial o de prestación de servicios, según la clasificación de los padrones de la Tesorería Municipal.
@@ -4423,59 +4615,35 @@ Se entiende por vivienda popular, aquella cuyo valor catastral no exceda de vein
 
 Se aplicará una reducción de cuando menos el ochenta por ciento en las cuotas o tarifas para determinar los derechos señalados en el artículo anterior, respecto de las acciones urbanísticas que se realicen en bienes inmuebles afectos al Patrimonio Cultural del Estado, encauzados a su conservación y rehabilitación.
 
-### CAPITULO III. Inspección y Vigilancia
+### CAPÍTULO XIV. DE LA SECRETARÍA MUNICIPAL DE LAS MUJERES
 
-#### SECCIÓN PRIMERA. DE LAS ÁREAS DE ADMINISTRACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+#### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 110.
 
-Para el mejor desempeño de sus funciones y actividades, los titulares de las secretarías, se podrán auxiliar, independientemente del nivel jerárquico de éstas, de un área encargada de la administración y de proveer lo necesario para la realización de las funciones sustantivas a su cargo, así como de áreas técnico – jurídicas para la asesoría y despacho de los asuntos de su competencia.
+La Secretaría Municipal de las Mujeres es una Dependencia de la Administración Pública Municipal, encargada de apoyar a la o el Presidente Municipal en promover las políticas publicas para el desarrollo de la mujer en equidad de género y respeto a sus derechos humanos dentro del Municipio.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 111.
 
-Las áreas de Administración serán las encargadas de proveer lo necesario para la realización de las funciones sustantivas, les corresponderá en forma genérica y de manera enunciativa, más no limitativa, el ejercicio de las siguientes funciones en su correspondiente Secretaría:
+Para el cumplimiento de su objeto, la Secretaría tendrá las siguientes atribuciones:
 
-I. Auxiliar a la o al Titular de la Secretaría en la coordinación, conducción, control, supervisión y registro de la administración de los recursos financieros, humanos, materiales y tecnológicos;
+I. Fungir como órgano de consulta, capacitación y asesoría del Ayuntamiento, Presidente Municipal, dependencias de la administración pública municipal, organizaciones de la sociedad civil y empresas, en materia de igualdad de género, implementación de la perspectiva de género y erradicación de la violencia contra las mujeres;
 
-II. Coordinar y actualizar la operación del sistema de contabilidad gubernamental de las áreas administrativas que integran la Secretaría, conforme a las bases y criterios que establezcan las autoridades competentes en la materia;
+II. Promover y concertar acciones, apoyos y colaboraciones con los sectores social y privado, en la coordinación de esfuerzos participativos en favor de una política de igualdad entre mujeres y hombres;
 
-III. Proporcionar el apoyo administrativo, atendiendo a las normas en materia del ejercicio y control del gasto, respondiendo con eficiencia, calidad y orden a las necesidades y prioridades establecidas por la o él Titular de la Secretaría;
+III. Promover la incorporación de la perspectiva de género en la planeación, organización, ejecución y control de programas y proyectos, con el fin de eliminar las brechas de desigualdad subsistentes;
 
-IV. Planear, programar y presupuestar de conformidad a los lineamientos de la Secretaría de la Tesorería, los recursos requeridos en el desarrollo de los programas, acciones y metas;
+IV. Promover e impulsar condiciones que hagan posible la defensa y el ejercicio de los derechos de las mujeres; la igualdad de oportunidades; y su participación activa en todos los órdenes de la vida;
 
-V. Dar cumplimiento a las disposiciones reglamentarias y administrativas que emitan las dependencias, para el manejo y control de la administración de los recursos humanos, materiales y financieros;
+V. Instrumentar, en concordancia con la política nacional y estatal, la política pública relativa a la igualdad sustantiva entre mujeres y hombres y erradicación de la violencia contra las mujeres;
 
-VI. Elaborar, administrar y proponer de manera justificada las solicitudes de modificación y/o ampliación presupuestal de los recursos asignados a la Secretaría;
-
-VII. Mantener actualizados y aprobados, los manuales de organización, de procedimientos y de servicios al público; necesarios en la operación y funcionamiento de la Secretaría, así como integrar las propuestas de cambios a la organización y funcionamiento que la o él Titular de su Secretaría presente a la Secretaría de Administración;
-
-VIII. Dar cumplimiento a las normas aplicables en materia de control de las asistencias, licencias, periodos vacacionales, comisiones y demás movimientos del personal adscrito a la Secretaría;
-
-IX. Coordinar, supervisar y evaluar el cumplimiento de las disposiciones en materia de seguridad laboral, previniendo los riesgos de trabajo y accidentes laborales;
-
-X. Gestionar el suministro oportuno de las necesidades relativas a los recursos materiales y prestación de los servicios generales, requeridos por las unidades técnicas y administrativas de apoyo;
-
-XI. Aplicar las normas y lineamientos que en materia de control del parque vehicular de la Administración Pública Municipal, emita la Secretaría de Administración;
-
-XII. Aplicar las normas y lineamientos que en materia de ingresos, egresos, presupuesto y contabilidad emita la Secretaría de la Tesorería, verificando que el gasto público se ejerza bajo criterios de eficiencia y racionalidad;
-
-XIII. Realizar el ejercicio de los recursos de conformidad al presupuesto autorizado, vigilando que las erogaciones estén debidamente justificadas y soportadas con la documentación comprobatoria y justificativa necesaria, cumpliendo con las disposiciones fiscales, administrativas y legales en la materia;
-
-XIV. Supervisar el cuidado y uso de los bienes muebles e inmuebles, que se encuentren bajo el resguardo del personal adscrito a la Secretaría y atender su conservación y mantenimiento;
-
-XV. Aplicar los lineamientos y procedimientos operativos en materia de adquisiciones, arrendamientos, suministros, registro y almacenamiento de los bienes y servicios necesarios para el cumplimiento de las funciones de la Secretaría, de conformidad con los requisitos que para el efecto emita la Secretaría de Administración.
-
-XVI. Administrar y controlar el archivo, así como regular la recepción, despacho y conservación de la documentación y correspondencia institucional, enviando lo correspondiente al archivo municipal;
-
-XVII. Coordinar la integración del anteproyecto del presupuesto y de la estructura programática – presupuestal de su Secretaría, de conformidad a las estrategias y lineamientos que sobre el particular establezcan el Plan Municipal de Desarrollo y la Secretaría de la Tesorería, sometiéndolos a consideración del Titular de la dependencia;
-
-XVIII. Integrar la estructura programática presupuestal de las diferentes áreas administrativas que integran la Secretaría;
-
-XIX. Difundir a los trabajadores de la Secretaría la información que genere su dependencia o las demás dependencias de la Administración Pública Municipal;
-
-XX. Someter a la aprobación de la o del Titular de la Secretaría, los estudios y proyectos, así como las propuestas de modernización, desconcentración y simplificación administrativa que se elaboren en el área de su responsabilidad; y
-
-XXI. Las demás que dispongan las leyes, reglamentos y normatividad aplicable, así como el superior jerárquico.
+VI. Elaborar programas que desarrollen capacidades locales para potenciar el empoderamiento de las mujeres; y derechos que correspondan al fiduciario, entendiéndose que las facultades del citado cuerpo colegiado constituyen limitaciones para la institución fiduciaria.
 
 #### SECCIÓN SEGUNDA. DE LAS ÁREAS JURÍDICAS
 
@@ -4507,13 +4675,21 @@ a) Si es posible controlar los ingresos, mediante declaración que deberá prese
 
 b) Si el pago debe efectuarse a cuota fija, previamente al acto que lo motiva.
 
-### CAPITULO IV. Inspección Sanitaria
+### CAPÍTULO I. DE LAS ENTIDADES PARAMUNICIPALES
 
-###### ARTÍCULO 115.
+> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 22 DE JUNIO DE 2020)</small>
+
+###### ARTICULO 115.
 
 Para el despacho de los asuntos del orden administrativo estratégicos, prioritarios o sustantivos la o el Presidente Municipal se auxiliará de los organismos descentralizados, empresas de participación municipal y los fideicomisos públicos, que serán considerados como entidades paramunicipales, con los objetivos que expresamente señalen las disposiciones legales establecidas en sus decretos de creación correspondientes.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE JUNIO DE 2020)</small>
+
 La o el Presidente Municipal podrá solicitar a los miembros del Ayuntamiento la creación, fusión o liquidación de organismos descentralizados, empresas de participación municipal o disponer la constitución y liquidación de fideicomisos públicos, para la atención del objeto que expresamente le encomienda la ley.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2020)</small>
+
+La o el Presidente Municipal deberá observar el Principio de Paridad de Género en los nombramientos de las personas titulares de los organismos señalados en el primer párrafo de este artículo.
 
 Estos organismos pueden ser los siguientes:
 
@@ -4545,7 +4721,7 @@ Las Agencias de Inhumaciones serán solidariamente responsables de los Derechos 
 
 Para los efectos del cobro de los Derechos por este concepto, se entenderá por Establo, Granja y Apiario, lo que sobre el particular señale el Art. 143.
 
-### CAPITULO V. Aseo Público
+### CAPÍTULO II. DE LOS ORGANISMOS PARAMUNICIPALES
 
 ###### ARTÍCULO 117.
 
@@ -4613,7 +4789,7 @@ Los usuarios que requieran servicios especiales de aseo público en forma consta
 
 Los derechos por aseo público a que se refiere esta Ley, cuando no se presten en forma constante y bajo contrato, deberán pagarse en la Tesorería Municipal previamente a la prestación del servicio. En caso que el servicio se preste en rebeldía del usuario, se le notificará el costo del mismo para que, en un término de cinco días, realice el pago correspondiente.
 
-### CAPITULO VI. Agua y Alcantarillado
+### CAPÍTULO III. DE LA EMPRESA PÚBLICA MUNICIPAL
 
 ###### ARTÍCULO 124.
 
@@ -4643,7 +4819,7 @@ Los lotes baldíos propiedad de Fraccionamientos legalmente constituidos tendrá
 
 Los fraccionamientos comenzarán a cubrir sus cuotas a partir de la fecha de conexión a la red del Sistema y tendrán la obligación de entregar bimestralmente, a la Tesorería Municipal, una relación de los nuevos posesionarios de lotes para la actualización de su padrón de usuarios. En caso de no cumplirse esta obligación, se suprimirá la bonificación aludida.
 
-### CAPITULO VII. Rastro
+### CAPÍTULO IV. DEL FIDEICOMISO PÚBLICO MUNICIPAL
 
 ###### ARTÍCULO 125.
 
@@ -4683,7 +4859,11 @@ La Autoridad Municipal queda facultada para retener carnes, cuando sea descubier
 
 Igualmente, queda facultada para confiscar carnes no aptas para el consumo humano, las cuales deberán ser incineradas de inmediato.
 
-### CAPITULO VIII. Registro Civil
+### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DE LAS ENTIDADES PARAMUNICIPALES
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 136 (SIC).- Para el control y evaluación de la Entidad Paramunicipal contará con un Comisario Público, designado bajo la responsabilidad de la Secretaría de Contraloría y Transparencia del Municipio cuyas funciones se especificaran en los estatutos orgánicos correspondientes.
 
 ###### Art. 168.
 
@@ -4699,7 +4879,11 @@ Los derechos que las Leyes de Ingresos Municipales fijen por este concepto, debe
 
 Los Oficiales del Registro Civil están obligados, en todos los casos, a consignar en las actas, el lugar y la hora en que se celebre el acto, así como el número del recibo oficial de pago de los derechos causados, cuando éste tenga verificativo en horas extraordinarias o a domicilio.
 
-### CAPITULO IX. Certificaciones
+### CAPÍTULO VI. DE LA EXTINCIÓN Y LIQUIDACIÓN
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 137 (SIC).- La Secretaría de Contraloría y Transparencia del Municipio en su carácter de evaluador y controlador, señalará las bases para llevar a cabo la liquidación derivada de la extinción de las Entidades Paramunicipales y Fideicomisos Públicos, las cuales deberán considerar la eficiencia, eficacia y transparencia en todo momento del proceso de liquidación, así como la adecuada protección del interés público y serán descritas en el Estatuto Orgánico correspondiente de la Entidad.
 
 ###### Art. 171.
 
@@ -4735,7 +4919,7 @@ Causarán los derechos a que se refiere este Capítulo, aquellos otros servicios
 
 Los Derechos que las Leyes de Ingresos Municipales fijen por este concepto, deberán ser cubiertos en la Tesorería o en los lugares que ésta autorice para tal efecto, dentro de los plazos que se señalen.
 
-## TITULO TERCERO. De los Productos
+## TÍTULO CUARTO. DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -5407,7 +5591,7 @@ Salvo que las disposiciones fiscales, o resoluciones, señalen una fecha para la
 
 ### CAPITULO II. Del Procedimiento Administrativo de Ejecución
 
-#### SECCION PRIMERA. Disposiciones Generales
+#### SECCIÓN CUARTA. DE LAS DIRECCIONES DE ÁREA DE LA SECRETARÍA GENERAL MUNICIPAL
 
 ###### Art. 252.
 
@@ -5417,7 +5601,7 @@ No satisfecho un crédito fiscal dentro del plazo, que para el efecto señalen l
 
 Los vencimientos que ocurran durante el procedimiento, incluyendo recargos, gastos de ejecución y cualquiera otro, se harán efectivos, juntamente con el crédito inicial, sin necesidad de notificación ni otras formalidades especiales.
 
-#### SECCION SEGUNDA. Del Requerimiento
+#### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
 
 ###### Art. 254.
 
@@ -5447,7 +5631,7 @@ III. Los motivos y fundamentos por los que se les considera responsables del cr�
 
 IV. El plazo para el pago, que será de quince días, salvo que la Ley señale otro.
 
-#### SECCION TERCERA. Del Secuestro Administrativo
+#### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
 
 ###### ARTÍCULO 44.
 
@@ -5805,7 +5989,7 @@ Todos los gastos de ejecución serán a cargo del contribuyente y, en ningún ca
 
 No procederá el cobro de gastos de ejecución, cuando las diligencias practicadas durante el procedimiento resultaren improcedentes, porque ya estuviera cumplida la obligación, o ésta hubiese quedado insubsistente por resolución de autoridad competente.
 
-#### SECCION CUARTA. De los Remates
+#### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA DE LA TESORERÍA MUNICIPAL
 
 ###### ARTÍCULO 47.
 
@@ -6113,7 +6297,7 @@ En caso de conflicto, el remate permanecerá en depósito en la Tesorería Munic
 
 > <small>(F. DE E., P.O. 7 DE JUNIO DE 1984)</small>
 
-#### SECCION QUINTA. De las Tercerías
+#### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
 
 ###### ARTÍCULO 49.
 
@@ -6465,227 +6649,109 @@ En todo lo no previsto por la presente Ley, se atenderá a lo dispuesto en las d
 
 ## TRANSITORIOS
 
-Primero. Esta Ley entrará en vigor tres días después de su publicación en el Periódico Oficial El Estado de Jalisco.
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado y el Presidente Municipal contará a partir de entonces con seis meses para realizar los ajustes necesarios en la Administración Pública Municipal y Paramunicipal.
 
-Segundo. Se abrogan las disposiciones contenidas en la Ley de Hacienda Municipal, contenida en Decreto Número 4720, expedido por el Congreso del Estado, junto con sus reformas.
+SEGUNDO.- Se abroga el Reglamento Interior de la Administración Pública Municipal de Pachuca de Soto, publicado en el Periódico Oficial del Estado, en fecha 8 de diciembre de 2008 y se derogan todas las disposiciones que se opongan al presente Reglamento.
 
-Tercero. Los procedimientos iniciados y que se encuentren en trámite con anterioridad a la vigencia de esta Ley, se regirán por las disposiciones en vigor en la época de su iniciación y, las resoluciones que se dicten tendrán definitividad para los efectos del Juicio de Garantías, sin que contra las mismas pueda promoverse el Juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado.
+TERCERO.- Será obligación de las secretarías y entidades elaborar los manuales institucionales derivados de este Reglamento, en un tiempo no mayor del 1° de enero del 2015.
 
-Cuarto. Para calcular el importe de las cantidades en dinero a que alude esta Ley, se tendrá como base el salario mínimo general vigente en cada municipio.
+CUARTO.- Las entidades paramunicipales agrupadas en los sectores de la Administración Pública Paramunicipal, ejercerán sus atribuciones y funciones, con base en las disposiciones previstas en este Reglamento para las Secretarías que atienden un ramo administrativo y de sus respectivos Decretos o Leyes de Creación, hasta en tanto no sean modificados dichos instrumentos jurídicos.
 
-Salón de Sesiones del Congreso del Estado
+QUINTO.- Los asuntos que con motivo de este Reglamento deban pasar de una Secretaría o Entidad Paramunicipal a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la Secretaría o Entidad, a la que haya quedado adscrita y que señale ésta la norma jurídico administrativa, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
 
-Guadalajara, Jal., a 15 de marzo de 1984
+SEXTO.- Cuando en otras disposiciones legales o reglamentarias se dé una denominación distinta a alguna Secretaría cuyas funciones estén establecidas por el presente Reglamento, dichas atribuciones se entenderán concedidas a la dependencia que determina este Reglamento.
 
-Diputado Presidente
+SEPTIMO.- A efecto de dar suficiencia presupuestal, orgánica y funcional a las unidades administrativas de la Secretaría de Planeación y Evaluación y las áreas que le corresponden; la Secretaría de Medio Ambiente y Desarrollo Sustentable y las áreas correspondientes, así como la Dirección de Vivienda, la Dirección de Movilidad, la Dirección de Relaciones Públicas y la Dirección de Atención Telefónica, se instruye al Titular de la Presidencia Municipal, a que se lleven a cabo los procesos pertinentes a fin de garantizar que comience su vigencia administrativa a partir del 1 de enero del 2014.
 
-Francisco Ruiz Guerrero
+OCTAVO.- El ayuntamiento realizará los ajustes necesarios a su presupuesto de egresos por las modificaciones a la estructura orgánica de la Administración Pública Municipal y Paramunicipal.
 
-Dip. Secretario
+Las estructuras orgánicas de las secretarías y unidades administrativas derivadas del presente Reglamento se autorizarán por parte de la Secretaría de Administración, conforme a la disponibilidad presupuestal correspondiente en los diferentes rubros del Presupuesto de Egresos vigente Autorizado para el Municipio; dicha Secretaría atenderá y realizara las acciones pertinentes con el fin de hacer las previsiones necesarias para la total regularización presupuestal en el ejercicio de 2014.
 
-Dr. Carlos González Guevara
+Dado en el Salón de Sesiones de la Presidencia Municipal de Pachuca (sic) Soto, Estado de Hidalgo, a los 29 días del mes de agosto del año dos mil trece.
 
-Dip. Secretario
+DECRETO MUNICIPAL NÚMERO SIETE, QUE CONTIENE EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO.
 
-Ing. Salvador Farías Chávez
+EL PRESIDENTE DEL H. AYUNTAMIENTO
 
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+ING. ELEAZAR EDUARDO GARCÍA SÁNCHEZ
 
-Dado en Palacio del Poder Ejecutivo del Estado, a los diecinueve días del mes de marzo de mil novecientos ochenta y cuatro.
+ING. HEBERT JONAZ REYES OROPEZA
 
-El Gobernador Constitucional del Estado
+SÍNDICO PROCURADOR
 
-Lic. Enrique Alvarez del Castillo
+L.C.P. JORGE DANIEL ALVIZO CONTRERAS
 
-El Secretario General de Gobierno
+SÍNDICO PROCURADOR
 
-Lic. Eugenio Ruiz Orozco
+REGIDORES
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+LIC. RAYMUNDO BAUTISTA PICHARDO
 
-P.O. 31 DE MARZO DE 1990.
+LIC. MIRIAM MARGARITA CARMONA MORAN
 
-Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+LIC. CARLOS JAIME CONDE ZÚÑIGA
 
-P.O. 1 DE ENERO DE 1991.
+C. LORENA COLUMBA CRUZ NIETO
 
-Unico. El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y uno, previa su publicación en el Periódico Oficial El Estado de Jalisco.
+L.C.E. ELIZABETH ADRIANA FLORES TORRES
 
-P.O. 29 DE JUNIO DE 1991.
+L.C.P.F. PABLO ARTURO GÓMEZ LÓPEZ
 
-Artículo Primero. Los predios cuyo valor se determine en operaciones translativas de dominio, a partir del 1.º de julio de 1991, pagarán el Impuesto Predial únicamente sobre el valor de tablas de terreno y construcción, vigentes para cada Municipio, y aprobado por las Juntas Tabuladoras correspondientes.
+C. NÉSTOR GÓMEZ OLVERA
 
-Artículo Segundo. El presente Decreto entrará en vigor el día 1.º primero de julio de 1991 mil novecientos noventa y uno, previa su publicación en el Periódico Oficial El Estado de Jalisco".
+LIC. AURELIO GONZÁLEZ PÉREZ
 
-P.O. 16 DE ENERO DE 1992.
+LIC. RODRIGO LEÓN CERÓN
 
-Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+C. EDITH MEJÍA HERNÁNDEZ
 
-P.O. 6 DE FEBRERO DE 1993.
+LIC. JENNY MARLÚ MELGAREJO CHINO
 
-Unico. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+LIC. ROXANA MONTEALEGRE SALVADOR
 
-P.O. 30 DE DICIEMBRE DE 1993.
+LIC. MARÍA CECILIA PÉREZ BARRANCO
 
-DECRETO NUMERO 15311.
+ING. OSCAR RODARTE ALTAMIRANO
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 1996)</small>
+C.D. EDUARDO SÁNCHEZ HERNÁNDEZ
 
-PRIMERO.- Las asociaciones religiosas, legalmente constituidas, que hubieren obtenido la declaratoria de procedencia por parte de la Secretaría de Gobernación, a partir del 16 de julio de 1992 a la fecha de publicación del presente decreto, podrán beneficiarse con la exención del pago del Impuesto Sobre Transmisiones Patrimoniales, hasta el 31 de diciembre de 1997.
+C. JORGE ANDRÉS YÁÑEZ PÉREZ
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+C. JUANA ROSA ZACARÍAS AYALA
 
-P.O. 30 DE DICIEMBRE DE 1993.
+PROFRA. ROSA MARÍA ZAMUDIO MONTUFAR
 
-DECRETO NUMERO 15315.
+LIC. OLIVIA ZÚÑIGA SANTÍN
 
-Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-P.O. 8 DE OCTUBRE DE 1994.
+P.O. 29 DE DICIEMBRE DE 2014.
 
-UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+[N. DE. E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO DIECINUEVE POR EL QUE SE CREA EL INSTITUTO MUNICIPAL PARA LA JUVENTUD DEL MUNICIPIO DE PACHUCA DE SOTO”.]
 
-P.O. 11 DE MAYO DE 1995.
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
-UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+SEGUNDO.- Se deroga la fracción IV del artículo 85 y el articulo 89 del Decreto Municipal Número Siete que contiene el Reglamento Interior de la Administración Pública Municipal de Pachuca de Soto, Hidalgo, publicado en el Tomo CXLVI del Alcance al Periódico Oficial de fecha 21 de Octubre de 2013.
 
-P.O. 22 DE AGOSTO DE 1996.
+P.O. 29 DE DICIEMBRE DE 2014.
 
-UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+[N. DE. E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO VEINTIUNO.- QUE CONTIENE LA CREACIÓN DEL INSTITUTO MUNICIPAL PARA LA CULTURA DE PACHUCA, HIDALGO”.]
 
-P.O. 31 DE OCTUBRE DE 1996.
+PRIMERO. El presente Decreto, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
-ÚNICO.- El presente decreto entrará en vigor ocho días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+SEGUNDO. Quedan derogadas todas aquellas disposiciones reglamentarias, decretos y publicaciones que se opongan al presente Decreto.
 
-P.O. 5 DE DICIEMBRE DE 1996.
+TERCERO. La Junta de Gobierno se integrará dentro de los 30 días siguientes a la entrada en vigor del presente Decreto.
 
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+CUARTO. El Director General del INSTITUTO elaborará el Reglamento Interno para que sea aprobado por el Ayuntamiento de Pachuca de Soto, Hidalgo y los Manuales Operativos para proponerlos a la Junta de Gobierno dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
 
-P.O. 9 DE ENERO DE 1997.
+QUINTO. El personal de la Dirección de Participación Social y Cultural pertenecientes a la Secretaría de Desarrollo Humano y Social formarán parte del INSTITUTO.
 
-Único. El presente decreto entrará en vigor el día 1º de enero de 1997, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+SEXTO. Se DEROGA la fracción II del artículo 85 y el artículo 87 del Reglamento Interior de la Administración Pública Municipal de Pachuca de Soto, Estado de Hidalgo, publicado mediante decreto número Siete, el día 21 de octubre de 2013 en el Periódico Oficial del Estado, número 42.
 
-P.O. 25 DE ENERO DE 1997.
+SÉPTIMO. Sin perjuicio de lo anterior, al INSTITUTO se le otorgará suficiencia presupuestaria y recursos humanos para el ejercicio fiscal 2015.
 
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 28 DE JUNIO DE 1997.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 9 DE DICIEMBRE DE 1997.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-Primero.- El presente decreto entrará en vigor en su totalidad el día 1º de enero de 1998, para los municipios de Guadalajara y Zapopan. Para Los Municipios de Puerto Vallarta, Tepatitlán de Morelos, Tlaquepaque, Tonalá y Villa Corona, Jalisco, regirán a partir del día 1º de enero de 1998, salvo las disposiciones relativas al impuesto predial que entrarán en vigor el día 1º de enero de 1999. Para los demás municipios de la entidad empezarán a surtir efectos el día 1º de enero de 1998, salvo las disposiciones del impuesto predial que entrarán en vigor el día 1º de enero del año 2000.
-
-Segundo.- Se derogan todas aquellas disposiciones que se opongan a (sic) al presente decreto.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 1997)</small>
-
-Tercero.- Publíquese el texto íntegro de este decreto en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 27 DE DICIEMBRE DE 1997.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 19 DE FEBRERO DE 1998.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 29 DE AGOSTO DE 1998.
-
-ÚNICO. Este decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 31 DE DICIEMBRE DE 1998.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 25 DE FEBRERO DE 1999.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 1 DE ABRIL DE 1999.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 3 DE JUNIO DE 1999.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 7 DE AGOSTO DE 1999.
-
-ÚNICO.- Este decreto entrará en vigor al día 1°/01/00 previa su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 7 DE DICIEMBRE DE 1999.
-
-ÚNICO.- El presente Decreto entrará en vigor el día primero de Enero del año 2000, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 25 DE JULIO DE 2000.
-
-Único.- Este Decreto entrará en vigor el 1 de febrero del 2001, previa publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 23 DE ENERO DE 2001.
-
-ÚNICO.- Este decreto entrará en vigor a los 60 sesenta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 3 DE FEBRERO DE 2001.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 21 DE JULIO DE 2001.
-
-DECRETO NUMERO 19112.
-
-ÚNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 21 DE JULIO DE 2001.
-
-DECRETO NUMERO 19113.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 12 DE FEBRERO DE 2002.
-
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-
-TERCERO.- Para el ejercicio fiscal del 2002, el Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, será convocado de inmediato, para que a más tardar el 31 de marzo del 2002, evalúe las percepciones aprobadas en los presupuestos respectivos, sin que esta evaluación pueda afectar las prestaciones ya aprobadas.
-
-P.O. 21 DE MAYO DE 2002.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 11 DE SEPTIEMBRE DE 2003.
-
-PRIMERO.- El presente decreto entrará en vigor el 1 de enero del año 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-
-TERCERO.- Los asuntos que se encuentren en trámite en las dependencias o entidades relacionados con la indemnización a los particulares, derivados de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo a las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
-
-CUARTO.- El Gobierno del Estado y los ayuntamientos deberán incluir en sus respectivos presupuestos de egresos para el ejercicio fiscal del año 2004, una partida que haga frente a su responsabilidad patrimonial.
-
-P.O. 30 DE DICIEMBRE DE 2003.
-
-PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco", aplicándose lo dispuesto en los siguientes artículos transitorios.
-
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
-
-TERCERO. La Auditoría Superior iniciará sus funciones a la entrada en vigor del presente decreto, y su titular será el actual Contador Mayor de Hacienda, hasta el 31 de julio del año 2004.
-
-CUARTO. La revisión de la cuenta pública, que incluye el informe de avance de gestión financiera, conforme a las disposiciones de la ley contenida en el artículo primero de este decreto, se efectuará a partir de la cuenta pública del año 2004. Las revisiones de las cuentas públicas de los años 1999, 2000, 2001, 2002 y 2003 se efectuarán conforme a las disposiciones vigentes en dichos ejercicios.
-
-QUINTO. En todas las disposiciones legales o administrativas; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia del presente decreto, en que se haga referencia a la Contaduría Mayor de Hacienda, se entenderán referidos a la Auditoría Superior del Estado; igualmente, cuando se haga referencia al Contador Mayor, se entenderá referido al Auditor Superior.
-
-SEXTO. Todos los inmuebles, equipos, archivos, expedientes, papeles y, en general, los bienes de la Contaduría Mayor de Hacienda, pasarán a la Auditoría Superior del Estado quedando destinados y afectos a su servicio. La Auditoría Superior del Estado igualmente se subroga en todos los derechos y obligaciones de aquella.
-
-Los servidores públicos de la Contaduría Mayor de Hacienda pasarán a formar parte de la Auditoría Superior del Estado, respetándose sus derechos en los términos de ley.
-
-SÉPTIMO. Los asuntos que se encuentren en trámite o en proceso en la Contaduría Mayor de Hacienda al entrar en vigor el presente decreto, continuarán tramitándose, por la Auditoría Superior del Estado en los términos de las disposiciones vigentes antes de la entrada en vigor del presente decreto.
-
-OCTAVO. Dentro del término de noventa días naturales, contados a partir de la entrada en vigor del presente decreto, deberá expedirse el Reglamento Interno de la Auditoría Superior del Estado de Jalisco.
+P.O. 5 DE SEPTIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO TREINTA Y OCHO QUE CONTIENE LA INICIATIVA CON PROYECTO DE DECRETO QUE REFORMA EL ARTÍCULO 23 Y ADICIONA EL ARTÍCULO 27 BIS, 27 TER Y 27 QUATER DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO”.]
 
@@ -6768,3 +6834,57 @@ PRIMERO: Las Comisiones Permanentes de Gobernación, Bandos, Reglamentos y Circu
 SEGUNDO.- Derivado de lo anterior, se somete a la consideración de este Honorable Ayuntamiento el presente dictamen para su aprobación correspondiente, por lo que en caso de ser aprobado, remítase a la Secretaria de Contraloría Municipal para su publicación en la Página de Internet Oficial del Municipio de Pachuca de Soto y al Periódico Oficial del Estado de Hidalgo para su publicación.
 
 TERCERO: El Presente decreto entrara en vigor al día siguiente de las publicaciones antes referidas.
+
+P.O. 22 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO TREINTA Y NUEVE QUE REFORMA LOS ARTÍCULOS 15 FRACCIÓN XII, 20 Y 115 DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La observancia del principio de paridad de género a que se refieren los artículos 20 y 115 del presente Reglamento, será aplicable a quiénes tomen posesión de su encargo, a partir del cambio de gobierno siguiente a la entrada en vigor del presente Decreto.
+
+TERCERO.- Por lo que hace a la administración actual, la observancia al principio de paridad señalado en los artículos 20 y 115 habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan.
+
+P.O. 14 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO MUNICIPAL NÚMERO CINCO POR EL QUE SE REFORMA DEL ARTÍCULO 60; SE DEROGAN LAS FRACCIONES XXIX Y XXXVIII DEL ARTÍCULO 61; SE ADICIONAN LAS FRACCIONES XXXIX, XL, XLI, XLII, XLIII, XLIV, XLV Y XLVI AL ARTÍCULO 61, SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 62; Y SE ADICIONA EL ARTÍCULO 64 BIS; AL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO MUNICIPAL NÚMERO SEIS POR EL QUE SE REFORMAN LOS ARTÍCULOS 83, 84, 85, 87, 89 Y SE ADICIONAN LOS ARTÍCULOS 87 BIS, Y 89 BIS DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO HIDALGO”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO OCHO POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PUBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO; POR MEDIO DEL CUAL SE CREA LA SECRETARÍA MUNICIPAL DE LAS MUJERES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga el Decreto Número Treinta, por el que se crea el Instituto Municipal de las Mujeres de Pachuca de Soto, Hidalgo, como órgano desconcentrado de la Administración Pública Municipal, publicado en el Periódico Oficial del Estado, de fecha 25 de enero de 2016.
+
+TERCERO. Se abroga el Decreto Municipal numero uno, que contiene el Reglamento Interior del Instituto Municipal de las Mujeres de Pachuca de Soto, Hidalgo; publicado en el Periódico Oficial de Estado el 8 de octubre del 2012.
+
+CUARTO. El Reglamento Interior de la Secretaría deberá expedirse dentro de los noventa días hábiles siguientes a la fecha de publicación del presente Decreto.
+
+P.O. 14 DE DICIEMBRE DE 2020.
+
+[N DE E. TRANSITORIO DEL “DECRETO MUNICIPAL NÚMERO NUEVE POR EL QUE SE ADICIONA Y SE RECORRE UNA FRACCIÓN AL ARTÍCULO 86 Y SE ADICIONAN (SIC) EL ARTÍCULO 86 BIS AL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO”.]
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO MUNICIPAL NÚMERO TRES; POR EL QUE SE REFORMA EL ARTÍCULO 32 Y SE ADICIONA EL ARTÍCULO 32 BIS DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO”.]
+
+ÚNICO.- El presente RESOLUTIVO en vía de DECRETO, entrará en vigor al día siguiente de su publicación, tanto en el Periódico Oficial del Estado de Hidalgo; así como en la Gaceta Oficial del Municipio de Pachuca de Soto, Estado de Hidalgo.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO VEINTITRÉS, QUE ADICIONA LA FRACCIÓN IV AL ORDINAL 56, DEROGA DIVERSAS DISPOSICIONES DEL ARÁBIGO 57 Y ADICIONA EL DISPOSITIVO 59 BIS, TODOS DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente decreto entrara en vigor, al día siguiente al de su publicación, tanto en el Periódico Oficial del Estado de Hidalgo, así como en la Gaceta Oficial del Municipio de Pachuca de Soto, Hidalgo.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto y autorizado en el presente decreto.
