@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2003-06-06"
+last_updated: "2003-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2003.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2189,9 +2189,17 @@ La comisión de este delito se perseguirá de oficio por la Representación Soci
 
 Tipo y punibilidad.- Al que por cualquier medio cause daño, destrucción o deterioro de cosa ajena se le impondrá de tres meses a seis años de prisión y hasta trescientos días multa.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2003)</small>
+
 ###### Artículo 228.
 
-Daño equiparado.- Se equipara al delito de daño en propiedad ajena y se castigará como tal, imponiéndose las penas previstas en el artículo anterior, al que dañe, destruya o deteriore cosa propia en perjuicio de tercero o cuando ésta se halle por cualquier título legítimo en poder de otra persona.
+Daño Equiparado.- Se equipara al delito de daño en propiedad ajena y se castigará como tal, imponiéndose las penas previstas en el Artículo anterior:
+
+I.- Al que dañe, destruya o deteriore cosa propia en perjuicio de tercero o cuando esta se halle por cualquier título legítimo en poder de otra persona;
+
+II.- Al que sin consentimiento de quien legalmente lo puede otorgar, altere o modifique la prestación o imagen de bienes muebles o inmuebles, públicos o privados, a través de pintas, escrituras, dibujos, o signos de cualquier tipo.
+
+Cuando el daño recaiga sobre cualquier bien considerado patrimonio natural, se estará a lo dispuesto en el Artículo 97 de la Ley de Preservación del Patrimonio Cultural del Estado. Así mismo, tratándose de propaganda o promoción de partidos políticos, se estará a lo dispuesto por la Ley de la materia.
 
 ###### Artículo 229.
 
@@ -2671,7 +2679,7 @@ A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a o
 
 ###### Artículo 278.
 
-Tipo y punibilidad.- Se impondrá de tres meses a dos años de prisión y hasta cincuenta días multa, a quienes para hacer uso de un derecho, o pretextando su ejercicio o para evitar el cumplimiento de una Ley, se reunan tumultuariamente y perturben el orden público con empleo de violencia en las personas o sobre las cosas, o amenacen a la autoridad para intimidarla u obligarla a tomar alguna determinación.
+Tipo y punibilidad.- Se impondrá de tres meses a dos años de prisión y hasta cincuenta días multa, a quienes para hacer uso de un derecho, o pretextando su ejercicio o para evitar el cumplimiento de una Ley, se reúnan tumultuariamente y perturben el orden público con empleo de violencia en las personas o sobre las cosas, o amenacen a la autoridad para intimidarla u obligarla a tomar alguna determinación.
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de motín, se les aplicará la sanción de uno a tres años de prisión y hasta cien días multa.
 
@@ -3714,3 +3722,7 @@ UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su public
 P.O. 6 DE JUNIO DE 2003.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE AGOSTO DE 2003.
+
+UNICO: La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
