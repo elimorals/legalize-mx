@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "1999-12-24"
+last_updated: "2000-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2000.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -891,11 +891,13 @@ Cuando se recobre la capacidad legal para administrar, se presente la persona de
 
 La rectificación o modificación de un acta del Estado Civil, no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente haga un progenitor de su hijo, el cual se sujetará a las prescripciones de este Código.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2000)</small>
+
 #### Sección Primera. Adquisición de los frutos
 
 ###### Art. 138.
 
-Ha lugar a pedir la rectificación cuando se solicite variar algún nombre, apellido u otra circunstancia que sea esencial o accidental.
+Ha lugar a pedir la rectificación cuando se solicite variar algún nombre, apellido u otra circunstancia que sea esencial.
 
 ###### Art. 139.
 
@@ -915,7 +917,7 @@ V. Aquellos cuyo carácter de herederos de las personas a que se refieren las fr
 
 El juicio de rectificación de acta se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2000)</small>
 
 #### Sección Segunda. Edificación, plantación y siembra
 
@@ -923,7 +925,45 @@ El juicio de rectificación de acta se seguirá en la forma que se establezca en
 
 ###### Art. 141.
 
-La aclaración de las actas del Registro Civil que no sean las de defunción, sólo podrá solicitarse por la persona a quien se refiere el acta, ante el propio Oficial del Registro Civil, y tendrá por objeto que sin modificar el acta original, se haga constar que el interesado, en su vida ordinaria, emplea solamente alguno de los nombres o apellidos que aparezcan en el acta, pero que se trata de la misma persona; en igual forma se procederá cuando en las actas existan errores mecanográficos u ortográficos que no afecten los datos esenciales de aquéllas. Deberá presentarse el testimonio de dos personas dignas de fe y crédito y, con audiencia del Ministerio Público, el Oficial del Registro Civil podrá aceptar o negar la petición, levantándose constancia del trámite en su expediente, procediendo en los términos de la Fracción VI del Artículo 43.
+La aclaración de las actas del Registro Civil podrá solicitarse ante el propio Oficial, por la persona a quien se refiere el acta o su representante legal, y en los casos que proceda, respecto de las actas de defunción, podrán solicitarla las personas a las que se refiere el artículo 139 de este Código.
+
+Se podrá pedir la aclaración de cualquier acta del Registro Civil, en los casos siguientes:
+
+I. Cuando en las actas existan errores mecanográficos u ortográficos que no afecten los datos esenciales de aquéllas;
+
+II. Cuando existan discordancias entre el nombre asentado con los datos contenidos en el acta;
+
+III. En el caso de ilegibilidad de caracteres;
+
+IV. Cuando exista omisión en los datos de localización del documento;
+
+V. Cuando se omitan el lugar de nacimiento o la nacionalidad en el acta;
+
+VI. En caso de errores o discordancias en las anotaciones ordenadas por la autoridad judicial;
+
+VII. En caso de discordancia entre el acta del libro original y el acta del libro duplicado;
+
+VIII. Cuando existan abreviaturas de nombres y apellidos, siempre y cuando del mismo documento se puedan inferir; y
+
+IX. Cuando el objetivo sea que sin modificar el acta original, se haga constar que el interesado, en su vida ordinaria, emplea solamente alguno de los nombres o apellidos que aparezcan en el acta, pero que se trate de la misma persona.
+
+La persona interesada deberá acompañar a su solicitud, copia certificada del o las actas cuya aclaración se solicita, así como los documentos en que funde la procedencia de la aclaración. Asimismo podrá ofrecer la prueba testimonial.
+
+El Oficial del Registro Civil recibirá la solicitud de aclaración y deberá resolver en un lapso de tres días hábiles contados a partir de la recepción de la misma. En caso de ofrecimiento de testigos, la prueba deberá desahogarse dentro del plazo señalado anteriormente. Siempre se levantará constancia en los términos de la fracción VI del artículo 43.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2000)</small>
+
+###### Art. 141-A.
+
+En los trámites de aclaración de actas del Registro Civil, se admitirá mandato otorgado en escrito privado ratificado ante Notario Público.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2000)</small>
+
+###### Art. 141-B.
+
+Contra la resolución que recaiga a la solicitud de aclaración de las actas podrá interponerse el recurso de revocación dentro de los quince días hábiles siguientes a su notificación, ante el propio Oficial del Registro Civil, y será resuelto dentro de los tres días siguientes.
+
+El interesado podrá optar entre agotar el recurso de revocación o acudir directamente al Tribunal de lo Contencioso Administrativo a impugnar la resolución.
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 1982)</small>
 
@@ -1803,7 +1843,7 @@ IV. La incitación o la violencia hecha por un cónyuge al otro para cometer alg
 
 V. Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, así como la tolerancia en su corrupción;
 
-VI. Padecer cualquier enfermedad crónica o incurable que sea además contagiosa o que científicamente haga prever algún perjuicio grave o degeneración para los descendientes de ese matrimonio o padecer impotencia incurable, siempre que no se esté en alguna de las excepciones señaladas por la fracción VIII del artículo 153. No es causa de divorcio la impotencia en uno solo de los cónyuges si sobrevino al matrimonio y como consecuencia natural de la edad;
+VI. Padecer cualquier enfermedad crónica o incurable que sea además contagiosa o que científicamente haga prever algún perjuicio grave o degeneración para los descendientes de ese matrimonio o padecer impotencia incurable, siempre que no se esté en alguna de las excepciones señaladas por la fracción VIII del artículo 153. No es causa de divorcio la impotencia en uno sólo de los cónyuges si sobrevino al matrimonio y como consecuencia natural de la edad;
 
 VII. Padecer enajenación mental incurable;
 
@@ -6793,7 +6833,9 @@ II. La acción de cualquier comerciante para cobrar el precio de objetos vendido
 
 La prescripción corre desde el día en que fueron entregados los objetos, si la venta no se hizo a plazo;
 
-III. La acción de los dueños de hoteles y casas de huéspedes para cobrar el importe del hospedaje; y la de éstos y la de los fondistas para cobrar el precio de los alimentos que ministren. La prescripción corre desde el día en que debió ser pagado el hospedaje, o desde aquel en que se ministraron los alimentos;
+III. La acción de los dueños de hoteles y casas de huéspedes para cobrar el importe del hospedaje; y la de éstos y la de los fondistas para cobrar el precio de los alimentos que ministren.
+
+La prescripción corre desde el día en que debió ser pagado el hospedaje, o desde aquel en que se ministraron los alimentos;
 
 IV. La responsabilidad civil por injurias, ya sean hechas de palabra o por escrito, y la que nace del daño causado por personas o animales, y que la ley impone al representante de aquéllas o al dueño de éstos. La prescripción comienza a correr desde el día en que se recibió o fue conocida la injuria o desde aquel en que se causó el daño;
 
@@ -11989,7 +12031,7 @@ Si el deudor adquiere bienes después del requerimiento, o si se descubren los q
 
 ###### Art. 2314.
 
-El acreedor puede obligar al fiador a que haga la excusión en los bienes del deudor.
+El acreedor puede obligar al fiador a que haga la excisión en los bienes del deudor.
 
 ###### Art. 2315.
 
@@ -13137,7 +13179,7 @@ Toda inscripción que se haga en el Registro expresará las circunstancias sigui
 
 I. La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que debe inscribirse; su medida superficial, nombre y número si constare en el título o la referencia al registro anterior en donde consten estos datos; asimismo, constará la mención de haberse agregado el plano o croquis al legajo respectivo;
 
-II. La naturaleza, extensión, condiciones suspensivas o resultorias (sic), cargas y demás modalidades del derecho que se constituya, transmita, modifique o extinga;
+II. La naturaleza, extensión, condiciones suspensivas o resultorias, cargas y demás modalidades del derecho que se constituya, transmita, modifique o extinga;
 
 III. El valor de los bienes o derechos a que se refieren las fracciones anteriores. Si el derecho no fuere de cantidad determinada, podrán los interesados fijar en el título la estimación que le den;
 
@@ -15918,3 +15960,7 @@ P.O. 24 DE DICIEMBRE DE 1999.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el Primero de Marzo el año 2000, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE JULIO DE 2000.
+
+Artículo Unico.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
