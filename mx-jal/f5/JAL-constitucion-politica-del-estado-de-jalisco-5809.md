@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2003-06-24"
+last_updated: "2003-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2003.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -555,9 +555,13 @@ Todo proyecto de ley al que no hubiese hecho observaciones el Ejecutivo dentro d
 
 Los proyectos de ley objetados por el Gobernador del Estado y que ratifique el Congreso, deberán ser publicados en un término que no exceda de ocho días, contados a partir de la fecha en que los haya recibido nuevamente.
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2003)</small>
 
-La facultad prevista en el presente artículo, no comprenderá la aprobación de la Ley Orgánica del Poder Legislativo, las resoluciones que dicte el Congreso como Jurado, los decretos que con motivo de un proceso de referéndum declaren derogada una ley o disposición, ni el voto que tenga que emitir en su calidad de Constituyente Permanente Federal en los términos que determina para tal efecto la Constitución Política de los Estados Unidos Mexicanos.
+La facultad prevista en el presente artículo, no comprenderá la aprobación de la Ley Orgánica del Poder Legislativo y sus reglamentos, las cuentas públicas, las resoluciones que dicte el Congreso como Jurado, los decretos que con motivo de un proceso de referéndum declaren derogada una ley o disposición, ni el voto que tenga que emitir en su calidad de Constituyente Permanente Federal en los términos que determina para tal efecto la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2003)</small>
+
+La Ley Orgánica del Poder Legislativo y sus reglamentos, así como sus reformas, adiciones o derogaciones no necesitarán de promulgación del Ejecutivo para tener vigencia. La minuta correspondiente será remitida directamente por los Secretarios del Congreso al Periódico Oficial del Estado para su publicación dentro del plazo que establece el quinto párrafo del presente artículo.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -604,6 +608,30 @@ III. Fijar la división territorial, política y administrativa del Estado, así
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 IV. Determinar los gastos del Estado para cada ejercicio fiscal, así como las contribuciones del Estado y municipios para cubrirlos, y revisar y fiscalizar las cuentas correspondientes;
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2003)</small>
+
+La revisión de las cuentas públicas de los poderes Ejecutivo y Judicial; la de los entes públicos estatales autónomos; organismos descentralizados y fideicomisos estatales o municipales, así como de los ayuntamientos del Estado; tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se han ajustado a los criterios señalados en el presupuesto y el cumplimiento de los objetivos contenidos en los programas.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2003)</small>
+
+La revisión de la cuenta pública del Poder Legislativo, se llevará a cabo de conformidad con las disposiciones contenidas en la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2003)</small>
+
+Para la revisión de las cuentas públicas, el Congreso se apoyará en la entidad de fiscalización superior denominada Auditoría Superior del Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2003)</small>
+
+Serán principios rectores de la fiscalización superior, la legalidad, certeza, independencia, objetividad e imparcialidad.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2003)</small>
+
+Si del examen que la Auditoría Superior del Estado realice con motivo de la fiscalización que haga, aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas, o no existiere exactitud o justificación en los ingresos obtenidos o en los gastos realizados, ni se hayan cumplido los programas o planes propuestos, se determinarán las responsabilidades de acuerdo con la ley.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2003)</small>
+
+La cuenta pública de los poderes Ejecutivo y Judicial; la de los entes públicos estatales autónomos; organismos descentralizados y fideicomisos estatales o municipales debe ser presentada a más tardar el último día de marzo del año siguiente al de su ejercicio. Para la presentación de las cuentas públicas de los municipios, deberá estarse a lo que disponga la ley.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
@@ -681,13 +709,35 @@ XXII. Resolver las competencias y dirimir las controversias que se susciten entr
 
 XXIII. Conceder amnistía;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2003)</small>
 
-XXIV. Elaborar el proyecto de presupuesto del Poder Legislativo, aprobarlo y ejercerlo con autonomía;
+XXIV. Elaborar el proyecto de presupuesto del Poder Legislativo, aprobarlo y ejercerlo con autonomía; nombrar y remover libremente a los servidores públicos de la Secretaría del Congreso y de la Auditoría Superior del Estado;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2003)</small>
 
-XXV. Nombrar y remover libremente a los servidores públicos dependientes de su Secretaría y de la Contaduría Mayor de Hacienda;
+XXV. La Auditoría Superior del Estado tendrá carácter técnico e imparcial, y tendrá a su cargo:
+
+a) Fiscalizar los ingresos, los egresos, el manejo, la custodia y la aplicación de fondos y recursos de los poderes Ejecutivo y Judicial y de los municipios de la Entidad, así como de los entes públicos de índole estatal y municipal e instituciones que administren fondos o valores públicos, incluyendo la aplicación de recursos de origen federal, cuando éstos formen parte de la respectiva cuenta pública, estatal, municipal y de los particulares, así como el cumplimiento de los programas aprobados a través de los informes que dichos poderes y entidades públicas rindan en el ejercicio fiscal que corresponda, en los términos que establezcan las leyes respectivas.
+
+Sin perjuicio de los informes a que se refiere el párrafo precedente de este inciso, en las situaciones excepcionales que determine la ley, podrá requerir a los sujetos de fiscalización que procedan a la revisión de los conceptos que estime pertinentes y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, se podrá dar lugar al establecimiento de las responsabilidades que correspondan, de conformidad con la ley.
+
+La Auditoría Superior del Estado y los órganos de control propios de los poderes del Estado, de los municipios, la de los entes públicos estatales autónomos, organismos descentralizados y fideicomisos estatales o municipales, establecerán los procedimientos necesarios que les permitan el mejor cumplimiento de sus respectivas atribuciones;
+
+b) Entregar el informe del resultado de la revisión de las cuentas públicas de los poderes Ejecutivo y Judicial, y de los municipios del estado, así como los entes públicos estatal y municipal e instituciones que administren fondos o valores públicos, incluyendo la aplicación de recursos de origen federal, cuando éstos formen parte de la respectiva cuenta pública, estatal, municipal y de los particulares, en los términos y plazos que establezca la ley en la materia. Dentro del informe de resultados de la cuenta pública se incluirá el dictamen de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, que comprenderá los comentarios y observaciones de los auditados;
+
+c) Investigar los actos y omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de cualquier tipo, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de los libros y documentos indispensables para la realización de sus investigaciones, sujetándose a las leyes respectivas y a las formalidades para cateos; y
+
+d) Determinar los créditos fiscales que afecten a la hacienda pública o al patrimonio estatal o municipal, o al de los entes públicos estatales autónomos; organismos descentralizados y fideicomisos estatales o municipales y promover, ante las autoridades competentes, el fincamiento de las responsabilidades que correspondan.
+
+Al frente de la Auditoría Superior del Estado habrá un Auditor Superior que será designado conforme al procedimiento que determine la ley; durará en su cargo cuatro años y podrá ser reelecto por una sola vez; sólo podrá ser removido por las causas graves que señale la ley, con la misma votación requerida para su nombramiento, así como por las causas y conforme a los procedimientos previstos en esta Constitución.
+
+Para ser titular de la Auditoría Superior del Estado se requiere cumplir con los requisitos que establezca la ley. Durante el ejercicio de su encargo, no podrá militar o formar parte activa de partido político alguno, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia. El nombramiento deberá recaer preferentemente entre aquellas personas que tengan prestigio profesional, capacidad y experiencia técnica en la materia.
+
+La Comisión legislativa que determine la ley será la encargada de la coordinación entre el Congreso del Estado y dicho órgano de fiscalización superior.
+
+Los poderes del Estado, los entes públicos estatales y municipales que señale la ley y los sujetos de fiscalización facilitarán los auxilios que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones.
+
+El titular del Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas, y los ayuntamientos, a través de los encargados de la Hacienda Municipal, aplicarán el procedimiento administrativo de ejecución para el cobro de los créditos fiscales a que se refiere el inciso d) de esta fracción.
 
 XXVI. Conceder dispensas de ley por causas justificadas, por motivos de conveniencia o utilidad pública, sin perjuicio de tercero;
 
@@ -1561,15 +1611,21 @@ III. Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
 El patrimonio municipal se compondrá con los bienes de dominio público y los bienes de dominio privado, de conformidad con lo que establezca la ley de la materia.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2003)</small>
 
 ###### Art. 89.
 
-El Congreso del Estado aprobará las leyes de ingresos de los municipios, revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles y a las reglas establecidas en las Leyes municipales respectivas.
+El Congreso del Estado aprobará las leyes de ingresos de los municipios y, a través de la Auditoría Superior del Estado de Jalisco fiscalizará y revisará las cuentas públicas municipales, pudiendo ejercitar las acciones que se establezcan en la ley reglamentaria respectiva. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles y en las reglas establecidas en las leyes municipales respectivas.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 Las leyes estatales no establecerán exenciones o subsidios a favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
 Los ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del Estado, conforme al procedimiento que se establezca en la ley de la materia, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o bien, por quien ellos autoricen conforme a la ley.
 
@@ -1639,9 +1695,9 @@ En los juicios del orden civil no hay fuero ni inmunidad.
 
 El procedimiento del juicio político se regirá conforme a las siguientes prevenciones:
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2003)</small>
 
-I. Serán sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Poder Ejecutivo del Estado, el Procurador General de Justicia y el Procurador Social; los integrantes del Consejo General del Poder Judicial, los consejeros electorales del Consejo Electoral del Estado, el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los presidentes, regidores, síndicos o concejales; los funcionarios encargados de las finanzas públicas y secretarías de los municipios; así como los titulares de organismos públicos descentralizados y empresas de participación estatal o municipal mayoritaria;
+I. Serán sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Poder Ejecutivo del Estado, el Contralor del Estado, el Procurador General de Justicia y el Procurador Social; los integrantes del Consejo General del Poder Judicial, los consejeros electorales del Consejo Electoral del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; el Auditor Superior del Estado; los presidentes, regidores, síndicos o concejales; los funcionarios encargados de la secretaría general de los Ayuntamientos; los funcionarios encargados de las haciendas municipales; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria;
 
 II. Se determinará la responsabilidad de los servidores públicos mediante juicio político, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho;
 
@@ -1681,11 +1737,11 @@ La comisión de delitos por parte de cualquier servidor público será perseguid
 
 Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito, a los servidores públicos que, durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, sin que puedan demostrar su procedencia lícita. La ley sancionará con el decomiso y con la privación de la propiedad de dichos bienes, sin que se pueda considerar confiscatoria, además de las otras penas que correspondan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2003)</small>
 
 ###### Art. 100.
 
-Para actuar plenamente contra los diputados al Congreso del Estado; los titulares de las secretarías del Poder Ejecutivo, el Procurador General de Justicia y el Procurador Social; los magistrados del Poder Judicial del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los consejeros electorales del Consejo Electoral del Estado; los presidentes municipales, regidores, síndicos y concejales de los ayuntamientos o concejos municipales, se requerirá establecer la procedencia de acuerdo a las siguientes normas:
+Para actuar penalmente contra los diputados al Congreso del Estado; los titulares de las secretarías del Poder Ejecutivo, el Procurador General de Justicia y el Procurador Social; los magistrados del Poder Judicial del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los consejeros electorales del Consejo Electoral del Estado; el Auditor Superior del Estado; los presidentes municipales, regidores, síndicos y concejales de los ayuntamientos o concejos municipales, se requerirá establecer la procedencia de acuerdo a las siguientes normas:
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2330,3 +2386,21 @@ PRIMERO.- El presente decreto entrará en vigor el 1° de enero del año 2004, p
 SEGUNDO.- Previo a la entrada en vigor del presente decreto, el Estado y los municipios deberán realizar las modificaciones legales y reglamentarias, según sea el caso, para el fin de promover el debido cumplimiento del presente decreto, así como incluir en sus respectivos presupuestos a partir del año 2004, una partida para hacer frente a su responsabilidad patrimonial.
 
 TERCERO.- De conformidad con el artículo 118 de la Constitución Política del Estado de Jalisco, remítase el presente decreto al Titular del Poder Ejecutivo para su promulgación.
+
+P.O. 5 DE AGOSTO DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco", aplicándose lo dispuesto en los siguientes artículos transitorios.
+
+SEGUNDO. Se abrogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO. La revisión de la cuenta pública, que incluye el informe de avance de gestión financiera, conforme a las disposiciones de este Decreto, se efectuará a partir de la cuenta pública del año 2004. Las revisiones de las cuentas públicas de los años 1999, 2000, 2001, 2002 y 2003 se efectuarán conforme a las disposiciones vigentes en dichos ejercicios.
+
+CUARTO. En todas las disposiciones legales o administrativas; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia del presente Decreto, en que se haga referencia a la Contaduría Mayor de Hacienda, se entenderán referidos a la Auditoría Superior del Estado; igualmente, cuando se haga referencia al Contador Mayor, se entenderá referido al Auditor Superior.
+
+QUINTO. Los asuntos que se encuentren en trámite o en proceso en la Contaduría Mayor de Hacienda al entrar en vigor el presente Decreto, continuarán tramitándose, por la Auditoría Superior del Estado en los términos de las disposiciones vigentes antes de la entrada en vigor del presente Decreto.
+
+SEXTO. La adición del párrafo octavo del artículo 33 de la Constitución Política del Estado de Jalisco, sólo será aplicable a los decretos que se expidan con posterioridad a la entrada en vigor de este Decreto.
+
+SÉPTIMO. Por única y excepcionalmente, el Contador Mayor de Hacienda que se encuentre en funciones a la entrada en vigor de la presente reforma, durará en su cargo en la calidad de Auditor Superior del Estado hasta el 31 de julio de 2004.
+
+OCTAVO. Remítase íntegramente copia certificado (sic) del expediente que se integre con motivo de la presente iniciativa a los 124 ayuntamientos del estado, para los efectos de lo dispuesto por el artículo 117 de la Constitución Política del Estado de Jalisco.
