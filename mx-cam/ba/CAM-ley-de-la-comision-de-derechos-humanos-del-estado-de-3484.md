@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-la-comision-de-derechos-humanos-del-estado-de-3484"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-01"
-last_updated: "2000-04-28"
+last_updated: "2001-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DEL 2001.
 
 Ley Publicada en el Periódico Oficial del Estado de Campeche, el viernes 1º. de enero de 1993.
 
@@ -133,17 +133,17 @@ II.- No tener menos de treinta y cinco años de edad el día de su nombramiento;
 
 III.- Gozar de buena reputación, no ser militante de algún partido político, ni haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DEL 2001)</small>
 
 ###### ARTICULO 9.
 
-El Presidente de la Comisión será electo por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, dentro de los que figuren en la terna que al efecto presentará el Gobernador del Estado. Para la conformación de la terna, el Gobernador consultará la opinión de los organismos y organizaciones a que se refiere el artículo 16.
+El Presidente de la Comisión será electo por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, dentro de los que figuren en la terna que al efecto presentará el Gobernador del Estado. Para la conformación de la terna, el Gobernador consultará, a través de la Secretaría de Gobierno, la opinión de los organismos y organizaciones a que se refiere el artículo 16, con toda la antelación necesaria para que la correspondiente propuesta se remita oportunamente al Congreso. Quien resulte electo rendirá la protesta de ley ante el Congreso y entre tanto esto acontezca, el presidente saliente continuará ejerciendo el cargo.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DEL 2001)</small>
 
 ###### ARTICULO 10.
 
-El Presidente de la Comisión durará en sus funciones cinco años, y podrá ser reelecto por una sola vez.
+El Presidente de la Comisión durará en sus funciones cinco años, y podrá ser reelecto por una sola vez. Si, durante el curso del período para el que fue electo, llegare a faltar definitivamente, se procederá a la elección de un presidente sustituto, en la forma prevista en el artículo anterior, quien terminará dicho período y, en su caso, podrá ser reelecto también por una sola vez.
 
 ###### ARTICULO 11.
 
@@ -197,11 +197,25 @@ Tanto el Presidente de la Comisión, como los Visitadores Generales y los visita
 
 ### CAPITULO III. DE LA INTEGRACION Y FACULTADES DEL CONSEJO CONSULTIVO
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DEL 2001)</small>
 
 ###### ARTICULO 16.
 
-El Consejo Consultivo de la Comisión estará integrado por diez consejeros que serán elegidos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, previa auscultación entre las organizaciones sociales representativas de los diversos sectores de la sociedad, así como entre los organismos públicos y privados promotores o defensores de los derechos humanos en la entidad. Cada año serán sustituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos para un segundo periodo. Los consejeros deberán ser personas que gocen de reconocido prestigio en la sociedad campechana, mexicanos en pleno ejercicio de sus derechos ciudadanos, quienes además no deberán tener la calidad de servidores públicos, ni ser dirigentes o militantes de partido político alguno.
+El Consejo Consultivo de la Comisión estará integrado por diez consejeros que durarán cinco años en el ejercicio del cargo y serán elegidos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, previa auscultación entre las organizaciones sociales representativas de los diversos sectores de la sociedad, así como entre los organismos públicos y privados promotores o defensores de los derechos humanos en la Entidad. En la auscultación sólo participarán las organizaciones y organismos legítimamente constituidos. La renovación de los integrantes del Consejo se hará por mitad. Los consejeros sólo podrán ser reelectos para cubrir un segundo período. Los consejeros deberán ser personas que gocen de reconocido prestigio en la sociedad campechana, mexicanos en pleno ejercicio de sus derechos ciudadanos, quienes además no deberán tener la calidad de servidores públicos al momento de su elección, ni ser dirigentes o militantes de partido político alguno. Para el caso se observará el siguiente procedimiento:
+
+I.- La elección de los consejeros deberá tener lugar no menos de tres días antes de la fecha en que concluya el período de los consejeros en funciones;
+
+II.- Dentro de los quince días anteriores a la fecha en que deba procederse a la elección, el Congreso creará una Comisión Especial, o habilitará como tal a la Comisión Ordinaria de Procuración e Impartición de Justicia, Seguridad Pública, Protección Civil y Derechos Humanos, la cual tendrá a su cargo efectuar la auscultación que dispone este artículo;
+
+III.- Creada o habilitada la comisión, ésta procederá de inmediato a la correspondiente auscultación, misma que consistirá en la realización de entrevistas con las dirigencias de las indicadas organizaciones y organismos a efecto de que sugieran a la persona o personas que consideren satisfacen los requisitos que esta ley impone para ser propuestas al cargo de consejeros;
+
+IV.- El proceso de auscultación no deberá rebasar el término de ocho días calendario, contados a partir de la fecha de creación o habilitación de la comisión;
+
+V.- Concluida la auscultación, la comisión rendirá por escrito el correspondiente informe de resultados al pleno del Congreso acompañándole la documentación que hubiere recabado, procediéndose desde luego a la elección; y
+
+VI.- Los electos serán citados ante el pleno del Congreso para rendir la protesta de ley.
+
+Los consejeros en funciones continuarán desempeñando su encargo hasta en tanto no se dé cumplimiento a lo dispuesto en la fracción V. Ante la falta definitiva de un consejero se procederá a la elección de un sustituto, en la forma prevista por este artículo, quien terminará el período para el que fue electo el faltante y podrá ser reelecto por una sola vez más.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2000)</small>
 
@@ -564,3 +578,13 @@ Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que 
 Tercero.- Las disposiciones relativas a elección del Presidente de la Comisión y de los miembros del Consejo Consultivo se aplicarán cuando concluya el periodo para el cual fueron designados quienes actualmente detentan esos cargos.
 
 Cuarto.- La Comisión, dentro del término de noventa días contados a partir de la fecha en que entre vigor el presente decreto, deberá hacer las adecuaciones correspondientes a su Reglamento Interior, las cuales serán publicadas en el Periódico Oficial del Estado para su plena validez.
+
+P.O. 24 DE MAYO DE 2001.
+
+Primero.- El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+Tercero.- La auscultación para llevar a cabo la elección de los miembros del Consejo Consultivo se aplicará a partir del año 2004; en consecuencia, se faculta a la Comisión de Procuración e Impartición de Justicia, Seguridad Pública, Protección Civil y Derechos Humanos para que, por los medios que considere pertinentes, se allegue los elementos necesarios para someter a la consideración del pleno del Congreso, antes del día 31 de mayo de 2001, un listado de personas que satisfagan a plenitud los requisitos para ser electos consejeros.
+
+Cuarto.- Por esta única ocasión, cinco de los consejeros ejercerán su encargo del año 2001 al 2004 y los restantes del año 2001 al 2006. La respectiva determinación se hará en la misma sesión, inmediatamente después de la elección, mediante el procedimiento de insaculación, correspondiendo a los cinco primeros insaculados el ejercer su cargo hasta el año 2004 y a los demás hasta el año 2006.
