@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-4579"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-28"
-last_updated: "1997-10-18"
+last_updated: "1997-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de diciembre de 1994.
 
@@ -125,13 +125,13 @@ ARTICULO 6
 
 3.- Es obligación del ciudadano desempeñar los puestos de elección popular para los que sea electo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 4.- Es derecho exclusivo de los ciudadanos participar como observadores de los actos de preparación y desarrollo del proceso electoral, así como de los que se lleven a cabo el día de la jornada electoral, en los términos que determine el Instituto Estatal Electoral, de acuerdo a las bases siguientes:
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
-a) Podrán participar sólo cuando hayan obtenido oportunamente su acreditación ante la autoridad electoral. El registro de observadores se efectuará en el período comprendido del mes de marzo al de mayo del año correspondiente al de la elección;
+a) Podrán participar sólo cuando hayan obtenido oportunamente su acreditación ante la autoridad electoral. El registro de observadores se efectuará en el período comprendido del mes de febrero al mes de junio del año correspondiente al de la elección;
 
 b) Los ciudadanos que pretendan actuar como observadores deberán señalar en el escrito de solicitud los datos de identificación personal anexando copia de su credencial para votar con fotografía, y la manifestación expresa de que se conducirán conforme a los principios de imparcialidad, objetividad, certeza y legalidad y sin vínculos a partido u organización política alguna;
 
@@ -181,11 +181,11 @@ ARTICULO 7
 
 1.- Son elegibles para los cargos de Gobernador, diputados e integrantes de ayuntamientos, los ciudadanos que además de tener la calidad de electores reúnan los requisitos establecidos en la Constitución Federal, la Particular del Estado, así como en otras leyes aplicables.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 ARTICULO 8
 
-1.- No son elegibles para los cargos de Gobernador del Estado, diputado, o integrante de ayuntamiento, los magistrados del Tribunal Estatal Electoral y los consejeros, ciudadanos y Presidente del Instituto Estatal Electoral, salvo que se separen del cargo seis meses antes de la fecha de la elección.
+1.- No son elegibles para los cargos de Gobernador del Estado, Diputado o integrante de ayuntamiento, los magistrados del Tribunal Estatal Electoral y los consejeros electorales y Presidente del Instituto Estatal Electoral, salvo que se separen del cargo tres años antes de la fecha de la elección.
 
 ## TITULO TERCERO
 
@@ -233,7 +233,9 @@ e) El estudio técnico a que hace referencia el numeral anterior será elaborado
 
 f) Siempre se optará porque sea el Instituto Federal Electoral el que proponga el dictamen técnico en primer término y cuando esto no sea posible, independientemente de la causa, lo realizará el Instituto Estatal Electoral, y será decidido por las dos terceras partes de la Asamblea General mediante acuerdo inatacable, remitiéndolo de inmediato al Congreso para que lo tome como base y lo apruebe de manera definitiva; y
 
-g) Para cada elección, si fuese necesario y tomando en cuenta en su caso lo que establecen los numerales 2 y 5 de este artículo, el Congreso emitirá una resolución conteniendo la demarcación territorial de los distritos electorales uninominales que ha de regir el proceso electoral respectivo a más tardar el primer jueves de octubre del año previo a la elección.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+g) Para cada elección, si fuese necesario y tomando en cuenta en su caso lo que establecen los incisos b) y e) del párrafo 1 de este artículo, el Congreso emitirá una resolución conteniendo la demarcación territorial de los distritos electorales uninominales que ha de regir el proceso electoral respectivo, a más tardar el primer jueves de octubre del año previo a la elección.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE OCTUBRE DE 1997)</small>
 
@@ -955,7 +957,9 @@ p) En lo referente a capacitación de integrantes de mesas directivas de casilla
 
 I.- Supervisar el programa de materiales y capacitación que para tal efecto elabore el personal del Instituto Estatal Electoral;
 
-II.- Supervisar el proceso de insaculación para la integración de los funcionarios de casilla;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+II.- Con la salvedad contemplada en el párrafo 3 del artículo 100 de esta ley, supervisar que en el proceso de doble insaculación para la integración de los funcionarios de casilla, y en su mecanismo de depuración, en ningún caso una misma mesa directiva de casilla esté integrada por dos o más personas que entre sí sean cónyuges, parientes consaguíneos en línea recta o colateral dentro del cuarto grado. Tratándose de afines, la prohibición comprende la línea recta y colateral dentro del segundo grado;
 
 q) Efectuar el cómputo de la elección de Gobernador, entregar la respectiva constancia de mayoría y hacer la declaración de validez de los comicios;
 
@@ -969,7 +973,9 @@ u) Llevar a cabo los procedimientos plebiscitarios, de referéndum y de revocaci
 
 v) Conocer, discutir y en su caso, aprobar durante los procesos electorales los presupuestos de ingresos y egresos del Instituto Estatal Electoral así como los correspondientes informes anuales de su ejercicio;
 
-w) Establecer las normas y procedimientos para la administración de los recursos financieros y materiales del Instituto Estatal Electoral;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+w) Establecer las normas, procedimientos y criterios para la administración de los recursos financieros y materiales del Instituto Estatal Electoral;
 
 x) Expedir el reglamento interior del Instituto; y
 
@@ -1059,7 +1065,9 @@ f) Gozar de buena reputación y no haber sido condenado por delito alguno, salvo
 
 a) Convocar por escrito y con anticipación de cuando menos veinticuatro horas a los integrantes de la Asamblea General;
 
-b) Ejercer el presupuesto del Instituto;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+b) Ejercer el presupuesto de egresos del Instituto Estatal Electoral, bajo la aprobación y supervisión de la Asamblea General;
 
 c) Vigilar el cumplimiento de los acuerdos de la Asamblea General;
 
@@ -1161,9 +1169,11 @@ ARTICULO 60
 
 6.- En caso de que no se reúna la mayoría a que se refiere el párrafo anterior, la sesión se llevará a cabo dentro de las 24 horas siguientes a la señalada, con los consejeros electorales que se encuentren presentes y sus acuerdos serán válidos.
 
-###### ARTICULO 61.
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
-(DEROGADO, P.O. 18 DE OCTUBRE DE 1997)
+ARTICULO 61
+
+1.- Los consejeros electorales y los funcionarios directivos del Instituto Estatal Electoral son inelegibles para ocupar un puesto de elección popular durante los siguientes tres años a la separación del cargo.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE OCTUBRE DE 1997)</small>
 
@@ -1349,9 +1359,9 @@ f) Integrar el paquete electoral con los expedientes correspondientes a cada ele
 
 g) Las demás que les confiera esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
-2.- Son atribuciones del presidente de mesa directiva de casilla:
+2.- Son atribuciones del Presidente de mesa directiva de casilla:
 
 a) Presidir los trabajos de la mesa y velar por el cumplimiento de las disposiciones contenidas en esta Ley, a lo largo del desarrollo de la jornada electoral;
 
@@ -1359,9 +1369,9 @@ a) Presidir los trabajos de la mesa y velar por el cumplimiento de las disposici
 
 b) Recibir de las asambleas municipales con firma de constancia, la documentación, útiles y elementos necesarios para el funcionamiento de la casilla, y conservarlos bajo su responsabilidad hasta la entrega del expediente electoral de la misma a la autoridad correspondiente;
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
-c) Identificar a los electores con su credencial para votar con fotografía y entregarles las boletas que corresponda;
+c) Identificar a los electores con su credencial para votar con fotografía y entregarles las boletas que corresponda. A los ciudadanos que se presenten a votar con resolución favorable expedida por el Tribunal Estatal Electoral conforme al Artículo 159, numeral IV de esta Ley, le será recogido dicho documento una vez que haya emitido su sufragio;
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
 
@@ -1527,7 +1537,9 @@ ARTICULO 68
 
 4.- El Consejero Presidente convocará por escrito a los integrantes para la celebración de la sesión de la Asamblea Municipal, por lo menos con 24 horas de anticipación a la hora de inicio de la sesión.
 
-5.- El Consejero Presidente podrá convocar a sesiones cuando lo estime necesario o lo soliciten por escrito la mayoría de los consejeros electorales o de los representantes de los partidos políticos acreditados.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+5.- El Consejero Presidente podrá convocar por escrito a sesiones cuando lo estime necesario o lo soliciten por escrito la mayoría de los consejeros electorales o de los representantes de los partidos políticos acreditados, notificando por escrito a todos los interesados con 24 horas de anticipación manifestando la necesidad de la convocatoria.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
 
@@ -1577,21 +1589,17 @@ ARTICULO 78
 
 5.- Cuando el producto de la operación de multiplicar el porcentaje a que se refieren los géneros, por el número de candidatos según el caso, arroje una fracción decimal de hasta el 50% de la unidad ésta se ajustará hacia abajo y si la fracción decimal excede al 50% de la unidad ésta se ajustará hacia arriba.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
 6.- Para la elección de síndicos se observará el siguiente procedimiento:
 
-a) Compete a los partidos políticos postular hasta dos candidatos a síndicos con sus respectivos suplentes, así como registrarlos ante el Instituto Estatal Electoral;
+a) Los partidos políticos postularán a un candidato a síndico, con su respectivo suplente, por cada municipio de la entidad, los cuáles deberán registrarse ante el Instituto Estatal Electoral;
 
-b) La elección del síndico se hará en boleta diferente de la de los demás candidatos a integrar el ayuntamiento;
+b) Deberán llevar sus campañas diferenciadas de los demás candidatos a integrar el ayuntamiento;
 
-c) El síndico estará sujeto a los mismos requisitos de elegibilidad que la ley establece para los integrantes del ayuntamiento;
+c) La elección del síndico se hará en boleta diferente de la de los demás miembros del ayuntamiento;
 
-d) El Instituto Estatal Electoral estará obligado a identificar y diferenciar las diversas candidaturas para el desempeño del cargo de síndico a efecto de facilitar a los electores la definición del sentido de su voto;
-
-e) Los candidatos a síndico deberán desarrollar sus campañas políticas de manera independiente y diferenciada respecto de los partidos políticos y sus candidatos, sin acogerse a emblemas, lemas, logotipos o cualquier otro elemento propagandístico cuyo uso sea propio de dichos partidos;
-
-f) El Instituto Estatal Electoral auspiciará la figura del síndico como representativa del avance democrático en sus programas de comunicación social y capacitación política;
-
-g) El costo de las campañas de candidatos a síndicos será cubierto en su totalidad con recursos propios del Instituto Estatal Electoral y en forma igualitaria. Para el efecto indicado, el Consejero Presidente del citado Instituto someterá a la consideración de la Asamblea General los presupuestos de las campañas de referencia, a fin de que determine los montos asignables, los cuales se invertirán solamente en la compra de espacios de los medios de comunicación escritos y electrónicos; en los municipios en donde no hubiere tal posibilidad, la Asamblea determinará lo conducente.
+d) El síndico estará sujeto a los mismos requisitos de elegibilidad que esta ley establece para los integrantes del ayuntamiento.
 
 ARTICULO 79
 
@@ -1839,23 +1847,41 @@ ARTICULO 100
 
 1.- Las mesas directivas de casilla estarán integradas por ciudadanos residentes en la sección respectiva, en ejercicio de sus derechos políticos y que posean los conocimientos suficientes para el desempeño de sus funciones.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+2.- En ningún caso una mesa directiva podrá estar integrada por dos o más personas que entre sí sean cónyuges, parientes consanguíneos en línea recta o colateral dentro del cuarto grado.
+
+Tratándose de afines, la prohibición comprende la línea recta y colateral dentro del segundo grado.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+3.- Si derivado del procedimiento para la integración de mesas directivas de casillas, aún quedasen algunas sin integrar como consecuencia de la disposición contenida en el párrafo que antecede, las Asambleas Municipales proveerán cuanto sea necesario para integrar las mesas directivas de casilla, a efecto de garantizar el ejercicio del derecho del voto de los electores que deban sufragar en las mismas.
+
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
 
 ARTICULO 101
 
 1.- El procedimiento para integrar las mesas directivas de casilla será el siguiente:
 
-a) En la primera decena del mes de abril del año de la elección, las Asambleas Municipales procederán a sortear, de las listas nominales de electores formuladas con corte al último día del mes de febrero del mismo año, a un 20% de ciudadanos de cada sección electoral, sin que en ningún caso el número de ciudadanos sorteados sea menor a treinta; para ello las Asambleas podrán apoyarse en la Vocalía del Registro Federal de Electores. En la realización de este sorteo podrá estar presente un representante de cada partido político;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+a) En la primera decena del mes de abril del año de la elección, las Asambleas Municipales procederán a insacular de las listas nominales de electores con corte al último día del mes de febrero del mismo año, a un 20% de ciudadanos de cada sección electoral, sin que en ningún caso el número de ciudadanos insaculados sea menor a treinta; para ello, las asambleas podrán apoyarse en la Vocalía del Registro Federal de Electores. En la realización de esta insaculación podrá estar presente un representante de cada partido político;
 
 b) Las Asambleas Municipales harán una evaluación objetiva para seleccionar a los ciudadanos que resulten más aptos y que no estén impedidos física o legalmente para ocupar el cargo en los términos de esta Ley;
 
 c) Los ciudadanos que resulten seleccionados, serán convocados por las Asambleas Municipales para que asistan a los cursos de capacitación que se impartirán del 21 de abril al 31 de mayo del año de la elección;
 
-d) Las Asambleas Municipales elaborarán una relación de aquellos ciudadanos que hayan recibido y aprobado la capacitación y según su idoneidad determinarán los cargos a desempeñar en la integración de las mesas directivas de casilla.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
-e) En caso necesario las Asambleas Municipales acordarán integrar las mesas directivas, mediante invitación a ciudadanos que fungieron como funcionarios de casilla en los procesos electorales federal y estatal inmediatos anteriores;
+d) Las Asambleas Municipales elaborarán una relación de aquellos ciudadanos que hayan recibido y aprobado la capacitación correspondiente y de esta relación insacularán a los ciudadanos que integren las mesas directivas de casilla.
 
-f) Realizada la integración de las mesas directivas de casilla, las Asambleas Municipales lo notificarán a la Asamblea General y ordenarán su publicación para todas las secciones electorales del municipio;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+e) Esta segunda insaculación, se hará de entre los ciudadanos que hayan nacido en cuatro meses del año que al azar determine el Instituto Estatal Electoral; si no fuesen suficientes se seleccionarán para la insaculación, los ciudadanos nacidos en otro mes más, también escogido al azar y así sucesivamente;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+f) Las Asambleas Municipales integrarán las mesas directivas de casilla con los ciudadanos seleccionados y determinarán, según su idoneidad, los cargos a desempeñar. Realizada la integración, las Asambleas Municipales lo notificarán a la Asamblea General y ordenarán su publicación para todas las secciones electorales del municipio;
 
 g) Las Asambleas Municipales notificarán personalmente y por escrito a los integrantes de la casilla sus respectivos nombramientos; y
 
@@ -2055,11 +2081,11 @@ ARTICULO 111
 
 2.- El secretario de la Asamblea Municipal respectiva, levantará acta pormenorizada de la entrega y recepción de las boletas asentando el número documentado de ellas para cada elección, las características del embalaje que las contiene, y los nombres y cargos de los funcionarios, consejeros electorales y representantes de los partidos políticos presentes.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
-
 ARTICULO 112
 
-1.- Los consejeros presidentes de cada Asamblea Municipal entregarán a los presidentes de mesa directiva de casilla, dentro de los cinco días previos al de la elección y contra el recibo detallado correspondiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+1.- Los Consejeros Presidentes de cada Asamblea Municipal entregarán a los presidentes de mesa directiva de casilla, dentro de los cinco días previos al de la elección y contra el recibo detallado correspondiente:
 
 a) La lista nominal con fotografía de los electores que podrán votar en la casilla; salvo en el caso de casillas especiales, cuyos presidentes de mesa directiva recibirán las formas especiales para anotar los datos de los ciudadanos en tránsito que con derecho a ello acudan a votar, así como de los funcionarios y representantes acreditados ante la misma;
 
@@ -2067,7 +2093,9 @@ b) La relación de los representantes de los partidos y coaliciones que podrán 
 
 c) La relación de los representantes generales acreditados por cada partido y coalición en el distrito en que se ubique la casilla;
 
-d) Las boletas para cada elección, en número igual al de los electores que figuren en la lista nominal para cada casilla de la sección electoral, así como el número de boletas necesarias para que puedan votar los representantes de los partidos políticos acreditados ante la mesa directiva de la casilla. En el caso de las casillas especiales el número de boletas no será inferior a 750;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+d) Las boletas para cada elección, en número igual al de los electores que figuren en la lista nominal para cada casilla de la sección electoral, así como el número de boletas necesarias para que puedan votar los representantes de los partidos políticos acreditados ante la mesa directiva de la casilla. Las casillas especiales contarán con un máximo de 600 boletas electorales;
 
 e) Las urnas para recibir la votación, una por cada elección de que se trate;
 
@@ -2079,7 +2107,11 @@ h) Los instructivos que indiquen las atribuciones y responsabilidades de los fun
 
 i) Los canceles o elementos modulares que garanticen que el elector pueda emitir su voto en secreto.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+
 2.- La entrega del material a que se refiere el párrafo 1 de este artículo se hará con la participación de los integrantes de la asamblea que decidan asistir.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
 
 3.- La Asamblea General encargará a una institución académica de reconocido prestigio, la elaboración o certificación de las características y calidad del líquido indeleble que será usado el día de la jornada electoral. El líquido seleccionado deberá garantizar plenamente su eficacia. Los envases que lo contengan deberán contar con elementos que identifiquen el producto.
 
@@ -2113,7 +2145,9 @@ ARTICULO 116
 
 1.- El primer domingo de julio del año de la elección ordinaria, a las ocho horas, los ciudadanos nombrados presidente, secretario y escrutadores, propietarios, de las mesas directivas de casilla, procederán a la instalación en presencia de los representantes de los partidos políticos que concurran, levantando el acta de instalación de la casilla, en la que deberá certificarse que se comprobó que las urnas estaban vacías.
 
-2.- Las boletas electorales podrán ser firmadas al reverso por uno de los representantes de los partidos políticos o coaliciones acreditados ante la mesa directiva y designado por sorteo; anotándose además el número de casilla. La falta de firma y/o el número de casilla no será motivo de anulación de los votos recibidos.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+2.- Las boletas electorales serán firmadas al reverso por uno de los representantes de los partidos políticos o coaliciones acreditados ante la mesa directiva y designado por sorteo; anotándose además el número de casilla. La falta justificada de firma y/o de número de casilla no será motivo de anulación de los votos recibidos.
 
 3.- Los integrantes de la mesa directiva de casilla no podrán retirarse hasta que se declare clausurada la casilla.
 
@@ -2211,7 +2245,9 @@ ARTICULO 120
 
 5.- Los representantes de los partidos políticos y coaliciones ante las mesas directivas podrán ejercer su derecho de voto en la casilla en la que estén acreditados. El Secretario de la mesa directiva de casilla anotará el nombre completo y la clave de la credencial para votar al final de la lista nominal de electores.
 
-6.- Con las salvedades que se expresan en el anterior punto 6, no se recibirá voto alguno de persona que no aparezca en la lista nominal respectiva.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+6.- Con las salvedades que se expresan en el párrafo 5 anterior y en el inciso c), del párrafo 2, del artículo 73 de esta ley, no se recibirá voto alguno de persona que no aparezca en la lista nominal respectiva.
 
 7.- En las casillas especiales para recibir la votación de los electores que transitoriamente se encuentren fuera del municipio o distrito se aplicarán, en lo procedente, las siguientes reglas:
 
@@ -2337,7 +2373,11 @@ c) Los escrutadores abrirán las urnas, sacarán las boletas depositadas por los
 
 d) Los escrutadores con el auxilio del Presidente y Secretario seleccionarán y contarán las boletas contenidas en las urnas de cada elección, clasificando y computando los votos válidos, nulos y de candidatos no registrados, emitidos para cada elección, de lo cual tomará nota el secretario asentando en las actas sus resultados.
 
-ARTICULO 131 (DEROGADO, 18 DE OCTUBRE DE 1997)
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+ARTICULO 131
+
+1.- Si se encontrasen boletas de una elección en la urna correspondiente a otra, se separarán y se computarán en la elección respectiva.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
 
@@ -2411,11 +2451,17 @@ ARTICULO 139
 
 a) Inmediatamente cuando se trate de casillas ubicadas en la cabecera del municipio;
 
-b) Hasta seis horas cuando se trate de casillas ubicadas fuera de la cabecera del municipio;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
-c) Hasta doce horas cuando se trate de casillas ubicadas en zonas rurales; y
+b) Hasta tres horas cuando se trate de casillas ubicadas fuera de la cabecera del municipio;
 
-d) En casos especiales y cuando así lo determine la Asamblea Municipal respectiva, el plazo podrá ampliarse para aquellas casillas que lo justifiquen.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+c) Hasta seis horas cuando se trate de casillas ubicadas en zonas rurales; y
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+d) En casos especiales y cuando así lo determine la Asamblea General, el plazo podrá ampliarse para aquellas casillas que lo justifiquen.
 
 2.- Las Asambleas Municipales adoptarán previamente al día de la elección, las medidas necesarias para que los paquetes con los expedientes de las elecciones sean entregados dentro de los plazos establecidos y para que puedan ser recibidos en forma simultánea.
 
@@ -3876,3 +3922,15 @@ DECIMO PRIMERO.- Para el proceso electoral de 1998, una vez que el Congreso cono
 DECIMO SEGUNDO.- Podrán participar en el proceso electoral de 1998, conforme lo dispone esta Ley, las Agrupaciones Políticas Estatales que se constituyan desde el inicio de vigencia de la misma hasta el 31 de diciembre de 1997.
 
 DECIMO TERCERO.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 27 DE DICIEMBRE DE 1997.
+
+DECRETO No. 835/97 I P.O.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1997.
+
+DECRETO No. 836/97 I P.O.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
