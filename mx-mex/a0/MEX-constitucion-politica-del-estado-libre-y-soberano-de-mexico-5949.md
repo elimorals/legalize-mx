@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1967-07-08"
+last_updated: "1968-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE JULIO DE 1967.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 1968.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -317,11 +317,11 @@ Nunca podrán reunirse dos ni los tres Poderes del Estado en una persona o corpo
 
 El ejercicio del Poder Legislativo del Estado se deposita en una Asamblea que se denominará Legislatura del Estado, y que será integrada por Diputados electos directa y popularmente.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1968)</small>
 
 ###### Art. 38.
 
-Por cada 100,000 habitantes o fracción mayor de 50,000 se elegirán un Diputado Propietario y un Suplente.
+Se elegirán un Diputado Propietario y un Suplente por cada ciento cincuenta mil habitantes, o más, no pudiendo el Congreso del Estado, en ningún caso quedar integrado por menos de trece o más de quince diputados.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1942)</small>
 
@@ -687,7 +687,7 @@ VI.-.- Otorgar dispensa por revalidación en los estudios que determinen las ley
 
 Tres días antes de la clausura de las sesiones ordinarias, la Legislatura para el periodo de receso nombrará una Diputación compuesta de tres de sus miembros como propietarios y dos suplentes para cubrir las faltas de aquéllos.
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 1947)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1947)</small>
 
 ###### Art. 72.
 
@@ -2160,3 +2160,7 @@ Artículo Segundo.- Este Decreto entrará en vigor el día de su publicación en
 G.G. 8 DE JULIO DE 1967.
 
 Artículo Transitorio.- Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno" del Estado.
+
+G.G. 18 DE DICIEMBRE DE 1968.
+
+ARTICULO TRANSITORIO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
