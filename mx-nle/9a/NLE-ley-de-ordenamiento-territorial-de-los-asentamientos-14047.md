@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ordenamiento-territorial-de-los-asentamientos-14047"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-03"
-last_updated: "2003-09-19"
+last_updated: "2004-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS Y DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 3 de marzo de 1999.
 
@@ -483,71 +483,27 @@ IV.- Las demás acciones que convengan los municipios respectivos.
 
 ###### Artículo 26.
 
-El Gobernador del Estado podrá contar con una instancia de consulta general a fin de recabar la opinión de la comunidad sobre la problemática del desarrollo urbano, los asentamientos humanos o el ordenamiento territorial en la entidad y las posibles soluciones a la misma, asimismo acerca de la elaboración del Plan Estatal de Desarrollo Urbano y de los planes para la ordenación de las subregiones o zonas conurbadas del Estado. Lo anterior sin perjuicio de los mecanismos de consulta popular previstos en la Ley Orgánica de la Administración Publica Municipal.
-
-Creándose por esta Ley y para los efectos de este artículo, el Consejo Consultivo de Desarrollo Urbano debiendo el Gobernador del Estado establecer mediante acuerdo la integración y las reglas de operación de dicho consejo.
+(DEROGADO POR ARTICULO SEXTO TRANSITORIO DE LEY DE LA AGENCIA PARA LA PLANEACION DEL DESARROLLO URBANO DE NUEVO LEON, P.O. 26 DE FEBRERO DE 2004)
 
 ###### Artículo 27.
 
-El Consejo Consultivo de Desarrollo Urbano se integra por los representantes, uno propietario y el otro suplente, que acrediten:
-
-I.- El H. Congreso del Estado, representado por los presidentes de las comisiones correspondientes;
-
-II.- La Universidad Autónoma de Nuevo León;
-
-III.- El Instituto Tecnológico y de Estudios Superiores de Monterrey;
-
-IV.- La Cámara de la Industria de la Transformación de Nuevo León;
-
-V.- La Cámara Nacional de Comercio de Monterrey;
-
-VI.- El Centro Patronal de Nuevo León;
-
-VII.- La Asociación de Desarrolladores Inmobiliarios y de Vivienda de Nuevo León, A.C.;
-
-VIII.- La Delegación de Nuevo León de la Cámara Mexicana de la Industria de la Construcción;
-
-IX.- La Cámara de Propietarios de Bienes Raíces del Estado de Nuevo León, A.C.;
-
-X.- El Colegio de Arquitectos de Nuevo León;
-
-XI.- El Colegio de Ingenieros Civiles de Nuevo León;
-
-XII.- El Colegio de Notarios Públicos de Nuevo León;
-
-XIII.- El Consejo Cívico de Instituciones de Nuevo León, A.C.;
-
-XIV.- El Instituto Mexicano de Valuación, Delegación Nuevo León, A.C;
-
-XV.- El Colegio de Biólogos;
-
-XVI.- La Sociedad de Urbanismo, Región Monterrey, A.C.
-
-El Gobernador del Estado podrá invitar a personas del sector social, académico u otras organizaciones representativas para que formen parte también del Consejo Consultivo de Desarrollo Urbano.
-
-En los casos de subregiones o zonas de conurbación distintas a la del área metropolitana de Monterrey, el Consejo Consultivo de Desarrollo Urbano se integrará por los representantes de grupos sociales o personas de esas circunscripciones que inviten el Gobernador del Estado y los ayuntamientos de los municipios involucrados.
+(DEROGADO POR ARTICULO SEXTO TRANSITORIO DE LEY DE LA AGENCIA PARA LA PLANEACION DEL DESARROLLO URBANO DE NUEVO LEON, P.O. 26 DE FEBRERO DE 2004)
 
 ###### Artículo 28.
 
-El Consejo Consultivo tendrá como funciones:
-
-I.- Promover la participación de los grupos sociales en la elaboración o revisión de los planes o programas de desarrollo urbano, asentamientos humanos u ordenamiento territorial;
-
-II.- Realizar consultas sobre la problemática de desarrollo urbano, asentamientos humanos u ordenamiento territorial del Estado; y,
-
-III.- Las demás que el Gobernador del Estado le encomiende.
+(DEROGADO POR ARTICULO SEXTO TRANSITORIO DE LEY DE LA AGENCIA PARA LA PLANEACION DEL DESARROLLO URBANO DE NUEVO LEON, P.O. 26 DE FEBRERO DE 2004)
 
 ###### Artículo 29.
 
-El Consejo Consultivo de Desarrollo Urbano será presidido por el Gobernador del Estado y contará, para la organización y ejecución de sus actividades, con un presidente ejecutivo y un secretario técnico nombrados por aquél.
+(DEROGADO POR ARTICULO SEXTO TRANSITORIO DE LEY DE LA AGENCIA PARA LA PLANEACION DEL DESARROLLO URBANO DE NUEVO LEON, P.O. 26 DE FEBRERO DE 2004)
 
 ###### Artículo 30.
 
-El Consejo Consultivo de Desarrollo Urbano se reunirá con la periodicidad que sus actividades requieran, a convocatoria hecha por el Gobernador del Estado o su presidente ejecutivo debiendo reunirse cuando menos una vez cada dos meses. Sus acuerdos se adoptarán por mayoría de los presentes, teniendo quien lo presida voto de calidad para el caso de empate.
+(DEROGADO POR ARTICULO SEXTO TRANSITORIO DE LEY DE LA AGENCIA PARA LA PLANEACION DEL DESARROLLO URBANO DE NUEVO LEON, P.O. 26 DE FEBRERO DE 2004)
 
 ###### Artículo 31.
 
-Para el desempeño de sus funciones, el Consejo podrá formar comisiones o grupos de trabajos que se aboquen a ampliar la consulta o participación de la comunidad en las diversas áreas o aspectos del desarrollo urbano, asentamientos humanos u ordenamiento territorial.
+(DEROGADO POR ARTICULO SEXTO TRANSITORIO DE LEY DE LA AGENCIA PARA LA PLANEACION DEL DESARROLLO URBANO DE NUEVO LEON, P.O. 26 DE FEBRERO DE 2004)
 
 ### CAPÍTULO V. De la participación social y ciudadana
 
@@ -3770,3 +3726,13 @@ Este Decreto entrará en vigor el día siguiente al de su publicación en el Per
 P.O. 19 DE SEPTIEMBRE DE 2003.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE FEBRERO DE 2004.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+Artículo Primero.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Quinto.- Quedan vigentes todas las disposiciones legales y reglamentarias, en cuanto no se opongan a la presente Ley.
+
+Artículo Sexto.- Se derogan los artículos 26, 27, 28, 29, 30 y 31 de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León, publicada en el Periódico Oficial del Estado en fecha 3 de marzo de 1999.
