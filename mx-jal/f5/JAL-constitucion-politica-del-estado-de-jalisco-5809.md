@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1924-09-26"
+last_updated: "1927-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 1924.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 1927.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -85,11 +85,15 @@ El Supremo Poder del Estado se divide, para su ejercicio, en Legislativo, Ejecut
 
 El Poder Legislativo se deposita en una asamblea que se denomina Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1924)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1927)</small>
 
 ###### Art. 8º.
 
 El Congreso del Estado se compondrá de Diputados electos popularmente cada cuatro años.
+
+Los individuos a quienes las Juntas Computadoras de las Cabeceras de Distrito Electoral expidan credenciales, declarando que han obtenido mayoría de votos para Diputados, instalados en Colegio Electoral, calificarán la elección declarando quienes son Diputados conforme a la Ley.- Esta declaratoria y todos los demás actos del Congreso en funciones de Colegio Electoral, son irrevocables.
+
+La Diputación Permanente es la facultada para instalar el Colegio Electoral.
 
 ###### Art. 9º.
 
@@ -197,15 +201,21 @@ Las iniciativas adquirirán el carácter de Ley cuando sean aprobadas por el Con
 
 Si la Ley no fija el día en que deba comenzar a observarse, será obligatoria en cada lugar desde el siguiente al en que se publique.
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1927)</small>
+
 ###### Art. 20.
 
-Si el Ejecutivo juzga conveniente hacer observaciones a un proyecto de ley aprobado por el Congreso, podrá negarle su sanción y remitir sus observaciones a este Cuerpo dentro de los 8 días siguientes a aquel en que se le haga saber, para que, tomadas en consideración, se examine de nuevo el negocio.
+Si el Ejecutivo juzga conveniente hacer observaciones a un Proyecto de Ley aprobado por el Congreso, podrá negarle su sanción y remitir sus observaciones a este Cuerpo dentro de los ocho días siguientes a aquel en que se le haga saber, para que, tomadas en consideración, se examine de nuevo el negocio.
 
 En casos urgentes, a juicio del Congreso, el término de que se trata será de tres días y así se anunciará al Ejecutivo.
 
-Se reputará aprobado por el Ejecutivo, todo proyecto que no se devuelva con observaciones a la Cámara dentro de los mencionados términos, a no ser que, corriendo éstos, hubiere el Congreso cerrado o suspendido sus sesiones; en el cual caso, la devolución deberá hacerse el primer día hábil que siga al en que dicho Cuerpo esté reunido.
+Se reputará aprobado por el Ejecutivo todo proyecto que no se devuelva con observaciones a la Cámara dentro de los mencionados términos, a no ser que, corriendo éstos, hubiere el Congreso cerrado o suspendido sus sesiones; en el cual caso, la devolución deberá hacerse el primer día hábil que siga al en que dicho Cuerpo esté reunido.
 
-El Proyecto de Ley al que se hubiere hecho observaciones, será sancionado y publicado si el Congreso vuelve a aprobarlo por dos tercios del número total de sus miembros presentes.
+El proyecto de ley al que se hubieren hecho observaciones, será sancionado y publicado si el Congreso vuelve a aprobarlo por dos tercios del número total de sus miembros presentes.
+
+Todo proyecto de Ley al que no hubiere hecho observaciones el Ejecutivo dentro del término que establece este artículo, debe ser publicado en un plazo de quince días, como máximo, a contar de la fecha en que le haya sido remitido.
+
+Los proyectos de Ley que hubieran sido objetados por el Ejecutivo, conforme a esta Constitución y que hayan sido ratificados por el Congreso, deben ser promulgados en un término que no exceda de ocho días, a contar de la fecha en que le hayan sido remitidos nuevamente al Ejecutivo.
 
 ###### Art. 21.
 
@@ -313,6 +323,8 @@ V. No ser Secretario de Gobierno o quien haga sus veces, a no ser que se separe 
 
 De las Facultades y Obligaciones del Gobernador.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1927)</small>
+
 ###### Art. 28.
 
 El Gobernador será electo popularmente cada cuatro años y entrará a ejercer sus funciones el primer día de marzo, posterior a la elección. Nunca podrá ser reelecto.
@@ -353,41 +365,65 @@ Las autoridades subalternas del Gobernador, y sus facultades, son las que determ
 
 Son facultades y obligaciones del Gobernador:
 
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
+
 I. Promulgar, ejecutar y hacer que se ejecuten las Leyes haciendo uso en su caso, de la facultad que le concede el artículo 20.
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
 
-II. Presentar cada año al Congreso, a más tardar el día primero de abril, los proyectos de Presupuestos de Ingresos y Egresos del Estado, para el ejercicio fiscal venidero.
+II. Presentar cada año al Congreso a más tardar el día 1º. de abril, los proyectos del Presupuesto de Ingresos y Egresos del Estado para el ejercicio fiscal venidero.
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
 
-III. Asistir a la apertura del primer período de sesiones ordinarias del Congreso y a la de las extraordinarias a que hubiere convocado, para rendir, en el primer caso, un informe general por escrito de la Administración Pública, y en el segundo, para justificar su convocación.
+III. Asistir a la apertura del primer período de sesiones ordinarias del Congreso y la de las extraordinarias a que hubiere convocado, para rendir en el primer caso, un informe general por escrito de la Administración Pública, y en el segundo para justificar su convocatoria.
 
-IV. Pedir y dar informes al Congreso sobre cualquier ramo de la Administración, y al Tribunal sobre el de Justicia;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
 
-V. Reconocer, cuando estuviere dividida en varios grupos la Legislatura, a aquel que tenga quórum legal conforme a esta Constitución.
+IV. Pedir y dar informes al Congreso sobre cualquier ramo de la Administración, y al Tribunal sobre el de Justicia.
 
-VI. Asumir facultades extraordinarias, conforme a la Fracción XIX del artículo 23 cuando en virtud de las circunstancias, no las pudiere recabar del Congreso, a quien en todo caso dará cuenta de lo que hiciere para su aprobación o reprobación.
+V. (DEROGADA, P.O. 19 DE FEBRERO DE 1927)
 
-VII. Celebrar convenio sobre límites con los Estados vecinos, con el requisito establecido en la fracción XIV del artículo 26.
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
 
-VIII. Formar los reglamentos para el buen despacho de la Administración pública.
+VI. Dar cuenta al Congreso cuando se reúna, de los actos efectuados en uso de las facultades extraordinarias que se hayan concedido por el Congreso, para los efectos de la Fracción XIX del artículo 23 de esta Constitución.
 
-XI (Sic). Nombrar y remover al Secretario de Gobierno y a los funcionarios y empleados cuyo nombramiento o remoción no corresponda conforme al a Ley, a otra autoridad.
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
+
+VII. Celebrar convenio sobre límites con los Estados vecinos, con el requisito establecido en la fracción XIV del artículo 23.
+
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
+
+VIII. Formar los reglamentos para el buen despacho de la Administración Pública.
+
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
+
+IX. Nombrar y remover al Secretario de Gobierno y a los funcionarios y empleados cuyo nombramiento o remoción no corresponda conforme al a Ley, a otra autoridad.
 
 X. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 1922)
 
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
+
 XI. Cuidar de la recaudación e inversión de los caudales del Estado, con arreglo a las leyes.
 
-XII. Cuidar de la conservación del orden público, disponiendo al efecto de la fuerza armada del Estado, y de la del Municipio donde residua (sic) habitual o transitoriamente.
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
 
-XIII. Decretar la expropiación por causas de utilidad pública, en la forma que determinen las leyes.
+XII. Cuidar de la conservación del orden público, disponiendo al efecto de la fuerza armada del Estado, y de la del Municipio donde resida habitual o transitoriamente.
+
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
+
+XIII. Decretar la expropiación por causa de utilidad pública, en la forma que determinan las leyes.
+
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
 
 XIV. Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales.
 
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
+
 XV. Conceder, conforme a la Ley, indulto, reducción o conmutación de pena.
 
-XV (sic). Convocar al Congreso a sesiones extraordinarias, debiendo hacerlo a la mayor brevedad en los casos graves de responsabilidad de los Funcionarios y empleados públicos que gocen de fuero.
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
+
+XVI. Convocar al Congreso a sesiones extraordinarias, debiendo hacerlo a la mayor brevedad en los casos graves de responsabilidad de los Funcionarios y empleados públicos que gocen de fuero.
 
 ## Título Quinto
 
@@ -612,3 +648,7 @@ P.O. 26 DE SEPTIEMBRE DE 1924.
 ###### ARTICULO UNICO.
 
 Esta ley empezará a regir en la elección de la próxima XXIX Legislatura y los períodos que se señala se contarán a partir del día 1o. de febrero de mil novecientos veinticinco.
+
+P.O. 19 DE FEBRERO DE 1927.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
