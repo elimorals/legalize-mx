@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1960-05-21"
+last_updated: "1962-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 1960.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1962.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -87,7 +87,7 @@ II.- Asistir en los días y horas designados por el Ayuntamiento del lugar en qu
 
 III.- Alistarse y servir en la Guardia Nacional conforme a la ley orgánica respectiva, para asegurar y defender la independencia, el territorio, el honor, los derechos e intereses de la Patria y del Estado, así como la tranquilidad y el orden interiores.
 
-IV.- Contribuir para los gastos públicos, así de la Federación como del Estado y Municipio en que residan, de la manera proporcional y equitativa que dispongan las leyes, inscribiéndose en las Oficinas recaudadoras respectivas, manifestando el valor real de sus propiedades o la importancia de la profesión o giro de que subsistan.
+IV.- Contribuir para los gastos públicos, así de la Federación como del Estado y Municipio en que residan, de manera la proporcional y equitativa que dispongan las leyes, inscribiéndose en las Oficinas recaudadoras respectivas, manifestando el valor real de sus propiedades o la importancia de la profesión o giro de que subsistan.
 
 V.- Honrar la memoria de sus grandes hombres, cumplir y vigilar el cumplimiento de las leyes y procurar, por todos los medios lícitos que estén a su alcance, el engrandecimiento y prosperidad del Estado.
 
@@ -1221,7 +1221,9 @@ La propiedad de las personas no puede ser ocupada sin su consentimiento, sino po
 
 Los extranjeros, las asociaciones religiosas denominadas iglesias, las instituciones de beneficiencia (sic) pública o privada y las sociedades mercantiles por acciones estarán sujetos, en la adquisición de la propiedad raíz, a las disposiciones y taxativas enumeradas en el Artículo 27 de la Constitución Federal.
 
-El Estado y sus Municipios tienen derecho para adquirir, poseer y administrar bienes raíces, en cuanto basten a sus necesidades y servicios públicos.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1962)</small>
+
+El Estado de Nuevo León y sus Municipios tienen derecho para adquirir, poseer y administrar bienes raíces, en cuanto basten a sus necesidades y servicios públicos; y solo podrán enajenarse esta clase de bienes, cualquiera que sea su origen, su destino y carácter, o gravarse en alguna forma que afecte su libre uso por término mayor de cinco años, mediante Decreto del Congreso del Estado, siendo inexistentes las enajenaciones y contratos que sin la autorización aludida se efectúen. Las desafectaciones de los bienes de uso común o los destinados a un servicio público, solo podrán ser decretadas por el H. Congreso del Estado.
 
 Una Ley del Congreso establecerá; la extensión máxima de terreno de que pueda ser dueño un individuo o sociedad e indicará la forma y términos en que se ha de fraccionar la excedente. La misma Ley determinará el modo de disolver las comunidades y organizará el patrimonio de la familia.
 
@@ -1330,3 +1332,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 21 DE MAYO DE 1960.
 
 UNICO.- Este decreto comenzará a surtir sus efectos el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JUNIO DE 1962.
+
+UNICO:- Este Decreto comenzará a surtir sus efectos una vez hecha su publicación en el Periódico Oficial del Gobierno del Estado.
