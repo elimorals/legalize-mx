@@ -4,7 +4,7 @@ identifier: "QUE-codigo-fiscal-del-estado-de-queretaro-7564"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-31"
-last_updated: "1987-12-31"
+last_updated: "1988-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO FISCAL DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EL PERIÓDICO OFICIAL: EL 29 DE DICIEMBRE DE 1988.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 31 de diciembre de 1987.
 
@@ -1477,7 +1477,9 @@ La interposición de los recursos que establece este Código en contra de los ac
 
 #### SECCION TERCERA. DEL RECURSO DE OPOSICION AL
 
-PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
+PROCEDIMIENTO
+
+ADMINISTRATIVO DE EJECUCION
 
 ###### ARTICULO 132.
 
@@ -1567,9 +1569,11 @@ El embargo quedará sin efecto si la autoridad no emite, dentro del plazo de un 
 
 En ningún caso se aplicará este procedimiento para cobrar créditos derivados de productos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 141.
 
-Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y las morales estarán obligadas a pagar el 2% del crédito fiscal por concepto de gastos de ejecución, por cada una de las diligencias que a continuación se indican.
+Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y las morales estarán obligadas a pagar el 10% del crédito fiscal por concepto de gastos de ejecución, por cada una de las diligencias que a continuación se indican:
 
 I.- Por el requerimiento señalado en el primer párrafo del artículo 142 de este Código.
 
@@ -1577,7 +1581,9 @@ II.- Por la de embargo, incluyéndose la diligencia por embargo precautorio.
 
 III.- Por la de remate, enajenación fuera de remate o adjudicación al fisco estatal.
 
-Cuando en los casos de las fracciones anteriores el 2% del crédito sea inferior a una vez el salario mínimo general diario de la zona económica, se cobrará esta cantidad en vez del 2% del crédito.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1988)</small>
+
+Cuando en los casos de las fracciones anteriores el 10% del crédito sea inferior a una vez el salario mínimo general diario de la zona económica, se cobrará esta cantidad en vez del 10% del crédito.
 
 En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a un salario mínimo general de la zona económica elevado al año.
 
@@ -1953,7 +1959,7 @@ Diputado Presidente
 
 DR. JAIME ZÚÑIGA BURGOS.
 
-Di putado Secretario
+Diputado Secretario
 
 T.S. MA. GUADALUPE DURAN GOMEZ.
 
@@ -1970,3 +1976,15 @@ LIC. MARIANO PALACIOS ALCOCER
 El Secretario de Gobierno
 
 LIC. JOSE MARIA HERNÁNDEZ SOLIS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE DICIEMBRE DE 1988.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor a partir del 1º. de enero de 1989.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan a la presente.
