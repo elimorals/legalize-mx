@@ -4,7 +4,7 @@ identifier: "AGU-decreto-que-instituye-la-medalla-jose-maria-morelos-y-pavon-135
 country: "mx"
 rank: "decreto"
 publication_date: "1975-08-31"
-last_updated: "1975-08-31"
+last_updated: "1976-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 DECRETO QUE INSTITUYE LA "MEDALLA JOSE MARIA MORELOS Y PAVON"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 1976.
 
 Decreto publicado en el Periódico Oficial del Estado de Aguascalientes, el 31 de agosto de 1975.
 
@@ -37,25 +37,33 @@ El H. Congreso del Estado en sesión extraordinaria celebrada hoy, tuvo a bien e
 
 La H. XLIX Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le concede el Artículo 27 de la Constitución Política Local, en nombre del Pueblo, decreta:
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1976)</small>
+
 ###### ARTICULO PRIMERO.
 
-Se instituye la "Medalla José Ma. Morelos y Pavón", para honrar a los ciudadanos originarios del Estado o radicados en el mismo, que se distingan por sus méritos cívicos, por su contribución al progreso y desarrollo de la Entidad o por su acción humanista en bien del Pueblo de Aguascalientes.
+Se instituye la Medalla "José Ma. Morelos y Pavón", para honrar a los ciudadanos que se distingan por sus méritos cívicos, por su contribución al progreso y desarrollo de la Entidad o por su acción humanista en bien del Pueblo de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1976)</small>
 
 ###### ARTICULO SEGUNDO.
 
-La "Medalla José Ma. Morelos y Pavón", se otorgará el día veintidós de octubre de cada año, en ocasión del aniversario de la Fundación de la Ciudad de Aguascalientes, por el titular del Poder Ejecutivo del Estado, a las personas que para ello sean designadas por la Comisión a que se refiere el siguiente artículo.
+La Medalla "José Ma. Morelos y Pavón", se otorgará por acuerdo del H. Congreso del Estado a las personas que para ello sean designadas por la Comisión a que se refiere el siguiente artículo.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1976)</small>
 
 ###### ARTICULO TERCERO.
 
-Se crea la "Comisión Medalla José Ma. Morelos y Pavón", que se encargará, previa auscultación ciudadana y mediante las propuestas que formulen los ciudadanos e instituciones públicas y privadas del Estado, de designar a los ciudadanos merecedores de ser premiados con la medalla de referencia.
+Se crea la Comisión "Medalla José Ma. Morelos y Pavón", la que deberá estar integrada por un Presidente, un Secretario y dos Vocales, dicha Comisión se encargará previa auscultación ciudadana y mediante las propuestas que formulen los ciudadanos e instituciones públicas y privadas del Estado, de designar a los ciudadanos merecedores de ser premiados con la Medalla de referencia.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1976)</small>
 
 ###### ARTICULO CUARTO.
 
-El Ejecutivo del Estado designará a las personas que deban integrar la "Comisión Medalla José Ma. Morelos y Pavón".
+El H. Congreso del Estado designará a las personas que deban integrar la Comisión "Medalla José Ma. Morelos y Pavón".
 
 ###### ARTICULO QUINTO.
 
-Se faculta al Ejecutivo del Estado para que expida la correspondiente reglamentación, conforme a la que se regirá la Institución "Medalla José Ma. Morelos y Pavón", así como la Comisión de la misma.
+(DEROGADO, P.O. 9 DE MAYO DE 1976)
 
 EL DECRETO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGOR DEL TEXTO, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
@@ -86,3 +94,9 @@ J. Refugio Esparza Reyes.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Antonio Javier Aguilera García.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE MAYO DE 1976.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.</small>
