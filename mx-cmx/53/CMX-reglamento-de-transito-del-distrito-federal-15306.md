@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-del-distrito-federal-15306"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-30"
-last_updated: "2001-06-29"
+last_updated: "2001-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15306&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-11-29"
 
 REGLAMENTO DE TRANSITO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE SEPTIEMBRE DE 2001.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de noviembre de 1999.
 
@@ -280,15 +280,19 @@ Los concesionarios y permisionarios estarán obligados a capacitar en materia de
 
 ### CAPÍTULO I. DE LAS LICENCIAS Y PERMISOS DE CONDUCIR
 
+> <small>(REFORMADO, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 22.
 
-Para conducir vehículos en el Distrito Federal se requiere licencia o permiso vigente, expedido por la Secretaría por sí, o por medio de las Delegaciones, Entidades Federativas, Dependencias Federales o del extranjero que autorice la conducción específica del vehículo de que se trata, independientemente del lugar en el que se haya expedido la placa de matrícula del vehículo y de conformidad con la clasificación a que se refiere el artículo 3° del presente Reglamento.
+Para conducir vehículos en el Distrito Federal se requiere licencia o permiso vigente, expedidos en las Delegaciones, por la Secretaría, o en su caso, expedidos por las Entidades Federativas, Dependencias Federales o por autoridad de otro país, que autorice la conducción específica de vehículo de que se trata, independientemente del lugar en que se haya expedido la placa de matrícula del vehículo y de conformidad con la clasificación a que se refiere el artículo 3° del presente Reglamento.
 
 ###### ARTÍCULO 23.
 
 Las licencias de conducir expedidas por la Secretaría serán de los tipos siguientes y tendrán la vigencia que a continuación se señala:
 
-I. Tipo A, con vigencia de 1 a 5 años y válida para conducir automotores clasificados como de transporte particular de pasajeros que no tengan más de 12 plazas, o de carga particular, cuyo peso máximo autorizado no exceda de 3.5 toneladas;
+> <small>(REFORMADA, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
+
+I. Tipo A, con vigencia de 1 a 5 años válida para conducir automotores clasificados como transporte particular de pasajeros que no tengan más de 12 plazas, o de carga particular, cuyo peso máximo autorizado no exceda de 3.5 toneladas; esta licencia ampara también la conducción de los vehículos que requieren licencia tipo D;
 
 II. Tipo B, con vigencia de 1 año y válida para conducir taxis, microbuses, patrullas, ambulancias y automotores de carga pública cuyo peso no exceda de 3.5 toneladas;
 
@@ -306,13 +310,13 @@ Para obtener por primera vez licencia de conducir tipo A o D, previo el pago de 
 
 I. Acreditar su identidad y mayoría de edad, mediante la presentación de cualquier documento oficial vigente;
 
-II. Saber leer y escribir;
+> <small>(REFORMADA, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
 
-III. Aprobar el examen teórico-práctico que al efecto aplique la Secretaría por sí o a través de quien ésta autorice;
+II. En el caso de extranjeros, acreditar su legal estancia en el país, mediante la presentación del documento migratorio vigente expedido por la autoridad competente; no se otorgará licencia a extranjeros con calidad de turista;
 
-IV. En el caso de extranjeros, acreditar su legal estancia en el país, mediante la presentación del documento migratorio vigente expedido por la autoridad competente;
+> <small>(REFORMADA, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
 
-V. Comprobante de domicilio que podrá ser cualquiera de los documentos siguientes:
+III. Comprobante de domicilio que podrá ser cualquiera de los documentos siguientes:
 
 a) Credencial para votar con fotografía;
 
@@ -326,7 +330,13 @@ e) Recibo de compañías de luz o teléfono.
 
 Los documentos señalados en los incisos d) y e), deberán referirse a una antigüedad no mayor de tres meses.
 
-VI. Declarar bajo protesta de decir verdad que se encuentra físicamente apto para la conducción del tipo de vehículo conforme la licencia solicitada, o que, en su defecto cuenta con los aditamentos necesarios para conducir dicho vehículo.
+> <small>(REFORMADA, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
+
+IV. Declarar bajo protesta de decir verdad que sabe leer y escribir, y que tiene capacidad física y mental para conducir el vehículo conforme a la licencia solicitada, o que, en su defecto cuenta con los aditamentos necesarios para conducir dicho vehículo.
+
+V. (DEROGADA, G.O. 4 DE SEPTIEMBRE DE 2001)
+
+VI. (DEROGADA, G.O. 4 DE SEPTIEMBRE DE 2001)
 
 ###### ARTÍCULO 25.
 
@@ -334,33 +344,47 @@ Para obtener por primera vez licencia de conducir tipo B o C, previo pago de los
 
 I. Tratándose de licencia tipo B, acreditar:
 
-a) Tres años como titular de licencia de conducir tipo A;
+> <small>(REFORMADO, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
 
-b) La aprobación del curso de capacitación que autoriza la Secretaría;
+a) Tres años como titular de licencia de conducir tipo A; en el Distrito Federal, o su equivalente en cualquier entidad federativa, o en el extranjero;
+
+> <small>(REFORMADO, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
+
+b) La aprobación del curso de capacitación que autoriza la Secretaría en la modalidad de licencia tarjetón;
 
 > <small>(F. DE E., G.O. 2 DE DICIEMBRE DE 1999)</small>
 
 c) La aprobación de los exámenes psicométricos y de no ingestión de sustancias enervantes o psicotrópicas, en la modalidad de licencia-tarjetón;
 
-d) Su domicilio actual con licencia para conducir vigente o en términos de la fracción V del artículo 24, y
+> <small>(REFORMADO, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
 
-e) El no adeudo de infracciones, con el documento respectivo.
+d) Su domicilio actual con licencia para conducir vigente o en términos de la fracción III del artículo 24, y
+
+e) (DEROGADO, G.O. 4 DE SEPTIEMBRE DE 2001)
 
 II. Tratándose de licencia tipo C, acreditar:
 
-a) Cinco años como titular de licencia de conducir tipo A, o tres años de una tipo B;
+> <small>(REFORMADO, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
 
-b) La aprobación del curso de capacitación que autoriza la Secretaría.
+a) Cinco años como titular de licencia de conducir tipo A, o tres años de una tipo B en el Distrito Federal, o su equivalente en cualquier entidad federativa o en el extranjero;
+
+> <small>(REFORMADO, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
+
+b) La aprobación del curso de capacitación que autoriza la Secretaría en la modalidad de licencia tarjetón;
 
 > <small>(F. DE E., G.O. 2 DE DICIEMBRE DE 1999)</small>
 
 c) La aprobación de los exámenes psicométricos y de no ingestión de sustancias enervantes o psicotrópicas, en la modalidad de licencia-tarjetón;
 
-d) Su domicilio actual con licencia para conducir vigente o en términos de la fracción V del artículo 24, y
+> <small>(REFORMADO, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
 
-e) El no adeudo de infracciones, a través de los mecanismos de control que se establezcan.
+d) Su domicilio actual con licencia para conducir vigente o en términos de la fracción III del artículo 24, y
 
-En todos los casos el interesado deberá, además de lo establecido en cada fracción, declarar bajo protesta de decir verdad que se encuentra físicamente apto para la conducción del tipo de vehículo conforme la licencia solicitada, o que en su defecto, cuente con los aditamentos necesarios para conducir dicho vehículo.
+e) (DEROGADO, G.O. 4 DE SEPTIEMBRE DE 2001)
+
+> <small>(REFORMADO, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
+
+El interesado deberá, declarar bajo protesta de decir verdad que sabe leer y escribir, y que tiene capacidad física y mental para conducir el vehículo conforme a la licencia solicitada, o que en su defecto, cuenta con los aditamentos necesarios para conducir dicho vehículo.
 
 ###### ARTÍCULO 26.
 
@@ -368,7 +392,9 @@ Procederá la reposición de una licencia o permiso para conducir en el caso de 
 
 Para solicitar la reposición será necesario llenar los formatos que al efecto expida la Secretaría, además de presentar los documentos siguientes:
 
-I. El comprobante del pago de los derechos correspondientes en la Tesorería del Distrito Federal; y
+> <small>(REFORMADA, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
+
+I. El comprobante de pago de los derechos establecidos en el Código Financiero del Distrito Federal.
 
 II. Identificación oficial.
 
@@ -384,35 +410,37 @@ a) Realizar el trámite en las oficinas de expedición de licencias. En cuyo cas
 
 2) El comprobante de pago de los derechos establecidos en el Código Financiero del Distrito Federal; y
 
-3) El comprobante de no adeudo de infracciones.
+3) (DEROGADO, G.O. 4 DE SEPTIEMBRE DE 2001)
 
-b) Realizar el trámite por vía postal. En cuyo caso se procederá de la manera siguiente:
+b) (DEROGADO, G.O. 4 DE SEPTIEMBRE DE 2001)
 
-1) La Secretaría le remitirá el formato de renovación correspondiente, señalando el monto a pagar por concepto de derechos de renovación y, en su caso, el importe de las multas cuyo pago se encuentre insoluto, y
+> <small>(REFORMADO, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
 
-2) El titular, por la misma vía, remitirá el formato requisitado acompañándolo con el comprobante de pago de los derechos correspondientes y, en su caso, el de las multas.
-
-En cualesquiera de las operaciones, si ha cambiado de domicilio deberá acreditarlo en los términos de la fracción V del artículo 24.
+En el supuesto de cambio de domicilio, el interesado deberá acreditarlo en los términos de la fracción III del artículo 24.
 
 II. Tratándose de licencia tipo B o C, el trámite se efectuará en las oficinas de expedición de licencias y se presentará:
 
 a) La licencia anterior;
 
-b) El certificado de haber acreditado los cursos de capacitación que para el efecto autoriza la Secretaría;
+> <small>(REFORMADO, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
+
+b) El certificado de haber acreditado los cursos de capacitación que para el efecto autoriza la Secretaría en la modalidad de licencia-tarjetón;
 
 c) El comprobante de pago de los derechos establecidos en el Código Financiero del Distrito Federal, y
 
-d) El comprobante de no adeudo de infracciones.
+d) (DEROGADO, G.O. 4 DE SEPTIEMBRE DE 2001)
 
 ###### ARTÍCULO 28.
 
-En los casos de renovación vía postal, la copia del recibo de pago correspondiente equivale a una licencia provisional, con vigencia de 45 días naturales, contados a partir de la fecha de pago.
+(DEROGADO, G.O. 4 DE SEPTIEMBRE DE 2001)
 
 ###### ARTÍCULO 29.
 
 Los menores de edad podrán conducir los vehículos automotores que requieran licencias tipo A o D, mediante permisos de conducir y con las restricciones que señala este Reglamento.
 
-El trámite para la obtención y reposición del permiso de conducir se realizará en las oficinas correspondientes de la Secretaría.
+> <small>(REFORMADO, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
+
+El trámite para la obtención y reposición del permiso de conducir se realizará en las oficinas delegacionales correspondientes.
 
 ###### ARTÍCULO 30.
 
@@ -424,19 +452,25 @@ a) Credencial vigente expedida por instituciones educativas, o certificados de e
 
 b) Acta de nacimiento o pasaporte vigente.
 
-II. Saber leer y escribir;
+> <small>(REFORMADA, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
 
-III. Aprobar el examen teórico-práctico que al efecto aplique la Secretaría por sí o a través de quién ésta autorice;
+II. En el caso de extranjeros, deberán acreditar su legal estancia en el país, mediante el documento migratorio vigente expedido por la autoridad competente; no se otorgará licencia a extranjeros con calidad de turista.
 
-IV. En el caso de extranjeros deberán acreditar su legal estancia en el país, mediante el documento migratorio vigente expedido por la autoridad competente.
+> <small>(REFORMADA, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
 
-V. Carta responsiva firmada por el padre, la madre o el tutor, quien deberá:
+III. Carta responsiva firmada por el padre, la madre o el tutor, quién deberá:
 
-a) Presentar identificación oficial vigente;
+a) Presentar identificación oficial;
 
-b) Acreditar domicilio actual, ya sea con licencia para conducir vigente o en términos de la fracción V del artículo 24, y
+b) Acreditar domicilio actual, ya sea con licencia para conducir vigente o en términos de la fracción III del artículo 24;
 
-c) Presentar certificado médico que acredite la salud del menor.
+c) Presentar certificado médico que acredite la salud del menor; y
+
+d) Declarar bajo protesta de decir verdad que el menor sabe leer y escribir, conoce el Reglamento de Tránsito y que tiene capacidad física y mental para conducir el vehículo conforme al permiso solicitado, o que, en su defecto cuenta con los aditamentos necesarios para conducir dicho vehículo.
+
+IV. (DEROGADA, G.O. 4 DE SEPTIEMBRE DE 2001)
+
+V. (DEROGADA, G.O. 4 DE SEPTIEMBRE DE 2001)
 
 La vigencia de los permisos de conducir se extinguirá al cumplir la mayoría de edad o al incurrir en alguna infracción al presente Reglamento.
 
@@ -456,11 +490,13 @@ IV. La licencia o permiso haya sido suspendido o cancelado.
 
 No se aplicará lo dispuesto por la fracción I del artículo que antecede a persona que padezca una incapacidad física, para la conducción segura de vehículos de motor, cuando, cuente con los dispositivos adecuados o aparatos para subsanar su incapacidad, o bien, si el vehículo que pretende conducir está provisto de mecanismos u otros medios auxiliares que, previa demostración ante la autoridad competente, le permitan conducir en forma segura, sin perjuicio de que se satisfagan, según corresponda, los requisitos que señalan los artículos 24, 26, 27, 30, 35 y 36 de este Reglamento.
 
+> <small>(REFORMADO, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 33.
 
-La Secretaría podrá suspender o cancelar la licencia o permiso de conducir en los términos de la Ley.
+La Secretaría podrá suspender o cancelar, la licencia de conducir en los términos de la Ley.
 
-Para los efectos de este artículo la reincidencia se da cuando se cometen dos infracciones ó más de la misma naturaleza en el plazo de un año, computado a partir de la comisión de la primera.
+La Secretaría podrá , extinguir o revocar el permiso de conducir en los términos de la Ley.
 
 ### CAPÍTULO II. DEL CONTROL VEHICULAR
 
@@ -468,17 +504,41 @@ Para los efectos de este artículo la reincidencia se da cuando se cometen dos i
 
 La Secretaría llevará el control vehicular de los trámites siguientes:
 
-I. Alta y baja de vehículos automotores nuevos y usados;
+> <small>(REFORMADA, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
 
-II. Reposición de tarjeta de circulación;
+I. Alta de vehículos nuevos, en el padrón vehicular.
 
-III. Reposición de calcomanía de circulación permanente y de placas de matricula;
+> <small>(REFORMADA, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
 
-IV. Cambio de propietario;
+II. Alta de vehículos usados, en el padrón vehicular provenientes de las entidades federativas, así como de procedencia extranjera; en estos últimos, la Secretaría antes de autorizar el trámite podrá realizar consultas ante las instancias competentes para corroborar la legal estancia en el país de los mismos.
 
-V. Permiso para transportar y circular sin placas de matrícula; y
+> <small>(REFORMADA, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
 
-VI. Permiso para traslado de vehículos;
+III. Baja de vehículos del padrón vehicular.
+
+> <small>(REFORMADA, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
+
+IV. Reposición de tarjeta de circulación.
+
+> <small>(REFORMADA, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
+
+V. Reposición de calcomanía de circulación permanente y de placas de matrícula.
+
+> <small>(REFORMADA, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
+
+VI. Cambio de propietario, domicilio o motor.
+
+> <small>(ADICIONADA, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
+
+VII. Permiso para circular sin placas, tarjeta de circulación ó calcomanía de circulación permanente.
+
+> <small>(ADICIONADA, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
+
+VIII. Permisos para traslado de vehículos.
+
+> <small>(ADICIONADA, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
+
+IX. Permisos para carga ocasional.
 
 ###### ARTÍCULO 35.
 
@@ -572,13 +632,15 @@ XIII. Vehículos antiguos;
 
 XIV. Vehículos de discapacitados.
 
+> <small>(REFORMADO, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 38.
 
-La dimensión y características de las placas de matrícula de los vehículos, bicicletas adaptadas, bicimotos, triciclos automotores, tetramotos, motonetas y motocicletas, serán las que especifique la Norma Oficial Mexicana respectiva.
+La dimensión y características de las placas de matrícula de los vehículos, bicimotos, triciclos automotores, tetramotos, motonetas y motocicletas, serán las que especifique la Norma Oficial Mexicana respectiva.
 
-Ninguno de todos los vehículos que se señalan en el párrafo que antecede podrá circular sin una o ambas placas de matrícula o el permiso provisional correspondiente.
+Ninguno de los vehículos que se señalan en el párrafo que antecede podrá circular sin una o ambas placas de matrícula o el permiso provisional correspondiente; salvo los vehículos que sean dados de alta y aún no cuenten con nuevas placas de matrícula; para lo cual se debe observar lo establecido en el artículo siguiente.
 
-Los remolques, semirremolques, bicicletas adaptadas, bicimotos, triciclos automotores, tetramotos, motonetas y motocicletas sólo requerirán de una placa de matrícula para su tránsito, que se colocará en la parte posterior.
+Los remolques, semirremolques, bicimotos, triciclos automotores, tetramotos, motonetas y motocicletas sólo requerirán de una placa de matrícula para su tránsito, que se colocará en la parte posterior.
 
 ###### ARTÍCULO 39.
 
@@ -628,29 +690,41 @@ XII. En el caso de vehículos de transporte de carga particular, duración del p
 
 La tarjeta de circulación deberá portarse obligatoriamente en el vehículo a que ésta se refiera.
 
+> <small>(REFORMADO, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 41.
 
-Las placas de matrícula, la tarjeta de circulación y la calcomanía serán entregadas en uso y custodia al interesado el mismo día en que se realice el trámite de solicitud de alta del vehículo, salvo para los vehículos emplacados en otras Entidades Federativas, las que serán entregadas en un plazo no mayor de 30 días naturales a partir de la fecha de inicio de dicho trámite. El plazo concedido para el uso y custodia de las placas de matrícula, tarjeta de circulación y calcomanía, será el que establezcan las disposiciones jurídicas aplicables.
+Las placas de matrícula, la tarjeta de circulación y la calcomanía serán entregadas en uso y custodia al interesado en un plazo de hasta 45 días hábiles, para lo cual, el mismo día en que se realice el trámite de solicitud de alta del vehículo en el padrón vehicular, se entregará una constancia de alta vehicular, con la que se podrá circular, debiéndose adherir en un lugar visible del vehículo para su identificación.
+
+En el caso de vehículos emplacados en otras entidades federativas, se podrá añadir para la correspondiente entrega un plazo no mayor de 45 días hábiles más a los primeros, a partir de la fecha de inicio de dicho trámite. El plazo concedido para el uso y custodia de las placas de matrícula, tarjeta de circulación y calcomanía, será el que establezcan las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 42.
 
-En caso de deterioro, mutilación, extravío o robo de la tarjeta de circulación, el propietario del vehículo deberá solicitar a la Secretaría su reposición, previo pago de los derechos establecidos en el Código Financiero del Distrito Federal. Asimismo deberá dar aviso a control vehicular y devolver la tarjeta mutilada o deteriorada.
+En caso de deterioro, mutilación, estravío o robo de la tarjeta de circulación, el propietario del vehículo deberá solicitar a la Secretaría su reposición previo pago de los derechos establecidos en el Código Financiero del Distrito Federal. Asimismo, deberá dar aviso a la Secretaría y devolver la tarjeta mutilada o deteriorada.
 
-En caso de deterioro o mutilación de las placas de matrícula o calcomanía de circulación, el propietario del vehículo deberá solicitar a la Secretaría la baja de las placas de matrícula del vehículo correspondiente y el alta al vehículo en cuestión para que le sean asignadas nuevas placas, engomado y tarjeta de circulación. Al efecto deberá dar aviso a control vehicular y devolver las placas de matrícula deterioradas o mutiladas.
+En caso de deterioro o mutilación de las placas de matrícula o calcomanía de circulación, el propietario del vehículo deberá solicitar a la Secretaría, previo pago de los derechos establecidos en el Código Financiero, la reposición de las placas de matrícula del vehículo correspondiente, para que le sean entregadas nuevas placas y/o calcomanía de circulación. Al efecto, deberá dar aviso a la Secretaría y devolver las placas de matrícula deterioradas o mutiladas.
 
-Para los casos de robo o extravío de la tarjeta de circulación, placas de matrícula o de calcomanía de circulación, el propietario del vehículo deberá además, exhibir ante la Secretaría, copia certificada del acta de denuncia iniciada al efecto por el Ministerio Público correspondiente. Asimismo, en caso de robo o extravío de una sola de las placas de matrícula, se deberá devolver la placa restante.
+Para los casos de robo o extravío de la tarjeta de circulación, placas de matrícula o de calcomanía de circulación, el propietario del vehículo deberá además, exhibir ante la Secretaría, copia certificada del acta de denuncia realizada ante el Ministerio Público.
+
+En cualquiera de los anteriores supuestos, los vehículos podrán circular con la autorización proporcionada por la autoridad, misma que se colocará en lugar visible del mismo, en tanto reciba las placas de reposición.
 
 ###### ARTÍCULO 43.
 
 La Secretaría podrá otorgar permisos para circular temporalmente sin placas de matrícula o tarjeta de circulación o calcomanía cuando:
 
-I. Se adquiera un vehículo sin matricular o sin carrocería;
+> <small>(REFORMADA, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
 
-II. Suceda el robo o extravío de las placas de matrícula registradas, y
+I. Se adquiera un vehículo nuevo sin matricular o sin carrocería, o bien un automóvil usado, previamente dado de baja del padrón vehicular del Distrito Federal, la vigencia del permiso en este caso será por 30 o 60 días naturales.
 
-III. Suceda el robo o extravío de tarjeta de circulación o calcomanía.
+> <small>(REFORMADA, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
 
-Este permiso autorizará la circulación de vehículos hasta en tanto se entrega o se reponen las placas de matrícula, la tarjeta de circulación o la calcomanía o venza su vigencia máxima de sesenta días naturales.
+II. Cuando sea necesario trasladar a otra entidad federativa vehículos que anteriormente prestaban servicio de carga y/o pasajeros en sus distintas modalidades y que hayan sido dados de baja del padrón vehicular del Distrito Federal; en este caso la vigencia del permiso será por 15 días naturales.
+
+III. (DEROGADA, G.O. 4 DE SEPTIEMBRE DE 2001)
+
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 44.
 
@@ -662,9 +736,11 @@ Para realizar cualquier trámite relativo al Control Vehicular, los propietarios
 
 El refrendo de la vigencia de las placas de matrícula de los vehículos de transporte público de pasajeros y de transporte de carga, se hará en los lugares y fechas que señale la Secretaría, previo el pago de los derechos establecidos en el Código Financiero del Distrito Federal.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 46.
 
-Para que el propietario de un vehículo que transfiera su propiedad a otra persona física o moral quede liberado de cualquier responsabilidad, deberá notificarlo en cualquier oficina de control vehicular de la Secretaría mediante formato que al efecto se proporcione dentro de los 15 días hábiles siguientes a la fecha de la transferencia, a efecto de que el movimiento sea registrado en el control vehicular.
+Para que el propietario de un vehículo que transfiera su propiedad a otra persona física o moral quede liberado de cualquier responsabilidad, deberá notificarlo a la Secretaría mediante formato que al efecto se proporcione dentro de los 15 días hábiles siguientes a la fecha de la transferencia, a efecto de que el movimiento sea registrado en el padrón de control vehicular administrativo y fiscal.
 
 Dentro de los 60 días que sigan a la adquisición del vehículo, el adquirente deberá efectuar el trámite de cambio de propietario, a fin de que se le entregue su tarjeta de circulación actualizada.
 
@@ -1419,3 +1495,13 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan las demás disposiciones que se opongan al presente.
 
 TERCERO.- La clasificación de placas de matricula contenida en el artículo 37 de este Reglamento, entrará en vigor el mismo día en que lo haga el instrumento jurídico que establezca el programa de reemplacamiento correspondiente de la Secretaría de Transportes y Vialidad, hasta en tanto continuará vigente el artículo 30 del Reglamento de Tránsito del 21 de noviembre de 1997.
+
+G.O. 4 DE SEPTIEMBRE DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor el 14 de septiembre de 2001.
+
+SEGUNDO. - Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- La reposición de placas de matrícula de servicio particular de pasajeros que se menciona en el artículo 44, únicamente es para aquellas que están fabricadas con la norma oficial mexicana NOM-001-SCT-2-2000, las matrículas de servicio particular de pasajeros fabricadas con las Normas anteriores que por alguna razón sus propietarios soliciten su reposición, deberán pagar los derechos correspondientes por este concepto y se expedirá una autorización para circular, que tendrá vigencia hasta el momento que reciba las placas con las características que marca la Norma Oficial vigente.
+
+CUARTO.- Se derogan las demás disposiciones que se opongan al presente.
