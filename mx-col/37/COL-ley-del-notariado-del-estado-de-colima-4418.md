@@ -4,7 +4,7 @@ identifier: "COL-ley-del-notariado-del-estado-de-colima-4418"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-04"
-last_updated: "1965-07-10"
+last_updated: "1965-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL NOTARIADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1965.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, los días 4, 11, 18 y 25 de enero de 1964.
 
@@ -267,7 +267,11 @@ IV.- Las copias certificadas que expidan de documentos que se les presenten y lo
 
 V.- Las notas que deben poner al calce o al margen de otros instrumentos públicos en los casos de cancelación, venta, adjudicación y cualquier otro en que sean necesarias; y,
 
-VI.- Las certificaciones sobre autenticidad de firmas y ratificación de contratos y documentos privados.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 1965)</small>
+
+VI.- Las certificaciones sobre autenticidad de firmas y ratificaciones de contratos y documentos privados.
+
+Además, no podrán certificar ninguna escritura privada de compraventa si no les es presentado previamente por los interesados, el Certificado de Libertad de Gravámenes que se expida por diez años anteriores a la fecha, en cada caso, en relación con el inmueble materia de la compraventa, debiendo hacer mención de dicho certificado al asentar la certificación respectiva.
 
 En los casos de las fracciones I y II, se dejará razón en el protocolo, bajo el número que le corresponda, de haberse autorizado el acto, expresando la naturaleza del mismo, las personas que en él intervinieron y además circunstancias, que lo identifiquen.- En los casos de las fracciones III y VII, se dejará razón de la autorización o de la certificación; en el Libro de Registro, en los términos del artículo 42.- La autorización o certificación se hará constar mediante acta que se extienda al calce de los mismo documentos, la que deberán firmar los otorgantes, expresándose además el número de la toma de razón.- La falta de cumplimientos de estos requisitos, producirá la nulidad de tales certificaciones y el Notario quedará sujeto a las responsabilidades consiguientes.
 
@@ -744,3 +748,7 @@ P.O. 10 DE JULIO DE 1965.
 ###### ARTICULO UNICO.
 
 Este decreto empezará a surtir sus efectos a partir del día 1o. de agosto del presente año.
+
+P.O. 21 DE AGOSTO DE 1965.
+
+Este Decreto surtirá sus efectos a partir del día 11 de Septiembre próximo.
