@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-tutelar-para-menores-en-el-estado-de-zacatecas-8215"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-04-26"
-last_updated: "2000-03-29"
+last_updated: "2004-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO TUTELAR PARA MENORES EN EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2004.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 26 de abril de 1986.
 
@@ -135,23 +135,23 @@ En materia presupuestal y administrativa, el Consejo Tutelar para Menores y sus 
 
 DE LA ORGANIZACION Y ATRIBUCIONES DEL CONSEJO TUTELAR.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 12.
 
 El Consejo Tutelar para Menores para el Estado de Zacatecas, se integrará con tres miembros:
 
-I.- Un Presidente, que deberá tener Título de Licenciado en Derecho.
+I.- Un Presidente;
 
-II.- Dos Consejeros:
+II.- Dos Consejero;
 
-A).- Un médico y
-
-B).- Un Profesor Normalista.
-
-Uno de los Consejeros deberá ser necesariamente mujer.
-
-III.- Un Secretario de Acuerdos;
+III.- Un Secretario de Acuerdos, que deberá tener Título de Licenciado en Derecho; y
 
 IV.- El personal técnico y administrativo que autorice el presupuesto.
+
+El Presidente y los Consejeros, deberán tener título de licenciatura en alguna de las ramas de las ciencias del derecho, de la salud, de pedagogía, o especialidad en ciencias sociales o humanistas.
+
+Por lo menos uno de los Consejeros deberá ser del sexo femenino.
 
 ###### ARTICULO 13.
 
@@ -908,3 +908,7 @@ SEXTO.- El presupuesto de Egresos del Estado para el ejercicio fiscal de 1998, c
 P.O. 29 DE MARZO DE 2000
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
