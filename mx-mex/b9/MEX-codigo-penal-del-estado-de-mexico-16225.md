@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2000-03-20"
+last_updated: "2000-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2000.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -49,7 +49,9 @@ CODIGO PENAL DEL ESTADO DE MEXICO
 
 Este código se aplicará en el Estado de México, en los casos que sean de la competencia de sus tribunales:
 
-I. Por los delitos cuya ejecución se inicie y consume en el territorio del estado;
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
+I. Por los delitos cuya ejecución se inicie o consume en el territorio del estado;
 
 II. Por los delitos cuya ejecución se inicie fuera del territorio del estado, si se consuman dentro del mismo; y
 
@@ -125,9 +127,11 @@ Es continuado, cuando existe unidad de propósito delictivo, pluralidad de condu
 
 ### CAPITULO II. LOS DELITOS GRAVES
 
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 9.
 
-Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V, X y 137 fracción II; el de peculado señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros señalado en el artículo 148 párrafo segundo; el de encubrimiento previsto en el artículo 152 párrafo segundo; el de falso testimonio contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos previsto en el artículo 170 fracción II; el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones prevista en el artículo 176 penúltimo párrafo; la delincuencia organizada, prevista en el artículo 178; los cometidos por fraccionadores, señalados en el artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el de corrupción de menores, señalado en los artículos 205 tercer párrafo y 208; el de lenocinio y trata de personas, previstos en los artículos 209 y 210; el tráfico de menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el deterioro de área natural protegida, previsto en artículo 230; el de lesiones que señala el artículo 238 fracción V; el de homicidio, contenido en el artículo 241; el delito de peligro de contagio previsto en el artículo 252 último párrafo; el de secuestro, señalado por el artículo 259, excepto el último párrafo; el de privación de la libertad de infante, previsto en el artículo 262 primer párrafo; la extorsión contenida en el último párrafo del artículo 266; el asalto a una población a que se refiere el artículo 267; el de violación, señalado por los artículos 273 y 274; el de robo, contenido en los artículos 289 fracción V, 290 fracciones I, II, III, IV, V y último párrafo y 292; el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV; el de fraude a que se refieren los artículos 306 fracción VIII y 307 fracción V; el de despojo a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto; y el de daño en los bienes, señalado por el artículo 311; y, en su caso, su comisión en grado de tentativa como lo establece este código, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
+Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V, X y 137 fracción II; el de peculado señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros señalado en el artículo 148 párrafo segundo; el de encubrimiento previsto en el artículo 152 párrafo segundo; el de falso testimonio contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos previsto en el artículo 170 fracción II; el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones prevista en el artículo 176 penúltimo párrafo; la delincuencia organizada, prevista en el artículo 178; los cometidos por fraccionadores, señalados en el artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el de corrupción de menores, señalado en los artículos 205 tercer párrafo y 208; el de lenocinio y trata de personas, previstos en los artículos 209 y 210; el tráfico de menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el deterioro de área natural protegida, previsto en artículo 230; el de lesiones que señala el artículo 238 fracción V; el de homicidio, contenido en el artículo 241; el delito de peligro de contagio previsto en el artículo 252 último párrafo; el de secuestro, señalado por el artículo 259, excepto el último párrafo; el de privación de la libertad de infante, previsto en el artículo 262 primer párrafo; la extorsión contenida en el último párrafo del artículo 266; el asalto a una población a que se refiere el artículo 267; el de violación, señalado por los artículos 273 y 274; el de robo, contenido en los artículos 289 fracción V, 290 fracciones I, II, III, IV, V y último párrafo y 292; el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV; el de fraude a que se refieren los artículos 306 fracción VIII y 307 fracción V; el de despojo a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto; y el de daño en los bienes, señalado por el artículo 311; y, en su caso, su comisión en grado de tentativa como lo establece este código, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
 
 ### CAPITULO III. TENTATIVA DEL DELITO
 
@@ -193,7 +197,9 @@ Son causas que excluyen el delito y la responsabilidad penal:
 
 I. La ausencia de conducta, cuando el hecho se realice sin la intervención de la voluntad del agente por una fuerza física exterior irresistible;
 
-II. Cuando falte algunos de los elementos del cuerpo del delito de que se trate;
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
+II. Cuando falte alguno de los elementos del cuerpo del delito de que se trate;
 
 III. Las causas permisivas, como:
 
@@ -441,11 +447,11 @@ Los objetos de uso lícito con que se cometa el delito y sean propiedad del incu
 
 ### CAPITULO IV. TRABAJO EN FAVOR DE LA COMUNIDAD
 
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 39.
 
 El trabajo en favor de la comunidad consiste en la prestación de servicios no remunerados, preferentemente en instituciones públicas educativas y de asistencia social o en instituciones privadas asistenciales y se desarrollará en forma que no resulte denigrante para el sentenciado, en jornadas de trabajo dentro de los períodos distintos al horario normal de sus labores, sin que exceda de la jornada extraordinaria que determine la ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora.
-
-Tratándose de delitos graves, el órgano jurisdiccional deberá imponer independientemente de la pena o medios de seguridad que procedan, necesariamente trabajo a favor de la comunidad, consistente en el mantenimiento de los edificios que sirven de rehabilitación, por el mismo tiempo de su sanción, laborando un mínimo de tres horas diarias, bajo la supervisión de la autoridad ejecutora.
 
 ### CAPITULO V. SUSPENSION DE FUNCIONES, DESTITUCION, INHABILITACION O PRIVACION DE EMPLEOS, CARGOS O COMISIONES
 
@@ -501,7 +507,9 @@ Quienes concurran con las personas que estuvieran bajo su patria potestad, tutel
 
 La publicación especial de sentencia consiste en la inserción total o parcial de ella hasta en dos periódicos de mayor circulación en la localidad. El juez escogerá los periódicos y resolverá la forma en que debe hacerse la publicación.
 
-La publicación de sentencia se hará a costa del inculpado, del ofendido o del Estado a petición de cualquiera de ellos, si el órgano jurisdiccional lo estima procedente.
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
+La publicación de sentencia se hará a costa del sentenciado, del ofendido o del Estado a petición de cualquiera de ellos, si el órgano jurisdiccional lo estima procedente.
 
 La publicación de sentencia podrá ordenarse igualmente a petición del sentenciado cuando éste fuere absuelto, el hecho imputado no constituya delito o aquél no lo hubiere cometido.
 
@@ -547,7 +555,9 @@ II. La que se podrá imponer, discrecionalmente, a los responsables de delitos d
 
 En el primer caso, la duración de la vigilancia será señalada en la sentencia.
 
-En el segundo, la vigilancia comenzará a partir del momento en que el inculpado extinga la pena de prisión y no podrá exceder de un lapso de cinco años.
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
+En el segundo, la vigilancia comenzará a partir del momento en que el sentenciado extinga la pena de prisión y no podrá exceder de un lapso de cinco años.
 
 ### CAPITULO XIII. TRATAMIENTO DE INIMPUTABLES
 
@@ -591,7 +601,7 @@ El órgano jurisdiccional, al dictar sentencia, fijará la pena que estime justa
 
 I. La naturaleza de la acción u omisión y de los medios empleados para ejecutarla;
 
-> <small>(F. DE E., G.G. 3 DE ABRIL DE 2000)</small>
+> <small>(F. DE E., G.G . 3 DE ABRIL DE 2000)</small>
 
 II. La magnitud del daño causado al bien jurídico y del peligro a que hubiere sido expuesto el ofendido;
 
@@ -643,9 +653,23 @@ A los inculpados del delito en grado de tentativa, se les aplicarán de uno a do
 
 Los delitos culposos serán castigados con prisión de seis meses a diez años, de treinta a noventa días multa y suspensión hasta por cinco años, o privación definitiva de derechos para ejercer profesión u oficio, cuando el delito se haya cometido por infracción de las reglas aconsejadas por la ciencia, arte o disposiciones legales que norman su ejercicio.
 
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 61.
 
-Cuando el delito culposo se cometa en la conducción de vehículo de motor de transporte al público, oficial, de personal o escolar y se cause el homicidio de una o más personas, la pena será de cinco a veinte años de prisión y de cincuenta a trescientos días multa y suspensión del derecho para conducir vehículos de motor de tres a doce años o privación definitiva de este derecho. En caso de reincidencia se le privará definitivamente de este derecho.
+Cuando el delito culposo se cometa con motivo de la conducción de vehículo de motor de transporte público, de personal o escolar y se cause el homicidio de una persona, la pena será de tres a doce años de prisión y de cincuenta a doscientos días multa y suspensión del derecho para conducir vehículos de motor de tres a doce años o privación definitiva de este derecho. En caso de reincidencia se le privará definitivamente de este derecho.
+
+Se considerará como grave cuando en la comisión de este delito el conductor incurra en cualquiera de las siguientes circunstancias:
+
+I. Se encuentre con aliento alcohólico o estado de ebriedad;
+
+II. Se encuentre bajo el influjo de drogas, enervantes o psicotrópicos;
+
+III. Abandone a la víctima o no le preste auxilio;
+
+IV. No cuente con la licencia o el permiso de conductor respectivo; y
+
+V. Cause lesiones a más de tres personas, de las que requieran hospitalización o pongan en peligro la vida o se cause la muerte de dos o más personas.
 
 ###### Artículo 62.
 
@@ -763,21 +787,27 @@ VIII. No residir en el lugar en que se cometió el delito por un término igual 
 
 La infracción a cualquiera de estas obligaciones será motivo de revocación de la suspensión condicional de la pena.
 
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 75.
 
-Para lograr el cumplimiento de todas estas obligaciones, el beneficiado con la suspensión condicional otorgará ante el Juez una fianza que éste o la sala del Tribunal Superior de Justicia señalarán tomando en consideración las posibilidades económicas del inculpado, la pena impuesta, la naturaleza del delito y las circunstancias de su comisión. La fianza podrá ser sustituida parcial o totalmente por trabajo en favor de la comunidad.
+Para lograr el cumplimiento de todas estas obligaciones, el beneficiado con la suspensión condicional otorgará ante el órgano jurisdiccional una fianza que éste señalará tomando en consideración las posibilidades económicas del inculpado, la pena impuesta, la naturaleza del delito y las circunstancias de su comisión. La fianza podrá ser sustituida parcial o totalmente por trabajo en favor de la comunidad.
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 76.
 
-A los inculpados a quienes se conceda el beneficio de la suspensión condicional, se les harán saber las obligaciones que adquieren en los términos del artículo 73, lo que se asentará en diligencia formal, sin que la falta de ésta impida en su caso, la aplicación de lo previsto en el artículo 74.
+A los sentenciados a quienes se conceda el beneficio de la suspensión condicional, se les harán saber las obligaciones que adquieren en los términos del artículo 73, lo que se asentará en diligencia formal, sin que la falta de ésta impida en su caso, la aplicación de lo previsto en el artículo 74.
 
 ###### Artículo 77.
 
 El beneficiado debe cumplir durante el término de suspensión con las demás condiciones que la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad señale.
 
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 78.
 
-Si transcurrido el término de suspensión el inculpado no ha cometido un nuevo delito se extinguirá la pena suspendida y, en caso contrario, se ejecutará.
+Si transcurrido el término de suspensión el sentenciado no ha cometido un nuevo delito se extinguirá la pena suspendida y, en caso contrario, se ejecutará.
 
 ### CAPITULO X. EJECUCION DE PENAS
 
@@ -785,11 +815,13 @@ Si transcurrido el término de suspensión el inculpado no ha cometido un nuevo 
 
 El órgano jurisdiccional, al pronunciar sentencia, podrá recomendar al ejecutivo del Estado la remisión de la pena, si concurren las siguientes circunstancias:
 
-I. Que el inculpado haya obrado por motivos excepcionales, o que considere el juez que no es necesaria la pena por las circunstancias particulares del caso;
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
+I. Que el sentenciado haya obrado por motivos excepcionales, o que considere el órgano jurisdiccional que no es necesaria la pena por las circunstancias particulares del caso;
 
 II. Que no revele peligrosidad; y
 
-III. Que no se trate de delito grave.
+III. (DEROGADA, G.G. 1 DE SEPTIEMBRE DE 2000)
 
 La remisión de la pena no exime de la obligación de reparar el daño.
 
@@ -861,13 +893,15 @@ El indultado no podrá habitar en el mismo lugar que el ofendido, su cónyuge, a
 
 ### CAPITULO X. REHABILITACION
 
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 91.
 
 El perdón del ofendido extingue la pretensión punitiva respecto de los delitos que se persiguen por querella necesaria, siempre que sea otorgado antes de que se dicte sentencia en primera instancia. Otorgado el perdón y no habiendo oposición a él no podrá revocarse.
 
-> <small>(F. DE E., G.G. 3 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
-El perdón puede ser otorgado por el ofendido o por su representante legal si aquél fuese menor de edad o estuviere incapacitado; pero el juez, en este último caso deberá, a su prudente arbitrio, conceder o no eficacia al otorgado por el representante y en caso de no aceptarlo, seguir la causa; tratándose de delitos dolosos cometidos en agravio de menores, no procederá el perdón.
+El perdón puede ser otorgado por el ofendido o por su representante legal si aquél fuese menor de edad o estuviera incapacitado; pero el órgano jurisdiccional, en este último caso deberá, a su prudente arbitrio, conceder o no eficacia al otorgado por el representante y en caso de no aceptarlo, seguir la causa.
 
 El perdón concedido a uno de los inculpados se extenderá a todos los demás. Igualmente se extenderá al encubridor.
 
@@ -883,7 +917,7 @@ La sentencia dictada en recurso de revisión extraordinaria, sólo en el caso de
 
 ###### Artículo 93.
 
-La rehabilitación tiene por objeto reintegrar al inculpado en el ejercicio de los derechos políticos, civiles o de familia que hubiere perdido o estuvieren en suspenso.
+La rehabilitación tiene por objeto reintegrar al sentenciado en el ejercicio de los derechos políticos, civiles o de familia que hubiere perdido o estuvieren en suspenso.
 
 ### CAPITULO XIII. PRESCRIPCION DE LAS PENAS
 
@@ -909,7 +943,9 @@ La pretensión punitiva del delito que se persigue de oficio o de querella, pres
 
 Si la pena asignada al delito no fue la de prisión, la pretensión punitiva prescribirá en dos años.
 
-Si se trata de delito grave o si el indiciado se sustrae de la justicia, el delito prescribirá en un término igual a la pena máxima del ilícito de que se trate.
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
+Si se trata de delito grave o si el inculpado se sustrae de la justicia, el delito prescribirá en un término igual a la pena máxima del ilícito de que se trate.
 
 ###### Artículo 98.
 
@@ -1649,7 +1685,7 @@ II. Se atribuya o acepte por cualquier medio el carácter de profesionista sin t
 
 Al responsable de este delito, se le impondrán de uno a cuatro años de prisión y de treinta a doscientos cincuenta días multa.
 
-Cuando el usurpador se atribuya en vías de hecho la condición de miembro de una corporación policiaca pública o privada sin serlo, la penalidad será de tres a ocho años de prisión y de cincuenta a trescientos cincuenta días multa.
+Cuando el usurpador se atribuya en vías de hecho la condición de miembro de una corporación policíaca pública o privada sin serlo, la penalidad será de tres a ocho años de prisión y de cincuenta a trescientos cincuenta días multa.
 
 Este delito se perseguirá de oficio.
 
@@ -1677,7 +1713,9 @@ A quienes participen habitual u ocasionalmente en una agrupación de tres o más
 
 ### CAPITULO III. BIGAMIA
 
-### CAPITULO IV. ABANDONO DE FAMILIARES
+### CAPITULO IV. INCUMPLIMIENTO DE OBLIGACIONES ALIMENTARIAS
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 179.
 
@@ -1733,9 +1771,11 @@ Al profesionista que con actos propios de su profesión o abusando de su activid
 
 Las penas señaladas en los artículos anteriores se impondrán sin perjuicio de las que correspondan por el delito cometido o por su participación en él.
 
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 185.
 
-A los propietarios, responsables, encargados, empleados o dependientes de una botica o farmacia, que al surtir una receta sustituyan por otra la medicina específicamente recetada, se les impondrán de seis meses a dos años de prisión y de cincuenta a setecientos días multa.
+A los propietarios, responsables, encargados, empleados o dependientes de una botica o farmacia, que al surtir una receta sustituyan por otra la medicina específicamente recetada, se les impondrán de seis meses a dos años de prisión y de cincuenta a setecientos días multa, salvo que se trate de los medicamentos genéricos intercambiables.
 
 ###### Artículo 186.
 
@@ -1943,6 +1983,8 @@ Al corruptor que trafique, consienta o permita el comercio carnal de menores de 
 
 ### CAPITULO I. PELIGRO DE CONTAGIO
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 209.
 
 Comete el delito de lenocinio:
@@ -2005,11 +2047,13 @@ A los testigos y a las personas que intervengan en la celebración del nuevo mat
 
 El término para la prescripción de la bigamia, empezará a correr desde que uno de los dos matrimonios haya quedado disuelto por la muerte de uno de los cónyuges, o que el segundo haya sido declarado nulo. El término de la prescripción del matrimonio ilegal empieza a correr desde la disolución del matrimonio o por la muerte de uno de los cónyuges.
 
+> <small>(REFORMADA SU DENOMINACION, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ### CAPITULO III. PRIVACION DE LA LIBERTAD DE INFANTE
 
 ###### Artículo 217.
 
-Comete este delito, el que se niegue por alguna causa imputable al acreedor alimenticio o el que sin motivo justificado abandone a sus ascendientes, descendientes, cónyuge, concubinarios o acreedor alimenticio sin recursos para atender sus necesidades de subsistencia, aun cuando éstos, con motivo del abandono, se vean obligados a allegarse por cualquier medio los recursos para satisfacer sus requerimientos indispensables. El delito se sancionará con prisión de dos a cinco años y de treinta a sesenta días multa.
+Comete este delito, el que sin motivo justificado abandone a sus descendientes, ascendientes, cónyuge, concubinarios o acreedor alimenticio sin recursos para atender sus necesidades de subsistencia, aun cuando estos, con motivo del abandono, se vean obligados a allegarse por cualquier medio los recursos para satisfacer sus requerimientos indispensables. El delito se sancionará con prisión de dos a cinco años y de treinta a setenta días multa.
 
 Este delito se perseguirá a petición del ofendido o del legítimo representante de los hijos y a falta de éste, la acción se iniciará por el Ministerio Público como representante legítimo de los menores. Para que el perdón concedido por el ofendido pueda extinguir la pretensión punitiva, deberá el inculpado pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos y garantizar el pago futuro de los mismos.
 
@@ -2273,6 +2317,10 @@ Las lesiones a que se refieren los artículos 237 fracciones I y II, se persegui
 
 Comete el delito de homicidio el que priva de la vida a otro.
 
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
+Se sancionará como homicidio a quien a sabiendas de que padece una enfermedad grave, incurable y mortal, contagie a otro o le cause la muerte.
+
 ###### Artículo 242.
 
 El delito de homicidio, se sancionará en los siguientes términos:
@@ -2389,9 +2437,11 @@ DELITOS DE PELIGRO CONTRA LAS PERSONAS
 
 A quien sabiendo que padece una enfermedad grave en período infectante, ponga en peligro de contagio a otro, por cualquier medio de transmisión, se le aplicará una pena de seis meses a dos años de prisión y de treinta a sesenta días multa.
 
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
 En este delito sólo se procederá por querella del ofendido.
 
-Si la enfermedad es mortal, la pena será igual a la del delito de homicidio y se perseguirá de oficio.
+> <small>(DEROGADO TERCER PARRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO VI. DAÑO EN LOS BIENES
 
@@ -2463,7 +2513,7 @@ V. Cuando con motivo de secuestro se causare la muerte o falleciera el secuestra
 
 Se equipara al secuestro, al que detenga en calidad de rehén a una persona y amenace con privarla de la vida o con causarle un daño, sea a aquélla o a terceros, para obligar a la autoridad a realizar o dejar de realizar un acto de cualquier naturaleza; en tal caso se impondrán las penas señaladas en este artículo.
 
-Cuando en la comisión de este delito participe un elemento perteneciente a una corporación policiaca, se agravará la pena en una mitad más de la que le corresponda destitución definitiva e inhabilitación por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
+Cuando en la comisión de este delito participe un elemento perteneciente a una corporación policíaca, se agravará la pena en una mitad más de la que le corresponda destitución definitiva e inhabilitación por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
 
 Siendo el secuestro un delito de los que se persiguen de oficio, la autoridad tendrá en todos los casos la obligación de intervenir en la investigación de los hechos y persecución del inculpado, tan pronto como tenga conocimiento del ilícito y aun cuando el ofendido o sus familiares se opongan a ello o no presenten denuncia formal. A los servidores públicos que teniendo el deber de hacerlo, no procedan en los términos de esta disposición, se les impondrán de tres meses a tres años de prisión y de treinta a cien días multa.
 
@@ -2719,7 +2769,9 @@ III. Cuando se cometa en el interior de casa habitación o en el interior de un 
 
 IV. Cuando por motivo del delito de robo se causare la muerte, se impondrán de veinticinco a cincuenta años de prisión y de quinientos a mil días multa;
 
-V. Cuando el robo se cometa en un vehículo automotor, en una o más de las partes que lo conforman o en la mercancía transportada a bordo de aquél, se impondrán de tres a diez años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa, sin perjuicio, en su caso, de la agravante a que se refiere la fracción I de este artículo;
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
+V. Cuando se cometa el robo de un vehículo automotor, de una o más de las partes que lo conforman o de la mercancía transportada a bordo de aquél, se impondrán de tres a diez años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa, sin perjuicio, en su caso, de la agravante a que se refiere la fracción I de este artículo;
 
 VI. Cuando se cometa aprovechando la falta de vigilancia o la confusión ocasionado por un siniestro o un desorden de cualquier tipo, se impondrán de dos a siete años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa.
 
@@ -3001,7 +3053,9 @@ Al que sin permiso y fuera de los casos en que la ley lo permita, se introduzca 
 
 A quienes compren, vendan o en cualquier forma transfieran o adquieran ilegalmente la tenencia de bienes sujetos a régimen ejidal o comunal, con propósito de lucro o para obtener un beneficio para sí o para otros, se les impondrán de dos a diez años de prisión y de cien a mil días multa.
 
-## TITULO QUINTO. DELITOS CONTRA EL DEBIDO PROCESO ELECTORAL
+> <small>(REFORMADA SU DENOMINACION, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
+## TITULO QUINTO. DELITO CONTRA EL PROCESO ELECTORAL
 
 ###### Artículo 316.
 
@@ -3013,9 +3067,11 @@ II. Funcionario partidista: quien sea dirigente de los partidos políticos nacio
 
 III. Documento público electoral: aquél expedido en el ejercicio de sus funciones, por los organismos electorales y el Tribunal Electoral del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 317.
 
-Comete este delito quien:
+Comete el delito contra el proceso electoral quien:
 
 I. Vote a sabiendas de que no cumple con los requisitos de ley o vote más de una vez en una misma elección;
 
@@ -3087,9 +3143,11 @@ Al responsable, se le impondrán de cien a quinientos días multa o prisión de 
 
 A quien vote más de una vez en una misma elección se le aumentara hasta el doble de la pena señalada en este artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 318.
 
-También incurre en este delito el funcionario electoral que:
+Comete el delito contra el proceso electoral, el funcionario electoral que:
 
 I. Se abstenga de cumplir con sus obligaciones electorales sin causa justificada;
 
@@ -3129,9 +3187,11 @@ XVIII. Se niegue a reconocer la personalidad jurídica de un partido, coalición
 
 Al responsable se le impondrán de cien a quinientos días multa o prisión de dos a cuatro años, o ambas penas.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 319.
 
-De igual manera comete este delito, el funcionario partidista que:
+Comete el delito contra el proceso electoral, el funcionario partidista que:
 
 I. Sustraiga, destruya, altere, falsifique o haga uso indebido de documentos electorales;
 
@@ -3149,9 +3209,11 @@ VII. Impida o dificulte por sí o por interpósita persona la distribución o en
 
 Al responsable se le impondrá de cien a quinientos días multa o prisión de dos a cuatro años, o ambas penas.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 320.
 
-También comete este delito, el servidor público que:
+Comete el delito contra el proceso electoral, el servidor público que:
 
 I. No preste la ayuda solicitada por las autoridades electorales;
 
@@ -3181,9 +3243,11 @@ A los ministros del culto religioso que en el ejercicio de su ministerio induzca
 
 A los responsables de los medios de comunicación electrónicos y escritos que en la actividad de su profesión, el día de la elección induzcan dolosamente al electorado a votar en favor o en contra de un determinado partido o candidato o que con sus manifestaciones pretendan influir en la decisión del elector, se aplicará una sanción de quinientos a mil días multa.
 
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 323.
 
-Cuando alguno de los delitos previstos en este capítulo sea cometido por un servidor público en ejercicio de sus funciones, será destituido definitivamente e inhabilitado por veinte años para desempeñar empleo cargo o comisión públicos.
+Cuando el delito previsto en este capítulo sea cometido por un servidor público en ejercicio de sus funciones, será destituido definitivamente e inhabilitado por veinte años para desempeñar empleo cargo o comisión públicos.
 
 ###### Artículo 324.
 
@@ -3193,13 +3257,17 @@ Al que a sabiendas, y debiendo evitarlo, permita que se realice cualquiera de lo
 
 Al que obligue o induzca a otro a cometer alguno de los actos punibles de que hablan los artículos anteriores se le impondrá pena de prisión de tres a ocho años.
 
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 326.
 
-Por la comisión de cualquiera de los delitos comprendidos en el presente capítulo, se podrá imponer además de la pena señalada, la suspensión de derechos políticos hasta por siete años.
+Por la comisión del delito comprendido en el presente capítulo, se podrá imponer además de la pena señalada, la suspensión de derechos políticos hasta por siete años.
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 327.
 
-Los delitos previstos en este capítulo, se perseguirán de oficio.
+El delito previsto en este capítulo, se perseguirá de oficio.
 
 ## TRANSITORIOS
 
@@ -3232,3 +3300,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.G. 1 DE SEPTIEMBRE DE 2000.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON EL PRESENTE CODIGO.
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
