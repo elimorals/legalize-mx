@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "1997-09-06"
+last_updated: "1998-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1585 +21,1447 @@ state: "JAL"
 ---
 # LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
+LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2022.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 1998.
 
-Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 1 de agosto de 2011.
+Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
-JOSÉ FRANCISCO OLVERA RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES SABED:
+Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
-QUE LA LXI LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
+Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente
 
-D E C R E T O NÚM. 18
+DECRETO
 
-QUE CONTIENE EL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO.
+NÚMERO 16644. EL CONGRESO DEL ESTADO DECRETA:
 
-El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política de los Estados Unidos Mexicanos, D E C R E T A:
+SE APRUEBA LA NUEVA LEY DE EDUCACIÓN PÚBLICA DEL ESTADO DE JALISCO
 
-A N T E C E D E N T E S
+ÚNICO.- Se aprueba la Ley de Educación del Estado de Jalisco, para quedar como sigue:
 
-PRIMERO.- En Sesión Ordinaria de fecha 12 de julio del año en curso, por instrucciones de la Presidencia nos fue turnada la Iniciativa de Decreto que contiene el Reglamento de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Hidalgo, presentada por los Diputados Ramón Ramírez Valtierra, Carlos Alberto Anaya de la Peña, Myrlen Salas Dorantes, Héctor Mendoza Mendoza, Julián Meza Romero, Prisco Manuel Gutiérrez, Christian Pulido Roldán, José Ramón Berganza Escorza y Arturo Aparicio Barrios, Integrantes de la Comisión Especial para la elaboración del Reglamento de la Ley Orgánica del Poder Legislativo del Estado de Hidalgo.
+## TÍTULO PRIMERO
 
-SEGUNDO.- El asunto de cuenta, se registró en el Libro de Gobierno de la Primera Comisión Permanente de Legislación y Puntos Constitucionales, con el número 30/2011.
+DISPOSICIONES GENERALES.
 
-Por lo que, en mérito de lo expuesto; y
+### CAPÍTULO I
 
-C O N S I D E R A N D O
+DISPOSICIONES GENERALES.
 
-[...]
+###### ARTICULO 1o.
 
-POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
+El objeto de esta ley es regular los servicios educativos que se presten en la entidad por el Gobierno del Estado de Jalisco, sus Municipios, los organismos descentralizados, así como aquellos que proporcionen los particulares con autorización o reconocimiento de validez oficial de estudios. Las disposiciones contenidas en esta Ley son de orden público, de interés social y de observancia general en el Estado de Jalisco.
 
-D E C R E T O
+La función social educativa de las universidades y demás instituciones de educación superior a que se refiere la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, se regulará por las leyes que rigen a dichas instituciones.
 
-QUE CONTIENE EL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO.
+###### ARTICULO 2o.
 
-## TÍTULO PRIMERO. DE LA INTEGRACIÓN DEL PODER LEGISLATIVO
+Todos los habitantes del Estado tienen derecho a recibir educación con las mismas oportunidades de acceso, calidad, permanencia y pertinencia, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables. La educación es medio fundamental para adquirir, trasmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad y es factor determinante para la adquisición de conocimientos y para formar al hombre de manera que tenga sentido de solidaridad social.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+###### ARTICULO 3o.
 
-###### ARTÍCULO 1.
+La educación es un derecho fundamental del ser humano que tiene como propósito su desarrollo integral. Atendiendo al derecho que tienen de educar a sus hijos o pupilos, los padres o tutores están obligados a hacer que sus hijos o pupilos menores de edad cursen la educación primaria y secundaria.
 
-El presente Reglamento es de interés público y de observancia general para los integrantes y servidores públicos del Congreso y tiene como objeto establecer la organización, competencia, facultades y procedimientos del Poder Legislativo para el despacho de los asuntos, de conformidad con lo dispuesto por la Constitución Política del Estado de Hidalgo y fijar las bases complementarias de la Ley Orgánica del Poder Legislativo del Estado de Hidalgo.
+###### ARTICULO 4o.
 
-###### ARTÍCULO 2.
+La educación que se imparta en la entidad se regirá conforme a los principios y lineamientos establecidos en el artículo 3o. y demás relativos de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Constitución Política del Estado, los contenidos en la presente ley y las normas, convenios y demás disposiciones que de ellas se deriven, por lo que la educación que imparta el Estado será:
 
-Este Reglamento podrá ser modificado en sujeción al proceso Legislativo previsto en la Ley.
+I.- Gratuita: Sin que se entienda como contraprestación del servicio educativo las aportaciones y donaciones destinadas a dicha acción, que nunca tendrán el carácter de obligatorias;
 
-###### ARTÍCULO 3.
+II.- Laica, por lo tanto se mantendrá por completo ajena a cualquier doctrina religiosa, respetando las convicciones personales siempre y cuando no contravengan a ninguna ley;
 
-Para los efectos de este Reglamento, se entenderá por:
+III.- La educación que impartan el Estado y sus organismos descentralizados es un servicio público.
 
-ASUNTO GENERAL: Tema, posicionamiento, proyecto de Acuerdo Económico, efemérides, asuntos públicos o la simple manifestación de ideas, que expresa un Diputado en la Tribuna.
+###### ARTICULO 5o.
 
-CONGRESO: Congreso del Estado Libre y Soberano de Hidalgo.
+La educación primaria y secundaria podrá cursarse tanto en las escuelas oficiales como en las particulares que para tal efecto existan y donde se cumplan los requisitos básicos establecidos en la legislación y demás disposiciones generales.
 
-CONSTITUCIÓN: Constitución Política del Estado de Hidalgo.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 1998)</small>
 
-COMISIÓN: Órgano integrado por Diputados de los diferentes Grupos Legislativos y las Representaciones Partidistas que tiene como objetivo conocer, atender, estudiar, analizar y emitir resolutivo de los diversos asuntos que le sean turnados por la Presidencia de la Directiva según la materia.
+###### ARTICULO 6o.
 
-CORRESPONDENCIA: Documentos que son enviados al Congreso y se reciben por conducto de la Oficialía de Partes.
+El Gobierno del Estado está obligado a prestar y promover servicios educativos con el fin de que la población pueda cursar la educación preescolar, primaria y secundaria que son obligatorias por mandato constitucional. Asimismo, promoverá y atenderá todos los tipos y modalidades educativas, incluyendo la educación superior.
 
-COMUNICADOS: Documentación que es remitida a la Presidencia de la Directiva, proveniente de los distintos órganos y niveles de Gobierno, para conocimiento del Congreso, sea en Pleno o en Diputación Permanente.
+###### ARTICULO 7o.
 
-DECRETO: Documento que contiene Leyes, reformas o adiciones realizadas a las mismas, así como propuestas, que si bien no son Leyes, causan una obligación que debe normarse bajo esta figura.
+La educación que imparta el Estado de Jalisco, sus Municipios, y sus organismos descentralizados; así como los particulares con autorización o reconocimiento de validez oficial de estudios, tendrá además de los fines señalados en el artículo 3o. de la Constitución Federal y en la Ley General de Educación, los siguientes:
 
-DOCUMENTOS EN CARTERA: Documentos recibidos por la Secretaría de Servicios Legislativos, para conocimiento del Congreso, a los cuales se les dará lectura en el punto cuatro del orden del día, de las Sesiones Ordinarias y de la Diputación Permanente.
+I.- Contribuir al desarrollo integral del ser humano, promoviendo los valores éticos-sociales, para que ejerza plenamente sus capacidades dentro del marco de una convivencia social armónica, todo ello con la participación activa del educando, estimulando su iniciativa y un alto sentido de responsabilidad social;
 
-EXPOSICIÓN DE MOTIVOS: Razonamientos técnicos sobre la necesidad y contenido de un ordenamiento, que deben ser precisos y jurídicamente apropiados.
+II.- Fomentar la adquisición de conocimientos científicos y culturales, el desarrollo de la capacidad de aprendizaje, el interés y metodología de la investigación y la reflexión crítica;
 
-INICIATIVA: Es el documento presentado por los facultados para ello en la Constitución y la Ley a efecto de crear, reformar, adicionar o derogar una Ley o Decreto.
+III.- Fortalecer la conciencia de la nacionalidad y de la soberanía, el conocimiento y aprecio por la historia, el amor y respeto a los símbolos patrios y las instituciones nacionales, así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del país, especialmente, las del Estado de Jalisco;
 
-JUNTA DE GOBIERNO: Órgano colegiado integrado por los Diputados Coordinadores de cada uno de los Grupos Legislativos que se encuentren representados en el Congreso, del Presidente de la Directiva en turno y por los Diputados de las Representaciones Partidistas.
+IV.- Enseñar el español como lengua nacional común de los mexicanos, sin menoscabo de la preservación y la enseñanza de las lenguas de los grupos indígenas que existen en el Estado. Así como promover en educación básica el estudio de una lengua extranjera;
 
-LEGISLATURA: Período de ejercicio de las funciones de los Diputados que se identifica por número ordinal.
+V.- Infundir el conocimiento y la práctica de la democracia como forma de gobierno y como sistema de vida que permita la participación de todos en el desarrollo político, económico y social del Estado, y en general, en la toma de decisiones para el mejoramiento de la sociedad;
 
-LEY: Ley Orgánica del Poder Legislativo del Estado de Hidalgo.
+VI.- Promover el valor de la justicia, de la observancia de la ley y de la igualdad de derechos entre todos los hombres;
 
-MINUTA DE PROYECTO DE DECRETO: Documento que contiene una síntesis del Proyecto de Decreto que reforma, adiciona o deroga los Artículos de la Constitución, que ha sido aprobado por el Pleno del Congreso y que debe ser sometido a consideración de los Ayuntamientos para que en su carácter de Constituyente Permanente emitan su sanción y se dé la declaratoria definitiva a la reforma, adición o derogación constitucional.
+VII.- Impulsar el estudio, conservación y protección del medio físico y el aprovechamiento racional de los recursos naturales, para la solución de los problemas económicos, sociales y culturales del Estado;
 
-MINUTA DE PROYECTO DE DECRETO FEDERAL: Documento que contiene una síntesis del Proyecto de Decreto que reforma, adiciona o deroga Artículos de la Constitución Política de los Estados Unidos Mexicanos, que ha sido aprobado por el H. Congreso de la Unión y que debe ser sometido a consideración de las Legislaturas de los Estados, para que en su carácter de Constituyente Permanente emitan su sanción y se dé la declaratoria definitiva a la reforma, adición o derogación constitucional.
+VIII.- Promover la difusión y utilización de técnicas y avances científicos en las actividades agropecuarias, industriales, mineras, forestales, de servicios y, en general, para toda actividad productiva que requiera el desarrollo del Estado de Jalisco;
 
-MOCIÓN: Proposición verbal presentada por un Diputado con el objeto de interrumpir el discurso de un orador, objetar un documento, asunto por acordar o la decisión de la Directiva, que es sometida a deliberación y en su caso, aprobada su procedencia.
+IX.- Impulsar actitudes que estimulen la investigación e innovación científica y tecnológica, vinculadas con el sector productivo;
 
-ORDEN DEL DÍA: Relación de puntos a tratar en las sesiones ordinarias, extraordinarias o de la Diputación Permanente, establecidos en el Artículo 117 de la Ley.
+X.- Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquellos que constituyen el patrimonio cultural de la Nación y del Estado;
 
-PLENO: Órgano máximo de deliberación y debate del Congreso.
+XI.- Impulsar la educación física y la práctica del deporte escolar;
 
-PROTESTA: Acto en el cual, los servidores públicos, cuando así lo establezca la Ley, antes de tomar posesión de su cargo expresarán la fórmula legal y el juramento de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la de la Entidad y las Leyes que de ellas emanen.
+XII.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud, la planeación familiar, la paternidad responsable y las consecuencias nocivas de los vicios, propiciando su rechazo; sin menoscabo de la libertad y del respeto absoluto a la dignidad humana;
 
-QUÓRUM: Número necesario de Diputados exigido para que el Pleno, la Diputación Permanente o las comisiones, puedan celebrar legalmente las sesiones.
+XIII.- Fomentar y encausar el desarrollo y la aplicación del avance científico y tecnológico de acuerdo a las necesidades del crecimiento económico y social de la entidad, propiciando el uso racional de los recursos naturales a fin de preservar el equilibrio ecológico, promoviendo entre los individuos el cuidado, rehabilitación y mantenimiento del medio ambiente y la naturaleza;
 
-###### ARTÍCULO 10.
+XIV.- Fomentar actitudes solidarias positivas para alcanzar el bienestar general mediante el trabajo y el ahorro;
 
-La ausencia de los Diputados sin que medie previo aviso al Presidente de la Directiva, se justificará si demuestra que aconteció caso fortuito o de fuerza mayor, dentro del término de ocho días naturales y en caso de enfermedad o incapacidad temporal este plazo podrá ser de treinta días naturales.
+XV.- Fomentar en el educando el estudio, conocimiento y respeto de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen; y
 
-###### ARTÍCULO 11.
+XVI.- Buscar la excelencia en la calidad educativa.
 
-Para que le sea concedido por la Presidencia de la Directiva, el uso de la Tribuna, todo Diputado deberá hacerlo de forma ordenada, levantando la mano.
+###### ARTICULO 8o.
 
-## TÍTULO SEGUNDO. DE LA INSTALACIÓN DE LA LEGISLATURA Y DEL RECINTO OFICIAL DEL CONGRESO
+El criterio que orientará a la educación que se imparta en el Estado se basará en los resultados de progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y prejuicios. Además:
 
-### CAPÍTULO I. DE LA INSTALACIÓN DE LA LEGISLATURA
+I.- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
-###### ARTÍCULO 4.
+II.- Será nacional, en cuanto que sin hostilidades ni exclusivismos, atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de la independencia económica y a la continuidad y crecimiento de nuestra cultura, y
 
-Para efectos del Artículo 7 de la Ley, la Comisión Instaladora por conducto de la Secretaría de Servicios Legislativos, llevará a cabo el siguiente procedimiento:
+III.- Será humanitaria, en tanto que contribuirá a la mejor convivencia humana; tanto por los elementos que aporte a fin de robustecer en el educando el aprecio por la dignidad de la persona, la integridad de la familia y la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de raza, religión, grupos, sexo o de individuos.
 
-I.- Recibirá las constancias originales remitidas por la autoridad electoral, donde se acredite a los Diputados electos, a fin de hacer la inscripción correspondiente en el Libro de Registro de la Legislatura, el cual contendrá los datos de la constancia emitida, fotografía del Diputado electo y rúbrica del mismo, de los Diputados integrantes de la Comisión Instaladora y del Secretario de Servicios Legislativos. El libro quedará bajo la custodia de la Secretaría de Servicios Legislativos junto con los expedientes que se integren con la documentación recibida;
+###### ARTICULO 9o.
 
-II.- Recopilará la documentación relativa al ejercicio de la Legislatura saliente, a efecto de entregarla a la Legislatura entrante; y
+En la impartición de todo tipo de educación para menores de edad, se tomarán las medidas que aseguren al educando la protección y cuidados necesarios para preservar su integridad física, psicológica y social, sobre la base del respeto a su dignidad. La aplicación de la disciplina escolar será compatible con su edad.
 
-III.- Integrará los expedientes con las actas relativas a los Grupos Legislativos que conformen la Legislatura, así como de la Junta de Gobierno.
+###### ARTICULO 10.
 
-###### ARTÍCULO 12.
+Los beneficiados directamente por los servicios educativos de los niveles medio superior y superior, deberán prestar servicio social en los términos de las disposiciones reglamentarias correspondientes, como requisito indispensable para obtener título o grado académico.
 
-Los Diputados tienen la obligación de asistir puntualmente y permanecer en su lugar durante todo el desarrollo de la sesión; en caso de que tuvieran necesidad de abandonar el recinto, deberán solicitar permiso al Presidente de la Directiva, a través del Secretario de Servicios Legislativos, de lo contrario, se considerará como inasistencia.
+###### ARTICULO 11.
 
-###### ARTÍCULO 13.
+Son de interés público y social las actividades que en materia educativa realicen el Estado y los Municipios, sus organismos descentralizados y los particulares.
 
-Para el caso de amonestación, el acta especial en la que conste, se adjuntará como anexo al acta de la sesión correspondiente y contendrá la fecha, la narración de los hechos que la originaron, así como las firmas del Presidente y Secretario de la Directiva.
+## TÍTULO SEGUNDO
 
-### CAPÍTULO II. DEL RECINTO OFICIAL DEL CONGRESO DEL ESTADO
+DE LA DISTRIBUCIÓN DE ATRIBUCIONES.
 
-###### ARTÍCULO 5.
+### CAPÍTULO I
 
-De conformidad con lo que establece el Decreto Número 131 expedido por la Quincuagésima Octava Legislatura, Publicado en el Periódico Oficial del Estado, de fecha 26 de mayo de 2003, el Recinto Oficial reside en la Ciudad de Pachuca de Soto y comprende una superficie total de 15,978 quince mil novecientos setenta y ocho metros cuadrados, con las siguientes instalaciones:
+DE LAS ATRIBUCIONES DE LA AUTORIDAD EDUCATIVA FEDERAL Y DEL EJECUTIVO DEL ESTADO.
 
-I.- Salón de Plenos;
+###### ARTICULO 12.
 
-II.- Área de Diputados;
+El Ejecutivo del Estado, ejercerá a través de la Secretaría de Educación las atribuciones en materia educativa que le confieran los diversos ordenamientos federales y estatales.
 
-III.- Sala de la Diputación Permanente;
+###### ARTICULO 13.
 
-IV.- Presidencia de la Junta de Gobierno;
+Corresponden al Ejecutivo del Estado, de manera concurrente con la autoridad educativa federal, las atribuciones siguientes:
 
-V.- Secretaría de Servicios Legislativos;
+I.- Promover y prestar servicios educativos distintos de los previstos en las fracciones I y IX del artículo 14 de esta Ley, de acuerdo con las necesidades estatales y regionales;
 
-VI.- Coordinación de Asesoría;
+II.- Revalidar y otorgar equivalencias de estudios, distintos de los mencionados en la fracción X del artículo 14 de este ordenamiento, de acuerdo con los lineamientos generales que la Secretaría de Educación Pública expida;
 
-VII.- Dirección de Servicios Administrativos;
+III.- Otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos de los de primaria, secundaria, normal y demás para la formación de educadores de preescolar, primaria y secundaria que impartan los particulares;
 
-VIII.- Instituto de Estudios Legislativos;
+IV.- Prestar servicios bibliotecarios a fin de apoyar la innovación educativa y la investigación científica, tecnológica y humanista;
 
-IX.- Dirección de Comunicación Social;
+V.- Promover permanentemente la investigación que sirva como base a la innovación educativa;
 
-X.- Instituto para el Desarrollo y Fortalecimiento Municipal del Estado;
+VI.- Impulsar el desarrollo de la enseñanza tecnológica y de investigación científica y tecnológica;
 
-XI.- Archivo y Biblioteca;
+VII.- Fomentar y difundir las actividades artísticas, culturales y físicas, en todas sus manifestaciones;
 
-XII.- Unidad de Informática;
+VIII.- Celebrar convenios para coordinar o unificar las actividades educativas a que se refieren las leyes de la materia, con excepción de aquellas de carácter exclusivo señaladas en los artículos 12 y 13 de la Ley General de Educación;
 
-XIII.- Capilla Cívica de la Constitución;
+IX.- Celebrar convenios con personas físicas y jurídicas, a efecto de crear mecanismos que permitan canalizar recursos a los programas destinados a la superación de los educandos de bajos ingresos y aquéllos que sobresalgan en sus estudios;
 
-XIV.- Área tras banderas (área de reunión privada que se localiza en la parte posterior del área de Curules);
+X.- Evaluar en el Estado los servicios educativos que en él se presten, en forma sistemática y permanente, con el fin de mejorarlos constantemente;
 
-XV.- Andadores y Jardinería:
+XI.- Vigilar el cumplimiento de esta Ley y sus disposiciones reglamentarias; y
 
-XVI.- Plaza Central "Miguel Hidalgo y Costilla"; y
+XII.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
 
-XVII.- Estacionamientos.
+### CAPÍTULO II
 
-###### ARTÍCULO 6.
+DE LAS OBLIGACIONES Y ATRIBUCIONES DEL EJECUTIVO ESTATALA (SIC) TRAVÉS DE LA SECRETARÍA DE EDUCACIÓN DEL ESTADO.
 
-El Salón de Plenos y la Sala de la Diputación Permanente, se divide en:
+###### ARTICULO 14.
 
-I.- Área de curules; y
+Corresponden al Ejecutivo Estatal por conducto de la Secretaría de Educación del Estado las siguientes facultades:
 
-II.- Área del público en general.
+I.- Organizar e impartir los servicios de educación inicial, básica, incluyendo la indígena y especial, normal y las demás necesarias para la formación de maestros, incluyendo las modalidades de la educación no escolarizada y mixta;
 
-El área de curules, se identifica como el espacio físico donde los Diputados deliberan, debaten y ejercen su facultad legislativa constitucional, como representantes populares; compuesto por el área de la Directiva, las curules y el área de apoyo que ocupa la Secretaría de Servicios Legislativos y la Coordinación de Asesoría.
+II.- Nombrar y remover libremente a las autoridades educativas estatales cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Local o en las Leyes;
 
-###### ARTÍCULO 7.
+III.- Establecer, organizar, administrar, sostener y coordinar, según las necesidades de la población en toda la Entidad Federativa:
 
-En el Salón de Plenos y en la Sala de la Diputación Permanente, habrá un lugar específico para ubicar a los representantes de los medios de comunicación, respetando en todo momento el área de curules y la formalidad del acto.
+a) Centros de Educación Inicial.
 
-###### ARTÍCULO 8.
+b) Escuelas de Educación Preescolar.
 
-En el Recinto Legislativo, el uso de la tribuna le corresponde exclusivamente a:
+c) Escuelas Primarias.
 
-I.- Diputados;
+d) Escuelas Secundarias.
 
-II.- Gobernador Constitucional del Estado;
+e) Escuelas de Educación Media Superior.
 
-III.- Presidente del Tribunal Superior de Justicia; y
+f) Escuelas Normales.
 
-IV.- Servidores públicos Estatales y Federales, cuando así lo determine el Pleno.
+g) Escuelas de Educación Indígena.
 
-En los casos en los que no se conceda el uso de la Tribuna, se instalarán micrófonos en los lugares acordados para ello, por la Junta de Gobierno.
+h) Centros de Atención para Adultos.
 
-###### ARTÍCULO 14.
+i) Escuelas de Educación Especial.
 
-Para los efectos previstos en el Artículo 42 de la Ley, el Presidente de la Directiva, solicitará a la Secretaría, que por conducto de la Secretaría de Servicios Legislativos, dé aviso a la Dirección General de Servicios Administrativos.
+j) Escuelas de Formación para el Trabajo.
 
-###### ARTÍCULO 15.
+k) Instituciones de Educación Superior.
 
-En el caso de que se constituya una Comisión Especial para la imposición de las sanciones a que hace referencia el Artículo 37 de la Ley, se integrará de conformidad con el Artículo 82 del mismo ordenamiento, de acuerdo con el siguiente procedimiento:
+l) Bibliotecas;
 
-I.- Una vez conformada la Comisión Especial, la Secretaría de la Directiva le hará llegar los antecedentes de los hechos motivo de la sanción;
+IV.- Vigilar el estricto cumplimiento por parte de las Empresas establecidas en el Estado de lo ordenado por la fracción XII del Artículo 123 del apartado A de la Constitución Política de los Estados Unidos Mexicanos en lo concerniente a la obligación de establecer y sostener escuelas y centros de capacitación;
 
-II.- La Comisión Especial notificará dentro de los tres días hábiles siguientes al o los Diputados que originaron la indisciplina, los hechos que se les imputen, a fin de que dentro de igual término, manifiesten lo que su derecho convenga, apercibidos que de no hacerlo así, se les tendrá por aceptados; y
+V.- Convocar a reuniones para estudiar los problemas educativos de la Entidad e impulsar el intercambio de estudiantes, profesores, investigadores y científicos con otros Estados, la Federación y con Instituciones educativas extranjeras y promover cuanto sea necesario para el desarrollo de la tecnología, la ciencia, la cultura, las artes y la educación en general;
 
-III.- La Comisión Especial, tomando en cuenta la imputación y las manifestaciones vertidas como defensa, elaborará el informe correspondiente a fin de darlo a conocer al Pleno o la Diputación Permanente, para los efectos procedentes.
+VI.- Proponer a la autoridad educativa federal, los contenidos regionales que hayan de incluirse en los planes y programas de estudios para la educación primaria, la secundaria, la normal y otras para la formación de educadores de preescolar, primaria y secundaria;
 
-###### ARTÍCULO 16.
+VII.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo de la educación primaria, la secundaria, la normal y demás para la formación de educadores de preescolar, primaria y secundaria, con respecto al calendario fijado por la Secretaría de Educación Pública, a efecto de que se cumpla con los 200 días de clase anual. En su ámbito de competencia revisará permanentemente las disposiciones, trámites y procedimientos con objeto de simplificarlos, reduciendo las cargas administrativas de maestros y directivos para alcanzar mayor tiempo efectivo de clase en cada ciclo;
 
-En los Periodos Ordinarios, en la última sesión del mes, la Presidencia de la Directiva, recibirá las propuestas para la integración de la Directiva del mes siguiente, que estará conformada por un Presidente, un Vicepresidente, dos Secretarios Propietarios y dos Secretarios Suplentes.
+VIII.- Formular y proponer planes y programas de estudio, distintos de los previstos en la fracción I del artículo 12 de la Ley General de Educación;
 
-Dichas propuestas, serán sometidas a votación por medio de cédulas que serán entregadas por personal de la Secretaría de Servicios Legislativos a cada uno de los Diputados.
+IX.- Prestar los servicios de formación, actualización, capacitación y superación profesional para los educadores de preescolar, primaria y secundaria, de conformidad con las disposiciones generales que emita la autoridad educativa federal, buscando los conductos idóneos para facilitar a los docentes el acceso a los beneficios de la carrera magisterial;
 
-A continuación el Presidente solicitará a los Diputados electos pasen al frente de la Presidencia y les tomará la protesta, de conformidad con lo establecido en el Artículo 155 de la Constitución.
+X.- Revalidar y otorgar equivalencias de estudios de la educación primaria, secundaria, normal y otras para la formación de educadores de preescolar, primaria y secundaria de acuerdo con los lineamientos generales que la Secretaría de Educación Pública expida;
 
-### CAPÍTULO I. DE LOS DERECHOS DE LOS DIPUTADOS
+XI.- Otorgar, negar y revocar autorización a los particulares para impartir la educación primaria, la secundaria, la normal y demás para la formación de educadores de preescolar, primaria y secundaria, así como supervisar el cumplimiento de sus funciones de acuerdo a lo que señalan las leyes;
 
-###### ARTÍCULO 9.
+XII.- Distribuir de manera oportuna, completa, amplia y eficiente los libros de texto gratuitos y demás materiales educativos complementarios que la Secretaría de Educación Pública proporcione, a los niveles de preescolar, primaria y secundaria;
 
-El trámite de una solicitud de licencia, se apegará a lo establecido en la Ley, mediante escrito fundado y motivado que se presente ante el Presidente de la Directiva, quien lo calificará y someterá a aprobación del Pleno.
+XIII.- Editar y distribuir libros y material didáctico de apoyo educativo ajustados a las disposiciones de la Ley General de Educación, sin perjuicio de la distribución de los libros textos gratuitos enviados por la Secretaría de Educación Pública;
 
-La licencia surtirá efectos a partir de la presentación o en fecha posterior, si así se establece en el escrito de referencia y se aprueba.
+XIV.- Organizar y promover la investigación que sirva como base a la actualización educativa;
 
-El Diputado con licencia, que comunique la reincorporación al ejercicio de su cargo, presentará escrito firmado y dirigido al Presidente de la Directiva, quien informará al Pleno de la reincorporación, pudiendo el Diputado incorporarse en la Sesión donde se dé lectura al mismo.
+XV.- Vincular a la educación con los sistemas productivos de la entidad, a fin de que se impulse el desarrollo de la enseñanza e investigación científica y tecnológica en acción armónica con el desarrollo estatal;
 
-###### ARTÍCULO 17.
+XVI.- Promover y fomentar en el Estado las actividades artísticas, culturales y deportivas destacando las aportaciones de los jaliscienses en estos campos a la cultura universal;
 
-Para elegir a los integrantes y la Directiva de la Diputación Permanente, se seguirá el procedimiento señalado en el Artículo anterior, con la salvedad de que la elección se hará antes de finalizar la última sesión del Periodo Ordinario correspondiente.
+XVII.- Promover la ampliación de los servicios educativos, fomentando la creación de instituciones públicas que ofrezcan nuevas opciones para el educando;
 
-###### ARTÍCULO 18.
+XVIII.- Promover la difusión de programas de radio y televisión, que impulsen el desarrollo cultural y educativo de la población, destacando los valores éticos y universales en que se sustenta la convivencia social, así como la difusión de la educación abierta a través de los medios de comunicación;
 
-Cuando se trate de Sesiones Extraordinarias, la conducción inicial de la sesión estará a cargo de la Directiva de la Diputación Permanente, que recibirá las propuestas para la integración de la Directiva de la Sesión o Sesiones Extraordinarias, que estará integrada de conformidad con el Artículo 54 de la Ley, siguiéndose el procedimiento señalado en el Artículo 16 de este Reglamento y al finalizar la elección se citará a los Diputados integrantes de la Legislatura, dando por concluida la sesión.
+XIX.- Promover que los contenidos de todo tipo de programas transmitidos por los medios de comunicación coadyuven al logro de los fines que la educación debe tener, en orden a lo establecido en la presente Ley;
 
-###### ARTÍCULO 19.
+XX.- Organizar el Consejo Estatal de Participación Social en la Educación y propiciar la integración de los Consejos Municipales y Escolares de Participación Social en todos los niveles de la Educación;
 
-De acuerdo al orden en que fueron electos los Secretarios, el nombrado en primer lugar ocupará la curul del lado izquierdo y el segundo, la curul del lado derecho de la Directiva, viendo desde la Presidencia.
+XXI.- Celebrar en el ámbito de sus atribuciones los convenios que sean necesarios para cumplir con las funciones y deberes contenidos en el presente capítulo;
 
-###### ARTÍCULO 20.
+XXII.- Administrar los fondos provenientes del Ejecutivo Federal para la educación en el Estado, con la prohibición expresa de cambiar su destino y finalidad. La violación a este precepto traerá como consecuencia sanciones administrativas, penales y civiles, conforme a la legislación aplicable;
 
-Además de las atribuciones referidas en la Ley, los Secretarios de la Directiva tendrán las siguientes:
+XXIII.- Crear un Sistema Estatal de Formación de Docentes que articule los ámbitos dé formación inicial, actualización, capacitación, superación e investigación, en concurrencia con el sistema nacional y de acuerdo a los lineamientos emitidos en la Ley General de Educación;
 
-I.- Verificar que los Diputados reciban, antes de dar inicio a la sesión, copias de los documentos necesarios para el desarrollo de la misma;
+XXIV.- Celebrar convenios con las empresas industriales y comerciales con la finalidad de establecer los mecanismos para otorgar estímulos económicos o de cualquier otra clase, a los hijos de los trabajadores que sobresalgan en sus estudios;
 
-II.- Informar al Presidente en la última sesión del mes, sobre las inasistencias no justificadas de los Diputados, para los efectos a que haya lugar; y
+XXV.- Coordinar el Servicio Social en el Estado;
 
-III.- Dar lectura a las tarjetas de la inscripción de los Asuntos Generales.
+XXVI.- Vigilar el cumplimiento de esta Ley y sus disposiciones reglamentarias, y
 
-## TÍTULO TERCERO. DE LOS DIPUTADOS
+XXVII.- Las demás que con tal carácter establezcan esta ley y otras disposiciones aplicables.
 
-### CAPÍTULO II. DE LAS SANCIONES DISCIPLINARIAS
+###### ARTICULO 15.
 
-###### ARTÍCULO 21.
+Además de impartir la educación preescolar, la primaria, y la secundaria, el Estado promoverá y atenderá directamente o mediante sus organismos descentralizados, a través de apoyos financieros, o bien, por cualquier otro medio, todos los tipos y modalidades educativos necesarios para el desarrollo de la entidad; apoyará la investigación científica y tecnológica; y alentará el fortalecimiento y la difusión de la cultura estatal, nacional y universal.
 
-Para los efectos del Artículo 67 fracción IV de la Ley, las Actas de las Sesiones que contienen la relatoría de las mismas, se integrarán con:
+Promoverá la formación para el trabajo que impartan los artesanos y técnicos de cada zona o región, procurando que en tales actividades participen los propios padres de familia y vecinos de los educandos.
 
-I.- Las intervenciones de los Diputados en la misma, que constituye el Diario de Debates; y
+###### ARTICULO 16.
 
-II.- Los anexos correspondientes.
+El Estado otorgará un salario profesional para que los educadores de los planteles del propio estado alcancen un nivel de vida decoroso para su familia; puedan arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna; así como para que dispongan del tiempo necesario para la preparación de las clases que impartan y para su perfeccionamiento profesional.
 
-###### ARTÍCULO 22.
+### CAPÍTULO III
 
-En las sesiones de la Diputación Permanente, participarán únicamente los Diputados que la integran, con voz y voto; los demás Diputados integrantes de la Legislatura podrán asistir sin poder participar en el desarrollo de la sesión.
+DE LAS ATRIBUCIONES DE LOS AYUNTAMIENTOS.
 
-###### ARTÍCULO 23.
+###### ARTICULO 17.
 
-Las Comisiones Permanentes se integran en los términos previstos por la Ley y para el desempeño de sus funciones contarán con el apoyo de un Secretario Técnico.
+Los ayuntamientos podrán sin perjuicio de la concurrencia de las autoridades educativas federal y estatal y en orden a su presupuesto, promover y prestar servicios educativos de cualquier tipo o modalidad. También podrán realizar actividades de las enumeradas en las fracciones IV a VII del artículo 13 de este ordenamiento.
 
-###### ARTÍCULO 24.
+###### ARTICULO 18.
 
-Las Comisiones Permanentes, tendrán a su cargo las cuestiones relacionadas con la materia propia de su denominación y objeto, formularán los resolutivos de los asuntos turnados, los que reflejarán la opinión de la Comisión y deberán ser sometidos a la consideración del Pleno y podrán solicitar informes a cualquier dependencia del Gobierno del Estado y Entidades Públicas, así como auxiliarse de asesoría especializada del Sector Público, de instituciones académicas o prestadores de servicios privados, para el mejor desempeño de sus funciones.
+Los Ayuntamientos podrán celebrar convenios entre sí y con el Ejecutivo del Estado, con el fin de coordinar o unificar sus actividades educativas y cumplir de mejor manera las responsabilidades a su cargo.
 
-De acuerdo a la naturaleza de los asuntos que se trate, la Primera Comisión Permanente de Legislación y Puntos Constitucionales, podrá conocer en su caso, de manera conjunta con otras comisiones.
+###### ARTICULO 19.
 
-###### ARTÍCULO 25.
+Corresponde específicamente a los Ayuntamientos las siguientes obligaciones:
 
-Las Comisiones Permanentes de Estudio y Dictamen, además de las funciones contenidas en la Ley, genéricamente tendrán las siguientes:
+I.- Organizar el funcionamiento de los Consejos Municipales de Participación Social en la Educación;
 
-I.- Recibir, registrar, analizar los asuntos que les sean turnados y emitir resolutivos en un plazo no mayor de treinta días hábiles, contados a partir del día siguiente de haber recibido los expedientes;
+II.- Obtener por conducto de los Consejos Municipales de Participación Social en la Educación, las opiniones de las personas, sectores y organizaciones interesadas en la educación, respecto a los contenidos y modificaciones de los planes y programas de preescolar, primaria, secundaria, normal y demás destinada a la formación de maestros, que a través de la Secretaría de Educación, deban llegar a la Secretaría de Educación Pública;
 
-II.- Emitir resolutivos de las Iniciativas y los asuntos que la Legislatura anterior, hubiere dejado pendientes;
+III.- Promover y recabar por conducto de los Consejos Municipales de Participación Social en la Educación las sugerencias de las personas, organizaciones, instituciones de los Municipios interesados en la educación, respecto de los planes y programas y de las adecuaciones a los mismos, en orden a lo establecido por el artículo 48 de la Ley General de Educación, a través del Ejecutivo Estatal;
 
-III. Sesionar de conformidad con el Calendario de Reuniones, que será entregado por escrito al Presidente de la Junta de Gobierno, a las que deberán asistir la mayoría de los Diputados integrantes de la Comisión o Comisiones;
+IV.- Administrar en forma específica los fondos que para la educación le sean entregados. Dichos fondos no podrán utilizarse en objeto o finalidad distinta a la asignada. La violación a estas disposiciones traerá como consecuencia el juicio de responsabilidad;
 
-IV.- Celebrar las sesiones de las Comisiones, conforme al Orden del Día aprobado;
+V.- Cooperar con el Gobierno del Estado en la construcción, conservación, mejoramiento mantenimiento y dotación de equipo básico de los edificios escolares oficiales, en orden a su presupuesto;
 
-V.- Formular el Programa Anual de Trabajo de su Comisión, con base en los lineamientos que al efecto emita su Presidente, conjuntamente con la Junta de Gobierno;
+VI.- Cooperar con las autoridades escolares en la atención de los servicios de salubridad e higiene y seguridad de las escuelas de educación pública de su jurisdicción, conforme a su presupuesto;
 
-VI.- Conceder audiencias a la ciudadanía en general, cuando lo soliciten ante el Congreso y suscribir las Convocatorias de Participación Ciudadana y Foros de Consulta Pública de las iniciativas de Ley en la materia;
+VII.- Establecer y sostener servicios de vigilancia escolar;
 
-VII.- Entregar los resolutivos de los asuntos encomendados, debidamente firmados y en formato digital, para su inclusión en el Orden del Día que corresponda;
+VIII.- Promover y coordinar con las autoridades competentes la realización de programas de educación para la salud y mejoramiento del ambiente, así como campañas para prevenir, combatir y erradicar la drogadicción, el alcoholismo y el tabaquismo;
 
-VIII.- Organizar y mantener un archivo documental y en su caso digital, de los asuntos que le sean turnados;
+IX.- Todas aquellas que en forma específica les asigne: La Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, La Constitución Local y las disposiciones de la presente Ley.
 
-IX.- Proporcionar los informes que al efecto le solicite la Unidad de Transparencia y Acceso a la Información Pública Gubernamental del Congreso y al término de la Legislatura, entregarlos a la Secretaría de la Directiva de la Diputación Permanente, por conducto de la Secretaría de Servicios Legislativos, para que así pasen a la Legislatura siguiente; y
+###### ARTICULO 20.
 
-X.- Las demás que les sean conferidas por el Pleno y la Diputación Permanente.
+El Ejecutivo Estatal y los Ayuntamientos, en la esfera de sus atribuciones legales, podrán celebrar convenios con las autoridades federales y estatales, que tienda a la eficacia de los servicios educativos.
 
-### CAPÍTULO I. DE LA DIRECTIVA DEL CONGRESO
+## TÍTULO TERCERO
 
-###### ARTÍCULO 26.
+SISTEMA EDUCATIVO DEL ESTADO DE JALISCO.
 
-Corresponde a la Comisión Inspectora de la Auditoría Superior del Estado:
+### CAPÍTULO I
 
-I.- Recibir y turnar a la Directiva del Congreso para su revisión, los informes del resultado de las cuentas públicas que deberán contener las auditorías practicadas, los dictámenes de su revisión, los apartados correspondientes a la fiscalización del manejo de los recursos públicos por parte de las entidades fiscalizadas, la verificación del desempeño en el cumplimiento de los objetivos de los programas y el relativo a las observaciones de la Auditoría Superior, que incluya además las justificaciones y aclaraciones que en su caso, las entidades fiscalizadas hayan presentado sobre las mismas;
+NORMAS GENERALES.
 
-II.- Comunicar a la Auditoría Superior los acuerdos del Pleno del Congreso o de la Diputación Permanente, para la tramitación de los asuntos de su competencia;
+###### ARTICULO 21.
 
-III.- Vigilar que el funcionamiento de la Auditoría Superior y la conducta de sus servidores públicos, se apeguen a lo dispuesto en la Ley Orgánica de la Auditoría Superior del Estado;
+El sistema educativo estatal se integra, además de las autoridades educativas con:
 
-IV.- Ser el conducto de la comunicación entre el Congreso y la Auditoría Superior;
+1. PERSONAS.
 
-V.- Conocer de la omisión persistente de los Diputados de presentar su declaración de situación patrimonial y actuar en consecuencia;
+a) Los educandos.
 
-VI.- Presentar ante el Pleno el Dictamen relativo a la propuesta de candidatos a ocupar el cargo de Auditor Superior, así como la solicitud de la renuncia o remoción; y
+b) Los educadores
 
-VII.- las demás previstas en el Artículo 65 de la Ley de la Auditoría Superior del Estado de Hidalgo, las que otorgue la Constitución y las encomendadas por el Pleno o la Junta de Gobierno.
+c) Los trabajadores de apoyo y asistencia al servicio de la educación.
 
-### CAPÍTULO II. DE LA DIPUTACIÓN PERMANENTE
+d) Padres de familia, tutores y organizaciones que los representen.
 
-###### ARTÍCULO 27.
+2. INSTITUCIONES.
 
-Corresponde a la Comisión de Legislación y Puntos Constitucionales:
+a) Las instituciones educativas del Estado y de sus organismos descentralizados.
 
-I.- Analizar y dictaminar las iniciativas de reformas o adiciones a la Constitución;
+b) Las instituciones particulares con autorización o reconocimiento de validez oficial de estudios.
 
-II.- Analizar y dictaminar las iniciativas de creación reformas o adiciones de las leyes locales;
+c) Las Instituciones educativas superiores a las que la Ley otorga autonomía.
 
-III.- Analizar y dictaminar las minutas de reformas o adiciones a la Constitución Política de los Estados Unidos Mexicanos;
+d) Los consejos de participación social.
 
-IV.- Analizar y dictaminar sobre el cambio de sede de los Poderes del Estado o del Recinto Oficial del Poder Legislativo;
+e) Las Instituciones de apoyo a la educación.
 
-V.- Analizar y dictaminar sobre el nombramiento, licencia o renuncia de los Consejeros Electorales del Instituto Estatal Electoral;
+f) Las instituciones de formación para el trabajo o las de cualquier otro tipo y modalidad que se imparta de acuerdo con las necesidades educativas de la población y las características particulares de los grupos que la integran.
 
-VI.- Analizar y dictaminar sobre la toma de posesión de los Diputados suplentes en caso de inhabilitación o licencia de los propietarios;
+3. ELEMENTOS EDUCATIVOS.
 
-VII.- Analizar y dictaminar sobre los asuntos relativos a la creación y supresión de municipios;
+a) Planes.
 
-VIII.- Dictaminar sobre la solicitud del titular del Ejecutivo del Estado para cambiar la fecha de presentación del informe del estado que guardan los diversos ramos de la administración pública;
+b) Programas.
 
-IX.- Conocer y emitir resolutivos de los asuntos que le sean turnados; y
+c) Métodos y materiales educativos.
 
-X.- Las demás que le sean conferidas por el Pleno del Congreso o la Diputación
+d) El calendario escolar.
 
-Permanente.
+###### ARTICULO 22.
 
-###### ARTÍCULO 28.
+Los educandos deberán cumplir con la normatividad que regula su acceso, permanencia y promoción dentro del Sistema Educativo Estatal.
 
-Corresponde a la Comisión de Hacienda y Presupuesto, la atención y conocimiento, para analizar y dictaminar los siguientes asuntos:
+###### ARTICULO 23.
 
-I.- Las iniciativas de Ley de Ingresos del Estado y de los municipios y la propuesta de Presupuesto de Egresos del Estado;
+Las instituciones del sistema educativo estatal, impartirán la educación de manera que ésta permita al educando incorporarse a la sociedad como un elemento positivo y, en su oportunidad desarrollar una actividad productiva que le facilite superarse académicamente.
 
-II.- Lo relacionado con la materia de deuda pública;
+###### ARTICULO 24.
 
-III.- Lo relacionado con la materia de hacienda pública;
+Las instituciones del sistema educativo estatal expedirán certificados, constancias, diplomas, títulos o grados académicos a las personas que hayan concluido estudios de conformidad con los planes y programas correspondientes; para que dichos documentos tengan validez, requerirán de la constancia de certificación de firmas que haga la Secretaría de Educación del Estado.
 
-IV.- Las cuotas y tarifas estatales y municipales, así como de organismos públicos descentralizados de la administración pública estatal y/o municipal;
+###### ARTICULO 25.
 
-V.- Conocer y emitir resolutivos de los asuntos que le sean turnados en materia hacendaria y presupuestaria; y
+Las instituciones que impartan servicios educativos, deberán informar periódicamente a los educandos y, en su caso, a los padres de familia o tutores los resultados y calificaciones de los exámenes parciales y finales, así como las observaciones sobre el desempeño académico y disciplinario de los educandos, con el fin de lograr la superación y aprovechamiento de los mismos.
 
-VI.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
+### CAPÍTULO II
 
-### CAPÍTULO III. DE LAS COMISIONES
+DE LOS TIPOS, NIVELES Y MODALIDADES.
 
-###### ARTÍCULO 29.
+###### ARTICULO 26.
 
-Corresponde a la Comisión de Gobernación:
+El sistema educativo estatal se compone con los tipos, los niveles y las modalidades siguientes: inicial, básico, extraescolar, medio superior y superior;
 
-I.- Analizar y dictaminar sobre la Declaración de Gobernador Electo del Estado que realice el Consejo General del Instituto Estatal Electoral;
+I.- El tipo básico comprende los niveles de preescolar con tres grados, la primaria, con seis grados y la secundaria, con tres grados.
 
-II.- Analizar y dictaminar sobre el nombramiento del ciudadano que deba suplir al
+a) La educación preescolar no es antecedente obligatorio de la primaria, pero si recomendable.
 
-Gobernador Constitucional en caso de falta temporal o definitiva de éste;
+b) La educación primaria es antecedente obligatorio de la secundaria.
 
-III.- Analizar y dictaminar sobre la desaparición o suspensión de ayuntamientos, así como la suspensión o revocación del mandato a alguno o algunos de sus miembros, por cualquiera de las causas graves que las leyes prevengan; así como sobre la designación de los Concejos Municipales;
+c) La educación secundaria es antecedente obligatorio del nivel medio superior.
 
-IV.- Analizar y dictaminar sobre la resolución de los conflictos sociopolíticos que se susciten entre dos o más municipios de la Entidad, así como entre estos y el Poder Ejecutivo del Estado;
+II.- El tipo medio superior comprende el nivel de bachillerato, los demás niveles equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalentes.
 
-V.- Analizar y dictaminar sobre la declaración de nuevas denominaciones políticas municipales, realizadas por los ayuntamientos, de conformidad con lo dispuesto en la Ley Orgánica Municipal;
+a) La educación preparatoria o el bachillerato tecnológico son antecedentes obligatorios de la educación superior.
 
-VI.- Conocer y dictaminar, conjuntamente con la Primera Comisión Permanente de Obras Públicas, Desarrollo Urbano y Vivienda, los convenios en materia de límites que realicen los Ayuntamientos del Estado;
+b) La educación técnica y de formación para y en el trabajo serán terminales, salvo que los planes y programas permitan la continuación de los estudios en el nivel superior, y
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+III.- El tipo superior se imparte después del bachillerato o sus equivalentes. Está compuesto por la licenciatura, la especialidad, la maestría y el doctorado, así como por opciones terminales previas a la conclusión de la licenciatura. Comprende la educación normal en todos sus niveles y especialidades.
 
-VII.- En conjunto con las Primeras Comisiones Permanentes de Seguridad Ciudadana y Justicia y la de Derechos Humanos y Atención de las Personas con Discapacidad; recibir y supervisar el proceso de selección de las ternas enviadas por el Gobernador del Estado para la selección por el Pleno del Congreso, de los Comisionados de la Comisión Ejecutiva Estatal de Atención a Víctimas;
+### CAPÍTULO III
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+DE LA EDUCACION INICIAL.
 
-VIII.- Conocer y emitir resolutivos de los asuntos que le sean turnados; y
+###### ARTICULO 27.
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+La educación inicial tiene como objeto favorecer la estimulación temprana y el desarrollo físico, cognoscitivo, afectivo, social y psicomotriz de los menores de entre 45 días y dos años once meses de edad; incluye orientación a padres de familia y tutores para la educación de sus hijos o pupilos.
 
-IX.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
+Sus propósitos son:
 
-###### ARTÍCULO 30.
+I.- Promover y consolidar la educación inicial como un derecho de los niños con el fin de que accedan en igualdad de condiciones al siguiente nivel del sistema educativo, y como apoyo a los padres y tutores;
 
-Corresponde a la Comisión de Educación:
+II.- Que los padres de familia y tutores participen de manera directa en la educación de sus hijos, para continuar la labor educativa de dichas instituciones en el hogar.
 
-I.- Conocer y emitir resolutivos de los asuntos que le sean turnados relativos a la educación del Estado, en todos sus niveles y modalidades; y
+III.- Vincular la educación inicial con la preescolar; y
 
-II.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
+IV.- Ofrecer servicios médicos, psicológicos, de trabajo social, pedagógico y de nutrición.
 
-###### ARTÍCULO 31.
+###### ARTICULO 28.
 
-Corresponde a la Comisión de Niñez, Juventud, Deporte y Familia:
+El personal que atienda a los niños en este nivel de educación deberá contar con una preparación profesional adecuada y acreditarlo.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+### CAPÍTULO IV
 
-I.- Conocer y emitir resolutivos de los asuntos que le sean turnados relativos a la promoción y fortalecimiento de la participación de los niños, jóvenes y la familia, en la vida política, económica, social y deportiva del Estado;
+DE LA EDUCACION BASICA.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+###### ARTICULO 29.
 
-II.- Organizar anualmente el Parlamento tanto Infantil como Juvenil; y
+La educación preescolar es la destinada a los menores de entre tres y cinco años once meses, y tiene por finalidad sentar las bases para que el educando se desarrolle de manera integral, vinculándose con su entorno social, así como el desarrollo inicial de sus potencialidades humanas.
 
-III.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
+Se impartirá en estancias infantiles, casas hogar, jardines de niños e instituciones análogas. No es antecedente obligatorio de la primaria.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
+###### ARTICULO 30.
 
-###### ARTÍCULO 32.
+El personal docente encargado de este nivel educativo deberá contar con título académico que le acredite como profesor o licenciado en educación preescolar.
 
-Corresponde a la Comisión de Seguridad Ciudadana y Justicia:
+###### ARTICULO 31.
 
-I. Conocer y dictaminar las Iniciativas y resolver los asuntos relacionados con seguridad ciudadana, procuración y administración de justicia, prevención social de la violencia y reinserción social;
+La educación primaria es obligatoria para todos los habitantes del Estado. Tiene como objetivo primordial dotar al educando de los conocimientos, habilidades y formación de hábitos que fundamenten el aprendizaje posterior, así como los conocimientos elementales para integrarse a la sociedad y acceder a su formación cultural posterior.
 
-II. Analizar y dictaminar sobre el nombramiento, licencia o renuncia de los Magistrados de los Tribunales Superior de Justicia, Fiscal Administrativo y Electoral del Estado; del Procurador General de Justicia y Subprocurador de Asuntos Electorales, así como el Consejero designado por el Congreso del Estado, para formar parte del Consejo de la Judicatura del Poder Judicial del Estado;
+En el sistema educativo estatal se impartirá educación primaria a los niños cuya edad fluctué entre los 6 y 14 años.
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+###### ARTICULO 32.
 
-III. En conjunto con las Primeras Comisiones Permanentes de Gobernación y la de Derechos Humanos y Atención de las Personas con Discapacidad; recibir y supervisar el proceso de selección de las ternas enviadas por el Gobernador del Estado para la selección por el Pleno del Congreso, de los Comisionados de la Comisión Ejecutiva Estatal de Atención a Víctimas;
+En el Estado funcionarán centros de educación primaria para:
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+I.- Niños de los seis hasta los catorce años cumplidos al día de su inscripción, incluyendo a los niños indígenas y a los que tengan necesidades especiales;
 
-IV. Conocer y emitir resolutivos de los asuntos que le sean turnados, en materia de seguridad ciudadana y justicia; y
+II.- Adultos.
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+###### ARTICULO 33.
 
-V. Las demás que le sean conferidas expresamente por el Pleno o la Diputación Permanente.
+La educación primaria, pública y la que impartan los particulares, estará unificada en cuanto a organización, planes, programas, libros de texto gratuito, sistema de evaluación, calendario escolar y régimen administrativo.
 
-###### ARTÍCULO 33.
+###### ARTICULO 34.
 
-Corresponde a la Comisión de Derechos Humanos:
+Todas las escuelas de educación primaria estarán obligadas a aportar a las autoridades educativas del Estado la información y documentación requeridas; así mismo se sujetarán a los procesos de supervisión y vigilancia que se establezcan en el reglamento que para tal efecto emita el Ejecutivo del Estado.
 
-I.- Conocer y dictaminar sobre el nombramiento, licencia o renuncia del Presidente de la Comisión de Derechos Humanos en el Estado de Hidalgo;
+###### ARTICULO 35.
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+El personal docente encargado de este nivel educativo deberá contar con título de profesor o licenciado en educación primaria.
 
-II.- Conocer y emitir resolutivos en los asuntos que le sean turnados en materia de derechos humanos y no discriminación;
+###### ARTICULO 36.
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+La educación secundaria forma parte de la educación básica y tiene carácter propedéutico.
 
-III.- En conjunto con las Primeras Comisiones Permanentes de Gobernación y la de Seguridad Ciudadana y Justicia; recibir y supervisar el proceso de selección de las ternas enviadas por el Gobernador del Estado para la selección por el Pleno del Congreso, de los Comisionados de la Comisión Ejecutiva Estatal de Atención a Víctimas;
+###### ARTICULO 37.
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+La educación secundaria es obligatoria para todos los habitantes del Estado. Tiene como objeto primordial promover el desarrollo integral del educando para que emplee en forma óptima sus capacidades, y obtenga la formación que le permita continuar con sus estudios o adquirir una formación general para ingresar al trabajo.
 
-IV.- Conocer y emitir resolutivos en los asuntos que le sean turnados en materia de derechos humanos y no discriminación; y
+Para su estudio es indispensable haber concluido la educación primaria.
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+###### ARTICULO 38.
 
-V.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
+En el Estado funcionarán escuelas de educación secundaria:
 
-###### ARTÍCULO 34.
+I.- Generales;
 
-Corresponde a la Comisión de Salud:
+II.- Técnicas;
 
-I.- Conocer y emitir resolutivos en los asuntos que le sean turnados en materia de salud; y
+III.- Telesecundarias;
 
-II.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
+IV.- De sistema abierto; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+V.- Por Cooperación.
 
-###### ARTÍCULO 35.
+###### ARTICULO 39.
 
-Corresponde a la Comisión de Medio Ambiente, Recursos Naturales y Cambio Climático:
+Los docentes que se adscriban a los planteles de educación secundaria, deberán cubrir el perfil profesional requerido para el nivel por las autoridades educativas competentes y por las disposiciones legales aplicables.
 
-I.- Conocer y emitir resolutivos de los asuntos que le sean turnados en materia de medio ambiente, recursos naturales y cambio climático; y
+###### ARTICULO 40.
 
-II.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
+En el sistema educativo estatal quedan comprendidas:
 
-###### ARTÍCULO 36.
+I.- Educación para adultos;
 
-Corresponde a la Comisión de Población y Migración:
+II.- Educación indígena;
 
-I.- Conocer y emitir resolutivos de los asuntos que le sean turnados en materia de demografía y salvaguarda de los derechos de los migrantes al interior y al exterior del Estado;
+III.- Educación para sujetos con requerimientos de educación especial;
 
-II.- Coadyuvar con las instituciones competentes, en el apoyo integral a los hidalguenses que se encuentran en territorio extranjero, en términos de la legislación en la materia; y
+IV.- Educación física.
 
-III.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
+###### ARTICULO 41.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2014)</small>
+Se denominará educación para adultos la educación destinada a individuos de 15 años o más que no hayan cursado o concluido la educación básica.
 
-###### ARTÍCULO 37.
+###### ARTICULO 42.
 
-Corresponde a la Comisión de Desarrollo Económico:
+La educación para adultos comprende los servicios de:
 
-I.- Conocer y emitir resolutivos de los asuntos que le sean turnados relacionados con la micro, pequeña y mediana industria, crecimiento económico sustentable, intercambio de productos y servicios, la calidad y precio de los mismos, mercado interno, mercado interregional, importación y exportación, inversión mexicana y extranjera en el territorio del Estado y todo lo relacionado con la actividad productiva; y
+I.- Alfabetización;
 
-II.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
+II.- Educación primaria y secundaria;
 
-###### ARTÍCULO 38.
+III.- Educación media superior;
 
-Corresponde a la Comisión de Obras Públicas, Desarrollo Urbano y Vivienda:
+IV.- Educación superior;
 
-I.- Conocer y dictaminar, conjuntamente con la Primera Comisión Permanente de Gobernación, los Convenios en Materia de Límites que realicen los Ayuntamientos del Estado;
+V.- La formación para y en el trabajo.
 
-II.- Conocer y emitir resolutivos de los asuntos que les sean turnados, relativos a la producción de obra pública, desarrollo urbano y vivienda sustentable y contribuir a salvaguardar estos derechos sociales básicos; y
+Los servicios educativos de este tipo se adecuarán a las necesidades de los grupos de usuarios, quienes podrán acreditar sus estudios mediante exámenes parciales o globales, de acuerdo a lo establecido por los artículos 45 y 64 de la Ley General de Educación. En los casos en que dichos usuarios reprueben un examen recibirán un informe que les indique las unidades de estudio en las que deban profundizar, teniendo derecho a presentar nuevos exámenes hasta lograr calificación aprobatoria.
 
-III.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
+###### ARTICULO 43.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2014)</small>
+A las personas que participen en actividades de promoción de la educación para adultos o de asesoría a los educandos, se les podrá acreditar como servicio social.
 
-###### ARTÍCULO 39.
+###### ARTICULO 44.
 
-Corresponde a la Comisión de Igualdad de Género:
+Se denomina formación para el trabajo al tipo de servicios para la adquisición de conocimientos, habilidades o destrezas, que permitan a los usuarios desarrollar una actividad productiva demandada en el mercado, mediante alguna ocupación u oficio calificados.
 
-I.- Conocer y emitir resolutivos de los asuntos que les sean turnados relativos a las desigualdades sociales, económicas y culturales entre los hombres y las mujeres, desde una perspectiva de género y el combate a toda forma de discriminación; y
+La Secretaría de Educación del Estado de Jalisco expedirá los certificados, constancias o diplomas que acrediten los estudios de los usuarios de la formación para el trabajo, que acrediten los conocimientos, habilidades o destrezas adquiridos; dichas certificaciones se referirán a conclusiones intermedias o terminales, de acuerdo a lo dispuesto en el artículo 45 párrafo segundo de la Ley General de Educación.
 
-II.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
+El Ejecutivo Estatal establecerá los procedimientos necesarios para recibir propuestas y opiniones de los diversos sectores productivos para instrumentar los servicios de formación para el trabajo en el Estado. Podrán certificarse los servicios educativos de formación para el trabajo impartidos en forma directa por el sector productivo de la sociedad, de acuerdo a lo dispuesto en el artículo 45 de la Ley General de Educación.
 
-###### ARTÍCULO 40.
+Todos los estudios relacionados con la formación para el trabajo serán adicionales y complementarios a la capacitación prevista en la fracción XIII del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Corresponde a la Comisión de Comunicaciones y Transportes:
+Podrán celebrarse convenios para que este tipo de servicios sea impartido por las autoridades estatales y municipales, instituciones privadas, las organizaciones sindicales, los empleados y por particulares.
 
-I.- Conocer y emitir resolutivos de los asuntos que le sean turnados en materia de transporte, tránsito, vialidad, así como los medios y sistemas de comunicación; y
+###### ARTICULO 45.
 
-II.- Las demás que le sean conferidas por el Pleno del Congreso o la Diputación Permanente.
+La educación en las comunidades indígenas estará inspirada en los intereses y características afectivas, psicológicas, culturales del niño y en las necesidades del grupo social, buscando incorporarlos a los valores culturales de la identidad nacional.
 
-###### ARTÍCULO 41.
+###### ARTICULO 46.
 
-Corresponde a la Comisión Instructora:
+Las finalidades de la educación indígena son:
 
-I.- Conocer de los asuntos en los que el Congreso deba resolver, erigiéndose en Órgano de Acusación o en Jurado de Procedencia, por la comisión de delitos o faltas administrativas graves, con sujeción a los procedimientos que establece la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo; y
+I.- Contribuir a la consolidación de su identidad étnica y nacional;
 
-II.- Las demás que le sean conferidas por el Pleno del Congreso o la Diputación Permanente.
+II.- Ofrecer al indígena la oportunidad de ser educado, respetando su personalidad y su cultura, capacitándolo para que pueda ser factor decisivo en la construcción de su conocimiento;
 
-###### ARTÍCULO 42.
+III.- Formar un individuo conocedor de su realidad sociocultural que le capacite para incorporarse a la vida productiva de la comunidad y haga de él un ser participativo;
 
-(DEROGADO, P.O. 17 DE AGOSTO DE 2020)
+IV.- Fomentar el interés en el educando para que continúe estudiando en otros niveles educativos;
 
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+V.- Promover la enseñanza del español como lengua nacional común para todos los mexicanos, sin menoscabo de proteger y promover el desarrollo de las lenguas indígenas;
 
-ARTÍCULO 42 BIS.- Corresponde a la Comisión de Participación Ciudadana:
+VI.- Estimular el interés por preservar el equilibrio ecológico;
 
-I.- Conocer y emitir resolutivos de los asuntos que le sean turnados en materia de participación ciudadana; así como proponer e impulsar las actividades legislativas y de parlamento abierto que permitan involucrar a la sociedad en las decisiones legislativas; y
+VII.- Fomentar las actividades culturales tradicionales, y
 
-II.- Las demás que le sean conferidas por el Pleno del Congreso y la Diputación Permanente.
+VIII.- Estimular en el educando la expresión artística.
 
-###### ARTÍCULO 43.
+###### ARTICULO 47.
 
-Corresponde a la Comisión para el Desarrollo Integral de los Pueblos Indígenas:
+El Ejecutivo del Estado propondrá a la Secretaría de Educación Pública, planes, programas de estudio y libros de texto gratuitos para la educación indígena.
 
-I.- Conocer y emitir resolutivos de los asuntos que le sean turnados relacionados con los derechos y la cultura de los pueblos y comunidades indígenas del Estado, en los términos establecidos en el párrafo octavo del Artículo 5 de la Constitución; y
+###### ARTICULO 48.
 
-II.- Las demás que le sean conferidas por el Pleno del Congreso y la Diputación Permanente
+El Ejecutivo del Estado y los Ayuntamientos promoverán el mejoramiento de la nutrición de los niños indígenas, mediante el otorgamiento de desayunos escolares durante el año lectivo.
 
-###### ARTÍCULO 44.
+###### ARTICULO 49.
 
-Corresponde a la Comisión de Agricultura, Ganadería y Desarrollo Rural Sustentable:
+Para ser docente o directivo de educación indígena se requiere ser bilingüe: lengua autóctona-español, tener preparación mínima de secundaria y de preferencia, pertenecer a la propia etnia.
 
-I.- Conocer y emitir resolutivos de los asuntos que les sean turnados en materia de agricultura, ganadería y desarrollo rural y rural urbano sustentable; y
+###### ARTICULO 50.
 
-II.- Las demás que le sean conferidas por el Pleno del Congreso y la Diputación Permanente.
+La educación especial tiene como finalidad proporcionar educación a personas con necesidades educativas especiales, transitorias o definitivas, así como aquellos con aptitudes sobresalientes, en los niveles de educación básica.
 
-###### ARTÍCULO 45.
+En los casos de menores de edad con necesidades educativas especiales, la educación propiciará su integración a los planteles de educación básica del sistema estatal. Para quienes no logren dicha integración, la educación especial procurará la satisfacción de las necesidades básicas de aprendizaje, para lograr la autonomía en la convivencia social y productiva de la persona, para la cual se dará fomento especial para la creación de instituciones que se dediquen a la educación de niños con necesidades educativas especiales.
 
-Corresponde a la Comisión de Planeación y Desarrollo Regional:
+En los casos de niños, adolescentes y jóvenes con capacidades sobresalientes, la educación propiciará su integración en planteles de educación especial, donde puedan desarrollar al máximo sus capacidades.
 
-I.- Conocer y emitir resolutivos de los asuntos que les sean turnados en materia de planeación y desarrollo regional del Estado; y
+La educación especial incluirá la orientación a padres o tutores, la capacitación a los maestros y personal de las escuelas de educación básica pertenecientes al sistema educativo estatal, que integren a alumnos de educación básica con necesidades educativas especiales.
 
-II.- Las demás que le sean conferidas por el Pleno del Congreso y la Diputación Permanente.
+###### ARTICULO 51.
 
-###### ARTÍCULO 46.
+El Ejecutivo del Estado promoverá la ocupación laboral de las personas egresadas de las instituciones que presten servicios de educación especial, que puedan desarrollar algún trabajo, y que no puedan seguir estudiando. En el caso de personas sobresalientes, promoverá la continuación de sus estudios.
 
-Corresponde a la Comisión del Trabajo:
+###### ARTICULO 52.
 
-I.- Conocer y emitir resolutivos de los asuntos que le sean turnados en materia de relaciones laborales de los distintos sectores productivos del Estado, así como en materia de empleo, previsión y seguridad social y competitividad; y
+El personal que labore en este tipo de instituciones deberá acreditar su preparación de acuerdo a las funciones que desempeñen.
 
-II.- Las demás que le sean conferidas por el Pleno del Congreso y la Diputación Permanente.
+###### ARTICULO 53.
 
-###### ARTÍCULO 47.
+La educación física es una parte fundamental para la educación integral del educando, le proporciona estimulación afectiva, cognoscitiva y psicomotriz que coadyuvan a su desarrollo armónico.
 
-Corresponde a la Comisión de Protección Civil:
+###### ARTICULO 54.
 
-I.- Conocer y emitir resolutivos de los asuntos que le sean turnados en materia de prevención, auxilio y recuperación de la población de la entidad, con motivo de peligros y riesgos que se presenten ante la eventualidad de un desastre; y
+La educación física que impartan el Estado, los ayuntamientos y sus organismos descentralizados tendrá (sic), además de los propósitos establecidos, los siguientes:
 
-II.- Las demás que le sean conferidas por el Pleno del Congreso y la Diputación Permanente.
+I.- Mejorar la capacidad de coordinación, basada en la posibilidad, dominio y manifestaciones eficientes del movimiento, y en la resolución de problemas en los ámbitos cognoscitivos, motriz, afectivo y social;
 
-###### ARTÍCULO 48.
+II.- Estimular, desarrollar y conservar la condición física del educando a través de la ejercitación sistemática de las capacidades físicas, atendiendo a las características individuales del mismo;
 
-Corresponde a la Comisión de Asuntos Metropolitanos:
+III.- Propiciar la manifestación de habilidades motrices a partir de la práctica de actividades físico deportivas y recreativas que le permitan integrarse a interactuar con los demás;
 
-I.- Conocer y emitir resolutivos de los asuntos que le sean turnados en materia de los requerimientos generados por las conurbaciones y zonas metropolitanas; y
+IV.- Propiciar en el educando la confianza y seguridad en sí mismo, mediante la realización de actividades físicas que permitan la posibilidad del control y manejo del cuerpo en diferentes situaciones;
 
-II.- Las demás que le sean conferidas por el Pleno del Congreso y la Diputación Permanente.
+V.- Promover la formación y estimular la adquisición de hábitos, de ejercer diaria higiene, alimentación, descanso y conservación del medio ambiente con la práctica de actividades complementarias que condicionan su efectiva repercusión en la salud individual y colectiva;
 
-###### ARTÍCULO 49.
+VI.- Fomentar la manifestación de actividades, positivas, individuales y grupales, así como la adquisición de valores a partir de aquellas actividades que utilicen al movimiento como una forma de expresión;
 
-Corresponde a la Comisión de Ciencia y Tecnología:
+VII.- Incrementar las actividades sociales favorables de respeto, cooperación y confianza en los demás, mediante las actividades físicas grupales que promuevan su integración al medio y su relación interpersonal.
 
-I.- Conocer y emitir resolutivos de los asuntos que le sean turnados relativos a la innovación, investigación y promoción del desarrollo científico y tecnológico del Estado; y
+###### ARTICULO 55.
 
-II.- Las demás que le sean conferidas por el Pleno del Congreso y la Diputación Permanente.
+La educación física es obligatoria como asignatura, y se impartirá en los distintos tipos y niveles del sistema educativo conforme a los planes y programas expedidos por las autoridades competentes.
 
-###### ARTÍCULO 50.
+###### ARTICULO 56.
 
-Corresponde a la Comisión de Turismo:
+La educación física se impartirá por maestros que acrediten preparación profesional en la materia, con grado de licenciatura.
 
-I.- Conocer y emitir resolutivos de los asuntos que le sean turnados relacionados con los programas y acciones que contribuyan al desarrollo y promoción de la actividad turística, así como los relacionados con la infraestructura y servicios del sector en el Estado; y
+###### ARTICULO 57.
 
-II.- Las demás que le sean conferidas por el Pleno del Congreso y la Diputación Permanente.
+Los docentes que se contraten de nuevo ingreso al servicio educativo, deberán de cubrir el perfil profesional requerido por la ley. Asimismo, quienes ya perteneciendo al servicio educativo hayan de ser promovidos a una asignatura diferente, deberán cubrir el perfil profesional requerido por la nueva asignatura.
 
-###### ARTÍCULO 51.
+### CAPÍTULO V
 
-Corresponde a la Comisión de Transparencia y Acceso a la Información Pública Gubernamental:
+DE LA EDUCACION EXTRAESCOLAR.
 
-I.- Recibir el Informe anual que rinda el Consejero Presidente del Instituto de Transparencia y Acceso a la Información Pública Gubernamental;
+###### ARTICULO 58.
 
-II.- Conocer y emitir resolutivos de los asuntos que le sean turnados, en materia de transparencia de la información pública gubernamental que deba proporcionarse a la ciudadanía sobre el correcto ejercicio de los recursos -humanos, materiales y financieros- que maneja cada sujeto obligado, excepción hecha de la información catalogada como reservada o confidencial, así como la que se refiera a los datos personales;
+Para propiciar el desarrollo de sus comunidades el Ejecutivo del Estado impulsará la educación extraescolar a través de las siguientes acciones:
 
-III.- Vigilar los trabajos del Comité de Acceso a la Información Pública Gubernamental del Congreso; y
+I.- Misiones Culturales;
 
-IV.- Las demás que le sean conferidas por el Pleno del Congreso y la Diputación Permanente.
+II.- Programas de preservación y mejoramiento de la salud;
 
-###### ARTÍCULO 52.
+III.- Programas de mejoramiento del medio ambiente y preservación ecológica;
 
-Corresponde a la Comisión de Cultura:
+IV.- Fomento del desarrollo artístico y artesanal;
 
-I.- Conocer y emitir resolutivos de los asuntos que le sean turnados en materia de fomento a la cultura y las artes, la preservación de los espacios públicos, bienes y valores en el Estado; y
+V.- Rescate y conservación del patrimonio cultural comunitario;
 
-II.- Las demás que le sean conferidas por el Pleno del Congreso y la Diputación Permanente.
+VI.- Fortalecimiento del conocimiento de la historia y geografía del Estado;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2022)</small>
+VII.- Fomento del servicio a la comunidad en una participación social comprometida, y
 
-###### ARTÍCULO 53.
+VIII.- Las demás que tiendan al bienestar individual y social.
 
-Corresponde a la Comisión de las Personas Adultas Mayores:
+###### ARTICULO 59.
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2022)</small>
+Para impulsar la educación extraescolar el Estado hará uso de los avances de la tecnología que tenga a su alcance.
 
-I. Conocer y emitir resolutivos de los asuntos que le sean turnados en materia de atención y tutela de las personas adultas mayores; y
+### CAPÍTULO VI
 
-II.- Las demás que le sean conferidas por el Pleno del Congreso y la Diputación Permanente.
+DE LA EDUCACION MEDIA SUPERIOR.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2014)</small>
+###### ARTICULO 60.
 
-###### ARTÍCULO 54.
+La educación media superior tiene carácter propedéutico y terminal en su caso y comprende el nivel bachillerato, los demás niveles equivalentes a éste, así como la educación profesional media.
 
-Corresponde a la Comisión de Desarrollo Social y Humano:
+###### ARTICULO 61.
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2022)</small>
+La educación media superior se clasifica en:
 
-I.- Conocer y emitir resolutivos de los asuntos que le sean turnados relacionados con el combate a la pobreza y protección a los grupos vulnerables, con énfasis en atención a mujeres, niños, discapacitados, personas adultas mayores, indígenas y demás grupos marginados, para el mejoramiento de las condiciones de vida y bienestar de la población; y
+I.- Propedéutica: General, Tecnológica y Pedagógica;
 
-II.- Las demás que le sean conferidas por el Pleno del Congreso y la Diputación Permanente.
+II.- Terminal.
 
-###### ARTÍCULO 55.
+###### ARTICULO 62.
 
-Corresponde a la Comisión de Desarrollo y Fortalecimiento Municipal:
+El bachillerato tiene como antecedente la educación secundaria. Su finalidad primordial es el desarrollo de una primera síntesis personal, social y cultural que habilita al individuo para la educación superior, preparándolo para su posible incorporación al trabajo productivo.
 
-I.- Conocer y emitir resolutivos de los asuntos que le sean turnados en materia de modernización, desarrollo y fortalecimiento Municipal para contribuir a generar espacios que permitan lograr administraciones eficientes, mecanismos eficaces de gestión pública, infraestructura urbana y social y participación de la población en los programas sociales que puedan beneficiar a los Municipios; y
+El Ejecutivo Estatal, a través de la Secretaría de Educación, vigilará que todo tipo de instituciones se ajusten a las disposiciones legales, conservando la unidad del sistema.
 
-II.- Las demás que le sean conferidas por el Pleno del Congreso y la Diputación Permanente.
+###### ARTICULO 63.
 
-###### ARTÍCULO 56.
+Las escuelas de educación media superior terminal o de enseñanza técnica dependientes del Estado, normarán sus trabajos de acuerdo a los programas que cubran las necesidades del alumnado y de la entidad, con el fin de preparar personal calificado en las diferentes actividades de la industria, del comercio, del campo y del trabajo en general. Los particulares podrán coadyuvar con el Estado en este tipo de preparación.
 
-Al inicio, término, declaración de receso y reanudación de la sesión, el Presidente de la Directiva tocará la campana; debiendo sujetarse el desarrollo de las sesiones al orden del día preestablecido.
+###### ARTICULO 64.
 
-###### ARTÍCULO 57.
+El Ejecutivo del Estado podrá, sin perjuicio de las disposiciones de las autoridades educativas federales y conforme a la Ley General de Educación, emitir lineamientos referidos a la formación para el trabajo en la entidad, en atención a sus requerimientos particulares, con el objeto de definir aquellos conocimientos o destrezas susceptibles de certificación, así como los procedimientos de evaluación correspondientes.
 
-Para la integración del Orden del Día, la Directiva considerará exclusivamente los asuntos que hayan sido registrados en la Secretaría de Servicios Legislativos, hasta antes de las catorce horas del día anterior a la sesión, salvo acuerdo de la Junta de Gobierno.
+###### ARTICULO 65.
 
-Para el caso de que se presentara algún asunto con el carácter de urgente o hubiere necesidad de retirar otro ya comprendido en el orden del día, el Presidente de la Directiva someterá a consideración del Pleno, la modificación del mismo; lo anterior no aplica al registro de los asuntos generales, para ello bastará la solicitud del Diputado que lo haya registrado.
+El telebachillerato seguirá los lineamientos que señale el Ejecutivo Estatal a través de la Secretaría de Educación del Estado.
 
-### CAPÍTULO I. DE LAS SESIONES
+###### ARTICULO 66.
 
-###### ARTÍCULO 58.
+Las Instituciones que impartan educación media superior, deberán formar parte del Consejo Estatal para la Planeación de Educación Media Superior.
 
-Los Diputados que participen con asuntos generales, deberán registrarlos en la Secretaría de Servicios Legislativos a más tardar a las catorce horas del día anterior a la sesión que corresponda. Se exceptúan de lo anterior, los asuntos que por su naturaleza deban ser tratados en la sesión, los cuales serán registrados antes del inicio de la misma y contarán con diez minutos para desarrollar su tema.
+### CAPÍTULO VII
 
-Por cada asunto inscrito, la Secretaría de Servicios Legislativos, elaborará un formato que debe contener el nombre del Diputado, Grupo Legislativo, fecha y hora de registro, tema a tratar y las firmas del que hizo la inscripción y de la persona que lo registró, del cual se formará un expediente; asimismo de los asuntos registrados, elaborará una relación que se anexará al Acta de Sesión y tarjetas de cada tema inscrito a efecto de que les den lectura los Secretarios de la Directiva, en la sesión que corresponda.
+DE LA EDUCACION SUPERIOR.
 
-###### ARTÍCULO 59.
+###### ARTICULO 67.
 
-Las citaciones a las sesiones extraordinarias corresponden al Presidente de la Directiva de la Diputación Permanente, quien podrá realizarlas de manera verbal al final de la sesión que corresponda o por escrito, en cuyo caso contendrá:
+La educación superior será la que se imparta después de la educación media superior. Estará compuesta por la educación técnica superior, licenciatura, especialización, maestría y doctorado, así como por opciones terminales previas a la conclusión de la licenciatura. Comprenderá también la educación normal en todos sus niveles y especialidades.
 
-I.- La fecha de su emisión;
+###### ARTICULO 68.
 
-II.- La fecha y hora programadas para la sesión; y
+Las universidades e instituciones de educación superior deberán realizar las siguientes funciones:
 
-III.- La firma de la Secretaría de la Directiva.
+I.- Docencia;
 
-La Secretaría de la Directiva podrá auxiliarse para lo anterior, de la Secretaría de Servicios Legislativos.
+II.- Investigación, y
 
-### CAPÍTULO II. DE LAS INICIATIVAS
+III.- Difusión de la cultura.
 
-###### ARTÍCULO 60.
+###### ARTICULO 69.
 
-Para efectos del Artículo 117 fracción III de la Ley, si dentro del acta de la sesión anterior que se presenta en el orden del día para su aprobación, hubiere propuesta de modificación sobre alguno de sus puntos, los Diputados harán la moción correspondiente a la Presidencia y esta valorará la pertinencia de la misma y ordenará en su caso a la Secretaría de Servicios Legislativos, hacer las modificaciones pertinentes, pasándose enseguida a su votación.
+La Universidad de Guadalajara se regirá por su propia Ley Orgánica. Las unidades de la Universidad Pedagógica Nacional, así como las demás instituciones del nivel superior y los servicios educativos a su cargo, a las que la ley otorga autonomía según la fracción VII del 3o. Constitucional, se regirán por su Ley Orgánica o su normatividad.
 
-Así mismo el Presidente de la Directiva podrá someter a votación del Pleno la dispensa de la lectura y la aprobación del acta de la sesión anterior, por ser de todos conocido su contenido.
+###### ARTICULO 70.
 
-###### ARTÍCULO 61.
+El Sistema Estatal de Formación, Actualización, Capacitación y Superación Profesional para maestros, será organizado por la Secretaría de Educación, y estará integrado por:
 
-Lo expresado por los Diputados en las sesiones de la Legislatura, será registrado en el Diario de Debates, que es el documento en que se hace constar la trascripción literal de sus intervenciones, en cada uno de los puntos contenidos en el Orden del Día de la sesión que corresponda. Dicho Diario se anexa al Acta de la Sesión respectiva.
+I.- Las instituciones oficiales y particulares dedicadas a la formación, actualización, capacitación y superación profesional para docentes;
 
-###### ARTÍCULO 62.
+II.- Las instituciones oficiales y particulares que autorizadas por la Secretaría de Educación, ofrezcan servicios de estudios de formación bilingüe, post-grado, maestrías o doctorados y becas internacionales en asignaturas pedagógicas o de administración educativa, y
 
-Las actas de las sesiones contendrán la relatoría de lo ocurrido en las mismas en el siguiente orden:
+III.- Las instituciones oficiales y particulares de educación superior, que impartan servicios educativos de actualización y capacitación profesional.
 
-I.- Los nombres de los integrantes de la Directiva que la presidió;
+###### ARTICULO 71.
 
-II.- El lugar y la fecha de celebración de la sesión, especificando hora de inicio y de término y los recesos que ocurrieron, en su caso;
+Los servicios para la formación de maestros a cargo de las autoridades educativas locales, tendrán además de las finalidades previstas en el artículo 20 de la Ley General de Educación, la de regularizar, con nivel de licenciatura, a maestros en servicio que por cualquier circunstancia tengan un nivel de estudios inferior a dicho nivel.
 
-III.- El número de los Diputados que asistieron;
+###### ARTICULO 72.
 
-IV.- El orden del día;
+Las instituciones que impartan educación superior, deberán formar parte del Consejo Estatal para la Planeación de la Educación Superior, cuya integración y funciones serán las que establezcan las disposiciones legales dictadas para tal efecto.
 
-V.- La referencia de haberse dado lectura al Acta de la Sesión Anterior o haberse dispensado la misma;
+## TÍTULO CUARTO
 
-VI.- El trámite de los asuntos con que se dé cuenta al Congreso;
+DEL PROCESO EDUCATIVO.
 
-VII.- Los resultados de las votaciones y la síntesis de los acuerdos específicos a que éstas se refieran; y
+### CAPÍTULO I
 
-VIII.- Los asuntos generales que se hayan tratado, en su caso.
+DE LOS PLANES, PROGRAMAS Y PROYECTOS EDUCATIVOS.
 
-Todas las actas contendrán la firma del Presidente y Secretarios de la Directiva.
+###### ARTICULO 73.
 
-###### ARTÍCULO 63.
+Los planes de estudio son los documentos oficiales en los cuales deberá constituirse una relación detallada de los programas de cada una de las asignaturas por nivel educativo; en ellos se determinarán los objetivos del aprendizaje por materia, asignatura y grado, sugerirá actividades y experiencias que conduzcan al educando a un aprendizaje funcional.
 
-La grabación de las sesiones contendrá íntegra la versión del desarrollo de las mismas. Los medios de almacenamiento que se utilicen, deberán quedar registrados con datos de clasificación para su resguardo y consulta en la Secretaría de Servicios Legislativos.
+###### ARTICULO 74.
 
-###### ARTÍCULO 64.
+Los programas son herramientas de los educadores y educandos para desarrollar los planes de estudio, en los cuales se conjuntan objetivos, actividades y sugerencias didácticas que al aplicarse deberán provocar cambios en la conducta, los conocimientos, aptitudes y valores de los educandos para lograr tanto su desenvolvimiento integral como la transformación del ámbito al que pertenecen.
 
-Cuando durante el desarrollo de la sesión, algún Diputado objetare la existencia del quórum, podrá solicitar al Presidente de la Directiva su verificación, quien en su caso, ordenará a la Secretaría pasar lista o constatar a simple vista el número de Diputados presentes y de no existir quórum, el Presidente declarará un receso, hasta en tanto se restablezca.
+###### ARTICULO 75.
 
-Cuando se declare algún receso, para reiniciar la sesión, el Presidente de la Directiva ordenará a la Secretaría constatar a simple vista la existencia de quórum.
+Los proyectos educativos, deben apoyar y fortalecer el quehacer escolar con miras hacia el logro de su desarrollo pleno y responsable; incluirán en su planeación, los elementos del diagnóstico, objetivos, estrategias y demás que resulten convenientes para elevar la calidad de la educación. Se clasifican de la siguiente manera: Proyecto educativo escolar, de zona, de sector, municipal y estatal.
 
-###### ARTÍCULO 65.
+###### ARTICULO 76.
 
-Las iniciativas que se presenten ante el Congreso, deberán ingresarse a través de la Oficialía de Partes o directamente en la Secretaría de Servicios Legislativos, las cuales deberán presentarse por escrito y en medio magnético, además deberán reunir los requisitos que establece el Artículo 125 de la Ley.
+Los proyectos educativos deberán atender a los fines y objetivos establecidos en esta Ley y demás disposiciones aplicables, procurando dar prioridad a las instituciones, regiones o municipios con mayores necesidades en materia educativa.
 
-> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+###### ARTICULO 77.
 
-ARTÍCULO 65 BIS.- Para la presentación de iniciativas en tribuna, las diputadas y diputados podrán hacer uso de la palabra por un tiempo máximo de diez minutos, con el objeto exclusivo de informar de manera clara y concisa, los principales aspectos de la misma, así como su motivación y sentido.
+Los materiales educativos son auxiliares didácticos que facilitan el proceso de enseñanza-aprendizaje; incrementan la motivación y estimulan el trabajo del educando, en ellos deben incorporarse los avances de la didáctica, la ciencia y la tecnología.
 
-###### ARTÍCULO 66.
+###### ARTICULO 78.
 
-Cuando Se propongan dos o más iniciativas en un mismo sentido o relativas a un mismo ordenamiento, el Presidente de la Directiva ordenará que se acumulen en un solo expediente y se atiendan conjuntamente.
+La educación se realiza mediante un proceso que comprende la enseñanza, el aprendizaje, la investigación, la creación y la difusión de la cultura, encaminado a dotar al educando de los medios para la obtención del conocimiento en forma permanente, lo que exigirá que los planes y programas correspondan a la evolución del educando, al desarrollo histórico y necesidades del país y del Estado.
 
-### CAPÍTULO III. DE LOS ACUERDOS ECONÓMICOS
+###### ARTICULO 79.
 
-###### ARTÍCULO 67.
+Los planes y programas correspondientes a la educación de tipo básico, normal y otros para la formación de educadores de preescolar, primaria y secundaria, se sujetarán a las disposiciones contenidas en el artículo 48 de la Ley General de Educación, a las directrices de los Programas Nacionales de Desarrollo Educativo y a los Acuerdos de Coordinación que se celebren con la autoridad educativa federal, así como a las disposiciones contenidas en esta Ley y sus reglamentos.
 
-Toda iniciativa que no reúna los requisitos de Ley, será devuelta por la Secretaría de la Directiva a su autor, previniéndole para que complemente dichos requisitos.
+###### ARTICULO 80.
 
-###### ARTÍCULO 68.
+La estrategia educativa estatal deberá ser congruente con la dinámica del desarrollo de la entidad y la relación del educando con su entorno; orientará al alumno a la consecución del bienestar público y del trabajo socialmente útil.
 
-Las propuestas de Acuerdo Económico presentadas por los Diputados relativo a los Asuntos Generales y que por su naturaleza, requieran de votación en la misma sesión, deberán ser presentadas con las formalidades que establece el Artículo 136 de la Ley.
+Para ello, la Secretaría de Educación propondrá, a la Secretaría de Educación Pública, programas alternativos para crear e impulsar sistemas de formación para el trabajo, ampliar las oportunidades de educación tecnológica, atender necesidades de educación especial, indígena y para adultos y vincular mejor sus contenidos y propósitos con las necesidades económicas, sociales y ecológicas de la región.
 
-###### ARTÍCULO 69.
+###### ARTICULO 81.
 
-Todos los Acuerdos Económicos que sean entregados a la Secretaría de Servicios Legislativos, para su inclusión en el Orden del Día de la sesión que corresponda, serán en forma escrita y magnética y deberán estar debidamente firmados.
+Los contenidos de la educación se definen en planes y programas de estudios.
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+I.- Conforme a lo dispuesto por la Ley General de Educación, corresponde a la Secretaría de Educación Pública definir los contenidos de dichos planes y programas para los niveles de primaria, secundaria, normal y demás dedicados a estudios de maestros de educación básica. Le corresponde igualmente fijar los requisitos pedagógicos de los planes y programas de educación inicial y preescolar que en su caso formulen los particulares;
 
-Una vez aprobado, la Secretaría de la Directiva, por conducto de la Secretaría de Servicios Legislativos, lo notificará a las autoridades correspondientes, por medio de oficio, anexando copia del Acuerdo Económico; y de la respuesta que envíen, se dará cuenta al Pleno, para su conocimiento, como se señala en la fracción V Bis, del artículo 117 de la Ley.
+II.- En los casos de prestación de servicios educativos para tipos diferentes a los señalados en la fracción anterior, el Ejecutivo Estatal de una manera concurrente con la Secretaría de Educación podrá determinar y formular planes y programas para dichos estudios en todos sus niveles; y
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 2015)</small>
+III.- Los particulares podrán solicitar el reconocimiento de validez oficial de estudios en niveles distintos a los enumerados en la fracción I de este artículo, para lo cual presentarán para la aprobación a las autoridades educativas estatales, los planes y programas de estudios respectivos.
 
-###### ARTÍCULO 70.
+###### ARTICULO 82.
 
-Todos los Dictámenes que sean entregados a la Secretaría de Servicios Legislativos, para su inclusión en el Orden del Día de la sesión que corresponda, serán en forma escrita y magnética y deberán estar debidamente firmados por los integrantes de la Comisión o Comisiones, anexando los votos particulares en caso de que los hubiere.
+En los planes y programas de estudio a que se refieren las fracciones II y III del artículo anterior deberán establecerse:
 
-> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+I.- Los propósitos específicos de aprendizaje de las asignaturas u otras unidades dentro de un plan de estudios, así como los criterios y procedimientos para evaluar y acreditar su cumplimiento. Podrá incluir sugerencias sobre métodos y actividades para alcanzar dichos propósitos;
 
-Los dictámenes serán enviados a los Diputados, por escrito y al correo electrónico oficial que al respecto se autorice, para efecto de que se pueda leer en el Pleno, un extracto del mismo o se dispense la lectura del Dictamen respectivo.
+II.- Los propósitos de formación general y, en su caso, de adquisición de las habilidades y las destrezas que correspondan a cada nivel educativo;
 
-###### ARTÍCULO 71.
+III.- Los contenidos fundamentales de estudio, organizados en asignaturas u otras unidades de aprendizaje que, como mínimo, el educando deba acreditar para cumplir los propósitos de cada nivel educativo, y
 
-Los Dictámenes aprobados por el Pleno, serán turnados por el Presidente de la Directiva a la Secretaría, para que por conducto de la Secretaría de Servicios Legislativos, se elabore el Decreto correspondiente y se envíe al Titular del Ejecutivo para que lo sancione y mande publicar en el Periódico Oficial del Estado a excepción de aquellos que no ameritan Decreto y solo se notifican.
+IV.- Las secuencias indispensables que deban respetarse entre las asignaturas o unidades de aprendizaje que constituyen un nivel educativo.
 
-En lo relativo a las Minutas de reformas a la Constitución Política de los Estados Unidos Mexicanos, se enviarán copias certificadas del Dictamen y Decreto correspondientes al H. Congreso de la Unión y a la Secretaría de Gobernación, con la sanción que se hubiere emitido.
+###### ARTICULO 83.
 
-###### ARTÍCULO 72.
+Las autoridades educativas estatales y municipales revisarán y evaluarán en forma sistemática y permanente, de manera coordinada y concurrente con las autoridades educativas federales, al Sistema Educativo Estatal.
 
-La discusión es la etapa del proceso legislativo en que se evalúan, debaten y deliberan, los dictámenes y demás resolutivos de que conozca el Pleno o la Diputación Permanente.
+###### ARTICULO 84.
 
-## TÍTULO CUARTO. DE LAS FACULTADES Y FUNCIONAMIENTO DEL CONGRESO DEL ESTADO
+Se declara de interés público la evaluación del sistema educativo estatal; los organismos e instituciones educativas pertenecientes al sistema, tienen la obligación de contribuir a la evaluación y el derecho de conocer los resultados de la misma.
 
-### CAPÍTULO III BIS. DE LOS ACUERDOS INTERNOS
+Para ello, proporcionarán oportunamente toda la información que se les requiera; tomarán las medidas que permitan la colaboración efectiva de alumnos, maestros, directivos y demás participantes en los procesos educativos; facilitarán que las autoridades educativas, incluida la Secretaría de Educación Pública, realicen exámenes para fines estadísticos y de diagnóstico y recaben directamente en las escuelas la información necesaria.
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2015)</small>
+###### ARTICULO 85.
 
-ARTÍCULO 69 BIS.- Acuerdo interno es aquel que emite la Comisión de Estudio y Dictamen, para atender aquellos asuntos que considere deban enriquecerse y complementarse, o bien los que carezcan de materia o aquellos cuyo cumplimiento interesa sólo al Congreso del Estado.
+En el proceso de la planeación del desarrollo educativo del Estado, las autoridades educativas estatales y municipales, organizarán un sistema de consulta y concertación con los sectores sociales, destacando a los involucrados en los aspectos educativos.
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2015)</small>
+### CAPÍTULO II
 
-ARTÍCULO 69 TER.- Se invitará preferente al promovente a la Sesión de la o las Comisiones, en donde se analice la iniciativa o asunto que en su caso requiera Acuerdo Interno, concediéndole su derecho de audiencia.
+DEL CALENDARIO ESCOLAR.
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2015)</small>
+###### ARTICULO 86.
 
-ARTÍCULO 69 QUATER.- Todo Acuerdo Interno deberá estar fundado y motivado en función de criterios legales, constitucionales, financieros, operativos, técnicos, sin menoscabo de los que considere la o las Comisiones.
+La Secretaría de Educación Pública determinará el calendario escolar para cada ciclo, en los niveles inicial, preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica.
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2015)</small>
+###### ARTICULO 87.
 
-ARTÍCULO 69 QUINQUIES.- Una vez aprobado, deberá estar firmado por la mayoría de los Diputados integrantes de la o las Comisiones, mismo que se entregará a la Secretaría de Servicios Legislativos, para su cumplimiento.
+El calendario escolar es el documento que contiene los días hábiles e inhábiles para la prestación de los servicios educativos necesarios para cubrir los planes y programas de estudios señalados por la autoridad competente, y que comprenderá 200 días hábiles de clases para los educandos. La Secretaría de Educación del Estado efectuará los ajustes al calendario señalado por la Secretaría de Educación Pública, cuando sean necesarios para los requerimientos específicos del Estado. Los docentes serán debidamente remunerados si la modificación al calendario escolar implica más días de clase para los educandos, de los determinados por la Secretaría de Educación Pública, de conformidad con el artículo 51 de la Ley General de Educación.
 
-###### ARTÍCULO 73.
+###### ARTICULO 88.
 
-Durante las discusiones, los Diputados podrán ejercer su derecho de hacer uso de la palabra en las siguientes modalidades:
+Para ejecutar los ajustes descritos, deberán tomarse en cuenta las características de los diversos grupos, sectores y zonas, en especial las culturales y geográficas, aplicándolas con un criterio de eficacia y aprovechamiento.
 
-I.- En pro del dictamen o acuerdo, entendiéndose por éste, la argumentación a favor del resolutivo, hasta por diez minutos;
+###### ARTICULO 89.
 
-II.- En contra, entendiéndose por este, la argumentación en desacuerdo del resolutivo hasta por diez minutos;
+El calendario escolar aplicable en el Estado se publicará antes del inicio de cada ciclo en el Periódico Oficial "El Estado de Jalisco".
 
-III.- Para hechos, para aludir a expresiones vertidas por el orador, en cuyo caso se le concederá la palabra al concluir la intervención del orador en turno, hasta por diez minutos;
+### CAPÍTULO III
 
-IV.- Para hechos con posicionamiento, entendida como el derecho a argumentar en pro o en contra del resolutivo de que se trate. En este caso se le concederá el uso de la palabra al final de las intervenciones de los oradores inscritos, hasta por diez minutos; y
+DE LA EQUIDAD EN LA EDUCACIÓN.
 
-V.- Para alusiones personales, entendiéndose por éstas, el derecho de réplica o defensa, para aclarar o pedir aclaraciones respecto de expresiones vertidas por el orador, en torno a su persona, su dicho o sus ideas. En este caso, se le concederá el uso de la palabra al concluir la intervención de quien lo aluda, hasta por diez minutos.
+###### ARTICULO 90.
 
-Los Diputados deberán respetar el tiempo de sus participaciones y una vez agotado éste, el Presidente de la Directiva requerirá al orador para que concluya su participación.
+En la esfera de su competencia la Secretaría de Educación del Estado, los municipios y sus organismos descentralizados, tomarán las medidas necesarias para hacer expedito el derecho a la educación que tiene todo habitante del Estado, en igualdad de circunstancias y oportunidades de acceso y permanencia al sistema educativo estatal.
 
-###### ARTÍCULO 74.
+###### ARTICULO 91.
 
-Cuando algún Diputado, haciendo uso de la tribuna, solicite se dé lectura a algún documento para ilustrar la discusión, podrá pedir al Presidente de la Directiva que dicha lectura sea por conducto de uno de los Secretarios, continuando después con el uso de la palabra el orador.
+Se tomarán las medidas pertinentes a través de programas adicionales, para lograr los objetivos descritos en favor de los grupos y regiones con mayor rezago educativo, y grupos con necesidades educativas especiales, así como las que tengan condiciones económicas y sociales de mayor marginación, para que, en forma constante y permanente, reciban la atención y auxilios necesarios.
 
-###### ARTÍCULO 75.
+###### ARTICULO 92.
 
-Si en la discusión en lo particular se presenta una modificación, retiro o adición al texto propuesto en el resolutivo, primero se someterá a votación ésta; si se aprueba, se ordenará su inclusión en el resolutivo, pero en caso contrario subsistirá la literalidad del mismo.
+Con el fin de atender las necesidades de los grupos y regiones con mayor rezago educativo, así como las que enfrenten condiciones socioeconómicas de especial marginación, las autoridades educativas llevarán a cabo las siguientes actividades:
 
-#### SECCIÓN I. DE LAS MOCIONES
+I.- Atenderán de manera especial a las escuelas en que, por estar en localidades aisladas o zonas urbano-marginadas, sea considerablemente mayor la posibilidad de atrasos o deserciones, mediante la asignación de elementos de mejor calidad para enfrentar los problemas educativos de dichas localidades;
 
-###### ARTÍCULO 76.
+II.- Desarrollarán programas de apoyo adicionales a los maestros que realicen sus servicios en localidades aisladas o zonas urbanas marginadas, a fin de fomentar el arraigo en sus comunidades;
 
-El Diputado podrá realizar una moción desde su curul o pedirá el uso de la tribuna.
+III.- Promoverán, de acuerdo con los recursos disponibles, centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles y demás planteles que apoyen en forma continua y estable el aprendizaje y el aprovechamiento de los alumnos;
 
-Las mociones pueden ser de:
+IV.- Prestarán servicios educativos para atender a quienes abandonaron el sistema regular, que les faciliten la terminación de la primaria y la secundaria;
 
-I.- Orden, a efecto de solicitar al Presidente requiera a los Diputados y/o asistentes guarden disciplina y respeto al Recinto Legislativo, a la Ley y a este Reglamento.
+V.- Otorgarán apoyos pedagógicos a grupos con requerimientos educativos específicos, tales como programas encaminados a recuperar retrasos en el aprovechamiento escolar de los alumnos;
 
-II.- Apego al tema, durante la discusión de un asunto, solicitar al orador, apegarse al tema en discusión.
+VI.- Establecerán sistemas de educación a distancia;
 
-III.- Cuestionamiento al orador, es la petición que se hace a quien está en el uso de palabra para que admita una pregunta. En este caso el Presidente consultará al orador si autoriza la pregunta, en caso afirmativo, una vez que se emita la respuesta, el orador continuará con su planteamiento. El tiempo de la pregunta y respuesta no se computará dentro de la intervención.
+VII.- Realizarán campañas educativas que tiendan a elevar los niveles culturales, sociales y de bienestar de la población, tales como programas de alfabetización y de educación comunitaria;
 
-IV.- Aclaración y/o rectificación de hechos, se aplicará cuando algún Diputado solicite al orador precise o modifique algún punto del tema expuesto.
+VIII.- Desarrollarán, de acuerdo con los recursos disponibles, programas para otorgar becas y demás apoyos económicos a educandos;
 
-###### ARTÍCULO 77.
+IX.- Efectuarán programas dirigidos a los padres de familia, que les permitan dar mejor atención a sus hijos e integrarlos al sistema educativo;
 
-Además de los casos previstos en el Artículo 169 fracción I, incisos a) y b) de la Ley, la votación nominal, se llevará a cabo cuando se trate de aprobar Dictámenes y cuando se aprueben o desechen las conclusiones o dictámenes de la Comisión Instructora, para resolver incidental o definitivamente en el procedimiento.
+X.- Otorgarán estímulos a las asociaciones civiles y a las cooperativas de maestros que se dediquen a la enseñanza;
 
-###### ARTÍCULO 78.
+XI.- Promoverán mayor participación de la sociedad en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este capítulo;
 
-Los Diputados tienen derecho a exigir que el sentido de su voto quede asentado en el acta.
+XII.- Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en el artículo anterior, y
 
-###### ARTÍCULO 79.
+XIII.- Realizarán las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos así como alcanzar los propósitos mencionados en el artículo anterior.
 
-Para efectos del Artículo 170 de la Ley, la votación nominal, se llevará a cabo de la siguiente forma:
+###### ARTICULO 93.
 
-I.- Comenzará por el Diputado que se encuentre del lado derecho viendo desde la
+El Estado llevará a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
-Directiva, en la primera fila, de derecha a izquierda, posteriormente la segunda fila, continuando con la Secretaría, Vicepresidencia y Presidencia;
+### CAPÍTULO IV
 
-II.- La Secretaría de la Directiva, dará cuenta a la Presidencia, de los votos en pro, en contra y las abstenciones;
+DEL FINANCIAMIENTO DE LA EDUCACIÓN.
 
-III.- La Presidencia dará a conocer el resultado de la votación; y
+###### ARTICULO 94.
 
-IV.- Se insertará en el Acta, el resultado de la votación.
+El Gobierno del Estado y sus Municipios proporcionarán toda la información y facilidades necesarias para que el Ejecutivo Federal constate la correcta aplicación de los recursos federales destinados a los servicios educativos.
 
-###### ARTÍCULO 80.
+###### ARTICULO 95.
 
-Para efectos del Artículo 172 de la Ley, la votación por cédulas, se llevará a cabo conforme a lo siguiente:
+El Gobierno del Estado promoverá lo conducente para que el ayuntamiento de cada municipio reciba los recursos para el cumplimiento de sus responsabilidades relacionadas con la prestación de servicios educativos, incluyendo mantenimiento y provisión de equipo básico a las escuelas públicas estatales y municipales.
 
-I.- El Primer Secretario llamará de acuerdo al Registro de Asistencia a cada Diputado, quien depositará una cédula en la urna transparente que se disponga al efecto, colocada en la curul del Segundo Secretario, a la vista del Pleno;
+Los ayuntamientos deberán destinar la totalidad de los fondos que reciban para la prestación de servicios educativos sin cambiar su destino o asignación. Los municipios en orden a su autonomía podrán celebrar todo tipo de convenios, contratos o compromisos con terceros en materia educativa, cuando dichas obligaciones no afecten las finanzas ni las asignaciones de recursos que deba hacer el Ejecutivo Estatal.
 
-II.- Depositadas las cédulas, el Segundo Secretario entregará la urna al Presidente quien auxiliado por el Vicepresidente, las extraerá una por una y expresará el sentido del voto en voz alta;
+###### ARTICULO 96.
 
-III.- Las cedulas serán nulas cuando contengan más de una propuesta, consignen votos a favor de personas no propuestas o no se pueda desentrañar el sentido del voto; y
+En el caso de que los recursos federales, estatales o municipales destinados a la educación, sean utilizados para fines distintos, se aplicarán las responsabilidades administrativas, civiles y penales que correspondan.
 
-IV.- La Presidencia dará a conocer el resultado de la votación.
+###### ARTICULO 97.
 
-La nulidad de cédulas individuales no implica la nulidad de la elección que solo quedará sin efecto cuando se anule más de la mitad de los votos sufragados o si realizado el computo aparecen más cédulas que Diputados participantes. En estos casos se repetirá la votación.
+El Ejecutivo Estatal en la distribución de sus ingresos tomará en cuenta el carácter prioritario de la educación para los fines del desarrollo nacional. Procurará fortalecer y ampliar las fuentes de financiamiento y destinará recursos presupuestarios crecientes en términos reales para la educación pública.
 
-Si el Presidente o cualquier Diputado advirtiera error en el cómputo, podrá solicitar que éste se realice nuevamente por una sola vez.
+### CAPÍTULO V
 
-Las votaciones no podrán interrumpirse salvo caso fortuito o fuerza mayor que califique el Presidente. Mientras se desarrollan, no se concederá el uso de la palabra a ningún Diputado.
+DE LOS SERVIDORES PÚBLICOS DEL SISTEMA EDUCATIVO ESTATAL.
 
-La Secretaría de Servicios Legislativos resguardará las cédulas, para el caso de reclamación por alguno de los integrantes de la Legislatura.
+###### ARTICULO 98.
 
-###### ARTÍCULO 81.
+Para los efectos de esta Ley, el personal educativo al servicio del Estado, los municipios o sus organismos descentralizados, con excepción de los que laboran para las Universidad de Guadalajara e Instituciones de Educación Superior de carácter autónomo, se divide en:
 
-De las Iniciativas de Leyes, Decretos, Acuerdos Económicos, Informes y demás asuntos que conozca el Congreso, se formarán expedientes, los cuales serán resguardados por la Secretaría de Servicios Legislativos y al término de cada Legislatura serán enviados los resueltos a la Dirección de Archivo y Biblioteca del Congreso, en los que obrará:
+I.- Personal docente, y
 
-I.- El original de la iniciativa que le dio origen;
+II.- Personal de apoyo y asistencia a la educación.
 
-II.- Los originales de las iniciativas que se acumulen al mismo;
+###### ARTICULO 99.
 
-III.- Los documentos anexos a los asuntos turnados;
+El educador es promotor, coordinador y agente directo del proceso educativo, por lo tanto, el Estado, los Municipios, sus organismos descentralizados y los Particulares con autorización o reconocimiento de validez oficial de estudios, en cualquier tipo y modalidad, deberán proporcionar los medios necesarios y adecuados que le permitan realizar eficazmente su labor y que contribuyan a su constante perfeccionamiento.
 
-IV.- El formato de turno a la Comisión dictaminadora;
+A ningún trabajador de la educación podrá obligársele a actuar al margen de los derechos que le confiere la presente ley y sus respectivos reglamentos, ni a actuar en contra de su conciencia, siempre y cuando no contravenga ninguna ley.
 
-V.- Todos los documentos relativos al estudio y análisis del asunto tales como convocatorias, opiniones, ponencias, escritos, oficios de solicitud y aportación de informes, datos y elementos, así como otras constancias relativas a la materia de la iniciativa que haya sido el resultado del trabajo de Comisión;
+###### ARTICULO 100.
 
-VI.- El original del resolutivo; y
+Los trabajadores de la educación, para el desempeño de sus funciones se ajustarán a lo establecido en los reglamentos de esta ley y en el manual de funciones correspondiente a su responsabilidad.
 
-VII.- Original y copia del Decreto enviado al Ejecutivo para los efectos de los Artículos 51 y 52 de la Constitución.
+###### ARTICULO 101.
 
-En lo que hace a los demás asuntos que señalan los Artículos 89 y 134 de la Ley, se deberán archivar a las solicitudes de los promoventes y resolutivos recaídas a los mismos.
+Las autoridades educativas estatales y las municipales en el ámbito de sus respectivas competencias, implementarán los mecanismos que propicien el arraigo de los maestros, con la posibilidad para éstos de obtener mayor reconocimiento social.
 
-###### ARTÍCULO 82.
+###### ARTICULO 102.
 
-Las Leyes y Decretos que deban pasar al Poder Ejecutivo para su promulgación y publicación, se remitirán en original y copia, con su respaldo digital, debiendo quedar similares en poder de la Secretaría de Servicios Legislativos, para su resguardo.
+Para ejercer la docencia en instituciones establecidas por el Estado, por sus municipios, por sus organismos descentralizados y por los particulares, los maestros, instructores, capacitadores o personas que ejerzan actividades similares deberán satisfacer los requisitos que establezca la Secretaría de Educación.
 
-###### ARTÍCULO 83.
+###### ARTICULO 103.
 
-Los Decretos que contengan Leyes, reformas o adiciones a diversos ordenamientos y los Decretos que por su naturaleza no contengan Leyes, serán redactados con precisión y claridad en la forma que hubieren sido aprobados y al expedirlos serán autorizados con la firma del Presidente y de la Secretaría de la Directiva.
+En cumplimiento a lo establecido por el art. 21 de la Ley General de Educación, la Secretaría de Educación del Estado otorgará reconocimientos, distinciones, estímulos y recompensas a los educadores que se destaquen en el ejercicio de su profesión, y, en general, realizará las actividades que propicien mayor aprecio de la sociedad por la labor desempeñada por el Magisterio. Similares distinciones podrán otorgarse por la referida Secretaría a los miembros destacados de la sociedad que sobresalgan por su participación en beneficio de la educación.
 
-###### ARTÍCULO 84.
+## TÍTULO QUINTO
 
-Cuando la Legislatura apruebe reformas o adiciones a la Constitución, para los efectos del Artículo 158 de la misma, se remitirá a los Ayuntamientos, mediante oficio con acuse de recibo, la siguiente documentación:
+DE LOS SERVICIOS EDUCATIVOS.
 
-I.- Minuta de Proyecto de Decreto aprobado; y
+### CAPÍTULO I
 
-II.- Copia del dictamen respectivo;
+DEL RECONOCIMIENTO DE ESTUDIOS.
 
-Las Minutas enviadas por los Ayuntamientos, con la sanción, serán recibidas en la Secretaría de Servicios Legislativos, cuyo titular al recibir cuando menos la mayoría de las mismas aprobando la reforma, adición o derogación, dará aviso al Presidente de la Directiva, para que este punto se incluya en el Orden del Día que corresponda, a efecto de que se realice la Declaratoria de aprobación definitiva, se ordene elaborar el Decreto correspondiente y se envíe al Ejecutivo del Estado, para su publicación en el Periódico Oficial.
+###### ARTICULO 104.
 
-De las Minutas recibidas se elabora una relación con el sentido de la sanción y la cantidad de Ayuntamientos que dieron cumplimiento a la misma, así como del resto de los Ayuntamientos, lo que formará parte del expediente.
+Los estudios efectuados en el sistema educativo nacional tendrán validez oficial en el Estado conforme a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y de la Ley General de Educación.
 
-###### ARTÍCULO 85.
+###### ARTICULO 105.
 
-Las Sesiones Solemnes del Congreso, se sujetarán al protocolo que señala el capítulo IX de la Ley o al Acuerdo de la Junta de Gobierno, que apruebe el Pleno.
+La revalidación de estudios se otorgará: por niveles educativos, por grados escolares, por asignaturas o por otras unidades de aprendizaje que sean equiparables, en los términos que señala la Ley General de Educación.
 
-#### SECCIÓN I. DEL PROCEDIMIENTO EN EL JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA
+###### ARTICULO 106.
 
-### CAPÍTULO IV. DE LOS DICTÁMENES
+El reconocimiento de validez oficial de estudios se otorga por la autoridad educativa competente o los organismos descentralizados del Estado facultados para ello, a los planes y programas a que se refieren los artículos 13 fracción V y 63 de la Ley General de Educación.
 
-###### ARTÍCULO 86.
+El reconocimiento de validez oficial de estudios incorpora a las instituciones que lo obtengan, respecto de los estudios a que dicho reconocimiento se refiere, al sistema educativo estatal.
 
-A efecto de desahogar la sesión secreta donde se desarrolle el procedimiento de Juicio Político o Declaración de Procedencia, se instalarán dos mesas con micrófonos, en donde se encuentra el Escudo Nacional en el Salón de Plenos; en una tomarán asiento el Servidor Público y su Defensor y en otra el Denunciante, a fin de dar cumplimiento al Artículo 20 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Hidalgo.
+###### ARTICULO 107.
 
-###### ARTÍCULO 87.
+Las instituciones que cuenten con autorización o reconocimiento de validez oficial de estudios, expedirán los diplomas, títulos o documentos que acrediten los estudios efectuados en las mismas, los cuales tendrán validez en el Estado de Jalisco y en la República Mexicana de conformidad con lo dispuesto en la Ley General de Educación.
 
-Para el cumplimiento de los asuntos encomendados al Congreso, se auxilia de los siguientes Órganos Técnicos y Administrativos:
+### CAPÍTULO II
 
-I.- Auditoría Superior del Estado;
+DE LA EVALUACION.
 
-II.- Secretaría de Servicios Legislativos;
+###### ARTICULO 108.
 
-III.- Coordinación de Asesoría;
+El sistema educativo estatal será evaluado en forma permanente durante todo el ciclo escolar a efecto de conocer los niveles de aprovechamiento de los educandos, los avances de planes y programas, el desempeño directivo y docente, la efectividad de aplicación de recursos y demás aspectos que conforman el sistema educativo, a fin de que se adopten las medidas que procedan en base a lo que establezca la Secretaría, de acuerdo a los lineamientos establecidos en la sección 4 del capítulo II de la Ley General de Educación.
 
-IV.- Dirección General de Servicios Administrativos;
+###### ARTICULO 109.
 
-V.- Instituto de Estudios Legislativos;
+La evaluación se efectuará por plantel, personal, por zonas o regiones. Sus resultados tendrán como fines:
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+I.- Detectar los problemas técnicos, pedagógicos o, en general, que afecten o influyan en el desempeño educativo; y
 
-VI.- Instituto para el Desarrollo y Fortalecimiento Municipal;
+II.- Efectuar el diagnóstico que permita la planeación correcta para buscar la excelencia educativa con la participación de la sociedad tal como lo establecen los lineamientos de los Consejos de Participación Social en la Educación.
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+###### ARTICULO 110.
 
-VII.- Dirección de Comunicación Social; y
+Será obligación de todo tipo de instituciones que impartan servicios educativos en el Estado de Jalisco, proporcionar oportuna e inmediatamente toda la información que las autoridades competentes les requieran; para el cumplimiento de lo anterior, las autoridades educativas deberán:
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
+I.- Requerir por escrito la entrega de la información detallándola lo más posible, así como los tiempos, modos y lugares de entrega;
 
-VIII.- Unidad Institucional de Género.
+II.- Tomar las medidas que permitan la colaboración efectiva de alumnos, maestros, directivos y demás participantes en los procesos educativos; y
 
-Los titulares de los órganos auxiliares del Congreso, podrán emitir y dictar todas las disposiciones administrativas internas que requieran para ordenar, organizar y distribuir el trabajo y responsabilidades del personal que labore en cada una de éstas.
+III.- Facilitar que las autoridades educativas, federales y locales, realicen exámenes para fines estadísticos y de diagnóstico.
 
-Los titulares de los órganos auxiliares del Poder Legislativo, ejercerán las facultades y obligaciones a su cargo, con el apoyo del personal administrativo bajo su mando.
+###### ARTICULO 111.
 
-###### ARTÍCULO 88.
+Será obligación de las autoridades educativas dar a conocer a los maestros, alumnos, padres de familia y sociedad en general los resultados de las evaluaciones; de las acciones para el mejoramiento de los servicios educativos, así como la información global del sistema educativo estatal con el objeto de que cada sector de la comunidad educativa haga sus ajustes y correcciones.
 
-La Auditoría Superior del Estado es el órgano técnico, dependiente del Congreso del Estado, que cuenta con autonomía técnica y de gestión, no así en cuanto a su presupuesto, en el ejercicio de sus atribuciones y para decidir su organización, funcionamiento y resoluciones, que están previstas en la Constitución, la Ley de la Auditoría Superior del Estado de Hidalgo, su Reglamento y demás disposiciones aplicables.
+###### ARTICULO 112.
 
-###### ARTÍCULO 89.
+La Secretaría de Educación del Estado dará a conocer a la sociedad el resultado de las evaluaciones practicadas, utilizando para tal efecto los tiempos y espacios que se le conceda en los medios de comunicación social.
 
-La Secretaría de Servicios Legislativos es el área de apoyo técnico administrativo en el proceso legislativo, para el desempeño de sus funciones contará, con las siguientes unidades administrativas:
+###### ARTICULO 113.
 
-I.- Dirección de Archivo y Biblioteca;
+La Secretaría de Educación del Estado efectuará revisiones y evaluaciones sistemáticas y continuas de los planes y programas de estudios, para que en la esfera de su competencia los mantenga actualizados permanentemente.
 
-II.- Unidad de Apoyo Técnico;
+### CAPÍTULO III
 
-a).- Área de Diario de Debates;
+DE LA SUPERVISION.
 
-b).- Área de Estadística;
+###### ARTICULO 114.
 
-III.- Unidad Auxiliar del Proceso Legislativo;
+La supervisión de las escuelas públicas se efectuará de acuerdo a lo dispuesto por la reglamentación correspondiente.
 
-IV.- Unidad de Seguimiento y Evaluación a Comisiones y Secretarios Técnicos;
+###### ARTICULO 115.
 
-V.- Unidad del Sistema Mexicano de Información Legislativa, (SIMIL); y
+Inspección es el acto administrativo por el cual la autoridad educativa competente vigila el cumplimiento de las obligaciones, fines y objetivos establecidos en la presente Ley.
 
-VI.- Unidad de Acceso a la Información Pública Gubernamental.
+I.- Las autoridades que otorguen autorizaciones y reconocimiento de validez oficial de estudios, deberán inspeccionar y vigilar los servicios educativos respecto de los cuales concedieron dichas autorizaciones o reconocimientos; y
 
-### CAPÍTULO V. DE LAS DISCUSIONES
+II.- La Secretaría de Educación del Estado inspeccionará el cumplimiento de las obligaciones que la presente Ley impone a las personas o instituciones que impartan servicios educativos sin autorización ni reconocimiento de validez oficial de estudios.
 
-###### ARTÍCULO 90.
+###### ARTICULO 116.
 
-La Dirección de Archivo y Biblioteca es el área encargada de ejecutar las medidas convenientes para el cuidado, mantenimiento y actualización de los acervos que tendrá como funciones, la de consulta, servicios al público en general y contará en su acervo con:
+La inspección se realizará por conducto del cuerpo de supervisores técnicos escolares, o por quien designe la Secretaría de Educación, que podrá realizarla en cualquier momento, siempre y cuando cubra el perfil correspondiente.
 
-I.- El archivo histórico del Poder Legislativo;
+### CAPÍTULO IV
 
-II.- Las Actas de sesiones y los Diarios de Debates de las Legislaturas;
+DE LA PRESTACION DE SERVICIOS EDUCATIVOS POR LOS PARTICULARES.
 
-III.- Los Decretos emitidos por las Legislaturas;
+###### ARTICULO 117.
 
-IV.- Los expedientes emanados de los asuntos atendidos por las Comisiones de Estudio y Dictamen de las Legislaturas;
+Los particulares podrán impartir educación en todos sus tipos y modalidades, con estricto acatamiento a lo establecido en el artículo 3o. Constitucional, la Ley General de Educación, la Constitución local, la presente Ley y en los ordenamientos que emanen de las referidas normas.
 
-V.- Las revistas y folletos propios de las Legislaturas, que contengan información estadística o valor científico, histórico, literario o jurídico;
+###### ARTICULO 118.
 
-VI.- Los sistemas manuales y electrónicos que faciliten la búsqueda y consulta de información;
+Los particulares que deseen impartir educación en cualesquiera de sus modalidades destinadas a la formación, entrenamiento o capacitación de recursos humanos, deberán obtener previamente su reconocimiento ante la autoridad competente con excepción de las personas que presten dichos servicios a su propio personal.
 
-VII.- La compilación del Periódico Oficial del Estado de Hidalgo; y
+###### ARTICULO 119.
 
-VIII.- Toda la información y documentación general que se considere útil para el cumplimiento de las funciones del Poder Legislativo.
+Para que los servicios educativos prestados por los particulares tengan validez en el sistema educativo estatal, se ajustarán a las siguientes disposiciones:
 
-###### ARTÍCULO 91.
+I.- Respecto a la educación primaria, secundaria, normal y demás para la formación de maestros de educación básica, deberán obtener con anterioridad al inicio de la prestación del servicio y por cada nivel, la autorización expresa de la Secretaría de Educación del Estado mediante incorporación; y
 
-Corresponde al Director de Archivo y Biblioteca:
+II.- Por lo que concierne a estudios distintos de los enumerados en la fracción anterior, lo (sic) particulares deberán solicitar autorización de los estudios de ciclos, niveles o carreras que imparta el Gobierno del Estado o bien, tramitar el reconocimiento de validez oficial de estudios; ambos ante la Secretaría de Educación del Estado.
 
-I.- Velar por la conservación y buen uso del acervo de la Biblioteca;
+Tales incorporaciones o reconocimientos serán específicos para cada plan de estudios, los cuales serán presentados por cursos, ciclos o carreras debidamente desglosados para su aprobación. Para impartir nuevos estudios se requerirá la incorporación o reconocimiento respectivo.
 
-II.- Mantener bajo estricto inventario, organizar, clasificar y catalogar el material bibliográfico, jurídico y hemerográfico;
+###### ARTICULO 120.
 
-III.- Formar las colecciones de Leyes y Decretos que se publiquen en el Periódico Oficial del Estado;
+Para obtener y, en su caso, conservar la autorización o el reconocimiento de validez oficial de estudios, los particulares deberán contar con:
 
-IV.- Prestar la atención a los usuarios para la consulta del acervo;
+I.- Personal que acredite la preparación adecuada para impartir la educación en el nivel o tipo en que preste sus servicios;
 
-V.- Proponer al Secretario de Servicios Legislativos, la adquisición de ejemplares bibliográficos, programas de cómputo y demás materiales necesarios para el enriquecimiento del acervo;
+II.- Instalaciones que satisfagan las condiciones higiénicas de seguridad y pedagógicas, que la autoridad otorgante de la autorización o reconocimiento de validez oficial de estudios determine. Para establecer un nuevo plantel o cambio del existente se requerirá de una nueva autorización por parte de la autoridad otorgante para el uso de las instalaciones;
 
-VI.- Cumplir con los lineamientos que emita la autoridad competente, para la digitalización del acervo cultural;
+III.- En el caso de educación primaria, secundaria, normal y demás para la formación de docentes de educación básica, los particulares se ceñirán a los planes y programas nacionales, y
 
-VII.- Vigilar el cumplimiento de la Ley de Archivos del Estado y sus políticas de organización interna; y
+IV.- Planes y programas de estudios que la autoridad otorgante considere procedentes, en el caso de educación distinta de la primaria, la secundaria, la normal, y demás para la formación de la educación básica.
 
-VIII.- Las demás que le sean conferidas por el Secretario de Servicios Legislativos o por el Presidente de la Junta de Gobierno.
+###### ARTICULO 121.
 
-###### ARTÍCULO 92.
+Los particulares que impartan servicios educativos con autorización o reconocimiento de validez oficial de estudios, deberán mencionar en la documentación que expidan y la publicidad que hagan, su calidad de autorización así como el número y fecha de acuerdo que se les concedió y el nombre de. la autoridad otorgante.
 
-La Unidad de Apoyo Técnico, será responsable de:
+###### ARTICULO 122.
 
-I.- Elaborar la documentación que se requiere para el desarrollo de las sesiones, entre los cuales comprende el Registro de Asistencia, Orden del Día, Acta de la Sesión Anterior, Documentos en Cartera, Relación de Asuntos Generales y Guión;
+La Secretaría de Educación del Estado publicará en la primera quincena de agosto de cada año, en el Periódico Oficial "El Estado de Jalisco", una relación de las instituciones educativas que conserven su autorización o reconocimiento de validez oficial de estudios. También se publicará oportunamente y en cada caso la inclusión o la supresión en dicha lista de las instituciones a las que se otorguen, revoquen o retiren las autorizaciones o reconocimientos respectivos.
 
-II.- Custodiar y archivar los expedientes, documentación, diario de debates y grabaciones magnéticas de las sesiones;
+###### ARTICULO 123.
 
-III.- Enviar de inmediato los decretos, después de elaborados y firmados por la Directiva del Congreso, para su publicación en el Periódico Oficial del Estado;
+Los particulares que impartan servicios educativos con incorporación o reconocimiento de validez oficial de estudios, proporcionarán becas de un cinco por ciento como mínimo del total de la matrícula del período escolar, mismas que se destinarán a los alumnos que satisfagan los requisitos que en el Reglamento de Becas se establezcan; en todo caso deberán ser alumnos de alta escolaridad y comprobar que la familia no puede solventar los gastos escolares. El otorgamiento de becas se deberá hacer en cada plantel por una comisión integrada por maestros, directivos, y padres de familia, supervisada por la Secretaría de Educación.
 
-IV.- Llevar en medio magnético el índice de decretos de la Legislatura, por orden numeral y cronológico, debidamente actualizado, incluyendo la fecha del Periódico Oficial del Estado en el cual fue publicado;
+Adicionalmente se podrán asignar medias y cuartos de becas para auxiliar a mayor número de becarios.
 
-V.- Coordinar el archivo de la documentación que se genere del proceso legislativo;
+No formarán parte del porcentaje mínimo las becas otorgadas por alguna institución como prestación a sus trabajadores.
 
-VI.- La elaboración de la relatoría de las actas de sesiones;
+Las becas se concederán a quien tenga necesidad de ellas; la simulación podrá ser denunciada por cualquier interesado ante la Secretaría de Educación, y se ampliará la sanción que corresponda si el beneficio recae en familiares de primer y segundo grado tratándose de servidores públicos.
 
-VII.- Llevar actualizado, el registro de las Leyes, Decretos, Acuerdos Económicos e informes que expida el Congreso; y
+###### ARTICULO 124.
 
-VIII.- Las demás que le sean encomendadas por el Secretario de Servicios Legislativos o el Presidente de la Junta de Gobierno.
+Para realizar todo tipo de visitas de inspección a los particulares, deberán aplicarse las siguientes medidas:
 
-###### ARTÍCULO 93.
+I.- La autoridad competente emitirá por escrito la orden correspondiente, la cual será mostrada al destinatario de la inspección. Contendrá los datos y circunstancias en los que la visita se realizará, estableciendo: lugar y fecha, así como la relación de los asuntos específicos que se revisarán.
 
-El responsable del Área del Diario de Debates, debe coordinar y transcribir con el personal de apoyo, las intervenciones de los Diputados en Tribuna de las sesiones ordinarias, extraordinarias y solemnes, así como de la Diputación Permanente y llevar el archivo de las Actas y los Diarios de Debates.
+El funcionario ejecutor de la inspección deberá identificarse adecuadamente ante el destinatario de la diligencia;
 
-Las demás que le sean encomendadas por el Secretario de Servicios Legislativos y el Titular de Apoyo Técnico en el Proceso Legislativo.
+II.- Desahogada la visita, se suscribirá el acta correspondiente por quienes hayan intervenido en la diligencia y por dos testigos señalados por el destinatario de la misma. Un ejemplar del acta con las firmas de quienes en ella intervinieron se pondrá a disposición del visitado, y
 
-### CAPÍTULO VI. DE LAS VOTACIONES
+III.- Los particulares podrán presentar a las autoridades educativas la documentación relacionada con la visita dentro de los cinco días hábiles siguientes a la fecha de la inspección. También podrán en el mismo término reportar las irregularidades que se susciten en dicha visita.
 
-###### ARTÍCULO 94.
+## TÍTULO SEXTO
 
-Al responsable del Área de Estadística de las sesiones le corresponde:
+DE LA PARTICIPACIÓN SOCIAL EN LA EDUCACIÓN.
 
-I.- Recabar la documentación que refleje las asistencias e inasistencias y las participaciones de los Diputados en cada sesión y formular dentro de los veinte días siguientes al cierre de cada periodo ordinario, los reportes y gráficas correspondientes, mismos que deberá remitir al Secretario de Servicios Legislativos para que por su conducto sean entregados al Presidente de la Junta de Gobierno, para que se determine, en su caso, la sanción correspondiente; y
+### CAPÍTULO I
 
-II.- Las demás que le sean encomendadas por el Secretario de Servicios Legislativos y el Titular de Apoyo Técnico en el Proceso Legislativo.
+DE LOS PADRES DE FAMILIA.
 
-###### ARTÍCULO 95.
+###### ARTICULO 125.
 
-La Unidad auxiliar en el Proceso Legislativo es la responsable de:
+Son derechos de quienes ejercen la patria potestad o la tutela:
 
-I.- Revisar la documentación que se requiere para el desarrollo de las sesiones, entre los cuales comprende registro de asistencia, orden del día, acta de la sesión anterior, documentos en cartera, relación de asuntos generales y guión;
+I.- Obtener inscripción en las escuelas públicas a fin de que sus hijos o pupilos menores de edad que satisfagan los requisitos aplicables, reciban educación en los niveles preescolar, primaria y secundaria;
 
-II.- Enviar a los Diputados, por correo electrónico los archivos que contengan, orden del día, documentos en cartera y relación de asuntos generales, a más tardar a las diecinueve horas del día anterior de la sesión de referencia;
+II.- Elegir para sus hijos o pupilos la institución educativa pública o particular que les convenga; conforme a la capacidad y requisitos de cada una de dichas instituciones;
 
-III.- Entregar a los Diputados copia de los resolutivos para su lectura y revisar que tengan los documentos a tiempo; y
+III.- Participar a las autoridades de la escuela en la que estén inscritos sus hijos o pupilos, de cualquier problema relacionado con la educación de éstos, a fin de que aquéllas se aboquen a su solución;
 
-IV.- Las demás actividades que le encomiende el Secretario de Servicios Legislativos o el Presidente de la Junta de Gobierno.
+IV.- Formar parte libremente de las Asociaciones de Padres de Familia y de los Consejos de Participación Social en la Educación a que se refiere el presente capítulo;
 
-###### ARTÍCULO 96.
+V.- Notificar por escrito a las Autoridades educativas las irregularidades que, habiendo sido planteadas a la dirección de la escuela, no se hayan resuelto, o bien que por la gravedad de las mismas se atente contra los derechos humanos de los educandos, y
 
-A la Unidad de Seguimiento y Evaluación a Comisiones y Secretarios Técnicos, le corresponde:
+VI.- Opinar acerca de las contraprestaciones que fijen las escuelas particulares.
 
-I.- Verificar que los asuntos turnados a los Secretarios Técnicos, sean oportunamente desahogados, el sentido y la resolución en su caso, situación que habrá de presentarse gráficamente cada mes, informando de ello al Secretario de Servicios Legislativos y al Director General de la Coordinación de Asesoría, para lo que a su competencia sea oportuno;
+###### ARTICULO 126.
 
-II.- Realizar dentro de los veinte días siguientes al cierre de cada periodo ordinario, un informe de los asuntos turnados a cada una de las comisiones, resueltos y pendientes, mismo que deberá remitir al Secretario de Servicios Legislativos y al Director General de la Coordinación de Asesoría, para que se determine lo conducente; y
+Son obligaciones de quienes ejercen la patria potestad o la tutela:
 
-III.- Las demás que le sean conferidas por el Secretario de Servicios Legislativos o el Presidente de la Junta de Gobierno.
+I.- Hacer que sus hijos o pupilos menores de edad reciban educación primaria y secundaria;
 
-###### ARTÍCULO 97.
+II.- Apoyar el proceso educativo de sus hijos o pupilos;
 
-A la Unidad del Sistema Mexicano de Información Legislativa (SIMIL), le corresponde:
+III.- Colaborar con las autoridades escolares en el mejoramiento de los establecimientos educativos y en el logro de la excelencia académica, así como en las actividades que dichas instituciones realicen;
 
-I.- Mantener actualizada, ordenada y oportuna la información legislativa que requiere la base de datos del sistema, para que los interesados tengan acceso a los documentos electrónicos en forma pronta y confiable;
+IV.- Participar en coordinación con los maestros, en la detección y tratamiento de problemas de aprendizaje y conducta de sus hijos o pupilos;
 
-II.- Conocer y obtener la documentación de las iniciativas y asuntos que ingresen al Congreso, hasta su total resolución, a efecto de que sean ingresados al Sistema;
+V.- Abstenerse de intervenir en los aspectos pedagógicos y laborales de los establecimientos educativos.
 
-III.- Solicitar a la Unidad de Apoyo Técnico, la información concerniente al estado que guardan los asuntos que ingresan al Congreso;
+###### ARTICULO 127.
 
-IV.- Asistir, cuando así se lo solicite el Secretario de Servicios Legislativos a las reuniones de trabajo que se deriven del Sistema Mexicano de Información Legislativa;
+Los padres o tutores de los mayores de 14 años que no hayan cursado la educación primaria y secundaria, tienen la obligación de hacer que dichos menores regularicen su educación conforme al cumplimiento de la obligación de cursar la educación primaria y secundaria en los centros establecidos para tal efecto.
 
-V.- Mantener actualizados los insumos legislativos del Sistema; y
+###### ARTICULO 128.
 
-VI.- Las demás que le sean encomendadas por el Secretario de Servicios Legislativos o el Presidente de la Junta de Gobierno.
+En cada plantel en el que se impartan servicios educativos del nivel básico podrá formarse una Asociación integrada por padres de familia, tutores o quienes ejerzan la patria potestad.
 
-### CAPÍTULO VII. DE LA FÓRMULA PARA LA EXPEDICIÓN DE LEYES, DECRETOS Y ACUERDOS ECONÓMICOS
+###### ARTICULO 129.
 
-###### ARTÍCULO 98.
+Las Asociaciones de Padres de Familia tendrán por objeto:
 
-La Unidad de Transparencia y Acceso a la Información Pública Gubernamental del Poder Legislativo, tendrá a su cargo las siguientes funciones:
+I.- Representar ante todo tipo de autoridades escolares los intereses que en materia educativa sean comunes a los asociados;
 
-I.- Proporcionar a nombre del Poder Legislativo como sujeto obligado, la información solicitada en términos de la Ley de Transparencia y Acceso a la Información Pública Gubernamental para el Estado de Hidalgo;
+II.- Colaborar en el mejoramiento de la integración de la comunidad educativa compuesta por directivos, maestros y trabajadores, alumnos y padres de familia, así como en el mejoramiento de los planteles;
 
-II.- Vigilar que la información contenida en el portal web del Poder Legislativo sea substancialmente útil, fidedigna, actualizada y en los términos que establece la Ley de la materia;
+III.- Informar a las autoridades educativas sobre cualquier irregularidad de que sean objeto los educandos;
 
-III.- Aplicar las medidas necesarias para coordinar las acciones tendientes a orientar las políticas públicas de transparencia legislativa y fiscalizadora, cumplir con el acceso a la información, establecer los lineamientos de operación bajo los cuales se recabará, clasificará, actualizará y difundirá la información pública del Poder Legislativo;
+IV.- Impulsar el funcionamiento de los Consejos de Participación Social de la Educación;
 
-IV.- Garantizar a la sociedad, mecanismos eficientes de transparencia, rendición de cuentas de la gestión y desempeño; y
+V.- Propiciar el mejoramiento social y cultural de sus miembros, y
 
-V.- Las demás que le encomiende el Comité de Transparencia y Acceso a la Información Pública Gubernamental del Poder Legislativo del Estado.
+VI.- Todo aquello que prevengan los reglamentos respectivos.
 
-###### ARTÍCULO 99.
+###### ARTICULO 130.
 
-Es el área de apoyo técnico jurídico en el proceso legislativo, a cargo de un Director General que, independientemente de los requisitos previstos en el Artículo 186 de la Ley Orgánica del Poder Legislativo, deberá ser Licenciado en Derecho, con Cédula Profesional y experiencia profesional, quien coordina a los Secretarios Técnicos en los trabajos que realizan al interior de las Comisiones de Estudio y Dictamen.
+Las Asociaciones de Padres de Familia podrán:
 
-###### ARTÍCULO 100.
+I.- Proponer y promover en coordinación con las autoridades escolares y educativas, las acciones necesarias para el mejoramiento de los establecimientos escolares;
 
-El Secretario técnico deberá contar preferentemente con los conocimientos profesionales y experiencia en la materia de la Comisión de que se trate.
+II.- Reunir fondos con participaciones voluntarias o actividades de sus miembros para los fines de la educación, mismos que serán considerados como de las propias asociaciones, hasta en tanto no sean entregados oficialmente a la autoridad educativa mediante bienes o servicios, que no serán considerados como contraprestaciones del servicio, por lo que en ningún caso se podrán condicionar alguno de los derechos del educando;
 
-Tratándose de las Comisiones de Legislación y Puntos Constitucionales, Instructora y de Seguridad Pública y Justicia, deberá ser Licenciado en Derecho; en el caso de la Comisión de Hacienda, se requiere un perfil profesional en áreas afines.
+III.- Colaborar en la ejecución de los proyectos estratégicos que mejoren la vida familiar y social de sus miembros;
 
-###### ARTÍCULO 101.
+IV.- Colaborar con las autoridades educativas en las actividades y campañas de beneficio social, cultural, sanitario y ecológico que se efectúen en sus comunidades;
 
-Para la elaboración de los resolutivos según su naturaleza, los secretarios técnicos lo harán bajo la coordinación y supervisión de la Dirección General de Coordinación de Asesoría. En caso de tratarse de una materia compleja, podrá solicitar el apoyo de asesores externos expertos e información de las dependencias involucradas.
+V.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores. Por ello los padres de familia no están obligados a resolver los problemas de mantenimiento y equipamiento de los edificios escolares, o hacer otros gastos que lesionen la economía familiar;
 
-###### ARTÍCULO 102.
+VI.- Informar por escrito a las autoridades educativas sobre cualquier irregularidad de que sean objeto los educandos, y
 
-El Secretario Técnico, como apoyo profesional y administrativo de la Comisión, tiene las siguientes funciones:
+VII.- Presentar quejas contra las autoridades educativas por irregularidades que cometan en sus funciones conforme a los reglamentos y leyes respectivos.
 
-I.- Recibir la correspondencia enviada a la Comisión;
+###### ARTICULO 131.
 
-II.- Registrar los asuntos turnados a la Comisión en el Libro de Gobierno y dar cuenta de los mismos a los Diputados que la integran, para su estudio;
+Las Asociaciones de padres de familia se abstendrán de intervenir en los aspectos administrativos, pedagógicos y laborales de los establecimientos educativos.
 
-III.- Elaborar el calendario de las reuniones de la Comisión, por instrucciones de su Presidente y los oficios de citación a reunión de la Comisión;
+### CAPÍTULO II
 
-IV.- Elaborar las Minutas donde consten los Acuerdos de la Comisión, tomados en las reuniones de trabajo y la Agenda Legislativa;
+DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL.
 
-V.- Recabar las firmas del Presidente de la Comisión y de los demás Diputados integrantes de la misma en los resolutivos, el calendario, registro de asistencia, Minutas de reuniones y demás documentos que se requieran;
+###### ARTICULO 132.
 
-VI.- Formar una carpeta en la que obren los calendarios, asistencias y Minutas de las reuniones de trabajo de la Comisión;
+Los directores de cada escuela de educación básica harán lo conducente para organizar el Consejo Escolar de Participación Social, integrado por padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, directivos de la escuela, exalumnos, así como los demás miembros de la comunidad interesados en el desarrollo de la propia escuela.
 
-VII.- Elaborar los proyectos de resolutivo de los asuntos turnados, entregarlos a la Coordinación de Asesoría y la Primera Comisión Permanente de Corrección y Estilo, para posteriormente presentarlos a los Diputados integrantes de la Comisión, para su análisis y aprobación, en su caso;
+###### ARTICULO 133.
 
-VIII.- Formar expedientes de los asuntos que sean turnados a la Comisión y mantener en orden el archivo de la misma;
+Además de los lineamientos que expida la Secretaría de Educación Pública, los Consejos Escolares de Participación Social deberán:
 
-IX.- Proporcionar la documentación que le solicite algún integrante de la Comisión o parte interesada, previa autorización del Presidente de ésta;
+a) Conocer el calendario escolar y las sugerencias para sus adecuaciones;
 
-X.- Llevar un control de oficios que emita la Comisión;
+b) Conocer de la fijación, logro y evaluación de metas escolares, inscripción, deserción, reprobación y programas de estudio, con el objeto de coadyuvar con los maestros y directivos a la mejor realización de las mismas;
 
-XI.- Presentarse periódicamente en el Área de Evaluación y Seguimiento a Comisiones, para mantener actualizada la productividad legislativa de la Comisión y del Secretario Técnico;
+c) Conocer de los resultados de las evaluaciones que realicen las autoridades del plantel y de la región o zona, utilizando dicha información en el mejoramiento de la educación de su escuela;
 
-XII.- Estar presente en las sesiones del Congreso;
+d) Propiciar la colaboración entre los diversos sectores de la comunidad educativa y proponer estímulos y reconocimientos a sus integrantes que se distingan en sus servicios y aportaciones a la educación del plantel;
 
-XIII.- Al final de cada Legislatura, en auxilio del Presidente de la Comisión, entregará a la Secretaría de Servicios Legislativos, la documentación generada en la Comisión de los asuntos concluidos y pendientes, mediante oficio y relación detallada de la misma, firmado por el Presidente de la Comisión; y
+e) Promover, apoyar y realizar actividades extraescolares que complementen y respalden la formación de los alumnos;
 
-XIV.- las demás que le asigne la Comisión.
+f) Llevar a cabo acciones de protección civil y emergencia escolar, efectuando la difusión necesaria;
 
-###### ARTÍCULO 103.
+g) Fomentar y promover la participación de la familia en beneficio de los educandos y de su plantel;
 
-la Dirección General de Servicios Administrativos es el área de apoyo administrativo encargado de los recursos humanos, materiales y financieros del Congreso, con las facultades que prevé el Artículo 196 de la Ley y para el desempeño de su función, contará con las siguientes áreas:
+h) Opinar en asuntos pedagógicos;
 
-a).- Unidad de Contabilidad y Presupuesto;
+i) Contribuir a reducir las condiciones sociales adversas que influyen en la educación de los alumnos, y
 
-b).- Unidad de Informática;
+j) Organizar y convocar a la realización de trabajos específicos para el mejoramiento de las instalaciones escolares, y efectuar todo tipo de actividades en beneficio del plantel apoyando las actividades cotidianas de la escuela.
 
-c).- Unidad de Recursos Humanos;
+###### ARTICULO 134.
 
-d).- Unidad de Servicios Generales;
+Los Ayuntamientos y las autoridades educativas locales colaborarán para vincular a cada escuela pública de educación básica, activa y constantemente, con la comunidad.
 
-e).- Oficialía de Partes; y
+En cada municipio operará un Consejo Municipal de Participación Social en la Educación, integrado por: las autoridades municipales; los padres de familia y representantes de sus asociaciones; maestros distinguidos y directivos de escuela; representante de la organización sindical de los maestros; así como de las organizaciones sociales y demás interesadas en el mejoramiento de la educación.
 
-f).- Unidad de Seguridad Interna del Congreso.
+Este Consejo tendrá las siguientes funciones:
 
-## TÍTULO QUINTO. DEL PROCESO LEGISLATIVO
+a) Gestionar ante el Ayuntamiento y autoridades educativas locales el mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas y demás proyectos de desarrollo educativo en el municipio;
 
-### CAPÍTULO VIII. DEL CEREMONIAL
+b) Conocer de los resultados de las evaluaciones que realicen las autoridades educativas;
 
-###### ARTÍCULO 104.
+c) Dar seguimiento a las actividades organizadas en las escuelas de educación básica del propio municipio, con objeto de enriquecerlas y concluirlas;
 
-Al frente de la Unidad de Contabilidad y Presupuesto, habrá un Responsable y en apoyo al Director General de Servicios Administrativos, previa aprobación del Presidente de la Junta de Gobierno, tendrá las siguientes funciones:
+d) Estimular, promover y apoyar las actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales;
 
-I.- Emitir las normas, sistemas y procedimientos en materia de administración de recursos humanos, materiales y financieros; coordinar y supervisar los procesos internos de programación y evaluación presupuestal;
+e) Promover y establecer la coordinación de las escuelas de educación básica con las autoridades educativas y la integración de las mismas a los programas de bienestar comunitario;
 
-II.- Controlar y aplicar los programas y prestaciones laborales;
+f) Contribuir a la formulación de propuestas para el enriquecimiento de los planes y programas de estudio con contenidos locales, tomando en cuenta las particularidades socioeconómicas, culturales, históricas y geográficas del municipio;
 
-III.- Integrar y proponer al Director General de Servicios Administrativos el anteproyecto de presupuesto anual del Congreso del Estado de Hidalgo;
+g) Opinar en asuntos pedagógicos;
 
-IV.- Otorgar los reconocimientos y recompensas que determine la Ley y las Condiciones Generales de Trabajo y emitir los lineamientos relativos a la aplicación, modificación, liquidación y pago de cualquier remuneración al personal que labora en el Congreso;
+h) Coadyuvar a nivel municipal en actividades de protección civil y emergencia escolar;
 
-V.- Vigilar el proceso interno de programación presupuestal, que relacione objetivos, metas y recursos;
+i) Promover y organizar certámenes interescolares para la superación educativa en el ámbito municipal;
 
-VI.- Vigilar y controlar el ejercicio del Programa de Presupuesto Anual del Congreso; establecer las normas y procedimientos para integrar la contabilidad interna, así como llevarla;
+j) Promover y organizar actividades de orientación, capacitación y difusión, dirigidas a padres de familia y tutores, para que cumplan cabalmente con sus obligaciones en materia educativa;
 
-VII.- Formular, analizar y consolidar los estados financieros del Congreso;
+k) Proponer estímulos y reconocimientos de carácter social a los miembros de la comunidad educativa escolar del municipio;
 
-VIII.- Elaborar la evaluación del Programa de Presupuesto Anual del Congreso y proponer las modificaciones programáticas y presupuestales que se requieran, de acuerdo con los requerimientos de la materia;
+l) Obtener y aportar recursos complementarios para el mantenimiento de los planteles escolares oficiales ubicados en el municipio, así como para proveerlos de equipo básico, y
 
-IX.- Instrumentar acciones tendientes al mejoramiento y modernización administrativa del Congreso; y
+m) Realizar todo tipo de actividades para apoyar y fortalecer la educación en el municipio.
 
-X.- Las demás que le instruya el Director General de Servicios Administrativos o el
+Será responsabilidad del Presidente Municipal que en los Consejos se alcance una efectiva participación social que contribuya a elevar la calidad y cobertura de la educación.
 
-Presidente de la Junta de Gobierno.
+###### ARTICULO 135.
 
-###### ARTÍCULO 105.
+En el Estado de Jalisco funcionará el Consejo Estatal de Participación Social en la Educación, como órgano de consulta, orientación y apoyo.
 
-Al frente de la Unidad de Informática, habrá un responsable que tendrá las siguientes funciones:
+En dicho Consejo se asegurará la participación de los padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, instituciones formadores de docentes, autoridades educativas estatales y municipales, así como de los sectores sociales especialmente interesados en la educación.
 
-I.- Coordinar los sistemas de información del Congreso, procesando en ellos los datos pertinentes que deban proporcionarle los órganos auxiliares, de acuerdo con las normas y procedimientos, previamente establecidos;
+Este Consejo tendrá las siguientes funciones:
 
-II.- Integrar para su difusión la información institucional de carácter general, actuando en coordinación con la Secretaría de Servicios Legislativos y la Dirección de Comunicación Social;
+a) Promover y apoyar actividades extraescolares de carácter cultural, cívico, deportivo y de bienestar social;
 
-III.- Desarrollar los sistemas informáticos y de comunicación de datos, voz e imagen que requiera el Congreso, vigilando su adecuada operación, mediante supervisión, asesoría, capacitación y mantenimiento;
+b) Coadyuvar a nivel estatal en actividades de protección civil y emergencia escolar;
 
-IV.- Proponer la normatividad y programas tendientes a lograr en el Congreso, un desarrollo informático y de comunicación, caracterizado por la actualización tecnológica y óptima utilización de los equipos y programas de cómputo;
+c) Sistematizar los elementos y aportaciones relativos a las particularidades de la entidad federativa que contribuyan a la formulación de contenidos estatales en los planes y programas de estudio;
 
-V.- Proporcionar asesoría, capacitación y apoyo técnico, en materia de adquisición, instalación, mantenimiento, desarrollo y operación de equipos, programas de cómputo y de transmisión de datos, voz e imagen;
+d) Opinar en asuntos pedagógicos;
 
-VI.- Proponer mejoras informáticas para la modernización en el desarrollo del proceso legislativo; y
+e) Conocer las demandas y necesidades que emanen de la participación social en la educación a través de los Consejos Escolares y Municipales conformando los requerimientos a nivel estatal para gestionar ante las instancias competentes su resolución y apoyo, y
 
-VII.- Las demás que legalmente le instruya el Director General de Servicios Administrativos o el Presidente de la Junta de Gobierno.
+f) Conocer los resultados de las evaluaciones que efectúen las autoridades educativas, y colaborar con ellas en actividades que influyan en el mejoramiento de la calidad y la cobertura de la educación.
 
-###### ARTÍCULO 106.
+###### ARTICULO 136.
 
-Al frente de la Unidad de Recursos Humanos habrá un responsable quien tendrá las siguientes funciones:
+Los Consejos de Participación Social a que se refiere esta sección se abstendrán de intervenir en los aspectos laborales de los establecimientos educativos y no deberán participar en cuestiones políticas ni religiosas.
 
-I.- Operar el sistema de administración y desarrollo del personal de base, confianza y honorarios del Congreso, e integrar el anteproyecto del Presupuesto Anual de los Servicios Personales de la institución;
+### CAPÍTULO III
 
-II.- Establecer y aplicar las políticas y procedimientos en materia de selección y contratación de personal que labora en el Congreso;
+DE LOS MEDIOS DE COMUNICACIÓN.
 
-III.- Aplicar las políticas relativas al análisis de puestos, tabuladores de sueldos y el sistema de premios, estímulos y recompensas del personal de base, confianza y honorarios del Congreso Estatal;
+###### ARTICULO 137.
 
-IV.- Proporcionar orientación en materia de prestaciones laborales y turnar la información que le requieran las autoridades competentes sobre la asignación de personal;
+En orden a lo establecido por la Ley General de Educación, los medios de comunicación masiva, en el desarrollo de sus actividades, contribuirán al logro de las finalidades previstas en el artículo 7 conforme a los criterios establecidos en el artículo 8 de la presente Ley.
 
-V.- Tramitar los nombramientos, licencias y bajas del personal del Congreso, altas, modificaciones, cambios de adscripción, ascenso y modificación de sueldo;
+La Secretaría de Educación del Gobierno del Estado de Jalisco, vigilará el cumplimiento de tal normatividad. Igualmente efectuará las denuncias por las violaciones a la referida Ley, así como a la Ley Federal de Radio y Televisión, y la Ley de Imprenta, en lo que esta Ley de Educación y los ordenamientos de ella emanados le confieren.
 
-VI.- Aplicar los descuentos procedentes y realizar la emisión y distribución del pago de salario;
+Promoverá ante el Consejo Nacional de Radio y Televisión y las autoridades competentes, se le conceda parte del tiempo a que alude el artículo 59 de la Ley Federal de Radio y Televisión, para difundir en el Estado de Jalisco programas de contenido educativo acordes a los fines establecidos en el artículo 7, con los criterios señalados en el artículo 8 de la presente Ley.
 
-VII.- Integrar y controlar los expedientes de los servidores públicos, tramitar sus credenciales, constancias de percepción y antigüedad laboral y todos los demás documentos correspondientes al personal del Congreso, estableciendo el sistema de registro correspondiente, así como el manejo y control del personal de servicio social y prácticas profesionales;
+Solicitará en forma directa a todo tipo de medios de comunicación masiva tiempo y espacio para la difusión de los programas señalados y para dar a conocer a la sociedad comunicados de especial importancia en materia educativa. Solicitará especialmente a los periódicos y revistas que circulen en la entidad, espacios gratuitos para fines similares.
 
-VIII.- Aplicar y registrar las sanciones realizadas al personal del Congreso, salvo en lo que compete al régimen disciplinario normado por otras disposiciones legales; y
+###### ARTICULO 138.
 
-IX.- Las demás que legalmente le instruya el Director General de Servicios Administrativos o el Presidente de la Junta de Gobierno.
+El Ejecutivo Estatal a través de convenios de coordinación y colaboración, promoverá con los medios de comunicación, la difusión de los fines y objetivos de la educación para inducir la participación corresponsable de la sociedad.
 
-###### ARTÍCULO 107.
+###### ARTICULO 139.
 
-Al frente de la Unidad de Servicios Generales, habrá un responsable, quien tendrá las siguientes funciones:
+Las instituciones del Sistema Educativo Estatal podrán realizar actividades escolares y extraescolares con la finalidad de orientar y fomentar en las personas una actitud reflexiva y analítica, en relación con los mensajes que difundan los medios de comunicación.
 
-I.- Desarrollar el sistema de administración de los recursos materiales y servicios generales del Congreso, estableciendo los lineamientos y políticas generales correspondientes;
+## TÍTULO SÉPTIMO
 
-II.- Ejecutar y dar seguimiento a las instrucciones emitidas por el Director General de Servicios Administrativos o el Presidente de la Junta de Gobierno;
+DE LAS INFRACCIONES, LAS SANCIONES Y EL RECURSO ADMINISTRATIVO.
 
-III.- Abastecer los recursos materiales y suministrar los servicios generales que requiera el Congreso;
+### CAPÍTULO I
 
-IV.- Conservar, mantener y reaprovechar los bienes del Congreso, registrar, controlar y actualizar los inventarios de los bienes muebles;
+DE LAS INFRACCIONES Y SANCIONES.
 
-V.- Atender los servicios de transportes, instalación y mantenimiento del equipo de luz, telefonía y reparación que sean necesarios para el adecuado funcionamiento de los bienes del Congreso; y
+###### ARTICULO 140.
 
-VI.- Las demás que le instruya el Director General de Servicios Administrativos o el Presidente de la Junta de Gobierno.
+Son infracciones de quienes prestan servicios educativos:
 
-### CAPÍTULO I. DE LA AUDITORÍA SUPERIOR DEL ESTADO
+I.- Incumplir cualesquiera de las obligaciones previstas en el artículo 123 de esta Ley;
 
-###### ARTÍCULO 108.
+II.- Suspender el servicio educativo sin que medie motivo justificado, caso fortuito o fuerza mayor;
 
-Al frente de la Oficialía de Partes, habrá un responsable, quien tendrá las siguientes funciones:
+III.- Suspender clases en días y horas no autorizadas por el calendario escolar aplicable, sin que medie motivo justificado, caso fortuito o fuerza mayor;
 
-I.- Recibir, clasificar, registrar, turnar y entregar a órganos, unidades administrativas a integrantes del Congreso, la correspondencia y los documentos de carácter oficial que ingresen a la institución, de lunes a viernes con un horario de las ocho treinta horas a las dieciséis horas;
+IV.- No utilizar los libros de texto gratuitos que la Secretaría de Educación Pública autorice y determine para la educación primaria y secundaria;
 
-II.- Realizar el trámite administrativo interno, para el envío de la correspondencia, paquetería y cualquier otro tipo de comunicados oficiales del Congreso; y
+V.- Incumplir los lineamientos generales para el uso de material educativo para la educación primaria y la secundaria;
 
-III.- Las demás que, en el ámbito de su competencia, le instruya la Dirección General de Servicios Administrativos o la Secretaría de Servicios Legislativos.
+VI.- Dar a conocer antes de su aplicación los exámenes o cualesquiera otros instrumentos de admisión, acreditación o evaluación a quienes habrán de presentarlos;
 
-###### ARTÍCULO 109.
+VII.- Expedir certificados, constancias, diplomas o títulos a quienes no cumplan los requisitos aplicables;
 
-Al frente de la Unidad de Seguridad interna del Congreso, se encontrará un responsable de área, quien tendrá las siguientes funciones:
+VIII.- Realizar o permitir se realice publicidad dentro del plantel escolar que fomente consumismo, así como realizar o permitir la comercialización de bienes o servicios notoriamente ajenos al proceso educativo. En el caso de venta de alimentos, se cuidará que los mismos sean de alto valor nutricional y coadyuven a una dieta balanceada;
 
-I.- Organizar los servicios de salvaguarda de la integridad física de los servidores públicos del Congreso y visitantes;
+IX.- Efectuar actividades que pongan en riesgo la salud o la seguridad de los alumnos;
 
-II.- Efectuar actividades de vigilancia interna y externa de las instalaciones del Congreso, mediante la aplicación de procedimientos profesionales de revisión de entrada y salida de personas y objetos;
+X.- Ocultar a los padres o tutores las conductas de los alumnos que notoriamente deban ser de su conocimiento;
 
-III.- Atender lo relacionado con honores a la bandera y mantener ésta, conforme se indica en el calendario de efemérides correspondiente, a bajo, media o toda asta;
+XI.- Oponerse a las actividades de evaluación, inspección o vigilancia; así como no proporcionar información veraz y oportuna;
 
-IV.- Auxiliar a la Dirección General de Servicios Administrativos del Congreso, en la elaboración y ejecución de programas de seguridad para el resguardo de los bienes del Congreso;
+XII.- Imponer al educando medios correctivos que resulten perjudiciales para su salud física o psicológica;
 
-V.- Asistir a la Dirección General de Servicios Administrativos del Congreso, en la formulación y operación del Programa de Protección Civil de la Institución;
+XIII.- Incumplir cualesquiera de los demás preceptos de esta ley, así como las disposiciones expedidas con fundamento en ella.
 
-VI.- Operar los sistemas y aparatos de seguridad, de acceso, permanencia y salida a las instalaciones y brindar orientación a visitantes;
+Las disposiciones de este artículo no son aplicables a los trabajadores de la educación, en virtud de que, las infracciones en que incurran serán sancionadas conforme a las disposiciones especificas para ellos.
 
-VII.- Ejecutar regularmente programas de prevención, simulacros, control de riesgos y supervisión de los sistemas electromecánicos del Congreso;
+###### ARTICULO 141.
 
-VIII.- Atender y canalizar, por acuerdo superior a grupos sociales o ciudadanos que requieran servicios de las unidades administrativas o de los Diputados del Congreso;
+Las infracciones enumeradas en el artículo anterior se sancionarán con:
 
-IX.- Supervisar, al término de las jornadas de trabajo, que las instalaciones se encuentren en orden y estado físico acordes a las normas de protección civil;
+I.- Multa hasta por el equivalente a cinco mil veces el salario mínimo general diario vigente en el área geográfica y en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia, y
 
-X.- Ordenar y administrar a la guardia del Congreso o a los grupos policiales contratados para tal efecto y en su caso, auxiliar al Presidente de la Directiva o de la Diputación Permanente; y
+II.- Revocación de la autorización o retiro de reconocimiento de validez de estudios correspondientes.
 
-XI.- Las demás que, en el ámbito de su competencia, le instruya la Dirección General de Servicios Administrativos o el Presidente de la Junta de Gobierno.
+La imposición de la infracción establecida en la fracción II, no excluye la posibilidad de que sea impuesta alguna multa.
 
-###### ARTÍCULO 110.
+###### ARTICULO 142.
 
-El Instituto de Estudios Legislativos es el órgano de apoyo para la investigación legislativa y doctrinaria en los proyectos normativos que emita el Congreso del Estado, al frente estará un Director General que deberá reunir los requisitos previstos en el Artículo 186 de la Ley Orgánica del Poder Legislativo.
+Además de las previstas en el artículo 140 de esta Ley, también son infracciones:
 
-El Instituto tendrá las facultades que prevé el Artículo 198 de la Ley Orgánica del Poder Legislativo y para el desempeño de su función contará, con las siguientes unidades de apoyo:
+I.- Ostentarse como plantel incorporado sin estarlo;
 
-I.- De Investigación;
+II.- Incumplir con lo dispuesto en el artículo 123 de esta Ley; o
 
-II.- De Difusión; y
+III.- Impartir la educación primaria, secundaria, normal y demás para la formación de maestros de educación básica sin contar con la autorización correspondiente.
 
-III.- De Capacitación.
+En los supuestos previstos en este artículo, además de las sanciones señaladas en el artículo 141 de esta Ley, podrá proceder a la clausura del plantel respectivo.
 
-###### ARTÍCULO 111.
+###### ARTICULO 143.
 
-La Unidad de Investigación, desarrollará las siguientes funciones:
+Cuando la autoridad educativa responsable de la prestación del servicio, o que haya otorgado la autorización o reconocimiento de validez oficial de estudios, considere que existan causas justificadas que ameriten la imposición de sanciones, lo hará del conocimiento del presunto infractor para que, dentro de un plazo de quince días naturales, manifieste lo que a su derecho convenga y proporcione los datos y documentos que le sean requeridos. La autoridad dictará resolución con base en los datos aportados por el presunto infractor y las demás constancias que obren en el expediente.
 
-I.- Ayudar técnico-jurídicamente al trabajo de los legisladores;
+Para determinar la sanción se considerarán las circunstancias en que se cometió la infracción, los daños y perjuicios que se hayan producido o puedan producirse a los educandos, la gravedad de la infracción, las condiciones socioeconómicas del infractor, el carácter intencional o no de la infracción si se trata de reincidencia.
 
-II.- Colaborar con la Secretaría de Servicios Legislativos y la Coordinación de Asesoría en la recopilación teórica y normativa, la instalación de Mesas de Trabajo, Foros académicos y públicos que se hacen para un proyecto de Ley;
+###### ARTICULO 144.
 
-III.- A petición de los Diputados o de los Órganos Técnicos y Administrativos del Congreso, realizar el estudio de los documentos de antecedentes legislativos, que deberá contener la definición del problema objeto de análisis, la fijación de la metodología y técnica legislativa empleada, el índice o diseño estructural del cuerpo normativo, el proceso de recopilación de información histórica, doctrinal, de legislación comparada y jurisprudencial de fuentes nacionales e internacionales y de vigencia actual, todo ello encaminado a dar un sustento lógico jurídico a las Comisiones de Estudio y Dictamen, para que éstas elaboren los proyectos de resolutivos;
+La negativa o revocación de la autorización otorgada a particulares produce efectos de clausura del servicio educativo de que se trate.
 
-IV.- Diseñar instructivos y manuales de organización del Congreso;
+El retiro del reconocimiento de validez oficial se referirá a los estudios que se impartan a partir de la fecha en que se dicte la resolución. Los realizados en tanto que la institución contaba con el reconocimiento mantendrán su validez oficial.
 
-V.- Llevar a cabo estudios, análisis e investigaciones sobre el comportamiento normativo de la legislación vigente en el Estado de Hidalgo;
+La autoridad que dicte la resolución adoptará las medidas que sean necesarias para evitar perjuicios a los educandos. En el caso de autorizaciones, cuando la revocación se dicte durante un ejercicio lectivo, la institución podrá seguir funcionando a juicio y bajo vigilancia de la autoridad hasta que aquél concluya.
 
-VI.- Realizar proyectos de investigación sobre la aplicabilidad de las normas jurídicas vigentes en la Entidad, así como las necesidades para hacer las propuestas, adecuadas a la realidad social; y
+### CAPÍTULO II
 
-VII.- Las demás que en el ámbito de su competencia, le instruya el Director General del Instituto de Estudios Legislativos o el Presidente de la Junta de Gobierno.
+DEL RECURSOS ADMINISTRATIVO.
 
-###### ARTÍCULO 112.
+###### ARTICULO 145.
 
-La Unidad de Difusión, tendrá las siguientes responsabilidades:
+En contra de las resoluciones de las autoridades educativas dictadas con fundamento en las disposiciones de esta ley y demás ordenamientos derivados de ésta, podrá interponerse recurso de revisión dentro de los quince días hábiles siguientes a la fecha de su notificación.
 
-I.- Realizar el trámite de difusión bibliográfica del quehacer legislativo;
+Transcurrido el plazo a que se refiere el párrafo anterior sin que el interesado interponga el recurso, la resolución tendrá el carácter de definitiva.
 
-II.- Evaluar la eficacia y consecuencias de la norma jurídica en los ámbitos social, cultural, político y económico, así como el impacto normativo que produzcan;
+Así mismo, podrá interponerse dicho recurso cuando la autoridad no de respuesta en un plazo de sesenta días hábiles siguientes a la presentación de las solicitudes de autorización o de reconocimiento de validez oficial de estudios.
 
-III.- Promover la participación de instituciones públicas y privadas que contribuyan al cumplimiento de las funciones del Congreso del Estado, así como, difundir el cumplimiento de la cultura de la legalidad en el territorio hidalguense;
+###### ARTICULO 146.
 
-IV.- Diseñar e implementar los proyectos y programas permanentes de difusión de las actividades del Congreso, así como, de los Diputados en particular;
+El recurso se interpondrá por escrito ante la autoridad inmediata superior a la que emitió el acto recurrido u omitió responder la solicitud correspondiente. La autoridad receptora del recurso deberá sellarlo o firmarlo de recibido y anotará la fecha y hora en que se presente y el número de anexos que se acompañe. En el mismo acto devolverá copia debidamente sellada o firmada al interesado.
 
-V.- Promover la celebración de Convenios de Coordinación y Colaboración para la ejecución de acciones del quehacer legislativo y difundir la normatividad emitida, para comprensión y cumplimiento adecuado;
+###### ARTICULO 147.
 
-VI.- Recopilar, integrar, sistematizar y analizar la información originada al interior del Pleno del Congreso y difundirla adecuadamente para su oportuno conocimiento y eficaz cumplimiento; y
+En el recurso deberán expresarse el nombre y el domicilio del recurrente y los agravios, acompañándose los elementos de prueba que se consideren necesarios, así como las constancias que acrediten la personalidad del promovente.
 
-VII.- Las demás que, en el ámbito de su competencia, le instruya el Director General del Instituto de Estudios Legislativos o el Presidente de la Junta de Gobierno.
+En caso de incumplimiento de los requisitos antes señalados, la autoridad educativa podrá declarar improcedente el recurso.
 
-###### ARTÍCULO 113.
+###### ARTICULO 148.
 
-La Unidad de Capacitación, tendrá las siguientes atribuciones:
+Al interponerse el recurso podrá ofrecerse toda clase de pruebas, excepto la confesional, y acompañarse con los documentos relativos. Si se ofrecen pruebas que requieren desahogo, se abrirá un plazo no menor de cinco ni mayor de treinta días hábiles para tales efectos. La autoridad educativa que esté conociendo del recurso podrá allegarse los elementos de convicción adicionales que considere necesarios.
 
-I.- Dirigir, coordinar y llevar a cabo, la actualización de la normateca del Congreso, proporcionando la información actualizada a los servidores públicos que lo integran; y
+###### ARTICULO 149.
 
-II.- Las demás que, en el ámbito de su competencia, le instruya el Director General del Instituto de Estudios Legislativos o el Presidente de la Junta de Gobierno.
+La autoridad educativa dictará resolución dentro de los treinta días hábiles siguientes a partir de la fecha:
 
-### CAPÍTULO II. DE LA SECRETARÍA DE SERVICIOS LEGISLATIVOS
+I.- Del acuerdo de admisión del recurso, cuando no se hubiesen ofrecido pruebas o las ofrecidas no requieran plazo especial de desahogo, y
 
-###### ARTÍCULO 114.
+II.- De la conclusión de desahogo de pruebas o, en su caso, cuando haya transcurrido el plazo concedido para ello y no se hubieren desahogado.
 
-El Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo, es el órgano técnico que tiene por objeto desarrollar acciones de capacitación, información, asesoría, investigación y difusión con visión del fortalecimiento al Municipio, como la célula política más cercana a la ciudadanía, cuyos principios rectores se encuentran previstos en el Artículo 199 de la Ley.
+Las resoluciones se notificarán a los interesados, o a sus representantes legales, personalmente o por correo certificado con acuse de recibo.
 
-Al frente del Instituto se encuentra un Titular, cuyas atribuciones se contemplan en el Artículo 201 de la Ley, su organización interna, funcionamiento y resoluciones, serán previstas en la Ley del Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo, en la Constitución y demás Leyes y Reglamentos aplicables.
+###### ARTICULO 150.
 
-###### ARTÍCULO 115.
+La interposición del recurso suspenderá la ejecución de la resolución impugnada en cuanto al pago de multas.
 
-Es el órgano de contacto permanente con los medios de comunicación escrita, digital, social y electrónica, dirigida directamente a la ciudadanía, a las instituciones y demás dependencias gubernamentales, para difundir el quehacer de los Diputados y las actividades realizadas al interior del Congreso, con las facultades que prevé el Artículo 202 de la Ley Orgánica del Poder Legislativo, además de:
+Respecto de cualquier otra clase de resoluciones administrativas y de sanciones no pecuniarias, la suspensión sólo se otorgará si concurren los requisitos siguientes:
 
-I.- Ejecutar los programas de comunicación social y de relaciones públicas del Congreso del Estado de Hidalgo; y
+I.- Que lo solicite el recurrente;
 
-II.- Analizar y procesar la información de los medios de comunicación referentes a los acontecimientos en los cuales se vea inmenso (sic) el Poder Legislativo.
+II.- Que el recurso haya sido admitido;
 
-En materia de recabar información podrá apoyarse en el Presidente de la Junta de Gobierno, en el Secretario de Servicios Legislativos, en el Auditor Superior del Estado o en el Titular de la Unidad de Transparencia y Acceso a la Información Pública Gubernamental.
+III.- Que de otorgarse no implique la continuación o consumación de actos u omisiones que ocasionen infracciones a esta Ley, y
 
-El Director de Comunicación Social del Congreso, es el responsable de la información proporcionada a los diversos medios de comunicación Municipal, Estatal y Nacional, manteniendo contacto con los diversos congresos locales y generando una red de información que propicie el fortalecimiento de la imagen institucional, tanto de los Diputados como del quehacer legislativo y fomente el respeto a una cultura de la legalidad por parte de la sociedad en general.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2014)</small>
-
-###### ARTÍCULO 116.
-
-La Unidad Institucional de Género, es el Órgano del Congreso del Estado, con las atribuciones previstas en el numeral 202 Bis de la Ley Orgánica del Poder Legislativo del Estado de Hidalgo y cuyo responsable dependerá del Presidente de la Junta de Gobierno.
-
-Además de lo previsto por la Ley, la Unidad Institucional de Género difundirá y fomentará el respeto a la dignidad humana entre el personal del Poder Legislativo y en el trato a la ciudadanía.
-
-Los contenidos, metas y resultados alcanzados en su aplicación serán revisados y evaluados por las Comisiones participantes al término de cada Período Ordinario de Sesiones a fin de darles seguimiento.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2014)</small>
-
-### CAPÍTULO III. DE LA COORDINACIÓN DE ASESORÍA
-
-###### ARTÍCULO 117.
-
-Son atribuciones del responsable de la Unidad Institucional de Género:
-
-I.- Dirigir las actividades de la Unidad Institucional de Género:
-
-II.- Implementar y aplicar bajo la supervisión de las Presidencias de las Comisiones participantes, el Programa Institucional de Acciones Afirmativas para la Implementación de la Perspectiva de Género;
-
-III.- Expedir y difundir el Manual de Prácticas Conductuales con Perspectiva de Género para integrantes del Poder Legislativo, bajo la supervisión de las Presidencias de las Comisiones participantes;
-
-IV.- Convocar a las o los Diputados Presidentes de las Comisiones de Seguridad Ciudadana y Justicia, Derechos Humanos y Atención de las personas con Discapacidad e Igualdad de Género a las reuniones de trabajo necesarias para cumplimentar en lo conducente, lo previsto en el artículo 202 Bis de la Ley, así como elaborar las Minutas correspondientes;
-
-V.- Llevar el control y registro de toda la documentación relativa a la Unidad Institucional de Género;
-
-VI.- Elaborar y presentar con quince dias de anticipación al término de cada Período Ordinario de Sesiones a las y/o los Diputados Presidentes de las Comisiones participantes, un informe semestral de las actividades realizadas por la Unidad Institucional de Género; y
-
-VII.- Las demás que se contemplen en la Ley, este Reglamento o que le sean delegadas por el Presidente de la Junta de Gobierno o las Comisiones participantes.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2015)</small>
-
-###### ARTÍCULO 118.
-
-El Congreso del Estado contará con una Contraloría Interna, la cual será un Órgano Técnico y Administrativo y estará a cargo de un Director General designado por el Presidente de la Junta de Gobierno.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
-
-###### ARTÍCULO 119.
-
-La Contraloría Interna se auxiliará de las siguientes áreas:
-
-I.- Dirección de Auditoría y Desarrollo Administrativo; y
-
-II.- Dirección de Quejas y Responsabilidades.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
-
-###### ARTÍCULO 120.
-
-La Dirección de la Auditoría y Desarrollo Administrativo tendrá las siguientes atribuciones:
-
-a) Elaborar, aplicar y verificar el cumplimiento anual de la revisión y fiscalización del ejercicio del presupuesto de egresos del Congreso;
-
-b) Realizar auditorías periódicas a los órganos auxiliares del Congreso del Estado;
-
-c) Verificar la aclaración de observaciones hasta la solventación y/o elaboración de los dictámenes de responsabilidades;
-
-d) Coadyuvar en la vigilancia del manejo y aplicación de los recursos financieros, humanos y materiales, para que se realicen de acuerdo con las disposiciones aplicables;
-
-e) Diseñar, implementar, supervisar y evaluar los mecanismos de control de la gestión de los Órganos Técnicos Administrativos del Congreso del Estado; y
-
-f) Las demás que la legislación aplicable en la materia prevea.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
-
-###### ARTÍCULO 121.
-
-La Dirección de Quejas y Responsabilidades, tendrá las siguientes atribuciones:
-
-a) Recibir, analizar e investigar las quejas y denuncias interpuestas contra servidores públicos del Congreso del Estado de Hidalgo en el desempeño de sus funciones o con motivo de ellas;
-
-b) Notificar el inicio de un procedimiento al servidor público;
-
-c) Investigar y substanciar los procedimientos en materia de responsabilidad administrativa e inconformidades, previstos en las disposiciones legales y normativas aplicables;
-
-d) Dictar las resoluciones correspondientes e imponer las sanciones en términos de la legislación aplicable;
-
-e) Atender e intervenir en los diferentes medios de impugnación ante autoridades competentes e interponer los recursos legales que correspondan;
-
-f) Representar a la Contraloría Interna en los recursos legales, ante las autoridades administrativas y jurisdiccionales en el ámbito de sus competencias; y
-
-g) Las demás que la legislación aplicable en la materia prevea.
-
-T R A N S I T O R I O
-
-ÚNICO.- Envíese el presente Decreto al Periódico Oficial del Estado, para su Publicación.
-
-AL EJECUTIVO DE LA ENTIDAD PARA LOS EFECTOS DEL ARTÍCULO 51 DE LA CONSTITUCION POLÍTICA DEL ESTADO DE HIDALGO.- DADO EN LA SALA DE SESIONES DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HGO., A LOS DIECINUEVE DÍAS DEL MES DE JULIO DEL AÑO DOS MIL ONCE.
-
-PRESIDENTE
-
-DIP. OSCAR DAMIÁN SOSA CASTELÁN.
-
-SECRETARIO
-
-DIP. HECTOR MENDOZA MENDOZA.
-
-SECRETARIA
-
-DIP. HERMEREGILDA ESTRADA DÍAZ.
-
-EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
-
-DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS VEINTIDÓS DÍAS DEL MES DE JULIO DEL AÑO DOS MIL ONCE.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
-
-LIC. JOSÉ FRANCISCO OLVERA RUIZ
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 31 DE DICIEMBRE DE 2011.
-
-Artículo Único.- Envíese el presente Decreto al Ejecutivo del Estado para los efectos del Artículo 51 de la Constitución Política del Estado de Hidalgo.
-
-P.O. 16 DE DICIEMBRE DE 2013.
-
-Único.- Envíese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado.
-
-P.O. 17 DE MARZO DE 2014.
-
-ÚNICO.- Envíese el Decreto al Titular del Poder Ejecutivo de la Entidad, para su publicación en el Periódico Oficial del Estado.
-
-LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
-
-P.O. 2 DE JUNIO DE 2014.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CÓDIGO CIVIL PARA EL ESTADO DE HIDALGO.
-
-Único.- Envíese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado.
-
-P.O. 30 DE JUNIO DE 2014.
-
-Primero.- Envíese el presente Decreto al Titular del Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado de Hidalgo.
-
-Segundo.- El Director General de Servicios Administrativos designará en un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor del presente Decreto, el espacio físico que ocupará la Unidad Institucional de Género en el Congreso del Estado y proveerá del mobiliario, equipo y todo lo necesario para la organización y funcionamiento de la Unidad atendiendo a las posibilidades del presupuesto.
-
-Tercero.- En un plazo no mayor a 40 días naturales el responsable de la Unidad Institucional de Género, bajo la coordinación de las Presidencias de las Comisiones de Seguridad Ciudadana y Justicia, Derechos Humanos y Atención de las personas con Discapacidad e Igualdad de Género, elaborará el Programa Institucional de Acciones Afirmativas para la Implementación de la Perspectiva de Género, así como el Manual de Prácticas Conductuales con Perspectiva de Género para integrantes del Poder Legislativo a fin de someterlo a la consideración y aprobación del Pleno del Congreso.
-
-P.O. 3 DE NOVIEMBRE DE 2014.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
-
-P.O. 22 DE DICIEMBRE DE 2014.
-
-PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. El proceso de selección de los Comisionados de la Comisión Ejecutiva Estatal de Atención a Víctimas, será conducido en el siguiente orden cíclico:
-
-Primera Comisión Permanente de Seguridad Ciudadana y Justicia;
-
-Primera Comisión Permanente de Gobernación; y
-
-Comisión Derechos Humanos y Atención de las Personas con Discapacidad.
-
-TERCERO. A partir de la recepción de las ternas enviadas por Gobernador del Estado, la Comisión a la que de acuerdo al artículo anterior, corresponda conducir las actividades en el Congreso del Estado, tendrá 5 días hábiles para realizar la Sesión de comisiones conjuntas, a fin de revisar el proceso de selección de las ternas aludidas, hecho lo cual, las someterá a votación del Pleno en la sesión inmediata posterior.
-
-CUARTO. Las Comisiones que conozcan de la revisión del proceso de selección de ternas realizado por el Gobernador del Estado, únicamente podrán hacer observaciones respecto al contenido del artículo 18 de la Ley de Atención, Asistencia y Protección a Víctimas de Delitos y Violaciones a Derechos Humanos para el Estado de Hidalgo y, por la aprobación de dos de ellas, podrán enviarse al Titular del Ejecutivo para su aclaración dentro de los 5 días hábiles posteriores a que sean recibidas.
-
-Si transcurrido el plazo señalado en el párrafo anterior, las observaciones no fueren aclaradas, las comisiones que conozcan del proceso determinarán lo conducente.
-
-En ningún caso las observaciones o la falta de su aclaración darán lugar a la reposición del procedimiento sino, como máximo, a la sustitución, en su caso, por el Titular del Ejecutivo de la propuesta o propuestas individuales realizadas.
-
-P.O. 10 DE AGOSTO DE 2015.
-
-ÚNICO. Envíese al Titular del Poder Ejecutivo de la Entidad, para su publicación en el Periódico Oficial del Estado.
-
-P.O. 30 DE NOVIEMBRE DE 2015.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
-
-SEGUNDO. La Contraloría Interna deberá quedar instalada dentro de los 15 días naturales, posteriores a la publicación en el Periódico Oficial del Estado de Hidalgo.
-
-TERCERO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
-
-P.O. 23 DE MAYO DE 2016.
-
-## TÍTULO SEXTO. DE LOS ÓRGANOS AUXILIARES DEL CONGRESO DEL ESTADO
-
-### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL DE SERVICIOS ADMINISTRATIVOS
-
-### CAPÍTULO V. DEL INSTITUTO DE ESTUDIOS LEGISLATIVOS
-
-### CAPÍTULO VI. DEL INSTITUTO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE HIDALGO
-
-### CAPÍTULO VII. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
-
-### CAPÍTULO VIII. DE LA UNIDAD INSTITUCIONAL DE GÉNERO
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2014)</small>
+IV.- Que no ocasione daños o perjuicios a los educandos o terceros en términos de esta Ley.
 
 ### CAPÍTULO IX. CONTRALORÍA INTERNA
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+###### ARTICULO SEGUNDO.
+
+Se deroga la Ley de los Servicios Educativos, Culturales y Deportivos del Estado de Jalisco, contenida en el Decreto 14162, publicada en el Periódico Oficial "El Estado de Jalisco", el 10 de enero de 1991, en lo que se refiere a la materia educativa.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las demás disposiciones que se opongan a la presente ley.
+
+###### ARTICULO CUARTO.
+
+El Poder Ejecutivo del Estado de Jalisco expedirá los reglamentos necesarios para la aplicación de esta Ley.
+
+###### ARTICULO QUINTO.
+
+Los derechos adquiridos por los trabajadores de la educación, antes de la vigencia de la presente ley y conforme a las disposiciones que se deroguen, no sufrirán menoscabo alguno, conforme a lo establecido en la jerarquía del orden constitucional, las leyes que deriven de ésta, los reglamentos respectivos, los manuales de funciones correspondientes a sus responsabilidades y el artículo 6o. transitorio de la Ley General de Educación que establece: "...las autoridades competentes se obligan a respetar íntegramente los derechos de los trabajadores de la educación, y reconocer la titularidad de las relaciones laborales colectivas de su organización sindical, en los términos de su registro vigente y de acuerdo con las disposiciones legales correspondientes al expedirse esta ley."
+
+Salón de Sesiones del Congreso del Estado
+
+Guadalajara, Jalisco, 26 de Agosto de 1997
+
+DIPUTADO PRESIDENTE
+
+RAYMUNDO ANDRES GARCIA GUEVARA
+
+DIPUTADO SECRETARIO
+
+FCO. JAVIER ARRIETA GARCIA
+
+DIPUTADO SECRETARIO
+
+GABRIEL COVARRUBIAS IBARRA
+
+En mérito de lo anterior, mando se imprima, publique, divulgue, y se le dé el debido cumplimiento.
+
+Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los veintinueve días del mes de agosto de mil novecientos noventa y siete.
+
+EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+ING. ALBERTO CÁRDENAS JIMÉNEZ
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+LIC. RAÚL OCTAVIO ESPINOZA MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE SEPTIEMBRE DE 1998.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 656.- QUE ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 117, UN SEGUNDO PÁRRAFO AL ARTÍCULO 137 DE LA LEY ORGÁNICA Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 69 DEL REGLAMENTO, AMBOS DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO”.]
 
