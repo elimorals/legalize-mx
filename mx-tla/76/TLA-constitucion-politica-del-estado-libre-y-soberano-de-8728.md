@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1926-09-08"
+last_updated: "1934-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 1926.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1934.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -109,6 +109,10 @@ II. Por ausencia en virtud de estudios o comisiones científicas o artísticas.
 
 III.- Por ausencia con motivo de persecuciones políticas, si el hecho que las origina no constituye un delito.
 
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
+
+IV.- Por ausencia en virtud de empleos o Comisiones de la Federación.
+
 ###### Art. 10.
 
 Los vecinos están obligados a inscribirse en el padrón de su Municipalidad y manifestar la propiedad que tengan, o la industria, profesión o trabajo de que subsistan.
@@ -179,6 +183,10 @@ III.- Por sentencia que imponga como pena la suspensión.
 
 IV. Por ser declarado vago, ebrio consuetudinario o tahúr de profesión.
 
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
+
+V.- Los que tengan o hayan tenido casas de prostitución pública o clandestinamente o que vivan o hayan vivido a expensas de una mujer pública.
+
 ###### Art. 16.
 
 Los derechos de ciudadano tlaxcalteca, se pierden:
@@ -207,33 +215,47 @@ El Poder Público del Estado se divide para su ejercicio, en Legislativo, Ejecut
 
 El Poder Legislativo del Estado se deposita en una Asamblea que se denomina "Congreso del Estado de Tlaxcala".
 
-Art. 21 El Congreso se compondrá de Diputados electos popularmente en número no menor de quince.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
+
+###### Art. 21.
+
+El Congreso se compondrá de Diputados electos popularmente en número no menor de siete.
 
 ###### Art. 22.
 
 La elección de Diputados será directa y en los términos que prevenga la Ley Electoral.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
+
 ###### Art. 23.
 
-Por cada doce mil habitantes o fracción que exceda de ocho mil, los ciudadanos del Estado elegirán un Diputado propietario y un suplente.
+Por cada treinta mil habitantes o fracción que exceda de veinte mil, los ciudadanos del Estado elegirán un Diputado Propietario y un Suplente.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
 
 ###### Art. 24.
 
-Para ser diputado propietario o suplente se requiere:
+Para ser Diputado Propietario o suplente se requiere:
 
-I. Ser mexicano por nacimiento y ciudadano del Estado en pleno ejercicio de sus derechos.
+I.- Ser mexicano por nacimiento y ciudadano tlaxcalteca en pleno ejercicio de sus derechos, con cinco años de residencia consecutivos en el Estado inmediatamente anteriores al día de la elección o uno si fuere nacido en él.
 
-II. Ser mayor de veinticinco años.
+II.- Tener veinticinco años de edad cumplidos el día de la elección y no mayor de sesenta y cinco.
 
-III. Tener tres años de residencia en el Estado inmediatamente anteriores a la elección, cuando no se haya nacido en él.
+III. Saber leer y escribir.
 
-IV. No ser ministro de ningún culto.
+IV.- No ser ministro de ningún culto.
 
-V. No estar en servicio activo en el Ejército Federal, Guardia Nacional, ni tener mando en la Policía o Gendarmería, en el Distrito en que se pretenda su elección, cuando menos noventa días antes de ella.
+V. No estar en servicio activo en el ejército Federal Guardia Nacional ni tener mando en la Policía o Gendarmería en el Distrito en el que se pretenda su elección, cuando menos noventa días antes de ella.
 
-VI. No ser en el Estado funcionario o alto empleado de la Federación, Gobernador, Secretario General de Gobierno, Magistrado del Tribunal Superior de Justicia, Procurador de Justicia, ni Tesorero General, a menos que se separen de sus funciones noventa días antes de la elección.
+VI.- No ser en el Estado Funcionario o alto Empleado de la Federación, Gobernador, Secretario General de Gobierno, Magistrado del Tribunal Superior de Justicia, Procurador de Justicia ni Tesorero General, a menos que se separe de sus funciones noventa días antes de la elección.
 
-VII. No ser Juez ni Secretario de Juzgado de Primera Instancia, Presidente Municipal, Secretario de Ayuntamiento o Recaudador de Rentas, en el Distrito en que se pretenda su elección, a no ser que se separen de su cargo en los términos prevenidos en la fracción anterior.
+VII.- No ser Juez ni Secretario de Juzgado de Primera Instancia o Local, Presidente Municipal Constitucional o Interino, Secretario del Ayuntamiento, Recaudador de Rentas, en el Distrito en el que se pretenda su elección, a no ser que se separe de su cargo en los términos prevenidos en la fracción anterior.
+
+VIII.- No haber sido Diputado Propietario o Suplente en ejercicio, en el período inmediato anterior a la elección.
+
+Los Diputados Suplentes que no hayan estado en ejercicio, podrán ser electos con el carácter de propietarios para el período inmediato, pero no como Suplentes.
+
+Los Diputados Propietarios no podrán ser electos con el carácter de Suplentes en el período inmediato.
 
 ###### Art. 25.
 
@@ -263,13 +285,31 @@ Si por cualquier circunstancia no hubiere Comisión Permanente al instalarse el 
 
 El Congreso no puede abrir sus sesiones ni ejercer su encargo, sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes deberán reunirse los días señalados por la Ley y compeler a los ausentes a que concurran bajo las penas que la misma Ley desige (sic), y en su caso llamar a los respectivos suplentes a fin de que funcionen mientras se presentan los propietarios.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
+
 ###### Art. 31.
 
 El Congreso tendrá cada año dos períodos de sesiones ordinarias, prorrogables por el tiempo que acuerde, en vista de la importancia de los asuntos pendientes de resolución. El primero comenzará el primero de abril y terminará el último de junio, y el segundo comenzará el primero de octubre y terminará el último de diciembre.
 
+Fuera de los períodos que señala el párrafo anterior, el Congreso sólo celebrará Sesiones Extraordinarias cuando para ellas fuere convocado por el Ejecutivo o por la Diputación Permanente, ocupándose entonces de los asuntos para los cuales se hizo la Convocatoria.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
+
 ###### Art. 32.
 
-El Congreso, fuera de los períodos que señala el artículo anterior, solo celebrará sesiones extraordinarias cuando para ellas fuere convocado por el Ejecutivo o por la Diputación Permanente, ocupándose entonces de los asuntos para los cuales se hizo la convocatoria.
+Es deber de los Diputados, a lo menos una vez durante su Período Constitucional, visitar en los recesos del Congreso los pueblos del Distrito que representen para informarse:
+
+I.- Del estado o en que se encuentre la Educación Pública.
+
+II.- De cómo los Funcionarios y Empleados públicos cumplen con sus respectivas obligaciones.
+
+III.- Del estado en que se encuentren la Industria, el Comercio, la Agricultura y la Minería.
+
+IV.- De los obstáculos que se opongan al adelantamiento y progreso del Distrito y de las medidas más apropiadas para promover ante quien corresponda los medios para favorecer el desarrollo de todos o algunos de los ramos de la riqueza pública.
+
+Para que los Diputados puedan cumplir con lo dispuesto en las fracciones anteriores, las Oficinas Públicas les facilitarán todos los datos que pidieren a no ser que conforme a la Ley deban permanecer en secreto.
+
+Los Diputados, al abrirse el Período de Sesiones Ordinarias siguiente a la visita que hayan hecho a los pueblos que representan, presentarán al Congreso una Memoria que contenga las observaciones que hayan hecho, proponiendo a la vez las medidas que estimen conducentes para llenar el objeto que expresa la fracción IV de este artículo.
 
 ###### Art. 33.
 
@@ -463,17 +503,23 @@ El Ejercicio del Poder Ejecutivo del Estado se deposita en un solo individuo que
 
 La elección de Gobernador será popular directa y se hará en los términos que disponga la Ley Electoral.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
+
 ###### Art. 48.
 
-El Gobernador entrará a ejercer sus funciones el día quince de enero posterior a la elección, y durará en su encargo cuatro años, sin que pueda ser electo para el período inmediato.
+El Gobernador entrará a ejercer sus funciones el día 15 de enero posterior a la elección, durará en su encargo cuatro años, y en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aun con el carácter de Interino, Provisional o Substituto Encargado del Despacho.
 
 ###### Art. 49.
 
 Para ser Gobernador se requiere:
 
-I. Ser mexicano por nacimiento y ciudadano del Estado en Ejercicio de sus derechos con cinco años de residencia en el territorio inmediatamente anteriores al día de la elección, o uno, si fuere nacido en él.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
 
-II. Tener treinta y cinco años cumplidos el día de la elección.
+I.- Ser mexicano por nacimiento y ciudadano del Estado en ejercicio de sus derechos, con cinco años de residencia consecutivos en su territorio inmediatamente anteriores al día de la elección, o uno si fuere nacido en él.
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
+
+II.- Tener treinta y cinco años cumplidos el día de la elección y no ser mayor de sesenta y cinco.
 
 III. No ser Ministro de ningún culto.
 
@@ -481,13 +527,19 @@ IV. No estar en servicio activo en el Ejército Nacional, ni en las fuerzas del 
 
 V. No ser en el Estado, funcionario o alto empleado de la Federación, Secretario General de Gobierno o quien haga sus veces, Magistrado del Tribunal Superior de Justicia, Procurador de Justicia, ni Tesorero General, a menos que se separen de sus funciones noventa días antes de la elección.
 
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
+
+VI.- No haber sido Gobernador Constitucional del Estado, Substituto, Interino o Suplente.
+
 ###### Art. 50.
 
 El Gobernador al tomar posesión de su encargo otorgará la protesta de ley ante el Congreso, y en su receso, ante la Diputación Permanente.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
+
 ###### Art. 51.
 
-Sin permiso del Congreso, y en su caso de la Diputación Permanente, el Gobernador no podrá separarse del territorio del Estado, ni del Ejercicio de sus funciones, por más de cuarenta y ocho horas.
+Sin permiso del Congreso y en su caso de la Diputación Permanente, el Gobernador no podrá separarse del Territorio del Estado, ni del ejercicio de sus funciones por más de noventa y seis horas.
 
 ###### Art. 52.
 
@@ -595,7 +647,9 @@ I. Ser ciudadano Mexicano por nacimiento y en ejercicio de sus derechos civiles 
 
 II. Ser abogado con título oficial y tener cuando menos cinco años de práctica forense.
 
-III. Tener treinta y cinco años cumplidos el día de la elección, y haber observado una conducta pública notoriamente buena.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
+
+III.- Tener treinta y cinco años cumplidos el día de la elección y no mayor de sesenta y cinco y haber observado una conducta pública notoriamente buena.
 
 ###### Art. 64.
 
@@ -886,3 +940,7 @@ Palacio del Poder Ejecutivo. Tlaxcala, a 16 de septiembre de 1918.- El Gobernado
 P.O. 8 DE SEPTIEMBRE DE 1926.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 5 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE TLAXCALA.
+
+P.O. 19 DE DICIEMBRE DE 1934.
+
+Transitorio.- Estas adiciones y reformas entrarán en vigor el día 15 quince de diciembre de 1934 mil novecientos treinta y cuatro.
