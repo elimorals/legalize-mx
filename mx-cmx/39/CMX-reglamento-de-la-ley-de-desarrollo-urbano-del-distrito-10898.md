@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-desarrollo-urbano-del-distrito-10898"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-06-02"
-last_updated: "1997-06-02"
+last_updated: "2004-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10898&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1997-05-26"
 
 REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. ESTE REGLAMENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL EL 29 DE ENERO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL. ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el miércoles 4 de junio de 1997.
 
@@ -350,9 +352,7 @@ II.- Que conoce la normatividad de la materia, lo que demostrará ante una comis
 
 III.- Que cuenta con un mínimo de cinco años de experiencia en materia de desarrollo urbano.
 
-## Título cuarto. De la ejecución de los Programas y del
-
-Consejo Asesor de Desarrollo Urbano
+## Título cuarto. De la ejecución de los Programas y del Consejo Asesor de Desarrollo Urbano
 
 ### Capítulo primero. De la ejecución de los Programas
 
@@ -464,7 +464,7 @@ I.- Los interesados deberán presentar su solicitud en la ventanilla única de l
 
 II.- Si la solicitud está completa, la delegación del Distrito Federal notificará la resolución aprobatoria al solicitante en un plazo de cinco días hábiles, contados a partir de la fecha de recepción de la solicitud;
 
-III.- Una vez que el interesado reciba la notificación a que se refiere la fracción anterior, presentará el o los avalúos del o de los terrenos, elaborados de conformidad con el Manual de Valuación, así como el comprobante del pago de los derechos establecidos por el Código Financiero del Distrito Federal, en un plazo de quince días hábiles. En caso contrario, la solicitud caducará.
+III.- Una vez que el interesado reciba la notificación a que se refiere la fracción anterior, presentará el o los avalúos del o de los terrenos, elaborados de conformidad con el Manual de Valuación, así como el comprobante del pago de los derechos establecidos por el Código Financiero del Distrito Federal, en un plazo de quince días hábiles. En caso contrario, la solicitud caducará;
 
 IV.- La delegación del Distrito Federal expedirá la licencia de fusión o subdivisión, en un término de dos días hábiles, contados a partir de la fecha de recepción del o de los avalúos y del comprobante de pago de la solicitud. Si la delegación no resuelve en el plazo citado, procederá la afirmativa ficta conforme al artículo 80 de la Ley, y
 
@@ -679,3 +679,43 @@ Quinto.- Las personas que, a la entrada en vigor de este Reglamento, cuenten con
 Sexto.- Las constancias vigentes de uso de suelo, de zonificación del uso de suelo y de acreditación de uso del suelo por derechos adquiridos, que se hayan expedido con anterioridad a la entrada en vigor de este Reglamento, en las que aparezca que su uso está condicionado a la obtención de la licencia de uso del suelo, se entenderá que el uso está permitido, y no requerirán del trámite de dicha licencia.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de mayo de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Óscar Espinosa Villarreal.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 29 DE ENERO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el dieciséis de febrero del dos mil cuatro.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de la Ley de Desarrollo Urbano del Distrito Federal publicado en el Diario Oficial de la Federación el cuatro de junio de mil novecientos noventa y siete y en la Gaceta Oficial del Distrito Federal el dos de junio de mil novecientos noventa y siete; y se derogan todas las disposiciones reglamentarias y administrativas que se opongan a lo dispuesto en este ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos de modificación de los Programas que se hubieran iniciado con anterioridad a la entrada en vigor de este Reglamento, se continuarán sustanciando por la Secretaría de Desarrollo Urbano y Vivienda del Distrito Federal en los términos de dichas disposiciones.
+
+###### ARTÍCULO CUARTO.
+
+Las personas que, a la entrada en vigor de este Reglamento, cuenten con constancias vigentes de uso del suelo, de zonificación de uso del suelo y de acreditación de uso del suelo por derechos adquiridos, no necesitarán tramitar las certificaciones previstas en el artículo 125 del mismo, salvo que se modifique el uso para el cual fueron otorgadas, en cuyo caso será necesario obtener la certificación correspondiente, en los términos de este Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+Las licencias que se hubieran expedido con anterioridad a la entrada en vigor del presente Reglamento, continuarán conforme al procedimiento con el que se otorgaron.
+
+###### ARTÍCULO SEXTO.
+
+El Sistema de Información Geográfica entrará en operación a partir del dieciséis de febrero del dos mil cuatro en las delegaciones Cuauhtémoc, Venustiano Carranza, Miguel Hidalgo y Benito Juárez. Hasta en tanto no este integrado los datos de la totalidad del territorio del Distrito Federal seguirá aplicándose el procedimiento actual.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los Lineamientos Técnicos a que se refiere este ordenamiento, deben ser emitidos dentro de los 30 días siguientes a la publicación del mismo y publicados en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO OCTAVO.
+
+Los procedimientos iniciados con anterioridad a la publicación del presente Reglamento, continuarán su trámite de conformidad con la normativa bajo la cual se iniciaron.
+
+###### ARTÍCULO NOVENO.
+
+Las referencias al Fideicomiso del Sistema de Transferencias de Potencialidades de Desarrollo Urbano, se entenderán hechas al fideicomiso creado mediante Acuerdo publicado el dieciocho de julio de mil novecientos ochenta y ocho en el Diario Oficial de la Federación. RÚBRICA
