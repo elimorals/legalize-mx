@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ascensos-y-recompensas-del-ejercito-y-fuerza-aerea-653"
 country: "mx"
 rank: "ley"
 publication_date: "1956-01-07"
-last_updated: "1975-12-18"
+last_updated: "1980-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=653&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1955-12-31"
 
 LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1980.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 7 de enero de 1956.
 
@@ -497,25 +497,27 @@ La Secretaría de la Defensa Nacional recabará en todos los casos, de las Depen
 
 De las condecoraciones.
 
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### ARTICULO 45.
 
-Las condecoraciones que se otorgarán a los militares que presten servicios al Ejército y Fuerza Aérea serán las siguientes:
+Las condecoraciones que se otorgarán los (sic) a los militares que presten servicios en el Ejército y Fuerza Aérea serán las siguientes:
 
-I.- Valor Heroico;
+I.- Valor Heroico.
 
-II.- Mérito Militar;
+II.- Mérito Militar.
 
-III.- Mérito Técnico;
+III.- Mérito Técnico.
 
-IV.- Mérito Facultativo;
+IV.- Mérito Facultativo.
 
-V.- Mérito Docente;
+V.- Mérito Docente.
 
-VI.- De Perseverancia;
+VI.- De Perseverancia.
 
 VII.- Mérito Deportivo.
+
+VIII.- De Servicios Distinguidos.
 
 ###### ARTICULO 46.
 
@@ -579,6 +581,12 @@ La condecoración del Mérito Deportivo se concederá a los miembros del Ejérci
 
 Esta condecoración será de cuatro clases: 1a., 2a., 3a. y 4a.; tendrá las características señaladas en el Decreto Presidencial de 14 de agosto de 1935, publicado en el "Diario Oficial" de la Federación de 5 de octubre del propio año, y su otorgamiento se regulará conforme a lo dispuesto en el Reglamento para su concesión expedido el 5 de abril de 1937, publicado en el "Diario Oficial" de la Federación el 7 de mayo del mismo año.
 
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### ARTICULO 52 Bis 1.
+
+La Condecoración de Servicios Distinguidos se concederá a los miembros del Ejército y Fuerza Aérea que en el transcurso de su carrera militar, además de perenne entrega y lealtad a la Institución, demuestren sobrado celo, esmero y dedicación en el cumplimiento del deber a juicio del Secretario de la Defensa Nacional.
+
 ###### ARTICULO 53.
 
 Para premiar los hechos heroicos o excepcionalmente meritorios de las Corporaciones del Ejército o Fuerza Aérea, se concederán a sus banderas o estandartes las condecoraciones del Valor Heroico o Mérito Militar, por acuerdo del Presidente de la República y previo estudio de la Secretaría de la Defensa Nacional.
@@ -587,13 +595,19 @@ Para premiar los hechos heroicos o excepcionalmente meritorios de las Corporacio
 
 El derecho a la obtención y uso de las condecoraciones se pierde por traición a la Patria, rebelión contra las Instituciones del país, declarados judicialmente, o por otra sentencia que así lo disponga y por pérdida de los derechos de nacionalidad o ciudadanía.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
 ###### ARTICULO 55.
 
-La Secretaría de la Defensa Nacional expedirá y llevará el registro de los Diplomas que acrediten el derecho para el uso de las condecoraciones a que se refiere el presente capítulo. Los diplomas serán autorizados por el Presidente de la República en los casos a que se refieren los artículos 46, 47 y 48 de la presente Ley, y por el Secretario de la Defensa Nacional los previstos en los artículos 49, 50 y 51.
+La Secretaría de la Defensa Nacional expedirá y llevará el registro de los Diplomas que acrediten el derecho para el uso de las Condecoraciones a que se refiere el presente capítulo. Los Diplomas serán autorizados por el Presidente de la República en los casos a que se refieren los artículos 46, 47 y 48 de la presente Ley, y por el Secretario de la Defensa Nacional, los previstos en los artículos 49, 50, 51 y 52 Bis 1.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### ARTICULO 56.
 
 La forma, tamaño, material y demás características de cada una de las condecoraciones que prescribe esta Ley, así como la manera como deberán usarse, serán de acuerdo con las leyes, decretos y disposiciones que las crearon.
+
+La Secretaría de la Defensa Nacional determinará la forma, tamaño y material y demás características de la Condecoración de Servicios Distinguidos.
 
 ###### ARTICULO 57.
 
@@ -702,3 +716,9 @@ Este Decreto entrará en vigor a los tres días siguientes a su publicación en 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
+
+D.O.F. 4 DE ENERO DE 1980.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
