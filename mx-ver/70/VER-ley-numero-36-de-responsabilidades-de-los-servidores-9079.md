@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-36-de-responsabilidades-de-los-servidores-9079"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-09"
-last_updated: "1990-05-29"
+last_updated: "2003-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,27 +21,31 @@ state: "VER"
 ---
 # LEY NUMERO 36 DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LLAVE
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
 
-Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
+> <small>N. DE E. CONFORME AL ARTICULO CUARTO TRANSITORIO DEL DECRETO NUMERO 547 DE REFORMA CONSTITUCIONAL PUBLICADO EN LA GACETA OFICIAL DEL 18 DE MARZO DE 2003, LA DENOMINACION " . . . ESTADO DE VERACRUZ LLAVE", DEBERA ENTENDERSE COMO " . . . ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".</small>
 
-TOMAS YARRINGTON RUVALCABA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber.
+Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 9 de febrero de 1984.
 
-Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
+AGUSTIN ACOSTA LAGUNES, Gobernador Constitucional del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes, sabed:
 
-Al margen un sello que dice: "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+Que la H. Legislatura del mismo, se ha servido expedir la siguiente
 
-LA QUINCUAGESIMA SEPTIMA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+LEY:
 
-D E C R E T O No. 361
+"La Honorable Quincuagésima Tercera Legislatura del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le concede la fracción I del artículo 68 de la Constitución Política Local y en nombre del pueblo, expide la siguiente:
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
+LEY NUMERO 36
 
-## TITULO PRIMERO. DE LA FUNCION JURISDICCIONAL
+DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+## TITULO PRIMERO
+
+### CAPITULO UNICO
+
+DISPOSICIONES GENERALES.
 
 ###### ARTICULO 1º.
 
@@ -79,28 +83,6 @@ e).- El Jurado Popular; y,
 
 f).- Los Arbitros.
 
-###### ARTICULO 4º.
-
-Son obligaciones de las autoridades judiciales:
-
-I.- Ejercer la función jurisdiccional gratuitamente;
-
-II.- Ajustar sus procedimientos y resoluciones a las disposiciones legales;
-
-III.- Auxiliar a las demás autoridades en los términos de las disposiciones legales relativas;
-
-IV.- Cumplir con las comisiones que su superior jerárquico les confiera;
-
-V.- Diligenciar o mandar diligenciar exhortos, despachos y requisitorias procedentes de las demás autoridades del Estado o de fuera de él, si estuvieran ajustados a derecho, en la forma y términos que prevea la ley procesal respectiva;
-
-VI.- Proporcionar a las autoridades competentes los informes que éstas pidan cuando así proceda conforme a la ley; y,
-
-VII.- Las demás que las leyes les confieran.
-
-###### ARTICULO 5º.
-
-Los árbitros privados designados voluntariamente no ejercerán autoridad pública pero de acuerdo con las reglas y restricciones que establezca la ley conocerán, según los términos de los compromisos respectivos, del negocio o negocios civiles que les encomienden.
-
 ###### ARTICULO 1.
 
 Esta Ley tiene por objeto reglamentar el Título Sexto de la Constitución Política del Estado.
@@ -109,9 +91,9 @@ Esta Ley tiene por objeto reglamentar el Título Sexto de la Constitución Polí
 
 Son sujetos de esta Ley:
 
-> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 1989)</small>
+> <small>(REFORMADA, G.O. 29 DE MAYO DE 1990)</small>
 
-I.- Los servidores públicos, entendiéndose como tales, a los Diputados de la Legislatura, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia, los Magistrados del Tribunal de lo Contencioso-Administrativo, los funcionarios y empleados de los Poderes Legislativo, Ejecutivo y Judicial y, en general, a toda persona que desempeñe un empleo cargo o comisión de cualquier naturaleza en los Poderes del Estado; y
+I.- Los servidores públicos, entendiéndose como tales, a los Diputados de la Legislatura, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia, los Jueces Menores, los Magistrados del Tribunal de lo Contencioso Administrativo, los Funcionarios y Empleados de los Poderes Legislativo, Ejecutivo y Judicial y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en los Poderes del Estado; y
 
 II.- Todas aquellas personas que manejen o apliquen recursos económicos estatales.
 
@@ -123,9 +105,9 @@ I.- La Legislatura del Estado;
 
 II.- El Tribunal Superior de Justicia del Estado;
 
-> <small>(REFORMADA, G.O. 24 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADA, G.O. 29 DE MAYO DE 1990)</small>
 
-III.- La Dirección General de Contraloría del Gobierno del Estado;
+III.- La Contraloría General del Estado;
 
 > <small>(REFORMADA, G.O. 14 DE FEBRERO DE 1989)</small>
 
@@ -147,21 +129,13 @@ IX.- Los demás órganos jurisdiccionales que determinen las leyes.
 
 Los procedimientos para la aplicación de las sanciones a que se refiere el artículo 122 constitucional se desarrollarán autónomamente, según su naturaleza y por la vía procesal que corresponda, debiendo las autoridades a que alude el artículo anterior turnar las denuncias a quien deba conocer de ellas. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
-## TITULO SEGUNDO. DE LA RESIDENCIA Y ORGANIZACION TERRITORIAL
+## TITULO SEGUNDO
 
-### CAPITULO UNICO
+PROCEDIMIENTOS ANTE LA LEGISLATURA Y EL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO EN MATERIA DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+### CAPITULO I
 
-###### ARTICULO 9º.
-
-El Supremo Tribunal de Justicia residirá oficialmente en la capital del Estado. Las Salas Regionales, residirán en Reynosa, Victoria y Altamira. La de Reynosa, ejercerá jurisdicción sobre los siguientes Distritos: Tercero, Cuarto, Quinto, Sexto, Décimo Tercero y Décimo Cuarto; la de Victoria en los Distritos Primero, Séptimo, Octavo, Noveno, Décimo, Décimo Primero y Décimo Segundo; y, la de Altamira, en los Distritos Segundo, y Décimo Quinto. Los Jueces de Primera Instancia tendrán su residencia oficial en las cabeceras de sus respectivos distritos judiciales, los Jueces Menores y de Paz residirán en las cabeceras municipales respectivas.
-
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-Se procurará que los Juzgados de Justicia para Adolescentes tengan su domicilio en donde se encuentren ubicados los Centros de Reintegración Social y Familiar para Adolescentes Infractores.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+SUJETOS, CAUSAS DE JUICIO POLITICO Y SANCIONES.
 
 ###### ARTICULO 6º.
 
@@ -227,57 +201,13 @@ VII.- Las violaciones sistemáticas o graves a los planes, programas y presupues
 
 La Legislatura y el Tribunal Superior de Justicia del Estado, valorarán la existencia y gravedad de los actos u omisiones a que se refiere el artículo anterior. Cuando aquéllos tengan carácter delictuoso, se formulará la declaración de procedencia a la que se alude en la presente ley.
 
-###### ARTICULO 8°.
+###### ARTICULO 8.
 
-Los Tribunales del Estado y sus dependencias despacharán durante los días hábiles del año. Son inhábiles los sábados, domingos y aquellos en que se suspendan las labores por acuerdo del Pleno del Supremo Tribunal de Justicia; en relación con las jurisdicciones penal y de justicia para adolescentes, deberá estarse a lo que dispongan la Constitución Política de los Estados Unidos Mexicanos y la ley de la materia.
+Si la resolución que se dicte en el juicio político es condenatoria, se sancionará al servidor público con destitución. Podrá también imponerse inhabilitación para el ejercicio de empleos, cargos o comisiones en el servicio público desde un año hasta diez años.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+### CAPITULO II
 
-Serán inhábiles además los siguientes días:
-
-I.- El primero de enero;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-II.- El primer lunes de febrero en conmemoración de la Constitución Política de los Estados Unidos Mexicanos del 5 de febrero de 1917;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-III.- El tercer lunes de marzo en conmemoración del natalicio de don Benito Juárez García, el 21 de marzo de 1806;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-IV.- El 1° de mayo en conmemoración del Día del Trabajo;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-V.- El 5 de mayo en conmemoración de la Batalla de Puebla de 1862;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-VI.- El 16 de septiembre en conmemoración de la Independencia Nacional en 1810;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-VII.- El tercer lunes de noviembre en conmemoración del inicio de la Revolución Mexicana el 20 de noviembre de 1910;
-
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-VIII.- El primero de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal; y
-
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-IX.- El veinticinco de diciembre.
-
-Son horas hábiles las comprendidas entre las 8:00 y las 19:00 horas.
-
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-Durante los días inhábiles deberán dejarse guardias que atiendan los términos constitucionales en materia penal y de justicia para adolescentes y la concesión de la libertad provisional bajo caución, cuando proceda, sin perjuicio de las actividades propias de la función.
-
-### CAPITULO I. DEL SUPREMO TRIBUNAL DE JUSTICIA
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+PROCEDIMIENTO EN EL JUICIO POLITICO.
 
 ###### ARTICULO 9.
 
@@ -287,847 +217,351 @@ Las sanciones respectivas, se aplicarán en un plazo no mayor de seis meses, a p
 
 ###### ARTICULO 10.
 
-El territorio del Estado de Tamaulipas, con excepción de la justicia para adolescentes, se divide en quince Distritos, los cuales son:
-
-PRIMER DISTRITO JUDICIAL: Cabecera en Victoria, y comprende los Municipios de Victoria, Güemez y Casas.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-SEGUNDO DISTRITO JUDICIAL: Cabecera en Altamira, y comprende los Municipios de Altamira, Tampico y Ciudad Madero.
-
-TERCER DISTRITO JUDICIAL: Cabecera en Nuevo Laredo, y comprende el Municipio del mismo nombre.
-
-CUARTO DISTRITO JUDICIAL: Cabecera en Matamoros, y comprende el Municipio del mismo nombre.
-
-QUINTO DISTRITO JUDICIAL: Cabecera en Reynosa, y comprende el Municipio del mismo nombre.
-
-SEXTO DISTRITO JUDICIAL: Cabecera en Miguel Alemán, y comprende los Municipios de Miguel Alemán, Mier, Guerrero, Camargo y Gustavo Díaz Ordaz.
-
-SEPTIMO DISTRITO JUDICIAL: Cabecera en El Mante, y comprende los Municipios de El Mante, Antiguo Morelos y Nuevo Morelos.
-
-OCTAVO DISTRITO JUDICIAL: Cabecera en Xicoténcatl, y comprende los Municipios de Xicoténcatl, Gómez Farías, Ocampo y Llera.
-
-NOVENO DISTRITO JUDICIAL: Cabecera en Tula, y comprende los Municipios de Tula, Bustamente, Miquihuana, Jaumave y Palmillas.
-
-DECIMO DISTRITO JUDICIAL: Cabecera en Padilla, y comprende los Municipios de Padilla, San Carlos, San Nicolás, Jiménez, Mainero, Villagrán e Hidalgo.
-
-DECIMO PRIMER DISTRITO JUDICIAL: Cabecera en San Fernando, y comprende los Municipios de San Fernando, Méndez, Burgos y Cruillas.
-
-DECIMO SEGUNDO DISTRITO JUDICIAL: Cabecera en Soto la Marina, y comprende los Municipios de Soto la Marina y Abasolo.
-
-DECIMO TERCER DISTRITO JUDICIAL: Cabecera en Río Bravo, y comprende el Municipio del mismo nombre.
-
-DECIMO CUARTO DISTRITO JUDICIAL: Cabecera en Valle Hermoso, y comprende el Municipio del mismo nombre.
-
-DECIMO QUINTO DISTRITO JUDICIAL: Cabecera en González, y comprende los Municipios de González y Aldama.
-
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-###### ARTICULO 10 Bis.
-
-El territorio del Estado de Tamaulipas, en tratándose de Justicia para Adolescentes, se divide en seis Distritos Judiciales, que tendrán su residencia en las siguientes cabeceras municipales:
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-Primer Distrito Judicial: Cabecera en Victoria, y comprende los Distritos Judiciales I, IX, X y XII.
-
-Segundo Distrito Judicial: Cabecera en Altamira, y comprende los Distritos Judiciales II y XV.
-
-Tercer Distrito Judicial: Cabecera en Nuevo Laredo, y comprende los Distritos Judiciales III y VI.
-
-Cuarto Distrito Judicial: Cabecera en Matamoros, y comprende los Distritos Judiciales IV, XI y XIV.
-
-Quinto Distrito Judicial: Cabecera en Reynosa, y comprende los Distritos Judiciales V y XIII.
-
-Sexto Distrito Judicial: Cabecera en El Mante, y comprende los Distritos Judiciales VII y VIII.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+Corresponde a la Legislatura, instruir el procedimiento relativo al juicio político, actuando como órgano de acusación, y al Tribunal Superior de Justicia, fungir como Jurado de Sentencia.
 
 ###### ARTICULO 11.
 
-El Pleno del Supremo Tribunal de Justicia podrá dictar y realizar, mediante Acuerdos Generales todas las medidas que considere pertinentes, en las Salas Colegiadas y Unitarias; Juzgados y demás dependencias del Supremo Tribunal de Justicia, cuando así lo justifique una mejor y más adecuada prestación del servicio de impartición de justicia. En dichos acuerdos se podrá determinar la creación de nuevos juzgados atendiendo a las necesidades del servicio y a las disponibilidades del presupuesto.
-
-Debe, cuando menos, existir un Juzgado de Primera Instancia en cada cabecera distrital.
-
-Llegado el caso, la Circular o Circulares que contengan los Acuerdos Generales del Pleno del Supremo Tribunal de Justicia para la eficiencia del servicio de impartición de justicia, deberá ser publicado en el Periódico Oficial del Estado, y fijado, para su difusión y conocimiento, en los estrados judiciales, cuando menos con tres días de anticipación a que surta sus efectos el Acuerdo respectivo.
+La Comisión Instructora de la Legislatura, será la encargada de sustanciar los procedimientos consignados en la presente Ley.
 
 ###### ARTICULO 12.
 
-Cuando en un distrito judicial existan dos o más Juzgados del mismo ramo, serán distinguidos por orden numérico.
+Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular por escrito denuncia ante la Legislatura, por aquellas conductas que hacen presumible el juicio político. Presentada la denuncia y ratificada dentro de tres días naturales siguientes a su presentación, se turnará de inmediato con la documentación que la acompañe a las Comisiones de Gobernación y de Justicia y Puntos Constitucionales, para que dictaminen, si el inculpado está comprendido entre los servidores públicos a que se refiere el artículo 2o., y si la conducta atribuida corresponde a alguna de las enumeradas en el artículo 6o., así como si la denuncia es procedente y por lo tanto amerita la incoación del procedimiento.
+
+Una vez acreditados estos elementos, la denuncia se turnará a la Comisión Instructora.
+
+Las denuncias anónimas no producirán ningún efecto.
+
+Recibida en la Legislatura, la Resolución Declaratoria a que hace referencia el segundo párrafo del artículo 110 de la Constitución General de la República, ésta se turnará de inmediato con la documentación que la acompañe a la Comisión Instructora, para que proceda según corresponda.
 
 ###### ARTICULO 13.
 
-El Supremo Tribunal de Justicia contará con diez Magistrados Numerarios, quienes integrarán Pleno, así como por los Magistrados Supernumerarios y los Magistrados Regionales que sus funciones requieran conforme a la ley y sustente el presupuesto de egresos. Uno de los Magistrados Numerarios será Presidente y no integrará Sala, salvo los casos establecidos por la ley.
+La Comisión Instructora practicará todas las diligencias necesarias para la comprobación de la conducta y el hecho material de aquélla; estableciendo las características y circunstancias del caso y precisando la intervención que haya tenido el servidor público denunciado.
 
-Los Magistrados de Número y los Supernumerarios residirán en la Capital del Estado y desahogarán sus funciones en Pleno, en Salas Colegiadas o en Salas Unitarias. Los Magistrados Regionales actuarán en Salas Unitarias y resolverán los asuntos que señala esta ley.
+Dentro de los tres días naturales siguientes a la ratificación de la denuncia, la Comisión Instructora informará al denunciado sobre la materia de aquélla, haciéndole saber su derecho de defensa y que deberá, a su elección, comparecer o informar por escrito, dentro de los siete días naturales siguientes a la notificación.
 
 ###### ARTICULO 14.
 
-Para ser designado Magistrado del Supremo Tribunal de Justicia, se requiere cumplir con los requisitos que establece el artículo 111 de la Constitución Política del Estado.
+La Comisión Instructora abrirá un período de prueba de 30 días naturales dentro del cual recibirá las pruebas que ofrezca el servidor público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+Si al concluir el plazo señalado no se hubiesen recibido las pruebas ofrecidas oportunamente, o la Comisión Instructora considera necesario allegarse otras, dicho plazo podrá ampliarse hasta por 30 días.
+
+La Comisión Instructora calificará la pertinencia de las pruebas, desechando las que a su juicio sean improcedentes.
 
 ###### ARTICULO 15.
 
-El Supremo Tribunal de Justicia complementará su integración con:
-
-I.- Un Secretario General de Acuerdos;
-
-II.- Dos Subsecretarios Generales de Acuerdos;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-III.- Un Secretario de Acuerdos por cada Sala Colegiada;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-IV.- Un Secretario de Acuerdos por Sala Unitaria;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-V.- Los Secretarios Proyectistas;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-VI.- Los Actuarios;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-VII.- Los Archivistas; y,
-
-> <small>(REFORMADA [N. DE E., ADICIONADA], P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-VIII.- Los Titulares de las Dependencias que esta Ley establezca; así como también el demás personal que realice funciones de dirección, administración, vigilancia o fiscalización.
+Terminada la calificación, se pondrá el expediente a la vista del servidor público y su defensor, por un plazo de tres días naturales, a fin de que se tomen los datos que requieran para formular alegatos, que deberán presentar por escrito dentro de los seis días naturales siguientes a la conclusión del segundo plazo mencionado.
 
 ###### ARTICULO 16.
 
-Para sesionar ordinariamente, el Pleno del Supremo Tribunal de Justicia requerirá la asistencia de cuando menos seis de sus integrantes de Número, incluido el Magistrado Presidente o quien se encuentre en funciones.
-
-Sus resoluciones las tomará por mayoría de los Magistrados presentes, quienes no podrán abstenerse de votar, a menos que tengan impedimento legal o no hayan estado presentes en las discusiones previas al asunto de que se vote. Si se emite igual número de votos a favor o en contra del proyecto de resolución, el Magistrado Presidente tendrá el voto de calidad.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+Transcurrido el plazo para la presentación de alegatos, se hayan o no entregado éstos, la Comisión Instructora formulará sus conclusiones en vista de las constancias del procedimiento. Para este efecto analizará clara y metódicamente la conducta o los hechos imputados y hará las consideraciones jurídicas que procedan para justificar, en su caso, la conclusión o la continuación del procedimiento.
 
 ###### ARTICULO 17.
 
-El Supremo Tribunal de Justicia sesionará de manera ordinaria por lo menos una vez a la semana.
-
-El Pleno, a propuesta de su Presidente, determinará los días y horas en que se realizaran las sesiones ordinarias, debiendo publicarse, el aviso o la convocatoria en los estrados del Tribunal para el conocimiento público.
-
-Los Magistrados deberán informar al Pleno, respecto de las dependencias y comisiones a su encargo.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+La Comisión Instructora formulará sus conclusiones y hará entrega de éstas al Secretario, dentro del plazo de sesenta días naturales, contados desde el día siguiente a la fecha en que se le haya turnado la denuncia, a no ser que por causa razonable y fundada se encuentre impedida para hacerlo. En este caso podrá solicitar de la Legislatura que se amplíe el plazo por el tiempo indispensable para perfeccionar la instrucción. El nuevo plazo que se conceda no excederá de quince días.
 
 ###### ARTICULO 18.
 
-Las sesiones del Pleno del Supremo Tribunal de Justicia serán públicas, con excepción de los casos en que, a juicio del Pleno, deban tener el carácter de privadas.
+Si de las constancias del procedimiento se desprende la inocencia del encausado, la Comisión Instructora propondrá en sus conclusiones que se declare que no ha lugar a proceder en su contra por la conducta o el hecho materia de la denuncia, que dio origen al procedimiento.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+Si de las constancias aparece la probable responsabilidad del servidor público, la Comisión Instructora determinará lo siguiente:
+
+I.- Que está debidamente comprobado el hecho materia de la denuncia; y
+
+II.- Que existe probable responsabilidad del encausado.
 
 ###### ARTICULO 19.
 
-El Pleno del Supremo Tribunal de Justicia celebrará sesiones extraordinarias cuando su Presidente lo considere necesario, o así lo soliciten por lo menos seis de los Magistrados de Número.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+Una vez emitidas las conclusiones a que se refieren los artículos precedentes, la Comisión Instructora las entregará al Secretario de la Legislatura para que dé cuenta al Presidente de la misma, quien anunciará que dicha Legislatura debe reunirse y resolver sobre la imputación, dentro de los ocho días naturales siguientes, lo que hará saber al Secretario, y al servidor público denunciado.
 
 ###### ARTICULO 20.
 
-Son atribuciones del Supremo Tribunal de Justicía y de su Pleno las siguientes:
-
-I.- Conocer en segunda instancia de los asuntos familiares, civiles, penales o de justicia para adolescentes y de aquellos que establezcan otras leyes, que al efecto remitan los jueces de Primera Instancia o Menores;
-
-II.- Conocer en Pleno de las controversias del orden civil o mercantil que se susciten entre particulares y el Estado o los Ayuntamientos;
-
-III.- Erigirse en Jurado de Sentencia para conocer y resolver, sin recurso ulterior, las causas que se instruyan contra servidores públicos, conforme a lo dispuesto por el Título XI de la Constitución Política del Estado;
-
-IV.- Ordenar las visitas carcelarias de acuerdo a las disposiciones de la ley;
-
-V.- Atender las dudas sobre la interpretación de la ley que sean planteadas por los Jueces o surjan del seno del propio Tribunal;
-
-VI.- Dirimir las cuestiones de competencia que surjan entre las autoridades judiciales del Estado, en los términos que fije la ley;
-
-VII.- Formular, ante el Congreso del Estado, iniciativas de ley tendientes a mejorar la administración de justicia, así como expedir y modificar, en su caso, los reglamentos que se requieran para este fin;
-
-VIII.- Dictar medidas que se estimen pertinentes para que la administración de justicia que impartan los tribunales del Estado, sea pronta, completa e imparcial;
-
-IX.- Formular, expedir y modificar, en su caso, el Reglamento Interior del Supremo Tribunal de Justicia;
-
-X.- Determinar a propuesta del Presidente, la competencia de las Salas y las adscripciones de los Magistrados a las mismas; y adscribir, en su caso, a los Magistrados Supernumerarios a las Salas, en los supuestos que determine la ley;
-
-XI.- Elegir Presidente del Supremo Tribunal en los términos que determina esta ley;
-
-XII.- Delegar al Presidente las atribuciones que estime pertinentes;
-
-XIII.- Recibir, en sesión plenaria, extraordinaria, pública y solemne, el informe anual de labores que deberá rendir su Presidente sobre el estado que guarda la impartición de justicia, que se verificará antes de la segunda quincena del mes de marzo de cada año. Asimismo, deberá entregar por escrito dicho informe al Congreso del Estado, en la modalidad que éste acuerde;
-
-XIV.- Acordar, en los casos que considere necesario, la propuesta al Gobernador del Estado para la creación de Magistraturas Supernumerarias y de Magistraturas Regionales;
-
-XV.- Nombrar, cesar o suspender a los Jueces de Primera Instancia; Jueces Menores; Jueces de Paz; Secretarios de Acuerdos; Secretarios Proyectistas, y Actuarios del Pleno, de las Salas y de los Juzgados; y al personal subalterno, en los casos y con las condiciones que establezca la ley; así como, en su caso, confirmar a los Jueces de Primera Instancia, Menores y de Paz;
-
-XVI.- Tomar la protesta de ley, por conducto del Presidente, a los Jueces de Primera Instancia, Menores y de Paz; asÍ como designar a quien deba suplirlos, en los casos de ausencias temporales, de acuerdo con lo dispuesto en la ley;
-
-XVII.- Señalar a cada Juez su distrito judicial, su número y la materia en que debe ejercer sus funciones; así como designar a cada Juzgado su domicilio, según lo estime conveniente para mejorar el servicio público;
-
-XVIII.- Establecer remuneración adecuada e irrenunciable para Magistrados y Jueces, la cual no podrá ser disminuida durante su encargo;
-
-XIX.- Calificar los impedimentos de los Magistrados y Jueces de Primera Instancia para conocer de los asuntos sometidos a su jurisdicción, en caso de excusa o recusación, en los términos previstos por la ley;
-
-XX.- Conceder licencias hasta por un mes a los servidores públicos del Poder Judicial, así como admitir sus renuncias, sancionar sus faltas y fijar los períodos de vacaciones del propio Poder Judicial, en los términos que determine la ley;
-
-XXI.- Conocer de las quejas que se formulen contra los servidores públicos del Poder Judicial, con motivo del ejercicio de sus funciones, las que se sustanciarán de acuerdo al procedimiento establecido en la ley;
-
-XXII.- Resolver, en única instancia, los juicios de responsabilidad civil que se promuevan en contra de los servidores públicos del Poder Judicial;
-
-XXIII.- Conocer y resolver, en única instancia, las causas que se instruyan en contra de alguno de sus miembros, contra los Jueces de Primera Instancia, Jueces Menores y Jueces de Paz por delitos cometidos en el ejercicio de sus funciones, y de las que deban sustanciarse contra los Secretarios del mismo Tribunal, por faltas y abusos cometidos en el desempeño de sus empleos;
-
-XXIV.- Imponer correcciones disciplinarias a los servidores públicos del Poder Judicial, en los términos que determine la ley;
-
-XXV.- Denunciar ante el Ministerio Público los hechos de que tenga conocimiento y que impliquen la probable responsabilidad de un servidor público del Poder Judicial;
-
-XXVI.- Conocer y tramitar la ejecución de sentencias ejecutoriadas contra el Estado, los Municipios y las entidades autónomas, en los términos del Código de Procedimientos Civiles;
-
-XXVII.- Corregir los abusos que se adviertan en la administración de justicia, por medio de disposiciones de carácter general que no impliquen intromisión en los asuntos que se tramiten en los juzgados, no restrinjan la independencia de criterio de los juzgadores, ni entorpezcan sus funciones;
-
-XXVIII.- Constituir, modificar, suprimir o aumentar los órganos administrativos que sean necesarios para la buena marcha de la administración de justicia; así como el número de servidores públicos del Supremo Tribunal de Justicia;
-
-XXIX.- Discutir y aprobar el proyecto de presupuesto anual de egresos del Poder Judicial que deberá formular y proponer el Presidente, el que deberá ser remitido al Congreso del Estado, para su aprobación, así como ejercer y administrar en forma autónoma el presupuesto que le sea aprobado;
-
-XXX.- Imponer correcciones disciplinarias a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones, actuaciones o diligencias en que intervengan ofendan o falten al respeto al Supremo Tribunal de Justicia, a alguno de sus miembros o a cualquier servidor público del Poder Judicial;
-
-XXXI.- Promover la mediación entre las partes, en las diversas materias de su competencia; y
-
-XXXII.- Las demás que le confieren la presente ley y los ordenamientos legales aplicables.
+El día señalado, conforme al artículo anterior, la Legislatura se erigirá en órgano de acusación, previa declaración de su Presidente. En seguida, la Secretaría dará lectura a las constancias procedimentales o a una síntesis que contenga los puntos sustanciales de éstas, así como a las conclusiones de la Comisión Instructora. Acto seguido se procederá a discutir y a votar las conclusiones propuestas por la Comisión Instructora.
 
 ###### ARTICULO 21.
 
-El Supremo Tribunal de Justicia tendrá un Presidente que será designado de entre los Magistrados de Número presentes en la sesión plenaria inmediata posterior al día quince de enero del año que corresponda, por mayoría de votos. Ejercerá el cargo durante seis años y no podrá ser reelecto para otro período.
+Si la Legislatura resolviese que no procede acusar al servidor público, así lo determinará. Si con voto aprobatorio de las dos terceras partes de sus integrantes, decide que procede acusar, se le pondrá a disposición del Tribunal Superior de Justicia del Estado, al que se remitirá la acusación, designándose una Comisión de tres Diputados para que sostengan aquélla ante el Tribunal.
 
 ###### ARTICULO 22.
 
-El Presidente asumirá la representación del Poder Judicial del Estado y tendrá las atribuciones y obligaciones que le confieran esta ley y los demás ordenamientos legales aplicables. Su función será velar porque la administración de justicia sea pronta, completa e imparcial en todos los tribunales del Estado, en cuya virtud se encuentra facultado para establecer una vigilancia permanente y visitar personalmente o mandar visitar los Juzgados y Centros de Readaptación de manera periódica, por lo menos 2 veces al año; dictando al efecto las providencias que considere oportunas.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+Recibida la acusación en el Tribunal Superior de Justicia, ésta se turnará al pleno, el que designará a tres Magistrados para que integren la Comisión de Enjuiciamiento, la que emplazará al acusado y su defensor, para que presenten por escrito sus alegatos dentro de los cinco días naturales siguientes al emplazamiento.
 
 ###### ARTICULO 23.
 
-Las providencias y acuerdos del Presidente podrán ser reclamados ante el Pleno, por escrito fundado de parte interesada, dentro del término de los tres días siguientes a que haya sido hecha la notificación correspondiente. El Pleno tendrá un término de diez días hábiles para resolver lo conducente.
+La Comisión de enjuiciamiento, escuchará directamente a la Comisión de Diputados que sostienen la acusación, al acusado y su defensor. Asimismo, podrá disponer la práctica de todas las diligencias que considere necesarias para integrar su proyecto de resolución.
+
+Transcurrido el plazo que se señala en el artículo anterior, con alegatos o sin ellos, la Comisión de Enjuiciamiento del Tribunal Superior de Justicia formulará su proyecto de resolución, en vista de las consideraciones hechas en la acusación y en los alegatos formulados, en su caso, proponiendo la sanción que en su concepto deba imponerse al servidor público y expresando los preceptos legales en que se funde.
+
+Emitido el Proyecto de resolución, la Comisión lo entregará a la Secretaría del Tribunal Superior de Justicia.
 
 ###### ARTICULO 24.
 
-El Presidente del Supremo Tribunal de Justicia, como representante del Poder Judicial del Estado, tiene las atribuciones y obligaciones siguientes:
+Recibido el Proyecto de Resolución por la Secretaría del Tribunal, su Presidente convocará al Pleno, para erigirse éste en Jurado de Sentencia, dentro de las setenta y dos horas siguientes a su entrega, procediendo la Secretaría a citar a la Comisión a que se refiere el artículo 21 de esta Ley, al acusado y a su defensor.
 
-I.- Servir de conducto en las relaciones del Poder Judicial y los Poderes Legislativo y Ejecutivo, así como con los de la Federación y los del resto de las Entidades Federativas;
+A la hora señalada para la audiencia, el Presidente del Tribunal Superior de Justicia, declarará al Pleno, erigido en Jurado de Sentencia y procederá de conformidad con las siguientes normas:
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+I.- La Secretaría dará lectura al Proyecto de Resolución formulado por la Comisión de Enjuiciamiento.
 
-II.- Rendir los informes que señalan los artículos 45 párrafo quinto; 107 párrafo tercero y 114 fracción XIII, de la Constitución Política del Estado de Tamaulipas;
+II.- Acto continuo, se concederá la palabra a la Comisión de Diputados, al Servidor Público o a su defensor; y
 
-III.- Turnar al Congreso del Estado el proyecto anual de presupuesto de egresos del Poder Judicial, una vez que sea aprobado por el Pleno, para los efectos legales que correspondan;
+III.- El Pleno, en privado, tomará la decisión y dictará sentencia, la que se notificará personalmente a las partes y se comunicará al poder que corresponda.
 
-IV.- Atender la correspondencia del Supremo Tribunal de Justicia con las autoridades locales, de los Estados y de la Federación; y,
+Para que una sentencia condenatoria tenga validez se requerirá el voto aprobatorio de las dos terceras partes de los miembros del Pleno.
 
-V.- Las demás que las leyes le confieran.
+### CAPITULO III
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-### CAPITULO II. DEL PLENO DEL SUPREMO TRIBUNAL DE JUSTICIA
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+PROCEDIMIENTO PARA LA DECLARACION DE PROCEDENCIA.
 
 ###### ARTICULO 25.
 
-El Presidente del Supremo Tribunal, en su carácter de Presidente del Pleno, ejercerá las siguientes funciones:
+Para proceder penalmente en contra de alguno de los servidores a que se refiere el artículo 124 párrafo primero de la Constitución Política del Estado y el artículo 111 párrafo quinto, de la Constitución General de la República, se actuará en lo pertinente, de acuerdo con el procedimiento previsto en el capítulo anterior en materia de juicio político ante la Legislatura del Estado. En este caso, la Comisión Instructora practicará todas las diligencias conducentes a establecer la existencia del delito y probable responsabilidad del inculpado, así como la subsistencia del fuero constitucional cuya remoción se solicita. Concluida esta averiguación, dictaminará si ha lugar a proceder penalmente en contra del inculpado.
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+Si a juicio de la Comisión, la imputación fuese notoriamente improcedente, lo hará saber de inmediato a la Legislatura, para que ésta resuelva si se continúa o desecha, sin perjuicio de reanudar el procedimiento si posteriormente aparecen motivos que lo justifiquen.
 
-I.- Proponer al Pleno el día y hora de las sesiones ordinarias, así como prever la sesión en que deberán oírse los informes de los Magistrados, respecto de las dependencias y comisiones a su cargo;
-
-II.- Convocar y presidir las sesiones plenarias del Supremo Tribunal de Justicia; dirigir y moderar los debates, y conservar el orden durante las audiencias;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-III.- Convocar a sesiones extraordinarias cada vez que lo considere conveniente o sea solicitado por seis o más Magistrados de Número;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-IV.- Conocer de las quejas que se presenten sobre demora o faltas en la impartición de justicia, dictando, si son leves, las medidas oportunas para su corrección o, si son graves, sometiéndolas a la consideración del Pleno del Supremo Tribunal de Justicia;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-V.- Proponer al Pleno los acuerdos que juzgue convenientes para una mejor administración del Poder Judicial y la pronta impartición de justicia, los que, en caso de ser de observancia general, deberán publicarse en el Periódico Oficial del Estado;
-
-VI.- Proveer lo necesario para hacer cumplir los acuerdos del Supremo Tribunal de Justicia en Pleno;
-
-VII.- Por sí o por conducto de los Magistrados Supernumerarios, cuidar que la Secretaría General del Supremo Tribunal de Justicia lleve al día el libro en que se tome razón de las correcciones disciplinarias que se impongan a los Jueces y demás servidores públicos del Poder Judicial, para los efectos legales consiguientes. En caso de que dichas correcciones sean impuestas por Magistrados o Jueces, éstos lo comunicarán a la Secretaría para que se tome nota;
-
-VIII.- Proponer las adscripciones de los Magistrados a las Salas;
-
-IX.- Designar libremente a los Magistrados que deben desempeñar las comisiones que se consideren necesarias, delegándoles funciones;
-
-X.- Turnar entre los Magistrados los asuntos de la competencia del Pleno cuando estime necesario oír su parecer, para acordar un trámite o para que formulen el proyecto de resolución que deba ser discutido por el Pleno;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-XI.- Proponer al Pleno las comisiones o funciones que les sean asignadas a los Magistrados;
-
-XII.- Nombrar a los servidores públicos cuya designación no esté reservada a otra autoridad por la presente ley y promover oportunamente ante el Pleno del Supremo Tribunal de Justicia, cuando sean de su competencia, los nombramientos de servidores públicos en caso de existir vacantes;
-
-XIII.- Tomar la protesta a los Secretarios y demás servidores públicos del Supremo Tribunal de Justicia;
-
-XIV.- Conceder licencias económicas hasta por quince días, con goce de sueldo o sin él, a los Magistrados, Jueces y demás servidores públicos de la administración de justicia;
-
-XV.- Registrar los títulos profesionales de abogados, expedidos con arreglo a la Ley de Profesiones del Estado;
-
-XVI.- Remitir al Juez correspondiente los exhortos, rogatorias, suplicatorios, requisitorias y despachos, de acuerdo con el turno que al efecto se lleve;
-
-XVII.- Certificar las firmas de los servidores públicos del Poder Judicial, cuando la ley así lo exija;
-
-XVIII.- Formular y proponer al Pleno el proyecto anual de presupuesto de egresos del Poder Judicial;
-
-XIX.- Presidir el Instituto de Investigación de la Legislación Procesal;
-
-XX.- Llevar la correspondencia del Pleno;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-XXI.- Llevar el registro de las asociaciones de abogados constituidas o que se constituyan en el Estado;
-
-> <small>(ADICIONADA [N. DE E., REFORMADA], P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-XXII.- Representar al Gobierno del Estado en su relación laboral con los trabajadores adscritos al Poder Judicial a que se refiere el artículo 4 inciso C de la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas y el Reglamento de las Condiciones Generales de Trabajo para su aplicación correspondiente;
-
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-XXIII.- Representar al Poder Judicial ante las autoridades de impartición de justicia laboral, cuando se instauren procedimientos de esa materia;
-
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-XXIV.- Delegar funciones de representación ante los tribunales del trabajo o administrativos, así como en procedimientos administrativos previstos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas; y
-
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-XXV.- Las demás atribuciones y obligaciones que ésta o cualquiera otra ley le confieran.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 2007)</small>
+Para los efectos del párrafo primero de este artículo, la Comisión deberá rendir su dictamen en un plazo de sesenta días hábiles, salvo que fuese necesario disponer de más tiempo, a criterio de la misma. En este caso se observarán las normas acerca de ampliación de plazos para la recepción de pruebas en el procedimiento referente al juicio político.
 
 ###### ARTICULO 26.
 
-Para el ejercicio de su función jurisdiccional, el Supremo Tribunal de Justicia actuará en Pleno, en Salas Colegiadas o en Salas Unitarias.
-
-Las Salas Colegiadas estarán integradas, por tres Magistrados de número, de los cuales uno de ellos, por elección de los demás, fungirá como su Presidente, durando en su encargo un año, pudiendo ser reelecto para el período inmediato por una sola vez.
-
-Las Salas Auxiliares y las Salas Regionales serán Unitarias.
-
-Son funciones de los Presidentes de las Salas Colegiadas:
-
-I.- Dictar los acuerdos que procedan en el trámite de los asuntos competencia de las Salas;
-
-II.- Sortear entre los asuntos los Magistrados integrantes de la Sala;
-
-III.- Conocer de las excusas y recusaciones de o los Magistrados de Sala, y del Secretario de Acuerdos de la Sala; en el primer caso para la calificación y remisión a quien deba conocer y en el segundo para la sustanciación del procedimiento y su resolución;
-
-IV.- Dirigir los debates y preservar el orden durante las sesiones;
-
-V.- Firmar las actas de las sesiones de manera conjunta con los demás integrantes de la Sala, ante la fe del Secretario de Acuerdos;
-
-VI.- Despachar la correspondencia oficial de la Sala, rendir los informes previo y justificado y en general, proveer lo relativo a los juicios de amparo que se interpongan contra las resoluciones de la Sala;
-
-VII.- Adoptar las medidas de naturaleza inmediata o urgente necesarias para el desahogo de los asuntos de la competencia de la Sala;
-
-VIII.- Rendir al Pleno del Supremo Tribunal con la oportunidad debida, los informes mensuales respecto de los asuntos en trámite y resueltos, así como los demás que se le soliciten;
-
-IX.- Proponer al Pleno la designación y, en su caso, remoción del Secretario de Acuerdos de Sala;
-
-X.- Imponer a su personal, así como a Jueces, Secretarios y demás servidores públicos que intervengan en primera instancia en el asunto que se conozca con motivo del recurso de apelación, las correcciones disciplinarias de amonestación y multa hasta por el importe de un mes de salario mínimo general vigente en la Capital del Estado y, si a su juicio la falta fuere grave, dar vista al Pleno del Supremo Tribunal de Justicia; y,
-
-XI.- Ejercer las demás atribuciones que le asigne esta ley y los acuerdos generales del Pleno del Supremo Tribunal.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2008)</small>
+Dada cuenta del dictamen correspondiente, el Presidente de la Legislatura anunciará a ésta, que debe erigirse en Jurado de Procedencia, al día siguiente a la fecha en que se hubiese depositado el dictamen, haciéndolo saber al inculpado y a su defensor.
 
 ###### ARTICULO 27.
 
-Los Magistrados de número podrán actuar en segunda instancia en forma colegiada y unitaria para conocer de apelaciones contra autos, sentencias interlocutorias y resoluciones que pongan fin al juicio conforme lo determine el Pleno del Supremo Tribunal de Justicia. Las Salas Colegiadas serán una en materia penal y dos en asuntos de carácter civil y familiar.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2008)</small>
-
-En materia penal los Magistrados de las Salas Colegiadas deberán conocer de las apelaciones en los casos siguientes:
-
-a).- Contra sentencias definitivas dictadas en procesos instruidos por delito grave;
-
-b).- Cuando el Ministerio Público formule las conclusiones reclasificando el delito como grave en los términos del Código de Procedimientos Penales para el Estado y, el juez de primera instancia no lo haya considerado como tal al dictar la sentencia respectiva; y
-
-c).- En los casos en que algún asunto se esté conociendo por algún Magistrado en forma unitaria y a petición de éste se considere que deba conocerse en forma colegiada, en este caso, deberá someterse a la aprobación del Pleno del Supremo Tribunal de Justicia.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2008)</small>
-
-En todos los demás casos, las resoluciones se dictarán en forma unitaria conforme al turno correspondiente.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-La Sala Especializada en Justicia para Adolescentes atenderá las cuestiones relativas a dicha materia y resolverá los recursos a que se refiere la ley que regula el procedimiento para adolescentes a quienes se atribuya la realización de una conducta tipificada como delito conforme a las leyes del Estado.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-Las Salas Colegiadas y las Salas Unitarias, conservarán jurisdicción mixta para conocer de aquellos asuntos en que se excusen o sean recusados los Magistrados que las integren.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-Las Salas Regionales conocerán en segunda instancia de apelaciones contra autos y resoluciones interlocutorias en materia penal, en términos del Código de Procedimientos Penales para el Estado.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-Las Salas Colegiadas funcionarán de la manera siguiente:
-
-I.- Sesionarán los días y horas que determinen sus integrantes en pleno y sus resoluciones se tomarán por unanimidad o por mayoría de votos. Ninguno de los Magistrados integrantes de la Sala podrá abstenerse de votar en las sesiones, a no ser que medie excusa o recusación;
-
-II.- Realizarán la distribución interna de los asuntos por sorteo, debiendo fungir como ponente el Magistrado al que le hubiera correspondido el asunto;
-
-III.- Emitirán su resolución, previa exposición y discusión del caso con los demás integrantes de la Sala, con base en el proyecto que presente el Magistrado ponente;
-
-IV.- Cuando un Magistrado disienta de la mayoría, podrá formular voto particular, lo que deberá hacerse dentro del término de tres días posteriores a la aprobación del proyecto, insertándose al final de la sentencia dictada.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-Cuando el proyecto del Magistrado ponente fuera rechazado, le será devuelto para que lo modifique de acuerdo al criterio de la mayoría; en caso de no estar de acuerdo con ello, otro Magistrado redactará la resolución que corresponda, quedando el proyecto del Magistrado ponente como voto particular.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-Al presentarse el nuevo proyecto y de no existir mayoría respecto al sentido de la resolución, se dará cuenta al Pleno y éste turnará el asunto a otra Sala; lo mismo se hará en el caso de desintegración de la mayoría.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+El día designado, previa declaración del Presidente de la Legislatura, ésta conocerá en Asamblea del dictamen que la Comisión le presente y actuará en los mismos términos previstos por el artículo 20 en materia de juicio político.
 
 ###### ARTICULO 28.
 
-Corresponde a los Magistrados:
-
-I.- Presentar los proyectos de resolución de los asuntos que les sean asignados, para su discusión y aprobación, en su caso, en la Sala Colegiada correspondiente;
-
-II.- Proponer al Pleno del Supremo Tribunal de Justicia, el nombramiento de los servidores públicos de la Sala de la que sean titulares; y
-
-III.- Las demás que se deriven de la ley.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+Si la Legislatura declara, por el voto aprobatorio de las dos terceras partes de sus integrantes, que ha lugar a proceder contra el inculpado, éste quedará inmediatamente separado de su empleo, cargo o comisión y sujeto a la jurisdicción de los tribunales competentes. En caso negativo, no habrá lugar a procedimiento ulterior, mientras subsista el fuero, pero tal declaración no será obstáculo para que el procedimiento continúe su curso, cuando el servidor público haya concluido el desempeño de su empleo, cargo o comisión.
 
 ###### ARTICULO 29.
 
-La adscripción de los Magistrados será determinada por el Pleno del Supremo Tribunal de Justicia. Las Salas contarán con Secretario de Acuerdos, Secretarios Proyectistas, Actuario y el personal subalterno de apoyo que sea necesario, conforme al Presupuesto de Egresos.
+Cuando se siga proceso penal a un servidor público de los mencionados en el artículo 124 constitucional, sin haberse satisfecho el procedimiento al que se refieren los artículos anteriores, la Secretaría de la Legislatura o la Comisión Permanente, librará oficio al Juez o Tribunal que conozca de la causa, a fin de que suspenda el procedimiento en tanto se plantea y resuelve si ha lugar a proceder.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+### CAPITULO IV
 
-### CAPITULO III. DEL PRESIDENTE DEL SUPREMO TRIBUNAL
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+DISPOSICIONES COMUNES PARA LOS CAPITULOS II Y III DEL TITULO SEGUNDO.
 
 ###### ARTICULO 30.
 
-Los Magistrados no podrán ausentarse del lugar de su adscripción, ni faltar a sus labores en días hábiles, sino por causa de fuerza mayor o justificada, o previo aviso al Presidente del Supremo Tribunal de Justicia o al Pleno, en su caso. Asistirán al despacho todos los días y horas hábiles que fija esta ley y exigirán a los demás empleados que asistan con la misma puntualidad.
+Las declaraciones y resoluciones definitivas de la Legislatura y del Tribunal Superior de Justicia son inimpugnables.
 
 ###### ARTICULO 31.
 
-Los Magistrados Supernumerarios integrarán Sala cuando así lo requieran las necesidades de la administración e impartición de justicia, previo acuerdo del Pleno del Tribunal.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+La Legislatura enviará a la Comisión Instructora los requerimientos del Ministerio Público que se le presenten.
 
 ###### ARTICULO 32.
 
-Estarán bajo la supervisión y vigilancia de los Magistrados, salvo que el Pleno determine otro responsable, en la forma y términos que determine éste, las siguientes dependencias administrativas:
-
-I.- Archivo y Biblioteca;
-
-II.- Centro de Estadística, Informática y Computación;
-
-III.- Oficialía de Partes;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-IV.- Centro de Actualización Jurídica e Investigación Procesal;
-
-V.- Dirección de Administración;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-VI.- Fondo Auxiliar para la Administración de Justicia;
-
-VII.- Contraloría del Poder Judicial;
-
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-VIII.- Centro de Mediación; y,
-
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-IX.- Unidad de Información Pública.
+En ningún caso podrá dispensarse un trámite de los establecidos en los Capítulos Segundo y Tercero de este Título.
 
 ###### ARTICULO 33.
 
-Para el despacho de los asuntos que se les encomiende, los Magistrados Supernumerarios tendrán cada uno, un Secretario y el personal subalterno de apoyo que señale el presupuesto de egresos.
+Cuando alguna de las Comisiones, la Legislatura o el Tribunal, deban realizar una diligencia, citará al inculpado, en forma indubitable y con veinticuatro horas de anticipación, para que comparezca o conteste por escrito a los requerimientos que se le hagan; si el inculpado se abstiene de comparecer o de informar por escrito, se entenderá que contesta en sentido negativo.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+Las Comisiones realizarán todas las diligencias necesarias para la integración del expediente respectivo, que permita ilustrar con claridad al órgano de decisión.
 
-En sesión ordinaria deberán rendir al Pleno, informe de sus actividades, y previo acuerdo del Presidente, podrán asistir a las sesiones ordinarias o extraordinarias, con voz informativa, sin derecho a voto.
+Todas las comunicaciones oficiales que deban girarse para la práctica de las diligencias a que se refiere este artículo, se entregarán personalmente o se enviarán por correo, en pieza certificada y con acuse de recibo.
+
+Cuando esta Ley no señale término se tendrá como tal el de tres días naturales.
 
 ###### ARTICULO 34.
 
-Son atribuciones y obligaciones de los Magistrados Supernumerarios:
+Los miembros de las Comisiones y, en general, los Diputados y Magistrados que hayan de intervenir en algún acto del procedimiento, podrán excusarse o ser recusados, por alguna de las causas de impedimento que señala la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+Únicamente con expresión de causa, podrá el inculpado recusar a miembros de las Comisiones que conozcan de la imputación presentada en su contra, o a Diputados y Magistrados que deban participar en actos del procedimiento.
 
-I.- Integrar Salas Auxiliares en los casos que determine el Pleno, a fin de conocer los asuntos que éste le remita;
-
-II.- (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2003)
-
-III.- Asistir a las sesiones públicas del Supremo Tribunal de Justicia con voz informativa, sin derecho a voto; y previo acuerdo del Presidente, solicitar autorización para asistir a las sesiones privadas, con la obligación de guardar sigilo de los asuntos en ellas tratados;
-
-IV.- Llevar un registro de las actividades de supervisión y vigilancia de las dependencias administrativas que le sean asignadas;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-V.- Supervisar y vigilar el desempeño de las dependencias administrativas que le hayan sido asignadas, informando al Pleno de la situación de las mismas;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-VI.- Integrar Sala colegiada en caso de ausencia de algún magistrado numerario o en caso de desintegración de la mayoría; y
-
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-VII.- Desempeñar las comisiones y funciones especiales que el Pleno o su Presidente les encomienden.
+El servidor público podrá hacer valer la recusación, hasta antes de que se formule por la Comisión de Enjuiciamiento, el proyecto de resolución.
 
 ###### ARTICULO 35.
 
-Son Jueces de Primera Instancia:
+Presentada la excusa o la recusación, se calificará dentro de los tres días naturales siguientes, en un incidente que se sustanciará ante la Comisión, a cuyos miembros no se hubiese señalado impedimento para actuar. Si hay excusa o recusación de integrantes de ambas Comisiones, se designará a quien haga la sustitución.
 
-I.- Los Jueces de lo Civil;
-
-II.- Los Jueces de lo Familiar;
-
-III.- Los Jueces de lo Penal; y (sic),
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-IV.- Los Jueces Especializados en Justicia para Adolescentes; y,
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-V.- Los Jueces Mixtos.
+En el incidente se escucharán al promovente y al recusado, y se recibirán las pruebas correspondientes. La Legislatura y el Tribunal Superior de Justicia, calificarán en los demás casos de excusa o recusación.
 
 ## TITULO QUINTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
 ###### ARTICULO 36.
 
-Para ser Juez de Primera Instancia se requiere:
+Tanto el inculpado como el Ministerio Público, podrán solicitar de las oficinas o establecimientos públicos que corresponda, las copias certificadas de documentos que pretendan ofrecer como prueba ante la Comisión respectiva, ante la Legislatura o el Tribunal Superior de Justicia.
 
-I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos; originario del Estado o con residencia en el mismo por más de cinco años ininterrumpidos inmediatamente anteriores a la fecha de la designación, salvo el caso de ausencia en cumplimiento de un servicio público, o actividades de investigación o mejoramiento académico;
+Las autoridades estarán obligadas a expedir dichas copias certificadas, sin demora, y si no lo hicieren, la Comisión respectiva, la Legislatura o el Tribunal Superior de Justicia a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de diez a cien veces el salario mínimo diario vigente en la zona económica donde radique dicha autoridad, sanción que se hará efectiva si la autoridad no la expidiere. Si resultase falso que el interesado hubiera solicitado las constancias, la multa se hará efectiva en su contra.
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-II.- Tener más de veintisiete años de edad y menos de setenta el día de su designación;
-
-III.- Ser Licenciado en Derecho o su equivalente, con título registrado en el Supremo Tribunal de Justicia;
-
-IV.- Tener práctica profesional de cinco años cuando menos, contados a partir de la obtención de la licenciatura para ejercer la profesión;
-
-V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena; y,
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-VI.- Aprobar el examen de conocimientos que al efecto formule el Centro de Actualización Jurídica e Investigación Procesal. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+Por su parte, las Comisiones, la Legislatura o el Tribunal, solicitarán las copias certificadas de las constancias que estimen necesarias para el procedimiento, y si la autoridad de quien las solicitase no las remite dentro del plazo discrecional que se le señale, se impondrá la multa a que se refiere el párrafo anterior.
 
 ###### ARTICULO 37.
 
-El Juez de Primera Instancia actuará asistido por el Secretario correspondiente o quien legalmente sustituya a éste.
+Las Comisiones, la Legislatura o el Tribunal Superior podrán solicitar, por sí o a instancia de los interesados, los documentos o expedientes originales ya concluidos, y la autoridad de quien se soliciten tendrá la obligación de remitirlos. En caso de incumplimiento, se aplicará la corrección dispuesta en el artículo anterior.
+
+Dictada la resolución definitiva en el procedimiento, los documentos y expedientes mencionados deberán ser devueltos a la oficina de su procedencia, pudiendo dejarse copia certificada de las constancias que las Comisiones, Legislatura o el Tribunal Superior estimen pertinentes.
 
 ###### ARTICULO 38.
 
-Corresponde a los Jueces de lo Civil conocer:
-
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2003)</small>
-
-I.- De los negocios de jurisdicción voluntaria cuyo conocimiento no corresponda a los jueces de lo familiar;
-
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2003)</small>
-
-II.- De los negocios contenciosos que versen sobre propiedad y demás derechos reales sobre inmuebles; excepto si se controvierten cuestiones relacionadas con el patrimonio de familia, en que la competencia corresponde a los Jueces de lo Familiar;
-
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2003)</small>
-
-III.- De los demás negocios de jurisdicción contenciosa, común y concurrente, cuya cuantía exceda de ciento cincuenta veces el salario mínimo diario general vigente en la Capital del Estado, excepto en lo concerniente al derecho familiar;
-
-IV.- (DEROGADA, P.O. 3 DE JUNIO DE 2003)
-
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2003)</small>
-
-V.- De los interdictos, siempre que no se relacionen con cuestiones familiares;
-
-VI.- De las cuestiones de competencia, excusas y recusaciones de los Jueces Menores de su distrito, cuando las leyes así lo dispongan;
-
-VII.- De los exhortos que les dirijan los Jueces de Primera Instancia del Estado y los demás Jueces y tribunales de la República;
-
-VIII.- De las diligencias que les encomiende el Supremo Tribunal de Justicia; y,
-
-IX.- Desempeñar las demás funciones que les encomienden las leyes federales y las del Estado.
-
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2003)</small>
-
-###### ARTICULO 38 Bis.
-
-Los Jueces de lo Familiar conocerán:
-
-I.- De los negocios de jurisdicción voluntaria relacionados con el Derecho Familiar.
-
-II.- De los juicios contenciosos relativos al matrimonio, a la ilicitud o nulidad del mismo, al divorcio, incluyendo los que se refieren al régimen de bienes en el matrimonio, de los que tengan por objeto modificaciones o rectificaciones a las actas del estado civil, de los divorcios por mutuo consentimiento, excepto del administrativo, de los que afecten el parentesco, a los alimentos, a la paternidad y a la filiación legitima, natural o adoptiva, de los que tengan por objeto cuestiones derivadas de la patria potestad, estado de interdicción y tutela y de las que se refieran a cualquier cuestión relacionada con el patrimonio de la familia, su constitución, disminución, extinción o afectación en cualquier forma.
-
-III.- De los juicios sucesorios.
-
-IV.- De los asuntos judiciales concernientes a otras acciones relativas al estado civil, a la capacidad de las personas y a las derivadas del parentesco.
-
-V.- De las diligencias de consignación en todo lo relativo al Derecho Familiar.
-
-VI.- De la diligenciación de los exhortos, suplicatorias, requisitorias y despachos, relacionados con el Derecho Familiar.
-
-VII.- De las cuestiones relativas a adopción, a las que afecten a los menores e incapacitados en sus derechos de personas y, en general, de todas las cuestiones familiares que reclamen la intervención judicial.
-
-VIII.- De los registros en que consten los discernimientos de los cargos de tutor y curador, los que estarán a disposición de los Consejos Locales de Tutela.
-
-IX.- De las diligencias que les encomiende el Tribunal por conducto del Pleno o la Presidencia, y de las demás funciones a que los obliguen las leyes Federales y del Estado.
+La Legislatura y el Tribunal Superior de Justicia no podrán erigirse en órgano de acusación o Jurado de Sentencia, sin que antes se haya comprobado fehacientemente que el servidor público, su defensor y el Ministerio Público, en su caso, han sido notificados personalmente.
 
 ###### ARTICULO 39.
 
-Corresponde a los Jueces de lo Penal:
-
-I.- Conocer las causas criminales conforme a la competencia y a las atribuciones que establecen las leyes;
-
-II.- Cumplimentar los exhortos que les dirijan los Jueces de Primera Instancia en los términos previstos por la ley procesal respectiva;
-
-III.- Practicar las diligencias que les encomiende el Supremo Tribunal de Justicia;
-
-IV.- Visitar mensualmente los establecimientos donde se encuentren recluidos los procesados a su disposición para los efectos del Título Sexto de esta ley; y,
-
-V.- Desempeñar las demás funciones que les encomienden las leyes federales y las del Estado.
-
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-###### ARTICULO 39 Bis.
-
-Corresponde a los Jueces Especializados en Justicia para Adolescentes, en los términos de la ley de la materia:
-
-I.- Conocer de las conductas tipificadas como delito en las leyes penales del Estado atribuidas a adolescentes conforme a la competencia en los términos de la ley de la materia;
-
-II.- Recabar la declaración preparatoria del adolescente a quien se le atribuya la comisión de una conducta tipificada como delito en las leyes penales del Estado;
-
-III.- Realizar las acciones conducentes para que le sea designado un defensor de oficio al adolescente desde el momento en el que sea puesto a su disposición;
-
-IV.- Garantizar los derechos fundamentales y específicos del adolescente detenido, asegurándose de que no sea incomunicado, coaccionado, intimidado, torturado o sometido a tratos crueles, inhumanos o degradantes, así como las demás que apliquen a su situación;
-
-V.- Informar de inmediato al adolescente, a sus padres, tutores o quien ejerza la patria potestad y al defensor de aquél sobre la situación jurídica del caso, así como los derechos que les asisten;
-
-VI.- Otorgar al adolescente, a sus padres, tutores o quien ejerza la patria potestad y a su defensor, toda la información que conste en el registro del procedimiento y que soliciten para garantizar una efectiva defensa;
-
-VII.- Conceder la libertad bajo caución al adolescente, en los casos y con los requisitos determinados en la ley;
-
-VIII.- Cuando resulte procedente, fomentar la conciliación de las partes a través de las formas alternativas de justicia, pudiendo hacer uso de la mediación para la solución de la conducta tipificada como delito por las leyes penales;
-
-IX.- Realizar, cuando resulte procedente, todas aquellas diligencias solicitadas por el adolescente, sus padres, tutores o quien ejerza la patria potestad o su defensor para el esclarecimiento de los hechos;
-
-X.- Vigilar que el cumplimiento de las medidas que se apliquen con base en los principios rectores determinados en la sentencia definitiva, ejecutándose en sus términos, salvaguardando el debido proceso legal y demás derechos y garantías que asisten al adolescente infractor; y
-
-XI.- Desempeñar las demás funciones que les encomienden las leyes federales y del Estado.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
+No podrán votar en ningún caso, los Diputados o Magistrados que hubiesen presentado la denuncia contra el servidor público. Tampoco podrán hacerlo los Diputados o Magistrados que hayan aceptado el cargo de defensor, aun cuando renuncien al mismo, después de haber comenzado a ejercer el cargo.
 
 ###### ARTICULO 40.
 
-En los Distritos Judiciales en que el volumen de los negocios no amerite que los Juzgados se especialicen por materia, funcionarán Juzgados Mixtos, incluida la materia Familiar.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
+En todo lo no previsto por esta Ley, en las discusiones y votaciones se observarán, en lo aplicable, las reglas que establecen la Constitución, la Ley Orgánica del Poder Judicial y las bases normativas de la Legislatura para discusión y votación de las leyes.
 
 ###### ARTICULO 41.
 
-Los jueces Mixtos tendrán las atribuciones y funciones que las leyes señalen para los Jueces de lo Civil, Penal y Familiar.
+En el juicio político al que se refiere esta Ley, los acuerdos y determinaciones de la Legislatura y del Tribunal Superior se tomarán en sesión pública, excepto en la que se presenta la acusación o cuando las buenas costumbres o el interés en general exijan que la audiencia sea secreta.
 
 ###### ARTICULO 42.
 
-En los distritos judiciales donde hubiere recargo de negocios o expedientes, el Pleno del Supremo Tribunal de Justicia podrá crear nuevos Juzgados, los cuales conocerán de los asuntos que éste les asigne. El acuerdo de creación correspondiente deberá publicarse en el Periódico Oficial del Estado y en los estrados judiciales.
+Cuando en el curso del procedimiento a un servidor público de los mencionados en los artículos 123 y 124 de la Constitución, se presentare nueva denuncia en su contra, se procederá respecto de ella con arreglo a esta Ley, hasta agotar la instrucción de los diversos procedimientos, procurando, de ser posible, la acumulación procedimental.
+
+Si la acumulación fuese procedente la Comisión formulará en un solo documento sus conclusiones, que comprenderán el resultado de los diversos procedimientos.
 
 ###### ARTICULO 43.
 
-Todos los Jueces de Primera Instancia tendrán jurisdicción mixta para conocer de aquellos asuntos que les corresponda por recusación de otro juzgador.
+Las Comisiones, la Legislatura y el Tribunal Superior podrán disponer las medidas de apercibimiento que fueren procedentes para hacer valer sus determinaciones, mediante acuerdo de la mayoría de sus miembros presentes en la sesión respectiva.
 
 ###### ARTICULO 44.
 
-En los distritos judiciales en que exista más de un Juzgado del mismo ramo, los negocios judiciales de su competencia serán turnados de acuerdo con el mecanismo que establezca el Supremo Tribunal de Justicia a la Oficialía de Partes respectiva, y serán radicados en el Juzgado que corresponda.
+Las declaraciones o resoluciones aprobadas por la Legislatura y por el Tribunal Superior con arreglo a esta Ley, se comunicarán al Titular del Poder o Institución a que pertenezca el acusado; y en todo caso al Ejecutivo para su conocimiento y efectos legales, y para su publicación en la 'Gaceta Oficial' del Estado.
 
 ###### ARTICULO 45.
 
-Los Jueces de Primera Instancia no podrán ausentarse de la cabecera de su distrito ni faltar a sus labores, sino por causa de fuerza mayor o justificada o previo permiso del Presidente del Supremo Tribunal de Justicia o del Pleno en su caso.
+En todas las cuestiones relativas al procedimiento no previstas en esta Ley, así como en la apreciación de las pruebas, se observarán las disposiciones del Código de Procedimientos Penales. Asimismo, se atenderán en lo conducente, las del Código Penal.
 
-## TITULO TERCERO. DE LA INTEGRACION DE LOS TRIBUNALES
+## TITULO TERCERO
 
-### CAPITULO IV. DE LAS SALAS
+RESPONSABILIDADES ADMINISTRATIVAS.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+### CAPITULO I
+
+OBLIGACIONES DEL SERVIDOR PUBLICO.
 
 ###### ARTICULO 46.
 
-Los Jueces de Primera Instancia asistirán al despacho todos los días y horas hábiles que fija esta ley y exigirán a los demás empleados que asistan con la misma puntualidad.
+Todo servidor público tendrá las siguientes obligaciones para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el desempeño de su empleo, cargo o comisión, y cuyo incumplimiento dará lugar al procedimiento y a las sanciones que correspondan, según la naturaleza de la infracción en que se incurra, y sin perjuicio de sus derechos laborales, previstos en las normas específicas que al respecto rijan:
+
+I.- Cumplir con diligencia el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de un empleo, cargo o comisión;
+
+II.- Formular y ejecutar legalmente, en su caso, los planes, programas y presupuestos correspondientes a su competencia, y cumplir las leyes y otras normas que determinen el manejo de recursos económicos públicos;
+
+III.- Utilizar exclusivamente para los fines a que están afectos, los recursos que tengan asignados para el desempeño de su empleo, cargo o comisión, así como las facultades que le sean atribuidas o la información reservada de la que tenga conocimiento por su función;
+
+IV.- Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión conserve bajo su cuidado de la cual tenga conocimiento impidiendo o evitando el uso, la sustracción, destrucción, ocultamiento o inutilización indebidas de aquéllas;
+
+V.- Observar buena conducta en su empleo, cargo o comisión, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con las que tenga relación con motivo de éstos;
+
+VI.- Observar en la dirección de sus inferiores jerárquicos las debidas reglas del trato y abstenerse de incurrir en agravio, desviación o abuso de autoridad;
+
+VII.- Observar respeto y subordinación legítimas con respecto a sus superiores jerárquicos inmediatos o mediatos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
+
+VIII.- Comunicar por escrito al titular de la dependencia o entidad en la que presten sus servicios, el incumplimiento de las obligaciones establecidas en este artículo o las dudas fundadas que les suscite la procedencia de las órdenes que reciba;
+
+IX.- Abstenerse de ejercer las funciones de un empleo, cargo o comisión después de haberse separado de él;
+
+X.- Abstenerse de disponer o autorizar a un subordinado a no asistir sin causa justificada a sus labores por más de quince días continuos o treinta discontinuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones;
+
+XI.- Abstenerse de desempeñar algún empleo, cargo o comisión oficial o particular que la ley prohiba;
+
+XII.- Abstenerse de autorizar la selección, contratación, nombramiento o designación de quién se encuentre inhabilitado por resolución firme de la autoridad competente para ocupar un empleo, cargo o comisión en el servicio público;
+
+XIII.- Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquéllos de los que puede resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado o por afinidad o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
+
+XIV.- Informar por escrito al jefe inmediato y en su caso al superior jerárquico, sobre la atención, trámite o resolución de los asuntos a que hace referencia la fracción anterior y que sean de su conocimiento; y observar sus instrucciones por escrito sobre su atención, tramitación y resolución, cuando el servidor público no pueda abstenerse de intervenir en ellos;
+
+XV.- Abstenerse, durante el ejercicio de sus funciones, de solicitar, aceptar o recibir, por sí o por interpósita persona, dinero, objetos mediante enajenación a su favor en precio notoriamente inferior al que el bien de que se trate tenga en el mercado ordinario, cualquier donación, cargo o comisión para sí, o para las personas a que se refiere la fracción XIII, y que procedan de cualquier persona física o moral cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto. Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión;
+
+XVI.- Desempeñar su empleo, cargo o comisión sin obtener o pretender obtener beneficios adicionales a las contraprestaciones comprobables que el Estado le otorga por el desempeño de su función, sean para él o para las personas a las que se refiere la fracción XIII;
+
+XVII.- Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en el caso, o pueda derivar alguna ventaja o beneficio para él o para las personas a las que se refiere la fracción XIII;
+
+XVIII.- Presentar con oportunidad y veracidad la declaración de situación patrimonial a que se refiere esta Ley;
+
+XIX.- Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba para el cumplimiento de esta Ley;
+
+XX.- Informar al superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este artículo, y en los términos de las normas que al efecto se expidan;
+
+XXI.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público; y
+
+XXII.- Las demás que le impongan las leyes y reglamentos.
 
 ###### ARTICULO 47.
 
-Son obligaciones de los Jueces:
-
-I.- Acordar y dictar sentencia de manera oportuna, fundada y motivada, con sujeción a las normas aplicables en cada caso;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-II.- Remitir diariamente al Supremo Tribunal de Justicia copia de la lista de acuerdos, así como el archivo digital correspondiente, a la Dirección de Informática a través de la Red Estatal de Telecomunicaciones del Poder Judicial, antes de las ocho horas con treinta minutos del día siguiente, a efecto de que se publique la citada información en la página web del Supremo Tribunal de Justicia;
-
-III.- Cuidar del orden y la disciplina, imponiendo las correcciones que procedan, conforme a la ley procesal respectiva;
-
-IV.- Excusarse en los casos previstos por la ley;
-
-V.- Acatar sin demora las ejecutorias y requerimientos de sus superiores;
-
-VI.- Residir en el lugar de su adscripción;
-
-VII.- Cumplimentar los exhortos, despachos y requisitorias que reciban de otras autoridades, de acuerdo con lo que al efecto disponga la ley procesal respectiva;
-
-VIII.- Cursar la correspondencia del Juzgado;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-IX.- Reunirse con los Jueces Menores y Jueces de Paz de su adscripción trimestralmente y cuando así se le requiera, a efecto de conocer de sus problemas y proporcionarles la orientación adecuada; vigilar que los mismos concurran al despacho con la puntualidad debida y realizar visitas para tal efecto cuantas veces lo estime necesario; en los distritos judiciales en que existan varios jueces de primera instancia el Presidente del Supremo Tribunal de Justicia determinará quien cumplirá con esta obligación;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-X.- Ordenar la remisión oportuna al Archivo Judicial del Estado, de los expedientes a que se refiere esta ley;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-XI.- Practicar las diligencias que les encomienden el Pleno del Supremo Tribunal de Justicia, los Magistrados de las Salas Colegiadas, Unitarias o Regionales y las autoridades judiciales de la Federación y rendir los informes que al efecto les soliciten; y,
-
-XII.- Las demás que les señalen las leyes, les encomiende el Pleno del Supremo Tribunal de Justicia o el Presidente de éste.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+Cuando el planteamiento a que se refiere la fracción XX del artículo anterior, que formule el servidor público a su superior jerárquico deba ser comunicado a la Autoridad competente, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación, el subalterno podrá practicarla directamente informando a su superior acerca de este acto.
 
 ###### ARTICULO 48.
 
-Los Juzgados de Primera Instancia tendrán para el despacho de los negocios el personal siguiente:
+Para los efectos de este título se entenderá por superior jerárquico, al titular de la dependencia de que se trate, el cual aplicará las sanciones cuya imposición se atribuye a través de los responsables a que se refiere el artículo siguiente.
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+### CAPITULO II
 
-I.- El número de Secretarios de Acuerdos que determine el Pleno del Supremo Tribunal de Justicia, tomando en consideración el presupuesto de egresos a ejercer y el volumen de asuntos judiciales que se tramiten en cada distrito, y actuarán en la rama o ramas que se señale al hacer su adscripción;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-II.- Los Secretarios para proyectos de sentencia, y demás tareas que el Juez les encomiende, cuando el Pleno lo estime necesario;
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-III.- Los Actuarios, cuando el volumen de negocios lo justifique a juicio del Pleno del Supremo Tribunal. En caso contrario, el Secretario llevará a cabo las diligencias que deban practicarse fuera del Juzgado o de ser necesario el Juez podrá autorizar a uno de los escribientes del Juzgado para que actúe como tal;
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-IV.- Un archivista; y,
-
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-V.- Los oficiales Judiciales que determine la Presidencia del Suprema Tribunal de Justicia, de acuerdo al volumen de negocios del juzgado.
-
-Los trabajadores de las fracciones I, II, III y IV tendrán, por su naturaleza, el carácter de trabajadores de confianza.
-
-### CAPITULO V. DE LAS MAGISTRATURAS SUPERNUMERARIAS
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2003)</small>
+SANCIONES ADMINISTRATIVAS Y PROCEDIMIENTOS PARA APLICARLAS.
 
 ###### ARTICULO 49.
 
-El Pleno del Supremo Tribunal de Justicia determinará si en cada Municipio funcionarán un Juzgado Menor y un Juzgado de Paz, o únicamente alguno de los dos, los cuales residirán en la cabecera municipal. De acuerdo con las necesidades del servicio, el Supremo Tribunal autorizará la creación de más de un Juzgado Menor o demás de un Juzgado de Paz en un mismo Municipio, pudiendo acordarse la especialización de los mismos por materia.
+En las dependencias y entidades de la Administración Pública Estatal y Paraestatal, se designarán responsables, ante los cuales se puedan presentar quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos, con las que se iniciará, en su caso, el procedimiento disciplinario correspondiente.
 
-El Pleno del Supremo Tribunal tendrá la facultad de autorizar al Juez o Jueces Menores o de Paz de determinados Municipios para que ejerzan jurisdicción y competencia en otros Municipios, en los que por su escaso volumen de trabajo no se justifique su existencia. En este caso, el Juez Menor o el Juez de Paz formulará un programa de visitas que será aprobado por la Presidencia, a fin de constituirse en los lugares de su circunscripción y, en su caso, atender los asuntos de su competencia, sin perjuicio de hacerlo cuando así sea requerido.
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+La Contraloría General del Estado estará facultada para dictar reglas de control interno, prevención y procedimientos para que las quejas y denuncias del público sean atendidas y resueltas con eficiencia, estará facultada para designar a los responsables a que se refiere el párrafo anterior, como Contralores Internos.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 50.
 
-Para ser Juez Menor o Juez de Paz se requiere:
+La Contraloría General, el superior jerárquico y todos los servidores públicos, tienen la obligación de respetar y hacer respetar el derecho a la formulación de las quejas y denuncias a las que se refiere el artículo anterior y de evitar que con motivo de éstas, se causen molestias indebidas al quejoso.
 
-I.- Ser ciudadano mexicano en ejercicio de sus derechos;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-II.- Tener más de veinticinco años de edad y menos de setenta al día de su designación;
-
-III.- Ser Licenciado en Derecho titulado, con por lo menos tres años de experiencia profesional contados a partir de la obtención de la licenciatura para ejercer la profesión;
-
-IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena; y,
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-V.- Aprobar el examen de conocimientos que al efecto formule el Centro de Actualización Jurídica e Investigación Procesal. Prefiriéndose en la selección a aquellas persona (sic) que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+El servidor público que coaccione al quejoso para evitar la presentación de quejas y denuncias, incurrirá en responsabilidad.
 
 ###### ARTICULO 51.
 
-Corresponde a los Jueces Menores y, en su caso, a los Jueces de Paz, lo siguiente:
+El Tribunal Superior de Justicia establecerá los órganos y sistemas para identificar, investigar y determinar las responsabilidades derivadas del incumplimiento de las obligaciones establecidas en el artículo 46 de esta Ley, así como para aplicar las sanciones establecidas en el presente Capítulo, en los términos de la correspondiente Ley Orgánica del Poder Judicial.
 
-A) Le corresponde a los Jueces Menores:
+Lo propio hará, conforme a la legislación respectiva y por lo que hace a su competencia la Legislatura del Estado.
 
-I.- Conocer de los negocios civiles y mercantiles por el importe de cuarenta y seis hasta ciento cincuenta veces el salario mínimo vigente en la capital del Estado;
-
-II.- Conocer de los asuntos penales por delitos cuya sanción consista en apercibimiento, caución de no ofender, multa o pena alternativa y prisión de hasta dos años;
-
-III.- Conocer de los asuntos de la competencia de los Jueces de Paz conforme la ley de la materia, así como de aquéllos otros que determine el Pleno del Supremo Tribunal de Justicia, siempre que en los Municipios que integren su Distrito Judicial no exista Juez de Paz;
-
-IV.- Ordenar y cuidar que se lleve correctamente el registro en los libros para el servicio de la oficina;
-
-V.- Remitir al Pleno del Supremo Tribunal de Justicia, dentro de los primeros ocho días de cada mes, un informe de labores del mes anterior respecto al estado procesal de los negocios civiles y penales de su competencia; y
-
-VI.- Cumplimentar los exhortos, despachos y comisiones que reciban de sus superiores o de otros Juzgados en los términos previstos por la ley procesal respectiva o de las instrucciones recibidas.
-
-B) Le corresponde conocer a los Juzgados de Paz:
-
-I.- De los negocios civiles y de jurisdicción concurrente por un importe hasta de cuarenta y cinco días de salario mínimo general vigente en la capital del Estado;
-
-II.- De daños en propiedad ajena derivados de una conducta dolosa por un importe que no exceda de cuarenta y cinco veces el salario mínimo vigente en la capital del Estado, siempre que no se cometa mediante incendio, inundación o explosión, o se trate de bienes del dominio público o que formen parte del patrimonio cultural del Estado;
-
-III.- De daños en propiedad ajena derivados de una conducta culposa por un importe que no exceda de cien veces el salario mínimo vigente en la capital del Estado, salvo cuando quien los cometa se encuentre bajo el influjo de la ingestión inmoderada de bebidas alcohólicas o de estupefacientes, psicotrópicos u otras sustancias que produzcan efectos similares;
-
-IV.- De conflictos entre vecinos de casa habitación o entre condóminos, cuando de acuerdo con la ley no corresponda conocer a diversa autoridad y la naturaleza de la diferencia tenga carácter patrimonial no mayor a cien veces el salario mínimo vigente en la capital del Estado;
-
-V.- De conflictos entre miembros de una familia que no sean competencia del Juez Familiar o no constituyan conductas probablemente delictivas;
-
-VI.- De conflictos de carácter personal, siempre y cuando de acuerdo con otra ley no corresponda conocer a diversa autoridad; y
-
-VII.- De los asuntos civiles de su competencia que les sean propuestos por las partes, con carácter conciliatorio, absteniéndose de externar opinión sobre el fondo del caso.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 52.
 
-Los Jueces Menores y los Jueces de Paz actuarán con un Secretario que designará el Supremo Tribunal de Justicia y el personal de apoyo que fuere necesario, conforme al Presupuesto de Egresos.
+Los Secretarios de Despacho, el Subsecretario de Gobierno y el Contralor General, para los efectos de este título, serán responsables ante el Gobernador del Estado.
 
 ###### ARTICULO 53.
 
-Para ser Secretario se requiere:
+Las sanciones por falta administrativa consistirán en:
 
-I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
+I.- Apercibimiento privado o público;
 
-II.- No haber sido condenado por delito intencional; y,
+II.- Amonestación privada o pública;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+III.- Suspensión;
 
-III.- Aprobar el examen de conocimientos que al efecto formule el Centro de Actualización Jurídica e Investigación Procesal. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+IV.- Destitución del puesto;
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+V.- Sanción económica, cuando se haya causado un daño patrimonial u obtenido un lucro; y
+
+VI.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
+
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, será de seis meses a tres años si el monto de aquéllos no excede de cien veces el salario mínimo mensual vigente en la zona económica donde preste sus servicios el servidor público y de tres a diez años si excede de dicho límite.
 
 ###### ARTICULO 54.
 
-Los Juzgados Menores y los Juzgados de Paz tendrán la plantilla de empleados que señale el presupuesto respectivo.
+Las sanciones administrativas se impondrán tomando en cuenta los siguientes elementos:
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+I.- La gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir prácticas que infrinjan las disposiciones de esta Ley o las que se dicten con base en ella;
+
+II.- Las circunstancias sociales y culturales del servidor público;
+
+III.- El nivel jerárquico, los antecedentes y las condiciones del infractor;
+
+IV.- Los medios de ejecución y la conducta de los que intervinieron;
+
+V.- La antigüedad del servicio;
+
+VI.- La reincidencia en el incumplimiento de sus obligaciones; y
+
+VII.- El monto del beneficio, daño o perjuicio económicos derivados del incumplimiento de obligaciones.
 
 ###### ARTICULO 55.
 
-Son aplicables a los Secretarios de los Juzgados Menores y a los de Paz, en lo conducente, las disposiciones contenidas en el artículo 77 de esta ley.
+En caso de aplicación de sanciones económicas por incumplimiento de las obligaciones establecidas en el artículo 46, se aplicarán dos tantos del lucro obtenido y de los daños y perjuicios causados.
+
+Se otorgará un plazo máximo de tres años, para que el servidor público pague la sanción pero los pagos que se convengan, en ningún caso, lo dejarán con una percepción inferior al salario mínimo que corresponda.
 
 ### CAPITULO VII. DE LOS JUZGADOS MENORES
 
@@ -1135,173 +569,173 @@ Son aplicables a los Secretarios de los Juzgados Menores y a los de Paz, en lo c
 
 ###### ARTICULO 56.
 
-Los Jueces asumirán la Presidencia de Debates en los asuntos de que hayan conocido como instructores y que deban llevar a Jurado.
+Para la aplicación de las sanciones a que hace referencia el artículo 53 se observarán las siguientes reglas:
+
+I.- El apercibimiento, la amonestación y la suspensión del empleo, cargo o comisión por un período no menor de tres días ni mayor de tres meses, serán aplicables por el superior jerárquico;
+
+II.- La destitución del empleo, cargo o comisión de los servidores públicos, se demandará por el superior jerárquico de acuerdo con los procedimientos consecuentes con la naturaleza de la relación y en los términos de las leyes respectivas;
+
+III.- La suspensión del empleo, cargo o comisión durante el período al que se refiere la fracción I, y la destitución de los servidores públicos de confianza se aplicarán por el superior jerárquico;
+
+> <small>(REFORMADA, G.O. 29 DE MAYO DE 1990)</small>
+
+IV.- El Contralor General del Estado, promoverá los procedimientos a que hacen referencia las fracciones II y III, demandando la destitución del servidor público responsable o procediendo a la suspensión de éste, cuando el superior jerárquico no lo haga. En este caso, la Contraloría desahogará el procedimiento y exhibirá las constancias respectivas al superior jerárquico;
+
+V.- La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público será aplicable por resolución jurisdiccional, que dictará el órgano que corresponda según las leyes aplicables; y
+
+> <small>(REFORMADA, G.O. 29 DE MAYO DE 1990)</small>
+
+VI.- Las sanciones económicas serán aplicadas por el superior jerárquico, cuando no excedan de un monto equivalente a treinta veces el salario mínimo diario vigente en la zona económica donde radique el servidor público y por la Contraloría General cuando sean superiores a esta cantidad.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 57.
 
-Para el despacho de los negocios de su competencia, los Presidentes de Debates designarán el personal necesario para el cumplimiento de su función, de entre las personas que laboren en el Juzgado al que estén adscritos.
+Los Directores o sus equivalentes en la administración pública paraestatal, deberán informar por escrito a la Contraloría General, los hechos graves que a su juicio sean causa de responsabilidad administrativa, para que ésta proceda como corresponda, asimismo informarán de todas las sanciones que hayan aplicado.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 58.
 
-Compete a los Presidentes de Debates:
+La Contraloría General aplicará las sanciones correspondientes a los responsables y a los Contralores Internos de las dependencias, cuando éstos incurran en actos u omisiones que impliquen responsabilidad administrativa.
 
-I.- Llevar a Jurado las causas que sean de la competencia de éste, en los términos del Código de Procedimientos Penales;
-
-II.- Dirigir los debates del Jurado; y,
-
-III.- Dictar los fallos que correspondan con arreglo al veredicto del Jurado.
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 59.
 
-El Jurado de Ciudadanos conocerá de la instrucción de los procesos penales en los casos que así lo establezca la ley.
+Incurrirán en responsabilidad administrativa, los titulares de las dependencias o entidades que se abstengan injustificadamente de sancionar a los infractores de esta Ley.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 60.
 
-El Jurado de Ciudadanos tiene como finalidad resolver por medio de un veredicto, las cuestiones de hecho que con arreglo a la ley le sean sometidas a su consideración por el Presidente de Debates, con motivo de los procesos que ante él se instruyan en los casos que así lo establezca la ley.
+El superior jerárquico de cada dependencia o entidad, será competente para imponer sanciones disciplinarias, excepto las económicas, cuyo monto sea superior a treinta veces el salario mínimo diario vigente en la zona económica donde radique el servidor público, las que están reservadas exclusivamente a la Contraloría General, quien comunicará los resultados del procedimiento al titular de la dependencia o entidad.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 61.
 
-El Jurado de Ciudadanos se formará de siete personas designadas por sorteo, de acuerdo al procedimiento que para tal efecto establezca el Código de Procedimientos Penales.
+Si los superiores jerárquicos tuvieran conocimiento de hechos que impliquen responsabilidad penal, darán vista de ellos a la Contraloría General y a la autoridad competente para conocer del ilícito.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 62.
 
-Toda persona que reúna los requisitos para ser integrante del Jurado, tiene la obligación de desempeñar el cargo en los términos previstos por la presente ley y por el Código de Procedimientos Penales.
+Si de las investigaciones y auditorías que se realicen en las dependencias o entidades, se encontrasen indicios de responsabilidad administrativa de los servidores públicos, se informará esta circunstancia al superior jerárquico y a la Contraloría General del Estado, para que se proceda en términos de Ley.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 63.
 
-Para ser integrante del Jurado de Ciudadanos se requiere:
+El Contralor General y los titulares de las dependencias, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad, ni constituyan delito cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el salario mínimo diario vigente en la zona económica donde se cometa.
 
-I.- Ser ciudadano mexicano, en pleno goce de sus derechos;
-
-II.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de mas de dos años de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena;
-
-III.- Saber leer y escribir;
-
-IV.- Ser vecino del distrito judicial en que deba desempeñar el cargo, por lo menos desde un año antes del día en que se publique la lista definitiva de Jurados; y,
-
-V.- No tener impedimento físico ni enfermedad que lo imposibilite para el ejercicio de su cargo.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 64.
 
-No podrán ser integrantes del Jurado de Ciudadanos.
+La Contraloría General impondrá las sanciones administrativas a que se refiere este capítulo, mediante el siguiente procedimiento:
 
-I.- Los servidores públicos de la Federación, del Estado o de los Municipios o de sus organismos descentralizados; y,
+I.- Citará al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por sí o por medio de un defensor.
 
-II.- Los ministros de cualquier culto religioso.
+También asistirá a la audiencia el representante de la dependencia que para tal efecto se designe.
+
+Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
+
+> <small>(REFORMADA, G.O. 29 DE MAYO DE 1990)</small>
+
+II.- Al concluir la audiencia o dentro de los tres días hábiles siguientes, la Contraloría General resolverá sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes; y notificará la resolución dentro de las veinticuatro horas siguientes, al interesado, a su jefe inmediato, al representante designado por la dependencia o entidad y al superior jerárquico;
+
+> <small>(REFORMADA, G.O. 29 DE MAYO DE 1990)</small>
+
+III.- Si en la audiencia, la Contraloría General encontrara que no cuenta con elementos suficientes para resolver o advierta elementos que impliquen otra responsabilidad administrativa a cargo del presunto responsable o de otras personas, podrá disponer la práctica de investigaciones y citar para otra u otras audiencias; y
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE MAYO DE 1990)</small>
+
+IV.- En cualquier momento, previa o posteriormente al citatorio al que se refiere la fracción I del presente artículo, la Contraloría General podrá determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, si a su juicio así conviene para la conducción o continuación de las investigaciones. La suspensión temporal no prejuzga sobre la responsabilidad que se impute. La determinación de la Contraloría hará constar expresamente esta salvedad.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
+
+La suspensión temporal a que se refiere el párrafo anterior, suspenderá los efectos del acto que haya dado origen a la ocupación del empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado, o éste quede enterado de la resolución por cualquier medio. La suspensión cesará cuando así lo resuelva la Contraloría General, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo.
+
+Si los servidores suspendidos temporalmente no resultaren responsables de la falta que se les imputa serán restituidos en el goce de sus derechos y se les cubrirán las percepciones que debieran percibir durante el tiempo que estuvieron suspendidos.
+
+Se requerirá autorización del Gobernador del Estado, para dicha suspensión, si el nombramiento del servidor público de que se trate, a él le corresponde. Igualmente, se requerirá autorización de la Legislatura del Estado, o en su caso de la Comisión Permanente, si dicho nombramiento requirió ratificación del Poder Legislativo en los términos de la Constitución Política del Estado.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 65.
 
-Las personas que tengan impedimento para integrar el Jurado de Ciudadanos deberán acreditar tal situación ante el Presidente Municipal, quien los excusará de su encargo.
+En los procedimientos que se sigan para investigación y aplicación de sanciones, por los titulares de las dependencias o entidades, se observarán, en todo lo aplicable, a las reglas contenidas en el artículo anterior.
 
 ###### ARTICULO 66.
 
-Los integrantes del Jurado que asistan a las audiencias desempeñarán sus funciones en forma honoraria. Los que falten sin causa justificada sufrirán la sanción que corresponda.
+Se levantará acta circunstanciada de todas las diligencias que se practiquen, que suscribirán quienes intervengan en ellas, apercibidos de las sanciones en que incurran quienes falten a la verdad.
 
 ###### ARTICULO 67.
 
-Los integrantes del Jurado de Ciudadanos podrán excusarse en los casos siguientes:
+Los superiores jerárquicos podrán designar un representante que participe en las diligencias y siempre se le dará vista de todas las actuaciones.
 
-I.- Cuando sean empleados de empresas de servicios públicos;
-
-II.- Cuando sean estudiantes inscritos en las escuelas oficiales o privadas, instituciones universitarias o de educación superior;
-
-III.- Cuando sean Directores o Profesores de establecimientos de instrucción o beneficencia, sean públicos o particulares;
-
-IV.- Cuando padezcan enfermedad que les impida trabajar;
-
-V.- Cuando sean mayores de sesenta y cinco años; y,
-
-VI.- Cuando se encuentren en circunstancias especiales que por su naturaleza les impidan cumplir con la función, a juicio del Presidente Municipal.
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 68.
 
-El Secretario General de Acuerdos del Supremo Tribunal de Justicia tendrá las atribuciones y obligaciones siguientes:
-
-I.- Dar cuenta de los asuntos pendientes de estudio y resolución;
-
-II.- Asentar las actas correspondientes a cada sesión plenaria, consignando en ellas todo aquello que oficialmente se relacione con la misma, incluso las proposiciones particulares que hagan los Magistrados y el acuerdo que se tome; debiendo recoger en dichas actas, previa lectura y aprobación, las firmas de los Magistrados;
-
-III.- Ser conducto entre el Supremo Tribunal de Justicia o el Presidente del mismo y los Jueces o los particulares;
-
-IV.- Dar fe de los actos del Pleno del Supremo Tribunal de Justicia;
-
-V.- Abrir la correspondencia y dar cuenta inmediata al Presidente, con preferencia de aquellos asuntos que por su naturaleza requieran un acuerdo extraordinario;
-
-VI.- Firmar la correspondencia que se dirija a los tribunales inferiores y a los particulares;
-
-VII.- Certificar con su firma las copias cuya expedición acuerde el Supremo Tribunal de Justicia o el Presidente, en los asuntos de su respectiva competencia;
-
-VIII.- Ejercer las funciones de Secretario de Sala, respecto de los asuntos en los que le toque actuar como Secretario del Magistrado Presidente;
-
-IX.- Revisar que los expedientes y testimonios que recibe para substanciar el recurso de apelación sean legibles y que se hayan cumplido todas las formalidades antes de ser enviados por los Juzgados de origen; y,
-
-X.- Las demás funciones que le encomiende esta ley y las procesales respectivas.
+Las resoluciones y acuerdos de la Contraloría General y la dependencia o Entidad, durante el procedimiento a que se refiere este capítulo, constarán por escrito y se asentarán en el registro respectivo, que comprenderá las secciones correspondientes a los procedimientos disciplinarios y a las sanciones impuestas, entre ellas, en todo caso, las de inhabilitación.
 
 ### CAPITULO VIII. DE LOS PRESIDENTES DE DEBATES
 
 ###### ARTICULO 69.
 
-El Secretario General de Acuerdos será auxiliado en sus funciones por dos Subsecretarios que deberán reunir los mismos requisitos, y contará además con el personal de apoyo necesario que determine el Pleno del Supremo Tribunal de Justicia.
+Los sujetos sancionados podrán interponer los siguientes recursos:
+
+I.- El de revocación ante la autoridad que dictó la resolución; y
+
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 1989)</small>
+
+II.- Juicio de Nulidad ante el Tribunal de lo Contencioso Administrativo del Estado.
+
+Ambos recursos deberán interponerse, ante quien deba conocer de ellos, dentro de los quince días naturales siguientes a la fecha en que surta efectos la notificación de la resolución recurrida.
+
+Las resoluciones revocatorias o anulatorias dictadas con motivo de la interposición de recurso o juicio, tendrán el efecto de restituir al servidor público en el goce de los derechos de que hubiese sido privado por la ejecución de la sanción, sin perjuicio de lo que establecen otras leyes. Iguales efectos tendrán en lo procedente, las que modifiquen en parte la resolución.
 
 ###### ARTICULO 70.
 
-Para ser Secretario General de Acuerdos, Subsecretario General de Acuerdos, Secretario de Acuerdos de Sala Colegiada de Sala Unitaria o Secretario Proyectista de Sala o de Juzgado, se requiere:
-
-I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
-
-II.- Tener veinticinco años, cuando menos, el día de su designación;
-
-III.- Ser Licenciado en Derecho o su equivalente, con título registrado en el Supremo Tribunal de Justicia;
-
-IV.- Tener práctica profesional de tres años cuando menos, contados a partir de la obtención de la licenciatura para ejercer la profesión;
-
-V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena; y,
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-VI.- Aprobar el examen de conocimientos que al efecto formule el Centro de Actualización Jurídica e Investigación Procesal. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+El servidor público podrá optar entre interponer, indistintamente, el recurso de revocación o el juicio de nulidad; pero intentado este último ya no procederá la revocación.
 
 ###### ARTICULO 71.
 
-Los Secretarios de Acuerdos de Sala tendrán las siguientes obligaciones y atribuciones:
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-I.- Dar cuenta, dentro de las veinticuatro horas siguientes a su recepción, de los negocios asignados a su Sala y de los escritos que los interesados presenten;
-
-II.- Vigilar, bajo su responsabilidad, que se despachen los asuntos dentro de los términos de ley, asentando las constancias respectivas en autos;
-
-III.- Llevar los libros de registro y los que sean necesarios para el mejor servicio y cuidar que se siga un orden conveniente respecto al archivo de los expedientes, de manera que estos puedan ser consultados de manera conveniente;
-
-IV.- Vigilar la conducta de los empleados subalternos, dando cuenta inmediata al Magistrado respecto de las faltas que observe;
-
-V.- Certificar con su firma las copias cuya expedición se acuerde por el Magistrado;
-
-VI.- Dar fe y refrendar con su firma las resoluciones que se dicten por el Magistrado;
-
-VII.- Dar cuenta inmediata de las resoluciones que por su urgencia así lo ameriten; y,
-
-VIII.- Las demás que les confiera la ley, el Pleno del Supremo Tribunal de Justicia, su Presidente, o el Magistrado a cuya Sala esté adscrito.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 2007)</small>
+La interposición del recurso o del juicio suspenderá los efectos de la resolución, por lo que hace a las sanciones económicas que señale y tratándose de otras sanciones, sólo procederán si dicha suspensión no trae como consecuencia la consumación o continuación de actos u omisiones que perjudiquen al interés social o al servicio público.
 
 ###### ARTICULO 72.
 
-El Supremo Tribunal de Justicia tendrá Secretarios Proyectistas adscritos a la Presidencia, a las Salas y a los Juzgados, que serán designados por el Pleno a propuesta del Presidente, en relación con el trabajo de su área; por los Magistrados, para sus respectivas Salas; y por los Jueces, para sus correspondientes Juzgados. La función de los Secretarios Proyectistas será elaborar los proyectos de resolución o realizar cualquier otra función pertinente que su superior inmediato ordene.
+La tramitación del recurso o del juicio se sujetará a las normas siguientes:
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+I.- El recurso de revocación:
+
+a).- Se iniciará mediante escrito, en el que deberán expresarse los agravios que a juicio del servidor público le cause la resolución, acompañando copia de ésta y constancia de la notificación de la misma, así como el ofrecimiento de las pruebas que considere necesario rendir;
+
+b).- La autoridad acordará sobre la admisibilidad del recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se base la resolución;
+
+c).- Las pruebas admitidas se desahogarán en un plazo de cinco días, que a solicitud del servidor público o de la autoridad, podrá ampliarse una sola vez por cinco días más;
+
+d).- Concluido el período probatorio, en un término de cinco días, la autoridad deberá escuchar personalmente, los alegatos que quiera hacer el servidor público, al que se deberá citar para el efecto, señalándole el día y la hora en que será recibido;
+
+e).- En la audiencia a que se refiere el inciso anterior, la autoridad emitirá resolución o dentro de los tres días siguientes, notificándolo personalmente al interesado.
+
+II.- El Juicio de Nulidad, seguirá el trámite que tiene señalado la Ley de la materia.
+
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 1989)</small>
 
 ###### ARTICULO 73.
 
-El Pleno del Supremo Tribunal de Justicia podrá adscribir libremente a los Secretarios Proyectistas a la Presidencia o a las Salas, según lo estime conveniente y podrá comisionarlos a cualquiera de los Juzgados de Primera Instancia del Estado, cuando la carga de trabajo así lo amerite o cuando la ausencia prolongada de un Juez pueda originar demora en las resoluciones judiciales.
+La resolución que se dicte en el Recurso de Revocación será también impugnable mediante el Juicio de Nulidad ante el Tribunal de lo Contencioso Administrativo del Estado.
 
 ###### ARTICULO 74.
 
-El Supremo Tribunal de Justicia contará con Actuarios adscritos al Pleno, a la Presidencia y a las Salas; y los Juzgados podrán tener, para el cumplimiento de sus funciones, el o los Actuarios que determine el Pleno del Supremo Tribunal de Justicia.
+La ejecución de las sanciones administrativas impuestas por resolución firme, se llevará a cabo de inmediato en los términos que la misma disponga. La suspensión, destitución o inhabilitación que se impongan a los servidores públicos de confianza, surtirán efectos al notificarse personalmente la resolución y se considerarán de orden público.
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+Tratándose de los servidores públicos de base, la suspensión y la destitución se sujetarán a lo previsto en la Ley de la materia.
 
-Para ser actuario se requiere cumplir los requisitos establecidos en el artículo 70 de esta ley.
+Las sanciones económicas que se impongan constituirán créditos fiscales a favor del Erario Estatal, según corresponda, se harán efectivas mediante el procedimiento económico coactivo de ejecución, tendrán la prelación prevista para dichos créditos y se sujetarán en todo a las disposiciones fiscales aplicables a esta materia.
 
 ### CAPITULO IX. DEL JURADO DE CIUDADANOS
 
@@ -1309,79 +743,39 @@ Para ser actuario se requiere cumplir los requisitos establecidos en el artícul
 
 ###### ARTICULO 75.
 
-Los Actuarios de las diversas dependencias del Poder Judicial tendrán las siguientes atribuciones y obligaciones:
+Si el servidor público presunto responsable confesare su responsabilidad por el incumplimiento de las obligaciones a que hace referencia la presente Ley, se procederá de inmediato a dictar resolución, a no ser que quien conoce del procedimiento disponga la recepción de pruebas para acreditar la veracidad de la confesión o el monto de los daños y perjuicios causados. En caso de que se acepte la plena validez probatoria de la confesión, se impondrá al interesado dos tercios de la sanción aplicable, si es de naturaleza económica, pero en lo que respecta a indemnización, ésta en todo caso deberá ser suficiente para cubrir los daños y perjuicios causados, y siempre deberá restituirse cualquier bien o producto que se hubiere percibido con motivo de la infracción. Quedará a juicio de quien resuelve disponer o no la suspensión, separación o inhabilitación.
 
-I.- Recibir de los Secretarios de Acuerdos los expedientes con notificaciones personales u otras diligencias que deben llevarse a cabo fuera de la oficina, firmando las constancias respectivas;
-
-II.- Hacer las notificaciones personales y practicar las diligencias que se ordenen, dentro de las horas hábiles del día, y devolver los expedientes con el acta circunstanciada de la diligencia, haciendo previamente las anotaciones en el libro respectivo;
-
-III.- Ejecutar las determinaciones cuando para ello sea necesaria su intervención, limitándose estrictamente a los términos del mandamiento respectivo;
-
-IV.- Levantar, al momento de la diligencia, las actas correspondientes, y agregarlas al expediente, haciendo constar en ellas todos los incidentes de la diligencia y las razones que en contra de ésta le expongan los interesados, sin suspenderla por ningún motivo, salvo los casos expresamente previstos por la ley, debiendo en todo caso dar cuenta sin demora al Juez; y,
-
-V.- Las demás que les confieran la ley, el Pleno del Supremo Tribunal de Justicia, su Presidente, el Magistrado de la Sala a que esté adscrito o, en su caso, el Juez.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 76.
 
-En los distritos en que existan dos o mas Juzgados de la misma materia se establecerá una Central de Actuarios, que deberá organizar el turno de las diligencias de manera aleatoria y llevará un control de las notificaciones realizadas por los Actuarios, así como de los gastos de conducción. Su organización deberá preverse en el reglamento correspondiente.
+Para el cumplimiento de las atribuciones que le confiere esta Ley, la Contraloría General y el superior jerárquico podrán emplear los siguientes medios de apremio:
+
+I.- Sanción económica de hasta veinte veces el salario mínimo diario en la zona económica donde reside el servidor público; y
+
+II.- Auxilio de la fuerza pública.
+
+Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la legislación penal.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 77.
 
-Son atribuciones y obligaciones de los Secretarios de Acuerdos de los Juzgados:
+Las facultades del superior jerárquico y de la Contraloría General para imponer las sanciones que esta Ley prevé, prescribirán en tres años.
 
-I.- Recibir los escritos que se les presenten, asentando al calce la razón del día y hora de la recepción, de las fojas que contengan y de los documentos que se acompañen; asimismo deberán poner razón idéntica en la copia, cuando se exhiba, la que sellada y firmada se devolverá al interesado;
+## TITULO CUARTO
 
-II.- Dar cuenta diariamente al Juez bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a la de la presentación, de todos los escritos y promociones de los interesados, así como de los oficios y demás documentos que se reciban en el Juzgado;
+### CAPITULO UNICO
 
-III.- Llevar los libros en que se asentará el movimiento de los negocios del Juzgado;
+REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS.
 
-IV.- Tener a su cargo, bajo su responsabilidad, los libros pertenecientes a la oficina;
-
-V.- Autorizar las resoluciones, exhortos, despachos y diligencias que se practiquen, dicten y firmen por el Juez;
-
-VI.- Expedir las copias certificadas que la ley determine o deban darse a las partes en virtud de mandamiento judicial;
-
-VII.- Cuidar que los expedientes sean debidamente foliados al agregarse cada una de las hojas, sellando y rubricando al margen, por sí mismo, las actuaciones, oficios y demás documentos que lo requieran;
-
-VIII.- Cuidar que en el archivo del Juzgado se conserven escrupulosamente los expedientes, inventariándolos y autorizar su consulta a los interesados;
-
-IX.- Igualmente, autorizar el envío de expedientes al Archivo Judicial o al superior, en su caso, y entregarlos con las formalidades legales cuando deba tener lugar la remisión;
-
-X.- Practicar notificaciones personales en el local del Juzgado;
-
-XI.- Realizar las notificaciones personales y diligencias, en auxilio de los actuarios, en los casos que el Juez así lo determine;
-
-XII.- Asentar en los expedientes las certificaciones, constancias y demás razones que prevenga la ley o el Juez ordene;
-
-XIII.- Asistir a las diligencias de prueba que deba recibir el Juez;
-
-XIV.- Guardar en el secreto del Juzgado los valores, pliegos, escritos y documentos, cuando así lo disponga la ley o lo ordene el Juez;
-
-XV.- Despachar sin demora los asuntos y correspondencia del Juzgado;
-
-XVI.- Conservar en su poder el sello del Juzgado;
-
-XVII.- Suplir al Juez en sus ausencias temporales y en las definitivas, hasta en tanto el Supremo Tribunal de Justicia haga una nueva designación;
-
-XVIII.- Vigilar la conducta de los empleados subalternos, dando cuenta inmediata al Juez respecto de las faltas que observe;
-
-XIX.- Ejercer, bajo su responsabilidad, la vigilancia que sea necesaria en la oficina para evitar la pérdida de los expedientes o documentos que obren en los mismos;
-
-XX.- Asumir el carácter de jefe inmediato administrativo del Juzgado, y dirigir las labores internas de la oficina de acuerdo con las instrucciones del Juez; y,
-
-XXI.- Las demás que les confiera esta ley o los demás ordenamientos legales, el Pleno del Supremo Tribunal de Justicia, su Presidente o el Juez.
-
-## TITULO CUARTO. DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL
-
-### CAPITULO VI. DE LOS JUZGADOS DE PRIMERA INSTANCIA
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 78.
 
-Los Magistrados del Supremo Tribunal de Justicia serán designados en la forma prevista por el artículo 109 de la Constitución Política del Estado.
+La Contraloría General del Estado, llevará el registro de la situación patrimonial de los servidores públicos de conformidad con esta Ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE MAYO DE 1990)</small>
 
 ### CAPITULO XI. DE LOS SECRETARIOS DE ACUERDOS DE SALA
 
@@ -1389,63 +783,77 @@ Los Magistrados del Supremo Tribunal de Justicia serán designados en la forma p
 
 ###### ARTICULO 79.
 
-Los Jueces de Primera Instancia, los Jueces Menores y los Jueces de Paz serán nombrados por el Pleno del Supremo Tribunal de Justicia.
+Tienen la obligación de presentar declaración anual de situación patrimonial ante la Contraloría General del Estado, bajo protesta de decir verdad:
+
+> <small>(REFORMADA, G.O. 24 DE AGOSTO DE 1985)</small>
+
+I.- En el Poder Legislativo del Estado: Los Diputados, el Oficial Mayor, el Director de Contaduría y Glosa, el Director de Asuntos Jurídicos y los auditores;
+
+> <small>(REFORMADA, G.O. 29 DE MAYO DE 1990)</small>
+
+II.- En el Poder Ejecutivo Estatal: Todos los servidores públicos, desde el nivel de Jefes de Departamento hasta el Gobernador del Estado y en general todos los que manejen fondos públicos, además de los previstos en las fracciones IV, VI, VII y VIII de este artículo;
+
+III.- En la Administración Pública Paraestatal: Directores generales, gerentes generales, subdirectores generales, subgerentes generales, directores, gerentes, subdirectores y servidores públicos equivalentes de los órganos descentralizados o desconcentrados, empresas de participación estatal mayoritaria y sociedades y asociaciones asimiladas y fideicomisos públicos;
+
+> <small>(REFORMADA, G.O. 29 DE MAYO DE 1990)</small>
+
+IV.- En la Procuraduría General de Justicia del Estado: Todos los funcionarios desde Jefes de Departamento, Directores Generales, Subprocuradores, hasta el Procurador General de Justicia, incluyendo a los Agentes del Ministerio Público, Secretarios, Peritos y Agentes de la Policía Judicial;
+
+> <small>(REFORMADA, G.O. 29 DE MAYO DE 1990)</small>
+
+V.- En el Poder Judicial del Estado: Los Magistrados, los Jueces de Primera Instancia y los Jueces Menores, así como el Secretario del Tribunal y los Secretarios de las Salas y de los Juzgados de Primera Instancia y Menores;
+
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 1989)</small>
+
+VI.- En el Tribunal de lo Contencioso Administrativo del Estado, los Magistrados y Secretarios;
+
+VII.- En los Tribunales del Trabajo: Los miembros de Junta y Secretarios; y
+
+> <small>(REFORMADA, G.O. 29 DE MAYO DE 1990)</small>
+
+VIII.- El personal de confianza que preste servicios de asesoría, de carácter profesional o técnico y sus equivalentes.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
+
+Asimismo, deberán presentar la declaración de la que se trata en este precepto los demás servidores públicos que determinen la Legislatura la Contraloría General del Estado y el Presidente del Tribunal Superior de Justicia, mediante disposiciones generales debidamente motivadas y fundadas.
 
 ###### ARTICULO 80.
 
-Los Jueces de Primera Instancia durarán en su cargo tres años, pudiendo ser ratificados por períodos iguales.
+La declaración de situación patrimonial deberá presentarse en los siguientes plazos:
 
-Serán inamovibles una vez que sean ratificados por segunda ocasión, habiendo cumplido seis años ininterrumpidos en el ejercicio de su encargo, de tal manera que únicamente podrán ser separados del mismo en los términos del artículo 95 de la presente ley.
+I.- Dentro de los sesenta días naturales siguientes a la toma de posesión;
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+II.- Dentro de los treinta días naturales siguientes a la conclusión del encargo; y
+
+III.- Durante el mes de mayo de cada año deberá presentarse la declaración de situación patrimonial, acompañada, en su caso, de una copia de la declaración anual presentada por personas físicas para los efectos de la Ley del Impuesto Sobre la Renta, salvo que en ese mismo año se hubiese presentado la declaración a que se refiere la fracción I.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
+
+Si transcurrido el plazo a que hace referencia la fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efectos el nombramiento respectivo previa declaración de la Contraloría General del Estado. Lo mismo ocurrirá cuando se omita la declaración contemplada en la fracción III. Cuando se trate de Diputados, Magistrados del Tribunal Superior de Justicia o del Tribunal de lo Contencioso Administrativo, se requerirá además la declaración de la Legislatura del Estado, y en ese caso se considerará suspendido de su cargo hasta que cumpla con la declaración.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 81.
 
-Sin perjuicio de lo dispuesto en la Constitución Política del Estado y, en esta propia ley, en cuanto a la designación de los servidores públicos del Poder Judicial, se establece en el Estado la Carrera Judicial, la que se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+La Contraloría General del Estado, expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que indiquen lo que es obligatorio declarar.
 
 ###### ARTICULO 82.
 
-En todo lo referente a servidores públicos judiciales, las vacantes definitivas, las provisionales con duración mayor de treinta días y los puestos de nueva creación, serán ocupadas por quienes se encuentren en la categoría escalafonaria que corresponda, tomando en cuenta su aptitud, antigüedad, servicios prestados y cumplimiento en su función.
+En la declaración inicial y final de situación patrimonial se manifestarán los bienes muebles e inmuebles, con la fecha y valor de adquisición y valor actual comercial a juicio del declarante.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+En las declaraciones anuales se manifestarán sólo las modificaciones al patrimonio, con fecha y valor de adquisición. En todo caso se indicará el medio por el que se hizo la adquisición.
 
-Los nombramientos de servidores públicos judiciales se extenderán a favor de personas letradas, con capacidad y honestidad relevantes que justifiquen la continuidad en el cargo y que acrediten haber cursado y aprobado los programas implementados por el Centro de Actualización Jurídica e Investigación Procesal, así como obtener calificación aprobatoria y haber sido seleccionados en el examen de méritos para el cargo.
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
 
-Se procurará que en la designación se siga el escalafón conforme al siguiente orden de categorías, sin menoscabo de la mejor capacidad, cualidades personales y morales de quienes no estén ubicados en el mismo:
+Tratándose de bienes muebles, valores, inversiones o bienes preciosos, la Contraloría General decidirá mediante acuerdo general, las características que deba tener la declaración.
 
-I.- Magistrados al Supremo Tribunal de Justicia;
-
-II.- Jueces de Primera Instancia;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-III.- Secretario General de Acuerdos del Supremo Tribunal de Justicia, Secretarios de Acuerdos de las Salas Colegiadas y Unitarias, Secretarios Proyectistas y Actuarios del mismo tribunal;
-
-IV.- Jueces Menores;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-V.- Jueces de Paz;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-VI.- Subsecretario de Acuerdos del Supremo Tribunal de Justicia;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-VII.- Secretarios de Acuerdos, Secretarios Proyectistas y Actuarios de los Juzgados de Primera Instancia;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-VIII.- Secretarios y Actuarios de los Juzgados Menores y de Paz; y,
-
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-IX.- Oficiales Judiciales.
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 83.
 
-En el supuesto de que no se cuente con la persona idónea se designará a quien, aún cuando no preste sus servicios en la judicatura, lo haya hecho con anterioridad con eficiencia y probidad que consten en su expediente laboral, o por personas que sean merecedoras de la designación por su honorabilidad, competencia y antecedentes, y que en todo caso haya aprobado satisfactoriamente el examen de méritos para el cargo.
+Cuando se trate de los servidores públicos indicados en las fracciones I y V del artículo 79 de esta Ley, la Contraloría General del Estado, enviará original al poder respectivo de todas las declaraciones de situación patrimonial que presenten dichos servidores, conservando copia en el registro correspondiente.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
 
 ### CAPITULO XII. DE LOS SECRETARIOS PROYECTISTAS
 
@@ -1467,33 +875,43 @@ DE LAS DEPENDENCIAS ADMINISTRATIVAS Y TECNICAS DEL PODER JUDICIAL DEL ESTADO.
 
 ###### ARTICULO 84.
 
-Los nombramientos de los servidores públicos podrán ser impugnados por escrito ante el Pleno del Supremo Tribunal de Justicia dentro de los diez días siguientes en que hayan sido hechos, por quien se considere con mayor derecho al cargo. Del escrito de inconformidad se dará vista al servidor designado para que exprese lo que a sus intereses convenga en un término que no exceda de tres días; la resolución que corresponda se dictará en los siete días siguientes al en que concluya la vista precisada a la persona que fue nombrada.
+Cuando la Contraloría General, con base en las declaraciones de situación patrimonial o cualquier otro documento del que conozca en razón de sus funciones o por queja, encontrara diferencia notoria en el patrimonio de un servidor público, requerirá a éste, para que exponga lo que en derecho le convenga. Si como consecuencia, resultare la posible comisión del delito de enriquecimiento ilícito, el Contralor General dará cuenta al Gobernador del Estado, y lo comunicará al Procurador General de Justicia, para el ejercicio de sus atribuciones. Cuando se trate de Diputados, Magistrados del Tribunal Superior de Justicia o del Tribunal de lo Contencioso Administrativo, lo comunicará además a la Legislatura, para que acuerde lo procedente.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+En el cumplimiento de este artículo, el Contralor General, remitirá el original de los documentos con que cuente a la Procuraduría General de Justicia y copia de ellos al Gobernador del Estado y a la Legislatura, en su caso.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 85.
 
-El Secretario y los Subsecretarios de Acuerdos del Supremo Tribunal, los Secretarios de Acuerdos de Sala, los Secretarios Proyectistas, los Actuarios y los Secretarios de los Juzgados de Primera Instancia, Menores y de Paz, serán designados por el Pleno a propuesta, en su caso, del Presidente del Supremo Tribunal de Justicia, del titular de la Sala o del titular del Juzgado que corresponda.
+Para los efectos del artículo anterior, cuando se trate de Diputados, Magistrados del Tribunal Superior de Justicia o del Tribunal de lo Contencioso Administrativo, la Procuraduría dará cuenta a la Legislatura del Estado, para que acuerde lo que conforme a derecho proceda.
 
 ###### ARTICULO 86.
 
-Toda persona nombrada para desempeñar algún cargo o empleo judicial, deberá protestar cumplir y hacer cumplir, sin limitaciones, la Constitución federal, la del Estado y las leyes secundarias. Comenzará a ejercer las funciones que le correspondan dentro de los cinco días siguientes a la fecha del nombramiento, en el concepto de que quedará sin efecto si no se presenta dentro de este término, salvo que el titular de la Sala o Juzgado, previa solicitud, amplíe el plazo.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+Para los efectos de esta Ley y del Código Penal, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que se acredite que éstos los obtuvieron por sí mismos y por motivos ajenos al servidor público.
 
 ###### ARTICULO 87.
 
-Los Jueces de Primera Instancia, Jueces Menores y Jueces de Paz, otorgarán la protesta de ley ante el Pleno del Supremo Tribunal de Justicia. Los demás servidores públicos de la administración de justicia lo harán ante su respectivo superior jerárquico.
+Durante el desempeño de su empleo, cargo o comisión, y un año después, los servidores públicos no podrán solicitar, aceptar o recibir por sí, o por interpósita persona, dinero o cualquier otra donación, servicio, empleo, cargo o comisión para sí o para las personas a que se refiere la fracción XIII del artículo 46 y que procedan de cualquier persona cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público en el desempeño de su empleo, cargo o comisión, que determinen conflicto de intereses.
+
+Para los efectos del párrafo anterior, no se considerarán los que reciba el servidor público, en una o más ocasiones, de una misma persona física o moral de las mencionadas en el párrafo precedente, durante un año cuando el valor acumulado durante ese año no sea superior a diez veces el salario mínimo diario vigente en la zona económica donde resida el servidor público, en el momento de su recepción.
+
+En ningún caso se podrán recibir de dichas personas títulos, valores, bienes inmuebles o cesiones de derechos sobre juicios o controversias en las que se dirima la titularidad de los derechos de posesión o de propiedad sobre bienes de cualquier clase.
+
+Se castigará como cohecho las conductas de los servidores públicos que violen lo dispuesto en este artículo y serán sancionados en términos de la legislación penal.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
 
 ### CAPITULO II. DE LA RESIDENCIA, VACACIONES Y LICENCIAS
 
 ###### ARTICULO 88.
 
-Los servidores públicos judiciales deben residir en el lugar donde tenga su asiento el tribunal, Sala o Juzgado de su adscripción, excepto en el caso de Municipios conurbados en el que podrán residir en cualquiera de ellos. Sólo podrán ausentarse en días y horas hábiles del distrito judicial que les corresponda, previa licencia que les sea otorgada por el Presidente del Supremo Tribunal de Justicia.
+Si los servidores públicos reciben obsequios, donativos o beneficios en general de los que se mencionan en el artículo anterior y cuyo monto sea superior al que en él se establece o sean de los estrictamente prohibidos, deberán informar de ello a la autoridad que la Contraloría General del Estado determine a fin de ponerlos a su disposición. La autoridad correspondiente llevará un registro de dichos bienes.
 
 ###### ARTICULO 89.
 
-Los servidores públicos judiciales disfrutarán de dos períodos anuales de vacaciones de quince días naturales cada uno, con goce de sueldo. El Supremo Tribunal de Justicia en Pleno fijará las fechas en cada caso. En los Juzgados del Ramo Penal, Mixtos y Menores en relación con dicha materia, el Juez designará al personal de guardia, el cual disfrutará del beneficio en las fechas que al efecto determinará el Pleno del Supremo Tribunal de Justicia.
+(DEROGADO, G.O. 29 DE MAYO DE 1990)
+
+TRANSITORIOS:
 
 ###### ARTICULO 90.
 
@@ -1829,8 +1247,6 @@ I.- Personal; y,
 
 II.- Servicios Generales.
 
-#### SECCION PRIMERA. DEL DEPARTAMENTO DE PERSONAL
-
 ###### ARTICULO 127.
 
 El Departamento de Personal tendrá un titular con el carácter de Jefe, que deberá reunir los requisitos que para ser Secretario General de Acuerdos señala esta ley. Esta dependencia tendrá el personal técnico administrativo y de apoyo que determine el presupuesto.
@@ -1854,8 +1270,6 @@ VI.- Verificar que las actas por incumplimiento de la relación de trabajo de lo
 VII.- Establecer relaciones de coordinación con la organización sindical en beneficio de la administración de justicia; y,
 
 VIII.- Las demás que esta u otra ley le confieran.
-
-#### SECCION SEGUNDA. DEL DEPARTAMENTO DE SERVICIOS GENERALES
 
 ###### ARTICULO 129.
 
@@ -2009,8 +1423,6 @@ El titular de la Dirección Administradora del Fondo informará al Pleno del Sup
 
 ### CAPITULO UNICO. OTRAS DEPENDENCIAS DEL PODER JUDICIAL
 
-#### SECCION PRIMERA. DE LA OFICIALIA DE PARTES
-
 ###### ARTICULO 140.
 
 Los Magistrados designados por el Pleno del Supremo Tribunal de Justicia para ejercer facultades de supervisión y vigilancia, deberán efectuar visitas oportunas a las diversas oficinas recaudadoras y demás instancias encargadas de captar los recursos del Fondo, a fin de constatar los trámites que realicen, y, en su caso, consolidar su eficiencia.
@@ -2147,8 +1559,6 @@ El Pleno del Supremo Tribunal podrá establecer Oficialías de Partes en los dis
 
 Las Oficialías de Partes estarán a cargo de un titular que será nombrado por el Pleno del Supremo Tribunal de Justicia. Deberá tener título de Abogado, con dos años cuando menos de ejercicio profesional, y ser de reconocida solvencia moral.
 
-#### SECCION SEGUNDA. DEL ARCHIVO JUDICIAL
-
 ###### ARTICULO 155.
 
 El Archivo Judicial dependerá de la Secretaría General de Acuerdos, y se integrará con el siguiente personal: Un jefe con título de Abogado, una Secretaria y demás empleados que señale el presupuesto de egresos.
@@ -2209,8 +1619,6 @@ Cualquier defecto, irregularidad o infracción que advierta el Jefe del Archivo 
 
 El reglamento respectivo fijará las atribuciones de los empleados del Archivo Judicial y determinará la forma de los asientos, índices y libros que en la misma oficina deban llevarse. El Presidente del Supremo Tribunal podrá acordar en todo caso las disposiciones que crea convenientes para el buen funcionamiento del Archivo Judicial.
 
-#### SECCION TERCERA. DE LA BIBLIOTECA
-
 ###### ARTICULO 167.
 
 La Biblioteca del Supremo Tribunal de Justicia deberá ocupar un departamento especial del edificio en que resida, y llevará el nombre de "Biblioteca Aniceto Villanueva".
@@ -2242,10 +1650,6 @@ VI.- Llevar una estadística de los lectores asistentes a la biblioteca; y,
 VII.- Las demás que le prescriban las leyes y reglamentos respectivos y los Acuerdos del Supremo Tribunal o de su Presidente.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-#### SECCION CUARTA. DEL CENTRO DE MEDIACION
-
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 171.
 
@@ -2377,10 +1781,6 @@ Todo el personal del área de apoyo psicosocial deberá contar con el título pr
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
-#### SECCION QUINTA. DE LA UNIDAD DE INFORMACION PUBLICA
-
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
 ###### ARTICULO 179.
 
 Las funciones de la Unidad de Información Pública serán:
@@ -2397,35 +1797,21 @@ T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
+La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' órgano del Gobierno del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-Se abroga la Ley Orgánica del Poder Judicial, expedida mediante Decreto número 181 de fecha 25 de mayo de 1988, y publicada en el anexo al Periódico Oficial número 50, del 22 de junio del mismo año, así como la reforma efectuada a la misma a través del Decreto número 334 expedido el día 10 de junio de 1995; asimismo, se abrogan las leyes, y se derogan las disposiciones legales de cualquier ordenamiento, que se opongan a la presente ley.
+Se derogan todas las disposiciones que se opongan a lo dispuesto en esta Ley.
 
 ###### ARTICULO TERCERO.
 
-El inicio de funciones del Segundo Distrito Judicial y de las Centrales de Actuarios a que se refieren los artículos 10 y 76 de esta ley, respectivamente, quedará sujeto al acuerdo plenario que en su oportunidad así lo disponga.
+Todas las dependencias de la Administración Pública Estatal o Paraestatal, designarán en un plazo no mayor de seis meses al responsable, entre tanto, los titulares de las dependencias ejercerán las atribuciones a que se refiere el artículo 49 de esta Ley.
+
+El Tribunal Superior de Justicia y la Legislatura del Estado, establecerán los órganos y sistemas a que hace referencia el artículo 51 en un plazo no mayor de seis meses.
 
 ###### ARTICULO CUARTO.
 
-La recaudación de los montos o depósitos de bienes y valores que deban ingresar al Fondo Auxiliar para la Administración de Justicia se harán directamente ante las oficinas receptoras del mismo, con excepción de aquellos distritos judiciales en que aún no existan, en los cuales la recaudación se seguirá haciendo con el auxilio de las Oficinas Fiscales, las que oportunamente las integrarán al Fondo, en tanto sean creadas oficinas receptoras en dichos distritos.
-
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 13 de diciembre del año 2000.- Diputado Presidente, ING. ERNESTO HOMAR CANTU RESENDEZ.- Rúbrica.- Diputado Secretario, GABRIEL ANAYA FERNÁNDEZ.- Rúbrica Diputado Secretario, VICTOR HUGO MORENO DELGADILLO.- Rúbrica.
-
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los catorce días del mes de Diciembre del año dos mil.
-
-ATENTAMENTE
-
-"SUFRAGIO EFECTIVO. NO REELECCION".
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- EL SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRIGUEZ.- Rúbrica.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 25 DE DICIEMBRE DE 2001.
+Independientemente de las disposiciones que establece la presente Ley, quedan preservados los derechos sindicales de los trabajadores.
 
 ###### ARTICULO CUARTO.
 
@@ -2459,37 +1845,31 @@ G.O. 24 DE AGOSTO DE 1985.
 
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor el día 1o. de enero del año 2002.
+La presente Ley entrará en vigor tres días después de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-Las cuentas públicas relativas al ejercicio fiscal de 2001 y anteriores serán revisadas de acuerdo al procedimiento previsto con anterioridad a la entrada en vigencia del presente Decreto.
+La Subsecretaría de Gobierno del Estado dispondrá de un período de noventa días a partir de la vigencia de esta Ley, para entregar a la Dirección General de Contraloría del Gobierno del Estado la documentación y demás bienes que aquella tenga, con motivo de la aplicación de la Ley número treinta y seis de Responsabilidades de los Servidores Públicos para el Estado.
 
-P.O. DE 3 DE JUNIO DE 2003.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+G.O. 14 DE FEBRERO DE 1989.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 12 DE SEPTIEMBRE DE 2006.
+###### ARTICULO UNICO.
 
-###### ARTÍCULO PRIMERO.
+La presente reforma entrará en vigor a partir del día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
 
-Las reformas a que se contrae el presente Decreto entrarán en vigor a los treinta y cinco días siguientes al de su publicación.
+G.O. 29 DE MAYO DE 1990.
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO PRIMERO.
 
-Los asuntos de naturaleza familiar que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán desahogándose en los Juzgados que sean especializados por acuerdo Plenario, los que a su vez entregarán los de índole patrimonial de que estén conociendo por los de contenido familiar con los Jueces que conserven la competencia civil patrimonial; igual procedimiento se observará en tratándose de los negocios que se encuentren en trámite en la Segunda Instancia.
+La presente Ley entrará en vigor a partir del día siguiente de su publicación en la "Gaceta Oficial" del Estado.
 
-P.O. 13 DE NOVIEMBRE DE 2003.
+###### ARTICULO SEGUNDO.
 
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 15 DE MARZO DE 2006.
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 ###### ARTICULO PRIMERO.
 
@@ -2501,4 +1881,22 @@ Hasta en tanto no se instituya la Sala Especializada en Justicia para Adolescent
 
 ###### ARTICULO TERCERO.
 
-Las investigaciones que se estén integrando con motivo de conductas tipificadas como delitos por las leyes penales atribuídas a adolescentes, se tramitarán conforme a las disposiciones aplicables de este Decreto.
+Los servidores públicos que de conformidad con esta reforma al artículo 79 de la Ley de Responsabilidades de los Servidores Públicos, tengan que presentar por primera ocasión su declaración de situación patrimonial, contarán con un plazo de dos meses para hacerlo, a partir de la iniciación de vigencia de la misma.
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "...Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Veracruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "...del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
