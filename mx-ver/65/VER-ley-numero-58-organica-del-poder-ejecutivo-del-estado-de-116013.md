@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2004-08-10"
+last_updated: "2004-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 58 ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE AGOSTO DE 2004 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2004.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. EL 11 DE AGOSTO DE 2004 NO APLICA A LAS REFORMAS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE PUBLICADAS DEL DECRETO 856 PUBLICADO EN LA G.O. DE 10 DE AGOSTO DE 2004.]</small>
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -1471,7 +1471,7 @@ IV. Cumplir con los demás requerimientos que, de común acuerdo con el fideicom
 
 Los fideicomisos deberán proporcionar a la Secretaría de Finanzas y Planeación y a la Contraloría General, la información y datos que se les soliciten, así como la que les requiera su coordinadora de sector.
 
-Para el cumplimiento de lo anteriormente establecido, la Secretaría de Finanzas y Planeación conjuntamente con la coordinadora de sector, y la Contraloría, harán compatibles los requerimientos de información que se demanden a los fideicomisos, racionalizando los flujos de información.
+Para el cumplimiento de lo anteriormente establecido, la Secretaría de Fianzas y Planeación conjuntamente con la coordinadora de sector, y la Contraloría, harán compatibles los requerimientos de información que se demanden a los fideicomisos, racionalizando los flujos de información.
 
 ### CAPÍTULO IV. DE LA TRANSMISIÓN Y CONTINUIDAD DE LOS ASUNTOS DE LA ADMINISTRACIÓN PÚBLICA
 
