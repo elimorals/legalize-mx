@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-congreso-del-estado-de-morelos-33694"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-27"
-last_updated: "2003-08-27"
+last_updated: "2003-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de agosto de 2003.
 
@@ -609,13 +609,17 @@ Se denominarán Comisiones Ordinarias, las que se constituyan con carácter defi
 
 Las comisiones especiales serán aquellas que se establezcan de manera transitoria, funcionarán en términos de las facultades que el Congreso les otorgue y conocerán específicamente de los hechos que hayan motivado su conformación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 43.
 
-Las Comisiones se integrarán por al menos tres diputados y su composición deberá reflejar en lo posible la conformación política del Congreso. De los diputados que integren las comisiones, uno será el Presidente, otro el Secretario y los demás Vocales; ningún diputado podrá participar en más de tres comisiones.
+Las Comisiones se integrarán por al menos tres diputados y su composición deberá reflejar en lo posible la conformación política del Congreso. De los diputados que integren las comisiones, uno será Presidente, podrán ser hasta dos Secretarios y los vocales que se requieran; ningún diputado podrá participar en más de tres comisiones.
 
 La Presidencia de la Comisión de Hacienda, Presupuesto y Cuenta Pública no podrá ser presidida por el Grupo Parlamentario del partido que haya obtenido la gubernatura del Estado.
 
-Las comisiones serán integradas a propuesta de la Junta de Coordinación Política quien las propondrá mediante la votación de la mayoría calificada a través del voto ponderado, señalando quiénes serán presidente, secretario y vocales, en términos de lo dispuesto por el Reglamento.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2003)</small>
+
+Las comisiones serán integradas a propuesta de la Junta de Coordinación Política, quien las propondrá mediante la votación de la mayoría calificada a través del voto ponderado, señalándose quién será presidente y quiénes secretarios y vocales, en términos de lo dispuesto por el Reglamento.
 
 Dicha propuesta será sometida a la consideración de la Asamblea para su aprobación mediante la votación de las dos terceras partes de sus integrantes, debiendo quedar conformadas a más tardar en la tercera sesión del inicio de la Legislatura.
 
@@ -1266,3 +1270,15 @@ SECRETARIO DE GOBIERNO
 EDUARDO BECERRA PÉREZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE SEPTIEMBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia en la misma fecha de su expedición.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo para los efectos a que se refieren los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
