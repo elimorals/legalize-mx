@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1993-11-08"
+last_updated: "1994-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE NOVIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE MARZO DE 1994.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -1023,7 +1023,7 @@ X. Informar al Congreso por sí, por conducto del Secretario de Gobierno o de la
 
 XI. Nombrar y remover a todos los Funcionarios y empleados dependientes del Ejecutivo, cuyo nombramiento o remoción no corresponda a otra Autoridad.
 
-XII. Ejercitar todas las facultades que consigna el artículo 27 de la Constitución General, siempre que no estén reservadas al Gobierno Federal o concedidas a la autoridad municipal.
+XII. (DEROGADA, B.O. 22 DE MARZO DE 1994)
 
 XIII. En caso de invasión o de conmoción interior, tomar, de acuerdo con el Congreso o la Diputación Permanente, las medidas extraordinarias que sean indispensables para mantener el orden. En el segundo caso pedirá que se convoque inmediatamente al Congreso a sesiones extraordinarias y desde luego dará cuenta a dicha Asamblea del empleo que haya hecho de tales facultades.
 
@@ -2596,6 +2596,10 @@ LEY No. 305, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 22 DE MARZO DE 1994.
+
+UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
