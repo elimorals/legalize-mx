@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2002-02-22"
+last_updated: "2002-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -445,11 +445,11 @@ V.- Clausura.
 
 En caso de traspaso, la manifestación deberá hacerse con diez días de anticipación. No podrá efectuarse éste sin que previamente se compruebe que el establecimiento o negociación está al corriente en el pago de sus obligaciones fiscales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 67.
 
-Los causantes y retenedores de este impuesto están obligados a presentar sus declaraciones y a efectuar su pago en las Oficinas Recaudadoras correspondientes, dentro del período comprendido del día primero al quince de cada mes.
+Los causantes y retenedores de este impuesto estarán obligados a presentar sus declaraciones y a efectuar su pago correspondiente, a más tardar el día veinticinco del mes siguiente a aquel al que corresponda el impuesto causado.
 
 ###### ARTICULO 68.
 
@@ -1011,11 +1011,11 @@ Este impuesto será destinado para la promoción y difusión de la actividad tur
 
 Cuando los servicios a que se refiere el Artículo 127 de esta Ley, se reciban con motivo de los actos jurídicos que realice el prestador del servicio con personas físicas o morales directamente o a través de agencias operadoras mayoristas, agencias de viajes minoristas o empresas de sistemas de intercambio de servicios turísticos y de cualquier tipo con el propósito de dar alojamiento o albergue a terceras personas, se tendrá obligación de enterar el impuesto en el momento en que sean exigibles las contraprestaciones a favor de quien preste los servicios de hospedaje y sobre el monto de los mismos.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 131.
 
-Quienes presten los servidos señalados en este capítulo, tendrán el carácter de retenedores y deberán enterarlo mensualmente en la Recaudación de Rentas correspondiente a su domicilio fiscal, a más tardar dentro del mes siguiente a aquel al que corresponda el impuesto causado, mediante las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado, debiendo constar en la declaración correspondiente, la información y demás datos relativos a los actos y operaciones objeto de este impuesto, que se hayan realizado en el mes inmediato anterior.
+Quienes presten los servicios señalados en este capítulo, tendrán el carácter de retenedores y deberán enterarlo mensualmente, a más tardar el día veinticinco del mes siguiente a aquel al que corresponda el impuesto causado, mediante las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado, debiendo constar en la declaración correspondiente, la información y demás datos relativos a los actos y operaciones objeto de este impuesto, que se hayan realizado en el mes inmediato anterior.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -1393,11 +1393,11 @@ c).- Fortalecer las Comisiones y Consejos de Desarrollo Económico.
 
 No quedan comprendidas dentro de las remuneraciones objeto del impuesto, las prestaciones de previsión social como los vales de despensa entre otras, las participaciones de los trabajadores en las utilidades de las empresas, ni las indemnizaciones por terminación de la relación laboral.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 151
 
-19.- Este Impuesto se enterará en efectivo mediante declaración que presentarán los contribuyentes o responsables solidarios según sea el caso, ante la oficina Receptora de su jurisdicción a más tardar dentro del mes siguiente al período correspondiente en que hagan o reciban los pagos base del gravamen, o en los meses de abril, julio, octubre y enero del año siguiente, tratándose de pagos trimestrales.
+19.- Este Impuesto se enterará en efectivo mediante declaración que presentarán los contribuyentes o responsables solidarios según sea el caso, a más tardar los días veinticinco, del mes siguiente al período correspondiente en que hagan o reciban los pagos base del gravamen, o de los meses de abril, julio, octubre y enero del año siguiente, tratándose de pagos trimestrales.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
@@ -1717,9 +1717,9 @@ Tratándose de las personas que organicen juegos con apuestas permitidas se cons
 
 13.- Los contribuyentes a que se refiere el Primer Párrafo del Artículo 156-8, tendrán las siguientes obligaciones:
 
-> <small>(ADICIONADA, P.O. 10 DE ENERO DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-I.- Presentar declaraciones mensuales a más tardar dentro de los 10 días siguientes de cada mes, por los ingresos obtenidos en el mes inmediato anterior.
+I.- Presentar declaraciones mensuales a más tardar el día veinticinco del mes siguiente a aquel al que corresponda el impuesto causado.
 
 > <small>(ADICIONADA, P.O. 10 DE ENERO DE 1992)</small>
 
@@ -1748,6 +1748,84 @@ VI.- Proporcionar, cuando así lo solicite el interesado, constancia de retenci�
 ###### ARTICULO 156
 
 14.- Quienes celebren loterías, rifas, sorteos, juegos permitidos con apuestas y concursos de toda clase en forma accidental por los que deban pagar el impuesto en los términos de este Capítulo, presentarán declaraciones en las oficinas autorizadas dentro de los cinco días siguientes a aquel en que se celebren dichos eventos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 156
+
+15.- Es objeto de este impuesto, la emisión a la atmósfera de gases de monóxido de carbono generada por fuentes fijas a través de operaciones o procesos industriales, comerciales o de servicios, en los que se utilicen combustibles fósiles, o combustibles asociados o derivados de éstos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 156
+
+16.- Son sujetos de este impuesto las personas físicas o morales, que a través de fuentes fijas situadas en territorio del Estado de Baja California, emitan gases de monóxido de carbono a la atmósfera, como resultado de operaciones o procesos industriales, comerciales o de servicios, en el que se utilicen los combustibles a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 156
+
+17.- La base de este impuesto, será la emisión mensual de gases de monóxido de carbono a la atmósfera, en relación directa con el combustible utilizado en las operaciones o procesos a que se refiere el artículo 156-15 de esta Ley.
+
+Dicha base se obtendrá, multiplicando la cantidad de combustible utilizado en el proceso respectivo, por el factor de emisión que corresponda de acuerdo a la tabla, que para dicho fin se establezca en la Ley de Ingresos del Estado.
+
+En caso de que la fuente fija emplee mas de un tipo de combustible o de proceso, de los señalados en el artículo 156-15 de esta Ley, se determinará la base de este impuesto, aplicando el procedimiento del párrafo anterior por cada combustible o proceso utilizado.
+
+Los contribuyentes de este impuesto, podrán optar por determinar como base de la presente contribución, la emisión mensual de monóxido de carbono medido, de acuerdo al procedimiento que establezca la Secretaría de Planeación y Finanzas del Estado y la Dirección General de Ecología del Estado, mediante reglas de carácter general.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 156
+
+18.- El impuesto mensual a pagar, será el que resulte de sumar las cantidades obtenidas de la multiplicación escalonada de la base del impuesto expresada en toneladas, por cada una de las tarifas de los rangos que correspondan, de acuerdo a lo siguiente:
+
+BASE TARIFA
+
+a) Hasta 0.010 toneladas 0
+
+b) Mayor de 0.010 y hasta 0.10 toneladas 18
+
+c) Mayor de 0.10 toneladas 10.749
+
+Para efectos del inciso c) de este artículo, el importe correspondiente a la base del impuesto, deberá elevarse a la potencia de 0.7943 antes de multiplicarse por la tarifa respectiva.
+
+Las cantidades que resulten de las operaciones señaladas anteriormente, se entenderán expresadas en miles de pesos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 156
+
+19.- Este impuesto se enterará mensualmente, mediante las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado, y que presentarán los contribuyentes a más tardar el día veinticinco del mes siguiente al período de que se trate.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 156
+
+20.- Son obligaciones a cargo de los sujetos de este impuesto, además de las señaladas en los ordenamientos fiscales estatales, las siguientes:
+
+I.- Registrarse como sujeto de este impuesto ante la Recaudación de Rentas del Estado cuya jurisdicción corresponda a su domicilio fiscal.
+
+II.- Conservar en su domicilio fiscal a disposición de la Secretaría de Planeación y Finanzas del Estado y Dirección General de Ecología del Estado, por un período mínimo de cinco años, su Registro como fuente emisora ante la Dirección General de Ecología del Estado y en su caso Licencia Ambiental Única de la Secretaría del Medio Ambiente y Recursos Naturales; la documentación en donde conste el procedimiento que se llevó a cabo para determinar el impuesto y la información mensual de emisiones de Monóxido de Carbono, así como la memoria técnica de la determinación de las emisiones generadas durante el periodo declarado, y los volúmenes de los diferentes combustibles utilizados, incluyendo el balance de materia y energía y la descripción técnica de los factores de emisión aplicados.
+
+III.- Manifestar, en la primera declaración a que se encuentren obligados como sujetos de este impuesto, y en las declaraciones correspondientes a los meses de enero de cada ejercicio fiscal, el procedimiento que utilizarán en el ejercicio correspondiente, para la determinación de la base de esta contribución, mismo que no podrá variar durante dicho ejercicio.
+
+IV.- Presentar la declaración mensual del impuesto, en términos del artículo 156-19 de la presente ley.
+
+V.- Los contribuyentes que opten por determinar el impuesto en términos del último párrafo del artículo 156-17 de esta Ley, deberán anexar copias de los resultados de los monitoreos efectuados durante el período declarado, de acuerdo a las reglas de carácter general que para el efecto se establezcan.
+
+VI.- Facilitar las visitas de inspección, y proporcionar a las autoridades fiscales o a la Dirección General de Ecología del Estado, todos los informes, bitácoras y documentos que soliciten para la verificación del debido cumplimiento de las presentes disposiciones.
+
+Los hechos, datos o irregularidades que consten en el dictamen que emita la Dirección General de Ecología del Estado, en base a los informes, bitácoras o documentos solicitados en términos de la presente fracción, podrán servir para motivar las resoluciones que emita la Secretaría de Planeación y Finanzas del Estado, como resultado de los procedimientos de verificación del cumplimiento de las obligaciones fiscales previstas en el presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 156
+
+21.- Los ingresos que se obtengan de este impuesto, se destinarán en un 10% al Fondo Ambiental a que se refiere el Artículo 39 de la Ley de Protección al Ambiente para el Estado de Baja California, cuyo objeto es fortalecer la capacidad de gestión de la autoridad ambiental estatal en lo general, y la del seguimiento técnico y de validación de la estimación de las emisiones generadas por los contribuyentes en lo particular, y el importe restante se destinará para llevar a cabo obras de infraestructura enfocadas a la disminución de la contaminación en el Estado.
+
+### CAPITULO XX. Impuesto Ambiental
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ## TITULO III. DERECHOS
 
@@ -2252,3 +2330,21 @@ P.O. 22 DE FEBRERO DE 2002.
 ###### ARTICULO UNICO.
 
 La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 31 DE DICIEMBRE DE 2002.
+
+DECRETO NUMERO 133.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas, entrarán en vigor el día primero de enero del dos mil tres.
+
+###### ARTICULO SEGUNDO.
+
+El entero de los impuestos que se causen hasta el mes de diciembre del ejercicio fiscal del 2002, y cuyo plazo se modifica en el presente Decreto, deberá efectuarse en términos de las disposiciones legales que se encontraban vigentes al momento de su causación.
+
+P.O. 31 DE DICIEMBRE DE 2002.
+
+DECRETO NUMERO 144.
+
+UNICO.- La presente adición entrará en vigor el día primero de Enero del año dos mil tres.
