@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-universidad-autonoma-de-aguascalientes-3222"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1974-02-24"
-last_updated: "1974-02-24"
+last_updated: "1977-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1977.
 
 Ley publicada en el Suplemento al No. 8 del Periódico Oficial del Estado de Aguascalientes, el 24 de febrero de 1974.
 
@@ -209,7 +209,9 @@ El Rector para el cumplimiento de sus funciones, será auxiliado por los Directo
 
 Los Consejos de Representantes de los Centros estarán integrados por el Decano, dos Representantes de los Profesores y dos Representantes de los Alumnos por cada una de las carreras a nivel de licenciatura y un Representante del Profesorado y un Representante del Alumnado, por cada carrera a nivel medio de los respectivos Centros.
 
-La Representación del Bachillerato al Centro que corresponda, se integrará por dos Representantes de los Profesores y dos Representantes de los Alumnos. La Representación de la Secundaria al Centro que corresponda, se integrará por un Representante de los Profesores y un Representante de los Alumnos.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1977)</small>
+
+La Representación del Bachillerato al Centro que corresponda, se integrará por tres Representantes de los Profesores y tres Representantes de los Alumnos. La Representación de la Secundaria al Centro que corresponda, se integrará por tres Representantes de los Profesores y tres Representantes de los Alumnos.
 
 El Estatuto determinará los requisitos para ser electo Representante de los Profesores o de los Alumnos, así como los procedimientos para su elección.
 
@@ -346,3 +348,9 @@ Francisco Guel Jiménez.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Miguel G. Aguayo.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE ENERO DE 1977.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
