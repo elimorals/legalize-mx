@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-de-la-ley-de-educacion-preparatoria-del-estado-3832"
 country: "mx"
 rank: "reglamento"
 publication_date: "1943-05-27"
-last_updated: "1943-05-27"
+last_updated: "1944-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO DE LA LEY DE EDUCACION PREPARATORIA DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1944.
 
 Reglamento publicado en la Segunda Sección de Periódico Oficial del Estado de Campeche, el jueves 27 de mayo de 1943.
 
@@ -753,9 +753,11 @@ Los exámenes ordinarios se celebrarán por un Jurado integrado por tres o cinco
 
 Los exámenes ordinarios serán por asignaturas y por grupos o secciones de cuatro a seis sustentantes, o individualmente, debiendo durar el tiempo que el jurado determine hasta quedar probada la capacidad o incapacidad de cada sustentante.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1944)</small>
+
 ###### Art. 73.
 
-No se celebrarán exámenes parciales ni ordinarios de educación física y preliminar.
+No se celebrarán exámenes de educación física.
 
 ###### Art. 74.
 
@@ -1368,3 +1370,9 @@ Segundo.- Se abroga el Reglamento de la Ley de Educación Secundaria y Preparato
 Publíquese para su cumplimiento.
 
 Dado en el Palacio de Poder Ejecutivo del Estado, en Campeche a los trece días del mes de mayo de mil novecientos cuarenta y tres. El Gobernador Constitucional del Estado, Dr. Héctor Pérez Martínez. El Secretario General de Gobierno, Lic. Joaquín Rodríguez R.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE DICIEMBRE DE 1944.
+
+UNICO.- El presente decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
