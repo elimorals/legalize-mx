@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2005-01-19"
+last_updated: "2005-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2005.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1649,7 +1649,7 @@ N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACIO
 
 N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
 
-152.- Quedan exceptuados del impuestos los tenedores y los usuarios de los vehículos a que se refieren las siguientes fracciones:
+152.- Quedan exceptuados del impuestos (sic) los tenedores y los usuarios de los vehículos a que se refieren las siguientes fracciones:
 
 I.- Modelos anteriores en 12 años o más al de la aplicación de la Ley;
 
@@ -1951,11 +1951,15 @@ Si los causantes no cumplen con los requisitos que establece el párrafo anterio
 
 Disposiciones generales.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARARFO, P.O. 26 DE FEBRERO DE 2005)</small>
 
-186.- Están obligadas al pago de los impuestos cedulares establecidos en este capítulo, las personas físicas que en el territorio del Estado perciban ingresos:
+186.- Están obligadas al pago de los impuestos cedulares establecidos en este Código, las personas físicas que perciban ingresos:
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2004)</small>
 
 I.- Por el otorgamiento del uso o goce temporal de bienes inmuebles, ubicados en el territorio del Estado.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2004)</small>
 
 II.- Por la enajenación de bienes inmuebles, ubicados en el territorio del Estado.
 
@@ -1977,27 +1981,31 @@ Para los efectos de esta Sección, se consideran ingresos los percibidos en efec
 
 Los ingresos en crédito se declararán y se calculará el impuesto que les corresponda hasta el mes de calendario en el que sean cobrados.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2005)</small>
 
 188.- Las personas que obtengan ingresos por los conceptos a que se refiere esta Sección, podrán efectuar las siguientes deducciones:
 
-I.- Los pagos efectuados por el Impuesto Predial correspondiente al año de calendario sobre dichos inmuebles, así como por las contribuciones especiales que afecten a los mismos; dichos pagos se prorratearán entre el número de meses del período que comprendan, deduciendo la parte proporcional al mes que corresponda el pago del impuesto cedular.
+I.- Los pagos efectuados por el Impuesto Predial correspondiente al año de calendario sobre dichos inmuebles, así como por las contribuciones especiales señaladas en este Código que afecten a los mismos;
 
-II.- Los gastos de mantenimiento que no impliquen adiciones o mejoras al bien de que se trate y por consumo de agua, siempre que no los paguen quienes usen o gocen del inmueble.
+II.- Los gastos de mantenimiento que no impliquen adiciones o mejoras al bien de que se trate y por consumo de agua, siempre que no los paguen quienes usen o gocen del inmueble;
 
-III.- Los intereses reales pagados por préstamos utilizados para la compra, construcción o mejoras de los bienes inmuebles.
+III.- Los intereses reales efectivamente pagados por préstamos utilizados para la compra, construcción o mejoras de los bienes inmuebles.
 
-Se considera interés real, el monto en el que los intereses excedan al ajuste por inflación. Para estos efectos, el ajuste por inflación se determinará multiplicando el saldo promedio diario de la inversión del préstamo o financiamiento que genere los intereses, por el factor que se obtenga de restar la unidad del cociente que resulte de dividir el índice nacional de precios al consumidor del mes más reciente del período de la inversión, entre el citado índice correspondiente al primer mes del período. Cuando el cálculo a que se refiere este párrafo se realice por un período inferior a un mes o abarque fracciones de mes, el incremento porcentual del citado índice para dicho período o fracción de mes se considerará en proporción al número de días por el que se efectúa el cálculo.
+Se considera interés real, el monto en el que los intereses excedan al ajuste por inflación.
 
-IV.- Los salarios, comisiones, honorarios, así como los impuestos, cuotas o contribuciones que conforme a la ley les corresponda cubrir sobre dichos salarios, efectivamente pagados y que sean relacionadas con las actividades que generan los ingresos gravados por el impuesto cedular.
+Para estos efectos, el ajuste por inflación se determinará multiplicando el saldo promedio diario del préstamo o financiamiento que genere los intereses, por el factor que se obtenga de restar la unidad del cociente que resulte de dividir el índice nacional de precios al consumidor del mes más reciente del período de la inversión, entre el citado índice correspondiente al primer mes del período. Cuando el cálculo a que se refiere este párrafo se realice por un período inferior a un mes o abarque fracciones de mes, el incremento porcentual del citado índice para dicho período o fracción de mes se considerará en proporción al número de días por el que se efectúa el cálculo.
 
-V.- El importe de las primas de seguros que amparen los bienes inmuebles.
+El saldo promedio diario del préstamo o financiamiento que genere los intereses será el saldo que se obtenga de dividir la suma de los saldos diarios del préstamo o financiamiento que genere los intereses entre el número de días del período;
 
-VI.- Las inversiones en construcciones, incluyendo adiciones y mejoras.
+IV.- Los salarios, comisiones, honorarios, así como los impuestos, cuotas o contribuciones que conforme a la ley les corresponda cubrir sobre dichos salarios, efectivamente pagados y que sean relacionadas con las actividades que generan los ingresos gravados por el Impuesto Cedular;
 
-Los contribuyentes podrán optar por deducir el 35% de los ingresos a que se refiere esta Sección, en substitución de las deducciones autorizadas por este artículo.
+V.- El importe de las primas de seguros que amparen los bienes inmuebles;
 
-Los contribuyentes que ejerzan la opción prevista en el párrafo anterior deberán hacerlo durante todo el año calendario y por todos los inmuebles por los que otorguen el uso o goce temporal, incluso por aquellos que tengan en copropiedad.
+VI.- Las inversiones en construcciones, incluyendo adiciones y mejoras, en los términos que prevén la Ley del Impuesto Sobre la Renta federal y sus disposiciones reglamentarias para las personas físicas que otorguen el uso o goce temporal de bienes inmuebles.
+
+Los contribuyentes podrán optar por deducir el 35% de los ingresos a que se refiere esta Sección, en substitución de las deducciones autorizadas por este artículo. Quienes ejerzan esta opción podrán deducir, además, el monto de las erogaciones por concepto del Impuesto Predial de dichos inmuebles correspondientes al año de calendario o al período durante el cual obtuvieron los ingresos en el año calendario según corresponda.
+
+Los contribuyentes que opten por efectuar la deducción a que se refiere el párrafo que antecede lo deberán hacer por todos los inmuebles por los que otorguen el uso o goce temporal, incluso por aquellos en los que tengan el carácter de copropietarios, a más tardar en la fecha en la que se presente la primera declaración que corresponda al año de calendario de que se trate, y una vez ejercida no podrá variarse en los pagos de dicho año, pudiendo cambiarse la opción al presentar la primera declaración del año siguiente.
 
 Tratándose de subarrendamiento, sólo se deducirá el importe de las rentas que pague el arrendatario al arrendador.
 
@@ -2005,7 +2013,11 @@ Cuando el contribuyente ocupe parte del bien inmueble del cual derive el ingreso
 
 La parte proporcional a que se refiere el párrafo que antecede, se calculará considerando el número de metros cuadrados de construcción de la unidad por él ocupada u otorgada de manera gratuita en relación con el total de metros cuadrados de construcción del bien inmueble.
 
-Las deducciones a que se refiere este artículo deberán estar relacionadas con los inmuebles por los que se obtengan los ingresos materia del impuesto cedular a que se refiere esta Sección y podrán efectuarse cuando las erogaciones en ellas comprendidas se hayan realizado en el mismo ejercicio fiscal al que corresponda el pago mensual del impuesto cedular, sin que en ningún caso el monto total de dichas deducciones exceda el 50% del impuesto a pagar.
+Los contribuyentes al efectuar los pagos a que se refiere el artículo 190 de este Código, harán las deducciones a que se refiere el mismo, que correspondan al período por el que se presente la declaración. Cuando las deducciones no se efectúen dentro del período al que corresponden, se podrán efectuar en los siguientes períodos del mismo año calendario. Tratándose de inversiones, los contribuyentes de este impuesto podrán deducir de los ingresos del período, la cuarta parte de la deducción que corresponda al año calendario, independientemente del uso que se dé al inmueble de que se trate.
+
+En el caso de que los ingresos percibidos sean inferiores a las deducciones del período, los contribuyentes podrán considerar la diferencia que resulte entre ambos conceptos, como deducible en los períodos siguientes, siempre y cuando dichas deducciones correspondan al mismo año calendario.
+
+Las deducciones a que se refiere este artículo deberán estar relacionadas con los inmuebles por los que se obtengan los ingresos materia de este impuesto.
 
 Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado por todo el año calendario, las deducciones a que se refieren las fracciones I a V de este artículo se aplicarán únicamente cuando correspondan al período por el cual se otorgó el uso o goce temporal del bien inmueble o a los tres meses inmediatos anteriores al en que se otorgue dicho uso o goce.
 
@@ -2015,9 +2027,11 @@ Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado po
 
 La institución fiduciaria efectuará los pagos de este impuesto por cuenta de aquél a quien corresponda el rendimiento en los términos del párrafo anterior, mediante declaración mensual que presentará conforme al artículo siguiente.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2005)</small>
 
-190.- Los contribuyentes que obtengan ingresos de los señalados en esta Sección efectuarán pagos mensuales a una tasa del 5%, que se aplicará a los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles, disminuyendo las deducciones autorizadas en esta Sección en el período declarado. La declaración y entero de los pagos se realizará en los términos del artículo 44 de este Código, teniendo como fecha límite el día 17 del mes inmediato siguiente al en que corresponda el pago.
+190.- Los contribuyentes que obtengan ingresos de los señalados en esta Sección efectuarán pagos trimestrales a una tasa del 5% que se aplicará a los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles, disminuyendo las deducciones autorizadas en esta Sección en el período declarado. La declaración y entero de los pagos se realizará en los términos del artículo 44 de este Código, teniendo como fecha límite del día 17 del mes inmediato siguiente al en que corresponda el pago.
+
+Para efectos de este impuesto, el año calendario se dividirá en cuatro períodos, de la siguiente manera: el primero, con los meses de enero, febrero y marzo; el segundo, con los meses de abril, mayo y junio; el tercero, con los meses de julio, agosto y septiembre; y el cuarto, con los meses de octubre, noviembre y diciembre.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
 
@@ -2025,7 +2039,9 @@ La institución fiduciaria efectuará los pagos de este impuesto por cuenta de a
 
 I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes.
 
-II.- Llevar contabilidad.
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2005)</small>
+
+II.- Llevar contabilidad, cuando obtengan ingresos superiores a $50,000.00 por los conceptos a que se refiere esta Sección, en el año calendario anterior. No quedan comprendidos en lo dispuesto en esta fracción quienes opten por la deducción del 35% a que se refiere el artículo 188 de este Código.
 
 III.- Expedir comprobantes por las contraprestaciones recibidas.
 
@@ -2069,63 +2085,29 @@ Se considerará como ingreso el monto de la contraprestación obtenida en efecti
 
 No se considerarán ingresos por enajenación, los que deriven de la transmisión de propiedad de inmuebles por causa de muerte o por donación.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2005)</small>
 
-190-C.- No se pagará este impuesto por los ingresos derivados de la enajenación de:
+190-C.- Para los efectos de la determinación de la base gravable y de las exenciones de este impuesto, se atenderá a lo establecido en las Disposiciones Generales y en el Capítulo IV, del Título IV de la Ley del Impuesto Sobre la Renta Federal y a sus disposiciones reglamentarias.
 
-I. La casa que haya habitado el contribuyente cuando menos durante el año inmediato anterior al de la fecha de enajenación.
+Los contribuyentes que obtengan ingresos por la enajenación de bienes inmuebles, efectuará el pago del impuesto por cada una de las operaciones que realicen, aplicando la tasa del 5% sobre la base gravable determinada de acuerdo con el párrafo que antecede y se enterará mediante declaración que se presentará dentro de los 15 días siguientes a la fecha de enajenación, de conformidad con el artículo 44 de este Código.
 
-II.- Los que deriven de la enajenación de derechos parcelarios, de las parcelas sobre las que hubiera adoptado el dominio pleno o de los derechos comuneros, siempre y cuando sea la primera transmisión que se efectúe por los ejidatarios o comuneros y la misma se realice en los términos de la legislación federal de la materia.
+En el caso de operaciones consignadas en escritura pública, los fedatarios, bajo su responsabilidad calcularán y retendrán el impuesto a que se refiere esta Sección y lo enterarán dentro de los 15 días siguientes a la fecha en que se firme la escritura o minuta, en los términos del artículo 44 de este Código. Los fedatarios quedan relevados de la obligación de efectuar el cálculo y entero del impuesto a que se refiere esta Sección, cuando la enajenación de inmuebles se realice por personas físicas dedicadas a actividades empresariales, debiendo observarse al efecto lo dispuesto por la Ley del Impuesto Sobre la Renta federal y sus disposiciones reglamentarias.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2005)</small>
 
-190-D.- Las personas físicas que obtengan ingresos por la enajenación de inmuebles podrán efectuar las siguientes deducciones:
+190-D.- Los contribuyentes podrán solicitar la práctica de un avalúo por corredor público titulado, institución de crédito o especialista en valuación debidamente acreditado ante el Departamento Estatal de Profesiones. La Secretaría de Finanzas estará facultada para practicar, ordenar o tomar en cuenta, el avalúo del bien objeto de la enajenación.
 
-I.- El costo comprobado de adquisición que se actualizará en los términos del artículo 190-F de este Código y será cuando menos el 10% del monto de la enajenación de que se trate.
+190-E.- (DEROGADO, P.O. 26 DE FEBRERO DE 2005)
 
-II.- El importe de las inversiones hechas en construcciones, mejoras y ampliaciones, el cual se actualizará en los términos del artículo 190-F de este Código. Estas inversiones no incluyen los gastos de conservación.
+190-F.- (DEROGADO, P.O. 26 DE FEBRERO DE 2005)
 
-III.- Los gastos notariales, impuestos y derechos, por escrituras de adquisición y de enajenación, pagados por el enajenante, salvo el impuesto sobre la renta federal. Así mismo, serán deducibles los pagos efectuados con motivo del avalúo de los bienes inmuebles.
+190-G.- (DEROGADO, P.O. 26 DE FEBRERO DE 2005)
 
-IV.- Las comisiones y mediaciones pagadas por el enajenante, con motivo de la adquisición o de la enajenación del bien.
+190-H.- (DEROGADO, P.O. 26 DE FEBRERO DE 2005)
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+190-I.- (DEROGADO, P.O. 26 DE FEBRERO DE 2005)
 
-190-E.- El costo de adquisición será igual a la contraprestación que se haya pagado por adquirir el bien sin incluir los intereses; cuando el bien se hubiese adquirido a título gratuito, se estará a lo dispuesto por el penúltimo párrafo del artículo 190-B de este Código.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
-
-190-F.- Para actualizar el costo comprobado de adquisición y, en su caso, el importe de las inversiones deducibles, tratándose de bienes inmuebles, se procederá como sigue:
-
-I.- Se restará el costo comprobado de adquisición, la parte correspondiente al terreno y el resultado será el costo de construcción. Cuando no se pueda efectuar esta separación se considerará como costo del terreno el 20% del costo total.
-
-II.- El costo de construcción deberá disminuirse a razón del 3% anual por cada año transcurrido entre la fecha de adquisición y la de enajenación; en ningún caso dicho costo será inferior al 20% del costo inicial. El costo resultante se actualizará conforme al artículo 190-G de este Código, por el período comprendido desde el mes en el que se realizó la adquisición y hasta el mes inmediato anterior a aquél en el que se efectúe la enajenación. Las mejoras o adaptaciones que impliquen inversiones deducibles deberán sujetarse al mismo tratamiento.
-
-En el caso de terrenos, el costo de adquisición se actualizará conforme al artículo 190-G de este Código por el período comprendido desde el mes en el que se realizó la adquisición y hasta el mes inmediato anterior a aquél en el que se efectúe la enajenación.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
-
-190-G.- Las actualizaciones a que se refieren la fracción II y el último párrafo del artículo 190-F de este Código se realizarán aplicando un factor de actualización a las cantidades que se deban actualizar, el cual se obtendrá dividiendo el Índice Nacional de Precios al Consumidor que al efecto publica el Banco de México, correspondiente al mes anterior al más reciente del período, entre el citado índice correspondiente al mes anterior al más antiguo de dicho período, sin que proceda la actualización por fracciones de mes; dicho factor de actualización deberá calcularse hasta el diezmilésimo.
-
-En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
-
-Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización, por lo que el monto de ésta no será deducible.
-
-Cuando el resultado de la operación a que se refiere el primer párrafo de este artículo sea menor a 1, el factor de actualización que se aplicará al monto respectivo, será 1.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
-
-190-H.- Tratándose de bienes inmuebles adquiridos por herencia, legado o donación, se considerará como costo de adquisición, el que haya pagado el autor de la sucesión o el donante, y como fecha de adquisición, la que hubiere correspondido a estos últimos. Cuando a su vez el autor de la sucesión o el donante hubieran adquirido dichos bienes a título gratuito, se aplicará la misma regla. Tratándose de la donación por la que se haya pagado el Impuesto Sobre la Renta federal, se considerará como costo de adquisición, el valor de avalúo que haya servido para calcular dicho impuesto y como fecha de adquisición aquélla en que se pagó el impuesto mencionado.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
-
-190-I.- Los contribuyentes podrán solicitar la práctica de un avalúo por corredor público titulado o institución de crédito. La Secretaría de Finanzas estará facultada para practicar, ordenar o tomar en cuenta, el avalúo del bien objeto de enajenación.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
-
-190-J.- Los contribuyentes que obtengan ingresos por la enajenación de bienes inmuebles, efectuarán el pago de este impuesto por cada una de las operaciones que realicen, el cual se determinará aplicando la tasa del 5% sobre la diferencia entre el ingreso obtenido por la enajenación y las deducciones a que se refiere esta Sección y se entenderá mediante declaración que presentarán dentro de los 15 días siguientes a la fecha de la enajenación, en los términos del artículo 44 de este Código.
-
-En el caso de operaciones consignadas en escritura pública, los notarios, corredores, jueces y demás fedatarios que por disposición legal tengan funciones notariales, bajo su responsabilidad calcularán el pago a que se refiere esta Sección y lo enterarán dentro de los 15 días siguientes a la fecha en que se firme la escritura o minuta, en los términos del artículo 44 de este Código.
+190-J.- (DEROGADO, P.O. 26 DE FEBRERO DE 2005)
 
 ### CAPITULO VI. DE LOS IMPUESTOS CEDULARES A LOS INGRESOS DE LAS PERSONAS FISICAS
 
@@ -4958,3 +4940,23 @@ Cuando en la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios 
 Cuando en el Código Fiscal del Estado se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas y cuando en cualquier otro ordenamiento se haga mención a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración se entenderá citada la Secretaría de Finanzas.
 
 Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Administración, la referencia se entenderá hecha a la Secretaría de Administración.
+
+P.O. 26 DE FEBRERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Los contribuyentes del Impuesto Cedular a los Ingresos por Arrendamiento y en general por otorgar el uso o goce temporal de inmuebles que hubieran presentado declaración mensual del impuesto, presentarán la declaración trimestral en los términos del presente Decreto y disminuirán del impuesto que resulte a cargo el importe pagado en la declaración mensual.
+
+###### ARTÍCULO TERCERO.
+
+Se otorga un estímulo fiscal a los contribuyentes del Impuesto Cedular a los Ingresos Derivados de la Enajenación de Bienes Inmuebles, consistente en la reducción de un 50% en el pago del impuesto determinado, cuya causación se realice en el año calendario de 2005.
+
+Tratándose del Impuesto Adicional del 4% a que se refiere el segundo párrafo del artículo 28 del Código Fiscal del Estado, se determinará tomando como base el Impuesto Cedular a los Ingresos Derivados de la Enajenación de Inmuebles a pagar, una vez aplicado el estímulo.
+
+###### ARTÍCULO CUARTO.
+
+Los contribuyentes que antes de la entrada en vigor del presente Decreto hayan efectuado pagos por concepto del Impuesto a los Ingresos Derivados de la Enajenación de Inmuebles, tendrán derecho al estímulo fiscal a que se refiere el artículo tercero transitorio que antecede, para lo cual deberán solicitar la devolución o compensación, a través de los procedimientos que para tal efecto establece el Código Fiscal del Estado.
