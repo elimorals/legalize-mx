@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-3-1996-del-pleno-del-consejo-de-la-55458
 country: "mx"
 rank: "acuerdo"
 publication_date: "1996-02-14"
-last_updated: "1996-02-14"
+last_updated: "1999-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55458&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-02-08"
 
 ACUERDO GENERAL NUMERO 3/1996, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ORDENA EL USO DEL SISTEMA COMPUTARIZADO PARA LA DISTRIBUCION DE ASUNTOS EN LOS TRIBUNALES COLEGIADOS EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE MAYO DE 1999.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 14 de febrero de 1996.
 
@@ -47,6 +47,10 @@ ACUERDO
 
 PRIMERO.- En el tercer día hábil siguiente al de la publicación del presente Acuerdo en el Diario Oficial de la Federación, se autoriza y se establece obligatoriamente el uso del sistema computarizado de turno y registro de todos y cada uno de los asuntos que se presenten en la Oficialía de Partes Común en Materia de Trabajo del Primer Circuito.
 
+> <small>N. DE E. DE CONFORMIDAD CON LO ESTABLECIDO POR EL ACUERDO 15/1999, SE MODIFICA EL SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS EN LOS ORGANOS JURISDICCIONALES SEÑALADOS, VEASE PUNTOS PRIMERO A CUARTO DEL CITADO ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL ACUERDO GENERAL NUMERO 15/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE MAYO DE 1999)</small>
+
 SEGUNDO.- El sistema de recepción y distribución de asuntos autorizado únicamente puede ser cambiado por el Consejo de la Judicatura Federal.
 
 Cuando por causa de fuerza mayor no pueda hacerse uso del sistema computarizado referido, el coordinador de los tribunales citados deberá comunicar a este Consejo el motivo por el cual lo suspendió y las medidas pertinentes que al efecto haya tomado, y que garanticen un reparto equitativo de los asuntos en los órganos jurisdiccionales, adoptándose el sistema manual, a partir de la última distribución computarizada. Una vez restablecido el sistema que se implanta en este Acuerdo, deberá comunicarlo al Consejo.
@@ -58,3 +62,33 @@ PRIMERO.- Este Acuerdo entrará en vigor en la fecha de su publicación en el Di
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
 
 EL LICENCIADO ADOLFO O. ARAGON MENDIA, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General número 3/1996, que ordena el uso del Sistema Computarizado para la distribución de asuntos en los Tribunales Colegiados en Materia de Trabajo del Primer Circuito, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de ocho de febrero de mil novecientos noventa y seis, por unanimidad de votos de los señores Consejeros: Presidente ministro José Vicente Aguinaco Alemán, Alonso Galván Villagómez, Hilda Cecilia Martínez González, Mario Melgar Adalid, Ricardo Méndez Silva, Alfonso Oñate Laborde y Luis Gilberto Vargas Chávez.- México, Distrito Federal, a nueve de febrero de mil novecientos noventa y seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ACUERDO.</small>
+
+D.O.F. 21 DE MAYO DE 1999.
+
+PRIMERO.- Se modifican las disposiciones dictadas en el Acuerdo General número 3/1996, del Pleno del Consejo de la Judicatura Federal, sólo en el aspecto señalado en el presente Acuerdo.
+
+SEGUNDO.- Este Acuerdo entrará en vigor en la fecha de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta, y comuníquese a los tribunales colegiados en materia de trabajo del Primer Circuito, para su cumplimiento, y a los tribunales colegiados y juzgados de Distrito de dicho Circuito, para su conocimiento.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO 15/1999, DEBIDO A LA TRASCENDENCIA DEL MISMO.
+
+ACUERDO GENERAL NUMERO 15/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL ACUERDO GENERAL NUMERO 3/1996, QUE ORDENA EL USO DEL SISTEMA COMPUTARIZADO PARA LA DISTRIBUCION DE ASUNTOS EN LOS TRIBUNALES COLEGIADOS EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO.
+
+.
+
+ACUERDO
+
+PRIMERO.- A partir del día primero del mes de junio del año de mil novecientos noventa y nueve la Oficialía de Partes Común de los Tribunales Colegiados en Materia de Trabajo del Primer Circuito, turnará las demandas de amparo directo al tribunal colegiado que hubiese dictado la última ejecutoria, y que deriven del mismo conflicto laboral.
+
+SEGUNDO.- Cuando se presenten demandas de amparo directo que procedan de un mismo conflicto laboral como otras de las que hayan conocido diversos tribunales colegiados que fueron turnadas conforme al Acuerdo General número 3/1996, se seguirá, para los casos que a continuación se precisan, la siguiente regla:
+
+La Oficialía de Partes Común las turnará al tribunal colegiado que conozca del recurso de queja previsto en el artículo 95, fracción IX, de la Ley de Amparo, siempre y cuando éstas procedan de un mismo conflicto laboral, y que sean recibidas simultáneamente o con posterioridad a la interposición del propio recurso.
+
+TERCERO.- Respecto de los demás asuntos que se presenten en la Oficialía de Partes Común de los Tribunales Colegiados en Materia de Trabajo del Primer Circuito, ésta continuará atendiendo al uso del sistema computarizado de turno y registro de los mismos, establecido por el Pleno del Consejo de la Judicatura Federal en su Acuerdo General número 3/1996.
+
+CUARTO.- De la demanda de amparo directo que hasta el día treinta y uno del mes de mayo de mil novecientos noventa y nueve haya sido turnada a un tribunal colegiado, seguirá conociendo éste hasta la terminación del procedimiento respectivo.
+
+...
