@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1928-08-20"
+last_updated: "1929-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 1928.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE SEPTIEMBRE DE 1929.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -710,7 +710,9 @@ VIII.- Para dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos 
 
 IX.- Para expedir aranceles sobre el comercio extranjero y para impedir que en el comercio de Estado a Estado se establezcan restricciones.
 
-X.- Para legislar en toda la República sobre Minería, Comercio, Instituciones de Crédito, y para establecer el Banco de Emisión Unico, en los términos del artículo 28 de esta Constitución.
+> <small>(REFORMADA, D.O.F. 6 DE SEPTIEMBRE DE 1929)</small>
+
+X.- Para legislar en toda la República sobre minería, comercio e instituciones de crédito; para establecer el Banco de Emisión Unico, en los términos del artículo 28 de esta Constitución, y para expedir las leyes del trabajo, reglamentarias del artículo 123 de la propia Constitución. La aplicación de las leyes del trabajo corresponde a la autoridades de los Estados, en sus respectivas jurisdicciones, excepto cuando se trate de asuntos relativos a Ferrocarriles y demás empresas de transportes amparadas por concesión federal, minería e hidrocarburos y, por último, los trabajos ejecutados en el mar y en las zonas marítimas, en la forma y términos que fijen las disposiciones reglamentarias.
 
 XI.- Para crear y suprimir empleos públicos de la Federación y señalar, aumentar o disminuir sus dotaciones.
 
@@ -1328,9 +1330,11 @@ Los Poderes de la Unión, tienen el deber de proteger a los Estados contra toda 
 
 DEL TRABAJO Y DE LA PREVISION SOCIAL.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE SEPTIEMBRE DE 1929)</small>
+
 ###### Art. 123.
 
-El Congreso de la Unión y las Legislaturas de los Estados deberán expedir leyes sobre el trabajo, fundadas en las necesidades de cada región, sin contravenir a las bases siguientes, las cuales regirán el trabajo de los obreros, jornaleros, empleados, domésticos y artesanos, y de una manera general todo contrato de trabajo:
+El Congreso de la Unión, sin contravenir a las bases siguientes, deberá expedir leyes sobre el trabajo, las cuales regirán entre los obreros, jornaleros, empleados, domésticos y artesanos y de una manera general sobre todo contrato de trabajo:
 
 I.- La duración de la jornada máxima será de ocho horas.
 
@@ -1404,7 +1408,9 @@ XXVII.- Serán condiciones nulas y no obligarán a los contrayentes, aunque se e
 
 XXVIII.- Las leyes determinarán los bienes que constituyan el patrimonio de la familia, bienes que serán inalienables, no podrán sujetarse a gravámenes reales ni embargos, y serán transmisibles a título de herencia con simplificación de las formalidades de los juicios sucesorios.
 
-XXIX.- Se consideran de utilidad social: el establecimiento de Cajas de Seguros Populares, de invalidez, de vida, de cesación involuntaria de trabajo, de accidentes y otros con fines análogos, por lo cual, tanto el Gobierno Federal como el de cada Estado, deberán fomentar la organización de Instituciones de esta índole, para infundir e inculcar la previsión popular.
+> <small>(REFORMADA, D.O.F. 6 DE SEPTIEMBRE DE 1929)</small>
+
+XXIX.- Se considera de utilidad pública la expedición de la Ley del Seguro Social y ella comprenderá seguros de la invalidez, de vida, de cesación involuntaria del trabajo, de enfermedades y accidentes y otras con fines análogos.
 
 XXX.- Asimismo serán consideradas de utilidad social, las sociedades cooperativas para la construcción de casas baratas e higiénicas, destinadas a ser adquiridas en propiedad, por los trabajadores en plazos determinados.
 
@@ -1647,3 +1653,7 @@ D.O.F. 20 DE AGOSTO DE 1928.
 LEY QUE REFORMA LAS BASES 1a., 2a., Y 3a. DE LA FRACCION VI DEL ARTICULO 73.
 
 Unico.- Esta ley entrará en vigor el día primero de enero de mil novecientos veintinueve.
+
+D.O.F. 6 DE SEPTIEMBRE DE 1929.
+
+LA LEY DE REFORMAS CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
