@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-adquisiciones-enajenaciones-arrendamientos-y-16140"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-24"
-last_updated: "2000-03-24"
+last_updated: "2000-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2000.
 
 Ley Publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de marzo del 2000.
 
@@ -57,13 +57,19 @@ IV.- Oficiales Mayores: Dependencias administrativas o su equivalente en cada un
 
 V.- Organos de Control: Referente a los órganos internos revisores y fiscalizadores que con fundamento en las Leyes Orgánicas de los Poderes del Estado, de los Ayuntamientos y de las Entidades Públicas corresponda conocer;
 
-VI.- Comité: Los comités de adquisiciones, enajenaciones, arrendamientos y contratación de servicios que establezcan cada uno de los Poderes del Estado y Ayuntamientos los que se integrarán y funcionarán de acuerdo a lo señalado en esta Ley y los reglamentos respectivos; y
+> <small>(REFORMADA P.O. 21 DE JULIO DE 2000)</small>
 
-VII.- Proveedor: Las personas físicas o morales que deseen realizar cualquier operación contractual sobre enajenación, arrendamiento y prestación adquisiciones, arrendamientos y prestación de servicios en relación con los Poderes del Estado, dependencias administrativas y Municipios.
+VI.- Comité: Los comités de adquisiciones, enajenaciones, arrendamientos y contratación de servicios que establezcan cada uno de los Poderes del Estado, Ayuntamientos y Entidades Públicas, los que se integrarán y funcionarán de acuerdo a lo señalado en esta Ley y los reglamentos respectivos;
+
+> <small>(REFORMADA P.O. 21 DE JULIO DE 2000)</small>
+
+VII.- Proveedor: Las personas físicas o morales que deseen realizar cualquier operación contractual sobre adquisiciones, arrendamientos y prestación de servicios en relación con los Poderes del Estado, Ayuntamientos y Entidades públicas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2000)</small>
 
 ###### ARTICULO 3.
 
-Los actos y contratos a que se refiere esta Ley, no podrán realizarse a favor de ningún servidor publico que labore en los Poderes, Ayuntamientos o Entidades Públicas contratantes o que tengan interés personal, familiar o de negocios incluyendo aquellos de los que pueda resultar algún beneficio para el cónyuge respectivo, sus parientes consanguíneos hasta el cuarto grado, por afinidad hasta el segundo grado o civiles, o para terceros con los que tengan relaciones de dependencia o subordinación laboral o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte.
+Los servidores públicos se abstendrán de intervenir de cualquier forma en la atención, tramitación o resolución de los actos y contratos a los que se refiere esta Ley cuando tengan interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio para si, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tengan relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público, o las personas antes referidas formen o hayan formado parte.
 
 Tratándose de bienes muebles que estén bajo el servicio directo de servidores públicos, los comités podrán autorizar su venta a éstos, o en su caso, mediante subasta pública, considerando su naturaleza, valor comercial, utilidad de los bienes, la responsabilidad en el cuidado de los mismos durante el servicio y la conveniencia de la venta, de conformidad con lo que establezca el reglamento respectivo.
 
@@ -91,7 +97,9 @@ IX.- Autorizar las adquisiciones de bienes muebles usados cuando sean justificab
 
 X.- Autorizar, previa justificación fundada y motivada por escrito ante los comités, la modificación de contratos adjudicados por estos últimos, por incremento en el costo o cantidad de los productos o servicios a adquirir, siempre y cuando éstos no sean mayores del aumento en el índice inflacionario o en su defecto del 20% de los mismos;
 
-XI.- Autorizar, previa justificación fundada y motivada por escrito ante los comités, la prórroga para la entrega de los bienes, siempre y cuando no exceda de una tercera parte del tiempo inicialmente convenido para ello. declarando desierta la licitación en caso contrario;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2000)</small>
+
+XI.- Autorizar, previa justificación fundada y motivada por escrito ante los comités, la prórroga para la entrega de los bienes, siempre y cuando no exceda de una tercera parte del tiempo inicialmente convenido para ello. En caso de incumplimiento por parte del proveedor respecto de este nuevo plazo, la OfIcialía Mayor podrá proceder en los términos de lo dispuesto en el articulo 42 de esta Ley;
 
 XII.- Aprobar la adecuación de los procedimientos para las licitaciones públicas que deberán prever, desde la publicación de la convocatoria y las bases para concursar, hasta los criterios de selección del proveedor y los requisitos que éste deba satisfacer para la adjudicación del contrato, siempre conforme a la presente Ley y a los reglamentos que se expidan;
 
@@ -99,11 +107,11 @@ XIII.- Autorizar, la realización de adquisiciones directas de bienes muebles e 
 
 XIV.- Las demás que sean necesarias para el cumplimiento de sus funciones.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2000)</small>
+
 ###### ARTICULO 5.
 
-El gasto de las adquisiciones, los arrendamientos y la contratación de servicios de los Poderes, Ayuntamientos y Entidades Públicas, se sujetará a lo previsto en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado, así como lo que fije el Presupuesto de Egresos correspondiente.
-
-Solo en casos excepcionales debidamente justificados, previa autorización del comité respectivo, las Oficialias Mayores podrán realizar adquisiciones de bienes o servicios, sin contar con saldo disponible en su presupuesto de egresos solicitando de manera posterior al área respectiva transferencia de recursos o la ampliación de la partida correspondiente.
+El gasto en las adquisiciones, los arrendamientos y la contratación de servicios de los Poderes del Estado, Ayuntamientos y Entidades Públicas, se sujetará a lo previsto en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado, así como lo que fije el Presupuesto de Egresos correspondientes.
 
 ###### ARTICULO 6.
 
@@ -117,9 +125,11 @@ Los titulares de los Poderes, Ayuntamientos y Entidades Públicas, de acuerdo a 
 
 Los órganos de control respectivos, vigilarán y comprobarán la aplicación de los criterios a que se refiere esté artículo.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2000)</small>
+
 ###### ARTICULO 7.
 
-Las adquisiciones, arrendamientos y servicios que se lleven a cabo con cargo total o parcial a fondos federales, conforme a los convenios que celebren el Gobierno Federal y el Ejecutivo del Estado, se regirán por la Ley de Adquisiciones y Obras Públicas y por lo estipulado en dichos convenios.
+Las adquisiciones, arrendamientos y contratación de servicios que se realicen con cargo total o parcial a fondos federales, se regirán por las disposiciones federales correspondientes.
 
 ###### ARTICULO 8.
 
@@ -141,7 +151,7 @@ III. Mantener actualizado el control de sus almacenes e inventarios;
 
 IV. Acatar los procedimientos administrativos, circulares y normas que se emitan conforme a la misma; y
 
-V. Solicitar y en su caso hacer efectivas las finanzas en los contratos administrativos que celebren.
+V. Solicitar y en su caso hacer efectivas las finanzas en los contratos administrativos que celebren;
 
 ###### ARTICULO 11.
 
@@ -159,15 +169,13 @@ En los actos, contratos y procedimientos que regula esta Ley, se preferirá en i
 
 Los proveedores interesados en una licitación, bajo protesta de decir verdad, deberán señalar que participan en condiciones que no impliquen ventajas ilícitas respecto de otros interesados.
 
-### CAPITULO SEGUNDO. DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN DE LAS ADQUISICIONES
-
-ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS
+### CAPITULO SEGUNDO. DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN DE LAS ADQUISICIONES ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS
 
 ###### ARTICULO 15.
 
 Las adquisiciones, enajenaciones, arrendamientos y contratación de servicios que realicen las Oficialías Mayores, se sujetarán a:
 
-I. Los objetivos, prioridades, políticas y previsiones establecidas por el Plan Estatal y municipal de desarrollo, y los programas que de ellos se deriven, en su caso;
+I. Los objetivos, prioridades, políticas y previsiones establecidas por el Plan Estatal y Municipal de desarrollo, y los programas que de ellos se deriven, en su caso;
 
 II. Las estrategias y políticas establecidas por la Federación en el Plan Nacional de Desarrollo y los programas que se deriven de éste, a fin de coadyuvar a la consecución de sus objetivos y prioridades;
 
@@ -205,9 +213,11 @@ A su vez, los Poderes Legislativo y Judicial, remitirán sus respectivos presupu
 
 El arrendamiento de bienes muebles o inmuebles sólo podrá celebrarse cuando se acredite ante los comités respectivos su necesidad, siempre que la renta no exceda del importe máximo que se autorice en el Presupuesto de Egresos de los Poderes, Ayuntamientos y Entidades Públicas para el ejercicio fiscal respectivo.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2000)</small>
+
 ###### ARTICULO 19.
 
-Los Poderes del Estado, por conducto de las Oficialías Mayores, deberán establecer comités de adquisiciones, enajenaciones, arrendamientos y contratación de servicios, cuyo objetivo será llevar a cabo adjudicaciones de contratos en los términos de esta Ley y determinarán las acciones tendientes a la optimización de recursos que se destinen a las adquisiciones, arrendamientos y contratación de servicios, así como a la racionalización de las enajenaciones; coadyuvar a la observancia de esta Ley y demás disposiciones aplicables, así como para que se cumplan las metas establecidas.
+Los Poderes del Estado, Ayuntamientos y Entidades Públicas, por conducto de las Oficialías Mayores, deberán establecer comités de adquisiciones, enajenaciones, arrendamientos y contratación de servicios, cuyo objetivo será llevar a cabo adjudicaciones de contratos en los términos de esta Ley y determinarán las acciones tendientes a la optimización de recursos que se destinen a las adquisiciones, arrendamientos y contratación de servicios, así como a la racionalización de las enajenaciones; coadyuvando con la observancia de esta Ley y demás disposiciones aplicables, así como para que se cumplan las metas establecidas.
 
 ### CAPITULO TERCERO. DE LOS PROCEDIMIENTOS DE ADQUISICIÓN, ARRENDAMIENTOS, SERVICIOS Y
 
@@ -229,15 +239,19 @@ Los montos mencionados en el presente artículo son sin considerar el impuesto a
 
 El plazo para la celebración del acto de presentación y apertura de propuestas, no podrá ser inferior a diez días naturales contados a partir de la fecha de publicación de la convocatoria; la junta de aclaraciones o modificaciones, siempre deberá efectuarse con cinco días naturales de anticipación a dicho acto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2000)</small>
+
 ###### ARTICULO 22.
 
-Los titulares de los Poderes, Ayuntamientos y Entidades Públicas bajo su consideración y más estricta responsabilidad, fundando y motivando por escrito su proceder, podrán ordenar a las oficialías mayores la invitación restringida a cuando menos tres proveedores o interesados o adjudicación directa de adquisiciones, arrendamientos, contrataciones y servicios, sólo en los siguientes casos:
+Los Comites de los Poderes del Estado, Ayuntamientos y Entidades públicas, bajo su consideración y más estricta responsabilidad, fundando y motivando por escrito su proceder, podrán ordenar a las oficialías mayores la invitación restringida a cuando menos tres proveedores autorizados o interesados o realizar la adjudicación directa de adquisiciones, arrendamientos, contrataciones y servicios, sólo en los siguientes casos:
 
 I.- Cuando se declare cancelado un concurso por segunda vez;
 
 II.- Cuando se trate de adquisiciones de productos alimenticios básicos o semiprocesados y bienes usados, con excepción de vehículos de motor. Tratándose de bienes usados, el precio de adquisición no podrá ser mayor al que se determine mediante avalúo que practicarán las instituciones de banca y crédito o terceros capacitados para ello, conforme a las disposiciones aplicables;
 
-III.- Cuando el contrato sólo pueda adjudicarse o celebrarse con una determinada persona, por ser titular de la o las patentes de los bienes o servicios de que se trate;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2000)</small>
+
+III.- Cuando el contrato sólo pueda celebrarse con una determinada persona, por tratarse de obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos;
 
 IV.- Cuando peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona del Estado, como consecuencia de desastres producidos por fenómenos naturales; asimismo, cuando existan circunstancias que puedan provocar trastornos graves, pérdidas o costos adicionales importantes;
 
@@ -247,17 +261,21 @@ VI.- Cuando se trate de servicios de mantenimiento, conservación, restauración
 
 VII.- Cuando se hubiese rescindido el contrato o no se haya formalizado el mismo, el titular de la oficialía mayor, a través de los comités verificarán previamente si dentro de los que concursaron conforme a los criterios establecidos en esta ley, existe otra proposición que resulte aceptable, en cuyo caso, el contrato se celebrará con el proveedor respectivo.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2000)</small>
+
 ###### ARTICULO 23.
 
-Las licitaciones públicas podrán ser:
+Las licitaciones públicas e invitaciones restringidas serán preferentemente nacionales.
 
-I.- Nacionales, cuando únicamente puedan participar personas de nacionalidad mexicana y los bienes a adquirir cuenten por lo menos con un 50% de contenido nacional; y
+Se realizarán licitaciones públicas e invitaciones restringidas internacionales únicamente en los siguientes casos:
 
-II.- Internacionales, cuando puedan participar personas tanto de nacionalidad mexicana como extranjera y los bienes a adquirir sean de origen nacional o extranjero.
+a) Cuando resulte obligatorio conforme a lo establecido en los tratados internacionales;
 
-Solamente se realizarán licitaciones de carácter internacional, cuando ello sea contemplado en los tratados o cuando las características de las líneas de crédito para adquisiciones, arrendamientos y contratación de servicios así lo requieran.
+b) Cuando, previa investigación de mercado que realice el Comité, no exista oferta de proveedores nacionales respecto a bienes o servicios en cantidad o calidad requeridas, o sea conveniente en términos de precio; y
 
-Podrá negarse la participación de proveedores extranjeros en licitaciones internacionales, cuando no se tenga celebrado un tratado con el país del cual sean nacionales o ese país no conceda reciprocidad a los proveedores, contratistas de bienes o servicios mexicanos.
+c) Cuando así se estipule para las contrataciones financiadas con créditos externos otorgados al Gobierno del Estado o con su aval destinadas a inversiones públicas productivas, por los conceptos y montos que fije la Legislatura del Estado de manera anula en el presupuesto de Egresos de Gobierno del Estado, de acuerdo a lo dispuesto por el artículo 117 fracción VIII de la Constitución Política de los Estado Unidos Mexicanos.
+
+Podrá negarse la participación de proveedores extranjeros en licitaciones internacionales, cuando no se tenga celebrado un tratado de comercio con el país del cual sean nacionales o ese país no conceda reciprocidad a los proveedores, contratistas de bienes o servicios mexicanos.
 
 ###### ARTICULO 24.
 
@@ -333,7 +351,7 @@ Las garantías que deberán exhibir los concursantes serán presentadas:
 
 I. En cheque de caja o certificado de acuerdo a los montos manejados por la convocante;
 
-II. A través de fianzas otorgadas por organismos o instituciones legalmente reconocidos a favor de los convocantes o en caso particular a favor de quien esta señale dentro de la convocatoria.
+II. A través de fianzas otorgadas por organismos o instituciones legalmente reconocidos a favor de los convocantes o en caso particular a favor de quien esta señale dentro de la convocatoria;
 
 ### CAPITULO CUARTO. DEL ACTO DE PRESENTACIÓN Y APERTURA DE PROPOSICIONES PARA LICITACIÓN PUBLICA Y/O INVITACIÓN RESTRINGIDA
 
@@ -353,7 +371,9 @@ I. En la primera etapa, se procederá a la apertura de los sobres que contengan 
 
 Se levantarán actas circunstanciadas de la realización de la presentación y apertura de las propuestas, así como las que se hubieren desechado estableciendo las causas que funden y motiven para ello, al final del acto todos los participantes deberán firmar el acta, sin que la omisión de alguno de ellos afecte la misma, con excepción de los integrantes del comité y el representante del órgano de control interno; en la fecha y hora señaladas, se comunicará el resultado del análisis detallado de las propuestas técnicas aceptadas, señalando a su vez fecha, lugar y hora en que se llevará a cabo la apertura de las propuestas económicas; y
 
-II. En la segunda etapa se procederá a la apertura de las propuestas económicas de los licitantes, que no hubieren sido desechadas en la primera etapa, dándose lectura al importe de las mismas y elaborando los cuadros comparativos necesarios, levantándose el acta circunstanciada correspondiente, ordenando la publicación de las cotizaciones incluidas de la oferta económica de todos los concursantes en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga" Posteriormente se adjudicará la licitación al proveedor que en su caso, cumpla con todos los requisitos de la convocatoria, y además ofrezca las mejores condiciones de precio, cantidad y calidad del producto o servicio a contratar.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2000)</small>
+
+II. En la segunda etapa se procederá a la apertura de las propuestas económicas de los licitantes, que no hubieren sido desechadas en la primera etapa, dándose lectura al importe de las mismas y elaborando los cuadros comparativos necesarios, levantándose el acta circunstanciada correspondiente, ordenando la publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga" de las cotizaciones incluidas en la oferta económica de los concursantes cuyas propuestas hubiesen sido aceptadas en ésta segunda etapa. Se adjudicará la licitación al proveedor que en su caso, cumpla con todos los requisitos de la convocatoria, y además ofrezca las mejores condiciones de precio, cantidad y calidad del producto o servicio a contratar. El fallo respectivo no estará sujeto a la previa publicación de las cotizaciones a que se refiere esta fracción.
 
 ###### ARTICULO 36.
 
@@ -361,17 +381,15 @@ Las áreas de adquisiciones correspondientes, deberán elaborar tablas comparati
 
 Los concursantes ganadores se determinarán, con base en el resultado de las tablas comparativas, económicas y técnicamente elaboradas, y serán ganadoras aquellas ofertas que resulten más convenientes, otorgándole adjudicación correspondiente.
 
+> <small>(REFORMADO P.O. 21 DE JULIO DE 2000)</small>
+
 ###### ARTICULO 37.
 
-Se declarará cancelado un concurso en los siguientes casos:
+Los comités procederán a declarar desierta una licitación o invitación restringida cuando no se registren cuando menos dos concursantes y ninguna de las propuestas presentadas reúna los requisitos de las bases o sus precios no fueren aceptables, expidiéndose una segunda convocatoria o invitación.
 
-I.- Si no se registran por lo menos tres concursantes;
+Tratándose de licitaciones o invitaciones restringidas en las que una o varias partidas se declaren desiertas, los Comités podrán proceder, solo respecto a esas partidas, a celebrar una nueva licitación, o bien un procedimiento de invitación a cuando menos tres proveedores o de adjudicación directa, según corresponda.
 
-II.- Si al abrir los expedientes de documentación presentada no se encuentra por lo menos tres que cumplan con los requisitos;
-
-III.- Si después de la evaluación no fuese posible adjudicar los contratos a ningún proveedor por que no cumplen las condiciones exigidas por la convocatoria; y
-
-IV.- Cuando así se considere conveniente por razones de interés público, debidamente fundada y motivada por el comité.
+Los Comités podrán cancelar una limitación o una invitación restringida por caso fortuito o fuerza mayor. De igual manera podrán cancelar cuando existan circunstancias, debidamente justificadas, que provoquen la extinción de la necesidad para adquirir o arrendar los bienes o contratar la prestación de servicios, y que de continuarse con el procedimiento de contratación se pudiera ocasionar un daño o perjuicio a la convocante.
 
 ### CAPITULO QUINTO. DEL DICTAMEN O FALLO
 
@@ -423,7 +441,9 @@ Procederá la rescisión administrativa del contrato sin responsabilidad alguna 
 
 Cuando concurran razones de interés general que den origen a la terminación anticipada del contrato, se pagará al proveedor el costo de los bienes y servicios entregados, así como los gastos no recuperables contemplados en el contrato administrativo.
 
-Podrá suspenderse, de manera temporal o definitiva y sin responsabilidad para la oficialía mayor contratante, la ejecución de un contrato cuando concurran los supuestos a que se refiere la fracción IV del artículo 23 de esta Ley, de tal forma que hagan imposible el cumplimiento del mismo.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2000)</small>
+
+Podrá suspenderse, de manera temporal o definitiva y sin responsabilidad para la oficialía mayor contratante, la ejecución de un contrato cuando concurran los supuestos a que se refiere la fracción IV del artículo 22 de esta Ley, de tal forma que hagan imposible el cumplimiento del mismo.
 
 Los derechos y obligaciones que se deriven de los contratos, una vez adjudicados, no podrán cederse en forma parcial ni total en favor de cualquier otra persona física o moral.
 
@@ -441,9 +461,11 @@ IV. Aquellas en las que se hubiere declarado huelga general;
 
 V. Los demás que por cualquier causa se encuentren impedidos para ello por disposición de la ley.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2000)</small>
+
 ###### ARTICULO 45.
 
-Las oficialías mayores, y solo en los supuestos que establece el artículo 22 de esta ley, podrán solicitar a los titulares de los Poderes , Ayuntamientos y Entidades Públicas, según sea el caso, la autorización de celebrar contratos sin llevar a cabo las licitaciones respectivas.
+Las Oficialías Mayores, y solo en los supuestos que establece el artículo 22 de esta Ley, podrán solicitar a los Cómites de los Poderes del Estado, Ayuntamientos y Entidades Públicas, según sea el caso, la autorización de celebrar contratos sin llevar a cabo las licitaciones respectivas.
 
 ###### ARTICULO 46.
 
@@ -579,19 +601,23 @@ VIII. Vigilar el oportuno cumplimiento de los objetivos que se haya propuesto el
 
 ### CAPITULO NOVENO. DE LAS ENAJENACIONES DE BIENES MUEBLES E INMUEBLES
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2000)</small>
+
 ###### ARTICULO 58.
 
-Corresponde sólo a los comités otorgar la autorización sobre la enajenación de los bienes muebles propiedad de los Poderes, Ayuntamientos y Entidades Públicas correspondientes, que no sean ya adecuados para el servicio público, resulte incosteable seguirlos utilizando en el mismo.
+Corresponde sólo a los Comités otorgar la autorización sobre la enajenación de los bienes muebles propiedad de los Poderes del Estado, Ayuntamientos y Entidades Públicas correspondientes, que no sean ya adecuados para el servicio público, resulte incosteable seguirlos utilizando en el mismo o se hayan adquirido con la finalidad de beneficiar a personas o comunidades de escasos recursos.
 
 ###### ARTICULO 59.
 
 En los casos de acuerdo al dictamen respectivo, no sea recomendable la rehabilitación de un bien mueble y sea más costeable su enajenación en el estado en que se encuentra, se determinará como destino su venta a través de licitación pública, la cual se llevará a cabo conforme al procedimiento que al efecto establecen los artículos 25 y 26 de esta Ley, a excepción de los siguientes supuestos:
 
-I. Cuando el valor del avalúo o el previsto en el Diario Oficial de la Federación, en la lista de precios mínimos de avalúo para venta de bienes muebles que generen los Poderes, Ayuntamientos y Entidades Públicas, no exceda el monto de trescientos salarios mínimos mensuales vigente en el Estado, los comités autorizarán la venta directa, observándose estrictamente lo mencionado en el último párrafo de este artículo;
+I. Cuando el valor del avalúo o el previsto en el Diario Oficial de la Federación, en la lista de precios mínimos de avalúo para venta de bienes muebles que generen los Poderes, Ayuntamientos y Entidades Públicas, no exceda el monto de trescientos salarios mínimos mensuales vigente en el Estado, los comités autorizarán la venta directa, observandose estrictamente lo mencionado en el último párrafo de este artículo;
 
 II. Cuando se rescinda el contrato, el comité conforme al criterio de adjudicación, celebrará un nuevo contrato con el concursante que en orden consecutivo hubiere cumplido con todos los requisitos; y
 
-III. Cuando los bienes muebles propiedad de los Poderes, Ayuntamientos y Entidades Públicas sean donados, previa justificación y autorización del titular del Poder o Ayuntamiento o Entidad Pública correspondiente, y solamente cuando se destinen a instituciones de beneficencia pública.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2000)</small>
+
+III. Cuando los bienes muebles propiedad de los Poderes del Estado, Ayuntamientos y Entidades Públicas sean donados, previa justificación y autorización de los Cómites correspondientes y solamente cuando se destinen a instituciones de beneficencia pública.
 
 En el proceso de enajenación directa deberá estar presente un representante del órgano de control interno del Poder o Ayuntamiento o Entidad Pública de que se trate, con el objeto de vigilar que el evento se haga apegado a la Ley.
 
@@ -613,11 +639,13 @@ Los productos que se generen por la enajenación de bienes muebles, se considera
 
 Efectuada la enajenación, las oficialías mayores procederán a la cancelación de registros e inventarios del bien mueble de que se trate.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2000)</small>
+
 ###### ARTICULO 64.
 
-La transmisión de la propiedad que bajo cualquier forma se realice de los bienes inmuebles propiedad de los Poderes y Ayuntamientos sólo podrá realizarse previa autorización de la Legislatura del Estado, quedando afectadas de nulidad relativa las operaciones que no cumplan con este requisito.
+La transmisión de la propiedad que bajo cualquier forma se realice de los bienes inmuebles propiedad de los Poderes del Estado y Entidades Públicas, sólo podrá efectuarse previa autorización de la Legislatura del Estado, con excepción de aquellos pertenecientes a Entidades Públicas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre y cuando la misma sea relativa a su objeto. Las enajenaciones que se lleven a cabo sin dicha autorización estarán afectadas de nulidad absoluta.
 
-Para el caso de las Entidades Públicas, cuando su fin u objeto social consistan en la venta de bienes inmuebles, deberán solicitar a la Legislatura del Estado de manera anual, o en su caso, cada que fuera necesario, sus programas de enajenaciones, para su debida aprobación de manera global
+Las enajenaciones de bienes inmuebles propiedad de los municipios se realizarán de conformidad con lo dispuesto en las leyes aplicables.
 
 ### CAPITULO DECIMO. DE LOS ALMACENES
 
@@ -845,9 +873,11 @@ III. La declaración de improcedencia de la inconformidad. Dicha resolución deb
 
 Dictada la resolución de la inconformidad y sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos que han intervenido, los comités respectivos deberán proceder ha verificar conforme al criterio de adjudicación, si dentro de los que concursaron existe otra proposición que resulte aceptable, en cuyo caso, el contrato se celebrará con el proveedor respectivo.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2000)</small>
+
 ###### ARTICULO 96.
 
-A falta de disposición expresa y en cuanto no se oponga a lo dispuesto por este capítulo se estará, en forma supletoria, a lo establecido por la Ley del Tribunal de lo Contencioso Administrativo del Estado y, en su caso, al Código de Procedimientos Civiles del Estado de Querétaro.
+A falta de disposición expresa se aplicara de manera supletoria el Código Civil del Estado de Querétaro y en su caso, el Código de Procedimientos Civiles del Estado de Querétaro.
 
 ## TRANSITORIOS
 
@@ -906,3 +936,15 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 LIC. MA. GUADALUPE MURGUIA GUTIERREZ
 
 SECRETARIO DE GOBIERNO
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 21 DE JULIO DEL 2000
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigencia a partir del día de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
