@@ -4,7 +4,7 @@ identifier: "LCCAIF"
 country: "mx"
 rank: "ley"
 publication_date: "1960-12-31"
-last_updated: "1986-01-13"
+last_updated: "1988-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=460&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCCAIF"
 
 LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DE LA ASOCIACION INTERNACIONAL DE FOMENTO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 1988.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1960.
 
@@ -42,11 +42,11 @@ LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDE
 
 Se aprueba el Convenio Constitutivo de la Asociación Internacional de Fomento, para los efectos de la fracción VIII del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 26 de enero de 1960.
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 2o.
 
-El Banco de México hará la aportación de México correspondiente para la Séptima Reposición de Capital de la Asociación Internacional de Fomento en derechos especiales de giro (DEG) hasta por la suma equivalente a 15'000,000 (quince millones) de dólares de los Estados Unidos de América, la cual se adicionará a las suscripciones anteriores efectuadas por nuestro país, en moneda nacional, hasta por el equivalente a 35'539,291 (treinta y cinco millones quinientos treinta y nueve mil doscientos noventa y uno) dólares de los Estados Unidos de América, considerados a los distintos tipos de cambio autorizados.
+El Banco de México hará la aportación de México, correspondiente a la Octava Reposición de Capital de la Asociación Internacional de Fomento, hasta por la suma de 19'550,000 (diecinueve millones quinientos cincuenta mil) dólares de los Estados Unidos de América, la cual se adicionará a las suscripciones anteriores efectuadas por nuestro país, hasta por el equivalente de 50'539,291 (cincuenta millones quinientos treinta y nueve mil doscientos noventa y un) dólares de los Estados Unidos de América.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
@@ -137,3 +137,13 @@ D.O.F. 13 DE ENERO DE 1986.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE ENERO DE 1988.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+La aportación de México, que le corresponde en la Asociación Internacional de Fomento a que se refiere el presente Decreto, se realizará de acuerdo a la Resolución 142 adoptada por la Asamblea de Gobernadores de la Asociación Internacional de Fomento el 26 de junio de 1987.
