@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1999-05-22"
+last_updated: "1999-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1999.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -262,6 +262,10 @@ Los ancianos tienen derecho a un albergue decoroso e higiénico y a la atención
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 El Estado promoverá lo necesario para que la población tenga acceso a una vivienda digna, a la asistencia médica y social, a la cultura, a la recreación y al deporte. En la asistencia médica y social se dará prioridad a los menores, ancianos y minusválidos.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 1999)</small>
+
+Toda persona dentro del Territorio del Estado, tiene derecho a vivir en un medio ambiente adecuado para su desarrollo, salud y bienestar.
 
 ###### ARTICULO 13.
 
@@ -605,7 +609,7 @@ Partiendo del "CERRO MARTINEZ" con rumbo S13°00'O en línea recta hasta el "CER
 
 ## TITULO CUARTO. Del Gobierno del Estado
 
-### CAPITULO II. Del Poder Legislativo
+### CAPITULO I. De la Forma de Gobierno y División de Poderes
 
 ###### ARTICULO 29.
 
@@ -625,7 +629,7 @@ Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos
 
 El Poder Público del Estado se divide, para el ejercicio de sus funciones en Legislativo, Ejecutivo y Judicial, los cuales desarrollarán sus funciones en la forma y términos previstos en esta Constitución. No podrán reunirse en uno solo de ellos, cualesquiera de los otros dos, como tampoco delegarse o invadirse atribuciones, a excepción de los casos previstos en el Artículo 62 de este documento.
 
-### CAPITULO I. De la Forma de Gobierno y División de Poderes
+### CAPITULO II. Del Poder Legislativo
 
 #### SECCION PRIMERA. De la Legislatura
 
@@ -2866,6 +2870,10 @@ P.O. 8 DE AGOSTO DE 1998.
 UNICO.- Las reformas, adiciones y derogación a que se contrae este Decreto entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 22 DE MAYO DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE AGOSTO DE 1999.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
