@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-220
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-15"
-last_updated: "2002-08-12"
+last_updated: "2002-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2002.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 15 de octubre de 1999.
 
@@ -951,15 +951,23 @@ II. La Coordinación General de Asesores del Gobernador del Estado;
 
 III. La Coordinación General de Comunicación Social;
 
-IV. La Coordinación de Desarrollo Tecnológico;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
-V. La Representación del Gobierno del Estado de Sinaloa en el Distrito Federal; y, (sic)
+IV. La Coordinación General de Desarrollo Tecnológico;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+V. La Coordinación General de Acceso a la Información Pública;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+VI. La Representación del Gobierno del Estado de Sinaloa en el Distrito Federal; y (sic),
 
 > <small>(ADICIONADA, P.O. 13 DE MARZO DE 2002)</small>
 
-VI. La Unidad para el Fomento a la Vivienda; y,
+VII. La Unidad para el Fomento a la Vivienda; y,
 
-VII. Las demás que establezcan las leyes, decretos y las que cree el Ejecutivo Estatal.
+VIII. Las demás que establezcan las leyes, decretos y las que cree el Ejecutivo Estatal.
 
 ### CAPÍTULO II. DE LA SECRETARÍA PARTICULAR DEL GOBERNADOR DEL ESTADO
 
@@ -1047,11 +1055,43 @@ V. Los demás que se deriven de las leyes y reglamentos aplicables o que le enco
 
 Al titular de esta entidad administrativa se le denominará Coordinador de Desarrollo Tecnológico. Para el despacho de los asuntos de su competencia se auxiliará de los servidores públicos que establezca su reglamento interior o que determine el presupuesto de egresos.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+### CAPÍTULO V BIS. DE LA COORDINACIÓN GENERAL DE ACCESO A LA INFORMACIÓN PÚBLICA
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+###### Artículo 52 Bis.
+
+A la Coordinación General de Acceso a la Información Pública le corresponde el despacho de los siguientes asuntos:
+
+I. Dar respuesta a las solicitudes de acceso a la información pública formuladas por las personas a las dependencias o entidades del Poder Ejecutivo;
+
+II. Analizar y sistematizar los requerimientos de información pública solicitados por las personas y turnarlos ante la dependencia o entidad del Poder Ejecutivo que corresponda;
+
+III. Solicitar a las dependencias o entidades del Poder Ejecutivo correspondiente, los requerimientos de información pública que formulen las personas;
+
+IV. Integrar la información proporcionada por las dependencias o entidades del Poder Ejecutivo para dar oportuna y adecuada respuesta a las solicitudes de información pública;
+
+V. Llevar el seguimiento permanente de las respuestas a las peticiones de información pública turnadas a las dependencias y entidades del Poder Ejecutivo;
+
+VI. Conocer las recomendaciones que la Comisión Estatal de Acceso a la Información Pública efectúe sobre el contenido de la información solicitada a las dependencias o entidades públicas, así como la proporcionada por las mismas;
+
+VII. Proporcionar asesoría y apoyo en la instrumentación y operación de la Ley de la materia a los municipios y a los poderes legislativo y judicial, en los términos de los convenios que se celebren al efecto;
+
+VIII. Establecer las herramientas tecnológicas y demás instrumentos técnicos que sean necesarios para facilitar el acceso a las personas a la información pública;
+
+IX. Proporcionar capacitación a los servidores públicos en el manejo de la información pública para que cumplan con los requerimientos de la Ley de la materia; y,
+
+X. Los demás que se deriven de las leyes y reglamentos aplicables o que le encomiende el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+###### Artículo 52 Bis-A.
+
+Al titular de esta entidad administrativa se le denominará Coordinador General de Acceso a la Información Pública. Para el despacho de los asuntos de su competencia se auxiliará de los Servidores públicos que establezca su Reglamento Interior o que determine el presupuesto de egresos.
+
 ### CAPÍTULO VI. DE LA REPRESENTACIÓN DEL GOBIERNO DEL ESTADO DE SINALOA EN EL DISTRITO FEDERAL
-
-### CAPÍTULO VI BIS. DE LA UNIDAD PARA EL FOMENTO A LA VIVIENDA
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2002)</small>
 
 ###### Artículo 53.
 
@@ -1071,7 +1111,9 @@ Al titular de esta entidad administrativa se le denominará Representante del Go
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2002)</small>
 
-### CAPÍTULO VII. DISPOSICIONES COMUNES A LAS ENTIDADES ADMINISTRATIVAS QUE DEPENDEN DEL EJECUTIVO
+### CAPÍTULO VI BIS. DE LA UNIDAD PARA EL FOMENTO A LA VIVIENDA
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2002)</small>
 
 ###### Artículo 54 Bis.
 
@@ -1097,9 +1139,9 @@ VII. Los demás que se deriven de las leyes y reglamentos aplicables o que le en
 
 1.- Al titular de esta entidad administrativa se le denominará Vocal Ejecutivo de la Unidad para el Fomento a la Vivienda. Para el despacho de los asuntos de su competencia se auxiliará de los servidores públicos necesarios para el cumplimiento de sus funciones.
 
-### CAPÍTULO I. DE SU DENOMINACIÓN
+### CAPÍTULO VII. DISPOSICIONES COMUNES A LAS ENTIDADES ADMINISTRATIVAS QUE DEPENDEN DEL EJECUTIVO
 
-### CAPÍTULO II. DE LA PRESIDENCIA DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO
+### CAPÍTULO I. DE SU DENOMINACIÓN
 
 ###### Artículo 55.
 
@@ -1123,7 +1165,7 @@ Son aplicables a las entidades administrativas a que se refieren los Capítulos 
 
 ## TÍTULO SEXTO. DE OTRAS ENTIDADES ADMINISTRATIVAS
 
-### CAPÍTULO III. DEL CUERPO DE DEFENSORES DE OFICIO
+### CAPÍTULO II. DE LA PRESIDENCIA DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO
 
 ###### Artículo 60.
 
@@ -1137,11 +1179,13 @@ III. La Comisión Constructora de Sinaloa; y,
 
 IV. Las demás que establezcan las leyes, decretos y las que cree el Ejecutivo Estatal.
 
-### CAPÍTULO IV. DE LA COMISIÓN CONSTRUCTORA DE SINALOA
+### CAPÍTULO III. DEL CUERPO DE DEFENSORES DE OFICIO
 
 ###### Artículo 61.
 
 Corresponde al Presidente de la Junta Local de Conciliación y Arbitraje del Estado, representar al Gobierno Estatal ante ese tribunal de acuerdo con lo dispuesto en la Ley Federal del Trabajo, sus reglamentos y el propio reglamento interior de la Junta.
+
+### CAPÍTULO IV. DE LA COMISIÓN CONSTRUCTORA DE SINALOA
 
 ###### Artículo 62.
 
@@ -1274,3 +1318,7 @@ Artículo Único.- El Presente Decreto entrará en vigor al día siguiente de su
 P.O. 12 DE AGOSTO DE 2002.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 6 DE NOVIEMBRE DE 2002.
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
