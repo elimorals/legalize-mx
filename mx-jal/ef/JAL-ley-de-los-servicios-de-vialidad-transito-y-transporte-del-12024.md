@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2000-10-05"
+last_updated: "2002-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2002.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -1013,11 +1013,19 @@ III. Cuando el titular contraiga enfermedad o discapacidad permanente que lo imp
 
 IV. Por resolución administrativa; y
 
-V. En caso de operadores, conductores o choferes de servicio público, cuando incurran en violación de la tarifa autorizada.
+V. En caso de operadores, conductores o choferes de servicio público, cuando incurran en violación de la tarifa autorizada;
 
 > <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
 
-VI. Por acumular dos suspensiones temporales de la licencia en el lapso de un año.
+VI. Por acumular dos suspensiones temporales de la licencia en el lapso de un año;
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2002)</small>
+
+VII. Cuando cualquier conductor utilice vehículos de uso privado, que porten los colores asignados por la dependencia del ejecutivo del estado, competente en materia de Vialidad, Tránsito y Transporte, para las unidades del transporte público;
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2002)</small>
+
+VIII. Cuando cualquier conductor preste el servicio de transporte público sin contar con el permiso o la concesión correspondiente.
 
 ### CAPITULO VI. De la circulación
 
@@ -1901,7 +1909,7 @@ Los horarios e itinerarios serán aprobados por la dependencia del Ejecutivo del
 
 Los organismos públicos descentralizados del Ejecutivo del Estado cuyo objeto sea la prestación del servicio público colectivo de pasajeros, cuando no cuenten con la infraestructura y equipamiento suficiente para atender las necesidades que requiera la ciudadanía, podrán celebrar contratos de subrogación con particulares para la operación en la prestación del servicio, exclusivamente en la modalidad de transporte colectivo urbano y suburbano, reservándose estos organismos la titularidad y administración de las rutas, así como el despacho y la supervisión del servicio en las mismas, que les sean asignadas por la dependencia del Ejecutivo del Estado en materia de vialidad, tránsito y transporte.
 
-> <small>(ADICIONADO P.O. 6 DE NOVIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
 ###### Artículo 149 Bis 1.
 
@@ -2043,7 +2051,11 @@ III. Carezca de los requisitos necesarios para circular, o contando con permiso 
 
 IV. El vehículo se encuentre estacionado en lugar prohibido, frente a cochera, estacionamiento exclusivo o abandonado en la vía pública; o en donde el estacionamiento del mismo provoque entorpecimiento a la circulación o molestias a los peatones, sin encontrarse en dicho lugar el conductor, y
 
-V. Sea reincidente en contaminar visiblemente, y lo solicite la autoridad competente en ecología ambiental.
+V. Sea reincidente en contaminar visiblemente, y lo solicite la autoridad competente en ecología ambiental;
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2002)</small>
+
+VI. El vehículo sea de uso particular y porte los colores asignados por la dependencia del ejecutivo del estado competente en materia de vialidad, tránsito y transporte, para las unidades de transporte público.
 
 ###### Artículo 157.
 
@@ -2325,17 +2337,15 @@ VII. Al conductor que maneje en sentido contrario o, al que injustificadamente i
 
 Se sancionará con multa equivalente a veinte días de salario mínimo general, vigente en la zona económica donde se cometa la infracción, al conductor de servicio de transporte público que realice servicio distinto al autorizado, en vehículos destinados al servicio público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2002)</small>
 
 ###### Artículo 169.
 
-Se sancionará con multa equivalente a treinta días de salario mínimo general, vigente en la zona económica que (sic) correspondiente, al prestador del servicio público de transporte que cometa las siguientes infracciones:
+Se sancionará con multa equivalente a cien días de salario mínimo general vigente en la zona económica correspondiente a quien cometa las siguientes infracciones:
 
-I. Proporcionar servicio público en localidad distinta a la autorizada;
+I. Preste servicios de transporte público sin contar con el permiso o la concesión correspondiente;
 
-II. Realizar el servicio en vehículos distintos a los autorizados; y
-
-III. Realizar, sin tener concesión o permiso, el servicio público de transporte.
+II. Porte en un vehículo de uso particular los colores asignados por la dependencia del ejecutivo del estado competente en materia de Vialidad Tránsito y Transporte, para las unidades de transporte Público.
 
 > <small>(REFORMADO, P.O. 3 DE ABRIL DE 1999)</small>
 
@@ -2347,7 +2357,9 @@ En caso de reincidencia en las infracciones previstas en las fracciones VI y VII
 
 Tratándose de la infracción contenida en la fracción II del Artículo 167, al reincidente dentro de los treinta días siguientes o al grado de ebriedad, se le sancionará además con arresto administrativo inconmutable de 36 horas, y, de volver a reincidir dentro de los treinta días siguientes, independientemente del arresto administrativo inconmutable de treinta y seis horas, se le cancelará definitivamente su licencia, y solamente podrá proporcionársele con los mismos requisitos que deberá cumplir para la licencia nueva, además de una investigación de trabajo social y exámenes de toxicomanía y alcoholismo, que demuestren que el interesado no es dependiente de bebidas embriagantes, ni estupefacientes o psicotrópicos.
 
-Por la reincidencia en las infracciones previstas en los Artículos 165, 166 fracción II, 167 fracción II y VI, y 169, cometidas por, conductores del servicio público de transporte colectivo de pasajeros, dentro de los treinta días siguientes, la sanción se incrementará en cien días de salario mínimo general vigente en la zona en que se cometa la infracción.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2002)</small>
+
+Por la reincidencia en las infracciones previstas en los artículos 165, 166 fracción II, 167 Fracción II y VI, 169 y 173 Bis Fracción I y II, cometidas por conductores del servicio público de transporte colectivo de pasajeros dentro de los 30 días siguientes, la sanción se incrementará en doscientos días de salario mínimo general vigente en la zona que se cometa la infracción.
 
 ### CAPITULO IV. De las sanciones administrativas en materia del servicio público del transporte
 
@@ -2386,6 +2398,16 @@ V. Negarse injustificadamente a recibir carga o a levantar pasaje;
 VI. No usar taxímetro o cobrar una cuota mayor a la que resulte de aplicar la tarifa correspondiente; y
 
 VII. Aplicar condiciones diferentes de las autorizadas en la prestación del servicio.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2002)</small>
+
+###### Artículo 173 Bis.
+
+Se sancionará con multa equivalente a treinta días de salario mínimo general vigente en la zona económica que corresponda, a quien cometa las siguientes infracciones:
+
+I. Proporcionar servicio público en localidad distinta de la autorizada;
+
+II. Realizar el servicio en vehículos distintos a los autorizados.
 
 ###### Artículo 174.
 
@@ -2726,3 +2748,9 @@ Segundo. Se abrogan todas las disposiciones que se opongan al presente decreto.
 Tercero. Los ayuntamientos tendrán 180 días a partir del 1º de enero del 2001, para revisar conjuntamente con la Secretaría de Vialidad, Tránsito y Transporte del Gobierno del Estado de Jalisco, los planes y programas de transporte público de pasajeros que incidan en su ámbito territorial.
 
 Cuarto. Los derechos y obligaciones adquiridos por los permisionarios, concesionarios y subrogatorios del transporte público de pasajeros deberán ser respetados en los términos y condiciones en que los adquirieron.
+
+P.O. 9 DE MARZO DE 2002.
+
+Primero. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
