@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1996-12-27"
+last_updated: "1996-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -973,63 +973,65 @@ Son retenedores y responsables solidarios del pago de este impuesto, los despepi
 
 El Ejecutivo del Estado fijará el precio oficial para la compra-venta de algodón en sus diversas calidades, cuando no se conozca el precio de la operación o los precios estipulados en el contrato de compraventa no correspondan a los reales del mercado.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE LA APLICACION DE LOS PRECEPTOS LEGALES QUE ESTABLECE EL SIGUIENTE IMPUESTO ESTATAL, P.O. 31 DE DICIEMBRE DE 1979.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO VIII. Impuesto Sobre Hospedaje
+### CAPITULO VIII. Impuesto Sobre Servicios de Hospedaje
 
-###### ARTICULO 127.- N.
-
-DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
-
-###### ARTICULO 128.- N.
-
-DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
-
-###### ARTICULO 129.- N.
-
-DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
-
-###### ARTICULO 130.- N.
-
-DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
-
-###### ARTICULO 131.- N.
-
-DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
-
-###### ARTICULO 132.- N.
-
-DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 127.
 
-Es objeto del Impuesto Sobre Hospedaje, el importe que se causa por:
+Es objeto de este impuesto, los servicios de hospedaje que se reciban en el territorio del Estado, independientemente del nombre del acto que les dé origen.
 
-I.- Servicio de hospedaje que se reciban en hoteles, hospederías y otros similares.
+Para efectos de este impuesto, se consideran servicios de hospedaje, el otorgamiento de alojamiento o albergue temporal de personas a cambio de una contraprestación, proporcionados en hoteles, moteles, villas, cabañas, campamentos, paraderos de casas rodantes, marinas turísticas, y en cualquier otro establecimiento destinado a dar hospedaje turístico, incluyendo los que se presten bajo la modalidad de tiempo compartido.
 
-II.- Uso de campos destinados a estacionamiento de casas móviles o autotransportables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 128.
 
-Son sujetos de este Impuesto quienes reciban los servicios señalados con el Artículo anterior.
+Son sujetos de este impuesto, las personas que reciban los servidos a que se refiere el artículo anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 129.
 
-Este Impuesto se causará con base en el importe de los servicios y se pagará conforme a la tasa que fije la Ley de Ingresos del Estado.
+La base del impuesto será el valor de la contraprestación pactada por el servicio de hospedaje, sin incluir las demás cantidades que se carguen al usuario por cualquier otro concepto o por otros servicios relacionados con el objeto de este impuesto, siempre y cuando en el comprobante fiscal se haga constar en forma expresa y por separado el importe del servicio de hospedaje, así como el desglose de los demás servicios prestados.
+
+Cuando en los servicios de hospedaje, se incluyan servicios accesorios tales como alimentación, transportación, uso de instalaciones u otros similares y el comprobante fiscal no reúna los requisitos a que se refiere el párrafo anterior, se entenderá que la base gravable se integra con el costo de todos los servicios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 130.
 
-Los causantes de este Impuesto deberán enterarlo al momento de liquidar el importe de los servicios, siendo solidariamente responsables del pago del Impuesto y retenedores del mismo, los que presten los servicios señalados en el Artículo 127 del presente Capítulo.
+Este impuesto se determinará aplicando a la base gravable a que se refiere el artículo anterior, la tasa que al efecto señale la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1974)</small>
+Este impuesto será destinado para la promoción y difusión de la actividad turística del Estado, en la forma y términos que se establezca anualmente en la Ley de Ingresos del Estado, y será determinado por el Ejecutivo Estatal, a través de la Secretaría de Finanzas.
+
+Cuando los servicios a que se refiere el Artículo 127 de esta Ley, se reciban con motivo de los actos jurídicos que realice el prestador del servicio con personas físicas o morales directamente o a través de agencias operadoras mayoristas, agencias de viajes minoristas o empresas de sistemas de intercambio de servicios turísticos y de cualquier tipo con el propósito de dar alojamiento o albergue a terceras personas, se tendrá obligación de enterar el impuesto en el momento en que sean exigibles las contraprestaciones a favor de quien preste los servicios de hospedaje y sobre el monto de los mismos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 131.
 
-Los retenedores de este Impuesto deberán enterarlo en la Recaudación de Rentas correspondiente, dentro de los días del 1o., al 20 de cada mes mediante la presentación de una declaración en las formas aprobadas por la Secretaría de Finanzas.
+Quienes presten los servicios señalados en este capítulo, tendrán el carácter de retenedores y deberán enterarlo mensualmente en la Recaudación de Rentas correspondiente a su domicilio fiscal, a más tardar dentro del mes siguiente a aquel al que corresponda el impuesto causado, mediante las formas aprobadas por la Secretaría de Finanzas del Estado, debiendo constar en la declaración correspondiente, la información y demás datos relativos a los actos y operaciones objeto de este impuesto, que se hayan realizado en el mes inmediato anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 132.
 
-Las personas que presten los servicios a que se refiere el Artículo 127 de esta Ley, deberán llevar un control prenumerado de registro de clientes, el que originará la facturación correspondiente, independientemente de los demás registros que están obligados a llevar.
+Las personas que presten los servicios de hospedaje, serán responsables solidarios de este impuesto y además de las obligaciones señaladas en el Código Fiscal del Estado, tendrán las siguientes:
+
+I.- Estar inscritos en el Registro Estatal de Causantes, mediante la forma oficial correspondiente, y proporcionar la información relacionada con su identidad, su domicilio y aquella que le sea solicitada;
+
+II.- Retener y enterar el impuesto, aún cuando no hubieren hecho la retención o no hayan recibido el pago de las contraprestaciones del servicio prestado.
+
+III.- Llevar los controles contables necesarios que acrediten en forma fehaciente cada uno de los actos y operaciones objeto de este impuesto.
+
+Dentro de estos controles se incluye la separación expresa en el comprobante fiscal expedido del monto de las contraprestaciones correspondientes a los servicios de hospedaje, servicios accesorios, transportación, alimentación y otros similares.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 132 BIS.- No causarán este impuesto, los servicios de hospedaje que se reciban en hospitales, clínicas, asilos, conventos, seminarios e internados.
 
 ### CAPITULO IX. Impuesto Sobre Venta de Primera Mano de Gasolina y Demás Derivados del Petróleo
 
@@ -1829,6 +1831,10 @@ V. DERECHOS POR SERVICIOS DE LA DIRECCION DEL REGISTRO PUBLICO DE LA PROPIEDAD Y
 
 VI.- DERECHOS POR LA LEGALIZACION DE FIRMAS, EXPEDICION DE CERTIFICADOS Y CERTIFICACIONES.
 
+> <small>(ADICIONADA, 31 DE DICIEMBRE DE 1996)</small>
+
+VII.- IMPUESTO SOBRE SERVICIOS DE HOSPEDAJE.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 174.
@@ -2134,3 +2140,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 27 DE DICIEMBRE DE 1996.
 
 El presente Decreto entrará en vigor el siguiente día al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1996.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
