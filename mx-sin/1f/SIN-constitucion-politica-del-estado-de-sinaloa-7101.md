@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2004-01-28"
+last_updated: "2004-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2004.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -269,9 +269,7 @@ El territorio del Estado, se divide política y administrativamente como sigue:
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 1983)</small>
 
-I. En 18 Municipalidades autónomas a saber:
-
-Ahome, Fuerte, Choix, Guasave, Sinaloa, Angostura, Salvador Alvarado, Mocorito, Badiraguato, Culiacán, Navolato, Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa, con la extensión y límites que les correspondan.
+I. En 18 Municipalidades autónomas a saber: Ahome, Fuerte, Choix, Guasave, Sinaloa, Angostura, Salvador Alvarado, Mocorito, Badiraguato, Culiacán, Navolato, Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa, con la extensión y límites que les correspondan.
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -485,11 +483,11 @@ En los últimos tres casos, la convocatoria se hará por conducto de la misma Di
 
 Si el Congreso estuviere en período extraordinario de sesiones cuando deba comenzar el ordinario, cerrará aquél para inaugurar éste. A la apertura y clausura de todo período extraordinario de sesiones o prórroga del ordinario, deberán preceder los decretos respectivos.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2004)</small>
 
 ###### Art. 40.
 
-El quince de noviembre de cada año, el Ejecutivo del Estado remitirá al Congreso del Estado instalado en Sesión, un informe por escrito sobre la situación que guarda la Administración Pública. El Presidente de la Legislatura lo recibirá y remitirá a Comisiones para su conocimiento. Una vez recibido el informe, en fecha posterior, el Congreso celebrará reunión de trabajo, en los términos de su Ley Orgánica, con el titular del Ejecutivo y los miembros de su gabinete, para la valoración y análisis del informe rendido.
+El quince de noviembre de cada año, el Ejecutivo del Estado enviará al Congreso del Estado un informe por escrito sobre la situación que guarda la Administración Pública. Una vez recibido el informe, dentro de los quince días siguientes, el Congreso celebrará reunión de trabajo, en los términos de su Ley Orgánica, con el titular del Ejecutivo y los miembros de su gabinete, para la valoración y análisis del informe rendido.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1961)</small>
 
@@ -3000,6 +2998,12 @@ P.O. 28 DE ENERO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 25 DE AGOSTO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial " El Estado de Sinaloa".
 
 ###### ARTÍCULO CUARTO.
 
