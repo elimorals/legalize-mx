@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "1983-11-04"
+last_updated: "1983-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1983.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -1879,7 +1879,7 @@ VI. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren de
 
 La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
 
-I. Cuando la causa de divorcio estuviere comprendida en las fracciones I, II, lII, IV, V, VIII, XIV y XV del artículo 323, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere se nombrará tutor;
+I. Cuando la causa de divorcio estuviere comprendida en las fracciones I, II, lII, IV, V, VIII, XIV y XV del artículo 323, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere se nombrará tutor.
 
 II. Cuando las causas del divorcio estuvieren comprendidas en las fracciones X, XI, XII, XIII y XVI del artículo 323, los hijos quedarán bajo la patria potestad del cónyuge inocente pero a la muerte de éste el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables, se les suspenderá en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta. Entretanto, los hijos quedarán bajo la patria potestad del ascendiente que correspondan y si no hay quien la ejerza se les nombrará tutor;
 
@@ -2421,7 +2421,7 @@ No obstante lo dispuesto en la parte final del artículo anterior, el hijo podr�
 
 ###### Art. 443.
 
-El hecho de dar alimentos no constituye por sí sólo prueba, ni aun presunción, de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
+El hecho de dar alimentos no constituye por sí solo prueba, ni aun presunción, de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
 
 ###### Art. 444.
 
@@ -8207,6 +8207,10 @@ Sin embargo, cuando la deuda tuviere una parte liquida y otra ilíquida, podrá 
 
 El pago se hará en el tiempo designado en el contrato, exceptuando aquellos casos en que la ley permita o prevenga expresamente otra cosa.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 1983)</small>
+
+En los casos a que se refiere el Artículo 1590 no incurrirá el deudor en mora, si dentro del término de diez días de ser exigible la obligación, efectúa el ofrecimiento del pago ante la autoridad judicial, con los requisitos que, para el pago, señala el artículo anterior.
+
 ###### Art. 1571.
 
 El pago hecho después del vencimiento y aceptado por el acreedor, extinguirá la obligación.
@@ -8297,9 +8301,11 @@ Si el acreedor rehusare sin justa causa recibir la prestación debida, o dar el 
 
 Si el acreedor fuere conocido, pero dudosos sus derechos, podrá el deudor depositar la cosa debida, con citación del interesado, a fin de que justifique sus derechos por los medios legales
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 22 DE NOVIEMBRE DE 1983)</small>
+
 ###### Art. 1592.
 
-La consignación se hará siguiéndose el procedimiento que establezca el Código de la materia.
+El ofrecimiento del pago y la consignación se hará siguiéndose el procedimiento que establezca el Código de la materia.
 
 ###### Art. 1593.
 
@@ -15564,3 +15570,9 @@ DECRETO NUMERO 74 QUE REFORMA EL ARTICULO 2512 DEL CODIGO.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor al tercer día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 22 DE NOVIEMBRE DE 1983.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor el día primero de diciembre del año de 1983.
