@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-ministerio-publico-del-estado-de-baja-3320"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1992-05-20"
+last_updated: "1993-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MAYO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 21 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1976.
 
@@ -111,7 +111,7 @@ Las autoridades que tengan conocimiento de hechos delictuosos o violación de la
 
 ### CAPITULO PRIMERO. DEL PERSONAL
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 9o.
 
@@ -119,35 +119,23 @@ El personal del Ministerio Público del Estado se integrará por:
 
 I. Un Procurador General de Justicia, Jefe del Ministerio Público del Fuero Común.
 
-II. Un Subprocurador, substituto del Procurador General de Justicia.
+II. Un Subprocurador sustituto del Procurador General de Justicia.
 
-> <small>(REFORMADA, B.O. 20 DE MAYO DE 1992)</small>
+III. Un Subprocurador de Atención a la Mujer y al Menor.
 
-III. Un Director de Averiguaciones Previas y de Control de Procesos, Agente del Ministerio Público.
+IV. Un Director de Averiguaciones Previas y de Control de Procesos, Agente del Ministerio Público.
 
-> <small>(REFORMADA, B.O. 20 DE MAYO DE 1992)</small>
+V. Un Director de Servicios Periciales.
 
-IV. Un Director de Servicios Periciales.
+VI. Un Director de la Policía Judicial.
 
-> <small>(REFORMADA, B.O. 20 DE MAYO DE 1992)</small>
+VII. Los Agentes del Ministerio Público Investigadores y Adscritos a los Juzgados y al Tribunal Superior de Justicia.
 
-V. Un Director de la Policía Judicial.
+VIII. Los Agentes del Ministerio Público adscritos al Procurador General de Justicia.
 
-> <small>(REFORMADA, B.O. 20 DE MAYO DE 1992)</small>
+IX. Los Agentes Auxiliares del Ministerio Público; y
 
-VI. Los Agentes del Ministerio Público investigadores y adscritos a los Juzgados y al Tribunal Superior de Justicia.
-
-> <small>(REFORMADA, B.O. 20 DE MAYO DE 1992)</small>
-
-VII. Los Agentes del Ministerio Público adscritos al Procurador General de Justicia.
-
-> <small>(REFORMADA, B.O. 20 DE MAYO DE 1992)</small>
-
-VIII. Los Agentes Auxiliares del Ministerio Público.
-
-> <small>(ADICIONADA, B.O. 20 DE MAYO DE 1992)</small>
-
-IX. Los Subdirectores, Jefes de Oficina y demás personal que señale el presupuesto.
+X. Los Subdirectores, Jefes de Oficina, y demás personal que señale el presupuesto.
 
 ###### ARTICULO 10o.
 
@@ -494,6 +482,26 @@ XIX. Las demás que le señalen las Leyes, los Reglamentos y el Procurador Gener
 ###### ARTICULO 36.
 
 Para el efecto de cumplir con las facultades y obligaciones señaladas en el artículo anterior, en la Sub-Procuraduría se llevará un expediente de cada uno de los distintos negocios Judiciales que se tramiten ante los Tribunales del Fuero Común, que contendrá, cuando menos, las copias siguientes: de la averiguación previa y el pliego de consignación; de la declaración preparatoria; del auto de formal prisión o del de libertad por falta de méritos; de los recursos interpuestos; de los pedimentos formulados; de las conclusiones; de las resoluciones incidentales o substanciales que se dicten; de la demanda; contestación de la demanda; ofrecimiento de pruebas; pedimentos procedentes; recursos; y demás documentos o resoluciones de importancia.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 1993)</small>
+
+ARTICULO 36 A.- Son atribuciones del Subprocurador de Atención a la Mujer y al Menor:
+
+I. Brindar orientación social, legal y familiar a todas las personas que lo soliciten.
+
+II. Brindar atención integral a las víctimas de los delitos contra la libertad sexual, contra la familia y el menor con el propósito de promoverles el bienestar emocional y cabal satisfacción de sus intereses.
+
+III. Sensibilizar y capacitar constantemente a todo el personal involucrado, sobre el apoyo, orientación y atención en su caso a las personas que le soliciten.
+
+IV. Concertar, coordinar con otras dependencias programas y acciones para la atención individual, grupal o familiar a mujeres y menores víctimas de la violencia doméstica, delitos sexuales y otros delitos que pongan en peligro su equilibrio emocional e integridad física.
+
+V. Implementar programas y promover su difusión en relación a la atención y prevención de los delitos que afecten en sus derechos a la mujer y el menor.
+
+VI. Promover y realizar acciones con el propósito de difundir y sensibilizar a la ciudadanía en el fenómeno de la violencia y la protección de los derechos de la mujer y el menor.
+
+VII. Promover y organizar la participación ciudadana en coordinación con asociaciones que resulten interesados en las actividades y programas de esta Subprocuraduría.
+
+VIII. Las demás que le señalen los reglamentos y el Procurador.
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 20 DE MAYO DE 1992)</small>
 
@@ -936,3 +944,9 @@ B.O. 20 DE MAYO DE 1992.
 ###### ARTICULO UNICO.
 
 ESTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE AL DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+B.O. 21 DE DICIEMBRE DE 1993.
+
+###### ARTICULO UNICO
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
