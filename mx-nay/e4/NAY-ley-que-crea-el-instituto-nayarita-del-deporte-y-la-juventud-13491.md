@@ -4,7 +4,7 @@ identifier: "NAY-ley-que-crea-el-instituto-nayarita-del-deporte-y-la-juventud-13
 country: "mx"
 rank: "ley"
 publication_date: "1989-02-25"
-last_updated: "1989-02-25"
+last_updated: "2004-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY QUE CREA EL INSTITUTO NAYARITA DEL DEPORTE Y LA JUVENTUD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DE LA LEY DEL DEPORTE PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 1 DE MAYO DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 25 de febrero de 1989.
 
@@ -89,7 +91,7 @@ El instituto estará a cargo de un Director que será designado por el Ejecutivo
 
 El Director del Instituto tendrá las siguientes funciones:
 
-I.- Representar legalmente al Instituto con todas la facultades propias de su Representante o Mandatario General, pudiendo celebrar los actos y convenidos inherentes a los fines del Instituto.
+I.- Representar legalmente al Instituto con todas las facultades propias de su Representante o Mandatario General, pudiendo celebrar los actos y convenidos inherentes a los fines del Instituto.
 
 II.- Planear, programar, coordinar, dirigir, controlar y evaluar el funcionamiento de Instituto.
 
@@ -136,3 +138,17 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario Gral. de Gobierno
 
 Lic. Pedro Ponce de León Montes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE MAYO DE 2004.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- El Reglamento de esta Ley deberá ser expedido en un plazo no mayor de 90 días contados a partir de la entrada en vigor de la presente Ley.
+
+TERCERO.- El INDEJ en un plazo de 60 días contados a partir de la entrada en vigor de la presente Ley, deberá integrar el Sistema Estatal del Deporte; y éste a su vez en un lapso de tiempo igual deberá constituir a la Junta de Gobierno.
+
+CUARTO.- En un plazo que no exceda de 90 días de la entrada en vigor de la presente Ley, deberá estar Constituido el Fondo Estatal del Deporte, el Salón de la Fama del Deportista Nayarita; así como el Comité de Antidopaje, La Comisión de Apelación y Arbitraje del Deporte y el Centro de Medicina Deportiva y Ciencias Aplicables del Estado de Nayarit.
+
+QUINTO.- Se derogan las disposiciones que se opongan a la presente ley contenidas en el decreto 7202 publicado con fecha 25 de febrero del año 1989, en el Periódico Oficial Órgano del Gobierno del Estado.
