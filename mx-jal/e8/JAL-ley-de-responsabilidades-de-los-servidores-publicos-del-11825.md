@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2001-12-13"
+last_updated: "2002-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -122,6 +122,10 @@ II. Los actos u omisiones encaminados a alterar la forma de gobierno republicano
 III. Las violaciones graves o sistemáticas a las garantías individuales o sociales, siempre y cuando estén fundadas en sentencias firmes emanadas de los tribunales competentes; y
 
 IV. Los actos u omisiones que contravengan la Constitución local o las leyes que de ella emanan o los reglamentos, cuando causen daños patrimoniales graves al Estado, al municipio o a la sociedad, o motiven algún trastorno grave en el funcionamiento normal de sus instituciones.
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2002)</small>
+
+V. Percibir o asignar cualquier tipo de pago, prestación, compensación o bono alguno que no esté expresamente asignado en el presupuesto de egresos correspondiente.
 
 El ataque, la violación, el daño o trastorno a que se refieren las fracciones anteriores, debe ser cierto y existir la evidencia de haberse producido como consecuencia directa e inmediata del acto u omisión del servidor público.
 
@@ -1074,3 +1078,11 @@ TERCERO.- Las presentes reformas no se aplicarán a los Síndicos, en tanto no s
 P.O. 13 DE DICIEMBRE DE 2001.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco."
+
+P.O. 12 DE FEBRERO DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- Para el ejercicio fiscal del 2002, el Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, será convocado de inmediato, para que a más tardar el 31 de marzo del 2002, evalúe las percepciones aprobadas en los presupuestos respectivos, sin que esta evaluación pueda afectar las prestaciones ya aprobadas.
