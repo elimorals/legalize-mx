@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-contaduria-general-del-congreso-del-4564"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "1999-06-30"
+last_updated: "1999-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DE LA CONTADURIA GENERAL DEL CONGRESO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -130,6 +130,10 @@ Si de la revisión legal, numérica, financiera, física y contable relacionada 
 > <small>(F. DE E., P.O. 9 DE AGOSTO DE 1995)</small>
 
 La resolución del Pleno que recaiga a lo anterior podrá ser: se inicie en su caso por el presidente el procedimiento administrativo que corresponda; se turne lo actuado al Ministerio Público para que acuerde lo que proceda, o de archivo por no existir responsabilidad.
+
+(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1999) (F. DE E., P.O. 23 DE FEBRERO DE 2000)
+
+Cuando la revisión o auditoría verse sobre un ejercicio fiscal de cualquier ente que recaude, administre o maneje fondos públicos, independientemente de su denominación y haya sido administrado por dos o más titulares, en forma sucesiva, durante dicho período, la Contaduría General remitirá copia de los resultados de la auditoría practicada al exfuncionario o exfuncionarios públicos que hubiesen presidido el organismo de que se trate, solicitándole que rinda sus aclaraciones dentro del plazo señalado anteriormente.
 
 ### CAPITULO TERCERO. DEL CONTADOR GENERAL DEL CONGRESO
 
@@ -330,3 +334,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 30 DE JUNIO DE 1999.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE DICIEMBRE DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
