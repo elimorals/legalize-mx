@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-hospital-para-el-nino-poblano-10797"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-08"
-last_updated: "1992-12-08"
+last_updated: "1994-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL HOSPITAL PARA EL NIÑO POBLANO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 1994.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 8 de diciembre de 1992.
 
@@ -113,7 +113,7 @@ El hospital contará también con un consejo técnico consultivo como órgano de
 
 ###### ARTICULO 6o.
 
-El hospital contará con un órgano de vigilancia, que estará a cargo de un contralor interno.
+(DEROGADO, P.O. 29 DE JULIO DE 1994)
 
 ###### ARTICULO 7o.
 
@@ -135,7 +135,9 @@ El Presidente de la Junta Directiva será designado por el Titular del Poder Eje
 
 El Vice-Presidente de la Junta Directiva será elegido por la Comisión Ejecutiva de entre los propios miembros de la Junta.
 
-El Revisor, Secretario y Tesorero serán el Jefe de los Servicios Médicos en el Estado, el Director General del D.I.F. Estatal, y el Secretario de Finanzas del Gobierno del Estado respectivamente.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1994)</small>
+
+El revisor, secretario y tesorero serán el Secretario de Salud del Estado, el Director General del D.I.F. y el Secretario de Finanzas del Gobierno del Estado, respectivamente.
 
 ###### ARTICULO 12.
 
@@ -173,7 +175,9 @@ II.- Contribuir a la obtención de recursos que promuevan el cumplimiento de los
 
 III.- Aprobar, en los términos de la Legislación aplicable, los programas y presupuestos del hospital, así como sus modificaciones;
 
-IV.- Aprobar cada año los estados financieros del hospital y autorizar su publicación, previo informe del Contralor Interno y del Dictamen de los auditores externos;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 1994)</small>
+
+IV.- Aprobar cada año, los estados financieros del Hospital y autorizar su publicación, previo informe del Comisario y Dictamen de los auditores externos;
 
 V.- Aprobar la concertación de empréstitos y créditos internos y externos para el financiamiento del hospital, de acuerdo a los lineamientos relativos al manejo de disponibilidades financieras que dicten las autoridades competentes. En lo que se refiere a los créditos externos deberá informar a las autoridades competentes a fin de que, en su caso sean autorizados y registrados;
 
@@ -199,7 +203,7 @@ XV.- Designar y remover a propuesta del Director General a los Servidores Públi
 
 XVI.- Aprobar la creación de nuevas unidades de investigación y de servicios, sujetándose a estudios previos de necesidades y factibilidad;
 
-XVII.- Nombrar al contralor interno y suplente;
+XVII.- (DEROGADA, P.O. 29 DE JULIO DE 1994)
 
 XVIII.- Aceptar, en su caso, la propuesta que haga el Consejo Técnico Consultivo de médicos que puedan ejercer su práctica en el área del hospital, destinada para tales efectos, siempre que se cumplan las disposiciones reglamentarias; y
 
@@ -215,7 +219,9 @@ La Junta Directiva en pleno, celebrará sesiones ordinarias, cada tres meses, pa
 
 La Comisión Ejecutiva de la Junta Directiva celebrará sesiones ordinarias, por lo menos una vez al mes y las extraordinarias que proponga su Presidente o cuando menos tres de sus miembros. Para la validez de las acciones, se requerirá de la asistencia cuando menos de la mitad más uno de sus miembros, siempre que entre ellos figure el Presidente o el Vice-Presidente. Los acuerdos serán tomados por mayoría y el Presidente, o en ausencia de éste, el Vice-Presidente, tendrá voto de calidad para los casos de empate.
 
-El Director General, el Sub-Director Administrativo y el Contralor Interno podrán concurrir a las sesiones de la Junta con derecho a voz, pero sin voto, cuando sean convocados por la misma.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1994)</small>
+
+El Director General y el Subdirector Administrativo podrán concurrir a las sesiones de la Junta, con voz pero sin voto, cuando sean convocados por la misma.
 
 ###### ARTICULO 18.
 
@@ -265,7 +271,9 @@ I.- Vigilar el correcto ejercicio del Presupuesto y recursos del hospital;
 
 II.- Analizar los estados financieros y los presupuestos del hospital;
 
-III.- Recibir los informes del contralor interno. Cuando lo considere conveniente avisará al Presidente de la Junta Directiva para que sea citado e informe directamente de los asuntos que se le indiquen;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 1994)</small>
+
+III.- Recibir los informes del Comisario. Cuando lo considere conveniente, avisará al Presidente de la Junta Directiva para que sea citado e informe directamente de los asuntos que se le indiquen;
 
 IV.- Informar a la Junta Directiva del resultado de los análisis financieros; y
 
@@ -307,9 +315,11 @@ III.- Presentar al Secretario para su certificación, los acuerdos que tome la J
 
 IV.- Distribuir la correspondencia de trámite de la Junta.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 28.
 
-El Secretario de Acuerdos deberá ser nombrado por el Presidente de la Junta a propuesta de la comisión ejecutiva y percibirá los honorarios que ésta determite (sic).
+El Secretario de Acuerdos, deberá ser nombrado por el Presidente de la Junta, a propuesta de la Comisión Ejecutiva.
 
 ###### ARTICULO 29.
 
@@ -355,7 +365,9 @@ XI.- Fijar las condiciones generales de trabajo del personal con la aprobación 
 
 XII.- Aplicar las medidas correctivas recomendadas por el órgano de vigilancia del hospital y que sean convenientes para la organización y funcionamiento del mismo;
 
-XIII.- Proporcionar al contralor interno la información que le solicite para el cumplimiento de sus funciones;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 1994)</small>
+
+XIII.- Proporcionar al Comisario Público la información que le solicite, para el cumplimiento de sus funciones;
 
 XIV.- Las demás que con fundamento en la presente Ley le sean delegadas por la Junta Directiva.
 
@@ -379,21 +391,13 @@ IV.- Realizar las demás funciones que le confiera el Reglamento del Consejo Té
 
 El hospital tendrá un órgano interno de control, que será parte integrante de la estructura del mismo, con objeto de apoyar la función directiva y promover el mejoramiento de la gestión.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 35.
 
-El órgano interno de control desarrollará sus funciones conforme a los lineamientos que emita la Secretaría de la Contraloría General del Estado, de acuerdo con las siguientes bases:
+Para la vigilancia, control y evaluación del Organismo, la Secretaría de la Contraloría General del Estado designará un Comisario Público, que tendrá las atribuciones que a la misma Secretaría le otorgan, la Ley Orgánica de la Administración Pública del Estado y las demás disposiciones legales aplicables.
 
-I.- Dependerá del Director General;
-
-II.- Realizara sus actividades de acuerdo a reglas y bases que le permitan ejecutar su cometido con autosuficiencia y autonomía;
-
-III.- Examinará y evaluará los sistemas, mecanismos y procedimientos de control;
-
-IV.- Efectuará revisiones y auditorías;
-
-V.- Vigilará que el manejo y aplicación de los recursos se efectúe conforme a las disposiciones aplicables; y
-
-VI.- Presentará al Director General y a la Junta Directiva los informes resultantes de las auditorías médicas, exámenes y evaluaciones realizadas.
+El Comisario Público, que tendrá un Suplente, asistirá a las Sesiones del Organismo, con voz pero sin voto.
 
 ###### ARTICULO 36.
 
@@ -426,3 +430,15 @@ EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Pala
 DIPUTADO PRESIDENTE.- LIC. RODOLFO BUDIB LICHTLE.- RUBRICA.- DIPUTADO SECRETARIO.- HECTOR GONZALEZ REYEZ.- RUBRICA.- DIPUTADO SECRETARIO.- LIC. JUAN MIGUEL MADERA LOPEZ.- RUBRICA.-
 
 POR TANTO MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SUS EFECTOS, DADO EN EL PALACIO DEL PODER EJECUTIVO EN LA HEROICA PUEBLA DE Z., A LOS TRES DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y DOS.- EL GOBERNADOR DEL ESTADO.- LIC. MARIANO PIÑA OLAYA.- RUBRICA.- EL SECRETARIO DE GOBERNACION.- LIC. HECTOR JIMENEZ Y MENESES.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE JULIO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
