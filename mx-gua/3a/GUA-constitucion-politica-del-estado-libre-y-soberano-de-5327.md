@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2003-12-23"
+last_updated: "2005-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2005.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -549,11 +549,11 @@ El Gobierno del Estado es Republicano, Representativo y Democrático, teniendo c
 
 ### CAPITULO UNICO. DEL TERRITORIO DEL ESTADO
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 33.
 
-El Estado de Guanajuato se divide en los Municipios siguientes: Abasolo, Acámbaro, Allende, Apaseo el Alto, Apaseo el Grande, Atarjea, Celaya, Comonfort, Coroneo, Cortazar, Cuerámaro, Dolores Hidalgo, Doctor Mora, Guanajuato, Huanímaro, Irapuato, Jaral del Progreso, Jerécuaro, León, Manuel Doblado, Moroleón, Ocampo, Pénjamo, Pueblo Nuevo, Purísima del Rincón, Romita, Salamanca, Salvatierra, San Diego de la Unión, San Felipe, San Francisco del Rincón, San José Iturbide, San Luis de la Paz, Santa Catarina, Santa Cruz de Juventino Rosas, Santiago Maravatío, Silao, Tarandacuao, Tarimoro, Tierra Blanca, Uriangato, Valle de Santiago, Victoria, Villagrán, Xichú y Yuriria, con los límites y la extensión que actualmente se les reconoce.
+El Estado de Guanajuato se divide en los Municipios siguientes: Abasolo, Acámbaro, Apaseo el Alto, Apaseo el Grande, Atarjea, Celaya, Comonfort, Coroneo, Cortazar, Cuerámaro, Dolores Hidalgo, Doctor Mora, Guanajuato, Huanímaro, Irapuato, Jaral del Progreso, Jerécuaro, León, Manuel Doblado, Moroleón, Ocampo, Pénjamo, Pueblo Nuevo, Purísima del Rincón, Romita, Salamanca, Salvatierra, San Diego de la Unión, San Felipe, San Francisco del Rincón, San José Iturbide, San Luis de la Paz, San Miguel de Allende, Santa Catarina, Santa Cruz de Juventino Rosas, Santiago Maravatío, Silao, Tarandacuao, Tarimoro, Tierra Blanca, Uriangato, Valle de Santiago, Victoria, Villagrán, Xichú y Yuriria, con los límites y la extensión que actualmente se les reconoce.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2253,11 +2253,11 @@ II.- Los Presidentes Municipales, los Síndicos y los Regidores que se elijan el
 
 Art. 6º La Ley Electoral del Estado proveerá lo necesario en cada caso, a fin de que estas disposiciones tengan un exacto cumplimiento, y para que la modificación a la periodicidad establecida por los artículos constitucionales mencionados, se concrete precisamente a los casos enunciados en las dos fracciones del artículo anterior.
 
-Dada en Guanajuato, a los tres días del mes de septiembre del año de mil novecientos diecisiete.- Presidente, Lic. José M. Ortega, Diputado por el 2º Distrito.- Vice-Presidente, Lic. Catarino Juárez, Diputado por el 9º Distrito.- Primer Secretario, Zabulón Puente, Diputado pon (sic) el 3er Distrito.- Segundo Secretario, J. Cruz Torres jr., Diputado Suplente por el 8º Distrito.- Dr. Luis P. Bustamante, Diputado por el 1er. Distrito.- Dr. Anastasio López Escobedo, Diputado por el 4º Distrito.- J. Trinidad Covarrubias, Diputado por el 5º Distrito.- José J. López. Diputado por el 6º Distrito.- Bartolomé Gutiérrez L., Diputado suplente por el 7º Distrito.- Alfonso Ayala, Diputado por el 10º Distrito.- Juan Barrón, Diputado por el 11º Distrito,- Jesús Delgado, Diputado por el 12º Distrito.- Arnulfo M. Miranda, Diputado por el 13º Distrito.- Ricardo A. Alamán, Diputado por el 14º Distrito.- Manuel Delgado, Diputado por el 15º Distrito."
+Dada en Guanajuato, a los tres días del mes de septiembre del año de mil novecientos diecisiete.- Presidente, Lic. José M. Ortega, Diputado por el 2º Distrito.- Vice-Presidente, Lic. Catarino Juárez, Diputado por el 9º Distrito.- Primer Secretario, Zabulón Puente, Diputado pon (sic) el 3er Distrito.- Segundo Secretario, J. Cruz Torres jr., Diputado Suplente por el 8º Distrito.- Dr. Luis P. Bustamante, Diputado por el 1er. Distrito.- Dr. Anastasio López Escobedo, Diputado por el 4º Distrito.- J. Trinidad Covarrubias, Diputado por el 5º Distrito.- José J. López. Diputado por el 6º Distrito.- Bartolomé Gutiérrez L., Diputado suplente por el 7º Distrito.- Alfonso Ayala, Diputado por el 10º Distrito.- Juan Barrón, Diputado por el 11º Distrito.- Jesús Delgado, Diputado por el 12º Distrito.- Arnulfo M. Miranda, Diputado por el 13º Distrito.- Ricardo A. Alamán, Diputado por el 14º Distrito.- Manuel Delgado, Diputado por el 15º Distrito."
 
 Por tanto, mando se imprima, publique por bando solemne y circule para su debido cumplimiento.
 
-Dada en Guanajuato, a los tres dias del mes de septiembre de mil novecientos diez y siete.
+Dada en Guanajuato, a los tres días del mes de septiembre de mil novecientos diez y siete.
 
 Agustín Alcocer.
 
@@ -2712,3 +2712,53 @@ Artículo Primero.- El presente decreto entrará en vigor el día 1º primero de
 Artículo Segundo.- El Estado y los Municipios deberán contemplar en sus respectivos presupuestos de egresos, a partir de los correspondientes al ejercicio fiscal del 2004 dos mil cuatro, una partida especial para hacer frente a su responsabilidad patrimonial.
 
 Artículo Tercero.- La reforma al artículo 51 entrará en vigor a partir del 25 veinticinco de septiembre del año 2004 dos mil cuatro.
+
+P.O. 18 DE MARZO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ayuntamiento de San Miguel de Allende se sustituirá en todos los derechos, obligaciones, personalidad jurídica y patrimonio propio del Ayuntamiento de Allende, a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Una vez que sancione y promulgue el presente Decreto el Gobernador del Estado, remítase copia de la publicación en el Periódico Oficial del Gobierno del Estado y de su dictamen, a las siguientes autoridades:
+
+Municipales:
+
+1.- A los cuarenta y seis Ayuntamientos del Estado de Guanajuato.
+
+Estatales:
+
+1.- Titular del Poder Ejecutivo Estatal;
+
+2.- Entidades de la Administración Pública Estatal;
+
+3.- Pleno del Supremo Tribunal de Justicia y Consejo del Poder Judicial del Estado; y
+
+4.- Organismos Autónomos.
+
+Federales:
+
+1.- Titular del Poder Ejecutivo Federal;
+
+2.- Entidades de la Administración Pública Federal;
+
+3.- Cámara de Diputados del Congreso de la Unión y Senado de la República;
+
+4.- Suprema Corte de Justicia de la Nación, Consejo de la Judicatura Federal y Tribunal Electoral del Poder Judicial de la Federación;
+
+5.- Tribunal Federal de Justicia Fiscal y Administrativa; y
+
+6.- Organismos Autónomos.
+
+###### ARTÍCULO CUARTO.
+
+Cualquier referencia que en las Leyes, Decretos u otros ordenamientos exista al Municipio de Allende, se entenderán hechas al Municipio de San Miguel de Allende.
+
+###### ARTÍCULO QUINTO.
+
+El Ayuntamiento de San Miguel de Allende realizará en el ámbito de su competencia, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, todas las modificaciones a sus Reglamentos Municipales, Bandos de Policía y Buen Gobierno, circulares y demás disposiciones administrativas de observancia general que sean conducentes para adecuarse a las disposiciones del presente Decreto.
