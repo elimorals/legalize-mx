@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1996-12-27"
+last_updated: "1997-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -901,11 +901,13 @@ III.- Los empleados o funcionarios públicos que autoricen cualquier trámite de
 
 ### CAPITULO CUARTO. Del Impuesto por Obtención de Premios
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 1997)</small>
 
 ###### ARTICULO 113.
 
-Es objeto de este impuesto la percepción de premios derivados de la celebración de loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase, autorizados legalmente.
+Es objeto de este Impuesto la percepción de premios derivados de la celebración de loterías, rifas, sorteos y concursos de toda clase que celebren los organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
+
+También es objeto de este impuesto la percepción de premios derivados de la celebración de juegos con apuestas.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2747,8 +2749,6 @@ X.- Por expedición de certificaciones relativas a los derechos patrimoniales de
 
 ## TITULO CUARTO. De los Productos
 
-(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P.O. 31 DE DICIEMBRE DE 1993)
-
 ### CAPITULO SEXTO. De los Derechos por Servicios Prestados por la Secretaría de Desarrollo Urbano y Obras Públicas
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
@@ -2916,6 +2916,8 @@ VIII.- Por la expedición de diversas constancias y certificaciones 2.5 cuotas
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 IX.- Por información de alineamiento de la vialidad 1.5 cuotas
+
+(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P.O. 31 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 278.
 
@@ -3332,3 +3334,7 @@ Durante 1997 no se cubrirán los ingresos previstos en los artículos 281 y 282 
 ###### ARTICULO TERCERO.
 
 Durante el año de 1997, los derechos por servicios prestados en el Registro Público de la Propiedad y del Comercio se cubrirán a una tarifa especial de 41 cuotas, en la inscripción de documentos en los que se consignen adquisiciones provenientes de dación en pago o adjudicación judicial o fiduciaria, realizadas por contribuyentes que por disposición legal no pueden conservar la propiedad de dichos bienes, tales como Instituciones Nacionales de Crédito, Organizaciones Auxiliares de Crédito y Casas de Bolsa.
+
+P.O. 25 DE ABRIL DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
