@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-5356"
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "1999-12-28"
+last_updated: "2003-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -41,23 +41,31 @@ LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
 ## TITULO PRIMERO. DE LOS IMPUESTOS
 
-### CAPITULO PRIMERO. DEL IMPUESTO SOBRE ADQUISICION DE BIENES MUEBLES NO AFECTOS AL IMPUESTO AL VALOR AGREGADO
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE DICIEMBRE DE 2003)</small>
+
+### CAPITULO PRIMERO. DEL IMPUESTO POR ADQUISICION DE VEHICULOS DE MOTOR USADOS
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 1.
 
-Están obligados al pago de este Impuesto las personas físicas o morales que adquieran bienes muebles usados, por cualquier título o causa.
+Es objeto de este impuesto la adquisición de vehículos de motor usados por cualquier título y que no causen el impuesto al valor agregado.
 
-###### ARTICULO 2.
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
 
-Servirá de base para el pago del Impuesto:
+###### ARTICULO 1 Bis.
 
-I.- Tratándose de vehículos, el precio más alto que resulte de la operación o del que, por modelo señale la Secretaría de Administración Financiera del Estado en las tablas que trimestralmente autorice para este efecto, o el fijado por los peritos que designe la propia Secretaría en los casos que no se haga figurar el precio de la operación o cuando se trate de vehículos no clasificados, accidentados o fuera de uso.
+Están obligados al pago de este impuesto las personas físicas y morales que adquieran los vehículos de motor señalados en el artículo anterior.
 
-II.- Tratándose de otros bienes muebles, el valor de la operación. Cuando este valor sea notoriamente bajo en relación al precio comercial, la Secretaría de Administración Financiera procederá a efectuar avalúo pericial para determinar su valor real.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
+
+AETICULO 2.- La base para el pago de este impuesto será el precio más alto que resulte entre el valor de la operación y el que fije la Secretaría de Finanzas y Administración en las tablas de valores que anualmente autorice para este efecto, y que deberá expedir durante el primer trimestre del ejercicio fiscal, tomando como referencia los precios comerciales de compra que rijan entre los comerciantes del ramo, o el que determine la propia Secretaría mediante avalúo.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 3.
 
-Este Impuesto se liquidará de acuerdo con la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato.
+Este impuesto se determinará de acuerdo con la tasa que establezca la Ley de Ingresos para el Estado de Guanajuato.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
@@ -65,13 +73,15 @@ Este Impuesto se liquidará de acuerdo con la tasa que establezca anualmente la 
 
 El impuesto se pagará dentro de los 15 días siguientes a la adquisición y se liquidará en la Oficina Recaudadora que corresponda, presentando la factura o documento en que se haya hecho constar.
 
-Los contribuyentes, comprobarán el pago del Impuesto, mediante el comprobante correspondiente que expidan las Oficinas Recaudadoras, dependientes de la Secretaría de Planeación y Finanzas.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+Los contribuyentes acreditarán el pago del impuesto mediante el recibo oficial que expidan las Oficinas Recaudadoras de la Secretaría de Finanzas y Administración.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 5.
 
-En el caso de adquisición de vehículos, las Oficinas Recaudadoras, no harán ningún registro o inscripción, ni tramitarán ninguna solicitud de alta o baja de vehículos, cuando no se hubiera cubierto previamente el impuesto a que se refiere este Capítulo.
+Las Oficinas Recaudadoras no autorizarán ningún registro o inscripción, baja o modificación en el padrón vehicular, cuando no se hubiera cubierto previamente este impuesto.
 
 ### CAPITULO SEGUNDO. DEL IMPUESTO SOBRE CINEMATOGRAFOS
 
@@ -207,29 +217,23 @@ III.- Imposibiliten, por cualquier medio, el conocimiento de las operaciones que
 
 Las infracciones a las disposiciones de este capítulo se sancionarán en los términos del Código Fiscal para el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 12-M.
 
-La administración del 90% de los ingresos que se obtengan de este impuesto, corresponderá a la entidad pública que determine el Ejecutivo del Estado, sectorizada a la Secretaría de Desarrollo Económico; su órgano de gobierno se integrará con representantes del Gobierno del Estado y del sector turístico.
+La administración del 90% de los ingresos que se obtengan de este impuesto, corresponderá a la Coordinadora de Turismo, sectorizada a la Secretaría de Desarrollo Económico Sustentable.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+En la administración de los ingresos señalados en el párrafo anterior, la Coordinadora de Turismo tendrá únicamente como finalidades: la promoción y difusión de la imagen turística del Estado y municipios de Guanajuato, la inversión y desarrollo en paraderos turísticos públicos, así como la participación del Estado, en los fondos concurrentes con los gobiernos federal y municipales y el sector privado en esta materia.
 
-La entidad pública a que se refiere el primer párrafo tendrá como finalidad, entre otras, realizar estudios y proyectos en materia turística; mejorar, promover y difundir la imagen del Estado y sus municipios; invertir en la capacitación del personal y en paraderos turísticos públicos, así como aportar la participación del Estado en los fondos concurrentes con los Gobiernos Federal y municipales y el sector privado.
+La Secretaría de Finanzas y Administración entregará a la Coordinadora de Turismo los ingresos captados, dentro de los 30 días siguientes al mes en que se deba pagar este impuesto en la Oficina Recaudadora.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+En la cuenta pública estatal, se deberá reflejar la aplicación que se haga de lo recaudado por este concepto, en los términos de esta Ley. Para este efecto la Coordinadora de Turismo deberá presentar a la Secretaría de Finanzas y Administración un informe financiero en forma trimestral.
 
-La Secretaría de Planeación y Finanzas entregará a la entidad los ingresos captados, dentro de los treinta días siguientes al mes en que se deba pagar este impuesto en la oficina recaudadora.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
-
-En la cuenta pública estatal, se deberá reflejar la aplicación que se haga de lo recaudado por este concepto, en los términos de esta Ley. Para este efecto la entidad señalada deberá presentar a la Secretaría de Planeación y Finanzas un informe financiero en forma trimestral.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 12-N.
 
-El 90% de los ingresos obtenidos de la recaudación de este impuesto, se destinarán a la constitución de un fondo de promoción y difusión para el turismo del Estado, que será administrado en los términos del artículo anterior; y el 10% a la Secretaría de Planeación y Finanzas para gastos de administración integral del impuesto.
+El 90% de los ingresos obtenidos de la recaudación de este impuesto, se destinará a la constitución de un fondo de promoción y difusión para el turismo del Estado, que será administrado en los términos del artículo anterior; y el 10% a la Secretaría de Finanzas y Administración para gastos de administración integral del impuesto.
 
 ## TITULO SEGUNDO. DE LOS DERECHOS
 
@@ -239,9 +243,11 @@ El 90% de los ingresos obtenidos de la recaudación de este impuesto, se destina
 
 Los Derechos por la prestación de servicios públicos que presten las diversas dependencias del Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento en que se provoque por parte del Estado el gasto que deba ser remunerado por aquél, salvo el caso en que las (sic) disposición que fije el Derecho, señale cosa distinta.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 14.
 
-El importe de las cuotas que para cada derecho señala anualmente la Ley de Ingresos respectivamente deberá ser cubierto, en la Oficina Recaudadora con jurisdicción donde se preste el servicio, o en el lugar que al efecto señale la Secretaría de Administración Financiera, salvo lo dispuesto en el capítulo tercero de este título.
+El importe de las cuotas que para cada derecho señala anualmente la Ley de Ingresos respectivamente deberá ser cubierto, en la Oficina Recaudadora con jurisdicción donde se preste el servicio o en el lugar que al efecto señale la Secretaría de Finanzas y Administración, salvo lo dispuesto en el Capítulo Tercero de este Título.
 
 ###### ARTICULO 15.
 
@@ -303,29 +309,17 @@ Para obtener la baja definitiva del vehículo en los casos de cambio de propieta
 
 Las personas físicas y las morales que usen las carreteras y puentes de cuota en operación pagarán derechos conforme a las tarifas que al efecto establezca la Ley de Ingresos para el Estado de Guanajuato.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 21.
 
-Para efecto del pago de los derechos de que se habla en el artículo anterior, los vehículos tendrán la siguiente clasificación:
+El organismo público descentralizado a que se refiere este Capítulo, deberá fijar en lugares visibles para los usuarios de las citadas vías de comunicación, la tarifa vigente para el pago de los derechos correspondientes. Así mismo, podrá celebrar convenios y promociones para el pago de los derechos correspondientes por el uso de la carreteras y puentes estatales de cuota.
 
-I.- Motocicletas, automóviles, turismo, pick-ups y panels, con o sin remolque o trailer.
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
 
-II.- Autobuses de pasajeros.
+###### ARTICULO 21 Bis.
 
-III.- Camiones de carga de dos ejes.
-
-IV.- Camiones de carga o tractores con semiremolque de 3 a 4 ejes.
-
-V.- Camiones de carga o tractores con remolque de 5 ejes.
-
-VI.- Camiones de carga o tractores de 6 ejes.
-
-Dichos derechos serán cubiertos en las Oficinas autorizadas por el Gobierno del Estado, a través del Organismo Descentralizado denominado Carreteras y Puentes Estatales de Cuota de Guanajuato, constituyendo ingresos del mismo destinados a la construcción, conservación, mejoramiento, administración y explotación de los camiones (sic) y puentes afectos a su patrimonio.
-
-El organismo administrador a que se refiere este capítulo, deberá fijar en lugares visibles para los usuarios de las citadas vías de comunicación, las tarifas vigentes para el pago de los derechos correspondientes, referentes a cada una de las clases de vehículos que este artículo señala.
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
-
-Igualmente el organismo administrador a que se refiere este artículo, podrá celebrar convenios y promociones para reducción de las tarifas vigentes para el pago de los derechos correspondientes, por el uso de las carreteras y puentes estatales de cuota en operación.
+Estos derechos serán cubiertos a través del organismo descentralizado Carreteras y Puentes Estatales de Cuota de Guanajuato, quien los deberá enterar a la Secretaría de Finanzas y Administración.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1998)</small>
 
@@ -337,11 +331,9 @@ No se pagarán los derechos de carreteras y puentes estatales, por los vehículo
 
 ### CAPITULO CUARTO. DEL FONDO PARA SEGURIDAD PUBLICA
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 22-A
 
-Los ingresos provenientes de la recaudación de los derechos por servicios de tránsito, por uso de carreteras y puentes estatales de cuota y por licencias de funcionamiento para almacenamiento, distribución y compra venta de bebidas alcohólicas que establece la Ley de Ingresos para el Estado de Guanajuato, se destinará el porcentaje que la misma Ley señale a la constitución del Fondo para Seguridad Pública del Estado.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2003)
 
 ## TITULO TERCERO. DE LAS CONTRIBUCIONES ESPECIALES
 
@@ -521,9 +513,11 @@ Los rendimientos producidos por organismos descentralizados y empresas de partic
 
 La venta de inmuebles propiedad del Estado de Guanajuato se sujetará a lo que establezca la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios relacionados con Bienes Muebles e Inmuebles propiedad del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 45.
 
-Ingresarán además a la Secretaría de Administración Financiera en la cuantía respectiva, los ingresos derivados de:
+Ingresarán además a la Secretaría de Finanzas y Administración en la cuantía respectiva, los ingresos derivados de:
 
 I.- Actos lucrativos en los establecimientos de Asistencia Pública Estatal.
 
@@ -567,13 +561,17 @@ Los rezagos por concepto de impuestos, derechos, contribuciones especiales y pro
 
 Los recargos y gastos de ejecución se causarán conforme a las tasas establecidas anualmente en la Ley de Ingresos del Estado.
 
-## TITULO SEXTO. DE LAS PARTICIPACIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE DICIEMBRE DE 2003)</small>
+
+## TITULO SEXTO. DE LAS TRANSFERENCIAS FEDERALES
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 49.
 
-El Estado participará de los ingresos federales en los términos de la Ley Federal de Coordinación Fiscal y los convenios celebrados con el Gobierno Federal.
+El Estado percibirá de las participaciones y las aportaciones federales, en los términos de la Ley de Coordinación Fiscal en materia federal y los convenios que se suscriban para tal efecto.
 
 T R A N S I T O R I O S.
 
@@ -644,3 +642,13 @@ P.O. 28 DE DICIEMBRE DE 1999.
 Artículo Primero.- El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2003.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día 1 primero de enero del año 2004 dos mil cuatro.
+
+Artículo Segundo.- El 90% de los recursos que se generen del Impuesto por Servicios de Hospedaje, correspondientes al mes de diciembre de 2003, se entregarán por la Secretaría de Finanzas y Administración a la Coordinadora de Turismo.
+
+Asimismo, se establece un plazo máximo de dos meses contados a partir de la vigencia de este Decreto, para que se extinga la constitución del fideicomiso público denominado "Fideicomiso Público de Inversión y Administración del Impuesto por Servicios de Hospedaje del Estado de Guanajuato", creado mediante el Decreto Gubernativo número 55, publicado en el Periódico Oficial del Gobierno del Estado número 22, segunda parte de fecha 18 de marzo de 1997.
+
+Artículo Tercero.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente Decreto.
