@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-el-fomento-de-las-actividades-economicas-y-23024"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-24"
-last_updated: "2001-12-24"
+last_updated: "2002-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA EL FOMENTO DE LAS ACTIVIDADES ECONOMICAS Y EMPRESARIALES EN EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 24 de diciembre de 2001.
 
@@ -551,8 +551,22 @@ Segundo.- Se abroga la Ley para el Fomento de las Actividades Económicas y Empr
 
 Tercero.- Se derogan todas las demás disposiciones egales (sic) y reglamentarias en lo que se opongan al contenido de la presente ley.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2002)</small>
+
+Cuarto.- Las solicitudes de estímulos para el fomento de actividades económicas y empresariales cuyos trámites hayan iniciado al amparo de la ley que se abroga, quedará a elección de los solicitantes continuar hasta su conclusión con el procedimiento anterior o, acogerse a los beneficios y trámites de la ley vigente, siempre que las respectivas solicitudes hayan sido presentadas durante la vigencia de la ley que por este mismo decreto se abroga y hasta antes del día 24 de diciembre de 2001.
+
 Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de Campeche, Campeche, a los veinte días del mes de diciembre del año dos mil uno.- C. Sergio Pérez Jiménez. Diputado Presidente.- C. Carlos E. Baqueiro Cáceres, Diputado Secretario.- C. Blanca Rosalina Bernés Chan. Diputada Secretaria. Rúbricas.
 
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los veintiún días del mes de diciembre del año dos mil uno.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, L. A. JOSE ANTONIO GONZALEZ CURI.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE DICIEMBRE DE 2002.
+
+Primero.- El presente decreto entrará en vigor el día 1 de enero de 2003, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Las cuotas que han quedado establecidas en el inciso b) de la fracción II del Apartado M, del artículo 52 de la Ley de Hacienda del Estado de Campeche, que son objeto de la presente reforma entrarán en vigor el día 1 de enero de 2003, con excepción de las relativas a las colegiaturas de las preparatorias o licenciaturas, que entrarán en vigor el día 1 de febrero de 2003.
+
+Tercero.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente decreto.
