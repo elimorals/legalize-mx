@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-de-las-cuentas-publicas-para-el-estado-290
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-20"
-last_updated: "2001-05-11"
+last_updated: "2001-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FISCALIZACION DE LAS CUENTAS PUBLICAS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 20 de septiembre de 1992.
 
@@ -149,9 +149,11 @@ XIII.- Elaborar los estudios económicos, administrativos, contables y fiscales 
 
 XIV.- Rendir a la Comisión de Hacienda y Administración informe de labores, cuando menos con 10 días de anticipación al término de los períodos ordinarios de sesiones del Congreso del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 8.
 
-La Contaduría Mayor de Hacienda del Congreso del Estado emitirá opinión sobre la revisión de la Cuenta Pública Anual de las Entidades en los términos de la fracción II del Artículo anterior y, además, respecto de lo que le solicite el Congreso del Estado o sus Comisiones sobre:
+La Contaduría Mayor de Hacienda del Congreso del Estado, emitirá opinión sobre la revisión de la Cuenta Pública Anual de las Entidades en los términos de la fracción II del Artículo anterior y, además, respecto de lo que le solicite el Congreso del Estado o sus Comisiones sobre:
 
 I.- La revisión de la Cuenta Pública mensual de las Entidades;
 
@@ -167,9 +169,13 @@ VI.- La transferencia, ampliación, creación o supresión de partidas en los Pr
 
 VII.- Los financiamientos concertados o celebrados entre las Entidades o entre éstas con terceros, comprendidos en la Ley de Deuda Pública del Estado de Baja California;
 
-VIII.- La desincorporación de bienes inmuebles de dominio público solicitada por las Entidades señaladas en esta Ley, para la enajenación o cambio de destino de dichos bienes cuando estén destinados a un servicio público o sean de uso común;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
-IX.- La celebración de contratos, convenios o actos que afecten cualquier aspecto de la situación financiera de las Entidades que señala esta Ley, cuando sus efectos excedan del período de gobierno del Ejecutivo del Estado o de los Ayuntamientos;
+VIII.- La desincorporación de bienes inmuebles de dominio público solicitada por las Entidades señaladas en esta Ley, con excepción de los Ayuntamientos, para la enajenación o cambio de destino de dichos bienes cuando estén destinados a un servicio público o sean de uso común;
+
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+IX.- La celebración de contratos, convenios o actos que afecten cualquier aspecto de la situación financiera de las Entidades que señala esta Ley, con excepción de los Ayuntamientos, cuando sus efectos excedan del período de gobierno del Ejecutivo del Estado;
 
 X.- Los demás actos, convenios o contratos celebrados entre las Entidades o entre éstas con terceros cuando requieran aprobación o autorización del Congreso del Estado;
 
@@ -626,3 +632,9 @@ Rúbrica.
 P.O. 11 DE MAYO DE 2001.
 
 UNICO.- El presente Decreto, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE NOVIEMBRE DE 2001.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor el día primero del mes de diciembre del año dos mil uno.
