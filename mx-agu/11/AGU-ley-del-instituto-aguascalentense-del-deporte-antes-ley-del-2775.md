@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-aguascalentense-del-deporte-antes-ley-del-277
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-18"
-last_updated: "1989-06-18"
+last_updated: "1993-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DEL INSTITUTO AGUASCALENTENSE DEL DEPORTE -ANTES LEY DEL INSTITUTO AGUASCALENTENSE DE LA JUVENTUD Y EL DEPORTE-
 
-LEY DEL INSTITUTO AGUASCALENTENSE DE LA JUVENTUD Y EL DEPORTE
+LEY DEL INSTITUTO AGUASCALENTENSE DEL DEPORTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 18 de junio de 1989.
 
@@ -37,47 +37,71 @@ El H. Congreso del Estado en sesión extraordinaria celebrada hoy, tuvo a bien e
 
 La H. Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le concede el Artículo 27 de la Constitución Política Local, tuvo a bien expedir la siguiente:
 
-LEY DEL INSTITUTO AGUASCALENTENSE DE LA JUVENTUD Y EL DEPORTE
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE JUNIO DE 1993)</small>
+
+LEY DEL INSTITUTO AGUASCALENTENSE DEL DEPORTE
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 1o.
 
-Se crea el Instituto Aguascalentense de la Juventud y el Deporte, como un organismo desconcentrado de la Administración Pública Estatal, dependiente de la Secretaría General de Gobierno.
+El Instituto Aguascalentense del Deporte se crea con la presente Ley, será un organismo desconcentrado de la Administración Pública Estatal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 2o.
 
-El Instituto Aguascalentense de la Juventud y el Deporte, tendrá a su cargo:
+El Instituto Aguascalentense del Deporte tendrá a su cargo:
 
 I.- La promoción y el fomento del deporte y la cultura física; y
 
-II.- La promoción y el fortalecimiento del bienestar de la juventud y de su participación social y política.
+> <small>(REFORMADA, P.O. 06 DE JUNIO DE 1993)</small>
+
+II.- La promoción y el fortalecimiento del bienestar de la población a través del deporte.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 3o.
 
-Para los efectos del artículo anterior, el Instituto Aguascalentense de la Juventud y el Deporte ejercerá las siguientes atribuciones:
+Para los efectos del artículo anterior, el Instituto Aguascalentense del Deporte ejercerá las siguientes atribuciones:
 
-I.- Establecer y coordinar el sistema estatal de la juventud y el deporte, con la participación que corresponda a las dependencias, entidades e instituciones de los sectores público, social y privado;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 1993)</small>
+
+I.- Establecer y coordinar el sistema estatal del deporte con la participación que corresponda a las dependencias, entidades e instituciones de los sectores público, social y privado;
 
 II.- Establecer los mecanismos necesarios para la adecuada coordinación de acciones con las instituciones de educación superior estatales, en lo relativo a programas de investigación en ciencias y técnicas del deporte, particularmente en medicina preventiva, así como promover la concertación de acciones en materia deportiva con las instituciones de los sectores público, social y privado;
 
-III.- Proponer los mecanismos de coordinación entre las autoridades estatales y los gobiernos municipales, a fin de impulsar el desarrollo del deporte en el Estado y el mejoramiento integral de la juventud;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 1993)</small>
 
-IV.- Coordinar con las delegaciones de las dependencias y entidades federales en el Estado, lo relativo al desarrollo de la juventud y el deporte;
+III.- Proponer los mecanismos de coordinación entre las Autoridades Estatales y los Gobiernos Municipales, a fin de impulsar el desarrollo y mejoramiento integral del deporte en el Estado;
 
-V.- Instalar las Coordinaciones Operativas Municipales en el Estado y proponer la concertación de bases y criterios para el desarrollo de las acciones en materia de la juventud y el deporte;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 1993)</small>
+
+IV.- Coordinar con las Delegaciones de las Dependencias y Entidades Federales en el Estado, lo relativo al desarrollo del Deporte;
+
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 1993)</small>
+
+V.- Instalar las coordinaciones operativas municipales en el Estado y proponer la concertación de bases y criterios para el desarrollo de las acciones en materia del deporte;
 
 VI.- Proponer programas de capacitación en materia deportiva;
 
-VII.- Fomentar la creación y mejoramiento de instalaciones y servicios para la juventud y el deporte;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 1993)</small>
+
+VII.- Fomentar la creación y mejoramiento de instalaciones y servicios para el Deporte;
 
 VIII.- Apoyar cuando se estime conveniente, a las universidades e instituciones que consideren dentro de sus programas, actividades de fomento al deporte;
 
-IX.- Diseñar y proponer los criterios para asegurar la uniformidad y congruencia entre los programas de apoyo a la juventud y al deporte del sector público estatal y la asignación de recursos para los mismos fines, así como conocer y opinar sobre dichas asignaciones; y
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 1993)</small>
+
+IX.- Diseñar y proponer los criterios para asegurar la uniformidad y congruencia entre los programas de apoyo al deporte del sector público estatal y la asignación de recursos para los mismos fines, así como conocer y opinar sobre dichas asignaciones; y
 
 X.- Las demás que determine el Ejecutivo del Estado y las que le confiera el Secretario General de Gobierno.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 4o.
 
-El Instituto Aguascalentense de la Juventud y el Deporte estará a cargo de un Director que será designado por el Gobernador del Estado.
+El Instituto Aguascalentense del Deporte, estará a cargo de un Director que será designado por el Gobernador del Estado.
 
 ###### ARTICULO 5o.
 
@@ -144,3 +168,9 @@ Ing. Miguel Angel Barberena Vega.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Héctor Valdivia Carreón.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE JUNIO DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
