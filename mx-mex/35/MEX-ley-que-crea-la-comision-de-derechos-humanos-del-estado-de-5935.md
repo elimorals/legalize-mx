@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-la-comision-de-derechos-humanos-del-estado-de-5935
 country: "mx"
 rank: "ley"
 publication_date: "1992-10-20"
-last_updated: "1994-02-25"
+last_updated: "1997-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5935&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MARZO DE 1997.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 20 de octubre de 1992.
 
@@ -39,9 +39,11 @@ LEY QUE CREA LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
 ### CAPITULO PRIMERO. De los Objetivos
 
+> <small>(REFORMADO, G.G. 3 DE MARZO DE 1997)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público, interés social y observancia general en el Estado de México en materia de derechos humanos, en los términos establecidos por el artículo 125 Bis de la Constitución Política del Estado.
+Las disposiciones de esta Ley son de orden público, interés social y observancia general en el Estado de México en materia de derechos humanos, en los términos establecidos por el artículo 16 de la Constitución Política del Estado Libre y Soberano de México.
 
 ###### Artículo 2.
 
@@ -67,7 +69,9 @@ I. Conocer de quejas o iniciar de oficio, investigaciones sobre hechos que presu
 
 II. Tramitar los expedientes de las quejas conforme al procedimiento que la presente Ley señala;
 
-III. Formular recomendaciones públicas no vinculatorias, así como denuncias o quejas ante las autoridades respectivas en términos de artículo 125 Bis de la Constitución Política del Estado de México;
+> <small>(REFORMADA, G.G. 3 DE MARZO DE 1997)</small>
+
+III. Formular recomendaciones públicas no vinculatorias, así como denuncias o quejas ante las autoridades respectivas en términos del artículo 16 de la Constitución Política del Estado Libre y Soberano de México.
 
 IV. Elaborar y ejecutar programas para prevenir violaciones a los derechos humanos;
 
@@ -213,9 +217,11 @@ El Presidente de la Comisión de los Derechos Humanos, el Secretario Ejecutivo y
 
 El Presidente de la Comisión de los Derechos Humanos y los Visitadores son inviolables por las opiniones y Recomendaciones que formulen o por los actos que realicen en ejercicio de su encargo y jamás podrán ser reconvenidos por ellas.
 
+> <small>(REFORMADO PRIMERO PARRAFO, G.G. 3 DE MARZO DE 1997)</small>
+
 ###### Artículo 22.
 
-El Presidente de la Comisión de Derechos Humanos podrá ser sustituido y, en su caso, sujeto a responsabilidad, sólo por las causas y mediante los procedimientos establecidos en el Título Tercero del Libro Segundo de la Constitución Política del Estado de México.
+El Presidente de la Comisión de Derechos Humanos podrá ser sustituido y, en su caso, sujeto a responsabilidad, solo por las causas y mediante los procedimientos establecidos en el Título Séptimo de la Constitución Política del Estado Libre y Soberano de México.
 
 En este supuesto, el Presidente será sustituido por el Primer Visitador en tanto no se designe un nuevo Presidente.
 
@@ -610,3 +616,13 @@ G.G. 25 DE FEBRERO DE 1994.
 PRIMERO.- Publíquese el presente Decreto en la Gaceta del Gobierno.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta del Gobierno.
+
+G.G. 3 DE MARZO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
