@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1980-06-20"
+last_updated: "1981-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1981.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -267,9 +267,9 @@ II. Ser nativo del Distrito Electoral que lo elija, o avecindado en él cuando m
 
 III. Sea mayor de 21 años en la fecha de la elección;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
 
-IV. No podrá ser electo y será nula la elección que en su favor recayere; el Gobernador del Estado, el Secretario General de Gobierno, el Secretario de Finanzas, el Secretario del Desarrollo Económico, los Magistrados del Supremo Tribunal de Justicia, los Recaudadores de Rentas, los Jueces de Primera Instancia, y demás funcionarios que no sean de elección popular por el Distrito de su jurisdicción, así como los militares en servicio activo en el Ejército Nacional, o cualquiera persona que tenga mando en la policía del Estado o del Municipio a que corresponda el Distrito Electoral por el cual pretenda elegirse, a menos que todos ellos se hayan separado de su encargo por renuncia del mismo, cuando menos tres meses antes del día de la elección.
+IV. No podrán ser electos diputados propietarios o suplentes: El Gobernador del Estado, los Secretarios y Sub-Secretarios y titulares de cualesquiera de las entidades de la Administración Pública Estatal o Paraestatal los Magistrados del Supremo Tribunal de Justicia y el Procurador General de Justicia; los Jueces de Primera Instancia, los Recaudadores de Rentas y los Presidentes Municipales, en los Distritos Electorales en donde ejerzan sus funciones; los diputados y senadores al Congreso de la Unión, que se encontraren en ejercicio; las personas que tengan o hayan tenido mando de fuerzas de la Federación, Estado o Municipios y los Ministros de Cualquier culto. Los ciudadanos antes referidos, con excepción de los Ministros de los cultos, podrán ser electos, siempre que se separen de sus cargos cuando menos 90 días antes de la elección.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
 
@@ -339,11 +339,11 @@ Los Diputados propietarios, durante el período de su encargo y los Suplentes, c
 
 El Congreso tendrá cada año dos períodos ordinarios de sesiones prorrogables a juicio de la Cámara por el tiempo que fuere necesario; el primero comenzará el día primero de diciembre y terminará el día primero de abril siguiente, y el segundo principiará el primero de junio y concluirá el día primero de agosto inmediato.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1966)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
 ###### Art. 37.
 
-En el primer período se ocupará preferentemente el Congreso de discutir y aprobar la Ley de Ingresos y Presupuesto de Egresos del Estado y las Leyes de Ingresos de los Diversos Municipios, para lo cual, deberán ser presentados los proyectos respectivos antes del día 15 de octubre de cada año, a fin de que empiecen a regir desde el primero de enero inmediato, en el concepto de que se tendrán las vigentes como prorrogadas, mientas (sic) no se aprueben las nuevas. En el segundo período revisará la cuenta pública del Estado, y la de los Municipios del año anterior, que deberán ser presentadas al Congreso dentro de los primeros diez días antes de sua (sic) pertura (sic). La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respetivas (sic) de los Presupuestos, sino que se extenderá al examen y justificación de las responsabilidades que resulten. En ambos períodos se ocupará, además, de estudiar, discutir y votar las iniciativas de la Ley que se presenten y de resolver todos los asuntos que les corresponden.
+En el primer período se ocupará preferentemente el Congreso de discutir y aprobar la Ley de Ingresos y Presupuesto de Egresos del Estado y las Leyes de Ingresos de los diversos Municipios, para lo cual deberán ser presentados los proyectos respectivos antes del día 5 de Diciembre de cada año, a fin de que empiecen a regir desde el Primero de enero inmediato, en el concepto de que se tendrán las vigentes como prorrogadas, mientras no se aprueben las nuevas. En el segundo período revisará la Cuenta Pública del Estado y la de los Municipios del año anterior, que deberán ser presentados al Congreso dentro de los primeros 10 días desde su apertura. La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas de los presupuestos, sino que se extenderá al examen y justificación de las responsabilidades que resulten. En ambos períodos se ocupará, además, de estudiar, discutir y votar las iniciativas legales que se presenten y de resolver todos los asuntos que le corresponden.
 
 ###### Art. 38.
 
@@ -391,11 +391,17 @@ Toda resolución del Congreso tendrá el carácter de Ley, Decreto o Acuerdo. La
 
 Son facultades exclusivas del Congreso del Estado, las siguientes:
 
-I. Proveer a todo lo necesario para su régimen interior.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
 
-II. Expedir, interpretar, reformar y abrogar leyes y decretos, en todos los ramos de la Administración Pública del Estado.
+I. Expedir su propia Ley Orgánica que no podrá ser vetada ni necesitará de promulgación del Gobernador del Estado.
 
-III. Decretar el establecimiento o construcción de toda clase de obras materiales e instituciones de interés público, autorizando los gastos necesariss (sic) y asignando los recursos suficientes.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
+
+II. Expedir, interpretar, reformar, abrogar y derogar leyes y decretos en todos los ramos de la Administración Pública del Estado.
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
+
+III. Decretar toda clase de imposiciones tributarias necesarias para cubrir el presupuesto.
 
 IV. Iniciar leyes o sus reformas ante el Congreso de la Unión.
 
@@ -409,11 +415,11 @@ VII. Crear nuevas Municipalidades dentro de los límites de las ya existentes, s
 
 A). Que la fracción o fracciones que pretendan erigirse en Municipalidad, cuenten con una población cuando menos, de TREINTA MIL HABITANTES, según el último censo del Estado, y tomando en cuenta el asentimiento de la mayoría de sus ciudadanos.
 
-(B). Que se compruebe debidamente ante el Congreso, que tienen los elementos bastantes para proveer a su existencia política.
+(B.) Que se compruebe debidamente ante el Congreso, que tienen los elementos bastantes para proveer a su existencia política.
 
 C). Que la elección de la nueva Municipalidad sea aprobada por el voto de las dos terceras partes de los Diputados.
 
-(D). Que la resolución favorable del Congreso sea ratificada por la mayoría de los Ayuntamientos del Estado previo examen de la copia del expediente que al efecto se les remita.
+(D.) Que la resolución favorable del Congreso sea ratificada por la mayoría de los Ayuntamientos del Estado previo examen de la copia del expediente que al efecto se les remita.
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -457,9 +463,9 @@ XXIII. Autorizar al Gobernador para que celebre empréstitos en nombre del Estad
 
 XXIV. Reconocer, aprobar y ordenar el pago de la Deuda Preferente del Estado.
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 1941)</small>
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
 
-XXV. Condonar adeudos fiscales a favor del Estado, en cantidades mayores de trescientos pesos, pero que no excedan de quinientos pesos.
+XXV. Expedir Leyes de carácter fiscal y establecer, mediante disposiciones generales, las bases y supuestos para el otorgamiento de subsidios, estímulos e incentivos y para la condonación de adeudo a favor del Estado.
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 1966)</small>
 
@@ -479,7 +485,9 @@ XXXI. Habilitar de edad a los menores que reunan los requisitos exigidos por la 
 
 XXXII. Fijar las bases para las concesiones que deba otorgar el Ejecutivo, en los casos que no haya una ley especial que las determine.
 
-XXXIII. Expedir todas las leyes que sean necesarias y propias para hacer efectivas las facultades anteriores y todas las otras que correspondan a los Poderes del Estado.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
+
+XXXIII. Expedir las leyes que fueren necesarias para hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución a los Poderes del Estado.
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -615,9 +623,11 @@ La Contaduría Mayor de Hacienda, como asesora técnica de la Comisión de Glosa
 
 Se deposita el ejercicio del Poder Ejecutivo del Estado, en un ciudadano que se denominará "GOBERNADOR CONSTITUCIONAL DEL ESTADO."
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 1981)</small>
+
 ###### Art. 56.
 
-Para ser Gobernador del Estado, se requiere:
+Para ser Gobernador se requiere:
 
 > <small>(REFORMADA, P.O. 6 DE MARZO DE 1962)</small>
 
@@ -631,9 +641,9 @@ III. Haber conservado su domicilio en el Estado, seis meses al menos, inmediatam
 
 IV. Haber obtenido la mayoría de sufragios legales. En caso de empate en la votación, se convocará a nuevas elecciones.
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
 
-V. No haber sido Secretario General de Gobierno, Secretario de Finanzas, Secretario del Desarrollo Económico, Magistrado del Supremo Tribunal de Justicia, Juez de Primera Instancia, Recaudador de Rentas o Presidente Municipal, ni haber tenido mando de fuerzas de la Federación, Estado o Municipios, dentro de los tres meses anteriores al día de la elección.
+V. No haber sido Secretario, Sub-Secretario o titular de cualesquiera de las entidades de la Administración Pública Estatal o paraestatal; Magistrado del Supremo Tribunal de Justicia, Procurador General de Justicia; Juez de Primera Instancia, Recaudador de Rentas o Presidente Municipal, Diputado y Senador al Congreso de la Unión, que se encontrare en ejercicio; haber tenido mando de fuerza de la Federación, Estado o Municipios o ser Ministro de cualquier culto. Los ciudadanos antes referidos, con excepción de los Ministros de los cultos, podrán ser electos, siempre que se separen de sus cargos cuando menos 90 días antes de la elección.
 
 VI. No haber sido convicto por ningún Tribunal, ni haber figurado directa o indirectamente en alguna azonada, motín a (sic) cuartelazo promovido contra las instituciones de la Nación o del Estado.
 
@@ -687,7 +697,9 @@ El Gobernador no podrá ausentarse del territorio del Estado, por más de treint
 
 Son facultades y obligaciones del Gobernador del Estado, las siguientes:
 
-I. Sancionar, promulgar y ejecutar las leyes y decretos que expida el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
+
+I. Sancionar, promulgar, reglamentar y ejecutar las leyes y decretos que expida el Congreso del Estado proveyendo en la esfera administrativa a su exacta observancia, así como expedir los reglamentos autónomos que la Constitución General de la República y esta Constitución le autoricen o faculten.
 
 II. Nombrar y remover a los empleados de su dependencia cuyo nombramiento y remoción no estén determinados de otro modo en la Constitución y demás leyes, así como conceder licencias y admitirles sus renuncias.
 
@@ -723,7 +735,9 @@ XII. Extender los Fiats de Notarios con arreglo a la ley respectiva.
 
 XIII. Certificar las firmas de todos los funcionarios y empleados públicos del Estado, que obren en documentos que hayan de surtir su efecto fuera de éste.
 
-XIV. Expedir reglamentos administrativos para el régimen económico de sus dependencias.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
+
+XIV. Expedir reglamentos para el régimen jurídico, orgánico, económico y operativo de las dependencias de la Administración Pública Estatal y Paraestatal.
 
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1972)</small>
 
@@ -745,37 +759,39 @@ XXI. (DEROGADA, P.O. 6 DE OCTUBRE DE 1928) (F. DE E., 13 DE NOVIEMBRE DE 1928)
 
 XXII. Nombrar y remover libremente al Procurador de Justicia y Agentes del Ministerio Público.
 
-> <small>N. DE E. SE RESTABLECE POR DECRETO No. 175 DE FECHA 27 DE JUNIO DE 1946, PARA QUEDAR COMO ESTABA EN EL DECRETO No. 82 DE FECHA 5 DE JUNIO DE 1945, AMBOS PUBLICADOS EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO DE SINALOA.</small>
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1945)</small>
+XXIII. Condonar adeudos fiscales a favor del Estado, en los términos de la Ley relativa que expida el Congreso del Estado.
 
-XXIII. Condonar adeudos fiscales a favor del Estado, únicamente por el resto del presente año de 1945, quedando a su arbitrio fijar el monto de la condonación según estudio que al respecto haga en cada caso; comunicando al H. Congreso del Estado las condonaciones que otorgue.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
-
-XXIV. I(sic) las demás que le confiera esta Constitución.
+XXIV. Los demás que le confieren la Constitución de los Estados Unidos Mexicanos y esta Constitución y las derivadas de ellas que no estén expresamente atribuidas o reservadas a los Poderes de la Federación o a los otros Poderes del Estado.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
 #### SECCION I. DEL DESPACHO DEL PODER EJECUTIVO
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
 ###### Art. 66.
 
-Para el despacho de los negocios del orden administrativo que correspondan al Poder Ejecutivo, habrá una Secretaría General de Gobierno, una Secretaría de Finanzas y una Secretaría del Desarrollo Económico.
+La Administración Pública será Estatal y Paraestatal.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
+La Estatal conforme a la Ley Orgánica que expida el Congreso del Estado, su Reglamento y demás Reglamentos, decretos y acuerdos que expida el Gobernador del Estado para la Constitución y funcionamiento de las entidades que la integren.
+
+La Paraestatal conforme a la Ley Orgánica que expida el Congreso que establecerá las bases generales de creación de las entidades que la integren, la intervención del Gobernador del Estado en su operación y las relaciones entre el Ejecutivo y las entidades paraestatales y conforme a las disposiciones reglamentarias generales y a las especiales para cada entidad que en su ejecución expida el Gobernador Constitucional del Estado.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
 ###### Art. 67.
 
-Para ocupar cualesquiera de las Secretarías a que se refiere el artículo anterior, se requiere ser ciudadano sinaloense en el ejercicio de sus derechos, poseer la capacidad necesaria a juicio del Gobernador del Estado y tener 30 años cumplidos.
+Para ser Secretario General de Gobierno, se requerirá ser ciudadano sinaloense en el ejercicio de sus derechos, poseer la capacidad necesaria a juicio del Gobernador del Estado y tener 30 años cumplidos.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
 ###### Art. 68.
 
-El Secretario General de Gobierno, el Secretario de Finanzas y el Secretario del Desarrollo Económico, no podrán desempeñar ningún otro cargo, empleo o comisión oficiales o particulares, por los que reciban remuneración, con excepción de los docentes, ni ejercer profesión alguna durante el ejercicio de sus funciones.
+Los Secretarios y Sub-Secretarios de los diversos ramos de la Administración Pública no podrán desempeñar algún otro cargo, empleo o comisión oficial y particulares por los que reciban remuneración, con excepción de la integración en los consejos de los organismos estatales, paraestatales y Municipales y de los cargos docentes, ni ejercer profesión alguna salvo en causas propias del ejercicio de sus funciones.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
@@ -783,11 +799,11 @@ El Secretario General de Gobierno, el Secretario de Finanzas y el Secretario del
 
 Para ser válidos los decretos, reglamentos y acuerdos del Gobernador, deberán estar firmados por éste y por el Secretario encargado del Ramo a que el asunto corresponda, de los que serán solidariamente responsables.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
 ###### Art. 70.
 
-El Congreso podrá citar a cualesquiera de los Secretarios para que den cuenta del estado que guardan sus respectivos Ramos, así como para que informen cuando se discuta una ley o decreto o se estudie un negocio relativo a su Secretaría.
+El Congreso del Estado podrá citar a cualesquiera de los Secretarios de los diversos ramos de la Administración del Poder Ejecutivo, así como a los titulares de las Unidades Administrativas, Organismos Descentralizados y Desconcentrados de carácter estatal, para que informen cuando se discuta una Ley o Decreto o se estudie un negocio concerniente a sus respectivos ramos o actividades.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
@@ -795,11 +811,11 @@ El Congreso podrá citar a cualesquiera de los Secretarios para que den cuenta d
 
 Las faltas temporales de los Secretarios, serán suplidas dentro de sus Ramos respectivos por los funcionarios inmediatos inferiores con las mismas responsabilidades y atribuciones de aquéllos.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
 ###### Art. 72.
 
-Cada Secretaría tendrá las atribuciones y dependencias que establezcan las leyes.
+Las Secretarías y demás organismos y dependencias de la Administración Pública Estatal o Paraestatal están constituidos por las dependencias que se establezcan de acuerdo con el Reglamento y Disposiciones Generales que se emitan por el Titular del Poder Ejecutivo, los que fijarán las atribuciones y facultades de los mismos.
 
 #### SECCION II. DEL MINISTERIO PUBLICO
 
@@ -813,19 +829,21 @@ Habrá en el Estado la institución del Ministerio Público, cuya misión será 
 
 Ejercerán las facultades del Ministerio Público, un Procurador General de Justicia y los Agentes que la ley determine.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADO P.O. 2 DE ENERO DE 1981)</small>
 
 ###### Art. 75.
 
-Para ser procurador General de Justicia, se exigen los siguientes requisitos: ser ciudadano mexicano por nacimiento, mayor de treinta años, abogado titulado y haber observado buena conducta. Para ser Agente del Ministerio Público, se requiere: ser ciudadano mexicano por nacimiento, haber observado buena conducta y tener los conocimientos suficientes de Derecho, a juicio de quien lo nombra.
+Para ser Procurador General de Justicia, se exigen los siguientes requisitos: Ser ciudadano sinaloense, mayor de 30 años, abogado titulado y haber observado buena conducta. Para ser Agentes del Ministerio Público, se requerirá: ser ciudadano mexicano por nacimiento, mayor de 25 años, abogado titulado y haber observado buena conducta.
 
 ###### Art. 76.
 
 El Procurador General de Justicia no podrá desempeñar ningún otro cargo, empleo o comisión por el que se perciban emolumentos, ni litigar más que en asuntos propios, bajo pena de destitución.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+
 ###### Art. 77.
 
-La Ley Orgánica del Ministerio Público, reglamentará la institución.
+La Ley Orgánica de la Procuraduría General de Justicia, reglamentará tanto a este órgano como a la Institución del Ministerio Público.
 
 #### SECCION III. DE LA DEFENSORIA DE OFICIO
 
@@ -845,27 +863,25 @@ Art. 89 C. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
 
 Habrá en el Estado un Cuerpo de Defensores de Oficio, cuya misión será procurar por los reos en asuntos penales, bajo las prescripciones de las leyes, y defender a los que lo soliciten en materia civil y administrativa, en los casos establecidos por la Ley Orgánica respectiva.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1938)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
 ###### Art. 79.
 
-El personal de la Defensoría Oficial dependerá directamente del Ejecutivo del Estado; será nombrado y removido por él y estará formado por un Abogado que será el Jefe, y por el Cuerpo de Defensores que lo integren.
-
-La Ley organizará la Defensoría Oficial y determinará la forma en que debe ejercer sus funciones.
+El personal de la Defensoría de Oficio dependerá directamente del Ejecutivo del Estado; será nombrado y removido por él y estará formado por un abogado que será el jefe y por el cuerpo de defensores que lo integren, los que salvo en los casos de dispensa otorgada expresamente por el Gobernador del Estado, deberán ser igualmente abogados titulados. La Defensoría de Oficio se sujetará a las normas y lineamientos que se señalen en el Reglamento respectivo que se expida por el Titular del Poder Ejecutivo.
 
 #### SECCION V. DE LA ENSEÑANZA PUBLICA
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1948)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
 ###### Art. 80.
 
 La Hacienda Pública del Estado estará constituída por los bienes muebles e inmuebles comprendidos en su patrimonio; por los impuestos, derechos, productos y aprovechamientos que en su favor establezcan las leyes del Estado; y por las participaciones que en impuestos Federales otorguen al Estado las Leyes Federales.
 
-(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972).
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
 ###### Art. 81.
 
-La Dirección de la política fiscal del Estado en la esfera administrativa y la administración de la Hacienda Pública del Estado, corresponden al Gobernador quién la ejercerá por conducto de la Secretaría de Finanzas.
+La dirección de la política fiscal del Estado en la esfera administrativa y la administración de la hacienda pública del Estado, corresponderán originalmente al Gobernador quien podrá delegar su ejercicio mediante disposiciones de carácter general y especial.
 
 ###### Art. 82.
 
@@ -883,11 +899,11 @@ Ningún funcionario o empleado del Estado o de los Municipios que tenga a su car
 
 No podrán contratarse empréstitos por el Estado o por los Municipios sino para la ejecución de obras que estén destinadas a producir directamente un incremento en sus respectivos ingresos y previa autorización del Congreso del Estado otorgada mediante el voto de las dos terceras partes de la totalidad de sus miembros.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
 ###### Art. 85.
 
-Ningún impuesto podrá establecerse si no se destina a los gastos públicos y ningún pago podrá hacerse por las oficinas fiscales sin estar expresamente autorizado por la Ley de Ingresos del Estado. Ningún impuesto podrá ser rematado. Ningún gasto con cargo a partidas extraordinarias será cubierto por las Oficinas Fiscales, sin orden firmada por el Gobernador y el Secretario de Finanzas.
+Ningún impuesto podrá establecerse si no se destina a los gastos públicos y ningún pago podrá hacerse por las oficinas fiscales sin estar expresamente autorizado por el Presupuesto de Egresos del Estado. Ningún impuesto podrá ser rematado. Ningún gasto con cargo a partidas extraordinarias será cubierto por las oficinas fiscales, sin orden firmada por el Gobernador y por el Secretario del Ramo.
 
 ###### Art. 86.
 
@@ -917,19 +933,21 @@ El Gobernador del Estado no podrá negarse a autorizar el pago de las órdenes l
 
 ###### Art. 90.
 
-La educación que imparte el Estado tendrá la orientación filosófica demarcada en el Artículo 3o. de la Constitución Política de la República, y se encauzará tendiendo a alcanzar el desarrollo integral de la personalidad humana.
+La educación que se imparta en el Estado se regirá por la filosofía y principios que consagra el Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y se encauzará tendiendo a alcanzar el desarrollo integral de la personalidad humana.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1948)</small>
+Para la regulación de la educación dentro de la esfera de competencia del Estado, se expedirá la Ley correspondiente, cuya ejecución y vigilancia de su cumplimiento estará a cargo del Gobierno del Estado a través de la dependencia competente y de los Municipios.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
 ###### Art. 91.
 
-Toda la educación que imparte el Estado será gratuita, a fin de que todos los individuos tengan acceso a ella. La educación primaria será, ademáso (sic) bligatoria (sic).
+Toda la educación que imparta el Estado será gratuita, a fin de que todos los individuos tengan acceso a ella, incluyendo la educación preescolar, primaria, secundaria, media superior o bachillerato normal, especial, la destinada a obreros o campesinos o la de cualquier otro tipo y modalidad que se imparta de acuerdo con las necesidades educativas de la población del Estado y las características particulares de los grupos que la integran. La educación primaria será, además, obligatoria.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1948)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
 ###### Art. 92.
 
-Los particulares podrán impartir la educación a todos sus tipos y grados, con sujeción a las disposiciones de la Ley Orgánica de Educación del Estado, en concordancia con el Artículo 3o. de la Constitución General de la República y sus Leyes Reglamentarias.
+El Estado y los particulares podrán impartir la educación en todos sus tipos y grados, en concordancia con el Artículo 3o. de la Constitución Política de la República y sus Leyes Reglamentarias y con sujeción a las disposiciones de la Ley correspondiente del Estado.
 
 ### CAPITULO IV. PODER JUDICIAL
 
@@ -1095,9 +1113,11 @@ Para ser Juez Menor se requiere: Ser ciudadano mexicano por nacimiento, en pleno
 
 ### CAPITULO V. DE LA JURISDICCION ADMINISTRATIVA
 
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 1976)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
-Art.109 Bis.- Se instituye la Jurisdicción Administrativa para conocer de las controversias que se susciten en relación con la legalidad y, en su caso, la interpretación, cumplimiento y efectos de los actos, procedimientos y disposiciones de naturaleza administrativa del Estado, para lo cual podrán crearse Tribunales Administrativos dotados de plena autonomía para dictar sus fallos estableciéndose las normas de su organización, funcionamiento, competencia, procedimiento y recursos contra sus resoluciones.
+###### Art. 109 Bis.
+
+Se instituye la Jurisdicción Administrativa para conocer de las controversias que se susciten en relación con la legalidad, y, en su caso, la interpretación, cumplimiento y efectos de los actos, procedimientos y disposiciones de naturaleza administrativa emitidos por autoridades del Estado o de los Municipios para lo cual podrán crearse Tribunales Administrativos, dotados de plena autonomía para dictar sus fallos estableciéndose las normas de su organización, funcionamiento, competencia, procedimiento y recursos contra sus resoluciones.
 
 ### CAPITULO I. DISPOSICIONES DIVERSAS
 
@@ -1171,11 +1191,11 @@ III. (DEROGADA, P.O. 6 DE OCTUBRE DE 1928)
 
 IV. No tener empleo, cargo o comisión del Estado o Municipio; ni mando de fuerza pública en la Municipalidad, por lo menos tres meses antes del día de la elección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 1981)</small>
 
 ###### Art. 116 Bis.
 
-Para ser Presidente Municipal, Propietario y Suplente, respectivamente, además de los requisitos que para ser Regidor se requieren, es necesario tener lo siguientes:
+Para ser Presidente Municipal Propietario y Suplente, respectivamente, además de los requisitos que para ser Regidor se requieren, es necesario tener los siguientes:
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -1185,9 +1205,9 @@ I. 25 años cumplidos en la fecha de la elección.
 
 II. Haber obtenido mayoría de sufragios legales.
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
 
-III. No haber sido Secretario General de Gobierno, Secretario de Finanzas, Secretario del Desarrollo Económico, Magistrado del Supremo Tribunal de Justicia, Juez de Primera Instancia, Recaudador de Rentas o Presidente Municipal, dentro de la jurisdicción ni haber tenido mando de fuerza de la Federación, Estado o Municipios, dentro de los tres meses anteriores al día de la elección.
+III. No haber sido Secretario, Sub-Secretario o Titular de cualesquiera de las Entidades de la Administración Pública Estatal y Paraestatal; Magistrado del Supremo Tribunal de Justicia, Procurador General de Justicia; Juez de Primera Instancia, Recaudador de Rentas, Presidente Municipal en los Distritos Electorales en donde ejerzan sus funciones; Coronel o General del Ejército Nacional o Jefe de la Fuerza del Estado o de Policía por el Distrito o Distritos Electorales en donde ejerza mando o donde estuvieren en servicio; Jefe de la Guardia Nacional que estuviere en servicio activo, por el Distrito o Distritos donde ejerza mando o Ministro de Cualquier culto. Los ciudadanos antes referidos, con excepción de los Ministros de cultos, podrán ser electos, siempre que se separen de sus cargos cuando menos 90 días antes de la elección.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE ABRIL DE 1938)</small>
 
@@ -1363,9 +1383,9 @@ II. La protesta se pide y se dá por interpelación entre los siguientes funcion
 
 (2).- Al Gobernador y a los Magistrados del Supremo Tribunal de Justicia del Estado, les tomará la protesta en solemne sesión pública, ordinaria o extraordinaria, el Presidente de la Cámara, o en su caso, el de la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
-(3).- Al Secretario General de Gobierno, al Secretario de Finanzas, al Secretario del Desarrollo Económico, al Procurador General de Justicia y al Recaudador de Rentas con residencia en la capital del Estado, les tomará la protesta el Ciudadano Gobernador, y ellos a su vez, a los demás empleados de sus dependencias que residan en la capital. En cuanto a los subalternos foráneos de las diversas dependencias administrativas del Ejecutivo, les tomará la protesta el Presidente Municipal en cuya circunscripción territorial ejerzan sus cargos.
+(3).- A los titulares de las Entidades de la Administración Pública Estatal y Paraestatal, al Procurador General de Justicia y al Recaudador de Rentas con residencia en la capital del Estado, les tomará la protesta el ciudadano Gobernador y ellos a su vez, a los demás empleados de sus dependencias que residan en la capital. En cuanto a los subalternos foráneos de las diversas dependencias administrativas del Ejecutivo, les tomará la protesta el Presidente Municipal en cuya circunscripción territorial ejerzan sus cargos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1955)</small>
 
@@ -1429,9 +1449,11 @@ II. Si los peticionarios no fueren satisfechos por la superioridad que hizo el n
 
 Se reconoce capacidad y personalidad jurídica a las Comunidades agrarias o núcleos de población campesina que guarden de hecho o por derecho el estado comunal dentro del territorio de Sinaloa, también el Estado reconoce personalidad jurídica a las Asociaciones, de beneficencias, a las Uniones Profesionales y Agrupaciones Obreras o de Patrones, que se funden para fines lícitos, siempre que cumplan con los requisitos que las Leyes establecen.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+
 ###### Art. 152.
 
-Constituyen el patrimonio de la familia: la casa propiedad de un matrimonio legítimo, los muebles, útiles y enseres que correspondan, y las herramientas del taller u oficina, así como el terreno y los animales de que dependa exclusivamente la subsistencia de la familia. Dichos bienes serán inalienables, transmisibles por herencia bajo sencillas fórmulas y no podrán sujetarse a gravámenes ni embargos. La Ley Orgánica del Trabajo y Previsión Social, reglamentará todo lo concerniente a la materia.
+Constituyen el patrimonio de la familia: la casa propiedad de un matrimonio legítimo, los muebles, útiles y enseres que correspondan y las herramientas del taller y oficina, así como el terreno y los animales de que depende exclusivamente la subsistencia de la familia. Dichos bienes sólo podrán ser enajenados previa autorización judicial, serán transmisibles por herencia bajo sencillas fórmulas y no podrán sujetarse a gravámenes ni embargos. La Ley reglamentaria respectiva regulará todo lo concerniente a la materia.
 
 ###### Art. 153.
 
@@ -1487,9 +1509,11 @@ XXI. En la creación o mejoramiento de centros de población de sus fuentes prop
 
 XXII. En los demás casos previstos por Leyes especiales.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+
 ###### Art. 155.
 
-Todas las obras públicas del Estado o los Municipios que hayan de emprenderse, se adjudicarán por contrato al mejor postor. La Ley Orgánica de Administración Interior del Estado, reglamentará la materia.
+Todas las obras públicas del Estado o de los Municipios que deban emprenderse, se adjudicarán por contrato al mejor postor. La Ley Orgánica de Administración Pública y su Reglamento, regularán lo relativo a esta materia.
 
 ###### Art. 156.
 
@@ -1992,3 +2016,13 @@ P.O. 20 DE JUNIO DE 1980.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 2 DE ENERO DE 1981.
+
+###### ARTICULO PRIMERO.
+
+Estas reformas entrarán en vigor el día de su publicación en el Periódico Oficial "EL ESTADO DE SINALOA".
+
+###### ARTICULO SEGUNDO.
+
+Hasta en tanto se promulgan la Ley Orgánica de la Administración Pública y su Reglamento respectivo, y en lo que no contravenga a las presentes reformas, continuará aplicándose la Ley Orgánica del Poder Ejecutivo del Estado de Sinaloa, vigente.
