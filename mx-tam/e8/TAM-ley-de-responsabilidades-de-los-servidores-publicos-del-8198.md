@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-de-los-servidores-publicos-del-8198"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-03"
-last_updated: "1984-03-03"
+last_updated: "2000-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "TAM"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TAMAULIPAS
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2000.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 3 de marzo de 1984.
 
-Al margen un sello que dice: "Estado Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Ejecutivo.- Secretaría General".
+Al margen un sello que dice: "Estado Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Ejecutivo.- Secretaría General.
 
 El CIUDADANO DOCTOR EMILIO MARTINEZ MANAUTOU, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
@@ -45,13 +45,15 @@ PRIMERO.- Que a iniciativa del ciudadano licenciado Miguel de la Madrid Hurtado,
 
 SEGUNDO.- Que habiéndose decretado por esa Soberanía con fecha 29 de diciembre del año pasado, las reformas al Título XI de la Constitución Política local, a efecto de adecuarlo a las mencionadas en el considerando anterior, estableciéndose las obligaciones de los servidores públicos, sus sanciones, procedimientos y autoridades competentes para aplicarlas, resulta menester reglamentarlo mediante la Ley respectiva... y Estimando justificado lo anterior, se expide
 
-DECRETO No. 10
+DECRETO: No. 10
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
 ## TITULO PRIMERO
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO UNICO
+
+DISPOSICIONES GENERALES.
 
 ###### ARTICULO 1o.
 
@@ -73,7 +75,7 @@ VI.- El registro del patrimonio de los servidores públicos del Estado y de los 
 
 Son sujetos de esta Ley, los servidores públicos mencionados en el Artículo 149 de la Constitución Política local, así como todas las personas que manejen o apliquen recursos económicos estatales o municipales.
 
-###### ARTICULO 3o.
+###### ARTICULO 3°.
 
 Las autoridades competentes para aplicar la presente Ley serán:
 
@@ -99,9 +101,13 @@ IX.- Los demás órganos autorizados por las Leyes.
 
 Los procedimientos para la aplicación de las sanciones a que se refiere el Artículo 150 de la Constitución Política local, se desarrollarán autónomamente, según su naturaleza y por la vía procesal que corresponda, debiendo las autoridades a que alude el artículo anterior turnar las denuncias a quien deba conocer de ellas. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
-## TITULO SEGUNDO. PROCEDIMIENTOS ANTE EL CONGRESO LOCAL EN MATERIA DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA DE ENJUICIAMIENTO PENAL
+## TITULO SEGUNDO
 
-### CAPITULO I. SUJETOS, CAUSAS DE JUICIO POLITICO Y SANCIONES
+PROCEDIMIENTOS ANTE EL CONGRESO LOCAL EN MATERIA DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA DE ENJUICIAMIENTO PENAL.
+
+### CAPITULO I
+
+SUJETOS, CAUSAS DE JUICIO POLITICO Y SANCIONES.
 
 ###### ARTICULO 5o.
 
@@ -149,17 +155,19 @@ Las sanciones respectivas se aplicarán en un plazo no mayor de un año a partir
 
 ###### ARTICULO 10.
 
-Corresponde al Congreso local instruir el procedimiento relativo al juicio político, actuando como Organo de Acusación, y al Supremo Tribunal de Justicia del Estado fungir como Jurado de Sentencia.
+Corresponde al Congreso local instruir el procedimiento relativo al juicio político, actuando como Organo de Acusación y al Supremo Tribunal de Justicia del Estado fungir como Jurado de Sentencia.
 
 ###### ARTICULO 11.
 
 Al integrarse en el Congreso local las comisiones para el despacho de los asuntos, se designará por la presidencia una comisión para sustanciar los procedimientos consignados en la presente Ley y en la Orgánica del propio Congreso.
 
-La Comisión a que hace referencia el párrafo anterior, se compondrá de siete diputados que formarán la sección instructora. Las vacantes que ocurran serán cubiertas por designación de la Gran Comisión.
+La Comisión a que hace referencia el párrafo anterior, se compondrá de siete diputados que formarán la sección instructora.
+
+Las vacantes que ocurran serán cubiertas por designación de la Gran Comisión.
 
 ###### ARTICULO 12.
 
-Cualquier ciudadano, bajo su mas estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular por escrito, denuncia al Congreso local, por las conductas a que se refiere el Artículo 7o. de este Ordenamiento. Presentada la denuncia y ratificada dentro de tres días hábiles, se turnará de inmediato, con la documentación que le acompañe, a una comisión del Congreso, que estará integrada por los Presidentes de las Comisiones de Gobernación, Puntos Constitucionales y de Justicia, para que dictaminen:
+Cualquier ciudadano, bajo su mas estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular por escrito, denuncia al Congreso local, por las conductas a que se refiere el Artículo 7o. de este Ordenamiento. Presentada la denuncia y ratificada dentro de tres días hábiles, se turnará de inmediato, con la documentación que le acompañe, a una comisión del Congreso, que estará integrada por los Presidentes de las Comisiones de Gobernación, Puntos Constitucionales y de Justicia para que dictaminen:
 
 A).- Si la conducta atribuida corresponde a las enumeradas por aquellos preceptos.
 
@@ -283,9 +291,9 @@ Por lo que toca al Gobernador del Estado, solo habrá lugar a acusarlo ante el P
 
 Cuando se siga proceso penal a un servidor público de los mencionados en el Artículo 152 de la Constitución Política local sin haberse satisfecho el procedimiento al que se refieren los artículos anteriores, la Presidencia del Congreso o la Permanente, en su caso, librará oficio al Juez o Tribunal que conozca de la causa, a fin de que suspenda el procedimiento en tanto se plantea y resuelve si ha lugar a proceder.
 
-### CAPITULO IV. DISPOSICIONES COMUNES PARA LOS
+### CAPITULO IV
 
-CAPITULOS II Y III DEL TITULO SEGUNDO.
+DISPOSICIONES COMUNES PARA LOS CAPITULOS II Y III DEL TITULO SEGUNDO.
 
 ###### ARTICULO 30.
 
@@ -349,7 +357,7 @@ En todo lo no previsto por esta Ley, en las discusiones y votaciones se observar
 
 ###### ARTICULO 41.
 
-En el juicio político al que se refiere esta Ley, los acuerdos y determinaciones del Congreso y del Supremo Tribunal de Justicia se tomarán en sesión pública, excepto en la que se presente la acusación, en la que se dicte sentencia, o cuando las buenas costumbres o el interés general exijan que la audiencia sea secreta.
+En el juicio político al que se refiere esta Ley, los acuerdos y determinaciones del Congreso y del Supremo Tribunal de Justicia se tomarán en sesión publica, excepto en la que se presente la acusación, en la que se dicte sentencia, o cuando las buenas costumbres o el interés general exijan que la audiencia sea secreta.
 
 ###### ARTICULO 42.
 
@@ -373,7 +381,9 @@ En todas las cuestiones relativas al procedimiento no previstas en esta Ley, as�
 
 ## TITULO TERCERO. RESPONSABILIDADES ADMINISTRATIVAS
 
-### CAPITULO I. SUJETOS DE RESPONSABILIDAD Y OBLIGACIONES DEL SERVIDOR PUBLICO
+### CAPITULO I
+
+SUJETOS DE RESPONSABILIDADES Y OBLIGACIONES DEL SERVIDOR PUBLICO.
 
 ###### ARTICULO 46.
 
@@ -421,7 +431,7 @@ Cuando al ingresar el servidor público a la función de que se trate, ya se enc
 
 XVIII.- Presentar con oportunidad y veracidad la declaración de situación patrimonial, en los términos que señala la Ley;
 
-XIX.- Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de su superior jerárquico en relación con las solicitudes que haga la Dirección General de la Contraloría Estatal, conforme a la competencia de ésta;
+XIX.- Atender con diligencia las instrucciones, requeridas y resoluciones que reciba de su superior jerárquico en relación con las solicitudes que haga la Dirección General de la Contraloría Estatal, conforme a la competencia de ésta;
 
 XX.- Informar al superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este Artículo, y en los términos de las normas que al efecto se expidan.
 
@@ -547,7 +557,7 @@ Si la Contraloría Interna de la dependencia tuviera conocimiento de hechos que 
 
 ###### ARTICULO 62.
 
-Si de las investigaciones y auditorías que realice la Dirección apareciera la responsabilidad de los servidores públicos, informará al titular y a la Contraloría interna de la dependencia correspondiente, para que proceda esta última a la investigación y sanción disciplinaria por dicha responsabilidad, si fuera de su competencia. Si se trata de responsabilidades mayores cuyo conocimiento solo compete a la Dirección, ésta se avocará directamente al asunto, informando de ello al titular de la dependencia y a la Contraloría Interna de la misma para que participe o coadyuve en el procedimiento de determinación de responsabilidades.
+Si de las investigaciones y auditorías que realice la Dirección apareciera la responsabilidad de los servidores públicos, informará al titular y a la Contraloría interna de la dependencia correspondiente, para que proceda esta última a la investigación y sanción disciplinaria por dicha responsabilidad, si fuera de su competencia. Si se trata de responsabilidades mayores cuyo conocimiento solo compete a la Dirección, ésta se abocará directamente al asunto, informando de ello al titular de la dependencia y a la Contraloría Interna de la misma para que participe o coadyuve en el procedimiento de determinación de responsabilidades.
 
 ###### ARTICULO 63.
 
@@ -613,7 +623,7 @@ II.- La autoridad acordará sobre la admisibilidad del recurso y de las pruebas 
 
 Las pruebas admitidas se desahogarán en un plazo de cinco días, que a solicitud del servidor público o de la autoridad podrá ampliarse una sola vez por cinco días más; y
 
-III.- Concluído el período probatorio, el superior jerárquico emitirá resolución en el acto, o dentro de los tres días siguientes, notificándolo al interesado.
+III.- Concluido el período probatorio, el superior jerárquico emitirá resolución en el acto, o dentro de los tres días siguientes, notificándolo al interesado.
 
 ###### ARTICULO 72.
 
@@ -659,13 +669,17 @@ II.- Auxilio de la fuerza publica.
 
 Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la legislación penal.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 78.
 
-Las facultades del superior jerárquico y de la Dirección para imponer las sanciones que esta Ley prevé se sujetarán a lo siguiente:
+Las facultades del superior jerárquico y de la dirección para imponer las sanciones que esta Ley prevé, se sujetaran a lo siguiente:
 
-I.- Prescribirán en tres meses si el beneficio obtenido o el daño causado por el infractor, no excede de diez veces el salario mínimo diario vigente en Ciudad Victoria, o si la responsabilidad no fuese estimable en dinero. El plazo de prescripción se contará a partir del día siguiente a aquel en que se hubiera incurrido en la responsabilidad o a partir del momento en que se hubiese cesado, si fue de carácter continuo; y
+I.- Prescribirán en un año, si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo diario vigente en Ciudad Victoria, o si la responsabilidad no fuese estimable en dinero.
 
-II.- En los demás casos prescribirán en tres años.
+El plazo de prescripción se contará a partir del momento en que la Autoridad competente tenga conocimiento de la causal de responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo.
+
+II.- En los demás casos, preiscribirán (sic) en tres años.
 
 ## TITULO CUARTO
 
@@ -721,7 +735,7 @@ Tratándose de bienes muebles, la Dirección decidirá mediante acuerdo general,
 
 Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, la Dirección, previo acuerdo del Ejecutivo debidamente refrendado, podrá ordenar, fundando y motivando su acuerdo, la practica de visitas de inspección y auditoria. Cuando estos actos requieran orden de autoridad judicial, la Dirección hará ante ésta la solicitud correspondiente.
 
-Previamente a la inspección o al inicio de la auditoria, se dará cuenta al servidor público de los hechos que motivan estas actuaciones, y se le presentarán las actas en que aquellos consten, para que exponga lo que en derecho le convenga.
+Previamente a la inspección o al inicio de la auditoria se dará cuenta al servidor público de los hechos que motivan estas actuaciones y se le presentarán las actas en que aquellos consten, para que exponga lo que en derecho le convenga.
 
 ###### ARTICULO 85.
 
@@ -791,8 +805,16 @@ La presente Ley entrará en vigor el día siguiente al de su publicación en el 
 
 SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.
 
-Cd. Victoria, Tam., a 29 de febrero de 1984.- Diputado Presidente, LIC. TITO RESENDEZ TREVIÑO.- Diputado Secretario, LIC. MERCEDES DEL C. GUILLEN V.-Diputado Secretario, JOSE GUADALUPE PUGA GARCIA.- Rúbricas.
+Cd. Victoria, Tam., a 29 de febrero de 1984.- Diputado Presidente, LIC. TITO RESENDEZ TREVIÑO.- Diputado Secretario, LIC. MERCEDES DEL C. GUILLEN V.-Diputado Secretario JOSE GUADALUPE PUGA GARCIA.- Rúbricas.
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-Dado en el Palacio del Poder Ejecutivo; en Ciudad Victoria, capital del Estado de Tamaulipas, a primero de marzo de mil novecientos ochenta y cuatro.- DR. EMILIO MARTINEZ MANAUTOU.- El Subsecretario General de Gobierno Encargado del Despacho por Ministerio de Ley, LIC. JESUS LAVIN SANTOS DEL PRADO.- Rúbricas.
+Dado en el Palacio del Poder Ejecutivo; en Ciudad Victoria, capital del Estado de Tamaulipas, a primero de marzo de mil novecientos ochenta y cuatro.- El Gobernador Constitucional del Estado, DR. EMILIO MARTINEZ MANAUTOU.- El Subsecretario General de Gobierno Encargado del Despacho por Ministerio de Ley, LIC. JESUS LAVIN SANTOS DEL PRADO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE ABRIL DE 2000
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
