@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-la-ley-catastral-4849"
 country: "mx"
 rank: "reglamento"
 publication_date: "1933-11-18"
-last_updated: "1940-11-23"
+last_updated: "1945-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO DE LA LEY CATASTRAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 1940.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1945.
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Chihuahua, 18 de noviembre de 1933.
 
@@ -349,11 +349,11 @@ Siéndolo y en los casos que lo considere necesario solicitará los informes y p
 
 DISPOSICIONES GENERALES.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1940)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1945)</small>
 
 ###### Artículo 36.
 
-Los predios rústicos y urbanos que se encuentren registrados como de la propiedad de una persona, institución o sociedad, no podrán anotarlos a nombre de otra si no se comprueba con documentos fehacientes que justifiquen la substitución y que se hallen debidamente inscritos en el Registro Público de la Propiedad.
+Los predios rústicos y urbanos que se encuentran calificados en los padrones como de la propiedad de una persona, institución o sociedad, no podrán darse de baja ni anotarlos a nombre de otra si no se comprueba con documentos fehacientes que justifiquen la substitución por medio de venta, traspaso o cesión y que se hallen debidamente inscritos en el Registro Público de la Propiedad.
 
 ###### Artículo 37.
 
@@ -386,3 +386,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 23 DE NOVIEMBRE DE 1940.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE DEL ESTADO DE CHIHUAHUA.
+
+P.O. 29 DE DICIEMBRE DE 1945.
+
+El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
