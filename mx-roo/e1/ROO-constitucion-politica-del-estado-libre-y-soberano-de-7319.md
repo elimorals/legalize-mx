@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1988-03-15"
+last_updated: "1989-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1989.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -429,17 +429,17 @@ No podrán reunirse dos o más de estos poderes en una persona o corporación ni
 
 #### SECCION PRIMERA. De la Elección e Instalación de la Legislatura
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1989)</small>
 
 ###### ARTICULO 52.
 
-La Legislatura del Estado de Quintana Roo, se integra con once Diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de Distritos Electorales Uninominales, y hasta con cuatro Diputados electos según el principio de Representación Proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal. Los Diputados serán electos cada tres años por votación universal, directa, libre y secreta de los ciudadanos quintanarroenses en ejercicio de sus derechos.
+La Legislatura del Estado de Quintana Roo, se integra con trece Diputados Electos según el principio de Votación Mayoritaria Relativa, mediante el Sistema de Distritos Electorales Uninominales, y hasta con cinco Diputados Electos según el Principio de Representación Proporcional mediante el sistema de listas votadas en una circunscripción Plurinominal. Los Diputados serán electos cada tres años por votación universal, directa, libre y secreta de los ciudadanos quintanarroenses en ejercicio de sus derechos.
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1989)</small>
 
-ARTICULO 52 BIS.- Para la elección de los once Diputados electos según el principio de votación mayoritaria relativa, la Comisión Estatal Electoral hará la demarcación territorial correspondiente en Distritos Electorales Uninominales.
+ARTICULO 52 BIS.- Para la elección de los trece Diputados Electos según el Principio de Votación Mayoritaria Relativa, la Comisión Estatal Electoral hará la demarcación territorial correspondiente en Distritos Electorales Uninominales.
 
-Para la elección de los cuatro Diputados según el principio de Representación Proporcional, el Estado constituirá una Circunscripción Electoral Plurinominal.
+Para la Elección de los cinco Diputados según el Principio de Representación Proporcional, el territorio del Estado constituirá una circunscripción electoral plurinominal.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1978)</small>
 
@@ -449,9 +449,9 @@ Los diputados electos según el principio de votación mayoritaria relativa y lo
 
 Por cada diputado propietario se elegirá un suplente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 1989)</small>
 
-ARTICULO 53 BIS.- La elección de los cuatro Diputados según el principio de Representación Proporcional en la Circunscripción plurinominal, se sujetará a las bases generales siguientes y a lo que en particular disponga la ley reglamentaria.
+ARTICULO 53 BIS.- La elección de los cinco Diputados según el principio de Representación Proporcional en la Circunscripción plurinominal, se sujetará a las bases generales siguientes y a lo que en lo particular disponga la Ley Reglamentaria.
 
 > <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1978)</small>
 
@@ -1940,3 +1940,7 @@ P.O. 15 DE MARZO DE 1988.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Quintana Roo.
 
 Artículo Segundo.- Los Magistrados del Tribunal Superior de Justicia que se encuentran en funciones, continuarán en ejercicio por el periodo constitucional correspondiente.
+
+P.O. 9 DE NOVIEMBRE DE 1989.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
