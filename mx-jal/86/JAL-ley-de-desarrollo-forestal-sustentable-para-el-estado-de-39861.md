@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-39861"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-25"
-last_updated: "2004-05-25"
+last_updated: "2004-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 20 DE JULIO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 25 de mayo de 2004.
 
@@ -912,3 +914,17 @@ El Secretario General de Gobierno
 LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE JULIO DE 2004.
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2004)</small>
+
+PRIMERO. El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco". La publicación oficial contendrá la exposición de motivos de la presente Ley. (Se anexa copia certificada de la citada exposición de motivos)
+
+SEGUNDO. Se abroga el decreto número 20,510 que contiene la Ley Desarrollo Forestal Sustentable para el Estado de Jalisco.
+
+TERCERO. El titular del Poder Ejecutivo del Estado, deberá prever en su iniciativa de presupuesto de egresos para el ejercicio fiscal siguiente a la entrada en vigor de la presente Ley, para que se provea de los recursos económicos, materiales y humanos, a las Secretarías correspondientes, para los efectos de que esta Ley cumpla con las atribuciones otorgadas.
+
+CUARTO. El Gobierno del Estado, tendrá un término de ciento ochenta días contados a partir de la entrada en vigor de la presente, para expedir el Reglamento respectivo.
