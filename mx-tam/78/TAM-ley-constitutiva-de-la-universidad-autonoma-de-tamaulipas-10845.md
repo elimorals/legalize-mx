@@ -4,7 +4,7 @@ identifier: "TAM-ley-constitutiva-de-la-universidad-autonoma-de-tamaulipas-10845
 country: "mx"
 rank: "ley"
 publication_date: "1956-02-11"
-last_updated: "1968-02-03"
+last_updated: "1972-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY CONSTITUTIVA DE LA UNIVERSIDAD AUTÓNOMA DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 1972.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el 11 de febrero de 1956.
 
@@ -59,43 +59,43 @@ Se encomienda a la Universidad Autónoma de Tamaulipas el servicio público rela
 
 La Universidad Autónoma de Tamaulipas se integrará con las Facultades, Escuelas, Institutos y Departamentos que se requieran para el debido cumplimiento de sus fines, atendiendo a la complejidad de la cultura, a la especialidad de la ciencia, a la diversificación de la técnica y a la variedad de los servicios de extensión que preste, por lo que podrá crear y suprimir dependencias conforme a sus designios y las necesidades culturales del Estado.
 
-N. DE E., POR DECRETO NUMERO 243, PUBLICADO EN EL P.O. EL 3 DE FEBRERO DE 1968, SE ABROGA EL DECRETO 192, PUBLICADO EN EL P.O. EL 6 DE DICIEMBRE DE 1967, EN CONSECUENCIA SE CONSERVA EL TEXTO ANTERIOR A DICHA REFORMA.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1972)</small>
 
 ###### ARTICULO CUARTO.
 
-El funcionamiento docente, técnico y administrativo de la Universidad Autónoma de Tamaulipas, será autónomo y, por tanto, la comunidad de profesores y estudiantes que la constituyen, tendrá su propio Gobierno interior, que será desempeñado por las siguientes autoridades: La Junta de Gobierno, la Asamblea General, el Rector, el Patronato, los Directores de Facultades, Escuelas e Institutos, los Consejos Locales y el Tribunal de Honor.
+El funcionamiento docente, técnico y administrativo de la Universidad Autónoma de Tamaulipas, será autónomo y, por tanto, la comunidad de profesores y estudiantes que la constituyen, tendrá su propio gobierno interior, que será desempeñado por las Autoridades que señale el Estatuto Orgánico de la Universidad.
 
-N. DE E., POR DECRETO NUMERO 243, PUBLICADO EN EL P.O. EL 3 DE FEBRERO DE 1968, SE ABROGA EL DECRETO 192, PUBLICADO EN EL P.O. EL 6 DE DICIEMBRE DE 1967, EN CONSECUENCIA SE CONSERVA EL TEXTO ANTERIOR A DICHA REFORMA.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1972)</small>
 
 ###### ARTICULO QUINTO.
 
-Las funciones políticas, docentes y técnicas corresponden a la Junta de Gobierno y a la Asamblea General; los Consejos Locales tendrán competencia en todo aquello que la Ley les atribuya y que la Asamblea les encomiende.
+Se confiere a la Universidad Autónoma de Tamaulipas el derecho exclusivo para expedir su propio Estatuto Orgánico y para reformarlo y adicionarlo mediante el procedimiento que en el mismo se señale.
 
-Las autoridades ejecutivas, que serán el Rector y los Directores, asumirán las funciones académicas y administrativas que se determinen en la Ley Orgánica.
-
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 1967)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1972)</small>
 
 ###### ARTICULO SEXTO.
 
-La Universidad Autónoma de Tamaulipas tendrá patrimonio, constituído por los bienes que destinen a sus finalidades los Municipios, el Estado y la Federación, por los que ella adquiera por cualesquiera de los medios legítimos y por el acrecentamiento de sus propiedades capitales, posesiones y derechos.
+La Universidad Autónoma de Tamaulipas tendrá patrimonio constituido por los bienes que destinen a sus finalidades los Municipios, el Estado y la Federación, por los que ella adquiere por cualquiera de los medios legítimos y por el acrecentamiento de sus propiedades, capitales, posesiones y derechos.
 
-La Ley Orgánica determinará los bienes que desde luego constituyen el patrimonio de la Universidad.
+El Estatuto Orgánico determinará los bienes que desde luego constituyen el Patrimonio de la Universidad.
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 1967)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1972)</small>
 
 ###### ARTICULO SEPTIMO.
 
-El control, vigilancia y acrecentamiento de los bienes, posesiones y derechos de su patrimonio, lo hará libremente la Universidad, mediante la intervención de un PATRONATO, integrado por personas que pueden o no ser universitarias.
+El control, vigilancia y acrecentamiento de los bienes, posesiones y derechos de su Patrimonio, lo hará libremente la Universidad.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 1972)</small>
 
 ###### ARTICULO OCTAVO.
 
-La equidad y justicia, dentro de la comunidad universitaria, se encomienda a un TRIBUNAL DE HONOR en el que participarán profesores y estudiantes.
+El Gobierno del Estado destinará en su Presupuesto una cantidad anual para el sostenimiento de la Universidad, la que será ministrada por partidas mensuales iguales, sin perjuicio de los subsidios extraordinarios que se aprueben de acuerdo con las necesidades de la Universidad y las posibilidades del erario público.
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 1967)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1972)</small>
 
 ###### ARTICULO NOVENO.
 
-El funcionamiento de las entidades, y organismo que integran la Universidad, la repartición entre sus autoridades de la competencia política, académica, técnica y administrativa, y, en general, las normas de la actividad universitaria, serán determinados en la Ley Orgánica de la Universidad Autónoma de Tamaulipas.
+El funcionamiento de las entidades y organismos que integran la Universidad, la distribución entre sus autoridades de la competencia política, académica, técnica y administrativa y, en general, las normas de la actividad universitaria, serán determinadas en el Estatuto Orgánico de la Universidad Autónoma de Tamaulipas.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 1967)</small>
 
@@ -144,3 +144,7 @@ SEGUNDO.- Al entrar en vigor las presentes reformas, la Asamblea deberá reunirs
 P.O. 3 DE FEBRERO DE 1968
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE OCTUBRE DE 1972
+
+UNICO.- Esta ley comenzará a surtir sus efectos en la fecha de su publicación en el Periódico Oficial del Estado.
