@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-servicio-de-administracion-de-15609"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-23"
-last_updated: "2000-02-23"
+last_updated: "2003-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15609&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-02-15"
 
 REGLAMENTO INTERIOR DEL SERVICIO DE ADMINISTRACION DE BIENES ASEGURADOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY FEDERAL PARA LA ADMINISTRACION Y ENAJENACION DE BIENES DEL SECTOR PUBLICO, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 17 DE JUNIO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 23 de febrero de 2000.
 
@@ -620,3 +622,11 @@ Las ausencias del Contralor Interno, así como las de los titulares de las área
 Único. El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de febrero de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+D.O.F. 17 DE JUNIO DE 2003.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Servicio de Administración de Bienes Asegurados, publicado en el Diario Oficial de la Federación el 23 de febrero de 2000, y se derogan las demás disposiciones administrativas que se opongan al presente ordenamiento.
