@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-44-1998-del-pleno-del-consejo-de-la-5992
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-12-15"
-last_updated: "1999-11-22"
+last_updated: "2003-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59929&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1998-12-02"
 
 ACUERDO GENERAL NUMERO 44/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DE LA VISITADURIA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE NOVIEMBRE DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO GENERAL 28/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 6 DE JUNIO DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial del a Federación, el martes 15 de diciembre de 1998.
 
@@ -704,3 +706,17 @@ D.O.F. 22 DE NOVIEMBRE DE 1999.
 PRIMERO.-Este acuerdo entrará en vigor a partir del primer día hábil de enero del año dos mil, sin perjuicio de las reglas propuestas para las visitas correspondientes al año de mil novecientos noventa y nueve.
 
 SEGUNDO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 6 DE JUNIO DE 2003.
+
+PRIMERO.- El presente acuerdo general entrará en vigor el uno de julio de dos mil tres.
+
+SEGUNDO.- Las visitas de inspección programadas para el segundo semestre del año dos mil tres, serán practicadas por los visitadores judiciales "B", de acuerdo al calendario aprobado por el Pleno. Las visitas serán reasignadas a los visitadores judiciales "B" por el Visitador General.
+
+TERCERO.- Se determina que el treinta de junio de dos mil tres cesarán en sus funciones los actuales visitadores judiciales y se reincorporarán a sus respectivas adscripciones; en caso de no tener alguna, la Comisión de Adscripción propondrá la correspondiente al Pleno. El día uno de julio del mismo año comenzarán a laborar los visitadores judiciales "B".
+
+CUARTO.- Con motivo de la reestructuración de la Visitaduría Judicial, los nombramientos del personal de confianza adscrito a los actuales visitadores y al Visitador General surtirán efectos hasta el treinta de junio de dos mil tres. Todos los nombramientos del personal de base y aquellos nombramientos del personal de os visitadores judiciales "A" continuarán surtiendo efectos.
+
+QUINTO.- Se abrogan los Acuerdos Generales 44/1998 y 54/1999, y se deroga cualquier otro acuerdo, disposición o circular emitidos por el Consejo de la Judicatura Federal, que se oponga a las disposiciones de este acuerdo general.
+
+SEXTO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
