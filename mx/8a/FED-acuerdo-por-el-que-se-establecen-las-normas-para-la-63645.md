@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-establecen-las-normas-para-la-63645"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1994-08-30"
-last_updated: "2003-05-30"
+last_updated: "2004-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63645&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,125 +19,37 @@ issue_date: "1994-08-28"
 ---
 # ACUERDO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
-ACUERDO QUE REFORMA EL SIMILAR POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE LAS MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
+ACUERDO QUE MODIFICA EL ANEXO V DEL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de mayo de 2003.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 14 de julio de 2004.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 5 fracción IV, 9 y 10 de la Ley de Comercio Exterior; 36 fracción I, inciso d) de la Ley Aduanera, y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 34 fracciones I y XXX de la Ley Orgánica de la Administración Pública Federal; 2o., 5o. fracción IV, 9o., 10 y 66 de la Ley de Comercio Exterior, y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que con objeto de establecer las normas para comprobar el origen de las mercancías que se importen al territorio de los Estados Unidos Mexicanos, para efectos de la aplicación del artículo 66 de la Ley de Comercio Exterior, el 30 de agosto de 1994 fue publicado en el Diario Oficial de la Federación el Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, mismo que fue reformado y adicionado mediante diversos dados a conocer en dicho órgano de información oficial el 11 de noviembre de 1996, 12 de octubre de 1998, 30 de julio de 1999, 30 de junio de 2000, 1 de marzo, 23 de marzo y 29 de junio de 2001, y 6 de septiembre de 2002;
+Que con fecha 30 de agosto de 1994 fue publicado en el Diario Oficial de la Federación el Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, el cual fue reformado y adicionado mediante diversos dados a conocer en el mismo órgano informativo el 11 de noviembre de 1996, 12 de octubre de 1998, 30 de julio de 1999, 30 de junio de 2000, 1 y 23 de marzo y 29 de junio de 2001, 6 de septiembre de 2002 y 30 de mayo de 2003, respectivamente, el cual tiene por objeto establecer las normas para la determinación y certificación del país de origen de las mercancías que se importen al territorio de los Estados Unidos Mexicanos para efectos de la aplicación del artículo 66 de la Ley de Comercio Exterior;
 
-Que el 30 de noviembre de 2000, cambió el nombre de la Secretaría de Comercio y Fomento Industrial, por el de Secretaría de Economía, y al entrar en vigor el nuevo Reglamento Interior de la Secretaría de Economía, publicado en el Diario Oficial de la Federación el 22 de noviembre de 2002, se modificó el nombre de la unidad encargada de administrar los certificados de país de origen, de Dirección General de Servicios al Comercio Exterior, a Dirección General de Comercio Exterior, lo que determina la conveniencia de actualizar dichos nombres en el Acuerdo mencionado en el Considerando anterior;
+Que el artículo cuarto fracción I inciso c) del citado Acuerdo, establece que para efectos de lo dispuesto en el artículo 66 de la Ley de Comercio Exterior, el importador de mercancías idénticas o similares a aquellas por las que, de conformidad con la resolución respectiva, deba pagarse una cuota compensatoria, provisional o definitiva, no estará obligado a pagarla si prueba que el país de origen de las mercancías es distinto al de aquellas sujetas a cuota compensatoria, para lo cual, en el caso de mercancías por las que se solicite trato arancelario preferencial al amparo de algún tratado internacional listado en el anexo V, deberá contar con el Certificado de Origen emitido de conformidad con dicho tratado;
 
-Que con objeto de continuar con el impulso a la competitividad económica y el bienestar de los habitantes de la franja fronteriza norte del país y la región fronteriza, el 31 de diciembre de 2002, fueron publicados en el Diario Oficial de la Federación el Decreto por el que se establece el impuesto general de importación para la región fronteriza y la franja fronteriza norte, y el Decreto por el que se establecen las fracciones arancelarias que se encontrarán totalmente desgravadas del impuesto general de importación para la franja fronteriza norte y en la región fronteriza, que sustituyen a los decretos de 1993 en los que se estableció un régimen de transición arancelaria al régimen general del país aplicable a las franjas y regiones fronterizas del país, con vigencia al 31 de diciembre de 2002, por lo que es imprescindible actualizar el Acuerdo citado en el considerando primero, toda vez que contiene disposiciones aplicables a las mercancías que se destinen a la región y franja fronterizas;
+Que para fortalecer y ampliar las relaciones comerciales con la República Oriental del Uruguay se suscribió el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay que aprobó el Senado de la República el 28 de abril de 2004, el decreto de aprobación fue publicado en el Diario Oficial de la Federación el 26 de mayo de 2004, y
 
-Que la Comisión de Comercio Exterior, conforme al procedimiento previsto en la ley de la materia, se pronunció a favor de las actualizaciones propuestas por la Secretaría de Economía con respecto a la certificación del país de origen de las mercancías que se importen al territorio nacional, he tenido a bien expedir el siguiente:
+Que es necesario actualizar y dar a conocer las disposiciones referentes a la determinación y certificación del país de origen de mercancías importadas en materia de cuotas compensatorias, he tenido a bien expedir el siguiente:
 
-ACUERDO QUE REFORMA EL SIMILAR POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE LAS MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
-
-###### ARTICULO 1o.
-
-Se reforma el artículo segundo, párrafos tercero y quinto, del Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, para quedar como sigue:
-
-“ARTICULO SEGUNDO.- . . .
-
-. . .
-
-Decretos, al Decreto por el que se establece el impuesto general de importación para la región fronteriza y la franja fronteriza norte, y al Decreto por el que se establecen las fracciones arancelarias que se encontrarán totalmente desgravadas del impuesto general de importación para la franja fronteriza norte y en la región fronteriza, publicados en el Diario Oficial de la Federación el 31 de diciembre de 2002.
-
-. . .
-
-Organismo o autoridad extranjera, al organismo o autoridad extranjera designado por el gobierno extranjero correspondiente y notificado a la Dirección General de Comercio Exterior de la Secretaría de Economía.
-
-. . .”
-
-###### ARTICULO 2o.
-
-Se reforma el primer párrafo del inciso a), de la fracción I, del artículo cuarto del Acuerdo que se indica en el artículo 1o. del presente ordenamiento, para quedar como sigue:
-
-“ARTICULO CUARTO.- . . .
-
-I.- . . .
-
-a) Tratándose de las mercancías listadas en el Anexo II, con el Certificado de País de Origen contenido en el Anexo III. Cuando, de conformidad con las Reglas de País de Origen, el país de origen de las mercancías no sea miembro de la Organización Mundial de Comercio, se requerirá, además, una constancia de verificación expedida por una de las empresas privadas de inspección, reconocida por la Dirección General de Comercio Exterior de la Secretaría de Economía, que avale la información contenida en el Certificado de País de Origen contenido en el Anexo III. La Secretaría de Economía publicará periódicamente, en el Diario Oficial de la Federación, la lista de las empresas privadas de inspección reconocidas.
-
-. . .
-
-. . .”
-
-###### ARTICULO 3o.
-
-Se reforma el inciso b) del artículo sexto del Acuerdo que se indica en el artículo 1o. del presente ordenamiento, para quedar como sigue:
-
-“ARTICULO SEXTO.- . . .
-
-a) . . .
-
-b) los exportadores de las mercancías listadas en el anexo II de dichos países celebren un convenio de verificación con la Secretaría de Economía.”
-
-###### ARTICULO 4o.
-
-Se reforma el primer párrafo del Anexo II del Acuerdo que se indica en el artículo 1o. del presente ordenamiento, para quedar como sigue:
-
-“ANEXO II
-
-Posiciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación en las que se clasifican las mercancías por las que se debe presentar el Certificado de País de Origen contenido en el Anexo III, cuando se importan al territorio de los Estados Unidos Mexicanos:
-
-. . .”
-
-###### ARTICULO 5o.
-
-Se reforma el campo 11 del Instructivo para el llenado del Certificado de País de Origen, contenido en el Anexo III, del Acuerdo que se indica en el artículo 1o. del presente ordenamiento, para quedar como sigue:
-
-“ANEXO III
-
-. . .
-
-CAMPO 11: Este campo deberá ser llenado, de conformidad con la fracción II del artículo Quinto de este Acuerdo, por el organismo o autoridad extranjera del país mencionado en el campo 8, designado por el gobierno extranjero correspondiente y notificado a la Dirección General de Comercio Exterior de la Secretaría de Economía. No será necesario llenar este campo si el criterio de origen señalado en el campo 7 es E o F, pero sí deberá cumplirse con lo establecido en el párrafo cuarto, inciso c) de la nota explicativa del campo 7. (Referencia: artículo Quinto del Acuerdo).”
-
-###### ARTICULO 6o.
-
-Se reforma el punto 2 del Anexo VI del Acuerdo que se indica en el artículo 1o. del presente ordenamiento, para quedar como sigue:
-
-“ANEXO VI
-
-1. . . .
-
-2. Con el objeto de detectar la elusión del pago de cuotas compensatorias, la Secretaría de Economía vigilará la evolución de las importaciones y, en función de los resultados de dicha vigilancia, actualizará la lista anterior.
-
-. . .”
+ACUERDO QUE MODIFICA EL ANEXO V DEL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
 ###### ARTICULO UNICO.
 
-Se adicionan a la lista contenida en el Anexo V del Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, publicado en el Diario Oficial de la Federación el 30 de agosto de 1994 y reformado y adicionado mediante diversos dados a conocer en el mismo órgano informativo el 11 de noviembre de 1996, 12 de octubre de 1998, 30 de julio de 1999, 30 de junio de 2000, 1o. y 23 de marzo de 2001, respectivamente, el siguiente tratado internacional:
+Se adiciona a la lista contenida en el Anexo V del Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias publicado el 30 de agosto de 1994 en el Diario Oficial de la Federación y reformado y adicionado mediante diversos dados a conocer en el mismo órgano informativo el 11 de noviembre de 1996, 12 de octubre de 1998, el 30 de julio de 1999, 30 de junio de 2000, 1 y 23 de marzo y 29 de junio de 2001, 6 de septiembre de 2002 y 30 de mayo de 2003, el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, para quedar como sigue:
 
-". . .
-
-. . .
+“ANEXO V
 
 . . .
 
-Tratado de Libre Comercio celebrado entre los Estados Unidos Mexicanos y los Estados de la Asociación Europea de Libre Comercio.
-
-ANEXO V
-
-El siguiente tratado de libre comercio otorga a la autoridad mexicana facultades de comprobación en el extranjero respecto del Certificado de Origen:
-
 . . .
 
-Tratado de Libre Comercio entre los Estados Unidos Mexicanos y los Estados de la Asociación Europea de Libre Comercio."
-
-TRANSITORIO (SIC)
-
-PRIMERO.- El presente Acuerdo entrará en vigor a partir de la fecha de entrada en vigor del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y los Estados de la Asociación Europea de Libre Comercio.
-
-SEGUNDO.- En tanto la Secretaría de Economía no de a conocer la fecha de entrada en vigor provisional o definitiva para la República de Islandia del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y los Estados de la Asociación Europea de Libre Comercio así como del Acuerdo sobre Agricultura entre los Estados Unidos Mexicanos y la República de Islandia, las mercancías originarias de Islandia deberán cumplir con el Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, publicado en el Diario Oficial de la Federación el 30 de agosto de 1994 y reformado y adicionado mediante diversos dados a conocer en el mismo órgano informativo el 11 de noviembre de 1996, 12 de octubre de 1998, 30 de julio de 1999, 30 de junio de 2000, 1o. y 23 de marzo de 2001.
-
-México, D.F., a 28 de junio de 2001.- El Secretario de Economía, Luis Ernesto Derbez Bautista.- Rúbrica.
+Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay.
 
 ###### ARTICULO CUARTO.
 
@@ -229,8 +141,8 @@ VII.- Tratándose del retorno de mercancías exportadas temporalmente conforme a
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+PRIMERO.- El presente Acuerdo entrará en vigor el 15 de julio de 2004.
 
-SEGUNDO.- La relación de los nombres, firmas y sellos de los organismos o autoridades extranjeras designados por los gobiernos extranjeros, para la formalización del Certificado de País de Origen contenido en el Anexo III, quedará a disposición de los importadores en la Dirección General de Comercio Exterior y en las Delegaciones y Subdelegaciones Federales de la Secretaría de Economía. Dichos nombres, firmas y sellos podrán ser notificados por los gobiernos extranjeros al gobierno de los Estados Unidos Mexicanos mediante comunicación dirigida a la Dirección General de Comercio Exterior de la Secretaría de Economía o a las representaciones diplomáticas de los Estados Unidos Mexicanos en el extranjero.
+SEGUNDO.- En un plazo de 30 días contados a partir de la entrada en vigor del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, se derogará el Acuerdo que reforma el Anexo V del diverso por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, publicado en el Diario Oficial de la Federación el 1 de marzo de 2001, mediante el cual incluye el Decimoquinto Protocolo Adicional del Acuerdo de Complementación Económica No. 5 entre los Estados Unidos Mexicanos y la República Oriental del Uruguay.
 
-México, D.F., a 22 de mayo de 2003.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+México, D.F., a 2 de julio de 2004.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
