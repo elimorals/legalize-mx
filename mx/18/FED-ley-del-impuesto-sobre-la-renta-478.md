@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-478"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1981-12-31"
+last_updated: "1982-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 1982.
 
 Ley publicada en el Diario Oficial de la Federación, el Martes 30 de Diciembre de 1980.
 
@@ -984,7 +984,7 @@ Tratándose de contratos de arrendamiento financiero, se considerará como monto
 
 TASA DE INTERES
 
-(VEASE ARCHIVO ANEXO)
+(VEASE ARCHIVO LIGADO)
 
 Cuando el arrendador sea un residente en el extranjero para efectos de la aplicación del cuadro contenido en este artículo, se considerará que el interés fijado para determinar los pagos correspondientes al primer año de plazo, es el interés por operaciones interbancarias que rija en el mercado de Londres (LIBOR) al momento de celebrar el contrato.
 
@@ -3912,8 +3912,6 @@ Las sociedades de fomento y las sociedades promovidas no podrán efectuar la ded
 
 Las sociedades mercantiles controladoras en los términos del Capítulo IV del Título II de la Ley del Impuesto sobre la Renta, cuyo ejercicio fiscal no coincida con el año de calendario, podrán determinar el impuesto del ejercicio conforme a lo dispuesto por el Capítulo IV del Título II de la Ley mencionada por la parte de su ejercicio que sea posterior al 31 de diciembre de 1981 y siempre que cumplan con los requisitos establecidos en la Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
 ###### ARTICULO VIGESIMO QUINTO.
 
 Las reformas a los artículos 58 fracciones I y II, 62 primer párrafo, 72 fracción I, 77 fracción XIII, 88 fracciones II y III, 94 fracciones II y III, 95, 112 fracciones II, III y VI, 114 primer párrafo, 136 fracción IV y 140 último párrafo de la Ley del Impuesto sobre la Renta, entrarán en vigor el 1o. de octubre de 1982.
@@ -3967,3 +3965,9 @@ I.- Cuando realicen otras actividades empresariales y se presten a sí mismos el
 II.- Las sociedades que presten servicios de transporte de carga a alguno de sus socios o a otra sociedad de la que sea accionista la sociedad prestadora del servicio o alguno de sus propios socios.
 
 Las empresas agrícolas, ganaderas y de pesca, estarán sujetas al régimen en general de la Ley a partir del 1o. de enero de 1983. La Secretaría de Hacienda y Crédito Público podrá durante ese ejercicio establecer bases en materia del impuesto sobre la renta para determinar la utilidad fiscal de las personas físicas o morales que sean pequeñas o medianas empresas dedicadas a la agricultura, ganadería y pesca.
+
+D.O.F. 30 DE SEPTIEMBRE DE 1982.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el 1o. de octubre de 1982.
