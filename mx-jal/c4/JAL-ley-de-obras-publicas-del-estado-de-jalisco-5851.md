@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-obras-publicas-del-estado-de-jalisco-5851"
 country: "mx"
 rank: "ley"
 publication_date: "1990-04-19"
-last_updated: "1990-04-19"
+last_updated: "1991-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 19 de abril de 1990.
 
@@ -100,6 +100,10 @@ Las dependencias y entidades ejecutoras, en su caso, deberán formular inventari
 ###### Art. 9°.
 
 Los titulares de las dependencias y entidades, así como los servidores públicos a quienes competa la aplicación de esta Ley, deberán asegurar que tanto los sistemas y procedimientos, como los actos y contratos que deban realizar o suscribir, observen los criterios consignados en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 1991)</small>
+
+En todo lo previsto por esta ley y su reglamento, serán aplicables las disposiciones del Código Civil y de Procedimientos Civiles del Estado de Jalisco en cuanto éstas no sean contrarias a la naturaleza y principios en que aquella se sustenta.
 
 Los órganos de gobierno de las entidades, de acuerdo a las disposiciones legales que les resulten aplicables, dictarán los lineamientos y políticas que habrán de observar los directores generales, o sus equivalentes, de las propias entidades, a fin de que los criterios a que se refiere este artículo se adopten e instrumenten en cada entidad, bajo las modalidades, que los propios órganos de gobierno determinen.
 
@@ -329,11 +333,11 @@ Las prevenciones sobre anticipos y pagos deberán formar parte de las estipulaci
 
 La amortización del anticipo deberá efectuarse proporcionalmente, con cargo a cada una de las estimaciones por trabajos ejecutados que se formulen.
 
-> <small>(F. DE E., P.O. 7 DE JULIO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE DICIEMBRE DE 1991)</small>
 
-###### Art. 36.
+###### Artículo 36.
 
-Cuando durante la vigencia de un contrato de obra concurran circunstancias o acontecimientos de cualquier naturaleza no previstas en el mismo, pero que de hecho y sin dolo, culpa, negligencia o ineptitud de cualquiera de las partes, determinen un aumento o reducción de un 5% o más de los costos de los trabajos aún no ejecutados, conforme al programa de ejecución autorizado, dichos costos podrán ser revisados; y en caso procedente, la contratante comunicará la decisión que acuerde el aumento o reducción correspondiente.
+Cuando durante la vigencia de un contrato de obra concurren circunstancias o acontecimientos de cualquier naturaleza no previstas en el mismo, pero que de hecho y sin que exista dolo, culpa, negligencia o ineptitud de cualquiera de las partes, determinen un aumento o reducción de los costos de los trabajos aún no ejecutados, dichos costos podrán ser revisados Conforme lo determinen las partes en el respectivo Contrato y, en caso procedente, la contratante comunicará la decisión que acuerde, el aumento o reducción correspondiente.
 
 Los recursos financieros necesarios para cubrir las modificaciones en caso de aumento, no tendrán que ser incluidos en convenios adicionales a los que se refiere el Art. 39 de esta Ley, sino que la dependencia deberá tener prevista la suficiencia presupuestal dentro de su programa de inversiones.
 
@@ -369,11 +373,17 @@ El contratista deberá garantizar la correcta inversión del anticipo mediante f
 
 El Gobierno del Estado podrá celebrar contratos en los que el costo de la obra pública se financie total o parcialmente por entidades del sector privado, social o por ambos.
 
-En estos casos el gobierno podrá otorgar a los financiadores a que se refiere el párrafo anterior, el derecho de operar la obra y percibir los productos que genere la misma, a fin de amortizar el importe de los financiamientos y sus respectivos accesorios en los términos y condiciones que al efecto se pacten.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1991)</small>
 
-Cuando sean varios los interesados en financiar una obra en los términos de este artículo y el Estado decida actuar en los términos del párrafo que antecede, deberá invariablemente y por la Secretaría de Finanzas celebrarse concurso para adjudicar la operación de la obra a la entidad social o privada que ofrezca las mejores condiciones para el Estado.
+En estos casos, el Gobierno del Estado podrá Adjudicar Directamente el Contrato de Ejecución de la Obra al Propio Financiador, si éste así lo solicita y acredita tener la experiencia, capacidad técnica y los demás requerimientos que el caso exija.
 
-El Reglamento de esta Ley fijará las bases para el otorgamiento de los contratos que se mencionan, debiendo el Estado invariablemente reservarse el derecho de supervisar la prestación de los servicios y controlar los aspectos financieros de los rendimientos.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1991)</small>
+
+De igual manera, podrá otorgarse al financiador, en su caso, el derecho de operar la obra y percibir sus productos o rendimientos mediante los cuales se amortizará el importe del financiamiento y de sus respectivos accesorios, en los términos y bajo las condiciones que al efecto, se señalen en el contrato respectivo, o en su defecto, si la obra no genera recursos para la amortización del financiamiento, el Gobierno del Estado acordará con el Financiador la forma y términos de la Amortización del Financiamiento y del pago de sus respectivos Accesorios.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1991)</small>
+
+En el caso de no actualizarse las Hipótesis anteriores, el Gobierno del Estado procederá a concursar tanto la ejecución de la obra como la operación de la misma por conducto de una Comisión Intersecretarial que se constituirá en los términos del Artículo 15 de la Ley Orgánica del Poder Ejecutivo del Estado y en la que invariablemente participarán las Secretarías de Finanzas y de desarrollo Urbano y Rural, de acuerdo a las bases especiales que se señalen en la Convocatoria respectiva.
 
 ###### Art. 42.
 
@@ -389,7 +399,9 @@ El Gobierno del Estado promoverá las obras que deban llevarse a cabo con la par
 
 Los contratos de obra pública se adjudicarán o llevarán a cabo bajo las siguientes modalidades:
 
-I. Adjudicación directa, de conformidad con lo dispuesto por los Arts. 48 y 49, de esta ley;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1991)</small>
+
+I. Adjudicación directa, de conformidad con lo dispuesto por los Artículos 41, 48 y 49 de esta Ley;
 
 II. Concurso de invitación, mediante convocatoria que se efectúe a, cuando menos, tres personas registradas en el Padrón de Contratistas del Estado, que tengan la idoneidad, capacidad técnica y económica, a efecto de que libremente presenten proposiciones solventes, en sobre cerrado, que será abierto públicamente;
 
@@ -678,3 +690,9 @@ Lic. Guillermo Cosío Vidaurri
 El Secretario General de Gobierno
 
 Lic. Enrique Romero González
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE DICIEMBRE DE 1991.
+
+Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
