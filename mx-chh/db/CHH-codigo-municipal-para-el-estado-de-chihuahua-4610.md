@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "1996-06-08"
+last_updated: "1996-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 1996.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -115,13 +115,17 @@ Son elegibles para el cargo de miembros de un Ayuntamiento, de junta municipal y
 
 Las autoridades Municipales actuarán dentro de la esfera de competencia que les concedan los ordenamientos jurídicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1996)</small>
 
-ARTICULO 8 (SIC).- El territorio del Estado se divide en los siguientes Municipios:
+###### ARTICULO 11.
+
+El territorio del Estado se divide en los siguientes Municipios:
 
 I.- AHUMADA, con cabecera en la ciudad denominada Miguel Ahumada y la sección municipal de Carrizal;
 
-II.- ALDAMA, con cabecera en la ciudad denominada Juan Aldama y las secciones municipales de el Pueblito, Maclovio Herrera, Placer de Guadalupe, San Diego de Alcalá y Mineral de Plomosas;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1996)</small>
+
+II.- ALDAMA, con cabecera en la Ciudad denominada Juan Aldama y las Secciones Municipales de El Pueblito, Maclovio Herrera, Placer de Guadalupe, San Diego de Alcalá y La Mesa;
 
 III.- ALLENDE, con cabecera en el pueblo denominado Valle de Ignacio Allende, y las secciones municipales del Pueblito de Allende, Talamantes y Colonia Búfalo;
 
@@ -252,146 +256,6 @@ LXIV.- TEMOSACHI; con cabecera en el pueblo del mismo nombre y las secciones mun
 > <small>(REFORMADA, P.O. 9 DE MARZO DE 1996)</small>
 
 LXV.- URIQUE, con cabecera en la villa del mismo nombre y las Secciones Municipales de Cerocahui, Cuiteco, Guagueyvo, Colonia Bahuérachi, San Rafael y Cieneguita Lluvia de Oro;
-
-LXVI.- URUACHI; con cabecera en el pueblo del mismo nombre y als (sic) secciones municipales de Batopilillas y El Rebaje; y
-
-LXVII.- VALLE DE ZARAGOZA; con cabecera en el pueblo del mismo nombre y las secciones municipales de El Velduque y San Felipe;
-
-###### ARTICULO 11.
-
-El Estado se divide en los siguientes Municipios:
-
-I.- AHUMADA, con cabecera en la ciudad denominada Miguel Ahumada y la sección municipal de Carrizal;
-
-II.- ALDAMA, con cabecera en la ciudad denominada Juan Aldama y las secciones municipales de el Pueblito, Maclovio Herrera, Placer de Guadalupe, San Diego de Alcalá y Mineral de Plomosas;
-
-III.- ALLENDE, con cabecera en el pueblo denominado Valle de Ignacio Allende, y las secciones municipales del Pueblito de Allende, Talamantes y Colonia Búfalo;
-
-IV.- AQUILES SERDAN, con cabecera en el pueblo denominado Santa Eulalia, y la sección municipal de Santo Domingo;
-
-V.- ASCENSION, con cabecera en el pueblo del mismo nombre y la sección municipal de Puerto Palomas;
-
-VI.- BACHINIVA, con cabecera en el pueblo del mismo nombre y la sección municipal de El Porvenir;
-
-VII.- BALLEZA, con cabecera en el pueblo denominado Mariano Balleza, y las Secciones Municipales de Baquiriachi, Cristóbal Colón, General Carlos Pacheco, San Juan y El Vergel;
-
-VIII.- BATOPILAS, con cabecera en el pueblo del mismo nombre y las secciones municipales de Cerro Colorado, Polanco, Yoquivo y San Ignacio;
-
-IX.- BOCOYNA, con cabecera en el pueblo del mismo nombre y las secciones municipales de Ciénega de Guacayvo, Creel, San Juanito y Sisoguichi;
-
-X.- BUENAVENTURA, con cabecera en el pueblo de San Buenaventura y las secciones municipales de Flores Magón, El Progreso y Ejido Benito Juárez;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE DICIEMBRE DE 1995)</small>
-
-XI.- CAMARGO, con cabecera en la Ciudad denominada Santa Rosalía de Camargo, y la sección municipal de "La Perla";
-
-XII.- CARICHI, con cabecera en el pueblo del mismo nombre y la Sección Municipal de Ciénega de Ojos Azules;
-
-XIII.- CASAS GRANDES, con cabecera en el pueblo del mismo nombre;
-
-XIV.- CORONADO, con cabecera en el pueblo denominado José Esteban Coronado.
-
-XV.- COYAME, con cabecera en el pueblo denominado Santiago de Coyame y las Secciones Municipales de Cuchillo Parado y El Carrizo;
-
-XVI.- CUAUHTEMOC, con cabecera en la ciudad del mismo nombre y las Secciones Municipales de Colonia Anahuac, Colonia Obregón y Lázaro Cárdenas;
-
-XVII.- CUSIHUIRIACHI, con cabecera en el pueblo del mismo nombre y las Secciones Municipales de Cerro Prieto, Coyachi y San Juan Bautista;
-
-XVIII.- CHIHUAHUA, con cabecera en la capital del Estado y las Secciones Municipales de Ciénega de Ortiz, Colonia Soto, El Charco, Guadalupe y El Sauz;
-
-XIX.- CHINIPAS, con cabecera en el pueblo de Chínipas de Almada y las secciones municipales de Guadalupe Victoria, Gorogachi y Milpillas;
-
-XX.- DELICIAS, con cabecera en la ciudad del mismo nombre.
-
-XXI.- DR. BELISARIO DOMINGUEZ, con cabecera en el pueblo denominado San Lorenzo, y las secciones municipales de Santa María de Cuevas, Santa Rosalía de Cuevas, Tutoaca y Ciénega de Loya;
-
-XXII.- EL TULE, con cabecera en el pueblo del mismo nombre y la sección municipal de Baqueteros;
-
-XXIII.- GALEANA, con cabecera en el pueblo denominado Hermenegildo Galeana;
-
-XXIV.- GOMEZ FARIAS, con cabecera en el pueblo denominado Valentín Gómez Farías; y la sección municipal de Peña Blanca;
-
-XXV.- GRAN MORELOS, con cabecera en el pueblo denominado San Nicolás de Carretas y las secciones municipales de la Paz, Santa Cruz de Mayo y Laborcita de San Javier;
-
-XXVI.- GUADALUPE, con cabecera en el pueblo del mismo nombre y las (sic) sección municipal de Vado de Cedillos;
-
-XXVII.- GUADALUPE Y CALVO, con cabecera en el pueblo del mismo nombre y las secciones municipales de Baborigame, Calabacillas, Dolores, Mesa de San Rafael, San Julián, San Juan Nepomuceno, San Simón, Tohayana y Atascaderos;
-
-XXVIII.- GUACHOCHI, con cabecera en el pueblo del mismo nombre y las secciones municipales de Tonachi, Rocheachi, Norogachi, Basiguare y la Ciénega;
-
-XXIX.- GUAZAPARES, con cabecera en el pueblo de Temoris y las secciones municipales de Guazapares, Monterde y Tepochique;
-
-XXX.- GUERRERO; con cabecera en la ciudad denominada Vicente Guerrero y las secciones municipales de Arisiachi, Basuchil, Guadalupe, Jesús Lugo, Estación Lic. Adolfo López Mateos, Miñaca, Orozco, Pachera, Pahuirachi, Pedernales, Calera, Pichachi, Rancho Colorado, Rancho de Santiago, San José de Baquiachi, Santo Tomás, San Pablo de la Sierra, Temechi, Tomochi y Estación Terrero;
-
-XXXI.- HIDALGO DEL PARRAL; con cabecera en la ciudad del mismo nombre y las (sic) sección municipal de Villa Escobedo;
-
-XXXII.- HUEJOTITAN; con cabecera en el pueblo del mismo nombre y las (sic) sección municipal de Pichague;
-
-XXXIII.- IGNACIO ZARAGOZA; con cabecera en el pueblo del mismo nombre y la sección municipal de Allende;
-
-XXXIV.- JANOS; con cabecera en el pueblo del mismo nombre;
-
-XXXV.- JIMÉNEZ; con cabecera en la ciudad denominada José Mariano Jimenez, y la sección municipal de Escalón;
-
-XXXVI.- JUAREZ; con cabecera en la ciudad del mismo nombre y la sección municipal de Samalayuca;
-
-XXXVII.- JULIMES; con cabecera en el pueblo del mismo nombre;
-
-XXXVIII.- LA CRUZ; con cabecera del pueblo del mismo nombre;
-
-XXXIX.- LOPEZ; con cabecera en el pueblo denominado Octaviano López;
-
-XL.- MADERA; con cabecera en la ciudad del mismo nombre y las secciones municipales de Dolores, Nicolás Bravo, Chuhuichupa, las Varas y el Largo;
-
-XLI.- MAGUARICHI; con cabecera en el pueblo del mismo nombre;
-
-XLII.- MANUEL BENAVIDES; con cabecera en el pueblo del mismo nombre;
-
-XLIII.- MATACHI; con cabecera en el pueblo del mismo nombre y la sección municipal de Tejolocachi;
-
-XLIV.- MATAMOROS; con cabecera en el pueblo denominado Mariano Matamoros;
-
-XLV.- MEOQUI; con cabecera en la ciudad denominada Pedro Meoqui y las secciones municipales de Guadalupe Victoria y Lázaro Cárdenas;
-
-XLVI.- MORELOS; con cabecera en el pueblo del mismo nombre;
-
-XLVII.- MORIS; con cabecera en el pueblo del mismo nombre;
-
-XLVIII.- NAMIQUIPA, con cabecera en el pueblo del mismo nombre y las secciones municipales de Cruces, Santa Ana, El Terrero y Santa Clara;
-
-XLIX.- NONOAVA; con cabecera en el pueblo del mismo nombre;
-
-L.- NUEVO CASAS GRANDES; con cabecera en la ciudad del mismo nombre;
-
-LI.- OCAMPO; con cabecera en el pueblo denominado Melchor Ocampo y las secciones municipales de Agua Caliente, Basaseachi, Cajurichi, Candameña, Pinos Altos, Yoquivo y Huajumar;
-
-LII.- OJINAGA; con cabecera en la ciudad denominada Manuel Ojinaga y las secciones municipales de El Mulato, Potrero del Llano, San Antonio del Bravo, San Juan y Vado de Piedra;
-
-LIII.- PRAXEDIS G. GUERRERO; con cabecera en el pueblo del mismo nombre y la sección municipal de El Porvenir,
-
-LIV.- RIVA PALACIO; con cabecera en el pueblo de San Andrés y la sección municipal de Sainapuchi;
-
-LV.- ROSALES; con cabecera en el pueblo de Santa Cruz de Rosales y la sección municipal de San Pedro de Conchos;
-
-LVI.- ROSARIO; con cabecera en el pueblo denominado Valle del Rosario y las secciones municipales de Juan Mendoza, San Javier, San Nicolás del Cañón y Valle de Olivos;
-
-LVII.- SAN FRANCISCO DE BORJA; con cabecera en el pueblo del mismo nombre y la sección municipal de Santa Ana;
-
-LVIII.- SAN FRANCISCO DE CONCHOS; con cabecera en el pueblo del mismo nombre y la sección municipal de Boquilla de Babisas;
-
-LIX.- SAN FRANCISCO DEL ORO; con cabecera en el pueblo del mismo nombre;
-
-LX.- SANTA BARBARA; con cabecera en la ciudad del mismo nombre y la sección municipal de Casa Colorada;
-
-LXI.- SANTA ISABEL; con cabecera en el pueblo del mismo nombre;
-
-LXII.- SATEVO; con cabecera en el pueblo denominado San Francisco Javier de Satevó y las secciones municipales de Babonoyaba, La Joya, San Antonio de los Chacón y San José del Sitio;
-
-LXIII.- SAUCILLO; con cabecera en la ciudad del mismo nombre y las secciones municipales de Naica y las Varas;
-
-LXIV.- TEMOSACHI; con cabecera en el pueblo del mismo nombre y las secciones municipales de Cocomorachi, Tosanachi, Tutuaca, Yepachi y Yepomera;
-
-LXV.- URIQUE; con cabecera en el pueblo del mismo nombre y las secciones municipales de Cerocahui, Cuiteco, Guagueyvo, Colonia Bahuerachi y San Rafael;
 
 LXVI.- URUACHI; con cabecera en el pueblo del mismo nombre y als (sic) secciones municipales de Batopilillas y El Rebaje; y
 
@@ -2776,3 +2640,9 @@ UNICO.- El presente decreto entrará en vigor, al día siguiente de su publicaci
 P.O. 8 DE JUNIO DE 1996.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE OCTUBRE DE 1996.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para la elección de la Junta Municipal en la Sección Municipal de La Mesa, se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado, en lo conducente, debiéndose llevar a cabo la elección dentro de los 60 días siguientes a la entrada en vigor del presente decreto.
