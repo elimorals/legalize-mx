@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-48-1998-del-pleno-del-consejo-de-la-1499
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-03-23"
-last_updated: "2003-04-15"
+last_updated: "2004-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14993&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-09"
 
 ACUERDO GENERAL NUMERO 48/1998, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ABRIL DE 2003.
+ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE MARZO DE 2004.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 23 de marzo de 1999.
 
@@ -443,15 +443,29 @@ Sección 1a.
 
 Generalidades
 
+> <small>(REFORMADO POR ACUERDO GENERAL 11/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE MARZO DE 2004)</small>
+
 ###### Artículo 33.
 
-Cada Comisión se formará por tres miembros designados por el Pleno por mayoría calificada de cinco votos en la primera sesión plenaria del año y, en forma excepcional, en la última sesión ordinaria del mes de diciembre de cada cuatro años, coincidiendo con el término del periodo que corresponde al Presidente de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal.
+Cada Comisión se formará por tres miembros designados por el Pleno por mayoría calificada de cinco votos en la primera sesión plenaria del año.
+
+> <small>(REFORMADO POR ACUERDO GENERAL 11/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE MARZO DE 2004)</small>
 
 ###### Artículo 34.
 
-Cada Comisión, en la primera sesión del año, elegirá a su respectivo presidente y determinará el tiempo de su encargo de acuerdo a los artículos 78 y 79 de la Ley, salvo la excepción prevista en el artículo que antecede, en la que será elegido en la última sesión plenaria del año.
+Cada Comisión, en la primera sesión del año, elegirá a su respectivo presidente y determinará el tiempo de su encargo de acuerdo al artículo 79 de la Ley.
+
+Cada uno de los Consejeros presidirá al menos una Comisión. Para ocupar dicho cargo deberá haber formado parte de la Comisión respectiva el año anterior. Lo anterior con las excepciones a que se refiere el artículo 34 ter del presente Acuerdo.
 
 Las Comisiones tendrán la facultad de designar a su respectivo Secretario Técnico y al personal subalterno que fije el presupuesto, previa propuesta de su Presidente.
+
+> <small>(ADICIONADO POR ACUERDO GENERAL 11/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE MARZO DE 2004)</small>
+
+Artículo 34 bis.- La integración de las Comisiones será en forma rotativa. Para tales efectos, el Consejero que haya fungido como Presidente de cada una de las comisiones en la integración anterior permanecerá como miembro de la misma, y una vez concluido dicho encargo dejará la Comisión, a menos que las necesidades del servicio lo requieran, en términos del artículo 34 ter del presente Acuerdo.
+
+> <small>(ADICIONADO POR ACUERDO GENERAL 11/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE MARZO DE 2004)</small>
+
+Artículo 34 ter.- El Pleno se reserva la facultad de llevar a cabo las excepciones a los criterios contenidos en este capítulo, para el mejor desempeño de las funciones de las Comisiones del Consejo.
 
 ###### Artículo 35.
 
@@ -557,61 +571,49 @@ Sección 3a.
 
 De Comisiones Unidas
 
-> <small>(REFORMADO POR EL ACUERDO GENERAL 3/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE ENERO DE 2001)</small>
-
 ###### Artículo 47.
 
-Comisiones Unidas es la instancia de coordinación del trabajo de las diversas Comisiones. Por ello, las propuestas de acuerdos y proyectos formulados por las Comisiones que deban someterse al Pleno, serán conocidas previamente, en sesión de Comisiones Unidas para su valoración y análisis técnico.
-
-En las sesiones de Comisiones Unidas tendrán participación todos los Consejeros, incluyendo al Presidente, cuando éste lo estime conveniente.
+(DEROGADO POR ACUERDO GENERAL 11/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE MARZO DE 2004).
 
 ###### Artículo 48.
 
-La resolución de Comisiones Unidas se limitará a precisar los términos en que los asuntos serán presentados al Pleno para su aprobación, excepto en aquellos casos en que los asuntos se resuelvan en la propia sesión.
+(DEROGADO POR ACUERDO GENERAL 11/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE MARZO DE 2004).
 
 ###### Artículo 49.
 
-Sobre las propuestas que se presenten a Comisiones Unidas podrá acordarse:
-
-I. Que no pasen al Pleno porque se requieren de más elementos de juicio, en cuyo caso se pedirá a la Comisión ponente, al grupo de Consejeros o Consejero, que presenten nuevamente los proyectos con las indicaciones que se hayan señalado;
-
-II. Que se presenten al Pleno con las adecuaciones que se estimen pertinentes, siempre que los integrantes de la Comisión que los formuló manifiesten, en forma mayoritaria, su conformidad con las mismas; y,
-
-III. Que se presenten al Pleno los asuntos en los términos en que están formulados si no se lograra consenso para incorporar nuevos elementos.
+(DEROGADO POR ACUERDO GENERAL 11/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE MARZO DE 2004).
 
 ###### Artículo 50.
 
-Los proyectos de reglamentos, acuerdos generales o cualquier asunto que en Comisiones Unidas decida elevarse al Pleno y que conste por escrito, requerirán para su análisis, salvo acuerdo del Pleno, de cuando menos seis días hábiles, pudiendo solicitar prórroga cuando exista causa justificada para ello.
+(DEROGADO POR ACUERDO GENERAL 11/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE MARZO DE 2004).
 
 ###### Artículo 51.
 
-Las Comisiones, los Consejeros o los órganos del propio Consejo deberán remitir a la Secretaría Ejecutiva del Pleno y Carrera Judicial, cuarenta y ocho horas antes de la verificación de la sesión de Comisiones Unidas, los asuntos que deseen se traten en ella, amparándolos con la documentación necesaria. En casos urgentes, la documentación relativa podrá presentarse en cualquier momento, siempre y cuando se cuente con el tiempo suficiente para su lectura y análisis.
-
-El Secretario Ejecutivo del Pleno y Carrera Judicial, citará a los Consejeros a la celebración de la sesión de Comisiones Unidas, con veinticuatro horas de anticipación y entregará el proyecto del orden del día conforme al cual se estime deba desarrollarse la sesión.
+(DEROGADO POR ACUERDO GENERAL 11/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE MARZO DE 2004).
 
 ###### Artículo 52.
 
-Las convocatorias a las sesiones de Comisiones Unidas serán formuladas por el Secretario Ejecutivo del Pleno y Carrera Judicial, quien fungirá como secretario de las reuniones, con el objeto de listar para la sesión del Pleno los asuntos.
+(DEROGADO POR ACUERDO GENERAL 11/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE MARZO DE 2004).
 
 ###### Artículo 53.
 
-Las sesiones de Comisiones Unidas se celebrarán uno o dos días antes al señalado para la del Pleno, sin perjuicio de que, en casos de urgencia, alguna Comisión, grupo de Consejeros o Consejero, soliciten al Secretario Ejecutivo del Pleno y Carrera Judicial, expida la convocatoria en cualquier momento.
+(DEROGADO POR ACUERDO GENERAL 11/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE MARZO DE 2004).
 
 ###### Artículo 54.
 
-Para las sesiones de Comisiones Unidas, en primera convocatoria, se requerirá de la asistencia mínima de cinco Consejeros. Cuando en primera convocatoria no se reúna el número de Consejeros antes señalado, la sesión se llevará a cabo con los que asistan en la segunda convocatoria, la cual se entenderá hecha, transcurridos treinta minutos de la hora señalada para la primera.
+(DEROGADO POR ACUERDO GENERAL 11/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE MARZO DE 2004).
 
 ###### Artículo 55.
 
-La presidencia de las sesiones será rotativa, y el turno se establecerá conforme al orden alfabético de los apellidos de los Consejeros.
+(DEROGADO POR ACUERDO GENERAL 11/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE MARZO DE 2004).
 
 ###### Artículo 56.
 
-Comisiones Unidas podrá acordar la celebración de reuniones de trabajo foráneas.
+(DEROGADO POR ACUERDO GENERAL 11/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE MARZO DE 2004).
 
 ###### Artículo 57.
 
-Comisiones Unidas elaborará durante el último mes de cada año, el programa anual de trabajo que deberá contener los objetivos y metas del Consejo, así como su forma y etapas de ejecución.
+(DEROGADO POR ACUERDO GENERAL 11/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE MARZO DE 2004).
 
 Sección 4a.
 
@@ -2413,6 +2415,12 @@ PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
+D.O.F. 21 DE DICIEMBRE DE 2000.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
 D.O.F. 17 DE ENERO DE 2001.
 
 PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
@@ -2450,6 +2458,12 @@ CUARTO.- La Secretaría Ejecutiva de Finanzas deberá actualizar los manuales, c
 QUINTO.- Se abroga el Acuerdo General 21/2000, del Pleno del Consejo de la Judicatura Federal, que modifica en su parte conducente los títulos primero y segundo del Acuerdo General 48/1998, con el objeto de cambiar la denominación de la Dirección General de Auditoría Interna, así como la de Operación y Diagnóstico Administrativo por las de Dirección General de Auditoría Financiera y Dirección General de Auditoría Operacional, respectivamente.
 
 D.O.F. 15 DE ABRIL DE 2003.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 5 DE MARZO DE 2004.
 
 PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 
