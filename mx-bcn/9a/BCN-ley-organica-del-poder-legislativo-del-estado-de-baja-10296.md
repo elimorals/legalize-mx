@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-10296"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-13"
-last_updated: "1995-10-13"
+last_updated: "1996-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1996.
 
 Ley Publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el 13 de septiembre de 1995.
 
@@ -519,15 +519,19 @@ II.- Hacienda y Administración.
 
 La competencia de las Comisiones ordinarias es la que se deriva de su denominación, en correspondencia a las respectivas áreas de la administración pública estatal o municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 1996)</small>
+
 ###### ARTICULO 49.
 
-Corresponde a la Comisión de Legislación y Puntos Constitucionales el conocimiento de los asuntos relacionados estrictamente con las facultades legislativas estatal, municipal y, en su caso, federales. Para tal efecto:
+Corresponde a la Comisión de Legislación y Puntos Constitucionales el conocimiento de los asuntos relacionados estrictamente con las facultades legislativas estatal, municipal y en su caso, federales. Para tal efecto:
 
 I.- Tramitará a las Subcomisiones todos los asuntos remitidos por la Mesa Directiva del Congreso del Estado;
 
 II.- Dictaminará los asuntos que hayan remitidos (sic) las Subcomisiones como proyecto de dictamen, y
 
-III.- Elaborará los estudios relacionados con la Legislación estatal o municipal que señale la Constitución Política del Estado, esta Ley, otras disposiciones legales o por acuerdo del Pleno del Congreso, que hayan remitido las Subcomisiones como proyecto de estudio.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1996)</small>
+
+III.- Elaborará los estudios relacionados con la Legislación Federal, Estatal o Municipal que señale la Constitución Política del Estado, esta Ley, otras disposiciones legales o por acuerdo del Pleno del Congreso, que hayan remitido las subcomisiones como proyecto de estudio.
 
 ###### ARTICULO 50.
 
@@ -543,7 +547,9 @@ Corresponde a la Subcomisión de Legislación Estatal, el conocimiento, estudio 
 
 I.- Reformas o adiciones a la Constitución Política de los Estados Unidos Mexicanos o a la particular del Estado,
 
-II.- Iniciativas, reformas o adiciones de leyes orgánicas u ordinarias estatales,
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1996)</small>
+
+II.- Iniciativas de Ley, de reformas o adiciones de leyes estatales o federales,
 
 III.- Los demás asuntos que le encomiende la Comisión de Legislación y Puntos Constitucionales que requieran la elaboración de proyecto de dictamen o de estudio.
 
@@ -555,15 +561,19 @@ I.- Iniciativas, reformas o adiciones de leyes orgánicas u ordinarias municipal
 
 II.- Los demás asuntos que le encomiende la Comisión de Legislación y Puntos Constitucionales que requieran la elaboración de proyecto de dictamen o de estudio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 1996)</small>
+
 ###### ARTICULO 53.
 
-Corresponde a la Comisión de Hacienda y Administración el conocimiento de asuntos relacionados con los ramos de hacienda y administración pública estatal o municipal, para tal efecto:
+Corresponde a la Comisión de Hacienda y Administración el conocimiento de los asuntos relacionados con los ramos de Hacienda y Administración Pública Federal, Estatal o Municipal, para tal efecto:
 
 I.- Tramitará a las Subcomisiones todos los asuntos remitidos por la Mesa Directiva del Congreso del Estado;
 
 II.- Dictaminará los asuntos que hayan remitido las Subcomisiones como proyecto de dictamen, y
 
-III.- Elaborará los estudios relacionados con la hacienda y administración pública que señale la Constitución Política del Estado, esta Ley, otras disposiciones legales o por acuerdo del Pleno del Congreso, que hayan remitido las subcomisiones como proyecto de estudio.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1995)</small>
+
+III.- Elaborará los estudios relacionados con la Hacienda y Administración Pública Federal, Estatal o Municipal que señale la Constitución Política del Estado, esta Ley, otras disposiciones legales o por acuerdo del Pleno del Congreso, que hayan remitido las subcomisiones como proyecto de estudio.
 
 ###### ARTICULO 54.
 
@@ -1504,3 +1514,9 @@ P.O. 13 DE OCTUBRE DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE ENERO DE 1996.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a los tres días de su publicación en el Periódico Oficial del Estado.
