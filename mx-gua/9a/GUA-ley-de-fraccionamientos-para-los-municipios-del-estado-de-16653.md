@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fraccionamientos-para-los-municipios-del-estado-de-16653
 country: "mx"
 rank: "ley"
 publication_date: "1996-07-05"
-last_updated: "2001-11-02"
+last_updated: "2003-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE FRACCIONAMIENTOS PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2001.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FRACCIONAMIENTOS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. EL 15 DE AGOSTO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 5 de julio de 1996.
 
@@ -843,13 +845,15 @@ LIC. RAMON MARTIN HUERTA.
 
 P.O. 17 DE JULIO DEL 2001.
 
+DECRETO QUE REFORMA EL ARTICULO 26 DE LA LEY.
+
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 17 DE JULIO DEL 2001.
 
-DECRETO QUE REFORMA EL ARTICULO 26 DE LA LEY.
+DECRETO QUE REFORMA EL ARTICULO 8, FRACCION III Y 9 DE LA LEY.
 
 ###### ARTICULO UNICO.
 
@@ -872,3 +876,17 @@ Quedan abrogadas todas las leyes anteriores sobre la materia.
 ###### ARTICULO SEPTIMO.
 
 Quedan vigentes las disposiciones de carácter penal contenidas en otros ordenamiento, en todo lo que no se oponga a este Código.
+
+P.O. 15 DE AGOSTO DE 2003.
+
+Artículo Primero.- La presente Ley entrará en vigor a los 180 ciento ochenta días posteriores al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- A la entrada en vigor de la presente Ley, se abroga la Ley de Fraccionamientos para los Municipios del Estado de Guanajuato, expedida por la Quincuagésima Sexta Legislatura a través del Decreto número 187, publicada en el Periódico Oficial del Gobierno del Estado número 54, segunda parte, de 5 de julio de 1996.
+
+Artículo Tercero.- Las solicitudes de autorización de fraccionamientos o desarrollos en condominio, presentadas con anterioridad a la entrada en vigor de la presente Ley, deberán continuar y concluir su trámite de conformidad, con la Ley que se abroga en este Decreto.
+
+Artículo Cuarto.- Las solicitudes de fraccionamientos y conjuntos habitacionales, así como las aprobaciones de traza de fraccionamientos y conjuntos habitacionales, presentadas antes del 1º de enero de 1997, deberán concluir su trámite ante la Secretaría de Desarrollo Social y Humano.
+
+Artículo Quinto.- Los Ayuntamientos podrán expedir sus reglamentos que contengan las normas técnicas de urbanización, y demás disposiciones derivadas de esta Ley, conforme a las particularidades del Municipio, dentro de los 180 ciento ochenta días siguientes contados a partir de la vigencia de la presente Ley.
+
+Artículo Sexto.- En el caso de fraccionamientos ya existentes que no hayan cumplido con las disposiciones de la Ley, los ayuntamientos podrán autorizar las permutas requeridas a fin de lograr su regularización en los términos de la legislación aplicable.
