@@ -1,0 +1,1005 @@
+---
+title: "LEY DE AVIACION CIVIL"
+identifier: "LAC"
+country: "mx"
+rank: "ley"
+publication_date: "1995-05-12"
+last_updated: "1995-05-12"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2551&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "2551"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "LEY"
+original_gazette_section: "8"
+reform_count: "14"
+scjn_last_update: "2025-11-14"
+issue_date: "1995-05-10"
+abbreviation: "LAC"
+---
+# LEY DE AVIACION CIVIL
+
+LEY DE AVIACION CIVIL
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Diario Oficial de la Federación, el viernes 12 de mayo de 1995.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+
+ERNESTO ZEDILLO PONCE DE LEON, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:
+
+Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente
+
+D E C R E T O
+
+"EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
+
+LEY DE AVIACION CIVIL
+
+### Capítulo I. Disposiciones generales
+
+###### Artículo 1.
+
+La presente Ley es de orden público y tiene por objeto regular la explotación, el uso o aprovechamiento del espacio aéreo situado sobre el territorio nacional, respecto de la prestación y desarrollo de los servicios de transporte aéreo civil y de Estado.
+
+El espacio aéreo situado sobre el territorio nacional es una vía general de comunicación sujeta al dominio de la Nación.
+
+###### Artículo 2.
+
+Para los efectos de esta Ley, se entenderá por:
+
+I. Aeronave: cualquier vehículo capaz de transitar con autonomía en el espacio aéreo con personas, carga o correo;
+
+II. Aeródromo civil: área definida de tierra o de agua adecuada para el despegue, aterrizaje, acuatizaje o movimiento de aeronaves, con instalaciones o servicios mínimos para garantizar la seguridad de su operación;
+
+III. Aeropuerto: aeródromo civil de servicio público, que cuenta con las instalaciones y servicios adecuados para la recepción y despacho de aeronaves;
+
+IV. Aerovía: ruta aérea dotada de radioayudas a la navegación;
+
+V. Certificado de aeronavegabilidad: documento oficial que acredita que la aeronave está en condiciones técnicas satisfactorias para realizar operaciones de vuelo;
+
+VI. Certificado de matrícula: documento que identifica y determina la nacionalidad de la aeronave;
+
+VII. Helipuerto: aeródromo civil para el uso exclusivo de helicópteros;
+
+VIII. Ruta: espacio aéreo establecido por la Secretaría para canalizar el tráfico aéreo;
+
+IX. Secretaría: la Secretaría de Comunicaciones y Transportes;
+
+X. Servicio al público de transporte aéreo: el que se ofrece de manera general y que, en términos de la presente Ley, incluye el servicio público sujeto a concesión, así como otros servicios sujetos a permiso;
+
+XI. Servicio de transporte aéreo regular: el que está sujeto a itinerarios, frecuencias de vuelos y horarios;
+
+XII. Servicio de transporte aéreo nacional: el que se presta entre dos o más puntos dentro del territorio nacional, y
+
+XIII. Tratados: los definidos como tales en la fracción I del artículo 2 de la Ley sobre la Celebración de Tratados.
+
+###### Artículo 3.
+
+La explotación, uso o aprovechamiento del espacio aéreo situado sobre el territorio nacional, es de jurisdicción federal.
+
+Corresponderá a los tribunales federales conocer de las controversias que se susciten con motivo de la aplicación de esta Ley, sin perjuicio de que las controversias que surjan entre particulares se sometan a arbitraje, de conformidad con las disposiciones aplicables.
+
+Los hechos ocurridos y los actos realizados a bordo de una aeronave civil con matrícula mexicana, se sujetarán a las leyes y autoridades mexicanas; y los que ocurran o se realicen a bordo de una aeronave civil extranjera durante el vuelo de la misma sobre territorio nacional, se regirán por las leyes y autoridades del Estado de matrícula de la aeronave, sin perjuicio de lo establecido en los tratados. En el caso de comisión de delitos en aeronaves, se estará a lo dispuesto por el Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+Son aplicables a la navegación aérea civil las disposiciones que, sobre nacimientos y defunciones a bordo de un buque con bandera mexicana, establece el Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal.
+
+###### Artículo 4.
+
+La navegación civil en el espacio aéreo sobre territorio nacional se rige por lo previsto en esta Ley, por los tratados y, a falta de disposición expresa, se aplicará:
+
+I. La Ley de Vías Generales de Comunicación;
+
+II. La Ley General de Bienes Nacionales;
+
+III. La Ley Federal de Procedimiento Administrativo, y
+
+IV. Los códigos de Comercio; Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal; y Federal de Procedimientos Civiles.
+
+###### Artículo 5.
+
+Las aeronaves mexicanas se clasifican en:
+
+I. Civiles, que podrán ser:
+
+a) De servicio al público: las empleadas para la prestación al público de un servicio de transporte aéreo regular o no regular, nacional o internacional, y
+
+b) Privadas: las utilizadas para usos comerciales diferentes al servicio al público o para el transporte particular sin fines de lucro, y
+
+II. De Estado, que podrán ser:
+
+a) Las de propiedad o uso de la Federación distintas de las militares; las de los gobiernos estatales y municipales, y las de las entidades paraestatales, y
+
+b) Las militares, que son las destinadas o en posesión del Ejército, Armada y Fuerza Aérea Nacionales.
+
+### Capítulo II. De la autoridad aeronáutica
+
+###### Artículo 6.
+
+La Secretaría tendrá las siguientes atribuciones en materia de aviación civil, sin perjuicio de las otorgadas a otras dependencias de la administración pública federal:
+
+I. Planear, formular y conducir las políticas y programas para la regulación y el desarrollo de los servicios de transporte aéreo;
+
+II. Otorgar concesiones y permisos, verificar su cumplimiento y resolver, en su caso, su modificación o terminación;
+
+III. Expedir las normas oficiales mexicanas y demás disposiciones administrativas;
+
+IV. Prestar y controlar los servicios a la navegación aérea y establecer las condiciones de operación a que deben sujetarse;
+
+V. Expedir y aplicar las medidas y normas de seguridad e higiene que deben observarse en los servicios de transporte aéreo, así como verificar su cumplimiento;
+
+VI. Expedir certificados de matrícula y de aeronavegabilidad, así como llevar el Registro Aeronáutico Mexicano;
+
+VII. Establecer y verificar el sistema de aerovías dentro del espacio aéreo nacional;
+
+VIII. Participar en los organismos internacionales y en las negociaciones de tratados;
+
+IX. Promover la formación, capacitación y adiestramiento del personal técnico aeronáutico;
+
+X. Expedir y, en su caso, revalidar o cancelar las licencias del personal técnico aeronáutico;
+
+XI. Interpretar la presente Ley y sus reglamentos para efectos administrativos, y
+
+XII. Las demás que señalen esta Ley y demás ordenamientos aplicables.
+
+###### Artículo 7.
+
+La Secretaría ejercerá la autoridad aeronáutica en los aeropuertos, helipuertos y aeródromos en general, a través del comandante de aeropuerto quien tendrá las atribuciones que a continuación se mencionan, las cuales ejercerá en las demarcaciones geográficas que expresamente le sean determinadas por la propia Secretaría:
+
+I. Autorizar o suspender la operación de las aeronaves, conforme a lo dispuesto por esta Ley;
+
+II. Verificar que los servicios de control de tránsito aéreo, de radioayudas a la navegación y de ayudas visuales se ajusten a las disposiciones aplicables;
+
+III. Verificar la vigencia de las licencias y capacidades del personal técnico aeronáutico, de los certificados de matrícula y de aeronavegabilidad de las aeronaves;
+
+IV. Verificar el cumplimiento de las condiciones de seguridad e higiene en los servicios de transporte aéreo;
+
+V. Disponer el cierre parcial o total de aeropuertos, helipuertos o aeródromos en general, cuando no reúnan las condiciones de seguridad para las operaciones aéreas;
+
+VI. Prohibir a cualquier piloto o miembro de la tripulación la realización de operaciones, cuando no cumplan con las disposiciones aplicables;
+
+VII. Levantar actas administrativas por violaciones a lo previsto en esta Ley, sus reglamentos y normas oficiales mexicanas; actuar como auxiliar del ministerio público; cumplimentar las resoluciones judiciales; y coordinar sus actividades con las demás autoridades que ejerzan funciones en los aeropuertos, y
+
+VIII. Las demás que señalen esta Ley y demás ordenamientos aplicables.
+
+Para estos efectos, el comandante dispondrá del apoyo de un cuerpo de verificadores aeronáuticos subordinados a él.
+
+###### Artículo 8.
+
+En los aeropuertos deberá integrarse un comité de horarios que determinará, de manera coordinada, la asignación a los distintos concesionarios o permisionarios de los horarios de aterrizaje y despegue de aeronaves, sobre bases equitativas y no discriminatorias, de conformidad con las frecuencias de vuelo previstas para la operación de las rutas.
+
+Dicho comité será presidido por el comandante de aeropuerto, con la participación de la administrtación del aeropuerto y de los concesionarios o permisionarios interesados. Su funcionamiento se determinará en el reglamento respectivo.
+
+### Capítulo III. De las concesiones y de los permisos
+
+#### Sección Primera. De las concesiones
+
+###### Artículo 9.
+
+Se requiere de concesión que otorgue la Secretaría para prestar el servicio público de transporte aéreo nacional regular. Tal concesión sólo se otorgará a personas morales mexicanas.
+
+Los interesados en la obtención de concesiones deberán acreditar:
+
+I. La capacidad técnica, financiera, jurídica y administrativa para prestar el servicio en condiciones de calidad, seguridad, oportunidad, permanencia y precio;
+
+II. La disponibilidad de aeronaves y demás equipo aéreo que cumplan con los requisitos técnicos de seguridad, las condiciones de aeronavegabilidad requeridas y las disposiciones en materia ambiental, y
+
+III. La disponibilidad de hangares, talleres, de la infraestructura necesaria para sus operaciones, así como del personal técnico aeronáutico y administrativo capacitado para el ejercicio de la concesión solicitada.
+
+Los concesionarios a que se refiere este artículo podrán prestar el servicio de transporte aéreo regular internacional siempre que cuenten con la autorización de las rutas correspondientes por parte de la Secretaría.
+
+###### Artículo 10.
+
+Las concesiones se otorgarán hasta por un plazo de treinta años y podrán ser prorrogadas en una o varias ocasiones, siempre que cada una de dichas prórrogas no exceda el plazo a que se refiere este artículo, y el concesionario:
+
+I. Hubiere cumplido con las obligaciones señaladas en la concesión que se pretenda prorrogar;
+
+II. Lo solicite a más tardar un año antes de su conclusión;
+
+III. Hubiere realizado un mejoramiento en la calidad de los servicios prestados durante la vigencia de la concesión, de acuerdo con las verificaciones sistemáticas practicadas conforme a los indicadores de eficiencia y seguridad que se determinen en los reglamentos respectivos y demás disposiciones aplicables, y
+
+IV. Acepte las nuevas condiciones que establezca la Secretaría, con base en esta Ley.
+
+#### Sección Segunda. De los permisos
+
+#### Sección Tercera. Disposiciones comunes
+
+###### Artículo 11.
+
+Los servicios de transporte aéreo sujetos a permiso serán:
+
+I. Nacional no regular;
+
+II. Internacional regular;
+
+III. Internacional no regular, y
+
+IV. Privado comercial.
+
+Los permisos se otorgarán: a personas morales mexicanas en el caso de la fracción I; a sociedades extranjeras en el supuesto de la fracción II; a personas morales mexicanas o sociedades extranjeras en el caso de la fracción III; y a personas físicas o morales mexicanas o extranjeras en el de la fracción IV.
+
+Para la prestación del servicio de transporte aéreo internacional regular por personas morales mexicanas, se estará a lo dispuesto en el artículo 9 de esta Ley.
+
+Asimismo, requerirá de permiso el establecimiento de talleres aeronáuticos y centros de capacitación y adiestramiento, que podrá otorgarse a personas físicas o morales mexicanas o extranjeras.
+
+Los permisos se otorgarán por plazo indefinido.
+
+En el reglamento correspondiente se precisarán los requisitos para la obtención de los permisos a que se refiere este artículo.
+
+#### Sección Primera. Generalidades
+
+###### Artículo 12.
+
+Las concesiones y los permisos se otorgarán a las personas que cumplan con los requisitos establecidos en esta Ley y sus reglamentos.
+
+La resolución correspondiente deberá emitirse en un plazo que no exceda de noventa días naturales, contados a partir de aquél en que se hubiere presentado la solicitud debidamente integrada.
+
+La participación de la inversión extranjera en el capital de las personas morales mexicanas, se sujetará a lo dispuesto por la ley de la materia.
+
+###### Artículo 13.
+
+El título de concesión o el permiso deberá incluir, cuando menos, lo siguiente:
+
+I. El nombre y domicilio del concesionario o permisionario;
+
+II. El objeto de la concesión o el permiso;
+
+III. En su caso, las rutas o vuelos autorizados;
+
+IV. Los programas de desarrollo y, en su caso, los programas de mantenimiento del servicio;
+
+V. Los derechos y obligaciones de los concesionarios o permisionarios, y
+
+VI. El período de vigencia.
+
+###### Artículo 14.
+
+Las concesiones o los permisos terminan por:
+
+I. Vencimiento del plazo establecido en la concesión o de la prórroga que, en su caso, se hubiere otorgado;
+
+II. Renuncia del titular;
+
+III. Revocación;
+
+IV. Desaparición del objeto de la concesión o el permiso, y
+
+V. Liquidación o quiebra del titular.
+
+La terminación de la concesión o del permiso no extingue las obligaciones contraídas por el titular durante su vigencia.
+
+###### Artículo 15.
+
+Las concesiones o los permisos se podrán revocar por:
+
+I. No ejercer los derechos conferidos durante un período mayor de ciento ochenta días naturales, contado a partir de la fecha de su otorgamiento;
+
+II. No mantener vigentes los seguros a que se refiere esta Ley;
+
+III. El cambio de nacionalidad del concesionario o permisionario;
+
+IV. Ceder, hipotecar, gravar, transferir o enajenar las concesiones, los permisos, o los derechos en ellos conferidos, a algún gobierno o Estado extranjero;
+
+V. Ceder, hipotecar, gravar, transferir o enajenar las concesiones, los permisos, o los derechos en ellos conferidos a otros particulares, nacionales o extranjeros sin autorización de la Secretaría;
+
+VI. Aplicar tarifas diferentes a las registradas, o en su caso, aprobadas;
+
+VII. Alterar o falsificar documentos oficiales relacionados con esta Ley;
+
+VIII. Suspender, en forma total, la prestación de los servicios sin autorización de la Secretaría, salvo en caso fortuito o de fuerza mayor;
+
+IX. Prestar servicios distintos a los señalados en la concesión o permiso respectivo;
+
+X. Infringir las condiciones de seguridad en materia de aeronavegabilidad;
+
+XI. Incumplir con las obligaciones de pago de las indemnizaciones por daños que se originen en la prestación de los servicios;
+
+XII. Ejecutar u omitir actos que impidan la prestación de los servicios concesionados o permisionados entre quienes tengan derecho a ello, y
+
+XIII. En general, incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, en sus reglamentos y en el título de concesión o permiso respectivos, siempre que por el incumplimiento se haya impuesto una sanción y ésta haya quedado firme en términos de ley.
+
+La Secretaría revocará las concesiones o permisos de manera inmediata únicamente en los supuestos de las fracciones I a V y VII anteriores.
+
+En los casos de las fracciones VIII a XI, la Secretaría sólo revocará la concesión o permiso cuando previamente hubiese sancionado al respectivo concesionario o permisionario, por lo menos en tres ocasiones por las causas previstas en la misma fracción. Para los supuestos de las fracciones VI, XII y XIII, se requerirá que la sanción se haya impuesto por lo menos en cinco ocasiones por las causas previstas en la misma fracción.
+
+El titular de una concesión o permiso que hubiere sido revocado no podrá obtener, directa o indirectamente, otra concesión o permiso de los contemplados en la presente Ley dentro de un plazo de cinco años, contado a partir de la fecha en que hubiere quedado firme la resolución respectiva.
+
+###### Artículo 16.
+
+La Secretaría autorizará la cesión total o parcial de los derechos y obligaciones establecidos en las concesiones o permisos, dentro de un plazo de noventa días naturales contado a partir de la presentación de la solicitud, siempre que el cesionario se comprometa a realizar las obligaciones que se encuentren pendientes, y asuma las condiciones que, al efecto, establezca la Secretaría.
+
+Los concesionarios o permisionarios en ningún caso podrán ceder, ni en forma alguna gravar, transferir o enajenar la concesión o el permiso o los derechos en ellos conferidos, a ningún gobierno o Estado extranjero.
+
+### Capítulo IV. Del servicio de transporte aéreo
+
+#### Sección Segunda. Del servicio al público de transporte aéreo
+
+###### Artículo 17.
+
+En la prestación de los servicios de transporte aéreo se deberán adoptar las medidas necesarias para garantizar las condiciones máximas de seguridad de la aeronave y de su operación, a fin de proteger la integridad física de los usuarios y de sus bienes, así como la de terceros.
+
+Los servicios deberán prestarse de manera permanente y uniforme, en condiciones equitativas y no discriminatorias en cuanto a calidad, oportunidad y precio.
+
+#### Sección Tercera. Del servicio de transporte aéreo privado comercial
+
+###### Artículo 18.
+
+El servicio al público de transporte aéreo podrá ser: nacional o internacional; regular o no regular, y de pasajeros, carga o correo.
+
+El transporte aéreo entre dos o más puntos en territorio nacional, se realizará exclusivamente por personas morales mexicanas.
+
+###### Artículo 19.
+
+La prestación del servicio de transporte aéreo nacional regular estará sujeto a lo siguiente:
+
+I. Las concesiones contendrán las rutas específicas con las que se iniciará la prestación del servicio y las condiciones del mismo;
+
+II. Para operar rutas adicionales a las contenidas en la concesión, deberá solicitarse a la Secretaría la autorización correspondiente, misma que formará parte de la propia concesión, y
+
+III. La ruta adicional únicamente podrá comercializarse hasta que haya sido autorizada, y deberá iniciarse la operación de la ruta correspondiente en un plazo máximo de noventa días, contado a partir de la fecha en que se haya expedido la autorización. De no operarse la ruta en dicho plazo, ésta quedará cancelada sin necesidad de declaratoria al respecto por parte de la Secretaría.
+
+###### Artículo 20.
+
+La prestación de servicios de transporte aéreo internacional regular por personas morales mexicanas estará sujeta a lo siguiente:
+
+I. Para la operación de las rutas correspondientes se requerirá de autorización que otorgue la Secretaría;
+
+II. Las autorizaciones respectivas únicamente se otorgarán a las personas que cuenten con concesión para prestar el servicio de transporte aéreo regular nacional;
+
+III. Las autorizaciones se ajustarán a lo convenido con el Estado hacia el cual se opere la ruta;
+
+IV. Las autorizaciones se referirán a rutas específicas;
+
+V. Las rutas específicas únicamente podrán comercializarse hasta que hayan sido autorizadas, y deberá iniciarse la operación de la ruta correspondiente en un plazo máximo de ciento ochenta días, contado a partir de la fecha en que se haya expedido la autorización. De no operarse la ruta en dicho plazo, ésta quedará cancelada sin necesidad de declaratoria al respecto por parte de la Secretaría, y
+
+VI. En los casos en que más de un concesionario solicite la operación de una misma ruta asignable por la Secretaría, ésta otorgará la autorización correspondiente a aquél que ofrezca las mejores condiciones para la prestación del servicio.
+
+Para determinar la oportunidad y conveniencia de iniciar las negociaciones de los tratados a que alude este artículo, la Secretaría tomará en cuenta condiciones de reciprocidad, así como los criterios a que se refiere el artículo 25 siguiente.
+
+###### Artículo 21.
+
+Las sociedades extranjeras requerirán de permiso de la Secretaría para prestar el servicio de transporte aéreo internacional regular hacia y desde territorio mexicano. Al efecto, la Secretaría otorgará tales permisos conforme a los tratados celebrados con los Estados respectivos.
+
+###### Artículo 22.
+
+Los concesionarios o permisionarios que cuenten con autorización para explotar rutas aéreas en términos de esta Ley, deberán informar a la Secretaría de aquellas rutas que dejarán de operar, con un mínimo de treinta días de anticipación a que ello ocurra, o de noventa días, si son las únicas prestadoras del servicio.
+
+###### Artículo 23.
+
+Los servicios de transporte aéreo nacional no regular incluyen, entre otros, los de fletamento y de taxis aéreos.
+
+En el caso de los servicios de fletamento, los permisionarios deberán observar lo siguiente:
+
+I. Los vuelos o paquetes de vuelos que deseen operar estarán sujetos a autorización previa de la Secretaría;
+
+II. Los servicios que presten en ningún caso podrán traducirse o de hecho ser equivalentes a los del transporte aéreo regular;
+
+III. Los servicios serán complementarios a los del transporte aéreo regular, y
+
+IV. En los contratos de fletamento de aeronaves que celebren con prestadores de servicios turísticos, deberá pactarse que los servicios de transporte aéreo se comercializarán, en todo caso, como parte de otros servicios en paquete; y conforme con lo que establezca el reglamento respectivo.
+
+La prestación de los servicios de taxi aéreo se sujetarán a las condiciones que se especifiquen en los permisos que, para tal efecto, se otorguen por la Secretaría con base en esta Ley, considerando criterios que atiendan, entre otros elementos, a las especificaciones de los equipos aéreos, las características de las operaciones y la forma de comercialización de los servicios.
+
+###### Artículo 24.
+
+La prestación de servicios de transporte aéreo no regular internacional por parte de permisionarios mexicanos o por sociedades extranjeras, se sujetará a lo establecido en los tratados; a falta de éstos, la Secretaría resolverá en lo particular cada solicitud.
+
+###### Artículo 25.
+
+La Secretaría, al resolver las solicitudes a que se refieren los artículos 19 a 21 y 24 anteriores, tomará en cuenta, según sea el caso, criterios que fomenten la competencia efectiva, la permanencia, calidad y eficiencia del servicio, así como el desarrollo de los servicios de transporte aéreo.
+
+###### Artículo 26.
+
+Los concesionarios o permisionarios mexicanos deberán enviar a la Secretaría, para su conocimiento, los acuerdos comerciales y de cooperación que celebren entre sí o con aerolíneas extranjeras, dentro de un plazo de treinta días contado a partir de la celebración de los mismos.
+
+#### Sección Cuarta. Del transporte aéreo privado no comercial
+
+###### Artículo 27.
+
+Se considera transporte aéreo privado comercial aquél que se destina al servicio de una o más personas físicas o morales, distintas del propietario o poseedor de la misma aeronave, con fines de lucro.
+
+Dentro del transporte aéreo privado comercial se encuentran los servicios aéreos especializados que, a su vez, comprenden los de aerofotografía, aerotopografía, publicidad comercial, fumigación aérea, provocación artificial de lluvias y capacitación y adiestramiento, entre otros.
+
+En el caso de aeronaves extranjeras que presten servicios de transporte aéreo privado comercial, se estará a lo dispuesto en los tratados y en las leyes aplicables.
+
+#### Sección Quinta. De las aeronaves de Estado
+
+###### Artículo 28.
+
+Se considera transporte aéreo privado no comercial aquél que se destina a uso particular sin fines de lucro.
+
+La operación de las aeronaves de transporte aéreo privado no comercial no requerirá de permiso; pero deberá contar con los certificados de matrícula y de aeronavegabilidad, y con póliza de seguro.
+
+Las personas que operen las aeronaves a que se refiere este artículo, en ningún caso podrán prestar servicios comerciales a terceros.
+
+###### Artículo 29.
+
+Las aeronaves extranjeras de servicio privado no comercial, podrán sobrevolar el espacio aéreo nacional y aterrizar y despegar en territorio mexicano, siempre que obtengan, en cada caso, autorización de la Secretaría. El primer aterrizaje deberán hacerlo en un aeropuerto internacional.
+
+Los propietarios o la tripulación de aeronaves extranjeras de servicio privado no comercial, deberán acreditar a la Secretaría, cuando ésta se los solicite, que aquélla y la aeronave cumplen con los requisitos técnicos sobre aeronavegabilidad y licencias establecidos en el Estado de su matrícula.
+
+###### Artículo 30.
+
+Los aerostatos, aeronaves ultraligeras u otras análogas, con o sin motor, que no presten servicio al público, requerirán registrarse ante la Secretaría, y sujetarse a lo establecido en las disposiciones generales y normas oficiales mexicanas respectivas.
+
+Los clubes aéreos y de aeromodelismo quedarán sujetos a los reglamentos derivados de esta Ley y a las normas oficiales mexicanas que, en su caso, expida la Secretaría.
+
+#### Sección Primera. Disposiciones comunes
+
+###### Artículo 31.
+
+La operación de las aeronaves de Estado no requerirá permiso; se ajustará a la obtención de los certificados de matrícula y de aeronavegabilidad correspondientes, y deberá contar con póliza de seguro.
+
+Las aeronaves militares se regirán para su operación por las disposiciones aplicables en específico a las mismas, sin perjuicio de lo dispuesto por el artículo 37 de esta Ley.
+
+### Capítulo V. De las operaciones
+
+###### Artículo 32.
+
+Toda aeronave, para realizar vuelos, deberá contar con póliza de seguro y certificados de matrícula y de aeronavegabilidad vigentes.
+
+La obtención del certificado de aeronavegabilidad se sujetará a las pruebas, al control técnico y a los requisitos de mantenimiento que establezcan los reglamentos.
+
+En todos los casos, las aeronaves tendrán que llevar a bordo los documentos y equipo que señalen los tratados, esta Ley y demás disposiciones aplicables.
+
+###### Artículo 33.
+
+En las aeronaves civiles no podrán abordar personas armadas, en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o enervantes; y sólo con las autorizaciones correspondientes podrán transportarse cadáveres o personas que, por la naturaleza de su enfermedad, presenten riesgo para los demás pasajeros.
+
+Los menores de edad podrán viajar solos, bajo responsiva de sus padres o tutores.
+
+Los concesionarios y permisionarios deberán adoptar las medidas necesarias que permitan atender de manera adecuada a las personas con discapacidad, así como a las de edad avanzada.
+
+###### Artículo 34.
+
+La Secretaría regulará el transporte aéreo de materiales, sustancias y objetos peligrosos, así como de armas, municiones y explosivos, sin perjuicio de las atribuciones conferidas a otras dependencias de la administración pública federal y de lo dispuesto por los tratados.
+
+### Capítulo VI. Del tránsito aéreo
+
+###### Artículo 35.
+
+Para la navegación en el espacio aéreo será obligatorio utilizar los servicios de tránsito aéreo, radioayudas, meteorología, telecomunicaciones e información aeronáuticas, así como de despacho e información de vuelos, que preste la Secretaría o, en su caso, las personas facultadas por ésta.
+
+Asimismo, será obligatorio hacer uso del sistema de aerovías establecido por la Secretaría en el espacio aéreo controlado.
+
+###### Artículo 36.
+
+El Ejecutivo Federal, por razones de emergencia, seguridad pública o defensa nacional, podrá establecer zonas prohibidas, restringidas o peligrosas a la navegación aérea civil.
+
+Queda prohibido a las aeronaves civiles realizar vuelos acrobáticos, de demostración y, en general, evoluciones de carácter peligroso sobre las ciudades y núcleos de población.
+
+La Secretaría podrá autorizar la realización de festivales aéreos, para lo cual señalará las áreas en donde éstos se llevarán a cabo.
+
+###### Artículo 37.
+
+Las operaciones de aeronaves militares en cualquier parte del espacio aéreo situado sobre el territorio nacional, a excepción de las áreas restringidas para su operación exclusiva, se sujetarán a las disposiciones de tránsito aéreo de esta Ley. En el caso de infracciones, se informará a las Secretarías de la Defensa y de Marina, según corresponda, para los efectos que procedan.
+
+Por razones de seguridad nacional o de orden público, la Secretaría ejercerá sus atribuciones relativas a la navegación en el espacio aéreo en coordinación con las autoridades civiles o militares que correspondan
+
+### Capítulo VII. Del personal técnico aeronáutico
+
+#### Sección Segunda. Del comandante de la aeronave
+
+###### Artículo 38.
+
+El personal técnico aeronáutico está constituido por el personal de vuelo que interviene directamente en la operación de la aeronave y por el personal de tierra, cuyas funciones se especifiquen en el reglamento correspondiente. Dicho personal deberá contar con las licencias respectivas, previa comprobación de los requisitos de capacidad, aptitud física, exámenes, experiencia y pericia, entre otros.
+
+###### Artículo 39.
+
+Los concesionarios o permisionarios tendrán la obligación, de conformidad con la ley de la materia, de proporcionar al personal a que se refiere el artículo anterior, la capacitación y el adiestramiento que se requiera para que la prestación de los servicios sea eficiente y segura.
+
+Los instructores que impartan la capacitación y el adiestramiento deberán contar con registro ante la Secretaría.
+
+La Secretaría, sin perjuicio de las atribuciones que correspondan a la Secretaría del Trabajo y Previsión Social, en coordinación con otras autoridades federales competentes, determinará los lineamientos generales aplicables para la definición de aquellos conocimientos, habilidades y destrezas que requieran de certificación, según sea necesario para garantizar la seguridad en la prestación de los servicios. Dicha certificación se sujetará al régimen que las autoridades señaladas establezcan. En la determinación de los lineamientos generales antes citados, las autoridades competentes establecerán procedimientos que permitan considerar las propuestas y operaciones de los concesionarios y permisionarios.
+
+#### Sección Primera. De los contratos de transporte aéreo
+
+###### Artículo 40.
+
+Toda aeronave deberá contar con un comandante o piloto al mando, quien será la máxima autoridad a bordo y el responsable de su operación y dirección y de mantener el orden y la seguridad de la aeronave, de los tripulantes, pasajeros, equipaje, carga y correo. El comandante de las aeronaves de servicio al público deberá ser mexicano por nacimiento.
+
+El comandante de la aeronave será designado por el concesionario o permisionario y, en el caso del servicio de transporte aéreo privado no comercial, por el propietario o poseedor de la aeronave; para suplir la ausencia o incapacidad del comandante de la aeronave durante el vuelo, se seguirá el orden jerárquico de designación de la tripulación hecha por aquéllos.
+
+En casos de emergencia o por razones de seguridad, el comandante o el piloto que lo sustituya, actuará en nombre de quien lo designó y tomará las decisiones pertinentes.
+
+Toda persona a bordo está obligada a acatar las instrucciones del comandante para la seguridad y operación de la aeronave.
+
+El comandante registrará en el libro de bitácora los hechos que puedan tener consecuencias legales, ocurridos durante el vuelo, y los pondrá en conocimiento de las autoridades competentes del primer lugar de aterrizaje en el territorio nacional, o de las autoridades competentes y del cónsul mexicano, si el aterrizaje se realiza en el extranjero.
+
+###### Artículo 41.
+
+La responsabilidad del comandante comprende desde el momento en que se hace cargo de la aeronave para iniciar el vuelo hasta su entrega a la autoridad competente o al representante del concesionario o permisionario y, en el caso del servicio de transporte aéreo privado no comercial, al propietario o poseedor de la aeronave, quienes serán solidariamente responsables con el comandante o piloto, por cualquier orden dictada en contravención a lo dispuesto por esta Ley.
+
+### Capítulo VIII. De las tarifas
+
+###### Artículo 42.
+
+Los concesionarios o permisionarios fijarán libremente las tarifas por los servicios que presten, en términos que permitan la prestación de los servicios en condiciones satisfactorias de calidad, competitividad, seguridad y permanencia.
+
+Las tarifas internacionales se aprobarán por la Secretaría de conformidad con lo que, en su caso, se establezca en los tratados.
+
+Las tarifas deberán registrarse ante la Secretaría para su puesta en vigor y estarán permanentemente a disposición de los usuarios.
+
+En las tarifas se describirán clara y explícitamente las restricciones a que estén sujetas y permanecerán vigentes por el tiempo y en las condiciones ofrecidas. Las restricciones deberán hacerse del conocimiento del usuario al momento de la contratación del servicio.
+
+###### Artículo 43.
+
+Cuando la Secretaría, por sí o a petición de la parte afectada, considere que no existe competencia efectiva entre los diferentes concesionarios o permisionarios, solicitará la opinión de la Comisión Federal de Competencia para que, en su caso, la Secretaría establezca bases de regulación tarifaria. Dicha regulación se mantendrá sólo mientras subsistan las condiciones que la motivaron.
+
+En la regulación, la Secretaría podrá establecer tarifas específicas para la prestación de los servicios, así como mecanismos de ajuste y periodos de vigencia.
+
+Los concesionarios y permisionarios sujetos a tal regulación podrán solicitar a la Comisión Federal de Competencia que emita opinión sobre la aplicación y subsistencia de tales condiciones.
+
+### Capítulo IX. De la matrícula de las aeronaves
+
+###### Artículo 44.
+
+Toda aeronave civil deberá llevar marcas distintivas de su nacionalidad y matrícula. Las aeronaves mexicanas deberán ostentar además, la bandera nacional.
+
+Las marcas de nacionalidad para las aeronaves civiles mexicanas serán las siglas siguientes: XA, para las de servicio al público de transporte aéreo; XB, para las de servicios privados, y XC, para las aeronaves de Estado, distintas de las militares.
+
+Las aeronaves civiles tienen la nacionalidad del Estado en que estén matriculadas.
+
+###### Artículo 45.
+
+Podrán matricularse en los Estados Unidos Mexicanos las aeronaves propiedad o legítima posesión de mexicanos, así como las de extranjeros dedicadas exclusivamente al transporte aéreo privado no comercial.
+
+La nacionalidad mexicana de la aeronave se adquiere con el certificado de matrícula de la aeronave, el que se otorgará una vez inscrita la documentación a que se refiere la fracción I del artículo 47 de esta Ley, en el Registro Aeronáutico Mexicano.
+
+Las aeronaves matriculadas en otro Estado podrán adquirir matrícula mexicana, previa cancelación de la extranjera.
+
+En casos excepcionales, las aeronaves con matrícula extranjera arrendadas por los concesionarios o permisionarios, podrán ser operadas temporalmente, previa autorización de la Secretaría, con sujeción al reglamento respectivo.
+
+###### Artículo 46.
+
+La cancelación de la matrícula de una aeronave en el Registro Aeronáutico Mexicano tendrá por consecuencia la pérdida de su nacionalidad mexicana y podrá realizarse en los siguientes casos:
+
+I. A solicitud escrita del propietario o legítimo poseedor de la aeronave. No podrá cancelarse el registro de matrícula de una aeronave sujeta a gravamen, sin el consentimiento del acreedor;
+
+II. Por mandamiento judicial o de otra autoridad competente;
+
+III. En caso de destrucción, pérdida o abandono de la aeronave;
+
+IV. Por vencimiento del plazo, tratándose de matrículas provisionales;
+
+V. Por matricularse en otro Estado, y
+
+VI. Por cualquiera otra causa que señalen los reglamentos respectivos.
+
+### Capítulo X. Del Registro Aeronáutico Mexicano
+
+###### Artículo 47.
+
+El Registro Aeronáutico Mexicano es público, estará a cargo de la Secretaría, y en él deberán inscribirse:
+
+I. Los documentos por los cuales se adquiera, transmita, modifique, grave o extinga la propiedad, la posesión y los demás derechos reales sobre las aeronaves civiles mexicanas y sus motores; así como el arrendamiento de aeronaves mexicanas o extranjeras;
+
+II. Los certificados de matrícula y de aeronavegabilidad;
+
+III. La resolución de la autoridad aeronáutica en caso de abandono, pérdida, destrucción, inutilidad o desarme definitivo de las aeronaves;
+
+IV. Las concesiones y permisos que amparen el servicio de transporte aéreo, así como los actos y resoluciones legales que los modifiquen o terminen, y
+
+V. Las pólizas de seguro.
+
+El reglamento respectivo determinará los requisitos a que deberán sujetarse las inscripciones, las cancelaciones y las certificaciones que deban expedirse.
+
+### Capítulo XI. De los contratos
+
+### Capítulo XII. De la responsabilidad por daños
+
+#### Sección Segunda. Del contrato de fletamento de aeronaves
+
+###### Artículo 48.
+
+Los contratos de servicio de transporte aéreo podrán referirse a pasajeros, carga o correo.
+
+###### Artículo 49.
+
+El contrato de transporte de pasajeros es el acuerdo entre un concesionario o permisionario y un pasajero, por el cual el primero se obliga a trasladar al segundo, de un punto de origen a uno de destino, contra el pago de un precio.
+
+El contrato deberá constar en un billete de pasaje o boleto, cuyo formato se sujetará a lo especificado en la norma oficial mexicana correspondiente.
+
+###### Artículo 50.
+
+En servicios de transporte aéreo nacional, los pasajeros tendrán derecho al transporte de su equipaje dentro de los límites de peso, volumen o número de piezas establecidos en el reglamento y disposiciones correspondientes, y al efecto se expedirá un talón de equipaje. En vuelos internacionales, dichos límites serán los fijados de conformidad con los tratados.
+
+###### Artículo 51.
+
+Para los servicios de transporte aéreo internacional, el contrato de transporte aéreo de pasajeros se sujetará a lo dispuesto en los tratados y a esta Ley.
+
+Para este tipo de servicios, el concesionario o permisionario deberá exigir a los pasajeros la presentación de los documentos oficiales que acrediten su legal internación al país de destino del vuelo respectivo.
+
+###### Artículo 52.
+
+Cuando se hayan expedido boletos en exceso a la capacidad disponible de la aeronave o se cancele el vuelo por causas imputables al concesionario o permisionario, que tengan por consecuencia la denegación del embarque, el propio concesionario o permisionario, a elección del pasajero, deberá:
+
+I. Reintegrarle el precio del boleto o billete de pasaje o la proporción que corresponda a la parte no realizada del viaje;
+
+II. Ofrecerle, con todos los medios a su alcance, transporte sustituto en el primer vuelo disponible y proporcionarle, como mínimo y sin cargo, los servicios de comunicación telefónica o cablegráfica al punto de destino; alimentos de conformidad con el tiempo de espera que medie hasta el embarque en otro vuelo; alojamiento en hotel del aeropuerto o de la ciudad cuando se requiera pernocta (sic) y, en este último caso, transporte terrestre desde y hacia el aeropuerto, o
+
+III. Transportarle en la fecha posterior que convenga al mismo pasajero hacia el destino respecto del cual se denegó el embarque.
+
+En los casos de las fracciones I y III anteriores, el concesionario o permisionario deberá cubrir, además, una indemnización al pasajero afectado que no será inferior al veinticinco por ciento del precio del boleto o billete de pasaje o de la parte no realizada del viaje.
+
+###### Artículo 53.
+
+Los pasajeros no tendrán los derechos a que se refiere el artículo anterior cuando el transporte lo hagan a título gratuito, con tarifas reducidas que no estén disponibles al público, o cuando no se presenten o lo hicieren fuera del tiempo fijado para documentar el embarque.
+
+###### Artículo 54.
+
+En vuelos de conexión, el concesionario o permisionario será responsable, en su caso, de los daños causados a pasajeros y equipaje facturado en tránsito o por retraso en el servicio de transporte aéreo, si la conexión forma parte del contrato celebrado entre el concesionario o el permisionario y el pasajero.
+
+###### Artículo 55.
+
+Se entiende por contrato de transporte de carga el acuerdo entre el concesionario o permisionario y el embarcador, por virtud del cual, el primero se obliga frente al segundo, a trasladar sus mercancías de un punto de origen a otro de destino y entregarlas a su consignatario, contra el pago de un precio.
+
+Este contrato deberá constar en una carta de porte o guía de carga aérea, que el concesionario o permisionario expedirá al embarcador al recibir las mercancías bajo su custodia, cuyo formato se sujetará a lo especificado en la norma oficial mexicana respectiva.
+
+El embarcador será responsable de la exactitud de las declaraciones consignadas por él o sus representantes en la carta de porte o guía de carga aérea.
+
+Para los servicios de transporte aéreo internacional, el contrato de transporte de carga se sujetará a lo dispuesto en los tratados y en esta Ley.
+
+###### Artículo 56.
+
+El porteador tendrá derecho de retener la carga hasta en tanto se cubre el precio indicado por el transporte en la carta de porte o guía de carga aérea.
+
+###### Artículo 57.
+
+Se entiende por contrato de transporte de correos, el acuerdo entre el concesionario o permisionario y el organismo público descentralizado que preste el servicio público de correo, por virtud del cual, el primero se obliga frente al segundo, a trasladar correspondencia de un punto de origen a otro de destino, contra el pago de un precio.
+
+Con sujeción a la presente Ley, las partes celebrarán el contrato de transporte de correos con las modalidades que convenga a la prestación eficiente del servicio.
+
+###### Artículo 58.
+
+Los concesionarios o permisionarios serán responsables ante los pasajeros, embarcadores o el organismo descentralizado a que se refiere el artículo anterior, por los actos u omisiones que realicen terceros que, en su caso, hubieren contratado los propios concesionarios o permisionarios para la prestación de los servicios de transporte.
+
+En las tarifas que ofrezcan los concesionarios o permisionarios estarán incluidos los gastos que se originen por la contratación de dichas terceras personas.
+
+#### Sección Primera. De los daños a pasajeros, equipaje y carga
+
+###### Artículo 59.
+
+El fletamento de aeronaves es el contrato mediante el cual el permisionario de la prestación del servicio al público de transporte aéreo no regular, en su carácter de fletante, pone a disposición del fletador, a cambio del pago de un precio determinado llamado flete, la capacidad útil total o parcial de una o más aeronaves para transportar personas, carga o correo, una o más veces o durante un período determinado, reservándose el fletante la dirección de la tripulación y la conducción técnica de la aeronave.
+
+###### Artículo 60.
+
+El fletante responderá exclusivamente ante el fletador por el incumplimiento de las obligaciones pactadas entre ellos, y además será responsable por los daños que se produzcan a las personas, carga o correo transportados en su aeronave o a los causados a terceros en la superficie por ésta, así como por aquéllos que se ocasionen por los abordajes en que la propia aeronave intervenga.
+
+El fletador responderá por la realización y la calidad del transporte, ante las personas que hubieren contratado los servicios en paquete por él ofrecidos, inclusive cuando utilice agentes o intermediarios que actúen por cuenta y a nombre del propio fletador.
+
+### Capítulo XIII. De los seguros aéreos
+
+#### Sección Segunda. De los daños a terceros
+
+###### Artículo 61.
+
+Los concesionarios o permisionarios de los servicios de transporte aéreo nacional, serán responsables por los daños causados a los pasajeros, a la carga y al equipaje en el transporte.
+
+En el caso de pasajeros, se entenderá que los daños se causaron en el transporte, si ocurren desde el momento en que el pasajero aborda la aeronave hasta que ha descendido de la misma.
+
+El concesionario o permisionario será responsable del equipaje facturado desde el momento en que expida el talón correspondiente hasta que entregue el equipaje al pasajero en el punto de destino.
+
+En el caso de carga, el concesionario o permisionario será responsable desde el momento en que reciba la carga bajo su custodia hasta que la entregue al consignatario respectivo. La responsabilidad del concesionario o permisionario se interrumpirá cuando la carga le sea retirada por orden de autoridad competente.
+
+###### Artículo 62.
+
+Para los daños a pasajeros, el derecho a percibir indemnizaciones se sujetará a lo dispuesto por el artículo 1915 del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, salvo por lo que se refiere al monto que será el triple de lo previsto en dicho artículo. Para la prelación en el pago de las indemnizaciones, se estará a lo dispuesto en el artículo 501 de la Ley Federal del Trabajo.
+
+La indemnización por la destrucción o avería del equipaje de mano será de hasta cuarenta salarios mínimos. Por la pérdida o avería del equipaje facturado la indemnización será equivalente a la suma de setenta y cinco salarios mínimos.
+
+###### Artículo 63.
+
+Por la pérdida o avería de la carga, los concesionarios o permisionarios deberán cubrir al destinatario o, en su defecto, al remitente, una indemnización equivalente a diez salarios mínimos por kilogramo de peso bruto.
+
+###### Artículo 64.
+
+En los casos de las indemnizaciones previstas en los artículos 62 y 63 anteriores, el concesionario o permisionario no gozará del beneficio de limitación de responsabilidad, y deberá cubrir los daños y perjuicios causados en términos del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, si se comprueba que los daños se debieron a dolo o mala fe del propio concesionario o permisionario o de sus dependientes o empleados, o cuando no se expida el billete de pasaje o boleto, el talón de equipaje o la carta de porte o guía de carga aérea, según corresponda.
+
+Para el pago de las indemnizaciones se tomará como base el salario mínimo general diario vigente en el Distrito Federal, en la fecha en que ocurran los daños.
+
+###### Artículo 65.
+
+Los concesionarios o permisionarios responderán por la pérdida o daño que pueda sufrir la carga por el precio total de los mismos, inclusive los derivados de caso fortuito o fuerza mayor, cuando el usuario declare el valor correspondiente y, en su caso, cubra un cargo adicional equivalente al costo de la garantía respectiva que pacte con el propio concesionario o permisionario.
+
+Los concesionarios o permisionarios podrán pactar con los usuarios la responsabilidad por pérdida o daño del equipaje facturado, en los términos del párrafo anterior.
+
+###### Artículo 66.
+
+Las reclamaciones para los casos de pérdida o avería de la carga o equipaje facturado, deberán presentarse ante el concesionario o permisionario dentro de los quince días siguientes contados a partir de la fecha de entrega o de la fecha en que debió hacerse la misma. La falta de reclamación oportuna impedirá el ejercicio de las acciones correspondientes.
+
+Para el caso de carga o equipaje facturado, las acciones para exigir el pago de las indemnizaciones prescribirán en el plazo de noventa días a partir de la fecha en que debió entregarse la carga o el equipaje facturado.
+
+Para los daños a personas, las acciones para exigir el pago de las indemnizaciones prescribirán en el plazo de un año, a partir de la fecha de los hechos que les dieron nacimiento o, en su defecto, de la fecha de iniciación del viaje prevista en el contrato de transporte.
+
+###### Artículo 67.
+
+Los concesionarios o permisionarios del servicio al público de transporte aéreo estarán exentos de las responsabilidades por daños causados en los siguientes casos:
+
+I. A pasajeros, por culpa o negligencia inexcusable de la víctima, y
+
+II. A equipaje facturado y carga:
+
+a) Por vicios propios de los bienes o productos, o por embalajes inadecuados;
+
+b) Cuando la carga, por su propia naturaleza, sufra deterioro o daño total o parcial, siempre que hayan cumplido en el tiempo de entrega establecido;
+
+c) Cuando los bienes se transporten a petición escrita del remitente en vehículos no idóneos, siempre que por la naturaleza de aquéllos debieran transportarse en vehículos con otras características, y
+
+d) Cuando sean falsas las declaraciones o instrucciones del embarcador, del consignatario o destinatario de los bienes, o del titular de la carta de porte, respecto del manejo de la carga.
+
+###### Artículo 68.
+
+Los daños que sufran las personas o carga transportadas en aeronaves destinadas al servicio de transporte aéreo privado comercial se sujetarán a las disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal.
+
+###### Artículo 69.
+
+Será nula de pleno derecho toda cláusula que se inserte en los contratos de transporte con objeto de establecer límites de responsabilidad inferiores a los previstos en los artículos 62 y 63 anteriores, o que establezcan causas de exoneración de responsabilidad distintas de las previstas en el artículo 67 anterior. La nulidad de tales cláusulas no implicará la del contrato de transporte.
+
+###### Artículo 70.
+
+Cuando por la operación de una aeronave, por objetos desprendidos de la misma o por abordaje, se causen daños a personas o cosas que se encuentren en la superficie, nacerá la responsabilidad con sólo establecer la existencia del daño y su causa.
+
+Será responsabilidad del concesionario o permisionario y, en el caso del servicio de transporte aéreo privado no comercial, del propietario o poseedor de la aeronave, cubrir las indemnizaciones por los daños causados.
+
+Para los efectos de este capítulo, una aeronave se encuentra en operación cuando está en movimiento, lo que ocurrirá en los casos en que:
+
+I. Se encuentra en funcionamiento cualquiera de sus servicios o equipos, con tripulación, pasaje o carga a bordo;
+
+II. Se desplaza en la superficie por su propia fuerza motriz, o
+
+III. Se encuentre en vuelo.
+
+La aeronave se considera en vuelo desde el momento en que inicia la carrera para su despegue hasta el momento en que concluya el recorrido del aterrizaje.
+
+###### Artículo 71.
+
+Se entiende por abordaje aéreo toda colisión entre dos o más aeronaves. En estos casos, los concesionarios o permisionarios y, tratándose del servicio de transporte aéreo privado no comercial, los propietarios o poseedores de las aeronaves, serán solidariamente responsables por los daños causados a los terceros o a los bienes en la superficie, cada uno dentro de los límites establecidos en el artículo siguiente.
+
+Se consideran también abordajes aquellos casos en que se causen daños a aeronaves en movimiento, o a personas o bienes a bordo de éstas, por otra aeronave en movimiento, aunque no haya efectiva colisión.
+
+###### Artículo 72.
+
+En el caso de daños a personas, se cubrirá la indemnización correspondiente conforme a los términos señalados en el primer párrafo del artículo 62 de esta Ley. Para el caso de objetos en la superficie, el monto de la indemnización será de hasta treinta y cinco mil salarios mínimos.
+
+El concesionario o permisionario y, en el caso del servicio de transporte aéreo privado no comercial, el propietario o poseedor de la aeronave, no gozarán del beneficio de limitación de responsabilidad, si se comprueba que los daños se debieron a dolo o mala fe de ellos mismos o de sus dependientes o empleados.
+
+###### Artículo 73.
+
+Las acciones para exigir las indemnizaciones a que se refiere esta sección, prescribirán en un año a partir de la fecha en la cual ocurrieron los hechos.
+
+### Capítulo XIV. De la protección del ambiente
+
+###### Artículo 74.
+
+Los concesionarios o permisionarios y, en el caso del servicio de transporte aéreo privado no comercial, los propietarios o poseedores de aeronaves, que transiten en el espacio aéreo nacional, deberán contratar y mantener vigente un seguro que cubra las responsabilidades por los daños a pasajeros, carga, equipaje facturado o a terceros en la operación de las aeronaves.
+
+Para el inicio de operaciones de una aeronave será requisito indispensable, la aprobación por parte de la Secretaría del contrato de seguro. En el caso de las aeronaves privadas extranjeras, tal acreditamiento deberá hacerse en el primer aeropuerto internacional en que aterricen.
+
+En materia de transporte aéreo internacional, los seguros deberán cumplir con lo establecido en los tratados.
+
+###### Artículo 75.
+
+Las reclamaciones por daños deberán ser hechas valer ante el concesionario o permisionario y, en el caso del servicio de transporte aéreo privado no comercial, ante el propietario o poseedor de la aeronave, de acuerdo con las disposiciones del reglamento respectivo.
+
+### Capítulo XV. Del abandono de aeronaves
+
+###### Artículo 76.
+
+Las aeronaves que sobrevuelen, aterricen o despeguen en territorio nacional, deberán observar las disposiciones que correspondan en materia de protección al ambiente; particularmente, en relación a homologación de ruido y emisión de contaminantes.
+
+La Secretaría fijará los plazos para que se realicen adecuaciones en las aeronaves que, para los efectos de este artículo, así lo requieran y, en su caso, establecerá los lineamientos para la sustitución de la flota aérea.
+
+### Capítulo XVI. De los accidentes y de la búsqueda y salvamento
+
+###### Artículo 77.
+
+La Secretaría podrá hacer la declaratoria de abandono de aeronaves cuando:
+
+I. Lo declare el propietario o poseedor ante la Secretaría;
+
+II. La aeronave permanezca en un aeropuerto, aeródromo o helipuerto noventa días naturales o más sin estar al cuidado directo o indirecto de su propietario o poseedor, o
+
+III. Carezca de marcas de nacionalidad y matrícula y no sea posible conocer, por los documentos a bordo, el nombre de su propietario o poseedor y lugar de procedencia.
+
+En los casos de las fracciones II y III, previamente a la declaratoria de abandono, la Secretaría publicará tres veces en intervalos de diez días cada uno, avisos en el Diario Oficial de la Federación y en un periódico de la entidad federativa donde se encuentre la aeronave, en los que en total se concederá un plazo de cuarenta días a partir de la primera publicación, para presentar objeciones. Concluido el plazo, la Secretaría, en su caso, hará la declaratoria de abandono de la aeronave, pasando ésta a propiedad de la Nación y procederá a su enajenación en subasta pública, con participación de las autoridades correspondientes y ante fedatario público. Los recursos que se obtengan por la enajenación de la aeronave se enterarán a la Tesorería de la Federación, previa liquidación de los adeudos generados con el aeropuerto de que se trate.
+
+###### Artículo 78.
+
+En el caso de aeronaves abandonadas en aeródromos o helipuertos en los que no haya control de tráfico, o sitios no habilitados para operaciones aéreas, la autoridad aeronáutica dará parte de inmediato a las autoridades competentes.
+
+### Capítulo XVII. De la requisa
+
+### Capítulo XVIII. De la verificación
+
+### Capítulo XIX. De las sanciones
+
+###### Artículo 79.
+
+Los concesionarios o permisionarios y, en el caso del servicio de transporte aéreo privado no comercial, los propietarios o poseedores de aeronaves, deberán proveerse de equipos técnicos y del personal necesario para la prevención de accidentes e incidentes aéreos.
+
+Para efectos de esta Ley, se entenderá por:
+
+I. Accidente: todo suceso por el que se cause la muerte o lesiones graves a personas a bordo de la aeronave o bien, se ocasionen daños o roturas estructurales a la aeronave, o por el que la aeronave desaparezca o se encuentre en un lugar inaccesible, y
+
+II. Incidente: todo suceso relacionado con la utilización de una aeronave, que no llegue a ser un accidente que afecte o pueda afectar la seguridad de las operaciones.
+
+###### Artículo 80.
+
+La búsqueda y salvamento en accidentes de aeronaves civiles es de interés público y las autoridades, propietarios, poseedores, concesionarios, permisionarios y miembros de la tripulación de vuelo estarán obligados a participar en las acciones que se lleven a cabo.
+
+Las operaciones de búsqueda y salvamento estarán bajo la dirección y control de la Secretaría, y los gastos que se originen por la investigación y el rescate de las víctimas o de sus bienes serán por cuenta del concesionario o permisionario y, en el caso del servicio de transporte aéreo privado no comercial, del propietario o poseedor de la aeronave accidentada.
+
+###### Artículo 81.
+
+Corresponde a la Secretaría la investigación de los accidentes e incidentes sufridos por aeronaves civiles. Concluida la investigación, que se llevará a cabo con audiencia de los interesados, determinará la causa probable de los mismos y, en su caso, impondrá las sanciones. Si hay lugar a ello, hará los hechos del conocimiento de la autoridad competente.
+
+###### Artículo 82.
+
+Se considerará perdida una aeronave, salvo prueba en contrario, en los siguientes casos:
+
+I. Por declaración del concesionario o permisionario y, en el caso del servicio de transporte aéreo privado no comercial, del propietario o poseedor de la aeronave, y
+
+II. Cuando transcurridos treinta días desde la fecha en que se tuvieron las últimas noticias oficiales o particulares de la aeronave, se ignore su paradero.
+
+La Secretaría declarará la pérdida y cancelará las inscripciones correspondientes.
+
+###### Artículo 83.
+
+En caso de desastre natural, de guerra, de grave alteración del orden público o cuando se tema algún peligro inminente para la seguridad nacional, la paz interior del país o para la economía nacional, el Gobierno Federal podrá hacer la requisa de las aeronaves y demás equipo de los servicios públicos de transporte aéreo, de los bienes muebles e inmuebles necesarios y disponer de todo ello como lo juzgue conveniente. El Gobierno Federal podrá igualmente utilizar el personal que estuviere al servicio de la sociedad sujeta a la requisa cuando lo considere necesario. La requisa se mantendrá mientras subsistan las condiciones que la motivaron.
+
+El Gobierno Federal, salvo en el caso de guerra internacional, indemnizará a los interesados, pagando los daños y perjuicios a su valor real. Si no hubiere acuerdo sobre el monto de la indemnización, los daños se fijarán por peritos nombrados por ambas partes, y en el caso de los perjuicios, se tomará como base el promedio del ingreso neto en el año anterior a la requisa. Cada una de las partes cubrirá la mitad de los gastos que se originen por el peritaje.
+
+###### Artículo 84.
+
+La Secretaría verificará el cumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables. Para tal efecto, los concesionarios o permisionarios y, en el caso del servicio de transporte aéreo privado no comercial, los propietarios o poseedores de aeronaves, estarán obligados a permitir el acceso a los verificadores de la Secretaría a sus instalaciones, a transportarlos en sus equipos para que realicen la verificación en términos de la presente Ley, y en general, a otorgarles todas las facilidades para estos fines, así como a proporcionar a la Secretaría informes con los datos que permitan conocer de la operación y explotación de los servicios de transporte aéreo.
+
+Las personas físicas o morales que sean sujetos de verificación, cubrirán las cuotas que por este concepto se originen.
+
+###### Artículo 85.
+
+Las certificaciones de las unidades de verificación establecidas por terceros tendrán validez cuando dichas unidades hayan sido previamente autorizadas por la Secretaría en términos de lo dispuesto por la Ley Federal sobre Metrología y Normalización.
+
+###### Artículo 86.
+
+Las infracciones a lo dispuesto en la presente Ley cometidas por el concesionario o permisionario y, en el caso del servicio de transporte aéreo privado no comercial, por el propietario o poseedor de la aeronave, según se trate, serán sancionadas por la Secretaría de acuerdo con lo siguiente:
+
+I. Permitir que la aeronave transite:
+
+a) Sin ostentar las marcas de nacionalidad y matrícula, o cuando éstas se encuentren alteradas o modificadas sin autorización de la Secretaría, con multa de cinco mil a quince mil salarios mínimos;
+
+b) Por carecer de los certificados de aeronavegabilidad o de matrícula, o cuando tales documentos estén vencidos, con multa de cinco mil a quince mil salarios mínimos;
+
+c) Por carecer de los seguros o cuando no estén vigentes, con multa de cinco mil a quince mil salarios mínimos;
+
+d) Tripulada por personas que carezcan de la licencia correspondiente, con multa de cinco mil a quince mil salarios mínimos;
+
+e) Sin el plan de vuelo o cuando se modifique sin autorización, salvo causa de fuerza mayor, con multa de un mil a ocho mil salarios mínimos;
+
+f) Por no llevar a bordo las pólizas de seguro a que se refiere esta Ley, con multa de cien a dos mil salarios mínimos;
+
+g) Sin los instrumentos de seguridad y equipo de auxilio que corresponda, con multa de quinientos a cinco mil salarios mínimos;
+
+h) Sin hacer uso de las instalaciones y de los servicios auxiliares, salvo casos de fuerza mayor, con multa de quinientos a cinco mil salarios mínimos, y
+
+i) Por no llevar a bordo el certificado de aeronavegabilidad o de matrícula, con multa de doscientos a un mil salarios mínimos;
+
+II. Internar al territorio nacional una aeronave extranjera o por llevar una aeronave mexicana al extranjero, sin cumplir con los requisitos exigidos por esta Ley, con multa de dos mil a diez mil salarios mínimos;
+
+III. Operar aviones en aeródromos y aeropuertos no autorizados, salvo causa de fuerza mayor, con multa de un mil a ocho mil salarios mínimos;
+
+IV. Obtener la matrícula de la aeronave en el registro de otro Estado, sin haber obtenido la cancelación de la matrícula mexicana, con multa de un mil a ocho mil salarios mínimos;
+
+V. Cuando de manera negligente no se haga del conocimiento de la Secretaría los incidentes o accidentes ocurridos a sus aeronaves, salvo causa de fuerza mayor, con multa de un mil a ocho mil salarios mínimos;
+
+VI. Impedir el tránsito o la circulación en los aeródromos, aeropuertos y helipuertos por causas imputables a él, con multa de un mil a cinco mil salarios mínimos, y
+
+VII. Negarse a participar en las operaciones de búsqueda y salvamento, salvo causa de fuerza mayor, con multa de un mil a cinco mil salarios mínimos.
+
+###### Artículo 87.
+
+Se les impondrán a los concesionarios o permisionarios de servicio al público de transporte aéreo las siguientes sanciones por:
+
+I. No tener vigente la concesión o permiso correspondiente, multa de ocho mil a diez mil salarios mínimos;
+
+II. Llevar a cabo el servicio de transporte aéreo nacional, en el caso de sociedades extranjeras de servicio de transporte aéreo, multa de ocho mil a diez mil salarios mínimos;
+
+III. Cuando con motivo de un vuelo de simple tránsito efectúe embarque o desembarque de pasajeros y carga, en el caso de sociedades extranjeras de servicio de transporte aéreo, multa de cinco mil a diez mil salarios mínimos;
+
+IV. No seguir las aerovías o no utilizar los aeropuertos que le hayan sido señalados en el plan de vuelo respectivo, salvo caso fortuito o de fuerza mayor, multa de dos mil a diez mil salarios mínimos;
+
+V. No dar aviso a la Secretaría de las rutas que deje de operar, en los términos del artículo 22 de esta Ley, multa de tres mil a cinco mil salarios mínimos;
+
+VI. Vender, en forma directa, porciones aéreas en el caso de los servicios de transporte aéreo de fletamento, multa de un mil a cinco mil salarios mínimos;
+
+VII. Negarse a prestar servicios, sin causa justificada, multa de un mil a cinco mil salarios mínimos;
+
+VIII. No efectuar la conservación y mantenimiento de sus aeronaves y demás bienes que se relacionen con la seguridad y eficiencia del servicio, multa de quinientos a cinco mil salarios mínimos;
+
+IX. No aplicar las tarifas registradas, multa de quinientos a cinco mil salarios mínimos;
+
+X. No operar las rutas autorizadas en los plazos previstos en la presente Ley, multa de quinientos a cinco mil salarios mínimos;
+
+XI. No proporcionar la información que le solicite la Secretaría, en los plazos fijados por ésta, multa de trescientos a tres mil salarios mínimos, y
+
+XII. No sujetarse a los itinerarios, frecuencias de vuelo y horarios autorizados, multa de doscientos a un mil salarios mínimos.
+
+###### Artículo 88.
+
+Se impondrá sanción al comandante o piloto de cualquier aeronave civil por:
+
+I. Permitir a cualquier persona que no sea miembro de la tripulación de vuelo tomar parte en las operaciones de los mandos de la aeronave, salvo causa de fuerza mayor, multa de dos mil a cinco mil salarios mínimos;
+
+II. Transportar armas, artículos peligrosos, inflamables, explosivos y otros semejantes, sin la debida autorización, multa de un mil a cinco mil salarios mínimos;
+
+III. No aterrizar en los aeropuertos internacionales autorizados en casos de vuelos de internación al territorio nacional, salvo causa de fuerza mayor, multa de un mil a cinco mil salarios mínimos;
+
+IV. Transportar cadáveres o personas que por la naturaleza de su enfermedad presenten riesgo para los demás pasajeros, sin la autorización correspondiente, multa de un mil a cinco mil salarios mínimos;
+
+V. Abandonar la aeronave, la tripulación, los pasajeros, la carga y demás efectos, en lugar que no sea la terminal del vuelo y sin causa justificada, multa de quinientos a cinco mil salarios mínimos;
+
+VI. Realizar vuelos acrobáticos, rasantes o de exhibición en lugares prohibidos, multa de quinientos a cinco mil salarios mínimos;
+
+VII. Tripular la aeronave sin licencia, multa de quinientos a cinco mil salarios mínimos.
+
+VIII. Desobedecer las órdenes o instrucciones que reciba con respecto al tránsito aéreo, salvo causa de fuerza mayor, multa de quinientos a cinco mil salarios mínimos;
+
+IX. Iniciar el vuelo sin cerciorarse de la vigencia del certificado de aeronavegabilidad, de las licencias de la tripulación de vuelo y de que la aeronave ostente las marcas de nacionalidad y matrícula, multa de trescientos a tres mil salarios mínimos;
+
+X. Operar la aeronave de manera negligente o fuera de los límites y parámetros establecidos por el fabricante de la misma, sin que medie causa justificada, multa de trescientos a tres mil salarios mínimos;
+
+XI. No informar a la Secretaría o al comandante del aeropuerto más cercano, en el caso de incidentes o accidentes aéreos, dentro de las cuarenta y ocho horas siguientes a que tengan conocimiento de ellos, multa de trescientos a tres mil salarios mínimos;
+
+XII. No utilizar durante la operación de la aeronave los servicios e instalaciones de ayudas a la navegación aérea y demás servicios auxiliares, multa de trescientos a tres mil salarios mínimos;
+
+XIII. Realizar vuelos de demostración, pruebas técnicas o de instrucción, sin la autorización respectiva, multa de trescientos a tres mil salarios mínimos;
+
+XIV. Volar sobre zonas prohibidas, restringidas o peligrosas, sin autorización de la Secretaría, multa de doscientos a dos mil salarios mínimos;
+
+XV. Arrojar o tolerar que innecesariamente se arrojen desde la aeronave en vuelo, objetos o lastre, multa de doscientos a dos mil salarios mínimos;
+
+XVI. Negarse a participar en las operaciones de búsqueda o salvamento, salvo causa de fuerza mayor, multa de doscientos a dos mil salarios mínimos, y
+
+XVII. Realizar o permitir que se realicen abordo de la aeronave en vuelo, planificaciones aerofotográficas o aerotopográficas sin el permiso correspondiente, en el caso de tripular una aeronave civil extranjera, multa de doscientos a dos mil salarios mínimos.
+
+###### Artículo 89.
+
+Cualquiera otra infracción a esta Ley o a sus reglamentos que no esté expresamente prevista en este capítulo, será sancionada por la Secretaría con multa de doscientos a cinco mil días de salario mínimo.
+
+En caso de reincidencia, la Secretaría podrá imponer una sanción equivalente hasta el doble de la cuantía señalada.
+
+Para efectos del presente capítulo, se entiende por salario mínimo, el salario mínimo general diario vigente en el Distrito Federal al momento de cometerse la infracción.
+
+###### Artículo 90.
+
+Se le revocará la licencia al comandante de la aeronave que tripule en estado de ebriedad o bajo los efectos de estupefacientes, psicotrópicos o enervantes o que permita que un miembro de la tripulación de vuelo participe en las operaciones en ese estado o bajo tales efectos, o cuando realice actos u omisiones que tiendan a la comisión de los delitos de contrabando y tráfico ilegal de personas, drogas y armas. Igual sanción se impondrá a cualquier miembro de la tripulación de vuelo, que se encuentre en los mismos supuestos.
+
+###### Artículo 91.
+
+Para declarar la revocación de concesiones, permisos y licencias; suspensión de servicios; la imposición de las sanciones previstas en esta Ley; así como para la interposición del recurso administrativo de revisión, se estará a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
+
+###### Artículo 92.
+
+Las sanciones que se señalan en este capítulo se aplicarán sin perjuicio de la responsabilidad civil o penal que resulte, ni de la revocación que proceda.
+
+## TRANSITORIOS
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan los artículos 1o., fracción VIII; 9o., fracciones II y VI; 306 al 326; 329 al 370; 371, fracción I, incisos a) y d), fracciones II y III y el penúltimo y último párrafo; 372 y 373; 542; 546; 555 al 558; 562 al 564, y 568 al 570, de la Ley de Vías Generales de Comunicación, así como las demás disposiciones que se opongan a la presente Ley.
+
+Las disposiciones reglamentarias y administrativas en vigor se continuarán aplicando mientras se expiden los nuevos reglamentos, salvo en lo que se opongan a la presente Ley.
+
+TERCERO.- Las infracciones cometidas con anterioridad a la entrada en vigor de la presente Ley, se sancionarán y tramitarán de conformidad con las disposiciones vigentes al momento en que se cometieron.
+
+CUARTO.- Las concesiones y permisos otorgados con anterioridad a la entrada en vigor de la presente Ley, serán respetados en sus términos, sin perjuicio de que sus titulares opten por acogerse a la presente Ley.
+
+Por lo que se refiere a los permisos en trámite, se estará a lo dispuesto en esta Ley.
+
+La obtención de permisos, en tanto se expiden los reglamentos respectivos, se sujetará a las disposiciones vigentes, en lo que no se opongan a la presente Ley.
+
+México, D.F., a 28 de abril de 1995.- Dip. Florentino Castro López, Presidente.- Sen. Martha Lara Alatorre, Presidenta.- Dip. Fernando Flores Gómez González, Secretario.- Sen. Antonio Manríquez Guluarte, Secretario.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de mayo de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Esteban Moctezuma Barragán.- Rúbrica.
