@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1981-04-21"
+last_updated: "1981-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ABRIL DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE ABRIL DE 1981.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -800,17 +800,25 @@ Los Senadores y Diputados al Congreso de la Unión no podrán ser reelectos para
 
 Los Senadores y Diputados Suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero los Senadores y Diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
-> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE ABRIL DE 1981)</small>
 
 ###### Art. 60.
 
-La Cámara de Diputados calificará la elección de sus miembros a través de un colegio electoral que se integrará por los 60 presuntos diputados que de acuerdo con las constancias de mayoría que registre la Comisión Federal Electoral hubieran obtenido mayor número de votos y por 40 presuntos diputados que resultaren electos en la o las circunscripciones plurinominales que obtuviesen la votación mas alta.
+La Cámara de Diputados calificará la elección de sus miembros a través de un Colegio Electoral que se integrará con 100 presuntos diputados: 60 de los electos en los distritos uninominales, designados por el partido político que hubiera obtenido mayor número de constancias de mayoría registradas por la Comisión Federal Electoral; y 40 de los electos en circunscripciones plurinominales, designados por los partidos políticos proporcionalmente al número que para cada uno de ellos hubiera reconocido la Comisión Federal Electoral por el porcentaje de votación que hayan obtenido.
+
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
 En la Cámara de Senadores el Colegio Electoral se integrará con los presuntos senadores que obtuvieren declaratoria de senador electo de la Legislatura de la entidad federativa correspondiente y de la Comisión Permanente del Congreso de la Unión en el caso del Distrito Federal.
 
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+
 Procede el recurso de reclamación ante la Suprema Corte de Justicia de la Nación contra las resoluciones del Colegio Electoral de la Cámara de Diputados.
 
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+
 Si la Suprema Corte de Justicia considera que se cometieron violaciones sustanciales en el desarrollo del proceso electoral o en la calificación misma, lo hará del conocimiento de dicha Cámara para que emita nueva resolución, misma que tendrá el carácter de definitiva e inatacable.
+
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
 La ley fijará los requisitos de procedencia y el trámite a que se sujetará este recurso.
 
@@ -3209,3 +3217,9 @@ D.O.F. 21 DE ABRIL DE 1981.
 DECRETO QUE REFORMA LOS ARTICULOS 29, 90 Y 92.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 22 DE ABRIL DE 1981.
+
+###### ARTICULO UNICO.
+
+Esta reforma entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
