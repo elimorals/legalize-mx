@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interno-de-la-coordinacion-general-de-turismo-33593"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-09"
-last_updated: "2003-08-09"
+last_updated: "2004-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO INTERNO DE LA COORDINACION GENERAL DE TURISMO
 
-REGLAMENTO INTERNO DE LA COORDINACION GENERAL DE TURISMO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 25 DE MARZO DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERNO DE LA COORDINACIÓN GENERAL DE TURISMO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2004 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 9 de agosto de 2003.
 
@@ -415,9 +417,9 @@ I.- Deberá posicionar al Estado de San Luis Potosí como un destino turístico,
 
 II.- Apoyar a la población interesada en promover los atractivos turísticos del Estado;
 
-III.- Diseñar los productos diversos y contactar con las diferentes agencias y tour operadores para el lanzamiento de los productos, y (sic)
+III.- Diseñar los productos diversos y contactar con las diferentes agencias y tour operadores para el lanzamiento de los productos, y
 
-IV.- deberá (sic) diseñar material grafico como carteles, folletos, revistas, presentaciones, etc, con una imagen fresca que permita atacar el mercado nacional e internacional para mostrar los diversos productos turísticos que el estado ofrece filtrando y traduciendo la información en imágenes;
+IV.- deberá diseñar material grafico como carteles, folletos, revistas, presentaciones, etc, con una imagen fresca que permita atacar el mercado nacional e internacional para mostrar los diversos productos turísticos que el estado ofrece filtrando y traduciendo la información en imágenes;
 
 V.- Crear una campaña de promoción turística del Estado que vaya a la vanguardia, aplicando la imagen en todos los medios de comunicación;
 
@@ -560,3 +562,15 @@ LIC. ALEJANDRO MORONES OCHOA
 COORDINADOR GENERAL DE TURISMO
 
 (Rubrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE MARZO DE 2004.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DE LA SECRETARÍA DE TURISMO”.]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de San Luis Potosí.
+
+Segundo.- Se abroga el Reglamento Interior de la Coordinación General de Turismo de fecha 09 de agosto del 2003 y cualquier disposición administrativa, de igual o menor rango, que se oponga al presente.
+
+Tercero.- En tanto se expiden los manuales que este Reglamento menciona, el titular de la Secretaría queda facultado para resolver las cuestiones que conforme a éste se deban regular.
