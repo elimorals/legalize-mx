@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1999-06-17"
+last_updated: "1999-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 1999.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1725,9 +1725,9 @@ El Territorio del Estado de Chiapas es el que posee desde que forma parte de la 
 
 Para su oganización política y administrativa se dividirá en Municipios Libres, de acuerdo con las bases contenidas en el Artículo 115 de la Constitución Federal y la Ley Orgánica respectiva, siendo los siguientes:
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 1999)</small>
 
-Acacoyagua, acala, Acapetahua, Altamirano, Amatan, Amatenango de la frontera, amatenango del valle, Angel lbino corzo, Arriaga, bejucal de ocampo, bella vista, berriozabal, bochil, Cacahoatan, catazaja, cintalala, coapilla, Comitan de Dominguez, Copainala, chalchihuitan, Chamula, Chanal, Chapultenango, Chenalho, Chiapa de Corzo, Chiapilla, Chicoasen, Chicomuselo, Chilon, el bosque, el porvenir, escuintla, francisco leon, frontera Comalapa, Frontera hidalgo, huehuetan, huitiupan, huixtan, huixtla, Ixhuatan, ixtacomitan, ixtapa, ixtapangajoya, jiquipilas, jitotol, Juarez, la concordia, la grandeza, la independencia, la libertad, las Margaritas, larrainzar, las rosas, la trinitaria, mapastepec, Mazapa de Madero, mazatan, metapa, mitontic, motozintla, Nicolas ruiz, Ocosingo, ocotepec, ocozocoautla de espinosa, Ostuacan, Osumacinta, oxchuc, palenque, pantelho, pantepec, pichucalco, Pijijiapan, Pueblo Nuevo Solistahuacan, rayon, reforma, sabanilla, salto de agua, san cristobal de las casas, san fernando, san lucas, san juan cancuc, siltepec, Simojovel, Sitala, Socoltenango, Solosuchiapa, soyalo, suchiapa, suchiate, sunuapa, tapachula, tapalapa, tapilula, tecpatan, tenejapa, teopisca, tila, tonala, totolapa, Tumbala, tuxtla gutierrez, tuxtla chico, tuzantan, tzimol, Union Juarez, Venustiano Carranza, Villaflores, Villa Comaltitlan, Villa Corzo, Yajalon y Zinacantan.
+Acacoyagua, Acala, Acapetahua, Aldama, Altamirano, Amatan, Amatenango de la Frontera, Amatenango del Valle, Angel Albino Corzo, Arriaga, Bejucal de Ocampo, Bella Vista, Benemérito de las Américas, Berriozábal, Bochil, Cacahoatán, Catazajá, Cintalapa, Coapilla, Comitán de Domínguez, Copainalá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, El Bosque, El Porvenir, Escuintla, Francisco León, Frontera Comalapa, Frontera Hidalgo, Huehuetán, Huitiupán, Huixtán, Huixtla, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, La Concordia, La Grandeza, La Independencia, La Libertad, Las Margaritas, Larrainzar, Las Rosas, La Trinitaria, Mapastepec, Maravilla Tenejapa, Marques de Comillas, Mazapa de Madero, Mazatán, Metapa, Mitontic, Montecristo de Guerrero, Motozintla, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pijijiapan, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Sabanilla, Salto de Agua, San Andrés Duraznal, San Cristobal de las Casas, San Fernando, San Juan Cancuc, San Lucas, Santiago el Pinar, Siltepec, Simojovel, Sitalá, Socoltenango, Solosuchiapa, Soyaló, Suchiapa, Suchiate, Sunuapa, Tapachula, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Tonalá, Totolapa, Tumbalá, Tuxtla Gutiérrez, Tuxtla Chico, Tuzantán, Tzimol, Unión Juárez, Venustiano Carranza, Villa Comaltitlán, Villa Corzo, Villaflores, Yajalón y Zinacantán.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -2254,3 +2254,13 @@ P.O. 17 DE JUNIO DE 1999.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JULIO DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Congreso del Estado procederá a la designación de Concejos Municipales que realizarán las funciones de cuerpo edilicio en los nuevos municipios hasta la conclusión del período municipal que inició el primero de enero de 1999. Los primeros ayuntamientos de los nuevos municipios, cuyo ejercicio iniciará el primero de enero del 2002, serán electos a través de los comicios ordinarios que para ese período se celebren conforme a lo dispuesto en la Constitución Política Federal, la particular del Estado y el Código Electoral del Estado.
