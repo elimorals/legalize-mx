@@ -4,7 +4,7 @@ identifier: "JAL-ley-electoral-del-estado-de-jalisco-15428"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-29"
-last_updated: "2001-06-07"
+last_updated: "2002-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ELECTORAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 29 de abril de 1997.
 
@@ -1652,6 +1652,10 @@ IX. Proponer para su aprobación ante el Pleno del Consejo, a más tardar en el 
 X. Rendir anualmente al Pleno del Consejo Electoral, a más tardar en el mes de julio, un informe detallado sobre el ejercicio del presupuesto del Consejo del Estado correspondiente al año anterior;
 
 XI. Remitir al Titular del Poder Ejecutivo, el proyecto de presupuesto de egresos del Consejo Electoral del Estado aprobado por éste, para los efectos de ley correspondientes;
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2002)</small>
+
+El proyecto de presupuesto a que se refiere el párrafo anterior debe contener la plantilla de personal en la que se especifiquen todos los empleos públicos, con inclusión del Presidente y de los consejeros, así como las remuneraciones que, por conceptos de salarios o cualquier otro, les sean asignadas a los mismos;
 
 XII. Elaborar el proyecto de convocatoria para las elecciones que establece este ordenamiento, para someterla a la consideración, y en su caso, aprobación del Consejo Electoral del Estado;
 
@@ -4786,3 +4790,11 @@ P.O. 7 DE JUNIO DE 2001.
 PRIMERO. Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamientos del Estado, con el diario de debates, en el que conste las discusiones que hubiere provocado, para que con fundamento a lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
 
 SEGUNDO. El presente decreto entrará en vigor el primero de marzo de 2001, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE FEBRERO DE 2002.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- Para el ejercicio fiscal del 2002, el Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, será convocado de inmediato, para que a más tardar el 31 de marzo del 2002, evalúe las percepciones aprobadas en los presupuestos respectivos, sin que esta evaluación pueda afectar las prestaciones ya aprobadas.
