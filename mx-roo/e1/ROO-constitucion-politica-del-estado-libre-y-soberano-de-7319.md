@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1994-09-02"
+last_updated: "1995-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 1995.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -543,9 +543,9 @@ No podrá ser diputado:
 
 I.- El Gobernador en ejercicio, aún cuando se separe definitivamente de su puesto, cualesquiera sea su calidad, el origen y la forma de designación.
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 1995)</small>
 
-II.- Los Secretarios del Despacho dependientes del Ejecutivo, el Procurador General de Justicia, el Oficial Mayor de Gobierno, el Contralor de Gobierno, Los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquier otro servidor público que desempeñe cargo público estatal a menos que se separe definitivamente de su cargo 90 días antes de la fecha de elección.
+II.- Los Secretarios del Despacho dependientes del Ejecutivo, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Jueces, y cualquier otro servidor público que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo, noventa días antes de la fecha de elección.
 
 III.- Los presidentes municipales o quienes ocupen cualquier cargo municipal, a menos que se separe (sic) del mismo 90 días antes de la elección.
 
@@ -777,7 +777,13 @@ XLII.- Determinar el patrimonio familiar señalando los bienes que lo integran, 
 
 XLIII.- Legislar en materia de seguridad social, teniendo como objetivo la permanente superación del nivel de vida de la población, el mejoramiento de su salud y la conservación del medio ambiente, y
 
-XLIV.- Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
+
+XLIV.- Recibir la protesta de ley y aprobar o rechazar el nombramiento de Procurador General de Justicia que otorgue el Gobernador del Estado; y
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 1995)</small>
+
+XLV.- Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
 
 #### SECCION QUINTA. De la Diputación Permanente
 
@@ -815,9 +821,13 @@ VIII.- Recibir la protesta de Ley y aprobar o desechar nombramientos, renuncias 
 
 IX.- Recibir la protesta de Ley al Gobernador Interino, provisional, sustituto o quien haga sus veces.
 
-> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 1995)</small>
 
-X. Las demás que le confiera expresamente esta Constitución.
+X.- Recibir la protesta de ley y aprobar o rechazar el nombramiento de Procurador General de Justicia que otorgue el Gobernador del Estado.
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 1995)</small>
+
+XI. Las demás que le confiera expresamente esta Constitución.
 
 #### SECCION SEGUNDA. De las Facultades y Obligaciones del Gobernador
 
@@ -825,7 +835,7 @@ X. Las demás que le confiera expresamente esta Constitución.
 
 #### SECCION TERCERA. De la Administración del Ejecutivo
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 1995)</small>
 
 ###### ARTICULO 78.
 
@@ -917,9 +927,9 @@ II.- El Gobernador interino, el provisional o el ciudadano que bajo, cualquiera 
 
 Son facultades del Gobernador:
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 1987)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 1995)</small>
 
-I.- Nombrar y remover libremente a los Secretarios de: Gobierno, Planeación, Finanzas, Desarrollo Económico y social, Obras Públicas y Desarrollo Urbano, Educación y Cultura Popular, Fomento Agropecuario, Estatal de Turismo y de Salud y Bienestar Social, así como también al Contralor, al Procurador General de Justicia, al Oficial Mayor y demás servidores y empleados públicos del Estado, cuyo nombramiento o remoción no esté determinado en la constitución o en las leyes.
+I.- Nombrar y remover libremente a los Secretarios de Despacho de la Administración Pública Estatal y a los demás empleados y servidores públicos del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en esta Constitución o en las leyes del Estado.
 
 II.- Nombrar a los magistrados del Tribunal Superior de Justicia, con la aprobación de la Legislatura o la Diputación Permanente, en su caso.
 
@@ -957,7 +967,13 @@ XV.- Ejercer el Presupuesto de Egresos.
 
 XVI.- Contratar empréstito (sic) y garantizar obligaciones con aprobación de la Legislatura, y
 
-XVII.- Las demás que le confiera esta Constitución y sus leyes.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 1995)</small>
+
+XVII. Nombrar, con la aprobación de la Legislatura del Estado o de la Diputación Permanente, en su caso, al Procurador General de Justicia.
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 1995)</small>
+
+XVIII.- Las demás que le confiera esta Constitución y sus leyes.
 
 ###### ARTICULO 91.
 
@@ -997,7 +1013,7 @@ XIII.- Las demás que señalen esta Constitución y sus leyes.
 
 ###### ARTICULO 92.
 
-Para el Despacho de los negocios del orden administrativo habrá el número de secretarios que se determine en la Ley Orgánica del Poder Ejecutivo para el Estado de Quintana Roo, la cual también incluirá el Oficial Mayor, el Contralor de Gobierno y al Procurador General de Justicia y los demás servidores públicos que determine la Ley Orgánica del Poder Ejecutivo, así como los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos y demás órganos creados o que se creen en la forma que determinen las leyes.
+Para el despacho de los negocios del orden administrativo, habrá el número de Secretarios que se determina en la Ley Orgánica de la Administración Pública del Estado de Quintana Roo y los demás servidores públicos que determine la propia Ley, así como los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos y demás órganos creados o que se creen en la forma que establezcan las leyes.
 
 ###### ARTICULO 93.
 
@@ -1011,15 +1027,21 @@ La Legislatura Estatal, mediante la Ley o Decreto que al efecto expida, establec
 
 Este Organismo formulará recomendaciones públicas autónomas no vinculatorias y denuncias y quejas ante las Autoridades respectivas, y no será competente tratándose de asuntos electos (sic), laborales o jurisdiccionales.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MARZO DE 1995)</small>
 
 ###### ARTICULO 95.
 
-Para ser Secretario del Despacho, Oficial Mayor, Contralor de Gobierno y Derector (sic) de Organismos Descentralizados y Empresas de Participación Estatal se requiere:
+Para ser Secretario del Despacho y Director de organismos Descentralizados y Empresas de Participación Estatal se requiere:
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1987)</small>
 
 I.- Ser Ciudadano quintanarroense y nativo de la Entidad o con residencia no menor de cinco años.
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1987)</small>
+
 II.- Estar en pleno ejercicio de sus derechos políticos, y
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1987)</small>
 
 III.- Tener modo honesto de vivir.
 
@@ -1038,6 +1060,10 @@ II.- Ser licenciado en derecho con título debidamente registrado.
 III.- Estar en pleno ejercicio de sus derechos políticos, y
 
 IV.- Tener modo honesto de vivir.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 1995)</small>
+
+El Procurador General de Justicia podrá ser removido libremente por el Gobernador del Estado.
 
 ### CAPITULO I. Del Patrimonio
 
@@ -1235,9 +1261,11 @@ I.- Los ingresos determinados en su Ley de Ingresos, y demás noormas (sic) apli
 
 II.- Los ingresos adquiridos por concepto de subsidios, participaciones, legados, donaciones o cualesquiera otras causas.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 1995)</small>
+
 ###### ARTICULO 116.
 
-La administración de la hacienda pública estará a cargo de (sic) Ejecutivo por conducto del Secretario de Finanzas, quien será responsables(sic) de su manejo.
+La administración de la hacienda pública estará a cargo del Ejecutivo por conducto del Secretario del ramo respectivo, quien será responsable de su manejo.
 
 ###### ARTICULO 117.
 
@@ -1273,9 +1301,11 @@ Todo empleado de hacienda que deba tener a su cargo manejo de fondos del Estado,
 
 El Ejecutivo cuidará que la Legislatura conozca de la fianza con la cual los empleados de hacienda caucionen su manejo.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 1995)</small>
+
 ###### ARTICULO 125.
 
-El Secretario de Finanzas remitirá anualmente al Ejecutivo, en la segunda quincena del mes de enero, un informe pormenorizado sobre el estado de la hacienda pública del ejercicio fiscal anterior.
+El Secretario encargado de la hacienda pública del Estado remitirá anualmente al Ejecutivo, en la segunda quincena del mes de enero, un informe pormenorizado sobre el estado de la hacienda pública del ejercicio fiscal anterior.
 
 ## TITULO SEXTO. Del Patrimonio y Hacienda Pública del Estado
 
@@ -1835,11 +1865,11 @@ El síndico tiene a su cargo la vigilancia de la hacienda pública municipal.
 
 ## TITULO DECIMO. Prevenciones Generales
 
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 1995)</small>
 
 ###### ARTICULO 175.
 
-El Gobernador del Estado, el Secretario de Gobierno, el Oficial Mayor, los Secretarios del Despacho, el Contralor de Gobierno, el Procurador del Estado, los Magistrados del Tribunal Superior, los Diputados de la Legislatura y los demás servidores públicos recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en el presupuesto de egresos del Estado o en los presupuestos de las Entidades paraestatales, según corresponda.
+El Gobernador del Estado, los Secretarios del despacho, el Procurador General de Justicia, los Magistrados del Tribunal Superior, los Diputados de la Legislatura y los demás servidores públicos recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en el Presupuesto de Egresos del Estado o en los Presupuestos de las entidades descentralizadas y paraestatales, según corresponda.
 
 > <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
@@ -2124,3 +2154,13 @@ P.O. 2 DE SEPTIEMBRE DE 1994.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE MARZO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Remítase la presente Minuta Proyecto de Decreto a los Honorables Ayuntamientos de los Municipios del Estado, en cumplimiento a lo dispuesto por el Artículo 174 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
