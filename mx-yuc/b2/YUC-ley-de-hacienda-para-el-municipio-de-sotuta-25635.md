@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-sotuta-25635"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2000-12-30"
+last_updated: "2004-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE SOTUTA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 30 de diciembre de 2000.
 
@@ -1455,13 +1455,39 @@ La tarifa será mensualmente a razón de 0.10 del salario mínimo vigente en el 
 
 El pago se realizará en la caja de la Tesorería Municipal o con la persona que el Ayuntamiento designe.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO VIII. DERECHOS POR EL USO DE CEMENTERIOS
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 111-A.
+
+Son objeto de este Derecho, los diversos servicios mortuorios prestados por el municipio.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 111-B.
+
+Son sujetos de este Derecho, las personas físicas o morales que directa o indirectamente reciban alguno o algunos de los servicios mortuorios, que preste el municipio.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 111-C.
+
+Estos Derechos se causarán conforme a la tarifa que al efecto establezca la Ley de Ingresos municipal correspondiente.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ### CAPITULO ÚNICO. DE LOS SUJETOS
 
-### CAPITULO UNICO. DE LA CLASIFICACION
+###### ARTÍCULO 111-D.
+
+El pago de los derechos se hará por anticipado o al solicitar el servicio, en las oficinas de la Tesorería Municipal.
 
 ## TÍTULO QUINTO. DE LAS CONTRIBUCIONES DE MEJORAS
 
-### CAPITULO I. DE LAS MULTAS ADMINISTRATIVAS
+### CAPITULO UNICO. DE LA CLASIFICACION
 
 ###### ARTÍCULO 112.
 
@@ -1593,7 +1619,7 @@ El Tesorero Municipal previa solicitud por escrito del interesado y una vez real
 
 ## TITULO SEXTO. DE LOS PRODUCTOS
 
-### CAPITULO I. GENERALIDADES
+### CAPITULO I. DE LAS MULTAS ADMINISTRATIVAS
 
 ###### ARTÍCULO 124.
 
@@ -1657,9 +1683,7 @@ Los productos que percibirá el Municipio por los daños que sufrieren las vías
 
 ## TITULO SÉPTIMO. APROVECHAMIENTOS
 
-### CAPITULO II. INFRACCIONES Y SANCIONES
-
-DE LOS RESPONSABLES
+### CAPITULO I. GENERALIDADES
 
 ###### ARTÍCULO 132.
 
@@ -1739,6 +1763,10 @@ Para el caso de que los ingresos por gastos de ejecución, fueren generados en e
 
 ## TITULO NOVENO. INFRACCIONES Y MULTAS
 
+### CAPITULO II. INFRACCIONES Y SANCIONES
+
+DE LOS RESPONSABLES
+
 ###### ARTÍCULO 138.
 
 La aplicación de las multas por infracciones a las disposiciones municipales y a la presente Ley se efectuará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
@@ -1810,3 +1838,11 @@ C. VÍCTOR MANUEL CERVERA PACHECO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. R. CLEOMINIO ZOREDA NOVELO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+D.O. 31 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
