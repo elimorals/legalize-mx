@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-6113"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "1990-12-24"
+last_updated: "1991-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1991.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 26 de diciembre de 1983.
 
@@ -921,7 +921,7 @@ Los sujetos de este impuesto, que únicamente perciban ingresos exentos, tienen 
 
 I. Empadronarse dentro de los quince días siguientes a la fecha de iniciación de sus operaciones;
 
-II. Solicitar por escrito la confirmación de su exención ante la Tesorería, la cual resolverá su procedencia si reúnen los requisitos correspondientes, y
+II. Solicitar por escrito la confirmación de su exención ante la tesorería, la cual resolverá su procedencia si reúnen los requisitos correspondientes, y
 
 III. Declarar en el mes de enero de cada año, el importe de los ingresos que hayan percibido durante el año anterior, o en su caso, dentro de los quince días siguientes a la fecha de clausura, traspaso o cambio de giro.
 
@@ -1421,7 +1421,7 @@ III. Cualquier poseedor de alcohol, aguardientes u otras bebidas alcohólicas, s
 
 Para los efectos de este impuesto las operaciones de comisión se considerarán como compraventa, teniendo el comisionista las mismas obligaciones que la presente parte establece para los sujetos del impuesto.
 
-#### Sección Tercera. De la Base y de la Tasa
+#### Sección Tercera. De la Base y Tasa
 
 ###### ARTICULO 133.
 
@@ -2115,6 +2115,8 @@ III. Los demás casos que señalen otras leyes.
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 217.
 
 Las contribuciones especiales que se establezcan a cargo de las personas que se beneficien de manera especial con alguna obra o servicio público y que sean destinadas a cubrir los gastos que requieran la propia obra o servicio, debiendo regularse de acuerdo a lo que establezca el Decreto Legislativo correspondiente.
@@ -2171,29 +2173,33 @@ Las participaciones concedidas al Estado en ingresos federales o municipales por
 
 Son aprovechamientos los ingresos que obtenga el Estado, por los conceptos de:
 
-I. Multas;
+I. Honorarios y Gastos de Ejecución; conforme al reglamento respectivo.
 
-II. Recargos;
+II. Recargos; de acuerdo a las tasas que establezca anualmente la Ley de Ingresos del Estado.
 
-III. Donativos herencias y legados en favor del Estado;
+III. Indemnizaciones a favor del erario estatal.
 
-IV. Bienes Vacantes;
+IV. Fianzas efectivas a favor del erario estatal.
 
-V. Tesoros ocultos;
+V. Donativos y subsidios.
 
-VI. Reintegros;
+VI. Donaciones, herencias vacantes, inmuebles mostrencos y legados en favor del Estado.
 
-VII. Indemnizaciones a favor del Gobierno del Estado;
+VII. Reintegros por responsabilidades de servidores públicos, de conformidad con la Ley de la materia.
 
-VIII. Responsabilidades de empleados en manejos de fondos;
+VIII. Multas.
 
-IX. Fianzas efectivas que se hagan a favor del erario;
+IX. Tesoros ocultos.
 
-X. Subsidios federales;
+X. Estímulos y subsidios de la Federación.
 
-XI. Aportaciones del Gobierno Federal, de los municipios o de terceros, para obras y servicios públicos de beneficio social a cargo del Gobierno del Estado, y
+XI. Aportaciones del Gobierno Federal, de los Municipios y/o de Particulares para obras y servicios públicos de beneficio social a cargo del Gobierno del Estado, y
 
 XII. Otros no especificados.
+
+De conformidad con lo establecido por el Artículo 38 de la Ley de Fraccionamientos del Estado de fecha 15 de junio de 1974, en relación con el artículo Séptimo Transitorio de la Ley de Desarrollo Urbano y Aprovechamiento de Territorio del Estado de Michoacán de Ocampo, cuando las áreas de donación fueren muy pequeñas y de difícil aprovechamiento, la Tesorería del Estado, recaudará su equivalente en moneda nacional, sobre el valor comercial que se determine por perito autorizado o por la propia Tesorería General del Estado.
+
+Cuando se trate de transmisiones que se hagan al Gobierno del Estado, en los términos del artículo 115 fracción I y 131 fracción II de la Ley de Desarrollo Urbano y Aprovechamiento del Territorio del Estado de Michoacán de Ocampo, la Tesorería General en coordinación con la Secretaría de Urbanismo del Gobierno del Estado, comprobará el cumplimiento de esta obligación, con apoyo en los planos autorizados y de conformidad con lo establecido por el artículo 31 de la Ley de Catastro del Estado de Michoacán.
 
 ###### ARTICULO 223.
 
@@ -2248,3 +2254,7 @@ P.O. 24 DE DICIEMBRE DE 1990.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1991.
+
+UNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
