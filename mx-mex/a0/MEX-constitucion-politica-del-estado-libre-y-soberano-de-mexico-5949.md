@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1984-04-30"
+last_updated: "1984-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ABRIL DE 1984.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE NOVIEMBRE DE 1984.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1027,9 +1027,9 @@ III.- Cuidar de que las elecciones constitucionales se celebren dentro del tiemp
 
 IV.- Concurrir ante la Legislatura del Estado el día 20 de enero de cada año, con excepción del que corresponda al año siguiente en que tome posesión del cargo a rendir un informe acerca del estado que guarda la Administración Pública. De la gestión administrativa realizada en los últimos ocho meses de cada sexenio, informará el 5 de septiembre del año respectivo.
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1984)</small>
 
-V.- Presentar cada año a la Legislatura antes del día veinte de diciembre los proyectos de Leyes de Ingresos y Egresos Generales del Estado que deberán regir en el año Fiscal inmediato siguiente; así como la cuenta de gastos del año inmediato anterior que rendirá dentro de los primeros diez días del período ordinario de Sesiones de la propia Legislatura.
+V.- Presentar cada año a la Legislatura antes del día veinte de diciembre, los proyectos de leyes de Ingresos y Egresos generales del Estado, que deberán regir en el año fiscal inmediato siguiente, así como la cuenta de Gastos del año inmediato anterior que rendirá dentro de los primeros diez días del período ordinario de Sesiones que principia el 15 de julio y concluye el 15 de octubre.
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -2437,11 +2437,11 @@ G.G. 31 DE ENERO DE 1973.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado.
 
-G.G. 4 DE JULIO DE 1973.
+G.G. 4 DE ENERO DE 1950.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno", y el período de cuatro años a que se refiere el artículo 44 surtirá efectos a partir de la renovación de la actual H. XXXVII Legislatura Local.
 
 G.G. 2 DE FEBRERO DE 1974.
 
@@ -2610,3 +2610,9 @@ G.G. 30 DE ABRIL DE 1984.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno del Estado".
+
+G.G. 14 DE NOVIEMBRE DE 1984.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
