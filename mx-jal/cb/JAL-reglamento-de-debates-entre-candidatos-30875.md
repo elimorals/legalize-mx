@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-debates-entre-candidatos-30875"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-18"
-last_updated: "1997-10-18"
+last_updated: "2000-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2000.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 18 de octubre de 1997.
 
@@ -35,29 +35,35 @@ De conformidad a lo dispuesto por el articulo 132 fracción XLVII de la Ley Elec
 
 REGLAMENTO
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2000)</small>
+
 ###### Artículo 1.
 
-El presente reglamento tiene por objeto regular el modo de llevar a cabo los debates entre los candidatos a cargos de elección popular que soliciten la intervención del Consejo Electoral del Estado de Jalisco, por conducto de su Pleno u órganos competentes; mismos que servirán para expresar las propuestas de gobierno de los candidatos participantes.
+El presente reglamento tiene por objeto regular la implementación de debates entre los candidatos a cargos de elección popular que soliciten la intervención del Consejo Electoral del Estado de Jalisco, mismos que servirán para expresar las propuestas de gobierno de los candidatos participantes.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2000)</small>
 
 ###### Artículo 2.
 
-En atención a los candidatos a debatir, se otorga competencia a los órganos del Consejo Electoral para que implementen los debates, la cual queda establecida de la siguiente forma:
+La organización de los debates corresponde:
 
-I. La organización de los debates de los candidatos ara el cargo de Gobernador, le corresponderá realizarlo al Pleno del Consejo.
+I.- Al Consejo Electoral del Estado, para el cargo de Gobernador.
 
-II. Los debates de los candidatos para Diputados por el Principio de Representación Proporcional, le corresponderá realizarlo al Pleno del Consejo.
+II.- Al Consejo Electoral del Estado, para Diputados por el Principio de Representación Proporcional.
 
-III. Los debates de los candidatos para Diputados por el Principio de Mayoría Relativa, le corresponderá realizarlo a la Comisión Distrital ante la cual estén registrados.
+III.- A la Comisión Distrital correspondiente, para Diputados por el Principio de Mayoría Relativa.
 
-IV. Los debates de los candidatos a Presidente Municipal, Vicepresidente y Regidor, tendrán competencia concurrente dependiendo de su ubicación:
+IV.- Los debates de los candidatos a Presidente Municipal, Vicepresidente y Regidor, tendrán competencia concurrente dependiendo de la ubicación del municipio:
 
-a) Los candidatos a munícipes de la Zona Metropolitana les corresponderá al Pleno del Consejo o la Comisión Municipal ante la cual estén registrados.
+a).- Al Consejo Electoral del Estado o a la Comisión Municipal correspondiente, los candidatos a municipes de la Zona Metropolitana.
 
-b) Los candidatos a munícipes con excepción de la zona metropolitana, la Comisión Distrital de la comprensión o la Comisión Municipal ante la cual estén registrados.
+b).- A la Comisión Distrital o Comisión Municipal correspondiente, los candidatos a municipes que no estén comprendidos dentro de la Zona Metropolitana.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2000)</small>
 
 ###### Artículo 3.
 
-Los candidatos debidamente registrados a los cargos de: Gobernador, Diputados o Munícipes, por si o a través de representante debidamente acreditado podrán solicitar al Consejo Electoral del Estado o a través del órgano que corresponda, la regulación de los debates.
+Los candidatos debidamente registrados para los cargos de: Gobernador, Diputados o Municipes, por si o a través de representante debidamente acreditado podrán solicitar al Consejo Electoral del Estado o a través del órgano que corresponda, la implementación de debates.
 
 Los candidatos en formato libre podrán acreditar representantes para que intervengan en la organización y realización de los debates.
 
@@ -67,17 +73,21 @@ I. Los debates se darán entre candidatos de diferentes partidos a un mismo carg
 
 II. Sólo que la mayoría de los candidatos acepten debatir y que por escrito se comprometan a sujetarse a las disposiciones de éste reglamento, el órgano competente del Consejo iniciará las gestiones del caso.
 
-III. Los candidatos se comprometen a asistir puntualmente al evento, el día y la hora fijada para el inicio de las actividades. Datos que serán ratificados por escrito por el Secretario del órgano, recabando acuse de recibo con por lo menos 48 horas de anticipación; de no persistir la mayoría el órgano se abstendrá de intervenir.
+III. (DEROGADA, P.O. 29 DE JULIO DE 2000)
 
 IV. El Presidente del órgano competente, será el responsable de invitar a los medios de comunicación y proporcionarles la metodología bajo la cual se desarrollará el evento, misma que deberá ser suscrita por los candidatos o sus representantes.
 
-V. El día del evento, los candidatos deberán comparecer al lugar en que tendrá verificativo, cuando menos con cuarenta y cinco minutos de anticipación, toda vez que dentro de dicho lapso de tiempo se llevaran al cabo los sorteos para determinar el orden de participación de los candidatos en cada una de las rondas y sesiones de preguntas y respuestas.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2000)</small>
+
+V. El día del evento, los candidatos deberán comparecer al lugar en que tendrá verificativo, cuando menos con cuarenta y cinco minutos de anticipación, toda vez que dentro de dicho lapso se llevará a cabo los sorteos para determinar el orden de participación de los candidatos en cada una de las rondas y sesiones de preguntas y respuestas. En el supuesto de que algún candidato debidamente notificado no estuviere presente en el sorteo, y se presentare después de realizado el mismo, este tendrá intervención en el debate, de acuerdo con el orden de la acreditación o registro de su partido ante el Consejo Electoral del Estado.
 
 VI. La exposición de cada uno de los candidatos versará sobre los tres temas previamente acordados y uno libre, con una intervención máxima de cuatro minutos en cada ronda y hasta veinticinco minutos finales de preguntas y respuestas en la que participarán los candidatos asistentes, una vez que todos hayan expuesto el mismo tema.
 
 VII. Durante la sesión de preguntas y respuestas que se abrirá luego de cada ronda de exposición, el moderador concederá el uso de la voz a los candidatos según el orden del sorteo, quienes contarán como máximo con dos minutos para preguntar y responder según el orden.
 
-VIII. A ningún candidato le será permitido apoyarse con equipo audiovisual u otro de cualquier tipo, toda vez que sólo podrán utilizar el recurso de su voz y recibir discretamente tarjetas o notas de sus asesores presentes.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2000)</small>
+
+VIII. A ningún candidato le será permitido apoyarse con equipo audiovisual u otro de cualquier tipo, toda vez que solo podrán utilizar el recurso de su voz.
 
 DE QUIENES PODRAN ASISTIR Y EL ORDEN QUE DEBERAN OBSERVAR
 
@@ -93,37 +103,43 @@ En ningún momento los asistentes tendrán uso de la voz y deberán guardar el o
 
 DEL MODERADOR
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2000)</small>
+
 ###### Artículo 6.
 
-El moderador nombrado, realizará la presentación del evento y explicará la metodología bajo la que se desarrollará y finalmente despedirá el programa.
+El moderador nombrado por el Presidente del Consejo Electoral del Estado o por el Presidente de la Comisión Distrital o Municipal, según sea el caso, realizará la presentación del evento y explicará la metodología bajo la que se desarrollará; así mismo dará por concluido el evento.
 
-Le corresponderá conceder el uso de la voz al candidato que según el orden derivado del sorteo realizado, le corresponda participar; indicar con discreción y de forma inequívoca al candidato en turno, una señal por la que le comunique que le resta un minuto de exposición; y le anuncie al expositor que su tiempo ha terminado solicitándole concluya con el uso de la voz.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2000)</small>
 
 ###### Artículo 7.
 
-Extraordinariamente el moderador podrá solicitar al candidato en turno que se circunscriba al tema y se abstenga de realizar alusiones ofensivas. En caso de que el candidato insista en su conducta, el moderador dará automáticamente por finalizado su tiempo de exposición.
-
-Ante el requerimiento del moderador y para asegurar el orden del evento, el candidato de que se trate, no podrá realizar réplica alguna y deberá continuar con la exposición centrada de su tema.
+El moderador podrá solicitar al candidato en turno que se circunscriba al tema y se abstenga de realizar alusiones ofensivas. En caso de que el candidato insista en su conducta, el moderador dará automáticamente por finalizado su tiempo de exposición.
 
 ###### Artículo 8.
 
-La sanción aplicada a uno de los candidatos, sólo le afectará para la oportunidad de exposición en la que cometió la infracción, por lo que podrá hacer uso de la voz para la exposición de los temas que aun falten.
+(DEROGADO, P.O. 29 DE JULIO DE 2000)
 
 DE LOS REPRESENTANTES DE PRENSA
 
 ###### Artículo 9.
 
-La prensa acreditada que asista al evento tendrá derecho a ingresar al recinto en el que se celebre el debate, pero deberá abstenerse de tomar fotografías durante el desarrollo del mismo con el uso del flash.
-
-De igual manera queda restringido el acceso al foro o escenario en el que se encuentren los candidatos y moderador.
+(DEROGADO, P.O. 29 DE JULIO DE 2000)
 
 DE LOS MEDIOS ELECTRONICOS
 
 ###### Artículo 10.
 
-Sólo participarán activamente en los debates los medios electrónicos que se comprometan a transmitirlos en forma íntegra, es decir sin ediciones o cortes ni imágenes alusivas a las intervenciones de los candidatos, y que utilicen la misma técnica en la iluminación, sonido, tomas, y en general los aspectos inherentes, e igualmente se sometan expresamente a los lineamientos de este reglamento.
+(DEROGADO, P.O. 29 DE JULIO DE 2000)
 
-Las únicas imágenes que podrán insertar siempre que no obstruyan u obstaculicen serán las de los patrocinadores o identificadores del medio; los cortes comerciales sólo podrán realizarse si los debatientes no se encuentran en el uso de la voz; cuando posteriormente pretendan referirse a la intervención de algún candidato deberán reproducir en forma íntegra la misma.
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2000)</small>
+
+DE LOS PATROCINIOS
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2000)</small>
+
+###### Artículo 11.
+
+Los Partidos Políticos acreditados o registrados ante el Consejo Electoral del Estado, no podrán patrocinar ni anunciarse en los medios electrónicos durante la transmisión del evento.
 
 ## TRANSITORIO
 
@@ -138,3 +154,9 @@ Guadalajara, Jal., Octubre 17 de 1997.
 LIC. JOSE DE JESUS REYNOSO LOZA
 
 SECRETARIO EJECUTIVO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE JULIO DE 2000.
+
+UNICO.- Las presentes reformas y adiciones entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
