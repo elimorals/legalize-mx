@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-organismo-descentralizado-16823"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-30"
-last_updated: "2002-02-27"
+last_updated: "2002-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, 30 de junio de 1999.
 
@@ -101,7 +101,9 @@ Dirección de Planeación y Evaluación.
 
 Dirección de Administración.
 
-Departamento de asuntos jurídicos.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2002)</small>
+
+Subdirección Jurídica.
 
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2002)</small>
 
@@ -327,6 +329,14 @@ DIRECCIÓN GENERAL
 
 - Unidad de Progresa.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2002)</small>
+
+Subdirección Jurídica
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2002)</small>
+
+Departamento Contencioso Administrativo
+
 Departamento de Asuntos Jurídicos
 
 - Comisaría de la Contraloría en los servicios de Salud de Morelos
@@ -439,6 +449,10 @@ Departamento de Servicios Generales
 
 Departamento de Adquisiciones
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2002)</small>
+
+Subdirección de Almacenes y Control de Abasto
+
 Departamento de Almacenes y Abastecimiento
 
 Departamento de Obras Conservación y Mantenimiento
@@ -535,9 +549,11 @@ IX.- Impulsar la organización y participación de los municipios y localidades 
 
 X.- Establecer el sistema de información y elaborar informes bimestrales y trimestrales sobre el avance y resultados del componente de salud y alimentación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 25.
 
-El Departamento Jurídico tendrá a su cargo las atribuciones específicas siguientes:
+La Subdirección Jurídica tendrá a su cargo las atribuciones específicas siguientes:
 
 I.- Representar al Organismo Público Descentralizado y a sus servidores públicos cuando sean parte en juicios y en todo procedimiento judicial, por actos derivados del servicio, de conformidad con la legislación aplicable;
 
@@ -1148,5 +1164,9 @@ RÚBRICAS
 P.O. 27 DE FEBRERO DE 2002.
 
 ÚNICO.- Las presentes Modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" del Gobierno del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2002.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano informativo del Gobierno del Estado.
 
 ### CAPÍTULO X. DE LAS MODIFICACIONES AL REGLAMENTO
