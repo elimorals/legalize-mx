@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1946-03-09"
+last_updated: "1947-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE MARZO DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ENERO DE 1947.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -1607,6 +1607,8 @@ Las drogas enervantes, las substancias, aparatos y demás objetos que se emplear
 
 ### CAPITULO VII. Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones o uniformes
 
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 1947)</small>
+
 ## TITULO DECIMO. Delitos cometidos por funcionarios públicos
 
 ### CAPITULO VIII. Disposiciones comunes a los capítulos precedentes
@@ -2133,13 +2135,25 @@ III.- Al funcionario o empleado público que, en los actos propios de su cargo, 
 
 ###### ARTICULO 250.
 
-Se sancionará con prisión de un mes a tres años y multa de diez a mil pesos:
+Se sancionará con prisión de un mes a cinco años y multa de diez a diez mil pesos:
 
 I.- Al que, sin ser funcionario público, se atribuya ese carácter y ejerza alguna de las funciones de tal;
 
-II.- Al que se atribuya el carácter de profesionista sin tener título legal y ejerza los actos propios de la profesión, y
+II.- Al que sin tener título profesional o autorización para ejercer alguna profesión reglamentada expedidos por autoridades u organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del artículo 4°. constitucional:
 
-III.- Al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho.
+a).- Se atribuya el carácter de profesionista.
+
+b).- Realice actos propios de una actividad profesional, con excepción de lo previsto en el 3er. párrafo del artículo 26 de la Ley Reglamentaria de los Artículos 4º. y 5º. Constitucionales.
+
+c).- Ofrezca públicamente sus servicios como profesionista.
+
+d).- Use un título o autorización para ejercer alguna actividad profesional sin tener derecho a ello.
+
+e).- Con objeto de lucrar, se una a profesionistas legalmente autorizados con fines de ejercicio profesional o administre alguna asociación profesional.
+
+III.- Al extranjero que ejerza una profesión reglamentada sin tener autorización de autoridad competente o después de vencido el plazo que aquélla le hubiere concedido.
+
+IV.- Al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho.
 
 ###### ARTICULO 251.
 
@@ -3318,3 +3332,7 @@ DECRETO QUE REFORMA EL ARTÍCULO 85 Y 366 FRACCION V DEL CODIGO PENAL PARA EL DI
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 30 DE ENERO DE 1947.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
