@@ -4,7 +4,7 @@ identifier: "ROO-decreto-por-el-cual-se-crea-el-colegio-de-bachilleres-del-7216"
 country: "mx"
 rank: "decreto"
 publication_date: "1980-08-30"
-last_updated: "1980-08-30"
+last_updated: "2002-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ROO"
 
 DECRETO POR EL CUAL SE CREA EL COLEGIO DE BACHILLERES DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2002.
 
-Decreto publicado en el Periódico Oficial del Estado de Quintana Roo, el 30 de agosto de 1980.
+Decreto publicado en el Periódico Oficial del Estado de Quintana Roo, el 30 de agosto de 1980
 
 DECRETO NUMERO: 95
 
@@ -39,23 +39,33 @@ DECRETA:
 
 Se crea el Colegio de Bachilleres del Estado de Quintana Roo, como organismo público descentralizado, con personalidad jurídica y patrimonio propios y con domicilio en la ciudad de Chetumal, Quintana Roo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2002)</small>
+
 ###### ARTICULO 2o.
 
-El Colegio de Bachilleres del Estado de Quintana Roo, tendrá por objeto impartir e impulsar la educación correspondiente al ciclo superior de nivel medio y tendrá las siguientes facultades:
+El Colegio de Bachilleres del Estado de Quintana Roo, tendrá por objeto impartir la educación correspondiente al tipo medio superior y tendrá las siguientes facultades:
 
 I.- Establecer, promover, organizar, administrar y sostener planteles en los lugares del Estado que estime conveniente.
 
-II.- Impartir educación del mismo ciclo a través de las modalidades escolares y extraescolares.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+II.- Impartir educación del tipo medio superior, en las distintas modalidades.
 
 III.- Expedir certificados de estudio y otorgar Diplomas y Títulos académicos.
 
-IV.- Otorgar o retirar reconocimiento de validez oficial a estudios realizados en los planteles a que se refiere la fracción I del presente artículo, que impartan el mismo ciclo de enseñanza.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
 
-V.- Ejercer las demás que sean afines con las anteriores.
+IV.- Otorgar o retirar reconocimiento de validez oficial a estudios realizados en los planteles a que se refiere la fracción I del presente artículo, que impartan el mismo tipo de enseñanza; y
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+V.- Ejercer las demás que le otorguen las diversas normas y lineamientos aplicables.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 3o.
 
-El Colegio de Bachilleres del Estado de Quintana Roo, se regirá por lo dispuesto en la Ley Federal de Educación, Constitución Política del Estado de Quintana Roo, las normas que de éstas emanen y por los planes de Organización académica del Colegio de Bachilleres de la Ciudad de México.
+El Colegio de Bachilleres del Estado de Quintana Roo, se regirá por lo dispuesto por la Constitución Política del Estado de Quintana Roo, Ley General de Educación, Ley de Educación del Estado, por los Planes y Asistencia Académica, Técnica y Pedagógica que expida la Secretaría de Educación Pública.
 
 ###### ARTICULO 4o.
 
@@ -69,77 +79,103 @@ III.- Los ingresos que obtengan por los servicios que preste; y
 
 IV.- Los bienes y demás ingresos que adquiera por cualquier título Legal.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
+
 ###### ARTICULO 5o.
 
-Serán órganos de Gobierno del Colegio de Bachilleres del Estado de Quintana Roo:
+El Colegio de Bachilleres del Estado de Quintana Roo, tendrá como órganos de gobierno:
 
-I.- La Junta Directiva.
+I.- Una H. Junta Directiva.
 
-II.- El Patronato.
+II.- Un Director General; y
 
-III.- El Director General.
-
-IV.- El Consejo Consultivo de Directores.
-
-V.- Los Directores de cada uno de los planteles que establezca el Colegio.
+III.- Un Consejo Consultivo de Directores.
 
 ###### ARTICULO 6o.
 
-Los acuerdos de los órganos colegiados de la Institución se tomarán por mayoría de votos y el quórum se integrará con las asistencias de la mitad más uno de sus miembros en caso de empate el Presidente tendrá voto de calidad.
+Los acuerdos de los órganos colegiados de la Institución se tomarán por mayoría de votos y el quorum se integrará con las asistencias de la mitad más uno de sus miembros en caso de empate el Presidente tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 7o.
 
-La Junta Directa estará integrada por el Secretario de Educación Pública y Cultura Popular, el Delegado General de la Secretaría de Educación Pública en la Entidad y tres miembros nombrados por el Gobernador del Estado; dicha junta, será presidida permanentemente por el que éste designe.
+La H. Junta Directa estará integrada por:
+
+I.- Tres representantes del Gobierno del Estado, uno de los cuales será el Gobernador del Estado, quien será el Presidente y los otros dos serán los titulares de la Secretaría de Educación y Cultura y de la Secretaría de Hacienda.
+
+II.- Dos representantes del Gobierno Federal, designados por el Secretario de Educación Pública, uno de los cuales será el representante en el Estado.
+
+III.- Un representante del sector social del Estado, designado por el titular del Poder Ejecutivo Estatal.
+
+IV.- Dos representantes del sector productivo del Estado, nombrados por el titular del Poder Ejecutivo Estatal y que sean miembros del patronato constituido para apoyar la operación financiera del Colegio.
+
+Las ausencias del Presidente serán suplidas por el titular de la Secretaría de Educación y Cultura con las facultades inherentes al cargo. Los demás miembros integrantes serán suplidos por la persona que para tal efecto designen.
+
+El Director General del Colegio será designado o removido de su cargo por el Gobernador del Estado, con la ratificación de la H. Junta Directiva y podrá participar en las sesiones de la misma con voz pero sin voto.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 8o.
 
-Los miembros que designe el Ejecutivo del Estado, podrán ser removidos libremente por éste y deberán satisfacer los siguientes requisitos:
-
-I.- Ser Ciudadano Mexicano.
-
-II.- Poseer Título a nivel Licenciatura o su equivalente.
-
-III.- Tener experiencia académica.
-
-IV.- Ser de reconocida solvencia moral.
+La H. Junta Directiva sesionará en forma ordinaria cuatro veces al año, mediante convocatoria de su Presidente o su suplente; también sesionará en forma extraordinaria cuando así lo juzgue conveniente su Presidente o suplente, o a solicitud expresa del Director General o de las dos terceras partes de sus miembros integrantes.
 
 ###### ARTICULO 9o.
 
-El Ejecutivo del Estado, nombrará cuando lo estime necesario, mayor número de integrantes de la Junta Directiva y estará facultado para removerlos libremente.
+(DEROGADO, P.O. 15 DE MAYO DE 2002).
 
 ###### ARTICULO 10o.
 
 Corresponde a la Junta Directiva:
 
-I.- Autorizar el Presupuesto anual de Ingresos y Egresos del Colegio y vigilar su ejercicio.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+I.- Aprobar el proyecto de presupuesto anual de ingresos y egresos del Colegio y vigilar su ejercicio.
 
 II.- Determinar las cuotas que deban cobrarse por los servicios educativos que preste.
 
-III.- Aprobar planes y programas de estudios y modalidades educativas que a su consideración someta el Director General.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
 
-IV.- Resolver acerca de la conveniencia de establecer planteles designados a impartir educación correspondiente al ciclo Superior de Nivel Medio.
+III.- Aprobar planes, programas de estudios y modalidades educativas que a su consideración someta el Director General, en coordinación con la instancia educativa federal.
 
-V.- Determinar las bases conforme a las cuales podrán otorgar reconocimiento de validez oficial de estudios realizados en establecimientos particulares, que impartan el mismo ciclo de enseñanza.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
 
-VI.- Dictar las disposiciones necesarias para revalidar y establecer equivalencias de estudios realizados en Instituciones Nacionales o Extranjeras que impartan el mismo ciclo educativo.
+IV.- Resolver acerca de la conveniencia de establecer planteles designados a impartir educación correspondiente al tipo medio superior.
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+V.- Determinar las bases conforme a las cuales podrá el Colegio otorgar reconocimiento de validez oficial de estudios, realizados en instituciones particulares que impartan el mismo tipo de enseñanza.
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+VI.- Dictar las disposiciones necesarias para revalidar y establecer equivalencias de estudios realizados en instituciones nacionales o extranjeras que impartan el mismo tipo educativo.
 
 VII.- Nombrar a los miembros del Patronato y removerlos por causa justificada.
 
-VIII.- Nombrar y remover el Director General para lo cual se requerirá mayoría de votos.
+VIII.- (DEROGADA, P.O. 15 DE MAYO DE 2002).
 
-IX.- Designar al Auditor a que se refiere la fracción VI del Artículo 12 de este ordenamiento.
+IX.- (DEROGADA, P.O. 15 DE MAYO DE 2002).
 
-X.- Autorizar los nombramientos que haga el Director General a favor de los Directores de planteles y removerlos por causa justificada.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
 
-XI.- Expedir normas y disposiciones reglamentarias para la mejor organización y funcionamiento técnico, docente y administrativo del Colegio.
+X.- Nombrar a los Directores de los Planteles a propuesta del Director General, así como su remoción por causa justificada.
 
-XII.- Conocer y resolver los asuntos que no sean de la competencia de ningún otro órgano.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
 
-XIII.- Ejercer las demás facultades que le confiere esta Ley y las normas y disposiciones reglamentarias del Colegio.
+XI.- Expedir y aprobar el Reglamento Interno del Colegio, así como las normas, disposiciones reglamentarias y acuerdos para la mejor organización y funcionamiento técnico, docente y administrativo.
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XII.- Conocer y resolver en definitiva, como última instancia, cualquier conflicto que se suscite entre las diferentes autoridades del Colegio.
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XIII.- Ejercer las demás facultades que le confiere el presente Decreto, así como las normas, disposiciones reglamentarias y acuerdos.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 11o.
 
-El Patronato estará integrado por un Presidente, un Vicepresidente, un Secretario y tres Vocales, los miembros del patronato serán de reconocida solvencia moral, se les designará por tiempo indefinido y desempeñarán su cargo con carácter honorario.
+El Colegio contará con un Patronato sin fines lucrativos como órgano de apoyo financiero, el cual estará integrado por un Presidente, un Vicepresidente, un Tesorero General, un Secretario y tres vocales; los miembros del Patronato serán de reconocida solvencia moral, el cargo será honorífico y por tiempo indefinido.
 
 ###### ARTICULO 12o.
 
@@ -147,39 +183,99 @@ Corresponde al patronato:
 
 I.- Obtener los ingresos para el sostenimiento del Colegio.
 
-II.- Organizar planes para arbitrar fondos al Colegio.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+II.- Organizar planes para obtener recursos a favor del Colegio.
 
 III.- Adquirir los bienes que se requieran para las actividades del Colegio.
 
-IV.- Acrecentar y acrecentar el Patrimonio del Colegio.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
 
-V.- Formular un proyecto de presupuesto anual de ingresos y egresos del Colegio y presentarlos a la consideración del Director General, quien lo someterá a la Junta Directiva para su aprobación.
+IV.- Acrecentar el patrimonio del Colegio.
 
-VI.- Presentar a la Junta Directiva dentro de los tres primeros meses a partir de la fecha en que concluya el ejercicio presupuestal, los estados financieros con el dictamen del Auditor nombrada por aquélla.
+V.- (DEROGADA, P.O. 15 DE MAYO DE 2002).
 
-VII.- Designar el Tesorero General.
+VI.- (DEROGADA, P.O. 15 DE MAYO DE 2002).
 
-VIII.- Nombrar el personal para la supervisión de los asuntos financieros del Colegio, y
+VII.- (DEROGADA, P.O. 15 DE MAYO DE 2002).
+
+VIII.- (DEROGADA, P.O. 15 DE MAYO DE 2002).
 
 IX.- Ejercer las demás facultades que le confiere este ordenamiento y las normas y disposiciones reglamentarias del Colegio.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
+
 ###### ARTICULO 13o.
 
-El Director General será el representante legal del Colegio y deberá llenar los requisitos a que se refiere el artículo 8 de esta Ley, durará en su cargo cuatro años pudiendo ser reelecto.
+El Director General será el representante legal del Colegio, durará en su cargo cuatro años, pudiendo ser confirmado para un segundo período por el mismo lapso; ejercerá actos de dominio, de administración y para pleitos y cobranzas incluyendo aquellos en materia laboral, administrativa y mercantil, así como en juicios civiles, penales y de amparo en que el Colegio sea parte, con todas las facultades generales y las especiales. Para los actos de dominio que tengan por objeto la compra o enajenación de inmuebles en los términos que apruebe o instruya previamente y por escrito la H. Junta Directiva.
+
+Para ser Director General se deberán cubrir los siguientes requisitos:
+
+I.- Ser ciudadano mexicano.
+
+II.- Poseer como mínimo título profesional.
+
+III.- Tener experiencia académica.
+
+IV.- Ser de reconocida solvencia moral.
 
 ###### ARTICULO 14o.
 
 Son facultades y obligaciones del Director General:
 
-I.- Presentar a la Junta Directiva, el proyecto del presupuesto anual de ingresos y egresos del Colegio.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+I.- Presentar a la H. Junta Directiva, el proyecto del Presupuesto anual de ingresos y egresos del Colegio.
 
 II.- Cumplir y hacer cumplir las normas y disposiciones reglamentarias del Colegio.
 
-III.- Presentar a la Junta Directiva, en la última sesión del ejercicio escolar, informe de las actividades del Colegio realizadas durante el año anterior.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
 
-IV.- Nombrar y remover a los Directores Funcionarios, Personal Docente y Administrativo de los Planteles, con la autorización de la Junta Directiva.
+III.- Presentar a la H. Junta Directiva, en la última sesión del ejercicio escolar, informe de las actividades del Colegio realizadas durante el año anterior.
 
-V.- Las demás que le señale este ordenamiento y las normas y disposiciones reglamentarias del Colegio.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+IV.- Nombrar y remover a los directores, funcionarios, personal docente y administrativo de los planteles, con la autorización de la H. Junta Directiva.
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+V.- Otorgar y revocar poderes generales para pleitos y cobranzas, así como poderes especiales a favor de terceras personas.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+VI.- Convocar y presidir las reuniones de los órganos internos del Colegio.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+VII.- Aprobar los manuales de organización y de procedimientos del Colegio.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+VIII.- Supervisar y evaluar periódicamente el cumplimiento y avance de los objetivos y metas de los planes y programas de trabajo institucionales y tomar las medidas necesarias para su consecución.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+IX.- Supervisar y procurar una estrecha vinculación y coordinación entre los diversos planteles y áreas administrativas del Colegio, con el fin de optimizar el objeto y las metas del mismo.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+X.- Celebrar convenios de cualquier índole relacionados con el objeto del Colegio, así como los necesarios para el intercambio de planes y programas ofrecidos por el mismo, con los de otras instituciones u organizaciones públicas o privadas, nacionales o extranjeras.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XI.- Gestionar y tramitar las aportaciones extraordinarias o asignaciones que se requieran para el funcionamiento del Colegio.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XII.- Promover la participación del Colegio y representarlo en los diversos actos relacionados con su objeto.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XIII.- Promover la difusión pertinente de los resultados alcanzados por el Colegio; y
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XIV.- Las demás facultades que le señale este ordenamiento y las normas y disposiciones reglamentarias del Colegio.
 
 ###### ARTICULO 15o.
 
@@ -201,13 +297,11 @@ IV.- Las demás facultades que le señale este ordenamiento y las normas y dispo
 
 En las normas y disposiciones reglamentarias que expida la Junta Directiva, se establecerán las Facultades y obligaciones de los Directores de Planteles.
 
-###### ARTICULO 18o.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
 
-El personal Académico presentará sus servicios mediante nombramiento, con carácter definitivo o interino, los nombramientos interinos deberán hacerse para un plazo no mayor de un período lectivo.
+###### ARTICULO 18.
 
-Los nombramientos definitivos se obtendrán mediante concursos de oposición o por procedimientos igualmente idóneos para comprobar la capacidad académica de los candidatos debiendo cumplir como requisito mínimo el de poseer título de Normal Superior o Carta de Pasante a nivel de Licenciatura.
-
-Cuando por los programas de trabajo se requiera aumento de Personal académico, o sea declarado desierto un concurso de oposición, el Director General podrá proponer el nombramiento de personal para la presentación de esos servicios.
+El personal administrativo de confianza y los trabajadores de base prestarán sus servicios mediante nombramiento con carácter definitivo, interino, provisional, por tiempo fijo o por obra determinada y conforme, en su caso, a las Condiciones Generales de Trabajo del Colegio.
 
 ###### ARTICULO 19o.
 
@@ -217,10 +311,48 @@ El Director General hará en los términos de las normas y disposiciones reglame
 
 Las Asociaciones de Alumnos que se constituya en los planteles serán independientes de los órganos del Colegio de Bachilleres y se organizarán democráticamente en las formas que los mismos estudiantes determinen.
 
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2002)</small>
+
+###### ARTICULO 21.
+
+Serán alumnos de los planteles, quienes cumplan con los procedimientos y requisitos de selección e ingreso y sean admitidos a cualquiera de los cursos y grados que se impartan, así como aquellos considerados como regulares de conformidad al cumplimiento y aprobación de las asignaturas de su programa respectivo, teniendo los derechos y obligaciones establecidas en las disposiciones reglamentarias que expida el Colegio.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2002)</small>
+
+###### ARTICULO 22.
+
+El Colegio de Bachilleres del Estado de Quintana Roo, contará con un Comisario, propuesto por el titular de la Secretaría de la Contraloría del Estado a la H. Junta Directiva para su nombramiento; podrá participar en las sesiones de la H. Junta Directiva con voz pero sin voto.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2002)</small>
+
+###### ARTICULO 23.
+
+El Comisario del Colegio tendrá las siguientes facultades:
+
+I.- Inspeccionar y evaluar el ejercicio del gasto del Colegio y su congruencia con el presupuesto de egresos.
+
+II.- Vigilar y supervisar el cumplimiento de las normas de control y de evaluación de su competencia, así como asesorar y apoyar a los órganos de control interno.
+
+III.- Establecer y dictar las bases generales para la realización de las auditorías e inspecciones.
+
+IV.- Inspeccionar y vigilar directamente o a través de los órganos de control interno, el cumplimiento de las normas y disposiciones en materia del sistema de registros y contabilidad, ingresos propios, contratación y pago de personal, contratación de servicios, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación, baja de bienes y demás activos y recursos materiales.
+
+V.- Vigilar y fiscalizar en los términos de los convenios respectivos, que los recursos federales y estatales, se ejerzan y se apliquen conforme a lo estipulado en los mismos; y
+
+VI.- Las demás que le señalen este Decreto y los reglamentos respectivos.
+
 TRANSITORIO:
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
 
 DADO en el Salón de Sesiones de la H. II Legislatura Constitucional, en la Ciudad de Chetumal Capital del Estado de Quintana Roo, a los veintisiete días del mes de agosto de mil novecientos ochenta.- DIPUTADA PRESIDENTE, FARIDE CHELUJA PEREZ.- RUBRICA.- DIPUTADO SECRETARIO, GERMAN GARCIA PADILLA.
 
-DADO en la residencia del Poder Ejecutivo del Estado, en la ciudad de Chetumal capital de Quintana Roo, a los veintiocho días del mes de agosto del año de mil novecientos ochenta.- EL GOBERNADOR CONSTITUCIONAL DEL EDO, LIC. JESUS MARTINEZ ROSS.- RUBRICA.- EL SECRETRIO(SIC) DE GOBIERNO, LIC. JOSE IRABIEN MEDINA.- RUBRICA.
+DADO en la residencia del Poder Ejecutivo del Estado, en la ciudad de Chetumal capital de Quintana Roo, a los veintiocho días del mes de agosto del año de mil novecientos ochenta.- EL GOBERNADOR CONSTITUCIONAL DEL EDO, LIC. JESUS MARTINEZ ROSS.- RUBRICA.- EL SECRETRIO (SIC) DE GOBIERNO, LIC. JOSE IRABIEN MEDINA.- RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE MAYO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto de modificación, adición y derogación entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
