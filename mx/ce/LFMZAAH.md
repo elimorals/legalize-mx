@@ -4,7 +4,7 @@ identifier: "LFMZAAH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-05-06"
-last_updated: "1984-11-26"
+last_updated: "1986-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=407&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFMZAAH"
 
 LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLOGICOS, ARTISTICOS E HISTORICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE NOVIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1986.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 6 de mayo de 1972.
 
@@ -214,6 +214,10 @@ Son propiedad de la Nación, inalienables e imprescriptibles, los monumentos arq
 
 Son monumentos arqueológicos los bienes muebles e inmuebles, producto de culturas anteriores al establecimiento de la hispánica en el territorio nacional, así como los restos humanos, de la flora y de la fauna, relacionados con esas culturas.
 
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1986)</small>
+
+ARTICULO 28 BIS.- Para los efectos de esta Ley y de su Reglamento, las disposiciones sobre monumentos y zonas arqueológicos serán aplicables a los vestigios o restos fósiles de seres orgánicos que habitaron el territorio nacional en épocas pretéritas y cuya investigación, conservación, restauración, recuperación o utilización revistan interés paleontológico, circunstancia que deberá consignarse en la respectiva declaratoria que expedirá el Presidente de la República.
+
 ###### ARTICULO 29.
 
 Los monumentos arqueológicos muebles no podrán ser transportados, exhibidos o reproducidos sin permiso del Instituto competente. El que encuentre bienes arqueológicos deberá dar aviso a la autoridad civil más cercana. La autoridad correspondiente expedirá la constancia oficial del aviso, o entrega en su caso, y deberá informar al Instituto Nacional de Antropología e Historia, dentro de las 24 horas siguientes, para que éste determine lo que corresponda.
@@ -350,9 +354,13 @@ Para los efectos de competencia, el carácter arqueológico de un bien tiene pri
 
 De las Sanciones.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 47.
 
 Al que realice trabajos materiales de exploración arqueológica, por excavación, remoción o por cualquier otro medio, en monumentos arqueológicos inmuebles, o en zonas de monumentos arqueológicos, sin la autorización del Instituto Nacional de Antropología e Historia, se le impondrá prisión de uno a diez años y multa de cien a diez mil pesos.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 48.
 
@@ -360,13 +368,19 @@ Al que valiéndose del cargo o comisión del Instituto Nacional de Antropología
 
 Si los delitos previstos en esta Ley, los cometen funcionarios encargados de la aplicación de la misma, las sanciones relativas se les aplicarán independientemente de las que les correspondan conforme a la Ley de Responsabilidades de Funcionarios y Empleados Públicos.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 49.
 
 Al que efectúe cualquier acto traslativo de dominio de un monumento arqueológico mueble o comercie con él y al que lo transporte, exhiba o reproduzca sin el permiso y la inscripción correspondiente, se le impondrá prisión de uno a diez años y multa de mil a quince mil pesos.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 50.
 
 Al que ilegalmente tenga en su poder un monumento arqueológico o un monumento histórico mueble y que éste se haya encontrado en o que proceda de un inmueble a los que se refiere la fracción I del artículo 36, se le impondrá prisión de uno a seis años y multa de cien a cincuenta mil pesos.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 51.
 
@@ -377,6 +391,8 @@ Al que se apodere de un monumento mueble arqueológico, histórico o artístico 
 Al que por medio de incendio, inundación o explosión dañe o destruya un monumento arqueológico, artístico o histórico, se le impondrá prisión de dos a diez años y multa hasta por el valor del daño causado.
 
 Al que por cualquier otro medio dañe o destruya un monumento arqueológico, artístico o histórico, se le impondrá prisión de uno a diez años y multa hasta por el valor del daño causado.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 53.
 
@@ -393,6 +409,8 @@ Para resolver sobre reincidencia y habitualidad se estará a los principios del 
 Los traficantes de monumentos arqueológicos serán considerados delincuentes habituales para los efectos de esta Ley.
 
 La graduación de las sanciones a que esta Ley se refiere se hará tomando en cuenta la educación, las costumbres y la conducta del sujeto, sus condiciones económicas y los motivos y circunstancias que lo impulsaron a delinquir.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 55.
 
@@ -435,3 +453,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 D.O.F. 26 DE NOVIEMBRE DE 1984.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE ENERO DE 1986.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
