@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-poder-judicial-para-la-aplicacion-de-la-ley-1880
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-10"
-last_updated: "2000-11-10"
+last_updated: "2002-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO DEL PODER JUDICIAL PARA LA APLICACION DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 10 de noviembre de 2000.
 
@@ -119,9 +119,11 @@ III. Examinar y proponer reformas a los ordenamientos vinculados con sus funcion
 
 IV. Conocer de los asuntos relacionados con algún acto de adquisición, enajenación, arrendamiento, contratación de servicios, donación, comodato o disposición de algún bien que forme parte del patrimonio de la institución.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 12.
 
-El Comité podrá aclarar o modificar las bases de la licitación o invitación restringida que convoque, a partir de este acto y hasta la junta de aclaraciones, siempre y cuando no se alteren las condiciones, características y especificaciones esenciales de los bienes o servicios requeridos, debiendo comunicar esto oportunamente a los interesados.
+El Comité podrá aclarar o modificar las bases de la licitación o invitación restringida que convoque, a partir de este acto y hasta la junta de aclaraciones.
 
 ###### ARTICULO 13.
 
@@ -131,9 +133,11 @@ La asistencia de los proveedores a la junta de aclaraciones será opcional, pero
 
 El acto de recepción de propuestas se verificará en el lugar y tiempo que determine el Comité en la convocatoria respectiva, quedando excluido de toda participación el proveedor que no se apegue a estas condiciones.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 15.
 
-Las propuestas técnicas y económicas, así como los sobres que las contengan, serán firmadas por los proveedores, integrantes del Comité y el representante del órgano de control interno, conforme a las etapas del procedimiento de que se trate.
+Las propuestas técnicas y económicas, así como los sobres que las contengan, serán firmadas por los integrantes del Comité y el representante del órgano de control interno, conforme a las etapas del procedimiento de que se trate.
 
 ###### ARTICULO 16.
 
@@ -147,9 +151,11 @@ La forma de evaluar las propuestas técnicas de los proveedores será indicando:
 
 Las propuestas técnicas y económicas, así como los dictámenes que con respecto a éstas se emitan, serán siempre examinados y sometidos a votación por el Comité, quien podrá auxiliarse por especialistas de la materia de que se trate para orientar su criterio.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 19.
 
-El plazo para la apertura de propuestas económicas será determinado a criterio del Comité, sin que exceda de 5 días hábiles contados a partir de que se comunique el resultado del dictamen técnico.
+El plazo para la apertura de propuestas económicas será determinado a criterio del Comité, sin que exceda de 7 días hábiles contados a partir de que se comunique el resultado del dictamen técnico.
 
 ###### ARTICULO 20.
 
@@ -267,9 +273,11 @@ Cuando existan razones justificadas para la adquisición o arrendamiento de bien
 
 ### Capítulo II. Invitación Restringida
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 38.
 
-La invitación restringida se hará a cuando menos tres proveedores, a través del Departamento de Adquisiciones de Oficialía Mayor y previa evaluación que de sus antecedentes comerciales realice el Comité, debiendo los interesados estar registrados en el padrón de proveedores del Poder Judicial para poder participar.
+La invitación restringida se realizará a cuando menos tres proveedores, a través del Departamento de Adquisiciones de Oficialía Mayor; en tratándose de concursantes no registrados en el padrón de proveedores, deberá solicitarse a éstos curricula para ponderar la pertinencia de invitarlos o no a concursar, sin perjuicio de que el Comité confirme la información curricular proporcionada.
 
 ###### ARTICULO 39.
 
@@ -391,7 +399,9 @@ I. Si no se registran por los menos dos concursantes en el acto de apertura de p
 
 II. Si al abrir los expedientes de documentación presentada no se encuentran por lo menos dos que cumplan los requisitos de documentación legal solicitada.
 
-III. Si en la evaluación técnica se advierte que ningún proveedor cumple las condiciones exigidas en la convocatoria y bases de la licitación o concurso por invitación restringida.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2002)</small>
+
+III. Si en la evaluación económica no existen al menos dos proveedores que cumplan las condiciones exigidas en la convocatoria y bases de la licitación o concurso por invitación restringida.
 
 IV. Si en la evaluación económica no fuese posible adjudicar los contratos a ningún proveedor porque no cumplen las condiciones exigidas en la convocatoria y bases de la licitación o concurso por invitación restringida.
 
@@ -409,7 +419,9 @@ II. Cuando por razones presupuestales, no sea posible el cumplimiento de pago de
 
 III. Cuando se compruebe la existencia de cualquier tipo de arreglo entre concursantes en perjuicio de los intereses representados por el Comité.
 
-IV. Cuando se acredite la existencia de irregularidades graves, siempre y cuando no quede por lo menos un concursante que no se hubiese descalificado o bien, cuando existan circunstancias que pudieran afectar los intereses de la convocante o que la prestación del servicio, arrendamiento o bienes que se pretenden adquirir deje de ser necesaria.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2002)</small>
+
+IV. Cuando existan circunstancias, debidamente justificadas, que provoquen la extinción de la necesidad para adquirir o arrendar los bienes o contratar la prestación de los servicios, y que de continuar con el procedimiento de contratación se pudieran ocasionar daños y perjuicios a la convocante.
 
 ## TITULO OCTAVO. DEL PROCEDIMIENTO DE INCONFORMIDAD
 
@@ -452,3 +464,9 @@ SEGUNDO.- Los procedimientos de adquisiciones, enajenaciones, arrendamientos y c
 TERCERO.- Se ratifica la eficacia jurídica de las acciones y contrataciones previas a la entrada en vigor del presente Reglamento, desarrolladas por el Comité que de manera provisional fuera nombrado por la Presidencia del Tribunal Superior de Justicia del Estado, en uso de las facultades que la Ley Orgánica del Poder Judicial le confiere.
 
 DADO EN EL RECINTO OFICIAL DEL PODER JUDICIAL, EN LA CIUDAD DE SANTIAGO DE QUERETARO, ESTADO DE QUERETARO, EN LA SESION PLENARIA DEL DIA 20 VEINTE DEL MES DE OCTUBRE DEL AÑO 2000 DOS MIL. APROBADO POR UNANIMIDAD POR LOS MAGISTRADOS LICENCIADOS ARACELI AGUAYO HERNANDEZ, MARIA ELISA RENTERIA MORENO, CELIA MAYA GARCIA, J. JESÚS CASTELLANOS MALO, GONZALO AGUIRRE FUENTES, ARTURO GONZALEZ DE COSIO FRIAS, FRANCISCO D. CHOWELL FERNANDEZ, JESUS GARDUÑO SALAZAR Y JUAN MANUEL ZEPEDA GARRIDO, CON AUSENCIA DEL LIC. SERGIO HERRERA TREJO Y DE CONFORMIDAD CON EL ARTICULO 12 DE LA LEY ORGANICA DEL PODER JUDICIAL, FUNGIENDO COMO PRESIDENTE LA PRIMERA DE LAS NOMBRADAS Y COMO SECRETARIA DE ACUERDOS LA LIC. NOEMÍ PALACIOS CAMACHO. (Rúbricas).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE OCTUBRE DE 2002.
+
+ÚNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
