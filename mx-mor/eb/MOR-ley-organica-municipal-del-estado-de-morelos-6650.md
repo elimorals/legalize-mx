@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-6650"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-11-04"
-last_updated: "2000-09-06"
+last_updated: "2000-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2000.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos el 4 de noviembre de 1992.
 
@@ -1337,6 +1337,10 @@ Los Ayuntamientos no podrán comprometer los ingresos del municipio respecto de 
 
 La cuenta pública anual de cada municipio se formará, rendirá y aprobará conforme a las disposiciones de la Constitución Política del Estado; si no se otorgare el finiquito correspondiente, se estará a lo dispuesto en el Título Séptimo de la Constitución local y a lo que dispone la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
 
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+
+Cuando se trate del término de un período constitucional, la administración municipal saliente aprobará su cuenta pública, correspondiente al período de enero a octubre, dentro de los últimos diez días del mes de octubre del año en que concluyan dicho período constitucional, conforme a lo previsto por el artículo 32 de la Constitución Política Local.
+
 ###### Artículo 109.
 
 (DEROGADO, P.O. 9 DE AGOSTO DE 2000)
@@ -1985,7 +1989,7 @@ Decretada la revocación, se procederá en los términos del último párrafo de
 
 La declaración de desaparición de Ayuntamientos, la suspensión definitiva de un Ayuntamiento en su totalidad, la suspensión definitiva de uno de los miembros del Ayuntamiento en lo particular o la revocación del mandato conferido a alguno de los integrantes del Ayuntamiento, procederá a solicitud del Ejecutivo del Estado, conforme a lo dispuesto por el artículo 70 fracción XXVII de la Constitución Política local.
 
-### CAPITULO II. DEL PROCEDIMIENTO
+### CAPITULO III. DEL CONCEJO MUNICIPAL
 
 ###### Artículo 196.
 
@@ -2003,7 +2007,7 @@ IV.- Desahogada la audiencia, la Comisión deberá emitir su dictamen, el que se
 
 En caso de que los interesados no asistan a la audiencia a que se refiere el artículo anterior, se tendrá por precluido su derecho y por presuntivamente ciertos los hechos que se les imputen.
 
-### CAPITULO III. DEL CONCEJO MUNICIPAL
+### CAPITULO II. DEL PROCEDIMIENTO
 
 ###### Artículo 198.
 
@@ -2128,3 +2132,13 @@ SEGUNDO.- El presente Decreto iniciará su vigencia, al día siguiente de su pub
 TERCERO.- Los Contralores Municipales de los Ayuntamientos, que con anterioridad a este Decreto ya hubieren sido nombrados por el Ayuntamiento y se encuentren en funciones; por esta única vez, no les será aplicable lo dispuesto en el artículo 99-A de este ordenamiento. En los subsecuentes casos, deberá observarse estrictamente la citada disposición.
 
 CUARTO.- Los Ayuntamientos del Estado de Morelos contarán con un plazo de noventa días hábiles, contados a partir del inicio de la vigencia de este Decreto, para emitir las reformas o adecuaciones a los ordenamientos administrativos que regulan su estructura orgánica municipal en los términos de este ordenamiento.
+
+P.O. 11 DE OCTUBRE DE 2000.
+
+###### ARTICULO PRIMERO.
+
+Remítase el presente Decreto, al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
