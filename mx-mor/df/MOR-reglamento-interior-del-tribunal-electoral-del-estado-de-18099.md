@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-tribunal-electoral-del-estado-de-18099"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-08"
-last_updated: "2000-11-08"
+last_updated: "2001-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2001.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 8 de noviembre de 2000.
 
@@ -101,17 +101,33 @@ Los asuntos relacionados con la organización y funcionamiento interior del Trib
 
 ### CAPÍTULO II. DE SU INSTALACIÓN E INTEGRACIÓN
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 6.
 
-El Tribunal se integrará con tres Magistrados Propietarios y tres Suplentes, electos por el voto de las dos terceras partes de los Diputados integrantes del Congreso, de la propuesta que haga ante dicho cuerpo legislativo la Comisión Calificadora, de conformidad con lo dispuesto en la Constitución.
+El Tribunal se integrará con tres Magistrados Propietarios y tres Suplentes, electos por el voto de las dos terceras partes de los Diputados Integrantes del Congreso, de la propuesta que se haga ante dicho cuerpo legislativo la Comisión Calificadora, de conformidad con lo dispuesto en la Constitución.
 
 Los Magistrados electos rendirán protesta el día y la hora que el Congreso señale.
 
-El Congreso podrá designar o en su caso ratificar, a los Magistrados Propietarios y Suplentes, a más tardar cinco días previos al en que concluya el encargo de los mismos.
-
 En la primera sesión del Pleno, el Tribunal elegirá entre sus miembros al que fungirá como Presidente; acto seguido a propuesta del Magistrado Presidente electo, el Pleno designará al Secretario General.
 
-La integración del Pleno, elección del Presidente y Secretario General del Tribunal, se hará constar en acta correspondiente y en la cual se asentarán las firmas de los Magistrados, así como la del Secretario General quien dará fe y autorizará con su firma el acto.
+La integración del Pleno, elección del Presidente y Secretario General del Tribunal, se hará constar en acta correspondiente y en la cual se asentarán las firmas de los Magistrados designados, así como la del Secretario General quien dará fe y autorizará con su firma el acto.
+
+La presidencia del tribunal recaerá siempre en un magistrado propietario de origen y se ejercerá en forma rotativa por los titulares de las ponencias por el término de un año a partir del quince de enero de cada anualidad, conforme al siguiente calendario:
+
+AÑO 2000 2001 2002 2003
+
+PONENCIA UNO UNO TRES DOS
+
+AÑO 2004 2005 2006 2007
+
+PONENCIA UNO DOS TRES DOS
+
+AÑO 2008 2009 2010 2011
+
+PONENCIA TRES UNO DOS TRES
+
+A falta definitiva del Magistrado que deba desempeñar el cargo de Presidente, entrará en funciones el titular de la ponencia que siga según la calendarización vigente, hasta concluir el periodo, sin que este hecho afecte la secuencia del calendario.
 
 ###### ARTÍCULO 7.
 
@@ -139,9 +155,11 @@ Los Magistrados del Tribunal no son recusables, pero deberán excusarse de conoc
 
 El Tribunal funcionará siempre en Pleno y sus resoluciones se acordarán por mayoría o unanimidad de votos.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 12.
 
-Corresponde al pleno del Tribunal las atribuciones a que se refiere el artículo 215 del Código.
+Corresponde al Pleno del Tribunal las atribuciones a que se refiere el artículo 215 del Código y las que se contengan en el presente Reglamento.
 
 ###### ARTÍCULO 13.
 
@@ -201,9 +219,13 @@ IV. Aplicar las medidas de apremio y disciplinarias que refiere este Reglamento.
 
 DE LOS MAGISTRADOS
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 21.
 
-Son atribuciones de los Magistrados propietarios las que señala el artículo 220 del Código.
+Son atribuciones de los Magistrados propietarios las que señala el artículo 220 del Código. Cada uno de ellos será titular de una ponencia identificadas numéricamente del uno al tres y la distribución de las mismas será facultad del pleno requiriéndose siempre unanimidad en la votación.
+
+En caso de reelección de algún magistrado por el Congreso Estatal, éste conservará el número de ponencia con el que se haya desempeñado.
 
 ###### ARTÍCULO 22.
 
@@ -958,3 +980,9 @@ SECRETARIO GENERAL DEL TRIBUNAL ESTATAL ELECTORAL
 LIC. DANIEL GENOVEVO GARCÍA RAMÍREZ
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE DICIEMBRE DE 2001.
+
+LAS REFORMAS CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACION CON LA ENTRADA EN VIGOR DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 7 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MORELOS.
