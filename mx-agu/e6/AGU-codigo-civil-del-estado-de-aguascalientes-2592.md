@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "1995-05-14"
+last_updated: "1995-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 1995.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -1171,9 +1171,11 @@ EI marido podrá oponerse a que la mujer se dedique a las actividades a que se r
 
 En caso de que la mujer insista en usar de los derechos que le concede el artículo 165, no obstante de que el marido se los rehuse apoyado en lo dispuesto en el artículo anterior, el juez respectivo resolverá lo que sea procedente.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
+
 ###### Artículo 168.
 
-EI marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponda, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autoridad de aquél; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
+El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos corresponda, sin que para tal efecto necesite el esposo del conocimiento de la esposa, ni ésta de la autoridad de aquél; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de bienes o que éstos estén afectos al patrimonio familiar constituido conforme a las reglas de este mismo Código.
 
 ###### Artículo 169.
 
@@ -1365,9 +1367,11 @@ El dominio de los bienes comunes reside en ambos cónyuges mientras subsista la 
 
 DE LA SOCIEDAD LEGAL.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
+
 ###### Artículo 207.
 
-El régimen de sociedad legal consiste en la formación y administración de un patrimonio común diferente de los patrimonios propios de los consortes y cuya representación exclusiva y plena corresponde al marido como una de las funciones que la ley le asigna dentro del matrimonio, sin que el dominio de cada cónyuge sobre bienes o partes determinadas o alícuotas se precise sino al liquidarse la sociedad por las causas que la ley establece. La mujer sólo en los casos de excepción que señala la ley puede tener la administración de la sociedad legal.
+El régimen de sociedad legal consiste en la formación y administración de un patrimonio común diferente de los patrimonios propios de los consortes y cuya representación exclusiva y plena corresponde al marido como una de las funciones que la ley le asigna dentro del matrimonio, sin que el dominio de cada cónyuge sobre bienes o partes determinadas o alícuotas se precisen sino al liquidarse la sociedad por las causas que la ley establece. La mujer sólo en los casos de excepción que señala la ley puede tener la administración de la sociedad legal. Quedan exceptuados de la sociedad legal los bienes afectos al patrimonio familiar legalmente constituido.
 
 ###### Artículo 208.
 
@@ -1417,9 +1421,11 @@ Ni la declaración de uno de los cónyuges que afirme ser suya una cosa, ni la c
 
 DE LA ADMINISTRACION DE LA SOCIEDAD LEGAL.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
+
 ###### Artículo 215.
 
-El dominio y posesión de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad; pero las acciones en contra de ésta o sobre los bienes sociales serán dirigidas contra el administrador. Las reclamaciones relativas a obligaciones que son carga de la sociedad legal procederán contra el administrador y lo decidido en el juicio en que intervino el marido produce autoridad de cosa juzgada, respecto de la sociedad legal y de la mujer como miembro de ésta.
+El dominio y posesión de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad; pero las acciones en contra de ésta o sobre los bienes sociales serán dirigidas contra el administrador. Las reclamaciones relativas a obligaciones que son carga de la sociedad legal procederán contra el administrador y lo decidido en el Juicio en que intervino el marido produce autoridad de cosa juzgada, respecto de la sociedad legal y de la mujer como miembro de ésta. Constituido el patrimonio familiar conforme a las reglas de este Código, los cónyuges no pueden ejercer actos de dominio sobre los bienes afectos a éste, y las reclamaciones relativas a obligaciones de la sociedad no pueden cumplirse con los bienes que forman parte del patrimonio familiar.
 
 ###### Artículo 216.
 
@@ -1449,9 +1455,11 @@ La mujer sólo puede administrar por consentimiento del marido o en ausencia o p
 
 Puede la mujer pagar con los gananciales los gastos ordinarios de la familia según sus circunstancias, sin perjuicio de la obligación común de ambos cónyuges a que se refiere la fracción III del artículo 228.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
+
 ###### Artículo 223.
 
-Las deudas contraídas durante el matrimonio por ambos cónyuges o sólo por el marido o por la mujer con autorización de éste o en su ausencia o por su impedimento, son carga de la sociedad legal sin perjuicio de la responsabilidad del cónyuge directamente obligado, que puede hacerse efectiva sobre sus bienes propios. Al liquidarse la sociedad, el cónyuge que hubiere pagado con bienes propios deudas a cargo de la sociedad legal, será acreedor de ésta, por el importe de aquellas.
+Las deudas contraídas durante el matrimonio por ambos cónyuges o sólo por el marido o por la mujer con autorización de éste o en su ausencia o por su impedimento, son carga de la sociedad legal sin perjuicio de la responsabilidad del cónyuge directamente obligado que puede hacerse efectiva sobre los bienes propios. Al liquidarse la sociedad, el cónyuge que hubiera pagado con bienes propios deudas a cargo de la sociedad legal, será acreedor de ésta, por el importe de aquéllas. Quedan exceptuados los bienes afectos al patrimonio familiar legalmente constituido, para el pago de deudas contraídas por los cónyuges y que sean carga de la sociedad legal o sólo de cada uno de ellos.
 
 ###### Artículo 224.
 
@@ -1941,9 +1949,11 @@ El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas l
 
 EI cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
+
 ###### Artículo 309.
 
-Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes, se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges, o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes, a la subsistencia y educación de los hijos varones hasta que lleguen a la mayor edad, y de las hijas aunque sean mayores de edad, hasta que contraigan matrimonio, siempre que vivan honestamente.
+Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes, se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges, o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir en proporción a sus bienes a la subsistencia y educación de los hijos varones hasta que lleguen a la mayor edad, y de las hijas aunque sean mayores de edad hasta que contraigan matrimonio siempre que vivan honestamente. En caso de que se haya constituido el patrimonio familiar conforme a las reglas de este Código, ejecutoriado el divorcio éste subsistirá y aprovechará al cónyuge inocente y a los hijos en caso de divorcio necesario, o a los hijos y al cónyuge que quede con la custodia de éstos en los demás casos.
 
 ###### Artículo 310.
 
@@ -4235,6 +4245,8 @@ En el caso previsto por el artículo 726, el cónyuge sólo tendrá derecho a lo
 
 ### CAPITULO UNICO.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
+
 ###### Artículo 738.
 
 Cualquiera que reclame un derecho referente a una persona cuya existencia no esté reconocida, deberá probar que esta persona vivía en el tiempo en que era necesaria su existencia para adquirir aquel derecho.
@@ -4283,29 +4295,27 @@ DE LOS BIENES MUEBLES.
 
 Son objeto del patrimonio de la familia:
 
-I.- La casa habitación de la familia;
+I.- La casa-habitación de la familia;
 
-II.- Una fracción de terreno anexa a la casa habitación de la familia o a distancia no mayor de un kilómetro, que sea cultivada por la misma familia;
+II.- Los lotes destinados a la construcción de casa-habitación y los derechos derivados del acto jurídico que transmita la propiedad sobre el terreno objeto de este fin, siempre que la familia no cuente con casa-habitación o contando con ella, ésta no sea acorde con las necesidades o circunstancias particulares de la familia; y
 
-III.- Los equipos agrícolas, considerando como tales los semovientes, maquinarias, útiles, implementos y aperos de labranza;
-
-IV.- Los equipos de trabajo correspondientes a familias obreras, considerándose como tales las maquinarias, herramientas y en general toda clase de utensilios propios para el ejercicio del arte, industria, trabajo o profesión a que la familia se dedique;
-
-> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1977)</small>
-
-V.- Los lotes destinados a la construcción de casa-habitación y los derechos derivados del acto jurídico que transmita la propiedad sobre el terreno objeto de ese fin.
+III.- Los bienes muebles de la casa de conformidad con lo dispuesto en el Artículo 786 de este mismo Código.
 
 ###### Artículo 747.
 
 El patrimonio de la familia puede ser constituido por cualquiera de los miembros de ésta, entendiéndose por familia para los efectos de este capítulo a todo grupo de personas que habiten una misma casa, se encuentran unidos por vínculo de matrimonio o lazos de parentesco consanguíneo, y que por la ley o voluntariamente tengan unidad en la administración del hogar.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
+
 ###### Artículo 748.
 
-La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él quedan afectos, del que lo constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes, según lo dispuesto en el artículo siguiente.
+La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él quedan afectos, del que lo constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes, según lo dispuesto en el artículo siguiente, derecho que subsistirá para los hijos y el cónyuge inocente o el que quede con la custodia de aquéllos, cuando se haya disuelto el vinculo matrimonial.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
 
 ###### Artículo 749.
 
-Tienen derecho de habitar la casa y de aprovechar los frutos de la parcela afecta al patrimonio de la familia, el cónyuge del que lo constituye y las personas a quienes tiene la obligación de dar alimentos. Ese derecho es intransmisible; pero debe tenerse en cuenta lo dispuesto en el artículo 764.
+Tiene derecho de habitar la casa y de usar los bienes muebles afectos al patrimonio de la familia, el cónyuge de que lo constituye y las personas a quienes tiene la obligación de dar alimentos. Ese derecho es intransferible; pero debe tenerse en cuenta lo dispuesto en el Artículo 764.
 
 ###### Artículo 750.
 
@@ -4317,19 +4327,19 @@ El representante tendrá también la administración de dichos bienes.
 
 Los bienes afectos al patrimonio de la familia son inalienables y ni éstos ni sus frutos, estarán sujetos a embargo ni a gravamen alguno, hecha excepción de las servidumbres legales.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
+
 ###### Artículo 752.
 
-Sólo puede constituirse el patrimonio de la familia con bienes sitos en el Municipio en que esté domiciliado el que lo constituya.
+Sólo puede constituirse el patrimonio de la familia con bienes sitos en el municipio en que esté domiciliado el que lo constituya; excepto lo dispuesto en la fracción II del Artículo 746.
 
 ###### Artículo 753.
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1977)</small>
-
 ###### Artículo 754.
 
-El valor máximo de los bienes afectos al patrimonio de familia, se calculará sobre el importe del salario mínimo vigente en el Estado y será el equivalente a la suma de nueve años para el Municipio de la Capital; cuatro años para los Municipios de Calvillo, Rincón de Romos y Pabellón de Arteaga; y dos años para los Municipios restantes.
+(DEROGADO, P.O. 8 DE OCTUBRE DE 1995)
 
 ###### Artículo 755.
 
@@ -4345,7 +4355,7 @@ III.- La existencia de la familia a cuyo favor se va a constituir el patrimonio 
 
 IV.- Que son propiedad del constituyente los bienes destinados al patrimonio, y que no reportan gravámenes fuera de las servidumbres;
 
-V.- Que el valor de los bienes que van a constituir el patrimonio no excede del fijado en el artículo anterior.
+V.- (DEROGADA, P.O. 8 DE OCTUBRE DE 1995)
 
 ###### Artículo 756.
 
@@ -4353,11 +4363,13 @@ Si se llenan las condiciones exigidas en el artículo anterior, el juez, previos
 
 ###### Artículo 757.
 
-Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior al máximo fijado en el artículo 754, podrá ampliarse el patrimonio hasta llegar a ese valor. La ampliación se sujetará al mismo procedimientos que para la constitución fije el Código de la materia.
+(DEROGADO, P.O. 8 DE OCTUBRE DE 1995)
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
 
 ###### Artículo 758.
 
-Cuando haya peligro de que quien tiene obligación de dar alimentos pierda sus bienes por mala administración o porque los esté dilapidando, los acreedores alimentistas y si éstos son incapaces, sus tutores o el Ministerio Público, tienen derecho de exigir judicialmente que se constituya el patrimonio de la familia hasta por los valores fijados en el artículo 754. En la constitución de este patrimonio se observará, en lo conducente, lo dispuesto en los artículos 755 y 756.
+Cuando haya peligro de que quien tiene obligación de dar alimentos pierda sus bienes por mala administración o porque los esté dilapidando, los acreedores alimentistas y si éstos son incapaces, sus tutores o el Ministerio Público, tienen derecho de exigir judicialmente que se constituya el patrimonio de la familia de conformidad con lo establecido en el Artículo 746. En la constitución de este patrimonio se observará, en lo conducente, lo dispuesto en los Artículos 755 y 756 de este Código.
 
 ###### Artículo 759.
 
@@ -4397,9 +4409,11 @@ La constitución del patrimonio de que trata el artículo 759, se sujetará a la
 
 La constitución del patrimonio de la familia no puede hacerse en fraude de los derechos de los acreedores.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
+
 ###### Artículo 764.
 
-Constituido el patrimonio de la familia, ésta tiene obligación de habitar la casa y de cultivar la parcela. La primera autoridad municipal del lugar en que esté constituido el patrimonio puede por justa causa, autorizar para que se dé en arrendamiento o aparcería, hasta por un año.
+Constituido el patrimonio de la familia, ésta tiene la obligación de habitar la casa y de conservar los bienes muebles de ésta. El Juez de Primera Instancia del lugar en que esté constituido el patrimonio puede por justa causa, autorizar para que se dé en arrendamiento hasta por un año.
 
 ###### Artículo 765.
 
@@ -4407,7 +4421,9 @@ El patrimonio de la familia se extingue:
 
 I.- Cuando todos los beneficiarios cesen de tener derecho de percibir alimentos;
 
-II.- Cuando sin causa justificada la familia deje de habitar por un año la casa que debe servirle de morada, o de cultivar por su cuenta y por dos años consecutivos la parcela que esté anexa;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 1995)</small>
+
+II.- Cuando sin causa justificada la familia deje de habitar por un año la casa que debe servirle de morada;
 
 III.- Cuando se demuestre que hay gran necesidad o notoria utilidad para la familia, de que el patrimonio quede extinguido;
 
@@ -4431,13 +4447,11 @@ Transcurrido un año desde que se hizo el depósito, sin que se hubiere promovid
 
 En los casos de suma necesidad o de evidente utilidad, puede el juez autorizar al dueño del depósito para disponer de él antes de que transcurra el año.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
+
 ###### Artículo 768.
 
-Puede disminuirse el patrimonio de la familia:
-
-I.- Cuando se demuestre que su disminución es de gran necesidad o de notoria utilidad para la familia;
-
-II.- Cuando el patrimonio familiar, por causas posteriores a su constitución, ha rebasado en más de un ciento por ciento el valor máximo que puede tener conforme al artículo 754.
+El patrimonio puede disminuirse, cuando se demuestre que su disminución es de gran necesidad o de notoria utilidad para la familia.
 
 ###### Artículo 769.
 
@@ -15398,3 +15412,17 @@ UNICO.- El presente Decreto entrará en vigor a los tres días de su publicació
 P.O. 14 DE MAYO DE 1995.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE OCTUBRE DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las patrimonios constituidos conforme a las reglas de este Código, con anterioridad a la presente reforma subsisten en todas sus partes.
+
+###### ARTICULO TERCERO.
+
+Los procedimientos iniciados para constituir el patrimonio familiar, con anterioridad al presente Decreto, se continuarán conforme a las reglas anteriores del Código Civil.
