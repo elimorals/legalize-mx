@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1997-06-28"
+last_updated: "1997-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1997.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -531,6 +531,10 @@ V. Por obligación solidaria, asumida por tercero que compruebe su idoneidad y s
 
 La garantía de un crédito fiscal deberá comprender los vencimientos futuros, los recargos y gastos de ejecución.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
+En el caso del Impuesto Predial, no se hará necesario constituir garantía alguna, en tanto se instaure el procedimiento administrativo de ejecución.
+
 ###### Art. 48.
 
 La Tesorería Municipal dictará las reglas sobre los requisitos que deban reunir las garantías; vigilará que sean suficientes, tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación o procederá al secuestro de otros bienes. La misma Tesorería podrá dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo, sean notorias la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
@@ -591,15 +595,29 @@ II. Los recargos y las multas; y
 
 III. Los Impuestos, Contribuciones Especiales, Derechos, Productos y Aprovechamientos distintos de los señalados en la fracción anterior, por orden de antigüedad.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
+Tratándose del Impuesto Predial, los pagos parciales que efectúe el contribuyente se aplicarán en el orden siguiente:
+
+I. Gastos de ejecución;
+
+II. Multas; y
+
+III. Recargos e impuestos, de manera proporcional y por orden de antigüedad.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
 ###### Art. 55.
 
-Podrá hacer el pago de créditos fiscales "bajo protesta", cuando la persona que lo haga se proponga intentar recursos o medios de defensa: El pago así efectuado extingue el crédito fiscal, y no implica consentimiento en la disposición o resolución a la que se dé cumplimiento.
+El contribuyente, cuando se proponga intentar recursos o medios de defensa a efecto de impugnar la determinación o liquidación de una obligación fiscal, podrá realizar el pago del crédito fiscal "bajo protesta", conforme a las siguientes disposiciones:
 
-Las autoridades, a solicitud del interesado, expresada en el momento de hacer el pago, deberán hacer constar que éste se efectuó bajo protesta. A falta de esta constancia, bastará que el interesado, previa o simultáneamente al pago, exprese por escrito a la Oficina Recaudadora que el pago se efectúa bajo protesta.
+I. Las autoridades, a solicitud del interesado, expresada al momento de efectuar el pago, deberán hacer constar que éste se realizó "bajo protesta" y el contribuyente tendrá el derecho de hacer valer el recurso de reconsideración ante la propia autoridad, dentro del plazo de dos meses;
 
-> <small>(F. DE E., P.O. 7 DE JUNIO DE 1984)</small>
+II. De no asentarse, por cualquier motivo, la constancia de que el pago efectuado se realizó "bajo protesta", el plazo para interponer el recurso correspondiente será de veinte días hábiles, contados a partir del día siguiente a la fecha del pago;
 
-La protesta quedará sin efecto y el pago se considerará definitivo, desde la fecha en que se hizo el entero respectivo, cuando no se promuevan los recursos o medios de defensa, o fueren rechazados o sobreseídos, o cuando de la resolución que se dicte resultare la procedencia del pago y el contribuyente no interponga ningún otro recurso y cause ejecutoria tal resolución.
+III. El pago así efectuado extingue el crédito fiscal, y no implica consentimiento con la disposición o resolución a la que se dé cumplimiento; y
+
+IV. La propuesta quedará sin efecto y el pago se considerará definitivo, desde la fecha en que se hizo el entero respectivo, cuando no se promuevan los recursos o medios de defensa, o fueren rechazados o sobreseídos, o cuando de la resolución que se dicte resultare la procedencia del pago y el contribuyente no interponga ningún otro recurso y cause ejecutoria tal resolución.
 
 ###### Art. 56.
 
@@ -859,9 +877,13 @@ Los contribuyentes de este impuesto, simultáneamente a la presentación de su s
 
 ### CAPITULO VI. Del Impuesto Predial
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
 ###### Art. 92.
 
-Es objeto de este impuesto, según el caso, la propiedad, la copropiedad, el condominio, la posesión y el usufructo de predios, así como de las construcciones edificadas sobre los mismos.
+Es objeto del impuesto predial, según el caso, la propiedad, la copropiedad, el condominio, la posesión, el usufructo y el derecho de superficie de predios, así como de las construcciones edificadas sobre los mismos.
+
+Para los efectos de este impuesto, se estará a las definiciones que sobre diversos conceptos contiene la Ley de Catastro Municipal.
 
 ###### Art. 93.
 
@@ -885,69 +907,81 @@ VIII.. Los usufructuarios; y
 
 IX. Los propietarios de predios donde se ubiquen plantas de beneficio, establecimientos mineros y metalúrgicos, en los términos de la legislación federal de la materia.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
 ###### Art. 94.
 
-La base de este impuesto será el valor fiscal de los predios y, en su caso, de las construcciones, determinado en los términos que señalan las leyes de ingresos municipales.
+La determinación de la base del impuesto predial se sujetará a las siguientes disposiciones:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1991)</small>
+I. La base de este impuesto será el valor fiscal de los predios y de las construcciones o edificaciones;
 
-En cuanto a predios o construcciones no anotadas catastralmente, o que no sea posible determinar el valor catastral, servirá de base el valor consignado en el contrato traslativo de dominio, o el de avalúo practicado y aprobado para efectos fiscales con aquel motivo, si éste es mayor que aquél, aún tratándose de ventas con reserva de dominio.
+II. El valor fiscal deberá ser determinado y declarado por los contribuyentes, a más tardar el último día del mes de Febrero de cada año;
+
+III. Asimismo, el valor fiscal deberá ser determinado y declarado por los contribuyentes, dentro de los dos meses siguientes a la fecha en que ocurra alguna modificación de los predios o, en su caso, de las construcciones;
+
+IV. Los contribuyentes determinarán y declararán el valor fiscal en los formatos autorizados;
+
+V. La determinación y declaración del valor fiscal deberá comprender las superficies, tanto del terreno como de las construcciones permanentes realizadas en el mismo, aún cuando un tercero tenga derecho sobre ellas;
+
+VI. Para determinar el valor fiscal se estará al valor de los predios y en su caso de las construcciones, mismo que deberá apegarse al valor real, considerando a éste como el que rija en el mercado, por metro cuadrado, durante el último bimestre del año inmediato anterior;
+
+VII. La autoridad catastral deberá proporcionar a los contribuyentes que así lo soliciten, los valores y demás datos de los predios de su propiedad existentes en dicha dependencia, para la elaboración de la citada determinación y declaración;
+
+VIII. Si el causante acepta tanto los valores como los datos proporcionados por la autoridad catastral, así como la determinación del valor fiscal y la liquidación correspondiente para el impuesto predial, podrá optar por efectuar el pago, con lo cual se tendrá por cumplida la obligación de la declaración, sin necesidad de ningún otro aviso o manifestación; y sin perjuicio de poder intentar las acciones a que se refiere el artículo 55 de esta Ley;
+
+IX. Cuando el causante no acepte los valores o alguno de los datos proporcionados por la autoridad catastral, podrá solicitar la rectificación de los mismos;
+
+X. Si la resolución emitida por la autoridad catastral con motivo de la rectificación solicitada por el causante tampoco fuere aceptada, el contribuyente podrá presentar ante la Tesorería Municipal, un avalúo por su cuenta y costo, que comprenda las características particulares del inmueble a valor real, y que sea realizado por perito valuador acreditado en los términos de la Ley de Catastro Municipal;
+
+XI. Si el contribuyente incumple con lo establecido en las fracciones I, II, III y IV de este artículo, o bien los valores declarados y determinados sean inferiores a los reales, la Tesorería Municipal procederá a determinar el valor fiscal del predio y construcciones, con base en los datos del inmueble que proporcione la autoridad catastral, aplicando las tablas de valores aprobadas y publicadas por el Ayuntamiento en los términos de la Ley de Catastro Municipal; y
+
+XII. La aprobación y publicación de las tablas de valores a que se refiere la fracción anterior, deberán ser anteriores a la fecha de publicación de la Ley de Ingresos Municipal para el ejercicio fiscal en que las mismas vayan a tener vigencia. En caso de que el cabildo no apruebe y publique las tablas de valores para ese ejercicio fiscal, regirán los valores que hubiesen sido aplicados en el ejercicio fiscal inmediato anterior.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 95.
 
 La base del impuesto se cambiará:
 
-I. Cuando se realice alguna de las causas que establece la Ley de Catastro del Estado, para practicar nuevo avalúo;
+I. Cuando proceda la revaluación del predio, con construcciones o sin ellas, por efecto de alguna de las causas establecidas en la Ley de Catastro Municipal; y
 
-II. Cuando, por cualquier circunstancia el predio sufra demérito superior al 25 % del valor catastral o registrado; y
+II. Cuando por cualquier circunstancia el valor fiscal con que esté registrado un predio, sea inferior o superior en un 25 por ciento con respecto al valor real, previo dictamen practicado por la autoridad catastral municipal.
 
-III. Cuando, por cualquier circunstancia, la base con que esté tributado un predio sea inferior al valor que le correspondería en una libre transacción comercial.
-
-Cuando con motivo de la aplicación de las tablas de valores vigentes, se practique un avalúo y el valor que resulte sea inferior al registrado, la Tesorería Municipal tiene facultad para realizar un nuevo avalúo que se apegue al valor comercial.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 96.
 
 La nueva base surtirá efectos:
 
-I. A partir del primer bimestre siguiente a aquél que se produzca el hecho, acto o contrato que le dé origen; y
+I. A partir del primer bimestre del ejercicio fiscal en que el valor se declaró o debió haber sido declarado por el contribuyente, conforme a las disposiciones del artículo 94 de esta Ley;
 
-II. A partir del siguiente bimestre al que se notifique el nuevo avalúo, cuando éste sea efectuado por alguno de los supuestos establecidos en el Art. 39 de la Ley de Catastro del Estado.
+II. A partir del siguiente bimestre a aquél en que se le notifique el nuevo avalúo, cuando éste sea efectuado de conformidad con lo dispuesto en el artículo 95 de esta Ley;
+
+III. A partir del bimestre siguiente a aquél en que se produzca el hecho, acto o contrato que le dé origen.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 97.
 
-Cuando no sea posible determinar el valor catastral aplicable al inmueble, la Tesorería Municipal, con apoyo en los elementos de que disponga, procederá a determinarlo, debiendo ser lo más apegado posible a su valor comercial.
+Cuando el contribuyente incumpla con lo establecido en las fracciones I y II del artículo 94 de esta ley y no se hayan obtenido los elementos técnicos necesarios para determinar el valor fiscal correspondiente al predio, la Tesorería Municipal solicitará a la autoridad catastral, proceda a valuar el mismo provisionalmente con apoyo en los datos de que disponga, cuidando que los valores aplicados se asemejen a los valores reales de predios con características similares. El valor así determinado surtirá efectos de valor fiscal.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 98.
 
-Este impuesto se causará y pagará, conforme a las bases, tasas y cuotas que fijen las Leyes de Ingresos Municipales.
+El impuesto predial se causará y pagará, conforme a las bases, tasas, cuotas y tarifas que fijen las leyes de ingresos municipales.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 99.
 
-En los casos de predios urbanos que la Ley de Catastro del Estado clasifica como no-edificados o baldíos, con servicio de agua, electricidad y drenaje por alguna de sus colindancias, entre tanto conserven esa calidad, no se enajenen o establezcan en ellos alguna industria o comercio que necesite del área total para su desarrollo, la tasa que le corresponda se incrementará en un 20 % por cada año natural, hasta en tanto subsistan las condiciones que lo originaron, o hasta el 100 % de incremento.
+En los casos de predios urbanos baldíos colindantes a un predio edificado, podrá aplicársele la tasa establecida en la ley de ingresos municipal, respectiva a predios urbanos edificados, cuando su uso se destine como accesorio del predio construido, previo dictamen de la autoridad catastral y a solicitud del propietario del predio edificado.
 
-Los efectos de este artículo no serán aplicables a los siguientes predios:
-
-a) Los que vendan los fraccionamientos debidamente autorizados, en tanto no sean recibidos por el municipio de que se trate;
-
-b) Los no edificados o baldíos, que formen parte del patrimonio de una unidad comercial o industrial;
-
-c) Los que no rebasen la superficie de 300 metros cuadrados;
-
-d) Los no edificados o baldíos, que se localicen fuera del área metropolitana; ni
-
-e) Los que formen parte del patrimonio de escuelas y clubes deportivos.
-
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1992)</small>
-
-f) Los urbanos que, por estudio técnico realizado por la Secretaría de Finanzas, se desprenda que no pertenecen a alguno de los tipos o especies de fraccionamientos previstos en la Ley Estatal de Fraccionamientos, ni
-
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1992)</small>
-
-g) Los urbanos que se ubiquen dentro del área metropolitana y que no correspondan, conforme a la Ley Estatal de Fraccionamientos, a fraccionamientos habitacionales urbanos de primera, jardín o de tipo de medio.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 100.
 
-En su caso, la progresividad de la tasa del 20% a que se refiere el artículo anterior, se aplicará al inicio del siguiente año de calendario a aquél en el que se hubiera afectado la adquisición del predio.
+En los casos en que los predios urbanos baldíos cuyas áreas constituyan jardines ornamentales, tengan un mantenimiento adecuado y permanente y sea visible desde el exterior, previa reclasificación realizada por la autoridad catastral correspondiente, se les aplicará una tarifa inferior o igual a .5, que sea establecida en la ley de ingresos municipal aplicable, sobre la tasa del impuesto predial respectivo.
 
 ###### Art. 101.
 
@@ -965,45 +999,53 @@ III. Cuando en el predio se establezca una industria o comercio que requiera del
 
 En este caso, se aplicará únicamente la tasa que señalen la Ley de Ingresos del municipio respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
 ###### Art. 103.
 
-El pago del impuesto deberá efectuarse dentro de los primeros quince días del primer mes de cada bimestre, excepción hecha de las cuotas mínimas a que se refieran las Leyes de Ingresos Municipales, las cuales se cubrirán anualmente, durante el primer bimestre en la Tesorería Municipal, en la Recaudadora que corresponda por su ubicación, de existir convenio para la administración de este impuesto o en cualquier institución bancaria autorizada para tal efecto.
+El pago de este impuesto deberá efectuarse dentro de los primeros quince días del primer mes de cada bimestre, en la oficina recaudadora que le corresponda al contribuyente, por la ubicación del predio, o en la recaudadora autorizada por la tesorería municipal, o en cualquier institución bancaria autorizada para tal efecto.
 
 Podrán hacerse pagos anticipados, sin perjuicio del cobro de diferencias por cambio de la base gravable.
 
 Tratándose de ejidos y comunidades agrarias, el pago del impuesto podrá efectuarse, dentro del plazo general a que se refiere el párrafo primero de este artículo, o bien, por anualidades vencidas, durante el mes de enero del año siguiente al que corresponda el pago.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
+En las leyes de ingresos de cada municipio, se establecerán estímulos fiscales, tarifas y descuentos en materia de impuesto predial, así como los sujetos, condiciones y términos para su aplicación, de conformidad con las disposiciones de la ley en materia de promoción económica y de este ordenamiento.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
 ###### Art. 104.
 
-Quedan exentos del pago de este impuesto, la Federación, el Estado y sus municipios, respecto de predios de su propiedad.
+Quedan exentos del pago de este impuesto los bienes del dominio público de la Federación, del Estado y de sus municipios.
 
-> <small>(ADICIONADO, P.O. 25 DE ENERO DE 1997)</small>
-
-Los predios propiedad de las Asociaciones Religiosas legalmente constituidas causarán este impuesto sobre la base del 50% de lo que resulte al aplicar la Ley de Ingresos que corresponda.
-
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 1997)</small>
-
-Los titulares de bienes inmuebles afectos al Patrimonio Cultural del Estado pagarán el impuesto predial correspondiente, aplicando la cuota o tarifa mínima que para tal efecto se establezca en la ley de ingresos municipal respectiva.
-
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 1997)</small>
-
-Para los efectos de esta Ley y de las leyes de ingresos municipales, se consideran bienes inmuebles afectos al Patrimonio Cultural del Estado, aquellos predios o fincas que sean catalogados en los planes o programas de desarrollo urbano municipales, atendiendo a su valor histórico o artístico, o se les reconozca alguno de estos atributos mediante dictamen del Instituto Nacional de Antropología e Historia o, en su caso, de la Secretaría de Cultura del Gobierno del estado de Jalisco.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 105.
 
-Para los efectos de este impuesto, se estará a las definiciones que sobre diversos conceptos contiene la Ley de Catastro del Estado.
+Tratándose de bienes inmuebles afectos al Patrimonio Cultural del Estado, sus titulares pagarán el impuesto predial multiplicando el monto del mismo por la tarifa aplicable que desde el .4 y hasta el .05 establezcan las leyes de ingresos municipales.
+
+Para los efectos de esta ley y de las leyes de ingresos municipales, se considerarán bienes inmuebles afectos al Patrimonio Cultural del Estado o del Municipio, aquellos predios o fincas que sean catalogados en los planes o programas de desarrollo urbano municipal atendiendo a su valor histórico o artístico, mediante dictamen del Instituto Nacional de Antropología e Historia o, en su caso, de la autoridad competente.
+
+A los predios propiedad de las asociaciones religiosas legalmente constituidas, se les aplicará una tarifa de factor .5 sobre la base que resulte al aplicar la ley de ingresos municipal que corresponda.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 106.
 
-La Tesorería Municipal deberá determinar el monto del impuesto, de conformidad con las bases, tasas o cuotas que al efecto establezcan las Leyes de Ingresos en vigor.
+El monto del impuesto se determinará de conformidad con las bases, tasas, cuotas y tarifas que al efecto establezcan las leyes de ingresos municipales en vigor, de acuerdo a las disposiciones de los artículos 94 y 95 de esta Ley.
+
+Para calcular el monto este (sic) del impuesto predial a pagar, se procederá a multiplicar el valor fiscal por la tasa que le corresponda, determinada en la respectiva ley de ingresos municipal, adicionándole además la cuota fija que se establezca en el mismo ordenamiento y, en su caso, multiplicándolo por la tarifa correspondiente.
 
 ###### Art. 107.
 
 Tratándose de cementerios, el impuesto a pagar durante el año, se liquidará sobre el valor catastral de la parte que no hubiese sido enajenada, al día primero de enero del ejercicio de que se trate. A este efecto, durante el primer mes de cada año, los sujetos del impuesto manifestarán la superficie o gavetas que hubieran vendido el año anterior.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
 ###### Art. 108.
 
-En casos de predios no empadronados o de excedencias, construcciones, reconstrucciones o ampliaciones no manifestadas por cualquier causa o motivo, la liquidación comprenderá cinco años anteriores a la fecha de su descubrimiento, salvo que el causante pruebe que tales hechos u omisiones datan de fecha ulterior.
+En casos de predios no empadronados o de excedencias, construcciones, reconstrucciones o ampliaciones no manifestadas por cualquier causa o motivo, la liquidación comprenderá cinco años anteriores a la fecha de su descubrimiento por la autoridad catastral, salvo que el causante pruebe que tales hechos u omisiones datan de fecha ulterior. Cuando la manifestación se realice espontáneamente por parte del causante, no se hará efectivo el cobro anterior y la liquidación se aplicará a partir del siguiente bimestre de su manifestación, siempre y cuando el contribuyente se encuentre al corriente de sus pagos de la parte registrada, en su caso.
 
 ###### Art. 109.
 
@@ -1013,13 +1055,23 @@ I. De compraventa, venta con reserva de dominio, promesa de venta o cualquier ot
 
 II. De construcción, reconstrucción, ampliación, modificación, demolición de construcciones ya existentes; y
 
-III. De fusión, subdivisión y fraccionamiento de predios.
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
-Se tendrán por cumplidas estas obligaciones, respecto a la frac. I, con la presentación de los avisos exigidos por esta Ley, para el pago del Impuesto sobre Transmisiones Patrimoniales; y para las fracciones II y III, con los avisos que señale la Ley de Catastro del Estado.
+III. De urbanización de predios; y
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
+IV. De fusión, subdivisión y relotificación de predios.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
+Se tendrán por cumplidas estas obligaciones, respecto a la fracción I, con la presentación de los avisos exigidos por esta Ley, para el pago del impuesto sobre transmisiones patrimoniales; y para las fracciones II, III y IV, con los avisos que señale la Ley de Catastro Municipal.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 110.
 
-Los sujetos del impuesto deberán manifestar a la Tesorería Municipal y a la Dirección de Catastro del Estado, sus cambios de domicilio, dentro de los quince días siguientes a aquél en que se efectúen. Si no lo hicieren, se tendrá como domicilio, para todos los efectos legales, el que hubiesen señalado anteriormente o, en su defecto, el predio mismo.
+Los sujetos del impuesto deberán manifestar a la autoridad catastral que corresponda al lugar de la ubicación del predio, sus cambios de domicilio, dentro de los quince días siguientes a aquél en que se efectúen. Si no lo hicieren se tendrá como domicilio, para todos los efectos legales, el que hubiesen señalado anteriormente o, en su defecto, el predio mismo.
 
 ###### Art. 111.
 
@@ -1029,11 +1081,11 @@ Si del informe apareciese algún crédito fiscal insoluto, la autoridad retendr�
 
 ### CAPITULO VII. Impuesto sobre Transmisiones Patrimoniales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 112.
 
-Es objeto de este impuesto la transmisión o adquisición de la propiedad o de derechos de copropiedad de bienes inmuebles, por cualquier acto o contrato, ya sea que comprendan el suelo y las construcciones adheridas a él, siempre que se ubique en el territorio de los Municipios que comprende el Estado y que una misma operación no se grave dos veces.
+Es objeto de este impuesto, las transmisión o adquisición de la propiedad o de derechos de copropiedad de bienes inmuebles, por cualquier acto o contrato, ya sea que comprendan el suelo, las construcciones o el suelo y las construcciones adheridas a él, incluyendo los accesorios y las instalaciones especiales que pertenezcan al inmueble, siempre que se ubique en el territorio de los municipios que comprende el Estado, y que una misma operación no se grave dos veces.
 
 Para los efectos de este artículo, se entiende por transmisión o adquisición de la propiedad o Derechos de copropiedad de bienes inmuebles:
 
@@ -1049,9 +1101,13 @@ V. La fusión de sociedades;
 
 VI. La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes utilidades o dividendos de asociaciones o sociedades civiles o mercantiles;
 
-VII. La Constitución de usufructo, transmisión de la nuda propiedad, así como la extinción del usufructo temporal;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
-VIII. Prescripción positiva o usucapión;
+VII. La constitución de usufructo o su acrecentamiento, transmisión de la nuda propiedad, así como la extinción del usufructo;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
+VIII. Usucapión o Prescripción positiva;
 
 IX. La cesión de derechos del heredero, legatario o copropietario en la parte relativa y en proporción a los inmuebles; cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción a éstos.
 
@@ -1069,11 +1125,15 @@ a) En el acto en que el fideicomisario designado ceda sus derechos o dé instruc
 
 b) En el acto en que el fideicomitente ceda sus derechos, si entre éstos se incluye el de que los bienes se transmitan a su favor;
 
-XI. La división de la copropiedad y la disolución o liquidación de la sociedad conyugal o sociedad legal, por lo que se hace a los excedentes del valor que le correspondería a la porción de cada copropietario o cónyuge;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
+XI. La división, liquidación de la copropiedad o de la sociedad conyugal o legal, por lo que se refiere a los excedentes del valor que le correspondería a la porción de cada copropietario o cónyuge;
 
 XII. Las transmisiones de la propiedad realizadas en procedimientos judiciales o administrativos;
 
-XIII. La disolución o liquidación de la copropiedad, por lo que hace a los excedentes del valor que les correspondería a la porción de cada copropietario; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
+XIII. La constitución y transmisión del derecho de superficie;
 
 XIV. (DEROGADA, P.O. 29 DE JUNIO DE 1991)
 
@@ -1089,123 +1149,97 @@ Tratándose de permutas, se considerará que se efectúan dos adquisiciones.
 
 Son sujetos de este impuesto las personas físicas o morales que realicen cualquiera de los supuestos señalados en el artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 114.
 
-Para efectos del cálculo del Impuesto, se deberán considerar los valores siguientes:
+En la determinación de la base del impuesto sobre transmisiones patrimoniales, se aplicarán las siguientes disposiciones:
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1992)</small>
+I. Para efectos del cálculo del Impuesto, se deberán considerar los valores siguientes:
 
-I. El consignado en avalúo bancario o practicado por la Dirección de Catastro, que no podrá tener antigüedad mayor a un año y, en ningún caso, será menor a una vez el valor de las Tablas de Valores de terreno y construcción vigente para cada municipio, publicadas en el Periódico Oficial El Estado de Jalisco, a partir del mes de enero de 1992. En los municipios en que no se publiquen Tablas de Valores a partir del mes de enero de 1992, el valor de avalúo bancario o del practicado por la Dirección de Catastro mismo que, en ningún caso, podrá ser menor a seis veces el valor consignado en la (sic) Tablas de Valores de terreno y construcción vigentes para cada municipio.
+a) El avalúo o bien el dictamen de valor, según sea el caso; y
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+b) El valor de operación.
 
-Cuando el contribuyente considere que el valor asignado al inmueble con base en lo preceptuado en el párrafo anterior resulte superior al valor comercial del mismo, la Dirección de Catastro, la Delegación de Catastro y en su caso las oficinas de Recaudación Fiscal autorizadas, tendrán facultades para aprobar el avalúo correspondiente con los valores que rijan en el mismo mercado.
+II. Tratándose de inmuebles que no cuenten con accesorios o instalaciones especiales, podrá presentarse avalúo practicado por perito valuador acreditado conforme a las disposiciones de la Ley de Catastro Municipal, el cual no podrá ser inferior al consignado en las tablas de valores aplicables. Tanto el avalúo como el dictamen se harán con en (sic) base en valores reales;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 1991)</small>
+III. Tratándose de inmuebles que cuenten con accesorios o instalaciones especiales, deberá practicarse avalúo por perito valuador acreditado;
 
-II. El de Operación; y
+IV. Los peritos valuadores acreditados deberán presentar sus avalúos ante la autoridad catastral municipal para fines de revisión y, en su caso, aprobación;
 
-III. El catastral o con el que fiscalmente se encuentre empadronado el predio;
+V. Si las autoridades advierten que los avalúos consignan valores inferiores a los reales, se practicará nuevo avalúo por un perito valuador acreditado, con cargo a la Tesorería Municipal correspondiente, a efecto de dar cumplimiento a lo dispuesto en la fracción II de este artículo;
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 1993)</small>
+VI. Cuando el contribuyente considere que el dictamen de valor asignado al inmueble, con base en lo preceptuado en la fracción I de este artículo, es superior al valor real, podrá solicitar la reclasificación de los datos catastrales, a fin de que la autoridad catastral haga la ratificación o rectificación según corresponda, en los términos de la Ley de Catastro Municipal;
 
-Será base del impuesto, el 50% del valor que resulte más alto entre los referidos anteriormente, siempre que las tablas de valores de terreno y construcción hayan sido publicadas en el Periódico Oficial El Estado de Jalisco, a partir de enero de 1992 o en su caso, el 80% del valor que resulte más alto de los referidos anteriormente, cuando las tablas de valores hayan sido publicadas antes del año de 1992.
+VII. Cuando la autoridad catastral considere que el avalúo presentado para su revisión es coincidente con los valores reales, y éstos sean inferiores a los valores de tablas, estará facultada para emitir un dictamen, fundado y motivado, mediante el cual apruebe el avalúo correspondiente;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+VIII. Tanto el avalúo practicado por perito valuadores acreditado, como el dictamen de valor, tendrán validez en tanto los valores consignados correspondan a los valores reales en las fecha de causación. Si por alguna circunstancia el avalúo o el dictamen de valor no se practicaron en el momento de causación, se estará a lo que disponga la Ley de Catastro Municipal;
 
-Tratándose de inmuebles destinados a vivienda cuya superficie de construcción no exceda de 65 sesenta y cinco metros cuadrados, será base de este impuesto el 100% cien por ciento del avalúo bancario practicado por la Dirección de Catastro, en los términos de la fracción I de este artículo y siempre que acredite, ante la autoridad a quien competa la aplicación de eta Ley, que el adquirente no es propietario de otro inmueble.
+IX. En la constitución, adquisición, acrecentamiento o extinción del usufructo, del derecho de superficie o de la nuda propiedad, y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el avalúo o dictamen de valor según sea el caso, de conformidad con la fracción I de este artículo. Para los fines de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos del 50% cincuenta por ciento del valor de la propiedad;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+X. Tratándose de permutas será base de este impuesto el 100% cien por cien (sic) del valor de cada uno de los bienes permutados, determinado de conformidad con lo dispuesto en las fracciones I y II de este artículo;
 
-En la constitución, adquisición o extinción del usufructo o de la nuda propiedad, y en la adquisición de bienes en remate, no se tomará en cuenta el precio en que se hubiere practicado, sino el avalúo a que se refiere la fracción I de este artículo. Para los fines de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del 50% cincuenta por ciento del valor de la propiedad.
+XI. En los casos de transmisión o cesión de derechos hereditarios, o de disolución de copropiedad o de sociedad legal, la base del impuesto será el valor de la parte proporcional del bien o bienes que correspondan a los derechos que se transmiten o en que se incrementen las correspondientes porciones de los copropietarios o coherederos, determinado de acuerdo con lo señalado en las fracciones I y II de este artículo;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+XII. Si en la disolución de copropiedad o de la sociedad legal se recurre a la compensación de valores pecuniarios que repercuta en los inmuebles a repartir, la Tesorería Municipal estará facultada para exigir que se acredite la existencia de los mismos a efecto de determinar este impuesto;
 
-Tratándose de permutas, será base de este impuesto el 100% cien por ciento del valor de cada uno de los bienes permutados, determinado de conformidad con lo dispuesto en las fracciones I a III de este artículo. En los casos de trasmisión o cesión de derechos hereditarios, o de disolución de copropiedad o de sociedad legal, la base del Impuesto será el valor de la parte proporcional del bien o bienes que corresponda a los derechos que se transmite o en que se incrementen las correspondientes porciones de los copropietarios o coherederos, determinado de acuerdo con lo señalado en las fracciones I a III de este artículo. Si para la disolución de copropiedad o de la sociedad legal se consideran valuadores pecuniarios, la Tesorería Municipal esta facultada para exigir que se acredite su existencia para valorarlos.
+XIII. Cuando los inmuebles que forman el patrimonio de la copropiedad o sociedad conyugal se ubiquen en distintos municipios, el excedente se cubrirá en aquél en que exista el mayor porcentaje de valor del patrimonio; y
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+XIV. En el caso de municipios que no cuenten con tablas de valores actualizadas, el dictamen de valor se hará con base en las tablas vigentes, multiplicadas por el factor que establezcan sus respectivas leyes de ingresos.
 
-Si las autoridades advierten que los avalúos bancarios consignan valores inferiores a los que rigen en el mercado, practicarán avalúo en los términos de la Ley de Catastro del Estado, el cual no podrá ser menor al señalado en la fracción I de este artículo.
-
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 115.
 
-Este impuesto no se causará en la transmisión o adquisición de la propiedad o derechos de copropiedad de bienes inmuebles afectos al Patrimonio Cultural del Estado.
+El impuesto sobre transmisiones patrimoniales se causará y liquidará aplicando la tasa que establezca la ley de ingresos de cada municipio a la base determinada conforme a las disposiciones del artículo 114 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 116.
 
-Este impuesto se causará y liquidará aplicando la tasa que establezca la Ley de Ingresos de cada Municipio a la base determinada en los términos del artículo 114 de esta Ley. El pago deberá efectuarse dentro de los sesenta días naturales siguientes a la fecha del documento en que se haga constar el acto o contrato correspondiente, ante la Tesorería Municipal respectiva y, en su caso, ante las Oficinas Recaudadoras.
+El pago de este impuesto deberá efectuarse ante la tesorería municipal respectiva y, en su caso, ante las oficinas recaudadoras de la Secretaría de Finanzas del gobierno del Estado, dentro de los dos meses siguientes a la fecha del documento en que se haga constar el hecho, acto o contrato correspondiente, o en la que se verifique el suceso o el supuesto preestablecido en el documento constitutivo del acto jurídico.
 
 Para los efectos del pago del impuesto en caso de escrituras, adjudicaciones o contratos que se celebren fuera del Estado, de bienes ubicados en el municipio, el adquirente, dentro del término establecido en el párrafo anterior, dará aviso por escrito, acompañando copia de la adquisición o contrato, a las autoridades fiscales competentes, en cuya jurisdicción se encuentren ubicados los inmuebles.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 117.
 
-Quedan exentos del pago de este impuesto la Federación, el Estado y sus Municipios respecto de la transmisión o adquisición de bienes afectos al pago de este impuesto; así como los partidos políticos nacionales por la adquisición de inmuebles para su uso propio; igualmente, los Estados extranjeros por la adquisición de inmuebles, en caso de reciprocidad. Los arrendatarios financieros estarán exentos del pago de este impuesto por la adquisición de inmuebles, al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
+Quedan exentos del pago de este impuesto:
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+I. La Federación, el Estado y sus Municipios, respecto de la trasmisión o adquisición de bienes afectos al pago de este impuesto;
 
-Igualmente, quedan exentas del pago de este impuesto las asociaciones religiosas legalmente constituidas que realicen adquisiciones de bienes inmuebles, siempre y cuando ésta se efectúe dentro de los seis meses siguientes a la fecha, en que la Secretaría de Gobernación les otorgue la declaratoria de procedencia, lo que deberán justificar en el momento en que se formalice el acto jurídico correspondiente.
+II. Los Estados extranjeros por la adquisición de inmuebles, en caso de reciprocidad.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 118.
 
-Para los efectos del Art. 116 de esta Ley, los notarios públicos o quienes hagan sus veces, los particulares, tratándose de documentos privados y otorgados fuera del Estado, y los servidores públicos, en su caso, deberán dar aviso a la Tesorería Municipal de los actos o contratos en que intervengan, gravados por este impuesto.
+Los notarios públicos o quienes hagan sus veces, las autoridades judiciales y los particulares, tratándose de documentos privados y otorgados fuera del Estado, así como los servidores públicos, en su caso, deberán dar aviso a la autoridad catastral municipal de los actos o contratos en que intervengan, cuando se transmita la propiedad o derechos sobre inmuebles, o se modifiquen los datos de éstos, aun cuando no resulten gravados por este impuesto.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 119.
 
-Los avisos a que se refiere el artículo anterior, se harán en las formas aprobadas por la Tesorería Municipal, debiendo proporcionar los datos y acompañar los documentos que las mismas indiquen:
+Los avisos a que se refiere el artículo anterior, se harán en las formas oficiales autorizadas. Para tal efecto, los obligados deberán proporcionar los datos que en las mismas se requieran y acompañar los siguientes documentos:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1991)</small>
+I. Avalúo o dictamen de valor en los términos del artículo 114 de esta Ley, los cuales contendrán un croquis descriptivo del terreno y, en su caso, de las construcciones existentes, especificando perímetro, superficie, medidas y colindancias actualizadas. Tratándose de predios urbanos, además se deberá señalar la distancia a la esquina más cercana y los nombres de las calles perimetrales;
 
-Tratándose de operaciones con inmuebles, se acompañarán: el deslinde catastral, con superficie, medidas y colindancias actualizadas, el avalúo bancario o el practicado por la Dirección de Catastro, así como certificado que acredite que se encuentra el inmueble al corriente del pago de la (sic) obligaciones fiscales.
+II. Comprobante donde se acredite que no existe adeudo por concepto de impuesto predial en la fecha en que se autoricen las escrituras, actos o contratos;
 
-El deslinde catastral, a que se refiere el párrafo anterior, tendrá vigencia de un año natural, contado a partir de la fecha de expedición.
+III.- Si se trata de predios bajo el régimen de propiedad en condominio, deberá presentar:
 
-Estos documentos deberán comprender hasta el mes en que los jueces y notarios autoricen la escritura, actos o contratos.
+a) Copia de la escritura pública donde se haga constar el acto constitutivo del régimen de propiedad en condominio; con los elementos que establece el Código Civil del Estado;
 
-Los peritos, ingenieros y valuadores comisionados con la institución bancaria, a fin de valorizar inmuebles o derechos reales, deberán presentar sus dictámenes de avalúo a la Dirección de Catastro del Estado para fines de revisión y aprobación, en su caso.
+b) Copia del plano del condominio, conforme a las normas técnicas;
 
-Los peritos están obligados a presentar, precisamente, anexos al avalúo a que se refiere el párrafo anterior, los siguientes documentos:
+c) Descripción de las unidades en condominio, donde se precisen los lotes, departamentos o locales de áreas privativas; así como las áreas e instalaciones de uso común.
 
-a) Si se trata de predios sin construcción alguna: Un plano que exprese perímetro, superficie, medidas y colindancias;
-
-b) Si se tratare de predios en los cuales existieran construcciones inconclusas o terminadas, deberán acompañar además, plano descriptivo de los mismos, especificando el grado de avance, la superficie construida, número de niveles y calidad de la misma.
-
-> <small>(ADICIONADO, P.O. 1 DE ENERO DE 1991)</small>
-
-c) Si se trata de predios bajo el régimen de propiedad y condominio, deberá presentar:
-
-En Condominios verticales:
-
-1. Plano del Conjunto donde se localice cada uno de los módulos o edificios;
-
-2. Plano de distribución por planta, delimitando las áreas privativas y las comunes;
-
-3. Régimen del condominio; y
-
-4. Relación de indivisos;
-
-En condominios horizontales:
-
-1. Plano del conjunto donde se ubiquen las manzanas, señalando las áreas privativas y las comunes;
-
-2. Régimen del condominio; y
-
-3. Relación de indivisos
-
-El notario que al formalizar un negocio translativo de dominio, lo hiciere sin exigir que el avalúo lleve la aprobación de la Dirección de Catastro del Estado, incurrirá en responsabilidad solidaria con quien resulte responsable de la omisión.
-
-Para el caso de que transcurrido un término de cinco días hábiles, a partir de la presentación de la solicitud para la práctica del deslinde catastral, no se hubiera expedido aquél, previa obtención de la constancia correspondiente, el causante interesado podrá presentar tal documento practicado para terceros, bajo su responsabilidad.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 120.
 
-Los avisos deberán presentarse a la Tesorería Municipal, dentro de los sesenta días naturales siguientes a la fecha del documento en que se haga constar el acto o contrato.
+Los avisos deberán presentarse a la autoridad catastral municipal, dentro de los dos meses siguientes a la fecha del documento en que se haga constar el hecho, acto o contrato, o en que tenga verificativo el suceso o el supuesto preestablecido en el documento constitutivo del acto jurídico.
 
 Cuando en los avisos o manifestaciones no se acompañe la documentación requerida, las autoridades fiscales concederán un término de quince días para que se corrija la omisión, que se contará a partir de la fecha en que los interesados reciban el requerimiento.
 
@@ -1217,13 +1251,19 @@ Los notarios, o quienes hagan sus veces, los registradores y las autoridades, no
 
 En todo caso, al margen de la matriz y en los testimonios o en los documentos privados, deberá asentarse la constancia de pago o la de que éste no se causa.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
+El Notario que al formalizar un negocio traslativo de dominio, lo hiciere sin exigir que el avalúo lleve la aprobación de la autoridad catastral municipal, incurrirá en responsabilidad solidaria con quien resulte responsable de la omisión.
+
 ###### Art. 122.
 
 Tratándose de las partes que intervengan en la adquisición de bienes inmuebles que hayan celebrado contrato de promesa de venta, venta con reserva de dominio, o sujeta a condición, para efectuar cualquier trámite ante las autoridades fiscales competentes, o ante la Dirección del Registro Público de la Propiedad, será necesario que acrediten el pago del Impuesto sobre Transmisiones Patrimoniales.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
 ###### Art. 123.
 
-Para enajenar cualquier inmueble o transmitir algún derecho real, el causante deberá demostrar, mediante certificado expedido por las autoridades correspondientes, que el inmueble objeto de la operación está al corriente en el pago de las obligaciones fiscales.
+Para enajenar cualquier inmueble o transmitir algún derecho real, el causante deberá presentar comprobante donde se acredite que no existe adeudo por concepto de impuesto predial en la fecha en que se autoricen las escrituras, actos o contratos.
 
 ### CAPITULO VIII. Impuesto sobre Explotación de Semovientes
 
@@ -1393,17 +1433,23 @@ II. Los propietarios de los muebles o inmuebles donde se instalen los anuncios. 
 
 Quedan exentos del pago de este derecho los anuncios que exclusivamente sirvan para identificar el negocio, mismos que no excederán de 0.27 m².
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
 ###### Art. 146.
 
-Para los efectos del pago de los derechos por la expedición de permisos para fraccionar o construir, se consideran como fraccionamientos comerciales los centros en que se construyan diez o más locales para negocios independientes.
+Los titulares de los bienes inmuebles donde se realicen acciones urbanísticas deberán pagar los derechos correspondientes, a efecto de obtener los dictámenes, autorizaciones, aprobaciones, licencias, permisos, aportaciones, incorporaciones y certificaciones que se establecen en la ley en materia de desarrollo urbano y en esta ley, conforme a las tarifas y cuotas que se autoricen en las leyes de ingresos municipales.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 147.
 
-Se concede una reducción de un 50 % de los derechos señalados en el artículo anterior a las urbanizaciones promovidas por: el Instituto del Fondo Nacional de la Vivienda para los Trabajadores; el Instituto Nacional para el Desarrollo de la Comunidad y Vivienda Rural; Fondo de la Vivienda para Trabajadores al servicio del Estado; Fondo de la Vivienda al Servicio de las Fuerzas Armadas, Instituto Promotor de la Vivienda del Estado y otras instituciones oficiales o descentralizadas de seguridad social, cuando dichas urbanizaciones se promuevan para el cumplimiento de los fines de cada una de las instituciones antes señaladas.
+Se aplicará una reducción de cuando menos el cincuenta por ciento de las cuotas y tarifas para determinar los derechos señalados en el artículo anterior, respecto de las acciones urbanísticas relativas a la vivienda de interés social y popular, promovidas o financiadas por las dependencias, organismos, fideicomisos y fondos públicos para la vivienda.
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 1997)</small>
+Se entiende por vivienda de interés social, aquella cuyo valor catastral no exceda de quince salarios mínimos generales vigentes, elevados al año, en el área geográfica donde se localice el inmueble.
 
-Se aplicará una reducción del ochenta por ciento en las cuotas o tarifas para determinar los derechos señalados en el artículo anterior, respecto de las acciones urbanísticas que se realicen en bienes inmuebles afectos al Patrimonio Cultural del Estado, encauzados a su conservación y rehabilitación.
+Se entiende por vivienda popular, aquella cuyo valor catastral no exceda de veinticinco salarios mínimos generales vigentes, elevados al año, en el área geográfica donde se localice el inmueble.
+
+Se aplicará una reducción de cuando menos el ochenta por ciento en las cuotas o tarifas para determinar los derechos señalados en el artículo anterior, respecto de las acciones urbanísticas que se realicen en bienes inmuebles afectos al Patrimonio Cultural del Estado, encauzados a su conservación y rehabilitación.
 
 ### CAPITULO V. Aseo Público
 
@@ -2761,11 +2807,13 @@ Cuando se haya interpuesto algún medio de defensa, ante el Tribunal de lo Conte
 
 La tramitación de este Recurso se sujetará a las normas siguientes:
 
-I. Se interpondrá por el recurrente, mediante escrito que presentará ante la autoridad que dictó o realizó el acto impugnado, dentro de los quince días siguientes al que surta efectos su notificación, expresando los agravios que aquel le cause, ofreciendo las pruebas que se proponga rendir, y acompañando copia de la resolución combatida. Si el recurrente no cumple con esta última obligación, la autoridad encargada de resolver el recurso lo prevendrá para que, en un término de cinco días, exhiba dicha copia, apercibido que de no hacerlo el recurso será desechado.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
-> <small>(F. DE E., P.O. 7 DE JUNIO DE 1984)</small>
+I. Se interpondrá por el recurrente, mediante escrito que presentará ante la autoridad que dictó o realizó el acto impugnado, dentro de los quince días siguientes a aquél en que surta efectos su notificación, expresando los agravios que aquel le cause, ofreciendo las pruebas que se proponga rendir, y acompañando copia de la resolución combatida. Si el recurrente no cumple con esta última obligación, la autoridad encargada de resolver el recurso lo prevendrá para que, en un término de cinco días, exhiba dicha copia, apercibido que de no hacerlo será desechado.
 
-Si el recurrente tiene su domicilio en población distinta del lugar en que reside la autoridad citada, podrá enviar su escrito, dentro del mismo término, por correo certificado con acuse de recibo, o bien, presentarlo ante la autoridad que le haya notificado la resolución. En estos casos, se tendrá como fecha de presentación del escrito respectivo, la del día en que se entregue en la oficina de correos, o a la autoridad que efectuó la notificación;
+Si el contribuyente hizo el pago del crédito fiscal, el plazo para interponer este recurso será (sic) que corresponda conforme lo dispuesto en las fracciones I y II del artículo 55 de esta ley.
+
+Si el recurrente tiene su domicilio en población distinta de lugar en que se reside la autoridad citada, podrá enviar su escrito, dentro del mismo término, por correo certificado con acuse de recibo, o bien, presentarlo ante la autoridad que le haya notificado la resolución. En estos casos, se tendrá como fecha de presentación del escrito respectivo, la del día en que se entrega en la oficina de correos, o a la autoridad que efectuó la notificación;
 
 II. En este recurso, no será admisible la prueba de confesión de las autoridades;
 
@@ -2894,3 +2942,9 @@ P.O. 25 DE ENERO DE 1997.
 P.O. 28 DE JUNIO DE 1997.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 9 DE DICIEMBRE DE 1997.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo.- Se derogan todas aquellas disposiciones que se opongan a (sic) al presente decreto.
