@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1953-10-08"
+last_updated: "1953-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1953.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -143,6 +143,10 @@ P.O. 8 DE OCTUBRE DE 1953.
 
 Único.- Este Decreto empezará a surtir sus efectos diez días después de su publicación en el Periódico Oficial del Estado.
 
+P.O. 24 DE NOVIEMBRE DE 1953.
+
+Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
 ## TITULO II. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO
 
 ### CAPITULO II. DE LOS CIUDADANOS DEL ESTADO
@@ -201,7 +205,9 @@ II. Reunirse para tratar de asuntos políticos.
 
 Son obligaciones de los ciudadanos del Estado:
 
-I. Alistarse en la Guardia Nacional.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE NOVIEMBRE DE 1953)</small>
+
+I. Alistarse en la Guardia Nacional, con excepción de las mujeres.
 
 II. Votar en las elecciones populares en la forma que disponga la ley.
 
@@ -257,13 +263,13 @@ Las leyes determinaran a que autoridad corresponde decretar la suspensión, perd
 
 La soberanía del Estado reside en el pueblo y en nombre de éste la ejercen los Poderes del Estado, en los términos que establece esta Constitución.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1948)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1953)</small>
 
 ###### Artículo 15.
 
-El Estado adopta para su régimen interior, la forma de gobierno republicano representativo y popular, teniendo como base de su división territorial y de su organización política y administrativa, el Municipio libre.
+El Estado adopta para su régimen interior, la forma de Gobierno Republicano, representativo, popular, teniendo como base de su división territorial y de su organización política y administrativa, el Municipio Libre.
 
-En las elecciones Municipales participarán las mujeres en igualdad de condiciones que los hombres con el derecho de elegir y de ser electas, para ocupar cualquier cargo Municipal.
+En las elecciones, participarán las mujeres en igualdad de condiciones que los hombres, con el derecho de elegir y ser electas para ocupar cualquier cargo de elección popular.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 1948)</small>
 
