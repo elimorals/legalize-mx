@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2001-12-28"
+last_updated: "2002-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -147,7 +147,13 @@ La base del impuesto en los predios urbanos y rústicos será elegida entre el v
 
 Cuando se trate de predios urbanos y rústicos que se encuentren sujetos al régimen de propiedad en condominio, la base del impuesto se determinará por el valor de cada una de las unidades privativas resultantes de la constitución del régimen en condominio.
 
-En caso que haya sido cubierto el pago del impuesto predial antes de la formalización del régimen de propiedad en condominio, se aplicará la parte proporcional a cada unidad privativa, conforme a los proindivisos que les correspondan, debiendo cubrir cada unidad en lo individual el impuesto predial correspondiente a partir de la fecha de formalización del régimen de propiedad en condominio.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+En caso que haya sido cubierto el pago del impuesto predial antes de la formalización del régimen de propiedad en condominio, fraccionamiento y/o subdivisión, se aplicará la parte proporcional a cada unidad privativa, más los proindivisos que les correspondan debiendo cubrir cada unidad en lo individual el impuesto predial correspondiente a partir de la fecha de formalización del régimen de propiedad en condominio.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+En caso que haya sido cubierto el pago del impuesto predial antes de cualquier modificación en el inmueble, se aplicará la parte proporcional a la unidad privativa, conforme a lo establecido en el artículo 13 de esta Ley, debiendo cubrir el impuesto predial correspondiente a partir del siguiente bimestre del ejercicio fiscal en curso.
 
 ###### ARTÍCULO 13.
 
@@ -163,7 +169,19 @@ a).- En predios urbanos o rústicos que su valor no exceda de $ 5,000.00 2.3 S.M
 
 b).- De $ 5,001.00 en adelante 13.8 al millar
 
-c).- Predios rústicos 9.2 al millar
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+c).- Predios rústicos:
+
+1.- Predios rústicos 8.0 al millar
+
+> <small>(F. DE E., P.O. 14 DE FEBRERO DE 2003)</small>
+
+2.- Predios rústicos dentro de Reserva o Zona Protegida con restricciones o impedimentos para construir 8.0 al millar
+
+3.- Predios rústicos dentro de Reserva o Zona Protegida con restricciones o impedimentos para construir 18.4 al millar
+
+4.- Predios rústicos que colinden con Zona Federal Marítima Terrestre 18.4 al millar
 
 d).- Cuando alguno de estos predios, con excepción de los rústicos, no cuenten con banquetas, bardas o construcciones permanentes, en lugar de las tarifas que anteceden, pagarán las siguientes tarifas:
 
@@ -185,7 +203,17 @@ a).- En predios urbanos o rústicos que su valor no exceda de $5,000.00 2.3 S.M.
 
 b).- De $ 5,001.00 en adelante 18.4 al millar
 
-c).- Predios rústicos 9.2 al millar
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+c).- Predios rústicos:
+
+1.- Predios rústicos 8.0 al millar
+
+2.- Predios rústicos dentro de Reserva o Zona Protegida con restricciones o impedimentos para construir 8.0 al millar
+
+3.- Predios rústicos dentro de Reserva o Zona Protegida con (sic) restricciones o impedimentos para construir 18.4 al millar
+
+4.- Predios rústicos que colinden con Zona Federal Marítima Terrestre 18.4 al millar
 
 d).- Cuando alguno de estos predios, con excepción de los rústicos, no cuenten con: banquetas, bardas o construcciones permanentes, en lugar de las tarifas que anteceden, pagarán las siguientes tarifas:
 
@@ -207,7 +235,17 @@ a).- En predios urbanos o rústicos que su valor no exceda de $12,000.00 2.5 S.M
 
 b).- Predios urbanos 6.9 al millar
 
-c).- Predios rústicos 8.0 al millar
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+c).- Predios rústicos:
+
+1.- Predios rústicos 8.0 al millar
+
+> <small>(F. DE E., P.O. 14 DE FEBRERO DE 2003)</small>
+
+2.- Predios rústicos dentro de Reserva o Zona Protegida con restricciones o impedimentos para construir 8.0 al millar
+
+3.- Predios rústicos que colinden con Zona Federal Marítima Terrestre, 18.4 al millar
 
 d).- Cuando alguno de estos predios con excepción de los rústicos, no cuenten con: banquetas, bardas o construcciones permanentes, en lugar de las tarifas que anteceden, pagarán las siguientes tarifas:
 
@@ -249,9 +287,13 @@ II.- Los inmuebles pertenecientes a los institutos de vivienda del Estado o Muni
 
 III.- El fundo legal.
 
-###### ARTÍCULO 17.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-Cuando el impuesto causado sea cubierto en una sola emisión por anticipado, y cubra todo el año y sea enterado en la Tesorería Municipal correspondiente, se faculta a los Ayuntamientos a conceder un descuento hasta del 15% del total del importe, siempre y cuando el pago se efectúe antes del 31 de enero y si el pago se realiza posteriormente y hasta el último día hábil del mes de febrero, un 10% del total del importe.
+###### Artículo 17.
+
+Cuando el impuesto causado sea cubierto en una sola emisión por anticipado y cubra todo el año y sea enterado en la Tesorería Municipal correspondiente, se faculta a los Ayuntamientos a conceder un descuento hasta el 15% del total del importe, siempre y cuando el pago se efectúe antes del 31 de enero y si el pago se realiza posteriormente y hasta el último día del mes de febrero, un 10% de descuento del total del importe.
+
+Cuando el contribuyente sea una persona con capacidades diferentes, pensionado, jubilado o cuente con su credencial del INSEN, los Ayuntamientos que así lo consideren podrán conceder un descuento hasta del 50% del total del importe señalado en el artículo 13 de esta Ley, cuando el importe anual causado sea cubierto en una sola exhibición por anticipado, durante los meses de diciembre y enero. Este beneficio se aplicará a un solo inmueble del contribuyente si dicho inmueble corresponde al domicilio de su propia casa habitación y el valor catastral de ésta, no exceda de siete mil quinientos S.M.G. Al contribuyente que goce de este beneficio no le será aplicable lo dispuesto en el párrafo anterior.
 
 DISPOSICIONES DIVERSAS
 
@@ -286,6 +328,10 @@ Son sujetos de este gravamen las personas físicas o morales y unidades económi
 ###### ARTÍCULO 24.
 
 La base del impuesto serán los ingresos globales que se obtengan con motivo de las actividades materia del gravamen.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+Con excepción del 30% de entradas y/o boletos, siempre y cuando se entreguen por cortesía.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
@@ -403,9 +449,11 @@ V.- Ubicación y nomenclatura del bien inmueble;
 
 VI.- Valor de la operación, valor catastral y avalúo bancario, acompañando copia del avalúo correspondiente;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1998)</small>
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002) (F. DE E., P.O. 14 DE FEBRERO DE 2003)
 
-VII.- Tratándose de compra-venta de inmuebles colindantes con la Zona Federal Marítimo Terrestre, que usen o gocen la misma, teniendo o no concesión autorizada, deberán presentar copia del recibo oficial expedido por la Tesorería Municipal con el que acrediten estar al corriente en el pago de esta contribución;
+VII.- Tratándose de compraventa de inmuebles colindantes con la Zona Federal Marítimo Terrestre, que usen o gocen la misma, teniendo o no concesión autorizada, deberán presentar la constancia de uso o no uso de concesión, en caso de contar con la constancia de uso de concesión, presentar constancia de no adeudo por derechos de uso y goce de la Zona Federal Marítimo terrestre, así como la copia de la última declaración y copia del recibo oficial expedido por la Tesorería Municipal con el que acrediten estar al corriente en el pago de esta contribución y los derechos que señala el artículo 121 de esta Ley;
+
+Tratándose de unidades privativas pertenecientes a fraccionamientos o a condominios, las constancias de no adeudo, podrán ser las correspondientes a la parte proporcional del pago realizado por cada una de las unidades privativas y dichas unidades serán responsables por los adeudos de la proporcionalidad de los proindivisos;
 
 VIII.- Copia del certificado de no adeudo de cooperación por obras;
 
@@ -484,6 +532,10 @@ I.- Tratándose de premios en efectivo, el monto total del ingreso obtenido sin 
 II.- Tratándose de premios en especie, será base del impuesto el valor con el que se promocione cada uno de los premios, o en su defecto, el valor de su facturación, siempre y cuando dichos valores coincidan con el valor de mercado de Artículos idénticos o semejantes al momento de su causación; y
 
 III.- Para los sujetos de este impuesto que organicen o celebren loterías, rifas, sorteos, por concursos de toda clase, se considera el valor total de la emisión de los boletos, billetes, contraseñas o cualquier otro comprobante que permita participar en cualquiera de los eventos de este impuesto.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+IV.- Cuando no se pueda determinar el valor de boletos se cobrará hasta 10 S.M.G. por sorteo.
 
 ###### ARTÍCULO 42.
 
@@ -963,7 +1015,9 @@ II.- Expedición de certificados de algún hecho ocurrido en presencia de la aut
 
 III.- Expedición de copias certificadas de constancias existentes en los archivos del Municipio, por cada hoja 1.0 S.M.G.
 
-IV.- Por expedición de certificado de no adeudo de impuesto predial 2.5 S.M.G.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+IV.- Por la expedición de certificados expedidos por la Tesorería Municipal: 2.5 S.M.G. en todas las zonas.
 
 ###### ARTÍCULO 78.
 
@@ -1143,11 +1197,13 @@ I.- Original y copia de la inscripción en el Registro Federal de Contribuyentes
 
 II.- Croquis de ubicación del establecimiento;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-III.- Copia del último pago predial actualizado o constancias de no adeudo;
+III.- Copia del último pago predial actualizado, constancia de no adeudo y los derechos que señala el artículo 121 de esta Ley;
 
-IV.- Original y copia de la patente con el resello actualizado, si se expiden bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+IV.- Original y copia de la patente con el resello actualizado en el domicilio y nombre de propietario, si se expiden bebidas alcohólicas;
 
 V.- Los demás documentos que a juicio de los Presidentes Municipales se juzgue necesario, previa publicación;
 
@@ -1165,11 +1221,13 @@ I.- Licencia de funcionamiento del año inmediato anterior;
 
 II.- Copia de los avisos a los Registros Federales y Estatales de Contribuyentes, cuando haya efectuado cambios en lo relativo a nombre, denominación o razón social, domicilio fiscal, actividad preponderante o cualquier otro hecho de los que den motivo a la presentación de dichos avisos;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-III.- Copia del pago de impuesto predial actualizado del establecimiento o constancia de no adeudo;
+III.- Copia del último pago predial actualizado, constancia de no adeudo o los derechos que señala el artículo 121 de esta Ley;
 
-IV.- Original y copia de la patente con resello actualizado cuando con posterioridad a la inscripción se le haya autorizado la venta de bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+IV.- Original y copia de la patente con el resello actualizado en el domicilio y nombre de propietario, si se expiden bebidas alcohólicas;
 
 V.- Croquis de ubicación del establecimiento, en caso de que se haya realizado cambio de domicilio; y
 
@@ -1809,9 +1867,49 @@ b).- Los demás que se considere necesario, previo acuerdo de Cabildo.
 
 ### CAPITULO XIX. SERVICIOS DE INSPECCIÓN Y VIGILANCIA
 
-###### ARTÍCULO 120.
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-Los municipios cobrarán este servicio en la forma y términos que para el efecto establezca el ordenamiento legal correspondiente.
+#### SECCION PRIMERA. SERVICIOS DE INSPECCIÓN Y VIGILANCIA
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 120.
+
+Los Municipios cobrarán este servicio en la forma y términos que para el efecto establezca el ordenamiento legal correspondiente.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+#### SECCION SEGUNDA. DEL SERVICIO PRESTADO POR LAS AUTORIDADES DE SEGURIDAD PÚBLICA
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 120-A.
+
+Es objeto de este derecho el servicio especial prestado por convenio o contrato que realice la Dirección de Seguridad Pública Municipal.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 120-B.
+
+Son sujetos de este derecho las personas físicas o morales, empresas, organizadores de fiestas o eventos que soliciten en forma periódica, eventual o permanente el servicio policíaco.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 120-C.
+
+Este derecho se causará y pagará en las tesorerías correspondientes a cada municipio, a más tardar el día hábil siguiente a la firma del convenio, de acuerdo a la siguiente:
+
+TARIFA
+
+a) Por el servicio de 24 horas de labores por 24 horas de descanso de un policía raso, mensualmente pagarán 138 S.M.G.
+
+b) Por el servicio de 24 horas de labores por 24 horas de descanso que preste un policía segundo, mensualmente pagarán 207 S.M.G.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 120-D.
+
+Las personas físicas o morales que requieran del servicio especial, lo solicitarán por escrito ante las Oficinas de las Tesorerías Municipales indicando número de personal requerido, fecha de inicio y terminación del convenio, domicilio donde se prestará el servicio, nombre y denominación o razón social del solicitante, domicilio del mismo.
 
 ### CAPITULO XX. SERVICIOS DE RECOLECCIÓN, TRANSPORTACIÓN, TRATAMIENTO Y DESTINO FINAL DE RESIDUOS SÓLIDOS
 
@@ -2093,6 +2191,10 @@ Se entiende por financiamientos los ingresos que perciba el municipio por crédi
 
 ## TRANSITORIOS
 
+###### ARTICULO CUARTO.
+
+Se derogan las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
 ###### ARTÍCULO PRIMERO.
 
 Este decreto entrará en vigor a partir del día 1 de enero de 1998, previa publicación en el Periódico Oficial del Estado.
@@ -2150,3 +2252,71 @@ PRIMERO.- El presente decreto entrará en vigor a partir del día primero del me
 SEGUNDO.- Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
 
 TERCERO.- Por esta única ocasión la tasa aplicable para el pago del impuesto predial respecto de predios edificados en zonas urbanas, cuyo valor sea de $5001.00 en adelante, exclusivamente del Municipio de Othón P. Blanco, contenido en el inciso b) de la fracción II del artículo 13, de la Ley de Hacienda de los municipios, será de 10.5 al millar, cobrando vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado y por todo el ejercicio fiscal del año 2002.
+
+P.O. 30 DE DICIEMBRE DE 2002.
+
+DECRETO NUMERO 25
+
+POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
+
+## TRANSITORIOS
+
+PRIMERO.- En tanto el Estado y los Municipios permanezcan adheridos al Sistema Nacional de Coordinación Fiscal, quedan en suspenso los siguientes
+
+I.- DERECHOS:
+
+A. Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Por lo anterior, quedan en suspenso los siguientes numerales:
+
+1. Licencias y refrendos de funcionamiento comercial, industrial y de servicios.
+
+2. Licencias de funcionamiento en horas extraordinarias.
+
+3. Rastro e inspección sanitaria.
+
+4. Registro o búsqueda de fierros y señales para ganado.
+
+5. Servicios de inspección y vigilancia.
+
+6. Servicios de promoción y publicidad turística.
+
+B. Asimismo, los que resulten como consecuencia de permitir o tolerar las excepciones a una disposición administrativa, tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1. Licencias de construcción.
+
+2. Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3. Licencias para fraccionar o lotificar terrenos.
+
+4. Licencias para conducir vehículos.
+
+5. Expedición de placas y tarjetas para la circulación de vehículos.
+
+6. Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7. Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto los que se realicen por medio de televisión, radio, periódicos y revistas.
+
+C. Registro o cualquier acto relacionado con los mismos, a excepción del Registro Civil.
+
+D. Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en este inciso los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos en la vía pública, ni por el uso o tenencia de anuncios.
+
+E. Actos de inspección y vigilancia.
+
+Los derechos no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los numerales 1 al 7 del inciso B y el inciso D.
+
+Los certificados de documentos así como la reposición de éstos, por extravío o destrucción parcial o total, no quedarán comprendidos dentro de lo dispuesto en los incisos B y C de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las entidades federativas o a los municipios.
+
+En ningún caso, lo dispuesto en este artículo limitará la facultad de los Estado (sic) y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de Derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como Derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan las características de Derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+SEGUNDO.- El presente decreto entrará en vigor a partir del 1° de Enero del año 2003, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO: Para la determinación del Impuesto Predial en el ejercicio fiscal 2003, en el Municipio de Cozumel, se aplicará la tabla del cálculo anual del mencionado impuesto, siendo el siguiente:
+
+TABLA PARA EL CALCULO ANUAL DEL IMPUESTO PREDIAL 2003
+
+(VEASE ARCHIVO ANEXO)
