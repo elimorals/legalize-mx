@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interno-del-archivo-historico-pablo-l-martinez-2713"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-08-31"
-last_updated: "1995-08-31"
+last_updated: "2002-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERNO DEL ARCHIVO HISTORICO "PABLO L. MARTINEZ"
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO HISTORICO "PABLO L. MARTINEZ", PUBLICADO EN EL B.O. DE 31 DE JULIO DE 2002, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: DEROGADO.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de agosto de 1995.
 
@@ -330,3 +332,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. RAÚL ANTONIO ORTEGA SALGADO
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 31 DE JULIO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Reglamento Interno del Archivo Histórico "Pablo L. Martínez" de fecha 15 de agosto de 1995 y las demás disposiciones que se opongan al presente Reglamento.
