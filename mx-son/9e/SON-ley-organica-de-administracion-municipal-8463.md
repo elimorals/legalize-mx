@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-administracion-municipal-8463"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1984-02-02"
-last_updated: "1999-06-28"
+last_updated: "2001-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY ORGANICA DE ADMINISTRACION MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE JUNIO DE 1999.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE DECRETO NUMERO 75 POR EL QUE SE DECRETA LA LEY DE GOBIERNO Y ADMINISTRACION MUNICIPAL, PUBLICADA EN EL BOLETIN OFICIAL DE ESTADO DE SONORA EL LUNES 15 DE OCTUBRE DE 2001.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el jueves 2 de febrero de 1984.
 
@@ -145,7 +147,7 @@ II.- Prestar auxilio a las autoridades cuando sean legalmente requeridos para el
 
 III.- Promover ante el Ayuntamiento, Bandos de Policía y Buen Gobierno, reglamentos, circulares y disposiciones administrativas de observancia general en el Municipio.
 
-IV.- Inscribirse en lo padrones expresamente determinados por las Leyes Federales, Estatales o Municipales.
+IV.- Inscribirse en los padrones expresamente determinados por las Leyes Federales, Estatales o Municipales.
 
 V.- Desempeñar los cargos concejiles, las funciones electorales, las de jurado y formar parte de los Consejos Municipales que se constituyan de acuerdo a la Ley.
 
@@ -205,7 +207,7 @@ Los cargos de Presidente Municipal, Síndico y Regidor de un Ayuntamiento, son o
 
 ###### ARTICULO 22.
 
-El día dieciséis de septiembre del año en que se verifique la elección ordinaria correspondiente, en el lugar, y hora señalados por los miembros salientes del Ayuntamiento de que se trate, deberán de comparecer en sesión solemne de Cabildo las personas que, en los términos de la Ley , resultaron electas para ocupar los cargos de Presidente Municipal, Síndico y Regidores, con el fin de que previas las formalidades a que se refiere este Capítulo, asuman el ejercicio de las funciones inherentes a sus cargos.
+El día dieciséis de septiembre del año en que se verifique la elección ordinaria correspondiente, en el lugar, y hora señalados por los miembros salientes del Ayuntamiento de que se trate, deberán de comparecer en sesión solemne de Cabildo las personas que, en los términos de la Ley, resultaron electas para ocupar los cargos de Presidente Municipal, Síndico y Regidores, con el fin de que previas las formalidades a que se refiere este Capítulo, asuman el ejercicio de las funciones inherentes a sus cargos.
 
 De no señalarse por los miembros salientes del Ayuntamiento, lugar y hora para la celebración de esta Sesión solemne, se entenderá que la misma debe efectuarse en el recinto oficial de sesiones del Ayuntamiento respectivo, a las 10:00 horas del día mencionado en el párrafo anterior.
 
@@ -1021,7 +1023,7 @@ Los Presupuestos de Egresos regularán el gasto público municipal y se formular
 
 Los Presupuestos de Egresos de los Municipios deberán publicarse, en el Boletín Oficial del Gobierno del Estado, con cargo a las Haciendas Municipales en lo que respecta al costo de la publicación, a más tardar el 31 de diciembre de cada año.
 
-Asimismo, las modificaciones al Presupuesto de Egresos que autorice el Ayuntamiento, en los términos de la fracción XXXI del artículo 37 de esta Ley, deberán publicarse en el Boletín Oficial del Gobierno del Estado , dentro de los quince días siguientes a la fecha del Acuerdo respectivo.
+Asimismo, las modificaciones al Presupuesto de Egresos que autorice el Ayuntamiento, en los términos de la fracción XXXI del artículo 37 de esta Ley, deberán publicarse en el Boletín Oficial del Gobierno del Estado, dentro de los quince días siguientes a la fecha del Acuerdo respectivo.
 
 ###### ARTICULO 86.
 
@@ -1131,7 +1133,7 @@ Los concesionarios deberán cubrir en la Tesorerías Municipales, el monto de lo
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-Las concesiones sobre inmuebles de dominio público podrán otorgarse por el Ayuntamiento hasta por un plazo de diez años, el cual podrá ser prorrogado hasta por plazos equivalentes a los señalados originalmente, requiriéndose de la aprobación del Congreso del Estado , cuando el plazo exceda de su período constitucional.
+Las concesiones sobre inmuebles de dominio público podrán otorgarse por el Ayuntamiento hasta por un plazo de diez años, el cual podrá ser prorrogado hasta por plazos equivalentes a los señalados originalmente, requiriéndose de la aprobación del Congreso del Estado, cuando el plazo exceda de su período constitucional.
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1315,7 +1317,7 @@ Cuando se trate de recuperar la poseción (sic) provisional o definitiva o de re
 
 ###### ARTICULO 119.
 
-Las concesiones sobre bienes de dominio público municipal, se otorgarán , extinguirán, revocarán y se decretará su nulidad y caducidad en la misma forma y términos que para dichos actos se señalen en al Ley General de Bienes del Estado, en todo lo que resulte aplicable. Asimismo, para todo lo no previsto en este Capítulo, se observará en lo conducente la citada Ley.
+Las concesiones sobre bienes de dominio público municipal, se otorgarán, extinguirán, revocarán y se decretará su nulidad y caducidad en la misma forma y términos que para dichos actos se señalen en al Ley General de Bienes del Estado, en todo lo que resulte aplicable. Asimismo, para todo lo no previsto en este Capítulo, se observará en lo conducente la citada Ley.
 
 ## TITULO QUINTO. DE LA DESAPARICION Y SUSPENSION DE AYUNTAMIENTOS Y DE LA SUSPENSION O REVOCACION DEL MANDATO DE ALGUNOS DE SUS MIEMBROS
 
@@ -1706,3 +1708,13 @@ B.O. 28 DE JUNIO DE 1999.
 PRIMERO.- Los trámites que se estén llevando a cabo en las instancias correspondientes relacionados con la autorización de los bienes muebles de dominio privado a que se refiere el artículo 106 de la Ley Orgánica de Administración Municipal, que estuvieren pendientes de resolverse hasta antes de la entrada en vigor de la presente Ley, deberán de continuarse hasta su terminación, conforme al contenido de las disposiciones anteriores que se reforman.
 
 SEGUNDO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 15 DE OCTUBRE DE 2001.
+
+###### ARTICULO PRIMERO.
+
+LA PRESENTE LEY ENTRARA EN VIGOR A LOS TREINTA DIAS SIGUIENTES AL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+A LA ENTRADA EN VIGOR DE ESTA LEY, SE ABROGA LA LEY ORGANICA DE ADMINISTRACION MUNICIPAL, PUBLICADA EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO EL 2 DE FEBRERO DE 1984 Y LA LEY QUE REGULA LA PRESTACION DE SERVICIOS PUBLICOS MUNICIPALES, PUBLICADA EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO EL 17 DE AGOSTO DE 1987.
