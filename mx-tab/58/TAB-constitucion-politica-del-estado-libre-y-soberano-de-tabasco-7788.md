@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1983-04-09"
+last_updated: "1983-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 1983.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -449,7 +449,11 @@ XXIII.- Convocar a elecciones Extraordinarias de Ayuntamientos cuando resulte pr
 
 XXIV.- Dirimir los conflictos entre los otros dos Poderes, siempre que aquéllos no fueren de la competencia de la Suprema Corte de Justicia de la Nación;
 
-XXV.- Conocer de las acusaciones que se hagan a los Funcionarios Públicos mencionados en el artículo 166 (sic) de esta Constitución por delitos oficiales, formulando en su caso, acusación contra ellos ante el Tribunal Superior de Justicia, y erigirse en Gran Jurado para declarar si ha lugar a preceder contra los que gozan de fuero constitucional, cuando sean acusados por delitos del orden común;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 1983)</small>
+
+XXV.- Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubiesen incurrido en delito en los términos del artículo 69 de esta constitución.
+
+Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el artículo 68 de esta Constitución y fungir como órgano de acusación en los Juicios Políticos que contra éstos se instauren;
 
 XXVI.- Resolver los conflictos de límites del Estado mediante convenios amistosos, con aprobación del Congreso de la Unión;
 
@@ -663,7 +667,7 @@ VII.- Publicar mensualmente los cortes de caja de las oficinas recaudadoras del 
 
 VIII.- Otorgar los títulos profesionales conforme a las leyes que regulen los estudios correspondientes;
 
-IX.- Pedir al Congreso del Estado o a la Comisión Permanente, la destitución del o los Magistrados del Tribunal Superior de Justicia que incurrieren en falta o faltas a las buenas costumbres, escuchando previamente a los responsables para apreciar en conciencia la justificación que éstos ofrecieren;
+IX.- (DEROGADA, P.O. 11 DE JUNIO DE 1983)
 
 X.- Conceder indultos por los delitos de la competencia de los Tribunales del Estado, con los requisitos establecidos por las leyes;
 
@@ -727,7 +731,7 @@ Los titulares de las Dependencias son responsables por el despacho de los asunto
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
 
 ## TITULO VI. MUNICIPIO LIBRE
 
@@ -801,6 +805,10 @@ El Tribunal Superior de Justicia residirá en la Capital del Estado y en ningún
 
 Son facultades del Tribunal Superior de Justicia, funcionando en pleno, dirimir los conflictos de carácter jurídico que surjan entre los Municipios y cualquiera de los otros dos Poderes del Estado y las demás que le confieren las leyes.
 
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
+
+Erigirse en Jurado de sentencia para conocer en Juicio Político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del artículo 68 de esta constitución.
+
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 62.
@@ -815,13 +823,13 @@ La competencia del Tribunal Superior de Justicia, los períodos de sesiones, el 
 
 La remuneración que perciban los Magistrados del Tribunal Superior de Justicia y los Jueces, por los servicios que presten al Poder Judicial, no podrá ser disminuída durante su encargo.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
 
-Los Magistrados Numerarios y Jueces del Tribunal Superior de Justicia del Estado, serán inamovibles en sus cargos y sólo podrán ser removidos, cuando públicamente observen mala conducta, de acuerdo con el procedimiento señalado de la Fracción IX del Artículo 51 de esta Constitución o previo el juicio de responsabilidad, por incapacidad legal o física o por renuncia expresa al puesto.
+Los Magistrados y Jueces que integran el Poder Judicial del Estado, serán inamovibles en sus cargos en el tiempo que desempeñen su función y sólo podrán ser separados de ellos en los términos del título séptimo de esta constitución.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-## TITULO VII. RESPONSABILIDADES DE LOS FUNCIONARIOS PUBLICOS
+## TITULO VII. RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -885,7 +893,7 @@ VII.- El Cargo de Regidor no es renunciaba, salvo el caso de causa grave; y
 
 VIII.- En las rancherías y en los centros de población exceptuando la Cabecera Municipal, se designarán o elegirán de acuerdo a la ley correspondiente, las Autoridades Municipales que representen al Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE JUNIO DE 1983)</small>
 
 ## TITULO IX. DE LAS REFORMAS Y DE LA INVIOLABILIDAD DE LA CONSTITUCION
 
@@ -899,59 +907,93 @@ MUNICIPIO LIBRE.
 
 ###### ARTICULO 66.
 
-Los Diputados al Congreso del Estado, los Magistrados, los Titulares de las Secretarías y el Procurador de Justicia, así como los Presidentes de los Ayuntamientos, son responsables de los delitos comunes que cometan durante el tiempo de su encargo y por los delitos, faltas u omisiones en que incurran en el ejercicio de ese mismo cargo.
+Para los efectos de las responsabilidades a que alude este título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los funcionarios y empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza en cualquiera de los Poderes del Estado y en la Administración Pública Municipal, los que serán responsables por actos u omisiones en que incurran en el desempeño de su respectivas funciones.
 
-El Gobernador del Estado y los Diputados a la Legislatura Local son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos, a las leyes federales y a la Constitución Local, por traición a la patria y delitos graves del orden común.
+El Gobernador del Estado, para los efectos de este Título, sólo será responsable en los términos del Artículo 110, segundo párrafo de la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Titulares de las Secretarías, el Procurador de Justicia, los Presidentes Municipales de los Ayuntamientos, son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las Leyes Federales, y a esta Constitución y a las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos del Estado y de los Municipios.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
 
 ###### ARTICULO 67.
 
-Si el delito fuese común, el Congreso erigido en Gran Jurado declarará, por mayoría de votos del número total de miembros que lo formen, si ha lugar a proceder contra el acusado.
+La Legislatura del Estado. Expedirá la Ley de Responsabilidades de los Servidores Públicos y las demás normas conducentes a sancionar a quienes, teniendo este carácter, incurran en responsabilidad de acuerdo con las siguientes prevenciones:
 
-En caso negativo, no habrá lugar a ningún procedimiento ulterior, pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado haya dejado de tener fuero, pues la resolución de la Cámara no prejuzga absolutamente los fundamentos de la acusación.
+I.- Se impondrán, mediante Juicio Político, las sanciones indicadas en esta Constitución a los servidores Públicos en ella señalados, cuando en el Ejercicio de sus Funciones incuran (sic) en Actos u omisiones que redunden en perjuicio de los intereses Públicos fundamentales o de su Buen Despacho.
 
-En caso afirmativo, el acusado queda, por el mismo hecho, separado de su encargo y sujeto desde luego a la acción de los Tribunales comunes, a menos que se trate del Gobernador del Estado pues en tal caso, sólo habrá lugar a acusarlo ante el Tribunal Superior de Justicia, como si se tratase de delito oficial.
+No procede al Juicio Político por la mera expresión de ideas;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+II.- La Comisión de delitos por parte de cualquier servidor Público será perseguida y sancionada en los términos de la Legislación Penal; y
+
+III.- Se aplicarán sanciones Administrativas a los servidores públicos por aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+
+Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán automáticamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+Las Leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores Públicos que durante el tiempo de su encargo, o por motivo del mismo, por si o por interposita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueño sobre ellos, y cuya procedencia licita no pudiesen justificar. Las Leyes Penales Sancionarán con el decomiso y con la privación de la propiedad de dichos bienes; además de las otras penas que correspondan.
+
+Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de pruebas, podrán formular denuncia ante la Cámara de Diputados del Estado, respecto de las conductas a las que se refiere el presente artículo.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
 
 ###### ARTICULO 68.
 
-No gozan de fuero constitucional los Altos Funcionarios que señala el artículo 66 por los delitos oficiales o comunes, faltas u omisiones en que incurran en el desempeño de empleo, cargo o comisión pública ajenos al que le otorgue fuero. Para que la causa pueda iniciarse cuando el Alto Funcionario haya vuelto a ocupar el cargo que le otorga fuero, deberá procederse conforme al artículo anterior.
+Podrán ser sujetos de Juicio Político los Diputados a la Legislatura Local, los Magistrados del Tribunal Superior de Justicia, los Jueces del Fuero Común, los Titulares de las Secretarías, el Oficial Mayor, los Directores de la Administración Pública Estatal, el Procurador General de Justicia, los Subprocuradores; los Agentes del Ministerio Público, los Presidentes Municipales, los Síndicos de Hacienda Municipales; Los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+Las sanciones consistirán en la destitución del servidos (sic) Público en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+
+Para la aplicación de las sanciones a que se refiere este precepto, la Cámara de Diputados procederá a la acusación respectiva ante el Tribunal Superior de Justicia, previa la declaración de la mayoría absoluta del número de los miembros presentes en sesión de aquella cámara, después de haber sustanciado el procedimiento respectivo y con audiencia del inculpado.
+
+Conociendo de la acusación, el Tribunal Superior de Justicia, erigido en Jurado de Sentencia, aplicará la sanción correspondiente, mediante reesolución (sic) de las dos terceras partes de los miembros presentes en la seesión (sic) una vez practicadas las diligencias correspondientes y con Audiencia del acusado.
+
+Las declaraciones y resoluciones de la Cámara de Diputados y del Tribunal Superior de Justicia son inatacables.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
 
 ###### ARTICULO 69.
 
-De los delitos oficiales conocerá el Tribunal Superior de Justicia, erigido en Gran Jurado, pero no podrá abrir la averiguación correspondiente, sin previa acusación de la Cámara de Diputados. Si el Pleno del Tribunal Superior de Justicia declarase, por mayoría de las dos terceras partes de sus miembros, después de practicar las diligencias que estime convenientes y de oír al acusado, que éste es culpable, quedará privado de su puesto por virtud de tal declaración e inhabilitado para obtener otro por el tiempo que determine la ley.
+Para proceder penalmente contra los Diputados al Congreso del Estado, Magistrados del Tribunal Superior de Justicia, Titulares de las Secretarías, Procurador General de Justicia, Presidentes de los Ayuntamientos, por la Comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión sí ha o no lugar a proceder contra el inculpado.
 
-Cuando el mismo hecho tuviere señalada otra sanción en la legislación penal del Estado, el acusado quedará a disposición de las autoridades comunes para que lo juzguen y castiguen con arreglo a ella.
+Si la resolución de la Cámara fuese negativa, se suspenderá todo procedimiento ulterior pero ello no será obstáculo para que la imputación por la Comisión del delito continúe su curso, cuando el inculpado haya concluido el Ejercicio de su encargo, pués la resolución no prejuzga sobre los fundamentos de la imputación.
 
-En los casos de este artículo y en los del 67, las resoluciones del Gran Jurado y la declaración en su caso de la Cámara de Diputados, son inatacables.
+Si la Cámara declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúe con arreglo a la Ley.
 
-Se concede acción popular para denunciar ante la Cámara de Diputados los delitos comunes y oficiales de los Altos Funcionarios del Estado. Cuando la Cámara declare que procede acusar, nombrará una comisión entre sus miembros para que sostenga ante el Tribunal Superior de Justicia la acusación de que se trate.
+Las declaraciones y resoluciones de la Cámara de Diputados y del Tribunal Superior de Justicia, son inatacables.
 
-El Congreso del Estado expedirá, a la mayor brevedad, una Ley de Responsabilidad de todos los Funcionarios y Empleados del Estado y de los Municipios, determinando como delitos o faltas oficiales todos los actos u omisiones que puedan redundar en perjuicio de los intereses públicos aun cuando hasta la fecha no hayan tenido carácter delictuoso.
+El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto este sujeto a proceso Penal. Si este culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria, y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
 
-Estos delitos o faltas serán siempre juzgados por un Jurado Popular, en los términos que para los delitos de imprenta establece el articulo 20 de la Constitución Política de los Estados Unidos Mexicanos.
+En demandas del órden Civil que se entablen contra cualquier servidor público, no se requerirá declaración de procedencia.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la Legislación Penal, y tratandose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de (sic)
+
+Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
 
 ###### ARTICULO 70.
 
-Pronunciada una sentencia de responsabilidad por delitos oficiales, no puede concederse al reo la gracia del indulto.
+No se requerirá declaración de procedencia de la Cámara de Diputados, cuando algunos de los servidores públicos a que hace referencia el párrafo primero del Artículo 69, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 69, se procederá de acuerdo con lo dispuesto en dicho precepto.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
 
 ###### ARTICULO 71.
 
-La responsabilidad por delitos y faltas oficiales sólo exigirse durante el período en que el Funcionario ejerza su encargo y hasta un año después.
+Las Leyes sobre responsabilidades Administrativas de los servidores Públicos determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las Leyes, consistirán en suspención (sic), destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable, y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del artículo 67, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
 
 ###### ARTICULO 72.
 
-En demanda del orden civil no hay fuero ni inmunidad para ningún Funcionario Público, pero no podrá decretarse ninguna providencia de arraigo en su contra.
+El procedimiento de juicio político solo podrá iniciarse durante el periódo en el que el servidor público desempeñe su cargo y dentro de un año después.
+
+Las sanciones correspondientes se apliccarán (sic) en un periódo no mayor de un año a partir de iniciado el procedimiento.
+
+La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley Penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hace referencia el artículo 69.
+
+La Ley señalará los casos de prescripción de la responsabilidad administrativa, tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del artículo 67. Cuando dichos actos u omisiones fuesen graves, los plazos de prescripción no serán inferiores a tres años.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 73.
 
@@ -979,11 +1021,11 @@ Ningún ciudadano podrá desempeñar a la vez dos o más cargos de elección pop
 
 Todo funcionario y empleado público del Estado o de los Municipios, sin excepción alguna, antes de tomar posesión de su cargo otorgará ante quien corresponda protesta de cumplir las obligaciones que contrae, guardar y hacer guardar sin reserva alguna la Constitución General de la República, la del Estado y las Leyes que de ellas emanen, usándose la forma prevista en el Artículo 58 adaptándola a cada caso.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
 
 ###### ARTICULO 75.
 
-Los Diputados, el Gobernador del Estado, los Magistrados del Tribunal Superior de Justicia y todos los Funcionarios de elección popular serán retribuidos por sus servicios como lo dispongan las leyes y pagados por la dependencia que legalmente corresponda o por los Municipios, en su caso. La Ley que les aumente o disminuya la remuneración entrará en vigor hasta el siguiente ejercicio fiscal.
+El Gobernador del Estado, los Diputados, los Magistrados del Tribunal Superior de Justicia y los demás servidores públicos, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual o equitativamente en el presupuesto de Egresos del Estado, de los Municipios, o en los presupuestos de las entidades paraestatales, según corresponda.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 1983)</small>
 
@@ -991,13 +1033,13 @@ Los Diputados, el Gobernador del Estado, los Magistrados del Tribunal Superior d
 
 Corresponde al Estado la Rectoría del Desarrollo de la Entidad, para Garantizar que éste sea integral, que fortalezca su soberanía y su Régimen Democrático y que, mediante el Crecimiento Económico que fomente el empleo, y una más justa distribución del ingreso y la riqueza, permita el pleno ejercicio de las libertades y la dignidad de los individuos, grupos y clases sociales cuya seguridad protege el derecho.
 
-El Estado Planeará, Conducirá, Coordinará y Orientará la Actividad Económica Estatal, y llevará a cabo la regulación y fomentos de las Actividades que demande el interés General, en el marco de las Libertades Otorgadas por la Ley.
+El Estado Planeará, Conducirá, Coordinará y Orientará la Actividad Económica Estatal, y llevará a cabo la regulación y fomento de las Actividades que demande el interés General, en el marco de las Libertades Otorgadas por la Ley.
 
 Al Desarrollo Económico Estatal Concurrirán con Responsabilidad Social, el Sector Público, el Sector Social y el Sector Privado, sin menoscabo de otras formas de Actividad Económica que contribuyan al Desarrollo de la Entidad.
 
-El Sector Público tendrá a su cargo, de manera exclusiva, las áreas estratégicas definidas por esta Constitución y las Leyes que de ellas emanen. Para un mejor cumplimiento de sus fines, la Ley Precisará las formas de Participación Social en estas áreas, conservando el Estado en todo tiempo el Control sobre la Conducción y Operación. Asimismo, podrá participar por sí, o a través de los Sectores Social o Privado de acuerdo con la Ley, para impulsar y organizar las areas prioritarias del desarrollo.
+El Sector Público tendrá a su cargo, de manera exclusiva, las áreas estratégicas definidas por esta Constitución y las Leyes que de ella emanen. Para un mejor cumplimiento de sus fines, la Ley Precisará las formas de Participación Social en estas áreas, conservando el Estado en todo tiempo el Control sobre la Conducción y Operación. Asimismo, podrá participar por sí, o a través de los Sectores Social o Privado de acuerdo con la Ley, para impulsar y organizar las areas prioritarias del desarrollo.
 
-Bajo criterios de equidad social y productividad, se apoyara e impulsará al sector social y al sector privado de la economía, sujetándolos junto con las actividades económicas que realiza el Estado, a las modalidades que dicte el interés Público y al uso, en beneficio general, de los recursos productivos, cuidando de su conservación y del medio ambiente.
+Bajo criterios de equidad social y productividad, se apoyara e impulsará al sector social y al sector privado de la economía, sujetandolos junto con las actividades económicas que realiza el Estado, a las modalidades que dicte el interés Público y al uso, en beneficio general de los recursos productivos, cuidando de su conservación y del medio ambiente.
 
 La Ley, establecerá los mecanismos que faciliten la organización y expansión de la actividad económica del sector social, mediante organizaciones para trabajadores, cooperativas, comunidades, empresas que pertenezcan mayoritaria o exclusivamente a los trabajadores y, en general, de todas las formas de organización social para la producción, distribución y consumo de bienes y servicios socialmente necesarios.
 
@@ -1005,13 +1047,35 @@ La Ley alentará y protegerá la actividad económica que realizan los particula
 
 El Estado organizará un sistema de planeación Democrática del Desarrollo Estatal que imprima solidez, dinamismo, permanencia y equidad, al crecimiento de la economía y a la democratización Política, Social y Cultural del Estado.
 
-Los fines del proyecto estatal contenidos en esta constitución determinarán los objetivos de la planeación. La Planeación será democrática buscando la participación de los diversos sectores sociales y recogiendo las aspiraciones y demandas de la sociedad para incorporarlos al plan y a los programas de desarrollo. Por tanto, habrá un plan estatal de desarrollo al que se sujetarán obligatoriamente los programas de la administración pública del Estado. La Ley facultará al ejecutivo para que pueda establecer los procedimientos de participación y consulta popular en el sistema estatal de planeación democrática, así como los criterios de la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo. Asimismo, determinará cuales serán los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenios con los Gobiernos de las entidades municipales, e induzca y concerte con los particulares las acciones a realizar para su elaboración y ejecución.
+Los fines del proyecto estatal contenidos en esta Constitución determinarán los objetivos de la planeación. La Planeación será democrática buscando la participación de los diversos sectores sociales y recogiendo las aspiraciones y demandas de la sociedad para incorporarlos al plan y a los programas de desarrollo. Por tanto, habrá un Plan Estatal de Desarrollo al que se sujetarán obligatoriamente los programas de la administración pública del Estado. La Ley facultará al Ejecutivo para que pueda establecer los procedimientos de participación y consulta popular en el Sistema Estatal de Planeación Democrática, así como los criterios de la formulación, instrumentación, control y evaluación del Plan y los programas de desarrollo. Asimismo, determinará cuales serán los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenios con los Gobiernos de las entidades municipales, e induzca y concerte con los particulares, las acciones a realizar para su elaboración y ejecución.
 
-El ejecutivo informará al congreso del Estado de los criterios que sirvan de base al plan estatal de desarrollo, con el fin de que los tome en consideración al ejercer sus atribuciones constitucionales.
+El Ejecutivo informará al congreso del Estado de los criterios que sirvan de base al plan estatal de desarrollo, con el fin de que los tome en consideración al ejercer sus atribuciones constitucionales.
 
 El Estado coadyuvará con la Federación, promoviendo las condiciones para el desarrollo rural integral, con el propósito de generar empleos y de garantizar el acceso de la población campesina al bienestar y justa incorporación y participación en el desarrollo del Estado. Igualmente, fomentará la actividad agropecuaria y forestal para el mejor uso de la tierra, con obras de infraestructura, insumos, creditos y servicios de capacitación y extensionismo.
 
 El Estado impulsará también, junto con la Federación, la organización para la producción, industrialización y comercialización, que requiera la economía estatal y el beneficio de los campesinos.
+
+> <small>N. DE E. EN TERMINOS DEL TERCERO TRANSITORIO DEL DECRETO DE REFORMA, SE MANTIENEN VIGENTES LOS DOCE PARRAFOS ANTERIORES.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
+
+Los recursos Económicos de que dispongan el Gobierno del Estado, de los Municipios, así como sus respectivas Administraciones Públicas Paraestatales, se administrarán con eficiencia y honradez para satisfacer los objetivos a los que estén destinados.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
+
+Las Adquisiciones, Arrendamientos y Enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y contratación de obras que realicen, se adjudicarán o llevarán a cabo a traves de licitaciones públicas, mediante convocatoria Pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportinidad (sic) y demás circunstancias pertinentes.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
+
+Cuando las licitaciones a que hace referencia al párrafo anterior, no sean idóneas para asegurar dichas condiciones, las Leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
+
+El manejo de Recursos Económicos del Estado, de los Municipios y de sus respectivas Administraciones Públicas paraestatales, se sujetarán a las bases de este artículo.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
+
+Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del título séptimo de esta Constitución.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1380,3 +1444,25 @@ Toda norma que se oponga a estas Reformas y Adiciones Constitucionales, quedará
 ###### ARTICULO TERCERO.
 
 Estas Reformas y Adiciones han sido aprobadas en los términos del Artículo 83 de la Constitución Política del Estado, por la totalidad de las autoridades que constituyen los Ayuntamientos de esta Entidad Federativa.
+
+P.O. 11 DE JUNIO DE 1983.
+
+###### ARTICULO PRIMERO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga la Fracción IX del artículo 51 de la Constitución Política del Estado.
+
+###### ARTICULO TERCERO.
+
+Los doce parrafos con que fué adicionado el artículo 76 de la Constitución Política Local, mediante Decreto No. 0018 de fecha 31 de Marzo del presente año, expedido por esta Quincuagésima Primera Legislatura, quedan vigentes.
+
+###### ARTICULO CUARTO.
+
+Estas Reformas y adicion han sido aprobadas en los términos del artículo 83 de la Constitución Política del Estado, por la totalidad de las Autoridades que constituyen los Ayuntamientos de esta Entidad Federativa.
+
+###### ARTICULO QUINTO.
+
+Dentro del mismo año a la entrada en vigor del presente decreto, se promulgarán las Leyes necesarias y se reformarán las existentes para cumplir las disposiciones del Título Séptimo de la Constitución Política del Estado de Tabasco, en lo conducente.
