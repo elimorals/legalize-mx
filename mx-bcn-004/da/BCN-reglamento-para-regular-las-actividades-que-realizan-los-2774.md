@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-regular-las-actividades-que-realizan-los-2774"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-10-10"
-last_updated: "1992-10-10"
+last_updated: "1997-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA REGULAR LAS ACTIVIDADES QUE REALIZAN LOS COMERCIANTES AMBULANTES, DE PUESTOS FIJOS Y SEMI-FIJOS, Y LOS DE MERCADOS SOBRE RUEDAS PARA EL MUNICIPIO DE TIJUANA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 1997.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el sábado 10 de octubre de 1992.
 
@@ -93,9 +93,13 @@ Los comerciantes ambulantes, en puestos fijos o semifijos, y de los Mercados sob
 
 El Ayuntamiento ampliara o modificara las areas a que se refiere el articulo anterior, cuando lo requiera el interes publico.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE NOVIEMBRE DE 1977)</small>
+
 ###### ARTICULO 12.
 
-Considerando que la zona central de la ciudad constituye el patrimonio historico de los Tijuanenses, se determina como primer cuadro de la ciudad para los efectos de aplicacion del presente Reglamento, quedando establecida como ZONA RESTRINGIDA con relacion a toda actividad comercial que se realice en la Via Publica, y por tanto sujeta a las modalidades que dicte el interes publico, y a los dictamenes y estudios que emita la Direccion de Planeacion del Desarrollo Urbano y Ecologia, y la Direccion de Obras y Servicios Publicos Municipales, comprendiendo este la demarcacion en calles y avenidas siguiente:: (sic) DE LA CALLE PRIMERA "ARTICULO 123" A LA CALLE DECIMA, Y DE LA AVENIDA MADERO A LA AVENIDA "F" MUTUALISMO.
+Considerando que la zona central de la ciudad constituye el patrimonio histórico de los Tijuanenses, se determina como primer cuadro de la ciudad para los efectos de aplicación del presente Reglamento, quedando establecida como ZONA RESTRINGIDA con relación a toda actividad comercial que se realice en la Vía Pública, salvo en la época decembrina y por tanto sujeta a las modalidades que dicte el interés público, y a los dictámenes y estudios que emita la Dirección de Planeación del Desarrollo Urbano y Ecología, y la Dirección de Obras y Servicios Públicos Municipales, comprendiendo este la demarcación en calles y avenidas siguiente: DE LA CALLE PRIMERA "ARTÍCULO 123" A LA CALLE DÉCIMA, Y DE LA AVENIDA MADERO A LA AVENIDA "F".
+
+Así mismo se consideran como ZONAS RESTRINGIDAS.
 
 ### CAPITULO SEGUNDO. DE LAS LICENCIAS O PERMISOS
 
@@ -514,3 +518,11 @@ ROSA ESTHER GARCIA GONZALEZ
 REGIDOR
 
 Sin Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 21 DE NOVIEMBRE DE 1997.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, órgano de difusión oficial, y publíquese en un periódico local de mayor circulación para conocimiento de la población.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones u ordenamientos que contravengan a la presente reforma.
