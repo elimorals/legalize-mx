@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-y-servicios-sociales-para-los-servidores-20043
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-29"
-last_updated: "2001-01-29"
+last_updated: "2001-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 29 de enero de 2001.
 
@@ -1235,6 +1235,10 @@ b). Los pensionistas aportarán para el financiamiento de la prestación mencion
 
 c). Las entidades aportarán para el financiamiento de las prestaciones mencionadas en las fracciones I a VII del Artículo citado en esta fracción.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+En el caso de las entidades, excepto para la aportación del ahorro para el retiro, la base de cotización se integrará, además de con el sueldo base de cotización de los servidores públicos que tengan adscritos, con la ayuda de despensa, renta, transporte, quinquenios y aguinaldo de que los mismos disfruten.
+
 Las aportaciones de que trata este Artículo se harán de manera quincenal y serán enteradas en la misma forma al Instituto según lo previsto en las fracciones IV y VI del Artículo 36; en la inteligencia de que, ante la falta de su entero oportuno, será a cargo de la entidad de que se trate la compensación financiera prevista por (sic) último párrafo de tal precepto;
 
 II.- Las aportaciones señaladas en la fracción anterior deberán depositarse en el fondo de prestaciones económicas, para lo cual debe constituirse un fideicomiso ante institución fiduciaria autorizada por la Ley de la materia, sin perjuicio de que el Instituto llevará registro individualizado de las aportaciones a la cuenta de ahorro individual para el retiro del servidor público.
@@ -1750,3 +1754,9 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2001.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
