@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2003-11-13"
+last_updated: "2004-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -231,11 +231,15 @@ La Presidencia de las salas será rotatoria por designación entre los magistrad
 
 El Pleno del Supremo Tribunal de Justicia lo integrarán su Presidente y los magistrados en funciones de las salas numerarias especializadas.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
+
 ###### Artículo 22.
 
-Las sesiones del Pleno serán públicas y, por excepción secretas, en los casos que así lo determine la ley, lo exija la moral o el interés público.
+Las sesiones del pleno serán públicas y por excepción reservadas, en los casos que así lo determine la ley, lo exija la moral o el interés público y siempre que así lo decida la mayoría de sus integrantes.
 
-Las sesiones del Pleno se celebrarán en los días y a las horas que fije el reglamento. Podrán celebrarse sesiones extraordinarias cuando lo crea necesario el Presidente o lo pida alguno de los magistrados numerarios de las salas especializadas.
+Las discusiones y documentos relacionados con las sesiones reservadas, sólo pueden ponerse a la vista de quienes demuestren su interés jurídico y no son susceptibles de publicarse, salvo las resoluciones finales, que tienen carácter público, con excepción de aquellas que de conformidad con la ley, reciban clasificación distinta.
+
+Las sesiones del pleno se celebrarán en los días y a las horas que fije el reglamento. Podrán celebrarse sesiones extraordinarias cuando lo crea necesario el Presidente o lo pida alguno de los magistrados numerarios de las salas especializadas.
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 1998)</small>
 
@@ -1891,11 +1895,13 @@ Cuando a juicio del Pleno del Consejo General del Poder Judicial, los reglamento
 
 El Pleno del Consejo General del Poder Judicial se integrará con los siete consejeros, pero bastará la presencia de cinco de ellos para funcionar legalmente.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
 
 ###### Artículo 143.
 
-Las sesiones ordinarias del Pleno del Consejo General serán privadas, podrán ser públicas cuando así se acuerde por unanimidad y se celebrarán en los días y horas que el mismo Consejo determine, mediante acuerdos generales.
+Las sesiones del pleno del Consejo General serán públicas y por excepción reservadas, cuando así lo acuerden la mayoría de sus integrantes y se celebrarán en los días y horas que el mismo Consejo determine, mediante acuerdos generales.
+
+Las discusiones y documentos relacionados con las sesiones reservadas, sólo pueden ponerse a la vista de quienes demuestren su interés jurídico y no son susceptibles de publicarse, salvo las resoluciones finales, que tienen carácter público, con excepción de aquellas que de conformidad con la ley, reciban clasificación distinta.
 
 ###### Artículo 144.
 
@@ -3012,3 +3018,7 @@ CUARTO.- El Gobierno del Estado y los ayuntamientos deberán incluir en sus resp
 P.O. 13 DE NOVIEMBRE DE 2003.
 
 ÚNICO.- El presente decreto que contiene reformas a la Ley Orgánica del Poder Judicial del Estado de Jalisco, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 24 DE JULIO DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
