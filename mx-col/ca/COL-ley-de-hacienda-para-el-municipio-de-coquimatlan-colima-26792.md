@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-coquimatlan-colima-26792"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2002-11-11"
+last_updated: "2003-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COQUIMATLAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -521,7 +521,11 @@ I. Los giros que a continuación se mencionan se gravarán según el monto de su
 
 7.- Espectáculos deportivos 5
 
-8.- Cualquier otro espectáculo público por el que se cobren derechos de admisión 5 a 8
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+8.- Palenques de gallos 8
+
+9.- Cualquier otro espectáculo público por el que se cobren derechos de admisión 5 a 8
 
 II. Cuando no sea posible controlar los ingresos, el impuesto se gravará en unidades de salario:
 
@@ -579,9 +583,11 @@ Garantizarán preferentemente el pago de este impuesto con los bienes inmuebles 
 
 #### SECCION CUARTA. DE LAS EXENCIONES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 51.
 
-No se pagará el impuesto por los espectáculos públicos de funciones de cine y palenques de gallos.
+No se pagará el impuesto por los espectáculos públicos de funciones de cine.
 
 ### CAPITULO UNICO
 
@@ -1483,67 +1489,129 @@ Unidad de salario
 
 a) Por la expedición de licencias de funcionamiento, por ejercicio fiscal, por cada una:
 
-1.- Agencias 1000.00
+Unidades de salario
 
-2.- Bares y centros botaneros 400.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-3.- Birrierias 100.00
+1.- Agencias 500.00 a 750.00
 
-4.- Cabarets 1000.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-5.- Casinos y similares 1000.00
+2.- Bares y centros botaneros 200.00 a 300.00
 
-6.- Cenaduría 100.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-7.- Centros nocturnos 1000.00
+3.- Birrierias 50.00 a 75.00
 
-8.- Clubes sociales 400.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-9.- Depósitos de cerveza 150.00
+4.- Cabarets 500.00 a 750.00
 
-10.- Depósito de cerveza vinos y licores 300.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-11.- Discotecas 1000.00
+5.- Casinos y similares 500.00 a 750.00
 
-12.- Hoteles y moteles 300.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-13.- Locales para fiesta tipo "A" 360.00
+6.- Cenadurías 50.00 a 75.00
 
-14.- Locales para fiesta tipo "B" 260.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-15.- Locales para fiesta tipo "C" 200.00
+7.- Centros nocturnos 700.00 a 1000.00
 
-16.- Marisquerías 100.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-17.- Menuderías 100.00
+8.- Clubes sociales 200 a 300.00
 
-18.- Parianes 300.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-19.- Pizzerías 150.00
+9.- Depósito de cerveza 150.00 a 225.00
 
-20.- Restaurante clasificación "A" 300.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-21.- Restaurante clasificación "B" 250.00
+10.- Depósito de cerveza, vinos y licores 300.00 a 450.00
 
-22.- Restaurante clasificación "C" 200.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-23.- Restaurantes-Bar 300.00
+11.- Discotecas 500.00 a 750.00
 
-24.- Rosticerías 100.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-25.- Taquerías 100.00
+12.- Hoteles y moteles 300.00 a 450.00
 
-26.- Tiendas de abarrotes con venta de cerveza 100.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-27.- Tiendas de autoservicio con venta de cerveza vinos y licores 200.00
+13.- Locales para fiesta tipo "A". 200.00 a 300.00
 
-28.- Tiendas departamentales 1000.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-29.- Otros giros no especificados 100.00 a 1000.00
+14.- Locales para fiesta tipo "B". 150.00 a 225.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+15.- Locales para fiesta tipo "C". 100.00 a 150.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+16.- Marisquerías 50.00 a 75.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+17.- Menuderías 50.00 a 75.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+18.- Parianes 200.00 a 300.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+19.- Pizzerías 75.00 a 110.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+20.- Restaurantes clasificación "A" 200.00 a 300.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+21.- Restaurantes clasificación "B" 150.00 a 225.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+22.- Restaurantes clasificación "C" 100.00 a 150.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+23.- Restaurantes-Bar 200.00 a 300.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+24.- Rosticerías 50.00 a 75.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+25.- Taquerías. 50.00 a 75.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+26.- Tiendas de abarrotes con venta de cerveza 50.00 a 75.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+27.- Tienda de autoservicio con venta de cerveza, vinos y licores. 200.00 a 300.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+28.- Tiendas departamentales 500.00 a 1000
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+29.- Otros no especificados. 50.00 a 1000
 
 En zona rural, por cada uno:
 
-1.- Tienda de abarrotes con venta de cerveza y mezcal 50.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+1.- Tienda de abarrotes con venta de cerveza y mezcal 30.00
 
 2.- Autoservicio 75.00
 
@@ -1617,61 +1685,117 @@ c) Por la expedición de permisos para el funcionamiento temporal de establecimi
 
 d) Por la expedición de autorizaciones de funcionamiento en horario extraordinario, de establecimientos en los que expendan bebidas alcohólicas, por cada hora:
 
-1.- Agencias 0.50 a 2.50
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-2.- Bares 0.50 a 1.50
+1.- Agencias 2.50
 
-3.- Birrierias 0.25 a 1.50
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-4.- Cabarets 2.50 a 50.00
+2.- Bares 5.00
 
-5.- Casinos y similares 2.50 a 150.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-6.- Cenadurías 0.25 a 1.00
+3.- Birrierías 1.50
 
-7.- Centro botanero 0.50 a 1.50
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-8.- Centros nocturnos 0.50 a 1.50
+4.- Cabarets 5.00 a50.00
 
-9.- Clubes sociales 2.50 a 15.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-10.- Depósito de cerveza 0.25 a 1.50
+5.- Casinos y similares 5.00 a 25.00
 
-11.- Depósito de cerveza vinos y licores 0.50 a 1.50
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-12.- Discotecas 1.00 a 2.50
+6.- Cenadurías 1.00
 
-13.- Hoteles y moteles 2.50 a 5.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-14.- Locales para fiesta 1.50 a 2.50
+7.- Centro botanero. 5.00
 
-15.- Marisquerías 0.25 a 1.50
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-16.- Menuderías 0.25 a 1.50
+8.- Centros nocturnos 5.00 a 25.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+9.- Clubes sociales. 5.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+10.- Depósitos de cerveza. 200 a 5.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+11.- Depósito de cerveza vinos y licores 8.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+12.- Discotecas 5.00 a 15.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+13.- Hoteles y moteles.. 5.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+14.- Locales para fiesta 2.50
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+15.- Marisquerías 1.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+16.- Menudearías 1.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 17.- Parianes 2.50 a 15.00
 
-18.- Pizzerías 0.50 a 1.50
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-19.- Restaurantes clasificación "A" 0.50 a 1.50
+18.- Pizzerías 1.50
 
-20.- Restaurantes clasificación "B" 0.50 a 1.50
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-21.- Restaurantes clasificación "C" 0.50 a 1.50
+19.- Restaurante clasificación "A" 1.50
 
-22.- Restaurantes-Bar 0.50 a 2.50
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-23.- Rosticerías 0.50 a 1.50
+20.- Restaurante clasificación "B" 1.50
 
-24.- Taquerías 0.50 a 1.50
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-25.- Tiendas de abarrotes con venta de cerveza 0.25 a 1.50
+21.- Restaurante clasificación "C" 1.50
 
-26.- Tienda de autoservicio con venta de cerveza vinos y licores 0.50 a 1.50
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-27.- Tiendas departamentales 1.50 a 5.00
+22.- Restaurantes-Bar. 2.00 a 5.00
 
-28.- Otros giros no especificados 1.00 a 150.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+23.- Rosticerías 1.50
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+24.- Taquerías 1.50
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+25.- Tienda de abarrotes con venta de cerveza 1.50
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+26.- Tiendas de autoservicio con venta de cerveza vinos y Licores 5.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+27.- Tiendas departamentales 5.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+28.- Otros giros no específicos 1.00 a 15.00
 
 e) Por la autorización de:
 
@@ -2125,7 +2249,9 @@ En los conceptos de las tres fracciones anteriores, las personas mayores de 60 a
 
 V. Las personas físicas o morales que instalen o tengan instalados aparatos de telefonía en las vías y áreas públicas urbanas del municipio pagarán mensualmente por caseta 2.00
 
-VI. Por el uso y estacionamiento particular o comercial en la vía pública, por metro lineal, mensualmente 1.50
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+VI. Por el uso y estacionamiento particular o comercial en la vía pública, por metro lineal, mensualmente 1.00
 
 VII. Por el uso de la vía pública para negocios establecidos, por metro lineal, mensualmente 1.00 a 2.00
 
@@ -2285,17 +2411,23 @@ I. Inhumaciones y reinhumaciones, por cada vez, en cementerios municipales y par
 
 a) En fosa común 0.00
 
-b) En propiedad particular 11.50
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+b) En propiedad particular 2.00
 
 c) Otros 20.00
 
-II. Exhumaciones, por cada una 17.60
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+II. Exhumaciones, por cada una 2.00
 
 III. Permiso de traslado de cadáveres fuera del municipio 3.70
 
 IV. Por la limpieza de lotes en propiedad particular, anualmente, que deberá pagarse en los meses de enero y febrero:
 
-a) Para la propiedad de 1 x 3 mts 2.50
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+a) Para la propiedad de 1 x 3 mts. 2.00
 
 b) Para la propiedad mayor de 1 x 3 mts 3.00
 
@@ -2303,7 +2435,9 @@ V. Cremaciones, por cada una 10.00
 
 VI. Expedición de títulos de propiedad 1.50
 
-VII. Traspaso de títulos de propiedad 4.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+VII. Traspaso de título de propiedad 2.00
 
 ###### ARTICULO 100.
 
@@ -2419,7 +2553,9 @@ I. Venta de lotes en propiedad, por metro cuadrado:
 
 a) Sección antigua 2.39
 
-b) Sección nueva 4.79
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+b) Sección nueva 6.00
 
 II. Construcción y venta de gavetas para fosas en el cementerio según contrato.
 
@@ -2609,13 +2745,17 @@ AÑO 2003 2004 2005 2006 2007
 
 BASE 60% 70% 80% 90% 100%
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO QUINTO.
 
-En los predios con valor catastral de $0.00 a $264,000.00 el impuesto predial que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.06 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+En los predios con valor catastral de $0.00 a $264,000.00 el impuesto predial que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.04 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
 
-En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.12 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.08 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
 
 Lo previsto en este artículo, no será aplicable respecto de los predios cuyo valor se hubiera modificado en el último bimestre del año que se trate, por motivos distintos a la publicación de las tablas de valores unitarios de terreno y de construcción.
+
+Los predios que con motivo del sismo ocurrido el día 21 de enero del año 2003, resultaron dañados, se clasifiquen actualmente, por haberse demolido, como lotes baldíos, el impuesto predial a cobrar, por el ejercicio fiscal 2004, no deberá de ser en ningún caso superior al que se cobró en el 2003.
 
 ###### ARTICULO SEXTO.
 
@@ -2636,3 +2776,11 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno a los 11 días del mes de noviembre del año dos mil dos.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL DIRECTO GENERAL DE GOBIERNO, ENCARGADO DEL DESPACHO DE LA SECRETARÍA GENERAL DE GOBIERNO, LIC. JOSÉ GILBERTO GARCÍA NAVA. Rúbrica. EL SECRETARIO DE FINANZAS, ING. ALMAR PETTERSEN MORA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día 1° de enero del año 2004, previa su publicación en el Periódico Oficial "El Estado de Colima".
