@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-municipal-del-estado-de-hidalgo-5427"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-31"
-last_updated: "1987-12-30"
+last_updated: "1988-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1988.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1982.
 
@@ -59,7 +59,9 @@ Son Leyes Fiscales municipales;
 
 a).- El presente código;
 
-b).- La Ley de Ingresos de los Municipios;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+b).- La Ley de Ingresos y Presupuesto de Ingresos del Municipio que corresponda.
 
 c).- El Presupuesto de Egresos Municipal;
 
@@ -147,9 +149,11 @@ La Tesorería Municipal, previa autorización del Ayuntamiento, dispensará la g
 
 El Tesorero Municipal, vigilará que sean garantizadas las prestaciones a favor de la Hacienda Municipal, conforme a las disposiciones legales en vigor; aceptará en su caso, previa la calificación correspondiente, las garantías que se ofrezcan; cuidará de comprobar periódicamente o cuando lo estime oportuno, que tales garantías conserven su eficacia y en caso contrario tomará las medidas necesarias para asegurar los intereses del fisco.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 18.
 
-En ningún caso la ignorancia de las Leyes exime su cumplimiento, sin embargo, a juicio de las Autoridades Fiscales, en aquellos casos en que se trate de personas absolutamente incultas, podrán conceder a los interesados un plazo de gracia que no excederá de un año para el cumplimiento de las leyes y disposiciones relativas, así como eximirlos de las sanciones en que hubieren incurrido por las infracciones cometidas.
+En ningún caso la ignorancia de las Leyes exime su cumplimiento, sin embargo, a juicio de las Autoridades Fiscales, en aquellos casos en que se trate de personas absolutamente incultas o que se encuentren en una miserable situación económica, podrán conceder a los interesados un plazo de gracia que no excederá de un año para el cumplimiento de las Leyes y disposiciones relativas, así como eximirlos de las sanciones en que hubieren incurrido por las infracciones cometidas.
 
 ###### ARTICULO 19.
 
@@ -165,9 +169,11 @@ III.- La vigencia y la exigibilidad en cantidad liquida del derecho del crédito
 
 IV.- El impuesto predial, será preferente a cualesquiera otros créditos, incluso a los fiscales, federales y estatales cuando se trate de la aplicación, de los frutos de los mismos del producto de su venta.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 20.
 
-Las controversias que surjan entre el fisco municipal y el fisco estatal sobre preferencia en el cobro de los créditos a que este Código se refiere, se determinará mediante la intervención del Tribunal Fiscal y Administrativo del Estado.
+Las controversias que surjan entre el Fisco Municipal y el Fisco Estatal, sobre preferencia en el cobro de los créditos a que este Código se refiere, se determinará mediante la intervención del Tribunal Fiscal Administrativo del Estado, tomándose en cuenta las garantías constituidas y conforme a las siguientes reglas:
 
 I.- La preferencia en el pago corresponderá al primer embargante si ninguno de los créditos tienen garantía real;
 
@@ -189,31 +195,41 @@ II.- Los pagos anuales en los primeros treinta días del año a que corresponde 
 
 III.- Fuera de los dos casos anteriores y a falta de disposición expresa, las demás contribuciones se causarán al efectuarse el acto que causa el tributo al solicitarse o recibirse el servicio respectivo.
 
-### CAPITULO II. DE LOS PRESUPUESTO DE INGRESOS Y EGRESOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-> <small>(REFORMADO, P.O 30 DE DICIEMBRE DE 1987)</small>
+### CAPITULO II. DE LAS LEYES DE INGRESOS, PRESUPUESTO DE INGRESOS Y PRESUPUESTO DE EGRESOS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 22.
 
-El proyecto del presupuesto de ingresos se formulará en el mes de noviembre de cada año, y se remitirá a más tardar el día quince de diciembre al Congreso del Estado. Acompañado de un cuadro de estimaciones del rendimiento probable de cada concepto de ingreso y dividiendo el Presupuesto de Egresos en secciones, una para cada gasto, numerando aquellas y éstas.
+El Proyecto de Ley de Ingresos y Presupuesto de Ingresos de cada Ayuntamiento del Estado, se formulará y aprobará por éste, en el mes de noviembre de cada año y se remitirá mediante la iniciativa correspondiente al Congreso del Estado, a más tardar el 15 de diciembre siguiente, para su aprobación, en su caso.
 
-> <small>(REFORMADO, P.O 30 DE DICIEMBRE DE 1987)</small>
+Dicho proyecto deberá contener la relación de conceptos por los cuales se pretenden obtener los ingresos; las cantidades estimadas a recaudar durante el ejercicio fiscal del año siguiente al de su aprobación, el total de Presupuesto de Ingresos y las disposiciones generales de operación.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 23.
 
-Cuando el proyecto de presupuesto de ingresos sea formulado por un Ayuntamiento cuyo ejercicio concluya ese mismo año, el nuevo Ayuntamiento podrá enviar al Congreso sus puntos de vista dentro de los treinta días anteriores a su toma de posesión. La Legislatura del Estado tomará en cuenta esta opinión antes de aprobar o modificar dichos documentos.
+Cuando los Ayuntamientos inicien sus funciones, estando en vigencia la Ley de Ingresos y Presupuesto de Ingresos propuestos por la administración anterior, podrán iniciar ante el Congreso del Estado las modificaciones que estimen pertinentes, dentro de los 15 días siguientes a la toma de posesión. También los podrán hacer en cualquier tiempo, cuando exista plena justificación para ello.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 24.
 
-La Legislatura Local aprobará los presupuestos de Ingresos procurando que las diferencias en las cuotas y tarifas entre los diversos Municipios sea únicamente las indispensables de acuerdo con sus diferentes necesidades.
+La Legislatura Local aprobará las Leyes de Ingresos y Presupuesto de Ingresos de cada Ayuntamiento cuando su contenido en los términos del artículo 22 de esta Ley, se ajuste a los antecedentes numéricos y disposiciones legales de la materia.
 
 ###### ARTICULO 25.
 
 El Presupuesto de Egresos contendrá las previsiones de gastos destinados a cada ramo de la Administración Municipal, sostenimiento de los servicios públicos y construcción de obras, ningún presupuesto deberá de exceder del importe de los productos totales del Municipio en un ejercicio.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 26.
 
-Los Presupuestos de Ingresos y Egresos Municipales serán publicados con la debida anticipación para que puedan regir en el año para el cual se expiden, la falta de presentación oportuna de los proyectos para su aprobación por parte del Congreso o de su publicación dará lugar a que se consideren vigentes los del año inmediato anterior, para cuyo efecto lo declarará así la Legislatura del Estado.
+Las Leyes de Ingresos y Presupuesto de Ingresos de los Ayuntamientos, serán publicados con anterioridad a la fecha del inicio de su vigencia.
+
+La falta de oportunidad o de presentación de los Proyectos al Congreso del Estado o de su publicación dará lugar a que sigan vigentes los del año inmediato anterior, para lo cual la Legislatura hará la declaración correspondiente.
 
 ### CAPITULO III. DE LAS CUENTAS DEL MUNICIPIO
 
@@ -2534,3 +2550,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 30 DE DICIEMBRE DE 1987.
 
 UNICO.- La presente Ley entrará en vigor el 1º. de enero de 1988, y publicada en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1988.
+
+PRIMERO.- El presente Decreto entrara en vigor el día 1º. De Enero de 1989.
+
+SEGUNDO.- Túrnese al Ejecutivo, para su sanción, publicación y cumplimiento en el Periódico Oficial del Gobierno del Estado y demás efectos que consigna el Artículo 51 de la Constitución Política de la Entidad.
