@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1992-12-31"
+last_updated: "1993-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE ENERO DE 1993.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -93,7 +93,7 @@ Las presentes reformas surtirán sus efectos a partir de la fecha de su publicac
 
 G.O. 28 DE ENERO DE 1943.
 
-REPUBLICADO, G.O. 31 DE AGOSTO DE 1943
+REPUBLICADO, G.O. 31 DE AGOSTO DE 1943.
 
 La presente Ley surtirá efectos a partir de la fecha de su publicación, por Bando Solemne.
 
@@ -136,6 +136,10 @@ La libertad del hombre no tiene más límite que la prohibición de la ley. La s
 ###### Artículo 6o.
 
 Todo hombre tiene el deber de acatar las leyes, disposiciones y reglamentos expedidos por autoridad legítima, con arreglo a sus facultades legales.
+
+> <small>(ADICIONADO, G.O. 5 DE ENERO DE 1993)</small>
+
+El Estado de Veracruz tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas. La Ley protegerá y promoverá el desarrollo de sus lenguas, culturas, usos, costumbres, recursos y formas específicas de organización social, y garantizará a sus integrantes el efectivo acceso a la jurisdicción del Estado. En los juicios y procedimientos en que aquellos sean parte, se tomarán en cuenta sus prácticas y costumbres jurídicas en los términos que establezca la Ley.
 
 ###### Artículo 7o.
 
@@ -2176,3 +2180,13 @@ G.O. 31 DE DICIEMBRE DE 1992.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 5 DE ENERO DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a este ordenamiento.
