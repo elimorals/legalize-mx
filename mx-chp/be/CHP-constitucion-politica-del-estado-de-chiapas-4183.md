@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1978-11-22"
+last_updated: "1980-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 1980.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -363,13 +363,13 @@ Si no hubiere quórum para instalar la Cámara o para que ejerza sus funciones u
 
 Los diputados que no concurran a una sesión, sin causa justificada, y sin permiso del Congreso, no tendrán derecho a la dieta correspondiente al día que falten.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1980)</small>
 
 ###### ARTICULO 23.
 
-Los períodos ordinarios de sesiones del Congreso, comenzarán:
+Los Períodos Ordinarios de Sesiones del Congreso, comenzarán:
 
-Uno, el 1o. de noviembre, terminando el 31 de enero; y otro, el 1o. de mayo, terminando el 31 de julio; habrá además en el año en que se verifiquen las elecciones ordinarias de Gobernador, un período extraordinario de sesiones, para el solo acto de erigirse en Colegio Electoral y hacer el cómputo de votos emitidos en la elección de Gobernador, así como la declaratoria respectiva en favor de la persona que hubiere obtenido mayoría de sufragios, dicho período será convocado por la Comisión Permanente tan pronto como tengan la mayoría de los expedientes electorales el Estado.
+Uno, el veinticinco de noviembre, terminando el veinticinco de febrero; y el otro, el primero de mayo, terminando el treinta y uno de julio; habrá además en el año en que se verifiquen las elecciones ordinarias de Gobernador un período extraordinario de sesiones, para el solo acto de erigirse en colegio Electoral y hacer el cómputo de votos emitidos en la elección de Gobernador, así como la declaratoria respectiva a favor de la persona que hubiere obtenido mayoría de sufragios, dicho período será convocado por la Comisión Permanente tan pronto como tengan la mayoría de los expedientes electorales del Estado.
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
@@ -377,11 +377,11 @@ Uno, el 1o. de noviembre, terminando el 31 de enero; y otro, el 1o. de mayo, ter
 
 El Congreso tendrá sesiones extraordinarias cada vez que sea convocado para este objeto por la Comisión Permanente o de acuerdo con el Ejecutivo, pero en tales casos no podrá ocuparse más que del asunto o asuntos que se sometieren a su conocimiento, los cuales se expresarán en la convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1980)</small>
 
 ###### ARTICULO 25.
 
-El Congreso celebrará el día 1o. de noviembre de cada año, Sesión Solemne, en la cual el Gobernador del Estado presentará su informe por escrito acerca de la situación que guarden los diversos ramos de la Administración Pública. El Presidente del Congreso será quien conteste el informe del Gobernador.
+El Congreso celebrará su Sesión Solemne en la cual el Gobernador del Estado presentará su informe por escrito acerca de la situación que guarden los diversos ramos de la Administración Pública, la que podrá ser del veinticinco de noviembre al tres de diciembre de cada año. El Presidente del Congreso será quien conteste el informe del Gobernador.
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
@@ -1614,3 +1614,13 @@ DECRETO No. 5 QUE REFORMA LOS ARTICULOS 17, 20 Y 65 DE LA CONSTITUCION.
 PRIMERO.- Las presentes reformas entrarán en vigor una vez cumplido el procedimiento establecido en el artículo 93 de la Constitución Política del Estado, en sus fracciones I a IV y al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Quedan derogadas todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 6 DE AGOSTO DE 1980.
+
+###### ARTICULO PRIMERO.
+
+Quedan derogadas todas las leyes, decretos y demás disposiciones que se opongan a las reformas a que se contrae el presente decreto.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
