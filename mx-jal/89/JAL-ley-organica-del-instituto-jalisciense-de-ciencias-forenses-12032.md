@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-jalisciense-de-ciencias-forenses-120
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-07"
-last_updated: "1998-02-07"
+last_updated: "2003-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2003.
 
 Ley publicada en la Sección Segunda, del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -313,6 +313,14 @@ XII. Despachar todos aquellos asuntos y ejercer las demás atribuciones que les 
 
 En la prestación de sus servicios técnicos y científicos, cuando no se trate de solicitudes formuladas por los órganos responsables de procurar o administrar justicia o bien, que no provenga de cualquier autoridad del Estado de Jalisco, el Instituto podrá cobrar a los usuarios, las tarifas que al efecto señale la Ley de Ingresos del Gobierno del Estado de Jalisco.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE AGOSTO DE 2003)</small>
+
+Para tal efecto la Junta de Gobierno del Instituto deberá remitir a más tardar el 1º de septiembre de cada año el anteproyecto de cobro de tarifas por los servicios técnicos y científicos al Poder Ejecutivo a través de la Secretaría de Finanzas a fin de que se incluyan en el proyecto de Ley de Ingresos del Estado de Jalisco.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE AGOSTO DE 2003)</small>
+
+En la prestación de los servicios técnicos y científicos a particulares del Instituto deberá garantizar no se distraiga el cumplimiento de su finalidad.
+
 ###### Artículo 19.
 
 El Instituto, podrá celebrar convenios de coordinación o de colaboración con las dependencias federales, estatales y municipales de Jalisco, con de (sic) otras dependencias de las entidades federativas e instituciones de educación superior, para la prestación de los servicios periciales, asesorías e intercambios en la materia, para lo cual, se deberá estar a lo dispuesto a sus leyes orgánicas y hacendarias, según sea el caso.
@@ -416,3 +424,9 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE AGOSTO DE 2003.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
