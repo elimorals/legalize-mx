@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-11024"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-02-27"
-last_updated: "1999-12-17"
+last_updated: "2004-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 27 de febrero de 1997.
 
@@ -37,15 +37,15 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUERETARO
 
 ### CAPITULO ÚNICO. NATURALEZA Y OBJETO DE LA LEY
 
-###### ARTÍCULO 1.
+###### ARTICULO 1.
 
 La presente Ley Orgánica del Poder Judicial es reglamentaria de los artículos de la Constitución Política relativos a la administración de justicia en el Estado Libre y Soberano de Querétaro Arteaga.
 
-###### ARTÍCULO 2.
+###### ARTICULO 2.
 
 Esta ley tiene por objeto regular la organización y funcionamiento del Tribunal Superior de Justicia, del Consejo de la Judicatura, de los Juzgados de Primera Instancia, de los Juzgados Municipales y demás órganos y dependencias del Poder Judicial. Corresponde a los órganos jurisdiccionales del Estado interpretar y aplicar las leyes en asuntos judiciales del orden civil, penal y electoral del fuero común, así como en materia federal cuando las leyes los faculten.
 
-###### ARTÍCULO 3.
+###### ARTICULO 3.
 
 El Poder Judicial en el Estado se integra por los siguientes órganos:
 
@@ -65,21 +65,21 @@ Son auxiliares de la administración de justicia:
 
 I.- El Poder Ejecutivo Estatal a través de sus órganos técnicos, de seguridad y readaptación social, entre los que se encuentran:
 
-a).-La Secretaría de Gobierno;
+a).- La Secretaría de Gobierno;
 
-b).-La Dirección de Seguridad Pública y Tránsito;
+b).- La Dirección de Seguridad Pública y Tránsito;
 
-c).-La Dirección de Prevención y Readaptación Social;
+c).- La Dirección de Prevención y Readaptación Social;
 
-d).-La Dirección del Registro Civil;
+d).- La Dirección del Registro Civil;
 
-e).-La Dirección del Registro Público de la Propiedad y el Comercio;
+e).- La Dirección del Registro Público de la Propiedad y el Comercio;
 
 f).- La Dirección de Catastro;
 
-g).-La Dirección de Policía Investigadora Ministerial;
+g).- La Dirección de Policía Investigadora Ministerial;
 
-h).-La Dirección Jurídica y Consultiva;
+h).- La Dirección Jurídica y Consultiva;
 
 i).- La Dirección de Servicios Periciales;
 
@@ -95,7 +95,7 @@ V.- Los árbitros, intérpretes, peritos, síndicos, tutores, curadores, albacea
 
 VI.- Los notarios públicos y los corredores en las funciones que les encomiende el Código de Procedimientos Civiles y demás disposiciones legales; y
 
-VII.-- Todos los demás ciudadanos y organismos públicos y privados a quienes las leyes les confieran ese carácter.
+VII.- Todos los demás ciudadanos y organismos públicos y privados a quienes las leyes les confieran ese carácter.
 
 ###### ARTICULO 5.
 
@@ -253,7 +253,7 @@ VI.- Turnar entre los magistrados los asuntos de la competencia del Pleno, cuand
 
 VII.- Dictar las medidas que estime convenientes para la mejor administración de justicia y proponer al Pleno los acuerdos que juzgue conducentes para el mismo objeto;
 
-VIII.-Proponer al Pleno, para su aprobación, el anteproyecto de presupuesto anual de egresos del Poder Judicial;
+VIII.- Proponer al Pleno, para su aprobación, el anteproyecto de presupuesto anual de egresos del Poder Judicial;
 
 IX.- Remitir al Juez correspondiente los exhortos y despachos, de acuerdo con el turno que al efecto se lleve, en los casos en que no exista convenio con otras entidades federativas para que su trámite se realice de manera diferente;
 
@@ -475,13 +475,13 @@ VIII.- Expedir y autorizar copias certificadas de los expedientes que se encuent
 
 IX.- Las demás atribuciones que le señalen las leyes.
 
-###### ARTICULO 41
+###### ARTICULO 41.
 
 Son facultades de los Secretarios Auxiliares las siguientes:
 
 I.- Suplir las faltas del Secretario de Acuerdos y en su caso ejercer las funciones del mismo;
 
-II - Auxiliar al Secretario de Acuerdos en sus funciones.
+II.- Auxiliar al Secretario de Acuerdos en sus funciones.
 
 ###### ARTICULO 42.
 
@@ -589,7 +589,7 @@ II.- De los exhortos y requisitorias del ramo penal; y
 
 III.- De los demás que les señalen las leyes.
 
-IV- Conocer del recurso de revisión conforme al Codigo de Procedimientos Penales en vigor en los siguientes casos:
+IV.- Conocer del recurso de revisión conforme al Código de Procedimientos Penales en vigor en los siguientes casos:
 
 Contra las determinaciones de no ejercicio de la acción penal que dicte el Procurador General de Justicia del Estado; determinación del desistimiento de la acción penal y formulación de conclusiones no acusatorias formuladas por el Agente de Ministerio Publico y ratificadas por el Procurador General de Justicia.
 
@@ -843,7 +843,9 @@ II.- Turnar por orden los documentos de que trata la fracción anterior al Juzga
 
 III.- Ejecutar los procedimientos informáticos que sean implementados para el eficaz funcionamiento de la Oficialía; y
 
-IV.- Recibir promociones fuera del horario normal de los juzgados.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+IV.- Recibir, fuera del horario normal de los Juzgados, los escritos o promociones cuya presentación deba realizarse dentro del término con que cuente para tal efecto y que su falta de presentación en tiempo, genere consecuencias irreparables al promovente o le cause la pérdida de un derecho.
 
 ###### ARTICULO 74.
 
@@ -951,7 +953,7 @@ Para que las sesiones del Pleno del Consejo tengan validez, bastará la presenci
 
 Las resoluciones del Consejo de la Judicatura serán recurribles en los términos de esta ley, ante el Pleno del Tribunal.
 
-###### ARTICULO 87
+###### ARTICULO 87.
 
 Las recomendaciones, decisiones y resoluciones del Pleno del Consejo de la Judicatura, constarán en acta autorizada por el Secretario del Consejo y deberán firmarse por los que en ella intervinieron. Las de sus comisiones, se asentarán en el acta respectiva, levantada por el secretario de la propia comisión.
 
@@ -963,7 +965,7 @@ Las recomendaciones y resoluciones del Consejo de la Judicatura que deban notifi
 
 Para que las resoluciones y recomendaciones del Consejo de la Judicatura tengan validez, deberán decidirse por lo menos por mayoría de votos de los consejeros presentes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal o cuando no hayan estado presentes durante la discusión del asunto de que se trate. En caso de igualdad de votos, el Presidente tendrá el de calidad.
 
-El consejero que disintiere de la mayoría podrá formular voto particular, el cual se insertará en el acta respectiva si fuere presentado dentro de los cinco días siguientes a la fecha del acuerdo. El Pleno del Consejo de la Judicatura*calificará los impedimentos de sus miembros, en los términos del título cuarto de esta ley.
+El consejero que disintiere de la mayoría podrá formular voto particular, el cual se insertará en el acta respectiva si fuere presentado dentro de los cinco días siguientes a la fecha del acuerdo. El Pleno del Consejo de la Judicatura calificará los impedimentos de sus miembros, en los términos del título cuarto de esta ley.
 
 ### CAPITULO II. DE LA COMPETENCIA DEL CONSEJO DE LA JUDICATURA
 
@@ -1113,7 +1115,7 @@ IX.- Llevar el inventario de bienes muebles e inmuebles afectos al destino de la
 
 X.- Control de transporte y equipo;
 
-XI- Adoptar las providencias necesarias para el eficiente manejo Administrativo del Poder Judicial; y
+XI.- Adoptar las providencias necesarias para el eficiente manejo Administrativo del Poder Judicial; y
 
 XII.- Las demás que la normatividad le señale.
 
@@ -1215,9 +1217,9 @@ VII.- Participar en el Consejo de la Judicatura, observando las normas que la pr
 
 El Consejo de la Judicatura, vigilará el correcto ejercicio y cumplimiento de las anteriores tareas.
 
-## TITULO V (SIC). FONDO AUXILIAR PARA LA ADMINISTRACION
+## TITULO V (SIC)
 
-DE JUSTICIA.
+FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA.
 
 ### CAPITULO I
 
@@ -1235,7 +1237,7 @@ b).- El monto de las cauciones constituidas y aquéllas que se hagan efectivas e
 
 c).- Objetos o instrumentos de delito que sean de uso lícito, cuando no sean reclamados en los términos previstos por el Código Penal y Código de Procedimientos Penales para el Estado;
 
-d).-Los intereses provenientes de los depósitos en dinero o en valores que se efectúen ante los tribunales judiciales del fuero común y órganos dependientes;
+d).- Los intereses provenientes de los depósitos en dinero o en valores que se efectúen ante los tribunales judiciales del fuero común y órganos dependientes;
 
 e).- Las donaciones o aportaciones hechas a favor del Fondo de administración de justicia;
 
@@ -1279,7 +1281,7 @@ V.- En general, al mejoramiento de la administración de justicia, de acuerdo a 
 
 El Instituto de Especialización Judicial del Estado, tiene como objetivo la formación, actualización y desarrollo de los miembros del Poder Judicial y de quienes aspiren a pertenecer a éste, así como el manejo operativo de la carrera judicial. El funcionamiento y atribuciones del Instituto se regirán por las normas que determine el reglamento respectivo y el Consejo de la Judicatura.
 
-###### ARTÍCULO 114.
+###### ARTICULO 114.
 
 El Instituto contará con un comité académico que se integrará por la comisión del Servicio Judicial de Carrera, designado por el Consejo de la Judicatura y, además, por dos personas de reconocida experiencia profesional y académica designadas por el propio Consejo de la Judicatura, a propuesta del director del Instituto.
 
@@ -1453,9 +1455,7 @@ V.- Haber ocupado la dirección ejecutiva de algún cargo en la administración 
 
 Para los efectos del artículo 125 se considerará como interesado, en los asuntos del orden penal, al inculpado o a la persona que tenga derecho a la reparación del daño o a la responsabilidad civil.
 
-## TITULO SÉPTIMO. DE LAS FALTAS OFICIALES Y RESPONSABILIDAD
-
-DE LOS FUNCIONARIOS JUDICIALES
+## TITULO SÉPTIMO. DE LAS FALTAS OFICIALES Y RESPONSABILIDAD DE LOS FUNCIONARIOS JUDICIALES
 
 ### CAPITULO I. DE LAS FALTAS
 
@@ -1690,3 +1690,7 @@ UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación e
 P.O. 17 DE DICIEMBRE DE 1999
 
 UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el periódico oficial la Sombra de Arteaga, derogándose las disposiciones que se opongan a esta reforma.
+
+P.O. 12 DE NOVIEMBRE DE 2004.
+
+ÚNICO. La presente Ley entrara en vigor al día siguiente de se (sic) su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
