@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-municipal-para-la-apertura-y-funcionamiento-de-3690"
 country: "mx"
 rank: "reglamento"
 publication_date: "1975-07-20"
-last_updated: "1975-07-20"
+last_updated: "1996-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "BCN"
 
 REGLAMENTO MUNICIPAL PARA LA APERTURA Y FUNCIONAMIENTO DE MOLINOS DE NIXTAMAL, TORTILLERIAS Y EXPENDIOS DE TORTILLAS DE MAIZ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO PUBLICADO EN EL P.O. DE 11 DE OCTUBRE DE 1996 DEL H. XV AYUNTAMIENTO DE MEXICALI, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el domingo 20 de julio de 1975.
 
@@ -385,3 +387,9 @@ Regidor Cornelio Soto Márquez
 Regidor y Lic. Luis Ayala García
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE OCTUBRE DE 1996.
+
+UNICO.- EL PRESENTE ACUERDO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL, ORGANO DEL GOBIERNO DEL ESTADO.
