@@ -4,7 +4,7 @@ identifier: "OAX-ley-apicola-del-estado-de-oaxaca-13628"
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-07"
-last_updated: "1995-10-07"
+last_updated: "2005-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13628&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY APICOLA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 7 de octubre de 1995.
 
@@ -109,7 +109,9 @@ Son autoridades competentes para la aplicación de esta Ley:
 
 I.- El Ejecutivo del Estado;
 
-II.- La Secretaría de Desarrollo Agropecuario y Forestal y su Dirección de Desarrollo Ganadero; y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+II.- La Secretaría de Desarrollo Rural y su Dirección de Desarrollo Ganadero; y
 
 III.- Los Supervisores e Inspectores de Ganadería del Gobierno del Estado.
 
@@ -127,7 +129,9 @@ IV.- Las Asociaciones Locales Ganaderas; y
 
 V.- Las Uniones Ganaderas Regionales.
 
-### CAPITULO III. DE LAS FUNCIONES DE LA DIRECCION DE DESARROLLO GANADERO DE LA SECRETARIA DE DESARROLLO AGROPECUARIO Y FORESTAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 2005)</small>
+
+### CAPITULO III. DE LAS FUNCIONES DE LA DIRECCION DE DESARROLLO GANADERO DE LA SECRETARIA DE DESARROLLO RURAL
 
 ###### ARTICULO 7.
 
@@ -139,7 +143,9 @@ II.- Coordinarse con el Gobierno Federal para la aplicación de normas federales
 
 III.- Promover la formación de Organizaciones Apícolas, en Municipios en donde existan más de 10 apicultores;
 
-IV.- Resolver las consultas técnicas que formulen los apicultores o las organizaciones apícolas, pudiendo recurrir a expertos en la materia cuando a juicio de la Secretaría de Desarrollo Agropecuario y Forestal se considere necesario;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+IV.- Resolver las consultas técnicas que formulen los apicultores o las organizaciones apícolas, pudiendo recurrir a expertos en la materia cuando a juicio de la Secretaría de Desarrollo Rural se considere necesario;
 
 V.- Dictar las disposiciones para el control de la movilización e inspección de las colmenas que se consideren portadoras de enfermedades;
 
@@ -161,13 +167,15 @@ XII.- Todas aquellas que se deriven de las leyes vigentes y los reglamentos que 
 
 ###### ARTICULO 8.
 
-Todas las personas aludidas en la fracción I y II del artículo 3 de esta Ley gozara (sic) de los siguientes derechos:
+Todas las personas aludidas en la fracción I y II del artículo 3 de esta Ley gozará de los siguientes derechos:
 
 I.- Disfrutar de los apoyos económicos que los tres niveles de Gobierno concedan a los apicultores organizados;
 
 II.- Formar parte de la organización de apicultores de la localidad donde se encuentre ubicada su explotación;
 
-III.- Convenir con la Secretaría de Desarrollo Agropecuario y Forestal a través de la Dirección de Desarrollo Ganadero, el manejo y expedición de guías de tránsito en materia apícola;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+III.- Convenir con la Secretaría de Desarrollo Rural a través de la Dirección de Desarrollo Ganadero, el manejo y expedición de guías de tránsito en materia apícola;
 
 IV.- Solicitar y obtener por conducto de la organización a que pertenezca, la credencial de apicultor;
 
@@ -189,19 +197,29 @@ I.- Constituirse en organización en aquellos municipios donde existan más de 1
 
 II.- Instalar sus colmenas en estricto apego a lo establecido en el artículo 10 de esta ley;
 
-III.- Registrar en la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Agropecuario y Forestal del Gobierno del Estado, la marca que utilizará para señalar e identificar a sus colmenas, de este registro enviará copia a la organización de apicultores que corresponda;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+III.- Registrar en la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Rural del Gobierno del Estado, la marca que utilizará para señalar e identificar a sus colmenas, de este registro enviará copia a la organización de apicultores que corresponda;
 
 IV.- Respetar el derecho de antigüedad de otros apicultores cuando pretendan establecer nuevos apiarios;
 
-V.- Informar a la organización a la que pertenezcan sobre la ubicación de sus apiarios, anexando plano o croquis descriptivo de macro y micro localización a fin de que sea la asociación la que tramite y gestione ante la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Agropecuario Forestal, el registro respectivo del apicultor, en el caso de que el apicultor no forme parte de una organización deberá tramitar su registro directamente;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
 
-VI.- Registrar ante la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Agropecuario Forestal del Gobierno del Estado, la existencia e instalación de plantas extractoras, purificadoras y envasadoras de productos apícolas;
+V.- Informar a la organización a la que pertenezcan sobre la ubicación de sus apiarios, anexando plano o croquis descriptivo de macro y micro localización a fin de que sea la asociación la que tramite y gestione ante la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Rural, el registro respectivo del apicultor, en el caso de que el apicultor no forme parte de una organización deberá tramitar su registro directamente;
 
-VII.- Rendir informes anuales a la Dirección de Desarrollo Ganadero, de la Secretaría de Desarrollo Agropecuario y Forestal, con copia a la Secretaría de Agricultura, Ganadería y Desarrollo Rural a través de su organización, sobre la producción obtenida, así como de la comercialización realizada en el mercado interno y externo;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+VI.- Registrar ante la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Rural del Gobierno del Estado, la existencia e instalación de plantas extractoras, purificadoras y envasadoras de productos apícolas;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+VII.- Rendir informes anuales a la Dirección de Desarrollo Ganadero, de la Secretaría de Desarrollo Rural, con copia a la Dependencia del Ejecutivo Federal relacionada con el ramo, a través de su organización, sobre la producción obtenida, así como de la comercialización realizada en el mercado interno y externo;
 
 VIII.- Sujetarse a la guía de tránsito y certificado zoosanitario y otros documentos necesarios para la movilización de sus abejas o productos;
 
-IX.- Notificar a la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Agropecuario y Forestal, y la Delegación de la Secretaría de Agricultura, Ganadería y Desarrollo Rural sobre toda sospecha de enfermedades de las abejas a fin de que se tomen las medidas correspondientes; y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+IX.- Notificar a la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Rural, y la Delegación de la Dependencia del Ejecutivo Federal relacionada con el ramo, sobre toda sospecha de enfermedades de las abejas a fin de que se tomen las medidas correspondientes; y
 
 X.- Acatar las disposiciones federales y estatales, relativas al control de las enfermedades de las abejas y de la abeja africana.
 
@@ -211,7 +229,9 @@ X.- Acatar las disposiciones federales y estatales, relativas al control de las 
 
 Para la instalación de un apiario será obligatorio, que dentro de los 30 días anteriores a la iniciación, el interesado cumpla con los siguientes requisitos:
 
-I.- Notificar a la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Agropecuario y Forestal y al Gobierno del Estado a través de la Organización Local de Apicultores a que pertenezca, lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+
+I.- Notificar a la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Rural y al Gobierno del Estado a través de la Organización Local de Apicultores a que pertenezca, lo siguiente:
 
 a) Actividad o actividades específicas a las que se destinará el apiario, pudiendo ser: producción y venta de miel, producción y venta de núcleos, cría y venta de reinas, etc.;
 
@@ -241,9 +261,11 @@ Cualquier apicultor explotará el número de colmenas que convenga a sus interes
 
 En la instalación de nuevos apiarios tendrán prioridad los apicultores del poblado en que se pretenda realizar la instalación y deberán de contar con el permiso de las autoridades y presentar solicitud de ingreso a alguna organización local de apicultores legalmente constituida.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 16.
 
-Queda facultada la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Agropecuario y Forestal del Gobierno del Estado, para que a petición de parte, intervenga como conciliador de los conflictos que se susciten entre los apicultores organizados o no, tomando como base la antigüedad y demás derechos del apicultor.
+Queda facultada la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Rural del Gobierno del Estado, para que a petición de parte, intervenga como conciliador de los conflictos que se susciten entre los apicultores organizados o no, tomando como base la antigüedad y demás derechos del apicultor.
 
 ###### ARTICULO 17.
 
@@ -251,17 +273,23 @@ Cuando un apicultor con domicilio dentro o fuera del Estado ocupe en forma ilíc
 
 I.- Comunicar por escrito a la Dirección de Desarrollo Ganadero del Gobierno del Estado, el nombre y domicilio del invasor, ubicación del sitio invadido, número y marca de las colmenas, marcando copia a la Organización Local de Apicultores; y
 
-II.- Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Agropecuario y Forestal a través de su personal técnico, investigará los hechos y en caso de resultar cierto, se procederá a la conciliación o en su defecto, se turnará a las autoridades correspondientes para su desalojo.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+II.- Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Rural, a través de su personal técnico, investigará los hechos y en caso de resultar cierto, se procederá a la conciliación o en su defecto, se turnará a las autoridades correspondientes para su desalojo.
 
 ### CAPITULO VI. DE LA MOVILIZACION DE COLMENAS Y SUS PRODUCTOS
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 18.
 
-Para la movilización y transportación de colmenas y sus productos, deberá contarse con las guías de tránsito, tarjeta de porteo y el certificado zoosanitario, expedidas las dos primeras por la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Agropecuario y Forestal del Gobierno del Estado, la tercera por la Secretaría de Agricultura, Ganadería y Desarrollo Rural.
+Para la movilización y transportación de colmenas y sus productos, deberá contarse con las guías de tránsito, tarjeta de porteo y el certificado zoosanitario, expedidas las dos primeras por la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Rural del Gobierno del Estado, la tercera por la Dependencia relacionada del Ejecutivo Federal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 19.
 
-Como medida de protección a la apicultura en la Entidad, contra enfermedades y la africanización queda estrictamente prohibida la introducción apícola, proveniente de otros Estados destinados a ubicarse en el territorio oaxaqueño, sin el permiso correspondiente otorgado por la Secretaría de Desarrollo Agropecuario y Forestal, a través de la Dirección de Desarrollo Ganadero.
+Como medida de protección a la apicultura en la Entidad, contra enfermedades y la africanización queda estrictamente prohibida la introducción apícola, proveniente de otros Estados destinados a ubicarse en el territorio oaxaqueño, sin el permiso correspondiente otorgado por la Secretaría de Desarrollo Rural, a través de la Dirección de Desarrollo Ganadero.
 
 Para la obtención del permiso habrá que cubrir los siguientes requisitos:
 
@@ -275,7 +303,9 @@ c) Raza, variedad o tipo de abeja;
 
 d) Municipio, comunidad y sitio a donde se trasladará el o lo apiarios;
 
-e) Constancia de la Secretaría de Agricultura, Ganadería y Desarrollo Rural donde se certifica que las reinas son europeas y están marcadas;
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
+e) Constancia de la Dependencia del Gobierno Federal relacionada con el ramo, donde se certifica que las reinas son europeas y están marcadas;
 
 f) Croquis de macro y micro localización; y
 
@@ -285,13 +315,19 @@ II.- A la solicitud se anexarán los siguientes documentos:
 
 a) Anuencia por escrito de la organización local de apicultores para establecer el nuevo apiario en el lugar indicado; y
 
-b) Certificado zoosanitario expedido por el médico veterinario zootecnista de la Delegación Estatal de la Secretaría de Agricultura Ganadería y Desarrollo Rural del Estado de procedencia.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
-III.- La Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Agropecuario y Forestal, se reserva el derecho de otorgar o negar el permiso correspondiente según el caso.
+b) Certificado zoosanitario expedido por el médico veterinario zootecnista de la Delegación en el Estado de procedencia, de la Dependencia del Gobierno Federal.
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+III.- La Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Rural, se reserva el derecho de otorgar o negar el permiso correspondiente según el caso.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 20.
 
-La persona física o moral que tenga por costumbre movilizar sus apiarios al interior de la Entidad; como es el caso de la cosecha y división durante el año; a través de sus organizaciones deberá entregar anualmente a la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Agropecuario y Forestal con copia a la Secretaría de Agricultura, Ganadería y Desarrollo Rural en el Estado, la siguiente información:
+La persona física o moral que tenga por costumbre movilizar sus apiarios al interior de la entidad; como es el caso de la cosecha y división durante el año, a través de sus organizaciones deberá entregar anualmente a la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Rural con copia a la Delegación de la Dependencia relacionada del Ejecutivo Federal en el Estado, la siguiente información:
 
 I.- Número total de colmenas y apiarios que se trasladan o permanecen en el sitio preestablecido;
 
@@ -307,9 +343,11 @@ La Dirección de Desarrollo Ganadero, podrá hacer una o más inspecciones a los
 
 ### CAPITULO VII. DE LA IDENTIFICACION Y REGISTRO
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 22.
 
-Todo apicultor que opere en el Estado de Oaxaca, marcará sus cámaras de cría y demás partes de la colmena con una figura por medio de fierro quemador con medidas similares a las reglamentarias de los ganaderos para herrar sus animales. El fierro del apicultor indicará la propiedad de la colmena y demás partes y será registrado en la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Agropecuario y Forestal, y Presidencias Municipales a través de la Organización Apícola correspondiente.
+Todo apicultor que opere en el Estado de Oaxaca, marcará sus cámaras de cría y demás partes de la colmena con una figura por medio de fierro quemador con medidas similares a las reglamentarias de los ganaderos para herrar sus animales. El fierro del apicultor indicará la propiedad de la colmena y demás partes y será registrado en la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Rural, y Presidencias Municipales a través de la Organización Apícola correspondiente.
 
 ###### ARTICULO 23.
 
@@ -333,21 +371,27 @@ Los apicultores no serán responsables de los daños que las abejas causen a per
 
 Para efectos de la presente Ley, se declara de interés público la protección, conservación y fomento de las plantas nectapoliniferas.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 28.
 
-El Gobierno del Estado en coordinación con la Secretaría de Agricultura, Ganadería y Desarrollo Rural y las Organizaciones de Apicultores, promoverán y fomentarán la introducción de cría de reinas de razas europeas puras como medida para controlar la africanización.
+El Gobierno del Estado en coordinación con la Dependencia del Ejecutivo Federal encarga del ramo y las Organizaciones de Apicultores, promoverán y fomentarán la introducción de cría de reinas de razas europeas puras como medida para controlar la africanización.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 29.
 
-Coordinadamente la Secretaría de Desarrollo Agropecuario y Forestal del Gobierno del Estado, la Secretaría de Agricultura, Ganadería y Desarrollo Rural, la Secretaría de Comercio y Fomento Industrial y los productores apícolas organizarán eventos que contribuyan al desarrollo de la apicultura.
+Coordinadamente la Secretaría de Desarrollo Rural del Gobierno del Estado, su homologa del Ejecutivo Federal, la Secretaría del despacho de los asuntos de Economía del Ejecutivo Federal y los productores apícolas organizarán eventos que contribuyan al desarrollo de la apicultura.
 
 ###### ARTICULO 30.
 
 En el Estado de Oaxaca, en la rama apícola solo podrán ejercer profesionalmente los técnicos pecuarios, los técnicos apícolas y los médicos veterinarios zootecnistas que acrediten satisfactoriamente haber realizado estudios correspondientes.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 31.
 
-Todas las Dependencias del Subsector Pecuario coordinadas por la Secretaría de Desarrollo Agropecuario y Forestal del Gobierno del Estado, están obligados a colaborar con los propietarios de colmenas para orientar y capacitar en todo lo referente a la apicultura a quienes deseen dedicarse a esta actividad.
+Todas las Dependencias del Subsector Pecuario coordinadas por la Secretaría de Desarrollo Rural del Gobierno del Estado, están obligados a colaborar con los propietarios de colmenas para orientar y capacitar en todo lo referente a la apicultura a quienes deseen dedicarse a esta actividad.
 
 ###### ARTICULO 32.
 
@@ -369,7 +413,7 @@ Ninguna Organización podrá objetar la instalación de apiarios de productores 
 
 ###### ARTICULO 36.
 
-Son obligaciones de las Organizaciones apícolas:
+Son obligaciones de las Organizaciones Apícolas:
 
 I.- Conservar y fomentar la actividad apícola;
 
@@ -377,7 +421,9 @@ II.- Pugnar por agrupar a los apicultores de un Municipio o zona de influencia;
 
 III.- Acatar las disposiciones expedidas por las dependencias correspondientes para el control de las enfermedades y de la abeja africana;
 
-IV.- Colaborar con la Secretaría de Desarrollo Agropecuario y Forestal del Gobierno del Estado y demás Instituciones en la realización de Programas para el Desarrollo apícola, así como en la estricta observancia de esta Ley;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+IV.- Colaborar con la Secretaría de Desarrollo Rural del Gobierno del Estado y demás Instituciones en la realización de Programas para el desarrollo apícola, así como en la estricta observancia de esta Ley;
 
 V.- Participar en las campañas que efectúen las autoridades y organismos públicos, privados, nacionales o extranjeros contra plagas, enfermedades y el control de la abeja africana;
 
@@ -437,9 +483,11 @@ Se prohíbe toda movilización de colmenas, abejas reinas, celdas reales, núcle
 
 Es obligatorio el cambio de abejas reinas mejoradas, en todas y cada unas de las colmenas de los apicultores del Estado, cuando menos una vez al año.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 45.
 
-Toda sospecha de la presencia de enfermedades en una colmena, deberá reportarse a la Secretaría de Agricultura, Ganadería y Desarrollo Rural, a la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Agropecuario y Forestal del Gobierno del Estado y a los organismos oficiales o privados que cooperan con el programa.
+Toda sospecha de la presencia de enfermedades en una colmena, deberá reportarse a la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Rural del Gobierno del Estado, a la similar del Gobierno Federal, y a los Organismos oficiales o privados que cooperan con el programa.
 
 ### CAPITULO XI. DE LAS SANCIONES
 
@@ -455,9 +503,11 @@ Las violaciones a la presente Ley, serán sancionadas en forma administrativa y 
 
 Las sanciones serán aplicadas por las autoridades administrativas o judiciales del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 49.
 
-Todo importe por concepto de multas, será pagado en la tesorería municipal correspondiente, debiendo el infractor remitir copia del pago a la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Agropecuario y Forestal del Gobierno del Estado.
+Todo importe por concepto de multas, será pagado en la tesorería municipal correspondiente, debiendo el infractor remitir copia del pago a la Dirección de Desarrollo Ganadero de la Secretaría de Desarrollo Rural del Gobierno del Estado.
 
 ###### ARTICULO 50.
 
@@ -516,3 +566,9 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. JOSE ANTONIO ESTEFAN GARFIAS.
 
 AL C.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 22 DE MARZO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
