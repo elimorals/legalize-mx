@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-7805"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "1992-12-30"
+last_updated: "1995-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 30 de diciembre de 1992.
 
@@ -503,7 +503,9 @@ I. Por la expedición del FIAT para el ejercicio notarial 90.0 D.S.M.G.V.
 
 II. Por el nombramiento de notarios adscritos o sustitutos 45.0 D.S.M.G.V.
 
-III. Por la autorización o cancelación de libros para el protocolo de los notarios 10.0 D.S.M.G.V.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 1995)</small>
+
+III. Por Autorización o Cancelación de cada Libro para el protocolo de los Notarios 10.0 D.S.M.G.V.
 
 IV. Por el registro de sello y firma que utiliza el notario público 9.0 D.S.M.G.V.
 
@@ -547,7 +549,7 @@ h) Las donaciones, sobre el valor de la donación 1.0%
 
 i) La disolución de mancomunidad, por cada nuevo predio inscrito 2.0 D.S.M.G.V.
 
-j) Por anotaciones y avisos preventivos 2.0 D.S.M.G.V.
+j) (DEROGADO P.O. 15 DE MARZO DE 1995)
 
 k) Por notas marginales 2.0 D.S.M.G.V.
 
@@ -635,13 +637,11 @@ Por una sola vez 0.25 al millar
 
 La cancelación de éstas no causará derecho alguno.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1995)</small>
+
 ###### Artículo 48.
 
-En los casos en que los instrumentos públicos que deban inscribirse en el Registro Público de la Propiedad no sean presentados con los derechos pagados por los notarios dentro del término de 30 días, contados a partir del día siguiente de su firma, causarán recargos de acuerdo a lo establecido en la Ley de Ingresos del Estado.
-
-Se exceptúa de este término el registro de sociedades, cuando deba tramitarse autorización judicial para su inscripción; en este caso, el registro sólo corresponderá al trámite de la autorización.
-
-Se aplicará la misma sanción a los interesados en el caso de documentos privados que deban registrarse y no se presenten en el plazo que señala el artículo 87 del reglamento del Registro Público de la Propiedad y el Comercio.
+En los casos en que los Instrumentos Públicos que deban inscribirse en el Registro Público de la Propiedad no sean presentados con los derechos pagados por los Notarios dentro del Término de 60 días, contados a partir del día siguiente de su firma, causarán recargos de acuerdo a lo establecido en la Ley de Ingresos del Estado.
 
 ###### Artículo 49.
 
@@ -948,3 +948,9 @@ LIC. MANUEL GURRIA ORDOÑEZ.
 LIC. ENRIQUE PRIEGO OROPEZA.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE MARZO DE 1995.
+
+UNICO: En cumplimiento a lo dispuesto por el Artículo 10° de la Ley Orgánica del Poder Ejecutivo, publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para que entre en vigor al día siguiente de la misma.
