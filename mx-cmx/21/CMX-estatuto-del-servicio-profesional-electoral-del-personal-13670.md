@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-del-servicio-profesional-electoral-del-personal-13670"
 country: "mx"
 rank: "estatuto"
 publication_date: "1999-03-10"
-last_updated: "1999-03-10"
+last_updated: "2004-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13670&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1999-02-28"
 
 ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL, DEL PERSONAL ADMINISTRATIVO, DE LOS TRABAJADORES AUXILIARES Y DEL PERSONAL EVENTUAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEMAS PERSONAL QUE LABORE EN EL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, APROBADO EN SESION DEL 25 DE MARZO DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA APROBADA POR EL CONSEJO: ABROGADO.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el miércoles 10 de marzo de 1999.
 
@@ -1937,3 +1939,53 @@ ______________________
 Lic. Adolfo Riva Palacio Neri
 
 Secretario Ejecutivo
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+APROBACION 25 DE MARZO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga el Estatuto del Servicio Profesional Electoral, del Personal Administrativo, de los Trabajadores Auxiliares y del Personal Eventual por Obra o Tiempo Determinado del Instituto Electoral del Distrito Federal, y el Catálogo en el que se definen los criterios de clasificación de infracciones y sanciones para los miembros del Servicio Profesional Electoral y del Personal Administrativo, aprobados por el Consejo General de este Instituto en las sesiones de fechas 28 de febrero y 29 de julio ambos de 1999, respectivamente.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Estatuto entrará en vigor al día siguiente de su publicación en los estrados del Instituto.
+
+###### ARTÍCULO TERCERO.
+
+La Dirección Ejecutiva, por medio del Centro, contará con 60 días hábiles a partir de la entrada en vigor del presente Estatuto para elaborar un programa de regularización, considerando las circunstancias particulares y el tiempo para que los miembros del Servicio Profesional cumplan con el nivel de escolaridad requerido en la tabla de rangos y niveles a los que se refiere el artículo 63 del presente Estatuto.
+
+###### ARTÍCULO CUARTO.
+
+El rango y el nivel que actualmente tiene el personal de carrera será actualizado, según sea el caso, por la Dirección Ejecutiva dentro de un plazo de 30 días hábiles contados a partir de la entrada en vigor del presente Estatuto, conforme a la estructura de rangos contenida en el mismo.
+
+###### ARTÍCULO QUINTO.
+
+La Dirección Ejecutiva, por medio del Centro, elaborará el proyecto de programa y contenido para la Especialización a que se refiere el artículo 115 de este Estatuto, el cual será propuesto por la Junta Ejecutiva, previa opinión de la Comisión del Servicio Profesional Electoral al Consejo General para su aprobación.
+
+###### ARTÍCULO SEXTO.
+
+El parámetro mínimo de calificación establecido para la acreditación de los cursos entrará en vigor a partir de la aprobación del Programa de Formación y Desarrollo que se implemente para el año 2005.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Dirección Ejecutiva contará con un plazo de 60 días hábiles, a partir de la entrada en vigor del presente Estatuto, para actualizar los perfiles de los cargos y puestos del Instituto.
+
+###### ARTÍCULO OCTAVO.
+
+La Dirección Ejecutiva, por medio del Centro presentará en el mes de agosto del año en curso al Secretario Ejecutivo el Programa de Capacitación para el personal administrativo, el cual entrará en vigor a partir del ejercicio 2005.
+
+###### ARTÍCULO NOVENO.
+
+Las propuestas de creación, modificación y actualización de los procedimientos administrativos que deriven de la aplicación del presente Estatuto, se elaborarán en un plazo no mayor de 120 días hábiles, a partir de la entrada en vigor del mismo.
+
+En tanto no sean actualizados o modificados los procedimientos a los que se refiere el párrafo anterior, todas las referencias a la otrora Comisión de Administración y del Servicio Profesional Electoral se entenderán ahora para la Comisión del Servicio Profesional Electoral y la Comisión de Administración, según corresponda, siempre y cuando no contravengan las disposiciones previstas en el Código.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos administrativos que se encuentren en trámite, serán substanciados y resueltos en los términos del Estatuto del Servicio Profesional Electoral, del Personal Administrativo, de los Trabajadores Auxiliares y del Personal Eventual por obra o tiempo determinado del Instituto Electoral del Distrito Federal y el Catálogo en el que se definen los criterios de clasificación de infracciones y sanciones para los miembros del Servicio Profesional Electoral y del Personal Administrativo, aprobados por el Consejo General de este Instituto en las sesiones de fechas 28 de febrero y 29 de julio ambos de 1999, respectivamente.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La Dirección Ejecutiva, deberá presentar a la Comisión del Servicio Profesional Electoral, dentro de los 60 días hábiles siguientes a la entrada en vigor del presente Estatuto, el anteproyecto de procedimiento para la obtención de la titularidad a que se refiere el artículo 95 del mismo, en términos de los artículos 68, fracción III del Código.
