@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-federal-de-9201"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-12-09"
-last_updated: "2002-10-07"
+last_updated: "2003-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9201&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-12-05"
 
 REGLAMENTO INTERNO DE LA COMISION FEDERAL DE TELECOMUNICACIONES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MAYO DE 2003.
 
 Reglamento publicado en el Diario Oficial de la Federación el lunes 9 de diciembre de 1996.
 
@@ -159,7 +159,7 @@ t) Larga Distancia y Valor Agregado.
 
 > <small>(REFORMADA, D.O.F. 7 DE OCTUBRE DE 2002)</small>
 
-VII. Titular del Organo Interno de Control y sus respectivas Areas de Responsabilidades, Auditoría Interna, Auditoría de Control y Evaluación y Quejas;
+VII. Titular del Organo Interno de Control y sus respectivas Areas de Responsabilidades, Auditoría Interna, Auditoría de Control y Evaluación y Quejas
 
 > <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1999)</small>
 
@@ -557,11 +557,13 @@ C. Corresponde a la Dirección General de Ingeniería y Homologación:
 
 I. Diseñar, implantar y actualizar las bases de datos oficiales de la Comisión en materia de gestión y administración del espectro radioeléctrico y atribución de frecuencias;
 
-II. Establecer los enlaces de telecomunicaciones, así como el sistema de actualización y consulta, con las empresas certificadoras que acredite la Comisión para la administración de bases de datos que contengan información sobre el uso, aprovechamiento y explotación de las bandas de frecuencias del espectro radioeléctrico para usos determinados, licitadas de conformidad con las disposiciones aplicables, así como resolver, conjuntamente con la Dirección General de Consulta Jurídica y Normatividad, la emisión, prórroga o revocación, en su caso, de autorizaciones a empresas certificadoras, así como sobre los contratos que dichas empresas celebren con los concesionarios;
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2003)</small>
+
+II. Aprobar los enlaces de telecomunicaciones, así como el sistema de actualización y consulta, con las empresas certificadoras que acredite la Comisión para la administración de bases de datos que contengan información sobre el uso, aprovechamiento y explotación de las bandas de frecuencias del espectro radioeléctrico para usos determinados, licitadas de conformidad con las disposiciones aplicables;
 
 III. Aplicar las metodologías establecidas por la Dirección General de Estudios Técnicos, Investigación y Desarrollo para la homologación de equipos y sistemas en materia de telecomunicaciones; emitir las constancias o documentos que acrediten la homologación de los mismos, y mantener el registro correspondiente;
 
-IV. Acreditar peritos en materia de telecomunicaciones y llevar el registro correspondiente;
+IV. (DEROGADA, D.O.F. 8 DE MAYO DE 2003)
 
 V. Emitir opinión, en el ámbito de su competencia, cuando le sea solicitada, respecto de la contratación de consultores externos para el análisis, desarrollo y puesta en operación de sistemas informáticos;
 
@@ -593,7 +595,9 @@ VIII. Coordinar y efectuar las modificaciones al Cuadro Nacional de Atribución 
 
 IX. Someter al Pleno la opinión sobre el cambio o rescate de una frecuencia o banda de frecuencias, conforme a lo previsto en la ley;
 
-X. Proporcionar la información necesaria para actualizar los registros correspondientes a la asignación de bandas de frecuencias, y remitir dicha información a la Dirección General de Ingeniería y Homologación;
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2003)</small>
+
+X. Resolver, conjuntamente con la Dirección General de Consulta Jurídica y Normatividad, en el ámbito de su competencia, la emisión, prórroga o revocación, en su caso, de autorizaciones a empresas certificadoras, así como sobre los contratos que dichas empresas celebren con los concesionarios, así como proporcionar y remitir a la Dirección General de Ingeniería Y homologación la información necesaria para actualizar los registros de bandas de frecuencias;
 
 XI. Recibir, evaluar y tramitar las solicitudes de licitación de bandas de frecuencias para usos determinados y someter al Pleno las propuestas que correspondan;
 
@@ -609,7 +613,9 @@ XVI. Autorizar las modificaciones a las características técnicas de concesione
 
 XVII. Diseñar y aplicar los exámenes correspondientes a los solicitantes de certificados de aptitud para desempeñarse como radioperadores o radioaficionados y expedir la acreditación correspondiente;
 
-XVIII. Actuar como sinodal en la acreditación de peritos en telecomunicaciones;
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2003)</small>
+
+XVIII. Actuar como sinodal en la acreditación de peritos en materia de telecomunicaciones y, en su caso, acreditar y expedir la acreditación respectiva y llevar el registro correspondiente;
 
 XIX. Coadyuvar en los trabajos de los organismos internacionales especializados, así como atender sus requerimientos y procedimientos;
 
@@ -1168,3 +1174,7 @@ SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 D.O.F. 7 DE OCTUBRE DE 2002.
 
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE MAYO DE 2003.
+
+UNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
