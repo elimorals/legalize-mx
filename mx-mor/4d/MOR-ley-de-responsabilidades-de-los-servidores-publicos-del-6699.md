@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-responsabilidades-de-los-servidores-publicos-del-6699"
 country: "mx"
 rank: "ley"
 publication_date: "1983-09-07"
-last_updated: "1983-09-07"
+last_updated: "2000-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el miércoles 7 de septiembre de 1983.
 
@@ -85,6 +85,10 @@ Si la conducta de los indicados Servidores constituye delito, se sancionará com
 
 Las resoluciones dictadas en los procedimientos sobre responsabilidad Política y Administrativa seguidos contra tales Servidores no prejuzgan sobre su responsabilidad civil.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+A falta de disposición expresa en este ordenamiento, respecto a los procedimientos a seguir, serán aplicables de manera supletoria las normas contenidas en el Código Procesal Civil para el Estado Libre y Soberano de Morelos.
+
 ### CAPITULO II. SUJETOS, CAUSAS DE JUICIO POLITICO Y SANCIONES
 
 ###### ARTICULO 6o.
@@ -137,15 +141,59 @@ Una vez acreditados los elementos descritos, a juicio de la Comisión Política 
 
 No se dará trámite a denuncias anónimas.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+El procedimiento será de estricto derecho, manteniendo el principio de igualdad de las partes.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+El escrito de denuncia deberá contener el nombre del promovente y su domicilio para oír y recibir notificaciones y documentos en el lugar de residencia del H. Congreso del Estado; nombre y domicilio del denunciado, para el efecto de que pueda ser notificado y emplazado a juicio; los hechos que den motivo a la denuncia y las pruebas que ofrezca.
+
 ###### ARTICULO 12.
 
 La Comisión Instructora de Procedimiento practicará todas las diligencias necesarias para la comprobación de la conducta o hecho materia de aquella.
 
-Una vez recibida la denuncia por la Comisión Instructora, formará el expediente respectivo y citará en un plazo no mayo de diez días al denunciado para oírlo en defensa por sí o por conducto de su defensor; abrirá un término probatorio de treinta días hábiles improrrogables y en el mismo recibirá las pruebas del inculpado y del denunciante.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+Una vez que la Comisión Instructora haya recibido la denuncia y formado el expediente respectivo, procederá a emplazar al denunciado para que, en un término de quince días hábiles contados a partir del día siguiente al de la notificación, conteste la denuncia planteada en su contra, señalando en la misma el domicilio para oír y recibir notificaciones en el lugar de residencia del H. Congreso del Estado, así como las pruebas que ofrezca.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+Cuando hubiese que emplazar a alguna persona que haya desaparecido, que no tenga domicilio fijo o, por la razón que fuere, no logre localizársele, la notificación y el emplazamiento se hará por medio de edictos, los cuales se publicarán por tres veces de tres en tres días en dos de los periódicos diarios de mayor circulación en el Estado de Morelos, debiéndose además publicar, por una sola vez, en el Periódico Oficial del Gobierno del Estado de Morelos, conminándola a presentarse a defender sus derechos en un plazo de quince días hábiles, contados a partir del día siguiente al de la última publicación. Si pasado este término no comparece por sí o por medio de su defensor, se seguirá el juicio en rebeldía.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+Una vez contestada la denuncia o transcurrido el plazo para hacerlo, la Comisión Instructora abrirá un término probatorio de treinta días hábiles improrrogables; en los primeros quince días tendrá efecto el ofrecimiento de pruebas, quedando los días restantes para el desahogo de las mismas, que empezarán a contarse desde el día siguiente al de la notificación del auto que ordene abrir dicho período.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+En los juicios políticos serán admisibles toda clase de pruebas, con excepción de la confesional y de aquellas que sean contrarias a la moral y al derecho.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+En el caso de que, tanto en la denuncia como en la contestación, se ofrezcan pruebas periciales o testimoniales, deberán precisarse los hechos sobre los que versen, señalando los nombres y domicilios de los peritos, así como los de los testigos. Sin estos requisitos se tendrá como no ofrecidas dichas pruebas.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+Para el desahogo de las pruebas testimonial y pericial se requerirá al oferente para que exhiba los interrogatorios o los puntos sobre los cuales se deba dictaminar, a más tardar un día antes de la fecha que la Comisión Instructora haya señalado para tal efecto.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+De los testimonios se levantará acta pormenorizada, y podrá serles formuladas por la Comisión Instructora o por las partes, sólo aquellas preguntas que estén en relación directa con los hechos controvertidos o persigan la aclaración de cualquier respuesta.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+Se requerirá el dictamen de peritos, únicamente cuando sea necesaria la aportación de conocimientos especiales para el esclarecimiento de los hechos, que no estén al alcance del conocimiento común de las personas.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+Las pruebas supervinientes podrán presentarse siempre que no se haya cerrado el período de instrucción, en cuyo caso la Comisión Instructora dará vista a la contraparte para que, en un plazo de tres días, manifieste lo que a su derecho convenga.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 13.
 
-Transcurrido el término a que se refiere el Artículo anterior, dentro de los quince días siguientes, la Comisión emitirá sus conclusiones acusatorias o absolutorias en su caso.
+Transcurridos los términos a que alude el artículo anterior la Comisión Instructora procederá a declarar cerrado el período de instrucción, emitiendo sus conclusiones acusatorias o absolutorias, en su caso, dentro de los quince días hábiles siguientes contados a partir de la fecha del acuerdo.
 
 ###### ARTICULO 14.
 
@@ -500,3 +548,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 Lic. David Jiménez González
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+Túrnese al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto tendrá vigencia a partir del día siguiente a su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
