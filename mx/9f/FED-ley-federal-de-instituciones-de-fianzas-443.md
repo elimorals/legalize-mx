@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "1988-02-01"
+last_updated: "1990-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE FEBRERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1990.
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO SEGUNDO DEL DECRETO DE REFORMAS DE LA PRESENTE LEY PUBLICADO EN EL D.O.F. 3 DE ENERO DE 1990, SE REFORMAN LOS ARTICULOS DE LA LEY FEDERAL DE INSTITUCIONES DE FIANZAS, NO INCLUIDOS EN EL ARTICULO PRIMERO DE ESTE DECRETO, EN LOS QUE SE HAGA MENCION A LA COMISION NACIONAL BANCARIA Y DE SEGUROS PARA EL SOLO EFECTO DE SUSTITUIR EL NOMBRE DEL CITADO ORGANISMO, POR EL DE "COMISION NACIONAL DE SEGUROS Y FIANZAS".</small>
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -45,27 +47,19 @@ LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 1º.
 
 La presente Ley se aplicará a las instituciones de fianzas, cuyo objeto será otorgar fianzas a título oneroso.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
-
-Las instituciones nacionales de fianzas se regirán por sus leyes especiales y, a falta de éstas o cuanto en ellas no esté previsto, por lo que estatuye la presente.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+Competerá exclusivamente a la Secretaría de Hacienda y Crédito Público, la adopción de todas las medidas relativas a la creación y al funcionamiento de las instituciones nacionales de fianzas, las que se regirán por sus leyes especiales y, a falta de éstas o cuanto en ellas no esté previsto, por lo que estatuye la presente.
 
 La Secretaría de Hacienda y Crédito Público, será el órgano competente para interpretar, aplicar y resolver para efectos administrativos lo relacionado con los preceptos de esta Ley y en general para todo cuanto se refiere a las instituciones de fianzas.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+La propia Secretaría podrá solicitar cuando así lo estime conveniente, la opinión de la Comisión Nacional de Seguros y Fianzas, del Banco de México o de algún otro organismo o dependencia en razón de la naturaleza de los casos que lo ameriten.
 
-Competerá exclusivamente a la Secretaría de Hacienda y Crédito Público, la adopción de todas las medidas relativas a la creación y al funcionamiento de las instituciones nacionales de fianzas.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
-
-En la aplicación de esta Ley, la mencionada Secretaría con la intervención que, en su caso, corresponda a la Comisión Nacional Bancaria y de Seguros, deberá procurar un desarrollo equilibrado del sistema afianzador, y una competencia sana entre las instituciones de fianzas que lo integran.
+En la aplicación de esta Ley, la mencionada Secretaría con la intervención que, en su caso, corresponda a la Comisión Nacional de Seguros y Fianzas, deberá procurar un desarrollo equilibrado del sistema afianzador, y una competencia sana entre las instituciones de fianzas que lo integran.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -73,23 +67,31 @@ En la aplicación de esta Ley, la mencionada Secretaría con la intervención qu
 
 Las fianzas y los contratos, que en relación con ellas otorguen o celebren las instituciones de fianzas, serán mercantiles para todas las partes que intervengan, ya sea como beneficiarias, solicitantes, fiadas, contrafiadoras u obligadas solidarias, excepción hecha de la garantía hipotecaria.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 3º.
 
-Se prohíbe a toda persona física o moral distinta a las instituciones de fianzas concesionadas en los términos de esta Ley, otorgar habitualmente fianzas a título oneroso.
-
-Salvo prueba en contrario se presume la infracción de este precepto, cuando el otorgamiento de fianzas se ofrezca al público por cualquier medio de publicidad, o se expidan pólizas, o se utilicen agentes.
+Se prohibe a toda persona física o moral distinta a las instituciones de fianzas, autorizadas en los términos de esta Ley, otorgar habitualmente fianzas a título oneroso.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
+Salvo prueba en contrario se presume la infracción de este precepto, cuando el otorgamiento de fianzas se ofrezca al público por cualquier medio de publicidad, o se expidan pólizas, o se utilicen agentes.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 4º.
 
-Se prohíbe contratar con empresas extranjeras fianzas para garantizar actos de personas que en el territorio nacional deban cumplir obligaciones, salvo los casos de reafianzamiento y cuando se reciban por las instituciones de fianzas mexicanas, como contragarantía.
+Se prohibe contratar con empresas extranjeras fianzas para garantizar actos de personas que en el territorio nacional deban cumplir obligaciones, salvo los casos de reafianzamiento o reaseguro y cuando se reciban por las instituciones de fianzas mexicanas, como contragarantía.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 Las fianzas que en contravención a lo dispuesto en este artículo se llegaren a celebrar, no producirán efecto legal alguno.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+
 Sin embargo, cuando ninguna de las instituciones de fianzas facultadas para operar en el país, pueda o estime conveniente realizar determinada operación de fianza que se le hubiere propuesto, la Secretaría de Hacienda y Crédito Público, previa comprobación de estas circunstancias, podrá discrecionalmente otorgar una autorización específica para que la persona que necesite la fianza la contrate exclusivamente a través de una institución de fianzas con una empresa extranjera.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 Se prohíbe a toda persona la intermediación en las operaciones a que se refieren el primer párrafo de este artículo y el artículo 3o. de esta Ley.
 
@@ -97,39 +99,39 @@ Se prohíbe a toda persona la intermediación en las operaciones a que se refier
 
 (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1981)
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 5º.
 
-Para organizarse y funcionar como institución de fianzas se requiere concesión del Gobierno Federal, que compete otorgar discrecionalmente a la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros. Estas concesiones son por su propia naturaleza intransmisibles.
+Para organizarse y funcionar como institución de fianzas se requiere autorización del Gobierno Federal, que compete otorgar discrecionalmente a la Secretaría de Hacienda y Crédito Público. Estas autorizaciones serán intransmisibles.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 6º.
 
-Se publicarán en el Diario Oficial de la Federación las concesiones para organizarse y funcionar como institución de fianzas, así como las modificaciones a las mismas, a costa de los interesados. Los acuerdos de revocación se publicarán sin costo para la institución de fianzas.
+Las autorizaciones a que se refiere el artículo 5o. de esta Ley, así como las modificaciones a las mismas, se publicarán en el Diario Oficial de la Federación, a costa de los interesados. Los acuerdos de revocación se publicarán sin costo para la institución de fianzas.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 7º.
 
-La solicitud de concesión deberá acompañarse del proyecto de escritura constitutiva; un plan de actividades que, como mínimo, contemple el capital social inicial, ámbito geográfico y programas de operación técnica, colocación de fianzas y organización administrativa; así como del comprobante de haber constituido en Nacional Financiera, S. A., un depósito en moneda nacional o en valores de Estado, por su valor de mercado, igual al 10% del capital mínimo con que deba operar, según esta Ley. La concesión respectiva quedará sujeta a la condición de que la institución de fianzas quede organizada y dé comienzo a sus operaciones en los plazos a que se refiere la fracción I del artículo 105 de esta Ley. Este depósito se devolverá al comenzar las operaciones o denegarse la concesión, pero se aplicará al fisco federal si otorgada la misma no se cumpliere la condición referida. En el caso de que se deniegue la concesión, la autoridad podrá retener al solicitante, hasta el 10% del depósito y lo aplicará al fisco federal en razón de las erogaciones que en el trámite se hubieren hecho.
+La solicitud de autorización, a que se refiere el artículo 5o. de esta Ley, deberá acompañarse del proyecto de escritura constitutiva; un plan de actividades que como mínimo, contemple el capital social inicial, ámbito geográfico y programas de operación técnica, colocación de fianzas y organización administrativa; así como del comprobante de haber constituido en Nacional Financiera, S. N. C., un depósito en moneda nacional o en valores de Estado, por su valor de mercado, igual al 10% del capital mínimo con que deba operar, según esta Ley. La autorización respectiva quedará sujeta a la condición de que la institución de fianzas quede organizada y dé comienzo a sus operaciones en los plazos a que se refiere la fracción I del artículo 105 de esta Ley. Este depósito se devolverá al comenzar las operaciones o denegarse la autorización, pero se aplicará al fisco federal si otorgada la misma no se cumpliere la condición referida. En el caso de que se deniegue la autorización, la autoridad podrá retener al solicitante, hasta el 10% del depósito y lo aplicará al fisco federal en razón de las erogaciones que en el trámite se hubieren hecho.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 8º.
 
-La adquisición del control del 10% o más, de acciones representativas del capital pagado de una institución de fianzas, o de una de las sociedades a que se refiere el inciso b) de la fracción III del artículo 15 de esta Ley, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, deberá someterse a la previa autorización de la Secretaría de Hacienda y Crédito Público, la que la otorgará o negará discrecionalmente oyendo la opinión de la Comisión Nacional Bancaria y de Seguros.
+La adquisición del control del 10% o más, de acciones representativas del capital pagado de una institución de fianzas, o de una de las sociedades a que se refiere el inciso b) de la fracción III del artículo 15 de esta Ley, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, deberá someterse a la previa autorización de la Secretaría de Hacienda y Crédito Público, la que la otorgará o negará discrecionalmente.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 9º.
 
-Son organizaciones auxiliares de fianzas los consorcios formados por instituciones de fianzas concesionadas, con objeto de prestar a cierto sector de la actividad económica un servicio de fianzas de manera habitual, a nombre y por cuenta de dichas instituciones afianzadoras, o celebrar en representación de las mismas, los contratos de reafianzamiento o coafianzamiento necesarios para la mejor distribución de responsabilidades.
+Son organizaciones auxiliares de fianzas los consorcios formados por instituciones de fianzas autorizadas, con objeto de prestar a cierto sector de la actividad económica un servicio de fianzas de manera habitual, a nombre y por cuenta de dichas instituciones afianzadoras, o celebrar en representación de las mismas, los contratos de reafianzamiento, coafianzamiento o reaseguro necesarios para la mejor distribución de responsabilidades.
 
-Los consorcios a que se refiere el párrafo anterior serán organizados como sociedades, previa autorización de la Secretaría de Hacienda y Crédito Público, y sus operaciones se regirán por las disposiciones de esta Ley que les sean aplicables y por las reglas de carácter general que al efecto dicte la citada Secretaría, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros.
+Los consorcios a que se refiere el párrafo anterior serán organizados como sociedades, previa autorización de la Secretaría de Hacienda y Crédito Público, y sus operaciones se regirán por las disposiciones de esta Ley que les sean aplicables y por las reglas de carácter general que al efecto dicte la citada Secretaría.
 
-Los consorcios tendrán como único objeto actuar como organizaciones auxiliares de fianzas en los términos del primer párrafo de este artículo y quedarán sometidos a la inspección y vigilancia de la Comisión Nacional Bancaria y de Seguros.
+Los consorcios tendrán como único objeto actuar como organizaciones auxiliares de fianzas en los términos del primer párrafo de este artículo y quedarán sometidos a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas.
 
 Las instituciones afianzadoras que formen un consorcio, se obligarán en los términos y proporciones que convengan.
 
@@ -143,11 +145,13 @@ Se exceptúa de la aplicación del párrafo anterior, a los intermediarios y dem
 
 Asimismo, queda prohibido el uso de la palabra "nacional" en la denominación de instituciones de fianzas que no tengan ese carácter.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 11.
 
-No podrán inscribirse en el Registro Público de la Propiedad y de Comercio, escrituras constitutivas o sus modificaciones, de sociedades en cuyo nombre, razón social o denominación se emplee cualesquiera de las palabras a que se refiere el artículo anterior, o cuyo objeto sea operar en materia de fianzas, si no se insertan los documentos oficiales que comprueben la existencia de la concesión o autorización que exige esta Ley.
+No podrán inscribirse en el Registro Público de la Propiedad y de Comercio, escrituras constitutivas o sus modificaciones, de sociedades en cuyo nombre, razón social o denominación se emplee cualesquiera de las palabras a que se refiere el artículo anterior, o cuyo objeto sea operar en materia de fianzas, si no se insertan los documentos oficiales que comprueben la existencia de la autorización que exige esta Ley.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 Tratándose de la escritura constitutiva o sus modificaciones, de instituciones de fianzas, deberá comprobarse, además, que se cuenta con la aprobación de la Secretaría de Hacienda y Crédito Público en los términos del artículo 15, fracción X, de esta Ley.
 
@@ -159,21 +163,25 @@ Las instituciones de fianzas por las fianzas que otorguen, se considerarán de a
 
 En los casos diversos al otorgamiento de fianzas, mientras las instituciones de fianzas, no sean puestas en liquidación o declaradas en quiebra, se considerarán de acreditada solvencia y no estarán obligadas, por tanto, a constituir depósitos o fianzas legales, hecha excepción de las responsabilidades que puedan derivarles de juicios laborales, de amparo o por créditos fiscales.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 13.
 
-Las autoridades federales o locales están obligadas a admitir las fianzas, aceptando la solvencia de las instituciones de fianzas, sin calificar dicha solvencia ni exigir la constitución de depósitos, otorgamiento de fianzas o comprobación de que la institución es propietaria de bienes raíces, ni la de su existencia jurídica, bastando con que lleven las firmas de las personas autorizadas por los consejos respectivos; las cuales se comprobarán con la publicación que haga la Comisión Nacional Bancaria y de Seguros, en el Diario Oficial de la Federación.
-
-Las mismas autoridades no podrán fijar mayor importe para las fianzas que otorguen las instituciones de fianzas, que el señalado para depósitos en efectivo u otras formas de garantía.
-
-La infracción de este precepto será causa de responsabilidad.
+Las autoridades federales o locales están obligadas a admitir las fianzas, aceptando la solvencia de las instituciones de fianzas, sin calificar dicha solvencia ni exigir la constitución de depósitos, otorgamiento de fianzas o comprobación de que la institución es propietaria de bienes raíces, ni la de su existencia jurídica, bastando con que lleven las firmas de las personas autorizadas por los consejos respectivos; las cuales se comprobarán con la publicación que haga la Comisión Nacional de Seguros y Fianzas, en el Diario Oficial de la Federación.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
+Las mismas autoridades no podrán fijar mayor importe para las fianzas que otorguen las instituciones de fianzas, que el señalado para depósitos en efectivo u otras formas de garantía.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+
+La infracción de este precepto será causa de responsabilidad.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 14.
 
-El negativo de las copias microfotográficas que saquen las instituciones de fianzas de los documentos que tuvieren en su poder, con motivo o en relación con los actos de su empresa y que señale la Comisión Nacional Bancaria y de Seguros, tendrán en juicio el mismo valor probatorio que los documentos microfilmados.
+El negativo de las copias microfotográficas que saquen las instituciones de fianzas de los documentos que tuvieren en su poder, con motivo o en relación con los actos de su empresa y que señale la Comisión Nacional de Seguros y Fianzas, tendrán en juicio el mismo valor probatorio que los documentos microfilmados.
 
 > <small>(REFORMADO Y REUBICADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -191,27 +199,27 @@ Las instituciones de fianzas deberán ser constituidas como sociedades anónimas
 
 I.- Tendrán por objeto las actividades a que se refiere el artículo 1o. de esta Ley, las necesarias para su realización y las que la Secretaría de Hacienda y Crédito Público autorice y regule por considerar que son compatibles, análogas o conexas a las que les sean propias;
 
-II.- Deberán contar con el capital mínimo que establezca la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-Las disposiciones generales para determinar el capital mínimo de las instituciones de fianzas, las dictará la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, tomando en cuenta los recursos que, a su juicio, sean indispensables para apoyar la adecuada prestación del servicio público que representa la actividad afianzadora, la suma de los capitales pagados y reservas de capital con que opere el conjunto de instituciones que integren el sistema afianzador, el principio de procurar un desarrollo equilibrado del sistema y la competencia sana entre las instituciones, así como la situación económica del país, debiendo fijar en las reglas generales correspondientes, un plazo, no menor a un año, en que las instituciones que se encuentren en operación deban alcanzar dicho capital mínimo.
+II.- Deberán contar con el capital mínimo que la Secretaría de Hacienda y Crédito Público fijará durante el primer trimestre de cada año, tomando en cuenta los recursos que, a su juicio, sean indispensables para apoyar la adecuada prestación del servicio, procurando un desarrollo equilibrado del sistema afianzador y la competencia sana entre las instituciones, así como la situación económica del país.
 
-Salvo lo dispuesto en el párrafo anterior, el capital mínimo deberá estar totalmente suscrito y pagado. Cuando el capital social exceda del mínimo deberá estar pagado por lo menos en un 50%, siempre que este porcentaje no sea menor del mínimo establecido.
+El capital mínimo deberá estar totalmente suscrito y pagado a más tardar al 30 de junio del año en que la Secretaría de Hacienda y Crédito Público lo haya fijado. Cuando el capital social exceda del mínimo deberá estar pagado cuando menos en un 50%, siempre que este porcentaje no sea menor del mínimo establecido.
 
-El valor de las acciones deberá ser integramente cubierto en efectivo en el acto de ser suscritas.
+La Secretaría de Hacienda y Crédito Público podrá prorrogar el plazo a que se refiere el párrafo anterior hasta por seis meses más, cuando así lo amerite la situación financiera de la institución.
 
-Las instituciones estarán facultadas para emitir acciones no suscritas, que se conservarán en la caja de la sociedad y que serán entregadas a los suscriptores contra el pago total de su valor nominal y de las primas que, en su caso, fije la sociedad.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-Las cantidades que por concepto de primas u otro similar paguen los suscriptores de acciones sobre su valor nominal, se llevarán a un fondo especial de reserva que podrá ser capitalizado;
+II bis.- No podrán participar en el capital pagado de dichas instituciones de fianzas, directamente o a través de interpósita persona:
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-II bis.- No podrán participar en el capital social de dichas instituciones de fianzas, directamente o a través de interpósita persona:
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 a).- Instituciones de crédito;
 
-b).- Otras instituciones de fianzas, salvo que adquieran acciones conforme a lo previsto en programas aprobados por la Secretaría de Hacienda y Crédito Público conducentes a su fusión; y
+b).- (DEROGADO, D.O.F. 3 DE ENERO DE 1990)
 
-c).- Instituciones y sociedades mutualistas de seguros, casas de bolsa y organizaciones auxiliares del crédito;
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+c).- Sociedades mutualistas de seguros, casas de bolsa, casas de cambio, organizaciones auxiliares del crédito y sociedades operadoras de sociedades de inversión.
 
 III.- Ninguna persona física o moral podrá ser propietaria de más del 15% del capital pagado de una institución de fianzas, excepto:
 
@@ -219,17 +227,27 @@ III.- Ninguna persona física o moral podrá ser propietaria de más del 15% del
 
 a).- La Administración Pública Federal;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-b).- Las sociedades que sean o que puedan llegar a ser propietarias de acciones de una institución de fianzas. Estas sociedades estarán sometidas a la inspección y vigilancia de la Comisión Nacional Bancaria y de Seguros y les será aplicable al igual que a sus accionistas, lo dispuesto en esta fracción, en la IV y en el último párrafo de este artículo, así como las fracciones III y IV del artículo 111 de esta Ley.
+b).- Las sociedades que sean o que puedan llegar a ser propietarias de acciones de una institución de fianzas. Estas sociedades estarán sometidas a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas y les será aplicable al igual que a sus accionistas, lo dispuesto en esta fracción en la IV y en la fracción XIII de este artículo, así como las fracciones III y IV del artículo 111 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 Las personas que aporten acciones de una o varias instituciones de fianzas al capital de una de las sociedades a que se refiere este inciso, podrán mantener la participación que resulte en el capital de la misma, por el valor de las acciones que cada una de ellas aporte.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
 Dichas sociedades no podrán ser propietarias de acciones de más de una institución de fianzas, salvo que se trate de instituciones que pretendan fusionarse conforme a programas aprobados por la Secretaría de Hacienda y Crédito Público, previa autorización que con carácter transitorio podrá otorgar esa Dependencia.
 
-En el capital de las señaladas sociedades no podrán participar directa o indirectamente, otra sociedad del mismo tipo, instituciones de crédito, de seguros, de fianzas, organizaciones auxiliares de crédito, casas de bolsa, así como aquellas sociedades que la Secretaría de Hacienda y Crédito Público señale mediante disposiciones de carácter general, como incompatibles en razón de sus actividades.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-Las sociedades a que se refiere este inciso no podrán adquirir directa o indirectamente acciones representativas del capital de organizaciones auxiliares del crédito o instituciones de seguros.
+En el capital de las señaladas sociedades no podrán participar directa o indirectamente, otra sociedad del mismo tipo, instituciones de crédito, de fianzas, de seguros, organizaciones auxiliares del crédito, casas de bolsa, casas de cambio, sociedades operadoras de sociedades de inversión y sociedades mutualistas de seguros, así como aquellas sociedades que la Secretaría de Hacienda y Crédito Público señale mediante disposiciones de carácter general, como incompatibles en razón de sus actividades.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Las sociedades a que se refiere este inciso no podrán adquirir directa o indirectamente acciones representativas del capital de organizaciones auxiliares del crédito.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 Lo dispuesto en esta fracción deberá hacerse constar en los estatutos de las sociedades correspondientes.
 
@@ -239,37 +257,43 @@ d).- Las instituciones de fianzas, cuando adquieran acciones por cuenta propia c
 
 e).- Las instituciones de crédito cuando, previa autorización de la Secretaría de Hacienda y Crédito Público, adquieran acciones actuando como fiduciarias en fideicomisos que no se utilicen como medio para contravenir los porcentajes máximos de tenencia de acciones permitidos por esta Ley.
 
-(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)(F. DE E., D.O.F. 15 DE FEBRERO DE 1985)
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-Las personas que en los términos de esta fracción lleguen a ser propietarios de más del 15% del capital pagado de una institución de fianzas o de una sociedad de las comprendidas en el inciso b) de esta fracción, deberán obtener certificado de la Comisión Nacional Bancaria y de Seguros, en el que se hará constar el porcentaje correspondiente;
+Las personas que en los términos de esta fracción lleguen a ser propietarios de más del 15% del capital pagado de una institución de fianzas o de una sociedad de las comprendidas en el inciso b) de esta fracción, deberán obtener certificado de la Comisión Nacional de Seguros y Fianzas, en el que se hará constar el porcentaje correspondiente;
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 f).- Los accionistas de instituciones de fianzas fusionantes o fusionadas, siempre y cuando la participación de cada uno de ellos en el capital de la institución fusionante o que resulte de la fusión, no exceda de la participación porcentual que a esos mismos accionistas les corresponda en el capital consolidado de las instituciones involucradas en la fusión respectiva, de conformidad con lo que para la valuación y el canje de acciones se pacte en el convenio de fusión;
 
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+g).- Las sociedades a que se refiere el artículo 15 bis de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+h).- Las personas que de manera discrecional autorice la Secretaría de Hacienda y Crédito Público con la finalidad de propiciar el desarrollo técnico y de comercialización de la fianza; de procurar una adecuada diversificación de responsabilidades y de fortalecer la eficiencia y capacidad de retención de primas de las instituciones.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Las personas que en los términos de esta fracción, lleguen a ser propietarias de más del 15% del capital pagado de una institución de fianzas o de una sociedad de las comprendidas en el inciso b) de esta fracción, deberán obtener certificado de la Comisión Nacional de Seguros y Fianzas, en el que se hará constar el porcentaje correspondiente;
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 IV.- Para participar en asambleas de accionistas de instituciones de fianzas o de sociedades de las comprendidas en el inciso b) de la fracción anterior, deberán cumplirse los siguientes requisitos:
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
-
 a).- Manifestar por escrito el carácter con el que se concurre, sea éste el de accionistas, mandatario, comisionista, fiduciario o cualquier otro. Los mandatarios, comisionistas o cualquier tipo de representantes no podrán en ningún caso participar en asambleas en nombre propio;
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-b).- Manifestar por escrito el nombre de la o las personas a quienes pertenezcan las acciones que representen y señalar invariablemente el número de acciones que a cada una corresponda, cuando se asista con el carácter de mandatario, comisionista o cualquier tipo de representante, así como en los demás casos que determine la Comisión Nacional Bancaria y de Seguros, y
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+b).- Manifestar por escrito el nombre de la o las personas a quienes pertenezcan las acciones que representen y señalar invariablemente el número de acciones que a cada una corresponda, cuando se asista con el carácter de mandatario, comisionista o cualquier tipo de representante, así como en los demás casos que determine la Comisión Nacional de Seguros y Fianzas, y.
 
 c).- Exhibir, en su caso, el certificado a que se refiere el último párrafo de la fracción anterior.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
-
 Los escrutadores estarán obligados a cerciorarse de la observancia de lo dispuesto en esta fracción e informar sobre ello a la asamblea, lo que se hará constar en el acta respectiva.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, estará facultada para dictar reglas de carácter general con vistas a procurar el estricto cumplimiento de lo dispuesto en esta fracción y la que antecede.
+La Secretaría de Hacienda y Crédito Público estará facultada para dictar reglas de carácter general con vistas a procurar el estricto cumplimiento de lo dispuesto en esta fracción y la que antecede.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -289,29 +313,101 @@ Cada accionista, o grupo de accionista (sic) que represente por lo menos un 10% 
 
 IX.- De sus utilidades separarán, por lo menos, un 10% para constituir un fondo de reserva de capital, hasta alcanzar una suma igual al importe del capital pagado.
 
-Dicho fondo de reserva podrá capitalizarse, pero la institución deberá reconstituirlo a partir del ejercicio siguiente de acuerdo con el nuevo monto del capital;
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Dicha reserva podrá capitalizarse, pero la institución deberá reconstituirla a partir del ejercicio siguiente de acuerdo con el nuevo monto del capital pagado;
 
 X.- La escritura constitutiva y cualquier modificación de la misma, deberán ser sometidas a la aprobación de la Secretaría de Hacienda y Crédito Público, a efecto de apreciar si se cumplen los requisitos establecidos por la Ley. Dictada dicha aprobación por la Secretaría de Hacienda y Crédito Público, la escritura o sus reformas podrán ser inscritas en el Registro Público de la Propiedad y de Comercio sin que sea preciso mandamiento judicial.
 
 La inscripción que se haga en contravención a lo dispuesto por esta fracción, no surtirá efecto legal;
 
-XI.- La fusión de dos o más instituciones de fianzas, de conformidad con lo dispuesto por el tercer párrafo del artículo 78 de esta Ley, tendrá efecto en el momento de inscribirse en el Registro Público de la Propiedad y de Comercio. Dentro de los noventa días naturales de la publicación en el periódico oficial del domicilio de las sociedades que hayan de fusionarse, los acreedores podrán oponerse judicialmente para el sólo efecto de obtener el pago de sus créditos, sin que esta oposición suspenda la fusión, y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+XI.- Para la fusión de dos o más instituciones de fianzas se requerirá la autorización previa de la Secretaría de Hacienda y Crédito Público y surtirá efectos en el momento de inscribirse en el Registro Público de la Propiedad y de Comercio. Dentro de los noventa días naturales de la publicación en el periódico oficial del domicilio de las sociedades que hayan de fusionarse, los acreedores podrán oponerse judicialmente para el sólo efecto de obtener el pago de sus créditos, sin que esta oposición suspenda la fusión.
+
+Se requerirá autorización de la Secretaría de Hacienda y Crédito Público para la cesión de las obligaciones y derechos correspondientes al otorgamiento de fianzas, así como de los activos o pasivos de una institución de fianzas a otra.
+
+La institución cedente deberá publicar avisos en su oficina matriz, sucursales y oficinas de servicio, en el Diario Oficial de la Federación y en dos de los periódicos de mayor circulación, en la plaza donde se encuentre su domicilio social, informando del traspaso o la cesión a que se refiere el párrafo anterior. Dichos avisos surtirán efectos de notificación a los beneficiarios de las pólizas de fianza, cuyo domicilio sea distinto al último señalado para que dentro de un plazo de treinta días hábiles, contados a partir de la fecha de publicación de los citados avisos, manifiesten lo que a su derecho convenga.
+
+La Secretaría de Hacienda y Crédito Público, tomando en cuenta lo que en su caso hubieran manifestado los beneficiarios, una vez que se haya acreditado el cumplimiento del requisito anterior, resolverá sobre la procedencia de la cesión o traspaso correspondiente. El contrato de cesión o traspaso, deberá inscribirse en el Registro Público de la Propiedad y de Comercio.
 
 XII.- La disolución y liquidación se regirá por lo dispuesto en el Capítulo V del Título Tercero de esta Ley, con las siguientes excepciones:
 
 1.- El cargo de síndico y liquidador, en la liquidación voluntaria, siempre corresponderá a alguna institución de crédito facultada para efectuar operaciones fiduciarias;
 
-2.- La Comisión Nacional Bancaria y de Seguros ejercerá, respecto a los síndicos y a los liquidadores, las funciones de vigilancia que tiene atribuidas en relación a las instituciones de fianzas, y
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-3.- La Comisión Nacional Bancaria y de Seguros, podrá solicitar la suspensión de pagos en las condiciones de la Ley de Quiebras y de Suspensión de Pagos.
+2.- La Comisión Nacional de Seguros y Fianzas ejercerá, respecto a los síndicos y a los liquidadores, las funciones de vigilancia que tiene atribuidas en relación a las instituciones de fianzas, y
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+3.- La Comisión Nacional de Seguros y Fianzas, podrá solicitar la suspensión de pagos en las condiciones de la Ley de Quiebras y de Suspensión de Pagos.
 
 En ningún momento podrán participar en forma alguna en el capital de estas sociedades, gobiernos o dependencias oficiales extranjeros, entidades financieras del exterior, o agrupaciones de personas extranjeras, físicas o morales, sea cual fuere la forma que revistan, directamente o a través de interpósita persona.
+
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+XIII.- En ningún momento podrán participar en forma alguna en el capital de estas instituciones, ya sea directamente o a través de interpósita persona, gobiernos o dependencias oficiales extranjeros, ni entidades financieras del exterior, excepto en los casos previstos en el párrafo siguiente:
+
+La Secretaría de Hacienda y Crédito Público podrá, discrecionalmente, autorizar la participación en el capital pagado de las instituciones de fianzas, a entidades aseguradoras, reaseguradoras y afianzadoras del exterior y a personas físicas o morales extranjeras o agrupaciones de las mismas, distintas a las excluidas en el párrafo anterior. La autorización que se otorgue a un inversionista extranjero será intransmisible. La inversión mexicana siempre tendrá que ser mayoritaria y deberá mantener la facultad de determinar el manejo de la institución y su control efectivo.
+
+Todo extranjero, que en el acto de la constitución o en cualquier tiempo ulterior, adquiera un interés o participación social en la institución se considerará, por ese simple hecho, como mexicano respecto de uno y otra, y se entenderá que conviene en no invocar la protección de su gobierno, bajo la pena, en caso de faltar a su convenio de perder dicho interés o participación en beneficio de la Nación.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 15 Bis.
+
+Las instituciones de fianzas no podrán utilizar denominaciones iguales o semejantes a las de otros intermediarios financieros, ni ostentarse de cualquier manera como integrantes de grupos financieros, salvo cuando éstos se encuentren constituidos y funcionen conforme a las bases siguientes:
+
+I.- Sólo podrán estar integrados con almacenes generales de depósito, arrendadoras financieras, casas de bolsa, casas de cambio, empresas de factoraje financiero, instituciones de fianzas, instituciones de seguros, sociedades operadoras de sociedades de inversión, así como con cualquier otra clase de sociedad que determine la Secretaría de Hacienda y Crédito Público.
+
+Cada grupo deberá contar por lo menos con tres de los intermediarios antes citados, que no sean sociedades operadoras de sociedades de inversión.
+
+No podrán participar en un mismo grupo dos o más intermediarios financieros de una misma clase, salvo sociedades operadoras de sociedades de inversión, también podrán participar dos o más instituciones de seguros, cuando se trate de instituciones autorizadas para operar en ramos distintos.
+
+Los intermediarios financieros en cuyo capital participen instituciones de crédito, sólo podrán participar en un grupo financiero con autorización de la Secretaría de Hacienda y Crédito Público;
+
+II.- Las acciones con derecho a voto, que representen por lo menos el 51% del capital pagado de cada uno de los integrantes del grupo, deberán ser propiedad de una misma sociedad anónima controladora que tenga por objeto adquirir tales acciones;
+
+III.- Ninguna persona física o moral podrá adquirir, directa o indirectamente, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de más del quince por ciento del capital pagado de una sociedad controladora.
+
+Este límite también se aplicará a las personas que, de acuerdo con las disposiciones de carácter general que expida la Secretaría de Hacienda y Crédito Público mencionadas en la fracción X siguiente, deban considerarse para estos efectos como una sola persona:
+
+IV.- En ningún momento podrán participar en forma alguna en el capital de las sociedades controladoras, directamente o a través de interpósita persona:
+
+a).- Gobiernos o dependencias oficiales extranjeros, ni en general, personas extranjeras, físicas o morales;
+
+b).- Instituciones de crédito ni cualquier otro intermediario financiero, incluso los que formen parte del respectivo grupo; ni
+
+c).- Personas morales mexicanas, salvo las que autorice la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, que se dictarán con vistas a favorecer la capitalización de las sociedades controladoras y siempre que dichas personas morales no participen simultáneamente en el capital de intermediarios financieros, ni éstos en el capital de las personas morales de referencia.
+
+V.- Salvo la excepción señalada en el párrafo siguiente, los intermediarios financieros que formen parte de uno de estos grupos, deberán abstenerse de participar en el capital de otros intermediarios financieros, incluso en el capital de los otros integrantes del grupo.
+
+Las instituciones de seguros y las instituciones de fianzas podrán participar, de conformidad con las disposiciones aplicables, en el capital de otras instituciones de este mismo tipo;
+
+VI.- Las personas que adquieran acciones en contravención de lo dispuesto en las fracciones III a V anteriores deberán venderlas, dentro de los diez días hábiles siguientes a la fecha en que así lo requiera la Secretaría de Hacienda y Crédito Público.
+
+Si transcurrido el plazo citado no se regulariza la inversión, la sociedad emisora procederá a reembolsar las acciones adquiridas en contravención, al cincuenta por ciento de su valor en libros según el último estado financiero aprobado. Las acciones así reembolsadas deberán recolocarse dentro del plazo que para tal efecto determine la propia Secretaría;
+
+VII.- La sociedad controladora y cada uno de los intermediarios financieros participantes deberán suscribir un convenio conforme al cual la primera responderá subsidiaria, solidaria e ilimitadamente por las pérdidas de todos y de cada uno de dichos intermediarios financieros. La referida responsabilidad deberá estar prevista expresamente en los estatutos de la sociedad controladora.
+
+En el convenio citado también deberá señalarse expresamente que cada uno de los intermediarios financieros del grupo no responderán por las pérdidas de la sociedad controladora, ni de las de los demás participantes del grupo;
+
+VIII.- la (sic) escritura constitutiva de la sociedad controladora, los convenios respectivos, así como las modificaciones a dichos documentos, deberán someterse a la previa aprobación de la Secretaría de Hacienda y Crédito Público, a efecto de revisar si los mismos se ajustan a lo señalado en el presente artículo y a las disposiciones generales mencionadas en la fracción X siguiente.
+
+Una vez otorgada dicha aprobación, la escritura constitutiva y, en su caso, sus reformas deberán ser inscritas en el Registro de Comercio, sin que sea preciso mandamiento judicial ni de alguna otra autoridad;
+
+IX.- Las sociedades controladoras previstas en la fracción II anterior, estarán sujetas a la inspección y vigilancia de la Comisión Nacional de Valores; y
+
+X.- La Secretaría de Hacienda y Crédito Público expedirá las reglas generales que regulen, de conformidad con las bases señaladas en el presente artículo, la constitución y operación de grupos financieros no bancarios.
+
+Al ejercer las facultades que le confiere este artículo, la propia Secretaría escuchará la previa opinión del Banco de México y de las Comisiones Nacionales Bancaria, de Seguros y Fianzas y de Valores.
+
+Las instituciones de fianzas también podrán ostentarse como integrantes de consorcios de los mencionados en el artículo 9o. de esta Ley.
 
 (REUBICADO, D.O.F. 29 DE DICIEMBRE DE 1981)
 
 ### CAPITULO II. Operaciones
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 ### CAPITULO III. Activo Computable
 
@@ -319,23 +415,23 @@ En ningún momento podrán participar en forma alguna en el capital de estas soc
 
 ###### ARTICULO 16.
 
-Para los efectos de esta Ley, se considera como capital base de operaciones el activo computable, menos el importe de las reservas de fianzas en vigor y de contingencia, pasivo y las utilidades del ejercicio que la asamblea general de accionistas hubiere acordado repartir como dividendos en efectivo.
+(DEROGADO, D.O.F. 3 DE ENERO DE 1990)
 
-Dicho capital no podrá ser inferior al capital mínimo que señala la fracción II del artículo 15 de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 17.
 
-El margen de operación de una institución de fianzas, será el 15% de su capital base de operaciones.
+Para los efectos de esta Ley, se considera como capital base de operaciones de una institución de fianzas el capital contable más el porcentaje que respecto de la reserva de contingencia determine trimestralmente la Secretaría de Hacienda y Crédito Público; de dicha suma se deducirá el activo que resulte no computable en los términos de esta propia Ley.
 
-La Secretaría de Hacienda y Crédito Público, oyendo a la Comisión Nacional Bancaria y de Seguros, fijará anualmente los márgenes de operación de las instituciones de fianzas, los cuales se publicarán en el Diario Oficial de la Federación.
+El margen de operación de una institución de fianzas será el porcentaje que de su capital base de operaciones, determine trimestralmente la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 18.
 
-El conjunto de responsabilidades que asuma una institución mediante el otorgamiento de fianzas, no excederá del límite que le corresponda calculado de acuerdo con las bases que fije el reglamento de este artículo.
+El total de las primas retenidas por una institución de fianzas en cada ejercicio, no podrá exceder del porcentaje que del capital base de operaciones determine la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general, durante el primer trimestre del año, calculado de conformidad con el estado financiero correspondiente al año anterior.
+
+Por primas retenidas se entiende la suma de las primas brutas y las de reafianzamiento tomado, deducidas las primas devueltas y las de reafianzamiento o reaseguro cedido.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -355,47 +451,45 @@ II.- Cuando la institución otorgue fianzas para garantizar obligaciones a cargo
 
 III.- Cuando se garanticen obligaciones incondicionales a cargo de una misma persona que consistan en la entrega de dinero, y
 
-IV.- En los demás casos que fije la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, mediante disposiciones generales.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+IV.- En los demás casos que fije la Secretaría de Hacienda y Crédito Público, mediante disposiciones generales.
 
 ###### ARTICULO 21.
 
-Cuando la responsabilidad asumida por las instituciones de fianzas no exceda de su margen de operación, podrán otorgar fianzas de fidelidad sin garantía suficiente ni comprobable.
+(DEROGADO, D.O.F. 3 DE ENERO DE 1990)
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 22.
 
-Las fianzas que se otorguen ante las autoridades judiciales del orden penal podrán expedirse sin garantía suficiente ni comprobable. Se exceptúan de esta regla las fianzas que garanticen la reparación del daño y las que se otorguen para que obtengan la libertad provisional los acusados o procesados por delitos intencionales en contra de las personas en su patrimonio; pues en todos estos casos será necesario que la institución obtenga garantía suficiente y comprobable.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+Las fianzas de fidelidad y las que se otorguen ante las autoridades judiciales del orden penal podrán expedirse sin garantía suficiente ni comprobable. Se exceptúan de esta regla las fianzas penales que garanticen la reparación del daño y las que se otorguen para que obtengan la libertad provisional los acusados o procesados por delitos en contra de las personas en su patrimonio; pues en todos estos casos será necesario que la institución obtenga garantía suficiente y comprobable.
 
 ###### ARTICULO 23.
 
-Cuando la institución asuma una misma responsabilidad que no exceda de su margen de operación, determinará libremente las garantías que la respalden, siempre que sean suficientes y comprobables.
+(DEROGADO, D.O.F. 3 DE ENERO DE 1990)
 
-Si la responsabilidad asumida excede del margen de operación, la institución deberá tener alguna de las garantías señaladas en el artículo 24 de esta Ley, previamente aprobada por la Comisión Nacional Bancaria y de Seguros. Sin embargo, las fianzas que no excedan del monto que la Secretaría de Hacienda y Crédito Público oyendo la opinión de la Comisión Nacional Bancaria y de Seguros establezca mediante reglas de carácter general, podrán someterse a la aprobación posterior de dicha Comisión, dentro de un plazo de treinta días contado a partir de la fecha de expedición de la fianza. En este último caso, si la garantía no es aprobada por la citada Comisión, se procederá conforme a lo dispuesto por el artículo 61 de esta Ley, independientemente de las sanciones a que se haga acreedora por realizar operaciones irregulares.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 24.
 
-La institución de fianzas que asuma una responsabilidad que exceda de su margen de operación, necesariamente tendrá que contratar reafianzamiento o reaseguro que cubrirá el excedente del margen de operación, o bien, tener garantizada la recuperación, mediante:
+Las garantías de recuperación que las instituciones de fianzas están obligadas a obtener en los términos de esta Ley, podrán ser:
 
 I.- Prenda, hipoteca o fideicomiso;
 
-II.- Obligación solidaria; o
+II.- Obligación solidaria;
 
-III.- Contrafianza.
+III.- Contrafianza; o
 
-Las garantías a que se refiere este precepto deberán satisfacer los requisitos señalados en el presente Capítulo.
+IV.- Afectación en garantía en los términos previstos por esta Ley.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+Las garantías a que se refiere este precepto deberán satisfacer los requisitos señalados en el presente capítulo.
+
+No se requerirá recabar la garantía de recuperación respectiva, cuando bajo la responsabilidad de la institución de fianzas, el fiado sea ampliamente solvente y tenga suficiente capacidad de pago, debiéndose sujetar la institución de fianzas a las disposiciones de carácter general que para tal efecto emita la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 25.
 
-No se requerirá la garantía de que habla el artículo anterior, cuando se demuestre previamente ante la Comisión Nacional Bancaria y de Seguros que el fiador es ampliamente solvente y tiene suficiente capacidad de pago. En el caso de fianzas que no excedan del monto que se determine conforme a lo dispuesto en el segundo párrafo del artículo 23 de esta Ley, podrá demostrarse con posterioridad ante dicha Comisión, siendo aplicable lo dispuesto en el precepto señalado.
+(DEROGADO, D.O.F. 3 DE ENERO DE 1990)
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -435,87 +529,83 @@ La garantía que consista en hipoteca, deberá constituirse sobre bienes valuado
 
 El fideicomiso sólo se aceptará como garantía cuando se afecten bienes o derechos presentes no sujetos a condición. En lo conducente, se aplicarán al fideicomiso las proporciones y requisitos exigidos por esta Ley para las demás garantías.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 30.
 
 La garantía que consista en obligación solidaria o contrafianza, se aceptará cuando el obligado solidario o el contrafiador comprueben ser propietarios de bienes raíces o establecimiento mercantil, inscritos en el Registro Público de la Propiedad y de Comercio.
 
-Sin embargo, la Comisión Nacional Bancaria y de Seguros, aceptará discrecionalmente al obligado solidario o contrafiador, cuando comprueben ser propietarios de bienes suficientes para garantizar la recuperación de la institución de fianzas.
-
 En todo caso, el monto de la responsabilidad de la institución no excederá del 50% del valor disponible de los bienes.
 
-> <small>(REFORMADO PRIMERO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 31.
 
-El fiado, obligado solidario o contrafiador, expresamente y por escrito, podrán afectar, en garantía del cumplimiento de sus obligaciones con las instituciones de fianzas, bienes inmuebles de su propiedad inscritos en el Registro Público de la Propiedad. El documento en que se haga la afectación, ratificado por el propietario del inmueble ante juez, notario, corredor público, o la Comisión Nacional Bancaria y de Seguros, se asentará, a petición de las instituciones en el Registro Público de la Propiedad.
+El fiado, obligado solidario o contrafiador, expresamente y por escrito, podrán afectar, en garantía del cumplimiento de sus obligaciones con las instituciones de fianzas, bienes inmuebles de su propiedad inscritos en el Registro Público de la Propiedad. El documento en que se haga la afectación, ratificado por el propietario del inmueble ante juez, notario, corredor público, o la Comisión Nacional de Seguros y Fianzas, se asentará, a petición de las instituciones en el Registro Público de la Propiedad.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 La afectación en garantía surtirá efectos contra tercero desde el momento de su asiento en el citado Registro, conforme a lo dispuesto por el artículo 100 de esta Ley, debiendo indicarse así en el propio asiento registral.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 32.
 
-Las instituciones de fianzas no podrán contraer reafianzamiento o reaseguro por las responsabilidades que no excedan de su margen de operación, salvo que se trate de fianzas que puedan expedirse sin garantía suficiente y comprobable, conforme a lo dispuesto por los artículos 21 y 22 de esta Ley. La Comisión Nacional Bancaria y de Seguros podrá autorizar el reafianzamiento de responsabilidades que no excedan el margen de operación, cuando sea necesario o conveniente para la adecuada diversificación de los riesgos, asumido por la institución de que se trate.
+Para la adecuada diversificación de las responsabilidades asumidas por la expedición de fianzas cuyo monto no exceda del importe de su margen de operación, las instituciones de fianzas podrán celebrar contratos de reafianzamiento, coafianzamiento o reaseguro.
 
-Al contratar reafianzamientos deberá darse preferencia a las instituciones mexicanas. Sólo en el caso de que éstas manifiesten por escrito que no pueden o no quieren contratar, podrán reafianzarse con empresas que operen en el extranjero, previa autorización de la Secretaría de Hacienda y Crédito Público.
-
-La responsabilidad que una institución asuma por reafianzamiento no excederá, en cada caso, de su margen de operación. Sin embargo, en los reafianzamientos a que se refiere el artículo 34 de esta Ley, el reafianzador podrá asumir responsabilidad hasta por su margen de operación más el importe de los valores y depósitos a que se refiere la fracción III del artículo 40 de esta misma Ley, afectos a su reserva de contingencia.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 33.
 
-El coafianzamiento únicamente puede contratarse por instituciones mexicanas de fianzas. Cuando una responsabilidad exceda del margen de operación de una institución, ésta elegirá libremente entre reafianzar u ofrecer el coafianzamiento respectivo, haciéndolo siempre con instituciones mexicanas. Si la institución acredita que ha seguido estos dos procedimientos, sin haber logrado cubrir la totalidad de la responsabilidad, la Secretaría de Hacienda y Crédito Público la autorizará a reafianzar o a reasegurar en el extranjero.
+Cuando la responsabilidad asumida por una institución de fianzas exceda de su margen de operación, necesariamente deberá distribuir entre otras instituciones, la cantidad que exceda de dicho margen pudiendo elegir entre reafianzar o reasegurar, u ofrecer el coafianzamiento respectivo.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 34.
 
-La institución que, con alguna de las garantías indicadas en las fracciones I, II y III del artículo 24 de esta Ley, otorgue una fianza por cantidad superior a la suma de su margen de operación, más el importe de los valores y depósitos a que se refiere la fracción III del artículo 40 de esta Ley afectos a su reserva de contingencia, necesariamente deberá contratar reafianzamientos por las responsabilidades que excedan de dicha suma. No habrá obligación de reafianzar cuando la garantía consista en prenda de dinero o valores de fácil e inmediata realización.
+Las operaciones de reafianzamiento, coafianzamiento o reaseguro a que se refiere esta Ley, podrán contratarse con entidades mexicanas o del extranjero.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+Para que una institución de fianzas celebre contrato de reafianzamiento o reaseguro con alguna entidad del exterior, facultada en su país para realizar este tipo de operaciones, será necesario que esta última se encuentre inscrita en el Registro General que para tal efecto, llevará la Secretaría de Hacienda y Crédito Público, de acuerdo con las reglas de carácter general que dicte la propia Secretaría.
+
+La inscripción en dicho Registro, la otorgará o negará discrecionalmente la Secretaría de Hacienda y Crédito Público, a las instituciones del extranjero que, a su juicio, reúnan o no los requisitos de solvencia y estabilidad para efectuar las operaciones a que se refieren los artículos 32 y 33 de esta Ley.
+
+Las interesadas estarán obligadas a presentar a la mencionada Secretaría, los informes que ésta les solicite, dentro del plazo que para esos efectos les conceda.
+
+La inscripción en el Registro podrá ser cancelada discrecionalmente por la Secretaría de Hacienda y Crédito Público, previa audiencia de la interesada y de las cedentes, cuando a su juicio aquéllas dejen de satisfacer o de cumplir los requisitos y obligaciones establecidas por las disposiciones legales y administrativas aplicables.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 35.
 
-Para que una institución mexicana contrate reafianzamiento o reaseguro con instituciones que operen en el extranjero, se requerirá autorización previa de la Secretaría de Hacienda y Crédito Público, que se otorgará discrecionalmente cuando se compruebe, con certificado que expidan las autoridades del país en que radique la empresa extranjera, que está legalmente autorizada para operar y tiene suficiente capacidad de pago. La institución mexicana estará obligada a presentar nuevo certificado cada vez que lo solicite la mencionada Secretaría.
+Al contratar reafianzamiento, reaseguro o coafianzamiento, las instituciones de fianzas, antes de acudir a entidades del exterior, deberán dar preferencia a las demás instituciones de fianzas del país o a las aseguradoras o reaseguradoras mexicanas, en ese orden, a excepción de contratos automáticos celebrados con entidades del extranjero, previamente inscritas en el Registro General que sobre este tipo de entidades lleve la Secretaría de Hacienda y Crédito Público, sin espacio co,conforme (sic) a lo dispuesto en el artículo 34 de esta Ley.
 
-Las autorizaciones a que se refiere este precepto podrán ser revocadas por la Secretaría de Hacienda y Crédito Público, previa audiencia de la institución interesada, cuando las empresas extranjeras dejen de satisfacer los requisitos que señala este artículo.
+La Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general, podrá establecer limitaciones al reafianzamiento tomado, en función de las primas netas derivadas de las pólizas expedidas directamente por las instituciones, no siendo aplicable esta disposición a aquellas compañías que se hubieren constituido con el único objeto de participar en reafianzamiento.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 36.
 
-Cuando en los términos de esta Ley, se contrate reafianzamiento o reaseguro con motivo de fianzas que no excedan el margen de operación con empresas extranjeras, deberá comprobarse en los plazos que a cada institución fije la Secretaría de Hacienda y Crédito Público, los cuales no serán inferiores a dos años ni superiores a cinco años, que el volumen de primas recibidas de empresas extranjeras guarde reciprocidad con el de las pagadas a ellas, conforme a los criterios de carácter general que fije la propia Secretaría, tomando en cuenta las condiciones del mercado.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+Cuando en los términos de esta Ley se contraten reafianzamientos o reaseguros automáticos con entidades extranjeras, las instituciones de fianzas deberán proporcionar la información que al efecto solicite la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 37.
 
-La institución que al otorgar una fianza contrate reafianzamiento, deberá tener las garantías a que se refiere el artículo 23 de esta Ley, por el importe de la fianza.
+(DEROGADO, D.O.F. 3 DE ENERO DE 1990)
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 38.
 
-Las instituciones de fianzas sólo podrán expedir fianzas por las cuales se obliguen a pagar como fiadoras en moneda extranjera, conforme a las reglas de carácter general que al efecto dicte la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, las que determinarán el límite máximo en relación al margen de operación y al conjunto de responsabilidades asumidas por una institución.
+Las instituciones de fianzas sólo podrán expedir fianzas por las cuales se obliguen a pagar como fiadoras en moneda extranjera, conforme a las reglas de carácter general que al efecto dicte la Secretaría de Hacienda y Crédito Público, oyendo previamente la opinión del Banco de México, las que determinarán el límite máximo en relación al margen de operación y al conjunto de responsabilidades asumidas por una institución.
 
 Las reglas de que se trata sólo podrán autorizar este tipo de operaciones, cuando se relacionen con el cumplimiento de obligaciones exigibles fuera del país, o que por la naturaleza de dichas obligaciones se justifique que su pago se convenga en moneda extranjera.
 
-Las garantías que respalden este tipo de fianzas, deberán constituirse en forma tal que permita recuperar el monto de la responsabilidad asumida por la institución en la misma moneda.
-
 La propia Secretaría de Hacienda y Crédito Público, podrá autorizar que las inversiones relacionadas con operaciones en moneda extranjera, se constituyan en esta clase de moneda.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 39.
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, mediante disposiciones de carácter general, determinará los tipos de fianzas que por su naturaleza deban considerarse como peligrosas o con características especiales, señalando las garantías que deban tener, la proporción mínima entre dichas garantías y la responsabilidad de la institución de fianzas, las primas, documentación y demás condiciones de colocación, así como, en su caso, la contratación de reafianzamiento o reaseguro.
-
-Estas disposiciones regirán aún tratándose de fianzas que no excedan del margen de operación.
+La Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general determinará los tipos de fianzas que por su naturaleza deban considerarse como peligrosas o con características especiales, señalando las garantías que deban tener, la proporción mínima entre dichas garantías y la responsabilidad de la institución de fianzas, las primas, documentación y demás condiciones de colocación, así como, en su caso, la contratación de reafianzamiento, coafianzamiento o reaseguro, tanto nacional como extranjero.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -531,7 +621,9 @@ I.- Existencia en caja, representada por moneda de curso legal y divisas extranj
 
 II.- Depósitos, préstamos y créditos en instituciones de crédito;
 
-III.- Valores y depósitos a que se refiere la fracción I del artículo 59 de esta Ley;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+III.- Valores emitidos o garantizados por el Gobierno Federal, instituciones de crédito, o bien, depósitos con interés en la institución u organismo del sector público que determine la Secretaría de Hacienda y Crédito Público.
 
 IV.- Valores aprobados como objeto de inversión por la Comisión Nacional de Valores;
 
@@ -561,69 +653,55 @@ XV.- Los que autorice y regule la Secretaría de Hacienda y Crédito Público po
 
 (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1981)
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 41.
 
 Los bienes considerados como activo computable en los términos del artículo 40 de esta Ley, se sujetarán a las siguientes reglas:
 
-I.- La inversión en valores de los señalados en la fracción IV, del artículo 40 de esta Ley, estará limitada al 30% del total del activo de la institución, siempre que no exceda del 25% del capital pagado de la emisora.
+I.- La inversión en valores sólo podrá realizarse en aquellos que sean aprobados por la Comisión Nacional de Valores para este efecto y estará limitada al 30% del total del activo de la institución, siempre que no exceda del 25% del capital pagado de la emisora.
 
-La inversión realizada en valores de los señalados en el párrafo anterior, emitidos o garantizados por una misma persona, no excederá del 10% del total del activo de la institución de fianzas;
+La inversión realizada en valores de los señalados en el párrafo anterior, emitidos o garantizados por una misma persona, no excederá del 15% del total del activo de la institución de fianzas, con la salvedad de los valores emitidos por el Gobierno Federal;
 
-II.- La inversión en acciones y los requisitos que deban satisfacer las sociedades a que se refiere la fracción V, del artículo 40 de esta Ley, se sujetará a las reglas generales que dicte la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros;
+II.- Las inversiones en acciones y los requisitos que deban satisfacer las sociedades a que se refiere la fracción V, del artículo 40 de esta Ley, se sujetarán a las reglas generales que dicte la Secretaría de Hacienda y Crédito Público;
 
-III.- Las viviendas de interés social e inmuebles urbanos de productos regulares en que inviertan sus recursos las instituciones de fianzas, deberán reunir las características que señale la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, mediante reglas de carácter general.
+III.- Las viviendas e inmuebles urbanos de productos regulares en que inviertan sus recursos las instituciones de fianzas, deberán reunir las características que señale la Comisión Nacional de Seguros y Fianzas, mediante reglas de carácter general.
 
-Las cantidades que inviertan las instituciones de fianzas en la construcción o adquisición de un solo inmueble, no excederán del limite que señale discrecionalmente la Comisión Nacional Bancaria y de Seguros.
+Las cantidades que inviertan las instituciones de fianzas en la construcción o adquisición de un solo inmueble, no excederán del límite que señale discrecionalmente la mencionada Comisión.
 
 Los bienes inmuebles propiedad de las instituciones de fianzas deberán estar asegurados por su valor destructible con las coberturas correspondientes. Sin el seguro a que se refiere esta fracción el bien respectivo no se considerará como activo computable de la institución de fianzas;
 
-IV.- Las operaciones a que se refieren las fracciones VIII y IX del artículo 40 de esta Ley, que realicen las instituciones de fianzas para la inversión de sus recursos, se sujetarán, en su caso, a los límites máximos que señale la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, mediante reglas de carácter general, respecto al plazo de tales operaciones y a las tasas de interés y demás cargos que las instituciones puedan aplicar por los financiamientos que otorguen;
+IV.- Las operaciones a que se refieren las fracciones VIII y IX del artículo 40 de esta Ley, se sujetarán a los límites que señale la Secretaría de Hacienda y Crédito Público, respecto al plazo de tales operaciones y a las tasas de interés y demás cargos que las instituciones puedan aplicar por los financiamientos que otorguen;
 
-V.- Cuando los créditos que menciona la fracción IX, del artículo 40 provengan de operaciones de inversión realizada por la institución de fianzas, se observará lo siguiente:
+V.- Las operaciones con garantía prendaria de títulos o valores, sólo podrán otorgarse respecto de aquellos que puedan adquirir las instituciones y su importe no excederá del 80% del valor de la prenda, estimado de acuerdo con lo dispuesto por el artículo 62 de esta Ley;
 
-a).- Las operaciones con garantía prendaria sólo podrán realizarse sobre los bienes señalados en las fracciones II, III y IV del artículo 40 de esta Ley. El importe del crédito no excederá del 80% del valor de la prenda, determinado de acuerdo con lo dispuesto por el artículo 62 de esta Ley;
+VI.- Los créditos destinados a la adquisición, construcción, reparación y mejoras de bienes inmuebles, que tengan garantía hipotecaria o fiduciaria sobre esos bienes u otros bienes inmuebles o inmovilizados, se ajustarán a los términos siguientes:
 
-b).- Los créditos destinados a la adquisición construcción, reparación y mejoras de bienes inmuebles, que tengan garantía hipotecaria o fiduciaria sobre esos bienes u otros bienes inmuebles o inmovilizados, se ajustarán a los términos siguientes:
+1.- Su importe no será mayor a la cantidad que resulte de aplicar, al valor total de los inmuebles dados en garantía, el porcentaje que, mediante disposiciones de carácter general fije la Secretaría de Hacienda y Crédito Público.
 
-1.- Su importe no será mayor a la cantidad que resulte de aplicar, al valor total de los inmuebles dados en garantía, el porcentaje que, mediante disposiciones de carácter general fije la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros:
-
-2.- La institución acreedora vigilará que los fondos se apliquen al destino para el que fueron otorgados de acuerdo con lo estipulado en el contrato respectivo;
+2.- La institución acreedora vigilará que los fondos se apliquen al destino para el que fueron otorgados de acuerdo con lo estipulado en el contrato respectivo.
 
 3.- El costo de las construcciones y el valor de las obras o de los bienes, serán fijados por peritos que nombrará la institución acreedora; y
 
 4.- Las construcciones y los bienes dados en garantía deberán estar asegurados para cubrir cuando menos su valor destructible o el saldo insoluto del crédito;
 
-VI.- La suma de los bienes y créditos a que se refieren las fracciones V, VI y IX, del artículo 40 de esta Ley así como de las inversiones en certificados de participación inmobiliaria, y derechos fiduciarios, que no sean de garantía sobre inmuebles, no deberá exceder del 50% del valor total del activo de las instituciones de fianzas;
+VII.- La suma de los bienes y créditos a que se refieren las fracciones V, VI, IX y XII, del artículo 40 de esta Ley, así como de las inversiones en certificados de participación inmobiliaria y derechos fiduciarios, que no sean de garantía sobre inmuebles, no deberá exceder del 60% del valor total del activo de las instituciones de fianzas;
 
-VII.- Cuando la institución de fianzas tenga crédito con garantía de prenda, hipoteca o fideicomiso, y ellos no sean consecuencia de operaciones de inversión, sólo se considerarán como activos de los comprendidos en la fracción IX del artículo 40 de esta Ley, hasta por los mismos porcentajes señalados en la fracción V de este artículo. La Secretaría de Hacienda y Crédito Público podrá fijar un porcentaje diverso, cuando los bienes que constituyan la garantía sean de otra naturaleza;
+VIII.- Cuando la institución de fianzas tenga créditos con garantía de prenda, hipoteca o fideicomiso, y ellos no sean consecuencia de operaciones de inversión, sólo se considerarán como activos de los comprendidos en la fracción IX del artículo 40 de esta Ley, hasta por el porcentaje señalado en la fracción VII de este artículo. La Secretaría de Hacienda y Crédito Público podrá fijar un porcentaje diverso, cuando los bienes que constituyan la garantía sean de otra naturaleza;
 
-VIII.- Los gastos de establecimiento y organización no excederán del 25% del capital pagado;
+IX.- Los créditos y los gastos anticipados a que se refieren las fracciones X y XIII, del artículo 40 de esta Ley, sólo se computarán en el activo, en los siguientes casos:
 
-IX.- Los frutos civiles de inversiones y créditos sólo se computarán como activo, cuando no tengan más de noventa días de vencidos;
+a).- El importe de los gastos de establecimiento y organización, así como la suma de los saldos a cargo de agentes e intermediarios, documentos por cobrar, deudores por responsabilidades de fianzas y deudores diversos, no excederá de los límites que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
 
-X.- Los créditos a que se refiere la fracción X, del artículo 40 de esta Ley, sólo se computarán en el activo, en los siguientes casos:
+b).- Las primas pendientes de cobro, mientras no haya transcurrido un término no mayor de treinta días, que determine la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general, contado a partir de la expedición de la fianza o de la fecha en que venzan las sucesivas anualidades de primas;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+X.- Los bienes que las instituciones de fianzas adquieran con motivo de sus créditos y que no puedan conservar permanentemente por no ser de los señalados en el artículo 40 de esta Ley, sólo se computarán en el activo durante los plazos que para su realización o amortización señale la Comisión Nacional de Seguros y Fianzas.
 
-a) Las primas pendientes de cobro, mientras no haya transcurrido el término no mayor de treinta días, que determine la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general, contado a partir de la expedición de la fianza o de la fecha en que venzan las sucesivas anualidades de primas;
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-b) Los saldos deudores de agentes y oficinas de servicio, siempre que no tengan una antigüedad mayor a la señalada en el inciso anterior;
-
-c).- Los saldos a favor de la institución, a cargo de empresas extranjeras, consecuencia de operaciones de reafianzamiento, siempre que la empresa extranjera satisfaga los requisitos exigidos por el artículo 35 de esta Ley. Estos saldos, que no sean inversiones de las reservas constituidas en los términos del artículo 50 de esta Ley, no deberán tener antigüedad mayor de un año, y, en conjunto, no excederán del 15% del activo de la institución, y
-
-d).- Los demás créditos de la institución, siempre que exista posibilidad práctica de cobro, y que en conjunto no excedan del 10% del total del activo de la institución. El excedente de este porcentaje se considerará como activo no computable y la Comisión Nacional Bancaria y de Seguros, podrá autorizar un porcentaje mayor o que no se incluyan dentro del mismo, cuando se justifique por la naturaleza de los créditos y sus garantías, y
-
-XI.- Los bienes que las instituciones de fianzas adquieran con motivo de sus créditos y que no puedan conservar permanentemente por no ser de los señalados en las fracciones I a XIII y XV, del artículo 40 de esta Ley, sólo se computarán en el activo durante los plazos que para su realización o amortización señale la Comisión Nacional Bancaria y de Seguros.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 42.
 
-El importe de las inversiones de las instituciones de fianzas en acciones de instituciones de seguros, de fianzas y de organizaciones auxiliares del crédito y de casas de bolsa, no se considerarán como activo computable.
+Las inversiones con cargo al capital pagado y reservas de capital de las instituciones de fianzas, en acciones de otras instituciones de fianzas o de instituciones de seguros, estará limitada al 20% de la suma del capital pagado y reservas de capital de la inversora y sólo podrá hacerse con los excedentes de esta suma sobre su capital mínimo legal. El importe de estas inversiones no será considerado como integrante del capital base de operaciones.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -641,29 +719,21 @@ c).- Para transferir proporciones importantes del capital de empresas;
 
 d).- Para otros propósitos a los cuales no se adecúen los mecanismos normales del mercado.
 
-La Secretaría de Hacienda y Crédito Público, para resolver sobre las excepciones previstas en este artículo, oirá al Banco de México, S. A., a la Comisión Nacional Bancaria y de Seguros o a la Comisión Nacional de Valores, según que la materia corresponda al ámbito de alguna o algunas de las entidades citadas.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 44.
 
-Las instituciones se sujetarán a las disposiciones de la Comisión Nacional Bancaria y de Seguros para adquirir, enajenar o prometer en venta los inmuebles, certificados de participación inmobiliaria, y derechos fiduciarios, que no sean de garantía, sobre inmuebles, así como para arrendar inmuebles cuando provengan de operaciones de inversión.
+Las instituciones se sujetarán a las disposiciones de la Comisión Nacional de Seguros y Fianzas para adquirir, enajenar o prometer en venta los inmuebles, certificados de participación inmobiliaria, y derechos fiduciarios, que no sean de garantía, sobre inmuebles, así como para arrendar inmuebles cuando provengan de operaciones de inversión.
 
-Los notarios deberán exigir que se incluyan las limitaciones que conforme al párrafo anterior dicte la Comisión Nacional Bancaria y de Seguros, como cláusula de las escrituras que ante ellos se otorguen, y de ella se tomará nota en el Registro Público de la Propiedad y de Comercio.
+Los notarios deberán exigir que se incluyan las limitaciones que conforme al párrafo anterior dicte la Comisión Nacional de Seguros y Fianzas, como cláusula de las escrituras que ante ellos se otorguen, y de ella se tomará nota en el Registro Público de la Propiedad y de Comercio.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 45.
 
-La Secretaría de Hacienda y Crédito Público estará facultada para dictar, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, reglas de carácter general respecto a las actividades de las instituciones de fianzas y sobre las inversiones a que se refieren las fracciones II a XIII del artículo 40 de esta Ley, con vistas a propiciar la consecución de cualesquiera de los objetivos siguientes:
-
-a).- El oportuno cumplimiento de las obligaciones contraídas por las instituciones;
-
-b).- La seguridad de las operaciones;
-
-c).- La adecuada liquidez de las instituciones, o
-
-d).- El apoyo financiero de objetivos de interés público y social de la política económica del Gobierno Federal o los Gobiernos locales, así como el uso de los recursos del sector afianzador en actividades prioritarias y de acuerdo a los objetivos que le corresponden dentro del Sistema Financiero.
+Las instituciones de fianzas invertirán los recursos que manejen en términos que les permitan mantener condiciones adecuadas de seguridad y con la liquidez apropiada al destino previsto para cada tipo de recursos. A tal efecto, la Secretaría de Hacienda y Crédito Público determinará las clasificaciones que las propias instituciones deberán hacer de sus activos, en función de la seguridad y liquidez de los mismos, determinando, asimismo, los porcentajes máximos que podrán estar representados por los distintos grupos de activos resultantes de las referidas clasificaciones, para lo cual se tomará en cuenta la situación que al respecto guarden en general las instituciones a que se apliquen y la composición y estabilidad de sus recursos, señalándoles plazos para ajustarse a las modificaciones que se hagan a dichas clasificaciones o porcentajes, en caso de ser necesarias.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -683,13 +753,13 @@ La reserva de fianzas en vigor se formará con el 50% de la prima bruta correspo
 
 Las primas por períodos que excedan de un año, que la institución cobre por anticipado, incrementarán por su importe total la reserva de fianzas en vigor y serán aplicadas al iniciarse cada uno de los períodos anuales de vigencia.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 48.
 
-La reserva de contingencias se constituirá con el 10% de las primas netas. Para los efectos de este precepto se entiende por prima neta la cobrada y aplicada por la institución, deducido el importe de las devoluciones y comisiones a agentes autorizados y, en su caso, a reafianzadores, reaseguradores o coafianzadores.
+La reserva de contingencia se constituirá con el 15% de la cantidad que resulte de restar a las primas retenidas por la institución, el importe de las comisiones pagadas a agentes autorizados y, en su caso, a reafianzadoras, reaseguradoras o coafianzadoras.
 
-Esta reserva será acumulativa y sólo podrá dejar de incrementarse con el total o parte de las cantidades a que se refiere el párrafo anterior, cuando la Comisión Nacional Bancaria y de Seguros lo autorice temporalemente (sic), siempre que, a su juicio, la institución tenga una sana situación financiera.
+Esta reserva será acumulativa y sólo podrá dejar de incrementarse con el total o parte de las cantidades a que se refiere el párrafo anterior, cuando a juicio de la Comisión Nacional de Seguros y Fianzas, el monto de la misma reserva sea suficiente para cubrir las posibles pérdidas por el pago de responsabilidades y siempre que la institución presente una sana situación técnica y financiera.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -697,11 +767,11 @@ Esta reserva será acumulativa y sólo podrá dejar de incrementarse con el tota
 
 Las instituciones mexicanas de fianzas que entre sí contraten reafianzamientos, constituirán las reservas de fianzas en vigor y contingencia, sólo por la parte de la prima que a cada una corresponda.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 50.
 
-Las instituciones mexicanas de fianzas que se reafiancen o se reaseguren en el extranjero deberán constituir e invertir totalmente las reservas de fianzas en vigor y de contingencia.
+Las instituciones de fianzas que se reafiancen o se reaseguren, con instituciones del país o del extranjero, deberán constituir e invertir totalmente las reservas de fianzas en vigor y de contingencia.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -709,95 +779,93 @@ Las instituciones mexicanas de fianzas que se reafiancen o se reaseguren en el e
 
 Las instituciones mexicanas de fianzas que reafiancen a empresas extranjeras, estarán obligadas a constituir las reservas de fianzas en vigor y de contingencia, en proporción a las primas recibidas por el reafianzamiento, aún cuando las empresas extranjeras hayan constituido reserva. En este último caso, la parte de la prima retenida por la empresa extranjera, se considerará inversión de las reservas constituidas por la institución mexicana por el reafianzamiento tomado.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
 ###### ARTICULO 52.
 
-La reserva de fianzas en vigor se calculará para efectos de su inversión, conforme a lo dispuesto en el artículo 56 de esta Ley.
+(DEROGADO, D.O.F. 3 DE ENERO DE 1990)
 
-La Secretaría de Hacienda y Crédito Público podrá ordenar en cualquier tiempo que se haga un nuevo cálculo de la reserva de fianzas en vigor, y la institución estará obligada a realizar las inversiones que correspondan, dentro del plazo que fije la propia Secretaría, no mayor a treinta días.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 53.
 
-La reserva de fianzas en vigor sólo podrá invertirse en los bienes indicados en las fracciones I a VI del artículo 40 de esta Ley, así como en los títulos y créditos señalados en las fracciones VIII y IX del artículo citado, y en las acciones a que se refiere la fracción VII del mismo artículo, salvo que la Secretaría de Hacienda y Crédito Público las señale expresamente como una inversión con cargo al capital pagado y reservas de capital, considerando la naturaleza de las operaciones que realicen las empresas de que se trata.
+Las reservas de fianzas en vigor y de contingencia, así como el capital contable, se invertirán en los bienes y valores que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, en función de lo que dispone el artículo 45 de esta Ley.
 
-Estas inversiones deberán guardar, en relación con el monto de dicha reserva, las mismas proporciones en que los bienes indicados en el artículo 40 deben estar respecto al monto total del activo.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+Estas inversiones deberán guardar, en relación con el monto de las reservas de fianzas en vigor y de contingencia y el capital contable, las mismas proporciones en que los bienes indicados en el artículo 40 deben estar respecto al monto total del activo de las instituciones, conforme a lo mencionado en el artículo 41 de la misma Ley.
 
 ###### ARTICULO 54.
 
-Las instituciones de fianzas deberán depositar el efectivo, títulos o valores que sean inversión de la reserva de fianzas en vigor, en la forma, términos e institución u organismo del sector público que al efecto determine la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, mediante reglas de carácter general.
+(DEROGADO, D.O.F. 3 DE ENERO DE 1990)
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 55.
 
 De las inversiones de la reserva de fianzas en vigor, sólo podrá disponerse en los siguientes casos:
 
-I.- Cuando se trate de sustituir inversiones por otras que cuando menos sean equivalentes;
+I.- Cuando existan sobrantes de inversión en relación a la reserva;
 
-II.- Cuando existan sobrantes de inversión en relación a la reserva;
+II.- En los de liquidación judicial o administrativa, previa autorización de la Secretaría de Hacienda y Crédito Público;
 
-III.- En los de liquidación judicial o administrativa;
+III.- En aquéllos en que la Secretaría de Hacienda y Crédito Público deba cumplir mandamientos de ejecución en contra de la institución de fianzas, a menos que dicha Secretaría decida dejar sin efectos la autorización para operar;
 
-IV.- En aquellos en que la Secretaría de Hacienda y Crédito Público deba cumplir mandamientos de ejecución en contra de la institución de fianzas, a menos que dicha Secretaría decida revocar a la institución la concesión para operar, o
+IV.- En el que establece el artículo 95, regla IV, de esta Ley, o
 
-V.- En el que establece el artículo 95, regla IV de esta Ley.
+V.- Para la ejecución de los laudos o sentencias que condenen a las instituciones, en los términos de esta Ley.
 
-En los casos previstos por las fracciones I y II de este artículo, se podrá disponer de las inversiones previa autorización de la Comisión Nacional Bancaria y de Seguros, y en lo que respecta a los de las fracciones III, IV y V, previa autorización u orden de la Secretaría de Hacienda y Crédito Público.
+En su caso, la inversión de la reserva se reconstituirá con el importe neto de las recuperaciones; entretanto se obtienen éstas, los bienes o derechos que con ese motivo tenga o adquiera la institución, se considerarán como inversión de la reserva durante el plazo que para tal efecto determine la Comisión Nacional de Seguros y Fianzas.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 56.
 
 Las instituciones de fianzas deberán constituir las reservas de fianzas en vigor y de contingencia para efectos de su inversión, en los términos siguientes:
 
-> <small>(F. DE E., D.O.F. 15 DE FEBRERO DE 1985)</small>
+I.- El monto de las reservas determinado conforme a esta Ley, se incrementará durante el ejercicio en la forma y con la periodicidad que para el efecto señale la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general, tomando en cuenta la conveniencia de propiciar que las instituciones mantengan las reservas en proporción a las operaciones realizadas, de manera que durante todo el ejercicio cuenten con los recursos necesarios para garantizar sus responsabilidades y con vista a que su monto se incremente en forma gradual y oportuna; y
 
-I.- El monto de las reservas determinado conforme a los artículo 47 y 48 de esta Ley, se incrementará durante el ejercicio en la forma y con la periodicidad que para el efecto señale la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, mediante reglas de carácter general, tomando en cuenta la conveniencia de propiciar que las instituciones mantengan las reservas en proporción a las operaciones realizadas, de manera que durante todo el ejercicio cuenten con los recursos necesarios para garantizar sus responsabilidades y con vista a que su monto se incremente en forma gradual y oportuna; y
+II.- La inversión de las reservas y de los incrementos periódicos deberán ajustarse a las proporciones y demás requisitos que exige esta Ley, y efectuarse en el término que al efecto señale la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
 
-II. La inversión de las reservas y de los incrementos periódicos deberán ajustarse a las proporciones y demás requisitos que exige esta Ley, y efectuarse en el término que al efecto señale la Secretaría de hacienda y Crédito Público mediante reglas de carácter general, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros.
+La Secretaría de Hacienda y Crédito Público podrá ordenar en cualquier tiempo que se haga un nuevo cálculo de la reserva de fianzas en vigor, y la institución estará obligada a realizar las inversiones que correspondan, dentro del plazo que fije la propia Secretaría, no mayor a treinta días.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 57.
 
-Los valores en que se invierta la reserva de contingencia, deberán depositarse en la institución u organismo del sector público que señale la Secretaría de Hacienda y Crédito Público y de ellos sólo se dispondrá en los casos siguientes:
+De las inversiones de la reserva de contingencia y, en su caso, de la propia reserva, sólo podrá disponerse en los siguientes supuestos:
 
 I.- En los indicados en el artículo 55 de esta Ley; o
 
-II.- Para pagar responsabilidades por fianzas otorgadas, conforme a las bases y requisitos que determine la Comisión Nacional Bancaria y de Seguros.
+II.- Cuando una institución vaya a realizar pagos por reclamaciones de fianzas otorgadas y careciendo de activos líquidos se encuentre con que las garantías de recuperación no sean líquidas o suficientes para obtener la recuperación, previa autorización de la Comisión Nacional de Seguros y Fianzas.
 
-La misma Comisión determinará las bases conforme a las cuales deban reponerse las cantidades dispuestas, tomando en cuenta la forma y plazo de reconstituir la inversión de la reserva, así como, en su caso, las correspondientes garantías de recuperación.
+Las disposiciones de valores y afectaciones a que se refiere el párrafo que antecede, únicamente podrán efectuarse hasta por el 50% de la reserva de contingencia y siempre que los supuestos previstos se den en un mismo ejercicio.
 
-Si la inversión de la reserva se reconstituye con el importe neto de las recuperaciones, entretanto se obtienen éstas, los bienes o derechos que con este motivo tenga o adquiera la institución, se considerarán como inversiones de la reserva.
+La misma Comisión determinará las bases conforme a las cuales deban reconstituirse la reserva y reponerse las cantidades dispuestas, tomando en cuenta la forma y plazo para cubrir la inversión de la reserva, así como, en su caso, las correspondientes garantías de recuperación.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+La inversión de la reserva se reconstituirá con el importe neto de las recuperaciones; entretanto se obtienen éstas, los bienes o derechos que con este motivo tenga o adquiera la institución, se considerarán como inversión de la reserva.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 58.
 
-Los bienes o derechos que la institución tenga o adquiera como consecuencia de pagos hechos con valores afectos a la reserva de contingencia, se computarán en el activo aún cuando excedan de los porcentajes limitativos que señala esta Ley. Estos bienes o derechos se estimarán conforme a lo dispuesto en el artículo 62 de esta Ley.
+Los bienes o derechos que la institución tenga o adquiera como consecuencia de pagos hechos con valores afectos a las reservas de fianzas en vigor y de contingencia, se computarán en el activo aun cuando excedan de los porcentajes limitativos que señala esta Ley. Estos bienes o derechos se estimarán conforme a lo dispuesto en el artículo 62 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 59.
 
-Las instituciones de fianzas deberán invertir su capital pagado, reservas de capital, reserva de fianzas en vigor y reserva de contingencia, de acuerdo con las bases siguientes:
+Las instituciones de fianzas deberán invertir las reservas de fianzas en vigor y de contingencia, así como su capital contable, de acuerdo con las bases siguientes:
 
-I.- Por lo menos el 25% de su capital pagado, reservas de capital y reserva de fianzas en vigor, así como el 55% de la reserva de contingencia, en valores emitidos o garantizados por el Gobierno Federal, por el del Distrito Federal o las entidades federativas, las instituciones nacionales de crédito, o bien, en depósitos con interés en la institución u organismo del sector público que determine la Secretaría de Hacienda y Crédito Público.
+I.- Hasta el 30% de las reservas de fianzas en vigor y de contingencia en depósitos con interés en la institución u organismo del sector público que determine la Secretaría de Hacienda y Crédito Público, o en los bienes o valores y otros renglones de activos que señale esta Dependencia.
 
-La propia Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, señalará mediante reglas de carácter general los valores, así como la tasa de interés que deba abonarse sobre los depósitos a que se refiere el párrafo anterior;
+La propia Secretaría de Hacienda y Crédito Público, señalará mediante reglas de carácter general las características de dichos depósitos, plazo y tasa de interés que devengarán a favor de las instituciones depositantes y el destino a las inversiones que con los mismos deberá efectuar el depositario;
 
-II.- Por lo menos el 10% de su capital pagado, reservas de capital y reserva de fianzas en vigor, en los valores y depósitos a que se refiere la fracción anterior, en viviendas de interés social o en préstamos hipotecarios destinados a la construcción de tales viviendas de interés social, conforme a las reglas generales que al efecto dicte la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros;
+II.- El remanente de las citadas reservas podrá mantenerse en los activos y con las limitaciones establecidas por esta Ley, o por disposiciones de carácter general expedidas conforme a la misma, por la Secretaría de Hacienda y Crédito Público;
 
-III.- El remanente del capital pagado, reservas de capital y reserva de fianzas en vigor, podrá mantenerse en los activos y con las limitaciones establecidas por esta Ley o por las disposiciones de carácter general expedidas conforme a la misma, y
+III.- El capital contable, podrá mantenerse en los activos y con las limitaciones establecidas por esta Ley, o por disposiciones de carácter general expedidas conforme a la misma, por la Secretaría de Hacienda y Crédito Público;
 
-IV.- El remanente de la reserva de contingencia deberá mantenerse en los activos señalados por las fracciones I y II del artículo 40 de esta Ley o en valores de renta fija previamente aprobados para ese efecto por la Comisión Nacional de Valores.
+IV.- Cuando las instituciones de fianzas presenten faltantes en depósitos o en los diversos renglones de activos que deban mantener conforme al presente artículo, la Secretaría de Hacienda y Crédito Público determinará el pago de intereses penales aplicando, al total de los faltantes, una tasa no mayor al ciento cincuenta por ciento de la estimación del costo porcentual promedio de captación de las instituciones de crédito del país, para el mes en que se causen los citados intereses, que el Banco de México publique en el Diario Oficial de la Federación.
 
-La Secretaría de Hacienda y Crédito Público ordenará a la institución u organismo del sector público que reciba los depósitos a que se refiere la fracción I de este artículo, las inversiones que con los mismos deberá efectuar.
+La propia Secretaría podrá determinar la disminución de los intereses penales, en caso de que los faltantes se originen por situaciones críticas de las instituciones, o por errores u omisiones de carácter administrativo en los que a su criterio no haya mediado mala fe.
+
+La citada Secretaría podrá ordenar, a la institución u organismo del sector público que corresponda, la reducción de los rendimientos de los depósitos señalados en la base I, o bien, que separe valores de la institución infractora, suficientes para cubrir los intereses penales respectivos, ya sea con el importe de la redención o de su remate en la bolsa de valores.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -823,27 +891,33 @@ VI.- Emitir acciones preferentes o de voto limitado;
 
 VII.- Afianzar a sus funcionarios y administradores, o aceptarlos como contrafiadores u obligados solidarios, así como otorgar pólizas en las que los mismos aparezcan como beneficiarios;
 
-VIII.- Entrar en sociedades de cualquier clase, excepto en los casos de inversión en acciones permitidas por esta Ley, y también les está especialmente prohibido entrar en sociedades de responsabilidad ilimitada y explotar por su cuenta minas, plantas metalúrgicas, establecimientos mercantiles o industriales o fincas rústicas, sin perjuicio de la facultad de poseer bonos, obligaciones, acciones u otros títulos de dichas empresas conforme a lo previsto en esta misma Ley. La Comisión Nacional Bancaria y de Seguros podrá autorizar que continúen su explotación, cuando las reciban en adjudicación o pago de adeudos, o al ejercitar los derechos que les confieren las operaciones que celebren conforme a esta Ley, sin exceder los plazos a que se refiere la fracción siguiente;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+VIII.- Entrar en sociedades de cualquier clase, excepto en los casos de inversión en acciones permitidas por esta Ley, y también les está especialmente prohibido entrar en sociedades de responsabilidad ilimitada y explotar por su cuenta minas, plantas metalúrgicas, establecimientos mercantiles o industriales o fincas rústicas, sin perjuicio de la facultad de poseer bonos, obligaciones, acciones u otros títulos de dichas empresas conforme a lo previsto en esta misma Ley. La Comisión Nacional de Seguros y Fianzas podrá autorizar que continúen su explotación, cuando las reciban en adjudicación o pago de adeudos, o al ejercitar los derechos que les confieren las operaciones que celebren conforme a esta Ley, sin exceder los plazos a que se refiere la fracción IX de este artículo;
 
-VIII bis.- Seguir frente al público políticas operativas y de servicios comunes con instituciones de seguros, almacenes generales de depósito, arrendadoras financieras o casas de bolsa u ostentarse como grupo con ellos;
+VIII bis.- (DEROGADA, D.O.F. 3 DE ENERO DE 1990)
 
 IX.- Adquirir bienes, títulos o valores que no deban conservar en su activo. Cuando una institución reciba en pago de adeudos o por adjudicación en remate dentro de juicios relacionados con créditos a su favor, o al ejercitar los derechos que les confieren las operaciones que celebren conforme a esta Ley, bienes, derechos, títulos o valores de los señalados en esta fracción, deberá venderlos en el plazo de un año a partir de su adquisición, cuando se trate de títulos o de bienes muebles; de dos años cuando se trate de inmuebles urbanos; y, de tres años cuando se trate de inmuebles rústicos.
 
-Estos plazos podrán ser renovados por la Comisión Nacional Bancaria y de Seguros cuando sea imposible efectuar oportunamente su venta sin gran pérdida para la institución.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-Expirados los plazos o, en su caso, las renovaciones que de ellos se concedan, la Comisión Nacional Bancaria y de Seguros sacará administrativamente a remate los bienes, derechos, títulos o valores que no hubieran sido vendidos;
+Estos plazos podrán ser renovados por la Comisión Nacional de Seguros y Fianzas cuando sea imposible efectuar oportunamente su venta sin gran pérdida para la institución.
 
-X.- Abonar a cualquier persona, ya sea funcionario, empleado o agente de la institución, sobresueldos, gratificaciones, premios o comisiones adicionales, basados en el volumen de las fianzas que coloquen;
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-XI.- Abonar comisiones al solicitante, beneficiario o a cualquiera otra persona que no tenga el carácter de agente conforme a esta Ley;
+Expirados los plazos o, en su caso, las renovaciones que de ellos se concedan, la Comisión Nacional de Seguros y Fianzas sacará administrativamente a remate los bienes, derechos, títulos o valores que no hubieran sido vendidos;
+
+X.- (DEROGADA, D.O.F. 3 DE ENERO DE 1990)
+
+XI.- (DEROGADA, D.O.F. 3 DE ENERO DE 1990)
 
 XII.- Aceptar responsabilidades sin cumplimentar las formalidades señaladas por la presente Ley y disposiciones aplicables;
 
 XIII.- Comerciar en mercancías de cualquier clase;
 
-XIV.- Celebrar operaciones en virtud de las cuales resulten o puedan resultar deudores de la institución, los directores generales o gerentes generales, salvo que correspondan a prestaciones de carácter laboral, los comisarios propietarios o suplentes, estén o no en funciones; los auditores externos de la institución; o los ascendientes o descendientes en primer grado o cónyuges de las personas anteriores, y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+XIV.- Celebrar operaciones en virtud de las cuales resulten o puedan resultar deudores de la institución, los directores, subdirectores o gerentes generales, salvo que correspondan a prestaciones de carácter laboral; los consejeros y comisarios, propietarios o suplentes, estén o no en funciones; los auditores externos de la institución o los ascendientes o descendientes en primer grado o cónyuges de las personas anteriores, y
 
 XV.- Repartir dividendos con los fondos de las reservas que hayan constituido por disposición legal o de otras reservas creadas para compensar o absorber pérdidas futuras.
 
@@ -857,7 +931,7 @@ Tampoco podrán repartir dividendos, sin haber constituido debidamente tales res
 
 ### CAPITULO II. Inspección y Vigilancia
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 61.
 
@@ -867,49 +941,87 @@ I.- Cuando se expida una fianza sin la garantía que esta Ley exige;
 
 II.- Cuando a juicio de la institución sea procedente el pago de una reclamación, o cuando la institución así lo estime conveniente, y
 
-III.- Cuando la Comisión Nacional Bancaria y de Seguros, oyendo previamente a la institución de fianzas, estime que ésta debe cubrir el importe de la fianza, aun cuando la institución no hubiese estado conforme.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+III.- Cuando la Comisión Nacional de Seguros y Fianzas, oyendo previamente a la institución de fianzas, estime que ésta debe cubrir el importe de la fianza, aun cuando la institución no hubiese estado conforme.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 62.
 
-La Comisión Nacional Bancaria y de Seguros fijará las bases para la estimación de los activos de las instituciones de fianzas conforme a los siguientes principios:
+La Comisión Nacional de Seguros y Fianzas fijará las bases para la estimación de los activos de las instituciones de fianzas conforme a los siguientes principios:
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 I.- Los créditos y documentos mercantiles se estimarán por su valor nominal, siempre que satisfagan los requisitos señalados en la presente Ley;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 II.- Los bonos, obligaciones y otros títulos de naturaleza análoga que estén al corriente en el pago de sus intereses y amortización, se estimarán al valor presente de los futuros beneficios del título, calculando dicho valor presente al tipo efectivo de interés que devengue el título según el precio en bolsa de valores o, a falta de ésta, en el mercado libre en el momento de su adquisición.
 
 Cuando no estén al corriente en el pago de sus intereses y amortización, se estimarán al precio de bolsa o de mercado del último día del ejercicio;
 
-III.- Las acciones se valuarán de acuerdo con los procedimientos que para tal efecto establezca la Comisión Nacional Bancaria y de Seguros;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-IV.- Cuando los precios de mercado a fin de ejercicio sean excepcionalmente favorables o adversos, a juicio de la Comisión Nacional Bancaria y de Seguros, ésta podrá determinar que se use como precio de los bonos, obligaciones, acciones u otros títulos sujetos a esa estimación, el promedio de sus precios en el año;
+III.- Las acciones se valuarán de acuerdo con los procedimientos que para tal efecto establezca la Comisión Nacional de Seguros y Fianzas;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+IV.- Cuando los precios de mercado a fin de ejercicio sean excepcionalmente favorables o adversos, a juicio de la Comisión Nacional de Seguros y Fianzas, ésta podrá determinar que se use como precio de los bonos, obligaciones, acciones u otros títulos sujetos a esa estimación, el promedio de sus precios en el año;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 V.- Los bienes o mercancías que tengan un mercado regular se estimarán por su cotización;
 
-VI.- Los inmuebles urbanos se estimarán por el promedio de avalúos que conforme a las siguientes bases practique la institución de crédito que señale la Comisión Nacional Bancaria y de Seguros:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+VI.- Los inmuebles urbanos se estimarán por el promedio de los avalúos que conforme a las siguientes bases practique una institución de crédito:
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 a).- Se calculará el valor físico del inmueble, estimando el valor comercial del terreno más el costo de reposición de las construcciones, disminuido el demérito por el uso, según se observe por su estado de conservación y de los castigos que resulten por la ubicación, distribución y demás circunstancias, y
 
-b).- Igualmente se hará una estimación del valor por renta, capitalizando las rentas líquidas que el inmueble sea capaz de producir, usando los tipos de interés que fijará administrativamente la Comisión Nacional Bancaria y de Seguros, teniendo en cuenta la clase de construcción, el tipo de la misma y demás circunstancias. Para calcular la renta líquida se disminuirán del producto bruto las contribuciones de toda índole, cuotas de agua, gastos de conservación, vacíos, depreciación, seguros y gastos generales de administración.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-Cuando una institución de fianzas no esté de acuerdo con algún avalúo practicado, someterá por escrito ante la Comisión Nacional Bancaria y de Seguros las razones de su inconformidad, y ésta resolverá, pudiendo oír en todo caso la opinión de otro perito nombrado por la misma Comisión Nacional Bancaria y de Seguros. Los honorarios de dicho perito serán también satisfechos por la institución de fianzas interesada.
+b).- Igualmente se hará una estimación del valor por renta, capitalizando las rentas líquidas que el inmueble sea capaz de producir, usando los tipos de interés que fijará administrativamente la Comisión Nacional de Seguros y Fianzas, teniendo en cuenta la clase de construcción, el tipo de la misma y demás circunstancias. Para calcular la renta líquida se disminuirán del productobruto (sic) las contribuciones de toda índole, cuotas de agua, gastos de conservación, vacíos, depreciación, seguros y gastos generales de administración.
 
-Hecha la rectificación de valores de los bienes inmuebles, en los términos de esta fracción, la Comisión Nacional Bancaria y de Seguros podrá en cualquier tiempo, ordenar que se supla el defecto que se produzca por menor productividad líquida anual de los bienes, o mandar verificar los valores consignados en los avalúos.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Cuando una institución de fianzas no esté de acuerdo con algún avalúo practicado, someterá por escrito ante la Comisión Nacional de Seguros y Fianzas las razones de su inconformidad, y ésta resolverá, pudiendo oír en todo caso la opinión de otro perito nombrado por la misma Comisión Nacional de Seguros y Fianzas. Los honorarios de dicho perito serán también satisfechos por la institución de fianzas interesada.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Hecha la rectificación de valores de los bienes inmuebles, en los términos de esta fracción, la Comisión Nacional de Seguros y Fianzas podrá en cualquier tiempo, ordenar que se supla el defecto que se produzca por menor productividad líquida anual de los bienes, o mandar verificar los valores consignados en los avalúos.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 Cuando de la revisión que se haga del valor del inmueble, resulte un avalúo superior al de costo o al de adquisición, las instituciones de fianzas deberán dedicar la utilidad obtenida por este concepto a la formación de una reserva especial para fluctuaciones de valores inmuebles, que sólo podrá aplicarse a resultados, hasta que efectivamente se realice dicha utilidad en virtud de la venta de la propiedad respectiva.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+
 Cuando de la revisión que se haga resulte que el valor del inmueble ha disminuido, esta disminución afectará a la reserva de que habla el párrafo anterior y si ésta no existiera o fuera insuficiente, se creará desde luego otra por la diferencia que resulte por la baja del inmueble. La pérdida que se sufra por esa baja podrá ser amortizada hasta en cinco años a razón de una quinta parte por año.
 
-Para que las reconstrucciones o reparaciones de inmuebles que aumenten el valor de los mismos puedan ser computadas en el activo, las instituciones de fianzas interesadas someterán a la Comisión Nacional Bancaria y de Seguros, los proyectos respectivos, y una vez terminadas las obras, dicha Comisión aceptará como afecto al activo el valor que corresponda a tales construcciones o reparaciones, de acuerdo con el avalúo que mande practicar;
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-VII.- Los bienes indicados en la fracción XIV del artículo 40 de esta Ley, se estimarán, en lo conducente, de acuerdo con los principios anteriores, y en lo no previsto, conforme a los procedimientos que sobre el particular establezca la Comisión Nacional Bancaria y de Seguros;
+Las reparaciones o adaptaciones que impliquen adiciones o mejoras a los inmuebles de las instituciones, se considerarán como activo, cuando terminadas las obras, el avalúo que para tal efecto practique una institución de crédito, demuestre que ha habido un aumento en el valor de dichos inmuebles .
 
-VIII.- Cuando al aplicar las bases para la estimación de los activos, fijadas por la Comisión Nacional Bancaria y de Seguros, resulte una estimación más elevada de los elementos de activo, que el valor de adquisición de los bienes, la diferencia no podrá ser aplicada a cuenta de resultados, hasta en tanto no se realice efectivamente el beneficio como consecuencia de la venta, realización o cobro de los bienes o créditos. Con el importe del beneficio conocido, no realizado, se constituirán reservas complementarias de activo, individuales, respecto de cada uno de los bienes que hayan producido el beneficio. La Comisión Nacional Bancaria y de Seguros, atendiendo a la estabilidad continuada de los precios y cotizaciones y la importancia relativa de las reservas constituidas de este modo, podrá autorizar el ajuste total o parcial de tales aumentos de valor con abono a la cuenta de resultados;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-IX.- Los demás bienes y créditos serán estimados por la Comisión Nacional Bancaria y de Seguros, de acuerdo con las pruebas conducentes presentadas al efecto, y
+VII.- Los bienes indicados en la fracción XIV del artículo 40 de esta Ley, se estimarán, en lo conducente, de acuerdo con los principios anteriores, y en lo no previsto, conforme a los procedimientos que sobre el particular establezca la Comisión Nacional de Seguros y Fianzas;
 
-X.- Sin perjuicio de los principios establecidos en este artículo, la Comisión Nacional Bancaria y de Seguros podrá proponer a la Secretaría de Hacienda y Crédito Público, que se autorice, por disposiciones de carácter general, a las instituciones de fianzas para que en caso necesario, por baja extraordinaria, mantengan ciertos valores de su activo a la estimación que resulte de sus precios de adquisición, dándoles un plazo que no podrá exceder de cinco años para que regularicen sus valuaciones, y sometiéndose durante este período a las limitaciones respecto a la distribución de utilidades que estime adecuado acordar la propia Comisión.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+VIII.- Cuando al aplicar las bases para la estimación de los activos, fijadas por la Comisión Nacional de Seguros y Fianzas, resulte una estimación más elevada de los elementos de activo, que el valor de adquisición de los bienes, la diferencia no podrá ser aplicada a cuenta de resultados, hasta en tanto no se realice efectivamente el beneficio como consecuencia de la venta, realización o cobro de los bienes o créditos. Con el importe del beneficio conocido, no realizado, se constituirán reservas complementarias de activo, individuales, respecto de cada uno de los bienes que hayan producido el beneficio. La Comisión Nacional de Seguros y Fianzas, atendiendo a la estabilidad continuada de los precios y cotizaciones y la importancia relativa de las reservas constituidas de este modo, podrá autorizar el ajuste total o parcial de tales aumentos de valor con abono a la cuenta de resultados;
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Si por el contrario, resultara una estimación inferior al costo de adquisición de los elementos de activo, se constituirán las reservas complementarias de activo necesarias, afectando resultados del ejercicio correspondiente. La Comisión Nacional de Seguros y Fianzas podrá proponer a la Secretaría de Hacienda y Crédito Público, que se autorice a las instituciones de fianzas para que en caso necesario, por bajas extraordinarias, mantengan ciertos valores de su activo, con los ajustes que procedan, dándoles un plazo que no podrá exceder de cinco años para que regularicen sus valuaciones y sometiéndose durante este período a las limitaciones respecto a la distribución de utilidades que estime adecuado acordar la propia Comisión, y
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+IX.- Los demás bienes y créditos serán estimados por la Comisión Nacional de Seguros y Fianzas, de acuerdo con las pruebas conducentes presentadas al efecto.
+
+X.- (DEROGADA, D.O.F. 3 DE ENERO DE 1990)
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -917,101 +1029,153 @@ X.- Sin perjuicio de los principios establecidos en este artículo, la Comisión
 
 Las instituciones de fianzas deberán registrar en su contabilidad, todas y cada una de las operaciones que practiquen, cualquiera que sea su origen.
 
-Al efecto, deberán llevar el sistema de contabilidad que previene el Código de Comercio y los registros y auxiliares que ordene la Comisión Nacional Bancaria y de Seguros, los cuales se ajustarán a los modelos que señale la misma Comisión.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-La contabilidad, sin perjuicio de su valor probatorio legal, podrá llevarse en libros o en tarjetas u hojas sueltas o en cualquier otro medio de registro, que llenen los requisitos que fije la Comisión Nacional Bancaria y de Seguros.
+Al efecto, deberán llevar el sistema de contabilidad que previene el Código de Comercio y los registros y auxiliares que ordene la Comisión Nacional de Seguros y Fianzas, los cuales se ajustarán a los modelos que señale la misma Comisión.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+La contabilidad, sin perjuicio de su valor probatorio legal, podrá llevarse en libros o en tarjetas u hojas sueltas o en cualquier otro medio de registro, que llenen los requisitos que fije la Comisión Nacional de Seguros y Fianzas.
 
 Los libros de contabilidad y los registros a que se refiere esta Ley, deberán conservarse disponibles en las oficinas de la institución y no podrán retardarse en sus asientos por más de quince y cinco días, respectivamente. El registro de reclamaciones deberá llevarse al día.
 
-La Comisión determinará cuáles son los libros o documentos que por integrar la contabilidad de las instituciones de fianzas deben ser conservados; cuáles pueden ser destruidos previa microfilmación que de los mismos hagan dichas instituciones en los rollos autorizados por la propia Comisión Nacional Bancaria y de Seguros, y cuáles pueden ser destruidos sin necesidad de microfilmación. También fijará los plazos de conservación de los mencionados libros y documentos, una vez que dichas instituciones hayan sido liquidadas.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-Los libros y documentos de las instituciones de fianzas liquidadas se pondrán a disposición de la Comisión Nacional Bancaria y de Seguros, proveyéndola de los medios necesarios para su conservación y destrucción una vez transcurrido el plazo a que se refiere el párrafo anterior.
+La Comisión determinará cuáles son los libros o documentos que por integrar la contabilidad de las instituciones de fianzas deben ser conservados; cuáles pueden ser destruidos previa microfilmación que de los mismos hagan dichas instituciones en los rollos autorizados por la propia Comisión Nacional de Seguros y Fianzas, y cuáles pueden ser destruidos sin necesidad de microfilmación. También fijará los plazos de conservación de los mencionados libros y documentos, una vez que dichas instituciones hayan sido liquidadas.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Los libros y documentos de las instituciones de fianzas liquidadas se pondrán a disposición de la Comisión Nacional de Seguros y Fianzas, proveyéndola de los medios necesarios para su conservación y destrucción una vez transcurrido el plazo a que se refiere el párrafo anterior.
 
 Las operaciones en moneda extranjera que practiquen las instituciones de fianzas, deberán ser asentadas en la contabilidad al valor de la operación en moneda nacional, cualquiera que sea el sistema de registro o de distribución empleado.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 64.
 
-Las cuentas que deban llevar las instituciones de fianzas, se ajustarán estrictamente al catálogo que al efecto autorice la Comisión Nacional Bancaria y de Seguros. Previa autorización de la misma Comisión, las instituciones que lo necesiten podrán introducir nuevas cuentas, indicando en su solicitud las razones que tengan para ello. En su caso, se adicionará el catálogo respectivo.
+Las cuentas que deban llevar las instituciones de fianzas, se ajustarán estrictamente al catálogo que al efecto autorice la Comisión Nacional de Seguros y Fianzas. Previa autorización de la misma Comisión, las instituciones que lo necesiten podrán introducir nuevas cuentas, indicando en su solicitud las razones que tengan para ello. En su caso, se adicionará el catálogo respectivo.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 65.
 
-Las instituciones de fianzas deberán practicar sus estados financieros al día último de cada mes y publicarlos dentro del mes siguiente a su fecha. La Comisión Nacional Bancaria y de Seguros queda facultada para establecer la forma y términos en que las Instituciones de fianzas deberán presentar y publicar sus estados financieros mensuales y anuales; éstos deberán ser presentados junto con la información que deberán remitirle al efecto, dentro de los 30 días naturales siguientes al cierre correspondiente. La publicación de tales estados financieros será bajo la estricta responsabilidad de los administradores y comisarios de la institución que hayan sancionado y dictaminado la autenticidad de los datos contenidos en dichos estados contables, quienes deberán cuidar que éstos revelen efectivamente la verdadera situación financiera de la sociedad y quedarán sujetos a las sanciones correspondientes en el caso de que las publicaciones no se ajusten a esa situación.
+Las Instituciones de fianzas deberán practicar sus estados financieros al día último de cada mes. La Comisión Nacional de Seguros y Fianzas queda facultada para establecer la forma y términos en que las instituciones de fianzas deberán presentar y publicar sus estados financieros anuales al 31 de diciembre de cada año; éstos deberán ser presentados dentro de los 30 días naturales siguientes al cierre del ejercicio. La publicación de tales estados financieros será bajo la estricta responsabilidad de los administradores y comisarios de la institución que hayan sancionado y dictaminado la autenticidad de los datos contenidos en dichos estados contables, quienes deberán cuidar que éstos revelen efectivamente la verdadera situación financiera de la sociedad y quedarán sujetos a las sanciones correspondientes en el caso de que las publicaciones no se ajusten a esa situación.
 
-Si la Comisión Nacional Bancaria y de Seguros, al revisar los estados financieros ordenara modificaciones o correcciones que, a su juicio, fueren fundamentales para ameritar su publicación, podrá acordar que se publiquen con las modificaciones pertinentes y, en su caso, esta publicación se hará dentro de los 15 días siguientes a la notificación del acuerdo respectivo. En ningún otro caso podrán efectuarse segundas publicaciones. La revisión de la citada Comisión, no tendrá efectos de carácter fiscal.
+Si la Comisión Nacional de Seguros y Fianzas, al revisar los estados financieros ordenara modificaciones o correcciones que, a su juicio, fueren fundamentales para ameritar su publicación, podrá acordar que se publiquen con las modificaciones pertinentes y, en su caso, esta publicación se hará dentro de los 15 días siguientes a la notificación del acuerdo respectivo. En ningún otro caso podrán efectuarse segundas publicaciones. La revisión de la citada Comisión, no tendrá efectos de carácter fiscal.
 
-Los auditores externos que dictaminen los estados financieros anuales de las instituciones de fianzas, deberán reunir los requisitos que fije la Comisión Nacional Bancaria y de Seguros y suministrarle a ésta los informes y demás elementos de juicio, en los que sustenten sus dictámenes y conclusiones.
+Dentro del mes siguiente a la presentación de los estados financieros anuales, las instituciones estarán obligadas a enviar a dicha Comisión, una copia certificada del acta de la Junta del Consejo de Administración en que hayan sido aprobados, para estos efectos, junto con un informe del director o gerente general de la institución sobre la marcha de los negocios de la sociedad, así como el informe del comisario y el dictamen de los auditores externos, quienes además de reunir los requisitos que fije la Comisión Nacional de Seguros y Fianzas, deberán suministrar a ésta los informes y demás elementos de juicio, en los que sustenten sus dictámenes y conclusiones.
 
-Las instituciones de fianzas no podrán pagar los dividendos decretados por sus asambleas generales de accionistas, antes de dar por concluida la revisión de los estados financieros por la Comisión Nacional Bancaria y de Seguros. Sin embargo, ese Organismo, discrecionalmente, podrá autorizar el reparto parcial de dichos dividendos, en vista de la información y documentación que se le presenten.
+Las instituciones de fianzas no podrán pagar los dividendos decretados por sus asambleas generales de accionistas, antes de dar por concluida la revisión de los estados financieros por la Comisión Nacional de Seguros y Fianzas. Sin embargo, ese Organismo, discrecionalmente, podrá autorizar el reparto parcial de dichos dividendos, en vista de la información y documentación que se le presenten.
 
 Los repartos efectuados en contravención a lo dispuesto en el párrafo anterior, deberán ser restituidos a la sociedad. Serán solidariamente responsables a este respecto, los accionistas que los hayan percibido y los administradores y funcionarios que los hayan pagado.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 65 Bis.
 
-Cuando de los estados de situación mensual que las instituciones de fianzas están obligadas a presentar a la Comisión Nacional Bancaria y de Seguros, resulte que aquéllas no guardan las proporciones prescritas en esta Ley, no incurrirán en responsabilidad, cuando la divergencia no exceda de un 4% de dichas proporciones, y siempre que acrediten además, con sus estados y apuntes de contabilidad, a satisfacción de la Comisión Nacional Bancaria y de Seguros, que la infracción tiene carácter excepcional.
+Cuando de los estados de situación mensual que las instituciones de fianzas están obligadas a presentar a la Comisión Nacional de Seguros y Fianzas, resulte que aquéllas no guardan las proporciones prescritas en esta Ley, no incurrirán en responsabilidad, cuando la divergencia no exceda de un 4% de dichas proporciones, y siempre que acrediten además, con sus estados y apuntes de contabilidad, a satisfacción de la Comisión Nacional de Seguros y Fianzas, que la infracción tiene carácter excepcional.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 66.
 
-La inspección y vigilancia de las instituciones de fianzas queda confiada a la Comisión Nacional Bancaria y de Seguros, la que además de las facultades y obligaciones que le atribuye esta Ley, se regirá para esos efectos en materia de fianzas, y respecto de las instituciones mencionadas, por las disposiciones relativas a la inspección y vigilancia de la Ley Reglamentaria del Servicio Público de Banca y Crédito.
+La inspección y vigilancia de las instituciones de fianzas queda confiada a la Comisión Nacional de Seguros y Fianzas, la que además de las facultades y obligaciones que le atribuye esta Ley, se regirá para esos efectos en materia de fianzas, y respecto de las instituciones mencionadas, por las disposiciones relativas a la inspección y vigilancia de la Ley General de Instituciones y Sociedades Mutualistas de Seguros.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 67.
 
-Las instituciones de fianzas deberán rendir a la Secretaría de Hacienda y Crédito Público y a la institución u organismo que ésta determine de acuerdo a lo dispuesto por el artículo 59 de esta Ley, así como a la Comisión Nacional Bancaria y de Seguros, en la forma y términos que al efecto establezcan, los informes y pruebas que sobre su organización, operaciones, contabilidad, inversiones o patrimonio les soliciten para fines de regulación, supervisión, control, inspección, vigilancia, estadística y demás funciones que conforme a esta Ley u otras disposiciones legales y administrativas les corresponda ejercer.
+Las instituciones de fianzas deberán rendir a la Secretaría de Hacienda y Crédito Público y a la institución u organismo que ésta determine de acuerdo a lo dispuesto por el artículo 59 de esta Ley, así como a la Comisión Nacional de Seguros y Fianzas, en la forma y términos que al efecto establezcan, los informes y pruebas que sobre su organización, operaciones, contabilidad, inversiones o patrimonio les soliciten para fines de regulación, supervisión, control, inspección, vigilancia, estadística y demás funciones que conforme a esta Ley u otras disposiciones legales y administrativas les corresponda ejercer.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 68.
 
-Serán facultades ydeberes (sic) de la Comisión Nacional Bancaria y de Seguros, además de las que se le atribuyen en otros artículos de la presente Ley, las siguientes:
+Serán facultades y deberes de la Comisión Nacional de Seguros y Fianzas, además de las que se le atribuyen en otros artículos de la presente Ley, las siguientes:
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 I.- Actuar como cuerpo de consulta de la Secretaría de Hacienda y Crédito Público en los casos que se refieran al régimen afianzador y en los demás que la ley determine;
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+
 II.- Hacer los estudios que se le encomienden y presentar a la Secretaría de Hacienda y Crédito Público, las sugestiones que estime adecuadas para perfeccionarlos; así como cuantas mociones o ponencias relativas al régimen afianzador estime procedente elevar a dicha Secretaría;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 III.- Coadyuvar con la Secretaría de Hacienda y Crédito Público en el desarrollo de políticas adecuadas para la asunción de responsabilidades y aspectos financieros en relación con las operaciones del sistema afianzador, siguiendo las instrucciones que reciba de la propia Secretaría, y
 
-IV.- Las demás que le están atribuidas por esta Ley y otros ordenamientos legales respecto a la fianza a que se refiere esta Ley, siempre que no se trate de meros actos de vigilancia o ejecución.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+IV.- Proveer las medidas que estime necesarias para que las instituciones de fianzas cumplan con las responsabilidades contraidas con motivo de las fianzas otorgadas, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+V.- Las demás que le están atribuidas por esta Ley y otros ordenamientos legales respecto a la fianza a que se refiere esta Ley, siempre que no se trate de meros actos de vigilancia o ejecución.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 69.
 
-Serán facultades y obligaciones del presidente de la Comisión Nacional Bancaria y de Seguros:
+Serán facultades y obligaciones del Presidente de la Comisión Nacional de Seguros y Fianzas:
 
-I.- Inspeccionar y vigilar las instituciones de fianzas, así como a las demás personas y entidades sujetas a la inspección y vigilancia de la Comisión, proveyendo en los términos de esta Ley, y demás relativas y sus reglamentos, al eficaz cumplimiento de sus preceptos, así como realizar la inspección que para fines fiscales u otros procedentes conforme a leyes especiales, corresponda al Ejecutivo Federal sobre las instituciones de fianzas;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+I.- Inspeccionar y vigilar las instituciones de fianzas, así como a las demás personas y entidades sujetas a la inspección y vigilancia de la Comisión, proveyendo en los términos de esta Ley y demás relativas y sus reglamentos, al eficaz cumplimiento de sus preceptos, así como realizar la inspección que conforme a las leyes especiales, corresponda al Ejecutivo Federal sobre las instituciones de fianzas;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 II.- Intervenir en los arqueos, cortes de caja y demás comprobaciones o verificaciones de contabilidad de las instituciones de fianzas sometidas a su inspección y hacer las estimaciones necesarias para determinar su situación financiera y los valores de su activo de acuerdo con el artículo 62 de esta Ley;
 
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+II-bis.- Revisar y, en su caso, modificar las primas que cobren las instituciones por el otorgamiento de fianzas, así como las comisiones que cubran por reafianzamiento, coafianzamiento, reaseguro y a sus agentes;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+
 III.- Formular y publicar las estadísticas relativas a las instituciones de fianzas y a sus operaciones;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 IV.- Vigilar que las personas y entidades a que se refiere esta Ley, rindan oportunamente los informes y datos que la misma señala;
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+
 V.- Investigar actos que hagan suponer la ejecución de operaciones violatorias de esta Ley, pudiendo al efecto ordenar visitas de inspección a los presuntos responsables;
 
-VI.- Proponer al Comité Permanente la expedición de circulares, formulando el proyecto respectivo;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-VII.- Informar al Comité Permanente de los hechos o situaciones que, en su concepto, afecten el buen funcionamiento o solvencia de las instituciones de fianzas, proponiendo las medidas pertinentes;
+VI.- Proponer a la Junta de Gobierno la expedición de circulares, formulando el proyecto respectivo;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+VII.- Informar a la Junta de Gobierno de los hechos o situaciones que, en su concepto, afecten el buen funcionamiento o solvencia de las instituciones de fianzas, proponiendo las medidas pertinentes;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 VIII.- Informar a la Secretaría de Hacienda y Crédito Público acerca de infracciones administrativas y hechos delictuosos de que tenga conocimiento, por violaciones a la Ley de la materia y demás disposiciones legales aplicables;
 
-IX.- Desempeñar las funciones que le encomiende o le delegue el Comité Permanente, y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-X.- Las demás que le están atribuidas por esta Ley y otros ordenamientos legales.
+IX.- Desempeñar las funciones que le encomiende o le delegue la Junta de Gobierno;
 
-El presidente dela (sic) Comisión Nacional Bancaria y de Seguros ejercerá sus funciones directamente o por medio de funcionarios, delegados, visitadores, auditores o inspectores de la propia Comisión, con sujeción a las leyes aplicables y a sus reglamentos.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+X.- Representar a la Comisión Nacional de Seguros y Fianzas en el compromiso arbitral que al efecto se celebre en los términos del artículo 93 de esta Ley y dictar los laudos respectivos; y
+
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+XI.- Imponer las sanciones que correspondan en los términos de esta Ley y demás aplicables, así como condonarlas total o parcialmente; y
+
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+XII.- Las demás que le están atribuidas por esta Ley y otros ordenamientos legales.
+
+El presidente dela (sic) Comisión Nacional de Seguros y Fianzas ejercerá sus funciones directamente o por medio de funcionarios, delegados, visitadores, auditores o inspectores de la propia Comisión, con sujeción a las leyes aplicables y a sus reglamentos.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -1019,47 +1183,53 @@ El presidente dela (sic) Comisión Nacional Bancaria y de Seguros ejercerá sus 
 
 Las instituciones de fianzas están obligadas a recibir las visitas de inspección que se manden practicar.
 
-Las visitas o inspecciones serán practicadas a todas las instituciones de fianzas, por lo menos dentro de cada año y su frecuencia se determinará por las necesidades de cada caso concreto; ello sin perjuicio de las que se practiquen a solicitud de los comisarios o de un grupo de accionistas, que presenten datos suficientes a juicio de la Comisión Nacional Bancaria y de Seguros, para justificar esa visita.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Las visitas o inspecciones serán practicadas a todas las instituciones de fianzas, por lo menos dentro de cada año y su frecuencia se determinará por las necesidades de cada caso concreto; ello sin perjuicio de las que se practiquen a solicitud de los comisarios o de un grupo de accionistas, que presenten datos suficientes a juicio de la Comisión Nacional de Seguros y Fianzas, para justificar esa visita.
 
 El presidente de la Comisión podrá designar, en cualquier tiempo aún en forma permanente, inspectores en las instituciones de fianzas que comprueben la exactitud de sus informes, revisen sus operaciones y su situación financiera y vigilen la marcha general de la institución, así como delegados que verifiquen la labor de estos inspectores.
 
 La Comisión podrá también ordenar visitas o inspecciones especiales las cuales deberán practicarse por conducto de su presidente.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 71.
 
-Las instituciones de fianzas deberán justificar en cualquier momento la existencia de los activos en que se encuentren invertidos sus recursos, en la forma y con los documentos que determine la la (sic) Comisión Nacional Bancaria y de Seguros.
+Las instituciones de fianzas deberán justificar en cualquier momento la existencia de los activos en que se encuentren invertidos sus recursos, en la forma y con los documentos que determinela (sic) Comisión Nacional de Seguros y Fianzas.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 72.
 
-Cuando se encuentre que las obligaciones, el capital o las inversiones de las instituciones de fianzas no se ajusten a lo dispuesto por esta Ley, el presidente de la Comisión Nacional Bancaria y de Seguros, con acuerdo del Comité Permanente, dictará las medidas necesarias para normalizar la situación y señalará un plazo que no será mayor de treinta días para que la regularización se lleve a cabo comunicando inmediatamente su decisión a la Secretaría de Hacienda y Crédito Público.
+Cuando se encuentre que las obligaciones, el capital o las inversiones de las instituciones de fianzas no se ajusten a lo dispuesto por esta Ley, el Presidente de la Comisión Nacional de Seguros y Fianzas, dictará las medidas necesarias para normalizar la situación y señalará un plazo que no será mayor de treinta días para que la regularización se lleve a cabo comunicando inmediatamente su decisión a la Secretaría de Hacienda y Crédito Público.
 
-Si transcurrido el plazo señalado la institución de fianzas no ha regularizado su situación, el presidente de dicha Comisión, siempre con acuerdo del Comité Permanente, podrá ordenar que se suspenda la ejecución de las operaciones contrarias a lo dispuesto por esta Ley, o que se proceda a la liquidación de las mismas, disponiendo, si se estima conveniente, la intervención de la institución y que se proceda a tomar las medidas necesarias para efectuar los cobros y normalizar los documentos y operaciones que se hayan considerado irregulares.
+Si transcurrido el plazo señalado la institución de fianzas no ha regularizado su situación, el Presidente de dicha Comisión, podrá ordenar que se suspenda la ejecución de las operaciones contrarias a lo dispuesto por esta Ley, o que se proceda a la liquidación de las mismas, disponiendo, si se estima conveniente, la intervención de la institución y que se proceda a tomar las medidas necesarias para efectuar los cobros y normalizar los documentos y operaciones que se hayan considerado irregulares.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 73.
 
-Cuando a juicio dela (sic) Comisión Nacional Bancaria y de Seguros existan irregularidades de cualquier género en las instituciones de fianzas, el presidente de dicho Organismo podrá proceder en los términos del artículo anterior; pero si esas irregularidades afectan la estabilidad o solvencia de aquéllasy (sic) ponen en peligro los intereses de los fiados, beneficiarios o acreedores, el presidente podrá de inmediato, con acuerdo del Comité Permanente declarar la intervención con carácter de gerencia, de la institución de fianzas de que se trate y designar, sin que para ello requiera acuerdo del Comité Permanente, a la persona física que se haga cargo de la institución de fianzas, con el carácter de interventor-gerente.
+Cuando a juicio de la Comisión Nacional de Seguros y Fianzas existan irregularidades de cualquier género en las instituciones de fianzas, el Presidente de dicho Organismo podrá proceder en los términos del artículo anterior; pero si esas irregularidades afectan la estabilidad o solvencia de aquéllas y ponen en peligro los intereses de los fiados, beneficiarios o acreedores, el Presidente podrá de inmediato, con acuerdo de la Junta de Gobierno declarar la intervención con carácter de gerencia, de la institución de fianzas de que se trate y designar, sin que para ello requiera acuerdo de la Junta de Gobierno, a la persona física que se haga cargo de la institución de fianzas, con el carácter de interventor-gerente.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 La intervención administrativa de que habla el párrafo anterior se llevará a cabo directamente por el interventor-gerente, y al iniciarse dicha intervención se entenderá con el principal funcionario o empleado de la institución que se encuentre en las oficinas de ésta.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 74.
 
-El interventor-gerente tendrá todas las facultades que normalmente corresponden al consejo de administración de la sociedad y plenos poderes generales para actos de dominio, de administración, de pleitos y cobranzas, con las facultades que requieran cláusula especial conforme a la Ley, para otorgar o suscribir títulos de crédito, para presentar denuncias y querellas y desistir de estas últimas, previo acuerdo del presidente dela (sic) Comisión Nacional Bancaria y de Segurosy (sic)para otorgar los poderes generales o especiales que juzgue convenientes, y revocar los que estuvieren otorgados por la sociedad intervenida y los que él mismo hubiere conferido.
-
-El interventor-gerente no quedará supeditado en su actuación a la asamblea de accionistas ni al consejo de administración.
+El interventor-gerente tendrá todas las facultades que normalmente corresponden al consejo de administración de la sociedad y plenos poderes generales para actos de dominio, de administración, de pleitos y cobranzas, con las facultades que requieran cláusula especial conforme a la Ley, para otorgar o suscribir títulos de crédito, para presentar denuncias y querellas y desistir de estas últimas, previo acuerdo del presidente dela (sic) Comisión Nacional de Seguros y Fianzas y para otorgar los poderes generales o especiales que juzgue convenientes, y revocar los que estuvieren otorgados por la sociedad intervenida y los que él mismo hubiere conferido.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
+El interventor-gerente no quedará supeditado en su actuación a la asamblea de accionistas ni al consejo de administración.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 75.
 
-El oficio que contenga el nombramiento de interventor-gerente deberá asentarse en el Registro Público de Comercio que corresponda al domicilio de la sociedad intervenida, sin más requisitos que el oficio respectivo dela (sic) Comisión Nacional Bancaria y de Seguros.
+El oficio que contenga el nombramiento de interventor-gerente deberá asentarse en el Registro Público de Comercio que corresponda al domicilio de la sociedad intervenida, sin más requisitos que el oficio respectivo de la Comisión Nacional de Seguros y Fianzas.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -1067,11 +1237,11 @@ El oficio que contenga el nombramiento de interventor-gerente deberá asentarse 
 
 Desde el momento de la intervención quedarán supeditadas al interventor-gerente todas las facultades del consejo de administración y los poderes de las personas que el interventor determine; pero la asamblea de accionistas podrá continuar reuniéndose regularmente para conocer de los asuntos que le competen, y lo mismo podrá hacer el consejo para estar informado por el interventor-gerente sobre el funcionamiento y las operaciones que realiza la sociedad y para opinar sobre los asuntos que el mismo interventor-gerente someta a su consideración. El interventor-gerente podrá citar a asamblea de accionistas y reuniones del consejo de administración con los propósitos que considere necesarios o convenientes.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 77.
 
-Cuandola (sic) Comisión Nacional Bancaria y de Seguros acuerde levantar la intervención con el carácter de gerencia, lo comunicará así al encargado del Registro Público de Comercio que haya hecho el asiento a que se refiere el artículo 75 de esta Ley, a efecto de que se proceda a su cancelación.
+Cuando la Comisión Nacional de Seguros y Fianzas acuerde levantar la intervención con el carácter de gerencia, lo comunicará así al encargado del Registro Público de Comercio que haya hecho el asiento a que se refiere el artículo 75 de esta Ley, a efecto de que se proceda a su cancelación.
 
 (REUBICADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 1981)
 
@@ -1081,17 +1251,13 @@ Cuandola (sic) Comisión Nacional Bancaria y de Seguros acuerde levantar la inte
 
 ### CAPITULO II. Facultades respecto a las operaciones
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 78.
 
-Las instituciones de fianzas requerirán autorización previa de la Secretaría de Hacienda y Crédito Público, para el establecimiento, cambio de ubicación y clausura de cualquier clase de oficinas, ya sea en el país o en el extranjero.
+Las instituciones de fianzas, sujetándose a los requisitos que para tal efecto fije la Secretaría de Hacienda y Crédito Público, darán aviso a la misma y a la Comisión Nacional de Seguros y Fianzas, por lo menos, con diez días hábiles de anticipación, del establecimiento, cambio de ubicación y clausura de cualquier clase de oficinas, en el país. Tratándose de oficinas o sucursales en el extranjero se requerirá autorización de la Secretaría de Hacienda y Crédito Público.
 
-Para proporcionar servicio al público dentro del territorio nacional, las mismas instituciones de fianzas sólo podrán establecer, además de sus oficinas principales, sucursales u oficinas de servicio. Estas últimas sujetarán sus operaciones y funcionamiento a las reglas de carácter general que para el efecto expida la Secretaría de Hacienda y Crédito Público.
-
-Se requerirá también autorización de dicha Secretaría, para la cesión de las obligaciones y derechos correspondientes al otorgamiento de fianzas, así como de los activos o pasivos de una institución de fianzas a otra y para la fusión de dos o más instituciones.
-
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, otorgará o negará discrecionalmente las autorizaciones a que se refiere este artículo. No será necesaria la formalidad de la opinión a que alude este párrafo, cuando se trate del cambio de ubicación de cualquier clase de oficinas en la misma plaza o del establecimiento en el país, de oficinas que no proporcionen servicios al público.
+Para proporcionar servicio al público, las mismas instituciones de fianzas sólo podrán establecer, además de sus oficinas principales, sucursales u oficinas de servicio. Estas ultimas sujetarán sus operaciones y funcionamiento a las reglas de carácter general que para el efecto expida la Secretaría de Hacienda y Crédito Público.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -1099,7 +1265,9 @@ La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisi�
 
 Las instituciones de fianzas requerirán autorización previa de la Secretaría de Hacienda y Crédito Público, para invertir en acciones de sociedades que les presten sus servicios o efectúen operaciones con ellas.
 
-Estas sociedades deberán ajustarse, en cuanto a los servicios u operaciones que la Secretaría de Hacienda y Crédito Público repute complementarios o auxiliares de las operaciones que sean propias de la institución de fianzas de que se trate, a las reglas de carácter general que dicte la misma Secretaría, y a la inspección y vigilancia dela (sic) Comisión Nacional Bancaria y de Seguros.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Estas sociedades deberán ajustarse, en cuanto a los servicios u operaciones que la Secretaría de Hacienda y Crédito Público repute complementarios o auxiliares de las operaciones que sean propias de la institución de fianzas de que se trate, a las reglas de carácter general que dicte la misma Secretaría, y a la inspección y vigilancia dela (sic) Comisión Nacional de Seguros y Fianzas.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -1107,17 +1275,23 @@ Estas sociedades deberán ajustarse, en cuanto a los servicios u operaciones que
 
 Las instituciones de fianzas requerirán de autorización previa de la Secretaría de Hacienda y Crédito Público, para adquirir acciones o participaciones en el capital social de entidades afianzadoras o financieras del exterior.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 81.
 
-Para cualquier propaganda o publicación de las instituciones de fianzas y de sus agentes, que se pretenda efectuar en territorio nacional o en el extranjero, se requerirá la previa aprobación dela (sic) Comisión Nacional Bancaria y de Seguros.
+La propaganda o publicidad que las instituciones de fianzas y sus agentes efectúen en territorio nacional o en el extranjero, se sujetarán a las disposiciones de carácter general que dicte la Comisión Nacional de Seguros y Fianzas.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+Tales disposiciones deberán propiciar que la propaganda o publicidad se exprese en forma clara y precisa, a efecto de que no se induzca al público al engaño, error o confusión sobre la prestación de los servicios de las instituciones de fianzas y de sus agentes.
+
+La Comisión Nacional de Seguros y Fianzas podrá ordenar, previa audiencia de la parte interesada, la modificación o suspensión de la propaganda y publicidad que considere que no se sujeta a lo previsto en este artículo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 81 Bis.
 
-Las instituciones de fianzas sólo podrán cerrar sus puertas y suspender sus operaciones en los días que al efecto autorice anualmente la Comisión Nacional Bancaria y de Seguros.
+Las instituciones de fianzas sólo podrán cerrar sus puertas y suspender sus operaciones en los días que al efecto autorice anualmente la Comisión Nacional de Seguros y Fianzas.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 Los días autorizados en los términos de este artículo se considerarán inhábiles para los efectos de las operaciones de todo tipo a que se refiere esta Ley.
 
@@ -1127,7 +1301,9 @@ Los días autorizados en los términos de este artículo se considerarán inháb
 
 ###### ARTICULO 82.
 
-Las instituciones de fianzas realizarán su objeto social por medio de uno o más funcionarios que se designen especialmente al efecto y de cuyos actos responderá directa e ilimitadamente la institución, sin perjuicio de las responsabilidades civiles o penales en que ellos incurran personalmente. La Comisión Nacional Bancaria y de Seguros podrá, en todo tiempo, acordar que se proceda a la remoción o suspensión de los miembros del consejo de administración, comisarios, directores y gerentes, y de los funcionarios que puedan obligar con su firma a la institución, cuando considere que tales designaciones no corresponden a personas con la suficiente calidad moral o técnica para la adecuada administración y vigilancia de las instituciones, oyendo previamente al interesado y al representante de la institución.
+Las instituciones de fianzas realizarán su objeto social por medio de uno o más funcionarios que se designen especialmente al efecto y de cuyos actos responderá directa e ilimitadamente la institución, sin perjuicio de las responsabilidades civiles o penales en que ellos incurran personalmente. La Comisión Nacional de Seguros y Fianzas podrá, en todo tiempo, acordar que se proceda a la remoción o suspensión de los miembros del consejo de administración, comisarios, directores y gerentes, y de los funcionarios que puedan obligar con su firma a la institución, cuando considere que tales designaciones no corresponden a personas con la suficiente calidad moral o técnica para la adecuada administración y vigilancia de las instituciones, oyendo previamente al interesado y al representante de la institución.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 Las resoluciones de remoción o suspensión podrán ser recurridas ante la Secretaría de Hacienda y Crédito Público, dentro de los quince días que sigan a la fecha en que la misma se hubiera notificado. La Secretaría de Hacienda y Crédito Público podrá revocar, modificar o confirmar, la resolución recurrida, con audiencia de las partes.
 
@@ -1145,69 +1321,67 @@ III.- Los funcionarios o empleados de instituciones de crédito, de seguros, de 
 
 IV.- Los miembros del consejo de administración, propietarios o suplentes, directores generales, gerentes o auditores externos de las sociedades que a su vez controlen a la institución de fianzas de que se trate, o de las empresas controladas por los accionistas mayoritarios de la misma.
 
-El nombramiento de comisarios sólo podrá recaer en personas que reúnan los requisitos que fije la Comisión Nacional Bancaria y de Seguros, mediante reglas de carácter general.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+El nombramiento de comisarios sólo podrá recaer en personas que reúnan los requisitos que fije la Comisión Nacional de Seguros y Fianzas, mediante reglas de carácter general.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 84.
 
-Los documentos que acrediten la facultad de los representantes de las instituciones de fianzas para otorgar fianzas, así como los facsímiles de sus firmas, deberán registrarse en la Comisión Nacional Bancaria y de Seguros.
+Los documentos que acrediten la facultad de los representantes de las instituciones de fianzas para otorgar fianzas, así como los facsímiles de sus firmas, deberán registrarse en la Comisión Nacional de Seguros y Fianzas.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 85.
 
-La documentación que utilicen las instituciones relacionada con la oferta, solicitud y contratación de fianzas o derivada de éstas, sólo podrá ponerse en uso cuando los modelos correspondientes hayan sido previamente aprobados por la Comisión Nacional Bancaria y de Seguros, tanto respecto de su contenido, cuanto de los requisitos tipográficos para considerar fácilmente legibles los caracteres empleados.
+La Comisión Nacional de Seguros y Fianzas estará facultada para revisar y en su caso modificar el contenido y forma de la documentación que utilicen las instituciones realacionadas (sic) con la oferta, solicitud y contratación de fianzas o la derivada de éstas, así como los modelos de contratos que se utilicen para ceder responsabilidades en reafianzamiento y reaseguro.
 
-Asimismo, deberán ser previamente aprobados por dicho Organismo los modelos de contratos que se utilicen para ceder responsabilidades en reafianzamiento.
+Para tal efecto las instituciones deberán enviar a dicha autoridad, por lo menos con quince días hábiles previamente a su uso, un ejemplar de tal documentación.
 
-Para cualquier modificación de la documentación de que se trata, también deberá obtenerse la aprobación que exige el párrafo anterior.
+Asimismo, las instituciones estarán obligadas a incluir las cláusulas invariables que administrativamente fije la Secretaría de Hacienda y Crédito Público, por medio de disposiciones generales.
 
-Igualmente estarán obligadas a incluir las cláusulas invariables que administrativamente fije la Secretaría de Hacienda y Crédito Público, por medio de disposiciones generales.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 86.
 
-Las primas que cobren las instituciones por las fianzas que otorguen, así como las que cubran por reafianzamiento, se sujetarán a las tarifas que apruebela (sic) Comisión Nacional Bancaria y de Seguros. Dichas tarifas de primas podrán establecer máximos y mínimos.
+Las tarifas de primas que cada una de las instituciones cobren por las fianzas que otorguen, así como las comisiones que cubran por reafianzamiento, coafianzamiento y reaseguro y las remuneraciones que paguen a sus agentes, deberán reportarlas a la Comisión Nacional de Seguros y Fianzas, por lo menos con diez días hábiles previamente a su puesta en vigor, la que podrá ordenar en los treinta días hábiles siguientes a su recepción los ajustes que estime pertinentes; de no hacerlo así se entenderá que no existe inconveniente para su utilización.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 87.
 
-Para el ejercicio de la actividad de los agentes de las instituciones de fianzas, se requerirá autorización de la Comisión Nacional Bancaria y de Seguros, quien la otorgará o negará discrecionalmente y que podrá revocar previa audiencia de la parte interesada, en los términos del Reglamento respectivo. Estas autorizaciones tendrán el carácter de intransferibles y podrán otorgarse a personas físicas o morales.
+Para el ejercicio de la actividad de los agentes de las instituciones de fianzas, se requerirá autorización de la Comisión Nacional de Seguros y Fianzas, quien la otorgará o negará discrecionalmente y que podrá revocar, previa audiencia de la parte interesada, en los términos del Reglamento respectivo. Estas autorizaciones tendrán el carácter de intransferibles y podrán otorgarse a personas físicas o morales.
 
-Las actividades que realicen los agentes se sujetarán a las disposiciones de esta Ley y del Reglamento respectivo.
+Las actividades que realicen los agentes se sujetarán al Reglamento respectivo y a las disposiciones de carácter general que dicte dicha Comisión.
 
-Los agentes deberán reunir los requisitos que exija el Reglamento respectivo y se sujetarán a la inspección y vigilancia de la Comisión Nacional Bancaria y de Seguros.
+A los agentes de fianzas les está especialmente prohibido percibir remuneraciones, independientemente del nombre con el que se les designe, de las personas que soliciten fianzas, por la colocación de éstas, así como participar, devolver o bonificar sus comisiones a los solicitantes o beneficiarios de las pólizas y se les sancionará en los términos de la presente Ley.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+Los agentes deberán reunir los requisitos que exija el Reglamento respectivo y se sujetarán a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 88.
 
-El establecimiento, cambio de ubicación y clausura de oficinas de los agentes de las instituciones de fianzas, requerirán autorización previa de la Comisión Nacional Bancaria y de Seguros.
+Los agentes de las instituciones de fianzas darán aviso a la Comisión Nacional de Seguros y Fianzas, por lo menos con 10 días hábiles de anticipación, del establecimiento, cambio de ubicación y clausura de sus oficinas. De igual manera se dará el aviso a los fiados.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 89.
 
-Los contratos que las instituciones de fianzas celebren con sus agentes, se ajustarán a los modelos previamente aprobados por la Comisión Nacional Bancaria y de Seguros.
+La Comisión Nacional de Seguros y Fianzas estará facultada para revisar y, en su caso, modificar escuchando previamente a las partes interesadas, el contenido y forma de los contratos que las instituciones de fianzas celebren con sus agentes.
 
-La remuneración que paguen las instituciones de fianzas a sus agentes, se sujetará a las tarifas que apruebe la Comisión Nacional Bancaria y de Seguros.
-
-Los agentes no podrán percibir remuneración alguna de las personas que soliciten fianzas, por la colocación de éstas.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 89 Bis.
 
-Las instituciones de fianzas sólo podrán pagar comisiones o cualquier otra compensación por la contratación de fianzas, sobre las primas que hayan ingresado efectivamente a la institución y exclusivamente a las personas que estén autorizadas para actuar como agentes, sin exceder el máximo que autorice la Comisión Nacional Bancaria y de Seguros, quien determinará la manera de efectuar esos pagos.
+Las instituciones de fianzas sólo podrán pagar comisiones o cualquier otra compensación por la contratación de fianzas sobre las primas que hayan ingresado efectivamente a la institución y exclusivamente a las personas que estén autorizadas para actuar como agentes.
 
-Las instituciones no podrán abonar a ninguna persona, cantidad alguna con base en el volumen de las fianzas que se coloquen, salvo las que autorice la Comisión Nacional Bancaria y de Seguros para concederse a los agentes, con el objeto de estimularlos en el desempeño de sus actividades y siempre que no se haga en contra de la técnica y normas de la fianza, y que las cantidades desembolsadas por ese concepto, unidas a los otros gastos de adquisición no sobrepasen el límite previsto en esta Ley.
+Las remuneraciones que se cubran a los agentes de fianzas, con el objeto de estimularlos en el desempeño de sus actividades deberán ser reportadas semestralmente a la Comisión Nacional de Seguros y Fianzas, y se ajustarán a la técnica y normas de la fianza y a los lineamientos de carácter general que discrecionalmente establezca la citada Comisión, siempre que las cantidades desembolsadas por este concepto, unidas a los otros gastos de adquisición, no pongan en peligro a juicio de la citada Comisión la operación de las instituciones.
 
-La Secretaría de Hacienda y Crédito Público oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, determinará mediante reglas de carácter general, las fianzas en que, por su naturaleza de interés social, condiciones de contratación o características de las responsabilidades que garanticen, se apliquen total o parcialmente las comisiones establecidas en beneficio de los solicitantes o fiados, teniendo a la vista la conveniencia de propiciar el desarrollo de la fianza en las mejores condiciones de contratación, en función al interés social que con su otorgamiento se persiga, o que incidan en el costo de la misma, pagos que no se encuentren justificados por una labor real de asesoría y colocación de la fianza.
+Las instituciones de fianzas podrán, tomando en cuenta las condiciones de contratación o características de las responsabilidades que garanticen, aplicar total o parcialmente las comisiones establecidas en beneficio de los solicitantes o fiados, procurando en todo momento el desarrollo de la fianza en las mejores condiciones de contratación.
 
-Salvo lo dispuesto en el párrafo anterior, ni las instituciones de fianzas, ni los agentes podrán conceder a los solicitantes o fiados reducción de primas, comisiones, o cualquier otra ventaja no especificada en la póliza.
+Para lo dispuesto en el párrafo anterior, las instituciones de fianzas deberán especificar en la póliza, y en los recibos de primas correspondientes, el monto de la reducción de primas que resulte de la aplicación total o parcial de las comisiones establecidas en los términos de este artículo.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -1227,25 +1401,89 @@ Los agentes, funcionarios y empleados de las instituciones de fianzas, no propor
 
 ### CAPITULO V. Revocación y liquidación
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 92.
 
 A fin de conocer el pasivo de las instituciones de fianzas, a que se refiere el artículo 61 de esta Ley, se observarán las reglas siguientes:
 
-I.- Los beneficiarios de fianzas, cuando formulen reclamación judicial o extrajudicial en contra de una institución de fianzas enviarán copia a la Comisión Nacional Bancaria y de Seguros;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+I.- Los beneficiarios de fianzas, cuando formulen reclamación judicial o extrajudicial en contra de una institución de fianzas enviarán copia a la Comisión Nacional de Seguros y Fianzas;
 
 II.- Las autoridades, al dar entrada a una demanda en contra de instituciones de fianzas darán aviso a la misma Comisión;
 
-III.- Las instituciones de fianzas presentarán a la Comisión Nacional Bancaria y de Seguros, dentro de los plazos que la misma señale, manifestaciones de las reclamaciones judiciales o extrajudiciales que reciban, indicando si han sido pagadas o los motivos de oposición de la institución, las garantías que correspondan y demás datos pertinentes.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+III.- Las instituciones de fianzas presentarán a la Comisión Nacional de Seguros y Fianzas, dentro de los plazos que la misma señale, manifestaciones de las reclamaciones judiciales o extrajudiciales que reciban, indicando si han sido pagadas o los motivos de oposición de la institución, las garantías que correspondan y demás datos pertinentes.
 
 En vista de estos informes y de los que por otros medios obtenga la Comisión, la misma resolverá, oyendo a la institución interesada, sobre si debe registrar pasivo por la responsabilidad a su cargo.
 
-> <small>(F. DE E., D.O.F. 18 DE ENERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 93.
 
-Antes de iniciar juicio contra una institución de fianzas, el beneficiario deberá requerirla por oficio o escrito directo o dirigido a sus oficinas principales o sucursales para que cumpla sus obligaciones como fiadora. La institución dispondrá de un plazo de sesenta días hábiles para hacer el pago, si es que procede.
+Los beneficiarios de fianzas, a su elección, podrán presentar sus reclamaciones ante la Comisión Nacional de Seguros y Fianzas, o hacer valer sus derechos ante los tribunales competentes. Las instituciones de fianzas estarán obligadas, en su caso, a someterse al procedimiento de conciliación a que se refiere el artículo siguiente.
+
+En el caso de que las reclamaciones se presenten ante la citada Comisión, se harán por escrito y ésta conciliará y, en su caso, resolverá las diferencias que se susciten entre las instituciones de fianzas y los beneficiarios de las fianzas expedidas por aquéllas. La sola presentación de la reclamación que se prevé en este artículo interrumpe la prescripción.
+
+Cuando los beneficiarios de fianzas opten por hacer valer sus derechos en contra de una institución de fianzas, ante los tribunales competentes, deberán requerirla por oficio o escrito directo dirigido a sus oficinas principales, sucursales u oficinas de servicio para que cumpla sus obligaciones como fiadora. La institución dispondrá de un plazo de 30 días hábiles para hacer el pago, si es que procede.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 93 Bis.
+
+Las reclamaciones que formulen los beneficiarios de fianzas ante la Comisión Nacional de Seguros y Fianzas, se ajustarán a las bases siguientes:
+
+I.- Del escrito señalado en el artículo anterior, la Comisión Nacional de Seguros y Fianzas, le correrá traslado a la institución de fianzas de que se trate.
+
+a).- La Comisión citará a las partes a una junta de avenencia, que se realizará en un plazo no inferior a treinta días hábiles contado a partir de la fecha en que la institución de fianzas reciba el traslado; si por cualquier circunstancia la junta no puede celebrarse en la fecha indicada, se verificará dentro de los ocho días siguientes.
+
+En la junta a que se refiere el párrafo anterior, la institución efectuará el pago de la reclamación, si es que procede, o en su defecto presentará un informe, detallado de cada uno de los hechos de la reclamación, lo cual hará por conducto de un representante legítimo.
+
+Si no comparece el reclamante, se entenderá que no desea la conciliación y que es su voluntad no someter sus diferencias al arbitraje de la Comisión. Si no comparece la institución de fianzas, se aplicarán las sanciones previstas en la fracción VI de este artículo. Sin embargo, en la audiencia relativa, la institución de que se trate, podrá argumentar la imposibilidad de conciliar y su voluntad de no someter sus diferencias al arbitraje.
+
+b).- En la junta de avenencia se exhortará a las partes y al fiado a conciliar sus intereses, y si esto no fuere posible, la Comisión los invitará a que voluntariamente y de común acuerdo la designen árbitro, sea en amigable composición o en juicio arbitral de estricto derecho, a elección de las mismas. El compromiso correspondiente se hará constar en acta que al efecto se levante ante la citada Comisión.
+
+c).- Las Delegaciones Regionales de la Comisión tramitarán el procedimiento conciliatorio y, en su caso, el procedimiento arbitral escogido por las partes.
+
+II.- En el juicio arbitral en amigable composición, de manera breve y concisa se fijarán las cuestiones que deberán ser objeto del arbitraje.
+
+La Comisión resolverá en conciencia y a buena fe guardada, sin sujeción a formalidades especiales pero observando las esenciales del procedimiento. No habrá incidentes y la resolución sólo admitirá aclaración de la misma, a instancia de parte, presentada dentro de los tres días siguientes al de la notificación.
+
+III.- El juicio arbitral de estricto derecho se apegará al procedimiento que convencionalmente determinen las partes en acta ante la Comisión, fijando las reglas para tal efecto; aplicándose supletoriamente el Código de Comercio, con excepción de sus artículos 1235 y 1296; a falta de disposición de dicho Código, el Código de Procedimientos Civiles para el Distrito Federal, salvo lo dispuesto por el artículo 617.
+
+Las notificaciones relativas al traslado de la reclamación, a la citación a la junta de avenencia, de la demanda y del laudo, deberán hacerse personalmente o por correo certificado con acuse de recibo y surtirán efecto al día siguiente de la notificación.
+
+Con independencia de lo anterior, en el compromiso arbitral de estricto derecho regirán los siguientes términos:
+
+a).- Nueve días tanto para la presentación de la demanda, a partir del día siguiente de la celebración del compromiso, así como para producir la contestación a partir del día siguiente del emplazamiento a juicio.
+
+b).- La Comisión dentro de los nueve días siguientes al vencimiento del último plazo señalado en el inciso anterior, dictará acuerdo fijando el término que crea suficiente para el ofrecimiento, admisión, recepción y desahogo de las pruebas, no pudiendo exceder de cuarenta días.
+
+c).- Diez días comunes a las partes para formular alegatos.
+
+d).- Tres días para los demás casos.
+
+Los términos serán improrrogables y se computarán en días hábiles y las notificaciones que no sean personales se harán a las partes por medio de lista que se fijará en los estrados de la Comisión o de la Delegación Regional correspondiente, y empezarán a surtir sus efectos al día siguiente de que sean fijadas.
+
+Una vez concluidos los términos fijados a las partes, sin necesidad de que se acuse rebeldía, seguirá el procedimiento su curso y se tendrá por perdido el derecho que, dentro de ellos, debió ejercitarse;
+
+IV.- La Comisión tendrá la facultad de allegarse todos los elementos de juicio que estime necesarios para resolver las cuestiones que se le hayan sometido en arbitraje y las autoridades administrativas, así como los tribunales deberán auxiliarle, en la esfera de su competencia. Para tales efectos, podrá valerse de cualquier persona, sea parte o tercero, y de cualquier cosa o documento, ya sea que pertenezca a las partes o a un tercero, sin más limitaciones que la de que las pruebas no estén prohibidas por la ley ni sean contrarias a la moral;
+
+V.- El laudo que se dicte sólo admitirá como medio de defensa, el juicio de amparo;
+
+Todas las demás resoluciones en el juicio arbitral de estricto derecho, admitirán como único recurso el de revocación;
+
+VI.- El incumplimiento por parte de la institución de fianzas a los acuerdos y resoluciones dictados por la Comisión, en los procedimientos establecidos en el presente artículo, se castigará con multa administrativa que impondrá la Comisión Nacional de Seguros y Fianzas, de 50 a 100 veces el salario mínimo diario vigente en el Distrito Federal;
+
+VII.- El laudo que condene a una institución de fianzas, le otorgará para su cumplimiento un plazo de 15 días hábiles siguientes a su notificación; si no lo efectuare, la Comisión Nacional de Seguros y Fianzas, impondrá a la empresa una multa hasta por el importe de lo condenado, sin perjuicio de lo previsto en la fracción siguiente;
+
+VIII.- Corresponde a la Comisión Nacional de Seguros y Fianzas la ejecución del laudo que se pronuncie, para lo cual le concederá a la institución de que se trate, un plazo de cinco días para que lo cumpla y, en caso de que no compruebe haberlo cumplimentado, la propia Comisión ordenará el remate en bolsa de valores propiedad de la institución y pondrá la cantidad que corresponda a disposición del reclamante, y
+
+IX.- Si alguna de las partes no estuviere de acuerdo en designar árbitro a la Comisión, el reclamante podrá ocurrir desde luego ante los tribunales competentes, sujetándose en su caso a lo dispuesto por el artículo 94 de la Ley Federal de Instituciones de Fianzas.
+
+Igualmente, a solicitud de la institución de fianzas, la Comisión Nacional de Seguros y Fianzas le girará oficio al fiado para que dentro del término que le señale en atención al interés jurídico que le corresponde, exprese personalmente o mediante escrito dirigido a la propia Comisión lo que a sus intereses convenga, en atención y para los efectos de lo dispuesto por el artículo 118 bis de esta Ley, así como su interés o no de asistir a la junta de avenencia y, en su caso, de ser necesario a designar árbitro al citado Organismo, de conformidad con lo señalado en este artículo.
 
 ###### ARTICULO 94.
 
@@ -1259,85 +1497,77 @@ II.- Se concederá un término ordinario de prueba por diez días, transcurrido 
 
 III.- El Tribunal o juez dictará sentencia en el plazo de cinco días;
 
-IV.- Contra las sentencias dictadas en los juicios a que se refiere este artículo, procederá el recurso de apelación en el efecto devolutivo. Contra las demás resoluciones procederán los recursos que establece el Código Federal de Procedimientos Civiles, y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-V.- Las sentencias y mandamientos de embargo dictados en contra de las instituciones de fianzas, se ejecutarán exclusivamente por conducto de la Secretaría de Hacienda y Crédito Público, conforme a las siguientes reglas:
+IV.- Contra las sentencias dictadas en los juicios a que se refiere este artículo, procederá el recurso de apelación en ambos efectos. Contra las demás resoluciones, procederán los recursos que establece el Código Federal de Procedimientos Civiles;
 
-> <small>(F. DE E., D.O.F. 18 DE ENERO DE 1951)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-a).- Tratándose de sentencia que condene a pagar a la institución, la Secretaría de Hacienda y Crédito Público, dentro de los diez días siguientes al recibo de la ejecutoria, la requerirá para que la cumpla. Si dentro de las setenta y dos horas siguientes la institución no comprueba haberlo hecho, la Secretaría de Hacienda y Crédito Público ordenará el remate en bolsa de valores propiedad de la institución, y pondrá la cantidad que corresponda a disposición de la autoridad que conozca el juicio.
+V.- Las sentencias y mandamientos de embargo dictados en contra de las instituciones de fianzas, se ejecutarán exclusivamente por conducto de la Comisión Nacional de Seguros y Fianzas, conforme a las siguientes reglas:
 
-> <small>(F. DE E., D.O.F. 18 DE ENERO DE 1951)</small>
+a).- Tratándose de sentencia que condene a pagar a la institución, la Comisión Nacional de Seguros y Fianzas, dentro de los diez días siguientes al recibo de la ejecutoria, la requerirá para que cumpla. Si dentro de las setenta y dos horas siguientes la institución no comprueba haberlo hecho, la Comisión Nacional de Seguros y Fianzas ordenará el remate en bolsa, de valores propiedad de la institución y pondrá la cantidad que corresponda a disposición de la autoridad que conozca el juicio.
 
-b).- Tratándose de mandamientos de embargo dictados por la autoridad judicial o administrativa, la Secretaría de Hacienda y Crédito Público determinará los bienes de la institución de fianzas que deban afectarse en garantía exclusiva del cumplimiento de las obligaciones por las que se ordenó el embargo. La misma Secretaría dictará las reglas sobre depósito de dichos bienes.
+b).- Tratándose de mandamientos de embargo dictados por la autoridad judicial o administrativa, la Comisión Nacional de Seguros y Fianzas determinará los bienes de la institución que deban afectarse en garantía exclusiva del cumplimiento de las obligaciones por las que se ordenó el embargo. La misma Comisión dictará las reglas sobre el depósito de dichos bienes;
 
-VI.- El Código Federal de Procedimientos Civiles es supletorio de las reglas procesales contenidas en este artículo.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+VI.- El Código Federal de Procedimientos Civiles es supletorio de las reglas procesales contenidas en este artículo y son aplicables al juicio todas las instituciones procesales que establece el propio Código;
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1953)</small>
 
 VII.- Los particulares podrán elegir libremente jueces federales o locales para el trámite de su reclamación.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-VIII.- Las disposiciones de este artículo y del anterior, sólo serán aplicables a las fianzas otorgadas a favor de particulares.
+VIII.- Las disposiciones de este artículo y de los artículos 93 y 93 bis, sólo serán aplicables a las fianzas otorgadas a favor de los particulares.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE FEBRERO DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 95.
 
-Las fianzas que las instituciones otorguen a favor de la Federación, del Distrito Federal, de los Estados y de los Municipios, se harán efectivas conforme a las reglas que a continuación se señalan, excepto las que se otorguen a favor de la Federación para garantizar obligaciones fiscales a cargo de terceros, caso en que se estará a lo dispuesto por el Código Fiscal de la Federación:
+Las fianzas que las instituciones otorguen a favor de la Federación, del Distrito Federal, de los Estados y de los Municipios, se harán efectivas de acuerdo con las disposiciones que a continuación se señalan y de conformidad con las bases que fije el Reglamento de este artículo, excepto las que se otorguen a favor de la Federación para garantizar obligaciones fiscales a cargo de terceros, caso en que se estará a lo dispuesto por el Código Fiscal de la Federación:
 
-(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1953)(F. DE E., D.O.F. 19 DE MARZO DE 1954)
+I.- Las instituciones de fianzas estarán obligadas a enviar según sea el caso, a la Tesorería de la Federación, a la Tesorería el Departamento del Distrito Federal, o bien a las autoridades estatales o municipales que correspondan, una copia de todas las pólizas de fianzas que expidan a su favor;
 
-I.- Al hacerse exigible una fianza a favor de la Federación, la autoridad que la hubiere aceptado, deberá comunicarlo a la dependencia especializada de la Tesorería de la Federación, acompañando la documentación relativa a la fianza y a la obligación por ella garantizada.
+II.- Al hacerse exigible una fianza a favor de la Federación, la autoridad que la hubiere aceptado, con domicilio en el Distrito Federal o bien en alguna de las entidades federativas, acompañando la documentación relativa a la fianza y a la obligación por ella garantizada deberá comunicarlo a la autoridad ejecutora más próxima a la ubicación donde se encuentren instaladas las oficinas principales, sucursales, oficinas de servicio o bien a la del domicilio del apoderado designado por la institución fiadora para recibir requerimientos de pago, correspondientes a cada una de las regiones competencia de las Salas Regionales del Tribunal Fiscal de la Federación.
 
-Las instituciones de fianzas estarán obligadas a enviar a la Tesorería de la Federación, una copia de todas las pólizas de las fianzas que expidan a favor de la Federación. El incumplimiento de esta obligación se sancionará en los términos del artículo 110 de esta ley.
+La autoridad ejecutora facultada para ello en los términos de las disposiciones que le resulten aplicables, procederá a requerir de pago, en forma personal, o bien por correo certificado con acuse de recibo, a la institución fiadora, de manera motivada y fundada, acompañando los documentos que justifiquen la exigibilidad de la obligación garantizada por la fianza, en los establecimientos o en el domicilio del apoderado designado, en los términos a que se hace cita en el párrafo anterior.
 
-La Tesorería de la Federación procederá a requerir de pago, en forma personal, a la institución deudora en zona matriz o en sus sucursales cuando en dicha matriz se encuentre fuera del Distrito Federal, debiendo hacerse el requerimiento de manera motivada y fundada y acompañado de los documentos que justifiquen la exigibilidad del crédito.
+Tratándose del Distrito Federal, de los Estados y de los Municipios, el requerimiento de pago, lo llevarán a cabo en los términos anteriores, las autoridades ejecutoras correspondientes.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+En consecuencia, no surtirán efecto los requerimientos que se hagan a los agentes de fianzas, ni los efectuados por autoridades distintas de las ejecutoras facultadas para ello;
 
-Tratándose del Distrito Federal, de los Estados y de los municipios, el requerimiento de pago, que se hará en los términos anteriores, lo llevarán a cabo las tesorerías locales correspondientes, y podrá hacerse mediante oficio con acuse de recibo.
+III.- En el mismo requerimiento de pago se apercibirá a la institución fiadora, de que si dentro del plazo de treinta días naturales, contado a partir de la fecha en que dicho requerimiento se realice, no hace el pago de las cantidades que se le reclaman, se le rematarán valores en los términos de este artículo;
 
-> <small>(F. DE E., D.O.F. 19 DE MARZO DE 1954)</small>
+IV.- Dentro del plazo de treinta días naturales señalado en el requerimiento, la institución fiadora deberá comprobar, ante la autoridad ejecutora correspondiente, que hizo el pago o que cumplió con el requisito de la regla V. En caso contrario, al día siguiente de vencido dicho plazo, la autoridad ejecutora de que se trate, solicitará a la dependencia especializada de la Secretaría de Hacienda y Crédito Público, que ordene a la institución u organismo del sector público que corresponda se rematen en bolsa, valores propiedad de la afianzadora, bastantes para cubrir el importe de lo reclamado;
 
-En consecuencia, no surtirán efecto los requerimientos que se hagan a los agentes de las instituciones, y los hechos por autoridades distintas de las tesorerías competentes de acuerdo con las disposiciones de este artículo.
+V.- En caso de inconformidad contra el requerimiento de pago, la institución de fianzas dentro del plazo de 30 días naturales, señalado en la fracción III de este artículo, demandará la improcedencia del cobro ante la Sala Regional del Tribunal Fiscal de la Federación de la jurisdicción que corresponda a la ubicación de los establecimientos o la del apoderado designado, a que se hace cita en la fracción II, primer párrafo de este artículo, donde se hubiere formulado el citado requerimiento, debiendo la autoridad ejecutora, suspender el procedimiento de ejecución cuando se compruebe que se ha presentado oportunamente la demanda respectiva, exhibiéndose al efecto copia sellada de la misma;
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+VI.- El procedimiento de ejecución solamente terminará por una de las siguientes causas:
 
-II.- En el mismo requerimiento de pago, se apercibirá a la institución de fianzas deudora, de que si dentro del plazo de treinta días naturales, contados a partir de la fecha en que dicho requerimiento se realice, no hace el pago de las cantidades que se le reclamen, se rematarán valores en los términos de este artículo.
+a).- Por pago voluntario;
 
-> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+b).- Por haberse hecho efectivo el cobro en ejecución forzosa;
 
-III.- La Tesorería de la Federación, las tesorerías del Distrito Federal, o de los Estados o municipios, deberán remitir a la Dirección de Crédito de la Secretaría de Hacienda y Crédito Público, copia autógrafa del requerimiento, en la que conste la fecha en que fue recibido por la institución fiadora;
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
-
-IV.- Dentro del plazo de treinta días naturales señalado en el requerimiento, la institución de fianzas deudora deberá comprobar, ante la Secretaría de Hacienda y Crédito Público, que hizo el pago o que cumplió con el requisito de la regla V. En caso contrario, al día siguiente de vencido dicho plazo, la misma Secretaría ordenará a la institución u organismo del sector público que corresponda, se rematen en bolsa, valores propiedad de la institución de fianzas, bastantes a cubrir el importe de lo reclamado.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1953)</small>
-
-V.- El procedimiento de ejecución de que habla este artículo, se suspenderá cuando se compruebe que se ha presentado la demanda de que habla el artículo siguiente, exhibiéndose al efecto, copia sellada de la misma.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1953)</small>
-
-VI.- El procedimiento de ejecución, solamente terminará por una de las siguientes causas:
-
-a).- Por pago voluntario.
-
-b).- Por haberse hecho efectivo el cobro en ejecución forzosa.
-
-c).- Por sentencia firme del Tribunal Fiscal de la Federación, que declare la improcedencia del cobro.
+c).- Por sentencia firme del Tribunal Fiscal de la Federación, que declare la improcedencia del cobro;
 
 d).- Porque la autoridad que hubiere hecho el requerimiento se desistiere del cobro.
 
-Los oficios de desistimiento de cobro, necesariamente deberán suscribirlos los Tesoreros de las entidades respectivas.
+Los oficios de desistimiento de cobro, necesariamente deberán suscribirlos los funcionarios facultados o autorizados para ello.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 95 Bis.
 
-En caso de inconformidad contra el requerimiento, las instituciones de fianzas, dentro del término de treinta días naturales, señalado en el artículo anterior, demandarán ante el Tribunal Fiscal de la Federación, la improcedencia del cobro.
+En los procedimientos y en los juicios que conforme a los artículos 93 bis, 94 y 95 de esta Ley, se dicte resolución en contra de las instituciones de fianzas, éstas estarán obligadas, sin que medie mandamiento judicial alguno e independientemente del monto reclamado, a cubrir al beneficiario de la fianza un interés que se calculará aplicando la tasa anual equivalente al resultado de multiplicar por 1.15 la estimación del costo porcentual promedio de captación de las instituciones de crédito del país, que el Banco de México publica periódicamente en el Diario Oficial de la Federación, correspondiente al mes inmediato anterior a aquél en que los propios intereses se devenguen.
+
+Dichos intereses se calcularán sobre la cantidad reclamada a partir de que venzan los plazos señalados en el tercer párrafo del artículo 93 o en la fracción III del artículo 95, según corresponda, y hasta la fecha en que efectivamente se haga el pago al beneficiario.
+
+El pago de la cantidad reclamada con sus intereses deberá efectuarse dentro de los 15 días hábiles siguientes a la notificación de la resolución dictada en contra de la institución de fianzas.
+
+Si la institución de fianzas no efectúa dicho pago, dentro de los 15 días hábiles siguientes a que venza el plazo citado en el párrafo anterior, cubrirá, además, una multa equivalente a la suma que deba pagar al beneficiario. En caso contrario se estará a lo señalado en la fracción XI del artículo 105 de esta Ley.
+
+Cuando sea procedente, las instituciones de fianzas promoverán ante los fiados y demás obligados, el reembolso de los intereses que hubiesen cubierto conforme al presente artículo.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -1347,7 +1577,9 @@ El documento que consigne la obligación del solicitante, fiado, contrafiador u 
 
 Igualmente, dicho documento y la mencionada copia, traerán aparejada ejecución para el cobro de las primas vencidas y no pagadas, con la certificación del contador de la institución respecto a la existencia del adeudo.
 
-La firma del contador deberá registrarse a solicitud de la institución de fianzas en la Comisión Nacional Bancaria y de Seguros. Dicha firma se comprobará con la publicación que aparezca en el Diario Oficial de la Federación, ordenada por la propia Comisión a costa de la institución interesada.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+La firma del contador deberá registrarse a solicitud de la institución de fianzas en la Comisión Nacional de Seguros y Fianzas. Dicha firma se comprobará con la publicación que aparezca en el Diario Oficial de la Federación, ordenada por la propia Comisión a costa de la institución interesada.
 
 ###### ARTICULO 97.
 
@@ -1395,49 +1627,83 @@ En ningún caso se requerirá el reconocimiento judicial de las firmas contenida
 
 ### CAPITULO VI. Infracciones y delitos
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 104.
 
-Cuando la Comisión Nacional Bancaria y de Seguros advierta que el estado patrimonial o las operaciones de una institución de fianzas, afecten su estabilidad económica, lo hará del conocimiento de la Secretaría de Hacienda y Crédito Publico, la cual concederá a la sociedad un plazo de quince días a partir de la fecha de la notificación, para que ésta exponga lo que a su derecho convenga. Si la Secretaría de Hacienda y Crédito Público, juzga que ha quedado comprobado que el estado patrimonial o las operaciones de la institución, afectan su estabilidad económica, fijará un plazo que no será menor de sesenta días para que proceda a su regularización, notificándola para este efecto.
+Cuando la Comisión Nacional de Seguros y Fianzas advierta que el estado patrimonial o las operaciones de una institución de fianzas, afecten su estabilidad económica, lo hará del conocimiento de la Secretaría de Hacienda y Crédito Público, la cual concederá a la sociedad un plazo de quince días a partir de la fecha de la notificación, para que ésta exponga lo que a su derecho convenga. Si la Secretaría de Hacienda y Crédito Público, juzga que ha quedado comprobado que el estado patrimonial o las operaciones de la institución, afectan su estabilidad económica, fijará un plazo que no será menor de sesenta días para que proceda a su regularización, notificándola para este efecto.
 
-Si transcurrido el lapso a que se refiere el párrafo anterior no se hubiere logrado la regularización de la sociedad, la Secretaría de Hacienda y Crédito Público, en protección del interés público, podrá revocar la concesión respectiva o declarar que las acciones representativas del capital social pasan de pleno derecho a propiedad de la Nación; en este último caso, la propia Secretaría procederá a la regularización de la sociedad, y si hubieren existido pérdidas que afecten a su capital pagado, la misma Secretaría procederá a la integración de dicho capital mediante la emisión y el pago de nuevas acciones las cuales podrá discrecionalmente colocar en el mercado. La resolución que adopte la Secretaría de Hacienda y Crédito Público, deberá notificarse a la sociedad interesada, publicarse en el Diario Oficial de la Federación y en dos periódicos diarios de amplia circulación en el país.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-Los tenedores de las acciones que hayan pasado al dominio de la Nación, solamente tendrán derecho a recibir de la Secretaría de Hacienda y Crédito Público, contra la entrega de los títulos, el valor que se determine contablemente en el momento en que pasaron al dominio de la Nación. Si la pérdida del capital pagado hubiere sido total, dichos títulos carecerán de valor y derecho alguno y sus tenedores estarán obligados a entregarlos a la Secretaría de Hacienda y Crédito Público.
+Si transcurrido el lapso a que se refiere el párrafo anterior no se hubiere logrado la regularización de la sociedad, la Secretaría de Hacienda y Crédito Público, en protección del interés público, podrá dejar sin efectos la autorización respectiva o declarar que las acciones representativas del capital social pasan de pleno derecho a propiedad de la Nación; en este último caso, la propia Secretaría procederá a la regularización de la sociedad, y si hubieran existido pérdidas que afecten a su capital pagado, la misma Secretaría procederá a la integración de dicho capital mediante la emisión y el pago de nuevas acciones las cuales podrá discrecionalmente colocar en el mercado. La resolución que adopte la Secretaría de Hacienda y Crédito Público, deberá notificarse a la sociedad interesada, publicarse en el Diario Oficial de la Federación y en dos periódicos diarios de amplia circulación en el país.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
+Los tenedores de las acciones que hayan pasado al dominio de la Nación, solamente tendrán derecho a recibir de la Secretaría de Hacienda y Crédito Público, contra la entrega de los títulos, el valor que se determine contablemente en el momento en que pasaron al dominio de la Nación. Si la pérdida del capital pagado hubiere sido total, dichos títulos carecerán de valor y derecho alguno y sus tenedores estarán obligados a entregarlos a la Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 105.
 
-La Secretaría de Hacienda y Crédito Público, oyendo a la Comisión Nacional Bancaria y de Seguros, y a la institución afectada, podrá declarar la revocación de la concesión en los siguientes casos:
+La Secretaría de Hacienda y Crédito Público, oyendo a la institución afectada, podrá dejar sin efectos la autorización para operar como institución de fianzas en los siguientes casos:
 
-I.- Si la sociedad respectiva no presenta para la aprobación de la Secretaría de Hacienda y Crédito Público el testimonio de la escritura constitutiva o para la aprobación de la Comisión Nacional Bancaria y de Seguros los documentos a que se refiere el artículo 85 de esta Ley, dentro del término de tres meses de otorgada la concesión, o si no inicia sus operaciones dentro del plazo de tres meses a partir de la aprobación de la escritura y documentos de que se trata, o si al otorgarse la aprobación de la escritura constitutiva, no estuviere suscrito y pagado el capital que determine la Secretaría de Hacienda y Crédito Público al otorgar la concesión;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+I.- Si la sociedad respectiva no presenta para la aprobación de la Secretaría de Hacienda y Crédito Público el testimonio de la escritura constitutiva o para la revisión de la Comisión Nacional de Seguros y Fianzas los documentos a que se refiere el artículo 85 de esta Ley, dentro del término de tres meses de otorgada la autorización, o si no inicia sus operaciones dentro del plazo de tres meses a partir de la aprobación de la escritura y documentos de que se trata, o si al otorgarse la aprobación de la escritura constitutiva, no estuviere suscrito y pagado el capital que determine la Secretaría de Hacienda y Crédito Público al otorgar la autorización;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 II.- Si no mantiene el capital mínimo pagado o el capital mínimo base de operaciones o las reservas, en los términos de esta Ley, o si presenta pérdidas que afecten a su capital pagado, sin perjuicio de los plazos a que se refieren los artículos 15, fracción II y 104 de esta misma Ley;
 
-III.- Si se infringe lo establecido en el último párrafo del artículo 15 de esta Ley, o si la institución establece con las entidades o grupos mencionados en dicho párrafo, relaciones evidentes de dependencia;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+III.- Si se infringe lo establecido en la fracción XIII del artículo 15 de esta Ley, o si la institución establece con las entidades o grupos mencionados en dicho párrafo, relaciones evidentes de dependencia;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 IV.- Si la institución hiciera gestiones por conducto de una cancillería extranjera;
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+
 V.- Otorgar fianzas en contravención a lo dispuesto por esta Ley;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 VI.- Especular con los bienes recibidos en garantía de fianzas otorgadas;
 
-VII.- Celebrar operaciones de reafianzamiento o reaseguro con instituciones no autorizadas, sin cumplir los requisitos de esta Ley;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-VIII.- Si reiteradamente, a pesar de las observaciones de la Comisión Nacional Bancaria y de Seguros, la institución excede los límites de las responsabilidades que pueda contraer, ejecuta operaciones distintas de las permitidas por la concesión y por la Ley o no mantiene las proporciones del activo establecidas en esta Ley; o bien, si a juicio de la Secretaría de Hacienda y crédito Público, no cumple adecuadamente con las funciones para las que fue concesionada, por mantener una situación de escaso incremento en la emisión de primas, o de falta de diversificación en las responsabilidades que asuma, de acuerdo con sanas prácticas;
+VII.- Celebrar operaciones de reafianzamiento, coafianzamiento o reaseguro, con entidades que no cumplan con los requisitos de esta Ley;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+VIII.- Si reiteradamente, a pesar de las observaciones de la Comisión Nacional de Seguros y Fianzas, la institución excede los límites de las responsabilidades que pueda contraer, ejecuta operaciones distintas de las permitidas por la autorización y por la Ley o no mantiene las proporciones del activo establecidas en esta Ley; o bien, si a juicio de la Secretaría de Hacienda y Crédito Público, no cumple adecuadamente con las funciones para las que fue autorizada, por mantener una situación de escaso incremento en la emisión de primas, o de falta de diversificación en las responsabilidades que asuma, de acuerdo con sanas prácticas;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 IX.- Cuando por causas imputables a la institución no aparezca debida y oportunamente registradas en su contabilidad las operaciones que haya efectuado;
 
-X.- Si la institución obra sin consentimiento de la Secretaría de Hacienda y Crédito Público o de la Comisión Nacional Bancaria y de Seguros, en los casos en que la ley exija ese consentimiento;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-XI.- Si reiteradamente realiza actos que signifiquen una resistencia indebida para cumplir las obligaciones derivadas de sus fianzas;
+X.- Si la institución obra sin consentimiento de la Secretaría de Hacienda y Crédito Público o de la Comisión Nacional de Seguros y Fianzas, en los casos en que la ley exija ese consentimiento;
 
-XII.- No cumplir en el término de setenta y dos horas las resoluciones de la Comisión Nacional Bancaria y de Seguros que les ordene registrar pasivo en los casos del artículo 61 de esta Ley;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-XIII.- Si se disuelve, quiebra o entra en estado de liquidación, salvo que el procedimiento respectivo termine por rehabilitación y la Comisión Nacional Bancaria y de Seguros opine favorablemente a que continúe con la concesión, y
+XI.- Si no cubre dentro de los 60 días naturales siguientes a la resolución en su contra tanto la cantidad a favor del beneficiario, como los intereses y multas a que se refiere el artículo 95 bis de esta misma Ley, o bien si reiteradamente realiza actos que signifiquen una resistencia indebida para cumplir las obligaciones derivadas de sus fianzas;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+XII.- No cumplir en el término de setenta y dos horas las resoluciones de la Comisión Nacional de Seguros y Fianzas que les ordene registrar pasivo en los casos del artículo 61 de esta Ley;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+XIII.- Si se disuelve, quiebra o entra en estado de liquidación, salvo que el procedimiento respectivo termine por rehabilitación y la Comisión Nacional de Seguros y Fianzas opine favorablemente a que continúe con la concesión, y
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 XIV.- En cualquier otro establecido por la Ley.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 La declaración de revocación se inscribirá en el Registro Publico de la Propiedad y de Comercio previa orden de la Secretaría de Hacienda y Crédito Público; incapacitará a la sociedad para otorgar fianzas a partir de la fecha en que se notifique la revocación; y, pondrá en estado de liquidación a la sociedad que hubiere dado principio a sus operaciones. La liquidación se practicará de conformidad con lo establecido en este Capítulo, salvo cuando la causa de revocación sea precisamente que la institución entre en estado de liquidación.
 
@@ -1499,11 +1765,11 @@ La liquidación voluntaria de las instituciones de fianzas, se practicará con a
 
 Durante el procedimiento de liquidación, las instituciones de fianzas quedarán sujetas a la inspección y vigilancia de la Secretaría de Hacienda y Crédito Público que cuidará de que, en la liquidación voluntaria, se cumplan en lo relativo, las disposiciones aplicables de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 109 Bis.
 
-La Secretaría de Hacienda y Crédito Público podrá ejercer las atribuciones que le asignan esta Ley y demás ordenamientos legales, respecto a la inspección, vigilancia, intervención, quiebra o suspensión de pagos de las instituciones de fianzas, por conducto de la Comisión Nacional Bancaria y de Seguros, sin perjuicio de que la misma Secretaría ejerza directamente dichas atribuciones.
+La Secretaría de Hacienda y Crédito Público podrá ejercer las atribuciones que le asignan esta Ley y demás ordenamientos legales, respecto a la inspección, vigilancia, intervención, quiebra o suspensión de pagos de las instituciones de fianzas, por conducto de la Comisión Nacional de Seguros y Fianzas, sin perjuicio de que la misma Secretaría ejerza directamente dichas atribuciones.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -1513,23 +1779,39 @@ La Secretaría de Hacienda y Crédito Público podrá ejercer las atribuciones q
 
 ###### ARTICULO 110.
 
-Las multas correspondientes a sanciones por las infracciones previstas en esta ley, serán impuestas administrativamente por la Secretaría de Hacienda y Crédito Público a razón de días de salario, a menos que en la propia Ley se disponga otra forma de sanción. Para calcular el importe de las multas a que se refiere el artículo siguiente se tendrá como base el salario mínimo general vigente en el Distrito Federal al momento de cometerse la infracción.
+Las multas correspondientes a sanciones por las infracciones previstas en esta Ley, serán impuestas administrativamente por la Comisión Nacional de Seguros y Fianzas tomando como base el salario mínimo general vigente en el Distrito Federal al momento de cometerse la infracción, a menos que en la propia Ley se disponga otra forma de sanción y se harán efectivas por la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+Al imponer la sanción que corresponda, la citada Comisión siempre deberá oír previamente al interesado y tomará en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de evitar prácticas tendientes a contravenir las disposiciones de esta Ley.
+
+Los afectados podrán ocurrir por escrito ante la Comisión Nacional de Seguros y Fianzas en defensa de sus intereses dentro de los quince días hábiles siguientes a la fecha en que se les notifique la sanción correspondiente, acompañando las pruebas pertinentes e idóneas a efecto de que la propia Comisión resuelva lo conducente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 111.
 
-Las sanciones correspondientes a las infracciones previstas en esta Ley se sancionarán administrativamente por la Secretaría de Hacienda y Crédito Público de acuerdo a lo siguiente:
+Las sanciones correspondientes a las infracciones previstas en esta Ley se sancionarán administrativamente por la Comisión Nacional de Seguros y Fianzas de acuerdo a lo siguiente:
 
-I.- Multa de 1,000 a 5,000 días de salario, por violación al primer párrafo del artículo 10 de esta Ley. En este caso la Secretaría de Hacienda y Crédito Público la impondrá al propietario y a cada uno de los administradores o miembros del consejo de administración, directores o gerentes del establecimiento o de la sociedad, y además, será clausurada administrativamente la negociación respectiva, por la Comisión Nacional Bancaria y de Seguros hasta que el nombre, razón social o denominación sea cambiado;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+I.- Multa de 1,000 a 5,000 días de salario, por violación al primer párrafo del artículo 10 de esta Ley. En este caso la Comisión Nacional de Seguros y Fianzas la impondrá al propietario y a cada uno de los administradores o miembros del consejo de administración, directores o gerentes del establecimiento o de la sociedad y además, será clausurada administrativamente la negociación respectiva, por la propia Comisión hasta que el nombre, razón social o denominación sea cambiado;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 II.- Multa de 500 a 5,000 días de salario o la pérdida de su cargo, según la gravedad del caso, a los notarios, registradores o corredores que autoricen las escrituras o que inscriban actos en que se consigne alguna operación de las que esta Ley prohíbe expresamente, o para celebrar la cual no esté facultado alguno de los otorgantes;
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
 III.- Multa por el importe equivalente al 10% del valor de las acciones que excedan del porcentaje permitido o de las acciones con que se participe en la asamblea, según el caso, conforme valuación que de esas mismas acciones se haga en términos de la fracción III del artículo 62 de esta Ley, a las personas que infringiendo lo dispuesto en las fracciones II bis y III del artículo 15 de la misma Ley, lleguen a ser propietarias de acciones de una institución de fianzas o de una sociedad de las comprendidas en el inciso b) de la citada fracción III, en exceso de los porcentajes permitidos, así como las que al participar en asamblea incurran en falsedad al hacer las manifestaciones a que se refieren los inciso a) y b) de la fracción IV del señalado artículo 15.
 
-En este caso los infractores tendrán un plazo de tres meses contado a partir de la imposición de la referida multa para corregir tal situación, vencido el cual, si no lo han hecho, podrá imponérseles nueva sanción por tres tantos del importe de la multa anterior. La Secretaría de Hacienda y Crédito Público podrá seguir imponiendo multas sucesivas al infractor por tres tantos de la multa que antecede, cuantas veces, vencidos plazos iguales al señalado, deje de corregir la situación irregular;
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-IV.- Pérdida de la participación del capital de que se trate en favor del Gobierno Federal, cuando se viole lo dispuesto en el último párrafo del artículo 15 de esta Ley;
+En este caso los infractores tendrán un plazo de tres meses contados a partir de la imposición de la referida multa para corregir tal situación, vencido el cual, si no lo han hecho, podrán imponérseles nueva sanción por tres tantos del importe de la multa anterior. La Comisión Nacional de Seguros y Fianzas podrá seguir imponiendo multas sucesivas al infractor por tres tantos de la multa que antecede, cuantas veces, vencidos plazos iguales al señalado, deje de corregir la situación irregular;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+IV.- Pérdida de la participación del capital de que se trate en favor del Gobierno Federal, cuando se viole lo dispuesto en la fracción XIII del artículo 15 de esta Ley;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 V.- Multa por la violación por parte de las instituciones de fianzas, de las normas de la presente Ley conforme a lo siguiente:
 
@@ -1537,17 +1819,29 @@ a) Cuando las infracciones consistan en realizar operaciones prohibidas o en exc
 
 b) Cuando las infracciones no puedan determinarse conforme al párrafo anterior, se castigarán con multa hasta del 1% del capital pagado de la institución de fianzas;
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
 VI.- Multa de 25 a 5,000 días de salario, a la institución de fianzas, a sus empleados o a sus agentes, que en alguna forma ofrezcan o hagan descuentos o reducción de primas u otorguen algún otro beneficio no estipulado en la póliza, como aliciente para tomar o conservar un contrato de fianza;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 VII.- Multa de 250 a 2,500 días de salario, independientemente de las responsabilidades civiles o penales en que incurran, a los funcionarios o empleados de una institución de fianzas o a sus agentes, que proporcionen datos falsos, o detrimentos o adversos, respecto a las instituciones de fianzas o que en cualquier forma hicieren competencia desleal a las mismas;
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
 VIII.- Multa de 500 a 5,000 días de salario, independientemente de las responsabilidades civiles o penales en que incurran, a los auditores que oculten, omitan, o disimulen datos importantes en los informes y dictámenes a que se refiere el artículo 65 de esta Ley, o falseen los mismos;
 
-IX.- Multa de 20 a 500 días de salario, a las instituciones de fianzas o a sus agentes, por la propaganda o publicación que hagan en contravención a lo dispuesto por el artículo 81 de esta Ley;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+IX.- Multa de 100 a 1,000 días de salario, a las instituciones de fianzas o a sus agentes, por la propaganda o publicidad que hagan en contravención a lo dispuesto por el artículo 81 de esta Ley;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 X.- Multa de 100 a 1,000 días de salario, a la persona que como intermediario proponga, ajuste o concluya contrato de fianza sin ser agente conforme a esta Ley.
 
 A las instituciones de fianzas que celebren operaciones, con la intervención de personas que se ostenten como agentes de fianzas sin estar autorizados para actuar como tales, se les aplicará multa de 25 a 5,000 días de salario; y
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 XI.- Multa de 20 a 5,000 días de salario, si las disposiciones violadas de esta Ley, no tienen sanción especialmente señalada en este ordenamiento. Si se tratare de una institución de fianzas, la multa se impondrá tanto a dicha institución como a cada uno de los consejeros, comisarios, directores, administradores, funcionarios, apoderados, agentes o empleados que resulten autores o responsables de la infracción. La reincidencia podrá castigarse con multa hasta del doble de la precedente.
 
@@ -1555,13 +1849,11 @@ XI.- Multa de 20 a 5,000 días de salario, si las disposiciones violadas de esta
 
 (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1981)
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 112.
 
-Para proceder penalmente por los delitos previstos en los artículos 112 bis, 112 bis 1, 112 bis 2, 112 bis 3, 112 bis 4, 112 bis 5 y 112 bis 6 de esta Ley, será necesario que la Secretaría de Hacienda y Crédito Público formule petición, previa opinión de la Comisión Nacional Bancaria y de Seguros.
-
-Las multas previstas en los artículos 112 bis, 112 bis 1, 112 bis 3 y 112 bis 4 de esta Ley, se impondrán a razón de días de salario. Para calcular su importe se tendrá como base el salario mínimo general vigente en el Distrito Federal, al momento de realizarse la conducta sancionada.
+Para proceder penalmente por los delitos previstos en los artículos 112 bis, 112 bis 1, 112 bis 2, 112 bis 3, 112 bis 4, 112 bis 5 y 112 bis 6 de esta Ley, será necesario que la Secretaría de Hacienda y Crédito Público formule petición, previa opinión de la Comisión Nacional de Seguros y Fianzas.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -1577,7 +1869,9 @@ Se considerarán comprendidos dentro de los supuestos señalados en las dos frac
 
 Cuando todos los actos que concurran a la celebración del contrato, incluyendo los de intermediación, se hubieren efectuado fuera del territorio nacional, se considerará que el delito se comete por el solo hecho de registrar el pago de las primas en la contabilidad que dentro del territorio mexicano se lleve por el fiado, beneficario (sic) o por cualquier otro interesado en la misma, o bien, porque cualquiera de esas personas realice en México algún acto que signifique cumplimiento de obligaciones o deberes o ejercicio de derechos, derivados del contrato celebrado en el extranjero.
 
-La empresa o negociación que haya efectuado la operación u operaciones que prohibe el referido artículo 3o., será intervenida administrativamente por la Comisión Nacional Bancaria y de Seguros, hasta que la operación u operaciones ilícitas se liquiden.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+La empresa o negociación que haya efectuado la operación u operaciones que prohibe el referido artículo 3o., será intervenida administrativamente por la Comisión Nacional de Seguros y Fianzas, hasta que la operación u operaciones ilícitas se liquiden.
 
 (REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)(F. DE E., D.O.F. 15 DE FEBRERO DE 1985)
 
@@ -1605,7 +1899,9 @@ V.- Que incurran en la violación de cualquiera de las prohibiciones que estable
 
 VI.- Que otorguen fianzas a sabiendas de que la institución necesariamente habrá de pagarlas sin posibilidad de obtener recuperación, produciendo quebranto patrimonial a la institución de fianzas; y
 
-VII.- Que intencionalmente inscriban datos falsos en la contabilidad o que produzcan datos falsos de los documentos o informes que deban proporcionar a la Secretaría de Hacienda y Crédito Público, a la institución u organismo que ésta determine conforme al artículo 59 de esta Ley o a la Comisión Nacional Bancaria y de Seguros.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+VII.- Que intencionalmente inscriban datos falsos en la contabilidad o que produzcan datos falsos de los documentos o informes que deban proporcionar a la Secretaría de Hacienda y Crédito Público, a la institución u organismo que ésta determine conforme al artículo 59 de esta Ley o a la Comisión Nacional de Seguros y Fianzas.
 
 Las penas previstas en este artículo se aplicarán también, en su caso, a quienes a sabiendas hayan celebrado el negocio con la institución de fianzas, si se trata de personas físicas, o a quienes hayan representado a las sociedades participantes.
 
@@ -1671,7 +1967,9 @@ VI.- Que para liberar a un deudor, otorguen créditos a una o varias personas f�
 
 VII.- Que, a sabiendas, permitan a un deudor desviar el importe del préstamo en beneficio de terceros, reduciendo notoriamente su capacidad para pagar o responder por el importe del crédito y, como consecuencia de ello, resulte quebranto patrimonial a la institución de fianzas; y
 
-VIII.- Que, a sabiendas, presenten a la Comisión Nacional Bancaria y de Seguros datos falsos sobre la solvencia del deudor o sobre el valor de las garantías que protegen los créditos, imposibilitándola a adoptar las medidas necesarias para que se realicen los ajustes correspondientes en los registros de la institución respectiva.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+VIII.- Que, a sabiendas, presenten a la Comisión Nacional de Seguros y Fianzas datos falsos sobre la solvencia del deudor o sobre el valor de las garantías que protegen los créditos, imposibilitándola a adoptar las medidas necesarias para que se realicen los ajustes correspondientes en los registros de la institución respectiva.
 
 ## TITULO IV. Disposiciones varias
 
@@ -1697,23 +1995,27 @@ Hay coafianzamiento cuando dos o más instituciones otorgan fianzas ante un bene
 
 En el coafianzamiento no hay solidaridad pasiva, debiendo el beneficiario exigir la responsabilidad garantizada a todas las instituciones coafianzadoras y en la proporción de sus respectivos montos de garantía.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 117.
 
-Las instituciones de fianzas sólo asumirán obligaciones como fiadoras mediante el otorgamiento de pólizas numeradas y documentos adicionales a las mismas, tales como los de ampliación, disminución, prórroga, avisos de aceptación y otros documentos de modificación. Las pólizas contendrán:
+Las instituciones de fianzas sólo asumirán obligaciones como fiadoras, mediante el otorgamiento de pólizas numeradas y documentos adicionales a las mismas, tales como de ampliación, disminución, prórroga, y otros documentos de modificación, debiendo contener, en su caso, las indicaciones que administrativamente fijen la Secretaría de Hacienda y Crédito Público y la Comisión Nacional de Seguros y Fianzas.
 
-a).- El margen de operación que a la institución de fianzas hubiere fijado la Secretaría de Hacienda y Crédito Público, así como la fecha del "Diario Oficial" de la Federación en que se hubiere hecho la última publicación de ese margen.
-
-b).- Las indicaciones que administrativamente fije la Secretaría de Hacienda y Crédito Público.
-
-c).- Las estipulaciones que convengan las partes; pero que no podrán contravenir lo establecido por esta Ley ni en la legislación mercantil.
-
-El beneficiario, al ejercitar su derecho, deberá comprobar por escrito que la póliza fué otorgada.
+El beneficiario, al ejercitar su derecho deberá comprobar por escrito que la póliza fue otorgada.
 
 La devolución de una póliza a la institución que la otorgó, establece a su favor la presunción de que su obligación como fiadora se ha extinguido, salvo prueba en contrario.
 
 ###### ARTICULO 118.
 
 Las instituciones de fianzas no gozan de los beneficios de orden y excusión y sus fianzas no se extinguirán aún cuando el acreedor no requiera judicialmente al deudor por el cumplimiento de la obligación principal. Tampoco se extinguirá la fianza cuando el acreedor, sin causa justificada, deje de promover en el juicio entablado contra el deudor.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 118 Bis.
+
+Las instituciones de fianzas, al ser demandadas por el acreedor, pueden denunciar el pleito al deudor principal, para que éste rinda las pruebas que crea conveniente; y en caso de que no salga al juicio para el indicado objeto, le perjudicará la sentencia que se pronuncie contra el fiador. Lo anterior también será aplicable en el procedimiento conciliatorio y juicio arbitral a que se refiere el artículo 93 bis de esta Ley.
+
+El texto de este artículo se hará saber de manera inequívoca al deudor principal y solicitante de la fianza y se transcribirá íntegro en el contrato-solicitud respectivo.
 
 ###### ARTICULO 119.
 
@@ -1783,9 +2085,17 @@ Los poderes que las instituciones de fianzas otorguen, no requerirán otras inse
 
 Las fianzas otorgadas ante autoridades judiciales del orden penal, se harán efectivas conforme a las siguientes reglas:
 
-I.- La autoridad judicial, para el solo efecto de la presentación del fiado, requerirá personalmente a la institución fiadora en su oficina matriz, o mediante oficio con acuse de recibo, cuando la autoridad judicial se encuentre fuera del Distrito Federal.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-II.- Si dentro del plazo concedido, no se hiciere la presentación solicitada, la autoridad judicial lo comunicará a la Tesorería Local o Federal, según el caso, para que proceda en los términos del artículo 95 de esta ley. Con dicha comunicación deberá acompañarse constancia fehaciente de la diligencia de requerimiento.
+I.- La autoridad judicial, para el sólo efecto de la presentación del fiado, requerirá personalmente o bien por correo certificado con acuse de recibo, a la institución fiadora en sus oficinas principales, sucursales, oficinas de servicio o bien en el domicilio del apoderado designado para ello. Dicho requerimiento podrá hacerse en cualquiera de los establecimientos mencionados o en el domicilio del apoderado de referencia, que se encuentre más próximo al lugar donde ejerza sus funciones la autoridad judicial de que se trate;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+II.- Si dentro del plazo concedido no se hiciere la presentación solicitada, la autoridad judicial lo comunicará a la autoridad ejecutora federal o local, según sea el caso, para que proceda en los términos del artículo 95 de esta Ley. Con dicha comunicación deberá acompañarse constancia fehaciente de la diligencia de requerimiento;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+III.- La fianza será exigible desde el día hábil siguiente al del vencimiento del plazo fijado a la afianzadora para la presentación del fiado, sin que lo haya hecho.
 
 TRANSITORIOS:
 
@@ -2132,3 +2442,57 @@ UNICA.- Los procedimientos de ejecución de fianzas otorgadas a favor de la Fede
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el 15 de enero de 1988, excepto las adiciones de un segundo párrafo al artículo 126 y de un párrafo final y los incisos a) y b) al artículo 143 del Código Fiscal de la Federación, establecidas por el ARTICULO PRIMERO, así como lo dispuesto por el ARTICULO TERCERO de este Decreto, que entrará en vigor el 30 de junio de 1988.
+
+D.O.F. 3 DE ENERO DE 1990.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las reformas y adiciones realizadas a los artículos 93, 93 bis, 94, 95, 95 bis, 118 bis y 130 de esta Ley, que entrarán en vigor el 1o. de julio de 1990.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga el Reglamento que Establece las Bases para Calcular el Límite de las Responsabilidades que asuman las instituciones de fianzas, de 12 de noviembre de 1957, publicado en el Diario Oficial de la Federación el 27 del mismo mes y año.
+
+###### ARTICULO TERCERO.
+
+La inspección y vigilancia de las instituciones de fianzas, así como de las demás personas y empresas a que se refiere esta Ley, continuará a cargo de la Comisión Nacional Bancaria hasta en tanto entre en funciones la Comisión Nacional de Seguros y Fianzas.
+
+El Reglamento Interior y el Reglamento de Inspección y Vigilancia de la Comisión Nacional Bancaria y de Seguros serán aplicables a la Comisión Nacional de Seguros y Fianzas hasta en tanto no se expidan el Reglamento Interior y el Reglamento de Inspección y Vigilancia de la propia Comisión Nacional de Seguros y Fianzas.
+
+###### ARTICULO CUARTO.
+
+Las instituciones de fianzas que a la fecha en que entre en vigor este Decreto, gocen de concesión del Gobierno Federal para otorgar fianzas a título oneroso conforme al texto de las disposiciones de la Ley Federal de Instituciones de Fianzas que se reforman, se reputarán autorizadas para continuar operando, en los términos que establece la propia Ley.
+
+En el plazo de un año contado a partir de que entre en vigor este Decreto, dichas instituciones deberán modificar sus estatutos sociales y solicitar a la Secretaría de Hacienda y Crédito Público la adecuación a los términos del presente Decreto, del acto administrativo al amparo del cual funcionan como tales.
+
+###### ARTICULO QUINTO.
+
+En tanto el Ejecutivo Federal, la Secretaría de Hacienda y Crédito Público o la Comisión Nacional de Seguros y Fianzas, emiten las disposiciones de carácter general que se mencionan en las reformas o adiciones que son objeto del presente Decreto, en los puntos a que dichas disposiciones de carácter general se refieren, seguirá observándose lo dispuesto por los textos anteriormente aplicables a esta Ley.
+
+###### ARTICULO SEXTO.
+
+En tanto la Secretaría de Hacienda y Crédito Público determina los porcentajes o emite las disposiciones de carácter general a que se refieren los artículos 17 y 18 de esta Ley, las Instituciones de Fianzas seguirán apegándose a lo dispuesto por los textos anteriormente vigentes de esta Ley.
+
+###### ARTICULO SEPTIMO.
+
+En tanto la Secretaría de Hacienda y Crédito Público emite las disposiciones de carácter general que se mencionan en el artículo 56 del presente Decreto, las instituciones de fianzas deberán determinar mensualmente los incrementos que tengan las reservas de fianzas en vigor y de contingencia e invertirlos en los treinta días naturales siguientes al mes de que se trate.
+
+###### ARTICULO OCTAVO.
+
+Los procedimientos de ejecución de fianzas otorgadas a favor de la Federación distintas de las que garantizan obligaciones fiscales a cargo de terceros, así como las expedidas a favor del Distrito Federal, de los Estados y Municipios, que se hubieren iniciado antes de la vigencia de este Decreto, continuarán su trámite hasta su conclusión en los términos establecidos por el artículo 95 de la Ley Federal de Instituciones de Fianzas que se reforma mediante este Decreto.
+
+###### ARTICULO NOVENO.
+
+Las reglas, reglamentos y demás disposiciones administrativas emanadas de esta Ley y que se encuentran vigentes a la fecha en que entre en vigor este Decreto, le seguirán siendo aplicables a las instituciones de fianzas, en tanto no se opongan al mismo.
+
+###### ARTICULO DECIMO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+###### ARTICULO DECIMO PRIMERO.
+
+Las infracciones cometidas con anterioridad a la vigencia de este Decreto se sancionarán conforme a las disposiciones vigentes al cometerse dichas infracciones.
+
+###### ARTICULO DECIMO SEGUNDO.
+
+La Secretaría de Hacienda y Crédito Público dispondrá, del término de un año, a partir de la vigencia del presente Decreto, para que en el orden administrativo establezca los procedimientos conducentes a su ejecución.
