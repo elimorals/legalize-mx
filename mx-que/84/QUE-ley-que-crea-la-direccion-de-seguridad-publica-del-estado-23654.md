@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-crea-la-direccion-de-seguridad-publica-del-estado-23654
 country: "mx"
 rank: "ley"
 publication_date: "1974-03-07"
-last_updated: "1974-03-07"
+last_updated: "1976-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE CREA LA DIRECCION DE SEGURIDAD PUBLICA DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1976.
 
 Ley publicada en el Periódico Oficial del Estado "La Sombra de Arteaga", el 7 de Marzo de 1974.
 
@@ -57,11 +57,13 @@ Al Titular del Poder Ejecutivo compete designar a los funcionarios y personal qu
 
 ###### ARTICULO 5.
 
-Todos los funcionarios e integrantes del personal de la Dirección de Seguridad Pública, se considerán empleados de confianza del Poder Ejecutivo, para todos los efectos legales que tal relación de trabajo implica.
+Todos los funcionarios e integrantes del personal de la Dirección de Seguridad Pública, se concederán empleados de confianza del Poder Ejecutivo, para todos los efectos legales que tal relación de trabajo implica.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1976)</small>
 
 ###### ARTICULO 6.
 
-La sede de la Dirección de Seguridad Pública de este Estado estará en la Capital de la Entidad, pudiendo establecer Sub-Direcciones en los municipios que forman la jurisdicción territorial del Estado.
+La sede de la Dirección de Seguridad Pública del Estado de Querétaro radicará en la Capital del Estado y se establecerán Delegaciones en cada uno de las cabeceras municipales que integran la jurisdicción territorial de este Estado.
 
 ###### ARTICULO 7.
 
@@ -74,6 +76,22 @@ La Dirección de Seguridad Pública, para su organización interior y buen funci
 ###### ARTICULO 9.
 
 La Dirección de Seguridad Pública del Estado de Querétaro, será de carácter permanente y estará supeditada invariablemente al Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1976)</small>
+
+###### ARTICULO 10.
+
+La Dirección de Seguridad Pública constará de un Director General, un Jefe
+
+de Departamento de Policía y un Jefe de Departamento de Tránsito, que tendrá cada uno de ellos las siguientes atribuciones:
+
+I.- El Jefe de Departamento de Policía, además de la funciones que le encomiende el Director General, tendrá las siguientes:
+
+Control, distribución y manejo de las policías de Tránsito y Preventiva y con esto garantizar el orden, la paz y la seguridad de los habitantes residentes, de paso y sus propiedades dentro del territorio del Estado de Querétaro.
+
+II.- El Jefe de Departamento de Tránsito, será el encargado de llevar a cabo los trámites relacionados con el control y registro de los vehículos automotores, tanto de servicio público como particular, así como sus conductores. La regularización y vigilancia del transporte, de personas y cosas, además de aplicación de sanciones y protección de conductores, peatones y usuarios, tanto en sus personas como de sus propiedades;
+
+III.- Los Delegados en los municipios serán los representantes del Director de Seguridad Pública en el Territorio de cada municipio en los que se instalarán oficinas y coordinarán todas las funciones que serán de Policía Preventiva y Tránsito necesarias para el control y estabilidad de sus habitantes, así como salvaguardar los intereses económicos, propiedades y derechos, además de velar por la tranquilidad del Municipio.
 
 T R A N S I T O R I O S :
 
@@ -104,3 +122,9 @@ ANTONIO CALZADA
 El Secretario General de Gobierno,
 
 LIC. ALEJANDRO MALDONADO FRANCO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 1976
+
+UNICO.- La presente Ley comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
