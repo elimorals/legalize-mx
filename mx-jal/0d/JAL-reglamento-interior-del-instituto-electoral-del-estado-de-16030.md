@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-electoral-del-estado-de-16030
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-29"
-last_updated: "2002-07-02"
+last_updated: "2003-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL CONSEJO ELECTORAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2003.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 29 de febrero de 2000.
 
@@ -107,19 +107,23 @@ X. Dirección de Organización Electoral.
 
 XI. Departamento de Comunicación Social.
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2003)</small>
 
-XII. Departamento de Archivo.
+XII. Dirección de Comunicación Social.
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2001)</small>
 
 XIII. Departamento de Informática.
 
-XIV. El Director del Registro Estatal de Electores.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2003)</small>
 
-XV. El Secretario del Registro Estatal de Electores.
+XIV. Dirección de Informática.
 
-XVI. Oficialía de Partes.
+XV. El Director del Registro Estatal de Electores.
+
+XVI. El Secretario del Registro Estatal de Electores.
+
+XVII. Oficialía de Partes.
 
 ### CAPITULO II. DEL PRESIDENTE
 
@@ -287,9 +291,9 @@ II. Diseñar el material electoral necesario, que el Secretario Ejecutivo deber�
 
 III. Coadyuvar con el Secretario Ejecutivo en la integración de los expedientes con la documentación que se requiera, a fin de que el Pleno realice los cómputos y haga las asignaciones a que se refiere la Ley Electoral.
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2003)</small>
 
-IV. Colaborar con el Secretario en la elaboración del análisis de cada una de las actas de la jornada electoral e incidentes, para su remisión al Departamento de Informática a fin de tener un diagnóstico de resultados y de la participación de los funcionarios de casilla y los representantes de partidos políticos.
+IV. Colaborar con el Secretario en la elaboración del análisis de cada una de las actas de la jornada electoral e incidentes, para su remisión a la Dirección de Informática a fin de tener un diagnóstico de resultados y de la participación de los funcionarios de casilla y los representantes de partidos políticos.
 
 V. Las demás que en uso de facultades y atribuciones que les confiere la ley, el Presidente o el Secretario Ejecutivo determinen.
 
@@ -299,7 +303,7 @@ Al frente de la Dirección estará su titular, quien contará con el personal ad
 
 ###### ARTÍCULO 15.
 
-El Departamento de Comunicación Social ejercerá las siguientes funciones:
+La Dirección de Comunicación Social ejercerá las siguientes funciones:
 
 I. Ser un facilitador de la comunicación entre el Consejo y la sociedad.
 
@@ -321,7 +325,9 @@ VIII. Coadyuvar en los muestreos sobre la cobertura que los medios de comunicaci
 
 IX. Las demás que en uso de facultades y atribuciones que les confiere la ley, le asignen el Presidente o el Secretario Ejecutivo.
 
-El Jefe del Departamento será su titular y contará con el personal administrativo y técnico que se establezca en el presupuesto.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2003)</small>
+
+La Dirección de Comunicación Social estará a cargo de su titular quien se verá auxiliado por el personal administrativo y técnico que prevea el presupuesto de egresos del órgano electoral.
 
 ###### ARTÍCULO 16.
 
@@ -343,27 +349,41 @@ Los principios que rigen la operación del sistema de archivo del Consejo son el
 
 El Departamento estará a cargo de su titular quien será auxiliado por el personal técnico y administrativo que disponga el presupuesto de egresos.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2003)</small>
 
-ARTÍCULO 16 BIS.- El Departamento de Informática ejercerá las siguientes funciones:
+ARTÍCULO 16 BIS.- La Dirección de Informática ejercerá las siguientes funciones:
 
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 2002)</small>
 
 I. Desarrollar, en su caso, un sistema de captura de resultados preliminares y distribución de la información generada de manera efectiva en los procesos electorales. (Programa de Resultados Electorales Preliminares PREP).
 
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2001)</small>
+
 II. Diseñar políticas para el uso del equipo de cómputo disponible en el Consejo.
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2001)</small>
 
 III. Elaborar e implementar los mecanismos que permitan llevar un control del equipo de cómputo del Consejo.
 
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2001)</small>
+
 IV. Diseñar y elaborar los reportes que contengan información sobre las distintas etapas del proceso electoral que se pondrán a disposición del Pleno a través de medios impresos, magnéticos, ópticos o informáticos.
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2001)</small>
 
 V. Elaborar y operar la página de Internet.
 
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2001)</small>
+
 VI. Asesorar en la adquisición de equipos de informática.
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2001)</small>
 
 VII. Las demás que en uso de facultades y atribuciones que les confiere la ley, determine el Presidente o el Secretario Ejecutivo.
 
-Al frente del Departamento de Informática estará su titular quien contará con el personal técnico y administrativo que establezca el presupuesto de egresos.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2003)</small>
+
+La Dirección de Informática estará a cargo de su titular quien se verá auxiliado por el personal administrativo y técnico que prevea el presupuesto de egresos del órgano electoral.
 
 ### CAPITULO VI. DE LAS COMISIONES MUNICIPALES Y DISTRITALES ELECTORALES
 
@@ -419,9 +439,9 @@ En la sesión en que se declaren formalmente concluidos los trabajos de las comi
 
 El Programa de Resultados Electorales Preliminares tendrá como finalidad dar a conocer de manera inmediata las tendencias de los comicios, una vez concluido el escrutinio y cómputo en las casillas electorales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2003)</small>
 
-Dicho Programa de Resultados Electorales Preliminares podrá ser desarrollado, previo acuerdo del Pleno del Consejo, por el Departamento de Informática del Consejo Electoral del Estado de Jalisco o, en su caso, por un tercero, que acredite haber desarrollado está clase de programas en procesos electorales y que cuente con un prestigio ampliamente reconocido.
+Dicho Programa de Resultados Electorales Preliminares podrá ser desarrollado, previo acuerdo del Pleno del Consejo, la Dirección de Informática del Consejo Electoral del Estado de Jalisco o, en su caso, por un tercero, que acredite haber desarrollado esta clase de programas en procesos electorales y que cuente con un prestigio ampliamente reconocido.
 
 ###### ARTÍCULO 25.
 
@@ -828,3 +848,17 @@ UNICO.- Las presentes reformas y adiciones al Reglamento Interior del Consejo El
 SE TRANSCRIBE UNICAMENTE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
 
 CUARTO.- Publíquese el presente acuerdo en el Periódico Oficial "El Estado de Jalisco"
+
+P.O. 27 DE DICIEMBRE DE 2003.
+
+SE TRANSCRIBE LOS PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- Se deroga el artículo 6-BIS del Reglamento Interior del Consejo Electoral del Estado de Jalisco.
+
+SEGUNDO.- Se reforman los artículos artículos (sic) 6 en sus fracciones XII y XIV, 14, fracción IV, 15, 16-BIS y el segundo párrafo del artículo 24 del Reglamento Interior del Consejo Electoral del Estado de Jalisco, en los términos del considerando VII del presente acuerdo.
+
+TERCERO.- Las modificaciones señaladas en el presente acuerdo entrarán en vigor a partir del día siguiente al de su aprobación.
+
+CUARTO.- Notifíquese a los partidos políticos acreditados o registrados ante el Consejo Electoral del Estado de Jalisco.
+
+QUINTO.- Publíquese en el Periódico Oficial El Estado de Jalisco.
