@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1931-09-02"
+last_updated: "1931-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 1931.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1931.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -295,6 +295,10 @@ V. Los Jueces de primera Instancia, los Presidentes Municipales y Agentes del Mi
 
 VI. Los Diputados y Senadores, en ejercicio al Congreso de la Unión.
 
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 1931)</small>
+
+VII. Los Diputados al Congreso Local, durante el período de su encargo.
+
 ###### Artículo 29.
 
 Ningún ciudadano legalmente electo para Diputado, podrá excusarse de ejercer este encargo, si no es por causa grave que calificará el Congreso.
@@ -377,11 +381,11 @@ Las sesiones tanto ordinarias como extraordinarias, serán públicas; pero cuand
 
 Podrán asistir a las sesiones entre los Diputados, los Magistrados del Tribunal Superior, el Procurador General de Justicia, el Secretario de Gobierno y el Tesorero General. Quedan obligados a asistir a dichas sesiones, estos Funcionarios, cuando para ello fueren llamados por el Congreso. Harán uso de la palabra, como los Diputados, pero no tendrán voto.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1929)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1931)</small>
 
 ###### Artículo 44.
 
-El Congreso del Estado, se renovará en su totalidad, cada dos años.
+El Congreso del Estado se renovará en su totalidad cada dos años y ninguno de sus miembros podrá ser reelecto para el período inmediato.
 
 ###### Artículo 45.
 
@@ -965,6 +969,18 @@ I. Presentar una iniciativa, suscrita cuando menos por dos Diputados o por el Go
 
 IV (SIC). Discutir el dictamen y aprobado que sea por la mayoría absoluta de los Diputados que forman el H. Congreso, enviarlo a los Ayuntamientos para que manifiesten si aprueban o no las reformas, adiciones o supresiones propuestas. Es obligación de los Ayuntamientos manifestar su conformidad o inconformidad con las reformas o adiciones propuestas y se tendrán por conformes con ellas a los que, en el término de sesenta días, no contestaren en sentido afirmativo o en el negativo.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 1931)</small>
+
+III. Que las adiciones o reformas sean aprobadas por las dos terceras partes de los Ayuntamientos del Estado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 1931)</small>
+
+IV. Que el H. Congreso haga el cómputo de los votos emitidos por los Ayuntamientos y si dichos votos fueron aprobatorios y en la proporción indicada, hará la declaración solemne de que las adiciones o reformas propuestas, forman parte de la Constitución del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE OCTUBRE DE 1931)</small>
+
+En ningún caso podrán alterarse los principios que establecen la independencia, soberanía y libertad del Estado, su forma de Gobierno y división de Poderes.
+
 ###### Artículo 112.
 
 Las proposiciones o iniciativas a que se refiere el artículo anterior, sino fueren admitidas por el Congreso, no se volverán a presentar en el mismo período de sesiones. Admitidas las proposiciones o iniciativas; no se discutirán ni votarán, sin la presencia de las dos terceras partes de los individuos que forman la totalidad del Congreso, y para su aprobación se requiere el voto de igual numero de Diputados.
@@ -1122,3 +1138,15 @@ Se derogan todas las disposiciones anteriores que se opongan a este Decreto.
 ###### Art. 2°
 
 Este Decreto, comenzará a surtir sus efectos, a partir del día de hoy.
+
+P.O. 28 DE OCTUBRE DE 1931.
+
+DECRETO NUMERO 20.
+
+Este Decreto, comenzará a surtir sus efectos, a partir de la fecha de su publicación.
+
+P.O. 28 DE OCTUBRE DE 1931.
+
+DECRETO NUMERO 21.
+
+Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación.
