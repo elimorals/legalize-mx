@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-civiles-de-yucatan-8644"
 country: "mx"
 rank: "codigo"
 publication_date: "1941-12-24"
-last_updated: "1970-03-19"
+last_updated: "1980-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE MARZO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE ENERO DE 1980.
 
 Código publicado en el Diario Oficial los días 24, 26, 27, 29, 30 y 31 de Diciembre de 1941 y 5 de Enero de 1942.
 
@@ -105,9 +105,11 @@ En las actuaciones judiciales y en los escritos que presenten las partes, no se 
 
 La infracción de este artículo será castigada con una multa de diez a cien pesos, que impondrá el Juez respectivo.
 
+> <small>(REFORMADO, D.O. 2 DE ENERO DE 1980)</small>
+
 ###### ARTICULO 14.
 
-El Secretario hará constar el día y la hora en que se presente cada escrito, dando cuenta de él, a más tardar, dentro de veinticuatro horas, y poniendo de esto la constancia correspondiente; otorgará recibo del escrito al interesado si lo pidiere; y foliará exactamente los autos. Cualquiera falta a lo dispuesto en este artículo será castigada con una multa de diez pesos que el Juez impondrá de plano tan pronto como advierta la infracción o se le denuncie.
+La Oficialía de Partes será la encargada de recibir y distribuir los negocios que deban iniciarse, sea que se trate de jurisdicción contenciosa, sea de jurisdicción mixta o voluntaria, cuando deban conocer de ellos los Juzgados de lo Civil y de Hacienda y los de lo Familiar, procediendo en cada caso en los términos establecidos en el artículo 86 de la Ley Orgánica del Poder Judicial del Estado. Fuera de los casos señalados en dicho artículo, los demás escritos dirigidos a los aludidos Juzgados serán entregados al Secretario del Juzgado que corresponda, quien hará constar el día y la hora en que se presente cada escrito, dando cuenta de él, a más tardar dentro de veinticuatro horas, y poniendo de esto la constancia correspondiente; otorgará recibo del escrito al interesado si lo pidiere; y foliará exactamente los autos. Cualquiera falta a lo dispuesto en este artículo será castigada con una multa de diez pesos que el Juez impondrá de plano tan pronto como advierta la infracción o se le denuncie.
 
 ###### ARTICULO 15.
 
@@ -177,11 +179,13 @@ Todos los litigantes, en el primer escrito o en la primera diligencia judicial, 
 
 Cuando un litigante no cumpla con lo prevenido en la primera parte de este artículo, las notificaciones, aun las que conforme a las reglas generales deban hacerse personalmente, se harán en los términos de los artículos 32 y 34; si faltare a la segunda parte, no se hará notificación alguna a la persona contra quien promueva, hasta que se subsane la omisión.
 
+> <small>(REFORMADO, D.O. 2 DE ENERO DE 1980)</small>
+
 ###### ARTICULO 26.
 
-La primera notificación será hecha personalmente al interesado en la casa designada por el promovente, leyendo íntegramente la resolución al notificarla y asentando en autos el día y hora en que se verificó.
+La primera notificación será hecha personalmente al interesado, en la casa designada por el promovente, leyendo íntegramente la resolución al notificarla y asentando en autos el día y hora en que se verificó.
 
-No encontrándose a la persona a la que se trate de notificar y cerciorado el diligenciario de que vive en la casa en que se le busca, le hará la notificación por medio de cédula que entregará a los parientes, familiares o domésticos del interesado, o a cualquiera otra persona que se encuentre en la casa. Si la casa estuviese cerrada, deberá entregarse la cédula a cualquier vecino de los que viven en las casas inmediatas, haciéndole saber la obligación que tienen de hacerla llegar al interesado.
+No encontrándose a la persona a la que se trate de notificar y cerciorado el Actuario de que vive en la casa en que se le busca, le hará la notificación por medio de cédula que entregará a los parientes, familiares o domésticos del interesado, o a cualquiera otra persona que se encuentre en la casa. Si la casa estuviese cerrada deberá entregarse la cédula a cualquier vecino de los que viven en las casas inmediatas haciéndole saber la obligación que tienen de hacerla llegar al interesado.
 
 ###### ARTICULO 27.
 
@@ -199,21 +203,27 @@ Cuando se ignore el domicilio de la persona que debe ser notificada, la primera 
 
 Cuando haya de notificarse o citarse a una persona residente fuera del lugar del juicio, se hará la notificación o citación por medio de despacho o exhorto al Juez de la población en que aquella residiere.
 
+> <small>(REFORMADO, D.O. 2 DE ENERO DE 1980)</small>
+
 ###### ARTICULO 31.
 
-Los Secretarios de los Juzgados y los del Tribunal Superior, fijarán todos los días, concluido el despacho, en un lugar visible de su oficina, una lista de los negocios que se hayan proveído, expresando quiénes son los Diligencieros encargados de notificar las resoluciones respectivas y las horas de notificación.
+Los Secretarios de los Juzgados y los del Tribunal Superior, fijarán todos los días, concluido el despacho, en un lugar visible de su oficina, una lista de los negocios que se hayan proveído, expresando quiénes son los Actuarios encargados de notificar las resoluciones respectivas y las horas de notificación.
+
+> <small>(REFORMADO, D.O. 2 DE ENERO DE 1980)</small>
 
 ###### ARTICULO 32.
 
-La segunda y ulteriores notificaciones se harán personalmente por los Diligencieros a los interesados o procuradores, si éstos concurren al Tribunal o al Juzgado respectivo, en las horas fijadas para hacer notificaciones, el día siguiente al de la fecha de la resolución.
+La segunda y ulteriores notificaciones se harán personalmente por los Actuarios a los interesados o procuradores, si éstos concurren al Tribunal o al Juzgado respectivo, en las horas fijadas para hacer notificaciones, el día siguiente al de la fecha de la resolución.
 
 ###### ARTICULO 33.
 
 Deben firmar las notificaciones la persona que las hace y aquella a quien se hacen; si ésta no supiere o no quisiere firmar, lo hará el notificador haciendo constar esta circunstancia. A toda persona se le dará copia simple de la resolución que se le notifique, si la pidiere.
 
+> <small>(REFORMADO, D.O. 2 DE ENERO DE 1980)</small>
+
 ###### ARTICULO 34.
 
-Si las partes o sus procuradores no concurran al Tribunal o Juzgado en el día y horas a que se refiere el artículo anterior, el Diligenciero remitirá ese mismo día al "Diario Oficial", para su publicación, una lista de los asuntos no notificados personalmente y con esta publicación quedarán hechas legalmente las notificaciones respectivas, surtiendo sus efectos desde la fecha en que aparezca publicada la lista.
+Si las partes o sus procuradores no concurran al Tribunal o Juzgado en el día y horas a que se refiere el artículo anterior, el Actuario remitirá ese mismo día al "Diario Oficial", para su publicación, una lista de los asuntos no notificados personalmente y con esta publicación quedarán hechas legalmente las notificaciones respectivas, surtiendo sus efectos desde la fecha en que aparezca publicada la lista.
 
 Se hará constar en el expediente el número y fecha del periódico en que se hizo la publicación.
 
@@ -337,13 +347,15 @@ La caducidad de la primera instancia no extingue la acción; ésta podrá ejerci
 
 La caducidad de la instancia no invalida la interrupción de la prescripción producida por la iniciación del juicio. El término de la prescripción comienza a correr de nuevo desde la fecha de la notificación del auto de caducidad.
 
+> <small>(REFORMADO, D.O. 2 DE ENERO DE 1980)</small>
+
 ###### ARTICULO 58.
 
-Los Magistrados y los Jueces tienen el deber de mantener el buen orden y de exigir que se les guarden las consideraciones debidas, corrigiendo en el acto las faltas que se cometieren con multas que no podrán pasar, en los Juzgados de Paz, de diez pesos; en los de Primera Instancia de veinticinco, y de cien en el Tribunal Superior.
+Los Magistrados y los Jueces tienen el deber de mantener el buen orden y de exigir que se les guarden las consideraciones debidas, corrigiendo en el acto las faltas que se cometieren, con multas que no podrán pasar, en los Juzgados de Paz, de diez pesos; en los de Primera Instancia de veinticinco, y de cien en el Tribunal Superior.
 
 Si las faltas llegaren a constituir delito, se procederá contra los responsables, con arreglo a lo dispuesto en el Código de Defensa Social.
 
-También podrán el Tribunal Superior y los Jueces imponer, por resolución escrita, correcciones disciplinarias a los Abogados, Secretarios, Diligencieros y Dependientes de los Tribunales y Juzgados por las faltas que cometan en el desempeño de sus funciones respectivas.
+También podrán el Tribunal Superior y los Jueces imponer, por resolución escrita, correcciones disciplinarias a los Abogados, Secretarios, Actuarios y dependientes de los Tribunales y Juzgados por las faltas que cometan en el desempeño de sus funciones respectivas.
 
 ###### ARTICULO 59.
 
@@ -3235,9 +3247,11 @@ VI.- Los convenios celebrados ante el Juez en el curso de un juicio.
 
 VII.- El juicio uniforme de contadores, ratificado judicialmente, si las partes ante el Juez o por escritura pública se hubieren sujetado a él expresamente o lo hubieren aprobado.
 
+> <small>(REFORMADO, D.O. 2 DE ENERO DE 1980)</small>
+
 ###### ARTICULO 600.
 
-Si el título ejecutivo contuviere obligación de pago en numerario, el Juez proveerá auto para que el Diligenciero del Juzgado proceda a requerir de pago al deudor, y no haciéndolo le embargue bienes para cubrir las prestaciones reclamadas y las costas del procedimiento.
+Si el título ejecutivo contuviere obligación de pago en numerario, el Juez proveerá auto para que el Actuario del Juzgado proceda a requerir de pago al deudor, y no haciéndolo le embargue para cubrir las prestaciones reclamadas y las costas del procedimiento.
 
 ###### ARTICULO 601.
 
@@ -3303,9 +3317,11 @@ Las obligaciones sujetas a condición suspensiva o a plazo no serán ejecutivas 
 
 El promovente deberá acreditar, a satisfacción del Juez, que en uno u otro caso ha surgido la circunstancia requerida, por dichos preceptos legales para tener por cumplida la condición o para hacer exigible la obligación sujeta a plazo.
 
+> <small>(REFORMADO, D.O. 2 DE ENERO DE 1980)</small>
+
 ###### ARTICULO 611.
 
-Si aquél contra quien se hubiere despachado auto de ejecución, no fuere habido después de habérsele buscado una vez en su domicilio, se le dejará citatoria (sic) para que aguarde al Diligenciero en hora determinada que se fijará dentro de las veinticuatro horas siguientes; si no espera, se practicará la diligencia con cualquiera persona que se encuentre en la casa, y a falta de ésta, con alguno de los vecinos.
+Si aquél contra quien se hubiere despachado auto de ejecución no fuere habido después de habérsele buscado una vez en su domicilio, se le dejará citatoria (sic) para que aguarde al Actuario en hora determinada que se fijará dentro de las veinticuatro horas siguientes; si no espera, se practicará la diligencia con cualquiera persona que se encuentre en la casa, y a falta de ésta, con alguno de los vecinos.
 
 ###### ARTICULO 612.
 
@@ -3423,9 +3439,11 @@ Si al entablar demanda en juicio verbal se opusiere reconvención, por cantidad 
 
 Si hubiere varios Jueces competentes, en la localidad, será preferido el que elija la parte que opuso la excepción.
 
+> <small>(REFORMADO, D.O. 2 DE ENERO DE 1980)</small>
+
 ###### ARTICULO 627.
 
-Los juicios verbales se tramitarán ante los Jueces de Paz. Si no los hubiere en la localidad, se tramitarán ante los Jueces Menores.
+Los juicios verbales se tramitarán ante los Jueces de Paz. Si no los hubiere en la localidad, se tramitarán ante los Jueces de lo Civil y de Hacienda o ante los Mixtos, de Hacienda y de lo Familiar dentro de cuya jurisdicción quede comprendida dicha localidad.
 
 ###### ARTICULO 628.
 
@@ -3621,9 +3639,11 @@ En ninguno de los casos en que tiene lugar el interdicto, se recibirán del cont
 
 Declarada la posesión, ya por el Juez, ya por el Tribunal en su caso, debe aquel mandar que se proceda a darla en cualquiera de los bienes, surtiendo con esto efectos respecto de todos los demás. El acta de posesión deberá registrarse y publicarse por tres días consecutivos en el "Diario Oficial".
 
+> <small>(REFORMADO, D.O. 2 DE ENERO DE 1980)</small>
+
 ###### ARTICULO 673.
 
-El acto de entrega de bienes se hará por el Diligenciero, notificándose a los inquilinos, arrendatarios y colonos de los bienes, a los que tengan algunos bajo su custodia o administración y a los colindantes para que reconozcan al nuevo poseedor, librándose al efecto las ordenes o exhortos necesarios.
+El acto de entrega de bienes se hará por el Actuario, notificándose a los inquilinos arrendatarios y colonos de los bienes a los que tengan algunos bajo su custodia o administración y a los colindantes para que reconozcan al nuevo poseedor, librándose al efecto las órdenes o exhortos necesarios.
 
 > <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
 
@@ -3801,9 +3821,11 @@ El interdicto se entablará por medio de escrito en que se pida la suspensión d
 
 Al escrito se acompañarán los documentos en que se funde la demanda, o se ofrecerá, a falta de ellos, información de testigos.
 
+> <small>(REFORMADO, D.O. 2 DE ENERO DE 1980)</small>
+
 ###### ARTICULO 711.
 
-En vista de los documentos o del resultado de la información, el Juez, si cree que hay fundamento para ello, bajo la responsabilidad del quejoso dispondrá que el Diligenciero se traslade al local donde se esté construyendo la obra nueva, y dando fe de la existencia de ésta y pormenorizando las dimensiones que tenga, notifique la suspensión provisional.
+En vista de los documentos o del resultado de la información, el Juez, si cree que hay fundamento para ello, bajo la responsabilidad del quejoso dispondrá que el Actuario se traslade al local donde se esté construyendo la obra nueva y, dando fe de la existencia de ésta y pormenorizando las dimensiones que tenga, notifique la suspensión provisional.
 
 ###### ARTICULO 712.
 
@@ -4851,11 +4873,13 @@ II.- Cuando contra ella haya intentado su marido demanda de divorcio.
 
 III.- Cuando los menores o incapacitados que se hallen sujetos a la patria potestad sean maltratados por sus ascendientes o tutores o reciban de éstos ejemplos corruptores, a juicio del Juez, o sean obligados por ellos a cometer actos reprobados por las leyes.
 
+> <small>(REFORMADO, D.O. 2 DE ENERO DE 1980)</small>
+
 ###### ARTICULO 920.
 
-La autorización a que se refiere el artículo anterior deberá ser solicitada a los jueces pupilares, salvo el caso previsto en el inciso III de dicho artículo, en que podrá solicitarse ante el Juez de Paz de la localidad, siempre que por circunstancias especiales no pueda ocurrirse al Juez Pupilar que corresponda.
+La autorización a que se refiere el artículo anterior deberá ser solicitada a los Jueces de lo Familiar, salvo el caso previsto en la fracción III de dicho artículo, en que podrá solicitarse ante el Juez de Paz de la localidad, siempre que por circunstancias especiales no pueda ocurrirse al Juez Familiar que corresponda.
 
-En este caso, el Juez de Paz, si lo estima conveniente, concederá provisionalmente la autorización y remitirá las diligencias al Juez Pupilar.
+En este caso, el Juez de Paz, si lo estima conveniente, concederá provisionalmente la autorización y remitirá las diligencias al Juez de lo Familiar.
 
 ###### ARTICULO 921.
 
@@ -4901,9 +4925,11 @@ I.- Solicitud del interesado o de cualquiera persona en nombre suyo.
 
 II.- Justificación que el Juez califique de bastante de los malos tratamientos, ejemplos perniciosos o abusos de autoridad de los ascendientes o tutores.
 
+> <small>(REFORMADO, D.O. 2 DE ENERO DE 1980)</small>
+
 ###### ARTICULO 931.
 
-Presentada la solicitud a que se refiere el artículo anterior, el Juez procederá en la forma prevenida en los artículos 921, 922 y 923.
+Presentada la solicitud a que se refiere el artículo anterior, el Juez de lo Familiar procederá en la forma prevenida en los artículos 921, 922 y 923.
 
 ###### ARTICULO 932.
 
@@ -4989,9 +5015,11 @@ Los acreedores presentes serán citados con anticipación por lo menos de un dí
 
 Para que se presenten los ausentes se les concederán sesenta días.
 
+> <small>(REFORMADO, D.O. 2 DE ENERO DE 1980)</small>
+
 ###### ARTICULO 949.
 
-Mientras el acreedor ausente se presenta, será representado por el Ministerio Público.
+Mientras el acreedor ausente se presente, será representado por el Ministerio Público.
 
 ###### ARTICULO 950.
 
@@ -5711,9 +5739,11 @@ Dentro de diez días de haber aceptado su cargo el albacea debe proceder a la fo
 
 El inventario y avalúo se practicarán simultáneamente, siempre que no fuere imposible por la naturaleza de los bienes.
 
+> <small>(REFORMADO, D.O. 2 DE ENERO DE 1980)</small>
+
 ###### ARTICULO 1089.
 
-El inventario se practicará por el Diligenciero del Juzgado, con intervención del Ministerio Público, cuando algún heredero sea menor de edad o incapacitado, o cuando los establecimientos de beneficencia tuvieren interés en la sucesión como herederos o legatarios.
+El inventario se practicará por el Actuario del Juzgado, con intervención del Ministerio Público, cuando algún heredero sea menor de edad o incapacitado, o cuando los establecimientos de beneficencia tuvieran interés en la sucesión como herederos o legatarios.
 
 ###### ARTICULO 1090.
 
@@ -6178,3 +6208,7 @@ Se derogan las disposiciones que se opongan a la reformas de los artículos 34 y
 ###### ARTICULO SEGUNDO.
 
 Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 2 DE ENERO DE 1980.
+
+UNICO.- Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado.
