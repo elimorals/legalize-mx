@@ -4,7 +4,7 @@ identifier: "LFAFE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-01-11"
-last_updated: "1998-12-24"
+last_updated: "2003-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=427&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFAFE"
 
 LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE NOVIEMBRE DE 2003.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 11 de enero de 1972.
 
@@ -774,9 +774,13 @@ Al que sin el permiso correspondiente porte un arma de uso exclusivo del Ejérci
 
 I. Con prisión de tres meses a un año y de uno a diez días multa, cuando se trate de las armas comprendidas en el inciso i) del artículo 11 de esta Ley;
 
-II. Con prisión de cinco a diez años y de cincuenta a doscientos días multa, cuando se trate de las armas comprendidas en los incisos a) y b) del artículo 11 de esta Ley, y
+> <small>(REFORMADA D.O.F. 5 DE NOVIEMBRE DE 2003)</small>
 
-III. Con prisión de diez a quince años y de cien a quinientos días multa, cuando se trate de cualquiera de las otras armas comprendidas en el artículo 11 de esta Ley.
+II. Con prisión de tres a diez años y de cincuenta a doscientos días multa, cuando se trate de armas comprendidas en los incisos a) y b) del artículo 11 de esta Ley, y
+
+> <small>(REFORMADA D.O.F. 5 DE NOVIEMBRE DE 2003)</small>
+
+III. Con prisión de cuatro a quince años y de cien a quinientos días multa, cuando se trate de cualquiera de las otras armas comprendidas en el artículo 11 de esta Ley.
 
 En caso de que se porten dos o más armas, la pena correspondiente se aumentará hasta en dos terceras partes.
 
@@ -808,9 +812,13 @@ Al que sin el permiso correspondiente posea un arma de uso exclusivo del Ejérci
 
 I. Con prisión de tres meses a un año y de uno a diez días multa, cuando se trate de las armas comprendidas en el inciso i) del artículo 11 de esta Ley;
 
-II. Con prisión de dos a siete años y de veinte a cien días multa, cuando se trate de las armas comprendidas en los incisos a) y b) del artículo 11 de esta Ley, y
+> <small>(REFORMADA D.O.F. 5 DE NOVIEMBRE DE 2003)</small>
 
-III. Con prisión de cuatro a doce años y de cincuenta a doscientos días multa, cuando se trate de cualquiera de las otras armas comprendidas en el artículo 11 de esta Ley.
+II. Con prisión de uno a siete años y de veinte a cien días multa, cuando se trate de las armas comprendidas en el inciso i) del artículo 11 de esta Ley, y
+
+> <small>(REFORMADA D.O.F. 5 DE NOVIEMBRE DE 2003)</small>
+
+III. Con prisión de dos a doce años y de cincuenta a doscientos días multa, cuando se trate de cualquiera de las otras armas comprendidas en el artículo 11 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1998)</small>
 
@@ -1013,3 +1021,9 @@ PRIMERO.- Este Decreto entrará en vigor a los noventa días de su publicación 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- A las personas que hubieren cometido infracciones o delitos previstos en la Ley Federal de Armas de Fuego y Explosivos con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las sanciones vigentes al momento en que hubieren realizado dichas conductas.
+
+D.O.F. 5 DE NOVIEMBRE DE 2003.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
