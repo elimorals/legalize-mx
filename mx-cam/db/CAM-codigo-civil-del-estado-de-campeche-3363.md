@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "1998-07-24"
+last_updated: "1998-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1998.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -2539,7 +2539,7 @@ II.- El tutor del que se va a adoptar, y si no lo tiene, el que se le nombre esp
 
 Si no hubiere quien ejerza la patria potestad sobre el menor ni tenga éste tutor definitivo, serán oídas las personas que hayan acogido a quien se pretende adoptar, impartiéndole protección y tratándolo como hijo.
 
-Si el menor que va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
+Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
 
 ###### Art. 414.
 
@@ -3791,7 +3791,7 @@ El curador que no llene los deberes prescritos en el artículo precedente, será
 
 ###### Art. 642.
 
-Las funciones del curador cesarán cuando el incapacitado salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en el curaduría (sic).
+Las funciones del curador cesarán cuando el incapacitado salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en el (sic) curaduría.
 
 ###### Art. 643.
 
@@ -10189,9 +10189,11 @@ La cesión de un crédito comprende la de todos los derechos accesorios, como la
 
 Los intereses vencidos se presumen que fueron cedidos con el crédito principal.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
+
 ###### Art. 1927.
 
-La cesión de créditos puede hacerse en escrito privado que firmarán cedente, cesionario y dos testigos. Sólo cuando la ley exija que el título del crédito cedido conste en escritura pública, la cesión deberá hacerse en esta clase de documentos.
+La cesión de créditos puede hacerse en escrito privado que firmarán el cedente, cesionario y dos testigos. Sólo cuando la ley exija que el título cedido conste en escritura pública, la cesión deberá hacerse en esta clase de documentos, salvo lo dispuesto en el artículo 2823 de este Código.
 
 ###### Art. 1928.
 
@@ -14659,15 +14661,17 @@ Si alguno de los interesados se niega a firmar dicha solicitud, acudirá el otro
 
 Todo hecho o convenio entre las partes, que puede modificar o destruir la eficacia de una obligación hipotecaria anterior, no surtirá efecto contra tercero si no se hace constar en el Registro por medio de una inscripción nueva, de una cancelación total o parcial o de una nota marginal, según los casos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1998)</small>
+
 ###### Art. 2823.
 
-El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en la forma que para la constitución de la hipoteca previene el artículo 2814, se dé conocimiento al deudor y sea inscrita en el Registro.
+El crédito puede cederse en todo o en parte, en los términos de este artículo.
 
 Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituida para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
-Las entidades financieras, los institutos de seguridad social y de vivienda podrán ceder los créditos que tengan garantizados con hipoteca sin necesidad de notificación al deudor, ni de escritura pública, ni de inscripción en el Registro Público de la Propiedad, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
+Las instituciones bancarias del sistema mexicano, las entidades financieras, los institutos de seguridad social y de vivienda podrán ceder los créditos que tengan garantizados con hipoteca sin necesidad de notificar al deudor, ni de escritura pública, ni de inscripción en el Registro Público de la Propiedad, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -15628,6 +15632,12 @@ P.O. 24 DE JULIO DE 1998.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Se derogan todas aquellas disposiciones legales en lo que se opongan al contenido del presente decreto.
+
+P.O. 22 DE DICIEMBRE DE 1998.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, pero la substanciación de los asuntos pendientes relativos a la materia de las reformas se continuará de conformidad con las disposiciones del Código de Procedimientos Civiles vigentes antes de dichas reformas.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ARTICULO UNICO.- ART. 2902".]
 
