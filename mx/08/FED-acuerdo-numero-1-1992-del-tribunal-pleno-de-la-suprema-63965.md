@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1992-del-tribunal-pleno-de-la-suprema-63965"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1992-03-16"
-last_updated: "1992-11-13"
+last_updated: "1993-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63965&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-03-10"
 
 ACUERDO No. 1/1992 DEL TRIBUNAL EN PLENO DEL DIA DIEZ DE MARZO DE MIL NOVECIENTOS NOVENTA Y DOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE NOVIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ENERO DE 1993.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 16 de marzo de 1992.
 
@@ -71,127 +71,7 @@ SEPTIMO.- El Juzgado de Distrito en el estado de Aguascalientes, con residencia 
 
 OCTAVO.- Los Tribunales Colegiados Primero y Segundo y el tribunal unitario del Noveno Circuito, con residencia en la ciudad de San Luis Potosí, San Luis Potosí, continuarán conociendo hasta su terminación, de los asuntos procedentes de los Juzgados Primero y Segundo de Distrito en el estado de Zacatecas con residencia en la ciudad de Zacatecas, y de los Juzgados de Distrito en el estado de Aguascalientes, que reciban antes de que inicien su funcionamiento los tribunales colegiado y unitario del nuevo Vigésimo Tercer Circuito.
 
-NOVENO.- Se reforman, modifican y adicionan los puntos Primero y Segundo, fracciones I, III, VII, X, XII, XIII y XIX, apartados 1; 2 y 3; 1; 1; 6; 3; 1, 2, 3, 4, 5 y 6, del Acuerdo 1/88, actualizado por el diverso 2/1991, de nueve de abril de mil novecientos noventa y uno, emitido por el Tribunal en Pleno, para quedar como sigue:
-
-"PRIMERO.- El territorio de la República se divide en veintitrés Circuitos."
-
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO NO. 4/1992 DEL TRIBUNAL EN PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 13 DE NOVIEMBRE DE 1992)</small>
-
-"SEGUNDO.- ..."
-
-"II.- ...
-
-1.- Tres tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Toluca, México;
-
-2.- Un tribunal unitario con residencia en Ciudad Nezahualcóyotl, México;
-
-3.- Juzgados primero, segundo y octavo de distrito en el Estado de México, con residencia en la ciudad de Toluca;
-
-4.- Juzgados tercero, cuarto y noveno de distrito en el Estado de México, con residencia en el municipio de Naucalpan de Juárez;
-
-5.- Juzgado quinto de distrito en el Estado de México, con residencia en Tlalnepantla;
-
-6.- Juzgado sexto y séptimo de distrito en el Estado de México, con residencia en Ciudad Nezahualcóyotl.
-
-"V.- ...
-
-1.- Dos tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Hermosillo, Sonora;
-
-2.- Juzgados primero, segundo y tercero de distrito en el estado de Sonora, con residencia en la ciudad de Hermosillo;
-
-3.- Juzgados cuarto, quinto y sexto de distrito en el estado de Sonora, con residencia en la ciudad de Nogales;
-
-4.- Juzgados séptimo y octavo de distrito en el estado de Sonora, con residencia en Ciudad Obregón".
-
-"VI.- ...
-
-1.- Cuatro tribunales colegiados y un tribunal unitario, con residencia en la ciudad de Puebla, Puebla;
-
-2.- Cinco juzgados de distrito en el estado de Puebla, con residencia en la ciudad de Puebla;
-
-3.- Juzgado de distrito en el estado de Tlaxcala, con residencia en la ciudad de Tlaxcala".
-
-"VII.- ...
-
-1.- Un tribunal colegiado en materias administrativa y de trabajo, un tribunal colegiado en materia penal, y dos tribunales unitarios con residencia en la ciudad de Veracruz, Veracruz;
-
-2.- Dos tribunales colegiados en materia civil, con residencia en la ciudad de Xalapa, Veracruz;
-
-3.- Juzgado primero de distrito en el estado de Veracruz, con residencia en la ciudad de Xalapa;
-
-4.- Juzgados segundo, tercero y cuarto de distrito en el estado de Veracruz, con residencia en la ciudad de Veracruz;
-
-5.- Juzgados quinto y sexto de distrito en estado de Veracruz, con residencia en la ciudad de Tuxpan".
-
-"X.- ...
-
-1.- Dos tribunales colegiados y un tribunal unitario, con residencia en la ciudad de Villahermosa, Tabasco;
-
-2.- Juzgados primero, segundo y tercero de distrito en el estado de Tabasco, con residencia en la ciudad de Villahermosa;
-
-3.- Juzgado séptimo de distrito en el estado de Veracruz, con residencia en la ciudad de Coatzacoalcos".
-
-"XII.- ...
-
-1.- Tres tribunales colegiados y tres tribunales unitarios, con residencia en la ciudad de Mazatlán, Sinaloa;
-
-2.- Juzgados primero y segundo de distrito en el estado de Sinaloa, con residencia en la ciudad de Culiacán;
-
-3.- Juzgados tercero, cuarto y séptimo de distrito en el estado de Sinaloa, con residencia en la ciudad de Los Mochis;
-
-4.- Juzgados quinto, sexto y octavo de distrito en el estado de Sinaloa, con residencia en la ciudad de Mazatlán;
-
-5.- Juzgado de distrito en el estado de Baja California Sur, con residencia en la ciudad de La Paz;
-
-6.- Juzgados primero y segundo de distrito en el estado de Nayarit, con residencia en la ciudad de Tepic".
-
-"XV.- ...
-
-1.- Dos tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Mexicali, Baja California;
-
-2.- Juzgados primero, segundo y séptimo de distrito en el estado de Baja California, con residencia en la ciudad de Mexicali;
-
-3.- Juzgados tercero, cuarto, quinto y sexto de distrito en el estado de Baja California, con residencia en la ciudad de Tijuana;
-
-4.- Juzgado octavo de distrito en el estado de Baja California, con residencia en la ciudad de Ensenada".
-
-"XIX.- ...
-
-1.- Dos tribunales colegiados y dos tribunales unitarios, con residencia en Ciudad Victoria, Tamaulipas;
-
-2.- Un tribunal unitario con residencia en la ciudad de Matamoros, Tamaulipas;
-
-3.- Un tribunal unitario con residencia en Ciudad Reynosa, Tamaulipas;
-
-4.- Un tribunal unitario con residencia en la ciudad de Nuevo Laredo, Tamaulipas;
-
-5.- Juzgados primero y décimo de distrito en el estado de Tamaulipas, con residencia en Ciudad Victoria;
-
-6.- Juzgados segundo y tercero de distrito en el estado de Tamaulipas, con residencia en la ciudad de Nuevo Laredo;
-
-7.- Juzgados cuarto y quinto de distrito en el estado de Tamaulipas, con residencia en la ciudad de Matamoros;
-
-8.- Juzgados sexto y séptimo de distrito en el estado de Tamaulipas, con residencia en la ciudad de Reynosa;
-
-9.- Juzgados octavo y noveno de distrito en el estado de Tamaulipas, con residencia en la cuidad de Tampico".
-
-"XXI.- ...
-
-1.- Dos tribunales colegiados y un tribunal unitario, con residencia en la ciudad de Chilpancingo, Guerrero;
-
-2.- Juzgado primero de distrito en el estado de Guerrero, con residencia en la ciudad de Chilpancingo;
-
-3.- Juzgados segundo y tercero de distrito en el estado de Guerrero, con residencia en la ciudad de Acapulco;
-
-4.- Juzgado cuarto de distrito en el estado de Guerrero, con residencia en la ciudad de Iguala".
-
-"XXIII.- ...
-
-1.- Un tribunal colegiado y un tribunal unitario, con residencia en la ciudad de Zacatecas, Zacatecas;
-
-2.- Juzgados primero y segundo de distrito en el estado de Zacatecas, con residencia en la ciudad de Zacatecas;
-
-3.- Juzgados primero y segundo de distrito del estado de Aguascalientes, con residencia en la ciudad de Aguascalientes".
+NOVENO.- (DEROGADO POR TRANSITORIO PRIMERO DEL ACUERDO NUMERO 1/1993 DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA , D.O.F. 27 DE ENERO DE 1993)
 
 DECIMO.- Se modifican y adicionan los puntos Tercero, fracción XXV, y Quinto del Acuerdo Plenario 1/88, actualizado por el diverso 2/1991, de nueve de abril de mil novecientos noventa y uno, para quedar como sigue:
 
@@ -276,3 +156,13 @@ SEGUNDO.- Los nuevos tribunales colegiados y unitarios de circuito y juzgados de
 TERCERO.- La Comisión de Gobierno y Administración y los ministros inspectores de los tribunales de circuito y de los juzgados de distrito comprendidos en este acuerdo, resolverán cualquier cuestión que pudiera suscitarse.
 
 CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el semanario judicial de la Federación, y hágase del conocimiento de todos los tribunales de circuito y juzgados de distrito del país, para su cumplimiento.
+
+D.O.F. 27 DE ENERO DE 1993.
+
+PRIMERO.- Se derogan los puntos primero, segundo, tercero, cuarto y quinto del acuerdo 1/88 de quince de enero de mil novecientos ochenta y ocho; así como el punto quinto del acuerdo 2/1991 de nueve de abril de mil novecientos noventa y uno; el punto sexto del acuerdo 3/1991 de catorce de agosto de mil novecientos noventa y uno; el punto noveno del acuerdo 1/1992 de diez de marzo de mil novecientos noventa y dos; el punto segundo del acuerdo 2/1992 de dos de junio de mil novecientos noventa y dos; y los puntos sexto y séptimo del acuerdo 4/1992 de tres de noviembre de mil novecientos noventa y dos.
+
+SEGUNDO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+TERCERO.- La comisión de gobierno y administración y los ministros inspectores de los tribunales de circuito y juzgados de Distrito resolverán cualquier cuestión que pudiera suscitarse.
+
+CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, y hágase del conocimiento de todos los tribunales de circuito y juzgados de Distrito del país, para su cumplimiento.
