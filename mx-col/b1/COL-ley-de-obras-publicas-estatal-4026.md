@@ -4,7 +4,7 @@ identifier: "COL-ley-de-obras-publicas-estatal-4026"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-01"
-last_updated: "1984-09-01"
+last_updated: "2002-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DE OBRAS PUBLICAS ESTATAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: DEROGADA.
+
+> <small>N. DE E. LA PRESENTE LEY HA SIDO DEROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE OBRAS PUBLICAS, PUBLICADA EN EL PERIODICO OFICIAL EL 16 DE NOVIEMBRE DE 2002.</small>
 
 Ley publicada en el Periódico Oficial "El Estado de Colima", el sábado 1 de septiembre de 1984.
 
@@ -313,7 +315,13 @@ VI.- El lugar, fecha y hora en que se celebrará el acto de apertura de proposic
 
 VII.- Los criterios conforme a los cuales se decidirá la adjudicación.
 
-ARTICULO 28 (sic).- Todo interesado que satisfaga los términos de la convocatoria tendrá derecho a presentar proposiciones.
+###### ARTICULO 27.
+
+(N. DE E. ESTE ARTICULO NO APARECE EN TEXTO ORIGINAL).
+
+###### ARTICULO 28.
+
+Todo interesado que satisfaga los términos de la convocatoria tendrá derecho a presentar proposiciones.
 
 ###### ARTICULO 29.
 
@@ -616,3 +624,31 @@ Diputada Presidenta, Q.F.B. MA. HAYDEE QUIÑONEZ SILVA.- Rúbrica.- Diputado Sec
 Por tanto mando se imprima, publique, circule y observe.
 
 Palacio de Gobierno, Colima, Col., a 16 de agosto de 1984. La Gobernadora Const. del Estado, LICDA. GRISELDA ALVAREZ.- Rúbrica.- El Secretario General de Gobierno, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 16 DE NOVIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga la Ley de Obras Públicas Estatal, aprobada mediante Decreto número 168, de fecha 16 de agosto de 1984 y publicada en el Periódico Oficial el 1º de septiembre del mismo año.
+
+###### ARTICULO TERCERO.
+
+Las disposiciones administrativas expedidas en esta materia vigentes al momento de la publicación de este ordenamiento, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.
+
+###### ARTICULO CUARTO.
+
+El Ejecutivo Estatal expedirá el Reglamento de esta Ley, dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor de la misma.
+
+###### ARTICULO QUINTO.
+
+Los procedimientos de contratación, de aplicación de sanciones y de inconformidades, así como los demás asuntos que se encuentren en trámite o pendiente de resolución se tramitarán y resolverán conforme a las disposiciones vigentes al momento en que se iniciaron.
+
+Los contratos de obras públicas y de servicios que se encuentren vigentes al entrar en vigor esta Ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
+
+Las rescisiones administrativas que por causas imputables al contratista se hayan determinado de acuerdo con lo dispuesto en la Ley de Obras Públicas Estatal, se continuarán considerando para los efectos de los artículos 51, fracción III, y 78, fracción II de esta Ley.
