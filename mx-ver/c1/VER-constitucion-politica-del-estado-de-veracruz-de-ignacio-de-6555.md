@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1931-11-10"
+last_updated: "1932-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE NOVIEMBRE DE 1931.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE AGOSTO DE 1932.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -66,6 +66,10 @@ UNICO.- Esta reforma comenzará a surtir sus efectos, desde el momento de su pub
 G.O. 10 DE NOVIEMBRE DE 1931.
 
 La presente Ley entrará en vigor tan luego como sea publicada en la "Gaceta Oficial" del Estado.
+
+G.O. 13 DE AGOSTO DE 1932.
+
+UNICO.- Estas reformas comenzarán a regir desde la fecha en que sean publicadas, por Bando Solemne, en las poblaciones del Estado.
 
 ### CAPITULO II.
 
@@ -347,9 +351,11 @@ La Legislatura se renovará, en su totalidad, cada dos años y comenzará a func
 
 Tendrá, en cada año, dos períodos de sesiones ordinarias: el primero, prorrogable por treinta días, principiará en la fecha expresada en el artículo precedente y concluirá el 16 de diciembre, y el segundo, improrrogable, comenzará el 5 de mayo y terminará en igual fecha de julio.
 
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
+
 ###### Artículo 53.
 
-En el primer período, la Legislatura se ocupará, de preferencia, en examinar, discutir y aprobar los presupuestos que, con relación a los gastos del año siguiente, le serán presentados por el Gobernador, por los Ayuntamientos, por la Dirección General de Enseñanza y por la Universidad; así como en señalar los fondos con que deban cubrirse los mismos presupuestos. En el segundo, se ocupará, con la misma preferencia, en examinar y calificar las cuentas de recaudación y distribución de caudales del año próximo anterior, que serán presentadas por el Tesorero General y los Ayuntamientos en los primeros días de las sesiones. La revisión no se limitará a examinar si las cantidades gastadas están o no de acuerdo con las partidas respectivas del Presupuesto, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y a las responsabilidades a que hubiere lugar. No podrá haber otras partidas secretas fuera de las que se consideren necesarias con ese carácter en el Presupuesto del Gobierno del Estado; las que empleará el Secretario por acuerdo escrito del Gobernador.
+En el primer período, la Legislatura se ocupará de preferencia, en examinar, discutir y aprobar los Presupuestos que, con relación a los ingresos y egresos del año siguiente, les serán presentados por el Gobernador; así como en examinar y aprobar los Planes de Arbitrios de los Municipios. En el segundo, se ocupará, con la misma preferencia, en examinar y calificar las cuentas de recaudación y distribución de caudales, del año próximo anterior, que serán presentadas por el Gobernador y los Ayuntamientos, en las fechas que indiquen las leyes orgánicas respectivas. La revisión no se limitará a examinar si las cantidades gastadas están o no de acuerdo con las Partidas respectivas del Presupuesto, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y de las responsabilidades a que hubiere lugar. No podrá haber otras partidas secretas, fuera de las que se consideren necesarias con ese carácter, en el Presupuesto del Gobierno del Estado; las que empleará el Secretario por acuerdo escrito del Gobernador.
 
 ###### Artículo 54.
 
@@ -369,9 +375,11 @@ Ni la Junta Preparatoria ni la Legislatura pueden ejercer sus funciones sin la c
 
 Se entiende también que los Diputados que falten a diez días consecutivos, sin causa justificada, o sin previa licencia del Presidente de la Legislatura -con la cual se dará conocimiento a ésta- renuncian a concurrir durante ese período, llamándose, desde luego, a los suplentes. Si no hubiere quórum para instalar la Legislatura o para que ejerza sus funciones una vez instalada, se convocará inmediatamente a los suplentes para que se presenten a la mayor brevedad a desempañar su cargo, entre tanto transcurren los ocho días de que antes se habla.
 
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
+
 ###### Artículo 57.
 
-El lugar de sesiones de la Legislatura, será el designado para la residencia de los Poderes del Estado, y no podrá trasladarse provisionalmente a otro punto, sin que para ello estén de acuerdo las dos terceras partes de los Diputados presentes.
+El lugar de sesiones de la H. Legislatura, será la ciudad de Jalapa, en donde residirán los Poderes del Estado, los que sólo podrán transladarse a otro lugar, provisionalmente, por decreto de la Legislatura o de la Diputación Permanente.
 
 ###### Artículo 58.
 
@@ -381,11 +389,13 @@ A la apertura de sesiones de la Legislatura precederán las reuniones de la Junt
 
 El día de la instalación y antes del acto, los Diputados harán formal protesta de guardar esta Constitución y la General de la República, mirando en todo por el bien del Estado. Igual protesta se exigirá a los que no hayan asistido a la instalación, cuando se presenten a desempeñar su encargo.
 
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
+
 ###### Artículo 60.
 
-El Gobernador y Presidente del Tribunal Superior de Justicia, asistirán a la apertura de las sesiones ordinarias y leerá, cada uno de ellos, un informe en que se expondrá, en términos generales, el estado de los ramos de la administración pública encomendados respectivamente a los Poderes Ejecutivo y Judicial. El Presidente de la Legislatura contestará refiriéndose, en su discurso, al informe del Gobernador, primero, y al del Presidente del H. Tribunal, después.
+El Gobernador y el Presidente del Tribunal Superior de Justicia, asistirán anualmente, el 16 de septiembre, a la apertura de las sesiones ordinarias y leerá, cada uno de ellos, un informe en que se expondrá, en términos generales, el estado de los Ramos de la Administración Pública, encomendados, respectivamente, a los Poderes Ejecutivo y Judicial. El Presidente de la Legislatura contestará, refiriéndose en su discurso, al informe del Gobernador, primero y al del Presidente del Tribunal, después.
 
-Si el Gobernador no pudiere concurrir por hallarse enfermo o por cualquiera otra causa justificada, enviará a la Legislatura el informe de que trata el párrafo anterior, y el Secretario de la Cámara dará lectura a ese documento.
+Si el Gobernador no pudiere concurrir por hallarse enfermo o por cualquiera otra causa justificada, enviará a la Legislatura el informe de que trata el párrafo anterior y el Secretario de la Cámara dará lectura a ese documento.
 
 ###### Artículo 61.
 
@@ -445,9 +455,9 @@ III. Reclamar, ante la Suprema Corte de Justicia de la Nación, cuando alguna le
 
 IV. Hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y declarar electo al que haya obtenido mayoría, con arreglo al artículo 40;
 
-> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 1924)</small>
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 1932)</small>
 
-V. Calificar la validez de estas elecciones y resolver sobre las renuncias que presenten estos funcionarios, los Magistrados del Tribunal Superior de Justicia del Estado y el Procurador de Justicia del mismo;
+V. Calificar la validez de estas elecciones y resolver sobre las renuncias que presenten este Funcionario y los Magistrados del Tribunal Superior de Justicia del Estado;
 
 VI. Decidir sobre la legalidad de las elecciones de los Ayuntamientos cuando se reclame contra ellas, consignando al Procurador General, a los que resulten culpables de algún fraude;
 
@@ -455,9 +465,9 @@ VII.- Suspender definitivamente, previa formación de proceso, a los miembros de
 
 VIII. Hacer la división del Estado en Distritos electorales, de acuerdo con el último censo, y fijar la circunscripción y cabecera de ellos;
 
-> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 1924)</small>
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 1932)</small>
 
-IX. Conceder licencia temporal para separarse de su cargo al Gobernador, a los Magistrados del Tribunal Superior, al Procurador de Justicia y a los Diputados; y concederla al Gobernador para salir del Estado;
+IX. Conceder licencia temporal para separarse de su cargo al Gobernador, a los Magistrados del Tribunal Superior y a los Diputados, y concederla al Gobernador para salir del Estado;
 
 X. Recibir a los mismos funcionarios la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las leyes que de ambas emanen;
 
@@ -465,9 +475,7 @@ XI. Declarar, cuando se trate de delitos comunes, si hay lugar a formación de c
 
 XII. Conocer, como jurado de calificación, en las causas de responsabilidad de los mismos, por delitos cometidos en el ejercicio de sus funciones;
 
-> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 1924)</small>
-
-XIII. Nombrar a propuesta en terna del Ejecutivo, al Tesorero General, al Jefe de la Dirección de Educación y al Director de Salubridad;
+XIII. (DEROGADA, G.O. 13 DE AGOSTO DE 1932)
 
 XIV. Fijar anualmente los gastos públicos y decretar las contribuciones con que hayan de ser cubiertos, en vista del Presupuesto que el Ejecutivo presente.
 
@@ -505,17 +513,19 @@ XXIX. Conceder cartas de ciudadanía a los vecinos de otros Estados que fueren a
 
 XXX. Reahabilitar (sic), con arreglo a las leyes, a los que por sentencia pronunciada en el Estado hayan perdido los derechos de ciudadanía, civiles o de familia;
 
-> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 1924)</small>
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 1932)</small>
 
-XXXI. Constituirse en Colegio Electoral y nombrar a los Magistrados propietarios y supernumerarios del Tribunal Superior de Justicia del Estado y al Procurador General del mismo;
+XXXI. Constituirse en Colegio Electoral y nombrar a los Magistrados propietarios y supernumerarios del Tribunal Superior de Justicia del Estado;
 
 XXXII. Constituirse en Colegio Electoral y elegir al ciudadano que deba substituir al Gobernador del Estado, ya sea con el carácter de substituto o de provisional, en los términos del artículo 86 de esta Constitución;
 
 XXXIII. Cuando falte a la vez un Diputado propietario y el suplente respectivo, la Legislatura convocará a elecciones extraordinarias, siempre que hayan de transcurrir más de seis meses para que las ordinarias se efectúen;
 
-XXXIV. Señalar las contribuciones que deban formar la hacienda del Municipio, procurando sean suficientes a cubrir sus necesidades y revisar y aprobar la (sic) cuentas que éstos presenten por el ejercicio anterior y revisar y aprobar los presupuestos del siguiente;
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 1932)</small>
 
-XXXV. Señalar los tantos por ciento a que se refiere la fracción II del artículo 114 de esta Constitución;
+XXXIV. Señalar las contribuciones que deben formar la Hacienda de los Municipios, procurando sean suficientes a cubrir sus necesidades, examinar y aprobar los Planes de Arbitrios y glosar las cuentas que le presenten los Ayuntamientos, en los términos que fijará una Ley Orgánica.
+
+XXXV. (DEROGADA, G.O. 13 DE AGOSTO DE 1932)
 
 XXXVI. Dictar las leyes a que se refiere la fracción VII (párrafo segundo) del artículo 27 de la Constitución General y los incisos (A) y (F) del mismo artículo;
 
@@ -563,7 +573,7 @@ Y (SIC). La Universidad tendrá a su cargo, además de las facultades, todo lo r
 
 J. El Ejecutivo del Estado, por medio de Inspectores o por conducto de la Dirección General de Educación o de la Universidad, ejercerá la sobre-vigilancia necesaria en las Escuelas Municipales y Particulares, en los términos que dispongan las leyes relativas; y
 
-K. La Legislatura señalará los arbitrios que se han de aplicar al sostenimiento de la enseñanza, en vista de los presupuestos de gastos que presentarán oportunamente, la Dirección General y la Universidad. Las contribuciones y rentas destinadas a las escuelas, no podrán ser distraídas para otro objeto.
+K. (DEROGADO, G.O. 13 DE AGOSTO DE 1932)
 
 XLV. Formar su Reglamento interior, tomar las providencias necesarias para hacer concurrir o los Diputados ausentes y corregir las faltas u omisiones de los presentes;
 
@@ -587,7 +597,11 @@ V. Mandar a hacer cortes de cuentas con los acreedores del Estado, a fin de deja
 
 VI. Usurpar las facultades de los Poderes Ejecutivo y Judicial, y mezclarse en el ejercicio de las funciones que a ellos competen; y
 
-VII. Otorgar dispensas por revalidación en los estudios que determinen las leyes sobre enseñanza pública, para el efecto de obtener títulos profesionales.
+VII. Otorgar dispensas por revalidación en los estudios que determinen las leyes sobre enseñanza pública, para el efecto de obtener títulos profesionales;
+
+> <small>(ADICIONADA, G.O. 13 DE AGOSTO DE 1932)</small>
+
+VIII. Condonar los impuestos causados en favor de los Municipios, a no ser en el caso de que los Ayuntamientos interesados lo soliciten o expresen su conformidad.
 
 ###### Artículo 70.
 
@@ -717,11 +731,11 @@ V. No tener empleo, cargo o comisión de otros Estados, ni de la Federación, o 
 
 VI. Gozar de buena reputación y no haber sido condenado por delito grave que merezca pena corporal de más de una año de prisión; pero si se tratare de delitos oficiales, de robo, fraude, estafa, falsificación, abuso de confianza u otros que lastimen la fama en el concepto público o fueren de los que causen afrenta, inhabilitará para el cargo cualquiera que haya sido la pena.
 
-> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 1924)</small>
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
 
 ###### Artículo 97.
 
-Los Magistrados propietarios, los supernumerarios y el Procurador General, serán electos por la Legislatura en funciones de Colegio Electoral, siendo indispensable que concurran cuando menos las dos terceras partes del número total de sus miembros. La elección será en escrutinio secreto y por mayoría absoluta de votos, previa discusión de las candidaturas que deberán presentarse para Magistrados y de la terna que para Procurador propondrá al efecto el Gobernador; unas y otras con cinco días de anticipación como término mínimo a la fecha de la elección. Si no hubiere mayoría absoluta en la primera votación, se repetirá entre los dos candidatos que hubieren obtenido más votos. Los Jueces de primera Instancia y los Agentes del Ministerio Público que reúnan los requisitos prevenidos para ser electos Magistrados y que se hayan distinguido por su laboriosidad, eficacia, competencia y honradez en el ejercicio de sus funciones, serán preferidos a cualquier otro Abogado para ser designado Magistrado.
+Los Magistrados Propietarios y los Supernumerarios, serán electos por la Legislatura en funciones de Colegio Electoral, siendo indispensable que concurran, cuando menos, las dos terceras partes del número total de sus miembros. La elección será en escrutinio secreto y por mayoría absoluta de votos, previa discusión de las candidaturas, que serán presentadas con cinco días de anticipación, como término mínimo. Si no hubiere mayoría absoluta en la primera votación, se repetirá entre los candidatos que hubieren obtenido más votos. Los Jueces de primera Instancia y los Agentes del Ministerio Público, que reúnan los requisitos prevenidos para ser electos Magistrados y que se hayan distinguido por su laboriosidad, eficacia, competencia y honradez, en el ejercicio de sus funciones, serán preferidos a cualquier otro Abogado para ser designados Magistrados.
 
 > <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 1924)</small>
 
@@ -733,17 +747,15 @@ Los Jueces Municipales serán nombrados por los primeros o únicos de primera In
 
 Los Secretarios de los Juzgados Municipales serán nombrados por los Jueces Municipales a propuesta en terna de los Ayuntamientos respectivos, debiendo llenar los propuestos los requisitos establecidos por la Ley relativa.
 
-> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 1924)</small>
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
 
 ###### Artículo 99.
 
-Cada Magistrado, propietario o supernumerario, y el Procurador General, durarán en su encargo cuatro años, no pudiendo ser reelectos.
+Los Magistrados del Tribunal Superior de Justicia, permanecerán en su encargo cuatro años, no podrán ser reelectos para el período inmediato y serán renovados por mitad cada dos años.
 
-El Tribunal se renovará por mitad cada dos años. A este efecto, los Magistrados propietarios y supernumerarios que en la próxima sesión periódica resulten designados para los números pares, sólo durarán dos años.
+Los Jueces de primera Instancia y los Municipales, durarán indefinidamente en sus cargos, siempre que se distingan en el ejercicio de sus funciones por medio de una labor ecuánime y efectiva, para el mejoramiento de la Administración de Justicia, pudiendo ser removidos cuando lo estime conveniente el Tribunal, por mayoría absoluta de votos de los Magistrados presentes o en los casos que determine la Ley.
 
-Los Jueces de primera Instancia y los Municipales, durarán indefinidamente en sus cargos, siempre que se distingan en el ejercicio de sus funciones por medio de una labor ecuánime y efectiva para el mejoramiento de la Administración de Justicia en el Estado, pudiendo ser removidos cuando lo estimare conveniente el Tribunal por mayoría absoluta de votos de los Magistrados presentes o en los casos que determine la Ley de Responsabilidades.
-
-Los Jueces auxiliares, cuyo cargo se estimará concejil, durarán en sus funcionares un año, pudiendo ser nombrados nuevamente para el siguiente; pero sin que tengan la obligación de servir más de dos años.
+Los Jueces Auxiliares, cuyo cargo se estimará Concejil, durarán en sus funciones un año, pudiendo ser nombrados nuevamente para el siguiente; pero sin que tengan la obligación de servir más de dos años.
 
 ###### Artículo 100.
 
@@ -753,11 +765,11 @@ El Tribunal residirá en la Capital del Estado, y, en ningún caso, ejercerá su
 
 Jamás podrán reunirse en el Tribunal, dos o más Magistrados que sean parientes consaguineos (sic) dentro del cuarto grado, o afines dentro del segundo.
 
-> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 1924)</small>
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
 
 ###### Artículo 102.
 
-Los cargos de Magistrados del Tribunal Superior y de Procurador, sólo son renunciables por causa grave calificada por la Legislatura ante la que se presentará la renuncia. En los recesos de ésta la calificación se hará por la Diputación Permanente.
+El cargo de Magistrado del Tribunal Superior, sólo es renunciable por causa grave, calificada por la Legislatura, ante la que se presentará la renuncia. En los recesos de ésta, la calificación se hará por la Diputación Permanente.
 
 > <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 1924)</small>
 
@@ -1003,9 +1015,11 @@ Los empleos o cargos públicos del Estado, durarán el tiempo señalado por las 
 
 Sólo podrá reunirse en una sola persona dos o más empleos del Estado y del Municipio, o de éstos y de la Federación, previa autorización de la Legislatura o de la Diputación permanente, que la concederá, atendiendo a la conveniencia pública. Quedan exceptuados de tal regla los empleos del ramo de enseñanza, que se sujetarán, sobre el particular, a lo dispuesto por la ley de tal materia.
 
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
+
 ###### Artículo 134.
 
-Todos los funcionarios públicos de elección popular, percibirán, por sus servicios, la compensación que les designe la ley. El aumento de aquélla no surtirá sus efectos sino hasta que haya fenecido el período constitucional de la Legislatura o Ayuntamiento que lo acuerde, y su disminución hasta que concluya el del funcionario a quien se le haga.
+Todos los Funcionarios Públicos de elección popular, percibirán por sus servicios la compensación que les asigne la Ley; pero la disposición que la aumente o disminuya, no podrá tener efecto durante el período en que el Funcionario ejerza el cargo.
 
 ###### Artículo 135.
 
@@ -1057,11 +1071,11 @@ El Procurador General del Estado será el Jefe de la Institución, nombrará y r
 
 La Ley Orgánica del Ministerio Público determinará las atribuciones de los funcionarios que lo formen y los requisitos necesarios para ser Agente.
 
-> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 1924)</small>
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
 
 ###### Artículo 109.
 
-Las faltas temporales del Procurador, que no excedan de cinco días, serán suplidas por el Agente que él designe, las de mayor tiempo y las absolutas se suplirán por el Magistrado supernumerario que la Legislatura o la Diputación Permanente designe, y sólo cuando la falta absoluta ocurra antes de los seis últimos meses para la terminación del período, se procederá a nueva elección.
+Las faltas temporales del Procurador General de Justicia, que no excedan de cinco días, serán suplidas por el Agente que él designe las de mayor tiempo y las absolutas, se suplirán por la persona que al efecto designe el Gobernador.
 
 ###### Artículo 80.
 
@@ -1079,11 +1093,11 @@ Las contribuciones serán decretadas en cantidad suficiente para cubrir los gast
 
 Para cubrir un déficit imprevisto en el tesoro, reprimir insurrecciones, o para la defensa, en caso de guerra, podrá hacerse uso del crédito del Estado, pero jamás se delegará esta facultad en un individuo o corporación.
 
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
+
 ###### Artículo 118.
 
-Todos los caudales públicos, pertenecientes al Estado, ingresarán real o virtualmente a la Tesorería General. El Tesorero hará la distribución de ellos según el Presupuesto y será responsable personal y pecuniariamente, por los pagos que efectúe sin que estén comprendidos en aquél, o autorizados por la ley. Cuando la cantidad señalada para cubrir una partida del Presupuesto esté próxima a agotarse, el Tesorero lo avisará al Ejecutivo, a fin de que éste pida a la Legislatura la ampliación correspondiente.
-
-El Tesorero General tendrá la obligación de presentar a la Legislatura, al día siguiente de la apertura de su primer período de sesiones ordinarias, una Memoria sobre el estado del tesoro público, proponiendo las medidas que sean necesarias para mejorarlo.
+Todos los caudales públicos pertenecientes al Estado, ingresarán a la Tesorería General o a las Oficinas de Hacienda que determine la Ley. El Tesorero hará la distribución de ellos según el Presupuesto y será responsable, personal y pecuniariamente, por los pagos que efectúe sin que estén comprendidos en aquél o autorizados por la Ley.
 
 ###### Artículo 119.
 
@@ -1101,9 +1115,11 @@ La ley determinará la organización, planta y dotación de las oficinas de haci
 
 La Diputación permanente durará hasta la siguiente reunión ordinaria de la Legislatura.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE AGOSTO DE 1932)</small>
+
 ###### Artículo 82.
 
-Son atribuciones de la Diputación permanente:
+Son atribuciones de la Diputación Permanente:
 
 I. Convocar a la Legislatura a sesiones extraordinarias, en los casos que la misma Diputación estime urgente, o a moción del Ejecutivo, conforme al artículo 54, pudiendo hacer la convocatoria para lugar distinto de la capital del Estado, cuando las circunstancias así lo exijan;
 
@@ -1125,7 +1141,11 @@ IX. Resolver todos los asuntos concernientes a las elecciones de funcionarios mu
 
 X. Autorizar al Ejecutivo para poner sobre las armas la Guardia Nacional; y
 
-XI. Nombrar Gobernador Provisional, en el caso que se refiere el párrafo segundo del artículo 86.
+XI. Nombrar Gobernador Provisional, en el caso que se refiere el párrafo segundo del artículo 86;
+
+> <small>(ADICIONADA, G.O. 13 DE AGOSTO DE 1932)</small>
+
+XII. Conocer de los asuntos relacionados con la Hacienda de los Municipios y revisar y aprobar sus cuentas.
 
 ###### Artículo 83.
 
@@ -1187,9 +1207,13 @@ VIII. Visitar a los Municipios del Estado, cuando lo estime conveniente, proveye
 
 IX. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a éstos el auxilio que necesiten para el ejercicio expedito de sus funciones;
 
-X. Ocurrir al acto de abrir la Legislatura sus sesiones ordinarias;
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 1932)</small>
 
-XI. Acordar que concurran el Secretario de Gobierno o el Tesorero General, a las sesiones de la Legislatura, para que dén a ésta los informes que pida o para apoyar, en los debates, las observaciones que haga el Ejecutivo a los proyectos de ley o decreto, o a las iniciativas que presentare;
+X. Ocurrir anualmente al acto de abrir la Legislatura sus sesiones ordinarias, el 16 de septiembre;
+
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 1932)</small>
+
+XI. Acordar que concurra el Secretario de Gobierno a las sesiones de la Legislatura, para que dé a ésta los informes que pida o para apoyar, en los debates, las observaciones que haga el Ejecutivo a los proyectos de ley o decretos, o bien las iniciativas que presentare;
 
 > <small>(REFORMADA, G.O. 21 DE SEPTIEMBRE DE 1922)</small>
 
@@ -1197,11 +1221,13 @@ XII. Pasar al Procurador los asuntos que deban ventilarse dentro de los Tribunal
 
 XIII. Impedir los abusos de la fuerza armada, contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que aquélla incurriere;
 
-XIV. Nombrar y remover libremente al Secretario de Gobierno y a los empleados de la Secretaría; concederles, sin sueldo, las licencias que soliciten; suspender a los empleados hasta por tres meses, por faltas comprobadas en el desempeño de sus obligaciones y que no den motivo a que se les instruya causa o a que se les destituya;
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 1932)</small>
 
-> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 1924)</small>
+XIV. Nombrar y remover libremente al Secretario de Gobierno, al Tesorero General y a los empleados de la Secretaría; concederles, sin sueldo, las licencias que soliciten y suspender a los empleados hasta por tres meses, por faltas comprobadas en el desempeño de sus obligaciones y que no den motivo a que se les instruya causa o a que se les destituya;
 
-XV. Proponer a la Legislatura por medio de terna el nombramiento de Procurador General de Justicia, del Jefe de la Dirección de Educación, del Tesorero General, del Director General de Salubridad, y aprobar los nombramientos de empleados hechos por los Jefes de Oficina en el Ramo Gubernativo y en el de Hacienda;
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 1932)</small>
+
+XV. Nombrar y remover libremente al Procurador General de Justicia, al Director de Educación, al Director General de Salubridad y a todos los Funcionarios y empleados dependientes del Poder Ejecutivo;
 
 XVI. Nombrar los Jueces especiales del Estado Civil y fijar la demarcación en que deban ejercer sus funciones;
 
