@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-arancel-12883"
 country: "mx"
 rank: "ley"
 publication_date: "1989-03-01"
-last_updated: "1989-03-01"
+last_updated: "1996-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,17 +23,17 @@ state: "ZAC"
 
 LEY DE ARANCEL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1996.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 1 de marzo de 1989.
 
-LICENCIADO GENARO BORREGO ESTRADA, Gobernador Constitucional del Estado Libre y Soberano de Zacatecas, a sus habitantes hago saber;
+LICENCIADO GENARO BORREGO ESTRADA, Gobernador Constitucional del Estado Libre y Soberano de Zacatecas, a sus habitantes hago saber:
 
-Que los CC. Diputados Secretarios de la H. Quincuagésimo Segunda Legislatura del Estado, se han servido dirigirme el siguiente:
+Que los CC. Diputados Secretarios de la H. Quincuagésimo Segunda Legislatura del Estado, se han servido dirigirme el siguiente;
 
 DECRETO # 471
 
-LA H. QUINCUAGESIMO SEGUNDA LEGISLATURA DEL ESTADO LIBRE SOBERANO DE ZACATECAS.
+LA H. QUINCUAGESIMO SEGUNDA LEGISLATURA DEL ESTADO LIBRE - SOBERANO DE ZACATECAS.
 
 CONSIDERANDO PRIMERO.- Que la Ley de Arancel de Abogados para el pago de honorarios, de agosto 13 de 1975, era acorde a las condiciones económicas del Estado dentro del concierto nacional, por lo que las tarifas que estableció eran y fueron las adecuadas hasta 1980, a partir de esa fecha nuestra realidad social y económica ha sido completamente diferente ante la presencia de fenómenos económicos inflacionarios, devaluación de la moneda, etc., por lo que procede la derogación de la citada Ley de Arancel y emitir una nueva.
 
@@ -73,17 +73,23 @@ III. Por cada consulta por escrito, según la importancia del asunto las dificul
 
 IV. Por su intervención en las audiencias, junta o cualquier otra diligencia judicial o administrativa, o ante cualquier funcionario o autoridad, se cobrarán por cada hora o fracción desde cuatro a siete cuotas de salario mínimo, cantidad que podrá aumentarse dada la cuantía e importancia del negocio, a juicio del Juez o Tribunal.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
 ###### ARTICULO 5.
 
-En los negocios judiciales cuyo interés no exceda de ciento cincuenta cuotas de salario mínimo, por todos los trabajos desde los preliminares hasta que se dicte sentencia definitiva o convenio, se cobrará el 15% del valor fijado en la sentencia definitiva o convenio.
+En los negocios judiciales cuyo monto no exceda de doscientas cuotas de salario mínimo, por todos sus trabajos, desde los preliminares hasta que se dicte sentencia definitiva o convenio, se cobrará el 15% de la condena establecida en la sentencia definitiva o convenio celebrado.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
 ###### ARTICULO 6.
 
-En los negocios judiciales cuyo interés pase de ciento cincuenta cuotas, pero no de setecientas quince, se cobrará el 12%.
+En los negocios judiciales cuyo interés pase de doscientas cuotas, pero no de setecientas cincuenta, se cobrará el 12 % del valor fijado en la sentencia definitiva o convenio.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
 ###### ARTICULO 7.
 
-En los negocios judiciales cuyo interés pase de setecientas quince cuotas, pero no de mil cuatrocientas treinta cuotas de salario mínimo se cobrará:
+En los negocios judiciales cuyo interés pase de setecientas cincuenta, pero no de mil doscientas cincuenta cuotas de salario mínimo se cobrará:
 
 I. Por estudio del negocio y escrito de demanda o contestación el 5% del importe de la suerte principal.
 
@@ -115,9 +121,15 @@ XIV. Por escrito donde se expresen agravios o contestación a los mismos en apel
 
 XV. Por las demás gestiones no especificadas ni cotizadas en este arancel que se hicieren, por cada una de ellas tres cuotas.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
 ###### ARTICULO 8.
 
-Si el valor del negocio excede de mil cuatrocientas treinta cuotas, se duplicarán las cuotas señaladas en el artículo anterior.
+Si el valor del negocio excede de mil doscientas cincuenta cuotas pero no de dos mil cuotas, se cobrará:
+
+I. Por estudio del negocio y escrito de demanda o contestación, el 3% del importe de la suerte principal. Además se tendrá derecho a cobrar lo estipulado en las fracciones de la II a la XV del artículo anterior.
+
+II. Si la suerte principal del negocio excede de dos mil cuotas de salario mínimo se cobrará el 2% del importe de la suerte principal por el estudio del negocio y escrito de demanda o contestación, más lo previsto en las fracciones de la II a la VII del artículo anterior.
 
 ###### ARTICULO 9.
 
@@ -143,15 +155,19 @@ Los honorarios que se causen serán pagados de la masa de quiebra, liquidación 
 
 Los interventores cobrarán sean o no abogados, de acuerdo con los preceptos aplicables de los artículos 5º , 6º, 7º y 8º de este arancel.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
 ###### ARTICULO 11.
 
-Cuando se trate de títulos de crédito, si el abogado intervino en el cobro y lo logró sin la intervención judicial, cobrará el 5% sobre el monto del adeudo.
+Cuando se trate de títulos de crédito el abogado cobrará:
 
-Si el pago del documento se hace después de presentada la demanda o practicado el embargo, cobrará de acuerdo con la siguiente tarifa:
+I. Si el cobro del título de crédito se logró sin la intervención judicial, el 0.5% de la suerte principal; o
 
-Hasta ciento cincuenta cuotas el 15%, cuando pase de ciento cincuenta, pero no de setecientas quince cuotas, el 12%, cuando pase de setecientas quince cuotas, pero no de mil cuatrocientas treinta, el 10% y cuando pase de mil cuatrocientas treinta cuotas de salario mínimo el importe de la suerte principal el 5% sobre la misma.
+II. Si el pago del documento se hace después de presentada la demanda o practicado el embargo, además de lo previsto en las fracciones de la II a la XV del artículo 7, se cobrará sobre la suerte principal:
 
-Si después de presentada la demanda o practicado el embargo, se sigue actuando en el juicio correspondiente, el abogado tendrá derecho a cobrar además de lo mencionado en el párrafo anterior, lo que fija este arancel para las promociones, notificaciones y actuaciones, según el importe de la suerte principal.
+a) Hasta 3,000 cuotas el 3%;
+
+b) Si excede de 3,000 cuotas, el 0.5 %.
 
 ###### ARTICULO 12.
 
@@ -267,19 +283,27 @@ Cuando el abogado saliere del lugar de su residencia, además de los honorarios 
 
 ### CAPITULO CUARTO. PERITOS
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
 ###### ARTICULO 37.
 
-Los peritos valuadores cobrarán:
+Los peritos valuadores cobrarán, si son titulados:
 
-I. Por avalúo de mueble u objetos el 4% sobre el valor asignado, si éste no excede de treinta cuotas de salario mínimo general, cuando pase de esta cantidad pero no de sesenta cuotas de salario mínimo se cobrará el 2% y cuando excede de sesenta cuotas el 1% hasta mil cuatrocientas treinta cuotas y después de esta cantidad el 0.5%;
+I. Por el avalúo de bienes muebles o inmuebles de conformidad con la siguiente tabla:
 
-II. Por avalúo de bienes inmuebles, si el perito es titulado cobrara el 3% si el valor asignado no excede de lo equivalente a treinta cuotas de salario mínimo general, cuando pase de esta cantidad pero no de sesenta cuotas cobrará el 2%, cuando exceda de sesenta cuotas hasta lo equivalente a mil cuatrocientas treinta cuotas el 1% y después de esta cantidad el 0.5 %;
+a) Si el valor del bien es de hasta 50 cuotas, el 4% del valor asignado;
 
-III. En donde no hubiere peritos titulados y sean nombrados prácticos en la materia, se le abonará la mitad de los honorarios devengados.
+b) Si el valor del bien excede de 50 cuotas, pero no de 100 cuotas, cobrará el 2 % del valor asignado;
 
-Cuando por razón de su encargo, los peritos deban salir del lugar de su residencia deberán abonárseles el importe de los gastos que se causen con ese motivo y además cobrará un 10% de las tarifas señaladas en los artículos precedentes;
+c) Cuando el valor del bien exceda de 100 cuotas pero fuere menor de 1,500 cuotas, el perito cobrará el 1.5% del valor pericial.
 
-IV. Cuando los abogados fueren nombrados peritos para valuar servicios de su misma profesión, créditos litigiosos, o en cualquier otra acción o derecho, tendrán derecho a cobrar las cuotas establecidas en la fracción I de este artículo.
+d) Si el valor del bien excede de 1,500 cuotas, el perito cobrará el 1% del valor asignado.
+
+II. En donde no hubiere peritos titulados y sea nombrados prácticos en la materia, se les abonará el 50% de los honorarios señalados en la fracción que antecede.
+
+Cuando por razón de su encargo, los peritos deban salir del lugar de su residencia, deberá abonárseles el importe de los gastos que se causen con ese motivo y además cobrarán un 50% de las tarifas señalas en los artículos precedentes.
+
+III. Cuando los abogados fueren nombrados peritos para valuar servicios de su misma profesión, créditos, litigios o cualquiera otra acción o derecho, podrán cobrar las cuotas establecidas en la fracción I de este artículo.
 
 ###### ARTICULO 38.
 
@@ -372,3 +396,11 @@ LIC. GENARO BORREGO ESTRADA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ROGELIO HERNANDEZ QUINTERO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ARANCEL.</small>
+
+P.O. 14 DE SEPTIEMBRE DE 1996
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.}
+
+SEGUNDO.- Los juicios de competencia local o concurrente que se hayan iniciado con anterioridad a la fecha de inicio de vigencia del presente Decreto se regirán por las normas vigentes a la fecha de su inicio.
