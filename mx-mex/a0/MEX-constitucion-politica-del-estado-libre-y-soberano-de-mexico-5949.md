@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1950-01-04"
+last_updated: "1951-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE ENERO DE 1950.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE FEBRERO DE 1951.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -325,7 +325,7 @@ V. Los Jefes de la Guardia Nacional que estuvieren en servicio activo durante el
 
 Para los efectos de esta fracción y de la anterior, se entenderá por período electoral el transcurrido desde los trabajos preparatorios o promulgación de la convocatoria, en su caso, hasta el día de la elección;
 
-> <small>(REFORMADA, G.G. 8 DE ENERO DE 1944)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 1944)</small>
 
 VI.- El Gobernador, el Secretario General de Gobierno, el Oficial Mayor, los Magistrados del Tribunal Superior, el Procurador de Justicia y el Director General de Hacienda del Estado, a menos de separarse de sus cargos respectivos, noventa días antes de la elección;
 
@@ -403,11 +403,11 @@ Toda resolución que dicte la Legislatura, tendrá el carácter de ley, decreto,
 
 #### SECCION SEGUNDA. DE LA INSTALACION DE LA LEGISLATURA
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1950)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1951)</small>
 
 ###### Art. 44.
 
-La Legislatura se renovará en su totalidad cada cuatro años, sin que por ningún motivo el mandato por virtud del cual funcionen sus miembros pueda prorrogarse más allá de este período de tiempo.
+La Legislatura se renovará en su totalidad cada tres años, sin que por ningún motivo el mandato por virtud del cual funcionen sus miembros pueda prorrogarse más allá de este período de tiempo.
 
 ###### Art. 45.
 
@@ -1986,3 +1986,9 @@ G.G. 4 DE ENERO DE 1950.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno", y el período de cuatro años a que se refiere el artículo 44 surtirá efectos a partir de la renovación de la actual H. XXXVII Legislatura Local.
+
+G.G. 17 DE FEBRERO DE 1951.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor en la fecha de su publicación en la "Gaceta del Gobierno", y el período de tres años a que se refiere la reforma del artículo 44 de la Constitución Local, surtirá efectos a partir de la renovación de la actual Legislatura.
