@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1980-06-04"
+last_updated: "1980-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE JULIO DE 1980 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1980.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -281,7 +283,9 @@ I.- Que el candidato esté en pleno goce de los derechos de ciudadanía, de acue
 
 II.- Ser Ciudadano del Estado, en ejercicio de sus derechos, nacido en el Estado o vecino con residencia en él por más de cinco años.
 
-III.- Tener veinticinco años cumplidos el día de la elección.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 1980)</small>
+
+III.- Tener veintiún años cumplidos el día de la elección.
 
 IV.- Poseer suficiente instrucción.
 
@@ -1988,3 +1992,7 @@ P.O. 4 DE JUNIO DE 1980.
 PRIMERO.- Se deroga la fracción XVI del Artículo 91 de esta Constitución.
 
 SEGUNDO.- Este decreto inicia su vigencia al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JULIO DE 1980.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
