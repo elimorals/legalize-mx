@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-atencion-integral-para-personas-con-183
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-10"
-last_updated: "2000-05-10"
+last_updated: "2003-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DE ATENCION INTEGRAL PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 10 de mayo de 2000.
 
@@ -107,67 +107,89 @@ Los procedimientos para llevar a cabo las acciones de prevención de discapacida
 
 ### CAPÍTULO I. DE LA SECRETARÍA DE BIENESTAR SOCIAL
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2003)</small>
+
 ###### Artículo 7.
 
-La Secretaría de Bienestar Social, como dependencia coordinadora de los sectores salud, educación, cultura, deporte y asistencia social, en ejercicio de las competencias que la Ley que se reglamenta le otorga, llevará a cabo las siguientes acciones:
+La Secretaría de Salud, como dependencia del Poder Ejecutivo del Estado, en ejercicio de la competencia que la ley le otorga, llevará a cabo las siguientes acciones:
 
-I.- A través de la Subsecretaría de Salud, promoverá e impulsará las acciones para desarrollar los programas de integración social de las personas con discapacidad y su incorporación al desarrollo integral;
+I. En materia de salud, promoverá e impulsará las acciones para desarrollar los programas de integración social de las personas con discapacidad y su incorporación al desarrollo integral;
 
-II.- Previo acuerdo del Titular del Ejecutivo, establecerá las políticas en materia de atención para los discapacitados y propondrá, dirigirá, coordinará y controlará la ejecución de los programas nacionales, estatales, regionales y locales, cuyos objetivos sean la atención, rehabilitación y plena incorporación a la vida familiar y social de las personas con discapacidad;
+II. Previo acuerdo del Titular del Ejecutivo, establecerá las políticas en materia de atención para los discapacitados y propondrá, dirigirá, coordinará y controlará la ejecución de los programas nacionales, estatales, regionales y locales, cuyos objetivos sean la atención, rehabilitación y plena incorporación a la vida familiar y social de las personas con discapacidad;
 
-III.- En cumplimiento de su cometido de promover las acciones tendientes a preservar, mejorar y rehabilitar las condiciones de salud y bienestar social de la población de la entidad, propondrá los criterios metodológicos para la planeación, diseño y aplicación de políticas encaminadas a identificar, registrar y atender los distintos tipos de discapacidad;
+III. En cumplimiento de su cometido de promover las acciones tendientes a preservar, mejorar y rehabilitar las condiciones de salud y bienestar social de la población de la entidad, propondrá los criterios metodológicos para la planeación, diseño y aplicación de políticas encaminadas a identificar, registrar y atender los distintos tipos de discapacidad;
 
-IV.- Como parte de su atribución de elaborar el programa de fomento y promoción de las actividades de asistencia social de la entidad, elaborará, para someterlos a la aprobación del Titular del Ejecutivo, los programas de atención, asistencia médica de prevención, rehabilitación, educación, orientación laboral, equiparación de oportunidades y asistencia social para las personas con discapacidad, procurando integrar el programa incluyendo los lineamientos de la Norma Oficial Mexicana NOM-173-SSAI-1998, para la atención integral a personas con discapacidad y el Acuerdo del Sistema Nacional para el Desarrollo de la Familia, que contiene las reglas de operación de programa de atención a personas con discapacidad;
+IV. Con la participación de las dependencias y entidades que corresponda en el ámbito de sus respectivas competencias, elaborará, para someterlos a la aprobación del Titular del Ejecutivo, los programas de atención, asistencia médica de prevención, rehabilitación, educación, orientación laboral, equiparación de oportunidades y asistencia social para las personas con discapacidad, procurando integrar el programa que incluya los lineamientos de la Norma Oficial Mexicana NOM-173-SSAI-1998, para la atención integral a personas con discapacidad y el Acuerdo del Sistema Nacional para el Desarrollo de la Familia, que contiene las reglas de operación de Programa de Atención a Personas con Discapacidad; vigilará a través de los Servicios de Salud de Morelos que los establecimientos de atención médica de Estado, pertenecientes al Sistema Estatal de salud cumplan los requisitos arquitectónicos señalados en la Norma Oficial Mexicana NOM-001-SSA2-1993; y en su cometido de impulsar la equiparación de oportunidades, promoverá que en los hospitales de la Secretaría de Salud cuenten con un intérprete de lenguaje de señas, estableciendo que los informes se proporcionen a través de un altavoz y también por pantallas electrónicas:
 
-V.- En coordinación de acciones con las dependencias del Gobierno del Estado encargadas de la procuración de justicia, el Sistema Dif-Morelos, los Municipios y el Consejo Coordinador, promoverá y difundirá la defensa de los derechos que la ley otorga a las personas con discapacidad, así como las garantías que consagran la Constitución Política de los Estados Unidos Mexicanos y la Ley Fundamental del Estado de Morelos;
+V. En coordinación con las dependencias del Gobierno del Estado encargadas de la procuración de justicia, el sistema DIF-Morelos, los Municipios y el Organismo Coordinador, promoverá y difundirá los derechos que la ley otorga a las personas con discapacidad así como las garantías que consagran la Constitución Política de los Estados Unidos Mexicanos y la ley fundamental del Estado de Morelos encaminadas a eliminar prejuicios, estereotipas y otras actitudes que atentan contra el derecho de las personas a ser iguales, propiciando de esta forma el respeto y la convivencia con las personas con discapacidad;
 
-VI.- Promoverá, sensibilizará y orientará a la comunidad en general, respecto de la prevención y control de las causas y factores condicionantes de la discapacidad;
+VI. Promoverá, sensibilizará y orientará a la comunidad en general, respecto de la prevención, control de causas y factores condicionantes de la discapacidad; llevará a cabo en coordinación con la Secretaría de Educación programas educativos para prevenir y disminuir los accidentes en el hogar, escuelas, calles y centros de trabajo e informar sobre las enfermedades o padecimientos de los progenitores que implican riesgo para el producto;
 
-VII.- Con el apoyo y colaboración de los sectores público y privado, difundirá en toda la población las prestaciones y servicios existentes en materia de atención a las personas con discapacidad;
+VII. Establecerá en coordinación con el Sistema DIF- Morelos, en todos los centros de rehabilitación, programas de educación sexual, consejo genético y de atención psicológica para las personas con cualquier tipo de discapacidad y sus familias; formulará, promoverá y ejecutará programas para asesorar, orientar y atender psicológicamente a las familias de los menores con discapacidad, a través de cursos, terapias, campañas, enseñanza de lenguaje de señas a fin de lograr su adaptación al núcleo familiar;
 
-VIII.- En términos de los convenios y acuerdos celebrados con el sector público, propiciará la orientación y asistencia gratuita a las personas con discapacidad que intervengan en procesos judiciales;
+VIII. Coordinará con El Instituto de la Educación Básica del Estado de Morelos la elaboración de programas de educación a los menores con discapacidad; procurará que en las instituciones y centros que imparten educación especial en el Estado atiendan a los educandos de manera adecuada a sus propias condiciones con equidad social; y en el caso de menores, esta educación favorezca su integración a los planteles de educación básica regular, mediante la aplicación de métodos técnicas y materiales específicos. Promoverá también que, para quienes no logren esa integración, procure la satisfacción de necesidades básicas de aprendizaje para la convivencia social y productiva autónoma, para lo cual se elaborarán los programas y materiales de apoyo didácticos necesarios.
 
-IX.- Con la colaboración de las autoridades educativas y del trabajo, promoverá la asignación de becas y la creación de programas de capacitación laboral para las personas con discapacidad;
+En consideración de que la discapacidad motora o sensorial por sí misma no determina la imposibilidad de integración a la educación regular, los niños con discapacidad motora o sensorial tendrán la oportunidad de acceso y permanencia a los servicios educativos en todos los niveles y modalidades que preste el Gobierno del Estado, en correspondencia con sus necesidades particulares y sin más limitaciones que los requerimientos establecidos por las disposiciones legales respectivas.
 
-X.- En coordinación con los Institutos del Deporte y de Cultura, fomentará actividades deportivas, culturales y recreativas para las personas con discapacidad;
+Verificará que en los servicios educativos en todos los niveles y modalidades que preste el Gobierno del Estado, se fomente en los Educandos una actitud de respeto y comprensión hacia las personas con discapacidad;
 
-XI.- Conocerá de los informes anuales y los que a su petición rinda el Consejo Coordinador, en cuanto al desempeño de sus funciones, programas y metas alcanzadas;
+IX. Con el apoyo y colaboración de los sectores público y privado, difundirá en toda la población las prestaciones y servicios existentes en materia de atención a las personas con discapacidad; coadyuvará con el sistema-DIF Morelos para difundir entre las personas con discapacidad, la exención de pago de impuestos al comercio exterior por la entrada al territorio nacional o la salida del mismo de los vehículos especiales adaptados y las demás mercancías que importen, que sean para su uso personal, así como aquellas que importen las personas morales no contribuyentes autorizadas para recibir donativos deducibles en el impuesto sobre la renta que tengan como actividad la atención de dichas personas, siempre que se trate de mercancías que por sus características suplan o disminuyan su discapacidad; permitan su desarrollo físico, educativo, profesional o social; se utilicen exclusiva y permanentemente por las mismas para esos fines y cuenten con la autorización de la Secretaría de Economía;
 
-XII.- Evaluará y en su caso, aprobará los planes y programas que proponga el Consejo, así como las normas técnicas en materia de organización y prestación de servicios;
+X. En coordinación con la Procuraduría General de Justicia del Estado, y el Sistema-DlF Morelos propiciará la orientación y representación jurídica a las personas" con discapacidad que intervengan en procesos judiciales, en particular en juicios de Interdicción;
 
-XIII.- En su carácter de dependencia coordinadora de sector, para que se ejecuten con oportunidad y eficiencia los programas, hará aplicación de la partida del Presupuesto de Egresos del Gobierno correspondiente a la beneficencia pública y del porcentaje de la asistencia social, al rubro de discapacidad;
+XI. Con la colaboración de las autoridades educativas y del trabajo, promoverá la asignación de becas y la creación de programas de capacitación laboral para las personas con discapacidad;
 
-XIV.- Proporcionará al Consejo Coordinador el apoyo técnico que requiera para sus funciones;
+XII. En coordinación con los Institutos del Deporte y de Cultura, fomentará actividades deportivas, culturales y recreativas para las personas con discapacidad, las cuales deberán incluir modificaciones arquitectónicas que garanticen el acceso en las instalaciones deportivas y el equipamiento correspondiente, incluso para deporte adaptado, programas de capacitación de entrenadores y deportistas de alto rendimiento.
 
-XV.- Propondrá al Ejecutivo del Estado el Reglamento Interno que regule el funcionamiento del Consejo Coordinador, y
+El Instituto de Cultura formulará y aplicará programas en los que se fomente la formación y el desarrollo cultural de las personas con discapacidad, y se establezcan precios reducidos para ellas en los eventos que organice;
 
-XVI.- Expedirá, previa solicitud, las calcomanías distintivas que deberán fijarse en el parabrisas de los vehículos en que viajen discapacitados.
+XIII. Conocerá de los informes anuales y los que a su petición rinda el Organismo Coordinador, en cuanta al desempeño de sus funciones, programas y metas alcanzadas;
+
+XIV. Evaluará y en su caso, aprobará los planes y programas que proponga el Organismo Coordinador, así como las normas técnicas en materia de organización y prestación de servicios;
+
+XV. Aplicará la partida del Presupuesto de Egresos del Gobierno correspondiente a la beneficencia pública y del porcentaje de la asistencia social, al rubro de discapacidad;
+
+XVI. Proporcionará al Organismo Coordinador el apoyo técnico que requiera para sus funciones;
+
+XVII. Propondrá al Ejecutivo del Estado el Reglamento Interno que regule el funcionamiento del Organismo Coordinador, y
+
+XVIII. Expedirá, previa solicitud las calcomanías distintivas que deberán fijarse en el parabrisas de los vehículos en que viajen discapacitados.
 
 ### CAPÍTULO II. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA MORELOS
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2003)</small>
 
 ###### Artículo 8.
 
 El Sistema para el Desarrollo Integral de la Familia Morelos, como organismo rector de la asistencia social y promotor de la interrelación sistemática de acciones que en la materia lleven a cabo las instituciones públicas y privadas, en ejercicio de las atribuciones que la Ley le encomienda y con el propósito de asegurar la adecuada coordinación de acciones en materia de asistencia social a las personas con discapacidad, llevará a cabo las siguientes acciones:
 
-A.- Celebrará convenios o acuerdos para la coordinación de acciones, a nivel estatal, municipal y con las entidades y dependencias de la Administración Pública Federal;
+I. Celebrará convenios o acuerdos para la coordinación de acciones, en los ámbitos municipal, estatal y federal;
 
-B.- Con el objeto de ampliar la cobertura y la calidad de los servicios de asistencia social a personas con discapacidad, promoverá la celebración de convenios con los gobiernos estatales y municipales a fin de establecer programas conjuntos, promover la conjunción de los dos órdenes de gobierno en la aportación de recursos financieros, coordinar acciones entre las partes, de manera proporcional y equitativa y, procurar el fortalecimiento del patrimonio de los Sistemas Municipales para el Desarrollo Integral de la Familia;
+II. Con el objeto de ampliar la cobertura y la calidad de los servicios de asistencia social a personas con discapacidad, promoverá la celebración de convenios con los gobiernos estatales y municipales a fin de establecer programas conjuntos, promover su participación en la aportación de recursos financieros, coordinar acciones entre las partes, de manera proporcional y equitativa y, procurar el fortalecimiento del patrimonio de los sistemas Municipales para el Desarrollo Integral de la Familia;
 
-C.- Celebrar convenios o contratos con los sectores social y privado para la concertación de acciones de asistencia social a personas con discapacidad, con objeto de coordinar su participación en la realización de acciones relacionadas con la ejecución de los programas de prevención, rehabilitación e incorporación al desarrollo de los discapacitados, en los que se definan las responsabilidades que asuman los sectores, se determinen las acciones de orientación, estímulo y apoyo que llevará a cabo el Sistema DIF-Morelos; se fijen el objeto, la materia y los alcances jurídicos de los compromisos que asuman las partes, con reserva de las funciones de autoridad que competan al Gobierno del Estado;
+III. Celebrará convenios o contratos con los sectores social y privado para la concertación de acciones de asistencia social a personas con discapacidad, con objeto de coordinar su participación en la realización de acciones relacionadas con la ejecución de los programas de prevención, rehabilitación e incorporación al desarrollo de los discapacitados, en los que se definan las responsabilidades que asuman los sectores; se determinen las acciones de orientación, estímulo y apoyo que llevará a cabo el sistema DIF-Morelos; se fijen el objeto, la materia y los alcances jurídicos de los compromisos que asuman las partes, con reserva de las funciones de autoridad que competan al Gobierno del Estado;
 
-D.- Mediante la inducción y concertación, promoverá la organización y participación activa de la comunidad en caso de auxilio y atención a personas con discapacidad, que por sus características requieran de acciones de asistencia basadas en el apoyo y solidaridad social, propiciando hábitos de conducta y valores que contribuyan a la protección de la población discapacitada, procurando su superación y prevención de las causas que motivan la invalidez;
+IV. Realizará convenios con universidades, instituciones privadas y organizaciones de y para personas con discapacidad, con objeto de realizar investigaciones que promuevan la prevención, rehabilitación y desarrollo de la tecnología en órtesis, prótesis, adaptaciones para vehículos para las personas con discapacidad; así como coordinar esfuerzos con las escuelas que forman a los profesionales de la salud, para que incluyan en la currícula la materia de discapacidad;
 
-E.- En la aplicación de los planes, programas y políticas de atención a personas con discapacidad, será prioritaria la prestación de servicios de prevención de discapacidad, rehabilitación integral y educación especial otorgada a través de los Centros y Unidades Básicas de Rehabilitación del Sistema DIF-Morelos, en las siguientes modalidades:
+V. Mediante la inducción y concertación, promoverá la organización y participación activa de la comunidad en caso de auxilio y atención a personas con discapacidad, que por sus características requieran de acciones de asistencia basadas en el apoyo y solidaridad social, propiciando hábitos de conducta y valores que contribuyan a la protección de la población discapacitada, procurando su superación y prevención de las causas que motivan la invalidez;
 
-I.- Atendiendo a personas con discapacidad, mediante valoraciones y tratamientos que incluyan: consulta médica especializada, atención psicológica y social, estudios diagnósticos de gabinete, terapia física, ocupacional y de lenguaje, elaboración y adaptación de prótesis, órtesis y otras ayudas funcionales, evaluación de aptitudes, desarrollo de habilidades para el trabajo y gestoría ocupacional, así como la enseñanza a las personas con discapacidad y sus familias, de actividades de autocuidado, con la finalidad de que alcancen niveles funcionales óptimos o facilitando ajustes o reajustes psicológicos y sociales con el propósito de contribuir a su integración familiar, social y laboral;
+VI. En la aplicación de los planes, programas y políticas de atención a personas con discapacidad, será prioritaria la prestación de servicios de prevención de discapacidad, rehabilitación integral y educación especial otorgada a través de los Centros y Unidades Básicas de Rehabilitación del Sistema DIF-Morelos, en las siguientes modalidades:
 
-II.- Realizando actividades de detección temprana de procesos incipientes de discapacidad para atenderlos de manera oportuna, acciones de orientación e información en materia de discapacidad y rehabilitación, así como de capacitación a las personas con discapacidad y sus familiares para llevar a cabo medidas de rehabilitación simple;
+a) Atención a personas con discapacidad, mediante valoraciones y tratamientos que incluyan consulta médica especializada, atención psicológica y social, estudios diagnósticos de gabinete, terapia física, ocupacional y de lenguaje, elaboración y adaptación de prótesis, órtesis y otras ayudas funcionales, evaluación de aptitudes, desarrollo de habilidades para el trabajo y gestoría ocupacional, así como la enseñanza a las personas con discapacidad y sus familias, de actividades de autocuidado, con la finalidad de que alcancen niveles funcionales óptimos o facilitando ajustes o reajustes psicológicos y sociales con el propósito de contribuir a su integración familiar, social y laboral;
 
-F.- En lo relativo a la aplicación de los recursos económicos destinados por el Sistema Nacional para el Desarrollo Integral de la Familia para la operación de los Centros de Rehabilitación Integral que operan en el Estado en la modalidad centralizada, el Sistema DIF-Morelos cumplirá con la normatividad que el organismo nacional emita para la ejecución del programa, bajo la supervisión y vigilancia en el cumplimiento de las metas operativas y de gasto.
+b) Realización de actividades de detección temprana de procesos incipientes de discapacidad para atenderlos de manera oportuna, acciones de orientación e información en materia de discapacidad y rehabilitación, así como de capacitación a las personas con discapacidad y sus familiares para llevar a cabo medidas de rehabilitación simple;
 
-Asimismo, el Sistema DIF-Morelos, a través de su presupuesto autorizado, destinará recursos económicos para la operación de los Centros de Rehabilitación, Unidades Básicas y Centros de Desarrollo Humano y Comunitario, así como para la adquisición de mobiliario, equipos médicos, medicinas, órtesis, prótesis, sillas de ruedas y demás implementos de ayuda funcional para las personas con discapacidad, y
+VII. Gestionará los recursos necesarios para la adquisición a bajo costo de lentes, órtesis, prótesis y ayudas técnicas para las personas con discapacidad;
 
-G.- Los Programas de Rehabilitación permiten a las personas con discapacidad participar en el diseño y la organización de los servicios que consideren necesarios, es en esta forma que los Centros y Unidades Básicas de Rehabilitación vincularán al Sistema DIF-Morelos con los programas estatales y municipales para el bienestar e incorporación al desarrollo de las personas con discapacidad, así como con los programas de salud, seguridad social, educación, trabajo, deporte, cultura, accesibilidad, comunicación, legislación e información, permitiendo la creación de nuevas áreas de atención individualizada según las necesidades que se presenten.
+VIII. En lo relativo a la aplicación de los recursos económicos destinados por el Sistema Nacional para el Desarrollo Integral de la Familia para la operación de los Centros de Rehabilitación Integral que operan en el Estado en la modalidad centralizada, cumplirá con la normatividad que el organismo nacional emita para la ejecución del programa, bajo la supervisión y vigilancia en el cumplimiento de las metas operativas y de gasto.
+
+Así mismo, a través de su presupuesto autorizado, destinará recursos económicos para la operación de los Centros de Rehabilitación, Unidades Básicas y Centros de Desarrollo Humano y Comunitario, así como para la adquisición de mobiliario, equipos médicos, medicinas, órtesis, prótesis, sillas de ruedas y demás implementos de ayuda funcional para las personas con discapacidad;
+
+IX. Por medio de los programas de rehabilitación que permitan a las personas con discapacidad participar en el diseño y la organización de los servicios que consideren necesarios, los Centros y Unidades Básicas de Rehabilitación vincularán al Sistema DIF-Morelos con los programas estatales y municipales para el bienestar e incorporación al desarrollo de las personas con discapacidad, así como con los programas de salud, seguridad social, educación, trabajo, deporte, cultura, accesibilidad, comunicación, legislación e información, permitiendo la creación de nuevas áreas de atención individualizada según las necesidades que se presenten;
+
+X. Con el Centro de Readaptación Social y la Procuraduría General de Justicia vigilarán que, sin discriminación alguna, los niños con discapacidad puedan integrarse a las guarderías y a los Centros de Desarrollo Infantil a su cargo, y
+
+XI. Establecerá un padrón de personas con discapacidad, que culmine con la expedición de una credencial oficial que lo certifique, para fines de atención, de preferencias y descuentos, además implementará acciones para identificar y canalizar a menores con discapacidad, al sistema de educación especial y regular, para ello podrá celebrar convenios con organizaciones civiles y educativas.
 
 ### CAPÍTULO III. DEL CONSEJO COORDINADOR DE ATENCIÓN INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD
 
@@ -301,6 +323,8 @@ h) Para el trámite de consulta por primera vez el usuario realiza el pago de la
 
 i) De acuerdo a las valoraciones clínicas verificadas por el médico especialista y a la evolución del padecimiento del usuario, el médico determinará el alta del paciente del Centro de Rehabilitación. Las altas podrán ser dadas por referencia a otras instituciones o especialidades médicas, por inasistencia, por término de tratamiento o por defunción.
 
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2003)</small>
+
 III.- ORIENTACIÓN Y CAPACITACIÓN OCUPACIONAL.
 
 La labor de rehabilitación integral se centra en las aptitudes de la persona, cuya integridad y dignidad deben respetarse; se debe dar la máxima atención al proceso normal de desarrollo y maduración de los niños con discapacidad, utilizar las capacidades de los adultos discapacitados para trabajar y realizar otras actividades, con la participación activa de las familias y su entorno comunitario.
@@ -309,25 +333,25 @@ En los Centros de Rehabilitación Integral del Sistema DIF-Morelos, el usuario p
 
 En el servicio de evaluación de aptitudes y desarrollo de habilidades para el trabajo se determinarán las características de la terapia ocupacional adecuada para cada caso, que contribuirá a la utilización de las capacidades funcionales y al logro de la máxima independencia en las actividades de la vida diaria.
 
-El Sistema DIF-Morelos, a través de sus Centros de atención a discapacitados, otorgará a los sujetos de atención rehabilitatoria integral la capacitación para el trabajo, mediante el desarrollo de procesos de enseñanza-aprendizaje que facilite el desarrollo de conocimientos, habilidades y hábitos de trabajo, sobre ocupaciones o puestos de trabajo.
+El Sistema DIF-Morelos, a través de sus centros de atención a Discapacitados, otorgará a los sujetos de atención rehabilitatoria integral la capacitación para el trabajo, mediante el desarrollo de procesos de enseñanza-aprendizaje que faciliten el desarrollo de conocimientos, habilidades y hábitos de trabajo, sobre ocupaciones o puestos de trabajo.
 
-La capacitación para el trabajo en los Centros de atención del Sistema DIF-Morelos, se otorgará a personas discapacitadas en edad de trabajar, de escasos recursos y que sus condiciones de ingreso y de vida sean precarias y que deseen o necesiten incorporarse a alguna actividad económica.
+La capacitación para el trabajo en los centros de atención del Sistema DIF-Morelos, se otorgará a personas discapacitadas en edad de trabajar, de escasos recursos cuyas condiciones de ingreso y de vida sean precarias y deseen o necesiten incorporarse a alguna actividad económica.
 
-Los cursos de capacitación para personas con discapacidad que se impartan en los Centros de atención se ajustarán a programas especialmente diseñados, con los contenidos temáticos indispensables para lograr una aptitud genérica para el desempeño de labores.
+Los cursos de capacitación para personas con discapacidad que se impartan en los centros de atención se ajustarán a programas especialmente diseñados, con los contenidos temáticos indispensables para lograr una aptitud genérica para el desempeño de labores.
 
-Para el caso de que una persona con discapacidad o un grupo de discapacitados se orienten a ser empleados por personas físicas o empresas y sea necesario satisfacer requisitos específicos de personal capacitado, el Sistema DIF-Morelos, a través de convenios de colaboración interinstitucional con el ICATMOR, en los que se establezcan los compromisos para el desarrollo de la enseñanza, proporcionará al discapacitado o a los grupos de personas con discapacidad la capacitación requerida para obtener el empleo.
+Para el caso de que una persona con discapacidad o un grupo de discapacitados se orienten a ser empleados por personas físicas o empresas y sea necesario satisfacer requisitos específicos de personal capacitado, el Sistema DlF-Morelos, a través de convenios de colaboración interinstitucional con el ICATMOR, en los que se establezcan los compromisos para el desarrollo de la enseñanza, proporcionará al discapacitado o a los grupos de personas con discapacidad la capacitación requerida para obtener el empleo.
 
-El Sistema DIF-Morelos, cuando detecte a personas con discapacidad interesadas en trabajar en forma independiente, otorgará a los interesados, por sí o por medio de las Instituciones con que se haya convenido la capacitación, los conocimientos y habilidades para desarrollar un trabajo por cuenta propia y, concluida la capacitación, les podrá proporcionar los elementos para la ejecución de los trabajos que integren la modalidad de autoempleo que se haya elegido. Este tipo de capacitación solamente será otorgado a personas con discapacidad que tengan dependientes económicos y que su ingreso sea el de mayor importancia en la economía familiar, que manifiesten interés en trabajar por cuenta propia y que tengan alguna experiencia en la especialidad laboral a la que aspiran.
+El Sistema DIF-Morelos, cuando detecte a personas con discapacidad interesadas en trabajar en forma Independiente, otorgará a los interesados, por si o por medio de las instituciones con que se haya convenido la capacitación, los conocimientos y habilidades para desarrollar un trabajo por cuenta propia y, concluida la capacitación, les podrá proporcionar los elementos para la ejecución de los trabajos que integren la modalidad de autoempleo que se haya elegido. Este tipo de capacitación solamente será otorgado a personas con discapacidad que tengan dependientes económicos y cuyo ingreso sea el de mayor importancia en la economía familiar, manifiesten interés en trabajar por cuenta propia y tengan alguna experiencia en la especialidad laboral a la que aspiran.
 
-Asimismo y para el caso de que personas con discapacidad, de escasos recursos se agrupen en torno a un proyecto productivo y tengan como objetivo mejorar los conocimientos y habilidades de los integrantes del grupo para ejecutar el proyecto, el Sistema DIF-Morelos celebrará con el ICATMOR un convenio de colaboración institucional para que proporcione la capacitación específica de los integrantes del proyecto productivo.
+Asimismo y para el caso de que personas con discapacidad, de escasos recursos se agrupen en torno a un proyecto productivo y tengan como objetivo mejorar los conocimientos y habilidades de los integrantes del grupo para ejecutar el proyecto, el Sistema DIF-Morelos celebrará con el ICATMOR un convenio de colaboración institucional para que proporcione la capacitación específica a los integrantes del proyecto productivo.
 
-Al término de los cursos, las personas con discapacidad capacitadas recibirán la constancia que certifique su capacitación y la información sobre las oportunidades de empleo existentes, así como la orientación para trabajar por su cuenta o para formar un grupo de trabajo independiente.
+Al término de los cursos, las personas con discapacidad recibirán la constancia que certifique su capacitación y la información sobre las oportunidades de empleo existentes, así como la orientación para trabajar por su cuenta o para formar un grupo de trabajo independiente.
 
-Las personas con discapacidad beneficiarias de la capacitación, serán responsables de respetar los lineamientos generales de la enseñanza, informar al Sistema DIF-Morelos y al Consejo Coordinador al obtener un empleo, no incurrir en ningún supuesto de baja y presentar los exámenes teóricos y prácticos de conocimiento que se apliquen en los Centros del Sistema o en las instituciones de enseñanza con las que se haya convenido la impartición de la capacitación laboral.
+Las personas con discapacidad beneficiarias de la capacitación, serán responsables de respetar los lineamientos generales de la enseñanza, informar al Sistema DlF-Morelos y al Organismo Coordinador al obtener un empleo, no incurrir en ningún supuesto de baja y presentar los exámenes teóricos y prácticos de conocimiento que se apliquen en los Centros del Sistema o en las instituciones de enseñanza con las que se haya convenido la impartición de la capacitación laboral.
 
-La Secretaría de Bienestar Social y el Sistema DIF-Morelos celebrarán convenios de colaboración institucional con los Servicios Estatales de Empleo del Gobierno del Estado o de la Dirección General del Empleo de la Secretaría del Trabajo y Previsión Social, para integrar a las personas con discapacidad al Programa de Becas de Capacitación para el Trabajo a desempleados (PROBECAT), para proporcionar capacitación para el trabajo a discapacitados desempleados y subempleados a fin de que obtengan la calificación requerida para el aparato productivo y facilitar su acceso al empleo.
+La Secretaría de Salud en coordinación con el Sistema DIF-Morelos y el Organismo Coordinador celebrarán convenios de colaboración institucional con la Subsecretaría de Trabajo y Previsión Social, para integrar a las personas con discapacidad al Programa de Becas de Capacitación para el Trabajo a desempleados (PROBECAT), para proporcionar capacitación para el trabajo a discapacitados desempleados y subempleados a fin de que obtengan la calificación requerida para el aparato productivo y facilitar su acceso al empleo. La Dirección del Servicio Estatal de Empleo llevará a cabo acciones de concertación por medio de convenios, con representantes de asociaciones empresariales, empresas, organismos gubernamentales, sindicatos e instituciones de capacitación, a fin de que incluyan en sus bolsas de trabajo las solicitudes de personas con discapacidad, promoviéndolas sin discriminación alguna y/o propiciando su capacitación y en su caso, su contratación.
 
-La Secretaría de Bienestar Social y el Sistema DIF-Morelos llevarán a cabo acciones de concertación por medio de convenios, con representantes de asociaciones empresariales, empresas, organismos gubernamentales, sindicatos e instituciones de capacitación, para lograr el desarrollo de las habilidades para el trabajo de las personas con discapacidad y colocación selectiva de empleo.
+La Subsecretaría de Trabajo y Previsión Social establecerá y llevará a cabo programas de investigación sobre -la problemática laboral de -las personas con discapacidad, los que deberán contemplar la elaboración de diagnósticos, análisis y estudios en la materia. Para tales investigaciones, se promoverá la participación de organizaciones no gubernamentales, así como instituciones nacionales e internacionales; y en coordinación con el Sistema DIF-Morelos, establecerán los Centros de trabajo protegido, en los que se incluirán talleres productivos para personas con discapacidad.
 
 IV.- LA ORIENTACIÓN Y CAPACITACIÓN A LA FAMILIA O INDIVIDUOS ENCARGADOS DE PERSONAS CON DISCAPACIDAD.
 
@@ -345,25 +369,63 @@ Las áreas de trabajo social del Sistema DIF-Morelos y de los Centros de Rehabil
 
 Para el caso de que del estudio de trabajo social se determine que la persona con discapacidad y su familia no están en condiciones de cubrir el costo de la o las ayudas funcionales que se le hubieren prescrito por el personal médico especializado de los Centros de Rehabilitación, la persona con discapacidad o su familia dirigirán una solicitud al Sistema DIF-Morelos para que en vista de su precaria situación económica le proporcione las ayudas funcionales de acuerdo con la posibilidad de atención del Sistema DIF-Morelos, dependencia que previa valoración del caso por medio de los estudios socioeconómicos de trabajo social y verificación de las situaciones concretas, analizará la posibilidad de proporcionar las ayudas funcionales, y las concederá y entregará formalmente mediante la celebración de un contrato de comodato que se firmará por el Director General del Sistema DIF-Morelos.
 
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2003)</small>
+
 VI.- LA EDUCACIÓN ESPECIAL Y EDUCACIÓN PARA LA SALUD.
 
-La educación especial se impartirá por los Centros de Desarrollo Humano y Centros de Desarrollo Comunitario, en coordinación con las autoridades educativas, a las personas que padezcan discapacidad de lenguaje, en sus aspectos de hipodesarrollo de lenguaje, disfacias, disfemias y discapacidad intelectual manifestada como deficiencia mental, síndrome de down y problemas de aprendizaje.
+La educación especial se impartirá por los Centros de Desarrollo Humano y Centros de Desarrollo Comunitario, en coordinación con las autoridades educativas, a las personas que padezcan discapacidad de lenguaje, en sus aspectos de hipodesarrollo de lenguaje, disfasias, disfemias y discapacidad intelectual manifestada como deficiencia mental, síndrome de down y problemas de aprendizaje.
 
 Para la evaluación de la discapacidad de lenguaje, los encargados y terapeutas de lenguaje de los Centros de Desarrollo Humano y de Desarrollo Comunitario, dependientes del Sistema DIF-Morelos, tomarán en cuenta los problemas de lenguaje que afectan la relación de la persona con discapacidad con el medio que lo rodea, la lectura de los niños, la voz y el habla, las alteraciones en la resonancia, que consisten en el reforzamiento del sonido laríngeo a su paso por las cavidades bucal y faríngea y las alteraciones en el habla.
 
-Para la valoración de la discapacidad intelectual se llevarán a cabo por el personal especializado de los Centros de Rehabilitación: la elaboración de la historia clínica completa del sujeto discapacitado, que deberá incluir la exploración neurológica y del sistema músculo esquelético, a saber: pares craneales, marcha, postura, tono y trofismo muscular, goniometría, reflejos miotáticos, examen manual muscular o actividad muscular volitiva, sensibilidad, reflejos anormales y pruebas especiales; exploración de funciones mentales superiores y evaluación psicológica y pedagógica.
+Para la valoración de la discapacidad intelectual se llevarán a cabo por el personal especializado de los Centros de Rehabilitación la elaboración de la historia clínica completa del sujeto discapacitado, que deberá incluir la exploración neurológica y del sistema músculo esquelético, a saber: pares craneales, marcha, postura, tono y trofismo muscular, goniometría, reflejos miotáticos, examen manual muscular o actividad muscular volitiva, sensibilidad, reflejos anormales y pruebas especiales; exploración de funciones mentales superiores y evaluación psicológica y pedagógica.
 
 Para el tratamiento en el segundo y tercer nivel de atención de las alteraciones intelectuales el personal médico y paramédico especializado de los Centros de Rehabilitación y de Desarrollo Humano y Comunitario deberán procurar que las personas con discapacidad intelectual conserven las áreas no afectadas, restauren las capacidades perdidas, y estimulen las áreas no desarrolladas, incluyendo los aspectos psicosociales.
 
 Para la evaluación de la discapacidad de la vista se llevarán a cabo programas para enseñarles a leer por medio del Sistema Braille; asimismo, en cuanto el presupuesto lo permita, contratar personal especializado para el adiestramiento de perros guías y para la adquisición de éstos.
 
+Los Centros y escuelas que imparten educación especial deberán contar con las ayudas necesarias para su ejercicio, como intérpretes de lenguaje de señas, regletas y otras ayudas técnicas.
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2003)</small>
+
 VII.- ADECUACIÓN DE LOS SERVICIOS DE TRANSPORTE PÚBLICO.
 
-a).- Los prestadores de servicio público de transporte colectivo de pasajeros deberán reservar como mínimo dos asientos en la unidad, para que, en su caso sean utilizados por discapacitados;
+a) Los prestadores de servicio público de transporte colectivo de pasajeros deberán reservar como mínimo dos asientos en la unidad, para que, en su caso sean utilizados por discapacitados;
 
-b).- Los asientos destinados para tal objeto deberán estar situados cerca de la puerta o puertas de acceso de la unidad y contarán con un emblema o leyenda que los identifique;
+b) Los asientos destinados para tal objeto deberán estar situados cerca de la puerta o puertas de acceso de la unidad y contarán con un emblema o leyenda que los identifique;
 
-c).- Estos asientos podrán ser utilizados por cualquier usuario, en tanto no sean requeridos por algún discapacitado.
+c) Estos asientos podrán ser utilizados por cualquier usuario, en tanto no sean requeridos por algún discapacitado.
+
+El Ejecutivo del Estado a través de la Dirección General de Tránsito y Transportes, promoverá la adopción de medidas de adecuación del servicio público de transporte a fin de facilitar el libre desplazamiento de personas con discapacidad; coordinará la instalación de infraestructura y señalamientos en vialidades y tomará las medidas necesarias para que en éstas se establezcan las facilidades correspondientes.
+
+Para facilitar el acceso y desplazamiento de las personas con discapacidad a las terminales de autobuses, estaciones y demás espacios de naturaleza análoga, se adecuará la infraestructura y las instalaciones en edificios, áreas de abordaje y baños. Además, se procurará que las terminales cuenten con sillas de pasillo; vigilará que en los estacionamientos públicos y privados se destine por lo menos dos cajones para uso exclusivo de personas con discapacidad, los cuales serán ubicados lo más cerca posible de la entrada.
+
+En todos los casos, en los lugares de estacionamiento reservados para personas con discapacidad se establecerá, en la proporción y con las características adecuadas, la señalización correspondiente.
+
+Garantizará que se establezcan las especificaciones técnicas adecuadas y suficientes en paraderos y estaciones, que permitan el libre acceso y desplazamiento de las personas con discapacidad.
+
+Coordinará con las dependencias, entidades correspondientes y en los medios masivos de comunicación, el diseño e instrumentación de programas permanentes de educación vial y prevención de accidentes en escuelas, centros de trabajo, que tengan como uno de sus propósitos fundamentales crear en los habitantes de la Entidad conciencia, hábitos y cultura de respeto por los derechos de las personas con discapacidad.
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2003)</small>
+
+VIII.- DEL ACONDICIONAMIENTO ARQUITECTÓNICO.
+
+El Ejecutivo del Estado observará las disposiciones de facilidades urbanísticas y arquitectónicas en el Programa que regule el Desarrollo Urbano Estatal y en la planificación de los lugares públicos, donde vigilará que todas las Dependencias de la Administración Pública Central eliminen las barreras arquitectónicas en sus edificios, y se tomarán medidas para que se realicen adaptaciones a fin de facilitar el acceso, desplazamiento y uso de éstos por parte de las personas con discapacidad, en las que se atiendan los aspectos relacionados con entradas, puertas, rampas, escaleras, escalones, elevadores, pasillos, vestidores, estacionamientos, señalamientos en que se prohíba la obstrucción de rampas, la colocación del símbolo internacional de acceso a personas con discapacidad y la señalización conductiva.
+
+En sus proyectos de obra pública, las dependencias y entidades del Estado tomarán en cuenta los aspectos básicos sobre la factibilidad de dotación de servicios, vialidad para personas con discapacidad, debiéndose evitar las barreras arquitectónicas; y en coordinación con los Ayuntamientos preverá que las escuelas, bibliotecas y demás centros de servicio social, cultural y deportivo, las vialidades primarias y secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad que construyan y rehabiliten, cuenten con los aspectos básicos sobre la factibilidad de dotación de servicios y facilidades para las personas con discapacidad.
+
+El Ejecutivo del Estado a través de la Secretaría de Gobierno, vigilará que en las instalaciones para la presentación de espectáculos públicos establezcan las facilidades necesarias para el acceso y el adecuado desplazamiento de las personas con discapacidad desde el exterior al interior de los mismos y viceversa, y con espacios reservados para personas con discapacidad mismos que estarán ubicados en áreas que cuenten con visibilidad y comodidad, así como lugares adecuados de estacionamiento.
+
+En la medida de lo posible, los espacios reservados para personas con discapacidad auditiva o visual deberán estar en primera fila, permitiendo la presencia de un acompañante sin discapacidad. Además, tomarán medidas para proveerse de medios para una comunicación adecuada, como intérpretes de lenguaje de señas, materiales escritos en sistema braille, entre otros.
+
+En auditorios, teatros, cines, salas de concierto y teatros al aire libre deberán destinarse espacios para uso exclusivo de personas con discapacidad neuromotora. Este espacio tendrá 1.25 m. de fondo y 80 cm. de frente y quedará libre de butacas y fuera del área de circulación.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2003)</small>
+
+###### Artículo 15 Bis.
+
+La Secretaría de Educación procurará que las bibliotecas cuenten con áreas de equipamiento apropiado para personas con discapacidad; para ello, se realizarán las adecuaciones arquitectónicas necesarias para el libre acceso; contarán con material en sistema braille, material auditivo, y cualquier apoyo técnico que permita que la información sea accesible a las personas con cualquier tipo de discapacidad.
+
+Contarán también con una persona que funja como lector para ciegos o débiles visuales, o bien asista a las personas que utilizan silla de ruedas a localizar y alcanzar el material de los estantes, y un área determinada en la que se permita hacer uso de grabadoras o que otras personas lean en voz alta, sin causar molestia a los otros usuarios.
 
 ###### Artículo 16.
 
@@ -560,3 +622,11 @@ EL SECRETARIO DE BIENESTAR SOCIAL
 CARLOS JAVIER MARTÍNEZ LEÓN
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 2 DE ABRIL DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra Y Libertad".
+
+SEGUNDO. Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
