@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "1999-09-17"
+last_updated: "2003-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 2003.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -2559,17 +2559,19 @@ En caso de ratificación, previamente a la expedición de la convocatoria respec
 
 Los Magistrados Electorales desempeñarán su cargo durante tres años, pudiendo ser ratificados, hasta por un periodo igual.
 
-Los Magistrados Electorales del Tribunal, percibirán un salario igual al de los Magistrados del Tribunal Superior de Justicia, durante el proceso electoral. Los salarios de los demás servidores del Tribunal, se homologarán a los de sus equivalentes en el Tribunal Superior de Justicia.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+Los Magistrados Electorales del Tribunal percibirán un salario igual al de los Magistrados del Tribunal Superior de Justicia. Los salarios de los demás servidores del Tribunal Electoral, se homologarán a los de sus equivalentes en el Tribunal Superior de Justicia.
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 256.
 
-Durante el tiempo que ejerzan sus funciones, los Magistrados Electorales no podrán, en ningún caso, aceptar ni desempeñar empleo o encargo en la Federación, Estado, Municipio o de los particulares.
+Los Magistrados Electorales durante el tiempo que ejerzan sus funciones, no podrán aceptar empleo, cargo o comisión al servicio de particulares, ni en la Federación, Estado o Municipio.
 
-En año electoral, podrán aceptar y desempeñar cargos en asociaciones científicas, docentes, literarias o de beneficencia no remunerados, cuando sean compatibles con el ejercicio de la magistratura.
+Se exceptúan en este caso, los cargos en asociaciones científicas, docentes, literarias o de beneficencia, en tanto no interfieran o perjudiquen el ejercicio de sus funciones.
 
-Durante los años no electorales, la remuneración que reciban será disminuida en un cincuenta por ciento y podrán desempeñar cargos remunerados en asociaciones o instituciones, de carácter científico, docente, literario o de beneficencia.
+En año Electoral, podrán aceptar y desempeñar cargos en asociaciones científicas, docentes, literarias o de beneficencia, no remunerados, cuando sean compatibles con el ejercicio de la magistratura.
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -3154,3 +3156,7 @@ P.O. 17 DE SEPTIEMBRE DE 1999.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 10 DE ENERO DE 2003.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
