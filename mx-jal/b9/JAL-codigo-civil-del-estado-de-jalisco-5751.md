@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "1997-01-04"
+last_updated: "1998-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 1998.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -41,9 +41,11 @@ CODIGO CIVIL DEL ESTADO DE JALISCO
 
 # LIBRO PRIMERO. Disposiciones preliminares
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1998)</small>
+
 ###### Art. 1º.
 
-Los seres humanos tienen igual consideración ante la ley y la sociedad, excepto en los casos de minoría de edad, senectud, incapacidad psíquica o pertenencia a alguna etnia.
+Los seres humanos tienen igual consideración ante la ley y la sociedad, excepto en los casos de minoría de edad, senectud, incapacidad psíquica o pertenencia a un pueblo indígena.
 
 ###### Art. 2º.
 
@@ -127,9 +129,11 @@ VII. El Derecho extranjero será aplicable en el Estado en casos de reciprocidad
 
 Los habitantes del Estado de Jalisco, quienes en él se encuentren de manera accidental, y las personas jurídicas, tienen obligación de ejercer sus actividades y de usar y disponer de sus bienes en forma que no perjudique a la colectividad, bajo las sanciones establecidas en este código y en las leyes relativas.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1998)</small>
+
 ###### Art. 17.
 
-Los servidores públicos, teniendo en cuenta la falta de instrucción de algunas personas, su conformación cultural, su pertenencia a una etnia, su acceso de los medios de comunicación o su extrema pobreza, podrán eximirlos de las sanciones en que hubieren incurrido por la falta de cumplimiento de la ley que ignoraron o, de ser posible, concederles un plazo para que la cumplan, siempre que no se trate de leyes que afecten directamente el interés público, ni se lesionen derechos de tercero.
+Los servidores públicos, teniendo en cuenta la falta de instrucción de algunas personas, su conformación cultural, su pertenencia a un pueblo indígena, su acceso a los medios de comunicación o su extrema pobreza, podrán eximirlos de las sanciones en que hubieren incurrido por la falta de cumplimiento de la ley que ignoraron o de ser posible, concederles un plazo para que la cumplan, siempre que no se trate de leyes que afecten directamente el interés público, ni se lesionen derechos de tercero.
 
 # LIBRO SEGUNDO. De las personas y de las instituciones de familia
 
@@ -203,9 +207,11 @@ IX. Imprescriptibles, porque no se pierden por el transcurso del tiempo; e
 
 X. Irrenunciables, porque ni siquiera la voluntad de su titular basta para privar su eficacia.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1998)</small>
+
 ###### Art. 27.
 
-El Estado y la sociedad, respetarán las costumbres, monumentos, procedimientos y tradiciones culturales de las minorías y de los diversos grupos étnicos que las conforman. Se considera a la democracia como la forma de gobierno resultante de las decisiones mayoritarias, sin que tengan más derechos que las minorías, y éstas poseen la facultad de ser oídas y consideradas como manifestación de la cultura universal.
+El Estado y la sociedad, respetarán las ccostumbres (sic), monumentos, procedimientos y tradiciones culturales de las sociedades y grupos, así como de las personas, familias y comunidades de los pueblos indígenas que las integran. Se considera a la democracia como forma de gobierno resultante de las decisiones mayoritarias, sin que tengan más derechos que las minorías, y éstas poseen la facultad de ser oídas y consideradas como manifestación de la cultura universal.
 
 ###### Art. 28.
 
@@ -16838,3 +16844,7 @@ SEGUNDO.- Los procedimientos de constitución de patrimonio familiar iniciados c
 P.O. 4 DE ENERO DE 1997.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 3 DE MARZO DE 1998.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
