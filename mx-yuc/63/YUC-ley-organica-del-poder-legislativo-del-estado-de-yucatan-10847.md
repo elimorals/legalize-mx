@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-legislativo-del-estado-de-yucatan-10847"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-02-24"
-last_updated: "1995-06-12"
+last_updated: "2004-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE JULIO DE 2004.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de febrero de 1988.
 
@@ -459,11 +459,13 @@ VI.- Los demás que le confiera esta Ley.
 
 ### CAPITULO VII. DE LA GRAN COMISION
 
+> <small>(REFORMADO, D.O. 14 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 53.
 
 La Gran Comisión se integrará de la siguiente manera:
 
-Por un Presidente, un Secretario y dos Vocales.
+Por un Presidente, un Secretario y tres Vocales.
 
 ###### ARTICULO 54.
 
@@ -1286,3 +1288,9 @@ QUINTO.- El presente Decreto entrará en vigor al día siguiente de su publicaci
 D.O. 12 DE JUNIO DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 14 DE JULIO DE 2004.
+
+PRIMERO.- Para los efectos del Artículo 54 de esta Ley, por esta única ocasión, el H. Congreso del Estado nombrará al tercer vocal de la Gran Comisión; en la sesión inmediata de la entrada en vigor de la presente reforma.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
