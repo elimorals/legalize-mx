@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-deuda-publica-estatal-y-municipal-de-tamaulipas-8083"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-30"
-last_updated: "1995-12-30"
+last_updated: "1996-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DEUDA PUBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 30 de diciembre de 1995.
 
@@ -134,6 +134,10 @@ II.- Celebrar los contratos para la obtención de créditos y demás operaciones
 III.- Reestructurar los créditos contratados como deudor directo o responsable solidario.
 
 IV.- Afectar en garantía de pago de las obligaciones contraídas directamente o como avalista, las participaciones que en ingresos federales correspondan al Estado, así como los bienes muebles e inmuebles y los derechos de cobro propiedad del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+
+Para este efecto podrá celebrar los actos jurídicos necesarios a través de los cuales se establezcan fuentes alternas de pago de las obligaciones derivadas de la contratación o suscripción de deuda pública.
 
 V.- Asesorar a los Municipios del Estado que se lo soliciten, en la formulación de sus proyectos financieros y en todo lo relativo a la obtención de recursos crediticios, contratación de los mismos y otras operaciones financieras.
 
@@ -302,3 +306,11 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 19 de Dicie
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en la Ciudad Victoria, Capital del Estado de Tamaulipas, a los veintidós días del mes de Diciembre de mil novecientos noventa y cinco.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE DICIEMBRE DE 1996
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor a partir del 1°. de enero de 1997.
