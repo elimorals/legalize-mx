@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-construcciones-para-el-distrito-federal-1227"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-02"
-last_updated: "1997-06-02"
+last_updated: "2004-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1227&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1993-07-14"
 
 REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 1997.
+> <small>N. DE E. ESTE REGLAMENTO FUE ABROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL EL DIA 29 DE ENERO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL SEGUNDO PARRAFO DEL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL, LAS MENCIONES HECHAS AL DEPARTAMENTO DEL DISTRITO FEDERAL SE REFERIRAN AL DISTRITO FEDERAL A PARTIR DEL 5 DE DICIEMBRE DE 1997.</small>
 
@@ -776,7 +778,7 @@ c) Autorización de uso y ocupación anterior, o licencia y planos registrados a
 
 d) (DEROGADO, G.O. 2 DE JUNIO DE 1997)
 
-III. (DEROGADA, G.O. 2 DE JUNIO DE 1997)
+III. (DEROGADA, 4 DE JUNIO DE 1997)
 
 IV. Cuando se trate de reparación:
 
@@ -1820,7 +1822,7 @@ Para puentes, túneles, torres, chimeneas y estructuras industriales no convenci
 
 ###### Artículo 173.
 
-El Departamento expedirá Normas Técnicas Complementarias para definir los requisitos específicos de ciertos materiales y sistemas estructurales, así como procedimientos de diseño para acciones particulares, como efectos de sismos y de vientos.
+El Departamento expedirá Normas Técnicas Complementarias para definir los requisitos específicos de ciertos materiales y sistemas estructurales, así como procedimientos de diseño para acciones particulares, como efectos de sismos y de vientos
 
 ###### Artículo 174.
 
@@ -3569,3 +3571,27 @@ TERCERO.- Las solicitudes de constancias de uso de suelo, de zonificación de us
 CUARTO.- En tanto se expiden las Normas Técnicas Complementarias relativas a las licencias de construcción para las que se requiera opinión de alguna dependencia, órgano o entidad de la administración pública federal o local, las autoridades competentes del Distrito Federal deberán recabar las opiniones que se requieran y resolver las solicitudes de dichas licencias en el mismo plazo a que se refiere el artículo 54 del Reglamento de Construcciones del Distrito Federal. En estos casos, se deberá comunicar al particular dicha circunstancia.
 
 QUINTO.- Los propietarios o poseedores de las edificaciones o instalaciones a que se refieren los artículos 65, 117, fracción II y 174, fracción I del Reglamento de Construcciones para el Distrito Federal, que no cuenten con el registro del Visto Bueno de Seguridad y Operación, deberán presentarlo en un plazo de ciento veinte días naturales a partir de la entrada en vigor de este Decreto, conforme a lo que establece el artículo 64 de este mismo Reglamento.
+
+G.O. 29 DE ENERO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor a partir del día 16 de febrero de 2004.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de Construcciones para el Distrito Federal publicado en la Gaceta Oficial del Departamento del Distrito Federal el 2 de agosto de 1993.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Obras y Servicios expedirá las Normas Técnicas Complementarias a que hace referencia este Reglamento dentro de los 120 siguientes a la fecha de su publicación.
+
+En tanto se expiden dichas Normas, se seguirán aplicando las Normas Técnicas Complementarias vigentes al momento de publicación del presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Las solicitudes que se encuentren en trámite se resolverán de conformidad con lo establecido en el Reglamento de Construcciones para el Distrito Federal publicado en la Gaceta Oficial del Departamento del Distrito Federal el 2 de agosto de 1993, o bien el interesado podrá optar por efectuar el trámite establecido en el presente Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+En los casos en que la Ley hace referencia a la licencia de construcción se entenderá la señalada en el Reglamento de Construcciones para el Distrito Federal publicado en la Gaceta Oficial del Departamento del Distrito Federal el 2 de agosto de 1993.
