@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1983-08-16"
+last_updated: "1984-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 1984.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -1937,45 +1937,67 @@ La Ley Orgánica Municipal determinará la organización y funcionamiento de las
 
 ###### Artículo 149.
 
-Los funcionarios del Gobierno del Estado y de los Ayuntamientos, son responsables por los delitos y faltas oficiales que cometan en el desempeño de sus cargos.
+Para los efectos de la responsabilidad a que alude este título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los Presidentes Municipales, a los funcionarios y empleados, y, en general a toda persona que desempeñe un empleo, cargo, comisión o concesión de cualquier naturaleza en la Administración Pública del Estado y de los Ayuntamientos y a todos aquellos que manejen o apliquen recursos económicos estatales o municipales, quienes serán responsables por los actos u omisiones que incurran en el desempeño de sus respectivas funciones.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+El Gobernador del Estado, será responsable por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las Leyes Federales que de ésta emanen, por traición a los intereses del Estado, por delitos graves del orden común, así como por el manejo indebido de fondos y recursos de esta Entidad Federativa.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1984)</small>
 
 ###### Artículo 150.
 
-La responsabilidad oficial sólo podrá exigirse durante el tiempo en el que el funcionario desempeñe el cargo y hasta un año después.
+Los Diputados al Congreso Local, los Magistrados del Tribunal Superior de Justicia del Estado, los Secretarios de Despacho, el Procurador General de Justicia, el Oficial Mayor, los Coordinadores, los Presidentes Municipales, los Directores Generales o sus equivalentes de los Organismos Públicos Descentralizados, Empresas de Participación Estatal Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y Fideicomisos Públicos de esta Entidad Federativa y Jueces de Primera Instancia, serán responsables de los delitos del orden común que cometan durante su gestión; podrán ser sujetos de juicios políticos por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+Para proceder por responsabilidad en la comisión de delitos del orden común contra los Diputados, Magistrados del Tribunal Superior de Justicia, Secretarios de Despacho, Procurador General de Justicia, Oficial Mayor, Coordinadores, y Presidentes Municipales, cometidos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión si ha o no lugar a proceder contra el inculpado.
+
+Las sanciones que se impondrán, mediante juicio político, cuando los servidores públicos, en el ejercicio de sus funciones, por sus actos u omisiones perjudiquen a los intereses públicos fundamentales o a su buen despacho, consistirán en la destitución del servidor y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+
+No procede el juicio político, por la mera expresión de las ideas.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1984)</small>
 
 ###### Artículo 151.
 
-El Gobernador del Estado, durante el período de su encargo, sólo podrá ser acusado de traición a los intereses del Estado, por delitos graves del orden común y por los que señala el artículo 108 de la Constitución General de la República.
+La comisión de delitos del fuero común por cualquier servidor público, será perseguida y sancionada en los términos de la Legislación penal, y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido o con la necesidad de satisfacer los daños y perjuicios originados por su conducta ilegal. Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+
+Los procedimientos para la aplicación de las penas mencionadas, se desarrollarán pronta y expeditamente. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1984)</small>
 
 ###### Artículo 152.
 
-Los Diputados, Magistrados, Secretarios del Despacho, el Procurador General de Justicia del Estado y los Presidentes Municipales, serán responsables de los delitos del orden común que cometan durante su gestión, y por los delitos, faltas u omisiones en los que incurran durante el tiempo de su encargo.
+Las Leyes determinarán los casos y las circunstancias en los que se debe sancionar penalmente por causas de enriquecimiento ilícito a los servidores públicos, que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona aumenten substancialmente su patrimonio, adquieran o se conduzcan como dueños sobre bienes, cuya procedencia no pudieran justificar lícitamente.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+Las Leyes penales en estos casos, sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1984)</small>
 
 ###### Artículo 153.
 
-Siempre que se trate de los funcionarios mencionados en los dos artículos anteriores, y el delito fuere del orden común, el Congreso del Estado, erigido en Gran Jurado, declarará, por mayoría absoluta, si ha lugar o no a proceder en contra del acusado. En caso afirmativo, por esta sola declaración quedará separado de su cargo y sujeto a la autoridad judicial competente.
+Siempre que se trate de los Funcionarios mencionados en los Artículos 149, párrafo segundo y 150 párrafo segundo y el delito fuere del orden común, el Congreso del Estado, erigido en Gran Jurado, declarará por mayoría absoluta de los miembros presentes, si ha lugar o no a proceder en contra del acusado. En caso afirmativo, por esta sola declaración, quedará separado de su cargo y sujeto a la autoridad judicial competente.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+Si la resolución de la Cámara fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma, no prejuzga los fundamentos de la acusación.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1984)</small>
 
 ###### Artículo 154.
 
-En los delitos oficiales cometidos por los mismos funcionarios a los que se refiere el artículo 152, conocerá el Congreso, con sujeción a lo previsto por la Ley de la materia.
+En los delitos oficiales cometidos por los mismos funcionarios a que se refiere el precepto legal anterior, conocerá la Legislatura del Estado; tanto en este caso, como en los que especifica el Artículo que precede a éste, conocerá el Congreso como Organo de Acusación y el Tribunal Superior de Justicia del Estado como Jurado de Sentencia, con sujeción a lo previsto en la Ley Reglamentaria de la materia.
 
-En demandas del orden civil no hay fuero ni inmunidad para ningún funcionario público del Estado.
+En demandas del orden civil no hay fuero ni inmunidad para ningún servidor público del Estado.
+
+El procedimiento de juicio político, solo podrá iniciarse durante el período en que el servidor público desempeñe su cargo y dentro de un año después. Cuando se expida el finiquito por el H. Congreso del Estado a los funcionarios que manejen fondos públicos, quedarán exentos de toda responsabilidad. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
+
+La responsabilidad por delitos del orden común, cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley Penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los cargos a que hacen referencia los artículos 149 in fine y 150 de esta Constitución.
+
+La ley Reglamentaria, señalará los casos de prescripción de la responsabilidad administrativa, tomando en cuenta la naturaleza y consecuencia de los actos y omisiones ilícitos. Cuando dichos actos u omisiones fueran graves, los plazos de prescripción no serán inferiores a tres años.
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1984)</small>
 
 ## TITULO XI. PREVENCIONES GENERALES
 
@@ -2200,6 +2222,10 @@ UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en e
 P.O. 16 DE AGOSTO DE 1983.
 
 UNICO.- Estas modificaciones entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, una vez cumplidos los requisitos establecidos por los Artículos 51 y párrafo segundo del Artículo 158 de la propia Constitución Política del Estado.
+
+P.O. 8 DE JUNIO DE 1984.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
 
 ###### Artículo 3o.
 
