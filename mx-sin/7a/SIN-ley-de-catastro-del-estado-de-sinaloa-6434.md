@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-catastro-del-estado-de-sinaloa-6434"
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-10"
-last_updated: "1994-01-10"
+last_updated: "1994-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE CATASTRO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1994.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el lunes 10 de enero de 1994.
 
@@ -255,7 +255,9 @@ III. Celebrar con los Ayuntamientos de los Municipios del Estado convenios y con
 
 IV. Exigir registro de perito valuador ante la Comisión Nacional Bancaria para que pueda rendir dictamen sobre el valor físico para el caso de las construcciones y valor comercial para los terrenos que se enajenen, cambien de dominio directo o se adquieran por herencias testamentarias o por sucesión legítima; así como los demás actos jurídicos que deban formalizarse con escritura pública y que dichos actos jurídicos mencionados enunciativamente requieran avalúos de los bienes.
 
-Entendiéndose por perito valuador el Corredor Público titulado, o a la persona que cuente con título, debidamente registrado, de Ingeniero Civil o Arquitecto.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
+
+Entendiéndose por perito valuador el Corredor Público Titulado o a la Persona que cuente con título de Ingeniero o Arquitecto debidamente registrado.
 
 V. Solicitar las prácticas de auditorías y de visitas de inspección al Instituto tendientes de supervisar el cumplimiento de la actividad pública desempeñada y, fundamentalmente, el ejercicio y destino de sus partidas presupuestales.
 
@@ -491,6 +493,10 @@ II. Emitir opinión a la formulación y elaboración de las tablas de valores ca
 
 III. Orientar las propuestas de valores unitarios del Municipio, para que sirvan de base en una aplicación justa y equitativa de los impuestos predial y de adquisición de inmuebles.
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1994)</small>
+
+IV. Conocer del recurso de revocación establecido en la presente Ley.
+
 La designación, sustitución y remoción de los integrantes de la Junta Municipal se establecerá en el Reglamento de la presente Ley.
 
 ### CAPITULO SEPTIMO. DE LAS OPERACIONES Y DE LA VALUACION CATASTRAL
@@ -527,9 +533,15 @@ El valor catastral será determinado por el Instituto, el cuál podrá ser provi
 
 Para los efectos del artículo anterior, el Instituto formulará planos y tablas generales de valores unitarios de zona, región y subregión para ser aplicados a los respectivos lotes tipo. Tratándose de predios rurales, la formulación de las tablas generales se hará atendiendo a su clase y categoría, determinándose el valor unitario por hectárea. Las tablas y planos a que se refiere este artículo, deberán ser aprobadas en primera instancia por la Secretaría de Hacienda Pública y Tesorería, previa opinión favorable del Consejo Consultivo y aprobados en forma definitiva por el C. Gobernador, quien ordenará su publicación en el órgano oficial del Estado de Sinaloa.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 32.
 
-Los valores unitarios que proponga el Instituto, deberán ser para el caso del terreno valor comercial y para la construcción el valor físico al momento de elaborarse el estudio correspondiente. Estos valores podrán ser objeto de revisión cada año, o cuando surjan circunstancias que afecten el valor de la propiedad inmobiliaria elevando o disminuyendo su valor. Tratándose de los predios rústicos destinados a la producción agrícola, acuícola, ganadera, porcícola y avícola, se podrá tomar como base gravable la producción anual comercializadora que genere cada predio.
+Los valores unitarios que proponga el Instituto, deberán ser para el caso del terreno valor comercial y para la construcción el valor físico al momento de elaborarse el estudio correspondiente. Estos valores podrán ser objeto de revisión cada año calendario o cuando surjan circunstancias que afecten el valor de la propiedad inmobiliaria elevando o disminuyendo su valor.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
+
+En los casos en que no se haya hecho la revisión anual a que se refiere el párrafo anterior, los valores catastrales se podrán actualizar aplicando el factor que resulte de dividir el Indice Nacional de Precios al Consumidor, publicado por el Banco de México en el Diario Oficial de la Federación del penúltimo mes del año de calendario que se actualiza, entre el citado índice correspondiente al penúltimo mes del año de calendario anterior al de esa fecha.
 
 Para la aplicación del Impuesto Predial rústico en los que la base gravable sea la producción anual comercializada a precio medio rural de las actividades agropecuarias, la tabla anual de valores será la que determine la Secretaría de Hacienda Pública y Tesorería del Gobierno del Estado con la participación de los organismos estatales que representan a dichas actividades.
 
@@ -831,13 +843,21 @@ IV. Descripción de los errores que existen en los padrones catastrales.
 
 El órgano catastral deberá resolver el recurso de aclaración interpuesto en un término no mayor de treinta días hábiles, contados a partir de la fecha de recepción de la solicitud.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 78.
 
-Procede el recurso de revocación cuando el valor asignado por el órgano catastral correspondiente, no se haya realizado conforme a los términos establecidos por la presente Ley y su reglamento.
+Procede el Recurso de Revocación:
+
+a).- Cuando el valor asignado por el órgano catastral correspondiente, no se haya realizado conforme a los términos establecidos por la presente Ley y su Reglamento; y
+
+b).- Cuando los propietarios o poseedores de predios no estén de acuerdo con el monto del valor catastral.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 79.
 
-El recurso de revocación se interpondrá ante el órgano catastral, dentro del término de veinte días hábiles contados a partir del día siguiente de la fecha de notificación del avalúo.
+El recurso de Revocación se interpondrá ante el órgano catastral competente, en cualquier tiempo.
 
 ###### Artículo 80.
 
@@ -859,9 +879,11 @@ El órgano catastral examinará los motivos y fundamentos expresados, así como 
 
 El término anterior podrá ampliarse hasta 45 días hábiles cuando el órgano catastral requiera de realizar trabajos técnicos o el desahogo de pruebas.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 83.
 
-La interposición del recurso de revocación suspende los efectos del cobro del impuesto predial, si se garantiza el interés fiscal en los términos de la Ley de Hacienda Municipal del Estado.
+La interposición del Recurso de Revocación suspenderá los efectos del cobro del Impuesto Predial sin garantía del interés fiscal.
 
 ## TRANSITORIOS
 
@@ -920,3 +942,11 @@ Francisco C. Frías Castro
 EL SECRETARIO DE HACIENDA PUBLICA Y TESORERIA
 
 Marco Antonio Fox Cruz
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS QUE REFORMAN A LA PRESENTE LEY.</small>
+
+P.O. 21 DE DICIEMBRE DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
