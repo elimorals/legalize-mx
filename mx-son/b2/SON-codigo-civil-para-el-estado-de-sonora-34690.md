@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "1967-07-15"
+last_updated: "1980-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE JULIO DE 1967.
+ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 18 DE DICIEMBRE DE 1980.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -4133,6 +4133,8 @@ Hasta pasado un mes de la rendición de cuentas, es nulo todo convenio entre el 
 
 De la Mayor Edad.
 
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 1980)</small>
+
 ###### Art. 772.
 
 La tutela se extingue:
@@ -4327,27 +4329,31 @@ El matrimonio del menor produce de derecho la emancipación. Aunque el matrimoni
 
 ###### Art. 807.
 
-Los mayores de dieciocho años que estén sujetos a patria potestad o a tutela, tienen derecho a que se les emancipe, si demuestran su buena conducta y su actitud para el manejo de sus intereses.
+(DEROGADO, B.O. 18 DE DICIEMBRE DE 1980)
 
-Los padres o tutores pueden emancipar a sus hijos y pupilos que se encuentren en las condiciones mencionadas en el párrafo anterior, siempre que éstos consientan en su emancipación.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE DICIEMBRE DE 1980)</small>
 
 ###### Art. 808.
 
-El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor de edad:
+El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su minoría de edad:
 
-I.- Del consentimiento del que lo emancipó para contraer matrimonio antes de llegar a la mayor edad. Si el que otorgó la emancipación ejercía la patria potestad y ha muerto, o está incapacitado legalmente al tiempo en que el emancipado intente casarse, necesita éste el conocimiento del ascendiente a quien corresponda darlo, y en su defecto, el del juez;
+> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 1980)</small>
 
-II.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
+I.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
+
+> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 1980)</small>
+
+II.- De un tutor para los negocios judiciales;
 
 III.- De un tutor para los negocios judiciales.
 
 ###### Art. 809.
 
-Hecha la emancipación no puede ser revocada.
+(DEROGADO, B.O. 18 DE DICIEMBRE DE 1980)
 
 ###### Art. 810.
 
-Fuera del caso al que se refiere el artículo 806, la emancipación siempre será decretada por el juez y la resolución correspondiente se remitirá al Oficial del Registro Civil para que levante el acta respectiva.
+(DEROGADO, B.O. 18 DE DICIEMBRE DE 1980)
 
 ### CAPITULO VI.
 
@@ -4355,7 +4361,7 @@ De los Efectos de la Ausencia Respecto de los Derechos Eventuales del Ausente.
 
 ###### Art. 811.
 
-La mayor edad comienza a los veintiún años cumplidos.
+La mayoría de edad comienza a los dieciocho años cumplidos.
 
 ###### Art. 812.
 
@@ -18226,3 +18232,17 @@ UNICO.- La presente Ley entrará en vigor a partir de la fecha de su publicació
 B.O. 15 DE JULIO DE 1967.
 
 UNICO.- La presente Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 18 DE DICIEMBRE DE 1980.
+
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL ARTICULO TERCERO DEL DECRETO DE REFORMAS.</small>
+
+###### ARTICULO 3o.
+
+En todos los casos en donde el Código Civil vigente se refiera a la mayoría de edad a los 21 años, se modifica por la de 18 años.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor a los quince días siguientes de su publicación en el Boletín Oficial del Estado.
