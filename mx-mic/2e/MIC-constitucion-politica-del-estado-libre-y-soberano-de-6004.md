@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1918-02-07"
+last_updated: "1918-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 1918.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -36,6 +36,10 @@ El Pueblo Michoacano representado por su XXXVI Legislatura Constitucional, con c
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
 De los habitantes del Estado.
+
+###### Artículo 2o.
+
+El actual período constitucional terminará para el Gobernador y los Magistrados del Supremo Tribunal de Justicia el quince de sedtiembre (sic) de mil novecientos veinte y para la XXXVI Legislatura, el 15 de septiembre de mil novecientos dieciocho.
 
 ###### Artículo 3°.
 
@@ -147,7 +151,7 @@ II. Ser ciudadano michoacano en ejercicio de sus derechos.
 
 III. Haber residido en el Estado los dos años anteriores al día de la elección.
 
-IV. Tener veinticinco años cumplidos el día de la elcción.
+IV. Tener veinticinco años cumplidos el día de la elección.
 
 ###### Artículo 25.
 
@@ -1209,9 +1213,7 @@ Esta Constitución se publicará con la mayor solemnidad y comenzará a regir el
 
 Los demás Funcionarios y empleados protestarán al día siguiente ante las autoridades que corresponda.
 
-###### Artículo 2°.
-
-El actual período constitucional terminará para el Gobernador y los Magistrados del Supremo Tribuual (sic) de Justicia, el 15 de septiembre de 1920 y para la XXXVI Legislatura, el día 15 de septiembre de 1919.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1918)</small>
 
 ###### Artículo 1°.
 
@@ -1324,3 +1326,9 @@ Salón de Sesiones del H. Congreso.- Morelia, enero 31 de 1918 mil novecientos d
 Por tanto, mando se imprima, publique por bando solemne, circule y se le dé el debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo del Estado en Morelia, a los cinco días del mes de febrero de mil novecientos diecisiete.- El Gobernador Constitucional, PASCUAL ORTIZ RUBIO.- El Secretario General de Gobierno, ADOLFO CORTES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+P.O. 15 DE AGOSTO DE 1918.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LE ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACAN.
