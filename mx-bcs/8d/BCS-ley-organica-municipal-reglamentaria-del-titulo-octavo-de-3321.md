@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-municipal-reglamentaria-del-titulo-octavo-de-3321"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1976-12-31"
+last_updated: "1977-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA MUNICIPAL REGLAMENTARIA DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1977.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1976.
 
@@ -757,7 +757,7 @@ Los Ayuntamientos necesitan autorización de la Legislatura para:
 
 I. Obtener empréstitos cuyo pago sea posterior al del período de ejercicio del Ayuntamiento.
 
-II. Enajenar sus bienes inmuebles.
+II. (DEROGADA, B.O. 20 DE DICIEMBRE DE 1977)
 
 III. Dar en arrendamiento sus bienes propios, por un término que exceda a la gestión del Ayuntamiento.
 
@@ -777,19 +777,7 @@ A la solicitud de autorización para contratar, de acuerdo con el artículo ante
 
 ###### Artículo 73.
 
-La solicitud de enajenación de un inmueble del Ayuntamiento, deberá contener los siguientes datos:
-
-I. Superficie, medidas, linderos y ubicación exacta del inmueble.
-
-II. Valor catastral o fiscal y comercial del inmueble.
-
-III. Términos de la operación y motivos que se tengan para realizarla.
-
-IV. La documentación, en su caso, para acreditar la propiedad del inmueble.
-
-V. Comprobación de que el inmueble no está destinado a un servicio público Municipal y que no tiene un valor arqueológico, histórico o artístico, certificando esto último un perito en la materia; y
-
-VI. El destino que se dará a los fondos que se obtengan de la venta.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 1977)
 
 ###### Artículo 74.
 
@@ -1022,3 +1010,11 @@ LIC. ANGEL CESAR MENDOZA ARAMBURO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. GUILLERMO MERCADO ROMERO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 20 DE DICIEMBRE DE 1977.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
