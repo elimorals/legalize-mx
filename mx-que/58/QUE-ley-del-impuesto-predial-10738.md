@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-impuesto-predial-10738"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-31"
-last_updated: "1992-12-31"
+last_updated: "1994-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL IMPUESTO PREDIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Periódico Oficial, el 31 de diciembre de 1986.
 
@@ -169,11 +169,11 @@ Para los efectos de esta Ley, el año de calendario se divide en los siguientes 
 
 El pago del Impuesto deberá hacerse en efectivo en las oficinas Recaudadoras Municipales o en las que autorice la Autoridad Competente. El pago se hará por bimestres vencidos, a más tardar el día 15 de los meses de Marzo, Julio, Septiembre, Noviembre y Enero, salvo que durante dicho plazo se pretenda enajenar el predio o transmitir su posesión, caso en el cual se hará anticipadamente a más tardar en la fecha de enajenación o transmisión de la posesión.
 
-> <small>(REFORMADO, P.O. 31 DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 17.
 
-El pago del Impuesto Predial podrá hacerse por anualidad anticipada, dentro del primer bimestre de cada año, caso en el que el contribuyente tendrá derecho a una reducción del 15% sobre la cantidad total que le correspondiera pagar.
+El pago del Impuesto Predial podrá hacerse por anualidad anticipada, dentro del primer bimestre de cada año, caso en el que el contribuyente tendrá derecho a una reducción del 8% sobre la cantidad total que le correspondiera pagar.
 
 Cuando se haga el pago en los términos del párrafo anterior, no se aplicará durante el año receptivo lo dispuesto en la fracción II del Artículo 19 de esta Ley.
 
@@ -496,3 +496,11 @@ SEGUNDO Se derogan todas aquellas disposiciones que se opongan a la presente Ley
 TERCERO Para la administración de las contribuciones, subsisten todos los convenios celebrados entre el estado y los Municipios, salvo que se pactare casa distinta.
 
 CUARTO Solo y exclusivamente para el ejercicio fiscal de los años de 1993 y 1994, se concede un estimulo fiscal consistente en la reducción del cincuenta por ciento al monto total del impuesto predial; a favor de los propietarios de los inmuebles que acrediten a) Mediante la licencia de construcción, haberlos destinado para destinarlo ex profeso a viviendas para arrendamiento; b) Con el contrato de arrendamiento debidamente registrado para efectos fiscales, que están afectados a ese destino; c) que el inmueble pueda clasificarse como vivienda de interés social o popular, entendiéndose por estos, aquellos cuyos valores totales, no excedan para el primer caso, de quince veces el salario mínimo general vigente elevado al año, y para el segundo, de veinticinco veces el salario mínimo elevado en el año.
+
+P.O. 29 DE DICIEMBRE DE 1994
+
+PRIMERO Esta Ley entrará en vigor el día 1° de Enero de 1995.
+
+SEGUNDO Se derogan todas las disposiciones que se opongan a la presente ley.
+
+TERCERO Publíquese en el Periódico Oficial de Gobierno del Estado " La Sombra de Arteaga" para que surta sus efectos legales.
