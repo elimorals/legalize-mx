@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1979-03-10"
+last_updated: "1981-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 1981.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -215,7 +215,9 @@ Las disposiciones de este artículo son aplicables en lo conducente, a las compe
 
 49.- En la substanciación de las competencias que se susciten entre los tribunales del Estado y los de la Federación o de otro Estado, se aplicarán las siguientes disposiciones:
 
-a).- Cuando a un juez de primera instancia, menor o de paz, planteé competencia otro de cualquier categoría de la Federación o de otra Entidad Federativa, si las partes litigantes que actúan ante aquéllos no estuvieren conformes en reconocer la competencia del requirente, el requerido dará cuenta al Supremo Tribunal de Justicia con los antecedentes, exponiendo, al remitirlos, las razones que le asistan en pro o en contra de su competencia.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+a).- Cuando a un Juez de Primera Instancia, o de lo Familiar, Menor o de Paz, planteé competencia otro de cualquier categoría de la Federación o de otra Entidad Federativa, si las partes litigantes que actúan ante aquéllos no estuvieren conformes en reconocer la competencia del requirente, el requerido dará cuenta al Supremo Tribunal de Justicia con los antecedentes, exponiendo, al remitirlos, las razones que le asistan en pro o en contra de su competencia.
 
 b).- Siempre que un juez del Estado, a solicitud de parte legítima juzgare de su deber plantear competencia a los jueces de la Federación o de otra entidad federativa, lo hará libremente; pero si el juez requerido se negare a reconocer la competencia requirente y la parte que promovió insistiere en desconocer la competencia de aquél, se observará lo dispuesto en la parte final del inciso anterior.
 
@@ -609,7 +611,9 @@ Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación
 
 157.- En las contiendas sobre propiedad o posesión de un inmueble, la competencia se determinará por el valor que ésta tenga. Si se trata de usufructo o derechos reales sobre inmuebles, por el valor de la cosa misma.
 
-158.- De las cuestiones sobre el estado civil o capacidad de las personas, sea cual fuere el interés pecuniario que de ellas dimanare, conocerán los jueces de primera instancia, salvo los casos expresamente exceptuados por la ley.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+158.- De las cuestiones sobre el estado civil o capacidad de las personas, sea cual fuere el interés pecuniario que de ellas dimanare, conocerán los Jueces de Primera Instancia o de lo Familiar, salvo los casos expresamente exceptuados por la ley.
 
 159.- En la reconvención, es juez competente el que lo sea para conocer de la demanda principal, aunque el valor de aquélla sea inferior a la cuantía de su competencia, pero no en el caso contrario.
 
@@ -727,6 +731,28 @@ Los magistrados y jueces que conozcan de una recusación, son irrecusables para 
 
 ## TITULO QUINTO. ACTOS PREJUDICIALES
 
+### CAPITULO II. Medios preparatorios del juicio ejecutivo
+
+193.- Puede prepararse el juicio ejecutivo pidiendo al deudor confesión judicial bajo protesta de decir verdad y, hecha la solicitud respectiva, el juez señalará día y hora para la práctica de la diligencia. Para que esta diligencia pueda verificarse, es preciso que el deudor se encuentre en el lugar de radicación de las diligencias preparatorias al tiempo de que se le haga la citación, la que deberá hacérsele personalmente, expresándose en ella el objeto de la diligencia, la cantidad que se reclama, y la causa de la obligación.
+
+Si el citado no compareciere a la primera citación, se le citará por segunda vez en la misma forma que la anterior, con el apercibimiento de tenerlo por confeso si no compareciere. Si después de hecha esta segunda citación no comparece ni alega justa causa que se lo hubiere impedido, se le tendrá por confeso respecto de las cuestiones que son motivo de las diligencias preparatorias.
+
+194.- El documento privado que contenga deuda líquida y sea de plazo cumplido dará mérito para que el juez ordene el requerimiento de pago como preliminar del embargo que se practicará en caso de no hacerse el pago en el acto de la diligencia; pero siempre será necesario que previamente al requerimiento se intime al deudor para que diga si reconoce la firma que calza el documento como suya, reconocimiento que se hará ante el ejecutor en el mismo acto de la diligencia. Cuando intimado por dos veces rehuse contestar si es o no suya la firma, se tendrá por reconocida.
+
+Si el deudor negare la autenticidad de la firma, no se suspenderá la diligencia, la que se continuará con arreglo a lo dispuesto en la primera parte de este artículo; pero en este caso, el promovente de las diligencias será responsable de los daños y perjuicios que con ello se causaren al ejecutado en caso de que resultare no ser del deudor la firma.
+
+Dentro de los tres días siguientes al embargo, el actor deberá presentar su demanda ejecutiva, y su omisión dará lugar a que se levante el embargo a solicitud del ejecutado.
+
+195.- El reconocimiento de documentos privados puede hacerse ante notario público, ya en el momento del otorgamiento o con posterioridad, siempre que el reconocimiento lo haga directamente la persona obligada o su representante legítimo o su mandatario con poder bastante. El notario hará constar el reconocimiento al pie del documento mismo, asentando si la persona que lo reconoce es el representante legítimo o el apoderado del deudor y, en este último caso, la cláusula relativa del poder.
+
+196.- Si el instrumento público o el documento privado reconocido no contiene cantidad líquida, puede prepararse la acción ejecutiva procediendo a su liquidación. Esta se tramitará con solo un escrito de cada parte, resolviendo el juez sin ulterior recurso, pero quedando sujeto a la responsabilidad en que haya incurrido.
+
+197.- Si el título ejecutivo se refiere a una obligación alternativa y corresponde la elección al deudor, podrá prepararse la acción ejecutiva solicitando que se requiera al obligado para que haga el señalamiento respectivo, fijándole al efecto el Tribunal un plazo que estime prudente, apercibiéndolo de que, si no lo verifica dentro de ese plazo, hará la elección el propio juzgado o quien tenga ese derecho conforme al contrato.
+
+Este modo de preparación del juicio ejecutivo no será necesario que se practique para que proceda directamente el ejercicio de la acción, pues el ejecutante podrá solicitar en su demanda que se requiera al deudor para que haga el señalamiento correspondiente, quedando entre tanto pendiente el despachar la ejecución. Hecha la elección por el deudor, o en su rebeldía por quien corresponda, se despachará ejecución.
+
+198.- Si el título ejecutivo contiene obligaciones recíprocas, la parte que vaya a solicitar la ejecución podrá preparar el juicio haciendo la consignación de las prestaciones debidas al demandado, o comprobando fehacientemente haber cumplido con su obligación. Cuando la prestación debida por el demandante no requiera la práctica de alguna diligencia de comprobación, podrá omitirse la aplicación de este artículo, debiendo hacer el ejecutante la consignación de lo debido por él, en el momento mismo de presentar su demanda.
+
 ### CAPITULO I. Medios preparatorios del juicio en general
 
 184.- El juicio podrá prepararse:
@@ -763,35 +789,15 @@ VIII.- Pidiendo el examen de testigos para probar alguna excepción, siempre que
 
 192.- Si el tenedor del documento o cosa mueble fuere el mismo a quien se va a demandar, y sin causa alguna se negare a exhibirlos, se le apremiará por los medios legales, y sí aún así se resistiere a la exhibición, o destruyere, deteriorare u ocultare aquéllos, o con dolo o malicia dejare de poseerlos, satisfará todos los daños y perjuicios que se hayan seguido, quedando además sujeto a la responsabilidad en que hubiere incurrido. Si alegare alguna causa para no hacer la exhibición, se le oirá con arreglo a las disposiciones relativas a los incidentes.
 
-### CAPITULO II. Medios preparatorios del juicio ejecutivo
-
-193.- Puede prepararse el juicio ejecutivo pidiendo al deudor confesión judicial bajo protesta de decir verdad y, hecha la solicitud respectiva, el juez señalará día y hora para la práctica de la diligencia. Para que esta diligencia pueda verificarse, es preciso que el deudor se encuentre en el lugar de radicación de las diligencias preparatorias al tiempo de que se le haga la citación, la que deberá hacérsele personalmente, expresándose en ella el objeto de la diligencia, la cantidad que se reclama, y la causa de la obligación.
-
-Si el citado no compareciere a la primera citación, se le citará por segunda vez en la misma forma que la anterior, con el apercibimiento de tenerlo por confeso si no compareciere. Si después de hecha esta segunda citación no comparece ni alega justa causa que se lo hubiere impedido, se le tendrá por confeso respecto de las cuestiones que son motivo de las diligencias preparatorias.
-
-194.- El documento privado que contenga deuda líquida y sea de plazo cumplido dará mérito para que el juez ordene el requerimiento de pago como preliminar del embargo que se practicará en caso de no hacerse el pago en el acto de la diligencia; pero siempre será necesario que previamente al requerimiento se intime al deudor para que diga si reconoce la firma que calza el documento como suya, reconocimiento que se hará ante el ejecutor en el mismo acto de la diligencia. Cuando intimado por dos veces rehuse contestar si es o no suya la firma, se tendrá por reconocida.
-
-Si el deudor negare la autenticidad de la firma, no se suspenderá la diligencia, la que se continuará con arreglo a lo dispuesto en la primera parte de este artículo; pero en este caso, el promovente de las diligencias será responsable de los daños y perjuicios que con ello se causaren al ejecutado en caso de que resultare no ser del deudor la firma.
-
-Dentro de los tres días siguientes al embargo, el actor deberá presentar su demanda ejecutiva, y su omisión dará lugar a que se levante el embargo a solicitud del ejecutado.
-
-195.- El reconocimiento de documentos privados puede hacerse ante notario público, ya en el momento del otorgamiento o con posterioridad, siempre que el reconocimiento lo haga directamente la persona obligada o su representante legítimo o su mandatario con poder bastante. El notario hará constar el reconocimiento al pie del documento mismo, asentando si la persona que lo reconoce es el representante legítimo o el apoderado del deudor y, en este último caso, la cláusula relativa del poder.
-
-196.- Si el instrumento público o el documento privado reconocido no contiene cantidad líquida, puede prepararse la acción ejecutiva procediendo a su liquidación. Esta se tramitará con solo un escrito de cada parte, resolviendo el juez sin ulterior recurso, pero quedando sujeto a la responsabilidad en que haya incurrido.
-
-197.- Si el título ejecutivo se refiere a una obligación alternativa y corresponde la elección al deudor, podrá prepararse la acción ejecutiva solicitando que se requiera al obligado para que haga el señalamiento respectivo, fijándole al efecto el Tribunal un plazo que estime prudente, apercibiéndolo de que, si no lo verifica dentro de ese plazo, hará la elección el propio juzgado o quien tenga ese derecho conforme al contrato.
-
-Este modo de preparación del juicio ejecutivo no será necesario que se practique para que proceda directamente el ejercicio de la acción, pues el ejecutante podrá solicitar en su demanda que se requiera al deudor para que haga el señalamiento correspondiente, quedando entre tanto pendiente el despachar la ejecución. Hecha la elección por el deudor, o en su rebeldía por quien corresponda, se despachará ejecución.
-
-198.- Si el título ejecutivo contiene obligaciones recíprocas, la parte que vaya a solicitar la ejecución podrá preparar el juicio haciendo la consignación de las prestaciones debidas al demandado, o comprobando fehacientemente haber cumplido con su obligación. Cuando la prestación debida por el demandante no requiera la práctica de alguna diligencia de comprobación, podrá omitirse la aplicación de este artículo, debiendo hacer el ejecutante la consignación de lo debido por él, en el momento mismo de presentar su demanda.
-
 ### CAPITULO III. Del depósito de personas como acto prejudicial
 
 199.- La mujer casada que viviendo al lado de su marido intente demandarlo o acusarlo, puede pedir que se haga el depósito de ella. Esta solicitud de la mujer podrá hacerse verbalmente o por escrito. Si la urgencia del caso lo amerita, el juez debe proceder con toda rapidez.
 
 200.- El marido que viviendo al lado de su mujer intente demandarla o acusarla, debe pedir previamente el depósito de ella por escrito.
 
-201.- Sólo los jueces de primera instancia, pueden decretar los depósitos de que hablan los dos artículos anteriores, a no ser que por circunstancias especiales no pueda ocurrirse al juez competente, pues entonces el juez del lugar donde la mujer se encuentre podrá decretar su depósito provisionalmente, remitiendo las diligencias al competente y poniendo a su disposición a la depositada. El juez competente confirmará el nombramiento del depositario o hará otro, siguiendo el asunto su curso normal.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+201.- Sólo los Jueces de Primera Instancia o de lo Familiar, pueden decretar los depósitos de que hablan los dos artículos anteriores, a no ser que por circunstancias especiales no pueda ocurrirse al juez competente, pues entonces el juez del lugar donde la mujer se encuentre podrá decretar su depósito provisionalmente, remitiendo las diligencias al competente y poniendo a su disposición a la depositada. El juez competente confirmará el nombramiento del depositario o hará otro, siguiendo el asunto su curso normal.
 
 202.- Presentada la solicitud, se trasladará el juez al domicilio conyugal y, sin que esté presente el marido, hará comparecer a la mujer a fin de que manifieste si ratifica o no la solicitud para su depósito. Hecha la ratificación, el juez designará desde luego la persona que haya de encargarse del depósito y dispondrá que en el acto se entreguen a la mujer los bienes, muebles y efectos personales.
 
@@ -1485,7 +1491,7 @@ V.- La calificación de impedimentos de matrimonio;
 
 VI.- La constitución necesaria del patrimonio familiar y la oposición de terceros con interés legítimo para que se haga esa constitución; y, en general, cualquier controversia que sobre dicho patrimonio se suscitare;
 
-VII.- Las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de los hijos, oposiciones de los maridos, padres y tutores; y, en general, todas las cuestiones familiares que reclamen la intervención judicial;
+VII.- (DEROGADA, P.O. 30 DE MAYO DE 1981)
 
 VIII.- La rendición de cuentas por tutores, administradores y por todas aquellas personas a quienes la ley o el contrato correspondiente impone esa obligación;
 
@@ -1532,6 +1538,10 @@ XVI.- Aquellos otros juicios que determine la ley.
 413.- En el juicio de divorcio contencioso, presentada y admitida la demanda, el juez correrá traslado de ella a la contraparte emplazándola para que la conteste dentro del termino de tres días, bajo el apercibimiento de presumir confesados los hechos de la demanda que se deje de contestar.
 
 414.- Al admitirse la demanda de divorcio, se adoptarán por el juez provisionalmente a petición de parte y sólo mientras dure el juicio, las medidas que el juez estime necesarias para la protección de los cónyuges y de los hijos.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 1981)</small>
+
+Son aplicables al juicio de divorcio las disposiciones contenidas en los artículos del 903-2 al 903-5 de este Código.
 
 415.- Fijada la litis, con la contestación de la demanda o haciendo efectivo el apercibimiento del artículo 413, el juez de oficio ordenará que se abra el juicio a prueba por un término que no exceda de veinte días.
 
@@ -2991,9 +3001,15 @@ El abogado o procurador podrá promover y continuar los recursos, aunque el pode
 
 811.- La denegada apelación sólo podrá interponerse por aquél a quien se negó la apelación, o por su representante legítimo o apoderado.
 
-812.- La segunda instancia no puede abrirse sin que se interponga el recurso de apelación. Sin embargo, en los casos de sentencias recaídas en los juicios sobre rectificación de actas del estado civil y sobre nulidad de matrimonio, por las causas expresadas en los artículos 229, 230 y 236 a 239 del Código Civil, así como respecto de las resoluciones que pongan fin al procedimiento a que aluden los artículos 2914, 2915 y 2916 del Código Civil, por las cuales el juez declara que el poseedor se ha convertido en propietario en virtud de la prescripción u ordena que se inscriba en el Registro Público la posesión que se considere apta para prescribir, la revisión de dichas resoluciones se hará de oficio por el Tribunal de apelación, para resolver sobre la legalidad de las mismas, sin más trámite que la radicación del asunto y citación para sentencia, con intervención del Ministerio Público.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
 
-En el caso de que se haya interpuesto apelación por alguno de los interesados, dicha revisión también se hará aun sin expresión de agravios.
+812.- La segunda instancia no puede abrirse sin que se interponga el recurso de apelación. Sin embargo, la revisión de las sentencias definitivas recaídas en los juicios que a continuación se especifican, se hará de oficio por el Tribunal de Apelación, para resolver sobre la legalidad de las mismas, sin más trámite que la radicación del asunto y citación para sentencia, con intervención del Ministerio Público:
+
+a).- Los asuntos que sean de la competencia de los jueces de lo Familiar de conformidad con el artículo 56 Bis de la Ley Orgánica del Poder Judicial del Estado.
+
+b).- Las resoluciones que pongan fin al procedimiento a que aluden los artículos 2914, 2915 y 2916 del Código Civil, por las cuales el juez declara que el poseedor se ha convertido en propietario en virtud de la prescripción u ordena que se inscriba en el Registro Público la posesión que se considera apta para prescribir.
+
+En el caso de que se haya interpuesto apelación por alguno de los interesados, dicha revisión también se hará aún sin expresión de agravios.
 
 813.- Contra las resoluciones dictadas para la ejecución de una sentencia no cabrá recurso alguno, salvo los casos en que la ley expresamente disponga otra cosa; pero aquellas otras resoluciones que, aunque dictadas en dicho procedimiento de ejecución, resuelvan puntos o cuestiones que no afectan directa e inmediatamente a la ejecución misma de la sentencia, admitirán los recursos que con arreglo a los Capítulos siguientes de este Título, convengan a su naturaleza.
 
@@ -3147,7 +3163,9 @@ El auto que deniegue la caducidad solicitada por el interesado no admite recurso
 
 856.- La jurisdicción voluntaria comprende todos los actos en que, por disposición de la ley o por solicitud de los interesados, se requiere la intervención de los tribunales, sin que esté promovida ni se promueva cuestión alguna entre partes determinadas.
 
-857.- Las solicitudes relativas a diligencias de jurisdicción voluntaria se promoverán ante los jueces de primera instancia, menores o de paz, según la cuantía del negocio, determinándose la competencia de unos y otros conforme a las reglas establecidas para la jurisdicción contenciosa. De los negocios que no puedan ser estimables pecuniariamente conocerán los jueces de primera instancia, salvo lo prescrito en casos especiales, debiendo en todo caso conocer de los negocios relativos a menores o incapacitados, sin perjuicio de que, en los lugares en que no hubiere Juzgado de Primera Instancia, pueda el Juez Menor respectivo proceder al nombramiento provisional de tutor.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+857.- Las solicitudes relativas a diligencias de jurisdicción voluntaria se promoverán ante los jueces de Primera Instancia, o de lo Familiar, Menores o de Paz, según la cuantía del negocio, determinándose la competencia de unos y otros conforme a las reglas establecidas para la jurisdicción contenciosa. De los negocios que no puedan ser estimables pecuniariamente conocerán los jueces de Primera Instancia o de lo Familiar, salvo lo prescrito en casos especiales, debiendo en todo caso conocer de los negocios relativos a menores o incapacitados, sin perjuicio de que, en los lugares en que no hubiere Juzgado de Primera Instancia o de lo Familiar, pueda el Juez Menor respectivo proceder al nombramiento provisional de tutor.
 
 858.- Cuando fuere necesaria la audiencia de alguna persona, se le citará conforme a derecho, advirtiéndole, en la citación, que quedan, por tres días, las actuaciones en la secretaria del juzgado para que se imponga de ellas, y señalándole día y hora para la audiencia, a la que concurrirá el promovente, pero sin que sea obstáculo para la celebración de ella la falta de asistencia de éste.
 
@@ -3233,7 +3251,9 @@ La aceptación del cargo, o el transcurso del término relativo, en su caso, imp
 
 871.- Siempre que el tutor o curador nombrados no reúnan los requisitos que la ley exige, para ser tutores o curadores, el juez denegará el discernimiento del cargo, y proveerá al nombramiento de nuevo tutor o curador, en la forma y términos prevenidos por el Código Civil.
 
-872.- En los juzgados de primera instancia, bajo la responsabilidad del juez, y a disposición del Consejo de Tutelas, se llevará un registro de todos los discernimientos del cargo de tutores y curadores, al cual se adjuntará una copia simple debidamente autorizada de los nombramientos respectivos.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+872.- En los Juzgados de Primera Instancia o de lo Familiar, bajo la responsabilidad del juez, y a disposición del Consejo de Tutelas, se llevará un registro de todos los discernimientos del cargo de tutores y curadores, al cual se adjuntará una copia simple debidamente autorizada de los nombramientos respectivos.
 
 873.- Dentro de los primeros ocho días de cada año, en audiencia pública y con citación del Consejo de Tutelas y del Ministerio Público, los jueces examinarán dichos registros, y en su vista dictarán, de las medidas siguientes, las que correspondan según las circunstancias:
 
@@ -3419,7 +3439,7 @@ II.- La solicitud de emancipación o habilitación de edad que hagan los mayores
 
 III.- La autorización judicial que soliciten los emancipados o habilitados de edad, para enajenar o gravar bienes raíces, o para comparecer en juicio. En este último caso, se les nombrará un tutor especial;
 
-IV.- El permiso que para contratar con su marido o para obligarse solidariamente o ser su fiadora, solicite la mujer casada;
+IV.- (DEROGADA, P.O. 30 DE MAYO DE 1981)
 
 V.- La calificación de la excusa de la patria potestad en los casos a que se refiere el artículo 425 del Código Civil;
 
@@ -3427,11 +3447,61 @@ VI.- La aclaración de actas del estado civil cuando se trate de errores gramati
 
 903.- La mujer menor de edad que deseando contraer matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar su depósito. Tanto en este caso, como en los que a continuación se expresan, no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias respectivas. Los casos a que se refiere el párrafo anterior son: el depósito de menores o incapacitados que se hallen sujetos a la patria potestad o a tutela y que fueren maltratados por sus padres o tutores, reciban de éstos ejemplos perniciosos a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes; y el depósito de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
 
+> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE MAYO DE 1981)</small>
+
+## TITULO DECIMO CUARTO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE MAYO DE 1981)</small>
+
+### CAPITULO UNICO. De las controversias del orden familiar
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 1981)</small>
+
+903-1.- Los negocios de la competencia de los Juzgados de lo Familiar que no tengan previsto en el presente Código procedimiento especial para su tramitación, se seguirán conforme al siguiente:
+
+I.- El Juez estará facultado para intervenir de oficio en los asuntos que afectan a la familia, pudiendo decretar al efecto, las medidas adecuadas para su preservación y protección de sus miembros.
+
+En estos casos, el Juez deberá exhortar a los interesados para que se avengan, resolviendo sus diferencias mediante convenio, que evite la controversia o dé por terminada la intervención judicial;
+
+II.- No se requerirán formalidades especiales para comparecer ante el Juez de lo Familiar, sino que bastará la exposición breve y concisa de los hechos que reclamen su intervención. Con la copia de la promoción inicial o de la actuación donde se consigne la comparecencia del interesado, mismas que serán proveídas a más tardar dentro del término de tres días, así como con las copias de los documentos que se presentaren, se emplazará a la contraria para que en igual forma produzca su contestación, dentro de los tres días siguientes a la fecha del emplazamiento;
+
+III.- En el auto admisorio se fijará día y hora para la celebración de la audiencia de pruebas y alegatos, la que tendrá lugar dentro de los ocho días siguientes;
+
+IV.- En dicha audiencia las partes ofrecerán y aportarán sus pruebas y en ellas se acordará lo que proceda respecto a su admisión y desahogo, así como de las propuestas con anterioridad. En todo lo relativo a esta materia se estará a lo previsto en este Código, según corresponda;
+
+V.- Si por cualquiera circunstancia la audiencia no pudiera celebrarse, se verificará dentro de los cinco días siguientes;
+
+VI.- En el caso de que cualesquiera de las partes no se encontrare debidamente asesorada, se le designará un defensor de oficio, el que deberá comparecer al Tribunal, dentro del día siguiente al en que se le haga saber el nombramiento, a aceptar el cargo y enterarse del negocio.
+
+Esta designación se hará en el momento en que el Juez advierta la carencia de asesor. La falta de éste motivará el diferimiento de la audiencia por un término igual al que se señala en el párrafo anterior;
+
+VII.- El Juez podrá, en todo tiempo, cerciorarse personalmente o con el auxilio de trabajadores sociales o peritos de la veracidad de los hechos controvertidos, y razonará cuidadosamente la parte de su fallo en que confiera valor probatorio a los informes o dictámenes de esta manera obtenidos;
+
+VIII.- La sentencia se dictará redactándola de manera breve y concisa, en el mismo acto de la audiencia de ser posible, o dentro de los tres días siguientes.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 1981)</small>
+
+903-2.- La recusación no podrá impedir que el juez adopte las medidas provisionales sobre depósito de personas, alimentos y menores.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 1981)</small>
+
+903-3.- Ninguna excepción dilatoria podrá impedir que se adopten las referidas medidas. Tanto en este caso como en el del artículo anterior, hasta después de tomadas dichas medidas se dará el trámite correspondiente a la cuestión planteada.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 1981)</small>
+
+903-4.- Los recursos procederán sólo en efecto devolutivo.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 1981)</small>
+
+903-5.- Los incidentes se decidirán con un escrito de cada parte y sin suspensión del procedimiento. Si se promueve prueba, deberá ofrecerse en los escritos respectivos, fijando los puntos sobre que verse, y se citará dentro de cinco días, para audiencia indiferible, en que se reciba, se oigan brevemente las alegaciones, y se dicte la resolución dentro de los tres días siguientes.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 1981)</small>
+
+903-6.- En todo lo no previsto, regirán las reglas generales de este Código, en cuanto no se opongan a las disposiciones del presente Título.
+
 TITULO ESPECIAL
 
 DE LA ADMINISTRACION DE JUSTICIA POR LOS JUZGADOS DE PAZ
-
-## TITULO PRIMERO. DE LAS ACCIONES Y EXCEPCIONES
 
 ### CAPITULO I. Disposiciones generales
 
@@ -3571,8 +3641,6 @@ III.- Llegado el caso, el que vaya a ejecutar la sentencia, asociado de la parte
 
 947.- No se admitirán promociones de nulidad de actuaciones por falta o defecto de citación o notificación.
 
-### CAPITULO I.- De las acciones 1
-
 ## ARTICULOS TRANSITORIOS
 
 1°.- Este Código empezará a regir en todo el Estado veinte días después de su publicación en el Periódico Oficial y desde esa fecha queda abrogado el Código de Procedimientos Civiles del Estado promulgado el 20 de Diciembre de 1941, salvo lo dispuesto en los artículos siguientes:
@@ -3617,13 +3685,15 @@ CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO L. Y S. DE CHIHUAHUA
 
 Pág.
 
-## TITULO SEGUNDO. REGLAS GENERALES DEL PROCEDIMIENTO
+## TITULO PRIMERO. DE LAS ACCIONES Y EXCEPCIONES
+
+### CAPITULO I.- De las acciones 1
 
 ### CAPITULO II.- De las excepciones 4
 
-### CAPITULO I.- De la personalidad y capacidad de las partes 8
+## TITULO SEGUNDO. REGLAS GENERALES DEL PROCEDIMIENTO
 
-## TITULO TERCERO. DE LA COMPETENCIA
+### CAPITULO I.- De la personalidad y capacidad de las partes 8
 
 ### CAPITULO II.- De las actuaciones 9
 
@@ -3639,19 +3709,17 @@ Pág.
 
 ### CAPITULO VIII.- De las costas 18
 
-### CAPITULO I.- Disposiciones generales 19
+## TITULO TERCERO. DE LA COMPETENCIA
 
-## TITULO CUARTO. DE LOS IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
+### CAPITULO I.- Disposiciones generales 19
 
 ### CAPITULO II.- Reglas para la fijación de la competencia 19
 
+## TITULO CUARTO. DE LOS IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
+
 ### CAPITULO I.- De las excusas 20
 
-## TITULO QUINTO. ACTOS PREJUDICIALES
-
 ### CAPITULO II.- De la recusación 21
-
-### CAPITULO I.- Medios preparatorios del juicio en general 23
 
 #### SECCION PRIMERA.- De quienes pueden proponerla 21
 
@@ -3663,7 +3731,9 @@ Pág.
 
 #### SECCION QUINTA.- De la substanciación y decisión de recusación 22
 
-## TITULO SEXTO. DEL JUICIO ORDINARIO
+## TITULO QUINTO. ACTOS PREJUDICIALES
+
+### CAPITULO I.- Medios preparatorios del juicio en general 23
 
 ### CAPITULO II.- Medios preparatorios del juicio ejecutivo 24
 
@@ -3675,13 +3745,11 @@ Pág.
 
 ### CAPITULO VI.- De las providencias precautorias 27
 
+## TITULO SEXTO. DEL JUICIO ORDINARIO
+
 ### CAPITULO I.- De la demanda, de su contestación y de la fijación de los puntos cuestionados 29
 
-## TITULO SEPTIMO. DE LOS JUICIOS ESPECIALES
-
 ### CAPITULO II.- De la prueba 31
-
-### CAPITULO III.- De los alegatos y de la citación para sentencia 43
 
 #### SECCION PRIMERA.- Reglas generales 31
 
@@ -3703,11 +3771,13 @@ H.- De las presunciones 41
 
 #### SECCION CUARTA.- Del valor judicial de las pruebas 42
 
+### CAPITULO III.- De los alegatos y de la citación para sentencia 43
+
 ### CAPITULO IV.- De la sentencia ejecutoria 43
 
-### CAPITULO I.- De los juicios sumarios 44
+## TITULO SEPTIMO. DE LOS JUICIOS ESPECIALES
 
-## TITULO OCTAVO. DE LA EJECUCION DE SENTENCIAS
+### CAPITULO I.- De los juicios sumarios 44
 
 ### CAPITULO II.- Del juicio de divorcio 45
 
@@ -3721,13 +3791,11 @@ H.- De las presunciones 41
 
 ### CAPITULO VII.- De los juicios en rebeldía 54
 
-### CAPITULO VIII.- De los juicios sucesorios 55
-
 #### SECCION PRIMERA.- Del procedimiento cuando se encuentre ausente el rebelde del lugar del juicio 54
 
 #### SECCION SEGUNDA.- Del procedimiento cuando el rebelde se encuentre en el lugar del juicio 54
 
-### CAPITULO IX.- De los concursos 67
+### CAPITULO VIII.- De los juicios sucesorios 55
 
 #### SECCION PRIMERA.- Disposiciones generales 55
 
@@ -3757,7 +3825,7 @@ G.- Iniciación del juicio 59
 
 #### SECCION OCTAVA.- De la tramitación extrajudicial de las testamentarias 67
 
-### CAPITULO I.- Disposiciones generales 72
+### CAPITULO IX.- De los concursos 67
 
 #### SECCION PRIMERA.- Reglas generales 67
 
@@ -3767,7 +3835,9 @@ G.- Iniciación del juicio 59
 
 #### SECCION CUARTA.- Del deudor común 72
 
-## TITULO NOVENO. DE LOS INCIDENTES
+## TITULO OCTAVO. DE LA EJECUCION DE SENTENCIAS
+
+### CAPITULO I.- Disposiciones generales 72
 
 ### CAPITULO II.- De los embargos 73
 
@@ -3777,7 +3847,11 @@ G.- Iniciación del juicio 59
 
 ### CAPITULO V.- De la ejecución de sentencias y demás resoluciones dictadas por tribunales extranjeros 85
 
+## TITULO NOVENO. DE LOS INCIDENTES
+
 ### CAPITULO I.- Disposiciones generales 85
+
+### CAPITULO II.- De la acumulación de autos 86
 
 ## TITULO DECIMO. DE LAS TERCERIAS
 
@@ -3787,13 +3861,15 @@ TITULO DECIMOPRIMERO
 
 DE LOS RECURSOS
 
-### CAPITULO II.- De la acumulación de autos 86
-
 ### CAPITULO I.- Reglas generales 89
 
 ### CAPITULO II.- De la revocación 89
 
 ### CAPITULO III.- De la apelación ordinaria 90
+
+#### SECCION PRIMERA.- Reglas generales 90
+
+#### SECCION SEGUNDA.- De la substanciación de la apelación 92
 
 ### CAPITULO IV.- De la denegada apelación 92. TITULO DECIMOSEGUNDO
 
@@ -3804,10 +3880,6 @@ De la caducidad de la instancia
 TITULO DECIMOTERCERO
 
 DE LA JURISDICCION VOLUNTARIA
-
-#### SECCION PRIMERA.- Reglas generales 90
-
-#### SECCION SEGUNDA.- De la substanciación de la apelación 92
 
 ### CAPITULO I.- Disposiciones generales 94
 
@@ -3856,3 +3928,9 @@ TERCERO.- Los asuntos civiles cuya cuantía no exceda de mil pesos y que, en la 
 CUARTO.- Los procesos penales por la infracción antisocial de robo cuya cuantía no exceda de doce mil quinientos pesos y que en la fecha en que inicien su vigencia las presentes reformas, se encuentren radicados en los Juzgados de Primera Instancia, también continuarán bajo la jurisdicción de éstos, si ya se hubiere tornado la declaración preparatoria del inculpado, o de uno solo de ellos de haber varios. En caso contrario o bien si se tratare de averiguaciones consignadas ya entrado en vigor este Decreto, el asunto será enviado a los Jueces Menores del lugar de su residencia por los Jueces ante quienes se hubiere consignado, en la inteligencia de que en los Distritos Judiciales Morelos y Bravos, los Juzgados Primero y Tercero Penal turnarán los asuntos al Juzgado Primero Menor Penal también del lugar de su residencia; mientras que los Juzgados Segundo y Cuarto harán el envío al Juzgado Segundo Menor Penal.
 
 QUINTO.- Las apelaciones ya interpuestas contra resoluciones dictadas en negocios civiles, antes de iniciarse la vigencia de este Decreto, cuando la cuantía de aquéllos exceda de dos mil pesos, pero no de cinco mil pesos serán admitidas a trámite para los efectos de su resolución.
+
+P.O. 30 DE MAYO DE 1981.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- Este Decreto entrará en toda la Entidad veinte días después de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
