@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1983-02-20"
+last_updated: "1983-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 1983.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 1983.
 
-Constitución publicada en el Periódico Oficial del Estado de Baja California, el 16 de agosto de 1953.
+Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
 Alfonso García González,
 
@@ -159,7 +159,7 @@ III.- Al Partido que cumpla con los supuestos señalados en las Fracciones I y I
 
 En caso de que dos o más Partidos se encuentren en las condiciones mencionadas en este Artículo, se atribuirá, en los términos del párrafo anterior, un Diputado al que mayor número de votos alcance y uno a cada uno de los Partidos que le sigan en votación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE FEBRERO DE 1983)</small>
+> <small>(REFORMADO [N. DE E., ADICIONADO], P.O. 20 DE FEBRERO DE 1983)</small>
 
 En caso de que sólo un partido satisfaga los requisitos que establecen las Fracciones I y II de este Artículo, se le atribuirán a dicho Partido todos los Diputados de Minoría, conforme al procedimiento que establezca la Ley respectiva.
 
@@ -555,7 +555,9 @@ El Poder Judicial del Estado se deposita en el Tribunal Superior de Justicia, Ju
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1971)</small>
 
-### CAPITULO UNICO.. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS PUBLICOS
+### CAPITULO UNICO.. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 56.
 
@@ -737,7 +739,7 @@ Los Municipios administrarán libremente su Hacienda, la cual se formará de las
 
 ###### ARTICULO 83.
 
-Cuando se cree un nuevo Municipio se cuidará de que en la extensión territorial que se le señale exista el número suficiente de habitantes que justifique la formación del Municipio, de acuerdo con la Ley respectiva.
+Cuando se creé un nuevo Municipio se cuidará de que en la extensión territorial que se le señale exista el número suficiente de habitantes que justifique la formación del Municipio, de acuerdo con la Ley respectiva.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 1968)</small>
 
@@ -797,33 +799,85 @@ El Presupuesto formará siempre un sólo cuerpo distribuido en partidas, según 
 
 ## TITULO OCTAVO
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 91.
 
-Todo funcionario o empleado público es responsable por los delitos del orden común que cometa durante el tiempo de su encargo, y por los delitos, faltas y omisiones en que incurra en el ejercicio del mismo.
+Para los efectos de las responsabilidades a que alude este Título se reputarán como servidores públicos los representantes de elección popular, a los miembros del Poder Judicial, a los funcionarios y empleados, y, en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-Los diputados no podrán ser procesados por ningún delito sin que proceda declaración del Congreso de haber lugar a formación de causa.
+El Gobernador del Estado durante el tiempo de su encargo solo podrá ser acusado por delitos graves del orden común.
 
-Para los delitos oficiales se concede acción popular, sin obligación de constituirse en parte.
-
-El Gobernador sólo podrá ser acusado por violación de esta Constitución o de la General de la República y de las Leyes Federales, ataques a la libertad electoral, peculado, dilapidación de los fondos públicos y delitos graves del orden común.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 92.
 
-Siempre que se trate de un delito del orden común, cometido por algún diputado, por el Gobernador, por un Magistrado, por el Procurador General o por el Secretario de Gobierno,, (sic) el Congreso erigido en Gran Jurado, declarará, por los dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador, y por mayoría cuando se trate de otros funcionarios, si da lugar o no a la formación de causa. En caso negativo no habrá lugar a procedimiento ulterior salvo que aparezcan nuevos datos y elementos, pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado haya dejado de tener fuero, pues la resolución del Congreso no prejuzga los fundamentos de la acusación. En el afirmativo, quedará el acusado separado de su encargo y sujeto a la acción de los tribunales comunes. La declaración de haber lugar a formación de causa contra un funcionario de elección popular, se requiere desde la fecha en que haya sido declarado electo.
+El Congreso del Estado, dentro de los ámbitos de su competencia, expedirá la Ley Estatal de Responsabilidades de los Servidores Públicos y las demás normas conducentes a sancionar a quienes teniendo este carácter, incurran en responsabilidad, de conformidad con las siguientes prevenciones:
+
+I.- Se impondrán, mediante juicio político, las sanciones indicadas en el Artículo 93 a los servidores públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+
+No procede el juicio político por la mera expresión de ideas.
+
+II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la (sic) penal; y
+
+III.- Se aplicarán las sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+
+Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+Las Leyes determinarán los casos y circunstancias en las que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos cuya procedencia no pudiesen justificar.
+
+La Ley Penal sancionará con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
+
+Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado respecto de las conductas a las que se refiere el presente Artículo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 93.
 
-De los delitos y faltas oficiales en que incurran los funcionarios a que se refiere el artículo anterior, conocerán el Congreso como jurado de acusación y el Tribunal Superior de Justicia en Pleno, como Jurado de Sentencia.
+Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, Magistrados del Tribunal Superior de Justicia, Secretario General de Gobierno, Oficial Mayor del Gobierno del Estado, Titulares de las Secretarías del Ejecutivo del Estado, Procurador General de Justicia del Estado, Jueces, Presidentes Municipales y demás miembros de los Ayuntamientos de elección popular, Concejos Municipales, Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal mayoritaria, Sociedades y Asociaciones asimiladas a éstas y Fideicomisos Públicos.
 
-El Congreso, después de oír al inculpado, podrá formular la acusación correspondiente y el Tribunal Superior, después de escuchar al Agente del Ministerio Público, al denunciante si lo hubiere, y al propio inculpado, dictará sentencia inapelable, fijando la pena que la Ley señale.
+Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, cargos o comisiones de cualquier naturaleza en el servicio público.
+
+Para la aplicación de las sanciones a que se refiere este precepto, el Congreso del Estado, a través de una comisión de su seno instruirá, el procedimiento respectivo que concluirá en proposiciones concretas sobre la responsabilidad del inculpado previa audiencia de éste.
+
+El Congreso del Estado concurriendo cuando menos las dos terceras partes del número total de sus miembros, se erigirá en Jurado de Sentencia una vez practicadas las diligencias correspondientes con audiencias del acusado, emitirá el fallo correspondiente tomado por acuerdo de las dos terceras partes del número total de diputado (sic). En ese caso no votarán quienes hayan integrado la Comisión Instructora.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 94.
 
-La responsabilidad por delitos, omisiones y faltas oficiales de funcionarios públicos que gocen de fuero constitucional, sólo podrá exigirse durante el período del encargo y un año después. En cuanto a los delitos comunes, se observarán las reglas generales de prescripción que establezcan las leyes.
+Para proceder penalmente contra el Gobernador, los diputados al Congreso del Estado, Magistrados del Tribunal Superior de Justicia, Secretario General de Gobierno, Procurador General de Justicia del Estado y Presidentes Municipales, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por las dos terceras partes de sus integrantes si se trata del Gobernador o Presidentes Municipales, o por mayoría absoluta de sus miembros presentes en sesión cuando se refiera a los demás servidores públicos aquí mencionados, si ha o no lugar a proceder contra el inculpado.
+
+Si la resolución del Congreso fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluído el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+
+Si el Congreso del Estado declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la Ley.
+
+En el caso de que el Gobernador del Estado, Diputados y Magistrados del Tribunal Superior de Justicia, sean declarados responsables en juicio político por la Cámara de Senadores del Congreso de la Unión o sujetos de declaración de procedencia por la Cámara de Diputados del mismo Congreso, la Legislatura del Estado determinará las sanciones de las señaladas en el Artículo 93 que deban imponerse al sentenciado si se está en el primer caso o decretará la separación del servidor público de que se trate del cargo que ocupa y lo hará saber así a la autoridad que haya solicitado la remoción del fuero constitucional.
+
+El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal.
+
+Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
+
+En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá declaración de procedencia.
+
+Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal, y tratándose de delitos de cuya comisión el autor obtenga un beneficio económico o cause daños y perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
+
+Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 95.
 
-En los juicios del orden civil, de los administrativos y en los conflictos de trabajo, no hay fuero ni inmunidad.
+No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el Párrafo Primero del Artículo 94, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
+
+Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados por el Artículo 94, se procederá de acuerdo con lo dispuesto en dicho Precepto.
+
+Las Leyes sobre Responsabilidades Administrativas de los Servidores Públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las Leyes, consistirán en suspensión, destitución e inhabilitación, así como sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la Fracción III del Artículo 92 pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+
+El procedimiento de juicio político solo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
+
+La responsabilidad por delitos cometidos durante el tiempo de su encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley Penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeñe alguno de los encargos a que hace referencia el Artículo 94.
+
+La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos u omisiones a que hace referencia la Fracción III del Artículo 92. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
 ## TITULO NOVENO
 
@@ -861,7 +915,7 @@ En el Estado será protegida la propiedad literaria y artística. La Ley fijará
 
 ###### ARTICULO 102.
 
-El destino de las donaciones intervivos o testamentarias hechas conforme a las leyes para fines de interés social, no podrá ser variado ni modificado por ninguna ley, El Ejecutivo velará porque tales donaciones sean aplicadas a su objeto.
+El destino de las donaciones intervivos o testamentarias hechas conforme a las leyes para fines de interés social, no podrá ser variado ni modificado por ninguna ley. El Ejecutivo velará porque tales donaciones sean aplicadas a su objeto.
 
 ###### ARTICULO 103.
 
@@ -1130,3 +1184,7 @@ P.O. 20 DE FEBRERO DE 1983.
 ###### ARTICULO UNICO.
 
 Las reformas a que se refiere el presente Decreto, entrarán en vigor una vez cumplido el procedimiento establecido en el Artículo 112 de la Constitución Política del Estado, y al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1983.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
