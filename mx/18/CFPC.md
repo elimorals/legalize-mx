@@ -4,7 +4,7 @@ identifier: "CFPC"
 country: "mx"
 rank: "codigo"
 publication_date: "1943-02-24"
-last_updated: "2002-12-18"
+last_updated: "2003-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFPC"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el miércoles 24 de febrero de 1943.
 
@@ -1434,7 +1434,7 @@ Si un documento privado contiene juntos uno o más hechos contrarios a los inter
 
 El documento privado que un litigante presenta, prueba plenamente en su contra, de acuerdo con los artículos anteriores.
 
-(ADICIONADO, D.O.F. 29 DE MAYO DE 2000)(REPUBLICADO, G.O., 30 DE MAYO DE 2000)
+(ADICIONADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O., 30 DE MAYO DE 2000)
 
 ###### ARTICULO 210-A.
 
@@ -2256,7 +2256,7 @@ Sólo la incompetencia se substanciará en artículo de previo y especial pronun
 
 ###### ARTICULO 335.
 
-Cuando una excepción se funde en la falta de personalidad o en cualquier defecto procesal que pueda subsanarse, para encauzar legalmente el desarrolo(sic) del proceso, podrá el interesado corregirlo en cualquier estado del juicio.
+Cuando una excepción se funde en la falta de personalidad o en cualquier defecto procesal que pueda subsanarse, para encauzar legalmente el desarrolo (sic) del proceso, podrá el interesado corregirlo en cualquier estado del juicio.
 
 ###### ARTICULO 336.
 
@@ -2288,7 +2288,7 @@ En toda dilación probatoria, respecto de la cual no se disponga, en este Códig
 
 ###### ARTICULO 341.
 
-Cuando no haya controversia sobre los hechos, pero sí sobre el derecho, se citará, desde luego, para la audiencia de alegatos, y se pronunciará la sentencia, o(sic) no ser que deba probarse el derecho, por estarse en los casos del artículo 86.
+Cuando no haya controversia sobre los hechos, pero sí sobre el derecho, se citará, desde luego, para la audiencia de alegatos, y se pronunciará la sentencia, o (sic) no ser que deba probarse el derecho, por estarse en los casos del artículo 86.
 
 ###### ARTICULO 342.
 
@@ -2782,9 +2782,9 @@ Cuando la obligación consiste en la ejecución de un hecho o en la prestación 
 
 Si, pasado el plazo, el obligado no cumpliere, se observarán las reglas siguientes:
 
-I.- Si el hecho fuere personal del obligado, y no pudiere prestarse por otro, el ejecutante, podrá reclamar el pago de daños y perjuicios, a no ser que, en el Título, se hubiere fijado alguna pena, caso en el cual por ésta, se despachará la ejecución:
+I.- Si el hecho fuere personal del obligado, y no pudiere prestarse por otro, el ejecutante, podrá reclamar el pago de daños y perjuicios, a no ser que, en el Título, se hubiere fijado alguna pena, caso en el cual por ésta, se despachará la ejecución;
 
-II.- Si el hecho pudiere prestarse por otro, el tribunal nombrará persona o personas que lo ejecuten, a costa del obligado, en el término que se les fije, o se resolverá la obligación en daños y perjuicios, a elección del ejecutante:
+II.- Si el hecho pudiere prestarse por otro, el tribunal nombrará persona o personas que lo ejecuten, a costa del obligado, en el término que se les fije, o se resolverá la obligación en daños y perjuicios, a elección del ejecutante;
 
 III.- Si el hecho consiste en el otorgamiento de un documento, lo hará el tribunal, en rebeldía del ejecutado, y
 
@@ -2930,7 +2930,7 @@ II.- Dinero.
 
 III.- Créditos realizables en el acto;
 
-lV.- Alhajas;
+IV.- Alhajas;
 
 V.- Frutos y rentas de toda especie;
 
@@ -3078,7 +3078,7 @@ III.- Recaudará las pensiones que, por arrendamiento, rinda la finca, en sus t�
 
 IV.- Hará, sin previa autorización, los gastos ordinarios de la finca, como pagos de contribuciones y de servicios y aseo, no siendo excesivo su monto; y, si hubiere morosidad de su parte en hacer los pagos, será responsable de los daños y perjuicios que con ello se originen;
 
-V.- Presentará, a las oficinas fiscales, en tiempo oportuno, las manifestaciones que prevengan las leyes; y, de no hacerlo así, serán de su responsabilidad los daños y perjuicios que su omisión cause:
+V.- Presentará, a las oficinas fiscales, en tiempo oportuno, las manifestaciones que prevengan las leyes; y, de no hacerlo así, serán de su responsabilidad los daños y perjuicios que su omisión cause;
 
 VI.- Para hacer los gastos de conservación, reparación o construcción, ocurrirá al tribunal solicitando licencia para ello, acompañando, al efecto, los presupuestos respectivos, y
 
@@ -3970,7 +3970,9 @@ Para tal efecto, la Secretaría de Comercio y Fomento Industrial proporcionará 
 
 Cuarto.- En tanto se expide el Reglamento correspondiente, seguirán aplicándose los capítulos I a IV y VII del Título II del Reglamento del Registro Público de Comercio, publicado en el Diario Oficial de la Federación el 22 de enero de 1979, en lo que no se opongan a lo dispuesto en el presente Decreto.
 
-Quinto.- La captura del acervo histórico del Registro Público de Comercio deberá concluirse, en términos de los convenios de coordinación previstos en el artículo 18 del Código de Comercio a que se refiere el presente Decreto, a más tardar el 30 de noviembre de 2002.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Quinto.- La captura del acervo histórico del Registro Público de Comercio deberá concluirse, en términos de los convenios de coordinación previstos en el artículo 18 del Código de Comercio a que se refiere el presente Decreto, a más tardar el 31 de diciembre de 2004.
 
 Sexto.- La Secretaría, en coordinación con los gobiernos estatales, determinará los procedimientos de recepción de los registros de los actos mercantiles que hasta la fecha de entrada en vigor del presente Decreto efectuaban los oficios de hipotecas y los jueces de primera instancia del orden común, así como los mecanismos de integración a las bases de datos central y a las ubicadas en las entidades federativas. Dicha recepción deberá efectuarse en un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
 
@@ -3983,3 +3985,7 @@ D.O.F. 18 DE DICIEMBRE DE 2002.
 Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 13 DE JUNIO DE 2003.
+
+UNICO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
