@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "1970-09-15"
+last_updated: "1974-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 1970.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 1974.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -107,13 +107,11 @@ Son obligaciones de los vecinos: inscribirse en los padronos del lugar respectiv
 
 Son poblanos:
 
-I. Los hijos de padre conocido poblano, nacidos dentro o fuera del territorio del Estado.
+I.- Los nacidos en el territorio del Estado.
 
-II. Los hijos de madre poblana y padre desconocido, nacidos dentro o fuera del territorio del Estado.
+II.- Los hijos de padre poblano o madre poblanos nacidos fuera del territorio del Estado, siempre que al alcanzar la mayoría de edad manifiesten ante el Congreso del Estado su deseo de ser poblanos.
 
-III. Los nacidos dentro del territorio del Estado de padres desconocidos.
-
-IV. Los mexicanos que adquieran vecindad en cualquier lugar del Estado y manifiesten ante la Autoridad Municipal respectiva, su deseo de ser poblanos.
+III.- Los nacidos fuera del territorio del Estado hijos de padres no poblanos, con residencia de 5 años continua dentro del mismo, siempre que manifiesten ante el Congreso Local su deseo de ser poblanos.
 
 ###### Artículo 12.
 
@@ -123,23 +121,31 @@ I.- Haber cumplido 18 años y
 
 II.- Tener modo honesto de vivir.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 1974)</small>
+
 ###### Artículo 13.
 
-Son derechos de los ciudadanos poblanos:
+Son prerrogativas de los ciudadanos poblanos:
 
-I. Elegir y poder ser electos para todos los cargos públicos y ser nombrados para cualquier empleo o comisión, en la forma y términos que prescriban las leyes.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
+
+I. Poder ser votados para todos los cargos de elección popular, y nombrados para cualquier empleo o comisión, teniendo las cualidades que establezca la Ley.
 
 II. Reunirse para tratar y discutir los negocios públicos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 1974)</small>
+
 ###### Artículo 14.
 
-Son obligaciones de los Ciudadanos del Estado:
+Son obligaciones de los ciudadanos del Estado:
 
 I. Alistarse en la Guardia Nacional.
 
 II. Votar en las elecciones populares, en la forma que disponga la ley.
 
-III. Desempeñar los cargos de elección popular y los concejiles para que fueren nombrados conforme a la ley, salvo excusa legítima.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
+
+III. Desempeñar los cargos de elección popular, los concejiles y las funciones electorales conforme a la Ley, salvo excusa legítima.
 
 ###### Artículo 15.
 
@@ -151,9 +157,17 @@ II. Por estar procesado. La suspensión produce efecto desde el momento en que s
 
 III. Por falta de cumplimiento, sin causa justificada, de las obligaciones impuestas por el artículo anterior. Esta suspensión durará un año y se impondrá sin perjuicio de las otras penas que por la misma falta señale la ley.
 
-IV. Por sentencia judicial que así lo determine expresamente.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
 
-V. Por ser vago declarado ebrio consuetudinario o tahúr de profesión.
+IV. Durante la extinción de una pena corporal.
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
+
+V. Por vagancia o ebriedad consuetudinaria en los términos que prevengan las leyes.
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 1974)</small>
+
+VI. Por estar prófugo de la justicia, desde que se dicte el auto de formal prisión, hasta que prescriba la acción penal.
 
 ###### Artículo 16.
 
@@ -177,6 +191,8 @@ II. En los demás casos por cumplimiento de la pena, por haber finalizado el té
 
 De los poblanos.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
+
 ###### Artículo 18.
 
 Las leyes determirán (sic) a qué autoridad corresponde decretar la suspensión, pérdida o recuperación de los derechos de ciudadano, en qué términos y con qué requisitos ha de dictarse el fallo respectivo, y el tiempo que debe durar la suspensión.
@@ -189,35 +205,41 @@ La soberanía del Estado reside en el Pueblo y en nombre de éste la ejerce el P
 
 El Estado adopta para su régimen interior la forma de Gobierno republicano, representativo y popular, teniendo como base de su organización política y administrativa, la libertad del Munecipio (sic).
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
+
 ###### Artículo 21.
 
-El Poder Público del Estado se considera dividido para el ejercicio de sus funciones, en tres Departamentos:
+El Poder Público del Estado se divide para su ejercicio en: LEGISLATIVO, EJECUTIVO Y JUDICIAL.
 
-LEGISLATIVO, EJECUTIVO Y JUDICIAL.
+Cada uno de estos Poderes se organizará en la forma que más adelante se establece, y nunca podrá confiarse el ejercicio simultáneo de las facultades de dos o más de ellos a una sola persona o corporación, salvo el caso de fuerza mayor, a juicio del Congreso del Estado.
 
-Cada uno de estos Departamentos se organizará en la forma que más adelante se establece, y nunca podrá confiarse el ejercicio simultáneo de las facultades de dos o más de ellos a una sola persona o corporación, salvo el caso de fuerza mayor, a juicio del Congreso del Estado.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
 
 ###### Artículo 22.
 
-Ninguna persona o corporación encargada de uno de los Departamentos podrá ejercer las atribuciones propias de las demás, ni formar parte del personal de otro, sino en los casos en que esta Constitución expresamente lo disponga o permita.
+Ninguna persona o corporación encargada de uno de los Poderes podrá ejercer las atribuciones propias de los demás, ni formar parte del personal del otro, isno (sic) en los casos en que esta Constitución expresamente lo disponga o permita.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
 
 ###### Artículo 23.
 
 Por regla general y salvo disposiciones especiales de esta Constitución, corresponde:
 
-Al Departamento Legislativo: dictar Leyes.
+Al Poder Legislativo: Dictar Leyes, Decretos y acuerdos económicos.
 
-Al Departamento Ejecutivo: vigilar la observancia de ellas y ejecutarlas, dando reglamentos, acuerdos y circulares relativas a puntos de interés o de aplicación general.
+Al Poder Ejecutivo: Reglamentar las Leyes para su mejor aplicación, expedir Reglamentos autónomos de alcance y aplicación general en todo el Territorio del Estado, en materia de policía y buen gobierno y dictar órdenes, acuerdos y circulares relativos a los diversos ramos de la administración.
 
-Al Departamento Judicial aplicar las leyes, resolviendo los conflictos que se susciten entre dos o más derechos, o interviniendo en los procesos y en los actos de jurisdicción voluntaria con las formas y solemnidades jurídicas que determinen las mismas leyes.
+Al Poder Judicial: Conocer, con arreglo a las Leyes Locales y Federales en su caso, de los actos en jurisdicción voluntaria y de todas las controversias del orden civil y criminal para las que las mismas Leyes le otorguen competencia.
 
 ###### Artículo 24.
 
 Sólo podrán ejercer jurisdicción en el territorio del Estado las autoridades cuyo mandato emane de la Constitución General, de la del Estado o de las leyes orgánicas de ambas.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE ABRIL DE 1974)</small>
+
 ###### Artículo 25.
 
-El ejercicio de las funciones propias del Departamento Legislativo se encomienda a una corporación que se denominará "CONGRESO DEL ESTADO DE PUEBLA".
+El ejercicio de las funciones propias del Poder Legislativo se encomienda a una corporación que se denominará "CONGRESO EL (SIC) ESTADO".
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
@@ -251,7 +273,9 @@ Para ser Diputado propietario o suplente se requiere:
 
 I. Ser ciudadano del Estado en ejercicio de sus derechos, nacido en el Estado o vecino con residencia en él por más de cinco años.
 
-II. Ser mayor de veinticinco años de edad.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
+
+II.- Haber cumplido veintiún años de edad.
 
 III. Saber leer y escribir.
 
@@ -261,21 +285,23 @@ III. Saber leer y escribir.
 
 No pueden ser electos diputados propietarios o suplentes:
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
 
-I. El Gobernador, el Secretario General, los Magistrados en ejercicio del Tribunal Superior de Justicia, el Procurador de Justicia del Estado y el Jefe de la Hacienda Pública.
+I.- El Gobernador, el Secretario General, los Magistrados en ejercicio del Tribunal Superior de Justicia del Estado y el Tesorero General del Estado.
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
 II. Los Magistrados, Jueces y empleados Superiores de la Federación en el Estado.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
 
-III. El Oficial Mayor del Gobierno, el Secretario Particular del Gobernador, los Jefes de Departamentos de la Secretaría General, el Director General de Educación, el Presidente de la Junta Central de Conciliación y Arbitraje, el Presidente de la Comisión Local Agraria, los Militares en servicio activo y los Jefes de la Policía del Estado, si no se separan definitivamente de sus encargos tres meses antes de la elección.
+III.- El Procurador General de Justicia, el Oficial Mayor de Gobierno, el Secretario Particular del Gobernador, los Directores de las Dependencias del Poder Ejecutivo, el Presidente de la Junta de Conciliación y Arbitraje, el Secretario de la Comisión Agraria Mixta, los Militares en servicio activo y los Jefes de las Policías del Estado, si no se separan definitivamente de sus encargos, tres meses antes de la elección.
 
 IV. Los Ministros y Tesoreros de los cultos, cuando no hayan renunciado públicamente a su ministerio o cargo, cinco años, por lo menos, antes de la elección.
 
-V. Los Presidentes Municipales, los Jueces y Recaudadores de Rentas por la circunscripción en que ejerzan sus funciones.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
+
+V.- Los Presidentes Municipales, los Jueces y Recaudadores de Rentas por la circunscripción en que ejerzan sus funciones, salvo que se separen definitivamente de sus encargos tres meses antes de la elección.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
@@ -287,13 +313,15 @@ El cargo de diputado propietario o el de suplente en funciones, desde el momento
 
 La Junta Preparatoria del Congreso, o éste mismo, calificarán las elecciones de los Diputados y sus resoluciones serán definitivas e irrevocables.
 
-## TITULO TERCERO.
+## TITULO TERCERO
 
-Del Departamento Legislativo.
+Del Poder Legislativo.
 
 ### CAPITULO PRIMERO.
 
 De la organización del Congreso.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
 
 ###### Artículo 32.
 
@@ -371,11 +399,11 @@ Al abrirse el período de sesiones siguiente a la visita, los Diputados presenta
 
 El Gobernador asistirá a la apertura del primer período de las sesiones ordinarias, de cada año, e informará por escrito en términos generales, sobre el estado de los ramos respectivos de la Administración Pública, informe que contestará también por escrito el Presidente del Congreso, dándole lectura. Cuando el Gobernador no pudiere concurrir, su informe será leído por el Secretario General de Gobierno.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1944)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
 
 ###### Artículo 45.
 
-Cada seis años, al renovarse el Departamento Legislativo, el Gobernador saliente enviará a la Cámara, una memoria acompañada de los documentos adecuados para su completa inteligencia, y en la cual expondrá la situación del Estado en todos los Ramos Administrativos; dicha memoria comprenderá los actos de la Administración de Justicia, para lo cual el Presidente del Tribunal Superior deberá enviar por escrito al Ejecutivo, los datos necesarios.
+Cada seis años, al renovarse el Poder Legislativo, el Gobernador saliente enviará a la Cámara una memoria acompañada de los documentos adecuados para su completa inteligencia, en la cual expondrá la situación del Esttado (sic) en todos los ramos administrativos; dicha memoria comprenderá los actos de administración y de justicia, para lo cual el Presidente del Tribunal Superior deberá enviar por escrito al Ejecutivo, los datos necesarios.
 
 ###### Artículo 46.
 
@@ -385,17 +413,23 @@ El Congreso se reunirá en sesiones extraordinarias cada vez que fuere convocado
 
 El lugar en que celebre sus sesiones la Legislatura del Estado será la Ciudad de Puebla y no podrá trasladarse provisionalmente a otro punto, sin que para ello estén de acuerdo las dos terceras partes de los Diputados presentes.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
+
 ###### Artículo 48.
 
-Todas las sesiones serán públicas, excepto cuando se trate de negocios que exijan reserva y cuando así lo determine el reglamento interior del Congreso.
+Todas las sesiones serán públicas, excepto cuando se trate de negocios que exijan reserva y cuando así lo determine el Ordenamiento que rija el funcionamiento interno del Congreso.
 
 ###### Artículo 49.
 
 Son facultades del Congreso:
 
-I. Expedir, aclarar, reformar y derogar leyes y decretos para la mejor administración interior del Estado, así como los acuerdos económicos del mismo Congreso.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
 
-II. Legislar especialmente sobre las materias siguientes:
+I.- De manera general legislar sobre todas las materias que correspondan por su naturaleza al régimen interior del Estado y no estén reservadas por la Constitución General de la República a los Poderes Federales, ni prohibidas a las Entidades Federativas por la misma Constitución, y a realizar todos los demás actos para los cuales esté facultado por esta Constitución.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 1974)</small>
+
+II.- Legislar especialmente en las materias siguientes:
 
 1°. Fundos y Ejidos de los pueblos.
 
@@ -451,9 +485,9 @@ La enseñanza rudimentaria , primaria, secundaría y normal que se imparta por e
 
 16°. Administración de Justicia, simplificando toda clase de procedimientos; suprimiendo, hasta donde lo permita la seguridad de la prueba, las formalidades del contrato y facilitando el arbitraje como medio preferente para decidir las controversias entre particulares.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
 
-17°. Trabajo y previsión social, conforme a la Constitución Federal, estableciéndose al efecto una Sección en la Secretaría del Ejecutivo, que vigile por el cumplimiento de las disposiciones que se dicten, y cuyo jefe represente al Gobierno en la Junta Central de Conciliación y Arbitraje.
+17º Trabajo y previsión social, conforme a la Constitución Federal, estableciéndose al efecto una Sección en la Secretaría del Ejecutivo, que vigile por el cumplimiento de las disposiciones que se dicten, y cuyo Jefe represente al Gobierno en la Junta Local de Conciliación y Arbitraje.
 
 III. Iniciar ante el Congreso General las Leyes y Decretos que sean de la competencia del mismo, así como la derogación de unas u otros; y secundar, cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de otros Estados.
 
@@ -471,9 +505,9 @@ VI. Autorizar al Ejecutivo para que celebre contratos con los demás Estados o c
 
 VII. Revisar la cuenta general del Estado y de los Municipios, y decretar anualmente los presupuestos de ingresos y egresos del Estado, previa iniciativa del Ejecutivo.
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1944)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
 
-VIII. Decretar los Presupuestos de Ingresos de los Municipios del Estado; aprobar sus cuentas anuales, las ventas de bienes propios que efectúen y los contratos que celebren los Ayuntamientos y Juntas Auxiliares, cuando tengan una duración mayor del período para el cual hubieren sido electos.
+VIII.- Estudiar, discutir y aprobar las Leyes de Ingresos de los Municipios del Estado; aprobar sus cuentas anuales, las ventas de bienes propios que efectúen y los contratos que celebren los Ayuntamientos, cuando tengan una duración mayor del período para el cual hubieren sido electos.
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
@@ -523,13 +557,19 @@ XIX. Convocar a elecciones de diputados cuando ocurra falta absoluta de propieta
 
 XX. Convocar a elecciones de Ayuntamientos, cuando ello fuere necesario.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
 
-XXI. Convocar a elecciones de Gobernador, cuando ocurra falta absoluta, si ésta acaeciere más de dos años antes de la terminación del período.
+XXI.- Convocar a elecciones de Gobernador, cuando ocurra falta absoluta, si écta (sic) acaeciere más de cuatro años antes de la terminación del período.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
 
-XXII. Elegir Gobernador Interino en los casos de falta temporal o en los de absoluta, si ésta ocurriere dentro de los dos últimos años del período y mientras se convoca a elecciones en el caso del inciso anterior.
+XXII.- Elegir con el carácter de Interino, al ciudadano que deba substituir al Gobernador de elección popular directa en sus faltas temporales, o en su falta absoluta si ésta acaeciere en los dos primeros años del período.
+
+En este último caso el Congreso expedirá dentro de los diez días siguientes a la designación del Gobernador Interino, la convocatoria para la elección de Gobernador que deba concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones, un plazo no menor de tres meses ni mayor de cinco. Hecho el escrutinio, la calificación y declaratoria a que se refiere la fracción IV, el Gobernador electo tomará posesión diez días después.
+
+Elegir con el carácter de substituto, al ciudadano que deba substituir al Gobernador de elección popular directa, cuando su falta absoluta ocurra durante los cuatro últimos años del período.
+
+Si la falta absoluta de Gobernador acaeciere durante el receso del Congreso, la Comisión Permanente nombrará desde luego un Gobernador Provisional y convocará a sesiones extraordinarias al Congreso, para que éste proceda en los términos de este Artículo.
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
@@ -547,21 +587,21 @@ XXV. Crear y suprimir empleos públicos en el Estado, según lo exijan las neces
 
 XXVI. Nombrar y remover a los empleados de su Secretaría y de la Contaduría General de Glosa, y concederles licencia.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
 
-XXVII. Recibir la protesta constitucional a los Diputados, al Gobernador, a sus substitutos, a los Magistrados del Tribunal Superior, a los Suplentes de éstos y a todos los demás empleados de su nombramiento que conforme a las leyes no deban otorgar la protesta de otro modo.
+XXVII.- Recibir la protesta constitucional a los Diputados, al Gobernador de elección popular directa, al Interino o al Substituto, a los Magistrados del Tribunal Superior, a los suplentes de éstos y a todos los demás empleados de su nombramiento, que conforme a las Leyes no deban otorgar la protesta ante otra autoridad.
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
 XXVIII. Formar y modificar su reglamento interior.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
 
-XXIX. Organizar en el territorio del Estado el sistema penal por colonias o presidios, sobre la base del trabajo, como medio de regeneración.
+XXIX.- Organizar en el territorio del Estado, el sistema penal por colonias o establecimientos de reclusión sobre las bases de trabajo como medio de regeneración y de readaptación social.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
 
-XXX. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y todas las concedidas a los otros Departamentos por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado.
+XXX.- Expedir las Leyes necesarias para hacer efectivas todas las anteriores facultades y todas las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión q (sic) correspondan al régimen Interior del Esttado (sic).
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 1936)</small>
 
@@ -587,7 +627,9 @@ Las iniciativas deben sujetarse a los trámites siguientes:
 
 I. Dictamen de Comisión.
 
-II. Discusión, el día que designe el Presidente, conforme al Reglamento.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
+
+II.- Discusión, el día que designe el Presidente, conforme al Ordenamiento que rija el funcionamiento del Congreso.
 
 III. Aprobación, en votación nominal, de la mayoría absoluta de los Diputados presentes.
 
@@ -619,9 +661,11 @@ IV.- Cuando el Congreso, por el voto de los dos tercios de los diputados present
 
 Las votaciones de Ley o Decretos serán nominales.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
+
 ###### Artículo 56.
 
-Aprobada la Ley, se remitirá al Ejecutivo para su publicación inmediata.
+Aprobada la Ley o Decreto, se remitirá al Ejecutivo para su publicación inmediata.
 
 ### CAPITULO TERCERO.
 
@@ -681,35 +725,27 @@ De la Comisión Permanente.
 
 La Comisión Permanente dará cuenta en la segunda sesión de la Legislatura, del uso que hubiere hecho de sus atribuciones, presentando al efecto una memoria escrita de sus trabajos, así como de los expedientes que hubiere formado.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE ABRIL DE 1974)</small>
+
 ###### Artículo 64.
 
-El Jefe del Departamento Ejecutivo se denominará:
-
-"GOBERNADOR CONSTITUCIONAL DEL ESTADO DE PUEBLA."
+Se deposita el ejercicio del Poder Ejecutivo de la Entidad, en un solo individuo que se denominará "GOBERNADOR CONSTITUCIONAL DEL ESTADO DE PUEBLA".
 
 ###### Artículo 65.
 
 El Gobernador será nombrado por elección popular directa, en los términos que disponga la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1944)</small>
-
-Artículi (sic) 66. El Gobernador durará en su encargo seis años, tomará posesión el primero de febrero y cuando su origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo volverá a ocupar este cargo ni aún con el carácter de interino, provisional, substituto, o encargado del despacho.
-
-Nunca podrán ser electos para el período inmediato:
-
-a) El Gobernador substituto constitucional o el designado para concluir el periodo en caso de falta absoluta del constitucional, aún cuando tenga distinta denominación.
-
-b) El Gobernador Interino, el provisional o el ciudadano que bajo cualquiera denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
 
 ###### Artículo 66.
 
-El Gobernador durará en su encargo cuatro años, tomará posesión el primero de febrero y cuando su origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo volverá a ocupar este cargo ni aún con el carácter de interino, provisional, substituto, o encagado (sic) del despacho.
+El Gobernador durará en su encargo, seis años, tomará posesión el día primero de febrero del año siguiente del de su elección. Cuando su origen sea de elección popular directa, ordinaria o extraordinaria, en ningún caso y por ningún motivo volverá a ocupar este cargo, bajo ningún carácter o denominación.
 
-Nunca podrán ser electos para el período inmediato:
+Nunca podrán ser electos para el período inmediato;
 
-a).- El Gobernador substituto constitucional o el designado para concluir el periodo en caso de falta absoluta del constitucional, aún cuando tenga distinta denominación.
+a).- El Gobernador provisional designado por la Comisión Permanente o el Gobernador Interino designado por el Congreso, para suplir las faltas temporales del Gobernador de elección popular directa.
 
-b).- El Gobernador Interino, el provisional o el ciudadano que, bajo cualquiera denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
+b).- El Gobernador substituto designado por el Congreso para concluir el período por la falta absoluta del Gobernador de elección popular y directa.
 
 ###### Artículo 67.
 
@@ -731,37 +767,51 @@ V. Haber renunciado públicamente a su ministerio o cargo en caso de ser Ministr
 
 VI. No tener cargo o comisión de otros Estados ni de la Federación, o renunciarlos y estar separado de ellos cuando menos noventa días antes de la elección.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
+
 ###### Artículo 68.
 
-El Gobernador no podrá separarse de la Capital del Estado, ni del despacho, sin permiso previo del Congreso y en sus recesos de la Comisión Permanente.
+El Gobernador no podrá separarse de la capital del Estado, ni del despacho, sin permiso previo del Congreso, y en sus recesos, de la Comisión Permanente.
 
-Si la separación hubiere de ser de diez días o menos, bastará que dé aviso cumpliendo con lo dispuesto en el artículo 76. Si excediere de este término, el Congreso o la Comisión Permanente hará desde luego la designación del sustituto, como corresponda conforme a esta Constitución.
+Si la separación no excediere de treinta días consecutivos, bastará que dé aviso cumpliendo con lo que establece el artículo 76. Si excediere de este término, el Congreso o la Comisión Permanente, hará desde luego la designación que proceda conforme a esta Constitución.
+
+Las separaciones del Gobernador mediante aviso al Congreso o a la Comisión Permanente, no podrán exceder de sesenta días en un año. Si sobrepasaren de ese término, se procederá en el exceso con arreglo a lo dispuesto en la última parte del párrafo anterior.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
 
 ###### Artículo 69.
 
-No se considerará separado del despacho al Gobernador cuando salga a visitar los Municipios, ni cuando sin salir del Territorio del Estado, tenga que ausentarse de la Capital por causas del servicio público.
+No se considerará separado del despacho al Gobernador, cuando salga a visitar los Municipios, ni cuando tenga que ausentarse de la capital con motivo de su cargo o por causas del servicio público, por un término que no exceda de setenta y dos horas.
 
-## TITULO CUARTO.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
 
-Del Departamento Ejecutivo.
+## TITULO CUARTO
+
+Del Poder Ejecutivo.
 
 ### CAPITULO PRIMERO.
 
 Del Gobernador.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
+
 ###### Artículo 70.
 
-Las faltas temporales y las absolutas del Gobernador se cubrirán en los términos de las fracciones XXII y XXIII del artículo 49 y de la fracción IV del artículo 62.
+Las faltas temporales y las absolutas del Gobernador se cubrirán en los términos de la fracción XXII del artículo 49 y de la fracción IV del artículo 62.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 1974)</small>
 
 ###### Artículo 71.
 
-Son deberes y atribuciones del Gobernador:
+Son facultades y obligaciones del Gobernador del Estado:
 
 I. En el orden Federal, las que determinen la Constitución y las Leyes Federales.
 
 II. Promulgar y mandar publicar, cumplir y hacer cumplir las Leyes, decretos y acuerdos del Congreso y proveer en la esfera administrativa cuanto fuere necesario a su exacta observancia.
 
-III. Formar los Reglamentos que fueren necesarios para la mejor ejecución de las Leyes.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
+
+III.- Formular los Reglamentos que fueren necesarios para la mejor ejecución de las Leyes, y expedir Reglamentos autónomos, órdenes, acuerdos y circulares de carácter y aplicación general en todo el Territorio de la Entidad, en materia de policía y buen gobierno.
 
 IV. Hacer observaciones en los términos que dispone el artículo 52 a los proyectos de leyes y decretos.
 
@@ -771,13 +821,19 @@ V. Tomar parte en la discusión de las Leyes y Decretos, comisionando para ello 
 
 VI. Imponer gubernativamente hasta cien mil pesos de multa y hasta quince días de arresto conforme a lo que dispongan las Leyes.
 
-VII. Iniciar ante el Departamento Legislativo las Leyes, Decretos y acuerdos convenientes y pedirle que inicie ante el Congreso de la Unión lo que sea de la competencia federal.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
 
-VIII. Pasar al Congreso y en sus recesos a la Comisión Permanente los negocios cuyo conocimiento corresponda al Departamento Legislativo.
+VII.- Iniciar ante el Poder Legislativo, Leyes, Decretos y Acuerdos convenientes y pedirle que inicie ante el Congreso de la Unión, lo que sea de la competencia federal.
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
+
+VIII.- Pasar al Congreso y en sus recesos a la Comisión Permanente, los negocios cuyo conocimiento corresponda al Poder Legislativo.
 
 IX. Mandar las fuerzas del Estado.
 
-X. Cuidar de que los Tribunales administren pronta justicia en los términos que establezcan las Leyes.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
+
+X.- Cuidar de que los Tribunales administren pronta Justicia en los términos que establezcan las Leyes.
 
 XI. Impartir a los Tribunales el auxilio que demanden para el desempeño de sus fnnciones (sic).
 
@@ -811,9 +867,9 @@ XXIII. Ejercer la superior inspección de todos los ramos de la Administración 
 
 XXIV. Conocer de las quejas que se interpongan contra los Ayuntamientos o sus Presidentes.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1944)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
 
-XXV. Autorizar y someter a la aprobación del Congreso, los Presupuestos de Ingresos de los Municipios del Estado, las ventas de bienes propios y los contratos que celebren los Ayuntamientos y Juntas Auxiliares, cuando dichos contratos tengan una duración que exceda del período para el cual hubieren sido electos.
+XXV.- Autorizar y someter a la aprobación del Congreso, los Presupuestos de Ingresos de los Municipios del Estado, las ventas de bienes propios y los contratos que celebren los Ayuntamientos, cuando dichos contratos tengan una duración que exceda del período para el cual hubieren sido electos.
 
 XXVI. Recibir la protesta de todos los funcionarios y empleados de nombramiento del Gobernador que conforme a las Leyes no deban otorgarla ante otra autoridad.
 
@@ -827,7 +883,7 @@ XXX. Organizar la Secretaría General de Gobierno, sin alterar los Presupuestos.
 
 ###### Artículo 72.
 
-Para el despacho de los negocios oficiales del Departamento Ejecutivo, habrá un Seccetario (sic) General.
+Para el despacho de los negocios oficiales del Poder Ejecutivo, habrá un Secretario General de Gobierno.
 
 ###### Artículo 73.
 
@@ -857,33 +913,39 @@ El Secretario substituirá al Gobernador en el caso previsto en el artículo 68 
 
 Las faltas temporales del Secretario se llenarán por el Oficial Mayor de Gobierno, que tendrá el carácter de Subsecretario, con los deberes y atribuciones que le señale la ley.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE ABRIL DE 1974)</small>
+
 ###### Artículo 78.
 
-El ejercicio de las funciones del Departamento Judicial se encomienda a un Tribunal Superior y a los Tribunales inferiores.
+El ejercicio de las funciones del Poder Judicial, se encomienda a un TRIBUNAL SUPERIOR y a los Tribunales inferiores.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1954)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
 
 ###### Artículo 79.
 
-El Tribunal Superior se formará de diez Magistrados de Número y diez Suplentes, nombrados por el Congreso a propuesta en terna del Ejecutivo.
+El Tribunal Superior se formará cuando menos por diez Magistrador (sic) Propietarios y diez Suplentes de éstos, nombrados por el Congreso a propuesta en terna por el Ejecutivo.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1944)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
 
 ###### Artículo 80.
 
-Los Magistrados de número y suplentes del Tribunal Superior, durarán en su encargo hasta seis años y tomarán posesión el quince de febrero, debiendo coincidir su periodo con el del Gobernador Constitucional.
+Los Magistrados Propietarios y los Suplentes de éstos, inegrantes (sic) del Tribunal Superior, durarán en su encargo seis años y tomarán posesión el quince de febrero, debiendo coincidir su período con el del Gobernador del Estado.
 
 ### CAPITULO SEGUNDO.
 
 Del Secretario General.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
+
 ###### Artículo 81.
 
 La Ley establecerá la Organización del Tribunal Superior, fijará sus facultades y determinará la forma en que los Magistrados Suplentes deban ser llamados a ejercer sus funciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 1974)</small>
+
 ###### Artículo 82.
 
-Para ser Magistrado de número o Suplente del Tribunal Superior se requiere:
+Para ser Magistrado Propietario o Suplente del Tribunal Superior se requiere:
 
 Ser ciudadano mexicano en el ejercicio de sus derechos, mayor de treinta años y Abogado recibido, por lo menos cinco años antes del nombramiento y no haber figurado directa o indirectamente en algún motín, asonada o cuartelazo.
 
@@ -899,17 +961,21 @@ Todos los cargos de orden judicial, son renunciables, siempre que los funcionari
 
 El Congreso y en su caso la Comisión Permanente, calificará las renuncias de los Magistrados del Tribunal Superior y las de los Jueces de Primera Instancia. Las de los otros funcionarios judiciales, la autoridad que los nombre.
 
-## TITULO QUINTO.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
 
-Del Departamento Judicial.
+## TITULO QUINTO
+
+Del Poder Judicial.
 
 ### CAPITULO UNICO.
 
 De la Organización de los Tribunales de Justicia.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
+
 ###### Artículo 86.
 
-El desempeño de las funciones del Departamento Judicial en el Tribunal Superior y en los Juzgados de Primera Instancia del ramo civil o penal, es incompotible (sic), respecto de los propietarios con cualquiera otro cargo, empleo o comisión y con el ejercicio de la abogacía, excepto el de Profesores de Derecho en el Colegio del Estado. Esta incompatibilidad comprende a los suplentes que desempeñen funciones por más de dos meses.
+El desempeño de las funciones del Poder Judicial por el Tribunal Superior o por los demás Tribunales que lo integren, es incompatible, respecto de los propietarios con cualquier otro cargo, empleo o comisión, con excepción de las actividades docentes o de las que implícitamente o por ministerio de la Ley desempeñen los Tribunales foráneos. Esta incompatibilidad comprende a los suplentes en ejercicio de funciones.
 
 ###### Artículo 87.
 
@@ -919,9 +985,11 @@ Las sentencias que pronuncien los Tribunales del Estado contra este mismo y cont
 
 En los juicios no podrá haber más de dos instancias y los recursos que establezcan las Leyes.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
+
 ###### Artículo 89.
 
-La Ley establecerá la manera de cubrir las faltas de los funcionarios del Departamento Judicial.
+La Ley establecerá la manera de cubrir las faltas de los funcionarios del Poder Judicial.
 
 ###### Artículo 90.
 
@@ -959,19 +1027,21 @@ Del Ministerio Público.
 
 Respecto del Procurador General y de los Agentes que conforme a las Leyes deben ser Abogados, se observará lo dispuesto en el artículo 86.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
+
 ###### Artículo 96.
 
-La Ley organizará el Ministerio Público, fijará las atribuciones de los funcionarios que de él formen parte y determinará el tiempo que cada uno de ellos deba durar en sus funciones.
-
-El Procurador General tomará posesión el quince de febrero y durará en su encargo el tiempo que fije la Ley.
+La Ley organizará el Ministerio Público, y fijará las atribuciones de los funcionarios que de él formen parte.
 
 ###### Artículo 97.
 
 Las licencias a los funcionarios del Ministerio Público serán concedidas por el Procurador General, y sobre las renuncias de los mismos funcionarios resolverá la autoridad que los nombre.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
+
 ###### Artículo 98.
 
-Si al terminar el período señalado a los funcionarios del Ministerio Público, no se hubiere nombrado quién deba sustituirlos, continuarán en su cargo hasta que tal nombramiento se haga.
+Los funcionarios del Ministerio Público durarán en sus cargos hasta en tanto el Gobernador del Estado nombre a quienes los sustituyan.
 
 ###### Artículo 99.
 
@@ -987,6 +1057,8 @@ Cada Municipio será administrado por un Ayuntamiento de elección popular direc
 
 Los Ayuntamientos tienen personalidad jurídica para todos los efectos legales.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
+
 ## TITULO SEPTIMO.
 
 Del Municipio Libre.
@@ -995,7 +1067,7 @@ Del Municipio Libre.
 
 ###### Artículo 102.
 
-Los Ayuntamientos, sin infringir las Leyes de la Federación o del Estado, tienen derecho de atender libremente de la manera que juzguen más eficaz, a todos los ramos de la administración pública del Municipio, sin excederse en los presupuestos.
+Los Ayuntamientos sin infringir las Leyes de la Federación o del Estado tienen derecho de atender libremente, de la manera que juzguen más eficaz, a todos los ramos de la administración pública del municipio, sin excederse de los presupuestos y podrán expedir Reglamentos autónomos, órdenes, Decretos y circulares, en materia de policía y buen gobierno, necesarios para el cumplimiento de sus funciones.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 1944)</small>
 
@@ -1003,17 +1075,17 @@ Los Ayuntamientos, sin infringir las Leyes de la Federación o del Estado, tiene
 
 Los Ayuntamientos se renovarán en su totalidad cada tres años, en los términos que disponga la Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADO PRIMER PARRAFOA, P.O. 16 DE ABRIL DE 1974)</small>
 
 ###### Artículo 104.
 
-La Ley Reglamentaria Municipal, se sujetará a las bases siguientes:
+La Ley Orgánica Municipal, se sujetará a las bases siguientes:
 
 I. Los Municipios administrarán libremente su hacienda, la cual se formará de las contribuciones que señale la Legislatura, del Estado, y en todo caso serán las suficientes para atender a sus necesidades.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1944)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
 
-II. Los Ayuntamientos someterán a la aprobación de la Legislatura por conducto del Titular del Departamento Ejecutivo, sus presupuestos de ingresos y sus cuentas anuales, y no podrán contratar empréstitos, efectuar ventas de bienes propios, ni celebrar contratos que tengan una duración que exceda del período para el cual hubieren sido electos, sin autorización del Gobernador del Estado y aprobación del Congreso.
+II. Los Ayuntamientos someterán a la aprobación de la Legislatura, por conducto del Titular del Poder Ejecutivo, sus Presupuestos de Ingresos y sus cuentas anuales, y no podrán contratar empréstitos, efectuar ventas de bienes propios, ni celebrar contratos que tengan una duración que exceda del período para el cual hubieren sido electos, sin autorización del Gobernador del Estado y la aprobación del Congreso.
 
 III. El Ejecutivo Federal y el Gobernador del Estado tendrán el mando de la policía y fuerza pública de los Municipios donde residieren habitual o transitoriamente. Las mismas, policía y fuerza pública del Municipio auxiliarán a las fuerzas del Estado, y recíprocamente.
 
@@ -1023,19 +1095,27 @@ V. En caso de desarrollo de alguna epidemia, el Gobernador del Estado podrá hac
 
 VI. Los Ayuntamientos están obligados a seguir los programas que en materia de Instrucción Pública establezcan las autoridades educativas del Estado.
 
-VII. En caso de falta continuada de los miembros de la Asamblea, por el término que fije la Ley, los Munícipes que asistan procederán a llamar a los suplentes a fin de que sea integrada, y si todos han cesado de concurrir, el Ejecutivo del Estado está facultado para llamar a los referidos suplentes. Integrada así la Asamblea, decretará la imposición de una multa de $100.00 CIEN PESOS a los que hayan faltado sin causa justificada, y los consignará a la autoridad judicial correspondiente para que, previos los procedimientos legales, se les imponga como pena la suspensión de derechos políticos durante un año.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
 
-La propia Asamblea dará cuenta al Ejecutivo de las faltas de los propietarios y suplentes y éste convocará a elecciones desde luego para cubrir los puestos que los faltistas hubieren dejado vacantes, excepto el caso de que hayan de transcurrir menos de cuatro meses para que quede concluido su período, en el qne (sic) se esperará a la nueva elección.
+VII.- En caso de falta de los miembros de la asamblea, por más de dos sesiones consecutivas, los Regidores que asistan, procederán a llamar a los suplentes, a fin de que sea integrada, y si todos han dejado de concurrir, el Ejecutivo del Estado está facultado para llamar a los suplentes. Integrada así la asamblea, decretará la imposición de una multa de $200.00 (DOSCIENTOS PESOS) a los que hayan faltado sin causa justificada, y los consignará a la autoridad judicial correspondiente, para que, previos los procedimientos legales, se les imponga como pena la suspensión de derechos políticos durante tres años. Igual procedimiento se aplicará al Síndico Municipal.
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1965)</small>
+La propia asamblea dará cuenta al Ejecutivo de las faltas absolutas de uno o más de sus miembros propietarios y de sus respectivos suplentes, y éste convocará desde luego a elecciones para cubrir los puestos que hubieren quedado vacantes, salvo que falte por transcurrir un año o menos para completar su período y que haya el número suficiente de Regidores para integrar quórum, en cuyo caso se esperará a la nueva elección
 
-VIII. En el caso de falta absoluta de Ayuntamiento, el Ejecutivo nombrará una Junta Provisional de entre los vecinos del Municipio, la cual regirá mientras se convoca a elecciones o termina el período, si falta menos de un año para la conclusión de él.
+.
+
+Si la falta absoluta del Presidente o del Síndico propietario y de sus respectivos suplentes, ocurriera faltando un año o menos para la terminación del período del ejercicio del Ayuntamiento, asumirán los cargos por el tiempo que falte para concluirlos y con el carácter de substitutos, el Regidor encargado de la Comisión de Gobernación y Policía, como Presidente, y la persona que de entre los vecinos del municipio designe el Gobernador, como Síndico.
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
+
+VIII.- En el caso de falta absoluta del Ayuntamiento, el Ejecutivo nombrará un Consejo Municipal de entre los vecinos del Municipio, el cual regirá hasta el final del período correspondiente.
 
 IX. En caso de que por razón de empate en las votaciones o por cualquiera otra causa, la Asamblea Municipal no pueda llegar a una resolución, el Ejecutivo del Estado podrá decidir sobre el asunto controvertido.
 
 X. En las poblaciones de la Jurisdicción municipal distintas de la cabecera, la Autoridad local se ejercerá por medio de Concejos Municipales o Juntas Auxiliares elegidas como lo determina la Ley Orgánica.
 
-XI. El Presidente del Ayuntamiento será electo por los Regidores, de entre ellos mismos, y será el ejecutor de las resoluciones que no sean encomendadas a una Comisión Especial.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
+
+XI.- Los Ayuntamientos se compondrán del número de Regidores y Síndicos que prevenga la Ley; residirán en las cabeceras de los Municipios y serán presididos por el Primer Regidor, quien a la vez tendrá el carácter de Presidente Municipal, quien representará al Ayuntamiento y al Municipio y será el ejecutor de las resoluciones del Ayuntamiento que no sean encomendadas a una comisión especial.
 
 XII. Los Ayuntamientos atenderán la administración por medio de Comisiones, entre las cuales distribuirán los diversos ramos de aquélla.
 
@@ -1053,17 +1133,13 @@ XVI.- Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, e
 
 La Hacienda Publica tiene por objeto atender a los gastos ordinarios y extraordinarios del Estado.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
+
 ###### Artículo 106.
 
-La Hacienda Pública se formará:
+La Hacienda Pública se formará con el producto de las contribuciones, impuestos, derechos, productos, aprovechamientos y participaciones que determine la Ley Fiscal y con las donaciones, legados, herencias y reintegros que se hagan o se dejen al tesoro público.
 
-I. Del producto de las contribuciones que decrete el Congreso.
-
-II. Del producto de los bienes que según las Leyes pertenezcan al Estado.
-
-III. De las multas que conforme a las Leyes deban ingresar al Erario.
-
-IV. De las donaciones, legados, herencias y reintegros que se hagan o dejen al Tesoro Público.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
 
 ## TITULO OCTAVO.
 
@@ -1075,11 +1151,15 @@ De la Hacienda Pública.
 
 ###### Artículo 107.
 
-El Congreso expedirá la Ley de Hacienda que establezca las contribuciones necesarias para los gastos públicos. Dicha Ley podrá variarse o modificarse anualmente, en vista del presupuesto de gastos, y siempre que lo exijan las necesidades del Estado.
+Las Leyes de Ingresos, fijarán anualmente las cuotas correspondientes a las contribuciones, impuestos, derechos, productos y aprovechamientos, los cuales deberán ser suficientes para cubrir el presupuesto anual de egresos, de acuerdo con lo que establezca en (sic) el Código Fiscal del Estado.
+
+Las participaciones que correspondan al Estado en ingresos federales y municipales, serán las que determinen las leyes que las establezcan.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
 
 ###### Artículo 108.
 
-La Hacienda Pública podrá ejercer la facultad económico coactiva para hacer efectivos los impuestos decretados por las Leyes.
+La Hacienda Pública ejercerá el procedimiento administrativo de ejecución que establece el Código Fiscal del Estado, para hacer efectivos los impuestos, derechos, productos decretados por las Leyes.
 
 ### CAPITULO SEGUNDO.
 
@@ -1111,25 +1191,29 @@ Para la conservación de la tranquilidad y orden públicos en el Estado, se orga
 
 ###### Artículo 114.
 
-Es obligación del Estado impartir y fomentar la Educación pública en todos sus grados y especialmente la Educación Primaria, en proporción a las circunstancias del Erario y de conformidad con las necesidades sociales de los habitantes. Será laica la educación pública que se imparta en las escuelas oficiales, así como la educación primaria, elemental y superior que se dé en las escuelas particulares. La educación primaria elemental, o en su defecto la educación rudimentaria, será obligatoria para todos los habitantes del Estado y uniforme hasta donde sea posible. Se dará en los términos que prevenga la ley, y se costeará por los fondos públicos, con los cuales se establecerán escuelas en todas las ciudades, villas, pueblos y rancherías.
+Es obligación del Estado, impartir y fomentar la educación pública en todos sus grados y especialmente a educación primaria, en proporción a las circunstancias del erario y de conformidad con las necesidades sociales de los habitantes.
 
-En la enseñanza primaria no podrán tomar participación directa ni indirecta las corporaciones religiosas ni los ministros de cualquier culto. Sólo se podrá establecer escuelas primarias particulares, sujetándose a la vigilancia oficial y ajustándose a las prescripciones relativas de la ley orgánica respectiva y a los programas y demás disposiciones que de ella dimanen.
+La educación primaria, secundaria, normal y la destinada a obreros y campesinos, se sujetará estrictamente a lo dispuesto por el artículo 3o. de la Constitución General de la República y sus Leyes Reglamentarias.
 
-Queda prohibido en el Estado la existencia de internados, en los establecimientos de enseñanza superior cuando éstos sean de carácter religioso.
+Los particulares no necesitan autorización del Estado para impartir públicamente educación distinta a la que señala el párrafo anterior, pero para que se reconozca validez oficial a sus estudios, deberán satisfacer los requisitos de Ley.
 
 ###### Artículo 115.
 
 La enseñanza que se imparta en los establecimientos oficiales de educación primaria, preparatoria, normal y técnica comprendiendo la mercantil, la industrial y la agrícola, será gratuita.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
+
 ###### Artículo 116.
 
-El Estado protegerá la educación profesional.
+El Estado protegerá la educación media y superior, que se imparta en la Entidad.
 
-No podrán ejercerse en el Estado las profesiones de Médico, Abogado e Ingeniero, sin que sean llenados los requisitos establecidos en la ley orgánica respectiva.
+El ejercicio profesional se regirá conforme a lo que disponga la Ley Reglamentaria del Artículo 4o. Constitucional que rija en la Entidad.
 
 ### CAPITULO TERCERO.
 
 De la Educación Pública.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
 
 ###### Artículo 117.
 
@@ -1195,9 +1279,11 @@ Para procesar por delitos oficiales al Gobernador, será preciso que la Legislat
 
 No podrán aplicarse las gracias de indulto o conmutación de pena a los condenados por responsabilidad oficial.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
+
 ###### Artículo 127.
 
-La responsabilidad oficial podrá exigirse durante todo el ejercicio del cargo y durante un año más.
+La responsabilidad por delitos y faltas oficiales, sólo podrá exigirse durante el periodo en que el funcionario ejerza sus funciones y un año más contado a partir de la fecha en que haya dejado de ejercerlas.
 
 CAPITULO SEGUNO (SIC).
 
@@ -1245,13 +1331,11 @@ Nadie podrá entrar al desempeño de ningún cargo, empleo o comisión del Estad
 
 La autoridad ante quien se ejerza el derecho de petición, dictará su proveido por lo menos dentro de ocho días cuando las Leyes no señalen otro término.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
+
 ###### Artículo 137.
 
-Se prohibe en el Esdo (sic) toda clase de Juegos de azar por medio de dados, naipes u otros objetos distintos aunque tengan uso lícito.
-
-Se prohibe a todos los habitantes del Estado y especialmente a los comerciantes vender naipes, dados o cualesquiera otros objetos destinados exclusivamente a esa clase de juegos.
-
-Los infractores incurrirán en multa de cien a mil pesos por la primera vez, sin perjuicio de imponerles hasta treinta días de arresto en caso de reincidencia.
+El Estado garantiza a sus servidores de base, no designados por elección ni nombrados para un período determinado, la inamovilidad de sus cargos, de los que sólo podrán ser suspendidos o separados por causa justificada y disfrutarán de los beneficios y prerrogativas que se establecen en la Ley de los Trabajadores al Servicio del Estado.
 
 ###### Artículo 138.
 
@@ -1355,7 +1439,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 17 DE NOVIEMBRE DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 128 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 13 DE NOVIEMBRE DE 1936.
 
@@ -1380,6 +1464,12 @@ UNICO.- La presente reforma entrará en vigor a partir del día siguiente de su 
 P.O. 15 DE SEPTIEMBRE DE 1970.
 
 UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE ABRIL DE 1974.
+
+ARTÍCULO UNO.- Las presentes reformas entrarán en vigor a los treinta días siguientes a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+ARTÍCULO DOS.- Dentro del año siguiente a la fecha en que entren en vigencia las presentes reformas, el Congreso deberá introducir las modificaciones necesarias en las Leyes vigentes del Estado, para que las mismas acaten aquéllas y entretanto dichas Leyes continuarán en vigor.
 
 ###### Artículo 5°.
 
