@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1999-01-18"
+last_updated: "1999-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -617,9 +617,9 @@ VI.- Deberá celebrarse una asamblea general ordinaria cada año, por lo menos, 
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
 
-En las asambleas generales extraordinarias de accionistas las decisiones deberán tomarse, cuando menos, por una mayoría del 80% del capital pagado con derecho a voto, salvo que se trate de segunda convocatoria, caso en el cual las resoluciones se adoptarán, por lo menos, con el voto del 30% del capital pagado con derecho a voto.
+En las asambleas generales extraordinarias de accionistas las decisiones deberán tomarse cuando menos, por una mayoría del 80% del capital pagado con derecho a voto, salvo que se trate de segunda convocatoria, caso en el cual las resoluciones se adoptarán, por lo menos, con el voto del 30% del capital pagado con derecho a voto.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 VII.- El número de sus consejeros no podrá ser inferior de cinco y actuarán constituidos en consejo de administración.
 
@@ -3265,19 +3265,17 @@ Si se tratare de una institución o sociedad mutualista de seguros o un agente d
 
 ARTICULO 139 bis.- (DEROGADO, D.O.F. 7 DE ENERO DE 1981)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 140.
 
-Para proceder penalmente por los delitos previstos en los artículos 141, 142, 143, 144, 145 y 146 de esta Ley, será necesario que la Secretaría de Hacienda y Crédito Público formule petición, previa opinión de la Comisión Nacional de Seguros y Fianzas.
+Para proceder penalmente por los delitos previstos en los artículos 141 al 146 y 147 al 147 Bis 2 de esta ley, será necesario que la Secretaría de Hacienda y Crédito Público formule petición, previa opinión de la Comisión Nacional de Seguros y Fianzas; también se procederá a petición de la institución o sociedad mutualista de seguros ofendidas, o de quien tenga interés jurídico.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-Tratándose de los delitos a que se refieren los artículos 142, fracción I y 145 de esta Ley, las empresas de seguros podrán también presentar directamente denuncia penal ante las autoridades competentes.
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-Las multas previstas en los artículos 141, 142, 143, 145 y 147 de esta Ley, se impondrán a razón de días de salario. Para calcular su importe se tendrá como base el salario mínimo general vigente en el Distrito Federal al momento de realizarse la conducta sancionada.
+Las multas previstas en este capítulo, se impondrán a razón de días de salario. Para calcular su importe se tendrá como base el salario mínimo general diario vigente en el Distrito Federal al momento de realizarse la conducta sancionada.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -3285,7 +3283,7 @@ La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisi�
 
 > <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
-Dichas disposiciones deberán considerar entre otros aspectos, criterios para la adecuada identificación de los clientes y usuarios de la operaciones y servicios de las mencionadas empresas aseguradoras, que consideren sus condiciones específicas y actividad económica o profesional; los montos, frecuencia, tipos y naturaleza de las operaciones e instrumentos monetarios con que las realicen y su relación con las actividades de los clientes o usuarios; las plazas en que operen y las prácticas comerciales, financieras y aseguradoras que priven en las mismas; la debida y oportuna capacitación de su personal; y medidas específicas de seguridad en el manejo de las operaciones de las propias empresas aseguradoras.
+Dichas disposiciones deberán considerar entre otros aspectos, criterios para la adecuada identificación de los clientes y usuarios de la operaciones y servicios de las mencionadas empresas aseguradoras, que consideren sus condiciones específicas y actividad económica o profesional; los montos, frecuencia, tipos y naturaleza de las operaciones e instrumentos monetarios con que las realicen y su relación con las actividades de los clientes o usuarios; las plazas en que operen y las prácticas comerciales, financieras y aseguradoras que priven en las mismas; la debida y oportuna capacitación de su personal y medidas específicas de seguridad en el manejo de las operaciones de las propias empresas aseguradoras.
 
 > <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -3301,17 +3299,19 @@ Tanto los servidores públicos de la Secretaría de Hacienda y Crédito Público
 
 Serán sancionadas las violaciones a lo dispuesto en el artículo 3o. de esta Ley, conforme a lo siguiente:
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
-I.- Con prisión de seis meses a diez años y multa de 1500 a 5000 días de salario, a quienes en contravención a lo dispuesto por las fracciones I y IV de ese artículo, practiquen operaciones activas de seguros o a quienes actúen como intermediarios en las operaciones que dichas personas realicen.
+I.- Con prisión de tres a quince años y multa de mil quinientos a cinco mil días de salario, a quienes en contravención a lo dispuesto por las fracciones I y IV de ese artículo, practiquen operaciones activas de seguros o a quienes actúen como intermediarios en las operaciones que dichas personas realicen.
 
-Con prisión de tres meses a cinco años y multa de 750 a 3000 días de salario, a quienes en contravención a lo dispuesto por la fracción IV del referido artículo 3o., ofrezcan directamente o como intermediarios en el territorio nacional por cualquier medio, público o privado, la contratación de las operaciones a que se refiere la fracción II de ese mismo artículo, y
+Con prisión de dos a diez años y multa de setecientos cincuenta a tres mil días de salario, a quienes en contravención a lo dispuesto por la fracción IV del referido artículo 3o. ofrezcan directamente o como intermediarios en el territorio nacional por cualquier medio, público o privado, la contratación de las operaciones a que se refiere la fracción II de ese mismo artículo, y
 
-II.- Con prisión de seis meses a seis años y multa de 150 a 1,500 días de salario, a las personas que contraten con empresas extranjeras, los seguros a que se refiere la fracción II del señalado artículo 3o.
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
+II.- Con prisión de tres a diez años y multa de doscientos a dos mil días de salario, a las personas que contraten con empresas extranjeras, los seguros a que se refiere la fracción II del artículo 3o.
 
-Se considerarán comprendidos dentro de los supuestos señalados en las fracciones anteriores y consecuentemente, sujetos a las mismas sanciones a los directores, gerentes, miembros del consejo de administración y los representantes y agentes en general de personas morales que practiquen habitualmente las operaciones ilícitas a que aluden las fracciones I, II y IV del citado artículo 3o. de esta Ley.
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Se consideran comprendidos dentro de los supuestos señalados en las fracciones anteriores y consecuentemente, sujetos a las mismas sanciones a los directores, gerentes, miembros del consejo de administración, funcionarios, empleados y los representantes y agentes en general de personas morales que practiquen habitualmente las operaciones ilícitas a que aluden las fracciones I, II y IV del citado artículo 3o. de esta ley.
 
 Cuando todos los actos que concurran a la celebración del contrato, incluyendo los de intermediación, se hubieren efectuado fuera del territorio nacional, se considerará, con excepción del caso previsto en el inciso 1) de la fracción II del artículo 3o. de esta Ley, que el delito se comete por el solo hecho de registrar el pago de las primas en la contabilidad que dentro del territorio mexicano se lleve por el asegurado, por el tomador del seguro o por cualquier otro interesado en el mismo, o bien, porque cualquiera de esas personas realice en México algún acto que signifique cumplimiento de obligaciones o deberes o ejercicio de derechos, derivados del contrato celebrado en el extranjero.
 
@@ -3319,31 +3319,37 @@ Cuando todos los actos que concurran a la celebración del contrato, incluyendo 
 
 Es excluyente de responsabilidad penal por desobediencia a la prohibición contenida en la fracción I del artículo 3o. de esta Ley, la ignorancia de que a una institución de seguros o a una sociedad mutualista de seguros se le hubiere revocado la autorización que originalmente tuviere para operar o de que, por cualquier otra causa, se hubieren extinguido o suspendido sus efectos antes de contratar con ella, ignorancia que se presumirá en el tomador del seguro y en el asegurado o sus causahabientes, pero no en el intermediario.
 
-La empresa o negociación que haya efectuado la operación u operaciones activas de seguros que prohibe la fracción I del referido artículo 3o., será intervenida administrativamente por la Comisión Nacional de Seguros y Fianzas, hasta que la operación u operaciones ilícitas se corrijan.
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
+La empresa o negociación que haya efectuado la operación u operaciones activas de seguros que prohíbe la fracción I del referido artículo 3o., será intervenida administrativamente por la Comisión Nacional de Seguros y Fianzas, hasta que la operación u operaciones ilícitas se corrijan.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 142.
 
-Se impondrá pena de prisión de seis meses a seis años y multa de quinientos a mil quinientos días de salario:
+Se impondrá pena de prisión de dos a diez años y multa de quinientos a mil quinientos días de salario:
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1997)</small>
 
 I.- Al agente o al médico que dolosamente o con ánimo de lucrar, oculte a la empresa aseguradora la existencia de hechos cuyo conocimiento habría impedido la celebración de un contrato de seguro; y
 
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1997)</small>
+
 II.- Al médico que suscriba un examen destinado a servir de base para la contratación de un seguro, con una persona o entidad no facultada para funcionar en los términos de esta Ley como institución o sociedad mutualista de seguros, cuando lo haga a solicitud o por encargo de dicha persona o entidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 143.
 
-Se impondrá pena de prisión de seis meses a diez años y multa de 1000 a 5000 días de salario a los consejeros, comisarios, directores, funcionarios o empleados de una institución o sociedad mutualista de seguros:
+Se impondrá pena de prisión de uno a quince años y multa de cinco mil a cincuenta mil días de salario a los consejeros, comisarios, directores, funcionarios o empleados de una institución o sociedad mutualista de seguros:
 
 > <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
 
 I.- Que retiren en forma que no sea autorizada por esta Ley o graven o enajenen los bienes, créditos o valores en que estén invertidas las reservas o cometan cualesquiera otros actos que tengan por efecto disminuir la seguridad y garantía de dichos bienes;
 
-> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
-II.- Que en sus informes, cuentas o exposiciones a las asambleas generales de accionistas o de mutualizados, falseen en forma grave la situación de la empresa;
+II.- Que en sus informes, cuentas o exposiciones a las asambleas generales de accionistas o de mutualizados, falseen la situación de la empresa;
 
 > <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
 
@@ -3361,61 +3367,113 @@ V.- Que con el fin de falsear los reportes o información sobre la situación de
 
 Las penas previstas en este artículo se aplicarán también, en su caso, a quienes a sabiendas hayan celebrado el negocio con la institución o sociedad mutualista de seguros, si se trata de personas físicas o a quienes hayan representado a las sociedades participantes.
 
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 144.
 
-Los funcionarios o empleados de instituciones de seguros y sociedades mutualistas que, con independencia de los cargos e intereses fijados por la institución o sociedad mutualista respectiva, por sí o por interpósita persona hayan obtenido de los sujetos de crédito, beneficios personales por su participación en el trámite u otorgamiento del crédito, serán sancionados con prisión de tres meses a tres años cuando la dádiva no sea valuable, o no exceda de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y de dos a seis años de prisión cuando la dádiva exceda de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito.
+Los consejeros, funcionarios o empleados de las instituciones de seguros y sociedades mutualistas o quienes intervengan directamente en el otorgamiento del crédito que, con independencia de los cargos e intereses fijados por la institución o sociedad mutualista respectiva, por sí o por interpósita persona hayan obtenido de los sujetos de crédito, beneficios personales por su participación en el trámite u otorgamiento del crédito, serán sancionados con prisión de tres meses a tres años cuando el beneficio no sea valuable, o no exceda de quinientos días de salario en el momento de cometerse el delito y de dos a seis años de prisión cuando dicho beneficio exceda de quinientos días de salario en el momento de cometerse el delito.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 145.
 
-Se impondrá pena de prisión de seis meses a diez años y multa de 1000 a 5000 días de salario a:
+Se sancionará con prisión de tres meses a dos años y multa de treinta a dos mil días de salario cuando el monto de la operación, quebranto o perjuicio patrimonial, según corresponda, no exceda del equivalente a dos mil días de salario.
 
-> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-I.- Las personas que, con el propósito de obtener un préstamo proporcionen a una institución o sociedad mutualista de seguros, datos falsos sobre el monto de activos o pasivos, de una entidad o persona física o moral, si como consecuencia de ello resulta quebranto patrimonial para la institución o sociedad mutualista;
+Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de dos mil y no de cincuenta mil días de salario; se sancionará con prisión de dos a cinco años y multa de dos mil a cincuenta mil días de salario.
 
-> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-II.- Los funcionarios de una institución o sociedad mutualista de seguros que, conociendo la falsedad sobre el monto de los activos o pasivos, de una entidad o persona física o moral, concedan el préstamo a que se refiere la fracción anterior, produciéndose los resultados que se indican en la misma;
+Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de cincuenta mil, pero no de trescientos cincuenta mil días de salario, se sancionará con prisión de cinco a ocho años y multa de cincuenta mil a doscientos cincuenta mil días de salario.
 
-> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-III.- Las personas que para obtener préstamos de una institución o sociedad mutualista de seguros presenten avalúos que no correspondan a la realidad, de manera que el valor real de los bienes que ofrecen en garantía sea inferior al importe del crédito, resultando quebranto patrimonial para la institución o sociedad mutualista;
+Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de trescientos cincuenta mil días de salario, se sancionará con prisión de ocho a quince años y multa de doscientos cincuenta mil a trescientos cincuenta mil días de salario.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Considerando el monto de la operación, quebranto o perjuicio patrimonial, las sanciones previstas en este artículo se impondrán a:
+
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+I.- Las personas que, con el propósito de obtener un préstamo proporcionen a una institución o sociedad mutualista de seguros, datos falsos sobre el monto de activos o pasivos de una entidad o persona física o moral, si como consecuencia de ello resulta quebranto o perjuicio patrimonial para la institución o sociedad mutualista;
+
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+II.- Los consejeros, funcionarios o empleados, de una institución o sociedad mutualista de seguros o quienes intervengan directamente en el otorgamiento del préstamo que, conociendo la falsedad sobre el monto de los activos o pasivos, de una entidad o persona física o moral, concedan el préstamo;
+
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+III.- Las personas que para obtener préstamos de una institución o sociedad mutualista de seguros, presenten avalúos que no correspondan a la realidad, de manera que el valor real de los bienes que ofrecen en garantía sea inferior al importe del crédito, resultando quebranto o perjuicio patrimonial para la institución o sociedad mutualista;
 
 > <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
 
 IV.- Los acreditados que desvíen un crédito concedido por alguna institución o sociedad mutualista de seguros a fines distintos para los que se otorgó, si dicha finalidad fue determinante para el otorgamiento del crédito o de condiciones preferenciales en el mismo; y
 
-> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
-V.- Los funcionarios de la institución o sociedad mutualista de seguros que, conociendo los vicios que señala la fracción III de este artículo, concedan el préstamo, si el monto de la alteración hubiere sido determinante para concederlo y se produce quebranto patrimonial para la institución o sociedad mutualista.
+V.- Los consejeros, funcionarios o empleados de la institución o sociedad mutualista de seguros o quienes intervengan directamente en el otorgamiento del préstamo que conociendo los vicios que señala la fracción III de este artículo concedan el préstamo, si el monto de la alteración hubiere sido determinante para concederlo.
 
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 146.
 
-Se impondrá pena de prisión de dos a diez años a los funcionarios y empleados de las instituciones y sociedades mutualistas de seguros:
+Se sancionará con prisión de tres meses a dos años y multa de treinta a dos mil días de salario cuando el monto de la operación, quebranto o perjuicio patrimonial, según corresponda, no exceda del equivalente a dos mil días de salario.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de dos mil y no de cincuenta mil días de salario; se sancionará con prisión de dos a cinco años y multa de dos mil a cincuenta mil días de salario.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de cincuenta mil, pero no de trescientos cincuenta mil días de salario, se sancionará con prisión de cinco a ocho años y multa de cincuenta mil a doscientos cincuenta mil días de salario.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de trescientos cincuenta mil días de salario, se sancionará con prisión de ocho a quince años y multa de doscientos cincuenta mil a trescientos cincuenta mil días de salario.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Considerando el monto de la operación, quebranto o perjuicio patrimonial, las sanciones previstas en este artículo se impondrán a los funcionarios, consejeros o empleados de las instituciones o sociedades mutualistas de seguros:
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1997)</small>
 
 I.- Que dolosamente omitan o instruyan omitir los registros contables en los términos del artículo 100 de esta Ley, de las operaciones efectuadas por la institución o sociedad mutualista de que se trate o que mediante maniobras alteren los registros para ocultar la verdadera naturaleza de las operaciones realizadas, afectando la composición de activos, pasivos, cuentas contingentes o resultados;
 
-II.- Que falsifiquen, alteren, simulen, o, a sabiendas, realicen operaciones que resulten en quebranto patrimonial de la institución o sociedad mutualista en la que presten sus servicios;
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+II.- Que falsifiquen, alteren, simulen, o a sabiendas, realicen operaciones que resulten en quebranto o perjuicio patrimonial a la institución o sociedad mutualista en la que presten sus servicios;
+
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
 
 III.- Que otorguen préstamos a sociedades constituidas con el propósito de obtener financiamiento a sabiendas de que las mismas no han integrado el capital que registren las actas constitutivas correspondientes;
 
-IV.- Que otorguen préstamos a personas físicas o morales cuyo estado de insolvencia les sea conocido, si resulta previsible al realizar la operación que carecen de capacidad económica para pagar o responder por el importe de las sumas acreditadas, produciendo quebrantos patrimoniales a la institución o sociedad mutualista;
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+IV.- Que otorguen préstamos a personas físicas o morales cuyo estado de insolvencia les sea conocido, si resulta previsible al realizar la operación que carecen de capacidad económica para pagar o responder por el importe de las sumas acreditadas, produciendo quebranto o perjuicio patrimonial a la institución o sociedad mutualista;
+
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
 
 V.- Que renueven créditos vencidos parcial o totalmente a las personas físicas o morales a que se refiere la fracción anterior;
 
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
+
 VI.- Que para liberar a un deudor, otorguen créditos a una o varias personas físicas o morales, que se encuentren en estado de insolvencia, sustituyendo en los registros de la institución o sociedad mutualista respectiva unos activos por otros;
 
-VII.- Que, a sabiendas, permitan a un deudor desviar el importe del préstamo en beneficio de terceros, reduciendo notoriamente su capacidad para pagar o responder por el importe del crédito y, como consecuencia de ello, resulte quebranto patrimonial a la institución o sociedad mutualista; y
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+VII.- Que a sabiendas, permitan a un deudor desviar el importe del préstamo en beneficio de terceros, reduciendo notoriamente su capacidad para pagar o responder por el importe del crédito y, como consecuencia de ello, resulte quebranto o perjuicio patrimonial a la institución o sociedad mutualista, y
+
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
 
 VIII.- Que, a sabiendas, presenten a la Comisión Nacional de Seguros y Fianzas, datos falsos sobre la solvencia del deudor o sobre el valor de las garantías que protegen los créditos, imposibilitándola a adoptar las medidas necesarias para que se realicen los ajustes correspondientes en los registros de la institución o sociedad mutualista respectiva.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 146 Bis.
+
+La acción penal en los delitos previstos en esta ley perseguibles por petición de la Secretaría de Hacienda y Crédito Público, de la Institución o Sociedad Mutualista de Seguros ofendidas, o de quien tenga interés jurídico, prescribirá en tres años contados a partir del día en que dicha Secretaría, o la institución o sociedad mutualista de seguros tengan conocimiento del delito y del delincuente, y si no tienen ese conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito. En los demás casos, se estará a las reglas del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
 
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1997)</small>
 
@@ -3423,7 +3481,9 @@ VIII.- Que, a sabiendas, presenten a la Comisión Nacional de Seguros y Fianzas,
 
 A los consejeros, comisarios, directores, funcionarios o empleados de un intermediario de reaseguro, se les impondrá:
 
-I.- Pena de prisión de seis meses a seis años y multa de mil a cinco mil días de salario cuando:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+I.- Pena de prisión de dos a diez años y multa de cinco mil a cincuenta mil días de salario cuando:
 
 a).- Proporcionen a la entidad reaseguradora, dolosamente o con ánimo de lucrar, datos falsos sobre la empresa de seguros cedente, sobre el asegurado o sobre la naturaleza del riesgo o responsabilidad que se pretende intermediar o haya intermediado;
 
@@ -3433,11 +3493,43 @@ c).- Dispongan de cualquier cantidad de dinero que hayan recibido por cuenta de 
 
 d).- Con el fin de falsear los reportes o información sobre la situación del intermediario de reaseguro, dolosamente autoricen, registren u ordenen registrar datos falsos en la contabilidad o reiteradamente produzcan datos falsos en los documentos o informes que deban proporcionar a la Secretaría de Hacienda y Crédito Público, a las instituciones que ésta determine conforme al artículo 59 de esta Ley o a la Comisión Nacional de Seguros y Fianzas; y
 
-II.- Pena de prisión de dos a diez años cuando:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+II. Pena de prisión de tres a quince años cuando:
 
 a).- Dolosamente omitan o instruyan omitir los registros contables en los términos del artículo 100 de esta Ley, de las operaciones efectuadas por el intermediario o que mediante maniobras alteren los registros para ocultar la verdadera naturaleza de las operaciones realizadas afectando la composición de activos, pasivos, cuentas contingentes o resultados; y
 
 b).- Falsifiquen, alteren, simulen o a sabiendas, realicen operaciones que resulten en quebranto patrimonial de la institución o sociedad mutualista de seguros, de la entidad reaseguradora o del intermediario de reaseguro.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 147 Bis.
+
+Los consejeros, funcionarios o comisarios que insten u ordenen a empleados o funcionarios de la institución o sociedad mutualista de seguros a la comisión de los delitos a que se refieren los artículos 143, 145, fracciones II, y V y 146 de esta ley, serán sancionados hasta con una mitad más de las penas previstas en los artículos respectivos.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 147 Bis 1.
+
+Serán sancionados los servidores públicos de la Comisión Nacional de Seguros y Fianzas, con la pena establecida para los delitos correspondientes más una mitad, según se trate de los delitos previstos en los artículos 141 a 146 y 147 de esta ley, cuando:
+
+a) Oculten al conocimiento de sus superiores hechos que probablemente puedan constituir delito;
+
+b) Permitan que los funcionarios o empleados de la institución o sociedad mutualista de seguros, alteren o modifiquen registros con el propósito de ocultar hechos que probablemente puedan constituir delito;
+
+c) Obtengan o pretendan obtener un beneficio a cambio de abstenerse de informar a sus superiores hechos que probablemente puedan constituir delito;
+
+d) Ordenen o inciten a sus inferiores a alterar informes con el fin de ocultar hechos que probablemente puedan constituir delito, o
+
+e) Incite u ordene no presentar la petición correspondiente, a quien esté facultado para ello.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 147 Bis 2.
+
+Se sancionará con prisión de tres a quince años al miembro del consejo de administración, funcionario o empleado de una institución o sociedad mutualista de seguros, que por sí o por interpósita persona, dé u ofrezca dinero o cualquier otra cosa a un servidor público de la Comisión Nacional de Seguros y Fianzas, para que haga u omita un determinado acto relacionado con sus funciones.
+
+Igual sanción se impondrá al servidor público de la Comisión Nacional de Seguros y Fianzas, que por sí o por interpósita persona solicite para sí o para otro, dinero o cualquier otra cosa, para hacer o dejar de hacer algún acto relacionado con sus funciones.
 
 ## TRANSITORIOS
 
@@ -4002,3 +4094,11 @@ TERCERO.- Para los efectos de los artículos 72 y 83 de esta Ley, las menciones 
 ...
 
 DECIMO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+D.O.F. 17 DE MAYO DE 1999.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
