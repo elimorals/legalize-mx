@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2000-10-20"
+last_updated: "2000-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2000.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -865,6 +865,10 @@ XVII.- Presentar al Congreso en el mes de noviembre de cada año un informe debi
 
 XVIII.- Presentar cada año al Congreso, al tercer día de la Apertura del Segundo Período Ordinario de Sesiones, la cuenta pública correspondiente al año anterior;
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2000)</small>
+
+El ejercicio en el que proceda la renovación sexenal del Poder Ejecutivo, la cuenta pública que contemple los tres primeros trimestres del año, podrá ser presentada a mas tardar el día 7 de diciembre de ese mismo año, encargándose la siguiente administración de entregar la correspondiente al último trimestre.
+
 XIX.- Presentar al Congreso, en su Primer Período Ordinario de Sesiones, el Presupuesto de gastos por programa del año siguiente;
 
 XX.- Facilitar al poder judicial los auxilios que necesite para el ejercicio expedito de sus funciones;
@@ -1283,17 +1287,25 @@ El patrimonio y la Hacienda del Estado se componen de los bienes del mismo, de l
 
 El Gobernador, de acuerdo con la naturaleza de las funciones ejecutivas que le correspondan, tiene facultad y obligación de cuidar los fondos públicos, tal como se previene en el Artículo 42 fracción IV de esta constitución. Para ese fin y como dependencia del ejecutivo, la Tesorería General del Estado tiene a su cargo el despacho de esos asuntos, en los términos previstos en la Ley Orgánica de la Administración Pública del Estado.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 66.
 
-El Estado contará con los ingresos que determine la Ley de Hacienda y la Ley de Ingresos del Estado, las leyes del orden común y los que se prevean en los convenios que se celebren con la Federación.
+El Estado contará con los ingresos que determinen el Código de la Hacienda Pública para el Estado de Chiapas, la Ley de Ingresos del ejercicio correspondiente, las leyes de orden común y los que se prevean en los convenios que se celebren con la Federación.
 
-Los egresos se regularán en el Presupuesto correspondiente, que será sancionado anualmente por el Congreso.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2000)</small>
 
-El Congreso podrá modificar, a petición del Ejecutivo, los ingresos o egresos del Estado.
+Los egresos se regularán conforme a las disposiciones que establezca el Código de la Hacienda Pública para el Estado de Chiapas y el presupuesto de egresos que serán sancionados anualmente por el Congreso.
 
-Las partidas presupuestales, o las que asignen cualquier cantidad para gastos extraordinarios serán firmadas por el Gobernador y el Secretario General de Gobierno.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2000)</small>
+
+El Congreso podrá modificar, a petición del ejecutivo, los ingresos y egresos del Estado.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2000)</small>
+
+Las partidas presupuestales, o las que asignen cualquier cantidad para gastos extraordinarios serán autorizadas por el Ejecutivo Estatal a través del Secretario de Hacienda.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 El funcionario que realice erogaciones que no estén previstas en las leyes correspondientes, incurrirá en responsabilidad oficial y responderá con su patrimonio de las erogaciones realizadas.
 
@@ -2372,3 +2384,7 @@ Las modificaciones previstas en el último párrafo del Artículo 16 reformado p
 ###### ARTÍCULO DECIMO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 3 DE DICIEMBRE DE 2000.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
