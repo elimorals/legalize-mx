@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "1995-07-08"
+last_updated: "1998-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 1998.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -759,7 +759,11 @@ III.- Celebrar convenios interbibliotecarios con instituciones especializadas;
 
 IV.- Dirigir y publicar el órgano informativo del Congreso, así como cuidar de su circulación, y
 
-V.- Promover la edición de publicaciones que se consideren de interés para el desarrollo cultural del Estado.
+V.- Promover la edición de publicaciones que se consideren de interés para el desarrollo cultural del Estado;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 1998)</small>
+
+VI.- Promover la traducción y difusión de leyes y decretos a las lenguas de los pueblos indígenas de la Entidad, particularmente de aquellos que se relacionan con los derechos de dichos pueblos; asimismo, la traducción y difusión al lenjuaje (sic) Braile u otras formas de expresión audiovisual, cuando se trate de disposiciones legales orientadas a la protección de los derechos de las personas con discapacidad.
 
 ### CAPITULO VIII. DE LOS ORGANOS TECNICOS
 
@@ -1472,3 +1476,9 @@ C.P. FRANCISCO BARRIO TERRAZAS.
 EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE FEBRERO DE 1998.
+
+Artículo Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
