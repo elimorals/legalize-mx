@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-para-la-proteccion-al-24984"
 country: "mx"
 rank: "estatuto"
 publication_date: "2002-06-14"
-last_updated: "2004-04-02"
+last_updated: "2004-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24984&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-06-12"
 
 ESTATUTO ORGANICO DEL INSTITUTO PARA LA PROTECCION AL AHORRO BANCARIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 2004.
 
 Estatuto publicado en la Primera sección del Diario oficial de la Federación el viernes 14 de junio de 2002.
 
@@ -107,6 +107,8 @@ El domicilio del Instituto será en el Distrito Federal, pudiendo establecer, re
 
 ### CAPITULO II. De la organización del Instituto
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 8o.
 
 El Instituto, para el ejercicio de sus atribuciones, contará con los siguientes órganos y unidades administrativas:
@@ -128,8 +130,6 @@ III. Secretarías Adjuntas:
 IV. Direcciones Generales:
 
 Adscritas al Secretario Ejecutivo:
-
-- De Normatividad y Evaluación;
 
 - De Comunicación Social y Enlace Institucional;
 
@@ -193,7 +193,9 @@ Las sesiones se efectuarán con la asistencia de por lo menos cuatro de sus inte
 
 Todos los integrantes de la Junta de Gobierno tendrán derecho a voz y voto en las sesiones de la misma.
 
-El Secretario Ejecutivo podrá asistir a las sesiones teniendo derecho a voz pero no a voto. También, con derecho a voz, podrán asistir el Comisario Público designado por la Secretaría de Contraloría y Desarrollo Administrativo, funcionarios del propio Instituto y de otras dependencias y entidades de la Administración Pública Federal que tengan relación con los asuntos a tratar. Con el carácter de invitados podrán asistir a las sesiones de la Junta de Gobierno profesionales de reconocido prestigio en la materia.
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+El Secretario Ejecutivo podrá asistir a las sesiones teniendo derecho a voz pero no a voto. También, con derecho a voz, podrán asistir el Comisario Público designado por la Secretaría de la Función Pública, funcionarios del propio Instituto y de otras dependencias y entidades de la Administración Pública Federal que tengan relación con los asuntos a tratar. Con el carácter de invitados podrán asistir a las sesiones de la Junta de Gobierno profesionales de reconocido prestigio en la materia.
 
 Los acuerdos de la Junta de Gobierno se tomarán por mayoría simple de los votos de los presentes. Todos los integrantes de la Junta de Gobierno deberán emitir su voto sobre los asuntos que se desahoguen en las sesiones respectivas, salvo que se encuentren impedidos para ello, en cuyo caso el interesado hará valer tal circunstancia, lo cual se asentará en el acta respectiva.
 
@@ -471,7 +473,11 @@ XII. Validar los manuales de organización, de procedimientos y demás disposici
 
 > <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2004)</small>
 
-XIII. Ejercer directamente las atribuciones que el presente Estatuto Orgánico confiere a los Directores Generales de su adscripción.
+XIII. Ejercer directamente las atribuciones que el presente Estatuto Orgánico confiere a los Directores Generales de su adscripción;
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+XIV. Coordinar en el ámbito de su competencia, la identificación, medición, monitoreo, información y revelación de los riesgos inherentes a las actividades que realiza el Instituto.
 
 ###### ARTICULO 21.
 
@@ -531,7 +537,13 @@ XXVI. Dar seguimiento y evaluar las actividades del Instituto en los consejos de
 
 XXVII. Supervisar la integración de la memoria circunstanciada y expedientes documentales de las operaciones de administración y enajenación de Instituciones o entidades que realice el Instituto, en el ámbito de su competencia, y en coordinación con las unidades administrativas correspondientes, y
 
-XXVIII. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomiende el Secretario Ejecutivo.
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+XXVIII. Coordinar la emisión de los lineamientos, políticas y procedimientos, para la identificación, medición, monitoreo, información y revelación de los riesgos inherentes de las operaciones del Instituto, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+XXIX. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomiende el Secretario Ejecutivo.
 
 ###### ARTICULO 22.
 
@@ -561,7 +573,21 @@ XI. Llevar a cabo, en coordinación con el Secretario Adjunto de Protección al 
 
 XII. Supervisar la integración de la memoria circunstanciada y expedientes documentales de las operaciones de administración y enajenación de Bienes que realice el Instituto, en coordinación con las unidades administrativas competentes, y
 
-XIII. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquéllas que por instrucción expresa le encomiende el Secretario Ejecutivo.
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+XIII. Coordinar la emisión de los lineamientos para la integración de los informes de las operaciones del Instituto solicitados por el Congreso de la Unión y por el Ejecutivo Federal;
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+XIV. Coordinar la emisión de los lineamientos para la integración de las memorias circunstanciadas de las operaciones que realice el Instituto;
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+XV. Coordinar el resguardo de los expedientes documentales de cada una de las operaciones de administración, apoyo financiero, liquidación de obligaciones garantizadas, administración y enajenación de Bienes que realice el Instituto en coordinación con las unidades administrativas ejecutoras, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+XVI. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomiende el Secretario Ejecutivo.
 
 ###### ARTICULO 23.
 
@@ -647,13 +673,23 @@ XIII. Instrumentar, en coordinación con las unidades administrativas responsabl
 
 XIV. Desarrollar la infraestructura de comunicaciones del Instituto con las autoridades financieras y con las Instituciones que tengan relación con el mismo;
 
-> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
 
-XV. Coordinar la actualización del Estatuto Orgánico, manuales de organización, de procedimientos y demás disposiciones administrativas competencia del Instituto, con la participación de las unidades administrativas relacionadas, así como someterla a la autorización del Secretario Ejecutivo;
+XV. Coordinar la actualización del Estatuto Orgánico, manuales de organización, de procedimientos, guías técnicas y demás disposiciones administrativas competencia del Instituto, con la participación de las unidades administrativas relacionadas, así como someterla a la autorización del Secretario Ejecutivo;
 
 XVI. Conducir las acciones que en materia de modernización, simplificación administrativa y productividad determinen las autoridades correspondientes, y
 
-XVII. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomiende el Secretario Ejecutivo.
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+XVII. Coordinar el Sistema de Planeación y Evaluación del Instituto, así como la elaboración y seguimiento del Programa Institucional y los programas que de él se deriven para el corto, mediano y largo plazos, conforme a las directrices que emitan las autoridades correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+XVIII. Coadyuvar en la instrumentación, seguimiento y evaluación de los acuerdos emanados por los diferentes comités del Instituto y con las unidades administrativas responsables de su aplicación, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+XIX. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomiende el Secretario Ejecutivo.
 
 ### CAPITULO VI. Del Control y Evaluación
 
@@ -685,7 +721,9 @@ I. Informar al Secretario Ejecutivo o al Secretario Adjunto, de acuerdo a su ads
 
 II. Preparar los asuntos de su competencia que la Secretaría Adjunta a la que esté adscrita, deba someter a la consideración y aprobación del Secretario Ejecutivo;
 
-III. Planear y dirigir el programa de trabajo de su unidad administrativa conforme a las disposiciones aplicables, políticas y lineamientos que determine la Dirección General de Normatividad y Evaluación;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+III. Planear y dirigir el programa de trabajo de su unidad administrativa conforme a las disposiciones aplicables, políticas y lineamientos establecidos;
 
 IV. Efectuar, previa aprobación del Secretario Adjunto correspondiente, las gestiones para la contratación de terceros especializados, asesores especializados, peritos, consultores, así como la realización de estudios e investigaciones que coadyuven con sus objetivos en el ámbito de su competencia;
 
@@ -705,49 +743,15 @@ XI. Solicitar la información que considere necesaria y que esté relacionada en
 
 > <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2004)</small>
 
-XII. Elaborar y mantener actualizados los manuales de organización, de procedimientos y demás disposiciones administrativas en el ámbito de su competencia en apego a las normas y guías técnicas emitidas por las unidades administrativas competentes.
+XII. Elaborar y mantener actualizados los manuales de organización, de procedimientos y demás disposiciones administrativas en el ámbito de su competencia en apego a las normas y guías técnicas emitidas por las unidades administrativas competentes;
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+XIII. Participar en el ámbito de su competencia en la identificación, monitoreo, información y revelación de los riesgos inherentes de las operaciones del Instituto.
 
 ###### ARTICULO 29.
 
-Corresponde a la Dirección General de Normatividad y Evaluación, el ejercicio de las siguientes atribuciones:
-
-I. Diseñar el sistema de planeación y evaluación Institucional para el corto, mediano y largo plazos, de conformidad con la normatividad establecida, coordinando las acciones de las unidades administrativas hacia la consecución de los objetivos institucionales;
-
-II. Establecer los lineamientos generales para la formulación de los programas del Instituto que deban integrarse para dar cumplimiento a lo establecido en la Ley y en la Ley de Planeación;
-
-III. Dirigir la formulación del programa de trabajo del Instituto, que se determine conforme a las disposiciones aplicables y a las políticas y lineamientos que se generen internamente, en coordinación con las unidades administrativas;
-
-IV. Dar seguimiento y evaluar la correcta aplicación, por parte de las unidades administrativas, de la legislación vigente, el Estatuto Orgánico y las demás disposiciones internas, así como de los lineamientos y normatividad establecida por la Administración Pública Federal;
-
-V. Establecer lineamientos y evaluar la integración de los informes de las operaciones del Instituto solicitados por el Congreso de la Unión y por el Ejecutivo Federal, en coordinación con las unidades administrativas responsables;
-
-> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2004)</small>
-
-VI. Emitir lineamientos, metodologías, criterios técnicos y contables para el cumplimiento de los manuales administrativos, de operación, formatos, catálogos y demás disposiciones administrativas competencia del Instituto, sin perjuicio de las atribuciones conferidas a las demás unidades administrativas del Instituto;
-
-VII. Dar seguimiento y evaluar el cumplimiento del Programa de Trabajo aplicado por las unidades administrativas en apego a las directrices que al respecto emita la Junta de Gobierno del Instituto;
-
-VIII. Dar seguimiento a los procesos de operación de los programas Institucionales, con la finalidad de evaluar el cumplimiento de sus metas y objetivos;
-
-IX. Establecer lineamientos y/o medidas necesarias para el cumplimiento de los programas institucionales, así como evaluar la implementación de los mismos en las unidades administrativas;
-
-X. Cooperar en la instrumentación, seguimiento y evaluación de los acuerdos emanados por los diferentes comités del Instituto y con las unidades administrativas responsables de su aplicación;
-
-XI. Coordinar la identificación, medición, monitoreo, información y revelación de los riesgos inherentes a las actividades que realiza el Instituto;
-
-XII. Evaluar y proponer, con base en las recomendaciones de las unidades administrativas competentes, las políticas, límites, modelos y procedimientos necesarios para la administración integral de riesgos del Instituto;
-
-XIII. Elaborar y enviar a las autoridades la memoria circunstanciada de cada una de las operaciones de apoyo financiero, enajenación y liquidación de Instituciones, liquidación de obligaciones garantizadas, enajenación de Bienes, acciones y partes sociales y de carteras de crédito que realice el Instituto;
-
-XIV. Integrar, evaluar y resguardar los expedientes documentales de cada una de las operaciones de apoyo financiero, enajenación y liquidación de Instituciones, enajenación de Bienes, acciones y partes sociales y de carteras de crédito en coordinación con las unidades administrativas ejecutoras, y
-
-> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2004)</small>
-
-XV. Participar, con la Dirección General de Administración y Presupuesto, en el ámbito de su competencia, en la elaboración de manuales administrativos, de operación y demás disposiciones administrativas competencia del Instituto, y
-
-> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2004)</small>
-
-XVI. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomiende el Secretario Ejecutivo.
+(DEROGADO, D.O.F. 22 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 30.
 
@@ -927,7 +931,9 @@ IX. Ejercer, dentro del ámbito de su competencia, en coordinación con el Direc
 
 X. Revisar los procesos de recuperación, administración y enajenación de los Bienes de las Instituciones o las sociedades, así como los planes de trabajo que formulen las mismas Instituciones y los terceros especializados, relacionados a dichos procesos, a fin de obtener las mejores condiciones económicas para el Instituto;
 
-XI. Participar en la integración de la memoria circunstanciada y de los expedientes documentales respecto a la enajenación de los Bienes, acciones y partes sociales que realice el Instituto, en coordinación con las unidades administrativas competentes, y
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+XI. Integrar la memoria circunstanciada y de los expedientes documentales respecto a la enajenación de los Bienes, acciones y partes sociales que realice el Instituto, en coordinación con las unidades administrativas competentes, y
 
 XII. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomiende el titular de la Secretaría Adjunta de Recuperación de Activos.
 
@@ -945,7 +951,9 @@ IV. Proponer los Bienes muebles, inmuebles y obras de arte que deban incluirse e
 
 V. Establecer estrategias y proponer modificaciones a los planes de trabajo que formulen las Instituciones y los terceros especializados relacionados con los procesos de administración, valuación y enajenación de Bienes muebles, inmuebles y obras de arte;
 
-VI. Participar en la integración de la memoria circunstanciada y de los expedientes documentales de las operaciones de enajenación de Bienes muebles, inmuebles y obras de arte que realice el Instituto, en coordinación con las unidades administrativas competentes;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+VI. Integrar la memoria circunstanciada y de los expedientes documentales de las operaciones de enajenación de Bienes muebles, inmuebles y obras de arte que realice el Instituto, en coordinación con las unidades administrativas competentes;
 
 VII. Ejercer, dentro del ámbito de su competencia, en coordinación con el Director General Jurídico de Recuperación, los derechos patrimoniales inherentes a títulos de crédito, instrumentos de deuda, acciones o partes sociales en los que el Instituto sea parte;
 
@@ -975,7 +983,9 @@ VII. Intervenir, en el ámbito de su competencia, en los procesos de reestructur
 
 VIII. Revisar los procesos de recuperación, administración y enajenación de carteras crediticias, así como los planes de trabajo que formulen las mismas Instituciones y los terceros especializados, relacionados a dichos procesos, a fin de obtener las mejores condiciones económicas para el Instituto;
 
-IX. Participar en la integración de la memoria circunstanciada y de los expedientes documentales respecto a las operaciones de enajenación de carteras de crédito que realice el Instituto, en coordinación con las unidades administrativas competentes, y
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+IX. Integrar la memoria circunstanciada y de los expedientes documentales respecto a las operaciones de enajenación de carteras de crédito que realice el Instituto, en coordinación con las unidades administrativas competentes, y
 
 X. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomiende el titular de la Secretaría Adjunta de Recuperación de Activos.
 
@@ -993,7 +1003,17 @@ IV. Supervisar a los terceros especializados contratados por el Instituto para l
 
 V. Evaluar los resultados de los terceros especializados, contratados para llevar a cabo las auditorías que el Instituto ordene para vigilar la administración, cobranza, enajenación y recuperación de los Bienes realizada por las Instituciones y por los terceros especializados;
 
-VI. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomiende el titular de la Secretaría Adjunta de Recuperación de Activos.
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+VI. Emitir los lineamientos, coordinar la integración y resguardar los expedientes documentales de cada una de las operaciones de administración, apoyo financiero, liquidación de las obligaciones garantizadas; así como de las correspondientes a administración y enajenación de Bienes que realice el Instituto en coordinación con las unidades administrativas ejecutoras;
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+VII. Emitir los lineamientos y evaluar la integración de los informes de las operaciones del Instituto solicitados por el Congreso de la Unión y por el Ejecutivo Federal, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+VIII. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomiende el titular de la Secretaría Adjunta de Recuperación de Activos.
 
 ###### ARTICULO 38.
 
@@ -1099,7 +1119,7 @@ IV. Revisar la documentación e información que el Ejecutivo Federal, el Congre
 
 V. Participar en los proyectos de actualización del Estatuto Orgánico del Instituto, así como en la revisión legal de reglamentos y demás disposiciones administrativas en coordinación con las unidades administrativas competentes;
 
-VI. Participar en la implementación de reglas y procedimientos en apego a la normatividad aplicable en coordinación con la Dirección General de Normatividad y Evaluación;
+VI. (DEROGADA, D.O.F. 22 DE DICIEMBRE DE 2004)
 
 VII. Coadyuvar en la asesoría jurídica relacionada con la participación del Instituto en asociaciones internacionales sobre el seguro de depósito;
 
@@ -1111,7 +1131,13 @@ X. Certificar los documentos y las firmas de los servidores públicos relacionad
 
 XI. Elaborar contratos y convenios administrativos que le correspondan en el ámbito de su competencia, y
 
-XII. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomiende la Junta de Gobierno y sus comités y órganos delegados, el Secretario Ejecutivo y el titular de la Secretaría Adjunta Jurídica.
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+XII. Compilar, difundir y llevar un registro de las disposiciones que integran el marco normativo aplicable al Instituto, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+XIII. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomiende la Junta de Gobierno y sus comités y órganos delegados, el Secretario Ejecutivo y el titular de la Secretaría Adjunta Jurídica.
 
 ###### ARTICULO 42.
 
@@ -1151,9 +1177,9 @@ XVI. Emitir y aplicar los lineamientos y las normas para regular y realizar la a
 
 XVII. Coordinar la integración de los formatos y datos que requiera la Secretaría de Hacienda y Crédito Público, para el Sistema Integral de Información;
 
-> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
 
-XVIII. Coordinar y controlar la elaboración y actualización del Estatuto Orgánico, manuales de organización, de procedimientos y demás disposiciones administrativas competencia del Instituto;
+XVIII. Coordinar y controlar la elaboración y actualización del Estatuto Orgánico, manuales de organización, de procedimientos, guías técnicas y demás disposiciones administrativas competencia del Instituto;
 
 XIX. Controlar, proponer y actualizar las estructuras orgánicas del Instituto, vigilar que sus unidades administrativas se ajusten a las mismas y registrar sus modificaciones aprobadas ante las dependencias rectoras en la materia;
 
@@ -1163,9 +1189,21 @@ XXI. Establecer las normas y guías técnicas para el desarrollo de trabajos de 
 
 XXII. Integrar y desarrollar los programas y acciones institucionales en materia de modernización, innovación, transparencia, simplificación y productividad que establezcan las autoridades correspondientes;
 
-XXIII. Fungir como enlace del Instituto con los auditores externos que designe la Secretaría de Contraloría y Desarrollo Administrativo, y
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
 
-XXIV. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomiende el titular de la Secretaría Adjunta de Administración, Presupuesto y Sistemas.
+XXIII. Fungir como enlace del Instituto con los auditores externos que designe la Secretaría de la Función Pública;
+
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+XXIV. Diseñar y establecer los lineamientos generales para la elaboración y seguimiento del Sistema de Planeación y Evaluación del Instituto, del Programa Institucional y los programas que de él se deriven para el corto, mediano y largo plazos, conforme a las directrices que emitan las autoridades competentes;
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+XXV. Cooperar en la instrumentación, seguimiento evaluación de los acuerdos emanados por los diferentes comités del Instituto y con las unidades administrativas responsables de su aplicación, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+XXVI. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomiende el titular de la Secretaría Adjunta de Administración, Presupuesto y Sistemas.
 
 ###### ARTICULO 43.
 
@@ -1216,3 +1254,9 @@ D.O.F. 2 DE ABRIL DE 2004.
 PRIMERO.- Las presentes disposiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se abrogan las disposiciones contrarias a las presentes, contenidas en el Estatuto Orgánico del Instituto para la Protección al Ahorro Bancario, publicado el 14 de junio de 2002 en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE DICIEMBRE DE 2004.
+
+PRIMERO.- Las presentes disposiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abrogan las disposiciones contrarias a las presentes, contenidas en el Estatuto Orgánico del Instituto para la Protección al Ahorro Bancario, publicado el 14 de junio de 2002 en el Diario Oficial de la Federación, así como sus reformas publicadas el 2 de abril de 2004 en el Diario Oficial de la Federación.
