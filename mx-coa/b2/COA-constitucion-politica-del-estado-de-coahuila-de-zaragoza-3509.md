@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1929-08-21"
+last_updated: "1936-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 1929.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIOÓDICO OFICIAL: 10 DE JUNIO DE 1936.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -548,7 +548,11 @@ XXXI. Visitar por medio de su comisión de Hacienda, la Tesorería General del E
 
 XXXII. Crear o suprimir los empleos públicos del Estado, y aumentar o disminuir los emolumentos respectivos.
 
-XXXIII. Decretar anualmente los gastos públicos y las contribuciones con que hayan de ser cubiertos, en vista de los presupuestos que presente el ejecutivo. Aprobar los planes de arbitrios que deberán enviar los ayuntamientos, haciéndoles las modificaciones que estime convenientes.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1936)</small>
+
+XXXIII. Decretar anualmente los gastos públicos y las contribuciones con que hayan de ser cubiertos en vista de los presupuestos que presente el Ejecutivo. Aprobar los Planes de Arbitrios que deberán enviar los Ayuntamientos, haciéndoles las modificaciones que estime convenientes. En ningún caso autorizará la Legislatura la celebración de convenios o contratos sobre pago de impuestos, rigiéndose éstos por las normas de aplicación general.
+
+Las contribuciones sobre la Industria Metalúrgica, fabril o manufacturera, no se decretarán anualmente, sujetándose a lo dispuesto en el artículo 101.
 
 XXXIV. Revisar cada año las cuentas de cobro e inversión de los caudales públicos del Estado, previo examen y glosa de la Diputación Permanente; la falta de este requisito no será un obstáculo para la revisión.
 
@@ -624,7 +628,7 @@ Del Poder Ejecutivo.
 
 Facultades y obligaciones del Gobernador del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1927)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 1936)</small>
 
 ###### Artículo 75.
 
@@ -674,7 +678,7 @@ Del Despacho de Gobierno.
 
 ###### Artículo 82.
 
-Son facultades del C. Gobernador:
+Son facultades del Gobernador:
 
 I. Iniciar leyes o decretos ante el Congreso del Estado.
 
@@ -684,7 +688,9 @@ III. Celebrar convenios con los Gobernadores de los Estados limítrofes para la 
 
 IV. Nombrar y remover libremente al Procurador General de Justicia del Estado y a los Agentes del Ministerio Público.
 
-V. Celebrar, con su carácter de representante del Estado, los contratos y convenios de intereses público en los diversos ramos de la Administración.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1936)</small>
+
+V. Celebrar con su carácter de representante del Estado, los convenios y contratos administrativos en los diversos ramos de la administración, sin que bajo esta denominación se comprenda la facultad de celebrar contratos sobre pago de impuestos ni acto alguno que tenga por efecto limitar la soberanía del Estado.
 
 > <small>(REFORMADA, P.O. 5 DE MAYO DE 1926)</small>
 
@@ -858,9 +864,13 @@ Solamente el Congreso, o la Diputación Permanente, cuando haya sido autorizada 
 
 El producto de las contribuciones y bienes del Estado, se invertirá únicamente en los gastos que demande su administración y en obras y mejoras de utilidad pública.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1936)</small>
+
 ###### Artículo 97.
 
-El Congreso, cada año, decretará con oportunidad las contribuciones suficientes para cubrir el Presupuesto del año fiscal siguiente.
+El Congreso, cada año, decretará con oportunidad las contribuciones suficientes para cubrir el presupuesto del año fiscal siguiente, con las modalidades contenidas en la fracción XXXIII del artículo 67, y en el artículo 101 de esta Constitución.
+
+Se exceptúan las contribuciones sobre la industria metalúrgica, fabril o manufacturera, que se regirán por lo dispuesto en el artículo 101.
 
 ###### Artículo 98.
 
@@ -884,9 +894,17 @@ IV. Pedir al Gobernador el castigo o remoción de los empleados subalternos del 
 
 V. Presentar diariamente al Ejecutivo un estado general de Caja, autorizado por el Contador, que manifieste el movimiento diario de caudales.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1936)</small>
+
 ###### Artículo 101.
 
-El Tesorero General puede proponer al Ejecutivo, los proyectos que crea pertinentes para el mejoramiento de la Hacienda Pública del Estado.
+En observancia de lo preceptuado por el artículo 28 de la Constitución Federal, se declaran sin efecto alguno las concesiones o franquicias por impuestos otorgados por el Congreso del Estado o por el Ejecutivo del mismo.
+
+Todas las industrias fabriles o manufactureras establecidas o que se establezcan en el Estado, pagarán como único impuesto el dos y medio al millar anual sobre el valor de sus fábricas, incluyendo la maquinaria, y el de dos y medio al millar anual sobre el valor de la producción, sin ninguno de los impuestos adicionales que decreten las Leyes del Estado. Este impuesto se dividirá por mitad entre el Fisco del Estado y el Municipio en que las negociaciones tengan sus fábricas.
+
+Las Plantas de beneficio metalúrgico incluyendo las de coke, pagarán como único impuesto al Estado, el cinco al millar anual sobre el valor de la planta.
+
+Las leyes secundarias reglamentarán la forma de hacer efectivos estos impuestos, sin que pueda alterarse su tipo.
 
 ###### Artículo 102.
 
@@ -1599,3 +1617,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 21 DE AGOSTO DE 1929.
 
 UNICO.- El presente decreto entrará en vigor desde el día quince de noviembre del año en curso.
+
+P.O. 10 DE JUNIO DE 1936.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
