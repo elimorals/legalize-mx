@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-comision-de-agua-potable-y-38292"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-09"
-last_updated: "2004-03-09"
+last_updated: "2005-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38292&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO INTERIOR COMISION DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2005.
 
 Reglamento publicado en Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 9 de marzo de 2004.
 
@@ -107,9 +107,13 @@ VI. Reglamento: El Reglamento Interior de la Comisión de Agua Potable y Alcanta
 
 VII. Organismos operadores: Los organismos operadores que proporcionan los servicios públicos de agua y saneamiento en cada Municipio;
 
-VIII. Servicios públicos de agua y saneamiento: Los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento de aguas residuales y reuso de las mismas, y
+VIII. Servicios públicos de agua y saneamiento: Los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento de aguas residuales y reuso de las mismas, y (sic)
 
-IX. Unidades administrativas: Las coordinaciones, unidades y delegaciones a que se refiere este Reglamento.
+IX. Unidades administrativas: Las coordinaciones, unidades y delegaciones a que se refiere este Reglamento;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+X. Ley de Transparencia: Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo.
 
 ###### Artículo 3.
 
@@ -181,9 +185,11 @@ Los cargos en el Consejo Directivo serán de carácter honorífico, por lo que s
 
 El Consejo Directivo contará, en apoyo de sus atribuciones, con un Secretario Técnico que será el titular de la Secretaría Técnica adscrita a la Dirección General.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE ENERO DE 2005)</small>
+
 ###### Artículo 9.
 
-El Consejo Directivo contará, además de las atribuciones conferidas en el artículo 26 de la Ley, con las siguientes:
+El Consejo Directivo contará, además de las facultades conferidas en el artículo 26 de la Ley, con las Siguientes:
 
 I. Autorizar la programación estratégica de la Comisión y supervisar el desarrollo y control de su gestión administrativa;
 
@@ -201,9 +207,27 @@ VII. Establecer comisiones de estudio y mesas técnicas, con carácter de perman
 
 VIII. Establecer los criterios de interpretación de la Ley, de este Reglamento, así como de los demás instrumentos jurídicos en que participe la Comisión, salvo disposición en contrario;
 
-IX. Considerar las recomendaciones que realice el Consejo Técnico Consultivo, y
+IX. Considerar las recomendaciones que realice el Consejo Técnico Consultivo, y (sic)
 
-X. Las demás atribuciones que le confieran la Ley y otras disposiciones aplicables, así como las que en materia de agua le sean transferidas por la Federación al Gobierno del Estado, en los términos de la normatividad y convenios aplicables.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2005)</small>
+
+X. Observar los principios de transparencia y publicidad en sus actos y respetar el derecho al libre acceso a la información pública, a toda persona que lo solicite, en los términos que establece la normatividad en la materia;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XI. Clasificar en forma obligada la información pública bajo su cargo, en los términos del Artículo 23 de la Ley de Transparencia y Acceso a la Información pública del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XII. Resolver las dudas que se susciten con motivo de la interpretación y aplicación de este Reglamento, así como los casos no previstos en el mismo;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XIII. .Atender las solicitudes de información requerida por la Unidad de Participación y Comunicación Social, en los tiempos y términos que marca el Título Primero, Capítulos Segundo y Tercero y Título Segundo, Capítulos Primero y Tercero de la Ley de Transparencia; a fin de dar atención a Solicitudes de Acceso a la Información y/o de corrección de datos personales realizadas a la Comisión de Agua Potable y Alcantarillado por los interesados, a través de la Unidad de Vinculación; así como la información complementaria necesaria en términos de la citada ley, y
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XIV. Las demás facultades que les sean otorgadas por otras disposiciones legales, así como por el Director General.
 
 ###### Artículo 10.
 
@@ -365,9 +389,27 @@ XXVI. Autorizar estímulos especiales y compensaciones económicas extraordinari
 
 XXVII. Resolver los recursos administrativos sobre inconformidades derivadas de la aplicación de la Ley, según proceda;
 
-XXVIII. Informar al Consejo Directivo cuando deba ausentarse por más de 30 días naturales, y
+XXVIII. Informar al Consejo Directivo cuando deba ausentarse por más de 30 días naturales, y (sic)
 
-XXIX. Las demás atribuciones que le confieran la Ley y otros ordenamientos legales y reglamentarios aplicables a la materia, así como las que legalmente le sean transferidas por la Federación al Gobierno del Estado.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXIX. Observar los principios de transparencia y publicidad en sus actos y respetar el derecho al libre acceso a la información pública, a toda persona que lo solicite, en los términos que establece la normatividad en la materia;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXX. Designar de entre sus servidores públicos al Titular de la Unidad de Vinculación, la cual será responsable de la atención de las solicitudes de información que formulen las personas;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXXI. Clasificar en pública, reservada o confidencial la información a su cargo, en los términos del Artículo 23 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXXII. Atender las solicitudes de información requerida por la Unidad de Participación y Comunicación Social, en los tiempos y términos que marca el Título Primero, Capítulos Segundo y Tercero y Título Segundo, Capítulos Primero y Tercero de la Ley de Transparencia; a fin de dar atención a Solicitudes de Acceso a la Información y/o de corrección de datos personales realizadas a la Comisión de Agua Potable y Alcantarillado por los interesados, a través de la Unidad de Vinculación; así como la información complementaria necesaria en términos de la citada ley, y
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXXIII. Las demás facultades que les sean otorgadas por otras disposiciones legales, así como por el Director General.
 
 ###### Artículo 22.
 
@@ -411,7 +453,7 @@ V. Integrar y consolidar la documentación que se requiera para que el Director 
 
 VI. Dar seguimiento, en apoyo al Director General, a la ejecución de los acuerdos y decisiones del Consejo Directivo;
 
-VII. Proponer al Director General mecanismos para el funcionamiento del Consejo Técnico Consultivo, y dar seguimiento a los estudios, propuestas, recomendaciones y opiniones que dicho órgano emita.
+VII. Proponer al Director General mecanismos para el funcionamiento del Consejo Técnico Consultivo, y dar seguimiento a los estudios, propuestas, recomendaciones y opiniones que dicho órgano emita;
 
 VIII. Proponer a los gerentes, los mecanismos para el funcionamiento de las Juntas Directivas de cada Organismo Operador, y darle seguimiento a sus actividades, con el propósito de hacerlos del conocimiento de la Dirección General;
 
@@ -437,9 +479,15 @@ XVIII. Participar en la organización de eventos públicos o privados en que int
 
 XIX. Coordinar la participación de la Comisión y del Director General en el seno de la Asociación Nacional de Empresas de Agua, ANEAS;
 
-XX. Mantener la vinculación institucional con las instancias públicas y privadas relacionadas con el estudio, administración, regulación y operación de los servicios de agua potable, alcantarillado y saneamiento, y
+XX. Mantener la vinculación institucional con las instancias públicas y privadas relacionadas con el estudio, administración, regulación y operación de los servicios de agua potable, alcantarillado y saneamiento, y (sic)
 
-XXI. Las demás que le encomiende la Dirección General.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXI. Atender las solicitudes de información requerida por la Unidad de Participación y Comunicación Social, en los tiempos y términos que marca el Título Primero, Capítulos Segundo y Tercero y Título Segundo, Capítulos Primero y Tercero de la Ley de Transparencia; a fin de dar atención a Solicitudes de Acceso a la Información y/o de corrección de datos personales realizadas a la Comisión de Agua Potable y Alcantarillado por los interesados, a través de la Unidad de Vinculación; así como la información complementaria necesaria en términos de la citada ley, y
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXII. Las demás facultades que les sean otorgadas por otras disposiciones legales, así como por el Director General.
 
 ### CAPÍTULO III. DE LOS ORGANISMOS OPERADORES
 
@@ -505,7 +553,35 @@ XXIV. Someter a la consideración del Director General los estudios, proyectos y
 
 XXV. Atender, en el ámbito de su competencia, todas aquellas disposiciones que emita el Consejo Directivo, por conducto del Director General;
 
-XXVI. Las demás que le confiera la Ley, el Reglamento o que le encomiende la Dirección General.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXVI. Designar de entre sus servidores públicos al encargado de Enlace de Transparencia, el cual será responsable de coordinar sus acciones con la Unidad de Participación Social en lo correspondiente a lo dispuesto por el artículo 37 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo.
+
+La información que la unidad de Enlace de Transparencia envié a la Unidad de Participación Social será proporcionada en el estado en que se encuentre en el Organismo Operador;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXVII. Conservar la información pública que produzcan, administren, manejen, archiven o conserven; siendo responsables de la transparencia de la información conforme a lo establecido en la Ley de la materia.
+
+La pérdida, destrucción, alteración u ocultamiento de la información pública y de los documentos en que se contenga, serán responsabilidad de los servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo y demás ordenamientos relativos;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXVIII. Clasificar en forma obligada la información pública bajo su cargo, en los términos del Artículo 23 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo.
+
+Toda la información en poder de los organismos operadores estará a disposición de las personas; salvo aquella que se considere como reservada o confidencial de conformidad con la citada Ley;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXIX. Observarlos principios de transparencia y publicidad en sus actos y respetar el derecho al libre acceso a la información pública, a toda persona que lo solicite, en los términos que establece la normatividad en la materia y el presente Reglamento Interior;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXX. Atender las solicitudes de información requerida por la Unidad de Participación y Comunicación Social, en los tiempos y términos que marca el Título Primero, Capítulos Segundo y Tercero y Titulo Segundo, Capítulos Primero y Tercero de la Ley de Transparencia; a fin de dar atención a Solicitudes de Acceso a la Información y/o de corrección de datos personales realizadas a la Comisión de Agua Potable y Alcantarillado por los interesados, a través de la Unidad de Vinculación; así como la información complementaria necesaria en términos de la citada ley, y
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXXI. Las demás facultades que les sean otorgadas por otras disposiciones legales, así como por el Director General.
 
 ###### Artículo 29.
 
@@ -541,6 +617,10 @@ Los servidores públicos que integren el Órgano de Control y Evaluación Intern
 
 Al frente de cada unidad administrativa habrá un Titular, quien será responsable del correcto funcionamiento de la misma, para lo cual estará auxiliado por directores y subdirectores de área, jefes de departamento y demás servidores públicos, según las necesidades del servicio y la capacidad presupuestal.
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2005)</small>
+
+Mismas unidades que deberán observar los principios de transparencia y publicidad en sus actos y respetar el derecho al libre acceso a la información pública, a toda persona que lo solicite, en los términos que establece la normatividad en la materia y el presente Reglamento Interior.
+
 ###### Artículo 35.
 
 Corresponde a los titulares de las unidades administrativas:
@@ -573,9 +653,29 @@ XIII. Coordinarse con los titulares de las demás unidades administrativas de la
 
 XIV. Asesorar y apoyar técnicamente, en asuntos de su competencia, a los usuarios de los servicios que presta la Comisión;
 
-XV. Rendir periódicamente y por escrito, el informe de las actividades realizadas por la unidad a su cargo, así como los que le sean requeridos eventualmente, y
+XV. Rendir periódicamente y por escrito, el informe de las actividades realizadas por la unidad a su cargo, así como los que le sean requeridos eventualmente, y (sic)
 
-XVI. Las demás que le confieran las disposiciones legales y administrativas aplicables y aquéllas que le encomiende el Director General.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XVI. Conservar la información pública que produzcan, administren, manejen, archiven o conserven; siendo responsables de la transparencia de la información conforme a lo establecido en la Ley de la materia.
+
+La pérdida, destrucción, alteración u ocultamiento de la información pública y de los documentos en que se contenga, serán responsabilidad de los servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo y demás ordenamientos relativos;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XVII. Clasificar en forma obligada la información pública bajo su cargo, en los términos del Artículo 23 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo.
+
+Toda la información en poder de los titulares de las unidades administrativas, organismos operadores y delegaciones estará a disposición de las personas, salvo aquella que se considere como reservada o confidencial de conformidad con la citada Ley.
+
+La información que el titular de la unidad administrativa envié a la Unidad de Participación Social será proporcionada en el estado en que se encuentre;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XVIII. Atender las solicitudes de información requerida por la Unidad de Participación y Comunicación Social, en los tiempos y términos que marca el Título Primero, Capítulos Segundo y Tercero y Título Segundo, Capítulos Primero y Tercero de la Ley de Transparencia; a fin de dar atención a Solicitudes de Acceso a la Información y/o de corrección de datos personales realizadas a la Comisión de Agua Potable y Alcantarillado por los interesados, a través de la Unidad de Vinculación; así como la información complementaria necesaria en términos de la citada ley, y
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XIX. Las demás facultades que les sean otorgadas por otras disposiciones legales, así como por el Director General.
 
 ###### Artículo 36.
 
@@ -623,13 +723,73 @@ XX. Autorizar los convenios y contratos en que la Comisión sea parte y se afect
 
 XXI. Presidir los comités de: Adquisiciones, Arrendamientos y Servicios Relacionados con Bienes muebles; el de Obra Pública y Servicios Relacionados; el de Baja y Destino Final de Bienes Muebles, y el del Servicio Civil de Carrera;
 
-XXII. Coadyuvar en la elaboración y evaluación de los Indicadores Institucionales propios e instrumentar los cambios necesarios, ante la Coordinación de Planeación, y
+XXII. Coadyuvar en la elaboración y evaluación de los Indicadores Institucionales propios e instrumentar los cambios necesarios, ante la Coordinación de Planeación, y (sic)
 
-XXIII. Las demás que establezcan la Ley, este Reglamento o le encomiende el Director General.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXIII. Proporcionar a la brevedad posible a la Unidad de Participación Social la información relativa a:
+
+a. Concesiones, permisos o autorizaciones a particulares, la información deberá rendirse precisando:
+
+i. Nombre o razón social del titular;
+
+ii. Concepto de la concesión, autorización o permiso; y
+
+iii. Vigencia.
+
+b. Tratándose de obra pública que ejecute la Comisión, por administración directa, la información a rendir deberá precisar:
+
+i. El desglose del monto total por concepto de lo ejercido en la misma;
+
+ii. El lugar;
+
+iii. El plazo de ejecución;
+
+iv. La identificación del órgano público ordenador o responsable de la obra; y
+
+v. Mecanismos de vigilancia y/o supervisión de la sociedad civil.
+
+c. Las leyes, reglamentos; decretos administrativos, circulares, manuales de organización y demás normas que les resulten aplicables;
+
+d. Su estructura orgánica y las atribuciones por Unidad Administrativa y la normatividad que las rige;
+
+e. El directorio de servidores públicos, desde el nivel de jefe de departamento o sus equivalentes hasta el nivel del funcionario de mayor jerarquía, incluyendo su domicilio postal, dirección electrónica y teléfonos;
+
+f. La remuneración mensual por puesto, incluyendo el sistema de compensación; el sistema de premios, estímulos y recompensas; los gastos de representación, costo de viajes, viáticos y otro tipo de gastos realizados por los servidores públicos en ejercicio o con motivo de sus funciones;
+
+g. El domicilio, número telefónico y la dirección electrónica de la Unidad de Participación Social donde podrán recibirse las solicitudes para obtener la información pública;
+
+h. El monto del presupuesto asignado, así como los informes sobre su ejecución.
+
+i. Los destinatarios y el uso autorizado de toda entrega de recursos públicos, cualquiera que sea su destino, así como los informes que dichas personas deben entregar sobre el uso y destino de éstos;
+
+j. Las enajenaciones de bienes que realicen por cualquier título o acto, indicando los motivos, beneficiarios o adquirentes y los montos de las operaciones;
+
+k. Las contrataciones, licitaciones y los procesos de toda adquisición de bienes o servicios;
+
+l. Los resultados finales de las auditorias que se practiquen en la Comisión de Agua Potable y Alcantarillado del Estado de Quintana Roo;
+
+m. Las reglas para otorgar concesiones, licencias, permisos o autorizaciones;
+
+n. El padrón de bienes muebles e inmuebles;
+
+o. Los contratos de obra pública, su monto, fecha de convocatoria y licitación, y a quien le fueron asignados, independientemente de si se trata de licitación o invitación restringida de acuerdo a la ley de la materia;
+
+p. Los informes o equivalentes que por disposición legal generen la Comisión, incluyendo los documentos en que consten las cuentas públicas, empréstitos y deudas contraídas;
+
+q. Los balances generales y el estado financiero, respetando la autonomía de los Sujetos Obligados;
+
+r. El origen y monto de los ingresos mensuales de los fondos auxiliares especiales que tuviesen o llegasen a tener la Comisión, así como la aplicación de los mismos; y
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXIV. Las demás facultades que les sean otorgadas por otras disposiciones legales, así como por el Director General.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE ENERO DE 2005)</small>
 
 ###### Artículo 37.
 
-Al frente de la Coordinación de Construcción estará un Coordinador que tendrá las siguientes atribuciones:
+Al frente de la Coordinación de Construcción estará un Coordinador que tendrá las siguientes facultades:
 
 I. Definir las políticas, normas técnicas y demás acciones estratégicas para la construcción de las obras;
 
@@ -661,13 +821,47 @@ XIV. Coordinarse con las áreas correspondientes de los gobiernos Federal y Esta
 
 XV. Coordinar, conjuntamente con los Organismos Operadores, los trabajos de construcción de obra, en caso de contingencias ambientales;
 
-XVI. Autorizar el finiquito y entrega de las obras, y
+XVI. Autorizar el finiquito y entrega de las obras, y (sic)
 
-XVII. Las demás que le confieran las disposiciones legales y administrativas aplicables, y aquéllas que le encomiende el Director General.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XVII. Proporcionar a la brevedad posible a la Unidad de Participación Social la información relativa a:
+
+a. Tratándose de obra pública que ejecute la Comisión, por administración directa, la información que deberá remitir deberá precisar:
+
+i. El desglose del monto total por concepto de lo ejercido en la misma;
+
+ii. El lugar;
+
+iii. El plazo de ejecución;
+
+iv. La identificación del órgano público ordenador o responsable de la obra; y
+
+v. Mecanismos de vigilancia y/o supervisión de la sociedad civil.
+
+b. El monto del presupuesto asignado, así como los informes sobre su ejecución.
+
+c. Los destinatarios y e/uso autorizado de toda entrega de recursos públicos, cualquiera que sea su destino, así como los informes que dichas personas deben entregar sobre el uso y destino de éstos;
+
+d. Las enajenaciones de bienes que realicen por cualquier título o acto, indicando los motivos, beneficiarios o adquirentes y los montos de las operaciones;
+
+e. Las contrataciones, licitaciones y los procesos de toda adquisición de bienes o servicios;
+
+f. Los contratos de obra pública, su monto, fecha de convocatoria y licitación, y a quien le fueron asignados, independientemente de si se trata de licitación o invitación restringida de acuerdo a la ley de la materia;
+
+g. Los informes o, equivalentes que por disposición legal generen la Comisión, incluyendo los documentos en que consten las cuentas públicas, empréstitos y deudas contraídas;
+
+h. El origen y monto de los ingresos mensuales de los fondos auxiliares especiales que tuviesen o llegasen a tener la Comisión, así como la aplicación de los mismos; y
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XVIII. Las demás facultades que les sean otorgadas por otras disposiciones legales, así como por el Director General.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE ENERO DE 2005)</small>
 
 ###### Artículo 38.
 
-Al frente de la Coordinación de Planeación estará un Coordinador, que tendrá las siguientes atribuciones:
+Al frente de la Coordinación de Planeación estará un Coordinador, que tendrá las siguientes facultades:
 
 I. Establecer el orden de prioridad de las acciones y obras, a fin de que los recursos se orienten hacia aquellas que tengan mayor impacto económico y beneficio social;
 
@@ -687,13 +881,29 @@ VIII. Elaborar y actualizar los Indicadores Institucionales de la Comisión, as�
 
 IX. Evaluar los resultados y beneficios de las obras realizadas, contrastándolos con las proyecciones originales;
 
-X. Integrar los expedientes para la gestión de recursos de créditos externos, y
+X. Integrar los expedientes para la gestión de recursos de créditos externos, y (sic)
 
-XI. Las demás que le confieran las disposiciones legales y administrativas aplicables y aquéllas que le encomiende el Director General.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XI. Proporcionar a la brevedad posible a la Unidad de Participación Social la información relativa a:
+
+a. Las metas y objetivos de sus programas, así como los montos asignados y criterios de acceso a los programas de subsidio;
+
+b. El monto del presupuesto asignado, así como los informes sobre su ejecución. Además informará sobre la situación financiera de la Comisión y su deuda pública;
+
+c. Los informes o equivalentes que por disposición legal generen los Sujetos Obligados, incluyendo los documentos en que consten las cuentas públicas, empréstitos y deudas contraídas;
+
+d. Los destinatarios y el uso autorizado de toda entrega de recursos públicos, cualquiera que sea su destino, así como los informes que dichas personas deben entregar sobre el uso y destino de éstos;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XII. Las demás facultades que les sean otorgadas por otras disposiciones legales, así como por el Director General.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE ENERO DE 2005)</small>
 
 ###### Artículo 39.
 
-Al frente de la Unidad de Productividad y Calidad estará un Director que tendrá las siguientes atribuciones:
+Al frente de la Unidad de Productividad y Calidad estará un Director que tendrá las siguientes facultades:
 
 I. Formular el Programa de Productividad y Calidad de la Comisión, someterlo a la autorización del Director General, e implantarlo;
 
@@ -719,11 +929,15 @@ XI. Dar seguimiento y apoyo técnico a los equipos de mejora continua y círculo
 
 XII. Dar seguimiento y atención a las auditorías internas de productividad y calidad, y
 
-XIII. Las demás que le confieran las disposiciones legales y administrativas aplicables y aquéllas que le encomiende el Director General.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE ENERO DE 2005)</small>
+
+XIII. Las demás facultades que les sean otorgadas por otras disposiciones legales, así como por el Director General.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE ENERO DE 2005)</small>
 
 ###### Artículo 40.
 
-Al frente de la Dirección de Recuperación de Adeudos y Ejecución Fiscal estará un Director que tendrá las siguientes atribuciones:
+Al frente de la Dirección de Recuperación de Unidad de Productividad y Calidad de la Comisión estará un Director que tendrá las siguientes facultades:
 
 I. Requerir y ejecutar los adeudos de los usuarios morosos y las multas impuestas por infracciones a la Ley, mediante el procedimiento administrativo de ejecución, y acordar convenios de actualización de pago, en los términos autorizados;
 
@@ -741,7 +955,9 @@ VII. Implementar el Programa de Apoyo a Deudores Fiscales, gestionando lo conduc
 
 VIII. Conciliar, sistemáticamente, con la Coordinación Administrativa y Financiera el cierre mensual de los casos vigentes de la cartera vencida, así como su depuración, y
 
-IX. Las demás que le resulten de la Ley, este Reglamento o que le confiera el Director General.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2005)</small>
+
+IX. Las demás facultades que les sean otorgadas por otras disposiciones legales, así como por el Director General.
 
 ###### Artículo 41.
 
@@ -775,9 +991,31 @@ XIII. Tramitar y expedir copias certificadas de los documentos y constancias que
 
 XIV. Revisar que los procedimientos de adquisiciones, arrendamientos, enajenaciones, prestación de servicios y adjudicación de obra pública que realice la Comisión, cumplan con los requisitos estipulados en la legislación correspondiente;
 
-XV. Apoyar a las áreas correspondientes en los procesos de licitación pública, de conformidad con las disposiciones jurídicas de la materia, y
+XV. Apoyar a las áreas correspondientes en los procesos de licitación pública, de conformidad con las disposiciones jurídicas de la materia, y (sic)
 
-XVI. Las demás que le resulten de la Ley, este Reglamento o que le confiera el Director General.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XVI. Auxiliar a la Unidad de Participación Social, en el desahogo de los recursos de revisión que se interpongan en contra de las resoluciones que se dicten en materia de acceso a la información pública y fungir como Representante Legal ante el Instituto de Transparencia y Acceso a la Información Pública del Estado de Quintana Reo;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XVII. Auxiliar a la Unidad de Participación Social en la interposición ante el Instituto de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo los medios impugnativos correspondientes previstos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XVIII. Auxiliar a la Unidad de Participación en la interposición de los medios impugnativos correspondientes en contra de las resoluciones que dicte la Junta de Gobierno del Instituto de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XIX. Asesorar a la Unidad de Participación en la clasificación de la información a propuesta de los Titulares de las unidades administrativas de la Comisión, conforme a las disposiciones vigentes;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XX. Expedir copias certificadas de los documentos y constancias que obren en los archivos de la Comisión;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXI. Las demás facultades que les sean otorgadas por otras disposiciones legales, así como por el Director General.
 
 ###### Artículo 42.
 
@@ -839,9 +1077,15 @@ X. Instalar software autorizados; llevar su control, y verificar que cuenten con
 
 XI. Elaborar, divulgar y actualizar las normas y políticas para el desarrollo de la actividad informática, vigilando que se cumplan las normas mínimas de calidad técnica en la materia;
 
-XII. Previo acuerdo con la Dirección General, gestionar la celebración de convenios con las dependencias y entidades federales, estatales y municipales, con los sectores social y privado y con otras entidades federativas, a fin de instrumentar programas del área de su competencia, y
+XII. Previo acuerdo con la Dirección General, gestionar la celebración de convenios con las dependencias y entidades federales, estatales y municipales, con los sectores social y privado y con otras entidades federativas, a fin de instrumentar programas del área de su competencia, y (sic)
 
-XIII. Las demás que le resulten de la Ley, este Reglamento o que le confiera el Director General.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XIII. Ejecutar en coordinación con la Unidad de Participación Social la implementación, mantenimiento y actualización de una página Web en el Internet, donde se pondrá a disposición del público la información pública prevista en los artículos 15, 16 y 17 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XIV. Las demás facultades que les sean otorgadas por otras disposiciones legales, así como por el Director General.
 
 ###### Artículo 44.
 
@@ -885,9 +1129,115 @@ XVIII. Diseñar y aplicar encuestas y sondeos de opinión que orienten las accio
 
 XIX. Evaluar los resultados de programas y campañas de participación y comunicación social;
 
-XX. Integrar, publicar y distribuir el informe y memoria anual de la Comisión, y el órgano oficial de difusión, y
+XX. Integrar, publicar y distribuir el informe y memoria anual de la Comisión, y el órgano oficial de difusión, y (sic)
 
-XXI. Las demás que le resulten de la Ley, este Reglamento o que le confiera el Director General.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXI. Representar legalmente al Director General de la Comisión de Agua Potable y Alcantarillado del Estado de Quintana Roo ante el Instituto de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXII. Ejercer de manera directa las Atribuciones previstas en el artículo 37 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXIII. Conocer de los recursos de revisión que se interpongan en contra de las resoluciones que se dicten en materia de acceso a la información pública y fungir como Representante Legal ante el Instituto de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXIV. Interponer ante el Instituto de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo los medios impugnativos correspondientes previstos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXV. Interponer los medios impugnativos correspondientes en contra de las resoluciones que dicte la Junta de Gobierno del Instituto de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXVI. Promover y establecer la relación interinstitucional necesaria con el Instituto de Transparencia y Acceso a la 1.1formación· Pública del Estado de Quintana Roo, con la finalidad de dar cumplimiento a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXVII. Atender y dar seguimiento a las solicitudes de acceso a la información pública que reciba la Comisión;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXVIII. Llevar a cabo los análisis de información necesarios, a fin de ejecutar las medidas pertinentes para localizar información pública;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXIX. Aplicar los criterios específicos y necesarios para la correcta clasificación y conservación de los archivos y la pública;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXX. Establecer los mecanismos y realizar las gestiones necesarias para procurar el buen uso de la información pública;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXXI. Coordinar actividades con el Archivo General del Gobierno del Estado y el Instituto de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo, para establecer y mantener buenas prácticas de archivonomía;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXXII. Brindar asesoría y apoyo técnico en materia de transparencia y acceso a la información pública, a las unidades administrativas de la Comisión de Agua' Potable y Alcantarillado del Estado de Quintana Roo y a los solicitantes de información pública;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXXIII. Proporcionar o negar la información pública solicitada por parte de la ciudadanía, en apego a lo establecido en las disposiciones normativas;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXXIV. Garantizar la protección de la información pública: a efecto de salvaguardar los archivos, registros y, en general, toda la información originalmente plasmada en papel y que obra en posesión de las unidades administrativas de la Comisión misma que deberá ser digitalizada;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXXV. Vigilar y coordinar actividades con las unidades administrativas de la Comisión de Agua Potable y Alcantarillado del Estado de Quintana Roo, para establecer el buen funcionamiento de actividades correspondientes a la transparencia y acceso a la información pública;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXXVI. Difundir al interior de la Comisión de Agua Potable y Alcantarillado del Estado de Quintana Roo la información inherente a las prácticas de transparencia y acceso a la información pública, que permita concientizar a Acceso a la Información Pública del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXXVII. Establecer al interior de la Comisión los lineamientos necesarios para el manejo y conservación de la información pública;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXXVIII. Coordinar actividades con la Unidad de Informática para llevar a cabo actividades que permitan la correcta difusión, manejo (disposición de la información pública, dentro del ámbito de sus competencias;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XXXIX. Generar los instrumentos necesarios para atender, orientar y asesorar a la ciudadanía en el ejercicio del derecho a la información pública;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XL. Emitir los informes necesarios dentro del ámbito de competencia de la Unidad;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XLI. Coordinar la operación del sistema de archivos de la Comisión, en apego a la normatividad establecida por la instancia correspondiente;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XLII. Clasificar a propuesta de los Titulares de las Unidades Administrativas de la Comisión, la información pública, conforme a las disposiciones vigentes;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XLIII. Fungir como Consejero ante el Consejo Técnico de Documentación del Sistema Quintanarroense de Documentación, conforme a las disposiciones vigentes;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XLIV. Fungir como Vocal ante la Comisión Dictaminadora de Valoración Histórica y Depuración Documental del Sistema Quintanarroense de Documentación, conforme a las disposiciones vigentes, y (sic)
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XLV. Para la Coordinación General de las acciones de la Transparencia y Acceso a la Información antes citadas, se establece la Unidad de Vinculación como staff adscrito a la Unidad de Participación y Comunicación Social, con las atribuciones contenidas en el Artículo 37 de la Ley de Transparencia y Acceso a la Información Pública de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XLVI. Para ocupar el cargo de titular de la Unidad de Vinculación se considerará la instrucción del Servicio Civil de Carrera en la Unidad de Vinculación de la Comisión, de conformidad con el Artículo 97 de la Ley de Transparencia;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XLVII. Las demás facultades que les sean otorgadas por otras disposiciones legales, así como por el Director General.
 
 ### CAPÍTULO III. DE LAS DELEGACIONES MUNICIPALES
 
@@ -921,9 +1271,33 @@ XII. Mantener actualizados los sistemas de información sobre el desarrollo de l
 
 XIII. Informar al Director General sobre los asuntos prioritarios de la Delegación;
 
-XIV. Proporcionar los informes periódicos solicitados por las Coordinaciones y Direcciones de la Comisión, y
+XIV. Proporcionar los informes periódicos solicitados por las Coordinaciones y Direcciones de la Comisión, y (sic)
 
-XIV. Las demás que le resulten de la Ley, del Título de Concesión o contrato respectivo, de este Reglamento o que le confiera el Director General.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XIV. Conservar la información pública que produzcan, administren, manejen, archiven o conserven; siendo responsables de la transparencia de la información conforme a lo establecido en la Ley de la materia.
+
+La pérdida, destrucción, alteración u ocultamiento de la información pública y de los documentos en que se contenga, serán responsabilidad de los servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo y demás ordenamientos relativos;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XV. Clasificar en forma obligatoria la información pública bajo su cargo, en los términos del Artículo 23 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo.
+
+Toda la información en poder de los titulares de las delegaciones estará a disposición de las personas, salvo aquella que se considere como reservada o confidencial de conformidad con la citada Ley.
+
+La información que el titular de la unidad administrativa envié a la Unidad de Participación Social será proporcionada en el estado en que se encuentre;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XVI. Designar de entre sus servidores públicos al encargado de Enlace de Transparencia, el cual será responsable de coordinar sus acciones con la Unidad de Participación Social en lo correspondiente a lo dispuesto por el artículo 37 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XVII. Atender las solicitudes de información requerida por la Unidad de Participación y Comunicación Social, en los tiempos y. términos que marca el Título Primero, Capítulos Segundo y Tercero y Título Segundo, Capítulos Primero y Tercero de la Ley de Transparencia; a fin de dar atención a Solicitudes de Acceso a la Información y/o de corrección de datos personales realizadas a la Comisión de Agua Potable y Alcantarillado por los interesados, a través de la Unidad de Vinculación; así como la información complementaria necesaria en términos de la citada ley, y
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2005)</small>
+
+XVIII. Las demás facultades que les sean otorgadas por otras disposiciones legales, así como por el Director General.
 
 ## TÍTULO CUARTO. DE LAS SUPLENCIAS
 
@@ -964,3 +1338,13 @@ LIC. JOAQUÍN ERNESTO HENDRICKS DÍAZ
 EL DIRECTOR GENERAL DE LA COMISIÓN DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE QUINTANA ROO
 
 ING. ANDRÉS RUIZ MORCILLO
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+P.O. 31 DE ENERO DE 2005.
+
+Artículo Primero: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+Artículo Segundo: Se derogan todas las disposiciones que se opongan al presente acuerdo de modificación del Reglamento Interior de la Comisión de Agua Potable y Alcantarillado del Estado de Quintana Roo.
+
+Artículo Tercero: Los asuntos que se encuentran en trámite en las unidades administrativas cuyas atribuciones se determinan, serán atendidos y resueltos en los términos de las competencias que establece el presente reglamento.
