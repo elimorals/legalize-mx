@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2001-08-14"
+last_updated: "2002-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE AGOSTO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JUNIO DE 2002.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -784,7 +784,7 @@ XX.- El Estado promoverá las condiciones para el desarrollo rural integral, con
 
 ###### Art. 28.
 
-En los Estados Unidos Mexicanos quedan prohibidos los monopolios, la (sic) prácticas (sic) monopólicas, los estancos y las exenciones de impuestos en los términos y condiciones que fijan las leyes. El mismo tratamiento se dará a ls (sic) prohibiciones a título de protección a la industria.
+En los Estados Unidos Mexicanos quedan prohibidos los monopolios, la (sic) prácticas monopólicas, los estancos y las exenciones de impuestos en los términos y condiciones que fijan las leyes. El mismo tratamiento se dará a ls (sic) prohibiciones a título de protección a la industria.
 
 En consecuencia, la ley castigará severamente, y las autoridades perseguirán con eficacia, toda concentración o acaparamiento en una o pocas manos de artículos de consumo necesario y que tenga por objeto obtener el alza de los precios; todo acuerdo, procedimiento o combinación de los productores, industriales, comerciantes o empresarios de servicios, que de cualquier manera hagan, para evitar la libre concurrencia o la competencia entre sí y obligar a los consumidores a pagar precios exagerados y, en general, todo lo que constituya una ventaja exclusiva indebida a favor de una o varias personas determinadas y con perjuicio del público en general o de alguna clase social.
 
@@ -5014,11 +5014,11 @@ XVII.- La autoridad responsable será consignada a la autoridad correspondiente,
 
 XVIII.- (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE JUNIO DE 2002)</small>
 
 ## TITULO CUARTO.
 
-DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS.
+DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
@@ -5137,6 +5137,12 @@ Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido 
 ###### Art. 113.
 
 Las leyes sobre responsabilidades administrativas de los servidores públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del artículo 109, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VER PRIMER PARRAFO DEL ARTICULO UNICO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2002)</small>
+
+La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -8678,22 +8684,6 @@ Una vez creada la entidad de fiscalización superior de la Federación, todos lo
 
 CUARTO.- El Contador Mayor de Hacienda será titular de la entidad de fiscalización superior de la Federación hasta el 31 de diciembre de 2001; podrá ser ratificado para continuar en dicho encargo hasta completar el período de ocho años a que se refiere el artículo 79 de esta Constitución.
 
-D.O.F. 13 DE SEPTIEMBRE DE 1999.
-
-PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Los actuales integrantes del Consejo Consultivo de la Comisión Nacional de Derechos Humanos, continuarán en su encargo hasta concluir el período para el que fueron designados, pudiendo, en su caso, ser propuestos y elegidos para un segundo período en los términos de lo dispuesto por el quinto párrafo del apartado B del Artículo 102 que se reforma por este Decreto.
-
-TERCERO.- En un plazo máximo de sesenta días, la Cámara de Senadores o, en su caso, la Comisión Permanente del Congreso de la Unión, deberá elegir al Presidente de la Comisión Nacional de los Derechos Humanos, conforme al procedimiento dispuesto por el apartado B del Artículo 102 que se reforma por este Decreto. Para tal efecto, se observarán las siguientes reglas:
-
-A.- La Comisión correspondiente de la Cámara de Senadores procederá a realizar una amplia auscultación entre las organizaciones sociales representativas de los distintos sectores de la sociedad, así como entre los organismos públicos y privados promotores o defensores de los Derechos Humanos.
-
-B.- Con base en la auscultación antes señalada, la Comisión podrá proponer la ratificación de la actual Titular de la Comisión Nacional de Derechos Humanos o, en su caso, integrar una terna de candidatos.
-
-CUARTO.- En tanto el Congreso de la Unión expide las reformas a la Ley de la Comisión Nacional de Derechos Humanos, ésta ejercerá sus atribuciones y competencias conforme a lo dispuesto por el presente Decreto y la ley reglamentaria vigente hasta dicha expedición.
-
-QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
 D.O.F. 23 DE DICIEMBRE DE 1999.
 
 ###### ARTICULO PRIMERO.
@@ -8724,7 +8714,19 @@ Antes del inicio del ejercicio fiscal de 2002, las legislaturas de los estados, 
 
 ###### ARTICULO SEXTO.
 
-En la realización de las acciones conducentes al cumplimiento del presente decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
+En la realización de las acciones conducentes al cumplimiento del presente decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 23 DE DICIEMBRE DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación, salvo lo previsto en los artículos siguientes.
+
+###### ARTICULO SEGUNDO.
+
+Los Estados deberán adecuar sus constituciones y leyes conforme a lo dispuesto en este decreto a más tardar en un año a partir de su entrada en vigor. En su caso, el Congreso de la Unión deberá realizar las adecuaciones a las leyes federales a más tardar el 30 de abril del año 2001.
+
+En tanto se realizan las adecuaciones a que se refiere el párrafo anterior, se continuarán aplicando las disposiciones vigentes.
 
 D.O.F. 7 DE ABRIL DE 2000.
 
@@ -8750,14 +8752,6 @@ Las disposiciones legales vigentes continuarán aplicándose en lo que no se opo
 
 D.O.F. 14 DE AGOSTO DE 2001.
 
-###### ARTICULO PRIMERO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-###### ARTICULO SEGUNDO.
-
-Al entrar en vigor estas reformas, el Congreso de la Unión y las Legislaturas de las entidades federativas deberán realizar las adecuaciones a las leyes federales y constituciones locales que procedan y reglamenten lo aquí estipulado.
-
 ###### ARTICULO TERCERO.
 
 Para establecer la demarcación territorial de los distritos electorales uninominales deberá tomarse en consideración, cuando sea factible, la ubicación de los pueblos y comunidades indígenas, a fin de propiciar su participación política.
@@ -8765,6 +8759,28 @@ Para establecer la demarcación territorial de los distritos electorales uninomi
 ###### ARTICULO CUARTO.
 
 El titular del Poder Ejecutivo Federal dispondrá que el texto íntegro de la exposición de motivos y del cuerpo normativo del presente decreto, se traduzca a las lenguas de los pueblos indígenas del país y ordenará su difusión en sus comunidades.
+
+D.O.F. 14 DE JUNIO DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor el 1o. de enero del segundo año siguiente al de su publicación en el Diario Oficial de la Federación.
+
+La Federación, las entidades federativas y los municipios contarán con el periodo comprendido entre la publicación del presente Decreto y su entrada en vigor, para expedir las leyes o realizar las modificaciones necesarias, según sea el caso, a fin de proveer el debido cumplimiento del mismo, así como para incluir en sus respectivos presupuestos, una partida para hacer frente a su responsabilidad patrimonial.
+
+La aprobación de la reforma constitucional implicará necesariamente la adecuación a las disposiciones jurídicas secundarias, tanto en el ámbito federal como en el local, conforme a los criterios siguientes:
+
+a) El pago de la indemnización se efectuaría después de seguir los procedimientos para determinar que al particular efectivamente le corresponde dicha indemnización, y
+
+b) El pago de la indemnización estará sujeto a la disponibilidad presupuestaria del ejercicio fiscal de que se trate.
+
+Para la expedición de las leyes o la realización de las modificaciones necesarias para proveer al debido cumplimiento del decreto, se contaría con el periodo comprendido entre la publicación del decreto y su entrada en vigor. Según la fecha de aprobación del Decreto y su consiguiente publicación, el citado periodo no sería menor a un año ni mayor a dos.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Al entrar en vigor estas reformas, el Congreso de la Unión y las Legislaturas de las entidades federativas deberán realizar las adecuaciones a las leyes federales y constituciones locales que procedan y reglamenten lo aquí estipulado.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA; VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
