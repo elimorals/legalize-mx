@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-publica-del-estado-de-hidalgo-5504"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-24"
-last_updated: "1984-09-24"
+last_updated: "2004-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE SALUD PUBLICA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONDORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 30 DE AGOSTO DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de septiembre de 1984.
 
@@ -2248,3 +2250,19 @@ Dado en el palacio del Poder Ejecutivo, en la Ciudad de Pachuca de Soto, Estado 
 El Gobernador Constitucional del Estado.- GUILLERMO ROSSELL.- Rúbrica.
 
 El Secretario General de Gobierno.- EFRAIN ARISTA RUIZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE AGOSTO DE 2004.
+
+PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se abroga la Ley de Salud Pública del Estado de Hidalgo de fecha 24 de septiembre de 1984, y se derogan las demás disposiciones legales en lo que se opongan a las de la presente Ley.
+
+TERCERO.- En tanto se expidan los Reglamentos y disposiciones administrativas derivadas de esta Ley, seguirán en vigor las que rigen actualmente en lo que no la contravenga.
+
+CUARTO.- Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubieren iniciado bajo la vigencia de la Ley de Salud Pública del Estado de Hidalgo que se abroga, se tramitarán y resolverán conforme a las disposiciones de la citada Ley.
+
+QUINTO.- En tanto no sea creada la Secretaría de Salud, la interpretación y ejecución de esta Ley, será ejercida por el Organismo Público Descentralizado Servicios de Salud de Hidalgo.
+
+SEXTO.- Para el cumplimiento de lo establecido en los apartados C y D del Artículo 5 de esta Ley, los Ayuntamientos contarán con 180 días naturales para los efectos correspondientes.
