@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ejecucion-de-sanciones-privativas-de-la-libertad-5342"
 country: "mx"
 rank: "ley"
 publication_date: "1983-11-04"
-last_updated: "1992-08-18"
+last_updated: "1999-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS DE LA LIBERTAD PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 4 de noviembre de 1983.
 
@@ -331,13 +331,15 @@ Los hechos meritorios de los internos serán premiados por el Consejo Técnico I
 
 Se entiende por preliberación el tratamiento encaminado a preparar paulatinamente al interno para su reintegración a la vida en libertad.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 30.
 
-La preliberación sólo podrá concederse un año antes a la fecha en que el interno tenga eventualmente derecho a la libertad anticipada o a la remisión parcial de la sanción.
+La preliberación sólo podrá concederse cuando se haya compurgado por lo menos un medio de la sanción impuesta.
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
+Este beneficio no se concederá a los reincidentes ni a los condenados por delito grave.
 
-En este supuesto y teniendo como base los estudios de personalidad, el Consejo Técnico Interdisciplinario determinará el momento, dentro del término fijado, en que se deba iniciar esta fase del tratamiento de reintegración social.
+El Consejo Técnico Interdisciplinario, teniendo como base los estudios de personalidad, determinará el momento en que se deban iniciar las etapas de reintegración social.
 
 ###### ARTICULO 31.
 
@@ -405,13 +407,13 @@ La Dirección de Prevención y Readaptación Social conocerá del trámite de re
 
 El condenado por sentencia ejecutoria a sanción privativa de libertad, tendrá derecho a la libertad anticipada, por resolución del Ejecutivo, bajo las condiciones siguientes:
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1992)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
 
-I.- Que se haya cumplido el 50% de su condena.
+I.- Que se hayan cumplido las dos terceras partes de su sanción, salvo que se trate de reincidentes o de condenados por delito grave, quienes deberán compurgar las tres cuartas partes de su pena.
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1992)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
 
-II.- Que se haya reparado el daño, o que se encuentre en el supuesto previsto por el artículo 129 del Código Penal del Estado.
+II.- Que se haya reparado el daño o hubiere prescrito tal sanción.
 
 III.- Que haya observado buena conducta durante su reclusión.
 
@@ -424,6 +426,10 @@ IV.- Que se haya alcanzado un adecuado grado de readaptación social, de acuerdo
 El agraciado con la libertad anticipada deberá residir en el lugar que se le determine, del cual sólo podrá ausentarse con permiso de la Dirección de Prevención y Readaptación Social.
 
 La libertad anticipada no se concederá a los delincuentes habituales.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
+Para los efectos de esta ley es reincidente quien haya sido condenado en dos o más ocasiones por sentencia ejecutoria dictada por cualquier tribunal de la República Mexicana, siempre que se trate de delitos dolosos y que entre el cumplimiento o la extinción de la condena de uno y la comisión del otro haya transcurrido un lapso menor de seis años.
 
 ###### ARTICULO 35.
 
@@ -505,7 +511,9 @@ a) La aplicación individual de los tratamientos.
 
 b) La ejecución de medidas preliberacionales.
 
-c) La concesión del beneficio de la libertad anticipada y el de la remisión parcial de la sanción corporal.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
+c) Proponer a la Secretaría de Gobierno, a través del Director de Prevención y Readaptación Social, la concesión de los beneficios de la libertad anticipada y el de la remisión parcial de la sanción corporal, la cual deberá resolver dentro de un plazo de quince días siguientes al de la presentación de la propuesta;
 
 > <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 1992)</small>
 
@@ -622,3 +630,9 @@ Estas reformas y adiciones entrarán en vigor el cuarto día siguiente al de su 
 ###### ARTICULO SEGUNDO.
 
 Sigue vigente el Reglamento Interior para los Centros de Readaptación Social del Estado de Guanajuato, expedido el 20 de Abril de 1992, y publicado en el Periódico Oficial del Gobierno del Estado de fecha 21 de los mismos mes y año.
+
+P.O. 24 DE DICIEMBRE DE 1999.
+
+Artículo Primero.- El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- A los reos que actualmente se encuentran sentenciados, aunque la sentencia aún no cause ejecutoria, en su caso, les serán aplicables las disposiciones legales anteriores a la entrada en vigor del presente decreto.
