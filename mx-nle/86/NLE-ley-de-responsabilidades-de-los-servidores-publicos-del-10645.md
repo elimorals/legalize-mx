@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-de-los-servidores-publicos-del-10645"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2000-10-18"
+last_updated: "2002-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL:18 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de enero de 1997.
 
@@ -623,9 +623,11 @@ El Titular de la dependencia, entidad u organismo de la Administración Pública
 
 Cuando por motivo de las funciones que realice la Secretaría resultare responsabilidad de servidores públicos, informará de ello al superior jerárquico de éstos para que proceda a su determinación y sanción correspondiente, si fuera de su competencia. Tratándose de responsabilidades mayores cuyo conocimiento sea competencia exclusiva de la Secretaría, ésta conocerá directamente del asunto, informando de ello al superior jerárquico para que coadyuve en el procedimiento de responsabilidades.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2002)</small>
+
 ###### Artículo 68.
 
-En el Poder Legislativo será superior jerárquico, para los efectos de esta Ley, la Asamblea en Pleno del Congreso del Estado tratándose de los Diputados. Para el resto de los servidores públicos del Poder Legislativo, lo será la Gran Comisión. En la Contaduría Mayor de Hacienda el superior jerárquico será el Contador Mayor y sobre este el Pleno del Congreso.
+En el Poder Legislativo será superior jerárquico, para los efectos de esta Ley, la Asamblea en Pleno del Congreso del Estado tratándose de los Diputados. Para el resto de los servidores públicos del Poder Legislativo, lo será la Comisión de Coordinación y Régimen Interno. En la Contaduría Mayor de Hacienda el superior jerárquico será el Contador Mayor y sobre éste el Pleno del Congreso.
 
 El Contador Mayor de Hacienda en representación del Congreso del Estado, fincará y determinará responsabilidades a los servidores públicos estatales y municipales, así como a toda persona física o moral imputable, que con dolo o culpa cause daño o perjuicio a la Hacienda Pública Estatal o Municipal o a sus organismos y entidades del sector paraestatal, o no dé cumplimiento a las disposiciones jurídicas vigentes en el Estado, en relación al gasto público, fiscal, obra pública, adquisiciones y demás materias relacionadas con aspectos presupuestales.
 
@@ -1170,3 +1172,7 @@ Se abroga la Ley Orgánica de los Cuerpos de Seguridad Pública del Estado de Nu
 ###### ARTÍCULO TERCERO.
 
 El Titular del Poder Ejecutivo del Estado expedirá el Reglamento de esta Ley, dentro de un plazo no mayor a ciento ochenta días naturales, contados a partir de la fecha de entrada en vigor de este Decreto.
+
+P.O. 15 DE JULIO DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
