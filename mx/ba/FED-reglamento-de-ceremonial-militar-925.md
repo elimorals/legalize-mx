@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-ceremonial-militar-925"
 country: "mx"
 rank: "reglamento"
 publication_date: "1938-11-10"
-last_updated: "1949-07-23"
+last_updated: "1949-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=925&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1938-09-12"
 
 REGLAMENTO DE CEREMONIAL MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 1949.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE DICIEMBRE DE 1949.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 10 de noviembre de 1938.
 
@@ -1105,45 +1105,69 @@ El Jefe que reciba reunirá al Cuadro de Oficiales en la Comandancia, a fin de q
 
 La Secretaría de la Defensa Nacional mandará copia del oficio girado a los interesados, a la Comandancia de la Guarnición de la Plaza de México y a la de la Zona correspondiente, con objeto de que lo hagan conocer por medio de la Orden de la Plaza de su jurisdicción, fijando, si les corresponde, la fecha y lugar de la imposición.
 
-> <small>(REFORMADO, D.O. 23 DE JULIO DE 1949)</small>
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1949)</small>
 
 ###### ARTICULO 189.
 
-La imposición de condecoraciones corresponderá al C. Presidente de la República, quien podrá delegar sus facultades en el Secretario de la Defensa Nacional, en los Comandantes de Zona, de Guarnición o de Grandes Unidades.
+La imposición de Condecoraciones corresponderá al C. Presidente de la República, quien podrá delegar sus facultades los C.C. Secretarios de la Defensa Nacional y de la Marina Nacional y en los Comandantes de Zonas de Guarniciones o Grandes Unidades, y en los Comandantes de Zonas Navales y de Buques de Guerra.
 
 Para llevar a cabo este acto, la tropa se formará de modo que pueda presenciar la ceremonia.
 
-El Presidente de la República o quien lo represente, impondrá la condecoración a quienes se hayan hecho acreedores a ella, que previamente se encontrarán colocados en el centro de las tropas.
+El Presidente de la República o quien lo represente, impondrá la condecoración a quienes se hayan hecho acreedores a ella, que para el efecto deberá encontrarse previamente en el centro de las tropas.
 
-Al final, dichas tropas desfilarán ante el C. Presidente de la República o su representante, quien tendrá a su izquierda a los condecorados.
+Al terminar el acto dichas tropas desfilarán ante el C. Presidente de la República o su representante, quien tendrá a su izquierda a los condecorados.
 
-En las fechas que se expresan se impodrán (sic) las condecoraciones siguientes
+En las fechas que se expresa se impondrán las Condecoraciones siguientes:
 
-5 de febrero
+5 DE FEBRERO
 
-MERITO DOCENTE.
+Mérito Docente.
 
-MERITO FACULTATIVO.
+Mérito Facultativo.
 
-MERITO TECNICO MILITAR.
+Mérito Técnico Militar.
 
-MERITO AERONAUTICO.
+Mérito Aeronáutico.
 
-13 de septiembre
+13 DE SEPTIEMBRE
 
-VALOR HEROICO.
+Valor Heroico.
 
-MERITO MILITAR.
+Mérito Militar.
 
-SEGUNDA INVASIÓN NORTEAMERICANA.
+Segunda Invasión Norteamericana.
 
-20 de noviembre
+20 DE NOVIEMBRE
 
-MERITO REVOLUCIONARIO.
+Mérito Revolucionario.
 
-PERSEVERANCIA.
+Perseverancia.
 
-MERITO DEPORTIVO MILITAR.
+Mérito Deportivo Militar.
+
+21 DE ABRIL
+
+Valor Heroico.
+
+Mérito Naval.
+
+Mérito Aeronáutico-Naval.
+
+1° DE JUNIO
+
+Mérito Técnico Naval.
+
+Por Mérito Especial.
+
+Mérito Docente Naval.
+
+Mérito Facultativo Naval.
+
+20 DE NOVIEMBRE
+
+Perseverancia.
+
+Mérito Deportivo Naval.
 
 ###### ARTICULO 190.
 
@@ -1290,3 +1314,9 @@ D.O. 23 DE JULIO DE 1949.
 ###### ARTICULO UNICO.
 
 El presente ordenamiento comenzará a surtir sus efectos a partir de la fecha de su publicación en el "Diario Oficial" derogando todas las disposiciones que a él se opongan.
+
+D.O. 19 DE DICIEMBRE DE 1949.
+
+###### ARTICULO UNICO.
+
+El presente Ordenamiento comenzará a surtir sus efectos tres días después de su publicación en el "Diario Oficial" de la Federación, derogando todas las disposiciones que con él se opongan.
