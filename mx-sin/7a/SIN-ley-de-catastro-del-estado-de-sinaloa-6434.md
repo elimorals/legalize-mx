@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-catastro-del-estado-de-sinaloa-6434"
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-10"
-last_updated: "1996-12-27"
+last_updated: "2001-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE CATASTRO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2001.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el lunes 10 de enero de 1994.
 
@@ -443,9 +443,17 @@ XIV. Un representante de los pequeños propietarios.
 
 XV. Un representante de los peritos valuadores, miembro de la organización respectiva municipal que cuente con el mayor número de afiliados.
 
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+XVI. Un representante del Congreso del Estado que será nombrado por este Órgano.
+
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 Cuando las Juntas Municipales lo consideren necesario, podrán aumentar el número de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+El Presidente de la Junta, será el Presidente Municipal, quien a su vez será el representante de la misma.
 
 ###### Artículo 23.
 
@@ -509,15 +517,17 @@ Con base en los elementos físicos del predio y los datos obtenidos según el ar
 
 Todos los predios ubicados en el Estado, deberán ser objeto de avalúo, incluyendo los predios rurales ejidales o comunales aprovechados para la producción agropecuaria, así como los predios propiedad de los municipios, del Estado y de la Federación.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Artículo 30.
 
-El valor catastral será determinado por el Instituto, el cuál podrá ser provisional o definitivo. En ambos casos el valor surtirá sus efectos a partir del día siguiente a aquel en que fue notificado por correo el interesado.
+El valor catastral será determinado por el Instituto, el cuál podrá ser provisional o definitivo.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
 ###### Artículo 31.
 
-Para los efectos del Artículo anterior, el Instituto formulará planos y tablas generales de valores unitarios de zona, región y subregión para ser aplicados a los respectivos lotes tipo. Tratándose de predios rurales, la formulación de las tablas generales se hará atendiendo a su clase y categoría, determinándose el valor unitario por hectárea. Las tablas y planos a que se refiere este Artículo, serán aprobadas por las Juntas Municipales y serán presentadas al Ejecutivo Estatal para que envíe la Iniciativa de Decreto correspondiente al H. Congreso del Estado para su aprobación definitiva.
+Para los efectos del artículo anterior, el Instituto formulará planos y Tablas Generales de Valores Unitarios de Zona, región y subregión para ser aplicados a los respectivos lotes tipo. Tratándose de predios rurales, la formulación de las tablas generales se hará atendiendo a su clase y categoría, determinándose el valor unitario por hectárea. Las tablas y planos a que se refiere este artículo, serán presentados a las Juntas Municipales en el mes de octubre, para que éstas sigan el procedimiento a que se refiere el artículo 55 de esta Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1994)</small>
 
@@ -675,9 +685,9 @@ Para el establecimiento de los valores unitarios del suelo y construcciones se s
 
 a). El Instituto Catastral del Estado, realizará los estudios técnicos para formular la propuesta de valores unitarios del suelo y construcciones.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-b). El Instituto remitirá la propuesta de valores unitarios del suelo y construcción a las Juntas Municipales para su revisión, modificación o aprobación en su caso, los cuales serán presentados al Ejecutivo Estatal para que envíe la Iniciativa de Decreto correspondiente al H. Congreso del Estado para su aprobación definitiva. A la reunión en que las Juntas Municipales analicen y aprueben en su caso, deberá citarse por escrito a los miembros que las integran cuando menos con 72 horas de anticipación.
+b). El Instituto remitirá la propuesta de valores unitarios de suelo y construcción a las Juntas Municipales para su revisión, modificación o aprobación en su caso. Una vez aprobadas, el Presidente Municipal en el mes de noviembre hará la propuesta al Congreso del Estado, para su aprobación definitiva. A la reunión en que las Juntas Municipales analicen y aprueben en su caso, deberá citarse por escrito a los miembros que las integran cuando menos con 72 horas de anticipación.
 
 c). (DEROGADO, P.O. 27 DE DICIEMBRE DE 1996)
 
@@ -966,3 +976,19 @@ A).- En las poblaciones en que la base gravable para el cálculo del Impuesto Pr
 B).- En las poblaciones en que la base gravable para el cálculo del Impuesto Predial en 1996 fue del 85%, para el presente ejercicio fiscal será de un 95%; y
 
 C).- En las poblaciones en que la base gravable para el cálculo del Impuesto Predial en 1996 fue del 90 y 95%, para el presente ejercicio fiscal será de un 100%.
+
+P.O. 19 DE SEPTIEMBRE DE 2001.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa", con excepción del Artículo Sexto, relativo a la Ley de Coordinación Fiscal del Estado de Sinaloa, cuya vigencia será a partir del 1° de enero de 2002, en el entendido de que para el ejercicio fiscal de 2002 los factores provisionales que entrarán en vigor el 1 de enero de ese año se calcularán conforme lo establecido en el artículo 4 de la Ley, con las siguientes bases:
+
+a) Para los efectos de la Fracción II se tomarán en cuenta el factor definitivo de distribución de participaciones de 2001, calculado en base al anterior procedimiento y los ingresos municipales propios y por captación de cuotas por el servicio de agua potable de 1999 y 2000.
+
+b) El factor provisional resultante estará en vigor hasta que se calcule el factor definitivo de 2002 con base en el factor definitivo de distribución de participaciones de 2001, calculado con la anterior metodología así como en los ingresos propios de 2001, consignados en las cuentas públicas municipales aprobadas de 2001 y los informes sobre ingresos por cuotas de agua potable de las Juntas Municipales de Agua Potable y Alcantarillado correspondientes a 2001.
+
+Artículo Segundo.- Las referencias que se hacen en las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas a la Secretaría de Hacienda Pública y Tesorería, se entenderán hechas a la Secretaría de Administración y Finanzas.
+
+Artículo Tercero.- En todas las leyes y reglamentos en los que se haga referencia a la Ley Orgánica de la Procuraduría Fiscal de la Secretaría de Hacienda Pública y Tesorería, la mención se entenderá hecha a la Ley Orgánica de la Procuraduría Fiscal del Estado.
+
+Artículo Cuarto.- En todas las leyes y reglamentos en los que se mencione al Procurador Fiscal de la Secretaría de Hacienda Pública y Tesorería, éstas se entenderán hechas al Procurador Fiscal del Estado.
