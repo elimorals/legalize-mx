@@ -4,7 +4,7 @@ identifier: "COA-ley-reglamentaria-para-el-ejercicio-de-la-abogacia-16737"
 country: "mx"
 rank: "ley"
 publication_date: "1925-06-24"
-last_updated: "1937-11-27"
+last_updated: "1938-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY REGLAMENTARIA PARA EL EJERCICIO DE LA ABOGACIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 1937.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 1938.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 24 de junio de 1925.
 
@@ -63,11 +63,13 @@ Unicamente serán registrados en el Libro especial que llevará el Superior Trib
 
 En los lugares del Estado en que se carezca de abogados Titulados podrá permitirse el ejercicio de esta profesión a tres personas de reconocida honorabilidad, que comprueben tener los conocimientos indispensables, a juicio del Superior Tribunal de Justicia.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1937)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1938)</small>
 
 ###### Art. 7°.
 
-Para los efectos del Artículo anterior, los interesados dirigirán una solicitud al Superior Tribunal de Justicia, acompañando tres constancias escritas, de Abogados Postulantes titulados radicados en el Estado, en las que se testimonie la aptitud práctica de los solicitantes en la materia, y una certificación del Presidente Municipal del lugar donde desearen ejercer, comprobando que son conocidos del vecindario y de intachable conducta. El Superior Tribunal de Justicia al recibir la solicitud mandará publicarla, a costa del interesado, en el Periódico Oficial del Estado, y en un diario de información que se publique en el lugar más cercano a aquél en que radique el peticionario, siendo dichas publicaciones por tres veces de cinco en cinco días, agregando que se efectúa esa publicación, para que si hay alguien que tenga que hacer observaciones sobre la moralidad del solicitante, las haga y las pruebe suficientemente a juicio del propio Tribunal. Si hechas las publicaciones no se presenta observación alguna, o las que se hagan resultan infundadas, el Tribunal en vista de esta circunstancia y de los documentos que se mencionan, tiene facultades para conceder o negar el permiso por medio de oficio que se entregará a los peticionarios y que deberán exhibirlo ante los Tribunales cuando fueren requeridos para ello. Estos permisos podrá revocarlos cuando lo estime conveniente a los intereses de la sociedad, cuando se presentare queja de mal comportamiento de los beneficiados, o cuando en el lugar donde ejerzan se establezca con residencia fija, tres o más abogados titulados postulantes. En este último caso quedan sin efecto y se considerarán insubsistentes los permisos expedidos, sin necesidad de revocación especial. Los beneficiados con los permisos a que se refiere este artículo deberán presentar en la primera promoción de los asuntos que se les encomiende el comprobante de estar al corriente en el pago de las contribuciones municipales o del Estado que les asignen las Leyes, sin cuyo requisito los Jueces repelarán las promociones que hicieren.
+Para los efectos del artículo anterior, los interesados dirigirán una solicitud al Superior Tribunal de Justicia, acompañando tres constancias escritas, de Abogados Postulantes titulados radicados en el Estado, en las que se testimonie la aptitud práctica de los solicitantes en la materia, y una certificación del Presidente Municipal del lugar donde desea (sic) intachable conducta. El Superior Tribunal de Justicia al reren (sic) ejercer, comprobando que son conocidos del vecindario y de cibir (sic) la solicitud mandará publicarla, a costa del interesado, en el Periódico Oficial del Estado, y en un diario de información que se publique en el lugar más cercano a aquél en que radique el peticionario, siendo dichas publicaciones por tres veces de cinco en cinco días, agregando que se efectúa esa publicación, para que si hay alguien que tenga que hacer observaciones sobre la moralidad del solicitante, las haga y las pruebe suficientemente a juicio del propio Tribunal. Si hechas las publicaciones no se presenta observación alguna, o las que se hagan resultan infundadas, el Tribunal en vista de esta circunstancia y de los documentos que se mencionan, tiene facultades para conceder o negar el permiso por medio de oficio que se entregará a los peticionarios y que deberán exhibirlo ante los Tribunales cuando fueren requeridos para ello. Estos permisos podrá revocarlos cuando lo estime conveniente a los intereses de la sociedad, cuando se presentare queja de mal comportamiento en los beneficiados, o cuando en el lugar donde ejerzan se establezca con residencia fija, tres o más abogados titulados postulantes. En este último caso quedan sin efecto y se considerarán insubsistentes los permisos expedidos, sin necesidad de revocación especial. Los beneficiados con los permisos a que se refiere este Artículo deberán presentar en la primera promoción de los asuntos que se les encomiende el comprobante de estar al corriente en el pago de las contribuciones municipales o del Estado que les asignen las Leyes, sin cuyo requisito los Jueces repelarán las promociones que hicieron.
+
+El procedimiento que se seguirá para tramitar las quejas de mal comportamiento, se limitará a dar conocimiento de la queja al litigante contra quien se endereza para que la conteste en el término de tres días, señalándose día y hora para una audiencia de pruebas y alegatos en la que resolverá la procedencia o improcedencia de la revocación. Igual procedimiento se seguirá cuando la petición de revocación se funde en que es conveniente la revocación a los intereses de la Sociedad.
 
 ###### Art. 8°.
 
@@ -126,5 +128,9 @@ Lic. P. Aguirre S.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 27 DE NOVIEMBRE DE 1937.
+
+EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS DISPOSICIONES PRELIMINARES DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 7 DE MAYO DE 1938.
 
 EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS DISPOSICIONES PRELIMINARES DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
