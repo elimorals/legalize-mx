@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1968-02-17"
+last_updated: "1969-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1969.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -1029,13 +1029,17 @@ MUNICIPIO LIBRE.
 
 El cargo de Magistrado del Tribunal Superior de Justicia sólo es renunciable por causa grave, calificada por el Congreso o por la Comisión Permanente.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1969)</small>
+
 ###### Art. 102.
 
-Los Jueces de Primera Instancia durarán en su encargo dos años y sólo serán removidos por causa justificada que determinará la ley respectiva.
+Los Jueces de Primera Instancia y Menores durarán en su encargo tres años. Sólo podrán ser removidos por causa justificada.
+
+(REFORMADO, P.O. 19 DE JULIO DE 1969
 
 ###### Art. 103.
 
-Los Jueces Municipales durarán en su cargo un año.
+Los Jueces Municipales durarán en su cargo tres años. Sólo podrán ser removidos por causa justificada.
 
 ###### Art. 104.
 
@@ -1594,3 +1598,7 @@ El informe relativo a la situación de la Administración Pública, por lo que s
 ###### ARTICULO SEGUNDO.
 
 Este Decreto comenzará a surtir sus efectos legales desde la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE JULIO DE 1969.
+
+UNICO.- Este Decreto surte sus efectos legales a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
