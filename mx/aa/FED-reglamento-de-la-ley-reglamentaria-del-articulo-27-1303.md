@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-reglamentaria-del-articulo-27-1303"
 country: "mx"
 rank: "reglamento"
 publication_date: "1959-08-25"
-last_updated: "1971-02-09"
+last_updated: "1990-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1303&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1959-08-24"
 
 REGLAMENTO DE LA LEY REGLAMENTARIA DEL ARTICULO 27 CONSTITUCIONAL EN EL RAMO DEL PETROLEO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE FEBRERO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE ENERO DE 1990.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el martes 25 de agosto de 1959.
 
@@ -195,13 +195,9 @@ La refinación petrolera comprende los procesos industriales que convierten los 
 
 Sólo la Nación puede llevar a cabo operaciones de refinación petrolera, por conducto de Petróleos Mexicanos, ya sea que se refinen hidrocarburos de origen nacional, extranjero o mezcla de ambos, tanto para consumo nacional, como para exportación de los derivados. Cuando los hidrocarburos de origen extranjero sean propiedad de terceros, la refinación la podrá hacer Petróleos Mexicanos, pero sólo para la subsecuente exportación de los productos.
 
-> <small>(F. DE E., D.O.F. 24 DE SEPTIEMBRE DE 1959)</small>
-
 ###### ARTICULO 25.
 
-Los particulares que deseen utilizar derivados básicos de refinación para producir especialidades de los mismos, deberán obtener previamente de las Secretarías del Patrimonio Nacional y de Industria y Comercio la autorización de las actividades respectivas.
-
-Las Secretarías resolverán conjuntamente después de oír a Petróleos Mexicanos.
+(DEROGADO, D.O.F. 8 DE ENERO DE 1990)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 9 DE FEBRERO DE 1971)</small>
 
@@ -600,3 +596,21 @@ La referencia a la "Comisión para el Estudio de la Industria Petroquímica" con
 ###### ARTICULO QUINTO.
 
 El presente Reglamento entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 8 DE ENERO DE 1990.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga el artículo 25 del Reglamento de la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, publicado en el Diario Oficial de la Federación del 25 de agosto de 1959, así como aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Las autorizaciones que se hayan concedido con base en las disposiciones del artículo que se reforma, para la elaboración de productos que sean especialidades de derivados básicos de refinación, quedan sin efecto para todo lo relativo a las obligaciones adicionales a aquéllas establecidas por virtud del presente Decreto.
+
+###### ARTICULO CUARTO.
+
+Hasta en tanto la Secretaría de Comercio y Fomento Industrial no emita la Norma de Información Comercial correspondiente a la elaboración de aceites lubricantes para uso en vehículos automotrices, ésta seguirá efectuándose en los términos y condiciones de calidad vigentes.
