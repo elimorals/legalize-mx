@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-pecuario-del-estado-de-jalisco-12361"
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-04"
-last_updated: "2000-03-02"
+last_updated: "2003-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2000
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO, PUBLICADA EN EL PERIODICO OFICIAL EL 24 DE JUNIO DE 2003</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en P.O. 4 de enero de 1994 Sección III
 
@@ -1158,3 +1160,9 @@ UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en e
 P.O. 2 DE MARZO DEL 2000
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 24 DE JUNIO DE 2003
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se abroga la Ley de Desarrollo Pecuario del Estado de Jalisco, contenida en el Decreto 15321, publicado en el Periódico Oficial "El Estado de Jalisco" el 4 de enero de 1994.
