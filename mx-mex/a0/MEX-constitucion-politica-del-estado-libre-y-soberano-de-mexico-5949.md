@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1981-09-17"
+last_updated: "1982-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE SEPTIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE ENERO 1982.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1373,11 +1373,11 @@ En cada Distrito Judicial habrá un Juez, o los Jueces necesarios de Primera Ins
 
 El Ministerio Público es el órgano del Poder Ejecutivo a quien incumbe la persecución de los delitos, a cuyo fin contará con un cuerpo de Policía Judicial que estará bajo la autoridad y mando inmediato de aquel. El Ministerio Público debe velar además por la exacta observancia de las leyes de interés general e intervenir en todos aquellos asuntos que afecten a la Sociedad, al Estado, y en general, a las personas a quienes las leyes otorgan especial protección.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1982)</small>
 
 ###### Art. 120.
 
-El Ministerio Público será desempeñado por un Procurador General de Justicia, un Sub-Procurador, y los agentes que determinen la Ley Orgánica correlativa.
+El Ministerio Público estará a cargo de un Procurador General de Justicia, un Sub Procurador General, tres Sub Procuradores y los Agentes del Ministerio Público, auxiliados por el Personal que determine la Ley Orgánica respectiva.
 
 ###### Art. 121.
 
@@ -1739,11 +1739,11 @@ V.- Ser de honradez y Probidad notorias.
 
 La Ley Orgánica correlativa determinará los requisitos necesarios para ser Agente del Ministerio Público.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1982)</small>
 
 ###### Art. 125.
 
-El desempeño de las funciones de Procurador General, Sub-Procurador y Agente del Ministerio Público, es incompatible con el ejercicio de la abogacía, y con cualquier otro cargo, empleo o comisión que sean remunerados, a excepción de los de carácter docente.
+El desempeño de las funciones de Procurador General, Sub Procurador General, Sub Procurador y Agente del Ministerio Público, es incompatible con el ejercicio de la abogacía y con cualquier otro cargo, empleo o comisión que sean remunerados a excepción de los de carácter docente.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -2500,3 +2500,9 @@ G.G. 17 DE SEPTIEMBRE DE 1981.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+G.G. 9 DE ENERO DE 1982.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
