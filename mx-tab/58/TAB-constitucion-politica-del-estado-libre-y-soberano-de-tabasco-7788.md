@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1954-08-11"
+last_updated: "1960-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1960.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -361,17 +361,21 @@ El Diputado que falle diez días consecutivos sin causa justificada no tendrá d
 
 Los Diputados que no concurran a una sesión sin causa justificada o sin previo permiso del Presidente de la Cámara, no tendrán derecho a la dieta correspondiente al día en que falten.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE MAYO DE 1946)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1960)</small>
 
 ###### Art. 49.
 
-El Congreso tendrá cada año dos períodos de sesiones ordinarias; el primero del dieciséis de septiembre al quince de enero del año siguiente: el segundo, del 15 de abril al 31 de mayo. Estos períodos serán prorrogables por el tiempo que, según las necesidades del servicio público, acuerde el Congreso.
+El Congreso tendrá cada año dos períodos de sesiones ordinarias: el primero del 16 de septiembre al 31 de diciembre; y el segundo, del 27 de febrero al 30 de abril del año siguiente. Estos períodos serán prorrogables por el tiempo que, según las necesidades del servicio público, acuerde el Congreso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 1952)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JUNIO DE 1960)</small>
 
 ###### Art. 50.
 
-El día 20 de noviembre de cada año asistirá al Congreso el Gobernador del Estado y rendirá a la Legislatura un informe acerca de la situación que guarden los diversos ramos de la administración pública.
+El día 27 de febrero de cada año, con excepción del que corresponde al año en que tome posesión del cargo, el Gobernador del Estado concurrirá al Congreso y rendirá a la Legislatura un informe acerca de la situación que guarden los diversos ramos de la administración pública.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 1960)</small>
+
+De la gestión administrativa realizada en los últimos diez meses de cada sexenio, el Gobernador informará al Congreso, el día 20 de diciembre del año respectivo.
 
 El Presidente del Congreso contestará en términos generales.
 
@@ -1001,9 +1005,11 @@ V.- Gozar de buena reputación y no haber sido condenado por delito intencional 
 
 Los Magistrados del Tribunal Superior de Justicia, al entrar a ejercer su encargo, prestarán ante el Congreso o ante la Comisión Permanente la protesta siguiente: Presidente: ¿"Protestáis desempeñar leal y patrióticamente el cargo de Magistrado del Tribunal Superior de Justicia del Estado, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión y del Estado"? -Magistrado: "Sí protesto" -Presidente: "Si no lo hiciereis así, la Nación o el Estado os lo demande".
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JUNIO DE 1960)</small>
+
 ###### Art. 100.
 
-Será Presidente del Tribunal el Magistrado propietario que resulte electo por la misma corporación, será renovado cada año, y sus faltas temporales serán suplidas precisamente por uno de los otros Magistrados propietarios, designado en la misma forma que el anterior.
+Será Presidente del Tribunal el Magistrado Propietario que resulte electo por la misma corporación; será renovado cada año y sus faltas temporales serán suplidas precisamente por uno de los otros Magistrados Propietarios designados en la misma forma que el anterior. El Presidente del Tribunal Superior de Justicia concurrirá al Congreso el día 16 de septiembre de cada año y rendirá ante la representación popular, un informe acerca de la situación que guarde la administración de justicia en el Estado. El Presidente del Congreso contestará en términos breves.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 1946)</small>
 
@@ -1560,3 +1566,9 @@ P.O. 11 DE AGOSTO DE 1954.
 Artículo Primero.- Este Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Para mayor publicidad, promúlguese el presente Decreto por Bando Solemne en esta Capital y en las Cabeceras Municipales, el domingo siguiente a la fecha de su publicación en el Periódico Oficial.
+
+P.O. 1 DE JUNIO DE 1960.
+
+###### Art. 1o.
+
+Este decreto comienza a surtir sus efectos legales desde la fecha de su publicación en el Periódico Oficial del Gobierno.
