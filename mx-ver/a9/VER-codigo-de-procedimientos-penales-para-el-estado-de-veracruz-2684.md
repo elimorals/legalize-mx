@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-de-veracruz-268
 country: "mx"
 rank: "codigo"
 publication_date: "1948-02-12"
-last_updated: "1991-07-23"
+last_updated: "1992-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 1992.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave el jueves 12, sábado 14, martes 17, jueves 19, sábado 21, martes 24, jueves 26 y sábado 28 de febrero; martes 2, jueves 4, sábado 6, martes 9, jueves 11, sábado 13 y martes 16 de marzo de 1948.
 
@@ -837,11 +837,21 @@ I.-Cuando se trate de delitos culposos motivados por el tránsito de vehículos 
 
 Solicitada la libertad del presunto responsable, el Ministerio Público fijará de inmediato la garantía correspondiente, con los elementos existentes en la Averiguación Previa y basándose en las disposiciones de carácter general que haya fijado el Procurador.
 
-Cuando el Ministerio Público deje libre al presunto responsable lo prevendrá para que comparezca ante el mismo para la práctica de diligencias de averiguación y podrá hacer efectiva la garantía si el presunto responsable desobedeciere sin causa justificada, las órdenes que dictare.
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
-Concluida la averiguación previa y ejercitada la acción penal, el Ministerio Público presentará al inculpado ante su juez, endosándole el Billete de Depósito correspondiente, para que éste confirme, revoque o modifique el beneficio concedido.
+Cuando el Ministerio Público deje libre al inculpado, lo prevendrá a fin de que comparezca cuantas veces sea necesario para la práctica de diligencias de averiguación previa y, concluida ésta, ante el Juez a quien se consigne, quien ordenará su presentación y si no comparece sin causa justa y comprobada, ordenará su aprehensión, mandando hacer efectiva la garantía otorgada.
 
-La garantía se cancelará y en su caso se devolverá cuando se resuelva el no ejercicio de la acción penal.
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
+El Ministerio Público podrá hacer efectiva la garantía si el inculpado desobedeciere, sin causa justificada, lar órdenes que dictare.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
+La garantía se cancelará y en su caso, se devolverá por el Ministerio Público, cuando se resuelva el no ejercicio de la acción penal. Consignado el caso, el Juez, podrá confirmar, modificar o revocar el beneficio concedido.
+
+> <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
+El término para resolver la situación jurídica del indiciado, comenzará a partir del momento en que éste se presente ante el Juez.
 
 II.-Cuando se trate de delitos que sean de la competencia de los juzgados municipales, el presunto responsable tendrá derecho a quedar arraigado en su domicilio y bajo custodia de otra persona, con sujeción a los requisitos siguientes:
 
@@ -2858,6 +2868,16 @@ G.O. 23 DE JULIO DE 1991.
 ###### ARTICULO PRIMERO.
 
 La presente Ley entrará en vigor a los treinta días siguientes a su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a este ordenamiento.
+
+G. O. 1 DE FEBRERO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente ordenamiento entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
 
 ###### ARTICULO SEGUNDO.
 
