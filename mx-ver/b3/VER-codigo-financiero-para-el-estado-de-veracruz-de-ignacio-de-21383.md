@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2004-02-02"
+last_updated: "2004-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2004.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -397,17 +397,25 @@ Los responsables solidarios proporcionarán, a solicitud de las autoridades, la 
 
 El crédito fiscal es la obligación fiscal determinada en cantidad líquida proveniente de impuestos, derechos y aprovechamientos que tiene derecho a percibir el Estado o sus organismos descentralizados, así como los que deriven de responsabilidades que el Estado tenga derecho a exigir de sus servidores públicos o de particulares, incluyendo aquellos a los que las leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena.
 
-> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 36.
 
-El pago de los créditos fiscales y cualquier ingreso en favor del Estado deberá hacerse en efectivo con moneda de curso legal y se utilizarán invariablemente los formatos autorizados por la Secretaría. Podrán hacerse pagos en especie, cuando las disposiciones aplicables así lo establezcan.
+El pago de los créditos fiscales y cualquier ingreso a favor del Estado, deberá hacerse en efectivo con moneda de curso legal y se utilizarán invariablemente los formatos autorizados por la Secretaría. Las autoridades competentes de la Secretaría podrán aceptar pagos en especie, ya sea en bienes o servicios, a fin de asegurar la recaudación de toda clase de créditos a favor del Gobierno del Estado, siempre que sea la única forma que tenga el deudor para cumplir con la obligación a su cargo y éstos sean de fácil realización o venta, o resulten aprovechables en los servicios públicos del Estado, a juicio de la propia Secretaría, siguiendo el procedimiento de Dación en Pago que prevé el Código de Procedimientos Administrativos para el Estado.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
 
 Los giros postales, telegráficos o bancarios y los cheques de cuenta personal del contribuyente se admitirán salvo buen cobro.
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
+
 El pago también podrá efectuarse por medio de cheques certificados o cheques de caja; tratándose de cheques no certificados de cuentas personales, de pago con tarjetas de crédito y de transferencias de fondos de cuentas bancarias de los contribuyentes, únicamente se aceptarán cuando lo autorice la Secretaría, a través de reglas de carácter general.
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
+
 Cuando el Contribuyente opte por realizar el pago de Contribuciones Estatales mediante cheques, estos deberán ser expedidos a nombre de la Secretaría de Finanzas y Planeación, sin necesidad de leyendas adicionales por los conceptos de pago que se realicen.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
 
 La Secretaría podrá autorizar expresamente la aceptación de otros instrumentos de pago, conforme a los lineamientos que se expidan y publiquen en la Gaceta Oficial del Estado.
 
@@ -3283,6 +3291,10 @@ El importe de los productos antes señalados, con excepción de la fracción XI 
 
 Los productos por conceptos diversos se cobrarán atendiendo a los contratos celebrados al respecto, en los términos de las concesiones respectivas y de conformidad con las leyes o disposiciones aplicables.
 
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+Los ingresos que obtenga el Estado por la explotación de bienes inmuebles de su propiedad afectos a fideicomisos estatales integrantes de la administración pública paraestatal, con excepción de aquellos que se encuentren destinados a la prestación de un servicio público, también quedarán comprendidos en la categoría de productos y se encontrarán destinados primordialmente a cubrir las erogaciones necesarias para la correcta administración, operación, mantenimiento, conservación y modernización de dichos inmuebles.
+
 ###### Artículo 152.
 
 Por los servicios prestados por la Secretaría de Finanzas y Planeación se pagarán los siguientes productos:
@@ -3331,7 +3343,7 @@ V. Por la ejecución de programas para la actualización del padrón catastral g
 
 VI. Por el levantamiento perimetral de un predio urbano o suburbano de localidades catastradas, con plano tamaño carta a escala variable, por metro cuadrado resultante:
 
-a) Hasta 300 m2. .033 salarios mínimos
+a) Hasta 300 m2. 0.033 salarios mínimos
 
 b) El excedente de 301 a 500 m2. 0.027 salarios mínimos
 
@@ -4608,6 +4620,10 @@ Las dependencias deberán respetar la distribución presupuestal autorizada por 
 Las dependencias serán responsables de llevar un estricto control de las disponibilidades de recursos en sus respectivas cuentas bancarias de radicación de fondos autorizadas por la Secretaría.
 
 Asimismo, serán responsables por los cargos financieros causados por no cubrir oportunamente adeudos contraídos, salvo causas justificadas, dictaminadas por la unidad administrativa y la Contraloría, a través del órgano interno de control. El dictamen contendrá, en su caso, las causas que justifiquen eximir de responsabilidad a los titulares de las unidades administrativas por cargos financieros.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+Tratándose de los pagos que la Secretaría efectúe a través de la Tesorería, se estará a lo dispuesto por el artículo 233 de este Código.
 
 ###### Artículo 193.
 
@@ -5935,7 +5951,7 @@ DECRETO QUE REFORMA LA FRACION VI DEL ARTICULO 1358 DEL CODIGO MUNICIPAL DE AGUA
 
 ### CAPÍTULO SEGUNDO. DE LOS PAGOS Y MINISTRACIONES
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2004)</small>
 
 ###### ARTÍCULO 360.
 
@@ -6193,7 +6209,7 @@ Procedimiento
 
 ###### Artículo 233.
 
-La Secretaría, a través de la Tesorería, efectuará los pagos centralizados que, con cargo al presupuesto del Estado, tramiten las unidades administrativas de las dependencias y entidades, en función de sus disponibilidades financieras y del calendario financiero autorizado.
+La Tesorería de la Secretaría, atendiendo a las disponibilidades de recursos financieros con las que se cuente, efectuará los pagos de las obligaciones principales y accesorias a cargo del Gobierno del Estado, incluyendo las que tramiten las unidades presupuestales.
 
 ###### Artículo 234.
 
@@ -6208,6 +6224,8 @@ Todo pago o salida de valores se registrará en la contabilidad de la Secretarí
 Las unidades administrativas solamente autorizarán el pago de anticipos que estén previstos en las disposiciones legales aplicables.
 
 ### CAPÍTULO CUARTO. DE LAS GARANTÍAS A FAVOR O A CARGO DEL ESTADO
+
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2004)</small>
 
 ###### ARTÍCULO 369.
 
@@ -6269,11 +6287,9 @@ Las personas detenidas en el Centro de Detención Preventiva Municipal, tienen d
 
 ###### Artículo 238.
 
-La Secretaría establecerá los lineamientos generales para el otorgamiento de las garantías que deban constituirse a favor del Gobierno del Estado en los actos y contratos que celebren las dependencias y entidades.
+La Secretaría podrá establecer lineamientos generales para el otorgamiento de pólizas de fianzas que garanticen obligaciones no fiscales que deban constituirse a favor del Gobierno del Estado, en los actos y contratos que celebren las dependencias y entidades que integran el Poder Ejecutivo.
 
-El Gobierno del Estado, a través de la Secretaría, será el beneficiario de todas las garantías que se otorguen a su favor.
-
-Corresponde a las unidades administrativas conservar la documentación respectiva y, en su caso, remitirla a la Secretaría para que ésta proceda a ejercitar los derechos que correspondan al gobierno estatal, a cuyo efecto y con la debida oportunidad se le presentará la información y documentación necesarios.
+Corresponde a las unidades administrativas o equivalentes de las dependencias y entidades conservar la documentación respectiva y, en su caso, remitirla a la Secretaría para que ésta proceda a ejercitar los derechos que correspondan al Gobierno del Estado, a cuyo efecto y con la debida oportunidad, se le presentará la información y documentación necesarios.
 
 ###### Articulo 239.
 
@@ -6281,11 +6297,15 @@ El Gobierno del Estado está exento de otorgar garantías y depósitos para el c
 
 Tratándose de deuda pública, la Secretaría otorgará las garantías y avales a cargo del gobierno estatal mediante la suscripción, en términos de su competencia, de los documentos que las constituyan y, cuando así proceda, promoverá la oportuna cancelación de dichas obligaciones.
 
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 240.
 
-La Secretaría, directamente o por conducto de los facultados legalmente para ello, calificará, aceptará, registrará, conservará en guarda y custodia, sustituirá, cancelará, devolverá y hará efectivas, según proceda, las garantías que se otorguen a favor del gobierno estatal.
+Las dependencias y entidades, a través de su Unidad Administrativa o equivalente, calificarán, aceptarán, registrarán, conservarán en guarda y custodia y sustituirán, según proceda, las pólizas de fianza que garanticen obligaciones no fiscales otorgadas a favor del Gobierno del Estado.
 
-Las autoridades judiciales, ante quienes se constituyan fianzas de garantía, realizarán los actos señalados en el párrafo anterior, excepto hacerlas efectivas o efectuar su aplicación, lo cual se llevará a cabo por la Secretaría directamente.
+La Secretaría tendrá facultades exclusivas para cancelar o hacer efectivas y aplicar, según proceda, las pólizas de fianza que garanticen obligaciones no fiscales a que se refiere el párrafo anterior.
+
+Las pólizas de fianza otorgadas a favor de autoridades judiciales que hayan garantizado obligaciones en los procesos que se substancien ante ellas y se tornen exigibles, se remitirán de forma inmediata a la Secretaría para hacerlas efectivas, adjuntando la documentación que establezcan los ordenamientos legales de la materia.
 
 ###### Artículo 241.
 
@@ -6293,11 +6313,13 @@ Las garantías que aseguren el interés fiscal, se otorgarán a favor de la Secr
 
 Las fianzas para asegurar el interés fiscal que expidan instituciones autorizadas, registrarán, invariablemente, como beneficiaria a la Secretaría.
 
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 242.
 
-Las garantías que reciban las dependencias por contratos administrativos, en concursos de obras y adquisiciones, anticipos, permisos, autorizaciones, concesiones y otras obligaciones de naturaleza no fiscal, se otorgarán a nombre del "Gobierno del Estado de Veracruz de Ignacio de la Llave, Secretaría de Finanzas y Planeación"; y se constituirán conforme a las formalidades que señalen las disposiciones legales aplicables.
+Las pólizas de fianza que reciban las dependencias y entidades por contratos administrativos, en materia de obras pública (sic) y adquisiciones, anticipos, permisos, autorizaciones, concesiones y otras obligaciones de naturaleza no fiscal, considerarán como único beneficiario al Gobierno del Estado de Veracruz de Ignacio de la Llave, y se constituirán conforme a las formalidades que señalen las disposiciones legales aplicables.
 
-Las fianzas a que alude el párrafo anterior se podrán hacer efectivas por la Secretaría o por conducto de los legalmente facultados, con sujeción a los procedimientos que establezcan los ordenamientos legales de la materia.
+Las fianzas a que alude el párrafo anterior se harán efectivas por la Secretaría, con sujeción a los procedimientos que establezcan los ordenamientos legales de la materia.
 
 ###### Artículo 243.
 
@@ -6740,6 +6762,10 @@ IV. Balanza de Comprobación;
 V. Estado de Avance Presupuestal, y
 
 VI. Estado de la Deuda Pública.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+La información financiera que la Secretaría consolidará con respecto a los fideicomisos en los que tenga el carácter de Fideicomitente, será la que generen las instituciones que tengan a su cargo la encomienda fiduciaria, misma que se integrará por el informe de ingreso y gasto del periodo correspondiente.
 
 ###### Artículo 277.
 
@@ -7409,11 +7435,13 @@ La administración de los panteones, deberá tener vigilancia las 24 horas del d
 
 Sólo se concertarán créditos para programas aprobados e incluidos en los presupuestos de las dependencias y entidades, previa autorización del Congreso. Estos créditos se contratarán por conducto de la Secretaría.
 
-(REFORMADO PRIMER PARRAFO, G.O. 24 DE JULIO DE 2003) (F. DE E., G.O. 1 DE AGOSTO DE 2003)
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 312.
 
-El presente Libro regula las operaciones de endeudamiento relativas a las bases para la concertación, contratación y reestructuración de las diversas opciones de financiamiento, a los requisitos para emitir valores, tales como bonos, obligaciones de deuda, certificados bursátiles, pagarés y a la celebración de actos jurídicos análogos a los anteriores en los que el Estado asuma obligaciones directas o contingentes, que se destinen al establecimiento de inversiones públicas productivas o para el desarrollo de acciones encaminadas a la obtención de beneficios sociales.
+El presente libro regula las operaciones de endeudamiento relativas a las bases para la concertación, contratación y reestructuración de las diversas operaciones de financiamiento, a los requisitos para emitir valores, tales como bonos, obligaciones de deuda, certificados bursátiles, pagarés y a la celebración de actos jurídicos análogos a los anteriores en los que el Estado asuma obligaciones directas o contingentes, que se destinen al establecimiento de las inversiones públicas productivas enunciadas en el artículo 316 de este Código.
+
+> <small>(F. DE E., G.O. 11 DE AGOSTO DE 2004)</small>
 
 Asimismo, considera la contratación de operaciones destinadas a cubrir necesidades urgentes de liquidez, a enfrentar situaciones imprevisibles de la economía nacional o estatal y a sufragar las erogaciones que debieran efectuarse en virtud de algún acontecimiento futuro e incierto que alterare la planeación financiera del Estado.
 
@@ -7431,9 +7459,11 @@ Los municipios y sus entidades estarán sujetos a las disposiciones de la Ley de
 
 La deuda pública de los municipios y sus entidades será aquella que derive de operaciones de endeudamiento que, para cumplir con los objetivos encomendados, celebren estos o sus propias entidades, pudiendo el Gobierno del Estado concurrir como deudor solidario o aval. En este caso, la deuda pública municipal estará regulada por las disposiciones de este Código y demás aplicables.
 
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 316.
 
-Las operaciones de endeudamiento que, previo cumplimiento de los requisitos detallados por este Código, asuma el Estado y los municipios, por sí o por sus entidades, se destinarán al establecimiento de inversiones públicas productivas, entendiéndose como tales, aquellas creadas para la ejecución de obras, adquisición o manufactura de bienes y prestación de servicios, que produzcan directa o indirectamente un incremento en los ingresos del Estado, o tengan un clara repercusión en beneficio de la sociedad y de la economía local.
+Las operaciones de endeudamiento que, previo cumplimiento de los requisitos detallados por este Código, asuma el Estado, por sí o por sus entidades, se destinarán a inversiones públicas productivas, entendiéndose como tales, la ejecución de obras, acciones, adquisiciones o manufacturas de bienes y prestación de servicios que puedan producir directa o indirectamente un ingreso para el Estado, incluyendo además, las acciones que se destinen para apoyar el gasto público en materia de educación, salud y asistencia, comunicaciones, desarrollo regional, fomento agropecuario, seguridad pública y combate a la pobreza extrema, que fomenten el crecimiento económico y la equidad social.
 
 ###### Artículo 317.
 
@@ -8140,3 +8170,13 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Los procedimientos de rescisión de contratos de obra pública iniciados en fecha anterior a la entrada en vigor de este decreto deberán sustanciarse y concluirse conforme a las bases que los sustentaron.
 
 Tercero.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+G.O. 10 DE AGOSTO DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO. Las pólizas de fianza no fiscales otorgadas a favor de las dependencias y entidades del Poder Ejecutivo del Estado en fecha anterior al inicio de vigencia de este Decreto, observarán las disposiciones legales aplicables al momento de su emisión.
+
+CUARTO. Los Fideicomisos Públicos vigentes continuarán desempeñando las funciones que tienen encomendadas, bajo la dirección del Comité Técnico creado por virtud de su Decreto Constitutivo o, en su caso, de su Contrato de Fideicomiso.
