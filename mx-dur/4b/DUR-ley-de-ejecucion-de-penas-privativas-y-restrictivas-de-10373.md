@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-10373"
 country: "mx"
 rank: "ley"
 publication_date: "1971-06-10"
-last_updated: "1998-12-27"
+last_updated: "1999-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LIBERTAD DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1999.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 10 de junio de 1971.
 
@@ -367,7 +367,7 @@ Los reos de buena conducta tendrán derechos (sic) a que los visite su esposa o 
 
 DE LAS LIBERACIONES.
 
-### CAPITULO PRIMERO.
+### CAPITULO PRIMERO
 
 LIBERTAD PREPARATORIA Y RETENCION.
 
@@ -391,7 +391,7 @@ Cuando a juicio del Ejecutivo se demuestre la insolvencia económica del solicit
 
 VI.- Que el agraciado con la libertad preparatoria resida en el lugar que se determine y del cual no podrá ausentarse sin el permiso del Departamento de Prevención Social. La designación se hará conciliando la circunstancia de que el reo pueda proporcionarse trabajo en el lugar que se le fije, como el hecho de que su permanencia en él no sea un obstáculo para su enmienda.
 
-> <small>(N. DE E. POR DECRETO No. 61, PUBLICADO EN EL P.O. No. 52 DE FECHA 27 DE DICIEMBRE DE 1998, SE REFORMA EL DECRETO No. 429 PUBLICADO EN EL P.O. DE 5 DE ABRIL DE 1998, DEJANDO EN SUSPENSO LA VIGENCIA DEL PRESENTE ARTICULO EXCLUSIVAMENTE EN LO QUE SE REFIERE AL DELITO DE ROBO CALIFICADO, A FAVOR DE LOS INTERNOS SENTENCIADOS POR DICHO DELITO CON FECHA ANTERIOR AL 14 DE SEPTIEMBRE DE 1999, SIEMPRE Y CUANDO SE ENCUENTREN COMPURGANDO LA SANCION CORRESPONDIENTE)</small>
+> <small>(N. DE E. POR DECRETO No. 220, PUBLICADO EN EL P.O. No. 51 DE FECHA 23 DE DICIEMBRE DE 1999, SE REFORMA EL DECRETO No. 61 PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 1998, DEJANDO EN SUSPENSO LA VIGENCIA DEL PRESENTE ARTICULO EXCLUSIVAMENTE EN LO QUE SE REFIERE AL DELITO DE ROBO CALIFICADO, A FAVOR DE LOS INTERNOS SENTENCIADOS POR DICHO DELITO CON FECHA ANTERIOR AL 14 DE SEPTIEMBRE DE 2000, SIEMPRE Y CUANDO SE ENCUENTREN COMPURGANDO LA SANCION CORRESPONDIENTE)</small>
 
 ###### Artículo 55.
 
@@ -623,6 +623,10 @@ P.O. 5 DE ABRIL DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-P.O. 27 DE DICIEMBRE DE 1998
+P.O. 27 DE DICIEMBRE DE 1998.
 
 ÚNICO.- El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE DICIEMBRE DE 1999.
+
+ÚNICO.- El presente Decreto entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Estado.
