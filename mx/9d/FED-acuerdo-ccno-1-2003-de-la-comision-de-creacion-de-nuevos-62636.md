@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-1-2003-de-la-comision-de-creacion-de-nuevos-62636"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-01-30"
-last_updated: "2003-01-30"
+last_updated: "2003-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-01-23"
 
 ACUERDO CCNO/1/2003, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA EXTENSION DEL LAPSO EN EL QUE SE MODIFICA DE MANERA TEMPORAL LA COMPETENCIA DE LOS TRIBUNALES COLEGIADOS EN MATERIAS ADMINISTRATIVA Y DE TRABAJO, ASI COMO EN MATERIA PENAL, DEL SEPTIMO CIRCUITO, CON RESIDENCIA EN BOCA DEL RIO, VERACRUZ; Y ESTABLECE LAS REGLAS DE RECEPCION Y TURNO DE ASUNTOS NUEVOS DE LOS CITADOS TRIBUNALES COLEGIADOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE MARZO DE 2003.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de enero de 2003.
 
@@ -51,6 +51,8 @@ ACUERDO
 
 PRIMERO.- Se extiende el lapso establecido en el Acuerdo General 46/2002 del Pleno del Consejo de la Judicatura Federal, mediante el cual se modifica de manera temporal la competencia de los tribunales colegiados en materias administrativa y de trabajo, así como en materia penal, del Séptimo Circuito, con residencia en Boca del Río, Veracruz; y establece las reglas de recepción y turno de asuntos nuevos en los citados tribunales colegiados.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/2/2003, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 5 DE MARZO DE 2003, SE PRORROGA EL LAPSO TEMPORAL DE COMPETENCIA DEL 1 DE MARZO AL 30 DE ABRIL DE 2003.</small>
+
 El periodo de extensión comprenderá del uno al veintiocho de febrero de dos mil tres, subsistiendo en sus términos los demás puntos del referido Acuerdo General 46/2002.
 
 SEGUNDO.- Al finalizar la extensión del lapso otorgada, los presidentes de los tribunales colegiados de que se trata deberán informar sobre los movimientos estadísticos que hayan tenido los órganos jurisdiccionales, a la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, la que resolverá cualquier cuestión administrativa que se suscite con motivo de la aplicación del presente acuerdo.
@@ -62,3 +64,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO CESAR THOME GONZALEZ, SECRETARIO EJECUTIVO DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/1/2003, de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, Relativo a la Extensión del Lapso en el que se Modifica de Manera Temporal la Competencia de los Tribunales Colegiados en Materias Administrativa y de Trabajo, así como en Materia Penal, del Séptimo Circuito, con residencia en Boca del Río, Veracruz; y Establece las Reglas de Recepción y Turno de Asuntos Nuevos de los citados Tribunales Colegiados, fue aprobado por la propia Comisión en sesión privada ordinaria celebrada el veintitrés de enero de dos mil tres, por los señores Consejeros: Presidente Interino Manuel Barquín Alvarez y Sergio Armando Valls Hernández.- México, Distrito Federal, a veintitrés de enero de dos mil tres.- Conste.- Rúbrica.
+
+N. DE .E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMA AL PRESENTE ORDENAMIENTO.
+
+D.O.F. 5 DE MARZO DE 2003.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
