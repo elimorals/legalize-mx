@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-instituto-estatal-de-la-vivienda-popular-4818"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "1990-12-11"
+last_updated: "1996-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY QUE CREA EL INSTITUTO ESTATAL DE LA VIVIENDA POPULAR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 1996.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el miércoles 31 de diciembre de 1975.
 
@@ -165,11 +165,15 @@ I.- El Consejo de Administración;
 
 II.- El Director;
 
-III.- El Subdirector del Area de vivienda Popular;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1996)</small>
 
-IV.- El Subdirector del Area Inmobiliaria;
+III.- Los Subdirectores Técnico y de Vivienda, de Finanzas y Control, de Promoción y, de Operaciones Internas; y
 
-V.- El personal necesario para realizar sus funciones.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1996)</small>
+
+IV.- El personal necesario para realizar sus funciones.
+
+V.- (DEROGADA, P.O. 16 DE ABRIL DE 1996)
 
 ###### ARTICULO SEXTO.
 
@@ -185,23 +189,31 @@ El Director y los Subdirectores de Area del Instituto serán designados y removi
 
 El Consejo de Administración del Instituto se integrará de la siguiente forma:
 
-I.- Por un Presidente, que será el Gobernador Constitucional del Estado o la persona que él designe;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1996)</small>
 
-II.- Por un Secretario, que será nombrado por el C. Gobernador Constitucional del Estado; y
+I.- Por un Presidente, que será el Secretario de Desarrollo Social del Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1996)</small>
 
-III.- Por cinco vocales que serán:
+II.- Por un Secretario, que será el Director del Instituto Estatal de la Vivienda Popular; y
 
-a).- El Secretario de Desarrollo Urbano y Obras Públicas;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1996)</small>
+
+III.- Por siete Vocales, que serán:
+
+a).- El Secretario de Gobierno;
 
 b).- El Secretario de Finanzas;
 
-c).- El Secretario de Programación y Desarrollo;
+c).- El Secretario de Comunicaciones y Obras Públicas;
 
-d).- El Secretario de Salud; y
+d).- El Secretario de Fomento Económico;
 
-e).- El Secretario de Desarrollo Rural.
+e).- El Secretario de la Contraloría y Modernización Administrativa;
+
+f).- El Secretario de Salud y Desarrollo Comunitario; y
+
+g).- El Secretario Ejecutivo de la Comisión Estatal para la Regularización de la Tenencia de la Tierra Urbana en Coahuila.
 
 Los Vocales designarán un suplente de entre las personas que laboren en sus respectivas dependencias.
 
@@ -490,3 +502,9 @@ El presente Decreto entrará en vigor a partir del día siguiente de su publicac
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE ABRIL DE 1996.
+
+PRIMERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
