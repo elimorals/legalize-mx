@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-la-contaduria-mayor-de-hacienda-del-estado-8232
 country: "mx"
 rank: "ley_organica"
 publication_date: "1964-04-30"
-last_updated: "1964-04-30"
+last_updated: "1974-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE DICIEMBRE DE 1974.
 
 Ley publicada en el Diario Oficial el Jueves 30 de Abril de 1964.
 
@@ -63,9 +63,11 @@ La Contaduría Mayor de Hacienda tendrá entre sus funciones las de absolver las
 
 FUNCIONES Y ATRIBUCIONES.
 
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### Artículo 5.
 
-El Contador Mayor de Hacienda enviará al Congreso del Estado las cuentas de los caudales públicos y el resultado de la glosa de las mismas que debe presentar durante el año el Ejecutivo del Estado, para los efectos de la fracción VI del artículo 30 de la Constitución Política del Estado, durante el primero o segundo periodos de sesiones ordinarias.
+El Contador Mayor de Hacienda enviará al Congreso del Estado las cuentas a que se contrae la fracción VI del artículo 30 de la Constitución Política del Estado, en cualesquiera de los períodos ordinarios o extraordinarios a que dicha fracción se refiere, no pudiendo en caso alguno exceder del término de seis meses, las cuentas que corresponda examinar.
 
 ###### Artículo 6.
 
@@ -99,13 +101,15 @@ Las Oficinas comprendidas en esta Ley, enviarán su cuenta mensual a la Contadur
 
 La forma de rendir las cuentas se sujetará a las disposiciones del Reglamento de esta Ley y a las instrucciones que sobre el particular sugiera la Contaduría Mayor de Hacienda, cuyos empleados y funcionarios están obligados a guardar reserva acerca de los datos e informes de que tengan conocimiento en el desempeño de su encargo.
 
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### Artículo 14.
 
-La Contaduría Mayor de Hacienda, dentro del plazo de seis meses, practicará la revisión y glosa de las cuentas que reciba, pero si este plazo no le fuere suficiente en algún caso, lo hará del conocimiento del Congreso del Estado, dándole a conocer las razones que tenga para ello, a fin de que resuelva lo que estime procedente.
+La Contaduría Mayor de Hacienda, dentro del plazo máximo de tres meses, practicará la revisión y glosa de las cuentas que reciba; pero si este plazo no fuere suficiente en algún caso, lo hará del conocimiento del Congreso del Estado, dándole a conocer las razones que tenga para ello, a fin de que resuelva lo que estime procedente.
 
 ###### Artículo 15.
 
-Si para el ejercicio de las facultades que otorgan a la Contaduría Mayor de Hacienda los artículos 6, 7 y 8, los Jefes de las Oficinas correspondientes, no otorgan a sus comisionados las facilidades necesarias para el desempeño de su función, el Contador Mayor lo hará del conocimiento del Congreso del Estado, proponiendo la sanción que deba imponerse al remiso, que podrá ser multa hasta de dos mil pesos.
+Si para el ejercicio de las facultades que otorgan a la Contaduría Mayor de Hacienda los artículos 6,7 y 8, los Jefes de las Oficinas correspondientes, no otorgan a sus comisionados las facilidades necesarias para el desempeño de su función, el Contador Mayor lo hará del conocimiento del Congreso del Estado, proponiendo la sanción que deba imponerse al remiso, que podrá ser multa hasta de dos mil pesos.
 
 ### CAPITULO III.
 
@@ -196,3 +200,11 @@ LUIS TORRES MESIAS
 El Secretario General,
 
 JULIO BOBADILLA PEÑA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 23 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
