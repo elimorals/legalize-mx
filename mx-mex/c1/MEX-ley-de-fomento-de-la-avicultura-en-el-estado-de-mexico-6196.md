@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fomento-de-la-avicultura-en-el-estado-de-mexico-6196"
 country: "mx"
 rank: "ley"
 publication_date: "1956-11-24"
-last_updated: "1956-11-24"
+last_updated: "1961-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE FOMENTO DE LA AVICULTURA EN EL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE ENERO DE 1961.
 
 Ley publicada en el Número 42 de la Gaceta del Gobierno del Estado de México, el sábado 24 de noviembre de 1956.
 
@@ -193,7 +193,9 @@ V.- Concesiones o contratos para abastecimiento, servicios u obras de carácter 
 
 VI.- Subsidios en efectivo o en especie destinados al fomento avícola;
 
-VII.- Exenciones de impuestos y derechos pertenecientes al Estado, hasta por 10 años; y
+> <small>(REFORMADA, G.G. 4 DE ENERO DE 1961)</small>
+
+VII.- Exención del 25% de los impuestos pertenecientes al Estado, por término que en cada caso acuerda el Ejecutivo.
 
 VIII.- Cualesquiera otras prerrogativas o franquicias que de acuerdo con las leyes el Ejecutivo pueda conceder, siempre que redunden en el mejor desarrollo de la avicultura.
 
@@ -258,3 +260,11 @@ Ing. SALVADOR SANCHEZ COLIN
 El Secretario General de Gobierno,
 
 MALAQUIAS HUITRON
+
+> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 4 DE ENERO DE 1961.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 19 DE LA H. LEGISLATURA LOCAL, REFORMANDO LA FRACCIÓN VII DEL ARTÍCULO 13 DE LA LEY DE FOMENTO A LA AVICULTURA DEL ESTADO DE MÉXICO".]
+
+Artículo Transitorio.- El Presente decreto entrará en vigor el día siguiente al de su publicación en la "Gaceta del Gobierno".
