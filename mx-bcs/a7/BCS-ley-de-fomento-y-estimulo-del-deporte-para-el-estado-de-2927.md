@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-fomento-y-estimulo-del-deporte-para-el-estado-de-2927"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-20"
-last_updated: "1995-06-20"
+last_updated: "1999-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2927&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE FOMENTO Y ESTIMULO DEL DEPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 1999.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de junio de 1995.
 
@@ -45,9 +45,11 @@ LEY DE FOMENTO Y ESTIMULO DEL DEPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
 Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto establecer el Sistema Estatal del Deporte, para garantizar, en igualdad de condiciones y oportunidades el acceso de la población del Estado de Baja California Sur en la práctica, conocimiento y desarrollo del deporte.
 
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1999)</small>
+
 ###### Art. 2.
 
-El Sistema Estatal del Deporte, está constituido por el conjunto de acciones, recursos, métodos y procedimientos destinados a impulsar, fomentar y desarrollar el deporte a nivel estatal y se llevarán a cabo por el Ejecutivo del Estado a través del Instituto Sudcaliforniano de la Juventud y el Deporte, así como por los Ayuntamientos a través de sus órganos administrativos correspondientes y mediante el convenio a que se refiere el artículo 9.
+El Sistema Estatal del Deporte, está constituido por el conjunto de acciones, recurso, métodos y procedimientos destinados a impulsa (sic), fomentar y desarrollar el deporte en el ámbito estatal y se llevarán a cabo por el Ejecutivo del Estado a través del Instituto Sudcaliforniano del Deporte, así como por los Ayuntamientos a través de sus órganos administrativos correspondientes y mediante el convenio a que se refiere el artículo 9.
 
 ###### Art. 3.
 
@@ -75,9 +77,11 @@ VII.- Planear, mediante diagnóstico, las necesidades deportivas del Estado en t
 
 La actividad deportiva de carácter profesional y las que se promuevan, organicen, desarrollen y participen con fines lucrativos, no se consideran reguladas por el Sistema Estatal del Deporte, debiendo estarse a lo que establece esta ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE JUNIO DE 1999)</small>
+
 ###### Art. 6.
 
-El Ejecutivo del Estado, tendrá a su cargo el Sistema Estatal del Deporte y ejercerá sus atribuciones en la materia a través del Instituto Sudcaliforniano de la Juventud y el Deporte, con las siguientes facultades:
+El Ejecutivo del Estado, tendrá a su cargo el Sistema Estatal del Deporte y ejercerá sus atribuciones en la materia a través del Instituto Sudcaliforniano del Deporte, con las siguientes facultades:
 
 I.- Coordinar sus acciones, acuerdos y programas a través del Sistema Estatal del Deporte.
 
@@ -109,9 +113,11 @@ III.- Otorgar estímulos y apoyos a dependencias, organizaciones deportivas, ins
 
 IV.- Prever que las personas con discapacidad tengan las facilidades para realizar adecuadamente sus actividades deportivas.
 
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1999)</small>
+
 ###### Art. 9.
 
-La incorporación de los Municipios al Sistema Estatal del Deporte, se hará mediante la celebración de convenios de concertación y coordinación a través del Instituto sudcaliforniano de la Juventud y el Deporte.
+La incorporación de los Municipios al Sistema Estatal del Deporte, se hará mediante la celebración de convenios de concertación y coordinación a través del Instituto Sudcaliforniano del Deporte.
 
 ### CAPITULO III. DE LA PARTICIPACION DE LOS SECTORES SOCIAL Y PRIVADO EN EL SISTEMA ESTATAL DEL DEPORTE
 
@@ -207,9 +213,11 @@ El Programa Estatal del Deporte tendrá carácter anual y determinará los objet
 
 En apego al Sistema Estatal de Planeación, las personas físicas o morales, deportistas, organismos, dependencias, sectores y organizaciones registradas en el Sistema Estatal del Deporte, podrán participar en la elaboración del Programa Estatal; siempre que lo hagan conforme a lo estipulado en esta Ley y su Reglamento, así como en los estatutos y reglamentos de su propio deporte u organización.
 
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1999)</small>
+
 ###### Art. 19.
 
-El deportista participará de acuerdo a las convocatorias que para tal efecto expida el Ejecutivo Estatal a través del Instituto Sudcaliforniano de la Juventud y el Deporte, así como por los Municipios a través de sus órganos administrativos, en los términos de esta Ley y disposiciones reglamentarias de la misma.
+El deportista participará de acuerdo a las convocatorias que para tal efecto expida el Ejecutivo Estatal a través del Instituto Sudcaliforniano del Deporte, así como por los Municipios a través de sus órganos administrativos, en los términos de esta Ley y disposiciones reglamentarias de la misma.
 
 ### CAPITULO VI. DEL DEPORTE REMUNERADO
 
@@ -257,13 +265,17 @@ Se declara de interés público la construcción, conservación, mantenimiento, 
 
 Con el propósito de obtener el máximo aprovechamiento de las instalaciones deportivas públicas estatales, estarán bajo el control y autoridad del Instituto Sudcaliforniano de la Juventud y el Deporte.
 
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1999)</small>
+
 ###### Art. 28.
 
-El Ejecutivo del Estado, a través del Instituto Sudcaliforniano de la Juventud y el Deporte y los Ayuntamientos, determinarán las prioridades de espacio para las instalaciones que se destinen a la práctica deportiva y recreación pública, en concordancia con las normas de Desarrollo Urbano del Estado.
+El Ejecutivo del Estado, a través del Instituto Sudcaliforniano del Deporte y los Ayuntamientos, determinarán las prioridades de espacio para las instalaciones que se destinen a la práctica deportiva y recreación, en concordancia con las normas de Desarrollo Urbano del Estado.
+
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1999)</small>
 
 ###### Art. 29.
 
-Las instalaciones deportivas y recreativas de propiedad privada, destinadas al uso del público en general, deberán contar con el dictamen técnico que emita el Instituto Sudcaliforniano de la Juventud y el Deporte sobre la idoneidad para la práctica del deporte de que se trate. Quienes infrinjan este ordenamiento serán sancionados conforme a esta ley y su reglamento.
+Las instalaciones deportivas y recreativas de propiedad privada destinadas al uso del público en general, deberán contar con el dictamen técnico que emita el Instituto Sudcaliforniano del Deporte sobre la idoneidad para práctica del deporte de que se trate. Quienes infrinjan este ordenamiento serán sancionados conforme a esta ley y su reglamento.
 
 ###### Art. 30.
 
@@ -285,9 +297,11 @@ En la construcción de instalaciones deportivas, deberá tomarse en cuenta las n
 
 En las instalaciones existentes y las que se construyan se acondicionaran espacios para la realización del deporte adaptado o de discapacitados.
 
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1999)</small>
+
 ###### Art. 35.
 
-En los términos de esta ley y su reglamento el Instituto Sudcaliforniano de la Juventud y el Deporte prohibirá el uso de cualquier instalación deportiva cuando no cuente con el dictamen técnico de dicho organismo.
+En los términos de esta ley y su reglamento el Instituto Sudcaliforniano del Deporte prohibirá el uso de cualquier instalación deportiva cuando no cuente con el dictamen técnico de dicho organismo.
 
 ### CAPITULO IX. DEL FOMENTO Y ESTIMULO AL DEPORTE
 
@@ -321,9 +335,11 @@ XII.- Los discapacitados dispondrán de los espacios adecuados para el pleno des
 
 XIII.- Los demás que le otorguen esta ley u otros ordenamientos legales aplicables a cada caso.
 
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1999)</small>
+
 ###### Art. 37.
 
-Los estímulos y apoyos a que se refiere este capítulo estarán a cargo del Sistema Estatal del Deporte por conducto del Instituto Sudcaliforniano de la Juventud y del Deporte.
+Los estímulos y apoyos a que se refiere este capítulo estarán a cargo del Sistema Estatal del Deporte por conducto del Instituto Sudcaliforniano del Deporte.
 
 ###### Art. 38.
 
@@ -345,37 +361,49 @@ e).- Gestoría; y
 
 f).- Distinciones meritorias y su difusión pública.
 
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1999)</small>
+
 ###### Art. 40.
 
-Los apoyos se otorgaran conforme a las bases que establezca el Instituto Sudcaliforniano de la Juventud y el Deporte.
+Los apoyos se otorgarán conforme a las bases que establezca el Instituto Sudcaliforniano del Deporte.
 
 ###### Art. 41.
 
 Los procedimientos para el otorgamiento de estímulos y apoyos, se establecerán en el Reglamento de esta Ley.
 
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1999)</small>
+
 ###### Art. 42.
 
-El Instituto Sudcaliforniano de la Juventud y el Deporte promoverá las acciones necesarias para la formación, capacitación, actualización y especialización en el país o en el extranjero de los recursos humanos para la enseñanza y la práctica del deporte.
+El Instituto Sudcaliforniano del Deporte promoverá acciones necesarias para la formación, capacitación, actualización en el país o en el extranjero de los recursos humanos para enseñanza y la práctica del deporte.
 
 ###### Art. 43.
 
 Los prospectos selectivos podrán ser becados en las instituciones educativas o deportivas más apropiadas para su desarrollo o bien por medio de cursos de capacitación que les permitan integrarse como técnicos o auxiliares en el marco del Sistema Estatal del Deporte.
 
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1999)</small>
+
 ###### Art. 44.
 
-El Instituto Sudcaliforniano de la Juventud y el Deporte promoverá, con la participación de los sectores Social y Privado, la constitución de un Fondo Estatal del Deporte, para apoyar el desarrollo deportivo en la Entidad. En dicho Fondo podrán participar Fideicomisos o Patronatos y demás figuras jurídicas apropiadas a este objetivo.
+El Instituto Sudcaliforniano del Deporte promoverá con la participación de los sectores social y privado, la constitución de un Fondo Estatal del Deporte, para apoyar el desarrollo deportivo en la Entidad. En dicho Fondo podrán participar Fideicomisos o Patronatos y demás figuras jurídicas apropiadas a este objetivo.
+
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1999)</small>
 
 ###### Art. 45.
 
-El Instituto Sudcaliforniano de la Juventud y el Deporte instituirá, con la participación de los sectores Privado y Social, el Premio Estatal del Deporte en sus diferentes variantes y modalidades, las que se especificarán en el Reglamento de esta Ley.
+El Instituto Sudcaliforniano del Deporte instituirá, con la participación de los sectores privado social, el premio Estatal del Deporte en sus diferentes variantes y modalidades, las que se especificarán en el Reglamento de esta Ley.
 
 ### CAPITULO X. DE LAS SANCIONES ADMINISTRATIVAS Y DE LOS RECURSOS
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE JUNIO DE 1999)</small>
+
 ###### Art. 46.
 
-La aplicación de sanciones por infracciones a esta Ley y su Reglamento y demás disposiciones legales aplicables, corresponde:
+La aplicación de sanciones por concepto de infracciones a la presente Ley, su Reglamento y demás disposiciones legales aplicables, corresponde:
 
-I.- Al Instituto Sudcaliforniano de la Juventud y el Deporte;
+> <small>(REFORMADA, B.O. 20 DE JUNIO DE 1999)</small>
+
+I.- Al Instituto sudcaliforniano del deporte;
 
 II.- Las autoridades deportivas municipales en el ámbito de su competencia y;
 
@@ -478,3 +506,35 @@ LIC. GUILLERMO MERCADO ROMERO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. RAUL ANTONIO ORTEGA SALGADO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 20 DE JUNIO DE 1999.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría General de Gobierno de los recursos financieros asignados al Instituto Sudcaliforniano de la Juventud y el Deporte para el área de Atención a la Juventud (CAUSA JOVEN) transferirá su totalidad para el inicio de actividades del Instituto Sudcaliforniano de la Juventud, asimismo transferirá los recursos materiales y humanos que se encuentran asignados a dicha área, en un plazo no mayor de 30 días a partir de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El titular del Ejecutivo Estatal deberá designar al Director General del Instituto Sudcaliforniano de la Juventud, en un plazo no mayor de 15 días, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los derechos laborales que pudieran verse afectados por lo dispuesto en el presente Decreto, serán resueltos conforme a la Ley aplicable.
+
+###### ARTÍCULO QUINTO.
+
+El Reglamento Interior del Instituto Sudcaliforniano de la Juventud, se expedirá a más tardar en 60 días contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+El Reglamento Interior del Instituto Sudcaliforniano del Deporte se adecuará en virtud del presente decreto, en un plazo que no excederá de 60 días contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se deroga el decreto número 714, por el que se creó e Instituto de la Juventud y el Deporte en el Estado de Baja California Sur, de fecha 25 de mayo de 1989, publicado en el Boletín Oficial del Gobierno del Estado el día 5 de julio del mismo año.
