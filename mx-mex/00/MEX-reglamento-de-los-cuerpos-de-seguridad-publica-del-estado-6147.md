@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-los-cuerpos-de-seguridad-publica-del-estado-6147"
 country: "mx"
 rank: "reglamento"
 publication_date: "1987-06-09"
-last_updated: "1987-06-09"
+last_updated: "1998-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LOS CUERPOS DE SEGURIDAD PUBLICA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 1998.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 9 de junio de 1987.
 
@@ -211,9 +211,11 @@ Los "Teccallis", podrán proporcionar a la población, servicios adicionales a l
 
 Los uniformes de las diversas corporaciones de Seguridad Pública en el Estado, tendrán características diferentes con el objeto de hacer fácilmente identificables a los elementos de cada una de ellas.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 1998)</small>
+
 ###### ARTICULO 20.
 
-Los uniformes, insignias de grado, escudos y gafetes de identificación de los elementos de Seguridad Pública Estatal tendrán las características contenidas en su manual interno de operación, pero se distinguirán de otras corporaciones por sus colores exclusivos que serán el azul marino y blanco.
+Los uniformes, insignias de grado, escudos y gafetes de identificación de los elementos de Seguridad Pública Estatal y Control de Transito de Vehículos, tendrán las características contenidas en su manual interno de operación, pero se distinguirán de otras corporaciones por sus colores exclusivos que serán el azul marino y blanco, para los primeros; gris, verde y blanco para los segundos y negro para grupos especializados.
 
 ###### ARTICULO 21.
 
@@ -272,3 +274,11 @@ EL SECRETARIO DE GOBIERNO
 Lic. Leopoldo Velasco Mercado
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 22 DE JUNIO DE 1998.
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
