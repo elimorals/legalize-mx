@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-trabajadores-al-servicio-de-los-tres-poderes-del-508
 country: "mx"
 rank: "ley"
 publication_date: "1980-07-24"
-last_updated: "1980-07-24"
+last_updated: "1994-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "DUR"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1994.
 
-Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 24 de julio de 1980.
+Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 24 de julio de 1980.
 
 EL CIUDADANO DOCTOR SALVADOR GAMIZ FERNANDEZ GOBERNADOR CONSTITUCIONAL SUBSTITUTO del ESTADO LIBRE y SOBERANO de DURANGO, a sus habitantes, sabed:
 
@@ -47,7 +47,7 @@ El Título Primero contiene disposiciones generales sobre la aplicación de la L
 
 El Título Segundo consigna las condiciones generales de trabajo, y se divide en siete Capítulos. El Capítulo Primero contiene disposiciones generales; el Capítulo Segundo regula la jornada de trabajo y los descansos obligatorios; el Capítulo Tercero contiene la definición y normas protectoras del salario; el Capítulo Cuarto establece las obligaciones de las Dependencias Públicas; el Capítulo Quinto regula las obligaciones de los trabajadores; el Capítulo Sexto y el Capítulo Séptimo, se refieren respectivamente a la suspensión temporal y a la terminación de los efectos del nombramiento de los Trabajadores.
 
-El Título Tercero es una serie de disposiciones que, en dos Capítulos, regulan es ascenso escalafonario de los trabajadores en funcionamiento de las comisiones mixtas de escalafón.
+El Título Tercero es una serie de disposiciones que, en dos Capítulos, regulan el ascenso escalafonario de los trabajadores y el funcionamiento de las comisiones mixtas de escalafón.
 
 ElTítulo (sic) Cuarto regula la organización colectiva de los trabajadores, y prevee la reglamentación de las condiciones generales de trabajo. Se divide en dos Capítulos, el primero de los cuales define el Sindicato y establece los requisitos para su existencia así como las reglas generales para su funcionamiento; el Capítulo Segundo preveé lo relativo a la expedición de los Reglamentos de las condiciones generales de trabajo.
 
@@ -79,7 +79,7 @@ La Fracción XII del Artículo 55, señala como obligación de las Dependencias,
 
 El Capítulo Séptimo del Título Segundo, señala las causas de despido justificado, las acciones que puede ejercitar el Trabajador si considera injusta la separación así como las indemnizaciones para el caso de que prosperen dichas acciones. Con las disposiciones de este Capítulo se concilian los intereses de ambas partes, pues por un lado, las Dependencias podrán válidamente y sin responsabilidad, dar de baja a un trabajador que por su falta de probidad, su negligencia, dolo, inmoralidad, indiscreción, imprudencia, indisciplina, incumplimiento, etc., obstaculice o impida el funcionamiento normal de la Dependencia. Por otro lado el ejercicio de esta facultad, no se prestará a desiciones (sic) arbitrarias, pues si el trabajador considera violados sus derechos por lo injustificado de la separación, podrá acudir ante el Tribunal de Conciliación y Arbitraje a demandar la reinstalación o la indemnización que proceda.
 
-El Título Tercero de la presente Ley, contiene los principios que motivan el ascenso de los trabajadores, y vienen a satisfacer una necesidad inaplazable, pues permite mediante el establecimiento de un sistema escalafonario, la promoción de los trabajadores tomando en consideración sus conocimientos, aptitud, antigüedad, disciplina y puntualidad. Asímismo se preveé la implementación del escalafón, señalando las bases para la expedición de los Reglamentos respectivos en cada uno de los Tres Poderes del Estado, y para el funcionamiento de las Comisiones Mixtas de Escalafón.- Con estas medidas, aparte de garantizarse un derecho de los trabajadores, estimula a éstos, para superarse y cumplir eficientemente con su trabajo, circunstancia que incuestionablemente redundará en beneficio del funcionamiento de las Dependencias.
+El Título Tercero de la presente Ley, contiene los principios que motivan el ascenso de los trabajadores, y vienen a satisfacer una necesidad inaplazable, pues permite mediante el establecimiento de un sistema escalafonario, la promoción de los trabajadores tomando en consideración sus conocimientos, aptitud, antigüedad, disciplina y puntualidad. Asímismo se preveé la implementación del escalafón, señalando las bases para la expedición de los Reglamentos respectivos en casa uno de los Tres Poderes del Estado, y para el funcionamiento de las Comisiones Mixtas de Escalafón.- Con estas medidas, aparte de garantizarse un derecho de los trabajadores, estimula a éstos, para superarse y cumplir eficientemente con su trabajo, circunstancia que incuestionablemente redundará en beneficio del funcionamiento de las Dependencias.
 
 El Capítulo Primero del Título Cuarto establece las bases para la organización colectiva de los trabajadores, pues la Administración Pública está consciente de que ésta es condición sine qua non para el mejoramiento y la defensa de los intereses de los trabajadores, y respeta, por tanto, el derecho de asociación que les asiste, por lo que se han adoptado en el señalamiento de las bases de referencia, los principios doctrinales del Derecho Sindical.
 
@@ -105,13 +105,17 @@ DEL ESTADO DE DURANGO
 
 ### CAPITULO UNICO
 
-###### Artículo 1o.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
 
-La presente Ley es de observanca (sic) general para los titulares y trabajadores al servicio de los Tres Poderes del Estado de Durango que tengan a su cargo función de Servidores Públicos.
+###### Artículo 1º.
 
-###### Artículo 2o.
+La presente Ley es de observancia general para los Titulares y Trabajadores al Servicio de los Tres Poderes del Estado de Durango, así como de los Organismos Públicos Descentralizados, Empresas de Participación Estatal y Fideicomisos, que se encuentran dentro del Estado.
 
-Para los efectos de esta Ley, la relación jurídica de trabajo se entiende establecida entre los Poderes del Estado y los Trabajadores a su servicio; para una mejor interpretación de la misma se denominarán Dependencias las primeras.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
+
+###### Artículo 2º.
+
+Para los efectos de esta Ley, la relación jurídico – laboral, se entiende establecida entre los Poderes del Estado, los Organismos Públicos Descentralizados, las Empresas de Participación Estatal y los Fideicomisos y los trabajadores a su servicio; para una mejor interpretación de la misma, se denominarán Dependencias a los Poderes del Estado y Entidades Administrativas, a los Organismos Públicos Descentralizados, Empresas de Participación Estatal y Fideicomisos.
 
 ###### Artículo 3o.
 
@@ -131,9 +135,11 @@ IV.- Renuncia por parte del trabajador de cualquiera de los derechos o prerrogat
 
 En todos estos casos se entenderá que rigen la Ley o las normas supletorias en lugar de las estipulaciones nulas.
 
-###### Artículo 5o.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
 
-Trabajador es la persona física que presta un trabajo personal en cualquiera de las Dependencias permanentes o temporales, en virtud de nombramiento expedido o por figurar en las listas de raya o nómina de los trabajadores.
+###### Artículo 5º.
+
+Trabajador es la persona física que presta un trabajo personal en cualquiera de las Dependencias o Entidades Administrativas, permanente o temporal, en virtud de nombramiento expedido o por figurar en las listas de raya o nómina de los trabajadores.
 
 ###### Artículo 6o.
 
@@ -145,17 +151,21 @@ II.- Trabajadores de Base.
 
 III.- Trabajadores Supernumerarios.
 
-###### Artículo 7o.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
 
-Son trabajadores de confianza los que desempeñan funciones de dirección, inspección, vigilancia y fiscalización, cuando tengan carácter general, así como aquellos que determinen las Leyes o reglamentos especiales que regulen la organización y funcionamiento de las distintas Dependencias Públicas.
+###### Artículo 7º.
+
+Son trabajadores de confianza, los que desempeñan funciones de Dirección, Inspección, Vigilancia y Fiscalización, cuando tengan carácter general, así como aquellos que determinen las Leyes o Reglamentos especiales que regulen la organización y funcionamiento de las distintas Dependencias o Entidades Administrativas.
 
 ###### Artículo 8o.
 
 Son trabajadores de base los que por la naturaleza de sus funciones no sean trabajadores de confianza.
 
-###### Artículo 9o.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
 
-Al crearse categorías y cargos no comprendidos en el Artículo Séptimo, la clasificación de base o de confianza que les corresponda, se determinará expresamente por la disposición legal que formalice su creación y atendiendo la naturaleza de sus funciones desempeñadas; considerándose de confianza las de dirección, cuando tengan carácter general y las que se relacionen con trabajos privados del Titular de la Dependencia correspondiente.
+###### Artículo 9º.
+
+Al crearse categorías y cargos no comprendidos en el Artículo Séptimo de esta Ley, la clasificación de base o de confianza que les corresponda, se determinará expresamente por la disposición legal que formalice su creación y atendiendo la naturaleza de sus funciones desempeñadas, considerándose de confianza las de Dirección, cuando tengan carácter general y las que se relacionen con trabajos privados del Titular de la Dependencia o Entidad Administrativa correspondiente.
 
 ###### Artículo 10o.
 
@@ -173,9 +183,11 @@ Para obtener un empleo de base serán preferidos los mexicanos a los extranjeros
 
 Los Trabajadores al Servicio de la Educación se regirán por la Ley de Educación del Estado de Durango y por esta Ley en cuanto no contraríe a aquella.
 
-###### Artículo 14o.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
 
-Los Titulares de las Dependencias del Estado, serán considerados representantes de las mismas, y en tal concepto, los obligan en sus relaciones con el Sindicato y sus Trabajadores.
+###### Artículo 14º.
+
+Los Titulares de las Dependencias y Entidades Administrativas del Estado, serán considerados Representantes de las mismas, y en tal concepto los obligan en sus relaciones con el Sindicato y sus Trabajadores.
 
 ###### Artículo 15o.
 
@@ -219,17 +231,21 @@ V.- El sueldo y demás prestaciones que habrá de percibir el trabajador y
 
 VI.- El lugar en que prestará sus servicios.
 
-###### Artículo 21o.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
 
-Cuando un trabajador sea trasladado de una población a otra con su consentimiento la Dependencia en que presta sus servicios tendrá la obligación de sufragar los gastos de viaje, excepto si el traslado se debe a sanción que le fuera impuesta.
+###### Artículo 21º.
+
+Cuando un trabajador sea trasladado de una población a otra con su consentimiento, la Dependencia o Entidad Administrativa en que presta sus servicios, tendrá la obligación de sufragar los gastos de viaje, excepto si el traslado se debe a sanción que le fuera impuesta.
 
 ###### Artículo 22o.
 
 El nombramiento aceptado obliga al cumplimiento de los deberes inherentes al mismo y a las consecuencias que sean conforme a la Ley, el uso y la buena fé.
 
-###### Artículo 23o.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
 
-En ningún caso de cambio de funcionarios de las Dependencias Públicas o de su estructura jurídica, organización o funcionamiento de éstas se modificará la situación de los trabajadores de base; esto es, no se afectarán los derechos de los mismos.
+###### Artículo 23º.
+
+En ningún caso de cambio de funcionarios de las Dependencias y Entidades Administrativas o de su estructura jurídica, organización o funcionamiento de éstas, se modificará la situación de los trabajadores de base; ésto es, no se afectarán los derechos de los mismos.
 
 ### CAPITULO SEGUNDO. DE LA JORNADA DE TRABAJO
 
@@ -289,9 +305,11 @@ II.- Voluntarias
 
 III.- Necesarias.
 
-###### Artículo 36o.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
 
-Las licencias económicas son las que concede el Titular de la Dependencia a los trabajadores hasta por tres días consecutivos.
+###### Artículo 36º.
+
+Las licencias económicas son las que concede el Titular de la Dependencia o Entidad Administrativa a los trabajadores, hasta por tres días consecutivos.
 
 ###### Artículo 37o.
 
@@ -395,23 +413,29 @@ Es nula la cesión de salarios en favor de terceras personas.
 
 ### CAPITULO CUARTO. DE LAS OBLIGACIONES DE LAS DEPENDENCIAS PUBLICAS
 
-###### Artículo 55o.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 1994)</small>
 
-Son obligaciones de las Dependencias Públicas a que se refiere el Artículo 1o. de esta Ley:
+###### Artículo 55º.
+
+Son obligaciones de las Dependencias y Entidades Administrativas, a que se refiere el Artículo 1o. de esta Ley:
 
 I.- Preferir, en igualdad de conocimientos aptitudes y antigüedad, a los trabajadores sindicalizados, respecto de quienes no lo estuvieran; a los que con anterioridad hubieren prestado satisfactoriamente servicios y a los que acrediten tener mejores derechos conforme al escalafón.
 
 Para los efectos del párrafo que antecede, se formarán los escalafones de acuerdo con las bases establecidas en esta Ley.
 
-Los Titulares de las Dependencias Públicas del Estado con capacidad para ello, nombrarán y removerán a los empleados de confianza de acuerdo con sus respectivos Reglamentos Interiores.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
 
-Un trabajador de base podrá ser ascendido a un puesto de confianza, pero en este caso, mientras conserce (sic) esta calidad quedarán en suspenso todas las prerrogativas que tuviere conforme a esta Ley, así como los vínculos con el Sindicato al cual perteneciere. El empleado que como consecuencia de un ascenso de esta naturaleza sea designado para ocupar la vacante correspondiente, tendrá en todo caso el carácter de trabajador provisional de tal modo que, si el trabajador ascendió a un puesto de confianza vuelve a ocupar el de base del que hubiere sido promovido, lo que constituirá un derecho para él, automáticamente se correrá en forma inversa el escalafón y el trabajador dejará de prestar sus servicios a la Dependencia del Estado sin responsabilidad para éste; las vacantes que ocurran dentro de la Dependencia se pondrán desde luego en conocimiento del Sindicato correspondiente, el que lo comunicará a todos los trabajadores del grado inmediato inferior para que deduzcan sus derechos conforme el escalafón.
+Los Titulares de las Dependencias y Entidades Administrativas del Estado, con capacidad para ello, nombrarán y removerán a los empleados de confianza de acuerdo con sus respectivos Reglamentos Interiores.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
+
+Un trabajador de base podrá ser ascendido a un puesto de confianza, pero en este caso, mientras conserve esta calidad quedarán en suspenso todas las prerrogativas que tuviere conforme a esta Ley, así como los vínculos con el Sindicato al cual perteneciere. El empleado que como consecuencia de un ascenso de esta naturaleza sea designado para ocupar la vacante correspondiente, tendrá en todo caso el carácter de trabajador provisional, de tal modo que, si el trabajador ascendio a un puesto de confianza vuelve a ocupar el de base del que hubiere sido promovido lo que constituirá un derecho para él, automáticamente se correrá en forma inversa el escalafón y el trabajador dejará de prestar sus servicios a la Dependencia o Entidad Administrativa del Estado, sin responsabilidad para éste; las vacantes que ocurran dentro de la Dependencia o Entidad Administrativa se pondrán, desde luego, en conocimiento del Sindicato correspondiente, el que lo comunicarpa (sic) a todos los trabajadores del grado inmediato inferior para que deduzcan sus derechos conforme el escalafón.
 
 II.- Cumplir con todos los servicios de higiene y de prevención de accidentes a que están obligados los patrones en general.
 
 III.- Reinstalar a los trabajadores en las plazas de las cuales los hubieren separado y ordenar el pago de los salarios a que fueren condenados por laudo ejecutoriado.
 
-En los casos de supresión de plazas, los trabajadores afectados tendrán derecho a que se les otorgue otro equivalente en categoría y sueldo, o, de no ser posible, indemnizarlos conforme esta Ley.
+En los casos de supresión de plazas, los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente en categoría y sueldo, o, de no ser posible, indemnizarlos conforme esta Ley.
 
 IV.- De acuerdo con la partida del presupuesto de egresos correspondiente que se haya fijado para tal efecto, cubrir las indemnizaciones, por separación injustificada para los Trabajadores que hayan optado por ella asímismo pagar los salarios caídos en los términos del laudo definitivo.
 
@@ -461,15 +485,19 @@ II.- A los que hayan prestado veinte años de servicio, dos meses de salario.
 
 III.- A los que hayan prestado servicios durante treinta años, tres meses de salario.
 
-###### Artículo 58o.
+> <small>(REFORMADO PRIMER PARAAFO, P.O. 9 DE JUNIO DE 1994)</small>
 
-Queda prohibido a los funcionarios de las Dependencias Públicas:
+###### Artículo 58º.
+
+Queda prohibido a los funcionarios de las Dependencias y Entidades Administrativas Públicas:
 
 I.- Intervenir en cualquier forma en el régimen interno del Sindicato.
 
 II.- Ejecutar cualquier acto que restrinja a los trabajadores los derechos que les otorgan las Leyes; y
 
-III.- Hacer propaganda política pública dentro de las Dependencias Públicas.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 1994)</small>
+
+III.- Hacer propaganda política pública dentro de las Dependencias y Entidades Administrativas.
 
 ### CAPITULO QUINTO. DE LAS OBLIGACIONES DE LOS TRABAJADORES
 
@@ -529,9 +557,11 @@ IV.- La terminación de la obra o vencimiento del término o de la partida corre
 
 V.- La incapacidad física o mental o inhabilitación manifiesta del trabajador, que haga imposible la prestación del trabajo.
 
-###### Artículo 62o.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 1994)</small>
 
-Son causas de rescisión de la relación del trabajo, sin responsabilidad para la Dependencia, las siguientes:
+###### Artículo 62º.
+
+Son causas de rescisión de la relación del trabajo, sin responsabilidad para la Dependencia o Entidad Administrativa, las siguientes:
 
 I.- Incurrir el empleado en faltas de probidad u honradez o en actos de violencia, amagos, injurias o malos tratos contra los jefes o compañeros, o contra los familiares de unos u otros, ya sea dentro o fuera de las horas de servicio.
 
@@ -543,7 +573,9 @@ IV.- Cometer el trabajador actos inmorales durante el trabajo.
 
 V.- Revelar el trabajador los asuntos relacionados con el trabajo, asuntos secretos o reservados que tuviere conocimiento con motivo de su trabajo.
 
-VI.- Comprometer el trabajador por su imprudencia, descuido o negligencia, la seguridad de la Dependencia, oficina o taller donde presta sus servicios o de las personas que ahí se encuentren.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 1994)</small>
+
+VI.- Comprometer el trabajador por su imprudencia, descuido o negligencia, la seguridad de la Dependencia o Entidad Administrativa, oficina o taller donde presta sus servicios o de las personas que ahí se encuentren.
 
 VII.- Desobedecer el trabajador reiteradamente y sin justificación, las órdenes que reciba de sus superiores.
 
@@ -561,13 +593,17 @@ Si el Tribunal resuelve que fué justificado el cese, el trabajador no tendrá d
 
 El trabajador podrá solicitar ante el Tribunal de Conciliación y Arbitraje, a su elección, que se le reinstale en el trabajo que desempeñaba, o que se le indemnice con el importe de tres meses de salario.
 
-Si en el juicio correspondiente no comprueba el Titular de la Dependencia respectiva la causa del cese o suspensión, el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios caídos desde la fecha del despido hasta que se cumplimente el laudo.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
 
-###### Artículo 64o.
+Si en el juicio correspondiente no comprueba el Titular de la Dependencia o Entidad Administrativa respectiva, la causa del cese o suspensión, el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios caídos desde la fecha del despido hasta que se cumplimente el laudo.
 
-El Titular de la Dependencia de que se trate quedará eximido de la obligación de reinstalar al trabajador, mediante el pago de las indemnizaciones que se determinan en el Artículo 65o., en los casos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 1994)</small>
 
-I.- Cuando se trate de trabajadores que tengan una antiguedad (sic) menor de un año;
+###### Artículo 64º.
+
+El Titular de la Dependencia o Entidad Administrativa de que se trate, quedará eximido de la obligación de reinstalar al trabajador, mediante el pago de las indemnizaciones que se determinan en el Artículo 65º. de esta Ley, en los casos siguientes:
+
+I.- Cuando se trate de trabajadores que tengan una antigüedad menor de un año;
 
 II.- Si comprueba ante el Tribunal de Conciliación y Arbitraje, que el trabajador, por razón del trabajo que desempeña o por las características de sus labores, está en contacto directo y permanente con él y el Tribunal estima, tomando en consideración las circunstancias del caso, que no es posible el desarrollo normal de la relación de trabajo;
 
@@ -637,9 +673,11 @@ El personal de cada Poder será clasificado según sus categorías consignadas e
 
 En cada uno de los Poderes del Estado funcionará una Comisión Mixta de escalafón, integrada por igual número de representantes del titular y del Sindicato correspondiente, de conformidad con las necesidades de las mismas, quienes designarán un árbitro que decida los casos de empate. Si no hay acuerdo, la designación la hará el Tribunal de Conciliación y Arbitraje en un término que no excederá de diez días, de una lista de tres candidatos que las partes en conflicto le proporcionen.
 
-###### Artículo 74o.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
 
-Los titulares de las Dependencias proporcionarán a las Comisiones Mixtas de Escalafón los medios administrativos y materiales para su efectivo funcionamiento.
+###### Artículo 74º.
+
+Los Titulares de las Dependencias y Entidades Administrativas proporcionarán a las Comisiones Mixtas de Escalafón, los medios administrativos y materiales para su efectivo funcionamiento.
 
 ###### Artículo 75o.
 
@@ -739,9 +777,11 @@ II.- Porque dejen de reunir los requisitos señalados en el Artículo 82 de esta
 
 III.- Por transcurrir el tiempo fijado en los Estatutos.
 
-###### Artículo 91o.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
 
-Todos los conflictos que surjan entre las Dependencias y el Sindicato, serán resueltos por el Tribunal de Conciliación y Arbitraje.
+###### Artículo 91º.
+
+Todos los conflictos que surjan entre las Dependencias y Entidades Administrativas con sus trabajadores, serán resueltos por el Tribunal de Conciliación y Arbitraje.
 
 ###### Artículo 92o.
 
@@ -753,9 +793,11 @@ Los Sindicatos pueden formar Federaciones y Confederaciones, las que se regirán
 
 ### CAPITULO SEGUNDO. DE LA REGLAMENTACION DE LAS CONDICIONES GENERALES DE TRABAJO
 
-###### Artículo 94o.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
 
-Las condiciones generales de trabajo son el conjunto de disposiciones obligatorias para las Dependencias y sus Trabajadores, en el desarrollo de los trabajos las que se harán por escrito en el Reglamento respectivo.
+###### Artículo 94º.
+
+Las condiciones generales de trabajo, son el conjunto de disposiciones obligatorias para las Dependencias y Entidades Administrativas y sus trabajadores, en el desarrollo de los trabajos, las que se harán por escrito en el Reglamento respectivo.
 
 ###### Artículo 95o.
 
@@ -816,6 +858,8 @@ En los casos previstos en las Fracciones anteriores, si al vencer las licencias 
 Para los efectos de las Fracciones anteriores, los cómputos deberán hacerse por servicios continuados, cuando de existir una interrupción en la prestación de los servicios, ésta sea mayor de seis meses.
 
 ### CAPITULO PRIMERO. De la ORGANIZACION del TRIBUNAL de CONCILIACION y ARBITRAJE
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
 
 ###### Artículo 101o.
 
@@ -885,9 +929,9 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 ### CAPITULO TERCERO. DEL PROCEDIMIENTO ANTE EL TRIBUNAL DE CONCILIACION Y ARBITRAJE
 
-###### Artículo 109o.
+###### Artículo 109º.
 
-El Tribunal de Conciliación y Arbitraje del Estado de Durango, lo integran un Representante de los Tres Poderes del Estado, un Representante del Sindicato de Trabajadores y un Representante Tercer Arbitro que nombrarán los dos Representantes citados. Este último fungirá como Presidente.
+El Tribunal de Conciliación y Arbitraje del Estado de Durango, funcionará en forma colegiada y quedará integrado con un representante designado por los titulares de los Tres Poderes del Estado; un representante del Sindicato de los Trabajadores al Servicio de los Tres Poderes; y un representante Tercer Arbitro que nombrarán los representantes citados y que fungirá como Presidente del Tribunal. En este Tribunal funcionará un grupo especial de Conciliación y Arbitraje, que conocerá de los conflictos laborales que se presenten entre las Entidades Administrativas y sus trabajadores, y se integrará con el Presidente del Tribunal; un representante de las Entidades Administrativas del Estado; y un representante de los trabajadores al servicio de dichas Entidades Administrativas.
 
 ###### Artículo 110o.
 
@@ -1009,11 +1053,11 @@ El día y hora de la audiencia se abrirá el período de recepción de pruebas. 
 
 En la audiencia solo se aceptarán las pruebas ofrecidas previamente, a no ser que se refieran a hechos supervenientes en cuyo caso se dará vista a la contraria, o que tenga por objeto probar las tachas contra testigos, o se trate de la confesional, siempre y cuando se ofrezcan antes de cerrarse la audiencia.
 
-###### Artículo 129o.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
 
-Los Trabajadores podrán comparecer por sí o por Representante acreditados, mediante simple carta poder.
+###### Artículo 129º.
 
-Los Titulares de la Dependencia demandada, podrán hacerse Representar por apoderado que acredite ese carácter mediante simple oficio.
+Los trabajadores podrán comparecer por sí o por representante debidamente acreditado, mediante simple carta poder firmada ante dos testigos; los Titulares de las Dependencias y Entidades Administrativas demandadas, podrán hacerse representar por Apoderado que acredite ese carácter mediante simple oficio.
 
 ###### Artículo 130o.
 
@@ -1140,3 +1184,11 @@ DADO en el PALACIO del PODER EJECUTIVO, en Victoria de Durango, Dgo., a los quin
 El Gobernador Constitucional Substituto del Estado Dr. SALVADOR GAMIZ FERNANDEZ.- Rúbrica.
 
 El Secretario General de Gobierno Lic. CARLOS GALINDO MARTINEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE JUNIO DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
