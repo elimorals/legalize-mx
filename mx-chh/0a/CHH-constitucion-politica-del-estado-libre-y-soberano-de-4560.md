@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "1976-07-31"
+last_updated: "1979-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 1979.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -171,7 +171,7 @@ Los chihuahuenses serán preferidos, en igualdad de circunstancias, a los que no
 
 DE LA ORGANIZACION DEL CONGRESO.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1951)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 20.
 
@@ -317,9 +317,13 @@ La persona que asuma el Poder Ejecutivo, conforme a este artículo, convocará a
 
 DE LAS ELECCIONES.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+
 ###### Art. 36.
 
-Las elecciones populares serán directas y se verificarán conforme a las leyes respectivas, las que se sujetarán a las bases que establece el presente Título.
+Las elecciones populares se efectuarán conforme a las bases que establece esta Constitución y sus leyes reglamentarias.
+
+Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
 
 ###### Art. 37.
 
@@ -341,25 +345,53 @@ DEL PODER LEGISLATIVO.
 
 DE LA INSTALACION DEL CONGRESO, PERIODOS DE SUS SESIONES Y CARACTER DE SUS DISPOSICIONES.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1976)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 40.
 
-El Congreso se integrará por tantos Diputados como Distritos Electorales haya en el Estado, no pudiendo éstos ser menos de nueve. La Ley Electoral dividirá en Distritos el Territorio del Estado, correspondiendo a cada uno no menos de 30,000 habitantes. Por cada Distrito se elegirá popularmente un Diputado Propietario y un Suplente.
+El Congreso se integrará con representantes populares electos en su totalidad cada tres años. Por cada diputado propietario de mayoría se elegirá un suplente; en relación a los diputados de minoría se estará a lo dispuesto en la fracción II del inciso F de este artículo.
+
+El Congreso se compondrá por catorce diputados electos en distritos electorales según el principio de votación mayoritaria relativa y hasta cuatro, electos por el principio de diputados de minoría.
+
+La elección se sujetará a las bases generales siguientes y a las particulares que fije el Código Administrativo del Estado:
+
+I.- La demarcación territorial de los catorce distritos electorales será la que resulte de dividir la población total del Estado, conforme al último censo general de población, entre el número de los distritos señalados, teniendo en cuenta para su distribución los factores geografico y socio-económico.
+
+II.- La asignación de diputados de minoría, se sujetará a lo siguiente:
+
+A.- El partido político deberá participar con candidatos a diputados de mayoría relativa por lo menos en la mitad de los catorce distritos electorales.
+
+B.- El partido político tendrá derecho a que le sea atribuido diputado de minoría, siempre que no haya obtenido ninguna constancia de mayoría y que alcance el 5% o más de la votación total en el Estado en la elección de diputados respectiva.
+
+C.- El partido político que reúna los requisitos señalados en los incisos anteriores, tendrá derecho a acreditar un diputado de minoría, por riguroso orden de acuerdo con el número decreciente de sufragios que haya logrado, en relación a los demás candidatos a diputados propietarios de mayoría del mismo partido en todo el Estado.
+
+D.- Si más de cuatro partidos políticos satisfacen los requisitos establecidos en los incisos anteriores, los diputados de minoría se acreditarán a aquéllos cuatro que obtengan el mayor número de sufragios en la votación respectiva.
+
+E.- Si sólo un partido político reúne los requisitos establecidos en los incisos A, B y C y obtiene además un 5% más en la votación respectiva, tendrá derecho a acreditar hasta dos diputados de minoría.
+
+F.- La suplencia en los diputados de minoría se acreditará entre los candidatos suplentes registrados por el partido, por riguroso orden de acuerdo con el número decreciente de sufragios que haya logrado en relación a los demás candidatos a diputados suplentes del mismo partido en todo el Estado.
+
+III.- Los diputados de mayoría y los de minoría tendrán la misma categoría e iguales derechos y obligaciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 41.
 
-Para poder ser electo Diputado, se requiere:
+Para ser electo diputado se requiere:
 
 I.- Ser mexicano por nacimiento y ciudadano Chihuahuense en ejercicio de sus derechos.
 
-II.- Tener más de veinticinco años de edad el día de la elección.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+
+II.- Tener veintiún años cumplidos el día de la elección.
 
 III.- Ser originario del Distrito en que se haga la elección con residencia en él de seis meses, inmediatamente anteriores a la fecha en que ésta se verifica, o bien hijo del Estado, con residencia de un año en el Distrito u oriundo de otro Estado, con residencia cuando menos de doce años en el de Chihuahua y el último en el Distrito electoral de que se trata, salvo ausencia eventual en cada caso, y siempre que en este último, no se conserve la vecindad de otro Estado.
 
 IV.- No haber sido condenado en los últimos diez años por delito que no sea político, a una pena mayor de un año de prisión; ni a cualquiera otra, por los delitos de robo, abuso de confianza fraude contra la propiedad, quiebra fraudulenta o falsificación.
 
-V.- No ser Gobernador del Estado, Secretario de Gobierno o quien haga sus veces, Magistrado del Supremo Tribunal de Justicia, Procurador General, Tesorero General del Estado o Jefe de Departamento del Poder Ejecutivo.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+
+V.- No ser Gobernador del Estado, Secretario de Gobierno, o quien haga sus veces, Magistrado del Supremo Tribunal de Justicia, Procurador General, Tesorero General del Estado, Director Jefe de Departamento del Poder Ejecutivo.
 
 VI.- No ser Juez, Secretario de Juzgado, Agente del Ministerio Público, Presidente Municipal, Secretario de éste o del Ayuntamiento, o empleado de Hacienda en el respectivo Distrito Electoral.
 
@@ -377,9 +409,11 @@ Los Diputados Propietarios, desde el día de su elección hasta el en que conclu
 
 La infracción de este artículo, importará la pérdida del carácter de Diputado, sin más requisito que la declaración del Congreso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 1979)</small>
+
 ###### Art. 43.
 
-Los Diputados Suplentes funcionarán:
+Los diputados suplentes entrarán en funciones:
 
 I.- En las faltas absolutas o temporales del Propietario.
 
@@ -389,25 +423,35 @@ III.- Cuando los Diputados Propietarios hubieren dejado de concurrir sin licenci
 
 IV.- Cuando en cualquier tiempo en que deba funcionar el Congreso, no se encuentren en la Capital suficientes Diputados Propietarios para formar quórum.
 
-V.- Cuando deban hacerlo conforme al Reglamento Interior de la Cámara.
+> <small>(REFORMADA P.O. 24 DE ENERO DE 1979)</small>
+
+V.- Cuando deban hacerlo en cualquier otro caso, de acuerdo con la Ley Orgánica del Congreso del Estado.
 
 En los casos de las fracciones II y IV, los Suplentes funcionarán tan sólo hasta que se presente el Propietario.
 
 ### CAPITULO III.
 
-DE LAS ATRIBUCIONES DEL CONGRESO.
+DE LAS FACULTADES DEL CONGRESO.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 44.
 
-El Congreso se renovará totalmente el año correspondiente y los Diputados durarán tres años en su encargo. Ninguno de ellos, ya sean Propietarios o Suplentes, podrán ser reelectos en cualquiera de sus cargos para el período siguiente, exceptuando a los Suplentes cuando no hubieren entrado en funciones durante su período constitucional para que fueron electos. El Congreso se instalará en casos ordinarios el día treinta de septiembre y en los extraordinarios, únicos en que será necesaria la convocatoria, el día que ésta fije y cambiará su nomenclatura cada tres años.
+El Congreso se renovará totalmente el año correspondiente. Ninguno de sus miembros ya sean propietarios o suplentes, podrán ser reelectos en sus cargos para el período siguiente. Los que tengan el cargo de propietarios no podrán ser electos para el período inmediato con el cargo de suplentes, pero los que tengan el cargo de suplentes sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio. El Congreso se instalará en casos ordinarios el treinta de septiembre y en los extraordinarios, únicos en que será necesaria la convocatoria, el día que ésta fije.
+
+El Congreso cambiará su nomenclatura cada tres años.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 45.
 
-Veinte días antes del fijado para la instalación del Congreso, los presuntos Diputados electos, sin necesidad de convocatoria, se reunirán, en el Salón de Sesiones con objeto de constituir la Junta Preparatoria, nombrando un Presidente, un Vice-Presidente y dos Secretarios.
+Veinte días antes del fijado para la instalación del Congreso, los presuntos diputados electos según el principio de votación mayoritaria relativa, sin necesidad de convocatoria, se reunirán con objeto de constituir la Junta Preparatoria nombrando un Presidente, un Vicepresidente y dos Secretarios.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 46.
 
-La Junta Preparatoria a que se refiere el artículo próximo anterior, calificará las elecciones o credenciales de los presuntos Diputados electos, excitando a los ausentes a que concurran y, una vez calificada por lo menos la mitad más una de las credenciales, se procederá a nombrar Presidente, Vice-Presidente, Secretarios y Pro-Secretarios del Congreso, se hará por el Presidente la declaración solemne de quedar instalado aquel, el que calificará las demás credenciales que no lo hubieren estado por la Junta Preparatoria, y, empezará a funcionar en la fecha que esta Constitución señala.
+La Junta Preparatoria a que se refiere el artículo anterior calificará las elecciones o credenciales de los presuntos diputados electos según el principio de mayoría relativa y acreditará a los propietarios y suplentes electos por el principio de diputados de minoría, exhortando a los ausentes a que concurran y, una vez calificada por lo menos más de la mitad de las elecciones o de las credenciales, se procederá a nombrar Presidente, Vicepresidente, Secretarios y Prosecretarios del Congreso, se hará por el Presidente la declaración solemne de quedar instalado aquél, el que calificará las demás credenciales que no lo hubieren estado por la Junta Preparatoria y, empezará a funcionar en la fecha que esta Constitución señala.
 
 ###### Art. 47.
 
@@ -417,19 +461,23 @@ Si no hubiere la mayoría requerida para la instalación del Congreso, o para qu
 
 Para la discusión y votación de todo proyecto de ley, se requiere la concurrencia de los dos tercios del número total de Diputados que integren la Legislatura.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1976)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 48.
 
-El Congreso tendrá cada año dos períodos ordinarios de sesiones, comenzando el primero el treinta de septiembre y terminando el treinta y uno de diciembre y se destinará de preferencia al examen y votación de las Leyes de Ingresos y Presupuesto de Egresos del Estado y de los Municipios que deban regir en el año siguiente.
+El Congreso se reunirá el día treinta de septiembre de cada año para celebrar sesiones ordinarias en las cuales se ocupará del estudio, discusión y aprobación de las iniciativas de ley que se le presenten y de la resolución de los demás asuntos que le corresponden conforme a esta Constitución.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 49.
 
-El segundo período ordinario de sesiones comenzará el dieciséis de abril, concluyendo el quince de julio, y en él de preferencia se revisarán las cuentas de los gastos que el Estado haya hecho en el año próximo anterior.
+El período ordinario concluirá el treinta y uno de diciembre del mismo año y no podrá prorrogarse sino en el caso previsto en el artículo 59.
 
 ###### Art. 50.
 
-Los dos períodos anuales ordinarios de sesiones serán prorrogables a juicio del Congreso y por el tiempo que el mismo considere necesario.
+(DEROGADO, P.O. 24 DE ENERO DE 1979)
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 51.
 
@@ -441,47 +489,61 @@ II.- Por la mayoría absoluta de los Diputados.
 
 III.- Por el Ejecutivo.
 
-En los casos de las fracciones II y III se hará la convocatoria por conducto de la Diputación Permanente, salvo lo dispuesto en el artículo 61, fracción III, y tanto en estos casos como en el de la fracción I, quien hubiere promovido dicha convocatoria presentará al Congreso un informe sobre los motivos y objeto de ella; debiendo ser los asuntos que éste comprenda los únicos de que se trate en dichos períodos. El Presidente del Congreso contestará en términos generales.
+En los casos de las fracciones II y III, se hará la convocatoria por conducto de la Diputación Permanente, salvo lo dispuesto en el artículo 61 fracción III, y tanto en estos casos como en el de la fracción I, quien hubiere promovido dicha convocatoria presentará al Congreso un informe sobre los motivos y objeto de ella debiendo ser los asuntos que éste comprenda, los únicos de que se trate en dichos períodos.
 
 ###### Art. 52.
 
 Si el período extraordinario se prolongare hasta la fecha en que deba comenzar el ordinario, cesará aquel; pero en éste se tratarán de preferencia los asuntos que hubieren quedado pendientes.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+
 ###### Art. 53.
 
-Señalado el día para la discusión de iniciativas presentadas por el Ejecutivo, por el Supremo Tribunal de Justicia o por algún Ayuntamiento, se les dará aviso con anticipación para que puedan intervenir en la discusión el mismo Ejecutivo, por sí o en su nombre el Secretario de Gobierno o algún Jefe de Departamento; un Magistrado del Tribunal por parte del mismo; o algún representante del Ayuntamiento de que se trate, cada uno en su caso, y si concurrieren, se les concederá el uso de la palabra de igual modo que a los Diputados, pero sin derecho a votar.
+Señalado el día para la discusión de iniciativas presentadas por el Ejecutivo, por el Supremo Tribunal de Justicia o por algún Ayuntamiento, se les dará aviso con anticipación para que puedan intervenir en la discusión el mismo Ejecutivo, por sí o en su nombre el Secretario General de Gobierno o algún Director o Jefe de Departamento, un Magistrado del Tribunal por parte del mismo, o algún representante del Ayuntamiento de que se trate, cada uno en su caso y si concurrieren, se les concederá el uso de la palabra de igual modo que a los diputados, pero sin derecho a votar.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 54.
 
-Siempre que el Congreso abra o cierre un período de sesiones, o lo prorrogue, lo hará por formal decreto.
+Siempre que el Congreso abra o cierre un período de sesiones, lo hará por formal decreto.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1976)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 55.
 
-A la apertura del primer período ordinario de sesiones, concurrirá el Gobernador del Estado, quien leerá un informe sobre el estado que guarde la Administración Pública, debiendo el Presidente del Congreso contestarle en términos generales.
+A la apertura del período ordinario de sesiones, concurrirá el Gobernador del Estado, quien presentará un informe por escrito en el que manifieste el estado que guarde la administración pública, debiendo el Presidente del Congreso contestarle en términos generales.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 56.
 
-Las sesiones del Congreso serán públicas, y secretas solamente las que determine el Reglamento interior de la Cámara.
+Las sesiones del Congreso serán públicas; y secretas solamente las que determine su Ley Orgánica.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 57.
 
-Toda resolución del Congreso deberá tener el carácter de ley, decreto o acuerdo. Las leyes y decretos serán suscritos por el Presidente y Secretarios, y los acuerdos, por los últimos solamente.
+Toda resolución del Congreso deberá tener el carácter de ley o decreto, los que serán suscritos por el Presidente y Secretarios.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 58.
 
-Son materia de ley todas las resoluciones que, en términos generales, otorguen derechos o impongan obligaciones; de decreto, las que contengan una declaración sobre casos particulares, y de acuerdo, las que no tengan el carácter de las anteriores.
+Son materia de ley todas las resoluciones de contenido general; de decreto, las de contenido particular.
 
-No son materia de ley las disposiciones de carácter general que dicte el Ejecutivo en ejercicio de la facultad reglamentaria que le confiere la fracción IV del artículo 93.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 59.
 
-Cuando al llegar el día en que deba cerrarse alguno de los períodos de sesiones, el Congreso estuviere funcionando como gran Jurado, prorrogará aquel hasta pronunciar su veredicto; pero sin ocuparse entre tanto de ningún otro asunto.
+Cuando concluya el período de sesiones ordinario y el Congreso estuviese actuando como gran jurado, prorrogará aquel hasta pronunciar su veredicto, sin ocuparse de ningún otro asunto.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 60.
 
-Si pasado un mes de la fecha en que deba instalarse una Legislatura no hubieren concurrido algunos Diputados, ya sean propietarios o suplentes, después de haber sido llamados por la Cámara, ésta convocará a nuevas elecciones para dentro de dos meses, en los Distritos cuyos Diputados no hubieren concurrido.
+Si han transcurrido treinta días después de haber sido llamados por el Congreso en la fecha de su instalación y no hubieren concurrido sin justificación algunos diputados, sean propietarios o suplentes, electos por el principio de mayoría relativa, se convocará por aquél a nuevas elecciones, dentro de los dos meses siguientes. Si los ausentes han sido designados en virtud del principio de diputados de minoría, se llamará a aquéllos, propietarios y suplentes, por riguroso orden, de acuerdo con el número decreciente de sufragios que hayan logrado en relación a los demás candidatos del mismo partido en todo el Estado, y si no concurrieren se declarará vacante el cargo e incurrirán en responsabilidad y se harán acreedores a las sanciones que la ley señale.
+
+También incurrirán en responsabilidad que la misma ley señale, los partidos políticos que habiendo postulado candidatos en una elección para diputados, acuerden que sus miembros que resultaron electos no se presenten a desempeñar sus funciones.
 
 ###### Art. 61.
 
@@ -493,7 +555,9 @@ I.- Cuando llegado el treinta de septiembre, no hubiere electos más de la mitad
 
 II.- Cuando dividida en grupos sin que alguno de ellos tenga quórum legal de Diputados Propietarios, o de éstos y Suplentes de quienes no figuraren en alguno de los grupos y que hayan sido llamados legalmente antes de la división, se prolongue ésta por un mes sin obtenerse el quórum expresado.
 
-III.- Cuando concluyere cualquier período ordinario de sesiones sin dejar nombrada la Diputación Permanente, y el Congreso no se reuniere dentro de un mes ya sea espontáneamente o convocado por el Ejecutivo, para hacer el nombramiento.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+
+III.- Cuando concluyere el período ordinario de sesiones sin dejar nombrada la Diputación Permanente, y el Congreso no se reuniere dentro de un mes ya sea espontáneamente o convocado por el Ejecutivo, para hacer el nombramiento.
 
 En el primer caso de este artículo, el Gobernador convocará desde luego a elecciones de los Diputados que falten para integrar la Legislatura, y en los otros dos, para la elección de todos los diputados que deban formarla.
 
@@ -501,9 +565,13 @@ En el primer caso de este artículo, el Gobernador convocará desde luego a elec
 
 En todos los casos no previstos en esta Constitución y en que de hecho desaparezca el Congreso, el Ejecutivo convocará también a elecciones de Diputados tan luego como transcurra un mes contado desde la fecha de la desaparición.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+
 ###### Art. 63.
 
-En caso de desaparición legal de un Congreso, el que lo subtituya para concluir el correspondiente período, llevará el número de la Legislatura desaparecida, con la agregación de la palabra Bis.
+En caso de desaparición legal de un Congreso, el que lo substituya para concluir el correspondiente período, llevará el número de la Legislatura desaparecida.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE ENERO DE 1979)</small>
 
 ### CAPITULO IV.
 
@@ -511,23 +579,33 @@ DEBERES Y PRERROGATIVAS DE LOS DIPUTADOS.
 
 ###### Art. 64.
 
-Son atribuciones del Congreso.
+Son facultades del Congreso:
 
-I.- Legislar en todo lo concerniente al régimen interior del Estado, expidiendo cuantas leyes y demás disposiciones sean necesarias para su gobierno y administración, en todos los ramos que uno y otra comprenden.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
 
-II.- Abrogar, derogar, reformar y adicionar las leyes, y demás disposiciones legislativas locales.
+I.- Legislar en todo lo concerniente al régimen interior del Estado, expidiendo cuantas leyes y decretos sean necesarios para su gobierno y administración, en todos los ramos que uno y otra comprenden.
 
-III.- Iniciar leyes ante el Congreso de la Unión, así como su abrogación, derogación o reforma, y secundar, cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de otros Estados.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
 
-IV.- Presentar iniciativas de leyes o decretos ante el Congreso de la Unión y, especialmente, las relativas a la derogación o modificación de disposiciones federales que perjudiquen los intereses del Estado o se consideren anticonstitucionales.
+II.- Abrogar, derogar, reformar y adicionar las leyes y decretos.
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+
+III.- Iniciar leyes o decretos ante el Congreso de la Unión, así como su abrogación, derogación, reforma y adición, facultades que ejercerá obligatoriamente tratándose de disposiciones federales que perjudiquen los intereses del Estado o se consideren anticonstitucionales y secundar cuando lo estime conveniente, las iniciativas hechas por las legislaturas de otros Estados.
+
+IV.- (DEROGADA, P.O. 24 DE ENERO DE 1979)
 
 V.- Disponer la resistencia a una invasión extranjera, en caso de que el peligro sea tan inminente que no admita demora, dando cuenta inmediatamente al Presidente de la República.
 
-VI.- Fijar anualmente todos los gastos de la Administración Pública del Estado, previo examen del Presupuesto que presente el Ejecutivo.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+
+VI.- Examinar, discutir y aprobar anualmente el presupuesto de egresos del Estado, discutiendo las contribuciones que, a su vez, deben decretarse para cubrirlo.
 
 VII.- Revisar las Cuentas Generales de Ingresos y Egresos del Erario Público, que por mes, trimestre o semestre presente el Ejecutivo o por año los Ayuntamientos; aprobarlas y hacerles observaciones y exigir las responsabilidades consiguientes, en el concepto de que la revisión no se limitará al examen de si los gastos están o no de acuerdo con las partidas del Presupuesto, sino que se extenderá a la exactitud y justificación de ellos.
 
-VIII.- Revisar los presupuestos anuales que remitan los ayuntamientos aprobándolos si los ingresos son legales y no inferiores a los egresos.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+
+VIII.- Revisar, discutir y aprobar los presupuestos anuales que remitan los Ayuntamientos, discutiendo las contribuciones que, a su vez, deben decretarse para cubrirlos.
 
 IX.- Autorizar al Gobernador:
 
@@ -543,7 +621,9 @@ X.- Fijar y modificar la división territorial, política, administrativa, judic
 
 XI.- Resolver las cuestiones de límites entre los Municipios del Estado.
 
-XII.- Por el voto de los dos tercios del número total de Diputados que formen el Congreso erigir nuevos Municipios dentro de los límites de los existentes, suprimir alguno o algunos de éstos, previo los informes que rendirán, dentro del término que se les fije, el Ejecutivo del Estado y los Ayuntamientos de los Municipios de cuyo territorio se trata.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+
+XII.- Por el voto de los dos tercios del número total de diputados que formen el Congreso y atendiendo a factores demográficos, geográficos y socio-económicos, erigir nuevos municipios dentro de los límites de los existentes, suprimir alguno o algunos de éstos, previos los informes que rendirán, dentro del término que se les fije, el Ejecutivo del Estado y los Ayuntamientos de los Municipios de cuyo territorio se trata.
 
 XIII.- Reglamentar el funcionamiento del Municipio Libre, como base de la división territorial y de la organización política y administrativa del Estado.
 
@@ -559,9 +639,13 @@ C.- Designar los Magistrados que deban integrar el Supremo Tribunal de Justicia,
 
 D.- Declarar electos Senadores al Congreso de la Unión, por el Estado, a los ciudadanos que obtuvieren la mayoría de votos.
 
-E.- Nombrar, a propuesta en terna del Ejecutivo, los Munícipes que formen o integren los Ayuntamientos, mientras se hacen las elecciones correspondientes, cuando por cualquier motivo faltaren de modo absoluto todos o algunos de los Propietarios y sus respectivos Suplentes.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
-XVI.- Recibir la protesta legal al Gobernador, Diputados y Magistrados del Supremo Tribunal de Justicia.
+E.- Nombrar a propuesta en terna del Ejecutivo, a los munícipes que integren los Ayuntamientos cuando el propio Congreso los hubiere declarado desaparecidos o por cualquier motivo faltaren de modo absoluto todos o algunos de los propietarios y sus respectivos suplentes. Si la declaratoria o falta acaece dentro de los primeros seis meses del ejercicio constitucional de los Ayuntamientos, se convocará a elecciones para designar las personas que han de sustituirlos; si aconteciere después del plazo señalado, los nombrados por el Congreso constituido en Colegio Electoral concluirán el período.
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+
+XVI.- Recibir la protesta legal del Gobernador, Diputados y Magistrados del Supremo Tribunal de Justicia.
 
 XVII.- Resolver sobre las renuncias que hagan de sus cargos los funcionarios a que se refiere la fracción próxima anterior, y sobre las excusas que presenten para admitirlos.
 
@@ -575,11 +659,15 @@ XXI.- Dirimir los conflictos que se susciten entre los Poderes Ejecutivo y Judic
 
 XXII.- Calificar las elecciones de Ayuntamientos del Estado, cuando se reclame contra ellas conforme a la ley respectiva, resolviendo sobre su validez o nulidad y haciendo en su caso el cómputo de votos y la declaración de los electos.
 
-XXIII.- Crear empleos públicos del Estado, señalar sus dotaciones y suprimir los que no estuvieren creados por esta Constitución.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+
+XXIII.- Crear y suprimir empleos públicos del Estado y señalar sus dotaciones.
 
 XXIV.- Decretar la organización de las fuerzas de seguridad pública del Estado.
 
-XXV.- Conceder amnistía por delitos políticos de la competencia del Estado, mediante acuerdo de los dos tercios del número de Diputados presentes.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+
+XXV.- Conceder amnistía por delitos cuyo conocimiento corresponda a los Tribunales del Estado, mediante acuerdo de los dos tercios del número de diputados presentes.
 
 XXVI.- Rehabilitar en los derechos de ciudadanos Chihuahuenses y dar cartas de ciudadanía.
 
@@ -595,7 +683,7 @@ XXXI.- Autorizar la enajenación o gravamen de los bienes inmuebles de los Munic
 
 XXXII.- Recabar de quien corresponda y por los conductos debidos, informes sobre todos los ramos de Administración Pública del Estado y de los Municipios, cuando lo estime necesario para el mejor ejercicio de las funciones de la Legislatura.
 
-XXXIII.- Expedir leyes de colonización conforme a las bases que establezca el Congreso General.
+XXXIII.- (DEROGADA, P.O. 24 DE ENERO DE 1979)
 
 XXXIV.- Declarar beneméritos del Estado a los individuos que se hayan distinguido por servicios eminentes prestados al mismo, siempre que hayan transcurrido diez años desde su fallecimiento; otorgar premios o recompensas tanto a dichos individuos como a los que hayan prestado iguales servicios a la humanidad y conceder auxilios o pensiones a las viudas o huérfanas de los que hubieren fallecido siendo merecedores de aquellas recompensas, sin haberlas recibido.
 
@@ -609,17 +697,27 @@ XXXVIII.- Organizar el sistema penal o de defensa social sobre la base del traba
 
 XXXIX.- Dictar leyes encaminadas a combatir el alcoholismo.
 
-XL.- Expedir leyes sobre el trabajo conforme a las bases establecidas en la Constitución General de la República.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+
+XL. Expedir las leyes que regulen las relaciones entre el Estado, Municipios, organismos descentralizados y sus respectivos trabajadores.
 
 XLI.- Determinar el número máximo de ministros de los cultos religiosos.
 
 XLII.- Nombrar la Diputación Permanente.
 
-XLIII.- Formar su Reglamento Interior.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+
+XLIII.- Expedir la ley que regulará su estructura y funcionamiento internos, la que determinará las formas y procedimientos para la agrupación de los Diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el Congreso.
+
+Esta ley no podrá ser vetada por el Ejecutivo, el que la promulgará y publicará dentro de los treinta días hábiles siguientes a su recepción.
 
 XLIV.- Nombrar y remover libremente a los empleados de su Secretaría y, de la Contaduría General.
 
-XLV.- Expedir cuantas leyes sean necesarias para hacer efectivas las anteriores atribuciones y las señaladas a los otros Poderes del Estado.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+
+XLV.- Expedir todas las leyes necesarias a fin de hacer efectivas las facultades anteriores y
+
+todas las otras concedidas por esta Constitución a los Poderes del Estado.
 
 XLVI.- Las demás que le confieren esta Constitución y la General de la República.
 
@@ -633,7 +731,9 @@ Son deberes de los Diputados:
 
 I.- Concurrir puntualmente a las sesiones del Congreso, en el concepto de que los que faltaren a una sesión sin causa justificada o sin permiso del Presidente, no tendrán derecho a las dietas correspondientes el día en que falten.
 
-II.- Despachar dentro de los términos que señale el Reglamento Interior de la Cámara, los negocios que pasen a las comisiones que desempeñen.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+
+II.- Despachar dentro de los términos que señale la Ley Orgánica del Congreso, los asuntos que pasen a las Comisiones que desempeñen.
 
 III.- Emitir su voto en los asuntos que se sometan a la deliberación del Congreso.
 
@@ -653,9 +753,13 @@ E.- Presentar al Congreso, al abrirse el período de sesiones posterior inmediat
 
 Para que los Diputados puedan cumplir con las prevenciones contenidas en el artículo próximo anterior todas las Oficinas Públicas del Estado y de los Municipios les proporcionarán cuantos datos les pidieren.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+
 ###### Art. 67.
 
-Los Diputados son inviolables por las opiniones que manifiesten en el ejercicio de su encargo, y jamás podrán ser reconvenidos ni juzgados por ellas, sin perjuicio del derecho de tercero para querellarse por delitos contra la reputación.
+Los diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y jamás podrán ser reconvenidos por ellas.
+
+El Presidente de la Cámara o de la Diputación Permanente, en su caso, velará por el respeto al fuero constitucional de los miembros de la misma y por la inviolabilidad del recinto donde se reúnen a sesionar.
 
 ### CAPITULO VI.
 
@@ -681,9 +785,11 @@ Para que un proyecto tenga fuerza de ley o de decreto, se requiere que sea aprob
 
 El Gobernador podrá, cuando estimare conveniente hacer observaciones a algún proyecto de ley o de decreto, suspender su publicación y devolverlo con ellas dentro de ocho días útiles, contado desde aquel en que lo reciba.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+
 ###### Art. 71.
 
-El proyecto de ley o de decreto devuelto al Congreso con observaciones, deberá ser discutido de nuevo en cuanto a éstas, previo dictamen de la Comisión respectiva; y si fuere confirmado por el voto de los dos tercios del número de diputados presentes, o modificado de conformidad con las observaciones hechas, volverá al Gobernador, quien deberá promulgarlo sin más trámite.
+El proyecto de ley o de decreto devuelto al Congreso con observaciones, deberá ser discutido de nuevo en cuanto a éstas, previo dictamen de la Comisión respectiva y si fuere confirmado por el voto de los dos tercios del número total de diputados, o modificado de conformidad con las observaciones hechas, volverá al Gobernador, quien deberá promulgarlo sin más trámite.
 
 ###### Art. 72.
 
@@ -691,17 +797,19 @@ Se reputará aprobado por el Gobernador todo proyecto no devuelto con observacio
 
 ###### Art. 73.
 
-En el caso de urgencia, calificada por el voto de los dos tercios del número de Diputados presentes y manifestada al hacer la remisión del proyecto de ley o de decreto al Ejecutivo, éste podrá hacer observaciones dentro de tres días y pasados éstos sin haberlas hecho, deberá mandarlo publicar.
+(DEROGADO, P.O. 24 DE ENERO DE 1979)
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 74.
 
-El Congreso o la Diputación Permanente podrán ordenar la publicación de sus proyectos de ley o de decreto en su caso, si el Ejecutivo no lo hace en los ocho días siguientes al vencimiento del término para hacer observaciones o a los tres días de haber recibido el proyecto confirmado por aquella Asamblea.
+El Congreso podrá ordenar la publicación de sus proyectos de ley o de decreto, si el Ejecutivo no lo hace dentro de los ocho días siguientes al vencimiento del término para hacer observaciones.
 
-Si la remisión se hubiere hecho en los términos del artículo próximo anterior, el Congreso o la Diputación Permanente podrán ordenar la publicación, si el Ejecutivo no lo hace en los tres días siguientes al vencimiento del término para hacer observaciones o el día en que reciba el proyecto confirmado por la Asamblea. En los dos casos de este artículo se harán constar en el acuerdo las circunstancias que lo motivan.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 75.
 
-El Ejecutivo no podrá hacer observaciones a las resoluciones del Congreso cuando hayan sido dictadas en ejercicio de las atribuciones que señalan al Congreso los artículos 50 y 64, este último en sus fracciones VII, VIII, IX, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXVI, XXVII, XLIII, XLIV y la fracción II del artículo 82.
+El Ejecutivo no podrá hacer observaciones a las resoluciones del Congreso cuando hayan sido dictadas en ejercicio de las atribuciones que señala al Congreso el artículo 64 en sus fracciones VII, VIII, IX, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXVI, XXVII, XLIII y la fracción II del artículo 82.
 
 ###### Art. 76.
 
@@ -711,9 +819,11 @@ Los proyectos de ley o de decreto que hubieren sido desechados, no podrán volve
 
 En la abrogación, derogación, reforma o adición de cualquier ley o decreto, se observarán los mismos requisitos que para su formación.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+
 ###### Art. 78.
 
-Las leyes y decretos obligan en la capital del estado, desde el día siguiente al de la promulgación en el Periódico Oficial, y en los demás lugares, a los veinte días de dicha promulgación, salvo que en la misma ley o decreto se fije otro término.
+Las leyes y decretos obligan en la Capital del Estado, desde el día siguiente al de la publicación en el Periódico Oficial, y en los demás lugares, a los veinte días de dicha publicación, salvo que en la misma ley o decreto se fije otro término, con tal de que aquellos sean anteriores.
 
 ### CAPITULO I.
 
@@ -727,13 +837,13 @@ Durante los recesos del Congreso habrá una Diputación Permanente, compuesta de
 
 La Diputación Permanente será nombrada por el Congreso en la última sesión de período ordinario, por mayoría absoluta de votos y en escrutinio secreto.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1955)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 81.
 
 La Diputación Permanente se instalará el mismo día que hubiere sido nombrada inmediatamente después de la última sesión ordinaria y acordará los días y hora de sus sesiones regulares.
 
-Además, se reunirá siempre que fuere convocada por su Presidente, y no podrá celebrar menos de dos sesiones semanarias, ni funcionar sin la concurrencia de tres de sus miembros.
+Además, se reunirá siempre que fuere convocada por su Presidente, y no podrá celebrar menos de una sesión semanaria, ni funcionar sin la concurrencia de tres de sus miembros.
 
 ###### Art. 82.
 
@@ -769,7 +879,9 @@ La Diputación Permanente dará cuenta en la segunda sesión de la Legislatura d
 
 ### CAPITULO II.
 
-DE LAS ATRIBUCIONES DEL GOBERNADOR.
+DE LAS FACULTADES DEL GOBERNADOR.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 1979)</small>
 
 ## TITULO VIII.
 
@@ -845,19 +957,25 @@ El Gobernador no puede separarse por tiempo alguno del ejercicio de sus funcione
 
 El Gobernador se considerará separado del Despacho, cuando saliere de los límites del Estado sin la licencia requerida por el artículo próximo anterior, salvo casos de fuerza mayor.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE ENERO DE 1979)</small>
+
 ### CAPITULO I.
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+
 ###### Art. 93.
 
-Son atribuciones del Gobernador:
+Son facultades del Gobernador:
 
 I.- Publicar y hacer cumplir las leyes federales.
 
 II.- Promulgar las leyes y decretos que expidiere el Congreso del Estado y publicarlos, cuando éste lo acordare, por medio de carteles que se fijen en los parajes públicos en todas las Municipalidades, a más tardar dentro de treinta días del en que reciba la ley o decreto, además del caso en que se ordene la publicación por bando solemne; salvo la facultad que le concede la fracción VII.
 
-III.- Ejecutar y hacer que se cumplan las leyes, decretos y acuerdos que expida la Legislatura Local.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+
+III.- Ejecutar y hacer que se cumplan las leyes y decretos que expida la Legislatura Local.
 
 IV.- Expedir todos los reglamentos que estime convenientes y, en general, proveer en la esfera administrativa cuando fuere necesario o útil para la más exacta observancia de las leyes.
 
@@ -865,7 +983,9 @@ V.- Velar por la conservación del orden, tranquilidad y seguridad del Estado y 
 
 VI.- Iniciar leyes y decretos ante el Congreso del Estado, en uso del derecho que le concede el artículo 68 en su fracción II.
 
-VII.- Hacer observaciones a las leyes y decretos en los términos de los artículos 70 y 73.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+
+VII.- Hacer observaciones a las leyes o decretos en los términos del artículo 70.
 
 VIII.- Prestar al Poder Judicial los auxilios que demande para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales.
 
@@ -883,21 +1003,29 @@ XIV.- Excitar a los Ayuntamientos, Presidentes de Municipalidad y de Sección y 
 
 XV.- Dar órdenes a los Presidentes Municipales, Presidentes de Sección y Comisarios de Policía, sobre asuntos relativos a los ramos cuya administración general en el Estado corresponda al Ejecutivo.
 
-XVI.- Imponer correccionalmente multas que no excedan de quinientos pesos o arresto hasta por treinta y seis horas, pudiendo, si el infractor no pagare la multa, conmutar ésta por el arresto correspondiente, conforme al artículo 21 de la Constitución General.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+
+XVI.- Imponer correccionalmente multas que no excedan de cinco mil pesos o arresto hasta por treinta y seis horas, pudiendo, si el infractor no paga la multa, conmutar ésta por el arresto correspondiente, conforme al artículo 21 de la Constitución General.
 
 XVII.- Resolver en definitiva, conforme a las leyes, sobre las correcciones que se impongan por las autoridades administrativas del Estado y por las Municipales cuando funcionen como Agentes del Ejecutivo.
 
 XVIII.- Presidir todas las reuniones oficiales a que concurra, a excepción de las del Congreso y Tribunales.
 
-XIX.- Asistir a la apertura del primer período ordinario de sesiones del Congreso y de los extraordinarios cuando el Ejecutivo hubiere promovido la convocatoria, y leer un informe, en el primer caso, sobre el estado que guarde la Administración Pública, y en el segundo, sobre las razones que hayan motivado la convocación.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+
+XIX.- Asistir a la apertura del período ordinario de sesiones del Congreso y de los extraordinarios cuando el Ejecutivo hubiere promovido la convocatoria, y presentar un informe, en el primer caso, sobre el estado que guarde la administración pública, y en el segundo, sobre las razones que hayan motivado la convocación.
 
 XX.- Reconocer, cuando se hubiere dividido en varios grupos la Legislatura, al que tenga quórum legal conforme a esta Constitución.
 
 XXI.- Pedir informes al Congreso y al Supremo Tribunal de Justicia sobre asuntos de los ramos de su incumbencia, respectivamente, y darlos cuando dichos Poderes los pidan acerca de los que competen al Ejecutivo.
 
-XXII.- Nombrar Secretario General de Gobierno, Abogado Consultor del Gobierno, Cuerpo Consultivo de Abogados cuando se haga necesario, Procurador General de Justicia, Tesorero General y demás Jefes de Departamento y Agentes del Ministerio Público; recibirles la protesta de ley, concederles licencias y removerlos libremente, salvo lo dispuesto en el artículo 124, respecto de los últimos.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
 
-XXIII.- Nombrar a los Jueces del Registro Civil, a los Registradores de la Propiedad y a todos los demás empleados públicos del Ejecutivo; así como concederles licencias, resolver sobre sus renuncias y removerlos conforme a esta Constitución; siempre que en ella o en las leyes no estén sometidas esas facultades a otra autoridad o empleado.
+XXII.- Nombrar Secretario General de Gobierno, Abogado Consultor del Gobierno, Cuerpo Consultivo de Abogados cuando se haga necesario, Procurador General de Justicia, Tesorero General, Directores y demás Jefes de Departamento y Agentes del Ministerio Público; recibirles la protesta de ley, concederles licencias y removerlos libremente.
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+
+XXIII.- Nombrar a los Oficiales o Encargados del Registro Civil, a los Registradores de la Propiedad y a todos los demás empleados públicos del Ejecutivo; así como concederles licencias, resolver sobre sus renuncias y removerlos conforme a esta Constitución, siempre que en ella o en las leyes no estén concedidas esas facultades a otra autoridad.
 
 XXIV.- Cuidar de que los fondos públicos estén siempre asegurados y de que su recaudación y distribución se haga con arreglo a la ley.
 
@@ -905,7 +1033,9 @@ XXV.- Organizar y controlar la recaudación de los fondos públicos, quedándole
 
 XXVI.- Condonar adeudos por concepto de rezagos, cuando lo considere justo y equitativo.
 
-XXVII.- Estipular contratos para concesiones y otorgar éstas, si aquellos fueren aprobados por el Congreso.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+
+XXVII.- Otorgar concesiones de acuerdo con las leyes de la materia.
 
 XXVIII.- Nombrar persona que represente en juicio a la Hacienda Pública cuando fuere necesario.
 
@@ -923,7 +1053,7 @@ XXXIV.- Formar el Reglamento de la Secretaría de su Despacho.
 
 XXXV.- Convocar a elecciones de Ayuntamientos, cuando por cualquier motivo desaparecieren éstos, dentro del primer semestre del período constitucional correspondiente.
 
-XXXVI.- Presidir el Jurado de Responsabilidades a que se refiere la fracción II del artículo 180.
+XXXVI.- (DEROGADA, P.O. 1 DE OCTUBRE DE 1986)
 
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 1963)</small>
 
@@ -932,6 +1062,10 @@ XXXVII.- Delegar en las Autoridades Municipales, en los casos en que lo consider
 > <small>(REFORMADA, P.O. 13 DE JULIO DE 1963)</small>
 
 XXXVIII.- Las demás que le asignen las Leyes, ya sean Federales o del Estado.
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 1979)</small>
+
+XXXIX.- Las demás que le asignen las leyes, ya sean federales o del Estado.
 
 ### CAPITULO II.
 
@@ -961,13 +1095,17 @@ V.- No ser ni haber sido ministro de algún culto religioso.
 
 El Secretario General de Gobierno y los Titulares de las demás Dependencias del Ejecutivo serán los órganos de comunicación entre el Gobernador y las autoridades y empleados del Estado, con excepción del Congreso, el Supremo Tribunal y sus Salas, con los cuales llevará la correspondencia el Gobernador.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+
 ###### Art. 97.
 
-Todas las leyes y decretos del Congreso salvo los casos previstos en el Artículo 74 deberán ser firmados por el Gobernador y su Secretario General, requisito sin el cual no serán obligatorios, siendo dichos funcionarios responsables de todas las disposiciones que autoricen contra las leyes vigentes. Los reglamentos, acuerdos, órdenes y demás disposiciones del Gobernador, serán firmados por los funcionarios que prevenga la Ley Orgánica del Poder Ejecutivo.
+Todas las leyes y decretos del Congreso salvo los casos previstos en el artículo 74, deberán ser firmados por el Gobernador y el Secretario General, requisito sin el cual no serán obligatorios. Los reglamentos, acuerdos, órdenes y demás disposiciones del Gobernador, serán firmados por el Secretario General y por el funcionario del ramo a que el asunto corresponda.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 98.
 
-Las faltas temporales del Secretario de Gobierno, cuando no excedan de dos meses, serán suplidas por el Oficial Mayor de la Secretaría con la misma responsabilidad que aquél.
+Las faltas temporales del Secretario de Gobierno, cuando no excedan de dos meses, serán suplidas por el Oficial Mayor del Poder Ejecutivo.
 
 ## TITULO IX.
 
@@ -979,7 +1117,7 @@ DE LOS JUECES DE PRIMERA INSTANCIA, MENORES Y DE PAZ.
 
 ###### Art. 99.
 
-La potestad de aplicar las leyes, en materia tanto civil como criminal o de defensa social corresponde exclusivamente al Poder Judicial.
+La potestad de aplicar las leyes, en materia civil y penal corresponde exclusivamente al Poder Judicial. Aquéllas podrán instituir tribunales de lo contencioso administrativo, dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias que se susciten entre la administración pública estatal o municipal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
 
 ### CAPITULO I.
 
@@ -1000,6 +1138,10 @@ Si al terminarse el período señalado a los funcionarios judiciales no hubieren
 ###### Art. 103.
 
 El Supremo Tribunal de Justicia se compondrá cuando menos de cinco Magistrados. Estos serán inamovibles y sólo podrán ser removidos de sus cargos por mal conducta debidamente comprobada en los términos de la Ley Orgánica del Poder Judicial o previo juicio de responsabilidad.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+
+La elección se hará por escrutinio secreto, a mayoría absoluta de votos, en relación a las personas que integren las ternas de candidatos remitidas por el Ejecutivo oportunamente en el año en que deba hacerse la elección.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1968)</small>
 
@@ -1055,9 +1197,9 @@ Corresponde al Supremo Tribunal de Justicia:
 
 I.- Iniciar ante el Congreso leyes y decretos, conforme a esta Constitución.
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 1968)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
 
-II.- Conocer en Segunda Instancia de las causas que, por delitos oficiales, se hubieren instruído al Gobernador, Diputados, Magistrados, Secretario General de Gobierno, Procurador General de Justicia y Jefes de las demás Dependencias del Ejecutivo, en los términos que señale la Ley Orgánica respectiva.
+II.- Conocer en segunda instancia, de las causas que, por delitos oficiales, se hubieren instruido al Gobernador, Diputados, Magistrados, Secretario General de Gobierno, Procurador de Justicia y Jefes de las demás Dependencias del Ejecutivo.
 
 III.- Dirimir los conflictos que surjan entre los Poderes Legislativo y Ejecutivo del Estado, siempre que no sean de carácter político ni de la competencia de la Suprema Corte de Justicia de la Nación.
 
@@ -1069,15 +1211,17 @@ VI.- Nombrar:
 
 A.- A sus Secretarios y demás empleados.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1968)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
-B.- A los Jueces de Primera Instancia.
+B.- A los Jueces del Estado.
 
-C.- A los Jueces Menores y sus Suplentes.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
-D.- A los Visitadores Judiciales.
+C.- A los Visitadores Judiciales.
 
-E.- A los Jueces de Paz.
+D.- (DEROGADO, P.O. 24 DE ENERO DE 1979)
+
+E.- (DEROGADO, P.O. 24 DE ENERO DE 1979)
 
 VII.- Conceder licencias de más de treinta días, y hasta por dos meses sin goce de sueldo, y con él, sólo en caso de enfermedad, a los Jueces y empleados que nombre y resolver sobre sus renuncias.
 
@@ -1085,7 +1229,9 @@ VII.- Conceder licencias de más de treinta días, y hasta por dos meses sin goc
 
 VIII.- Suspender hasta por tres meses o remover en los casos de los artículos 103 y 112 por causa grave, que no sea motivo de proceso, a los funcionarios comprendidos en dichas disposiciones y a los mencionados en la fracción VI.
 
-IX.- Formar su Reglamento Interior, sometiéndolo a la aprobación del H. Congreso.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+
+IX.- Aprobar su reglamento interior.
 
 X.- Ejercer las demás atribuciones que le señalen las leyes.
 
@@ -1183,9 +1329,35 @@ El territorio del Estado se dividirá en los Municipios que determine la Ley Org
 
 La Administración Municipal estará a cargo:
 
-I.- De los Ayuntamientos, los que serán electos popular y directamente, residirán en las cabeceras de las Municipalidades que administren, durarán en su encargo tres años y estarán formados por un Presidente y el número de Regidores que determine la ley, con sus respectivos Suplentes, quienes no podrán ser reelectos en el período inmediato para ninguno de los puestos de dicho Ayuntamiento, aún cuando se hubieren separado anticipadamente de sus funciones. Quedan igualmente comprendidos en esta incapacidad, los miembros de un Ayuntamiento que hayan sido nombrados por el Congreso de acuerdo con sus facultades.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
 
-Se exceptúan de esta prohibición, los Suplentes, electos en elección directa o designados por el Congreso, que no hubieren entrado en funciones durante todo el ejercicio correspondiente.
+I.- De los Ayuntamientos, los que serán electos popular y directamente, según el principio de votación mayoritaria relativa, residirán en las cabeceras de las municipalidades que administren, durarán en su encargo tres años y estarán integrados por un Presidente y el número de regidores que determine la ley, con sus respectivos suplentes.
+
+En los Municipios cuya población sea de trescientos mil o más habitantes, los Ayuntamientos tendrán adicionalmente hasta dos regidores electos, según el principio de representación proporcional.
+
+De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuido un regidor el partido político que satisfaga los siguientes requisitos.
+
+A.- Que hubiere registrado fórmula de candidatos en las elecciones municipales repectivas.
+
+B.- Que no haya alcanzado el triunfo por mayoría relativa en la misma elección.
+
+C.- Que alcance por lo menos el 10% del total de la votación emitida en el Municipio correspondiente.
+
+D.- El otro regidor se atribuirá al partido político que hubiere obtenido el segundo porcentaje en votación minoritaria y tenga por lo menos más de la mitad de los sufragios que el partido triunfador minoritario haya alcanzado, pues de lo contrario se le atribuirá el segundo regidor al partido triunfador minoritario.
+
+E.- Serán regidores, propietarios o suplentes según el principio de representación proporcional, los que aparezcan en primer término, con el carácter señalado, en la boleta electoral que se autorice para la elección según el principio de votación mayoritaria relativa.
+
+En el caso del inciso D de la fracción I de este artículo, lo serán los que ocupen el segundo lugar en la boleta mencionada.
+
+Si los regidores, propietarios y suplentes, electos según el principio de representación proporcional no se presentan a tomar posesión de su cargo en la fecha en que deban efectuarlo, se declarará vacante el cargo e incurrirán en responsabilidad y se harán acreedores a las sanciones que la ley señale.
+
+También incurrirán en responsabilidad que la misma ley señale los partidos políticos que habiendo postulado candidatos en una elección municipal, acuerden que sus miembros que resultaren electos no se presenten a desempeñar sus funciones.
+
+F.- Los regidores electos según el principio de votación mayoritaria relativa y los designados según el principio de representación proporcional tendrán la misma categoría e iguales derechos y obligaciones.
+
+G.- La Ley reglamentará los procedimientos que se observarán en dichas asignaciones.
+
+Los miembros del ayuntamiento, ya sean propietarios o suplentes, no podrán ser reelectos en sus cargos para el período siguiente. Los que tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el cargo de suplentes, pero los que tengan el cargo de suplentes sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio. El presidente cualquiera que sea el carácter con que desempeñe el cargo no podrá ser electo regidor propietario ni suplente y los regidores propietarios o los suplentes que hayan estado en ejercicio, no podrán ser electos para el cargo de presidente. Las prohibiciones anteriores, comprenden también a los miembros de un ayuntamiento que hayan sido nombrados por el Congreso en ejercicio de sus funciones.
 
 II.- De las Juntas Municipales, las que residirán en la cabecera de la Sección Municipal respectiva, durarán en su encargo tres años y serán integradas por los miembros que la ley establezca, los que serán designados por el Ayuntamiento correspondiente tomando en consideración la opinión de la mayoría de los ciudadanos residentes en la Sección de que se trate. Los miembros de las Juntas Municipales serán removidos por el Ayuntamiento cuando lo soliciten la mayoría de los ciudadanos residentes en la Sección respectiva.
 
@@ -1219,11 +1391,11 @@ No podrán ser reelectos para el período inmediato, los miembros de las Juntas 
 
 En las elecciones de Ayuntamientos, Juntas Municipales y Comisarios de Policía sólo podrán votar los ciudadanos chihuahuenses que, además de ser vecinos del Estado, tengan dos meses de residencia habitual en la Municipalidad, Sección Municipal o Comisariado de Policía, respectivamente.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1955)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 130.
 
-Los Ayuntamientos se instalarán el día diez de octubre de los años correspondientes a su instalación, y las Juntas Municipales y Comisarios de Policía el día veinte del mismo mes.
+Los ayuntamientos se instalarán el día diez de octubre de los años correspondientes a su renovación, y las Juntas Municipales y los comisarios de policía antes del día treinta de noviembre.
 
 ###### Art. 131.
 
@@ -1280,6 +1452,10 @@ IV.- Del producto de los demás impuestos, participaciones, derechos, productos 
 V.- Del tanto por ciento que pueda asignarles el Congreso conforme a la fracción XIV del artículo 64.
 
 VI.- De los subsidios extraordinarios que se les otorguen por el Estado y de los donativos que se les hicieren por particulares o corporaciones.
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 1979)</small>
+
+VII.- De las participaciones federales sobre el rendimiento de las contribuciones especiales de conformidad con el artículo 73 fracción XXIX inciso 5) de la Constitución General de la República y de las demás participaciones que establezcan las leyes federales o locales.
 
 ###### Art. 133.
 
@@ -1734,3 +1910,7 @@ P.O. 31 DE JULIO DE 1976.
 PRIMERO.- Este Constituyente Permanente prorroga el ejercicio de la LI Legislatura Local hasta el 29 de septiembre de 1977.
 
 SEGUNDO.- Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ENERO DE 1979.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará a vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
