@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-xxi-94-del-tribunal-pleno-de-la-suprema-25927"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1994-10-04"
-last_updated: "1994-10-04"
+last_updated: "2001-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25927&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,13 +21,15 @@ issue_date: "1994-10-04"
 
 ACUERDO XXI/94 DEL TRIBUNAL EN PLENO DEL DIA CUATRO DE OCTUBRE DE MIL NOVECIENTOS NOVENTA Y CUATRO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL CONJUNTO NUMERO 1/2001 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 11 DE SEPTIEMBRE DE 2001, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Número 82, Octubre de 1994, página 79.
 
 ACUERDO XXI/94
 
-ACUERDO DEL TRIBUNAL EN PLENO DEL DIA CUATRO DE OCTUBRE DE MIL NOVECIENTOS NOVENTA Y CUATRO.
+ACUERDO XXI/94 DEL TRIBUNAL EN PLENO DEL DIA CUATRO DE OCTUBRE DE MIL NOVECIENTOS NOVENTA Y CUATRO
 
 CONSIDERANDO:
 
@@ -166,3 +168,17 @@ LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA S
 CERTIFICA:
 
 Que este Acuerdo XXI/94, relativo a la autorización a los juzgados de Distrito en el país para la destrucción y envío de expedientes, fue emitido por el Tribunal Pleno en sesión privada de cuatro de octubre de mil novecientos noventa y cuatro, por unanimidad de diecisiete votos de los señores Ministros: Presidente Ulises Schmill Ordóñez, Carlos de Silva Nava, Ignacio Magaña Cárdenas, Miguel Montes García, Carlos Sempé Minvielle, Felipe López Contreras, José Antonio Llanos Duarte, Victoria Adato Green, Samuel Alba Leyva, Ignacio Moisés Cal y Mayor Gutiérrez, Clementina Gil de Lester, Atanasio González Martínez, José Manuel Villagordoa Lozano, Fausta Moreno Flores, Carlos García Vázquez, Juan Díaz Romero y Sergio Hugo Chapital Gutiérrez. México, Distrito Federal, a cuatro de octubre de mil novecientos noventa y cuatro.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 11 DE SEPTIEMBRE DE 2001.
+
+PRIMERO. Este Acuerdo entrará en vigor treinta días después de su publicación.
+
+SEGUNDO. Se abrogan los Acuerdos plenarios X/93, de fecha ocho de junio de mil novecientos noventa y tres, y XXI/94, de fecha cuatro de octubre de mil novecientos noventa y cuatro.
+
+TERCERO. Para la homologación de las relaciones de transferencia y depuración de acervos, el área encargada de la estadística judicial en el Consejo de la Judicatura Federal, incorporará un módulo que permita la elaboración de dichos reportes, de acuerdo a los formatos determinados para tal efecto.
+
+CUARTO. El Comité de Documentación y Análisis, creado por el Acuerdo del Pleno de la Suprema Corte de Justicia de la Nación número 2/1996, publicado en el Diario Oficial de la Federación el veintiséis de junio de mil novecientos noventa y seis, resolverá cualquier cuestión que pudiera suscitarse.
+
+QUINTO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta, así como en el Diario Oficial de la Federación y hágase del conocimiento de los Jueces de Distrito y Magistrados de Tribunales Unitarios y Colegiados de Circuito para su cumplimiento.
