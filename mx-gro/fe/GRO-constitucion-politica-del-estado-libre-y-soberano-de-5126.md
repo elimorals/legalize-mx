@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1926-11-27"
+last_updated: "1927-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 1926.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 1927.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -335,11 +335,15 @@ El día de la instalación, y antes del acto, los Diputados otorgarán la protes
 
 Para que el Congreso pueda instalarse y ejercer sus funciones, se necesita, por lo menos, la presencia de las dos terceras partes del número total de sus miembros; pero los presentes deberán reunirse el día señalado por la ley, y compeler, bajo las penas que ella designe, a efecto de que concurran, a los ausentes cuya elección se hubiere declarado legal por las respectivas juntas electorales.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1927)</small>
+
 ###### Artículo 37.
 
-Habrá en cada año dos periodos de sesiones ordinarias. El primero comenzará el primero de marzo y terminará el 31 de mayo. El segundo principiará el 1º de septiembre y terminará el 30 de noviembre. Ambos periodos podrán prorrogarse, hasta por 30 días, cuando así lo requieran los asuntos pendientes y su importancia.
+Cada Legislatura tendrá cinco períodos ordinarios de sesiones. El primero comenzará el 1° de marzo y terminará el 31 de mayo; el segundo, tercero y cuarto, principiarán el 1º de diciembre y concluirán el 31 de mayo del año siguiente; el último comenzará el 1° de diciembre y terminará el último día de febrero.
 
-En caso de que por alguna circunstancia imprevista no pudieren abrirse o cerrarse las sesiones en los días señalados, tendrán verificativo estos actos en la fecha que respectivamente acuerden los Diputados.
+Los períodos ordinarios podrán prorrogarse por el tiempo necesario para tratar los asuntos pendientes, cuando éstos así lo requieran, o clausurarse antes de las fechas indicadas, en caso de no haber asuntos importantes que tratar.
+
+Si por alguna circunstancia imprevista no pudieren abrirse los períodos de sesiones en los días señalados; tendrán verificativo estos actos en la fecha que acuerden los Diputados.
 
 ### CAPITULO II.
 
@@ -1070,3 +1074,7 @@ Surtirá sus efectos el presente Decreto, a partir de la fecha de su publicació
 P.O. 27 DE NOVIEMBRE DE 1926.
 
 El presente Decreto surtirá sus efectos desde la fecha de su publicación.
+
+P.O. 21 DE MAYO DE 1927.
+
+Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación.
