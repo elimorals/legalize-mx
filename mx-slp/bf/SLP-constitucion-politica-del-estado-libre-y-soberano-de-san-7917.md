@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1968-06-06"
+last_updated: "1970-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 1970.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -173,13 +173,13 @@ De la Hacienda del Estado.
 
 ### CAPITULO TERCERO. De los ciudadanos potosinos
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 1953)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1970)</small>
 
-ART. 9°.- Son ciudadanos del Estado los varones y las mujeres que, teniendo la calidad de potosinos, reúnan, además los siguientes requisitos:
+ART. 9º.- Son ciudadanos del Estado los varones y las mujeres que teniendo la calidad de potosinos reúnan, además, los siguientes requisitos:
 
-I.- Haber cumplido 18 años, siendo casados, o 21 si no lo son; y
+1o.- Haber cumplido 18 años; y
 
-II.- Tener un modo honesto de vivir.
+2o.- Tener un modo honesto de vivir.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -1174,3 +1174,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 6 DE JUNIO DE 1968.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE OCTUBRE DE 1970.
+
+UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
