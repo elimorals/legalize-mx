@@ -4,7 +4,7 @@ identifier: "LIE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-27"
-last_updated: "1995-05-12"
+last_updated: "1995-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIE"
 
 LEY DE INVERSION EXTRANJERA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JUNIO DE 1995.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de diciembre de 1993.
 
@@ -98,7 +98,7 @@ IV.- Generación de energía nuclear;
 
 V.- Minerales radioactivos;
 
-VI.- Comunicación vía satélite;
+VI.- (DEROGADA POR LA FRACCION II DEL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 VII.- Telégrafos;
 
@@ -548,11 +548,25 @@ Segundo.- La Secretaría dará trámite a las solicitudes a que se refieren los 
 
 Tercero.- Se derogan:
 
-.
+I. .
 
 II. Los artículos 5, fracción X, y 7, fraccción IV, inciso s) de la Ley de Inversión Extranjera, y
 
-III.- Todas las disposiciones que se opongan a la presente ley.
+III. Todas las disposiciones que se opongan a la presente Ley.
+
+D.O.F. 7 DE JUNIO DE 1995.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto por lo que hace a las fracciones III del apartado B y IV del apartado C del artículo 171, las cuales entrarán en vigor 180 días naturales después del inicio de vigencia de esta Ley.
+
+SEGUNDO. Se derogan:
+
+.
+
+II. La fracción VI del artículo 5o. de la Ley de Inversión Extranjera, y
+
+III. Todas aquellas disposiciones que se opongan a la presente Ley.
 
 ## TITULO CUARTO. DE LA INVERSION DE PERSONAS MORALES EXTRANJERAS
 
