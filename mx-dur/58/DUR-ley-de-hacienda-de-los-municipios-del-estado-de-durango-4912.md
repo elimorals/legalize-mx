@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "1996-08-01"
+last_updated: "1996-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -2467,6 +2467,14 @@ C).- De tercera clase 1.333
 
 Los dueños, poseedores o conductores de vehículo a que se refiere este Capítulo, al ponerlos en servicio tendrán la obligación de manifestarlos a la Tesorería Municipal correspondiente, expresando nombre y domicilio, marca, número de motor o número de vehículo, si lo tiene, modelo y clase de trabajo a que se destinará a fin de que se le señale la cuota que le corresponde y en su caso, se les entreguen las placas que acrediten el cumplimiento fiscal.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+Los Municipios podrán cobrar los Derechos por la supervisión, verificación y revisión mecánica y ecológica realizada a los vehículos que circulen o que conforme al Padrón, para lo cual todos los propietarios deberán someter sus vehículos a la revisión citada.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+La revisión mecánica y ecológica de los vehículos que circulen en los Municipios del Estado de Durango, se realizará cada semestre y su cobro será el equivalente a dos salarios mínimos.
+
 ###### ARTICULO 189.
 
 Los vehículos que de acuerdo con este apartado tengan la obligación de pagar los derechos establecidos, deberán de presentar los recibos oficiales expedidos por la Tesorería Municipal correspondiente, al Departamento de Tránsito y solicitar sus placas respectivas, El departamento de Tránsito no tramitará ninguna solicitud de placas din (sic) la presentación de los recibos antes mencionados.
@@ -2595,33 +2603,39 @@ I.- Comercio e Industria.
 
 3.- Comerciantes ambulantes, de 0.25 a 1 salario mínimo.
 
-II.- Expendios de bebidas alcohólicas:
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-1.- Bares o cantinas de 5 a 10 salarios mínimos.
+II.- Expedición de bebidas alcohólicas:
 
-2.- Cabarets, centros nocturnos, casas de asignación o de citas, hoteles y negocios similares de 10 a 40 salarios mínimos.
+1.- Los derechos a que se refiere esta fracción se causarán cuando los municipios en estricto apego a lo dispuesto por la Ley para el Expendio de Bebidas Embriagantes para el Estado de Durango, expidan o refrenden licencias como requisito para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas.
 
-3.- Abarrotes con venta de bebidas alcohólicas, de 6 a 15 salarios mínimos.
+2.- Los derechos a que se refiere el numeral anterior se causarán al expedir la licencia y en su refrendo que deberá realizarse anualmente dentro de los primeros 30 días del año.
 
-4.- Restaurantes con venta de bebidas alcohólicas de 2 a 10 salarios mínimos.
+El Municipio de conformidad con el Reglamento del ramo y previo análisis de la inversión, giro, número de empleados y volumen de ventas anual, determinará las cuotas y tarifas respectivas.
 
-5.- Clubes y asociaciones debidamente constituidas, con venta de bebidas alcohólicas, de 6 a 20 salarios mínimos.
+El pago del Derecho o la expedición de una licencia será de 300 a 6000 salarios mínimos, y su refrendo anual será de 20 a 1,600 salarios mínimos.
 
-6.- Baños con venta de bebidas alcohólicas de 3 a 10 salarios mínimos.
+3.- (DEROGADO, P.O. 19 DE DICIEMBRE DE 1996)
 
-7.- Fábricas de vinos con mezclas alcohólicas de 20 a 100 salarios mínimos.
+4.- (DEROGADO, P.O. 19 DE DICIEMBRE DE 1996)
 
-8.- Distribuidores al mayoreo y menudeo de bebidas alcohólicas de 6 a 20 salarios mínimos.
+5.- (DEROGADO, P.O. 19 DE DICIEMBRE DE 1996)
 
-9.- Ventas ocasionales de bebidas alcohólicas en ferias, romerías, kermeses, bailes de especulación, etc. De 5 a 10 salarios mínimos.
+6.- (DEROGADO, P.O. 19 DE DICIEMBRE DE 1996)
 
-10.- Cualquier otro establecimiento que venda bebidas alcohólicas, sea en botella cerrada o a copeo, de 6 a 15 salarios mínimos.
+7.- (DEROGADO, P.O. 19 DE DICIEMBRE DE 1996)
 
-11.- Licencia para venta de cerveza, cuota de 10 salarios mínimos.
+8.- (DEROGADO, P.O. 19 DE DICIEMBRE DE 1996)
 
-12.- Cuando por circunstancias especiales se autorice el cierre temporal de cualquier negocio que esté amparado por licencia de las mencionadas en los incisos anteriores, el interesado para conservar la vigencia de dicha patente. Deberá seguir cubriendo el 75% de los impuestos que se hayan vendido causando por el respectivo negocio durante el término del cierre, por suspensión de actividades del mismo.
+9.- (DEROGADO, P.O. 19 DE DICIEMBRE DE 1996)
 
-13.- Apertura, funcionamiento, inclusive por tiempo mayor del reglamento en días u horas inábiles (sic) de agencias, depósitos expendios de cerveza, venta de cerveza en ferias, romerías, kermeses, bailes, de especulación y refrendo de las licencias respectivas, 20 salarios mínimos anuales en cada caso.
+10.- (DEROGADO, P.O. 19 DE DICIEMBRE DE 1996)
+
+11.- (DEROGADO, P.O. 19 DE DICIEMBRE DE 1996)
+
+12.- (DEROGADO, P.O. 19 DE DICIEMBRE DE 1996)
+
+13.- (DEROGADO, P.O. 19 DE DICIEMBRE DE 1996)
 
 III.- Diversiones y espectáculos públicos y juegos permitidos.
 
@@ -2639,15 +2653,79 @@ III.- Diversiones y espectáculos públicos y juegos permitidos.
 
 7.- Juegos permitidos de 1 a 10 salarios mínimos.
 
-> <small>N. DE E. POR DECRETO No. 134 PUBLICADO EN EL P.O. EL 1 DE AGOSTO DE 1996, SE RESTABLECE EL COBRO DE LOS DERECHOS DE EXPEDICIÓN DE LICENCIAS O REFRENDOS POR CONCEPTO DE ANUNCIOS CONTENIDOS EN ESTA FRACCIÓN.</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 IV.- Anuncios:
 
-1.- Vehículos para propaganda comercial o de cualquier otra índole con aparatos de sonido, de 1 a 5 salarios mínimos.
+1.- Los Municipios podrán cobrar las licencias, permisos y autorizaciones para la colocación de anuncios y carteles o la realización de cualquier tipo de publicidad dentro del territorio de su Municipio, excepto los anuncios que se realicen por medio de televisión, radio, periódicos, revistas o los difundidos a través de redes de informática y similares.
 
-2.- Publicidad impresa de 1 a 3 salarios mínimos.
+Todos los anuncios deberán cumplir con la Ley, los reglamentos y los instrumentos normativos en materia de Desarrollo Urbano, de construcciones, y en su caso, al de las áreas correspondientes a zonas comerciales y/o de centros históricos.
 
-3.- Anuncios pintados, fijados, sobre muros, tapias, fachadas, techos, marquesinas, etc., cualquier tipo y tamaño que tenga de 1 a 3 salarios mínimos.
+2.- Pagarán los derechos establecidos en el presente capítulo las personas fisicas o morales y unidades económicas que tengan por objeto la realización, por sí o por terceras personas de cualquier tipo de publicidad sin que puedan incluírse las exceptuadas en el artículo anterior.
+
+Las personas físicas y/o morales responsables de la colocación de anuncios o de la realización de cualquier tipo de propaganda o publicidad, y los propietarios de los bienes muebles o inmuebles donde se instalen o coloquen temporal o permanentemente los anuncios, deberán informar, cuando así lo solicite por escrito la autoridad municipal cual es la empresa responsablñe y beneficiaria de dichos anuncios, de no ser así, se entenderá como responsable y solidario del pago de estos derechos.
+
+Quedan exentos del pago de estos Derechos, los anuncios de profesionistas o comercios que reúnan las siguientes características:
+
+a) Contener únicamente el nombre del profesionista y aquellos datos que expresen la prestación de sus servicios. Los comercios varios deberán tener únicamente el nombre, la razón o denominación social del establecimiento de que se trate, su lema publicitario y sólo los elementos y logotipos de las marcas que se comercialicen en dichos negocios;
+
+b) Los anuncios de sonido que se refieran y estén instalados en la empresa; y
+
+c) Estar siempre dentro de la superficie y formar parte de las instalaciones de sus edificios, aún cuando ocupen espacio aéreo.
+
+3.- Las personas que realicen propaganda en unidades de sonido, séan móviles o no, pagarán una cuota de 12 a 20 días de salarios mínimos vigentes pagados semestralmente por unidad. El monto del pago se hará de acuerdo al lugar en que se efectúe la publicidad cobrándose la cuota más alta en las zonas céntricas de los Municipios y la más baja en cualquier lugar diferente al centro de la Cabecera Municipal.
+
+Cuando se efectúen la venta de los productos que anuncien o diferentes a éstos, pagarán 3 salarios mínimos más a la cuota impuesta por la publicidad.
+
+Las personas que se dediquen habitualmente a pegar carteles y difundir propaganda impresa o de cualquier otra índole en la vía pública, independientemente del lugar, pagarán 6 salarios mínimos mensuales, si lo efectuaran por una sola vez, cubrirán una cuota equivalente a 2 salarios mínimos cada vez que lleven a cabo su actividad publicitaria.
+
+Quedan exentas del pago de los Derechos correspondientes, las actividades publicitarias que se realicen con fines sociales; de modo tal que no se gravará la publicidad que realicen las instituciones sociales, educativas, de beneficencia social o privada, y toda aquella institución, asociación o club que preste servicio social a la ciudadanía.
+
+4.- Los anuncios que se establecen a continuación, causarán la tarifa semestral establecida en las tablas siguientes:
+
+PANTALLAS ELECTRONICAS, LUMINOSAS, DE VIDEO Y SIMILARES
+
+DIMENSIONES SALARIOS
+
+EN METROS CUADRADOS MINIMOS MENSUALES
+
+DE 1.00 A 4.99 MTS.2
+
+DE 5.00 A 9.99 MTS.2 3 A 4
+
+DE 10.00 MTS.2 EN ADELANTE 5 A 6
+
+ANUNCIOS PANORAMICOS NO LUMINOSOS
+
+DIMENSIONES SALARIOS
+
+EN METROS CUADRADOS MINIMOS MENSUALES
+
+DE 1.00 A 4.99 MTS.2 1 A 2
+
+DE 5.00 A 9.99 MTS. 2 2 A 3
+
+DE 10.00 MTS.2 EN ADELANTE 3 A 4
+
+ANUNCIOS DE CUALQUIER SALARIOS
+
+OTRO TIPO MINIMOS MENSUALES
+
+DE 1.00 A 9.99 MTS.2 1 A 2
+
+DE 10.00 M2 EN ADELANTE 2 A 3
+
+El monto de la tarifa se determinará tomando en consideración aspectos de desarrollo urbano, impacto social y ambiental.
+
+5.- Para efectuar el pago correspondiente, se estará a lo dispuesto a continuación:
+
+a) Tratándose de contribuyentes establecidos y registrados en el Padrón Municipal, con cuota fija o variable, pagará semestralmente dentro de los 30 primeros días de enero y de junio de cada año.
+
+b) Tratándose de contribuyentes eventuales, pagarán de manera anticipada a la fecha del permiso correspondiente.
+
+6.- Todos los anuncios publicitarios contenidos en el presente Capítulo, deberán ajustarse a lo dispuesto en los Artículos 6º y 7º de la Constitución General de la República y en sus Leyes reglamentarias.
+
+El Municipio tendrá la facultad para retirar o cancelar todos aquellos anuncios cuyos propietarios incumplan con el pago del Derecho correspondiente, los gastos que se ocasionen por el retiro serán con cargo al propietario, y en todo momento, el Municipio podrá retener los bienes retirados para garantizar los adeudos que por tal circunstancia se ocasionen.
 
 V.- Conjuntos musicales:
 
@@ -3200,3 +3278,15 @@ U N I C O.- El presente Decreto surtirá sus efectos legales a partir del día s
 P.O. 1 DE AGOSTO DE 1996.
 
 El presente Decreto entrará en vigor a partir de la fecha de su publicación, en el Periódico Oficial del Estado.
+
+P.O. 19 DE DICIEMBRE DE 1996.
+
+DECRETO No. 229.
+
+U N I C O.- El presente Decreto entrará en vigor al día siguiente al de su publicación, en el Periódico Oficial del Estado.
+
+P.O. 19 DE DICIEMBRE DE 1996.
+
+DECRETO No. 230.
+
+U N I C O.- El presente Decreto entrará en vigor al día siguiente al de su publicación, en el Periódico Oficial del Estado.
