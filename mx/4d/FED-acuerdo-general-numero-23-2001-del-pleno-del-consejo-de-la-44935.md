@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2002-12-12"
+last_updated: "2002-12-13"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE DICIEMBRE DE 2002.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -47,9 +47,9 @@ En consecuencia, con fundamento en las citadas disposiciones constitucionales y 
 
 ACUERDO
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
 
-PRIMERO.- El territorio de la República se divide en veintiocho circuitos, cuya circunscripción territorial es la siguiente:
+PRIMERO.-El territorio de la República se divide en veintinueve circuitos, cuya circunscripción territorial es la siguiente:
 
 I.- PRIMER CIRCUITO: Distrito Federal.
 
@@ -95,7 +95,9 @@ XX.- VIGESIMO CIRCUITO: Estado de Chiapas.
 
 XXI.- VIGESIMO PRIMER CIRCUITO: Estado de Guerrero.
 
-XXII.- VIGESIMO SEGUNDO CIRCUITO: Estados de Hidalgo y Querétaro.
+> <small>(REFORMADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
+
+XXII.- VIGESIMO SEGUNDO CIRCUITO: Estado de Querétaro.
 
 XXIII.- VIGESIMO TERCER CIRCUITO: Estados de Aguascalientes y Zacatecas.
 
@@ -110,6 +112,10 @@ XXVII.- VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
 > <small>(ADICIONADA POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
 
 XXVIII.- VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
+
+> <small>(ADICIONADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
+
+XXIX.- VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
 
 SEGUNDO.- Cada uno de los circuitos a que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de circuito y los juzgados de distrito que a continuación se precisan:
 
@@ -337,17 +343,15 @@ XXI.- VIGESIMO PRIMER CIRCUITO:
 
 3.- Seis juzgados de distrito en el Estado de Guerrero: uno con residencia en Chilpancingo, cuatro con sede en Acapulco y uno con residencia en Iguala.
 
+> <small>(REFORMADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
+
 XXII.- VIGESIMO SEGUNDO CIRCUITO:
 
-1.- Cuatro tribunales colegiados: dos con residencia en Querétaro y dos con sede en Pachuca.
+1.- Dos Tribunales Colegiados con residencia en Querétaro.
 
-2.- Un tribunal unitario con sede en Querétaro.
+2.- Un Tribunal Unitario con sede en Querétaro.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 62/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE OCTUBRE DE 2001)</small>
-
-3.- Tres juzgados de distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre.
-
-4.- Dos juzgados de distrito en el Estado de Hidalgo, con sede en Pachuca.
+3.- Tres Juzgados de Distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre.
 
 XXIII.- VIGESIMO TERCER CIRCUITO:
 
@@ -406,6 +410,16 @@ XXVIII.- VIGESIMO OCTAVO CIRCUITO:
 2.- Un tribunal unitario con sede en Tlaxcala.
 
 3.- Dos juzgados de distrito en el Estado de Tlaxcala, con residencia en la ciudad del mismo nombre.
+
+> <small>(ADICIONADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
+
+XXIX.- VIGESIMO NOVENO CIRCUITO:
+
+1.- Dos Tribunales Colegiados con residencia en Pachuca.
+
+2.- Un Tribunal Unitario con sede en Pachuca.
+
+3.- Dos Juzgados de Distrito en el Estado de Hidalgo, con residencia en Pachuca.
 
 TERCERO.- La jurisdicción territorial de los tribunales colegiados y unitarios de circuito es la que enseguida se indica:
 
@@ -467,7 +481,7 @@ XVI.- DECIMOSEXTO CIRCUITO: Respecto de los tribunales colegiados con residencia
 
 En cuanto al tribunal colegiado con residencia en León, su jurisdicción territorial será el Estado de Guanajuato y tendrá conocimiento exclusivo para conocer de las quejas a que alude la fracción XI del artículo 95 de la Ley de Amparo, que se originen en los juzgados de distrito en el Estado de Guanajuato, con residencia en León.
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO ACUERDO GENERAL 77/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA POR EL PUNTO SEPTIMO ACUERDO GENERAL 77/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE NOVIEMBRE DE 2001)</small>
 
 XVII.- DECIMOSEPTIMO CIRCUITO: En relación con los tribunales unitarios con residencia en Chihuahua, será igual a la establecida para los juzgados de distrito en el Estado de Chihuahua, con residencia en dicha ciudad.
 
@@ -526,6 +540,10 @@ XXVII.- VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
 > <small>(ADICIONADA POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
 
 XXVIII.- VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
+
+> <small>(ADICIONADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
+
+XXIX.- VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
 
 CUARTO.- La jurisdicción territorial de los juzgados de distrito es la siguiente:
 
@@ -685,7 +703,7 @@ XXII.- VIGESIMO SEGUNDO CIRCUITO:
 
 Los juzgados de distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
 
-Los juzgados de distrito en el Estado de Hidalgo, con residencia en Pachuca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+> <small>(DEROGADO SEGUNDO PARRAFO POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
 
 XXIII.- VIGESIMO TERCER CIRCUITO:
 
@@ -718,6 +736,12 @@ Los juzgados de distrito en el Estado de Quintana Roo, con residencia en Cancún
 XXVIII.- VIGESIMO OCTAVO CIRCUITO:
 
 Los juzgados de distrito en el Estado de Tlaxcala, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+
+> <small>(ADICIONADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
+
+XXIX.- VIGESIMO NOVENO CIRCUITO:
+
+Los Juzgados de Distrito en el Estado de Hidalgo, con residencia en Pachuca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
 QUINTO.- El Pleno del Consejo de la Judicatura Federal interpretará y resolverá cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente Acuerdo.
 
@@ -1030,3 +1054,11 @@ ACUERDO 26/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL P
 PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE DICIEMBRE DE 2002.
+
+PRIMERO.-Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.-Se encomienda a las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos del Consejo de la Judicatura Federal, que atiendan la situación laboral del personal adscrito al Tribunal Unitario del Vigésimo Segundo Circuito que integrará el Tribunal Unitario del Vigésimo Noveno Circuito.
