@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1921-02-05"
+last_updated: "1926-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 1926.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -409,113 +409,113 @@ Al abrirse el período de sesiones siguiente a la visita, los Diputados presenta
 
 Son facultades del Congreso:
 
-I. Expedir, interpretar, reformar y derogar las leyes y decretos en todos los ramos de la Administración Pública;
+I. Expedir, interpretar, reformar y derogar las leyes y decretos en todos los ramos de la Administración Pública.
 
-II. Fijar a propuesta del Gobernador, los gastos de la Administración Pública del Estado, y decretar contribuciones e impuestos para cubrirlos, determinando la duración de estos y el modo de recaudarlos. Ningún pago será legal si no está incluido en el Presupuesto o determinado por ley posterior;
+II. Fijar a propuesta del Gobernador, los gastos de la Administración Pública del Estado, y decretar contribuciones e impuestos para cubrirlos, determinando la duración de estos y el modo de recaudarlos. Ningún pago será legal si no está incluido en el Presupuesto o determinado por ley posterior.
 
-III. Condonar impuestos del Estado, en los casos que estime conveniente;
+III. Condonar impuestos del Estado, en los casos que estime conveniente.
 
-IV. Fijar a propuesta de los respectivos Ayuntamientos por conducto del Ejecutivo, los presupuestos de egresos y las contribuciones e impuestos que deban formar la Hacienda Pública de los Municipios, procurando que sean suficientes para cubrir sus necesidades;
+IV. Fijar a propuesta de los respectivos Ayuntamientos por conducto del Ejecutivo, los presupuestos de egresos y las contribuciones e impuestos que deban formar la Hacienda Pública de los Municipios, procurando que sean suficientes para cubrir sus necesidades.
 
-V. Nombrar los empleados de la Contaduría Mayor de Glosa y Secretaría del Congreso, y removerlos con causa justificada;
+V. Nombrar los empleados de la Contaduría Mayor de Glosa y Secretaría del Congreso, y removerlos con causa justificada.
 
-VI. Revisar, por conducto de la Contaduría Mayor de Glosa, las cuentas del Estado y de los Municipios. Una ley determinará la organización y funcionamiento de dicha Contaduría, que dependerá en absoluto del Congreso y estará bajo la vigilancia de la Comisión de Hacienda;
+VI. Revisar, por conducto de la Contaduría Mayor de Glosa, las cuentas del Estado y de los Municipios. Una ley determinará la organización y funcionamiento de dicha Contaduría, que dependerá en absoluto del Congreso y estará bajo la vigilancia de la Comisión de Hacienda.
 
-VII. Fijar las bases para que el Ejecutivo pueda celebrar emprésitos sobre el crédito del Estado, con las limitaciones que marca la fracción VIII del artículo 117 de la Constitución General de la República; aprobar los contratos respectivos, y reconocer y mandar pagar las deudas que contraiga el Estado;
+VII. Fijar las bases para que el Ejecutivo pueda celebrar emprésitos sobre el crédito del Estado, con las limitaciones que marca la fracción VIII del artículo 117 de la Constitución General de la República; aprobar los contratos respectivos, y reconocer y mandar pagar las deudas que contraiga el Estado.
 
-VIII. Fijar las bases al Ejecutivo para renovar los contratos de donde se origine la deuda del Estado;
+VIII. Fijar las bases al Ejecutivo para renovar los contratos de donde se origine la deuda del Estado.
 
-IX. Autorizar la enajenación y gravamen de los bienes raíces del Estado y de los Municipios. Los bienes muebles podrán venderse sin la autorización del Congreso, pero la venta se hará en pública subasta;
+IX. Autorizar la enajenación y gravamen de los bienes raíces del Estado y de los Municipios. Los bienes muebles podrán venderse sin la autorización del Congreso, pero la venta se hará en pública subasta.
 
-X. Fijar las bases a los Ayuntamientos para la contratación de emprésitos;
+X. Fijar las bases a los Ayuntamientos para la contratación de emprésitos.
 
-XI. Suprimir empleos públicos, no pudiendo crear nuevas partidas ni aumentar la dotación de las aprobadas en el Presupuesto;
+XI. Suprimir empleos públicos, no pudiendo crear nuevas partidas ni aumentar la dotación de las aprobadas en el Presupuesto.
 
-XII. Conceder permisos y decretar honores por servicios eminentes prestados a la Humanidad, a la Patria o al Estado;
+XII. Conceder permisos y decretar honores por servicios eminentes prestados a la Humanidad, a la Patria o al Estado.
 
-XIII. Expedir leyes para la jubilación de los maestros de instrucción pública que lo merezcan en atención a la antigüedad y eficacia de sus servicios;
+XIII. Expedir leyes para la jubilación de los maestros de instrucción pública que lo merezcan en atención a la antigüedad y eficacia de sus servicios.
 
-XIV. Decretar pensiones en favor de las familias de los que hayan prestado servicios eminentes al Estado;
+XIV. Decretar pensiones en favor de las familias de los que hayan prestado servicios eminentes al Estado.
 
-XV. Iniciar ante el Congreso General las leyes y decretos que sean de la competencia del Poder Legislativo de la Federación, así como la (sic) reformas o derogación de unas y otras, y secundar cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de otros Estados;
+XV. Iniciar ante el Congreso General las leyes y decretos que sean de la competencia del Poder Legislativo de la Federación, así como la (sic) reformas o derogación de unas y otras, y secundar cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de otros Estados.
 
-XVI. Reclamar ante el Congreso de la Unión cuando alguna ley general constituye un ataque a la soberanía o independencia del Estado o a la Constitución Federal;
+XVI. Reclamar ante el Congreso de la Unión cuando alguna ley general constituye un ataque a la soberanía o independencia del Estado o a la Constitución Federal.
 
-XVII. Llamar a los Diputados suplentes para que concurran al Congreso, previa calificación del impidimento (sic) de los propietarios;
+XVII. Llamar a los Diputados suplentes para que concurran al Congreso, previa calificación del impidimento (sic) de los propietarios.
 
-XVIII. Nombrar al Director de Educación Pública a propuesta en terna del Ejecutivo;
+XVIII. Nombrar al Director de Educación Pública a propuesta en terna del Ejecutivo.
 
-XIX. Erigirse en Gran Jurado para declarar si hay o no lugar a formación de causa, cuando por delitos oficiales o comunes fueren acusados el Gobernador, los Magistrados del Supremo Tribunal de Justicia y los Diputados;
+XIX. Erigirse en Gran Jurado para declarar si hay o no lugar a formación de causa, cuando por delitos oficiales o comunes fueren acusados el Gobernador, los Magistrados del Supremo Tribunal de Justicia y los Diputados.
 
-XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente a los tribunales del Estado;
+XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente a los tribunales del Estado.
 
-XXI. Nombrar a los Magistrados del Supremo Tribunal de Justicia;
+XXI. Nombrar a los Magistrados del Supremo Tribunal de Justicia.
 
-XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General;
+XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
 
-XXIII. Nombrar Gobernador Provisional cuando sin licencia y de modo absoluto faltare por cualquier motivo el Gobernador Constitucional, o cuando deje de presentarse el electo a desempeñar sus funciones el día señalado para tomar posesión del Poder Ejecutivo, o no se hubiere efectuado la elección, o verificada esta no se hubiere hecho y publicado la declaración del Gobernador electo;
+XXIII. Nombrar Gobernador Provisional cuando sin licencia y de modo absoluto faltare por cualquier motivo el Gobernador Constitucional, o cuando deje de presentarse el electo a desempeñar sus funciones el día señalado para tomar posesión del Poder Ejecutivo, o no se hubiere efectuado la elección, o verificada esta no se hubiere hecho y publicado la declaración del Gobernador electo.
 
-XXIV. Comunicarse con el Ejecutivo por medio de Comisiones nombradas de su seno;
+XXIV. Comunicarse con el Ejecutivo por medio de Comisiones nombradas de su seno.
 
-XXV. Decidir sobre las elecciones de los Ayuntamientos, cuando se reclame contra ellas;
+XXV. Decidir sobre las elecciones de los Ayuntamientos, cuando se reclame contra ellas.
 
-XXVI. Formar su Reglamento Interior y acordar las providencias necesarias, a más de las señaladas por la Constitución, para hacer concurrir a los Diputados ausentes;
+XXVI. Formar su Reglamento Interior y acordar las providencias necesarias, a más de las señaladas por la Constitución, para hacer concurrir a los Diputados ausentes.
 
-XXVII. Facultar al Ejecutivo para que celebre arreglos amistosos relativos a límites del Estado; aprobar estos en su caso y pedir al Congreso de la Unión su aprobación;
+XXVII. Facultar al Ejecutivo para que celebre arreglos amistosos relativos a límites del Estado; aprobar estos en su caso y pedir al Congreso de la Unión su aprobación.
 
-XXVIII. Resolver las cuestiones de límites que se susciten entre Municipios del Estado, siempre que entre ellos no se hayan puesto de acuerdo;
+XXVIII. Resolver las cuestiones de límites que se susciten entre Municipios del Estado, siempre que entre ellos no se hayan puesto de acuerdo.
 
-XXIX. Dar la ley sobre el número máximo de Ministros de los Cultos a que le faculta el artículo 130 de la Constitución General de la República;
+XXIX. Dar la ley sobre el número máximo de Ministros de los Cultos a que le faculta el artículo 130 de la Constitución General de la República.
 
-XXX. Hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y Diputados a la Legislatura del Estado; calificar dichas elecciones; declarar quiénes, por haber obtenido mayoría de votos, deben desempeñar dichos cargos, y resolver sobre la renuncia que presentaren los expresados funcionarios, convocando a nuevas elecciones en los casos previstos por esta Constitución;
+XXX. Hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y Diputados a la Legislatura del Estado; calificar dichas elecciones; declarar quiénes, por haber obtenido mayoría de votos, deben desempeñar dichos cargos, y resolver sobre la renuncia que presentaren los expresados funcionarios, convocando a nuevas elecciones en los casos previstos por esta Constitución.
 
-XXXI. Resolver cualquiera duda que ocurra sobre la validez de las elecciones populares y cualidades de los elegidos. Las resoluciones del Congreso en funciones de Colegio Electoral son irrevocables;
+XXXI. Resolver cualquiera duda que ocurra sobre la validez de las elecciones populares y cualidades de los elegidos. Las resoluciones del Congreso en funciones de Colegio Electoral son irrevocables.
 
-XXXII. Determinar lo que crea conveniente sobre la renuncia que sobre su cargo haga el Gobernador y calificar los impedimentos que no le permitan encargarse de su cometido, decretando nueva elección si la renuncia o impedimento ocurriere dentro de los dos primeros años del período;
+XXXII. Determinar lo que crea conveniente sobre la renuncia que sobre su cargo haga el Gobernador y calificar los impedimentos que no le permitan encargarse de su cometido, decretando nueva elección si la renuncia o impedimento ocurriere dentro de los dos primeros años del período.
 
-XXXIII. Computar los votos y declarar electos Senadores al Congreso de la Unión, conforme a lo dispuesto en el artículo 56 de la Constitución General, a los ciudadanos que hayan obtenido mayoría absoluta de votos, erigiéndose para el efecto en Colegio Electoral;
+XXXIII. Computar los votos y declarar electos Senadores al Congreso de la Unión, conforme a lo dispuesto en el artículo 56 de la Constitución General, a los ciudadanos que hayan obtenido mayoría absoluta de votos, erigiéndose para el efecto en Colegio Electoral.
 
-XXXIV. Solicitar del ciudadano Presidente de la República, conforme a lo dispuesto por el artículo 29 de la Constitución Federal, la suspención de las garantías que ella otorga a los habitantes del Estado, con excepción de las que aseguran la vida del hombre; pero deberá hacerlo a petición del Ejecutivo del Estado y solamente en los casos de invasión, pertubación grave de la paz pública y cualesquiera otro que pongan al Estado en grave peligro o conflicto. En los recesos del Congreso, si el caso fuere declarado urgentísimo por unanimidad de la Diputación Permanente, esta, llamando a los Diputados existentes en el lugar donde celebre sus sesiones, que tendrán voz y voto en las deliberaciones, podrá hacer la petición antes dicha, sin perjuicio de convocarlo inmediatamente para darle cuenta y para que resuelva lo conveniente;
+XXXIV. Solicitar del ciudadano Presidente de la República, conforme a lo dispuesto por el artículo 29 de la Constitución Federal, la suspención de las garantías que ella otorga a los habitantes del Estado, con excepción de las que aseguran la vida del hombre; pero deberá hacerlo a petición del Ejecutivo del Estado y solamente en los casos de invasión, pertubación grave de la paz pública y cualesquiera otro que pongan al Estado en grave peligro o conflicto. En los recesos del Congreso, si el caso fuere declarado urgentísimo por unanimidad de la Diputación Permanente, esta, llamando a los Diputados existentes en el lugar donde celebre sus sesiones, que tendrán voz y voto en las deliberaciones, podrá hacer la petición antes dicha, sin perjuicio de convocarlo inmediatamente para darle cuenta y para que resuelva lo conveniente.
 
-XXXV. Decretar, en su caso, el modo de cubrir el contingente de hombres que corresponda al Estado para el Ejército de la Nación;
+XXXV. Decretar, en su caso, el modo de cubrir el contingente de hombres que corresponda al Estado para el Ejército de la Nación.
 
-XXXVI. Convocar a elecciones extraordinarias de Diputados y Ayuntamientos en los casos que disponga la ley;
+XXXVI. Convocar a elecciones extraordinarias de Diputados y Ayuntamientos en los casos que disponga la ley.
 
-XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador, a sus substitutos, a los Magistrados del Supremo Tribunal de Justicia, a los suplentes de estos y a todos los empleados de su nombramiento que conforme a las leyes no deban otorgar la protesta de otro modo;
+XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador, a sus substitutos, a los Magistrados del Supremo Tribunal de Justicia, a los suplentes de estos y a todos los empleados de su nombramiento que conforme a las leyes no deban otorgar la protesta de otro modo.
 
-XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosperidad en general;
+XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosperidad en general.
 
-XXXIX. Estimular la beneficencia pública, reglamentarla para que llene sus fines y para que estén debidamente asegurados sus bienes;
+XXXIX. Estimular la beneficencia pública, reglamentarla para que llene sus fines y para que estén debidamente asegurados sus bienes.
 
-XL. Conceder o negar al Gobernador licencia temporal para separarse de su puesto y para salir del Estado, y designar a la persona que deba suplirlo interinamente en los casos que así se requiera;
+XL. Conceder o negar al Gobernador licencia temporal para separarse de su puesto y para salir del Estado, y designar a la persona que deba suplirlo interinamente en los casos que así se requiera.
 
-XLI. Autorizar al Ejecutivo para crear fuerzas de servicio temporal cuando lo demanden las necesidades del Estado;
+XLI. Autorizar al Ejecutivo para crear fuerzas de servicio temporal cuando lo demanden las necesidades del Estado.
 
-XLII. Ejercer las facultades propias de un cuerpo legislativo, en todo aquello que no le prohiba la Constitución General o la del Estado;
+XLII. Ejercer las facultades propias de un cuerpo legislativo, en todo aquello que no le prohiba la Constitución General o la del Estado.
 
-XLIII. La facultad que le concede el artículo 24 de esta Constitución;
+XLIII. La facultad que le concede el artículo 24 de esta Constitución.
 
-XLIV. Concurrir a la reforma de la Constitución General de la República en los términos que establece el artículo 135 de la misma Constitución;
+XLIV. Concurrir a la reforma de la Constitución General de la República en los términos que establece el artículo 135 de la misma Constitución.
 
-XLV. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado;
+XLV. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado.
 
-XLVI. Dirimir los conflictos que se susciten entre el Ejecutivo del Estado y el Tribunal Superior de Justicia, sólo cuando tengan carácter puramente administrativo;
+XLVI. Dirimir los conflictos que se susciten entre el Ejecutivo del Estado y el Tribunal Superior de Justicia, sólo cuando tengan carácter puramente administrativo.
 
-XLVII. Dictar leyes tendentes a combatir con la mayor energía el alcoholismo;
+XLVII. Dictar leyes tendentes a combatir con la mayor energía el alcoholismo.
 
-XLVIII. Dictar leyes para organizar en el territorio del Estado, el sistema penal por colonias penitenciarias sobre la base del trabajo como medio de regeneración;
+XLVIII. Dictar leyes para organizar en el territorio del Estado, el sistema penal por colonias penitenciarias sobre la base del trabajo como medio de regeneración.
 
-LIX. (sic) Convocar a elecciones en caso de muerte del Gobernador, si esto ocurriere dentro de los dos primeros años del período;
+LIX. (sic) Convocar a elecciones en caso de muerte del Gobernador, si esto ocurriere dentro de los dos primeros años del período.
 
-L. Conocer y resolver sobre la renuncia que presenten los Magistrados del Supremo Tribunal de Justicia y de los impedimentos que tengan para desempeñar sus cargos, nombrando en su caso quien deba substituirlos;
+L. Conocer y resolver sobre la renuncia que presenten los Magistrados del Supremo Tribunal de Justicia y de los impedimentos que tengan para desempeñar sus cargos, nombrando en su caso quien deba substituirlos.
 
-LI. Proponer candidato para el puesto de Magistrado de la Suprema Corte de Justicia de la Nación, con arreglo a lo dispuesto en el artículo 96 de la Constitución General;
+LI. Proponer candidato para el puesto de Magistrado de la Suprema Corte de Justicia de la Nación, con arreglo a lo dispuesto en el artículo 96 de la Constitución General.
 
-LII. Conceder facultades extraordinarias al Ejecutivo, en alguno o en todos los ramos de la Administración Pública, cuando circunstancias apremiantes así lo exijan, siendo necesario para ello los votos de dos tercios de los Diputados presentes;
+LII. Conceder facultades extraordinarias al Ejecutivo, en alguno o en todos los ramos de la Administración Pública, cuando circunstancias apremiantes así lo exijan, siendo necesario para ello los votos de dos tercios de los Diputados presentes.
 
-LIII. Crear nuevas Municipalidades dentro de las existentes, variar sus límites y suprimir alguna o algunas de ellas;
+LIII. Crear nuevas Municipalidades dentro de las existentes, variar sus límites y suprimir alguna o algunas de ellas.
 
-LIV. Conceder por tiempo limitado privilegio exclusivo a los inventores, introductores o perfeccionadores de algún arte o mejora útil;
+LIV. Conceder por tiempo limitado privilegio exclusivo a los inventores, introductores o perfeccionadores de algún arte o mejora útil.
 
 LV. Ejercer las demás facultades que le señala esta Constitución y la General de la República.
 
@@ -877,13 +877,15 @@ El Secretario General de Gobierno tendrá responsabilidad solidaria con el Gober
 
 ### CAPITULO I. De la Administración de Justicia
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 1926)</small>
+
 ###### Art. 100.
 
 Las faltas temporales del Secretario General de Gobierno se suplirán por el Oficial Mayor de la Secretaría, quien tendrá mientras tanto las mismas prerrogativas, obligaciones y responsabilidades de aquel.
 
 ###### Art. 101.
 
-El Poder Judicial en el Estado se deposita para su ejercicio en el Supremo Tribunal de Justicia, en los Jueces de Primera Instancia, en los Jueces de Paz y en los Tribunales y Jurados que en lo sucesivo establezca la ley, salvo las excepciones determinadas por esta Constitución.
+El Poder Judicial en el Estado se deposita para su ejercicio en el Supremo Tribunal de Justicia, en los Jueces de Primera Instancia, en los Jueces Menores Letrados, en los de Paz y en los Tribunales y Jurados que en lo sucesivo establezca la Ley, salvo las excepciones determinadas por esta Constitución.
 
 ###### Art. 102.
 
@@ -1001,11 +1003,13 @@ Art.- 117.- En las causas que hubiere de formarse a todos los Magistrados en fun
 
 ###### Art. 118.
 
-Los Tribunales inferiores para la administración de Justicia, estarán a cargo de los Jueces de Primera Instancia y Jueces de Paz.
+Los Tribunales Inferiores para la Administración de Justicia, estarán a cargo de los Jueces de Primera Instancia, los Jueces Menores Letrados y los de Paz.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 1926)</small>
 
 ###### Art. 119.
 
-Los Jueces de Primera Instancia del Estado, serán nombrados por el Supremo Tribunal de Justicia a propuesta en terna del Ejecutivo, pudiéndose nombrar dos o más Jueces de Primera Instancia, con jurisdicción independiente en los ramos civil y penal para un mismo Distrito judicial, cuando el número de negocios lo haga necesario, a iniciativa del propio Tribunal o del Ejecutivo.
+Los Jueces de Primera Instancia del Estado y Menores Letrados, serán nombrados por el Supremo Tribunal de Justicia a propuesta en terna del Ejecutivo, pudiéndose nombrar dos o más Jueces de Primera Instancia, con jurisdicción independiente en los Ramos Civil y Penal, para un mismo Distrito Judicial, cuando el número de negocios lo haga necesario, a iniciativa del propio Tribunal o del Ejecutivo.
 
 ###### Art. 120.
 
@@ -1019,13 +1023,17 @@ Una ley determinará el número de Distritos Judicialas (sic) en que se divide e
 
 Los Juzgados de Primera Instancia serán sostenidos por el Estado o por los Municipios, según el caso, y los Jueces de Paz serán retribuidos precisamente por sus respectivos Municipios.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 1926)</small>
+
 ###### Art. 123.
 
-Los Jueces de Primera Instancia, antes de tomar posesión de su empleo, prestarán la protesta de estilo ante el Supremo Tribunal de Justicia, o ante el Ayuntamiento del Municipio cabecera del Distrito Judicial, si así lo dispusiere aquel.
+Los Jueces de Primera Instancia y Menores Letrados, antes de tomar posesión de su empleo, otorgarán la protesta de estilo ante el Supremo Tribunal de Justicia, o ante el Ayuntamiento del Municipio o Cabecera del Distrito Judicial, si así lo dispusiere aquel.
 
 ## TITULO VII. DEL MINISTERIO PUBLICO
 
 ### CAPITULO III. De los Tribunales Inferiores
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 1926)</small>
 
 ###### Art. 124.
 
@@ -1325,7 +1333,7 @@ Las cuentas del Gobierno y Municipales correspondientes al tiempo que no ha habi
 
 Dado en el Salón de Sesiones del H. Congreso del Estado de Tamaulipas, a los veintisiete días del mes de enero de mil novecientos veintiuno.
 
-Por el Décimocuarto Distrito Electoral. Donaciano de Lassaulx, Diputado Presidente.
+Por el Décimocuarto Distrito Electoral, Donaciano de Lassaulx, Diputado Presidente.
 
 Por el Segundo Distrito Electoral, Ing. José F. Montesinos, Diputado Vicepresidente.
 
@@ -1362,3 +1370,9 @@ José Morante.
 El Srio. Gral. de Gobierno,
 
 Lic. Luis Ilizaliturri.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+P.O. 6 DE MARZO DE 1926.
+
+Este decreto comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
