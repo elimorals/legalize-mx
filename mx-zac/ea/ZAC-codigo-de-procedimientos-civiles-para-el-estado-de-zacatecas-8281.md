@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-civiles-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1966-03-02"
-last_updated: "2001-04-18"
+last_updated: "2001-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 2001.
 
 Código Publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 2 de marzo de 1966.
 
@@ -155,11 +155,11 @@ Extinguida la acción principal, no procede en juicio la accesoria; pero, al con
 
 I.- La procedencia de estas acciones requiere que haya un derecho o que el derecho cuya protección se pide, se haya hecho exigible. Es lícito el ejercicio de una acción de condena respecto de una prestación futura, aunque el derecho no se haya hecho exigible, en los siguientes casos:
 
-a)Cuando se pide la entrega de una cosa o cantidad de dinero o el desalojamiento de un fundo, casa o local; pactados para un día determinado, excepto tratándose de arrendamiento de locales para habitación, siempre que se solicite que la sentencia no puede ejecutarse sino al vencimiento de la presentación. El actor, en este caso, deberá caucionar mediante depósito por la cantidad que fije el juez, el pago de posibles costas en favor del demandado y el importe de la sanción a que se refiere el artículo 10, si durante el juicio aparece que este último no trató de sustraerse al cumplimiento de sus obligaciones al tiempo debido.
+a) Cuando se pide la entrega de una cosa o cantidad de dinero o el desalojamiento de un fundo, casa o local; pactados para un día determinado, excepto tratándose de arrendamiento de locales para habitación, siempre que se solicite que la sentencia no puede ejecutarse sino al vencimiento de la presentación. El actor, en este caso, deberá caucionar mediante depósito por la cantidad que fije el juez, el pago de posibles costas en favor del demandado y el importe de la sanción a que se refiere el artículo 10, si durante el juicio aparece que este último no trató de sustraerse al cumplimiento de sus obligaciones al tiempo debido.
 
-b)Cuando la acción verse sobre prestaciones periódicas y se hubiere faltado al cumplimiento de alguna de ellas, para el efecto de que la sentencia se ejecute a sus respectivos vencimientos, y
+b) Cuando la acción verse sobre prestaciones periódicas y se hubiere faltado al cumplimiento de alguna de ellas, para el efecto de que la sentencia se ejecute a sus respectivos vencimientos, y
 
-c)Cuando se trate de obligación condicional y el obligado impida voluntariamente el cumplimiento de la condición; cuando después de contraída la obligación resulte el deudor insolvente, salvo que garantice la deuda; cuando no otorgue al acreedor las garantías a que estuviere comprometido, o cuando por actos propios hubieren disminuido aquellas garantías después de establecidas, o cuando por caso fortuito desaparecieren, a menos de que sean inmediatamente sustituidas por otras igualmente seguras, y, en general, cuando se trate de impedir un fraude. En este caso, el actor deberá probar no sólo el derecho a la prestación, sino el motivo que cause el temor fundado de que no va a tener cumplimiento cuando se haga exigible;
+c) Cuando se trate de obligación condicional y el obligado impida voluntariamente el cumplimiento de la condición; cuando después de contraída la obligación resulte el deudor insolvente, salvo que garantice la deuda; cuando no otorgue al acreedor las garantías a que estuviere comprometido, o cuando por actos propios hubieren disminuido aquellas garantías después de establecidas, o cuando por caso fortuito desaparecieren, a menos de que sean inmediatamente sustituidas por otras igualmente seguras, y, en general, cuando se trate de impedir un fraude. En este caso, el actor deberá probar no sólo el derecho a la prestación, sino el motivo que cause el temor fundado de que no va a tener cumplimiento cuando se haga exigible;
 
 II.- Los efectos de las sentencias que se dicten respecto de las acciones de condena, se retrotraen al día de la demanda, salvo rectificaciones impuestas por situaciones particulares.
 
@@ -381,13 +381,13 @@ II.- El tercero cuyo derecho dependa de la subsistencia del derecho del demandad
 
 En estos casos, se observarán las reglas siguientes:
 
-a)Los terceros podrán venir al juicio en cualquier estado de éste, con tal de que no se haya pronunciado sentencia que cause ejecutoria.
+a) Los terceros podrán venir al juicio en cualquier estado de éste, con tal de que no se haya pronunciado sentencia que cause ejecutoria.
 
-b)Los terceros coadyuvantes podrán hacer las gestiones que estimen oportunas dentro del juicio, continuar su acción o defensa aun cuando el principal se desistiera, y hacer uso de los recursos que la ley concede a las partes principales.
+b) Los terceros coadyuvantes podrán hacer las gestiones que estimen oportunas dentro del juicio, continuar su acción o defensa aun cuando el principal se desistiera, y hacer uso de los recursos que la ley concede a las partes principales.
 
-c)Los terceros coadyuvantes se considerarán asociados con la parte a cuyo derecho coadyuven, y
+c) Los terceros coadyuvantes se considerarán asociados con la parte a cuyo derecho coadyuven, y
 
-d)La sentencia firme que se dicte en el juicio perjudicará o beneficiará al tercer coadyuvante.
+d) La sentencia firme que se dicte en el juicio perjudicará o beneficiará al tercer coadyuvante.
 
 El juez correrá traslado a los litigantes, de la primera petición que haga el coadyuvante, cuando venga al juicio, y en vista de lo que expongan resolverá si es de admitirse la intervención adhesiva. La resolución que se dicte será apelable en el efecto devolutivo.
 
@@ -591,13 +591,13 @@ IV.- Hay sumisión expresa cuando los interesados renuncien clara y expresamente
 
 V.- Se entenderán por sometidos tácitamente:
 
-a)El demandante, por el hecho de ocurrir al juez interponiendo su demanda.
+a) El demandante, por el hecho de ocurrir al juez interponiendo su demanda.
 
-b)El demandado, por contestar la demanda o por reconvenir al actor, sin provocar la incompetencia.
+b) El demandado, por contestar la demanda o por reconvenir al actor, sin provocar la incompetencia.
 
-c)El que habiendo promovido una competencia se desista de ella, y
+c) El que habiendo promovido una competencia se desista de ella, y
 
-d)El tercero opositor y el que por cualquier motivo viniera al juicio.
+d) El tercero opositor y el que por cualquier motivo viniera al juicio.
 
 98.- Es nulo lo actuado por el juez que fuere declarado incompetente, salvo los casos expresamente exceptuados por la ley.
 
@@ -833,11 +833,11 @@ I.- Toda recusación se interpondrá ante el juez o tribunal que conozca del neg
 
 II.- Los jueces y tribunales desecharán de plano toda recusación:
 
-a)Cuando no estuviere propuesta en tiempo;
+a) Cuando no estuviere propuesta en tiempo;
 
-b)Cuando no se funde en alguna de las causas a que se refiere el artículo 126, y
+b) Cuando no se funde en alguna de las causas a que se refiere el artículo 126, y
 
-c)Cuando se interponga en negocios en que no puede tener lugar.
+c) Cuando se interponga en negocios en que no puede tener lugar.
 
 III.- De la recusación de un magistrado conocerá el Supremo Tribunal; de la de un juez conocerá la sala respectiva. Las recusaciones de los secretarios y actuarios del Supremo Tribunal, de los Juzgados de Primera Instancia y de los Juzgados Locales o Menores, se substanciarán ante las salas o jueces con quienes actúen;
 
@@ -1109,9 +1109,9 @@ Entre tanto un litigante no haga nueva designación seguirán haciéndosele las 
 
 I.- El emplazamiento debe hacerse según los casos, a las personas que a continuación se indican:
 
-a)Si se tratare de personas físicas directamente a la parte a quien se va a emplazar, a menos de que carezcan de capacidad procesal, pues en este caso se hará el emplazamiento a su representante legal. Sólo se autoriza el emplazamiento por medio de apoderado cuando éste radique dentro de la jurisdicción del tribunal y la persona emplazada radique fuera de ese lugar o se ignore su paradero, o si el apoderado vive fuera de la jurisdicción, pero dentro de la República y el emplazado en el extranjero no tiene domicilio conocido o se ignore su paradero. En este caso se requiere que el apoderado tenga poder general o especial bastante para contestar la demanda y para la defensa en juicio del emplazado. El apoderado sólo puede negarse a intervenir si demuestra que no aceptó o renunció a la representación. A petición del apoderado y según las circunstancias, el juez podrá ampliar el término para contestar el emplazamiento hasta por treinta días más, si el apoderado necesitare recabar instrucciones de su mandante.
+a) Si se tratare de personas físicas directamente a la parte a quien se va a emplazar, a menos de que carezcan de capacidad procesal, pues en este caso se hará el emplazamiento a su representante legal. Sólo se autoriza el emplazamiento por medio de apoderado cuando éste radique dentro de la jurisdicción del tribunal y la persona emplazada radique fuera de ese lugar o se ignore su paradero, o si el apoderado vive fuera de la jurisdicción, pero dentro de la República y el emplazado en el extranjero no tiene domicilio conocido o se ignore su paradero. En este caso se requiere que el apoderado tenga poder general o especial bastante para contestar la demanda y para la defensa en juicio del emplazado. El apoderado sólo puede negarse a intervenir si demuestra que no aceptó o renunció a la representación. A petición del apoderado y según las circunstancias, el juez podrá ampliar el término para contestar el emplazamiento hasta por treinta días más, si el apoderado necesitare recabar instrucciones de su mandante.
 
-b)Tratándose de personas morales, asociaciones, agrupaciones, instituciones o bienes de dependencias o servicios de la administración pública, el emplazamiento se hará por conducto de las personas u órganos que las representen. Si los representantes fueren varios, el emplazamiento se tendrá por válido cuando se haga a cualquiera de ellos. Si la representación corresponde a una junta o colectividad, bastará que se haga a la persona que la ostente;
+b) Tratándose de personas morales, asociaciones, agrupaciones, instituciones o bienes de dependencias o servicios de la administración pública, el emplazamiento se hará por conducto de las personas u órganos que las representen. Si los representantes fueren varios, el emplazamiento se tendrá por válido cuando se haga a cualquiera de ellos. Si la representación corresponde a una junta o colectividad, bastará que se haga a la persona que la ostente;
 
 II.- El emplazamiento deberá hacerse en el domicilio que señale la parte que lo pida, que deberá ser precisamente el lugar en que habita el emplazado, si es persona física, y si se trata de persona jurídica en el domicilio social, y en sus oficinas o principal establecimiento de sus negocios, salvo que se trate de establecimientos o sucursales, en que se estará a lo dispuesto por el artículo 108. El notificador deberá cerciorarse de que el señalamiento reúne estas circunstancias antes de hacerlo, pudiendo ser autorizado para notificarlo personalmente en el lugar donde habitualmente trabaje o en cualquier lugar en que se encuentra la persona física o representante emplazado dentro de la jurisdicción; pero en este caso, deberá entenderse directamente con la persona de que se trate, y el notificado hará constar específicamente en la diligencia los medios de que se valió para identificarla, comprobar su personalidad en caso de representación y demás particulares;
 
@@ -1227,11 +1227,11 @@ III.- Por muerte o impedimento del mandatario o patrono. En este caso el procedi
 
 I.- Cuando en un procedimiento civil se denuncie un hecho que constituya delito, siempre que se llenen los siguientes requisitos:
 
-a)Que con motivo del ejercicio de la acción penal se libre orden de aprehensión;
+a) Que con motivo del ejercicio de la acción penal se libre orden de aprehensión;
 
-b)Que lo pida el Ministerio Público en el juicio civil, y
+b) Que lo pida el Ministerio Público en el juicio civil, y
 
-c)Que los hechos denunciados sean de tal naturaleza, que si se llega a dictar sentencia en el juicio penal con motivo de ellos, ésta deba necesariamente influir en las resoluciones que pudieran dictarse en el juicio civil.
+c) Que los hechos denunciados sean de tal naturaleza, que si se llega a dictar sentencia en el juicio penal con motivo de ellos, ésta deba necesariamente influir en las resoluciones que pudieran dictarse en el juicio civil.
 
 El procedimiento civil, salvo disposición en contrario, sólo se suspenderá en la parte relacionada con el hecho delictuoso y la suspensión se mantendrá hasta que recaiga sentencia definitiva, en el juicio penal, o antes si se decretare libertad por falta de méritos o desvanecimiento de datos, o el procedimiento concluya por cualquier motivo sin decidir sobre los hechos delictuosos denunciados;
 
@@ -1995,7 +1995,7 @@ III.- Cuando las partes deban servirse de documentos en poder de terceros, solic
 
 IV.- Si se trata de documento que se halle en poder del adversario, se le intimará para que lo presente en el plazo que señale el juez, aplicándose en lo conducente las reglas de la fracción II del artículo 228. El que promueva la prueba podrá presentar copia del documento o proporcionar los datos que conozca acerca de su contenido, copia o datos que se tendrán por exactos si se probare que el documento se halla o haya hallado en poder del adversario y éste sin justa causa no lo presenta.
 
-287.- Puede exigirse el reconocimiento expreso de los documentos presentados como prueba, si el que los presenta así lo pidiere. Con ese objeto, se manifestarán los originales a quien deba reconocerlos, se les dejará verlos en su integridad y no sólo la firma. En el reconocimiento de documentos se observarán , en lo conducente, las reglas previstas en el Capítulo de confesión judicial. Sólo puede reconocer un documento privado el que lo firmó, el que lo manda extender o el legítimo representante de ellos con poder o cláusula especial. Se exceptúan los casos previstos en los artículos 1530 y 1532 del Código Civil.
+287.- Puede exigirse el reconocimiento expreso de los documentos presentados como prueba, si el que los presenta así lo pidiere. Con ese objeto, se manifestarán los originales a quien deba reconocerlos, se les dejará verlos en su integridad y no sólo la firma. En el reconocimiento de documentos se observarán, en lo conducente, las reglas previstas en el Capítulo de confesión judicial. Sólo puede reconocer un documento privado el que lo firmó, el que lo manda extender o el legítimo representante de ellos con poder o cláusula especial. Se exceptúan los casos previstos en los artículos 1530 y 1532 del Código Civil.
 
 288.- Una vez admitida la prueba documental, se mandará hacer del conocimiento de la contraparte, con entrega de copias de los documentos de que consten. Los documentos públicos o privados que no se impugnen en un plazo de tres días, se tendrán por admitidos y surtirán sus efectos como si hubieran sido reconocidos expresamente. Las partes sólo podrán impugnar los documentos dentro de los tres días siguientes a la apertura del término de prueba, tratándose de los presentados hasta entonces. Los exhibidos con posterioridad podrán ser objetados en igual término contado desde la notificación del auto que ordene su recepción.
 
@@ -2193,7 +2193,7 @@ IV.- La prueba producida contra el contenido de una presunción obliga, al que l
 
 V.- Si una parte alega una presunción general que es contradicha por una presunción especial alegada por la contraria, la parte que alegue la presunción general estará obligada a producir la prueba que destruya los efectos de la especial, y la que alegue ésta, sólo quedará obligada a probar contra la general cuando la prueba rendida por su contraparte sea bastante para destruir los efectos de la presunción especial, y
 
-VI.- No se admite prueba contra la presunción legal, cuando la ley lo prohibe expresamente. En los demás casos, se admitirá prueba.
+VI.- No se admite prueba contra la presunción legal, cuando la ley lo prohíbe expresamente. En los demás casos, se admitirá prueba.
 
 ### CAPITULO X. Valorización de las pruebas
 
@@ -2311,7 +2311,7 @@ El juez está facultado para substituir la prueba de inspección judicial por di
 
 329.- Las pruebas que consistan en fotografías, experimentos y demás elementos científicos, serán calificados por el juez de acuerdo con las reglas de la lógica y la experiencia y si intervinieren peritos, conforme a las reglas de esta prueba.
 
-330.- Las presunciones legales hacen prueba en juicio cuando no se ha demostrado el supuesto contrario, en los casos en que la ley no lo prohibe.
+330.- Las presunciones legales hacen prueba en juicio cuando no se ha demostrado el supuesto contrario, en los casos en que la ley no lo prohíbe.
 
 Las presunciones humanas harán prueba cuando esté demostrado el hecho o indicio que les da origen y haya entre éstos y el hecho por probar, una relación de antecedentes a consecuentes o enlace de causa a efecto más o menos necesario.
 
@@ -2359,7 +2359,7 @@ El tribunal tendrá libertad para determinar cuál es la ley aplicable y para fi
 
 339.- Mediando acuerdo de las partes, puede el juez o tribunal, ya sea en primera como en segunda instancia, fallar el asunto conforme a la equidad.
 
-Sólo pueden pedir que se falle un asunto en equidad, los que tienen la libre disposición del derecho aducido en juicio y no procederá hacerlo en los negocios respecto de los cuales la ley prohibe que puedan comprometerse en árbitros.
+Sólo pueden pedir que se falle un asunto en equidad, los que tienen la libre disposición del derecho aducido en juicio y no procederá hacerlo en los negocios respecto de los cuales la ley prohíbe que puedan comprometerse en árbitros.
 
 340.- En la redacción de las sentencias se observarán las siguientes reglas:
 
@@ -3133,52 +3133,6 @@ IV.- En los casos de reembargo, el depositario del primer secuestro lo será res
 
 446.- En caso de que los ejecutores practiquen simultáneamente embargos ordenados en juicios distintos, los realizarán asociados y tendrán igual preferencia, levantándose un acta para cada expediente y correspondiendo el nombramiento del depositario al ejecutante en el embargo ordenado por el juzgado de primera instancia del ramo civil.
 
-### CAPITULO IV. Periodo final de la ejecución forzosa
-
-468.- El periodo final de la ejecución forzosa, tratándose de sentencias, consistirá en el pago y aplicación de la suma obtenida y en la adjudicación de los bienes embargados que no hayan sido objeto de venta judicial.
-
-469.- La suma o bienes obtenidos en la ejecución, se integrará:
-
-I.- Con el efectivo y valores embargados;
-
-II.- Con lo obtenido como precio en la venta judicial;
-
-III.- Con el precio de las cosas adjudicadas, y
-
-IV.- Con las demás cantidades o cosas que estén sujetas a la ejecución forzosa.
-
-470.- El pago y distribución del caudal obtenido mediante la ejecución se hará de acuerdo con las reglas siguientes:
-
-I.- Si es uno solo el acreedor embargante y no intervienen otros acreedores, el juez, una vez convertida la sentencia a cantidad líquida, dispondrá el pago a su favor de lo que le corresponda por capital, intereses y costas. Para la integración de lo que corresponde al acreedor, se tomará en cuenta el precio de los bienes del deudor que le hayan sido adjudicados;
-
-II.- Si fuere uno solo el ejecutante y procediere la adjudicación de la finca hipotecada u otros bienes embargados por haberse renunciado legalmente a la subasta, o por otras causas, para el pago se tomará en cuenta el precio en que se hubiere hecho la adjudicación, descontándose los gastos de ejecución y gravámenes o créditos que hayan quedado reconocidos;
-
-III.- Si hubiere varios embargantes, o intervinieren otros acreedores, el juez distribuirá la suma obtenida ajustándose a las reglas de prelación, y
-
-IV.- El sobrante de la suma obtenida se entregará al deudor o al que demuestre tener derecho para ello.
-
-471.- Si al practicarse la distribución surge alguna controversia entre los acreedores que concurren o entre un acreedor y el deudor, acerca de la existencia y monto de uno o varios créditos o la existencia de derechos de prelación, el juez decidirá en una audiencia a la que serán citados todos los interesados para que se les oiga y presenten pruebas.
-
-Si la cuestión sólo afecta parte de la suma a distribuir, se proveerá desde luego a la de la parte no controvertida.
-
-472.- Además de los acreedores que tengan sobre los bienes embargados un derecho de prelación que resulte de los registros públicos o un derecho legal de prenda, y de los demás embargantes o reembargantes, quienes deberán ser citados, podrán intervenir en la distribución cualesquiera otros, aun los no privilegiados. A este efecto, formularán mediante escrito, que indicará el monto y título del crédito, la pretensión de participar en la suma obtenida con la ejecución.
-
-473.- Para determinar la prelación en la distribución de la suma obtenida se seguirán las siguientes reglas:
-
-I.- Si todos los acreedores intervinientes que justifiquen tener derecho sobre la suma obtenida, someten al juez, de común acuerdo, un plan para la distribución, se proveerá de conformidad, después de oído el deudor, y
-
-II.- Si no hubiere acuerdo, salvo lo que dispongan en contrario otras leyes, la distribución se hará conforme al siguiente orden de prelación:
-
-a)Acreedores alimentistas;
-
-b)Acreedores privilegiados con derechos reales de prenda o hipoteca en el orden de inscripción en los registros públicos o de fechas, si la inscripción no fuere necesaria;
-
-c)Embargantes en el orden que corresponda por concepto de prioridad en tiempo en la fecha de los embargos; excepto cuando el embargo se deba inscribir en el Registro Público, pues entonces regirá el orden de fechas de la inscripción, y
-
-d)Los demás acreedores no privilegiados intervinientes se sujetarán a concurso.
-
-474.- Si la distribución de la suma obtenida no alcanzare para cubrir el crédito del ejecutante, quedarán sus derechos expeditos para pedir nueva ejecución forzosa por el saldo insoluto.
-
 ### CAPITULO III. De las ventas y remates judiciales
 
 447.- Todas las ventas o remates judiciales, en cuanto a los términos y condiciones en que hayan de verificarse, se regirán por las disposiciones de este Capítulo, salvo los casos en que la ley disponga otra cosa.
@@ -3392,6 +3346,52 @@ VII.- El acreedor podrá cesar en la administración de la finca, cuando lo crea
 466.- El juez tendrá durante la tramitación de los remates el poder de resolver y allanar cualquier dificultad que se presente.
 
 467.- Cualquier liquidación que tenga que hacerse respecto al pago de los gravámenes que afecten a los bienes vendidos, gastos de ejecución y demás, se regularán por el juez con un escrito de cada parte, y resolución dentro del tercero día.
+
+### CAPITULO IV. Periodo final de la ejecución forzosa
+
+468.- El periodo final de la ejecución forzosa, tratándose de sentencias, consistirá en el pago y aplicación de la suma obtenida y en la adjudicación de los bienes embargados que no hayan sido objeto de venta judicial.
+
+469.- La suma o bienes obtenidos en la ejecución, se integrará:
+
+I.- Con el efectivo y valores embargados;
+
+II.- Con lo obtenido como precio en la venta judicial;
+
+III.- Con el precio de las cosas adjudicadas, y
+
+IV.- Con las demás cantidades o cosas que estén sujetas a la ejecución forzosa.
+
+470.- El pago y distribución del caudal obtenido mediante la ejecución se hará de acuerdo con las reglas siguientes:
+
+I.- Si es uno solo el acreedor embargante y no intervienen otros acreedores, el juez, una vez convertida la sentencia a cantidad líquida, dispondrá el pago a su favor de lo que le corresponda por capital, intereses y costas. Para la integración de lo que corresponde al acreedor, se tomará en cuenta el precio de los bienes del deudor que le hayan sido adjudicados;
+
+II.- Si fuere uno solo el ejecutante y procediere la adjudicación de la finca hipotecada u otros bienes embargados por haberse renunciado legalmente a la subasta, o por otras causas, para el pago se tomará en cuenta el precio en que se hubiere hecho la adjudicación, descontándose los gastos de ejecución y gravámenes o créditos que hayan quedado reconocidos;
+
+III.- Si hubiere varios embargantes, o intervinieren otros acreedores, el juez distribuirá la suma obtenida ajustándose a las reglas de prelación, y
+
+IV.- El sobrante de la suma obtenida se entregará al deudor o al que demuestre tener derecho para ello.
+
+471.- Si al practicarse la distribución surge alguna controversia entre los acreedores que concurren o entre un acreedor y el deudor, acerca de la existencia y monto de uno o varios créditos o la existencia de derechos de prelación, el juez decidirá en una audiencia a la que serán citados todos los interesados para que se les oiga y presenten pruebas.
+
+Si la cuestión sólo afecta parte de la suma a distribuir, se proveerá desde luego a la de la parte no controvertida.
+
+472.- Además de los acreedores que tengan sobre los bienes embargados un derecho de prelación que resulte de los registros públicos o un derecho legal de prenda, y de los demás embargantes o reembargantes, quienes deberán ser citados, podrán intervenir en la distribución cualesquiera otros, aun los no privilegiados. A este efecto, formularán mediante escrito, que indicará el monto y título del crédito, la pretensión de participar en la suma obtenida con la ejecución.
+
+473.- Para determinar la prelación en la distribución de la suma obtenida se seguirán las siguientes reglas:
+
+I.- Si todos los acreedores intervinientes que justifiquen tener derecho sobre la suma obtenida, someten al juez, de común acuerdo, un plan para la distribución, se proveerá de conformidad, después de oído el deudor, y
+
+II.- Si no hubiere acuerdo, salvo lo que dispongan en contrario otras leyes, la distribución se hará conforme al siguiente orden de prelación:
+
+a)Acreedores alimentistas;
+
+b)Acreedores privilegiados con derechos reales de prenda o hipoteca en el orden de inscripción en los registros públicos o de fechas, si la inscripción no fuere necesaria;
+
+c)Embargantes en el orden que corresponda por concepto de prioridad en tiempo en la fecha de los embargos; excepto cuando el embargo se deba inscribir en el Registro Público, pues entonces regirá el orden de fechas de la inscripción, y
+
+d)Los demás acreedores no privilegiados intervinientes se sujetarán a concurso.
+
+474.- Si la distribución de la suma obtenida no alcanzare para cubrir el crédito del ejecutante, quedarán sus derechos expeditos para pedir nueva ejecución forzosa por el saldo insoluto.
 
 ### CAPITULO V. Declaración de validez y ejecución de sentencias extranjeras
 
@@ -4495,7 +4495,7 @@ La resolución que se dicte en los interdictos será apelable en el efecto devol
 
 652.- Si la parte a quien el juez conminare para no ejecutar algún acto perjudicial o para conservar alguna situación de hecho no acata la orden, se aplicará la multa o arresto con que fue conminado, y además, el juez hará que las cosas vuelvan al estado anterior a costa del infractor, sin que para ello se necesite la promoción de nuevo interdicto.
 
-### CAPITULO II. Juicio sobre posesion definitiva
+### CAPITULO II. Juicio sobre posesión definitiva
 
 653.- Los juicios plenarios de posesión tendrán por objeto ventilar las acciones que se ejerciten sobre la posesión definitiva, y decidir quien tiene mejor derecho de poseer, y además obtener que el poseedor sea mantenido o restituido en lo que corresponda contra aquéllos que no tengan mejor derecho.
 
@@ -5541,7 +5541,7 @@ El albacea que no cumpla con esta obligación será removido de plano.
 
 I.- Los herederos que tengan libre disposición de sus bienes, tan pronto como hayan sido aprobados los inventarios, si no hubiere inconveniente fiscal para ello;
 
-II.- Los herederos bajo condición , luego que se haya cumplido ésta;
+II.- Los herederos bajo condición, luego que se haya cumplido ésta;
 
 III.- El cesionario de una herencia o el acreedor de un heredero que haya trabado ejecución en los derechos que tenga en la herencia, siempre que hubiere obtenido sentencia de remate y no hay otros bienes con qué hacer el pago;
 
@@ -5725,9 +5725,9 @@ En todos los casos la información se recibirá con citación del Ministerio Pú
 
 Los testigos deberán ser por lo menos tres de notorio arraigo en el lugar de la ubicación del inmueble a que la información se refiere.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 7 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2001)</small>
 
-848 BIS.- En los casos previstos por las fracciones II y III del artículo anterior, la información se recibirá previa publicación que de la misma se haga por tres veces, de tres en tres días en el Periódico Oficial del Gobierno del Estado y en otro periódico local de amplia circulación. Para el mismo efecto se fijará un ejemplar de la solicitud en los estrados del juzgado en el tablero de avisos de la Presidencia Municipal de ubicación del inmueble, asentando razón de ello en el expediente.
+848 BIS.- En los casos previstos por las fracciones II y III del Artículo anterior, la información se recibirá previa publicación que de la misma se haga por tres veces, de tres en tres días en el Periódico Oficial, Órgano de Gobierno del Estado y en otro periódico local de amplia circulación. Para el mismo efecto se fijará cédula en los estrados del Juzgado y en el tablero de avisos de la Presidencia Municipal correspondiente al lugar de ubicación del inmueble, asentando razón de ello en el expediente, debiéndose practicar igualmente previa a la recepción de la información, inspección ocular de los inmuebles de que se trate.
 
 849.- El juez procurará ampliar el examen de los testigos con las preguntas que estime pertinentes para asegurarse de la veracidad de su dicho. Igual obligación tendrá el Ministerio Público.
 
@@ -6168,3 +6168,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 18 DE ABRIL DE 2001
 
 UNICO.- El presente Decreto entrará en vigor quince días naturales después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 21 DE ABRIL DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Las diligencias de jurisdicción voluntaria que se encuentren en trámite al inicio de vigencia de este Decreto, y en que tengan aplicación los artículos que se reforman, se tramitarán conforme a lo dispuesto por tales preceptos, antes de su reforma.
