@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fomento-al-turismo-5140"
 country: "mx"
 rank: "ley"
 publication_date: "1987-08-17"
-last_updated: "1987-08-17"
+last_updated: "1988-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE FOMENTO AL TURISMO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 1988.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el lunes 17 de agosto de 1987.
 
@@ -361,6 +361,70 @@ La Promotora Turística de Guerrero cuidará que en los contratos que celebre co
 
 El Consejo de Administración de la Promotora Turística de Guerrero, acordará la aplicación de los remanentes que genere la empresa, para fines de bienestar colectivo y de apoyo al sector social, conforme a lo dispuesto por esta Ley y su Reglamento.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P. O. 14 DE OCTUBRE DE 1988)</small>
+
+### CAPITULO CUARTO. DE LA PARTICIPACION SOCIAL EN MATERIA TURISTICA
+
+> <small>(ADICIONADO, P. O. 14 DE OCTUBRE DE 1988)</small>
+
+###### ARTICULO 35.
+
+El Gobierno del Estado promoverá a través de decretos, acuerdos y convenios, según el caso, acciones de concertación para la participación de los distintos grupos sociales que actúan en el campo del turismo a efecto de dar impulso al desarrollo turístico y corresponsabilizar a la sociedad en el mismo.
+
+> <small>(ADICIONADO, P. O. 14 DE OCTUBRE DE 1988)</small>
+
+###### ARTICULO 36.
+
+La concertación del Gobierno del Estado a través de decretos, acuerdos y convenios de coordinación con los grupos sociales podrá adoptar las siguientes modalidades:
+
+I.- Organos mixtos de gestión de servicios públicos y de ejecución de obras, integrados por servidores públicos y representantes de los grupos sociales;
+
+II.- Fondos financieros con fines turísticos mediante aportaciones fiscales y de particulares;
+
+III.- Festivales, ferias y todo tipo de actos de recreación y promoción de organización conjunta;
+
+IV.- Campañas de publicidad y propagandas turísticas;
+
+V.- Comités de vigilancia ciudadana sobre los servicios públicos cuando su prestación pueda afectar la actividad turística, y
+
+VI.- Las demás que sean afines a las anteriores y que favorezcan la participación ciudadana en materia turística.
+
+> <small>(ADICIONADO, P. O. 14 DE OCTUBRE DE 1988)</small>
+
+###### ARTICULO 37.
+
+El Poder Ejecutivo podrá crear mediante decreto Consejos Mixtos de Fomento Turístico en los Municipios para promover la participación de los grupos sociales y la coordinación entre las dependencias y entidades federales, estatales y municipales.
+
+> <small>(ADICIONADO, P. O. 14 DE OCTUBRE DE 1988)</small>
+
+###### ARTICULO 38.
+
+Los Consejos Mixtos de Fomento Turístico serán de carácter consultivo y se desempañarán como mecanismos para el estudio del desarrollo turístico y la concertación de programas, proyectos y acciones de beneficio turístico.
+
+> <small>(ADICIONADO, P. O. 14 DE OCTUBRE DE 1988)</small>
+
+###### ARTICULO 39.
+
+En los términos de la legislación laboral, el Gobierno del Estado y los grupos de prestadores de servicio (sic) organizados, apoyarán las comisiones de seguridad e higiene así como de capacitación y adiestramiento en el ramo turístico.
+
+> <small>(ADICIONADO, P. O. 14 DE OCTUBRE DE 1988)</small>
+
+###### ARTICULO 40.
+
+Las Secretarías de Planeación y Presupuesto y de Fomento Turístico, concertarán con los prestadores de servicios turísticos la formación de comités técnicos mixtos de estadística turística que proporcionen información oportuna y veraz sobre el comportamiento del turismo.
+
+> <small>(ADICIONADO, P. O. 14 DE OCTUBRE DE 1988)</small>
+
+###### ARTICULO 41.
+
+El Gobierno del Estado invitará a los prestadores de servicios turísticos a formar parte de los órganos administrativos que conozcan de las quejas que los usuarios presenten para atenderlas con equidad y favorecer la calidad y prestigio de los servicios turísticos.
+
+> <small>(ADICIONADO, P. O. 14 DE OCTUBRE DE 1988)</small>
+
+###### ARTICULO 42.
+
+El Gobierno del Estado podrá instituir premios y reconocimientos para honrar y estimular a personas físicas o morales que contribuyan o hayan contribuido de manera sobresaliente al desarrollo turístico.
+
 TRANSITORIO:
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
@@ -396,3 +460,9 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE OCTUBRE DE 1988.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
