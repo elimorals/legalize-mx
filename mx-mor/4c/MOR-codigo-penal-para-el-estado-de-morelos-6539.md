@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2000-10-18"
+last_updated: "2001-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2001 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2000.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 16 DE MAYO DE 2001 NO APLICA AL ARTICULADO DEL DECRETO 1221 PUBLICADO EN EL P.O. DEL 18 DE OCTUBRE DE 2000.]</small>
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1379,7 +1379,7 @@ Los médicos que realicen injustificadamente el aborto serán sancionados de acu
 
 Si el aborto lo causare un médico, cirujano, comadrona o partero, además de las sanciones que le correspondan conforme al artículo anterior, se le suspenderá de dos a cinco años en el ejercicio de su profesión u oficio.
 
-> <small>[N. DE E. VÉASE LA LITERALIDAD DEL DECRETO NÚMERO 1221 PUBLICADO EN EL P.O. 18 DE OCTUBRE DE 2000, PÁGINA 7 .]</small>
+> <small>[N. DE E. VÉASE LA LITERALIDAD DEL DECRETO NÚMERO 1221 PUBLICADO EN EL P.O. 18 DE OCTUBRE DE 2000, PÁGINA 7. ]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
