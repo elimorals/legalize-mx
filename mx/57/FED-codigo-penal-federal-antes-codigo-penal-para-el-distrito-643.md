@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1984-01-13"
+last_updated: "1985-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ENERO DE 1985.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -59,6 +59,10 @@ II.- Por los delitos cometidos en los consulados mexicanos o en contra de su per
 
 Los delitos continuos cometidos en el extranjero, que se sigan cometiendo en la República, se perseguirán con arreglo a las leyes de ésta, sean mexicanos o extranjeros los delincuentes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE ENERO DE 1985)</small>
+
+La misma regla se aplicará en el caso de delitos continuados.
+
 ###### ARTICULO 4o.
 
 Los delitos cometidos en territorio extranjero por un mexicano contra mexicanos o contra extranjeros, o por un extranjero contra mexicanos, serán penados en la República, con arreglo a las leyes federales, si concurren los requisitos siguientes:
@@ -83,9 +87,13 @@ IV.- Los cometidos a bordo de aeronaves nacionales o extranjeras que se encuentr
 
 V.- Los cometidos en las embajadas y legaciones mexicanas.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
+
 ###### ARTICULO 6o.
 
-Cuando se cometa un delito no previsto en este Código, pero sí en una ley especial, se aplicará ésta, observando las disposiciones conducentes de este Código.
+Cuando se cometa un delito no previsto en este Código, pero sí en una ley especial o en un tratado internacional de observancia obligatoria en México, se aplicarán éstos, tomando en cuenta las disposiciones del Libro Primero del presente Código y, en su caso, las conducentes del Libro Segundo.
+
+Cuando una misma materia aparezca regulada por diversas disposiciones, la especial prevalecerá sobre la general.
 
 ## TITULO PRIMERO. Responsabilidad penal
 
@@ -137,11 +145,17 @@ Cuando algún miembro o representante de una persona jurídica, o de una socieda
 
 ### CAPITULO II. Tentativa
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE ENERO DE 1985)</small>
+
 ###### ARTICULO 12.
 
-La tentativa es punible cuando se ejecutan hechos encaminados directa e inmediatamente a la realización de un delito, si éste no se consuma por causas ajenas a la voluntad del agente.
+Existe tentativa punible cuando la resolución de cometer un delito se exterioriza ejecutando la conducta que debería producirlo u omitiendo la que debería evitarlo, si aquél no se consuma por causas ajenas a la voluntad del agente.
 
 Para imponer la pena de la tentativa, los jueces tendrán en cuenta la temibilidad del autor y el grado a que se hubiere llegado en la ejecución del delito.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE ENERO DE 1985)</small>
+
+Si el sujeto desiste espontáneamente de la ejecución o impide la consumación del delito, no se impondrá pena o medida de seguridad alguna por lo que a éste se refiere, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismos delitos.
 
 ### CAPITULO III. Personas responsables de los delitos
 
@@ -585,6 +599,10 @@ La vigilancia consistirá en ejercer sobre el sentenciado observación y orienta
 
 Dentro de los límites fijados por la ley, los jueces y tribunales aplicarán las sanciones establecidas para cada delito, teniendo en cuenta las circunstancias exteriores de ejecución y las peculiares del delincuente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE ENERO DE 1985)</small>
+
+En los casos de los artículos 60, fracción VI, 61, 63, 64, 64 bis y 65 y en cualesquiera otros en que este Código disponga penas en proporción a las previstas para el delito intencional consumado, la punibilidad aplicable es, para todos los efectos legales, la que resulte de la elevación o disminución, según corresponda, de los términos mínimo y máximo de la pena prevista para aquél. Cuando se trate de prisión, la pena mínima nunca será menor de tres días.
+
 ###### ARTICULO 52.
 
 En la aplicación de las sanciones penales se tendrá en cuenta:
@@ -641,7 +659,7 @@ Cuando una ley quite a un hecho u omisión el carácter de delito que otra ley a
 
 ###### ARTICULO 59.
 
-Cuando un delito pueda ser considerado bajo dos o más aspectos, y bajo cada uno de ellos merezca una sanción diversa, se impondrá la mayor.
+(DEROGADO, D.O.F. 14 DE ENERO DE 1985)
 
 > <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -1653,7 +1671,7 @@ b). Comprobar la necesidad que tiene para la portación de armas y sus anteceden
 
 ### CAPITULO I. De la producción, tenencia, tráfico, proselitismo y otros actos en materia de estupefacientes y psicotrópicos
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 164.
 
@@ -1889,15 +1907,15 @@ Al que haga uso indebido del escudo, insignia o himno nacionales, se le aplicar�
 
 ###### ARTICULO 193.
 
-Se considerarán estupefacientes y psicotrópicos los que determinen el Código Sanitario de los Estados Unidos Mexicanos; los convenios o tratados internacionales que México haya celebrado o en lo futuro celebre y los que determinen las leyes, reglamentos y demás disposiciones vigentes o que en lo sucesivo se expidan en términos de la fracción XVI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+Se consideran estupefacientes y psicotrópicos los que determinen la Ley General de Salud, los convenios o tratados internacionales de observancia obligatoria en México, y los que señalan las demás disposiciones aplicables a la materia expedidas por la autoridad sanitaria correspondiente, conforme a lo previsto en la Ley General de Salud.
 
-Para los efectos de este Capítulo se distinguen tres grupos de estupefacientes o psicotrópicos:
+Para los efectos de este Capítulo se distinguen tres grupos de estupefacientes o psicotrópicos;
 
-I. Las sustancias y vegetales señalados por los artículos 293, 321 fracción I y 322 del Código Sanitario;
+I.- Las sustancias y vegetales señalados por los artículos 237, 245, fracción I, y 248 de la Ley General de Salud;
 
-II. Las sustancias y vegetales considerados como estupefacientes por la ley, con excepción de las mencionadas en la fracción anterior, y los psicotrópicos a que hace referencia la fracción II del artículo 321 del Código Sanitario,
+II.- Las sustancias y vegetales considerados como estupefacientes por la ley, con excepción de las mencionadas en la fracción anterior, y los psicotrópicos a que hace referencia la fracción II del artículo 245 de la Ley General de Salud; y
 
-III.- Los psicotrópicos a que se refiere la fracción III del artículo 321 del Código Sanitario.
+III.- Los psicotrópicos a que se refiere la fracción III del artículo 245 de la Ley General de Salud.
 
 > <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 1978)</small>
 
@@ -1953,11 +1971,11 @@ Si el agente aprovechare su ascendiente o autoridad sobre la persona instigada, 
 
 Si el propietario de un establecimiento de cualquier naturaleza lo empleare para realizar alguno de los delitos previstos en este capítulo o permitiere su realización por terceros, además de la sanción que deba aplicársele, según el caso, se clausurará en definitiva aquel establecimiento.
 
-> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 198.
 
-Cuando alguno de los delitos previstos en este capítulo se cometiere por funcionarios, empleados o agentes de la autoridad, encargados de vigilar, prevenir o reprimir el tráfico ilegal de los vegetales o substancias comprendidos en el artículo 193, así como cuando la víctima fuere menor de dieciocho años o estuviere de hecho incapacitada por otra causa, o el delito se cometiere en centros educativos, asistenciales o penitenciarios o en sus inmediaciones, la sanción que en su caso resulte aplicable se aumentará en una tercera parte.
+Cuando alguno de los delitos previstos en este capítulo se cometa por servidores públicos que actúen en relación con el ejercicio o con motivo de sus funciones, así como cuando la víctima fuere menor de edad o incapaz, o no pudiese, por cualquier otra causa evitar la conducta del agente, o cuando se cometa en centros educativos, asistenciales o penitenciarios o en sus inmediaciones, la sanción que en su caso resulte aplicable se aumentará en una tercera parte.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -2093,7 +2111,7 @@ III.- Al que regentee, administre o sostenga directa o indirectamente, prostíbu
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 208.
 
@@ -2491,7 +2509,7 @@ Responsabilidad profesional
 
 ###### ARTICULO 228.
 
-Los profesionistas, artistas o técnicos y sus auxiliares, serán responsables de los delitos que cometan en el ejercicio de su profesión, en los términos siguientes:
+Los profesionistas, artistas o técnicos y sus auxiliares, serán responsables de los delitos que cometan en el ejercicio de su profesión, en los términos siguientes y sin perjuicio de las prevenciones contenidas en la Ley General de Salud o en otras normas sobre ejercicio profesional, en su caso:
 
 I.- Además de las sanciones fijadas para los delitos que resulten consumados, según sean intencionales o por imprudencia punible, se les aplicará suspensión de un mes a dos años en el ejercicio de la profesión o definitiva en caso de reincidencia, y
 
@@ -2907,33 +2925,15 @@ A los mendigos a quienes se aprehenda con un disfraz o con armas, ganzúas o cua
 
 ###### ARTICULO 257.
 
-Se impondrá prisión de tres días a seis meses y multa de cien a mil pesos:
-
-I.- A los empresarios, administradores, encargados o agentes de loterías o rifas que no tengan autorización legal. No quedan incluídos en esta disposición los expendedores de billetes o los que hagan rifas sólo entre amigos o parientes, y
-
-II.- A los que tengan o administren casas o local de juego en el cual se hagan apuestas y la ganancia o pérdida dependan única o principalmente del azar, y
-
-III.- A los que de cualquier modo contribuyan a la venta o circulación de billetes de loterías extranjeras.
+(DEROGADO, D.O.F. 14 DE ENERO DE 1985)
 
 ###### ARTICULO 258.
 
-La sanción será de multa de cincuenta a quinientos pesos y destitución de empleo, en su caso, para:
-
-I.- Los que alquilen a sabiendas local para juegos prohibidos;
-
-II.- Los jugadores o espectadores que sean aprehendidos en un local donde se juegue en forma ilícita;
-
-III.- Los gerentes o administradores de casinos o sociedades donde habitualmente se practiquen juegos prohibidos.
-
-En este caso se podrá decretar la suspensión o disolución de la sociedad a cuyo amparo se comete el delito, y
-
-IV.- Los funcionarios o empleados públicos que autoricen, protejan o asistan a locales de juegos prohibidos.
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+(DEROGADO, D.O.F. 14 DE ENERO DE 1985)
 
 ###### ARTICULO 259.
 
-Para los efectos de este capítulo se considerarán ilícitos los juegos, loterías y rifas en los términos que fijen los reglamentos respectivos, expedidos por las autoridades administrativas superiores del Distrito Federal.
+(DEROGADO, D.O.F. 14 DE ENERO DE 1985)
 
 (REUBICADO [N. DE E. ANTES TITULO DECIMOSEXTO], D.O.F. 29 DE JULIO DE 1970)
 
@@ -2955,9 +2955,11 @@ Si se hiciere uso de la violencia física o moral, la pena será de seis meses a
 
 El delito de atentado contra el pudor sólo se castigará cuando se haya consumado.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
+
 ###### ARTICULO 262.
 
-Al que tenga cópula con mujer menor de dieciocho años, casta y honesta, obteniendo su consentimiento por medio de seducción o engaño, se le aplicarán de un mes a tres años de prisión y multa de cincuenta a quinientos pesos.
+Al que tenga cópula con mujer menor de dieciocho años, casta y honesta, obteniendo su consentimiento por medio de engaño, se le aplicará de un mes a tres años de prisión.
 
 ###### ARTICULO 263.
 
@@ -2999,11 +3001,9 @@ Al que se apodere de una persona, por medio de la violencia física o moral, o d
 
 Se impondrá también la pena del artículo anterior, aunque el raptor no emplee la violencia ni el engaño y consienta en el rapto la persona, si ésta fuere menor de dieciséis años.
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
-
 ###### ARTICULO 269.
 
-Por el solo hecho de no haber cumplido dieciséis años la persona raptada que voluntariamente siga a su raptor, se presume que éste empleó el engaño.
+(DEROGADO, D.O.F. 14 DE ENERO DE 1985)
 
 ###### ARTICULO 270.
 
@@ -3747,11 +3747,9 @@ II.- El aprovechamiento de energía eléctrica o de cualquier otro flúido, ejec
 
 Para la aplicación de la sanción, se dará por consumado el robo desde el momento en que el ladrón tiene en su poder la cosa robada; aún cuando la abandone o lo desapoderen de ella. En cuanto a la fijación del valor de lo robado, así como la multa impuesta, se tomará en consideración el salario en el momento de la ejecución del delito.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
-###### ARTICULO 369 Bis.
-
-Tanto para la aplicación de las sanciones, como para establecer el monto o la cuantía que correspondan a los delitos en este Título se tomará en consideración para su fijación el salario mínimo general diario vigente en el Distrito Federal en el momento de la ejecución. En los artículos correspondientes, cuando se hable de salarios, se entenderá que se refiere al mínimo general vigente en el Distrito Federal.
+ARTICULO 369 bis.- Para establecer la cuantía que corresponda a los delitos previstos en este Título, se tomará en consideración el salario mínimo general vigente en el momento y en el lugar en que se cometió el delito.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -4021,29 +4019,19 @@ Al que sin derecho obligue a otro a hacer, tolerar o dejar de hacer algo, obteni
 
 ###### ARTICULO 391.
 
-Se impondrá la pena de uno a cinco años de prisión y multa hasta de diez mil pesos, a los comerciantes individuales sujetos a concurso, en los casos siguientes:
-
-I.- Cuando haya ocultación o enajenación de bienes, simulación de embargos, gravámenes o deudas, o celebración de convenios o contratos, o se haya recurrido a maniobras o arbitrios ruinosos, con perjuicio del conjunto de los acreedores, ya sea en beneficio propio, de uno o varios acreedores o de terceras personas, o bien para retardar o disimular el estado de concurso;
-
-II.- Cuando el estado de concurso sea aprovechado intencionalmente para especular con las propias obligaciones, adquiriéndolas con descuento o para obtener cualquier otro provecho en perjuicio de los acreedores;
-
-III.- Siempre que el estado de concurso sea ocasionado por dolo o imprudencia y con perjuicio de los acreedores.
-
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1931)</small>
-
-Cuando en el concurso de un comerciante colectivo apareciere que se han cometido los actos previstos en este artículo, se aplicarán a los directores y administradores del mismo comerciante, las penas que el mismo establece.
+(DEROGADO, D.O.F. 14 DE ENERO DE 1985)
 
 ###### ARTICULO 392.
 
-La averiguación y persecución de estos delitos será independiente del procedimiento mercantil.
+(DEROGADO, D.O.F. 14 DE ENERO DE 1985)
 
 ###### ARTICULO 393.
 
-Si se acumularen varios de ellos, el máximo de la pena será de diez años de prisión. Si apareciere que se ha cometido además un delito de fraude o abuso de confianza o falsedad, en conexión con los enumerados en el artículo anterior, se seguirá también la averiguación por este concepto para que sea ejercitada en su caso la acción penal, pero de todos modos el máximo de la pena será de diez años de prisión.
+(DEROGADO, D.O.F. 14 DE ENERO DE 1985)
 
 ###### ARTICULO 394.
 
-La reparación del daño por los delitos previstos en este capítulo, no formará parte de la sanción penal, sino que se regulará en el concurso mercantil de acreedores.
+(DEROGADO, D.O.F. 14 DE ENERO DE 1985)
 
 ###### ARTICULO 395.
 
@@ -4056,6 +4044,10 @@ II.- Al que de propia autoridad y haciendo uso de los medios indicados en la fra
 III.- Al que en los términos de las fracciones anteriores, cometa despojo de aguas.
 
 La pena será aplicable, aun cuando el derecho a la posesión de la cosa usurpada sea dudosa o esté en disputa. Cuando el despojo se realice por grupo o grupos, que en conjunto sean mayores de cinco personas, además de la pena señalada en este artículo, se aplicará a los autores intelectuales y a quienes dirijan la invasión, de uno a seis años de prisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE ENERO DE 1985)</small>
+
+A quienes se dediquen en forma reiterada a promover el despojo de inmuebles urbanos en el Distrito Federal, se les aplicará una sanción de dos a nueve años de prisión. Se considera que se dedican a promover el despojo de inmuebles urbanos en forma reiterada, quienes hayan sido anteriormente condenados por esta forma de participación en el despojo, o bien, se les hubiere decretado en más de dos ocasiones auto de formal prisión por este mismo delito, salvo cuando en el proceso correspondiente se hubiese resuelto el desvanecimiento de datos, el sobreseimiento ó la absolución del inculpado.
 
 ###### ARTICULO 396.
 
@@ -4089,45 +4081,37 @@ ARTICULO 399 bis.- Los delitos previstos en este título se perseguirán por que
 
 Los delitos de abuso de confianza y daño en propiedad ajena siempre se perseguirán a petición de la parte ofendida.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE ENERO DE 1985)</small>
+
+Asimismo, se perseguirá a petición de la parte ofendida el fraude, cuando su monto no exceda del equivalente a quinientas veces el salario mínimo general vigente en el lugar y en el momento en que se cometió el delito y el ofendido sea un solo particular. Si hubiese varios particulares ofendidos, se procederá de oficio, pero el juez podrá prescindir de la imposición de pena cuando el agente haya reparado los daños y perjuicios causados a los ofendidos y no exista oposición de cualquiera de éstos.
+
 (REUBICADO [N. DE E. ANTES TITULO VIGESIMOCUARTO], D.O.F. 29 DE JULIO DE 1970)
 
 TITULO VIGESIMOTERCERO
 
 Encubrimiento
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 1967)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 400.
 
-Se aplicará de cinco días a dos años de prisión y multa de veinte a quinientos pesos, al que:
+Se aplicará prisión de tres meses a tres años y de quince a sesenta días multa, al que:
 
-> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
+I.- Con ánimo de lucro, después de la ejecución del delito y sin haber participado en éste, adquiera, reciba u oculte el producto de aquél a sabiendas de esta circunstancia.
 
-I.- No procure por los medios lícitos que tenga a su alcance, impedir la consumación de los delitos que sabe van a cometerse, o se están cometiendo, si son de los que se persiguen de oficio.
+Si el que recibió la cosa en venta, prenda o bajo cualquier otro concepto, no tuvo conocimiento de la procedencia ilícita de aquélla, por no haber tomado las precauciones indispensables para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, la pena se disminuirá hasta en una mitad;
 
-> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
+II.- Preste auxilio o cooperación de cualquier especie al autor de un delito, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución del citado delito;
 
-II.- No haya tomado las precauciones indispensables para asegurarse de que la persona de quien recibió la cosa en venta o prenda tendría derecho para disponer de ella, si resultare robada.
+III.- Oculte al responsable de un delito, o lo efectos, objetos o instrumentos del mismo, o impida que se averigue;
 
-> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
+IV.- Requerido por las autoridades, no de auxilio para la investigación de los delitos o para la persecución de los delincuentes; y
 
-III.- Requerido por las autoridades, no dé auxilio para la investigación de los delitos o para la persecución de los delincuentes.
+V.- No procure, por los medios lícitos que tenga a su alcance y sin riesgo para su persona, impedir la consumación de los delitos que sabe van a cometerse o se están cometiendo, salvo que tenga obligación de afrontar el riesgo, en cuyo caso se estará a lo previsto en este artículo o en otras normas aplicables.
 
-> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
-IV.- Preste auxilio o cooperación de cualquier especie al autor de un delito, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución del citado delito; y
-
-> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
-
-V.- Oculte al responsable de un delito, o los efectos (sic) objetos o instrumentos del mismo, o impida que se averigüe.
-
-> <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 1967)</small>
-
-VI.- Adquiera, a sabiendas, ganado robado.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 20 DE ENERO DE 1967)</small>
-
-ARTICULO 400 bis.- Los jueces, teniendo en cuenta la naturaleza de la acción, las circunstancias personales del acusado y las demás que consigna el artículo 52, podrán imponer, en los casos de encubrimiento a que se refieren las fracciones III, IV, V y VI del artículo anterior, en lugar de las sanciones establecidas en dicho artículo, hasta las dos terceras partes de las que correspondería al autor del delito: debiendo hacer constar especialmente en la sentencia las razones en que se funda para señalar la sanción que autoriza este artículo.
+ARTICULO 400 bis.- Los jueces, teniendo en cuenta la naturaleza de la acción, las circunstancias personales del acusado y las demás que consigna el artículo 52, podrán imponer en los casos de encubrimiento, a que se refieren las fracciones I, párrafo primero, y II a IV del artículo anterior, en lugar de las sanciones establecidas en dicho artículo, hasta las dos terceras partes de las que correspondería al autor del delito, debiendo hacer constar especialmente en la sentencia las razones en que se funda para señalar la sanción que autoriza este artículo.
 
 ARTICULOS TRANSITORIOS:
 
@@ -4490,3 +4474,9 @@ Las medidas de vigilancia de la autoridad y en cumplimiento de los substitutivos
 ###### ARTICULO SEXTO.
 
 Para los efectos del reconocimiento de la inocencia del sujeto a que alude el Artículo 96 del Código Penal, reformado en los términos del presente decreto, se estará a lo dispuesto para el indulto necesario, tanto en el Código Federal de Procedimientos Penales, como en el Código de Procedimientos Penales para el Distrito Federal, según corresponda.
+
+D.O.F. 14 DE ENERO DE 1985.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
