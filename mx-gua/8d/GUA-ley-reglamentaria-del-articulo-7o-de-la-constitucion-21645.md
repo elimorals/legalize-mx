@@ -4,7 +4,7 @@ identifier: "GUA-ley-reglamentaria-del-articulo-7o-de-la-constitucion-21645"
 country: "mx"
 rank: "ley"
 publication_date: "1959-08-16"
-last_updated: "1987-09-18"
+last_updated: "2001-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY REGLAMENTARIA DEL ARTICULO 7 DE LA CONSTITUCION POLITICA DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato el 16 de agosto de 1959.
 
@@ -149,11 +149,11 @@ No se reconocerá ninguna validez a los títulos profesionales o a cualquier otr
 
 DIRECCION DE PROFESIONES.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 14.
 
-Dependiente de la Secretaría de Gobierno se establecerá una Dirección que se denominará: Dirección de Profesiones, que se encargará de la vigilancia del ejercicio profesional y será el Organo de conexión entre el Estado y los Colegios de Profesionistas.
+Dependiente de la Secretaría de Educación se establecerá una Dirección que se denominará: Dirección de Profesiones, que se encargará de la vigilancia del ejercicio profesional y será el órgano de conexión entre el Estado y los Colegios de Profesionistas.
 
 ###### ARTICULO 15.
 
@@ -299,11 +299,9 @@ El ejercicio de la profesión de abogado o notario público es incompatible con 
 
 A la persona que contravenga esta disposición se le cancelará el registro de su título y será expulsado del colegio a que pertenezca.
 
-(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1987
-
 ###### ARTICULO SEXTO.
 
-En tanto no se establezca la Dirección de Profesiones, la Secretaría de Gobierno tendrá las facultades que la presente Ley concede a la mencionada Dirección.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2001)
 
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1960)</small>
 
@@ -360,3 +358,7 @@ P.O. 18 DE SEPTIEMBRE DE 1987.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2001.
+
+Artículo Único.- El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
