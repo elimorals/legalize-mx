@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2003-07-01"
+last_updated: "2004-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -916,6 +916,10 @@ Si la opinión del Procurador fuere reprobatoria, ordenará se dicten los acuerd
 ###### Art. 113.
 
 Las resoluciones en que se decida el no ejercicio de la acción penal o el desistimiento de ésta y la determinación que haya sido aprobada por el Procurador, en el caso del artículo anterior, producirán el efecto de impedir definitivamente el ejercicio de la acción penal, respecto de los hechos a que dichas resoluciones se refieran o de reabrir el procedimiento, en su caso.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2004)</small>
+
+Esta resolución deberá ser notificada al ofendido para los efectos que establece el párrafo cuarto del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Art. 114.
 
@@ -2259,25 +2263,29 @@ Los Jueces Menores y los de Paz, en sus respectivas jurisdicciones, deberán act
 
 ### CAPITULO VI. Del Procedimiento Penal Sumario
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### Art. 307 Bis.
 
-Se seguirá de oficio procedimiento sumario, cuando se trate de delito flagrante, o exista confesión rendida ante la autoridad judicial. De igual forma se seguirá este procedimiento, siempre que lo solicite el procesado. El procedimiento sumario, se sujetará a las siguientes bases:
+Se seguirá de oficio procedimiento sumario, cuando se trate de delito flagrante, o exista confesión rendida ante la autoridad judicial. De igual forma se seguirá este procedimiento, siempre que lo solicite el procesado.
 
-I. Cuando el juez de la causa inicie un procedimiento sumario de oficio, informará de éste hecho al procesado para que en un plazo de tres días a partir de la notificación, manifieste su intención de sujetarse al procedimiento ordinario. En todo caso el juez procederá de conformidad con la elección del procesado;
+Este procedimiento no se aplica en los casos de asociación delictuosa, delincuencia organizada o del delito de lesiones graves.
 
-II. Abierto el procedimiento sumario, las partes dispondrán de tres días comunes desde el siguiente a la notificación del auto de formal prisión o el de sujeción a proceso, para proponer pruebas que se desahogarán en la audiencia principal;
+El procedimiento sumario, se sujetará a las siguientes bases:
+
+I. Cuando el juez de la causa inicie un procedimiento sumario de oficio, informará de este hecho al procesado para que en un plazo de tres días a partir de la notificación, manifieste su intención de sujetarse al procedimiento ordinario. En todo caso el juez procederá de conformidad con la elección del procesado;
+
+II. Las partes dispondrán de tres días comunes desde el siguiente a la notificación del auto de formal prisión o el de sujeción a proceso, para proponer pruebas que se desahogarán en la audiencia principal, una vez abierto el procedimiento sumario;
 
 III. La audiencia se realizará dentro de los cinco días siguientes al auto que resuelva sobre la admisión de pruebas, en el que se hará, además fijación de fecha para aquélla;
 
-IV. Una vez terminada la recepción de pruebas, las partes deberán formular verbalmente sus conclusiones, cuyos puntos esenciales se harán constar en el acta relativa;
+IV. La recepción de pruebas, las partes deberán formular verbalmente sus conclusiones, cuyos puntos esenciales se harán constar en el acta relativa, una vez terminada la recepción de pruebas;
 
 V. La audiencia se desarrollará de forma ininterrumpida, en un solo día salvo que sea necesario suspenderla para permitir el desahogo de pruebas o por otras causas que lo ameriten, a criterio del juez. En este caso, se citará para continuarla al día siguiente o dentro de tres días máximo, si no basta aquel plazo para la desaparición de la causa que motivó la suspensión;
 
 VI. El juez podrá dictar sentencia en la misma audiencia o disponer de un término de tres días;
 
-VII. Se observará en el procedimiento sumario en lo que no se oponga a las disposiciones de este Capítulo, todo lo preceptuado en el presente Código.
+VII. El presente código debe observarse en el procedimiento sumario en lo que no se oponga a las disposiciones de este capítulo.
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 2003)</small>
 
@@ -3636,3 +3644,13 @@ P.O. 1 DE JULIO DE 2003.
 Primero.- El presente decreto entrará en vigor el mismo día que entre en vigor el decreto 19997, que reforma, adiciona y deroga diversos artículos del Código Penal y deroga diversos artículos del Código Fiscal, ambos del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 Segundo.- Las personas que se encuentren sujetas a proceso a la entrada en vigor de las presentes reformas y antes de sentencia, podrán solicitar la aplicación de las nuevas disposiciones en su beneficio.
+
+P.O. 10 DE FEBRERO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial "El Estado de Jalisco", con excepción de lo establecido en los artículos siguientes.
+
+> <small>(F. DE E., P.O. 27 DE MARZO DE 2004)</small>
+
+SEGUNDO.- El artículo tercero del presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Las disposiciones relativas a la Unidad Especializada, en el combate a la delincuencia organizada, entrarán en vigor un año después de su publicación.
