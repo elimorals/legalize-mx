@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2003-05-08"
+last_updated: "2004-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -50,6 +50,10 @@ La presente ley es de orden público y tiene por objeto regular la organización
 ###### Artículo 2.
 
 Corresponde a los Tribunales del Poder Judicial, en los términos de la Constitución Política del Estado Libre y Soberano de México, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil, familiar y penal del fuero común, lo mismo que del orden federal, en los casos en que expresamente los ordenamientos legales de esta materia les confieran jurisdicción.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2004)</small>
+
+Garantiza la supremacía y control de la Constitución Política del Estado y conocer y resolver las controversias y acciones de inconstitucionalidad a nivel local.
 
 ###### Artículo 3.
 
@@ -389,7 +393,9 @@ Para la presidencia y el pleno del tribunal habrá un secretario general de acue
 
 Para ser secretario general de acuerdos, se necesitan los mismos requisitos que exige la Constitución Política del Estado para ser juez de primera instancia.
 
-### CAPITULO TERCERO. Del Presidente del Tribunal Superior de Justicia
+### CAPITULO TERCERO
+
+Del Presidente del Tribunal Superior de Justicia.
 
 (REFORMADO, P.O. 24 DE DICIEMBRE DE 1999) (F. DE E., P.O. 5 DE ENERO DE 2000)
 
@@ -443,13 +449,17 @@ XIV. Las demás que le confieran las leyes y otras disposiciones legales.
 
 ### CAPITULO CUARTO. De las Salas Colegiadas y Unitarias del Tribunal Superior de Justicia
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 43.
 
-El Tribunal Superior de Justicia ejercerá sus funciones en salas colegiadas y unitarias que determine el Consejo de la Judicatura, distribuidas en las regiones en el número y ubicación geográficas como lo estime necesario; para el despacho de los asuntos, las salas civiles, conocerán de los asuntos civiles y mercantiles; salas penales, conocerán de los asuntos de este ramo; y salas familiares de los asuntos de esta materia.
+El Tribunal Superior de Justicia ejercerá sus funciones en salas: constitucional, colegiadas y unitarias que determine el Consejo de la Judicatura, distribuidas en las regiones en el número y ubicación geográficas como lo estime necesario; para el despacho de los asuntos, la Sala Constitucional conocerá de los asuntos de esta índole; las Salas Civiles, conocerán de los asuntos civiles y mercantiles; salas penales, conocerán de los asuntos de este ramo; y salas familiares, de los asuntos de esta materia.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
 
 El Consejo de la Judicatura podrá, por necesidades del servicio, determinar que las salas regionales conozcan indistintamente de diversas materias.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
 
 Las salas colegiadas se integrarán por tres magistrados cada una y las unitarias por un solo magistrado, teniendo un número progresivo.
 
@@ -494,6 +504,10 @@ II. De los conflictos de competencia que se susciten entre los juzgados pertenec
 III. De las recusaciones de los jueces de su adscripción, así como de la oposición de las partes a las excusas; y
 
 IV. De los demás asuntos que les confieran esta ley, el reglamento interior del Tribunal y otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2004)</small>
+
+Artículo 44 bis-1.- Corresponde a la Sala Constitucional, conocer y resolver de las controversias y acciones de inconstitucionalidad, previstas en el artículo 88 Bis de la Constitución Política del Estado libre y Soberano de México.
 
 > <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
 
@@ -634,6 +648,10 @@ II. Expedir los nombramientos de los magistrados y someterlos a la aprobación d
 III.- Determinar, por necesidades de la función jurisdiccional, las regiones geográficas en que deban ejercer sus funciones las salas regionales, adscribir a ellas los juzgados de primera instancia y de cuantía menor para cada una de las regiones; aumentar o disminuir su número, cambiar de materia o residencia las salas o juzgados, determinando su organización y funcionamiento publicando oficialmente los acuerdos respectivos; y crear o suprimir plazas de servidores públicos de la administración de justicia.
 
 IV. Determinar la adscripción, de acuerdo con las necesidades del servicio, de los magistrados, jueces y personal de los juzgados; dar curso a las renuncias que presenten y determinar el cese de jueces de primera instancia y de cuantía menor en los casos previstos en esta ley;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2004)</small>
+
+IV bis. Designar de entre los magistrados que formen parte del Pleno, a los que en forma temporal integren la Sala Constitucional y dentro de ellos al instructor.
 
 V. Solicitar a la Legislatura del Estado la destitución del magistrado que haya cometido delitos o faltas u omisiones graves en el desempeño de sus funciones por mala conducta, o su separación porque esté imposibilitado física o mentalmente.
 
@@ -1415,13 +1433,13 @@ VI. Distribuir las labores entre él y su personal para un mejor funcionamiento.
 
 La jurisprudencia que establezca el Tribunal Superior de Justicia funcionando en Pleno, será obligatoria para las salas regionales y los juzgados. La que establezca funcionando en salas, será obligatoria para los juzgados.
 
-(REFORMADO, P.O. 8 DE MAYO DE 2003) (F. DE E., P.O. 27 DE MAYO DE 2003)
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2004)</small>
 
-Habrá jurisprudencia, cuando lo resuelto por una sala colegiada se sustente en cinco sentencias consecutivas no interrumpidas por otra en contrario y haya sido aprobada por unanimidad de votos. Cumplido este requisito la sala colegiada ordenará su publicación en el Boletín Judicial y en el Prontuario de Jurisprudencia del Tribunal para que surta sus efectos.
+Habrá jurisprudencia, cuando lo resuelto por una sala colegiada se sustente en cinco sentencias consecutivas no interrumpidas por otra en contrario y haya sido aprobada por unanimidad de votos, con excepción de las resoluciones emitidas por la Sala Constitucional.
 
 > <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
 
-También se constituirá jurisprudencia cuando lo resuelto por tres distintas salas unitarias se sustente en cinco sentencias consecutivas no interrumpidas por otra en contrario. Las salas involucradas o el coordinador general de compilación y sistematización de tesis, deberá (sic) pedir al Pleno del Tribunal Superior de Justicia que haga la declaratoria respectiva, y procederá a su redacción, ordenando su publicación en el boletín judicial y el prontuario de Jurisprudencia para que surta efectos.
+También se constituirá jurisprudencia cuando lo resuelto por tres distintas salas unitarias se sustente en cinco sentencias consecutivas no interrumpidas por otra en contrario. Las salas involucradas o el coordinador general de compilación y sistematización de tesis, deberá pedir al Pleno del Tribunal Superior de Justicia que haga la declaratoria respectiva, y procederá a su redacción, ordenando su publicación en el boletín judicial y el prontuario de Jurisprudencia para que surta efectos.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1996)</small>
 
@@ -2006,3 +2024,9 @@ El Consejo de la Judicatura estará facultado para determinar el inicio de las f
 ###### ARTICULO CUARTO.
 
 Los asuntos que estén en trámite ante las Salas Colegiadas al entrar en funciones las Salas Unitarias y que sean de la competencia de éstas últimas, se seguirá sustanciando por la Sala Colegiada respectiva, hasta la resolución definitiva.
+
+P.O. 10 DE SEPTIEMBRE DE 2004.
+
+PRIMERO. Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
