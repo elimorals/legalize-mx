@@ -4,7 +4,7 @@ identifier: "YUC-ley-ganadera-del-estado-de-yucatan-8244"
 country: "mx"
 rank: "ley"
 publication_date: "1972-10-16"
-last_updated: "1972-10-16"
+last_updated: "1993-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY GANADERA DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE ABRIL DE 1993.
 
 Ley publicada en el Diario Oficial el Lunes 16 de Octubre de 1972.
 
@@ -32,6 +32,8 @@ DECRETO NUMERO 168
 CIUDADANO CARLOS LORET DE MOLA, Gobernador Constitucional del Estado Libre y Soberano de Yucatán, a sus habitantes hago saber:
 
 QUE EL XLV CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE YUCATAN, DECRETA LA SIGUIENTE
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS DE LA PRESENTE LEY, PUBLICADO EN EL P.O. 23 DE ABRIL DE 1993, SE REFORMAN LOS ARTÍCULOS DE LA LEY GANADERA DEL ESTADO DE YUCATÁN, NO INCLUIDOS EN EL ARTICULO PRIMERO TRANSITORIO DE ESTE DECRETO, EN LOS QUE SE HAGA MENCIÓN A LA DIRECCIÓN GENERAL DE GANADERÍA PARA EL SOLO EFECTO DE SUSTITUIR EL NOMBRE DEL CITADO ORGANISMO, POR EL DE “SECRETARIA DE DESARROLLO RURAL”.</small>
 
 LEY GANADERA DEL ESTADO DE YUCATAN:
 
@@ -71,7 +73,9 @@ d).- Fabriquen o comercien con alimentos destinados a las especies animales regu
 
 Son autoridades competentes para aplicar la presente Ley:
 
-I.- El Ejecutivo del Estado por sí o por conducto de las Direcciones Generales de Hacienda, de Ganadería y de Seguridad Pública y Tránsito; y de los Servicios Coordinados de Salud Pública.
+> <small>(REFORMADA, D.O. 23 DE ABRIL DE 1993)</small>
+
+I.- El Ejecutivo del Estado por sí o por conducto de la Tesorería General del Estado, Secretaría de Desarrollo Rural, Secretaría de Protección y Vialidad y de los Servicios Coordinados de Salud Pública.
 
 II.- Los Presidentes y Comisarios Municipales, por sí o por conducto de sus cuerpos policiales.
 
@@ -85,9 +89,11 @@ Dichas autoridades tendrán las facultades y atribuciones previstas en la presen
 
 Se consideran auxiliares de dichas autoridades las Asociaciones Locales y Uniones Regionales de Ganaderos, Avicultores y Apicultores.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 6.
 
-La Dirección General de Ganadería tendrá las siguientes facultades y obligaciones:
+La Secretaría de Desarrollo Rural tendrá las siguientes facultades y obligaciones:
 
 I.- Elaborar y someter a la aprobación del Titular del Ejecutivo el plan de desarrollo pecuario del Estado, con la intervención de las Uniones Regionales Ganaderas.
 
@@ -109,7 +115,9 @@ IX.- Colaborar con las autoridades federales en los programas que lleven a cabo 
 
 X.- Dictar medidas para el fomento y conservación de pastizales; para la formación de potreros artificiales; reforestación de montes aprovechables para la industria pecuaria y, en general, para la adaptación de terrenos para agostaderos.
 
-XI.- Coordinar con las autoridades de los Institutos de Enseñanza Superior el servicio social que presten los pasantes de la Escuela de Medicina Veterinaria y de aquellas carreras que se relacionen con el desarrollo Pecuario del Estado.
+> <small>(REFORMADA, D.O. 23 DE ABRIL DE 1993)</small>
+
+XI.- Coordinar con las autoridades de Enseñanza Superior el Servicio Social que prestan los pasantes de la Facultad de Medicina Veterinaria y Zootecnia y de aquellas carreras que se relacionen con el Desarrollo Pecuario del Estado.
 
 XII.- Orientar y auxiliar a los campesinos dedicados a actividades pecuarias, con el fin de que se organicen social y económicamente, aprovechando los recursos materiales, financieros y técnicos disponibles, a fin de alcanzar una mayor productividad y mejor nivel de vida.
 
@@ -187,9 +195,11 @@ XIII.- Imponer las sanciones previstas por esta Ley.
 
 XIV.- Las demás facultades y obligaciones previstas en esta Ley y sus Reglamentos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 8.
 
-El Titular del Ejecutivo designará a los Inspectores Pecuarios, quienes dependerán de la Dirección General de Ganadería.
+El Titular del Ejecutivo designará a los Inspectores Pecuarios, quienes dependerán de la Secretaría de Desarrollo Rural.
 
 Para ser inspector pecuario se requiere ser médico veterinario o técnico agropecuario de reconocida honorabilidad.
 
@@ -213,7 +223,9 @@ VII.- Visitar los centros ganaderos de su jurisdicción, de conformidad con sus 
 
 VIII.- Visitar los rastros públicos y lugares autorizados para el sacrificio de ganado, curtidurías y saladeros, y para el comercio de pieles, a fin de comprobar la procedencia del ganado y sus productos, así como constatar si se cumplen las disposiciones de esta Ley.
 
-IX.- Estudiar y organizar campañas contra epizootias y animales nocivos a la ganadería, proponiendo a la Dirección General de Ganadería del Estado las medidas que en su concepto deban adoptarse.
+> <small>(REFORMADA, D.O. 23 DE ABRIL DE 1993)</small>
+
+IX.- Estudiar y organizar campañas contra epizootias y animales nocivos a la ganadería, proponiendo a la Secretaría de Desarrollo Rural del Estado las medidas que en su concepto deban adoptarse.
 
 X.- Recoger los animales que no tengan dueño o sean de dueños desconocidos, poniéndolos a disposición de las autoridades estatales competentes, o avisar a éstas de su existencia, para los efectos legales que proceden.
 
@@ -229,9 +241,11 @@ XV.- Revisar la documentación de los productos apícolas en tránsito y de aque
 
 XVI.- Ejecutar las instrucciones que reciba del Ejecutivo y cumplir con esta Ley y sus Reglamentos.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 10.
 
-Los inspectores pecuarios serán considerados como agentes auxiliares de policía, solamente para los efectos de esta Ley y previo registro en la Dirección General de Seguridad Pública y Tránsito del Estado.
+Los inspectores pecuarios serán considerados como agentes auxiliares de policía, solamente para los textos de esta Ley y previo registro en la Secretaría de Protección y Vialidad.
 
 ###### ARTICULO 11.
 
@@ -283,23 +297,31 @@ La organización comprenderá no sólo la agrupación de los interesados en Asoc
 
 En los términos y con las atribuciones y finalidades de la Ley de Asociaciones Ganaderas y su reglamento y con apoyo en lo que dispone la Ley Federal de Reforma Agraria, en el Estado deberán funcionar Asociaciones Ganaderas locales, generales o especializadas, y grupos ejidales pecuarios en cada uno de los municipios donde existan ganaderos, y Uniones Regionales Ganaderas, las cuales tendrán domicilio legal, y estarán obligadas a presentar anualmente al Ejecutivo su programa mínimo de actividades de promoción, vigilancia y desarrollo para la industria pecuaria.
 
-Las Uniones Ganaderas Regionales, con todas sus Asociaciones Ganaderas Locales y grupos ejidales ganaderos, deberán registrarse en la Dirección General de Ganadería.
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
+Las Uniones Ganaderas Regionales, con todas sus Asociaciones Ganaderas Locales y grupos ejidales ganaderos, deberán registrarse en la Secretaría de Desarrollo Rural.
 
 ###### ARTICULO 16.
 
 El Gobierno del Estado podrá en cualquier tiempo retener los subsidios otorgados a las Uniones o Asociaciones Ganaderas cuyos directivos no cumplan con las disposiciones de la presente Ley, hasta que regularicen sus actividades o elijan nueva directiva.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 17.
 
-La Dirección General de Ganadería llevará un registro de las personas físicas o morales que directa o indirecta, permanente o transitoriamente, se dediquen a la cría, reproducción, mejoramiento o explotación de especies animales; y de quienes comercien, transporten, industrialicen o transformen sus productos y subproductos.
+La Secretaría de Desarrollo Rural llevará un registro de las personas físicas o morales que directa o indirecta, permanente o transitoriamente, se dediquen a la cría, reproducción, mejoramiento o explotación de especies animales; y de quienes comercien, transporten, industrialicen o transformen sus productos y subproductos.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 18.
 
-Los ganaderos están obligados a manifestar por escrito el inicio de sus actividades pecuarias al Ayuntamiento de la jurisdicción en que tengan su negociación. En dicha manifestación se especificará el nombre y datos generales del ganadero, nombre y ubicación del predio que ocupe su negocio, fierro y marca de sangre de su uso, clase de explotación a que se dedique o se dedicará, y número y especie de sus animales o apiarios de su propiedad. Asimismo, expresará el número de la credencial y del registro que le corresponda de la Asociación Ganadera Local a que pertenezca. La manifestación deberá presentarse por sextuplicado, y una vez sellada por el Ayuntamiento será distribuida en la forma siguiente: original para el Ayuntamiento; dos copias a la Dirección General de Ganadería; una copia a la Unión Ganadera Regional a que pertenezca; una copia a la Asociación Ganadera Local a que pertenezca: una copia para el interesado.
+Los ganaderos están obligados a manifestar por escrito el inicio de sus actividades pecuarias al Ayuntamiento de la jurisdicción en que tengan su negociación. En dicha manifestación se especificará el nombre y datos generales del ganadero, nombre y ubicación del predio que ocupe su negocio, fierro y marca de sangre de su uso, clase de explotación a que se dedique o se dedicará, y número y especie de sus animales o apiarios de su propiedad. Asimismo, expresará el número de la credencial y del registro que le corresponda de la Asociación Ganadera Local a que pertenezca. La manifestación deberá presentarse por sextuplicado, y una vez sellada por el Ayuntamiento será distribuida en la forma siguiente: original para el Ayuntamiento; dos copias a la Secretaría de Desarrollo Rural; una copia a la Unión Ganadera Regional a que pertenezca; una copia a la Asociación Ganadera Local a que pertenezca: una copia para el interesado.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 19.
 
-La Dirección General de Ganadería expedirá a cada uno de los ganaderos una tarjeta de identificación en la que se anotarán la media filiación del interesado y el fierro, marca de venta, tatuaje o aretes correspondientes a su patente. Esta tarjeta deberá registrarse gratuitamente en la Presidencia Municipal respectiva, sin cuyo requisito no será válida. Las tarjetas de identificación serán entregadas a la Unión Ganadera Regional, la que las distribuirá a las Asociaciones Ganaderas Locales, quienes a su vez las entregarán a los interesados.
+La Secretaría de Desarrollo Rural expedirá a cada uno de los ganaderos una tarjeta de identificación en la que se anotarán la media filiación del interesado y el fierro, marca de venta, tatuaje o aretes correspondientes a su patente. Esta tarjeta deberá registrarse gratuitamente en la Presidencia Municipal respectiva, sin cuyo requisito no será válida. Las tarjetas de identificación serán entregadas a la Unión Ganadera Regional, la que las distribuirá a las Asociaciones Ganaderas Locales, quienes a su vez las entregarán a los interesados.
 
 ###### ARTICULO 20.
 
@@ -309,15 +331,19 @@ Las autoridades estatales y municipales exigirán a los ganaderos las tarjetas d
 
 Los ejidatarios y los núcleos ejidales de acuerdo con la Ley Federal de Reforma Agraria, podrán constituirse en Asociaciones, Cooperativas, Sociedades, Uniones o Mutualidades, conforme a los reglamentos que para el efecto se expidan, y con las finalidades económicas que los grupos que las constituyan se propongan, de lo cual se dará aviso a la Asamblea General y al Registro Agrario Nacional.
 
-La Dirección General de Ganadería colaborará con las autoridades agrarias y ejidales en la formación de los grupos respectivos, cuando sea requerida para ello.
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
+La Secretaría de Desarrollo Rural colaborará con las autoridades agrarias y ejidales en la formación de los grupos respectivos, cuando sea requerida para ello.
 
 ###### ARTICULO 22.
 
 Quedan prohibidos dentro del perímetro urbano los corrales, establos o cualquier otra instalación pecuaria.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 23.
 
-La Dirección General de Ganadería orientará y asesorará a los ganaderos, a fin de que adquieran en propiedad o arrendamiento las tierras necesarias para organizar más adecuadamente sus actividades pecuarias, de acuerdo con la magnitud de éstas.
+La Secretaría de Desarrollo Rural orientará y asesorará a los ganaderos, a fin de que adquieran en propiedad o arrendamiento las tierras necesarias para organizar más adecuadamente sus actividades pecuarias, de acuerdo con la magnitud de éstas.
 
 Promoverá, además, la celebración de contratos de asociación en participación entre dueños de ganado y propietarios de tierras que así lo deseen; y colaborará con las autoridades agrarias y las ejidales, a fin de regularizar el uso de los agostaderos ejidales por particulares ganaderos.
 
@@ -331,11 +357,15 @@ I.- Manifestar por escrito al Ayuntamiento de su jurisdicción el ejercicio de s
 
 II.- Pertenecer a una Asociación Local Ganadera.
 
-III.- Registrarse en la Dirección General de Ganadería.
+> <small>(REFORMADA, D.O. 23 DE ABRIL DE 1993)</small>
+
+III.- Registrarse en la Secretaría de desarrollo Rural.
 
 IV.- Tener tierras en propiedad, posesión, arrendamiento o por cualquier otro título legal que les permita realizar las actividades pecuarias a que se dediquen.
 
-V.- Circunvalar totalmente sus terrenos con cercas construidas con material resistente y adecuado, a juicio de la Dirección General de Ganadería, con una altura mínima de 1.50 metros, con objeto de evitar que sus ejemplares causen daños a sementeras o agostaderos de propiedad ajena. De lo contrario, caerán bajo las sanciones que establece el Código de Defensa Social.
+> <small>(REFORMADA, D.O. 23 DE ABRIL DE 1993)</small>
+
+V.- Circunvalar totalmente sus terrenos con cercas construidas con material resistente y adecuado, a juicio de la Secretaría de Desarrollo Rural, con una altura mínima de 1.50 metros, con objeto de evitar que sus ejemplares causen daños a sementeras o agostaderos de propiedad ajena. De lo contrario, caerán bajo las sanciones que establece el Código de Defensa Social.
 
 VI.- Acreditar la propiedad de las especies animales que le pertenezcan, por los fierros, marcas y señales, en los términos de la presente Ley.
 
@@ -349,7 +379,9 @@ X.- Cumplir las medidas que dicte el Ejecutivo para el mejoramiento y desarrollo
 
 XI.- Cooperar con las autoridades competentes para que efectúen, cuando fuere necesario, inspecciones y visitas tanto a las explotaciones e instalaciones pecuarias, como a las especies animales, sus productos y subproductos, a fin de comprobar el cumplimiento de esta Ley y las medidas que se dicten.
 
-XII.- Proporcionar a la Dirección General de Ganadería todos los datos e informes que les sean solicitados para fines estadísticos.
+> <small>(REFORMADA, D.O. 23 DE ABRIL DE 1993)</small>
+
+XII.- Proporcionar a la Secretaría de Desarrollo Rural todos los datos e informes que les sean solicitados para fines estadísticos.
 
 XIII.- Ayudar a los campos de experimentación y propagación de plantas forrajeras para proveer de plantas y semillas a los ganaderos que deseen recurrir al sistema de praderas artificiales o mejoradas, con la cooperación y asistencia técnica oficiales.
 
@@ -373,9 +405,11 @@ En los terrenos que cerquen los ganaderos por medio del sistema de alambrado los
 
 Todo propietario de una explotación agrícola invadida por ganado deberá denunciar los hechos ante la autoridad municipal de su jurisdicción, y si el animal se encuentra en su explotación, deberá ponerlo inmediatamente a disposición de dicha autoridad, cuidando de no dañarlo.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 28.
 
-La autoridad municipal, al recibir la denuncia, levantará la correspondiente actuación y mandará practicar inspección ocular y avalúo de los daños, por dos peritos nombrados al efecto, y citará para una audiencia dentro de un máximo de tres días al que, según su registro de marcas, aparezca como dueño del ganado invasor. En dicha audiencia procurará un acuerdo entre ganadero y agricultor. La autoridad municipal remitirá copia de la denuncia, inspección ocular, avalúo y acuerdo a que se llegue, a la Dirección General de Ganadería. En caso de que el ganadero no comparezca a la cita, la autoridad municipal turnará al Departamento de Averiguaciones Previas las actuaciones levantadas para que se proceda en los términos que disponga el Código de Defensa Social.
+La autoridad municipal, al recibir la denuncia, levantará la correspondiente actuación y mandará practicar inspección ocular y avalúo de los daños, por dos peritos nombrados al efecto, y citará para una audiencia dentro de un máximo de tres días al que, según su registro de marcas, aparezca como dueño del ganado invasor. En dicha audiencia procurará un acuerdo entre ganadero y agricultor. La autoridad municipal remitirá copia de la denuncia, inspección ocular, avalúo y acuerdo a que se llegue, a la Secretaría de Desarrollo Rural. En caso de que el ganadero no comparezca a la cita, la autoridad municipal turnará al Departamento de Averiguaciones Previas las actuaciones levantadas para que se proceda en los términos que disponga el Código de Defensa Social.
 
 ###### ARTICULO 29.
 
@@ -417,13 +451,17 @@ Para los efectos de esta Ley se entiende por fierro la quemadura que se hace en 
 
 Queda prohibido herrar con plancha llena de alambre, ganchos, argollas y con el fierro corrido, así como el uso de las señales que impliquen mutilación de los animales.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 35.
 
-Todos los fierros, marcas y señales a que se refiere esta Ley deberán ser registrados en la Dirección General de Ganadería. No se permitirá el uso, en el Estado, de dos fierros iguales para el ganado mayor y de dos señales o marcas iguales para el menor. Los fierros, señales o marcas no registrados ante la Dirección General de Ganadería carecen de valor legal.
+Todos los fierros, marcas y señales a que se refiere esta Ley deberán ser registrados en la Secretaría de Desarrollo Rural. No se permitirá el uso, en el Estado, de dos fierros iguales para el ganado mayor y de dos señales o marcas iguales para el menor. Los fierros, señales o marcas no registrados ante la Secretaría de Desarrollo Rural carecen de valor legal.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 36.
 
-La solicitud de registro a que se refiere el Artículo anterior deberá ser formulada por sextuplicado en las formas oficiales que proporcione la Dirección General de Ganadería, con los siguientes datos:
+La solicitud de registro a que se refiere el Artículo anterior deberá ser formulada por sextuplicado en las formas oficiales que proporcione la Secretaría de Desarrollo Rural, con los siguientes datos:
 
 a) Nombre, domicilio y demás generales del solicitante.
 
@@ -439,23 +477,31 @@ f) Dibujo del fierro, marca o señal cuyo registro se solicite.
 
 g) Los demás datos que se consideren necesarios.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 37.
 
-Las solicitudes de registro a que alude el Artículo anterior serán distribuidas en la siguiente forma: original para la Dirección General de Ganadería; una copia para la Unión Ganadera Regional correspondiente; una copia para el interesado como constancia de presentación, y dos copias para el Ayuntamiento correspondiente que serán asignadas: una para su archivo y otra para fijarse durante quince días en los tableros de notificaciones del mismo.
+Las solicitudes de registro a que alude el Artículo anterior serán distribuidas en la siguiente forma: original para la Secretaría de Desarrollo Rural; una copia para la Unión Ganadera Regional correspondiente; una copia para el interesado como constancia de presentación, y dos copias para el Ayuntamiento correspondiente que serán asignadas: una para su archivo y otra para fijarse durante quince días en los tableros de notificaciones del mismo.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 38.
 
-Transcurrido el término señalado en el Artículo anterior, el Ayuntamiento devolverá a la Dirección General de Ganadería el ejemplar que fijó en los tableros, acompañado, en su caso, de los documentos en que se hayan hecho objeciones al registro solicitado.
+Transcurrido el término señalado en el Artículo anterior, el Ayuntamiento devolverá a la Secretaría de Desarrollo Rural el ejemplar que fijó en los tableros, acompañado, en su caso, de los documentos en que se hayan hecho objeciones al registro solicitado.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 39.
 
-La Dirección General de Ganadería, con vista de los antecedentes del caso, dictará el acuerdo que corresponda dentro de los quince días siguientes. El acuerdo que declare efectuado el registro solicitado se hará por escrito y por sextuplicado, para distribuirlo en la forma establecida en el Artículo 37.
+La Secretaría de Desarrollo Rural, con vista de los antecedentes del caso, dictará el acuerdo que corresponda dentro de los quince días siguientes. El acuerdo que declare efectuado el registro solicitado se hará por escrito y por sextuplicado, para distribuirlo en la forma establecida en el Artículo 37.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 40.
 
-La Dirección General de Ganadería llevará dos libros que se denominarán: "Registro General Ganadero" y "Registro General de Marcas, Fierros y Señales". En dichos libros se anotarán todos los datos especificados en las solicitudes respectivas, las fechas de presentación de las mismas y las de autorización de los registros.
+La Secretaría de Desarrollo Rural llevará dos libros que se denominarán: "Registro General Ganadero" y "Registro General de Marcas, Fierros y Señales". En dichos libros se anotarán todos los datos especificados en las solicitudes respectivas, las fechas de presentación de las mismas y las de autorización de los registros.
 
-El Gobierno del Estado, por conducto de la Dirección General de Ganadería, editará un folleto que contenga el registro general de marcas, fierros y señales pecuarios, a fin de que su conocimiento sea divulgado. Asimismo, enviará a los Ayuntamientos copia de los nuevos registros o cambios operados.
+El Gobierno del Estado, por conducto de la Secretaría de Desarrollo Rural, editará un folleto que contenga el registro general de marcas, fierros y señales pecuarios, a fin de que su conocimiento sea divulgado. Asimismo, enviará a los Ayuntamientos copia de los nuevos registros o cambios operados.
 
 ###### ARTICULO 41.
 
@@ -465,9 +511,11 @@ En cada municipio deberán también llevarse los libros a que se refiere el Art�
 
 Los registros a que se refiere el Artículo 35 deberán ser hechos en un término no mayor de treinta días, contados a partir de la fecha de expedición de la presente Ley o inmediatamente después de que se inicie cualquier explotación pecuaria.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 43.
 
-El Estado y cada uno de los municipios poseerán un fierro para herrar los animales que les pertenezcan, y una marca para los que vendan, y los tendrá registrados la Dirección General de Ganadería.
+El Estado y cada uno de los municipios poseerán un fierro para herrar los animales que les pertenezcan, y una marca para los que vendan, y los tendrá registrados la Secretaría de Desarrollo Rural.
 
 ###### ARTICULO 44.
 
@@ -475,15 +523,19 @@ Se presumen delictuosas, salvo pruebas en contrario, la alteración de fierros l
 
 Se prohibe, asimismo, desfigurar las marcas de los animales comprados, debiendo conservar éstos las de sus dueños criadores.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 45.
 
-La Dirección General de Ganadería no registrará fierros y señales o marcas de fácil alteración o con estrecha semejanza a otros ya registrados. Si se presentan dos solicitudes para marcas iguales, se dará preferencia al primero en presentarla; y si se hacen al mismo tiempo, a la ganadería más antigua. El solicitante cuya marca no deba registrarse, estará obligado a registrar otra.
+La Secretaría de Desarrollo Rural no registrará fierros y señales o marcas de fácil alteración o con estrecha semejanza a otros ya registrados. Si se presentan dos solicitudes para marcas iguales, se dará preferencia al primero en presentarla; y si se hacen al mismo tiempo, a la ganadería más antigua. El solicitante cuya marca no deba registrarse, estará obligado a registrar otra.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 46.
 
-Los ganaderos que cambien o dejen de usar sus fierros, marcas o señales registrados, estarán obligados a dar el aviso correspondiente a la Dirección General de Ganadería dentro del término de un mes, para proceder a la cancelación de sus registros en los libros respectivos.
+Los ganaderos que cambien o dejen de usar sus fierros, marcas o señales registrados, estarán obligados a dar el aviso correspondiente a la Secretaría de Desarrollo Rural dentro del término de un mes, para proceder a la cancelación de sus registros en los libros respectivos.
 
-En caso de incumplimiento, la Dirección General de Ganadería, por conducto de la autoridad municipal, procederá a fijar aviso comunicando la cancelación del fierro, marca o señal de que se trate; y de no haber oposición dentro de un plazo de veinte días contado a partir de la fecha de la fijación de los avisos respectivos, se declarará cancelado el fierro, marca o señal, la cual no podrá usarse por ninguna otra persona o sociedad, sino pasados cinco años.
+En caso de incumplimiento, la Secretaría de Desarrollo Rural, por conducto de la autoridad municipal, procederá a fijar aviso comunicando la cancelación del fierro, marca o señal de que se trate; y de no haber oposición dentro de un plazo de veinte días contado a partir de la fecha de la fijación de los avisos respectivos, se declarará cancelado el fierro, marca o señal, la cual no podrá usarse por ninguna otra persona o sociedad, sino pasados cinco años.
 
 ###### ARTICULO 47.
 
@@ -525,9 +577,11 @@ Se reputa abandonado todo animal herrado o sin marca que se encuentre suelto, fu
 
 Toda persona que tenga conocimiento de que exista un animal mostrenco está obligada, en un plazo de tres días, a dar aviso a la autoridad municipal correspondiente, indicando las señas que permitan identificarlo; y no podrá, en ningún caso, retenerlo.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 53.
 
-La autoridad municipal, en seguida que reciba el aviso a que se refiere el Artículo anterior, bajo su responsabilidad dispondrá que el semoviente sea trasladado al corral municipal o que permanezca en el terreno en que se encuentre. Cuando el traslado implique peligro de que se demerite el animal, lo pondrá en conocimiento de la Dirección General de Ganadería de la Asociación Ganadera Local o de la Unión Ganadera Regional, así como de las autoridades de los municipios colindantes. Asimismo, hará fijar el aviso correspondiente en las tablas de notificación del ayuntamiento; y a falta de éstas, en la parte exterior más visible del edificio municipal.
+La autoridad municipal, en seguida que reciba el aviso a que se refiere el Artículo anterior, bajo su responsabilidad dispondrá que el semoviente sea trasladado al corral municipal o que permanezca en el terreno en que se encuentre. Cuando el trasladado implique peligro de que se demerite el animal, lo pondrá en conocimiento de la Secretaría de Desarrollo Rural de la Asociación Ganadera Local o de la Unión Ganadera Regional, así como de las autoridades de los municipios colindantes. Asimismo, hará fijar el aviso correspondiente en las tablas de notificación del ayuntamiento; y a falta de éstas, en la parte exterior más visible del edificio municipal.
 
 ###### ARTICULO 54.
 
@@ -541,9 +595,11 @@ Si el reclamante no comprueba su propiedad o si transcurrido el plazo de diez d�
 
 Los remates se harán en pública subasta, y serán presididos por el presidente municipal en cuya jurisdicción se haya encontrado el animal, debiendo estar presente en el acto de la almoneda un representante de la Asociación Ganadera Local, un inspector pecuario y un representante fiscal del Estado. Para el efecto, el presidente municipal mandará fijar los avisos durante diez días, en los lugares más visibles de su jurisdicción, convocando postores y señalando día y hora para el remate, en la inteligencia de que deberá mediar un lapso no menor de diez días entre la fecha de la convocatoria y la señalada para la celebración de la subasta.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 57.
 
-De la subasta se levantará un acta por cuadruplicado, cuyos ejemplares, debidamente firmados por quienes intervengan en la diligencia, serán distribuidos de la siguiente manera: original para la Dirección General de Ganadería, copia para la Asociación Ganadera Local o para la Unión Ganadera Regional, y copia al rematador para que le sirva de título de propiedad.
+De la subasta se levantará un acta por cuadruplicado, cuyos ejemplares, debidamente firmados por quienes intervengan en la diligencia, serán distribuidos de la siguiente manera: original para la Secretaría de Desarrollo Rural, copia para la Asociación Ganadera Local o para la Unión Ganadera Regional, y copia al rematador para que le sirva de título de propiedad.
 
 ###### ARTICULO 58.
 
@@ -555,9 +611,11 @@ El importe del remate deberá quedar depositado en la Tesorería Municipal respe
 
 Si dentro de este plazo alguna persona justificare plenamente la propiedad de los animales rematados, tendrá derecho a que se le pague como precio de los mismos el producto del remate, deducidos los gastos, pero la propiedad del rematador quedará firme.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 60.
 
-Celebrado un remate, la autoridad municipal que lo hubiere verificado deberá dar aviso dentro del término de los diez días siguientes de celebrado, a la Dirección General de Ganadería y a la Asociación Ganadera Local o Unión Ganadera Regional, proporcionando los elementos de identificación de los animales rematados.
+Celebrado un remate, la autoridad municipal que lo hubiere verificado deberá dar aviso dentro del término de los diez días siguientes de celebrado, a la Secretaría de Desarrollo Rural y a la Asociación Ganadera Local o Unión Ganadera Regional, proporcionando los elementos de identificación de los animales rematados.
 
 ###### ARTICULO 61.
 
@@ -595,7 +653,9 @@ El Ejecutivo organizará sistemas de cría, determinando las especies, razas y v
 
 El sistema estatal de cría se integrará por estaciones regionales, centros productores de semen y centros de monta directa y bancos de semen.
 
-La Dirección General de Ganadería determinará el lugar de su ubicación y zonas de influencia de las estaciones con la participación de las Asociaciones Locales y Uniones Regionales Ganaderas del Estado.
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
+La Secretaría de Desarrollo Rural determinará el lugar de su ubicación y zonas de influencia de las estaciones con la participación de las Asociaciones Locales y Uniones Regionales Ganaderas del Estado.
 
 ###### ARTICULO 68.
 
@@ -649,39 +709,53 @@ Los centros de monta directa y bancos de semen estarán dirigidos técnicamente 
 
 El sostenimiento y administración de los centros queda a cargo de la Asociación Ganadera Local correspondiente, la que cumplirá esta obligación conforme a sus posibilidades, con el subsidio que reciba del Gobierno del Estado, con las cuotas de sus miembros y los ingresos que perciba por concepto de servicios.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 72.
 
-La Dirección General de Ganadería llevará un registro, en el que se anotarán las fechas en que fueron cubiertas las hembras por sementales de raza pura, propiedad del Gobierno del Estado y los datos de identificación necesarios, a fin de tener el control de cruzamiento por especies, debiendo facilitar a las Asociaciones Ganaderas y sus miembros los medios probatorios respecto a la clase y procedencia de las crías.
+La Secretaría de Desarrollo Rural llevará un registro, en el que se anotarán las fechas en que fueron cubiertas las hembras por sementales de raza pura, propiedad del Gobierno del Estado y los datos de identificación necesarios, a fin de tener el control de cruzamiento por especies, debiendo facilitar a las Asociaciones Ganaderas y sus miembros los medios probatorios respecto a la clase y procedencia de las crías.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 73.
 
-La Dirección General de Ganadería procurará el intercambio de sementales entre los municipios del Estado, cuando estos sementales sean propiedad del Gobierno, con el objeto de refrescar la sangre y evitar la degeneración del ganado.
+La Secretaría de Desarrollo Rural procurará el intercambio de sementales entre los municipios del Estado, cuando estos sementales sean propiedad del Gobierno, con el objeto de refrescar la sangre y evitar la degeneración del ganado.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 74.
 
-Para mejorar la ganadería y elevar su productividad, la Dirección General de Ganadería, con la anuencia de los ganaderos, promoverá la castración de los machos criollos de baja calidad en aquellas zonas o regiones del Estado en que pueda proporcionar sementales o semen de animales de alto encaste.
+Para mejorar la ganadería y elevar su productividad, la Secretaría de Desarrollo Rural, con la anuencia de los ganaderos, promoverá la castración de los machos criollos de baja calidad en aquellas zonas o regiones del Estado en que pueda proporcionar sementales o semen de animales de alto encaste.
 
 Podrá, asimismo, con la conformidad de los ganaderos, permutar los machos criollos con sementales finos.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 75.
 
-Con el fin de proteger los pies de cría de registro, aquellos que se introduzcan al Estado deberán ser inscritos en un libro que llevará la Dirección General de Ganadería.
+Con el fin de proteger los pies de cría de registro, aquellos que se introduzcan al Estado deberán ser inscritos en un libro que llevará la Secretaría de Desarrollo Rural.
 
-Para este fin los propietarios de los mismos estarán obligados a dar aviso por escrito a dicha Dirección de su adquisición o nacimiento, exhibiendo en su caso la documentación que compruebe la propiedad y calidad de dichos animales.
+Para este fin los propietarios de los mismos estarán obligados a dar aviso por escrito a dicha Secretaría de su adquisición o nacimiento, exhibiendo en su caso la documentación que compruebe la propiedad y calidad de dichos animales.
 
-La citada Dirección, oyendo a las autoridades federales del ramo, y a las Uniones Ganaderas Regionales correspondientes, determinará las razas y variedades más adecuadas a la ecología regional.
+La citada Secretaría, oyendo a las autoridades federales del ramo, y a las Uniones Ganaderas Regionales correspondientes, determinará las razas y variedades más adecuadas a la ecología regional.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 76.
 
-Los animales de registro que se destinen al servicio de apareamiento con fines de producción de sementales, deberán ser reconocidos por un Médico Veterinario, con el objeto de comprobar sus condiciones. Este reconocimiento se practicará cada seis meses, cuando menos, y se presentará el certificado a la Dirección General de Ganadería para los fines procedentes.
+Los animales de registro que se destinen al servicio de apareamiento con fines de producción de sementales, deberán ser reconocidos por un Médico Veterinario, con el objeto de comprobar sus condiciones. Este reconocimiento se practicará cada seis meses, cuando menos, y se presentará el certificado a la Secretaría de Desarrollo Rural para los fines procedentes.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 77.
 
-La Dirección General de Ganadería, con la cooperación de las Asociaciones Ganaderas, cuidará del fomento y conservación de pastizales, la formación de potreros artificiales, la reforestación de montes aprovechables para la industria pecuaria y en general la adaptación de terrenos para agostadero. Asimismo, colaborará con los propietarios de terrenos o con los ganaderos en los trabajos que se relacionen con el estudio de las clases de tierra, precipitación pluvial, condiciones climatológicas y análisis de plantas forrajeras, tendientes a los objetivos antes indicados.
+La Secretaría de Desarrollo Rural, con la cooperación de las Asociaciones Ganaderas, cuidará del fomento y conservación de pastizales, la formación de potreros artificiales, la reforestación de montes aprovechables para la industria pecuaria y en general la adaptación de terrenos para agostadero. Asimismo, colaborará con los propietarios de terrenos o con los ganaderos en los trabajos que se relacionen con el estudio de las clases de tierra, precipitación pluvial, condiciones climatológicas y análisis de plantas forrajeras, tendientes a los objetivos antes indicados.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 78.
 
-Los ganaderos están obligados a alimentar, cuidar y conservar convenientemente dentro de su propiedad, a su ganado. Si a juicio de sus Asociaciones y Uniones, y de la Dirección General de Ganadería, no cumplen cualquiera de los requisitos, se les ofrecerá asesoría técnica para resolver este problema.
+Los ganaderos están obligados a alimentar, cuidar y conservar convenientemente dentro de su propiedad, a su ganado. Si a juicio de sus Asociaciones y Uniones, y de la Secretaría de Desarrollo Rural, no cumplen cualquiera de los requisitos, se les ofrecerá asesoría técnica para resolver este problema.
 
 ### CAPITULO II (SIC). Sanidad animal
 
@@ -699,17 +773,23 @@ La vacunación de que se trata deberá ser dirigida de preferencia por médicos 
 
 Se declara obligatoria para todos los habitantes del Estado la denuncia de la aparición o existencia de cualquier enfermedad que ataque a las especies animales.
 
-La denuncia se hará al inspector pecuario más próximo, al presidente municipal, a la Asociación Ganadera Local o a la Dirección General de Ganadería, quienes deberán de notificarla en forma inmediata al Titular de Ejecutivo del Estado.
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
+La denuncia se hará al inspector pecuario más próximo, al presidente municipal, a la Asociación Ganadera Local o a la Secretaría de Desarrollo Rural, quienes deberán de notificarla en forma inmediata al Titular de Ejecutivo del Estado.
 
 Sin perjuicio de la denuncia y aun antes de que las autoridades hayan intervenido, desde el momento en que el propietario o encargado haya notado los síntomas de alguna enfermedad contagiosa deberá proceder al aislamiento del animal enfermo, separándolo de los sanos.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 82.
 
-Todo animal cuya muerte haya sido ocasionada por enfermedad infecciosa o causa desconocida, deberá ser destruido por su propietario, incinerando la totalidad de sus despojos y dando aviso de ello a la autoridad municipal y a la Dirección General de Ganadería; cuando no sea posible la incineración completa, deberán sepultarse los restos y cenizas a una profundidad no menor de 1.50 metros, cubriéndose con una capa de cal.
+Todo animal cuya muerte haya sido ocasionada por enfermedad infecciosa o causa desconocida, deberá ser destruido por su propietario, incinerando la totalidad de sus despojos y dando aviso de ello a la autoridad municipal y a la Secretaría de Desarrollo Rural; cuando no sea posible la incineración completa, deberán sepultarse los restos y cenizas a una profundidad no menor de 1.50 metros, cubriéndose con una capa de cal.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 83.
 
-De cualquier caso sospechoso de brote epidémico, la Dirección General de Ganadería informará a los Servicios Coordinados de Salud Pública para dictar conjuntamente las medidas necesarias, a efecto de evitar su propagación.
+De cualquier caso sospechoso de brote epidémico, la Secretaría de Desarrollo Rural informará a los Servicios Coordinados de Salud Pública para dictar conjuntamente las medidas necesarias, a efecto de evitar su propagación.
 
 ###### ARTICULO 84.
 
@@ -727,9 +807,11 @@ Si fuere preciso hacer el transporte de animales enfermos contagiosos o cadáver
 
 Toda persona que arroje a la vía pública, aguada, cenote, o cualquier otro depósito de agua, algún animal vivo o muerto, se hará acreedora a las sanciones que prescribe esta Ley, sin perjuicio de la responsabilidad penal que contraiga.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 88.
 
-Los locales en que hayan aparecido animales enfermos contagiosos, no podrán utilizarse sino hasta después de haber sido desinfectados convenientemente, de acuerdo con las instrucciones giradas por los Servicios Coordinados de Salud Pública y la Dirección General de Ganadería. Los gastos que origine la desinfección serán por cuenta de los propietarios.
+Los locales en que hayan aparecido animales enfermos contagiosos, no podrán utilizarse sino hasta después de haber sido desinfectados convenientemente, de acuerdo con las instrucciones giradas por los Servicios Coordinados de Salud Pública y la Secretaría de Desarrollo Rural. Los gastos que origine la desinfección serán por cuenta de los propietarios.
 
 ### CAPITULO IV. Del Comité Estatal de Sanidad Animal
 
@@ -741,37 +823,35 @@ Para la prevención, combate y erradicación de las enfermedades y plagas de la 
 
 El domicilio del Comité será la ciudad de Mérida, Estado de Yucatán, sin perjuicio de que puedan establecerse delegaciones en otras ciudades o municipios del Estado.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 91.
 
-El Comité Estatal de Sanidad Animal quedará integrado en la siguiente forma:
+El comité estatal de Sanidad animal quedará integrado de la siguiente forma:
 
 Presidente: Gobernador Constitucional del Estado.
 
-Secretario: Jefe de los Servicios Veterinarios Federales de Sanidad Animal en el Estado.
+Secretario: Jefe del Programa Federal de Salud Animal en el Estado.
 
 Tesorero: La persona designada por las dos Uniones Regionales Ganaderas.
 
-Vocales: Agente General de la Secretaría de Agricultura y Ganadería.
+Vocales: Delegado de la Secretaria de Agricultura y Recursos Hidráulicos.
 
-Director General de Ganadería.
+Secretario de Desarrollo Rural.
 
-Los presidentes y secretarios de las dos Uniones Regionales Ganaderas.
+Los Presidentes y Secretarios de las dos Uniones Regionales Ganaderas.
 
 Secretario General de la Liga de Comunidades Agrarias y Sindicatos Campesinos.
 
-Gerente del Banco Agrario de Yucatán.
+Gerente del Banco Rural Peninsular.
 
-Residente del Banco Agropecuario del Sureste.
+Gerente de AGROASEMEX
 
-Gerente del Banco Nacional de Crédito Agrícola.
+Delegado de la Secretaría de la Reforma Agraria.
 
-Gerente de la Aseguradora Nacional, Agrícola y Ganadera en el Estado.
+Jefe de los Servicios de Salud Pública en el Estado.
 
-Jefe del Departamento de Asuntos Agrarios y Colonización.
-
-Jefe de los Servicios Coordinados de Salud Pública en el Estado.
-
-Las Uniones Regionales nombrarán como asesores ante el Comité a los representantes de las Asociaciones de porcicultores, avicultores y apicultores. Habrá tantos vocales ejecutivos como programas de sanidad animal se desarrollen en el Estado.
+Las Uniones Regionales nombrarán como asesores ante el Comité a los representantes de las asociaciones de porcicultores, avicultores y apicultores. Habrá tantos vocales ejecutivos como programas de Sanidad Animal se desarrollen en el Estado.
 
 ###### ARTICULO 92.
 
@@ -809,59 +889,73 @@ Todo propietario de ganado tiene la obligación de colaborar en el financiamient
 
 ### CAPITULO I. Del transporte
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 98.
 
-Toda conducción y transporte de especies animales y sus productos dentro del Estado o para fuera de la Entidad, deberá ampararse con un documento denominado "guía de tránsito" que será expedido por la Unión Ganaderas Regional correspondiente, debiendo acompañar a la misma los comprobantes de pago del impuesto correspondiente, cuando se trate de animales que lo causen, de la factura que legitime la compraventa según el caso y de la guía sanitaria respectiva.
+Toda conducción y transporte de especies animales y sus productos dentro del Estado o para fuera de la Entidad, deberá ampararse con documento denominado "Guía de Tránsito" que será expedido por las uniones ganaderas regionales, a través de la Asociación Ganadera Local o los presidentes municipales en donde no exista ésta, debiendo acompañar a la misma los comprobantes de pago del impuesto correspondiente, cuando se trate de animales que lo causen, de la factura que legitime la compraventa según el caso y de la guía sanitaria respectiva.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 99.
 
-La Dirección General de Hacienda enviará a cada una de las Uniones Ganaderas Regionales en libros foliados y debidamente autorizados por el titular de dicha dependencia las "guías de tránsito" para el movimiento de ganado y sus pieles.
+La Secretaría de Desarrollo Rural enviará a cada una de las Uniones Ganaderas Regionales en libros foliados y debidamente autorizados por el Titular de dicha Dependencia las "Guías de Tránsito" para el movimiento del ganado y sus pieles.
 
-Las "guías de tránsito" estarán numeradas progresivamente y se expedirán por sextuplicado: original y dos copias para el interesado; una copia para la Dirección General de Hacienda; una copia para la presidencia municipal; y una copia para la Asociación Ganadera Local respectiva.
+Las "Guías de Tránsito" estarán numeradas progresivamente y se expedirán por sextuplicado: original y dos copias para el interesado; una copia para la Secretaría de Desarrollo Rural; una copia para la Presidencia Municipal y una copia para la Asociación Ganadera Local respectiva.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 100.
 
-El movimiento de ganado quedará sujeto a los siguientes requisitos:
+Todo transportista que movilice ganado dentro de los límites del Estado deberá portar durante todo su tránsito los siguientes documentos:
 
-a)- Guía sanitaria federal.
+A) Guía sanitaria federal.
 
-b)- Registro ganadero municipal.
+B) Registro ganadero municipal.
 
-c)- Impuestos municipales.
+C) Impuestos municipales.
 
-d)- Impuestos al Estado.
+D) Impuestos al Estado.
 
-e)- Cuota al Comité Estatal de Sanidad Animal.
+E) Cuota al Programa de Control y Movilización Animal.
 
-f)- cumplimentados estos requisitos, permiso de las Uniones Ganaderas Regionales.
+F) Los requisitos sanitarios que se requieran para campañas específicas, que las autoridades competentes establezcan obligatoriamente.
 
-En las casetas de policía, ferrocarriles, aduanas, etc., en donde se controla el movimiento del ganado, deberá fijarse en forma visible el instructivo para el movimiento de ganado, a fin de que la documentación que lleven los transportistas coincida con la expedida por las presidencias municipales encargadas del control y vigilancia.
+G) Guía de Tránsito.
 
-La presidencia municipal, después de estar de acuerdo con lo anotado en las formas, deberá firmar, sellar y cobrar los impuestos marcados en el arancel.
+H) Cumplimentados estos requisitos, permiso de las Uniones Ganaderas Regionales.
+
+En las casetas de policía, ferrocarriles, aduanas, etc., en donde se controla el movimiento de ganado deberá fijarse en forma visible el instructivo para el movimiento de ganado, a fin de que la documentación que lleven los transportistas coincida con la expedida por las instancias correspondientes encargadas del control y vigilancia.
+
+Se consideran no válidos los documentos que presenten alteraciones o tachaduras, o que amparen una movilización distinta en número o especie del producto objeto del traslado, sin contravención de lo dispuesto por el Artículo 102 de la presente Ley.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 101.
 
-Serán los presidentes municipales los encargados de firmar y sellar toda la documentación relativa al manejo de ganado.
+En los casos en que un Presidente Municipal estuviere ausente del poblado, podrán sustituirlo en la función a que hace referencia el Artículo 98 de la presente Ley, el Secretario Municipal o la persona que el Presidente hubiere nombrado, para que lo represente con facultades y responsabilidad para firmar y sellar la documentación relativa.
 
-En los casos en que un presidente municipal estuviere ausente del poblado, podrán sustituirlo en estas funciones el secretario municipal o la persona que el presidente hubiere nombrado para que lo represente con facultades y responsabilidad para firmar y sellar la documentación relativa.
-
-Los presidentes municipales autorizarán exclusivamente la documentación y las guías de tránsito relacionadas con el municipio de su jurisdicción y en ningún caso las firmarán cuando la movilización de especies animales se haya hecho fuera de su municipio.
+Los presidentes municipales autorizan exclusivamente la documentación y las guías de tránsito relacionadas con el municipio de su jurisdicción y en ningún caso las firmarán cuando la movilización de especies animales se haya hecho fuera de su municipio.
 
 ###### ARTICULO 102.
 
 La falsificación, alteración o mal uso que se haga de las formas o guías para el transporte de ganado que traigan como consecuencia el transporte de animales sin consentimiento de sus propietarios, será configurado como delito de robo de ganado, encubrimiento o complicidad en el mismo en los términos del Código de Defensa Social vigente.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 103.
 
-La Dirección General de Hacienda pondrá a disposición de la Procuraduría General de Justicia la documentación necesaria para la investigación de cualquier delito de los citados con anterioridad.
+La Secretaría de Desarrollo Rural pondrá a disposición de la Procuraduría General de Justicia la documentación necesaria para la investigación de cualquier delito de los citados con anterioridad.
 
 ###### ARTICULO 104.
 
 Los transportistas de ganado y pieles deberán, antes de iniciar algún traslado, recabar del interesado las guías y la documentación requeridas por este ordenamiento. En caso contrario, se harán acreedores a las sanciones previstas por esta Ley, independientemente de la pena en que pudiesen incurrir en los términos del Código de Defensa Social vigente.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 105.
 
-Los comerciantes en pieles o dueños de curtiembres o tenerías, llevarán un registro de las pieles que adquieran, en las formas que les proporcione la Dirección General de Hacienda, recabando los datos que en las mismas se indiquen.
+Los comerciantes en pieles o dueños de curtiembres o tenerías, llevarán un registro de las pieles que adquieran, en las formas que les proporcione la Tesorería General del Estado, recabando los datos que en las mismas se indiquen.
 
 ###### ARTICULO 106.
 
@@ -871,25 +965,59 @@ No podrán transportarse en vehículos de ninguna clase cueros, pieles, carne y 
 
 La autorización para transportar ganado de noche deberá especificarse en la guía de tránsito respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 108.
 
-Queda estrictamente prohibida la movilización de ganado enfermo, salvo lo dispuesto en el Artículo 87o. de esta Ley. Si al conducirse alguna partida de un lugar a otro se enfermare alguno de los animales, toda la partida será detenida en el lugar más inmediato y puesta en observación, aislándose a los animales enfermos.
+Queda estrictamente prohibida la movilización de ganado enfermo, salvo lo dispuesto en el Artículo 86 de esta Ley. Si al conducirse alguna partida de un lugar a otro se enfermare alguno de los animales, toda la partida será detenida en el lugar más inmediato y puesta en observación, aislándose a los animales enfermos.
 
 La reanudación de la marcha será permitida cuando las autoridades competentes así lo autoricen, con la intervención de la Asociación Ganadera Local.
 
+> <small>(ADICIONADO, D.O. 23 DE ABRIL DE 1993)</small>
+
+###### ARTICULO 108-A.
+
+Todo transportista de especies animales, productos o subproductos que transite dentro de los límites del Estado deberá detener su vehículo en las casetas de inspección pecuaria para la revisión rutinaria de los documentos que amparen su carga. Asimismo deberán detenerse tantas veces como sea requerido durante su tránsito por los inspectores pecuarios.
+
+> <small>(ADICIONADO, D.O. 23 DE ABRIL DE 1993)</small>
+
+###### ARTICULO 108-B.
+
+Si algún transportista evadiera voluntaria o involuntariamente la caseta de inspección pecuaria, deberá ser regresado a la misma para la revisión rutinaria de la documentación correspondiente, ya sea por los inspectores pecuarios o bien con el apoyo de la Secretaría de Protección y Vialidad o la Policía Federal de Caminos.
+
+> <small>(ADICIONADO, D.O. 23 DE ABRIL DE 1993)</small>
+
+###### ARTICULO 108-C.
+
+Cuando el transportista no se hubiere detenido en una caseta de inspección pecuaria y una vez interceptado se negare a detenerse, regresar a la caseta o entregar la documentación correspondiente al inspector pecuario, la carga será confiscada en su destino final y puesta a disposición del Ejecutivo Estatal para los fines procedentes.
+
+Cuando el inspector pecuario que efectúe la confiscación lo considere adecuado, podrá nombrar depositario al destinatario final de la carga, quien fungirá como tal en los términos de lo dispuesto por el Código Civil del Estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 23 DE ABRIL DE 1993)</small>
+
+###### ARTICULO 108-D.
+
+Cuando se introduzcan al Estado animales, productos o subproductos de origen animal por vías de comunicación aérea, marítima o terrestre y no se informe a las autoridades correspondientes, se le impondrá al infractor una multa de 10 a 50 días de salario mínimo, vigente en el Estado así como la confiscación de la carga, cuando resulte procedente.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 109.
 
-Se requiere autorización del Ejecutivo para introducir al Estado o sacar de él el ganado para fines de repasto.
+Se requiere autorización de la Secretaría de Desarrollo Rural para introducir al Estado o sacar de él, el ganado para fines de repasto.
 
 ### CAPITULO II. De la vigilancia
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 110.
 
-Corresponde al Ejecutivo el solicitar a los transportistas la documentación que ampare el transporte de ganado o de pieles del mismo. Deberán, en todo caso, constatar la debida correspondencia de los datos contenidos en las formas o guías con lo que se transporta, y en caso de divergencia o alteración de la documentación deberán consignar a la Procuraduría General de Justicia los hechos.
+Corresponde a la Secretaría de Desarrollo Rural por sí misma o a través de los inspectores pecuarios debidamente acreditados el solicitar a los transportistas la documentación que ampare el transporte de ganado o de pieles del mismo. Deberán, en todo caso, constatar la debida correspondencia de los datos contenidos en las formas o guías con lo que se transporta y en caso de divergencia o alteración de la documentación deberán consignar a la Procuraduría General de Justicia los hechos.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 111.
 
-Para todo lo relativo al cumplimiento de esta Ley, la Dirección General de Hacienda organizará el personal necesario en la forma conveniente, para el registro, control y movimiento de ganado y pieles del mismo. Nombrará a los inspectores que sean necesarios, orientará a los presidentes municipales, Asociaciones Ganaderas o particulares sobre el mecanismo para el manejo de las guías de tránsito, y de sus observaciones en el cumplimiento de esta Ley, sugerirá al Ejecutivo del Estado las modificaciones pertinentes.
+Para todo lo relativo al cumplimiento de esta Ley, la Secretaría de Desarrollo Rural organizará el personal necesario en la forma conveniente, para el registro, control y movimiento de ganado y pieles del mismo, nombrará a los inspectores que sean necesarios, orientará a los presidentes municipales, asociaciones ganaderas o particulares sobre el mecanismo para el manejo de las guías de tránsito, y de sus observaciones en el cumplimiento de esta Ley, sugerirá al Ejecutivo del Estado las modificaciones pertinentes.
 
 ## TITULO QUINTO. Abasto Público y Comercio de Productos Pecuarios
 
@@ -937,17 +1065,23 @@ Los libros de registro de los rastros podrán ser revisados en cualquier tiempo 
 
 Cuando por omisión, contravención o alteración de los requisitos anteriores se encuentre algún animal que no haya sido registrado y se sacrifique legalmente o se dejen de pagar los impuestos correspondientes, se presumirá que el administrador del rastro es encubridor del delito de robo de ganado y de los demás que resulten cometidos. Además, será considerado solidariamente responsable del pago de los impuestos y derechos omitidos y de las multas correspondientes.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 122.
 
-Los administradores de los rastros reportarán mensualmente a la Dirección General de Ganadería, a la autoridad municipal correspondiente y a la Asociación Ganadera Local respectiva, el movimiento de ganado y sacrificio registrados. En la capital del Estado los reportes se harán también a la Unión Ganadera Regional.
+Los administradores de los rastros reportarán mensualmente a la Secretaría de Desarrollo Rural, a la autoridad municipal correspondiente y a la Asociación Ganadera Local respectiva, el movimiento de ganado y sacrificio registrados. En la capital del Estado los reportes se harán también a la Unión Ganadera Regional.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 123.
 
-Queda prohibido el sacrificio de hembras en estado de gravidez avanzado, así como de animales de registro aptos para la procreación y de becerros finos menores de un año, sin la autorización escrita de la Dirección General de Ganadería o de su representante, que en cada caso, antes de resolver, oirá a la Asociación Ganadera Local correspondiente.
+Queda prohibido el sacrificio de hembras en estado de gravidez avanzado, así como de animales de registro aptos para la procreación y de becerros finos menores de un año, sin la autorización escrita de la Secretaría de Desarrollo Rural o de su representante, que en cada caso, antes de resolver, oirá a la Asociación Ganadera Local correspondiente.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 124.
 
-Toda persona que se dedique a introducir ganado a los rastros para el abasto o que se dedique a la compraventa habitual del mismo deberá recabar la autorización de la Presidencia Municipal correspondiente y de la Dirección General de Ganadería.
+Toda persona que se dedique a introducir ganado a los rastros para el abasto o que se dedique a la compraventa habitual del mismo deberá recabar la autorización de la Presidencia Municipal correspondiente y de la Secretaría de Desarrollo Rural.
 
 ###### ARTICULO 125.
 
@@ -1017,9 +1151,11 @@ Los animales de ordeña serán sometidos anualmente a las pruebas de tuberculosi
 
 El Ejecutivo del Estado dictará los reglamentos a que se sujetará la venta de leche por municipios o por grupos de municipios, conforme se organice la producción en los mismos, prohibiendo, a partir de las posibilidades de pasteurización, la venta de leche bronca.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 140.
 
-Queda prohibido el establecimiento de establos en el perímetro urbano de las poblaciones del Estado. Los que estén actualmente establecidos deberán desocuparse y establecerse fuera de dichos límites, previa autorización de la Dirección General de Ganadería y de la Jefatura de los Servicios Coordinados de Salud Pública en el Estado, salvo lo previsto en el Artículo 22o. de esta Ley.
+Queda prohibido el establecimiento de establos en el perímetro urbano de las poblaciones del Estado. Los que estén actualmente establecidos deberán desocuparse y establecerse fuera de dichos límites, previa autorización de la Secretaría de Desarrollo Rural y de la Jefatura de los Servicios Coordinados de Salud Pública en el Estado, salvo lo previsto en el Artículo 22o. de esta Ley.
 
 ## TITULO SEXTO. Ejercicio Profesional
 
@@ -1035,7 +1171,7 @@ El ejercicio de la medicina veterinaria a que se refiere el Artículo anterior, 
 
 ###### ARTICULO 143.
 
-Se consideran funciones del médico veterinario la asistencia médica y quirúrgica de los animales, el reconocimiento de sanidad en ferias y mercados, los dictamenes periciales en todo lo relativo a higiene, sanidad, producción, explotación zootécnica y economía pecuaria, así como la práctica de vacunación. En los lugares en que no se pueda contar con los servicios de estos profesionales, la Dirección General de Ganadería podrá autorizar la práctica de vacunación de animales y tratamiento elemental de sus enfermedades a personas que comprueben su capacidad, a juicio de dicha dependencia.
+Se consideran funciones del médico veterinario la asistencia médica y quirúrgica de los animales, el reconocimiento de sanidad en ferias y mercados, los dictámenes periciales en todo lo relativo a higiene, sanidad, producción, explotación zootécnica y economía pecuaria, así como la práctica de vacunación. En los lugares en que no se pueda contar con los servicios de estos profesionales, la Dirección General de Ganadería podrá autorizar la práctica de vacunación de animales y tratamiento elemental de sus enfermedades a personas que comprueben su capacidad, a juicio de dicha dependencia.
 
 ###### ARTICULO 144.
 
@@ -1111,9 +1247,9 @@ f)- Ayudar a combatir las plagas y pestes que afecten a la apicultura.
 
 g)- Coadyuvar con el Instituto Apícola de Yucatán a efecto de que continúe su labor de planeación e investigación.
 
-h)- Proporcionar a las dependencias oficiales todos los datos que le sean requeridos.
+h- Proporcionar a las dependencias oficiales todos los datos que le sean requeridos.
 
-i)- Representar ante las autoridades administrativas y judiciales y ante las personas físicas y morales los intereses gremiales de los asociados.
+i- Representar ante las autoridades administrativas y judiciales y ante las personas físicas y morales los intereses gremiales de los asociados.
 
 j)- Respetar y cumplir los acuerdos del Consejo Apícola.
 
@@ -1185,21 +1321,29 @@ El Consejo Apícola del Estado de Yucatán continuará funcionando como colabora
 
 ### CAPITULO I. Generalidades
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ### CAPITULO II. De las sanciones
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ### CAPITULO III. Recurso administrativo
 
 ###### ARTICULO 165.
 
-Corresponde a la Dirección General de Ganadería, salvo artículo expreso en contrario, sancionar y calificar las infracciones a lo dispuesto en la presente Ley, sin perjuicio de que consigne a los responsables ante las autoridades competentes, si el acto u omisión implica la comisión de algún delito.
+Corresponde a la Secretaría de Desarrollo Rural por sí misma o a través de los inspectores pecuarios debidamente acreditados, salvo artículo expreso en contrario, sancionar y calificar las infracciones a lo dispuesto en la presente Ley, sin perjuicio de que consigne a los responsables ante las autoridades competentes, si el acto u omisión implica la comisión de algún delito.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 166.
 
-Las infracciones que no tengan pena específicamente determinada serán sancionadas por las autoridades señaladas en las fracciones I, II y III del Artículo 5 de esta Ley, quienes lo comunicarán a la Dirección General de Hacienda para los efectos de la recaudación correspondiente. Cuando no exista sanción específicamente determinada por violación a la presente Ley, la autoridad competente, de acuerdo con la gravedad del caso, impondrá multas de $100.00 a $1,000.00 o arrestos hasta por quince días.
+Las infracciones que no tengan pena específicamente determinada serán sancionadas por las autoridades señaladas en las fracciones I, II y III del Artículo 5 de esta Ley, quienes lo comunicarán a la Tesorería General del Estado para los efectos de recaudación correspondientes. Cuando no exista sanción específicamente determinada por violación a la presente Ley, la autoridad competente, de acuerdo con la gravedad del caso, impondrá multas de 10 a 100 días de salario mínimo vigentes en el Estado.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 167.
 
-Las sanciones pecuniarias a que se refiere esta Ley serán calificadas por la Dirección General de Ganadería, quien comunicará a la Dirección General de Hacienda el monto y las características de las mismas para la recaudación correspondiente.
+Las sanciones pecuniarias a que se refiere esta Ley serán calificadas por la Secretaría de Desarrollo Rural a través de los inspectores pecuarios que haya acreditado debidamente, quien comunicará a la Tesorería General del Estado el monto y las características de las mismas para la recaudación correspondiente, de acuerdo con los procedimientos que para el efecto establezca la mencionada Tesorería.
 
 ###### ARTICULO 168.
 
@@ -1209,65 +1353,99 @@ Para la aplicación y cuantificación de las sanciones se tomarán en cuenta las
 
 Siendo de interés público el cumplimiento y observancia de la presente Ley, se concede acción popular para denunciar ante las autoridades competentes cualquier violación o incumplimiento de la misma.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 170.
 
-El importe de las multas recaudadas será dividido en la siguiente forma:
+El importe de las multas recaudadas será dividido de la siguiente forma:
 
-I.- Cuando la autoridad municipal sea la que las imponga, el sesenta por ciento de su importe corresponderá a la tesorería municipal y el cuarenta por ciento a la Dirección General de Hacienda.
+I.- Cuando la autoridad municipal sea la que las imponga, el cincuenta por ciento de su importe corresponderá a la Tesorería Municipal y el cincuenta por ciento a la Tesorería General del Estado.
 
-II.- En los demás casos establecidos por esta Ley, la totalidad de su importe corresponderá a la Dirección General de Hacienda.
+II.- En los demás casos establecidos por esta Ley, la totalidad de su importe corresponderá a la Tesorería General del Estado.
+
+La totalidad de los importes recaudados por la Tesorería General del Estado en virtud de la aplicación de las sanciones pecuniarias establecidas por esta Ley, será destinada para sufragar los gastos de operación de los programas específicos de control de movilizaciones vigentes en el Estado.
 
 ###### ARTICULO 171.
 
-A los propietarios de animales que deambulen por las vías de comunicación o por las zonas urbanas de las poblaciones, se les sancionará con la pérdida del producto, que la autoridad estatal o municipal destinará a la beneficencia pública, independientemente de las demás sanciones por cualesquiera daños que ocasionaren.
+A los propietarios de animales que deambulen por las vías de comunicación o por las zonas urbanas de las poblaciones, se les sancionará en primera instancia, con una amonestación y en caso de reincidencia, con la pérdida del producto, que la autoridad estatal o municipal destinará a la beneficencia pública, independientemente de las demás sanciones aplicables por cualesquiera daños que ocasionen.
 
 ###### ARTICULO 172.
 
 La autoridad municipal sancionará con la pérdida del producto, en beneficio del fisco municipal y multa igual al quíntuplo de su valor, a los comerciantes en pieles, dueños de saladeros, curtidurías y demás establecimientos dedicados a su industrialización cuando admitan pieles sin recabar la documentación legal respectiva, sin perjuicio de las penas a que se hicieren acreedores en caso de la comisión de algún delito sancionado en el Código de Defensa Social.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 173.
 
-El Ejecutivo impondrá multas de $100.00 a $500.00 a la persona que teniendo conocimiento de la existencia de cualquier enfermedad que ataque a las especies animales no cumplan con lo previsto en el Artículo 81.
+Se impondrá multa de 100 a 1000 días de salario mínimo vigente en el Estado a la persona que teniendo conocimiento de la existencia de cualquier enfermedad que ataque a las especies animales no cumplan con lo previsto en el Artículo 81 de esta Ley.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 174.
 
-La violación a lo estipulado en los Artículos 82 y 88 será sancionada con multa de $100.00 a $1,000.00 o arresto hasta por quince días.
+La violación a lo estipulado en los artículos 82 y 88 será sancionada con multa de 100 a 1000 días de salario mínimo vigente en el Estado.
 
 ###### ARTICULO 175.
 
 La autoridad que expida guías de tránsito para una zona infestada, estando en vigencia la declaratoria de infección, será sancionada en los términos del Código de Defensa Social. En igual responsabilidad incurrirá cuando no cumpla con las obligaciones señaladas en el Artículo 102 de esta Ley.
 
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 176.
 
-Se impondrá una multa de $100.00 a $500.00 o arresto hasta por quince días a los transportistas de ganado y pieles que no recaben del interesado las guías y documentación requeridas por esta Ley, para el transporte, sin perjuicio de la pena en que pudiesen incurrir en los términos del Código de Defensa Social.
+Se impondrá una multa de 10 a 100 días de salario mínimo vigente en el Estado a los transportistas de ganado y pieles que no recaben del interesado las guías y documentación requeridas por esta Ley, para el transporte, sin el perjuicio de la pena en que pudiese incurrir en los términos del Código de Defensa Social.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 177.
 
-Se impondrá multa de $100.00 a $500.00 y arresto hasta por quince días a los transportistas que movilicen ganado y sus productos en contravención a lo dispuesto por los Artículos 107, 108, y 109 de esta Ley.
+Se impondrá multa de 10 a 100 días de salario mínimo a los transportistas que movilicen ganado y sus productos en contravención a lo dispuesto por los artículos 98, 100, 106, 107, 108 y 109 de esta Ley.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 178.
 
-Serán consignados por fraude al fisco quienes introduzcan ganado al Estado o lo envíen fuera de él, sin la previa autorización del Ejecutivo y sin llenar los requisitos indicados.
+Serán consignados por fraude al Fisco quienes introduzcan ganado al Estado o lo envíen fuera de él, sin la previa autorización de la Secretaría de Desarrollo Rural y sin llenar los requisitos indicados.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 179.
 
-Quienes sacrifiquen ganado para el consumo doméstico en contravención al Artículo 127 de esta Ley serán sancionados con multa de $50.00 a $200.00.
+Quienes sacrifiquen ganado para el consumo doméstico en contravención al Artículo 127 de esta Ley serán sancionados con multa de 20 a 150 días de salario mínimo vigente en el Estado.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 180.
 
-Se sancionará con multa de $200.00 a $1,000.00 a los dueños y encargados de tenerías, curtidurías, saladeros y demás establecimientos destinados a su industrialización si no están amparados con la documentación legal correspondiente sin perjuicio de las penas a que se hagan acreedores conforme al Código de Defensa Social.
+Se sancionará con multa de 50 a 500 días de salario mínimo vigente en el Estado a los dueños y encargados de tenerías, curtidurías, saladeros y demás establecimientos destinados a la industrialización sino están amparados con la documentación legal correspondiente sin perjuicio de las penas a que se hagan acreedores conforme al Código de Defensa Social.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 181.
 
-Se impondrá multa de $200.00 a $1,500.00 a los dueños o encargados de tenerías, curtidurías y saladeros de pieles que no informen a la Dirección General de Ganadería en los términos del artículo 132 de esta Ley o que carezcan del registro correspondiente.
+Se impondrá multa de 50 a 500 días de salario mínimo vigente en el Estado a los dueños de tenerías, curtidurías y saladeros de pieles que no informen a la Secretaría de Desarrollo Rural en los términos del Artículo 132 de esta Ley o que carezcan del registro correspondiente.
+
+> <small>(ADICIONADO, D.O. 23 DE ABRIL DE 1993)</small>
+
+###### ARTICULO 181-A.
+
+Las multas y sanciones correspondientes a los administradores o responsables de los rastros municipales en relación al Artículo 121 de la presente Ley serán de 10 a 50 días de salario mínimo vigente en el Estado.
 
 ###### ARTICULO 182.
 
 Quienes destruyan una cerca serán responsables de los daños que se ocasionen por ese motivo, independientemente de la sanción a que se hagan acreedores conforme al Código de Defensa Social.
 
+> <small>(ADICIONADO, D.O. 23 DE ABRIL DE 1993)</small>
+
+###### ARTICULO 182-A.
+
+El desacato a las autoridades competentes para la aplicación de la presente Ley durante el ejercicio de sus funciones, será sancionado con multa de 10 a 50 días de salario mínimo vigente en el Estado.
+
+> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 183.
 
-Las sanciones pecuniarias que no pudieran hacerse efectivas, se conmutarán por arresto hasta por quince días, de acuerdo con la gravedad y circunstancias particulares de cada caso, según lo estime la autoridad administrativa que lo impuso.
+Ante las sanciones pecuniarias que no pudieran hacerse efectivas, el Ejecutivio (sic) dispondrá de las medidas de apremio que considere pertinentes, de acuerdo con la gravedad y circunstancias particulares de cada caso, según lo estime.
 
 ###### ARTICULO 184.
 
@@ -1342,3 +1520,15 @@ CARLOS LORET DE MOLA
 El Director General de Gobernación
 
 Lic. RENAN SOLIS AVILES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 23 DE ABRIL DE 1993.
+
+###### ARTICULO PRIMERO.
+
+Se actualizan los nombres de las diferentes dependencias que aparecen en los artículos de la Ley Ganadera del Estado de Yucatán que se relacionan a continuación: Artículos 5, Fracción I, 10, 6, 8, 9, 14, 15, 17, 18, 19, 21, 23, 24, Fracciones III, V, XII, y XV; 28, 35, 36, 37, 38, 39, 40, 43, 45, 46, 53, 57, 60, 67, 72, 73, 74, 75, 76, 77, 78, 81, 82, 83, 88, 91, 122, 123, 124, 140, 165 y 108.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
