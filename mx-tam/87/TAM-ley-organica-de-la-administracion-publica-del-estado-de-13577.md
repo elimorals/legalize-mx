@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-13577"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-03"
-last_updated: "1999-02-03"
+last_updated: "2000-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2000.
 
 Ley publicada en el Periódico Oficial, el 3 de febrero de 1999.
 
@@ -121,7 +121,7 @@ La estructura orgánica interna de los organismos desconcentrados en cada una de
 
 ###### ARTICULO 19.
 
-Los titulares de las dependencias y entidades del Ejecutivo, formularán el anteproyecto de Presupuesto de Egresos correspondiente, de acuerdo a sus programas, planes de Gobierno y lineamientos que al efecto señale el Comité de Planeación para el Desarrollo del Estado de Tamaulipas y la Secretaría de Finanzas y Administración.
+Los titulares de las dependencias a que se refieren los Artículos 23 al 29 de esta Ley, acordarán directamente con el Titular del Ejecutivo, y los titulares de las entidades lo harán a través del Secretario del ramo a que correspondan, salvo disposiciones en contrario del Titular del Ejecutivo, sin perjuicio de las facultades que a la Secretaría General de Gobierno le confieren los Artículos 87 y 95 de la Constitución Política del Estado. Todas las dependencias a que se refieren los Artículos 23 al 27 de esta ley, se denominarán Secretarías, tendrán igual rango y entre ellas no habrá preminencia alguna.
 
 ###### ARTICULO 20.
 
@@ -193,13 +193,15 @@ XVI. Participar con la dependencia correspondiente, en la realización de progra
 
 XVII. Coordinar y vigilar las Juntas de Mejoramiento Moral, Cívico y Material;
 
-XVIII. Dirigir la edición, publicación y operación del Periódico Oficial del Gobierno del Estado y mantener un archivo actualizado de los mismos;
+XVIII. Dirigir la edición, publicación y operación del Periódico Oficio del Gobierno del Estado y mantener un archivo actualizado de los mismos;
 
 XIX. Ordenar la publicación en el Periódico Oficial, de las leyes y decretos que expida el Poder Legislativo, los decretos del Ejecutivo y demás disposiciones legales;
 
-Ejecutar los actos de expropiación, de ocupación temporal y delimitación de dominio por causa de utilidad pública, de conformidad con la legislación aplicable;
+Ejecutar los actos de expropiación, de ocupación temporal y de limitación de dominio por causa de utilidad pública, de conformidad con la legislación aplicable;
 
-XXI. (sic) Coordinar los eventos y actos cívicos del Gobierno del Estado y elaborar el calendario de los mismos, con el apoyo logístico de la Secretaría de Finanzas y Administración;
+XX. Ejecutar los actos de expropiación, de ocupación temporal y de limitación de dominio por causa de utilidad pública, de conformidad con la legislación aplicable;
+
+XXI. Coordinar los eventos y actos cívicos del Gobierno del Estado y elaborar el calendario de los mismos, con el apoyo logístico de la Secretaría de Finanzas y Administración;
 
 XXII. Participar coordinadamente con las Autoridades Federales, en los términos de las leyes relativas, en materia de cultos religiosos, detonantes y pirotecnia, portación de armas, loterías, rifas y juegos prohibidos, migración, prevención, combate y extinción de catástrofes públicas;
 
@@ -223,15 +225,21 @@ XXXI. Conducir y poner en ejecución las políticas y los programas de Gobierno 
 
 XXXII. Coordinar actividades en materia vehicular, con las Autoridades Federales; y,
 
-XXXIII. Los demás que con relación al ramo, le encomiende el Titular del Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DEL 2000)</small>
+
+XXXIII.- Desarrollar y ejecutar en el ámbito territorial del Estado, por conducto del Organo Desconcentrado denominado Consejo para el Desarrollo Integral de la Mujer, las acciones tendientes a promover la participación de las mujeres en la vida social, política y económica del Estado, fomentando una cultura de igualdad de género; preparar y presentar a la consideración del ejecutivo del Estado el proyecto del Programa Estatal de la Mujer; realizar las acciones que permitan la ejecución del mismo.
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DEL 2000)</small>
+
+XXXIV.- Los demás que, con relación al ramo, le encomiende el Titular del Ejecutivo del Estado.
 
 #### Sección II. De la Secretaría de Finanzas y Administración
 
 ###### ARTICULO 24.
 
-A la Secretaría de Finanzas y Administración, además de las atribuciones que le confieren las Leyes aplicables, le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Finanzas, además de las atribuciones que le confieren las Leyes aplicables, le corresponde el despacho de los siguientes asuntos:
 
-(sic) Formular y dirigir la Política de Ingresos y Egresos del Estado, de acuerdo a los lineamientos señalados por el Titular del Ejecutivo, así como representar al Gobierno del Estado en los juicios y controversias que se ventilen ante cualquier tribunal y tramitar y resolver los recursos administrativos en la esfera de su competencia;
+I. Formular y dirigir la Política de Ingresos y Egresos del Estado, de acuerdo a los lineamientos señalados por el Titular del Ejecutivo, así como representar al Gobierno del Estado en los juicios y controversias que se ventilen ante cualquier tribunal y tramitar y resolver los recursos administrativos en la esfera de su competencia;
 
 II. Dictar las medidas administrativas para la planeación, programación, presupuestación, control, vigilancia, evaluación y ejecución del gasto público estatal y establecer coordinación con las áreas de apoyo administrativo de las dependencias y entidades, para su implementación;
 
@@ -243,7 +251,7 @@ V. Efectuar las tramitaciones y registros que requiere el control, vigilancia y 
 
 VI. Controlar, operar y actualizar el Registro Estatal de Contribuyentes y aplicar las disposiciones legales vigentes respecto a las obligaciones fiscales de los contribuyentes;
 
-VII. Llevar la contabilidad del Gobierno Estatal, debiendo formular los Estados Financieros y la Cuenta Pública;
+VII.- Llevar la contabilidad del Gobierno Estatal, debiendo formular los Estados Financieros y la Cuenta Pública;
 
 VIII. Administrar y custodiar los fondos y valores del Gobierno del Estado, fincando en su caso, las responsabilidades correspondientes;
 
@@ -277,9 +285,29 @@ XXII. Evaluar y dar seguimiento a las principales variables económicas, naciona
 
 XXIII. Planear la obtención de recursos financieros y no financieros que respalden el desarrollo económico y social del Estado;
 
+XIV. Implementar y ejecutar las políticas de recaudación, por los derechos que se generen por los trámites y servicios que presta el Registro Público de la Propiedad y del Comercio;
+
+XV. Determinar los criterios y montos de los subsidios y estímulos fiscales, así como estudiar, proyectar y evaluar sus efectos en los ingresos estatales;
+
+XVI. Formular, desarrollar y ejecutar los programas económicos, financieros, crediticios y hacendarios del Gobierno del Estado;
+
+XVII. Analizar y evaluar la situación financiera de las entidades de la administración paraestatal, a fin de proponerles las medidas que considere necesarias para el mejor cumplimiento de sus objetivos;
+
+XVIII. Coordinar la ejecución de las acciones concertadas por el Titular del Ejecutivo con los sectores social y privado, en el ámbito de su competencia;
+
+XIX. Dirigir y controlar el funcionamiento técnico-administrativo de las Oficinas Fiscales del Estado;
+
+XX. Suscribir los convenios materia de su competencia, que celebre el Gobierno del Estado con el Gobierno Federal, con los Municipios de la Entidad y con otras Entidades Federativas y ejercer las atribuciones derivadas de éstos;
+
+XXI. Efectuar los pagos autorizados con cargo al Presupuesto de Egresos, y los demás que conforme a las leyes, convenios, contratos y demás disposiciones legales deban realizarse;
+
+XXII.- Evaluar y dar seguimiento a las principales variables económicas, nacionales e internacionales, que pudieran afectar el buen comportamiento financiero en el ámbito estatal, e informar al Titular del Ejecutivo sobre el desempeño de la actividad económica en Tamaulipas;
+
+XXIII. Planear la obtención de recursos financieros y no financieros que respalden el desarrollo económico y social del Estado;
+
 XXIV. Dictar las medidas administrativas para el reclutamiento, selección, contratación, inducción, capacitación y control administrativo del personal de la Administración Pública del Estado, así como procurar el mejoramiento de sus condiciones económicas, sociales, culturales y de trabajo;
 
-XXV. Tramitar los nombramientos, promociones, remociones, cambios de adscripción, ceses, renuncias, vacaciones, licencias, bajas y jubilaciones de Servidores Públicos del Estado, así como expedir las credenciales o constancias de identificación de los servidores públicos del Estado;
+XXV. Tramitar los nombramientos, promociones, remociones, cambios dé adscripción, ceses, renuncias, vacaciones, licencias, bajas y jubilaciones de Servidores Públicos del Estado, así como expedir las credenciales o constancias de identificación de los servidores públicos del Estado;
 
 XXVI. Representar al Gobierno del Estado ante las Autoridades del Trabajo, en la defensa de los intereses del mismo, así como observar las disposiciones Legales y la Ley del Servicio Burocrático, que rige las relaciones entre el Gobierno del Estado y los servidores públicos;
 
@@ -317,7 +345,7 @@ XLII. Dictar medidas administrativas para la distribución y aprovechamiento de 
 
 XLIII. Administrar la Red Estatal de Comunicaciones, coordinándose para tal efecto, con las instancias federales, estatales, municipales y particulares que se requiera;
 
-XLIV. Analizar las necesidades de información de las diferentes dependencias y entidades para eficientar y optimizar los sistemas actuales, proponer, desarrollar e implementar de por sí o a través de terceros, proyectos estratégicos de información con tecnología de punta en sistemas y telecomunicaciones;
+LIV. Analizar las necesidades de información de las diferentes dependencias y entidades para eficientar y optimizar los sistemas actuales, proponer, desarrollar e implementar de por sí o a través de terceros, proyectos estratégicos de información con tecnología de punta en sistemas y telecomunicaciones;
 
 XLV. Emitir dictamen para la adquisición de equipo de procesamiento electrónico de datos, y coordinar el otorgamiento de los servicios que en la materia requieran las distintas dependencias y entidades de la Administración Pública;
 
@@ -343,7 +371,7 @@ III. Coordinar con las dependencias respectivas de la federación, la promoción
 
 IV. Establecer los mecanismos de coordinación con las Autoridades competentes, en materia de prevención y atención de emergencias originadas por fenómenos naturales;
 
-V. Establecer y administrar los programas de atención médica, salud pública, asistencia social y regulación sanitaria en el territorio del Estado, en los términos establecidos en las Leyes, Reglamentos y disposiciones en la materia;
+V. Establecer y administrar los programas de atención medica, salud pública, asistencia social y regulación sanitaria en el territorio del Estado, en los términos establecidos en las Leyes, Reglamentos y disposiciones en la materia;
 
 VI. Intervenir en la celebración de Convenios que en materia de Salud, suscriba el Gobierno Estatal con la Federación, los Municipios, con organismos internacionales y vigilar su cumplimiento;
 
@@ -421,7 +449,7 @@ XLII.-Fomentar, planear y coordinar la investigación en el campo de la educaci�
 
 XLIII. Fomentar, conforme a las disposiciones legales aplicables, las relaciones de orden deportivo con instituciones del ramo de la Federación, de los estados y de otros países;
 
-XLIV. Organizar el Sistema Estatal del Deporte y todo género de eventos deportivos oficiales, cuando no corresponda hacerlo expresamente a otra Dependencia del Gobierno del Estado;
+XLIV. Organizar el Sistema Estatal del Deporte y todo género de eventos deportivos oficiales, cuando no corresponda hacerlo expresamente a otrá Dependencia del Gobierno del Estado;
 
 XLV. Coordinar como cabeza de sector las actividades de las entidades estatales denominadas: Colegio de Bachilleres del Estado de Tamaulipas, Instituto Tamaulipeco de Investigación Educativa y Desarrollo de la Docencia, Parque Cultural y Recreativo Tamaulipas Siglo XXI, Centro Cultural Tamaulipas e Instituto Tamaulipeco de Cultura; y,
 
@@ -465,7 +493,7 @@ XIII. Formular, coordinar y promover la ejecución de los programas de vivienda,
 
 XIV. Proponer normas y lineamientos en materia de financiamiento privado total o parcial y su pago para la realización de la obra pública, el desarrollo urbano, ecológico y de vivienda;
 
-XV. Establecer los lineamientos a que deben sujetarse los proyectos que realicen dependencias y entidades oficiales y particulares, que guarden relación con el desarrollo urbano y obra pública del Estado;
+XXV. Investigar, reconstruir y conservar el entorno urbano original de las poblaciones del Estado, con objeto de mantener el Patrimonio Histórico-Cultural, y conservar los edificios y monumentos públicos en coordinación con la Secretaría de Finanzas y Administración;
 
 XVI. Fomentar en coordinación con la Secretaría General de Gobierno y la Secretaría de Desarrollo Económico y del Empleo la organización de sociedades cooperativas de vivienda y materiales para construcción;
 
@@ -485,7 +513,7 @@ XXIII. Establecer lineamientos a que deben ajustarse los proyectos de obra públ
 
 XXIV. Determinar, previos los estudios técnicos y administrativos correspondientes, la conveniencia de realizar directamente o a través de terceros la obra pública;
 
-XXV. Investigar, reconstruir y conservar el entorno urbano original de las poblaciones del Estado, con objeto de mantener el Patrimonio Histórico-Cultural, conservar los edificios y monumentos públicos en coordinación con la Secretaría de Finanzas y Administración;
+XXV. Investigar, reconstruir y conservar el entorno urbano original de las poblaciones del Estado, con el objetivo de mantener el patrimonio histórico-cultural y llevar un inventario de los mismos en coordinación con la Secretaría de Administración;
 
 XXVI. Formar parte de los organismos públicos estatales y municipales, relacionados con la obra pública, a efecto de vigilar que la misma se realice conforme a las disposiciones legales y administrativas vigentes;
 
@@ -521,7 +549,7 @@ XL. Los demás que con relación al ramo le encomiende el Titular del Ejecutivo 
 
 A la Secretaría de Desarrollo Económico y del Empleo le corresponde el despacho de los siguientes asuntos:
 
-(sic) Formular y ejecutar los planes y programas de promoción y desarrollo de la actividad agropecuaria, forestal, pesquera, industrial, comercial, turística y de servicios;
+I. Formular y ejecutar los planes y programas de promoción y desarrollo de la actividad agropecuaria, forestal, pesquera, industrial, comercial, turística y de servicios;
 
 II. Coordinar, promover y concertar la interacción de acciones y recursos federales y estatales con los productores, empresarios y consumidores;
 
@@ -567,11 +595,11 @@ XXII. Estimular la inversión nacional y extranjera, las coinversiones y la inst
 
 XXIII. Vigilar que la operación industrial, minera, turística, comercial y de servicios, se ajuste a las disposiciones contenidas en los ordenamientos jurídico-administrativos vigentes en los ámbitos federal y estatal;
 
-XXIV. Impulsar programas para la generación y co-generación de energía eléctrica, conforme a las disposiciones de la Ley Federal del Servicio de Energía Eléctrica;
+XIV. Impulsar programas para la generación y co-generación de energía eléctrica, conforme a las disposiciones de la Ley Federal del Servicio de Energía Eléctrica;
 
 XXV. Promover coordinadamente con la Secretaría de Desarrollo Urbano y Ecología, programas para la protección del medio ambiente y el confinamiento de desechos sólidos y aguas residuales, en apoyo a un desarrollo sostenido y sostenible en los sectores industrial, comercial y turístico;
 
-XXVI. Representar al Gobierno del Estado por acuerdo del Titular del Ejecutivo, en las asambleas de consejo y de los comités técnicos de fideicomisos y demás entidades paraestatales, relacionados con los sectores económicos en (sic) Estado;
+XXVI. Representar al Gobierno del Estado por acuerdo del Titular del Ejecutivo, en las asambleas de consejo y de los comités técnicos de fideicomisos y demás entidades paraestatales, relacionados con los sectores económicos en Estado;
 
 XXVII. Coordinar el Servicio Estatal de Empleo y establecer conjuntamente con la Secretaría del Trabajo y Previsión Social Federal y con la Secretaría de Desarrollo Social, los programas de adiestramiento y capacitación industrial que se requieran;
 
@@ -669,7 +697,7 @@ XVIII. Vigilar en la esfera de su competencia, el cumplimiento de las obligacion
 
 XIX. Formular e implantar por sí o a través de terceros, estudios y programas de mejoramiento, encaminados a la modernización, simplificación, desconcentración, descentralización y desregulación administrativa, distribución y aprovechamiento de espacios de las dependencias y entidades de la Administración Pública Estatal;
 
-XX. Analizar, dictaminar y en su caso, previo acuerdo del Titular del Ejecutivo, autorizar las estructuras orgánico-funcionales de las dependencias y entidades públicas, en coordinación con la Secretaría de Finanzas y Administración, para los efectos presupuestales correspondientes;
+XX. Analizar, dictaminar y en su caso, previo acuerdo del Titular del Ejecutivo, autorizar las estructuras orgánico-funcionales de las dependencias y entidades públicas, en coordinación con la Secretaría de Finanzas y Administración, para los electos presupuestales correspondientes;
 
 XXI. Emitir las normas y lineamientos que deben observar las dependencias y entidades en la formulación de sus manuales administrativos, y en su caso, autorizar los mismos, previo acuerdo del Titular del Ejecutivo; y,
 
@@ -679,11 +707,11 @@ XXII. Los demás que, con relación al ramo, le encomiende el Titular del Ejecut
 
 ###### ARTICULO 30.
 
-Son entidades los organismos descentralizados; empresas de participación estatal y demás comisiones, comités, patronatos, juntas, fondos y fideicomisos que funcionen en el Estado, creados por Decreto del Congreso o en su caso por el Ejecutivo Estatal, cualquiera que sea la forma o estructura legal que adopten y constituyen órganos auxiliares de la Administración Pública, los cuales serán coordinados por los titulares de las Secretarías cuyas respectivas competencias comprendan las funciones de la entidad correspondiente; en caso de duda sobre la dependencia que deba coordinar una entidad, resolverá el Titular del Ejecutivo;
+Son entidades los organismos descentralizados; empresas de participación estatal y demás comisiones, comités, patronatos, juntas, fondos y fideicomisos que funcionen en el Estado, creados por Decreto del Congreso o en su caso por el Ejecutivo Estatal, cualquiera que sea la forma o estructura legal que adopten y constituyen órganos auxiliares de la Administración Pública, los cuales serán coordinados por los titulares de las Secretarias cuyas respectivas competencias comprendan las funciones de la entidad correspondiente; en caso de duda sobre la dependencia que deba coordinar una entidad, resolverá el Titular del Ejecutivo;
 
 ###### ARTICULO 31.
 
-El Gobernador podrá crear organismos descentralizados; y podrá ordenar la creación, fusión o liquidación de empresas de participación estatal mayoritarias o dispondrá la constitución y liquidación, en su caso, de fideicomisos públicos para la atención del objeto que expresamente les encomienden. Asimismo, podrá crear, constituir o establecer juntas, patronatos, comités y comisiones.
+El Gobernador podrá crear organismos descentralizados; y podrá ordenar la creación, fusión o liquidación de empresas de participación estatal mayoritarias o dispondrá la constitución y liquidación, en su caso, de fideicomisos públicos para la atención del objeto que expresamente les encomienden. Asimismo, podrá crear, constituir o establecer juntas, patronatos, comités y comisiones;
 
 ###### ARTICULO 32.
 
@@ -691,7 +719,7 @@ Los organismos descentralizados gozarán de personalidad jurídica y patrimonio 
 
 ###### ARTICULO 33.
 
-Las entidades de la administración paraestatal se agruparán en sectores definidos; y sus relaciones con el Ejecutivo, en cumplimiento a las disposiciones generales aplicables, se realizarán a través de la dependencia que en cada caso se designe como coordinador del sector correspondiente; y, (sic)
+Las entidades de la administración paraestatal se agruparán en sectores definidos; y sus relaciones con el Ejecutivo, en cumplimiento a las disposiciones generales aplicables, se realizarán a través de la dependencia que en cada caso se designe como coordinador del sector correspondiente; y,
 
 ###### ARTICULO 34.
 
@@ -750,3 +778,15 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 3 de febrer
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los tres días del mes de Febrero de mil novecientos noventa y nueve.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P. O. 6 DE JUNIO DEL 2000
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado, dentro de los sesenta días siguientes deberá expedir el reglamento interno del Consejo para el Desarrollo Integral de la Mujer.
