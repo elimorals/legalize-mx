@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "1996-12-16"
+last_updated: "1997-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -66,6 +66,10 @@ Cuando en esta Ley se haga mención a las siglas S.M.G., se entenderá que se re
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 La recaudación y administración de las contribuciones establecidas en esta ley, es de la competencia de la Secretaría de Hacienda, sus dependencias, órganos auxiliares y las que autorice el Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+La (sic) percepciones derivadas de las funciones del Poder Judicial, comprendidas en la legislación aplicable, serán recaudados y administradas por la Secretaría de Hacienda del Estado.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -659,6 +663,10 @@ IV.- Cuando la diferencia entre el impuesto del ejercicio y la suma del impuesto
 
 Cuando se realicen las erogaciones a que se refiere el artículo 39 de esta ley, en forma ocasional o por única vez, el contribuyente pagará el impuesto mediante declaración que presentará en las oficinas autorizadas dentro de los 5 días siguientes a aquel en que se realizó la erogación. En estos casos no se formulará declaración anual ni pago provisional.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+Cuando el contribuyente realice la erogación a que se refiere el párrafo anterior por única ocasión, no estará obligado a inscribirse en el Registro Estatal de Contribuyentes.
+
 #### SECCION TERCERA. DE LAS OBLIGACIONES
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
@@ -979,9 +987,11 @@ Los contribuyentes de este impuesto deberán conservar y colocar en lugar visibl
 
 ###### ARTICULO 70.
 
-Los sujetos de este impuesto, que únicamente perciban ingresos exentos, tienen obligación, excepción hecha de los comprendidos en las fracciones l, III, V, y X del artículo 80 de:
+Los sujetos de este impuesto, que únicamente perciban ingresos exentos, tienen obligación, excepción hecha de los comprendidos en las fracciones I, III, V, y X del artículo 80 de:
 
-I.- Empadronarse dentro de los quince días siguientes a la fecha de iniciación de sus operaciones;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+I.- Empadronarse dentro del mes siguiente a la fecha de iniciación de sus operaciones.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -989,11 +999,11 @@ II.- Solicitar por escrito la confirmación de su exención ante la Secretaría 
 
 III.- Declarar en el mes de enero de cada año, el importe de los ingresos que hayan percibido durante el año anterior, o en su caso dentro de los quince días siguientes a la fecha de clausura, traspaso o cambio de giro.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 71.
 
-En los casos de cambio de nombre, denominación o de razón social, domicilio o actividad, aumento o disminución del capital social, traspaso de la negociación y suspensión de actividades, los contribuyentes deberán dar aviso, en las formas aprobadas a través de la Oficina Recaudadora de Rentas correspondiente, dentro de los quince días siguientes a la fecha en que hubiera ocurrido cualquiera de tales hechos consignando todos los datos que en la misma se requieran.
+En los casos de cambio de nombre, denominación o de razón social, domicilio, actividad, aumento o disminución del capital social, traspaso de la negociación y suspensión de actividades, los contribuyentes deberán dar aviso, en las formas aprobadas a través de la oficina Recaudadora de Rentas correspondiente, dentro del mes siguiente a la fecha en que hubiera ocurrido cualquiera de tales hechos, consignando todos los datos que en la misma se requieran.
 
 ###### ARTICULO 72.
 
@@ -1739,6 +1749,10 @@ Será base de este impuesto, el total de los ingresos que perciba el sujeto de e
 
 Este impuesto se pagará anualmente dentro de los dos primeros meses del año siguiente a aquél en que se obtuvieron los ingresos, en las oficinas autorizadas por la Secretaría de Hacienda del Estado, aplicando la tasa del 0.5% sobre sus percepciones.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+Cuando el .5% sobre las percepciones sea inferior a 22 salarios mínimos vigentes en el estado, se pagará éste.
+
 Cuando sea el primer año de operación del contribuyente conforme a la fecha de su inicio de operaciones, se aplicará la siguiente:
 
 Primer cuatrimestre 22 S.M.G.
@@ -1969,11 +1983,11 @@ No se considerará servicio de hospedaje el albergue o alojamiento prestado por 
 
 Tratándose de servicios prestados bajo el régimen de tiempo compartido, se tomará como base del impuesto exclusivamente los ingresos percibidos por el albergue a través del pago de cuotas de mantenimiento ordinarias.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 168-D.
 
-El impuesto a que se refiere este capítulo se causará al momento en que se perciban las contraprestaciones por los servicios gravados, incluyendo depósitos, anticipos, intereses normales y moratorios, penas convencionales y cualquier otro concepto relativo a estos servicios.
+El impuesto a que se refiere este capítulo se causará al momento en que se perciban las contraprestaciones por los servicios gravados, incluyendo depósitos, anticipos, intereses normales y moratorios, y penas convencionales, relacionadas con los mismos.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE ENERO DE 1996)</small>
 
@@ -1989,11 +2003,11 @@ Están obligadas al pago del impuesto, las personas físicas y morales que en el
 
 #### SECCION TERCERA. DE LA TASA
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 168-F.
 
-El impuesto se calculará aplicando la tasa del 5% sobre el valor de facturación y/o contratación a los servicios a que se refiere el artículo 168-B y 168-C.
+El impuesto se calculará aplicando la tasa del 2% sobre el valor de facturación y/o contratación de los servicios a que se refieren los Artículos 168-A y 168-C.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2479,347 +2493,747 @@ De segunda hasta 2,100 S.M.G. 1,575 S.M.G.
 
 V.- Por cada cambio que se solicite para patentes en los municipios de Othón P. Blanco y Felipe Carrillo Puerto.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+Tratándose de cambios de propietarios entre familiares de línea recta, cambios de denominación o razón social entre sociedades o por fusión o escisión de las mismas, se aplicará el 10% de la tarifa establecida para estos efectos.
+
 a).- Venta de cervezas exclusivamente con los alimentos.
 
 Loncherías, Marisquerías y Taquerías:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA URBANA COMERCIAL ZONA RURAL
+ZONA URBANA COMERCIAL
 
-De lujo hasta 210 S.M.G. 158 S.M.G.
+Por cambio de Otros
 
-De primera hasta 158 S.M.G. 105 S.M.G.
+Propietario cambios
 
-De segunda hasta 105 S.M.G. 53 S.M.G.
+De lujo hasta 420 210 S.M.G.
+
+De primera hasta 316 152 S.M.G.
+
+De segunda hasta 210 105 S.M.G.
+
+ZONA RURAL
+
+Por cambio de Otros
+
+Propietario cambios
+
+De lujo hasta 316 158 S.M.G.
+
+De primera hasta 210 105 S.M.G.
+
+De segunda hasta 106 53 S.M.G.
 
 b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos.
 
 Restaurantes:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA URBANA COMERCIAL ZONA RURAL
+URBANA COMERCIAL
 
-De lujo hasta 263 S.M.G. 210 S.M.G.
+Por cambio de Otros
 
-De primera hasta 210 S.M.G. 158 S.M.G.
+Propietario cambios
 
-De segunda hasta 158 S.M.G. 105 S.M.G.
+De lujo hasta 526 263 S.M.G.
+
+De primera hasta 420 210 S.M.G.
+
+De segunda hasta 316 158 S.M.G.
+
+ZONA RURAL
+
+Por cambio de Otros
+
+Propietario cambios
+
+De lujo hasta 420 210 S.M.G.
+
+De primera hasta 316 158 S.M.G.
+
+De segunda hasta 210 105 S.M.G.
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
 Autoservicios, minisuper y licorerías:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA URBANA COMERCIAL ZONA RURAL
+ZONA URBANA COMERCIAL
 
-De lujo hasta 263 S.M.G. 210 S.M.G.
+Por cambio de Otros
 
-De primera hasta 210 S.M. G. 158 S.M.G.
+Propietario cambios
 
-De segunda hasta 158 S.M.G. 105 S.M.G.
+De lujo hasta 526 263 S.M.G.
+
+De primera hasta 420 210 S.M.G.
+
+De segunda hasta 316 158 S.M.G.
+
+ZONA RURAL
+
+Por cambio de Otros
+
+Propietario cambios
+
+De lujo hasta 420 210 S.M.G.
+
+De primera hasta 316 158 S.M.G.
+
+De segunda hasta 210 105 S.M.G.
 
 d).- Venta de cervezas en envase cerrado.
 
 Subagencia, depósitos y abarrotes:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA URBANA COMERCIAL ZONA RURAL
+URBANA COMERCIAL
 
-De lujo hasta 210 S.M.G. 158 S.M.G.
+Por cambio de Otros
 
-De primera hasta 158 S.M.G. 105 S.M.G.
+Propietario cambios
 
-De segunda hasta 105 S.M.G. 53 S.M.G.
+De lujo hasta 420 210 S.M.G.
+
+De primera hasta 316 158 S.M.G.
+
+De segunda hasta 210 105 S.M.G.
+
+ZONA RURAL
+
+Por cambio de Otros
+
+Propietario cambios
+
+De lujo hasta 316 158 S.M.G.
+
+De primera hasta 210 105 S.M.G.
+
+De segunda hasta 106 53 S.M.G.
 
 e).- Venta de cervezas, vinos y licores al copeo.
 
 Bares, discotecas, centros nocturnos y piano bar:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA URBANA COMERCIAL ZONA RURAL
+ZONA URBANA COMERCIAL
 
-De lujo hasta 525 S.M.G. 420 S.M.G.
+Por cambio de Otros
 
-De primera hasta 420 S.M.G. 315 S.M.G.
+Propietario cambios
 
-De segunda hasta 315 S.M.G. 263 S.M.G.
+De lujo hasta 1,050 525 S.M.G.
+
+De primera hasta 840 420 S.M.G.
+
+De segunda hasta 630 315 S.M. G.
+
+ZONA RURAL
+
+Por cambio de Otros
+
+propietario cambios
+
+De lujo hasta 840 420 S.M.G.
+
+De primera hasta 630 315 S.M.G.
+
+De segunda hasta 526 263 S.M.G.
 
 f).- Venta de cervezas en envase abierto.
 
 Cervecerías:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA URBANA COMERCIAL ZONA RURAL
+ZONA URBANA COMERCIAL
 
-De lujo hasta 368 S.M.G. 263 S.M.G.
+Por cambio de Otros
 
-De primera hasta 315 S.M.G. 210 S.M.G.
+propietario cambios
 
-De segunda hasta 263 S.M.G. 158 S.M.G.
+De lujo hasta 736 368 S.M.G.
+
+De primera hasta 630 315 S.M.G.
+
+De segunda hasta 526 263 S.M.G.
+
+ZONA RURAL
+
+Por cambio de Otros
+
+propietario cambios
+
+De lujo hasta 526 263 S.M.G.
+
+De primera hasta 420 210 S.M.G.
+
+De segunda hasta 316 158 S.M.G.
 
 VI.- Por cada cambio de patentes en los municipios de José María Morelos y Lázaro Cárdenas por la:
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+Tratándose de cambios de propietarios entre familiares de línea recta, cambios de denominación o razón social entre sociedades o por fusión o escisión de las mismas, se aplicará el 10% de la tarifa establecida para estos efectos.
 
 a).- Venta de cervezas exclusivamente con alimentos.
 
 Loncherías, Marisquerías y Taquerías:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA URBANA COMERCIAL ZONA RURAL
+URBANA COMERCIAL
 
-De lujo hasta 210 S.M.G. 158 S.M.G.
+Por cambio de Otros
 
-De primera hasta 158 S.M.G. 105 S.M.G.
+propietario cambios
 
-De segunda hasta 105 S.M.G. 53 S.M.G.
+De lujo hasta 420 210 S.M.G.
+
+De primera hasta 316 158 S.M.G.
+
+De segunda hasta 210 105 S.M.G.
+
+ZONA RURAL
+
+Por cambio de Otros
+
+propietario cambios
+
+De lujo hasta 316 158 S.M.G.
+
+De primera hasta 210 105 S.M.G.
+
+De segunda hasta 106 53 S.M.G.
 
 b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos.
 
 Restaurantes:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA URBANA COMERCIAL ZONA RURAL
+ZONA URBANA COMERCIAL
 
-De lujo hasta 315 S.M.G. 237 S.M.G.
+Por cambio de Otros
 
-De primera hasta 263 S.M.G. 210 S.M.G.
+Propietario cambios
 
-De segunda hasta 210 S.M.G. 158 S.M.G.
+De lujo hasta 630 315 S.M.G.
+
+De primera hasta 526 263 S.M.G.
+
+De segunda hasta 420 210 S.M.G.
+
+ZONA RURAL
+
+Por cambio de Otros
+
+Propietario cambios
+
+De lujo hasta 474 237 S.M.G.
+
+De primera hasta 420 210 S.M.G.
+
+De segunda hasta 316 158 S.M.G.
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
 Autoservicios, minisuper y licorerías:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA URBANA COMERCIAL ZONA RURAL
+ZONA URBANA COMERCIAL
 
-De lujo hasta 263 S.M.G. 237 S.M.G.
+Por cambio de Otros
 
-De primera hasta 210 S.M.G. 210 S.M.G.
+Propietario cambios
 
-De segunda hasta 158 S.M.G. 158 S.M.G.
+De lujo hasta 526 263 S.M.G.
+
+De primera hasta 420 210 S.M.G.
+
+De segunda hasta 316 158 S.M.G.
+
+ZONA RURAL
+
+Por cambio de Otros
+
+propietario cambios
+
+De lujo hasta 474 237 S.M.G.
+
+De primera hasta 420 210 S.M.G.
+
+De segunda hasta 316 158 S.M.G.
 
 d).- Venta de cervezas en envase cerrado.
 
 Subagencia, depósitos y abarrotes:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA URBANA COMERCIAL ZONA RURAL
+URBANA COMERCIAL
 
-De lujo hasta 210 S.M.G. 158 S.M.G.
+Por cambio de Otros
 
-De primera hasta 184 S.M.G. 105 S.M.G.
+Propietario cambios
 
-De segunda hasta 158 S.M.G. 53 S.M.G.
+De lujo hasta 420 210 S.M.G.
+
+De primera hasta 368 184 S.M.G.
+
+De segunda hasta 316 158 S.M.G.
+
+ZONA RURAL
+
+Por cambio de Otros
+
+Propietario cambios
+
+De lujo hasta 316 158 S.M.G.
+
+De primera hasta 210 105 S.M.G.
+
+De segunda hasta 316 53 S.M.G.
 
 e).- Venta de cervezas, vinos y licores al copeo.
 
 Bares, discotecas, centros nocturnos y piano bar:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA URBANA COMERCIAL ZONA RURAL
+ZONA URBANA COMERCIAL
 
-De lujo hasta 368 S.M.G. 342 S.M.G.
+Por cambio de Otros
 
-De primera hasta 342 S.M.G. 289 S.M,G.
+Propietario cambios
 
-De segunda hasta 315 S.M.G. 263 S.M.G.
+De lujo hasta 736 368 S.M.G.
+
+De primera hasta 684 342 S.M.G.
+
+De segunda hasta 630 315 S.M.G.
+
+ZONA RURAL
+
+Por cambio de Otros
+
+Propietario cambios
+
+De lujo hasta 684 342 S.M.G.
+
+De primera hasta 578 289 S.M.G.
+
+De segunda hasta 526 263 S.M.G.
 
 f).- Venta de cervezas en envase abierto.
 
 Cervecerías:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA URBANA COMERCIAL ZONA RURAL
+ZONA URBANA COMERCIAL
 
-De lujo hasta 315 S.M.G. 210 S.M.G.
+Por cambio de Otros
 
-De primera hasta 289 S.M.G. 158 S.M.G.
+propietario cambios
 
-De segunda hasta 263 S.M.G. 105 S.M.G.
+De lujo hasta 630 315 S.M.G.
+
+De primera hasta 578 289 S.M.G.
+
+De segunda hasta 526 263 S.M.G.
+
+ZONA RURAL
+
+Por cambio de Otros
+
+Propietario cambios
+
+De lujo hasta 420 210 S.M.G.
+
+De primera hasta 316 158 S.M.G.
+
+De segunda hasta 210 105 S.M.G.
 
 VII.- Por cada cambio de patentes en el municipio de Isla Mujeres por la:
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+Tratándose de cambios de propietarios entre familiares de línea recta, cambios de denominación o razón social entre sociedades o por fusión o escisión de las mismas, se aplicará el 10% de la tarifa establecida para estos efectos.
+
 a).- Venta de cervezas exclusivamente con los alimentos.
 
 Loncherías, Marisquerías y Taquerías:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA TURISTICA ZONA URBANA
+URBANA COMERCIAL
 
-De lujo hasta 315 S.M.G. 210 S.M.G.
+Por cambio de Otros
 
-De primera hasta 263 S.M.G. 158 S.M.G.
+Propietario cambios
 
-De segunda hasta 210 S.M.G 105 S.M.G.
+De lujo hasta 630 315 S.M.G.
+
+De primera hasta 526 263 S.M.G.
+
+De segunda hasta 420 210 S.M.G.
+
+ZONA RURAL
+
+Por cambio de Otros
+
+Propietario cambios
+
+De lujo hasta 420 210 S.M.G.
+
+De primera hasta 316 158 S.M.G.
+
+De segunda hasta 210 105 S.M.G.
 
 b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos.
 
 Restaurantes:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA COMERCIAL ZONA URBANA
+ZONA URBANA COMERCIAL
 
-De lujo hasta 525 S.M.G. 420 S.M.G.
+Por cambio de Otros
 
-De primera hasta 473 S.M.G. 368 S.M.G.
+propietario cambios
 
-De segunda hasta 420 S.M.G. 315 S.M.G.
+De lujo hasta 1,250 625 S.M.G.
+
+De primera hasta 946 473 S.M.G.
+
+De segunda hasta 840 420 S.M.G.
+
+ZONA RURAL
+
+Por cambio de Otros
+
+Propietario cambios
+
+De lujo hasta 840 420 S.M.G.
+
+De primera hasta 736 368 S.M.G.
+
+De segunda hasta 630 315 S.M.G.
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
 Autoservicios, minisuper y licorerías:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA COMERCIAL ZONA URBANA
+ZONA URBANA COMERCIAL
 
-De lujo hasta 420 S.M.G. 315 S.M.G.
+Por cambio de Otros
 
-De primera hasta 368 S.M.G. 263 S.M.G.
+Propietario cambios
 
-De segunda hasta 315 S.M.G. 210 S.M.G.
+De lujo hasta 840 420 S.M.G.
+
+De primera hasta 736 368 S.M.G.
+
+De segunda hasta 630 315 S.M.G.
+
+ZONA RURAL
+
+Por cambio de Otros
+
+propietario cambios
+
+De lujo hasta 630 315 S.M.G.
+
+De primera hasta 526 263 S.M.G.
+
+De segunda hasta 420 210 S.M.G.
 
 d).- Venta de cervezas en envase cerrado.
 
 Subagencia, depósitos y abarrotes:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA COMERCIAL ZONA URBANA
+URBANA COMERCIAL
 
-De lujo hasta 342 S.M.G 263 S.M.G.
+Por cambio de Otros
 
-De primera hasta 315 S.M.G. 210 S.M.G.
+Propietario cambios
 
-De segunda hasta 263 S.M.G. 158 S.M.G.
+De lujo hasta 684 342 S.M.G.
+
+De primera hasta 630 315 S.M.G.
+
+De segunda hasta 526 263 S.M.G.
+
+ZONA RURAL
+
+Por cambio de Otros
+
+Propietario cambios
+
+De lujo hasta 526 263 S.M.G.
+
+De primera hasta 420 210 S.M.G.
+
+De segunda hasta 316 158 S.M.G.
 
 e).- Venta de cervezas, vinos y licores al copeo.
 
 Bares, discotecas, centros nocturnos y piano bar:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA COMERCIAL ZONA URBANA
+ZONA COMERCIAL
 
-De lujo hasta 1,050 S.M.G. 840 S.M.G.
+Por cambio de Otros
 
-De primera hasta 945 S.M.G. 735 S.M.G.
+Propietario cambios
 
-De segunda hasta 788 S.M.G. 525 S.M.G.
+De lujo hasta 2,100 1,050 S.M.G.
+
+De primera hasta 1,890 945 S.M.G.
+
+De segunda hasta 1,576 788 S.M.G.
+
+ZONA URBANA
+
+Por cambio de Otros
+
+Propietario cambios
+
+De lujo hasta 1,680 840 S.M.G.
+
+De primera hasta 1,470 735 S.M.G.
+
+De segunda hasta 1,050 525 S.M.G.
 
 f).- Venta de cervezas en envase abierto.
 
 Cervecerías:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA COMERCIAL ZONA URBANA
+ZONA COMERCIAL
 
-De lujo hasta 420 S.M.G. 342 S.M.G.
+Por cambio de Otros
 
-De primera hasta 315 S.M.G. 315 S.M.G.
+Propietario cambios
 
-De segunda hasta 289 S.M.G. 263 S.M.G.
+De lujo hasta 840 420 S.M.G.
+
+De primera hasta 630 315 S.M.G.
+
+De segunda hasta 578 289 S.M.G.
+
+ZONA URBANA
+
+Por cambio de Otros
+
+Propietario cambios
+
+De lujo hasta 684 342 S.M.G.
+
+De primera hasta 630 315 S.M.G.
+
+De segunda hasta 526 263 S.M.G.
 
 VIII.- Por los cambios de patentes en los municipios de Benito Juárez, Cozumel y Solidaridad por la:
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+Tratándose de cambios de propietarios entre familiares de línea recta, cambios de denominación o razón social entre sociedades o por fusión o escisión de las mismas, se aplicará el 10% de la tarifa establecida para estos efectos.
+
 a).- Venta de cervezas exclusivamente con los alimentos.
 
 Loncherías, Marisquerías y Taquerías:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA TURISTICA ZONA COMERCIAL
+ZONA TURISTICA
 
-De lujo hasta 473 S.M.G. 368 S.M.G.
+Por cambio de Otros
 
-De primera hasta 420 S.M.G. 315 S.M.G.
+Propietario cambios
 
-De segunda hasta 368 S.M.G. 263 S.M.G.
+De lujo hasta 946 473 S.M.G.
+
+De primera hasta 840 420 S.M.G.
+
+De segunda hasta 736 368 S.M.G.
+
+ZONA COMERCIAL
+
+Por cambio de Otros
+
+propietario cambios
+
+De lujo hasta 736 368 S.M.G.
+
+De primera hasta 630 315 S.M.G.
+
+De segunda hasta 526 263 S.M.G.
 
 b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos.
 
 Restaurantes:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA TURISTICA ZONA COMERCIAL
+ZONA TURISTICA
 
-De lujo hasta 735 S.M.G. 578 S.M.G.
+Por cambio de Otros
 
-De primera hasta 683 S.M.G. 525 S.M.G.
+Propietario cambios
 
-De segunda hasta 630 S.M.G. 473 S.M.G.
+De lujo hasta 1,470 735 S.M.G.
+
+De primera hasta 1,366 683 S.M.G.
+
+De segunda hasta 1,260 630 S.M.G.
+
+ZONA COMERCIAL
+
+Por cambio de Otros
+
+Propietario cambios
+
+De lujo hasta 1,156 578 S.M.G.
+
+De primera hasta 1,050 525 S.M.G.
+
+De segunda hasta 946 473 S.M.G.
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
 Autoservicios, minisuper y licorerías:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA TURISTICA ZONA COMERCIAL
+ZONA COMERCIAL
 
-De lujo hasta 630 S.M.G. 525 S.M.G.
+Por cambio de Otros
 
-De primera hasta 578 S.M.G. 473 S.M.G.
+Propietario cambios
 
-De segunda hasta 525 S.M.G. 420 S.M.G.
+De lujo hasta 1,260 630 S.M.G.
+
+De primera hasta 1,156 578 S.M.G.
+
+De segunda hasta 1,050 525 S.M.G.
+
+ZONA URBANA
+
+Por cambio de Otros
+
+Propietario cambios
+
+De lujo hasta 1,050 525 S.M.G.
+
+De primera hasta 946 473 S.M.G.
+
+De segunda hasta 840 420 S.M.G.
 
 d).- Venta de cervezas en envase cerrado.
 
 Subagencia, depósitos y abarrotes:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA TURISTICA ZONA COMERCIAL
+ZONA TURISTICA
 
-De lujo hasta 525 S.M.G. 420 S.M.G.
+Por cambio de Otros
 
-De primera hasta 473 S.M.G. 368 S.M.G.
+Propietario cambios
 
-De segunda hasta 420 S.M.G. 315 S.M.G
+De lujo hasta 1,050 525 S.M.G.
+
+De primera hasta 946 473 S.M.G.
+
+De segunda hasta 840 420 S.M.G.
+
+ZONA COMERCIAL
+
+Por cambio de Otros
+
+Propietario cambios
+
+De lujo hasta 840 420 S.M.G.
+
+De primera hasta 736 368 S.M.G.
+
+De segunda hasta 630 315 S.M.G.
 
 e).- Venta de cervezas, vinos y licores al copeo.
 
 Bares, discotecas, centros nocturnos y piano bar:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA TURISTICA ZONA COMERCIAL
+ZONA TURISTICA
 
-De lujo hasta 1,418 S.M.G. 1,208 S.M.G.
+Por cambio de Otros
 
-De primera hasta 1,313 S.M.G. 1,103 S.M.G.
+Propietario cambios
 
-De segunda hasta 1,208 S.M.G. 1,050 S.M.G.
+De lujo hasta 2,836 1,418 S.M.G.
+
+De primera hasta 2,626 1.313 S.M.G.
+
+De segunda hasta 2,416 1,208 S.M.G.
+
+ZONA COMERCIAL
+
+Por cambio de Otros
+
+propietario cambios
+
+De lujo hasta 2,416 1,208 S.M.G.
+
+De primera hasta 2,206 1.103 S.M.G.
+
+De segunda hasta 2,100 1,050 S.M.G.
 
 f).- Venta de cervezas en envase abierto.
 
 Cervecerías:
 
-> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA TARIFA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-ZONA TURISTICA ZONA COMERCIAL
+ZONA COMERCIAL
 
-De lujo hasta 735 S.M.G. 630 S.M.G.
+Por cambio de Otros
 
-De primera hasta 683 S.M.G. 578 S.M.G.
+propietario cambios
 
-De segunda hasta 630 S.M.G. 525 S.M.G.
+De lujo hasta 1,470 735 S.M.G.
+
+De primera hasta 1,366 683 S.M.G.
+
+De segunda hasta 1,260 630 S.M.G.
+
+ZONA URBANA
+
+Por cambio de Otros
+
+propietario cambios
+
+De lujo hasta 1,260 630 S.M.G.
+
+De primera hasta 1,156 578 S.M.G.
+
+De segunda hasta 1,050 525 S.M.G.
 
 ### CAPITULO VI. DEL REGISTRO Y CONTROL DE VEHICULOS
 
@@ -3431,11 +3845,11 @@ Los contribuyentes que no se hayan inscrito en el Padrón Estatal de contribuyen
 
 Simultánea o sucesivamente al requerimiento, la autoridad impondrá las sanciones que correspondan en los términos que para el efecto señala el Código Fiscal del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 175.
 
-Las licencias a que se refiere este capítulo, deberán tenerse en lugar visible en el domicilio para el cual fueron expedidas y, tienen vigencia durante el ejercicio fiscal en que se expidan, debiendo renovarse dentro de los dos primeros meses del ejercicio fiscal siguiente a su expedición; para lo cual presentarán la solicitud en las formas que al efecto apruebe la Secretaría de Hacienda del Estado, a la que acompañarán los siguientes documentos:
+Las licencias a que se refiere este capítulo, deberán tenerse en lugar visible en el establecimiento para el cual fueron expedidas y tienen vigencia durante el ejercicio fiscal en que se expidan, debiendo renovarse dentro de los dos primeros meses del ejercicio fiscal siguiente a su expedición, para lo cual presentarán la solicitud en las formas que al efecto apruebe la Secretaría de Hacienda del Estado, a la que acompañarán los siguientes documentos.
 
 I.- Licencia de funcionamiento del año inmediato anterior.
 
@@ -3733,7 +4147,7 @@ a) Servicio público de pasajeros en general:
 
 2.- Minibuses hasta 25 asientos, hasta 2,889 S.M.G.
 
-3.- Automóviles de alquiler tipo taxis (hasta 5 pasajeros ), hasta 8,977 S.M.G.
+3.- Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 8,977 S.M.G.
 
 4.- Otros vehículos, hasta 3,334 S.M.G.
 
@@ -3749,7 +4163,7 @@ c) Servicio público de renta de toda clase de vehículos:
 
 1.- Arrendadoras de automóviles hasta con 50 unidades, hasta 1,112 S.M.G.
 
-2.- Arrendadoras de automóviles de 51 unidades en adelante, hasta1,112 S.M.G. y por cada vehículo excedente de 50, hasta 67 S.M.G.
+2.- Arrendadoras de automóviles de 51 unidades en adelante, hasta 1,112 S.M.G. y por cada vehículo excedente de 50, hasta 67 S.M.G.
 
 3.- Motocicletas, hasta 534 S.M.G.
 
@@ -3825,7 +4239,7 @@ a) Servicio público de pasajeros en general:
 
 2.- Minibuses hasta 25 asientos, hasta 1,334 S.M.G.
 
-3.- Automóviles de alquiler tipo taxis (hasta 5 pasajeros ), hasta 2,223 S.M.G.
+3.- Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 2,223 S.M.G.
 
 4.- Otros vehículos, hasta 1,556 S.M.G.
 
@@ -4221,6 +4635,14 @@ j).- Por la expedición de actos registrados, certificados: 1.0 S.M.G.
 
 IV.- Otras legalizaciones o certificaciones 1.73 S.M.G.
 
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+V.- Copias certificadas derivadas de Convenios transaccionales, exhortos y autorizaciones para escrituraciones, 9 s.m.g.
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+VI.- Por expedición de copias certificadas a cargo del Poder Judicial, 1 s.m.g.
+
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO XVI. DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
@@ -4475,7 +4897,7 @@ El pago de estos derechos deberá hacerse previamente a la prestación del servi
 
 ###### ARTICULO 201.
 
-los servicios que se presten en el Registro Público de la Propiedad, causarán derechos conforme a la siguiente:
+Los servicios que se presten en el Registro Público de la Propiedad, causarán derechos conforme a la siguiente:
 
 TARIFA
 
@@ -4483,13 +4905,13 @@ I.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 II.- Por inscripción o registro de títulos, ya se trate de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier clase, por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, sobre el valor:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-a).- Hasta $ 10,000.00 9.20 S.M.G.
+a).- Si el monto es hasta 907 S.M.G. se aplicará 9.20 S.M.G.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-b).- Mas de $ 10,000.00 1.15% resultante
+b).- Si el valor es más de 907 S.M.G. se aplicará el 1.15 % resultante.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -4508,6 +4930,10 @@ Las adjudicaciones a título de disolución de copropiedad de bienes muebles e i
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
 Para efectos de esta fracción se consideran transmisión de bienes todos los supuestos considerados en el artículo 15-A del Código Fiscal del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+Cuando se trate de la constitución y/o ejecución de fideicomisos traslativos de dominio 0.575% sobre el valor señalado en el artículo 202, Fracción l, Inciso b), con excepción de los casos de enajenación señalados en la Fracción XI del artículo 15 del Código Fiscal del Estado.
 
 III.- Por inscripción de la escritura constitutiva del régimen de la propiedad en condominio se aplicará lo dispuesto en la fracción anterior, tomando en cuenta el valor total del inmueble.
 
@@ -4835,9 +5261,9 @@ XIII.- Inscripción de revocación de poderes por cada apoderado 2.88 S.M.G.
 
 XIV.- Inscripción relativa a habilitación de edad, licencia y emancipación para ejercer el comercio, licencia marital o el requisito que en su defecto necesita la mujer para los mismos fines, la revocación de las mismas y las escrituras a que se refieren las fracciones X y Xl del artículo 21 de Código de Comercio................ 1.73 S.M.G.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-XV.- Inscripción de contratos mercantiles de cualquier clase, enumerados en el artículo 75 del Código de Comercio............. 6.90 S.M.G.
+XV.- Inscripción de contratos mercantiles de cualquier clase, enumerados en el Artículo 71 del Código de Comercio no previstos en este capítulo, 6.90 S.M.G.
 
 XVI.- Inscripción de contratos de corresponsalía de Instituciones de Crédito
 
@@ -5530,3 +5956,9 @@ Este decreto entrará en vigor a partir del día 1º de Enero de 1997, previa pu
 ###### ARTICULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones anteriormente establecidas en esta Ley, que contravengan a las presentes reformas.
+
+P.O. 15 DE DICIEMBRE DE 1997.
+
+PRIMERO: El presente decreto entrará en vigor a partir de la fecha en que se publique en el Periódico Oficial del Estado.
+
+SEGUNDO: Se derogan las disposiciones dictadas con anterioridad que se opongan al presente decreto.
