@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1954-09-11"
+last_updated: "1955-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE SEPTIEMBRE DE 1954.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ENERO DE 1955.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -643,11 +643,11 @@ En las faltas absolutas, y en las temporales del Gobernador, el Congreso, o la C
 
 Cuando la falta sea temporal y no exceda de sesenta días, el Secretario General de Gobierno se encargará del Despacho del Poder Ejecutivo.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 22 DE ENERO DE 1955)</small>
 
 ###### Artículo 52.
 
-Si la falta del Gobernador fuere absoluta y faltaren dos años o más para terminar el período constitucional, el Congreso convocará inmediatamente para la elección del Gobernador, la que se verificará dentro de dos meses, y el nuevamente electo ejercerá sus funciones hasta terminar el período constitucional. Si faltaren menos de dos años, el nombrado con el carácter de interino, continuará hasta concluir el cuatrienio.
+Si la falta del Gobernador fuere absoluta y faltaren tres años o más para terminar el período constitucional, el Congreso convocará inmediatamente para la elección del Gobernador, la que se verificará dentro de dos meses y el nuevamente electo, ejercerá sus funciones hasta terminar el período constitucional. Si faltaren menos de tres años, el nombrado con el carácter de interino continuará hasta concluir el sexenio.
 
 > <small>(REFORMADO, D.O. 6 DE OCTUBRE DE 1943)</small>
 
@@ -1348,6 +1348,10 @@ Esta Ley comenzará a regir al día siguiente de su publicación en el Diario Of
 D.O. 11 DE SEPTIEMBRE DE 1954.
 
 Esta Ley comenzará a regir el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 22 DE ENERO DE 1955.
+
+Esta Ley comenzará a regir el día siguiente al de su publicación en el "Diario Oficial" del Estado.
 
 ###### ARTICULO UNICO.
 
