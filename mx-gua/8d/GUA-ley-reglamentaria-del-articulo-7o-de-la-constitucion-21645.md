@@ -4,7 +4,7 @@ identifier: "GUA-ley-reglamentaria-del-articulo-7o-de-la-constitucion-21645"
 country: "mx"
 rank: "ley"
 publication_date: "1959-08-16"
-last_updated: "1960-02-18"
+last_updated: "1960-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY REGLAMENTARIA DEL ARTICULO 4o. DE LA CONSTITUCION POLITICA DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 1960.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1960.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato el 16 de agosto de 1959.
 
@@ -265,7 +265,9 @@ Los títulos profesionales que con anterioridad a esta Ley hubieren sido expedid
 
 Las personas que sin título profesional hayan venido ejerciendo actividades propias de las profesiones señaladas en el artículo 3o., de esta Ley, cuando menos durante 10 años no interrumpidos, anteriores a su expedición, podrán seguir ejerciendo sus actividades habituales, si gozan de buena fama y han observado buena conducta, siempre que se sometan a los siguientes requisitos:
 
-I.- Que lo soliciten ante la Dirección de Profesiones dentro de un término no mayor de ciento ochenta días, contados a partir del día en que entre en vigor la presente Ley.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1960)</small>
+
+I.- Que lo soliciten ante la Dirección de Profesiones dentro de un término no mayor de 180 días, contados a partir del día en que entre en vigor el presente decreto.
 
 II.- Someterse a una prueba o examen, en que demuestren tener los conocimientos científicos mínimos que se requieran para el ejercicio de sus actividades profesionales. El examen en cuestión será practicado por la Universidad de Guanajuato, observando en lo conducente lo establecido por su Ley Orgánica.
 
@@ -295,9 +297,21 @@ A la persona que contravenga esta disposición se le cancelará el registro de s
 
 En tanto no se establezca la Dirección de Profesiones, la Secretaría General de Gobierno tendrá las facultades que la presente Ley concede a la mencionada Dirección.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1960)</small>
+
 ###### ARTICULO SEPTIMO.
 
-Los prácticos, podrán seguir ejerciendo sus actividades, hasta que la Universidad les conceda el examen correspondiente, que deberán solicitar en los términos de esta Ley, dentro de los 180 días siguientes a su vigencia.
+Los prácticos, podrán seguir ejerciendo sus actividades, hasta que la Universidad les verifique el examen correspondiente, que deberán solicitar en los términos de este Decreto, dentro de los 180 días siguientes a su vigencia.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 1960)</small>
+
+###### ARTICULO OCTAVO.
+
+Los prácticos que continuaren ejerciendo sus actividades habituales, sin haber satisfecho las exigencias especificadas en el artículo 4o. transitorio de esta Ley, serán sancionados por la Dirección de Profesiones con multa de $50.00 a $1,000.00; pero si el infractor no pagare la multa impuesta, se le permutará por el correspondiente arresto, que en ningún caso excederá de quince días.
+
+Los casos de reincidencia se sancionarán con prisión de un mes a cinco años y multa de diez a diez mil pesos.
+
+Hay reincidencia siempre que el práctico infraccionario insistiere en ejercer actividades propias de una profesión para la cual se requiere título, sin llenar previamente, los requisitos que señala el artículo 4o. transitorio de este Decreto.
 
 Lo tendrá entendido el Ciudadano Gobernador Constitucional del Estado y dispondrá que se imprima, publique, circule y se le dé el debido cumplimiento. Guanajuato, Gto., 29 de julio de 1959.- Lic. José Campos Ortiz. D.P.- Joaquín Malagón Villagómez D.S.- Octaviano Castañeda. D.S."- Rúbricas.
 
@@ -316,3 +330,9 @@ LIC. FELIPE RIOS CORTES.
 P.O. 18 DE FEBRERO DE 1960.
 
 Unico.- Este decreto surtirá efectos a partir de la fecha de publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 1960.
+
+Artículo Primero.- No se harán efectivas las sanciones que señala el artículo 8o. de la presente Ley, mientras esté corriendo el plazo de prórroga a que se refieren los artículos reformados.
+
+Artículo Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
