@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1989-01-04"
+last_updated: "1992-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JULIO DE 1992.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -182,7 +182,9 @@ III. La fecha en que deba comenzar ó haya comenzado sus operaciones;
 
 IV. El domicilio con especificación de las sucursales que hubiere establecido, sin perjuicio de inscribir las sucursales en el Registro del Partido judicial en que estén domiciliadas;
 
-V. Las escrituras de constitución de sociedad mercantil, cualesquiera que sean su objeto ó denominación, así como las de modificación, rescisión ó disolución de las mismas sociedades;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 2 DE JULIO DE 1992)</small>
+
+V. Las escrituras de constitución de sociedad mercantil, cualesquiera que sean su objeto o denominación, así como las de modificación, rescisión, disolución o escisión de las mismas sociedades;
 
 VI. El acta de la primera junta general y documentos anexos á ella, en las sociedades anónimas que se constituyan por suscripción pública;
 
@@ -302,6 +304,8 @@ En el libro mayor se deberán anotar, como mínimo y por lo menos una vez al mes
 
 En el libro o los libros de actas se harán constar todos los acuerdos relativos a la marcha del negocio que tomen las asambleas o juntas de socios, y en su caso, los consejos de administración.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. DE 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
 
 ###### Art. 37.
@@ -344,7 +348,7 @@ Tampoco podrá decretarse, a instancia de parte, la comunicación, entrega o rec
 
 Fuera de los casos prefijados en el artículo anterior, sólo podrá decretarse la exhibición de los libros registros y documentos de los comerciantes, a instancia de parte o de oficio, cuando la persona a quien pertenezcan tenga interés o responsabilidad en el asunto en que proceda la exhibición.
 
-El reconocimiento se hará en el lugar en que habitualmente se guarden o conserven los libros, registros o documentos, o en el que de común acuerdo fijen las partes, en presencia del comerciante o de la persona que comisione y se contraerá exclusivamente a los puntos que tengan relación directa con la acción deducida comprendiendo en ellos aún los que sean extraños a la cuenta especial del que ha solicitado el reconocimiento.
+El reconocimiento se hará en el lugar en que habitualmente se guarden o conserven los libros registros o documentos, o en el que de común acuerdo fijen las partes, en presencia del comerciante o de la persona que comisione y se contraerá exclusivamente a los puntos que tengan relación directa con la acción deducida comprendiendo en ellos aún los que sean extraños a la cuenta especial del que ha solicitado el reconocimiento.
 
 ###### Art. 45.
 
@@ -7245,3 +7249,7 @@ SEGUNDO. Los procedimientos que se encuentren en trámite al momento de entrar e
 TERCERO. Las cláusulas de sumisión expresa o de elección de foro, contenidas en convenios mercantiles celebrados con anterioridad a la fecha en que entre en vigor este Decreto, serán aplicables en los términos en que hubiesen sido pactados.
 
 CUARTO. Se derogan todas las disposiciones legales que se opongan a lo dispuesto por el presente Decreto.
+
+D.O.F. 2 DE JULIO DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
