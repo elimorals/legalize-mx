@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-presupuesto-de-egresos-contabilidad-y-gasto-publico-1194
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-14"
-last_updated: "1996-12-14"
+last_updated: "1999-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1999.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 14 de diciembre de 1996.
 
@@ -423,7 +423,9 @@ El ejercicio del gasto público por concepto de servicios personales comprender�
 
 I.- El establecimiento de compromisos a través de la expedición y autorización de constancias de nombramiento y asignación de remuneraciones, contratos con pago por honorarios, contratos colectivos o individuales y los documentos que tengan ese carácter; y
 
-II.- Los pagos de remuneraciones ordinarias, extraordinarias y de seguridad social.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+II.- Los pagos de remuneraciones ordinarias, extraordinarias y de seguridad social. En ningún caso podrán destinarse fondos para el pago de bonos o compensaciones especiales a funcionarios y empleados de confianza, por retiro voluntario o por terminación del período para el cual fueron electos quienes detentan algún cargo de elección popular.
 
 ###### ARTICULO 55.
 
@@ -852,3 +854,11 @@ C.P. FRANCISCO JAVIER BARRIO TERRAZAS.
 EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE JUNIO DE 1999.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
