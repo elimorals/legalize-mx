@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-31-2001-del-pleno-del-consejo-de-la-62774"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-06-13"
-last_updated: "2001-06-13"
+last_updated: "2001-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62774&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-06-06"
 
 ACUERDO GENERAL 31/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA DE MANERA TEMPORAL LA COMPETENCIA DE LOS TRIBUNALES COLEGIADOS EN MATERIA DE TRABAJO DEL CUARTO CIRCUITO Y LAS REGLAS DE RECEPCION Y TURNO DE NUEVOS ASUNTOS DE LOS TRIBUNALES COLEGIADOS EN MATERIAS PENAL Y DE TRABAJO DEL MISMO CIRCUITO, CON RESIDENCIA EN MONTERREY, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE NOVIEMBRE DE 2001.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 13 de junio de 2001.
 
@@ -51,6 +51,8 @@ ACUERDO
 
 PRIMERO.- Se modifica temporalmente la competencia del Primer, Segundo y Tercer Tribunales Colegiados en Materia de Trabajo del Cuarto Circuito, conservando dichos órganos jurisdiccionales la denominación y jurisdicción territorial que tienen asignadas.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/14/2001, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 8 DE NOVIEMBRE DE 2001, SE EXTIENDE EL LAPSO EN EL QUE SE MODIFICA TEMPORALMENTE LA COMPETENCIA DE LOS TRIBUNALES COLEGIADOS EN MATERIA DE TRABAJO DEL CUARTO CIRCUITO Y LAS REGLAS DE RECEPCION Y TURNO DE NUEVOS ASUNTOS DE LOS TRIBUNALES COLEGIADOS EN MATERIAS PENAL Y DE TRABAJO DEL MISMO CIRCUITO, CON RESIDENCIA EN MONTERREY, NUEVO LEON, DEL 16 DE NOVIEMBRE DE 2001 AL 28 DE FEBRERO DE 2002.</small>
+
 SEGUNDO.- Los tres Tribunales Colegiados en Materia de Trabajo del Cuarto Circuito, mencionados en el punto primero de este Acuerdo conocerán, además de la competencia que tienen asignada dentro de su jurisdicción territorial, de los asuntos a que se refieren las fracciones I, inciso a), II, III, IV, V, VI, VII, VIII y IX del artículo 37 de la Ley Orgánica del Poder Judicial de la Federación, en la materia penal, dentro del período comprendido del catorce de junio al quince de noviembre de dos mil uno; en consecuencia, todos los asuntos de la referida materia que en dicho período se turnen a los Tribunales Colegiados en Materia de Trabajo, aun cuando no se hayan radicado, permanecerán en ellos hasta su conclusión.
 
 TERCERO.- Dentro de la temporalidad señalada en el punto de Acuerdo precedente, la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia de Trabajo del Cuarto Circuito, lo será también del Tribunal Colegiado en Materia Penal del mismo Circuito.
@@ -74,3 +76,11 @@ PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en un diario de circulación nacional y otro de circulación en el Estado de Nuevo León.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 31/2001, del Pleno del Consejo de la Judicatura Federal, Que Modifica de Manera Temporal la Competencia de los Tribunales Colegiados en Materia de Trabajo del Cuarto Circuito y las Reglas de Recepción y Turno de Nuevos Asuntos de los Tribunales Colegiados en Materias Penal y de Trabajo del Mismo Circuito, con Residencia en Monterrey, Nuevo León, fue aprobado por el propio Pleno, en sesión de seis de junio de dos mil uno, por unanimidad de votos de los señores Consejeros: Presidente Ministro, Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Jaime Manuel Marroquín Zaleta, Manuel Barquín Alvarez, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a seis de junio de dos mil uno.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 8 DE NOVIEMBRE DE 2001.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
