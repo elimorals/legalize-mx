@@ -4,7 +4,7 @@ identifier: "LFAFE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-01-11"
-last_updated: "1972-01-11"
+last_updated: "1974-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=427&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFAFE"
 
 LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 11 de enero de 1972.
 
@@ -58,17 +58,21 @@ III.- La Secretaría de la Defensa Nacional, y
 
 IV.- A las demás autoridades federales en los casos de su competencia.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 3.
 
-Las autoridades de los Estados, del Distrito y Territorios Federales y Municipios, en sus correspondientes ámbitos de competencia, tendrán la intervención que esta Ley y sus Reglamentos les señalan.
+Las autoridades de los Estados, Municipios y del Distrito Federal en sus correspondientes ámbitos de competencia, tendrán la intervención que esta Ley y sus Reglamentos les señalan.
 
 ###### ARTICULO 4.
 
 Corresponde al Ejecutivo de la Unión por conducto de las Secretarías de Gobernación y de la Defensa Nacional, dentro de las respectivas atribuciones que esta Ley y su Reglamento les señalen, el control de todas las armas en el país, para cuyo efecto se llevará un Registro Federal de Armas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 5.
 
-El Ejecutivo Federal, los Gobiernos de los Estados, del Distrito y Territorios Federales y los Ayuntamientos, realizarán campañas educativas permanentes que induzcan a reducir la posesión, la portación y el uso de armas de cualquier tipo.
+El Ejecutivo Federal, los Gobiernos de los Estados, del Distrito Federal y los Ayuntamientos, realizarán campañas educativas permanentes que induzcan a reducir la posesión, la portación y el uso de armas de cualquier tipo.
 
 Por razones de interés público, sólo se autorizará la publicidad de las armas deportivas para fines cinegéticos y de tiro, en los términos del Reglamento de esta Ley.
 
@@ -152,11 +156,15 @@ l).- Artificios de guerra, gases y substancias químicas de aplicación exclusiv
 
 En general, todas las armas, municiones y materiales destinados exclusivamente para la guerra.
 
-Las de este destino, previa la justificación de la necesidad, podrán autorizarse por la Secretaría de la Defensa Nacional, individualmente o como corporación, a quienes desempeñen empleos o cargos de la Federación, del Distrito y Territorios Federales, de los Estados o de los Municipios.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+Las de este destino, previa la justificación de la necesidad, podrán autorizarse por la Secretaría de la Defensa Nacional, individualmente o como corporación, a quienes desempeñen empleos o cargos de la Federación, del Distrito Federal, de los Estados o de los Municipios.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 12.
 
-Son armas prohibidas, para los efectos de esta Ley, las ya señaladas en el Código Penal para el Distrito y Territorios Federales en Materia de Fuero Común y para toda la República en materia de Fuero Federal.
+Son armas prohibidas, para los efectos de esta Ley, las ya señaladas en el Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en materia de Fuero Federal.
 
 ###### ARTICULO 13.
 
@@ -184,9 +192,11 @@ Para los efectos del control de la posesión de armas, las personas físicas deb
 
 Toda persona que adquiera una o más armas, está obligada a manifestarlo a la Secretaría de la Defensa Nacional en un plazo de treinta días. La manifestación se hará por escrito, indicando calibre, modelo y matrícula si la tuviere.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 18.
 
-Los funcionarios, empleados públicos y jefes de los cuerpos de policía federales, del Distrito y Territorios Federales, de los Estados y de los Municipios, están obligados a hacer la manifestación a que se refiere el artículo anterior.
+Los funcionarios, empleados públicos y jefes de los cuerpos de policía federales, del Distrito Federal, de los Estados y de los Municipios, están obligados a hacer la manifestación a que se refiere el artículo anterior.
 
 ###### ARTICULO 19.
 
@@ -260,9 +270,11 @@ Las licencias particulares se expedirán previo el pago de los derechos de porta
 
 Los ejidatarios, comuneros y jornaleros del campo están exentos de este pago.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 29.
 
-Las licencias oficiales se expedirán a quienes desempeñen cargos o empleos de la Federación, del Distrito y Territorios Federales y que para el cumplimiento de sus obligaciones requieran la portación de armas. Estas licencias podrán ser colectivas o individuales.
+Las licencias oficiales se expedirán a quienes desempeñen cargos o empleos de la Federación o del Distrito Federal y que para el cumplimiento de sus obligaciones requieran la portación de armas. Estas licencias podrán ser colectivas o individuales.
 
 Las licencias colectivas se expedirán a los Cuerpos de Policía, estrictamente por el número de personas que figuren en las nóminas de pago respectivas. En este caso, las credenciales equivalen a las licencias individuales y serán expedidas por las autoridades de quienes dependan. Los jefes de estos cuerpos remitirán a la Secretaría de la Defensa Nacional en la forma que señale el Reglamento, una relación de las armas que se encuentren en su poder o de sus subalternos en cumplimiento de su misión.
 
@@ -755,3 +767,11 @@ Se derogan todas las disposiciones que se opongan a la presente Ley.
 México, D. F., a 29 de diciembre de 1971.- Víctor Manzanilla Schaffer, S. P.- Juan Moisés Calleja, D. P.- Juan Sabines Gutiérrez, S. S.- Marco Antonio Espinosa P, D. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos setenta y uno.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de la Defensa Nacional, Hermenegildo Cuenca Díaz.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.- El Secretario de Relaciones Exteriores, Emilio O. Rabasa.- Rúbrica.- El Secretario de Marina, Luis M. Bravo Carrera.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Hugo B. Margáin.- Rúbrica.- El Secretario del Patrimonio Nacional, Horacio Flores de la Peña.- Rúbrica.- El Secretario de Industria y Comercio, Carlos Torres Manzo.- Rúbrica.- El Secretario de Agricultura y Ganadería, Manuel Bernardo Aguirre.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Eugenio Méndez Docurro.- Rúbrica.- El Secretario de Obras Públicas, Luis Enrique Bracamontes.- Rúbrica.- El Secretario de Recursos Hidráulicos, Leandro Rovirosa Wade.- Rúbrica.- El Secretario de Educación Pública, Víctor Bravo Ahuja.- Rúbrica.- El Secretario de Salubridad y Asistencia, Jorge Jiménez Cantú.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Rafael Hernández Ochoa.- Rúbrica.- El Secretario de la Presidencia, Hugo Cervantes del Río.- Rúbrica.- El Jefe del Departamento de Asuntos Agrarios y Colonización, Augusto Gómez Villanueva.- Rúbrica.- El Jefe del Departamento de Turismo, Agustín Olachea Borbón.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Octavio Sentíes Gómez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 23 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
