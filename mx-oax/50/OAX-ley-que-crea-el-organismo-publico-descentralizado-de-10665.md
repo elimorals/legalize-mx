@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-el-organismo-publico-descentralizado-de-10665"
 country: "mx"
 rank: "ley"
 publication_date: "1981-03-18"
-last_updated: "1981-03-18"
+last_updated: "2004-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO COMITE ESTATAL DE PLANEACION PARA EL DESARROLLO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el 18 de Marzo de 1981.
 
@@ -49,7 +49,9 @@ El Comité para el adecuado cumplimiento de sus atribuciones, se integrará de l
 
 I.- Un Presidente, que será el C. Gobernador del Estado.
 
-II.- Un Coordinador General, que será el Vocal Ejecutivo de la Comisión de Planeación y Control de la Inversión Pública del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+II.- Un Secretario Técnico que será el (a) Titular de la Coordinación General de Planeación para el Desarrollo de Oaxaca;
 
 III.- Los titulares de las dependencias del Ejecutivo Estatal que señale el C. Gobernador del Estado.
 
@@ -57,7 +59,7 @@ IV.- Los titulares de los órganos que actúen en el Estado, de las Dependencias
 
 V.- Los titulares de las comisiones donde participen los sectores público, social y privado, cuyas acciones interesen al desarrollo socioeconómico de la Entidad.
 
-VI.- El titular de la Delegación Regional de la Secretaría de Programación y Presupuesto del Gobierno Federal en el Estado, quien actuará como Secretario Técnico del Comité.
+VI.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2004)
 
 Asimismo podrán participar:
 
@@ -77,27 +79,37 @@ Por cada miembro propietario de los señalados en las fracciones III a la X, con
 
 El Comité tendrá las siguientes funciones.
 
-I.- Promover y coadyuvar, con la participación de los diversos sectores de la comunidad, en la elaboración y permanente actualización del plan estatal de desarrollo, buscando su congruencia con los que a nivel global, sectorial y regional formule el Gobierno Federal.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+I.- Promover y coadyuvar, con la participación de mujeres y hombres los diversos sectores de la comunidad, en la elaboración y permanente actualización del Plan Estatal de Desarrollo, que se regirá entre otros, por los principios de equidad de género, justicia, honestidad y transparencia; buscando su congruencia con los que a nivel global, sectorial y regional formule el Gobierno Federal.
 
 II.- Fomentar la coordinación entre los Gobiernos Federal, Estatal y Municipales, y la cooperación de los sectores social y privado, para la instrumentación a nivel local de los planes Global, Sectoriales, Estatal y Municipales.
 
 III.- Coordinar el control y evaluación del plan estatal de desarrollo, para adecuarlo a las previsiones de los planes que formule el Sector Público Federal e incidan en el nivel estatal, así como coadyuvar al oportuno cumplimiento de sus objetivos y metas.
 
-IV.- Formular y proponer a los Ejecutivos Federal y Estatal, programas de inversión, gasto y financiamiento para la Entidad, a fin de enriquecer los criterios conforme a los cuales definen sus respectivos presupuestos de egresos.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
-Las propuestas que se hagan al Ejecutivo Federal, deberán presentarse a través de la Secretaría de Programación y Presupuesto conforme a las normas que ésta establezca para ello, desglosadas a nivel de obras y servicios y claramente jerarquizadas.
+IV.- Formular y proponer a los Ejecutivos Federal y Estatal, programas de inversión, gasto y financiamiento para la entidad, a fin de enriquecer los criterios conforme a los cuales definen sus respectivos presupuestos de egresos.
+
+Las propuestas que se hagan al Ejecutivo Federal, deberán presentarse a través de la Coordinación General de Planeación para el Desarrollo de Oaxaca conforme a las normas que ésta establezca para ello, desglosadas a nivel de obras y servicios y claramente jerarquizadas.
 
 V.- Sugerir a los Ejecutivos Federal y Estatal, programas y acciones a concertar en el marco del Convenio Unico de Coordinación, con el propósito de coadyuvar a alcanzar los objetivos del desarrollo del Estado.
 
-VI.- Evaluar el desarrollo de los programas y acciones concertados en el marco del Convenio Unico de Coordinación, entre la Federación y el Estado, e informar periódicamente al respecto al Ejecutivo Estatal y, por conducto de la Secretaría de Programación y Presupuesto, al Ejecutivo Federal.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+VI.- Evaluar el desarrollo de los programas y acciones concertados en el marco del Convenio Unico de Coordinación entre la Federación y el Estado, e informar periódicamente al respecto al Ejecutivo Estatal y, por conducto de la Coordinación General de Planeación para el Desarrollo de Oaxaca, al Ejecutivo Federal.
 
 VII.- Promover la celebración de acuerdos de cooperación entre el sector público y los sectores social y privado que actúen a nivel estatal, tendientes a orientar sus esfuerzos al logro de los objetivos del desarrollo de la Entidad.
 
-VIII.- Promover la coordinación con otros Comités para coadyuvar en la definición, instrumentación y evaluación de planes para el desarrollo de regiones interestatales solicitando, a través de la Secretaría de Programación y Presupuesto, la intervención de la Federación para tales efectos.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+VIII.- Promover la coordinación con otros Comités para coadyuvar en la definición, instrumentación y evaluación de planes para el desarrollo de regiones interestatales solicitando, a través de la Coordinación General de Planeación para el Desarrollo de Oaxaca, la intervención de la Federación para tales efectos.
 
 IX.- Fungir como órgano de consulta tanto del Gobierno Estatal como de los Gobiernos Federal y Municipales, sobre la situación socioeconómica de la Entidad.
 
-X.- Proponer a los Gobiernos Federal, Estatal y Municipales, medidas de carácter jurídico, administrativo y financiero, necesarias para el cumplimiento de las funciones y la consecución de los objetivos del propio Comité. Las propuestas que se formulen al Gobierno Federal deberán canalizarse a través de la Secretaría de Programación y Presupuesto.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+X.- Proponer a los gobiernos federal, estatal y municipales, medidas de carácter jurídico, administrativo y financiero, necesarias para el cumplimiento de las funciones y la consecución de los objetivos del propio Comité. Las propuestas que se formulen al Gobierno Federal deberán canalizarse a través de la Coordinación General de Planeación para el Desarrollo de Oaxaca.
 
 XI.- Acordar el establecimiento de subcomités sectoriales, regionales y especiales, así como de grupos de trabajo, los cuales actuarán como instancias auxiliares del Comité, y se integrarán conforme a lo que éste determine.
 
@@ -109,7 +121,9 @@ I.- Presidir y dirigir todas las actividades del Comité.
 
 II.- Propiciar y dirigir la participación activa de todos los miembros del Comité.
 
-III.- Dirigir la formulación, actualización e instrumentación del plan estatal de desarrollo.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+III.- Dirigir la formulación, actualización e instrumentación del Plan Estatal de Desarrollo; considerando los principios señalados en la fracción I del artículo 3º de esta ley.
 
 IV.- Propiciar la coordinación de los planes, programas y proyectos federales, estatales y municipales.
 
@@ -127,7 +141,9 @@ Al coordinador corresponde:
 
 I.- Coordinar y promover la participación de todos los miembros del Comité;
 
-II.- Coordinar los trabajos para la formulación, actualización e instrumentación del Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+II.- Coordinar los trabajos para la formulación, actualización e instrumentación del Plan Estatal de Desarrollo; vigilando que sus contenidos consideren los principios de equidad de género señalados en la fracción I del artículo 3º de esta Ley.
 
 III.- Coordinar los trabajos que en materia de planeación, presupuestación, evaluación e información realice el Comité buscando siempre la compatibilización y coordinación entre lo realizado por el Gobierno del Estado, por la Federación y por los Municipios de la Entidad;
 
@@ -268,3 +284,9 @@ EL SUBSECRETARIO ENCARGADO DE LA SECRETARIA GENERAL DEL DESPACHO,
 LIC. MARCOS I. MATIAS.
 
 AL C. .....
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
