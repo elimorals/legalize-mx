@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-comision-de-vigilancia-del-instituto-del-33"
 country: "mx"
 rank: "reglamento"
 publication_date: "1973-02-16"
-last_updated: "1979-03-08"
+last_updated: "1994-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "1998-12-22"
 
 REGLAMENTO DE LA COMISION DE VIGILANCIA DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MARZO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MAYO DE 1994.
 
 Reglamento publicado en el Diario Oficial de la Federación el viernes 16 de febrero de 1973.
 
@@ -158,6 +158,10 @@ En caso de que no pueda verificarse la sesión por falta de quórum, el Presiden
 
 La asistencia de los suplentes a las sesiones de la Comisión será voluntaria con derecho a voz. Cuando un miembro propietario no pueda asistir a una sesión, lo comunicará a su suplente para que éste asista en funciones de propietario y ejerza el derecho de voto.
 
+> <small>(ADICIONADO, D.O.F. 4 DE MAYO DE 1994)</small>
+
+Los Directores Sectoriales podrán asistir a las sesiones de la H. Comisión de vigilancia con derecho a voz pero sin voto.
+
 ###### ARTICULO 17o.
 
 La Comisión debatirá los asuntos de su competencia sin someterse a formalidades especiales. Los miembros de la Comisión que disientan del parecer mayoritario podrán solicitar que figure en el acta el testimonio razonado de su opinión divergente.
@@ -235,3 +239,9 @@ UNICO.- Este Reglamento entrará en vigor a partir de la fecha de su aprobación
 D.O.F. 8 DE MARZO DE 1979.
 
 UNICO.- La presente reforma entrará en vigor a partir de la fecha de su expedición por la Asamblea General del Instituto.
+
+D.O.F. 4 DE MAYO DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
