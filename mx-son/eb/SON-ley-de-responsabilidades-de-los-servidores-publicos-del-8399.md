@@ -4,7 +4,7 @@ identifier: "SON-ley-de-responsabilidades-de-los-servidores-publicos-del-8399"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-09"
-last_updated: "1984-04-09"
+last_updated: "1993-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE ABRIL DE 1993.
 
 Ley publicada en la Sección Segunda del Boletín Oficial del Estado de Sonora, el lunes 9 de abril de 1984.
 
@@ -83,9 +83,11 @@ VIII.- Los Juzgados de Primera Instancia; y
 
 IX.- Las demás autoridades que señala esta Ley.
 
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 4o.
 
-Los procedimientos para la aplicación de las sanciones a que se refiere este Ordenamiento, se desarrollarán autónomamente según se (sic) naturaleza y por la vía procesal que corresponda. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
+Cuando los actos u omisiones materia de las acusaciones, queden comprendidas en más de uno de los casos sujetos a sanción y previstos en el artículo 144, de la Constitución Política del Estado, los procedimientos respectivos se desarrollarán en forma autónoma e independiente, según su naturaleza y por la vía procesal que corresponda, debiendo las autoridades respectivas turnar las denuncias y quejas a quien deba conocer de ellas. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
 
 ###### ARTICULO 5o.
 
@@ -97,9 +99,11 @@ No se admitirá la intervención de Apoderado Jurídico para la presentación de
 
 ### CAPITULO I. SUJETOS, CAUSAS DE JUICIO POLITICO Y SANCIONES
 
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 6o.
 
-Son sujetos de juicio político: los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los Subprocuradores, el Secretario y Subsecretarios A y B de Gobierno, los Secretarios y Subsecretarios de Despacho, el Oficial Mayor, el Contralor General del Estado, el Tesorero General del Estado y Subtesoreros, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los Presidentes Municipales, Regidores, Síndicos, Secretarios y Tesoreros de los Ayuntamientos, y así como los Directores Generales o sus equivalentes de las empresas de participación estatal o municipal mayoritarias, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los Municipios.
+Son sujetos de juicio político: los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, de sus Salas Regionales, y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los Subprocuradores, los Secretarios y Subsecretarios, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los Presidentes Municipales, Síndicos, Regidores, Secretarios, Tesoreros y Contralores de los Ayuntamientos, así como los Directores Generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los Municipios.
 
 ###### ARTICULO 7o.
 
@@ -237,9 +241,11 @@ Cuando la cámara de Senadores del Congreso de la Unión, erigida en Jurado de S
 
 Los servidores públicos que cometan delitos de cualquier naturaleza, serán responsables en los términos de la Legislación Penal del Estado.
 
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 29.
 
-Para proceder penalmente contra el Gobernador, Diputados al Congreso del Estado, Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia, el Secretario y Subsecretarios A y B de Gobierno, Secretarios de Despacho, Oficial Mayor, Contralor General del Estado, Tesorero General del Estado, Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, Jueces de Primera Instancia y Agentes del Ministerio Público, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar o no a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, Diputados al Congreso del Estado, Magistrados del Supremo Tribunal de Justicia, de sus Salas Regionales y del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia, Secretarios y Subsecretarios, Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, Jueces de Primera Instancia y Agentes del Ministerio Público, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará, por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar o no a proceder contra el inculpado.
 
 ###### ARTICULO 30.
 
@@ -391,9 +397,11 @@ Las resoluciones del Congreso se comunicarán al Supremo Tribunal de Justicia, c
 
 Incurren en responsabilidad administrativa, los servidores públicos a que se refiere el Artículo 143 de la Constitución Política del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 63.
 
-Para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el desempeño de su empleo, cargo o comisión, todo servidor público tendrá las siguientes obligaciones:
+Todo servidor público tendrá las siguientes obligaciones, para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el desempeño de su empleo, cargo o comisión, y cuyo incumplimiento dará lugar al procedimiento y a las sanciones que correspondan, según la naturaleza de la infracción en que se incurra, y sin perjuicio de sus derechos laborales, previstos en las normas específicas que al respecto rijan en el servicio:
 
 I.- Cumplir con la máxima diligencia y esmero el o los servicios que tuviere a su cargo.
 
@@ -417,7 +425,11 @@ X.- Observar en la dirección de sus inferiores jerárquicos las debidas reglas 
 
 XI.- Observar respeto y subordinación legítimas con respecto a sus superiores jerárquicos mediatos o inmediatos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones.
 
-XII.- Comunicar por escrito al Titular de la dependencia o entidad en la que presten sus servicios, el incumplimiento que advierta de las obligaciones establecidas en este Artículo o las dudas fundadas que le suscite la procedencia de las órdenes que reciba.
+> <small>(REFORMADA, B.O. 26 DE ABRIL DE 1993)</small>
+
+XII.- Comunicar por escrito al titular de la dependencia o entidad en la que presten sus servicios, las dudas fundadas que le suscite la procedencia de las órdenes que reciba.
+
+Deberá, de igual manera, proporcionar en forma oportuna y veraz, toda la información y datos solicitados por la Comisión Estatal de Derechos Humanos, a efecto de que, dicha Comisión pueda cumplir con las facultades y atribuciones que le correspondan.
 
 XIII.- Abstenerse de ejercer las funciones de un empleo, cargo o comisión después de concluido el período para el cual se le designó o de haber cesado por cualquier otra causa, en el ejercicio de las mismas.
 
@@ -428,6 +440,10 @@ XV.- Abstenerse de comisionar para el desempeño de cualquier función a sus sub
 XVI.- Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la Ley le prohiba.
 
 XVII.- Abstenerse de autorizar la selección, contratación, nombramiento o designación de quien se encuentre inhabilitado por resolución firme de autoridad competente para ocupar un empleo, cargo o comisión en el servicio público, o sin que llene los requisitos que señalen las leyes para ello.
+
+> <small>(ADICIONADO, B.O. 26 DE ABRIL DE 1993)</small>
+
+Deberá asimismo, abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública, con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien, con las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría, a propuesta razonada, conforme a las disposiciones jurídicas aplicables, del titular de la dependencia o entidad de que se trate. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, ni con las sociedades de que dichas personas formen parte.
 
 XVIII.- Excusarse de intervenir en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte.
 
@@ -443,7 +459,9 @@ XXIII.- Atender con diligencia las instrucciones, requerimientos y resoluciones 
 
 XXIV.- Presentar con toda oportunidad y veracidad la declaración de su situación patrimonial en los términos que señala esta ley.
 
-XXV.- Informar al Superior Jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este Artículo y en los términos de las normas que al efecto se expiden.
+> <small>(REFORMADA, B.O. 26 DE ABRIL DE 1993)</small>
+
+XXV.- Supervisar que los servidores públicos sujetos a su dirección, cumplan con las disposiciones de este artículo; y denunciar por escrito a la Contraloría o a la Contraloría Municipal, según corresponda, los actos u omisiones que en ejercicio de sus funciones llegaren a advertir, respecto de cualquier servidor público que pueda ser causa de responsabilidad administrativa en los términos de esta Ley, y de las normas que al efecto se expidan.
 
 XXVI.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público.
 
@@ -455,9 +473,13 @@ Para los efectos de esta ley se entenderá:
 
 En la Administración Pública Estatal
 
-I.- Por Contraloría, la Contraloría General del Estado.
+> <small>(REFORMADA, B.O. 26 DE ABRIL DE 1993)</small>
 
-II.- Por Superior Jerárquico, el Titular de la dependencia, y en el caso de las entidades, el Director General o su equivalente.
+I.- Por Contraloría, la Secretaría de la Contraloría General del Estado; y
+
+> <small>(REFORMADA, B.O. 26 DE ABRIL DE 1993)</small>
+
+II.- Por superior jerárquico, en el caso de las entidades, el Director General o su equivalente.
 
 En los Municipios del Estado
 
@@ -467,19 +489,25 @@ II.- Por Superior Jerárquico en las dependencias, el Presidente Municipal del A
 
 III.- Por Superior Jerárquico en las entidades, el Director General o su equivalente.
 
+> <small>(ADICIONADA, B.O. 26 DE ABRIL DE 1993)</small>
+
+IV.- Por Contraloría Municipal, la unidad administrativa encargada de las funciones del Sistema de Control y Evaluación Gubernamental. En aquellos municipios que no se cuente con dicha unidad, las funciones serán ejercidas por el Presidente Municipal.
+
 ### CAPITULO II. SANCIONES ADMINISTRATIVAS Y PROCEDIMIENTOS PARA APLICARLAS
+
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 65.
 
-En las dependencias y entidades de las Administraciones Públicas Estatal y Municipales, existirán órganos de control interno para que cualquier interesado pueda presentar denuncia por el incumplimiento de las obligaciones a que se refiere este Título.
+Los órganos de control interno de las entidades de la administración pública estatal o municipal, podrán recibir denuncias relativas al incumplimiento de funciones o violaciones a esta Ley y que se presenten contra servidores públicos de la entidad respectiva; pero las turnarán a la Contraloría o a las Contralorías Municipales, según corresponda, para que substancien el procedimiento que establece la Ley.
 
-Dichos órganos de control interno, en el ámbito de su competencia, determinarán si existe o no responsabilidad administrativa por el incumplimiento de las obligaciones de los servidores públicos, y aplicarán, por acuerdo del Superior Jerárquico, las sanciones administrativas que señala esta Ley, excepto las que por disposición de la misma estén reservadas a otra autoridad.
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 66.
 
-La Contraloría, el Superior Jerárquico y todos los servidores públicos tienen la obligación de respetar y hacer respetar el derecho a la formulación de las denuncias a que se refiere el artículo anterior y de evitar que con motivo de éstas, se causen molestias indebidas al denunciante.
+En las dependencias y entidades de las administraciones públicas estatal y municipales, cualquier interesado podrá presentar denuncias contra sus servidores públicos, por el incumplimiento de las obligaciones que se contienen en este Título.
 
-Incurren en responsabilidad el servidor público que por sí o por interpósita persona, utilizando cualquier medio, inhiba al denunciante para evitar la formulación o presentación de denuncias o que con motivo de ello, realice cualquier conducta injusta u omita una justa y debida, que lesione intereses de quienes la formulen o presenten.
+La Contraloría y las Contralorías Municipales, tienen la obligación de respetar y hacer respetar, el derecho a la formulación y presentación de denuncias, a que se refiere el párrafo anterior y de evitar que con motivo de éstas, se causen molestias indebidas al denunciante. El servidor público que por cualquier medio, por sí o por interpósita persona, inhiba o pretenda inhibir al denunciante, para evitar la formulación o presentación de denuncias o que, con motivo de ellas, realice cualquier conducta injusta u omita una justa y debida, que lesione o pueda lesionar los intereses de quienes la formulen o presenten, incurrirá en responsabilidad conforme a la presente Ley, sin perjuicio de lo que dispongan otras leyes y reglamentos.
 
 ###### ARTICULO 67.
 
@@ -504,6 +532,10 @@ V.- Sanción Económica, e
 VI.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
 Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique el lucro o cause daños o perjuicios, será de seis meses a tres años si el monto de aquellos no excede de cien veces el salario mínimo general vigente en la capital del Estado y de tres a diez años si excede de dicho límite.
+
+> <small>(ADICIONADO, B.O. 26 DE ABRIL DE 1993)</small>
+
+La Contraloría integrará un registro estatal de servidores públicos inhabilitados para desempeñar empleo, cargo o comisión en el servicio público. Asimismo, podrá celebrar convenios con la Secretaría de la Contraloría General de la Federación y con los Ayuntamientos del Estado, con el objeto de intercambiar información de los servidores públicos inhabilitados, a efecto de que las consecuencias jurídicas de la inhabilitación, se actualicen en todos los niveles de gobierno.
 
 ###### ARTICULO 69.
 
@@ -535,21 +567,11 @@ II.- El cociente se multiplicará por el salario mínimo general mensual vigente
 
 Para los efectos de esta ley, se entenderá por salario mínimo general mensual, el equivalente a treinta veces el salario mínimo diario general vigente en la Capital del Estado.
 
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 71.
 
-Para la aplicación de las sanciones a que se refiere el Artículo 68 de esta ley, se observarán las siguientes reglas:
-
-I.- El apercibimiento, la amonestación y la suspensión del empleo, cargo o comisión por un período no mayor de tres meses, serán aplicados por el Superior Jerárquico.
-
-II.- La destitución del servidor público de base, se aplicará de acuerdo con los procedimientos consecuentes con la naturaleza de la relación y en los términos de las leyes respectivas.
-
-III.- La destitución de los servidores públicos de confianza se aplicará por la autoridad que los haya nombrado.
-
-IV.- La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público será aplicada por Resolución Jurisdiccional que dictará el órgano que corresponda según las leyes aplicables.
-
-V.- Las sanciones económicas serán aplicadas en el ámbito estatal por la Contraloría y en el ámbito municipal por los Ayuntamientos.
-
-VI.- Cuando el término de la suspensión rebase el limite señalado en la fracción I de este Artículo, la sanción será impuesta por la Contraloría en la Administración Pública Estatal y por los Ayuntamientos en el ámbito de la Administración Pública Municipal.
+La aplicación de las sanciones administrativas a que se refiere el artículo 68 de esta Ley, le corresponde, en las dependencias y entidades de la administración pública estatal, a la Contraloría, y en las dependencias y entidades de la administración pública municipal, a la Contraloría Municipal.
 
 ###### ARTICULO 72.
 
@@ -557,81 +579,119 @@ Todo servidor público deberá denunciar por escrito ante las autoridades que se
 
 De toda denuncia que se reciba en la Administración Pública Estatal, se enviará copia a la Contraloría.
 
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 73.
 
-La Contraloría o los Ayuntamientos, en los ámbitos de sus respectivas competencias, aplicarán las sanciones correspondientes a los titulares de los órganos de control interno de las entidades de las dependencias y entidades cuando éstos incurran en actos u omisiones que impliquen responsabilidad administrativa.
+La Contraloría y las Contralorías Municipales, en el ámbito de sus respectivas competencias, aplicarán las sanciones correspondientes, a los titulares de los órganos de control interno de las entidades de la administración pública estatal y paramunicipal, cuando éstas incurran en actos u omisiones que impliquen responsabilidad administrativa.
 
 ###### ARTICULO 74.
 
-Incurrirán en responsabilidad administrativa los servidores públicos de los órganos de control interno que se abstengan injustificadamente de sancionar a los infractores o que, al hacerlo, no se ajusten a lo previsto por esta ley.
-
-En el Poder Ejecutivo, la Contraloría informará de ello, al titular de la dependencia o entidad y aplicará las sanciones correspondientes.
+(DEROGADO, B.O. 26 DE ABRIL DE 1993)
 
 ###### ARTICULO 75.
 
-Cuando la aplicación de la sanción administrativa corresponda a la Contraloría o a los Ayuntamientos en su respectivo ámbito de competencia, el órgano de control interno, previo informe a su Superior Jerárquico turnará el asunto a la Contraloría o al Ayuntamiento, según corresponda.
+(DEROGADO, B.O. 26 DE ABRIL DE 1993)
 
 ###### ARTICULO 76.
 
 Si los órganos de control interno tuvieran conocimiento de hechos que impliquen responsabilidad penal, darán vista de ellos a la Contraloría o a los Ayuntamientos, según corresponda, y a la autoridad competente para conocer del ilícito.
 
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 77.
 
-Si de las investigaciones y auditorias que realice la Contraloría apareciera la responsabilidad de los servidores públicos, informará al órgano de control interno correspondiente, para que proceda según sus atribuciones.
+Cuando de las investigaciones y auditorías que realicen la Contraloría y las Contralorías Municipales, aparecieren hechos que puedan implicar responsabilidad administrativa, se abocarán a instruir el procedimiento si el asunto es de su competencia; en caso contrario, lo pondrán en conocimiento de quien sea legalmente competente, para que proceda conforme con sus atribuciones legales.
 
-Si se trata de responsabilidades cuyo conocimiento sólo compete a la Contraloría, ésta se abocará directamente al asunto, informando de ello al Superior Jerárquico y al órgano de control interno que corresponda, para que participe o coadyuve en el procedimiento de determinación de responsabilidades.
+En los casos de la primera parte del párrafo anterior y, tratándose de las entidades de la administración pública estatal o paramunicipal, se podrá ordenar al órgano de control interno que corresponda, que coadyuve en la instrucción del procedimiento de determinación de responsabilidades.
+
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 78.
 
-En el Poder Ejecutivo, la Contraloría impondrá las sanciones administrativas a que se refiere este Capítulo, mediante el siguiente procedimiento:
+En el ámbito de sus respectivas competencias, la Contraloría y las Contralorías Municipales impondrán las sanciones administrativas a que se refiere el artículo 68 de esta Ley, conforme al siguiente procedimiento:
 
-I.- Citará al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y alegar en la misma por sí o por medio de un defensor.
+I.- El procedimiento se iniciará con el acuerdo que dicte la Contraloría o la Contraloría Municipal, en su caso, teniendo por radicado el procedimiento de la presunta responsabilidad administrativa;
 
-También asistirá a la audiencia el representante de la dependencia que para tal efecto se designe.
+II.- Se citará al supuesto infractor a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputan, el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho para contestar las imputaciones y ofrecer pruebas en la misma, por sí o por medio de un defensor;
 
-Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de cinco ni mayor de diez días hábiles.
+III.- La autoridad instructora, por simple acuerdo, comisionará a quien deba hacer el citatorio, precisando los nombres de dos testigos de asistencia que darán fe de la diligencia. La notificación se hará en el domicilio del centro de labores donde el servidor público preste sus servicios y si éste ya no trabaja en el servicio público, en su domicilio particular. El encargado asentará razón de la forma en que se cerciore de la veracidad del domicilio.
 
-II.- Al concluir la audiencia, o dentro de los cinco días hábiles siguientes, la Contraloría resolverá sobre la inexistencia de la responsabilidad o impondrá al infractor la sanción administrativa que corresponda y notificará la resolución dentro de las veinticuatro horas siguientes al servidor público, su jefe inmediato y a cualquier otro funcionario de la misma área administrativa que deba conocer dicha resolución.
+Si el citado no está presente, se le dejará citatorio para hora fija, dentro de las horas hábiles del día siguiente, con quien esté en el domicilio, y en caso contrario, con el vecino más cercano. Si a la hora fijada no se encuentra el citado, se entenderá la diligencia con quien esté presente y no encontrándose, con el vecino más próximo. El citatorio deberá entregarse con 5 días hábiles de anticipación a la audiencia, por lo menos. El encargado asentará razón en el expediente de todas las circunstancias de la diligencia de notificación.
 
-III.- Si en la audiencia se encontrare que no se cuenta con elementos suficientes para resolver o se advierte elementos que implican nuevas responsabilidades administrativas a cargo del presunto responsable o de otras personas, podrá disponer la práctica de investigaciones y citará para otra u otras audiencias.
+Para los efectos de esta Ley, las notificaciones que se realicen en forma personal, surtirán sus efectos el mismo día que se lleven a cabo, y las demás notificaciones, al día siguiente que se lleve a cabo la diligencia correspondiente;
 
-IV.- En cualquier momento, previa o posteriormente al citatorio al que se refiere la fracción I del presente artículo, la Contraloría podrá determinar si la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, si a su juicio así conviene para la conducción o continuación de las investigaciones. La suspensión temporal no prejuzga sobre la responsabilidad que se imputa y la determinación que la declare hará constar expresamente esta salvedad.
+IV.- Si el día de la audiencia no comparece el supuesto infractor sin justa causa, ni persona que legalmente lo represente, se tendrán por presuntivamente ciertos los hechos que se le imputan, debiendo previamente la autoridad instructora cerciorarse de que se le citó conforme a las reglas anteriores y si observare violaciones a éstas, ordenará reponer el procedimiento en forma legal;
 
-La suspensión temporal a que se refiere el párrafo anterior suspenderá los efectos del acto que haya dado origen a la ocupación del empleo, cargo o comisión, y regirá desde el momento en que sea notificado el interesado o éste quede enterado de la resolución por cualquier medio. La suspensión cesará cuando así lo resuelve la Contraloría, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo en relación con la presunta responsabilidad de los servidores públicos.
+V.- La autoridad instructora solicitará al titular de la dependencia o entidad donde labora o hubiere laborado el supuesto infractor, que designe un representante para la audiencia, a efecto de que se informe de las constancias del procedimiento y coadyuve en el esclarecimiento de los hechos;
 
-Si los servidores públicos suspendidos temporalmente no resultaren responsables de la falta que se les imputa, serán destituidos en el goce de sus derechos y se les cubrirán las percepciones que debieran percibir durante el tiempo en que se hallaren suspendidos.
+VI.- Una vez abierta la audiencia, se dará el uso de la voz al supuesto infractor o a su defensor, si aquél así lo pide, para que dé contestación a las irregularidades y hechos que se le imputen, y ofrezca las pruebas que juzgue convenientes.
 
-Para declarar la suspensión a que se refieren los párrafos anteriores se requerirá autorización del Congreso del Estado, o en receso de éste de la Diputación Permanente, si para el nombramiento del servidor público de que se trate se requirió ratificación de aquél en los términos de la Constitución Política del Estado.
+Son admisibles todos los medios de prueba, excepto aquéllos que no tengan relación con los hechos que se investigan;
+
+VII.- Concluido el ofrecimiento de pruebas, la autoridad declarará cerrado este período y dictará acuerdo, dentro de los tres días hábiles siguientes, sobre las pruebas que admita y, en su caso, deberá fundar y motivar debidamente su desechamiento. Una vez cerrado el período de ofrecimiento de pruebas, el supuesto infractor, podrá ofrecer únicamente pruebas supervinientes.
+
+En el acuerdo a que se refiere el párrafo anterior, se dictarán todas las medidas que sean necesarias para la recepción de las pruebas admitidas y se notificará del mismo al supuesto infractor;
+
+VIII.- Cuando no existan pruebas pendientes de desahogo, la autoridad instructora declarará cerrado el período probatorio y dictará resolución dentro de los quince días hábiles siguientes, sobre la inexistencia de responsabilidad administrativa o, en su caso, impondrá al infractor la sanción que corresponda. La resolución se notificará al interesado dentro de los tres días hábiles siguientes, así como a su jefe inmediato, al titular de la dependencia o entidad donde presta o haya prestado sus servicios y a cualquier otro funcionario que deba conocerla, debiéndose, en todo caso, correr traslado con copia de la misma;
+
+IX.- Si durante la instrucción del procedimiento, aparecieren elementos que constituyan nuevas responsabilidades administrativas a cargo del supuesto infractor o de otras personas, se realizarán las investigaciones que sean necesarias y se citará para otra u otras audiencias, hasta tener elementos suficientes para resolver; y
+
+X.- En cualquier momento, previo o posteriormente al citatorio a que se refiere este artículo, la autoridad instructora podrá ordenar la suspensión temporal de los supuestos infractores de sus empleos, cargos o comisiones, si a su juicio así conviene para la mejor conducción de las investigaciones. Esta suspensión no prejuzga sobre la responsabilidad que se imputa y la determinación que la declare lo hará constar así expresamente.
+
+La suspensión temporal decretada conforme al párrafo anterior, suspenderá los efectos del acto que haya dado origen a la ocupación del empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado y cesará cuando así lo resuelva la autoridad instructora, independientemente de la iniciación, continuación o conclusión del procedimiento en que se haya decretado.
+
+Si los servidores públicos suspendidos temporalmente no resultaren responsables de la falta que se les impute, serán restituidos en su puesto y se les cubrirán las percepciones que hubieren dejado de recibir, durante el tiempo que hubieren estado suspendidos.
+
+Para declarar la suspensión a que se refieren los párrafos anteriores, se requerirá autorización del Congreso del Estado, o en receso de éste, de la Diputación Permanente, si para el nombramiento del servidor público de que se trate, se requirió ratificación de aquél en los términos de la Constitución Política del Estado.
+
+Los servidores públicos que sean citados conforme a este artículo, deberán en su primera comparecencia, señalar domicilio para oír y recibir notificaciones, y en caso de no hacerlo, se les notificará por publicación que se realice en las oficinas de la autoridad que los haya citado. Las notificaciones siguientes a la primera se harán igual que ésta, en el domicilio que se señale, pero ya no será necesario dejar citatorio si el interesado no se encuentra.
+
+En el desarrollo y desahogo del procedimiento a que se refiere este artículo y en cuanto a lo no previsto, se estará a lo que dispone el Código de Procedimientos Civiles para el Estado de Sonora.
+
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 79.
 
-En los procedimientos que se sigan para la investigación y aplicación de sanciones de la competencia de los Ayuntamientos o de las contralorías internas de las dependencias y entidades de las administraciones públicas estatal y municipales, o ante los Superiores Jerárquicos en su caso se observarán, en todo cuanto sea aplicable las reglas contenidas en el artículo anterior en su caso, se observarán las reglas contenidas en el artículo anterior.
+En los procedimientos que se sigan para la investigación y aplicación de sanciones de la competencia de la Contraloría y Contralorías Municipales, en su caso, se observarán las reglas contenidas en el artículo anterior.
 
 ###### ARTICULO 80.
 
 Se levantará acta circunstanciada de todas las diligencias que se practiquen, que suscribirán quienes intervengan en ellas, apercibidos de las sanciones en que incurren quienes faltan a la verdad.
 
+> <small>(ADICIONADO, B.O. 26 DE ABRIL DE 1993)</small>
+
+Cuando alguien se negare a firmar el acta, se hará constar expresamente esta circunstancia por la autoridad que la levante.
+
+> <small>(ADICIONADO, B.O. 26 DE ABRIL DE 1993)</small>
+
+Las actuaciones y notificaciones deberán hacerse en días y horas hábiles. Son días hábiles todos los del año, excepto los sábados y domingos y los que señala la Ley del Servicio Civil para el Estado de Sonora. Serán horas hábiles para llevar a cabo las actuaciones las comprendidas de las 7:00 a las 19:00 horas.
+
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 81.
 
-El titular de la dependencia o entidad de que se trate podrá designar representante para que participe en las diligencias a que se refieren los artículos que anteceden.
+El titular de la dependencia o entidad en que preste o haya prestado sus servicios el encausado, podrá designar representante para los efectos previstos en la fracción V del artículo 78 de esta Ley. La falta de designación de representante no interrumpirá el curso normal del procedimiento, ni impedirá a la autoridad instructora para dictar resolución.
 
 ###### ARTICULO 82.
 
 Las resoluciones y acuerdos de las autoridades competentes para aplicar las sanciones constarán por escrito.
 
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 83.
 
-Las resoluciones por las que se impongan las sanciones contenidas en las fracciones I, II y V del artículo 68 de esta ley, podrán ser impugnadas por el servidor público ante la propia autoridad que las dicte, mediante recurso de revocación, que se interpondrá dentro de los tres días hábiles siguientes a la fecha en que surta efectos la notificación de la resolución recurrida.
+Las resoluciones por las que se impongan sanciones administrativas, podrán ser impugnadas por el servidor público afectado mediante recurso de revocación, que se interpondrá ante la propia autoridad que las haya dictado, dentro de los cinco días hábiles siguientes a la fecha en que surta efectos la notificación de la resolución recurrida.
 
 La tramitación del recurso, se sujetará a las normas siguientes:
 
-I.- Se iniciará mediante escrito en el que deberán expresarse los agravios que a juicio del servidor público le cause la resolución, acompañando copia de ésta y constancia de la notificación de la misma, así como la proposición de las pruebas que considere necesario rendir.
+I.- Se iniciará mediante escrito en el que se señalará la resolución que se recurre, la fecha en que fue notificada y se expresarán en el mismo, los agravios que a juicio del servidor público se le causan con dicha resolución. En este escrito, se propondrán las pruebas que el recurrente considere necesario rendir, las cuales deben referirse únicamente a las cuestiones planteadas en el recurso;
 
-II.- La autoridad acordará sobre la admisibilidad del recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se base la resolución.
+II.- La autoridad acordará sobre la admisibilidad del recurso y de las pruebas ofrecidas, desechando las que no reúnan las características mencionadas en la fracción anterior.
 
-Las pruebas admitidas se desahogarán en un plazo de cinco días, que a solicitud del servidor público o por determinación de la misma autoridad, podrá ampliarse una sola vez por cinco días más, y
+Las pruebas admitidas, cuando requieran desahogo posterior, se recibirán en un plazo no mayor de diez días hábiles, el cual podrá ampliarse si a juicio de la autoridad instructora es necesario para la mejor resolución del recurso; y
 
-III.- Concluído el período probatorio la autoridad emitirá resolución en el acto o dentro de los tres días siguientes, ordenando notificarla al interesado.
+III.- Desahogadas las pruebas, si las hubiere, la autoridad instructora emitirá resolución dentro de los quince días siguientes, confirmando, revocando o modificando la resolución recurrida y la notificará al interesado dentro de las setenta y dos horas siguientes.
 
 ###### ARTICULO 84.
 
@@ -647,11 +707,13 @@ b) Que la ejecución de la resolución recurrida produzca daños o perjuicios de
 
 c) Que la suspensión no traiga como consecuencia la consumación o continuación de actos u omisiones que impliquen perjuicios al interés social o al servicio público.
 
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 85.
 
-El servidor público afectado por las resoluciones administrativas a que se refiere el Artículo 83 de esta ley, podrá optar entre interponer el recurso de revocación ante la misma autoridad o impugnarlas directamente ante el Tribunal de lo Contencioso Administrativo.
+La resolución que se dicte conforme al artículo 83 de esta Ley, podrá ser impugnada ante el Tribunal de lo Contencioso Administrativo. Esta impugnación tendrá por objeto que dicho tribunal confirme o anule la resolución impugnada, y se substanciará únicamente con el escrito de expresión de agravios y el informe que, junto con el expediente de origen, le remita la autoridad instructora.
 
-La resolución que se dicte en el recurso de revocación, será también impugnable ante el Tribunal de lo Contencioso Administrativo.
+El servidor público deberá interponer su impugnación, dentro de los tres días hábiles siguientes a la fecha en que surta efectos la notificación de la resolución impugnada; la autoridad instructora deberá rendir su informe en igual término, haciéndolo por escrito y anexando el expediente de origen, una vez que el tribunal le notifique la interposición de la impugnación. Concluidos los términos mencionados en este párrafo, el tribunal dictará resolución, confirmando o anulando la resolución impugnada.
 
 ###### ARTICULO 86.
 
@@ -665,7 +727,9 @@ Las resoluciones absolutorias que dicte el Tribunal de lo Contencioso Administra
 
 Las sanciones administrativas impuestas en resolución firme, se ejecutarán de inmediato en los términos que lo dispongan las resoluciones respectivas. La suspensión, la destitución o inhabilitación que se imponga a los servidores públicos de confianza, surtirá efectos al notificarse la resolución y se considerarán de orden público.
 
-Tratándose de los servidores públicos de base, la suspensión y la destitución se sujetarán a lo previsto en la ley correspondiente.
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+
+Tratándose de los servidores públicos de base, la suspensión y la destitución surtirán efectos al notificarse la resolución y se enviará copia de la misma a la autoridad encargada de los recursos humanos y al sindicato correspondiente, si este dato obrara en el expediente.
 
 El apercibimiento, la amonestación y la sanción económica surten efectos al momento de notificarse.
 
@@ -685,11 +749,17 @@ II.- Auxilio de la fuerza pública. Si existe resistencia al mandamiento legíti
 
 La prescripción de las sanciones administrativas a que se refiere este Título se sujetarán a lo siguiente:
 
-I.- Prescribirán en tres meses si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo general diario vigente en la capital del Estado.
+> <small>(REFORMADA, B.O. 26 DE ABRIL DE 1993)</small>
+
+I.- Prescribirán en un año si el beneficio obtenido o el daño causado por el infractor, no excede de diez veces el salario mínimo general mensual vigente en la capital del Estado; y
 
 II.- En los demás casos prescribirán en tres años.
 
 El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiera incurrido en la responsabilidad o a partir del momento en que se hubiese cesado, si fuese de carácter continuo.
+
+> <small>(ADICIONADO, B.O. 26 DE ABRIL DE 1993)</small>
+
+En todos los casos, la prescripción a que alude este precepto, se interrumpirá al iniciarse el procedimiento de determinación de responsabilidad administrativa.
 
 ## TITULO SEXTO. REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS
 
@@ -707,7 +777,9 @@ I.- En el Poder Legislativo: Los Diputados, el Oficial Mayor y el Contador Mayor
 
 II.- En el Poder Ejecutivo: Todos los servidores públicos, desde jefes de departamento hasta el Gobernador del Estado, los previstos en las fracciones V y VI de este Artículo, los miembros de la Policía Judicial del Estado y el personal de vigilancia de los Centros de Prevención y Readaptación Social.
 
-III.- En el Poder Judicial: Los Magistrados del Supremo Tribunal de Justicia, los Secretarios Generales y Auxiliares del Supremo Tribunal de Justicia, los Secretarios Proyectistas adscritos a los Magistrados, los Jueces de Primera Instancia, Locales y Menores y los Secretarios y Actuarios de Juzgado.
+> <small>(REFORMADA, B.O. 26 DE ABRIL DE 1993)</small>
+
+III.- En el Poder Judicial: los Magistrados del Supremo Tribunal de Justicia y de sus Salas Regionales, los Secretarios Generales y Auxiliares del Supremo Tribunal de Justicia, y de sus Salas Regionales, los Secretarios Proyectistas adscritos a los Magistrados, los Jueces de Primera Instancia y Locales y los Secretarios y Actuarios de Juzgado.
 
 IV.- En los Municipios del Estado: Todos los servidores públicos, desde jefes de departamento hasta los integrantes de los Ayuntamientos, los Secretarios y Tesoreros de los Ayuntamientos, Comisarios y Delegados Municipales y el personal de los servicios policíacos, de tránsito y de bomberos.
 
@@ -716,6 +788,10 @@ V.- En los Organismos Descentralizados, Empresas de Participación Mayoritarias,
 VI.- En los Tribunales Administrativos y del Trabajo: Los Magistrados, miembros de Juntas, Secretarios Generales y Auxiliares, Actuarios y Procuradores e Inspectores de Trabajo.
 
 También harán la declaración de que se trata, los demás servidores públicos que determinen el Contralor General y el Procurador General de Justicia del Estado, mediante disposiciones generales debidamente motivadas y fundadas.
+
+> <small>(ADICIONADO, B.O. 26 DE ABRIL DE 1993)</small>
+
+El servidor público que en su declaración de situación patrimonial faltase a la verdad, en relación con lo que es obligatorio manifestar en los términos de esta Ley, será suspendido, y cuando por su importancia lo amerite, destituido o inhabilitado de tres meses a tres años, sin perjuicio de las investigaciones que el caso pudiere ameritar.
 
 ###### ARTICULO 94.
 
@@ -822,3 +898,19 @@ Dr. Samuel Ocaña García.
 EL SECRETARIO DE GOBIERNO,
 
 Lic. Carlos Gámez Fimbres.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+B.O. 26 DE ABRIL DE 1993.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley, entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los asuntos que se encuentren en trámite ante los Organos de Control Interno de las dependencias de la administración pública estatal, se turnarán a la Contraloría, con el objeto de que ésta continúe con los procedimientos correspondientes hasta su total terminación.
+
+###### ARTICULO TERCERO
+
+Los asuntos que se encuentren en trámite ante las dependencias y entidades de los municipios, y que se refieren a las materias que les corresponda conocer a las Contralorías Municipales, conforme lo establece la Ley Orgánica de Administración Municipal, le serán turnados a ellas con la finalidad de continuar con los procedimientos correspondientes hasta su total terminación.
