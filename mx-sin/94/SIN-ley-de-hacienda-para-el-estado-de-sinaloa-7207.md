@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1985-06-12"
+last_updated: "1986-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 1986.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -1711,125 +1711,27 @@ Las empresas dedicadas a la compraventa de vehículos de motor usados, deberán 
 
 Son solidariamente responsables del pago de este impuesto los enajenantes y las demás personas que intervengan en las operaciones.
 
-> <small>(N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE CAPITULO Y ARTICULOS QUE LO INTEGRAN, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)</small>
+(ABROGADO [N. DE E. DEROGADO] CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)
 
-### CAPITULO IX. Impuesto sobre Remuneración del Trabajo Personal
+### CAPITULO IX. ART. 157.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
-> <small>(N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)</small>
+ART. 158.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
-ART. 157.- Son objeto del impuesto a que se refiere este Capítulo:
+ART. 159.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
-I.- Los ingresos procedentes de la remuneración del trabajo personal prestado bajo la dirección y dependencia de un tercero, por concepto de sueldos, salarios y emolumentos; por comisiones pagadas por las ventas realizadas en el desempeño del empleo, por sobresueldos, viáticos, gastos de representación, premios y gratificaciones; por remuneraciones ordinarias y extraordinarias, así como por cualquier otra clase de ventajas concedidas, ya sea en dinero, en especie, títulos, valores, bonos de fundador y partes sociales.
+ART. 160.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
-No se computarán como acumulables los gastos de representaciones y viáticos siempre y cuando el monto de estos no exceda del 25% del sueldo o salario nominal mensual, cuando sean erogados en servicio del patrón y se compruebe mediante documentación de terceros que reúne los requisitos exigidos por las leyes y ordenamientos fiscales federales y se encuentren registrados en la contabilidad del causante como tales.
+ART. 161.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
-II.- Las participaciones sobre utilidades concedidas a empleados, obreros y trabajadores de acuerdo con el contrato de trabajo, en cumplimiento de lo dispuesto en las fracciones VI, parte final y XXII del Artículo 123 de la Constitución General de la República, y por indemnizaciones por cese o separación;
+ART. 162.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
-III.- Los ingresos percibidos por los Directores, Gerentes, Administradores, Comisarios y miembros de Consejos Directivos o de Administración, de Sociedades o Asociaciones;
+ART. 163.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
-IV.- Los ingresos percibidos por los miembros de las sociedades cooperativas de producción;
+ART. 164.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
-V.- Los ingresos provenientes de pensiones, retiros, subsidios y rentas vitalicias que tengan su origen en cualesquiera de los conceptos comprendidos en las fracciones anteriores, siempre que su monto diario exceda 10 veces el salario mínimo general en la zona económica en que se encuentre el domicilio fiscal de la empresa o institución que lo cubra.
+ART. 165.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
-> <small>(N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)</small>
-
-ART. 158.- Los ingresos gravables comprendidos en el Artículo anterior, son los percibidos por personas domiciliadas en el territorio del Estado de Sinaloa y los percibidos por personas que tengan su domicilio fuera de ese territorio, cuando les sean pagados por empresas domiciliadas en el territorio del Estado de Sinaloa, a las que presten sus servicios, salvo que los trabajadores, en este último caso, cubran los impuestos en el lugar donde presten sus servicios.
-
-> <small>(N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)</small>
-
-ART. 159.- Quedan exceptuados del pago del impuesto los siguientes ingresos:
-
-I.- Los sueldos emolumentos y gastos de representación percibidos por los agentes consulares extranjeros, en el ejercicio de su cargo;
-
-II.- Los sueldos, salarios y emolumentos percibidos por los empleados de los consulados extranjeros, cuando sean ciudadanos de los países representados;
-
-III.- Los emolumentos y gastos de representación de los miembros de delegaciones científicas y humanitarias;
-
-IV.- Los emolumentos y gastos de representación de los miembros de delegaciones oficiales, cuando representen a países extranjeros;
-
-V.- Los sueldos, salarios y emolumentos de empleados, obreros y trabajadores de nacionalidad extranjera que presten sus servicios a empresas domiciliadas en el Estado e Sinaloa, pero en sucursales y agencias establecidas fuera del territorio nacional;
-
-VI.- Las indemnizaciones por riesgos o enfermedades profesionales que se concedan de acuerdo con la Ley Federal del Trabajo, la Ley del Seguro social y su Reglamento o con los contratos de trabajo respectivos;
-
-VII.- Las pensiones que se paguen de conformidad con las leyes o contratos de trabajo que las establezcan;
-
-VIII.- Los subsidios que se cubran a los trabajadores de conformidad con las leyes o contratos de trabajo que los establezcan, por concepto de enfermedades, maternidad, vejez, cesantía, retiro, muerte y riesgos profesionales.
-
-IX.- Las dotes matrimoniales que se concedan a los trabajadores de conformidad con la Ley del Seguro Social y su Reglamento, así como las ayudas para la lactancia que concedan las mismas disposiciones legales;
-
-X.- Los haberes y demás ingresos percibidos en el Estado por los miembros del ejército y la armada nacionales y de la fuerza aérea nacional;
-
-XI.- Pagos para gastos funerarios;
-
-XII.- Las cantidades percibidas por concepto de previsión social;
-
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 1984)</small>
-
-XIII.- Las gratificaciones de fin de año, otorgadas en forma general a favor de los trabajadores o empleados, cuyo monto no exceda del equivalente a treinta días de salario mínimo general vigente en la zona económica de la prestación de servicios, en la fecha en que se cause el impuesto. Sólo el excedente estará afectado al pago del impuesto;
-
-XIV.- El importe del salario mínimo general.
-
-> <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 1984)</small>
-
-XV.- Las demás cantidades distintas del salario, que perciban los trabajadores y empleados que estén sujetos al salario mínimo general, siempre que no excedan de los mínimo (sic) general, siempre que no excedan de los mínimos señalados por la legislación laboral, calculadas sobre la base del salario mínimo general vigente en la fecha y zona económica de que se trate; excepto el caso previsto por la fracción XIII de este Artículo.
-
-> <small>(N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)</small>
-
-ART. 160.- La base de este impuesto es la totalidad de los ingresos mensuales percibidos por el contribuyente, derivados de las fuentes comprendidas en los Artículos 157 y 158.
-
-Cuando la empresa en que preste sus servicios el causante divida su ejercicio anual en cuatro períodos de cinco semanas y ocho de cuatro semanas, cada uno de esos períodos podrá ser adoptado como base del Impuesto, conforme al párrafo anterior, siempre que al período final se le agreguen los días necesarios para que los días totales coincidan con los del año natural.
-
-(REFORMADO, P.O. 16 DE NOVIEMBRE DE 1984) (N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)
-
-ART. 161.- Quienes perciban ingresos gravados en pago de servicios prestados durante períodos menores a un mes de calendario, causarán el impuesto dividiendo el importe de la percepción total entre el número de días en que se hayan devengado. Dicha percepción diaria promedio se multiplicará por el número de días del mes de que se trate y al producto se aplicará la tasa establecida por el Artículo 166. El gravamen que resulte se dividirá entre el número de días del mes de que se trate y el cociente obtenido se multiplicará por el número de días en que se haya devengado el ingreso, determinándose en esta forma el impuesto causado.
-
-> <small>(N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)</small>
-
-ART. 162.- Quienes hagan pagos correspondientes a percepciones gravadas por este impuesto, están obligados a retener el impuesto mensual causado y a enterarlo mediante declaración que deberá presentarse ante la Oficina Recaudadora correspondiente a su domicilio, a más tardar el día quince de mes inmediato posterior de aquél en que el causante hubiere percibido los ingresos objeto de este impuesto. La declaración mensual deberá presentarse aún en el caso de que no se efectúen pagos por percepciones gravadas, expresando el motivo de ello.
-
-Están obligados a retener y enterar el impuesto los subcontratistas de obras por los ingresos gravados que perciban sus trabajadores.
-
-Cuando se omita la presentación de la declaración mensual a que se refiere este Artículo, la Oficina Recaudadora provisionalmente podrán hacer efectivo al retenedor un impuesto mensual equivalente al de la última declaración presentada, debiendo hacerse los ajustes necesarios una vez que se presenten las declaraciones omitidas.
-
-> <small>(REFORMADO, [N.DE E. ADICIONADO], P.O. 16 DE NOVIEMBRE DE 1984)</small>
-
-Se faculta a las autoridades fiscales a que se refiere la presente Ley para celebrar, en su caso, convenios a cuota fija con las personas obligadas a retener y enterar el impuesto establecido por el presente Capítulo, siempre que éstas se dediquen a alguna de las siguientes actividades: Agricultura; ganadería; prestación de servicios a agricultores, desde la etapa de preparación de los terrenos para efectuar la siempra (sic) o plantío hasta la de recolección o cosecha, inclusive; así como a la explotación de cualquier tipo de servicio público de autotransporte concesionado a particulares; y, en general con quienes se dediquen a cualquiera otra actividad que así lo amerite.
-
-> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 16 DE NOVIEMBRE DE 1984)</small>
-
-Los convenios a que se refiere el párrafo anterior podrán celebrarse en forma directa con los retenedores del impuesto o con quienes los representen legalmente y que cuenten con facultades bastantes al efecto conforme a la Ley.
-
-> <small>(N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)</small>
-
-ART. 163.- Los retenedores de este impuesto deberán dar aviso a la Oficina Recaudadora correspondiente a su domicilio, haciendo uso de las formas oficiales aprobadas por la Secretaría de Finanzas, dentro de los 10 días hábiles siguientes a la fecha en que ocurra cualquiera de los siguientes hechos:
-
-I.- De iniciación de operaciones;
-
-II.- De cambio o baja;
-
-a).- Cambio de denominación o razón social;
-
-b).- Cambio de actividad;
-
-c).- Cambio de domicilio;
-
-d).- Traspaso de la negociación;
-
-e).- Suspensión temporal de actividades; y
-
-f).- Clausura definitiva o cesación de actividades.
-
-> <small>(N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)</small>
-
-ART. 164.- Los pagaderos de sueldos y salarios de los empleados públicos y trabajadores al servicio de entidades públicas, tienen las obligaciones que establecen el Artículo 162 y les es aplicable lo preceptuado en el Artículo anterior.
-
-> <small>(N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)</small>
-
-ART. 165.- Quienes perciban en territorio del Estado sueldos o salarios directamente de personas físicas o jurídicas, domiciliadas fuera del Estado, están obligadas a pagar el impuesto establecido por este Capítulo en la Oficina Recaudadora a que corresponda el lugar en que prestan sus servicios, dentro de los primeros quince días del mes siguiente de aquél a que correspondan sus percepciones gravadas.
-
-(REFORMADO, P.O. 16 DE NOVIEMBRE DE 1984) (N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)
-
-ART. 166.- El impuesto se pagará aplicando, sobre la base a que se refiere el Artículo 160, una tasa de 1.37%.
+ART. 166.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
 ### CAPITULO X. Impuesto sobre Profesiones y Oficios
 
@@ -2713,29 +2615,27 @@ T A R I F A:
 
 I.- Por cada vehículo que se registre para su circulación y tránsito incluyendo el juego de placas aprobadas por la Secretaría de Comunicaciones y Transportes, tarjeta de circulación y calcamonía (sic), por el período de vigencia autorizado por dicha Secretaría del Estado, se cubrirán las siguientes cuotas:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1986)</small>
 
-a).- Juego de placas de servicio particular por dos años $ 1,400.00
+a).- Juego de placas de servicio particular por seis años $ 8,000.00
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1986)</small>
 
-b).- Juego de placas de servicio público local por dos años 1,500.00
+b).- Juego de placas de servicio público local, por seis años 8,500.00
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1986)</small>
 
-c).- Juego de placas de demostración por dos años 2,000.00
+c).- Juego de placas de servicio de demostración, por seis años 6,000.00
 
-d).- Reposición de cada juego de placas, durante el segundo año, se cubrirá el 50% de la cuota que corresponda entre las fijadas en los tres incisos anteriores.
+d).- (DEROGADO, P.O. 24 DE ENERO DE 1986)
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1986)</small>
 
-e).- Juego de placas para motocicletas, por un año 600.00
+e).- Juego de placas para motocicletas, por un año 2,000.00
 
-f).- Registro de cada vehículo que porte placas expedidad (sic) por otras entidades de la república o en el Extranjero, por un año 100.00
+f).- (DEROGADO, P.O. 24 DE ENERO DE 1986)
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1984)</small>
-
-g).- Revista Semestral por un año 175.00
+g).- (DEROGADO, P.O. 24 DE ENERO DE 1986)
 
 h).- Permiso provisional para la circulación de maquinaria agrícola y equipo móvil diversos a los previstos en los incisos anteriores, según sea el tamaño, de $ 15.00 a $ 30.00 diarios.
 
@@ -2749,15 +2649,25 @@ por viaje 100.00
 
 II.- Por cada licencia para manejar, por dos años:
 
-a).- Camiones y otros 250.00
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1986)</small>
 
-b).- Automóviles 200.00
+a).- Camiones y otros $ 3,000.00
 
-c).- Motocicletas 130.00
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1986)</small>
 
-III.- Por expedición de nueva tarjeta de circulación, por extravío, cambio de domicilio, cambio de características del vehículo o cualquier otra causa 50.00
+b).- Automóvil 2,500.00
 
-IV.- Por reposición de cada licencia para manejar $ 150.00
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1986)</small>
+
+c).- Motocicleta 1,500.00
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1986)</small>
+
+III.- Por expedición de nueva tarjeta de circulación por extravío, cambio de domicilio, cambio de característica del vehículo o cualquier otra causa $ 500.00
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1986)</small>
+
+IV.- Por reposición de cada licencia para manejar $ 1,000.00
 
 V.- Por cada examen y certificado médico para la expedición o refrendo de licencia para justificar el estado del conductor cuando sea necesario 75.00
 
@@ -2837,9 +2747,9 @@ XVI.- Por cada constancia que no esté comprendida en las fracciones anteriores,
 
 XVII.- Por expedición de bajas de placas 50.00
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1986)</small>
 
-XVIII.- Por cada placa de remolque, por dos años 2,000.00
+XVIII.- Por cada placa de remolque por seis años $ 6,000.00
 
 XIX.- Por cada estudio socio-económico que se efectúe de acuerdo con la Ley General de Tránsito, se cobrará una cuota de $ 600.00 a $ 5,000.00, considerando el costo del estudio.
 
@@ -5312,3 +5222,9 @@ P.O. 12 DE JUNIO DE 1985.
 ###### ARTICULO UNICO.
 
 Este Decreto empezará a surtir sus efectos al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa"
+
+P.O. 24 DE ENERO DE 1986.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
