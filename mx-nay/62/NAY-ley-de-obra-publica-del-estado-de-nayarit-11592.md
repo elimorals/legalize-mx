@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-obra-publica-del-estado-de-nayarit-11592"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-19"
-last_updated: "2002-09-28"
+last_updated: "2003-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE OBRA PUBLICA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2003.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit el Miércoles 19 de Abril de 1995.
 
@@ -173,9 +173,13 @@ XI.- Las demás previsiones que deban tomarse en cuenta según la naturaleza y c
 
 Las dependencias y entidades deberán remitir sus respectivos programas de obra pública a las Secretarías de Planeación y Desarrollo y la de Secretaría de Obras y Servicios Públicos en las fechas previstas por éstas, a efecto de incorporarlas a la planeación de desarrollo del Estado.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 15.
 
 Los proyectos deberán incluir las obras necesarias para que se preserven o restauren las condiciones ambientales cuando éstas pudieren deteriorarse, y se dará intervención a las dependencias o entidades que tengan atribución en la materia.
+
+De igual forma, deberá observarse la aplicación de la Norma Oficial Mexicana NOM-008-ENER 2001 de Eficiencia Energética en Edificaciones, Envolvente de Edificios No Residenciales, así como de las demás normas mexicanas que al efecto se emitan en ese rubro.
 
 ###### ARTICULO 16.
 
@@ -850,3 +854,7 @@ En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por 
 P.O. 28 DE SEPTIEMBRE DE 2002
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2003.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
