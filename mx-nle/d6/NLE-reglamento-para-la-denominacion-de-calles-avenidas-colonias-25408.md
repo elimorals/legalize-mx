@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-denominacion-de-calles-avenidas-colonias-254
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-05"
-last_updated: "2002-07-05"
+last_updated: "2002-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA DENOMINACION DE CALLES, AVENIDAS, COLONIAS, PLAZAS PUBLICAS, PARQUES, JARDINES, GIMNASIOS Y DEMAS BIENES DE USO COMUN Y PUBLICO DEL PATRIMONIO MUNICIPAL, Y NUMERACION DE FINCAS DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2002.
 
 Reglamento publicado en el Periódico Oficial del estado de Nuevo León, el viernes 5 de julio de 2002.
 
@@ -179,11 +179,15 @@ Las participaciones de los integrantes del Comité de Nomenclatura serán Honor�
 
 ### CAPITULO IV. DE LA NOMENCLATURA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2002)</small>
+
 ###### Articulo 11.
 
-Con relación a los nombres de Calles, Avenidas, Andadores, Jardines, Plazas, Gimnasios y demás bienes de Uso Común y de Propiedad Municipal, para su aprobación se tomarán en cuenta las siguientes disposiciones:
+Con relación a nombres de calles, Avenidas, Andadores, Jardines, Plazas Gimnasios y demás bienes de Uso Común y de Propiedad Municipal, para su aprobación se tomarán en cuenta las siguientes disposiciones:
 
-a).- Que el nombre propuesto no se repita con otro ya establecido.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE SEPTIEMBRE DE 2002)</small>
+
+a).- Que el nombre propuesto no se repita con otro ya establecido, aún cuando sean nombres en singular, plural, diminutivo o viceversa de los ya existentes.
 
 b).- Las calles o Avenidas no deberán tener otro nombre si es continuidad de la ya existente, procurando aplicar el mismo nombre a toda una Calle en su integridad.
 
@@ -290,3 +294,13 @@ C. Secretario del Ayuntamiento
 Lic. Trinidad Escobedo Aguilar
 
 RUBRICA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE SEPTIEMBRE DE 2002.
+
+PRIMERO: La presente adición entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se derogan las disposiciones Municipales que se opongan a lo dispuesto en la adición hecha al Reglamento mencionado con antelación.
+
+TERCERO: Por lo tanto solicito enviese para su publicación en el Periódico Oficial del Estado, por conducto de la Secretaría General de Gobierno.
