@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2001-11-30"
+last_updated: "2002-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 2002.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -725,7 +725,9 @@ Las Comisiones se compondrán:
 
 Las Permanentes con cinco Diputados y las especiales con tres mínimo y máximo cinco Diputados.
 
-En ningún caso un Diputado podrá formar parte de más de tres Comisiones Permanentes.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2002)</small>
+
+En ningún caso un Diputado podrá formar parte de más de cuatro Comisiones Permanentes..
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
@@ -1974,3 +1976,9 @@ El Reglamento del Instituto de Investigaciones Parlamentarias se deberá expedir
 ###### ARTÍCULO TERCERO.
 
 El Reglamento para el Servicio Civil de Carrera del H. Congreso del Estado se deberá expedir en un plazo de ciento ochenta días a partir de la publicación del presente decreto.
+
+P.O. 18 DE ENERO DE 2002.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
