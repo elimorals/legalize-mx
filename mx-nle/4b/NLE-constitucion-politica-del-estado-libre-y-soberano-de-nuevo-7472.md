@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1979-01-01"
+last_updated: "1979-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1979.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -43,11 +43,11 @@ Del Estado en General, Forma de Gobierno,
 
 Nuevoleoneses y Ciudadanos
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1960)</small>
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1979)</small>
 
 ###### Art. 28.
 
-El Estado de Nuevo León, comprende el territorio de lo que fué provincia del Nuevo Reyno de León, con los límites que marcan los convenios relativos con los Estados vecinos, y continúa dividido en las siguientes Municipalidades: Monterrey (Capital del Estado), Abasolo, Agualeguas, Anáhuac, Apodaca, Aramberri, Allende Bustamante, Cadereyta Jiménez, Carmen, Cerralvo, Ciénega de Flores, China, Dr. Arroyo, Dr. Coss, Dr. González, Galeana, García, Garza García, Gral. Bravo, Gral. Escobedo, Gral. Terán, Gral. Treviño, Zaragoza, Gral. Zuazua, Guadalupe, Higueras, Hualahuises, Iturbide, Juárez, Lampazos de Naranjo, Linares, Los Ramones, Los Aldamas, Los Herreras, Marín, Melchor Ocampo, Mier y Noriega, Mina, Montemorelos, Parás, Pesquería, Rayones, Sabinas Hidalgo, Salinas Victoria, San Nicolás Hidalgo (sic), San Nicolás de los Garza, Santa Catarina, Santiago, Vallecillo, Villaldama, y la Congregación de Colombia y con las demás Municipalidades que se formen en lo sucesivo.
+El Estado de Nuevo León comprende el territorio de lo que fué provincia del Nuevo Reyno de León, con los límites que marcan los convenios relativos con los Estados vecinos, y continúa dividido en las siguientes municipalidades: Monterrey (Capital del Estado) Abasolo, Agualeguas, Anáhuac, Apodaca, Aramberri, Allende, Bustamante, Cadereyta Jiménez, Carmen, Cerralvo, Ciénega de Flores, China, Dr. Arroyo, Dr. Coss, Dr. González, Galeana, García, Garza García, Gral. Bravo, Gral. Escobedo, Gral. Terán, Gral. Treviño, Gral. Zaragoza, Gral. Zuazua, Guadalupe, Higueras, Iturbide, Juárez, Lampazos de Naranjo, Linares, Los Ramones, Los Aldamas, Los Herreras, Marín, Melchor Ocampo, Mier y Noriega, Mina, Montemorelos, Parás, Pesquería, Rayones, Sabinas Hidalgo, Salinas Victoria, Hidalgo, San Nicolás de los Garzas, Santa Catarina, Santiago, Vallecillo y Villaldama y con las demás Municipalidades que se formen en lo sucesivo.
 
 ###### Art. 29.
 
@@ -607,7 +607,7 @@ El Gobernador será electo cada seis años y tomará posesión de su cargo el d�
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
 
-El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar el cargo, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
+El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar el cargo ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
 
@@ -1622,3 +1622,7 @@ P.O. 1 DE ENERO DE 1979.
 DECRETO NÚMERO 205.
 
 UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ENERO DE 1979.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial; y a partir de esa fecha la antigua Congregación de Colombia quedará integrada al Municipio de Anáhuac.
