@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-educacion-de-aguascalientes-antes-ley-2662
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-07"
-last_updated: "2000-01-31"
+last_updated: "2003-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2003.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -147,41 +147,39 @@ V.- Expedir los nombramientos del personal y llevar las relaciones laborales de 
 
 VI.- Planear, dirigir y controlar el funcionamiento del organismo en base a las instrucciones del Consejo Interior, por cuyo acuerdo podrá suscribir contratos y/o convenios con las dependencias federales, promover la participación de los padres de familia y los sectores sociales, en apoyo a los planteles educativos y supervisar y evaluar la operación de los mismos.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 11.
 
-Como auxiliares inmediatos del Director General existirán en el organismo las siguientes Direcciones y Unidades de Apoyo:
+Como auxiliares inmediatos del Director General existirán en el Organismo las siguientes Direcciones, Subdirecciones, Unidad y Coordinaciones de Apoyo:
 
-I.- Dirección de Planeación y Evaluación Educativa;
+I.- Dirección de Planeación y Evaluación;
 
 II.- Dirección de Educación Básica;
 
 III.- Dirección de Educación Media y Superior;
 
-IV.- Dirección Jurídica (se crea la Subdirección de Profesiones);
+IV.- Subdirección de Programas Compensatorios;
 
-V.- Dirección Administrativa;
+V.- Dirección Jurídica;
 
-VI.- Dirección de Participación Social;
+VI.- Dirección de Finanzas y Administración;
 
-VII.- Dirección de Finanzas;
+VII.- Dirección de Participación Social;
 
 VIII.- Dirección de Formación, Actualización, Capacitación y Superación Profesional del Magisterio;
 
-IX.- Dirección del Sistema Estatal de Becas;
+IX.- Dirección de Becas y Financiamiento Educativo;
 
-X.- Unidad de Contraloría Interna;
+X.- Dirección de Comunicación Social;
 
-XI.- Unidad de Información y Difusión;
+XI.- Unidad de Contraloría Interna;
 
-XII.- Unidad de Documentación y Análisis;
+XII.- Coordinación de Formación Valoral; y
 
-XIII.- Unidad de Giras;
+XIII.- Coordinación de Relaciones Públicas;
 
-XIV.- Unidad de Vinculación Institucional.
-
-Los servidores públicos responsables, así como los Jefes de los Departamentos dependientes de estas áreas serán nombrados por el Consejo Interior del Instituto.
+El Consejo Interior en el ámbito de su competencia tendrá a bien determinar las oficinas que dependan del organigrama previsto en el presente artículo que resulten suficientes y necesarios para la prestación del servicio educativo.
 
 ###### ARTICULO 12.
 
@@ -310,3 +308,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se oponen al presente Decreto.
+
+P.O. 17 DE FEBRERO DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
