@@ -4,7 +4,7 @@ identifier: "COL-codigo-fiscal-del-estado-de-colima-3949"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-26"
-last_updated: "2003-01-15"
+last_updated: "2003-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 CODIGO FISCAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2003.
+> <small>N. DE E. EL PRESENTE CODIGO HA SIDO ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE COLIMA, PUBLICADO EN EL PERIODICO OFICIAL EL 4 DE OCTUBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL. ABROGADO.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1981.
 
@@ -1844,3 +1846,17 @@ UNICO.- El presente decreto entrará en vigor el día siguiente de su expedició
 P.O. 15 DE ENERO DE 2003.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE OCTUBRE DE 2003.
+
+###### ARTÍCULO PRIMERO
+
+El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO
+
+Se abroga el Código Fiscal del Estado expedido el 23 de diciembre de 1981, publicado en el Periódico Oficial El Estado de Colima el 26 de diciembre del mismo año y demás disposiciones fiscales que se opongan al presente Código.
+
+###### ARTÍCULO TERCERO
+
+Los procedimientos y recursos que se estén tramitando a la entrada en vigor de este ordenamiento, se seguirán substanciando conforme a las disposiciones del Código anterior hasta su conclusión.
