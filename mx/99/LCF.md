@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "2002-03-13"
+last_updated: "2003-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 2003.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 27 de diciembre de 1978.
 
@@ -188,9 +188,9 @@ La cantidad que a cada entidad federativa corresponda en la parte del Fondo Gene
 
 Los impuestos asignables a que se refiere este artículo, son los impuestos federales sobre tenencia o uso de vehículos, especial sobre producción y servicios y sobre automóviles nuevos.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2003)</small>
 
-La Secretaría de Hacienda y Crédito Público tiene la obligación de publicar en el Diario Oficial de la Federación el calendario de entrega, porcentaje y monto, estimados, que recibirá cada Entidad Federativa del fondo general y del fondo de fomento municipal, para cada ejercicio fiscal a más tardar el 31 de enero del ejercicio de que se trate.
+La Secretaría de Hacienda y Crédito Público tiene la obligación de publicar en el Diario Oficial de la Federación el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como el monto, estimados, que recibirá cada Entidad Federativa del fondo general y del fondo de fomento municipal, para cada ejercicio fiscal a más tardar el 31 de enero del ejercicio de que se trate.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -268,9 +268,9 @@ La Federación entregará las participaciones a los municipios por conducto de l
 
 Los municipios recibirán como mínimo el 20% de la recaudación que corresponda al Estado en los términos del penúltimo y último párrafos del artículo 2o. de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2003)</small>
 
-Las participaciones serán cubiertas en efectivo, no en obra, sin condicionamiento alguno y no podrán ser objeto de deducciones, salvo lo dispuesto en el artículo 9o. de esta Ley. Los Gobiernos de las Entidades, quince días después de que la Secretaría de Hacienda y Crédito Público publique en el Diario Oficial de la Federación el calendario de entrega, porcentaje y monto, estimados a que está obligada conforme al penúltimo párrafo del artículo 3o. de esta Ley, deberán publicar en el Periódico Oficial de la Entidad los mismos datos antes referidos, de las participaciones estimadas que entregarán a los Municipios o Demarcaciones Territoriales, derivadas de las participaciones que las Entidades reciban y de las que tengan obligación de participar a sus Municipios o Demarcaciones Territoriales. También deberán publicar trimestralmente el importe de las participaciones entregadas y, en su caso, el ajuste realizado al término de cada ejercicio fiscal. La Secretaría de Hacienda y Crédito Público publicará en el Diario Oficial de la Federación la lista de las Entidades que incumplan con esta disposición.
+Las participaciones serán cubiertas en efectivo, no en obra, sin condicionamiento alguno y no podrán ser objeto de deducciones, salvo lo dispuesto en el artículo 9 de esta Ley. Los Gobiernos de las Entidades, quince días después de que la Secretaría de Hacienda y Crédito Público publique en el Diario Oficial de la Federación el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como el monto, estimados, a que está obligada conforme al penúltimo párrafo del artículo 3 de esta Ley, deberán publicar en el Periódico Oficial de la Entidad los mismos datos antes referidos, de las participaciones que las Entidades reciban y de las que tengan obligación de participar a sus Municipios o Demarcaciones Territoriales. También deberán publicar trimestralmente el importe de las participaciones entregadas y, en su caso, el ajuste realizado al término de cada ejercicio fiscal. La Secretaría de Hacienda y Crédito Público publicará en el Diario Oficial de la Federación la lista de las Entidades que incumplan con esta disposición.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -330,11 +330,21 @@ El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Públ
 
 En el reglamento que expida el Ejecutivo Federal se señalarán los requisitos para el registro de las obligaciones de Entidades y Municipios.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2003)</small>
 
-###### ARTICULO 9o-A.
+###### ARTICULO 9o.-A.
 
-La Federación, a través de la Secretaría de Hacienda y Crédito Público, los Estados y los Municipios en donde existan puentes de peaje operados por la primera, podrán convenir en crear fondos cuyos recursos se destinen a la construcción, mantenimiento, reparación y ampliación de obras de vialidad en aquellos municipios donde se ubiquen dichos puentes o, en su caso, a la realización de obras de infraestructura o gasto de inversión, sin que en ningún caso tales recursos se destinen al gasto corriente. La aportación a los fondos mencionados se hará por el Estado, por el Municipio o, cuando así lo acordaren, por ambos, en un 20% del monto que aporte la Federación, sin que la aportación de ésta exceda de un 25% del monto total de los ingresos que obtenga por la operación del puente de peaje de que se trate. La aportación Federal se distribuirá en partes iguales entre el Estado y el Municipio correspondiente, destinando el Estado al mismo fin estos recursos en cualquiera de los municipios de la entidad.
+La Federación, a través de la Secretaría de Hacienda y Crédito Público, y los estados y municipios en donde existan puentes internacionales de peaje operados por la primera, podrán convenir en crear fondos cuyos recursos se destinen a la construcción, mantenimiento, reparación y ampliación de obras de vialidad en aquellos municipios donde se ubiquen dichos puentes o, en su caso, a la realización de obras de infraestructura o gasto de inversión, de impacto regional directamente en la zona donde se encuentre el cobro del peaje, sin que en ningún caso tales recursos se destinen al gasto corriente.
+
+La aportación a los fondos mencionados se hará por el Estado, por el Municipio o, cuando así lo acordaren, por ambos, en un 20% del monto que aporte la Federación, sin que la aportación de ésta exceda de un 50% del monto total de los ingresos que obtenga por la operación del puente de peaje de que se trate. La aportación Federal se distribuirá como sigue: Municipios 50% y Estados 50%.
+
+Para que un Municipio en donde exista un puente internacional, o varios, pueda ser sujeto de participación de estos fondos, deberá acreditar un nivel recaudatorio de al menos un 50% más uno de la base gravable total de su impuesto predial en el año inmediato anterior a la firma del convenio; en su defecto, podrá convenir un Acuerdo de Mejora Recaudatoria de la Hacienda Pública Local con la Federación, para poder aplicar a la creación de estos fondos en el ejercicio fiscal siguiente, siempre y cuando cumpla con el requisito de recaudación señalado con anterioridad.
+
+En el caso de que el nivel recaudatorio una vez firmado el convenio, se encuentre por debajo del 50%, la cantidad de recursos se verá reducida de manera proporcional a la disminución porcentual del nivel recaudatorio. Si en el momento de firmar nuevamente el convenio, el Municipio se encuentra en este supuesto, no será sujeto de refrendo el convenio citado hasta no cumplir nuevamente con el nivel recaudatorio exigido y hasta el próximo ejercicio fiscal.
+
+El aforo vehicular de los puentes internacionales, estará sujeto a las disposiciones aplicables de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+
+Lo señalado en el presente artículo no será aplicable tratándose de los puentes administrados por el Fideicomiso número 1936 del Fondo de Apoyo al Rescate Carretero.
 
 ### CAPITULO II. Del Sistema Nacional de Coordinación Fiscal
 
@@ -996,7 +1006,9 @@ a).- Con el 2.35% de la recaudación federal participable a que se refiere el ar
 
 b).- Al Distrito Federal y a sus Demarcaciones Territoriales, los fondos correspondientes les serán entregados en la misma forma que al resto de los Estados y Municipios, pero calculados como el 0.2123% de la recaudación federal participable, según estimación que de la misma se realice en el propio presupuesto, con base en lo que al efecto establezca la Ley de Ingresos de la Federación para ese ejercicio.
 
-Al efecto, los Gobiernos Estatales y del Distrito Federal deberán publicar en sus respectivos órganos oficiales de difusión los montos que corresponda a cada Municipio o Demarcación Territorial por concepto de este Fondo, así como el calendario de ministraciones, a más tardar el 31 de enero de cada año.
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2003)</small>
+
+Al efecto, los Gobiernos Estatales y del Distrito Federal deberán publicar en su respectivo Periódico Oficial las variables y fórmulas utilizadas para determinar los montos que correspondan a cada Municipio o Demarcación Territorial por concepto de este Fondo, así como el calendario de ministraciones, a más tardar el 31 de enero de cada año.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -1589,3 +1601,19 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente ordenamiento.
 
 Artículo Tercero.- En relación con la reforma a que se refiere el ARTICULO TERCERO del presente Decreto, los asuntos relativos a las responsabilidades administrativas, civiles y penales en que hubieren incurrido las autoridades locales o municipales, con motivo de la desviación de recursos federales recibidos y que se encuentren en trámite o pendientes de resolución, deberán sustanciarse de conformidad con las disposiciones vigentes al momento en que se cometió la irregularidad.
+
+D.O.F. 14 DE JULIO DE 2003.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 3, 6 Y 36 DE LA LEY DE COORDINACION FISCAL.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- A partir del ejercicio fiscal 2004, los Estados deberán hacer los cambios pertinentes a los lineamientos que rigen a los Periódicos Oficiales, a efecto de dar cumplimiento a lo estipulado en el artículo 36 de esta Ley.
+
+D.O.F. 14 DE JULIO DE 2003.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 9-A DE LA LEY DE COORDINACION FISCAL.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Para los convenios que se firmen a partir de la fecha de publicación de este Decreto en el Diario Oficial de la Federación, se tomará como base de medición del nivel recaudatorio, el mostrado en el año inmediato anterior a la firma del mismo.
