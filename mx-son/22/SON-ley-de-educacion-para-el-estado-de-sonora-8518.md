@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "1994-12-30"
+last_updated: "2004-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACION PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE JULIO DE 2004.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -191,6 +191,10 @@ IV.- Prestar los servicios de formación, actualización, capacitación y supera
 
 V.- Revalidar y otorgar equivalencias de estudios, de educación primaria, secundaria, normal y demás para la formación de maestros de educación básica, así como de los demás tipos educativos que se impartan en la Entidad, de acuerdo con los lineamientos generales que la Secretaría de Educación Pública expida;
 
+> <small>(ADICIONADA, B.O. 19 DE JULIO DE 2004)</small>
+
+V Bis.- Emitir las disposiciones relativas a la operación y funcionamiento de Sistema Estatal de Evaluación Educativa, en congruencia con lo establecido en la Ley General, esta Ley y demás disposiciones aplicables;
+
 VI.- Otorgar, negar y revocar autorización a los particulares para impartir educación primaria, secundaria, normal y demás para la formación de maestros de educación básica; así como otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos a los expresados con antelación, de acuerdo con el procedimiento estipulado en el capítulo correspondiente de esta ley;
 
 VII.- Editar libros y producir otros materiales didácticos, distintos de los señalados en la fracción III del artículo 12 de la Ley General;
@@ -204,6 +208,10 @@ X.- Impulsar el desarrollo de la enseñanza tecnológica y de la investigación 
 XI.- Fomentar y difundir las actividades artísticas; culturales y físico-deportivas en todas sus manifestaciones;
 
 XII.- Implantar un sistema de estímulos y recompensas, para los maestros que realicen obras trascendentes, en el ámbito educativo, o en beneficio de la comunidad;
+
+> <small>(ADICIONADA, B.O. 19 DE JULIO DE 2004)</small>
+
+XII Bis.- Promover, conjuntamente con los sectores público, social y privado, la constitución de un fondo para apoyar a las instituciones del Sistema Educativo Estatal obligadas a instrumentar programas de mejoramiento del desempeño escolar, así como para otorgar reconocimientos a aquellas instituciones educativas que hubiesen obtenido los resultados más altos en las evaluaciones educativas.
 
 XIII.- Distribuir geográficamente los servicios educativos, procurando beneficiar al mayor número de educandos, atendiendo a la demanda educativa y a la capacidad instalada;
 
@@ -309,7 +317,7 @@ Dicho sistema también incluye, además, la educación inicial, la educación es
 
 ###### ARTICULO 29.
 
-La educación de tipo básico está compuesta por el nivel preescolar, el de primaria y el de secundaria, la educación preescolar no constituye requisito previo a la primaria.
+La educación de tipo básico está compuesta por el nivel preescolar, el de primaria y el de secundaria, la educación preescolar no constituye requisito previó a la primaria.
 
 El tipo medio superior comprende el nivel de bachillerato, los demás niveles equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalentes.
 
@@ -367,11 +375,43 @@ Los planes y programas que determine la Secretaria de Educación Pública, así 
 
 Los planes y programas que conforme a la Ley General y a la presente ley, correspondan al Gobierno del Estado, se elaborarán de acuerdo a las finalidades establecidas por los ordenamientos expresados con antelación.
 
+> <small>(REFORMADO, B.O. 19 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 40.
 
-La Secretaría establecerá un sistema que permita evaluar adecuadamente el Sistema Educativo, de conformidad con los lineamientos que emita la Secretaria de Educación Pública.
+La Secretaría evaluará el Sistema Educativo de acuerdo a esta Ley, la Ley General, y demás disposiciones aplicables, a efecto de conocer el desempeño de cada institución educativa en el Estado, tanto oficiales como incorporadas, de tipo básico, medio superior y superior, salvo aquéllas consideradas autónomas conforme la ley, y utilizar la información emanada de la evaluación para la detección de necesidades y áreas de oportunidad a fin de propiciar la mejora continua de estas instituciones.
 
-Las instituciones educativas establecidas por el Estado, sus organismos descentralizados, los Ayuntamientos y por los particulares con autorización o reconocimineto (sic) de validez oficial de estudios, otorgarán a las autoridades educativas todas las facilidades y colaboración necesarias para la evaluación en los términos a que se refiere la Ley General y la presente ley.
+El Sistema Estatal de Evaluación Educativa comprenderá:
+
+I.- La aplicación de cuando menos una prueba anual y estandarizada a los alumnos de las instituciones educativas. Estas pruebas deberán comprender como mínimo la evaluación de todas las materias o asignaturas que integren el plan de estudios vigente.
+
+II.- La recopilación de datos relacionados con indicadores de las instituciones educativas, tanto oficiales como incorporadas, integrantes del sistema educativo estatal, así como de la información sociodemográfica de sus alumnos bajo los criterios de objetividad, veracidad e imparcialidad.
+
+III.- La construcción de estándares de desempeño escolar, mediante la aplicación de fórmulas que ponderen como mínimo los factores señalados en las fracciones anteriores, a efecto de que la autoridad pueda ubicar a las instituciones educativas, según sus resultados y considerando su confirmación, región socioeconómica y características particulares, dentro de alguna de las categorías siguientes:
+
+a) Escuela de excelencia;
+
+b) Escuela sobresaliente;
+
+c) Escuela estándar; y
+
+> <small>(F. DE E., B.O. 23 DE AGOSTO DE 2004)</small>
+
+d) Escuela debajo del estándar.
+
+IV.- La conformación y operación de equipos de atención integrados por profesionales en materia educativa, para apoyar a las instituciones educativas a efecto de que eleven su categoría de desempeño, de acuerdo a los programas de mejoramiento que presenten, en los términos de esta Ley.
+
+V.- El establecimiento de un Consejo Estatal de participación social y transparencia de los procesos de evaluación y mejoramiento de las instituciones educativas como instancia de consulta, colaboración, apoyo e información en la que se asegurará la participación de padres de familia y sus asociaciones, maestros y su organización sindical, autoridades educativas y personas o representantes de instituciones interesados en educación.
+
+VI.- El otorgamiento de un premio estatal a la calidad educativa mediante el cual se reconozcan las instituciones educativas que obtuvieron los resultados más altos en la evaluación, así como a aquéllas que incrementaron en mayor medida los resultados del ciclo anterior.
+
+VII.- La publicación del informe de resultados de la evaluación educativa, a través de los medios que se consideren idóneos.
+
+Para la operación del sistema Estatal de Evaluación Educativa, la Secretaría podrá apoyarse en los organismos evaluadores constituidos conforme a la normatividad vigente en la materia.
+
+Las instituciones educativas que no estuvieren conformes con la evaluación realizada, podrán solicitar una segunda evaluación cuyos resultados serán definitivos.
+
+La Secretaría podrá imponer a las instituciones educativas ubicadas en la categoría a que se refiere el inciso d) de la fracción III, la aplicación de programas de mejoramiento con el fin de elevar su desempeño escolar.
 
 ###### ARTICULO 41.
 
@@ -425,19 +465,31 @@ La Secretaría publicará en el Boletín oficial del Gobierno del Estado, una re
 
 Los particulares que impartan estudios con autorización o con reconocimiento, deberán mencionar en la documentación que expidan y en la publicidad que hagan, una leyenda que indique su calidad de incorporados, el número y fecha del acuerdo respectivo, así como la autoridad que lo otorgó.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 47.
 
-Los particulares que impartan educación con autorización o con reconocimiento de validez oficial de estudios deberán:
+Los particulares que impartan educación con autorización o con reconocimiento de validez oficial de estudios tendrán las siguientes obligaciones:
 
 I.- Cumplir con lo dispuesto en el artículo tercero de la Constitución, en la Ley General y en la presente ley;
 
-II.- Cumplir con los planes y programas de estudio que las autoridades competentes hayan determinado o considerado procedentes;
+> <small>(REFORMADA, B.O. 19 DE JULIO DE 2004)</small>
+
+II. Cumplir con los planes y programas de estudio que las autoridades competentes hayan determinado o considerado procedentes, así como, en su caso, con los programas de mejoramiento a que se refiere el artículo 40 de la presente Ley;
 
 III.- Proporcionar un mínimo de becas, en los términos de los lineamientos generales que la Secretaría determine y demás disposiciones aplicables;
 
-IV.- Cumplir con los requisitos previstos en el artículo 45, de esta ley; y
+> <small>(REFORMADA, B.O. 19 DE JULIO DE 2004)</small>
 
-V.- Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia que la Secretaría realice y ordene.
+IV. Cumplir con los requisitos previstos en el artículo 45, de esta Ley;
+
+> <small>(REFORMADA, B.O. 19 DE JULIO DE 2004)</small>
+
+V. Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia que la Secretaría realice y ordene; y
+
+> <small>(ADICIONADA, B.O. 19 DE JULIO DE 2004)</small>
+
+VI. Las demás que les imponga esta Ley y demás disposiciones aplicables.
 
 ###### ARTICULO 48.
 
@@ -763,13 +815,17 @@ IV.- Antes de concluir el acta se le hará saber a la persona con la que se enti
 
 Además, se le comunicará a la persona con la que se entienda la diligencia que la institución visitada tiene un plazo de quince días naturales para comparecer por conducto de su representante legal, ante la autoridad que ordenó la visita, para ofrecer pruebas y exponer los alegatos y observaciones que considere oportunas.
 
+> <small>(REFORMADO, B.O. 19 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 85.
 
-Una vez que el representante legal del establecimiento visitado comparezca ante la autoridad que ordenó la visita o transcurridos los quince días a que se refiere el artículo anterior, sin que haya comparecido, la autoridad competente procederá a dictar la resolución que corresponda. En caso de que en la resolución se imponga alguna de las sanciones previstas en esta ley, deberá estar debidamente fundada y motivada y podrá, en primer término, otorgar un plazo a la institución para que corrija las anomalías que se hayan encontrado, o bien sancionar las infracciones detectadas tomando en cuenta todas aquellas circunstancias que se asentaron en el acta de visita y las que se deriven de los alegatos formulados y de los documentos presentados por el representante legal de la institución.
+Una vez que el representante legal del establecimiento visitado comparezca ante la autoridad que ordenó la visita o transcurridos los quince días a que se refiere el artículo anterior, sin que haya comparecido, la autoridad competente procederá a dictar la resolución que corresponda, tomando en cuenta todas aquellas circunstancias que se asentaron en el acta de visita, así como las que se deriven de los alegatos formulados y de los documentos presentados por el representante legal de la institución. En dicha resolución podrá establecerse un plazo a la institución educativa para que corrija las anomalías que se hubieren encontrado con la visita.
+
+> <small>(REFORMADO, B.O. 19 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 86.
 
-Para determinar la sanción se considerarán las circunstancias en que se cometió la infracción, los daños y perjuicios que se hayan producido o puedan producirse a los educandos, la gravedad de la infracción, las condiciones socio-económicas del infractor, el carácter de intencional o no de la infracción y sí se trata de reincidencia.
+La resolución en la que se impongan sanciones deberá estar debidamente fundada y motivada y en la determinación de éstas se considerarán las circunstancias en que se cometió la infracción, los daños y perjuicios, la gravedad de la infracción, las condiciones socioeconómicas del infractor, el carácter de intencional o no de la infracción y si se trata de reincidencia, observando en todo caso lo dispuesto en el último párrafo del artículo 81 de la presente ley.
 
 ###### ARTICULO 87.
 
@@ -850,3 +906,25 @@ Las autoridades competentes respetarán íntegramente los derechos de los trabaj
 Comuníquese al Ejecutivo para su sanción y promulgación.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, a 29 de diciembre de 1994.- DIPUTADO PRESIDENTE.- ROBERTO DIAZ GALLARDO.- RUBRICA.- DIPUTADO SECRETARIO.- LIC. MARIA DEL ROSARIO OROZ IBARRA.- RUBRICA.- DIPUTADO SECRETARIO.- RAUL ROMERO FONTES.- RUBRICA.-
 
 POR TANTO MANDO (sic), mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento.- PALACIO DE GOBIERNO, Hermosilo (sic), Sonora, a veintinueve de diciembre de mil novecientos noventa y cuatro.- SUFRAGIO EFECTIVO. NO REELECCION. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. MANLIO FABIO BELTRONES RIVERA. RUBRICA.- EL SECRETARIO DE GOBIERNO. LIC. ROBERTO SANCHEZ CEREZO.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 19 DE JULIO DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El Presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La primera evaluación general del sistema educativo estatal se practicará al ciclo escolar 2004-2005.
+
+Antes de que se practique la evaluación general a que se refiere el párrafo anterior, la Secretaria podrá llevar a cabo evaluaciones piloto en diversas instituciones, sin que los resultados de las mismas produzcan efectos respecto a lo dispuesto en el presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Las pruebas a que se refiere el artículo 40, fracción I de esta Ley se iniciarán con base en aquellas materias o asignaturas consideradas por la autoridad educativa como de mayor impacto en la formación del educando, procurándose que en menor tiempo posible y en todo caso no después del ciclo 2006-2007, las pruebas de referencia incluyan todas y cada una de las materias o asignaturas comprendidas en los planes de estudio respectivos.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
