@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "1999-12-31"
+last_updated: "2000-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE OCTUBRE DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 3 de septiembre de 1999.
 
@@ -476,53 +476,81 @@ e) Las demás que se derivan de esta ley y de los ordenamientos relativos.
 
 1. Las Comisiones son órganos constituidos por el Pleno, que a través de la elaboración de dictámenes, informes, opiniones o resoluciones, contribuyen a que la Cámara cumpla sus atribuciones constitucionales y legales.
 
-2. La Cámara de Diputados cuenta con comisiones ordinarias que se mantienen de Legislatura a Legislatura, y son las siguientes:
+> <small>(REFORMADO, D.O.F. 9 DE OCTUBRE DE 2000)</small>
 
-I. Agricultura, Ganadería y Desarrollo Rural;
+2. La Cámara de Diputados cuenta con comisiones ordinarias que se mantienen de legislatura a legislatura y son las siguientes:
 
-II. Asuntos Indígenas;
+I. Agricultura y Ganadería
 
-III. Atención a Grupos Vulnerables;
+II. Asuntos Indígenas
 
-IV. Comercio y Fomento Industrial;
+III. Atención a Grupos Vulnerables
 
-V. Comunicaciones y Transportes;
+IV. Ciencia y Tecnología
 
-VI. Defensa Nacional;
+V. Comercio y Fomento Industrial
 
-VII. Desarrollo Social y Vivienda;
+VI. Comunicaciones
 
-VIII. Educación Pública, Cultura y Ciencia y Tecnología;
+VII. Cultura
 
-IX. Energía;
+VIII. Defensa Nacional
 
-X. Equidad y Género;
+IX. Desarrollo Rural
 
-XI. Fomento Cooperativo y Economía Social;
+X. Desarrollo Social
 
-XII. Gobernación, Población y Seguridad Pública;
+XI. Educación Pública y Servicios Educativos
 
-XIII. Hacienda y Crédito Público;
+XII. Energía
 
-XIV. Justicia y Derechos Humanos;
+XIII. Equidad y Género
 
-XV. Marina;
+XIV. Fomento Cooperativo y Economía Social
 
-XVI. Medio Ambiente, Recursos Naturales y Pesca;
+XV. Fortalecimiento del Federalismo
 
-XVII. Presupuesto y Cuenta Pública;
+XVI. Gobernación y Seguridad Pública
 
-XVIII. Puntos Constitucionales y Sistema Federal;
+XVII. Hacienda y Crédito Público
 
-XIX. Reforma Agraria;
+XVIII. Justicia y Derechos Humanos
 
-XX. Relaciones Exteriores;
+XIX. Juventud y Deporte
 
-XXI. Salud y Seguridad Social;
+XX. Marina
 
-XXII. Trabajo y Previsión Social; y
+XXI. Medio Ambiente y Recursos Naturales
 
-XXIII. Turismo.
+XXII. Participación Ciudadana
+
+XXIII. Pesca
+
+XXIV. Población, Fronteras y Asuntos Migratorios
+
+XXV. Presupuesto y Cuenta Pública
+
+XXVI. Puntos Constitucionales
+
+XXVII. Radio, Televisión y Cinematografía
+
+XXVIII. Recursos Hidráulicos
+
+XXIX. Reforma Agraria
+
+XXX. Relaciones Exteriores
+
+XXXI. Salud
+
+XXXII. Seguridad Social
+
+XXXIII. Trabajo y Previsión Social
+
+XXXIV. Transportes
+
+XXXV. Turismo
+
+XXXVI. Vivienda
 
 3. Las comisiones ordinarias establecidas en el párrafo anterior, tienen a su cargo tareas de dictamen legislativo, de información y de control evaluatorio conforme a lo dispuesto por el párrafo primero del artículo 93 constitucional, y su competencia se corresponde en lo general con las otorgadas a las dependencias y entidades de la Administración Pública Federal.
 
@@ -556,7 +584,9 @@ c) Impulsar y realizar los estudios que versen sobre disposiciones normativas, r
 
 ###### ARTICULO 43.
 
-1. Las comisiones ordinarias se constituyen durante el primer mes de ejercicio de la Legislatura, tendrán hasta treinta miembros y el encargo de sus integrantes será por el término de la misma. Ningún diputado pertenecerá a más de dos de ellas; para estos efectos, no se computará la pertenencia a las comisiones jurisdiccional y a las de investigación.
+> <small>(REFORMADO, D.O.F. 9 DE OCTUBRE DE 2000)</small>
+
+1. Las comisiones ordinarias se constituyen durante el primer mes de ejercicio de la legislatura, tendrán hasta treinta miembros y el encargo de sus integrantes será por el término de la misma. Los diputados podrán pertenecer hasta tres de ellas; para estos efectos, no se computará la pertenencia a las comisiones jurisdiccional y las de investigación.
 
 2. Para la integración de las comisiones, la Junta de Coordinación Política tomará en cuenta la pluralidad representada en la Cámara y formulará las propuestas correspondientes, con base en el criterio de proporcionalidad entre la integración del Pleno y la conformación de las comisiones.
 
@@ -1763,3 +1793,9 @@ México, D.F., a 31 de agosto de 1999.- Sen. Ignacio Vázquez Torres, Presidente
 D.O.F. 31 DE DICIEMBRE DE 1999.
 
 ÚNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE OCTUBRE DE 2000.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
