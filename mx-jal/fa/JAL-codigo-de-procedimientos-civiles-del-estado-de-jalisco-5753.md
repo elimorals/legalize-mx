@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2002-11-28"
+last_updated: "2003-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -158,11 +158,13 @@ Las acciones del estado civil fundadas en la posesión de estado, surtirán el e
 
 Las acciones personales se deducirán para exigir el cumplimiento de una obligación personal ya sea de dar, de hacer o no hacer determinado acto.
 
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994) (F. DE E., P.O. 26 DE ENERO DE 1995)
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 23.
 
-El perjudicado por falta de título legal tiene acción para exigir que el obligado le extienda el documento correspondiente, siempre no se trate de un acto solemne y alguna de esas partes lo hubiere cumplido de modo voluntario, aunque sea parcialmente con la aceptación de la otra. También en el caso de que la parte que no cumpla un contrato se rehuse a firmar el documento necesario para darle forma legal al mismo, la parte que sí cumplió tendrá acción para exigir que el obligado extienda el documento correspondiente.
+El perjudicado por falta de título legal tiene acción para exigir que el obligado le extienda el documento correspondiente, siempre que no se trate de un acto solemne y alguna de esas partes lo hubiere cumplido de modo voluntario, aunque sea parcialmente con la aceptación de la otra, también en el caso de que la parte que no cumpla un contrato se rehuse a firmar el documento necesario para darle forma legal al mismo, la parte que sí cumplió tendrá acción para exigir que el obligado extienda el documento correspondiente.
+
+Tratándose de contratos de enajenación, la acción procede si se acredita que la persona que transmitió el bien contaba con la legitimación legal suficiente.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
 
@@ -218,11 +220,15 @@ I.- Por prescripción o caducidad;
 
 II.- Por convenio o transacción de las partes interesadas;
 
-III.- Por el cumplimiento voluntario de lo reclamado, antes de la sentencia definitiva o por haberse logrado el fin perseguido en el juicio o procedimiento respectivo;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+III.- Por el allanamiento, por el cumplimiento voluntario de lo reclamado, antes de la sentencia definitiva o por haberse logrado el fin perseguido en el juicio o procedimiento respectivo; y
 
 IV.- Por cualesquiera otra de las causas establecidas por la ley.
 
-Todo convenio o desistimiento deberá formularse por escrito debidamente ratificado, bien sea por el tribunal del conocimiento del negocio o ante fedatario público.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Todo allanamiento, convenio o desistimiento deberá formularse por escrito debidamente ratificado, bien sea por el tribunal del conocimiento del negocio o ante fedatario público.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -516,9 +522,17 @@ Comenzada una diligencia, podrá continuarse aún cuando hayan concluido los dí
 
 Salvo lo dispuesto en el artículo siguiente, todo escrito por el cual se inicie un procedimiento y los subsecuentes, incluyendo en el que se haga valer el recurso de apelación o queja, deberán ser presentados ante el propio juzgado.
 
-Los demás escritos relativos al recurso de apelación o queja, se presentarán ante la sala que conozca de los mismos.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-Los escritos que sean de término, podrán presentarse el día en que éste concluya fuera de las horas hábiles y hasta antes de las veinticuatro horas, en el domicilio del secretario designado para ello por el tribunal correspondiente.
+Tratándose de escritos subsecuentes, se deberá expresar el número de expediente del juicio de que se trate, así como nombre de quien lo suscribe.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Los demás escritos relativos al recurso de apelación o queja, se presentarán ante la sala que conozca de los mismos, señalando de manera clara, el número de toca correspondiente.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Los escritos que sean de término, podrán presentarse el día en que este concluya fuera de las horas hábiles y hasta antes de las veinticuatro horas en el domicilio del secretario designado para ello por el tribunal correspondiente.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -1124,31 +1138,37 @@ VII.- En los demás casos en que la ley o el juzgador así lo ordene.
 
 Cuando variare el personal de un tribunal, no se proveerá decreto haciendo saber el cambio, sino que al calce del primer proveído que se dictaré, después de ocurrido el cambio, se pondrán completos los nombres y apellidos de los nuevos servidores públicos. Sólo que el cambio ocurriese cuando el negocio esté pendiente de sentencia, se mandará hacer saber a las partes, mediante notificación personal.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 111.
 
-La primera notificación se hará personalmente al interesado o a su representante o procurador en el domicilio designado; y no encontrándolo el notificador, cerciorado de que allí vive, le dejará instructivo en el que hará constar la fecha y hora en que lo entregue, el nombre y apellido del promovente, el juez o tribunal que mande practicar la diligencia, la determinación que se mande notificar y el nombre y apellido de la persona a quien se entregue, recogiéndole la firma en el acta, o en su defecto razón de que se negó a hacerlo.
+La primera notificación se hará personalmente al interesado o a su representante o procurador en el domicilio designado; y no encontrándolo el notificador, cerciorado de que allí vive, le dejará instructivo en el que hará constar la fecha y hora en que lo entregue, el nombre y apellido del promovente, el juez o tribunal que mande practicar la diligencia, el número de expediente o toca, la determinación que se mande notificar y el nombre y apellido de la persona a quien se entregue, recogiéndole la firma en el acta, o en su defecto la razón por la que se negó a hacerlo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 112.
 
-Sólo si se trataré de emplazamiento a juicio o de requerimiento y a la primera busca no se encontrase al demandado, se le dejará citatorio para hora fija del día siguiente; y si no espera, se le hará la notificación por cédula, que contendrá:
+La diligencia de emplazamiento se realiza personalmente con el demandado; el servidor público judicial, deberá de cerciorarse de la identidad del mismo en la forma prevista por el artículo 70 de este código, o, dar fe de que lo conoce; haciendo constar en el acta esa circunstancia.
 
-I.- Nombre del servidor público que haya dictado la resolución;
+Si se trata de emplazamiento a juicio o de requerimiento y sólo si a la primera busca no se encuentra al demandado, se le dejará citatorio para hora fija del día siguiente; y si no espera, se le hará la notificación por cédula; en todo caso la notificación y la cédula contendrá:
 
-II.- El juicio en que se pronuncia y número de expediente;
+I. Nombre del servidor público que haya dictado la resolución;
 
-III.- Breve relación de la resolución que se notifica;
+II. El juicio en que se pronuncia y número de expediente;
 
-IV.- Día y hora en que se hace la notificación;
+III. Breve relación de la resolución que se notifica;
 
-V.- Nombre de la persona en poder de quien se deja;
+IV. Día y hora en que se hace la notificación;
 
-VI.- Firma del servidor público que practique la notificación y de quien la recibe o expresión de su negativa.
+V. Término para contestar la demanda o para cumplir el requerimiento;
+
+V. (sic) Nombre de la persona en poder de quien se deja; y
+
+VI. (sic) Firma del servidor público que practique la notificación y de quien la recibe o expresión de su negativa.
 
 Para el caso de que el interesado se niegue a recibir la notificación y en el supuesto de que las personas que residan en el domicilio se rehusen a recibir la cédula, ésta deberá fijarse en la puerta de entrada del domicilio y de ello se sentará razón en los autos, dejando copia simple de la demanda, de los documentos exhibidos con la misma y del auto que lo ordene, en los que se asentará la constancia prevista en el artículo anterior.
+
+> <small>(F. DE E., P.O. 29 DE ABRIL DE 2004)</small>
 
 Cuando la diligencia de emplazamiento se entienda personalmente con el demandado, el servidor público judicial, deberá de cerciorarse de la identidad del mismo en la forma prevista por el artículo 70 de éste código, o, dar fe de que lo conoce; haciendo contar (sic) en el acta esa circunstancia.
 
@@ -2932,35 +2952,41 @@ I. Los originales de las escrituras públicas otorgadas con arreglo a derecho y 
 
 II. Los documentos auténticos extendidos y autorizados por servidores públicos, en ejercicio de sus funciones y con motivo de éstos;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-III. Los documentos auténticos, libros de actas, estatutos, registros y catastros que se hallen en los archivos públicos o dependientes del Gobierno Federal, de los Estados, de los Ayuntamientos, del Departamento y de las Delegaciones del Distrito Federal;
+III. Los documentos auténticos extendidos y autorizados por notarios públicos, en ejercicio de sus funciones y con motivo de éstos;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-IV. Las certificaciones de actas del estado civil expedidas y autorizadas por los oficiales del Registro Civil, respecto de constancias existentes en los libros correspondientes;
+IV. Los documentos auténticos, libros de actas, estatutos, registros y catastros que se hallen en los archivos públicos o dependientes del Gobierno Federal, del Distrito Federal, de los Estados, y de los Municipios;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-V. Las certificaciones de constancias existentes en los archivos públicos expedidas y autorizadas por los servidores públicos a quienes competa;
+V. Las certificaciones de actas del estado civil expedidas y autorizadas por los oficiales del Registro Civil, respecto de constancias existentes en los libros correspondientes;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-VI. Las certificaciones de constancias existentes en los archivos parroquiales y que se refieran a actos pasados antes del establecimiento del Registro Civil o que hubieren sido destruidos o quemados, siempre que fueren cotejadas por notario público, con arreglo a derecho;
+VI. Las certificaciones de constancias existentes en los archivos públicos expedidas y autorizadas por los servidores públicos a quienes competa;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-VII. Las ordenanzas, estatutos, reglamentos y actas de organismos paraestatales, y de universidades, siempre que su establecimiento estuviere autorizado por el Gobierno Federal o de los Estados, y las copias certificadas que de ellos se expidieren;
+VII. Las certificaciones de constancias existentes en los archivos parroquiales y que se refieren a actos pasados antes del establecimiento del Registro Civil o que hubieren sido destruidos o quemados, siempre que fueren cotejadas por notario público, con arreglo a derecho;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-VIII. Las actuaciones judiciales de toda especie, debidamente autorizadas;
+VIII. Las ordenanzas, estatutos, reglamentos y actas de organismos paraestatales, y de universidades, siempre que su establecimiento estuviere autorizado por el Gobierno Federal o de los Estados, y las copias certificadas que de ellos se expidieren;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-IX. Los originales y las certificaciones que expidiesen y autorizasen las sociedades intermediarias en el mercado de valores, instituciones de crédito y organizaciones auxiliares del crédito autorizadas por la ley; y las extendidas por corredores habilitados, con arreglo a sus leyes respectivas y al Código de Comercio; y
+IX. Los originales y las certificaciones que expidan y autoricen las sociedades intermediarias en el mercado de valores, instituciones de crédito y organizaciones auxiliares del crédito autorizadas por la ley; y las extendidas por corredores habilitados, con arreglo a sus leyes respectivas y al Código de Comercio;
 
-X.- Los demás a que se le reconozca ese carácter por la ley.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+X. Las actuaciones judiciales de toda especie, debidamente autorizadas; y
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+XI. Los demás documentos a los que se les reconozca ese carácter por la ley.
 
 ###### ARTICULO 330.
 
@@ -3100,11 +3126,11 @@ Todas las cuestiones que se formulen deberán tener relación con los hechos con
 
 Los peritos deberán tener título en la ciencia o arte a que pertenezca el punto sobre el que ha de oírse su parecer, si aquellas estuvieran reglamentadas. En caso contrario o cuando no hubiere peritos en el lugar donde deba desahogarse la prueba pericial, podrán ser nombradas personas prácticas en la materia.
 
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994) (F. DE E., P.O. 29 DE JUNIO DE 1995)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 353.
 
-La parte que promueva la prueba pericial podrá nombrar al perito en el mismo escrito que la proponga; la contraria del oferente podrá enunciar la designación de su perito; ambas partes deberán informar los nombres de sus respectivos peritos, a más tardar cinco días hábiles antes de su desahogo. El perito designado por el juez debe tener aceptado el cargo en forma previa al desahogo de la pericial.
+La parte que promueva la prueba pericial, deberá designar al perito en el mismo escrito que la proponga, recabando la firma de aceptación y protesta del cargo conferido en los términos de ley; la contraria del oferente podrá anunciar la designación de su perito; el perito designado por el juez debe tener aceptado el cargo en forma previa al desahogo de la pericial.
 
 Promovida la prueba pericial, el juzgador calificará el cuestionario y aprobará sólo las cuestiones que se ajusten a lo dispuesto respecto de los mismos en éste capítulo.
 
@@ -3896,7 +3922,9 @@ Las sentencias que se dicten en los juicios sobre nulificación, anotación, rec
 
 El juez que pronuncie sentencia en los términos antes indicados, transcurrido el término que tienen las partes para apelar las mismas, remitirá los autos y documentos originales, a la sala que corresponda la revisión de su sentencia.
 
-Cuando no exista promovido recurso de apelación las revisiones se tramitarán y resolverán por la sala sin sustanciación alguna, en caso contrario, ésta la tramitará y resolverá juntamente con la apelación interpuesta.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Cuando no exista promovido recurso de apelación, las revisiones se tramitarán y resolverán por la sala sin sustanciación alguna dentro del término improrrogable de 30 días; en caso contrario, ésta la tramitará y resolverá juntamente con la apelación interpuesta.
 
 ###### ARTICULO 458.
 
@@ -5508,27 +5536,45 @@ V.- En caso de muerte del comodatario o cuando así lo solicite el comodante si 
 
 Para que surta efectos de oposición del arrendador a la continuación de la ocupación del inmueble por el arrendatario, la demanda en que se ejercite la acción de terminación de contrato por tiempo definido deberá presentarse dentro de los treinta días naturales siguientes al vencimiento del mismo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 685.
 
-Recibida la demanda en la que se reclame el pago de rentas vencidas con los documentos que justifiquen la celebración del arrendamiento, si lo pide el actor, el juez dictará auto con efectos de cateo disponiendo se requiera al demandado para que en el acto de la diligencia, compruebe con los documentos respectivos, estar al corriente en el pago de las rentas; y si no lo hiciera se le embarguen bienes bastantes para cubrir las pensiones y costas reclamadas y acto continuo se le emplazará.
+En cualquiera de los supuestos del artículo 683, el actor deberá acompañar a su escrito inicial de demanda, los documentos tendientes a la justificación de su acción y ofrecer los medios de convicción que considere oportunos. De la misma manera, al momento de la contestación de la demanda, la contraparte deberá aportar los medios de convicción pertinentes.
 
-Cuando no sea necesario conforme al Código Civil que el arrendamiento conste por escrito, o aun siéndolo, se hubiere cumplido voluntariamente sin otorgarse el documento respectivo, o éste se hubiere perdido, previamente se justificará la existencia del contrato por cualesquiera de los medios de prueba que autoriza este código, y una vez acreditada, el juez procederá como se previene en el párrafo anterior.
+Recibida la demanda en la que se reclame el pago de rentas vencidas con los documentos que justifiquen la celebración del arrendamiento, si lo pide el actor, el juez dictará auto con efectos de cateo disponiendo se requiera al demandado para que en el acto de la diligencia, compruebe con los documentos respectivos, estar al corriente en el pago de las rentas, y si no lo hiciera se le embarguen bienes bastantes para cubrir las pensiones y costas reclamadas y acto continuo se le emplazará para que en el término de cinco días de contestación a la demanda.
 
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994) (F. DE E., P.O. 26 DE ENERO DE 1995)
+En los casos a que se refieren las fracciones I y II del artículo 683, y siempre que exista contrato por escrito, el juez ordenará, a petición del actor, se requiera al arrendatario, a efecto de que acredite la legal ocupación del inmueble, prevenido que de no hacerlo, tendrá un plazo de sesenta días naturales para desocupar totalmente y entregar el inmueble, apercibiéndolo que de no realizarlas en el plazo concedido, se procederá al lanzamiento a su costa.
+
+La medida contenida en el párrafo anterior, sólo podrá decretarse si el actor otorga garantía bastante para asegurar el pago de los daños y perjuicios que se pudieran ocasionar con la adopción de esta providencia.
+
+Cuando el arrendamiento se hubiere cumplido voluntariamente sin otorgarse el documento respectivo, o éste se hubiere perdido, previamente se justificará la existencia del contrato por cualesquiera de los medios de prueba que autoriza este código, el juez procederá como se previene en los párrafos anteriores.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 686.
 
-En el caso previsto por la fracción III del artículo 683, si en el acto de la diligencia el arrendatario hace entrega del valor de las pensiones reclamadas o justifica con los documentos correspondientes que las tiene pagadas, se asentará razón del hecho, se agregará el comprobante en su caso y se suspenderá la diligencia de embargo para dar cuenta al juez. En el primer caso, éste mandará entregar al demandante el valor de las pensiones exhibidas y dará por concluido el juicio sumario de desahucio sin condenación en costas; en el segundo caso, o cuando al contestar la demanda o en cualquier estado del juicio hasta antes de pronunciarse sentencia se presenten los justificantes de pago, se mandará dar vista de ellos al actor para que, dentro del término de tres días, manifieste, bajo protesta de decir verdad, si acepta o no tales justificantes. Si estuviere conforme, también se dará por concluido el juicio sumario de desahucio sin condenación en costas y, en caso contrario, continuará el procedimiento por sus demás trámites sin perjuicio de las acciones penales que procedan.
+En el caso previsto por la fracción III del artículo 683, si en el acto de la diligencia el arrendatario hace entrega del valor de las pensiones reclamadas o justifica con los documentos correspondientes que las tiene pagadas, se asentará razón del hecho, se agregará el comprobante en su caso y se suspenderá la diligencia para dar cuenta al juez. En el primer caso, éste mandará entregar al demandante el valor de las pensiones exhibidas y dará por concluido el juicio sumario de desahucio sin condenación en costas para el arrendatario; en el segundo caso, o cuando al contestar la demanda o en cualquier estado del juicio hasta antes de pronunciarse sentencia se presenten los justificantes de pago, se mandará dar vista de ellos al actor para que, dentro del término de tres días, manifieste, bajo protesta de decir verdad, si acepta o no tales justificantes. Si estuviere conforme, también se dará por concluido el juicio sumario de desahucio con condenación en costas para él y, en caso contrario, continuará el procedimiento por sus demás trámites sin perjuicio de las acciones penales que procedan.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2001)</small>
+Si antes de la celebración de la audiencia de pruebas y alegatos, el demandado exhibe el importe de las pensiones debidas, el juez dará por terminado el negocio sin condenación a costas. Si la exhibición del importe se realiza con posterioridad, el juez también dará por terminado el negocio, pero impondrá al arrendatario la condenación en costas, a menos que juntamente con la rescisión del contrato, se hubiere demandado la desocupación del inmueble por otra diversa causal, en cuyo caso continuará el procedimiento.
 
-En cualquier etapa del juicio hasta antes de dictarse la sentencia, si el demandado exhibe el recibo o el importe de las pensiones debidas, el juez dará por terminado el negocio, pero impondrá al arrendatario en el segundo caso, la condenación en costas, a menos que juntamente con la desocupación, se hubiere demandado la rescisión del contrato de arrendamiento por otra diversa causal, en cuyo caso continuará el procedimiento.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2001)</small>
+ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
 
-Dictada la sentencia que decrete un lanzamiento y condene el pago de las rentas debidas y otras prestaciones de orden económico, se deberá declarar que dicho lanzamiento quedará sin efectos al cumplir el arrendatario con todas las prestaciones de orden económico a que fue condenado y aunque no se haga esta declaración, se entenderá el lanzamiento sujeto a la condición expresada.
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
+
+Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+ARTICULO 686 bis.- El juez debe citar a la audiencia de pruebas y alegatos, dentro de los treinta días posteriores a la emisión del auto que admite la contestación de la demanda o de la reconvención, en su caso, previniendo a las partes, con por lo menos cinco días de anticipación a la fecha señalada para la celebración de la audiencia, para que aporten los elementos necesarios para el desahogo de las pruebas a su cargo.
+
+Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente o por escrito. Acto continuo el juez citará a las partes, para oír sentencia, misma que deberá ser dictada, dentro de los quince días siguientes.
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
+
+Las partes podrán alegar verbalmente, sin que los alegatos puedan exceder de veinte minutos por cada parte, incluyendo las réplicas y contrarréplicas.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -5540,19 +5586,21 @@ I.- El inquilino se allane expresamente a la conclusión del contrato de arrenda
 
 II.- El arrendador se allane a la pretensión del inquilino que reclame la prórroga del contrato y se oponga a que vencida la misma continúe ocupando el inmueble;
 
-III.- Durante la tramitación del juicio se haya consumido el término de prórroga pretendido.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+III. El término establecido en el contrato o la prórroga pretendida, se hayan consumido durante la tramitación del juicio.
 
 En los casos de las dos últimas fracciones, la resolución que se pronuncie debe decretar la prórroga exigida y ordenar la desocupación del inmueble una vez vencida la misma, sin que sea necesario que el demandado así lo impetre en vía de reconvención o en posterior juicio.
 
-> <small>(F. DE E., P.O. 26 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-En los casos previstos en este artículo el juez deberá otorgar al inquilino un plazo de gracia de treinta días naturales para que desocupe voluntariamente el inmueble, y aunque no se haga esta declaración, se entenderá sujeto al término expresado.
+Exclusivamente en los casos previstos en este artículo el juez deberá otorgar al inquilino un plazo de gracia de treinta días naturales para que desocupe voluntariamente el inmueble, y aunque no se haga esta declaración, se entenderá sujeto al término expresado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 688.
 
-La sentencia que declare procedente la acción de desocupación, dispondrá siempre el lanzamiento respetándose el término previsto en el último párrafo del artículo 687.
+La sentencia que declare procedente la acción de desocupación, dispondrá siempre el lanzamiento con un plazo de gracia de quince días naturales para la desocupación y entrega del inmueble.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -5577,6 +5625,20 @@ En los juicios sobre desocupación, se entiende domicilio legal la finca o depar
 ###### ARTICULO 692.
 
 Serán aplicables las disposiciones de este capítulo a los juicios relativos al comodato, depósito, aparcería, transportes, y hospedaje en todo aquello que no sea contrario a su naturaleza.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+ARTICULO 692 bis.- Cuando durante el juicio, antes de que se dicte sentencia, se informe que el bien inmueble materia de la litis fue abandonado por el inquilino, el Juez o Tribunal que conozca de los autos, ordenará la inspección del inmueble en la que se cumplan los requisitos aplicables al cateo, para constatar tal hecho en los de acuerdo a lo siguiente:
+
+I. El arrendador o fiador, podrá presentar el informe de abandono del bien inmueble arrendado, apoyado en la declaración de dos testigos, que por su vecindad o parentesco con el arrendatario tengan conocimiento de este hecho y lo señalen así en comparecencia ante el personal del juzgado;
+
+II. El juez ordenará la inspección del bien inmueble materia de la litis, para comprobar tal hecho. Para esta diligencia, el juez autoriza al funcionario judicial que ejecute el mandato, para que rompa las cerraduras del inmueble con cargo al denunciante;
+
+III. El secretario de acuerdos que practica la diligencia de inspección, debe hacer una relación pormenorizada del estado de (sic) inmueble, si se encuentran bienes muebles del arrendatario pero es notorio el abandono, el funcionario señala tal situación en el acta correspondiente, hace inventario pormenorizado de tales bienes y señala el estado en el que se encuentran; estos bienes quedan en custodia del denunciante, hasta que el arrendatario los reclame o, en su caso, declarada la sentencia en el expediente principal, podrán ser destinados al pago de las obligaciones señaladas en la sentencia; y
+
+IV. El secretario de acuerdos, hará constar en su caso, que el bien inmueble sigue ocupado por el arrendatario, hecho que asentará en el acta circunstanciada.
+
+Concluida la diligencia, el Juez con base en el acta circunstanciada determinará si en efecto el bien fue abandonado, declara que en ese momento cesan de correr las rentas y se restituye al arrendador el uso y disfrute del bien inmueble. En caso contrario, impondrá a quien informó falsamente, una multa (sic) veinte a doscientos días de salario mínimo y le condenará al pago de los daños que en su caso se ocasionen. Esta determinación no admite recurso alguno.
 
 ### CAPITULO V.
 
@@ -6470,15 +6532,23 @@ Sección 2a.
 
 De las Testamentarías.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 837.
 
-El que promueva el juicio de testamentaría, a más de acreditar el fallecimiento de la persona de cuya sucesión se trate, como lo dispone el artículo 823, deberá presentar el testamento del le (sic) cujus. Cumplido lo anterior, el juez tendrá por radicado el juicio y en el mismo auto mandará convocar a los interesados a una junta para darles a conocer el testamento y el albacea nombrado si lo hubiese o para que procedan a elegirlo con arreglo a lo siguiente, si no apareciera nombrado:
+El que promueva el juicio de testamentaría, además de acreditar el fallecimiento de la persona de cuya sucesión se trate, como lo dispone el artículo 823, deberá presentar el testamento del de cujus, y señalar bajo protesta de conducirse con verdad el nombre del cónyuge supérstite, o de los hijos si los hubiere.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Cumplido lo anterior, el juez tendrá por radicado el juicio y en el mismo auto mandará convocar a los interesados a una junta para darle a conocer el testamento y el albacea nombrado si lo hubiese o para que procedan a elegirlo con arreglo a lo siguiente, si no apareciera nombrado:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 I.- Cuando el testador no hubiere designado albacea o el nombrado no desempeñare el cargo, los herederos elegirán albacea por mayoría de votos.
 
 Por los herederos menores votarán sus legítimos representantes;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 II.- La mayoría, en todos los casos de que habla este Capítulo, se calculará por el importe de las porciones y no por el número de las personas.
 
@@ -6486,7 +6556,11 @@ Cuando quienes voten por una misma persona, excedan en número de las dos tercer
 
 Si habiendo tres o más proposiciones, no se estuviere en el caso a que se refiere el párrafo anterior y la mayoría de intereses se encuentra formada por personas que no constituyan a la vez mayoría en número, ni sean, por lo menos, una cuarta parte del total de votantes, el juez hará el nombramiento;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+
 III.- Si no hubiere mayoría, el albacea será nombrado por el juez de entre los propuestos; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 IV.- Cuando no hubiere herederos sino únicamente legatarios el albacea será nombrado por éstos.
 
@@ -8399,3 +8473,17 @@ Segundo.- Los procedimientos de adopción que se hayan iniciado antes de la entr
 P.O. 28 DE NOVIEMBRE DE 2002.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+DECRETO NUMERO 20398, QUE REFORMA LOS ARTICULOS 23, 29, 56, 111, 112, 329, 353, 457 Y 837.
+
+Primero: Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo: Las Revisiones de oficio que se encuentren en trámite al momento de la entrada en vigor de este decreto seguirán rigiéndose por las disposiciones vigentes al inicio de su substanciación.
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+DECRETO NUMERO 20421, QUE ADICIONA LOS ARTICULOS 686 BIS, 686 TER Y 692 BIS, Y SE REFORMAN LOS ARTICULOS 685, 686, 687 Y 688.
+
+ÚNICO.- El presente decreto que contiene reformas al Código Civil del Estado de Jalisco y Código de Procedimientos Civiles del Estado de Jalisco entrará en vigor al día 14 de febrero de 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
