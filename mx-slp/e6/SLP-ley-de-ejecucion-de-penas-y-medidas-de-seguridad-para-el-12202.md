@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-para-el-12202"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-11"
-last_updated: "1996-06-06"
+last_updated: "1997-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1997.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de diciembre de 1995.
 
@@ -413,6 +413,10 @@ IV.- Permiso de salida el fin de semana o diaria con reclusión nocturna o bien,
 
 V.- Trabajar en el exterior y reportarse e informar de sí mismo, en los momentos en que la autoridad así lo determine.
 
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1997)</small>
+
+Los sentenciados por los delitos de secuestro comprendido en los artículos 325, 326; violación previsto en los artículos 348, 349, 351, 351 Bis y 353; y abigeato previsto en el artículo 375, todos del Código Penal del Estado de San Luis Potosí; no tendrán derecho a las medidas de tratamiento preliberación al establecido en las fracciones III, IV y V de este artículo.
+
 ###### ARTICULO 63.
 
 Para el caso de traslado a una institución abierta a que se refiere la fracción IV del artículo que antecede, el tratamiento se fundará en la confianza y autogobierno del sentenciado, pudiendo sugerir, por parte del consejo técnico correspondiente o el Consejo Técnico Central, las normas adecuadas que faciliten la reinserción social del liberado.
@@ -461,6 +465,10 @@ b).- Que el liberado se abstenga del uso de bebidas embriagantes y drogas, a exc
 
 c).- Que se sujete el liberado al tratamiento y a las medidas de orientación y supervisión que le sean dictadas.
 
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1997)</small>
+
+Los sentenciados por los delitos de secuestro comprendido en los artículos 325, 326; violación previsto en los artículos 348, 349, 351, 351 Bis y 353; y abigeato previsto en el artículo 375, todos del Código Penal del Estado de San Luis Potosí; no tendrán derecho a la libertad preparatoria establecida en este artículo.
+
 ###### ARTICULO 68.
 
 La solicitud del sentenciado que considere tener derecho a la libertad preparatoria, se presentará a la Dirección General, con copia a la institución en la cual se encuentre recluído.
@@ -496,6 +504,10 @@ Por cada dos días de trabajo, se hará remisión de uno de prisión, siempre y 
 ###### ARTICULO 74.
 
 Para los efectos de la remisión parcial de la pena, se considerará también como trabajo, el desarrollo de actividades artísticas, culturales, deportivas, profesionales, intelectuales y productivas, aprobadas por el Consejo Técnico Interdisciplinario.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1997)</small>
+
+Los sentenciados por los delitos de secuestro comprendido en los artículos 325, 326; violación previsto en los artículos 348, 349, 351, 351 Bis y 353; y abigeato previsto en el artículo 375, todos del Código Penal del Estado de San Luis Potosí; no tendrán derecho a la remisión parcial de la pena establecida en el artículo 73 de esta ley.
 
 ###### ARTICULO 75.
 
@@ -610,3 +622,9 @@ JUAN JOSE RODRIGUEZ.
 P.O. 6 DE JUNIO DE 1996.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE AGOSTO DE 1997.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
