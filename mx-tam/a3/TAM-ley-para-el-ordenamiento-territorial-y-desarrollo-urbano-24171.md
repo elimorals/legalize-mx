@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-ordenamiento-territorial-y-desarrollo-urbano-24171"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-25"
-last_updated: "2004-04-20"
+last_updated: "2004-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 25 de octubre de 2001.
 
@@ -819,9 +819,11 @@ El interesado en urbanizar el suelo y/o desarrollar fraccionamientos o condomini
 
 ### CAPÍTULO ÚNICO. DE LAS RESERVAS TERRITORIALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2004)</small>
+
 ###### ARTÍCULO 60.
 
-Corresponde al Gobierno del Estado y a los municipios de manera concurrente y coordinada, establecer programas, realizar acciones e instrumentar mecanismos financieros necesarios para adquisición de inmuebles en áreas urbanas o urbanizadas y de aprovechamiento y constituir con ellos una reserva de suelo para el desarrollo urbano.
+El Gobierno del Estado y los Municipios, de manera concurrente y coordinada, deberán incorporar en sus procesos de planeación las previsiones que favorezcan la formulación de programas, la realización de acciones y el desarrollo de mecanismos financieros para adquisición de inmuebles en áreas urbanas o urbanizadas y de aprovechamiento, que les permitan constituir su reserva territorial para el crecimiento urbano. De conformidad con su estrategia presupuestal, los Ayuntamientos destinarán hasta el 1% del monto total del presupuesto anual de egresos a ejercer con objeto de adquirir tierras para la integración de sus reservas territoriales.
 
 Estos programas de adquisición de reservas territoriales, y los de regularización de tenencia de la tierra, estarán coordinadamente bajo el control y vigilancia de la Secretaría y de las autoridades municipales correspondientes y atenderán en todo caso a las prioridades establecidas en los planes aplicables.
 
@@ -833,9 +835,13 @@ Cuando para satisfacer las necesidades en materia de desarrollo urbano, asentami
 
 El Estado y los Ayuntamientos podrán transferir a organismos públicos cuyo objeto sea la construcción y financiamiento de obras de beneficio social, la reserva territorial suficiente para su desarrollo, previo decreto de desafectación del Congreso del Estado. Para la realización de dichas obras, podrán asociarse con personas físicas o morales privadas, reservándose el Estado y los municipios el dominio del terreno hasta que se hayan ejecutado los trabajos correspondientes.
 
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2004)</small>
+
 ###### ARTÍCULO 63.
 
-Es de utilidad pública la adquisición de bienes inmuebles por el Estado o los municipios para creación de reservas para el crecimiento urbano que satisfagan las necesidades de suelo para la fundación, conservación, mejoramiento y crecimiento de las áreas urbanizadas, así como para la vivienda, su infraestructura y equipamiento.
+Es de utilidad pública la adquisición de bienes inmuebles por el Estado o los Municipios para creación de reservas territoriales destinadas al crecimiento urbano ordenado, a fin de satisfacer las necesidades de suelo para la fundación, conservación, mejoramiento y crecimiento de las áreas urbanizadas, así como para la vivienda, su infraestructura y equipamiento.
+
+Los Ayuntamientos deberán considerar en los planes municipales de desarrollo la adquisición permanente de reservas territoriales para estos fines, conforme a las previsiones en la materia.
 
 ###### ARTICULO 64.
 
@@ -1782,3 +1788,15 @@ P.O. 20 DE ABRIL DE 2004.
 ###### ARTICULO UNICO
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ABRIL DE 2004.
+
+###### ARTICULO UNICO
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MAYO DE 2004.
+
+###### ARTICULO UNICO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
