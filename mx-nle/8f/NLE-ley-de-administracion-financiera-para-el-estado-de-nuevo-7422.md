@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-administracion-financiera-para-el-estado-de-nuevo-7422"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-18"
-last_updated: "1996-06-07"
+last_updated: "2002-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ADMINISTRACION FINANCIERA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 18 de noviembre de 1994.
 
@@ -167,9 +167,11 @@ En el Reglamento de esta ley se establecerá el catálogo de partidas presupuest
 
 #### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA ELABORACION Y APROBACION DEL PRESUPUESTO DE EGRESOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 18.
 
-El proyecto de presupuesto general a que se refiere el artículo 134 de la Constitución Política del Estado, se elaborará conforme a los siguientes criterios:
+El proyecto de presupuesto que integrará la Iniciativa de Ley de Egresos, se elaborará conforme a los siguientes criterios:
 
 I.- Clasificación administrativa, en la que el presupuesto será catalogado por dependencias, a nivel secretaría o equivalente;
 
@@ -183,9 +185,11 @@ El gasto de inversión, además de comprender las erogaciones destinadas a propo
 
 La aplicación de estas clasificaciones no será restrictiva. Los conceptos de gasto público no comprendidos en los rubros anteriores, así como aquéllos comprendidos en dos o más de ellos, se incluirán, para efectos de presupuestación y contabilización, en el rubro que corresponda según su finalidad primordial.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 19.
 
-El presupuesto de egresos del Estado incluirá los montos asignados a los Poderes Judicial, Legislativo y Ejecutivo, con excepción de sus entidades paraestatales, para su funcionamiento y el desarrollo de sus programas; señalándose además el monto de las transferencias y del servicio del financiamiento crediticio, formulándose con base en los principios de equilibrio presupuestal, unidad, programación, anualidad, universalidad, especificación, claridad, uniformidad y publicación.
+El Presupuesto de Egresos del Estado contenido en la Ley de Egresos del Estado, incluirá los montos asignados a los Poderes Judicial, Legislativo y Ejecutivo, con excepción de sus entidades paraestatales, para su funcionamiento y el desarrollo de sus programas; señalándose además el monto de las transferencias y del servicio del financiamiento crediticio, formulándose con base en los principios de equilibrio presupuestal, unidad, programación, anualidad, universalidad, especificación, claridad, uniformidad y publicación.
 
 En consecuencia, el presupuesto se elaborará en función a que los egresos sean equivalentes a los ingresos factibles de ser percibidos en el mismo período; estará contenido en un solo cuerpo presupuestario, sin perjuicio de que posteriormente pueda ser modificado en los términos de esta ley; se clasificará en programas; tendrá una vigencia de un año de calendario; amparará la totalidad del gasto público de las entidades a que se refiere el párrafo anterior; especificará los montos a ejercer en cada uno de los conceptos que lo integran; guardará un esquema que identifique el destino de los fondos públicos; se basará en el catálogo de partidas establecido para tal efecto, en cada uno de los programas y subprogramas y, una vez aprobado por el Congreso del Estado, a través de una Ley de Egresos, se publicará íntegramente en el Periódico Oficial del Estado.
 
@@ -193,27 +197,37 @@ En consecuencia, el presupuesto se elaborará en función a que los egresos sean
 
 Conforme a lo previsto en la Constitución Política del Estado, durante el primer período ordinario de sesiones del Congreso del Estado, el titular del Ejecutivo presentará una iniciativa de Ley de Egresos, en la que se contenga el presupuesto de egresos para el año siguiente, clasificándose el gasto público conforme a lo previsto en el artículo 19 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 21.
 
-Para la elaboración del proyecto de presupuesto de egresos estatal, a más tardar en el mes de Octubre de cada año, los Poderes Legislativo y Judicial enviarán al titular del Ejecutivo, las proyecciones, presupuestos y planes financieros para el año siguiente, quien a su vez girará las instrucciones respectivas al Secretario de Finanzas y Tesorero General del Estado, para su ponderación, análisis e inclusión en el presupuesto.
+Para la elaboración del proyecto de Presupuesto de Egresos Estatal, el cual formará parte de la Iniciativa de Ley de Egresos, a más tardar en el mes de Octubre de cada año, los Poderes Legislativo y Judicial enviarán al titular del Ejecutivo, las proyecciones, presupuestos y planes financieros para el año siguiente, quien a su vez girará las instrucciones respectivas al Secretario de Finanzas y Tesorero General del Estado, para su ponderación, análisis e inclusión en el citado proyecto de presupuesto.
 
 Las dependencias de los sectores centralizado y paraestatal del Ejecutivo del Estado, así como aquellas personas físicas o morales, públicas o privadas, que reciban fondos públicos del Estado, deberán presentar a la Secretaría de Finanzas y Tesorería General del Estado, a más tardar en el mes de Octubre de cada año, sus necesidades de gasto público para el año siguiente, cuando así lo requieran, conforme a los lineamientos financieros que establezca el Ejecutivo, a través de la Secretaría de Finanzas y Tesorería General del Estado.
 
 Las entidades y dependencias a que se refiere este artículo deberán presentar su información conforme a las normas que expida la Secretaría de Finanzas y Tesorería General del Estado, la cual, en caso de no recibir oportunamente dicha información, podrá estimarla, de acuerdo con la información disponible. Los plazos a que se refiere este artículo podrán ser prorrogados por esta dependencia.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 22.
 
-Con base en la información disponible, la Secretaría de Finanzas y Tesorería General del Estado elaborará el proyecto de presupuesto de egresos estatal, siguiendo las políticas, directrices, prioridades e instrucciones que formule el titular del Ejecutivo del Estado.
+Con base en la información disponible, la Secretaría de Finanzas y Tesorería General del Estado elaborará el proyecto de Presupuesto de Egresos Estatal siguiendo las políticas, directrices, prioridades e instrucciones que formule el Titular del Ejecutivo del Estado, para incluir dicho presupuesto en la Iniciativa de Ley de Egresos del Estado.
 
-Una vez integrado el proyecto de presupuesto de egresos estatal, el Secretario de Finanzas y Tesorero General del Estado lo presentará a la consideración del titular del Ejecutivo, quien a su vez dará su aprobación o, en su caso, hará las modificaciones que estime pertinentes. Posteriormente, se elaborará la iniciativa de Ley de Egresos del Estado, la cual, además de contener el proyecto de presupuesto de egresos, podrá incluir disposiciones relacionadas con las finanzas públicas.
+Una vez integrado el proyecto de Presupuesto de Egresos Estatal, el Secretario de Finanzas y Tesorero General del Estado lo presentará a la consideración del titular del Ejecutivo, quien a su vez dará su aprobación o, en su caso, hará las modificaciones que estime pertinentes. Posteriormente, se elaborará la Iniciativa de Ley de Egresos del Estado, la cual, además de contener el proyecto de Presupuesto de Egresos mencionado, podrá incluir disposiciones relacionadas con las finanzas públicas.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 23.
 
-A toda iniciativa o proposición por parte de los Diputados integrantes del Congreso, de modificación de partidas al presupuesto de Egresos, deberá agregarse la correspondiente iniciativa de ingreso, con la información necesaria para su análisis, si con tal proposición se altera el equilibrio presupuestal.
+A toda iniciativa o proposición por parte de los Diputados integrantes del Congreso, de modificación de partidas al Presupuesto de Egresos contenido en la Iniciativa de Ley de Egresos, deberá agregarse la correspondiente iniciativa de ingreso, con la información necesaria para su análisis, si con tal proposición se altera el equilibrio presupuestal.
 
 ###### ARTICULO 24.
 
 La Ley de Egresos del Estado deberá ser aprobada, promulgada y publicada antes del inicio del año fiscal correspondiente.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+Si terminado un año, por cualquier circunstancia no se hubiere aprobado la Ley de Egresos que deba aplicarse al siguiente ejercicio, mientras no haya aprobación expresa en diverso sentido seguirá vigente la misma del ejercicio que termina.
 
 ### CAPITULO IV. DE LOS INGRESOS PUBLICOS
 
@@ -229,6 +243,10 @@ Los ingresos de las entidades del sector paraestatal serán recaudados conforme 
 
 La Ley de Ingresos del Estado deberá ser aprobada, promulgada y publicada antes del inicio del año fiscal correspondiente.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+Si terminado un año, por cualquier circunstancia no se hubiere aprobado la Ley de Ingresos que deba aplicarse al siguiente ejercicio, mientras no haya aprobación expresa en diverso sentido seguirá vigente la misma del ejercicio que termina.
+
 ###### ARTICULO 27.
 
 El Ejecutivo del Estado podrá disponer que los ingresos de las entidades del sector paraestatal se recauden o concentren en la Secretaría de Finanzas y Tesorería General del Estado.
@@ -243,13 +261,7 @@ Los proyectos para establecer o modificar las tarifas del sector paraestatal, pr
 
 ###### ARTICULO 30.
 
-Se crea la Comisión Intersecretarial de Precios y Tarifas de los Bienes y Servicios del Sector Paraestatal del Estado, tendrá como función estudiar y analizar las necesidades y los diversos factores que deberán tomarse en cuenta por la Secretaría de Finanzas y Tesorería General del Estado, para emitir su opinión, en los términos del artículo 29, sobre la revisión y el establecimiento de los precios y tarifas de los bienes y servicios que proporcionan las entidades del sector paraestatal del Estado, a que se refiere el artículo 2o., o bien respecto de las bases para fijarlos.
-
-La Comisión se integrará con los titulares de las Secretarías de Finanzas y Tesorería General del Estado, quien la presidirá, de Desarrollo Económico, de Desarrollo Social y de la Contraloría General del Estado, quienes tendrán el carácter de propietarios y podrán designar su respectivo suplente.
-
-El Director General o funcionario equivalente de la entidad paraestatal correspondiente, así como el titular de la Secretaría coordinadora de sector, participarán en la Comisión, a fin de que presenten los elementos de juicio y la información de apoyo para el adecuado ejercicio de las funciones que competan a la Comisión.
-
-En el Reglamento de esta Ley se regulará el funcionamiento de la Comisión.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2002)
 
 ###### ARTICULO 31.
 
@@ -1073,9 +1085,11 @@ Para los efectos de esta ley se entiende por financiamiento a través del crédi
 
 El titular del Ejecutivo Estatal informará al Congreso del Estado la situación relativa a los saldos del crédito público a cargo del Estado, al rendir la cuenta pública anual.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 127.
 
-Se requerirá autorización del Congreso del Estado para contratar créditos directos o contingentes, cuando se afecten en garantía ingresos o bienes del Estado. En los demás casos, incluyendo la reestructuración de créditos en los que no se afecten o incrementen las garantías de ingresos o bienes del Estado, los créditos serán autorizados por el Ejecutivo, a través de la Secretaría de Finanzas y Tesorería General del Estado.
+Se requerirá autorización del Congreso del Estado para contratar créditos directos o contingentes, cuando se afecten en pago o en garantía ingresos o bienes del Estado. En los demás casos, incluyendo la reestructuración de créditos en los que no se afecten o incrementen las garantías de ingresos o bienes del Estado, los créditos serán autorizados por el Ejecutivo, a través de la Secretaría de Finanzas y Tesorería General del Estado.
 
 ###### ARTICULO 128.
 
@@ -1173,11 +1187,13 @@ Las dependencias del Gobierno del Estado, así como los Municipios, las entidade
 
 La Secretaría de Finanzas y Tesorería General del Estado llevará el registro de las obligaciones financieras, directa o contingentes, derivadas del crédito público, a cargo de las entidades a que se refiere el artículo 124, en el que se anotarán el monto, características y destino de los recursos captados en su forma particular y global, así como las autorizaciones otorgadas para su contratación.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 141 Bis.
 
-La Secretaría de Finanzas y Tesorería General del Estado llevará el registro de obligaciones y empréstitos del Gobierno del Estado y de los Municipios de la entidad, garantizados con participaciones que de ingresos federales le correspondan al Estado o a los municipios.
+La Secretaría de Finanzas y Tesorería General del Estado llevará el registro de obligaciones y empréstitos del Gobierno del Estado y de los Municipios de la entidad, en los cuales se hayan afectado en pago o en garantía las participaciones que de ingresos federales le correspondan al Estado o a los Municipios.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 1996)</small>
 
 La información sobre el registro mencionado en el párrafo anterior será publicada en forma trimestral por la Secretaría de Finanzas y Tesorería General del Estado en el Periódico Oficial del Estado.
 
@@ -1299,11 +1315,13 @@ Los recursos que el Estado reciba en administración se ejercerán conforme a la
 
 En el registro contable de estos recursos y en la elaboración y rendición de los informes previstos en esta Ley, se hará constar la naturaleza de los recursos, la identificación genérica o individual de sus titulares y el concepto por el cual el Estado los ejerce, custodia o administra.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 161 Bis.
 
-El Ejecutivo del Estado y los municipios, en el ámbito de sus respectivas competencias, podrán celebrar convenios, contratos, fideicomisos de fuente alterna de pago, mandatos o cualquier otro acto jurídico, para mediante los ingresos derivados de participaciones federales, garantizar el cumplimiento de las obligaciones y empréstitos a que se refiere el Artículo 141 Bis.
+El Ejecutivo del Estado y los municipios, en el ámbito de sus respectivas competencias, podrán celebrar convenios, contratos, fideicomisos de pago, de garantía, o de fuente alterna de pago, mandatos o cualquier otro acto jurídico, para realizar el pago o garantizar el cumplimiento de las obligaciones y empréstitos a que se refiere el Artículo 141 Bis, mediante los ingresos derivados de participaciones federales.
+
+En el supuesto de la constitución de fideicomisos, el Ejecutivo del Estado estará facultado para instruir irrevocablemente a la Tesorería de la Federación, para que a partir de la fecha de formalización del fideicomiso respectivo, entregue a la Fiduciaria los recursos que derivan de las participaciones federales comprometidas, cuyos derechos conformarán el patrimonio fideicomitido. La instrucción Irrevocable mencionada, sólo podrá ser modificada previa autorización del H. Congreso del Estado de Nuevo León.
 
 ###### ARTICULO 162.
 
@@ -1381,6 +1399,10 @@ Las concesiones otorgadas con anterioridad a la entrada en vigor de esta Ley se 
 
 SEXTO.- El registro de inmuebles propiedad del Estado y de sus Entidades Paraestatales a que se refiere el artículo 83 de esta Ley, se llevará a cabo una vez que entren en vigor las adecuaciones relativas a la Ley Reglamentaria del Registro Público de la Propiedad y del Comercio.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+SEPTIMO.- Cuando en las disposiciones de esta Ley, se haga referencia a la Ley de Desarrollo Urbano, se entenderá que se refieren a la Ley de Ordenamiento Territorial de los Asentamientos Humanos y Desarrollo Urbano del Estado.
+
 Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital, a los siete días del mes de Octubre de mil novecientos noventa y cuatro.- PRESIDENTE: DIP. ISRAEL ROJAS GALVAN; DIP. SECRETARIO: ROBERTO OLIVARES VERA; DIP. SECRETARIO: TRINIDAD ESCOBEDO AGUILAR.- RUBRICAS.
@@ -1418,3 +1440,7 @@ Unico:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 7 DE JUNIO DE 1996.
 
 UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2003.
