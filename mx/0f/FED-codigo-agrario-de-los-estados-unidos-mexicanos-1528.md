@@ -4,7 +4,7 @@ identifier: "FED-codigo-agrario-de-los-estados-unidos-mexicanos-1528"
 country: "mx"
 rank: "codigo"
 publication_date: "1943-04-27"
-last_updated: "1950-01-13"
+last_updated: "1963-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1528&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1942-12-31"
 
 CODIGO AGRARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1950.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE ENERO DE 1963.
 
 Código publicado en el Diario Oficial de la Federación, el martes 27 de abril de 1943.
 
@@ -572,6 +572,18 @@ Todas las fincas cuyos linderos sean tocados por un radio de siete kilómetros a
 ###### ARTICULO 58.
 
 Las propiedades de la Federación, de los Estados o de los Municipios serán afectadas preferentemente a las propiedades privadas para dotar o ampliar ejidos o para crear nuevos centros de población agrícola.
+
+> <small>(ADICIONADO, D.O.F. 22 DE ENERO DE 1963)</small>
+
+Los terrenos nacionales y, en general, los terrenos rústicos pertenecientes a la Federación se destinarán a constituir y ampliar ejidos o a establecer nuevos centros de población ejidal. Dichos terrenos se podrán también destinar, en la extensión estrictamente indispensable, para las obras o servicios públicos de la Federación, de los Estados o de Municipios y no podrán ser objeto de colonización, ni venta.
+
+> <small>(ADICIONADO, D.O.F. 22 DE ENERO DE 1963)</small>
+
+Queda prohibida la colonización de propiedades privadas.
+
+> <small>(ADICIONADO, D.O.F. 22 DE ENERO DE 1963)</small>
+
+Los núcleos de población indígena tendrán preferencia para ser dotados con las tierras y aguas que hayan venido poseyendo.
 
 ###### ARTICULO 59.
 
@@ -2764,3 +2776,33 @@ D.O.F. 13 DE ENERO DE 1950.
 ###### ARTICULO UNICO.
 
 Este Decreto surtirá efectos al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 22 DE ENERO DE 1963.
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan la Ley Federal de Colonización y la Ley que creó la Comisión Nacional de Colonización expedida el 30 de diciembre de 1946.
+
+###### ARTICULO SEGUNDO.
+
+El Departamento de Asuntos Agrarios y Colonización vigilará el buen funcionamiento de las Colonias existentes debidamente legalizadas, ejerciendo las funciones que las leyes que por medio de ésta se derogan, otorgaban tanto a la Comisión de Colonización como a la Secretaría de Agricultura y Ganadería. Además, cuidará escrupulosamente que se respete el Estatuto Jurídico que les corresponde por lo que toca al régimen de propiedad en las mismas y a su correcta administración, aplicando, en su caso, las sanciones que procedan.
+
+###### ARTICULO TERCERO.
+
+El Fondo Nacional de Colonización pasará al Departamento de Asuntos Agrarios y Colonización y se destinará única y exclusivamente a proyectar y llevar a cabo el establecimiento de nuevos centros de población ejidales, después de cubrir las erogaciones pendientes conforme a la Ley que se deroga.
+
+###### ARTICULO CUARTO.
+
+Quedarán sin efecto y se mandarán archivar todos aquellos expedientes de Colonización en los cuales no se haya dictado la autorización o la concesión para colonizar y las autorizaciones para elaborar proyectos de obras que se hubieren dictado con vistas a futuras colonizaciones.
+
+###### ARTICULO QUINTO.
+
+EI Departamento de Asuntos Agrarios y Colonización, efectuará una revisión sistemática de todas las colonias autorizadas y siempre que encuentre fundamento para ello declarará la caducidad de las concesiones o el retiro administrativo de las autorizaciones para colonizar, en los términos de la Ley que les haya dado origen.
+
+###### ARTICULO SEXTO.
+
+Cuando una colonia desaparezca, si los terrenos que la forman eran nacionales, se destinarán a la construcción o ampliación de ejidos o al establecimiento de nuevos centros de población ejidal y si los terrenos eran de propiedad privada, serán afectables en los términos del Código Agrario.
+
+###### ARTICULO SEPTIMO.
+
+Esta Ley entrará en vigor al siguiente día de su publicación en el "Diario Oficial" de la Federación.
