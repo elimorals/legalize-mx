@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "2000-01-05"
+last_updated: "2000-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LGOAAC"
 ---
 # LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO
 
-LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO.
+LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -284,7 +284,7 @@ El bono o bonos expedidos podrán ir adheridos al certificado o separados de él
 
 Los almacenes llevarán un registro de los certificados y bonos de prenda que se expidan, en el que se anotarán todos los datos contenidos en dichos títulos, incluyendo en su caso, los derivados del aviso de la institución de crédito que intervenga en la primera negociación del bono. Este registro deberá instrumentarse conforme a las reglas de carácter general que emita la Comisión Nacional Bancaria y de Valores.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, D.O.F.3 DE ENERO DE 1990)</small>
 
 Los almacenes generales de depósito podrán expedir certificados de depósito por mercancías en tránsito, en bodegas o en ambos supuestos, siempre y cuando esta circunstancia se mencione en el cuerpo del certificado. Estas mercancías deberán ser aseguradas en tránsito por conducto del almacén que expida los certificados respectivos, el cual deberá asumir la responsabilidad del traslado hasta la bodega de destino, en donde seguirá siendo depositario de la mercancía hasta el rescate de los certificados de depósito y los bonos de prenda, en el caso de que los productos hayan sido pignorados.
 
@@ -392,7 +392,7 @@ Los almacenes generales de depósito deberán contar con los locales propios par
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-II. En financiamientos con garantía de bienes o mercancías depositados, amparados con bonos de prenda; en anticipos con garantía de los bienes y mercancías depositados, que se destinen en pago de empaques, fletes, seguros, impuestos a la importación o a la exportación y operaciones de transformación de esos mismos bienes y mercancías, haciéndose constar el anticipo en los títulos relativos que expidan los almacenes; en cartera de créditos prendarios, y en inventarios de las mercancías que comercialicen; y
+II.- En financiamientos con garantía de bienes o mercancías depositados, amparados con bonos de prenda; en anticipos con garantía de los bienes y mercancías depositados, que se destinen en pago de empaques, fletes, seguros, impuestos a la importación o a la exportación y operaciones de transformación de esos mismos bienes y mercancías, haciéndose constar el anticipo en los títulos relativos que expidan los almacenes; en cartera de créditos prendarios, y en inventarios de las mercancías que comercialicen; y
 
 III. En monedas circulantes en la República o en depósitos a la vista o a plazo en el Banco de México o en instituciones de crédito, o en certificados de depósito bancario, o en saldos bancarios en cuenta de cualquier clase, o en créditos expresados en letras de cambio, pagarés y demás documentos mercantiles con una firma, al menos, de institución de crédito y siempre que sea a plazo no superior a ciento ochenta días, o también en letras, pagarés y demás documentos mercantiles que procedan a operaciones de compraventa de mercancías efectivamente realizadas, a plazo no mayor de noventa días, así como en valores de renta fija aprobados para el efecto por la Comisión Nacional de Valores.
 
@@ -702,7 +702,7 @@ Las arrendadoras financieras, sin perjuicio de mantener el capital mínimo previ
 
 > <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(ADICIONADO, D.O.F 3 DE ENERO DE 1990)</small>
 
 Para efectos de este artículo, la Secretaría de Hacienda y Crédito Público, oyendo previamente a la Comisión Nacional Bancaria y al Banco de México, señalará los conceptos que se considerarán integrantes del capital contable de las arrendadoras financieras.
 
@@ -1146,9 +1146,9 @@ La administración y cobranza de los derechos de crédito, objeto de los contrat
 
 Previamente a la celebración de los contratos de factoraje, las empresas de factoraje financiero podrán:
 
-I. Celebrar contratos de promesa de factoraje;
+I.- Celebrar contratos de promesa de factoraje;
 
-II. Celebrar contratos con los deudores de derechos de crédito, constituidos a favor de sus proveedores de bienes o servicios, comprometiéndose la empresa de factoraje financiero a adquirir dichos derechos de crédito para el caso de aceptación de los propios proveedores.
+II.- Celebrar contratos con los deudores de derechos de crédito, constituidos a favor de sus proveedores de bienes o servicios, comprometiéndose la empresa de factoraje financiero a adquirir dichos derechos de crédito para el caso de aceptación de los propios proveedores.
 
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1560,11 +1560,11 @@ Las organizaciones auxiliares del crédito, sólo podrán descontar su cartera c
 
 Las organizaciones auxiliares del crédito y las casas de cambio, deberán presentar la información y documentación que en el ámbito de sus respectivas competencias, le soliciten la Secretaría de Hacienda y Crédito Público, el Banco de México y la Comisión Nacional Bancaria, dentro de los plazos que las mismas establezcan.
 
-> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(ADICIONADO PRIMER PARRAFO [N. DE E. REFORMADO PRIMER PARRAFO], D.O.F. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 51-B.
 
-El Gobierno Federal y las entidades de la Administración Pública Paraestatal, no podrán responsabilizarse ni garantizar el resultado de las operaciones que realicen las organizaciones auxiliares del crédito y casas de cambio así como tampoco asumir responsabilidad alguna respecto del cumplimiento de las obligaciones contraídas con sus socios o con terceros.
+El Gobierno Federal y las entidades de la Administración Pública Paraestatal no podrán responsabilizarse ni garantizar el resultado de las operaciones que realicen las organizaciones auxiliares del crédito y casas de cambio así como tampoco asumir responsabilidad alguna de las obligaciones contraídas con sus socios o con terceros. Lo anterior salvo que, en el caso de las organizaciones auxiliares del crédito a que se refiere el artículo 38-A de esta Ley, exista provisión presupuestaria específica, aprobada por autoridad competente.
 
 Las organizaciones auxiliares del crédito y casas de cambio, deberán mantener en un lugar visible de sus oficinas lo dispuesto en el párrafo anterior así como señalarse expresamente en su publicidad, en los términos que establezca la Comisión Nacional Bancaria a través de disposiciones de carácter general.
 
@@ -2048,7 +2048,7 @@ III. Comprobante de depósito en moneda nacional constituido en Nacional Financi
 
 En los casos de revocación a que se refiere la fracción I del artículo 87 de esta Ley se hará efectivo el depósito de garantía, aplicándose al fisco federal el importe original del depósito mencionado en el párrafo anterior. En el supuesto de que se deniegue la autorización solicitada, exista desistimiento por parte de los interesados o se inicien operaciones en los términos previstos en esta Ley, se devolverá al solicitante el principal y accesorios del depósito referido.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. F. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 84.
 
@@ -2068,7 +2068,7 @@ V. Sus operaciones con divisas y metales preciosos, deberán ajustarse a las dis
 
 A petición del Banco de México, las casas de cambio estarán obligadas a darle a conocer sus posiciones de divisas, incluyendo metales preciosos y a transferirle sus activos en esos efectos, que tengan en exceso de sus obligaciones en los mismos. La transferencia se hará al precio a que se hayan cotizado en el mercado las divisas, en la fecha en que el Banco de México dicte el acuerdo respectivo, y
 
-> <small>(REFORMADA, D.O. F. 27 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 VI. Proporcionarán a la Comisión Nacional Bancaria sus estados de contabilidad, información financiera y todo lo relacionado con su giro, en la forma y términos que la propia Comisión señale mediante reglas de carácter general, y les serán aplicables los artículos 52 y 53 de esta Ley.
 
@@ -2130,11 +2130,11 @@ VI. Si la sociedad no realiza las funciones, ni lleva a cabo las operaciones par
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
-VII.- Si sus administradores han intervenido en operaciones que infrinjan las disposiciones financieras y cambiarias; y
+VII. Si sus administradores han intervenido en operaciones que infrinjan las disposiciones financieras y cambiarias; y
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
-VIII.- En cualquier otro establecido por la Ley.
+VIII. En cualquier otro establecido por la Ley.
 
 > <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -2617,3 +2617,7 @@ D.O.F. 5 DE ENERO DE 2000.
 ## TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE DICIEMBRE DE 2000.
+
+UNICO.- La adición al artículo 51-B de la Ley mencionada en el artículo anterior entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
