@@ -4,7 +4,7 @@ identifier: "CAM-codigo-fiscal-del-estado-de-campeche-3459"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-12-10"
-last_updated: "1998-12-16"
+last_updated: "2003-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3459&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO FISCAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el jueves 10 de diciembre de 1992.
 
@@ -779,9 +779,9 @@ d).- Clausuras.
 
 II.- Declarar y pagar los créditos fiscales en los términos que dispongan las leyes fiscales;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
-III.- Llevar en los términos y con los requisitos establecidos en las disposiciones fiscales Federales o Estatales correspondientes, los libros y documentos de contabilidad y mostrarlos cuando sean exigidos por las autoridades fiscales en el ejercicio de sus facultades de revisión, verificación y comprobación;
+III.- Llevar en los términos y con los requisitos establecidos en las disposiciones fiscales federales o estatales correspondientes, los libros y demás elementos que integran la contabilidad y proporcionarlos cuando sean exigidos por las autoridades fiscales en ejercicio de sus facultades de revisión, verificación y comprobación;
 
 > <small>(REFORMADA, P.O. 15 DE JUNIO DE 1994)</small>
 
@@ -798,6 +798,10 @@ VII.- Expedir o adquirir los comprobantes fiscales en los términos y con los re
 > <small>(ADICIONADA, P.O. 18 DE JUNIO DE 1997)</small>
 
 VIII.- Comparecer ante las autoridades fiscales, dentro del plazo que señalen éstas, a presentar, comprobar o aclarar los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, libros o documentos a que se refiere este artículo y la fracción I del artículo 56 de este Código.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+ARTICULO 38 BIS.- La administración pública estatal, centralizada y paraestatal, así como la Procuraduría General de Justicia en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública, con los contribuyentes que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales, de conformidad con las disposiciones de este Código y las leyes tributarias.
 
 ## TITULO CUARTO. FACULTADES DE LAS AUTORIDADES FISCALES
 
@@ -1029,6 +1033,10 @@ VIII.- Si en el cierre del acta final de la visita no estuviere presente el visi
 
 IX.- Las actas parciales se entenderá que forman parte integrante del acta final de la visita, aunque no se señale así expresamente.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden, inclusive cuando las facultades de comprobación sean para el mismo ejercicio y por las mismas contribuciones.
+
 ###### ARTICULO 48.
 
 Cuando las autoridades fiscales soliciten de los contribuyentes, responsables solidarios o terceros, informes, datos o documentos o pidan la presentación de la contabilidad o parte de ella, para el ejercicio de sus facultades de comprobación, fuera de una visita domiciliaria, se estará a lo siguiente:
@@ -1131,7 +1139,7 @@ C).- Cuando en el desarrollo de una visita en el domicilio fiscal, las autoridad
 
 3.- Las autoridades podrán concluir la visita o continuarla. En el primer caso levantarán el acta final haciendo constar sólo el hecho de que el contribuyente corrigió su situación fiscal. En el segundo caso deberán hacer constar en el acta final todas las irregularidades que hubieran encontrado y señalarán aquellas que haya corregido el visitado.
 
-Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden inclusive cuando las facultades de comprobación sean para el mismo ejercicio y por las mismas contribuciones.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 1994)</small>
 
@@ -1255,11 +1263,9 @@ La solicitud de condonación de multas en los términos de este artículo, no co
 
 La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1998)</small>
-
 ###### ARTICULO 54-A.
 
-Los ingresos que el Estado perciba por pagos de multas por infracción a las disposiciones fiscales federales convenidas, derivadas de actos de comprobación y determinación de créditos fiscales, se destinarán a la formación de fondos para el otorgamiento de estímulos y recompensas por productividad y cumplimiento del personal que ejerza dichas facultades. Sólo ingresará a los citados fondos el importe de las multas efectivamente pagadas que hubieren quedado firmes, y que por ley no estén destinadas a otros fines. La distribución de los fondos se hará en los términos, procedimientos y porcentajes que considere pertinente el Ejecutivo del Estado.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2003)
 
 ###### ARTICULO 55.
 
@@ -1275,9 +1281,9 @@ III.- Cuando sean varios los responsables, cada uno deberá pagar la multa que s
 
 IV.- Cuando por un acto o una omisión, se infrinjan varias disposiciones fiscales a las que correspondan diversas sanciones, sólo se aplicará la que corresponda, a la infracción cuya multa sea mayor;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
-V.- En los casos en que por la comisión de la infracción sea en forma continuada o que no sea posible determinar el monto de la prestación evadida, se impondrá según la gravedad, una sanción hasta el triple del máximo de la multa que corresponda;
+V.- Se considerará como agravante el hecho de que el infractor cometa la infracción en forma continuada o que no sea posible determinar el monto de la omisión en el pago de las contribuciones, así como no enterar los impuestos que trasladó, en estos casos se impondrá una sanción del máximo de la multa que corresponda;
 
 VI.- Cuando las infracciones no se estimen leves y consistan en hechos, omisiones o faltas de requisitos semejantes en documentos o libros y siempre que no traigan o puedan traer como consecuencia la evasión del impuesto, se considerará el conjunto como una infracción y se impondrá solamente una multa que no excederá del límite máximo que fije este código para sancionar cada hecho, omisión o falta de requisito;
 
@@ -3128,3 +3134,9 @@ P.O. 16 DE DICIEMBRE DE 1998.
 Primero.- El presente decreto entrará en vigor el día 1º de enero de 1999.
 
 Segundo.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2003.
+
+Primero.- El presente decreto entrará en vigor el día 1 de enero de 2004, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
