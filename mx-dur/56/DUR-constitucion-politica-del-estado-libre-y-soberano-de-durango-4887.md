@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1977-11-24"
+last_updated: "1979-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 1979.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -285,6 +285,18 @@ El Estado de Durango es libre y soberano y en su régimen de Gobierno no reconoc
 
 La soberanía del Estado reside esencial y originariamente en el pueblo y la ejerce por medio de sus legítimos representantes en los términos establecidos en esta Constitución. Todo poder público dimana del pueblo y se instituye para su beneficio. El pueblo tiene en todo tiempo el inalienable derecho de alterar o modificar esta Constitución, así como las demás leyes que de ella emanen.
 
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 1979)</small>
+
+Los partidos políticos son entidades de interés público; la Ley determinará las formas específicas de su intervención en el proceso electoral.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 1979)</small>
+
+Los Partidos Políticos tienen como finalidad promover la participación del pueblo en la vida democrática, contribuir a la integración de la Representación Estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postula y mediante el sufragio universal, libre, secreto y directo.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 1979)</small>
+
+Los partidos políticos nacionales registrados, tendrán derecho a participar en las elecciones estatales y municipales.
+
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 26.
@@ -313,29 +325,37 @@ La residencia de los Poderes es la Capital del Estado.
 
 El ejercicio de las funciones que ésta Constitución señala al Poder Legislativo, se deposita en el Congreso del Estado de Durango.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
 
 ###### ARTICULO 30.
 
-El Congreso se integra con Diputados electos popular y directamente cuyo número, en ejercicio, en ningún caso será menor de once, complementándose además, con Diputados de proporción Minoritaria. Por cada Distrito Electoral se elegirán un Diputado propietario y un suplente en la forma y términos que señala la Ley Electoral del Estado.
+El Congreso se integra con Diputados electos popular y directamente cada tres años. Par (sic) cada Diputado Propietario se elegirá un Suplente.
 
-En lo que se refiere a Diputados de Proporción Minoritaria, regirán las reglas siguientes:
-
-I.- Todo partido político, registrado conforme lo dispone la Ley Electoral, que obtenga cuando menos el cuatro por ciento de la votación total en el Estado en la elección respectiva, tendrá derecho a que se acredite, de entre sus candidatos, a un Diputado de Proporción Minoritaria y hasta dos si obtiene el seis por ciento más de dicha votación. Serán Diputados de Proporción Minoritaria Suplentes los que hayan figurado como tales en la elección.
-
-II.- Cada Diputado de mayoría excluye uno de Proporción Minoritaria, por lo que, si un Partido obtiene dos o más Diputados de Mayoría, ya no podrá acreditar diputados de proporción minoritaria.
-
-III.- Será acreditado Diputado de Proporción Minoritaria aquél que obtenga el mayor número de sufragios en relación a los demás candidatos del mismo partido en el Estado.
-
-IV.- Sólo los Partidos Políticos registrados cuando menos un año antes del día de la elección podrán acreditar Diputados de Proporción Minoritaria.
-
-V.- Los Diputados de mayoría y los de proporción minoritaria tendrán la misma categoría legal e iguales derechos y obligaciones.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
 
 ###### ARTICULO 31.
 
-Los distritos electorales, numerados progresivamente, se integrarán con un mínimo de cuarenta mil y un máximo de ciento cincuenta mil habitantes.
+El Congreso del Estado estará integrado por doce Diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales y hasta cuatro diputados que serán electos según el principio de representación proporcional, conforme al sistema de listas votadas en una circunscripción plurinominal que corresponderá a la totalidad del territorio del Estado.
+
+La demarcación territorial de los doce distritos electorales uninominales será la que resulte de dividir la población total del Estado entre los distritos señalados.
+
+La elección de los diputados según el principio de representación proporcional y sistemas de listas, se sujetará a las bases generales siguientes y a lo que en lo particular disponga la Ley Electoral del Estado.
+
+I.- Para obtener el registro de sus listas, el partido político que lo solicite deberá acreditar su registro y que participa con candidatos a diputados por mayoría relativa en por lo menos ocho distritos electorales uninominales.
+
+II.- Tendrá derecho a que le sean asignados diputados electos según el principio de representación proporcional todo aquel partido que:
+
+a).- No haya obtenido dos o más constancias de mayoría.
+
+b).- Que alcance por lo menos el 1.5% del total de la votación emitida por el total de las listas.
+
+III.- Al partido político que satisfaga los requisitos señalados en las Fracciones anteriores le serán asignados los diputados que correspondan, de acuerdo con el porcentaje de votos obtenidos para el total de dichas listas.
+
+La Ley determinará las fórmulas electorales y los procedimientos que se observarán para la asignación, en las que, en todo caso, se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
+
+IV.- En el caso de que dos o más partidos con derecho a participar en la distribución de listas, obtuviesen en su conjunto cuatro o más constancias de mayoría, solo serán objeto de distribución tres de las curules que deban asignarse por el principio de representación proporcional.
+
+V.- Cuando solo un partido político obtenga el mínimo de votos requeridos para participar e(sic) la distribución de las listas, únicamente serán objeto de asignación dos curules por el principio de representación proporcional. Si son dos los partidos que obtengan el referido mínimo se repartirán tres curules. Se exceptúa el caso en que uno o dos partidos obtengan, conjunta o separadamente, el 10% como mínimo de la votación emitida para todas las listas, en cuya circunstancia serán objeto de designación las cuatro curules de representación proporcional.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -377,6 +397,10 @@ Los diputados propietarios, durante el período de su encargo, no podrán desemp
 
 Los diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y jamás podrán ser reconvenidos por ellas.
 
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 1979)</small>
+
+El Presidente de la Legislatura velará por el respeto al fuero constitucional de sus miembros y por la inviolabilidad del recinto en donde se reunan a sesionar.
+
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 36.
@@ -385,11 +409,13 @@ Los diputados que sin licencia dejaren de concurrir por un mes seguido a cualqui
 
 Igual pena sufrirán los suplentes, en su caso, desde que sean llamados para reemplazar al propietario. Para la aplicación de esta pena se necesita la declaración expresa del Congreso. Las faltas sin licencia, de menos de un mes, se sujetarán a las prescripciones y penas que señale el Reglamento del propio Congreso.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
 
 ###### ARTICULO 37.
 
-Las elecciones para integrar la Legislatura serán calificadas por los diputados electos constituidos en Colegio Electoral, en la forma y términos que prevean la Ley Electoral del Estado y el Reglamento para el Gobierno Interior del Congreso.
+Las elecciones para integrar el Congreso serán calificadas a través de un Colegio Electoral que se formará con seis presuntos diputados que de acuerdo con las constancias de mayoría que expidan los organismos electorales hubieren obtenido mayor número de votos y por tres presuntos diputados de representación proporcional que obtuvieren la votación más alta.
+
+Procede el recurso de reclamación ante el Supremo Tribunal de Justicia del Estado contra las resoluciones del Colegio Electoral.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -401,17 +427,13 @@ SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
 
 El asiento del Congreso es la Capital del Estado. Podrá trasladarse provisionalmente a otro lugar cuando se presenten circunstancias que lo ameriten y así lo acuerden cuando menos las dos terceras partes de los diputados presentes en la sesión en que se trate.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
 
 ###### ARTICULO 39.
 
-Los miembros del Congreso durarán en su encargo tres años, iniciando sus sesiones el 1o. de septiembre posterior a la elección. El Congreso del Estado sesionará ordinariamente del 1o. de septiembre al 31 de diciembre y del 15 de marzo al 15 de julio de cada año, no pudiendo instalarse ni ejercer sus funciones sin la concurrencia de la mayoría de los diputados integrantes.
+El Congreso iniciará sus sesiones el primero de Septiembre posterior a la elección. Sesionará ordinariamente del primero de Septiembre al treinta y uno de Diciembre y del quince de Marzo al quince de Julio de cada año, no pudiendo instalarse ni ejercer sus funciones sin la concurrencia de la mayoría de los diputados integrantes.
 
-Cuando los diputados asistentes no reúnan el número requerido para la instalación del Congreso, o reuniéndolo no asistiera el total de miembros, excitarán a los ausentes para que concurran dentro de los diez días siguientes, con la advertencia de que si no lo hacen sin causa justificada, se entenderá que declinan su responsabilidad, llamándose de inmediato a los suplentes, los que deberán presentarse dentro de un plazo de diez días. Si los suplentes no comparecieren sin causa justificada en el plazo señalado se declararán vacantes los cargos convocándose a nueva elección.
-
-> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 1977)</small>
-
-Incurrirán en responsabilidad, y se harán acreedores a las sanciones que la Ley señala, quienes habiendo sido electos diputados o acreditados como diputados de proporción minoritaria, no se presenten, sin causa justificada, a juicio del Congreso, a desempeñar el cargo dentro de los términos señalados en el párrafo anterior. También incurrirán en responsabilidad, que la misma Ley sancionará, los Partidos Políticos, que, habiendo postulado candidato en una elección para Diputados acuerden que sus miembros que resultaren electos o que deben ser acreditados como Diputados de Proporción Minoritaria no se presenten a desempeñar sus funciones.
+Cuando los diputados asistentes no reunan el número requerido para la instalación del Congreso, o reuniéndolo no asistiera el total de sus miembros, excitarán a los ausentes para que concurran dentro de los diez días siguientes, con la advertencia de que si no lo hacen sin causa justificada, se entenderá que declinan su responsabilidad, llamándose de inmediato a los Suplentes, los que deberán presentarse dentro de un plazo de diez días. Si los Suplentes no comparecieren sin causa justificada en el plazo señalado, se declararán vacantes los cargos, convocándose a nueva elección, siempre y cuando se trate de diputados de mayoría. En el caso de diputados electos por el principio de representación proporcional, se cubrirá la vacante con aquéllos candidatos del mismo partido que hubieren quedado en lugar preferente en la lista respectiva.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -439,7 +461,7 @@ Todas las sesiones serán públicas, con excepción de los casos señalados por 
 
 El Congreso o la Comisión Permanente, en su caso, expedirá la convocatoria para las elecciones que procedan de acuerdo con la Ley Electoral del Estado. En caso de falta absoluta de alguno o varios diputados propietarios y de sus respectivos suplentes, el Congreso convocará a elecciones para integrar el total de sus miembros, siempre que ésta circunstancia no ocurra dentro del último semestre del período Constitucional y que estuviere en funciones la mayoría de los diputados; a falta de esta mayoría, el Ejecutivo expedirá la convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
 
 ### CAPITULO SEGUNDO. DEL TERRITORIO
 
@@ -447,9 +469,7 @@ El Congreso o la Comisión Permanente, en su caso, expedirá la convocatoria par
 
 ###### ARTICULO 43.
 
-Durante el mes de agosto del año de la elección la Comisión Permanente convocará a los diputados electos para que se constituyan en Colegio Electoral.
-
-Para que el Colegio Electoral pueda instalarse y ejercer sus funciones se requiere la asistencia de la mayoría del número total de sus miembros. Si no hubiese quórum para instalar el Colegio Electoral, o para que ejerza sus funciones una vez instalado, se llamará inmediatamente a los suplentes electos para que se presenten a desempeñar sus funciones.
+Durante el mes de Agosto del año de la elección la Comisión Permanente convocará a los Diputados electos para que integren el Colegio Electoral en la forma prevista en el Artículo 39 de este Ordenamiento.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -457,7 +477,7 @@ Para que el Colegio Electoral pueda instalarse y ejercer sus funciones se requie
 
 Calificadas las elecciones de diputados por el Colegio Electoral, se convocará a los diputados electos a una junta preparatoria en la que se designará la directiva inicial de la nueva Legislatura.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
 
 ### CAPITULO TERCERO. DE LA FORMA DE GOBIERNO
 
@@ -465,13 +485,13 @@ Calificadas las elecciones de diputados por el Colegio Electoral, se convocará 
 
 ###### ARTICULO 45.
 
-Es obligación de los miembros del Congreso, visitar, terminado cada período ordinario de sesiones, los distritos que representan, para informar a la misma Legislatura en el período ordinario siguiente, acerca de las condiciones socio-económicas imperantes, a fin de proponer, en su oportunidad, cuanto pueda ser útil o necesario en beneficio de sus representados. Se exceptúan de esta obligación los miembros que formen la Comisión Permanente.
+Los Diputados son defensores de los derechos sociales de los habitantes que representan en el Congreso del Estado. Tienen el deber de ser gestores de los problemas que afecten a los habitantes de sus Distritos o a sus representaciones proporcionales minoritarias. Los Diputados de mayoría relativa tienen además la obligación de recorrer los Municipios de sus Distritos durante los períodos de receso. Se exceptúan de esta obligación los Diputados que integran la Comisión Permanente.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
 
 ###### ARTICULO 46.
 
-Los Diputados tendrán la obligación de rendir ante sus representados un informe de sus actividades legislativas gestiones e intervenciones en beneficio de los habitantes de los municipios comprendidos en sus respectivos distritos electorales. Dicho informe será rendido durante la primera quincena del mes de febrero de cada año.
+Los diputados de mayoría relativa tienen la obligación de rendir ante sus representados un informe de sus actividades legislativas, de sus gestiones e intervenciones en beneficio de los habitantes de los Municipios comprendidos en sus respectivos Distritos Electorales. Dicho informe será rendido durante la primera quincena del mes de febrero de cada año.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -551,69 +571,131 @@ Ninguna iniciativa que sea desechada por el Congreso podrá ser presentada de nu
 
 SECCION D.- DE LAS FACULTADES DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 1979)</small>
 
 ###### ARTICULO 55.
 
-El Congreso tiene facultades para legislar en todo aquello que que (sic) no esté expresamente establecido como atribución del Congreso de la Unión o de alguna de sus Cámaras y además para:
+El Congreso tiene facultades para legislar en todo aquello que no esté expresamente establecido como atribución del Congreso de la Unión o de alguna de sus Cámaras y además para:
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 I.- Resolver sobre los convenios que el Ejecutivo celebre con los Estados vecinos sobre cuestiones de límites;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 II.- Legislar en lo relativo a la administración interior del Estado;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 III.- Aprobar y modificar el presupuesto de egresos del Estado y decretar contribuciones suficientes para cubrirlo, tomando en consideración las participaciones y subsidios federales y estatales, en su caso;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 IV.- Decretar las contribuciones suficientes para atender las necesidades de los municipios, tomando en consideración las participaciones y subsidios federales y estatales, en su caso;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 V.- Autorizar al Ejecutivo para concertar empréstitos a largo plazo destinados a la realización de obras públicas que los justifiquen;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 VI.- Derogar, adicionar y reformar las Leyes del Estado;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 VII.- Otorgar premios o distinciones a las personas que hayan prestado servicios de importancia a la Nación o al Estado;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 VIII.- Cambiar provisionalmente la residencia de los Poderes del Estado;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 IX.- Nombrar Gobernador Provisional, Interino o Substituto;
 
-X.- Expedir su reglamento interior y nombrar su personal administrativo;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 1979)</small>
+
+X.- Expedir la Ley que regulará su estructura y funcionamiento internos.
+
+Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo del Estado para tener vigencia.
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 XI.- Expedir Leyes sobre el fraccionamiento de las propiedades rústicas y urbanas;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 XII.- Crear nuevos municipios en las circunstancias y condiciones que señala la Ley del Municipio Libre;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 XIII.- Suprimir aquellos municipios que dejen de tener la población suficiente y los recursos económicos indispensables para la satisfacción de los servicios municipales;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 XIV.- Establecer la nomenclatura y categoría política de los pueblos, villas y ciudades del Estado y legislar en todo lo concerniente a sus fundos legales, a su planificación y a su urbanización;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 XV.- Legislar sobre el aprovechamiento de las aguas que queden bajo el régimen del Estado, conforme a la Constitución General de la República;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 XVI.- Hacer la declaración de pérdida de la calidad de duranguenses o de ciudadanos del Estado, y de rehabilitación en ambos casos;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 XVII.- Elegir a los Magistrados del Supremo Tribunal de Justicia de las ternas que para cada caso presente el Ejecutivo, requiriéndose para la elección, el voto de cuando menos las dos terceras partes de los diputados presentes;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 XVIII.- Convocar a elecciones para Gobernador, Diputados y Munícipes;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 XIX.- Legislar sobre el funcionamiento del Municipio Libre;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 XX.- Resolver los conflictos que sobre límites se susciten entre los municipios;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 XXI.- Constituirse en Colegio Electoral para calificar las elecciones de Gobernador y de los miembros de los Ayuntamientos y hacer las declaratorias de quienes resulten electos;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 XXII.- Tomarles la protesta de ley al Gobernador y a los Magistrados del Supremo Tribunal de Justicia;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 XXIII.- Erigirse en Gran Jurado en los casos establecidos por ésta Constitución;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 XXIV.- Conceder en los términos de la ley licencia al Gobernador, a los Diputados y a los Magistrados del Supremo Tribunal de Justicia;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 XXV.- Examinar, dictaminar y aprobar, en su caso, la cuenta que anualmente le presentará el Ejecutivo sobre los gastos de la administración pública, debiendo comprender el examen no solo la conformidad de las erogaciones con las partidas del presupuesto de egresos, sino también la exactitud y justificación de tales erogaciones;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 XXVI.- Decretar amnistías; conceder indultos en los casos que señala la Legislación Penal;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 XXVII.- Autorizar al Ejecutivo y a los Ayuntamientos para la enajenación de bienes inmuebles propiedad del Estado o Municipales respectivamente. En el caso de venta esta deberá efectuarse en pública subasta y al mejor postor, teniendo como base su valor real y con expresa prohibición de que se finque a favor de un funcionario público federal, estatal o municipal, de sus parientes consanguíneos en línea recta sin Iimitación de grado o transversal hasta el cuarto grado, o de sus parientes por afinidad, o consanguineos de estos hasta el tercer grado;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 XXVIII.- Declarar electos a los candidatos a Senadores que hubieren obtenido la mayoría de los votos emitidos;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 XXIX.- Investigar y en su caso, fincar responsabilidades por enriquecimiento indebido, a las personas que hubieren desempeñado los cargos a que se refiere el Artículo 122 de esta Constitución; y
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 XXX.- Velar por la observancia de esta Constitución.
 
@@ -857,9 +939,23 @@ XXIV.- Fomentar la educación popular, las actividades deportivas y el mejoramie
 
 XXV.- Dictar medidas correspondientes para la organización del sistema penitenciario sobre la base de la educación y del trabajo como medios de rehabilitación del delincuente;
 
-XXVI.- Cuidar de que las elecciones se efectuen en el tiempo señalado por las leyes relativas; y
+XXVI.- Cuidar de que las elecciones se efectuen en el tiempo señalado por las leyes relativas; y (sic)
 
-XXVII.- Las demás que expresamente le confieran esta Constitución y las leyes reglamentarias respectivas.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE JULIO DE 1979)</small>
+
+XXVII.- Promover el desarrollo económico del Estado en forma integral y equilibrada, conforme a los principios de justicia social;
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 1979)</small>
+
+XXVIII.- Crear por derecho, organismos descentralizados, empresas de participación estatal, fideicomisos, comités y comisiones y asignarles las funciones que estime convenientes;
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 1979)</small>
+
+XXIX.- Fomentar y estimular la creación de industrias y empresas rurales, buscando la participación armónica del capital y del trabajo en una verdadera alianza para la producción;
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 1979)</small>
+
+XXX.- Las demás que expresamente le confieren esta Constitución y las Leyes Reglamentarias respectivas.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1151,7 +1247,13 @@ IX.- Dirimir los conflictos que surjan entre los Ayuntamientos y los Poderes del
 
 X.- Rendir, ante el Congreso el día 31 de Julio de cada año, por voz del Presidente, un informe anual sobre el estado de la administración de justicia;
 
-XI.- Las demás que le confieren esta Constitución y las leyes.
+XI.- Las demás que le confieren esta Constitución y las leyes;
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 1979)</small>
+
+XII.- Conocer del recurso de reclamación contra las resoluciones del Colegio Electoral del Congreso del Estado. Si considera que se cometieron violaciones sustanciales en el desarrollo del proceso electoral o en la calificación misma, lo hará del conocimiento del Congreso para que emita nueva resolución que tendrá el carácter de definitiva e intachable.
+
+La Ley fijará los requisitos de procedimiento y el trámite a que se sujetará este recurso.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1215,11 +1317,17 @@ Los Ayuntamientos tienen personalidad y capacidad jurídica para todos los efect
 
 El Congreso determinará en la Ley del Municipio Libre del Estado de Durango los estatutos a que se sujetarán los Municipios en su régimen interior.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
 
 ###### ARTICULO 107.
 
-Los Ayuntamientos se integrarán con un Presidente y los Regidores y Síndicos que señale la Ley respectiva.
+Los Ayuntamientos de los Municipios de Durango, Gómez Palacio y Lerdo se integrarán con un Presidente, Síndico y cinco Regidores de Mayoría, más dos Regidores de Minoría, en su caso. Los Ayuntamientos de los demás Municipios se compondrán de un Presidente, Síndico y tres Regidores de Mayoría, más un Regidor de Minoría, en su caso, sujetándose para su elección en las siguientes bases:
+
+I.- Sólo en los Municipios cuya población exceda de 25,000 habitantes, conforme al último censo de población, tendrá aplicación el sistema de Regidores por Minoría;
+
+II.- En los Municipios de Durango, Gómez Palacio y Lerdo, se asignarán cada uno de los Regidores de Minoría a los dos Partidos Políticos Minoritarios que hayan obtenido mayor votación y que sea ésta, cuando menos, el 1.5% del total de la misma en el Municipio.
+
+III.- En los demás Municipios se asignará el Regidor de Minoría al Partido Político Minoritario que haya obtenido mayor votación, pero siempre que ésta sea cuando menos 1,5% de la votación total en el Municipio que corresponda.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1676,3 +1784,13 @@ UNICO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publ
 P.O. 24 DE NOVIEMBRE DE 1977.
 
 UNICO.- Las presentes Reformas y Adiciones a la Constitución Política del Estado Libre y Soberano de Durango, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JULIO DE 1979.
+
+###### ARTICULO PRIMERO.
+
+Se abroga el Decreto número 9, expedido el 21 de Noviembre de 1977, publicado en el Periódico Oficial número 42, del 24 de Noviembre de 1977.
+
+###### ARTICULO SEGUNDO.
+
+Las presentes adiciones y reformas a la Constitución Política del Estado Libre y Soberano de Durango entrarán en vigor treinta días después de la fecha de su publicación en el Periódico Oficial del Estado.
