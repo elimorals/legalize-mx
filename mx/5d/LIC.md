@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2001-06-04"
+last_updated: "2002-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2002.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -676,13 +676,23 @@ Las instituciones de banca de desarrollo son entidades de la Administración Pú
 
 La Secretaría de Hacienda y Crédito Público expedirá el reglamento orgánico de cada institución, en el que establecerá las bases conforme a las cuales se regirá su organización y el funcionamiento de sus órganos.
 
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+Las instituciones de banca de desarrollo tienen como objeto fundamental facilitar el acceso al financiamiento a personas físicas y morales, así como proporcionarles asistencia técnica y capacitación en términos de sus respectivas leyes orgánicas. En el desarrollo de sus funciones las instituciones referidas deberán preservar y mantener su capital, garantizando la sustentabilidad de su operación, mediante la canalización eficiente, prudente y transparente de recursos.
+
 El reglamento orgánico y sus modificaciones deberán publicarse en el Diario Oficial de la Federación e inscribirse en el Registro Público de Comercio.
+
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 31.
 
-Las instituciones de banca de desarrollo formularán anualmente sus programas operativos y financieros, sus presupuestos generales de gastos e inversiones y las estimaciones de ingresos, mismos que deberán someter a la autorización de la Secretaría de Hacienda y Crédito Público, de acuerdo con los lineamientos, medidas y mecanismos que al efecto establezca. La propia Secretaría determinará las modalidades que cada institución deba seguir en esta materia, en función de la asignación global de gasto financiamiento que para estas instituciones establezca la Secretaría de Programación y Presupuesto.
+Las instituciones de banca de desarrollo formularán anualmente sus programas operativos y financieros, sus presupuestos generales de gastos e inversiones, así como las estimaciones de ingresos. Las sociedades nacionales de crédito deberán someter a la autorización de la Secretaría de Hacienda y Crédito Público, de acuerdo con los lineamientos, medidas y mecanismos que al efecto establezca, los límites de endeudamiento neto externo e interno; financiamiento neto y los límites de intermediación financiera. Para los efectos de este párrafo la Secretaría de Hacienda y Crédito Público dará a conocer los conceptos que integran la intermediación financiera en el Informe sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública, que corresponda.
 
-Los programas deberán formularse conforme a los lineamientos y objetivos del Plan Nacional de Desarrollo, así como a los programas sectoriales del propio Plan.
+Los programas deberán formularse conforme a los lineamientos y objetivos del Plan Nacional de Desarrollo, así como el Programa Nacional de Financiamiento para el Desarrollo y los demás programas sectoriales del propio Plan. En el marco de los planes mencionados, cada institución de banca de desarrollo, deberá elaborar sus programas institucionales, mismos que contendrán un apartado relativo a la forma en que se coordinarán con las demás instituciones de banca de desarrollo.
+
+Las instituciones de banca de desarrollo, proporcionarán a las autoridades y al público en general, información referente a sus operaciones utilizando medios electrónicos, ópticos o cualquier otra tecnología que les permita dar a conocer dicha información de acuerdo a las reglas de carácter general que la Secretaría de Hacienda y Crédito Público emita para tal efecto. En el cumplimiento de esta obligación, las instituciones de banca de desarrollo observarán lo dispuesto en el artículo 117 de la Ley de Instituciones de Crédito.
+
+Asimismo, cada sociedad nacional de crédito, a través de los medios electrónicos con los que cuente, dará a conocer los programas de créditos y garantías, indicando las políticas y criterios conforme a los cuales realizarán tales operaciones; los informes sobre el presupuesto de gasto corriente y de inversión; las contingencias derivadas de las garantías otorgadas por la sociedad nacional de crédito, así como las contingencias laborales, o de cualquier otro tipo que impliquen un riesgo para la institución.
 
 ###### ARTICULO 32.
 
@@ -712,9 +722,11 @@ Los certificados de aportación patrimonial darán a sus titulares el derecho de
 
 Los certificados de la serie "B" serán de igual valor y conferirán los mismos derechos a sus tenedores, siendo los siguientes:
 
-I. Designar y remover en el seno de la comisión consultiva a los miembros del consejo directivo y a los comisarios correspondientes a esta serie de certificados;
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-II. Integrar la comisión consultiva a que se refiere el artículo 45 de la presente Ley;
+I. Designar y remover a los comisarios correspondientes a esta serie de certificados;
+
+II. (DEROGADA, D.O.F. 24 DE JUNIO DE 2002)
 
 III. Adquirir en igualdad de condiciones y en proporción al número de sus certificados, los que se emitan en caso de aumento de capital. Este derecho deberá ejercitarse en el plazo que el consejo directivo señale, el que se computará a partir del día en que se publique en el Diario Oficial de la Federación el acuerdo correspondiente de la Secretaría de Hacienda y Crédito Público y que no podrá ser inferior a treinta días;
 
@@ -760,11 +772,17 @@ La administración de las instituciones de banca de desarrollo estará encomenda
 
 La Secretaría de Hacienda y Crédito Público fijará las bases de carácter general para establecer la remuneración que corresponda los consejeros de las instituciones de banca de desarrollo.
 
-Las designaciones de consejeros en las instituciones de banca de desarrollo, se realizarán de conformidad con sus respectivas leyes orgánicas. En los casos de las designaciones de consejeros suplentes que representen a la serie "A" de certificados de aportación patrimonial, éstas se efectuarán por el Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, debiendo recaer dichas designaciones en servidores públicos de la administración pública federal o profesionales independientes de reconocida honorabilidad, experiencia y prestigio en materias económica y financiera.
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+Las designaciones de consejeros en las instituciones de banca de desarrollo, se realizarán de conformidad con sus respectivas leyes orgánicas.
 
 El cargo de consejero es personal y no podrá desempeñarse por medio de representantes.
 
 En ningún caso podrán ser consejeros el director general y los servidores públicos de la institución que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, así como las personas a que se refieren las fracciones II a VI del artículo 23 de esta Ley.
+
+(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002) (F. DE E., D.O.F. 8 DE JULIO DE 2002)
+
+Al tomar posesión del cargo, cada consejero deberá suscribir un documento elaborado por la institución de banca de desarrollo de que se trate, en donde declare bajo protesta de decir verdad que no tiene impedimento alguno para desempeñarse como consejero en dicha institución, y en donde acepte los derechos y obligaciones derivados de tal cargo.
 
 ###### ARTICULO 42.
 
@@ -778,19 +796,41 @@ I. Nombrar y remover, a propuesta del director general, a los servidores públic
 
 II. Nombrar y remover al secretario y al prosecretario del consejo;
 
-III. Aprobar el establecimiento, reubicación y clausura de sucursales, agencias y oficinas tanto en el país como en el extranjero;
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-IV. Acordar la creación de comités regionales consultivos y de crédito, así como los de su seno;
+III. Aprobar el establecimiento de sucursales, agencias y oficinas en el extranjero.
+
+Asimismo, le corresponde aprobar el establecimiento de sucursales, agencias y oficinas en el país, así como su reubicación y clausura, en el país o en el extranjero, debiendo informar a la Secretaría de Hacienda y Crédito Público;
+
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+IV. Acordar la creación de comités de crédito, el de recursos humanos y desarrollo institucional, de administración integral de riesgos, así como los que considere necesarios para el cumplimiento de su objeto;
 
 V. Determinar las facultades de los distintos órganos y de los servidores públicos de la institución, para el otorgamiento de créditos;
 
 VI. Aprobar, en su caso, previo dictamen de los comisarios, el balance general anual de la institución;
 
-VII. Aprobar, en su caso, la constitución de reservas y la aplicación de utilidades, así como la forma y términos en que deberán realizarse;
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+VII. Aprobar en su caso, la constitución de reservas;
+
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+VII bis. Aprobar en su caso, la aplicación de utilidades, así como la forma y términos en que deberá realizarse;
 
 VIII. Autorizar, conforme a las disposiciones aplicables, la publicación de los estados financieros;
 
-IX. Aprobar los programas operativos y financieros, los presupuestos generales de gastos e inversiones y las estimaciones de ingresos anuales;
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+VIII bis. Aprobar los presupuestos generales de gasto e inversión, sin someterse a lo dispuesto en el artículo 31, fracción XXIV de la Ley Orgánica de la Administración Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+IX. Aprobar las propuestas de los límites de endeudamiento neto externo e interno, financiamiento neto, así como los límites de intermediación financiera;
+
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+IX bis. Aprobar las estimaciones de ingresos anuales, su programa financiero, y sus programas operativos;
 
 X. Aprobar los programas anuales de adquisición, arrendamiento y enajenación de bienes muebles e inmuebles, de realización de obras y prestación de servicios, que la institución requiera, así como las políticas y bases generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la institución con terceros, en estas materias, de conformidad con las normas aplicables;
 
@@ -806,15 +846,35 @@ XV. Acordar la emisión de obligaciones subordinadas;
 
 XVI. Aprobar las inversiones en el capital de las empresas a que se refieren los artículos 75, 88 y 89 de esta Ley;
 
-XVII. Aprobar los programas anuales de publicidad y propaganda de la institución;
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-XVIII. Aprobar la estructura orgánica básica, niveles de empleo y las bases para la elaboración de tabuladores de sueldos, así como para el otorgamiento de incentivos, de conformidad con las normas aplicables;
+XVII. Aprobar los programas anuales de publicidad y propaganda de la institución, sin que se requiera autorización de la Secretaría de Gobernación;
 
-XIX. Conocer y opinar sobre las Condiciones Generales de Trabajo de la institución, y
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-XX. Las que establezca con este carácter la respectiva ley o reglamento orgánico de la institución.
+XVIII. Aprobar la estructura orgánica, niveles de empleo, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos; políticas de ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la Sociedad, a propuesta del director general oyendo la opinión del comité de recursos humanos y desarrollo institucional, como excepción a lo dispuesto en los artículos 31 fracción XXIV y 37 fracciones VIII y XVIII de la Ley Orgánica de la Administración Pública Federal;
 
-En los supuestos establecidos en las fracciones III, VII, IX, X, XV, XVI, XVII y XVIII se requerirá de la autorización expresa de la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+XIX. Opinar sobre las condiciones generales de trabajo de la institución;
+
+XX. Las que establezca con este carácter la respectiva ley o reglamento orgánico de la institución;
+
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+XXI. Autorizar la tenencia por cuenta propia de títulos inscritos en el Registro Nacional de Valores, representativos del capital social de sociedades, así como la forma de administrarla;
+
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+XXII. Autorizar las operaciones crediticias superiores a la cantidad que fije la Secretaría de Hacienda y Crédito Público, para cada sociedad nacional de crédito con personas físicas o morales o que pertenezcan a un grupo de intereses comunes, distintas a las que se realizan con intermediarios financieros, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+XXIII. Conocer y en su caso aprobar los informes que le presente el comité de administración integral de riesgos, así como los límites prudenciales de riesgos que al efecto le proponga éste.
+
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+En los supuestos establecidos en las fracciones III párrafo primero, VII, IX, XV y XVI se requerirá de la autorización expresa de la Secretaría de Hacienda y Crédito Público.
 
 En el ejercicio de las atribuciones que se confieren a los consejos directivos en el presente artículo, sólo se sujetarán a lo dispuesto por sus leyes orgánicas, esta Ley y a los lineamientos que emita la Secretaría de Hacienda y Crédito Público.
 
@@ -824,33 +884,29 @@ El director general, dentro de sus funciones administrativas, someterá a la con
 
 El director general será designado por el Ejecutivo Federal, a través del Secretario de Hacienda y Crédito Público, debiendo recaer tal nombramiento en la persona que reúna los requisitos señalados en el artículo 24 de esta Ley.
 
-Los mismos requisitos deberán reunir los servidores públicos de la institución que ocupen cargos con las dos jerarquías administrativas inferioes (sic) a la del director general y los que para estos efectos determine el reglamento orgánico. Su designación se hará con base en los méritos obtenidos en la institución y, con sujeción a lo dispuesto por el citado artículo 24.
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-La Comisión Nacional Bancaria, con acuerdo de su Junta de Gobierno podrá determinar que se proceda a la remoción o suspensión de los delegados fiduciarios y servidores públicos que puedan obligar con su firma a la institución, con excepción del director general, cuando considere que tales personas no cuentan con la suficiente calidad técnica o moral para el desempeño de sus funciones o que en el desempeño de éstas no se hayan ajustado a las disposiciones legales y administrativas aplicables, oyendo previamente al interesado. Las resoluciones de remoción o suspensión podrán ser recurridas ante la Secretaría de Hacienda y Crédito Público dentro de los quince días que sigan a la fecha en que la misma se hubiere notificado. La propia Comisión podrá recomendar al Ejecutivo Federal, a través de la mencionada Secretaría, la remoción del director general de la institución, cuando considere que éste, en el desempeño de sus funciones, no se ha ajustado a las disposiciones legales y administrativas aplicables.
+Los mismos requisitos deberán reunir los servidores públicos de la institución que ocupen cargos con las dos jerarquías administrativas inferiores a la del director general y los que para estos efectos determine el reglamento orgánico. Su designación se hará con base en los méritos obtenidos en la institución y, con sujeción a lo dispuesto por el citado artículo 24. Cuando a criterio de la Secretaría de Hacienda y Crédito Público, los servidores públicos que ocupen cargos con las dos jerarquías administrativas inferiores no realicen funciones de carácter sustantivo, los podrá eximir de los requisitos contenidos en la fracción II del artículo 24 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+La Comisión Nacional Bancaria y de Valores, con acuerdo de su junta de gobierno podrá determinar que se proceda a la remoción o suspensión de los delegados fiduciarios y servidores públicos que puedan obligar con su firma a la institución, con excepción del director general, cuando considere que tales personas no cuenten con la suficiente calidad técnica o moral para el desempeño de sus funciones o que en el desempeño de éstas no se hayan ajustado a las disposiciones legales y administrativas aplicables, oyendo previamente al interesado. Las resoluciones de remoción o suspensión podrán ser recurridas ante la Secretaría de Hacienda y Crédito Público dentro de los quince días que sigan a la fecha en que la misma se hubiere notificado. La propia Comisión podrá recomendar al Ejecutivo Federal, a través de la mencionada Secretaría, la remoción del director general de la institución, cuando considere que éste, en el desempeño de sus funciones no se ha ajustado a las disposiciones legales y administrativas aplicables, o bien no haya conducido la institución con base a sanas prácticas bancarias.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 43 Bis.
+
+El Consejo Directivo, así como los servidores públicos de las instituciones de banca de desarrollo, no podrán otorgar jubilaciones ni pensiones en términos y condiciones distintos a lo previsto en sus respectivas condiciones generales de trabajo.
+
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 44.
 
-El órgano de vigilancia de las instituciones de banca de desarrollo, estará integrado por dos comisarios, nombrados, uno por la Secretaría de Contraloría General de la Federación y otro por la comisión consultiva a que se refiere el artículo siguiente. Por cada comisario propietario se nombrará el respectivo suplente. Los comisarios tendrán las más amplias facultades para examinar los libros de contabilidad y demás documentación de la sociedad, incluida la del consejo, así como para llevar a cabo todos los demás actos que requiera el adecuado cumplimiento de sus funciones, teniendo el derecho de asistir a las juntas del consejo directivo con voz.
+El órgano de vigilancia de las instituciones de banca de desarrollo, estará integrado por dos comisarios, nombrados, uno por la Secretaría de Contraloría y Desarrollo Administrativo y otro por los consejeros de la serie "B". Por cada comisario propietario se nombrará el respectivo suplente. Los comisarios tendrán las más amplias facultades para examinar los libros de contabilidad y demás documentación de la Sociedad, incluida la del consejo, así como para llevar a cabo todos los demás actos que requiera el adecuado cumplimiento de sus funciones, teniendo el derecho de asistir a las juntas del Consejo Directivo con voz.
 
 ###### ARTICULO 45.
 
-Las instituciones de banca de desarrollo tendrán una comisión consultiva integrada por los titulares de los certificados de la serie "B", distintos del Gobierno Federal, que funcionará en la forma y términos que señale el reglamento orgánico de la institución.
-
-La comisión se reunirá por lo menos una vez al año, pudiendo ser convocada en cualquier tiempo por los tenedores que representen la tercera parte o más del capital correspondiente a dicha serie, por el consejo directivo, por el director general, por dos consejeros de la serie "B" o por el comisario de la misma serie, y se ocupará de los asuntos siguientes:
-
-I. Conocer y opinar sobre las políticas y criterios conforme a los cuales la institución lleve a cabo sus operaciones;
-
-II. Analizar y opinar sobre el informe de actividades y los estados financieros que le presente el consejo directivo por conducto del director general;
-
-III. Opinar sobre los proyectos de aplicación de utilidades;
-
-IV. Formular al consejo directivo las recomendaciones que estime conveniente sobre las materias de que tratan las fracciones anteriores;
-
-V. Designar y remover a los consejeros y comisarios de la serie "B", con el acuerdo de por lo menos las dos terceras partes;
-
-VI. Aprobar los informes anuales de actuación que le presenten los consejeros serie "B" y en su caso, tomar las medidas que juzgue oportunas, y
-
-VII. Los demás de carácter consultivo que se señalen en el reglamento orgánico.
+(DEROGADO, D.O.F. 24 DE JUNIO DE 2002)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -1150,9 +1206,11 @@ XXVII. Las análogas o conexas que autorice la Secretaría de Hacienda y Crédit
 
 La realización de las operaciones señaladas en las fracciones XXIV y XXVI de este artículo, así como el cumplimiento de las obligaciones de las partes, se sujetarán a lo previsto por esta Ley y, en lo que no se oponga a ella, por la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
 
+> <small>(REFORMADO, PRIMER PARRAFO D.O.F. 24 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 47.
 
-Las instituciones de banca de desarrollo realizarán, además de las señaladas en el artículo anterior, las operaciones necesarias para la adecuada atención del correspondiente sector de la economía nacional y el cumplimiento de las funciones y objetivos que les sean propios, conforme a las modalidades y excepciones que respecto a las previstas en esta u otras leyes, determinen sus leyes orgánicas.
+Las instituciones de banca de desarrollo realizarán, además de las señaladas en el artículo anterior, las operaciones necesarias para la adecuada atención del correspondiente sector de la economía nacional y el cumplimiento de las funciones y objetivos que le sean propios, conforme a las modalidades y excepciones que respecto a las previstas en ésta u otras leyes, determinen sus leyes orgánicas. Por lo que corresponde a los sistemas de registro y contabilidad de las operaciones bancarias no será aplicable lo dispuesto en la fracción VIII del artículo 37 de la Ley Orgánica de la Administración Pública Federal.
 
 Las operaciones a que se refieren las fracciones I y II del artículo anterior, las realizarán las instituciones de banca de desarrollo con vistas a facilitar a los beneficiarios de sus actividades, el acceso al servicio de banca y crédito y propiciar en ellos el hábito del ahorro y el uso de los servicios que presta el Sistema Bancario Mexicano, de manera que no se produzcan desajustes en los sistemas de captación de recursos del público.
 
@@ -1194,11 +1252,11 @@ Al ejercer las atribuciones que le confiere este artículo, la Secretaría de Ha
 
 > <small>(DEROGADO CUARTO PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 51.
 
-Al realizar sus operaciones las instituciones de banca múltiple deben diversificar sus riesgos. La Comisión Nacional Bancaria y de Valores con acuerdo de su Junta de Gobierno determinará mediante reglas generales:
+Al realizar sus operaciones las instituciones de crédito deben diversificar sus riesgos. La Comisión Nacional Bancaria y de Valores con acuerdo de su Junta de Gobierno determinará mediante reglas generales:
 
 I. Los porcentajes máximos de los pasivos a cargo de una institución que correspondan a obligaciones directas o contingentes en favor de una misma persona, entidad o grupo de personas que de acuerdo con las mismas reglas deban considerarse para estos efectos, como un solo acreedor, y
 
@@ -1281,6 +1339,28 @@ IV. Podrán efectuarse en las demás operaciones activas previstas en esta Ley.
 La suma de las inversiones a que se refieren las fracciones I, II y III de este artículo, el monto de las operaciones que exceda los límites previstos para la inversión de sus pasivos, y el valor estimado de los bienes, derechos y títulos que reciban en pago de créditos o como adjudicación, no podrá exceder al capital pagado y reservas de capital de la institución.
 
 La Secretaría de Hacienda y Crédito Público determinará, mediante disposiciones de carácter general, las reservas de capital computables para los efectos de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 55 Bis.
+
+Cada institución de banca de desarrollo, constituirá un fideicomiso dentro de la propia institución, como excepción a lo dispuesto en el penúltimo párrafo del artículo 383 de la Ley General de Títulos y Operaciones de Crédito y del artículo 106, fracción XIX, inciso a), de esta Ley, mediante aportaciones calculadas sobre los montos insolutos de los recursos captados por cuenta propia mediante actos causantes de pasivo directo, ya sea a través del gran público inversionista, de ventanilla o de cualquier otro medio de captación dirigido al público en general, que tendrá como fin el proporcionar apoyos a las propias instituciones, encaminados al fortalecimiento de su capital.
+
+La cuota al millar sobre la que se calcularán las aportaciones al fideicomiso, se determinará por la Comisión Nacional Bancaria y de Valores. Las cuotas podrán ser diferenciales atendiendo el caso particular de cada institución de banca de desarrollo. La Secretaría de Hacienda y Crédito Público expedirá las reglas de carácter general a las que se sujetarán los fideicomisos mencionados.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 55 Bis 1.
+
+Las instituciones de banca de desarrollo enviarán al Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público, y ésta a su vez al Congreso de la Unión, junto con los Informes sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública y en los recesos de éste, a la Comisión Permanente, lo siguiente:
+
+I. En el informe de enero a marzo de cada año, una exposición sobre los programas de créditos, de garantías, transferencias de subsidios y transferencias de recursos fiscales, así como aquellos gastos que pudieran ser objeto de subsidios o transferencias de recursos fiscales durante el ejercicio respectivo, sustentado en los hechos acontecidos en el ejercicio anterior con la mejor información disponible, indicando las políticas y criterios conforme a los cuales realizarán sus operaciones a fin de coadyuvar al cumplimiento del Plan Nacional de Desarrollo, así como un informe sobre su presupuesto de gasto corriente y de inversión, correspondiente al ejercicio en curso. En este informe también deberá darse cuenta sobre las contingencias derivadas de las garantías otorgadas por la institución de banca de desarrollo de que se trate y el Gobierno Federal, así como las contingencias laborales que ésta pudiere enfrentar, al amparo de un estudio efectuado por una calificadora de prestigio, en el ejercicio anterior.
+
+II. Dentro de los ciento veinte días siguientes al cierre de cada ejercicio, las instituciones de banca de desarrollo emitirán un informe anual sobre el cumplimiento de los programas anuales del citado ejercicio y en general, sobre el gasto corriente y de inversión, así como de las actividades de éstas en el transcurso de dicho ejercicio. Asimismo, se integrará a este informe el o los reportes elaborados por la Comisión Nacional Bancaria y de Valores, que envíe a la Secretaría de Hacienda y Crédito Público, relativos a la situación financiera y del nivel de riesgo de cada una de las instituciones de banca de desarrollo, y
+
+III. En el informe de julio a septiembre de cada año, un informe sobre el cumplimiento del programa anual de la institución de banca de desarrollo respectiva, durante el primer semestre del ejercicio de que se trate.
+
+Asimismo, cada institución de banca de desarrollo deberá publicar trimestralmente, en dos periódicos de amplia circulación en el país, el estado que guarda su patrimonio, así como los indicadores más representativos de su situación financiera y administrativa.
 
 ### CAPITULO III. De las Operaciones Activas
 
@@ -1948,7 +2028,9 @@ A las instituciones de crédito les estará prohibido:
 
 I. Dar en garantía sus propiedades;
 
-II. Dar en prenda los títulos o valores de su cartera, salvo que se trate de operaciones con el Banco de México, con las instituciones de banca de desarrollo, con el Fondo Bancario de Protección al Ahorro y los fideicomisos públicos constituidos por el Gobierno Federal para el fomento económico;
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+II. Dar en prenda o caución bursátil los títulos o valores de su cartera, salvo que se trate de operaciones con el Banco de México, con las instituciones de banca de desarrollo, y los fideicomisos públicos constituidos por el Gobierno Federal para el fomento económico;
 
 III. Dar en garantía títulos de crédito que emitan, acepten o conserven en tesorería;
 
@@ -2997,3 +3079,29 @@ CUARTO.- Los nombramientos de consejeros, director general y funcionarios con la
 QUINTO.- Lo señalado por el artículo 134 Bis 1 de la Ley de Instituciones de Crédito, en cuanto a la suspensión del pago de intereses y principal, no será aplicable a títulos que hayan sido emitidos con anterioridad a la fecha de entrada en vigor del presente Decreto.
 
 SEXTO.- A partir de la entrada en vigor del presente Decreto y de conformidad con lo establecido en la Manifestación Tercera del "Decreto de Promulgación de la Convención de la Organización de Cooperación y Desarrollo Económicos", publicado en el Diario Oficial de la Federación el 5 de julio de 1994, México extenderá los beneficios de las medidas de liberalización que el Tratado de Libre Comercio de América del Norte prevé en relación con el establecimiento de y la inversión directa en instituciones financieras domiciliadas en el territorio de algún miembro de la Organización de Cooperación y Desarrollo Económicos.
+
+D.O.F. 24 DE JUNIO DE 2002.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+La Secretaría de Hacienda y Crédito Público dará a conocer las reglas para determinar las cuotas a que se refiere el artículo 55 bis de la Ley de Instituciones de Crédito, así como el régimen de inversión de los fideicomisos, que deberán constituir las instituciones de banca de desarrollo dentro de los siguientes noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Las instituciones de banca de desarrollo, se sujetarán a las Condiciones Generales de Trabajo vigentes, hasta en tanto no se emitan las nuevas y éstas entren en vigor.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a las leyes que se reforman, adicionan y derogan en el presente Decreto.
+
+###### ARTICULO QUINTO.
+
+Los procedimientos que hubieren iniciado con anterioridad a la entrada en vigor del presente Decreto, conforme a las leyes que se reforman, adicionan y derogan continuarán rigiéndose por las disposiciones vigentes en la fecha de publicación de este Decreto.
+
+...
