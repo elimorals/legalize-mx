@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1997-02-14"
+last_updated: "1997-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE DICIEMBRE DE 1997.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -2057,4 +2057,10 @@ B.O. 14 DE FEBRERO DE 1997.
 
 PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno de Estado de Baja California Sur.
 
-SEGUNDO: A más tardar el día 15 de Diciembre de 1997, se deberán realizar las adecuaciones a la legislación secundaria en la materia objeto del presente Decreto.
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 1997)</small>
+
+SEGUNDO: A más tardar el día 15 de Junio de 1998, se deberán realizar las adecuaciones a la legislación secundaria en la materia objeto del presente Decreto.
+
+B.O. 12 DE DICIEMBRE DE 1997.
+
+ÚNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
