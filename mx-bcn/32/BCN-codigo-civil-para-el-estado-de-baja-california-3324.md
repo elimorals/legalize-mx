@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2004-06-11"
+last_updated: "2004-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 2004.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -1701,7 +1701,13 @@ XVI.- Cometer un cónyuge contra la persona o los bienes del otro, un acto que s
 
 XVII.- La separación de los cónyuges por más de dos años, independientemente de la causa que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos.
 
-XVIII.- El mutuo consentimiento.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2004)</small>
+
+XVIII.- Las conductas de violencia familiar, generadas por un cónyuge contra los hijos de ambos o de alguno de ellos, entendiéndose por éstas, el uso de la fuerza física o moral así como las omisiones graves que de manera reiterada se ejerzan contra los mismos y que atenten contra su integridad física, psíquica o ambas independientemente de que pueda producir o no lesión, y
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2004)</small>
+
+XIX.- El mutuo consentimiento.
 
 ###### ARTICULO 265.
 
@@ -1807,7 +1813,9 @@ VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren d
 
 La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
 
-PRIMERA.- Cuando la causa del divorcio estuviere comprendida en las Fracciones I, II, III, IV, V, XIV y XV del artículo 264, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere se nombrará tutor.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2004)</small>
+
+PRIMERA.- Cuando la causa del divorcio estuviere comprendida en las Fracciones I, II, III, IV, V, XIV, XV y XVIII del artículo 264, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere se nombrará tutor.
 
 SEGUNDA.- Cuando la causa de divorcio estuviere comprendida en las Fracciones X y XVI del artículo 264, los hijos quedarán bajo la patria potestad del cónyuge inocente; pero a la muerte de éste, el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables, se les suspenderá en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta.
 
@@ -15414,3 +15422,9 @@ UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su public
 P.O. 11 DE JUNIO DE 2004.
 
 UNICO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 17 DE SEPTIEMBRE DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
