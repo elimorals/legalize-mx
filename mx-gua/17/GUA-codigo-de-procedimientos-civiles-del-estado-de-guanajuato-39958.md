@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1989-07-28"
+last_updated: "1989-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1989.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -243,9 +243,11 @@ II.- De parte del demandado, por contestar la demanda y por reconvenir al actor,
 
 III.- De parte de cualquiera de los interesados, cuando desista de una competencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1989)</small>
+
 ###### Art. 30.
 
-Por razón de territorio es juez competente:
+Por razón del territorio es Juez competente:
 
 I.- El del lugar que el demandado haya señalado para ser requerido judicialmente sobre cumplimiento de su obligación;
 
@@ -258,6 +260,10 @@ IV.- El del domicilio del demandado, tratándose de acciones reales sobre mueble
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 1988)</small>
 
 Tratándose de responsabilidad civil, es juez competente el del lugar donde se realizó el hecho que le haya dado origen, o el del domicilio del demandado a elección del actor o demandante.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1989)</small>
+
+En los juicios de alimentos es Juez competente el del domicilio del actor o del demandado, a elección del acreedor alimentario.
 
 > <small>(F. DE E., P.O. 8 DE MARZO DE 1934)</small>
 
@@ -4898,3 +4904,9 @@ El presente Decreto entrará en vigor el cuarto día siguiente al de su publicac
 ###### ARTICULO SEGUNDO.
 
 Los Juicios Civiles que hayan sido abiertos a prueba antes de entrar en vigor el presente Decreto, en cuanto al ofrecimiento y desahogo de la prueba pericial se tramitarán conforme a las disposiciones vigentes al haber sido abiertos a prueba.
+
+P.O. 19 DE DICIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
