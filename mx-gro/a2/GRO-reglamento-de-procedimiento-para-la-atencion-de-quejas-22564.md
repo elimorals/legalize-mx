@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-de-procedimiento-para-la-atencion-de-quejas-22564"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-16"
-last_updated: "2001-11-16"
+last_updated: "2004-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 REGLAMENTO DE PROCEDIMIENTO PARA LA ATENCION DE QUEJAS MEDICAS DE LA COMISION ESTATAL DE ARBITRAJE MEDICO DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCION DE QUEJAS MEDICAS Y DICTAMENES MEDICOS INSTITUCIONALES DE LA COMISION ESTATAL DE ARBITRAJE MEDICO DE GUERRERO, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el viernes 16 de noviembre de 2001.
 
@@ -858,3 +860,13 @@ Rúbrica.
 LIC. LEON PEREZ CORTEZ.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2004.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los asuntos en trámite ante la CEAM-GRO, seguirán su procedimiento de acuerdo a lo establecido en cada caso. En el supuesto que la naturaleza del caso lo permita, las partes podrán acordar que las diligencias pendientes se sujeten a lo establecido en el presente Reglamento, dejando debida constancia de ello en sus expedientes.
+
+TERCERO. Se abroga el Reglamento de Procedimiento para la Atención de Quejas Médicas de la Comisión Estatal de Arbitraje Médico del Estado de Guerrero, expedido por su Consejo en la segunda sesión ordinaria, celebrada el veintiséis de febrero del año dos mil uno, y publicado en el Periódico Oficial del Estado de Guerrero, el dieciséis de noviembre del año dos mil uno.
