@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1561
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-02"
-last_updated: "2002-03-07"
+last_updated: "2002-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 2 de diciembre de 1998.
 
@@ -737,7 +737,7 @@ III. Especiales.
 
 > <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2001)</small>
 
-Las comisiones de gobierno son la Comisión de Régimen Interno y Concertación Política y la de Planeación, Patrimonio y Finanzas.
+Las comisiones de gobierno son la Comisión de Régimen Interno y Concetación Política y la de Planeación, Patrimonio y Finanzas.
 
 #### SECCION PRIMERA. DE LAS COMISIONES LEGISLATIVAS
 
@@ -945,7 +945,9 @@ Las solicitudes de autorización de créditos materia del dictamen, deberán aco
 
 VI. Expedición de las bases sobre las cuales se reglamenten las adquisiciones, arrendamientos y enajenaciones del patrimonio de la Administración Pública, y para el otorgamiento de contratos de obra pública, así como la adquisición de bienes y servicios;
 
-VII. De los que se refieran sobre autorización a los ayuntamientos o al Ejecutivo del Estado, para la enajenación de inmuebles o constitución de derechos reales sobre los mismos; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2002)</small>
+
+VII. De los que se refieran sobre autorización a los ayuntamientos o al Ejecutivo del Estado, para la desafectación, cambio de régimen de propiedad o enajenación de bienes muebles e inmuebles, o constitución de derechos reales sobre los mismos; y
 
 VIII. Del examen y aprobación en su caso de las cuentas públicas del Estado y municipios en los términos de la Constitución Política del Estado.
 
@@ -1575,20 +1577,24 @@ DIP. ENRIQUE RAMIREZ HERNANDEZ
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 23 DE JUNIO DE 1999
+P.O. 23 DE JUNIO DE 1999.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
-P.O. 12 DE AGOSTO DE 2000
+P.O. 12 DE AGOSTO DE 2000.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
-P.O. 11 DE AGOSTO DE 2001
+P.O. 11 DE AGOSTO DE 2001.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 SEGUNDO.- En un término que no excederá de quince días contados a partir de la vigencia de este Decreto, deberá expedirse el Reglamento General del Poder Legislativo.
 
-P.O. 7 DE MARZO DE 2002
+P.O. 7 DE MARZO DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 20 DE NOVIEMBRE DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
