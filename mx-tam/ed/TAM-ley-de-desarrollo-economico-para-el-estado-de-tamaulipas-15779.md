@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-economico-para-el-estado-de-tamaulipas-15779"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-21"
-last_updated: "1998-01-21"
+last_updated: "1999-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DESARROLLO ECONOMICO PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 21 de enero de 1998.
 
@@ -135,7 +135,9 @@ II.- Por parte del Congreso del Estado: Los titulares de las Comisiones afines c
 
 III.- Por parte de los Organismos Privados: Los representantes estatales de las Organizaciones Empresariales Productivas y de Servicios, y Sociales.
 
-El Consejo será presidido por el titular del Poder Ejecutivo del Estado; el Secretario de Desarrollo Industrial, Comercial y Turístico tendrá el carácter de Vicepresidente y será quien presida las reuniones del Consejo, en ausencia del Presidente, asumiendo sus atribuciones. Deberá de haber igual número de representantes del sector público y el sector privado. Por cada representante titular deberá designarse un suplente, quien cubrirá sus ausencias.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1999)</small>
+
+El Consejo será presidido por el titular del Poder Ejecutivo del Estado; el Secretario de Desarrollo Industrial, Comercial y Turístico tendrá el carácter de Vicepresidente y en ausencia del Presidente será quien presida las reuniones del Consejo, asumiendo sus atribuciones. El consejo convocará a reunión ordinaria cuando menos cada tres meses. Deberá haber igual número de representantes del sector público y del sector privado. Por cada representante titular deberá designarse un suplente, quien cubrirá sus ausencias.
 
 ###### ARTICULO 8o.
 
@@ -150,6 +152,10 @@ III.- Impulsar el desarrollo de las actividades económicas generadoras de emple
 IV.- Emitir opinión sobre la demanda de parques industriales, centros comerciales y de servicios, considerando las propuestas y gestión de recursos para el desarrollo de la infraestructura que demanden los inversionistas; y,
 
 V.- Estudiar y analizar necesidades y problemática que enfrente el sector productivo, así como proponer alternativas que alienten su crecimiento y consoliden sus niveles de producción.
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 1999)</small>
+
+VI.- Emitir opinión sobre la donación o dación en comodato de predios, así como de los demás estímulos que se mencionan en los Artículos 19 y 20 de la presente Ley, tomando en cuenta a los Consejos Consultivos Municipales o Regionales para el Desarrollo Económico.
 
 ###### ARTICULO 9o.
 
@@ -193,7 +199,7 @@ Los Consejos Consultivos Municipales o Regionales para el Desarrollo Económico,
 
 ###### ARTICULO 16.
 
-Las Dependencias deberán de integrar un banco de datos y diseñar los programas necesarios para la captación de información geográfica y estadística, que permita fortalecer los procesos para la planeación del desarrollo económico del Estado, obligándose a conservar adecuadamente y a garantizar su uso o consulta.
+Las Dependencias deberán de integrar un banco de datos y diseñar los programas necesarios para la captación de información geográfica y estadística, que permita fortalecer los procesos para la planeación del desarrollo económico del Estado, obligándose a conservarla adecuadamente y a garantizar su uso o consulta.
 
 ###### ARTICULO 17.
 
@@ -418,3 +424,11 @@ ATENTAMENTE
 "SUFRAGIO EFECTIVO. NO REELECCION."
 
 El Gobernador Constitucional del Estado, MANUEL CAVAZOS LERMA.- El Secretario General del Gobierno, JAIME RODRIGUEZ INURRIGARRO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE MARZO DE 1999
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
