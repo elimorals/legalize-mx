@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-expropiacion-por-causa-de-utilidad-publica-7741"
 country: "mx"
 rank: "ley"
 publication_date: "1938-12-14"
-last_updated: "1938-12-14"
+last_updated: "1994-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE EXPROPIACION POR CAUSA DE UTILIDAD PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 14 de diciembre de 1938.
 
@@ -67,9 +67,15 @@ XII.- Los demás casos previstos por Leyes especiales.
 
 En los casos comprendidos en la enumeración del artículo 1o., previa declaración del Ejecutivo del Estado, procederá la expropiación, la ocupación temporal, total o parcial o la simple limitación de los derechos de dominio para los fines del Estado o en interés de la colectividad.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1994)</small>
+
 ###### ARTICULO 3o.
 
-El Ejecutivo del Estado, por conducto del Ayuntamiento o Departamento de Gobierno, tramitará el expediente de expropiación, de ocupación temporal o de limitación de dominio, y en su caso hará la declaratoria respectiva.
+El Ejecutivo del Estado hará la declaratoria de expropiación, de ocupación temporal o de limitación de dominio, en su caso, una vez tramitado el expediente respectivo por conducto de la Secretaría General de Gobierno.
+
+> <small>(F. DE E., 2 DE MAYO DE 1994)</small>
+
+Cuando el expediente se tramite para que el bien a expropiarse pase al patrimonio de un municipio del Estado o al de una persona distinta a ambos, una u otra, en su caso, podrán intervenir como coadyuvantes, quedando sometidos a lo dispuesto en los Artículos 19 y 20 de esta Ley.
 
 ###### ARTICULO 4o.
 
@@ -79,9 +85,21 @@ La declaratoria a que se refiere el artículo anterior se hará mediante acuerdo
 
 Los propietarios afectados podrán interponer, dentro de los quince días hábiles siguientes a la notificación del acuerdo, recurso administrativo de revocación contra la declaratoria correspondiente.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1994)</small>
+
 ###### ARTICULO 6o.
 
-El recurso administrativo de revocación se interpondrá ante el Ayuntamiento o Departamento del Gobierno que haya tramitado el expediente de expropiación, de ocupación temporal o de limitación de dominio.
+El recurso a que se refiere el Artículo anterior, se interpondrá por escrito ante la Secretaría General de Gobierno, señalándose el acto que se impugna y con expresión clara y precisa, en párrafos numerados, de los agravios correspondientes.
+
+> <small>(F. DE E., 2 DE MAYO DE 1994)</small>
+
+Admitido el recurso se concederá un plazo probatorio de trece días hábiles, dividido en dos períodos: el primero de tres días para ofrecer las pruebas que se estimen pertinentes y el segundo de diez para su desahogo.
+
+No se admitirá la prueba de confesión por posiciones.
+
+El plazo para alegar será de tres días hábiles a contar del siguiente al en que concluye el de desahogo de pruebas.
+
+La resolución del recurso se pronunciará dentro de los cinco días hábiles siguientes al en que concluya el plazo para alegar.
 
 ###### ARTICULO 7o.
 
@@ -95,9 +113,13 @@ En los casos a que se refieren las Fracciones V, VI, IX, X y XI del Artículo 1o
 
 Si los bienes que han originado una declaratoria de expropiación, de ocupación temporal o de limitación de dominio, no fueren destinados al fin que dió causa a la declaratoria respectiva, dentro del término de cinco años, el propietario afectado podrá reclamar la reversión del bien de que se trate, o la insubsistencia del acuerdo sobre ocupación temporal o limitación de dominio.
 
+(REFORMADO, P.O. 28 MARZO DE 1994) (F. DE., 2 DE MAYO DE 1994)
+
 ###### ARTICULO 10o.
 
-El precio que se fijará como indemnización a la cosa expropiada se basará en la cantidad que como valor fiscal de ella figure en las oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las oficinas rentísticas.
+El precio que se fijará como indemnización a la cosa expropiada se basará en la cantidad que como valor fiscal de ella figure en las oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base. Sobre la base referida, la Dirección de Catastro de la Secretaría de Finanzas y Tesorería General del Estado, expedirá, en el caso de que se trate, un avalúo actual real en los mismos términos que, conforme a la ley, corresponda hacer para efecto del pago del Impuesto Sobre Adquisición de Inmuebles o el pago de los tributos que genere una operación de compraventa, teniendo una vigencia de seis meses contados a partir de su expedición.
+
+Cuando los bienes, materia de expropiación, sean objetos cuyo valor no esté fijado en las citadas oficinas, el valor de la indemnización quedará sujeto a juicio pericial y a resolución judicial.
 
 ###### ARTICULO 11o.
 
@@ -119,11 +141,13 @@ Los honorarios de cada perito serán pagados por la parte que deba nombrarlo y l
 
 El Juez fijará un plazo que no excederá de sesenta días para que los peritos rindan dictamen.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1994)</small>
+
 ###### ARTICULO 16o.
 
-Si los peritos estuvieren de acuerdo en la fijación del valor de las mejoras o el demérito, el Juez de plano fijará el monto de la indemnización; en caso de inconformidad llamará al tercero, para que dentro del plazo que le fije que no excederá de treinta días, rinda su dictamen.
+Si los peritos estuvieren de acuerdo con el valor fijado en el avalúo actual real, el Juez hará de plano la declaratoria de ser ése el monto de la indemnización. En caso de inconformidad llamará al tercero, para que dentro del plazo que le fije, sin exceder de 30 días, rinda su dictamen.
 
-Con vista de los dictámenes de los peritos, el Juez resolverá dentro del término de diez días, lo que estime procedente.
+Con vista de los dictámenes de los peritos, el Juez resolverá lo que considere procedente dentro del plazo de diez días.
 
 ###### ARTICULO 17o.
 
@@ -133,17 +157,19 @@ Contra la resolución judicial que fije el monto de la indemnización, no cabrá
 
 Si la ocupación fuere temporal, el monto de la indemnización quedará a juicio de peritos y a resolución judicial, en los términos de esta Ley. Esto mismo se observará en el caso de limitación de dominio.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1994)</small>
+
 ###### ARTICULO 19o.
 
-El importe de la indemnización será cubierto por el Estado cuando la cosa expropiada pase a su patrimonio, o por el Ayuntamiento correspondiente cuando el bien o bienes de que se trate pasen a formar parte de su patrimonio.
+El importe de la indemnización será pagado por el Estado, por el Municipio o por la persona distinta de ambos, según sea el patrimonio al que pase el bien expropiado, conforme a lo previsto en el Artículo 3o. de esta Ley.
 
-Cuando la cosa expropiada pase al patrimonio de persona distinta del Estado o del Ayuntamiento correspondiente, esa persona cubrirá el importe de la indemnización.
+Lo anterior se aplicará, en lo conducente a los casos de ocupación temporal o de limitación al derecho de dominio.
 
-Estas disposiciones se aplicarán, en lo conducente, a los casos de ocupación temporal o de limitación al derecho de dominio.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 20o.
 
-El Ejecutivo del Estado fijará la forma y plazos en que la indemnización deberá pagarse, los que no abarcarán nunca un período mayor de 10 años.
+El pago del importe de la indemnización a que se refiere el artículo anterior, se hará en la forma y plazos que fije el Ejecutivo del Estado, los que no abarcarán nunca un período mayor de diez años. Se pagará el costo financiero.
 
 ## TRANSITORIOS.
 
@@ -162,3 +188,11 @@ Gral. De Bgda. ANACLETO GUERRERO.
 El Srio. General de Gobierno.
 
 DR. RAMIRO TAMEZ.
+
+> <small>N. DE E. ACONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE MARZO DE 1994.
+
+###### ARTICULO UNICO
+
+- Este Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
