@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2001-12-21"
+last_updated: "2001-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2001.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -47,9 +47,11 @@ Las disposiciones de este Código son de orden público e interés general y tie
 
 La actividad financiera comprende la obtención, administración y aplicación de los ingresos públicos.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 2.
 
-Los actos, procedimientos y resoluciones que dicten o ejecuten las autoridades, así como las inconformidades que se susciten por la aplicación de este ordenamiento, se tramitarán y resolverán conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
+Los actos, procedimientos y resoluciones que dicten o ejecuten las autoridades, así como las inconformidades que se susciten por la aplicación de este ordenamiento, se tramitarán y resolverán conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México, salvo que se trate de actos y procedimientos regulados expresamente en este Código.
 
 ###### Artículo 3.
 
@@ -57,7 +59,11 @@ Para efectos de este Código se entenderá por:
 
 I. Estado Al Estado Libre y Soberano de México.
 
-II. Municipios A los municipios del Estado de México.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+II. Municipios. A los municipios que señala la Ley Orgánica Municipal
+
+del Estado de México.
 
 III. Legislatura A la Legislatura del Estado de México.
 
@@ -67,13 +73,15 @@ IV. Gobernador Al Gobernador del Estado de México.
 
 V. Ayuntamiento A los Ayuntamientos del Estado de México.
 
-VI. Dependencias A los órganos administrativos del sector central de la administración pública, sea estatal o municipal.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+VI. Dependencias. A las Secretarías que se señalan en la Ley Orgánica de la Administración Pública del Estado de México, incluyendo a sus respectivos órganos administrativos desconcentrados.
 
 VII. Secretaría A la Secretaría de Finanzas y Planeación.
 
-VIII. Entidades A los organismos públicos descentralizados, empresas de
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-Públicas participación estatal o municipal y fideicomisos públicos.
+VIII. Entidades Públicas. A tribunales administrativos y organismos públicos descentralizados, empresas de participación estatal o municipal y fideicomisos públicos.
 
 IX. Tesorería A la tesorería municipal.
 
@@ -85,21 +93,47 @@ XII. Periódico Oficial A la "Gaceta del Gobierno" del Estado, y a la Gaceta Mun
 
 caso de los municipios.
 
-> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-XIII. Para efectos de vivienda localizada en zonas urbanas o rurales:
+XIII. Vivienda localizada en zonas urbanas o rurales:
 
-A). Social Progresiva. Aquélla cuyo valor al término de la construcción o adquisición no exceda de 40,000 Unidades de Inversión.
+A). Social Progresiva. Aquélla cuyo valor al término de la construcción o adquisición no exceda de 55,000 Unidades de Inversión.
 
-B). Interés Social. La que tenga un valor al término de la construcción o adquisición que no exceda de la cantidad de 71,500 Unidades de Inversión.
+B). Interés Social. La que tenga al término de la construcción o adquisición un valor entre 55,001 y 71,500 Unidades de Inversión.
 
-C). Popular. La que tenga un valor al término de la construcción o adquisición que no exceda de 104,500 Unidades de Inversión.
+C). Popular. La que tenga al término de la construcción o adquisición un valor entre 71,501 y 104,500 Unidades de Inversión.
 
-D). Media. La que tenga un valor al término de la construcción o adquisición que no exceda de la cantidad de 296,000 Unidades de Inversión.
+D). Media. La que tenga al término de la construcción o adquisición un valor entre 104,501 y 296,000 Unidades de Inversión.
 
-E). Residencial. La que tenga el (sic) término de la construcción o adquisición un valor que exceda de la cantidad de 296,000 Unidades de Inversión.
+E). Residencial. La que tenga al término de la construcción o adquisición un valor entre 296,001 y 492,000 Unidades de Inversión.
 
-F). Residencial alto y campestre. Aquélla cuyo valor al término de la construcción o adquisición exceda de la cantidad de 492,000 Unidades de Inversión (UDIS).
+F). Residencial alto y campestre. La que tenga al término de la construcción o adquisición un valor que exceda de la cantidad de 492,001 unidades de inversión.
+
+En el caso que las leyes federales incrementen o disminuyan los montos estimados, se deberá estar a lo dispuesto en esas disposiciones legales.
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+XIV. Precio Público. El valor pecuniario que fijen las autoridades fiscales, cuando con motivo de sus atribuciones, se fije el costo de una prestación o servicio en cantidad determinada, debiendo publicarse ésta en el periódico oficial según corresponda.
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+XV. IGECEM. Al Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México.
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+XVI. LIGECEM. A la Ley de Información e Investigación Geográfica, Estadística y Catastral del Estado de México.
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+XVII. Asociación en Participación.
+
+Es un contrato por el cual una persona concede a otras que le aporten bienes o servicios, una participación en las utilidades y en las pérdidas de una negociación mercantil o de una o varias operaciones de comercio.
+
+Para efectos fiscales, las asociaciones en participación se consideran personas morales.
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+XVIII. Sector. A la agrupación de objetivos, proyectos y acciones que responden a un segmento de los fenómenos económicos y sociales que atienden de manera agregada a las previsiones del Plan de Desarrollo del Estado de México.
 
 Cuando en este ordenamiento se señale al Estado y municipios o sus dependencias y entidades públicas, se entenderá que cada una actúa de acuerdo con su competencia.
 
@@ -143,15 +177,17 @@ III. Aportaciones de Mejoras. Son las establecidas en este Código, a cargo de l
 
 Son productos, las contraprestaciones por los servicios que presten el Estado y los municipios en sus actividades de derecho privado, así como por el uso, aprovechamiento y enajenación de sus bienes de dominio privado, que estén previstos en la Ley de Ingresos.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 11.
 
-Son aprovechamientos los ingresos que percibe el Estado y los municipios por funciones de derecho público, distintos de las contribuciones, de los ingresos derivados de la coordinación hacendaria y de los que obtengan los organismos auxiliares del Estado.
+Son aprovechamientos los ingresos que percibe el Estado y los municipios por funciones de derecho público y por el uso o explotación de bienes del dominio público, distintos de las contribuciones, de los ingresos derivados de la coordinación hacendaria, y de los que obtengan los organismos auxiliares del Estado.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 12.
 
-Son accesorios de las contribuciones y de los aprovechamientos, los recargos, la actualización, las sanciones, los gastos de ejecución y la indemnización por devolución de cheques, y participan de la naturaleza de la suerte principal, cuando se encuentren vinculados directamente a la misma.
+Son accesorios de las contribuciones y de los aprovechamientos, los recargos, las sanciones, los gastos de ejecución y la indemnización por devolución de cheques, y participan de la naturaleza de la suerte principal, cuando se encuentren vinculados directamente a la misma.
 
 ###### Artículo 13.
 
@@ -177,19 +213,21 @@ Son autoridades fiscales, el Gobernador, los ayuntamientos, los presidentes, sí
 
 El Estado, los municipios y los organismos públicos descentralizados podrán celebrar convenios para la administración y recaudación de contribuciones y aprovechamientos; y en este caso se considerarán autoridades fiscales, quienes asuman la función en los términos de los convenios que suscriban.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 18.
 
-Las disposiciones fiscales que establezcan cargas a las personas o instituciones, las que señalen excepciones a las mismas, así como las que fijen las infracciones y sanciones, son de aplicación estricta. Se considera que establecen cargas a las personas o instituciones las normas que se refieren al sujeto, objeto, base, tasa o tarifa de las contribuciones.
+Las disposiciones fiscales que establezcan cargas a las personas, incluidas las asociaciones en participación, las que señalen excepciones a las mismas, así como las que fijen las infracciones y sanciones, son de aplicación estricta. Se considera que establecen cargas a las personas, incluidas las asociaciones en participación las normas que se refieren al sujeto, objeto, base, tasa o tarifa de las contribuciones.
 
-> <small>(F. DE E., G.G. 12 DE MARZO DE 2001)</small>
+(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)(F. DE E., G.G. 12 DE MARZO DE 2001)
 
 Las demás disposiciones fiscales se deberán aplicar mediante cualquier método de interpretación jurídica. A falta de norma fiscal expresa, se aplicarán las disposiciones del derecho común vigente en el Estado, siempre y cuando su aplicación no sea contraria a la naturaleza jurídica del derecho fiscal.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 19.
 
-Las personas físicas y morales están obligadas al pago de las contribuciones y aprovechamientos, conforme a las disposiciones de este Código.
+Las personas físicas y morales, incluidas las asociaciones en participación, están obligadas al pago de las contribuciones y aprovechamientos, conforme a las disposiciones de este Código.
 
 ###### Artículo 20.
 
@@ -239,7 +277,29 @@ II. El lugar en que se realice el hecho generador de la obligación fiscal, cuan
 
 III. El que señalen ante la autoridad fiscal.
 
-En ningún caso se podrá señalar domicilio fuera del territorio del municipio para cumplir obligaciones municipales, y del territorio del Estado cuando se trate de obligaciones de carácter estatal.
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+Para efecto de cumplir obligaciones municipales se deberá señalar un domicilio dentro del territorio del municipio, y en el caso de obligaciones de carácter estatal, un domicilio dentro del territorio del Estado.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+Se entenderá que se señala como domicilio para oír y recibir notificaciones los estrados de las oficinas de la dependencia pública correspondiente cuando:
+
+A). El contribuyente así lo señale de manera expresa.
+
+B). Se señale domicilio fuera del territorio del Estado o Municipio.
+
+C). La persona a quien deba notificarse desaparezca después de iniciadas las facultades de comprobación.
+
+D). Exista oposición a la diligencia de notificación.
+
+E). El contribuyente desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio ante la autoridad fiscal estatal o municipal correspondiente, después de la notificación de la orden de visita o del requerimiento de información, o bien después de que se le hubiere notificado un crédito fiscal.
+
+F). Cuando se señale domicilio inexistente o falso.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+Las notificaciones por estrados se harán fijando durante cinco días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación. La autoridad dejará constancia de ello en el expediente respectivo. En estos caos, se tendrá como fecha de notificación la del sexto día siguiente a aquél en que se hubiera fijado el documento.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -251,7 +311,9 @@ Para efectos de la declaración de la exención a que se refiere la fracción IV
 
 No quedan comprendidos entre los bienes del dominio público los inmuebles que los organismos descentralizados utilicen para oficinas administrativas o en general para propósitos distintos a los del cumplimiento de su objeto.
 
-Las personas que de acuerdo con este Código no estén obligadas a pagar contribuciones, únicamente tendrán las obligaciones de carácter administrativo que en el mismo se establezcan.
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+Las personas, incluidas las asociaciones en participación, que de acuerdo con este Código no estén obligadas a pagar contribuciones, únicamente tendrán las obligaciones de carácter administrativo que en el mismo se establezcan.
 
 ### CAPITULO SEGUNDO. DEL NACIMIENTO, DETERMINACION, GARANTIA Y EXTINCION DE CREDITOS FISCALES
 
@@ -267,9 +329,11 @@ Cualquier estipulación privada, relativa al pago de un crédito fiscal que se o
 
 El cumplimiento o exigibilidad de la obligación fiscal, no legitimará hechos o circunstancias no apegadas a la ley.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 25.
 
-La determinación de los créditos fiscales corresponde a los contribuyentes. En caso de que la autoridad fiscal deba realizar esta acción, los contribuyentes proporcionarán la información necesaria dentro de los quince días siguientes a la fecha de su causación.
+La determinación de los créditos fiscales corresponde a los contribuyentes. En caso de que la autoridad fiscal deba realizar esta acción, los contribuyentes proporcionarán la información necesaria dentro de los diez días siguientes a la fecha de su causación.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -287,6 +351,10 @@ El cheque recibido por la autoridad fiscal deberá ser presentado al librado den
 
 Quien pague créditos fiscales recibirá de la oficina recaudadora el recibo oficial o la forma prellenada, en los que conste la impresión original de la máquina registradora, y cuando se carezca de ella, deberá constar el sello de la oficina recaudadora y el nombre y firma del cajero o del servidor público autorizado. Tratándose de los pagos efectuados en las oficinas de las instituciones de crédito autorizadas, el comprobante para el contribuyente deberá contener la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo correspondiente y el desglose del concepto de pago.
 
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+Tratándose de pagos efectuados por medios electrónicos autorizados, el comprobante de pago que expida la autoridad fiscal deberá contener el número de transferencia electrónica de fondos, proporcionado por la institución bancaria autorizada.
+
 ###### Artículo 27.
 
 Para determinar las contribuciones, aprovechamientos y sus accesorios se considerarán, inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de uno hasta cincuenta centavos se ajusten a la unidad inmediata anterior y las que contengan cantidades de cincuenta y uno a noventa y nueve centavos, se ajusten a la unidad inmediata superior.
@@ -298,6 +366,10 @@ Para el cumplimiento de obligaciones y pago de contribuciones, si el último dí
 ###### Artículo 29.
 
 Los créditos fiscales se pagarán en la fecha o dentro del plazo señalado en las disposiciones respectivas. A falta de disposición expresa, el pago deberá hacerse dentro de los siguientes diecisiete días a aquél en que se produzca el hecho generador.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+Los retenedores de contribuciones o las personas a quienes las leyes impongan la obligación de retenerlos periódicamente, los enterarán a más tardar el día 17 del mes de calendario inmediato posterior al de la terminación del periodo de la retención o causación.
 
 El pago de derechos deberá hacerse, previamente a la prestación de los servicios, salvo los casos en que expresamente se señale otro plazo.
 
@@ -323,21 +395,23 @@ La vigencia de los adeudos antes citados se deberán acreditar mediante certific
 
 Cuando en el procedimiento administrativo de ejecución concurran contra un mismo deudor el fisco federal con el fisco estatal o municipal fungiendo como autoridades federales de conformidad con los convenios de coordinación fiscal, la Secretaría de Hacienda y Crédito Público tramitará el procedimiento administrativo de ejecución y del producto obtenido, una vez cubiertos los gastos de ejecución, deberá cubrir los accesorios y contribuciones que correspondan al fisco estatal o municipal, en estricto cumplimiento del artículo 148 del Código Fiscal de la Federación.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 30.
 
-La falta de pago de un crédito fiscal en la fecha o dentro del plazo fijado por este Código, dará lugar a que sea exigible mediante el procedimiento administrativo de ejecución; su monto se actualizará de acuerdo al factor que se establezca en la Ley de Ingresos por cada mes que transcurra sin hacerse el pago y hasta que el mismo se efectué, además deberán pagarse recargos en concepto de indemnización al fisco por la falta de pago oportuno. Dichos recargos se calcularán aplicando al monto de las contribuciones o de los aprovechamientos actualizados por el período a que se refiere este párrafo, la tasa que fije la Ley de Ingresos.
+La falta de pago de un crédito fiscal en la fecha o dentro del plazo fijado por este Código, dará lugar a que sea exigible mediante el procedimiento administrativo de ejecución.
+
+Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará de acuerdo al factor que se establezca en la correspondiente Ley de Ingresos por cada mes que transcurra sin hacerse el pago y hasta que el mismo se efectúe, además deberán pagarse recargos en concepto de indemnización al fisco por la falta de pago oportuno. Dichos recargos se calcularán aplicando la tasa que fije la correspondiente Ley de Ingresos al monto de las contribuciones o de los aprovechamientos actualizados por el período a que se refiere este párrafo, excluyendo los propios recargos, la indemnización a que se refiere el quinto párrafo del artículo 26 de este Código, los gastos de ejecución y las multas por infracciones a las disposiciones fiscales.
 
 Los recargos se causarán hasta por cinco años por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
 Cuando el contribuyente pague en forma espontánea las contribuciones omitidas, dichos recargos no excederán del 50% del monto de las contribuciones. Cuando se hayan ejercido las facultades de revisión o comprobación fiscal que se establecen en este Código, los recargos no podrán exceder del 100% del monto de las contribuciones omitidas.
 
-> <small>(ADICIONADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+El monto actualizado de la contribución o el aprovechamiento conserva la naturaleza jurídica que tenía antes de su actualización.
 
-No se actualizarán ni causarán recargos las responsabilidades administrativas resarcitorias, así como las multas impuestas por autoridades no fiscales.
+No causarán recargos las multas impuestas por autoridades no fiscales ni las responsabilidades administrativas.
+
+Las responsabilidades administrativas y las multas impuestas por autoridades no fiscales en su caso, se actualizarán de acuerdo con las leyes especiales de la materia.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -555,7 +629,9 @@ La devolución deberá llevarse a cabo siempre que no haya créditos fiscales ex
 
 Si el pago de lo indebido se hubiera efectuado en cumplimiento de un acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente.
 
-Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de treinta días hábiles siguientes a la fecha en que se presente la solicitud, con los datos, informes y documentos en que se sustente el derecho, ante la autoridad fiscal. Cuando falte algún dato, informe o documento, la autoridad en un plazo de cinco días hábiles requerirá al promovente para que lo presente o subsane la omisión, lo que éste deberá hacer en un plazo de diez días hábiles, y de no hacerlo la solicitud se tendrá por no presentada. Cuando exista requerimiento, el plazo de treinta días se contará a partir de que se subsane la omisión.
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de treinta días siguientes a la fecha en que se presente la solicitud, con los datos, informes y documentos en que se sustente el derecho, ante la autoridad fiscal. Cuando falte algún dato, informe o documento, la autoridad en un plazo de cinco días requerirá al promovente para que lo presente o subsane la omisión, lo que éste deberá hacer en un plazo de diez días, y de no hacerlo la solicitud se tendrá por no presentada. Cuando exista requerimiento, el plazo de treinta días se contará a partir de que se subsane la omisión.
 
 Si la devolución no se hubiera efectuado en el plazo de treinta días hábiles, la autoridad fiscal pagará intereses que se calcularán a partir del día siguiente al del vencimiento, conforme a una tasa que será igual a la prevista para los recargos por pago extemporáneo.
 
@@ -669,6 +745,24 @@ Las autoridades fiscales, para determinar la existencia de créditos fiscales, d
 
 I. Ordenar y practicar visitas domiciliaras a los contribuyentes, responsables solidarios o terceros relacionados con ellos y revisar su contabilidad, bienes y documentos relacionados con sus obligaciones fiscales y, en su caso, podrán asegurarlos, previo inventario que al efecto se formule, dejando en calidad de depositario al visitado.
 
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+La orden de visita domiciliaria deberá cumplir únicamente con los siguientes requisitos:
+
+A). Constar por escrito.
+
+B). Señalar la autoridad que lo emite.
+
+C). Estar fundado y motivado.
+
+D). Ostentar la firma del servidor público competente y, en su caso, el nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación.
+
+E). Indicar el domicilio donde debe efectuarse la visita. El aumento de domicilios a visitar deberá notificarse al visitado.
+
+F). El nombre de la persona o personas que deban efectuar la visita, las cuales podrán ser sustituidas, aumentadas o reducidas en su número, en cualquier tiempo por la autoridad competente. La sustitución o aumento de las personas que deban efectuar la visita se notificará al visitado. Las personas designadas para efectuar la visita la podrán hacer conjunta o separadamente.
+
+G). El nombre de las contribuciones a revisar, indicando el o los ejercicios sujetos a revisión.
+
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes o la revisión de la contabilidad de los mismos que se efectúe en las oficinas de las propias autoridades, dentro de un plazo máximo de seis meses contados a partir de que se le notifique al contribuyente el inicio de facultades de comprobación.
@@ -697,9 +791,27 @@ De no concluirse la visita o revisión en el plazo señalado, ésta se entender�
 
 II. Realizar la verificación física, clasificación o valuación de bienes relacionados con las obligaciones fiscales establecidas por este Código.
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-III. Requerir a los sujetos directamente obligados responsables solidarios o terceros para que exhiban en su domicilio fiscal o en las oficinas de las propias autoridades fiscales los documentos que se estimen necesarios para comprobar el cumplimiento de las disposiciones señaladas en este Código, así como para que proporcionen los datos o informes que tengan relación con dicho cumplimiento, en un plazo de 15 días contados a partir del siguiente a aquel en que se le notificó la solicitud.
+III. Requerir a los sujetos directamente obligados, responsables solidarios o terceros, para que exhiban en su domicilio fiscal o en las oficinas de las propias autoridades fiscales los documentos que se estimen necesarios para comprobar el cumplimiento de las disposiciones señaladas en este Código, así como para que proporcionen los datos o informes que tengan relación con dicho cumplimiento, en un plazo de diez días contados a partir del siguiente a aquél en que se le notificó la solicitud.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+El requerimiento de documentos, datos o informes deberá cumplir únicamente con los siguientes requisitos:
+
+A). Constar por escrito.
+
+B). Señalar la autoridad que lo emite.
+
+C). Estar fundado y motivado.
+
+D). Ostentar la firma del servidor público competente y, en su caso, el nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación.
+
+E). Indicar el domicilio fiscal del contribuyente.
+
+F). El nombre de las contribuciones a revisar, indicando el o los ejercicios sujetos a revisión.
+
+> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 Cuando al verificar el cumplimiento de las obligaciones fiscales de los sujetos pasivos o responsables solidarios, sea necesario recabar de los propios responsables o de terceros, datos, informes o documentos, relacionados con los hechos que se deban comprobar una vez realizada la compulsa, la autoridad fiscal hará saber sus resultados a dichos sujetos pasivos o responsables solidarios, teniéndoseles por ciertos con dichos resultados si dentro del plazo de 20 días no manifiestan sus observaciones ni ofrecen las pruebas documentales pertinentes e idóneas para desvirtuarlos.
 
@@ -737,9 +849,19 @@ IV. No lleven los libros o registros a que están obligados, o no los conserven 
 
 V. Se adviertan o detecten irregularidades en sus registros que imposibiliten el conocimiento de sus operaciones, actividades o fuente generadora de la contribución.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 50.
 
-Las autoridades fiscales para determinar presuntivamente la base o fuente generadora de contribuciones, considerarán, salvo prueba en contrario, que la información contenida en libros, registros y documentación comprobatoria que se encuentre en poder del contribuyente, corresponde a operaciones celebradas por él, aún cuando aparezcan sin su nombre o a nombre de otra persona. También se considerará, salvo prueba en contrario, la que proporcionen terceros a solicitud de la autoridad fiscal.
+Las autoridades fiscales podrán determinar presuntivamente la base o fuente generadora de contribuciones utilizando indistintamente cualquiera de los siguientes procedimientos:
+
+I. Considerarán, salvo prueba en contrario, que la información contenida en libros, registros y documentación comprobatoria que se encuentre en poder del contribuyente, corresponde a operaciones celebradas por él, aún cuando aparezcan sin su nombre o a nombre de otra persona. También se podrá considerar, salvo prueba en contrario, la información que proporcionen terceros a solicitud de la autoridad fiscal.
+
+II. Podrán tomar como base los datos contenidos en cualquiera de las tres últimas declaraciones correspondientes a cualquier contribución federal, estatal o municipal, que hubieren sido presentadas, sean del mismo ejercicio o de cualquiera de los cinco últimos ejercicios.
+
+III. Utilizarán la información contenida en los dictámenes que para efectos fiscales hubieren presentado los contribuyentes conforme a las disposiciones fiscales federales.
+
+IV. Considerarán los hechos que conozcan las autoridades fiscales con motivo del ejercicio de sus facultades de comprobación previstas en este Código, o bien que consten en los expedientes o documentos que lleven o tengan en su poder, así como aquellos proporcionados por otras autoridades del nivel federal, estatal o municipal.
 
 ###### Artículo 51.
 
@@ -757,7 +879,9 @@ Las facultades de las autoridades para determinar créditos fiscales derivados d
 
 I. Se presentó la última declaración, cuando se tenga obligación de hacerlo.
 
-II. Se causaron las contribuciones, cuando no exista la obligación de pagarlas mediante declaración.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+II. Se presentó o debió presentarse la declaración, que corresponda a una contribución que no se pague periódicamente, o a partir de que se causaron las contribuciones cuando no exista la obligación de pagarlas mediante declaración.
 
 III. Se cometió infracción a las disposiciones fiscales; pero si la infracción es de carácter continuo, el término correrá a partir del día siguiente al en que cesó la consumación o se realizó la última conducta o hecho.
 
@@ -799,63 +923,59 @@ Los servidores públicos que intervengan en trámites relativos a la aplicación
 
 #### SECCION PRIMERA. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 56.
 
-Están obligados al pago de este impuesto, las personas físicas o morales que realicen pagos en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, independientemente de la denominación que se les otorgue.
-
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+Están obligados al pago de este impuesto, las personas físicas o morales, incluidas las asociaciones en participación, que realicen pagos en efectivo o especie por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, independientemente de la denominación que se les otorgue.
 
 También están obligados a retener y enterar este impuesto en términos del presente Código, las personas físicas o morales que contraten la prestación de servicios con empresas cuyo domicilio esté ubicado fuera del territorio de esta entidad, para que le proporcionen los trabajadores, siempre que el servicio personal se preste en el territorio del Estado. En este caso deberán entregar a la persona física o moral que le proporcione los trabajadores, la constancia de retención correspondiente.
 
 Para efectos de este impuesto se consideran remuneraciones, las siguientes:
 
-I. Sueldos y salarios.
+I. Pagos de sueldos y salarios.
 
-II. Tiempo extraordinario de trabajo.
+II. Pagos de tiempo extraordinario de trabajo.
 
-III. Premios, primas, bonos, estímulos e incentivos.
+III. Pagos de premios, primas, bonos, estímulos e incentivos.
 
-IV. Compensaciones.
+IV. Pagos de compensaciones.
 
-V. Gratificaciones y aguinaldos.
+V. Pagos de gratificaciones y aguinaldos.
 
-VI. Participación patronal al fondo de ahorros.
+VI. Pagos de participación patronal al fondo de ahorros.
 
-VII. Primas de antigüedad.
+VII. Pagos de primas de antigüedad.
 
-VIII. Participación de los trabajadores en las utilidades.
+VIII. Pagos de participación de los trabajadores en las utilidades.
 
-IX. Indemnizaciones por despido o terminación de la relación laboral.
+IX. Pagos de indemnizaciones por despido o terminación de la relación laboral.
 
-X. Comisiones.
+X. Pagos de comisiones.
 
 XI. Pagos realizados a administradores, comisarios o miembros de los consejos directivos de vigilancia o de administración de sociedades o asociaciones.
 
-> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+XII. Pagos de servicios de comedor y comida proporcionado a los trabajadores.
 
-XII. Servicios de comedor y comida proporcionado a los trabajadores.
+XIII. Pagos de vales de despensa.
 
-> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+XIV. Pagos de servicio de transporte.
 
-XIII. Vales de despensa.
+XV. Pagos de primas de seguros para gastos médicos o de vida.
 
-> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+XVI. Pagos realizados a las personas por los servicios que presten a un prestatario, siempre que dichos servicios se lleven a cabo en las instalaciones o por cuenta de éste último, por los que no se deba pagar el impuesto al valor agregado.
 
-XIV. Servicio de transporte
-
-> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
-XV. Primas de seguros para gastos médicos o de vida.
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 57.
 
-El impuesto se determinará aplicando la tasa del 2% sobre el monto total de los pagos efectuados por concepto de remuneraciones al trabajo personal subordinado.
+El impuesto se determinará aplicando la tasa del 2.5% sobre el monto total de los pagos efectuados por concepto de remuneraciones al trabajo personal a que se refiere el artículo 56 de este Código.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 58.
 
-Este impuesto se causará en el momento en que se realicen las erogaciones por remuneraciones al trabajo personal subordinado y se pagará mediante declaración en la forma oficial aprobada, que deberá presentarse a más tardar el día diecisiete del mes siguiente a aquél en que se causó el impuesto.
+Este impuesto se causará en el momento en que se realicen las erogaciones por remuneraciones al trabajo personal a que se refiere el artículo 56 de este Código, y se pagará mediante declaración en la forma oficial aprobada, que deberá presentarse a más tardar el día diecisiete del mes siguiente a aquél en que se causó el impuesto.
 
 ###### Artículo 59.
 
@@ -897,7 +1017,9 @@ E). Los sindicatos, cámaras empresariales y las instituciones que los agrupen.
 
 F). Las microindustrias inscritas en el Padrón Nacional de la Microindustria, hasta por 6 trabajadores, que perciban el salario mínimo general vigente del área geográfica que corresponda.
 
-G). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+G). Las asociaciones en participación que cuenten hasta con seis trabajadores que perciban el salario mínimo general vigente en el área geográfica que corresponda.
 
 H). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
 
@@ -963,9 +1085,9 @@ IV. En el caso de vehículos destinados al transporte público de pasajeros, se 
 
 Tratándose de vehículos de servicio público de transporte de pasajeros que pasen a ser de servicio particular, no pagarán el impuesto previsto en esta sección en el año que esta circunstancia ocurra, siempre y cuando se encuentren al corriente en el pago de esta contribución.
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-V. En el caso de vehículos destinados al transporte de carga, se pagará una cuota de 2.5 días de salario mínimo general vigente del área geográfica que corresponda, por cada tonelada o fracción de capacidad de carga. Si se acredita con la tarjeta de circulación respectiva, que el vehículo se utiliza en actividades agropecuarias, no pagará este impuesto.
+V. En el caso de vehículos destinados al transporte de carga, se pagará una cuota de 2.5 días de salario mínimo general vigente del área geográfica "C", por cada tonelada o fracción de capacidad de carga. Si se acredita con la tarjeta de circulación respectiva, que el vehículo se utiliza en actividades agropecuarias, no pagará este impuesto.
 
 #### SECCION TERCERA. DEL IMPUESTO SOBRE LA ADQUISICION DE VEHICULOS AUTOMOTORES USADOS
 
@@ -1035,17 +1157,29 @@ VI. (DEROGADA, G.G. 24 DE DICIEMBRE DE 1999)
 
 VII. La enajenación de billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos y concursos de toda clase, organizados por organismos públicos descentralizados de la Administración Pública Estatal cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+VIII. Los Ayuntamientos del Estado que destinen el producto de las actividades gravadas por este impuesto a la asistencia social o privada, previa autorización de la Secretaría.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 67.
 
-El impuesto se determinará aplicando la tasa del 6% al valor nominal de la suma de los billetes, boletos, contraseñas, documentos, objetos o registros distribuidos para participar en loterías, rifas y sorteos. Cuando sean distribuidos gratuitamente o no se exprese su valor, el impuesto se calculará sobre el valor total de los premios.
+El impuesto se determinará aplicando la tasa del 6% al valor nominal de la suma de los billetes, boletos, contraseñas, documentos, objetos o registros distribuidos para participar en loterías, rifas y sorteos. Cuando los billetes, boletos, contraseñas, documentos, objetos o registros sean distribuidos gratuitamente o no se exprese su valor o la suma del valor de éstos sea inferior al monto de los premios, el impuesto se calculará sobre el valor total de los premios.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 En el caso de organización, realización o explotación de juegos permitidos con cruce y/o captación de apuestas, el impuesto se determinará aplicando la tasa del 3% sobre el monto total de los ingresos obtenidos, sin deducción alguna por quien organice, realice o explote el juego permitido o por quien reciba, registre, cruce o capte las apuestas.
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 En el caso de concursos, el impuesto se determinará aplicando la tasa del 6% sobre el monto total de los ingresos obtenidos por las inscripciones que permitan participar en el evento.
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 Quienes obtengan premios derivados de las loterías, rifas, sorteos o concursos a que se refiere esta sección, pagarán el impuesto que resulte de aplicar la tasa del 6% al valor del premio, mismo que será retenido y enterado por el organizador, o por quien organice, realice o explote los eventos, debiendo proporcionar la constancia de retención.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 Quienes obtengan premios derivados de juegos permitidos con cruce o captación de apuestas, pagarán el impuesto que resulte de aplicar la tasa del 3% al valor del premio, mismo que será retenido y enterado por quien organice, realice o explote los eventos, o por quien reciba, registre, cruce o capte las apuestas, debiendo proporcionar la constancia de retención correspondiente.
 
@@ -1061,7 +1195,9 @@ Quienes realicen este tipo de actividades de manera habitual deberán presentar 
 
 Quienes organicen, realicen o exploten los actos o actividades por los que se cause este impuesto, tendrán las siguientes obligaciones:
 
-I. Dar aviso a la autoridad fiscal estatal dentro de los quince días anteriores al evento.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+I. Dar aviso a la autoridad fiscal estatal dentro de los diez días anteriores al evento.
 
 II. Garantizar el pago del impuesto.
 
@@ -1071,11 +1207,13 @@ IV. Señalar en los boletos, billetes, contraseñas o instrumentos que permitan 
 
 #### SECCION PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA GENERAL DE GOBIERNO
 
+> <small>(REFORMADA SU DENOMINACION, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 SUBSECCION PRIMERA
 
-DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DE GOBERNACION
+DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION TECNICA Y DEL PERIODICO OFICIAL "GACETA DEL GOBIERNO"
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 #### SECCION SEGUNDA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE FINANZAS Y PLANEACION
 
@@ -1101,7 +1239,9 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DE GOBERNACION
 
 ###### Artículo 71.
 
-Por los servicios prestados por la Dirección General de Gobernación, se pagarán derechos conforme a la siguiente:
+Por los servicios prestados por la Dirección Técnica y del Periódico Oficial "Gaceta del Gobierno" se pagarán derechos conforme a la siguiente tarifa:
+
+> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 TARIFA
 
@@ -1167,65 +1307,7 @@ firmantes de la Convención de La
 
 Haya. 3.40
 
-III. Evaluación de las condiciones
-
-de seguridad en los locales y
-
-empresas en los que se manejen
-
-explosivos:
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
-A). Carro vitrina para juguetería
-
-pirotécnica. 6.32
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
-B). Bodega para artificios
-
-pirotécnicos. 25.31
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
-C). Taller de artificios
-
-pirotécnicos. 37.97
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
-D). Fábrica de elementos
-
-pirotécnicos. 63.29
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
-E) Campos de tiro y clubes de
-
-caza. 73.84
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
-F). Instalaciones en que se realiza
-
-la compra-venta de sustancias
-
-químicas. 45.36
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
-G). Obras de ingeniería civil. 45.36
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
-H). Explotación minera o de bancos
-
-de cantera. 45.36
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
-I). Industrias químicas. 45.36
+III. (DEROGADA, G.G. 31 DE DICIEMBRE DE 2001)
 
 > <small>(F. DE E., G.G. 15 DE MARZO DE 2000)</small>
 
@@ -1415,7 +1497,9 @@ camionetas de carga, ómnibus, minibús,
 
 remolque y trailer:
 
-A). Por la expedición inicial de placas, tarjeta de circulación y calcomanía:
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+A). Por la expedición y reposición en su caso, de placas, tarjeta de circulación y calcomanía:
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -1539,7 +1623,9 @@ G). Por la expedición del permiso para transportar carga en vehículo particula
 
 1. Por ciento ochenta días. 11.57
 
-H). Por el trámite de baja de vehículo:
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+H). Por el trámite de baja de placas:
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -1571,7 +1657,9 @@ entidad federativa. 0.00
 
 II. Para motocicletas y motonetas:
 
-A). Por la expedición inicial de placa, tarjeta de circulación, así como por el refrendo anual:
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+A). Por la expedición y en su caso reposición de placas y tarjeta de circulación, así como por el refrendo anual:
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -1609,11 +1697,13 @@ D). Por reposición de placa.
 
 E). Por cambio de propietario. 2.41
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-F). Por trámite de baja de vehículos
+F). Por trámite de baja de las placas de
 
-emplacados en otra entidad federativa. 0.00
+vehículos emplacados en otra entidad
+
+federativa. 0.00
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -1627,11 +1717,11 @@ demostradoras y tarjetas de circulación,
 
 así como refrendo:
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-A). Expedición inicial de placas y tarjetas
+A). Expedición y en su caso reposición
 
-de circulación. 18.84
+de placas y tarjetas de circulación. 18.84
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -1829,15 +1919,15 @@ B). Almacenaje, compra-venta o distribución de
 
 gasolina, por establecimiento. Mensual. 14.74
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 C). Almacenaje, compra-venta o distribución de
 
-cualquier tipo de sustancias flamables, explosivas
+cualquier tipo de sustancias flamables o
 
-o tóxicas en general distintas a las anteriores, por
+tóxicas en general distintas a las anteriores, por
 
-establecimiento. Mensual. 23.81
+establecimiento mensual. 23.81
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -1924,6 +2014,34 @@ VII. Por la prestación de los servicios que involucre
 el Programa de Capacitación en materia de
 
 protección civil, por hora de capacitación. 9.07
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+VIII. Evaluación de las condiciones de seguridad
+
+en los locales y empresas en los que se manejan
+
+explosivos:
+
+A). Carro vitrina para juguetería pirotécnica. 6.32
+
+B). Bodega para artificios pirotécnicos. 25.31
+
+C). Taller de artificios pirotécnicos. 37.97
+
+D). Fábrica de elementos pirotécnicos. 63.29
+
+E). Campos de tiro y clubes de caza. 73.84
+
+F). Instalaciones en que se realiza la
+
+compra-venta de substancias químicas. 45.36
+
+G). Obras de ingeniería civil. 45.36
+
+H). Explotación minera o de bancos de cantera. 45.36
+
+I). Industrias químicas. 45.36
 
 SUBSECCION CUARTA
 
@@ -2235,7 +2353,7 @@ Tratándose de división de hipoteca, deberá pagarse una cantidad equivalente a
 
 Cuando en un solo documento se contengan dos o más contratos a inscribir, el monto de cada uno de ellos se ubicará en el rango correspondiente en forma individual, para efectos de la aplicación de la tarifa de esta fracción.
 
-(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 Para la aplicación de los derechos previstos en este artículo referidos a viviendas de interés social, social progresivo o popular, nueva o usada, su transmisión deberá llevarse a cabo directamente por el constructor de la vivienda, por la Federación, Estado o municipio, a través de los organismos correspondientes, o bien con recursos proporcionados por éstos cuando la transmisión se haga entre particulares, debiendo acreditarse fehacientemente la naturaleza de las viviendas y el origen de sus recursos y además que su valor al término de la construcción o adquisición no exceda los valores que establece la fracción XIII del artículo 3 de este Código para cada tipo de vivienda. Si el valor de la vivienda rebasa las cantidades mencionadas, podrá aplicarse la tarifa de 2.26 días de salario mínimo general vigente del área geográfica que corresponda, si se acredita que las entidades u organismos que intervengan han determinado aplicar dicho valor a ese tipo de viviendas.
 
@@ -2587,7 +2705,7 @@ geográfica que corresponda, elevado
 
 al año. 241.14
 
-#### SECCION SEGUNDA. DEL IMPUESTO SOBRE TRASLACION DE DOMINIO Y OTRAS OPERACIONES SOBRE BIENES INMUEBLES
+#### SECCION SEGUNDA. DEL IMPUESTO SOBRE ADQUISICION DE INMUEBLES Y OTRAS OPERACIONES TRASLATIVAS DE DOMINIO DE INMUEBLES
 
 ###### Artículo 81.
 
@@ -3191,145 +3309,215 @@ B). Secundaria 91.96
 
 C). Normal 141.94
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 III. Por el reconocimiento de validez
 
-oficial de estudios, por plan de estudios
+oficial de estudios, por plan de estudios,
 
-y/o carrera y turno, a escuelas particulares:
+a escuelas particulares:
 
 A). Preescolar. 76.65
 
-B). Media superior. 122.63
+B). Educación Media Superior. 122.63
 
-C). Educación Superior. 153.30
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+IV. Por el reconocimiento de validez
 
-IV. Por vigencia anual de derechos por plan de estudios, carrera y turno a escuela particulares:
+oficial de estudios, por licenciatura
+
+o estudios de posgrado, a escuelas
+
+particulares:
+
+A). Educación Superior 153.30
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+V. Por el reconocimiento de validez
+
+oficial de estudios por turno, a escuelas
+
+particulares:
+
+A). Preescolar 76.65
+
+B). Educación Media Superior 122.63
+
+C). Educación Superior 153.30
+
+(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001) (F. DE E., G.G. 3 DE ENERO DE 2002)
+
+VI. Por vigencia anual de derechos,
+
+por plan de estudios, a escuelas
+
+particulares:
 
 A). Autorización:
 
-1. Primaria 70.97
+1. Primaria. 70.97
 
-2. Secundaria 85.15
+2. Secundaria. 85.15
 
-3. Normal 141.194
+3. Normal. 141.94
 
 B). Reconocimiento:
 
-1. Preescolar 70.97
+1. Preescolar. 70.97
 
-2. Media Superior 113.55
-
-3. Superior 141.94
+2. Educación Media Superior. 113.55
 
 C). Registro:
 
-1. Preescolar 21.29
+1. Preescolar. 21.29
 
-2. Capacitación para el Trabajo 28.38
+2. Capacitación para el trabajo 28.38
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-V. Por servicio de asesoría a
+VII. Por vigencia anual de derechos, por
 
-instituciones educativas
+carrera, a escuelas particulares:
 
-particulares de tipo básico,
+A). Reconocimiento:
 
-medio superior y superior por
+1. Educación Superior. 141.94
 
-cada alumno en el plantel,
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-independientemente del grado
+VIII. Por vigencia anual de derechos,
 
-o ciclo que curse: 1.13
+por turno, a escuelas particulares:
+
+A). Autorización:
+
+1. Primaria. 70.97
+
+2. Secundaria. 85.15
+
+3. Normal. 141.94
+
+B). Reconocimiento:
+
+1. Preescolar. 70.97
+
+2. Educación Media Superior. 113.55
+
+3. Educación Superior. 141.94
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+IX. Por servicio de asesoría a instituciones
+
+educativas particulares de tipo básico,
+
+medio superior y superior por cada
+
+alumno de nuevo ingreso matriculado
+
+en el plantel por una sola vez,
+
+independientemente del grado o ciclo que
+
+curse:
 
 A). Por cambio de plan de estudio o carrera:
 
-1. Educación Media Superior 53.13
+1. Educación media superior. 53.13
 
-2. Educación Superior 53.13
+2. Educación superior. 53.13
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-VI. Por expedición de certificados
+X. Por expedición de certificados de
 
-de estudios realizados en escuelas
+estudios realizados en escuelas estatales
 
-estatales oficiales o particulares
+oficiales o particulares incorporadas. 1.53
 
-incorporadas 1.53
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+XI. Por expedición de duplicados de
 
-VII. Por expedición de duplicados
+certificados de estudios realizados en
 
-de certificados de estudios realizados
+escuelas estatales oficiales o
 
-en escuelas estatales oficiales o
+particulares incorporadas. 1.42
 
-particulares incorporadas 1.42
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+XII. Por dictamen de revalidación de estudios
 
-VIII. Por dictamen de revalidación de estudios de tipo:
+de tipo:
 
-A). Básica 0.71
+A). Básica. 0.71
 
-B). Media Superior 4.30
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-C). Superior 12.87
+XIII. Por dictamen por equivalencia de estudios de tipo:
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+A). Medio Superior. 4.30
 
-IX. Por expedición de cédula de
+B). Superior. 12.87
 
-pasante para el ejercicio
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-profesional 15.33
+XIV. Por expedición de cédula de pasante para
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+el ejercicio profesional. 15.33
 
-X. Por la expedición de duplicado
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-de cédula de pasante para el
+XV. Por la expedición de duplicado de cédula
 
-ejercicio profesional 7.66
+de pasante para el ejercicio profesional. 7.66
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-XI. Por inscripción de título
+XVI. Por inscripción de título profesional o grado
 
-profesional o grado académico 7.66
+académico. 7.66
 
-(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-XII. Por registro de colegios de
+XVII. Por registro de colegios de profesionistas. 108.79
 
-profesionistas 108.79
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+XVIII. Legalización de certificados. 1.42
 
-XIII. Por enmienda al registro de
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-los colegios de profesionistas 15.34
+XIX. Por enmienda al registro de los colegios de
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+profesionistas. 15.34
 
-XIV. Por inscripción de asociado
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-a un colegio de profesionales que
+XX. Refrendo de Registro de Colegios de Profesionistas. 15.34
 
-no figure en el listado original 4.60
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+XXI. Por inscripción de asociado a un asociado a un
 
-XV. Por expedición de hojas de
+colegio de profesionales que no figure en el listado
 
-servicio, por cada hoja 0.38
+original. 4.60
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+XXII. Autorización temporal para ejercer la actividad de práctico. 15.34
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+XXIII. Refrendo a la autorización para ejercer la actividad de práctico. 15.34
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+XXIV. Por la expedición de hojas de servicio, por cada hoja. 0.38
 
 #### SECCION SEGUNDA. DE LOS DERECHOS DEL REGISTRO CIVIL
 
@@ -3365,29 +3553,51 @@ Para efectos de la aplicación de esta tarifa se considera como conexión de la 
 
 Por cada metro cúbico adicional al de la toma inicial, proporcionado por autoridades estatales o sus descentralizadas, se pagará de acuerdo a la tarifa anterior.
 
-Los ayuntamientos o sus descentralizadas deberán pagar el monto de los derechos al Estado o su descentralizada rector de los servicios prestados, en un plazo no mayor de quince días a la fecha de haber surtido efectos la notificación.
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+Los ayuntamientos o sus descentralizadas deberán pagar el monto de los derechos al Estado o su descentralizada rector de los servicios prestados, en un plazo no mayor de diez días a la fecha de haber surtido efectos la notificación.
 
 Para la aplicación de esta tarifa se considera caudal adicional el requerido para nuevos desarrollos.
 
 El Estado conjuntamente con los municipios o sus descentralizadas, analizarán el origen de los caudales adicionales, a fin de determinar cuáles corresponden a nuevos desarrollos.
 
-Cuando los derechos a que se refiere esta fracción sean pagados previamente por quienes lleven a cabo los nuevos desarrollos a los ayuntamientos o sus descentralizadas, éstos deberán pagar los derechos al Estado o a su organismo descentralizado rector de los servicios prestados, en un plazo no mayor de quince días después de haber recibido el pago.
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+Cuando los derechos a que se refiere esta fracción sean pagados previamente por quienes lleven a cabo los nuevos desarrollos a los ayuntamientos o sus descentralizadas, éstos deberán pagar los derechos al Estado o a su organismo descentralizado rector de los servicios prestados, en un plazo no mayor de diez días después de haber recibido el pago.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 No pagarán estos derechos los fraccionamientos, unidades habitacionales o conjuntos urbanos de tipo social progresivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-III. Por el suministro de agua en bloque en metros cúbicos proporcionados por los organismos descentralizados del Estado, se pagarán los precios públicos que emita, fije o autorice en su caso, la Comisión del Agua del Estado de México, previa opinión que emita la Secretaría y la Secretaría de desarrollo Urbano y Obras Públicas.
+III. Por los siguientes servicios proporcionados por los organismos descentralizados del Estado, se pagarán los precios públicos que emita, fije en tiempo, lugar y forma de pago o autorice, en su caso, la Comisión del Agua del Estado de México, previa opinión que emita la Secretaría y la Secretaría de Desarrollo Urbano y Obras Públicas:
 
-Para lo anterior deberá atenderse invariablemente a las características y circunstancias del servicio, así como a sus costos y a los convenios que en su caso se celebren con los usuarios; las liquidaciones formuladas conforme a la aplicación de dichos precios tienen el carácter de créditos fiscales y se pagarán mensualmente durante los primeros veinte días del mes siguiente al que fue notificado.
+A). Suministro de agua en bloque.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+B). Suministro de agua residual tratada.
 
-Los precios públicos a que se refiere esta fracción, deberán publicarse por la dependencia descentralizada, en el periódico oficial, treinta días naturales antes del inicio de la vigencia, donde se especifique y se explicite las causales y sus montos.
+C). Suministro de tubería de concreto.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+D). Servicio de laboratorio de materiales.
+
+E). Desazolve y limpieza de cauces, canales, redes, tanques, cárcamos y fosas sépticas.
+
+F). Detección y reparación de fugas.
+
+G). Capacitación de personal.
+
+H). Estudios básicos de preinversión y complementarios para el mejoramiento de la prestación de los servicios de agua potable, alcantarillado, drenaje y tratamiento de aguas residuales.
+
+I). Todos aquellos servicios que les sean solicitados de acuerdo a sus atribuciones.
+
+Para lo anterior deberá atenderse invariablemente a las características y circunstancias del servicio, así como a sus costos y a los convenios que en su caso se celebren con los usuarios; las liquidaciones formuladas conforme a la aplicación de dichos precios tienen el carácter de créditos fiscales y se pagarán mensualmente a más tardar el día 17 del mes siguiente al que fue notificado, cuando sean servicios que se presten regularmente.
+
+Cuando estos servicios se presten de manera eventual, el pago deberá hacerse previamente a la prestación de los mismos.
+
+Los precios públicos relativos a los servicios a que se refiere esta fracción, deberán publicarse por la dependencia descentralizada, en el periódico oficial, veinte días naturales antes del inicio de la vigencia, donde se especifique y se explicite las causales y sus montos.
+
+(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 3 DE ENERO DE 2002)
 
 IV. Expedición de licencia estatal de uso de suelo con vigencia anual, 10.0 días de salario mínimo general vigente del área geográfica que corresponda.
 
@@ -3400,6 +3610,8 @@ En el caso de que para la expedición de licencia de uso del suelo se requiera r
 Tratándose de usos del suelo que generen un impacto significativo en su área de influencia, se pagará una cuota equivalente a 50.0 días de salario mínimo vigente del área geográfica que corresponda.
 
 Tratándose de viviendas de interés social, popular y social progresiva, no se pagarán los derechos previstos en el párrafo primero de esta fracción.
+
+> <small>(F. DE E., G.G. 3 DE ENERO DE 2002)</small>
 
 V. Cuando la licencia de uso del suelo, se expida por un período mayor al determinado en la fracción IV, o se emita prórroga, se pagarán derechos en forma proporcional por el período correspondiente.
 
@@ -3455,9 +3667,9 @@ X. Por los dictámenes de factibilidad de uso del suelo y de densidad e intensid
 
 XI. Por las cédulas informativas de zonificación, se pagará una cuota equivalente a 2.84 días de salario mínimo general vigente del área geográfica que corresponda.
 
-(ADICIONADA, G.G. 24 DE DICIEMBRE DE 1999) (F. DE E., G.G. 15 DE MARZO DE 2000)
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-XII. Por servicios de vigilancia, inspección y control necesarios para su ejecución se cobrará un 2% a las compañías contratistas con quienes se celebren contratos de obra pública o de servicios relacionados con la misma, sobre el importe de cada una de las estimaciones de trabajo generadas por las Dependencias y Entidades; la Secretaría, y las Entidades en su caso, al realizar el pago de las estimaciones retendrán el importe respectivo.
+XII. Por servicios de control necesarios para su ejecución, se cobrará un 2% a las compañías contratistas con quien se celebren contratos de obra pública o de servicios relacionados con la misma, sobre el importe de cada una de las estimaciones de trabajo generadas por las dependencias o entidades; la secretaría y las entidades en su caso, al realizar el pago de las estimaciones retendrá el importe respectivo.
 
 ###### Artículo 95.
 
@@ -4463,7 +4675,9 @@ tipo "cero cero".
 
 uso intensivo 6.00
 
-2. Vehículos de servicio particular 12.00
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+2. Vehículos de servicio particular 6.00
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -4693,7 +4907,7 @@ No pagarán estos derechos los propietarios de las empresas registradas en el Pa
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
-#### SECCION CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES FISCALES
+#### SECCION CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES FISCALES Y ADMINISTRATIVAS
 
 ###### Artículo 106.
 
@@ -4731,7 +4945,9 @@ Será base para la determinación del impuesto predial:
 
 I. Tratándose de inmuebles ubicados dentro de las áreas de interés catastral, el valor catastral.
 
-II. Tratándose de inmuebles ubicados fuera de las áreas de interés catastral, el monto pagado en el ejercicio anterior por concepto de este impuesto.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+II. Tratándose de inmuebles ubicados fuera de las áreas de interés catastral el monto pagado por concepto de este impuesto en el ejercicio anterior.
 
 III. Tratándose de inmuebles ubicados fuera de las áreas de interés catastral, cuya obligación de pago se genere por primera vez, la superficie de terreno y de construcción si la hubiera.
 
@@ -4743,13 +4959,17 @@ IV. Tratándose de inmuebles ubicados dentro y fuera de las áreas de interés c
 
 V. Tratándose de inmuebles ubicados dentro de las áreas de interés catastral, con superficie de terreno superior a 2,500 metros cuadrados en donde se realicen actividades agropecuarias, forestales o acuícolas, el monto pagado en el ejercicio anterior y el valor catastral, proporcionalmente.
 
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+Para efectos de la sección primera y segunda del presente Capítulo, cuando se haga referencia al área de interés catastral se entenderá la definida en términos del artículo 186 de este Código.
+
 ###### Artículo 109.
 
 El impuesto se determinará conforme a lo siguiente:
 
 I. En el caso de inmuebles ubicados dentro de las áreas de interés catastral, el importe a pagar será la cantidad que resulte de aplicar el valor catastral la siguiente:
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 TARIFA
 
@@ -4775,11 +4995,13 @@ GRUPO 1: Atizapán de Zaragoza, Coacalco de Berriozábal, Cuautitlán, Cuatitlá
 
 GRUPO 2: Acolman, Almoloya del Río, Amecameca, Apaxco, Atenco, Atizapán, Atlacomulco, Ayapango, Calimaya, Capulhuac, Chalco, Chapultepec, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Cocotitlán, Coyotepec, Huehuetoca, Ixtapaluca, Ixtapan de la Sal, Jaltengo, Jilotzingo, Juchitepec, La Paz, Lerma, Melchor Ocampo, Mexicaltingo, Nextlalpan, Nicolás Romero, Ocoyoacac, Otumba, Ozumba, Papalotla, Rayón, San Antonio la Isla, San Martín de las Piramides, San Mateo Atenco, Temamatla, Temascalapa, Tenancingo, Tenango del Aire, Tenango del Valle, Teoloyucan, Teotihuacan, Tepetlaoxtoc, Tepetlixpa, Tepotzotlán, Tequixquiac, Texcalyacac, Tezoyuca, Tianguistenco, Tlamanalco, Tonatico, Valle de Bravo, Valle de Chalco Solidaridad, Xalatlaco, Xonacatlán, Zinacantepec y Zumpango.
 
-GRUPO 3: Acambay, Aculco, Almoloya de Alquisiras, Almoloya de Juárez, Amanalco, Amatepec, Atlautla, Axapusco, Chapa de Mota, Coatepec Harinas, Donato Guerra, Ecatzingo, El Oro, Hueypoxtla, Isidro Fabela, Ixtapan del Oro, Ixtlahuaca, Jilotepec, Jiquipilco, Jocotitlán, Joquicingo, Malinalco, Morelos, Nopaltepec, Ocuilan, Otzoloapan, Otzolotepec, Polotitlán, San Felipe del Progreso, San Simón de Guerrero, Santo Tomás, Soyaniquilpan de Juárez, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Texcaltitlán, Timilpan, Tlatlaya, Villa de Allende, Villa del Carbón, Villa Guerrero, Villa Victoria, Zacazonapan, Zacualpan y Zumpahuacán.
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
+GRUPO 3: Acambay, Aculco, Almoloya de Alquisiras, Almoloya de Juárez, Amanalco, Amatepec, Atlautla, Axapusco, Chapa de Mota, Coatepec Harinas, Donato Guerra, Ecatzingo, El Oro, Hueypoxtla, Isidro Fabela, Ixtapan del Oro, Ixtlahuaca, Jilotepec, Jiquipilco, Jocotitlán, Joquicingo, Luvianos, Malinalco, Morelos, Nopaltepec, Ocuilan, Otzoloapan, Otzolotepec, Polotitlán, San Felipe del Progreso, San José del Rincón, San Simón de Guerrero, Santo Tomás, Soyaniquilpan de Juárez, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Texcaltitlán, Timilpan, Tlatlaya, Villa de Allende, Villa del Carbón, Villa Guerrero, Villa Victoria, Zacazonapan, Zacualpan y Zumpahuacán.
 
-IV. Para los inmuebles a que se refiere la fracción IV del artículo anterior, el monto anual del impuesto a pagar será el 10% del resultado de aplicar la tarifa de la fracción III de este artículo. En ningún caso el pago podrá ser inferior a tres días de salario mínimo general vigente en el área geográfica de la ubicación del inmueble, ni superior a una cantidad equivalente a nueve días de salario mínimo tratándose del grupo 1 de municipios; de siete días de salario mínimo si corresponde al grupo 2 y de cinco días de salario mínimo para el grupo 3 contenidos en la tarifa de la fracción III de este artículo.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+IV. Para los inmuebles a que se refiere la fracción IV del artículo anterior, el monto anual del impuesto a pagar será el 10% del resultado de aplicar la tarifa de la fracción III de este artículo. En ningún caso el pago podrá ser inferior a tres días de salario mínimo general vigente en el área geográfica de la ubicación del inmueble, ni superior a una cantidad equivalente a dieciocho días de salario mínimo tratándose del grupo 1 de municipios; de catorce días de salario mínimo si corresponde al grupo 2 y de diez días de salario mínimo para el grupo 3 contenidos en la fracción III de este artículo.
 
 > <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -4801,17 +5023,17 @@ B). En el caso de inmuebles en los que existan construcciones, el impuesto a pag
 
 En caso de que en el inmueble existan construcciones destinadas exclusivamente para apoyar el desarrollo de las actividades agropecuarias, forestales o acuícolas, el impuesto correspondiente se determinará multiplicando la parte proporcional del importe cubierto en el ejercicio anterior por el factor que al efecto establezca la Ley de Ingresos.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001) (F. DE E., G.G. 3 DE ENERO DE 2002)
 
-El ayuntamiento mediante acuerdo de cabildo determinará a favor de pensionados, jubilados, discapacitados, personas de la tercera edad, viudas sin ingresos fijos y aquellas personas físicas cuya percepción diaria no rebase dos salarios mínimos generales del área geográfica que corresponda, el otorgamiento de bonificaciones en el pago de este impuesto, que será hasta del 50%, previa acreditación fehaciente de los supuestos respectivos. En tal caso quedarán sin efecto los beneficios por concepto de pago anual anticipado otorgados en la Ley de Ingresos. Este beneficio se aplicará únicamente a un inmueble propiedad del contribuyente, siempre y cuando esté destinado a casa habitación.
+El ayuntamiento mediante acuerdo de cabildo determinará a favor de pensionados, jubilados, discapacitados, personas de la tercera edad, viudas sin ingresos fijos y aquellas personas físicas cuya percepción diaria no rebase tres salarios mínimos generales del área geográfica que corresponda el otorgamiento de bonificaciones en el pago de este impuesto, que será de hasta el 50%, previa acreditación fehaciente de los supuestos respectivos. Este beneficio se aplicará únicamente a un inmueble propiedad del contribuyente, siempre y cuando esté destinado a casa habitación.
 
 Los términos y condiciones en cuanto al otorgamiento de los apoyos indicados se determinarán en el correspondiente acuerdo de cabildo.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 110.
 
 Cuando se modifiquen los valores catastrales de los inmuebles, el impuesto que resulte de aplicar el nuevo valor, se pagará a partir del bimestre siguiente a la fecha de su modificación.
-
-Cuando los propietarios o poseedores de inmuebles ubicados en el territorio del Estado, realicen pagos anuales anticipados, no será aplicable lo establecido en el presente artículo.
 
 ###### Artículo 111.
 
@@ -4827,13 +5049,17 @@ Cuando el importe sea mayor de tres y hasta seis días de salario mínimo, el pa
 
 Cuando exceda de seis días de salario mínimo general, el pago se dividirá en seis partes iguales que se cubrirán bimestralmente en los meses de enero, marzo, mayo, julio, septiembre y noviembre.
 
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+El monto anual del impuesto predial a pagar, no podrá ser inferior al que resulte de aplicar al impuesto pagado en el ejercicio fiscal inmediato anterior, sin considerar las bonificaciones por pago anual anticipado y puntual cumplimiento, el factor de 1.0.
+
 En todo caso, el importe anual del impuesto a pagar, no podrá ser inferior a tres días de salario mínimo general.
 
 En el caso de terminación de construcciones, reconstrucciones, ampliaciones, vencimiento de la licencia de construcción o su prórroga, deberá manifestarse ante la autoridad, una vez que estas sean ocupadas aun sin estar terminadas, en cuyo caso el impuesto resultante se pagará a partir del bimestre siguiente a la fecha en que ocurra el hecho o circunstancia.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-Cuando se constituya el régimen de copropiedad o condominio, se calculará la nueva base y se pagará el impuesto a partir del bimestre siguiente a la fecha de autorización preventiva de la escritura pública correspondiente, a la terminación de las construcciones o a la ocupación de las mismas, sin estar terminadas.
+Cuando se constituya el régimen de copropiedad o condominio o exista subdivisión, se calculará la nueva base y se pagará el impuesto a partir del bimestre siguiente a la fecha de autorización preventiva de la escritura pública correspondiente, a la terminación de las construcciones, a la ocupación de las mismas sin estar terminadas o a la autorización de la subdivisión correspondiente.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -4841,9 +5067,11 @@ Si la copropiedad o el régimen de condominio se constituye sin estar terminadas
 
 Respecto de los créditos fiscales derivados del Impuesto Predial que no hayan sido pagados en los plazos previstos en este artículo, no procederá su actualización en los términos que dispone este Código.
 
+> <small>(REFORMADA SU DENOMINACION, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 #### SECCION SEPTIMA. DE LOS DERECHOS POR USO DE VIAS Y AREAS PUBLICAS PARA EL EJERCICIO DE ACTIVIDADES COMERCIALES O DE SERVICIOS
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 113.
 
@@ -4857,7 +5085,9 @@ I. Todo acto por el que se adquiera la propiedad, incluyendo la donación, la qu
 
 En las permutas se considerará que se efectúan dos adquisiciones.
 
-II. La compraventa en la que el vendedor se reserve la propiedad, aun cuando la transferencia de ésta opere con posterioridad.
+(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001) (F. DE E., G.G. 3 DE ENERO DE 2002)
+
+II. La compraventa en la que el vendedor se reserve el dominio, aún cuando la transferencia de éste opere con posterioridad.
 
 III. La promesa de adquirir, cuando el futuro comprador entre en posesión de los bienes o el futuro vendedor reciba el precio de la venta o parte de él, antes de que se celebre el contrato prometido o cuando se pacte alguna de estas circunstancias.
 
@@ -4887,6 +5117,22 @@ D). En el momento en el que el fideicomitente transmita total o parcialmente los
 
 E). En el momento en el que el fideicomisario designado ceda los derechos que tenga sobre los bienes afectos al fideicomiso, o dé instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos, se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones.
 
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+F). Fideicomiso de garantía, así como la cesión de derechos en el mismo.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+G). Fideicomiso en el que se cedan o transmitan los derechos, o cuando la institución fiduciaria sea fideicomisaria y al constituirse se transmita la propiedad.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+En el caso de que el fideicomitente readquiera del fiduciario los bienes afectos al fideicomiso se pagará este impuesto sólo por la diferencia entre el valor del inmueble en que fue transmitido el fideicomiso y aquél en que se revierta al fideicomitente.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+Se considera que se efectúa la adquisición en el momento en que se inscribe el fideicomiso en el registro público de la propiedad.
+
 XI. La división de la copropiedad, por la parte que se adquiera en demasía del por ciento que le correspondía al copropietario.
 
 XII. La cesión de derechos en los contratos de arrendamiento financiero sobre inmuebles, así como la adquisición de los bienes materia del mismo que se efectúe por persona distinta del arrendatario.
@@ -4897,73 +5143,87 @@ XIV. La adquisición de la propiedad de bienes inmuebles en virtud de remate jud
 
 XV. La readquisición de la propiedad de bienes inmuebles a consecuencia de la rescisión voluntaria del contrato que hubiere generado la adquisición original.
 
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+XVI. La disolución de la sociedad conyugal, por la parte que se adquiera en demasía del por ciento que le corresponda a cada cónyuge.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 115.
 
 Este impuesto se determinará conforme a la siguiente:
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+TARIFA
+
+RANGOS DE CUOTA FIJA FACTOR APLICABLE
+
+VALOR BASE A CADA RANGO
+
+(en pesos) (en pesos)
+
+DE 1 A 126,000 1.00 0.01201
+
+DE 126,001 A 225,250 1,515.00 0.01198
+
+DE 225,251 A 329,225 2,705.00 0.01827
+
+DE 329,226 A 530,300 4,620.00 0.01921
+
+DE 530,301 A 932,500 8,485.00 0.02063
+
+DE 932,501 A 1'550,000 16,785.00 0.02301
+
+DE 1'550,001EN ADELANTE 31,000.00 0.02529
+
+Para la aplicación de la tarifa anterior, se procederá como sigue:
+
+I. En el caso de inmuebles que se encuentren ubicados dentro de las áreas de interés catastral, se considerará el valor que resulte mayor entre el valor catastral del inmueble, determinado como lo establece el Título Quinto de este Código y el de operación estipulado en el contrato respectivo.
+
+II. Tratándose de inmuebles que se encuentren ubicados fuera de las áreas de interés catastral, se considerará el valor que resulte mayor entre el de operación o el de avalúo catastral.
+
+En ambos casos, el valor resultante servirá para la localización en el rango que corresponda de la tarifa.
+
+El monto del impuesto a pagar, será el resultado de sumar a la cuota fija que corresponda, de conformidad con la tarifa, la cantidad que se determine al multiplicar el factor aplicable previsto para cada rango, por la diferencia que exista entre el valor determinado conforme a las fracciones anteriores y el importe indicado en el límite inferior del rango de valor base relativo.
+
+Tratándose de regularización de la tenencia de la tierra a través de los organismos públicos, el impuesto a pagar se determinará conforme a la siguiente:
 
 TARIFA
 
-RANGOS DE VALOR BASE CUOTA FIJA FACTOR APLICABLE A
+RANGO RANGOS DE CUOTA FIJA FACTOR
+
+VALOR BASE APLICABLE A
 
 (en pesos) (en pesos) CADA RANGO
 
-De 1 A 126,000 1.00 0.01201
+Límite Inferior Límite Superior
 
-De 126,021 A 225,250 1,515.00 0.01198
+1 1 126,000 1.00 0.00600
 
-> <small>(F. DE E., G.G. 12 DE MARZO DE 2001)</small>
+2 126,001 225,250 757.50 0.01144
 
-De 225,251 A 329,225 2,705.00 0.01827
+3 225,251 329,225 1,893.50 0.02177
 
-De 329,226 A 530,300 4,620.00 0.01921
+4 329,226 530,300 4,158.00 0.02151
 
-De 530,301 A 932,500 8,485.00 0.02063
+5 530,301 932,500 8,485.00 0.02063
 
-De 932,501 A 1'550,000 16,785.00 0.02301
+6 932,501 1'550,000 16,785.00 0.02301
 
-De 1,550,001 O Más 31,000.00 0.02529
+7 1'550,001 En adelante 31,000.00 0.02529
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
-
-Para la aplicación de la tarifa anterior, se considerará el valor que resulte mayor entre el valor catastral del inmueble o el de operación estipulado en el contrato respectivo; tratándose de inmuebles que se encuentren ubicados fuera de las áreas de interés catastral, se considerará el que resulte mayor entre el de operación estipulado en el contrato o el de avalúo catastral. El valor resultante servirá para la localización en el rango que corresponda de la tarifa para cada caso.
-
-El monto del impuesto a pagar, será el resultado de sumar a la cuota fija que corresponda, de conformidad con la tarifa, el importe que se determine al multiplicar el factor aplicable previsto para cada rango, por la diferencia que exista entre el valor determinado conforme al párrafo anterior y el monto del límite inferior del rango relativo.
-
-Tratándose de regularización de la tenencia de la tierra se considerará el valor catastral del terreno y de las construcciones adheridas a él, en caso de que existan.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+Para la aplicación de la tarifa anterior, el cálculo del impuesto será conforme al procedimiento aplicable a la tarifa del primer párrafo de este artículo.
 
 Tratándose de vivienda social progresiva, de interés social y popular nueva o usada, se aplicarán las tasas del 0%, 0% y 0.8% al valor del inmueble consignado en el avalúo tipo utilizado para el otorgamiento del crédito, respectivamente.
 
 El avalúo tipo servirá para todos los efectos fiscales de las viviendas con iguales características que integren un conjunto habitacional.
 
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+Para la aplicación del impuesto previsto en este artículo, referido a viviendas de interés social, social progresivo o popular, su transmisión deberá llevarse a cabo directamente por el constructor de la vivienda, por la Federación, Estado o municipio, a través de los organismos correspondientes, o bien, con recursos proporcionados por éstos, cuando la transmisión se haga entre particulares, debiendo acreditar fehacientemente la naturaleza de la vivienda y el origen de los recursos.
 
-Para la acreditación del impuesto previsto en este artículo, referido a viviendas de interés social, social progresivo o popular, su transmisión deberá llevarse a cabo directamente por el constructor de la vivienda, por la Federación, Estado o municipio, a través de los organismos correspondientes, o bien, con recursos proporcionados por estos, cuando la transmisión se haga entre particulares, debiendo acreditar fehacientemente la naturaleza de la vivienda y el origen de los recursos.
-
-Se entenderá por viviendas tipo social progresiva, de interés social y popular, las que tengan las características siguientes:
-
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
-
-Vivienda social progresiva, aquella cuyo valor al término de la edificación, no exceda de la cantidad del monto equivalente a 40,000 Unidades de Inversión (UDI's).
-
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
-
-Vivienda de interés social, aquella cuyo valor al término de la edificación, no exceda de la cantidad del monto equivalente a 71,500 Unidades de Inversión (UDI's).
-
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
-
-Vivienda popular, aquella cuyo valor al término de la edificación, no exceda de la cantidad del monto equivalente a 104,500 Unidades de Inversión (UDI's).
-
-En el supuesto que no exista coincidencia entre los valores determinados anteriormente para los tipos de vivienda social progresiva, interés social y popular, con los valores ajustados por el factor que determina mensualmente el Banco de México para las diversas categorías de vivienda, la Secretaría de Desarrollo Urbano y Obras Públicas, procederá a actualizarlos tomando como parámetro los valores ajustados con el factor que emita el Banco de México y publicará mensualmente en el periódico oficial los valores que regirán para el tipo de vivienda que se vea afectada.
+En el supuesto que no exista coincidencia entre los valores determinados en el artículo 3 fracción XIII, para los tipos de vivienda social progresiva, interés social y popular, con los valores ajustados por el Banco de México, para las diversas categorías de vivienda, se aplicarán los valores publicados por éste, la Secretaría de Desarrollo Urbano y Obras Públicas, procederá a actualizarlos tomando como parámetro los valores que emita el Banco de México y publicará mensualmente en el periódico oficial los valores que regirán para el tipo de vivienda que se vea afectada.
 
 En caso de que se transmita el usufructo o la nuda propiedad, el monto del impuesto que se determine se reducirá en un 50%.
 
 Tratándose de la adquisición de predios para edificar conjuntos urbanos con viviendas tipo social progresiva, de interés social y popular, se aplicará la tasa del 1.5% al valor que resulte mayor entre el valor catastral y el de operación, después de reducirlo en un monto equivalente a 60 días de salario mínimo general elevado al año del área geográfica "A".
-
-> <small>(F. DE E., G.G. 25 DE MARZO DE 1999)</small>
 
 Para gozar del beneficio referido en el párrafo anterior, se deberá contar con la constancia que expida la Secretaría de Desarrollo Urbano y Obras Públicas, que acredite que el predio se destinará a la vivienda social progresiva, de interés social o popular.
 
@@ -4991,9 +5251,9 @@ VI. En los contratos de arrendamiento financiero de bienes inmuebles, cuando se 
 
 VII. En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro Público de la Propiedad, o si se trata de documentos privados, cuando se adquiera el dominio del bien conforme a las leyes.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-A la declaración a que se refiere este artículo deberá acompañarse copia certificada, expedida por notario público o la autoridad judicial o administrativa, en la que conste el acto o contrato traslativo de dominio, así como el certificado de no adeudo del Impuesto Predial con el que acredite que se encuentra al corriente en el pago de este impuesto y de cualquier otro gravamen que se genere por la propiedad o posesión.
+A la declaración a que se refiere este artículo deberá acompañarse de copia certificada expedida por notario público, la autoridad judicial o administrativa, en la que conste el acto o contrato traslativo de dominio, así como el certificado de no adeudo del impuesto predial, derechos de agua y aportación de mejoras en su caso.
 
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -5073,9 +5333,9 @@ comercio y superficie vendible 179.85 105.73
 
 servicios
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-Cuando en las autorizaciones de los fraccionamientos o conjuntos urbanos se incluyan lotes para usos comerciales o de servicios, se pagará adicionalmente por cada 100 m2 de superficie vendible para estos usos del suelo, una cuota equivalente a 25.03 días de salario mínimo general del área geográfica que corresponda. Se exceptúan de esta obligación los de tipo comercial.
+Cuando en las autorizaciones de los fraccionamientos habitacionales incluyan lotes para usos comerciales o de servicios, se pagará adicionalmente por cada 100 m2 de superficie vendible para estos usos del suelo, una cuota equivalente a 25.03 días de salario mínimo general vigente del área geográfica que corresponda.
 
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -5085,19 +5345,21 @@ Tratándose de fraccionamientos, conjuntos urbanos o subdivisiones de predios de
 
 En el caso de autorizaciones de fraccionamientos mixtos, se pagará por vivienda conforme a la tarifa anterior, atendiendo a los tipos de fraccionamiento base que lo conforman.
 
-Para la aplicación de la tarifa a que se refiere este artículo, para los diferentes tipos de vivienda, se atenderá a las siguientes definiciones:
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-A). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
+Para la aplicación de la tarifa a que se refiere este artículo para los diferentes tipos de viviendas, se atenderá a las definiciones establecidas en el artículo 3 fracción XIII de este Código.
 
-B). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
+A). (DEROGADO, G.G. 31 DE DICIEMBRE DE 2001)
 
-C). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
+B). (DEROGADO, G.G. 31 DE DICIEMBRE DE 2001)
 
-D). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
+C). (DEROGADO, G.G. 31 DE DICIEMBRE DE 2001)
 
-E). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
+D). (DEROGADO, G.G. 31 DE DICIEMBRE DE 2001)
 
-F). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
+E). (DEROGADO, G.G. 31 DE DICIEMBRE DE 2001)
+
+F). (DEROGADO, G.G. 31 DE DICIEMBRE DE 2001)
 
 Para los efectos de esta sección, los municipios se clasifican en:
 
@@ -5125,57 +5387,49 @@ Generales del Area Geográfica
 
 que corresponda.
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001) (F. DE E., G.G. 3 DE ENERO DE 2002)
 
-I. Anuncios adosados,
+I. Anuncios adosados, pintados, murales,
 
-pintados, murales, volados,
+volados, marquesinas, por m2 o fracción. 0.5
 
-marquesinas, por
+(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001) (F. DE E., G.G. 3 DE ENERO DE 2002)
 
-m2 o fracción,
+II. Estructurales con o sin iluminación
 
-bimestralmente. 0.5
+exterior o interior, mobiliario urbano,
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+auto soportados por m2 o fracción. 1.0
 
-II. Estructurales, mobiliario
+(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001) (F. DE E., G.G. 3 DE ENERO DE 2002)
 
-urbano, autosoportados
+III. Luminosos, de neón, electrónicos,
 
-por m2 o fracción. 1.0
+de proyección óptica, computarizados
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+y los que pudieran ser explotados de
 
-III. Luminosos, de neón,
+forma mixta, por m2 o fracción. 2.0
 
-eléctrónicos, computarizados
+(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001) (F. DE E., G.G. 3 DE ENERO DE 2002)
 
-y los que pudieran ser
+IV. Objetos inflables y carpas publicitarias,
 
-explotados de forma mixta,
+por día o fracción. 3.0
 
-por m2, o fracción. 2.0
+(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001) (F. DE E., G.G. 3 DE ENERO DE 2002)
 
-> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+V. Anuncios colgantes, lonas o mantas
 
-IV. Objetos inflables, por
+por m2 por día, con carácter comercial
 
-día o fracción. 2.0
-
-> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
-V. Anuncios colgantes, lonas
-
-o mantas por m2 por día,
-
-con carácter comercial. 0.10
+o de servicio. .10
 
 No se pagará este impuesto, por los anuncios que tenga como única finalidad la identificación del establecimiento comercial, industrial o de servicios, cuando los establecimientos tengan fines educativos o culturales o, cuando de manera accesoria se preste el servicio de alumbrado público o nomenclatura.
 
 Para efectos de este artículo se entenderá como anuncio luminoso, aquél que sea alumbrado por una fuente de luz distinta de la natural, en su interior o exterior.
 
-#### SECCION DECIMA. DE LOS DERECHOS POR LA EXPEDICION DE LICENCIAS PARA LA VENTA DE BEBIDAS ALCOHOLICAS AL PUBLICO
+#### SECCION DECIMA. DE LOS DERECHOS POR LA EXPEDICION O REFRENDO ANUAL DE LICENCIAS PARA LA VENTA DE BEBIDAS ALCOHOLICAS AL PUBLICO
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -5187,9 +5441,9 @@ Para efectos de este impuesto se entenderá como:
 
 I. Juego.- Las máquinas o aparatos de recreación o azar autorizados, cuya finalidad es la diversión o entretenimiento de las personas que mediante el pago de cierta suma de dinero tienen acceso a ellos.
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-II. Espectáculo público.- Toda función, evento o acto de esparcimiento, sea teatral, deportivo, musical, o de cualquier otra naturaleza semejante, que se verifique en teatros, calles, plazas, locales abiertos o cerrados, y que para presenciarlos se cobre una determinada cantidad de dinero.
+II. Espectáculo público.- Toda función, evento, exposiciones, exhibiciones, ferias y actos de esparcimiento, sean teatrales, deportivos, musicales o de cualquier otra naturaleza semejante que se verifiquen en teatros, calles, plazas, locales abiertos o cerrados y que para presenciarlos se cobre una determinada cantidad de dinero.
 
 Los Ayuntamientos por acuerdo de Cabildo podrán destinar un porcentaje de los ingresos que se obtengan de la celebración de espectáculos públicos, al Sistema Municipal para el Desarrollo Integral de la Familia.
 
@@ -5207,7 +5461,9 @@ II. Tratándose de espectáculos públicos explotados por personas físicas o mo
 
 Cuando se trate de espectáculos públicos explotados por personas físicas o morales que cuenten con establecimiento debidamente constituido la tasa del 5%.
 
-III. Tratándose de espectáculos públicos culturales, teatrales y circenses la tasa del 3%.
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+III. Tratándose de espectáculos públicos de tipo cultural, teatral y circense la tasa del 3%.
 
 Los boletos que se utilicen para el acceso a un espectáculo público, deberán ser foliados y los autorizará la tesorería para su venta, cuando se utilicen sistemas mecánicos para la venta o control de los boletos, el contribuyente deberá permitir a los interventores la inspección de las máquinas.
 
@@ -5265,7 +5521,9 @@ III. Servicio de descarga de agua residual al drenaje, del agua obtenida de fuen
 
 IV. Autorización de derivaciones.
 
-V. Establecimiento de los sistemas de agua potable y de alcantarillado en fraccionamientos o unidades habitacionales, comerciales o industriales.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+V. Establecimiento de los sistemas de agua potable y de alcantarillado en fraccionamientos, subdivisiones o unidades habitacionales, comerciales o industriales.
 
 VI. Conexión de la toma para el suministro de agua en bloque proporcionada por autoridades municipales o sus descentralizadas.
 
@@ -5275,17 +5533,17 @@ VIII. Reparación de aparatos medidores de consumo de agua.
 
 IX. Instalación de aparatos medidores de agua.
 
-> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-X. Dictamen de factibilidad de servicios de asentamientos urbanos nuevos.
+X. Dictamen de factibilidad de servicios de fraccionamientos, conjuntos urbanos, subdivisión o lotificación para edificaciones en condominio, para desarrollos habitacionales, comerciales e industriales, que sean nuevos.
 
 > <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 XI. Reconexión o reestablecimiento a los sistemas de agua potable.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-El ayuntamiento, mediante acuerdo de cabildo, determinará a favor de pensionados, jubilados, discapacitados, personas de la tercera edad, viudas sin ingresos fijos y aquellas personas físicas cuya percepción diaria no rebase dos salarios mínimos generales del área geográfica que corresponda, el otorgamiento de bonificaciones en el pago de los derechos por el suministro de agua potable y drenaje para uso doméstico, en un porcentaje hasta del 50%; y se aplicará sólo respecto del inmueble en que habite el beneficiario. En tal caso quedarán sin efecto los beneficios por concepto de pago anual anticipado otorgados en la Ley de Ingresos. Los términos y condiciones en cuanto al otorgamiento de los apoyos indicados se determinarán en el correspondiente acuerdo.
+El ayuntamiento mediante acuerdo de cabildo, determinará a favor de pensionados, jubilados, discapacitados, personas de la tercera edad y viudas sin ingresos fijos y aquellas personas cuya percepción diaria no rebase tres salarios mínimos generales del área geográfica que corresponda, el otorgamiento de hasta un 50% de bonificaciones en el pago de los derechos por el suministro de agua potable y drenaje para uso doméstico, y por la recepción de los caudales de aguas residuales para su tratamiento o manejo ecológico, se aplicará al beneficiario que acredite que habita el inmueble, sin incluir derivaciones. Los términos y condiciones en cuanto al otorgamiento de los apoyos indicados se determinarán en el correspondiente acuerdo.
 
 El consejo directivo del organismo público descentralizado de carácter municipal para la prestación de los servicios previstos en esta Sección, podrá acordar la realización de programas de apoyo a la regularización en el cumplimiento de obligaciones fiscales, mediante el otorgamiento de carácter general de subsidios de recargos y condonación de multas, previo acuerdo de cabildo, que será publicado en el periódico oficial.
 
@@ -5297,13 +5555,15 @@ I. Para uso doméstico:
 
 A). Con medidor.
 
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 TARIFA
 
-Número de salarios mínimos
+Número de Salarios Mínimos
 
-diarios del área geográfica
+Diarios del Area Geográfica
 
-que corresponda
+que corresponda.
 
 GRUPOS
 
@@ -5311,21 +5571,21 @@ CONSUMO A B
 
 BIMESTRAL POR m3
 
-De 0 hasta 25 0.038 0.036
+De 0 hasta 25 0.040 0.038
 
-De 25.01 hasta 50 0.061 0.058
+De 25.01 hasta 50 0.064 0.061
 
-De 50.01 hasta 85 0.080 0.075
+De 50.01 hasta 85 0.084 0.079
 
-De 85.01 hasta 100 0.100 0.094
+De 85.01 hasta 100 0.105 0.099
 
-De 100.01 hasta 135 0.137 0.125
+De 100.01 hasta 135 0.144 0.131
 
-De 135.01 hasta 165 0.171 0.161
+De 135.01 hasta 165 0.180 0.169
 
-De 165.01 hasta 480 0.187 0.174
+De 165.01 hasta 480 0.196 0.183
 
-De 480.01 en adelante 0.209 0.197
+De 480.01 en adelante 0.220 0.207
 
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -5381,13 +5641,15 @@ II. Para uso no doméstico:
 
 A). Con medidor:
 
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 TARIFA
 
-Número de salarios mínimos
+Número de Salarios Mínimos
 
-diarios del área geográfica
+del Area Geográfica
 
-que corresponda
+que corresponda.
 
 CONSUMO BIMESTRAL GRUPOS
 
@@ -5395,21 +5657,21 @@ POR m3
 
 A B
 
-De 0 hasta 25 0.083 0.080
+De 0 hasta 25 0.087 0.084
 
-De 25.01 hasta 50 0.126 0.117
+De 25.01 hasta 50 0.132 0.123
 
-De 50.01 hasta 85 0.167 0.157
+De 50.01 hasta 85 0.175 0.165
 
-De 85.01 hasta 100 0.205 0.197
+De 85.01 hasta 100 0.215 0.207
 
-De 100.01 hasta 135 0.282 0.264
+De 100.01 hasta 135 0.296 0.277
 
-De 135.01 hasta 165 0.351 0.332
+De 135.01 hasta 165 0.369 0.349
 
-De 165.01 hasta 480 0.386 0.359
+De 165.01 hasta 480 0.405 0.377
 
-De 480.01 en adelante 0.435 0.412
+De 480.01 en adelante 0.457 0.433
 
 La cuota mínima a pagar en el bimestre no será menor a la que corresponda a un consumo de 25 m3.
 
@@ -5417,7 +5679,9 @@ La cuota mínima a pagar en el bimestre no será menor a la que corresponda a un
 
 En caso de que el medidor se encuentre descompuesto, el usuario pagará los derechos de suministro de agua potable de conformidad al promedio de consumos de los tres últimos bimestres inmediatos anteriores en que estuvo funcionando el aparato.
 
-B). Si no existe aparato medidor, o se encuentra en desuso, se pagarán mensualmente los derechos dentro de los quince primeros días del mes que corresponda, de acuerdo con la siguiente:
+(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001
+
+B). Si no existe aparato medidor, o se encuentra en desuso, se pagarán mensualmente los derechos dentro de los diez primeros días del mes que corresponda, de acuerdo con la siguiente:
 
 TARIFA
 
@@ -5465,9 +5729,11 @@ No se pagarán los derechos previstos en esta fracción, durante el primer año 
 
 En los casos en que el pago de los derechos a que se refiere este artículo, se realice en base a consumos cuantificados a través de aparato medidor, el usuario del servicio está obligado a reportar mediante los formatos oficiales, a la autoridad municipal u organismo descentralizado que corresponda, los consumos bimestrales de agua y efectuar su pago dentro de los primeros diecisiete días del mes siguiente al del bimestre que se esté reportando.
 
+(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001) (F. DE E., G.G. 3 DE ENERO DE 2002)
+
 ###### Artículo 131.
 
-Por el suministro de agua en bloque por parte de las autoridades municipales o sus organismos descentralizados a fraccionamientos o unidades habitacionales, comerciales o industriales, en el período comprendido desde la construcción hasta la entrega de las obras al municipio, se pagarán los derechos cuando se entreguen dichas obras, o en su caso, en el plazo que se establezca en los convenios que al efecto se celebren con la autoridad fiscal competente, de acuerdo a la siguiente:
+Por el suministro de agua en bloque por parte de las autoridades municipales o sus organismos descentralizados a fraccionamientos o unidades habitacionales, comerciales o industriales, en el período comprendido desde la construcción hasta la entrega de las obras al municipio, se pagarán los derechos desde el momento en que reciba el servicio y que quede debidamente establecido en los convenios que al efecto se celebren con la autoridad fiscal competente, de acuerdo a la siguiente:
 
 TARIFA
 
@@ -5482,6 +5748,10 @@ GRUPOS POR m3.
 A) 0.0987
 
 B) 0.0947
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+Por lo anterior, la autoridad fiscal correspondiente instalará un aparato medidor de consumo a costa del fraccionador o desarrollador para determinar el volumen del suministro de agua en bloque.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -5498,6 +5768,10 @@ La autoridad municipal tendrá la facultad de instalar los medidores correspondi
 En caso de que la autoridad municipal determine la instalación del aparato medidor, deberá notificar previamente al contribuyente cuando menos con quince días hábiles de anticipación.
 
 Por lo que se refiere al aparato medidor, se pagará por concepto de derechos doce días de salario mínimo general del área geográfica que corresponda, teniendo el usuario la opción de adquirir el aparato medidor de agua en el establecimiento que elija, siempre que el medidor reúna las especificaciones técnicas que apruebe el ayuntamiento o el organismo operador de agua, las cuales deberán ser del conocimiento público. En este último caso el organismo prestador quedará eximido de realizar reparación alguna al medidor, salvo que el usuario lo solicite a su costa.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+El usuario tendrá un plazo de diez días a partir de la notificación de la instalación del aparato medidor para hacer el entero correspondiente.
 
 ###### Artículo 134.
 
@@ -5583,11 +5857,13 @@ B 16.886
 
 B). Para uso no doméstico:
 
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 TARIFA
 
-Número de salarios mínimos
+Número de Salarios Mínimos
 
-diarios del área geográfica
+Diarios del Area Geográfica
 
 que corresponda.
 
@@ -5597,25 +5873,25 @@ DIAMETRO EN
 
 mm DEL TUBO
 
-DE ENTRADA DEL
+DE DESCARGA
 
-AGUA A B
+A B
 
-Hasta 13 68.490 64.412
+Hasta 100 68.490 64.412
 
-Hasta 19 90.023 84.661
+Hasta 150 90.023 84.661
 
-Hasta 26 147.077 138.316
+Hasta 200 147.077 138.316
 
-Hasta 32 219.345 206.284
+Hasta 250 219.345 206.284
 
-Hasta 39 273.865 257.558
+Hasta 300 273.865 257.558
 
-Hasta 51 462.785 435.224
+Hasta 380 462.785 435.224
 
-Hasta 64 689.993 648.901
+Hasta 450 689.993 648.901
 
-Hasta 75 1,014.322 953.915
+Hasta 610 1,014.322 953.915
 
 El pago de estos derechos comprende la totalidad del costo de los materiales utilizados y el trabajo que se realice para su conexión, desde la red hasta la terminación del cuadro medidor tratándose de agua potable, y en el caso de drenaje, hasta el punto de descarga domiciliaria.
 
@@ -5648,6 +5924,10 @@ Los usuarios que se abastezcan de agua de fuente propia o distinta a la red muni
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 El monto de los derechos a que se refiere este artículo se pagará de acuerdo con la tarifa prevista en el artículo 136 fracción II. Cuando no exista planta de tratamiento el usuario pagará el 50% de la tarifa establecida en este párrafo.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+Los adquirentes de lotes no están afectos al pago de los derechos previstos en este artículo cuando los titulares de las autorizaciones de conjuntos urbanos, fraccionamientos o subdivisiones de carácter habitacional, comercial, industrial, o de servicios, hayan realizado bajo su costo las obras de conexión de agua potable y drenaje entre las redes generales y el lote.
 
 ###### Artículo 136.
 
@@ -5773,9 +6053,13 @@ por metro cuadrado por
 
 planta. 0.076 0.070
 
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 Otros tipos de
 
-fraccionamientos o
+fraccionamientos,
+
+subdivisiones o
 
 unidades. 0.103 0.0964
 
@@ -5833,9 +6117,11 @@ En cuanto al tipo de desarrollo, se estará a las definiciones establecidas en l
 
 No pagarán los derechos previstos en este artículo las viviendas de tipo social progresiva, y en el caso de las unidades solo pagarán los desarrollos que no sean sujetos de división del suelo.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 138.
 
-Por la conexión de la toma para suministro de agua en bloque a nuevos fraccionamientos, unidades habitacionales, comerciales o industriales proporcionado por las autoridades municipales o sus descentralizadas, se pagarán los derechos, por una sola vez, de acuerdo con el caudal que se registre en forma definitiva en el proyecto aprobado de red de distribución de agua potable, de conformidad con la siguiente:
+Por la conexión de la toma para suministro de agua en bloque a nuevos fraccionamientos, subdivisiones, unidades habitacionales, comerciales o industriales proporcionado por las autoridades municipales o sus descentralizadas, se pagarán los derechos, por una sola vez, de acuerdo con el caudal que se registre en forma definitiva en el proyecto aprobado de red de distribución de agua potable, de conformidad con la siguiente:
 
 TARIFA
 
@@ -5847,13 +6133,15 @@ que corresponda:
 
 POR CADA M3/DIA
 
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 I. Para uso doméstico:
 
 Grupos de municipios
 
-A 48.672
+A 54.78
 
-B 45.773
+B 51.74
 
 II. Para uso no doméstico:
 
@@ -6031,11 +6319,15 @@ En los casos de desastres como heladas, inundaciones, epidemias, sismos o de cam
 
 Están obligadas al pago de los derechos previstos en esta Sección, las personas físicas o morales que reciban cualesquiera de los siguientes servicios: autorización de licencia para construcción de obras nuevas con vigencia de un año, alineamiento y número oficial, subrogación de los derechos de titularidad de fraccionamientos, conjuntos urbanos, subdivisiones y condominios y su relotificación, de autorización para realizar obras de modificación o rotura de pavimento o concreto en calles o banquetas y para la instalación o permanencia anual de cables o tuberías subterráneas o aéreas en la vía pública, cuya expedición y vigilancia corresponde a las autoridades de obras públicas municipales, de acuerdo con los ordenamientos de la materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 144.
 
-Por los servicios prestados por obras públicas municipales, se pagarán los siguientes derechos:
+Por los servicios prestados por desarrollo urbano y obras públicas municipales, se pagarán los siguientes derechos:
 
-I. Por la expedición de licencias municipales de construcción, con vigencia de un año, en cualquiera de sus tipos de obra nueva, ampliación o reconstrucción se pagarán derechos de acuerdo a la siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+I. Por la expedición de licencias municipales de construcción, con vigencia de un año, en cualquiera de sus tipos de obra nueva, ampliación o modificación, así como las prórrogas de las mismas que serán proporcionales al tiempo solicitado se pagarán derechos de acuerdo a lo siguiente:
 
 TARIFA
 
@@ -6173,7 +6465,9 @@ corresponda. 11.24 9.83
 
 La licencia de construcción incluye además los servicios de: alineamiento y número oficial, uso general del suelo en centros de población no estratégicos, ocupación de la vía pública, demoliciones, excavaciones, rellenos, bardas, la revisión de los planos sanitarios y la aprobación del régimen en condominio cuando se presente este último.
 
-Cuando la licencia municipal de construcción se expida por un período mayor de la vigencia señalada en esta fracción, se pagarán derechos en forma proporcional por el período que exceda de dicha vigencia.
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+Cuando la licencia municipal de construcción se expida o se autorice una prórroga por un período mayor de la vigencia señalada en esta fracción, se pagarán derechos en forma proporcional por el período que exceda de dicha vigencia.
 
 Para las viviendas social progresiva, de interés social y popular ubicada en un conjunto habitacional o fraccionamiento, se autorizará una sola licencia de construcción.
 
@@ -6199,9 +6493,13 @@ del suelo en centros de
 
 población no estratégicos:
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 1. En predios con frente
 
-hasta de 15 metros. 8.39 5.67
+a vía pública hasta de
+
+15 metros. 8.39 5.67
 
 2. Por cada metro
 
@@ -6273,13 +6571,27 @@ V. Por la autorización para realizar obras de modificación, rotura o corte de 
 
 VI. Por la autorización para la instalación, tendido o permanencia anual de cables y/o tuberías subterráneas o áreas en la vía pública, por metro lineal se pagarán 0.05 días de salario mínimo general del área geográfica que corresponda. Este pago deberá efectuarse dentro de los primeros tres meses de cada año.
 
-(ADICIONADA, G.G. 24 DE DICIEMBRE DE 1999) (F. DE E., G.G. 15 DE MARZO DE 2000)
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-VII. Por servicios de vigilancia, inspección y control necesarios para su ejecución, se cobrará un 2% a las compañías contratistas con quienes se celebren contratos de obra pública o de servicios relacionados con la misma, sobre el importe de cada una de las estimaciones de trabajo generados por las dependencias y entidades; la tesorería y las entidades en su caso, al realizar el pago de las estimaciones retendrán el importe respectivo.
+VII. Por servicios de control necesarios para su ejecución, se cobrará un 2% a las compañías contratistas con quienes se celebren contratos de obra pública o de servicios relacionados con la misma, sobre el importe de cada una de las estimaciones de trabajo generados por las dependencias y entidades, la tesorería y las entidades en su caso, al realizar el pago de las estimaciones retendrán el importe respectivo.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 Se exceptúan de la aplicación del pago de los derechos establecidos en esta fracción, las obras realizadas con cargo total o parcial a los recursos del Fondo para la Infraestructura Social Municipal, derivado del ramo 33.
+
+(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001) (F. DE E., G.G. 3 DE ENERO DE 2002)
+
+VIII. Expedición de licencia de uso de suelo, con vigencia anual, 10.0 días de salario mínimo general vigente del área geográfica que corresponda.
+
+En el caso de que para la expedición de licencia de uso del suelo se requiera realizar estudios técnicos, se pagará una cuota equivalente a 50.0 veces el salario mínimo general vigente según el área geográfica que corresponda. Cuando se trate solamente de inspección de campo, se pagará una cuota adicional equivalente a 25.0 veces el salario mínimo general vigente del área geográfica que corresponda.
+
+Tratándose de usos del suelo que generen un impacto significativo en su área de influencia, se pagará una cuota equivalente a 50.0 días de salario mínimo general vigente del área geográfica que corresponda.
+
+Tratándose viviendas de interés social, popular y social progresivo, no se pagarán los derechos previstos en el párrafo primero de esta fracción.
+
+(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001) (F. DE E., G.G. 3 DE ENERO DE 2002)
+
+IX. Cuando la licencia de uso del suelo, se expida por un período mayor al determinado en la fracción IV, o se emita prórroga, se pagarán derechos en forma proporcional por el período correspondiente.
 
 ###### Artículo 145.
 
@@ -6369,11 +6681,19 @@ superficie útil o
 
 vendible. 44.61 39.20
 
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+IV. Tratándose de regularización de la tenencia de la tierra, mediante programas, acciones o campañas promovidas por organismos públicos federales, estatales o municipales creados para tal efecto, en beneficio de asentamientos humanos de escasos recursos, únicamente se pagará por concepto de los derechos señalados en las fracciones I y II de este artículo 1.0 días de salario mínimo general del área geográfica que corresponda por cada predio o lote resultante.
+
 ###### Artículo 146.
 
 Para los efectos de esta Sección, se atenderá a la clasificación de municipios contenida en el artículo 119 de este Código.
 
-#### SECCION PRIMERA. DE LOS ELEMENTOS DEL SISTEMA
+> <small>(REFORMADA SU DENOMINACION, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+#### SECCION PRIMERA. DE LOS ELEMENTOS DE LAS TABLAS DE VALOR
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 147.
 
@@ -6445,6 +6765,22 @@ B). Para particulares o
 
 autoridades. 2.00
 
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+VI. Por la expedición de constancias
+
+de vecindad que soliciten los habitantes
+
+del municipio, así como por las
+
+demás certificaciones que se
+
+expidan en los términos de
+
+la Ley Orgánica Municipal del
+
+Estado de México, hasta. 1.00
+
 No pagarán los derechos previstos en las fracciones III y IV las viviendas de interés social, social progresiva y popular.
 
 ###### Artículo 148.
@@ -6475,9 +6811,9 @@ fracción excedente,
 
 por día. 0.03
 
-#### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA APLICACION DE LA VALUACION
+#### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA INTEGRACION Y ACTUALIZACION DE LAS TABLAS DE VALOR
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 150.
 
@@ -6547,7 +6883,9 @@ por cabeza, o cada una. 0.0022
 
 El pago de este derecho se efectuará mensualmente en la tesorería, presentando una relación del número de cabezas sacrificadas por especie, en el mes anterior.
 
-#### SECCION PRIMERA. DEL SISTEMA DE PLANEACION DEMOCRATICA
+#### SECCION TERCERA. DE LA DETERMINACION DEL VALOR CATASTRAL
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 152.
 
@@ -6575,11 +6913,11 @@ Por el registro anual de instrumentos para la identificación de señales de san
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
-#### SECCION SEGUNDA. DEL PLAN DE DESARROLLO
+#### SECCION PRIMERA. DEL SISTEMA DE PLANEACION DEMOCRATICA
 
 ###### Artículo 154.
 
-Por el uso de vías, plazas públicas o áreas de uso común para realizar actividades comerciales o de servicios, se pagarán derechos conforme a la siguiente cuota diaria:
+Por el uso de vías, plazas públicas o áreas de uso común para realizar actividades comerciales o de servicios, se pagarán derechos conforme a los precisos públicos que fijen los Ayuntamientos por acuerdo de cabildo, los cuales deberán publicarse en el Periódico Oficial o conforme a la siguiente cuota diaria:
 
 > <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -6617,9 +6955,11 @@ de refrescos, golosinas y
 
 juguetes. 0.050
 
+> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+
 El pago de este derecho deberá realizarse ante la tesorería correspondiente o bien a la persona autorizada para ello, siendo responsabilidad del tesorero entregar cada mes el recibo oficial respectivo, a cambio de los comprobantes provisionales de pago.
 
-#### SECCION TERCERA. DE LAS INSTANCIAS DE COORDINACION
+#### SECCION SEGUNDA. DEL PLAN DE DESARROLLO
 
 ###### Artículo 155.
 
@@ -6791,9 +7131,7 @@ Por la evaluación de la prestación del servicio de panteones concesionados, el
 
 El pago de este derecho se efectuará mensualmente en la tesorería, presentando una relación de las inhumaciones efectuadas el mes anterior.
 
-#### SECCION PRIMERA. DE LA CONFORMACION Y PRESENTACION DEL PRESUPUESTO DE EGRESOS
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+#### SECCION TERCERA. DE LAS INSTANCIAS DE COORDINACION
 
 ###### Artículo 157.
 
@@ -6809,9 +7147,11 @@ II. Cuando el servicio se preste de manera eventual se pagarán 0.30 días de sa
 
 El concesionario cobrará el servicio por hora y por fracción en la parte proporcional que corresponda a cada quince minutos que transcurran después de la primera hora.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACION, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-#### SECCION SEGUNDA. DE LA EJECUCION DEL PRESUPUESTO DE EGRESOS
+#### SECCION PRIMERA. DE LA CONFORMACION Y PRESENTACION DEL PRESUPUESTO DE EGRESOS
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 159.
 
@@ -7053,9 +7393,9 @@ El refrendo deberá pagarse dentro de los primeros tres meses de cada año.
 
 Para los efectos referidos en el párrafo que antecede se atenderá a la clasificación de municipios establecida en el artículo 109 de este Código.
 
-#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCION SEGUNDA. DE LA EJECUCION DEL PRESUPUESTO DE EGRESOS
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 160.
 
@@ -7089,9 +7429,9 @@ VIII. Primer
 
 comandante. 9.64
 
-#### SECCION SEGUNDA. DEL REGISTRO CONTABLE Y PRESUPUESTAL
+#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 161.
 
@@ -7113,7 +7453,9 @@ Tratándose de microindustrias ubicadas en los inmuebles de referencia y que est
 
 Los ayuntamientos podrán acordar la aplicación del derecho en aquellas zonas que no tengan un grado relativo de existencia del servicio, a solicitud de los habitantes del área específica del municipio, o por convenio expreso entre éstos y el ayuntamiento, cuando los importes de su recaudación se destinen precisamente a la introducción o ampliación en su caso, de las redes de alumbrado público faltantes o insuficientes, respectivamente.
 
-#### SECCION TERCERA. DE LA INFORMACION CONTABLE, PRESUPUESTAL Y FINANCIERA
+#### SECCION SEGUNDA. DEL REGISTRO CONTABLE Y PRESUPUESTAL
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 163.
 
@@ -7162,6 +7504,8 @@ Se consideran residuos sólidos industriales y comerciales, los que así conside
 ###### Artículo 165.
 
 Por uso del relleno sanitario, se deberán cubrir por concepto de derechos 0.776 días de salario mínimo general vigente en el área geográfica que corresponda, por m3 o fracción.
+
+#### SECCION TERCERA. DE LA INFORMACION CONTABLE, PRESUPUESTAL Y FINANCIERA
 
 ###### Artículo 166.
 
@@ -7263,163 +7607,527 @@ El importe de los derechos a pagar, será el resultado de sumar a la cuota fija 
 
 ### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 167.
 
-Las disposiciones de este Título tienen por objeto regular la actividad catastral en el territorio del Estado.
+Las disposiciones de este título tienen por objeto normar la actividad catastral en el Estado y la integración y actualización de las Tablas de Valores Unitarios de Suelo y Construcciones.
+
+En lo concerniente a la integración, conservación y actualización de la información e investigación catastral, se estará a lo dispuesto en la LIGECEM.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 168.
 
-Para efectos de esta Título se entiende por:
+Catastro es el sistema de información territorial, cuyo propósito es integrar y conservar el padrón catastral que contiene los datos técnicos y administrativos de un inventario analítico de los inmuebles ubicados en el Estado.
 
-I. Catastro: al sistema de información del Estado, que tiene como finalidad obtener un inventario analítico de los inmuebles con base en sus características.
+El padrón catastral está conformado por el conjunto de registros gráficos, alfanuméricos y elementos, resultado de las actividades catastrales relacionadas con la identificación, inscripción, control y valuación de los inmuebles.
 
-II. Actividad Catastral: al conjunto de procedimientos y acciones que permiten integrar, conservar y mantener actualizado el inventario analítico de los inmuebles.
+La actividad catastral es el conjunto de acciones realizadas con apego a los procedimientos técnicos y administrativos aprobados, que permiten integrar, conservar y mantener actualizado el inventario analítico con las características cualitativas y cuantitativas de los inmuebles inscritos en el padrón catastral del Estado.
 
 ### CAPITULO SEGUNDO. DE LAS AUTORIDADES CATASTRALES
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 169.
 
-Son autoridades en materia de Catastro:
+Son autoridades en materia de catastro:
 
-I. El Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México, que para efectos de este Título se denominará el Instituto.
+I. El Gobernador del Estado;
 
-II. Los ayuntamientos o quien legalmente los sustituya.
+II. El Secretario de Finanzas y Planeación;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+III. El Director General del Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México;
+
+IV. Los ayuntamientos o quienes legalmente los representen.
+
+Las facultades y obligaciones que en materia catastral corresponden a estas autoridades, son aquellas que se encuentran conferidas en la LIGECEM.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 170.
 
-Además de las facultades que este Código y otros ordenamientos le confieren en materia de información e investigación catastral, el Instituto tendrá las facultades y obligaciones siguientes:
+Además de las facultades que este Código y otros ordenamientos le confieran en materia de información e investigación catastral, el IGECEM tendrá las facultades y obligaciones siguientes:
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-I. Establecer los procedimientos técnicos y administrativos en materia catastral y verificar su cumplimiento, en los términos de este Código y de la Ley de Información e Investigación Geográfica, Estadística y Catastral.
+I. Establecer los procedimientos técnicos y administrativos en materia catastral y verificar su cumplimiento, en los términos de este Código y de la LIGECEM.
 
-II. Autorizar los formatos para las manifestaciones catastrales.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-III. Integrar, conservar y mantener actualizado el inventario analítico de los inmuebles.
+II. Autorizar los formatos para las manifestaciones catastrales, para efectos de inscripción y actualización de registros en el padrón catastral.
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+III. Integrar, conservar y mantener actualizado el padrón catastral del Estado.
 
 IV. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-V. Practicar avalúos, apeos y deslindes catastrales, y verificar, en su caso, los avalúos practicados por terceros para fines catastrales.
+V. Practicar avalúos catastrales y comerciales de inmuebles, apeos y deslindes catastrales, y verificar, en su caso, los avalúos practicados por terceros para fines catastrales.
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+Los avalúos, se sujetarán a las normas y procedimientos que al efecto se establezcan en la LIGECEM.
 
-VI. Integrar la información e investigación técnica geográfica del Estado, de los municipios, de los centros de población y las localidades.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-VII. Proporcionar asesoría y capacitación en materia catastral, a los servidores públicos, cuando se lo soliciten.
+VI. Integrar la información geográfica y catastral del Estado, de los municipios, de los centros de población y de las localidades.
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+VII. Proporcionar asesoría técnica y capacitación en materia de catastro e integración y actualización de las Tablas de Valores Unitarios de Suelo y Construcción, cuando se lo soliciten.
 
 > <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 VIII. Diagnosticar que la actividad catastral a cargo de los ayuntamientos se realice en los términos de este Código y demás disposiciones jurídicas aplicables.
 
-IX. Asumir cuando se considere procedente las funciones catastrales de los ayuntamientos, mediante convenio.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-X. Elaborar y someter a la aprobación del Gobernador, el Reglamento de Catastro, previa consulta a los ayuntamientos, en la que podrán presentar propuestas en la materia.
+IX. Asumir mediante convenio algunas de las funciones catastrales conferidas en este título al ayuntamiento, cuando se considere procedente y medie solicitud.
 
-> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+X. (DEROGADA, G.G. 31 DE DICIEMBRE DE 2001)
 
-XI. Emitir opinión técnica a solicitud de los municipios respecto del proyecto de Tablas de Valores Unitarios de Suelo y Construcción.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+XI. Revisar que la elaboración de propuestas de modificación a las tablas de valores unitarios de suelo y construcción a cargo del Ayuntamiento, se realice en los términos de este Código y demás disposiciones jurídicas aplicables y emitir opinión técnica a solicitud de los municipios.
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+XII. Expedir las constancias o certificaciones en materia catastral, que no sean competencia del ayuntamiento.
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+XIII. Coadyuvar con las autoridades administrativas competentes en la integración de los padrones de los inmuebles propiedad del Gobierno del Estado, así como practicar los avalúos de dichos inmuebles cuando se adquieran, graven o enajenen.
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+XIV. Practicar el avalúo de los inmuebles vacantes que sean adjudicados al Gobierno del Estado.
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+XV. Justipreciar el monto de la renta de inmuebles cuando las dependencias o entidades paraestatales de la administración pública estatal los den o tomen en arrendamiento, cuando se lo soliciten.
 
 ###### Artículo 171.
 
 Además de las atribuciones que este Código y otros ordenamientos les confieran en materia catastral, los ayuntamientos tendrán las siguientes facultades y obligaciones:
 
-I. Llevar el registro y control de los inmuebles localizados dentro del territorio municipal.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-II. Asignar la clave catastral.
+I. Llevar a cabo la inscripción y control de los inmuebles localizados dentro del territorio municipal.
 
-III. Recibir las manifestaciones catastrales de los propietarios o poseedores de inmuebles.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-IV. Realizar las acciones que determine el Instituto para la consolidación, conservación y buen funcionamiento del catastro.
+II. Identificar en forma precisa, la localización geográfica de cada inmueble ubicado dentro del territorio del municipio y asignar la clave catastral que le corresponda.
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-V. Proporcionar al Instituto dentro de los plazos que señala este Título y otros ordenamientos aplicables, las propuestas, reportes, informes y documentos, para integrar, conservar y mantener actualizada la información catastral del Estado.
+III. Recibir las manifestaciones catastrales de los propietarios o poseedores de inmuebles, para efectos de su inscripción o actualización del registro en el padrón catastral.
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+IV. Realizar acciones en coordinación con el IGECEM para la consolidación, conservación y buen funcionamiento del catastro.
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+V. Proporcionar al IGECEM dentro de los plazos que señala este título y la LIGECEM, las propuestas, reportes, informes y documentos, para integrar, conservar y mantener actualizada la información catastral del Estado.
 
 VI. Elaborar y mantener actualizada la cartografía catastral municipal.
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-VII. Practicar apeos, deslindes catastrales y verificación de linderos, a petición de parte.
+VII. Practicar apeos y deslindes catastrales, y verificación de linderos, en los términos que señale la normatividad aplicable emitida por el IGECEM.
 
 VIII. Proporcionar la información que soliciten por escrito otras dependencias oficiales.
 
-IX. Proponer la modificación, actualización y creación de áreas homogéneas y bandas de valor.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-X. Difundir dentro de su territorio las Tablas de Valor aprobadas por la Legislatura.
+IX. Proponer al IGECEM la modificación, actualización y creación de áreas homogéneas, bandas de valor y manzanas catastrales y valores unitarios de suelo y construcción.
 
-XI. Aplicar las tablas de Valor aprobadas por la Legislatura, en la determinación del valor catastral de los inmuebles, en los casos a que se refiere este Título.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+X. Difundir dentro de su territorio las Tablas de Valores Unitarios de Suelo y Construcción aprobadas por la Legislatura.
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+XI. Aplicar las Tablas de Valores Unitarios de Suelo y Construcción aprobadas por la Legislatura, en la determinación del valor catastral de los inmuebles.
 
 XII. Obtener de las autoridades, dependencias o instituciones de carácter federal y estatal, de las personas físicas o morales, los documentos, datos o informes que sean necesarios para la integración y actualización de la información catastral del municipio.
 
-XIII. Cumplir con la normatividad y los procedimientos técnicos y administrativos establecidos por el Instituto, con las salvedades que éste determine.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-> <small>(ADICIONADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+XIII. Cumplir con la normatividad y los procedimientos técnicos y administrativos establecidos por el IGECEM.
 
-XIV. Proponer y realizar estudios tendientes a lograr la actualización del catastro municipal y, en su caso, aplicarlo en lo conducente sin contravenir lo dispuesto en la Ley de Información e Investigación Geográfica, Estadística y Catastral del Estado de México.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+XIV. Proponer al IGECEM y realizar estudios tendientes a lograr la actualización del catastro municipal y, en su caso, aplicarlos en lo conducente sin contravenir lo dispuesto por la LIGECEM.
 
-XV. Proponer a la Legislatura Local el proyecto de Tablas de Valores Unitarios de Suelo y Construcción.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+XV. Proponer a la Legislatura para su aprobación el proyecto de Tablas de Valores Unitarios de Suelo y Construcciones.
 
-XVI. Solicitar al Instituto opinión técnica sobre el proyecto de Tablas de Valores Unitarios de Suelo y Construcción que proponga a la Legislatura del Estado.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+XVI. Solicitar al IGECEM opinión técnica sobre el proyecto de Tablas de Valores Unitarios de Suelo y Construcciones que propongan a la Legislatura.
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+XVII. Integrar, conservar y mantener actualizado el registro alfanumérico de los inmuebles ubicados en el territorio del municipio.
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+XVIII. Expedir las constancias o certificaciones catastrales en el ámbito de su competencia.
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+XIX. Verificar y registrar oportunamente los cambios que se operen en los inmuebles, que por cualquier concepto alteren los datos contenidos en el Padrón Catastral Municipal.
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+XX. Mantener actualizada la vinculación de los registros alfanumérico y gráfico del Padrón Catastral Municipal.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 172.
 
-Cuando las autoridades catastrales, a petición de parte interesada o de oficio, practiquen trabajos de apeo y deslinde; los deberán ejecutar a través de personal autorizado, previa identificación y presentación de la orden para realizarlos, en presencia del propietario o poseedor del inmueble o de su representante legal, con la asistencia de los propietarios o poseedores de los inmuebles colindantes o sus representantes legales, quienes deberán ser notificados por lo menos con tres días hábiles de anticipación para que, en su caso, hagan las manifestaciones o ejerzan las acciones que a su derecho convengan.
+Cuando el IGECEM o el ayuntamiento, practiquen trabajos de apeo y deslinde, los deberán ejecutar a través de personal autorizado, previa identificación y presentación de la orden para realizarlos, en presencia del propietario o poseedor del inmueble o de su representante legal, con la asistencia de los propietarios o poseedores de los inmuebles colindantes o sus representantes legales, quienes deberán ser notificados por lo menos con tres días de anticipación para que, en su caso, hagan las manifestaciones o ejerzan las acciones que a su derecho convenga.
 
-El resultado de los trabajos catastrales antes mencionados y las observaciones de los interesados, se harán constar en acta circunstanciada que será firmada por todos los que hubiesen intervenido, a quienes se les entregará copia.
+Los hechos y circunstancias del levantamiento catastral y observaciones de los interesados, se harán constar en acta, que será firmada por todos los que intervengan y quieran hacerlo, a quienes se les entregará copia.
+
+Los datos obtenidos como resultado de los trabajos catastrales enunciados en este artículo, serán considerados para actualizar el padrón catastral del ayuntamiento y del Estado, por lo que la autoridad que realice el levantamiento catastral deberá remitir copia del plano del apeo y deslinde, al ayuntamiento o al IGECEM, según sea el caso.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 173.
 
-Las autoridades catastrales expedirán, a costa del interesado, previa solicitud por escrito en la que acredite su interés jurídico o legítimo, las constancias o certificaciones en materia catastral de su competencia.
+El IGECEM y el ayuntamiento, a costa del interesado, previa solicitud por escrito en la que acredite su interés jurídico o legítimo, podrán expedir certificaciones o constancias de los documentos y datos que obren en sus archivos o en el padrón catastral, en la materia de su competencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 174.
 
-El Instituto emitirá la normatividad para la elaboración de la representación gráfica, para la localización e identificación de la tipología de los inmuebles. Los municipios que realicen esta función, la notificarán al Instituto y le enviarán copia de la información para que éste integre y actualice la información catastral del Estado.
+El IGECEM emitirá la normatividad para la elaboración de la representación gráfica, que permita la localización geográfica e identificación de los inmuebles.
 
-El Instituto conservará bajo su guarda y custodia los archivos de la información catastral del Estado, los que estarán a disposición de los interesados para su consulta.
+El ayuntamiento que realice trabajos de actualización al registro gráfico, deberá enviar copia de éstos al IGECEM, para que éste integre y actualice la información catastral del Estado.
 
-### CAPITULO TERCERO. DEL REGISTRO DE INMUEBLES
+El IGECEM conservará bajo su guarda y custodia los archivos de la información cartográfica del Estado, los que estarán a disposición de los interesados para su consulta.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+###### Artículo 174 Bis.
+
+El ayuntamiento enviará al IGECEM la información actualizada del registro alfanumérico y del registro gráfico, dentro de los 10 días siguientes al mes de que se informe, en términos del procedimiento técnico aprobado por el IGECEM, para efectos de integrar y actualizar el padrón catastral del Estado.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+### CAPITULO TERCERO. DE LA INSCRIPCION DE INMUEBLES
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 175.
 
-Los propietarios o poseedores de inmuebles en el Estado, incluyendo las entidades públicas, están obligados a inscribirlos ante la autoridad catastral municipal, mediante manifestación que presenten en los formatos autorizados por el Instituto, precisando las medidas del terreno y de la construcción, su ubicación, uso de suelo, si es a título de propietario o poseedor y demás datos solicitados, exhibiendo la documentación relativa.
+Los propietarios o poseedores de inmuebles ubicados en territorio del Estado, incluyendo las Dependencias y Entidades Públicas, están obligados a inscribirlos ante el catastro del ayuntamiento, mediante manifestación que presenten en los formatos autorizados por el IGECEM, precisando las superficies del terreno y de la construcción, su ubicación, y uso de suelo, si es a título de propietario o poseedor y demás datos solicitados, exhibiendo la documentación requerida para estos efectos.
 
-Asimismo, cuando se adquiera, fusione, subdivida, lotifique, relotifique, fraccione, cambie de uso de suelo un inmueble o se modifique la superficie de terreno o construcción, cualquiera que sea la causa, se hará del conocimiento de la autoridad catastral municipal en los términos que se mencionan en el párrafo que antecede dentro de los quince días siguientes, en que la autoridad competente haya otorgado la autorización correspondiente, para el efecto de la asignación o modificación de la clave, actualización del valor y registro en el inventario analítico.
+Asimismo, cuando se adquiera, fusione, subdivida, lotifique, relotifique, fraccione, cambie de uso de suelo un inmueble o se modifique la superficie de terreno o construcción, cualquiera que sea la causa, se hará del conocimiento del ayuntamiento, en los términos establecidos en el párrafo anterior, dentro de los quince días siguientes a la fecha en que la autoridad competente haya otorgado la autorización correspondiente, para el efecto de asignación de la clave, inscripción en el padrón y en su caso actualización de los datos técnicos, administrativos y del valor catastral.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 176.
 
-En los casos en que el valor catastral haya sido modificado por la publicación de las Tablas de Valor, será obligación de los propietarios o poseedores de inmuebles, declarar su valor dentro de los primeros noventa días del año, ante la autoridad catastral municipal, mediante manifestación que presenten en los formatos autorizados por el Instituto.
+En los casos en que el valor catastral haya sido modificado por la actualización de las Tablas de Valores Unitarios de Suelo y Construcciones, publicadas en el periódico oficial, será obligación de los propietarios o poseedores de inmuebles, declarar su valor ante el ayuntamiento, mediante manifestación que presenten en los formatos autorizados por el IGECEM, dentro de los primeros noventa días del año.
 
-(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+###### Artículo 176 Bis.
+
+Los propietarios o poseedores de inmuebles ubicados fuera de las áreas de interés catastral, definidas en términos del artículo 186 de este Código, para cumplir con la obligación de manifestar el valor catastral de sus inmuebles, podrán solicitar al IGECEM la práctica del avalúo.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 177.
 
-Las autoridades catastrales podrán constatar la veracidad de los datos manifestados, mediante la realización de los estudios técnicos catastrales que sean necesarios, dentro de los ciento ochenta días siguientes a la manifestación, cuando no fuese presentada la manifestación y hayan sido detectadas modificaciones en el inmueble, las autoridades competentes podrán, en el ejercicio de sus atribuciones, realizar las acciones descritas.
+El ayuntamiento está facultado para constatar la veracidad de los datos declarados en la manifestación por los propietarios o poseedores de inmuebles, mediante la realización de los estudios técnicos catastrales que sean necesarios.
+
+Cuando no fuese presentada la manifestación, y hayan sido detectadas modificaciones en los inmuebles, el ayuntamiento podrá requerir a los propietarios o poseedores que proporcionen los datos, documentos e informes de los inmuebles; y realizar levantamientos topográficos y demás operaciones catastrales.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 178.
 
-Cuando de las manifestaciones y del resultado de los estudios que realicen las autoridades catastrales, se desprenda que la información no corresponde a lo manifestado por el propietario o poseedor, se harán las correcciones procedentes, notificándose de las mismas al interesado y a la autoridad fiscal competente, dentro del término de quince días.
+Cuando de las manifestaciones y del resultado de los estudios técnicos que realice el ayuntamiento, se desprenda que la información no corresponde a lo manifestado por el propietario o poseedor, se harán las correcciones procedentes, notificándose de las mismas dentro del término de quince días al interesado, y a la autoridad fiscal competente.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 179.
 
-El registro, identificación, localización y control de los inmuebles se hará mediante la asignación de una clave catastral que consiste en un código alfanumérico de dieciséis posiciones: las tres primeras identifican al municipio, las dos siguientes a la zona catastral, tres para la manzana, y dos para el lote; cuando se trate de condominios dos posiciones para identificar el edificio y las cuatro siguientes para el número de departamento o local.
+En términos de este capítulo, en lo sucesivo, salvo mención expresa, se entenderá por:
 
-La clave catastral deberá corresponder invariablemente a la estructura señalada.
+I. Clave catastral. El código alfanumérico de dieciséis caracteres, que se asigna para efectos de localización geográfica, identificación, inscripción, control y registro de los inmuebles; los diez primeros deben ser caracteres numéricos y los seis últimos pueden ser alfanuméricos; su integración debe corresponder invariablemente y en estricto orden, a esta estructura: los tres primeros identifican al código del municipio, los dos siguientes a la zona catastral, los tres que siguen a la manzana y los dos siguientes al número de lote o predio; cuando se trate de condominios, las siguientes dos posiciones identifican el edificio y las cuatro últimas el número de departamento, vivienda o local; en los casos de propiedades individuales estos seis últimos caracteres se codifican con ceros.
+
+II. Municipio. La delimitación conforme a la división política del estado en territorios municipales, con sustento en los decretos, acuerdos y resoluciones que en esta materia haya fijado la Legislatura; está representado por los dígitos primero al tercero de la clave catastral.
+
+Para efectos de identificación y clasificación catastral el código asignado a cada municipio será el siguiente:
+
+Código Nombre
+
+001 CUAUTITLAN
+
+002 COYOTEPEC
+
+003 HUEHUETOCA
+
+004 MELCHOR OCAMPO
+
+005 TEOLOYUCAN
+
+006 TEPOTZOTLAN
+
+007 TULTEPEC
+
+008 TULTITLAN
+
+009 CHALCO
+
+010 AMECAMECA
+
+011 ATLAUTLA
+
+012 AYAPANGO
+
+013 COCOTITLAN
+
+014 ECATZINGO
+
+015 IXTAPALUCA
+
+016 JUCHITEPEC
+
+017 OZUMBA
+
+018 TEMAMATLA
+
+019 TENANGO DEL AIRE
+
+020 TEPETLIXPA
+
+021 TLALMANALCO
+
+022 EL ORO
+
+023 ACAMBAY
+
+024 ATLACOMULCO
+
+025 TEMASCALCINGO
+
+026 IXTLAHUACA
+
+027 JIQUIPILCO
+
+028 JOCOTITLAN
+
+029 MORELOS
+
+030 SAN FELIPE DEL PROGRESO
+
+031 JILOTEPEC
+
+032 ACULCO
+
+033 CHAPA DE MOTA
+
+034 POLOTITLAN
+
+035 SOYANIQUILPAN DE JUAREZ
+
+036 TIMILPAN
+
+037 VILLA DEL CARBON
+
+038 LERMA
+
+039 OCOYOACAC
+
+040 OTZOLOTEPEC
+
+041 SAN MATEO ATENCO
+
+042 XONACATLAN
+
+043 OTUMBA
+
+044 AXAPUSCO
+
+045 NOPALTEPEC
+
+046 SAN MARTIN DE LAS PIRAMIDES
+
+047 TECAMAC
+
+048 TEMASCALAPA
+
+049 SULTEPEC
+
+050 ALMOLOYA DE ALQUISIRAS
+
+051 AMATEPEC
+
+052 TEXCALTITLAN
+
+053 TLATLAYA
+
+054 ZACUALPAN
+
+055 TEMASCALTEPEC
+
+056 SAN SIMON DE GUERRERO
+
+057 TEJUPILCO
+
+058 TENANCINGO
+
+059 COATEPEC HARINAS
+
+060 IXTAPAN DE LA SAL
+
+061 MALINALCO
+
+062 OCUILAN
+
+063 TONATICO
+
+064 VILLA GUERRERO
+
+065 ZUMPAHUACAN
+
+066 TENANGO DEL VALLE
+
+067 ALMOLOYA DEL RIO
+
+068 ATIZAPAN
+
+069 CALIMAYA
+
+070 CAPULHUAC
+
+071 CHAPULTEPEC
+
+072 XALATLACO
+
+073 JOQUICINGO
+
+074 MEXICALTZINGO
+
+075 RAYON
+
+076 SAN ANTONIO LA ISLA
+
+077 TEXCALYACAC
+
+078 TIANGUISTENCO
+
+079 TEXCOCO
+
+080 ACOLMAN
+
+081 ATENCO
+
+082 CHIAUTLA
+
+083 CHICOLOAPAN
+
+084 CHICONCUAC
+
+085 CHIMALHUACAN
+
+086 LA PAZ
+
+087 NEZAHUALCOYOTL
+
+088 PAPALOTLA
+
+089 TEOTIHUACAN
+
+090 TEPETLAOXTOC
+
+091 TEZOYUCA
+
+092 TLALNEPANTLA DE BAZ
+
+093 COACALCO BERRIOZABAL
+
+094 ECATEPEC DE MORELOS
+
+095 HUIXQUILUCAN
+
+096 ISIDRO FABELA
+
+097 JILOTZINGO
+
+098 NAUCALPAN DE JUAREZ
+
+099 NICOLAS ROMERO
+
+100 ATIZAPAN DE ZARAGOZA
+
+101 TOLUCA
+
+102 ALMOLOYA DE JUAREZ
+
+103 METEPEC
+
+104 TEMOAYA
+
+105 VILLA VICTORIA
+
+106 ZINACANTEPEC
+
+107 VALLE DE BRAVO
+
+108 AMANALCO
+
+109 DONATO GUERRA
+
+110 IXTAPAN DEL ORO
+
+111 OTZOLOAPAN
+
+112 SANTO TOMAS
+
+113 VILLA DE ALLENDE
+
+114 ZACAZONAPAN
+
+115 ZUMPANGO
+
+116 APAXCO
+
+117 HUEYPOXTLA
+
+118 JALTENCO
+
+119 NEXTLALPAN
+
+120 TEQUIXQUIAC
+
+121 CUAUTITLAN IZCALLI
+
+122 VALLE DE CHALCO SOLIDARIDAD
+
+123 LUVIANOS
+
+124 SAN JOSE DEL RINCON
+
+III. Zona catastral. La delimitación del territorio que para efectos de control catastral se divide en polígonos cerrados en función de límites físicos, como son: accidentes topográficos, ríos, barrancas, vialidades y otros que sirvan para definirlos y agrupan a todas las manzanas catastrales que existen en el municipio; está representada por el cuarto y quinto dígitos de la clave catastral.
+
+IV. Manzana catastral. La delimitación del terreno por vialidades y límites físicos, en polígono cerrado, conforme al número y dimensión de los predios que se localizan en ella; está representada por los dígitos sexto a octavo de la clave catastral.
+
+V. Predio. El inmueble urbano o rústico con o sin construcciones, integrado o no en una manzana catastral, cuyos linderos forman un polígono sin solución de continuidad; está representado por los dígitos noveno y décimo de la clave catastral.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 180.
 
-El inventario analítico de los inmuebles se integra por un registro alfanumérico y un registro gráfico.
+El padrón catastral se integra por un registro alfanumérico y un registro gráfico.
 
 I. El registro alfanumérico deberá contener:
 
@@ -7481,21 +8189,25 @@ II. El registro gráfico deberá contener:
 
 9. Clave catastral.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 181.
 
-El trámite de inscripción o actualización de inmuebles ante la autoridad catastral municipal, lo podrá realizar:
+El trámite de inscripción de inmuebles o actualización de registros ante el Ayuntamiento, lo podrá realizar:
 
 I. El propietario, poseedor o representante legal acreditado.
 
 II. Los notarios públicos legalmente acreditados.
 
-III. La autoridad catastral, de oficio, cuando un inmueble no esté inscrito o presente modificaciones no manifestadas.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+III. El Ayuntamiento, de oficio, cuando un inmueble no esté inscrito o presente modificaciones no manifestadas.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 182.
 
-Para el registro o actualización de un inmueble, deberá acompañarse el documento con que se acredite la propiedad o posesión, el que podrá consistir en:
+Para la inscripción o actualización de un inmueble, deberá presentarse el documento con el que se acredite la propiedad o posesión, que podrá consistir en:
 
 I. Testimonio notarial.
 
@@ -7517,85 +8229,143 @@ VI. Cédula de contratación que emita la dependencia oficial autorizada para la
 
 VII. Título, certificado o cesión de derechos agrarios o comunales.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 183.
 
-La inscripción catastral del inmueble, no genera derecho alguno y prevalecerá independientemente de quien ostente la propiedad o posesión.
+La inscripción catastral de un inmueble en el padrón catastral no genera por sí misma, ningún derecho de propiedad o posesión del mismo a favor de la persona cuyo nombre aparezca inscrito.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 184.
 
-Cuando no se registre un inmueble, no se manifieste su valor o las modificaciones de terreno o construcción, en los términos establecidos en este Título, la autoridad catastral municipal, sin perjuicio de la responsabilidad que le resulte al propietario o poseedor del inmueble conforme al presente Código y otros ordenamientos, le hará la notificación correspondiente para que dentro del término de quince días corrija la omisión, y en su defecto, hará la actualización, asignación del valor o registro con los elementos de que disponga en el sistema de información catastral.
+Cuando no se inscriba un inmueble, no se manifieste su valor o las modificaciones de terreno o construcción, en los términos establecidos en este capítulo, el ayuntamiento, sin perjuicio de la responsabilidad que le resulte al propietario o poseedor del inmueble, conforme a este Código y a la LIGECEM le hará llegar la notificación correspondiente, para que dentro del término de quince días corrija la omisión o en su defecto con los elementos de que disponga, haga la actualización, inscripción en el padrón y la determinación del valor catastral.
 
-### CAPITULO CUARTO. DEL SISTEMA DE VALUACION
+> <small>(REFORMADA SU DENOMINACION, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+### CAPITULO CUARTO. DE LAS TABLAS DE VALOR
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 185.
 
-El Sistema de Valuación Catastral tiene como base las características predominantes en una circunscripción territorial y tomará como referencia los valores de mercado del suelo y de la construcción.
+El sistema de valuación catastral de inmuebles tiene como base las características predominantes en la circunscripción territorial denominada área homogénea y tomará como referencia los valores de mercado del suelo y de la construcción.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 186.
 
-Para efectos de este Título, el área de interés catastral es aquella delimitación territorial, con o sin traza urbana, contenida y definida en las tablas de valor aprobadas por la legislatura estatal.
+El área de interés catastral es la delimitación o delimitaciones territoriales en cada municipio, con o sin traza urbana, conformadas por todas las áreas homogéneas y manzanas catastrales contenidas en las Tablas de Valores Unitarios de Suelo aprobadas por la Legislatura y publicadas en el periódico oficial para tales efectos.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 187.
 
-Cuando la calidad de los servicios públicos, existencia y disponibilidad de los mismos, uso de suelo, infraestructura urbana y equipamiento, régimen jurídico de la tenencia de la tierra, así como el nivel socioeconómico de la población, tipo y calidad de las construcciones, sean similares dentro de una circunscripción territorial, teniendo consecuentemente valores inmobiliarios semejantes, se constituye en una área homogénea, a la que se le asignará un valor unitario de suelo promedio de los valores inmobiliarios que en ella existan.
+El área homogénea se constituye cuando la existencia, disponibilidad y calidad de los servicios públicos, uso de suelo, infraestructura urbana y equipamiento, régimen jurídico de la tenencia de la tierra, nivel socioeconómico de la población, así como tipo y calidad de las construcciones y valores unitarios de suelo, sean similares y predominantes dentro de una circunscripción territorial claramente identificable, conformada por un conjunto de manzanas catastrales.
 
 ###### Artículo 188.
 
 La delimitación técnica de las áreas homogéneas se realizará a través de límites, como avenidas, calles, caminos, veredas, arroyos y otros elementos distintivos, que permitan establecer claramente los límites de una y otra, de acuerdo con las características mencionadas en el artículo anterior.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 189.
 
-Dentro del área homogénea pueden existir franjas denominadas bandas de valor, que por sus características dan lugar a que los inmuebles cuyo acceso principal esté sobre ella, puedan tener un valor unitario de suelo diferente al de la propia área homogénea.
+Las bandas de valor son: los tramos de vialidad, derechos de vía, dentro de las áreas homogéneas que atendiendo a características respecto a las condiciones de prestación de los servicios públicos, circulación peatonal y/o vehicular, actividad económica y uso de suelo predominantes, o peculiaridades físicas, tales como canales de aguas residuales, panteones, barrancas y otros factores similares, dan lugar a que los inmuebles con frente a la banda de valor que las determina tengan un valor unitario de suelo diferente al predominante en la propia área homogénea donde se ubican.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 190.
 
-Para determinar una banda de valor se considerarán: las condiciones de los servicios públicos; la circulación peatonal o vehicular; las características de las actividades económicas que se desarrollen; el uso de suelo; la existencia de vialidades de alta velocidad; canales conductores de aguas residuales; panteones; barrancas y otros factores que puedan modificar el valor de la franja, respecto del que corresponda al área homogénea.
+El área base, es la superficie promedio preponderante, de los predios que integran a cada área homogénea, que determina las dimensiones del frente y fondo base, constituyen la referencia de comparación para la determinación y aplicación de los factores correspondientes, en la valuación de un inmueble.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 191.
 
-Para identificar la banda de valor que le corresponde a un inmueble, se considera como acceso principal, el del número oficial.
+Las bandas de valor se delimitan por manzanas completas, por lo que sus extremos deben coincidir necesariamente con cruceros de vialidades o limites físicos; su código se integra por tres caracteres numéricos y que deberán asignarse consecutivamente a partir del numero 300, para diferenciarlos de los números de las áreas homogéneas.
 
-Cuando no tenga asignado número oficial y pueda estar afectado por dos o más bandas se considerará la de menor valor.
+Cuando un inmueble esté afectado por dos o más bandas, para efectos de valuación catastral, se considerará la de menor valor.
+
+Todos los inmuebles que integran una banda de valor, además de tener el mismo valor unitario de suelo, están ligados a una sola clave de calle que está conformada por ocho dígitos y su estructura es la siguiente: tres dígitos numéricos para capturar la zona catastral de origen; cuatro dígitos numéricos asignados consecutivamente al número de calle, y un carácter alfabético como identificador del tipo de vialidad, todos correlacionados en el catálogo operativo respectivo, con el nombre de la vialidad.
+
+Los identificadores de los tipos de vialidad considerados, son los siguientes:
+
+Identificador Tipo de Vialidad
+
+a andador
+
+b avenida
+
+c boulevard
+
+d calle
+
+e callejón
+
+f jardín
+
+g paseo
+
+h plaza
+
+i privada
+
+j calzada
+
+k pasaje
+
+l autopista
+
+m camino
+
+n carretera
+
+o ferrocarril
+
+p supercarretera
+
+q vereda
+
+r circuito
+
+s cerrada
+
+t libramiento
+
+z límite físico o de zona
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 192.
 
-El valor unitario del suelo y de construcción se determina por la unidad de medida que establecen las Tablas de Valores Unitarios.
+Los valores unitarios de suelo y de construcción se determinarán por la unidad de medida que establecen Tablas de Valores Unitarios de Suelo y Construcción aprobadas por la Legislatura.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 193.
 
-Para los efectos de clasificación, los valores unitarios de suelo atienden a los criterios de uso de suelo y nivel de jerarquización; y los de construcción a los de uso y de clase.
+Para los efectos de clasificación de las áreas homogéneas y la determinación de los valores unitarios de suelo, así como para la clasificación de las tipologías de construcción y la determinación de los valores unitarios de construcción, se atenderá a:
 
-> <small>(ADICIONADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+I. Tratándose de suelo se considerarán los criterios de uso y nivel de jerarquización siguientes:
 
-CRITERIOS DE USO DE SUELO Y NIVEL DE JERARQUIZACION
+El uso puede ser: habitacional (H), comercial (C), industrial (I), equipamiento (E) y agrícola (A).
 
-1. Zona Catastral (ZONA). Delimitación del territorio que, para efectos de control catastral, se divide en polígonos cerrados en función de límites físicos, como son: accidentes topográficos, ríos, barrancas, vialidades y otros que sirvan para definirlos, representada por el cuarto y quinto dígitos de la clave catastral.
+Los niveles de jerarquización se identifican por una clave que asigna diversas categorías a los usos de suelo y se definen atendiendo al análisis cuantitativo y cualitativo predominante sobre la existencia, calidad y disponibilidad de los servicios públicos; uso de suelo; infraestructura urbana; equipamiento; régimen jurídico de la tenencia de la tierra; nivel socioeconómico de la población; así como tipo y calidad de las construcciones.
 
-2. Manzana. Demarcación del terreno por vías y límites físicos, su forma y tamaño es variable estando sujeta al número y dimensión de los inmuebles que se localizan en ella, representada por los dígitos sexto a octavo de la clave catastral.
+El código del área homogénea se integra por dos caracteres, el primero es alfabético y corresponde a la clave de uso del suelo, el segundo es numérico y corresponde al nivel de jerarquización, conforme a las definiciones siguientes:
 
-3. Area Homogénea. Es el código numérico consecutivo de tres posiciones que la identifica en el municipio.
+CRITERIOS DE CLASIFICACION DE LAS AREAS HOMOGENEAS
 
-4. Tipo de Area Homogénea (TIPO). Código alfanumérico de dos posiciones que clasifica al área homogénea.
+Habitacional (H1). Se localizan en la periferia de las ciudades y/o pueblos, siendo frecuente que se presenten asentamientos irregulares; su régimen jurídico de la tenencia de la tierra es privado, ejidal o comunal, los servicios públicos e infraestructura son incompletos e incipientes; su uso del suelo predominante es habitacional, con una densidad baja; existen terrenos destinados a la agricultura, su lotificación presenta lotes irregulares e inferiores a los mínimos autorizados, mezclados con terrenos grandes; su vivienda es sin proyecto con materiales de mala calidad y sin acabados.
 
-El primer dígito se identifica, de acuerdo con el uso de suelo, en: habitacional (H), comercial (C), industrial (I) y equipamiento (E).
+Habitacional (H2). Se localizan en la periferia de las ciudades o en centros de los pueblos, siendo posible la existencia de asentamientos espontáneos; el régimen jurídico de la tenencia de la tierra es privado o ejidal; los servicios públicos e infraestructura son por lo general incompletos, aunque también los hay completos; su uso de suelo predominante es habitacional; con una densidad media o alta; su lotificación presenta lotes regulares e irregulares en su forma, pueden aparecer inferiores a los mínimos autorizados, mezclados con terrenos grandes; es frecuente que se encuentren lotes interiores y que se formen privadas no planificadas, así como calles que no presentan continuidad; la vivienda es económica sin proyecto o parcialmente definido; materiales económicos, con acabados incipientes y ejecución de poca calidad.
 
-El segundo dígito indica los diversos niveles de jerarquización de las características del área homogénea. Los diferentes tipos de área, son:
+Habitacional (H3). Se localizan generalmente fuera de zonas consolidadas y ocasionalmente; dentro de las áreas o zonas urbanas; su régimen jurídico de la tenencia de la tierra es privado y en su mayoría presentan la modalidad en condominio; los servicios públicos e infraestructura son completos; su uso predominante es habitacional, con una densidad muy alta; su lotificación es regular e irregular, se adaptan a las medidas mínimas reglamentarias; en fraccionamientos las manzanas generalmente son rectangulares o irregulares planificadas, en conjuntos verticales la distribución interna de los edificios y lotes es ordenada; la vivienda es de interés social, su proyecto es típico y definido con materiales económicos y ejecución de mediana calidad, su construcción es en serie.
 
-Habitacional (Hl). Se localizan en la periferia de las ciudades y/o pueblos, siendo frecuente que se presenten asentamientos irregulares, su régimen jurídico de la tenencia de la tierra es privado, ejidal o comunal; los servicios públicos e infraestructura son incompletos e incipientes; su uso del suelo predominante es habitacional, con una densidad baja; existen terrenos destinados a la agricultura; su lotificación presenta lotes irregulares e inferiores a los mínimos autorizados, mezclados con terrenos grandes; su vivienda es sin proyecto con materiales de mala calidad y sin acabados.
+Habitacional (H4). Se localizan en zonas urbanas consolidadas, pueden conformar ocasionalmente, las áreas urbanas en zonas periféricas de grandes poblaciones; el régimen jurídico de la tenencia de la tierra es privado, los servicios públicos e infraestructura son completos; su uso predominante es habitacional, con una densidad alta y/o media; están conformadas en fraccionamientos de tipo medio o en colonias con antigüedad; su lotificación normalmente es regular y uniforme, con dimensiones grandes; la vivienda es regular con proyecto definido y funcional, materiales de mediana o buena calidad con acabados bien ejecutados.
 
-Habitacional (H2). Se localizan en la periferia de las ciudades o en centros de los pueblos, siendo posible la existencia de asentamientos espontáneos; el régimen jurídico de la tenencia de la tierra es privado o ejidal; los servicios públicos e infraestructura son, por lo general, incompletos aunque también los hay completos; su uso de suelo predominante es habitacional; con una densidad media o alta; su lotificación presenta lotes regulares e irregulares en su forma, pueden aparecer inferiores a los mínimos autorizados, mezclados con terrenos grandes; es frecuente que se encuentren lotes interiores y que se formen privadas no planificadas, así como calles que no presentan continuidad; la vivienda es económica, sin proyecto o parcialmente definido; materiales económicos, con acabados incipientes y ejecución de poca calidad.
-
-Habitacional (H3). Se localizan, generalmente, fuera de zonas consolidadas y, ocasionalmente, dentro de las áreas o zonas urbanas; su régimen jurídico de la tenencia de la tierra es privado y, en su mayoría, presentan la modalidad en condominio; los servicios públicos e infraestructura son completos; su uso predominante es habitacional, con una densidad muy alta; su lotificación es regular e irregular, se adaptan a las medidas mínimas reglamentarias; en fraccionamientos las manzanas generalmente son rectangulares o irregulares planificadas, en conjuntos verticales la distribución interna de los edificios y lotes es ordenada; la vivienda es de interés social, su proyecto es típico y definido con materiales económicos y ejecución de mediana calidad, su construcción es en serie.
-
-Habitacional (H4). Se localizan en zonas urbanas consolidadas, pueden conformar, ocasionalmente, las áreas urbanas en zonas periféricas de grandes poblaciones; el régimen jurídico de la tenencia de la tierra es privado; los servicios públicos e infraestructura son completos; su uso predominante es habitacional, con una densidad alta y/o media; están conformadas en fraccionamientos de tipo medio o en colonias con antiguedad; su lotificación normalmente es regular y uniforme, con dimensiones grandes; la vivienda es regular con proyecto definido y funcional, materiales de mediana o buena calidad con acabados bien ejecutados.
-
-Habitacional (H5). Se localizan en zonas consolidadas del área urbana o zonas predeterminadas, como pueden ser fraccionamientos; su régimen jurídico de la tenencia de la tierra es privado; los servicios públicos e infraestructura son completos; su uso predominante es habitacional, con una densidad media; su lotificación presenta lotes regulares y/o irregulares planificados, las manzanas son irregulares planificadas; la vivienda es buena, funcional y de calidad; con proyecto definido, materiales de buena calidad, acabados bien ejecutados, con detalles especiales.
+Habitacional (H5). Se localizan en zonas consolidadas del área urbana o zonas predeterminadas, como pueden ser fraccionamientos; su régimen jurídico de la tenencia de la tierra es privado; los servicios públicos e infraestructura son completos; su uso predominante es habitacional, con una densidad media su lotificación presenta lotes regulares y/o irregulares planificados, las manzanas son irregulares planificadas; la vivienda es buena, funcional y de calidad; con proyecto definido, materiales de buena calidad, acabados bien ejecutados, con detalles especiales.
 
 Habitacional (H6). Se localizan en zonas o fraccionamientos exclusivos, normalmente fuera de zonas consolidadas; su régimen jurídico de la tenencia de la tierra es privado; los servicios públicos e infraestructura son completos; su uso predominante es habitacional, con una densidad media; su lotificación presenta lotes planificados; la vivienda es de muy buena calidad y con detalles especiales, con materiales de buena calidad, controlados y de lujo, con acabados muy bien ejecutados y con proliferación de detalles e instalaciones especiales.
 
@@ -7603,257 +8373,227 @@ Comercial (C1). Se localizan en zonas predeterminadas con alto grado de circulac
 
 Comercial (C2). Se localiza en zonas consolidadas de los centros de población y en corredores comerciales, en ciertas zonas de la población con tiendas departamentales; el régimen jurídico de la tenencia de la tierra es privado; sus servicios públicos e infraestructura son completos; su uso predominante es comercial, con una densidad alta; la edificación es regular, con proyecto definido y funcional, materiales de mediana calidad con acabados bien ejecutados.
 
-Comercial (C3). Se localiza en zonas comerciales con grandes espacios abiertos, en plazas comerciales consolidadas dentro de los centros de población; el régimen jurídico de la tenencia de la tierra es privado; los servicios públicos e infraestructura son completos; su uso predominante es comercial, con una densidad alta; la edificación es buena, con proyecto definido, funcional y de calidad, con materiales de buena calidad y acabados bien ejecutados, con detalles especiales.
+Comercial (C3). Se localiza en zonas comerciales con grandes espacios abiertos, en plazas comerciales consolidadas dentro de los centros de población; el régimen jurídico de la tenencia de la tierra es privado; los servicios públicos e infraestructura son completos; su uso predominante es comercial, con una densidad alta, la edificación es buena, con proyecto definido, funcional y de calidad, con materiales de buena calidad y acabados bien ejecutados, con detalles especiales.
 
-Industrial (I1). Se localizan en forma aislada en pequeñas naves, como son granjas de tipo avícola, dentro o fuera de los centros de población; su régimen jurídico de la tenencia de la tierra es privado; los servicios públicos e infraestructura son incompletos; su uso predominante es industrial, mezclado con otros usos, con una densidad media o baja; su lotificación es regular de tamaño medio; la edificación es económica, sin proyecto, con estructuras de soporte horizontal menores a 1.10 m y alturas de 5.00 m o menores, con muros de carga y columnas, sus materiales son de calidad económica, sin acabados.
+Industrial (l1). Se localizan en forma aislada en pequeñas naves como son granjas de tipo avícola, dentro o fuera de los centros de población; su régimen jurídico de la tenencia de la tierra es privado; los servicios públicos e infraestructura son incompletos, su uso predominante es industrial, mezclado con otros usos, con una densidad media o baja; su lotificación es regular de tamaño medio, la edificación es económica, sin proyecto, con estructuras de soporte horizontal menores a 1.10m y alturas de 5.00m o menores, con muros de carga y columnas, sus materiales son de calidad económica, sin acabados.
 
-Industrial (I2). Se localizan en parques industriales, fraccionamientos industriales y zonas industriales, ocasionalmente en algunos corredores; el régimen jurídico de la tenencia de la tierra es privado; los servicios públicos e infraestructura son completos; su uso predominante es industrial, mezclado con otros usos, con una densidad media o baja; su lotificación es regular de medio y gran tamaño; la edificación es ligera, con proyecto definido y funcional, con elementos horizontales estructurales de más de 1.10 m; materiales de buena calidad, ejecución de mediana calidad e instalaciones complementarias destinadas al apoyo del proceso productivo básico de la empresa, fuera o dentro de las naves principales, así como chimeneas.
+Industrial (I2). Se localizan en parques industriales, fraccionamientos industriales y zonas industriales, ocasionalmente en algunos corredores; el régimen jurídico de la tenencia de la tierra es privado; los servicios públicos e infraestructura son completos; su uso predominante es industrial, mezclado con otros usos, con una densidad media o baja, su lotificación es regular de medio y gran tamaño; la edificación es ligera, con proyecto definido y funcional, con elementos horizontales estructurales de más de 1.10m; materiales de buena calidad, ejecución de mediana calidad e instalaciones complementarias destinadas al apoyo del proceso productivo básico de la empresa, fuera o dentro de las naves principales, así como chimeneas.
 
-Industrial (I3). Se localizan, normalmente, en fraccionamientos industriales, en parques industriales o en corredores industriales; el régimen jurídico de la tenencia de la tierra es privado; los servicios públicos e infraestructura son completos; su uso predominante es industrial, mezclado con otros usos, con una densidad media o baja; la lotificación es de dimensiones medias o grandes; la edificación es media, con proyecto definido y funcional, con estructuras de acero con peraltes mayores a 1.10 m, de concreto preesforzado y trabelosas; materiales de buena calidad y controlados; acabados de buena ejecución, con instalaciones complementarias destinadas al apoyo del proceso productivo básico de la empresa, fuera o dentro de las naves principales, como chimeneas y tanques.
+Industrial (I3). Se localizan normalmente, en fraccionamientos industriales, en parques industriales o en corredores industriales; el régimen jurídico de la tenencia de la tierra es privado; los servicios públicos e infraestructura son completos; su uso predominante es industrial, mezclado con otros usos, con una densidad media o baja; la lotificación es de dimensiones medias o grandes; la edificación es media, con proyecto definido y funcional, con estructuras de acero con peraltes mayores a 1.10m de concreto preesforzado y trabelosas; materiales de buena calidad y controlados; acabados de buena ejecución, con instalaciones complementarias destinadas al apoyo del proceso productivo básico de la empresa, fuera o dentro de las naves principales, como chimeneas y tanques.
 
-Industrial (I4). Se localiza en grandes zonas industriales, en las periferias de las ciudades o fuera de la zona urbana, pueden formar corredores industriales; el régimen jurídico de la tenencia de la tierra es privado; los servicios públicos e infraestructura son completos; su uso predominante es industrial, mezclado con otros usos, con una densidad media o baja; su lotificación es de gran tamaño; la edificación es pesada, con proyecto definido y funcional de diseño especial, con estructuras que soportan el sistema de techumbre y adicionalmente, cargas como grúas viajeras (polipastos de más de 15 toneladas), instalaciones especiales, etc., alturas de 7.00 m ó más; materiales de buena calidad y controlados, acabados de buena ejecución; con instalaciones complementarias destinadas al apoyo del proceso productivo básico de la empresa, fuera o dentro de las naves principales, como son chimeneas, tanques de almacenamiento y silos.
+Industrial (I4). Se localiza en grandes zonas industriales, en las periferias de las ciudades o fuera de la zona urbana, pueden formar corredores industriales; el régimen jurídico de la tenencia de la tierra es privado; los servicios públicos e infraestructura son completos; su uso predominante es industrial, mezclado con otros usos, con una densidad media o baja; su lotificación es de gran tamaño; la edificación es pesada, con proyecto definido y funcional de diseño especial, con estructuras que soportan el sistema de techumbre y adicionalmente, cargas como grúas viajeras (polipastos de más de 15 toneladas), instalaciones especiales, etc., alturas de 7.00m. o más; materiales de buena calidad y controlados, acabados de buena ejecución; con instalaciones complementarias destinadas al apoyo del proceso productivo básico de la empresa, fuera o dentro de las naves principales, como son chimeneas, tanques de almacenamiento y silos.
 
-Equipamiento (E1). Su localización no obedece a un patrón específico, encontrándose tanto en zonas urbanas como fuera de ellas; el régimen jurídico de la tenencia de la tierra puede ser privado, ejidal, comunal o nacional; los servicios públicos e infraestructura normalmente son los básicos; su uso predominante es de servicios o equipamiento, mezclado con otros usos; cuando sus dimensiones son importantes, normalmente están contenidos en lotes de grandes dimensiones; la edificación es especial como mercados, escuelas, centros de salud, estadios, canchas, albercas e iglesias; estas edificaciones pueden estar contenidas en predios de propiedad particular u oficial y además, pueden combinarse con otros tipos de construcción.
+Equipamiento (E1). Su localización no obedece a un patrón específico, encontrándose tanto en zonas urbanas como fuera de ellas; el régimen jurídico de la tenencia de la tierra puede ser privado, ejidal, comunal o nacional; los servicios públicos e infraestructura normalmente son los básicos; su uso predominante es de servicios o equipamiento, mezclado con otros usos; cuando sus dimensiones son importantes normalmente están contenidos en lotes de grandes dimensiones; la edificación es especial como: mercados, escuelas, centros de salud, estadios, canchas, albercas e iglesias; estas edificaciones pueden estar contenidas en predios de propiedad particular u oficial y además, pueden combinarse con otros tipos de construcción.
 
-Agrícola (A1) Se localiza en la periferia de las ciudades y/o pueblos; el régimen jurídico de la tenencia de la tierra puede ser privado, ejidal o comunal; su uso de suelo predominante es agrícola; cultivo de agave, nopal, árboles frutales, pecuario, agropecuario, forestal, acuícola, en algunos casos mezclados con otros usos como el industrial. La densidad habitacional es nula, muy baja o baja (distribución dispersa), con alto índice de terrenos destinados a la agricultura; los servicios públicos e infraestructura son incompletos; la dotación de agua es mediante pozos y ocasionalmente, con tomas domiciliarias; el drenaje es a cielo abierto, ocasionalmente con fosas sépticas; vialidades terciarias poco definidas, su vivienda es sin proyecto, con materiales de mala calidad y sin acabar.
+Agrícola (A1). Se localiza en la periferia de las ciudades y/o pueblos, el régimen jurídico de la tenencia de la tierra puede ser privado, ejidal o comunal; su uso de suelo predominante es agrícola; cultivo de agave, nopal, árboles frutales, pecuario, agropecuario, forestal, acuícola, en algunos casos mezclados con otros usos como el industrial. La densidad habitacional es nula, muy baja o baja (distribución dispersa), con alto índice de terrenos destinados a la agricultura; los servicios públicos e infraestructura son incompletos; la dotación de agua es mediante pozos y ocasionalmente con tomas domiciliarias; el drenaje es a cielo abierto, ocasionalmente con fosas sépticas; vialidades terciarias poco definidas, su vivienda es sin proyecto, con materiales de mala calidad y sin acabar.
 
-5.- Area base. Superficie de un lote ideal (real o virtual), preponderante en un área homogénea, que tiene como dimensiones un frente y un fondo y constituye la base de comparación para la aplicación del factor de área, en la valuación de un inmueble.
+II. Tratándose de construcción se consideran los criterios de uso y de clase siguientes:
 
-6.- Banda de Valor. Se identifica con un código consecutivo que se distingue de las áreas homogéneas e inicia a partir del número 300. Tiene la condicionante de abarcar manzanas completas, por lo que sus extremos coinciden, necesariamente, con los cruceros de las calles donde se ubica.
+El uso puede ser: habitacional (H), comercial (C), industrial (I), equipamiento (Q) y especial (E).
 
-Una banda de valor pertenece únicamente a un área homogénea.
+Cada uso se clasifica en clases de acuerdo con el proyecto de la construcción y material empleado en la ejecución de la obra básica.
 
-Todas las manzanas que integran una banda de valor, además de tener el mismo valor unitario de suelo, están ligadas a una sola clave de calle que identifica el nombre de la calle y el tipo de vialidad respectiva.
+El código de las tipologías de construcción se integra por dos caracteres alfabéticos, el primero define el uso y el segundo la clase, de conformidad con las definiciones siguientes:
 
-La clave de calle está formada por ocho dígitos y su estructura es la siguiente:
-
-Tres dígitos para la zona de origen, desde 001 hasta 999.
-
-Cuatro dígitos para el nombre de la calle, que se asignan progresivamente desde 0001 hasta 9999.
-
-Una letra como identificador del tipo de vialidad, siendo éstas:
-
-Identificador Vialidad
-
-a Andador
-
-b Avenida
-
-c Boulevar
-
-d Calle
-
-e Callejón
-
-Identificador Vialidad
-
-f Jardín
-
-g Paseo
-
-h Plaza
-
-i Privada
-
-j Calzada
-
-k Pasaje
-
-l Autopista
-
-m Camino
-
-n Carretera
-
-o Ferrocarril
-
-p Supercarretera
-
-q Vereda
-
-r Circuito
-
-s Cerrada
-
-t Libramiento
-
-z Límite físico o de zona
-
-CRITERIOS DE USO Y DE CLASE DE CONSTRUCCION
-
-El uso puede ser: habitacional, comercial, industrial, de equipamiento y especial; que a su vez, se divide en clases, de acuerdo con el proyecto de la construcción y material empleado en la obra básica; cuyas definiciones se señalan en los Criterios de Clasificación para el Valor Unitario de Construcción siguientes:
+CRITERIOS DE CLASIFICACION DE TIPOLOGIAS DE CONSTRUCCION
 
 USO
 
 HABITACIONAL. H Se destina a la vivienda y resguardo de la población donde ésta reside en forma individual o colectiva.
 
-CLASE.A.(HA) Realizadas sin proyecto, con materiales de mala calidad; cimentación de piedra, muros de adobe, o tabicón o tabique rojo, en algunos casos con pocos castillos; techos de madera (vigas o polines); perfiles metálicos estructurales o tubulares; cubierta de teja de barro o lámina galvanizada, de asbesto o traslúcida.
+CLASE. A. (HA). Realizadas sin proyecto, con materiales de mala calidad; cimentación de piedra, muros de adobe o tabicón o tabique rojo, en algunos casos con pocos castillos, techos de madera (vigas o polines), perfiles metálicos estructurales o tubulares; cubierta de teja de barro o lámina galvanizada, de asbesto o traslúcida.
 
-CLASE.B.(HB) Realizadas sin proyecto o parcialmente definidas, con materiales económicos y ejecución de baja calidad; cimentación de mampostería y/o zapatas corridas; muros de tabique o tabicón o block con castillos y cadenas de concreto; techos de concreto, ocasionalmente con vigas de madera con pendiente.
+CLASE. B. (HB). Realizadas sin proyecto o parcialmente definidas, con materiales económicos y ejecución de baja calidad, cimentación de mampostería y/o zapatas corridas; muros de tabique o tabicón o block con castillos y cadenas de concreto; techos de concreto, ocasionalmente con vigas de madera con pendiente.
 
-CLASE.C.(HC) Realizadas con proyecto definido; con materiales de calidad económica, construcciones en serie; cimentación de zapatas corridas o losas de cimentación de concreto; muros de tabique o tabique vidriado, con castillos y cadenas de concreto o prefabricados; techos de concreto o prefabricados.
+CLASE. C. (HC). Realizadas con proyecto definido, con materiales de calidad económica, construcciones en serie; cimentación de zapatas corridas o losas de cimentación de concreto, muros de tabique o tabique vidriado, con castillos y cadenas de concreto prefabricados; techos de concreto o prefabricados.
 
-CLASE.D.(HD) Realizadas con proyecto definido, materiales de mediana calidad; cimientos de mampostería o zapatas corridas de concreto, algunos muros de contención; muros de adobe o tabique o tabicón con castillos y cadenas; techo de concreto o bóveda catalana o terrado con vigas de madera, enladrillado.
+CLASE. D. (HD). Realizadas con proyecto definido, con materiales de mediana calidad; cimientos de mampostería o zapatas corridas de concreto, algunos muros de contención; muros de adobe o tabique o tabicón con castillos y cadenas; techos de concreto o bóveda catalana o terrado con vigas de madera, enladrillado.
 
-CLASE.E.(HE) Realizadas con proyecto definido funcional y de calidad; con materiales de buena calidad; cimientos de mampostería con dalas de desplantes y/o zapatas corridas o aisladas de concreto; muros de contención de piedra o de concreto; muros de adobe o tabique o tabicón o piedra o tabique extruido con castillos o columnas y cadenas de concreto; techos de losa maciza o aligerada (nervada o reticular) o losa de acero de claros de hasta 8 metros o bóveda catalana o terrado o viguería con tabla, capa a la compresión y malla.
+CLASE. E. (HE). Realizadas con proyecto definido funcional y de calidad, con materiales de buena calidad; cimientos de mampostería con dalas de desplantes y/o zapatas corridas o aisladas de concreto; muros de contención de piedra o de concreto; muros de adobe o tabique o tabicón o piedra o tabique extruido con castillos o columnas y cadenas de concreto; techos de losa maciza o aligerada (nervada o reticular) o losa de acero de claros de hasta 8 metros o bóveda catalana o terrado o viguería con tabla, capa a la compresión y malla.
 
-CLASE.F.(HF) Realizadas con proyecto de calidad con detalles especiales; materiales de buena calidad y de lujo; cimientos de mampostería con dalas de desplante y/o zapatas aisladas con contratrabes de liga o con zapatas corridas; muros de contención de piedra o de concreto con sistemas especiales; muros de adobe estabilizado o de tabique o tabicón o block o piedra labrada con castillos y columnas, y cadenas y trabes de concreto, con detalles de cantera; techos de losa reticular o losa de acero o bóveda catalana o terrado o losa de diseño especial (tridilosas con capa de compresión de concreto), con claros hasta de 10 metros, impermeabilizado de membrana de aluminio, enladrillado o teja de barro vidriada.
-
-USO
-
-COMERCIAL.C Se destina a las actividades mercantiles de bienes o servicios y, en ocasiones al acopio y almacenamiento de ciertas mercancías.
-
-CLASE.ECONÓMICA.A.(CA) Realizadas sin proyecto; con materiales económicos y ejecución de baja calidad; cimentación de mampostería y/o zapatas corridas con secciones mínimas; muros de tabique o tabicón o block con cadenas y castillos de concreto; techos de losa maciza de concreto, vigas de madera con duela y capa de compresión de concreto con poco acero, enladrillado, ocasionalmente.
-
-CLASE.REGULAR.B.(CB) Realizadas con proyecto definido y funcional; con materiales de mediana calidad. Cimentación de mampostería o zapatas aisladas o corridas de concreto armado con sección típica; muros de tabique o tabicón o block con cadenas y castillos de concreto; techos de losa aligerada o maciza de concreto, vigueta o bovedilla o bóveda catalana o terrado o paneles de unicel con malla de acero y concreto o viguería con tabla o capa de compresión o malla, enladrillado, teja de barro o vidriada.
-
-CLASE.BUENA.C.(CC) Realizadas con proyecto definido funcional y de calidad; con materiales de buena calidad. Cimentación de zapatas aisladas o corridas con sección, según los claros; muros de contención de concreto o piedra; muros de tabique, tabicón, block, piedra o tabique extruido, muros o muretes de tabla roca o madera; techos de losa maciza o aligerada o losa de acero con claros de hasta 10 metros alternativamente, bóveda catalana con claros de hasta 5 metros, viguería con tabla y capa de compresión con malla, enladrillado o teja de barro o vidriada.
-
-CLASE.MUY BUENA.D.(CD) Realizadas con proyecto de calidad con detalles especiales; con materiales de buena calidad y de lujo, de fabricación nacional e importados. Cimentación de zapatas aisladas en contratrabes de liga y corridas con sección según los claros; muros de contención de concreto o piedra o cimentaciones especiales (pilotes); muros de tabique o tabicón o block o piedra o tabique extruido, detalle de cantera o mármol en fachadas; techos de losa maciza con claros hasta de 6 metros o losa reticular con claros de hasta 12 metros o bóveda catalana o terrado con claros de hasta 6 metros.
+CLASE. F. (HF). Realizadas con proyecto de calidad con detalles especiales; materiales de buena calidad y de lujo; cimientos de mampostería con dalas de desplante y/o zapatas aisladas con contratrabes de liga o zapatas corridas; muros de contención de piedra o de concreto con sistemas especiales, muros de adobe estabilizado o de tabique o tabicón o block o piedra labrada con castillos y columnas, y cadenas y trabes de concreto, con detalles de cantera; techos de losa reticular o losa de acero o bóveda catalana o terrado o losa de diseño especial (tridilosas con capa de compresión de concreto), con claros hasta de 10 metros, impermeabilizado de membrana de aluminio, enladrillado o teja de barro vidriada.
 
 USO
 
-INDUSTRIAL.I. Se destina a las actividades fabriles y de almacenamiento de materias primas y productos relacionados con la industria extractiva, manufactura de ensamble, de bebidas, de alimentos agrícolas, pecuarias, forestal, textil, de calzado y química.
+COMERCIAL. C. Se destina a las actividades mercantiles de bienes o servicios y en ocasiones, al acopio y almacenamiento de ciertas mercancías.
 
-CLASE ECONÓMICA.A.(IA) Realizadas sin proyecto; con materiales de calidad económica. Cimientos de zapatas corridas o mampostería con dalas de concreto armado; muros de tabique o tabicón o block, con alturas hasta de 3.60 metros en flancos; techos de lámina galvanizada o asbesto o acanalada con soportes de madera y/o con pequeñas estructuras de varilla o de ángulo.
+CLASE. ECONOMICA. A. (CA) Realizadas sin proyecto; con materiales económicos y ejecución de baja calidad, cimentación de mampostería y/o zapatas corridas con secciones mínimas; muros de tabique o tabicón o block con cadenas y castillos de concreto; techos de losa maciza de concreto, vigas de madera con duela y capa de compresión de concreto con poco acero enladrillado, ocasionalmente.
 
-CLASE.LIGERA.B.(IB) Realizadas con proyecto definido y funcional; con materiales de mediana calidad. Cimientos de mampostería o zapatas corridas o aisladas de concreto; muros de tabique o tabicón con cadenas y castillos, de block con castillos ahogados, faldones de lámina zintro o asbesto, celosías de tabicón o tabique, lámina metálica traslúcida con alturas de hasta 5.60 metros en los flancos; techos de lámina zintro o pintro o de asbesto, acanalada de fibra de vidrio, sobre armadura de largueros metálicos de monten, canales rigidizantes, láminas de asbesto tipo estructural entrepisos de tabla y armadura de ángulo.
+CLASE. REGULAR. B. (CB) Realizadas con proyecto definido y funcional; con materiales de mediana calidad. Cimentación de mampostería o zapatas aisladas o corridas de concreto armado con sección típica, muros de tabique o tabicón o block con cadenas y castillos de concreto; techos de losa aligerada o maciza de concreto, vigueta o bovedilla o bóveda catalana o terrado o paneles de unicel con malla de acero y concreto o viguería con tabla o capa de compresión o malla, enladrillado, teja de barro o vidriada.
 
-CLASE. MEDIANA.C.(IC) Realizadas con proyecto definido y funcional; materiales de buena calidad; estructuras que soportan el techo y adicionalmente otras cargas, con peraltes superiores a 1.10 metros. Cimientos de zapatas corridas o aisladas de concreto con contratrabes eventualmente mampostería; muros de tabique o tabicón o block con castillos, cerramientos y columnas de concreto o perfiles estructurales empotrados en muros, eventualmente muros de concreto en algunas áreas, faldones con estructura y lámina metálica acanalada, con alturas aproximadas de 7.50 metros en los flancos, faldones de lámina en fachadas; techos de lámina zintro o pintro o asbesto, lámina acanalada, acrílico (arco diente de sierra o dos aguas), armadura con largueros metálicos de monten, canales, entrepisos (mezanine) de tabla y armaduras de ángulo o siporex o arcotec impermeabilizante en caso de siporex; instalaciones especiales como: subestación eléctrica, extractor de aire atmosférico, planta eléctrica de emergencia.
+CLASE. BUENA. C. (CC) Realizadas con proyecto definido funcional y de calidad; con materiales de buena calidad. Cimentación de zapatas aisladas o corridas con sección, según los claros; muros de contención de concreto o piedra; muros de tabique, tabicón, block, piedra o tabique extruido, muros o muretes de tabla roca o madera; techos de losa maciza o aligerada o losa de acero con claros de hasta 10 metros alternativamente, bóveda catalana con claros de hasta 5 metros, viguería con tabla y capa de compresión con malla, enladrillado o teja de barro o vidriada.
 
-CLASE.PESADA.D.(ID) Para su construcción se requiere de diseño especial; con materiales de buena calidad o especiales; estructuras que pueden soportar el sistema de techado y adicionalmente cargar como grúas viajeras (polipastos de más de 15 toneladas). Cimientos de concreto armado en zapatas aisladas con contratrabes o corridas, diseños especiales para zonas específicas; muros de block o paneles metálicos o muros de concreto de cemento reforzado o metálicas embebidas con altura de 9.5 metros en los flancos, faldones de lámina en fachadas, lámina pintro o zintro con soporte de estructura metálica de alta capacidad de carga, elementos de concreto colado o prefabricados pretensado o postensado, algún cascarón de concreto, prefabricados Y, TT o T o arcotec; techos de concreto entortado relleno y acabado final, con impermeabilización; instalaciones especiales como: infraestructura para grúa viajera, planta de luz de emergencia, subestación eléctrica, soportes para ductos de aire y aceite, sistema de ventilación.
-
-CLASE.CHIMENEA.E.(IE) Cimientos de concreto, mediante zapatas corridas o losas de cimentación o de diseño especial; muros de concreto, con sección variable; lambrines a base de concreto con pintura vinílica con anillo de descarga de concreto y en chimenea metálica con pintura especial con escalera marina protegida por perfiles estructurales, en el tiro acero al carbón de 3/16".
-
-CLASE.COMPLEMENTARIA BAJA.F. (IF) Edificaciones destinadas al apoyo del proceso productivo de una industria, fuera o dentro de las naves principales. Cimentación con cadenas de concreto; muros de tabique o tabicón o block o tabique vidriado con castillos y cerramientos de concreto, con divisiones de paneles de tabla roca o lámina metálica (pintro o zintro); techos de losa maciza de concreto, con claros de hasta 4 metros; normalmente se utiliza el piso de la nave o el de la edificación en donde se encuentra incorporada; acabados de calidad económica.
-
-CLASE.COMPLEMENTARIA MEDIA.G.(IG) Edificaciones destinadas al apoyo del proceso productivo de una industria, fuera o dentro de las naves principales, con cimientos de mampostería y cadenas de concreto; muros de tabique o tabicón o block o tabique vidriado con castillos y cerramientos de concreto, con divisiones de paneles de tabla roca o lámina metálica (pintro o zintro); techos de losa maciza de concreto o losas aligeradas de vigueta o bovedilla con claros de hasta 6 metros; normalmente con pisos propios de concreto armado; acabados de mediana calidad.
-
-CLASE.COMPLEMENTARIA ALTA.H.(IH) Edificaciones destinadas al apoyo del proceso productivo de una industria, fuera de las naves principales con cimientos de mampostería o zapatas aisladas o corridas, sus dimensiones van de acuerdo con el diseño; muros de tabique o tabicón o block o tabique vidriado con castillos y cerramientos de concreto, con divisiones de paneles de tabla roca o lámina metálica (pintro o zintro); techos de losas aligeradas de viguetas o bovedilla o nervadas o reticulares con claros de hasta 8 metros; pisos propios de concreto armado con recubrimientos; acabados de buena calidad.
-
-CLASE.CISTERNA.I.(II) Cimientos a base de losas y cadenas de desplante, muros de tabique o tabicón o concreto armado con sistema de bombeo, recubrimientos en piso y en muros de cemento pulido; plafones de cemento pulido o aparente; escalera marina de tubo macizo.
-
-CLASE.TANQUE METALICO.J.(IJ) Cimientos a base de zapatas aisladas de concreto con contratrabes de dimensiones de acuerdo con el diseño estructural; pintura de esmalte en su estructura, escalera metálica de perfiles estructurales, con bomba de acuerdo a su capacidad; normalmente éstos son de fierro al carbón con una altura superior a los 10 metros.
-
-CLASE.TANQUE CONCRETO.K.(IK) Cimientos con zapatas aisladas de concreto armado con contratrabes de dimensiones de acuerdo con el diseño estructural, con columnas y trabes de concreto armado; acabados exteriores aparentes y su interior de cemento afinado en todas las caras; escaleras de perfiles estructurales con protección; con bomba de acuerdo a su capacidad; normalmente éstos son de concreto armado con una altura media superior a los 10 metros.
-
-CLASE.SILO METALICO.L.(IL) Cimientos a base de zapatas corridas o losas de cimentación con contratrabes, con recubrimiento interior de pintura de esmalte o especial de acuerdo con el material que contenga; en exterior pintura de esmalte; escalera metálica de perfiles estructurales, el material en las caras es de acero al carbón y la estructura que lo soporta de metal a base de perfiles estructurales.
-
-CLASE.SILO CONCRETO.M.(IM) Cimientos a base de zapatas corridas o losas de cimentación con contratrabes; muros de tabique o tabicón o concreto armado con un espesor medio de 30 centímetros, con pisos de cemento pulido en la cámara y escobillado en pasillo y andadores, recubrimientos exteriores aparentes o aplanado fino de mortero; los interiores de la cámara con cemento pulido; escalera metálica con perfiles estructurales, escalones y barandales del mismo material; instalaciones especiales como sistema para la elevación del producto para almacenar y controlar su vaciado.
+CLASE. MUY BUENA. D. (CD) Realizadas con proyecto de calidad con detalles especiales; con materiales de buena calidad y de lujo, de fabricación nacional e importados. Cimentación de zapatas aisladas con contratrabes de liga o corridas con sección según los claros, muros de contención de concreto o piedra o cimentaciones especiales (pilotes), muros de tabique o tabicón o block o piedra o tabique extruido, detalle de cantera o mármol en fachadas; techos de losa maciza con claros hasta de 6 metros o losa reticular con claros de hasta 12 metros o bóveda catalana o terrado con claros de hasta 6 metros.
 
 USO
 
-EQUIPAMIENTO.Q Son aquellas no incluidas en los usos habitacional, comercial e industrial y que están destinadas a dar servicios colectivos. Tienen en común el ser edificaciones techadas.
+INDUSTRIAL. I. Se destina a las actividades fabriles y de almacenamiento de materias primas y productos relacionados con la industria extractiva, manufactura de ensamble, de bebidas, de alimentos agrícolas, pecuarias, forestal, textil, de calzado y química.
 
-CLASE.CINE-AUDITORIO BAJA.A.(QA) Estructura destinada al esparcimiento, cuenta con áreas de actuación o exposición, sala de auditorio (butacas), vestíbulo, sanitarios; con materiales de baja calidad. Cimentación de mampostería o zapatas aisladas; muros de tabique o tabicón o block con castillos y cerramientos de concreto alcanzando alturas hasta de 6 metros; techos de lámina galvanizada, soportada por estructura metálica para claros hasta de 8 metros o losa aligerada (nervada reticular); acabados de baja calidad.
+CLASE. ECONOMICA. A. (IA) Realizadas sin proyecto; con materiales de calidad económica. Cimentos de zapatas corridas o mampostería con dalas de concreto armado; muros de tabique o tabicón o block, con alturas hasta de 3.60 metros en flancos; techos de lámina galvanizada o asbesto o acanalada con soportes de madera y/o con pequeñas estructuras de varilla o de ángulo.
 
-CLASE.CINE-AUDITORIO ALTO.B.(QB) Estructura destinada al esparcimiento, cuenta con áreas de actuación o exposición, sala del auditorio (butacas), vestíbulo, sanitarios, ocasionalmente con plateas; con materiales de buena calidad. Cimentación de manpostería o zapatas aisladas o corridas de concreto armado, contratrabes de liga; muros de tabique o tabicón o block con castillos y cerramientos de concreto, alturas mayores a los 6 metros; techos de lámina galvanizada zintro o pintro, soportada por estructura metálica para claros mayores a los 8 metros o losa aligerada (nervada reticular, losa de acero), entrepisos (mezanine) de concreto (losa maciza o aligerada); acabados de buena calidad, instalaciones especiales como: sonido especial, aire acondicionado, alarma, planta de luz eléctrica.
+CLASE. LIGERA. B. (IB) Realizadas con proyecto definido y funcional; con materiales de mediana calidad. Cimientos de mampostería o zapatas corridas o aisladas de concreto; muros de tabique o tabicón con cadenas y castillos, de block con castillos ahogados, faldones de lámina zintro o asbesto, celosías de tabicón o tabique, lámina metálica traslúcida con alturas de hasta 5.60 metros en los flancos; techos de lámina zintro o pintro o de asbesto, acanalada de fibra de vidrio, sobre armadura de largueros metálicos de monten, canales rigidizantes, láminas de asbesto tipo estructural, entrepisos de tabla y armadura de ángulo.
 
-CLASE.ESCUELA.BAJA.C.(QC) Estructura destinada a la enseñanza, con materiales de media o buena calidad y acabados bien ejecutados; cimentación de mampostería con dalas de concreto armado o zapatas aisladas; muros de tabique o tabicón o block con castillos o cerramientos de concreto armado; techos de lámina zintro o pintro o maciza de concreto armado, con claros hasta de 4 metros, azotea natural; acabados de calidad media baja.
+CLASE. MEDIANA. C. (IC) Realizadas con proyecto definido y funcional; materiales de buena calidad; estructuras que soportan el techo y adicionalmente otras cargas, con peraltes superiores a 1.10 metros. Cimientos de zapatas corridas o aisladas de concreto con contratrabes eventualmente mampostería; muros de tabique o tabicón o block con castillos, cerramientos y columnas de concreto o perfiles estructurales empotrados en muros, eventualmente muros de concreto en algunas áreas, faldones con estructura y lámina metálica acanalada, con alturas aproximadas de 7.50 metros en los flancos, faldones de lámina en fachadas, techos de lámina zintro o pintro o asbesto, lámina acanalada, acrílico (arco diente de sierra o dos aguas), armadura con largueros metálicos de monten, canales, entrepisos (mezanine) de tabla y armaduras de ángulo o siporex o arcotec impermeabilizante en caso de siporex; instalaciones especiales como: subestación eléctrica, extractor de aire atmosférico, planta eléctrica de emergencia.
 
-CLASE.ESCUELA.ALTA.D.(QD) Estructura destinada a la enseñanza, con materiales de buena calidad, y acabados bien ejecutados. Cimentación de mampostería o zapatas aisladas o corridas con contratrabes de concreto armado; muros de tabique estruido con castillos y cerramientos de concreto aparente o columnas de concreto armado o prefabricado; techos de concreto armado con claros de más de cuatro metros; acabados de buena calidad; instalaciones especiales como: transformador, planta de luz de emergencia, sonido.
+CLASE. PESADA. D. (ID) Para su construcción se requiere de diseño especial; con materiales de buena calidad o especiales; estructuras que pueden soportar el sistema de techado y adicionalmente cargas corno grúas viajeras (polipastos de más de 15 toneladas). Cimientos de concreto armado en zapatas aisladas con contratrabes o corridas, diseños especiales para zonas específicas, muros de block o paneles metálicos o muros de concreto reforzado o metálicas embebidas con altura de 9.5 metros en los flancos, faldones de lámina en fachadas, lámina pintro o zintro con soporte de estructura metálica de alta capacidad de carga, elementos de concreto colado o prefabricados pretensado o postensado, algún cascarón de concreto, prefabricados Y, TT o T o arcotes, techos de concreto entortado relleno y acabado final, con impermeabilización; instalaciones especiales como infraestructura para grúa viajera, planta de luz de emergencia, subestación eléctrica, soportes para ductos de aire y aceite, sistema de ventilación.
 
-CLASE.ESTACIONAMIENTO.E.(QE) Estructura destinada al resguardo de automóviles de forma temporal; con materiales de buena calidad. Cimientos de zapatas aisladas o corridas con contratrabes; muros de tabique o tabicón o block con castillos y/o contraventeos, columnas prefabricadas o coladas; techos de losas prefabricadas tipo Y, TT, T o losas macizas de concreto o losa de acero; instalaciones especiales como: elevadores, montacargas.
+CLASE. CHIMENEA. E. (IE) Cimientos de concreto mediante zapatas corridas o losas de cimentación o de diseño especial; muros de concreto con sección variable; lambrines a base de concreto con pintura vinílica con anillo de descarga de concreto y en chimenea metálica con pintura especial con escalera marina protegida por perfiles estructurales, en el tiro acero al carbón de 3/16".
 
-CLASE.HOSPITAL.BAJO.F.(QF) Estructura destinada a dar atención, tratamiento y rehabilitación a personas o animales que comprende: unidades médicas, clínicas, hospitales, sanatorios y similares; los materiales empleados son de baja calidad. Cimentación de mampostería o zapatas aisladas o corridas de concreto armado con cadenas de desplante; muros de tabique o tabicón o block con castillos y columnas de concreto; cerramientos de concreto armado, losas aligeradas, nervadas o reticulares.
+CLASE. COMPLEMENTARIA BAJA. F. (IF) Edificaciones destinadas al apoyo del proceso productivo de una industria, fuera o dentro de las naves principales. Cimentación con cadenas de concreto; muros de tabique o tabicon o block o tabique vidriado con castillos y cerramientos de concreto, con divisiones de paneles de tabla roca o lámina metálica (pintro o zintro); techos de losa maciza de concreto, con claros de hasta 4 metros; normalmente se utiliza el piso de la nave o el de la edificación en donde se encuentra incorporada; acabados de calidad económica.
 
-CLASE.HOSPITAL.ALTO.G.(QG) Estructura destinada a dar atención, tratamiento y rehabilitación a personas que comprende: unidades médicas, clínicas, hospitales, sanatorios y similares; los materiales empleados son de buena calidad o importados. Cimentación de mampostería o zapatas aisladas o corridas de concreto armado de diseño especial (pilotes); muros de contención de piedra o concreto, de tabique o tabicón o tabique estruido con columnas y castillos y cerramientos con contraventeos y trabes de concreto o columnas metálicas o de concreto, losas de concreto armado aligeradas, nervadas o reticulares, losas de acero o prefabricadas T o TT; acabados de buena calidad o importados; instalaciones especiales como: elevadores, aire acondicionado, red de informática, incinerador y ductos especiales.
+CLASE. COMPLEMENTARIA MEDIA. G. (IG) Edificaciones destinadas al apoyo del proceso productivo de una industria, fuera o dentro de las naves principales, con cimientos de mampostería y cadenas de concreto; muros de tabique o tabicón o block o tabique vidriado con castillos y cerramientos de concreto, con divisiones de paneles de tabla roca o lámina metálica (pintro o zintro), techos de losa maciza de concreto o losas aligeradas de vigueta o bovedilla con claros de hasta 6 metros; normalmente con pisos propios de concreto armado acabados de mediana calidad.
 
-CLASE.HOTEL.BAJO.H.(QH) Materiales de regular calidad. Cimentación de mampostería o zapatas aisladas o corridas de concreto armado con cadenas de desplante; muros de tabique o tabicón o block con columnas y castillos y cerramientos de concreto armado, losas con trabes de concreto armado o aligeradas, nervadas o reticulares.
+CLASE. COMPLEMENTARIA ALTA. H. (IH) Edificaciones destinadas al apoyo del proceso productivo de una industria, fuera de las naves principales con cimientos de mampostería o zapatas aisladas o corridas, sus dimensiones van de acuerdo con el diseño; muros de tabique o tabicón o block o tabique vidriado con castillos y cerramientos de concreto, con divisiones de paneles de tabla roca o lámina metálica (pintro o zintro); techos de losas aligeradas de viguetas o bovedilla o nervadas o reticulares con claros de hasta 8 metros; pisos propios de concreto armado con recubrimientos; acabados de buena calidad.
 
-CLASE.HOTEL.ALTO.I.(QI) Materiales de buena calidad o importados. Cimentación de mampostería o zapatas corridas o pilotes de concreto armado; muros de contención de piedra o concreto de tabique o tabicón con columnas y castillos y cerramientos con contraventeos y trabes de concreto o columnas metálicas o de concreto, losas de concreto armado aligeradas, nervadas o reticulares; losas de acero o prefabricadas T o TT; acabados de buena calidad o importados.
+CLASE. CISTERNA. I. (II) Cimientos a base de losas y cadenas de desplante, muros de tabique o tabicón o concreto armado con sistema de bombeo, recubrimientos en piso y en muros de cemento pulido; plafones de cemento pulido o aparente, escalera marina de tubo macizo.
 
-CLASE.MERCADO.BAJO.J.(QJ) Se destina el desarrollo de actividades de compra venta o intercambio de productos perecederos como alimentos (frutas, verduras, etc.), ropa y otros; los materiales empleados son de baja calidad. Cimentación de mampostería; muros de tabique o tabicón o block con columnas y castillos y cerramientos y trabes de concreto, columnas metálicas o de concreto, en el interior cuenta con muros divisorios con el mismo material a media altura (de uno o dos metros); techos de lámina de asbesto estructural soportadas con armaduras de acero con perfiles estructurales; acabados de calidad económica.
+CLASE. TANQUE METALICO. J. (IJ) Cimientos a base de zapatas aisladas de concreto con contratrabes de dimensiones de acuerdo con el diseño estructural; pintura de esmalte en su estructura, escalera metálica de perfiles estructurales con bomba de acuerdo a su capacidad normalmente éstos son de fierro al carbón con una altura superior a los 10 metros.
 
-CLASE.MERCADO.ALTO.K.(QK) Se destina al desarrollo de actividades de compra venta o intercambio de productos perecederos como alimentos (frutas, verduras, etc.), ropa y otros; los materiales empleados son de buena calidad. Cimentación de mampostería o zapatas corridas aisladas con contratrabes de concreto armado; muros de tabique o tabicón o tabique vidriado con columnas y castillos y cerramientos y trabes de concreto, columnas metálicas o de concreto, en el interior cuenta con muros divisorios con el mismo material a media altura (de uno a dos metros) techos de lámina acanalada o de lámina traslúcida de acrílico o de lámina zintro o pintro soportadas con armaduras de acero con perfiles estructurales o losas macizas de concreto; acabados de buena calidad.
+CLASE. TANQUE CONCRETO. K. (IK) Cimientos con zapatas aisladas de concreto armado con contratrabes de dimensiones de acuerdo con el diseño estructural, con columnas y trabes de concreto armado; acabados exteriores aparentes y su interior de cemento afinado en todas las caras; escaleras de perfiles estructurales con protección; con bomba de acuerdo a su capacidad; normalmente éstos son de concreto armado con una altura media superior a los 10 metros.
+
+CLASE. SILO METALICO. L (IL) Cimientos a base de zapatas corridas o losas de cimentación con contratrabes, con recubrimiento interior de pintura de esmalte o especial de acuerdo con el material que contenga; en exterior pintura de esmalte; escalera metálica de perfiles estructurales, el material en las caras es de acero al carbón y la estructura que lo soporta de metal a base de perfiles estructurales.
+
+CLASE. SILO CONCRETO. M (IM) Cimientos a base de zapatas corridas o losas de cimentación con contratrabes; muros de tabique o tabicón o concreto armado con un espesor medio de 30 centímetros, con pisos de cemento pulido en la cámara escobillado en pasillo y andadores, recubrimientos exteriores aparentes o aplanado fino de mortero; los interiores de la cámara con cemento pulido; escalera metálica con perfiles estructurales, escalones y barandales del mismo material; instalaciones especiales como sistema para la elevación del producto para almacenar y controlar su vaciado.
 
 USO
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+EQUIPAMIENTO. Q. Son aquellas no incluidas en los usos habitacional, comercial e industrial y que están destinadas a dar servicios colectivos. Tienen en común el ser edificaciones techadas.
+
+CLASE. CINE-AUDITORIO BAJA. A. (QA) Estructura destinada al esparcimiento, cuenta con áreas de actuación o exposición, sala del auditorio (butacas), vestíbulo, sanitarios; con materiales de baja calidad. Cimentación de mampostería o zapatas aisladas; muros de tabique o tabicón o block con castillos y cerramientos de concreto alcanzando alturas hasta de 6 metros; techos de lámina galvanizada, soportada por estructura metálica para claros hasta de 8 metros o losa aligerada (nervada reticular) acabados de baja calidad.
+
+CLASE. CINE-AUDITORIO ALTO. B. (QB) Estructura destinada al esparcimiento, cuenta con áreas de actuación o exposición, sala del auditorio (butacas), vestíbulo, sanitarios, ocasionalmente con plateas, con materiales de buena calidad. Cimentación de mampostería o zapatas aisladas o corridas de concreto armado, contratrabes de liga; muros de tabique o tabicón o block con castillos y cerramientos de concreto, alturas mayores a los 6 metros; techos de lámina galvanizada zintro o pintro, soportada por estructura metálica para claros mayores a los 8 metros o losa aligerada (nervada reticular, losa de acero) entrepisos (mezanine) de concreto (losa maciza o aligerada), acabados de buena calidad, instalaciones especiales como sonido especial, aire acondicionado, alarma, planta de luz eléctrica.
+
+CLASE. ESCUELA. BAJA. C. (QC) Estructura destinada a la enseñanza, con materiales de media o buena calidad y acabados bien ejecutados; cimentación de mampostería con dalas de concreto armado o zapatas aisladas; muros de tabique o tabicón o block con castillos o cerramientos de concreto armado; techos de lámina Zintro o pintro o maciza de concreto armado, con claros hasta de 4 metros, azotea natural, acabado de calidad media baja.
+
+CLASE. ESCUELA. ALTA. D. (QD) Estructura destinada a la enseñanza, con materiales de buena calidad, y acabados bien ejecutados. Cimentación de mampostería o zapatas aisladas o corridas con contratrabes de concreto armado; muros de tabique estruido con castillos y cerramientos de concreto aparente o columnas de concreto armado o prefabricado, techos de concreto armado con claros de más de cuatro metros, acabados de buena calidad, instalaciones especiales como: transformador, planta de luz de emergencia, sonido.
+
+CLASE. ESTACIONAMIENTO. E. (QE) Estructura destinada al resguardo de automóviles de forma temporal; con materiales de buena calidad. Cimientos de zapatas aisladas o corridas con contratrabes; muros de tabique o tabicón o block con castillos y/o contraventeos, columnas prefabricadas o colada; techos de losas prefabricadas tipo Y, TT, T o losas macizas de concreto o losa de acero, instalaciones especiales como elevadores, montacargas.
+
+CLASE. HOSPITAL. BAJO. F. (QF) Estructura destinada a dar atención, tratamiento y rehabilitación a personas o animales que comprende: unidades médicas, clínicas, hospitales, sanatorios y similares; los materiales empleados son de baja calidad. Cimentación de mampostería o zapatas aisladas o corridas de concreto armado con cadenas de desplante; muros de tabique o tabicón o block con castillos y columnas de concreto; cerramientos de concreto armado, losas aligeradas, nervadas o reticulares.
+
+CLASE. HOSPITAL. ALTO. G. (QG) Estructura destinada a dar atención, tratamiento y rehabilitación a personas o animales que comprende: unidades médicas, clínicas, hospitales, sanitarios (sic) y similares; los materiales empleados son de buena calidad o importados. Cimentación de mampostería o zapatas aisladas o corridas de concreto armado de diseño especial (pilotes); muros de contención de piedra o concreto de tabique o tabicón o tabique estruido con columnas y castillos y cerramientos con contraventeos y trabes de concreto o columnas metálicas o de concreto, losas de concreto armado aligeradas, nervadas o reticulares, losas de acero o prefabricadas T o TT; acabados de buena calidad o importados; instalaciones especiales como: elevadores, aire acondicionado, red de informática, incinerador y ductos especiales.
+
+CLASE. HOTEL. BAJO. H. (QH) Materiales de regular calidad. Cimentación de mampostería o zapatas aisladas o corridas de concreto armado con cadenas de desplante; muros de tabique o tabicón o block con columnas y castillos y cerramientos de concreto armado, losas con trabes de concreto armado o aligeradas, nervadas o reticulares.
+
+CLASE. HOTEL. ALTO. I. (QI) Materiales de buena calidad o importados. Cimentación de mampostería o zapatas corridas o pilotes de concreto armado; muros de contención de piedra o concreto de tabique o tabicón con columnas y castillos y cerramientos con contraventeos y trabes de concreto o columnas metálicas o de concreto, losas de concreto armado aligeradas, nervadas o reticulares; losas de acero o prefabricadas T o TT; acabados de buena calidad o importados.
+
+CLASE. MERCADO. BAJO. J. (QJ) Se destina al desarrollo de actividades de compra venta o intercambio de productos perecederos como alimentos (frutas, verduras, etc.), ropa y otros; los materiales empleados son de baja calidad. Cimentación de mampostería; muros de tabique o tabicón o block con columnas y castillos y cerramientos y trabes de concreto, columnas metálicas o de concreto, en el interior cuenta con muros divisorios con el mismo material a media altura (de uno o dos metros); techos de lámina de asbesto estructural soportadas con armaduras de acero con perfiles estructurales; acabados de calidad económica.
+
+CLASE. MER CADO. ALTO. K. (QK) Se destina al desarrollo de actividades de compra venta o intercambio de productos perecederos como alimentos (frutas, verduras, etc.), ropa y otros; los materiales empleados son de buena calidad. Cimentación de mampostería o zapatas corridas aisladas con contratrabes de concreto armado; muros de tabique o tabicón o tabique vidriado con columnas y castillos y cerramientos y trabes de concreto, columnas metálicas o de concreto, en el interior cuenta con muros divisorios con el mismo material a media altura (de uno a dos metros) techos de lámina acanalada o de lámina traslúcida de acrílico o de lámina zintro o pintro soportadas con armaduras de acero con perfiles estructurales o losas macizas de concreto; acabados de buena calidad.
+
+USO
 
 ESPECIAL. E Son aquellas edificaciones que, por sus características, requieren de una valuación individualizada.
 
-CLASE.ALBERCA.A.(EA) Plataforma inferior de concreto armado (losa maciza); muros de tabique o tabicón con castillos y cerramientos o con muros de concreto armado; el armado es especial según el diseño; sistema de alimentación y desagüe, calefacción y limpieza, tales como filtros, bombas, calefactores, acabados de mediana calidad y probables instalaciones especiales.
+CLASE. ALBERCA. A. (EA) Plataforma inferior de concreto armado (losa maciza); muros de tabique o tabicón con castillos y cerramientos o con muros de concreto armado; el armado es especial, según el diseño; sistema de alimentación y desagüe, calefacción y limpieza, tales como filtros, bombas, calefactores, acabados de mediana calidad y probables instalaciones especiales.
 
-CLASE.BARDA CICLONICA.B.(EB) Cimientos de mampostería o cadenas de concreto con malla de acero ciclónica o similar, tubos metálicos a cada dos o tres metros, con altura (libre) de dos metros, con tirantes.
+CLASE. BARDA CICLONICA. B (EB) Cimientos de mampostería o cadenas de concreto con malla de acero ciclónica o similar, tubos metálicos a cada dos o tres metros, con altura (libre) de dos metros, con tirantes.
 
-CLASE.BARDA TABIQUE.C.(EC) Cimientos de mampostería o zapatas corridas o dalas de desplante de concreto armado, muros de tabique o similar, con castillos y cerramientos, normalmente con una altura entre 2 ó 2.3 metros; con aplanados en una cara, repellado o fino de mortero. Los castillos o dalas aparentes con cemento pulido.
+CLASE. BARDA TABIQUE. C. (EC) Cimientos de mampostería o zapatas corridas o dalas de desplante de concreto armado, muros de tabique o similar, con castillos y cerramientos, normalmente con una altura entre 2 ó 2.3 metros; con aplanados en una cara, repellado o fino de mortero. Los castillos o dalas aparentes con cemento pulido.
 
-CLASE.CANCHA CONCRETO.D.(ED) La cubierta de concreto armado o similar con una base compactada de 20 centímetros, cuenta con drenes a cielo abierto (canaletas, rejillas) ocasionalmente con drenaje subterráneo, mediante tubos de albañal perforado con acabado natural y postes para soportar redes y/o tableros de baloncesto.
+CLASE. CANCHA CONCRETO. D. (ED) La cubierta de concreto armado o similar con una base compactada de 20 centímetros, cuenta con drenes a cielo abierto (canaletas, rejillas) ocasionalmente con drenaje subterráneo, mediante tubos de albañal perforado con acabado natural y postes para soportar redes y/o tableros de baloncesto.
 
-CLASE.CANCHA FRONTON.E.(EE) Cimentación de mampostería y dalas de concreto; muros en tres lados de tabique, tabicón, alturas variables de 6 a 12 metros con castillos y cerramientos intermedios. Cubierta ocasional de perfiles estructurales soportando malla ciclónica o similar.
+CLASE. CANCHA FRONTON. E. (EE) Cimentación de mampostería y dalas de concreto; muros en tres lados de tabique, tabicón, alturas variables de 6 a 12 metros con castillos y cerramientos intermedios. Cubierta ocasional de perfiles estructurales soportando malla ciclónica o similar.
 
-CLASE.CANCHA SQUASH.E.(EF) Cimentación de mampostería o zapatas corridas, cuenta con dalas de cimentación, muros de tabique o tabicón o block con castillos o cerramientos de concreto, la altura es variable hasta 5.5 metros, techos y entrepisos de losa maciza de concreto o lámina de asbesto o estructural con soporte de metal, cuentan con entrepisos ocasionalmente de losa maciza de concreto, techos impermeabilizados, acabados de calidad regular.
+CLASE. CANCHA SQUASH. F. (EF) Cimentación de mampostería o zapatas corridas, cuenta con dalas de cimentación, muros de tabique o tabicón o block con castillos o cerramientos de concreto, la altura es variable hasta 5.5 metros, techos y entrepisos de losa maciza de concreto o lámina de asbesto o estructura con soporte de metal cuentan con entrepisos ocasionalmente de losa maciza de concreto, techos impermeabilizados, acabados de calidad regular.
 
-CLASE.COBERTIZO. BAJO.G.(EG) Cimentación con pequeñas zapatas aisladas de concreto o piedra; muros de tabique o tabicón o block, en uno o dos lados, columnas de madera o pequeños perfiles tubulares de fierro o de concreto, cubierta con lámina galvanizada, asbesto con soportes de madera, pequeñas estructuras de fierro, claros de hasta cuatro metros.
+CLASE. COBERTIZO. BAJO. G. (EG) Cimentación con pequeñas zapatas aisladas de concreto o piedra; muros de tabique o tabicón o block en uno o dos lados, columnas de madera o pequeños perfiles tubulares de fierro o de concreto, cubierta con lámina galvanizada asbesto con soportes de madera, pequeñas estructuras de fierro, claros de hasta 4 metros.
 
-CLASE.COBERTIZO ALTO.H.(EH) Cimentación con zapatas de concreto aisladas o corridas; muros de tabique o tabicón o block; columnas metálicas con perfiles estructurales o de concreto o prefabricados de concreto; cubierta de loza maciza o aligerada de concreto o de lámina de asbesto estructural. Claros de más de 4 metros. Pueden contar con faldones soportados por estructuras metálicas.
+CLASE. COBERTIZO ALTO. H. (EH) Cimentación con zapatas de concreto aisladas o corridas; muros de tabique o tabicón o block, columnas metálicas con perfiles estructurales o de concreto o prefabricados de concreto; cubierta de loza maciza o aligerada de concreto o de lámina de asbesto estructural. Claros de más de 4 metros. Pueden contar con faldones soportados por estructuras metálicas.
 
-CLASE.MONTACARGAS.I.(EI). Estructura generalmente de acero de forma prismática (cabina), soportada por un sistema que permite elevar o descender la estructura, confinada ésta en un ducto construido de concreto o de acero con muros de tabique o similar.
+CLASE. MONTACARGAS. I. (EI) Estructura generalmente de acero de forma prismática (cabina), soportada por un sistema que permite elevar o descender la estructura confinada ésta en un ducto construido de concreto o de acero con muros de tabique o similar.
 
-CLASE.ESCALERA ELECTRICA.J.(EJ). Estructura generalmente de acero con banda móvil (escalones), soportada con estructura metálica con instalación a base de sistema de control (manejo).
+CLASE. ESCALERA ELECTRICA. J. (EJ) Estructura generalmente de acero con banda móvil (escalones), soportada con estructura metálica con instalación a base de sistema de control (manejo).
 
-CLASE.ELEVADOR.K.(EK) Estructura generalmente de acero de forma prismática o cilíndrica (cabina), soportada por un sistema que permite elevar o descender la estructura, confinada ésta en un ducto construido de concreto o de acero con muros de tabique o similar, la velocidad es normal para 10 personas o alta para 13 personas.
+CLASE. ELEVADOR. K. (EK) Estructura generalmente de acero de forma prismática o cilíndrica (cabina) soportada por un sistema que permite elevar o descender la estructura confinada ésta en un ducto construido de concreto o de acero con muros de tabique o similar, la velocidad es normal para 10 personas o alta para 13 personas.
 
-CLASE.PAVIMENTO.L.(EL) Superficies destinadas al tránsito peatonal y/o vehicular de materiales procesados como concreto hidráulico o asfáltico o similar.
+CLASE. PAVIMENTO. L. (EL) Superficies destinadas al tránsito peatonal y/o vehicular de materiales procesados como concreto hidráulico o asfáltico o similar.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 194.
 
-Las Tablas de Valor se integran por valores unitarios de suelo y de construcción.
+Las Tablas de Valores Unitarios de Suelo y Construcciones, se integrarán como sigue:
 
-En la Tabla de Valores Unitarios de Suelo se identifican: el municipio, la zona catastral, el número y tipo de área homogénea, el área base, la banda de valor y su vialidad, la manzana y el valor unitario.
+En la Tabla de Valores Unitarios de Suelo se identifican el nombre y código del municipio; el número de la zona catastral, el número de la manzana catastral, el número, uso, nivel, frente y fondo base del área homogénea, y el valor unitario. Cuando existan bandas de valor, se indicarán además, su número y nombre de la vialidad.
 
-En la Tabla de Valores Unitarios de Construcción, se identifican: el uso, la clase y el valor unitario.
+En la Tabla de Valores Unitarios de Construcciones, se identifican el código de la tipología, el uso, la clase, la unidad de medida y el correlativo valor unitario.
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 195.
 
-La modificación de las Tablas de Valor se llevará a cabo por las autoridades catastrales, en los términos siguientes:
+La modificación para efectos de actualización de las Tablas de Valores Unitarios de Suelo y Construcciones se llevará a cabo por las autoridades de la materia, en los términos siguientes:
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+I. El ayuntamiento en coordinación con el IGECEM, de acuerdo a la normatividad emitida por éste, elaborará las propuestas para la modificación, actualización o creación de áreas homogéneas, bandas de valor y valores unitarios de suelo y de construcciones, de la totalidad de las áreas de interés catastral registradas en el municipio.
 
-I. La autoridad catastral municipal en coordinación con el Instituto, de acuerdo a la normatividad emitida por éste, elaborará las propuestas para la modificación, actualización o creación de áreas homogéneas, bandas de valor y valores unitarios de suelo y de construcción, de la totalidad de las áreas de interés catastral registradas en el Municipio. El Instituto para mantener la homogeneidad y la congruencia técnica de la información, recibirá de la autoridad catastral municipal sus propuestas para su revisión técnica hasta el día treinta de abril de cada año. En los años de renovación de los ayuntamientos, las autoridades municipales que inician su gestión contarán con un plazo de treinta días a partir del inicio de su ejercicio constitucional para conocer, ratificar o rectificar las propuestas previamente formuladas por las autoridades municipales que concluyen su gestión y revisadas técnicamente por el Instituto.
+El IGECEM para mantener la homogeneidad y la congruencia técnica de la información, recibirá las propuestas formuladas por el ayuntamiento para su revisión técnica, durante los diez meses anteriores al día treinta de abril de cada año.
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+En los años de renovación del ayuntamiento, las autoridades municipales que inician su gestión contaran con un plazo de treinta días a partir del inicio de su ejercicio constitucional, para conocer, ratificar o rectificar las propuestas previamente formuladas por las autoridades municipales que concluyen su gestión y revisadas técnicamente por el IGECEM;
 
-II. Las propuestas a que se refiere la fracción anterior, serán revisadas técnicamente por el Instituto en el término de 60 días naturales, a efecto de que cumplan con lo dispuesto en este Título y que hayan sido elaboradas de acuerdo con los instructivos y formatos autorizados, enviándose a los ayuntamientos para la integración del proyecto municipal de tablas de valor.
+II. Las propuestas a que se refiere la fracción anterior, serán revisadas técnicamente por el IGECEM durante los meses de mayo y junio de cada año, a efecto de que cumplan con lo dispuesto en este capítulo y que hayan sido elaboradas de acuerdo con los instructivos y formatos autorizados, enviándose al ayuntamiento para la integración del Proyecto municipal de Tablas de Valores Unitarios de Suelo y Construcciones;
 
-III. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
+III. El ayuntamiento en sesión de cabildo validará el proyecto municipal de Tablas de Valores Unitarios de Suelo y Construcciones e integrará la iniciativa correspondiente, que someterá a la Legislatura a más tardar el día 15 de septiembre, para que ésta lo apruebe durante los primeros 15 días del mes de octubre.
 
-IV. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
+En el caso previsto en el tercer párrafo de la fracción l de este artículo, la Legislatura señalará los periodos de análisis y aprobación correspondientes.
 
-V. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
+Los valores unitarios aprobados, iniciarán su vigencia a partir del primer día del mes de enero del siguiente año.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+IV. El ayuntamiento remitirá al IGECEM copia certificada del acta de cabildo de le sesión a que alude la fracción anterior, a más tardar el día 15 de septiembre.
 
-Las propuestas que los ayuntamientos envíen hasta el treinta de abril de cada año, serán consideradas por el Instituto para integrar el Proyecto Estatal de Tablas de Valor.
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 196.
 
-Las autoridades catastrales para modificar, actualizar o proponer la creación de áreas homogéneas, bandas de valor y valores unitarios de suelo observarán los siguientes lineamientos.
+El ayuntamiento podrá proponer la modificación, actualización o creación de áreas homogéneas, bandas de valor y valores unitarios de suelo, observando los siguientes lineamientos:
 
-I. Con base en las Tablas de Valor publicadas y los gráficos correspondientes, verificarán si coinciden con las características predominantes del área homogénea.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-II. Cuando de la revisión resulten notables diferencias, realizarán una predelimitación, que puede consistir en la subdivisión, fusión, creación o cambio de tipo de área homogénea.
+I. Con base en las Tablas de Valores Unitarios de Suelo y Construcciones publicadas y los gráficos correspondientes, verificarán si coinciden con las características predominantes del área homogénea.
 
-III. La predelimitación anterior, será sometida a las investigaciones de mercado inmobiliario, consistentes en determinar las variaciones de valor de un número representativo de operaciones comerciales efectuadas y por realizarse en el área homogénea, para conocer y proponer los nuevos valores unitarios del suelo.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+II. Cuando de la revisión resulten notables diferencias, realizarán una predelimitación, que puede consistir en la subdivisión, fusión, creación o cambio de tipo de área homogénea y/o la existencia de una varias o ninguna banda de valor.
 
-IV. Cuando no haya operaciones inmobiliarias o sean escasas en esa área homogénea, se emplearán criterios de analogía y de contigüedad con las restantes áreas homogéneas del municipio, o bien podrán presentar como sustento el expediente técnico de las obras públicas de beneficio social realizadas en un área homogénea específica durante el ejercicio fiscal anterior, conforme a la normatividad que al efecto emita el Instituto.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+III. La predelimitación conforme a la fracción anterior, será sometida a las investigaciones de mercado inmobiliario, consistentes en determinar las variaciones de los valores unitarios de suelo en el área homogénea o banda de valor en estudio, en términos de la normatividad que al efecto establezca el IGECEM, para conocer y proponer los nuevos valores unitarios de suelo.
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+IV. Cuando no haya operaciones inmobiliarias o sean escasas en esa área homogénea o banda de valor, se emplearán criterios de analogía y de contigüidad con las restantes áreas homogéneas o bandas de valor del municipio, o bien podrán presentar como sustento los expedientes técnicos de las obras públicas de beneficio social, realizadas en un área homogénea específica durante el ejercicio fiscal anterior o estudios de capitalización de rentas, conforme a la normatividad que al efecto emita el IGECEM;
 
 V. Con base en los estudios anteriores se determinará la consistencia, subdivisión o fusión del área homogénea y la existencia de una, varias o ninguna banda de valor.
 
-VI. La propuesta de modificación, actualización o creación de las áreas homogéneas, bandas de valor y valores unitarios de suelo, se deberá acompañar del plano o gráfico correspondiente y los formatos que contengan la información solicitada por el Instituto debidamente requisitados.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-VII. El ayuntamiento en sesión de cabildo validará el proyecto de Tablas de Valor y remitirá al Instituto copia certificada del acta respectiva.
+VI. La propuesta de modificación, actualización o creación de las áreas homogéneas, bandas de valor y valores unitarios de suelo, se deberá acompañar del plano o gráfico correspondiente, y los formatos que contengan la información solicitada por el IGECEM debidamente requisitados;
+
+VII. (DEROGADA, G.G. 31 DE DICIEMBRE DE 2001)
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+###### Artículo 196 Bis.
+
+Las modificaciones para efectos de actualización de la Tabla de Valores Unitarios de Construcciones se realizarán por el ayuntamiento, considerando los siguientes métodos:
+
+I. Se determinará el costo de ejecución de manera directa, por unidad de medida, para cada una de las tipologías clasificadas en la Tabla de Valores Unitarios de Construcciones;
+
+II. Se determinará el costo por unidad de medida para cada una de las tipologías clasificadas en la Tabla de Valores Unitarios de Construcciones, de manera indirecta, mediante investigación y análisis documental de publicaciones especializadas, así como entrevistas a expertos en valuación de construcciones.
+
+Para efectos de comparación y comprobación de los resultados obtenidos, el ayuntamiento podrá apoyarse en la información derivada de operaciones inmobiliarias realizadas, manifestaciones de traslación de dominio o avalúos practicados por peritos autorizados, o bien en indicadores como el Indice Nacional de Costos de Edificación de la Vivienda de Interés Social, relativos al Estado de México; el Indice Nacional de Precios al Consumidor; o el salario mínimo general diario emitido por la Comisión Nacional de los Salarios Mínimos, para cada área geográfica del Estado de México.
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 197.
 
-Los propietarios o poseedores de inmuebles para efectos de la aplicación catastral, se sujetarán a lo dispuesto por este ordenamiento, a las normas y procedimientos técnicos y administrativos establecidos por el Instituto; los criterios de clasificación y las Tablas de Valor de Suelo y Construcción aprobadas por la Legislatura y publicadas en el Periódico Oficial, la información que generen las dependencias y organismos auxiliares de la administración pública municipal de carácter interno, y que formen parte de sus registros administrativos, será responsabilidad de cada uno de ellos y la pondrán a disposición del Instituto, para la integración del acervo general del Estado.
+Los propietarios o poseedores de inmuebles para efectos de la valuación catastral, se sujetarán a lo dispuesto por este ordenamiento, a las normas y procedimientos técnicos y administrativos establecidos por el IGECEM, a los criterios de clasificación de áreas homogéneas y tipologías de construcción; y a las Tablas de Valores Unitarios de Suelo y Construcciones aprobadas por la Legislatura y publicadas en el periódico oficial.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 198.
 
-Con base en los criterios de clasificación, los propietarios o poseedores, ubicarán su inmueble en las Tablas de Valor, conforme al área homogénea o banda de valor que le corresponda e identificarán el valor unitario de suelo y el valor unitario de construcción, aplicables a la superficie de terreno y de construcción, si la hubiera, calculando su valor catastral mediante la fórmula siguiente:
+Con base en los criterios de clasificación de áreas homogéneas y tipologías de construcción, los propietarios o poseedores, ubicarán su inmueble en las Tablas de Valores Unitarios de Suelo y Construcciones, conforme al área homogénea o banda de valor, y a la tipología de construcción que le corresponda, e identificarán el valor unitario de suelo y el valor unitario de construcción, aplicables a la superficie de terreno de construcción, si la hubiera, calculando su valor catastral mediante la fórmula siguiente:
 
 Vcat = Vt + Vc
 
@@ -7865,11 +8605,13 @@ Vt = Valor del Terreno
 
 Vc= Valor de la Construcción
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 199.
 
-El valor del terreno de un inmueble se obtiene de multiplicar la superficie de terreno en metros cuadrados, por el valor unitario de suelo contenido en la Tabla de Valores Unitarios de Suelo y al resultado obtenido, por los factores de mérito o demérito, respecto del frente, del fondo, de irregularidad, de área, de topografía y de posición dentro de la manzana, conforme a las definiciones y determinaciones siguientes:
+El valor del terreno de un inmueble se obtiene de multiplicar la superficie de terreno en metros cuadrados, por el valor unitario de suelo contenido en la Tabla de Valores Unitarios de Suelo y el resultado obtenido, por los factores de mérito o demérito, respecto del frente, del fondo, de irregularidad, de área, de topografía y de posición dentro de la manzana, conforme a las definiciones y determinaciones siguientes:
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 El factor por frente, demerita a inmuebles cuyo frente sea menor a 6.01 m. y el resultado se localizará en la siguiente tabla:
 
@@ -7885,7 +8627,11 @@ Hasta de 3.00 0.50
 
 6.01 En adelante 1.00
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 El factor de fondo, demerita a inmuebles cuyo fondo sea mayor al fondo base y se determina dividiendo la longitud del fondo del inmueble entre el fondo base, existente en el área homogénea en donde se ubica el inmueble.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 El resultado se localizará en la siguiente tabla:
 
@@ -7907,9 +8653,15 @@ Fondo / Fondo base
 
 6.01 En adelante 0.60
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 El factor de irregularidad, demerita a inmuebles que por su forma presentan distintas posibilidades de aprovechamiento, lo que hace necesario conocer la superficie denominada área inscrita que representa el área aprovechable del inmueble.
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 El factor se determina dividiendo la superficie del área inscrita entre el área total del inmueble.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 El resultado se localizará en la siguiente tabla:
 
@@ -7937,7 +8689,11 @@ Area inscrita /Area Total Factor
 
 0.91 a 1.00 1.00
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 El factor de área, demerita a inmuebles cuya superficie sea mayor al área base existente en el área homogénea donde se ubica el inmueble y se determina dividiendo el área total del predio entre el área base.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 El resultado se localizará en la siguiente tabla:
 
@@ -7969,9 +8725,15 @@ Relación
 
 6.01 En adelante 0.60
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 El factor de topografía, demerita a inmuebles que presenten pendiente ó desnivel, respecto al nivel de banqueta.
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 Factor de topografía se determina a partir de la relación dada por la altura obtenida del punto más hundido o elevado del predio, con respecto al nivel de la banqueta, entre la longitud del fondo de dicho predio.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 El resultado se localizará en la siguiente tabla:
 
@@ -8003,7 +8765,11 @@ ALTURA/ FONDO FACTOR
 
 1.01 En adelante 0.50
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 El factor de posición, es el índice que califica la ubicación del predio dentro de la manzana, estableciendo una diferenciación atendiendo al uso de suelo de los inmuebles habitacionales y comerciales.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 Los factores aplicables se localizan en la siguiente tabla:
 
@@ -8021,19 +8787,29 @@ Frentes no contiguos 1.10 1.10
 
 Interior 0.50 0.50
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 La aplicación del factor de posición interior, implica determinar la unidad para los factores de frente, de fondo y de irregularidad.
-
-Para inmuebles sujetos a régimen condominal e industriales, se determinará la unidad para todos los factores a que se refiere este artículo.
-
-En todos los casos el producto de estos factores no podrá ser inferior a 0.40.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
+Para inmuebles sujetos a régimen condominal e industriales, se determinará la unidad para todos los factores a que se refiere este artículo.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+En todos los casos el producto de estos factores no podrá ser inferior a 0.40.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 200.
 
-El valor de la construcción de un inmueble, se obtiene de multiplicar la superficie construida, por el valor unitario de construcción contenido en la Tabla de Valores Unitarios de Construcción y por los factores respecto al número de años, al grado de conservación y al número de niveles, conforme a las definiciones y determinaciones siguientes:
+El valor de la construcción de un inmueble, se obtiene de multiplicar la superficie construida, expresada en la unidad de medida; de acuerdo a la tipología que le corresponda por el valor unitario de construcción, contenido en la Tabla de Valores Unitarios de Construcciones, y al resultado contenido, por los factores de mérito o demérito respecto al número de años, al grado de conservación y al número de niveles, conforme a las definiciones y determinaciones siguientes:
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 El factor de número de años de la construcción, es el índice de demérito que determina el grado de deterioro por el paso del tiempo y considera el periodo transcurrido desde la construcción inicial hasta la fecha en que se lleve a cabo el cálculo del valor catastral.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 Se determinará este factor, identificándose el rango de antigüedad de la construcción del inmueble, de acuerdo a la tabla siguiente:
 
@@ -8063,7 +8839,11 @@ RANGO DE ANTIGÜEDAD FACTOR
 
 56 En adelante 0.60
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 El factor por grado de conservación, es aquel que considera el nivel de deterioro por el mantenimiento que se le ha proporcionado a la edificación.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 El resultado se localizará en la siguiente tabla:
 
@@ -8075,9 +8855,15 @@ Malo 0.80
 
 Ruinoso 0.08
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 Cuando a alguna edificación se le aplique el factor por el grado de conservación ruinoso, no se aplicarán los factores correspondientes a la edad y número de niveles.
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 El factor de número de niveles, es aquel que considera la cantidad de pisos edificados en un inmueble.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 El resultado se localizará en la siguiente tabla:
 
@@ -8275,7 +9061,7 @@ Si la obra no se realiza, los aportadores que hubieran pagado, podrán solicitar
 
 ###### Artículo 214.
 
-Aprobado el proyecto, se darán a conocer a los beneficiarios las determinaciones a que se refiere el artículo 206 de este Código, mismas que se publicarán por una sola vez en el Periódico Oficial, en un plazo que no deberá exceder de 30 días naturales siguientes a la aprobación definitiva del proyecto.
+Aprobado el proyecto, se darán a conocer a los beneficiarios las determinaciones a que se refiere el artículo 206 de este Código, mismas que se publicarán por una sola vez en el Periódico Oficial, en un plazo que no deberá exceder de veinte días siguientes a la aprobación definitiva del proyecto.
 
 ###### Artículo 215.
 
@@ -8299,7 +9085,7 @@ Las aportaciones notificadas a cargo de los beneficiarios, tendrán el carácter
 
 ### CAPITULO CUARTO. DE LA FORMA DE PAGO
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ## TITULO SEPTIMO. DE LA COORDINACION HACENDARIA
 
@@ -8461,21 +9247,29 @@ II. Fondo de Aportaciones para los Servicios de Salud.
 
 III. Fondo de Aportaciones para la Infraestructura Social.
 
-IV. Fondo de Aportaciones para el Fortalecimiento Municipal.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+IV. Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal.
 
 V. Fondo de Aportaciones Múltiples.
 
 VI. Fondo de Aportaciones para la Educación Tecnológica y de Adultos.
 
-VII. Fondo de Aportaciones para la Seguridad Pública.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+VII. Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 229.
 
-Los fondos a los que se refieren las fracciones I y II del artículo anterior se aplicarán conforme a lo dispuesto por el Capítulo V de la Ley de Coordinación Fiscal.
+Los fondos a los que se refieren las fracciones I, II y VI del artículo anterior, se aplicarán conforme a lo dispuesto por el Capítulo V de la Ley de Coordinación Fiscal.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 230.
 
-Los fondos señalados en las fracciones III, IV y V del artículo 228 de este Código, serán destinados exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones que beneficien directamente a sectores de la población que se encuentren en condiciones de rezago social y de pobreza extrema, en los rubros de agua potable, alcantarillado, drenaje, letrinas, urbanización municipal, electrificación rural y de colonias pobres, infraestructura básica de salud, infraestructura básica educativa, mejoramiento de vivienda, caminos rurales e infraestructura productiva rural; a la satisfacción de los requerimientos de los municipios, prioritariamente al cumplimiento de sus obligaciones financieras y a la atención de necesidades de seguridad pública; otorgamiento de desayunos escolares, apoyos alimentarios y de asistencia social a la población, así como la construcción, equipamiento y rehabilitación de infraestructura física de los niveles de educación básica y superior en su modalidad universitaria, respectivamente.
+Los fondos señalados en las fracciones III, IV, V y VII del artículo 228 de este Código, serán destinados exclusivamente a financiamiento de obras, acciones sociales básicas y a inversiones que beneficien directamente a sectores de la población que se encuentren en condiciones de rezago social y de pobreza extrema, en los rubros de agua potable, alcantarillado, drenaje, letrinas, urbanización municipal, electrificación rural y de colonias pobres, infraestructura básica de salud, infraestructura básica educativa, mejoramiento de vivienda, caminos rurales e infraestructura productiva rural a la satisfacción de los requerimientos de los municipios, prioritariamente al cumplimiento de sus obligaciones financieras y a la atención de necesidades de seguridad pública; otorgamiento de desayunos escolares, apoyos alimentarios y de asistencia social a la población así como a la construcción, equipamiento y rehabilitación de infraestructura física de los niveles de educación básica y superior en su modalidad universitaria, respectivamente.
 
 ###### Artículo 231.
 
@@ -8503,9 +9297,11 @@ Los ayuntamientos deberán hacer del conocimiento de las comunidades beneficiada
 
 Una vez que estén terminadas las obras o acciones, serán entregadas a la comunidad beneficiada a través de su Comité Ciudadano de Control y Vigilancia, mediante la elaboración de un acta de entrega-recepción.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 237.
 
-El monto de la inversión asignada y ejercida con los fondos a que se refiere este capítulo, deberán incorporarse a los presupuestos de ingresos y egresos, y a la cuenta pública de cada municipio.
+El monto de la inversión asignada y ejercida con los fondos a que se refiere este capítulo, deberán incorporarse a los presupuestos de ingresos y egresos, y a la cuenta pública estatal y de cada municipio, según corresponda.
 
 ###### Artículo 238.
 
@@ -8515,9 +9311,11 @@ El Gobierno Estatal y el de los municipios, en el ámbito de sus respectivas com
 
 Las aportaciones y sus accesorios a que se refiere este Capítulo, no serán embargables, ni podrán bajo ninguna circunstancia gravarse, afectarse en garantía, ni destinarse a fines distintos a lo expresamente previsto tanto en el Presupuesto de Egresos de la Federación como en la Ley de Coordinación Fiscal.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 240.
 
-El Gobierno Estatal proporcionará al Ejecutivo Federal a través de la Secretaría respectiva, la información financiera y operativa que le sea requerida para el mejor cumplimiento de las atribuciones que en materia de planeación, programación y evaluación de los programas que le correspondan, respecto al destino, aplicación y vigilancia de los fondos a que se refiere el presente capítulo, los ayuntamientos lo harán por conducto del Gobernador.
+El Gobierno Estatal proporcionará al Ejecutivo Federal a través de la Secretaría respectiva, la información financiera y operativa que le sea requerida para el mejor cumplimiento de las atribuciones que en materia de planeación, programación y evaluación de los programas le correspondan, respecto al destino, aplicación y vigilancia de los fondos a que se refiere el presente capítulo, los ayuntamientos lo harán por conducto del Ejecutivo Estatal a través de la Secretaria.
 
 ###### Artículo 241.
 
@@ -8755,9 +9553,11 @@ Para la atención y resolución de problemas específicos, el Consejo Directivo 
 
 En estas comisiones se podrá invitar a participar a instituciones académicas, de investigación y agrupaciones del sector social y privado relacionadas con la materia hacendaria.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 255.
 
-El Instituto de Capacitación Hacendaria desarrollará el programa y ejercerá el presupuesto que anualmente apruebe el Consejo directivo.
+El Instituto Hacendario del Estado de México ejecutará el programa y ejercerá el presupuesto que anualmente apruebe el Consejo Directivo.
 
 Los recursos necesarios para el funcionamiento del instituto, serán aportados en partes iguales por los municipios y el Gobierno del Estado.
 
@@ -8855,9 +9655,13 @@ Corresponde al Gobernador en materia de deuda pública, por conducto de la Secre
 
 I. Asesorar técnicamente y apoyar a los municipios y a las entidades públicas en la gestión, concertación y contratación de sus operaciones.
 
-II. Celebrar los contratos y convenios para la obtención de empréstitos y créditos y suscribir los títulos de crédito correspondientes, informándole y proporcionándole copia de contratos y convenios respectivos a la Legislatura.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-III. Afectar como garantía de pago de las obligaciones contraídas directamente o como avalista, las participaciones derivadas del Sistema de Coordinación Fiscal, ante la Secretaría de Hacienda y Crédito Público.
+II. Celebrar contratos, convenios y demás instrumentos legales relacionados directa o indirectamente con la obtención, manejo, operación, gestión y demás actos vinculados con la deuda pública, cuyo destino sea el objeto pactado, informando y proporcionándole copia de contratos y convenios respectivos a la Legislatura.
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+III. Constituir las garantías y fuentes de pago directa y/o indirectas de las obligaciones contraídas en términos de la fracción anterior, además de aquellas que se contraigan con el carácter de aval y obligado solidario.
 
 IV. Analizar y otorgar, en su caso, el aval por las obligaciones de pasivo que contraigan los municipios y las entidades públicas y hacer los registros correspondientes, informándole de ello a la Legislatura.
 
@@ -8879,11 +9683,15 @@ XI. Informar trimestralmente a la Legislatura o cuando esta lo solicite acerca d
 
 Los ayuntamientos de acuerdo a sus atribuciones podrán:
 
-I. Celebrar contratos y convenios para la obtención de empréstitos y créditos de deuda pública, así como suscribir los títulos de crédito correspondientes.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+I. Celebrar contratos, convenios y demás instrumentos legales relacionados directa o indirectamente con la obtención, manejo, operación, gestión y demás actos vinculados con la deuda pública, cuyo destino sea el objeto pactado, informando trimestralmente a la Legislatura o cuando ésta lo solicite, acerca de las operaciones de deuda pública y su aplicación en los meses de abril, julio y octubre y el trimestre correspondiente al cierre del ejercicio, a través de la presentación de la cuenta pública.
 
 II. Reestructurar los créditos adquiridos como deudor directo o responsable solidario.
 
-III. Autorizar en garantía de las obligaciones que contraigan, la afectación de sus participaciones derivadas de la Coordinación Fiscal.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+III. Construir las garantías y fuentes de pago directa y/o indirectas de las obligaciones contraídas en términos de la fracción I del presente artículo, además de aquellas que se contraigan con el carácter de aval y obligado solidario, en términos de la fracción I del presente artículo.
 
 > <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -8937,9 +9745,13 @@ V. Que las entidades públicas estén al corriente en la información que deben 
 
 El Estado y los municipios a efecto de garantizar el cumplimiento de las obligaciones directas y contingentes que contraten, inscribirán los documentos que resulten de estas operaciones en forma invariable en el Registro de Deuda Pública.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 271.
 
-Los municipios podrán comprometer y otorgar en garantía para la contratación de sus obligaciones directas y contingentes, hasta el 30% del monto anual de sus ingresos por participaciones derivadas de la Coordinación Fiscal.
+Los municipios podrán comprometer y otorgar en pago o como garantía de pago para la contratación de sus obligaciones directas y contingentes, hasta el 30% del monto anual de sus ingresos por participaciones derivadas de la Coordinación Fiscal.
+
+Para efectos del presente artículo, en caso de adeudos cuyos plazos de amortización rebasen el término de la gestión municipal, autorizados por la Legislatura o la Diputación Permanente, de conformidad a lo establecido en la fracción III del artículo 33 de la Ley Orgánica Municipal del Estado de México, se considerará en pago o como garantía, de pago únicamente respecto de la suma de amortización de deuda e intereses por servicios de la misma que corresponda a cada ejercicio fiscal.
 
 ###### Artículo 272.
 
@@ -9145,11 +9957,29 @@ Las operaciones de endeudamiento y su inscripción en el Registro de Deuda Públ
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+###### Artículo 306 Bis.
+
+El Ejecutivo por conducto de la Secretaria podrá determinar reducciones, diferimientos o cancelaciones de programas que no demuestren el cumplimiento de sus metas comprometidas en los programas a corto plazo pudiendo en todo caso, reasignar los recursos generados hacia otros programas, informando a la Legislatura.
+
+En todo momento, se respetara el presupuesto destinado a los programas sociales a proyectos productivos y a los programas prioritarios y en especial, a aquellos destinados al combate a la pobreza.
+
 ###### Artículo 307.
 
 El Presupuesto de Egresos del Estado, es el documento jurídico contable y de política económica, aprobado por la Legislatura, a iniciativa del Gobernador, en el que se consigna de acuerdo con su naturaleza y cuantía el gasto público que ejercerán las dependencias y entidades públicas, en cumplimiento de sus funciones y programas derivados del plan de desarrollo, durante un ejercicio fiscal; en el caso de los municipios, será el aprobado por el ayuntamiento.
 
 El monto a ejercer considerado en el presupuesto de egresos, no podrá exceder el importe que señale la Ley de Ingresos correspondiente.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+###### Artículo 307 Bis.
+
+La Secretaría es la encargada de establecer y operar un registro estatal de planes y programas, y establecer su relación con la presupuestación y evaluación de las actividades del Poder Ejecutivo y de la administración financiera y tributaria de la hacienda pública del Estado, en el caso de los municipios estas tareas corresponden a los ayuntamientos o a quien éstos designen.
+
+La Secretaría será la responsable de integrar y someter a consideración del Gobernador el proyecto del Presupuesto de Egresos del Estado, en el caso de los municipios lo integrará la tesorería y lo someterá a consideración del ayuntamiento.
+
+La evaluación del presupuesto de egresos, basará sus resultados en la relación que exista entre su ejercicio y el cumplimiento de las metas y objetivos de los programas.
 
 ###### Artículo 308.
 
@@ -9171,21 +10001,43 @@ VII. Inversiones Financieras.
 
 VIII. Deuda Pública.
 
-IX. Erogaciones Extraordinarias.
+IX. (DEROGADA, G.G. 31 DE DICIEMBRE DE 2001)
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+###### Artículo 308 Bis.
+
+El presupuesto de egresos comprenderá las erogaciones por concepto de gasto corriente, transferencias, gasto de inversión en obras y acciones, inversión financiera, servicios de deuda pública y subsidios, y se entenderá por:
+
+I. Gasto corriente: las erogaciones destinadas al pago de servicios personales, así como a la adquisición de bienes y servicios.
+
+II. Transferencias: entrega de recursos a través de ayudas y apoyos económicos e inversión patrimonial al sector auxiliar con el objeto de sufragar gasto corriente de consumo o de operación.
+
+III. Gasto de inversión en obras y acciones: incluye las asignaciones destinadas a cubrir el pago de las obras públicas, la adquisición de bienes muebles e inmuebles y la ejecución de proyectos productivos de carácter social.
+
+IV. Inversión financiera: importe de las erogaciones que se realizan para la adquisición de acciones, bonos y otros títulos de crédito.
+
+V. Servicios de deuda pública: importe de las erogaciones destinadas a cubrir los intereses generados por los créditos concertados y las amortizaciones de capital.
+
+VI. Subsidios: previsiones presupuestales que se proporcionarán como apoyos económicos a los sectores social y privado para la ejecución de programas prioritarios y generales, de carácter temporal que determine la Secretaría.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 309.
 
-Los capítulos se dividirán en subcapítulos y naturaleza de gasto, que representarán las autorizaciones específicas del presupuesto, mediante catálogos que determine la Secretaría, y la Tesorería en el caso de los municipios, procurando que exista congruencia y homogeneidad entre ambos niveles de gobierno.
+Los capítulos se dividirán en subcapítulos y partidas de gastos que representarán las autorizaciones específicas del presupuesto, mediante catálogos que determine la Secretaría, y la tesorería en el caso de los municipios procurando que exista congruencia y homogeneidad ente ambos niveles de gobierno.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 310.
 
-Las dependencias, entidades públicas y unidades administrativas formularán su anteproyecto de presupuesto de egresos, de acuerdo con las normas presupuestales vigentes y en base a sus programas operativos anuales.
+Las dependencias, entidades públicas y unidades administrativas formularán su anteproyecto de presupuesto de egresos de acuerdo con las normas presupuestales vigentes y con base en sus programas anuales.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 311.
 
-La Secretaría, y la tesorería formularán los anteproyectos de presupuesto de las dependencias, entidades públicas y unidades administrativas, cuando no les sean presentados en el plazo que fijen.
+La Secretaría o la Tesorería en el ámbito de sus respectivas competencias formularán los anteproyectos de presupuesto de las dependencias, entidades públicas y unidades administrativas, cuando no les sean presentados en el plazo que fijen.
 
 REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)
 
@@ -9193,15 +10045,17 @@ REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)
 
 La Secretaría y la Tesorería, podrán efectuar las modificaciones que consideren necesarias a los anteproyectos de presupuesto, en cuanto a importes asignados y a la congruencia de la orientación del gasto con el desarrollo, informando a las dependencias y entidades públicas para que efectúen los ajustes correspondientes.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 313.
 
-Antes del quince de junio, la Secretaría, y la Tesorería darán a conocer a las dependencias, entidades públicas, unidades administrativas y órganos autónomos, el instructivo para la formulación del presupuesto, para que a más tardar el treinta y uno de julio, envíen sus observaciones.
+Antes del quince de junio, la Secretaría o la Tesorería en el ámbito de sus respectivas competencias, darán a conocer a las dependencias, entidades públicas, unidades administrativas y órganos autónomos, el instructivo para la formulación del presupuesto, para que a más tardar el treinta y uno de junio, envíen sus observaciones.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 314.
 
-Antes del quince de agosto la Secretaría comunicará a las dependencias, entidades públicas y unidades administrativas las sumas asignadas y su distribución, de acuerdo a los planes y programas prioritarios aprobados, las que podrán durante el mes de agosto, solicitar la información que requieran para la preparación del proyecto de presupuesto, a efecto de unificar criterios. En el caso de los municipios se hará por la tesorería.
+Antes del treinta y uno de julio la Secretaría comunicará a las dependencias, entidades públicas y unidades administrativas las sumas asignadas y su distribución, de acuerdo a los planes y programas prioritarios aprobados, las que podrán durante el mes de julio, solicitar la información que requieran para la preparación del proyecto de presupuesto a efecto de unificar criterios. En el caso de los municipios se hará por la tesorería.
 
 ###### Artículo 315.
 
@@ -9215,9 +10069,21 @@ Los poderes Legislativo y Judicial formularán sus respectivos proyectos de pres
 
 El Gobernador presentará a la Legislatura a más tardar el cinco de diciembre el proyecto de Presupuesto de Egresos del Estado, y el presidente municipal lo presentará al ayuntamiento a más tardar el quince de noviembre.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 318.
 
-En casos especiales y previa justificación, podrán autorizarse programas que rebasen el año presupuestal, quedando sujeto su ejercicio y pago a la disponibilidad presupuestal de los años correspondientes.
+En casos especiales y previa justificación, la Secretaría o la Tesorería, en el ámbito de sus respectivas competencias, podrán autorizar que se celebren contratos de obra pública, de adquisiciones para programas que rebasen el año presupuestal, quedando sujeto su ejercicio y pago a la disponibilidad presupuestal de los años correspondientes.
+
+Cuando se determine que para el cumplimiento de algún programa se deban llevar a cabo acciones que rebasen el ejercicio presupuestal y no se pueda interrumpir su operación, se deberá presentar a la Secretaría o a la Tesorería, en el ámbito de sus respectivas competencias los elementos de juicio necesarios para que estén en posibilidades de dictaminar la procedencia de compromisos que rebasen el ejercicio presupuestal o bien que tengan vigencia por varios ejercicios presupuestales.
+
+Tratándose de obra pública cuando existan obras o acciones cuya ejecución abarque varios ejercicios presupuestales, las dependencias, entidades públicas y unidades administrativas ejecutoras deberán presentar a la Secretaría o la Tesorería, en el ámbito de sus respectivas competencias el programa de ejecución de la obra en el que se establezca claramente el plazo para su ejecución, dicho documento deberá formar parte del expediente técnico.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+###### Artículo 318 Bis.
+
+Las dependencias, entidades públicas y unidades administrativas al formular su anteproyecto de presupuesto de egresos, deberán considerar las erogaciones que se realizarán con base en lo establecido en el artículo anterior.
 
 ###### Artículo 319.
 
@@ -9231,7 +10097,9 @@ III. Estimaciones de egresos, agrupados de la siguiente forma:
 
 A). Por sector.
 
-B). Por tipo del gasto.
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+B). Por Programas.
 
 IV. Las metas de los programas sectoriales derivados del Plan de Desarrollo.
 
@@ -9241,27 +10109,37 @@ Las estimaciones de egresos a que se refiere este artículo comprenderán por se
 
 ###### Artículo 320.
 
-El presupuesto de egresos autorizado se ejercerá de acuerdo con los montos asignados por capítulo de gasto correspondiente, en congruencia con el avance de los programas.
+El presupuesto de egresos autorizado se ejercerá de acuerdo con la metodología establecida por la Secretaría y conforme a los montos asignados por capítulo de gasto correspondiente, en congruencia con el avance de los programas.
 
 El egreso podrá efectuarse cuando exista partida específica de gasto en el presupuesto autorizado y saldo suficiente para cubrirlo.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 321.
 
-Las dependencias, entidades públicas y unidades administrativas, en el ejercicio de sus asignaciones presupuestales, se sujetarán a la programación calendarizada de pagos que determine la Secretaría, y la tesorería.
+Las dependencias, entidades públicas y unidades administrativas en el ejercicio de sus asignaciones presupuestales, se sujetarán a la programación calendarizada de pagos que determine la Secretaría, y en el caso de los municipios la tesorería.
+
+No se autorizarán modificaciones a los calendarios de gasto que tengan por objeto anticipar la disponibilidad de recursos sin presentar ante la Secretaría o la Tesorería, en el ámbito de sus respectivas competencias, la justificación correspondiente.
 
 ###### Artículo 322.
 
 Las partidas de gasto comprendidas en el presupuesto de egresos sólo serán afectadas por los importes devengados en el propio ejercicio; en consecuencia, no se podrán hacer cargos por conceptos que debieron registrarse en años anteriores, salvo que lo autorice la Secretaría, o la tesorería en el caso de los municipios.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 323.
 
-Las garantías que deban constituirse para asegurar los actos y contratos que celebren las dependencias, entidades públicas y unidades administrativas, se otorgarán a favor de la Secretaría o de la tesorería en el caso de los municipios.
+Las garantías que deban constituirse para asegurar los actos y contratos que celebren las dependencias y unidades administrativas, se otorgarán a favor de la Secretaría, y de la Tesorería en el caso de los municipios, en el caso de los organismos auxiliares y fideicomisos dichas garantías estarán a favor de los mismos o de la tesorería en el caso de los municipios.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 324.
 
-Cualquier modificación al presupuesto autorizado, que implique traspasos entre capítulos y partidas de gasto, deberá someterse a la consideración de la Secretaría, y en el caso de los municipios, a la Tesorería, para su autorización, de resultar procedente, cumpliendo con la normatividad que emitan dichas dependencias normativas.
+Cualquier modificación al presupuesto autorizado, que implique traspasos entre capítulos y partidas de gasto; y entre dependencias y entidades públicas deberá someterse a la consideración de la Secretaría, y en el caso de los municipios, a la Tesorería, para su autorización, de resultar procedente, cumpliendo con la normatividad que emitan dichas dependencias normativas.
+
+Los traspasos que impliquen ampliación o reducción al capítulo de Servicios Personales deberán ser autorizados por el Grupo Intersecretarial Gasto Financiamiento, o por el ayuntamiento en el ámbito de sus respectivas competencias.
+
+Todas las adecuaciones presupuestales aprobadas durante el ejercicio fiscal deberán mantener el mismo balance general previsto en el presupuesto aprobado.
 
 No se podrán realizar traspasos de gasto de inversión en obras y acciones a gasto corriente.
 
@@ -9269,9 +10147,17 @@ No se podrán realizar traspasos de gasto de inversión en obras y acciones a ga
 
 Cuando la aplicación de leyes o decretos posteriores a la aprobación del Presupuesto de Egresos implique la erogación de fondos públicos no previstos, la Legislatura, a iniciativa del Gobernador, en su caso, autorizará su modificación.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-Cuando por razones no previstas, se cuente con disponibilidades cuyo monto supere la cobertura del gasto público autorizado para el ejercicio fiscal, el Gobernador queda facultado para aplicarlos a los programas, e informará a la Legislatura al rendir la cuenta pública; en el caso de los municipios será por acuerdo del ayuntamiento. Si los ingresos ordinarios del Estado rebasan el 2%, para la aplicación del excedente deberá solicitarse autorización expresa a la Legislatura y hacerlo como ésta lo determine, de preferencia a la amortización de deuda pública.
+Cuando por razones no previstas se cuente con ingresos excedentes cuyo monto supere la cobertura del gasto público autorizado para el ejercicio fiscal, el Gobernador queda facultado para aplicarlos en los programas, e informará a la Legislatura al rendir la Cuenta Pública, en el caso de los municipios será por acuerdo del Ayuntamiento.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+Unicamente se podrán aplicar ingresos excedentes hasta por un monto acumulado equivalente al 2% de los ingresos presupuestarios provenientes de impuestos, derechos, aportaciones de mejoras, productos, aprovechamientos y participaciones en ingresos federales, incluidos en la Ley de Ingresos correspondiente.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+Cuando la disponibilidad de ingresos excedentes rebase el 2% de los rubros señalados en el párrafo anterior, el Ejecutivo Estatal deberá presentar a la Legislatura del Estado o a la Comisión Permanente, cuando aquélla se encuentre en receso, la propuesta de aplicación del importe que rebase el 2% autorizado y hacerlo como esta lo determine. La Legislatura deberá resolver durante los 15 días siguientes a la presentación de la misma, pasados los cuales si no se objeta, se considerará aprobada en sus términos, debiéndose aplicar preferentemente al fortalecimiento de los programas prioritarios o a la amortización de la deuda pública.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -9279,13 +10165,13 @@ No se deberán considerar en este porcentaje los ingresos ordinarios derivados d
 
 ###### Artículo 326.
 
-Los titulares de las dependencias, entidades públicas y unidades administrativas, en el ejercicio de su presupuesto, serán responsables de que se ejecuten con oportunidad, eficiencia y eficacia los proyectos previstos en sus respectivos programas y enviarán a la Secretaría, de acuerdo a la periodicidad que se establezca, los informes del avance programático-presupuestal, para la revisión, seguimiento y evaluación del cumplimiento de los objetivos y metas establecidas (sic) en los programas aprobados en relación con el presupuesto autorizado; en los municipios, se enviará a la tesorería.
+Los titulares de las dependencias, entidades públicas y unidades administrativas, en el ejercicio de su presupuesto, serán responsables de que se ejecuten con oportunidad, eficiencia y eficacia los proyectos previstos en sus respectivos programas y deberán enviar a la Secretaría, el informe del comportamiento del ejercicio presupuestal y el informe de avance programático en forma mensual y trimestral, respectivamente enviarán a la Secretaría, de acuerdo a la periodicidad que se establezca, los informes del avance programático-presupuestaI, para la revisión, seguimiento y evaluación del cumplimiento de los objetivos y metas establecidas en los programas aprobados en relación con el presupuesto autorizado; en los municipios, se enviará a la tesorería.
 
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 326 Bis.
 
-La Secretaría y la Tesorería, en el ámbito de sus respectivas competencias, elaborarán la normatividad necesaria para la adecuada operación presupuestal y el correcto ejercicio del gasto público, así como su registro contable.
+La Secretaría y la Tesorería, en el ámbito de sus respectivas competencias, elaborarán la normatividad necesaria para la adecuada operación y registro presupuestal y el correcto ejercicio del gasto público.
 
 ### CAPITULO CUARTO. DEL PRESUPUESTO DE EGRESOS
 
@@ -9293,9 +10179,15 @@ La Secretaría y la Tesorería, en el ámbito de sus respectivas competencias, e
 
 La Secretaría, la tesorería y los órganos de control interno, podrán verificar periódicamente los resultados de la ejecución de los programas en relación con el ejercicio del presupuesto de las dependencias, entidades públicas y unidades administrativas.
 
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+Los órganos de control interno en el ejercicio del presupuesto, vigilarán que las dependencias, entidades públicas y unidades administrativas no adquieran compromisos que rebasen el monto mensual de gasto que se les haya autorizado.
+
 ## TITULO DECIMO. DE LOS SERVICIOS DE TESORERIA
 
 ### CAPITULO QUINTO. DEL CONTROL DEL GASTO PUBLICO
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 328.
 
@@ -9325,9 +10217,11 @@ La recaudación se efectuará en moneda nacional, aceptándose únicamente como 
 
 La recaudación de los fondos se sustentará con los documentos relativos a la determinación del crédito, resoluciones administrativas o jurisdiccionales, autorizaciones, convenios, contratos, permisos, concesiones y los demás que establezca este Código y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 333.
 
-Los fondos recaudados se concentrarán en las cuentas bancarias que para el efecto establezcan la Secretaría y la tesorería.
+Los fondos recaudados se concentrarán en la Caja General o en las cuentas bancarias autorizadas que para el efecto establezcan la Secretaría o la Tesorería en el ámbito de sus respectivas competencias.
 
 ### CAPITULO SEGUNDO. DE LA RECAUDACION
 
@@ -9335,9 +10229,11 @@ Los fondos recaudados se concentrarán en las cuentas bancarias que para el efec
 
 La Secretaría y la tesorería, en el ámbito de su competencia, autorizarán la liberación de recursos financieros de conformidad a los montos establecidos en el presupuesto de egresos.
 
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 335.
 
-En la liberación de recursos financieros, las dependencias, entidades públicas y unidades administrativas deberán de cumplir con los requisitos que se establezcan en las reglas de carácter general que expidan la Secretaría y la tesorería.
+En la liberación de recursos financieros, las dependencias, entidades públicas y unidades administrativas deberán cumplir con los requisitos que se establezcan en las reglas de carácter general que expidan la Secretaría y la Tesorería en el ámbito de sus respectivas competencias.
 
 ###### Artículo 336.
 
@@ -9347,11 +10243,13 @@ Las órdenes de pago que no hayan sido liquidadas al treinta y uno de diciembre 
 
 De ser aplicable en los municipios, se observará este procedimiento.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 337.
 
-Las dependencias y unidades administrativas que manejen fondos y que por cualquier motivo al término del ejercicio fiscal conserven recursos financieros presupuestales, los reintegrarán a la Caja General. Las entidades públicas y, organismos que se hallen en esta misma situación o que obtengan rendimientos, previa autorización de la Secretaría, podrán conservarlos incorporándolos como ingresos propios en el siguiente período fiscal.
+Las dependencias y unidades administrativas que manejen fondos públicos deberán invertir sus disponibilidades en instrumentos de renta fija y los rendimientos que se generen deberán depositarse en la Caja General, dichos depósitos deberán realizarse cuando su monto rebase 6 salarios mínimos del área geográfica "C" o bien, el monto generado al final del año. Si al término del ejercicio fiscal conservan recursos financieros presupuestales estos deberán ser reintegrados a la Caja General, en el caso de los municipios los depósitos se realizaran a la Tesorería.
+
+Las entidades públicas que manejen fondos públicos e inviertan sus disponibilidades en instrumentos de renta fija, sus rendimientos deberán conservarlos, registrándolos corno ingresos propios y sólo podrán aplicarlos en términos de lo dispuesto en el Presupuesto de Egresos del Gobierno del Estado de México para el ejercicio fiscal correspondiente.
 
 ###### Artículo 338.
 
@@ -9363,7 +10261,7 @@ El pago de cantidades retenidas en favor de terceros, se liquidarán a petición
 
 ###### Artículo 339.
 
-Las disposiciones de este título tienen por objeto regular el Sistema Integral de Información Financiera del que forma parte la contabilidad gubernamental y la cuenta pública del Estado, y la de los municipios.
+Las disposiciones de este título tienen por objeto regular la contabilidad gubernamental y la cuenta pública del Estado, y la de los municipios.
 
 ###### Artículo 340.
 
@@ -9379,7 +10277,7 @@ Se entenderá por cuenta pública el informe que rinda anualmente el Gobernador 
 
 ###### Artículo 342.
 
-El registro contable y presupuestal de las operaciones financieras, se realizarán conforme al Sistema Integral de Información Financiera y a las políticas de registro que de común acuerdo establezcan la Secretaría, las tesorerías y el órgano técnico de fiscalización de la Legislatura.
+El registro contable y presupuestal de las operaciones financieras, se realizarán conforme al Sistema y a las políticas de registro que de común acuerdo establezcan la Secretaría, las tesorerías y el órgano técnico de fiscalización de la Legislatura.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -9389,13 +10287,15 @@ El sistema de contabilidad debe diseñarse sobre base acumulativa total y operar
 
 El sistema de contabilidad sobre base acumulativa total se sustentará en los principios de contabilidad gubernamental.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 344.
 
-Las dependencias, entidades públicas y unidades administrativas registrarán contable y presupuestalmente las operaciones financieras que realicen, con base en el Sistema Integral de Información Financiera y las políticas de registro establecidas, en un plazo no mayor de cinco días.
+Las dependencias, entidades públicas y unidades administrativas registrarán contable y presupuestalmente las operaciones financieras que realicen, con base en el sistema y políticas de registro establecidas en un plazo no mayor de cinco días, en el caso de los municipios se hará por la Tesorería.
 
-Todo registro contable y presupuestal deberá estar soportado con los documentos comprobatorios originales, los que deberán permanecer bajo el resguardo y conservación de las dependencias, entidades públicas y unidades administrativas que ejercieron el gasto, a disposición del órgano técnico de fiscalización de la Legislatura y de los órganos de control interno, por un término de cinco años contados a partir del ejercicio presupuestal siguiente al que corresponda.
+Los coordinadores administrativos, delegados administrativos o equivalentes, conjuntamente con los titulares de las dependencias o unidades administrativas respectivamente, así como los órganos de gobierno y titulares de las entidades públicas serán responsables de la ejecución, registro y control del presupuesto de egresos que les haya sido autorizado, y al solicitar la dictaminación o adquisición de bienes y servicios certifican la suficiencia presupuestal correspondiente.
+
+Todo registro contable y presupuestal deberá estar soportado con los documentos comprobatorios originales, los que deberán permanecer en custodia y conservación de las dependencias, entidades públicas y unidades administrativas que ejercieron el gasto, y a disposición del órgano técnico de fiscalización de la Legislatura y de los órganos de control interno, por un término de cinco años contados a partir del ejercicio presupuestal siguiente al que corresponda, en el caso de los municipios se hará por la Tesorería.
 
 Tratándose de documentos de carácter histórico, se estará a lo dispuesto por la legislación de la materia.
 
@@ -9445,7 +10345,9 @@ B). Estado comparativo de ingresos.
 
 C). Estado comparativo de egresos.
 
-D). Del ramo de las transferencias y modificaciones al correspondiente Presupuesto aprobado.
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+D). Modificaciones al presupuesto aprobado.
 
 III. Información de la obra pública:
 
@@ -9465,11 +10367,21 @@ La cuenta pública se constituye por la información económica, contable, presu
 
 La Secretaría y las tesorerías, proporcionarán la información complementaria requerida por el órgano técnico de fiscalización de la Legislatura, para el análisis y evaluación de la cuenta pública.
 
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+###### Artículo 352 Bis.
+
+Como parte de la cuenta pública, se informará a la Legislatura de las acciones y resultados de la ejecución del Plan de Desarrollo del Estado, y del avance de los programas.
+
+Adicionalmente, se enviará trimestralmente a la Legislatura el informe de las acciones y resultados de la ejecución del Plan de Desarrollo del Estado y del avance de los programas en los meses de abril, julio y octubre y el trimestre correspondiente al cierre del ejercicio, se hará con la cuenta pública.
+
 ###### Artículo 353.
 
 Con base en los estados contables y presupuestales, se formulará la cuenta pública, para su presentación a la Legislatura.
 
-Las áreas competentes de los Poderes Legislativo y Judicial remitirán oportunamente los estados contables y presupuestales a que se refiere el párrafo anterior, al Poder Ejecutivo para su incorporación a la Cuenta Pública Estatal.
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+Las áreas competentes de los Poderes Legislativo y Judicial, así como de los organismos electorales, de la Comisión de Derechos Humanos del Estado de México y de la Universidad Autónoma del Estado de México, remitirán oportunamente los estados contables y presupuestales a que se refiere el párrafo anterior, al Poder Ejecutivo para su incorporación a la Cuenta Pública Estatal.
 
 ###### Artículo 354.
 
@@ -9535,9 +10447,13 @@ C). En una cantidad igual al 50% del importe de las contribuciones no enteradas,
 
 Cuando por un acto o una omisión se infrinjan diversas disposiciones fiscales a las que correspondan varias multas, sólo se aplicará la que corrresponda a la infracción cuya multa sea mayor.
 
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
 II. Se disminuirán:
 
-En un 20% el monto de las contribuciones omitidas o del beneficio indebido siempre que el infractor pague o devuelva los mismos con sus accesorios, dentro de los quince días siguientes a la notificación de la resolución en la que se impuso el importe de la misma.
+A). En un 20% de su monto, siempre que el infractor pague o devuelva el importe de las contribuciones omitidas con sus accesorios, o el beneficio indebido dentro de los quince días siguientes a la notificación de la resolución en la que se impuso el importe de la misma.
+
+B). En un 100% el importe de la multa fijada por la omisión en el pago de contribuciones y aprovechamientos, en los casos de devolución de cheques, siempre que se pague dicha contribución o aprovechamiento y en sus accesorios dentro de los cinco días siguientes a la fecha de notificación del requerimiento correspondiente.
 
 ### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
@@ -9718,3 +10634,9 @@ PRIMERO.- Publíquese la presente Ley en el periódico oficial "Gaceta del Gobie
 SEGUNDO.- Esta Ley entrará en vigor el día primero de enero del año dos mil dos.
 
 TERCERO.- Se derogan los capítulos Primero "De las Disposiciones Generales", Segundo "De la Planeación del Desarrollo" y Tercero "De los Programas", del Título Noveno, denominado "De la Planeación y del Presupuesto de Egresos" que comprende de los artículos 284 al 306 del Código Financiero del Estado de México y Municipios, así como las disposiciones que se opongan a la presente Ley.
+
+G.G. 31 DE DICIEMBRE DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir el 1 de enero de 2002.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
