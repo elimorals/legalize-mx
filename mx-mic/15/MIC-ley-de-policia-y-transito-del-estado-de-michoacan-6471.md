@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-policia-y-transito-del-estado-de-michoacan-6471"
 country: "mx"
 rank: "ley"
 publication_date: "1978-03-30"
-last_updated: "1982-07-19"
+last_updated: "2002-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE POLICIA Y TRANSITO DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1982
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICADEL ESTADO DE MICHOACAN, PUBLICADO EN EL PERIODICO OFICIAL EL 18 DE SEPTIEMBRE DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 30 de marzo de 1978.
 
@@ -1342,3 +1344,37 @@ P.O. 19 DE JULIO DE 1982
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 SEGUNDO. Se derogan los artículos 6 en sus fracciones I, II y III, 7 a 10 en su fracción X, 126 a 149, 150 a 174, 176 a 190, 192 a 196, 198, 199 en sus fracciones III, IV, y VI, 202 en su fracción IV, 205 a 227 y 229 de la Ley de Policía y Tránsito.
+
+P.O. 18 DE SEPTIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Seguridad Pública del Estado de Michoacán de Ocampo, aprobada por el Congreso del Estado el día 13 de septiembre de 1999, publicada en el Periódico Oficial del Estado el día 21 de octubre de 1999 y sus posteriores reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de la Ley de Policía y Tránsito del Estado de Michoacán, aprobada por el Congreso del Estado el día 14 de marzo de 1978, publicada en el Periódico Oficial del Estado el día 30 de marzo de 1978 y sus posteriores reformas y adiciones, en cuanto se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Para la transferencia de la prestación del servicio de seguridad pública, el Gobernador del Estado y los ayuntamientos, deberán celebrar convenio estableciendo los mecanismos operativos y las disposiciones normativas, en tanto se expiden los reglamentos municipales.
+
+###### ARTÍCULO QUINTO.
+
+El Gobernador del Estado deberá emitir el decreto de creación del organismo público descentralizado denominado Policía Auxiliar, dentro de los ciento ochenta días siguientes a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+En materia de seguridad privada el Ejecutivo del Estado enviará la iniciativa de ley reglamentaria al Congreso del Estado en un plazo de sesenta días posteriores a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los reglamentos de esta Ley deberán emitirse por el Gobernador del Estado, dentro de los ciento ochenta días posteriores a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO OCTAVO.
+
+En tanto se expida la Ley reglamentaria en materia de Seguridad Privada continuarán aplicándose las disposiciones de la Ley de Seguridad Pública del Estado, y demás reglamentos en tanto que no se opongan a la presente Ley.
