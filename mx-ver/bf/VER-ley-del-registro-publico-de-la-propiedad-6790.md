@@ -1,0 +1,612 @@
+---
+title: "LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD"
+identifier: "VER-ley-del-registro-publico-de-la-propiedad-6790"
+country: "mx"
+rank: "ley"
+publication_date: "1979-12-29"
+last_updated: "1979-12-29"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6790&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-ver"
+scjn_id: "6790"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "156"
+reform_count: "9"
+scjn_last_update: "2008-05-23"
+issue_date: "1979-12-29"
+state: "VER"
+---
+# LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD
+
+LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 29 de diciembre 1979.
+
+RAFAEL HERNANDEZ OCHOA, Gobernador Constitucional del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes sabed:
+
+Que la H. Legislatura del mismo se ha servido expedir la siguiente:
+
+LEY
+
+NUMERO 606.- La H. Quincuagésima Primera Legislatura del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le concede la fracción I del artículo 68 de la Constitución Política Local, y en nombre del pueblo, expide la siguiente
+
+LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD
+
+## TITULO PRIMERO. Organización y Funcionamiento del Registro
+
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
+###### ARTICULO 1.
+
+El Registro Público de la Propiedad, es la Institución mediante la cual el Estado proporciona el servicio de dar publicidad a los actos y hechos jurídicos que la requieren para surtir efectos ante terceros.
+
+###### ARTICULO 2.
+
+Conforme a las disposiciones del artículo 8o. de la Ley Orgánica del Poder Ejecutivo, la función registral estará a cargo del Departamento del Registro Público de la Propiedad dependiente de la Tesorería General del Estado, y con apego a las prevenciones del Código Civil, de esta Ley y demás disposiciones legislativas.
+
+###### ARTICULO 3.
+
+Para el cumplimiento de sus funciones, el Departamento del Registro Público de la Propiedad contará con las siguientes dependencias:
+
+I.- Oficina Dictaminadora.
+
+II.- Oficina de Supervisión.
+
+III.- Oficina de Archivo.
+
+IV.- Oficinas Registradoras.
+
+### CAPITULO SEGUNDO. Del Jefe del Departamento
+
+###### ARTICULO 4.
+
+Para ser Jefe del Departamento se requiere:
+
+I.- Ser de nacionalidad mexicana y haber cumplido treinta años de edad;
+
+II.- Ser Licenciado en Derecho con título legalmente registrado en la Dirección General de Profesiones;
+
+III.- Ser de reconocida solvencia moral; y
+
+IV.- Tener cuando menos cinco años de experiencia en materia registral o notarial.
+
+###### ARTICULO 5.
+
+Son atribuciones del Jefe de Departamento:
+
+I.- Ejercer la función directiva de la Institución del Registro Público de la Propiedad en todo el territorio del Estado;
+
+II.- Tener la representación legal de la Institución;
+
+III.- Asignar y controlar las actividades del Departamento encaminadas a la coordinación de las funciones registrales y promover las reformas que estime necesarias.
+
+IV.- Girar instructivos y circulares tendientes a unificar criterios y la práctica registral, proporcionando orientaciones para evitar controversias;
+
+V.- Conocer de los recursos administrativos que se interpongan contra la calificación registral y acordar con los Dictaminadores las resoluciones que deban recaer sobre los mismos;
+
+VI.- Delegar la representación del Departamento a los abogados de la Institución en las controversias en que ésta fuere parte;
+
+VII.- Programar con la Oficina de Supervisión visitas a las Oficinas Registradoras para atender sus problemas y supervisar su funcionamiento;
+
+VIII.- Las demás que le señalen las leyes.
+
+### CAPITULO TERCERO. De la Oficina Dictaminadora
+
+###### ARTICULO 6.
+
+La Oficina Dictaminadora tiene a su cargo el estudio y dictamen de los asuntos que sean competencia del Departamento.
+
+###### ARTICULO 7.
+
+El Jefe de la Oficina Dictaminadora debe reunir los mismos requisitos exigidos para ser Jefe del Departamento.
+
+###### ARTICULO 8.
+
+Son obligaciones del Jefe de la Oficina Dictaminadora:
+
+I.- Auxiliar al Jefe del Departamento en las labores que éste le encomiende;
+
+II.- Proporcionar asesoría técnica a los titulares de las Oficinas Registradoras y orientación a los usuarios del servicio;
+
+III.- Supervisar las resoluciones emitidas por los Dictaminadores;
+
+IV.- Suplir al Jefe del Departamento en sus ausencias temporales y representarlo cuando así lo disponga éste en actos relacionados con la función registral; y
+
+V.- Las demás inherentes a su cargo.
+
+###### ARTICULO 9.
+
+Para ser Dictaminador se requiere:
+
+I.- Ser Licenciado en Derecho con tres años de ejercicio profesional, y
+
+II.- Ser de reconocida solvencia moral.
+
+###### ARTICULO 10.
+
+Corresponde a los Dictaminadores:
+
+I.- Emitir dictamen en los asuntos que les sean turnados por el Jefe del Departamento o el de la Oficina Dictaminadora;
+
+II.- Proponer al Jefe del Departamento la adopción de medidas tendientes a hacer más expedita la aplicación de las disposiciones legales que rigen la materia registral;
+
+III.- Recopilar los precedentes judiciales y administrativos relacionados con la función registral; y
+
+IV.- Las demás funciones que les sean encomendadas por el Jefe del Departamento o el de la Oficina Dictaminadora.
+
+### CAPITULO CUARTO. De la Oficina de Supervisión
+
+###### ARTICULO 11.
+
+La Oficina de Supervisión tiene a su cargo supervisar y controlar las actividades de las Oficinas Registradoras.
+
+###### ARTICULO 12.
+
+La Oficina de Supervisión estará a cargo de un Jefe y de los supervisores que las necesidades del servicio requieran.
+
+###### ARTICULO 13.
+
+Para ser Jefe de la Oficina de Supervisión se requiere, ser Licenciado en Derecho y de reconocida solvencia moral.
+
+###### ARTICULO 14.
+
+Para ser supervisor se requiere ser Licenciado o Pasante de Derecho y de reconocida solvencia moral.
+
+###### ARTICULO 15.
+
+Corresponde al Jefe de la Oficina de Supervisión:
+
+I.- Supervisar y controlar a las Oficinas Registrales con el auxilio de los supervisores;
+
+II.- Programar con el Jefe del Departamento, visitas de supervisión a las Oficinas Registradoras;
+
+III.- Revisar la noticia mensual de las Oficinas Registradoras, haciendo las observaciones correspondientes; y
+
+IV.- Todas las demás actividades que le sean encomendadas por el Jefe del Departamento y las que deriven de la naturaleza de su cargo.
+
+### CAPITULO QUINTO. De la Oficina de Archivo
+
+###### ARTICULO 16.
+
+La Oficina de Archivo estará a cargo de un Jefe, quien debe tener experiencia en el ramo y ser de reconocida solvencia moral.
+
+###### ARTICULO 17.
+
+El Jefe de la Oficina de Archivo estará auxiliado por el personal que las necesidades del servicio requieran.
+
+###### ARTICULO 18.
+
+Corresponde al Jefe de la Oficina de Archivo:
+
+I.- Conservar, clasificar y ordenar metódicamente los volúmenes y demás documentos en materia registral como lo señale el manual de organización del Departamento, para lo cual deberá:
+
+a).- Verificar que las formas y las hojas de estadística, sean archivadas por zonas y cronológicamente;
+
+b).- Mantener actualizado el registro de tarjetas índices de control;
+
+II.- Enviar con oportunidad al Departamento correspondiente los documentos debidamente clasificados que contengan la información necesaria para la elaboración del padrón de inscripciones;
+
+III.- Proporcionar la información y antecedentes que le soliciten los Dictaminadores;
+
+IV.- Dotar a las Oficinas Registradoras de las formas impresas que le sean requeridas;
+
+V.- Proporcionar información al público y vigilar el buen trato de los volúmenes que le soliciten para consulta; y
+
+VI.- Desempeñar las demás funciones que le sean encomendadas.
+
+### CAPITULO SEXTO. De las Oficinas Registradoras
+
+###### ARTICULO 19.
+
+La Institución del Registro Público de la Propiedad en el estado de Veracruz se divide en zonas registrales de acuerdo a la siguiente distribución:
+
+PRIMERA ZONA REGISTRAL.- Que comprende los Municipios de: Pánuco (Cabecera), Pueblo Viejo y Tampico Alto.
+
+SEGUNDA ZONA REGISTRAL.- Que comprende el Municipio de: Ozuluama (Cabecera).
+
+TERCERA ZONA REGISTRAL.- Que comprende los Municipios de: Tantoyuca (Cabecera), Chiconamel, Chalma, Platón Sánchez y Tempoal.
+
+CUARTA ZONA REGISTRAL.- Que comprende los Municipios de: Huayacocotla (Cabecera), Zacualpan, Ilamatlán y Texcatepec.
+
+QUINTA ZONA REGISTRAL.- Que comprende los Municipios de: Chicontepec (Cabecera), Ixhuatlán de Madero, Benito Juárez, Tlachichilco y Zontecomatlán.
+
+SEXTA ZONA REGISTRAL.- Que comprende los Municipios de: Tuxpan de Rodríguez Cano (Cabecera), Tamiahua y Alamo Temapache.
+
+SEPTIMA ZONA REGISTRAL.- Que comprende los Municipios de: Poza Rica de Hidalgo (Cabecera), Cazones, Castillo de Teayo, Tihuatlán y Coatzintla.
+
+OCTAVA ZONA REGISTRAL.- Que comprende los Municipios de: Papantla de Olarte (Cabecera), Coahuitlán, Coxquihui, Coyutla, Chumatlán, Espinal, Filomeno Mata, Gutiérrez Zamora, Mecatlán, Tecolutla y Zozocolco de Hidalgo.
+
+NOVENA ZONA REGISTRAL.- Que comprende los Municipios de: Misantla (Cabecera), Colipa, Juchique de Ferrer, Nautla, Tenochtitlán, Vega de Alatorre y Yecuatla.
+
+DECIMA ZONA REGISTRAL.- Que comprende los Municipios de: Jalacingo (Cabecera), Atzalan, Altotonga, Las Minas, Perote, Tlapacoyan, Aldama y Martínez de la Torre.
+
+DECIMAPRIMERA ZONA REGISTRAL.- Que comprende los Municipios de: Xalapa (Cabecera), Acajete, Acatlán, Actopan, Alto Lucero, Banderilla, Coacoatzintla, Chiconquiaco, Emiliano Zapata (Cabecera Dos Ríos), Jilotepec, Landero y Coss, Las Vigas, Naolinco, Miahuatlán, Rafael Lucio, Tatatila, Tepetlán, Tlacolulan, Tlalnelhuayocan y Tonayán.
+
+DECIMASEGUNDA ZONA REGISTRAL.- Que comprende los Municipios de: Coatepec (Cabecera), Apazapan, Ayahualulco, Cosautlán de Carvajal, Ixhuacán, Jalcomulco, Teocelo y Xico.
+
+DECIMATERCERA ZONA REGISTRAL.- Que comprende los Municipios de: Huatusco (Cabecera), Alpatlahua, Axocuapan, Calcahualco, Comapa, Coscomatepec, Sochiapa, Tenampa, Tlacotepec de Mejía, Totutla y Zentla.
+
+DECIMACUARTA ZONA REGISTRAL.- Que comprende los Municipios de: Córdoba (Cabecera), Amatlán de los Reyes, Atoyac, Carrillo Puerto, Coetzala, Cuitláhuac, Cuichapa, Chocamán (Cabacera Omealca), Naranjal, Fortín, Ixhuatlán, Tenejapa de Mata, Tepatlaxco, Tezonapa, Tomatlán, Paso de Macho, Adalberto Tejeda, Yanga y las congregaciones del Municipio de Zongolica que siguen: Ayojapa, Raya Caracol, Coxapa, Atlipozania, Ixtacapa El Grande, La Reforma, Vázquez Vela, Vista Hermosa.
+
+DECIMAQUINTA ZONA REGISTRAL.- Que comprende los Municipios de: Orizaba (Cabecera), Acultzingo, Aquila, Atzacan, Camerino Z. Mendoza, San Andrés Tenejapa, Huiloapan, Ixhuatlancillo, Ixtaczoquitlán, La Perla, Maltrata, Mariano Escobedo, Nogales, Rafael Delgado, Río Blanco, Soledad Atzompa, Tlilapan.
+
+DECIMASEXTA ZONA REGISTRAL.- Que comprende los Municipios de: Zongolica (Cabecera), Atlahuilco, Astacinga, Reyes, Magdalena, Mixtla de Altamirano, Tehuipango, Tequila, Texhuacán, Tlaquilpa y Xoxocotla. Se exceptúan las congregaciones del municipio de Zongolica, que quedan comprendidas dentro de la jurisdicción de la Decimocuarta Zona Registral.
+
+DECIMASEPTIMA ZONA REGISTRAL.- Que comprende los Municipios de: Veracruz (Cabecera), Alvarado, Boca del Río, Cotaxtla, Medellín, Paso de Ovejas, Puente Nacional, Soledad de Doblado, Ignacio de la Llave, Tierra Blanca, Tlalixcoyan, Ursulo Galván, Jamapa, Manlio Fabio Altamirano, La Antigua (Cabecera Villa Cardel).
+
+DECIMAOCTAVA ZONA REGISTRAL.- Que comprende los Municipios de: Cosamaloapan (Cabecera), Acula, Chacaltianguis, Isla, Ixmatlahuacan, Otatitlán, Tesechoacán, Tlacojalpan, Tuxtilla y Playa Vicente.
+
+DECIMANOVENA ZONA REGISTRAL.- Que comprende los Municipios de: San Andrés Tuxtla (Cabecera), Catemaco, Hueyapan de Ocampo, Juan Rodríguez Clara, Santiago Tuxtla.
+
+VIGESIMA ZONA REGISTRAL.- Que comprende los Municipios de: Acayucan (Cabecera), Mecayapan, Oluta, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Texistepec.
+
+VIGESIMAPRIMERA ZONA REGISTRAL.- Que comprende los Municipios de: Coatzacoalcos (Cabecera), Minatitlán, Jáltipan, Oteapan, Zaragoza, Jesús Carranza, Chinameca, Moloacán, Hidalgotitlán, Cosoleacaque, Pajapan, Ixhuatlán del Sureste y Las Choapas.
+
+VIGESIMASEGUNDA ZONA REGISTRAL.- Que comprende los Municipios de: Naranjos (Cabecera), Cerro Azul, Chinampa de Gorostiza, Chontla, Ixcatepec, Amatlán, Tamalín, Tancoco, Tantima, Tepetzintla, Citlaltépetl.
+
+VIGESIMATERCERA ZONA REGISTRAL.- Que comprende los Municipios de: Tlacotalpan (Cabecera), Amatitlán, Angel R. Cabada, Lerdo de Tejada, Saltabarranca.
+
+###### ARTICULO 20.
+
+En las Cabeceras de cada Zona Registral habrá una Oficina Registradora que tendrá a su cargo la inscripción de los actos y hechos que conforme a la ley la requieran.
+
+###### ARTICULO 21.
+
+Cada Oficina Registradora estará a cargo de una persona denominada "Encargado del Registro Público".
+
+###### ARTICULO 22.
+
+El Encargado del Registro Público estará auxiliado por:
+
+I.- Un Oficial del Registro; y
+
+II.- El demás personal que por necesidades de la Oficina se requiera.
+
+###### ARTICULO 23.
+
+Para ser Encargado del Registro Público se requiere:
+
+I.- Ser Licenciado en Derecho;
+
+II.- Ser mayor de veinticinco años de edad;
+
+III.- Ser de nacionalidad mexicana;
+
+IV.- Tener experiencia en materia registral por más de tres años; y
+
+V.- Ser de reconocida solvencia moral.
+
+###### ARTICULO 24.
+
+Para ser Oficial del Registro Público de la Propiedad se requiere:
+
+I.- Ser de nacionalidad mexicana;
+
+II.- Ser mayor de edad;
+
+III.- Tener experiencia mínima de un año en materia registral;
+
+IV.- Ser de reconocida solvencia moral.
+
+###### ARTICULO 25.
+
+Son obligaciones del Encargado del Registro Público:
+
+I.- Registrar los actos que deban inscribirse conforme a la ley y autorizar con su firma las inscripciones y anotaciones que se hagan, así como los certificados que se expidan;
+
+II.- Para los efectos de la fracción anterior, revisará los documentos presentados y hará o denegará su inscripción;
+
+III.- Verificar que estén cubiertos los impuestos y derechos de acuerdo con lo previsto en la ley;
+
+IV.- Consultar con el Departamento de Registro Público cuando el caso lo amerite;
+
+V.- Enviar dentro de los primeros cinco días hábiles de cada mes al Departamento del Registro Público, la documentación y relación de las operaciones inscritas en el mes inmediato anterior;
+
+VI.- Hacer la distribución y rotación de los empleados en la forma que lo estime necesario para un mejor funcionamiento de la Oficina, y
+
+VII.- Cumplir con todas las demás obligaciones que le impongan esta ley y las demás que regulan la materia registral.
+
+###### ARTICULO 26.
+
+Son obligaciones del Oficial del Registro:
+
+I.- Asumir la responsabilidad de la Oficina en ausencia del Encargado, y en caso de faltas temporales de éste, cuando el Jefe del Departamento lo determine;
+
+II.- Recibir todos los documentos que le sean presentados para su tramitación, y orientar a los interesados sobre cualquier información que le soliciten;
+
+III.- Verificar y firmar los certificados y copias certificadas que deba expedir el Encargado del Registro;
+
+IV.- Auxiliar al Encargado del Registro en todas las actividades inherentes a la función registral.
+
+### CAPITULO SEPTIMO. De las Obligaciones del Personal en General
+
+###### ARTICULO 27.
+
+Son obligaciones de los empleados:
+
+I.- Asistir con puntualidad a la Oficina de su adscripción y desempeñar con dedicación y sentido de responsabilidad, las labores propias de su cargo;
+
+II.- Cumplir y en su caso, hacer cumplir las disposiciones emanadas de ésta o de otras leyes y de las circulares e instructivos que expida el Departamento;
+
+III.- Desempeñar con eficacia los trabajos que le sean encomendados por el Registrador;
+
+IV.- Vigilar que la consulta y manejo de libros y documentos por el público se realice con el cuidado y probidad necesarios para su conservación;
+
+V.- Asistir con regularidad a los cursos de capacitación que se impartan y demás eventos en que la Institución intervenga;
+
+VI.- Observar ante el público una conducta solícita y respetuosa que contribuya a mejorar la buena imagen de la Oficina y de la Institución; y
+
+VII.- Las demás que sean propias de su cargo, así como las que le asigne la Superioridad.
+
+## TITULO SEGUNDO. Del Procedimiento Registral
+
+### CAPITULO PRIMERO. Disposiciones Generales
+
+###### ARTICULO 28.
+
+Las inscripciones hechas en el Registro Público de la Propiedad tienen efectos declarativos y no constitutivos.
+
+###### ARTICULO 29.
+
+Los términos que se establecen en esta Ley, se computarán por días hábiles.
+
+### CAPITULO SEGUNDO. De las Formas Impresas
+
+###### ARTICULO 30.
+
+Las Oficinas Registradoras utilizarán las formas impresas que previamente sean autorizadas por el Departamento.
+
+###### ARTICULO 31.
+
+LA SOLICITUD DE INSCRIPCION, será proporcionada por las Oficinas Registradoras y deberá contener fecha y hora en que se reciba y será firmada por el Oficial del Registro.
+
+###### ARTICULO 32.
+
+EL LIBRO DE PRESENTACION, contendrá la relación de los documentos que se presenten para su registro, debiendo ser autorizado por el Jefe del Departamento en la primera y última páginas.
+
+###### ARTICULO 33.
+
+LA TARJETA INDICE DE CONTROL, estará destinada a llevar la secuela de todos los movimientos que tenga la propiedad inmueble.
+
+###### ARTICULO 34.
+
+LA SOLICITUD DE EXPEDICION DE CERTIFICADOS, será proporcionada por las Oficinas Registradoras a petición de parte interesada.
+
+###### ARTICULO 35.
+
+LA SOLICITUD DE PRESTAMO DE LIBROS, estará destinada a identificar al usuario del servicio, así como al documento que solicite.
+
+### CAPITULO TERCERO. De las Secciones del Registro Público
+
+###### ARTICULO 36.
+
+El Registro Público de la Propiedad estará dividido en las seis Secciones siguientes:
+
+I.- SECCION PRIMERA.- Comprenderá lo relativo a la adquisición, transmisión o modificación de la propiedad o posesión de bienes inmuebles o derechos reales sobre los mismos;
+
+II.- SECCION SEGUNDA.- Comprenderá el registro de hipotecas y demás gravámenes reales, aun sobre bienes muebles;
+
+III.- SECCION TERCERA.- Comprenderá el registro de contratos de arrendamiento y comodato;
+
+IV.- SECCION CUARTA.- Comprenderá el registro de testamentos, autos declaratorios de herederos, nombramientos de albacea, cesión de derechos hereditarios y concursos;
+
+V.- SECCION QUINTA.- Que comprenderá el registro de sociedades y asociaciones civiles;
+
+VI.- SECCION SEXTA.- Comprenderá el registro de todas las demás operaciones y resoluciones no previstas en las secciones anteriores y que deban inscribirse según la Ley.
+
+### CAPITULO CUARTO. Del Modo de Hacer el Registro
+
+SUBCAPITULO PRIMERO
+
+De la Solicitud de Inscripción
+
+###### ARTICULO 37.
+
+El registro debe practicarse mediante solicitud escrita del interesado, de su representante o del Notario que autorice el acto.
+
+###### ARTICULO 38.
+
+Con la solicitud de inscripción deberá acompañarse lo siguiente:
+
+I.- El documento que vaya a inscribirse, con dos copias literales del mismo que satisfagan los siguientes requisitos:
+
+a).- Estar escritas a máquina en papel tamaño "ministro" con márgenes de siete cm, a la izquierda y uno y medio a la derecha;
+
+b).- No se emplearán abreviaturas, salvo que las contenga el documento que deba insertarse literalmente;
+
+c).- No deben contener raspaduras ni enmiendas, y en caso de ser necesario testar palabras, hacerlo con una línea, de modo que quede legible lo testado, salvándose al final con la mayor claridad;
+
+d).- No se dejarán espacios en blanco entre cada uno de los párrafos y los que queden serán inutilizados con rayas diagonales que se crucen;
+
+II.- Copias fieles del plano o croquis que contengan los datos relativos a las medidas, colindancias y superficie;
+
+III.- Cuando se trate de contratos privados, deberá acompañarse además un duplicado de dichos documentos firmado por los intervinientes.
+
+###### ARTICULO 39.
+
+Conforme vayan ingresando los documentos a la Oficina Registradora, se irán asentando cronológica y numéricamente en el libro de presentación para continuar con el procedimiento, con mención del nombre de la persona que presente la solicitud.
+
+SUBCAPITULO SEGUNDO
+
+De la Calificación
+
+###### ARTICULO 40.
+
+En un término no mayor de diez días se hará la calificación registral, y la verificación fiscal.
+
+SUBCAPITULO TERCERO
+
+De la Inscripción
+
+###### ARTICULO 41.
+
+Si estuvieren satisfechos todos los requisitos legales, el Encargado del Registro procederá a hacer la inscripción.
+
+###### ARTICULO 42.
+
+En cada sección del registro público se llevará un orden numérico progresivo.
+
+###### ARTICULO 43.
+
+Al hacerse la inscripción se agregarán las copias presentadas a los legajos correspondientes, anotándose al calce los siguientes datos:
+
+a).- Número y fecha de presentación de la solicitud;
+
+b).- Número y fecha de la inscripción;
+
+c).- Sección a la que corresponde;
+
+d).- Volumen o Tomo;
+
+e).- Número, fecha y sección del antecedente inmediato;
+
+La inscripción deberá ser firmada por el Encargado y el Oficial del Registro, considerando que forman parte de la misma las anotaciones marginales que contenga.
+
+###### ARTICULO 44.
+
+Realizado el acto material de la inscripción, se hará anotación de ella en las inscripciones antecedentes, misma que deberá contener los siguientes datos: número y fecha de la inscripción, sección a la que corresponda, naturaleza y principales características de la operación.
+
+La anotación deberá ser firmada por el Encargado del Registro.
+
+###### ARTICULO 45.
+
+Hecha la inscripción se anotarán los datos de la misma en el documento registrado.
+
+###### ARTICULO 46.
+
+En los casos en que sea denegada la inscripción de los documentos, éstos quedarán a disposición de los interesados con la expresión de los fundamentos legales por los que se denegó o suspendió la inscripción o anotación, circunstancia que se hará constar en la solicitud presentada. Si se requiere una amplia exposición, la resolución se hará constar en documento por separado. En ambos casos, ser entregará copia al solicitante por vía de notificación.
+
+### CAPITULO QUINTO. De las Rectificaciones
+
+###### ARTICULO 47.
+
+Cuando haya discrepancia entre los términos de la inscripción y los del documento registrado, procederá la rectificación de la inscripción a solicitud de todos los interesados o en su defecto por orden judicial. En los casos en que se ejercite la acción relativa, se hará en la inscripción una anotación preventiva a reserva de lo que determine la autoridad judicial.
+
+###### ARTICULO 48.
+
+Decretada la rectificación, el Encargado del Registro la hará constar mediante una anotación al margen de la inscripción rectificada y, en su caso, en las inscripciones antecedentes. Si se niega la rectificación se cancelará la anotación preventiva.
+
+###### ARTICULO 49.
+
+En el caso de error en las anotaciones, podrá hacerse la rectificación de oficio o a petición de cualquier interesado, previa autorización del Departamento.
+
+### CAPITULO SEXTO. Del Recurso de Inconformidad
+
+###### ARTICULO 50.
+
+Contra la resolución de la Oficina Registradora que deniegue una inscripción, procederá el recurso administrativo de inconformidad ante el Departamento del Registro Público de la Propiedad.
+
+###### ARTICULO 51.
+
+El término para la interposición del recurso, es el de quince días contados a partir de la fecha en que se hubiere notificado la resolución al interesado.
+
+###### ARTICULO 52.
+
+El recurso deberá interponerse mediante escrito presentado directamente o enviado por correo certificado al Departamento o por conducto de la Oficina Registradora, a la que se presentará copia de la inconformidad. Si el escrito fuere remitido por la vía postal se tomará como fecha de interposición del recurso la de su depósito en la Oficina Postal.
+
+###### ARTICULO 53.
+
+Tan pronto tenga conocimiento la Oficina Registradora de la interposición del recurso hará anotación del mismo al margen de la inscripción antecedente respectiva, para conservar a salvo la prelación de la inscripción que se pretende realizar.
+
+###### ARTICULO 54.
+
+Hecha la anotación a que se refiere el artículo anterior, la Oficina Registradora enviará informe al Departamento con copia de la resolución que denegó la inscripción y en su caso, de los documentos que estime convenientes. Si la interposición se hace directamente ante el Departamento, éste ordenará a la Oficina Registradora que rinda el citado informe.
+
+###### ARTICULO 55.
+
+Con vista de los términos de la inconformidad y del informe rendido por la Oficina Registradora, el Departamento resolverá lo procedente en un término de cinco días y notificará personalmente al interesado en el domicilio que éste hubiere señalado.
+
+###### ARTICULO 56.
+
+El recurso de inconformidad será también procedente contra cualquier otra resolución de la Oficina Registradora que cause agravio a los interesados.
+
+### CAPITULO SEPTIMO. De la Cancelación de las Inscripciones y Anotaciones
+
+###### ARTICULO 57.
+
+La cancelación de una inscripción preventiva o definitiva se hará mediante una anotación marginal que exprese los motivos de ella.
+
+###### ARTICULO 58.
+
+Cuando al registrador se le demande la cancelación de una inscripción, hará al margen de la misma la anotación correspondiente, sin costo alguno.
+
+### CAPITULO OCTAVO. Del Archivo del Registro y de la expedición de Certificados
+
+###### ARTICULO 59.
+
+El usuario del archivo del Registro Público se sujetará a las siguientes prescripciones:
+
+I.- Solicitará al Registrador, los libros a consultar llamando al efecto la forma establecida en esta ley.
+
+II.- Consultará los libros en horas hábiles bajo vigilancia de un empleado de la Oficina.
+
+III.- Se abstendrá de escribir o de hacer cualquier alteración en el documento en consulta.
+
+IV.- Devolverá los libros o documentos consultados.
+
+###### ARTICULO 60.
+
+La expedición de certificados se hará en la forma impresa que señala esta Ley.
+
+###### ARTICULO 61.
+
+Los certificados que se expidan harán constar tanto los datos de las inscripciones como los de las anotaciones marginales contenidas en las mismas.
+
+### CAPITULO NOVENO. De las Responsabilidades
+
+###### ARTICULO 62.
+
+Los Jefes de las distintas Oficinas que integran el Departamento del Registro Público de la Propiedad, los Encargados del Registro y los empleados a su cargo, serán responsables de los daños y perjuicios que ocasionen en el ejercicio de sus funciones, negligencia o incumplimiento de las disposiciones contenidas en el Código Civil y en esta Ley, sin perjuicio de las sanciones penales o administrativas previstas en otras leyes.
+
+###### ARTICULO 63.
+
+El Jefe del Departamento, los Jefes de las Oficinas y los Encargados del Registro al servicio de la Institución, no podrán ejercer durante el tiempo que dure su gestión, cargo o empleo alguno que sea incompatible con la función registral y serán responsables de los delitos y faltas cometidos en el ejercicio de su cargo.
+
+###### ARTICULO 64.
+
+Los usuarios del archivo del Registro Público, serán responsables de los daños que causen a los documentos que consulten.
+
+## TITULO TERCERO. De la Inmatriculación de Bienes Inmuebles
+
+### CAPITULO UNICO
+
+###### ARTICULO 65.
+
+Es obligatoria la inmatriculación de los bienes inmuebles que no figuren en el registro.
+
+###### ARTICULO 66.
+
+Para la inmatriculación es obligación de los propietarios o poseedores de bienes inmuebles no registrados legalizar sus derechos en la vía y forma correspondientes.
+
+###### ARTICULO 67.
+
+Tratándose de títulos traslativos de dominio que carezcan de antecedentes de propiedad inscritos en el Registro Público, para su inmatriculación se requiere:
+
+I.- Que reúnan las formalidades establecidas por la Ley;
+
+II.- Que el inmueble amparado por el título se encuentre controlado fiscalmente y al corriente en el pago de sus impuestos;
+
+III.- Que los títulos tengan una antigüedad mínima de diez años;
+
+IV.- Que se presente un certificado de no inscripción del inmueble;
+
+V.- Que se obtenga la autorización previa del Departamento del Registro Público de la Propiedad.
+
+ARTICULOS TRANSITORIOS:
+
+1.- Se deroga la Ley del Registro Público del 7 de mayo de 1924.
+
+2.- Quedan abrogadas las disposiciones que se opongan a la aplicación y observancia de los preceptos de esta Ley.
+
+3.- Esta Ley entrará en vigor el día 1º de Enero de 1980, previa su publicación en la "Gaceta Oficial" del Estado.
+
+DADA en el Salón de Sesiones de la Honorable Quincuagésima Primera Legislatura del Estado, en la ciudad de Xalapa-Enríquez, su capital, a los veintisiete días del mes de diciembre de mil novecientos setenta y nueve.- ARMANDO GARCIA LEBREZ.- Rúbrica.- Diputado Vicepresidente.- MANUEL PEREZ BONILLA.- Rúbrica.- Diputado Secretario.
+
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Xalapa-Enríquez, Ver., 29 de diciembre de 1979.- Lic. RAFAEL HERNANDEZ OCHOA.- Rúbrica.- El Secretario de Gobierno, LIC. EMILIO GOMEZ VIVES.- Rúbrica.
