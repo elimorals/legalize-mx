@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-09-23"
-last_updated: "2002-01-04"
+last_updated: "2002-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DEL 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DEL 2002.
 
 Ley publicada en el Periódico Oficial "La Sombra de Arteaga" el día 23 de septiembre de 1997.
 
@@ -582,6 +582,10 @@ VIII.- Realizar todo tipo de actos jurídicos de contenido patrimonial a nombre 
 IX.-Representar legalmente a la Legislatura en todo tipo de controversias jurisdiccionales o laborales, pudiendo delegar esta facultad; y
 
 X.- Las demás que determine esta Ley sus disposiciones reglamentarias;
+
+> <small>(ADICIONADO. P.O. 18 DE ENERO DEL 2002)</small>
+
+Las ausencias del Presidente de la Comisión de Gobierno serán suplidas por el Secretario de la propia Comisión, única y exclusivamente para atender asuntos relativos a la representación legal de la Legislatura.
 
 ### CAPITULO VII. DE LAS COMISIONES DE DICTAMEN
 
@@ -1392,3 +1396,13 @@ P.O. 4 DE ENERO DEL 2002
 PRIMERO.-La presente Ley entrará en vigor el día de su aprobación por el Pleno de la LIII Legislatura del Estado, de conformidad con el segundo párrafo artículo 36 de la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente.
+
+P.O. 18 DE ENERO DEL 2002
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor el día de su aprobación por el Pleno de la Legislatura.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a la presente Ley.
