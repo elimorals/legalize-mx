@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "1996-04-30"
+last_updated: "1996-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -216,11 +216,11 @@ Las acciones representativas de las series "B" y "L", serán de libre suscripci�
 
 No podrán participar en forma alguna en el capital social de las instituciones de crédito, personas morales extranjeras que ejerzan funciones de autoridad.
 
-> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 15.
 
-Para efectos de lo previsto en la presente Ley, por inversionistas institucionales se entenderá a las instituciones de seguros y de fianzas, únicamente cuando inviertan sus reservas técnicas y para fluctuaciones de valores; a las sociedades de inversión comunes; a los fondos de pensiones o jubilaciones de personal, complementarios a los que establece la Ley del Seguro Social y de primas de antigüedad, que cumplan con los requisitos señalados en la Ley del Impuesto Sobre la Renta, así como a los demás inversionistas institucionales que autorice expresamente la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Valores.
+Para efectos de lo previsto en la presente Ley, por inversionistas institucionales se entenderá a las instituciones de seguros y de fianzas, únicamente cuando inviertan sus reservas técnicas; a las sociedades de inversión comunes y a las especializadas de fondos para el retiro; a los fondos de pensiones o jubilaciones de personal, complementarios a los que establece la Ley del Seguro Social y de primas de antigüedad, que cumplan con los requisitos señalados en la Ley del Impuesto sobre la Renta, así como a los demás inversionistas institucionales que autorice expresamente la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Valores.
 
 ###### ARTICULO 16.
 
@@ -1332,9 +1332,9 @@ Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, p
 
 Cuando alguna institución de crédito sea propietaria, directa o indirectamente, de acciones con derecho a voto de entidades financieras del exterior que representen por lo menos el cincuenta y uno por ciento del capital pagado, tenga el control de las asambleas generales de accionistas, esté en posibilidad de nombrar a la mayoría de los miembros del consejo de administración o sus equivalentes, o por cualquier otro medio controle a las mencionadas entidades, la institución de crédito correspondiente deberá proveer lo necesario para que la entidad financiera de que se trate, realice sus actividades sujetándose a la legislación extranjera que le sea aplicable y, en su caso, a las disposiciones que al efecto determinen las autoridades financieras mexicanas.
 
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 1996)</small>
 
-Las instituciones de banca múltiple podrán invertir en el capital social de sociedades de inversión y sociedades operadoras de éstas; además, cuando no formen parte de grupos financieros, en el de organizaciones auxiliares del crédito e intermediarios financieros no bancarios, que no sean casas de bolsa, instituciones y sociedades mutualistas de seguros e instituciones de fianzas, previa autorización de la Secretaría de Hacienda y Crédito Público y de acuerdo con las reglas generales que en su caso emita la citada Dependencia.
+Las instituciones de banca múltiple podrán invertir en el capital social de sociedades de inversión, sociedades operadoras de éstas, administradoras de fondos para el retiro y sociedades de inversión especializadas de fondos para el retiro en los términos de la legislación aplicable; además, cuando no formen parte de grupos financieros, en el de organizaciones auxiliares del crédito, e intermediarios financieros no bancarios, que no sean casas de bolsa, instituciones y sociedades mutualistas de seguros e instituciones de fianzas, previa autorización de la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
 
 Las solicitudes de autorización de las inversiones a que se refiere el párrafo anterior, deberán acompañarse del documento que precise las políticas para resolver el probable conflicto de interés que en la realización de sus operaciones con el público pudieren presentarse.
 
@@ -1898,8 +1898,6 @@ V. Las instituciones de banca múltiple estarán obligadas a proporcionar al Fon
 
 VI. Las sociedades que, con posterioridad a la fecha de constitución del Fondo, obtengan autorización para constituirse y operar como instituciones de banca múltiple de conformidad con la presente Ley, estarán obligadas a aportar al Fondo la cantidad inicial que determine la Secretaría de Hacienda y Crédito Público, a propuesta del Banco de México, mediante criterios de aplicación general que tomarán en cuenta, entre otros elementos, el monto de los pasivos y el nivel de capitalización de cada institución. Dicha cantidad inicial se empezará a cubrir desde que la sociedad inicie operaciones, en los términos que indique el comité técnico del Fondo.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 30 DE ABRIL DE 1996)</small>
-
 VII. El Banco de México cargará, en las cuentas que lleva a las instituciones de banca múltiple, el importe de las cuotas ordinarias y extraordinarias que éstas deban cubrir conforme a lo dispuesto en el presente artículo, precisamente en las fechas en que tales pagos deban efectuarse. Las cantidades así cargadas serán abonadas simultáneamente al Fondo.
 
 ###### ARTICULO 123.
@@ -2279,5 +2277,29 @@ D.O.F. 30 DE ABRIL DE 1996.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
+
+D.O.F. 23 DE MAYO DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto el artículo 76 de la Ley de los Sistemas de Ahorro para el Retiro, que entrará en vigor el día primero de enero de 2001.
+
+...
+
+###### ARTICULO DECIMO.
+
+El Presidente de la Comisión, previo acuerdo de la Junta de Gobierno, podrá autorizar la salida voluntaria de los sistemas de ahorro para el retiro de las instituciones de crédito que por ministerio de ley participen en los sistemas de ahorro para el retiro, siempre y cuando se cumplan los siguientes requisitos:
+
+I. Que exista solicitud por escrito de la persona interesada dirigida a la Comisión, en la cual aquélla exponga las causas o motivos por los cuales solicita la autorización para dejar de participar en los sistemas de ahorro para el retiro, acompañando las pruebas que considere convenientes en apoyo de su solicitud;
+
+II. Que a juicio de la Junta de Gobierno de la Comisión existan circunstancias económicas, jurídicas, técnicas u operativas que justifiquen la salida de los sistemas de ahorro para el retiro de la institución de crédito de que se trate; y
+
+III. Que los intereses de los trabajadores no sufran daño ni perjuicio alguno con motivo de la salida de los sistemas de ahorro para el retiro de la institución de crédito de que se trate.
+
+En relación con este requisito, la Comisión queda facultada para dictar e imponer las medidas que considere necesarias a fin de garantizar la protección de los trabajadores.
 
 ...
