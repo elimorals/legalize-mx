@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-practica-de-avaluos-fiscales-del-6377"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-11-20"
-last_updated: "1991-11-20"
+last_updated: "1995-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA PRACTICA DE AVALUOS FISCALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 1995.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el miércoles 20 de noviembre de 1991.
 
@@ -45,9 +45,17 @@ DISPOSICIONES FISCALES.
 
 El presente Reglamento es de órden público e interés general, tiene por objeto fijar las normas para la práctica de avalúos y reglamentar la actividad de los valuadores Fiscales Municipales y es de observancia general en todo el territorio del Municipio de Ensenada.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 2.
 
-Para los efectos de este Reglamento se entiende por avaluo fiscal el estudio técnico realizado por el valuador Profesional debidamente autorizado; que tiene por objeto determinar el valor comercial de un bien inmueble en función de la unidad monetaria, en fecha determinada para su aplicación como base en el cálculo de los impuestos que al efecto fijen las Leyes.
+Cuando un valuador incurra en violaciones al presente Reglamento y a cualquiera de las disposiciones que como auxiliar de la Administración Pública debe cumplir de acuerdo a lo previsto en la Legislación Municipal, el Tesorero podrá imponer las siguientes sanciones de acuerdo con la gravedad de la ofensa:
+
+I.- Amonestación Escrita.
+
+II.- Suspensión hasta por un año.
+
+III.- Cancelación del Registro.
 
 ###### ARTICULO 3.
 
@@ -257,11 +265,7 @@ II Multa de 100 a 500 salarios mínimos dependiendo de la gravedad, y en caso de
 
 ###### ARTICULO 21.
 
-El Ayuntamiento de considerarlo necesario de acuerdo a la gravedad de la falta podrá imponer.
-
-I Suspensión hasta por un año.
-
-II.- Cancelación del Registro.
+(DEROGADO, P.O. 3 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 22.
 
@@ -348,3 +352,9 @@ SECRETARIO GRAL. DEL AYUNTAMIENTO
 LIC. MARCO A. ESPONDA GAXIOLA.
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE NOVIEMBRE DE 1995.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
