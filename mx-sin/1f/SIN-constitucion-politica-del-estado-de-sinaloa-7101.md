@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1992-06-01"
+last_updated: "1993-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 1993.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -915,6 +915,18 @@ El Procurador General de Justicia no podrá desempeñar ningún otro cargo, empl
 
 La Ley Orgánica de la Procuraduría General de Justicia, reglamentará tanto a este órgano como a la Institución del Ministerio Público.
 
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE ENERO DE 1993)</small>
+
+#### SECCION II BIS. DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 1993)</small>
+
+###### Art. 77 Bis.
+
+Para conocer de las quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público del Estado o los Municipios, con excepción de los del Poder Judicial del Estado, violatorios de los derechos humanos, se establece una Comisión Estatal de Protección a los Derechos Humanos, cuya estructura, competencia y funcionamiento se establecerán en la Ley Orgánica respectiva.
+
+Este organismo formulará recomendaciones públicas autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas y no será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
+
 #### SECCION III. DE LA DEFENSORIA DE OFICIO
 
 > <small>(REFORMADO, P.O. 3 DE MAYO DE 1938)</small>
@@ -922,12 +934,6 @@ La Ley Orgánica de la Procuraduría General de Justicia, reglamentará tanto a 
 #### SECCION IV. DE LA HACIENDA PUBLICA
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 1963)</small>
-
-#### SECCION IV BIS. Art. 89 A. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
-
-Art. 89 B. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
-
-Art. 89 C. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
 
 ###### Art. 78.
 
@@ -941,9 +947,11 @@ El personal de la Defensoría de Oficio dependerá directamente del Gobernador d
 
 La Defensoría de Oficio se sujetará a las normas y lineamientos que señale el Reglamento respectivo.
 
-#### SECCION V. DE LA ENSEÑANZA PUBLICA
+#### SECCION IV BIS. Art. 89 A. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+Art. 89 B. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
+
+Art. 89 C. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
 
 ###### Art. 80.
 
@@ -995,13 +1003,13 @@ El Gobernador del Estado no podrá negarse a autorizar el pago de las órdenes l
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE ABRIL DE 1963)</small>
 
+#### SECCION V. DE LA ENSEÑANZA PUBLICA
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+
 #### SECCION I. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
 
 > <small>(REFORMADO, P.O. 22 DE ENERO DE 1990)</small>
-
-#### SECCION II. DE LOS JUECES DE 1ª INSTANCIA Y MENORES
-
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 90.
 
@@ -1031,9 +1039,9 @@ El Poder Judicial se ejercerá en el Estado por el Supremo Tribunal de Justicia,
 
 Los Magistrados y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
-#### SECCION III. DEL JURADO DE RESPONSABILIDADES
+#### SECCION II. DE LOS JUECES DE 1ª INSTANCIA Y MENORES
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 94.
 
@@ -1156,6 +1164,10 @@ X. Las demás que le confieran las leyes.
 ###### Art. 105.
 
 El Poder Judicial juzgará en todos los asuntos de su competencia, conforme con la Constitución General de la República, la particular del Estado y las leyes que de una y otra emanen, de preferencia a las leyes secundarias aunque éstas sean posteriores.
+
+#### SECCION III. DEL JURADO DE RESPONSABILIDADES
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
 
 ###### Art. 106.
 
@@ -2461,111 +2473,15 @@ P.O. 1 DE JUNIO DE 1992.
 
 El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-###### ARTÍCULO PRIMERO.
+P.O. 29 DE ENERO DE 1993.
 
-Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+###### ARTICULO PRIMERO.
 
-###### ARTÍCULO SEGUNDO.
+El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+###### ARTICULO SEGUNDO.
 
-G.G. 16 DE DICIEMBRE DE 2014.
-
-DECRETO NÚMERO 351, POR EL QUE SE REFORMAN EL ARTÍCULO 9, LA DENOMINACIÓN DEL CAPÍTULO II DEL SUBTÍTULO CUARTO DEL TÍTULO TERCERO, LOS ARTÍCULOS 270, 271 Y 272 Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 274 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 16 DE DICIEMBRE DE 2014.
-
-DECRETO NÚMERO 359, POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 118 Y UN PÁRRAFO CUARTO, RECORRIÉNDOSE EL SUBSECUENTE, AL ARTÍCULO 287 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno”.
-
-SEGUNDO.- El presente Decreto entrará en vigor a los cinco días siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 18 DE DICIEMBRE DE 2014.
-
-DECRETO NÚMERO 367, POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 124 Y EL CAPÍTULO XXI DENOMINADO "AUTORIZACIÓN DE BAILE DE CONTENIDO SEXUAL EN UNIDADES ECONÓMICAS" CON SU ARTÍCULO 148 QUÁTER, EN EL SUBTÍTULO SEGUNDO INTITULADO "DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA" DEL TÍTULO PRIMERO DENOMINADO "DELITOS CONTRA EL ESTADO" DEL LIBRO SEGUNDO DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
-
-SEGUNDO. El presente Decreto entrará en vigor a los 90 días naturales siguientes al de su publicación en el periódico oficial “Gaceta del Gobierno”.
-
-TERCERO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su respectiva competencia, deberán instalar en un plazo no mayor a los ciento ochenta días naturales a partir de la fecha de la entrada en vigor de este Decreto, la ventanilla de gestión, así como la ventanilla única.
-
-CUARTO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su competencia, proveerán lo necesario para instalar debidamente el Sistema de Unidades Económicas, a más tardar en el inicio del ejercicio fiscal siguiente, en tanto los municipios deberán seguir alimentando los registros a que hace referencia la Ley Orgánica Municipal del Estado de México.
-
-QUINTO. Los ayuntamientos que cuenten con unidades económicas que tengan como actividad principal la venta de vehículos automotores usados en tianguis de autos y/o que tengan como actividad principal el aprovechamiento de vehículos usados que han concluido su vida útil, deberán contar con las zonas especiales que haya autorizado la Secretaría de Desarrollo Urbano, para el establecimiento de éstas, a más tardar 120 días naturales después de la entrada en vigor del presente Decreto.
-
-SEXTO. Las gestiones, procedimientos y demás actos que se encuentren en trámite a los que se refieren esta Ley, al momento de la entrada en vigor de este Decreto se concluirán de conformidad con las disposiciones jurídicas vigentes hasta ese momento.
-
-SÉPTIMO. El Titular del Ejecutivo y los Ayuntamientos, en el ámbito de su competencia, expedirán las disposiciones reglamentarias respectivas a más tardar a los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
-
-OCTAVO. Se abroga la Ley que Regula las Casas de Empeño en el Estado de México, publicada en el Periódico Oficial “Gaceta del Gobierno” el 18 de julio de 2013.
-
-NOVENO. Para el cumplimiento del presente Decreto las áreas y dependencias involucradas se ajustarán al presupuesto y recursos humanos asignados para el ejercicio fiscal del año que transcurre.
-
-DÉCIMO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
-
-G.G. 18 DE DICIEMBRE DE 2014.
-
-DECRETO NÚMERO 368, POR EL QUE SE REFORMA EL PÁRRAFO TERCERO Y SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 218 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 26 DE ENERO DE 2015.
-
-DECRETO NÚMERO 393, POR EL QUE SE REFORMA EL ARTÍCULO 232 EN SU FRACCIÓN II DEL CÓDIGO PENAL ESTADO DE MÉXICO.
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO. El Ejecutivo, expedirá las reformas a las disposiciones del Reglamento del Libro Segundo del Código para la Biodiversidad, dentro del plazo de sesenta días naturales contados a partir de su entrada en vigor.
-
-CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se oponga (sic) al presente Decreto.
-
-QUINTO. El Ejecutivo Estatal, en el ámbito de su competencia, proveerá lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto, las disposiciones respectivas.
-
-G.G. 26 DE ENERO DE 2015.
-
-DECRETO NÚMERO 394, POR EL QUE SE REFORMAN LOS ARTÍCULOS 137 BIS EN SU FRACCIÓN II DEL SEGUNDO PÁRRAFO, 193 EN SUS PÁRRAFOS PRIMERO Y TERCERO, 229 EN SUS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO, 266 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO, 290 EN SUS FRACCIONES I EN SU PRIMER PÁRRAFO, II EN SU PRIMER PÁRRAFO, III, V, XVIII Y EL 292 EN SU SEGUNDO PÁRRAFO Y SE ADICIONA AL 193 UN CUARTO PÁRRAFO DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO. Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
-
-SEGUNDO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno", con excepción de la reforma al párrafo tercero del artículo 193 del Código Penal del Estado de México, por el que se impone de tres meses a un año de prisión al que maneje o utilice un vehículo de motor sin ambas placas de circulación o la autorización para circular, la cual, entrará en vigor a los seis meses posteriores a la publicación del presente Decreto.
-
-TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
-
-G.G. 10 DE ABRIL DE 2015.
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
-
-SEGUNDO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno".
-
-TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
-
-G.G. 8 DE MAYO DE 2015.
-
-DECRETO NÚMERO 430 POR EL QUE SE ADICIONA UN CAPÍTULO VIII DENOMINADO "SIMULACIÓN DE VEHÍCULO OFICIAL PERTENECIENTE A INSTITUCIONES DE SEGURIDAD PÚBLICA O AL SERVICIO PÚBLICO DE EMERGENCIA" DEL SUBTITULO IV, TÍTULO PRIMERO, LIBRO SEGUNDO Y EL ARTÍCULO 177 BIS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
-
-G.G. 8 DE MAYO DE 2015.
-
-DECRETO NÚMERO 431, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 124 Y SE ADICIONAN UN PÁRRAFO TERCERO AL ARTÍCULO 124 Y EL ARTÍCULO 124 BIS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 25 DE JUNIO DE 2015.
+El Congreso del Estado dispondrá de un término de 45 (cuarenta y cinco) días siguientes a la entrada en vigor de este Decreto, para expedir la Ley Orgánica respectiva.
 
 ###### ARTICULO PRIMERO.
 
