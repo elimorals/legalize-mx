@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-los-tribunales-agrarios-120"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-05-13"
-last_updated: "1995-02-10"
+last_updated: "1997-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-05-08"
 
 REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE FEBRERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JULIO DE 1997.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 13 de mayo de 1992.
 
@@ -281,11 +281,13 @@ De promoverse la excitativa porque el proyecto de resolución no ha sido present
 
 El presidente del Tribunal Superior será designado por el Tribunal Superior, durará en sus funciones tres años y podrá ser reelecto.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 07 DE JULIO DE 1997)</small>
 
 ###### Artículo 26.
 
-El Presidente rendirá un informe anual ante el Tribunal Superior y los magistrado de los tribunales unitario, para dar cuenta al estado que guarde la administración de la justicia agraria, de la jurisprudencia, de los principales precedentes y para formular recomendaciones tendientes a la actualización y modernización de los tribunales agrarios.
+El Presidente rendirá un informe anual ante el Tribunal Superior y los magistrado de los Tribunales Unitario, para dar cuenta al estado que guarde la administración de la justicia agraria, de la jurisprudencia, de los principales precedentes y para formular recomendaciones tendientes a la actualización y modernización de los tribunales agrarios.
+
+El periodo que comprenda este informe comprenderá al año calendario que va del 1o. de enero al 31 de diciembre; en consecuencia deberá presentarse durante el primer trimestre de cada año.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
@@ -996,3 +998,9 @@ D.O.F. 10 DE FEBRERO DE 1995.
 Segundo.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Tercero.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Boletín Judicial de la Federación.
+
+D.O.F. 7 DE JULIO DE 1997.
+
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación.
