@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1929-02-02"
+last_updated: "1929-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 1929.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1929.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -383,11 +383,11 @@ Las sesiones tanto ordinarias como extraordinarias, serán públicas; pero cuand
 
 Podrán asistir a las sesiones entre los Diputados, los Magistrados del Tribunal Superior, el Procurador General de Justicia, el Secretario de Gobierno y el Tesorero General. Quedan obligados a asistir a dichas sesiones, estos Funcionarios, cuando para ello fueren llamados por el Congreso. Harán uso de la palabra, como los Diputados, pero no tendrán voto.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1929)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1929)</small>
 
 ###### Artículo 44.
 
-El Congreso del Estado, se renovará en su totalidad, cada cuatro años.
+El Congreso del Estado, se renovará en su totalidad, cada dos años.
 
 ###### Artículo 45.
 
@@ -1082,3 +1082,7 @@ Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación.
 P.O. 2 DE FEBRERO DE 1929.
 
 Este Decreto surtirá sus efectos, a partir de la fecha de su publicación.
+
+P.O. 14 DE AGOSTO DE 1929.
+
+Este Decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación.
