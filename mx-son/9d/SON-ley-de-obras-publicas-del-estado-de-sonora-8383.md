@@ -4,7 +4,7 @@ identifier: "SON-ley-de-obras-publicas-del-estado-de-sonora-8383"
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-23"
-last_updated: "1984-08-23"
+last_updated: "1986-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE JUNIO DE 1986.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, el jueves 23 de agosto de 1984.
 
@@ -65,11 +65,23 @@ I.- Secretaría: La Secretaría de Planeación del Desarrollo.
 
 II.- Contraloría: La Secretaría de la Contraloría General del Estado.
 
-III.- Dependencias: Las mencionadas la Ley Orgánica del Poder Ejecutivo del Estado de Sonora.
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 1986)</small>
 
-IV.- Entidades: Los organismos descentralizados, empresas de participación mayoritaria y los fideicomisos del Estado y de los Municipios.
+III.- Dependencias. Las mencionadas el Artículo 22 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora.
+
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 1986)</small>
+
+IV.- Entidades: Las señaladas en los Artículos 35, 36 y 38 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora
 
 V.- Ayuntamientos: Los Ayuntamientos de los Municipios del Estado.
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 1986)</small>
+
+VI.- Sector: El agrupamiento de entidades coordinado por la dependencia que, en cada caso, designe el Gobernador del Estado.
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 1986)</small>
+
+VII.- Dependencias Coordinadas por Sector: Las dependencias a que se refiere la fracción anterior.
 
 ###### ARTICULO 4o.
 
@@ -83,23 +95,41 @@ Estarán sujetos también a las normas de esta ley, en los términos que las mis
 
 El Ejecutivo del Estado en el ámbito de su competencia aplicará la presente ley por conducto de la Secretaría, sin perjuicio de la intervención que se atribuye a otras dependencias del propio Ejecutivo conforme a ésta o a otras disposiciones legales.
 
-La Secretaría expedirá las disposiciones administrativas que en aplicación de la presente Ley, deberán observarse en la contratación y ejecución de las obras.
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
 
-###### ARTICULO 7o.
+La Secretaría queda facultada para interpretar la presente Ley para efectos administrativos, así como para expedir las disposiciones complementarias que requiera la observancia de la misma.
 
-Los Ayuntamientos de la Entidad aplicarán la presente Ley en el ámbito de su competencia por conducto del órgano que determinen.
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1986)</small>
 
-###### ARTICULO 8o.
+Los Ayuntamientos aplicarán el presente ordenamiento, en el ámbito de su competencia, por conducto del órgano que determinen. Igualmente, de conformidad con lo establecido en esta Ley y en el Reglamento que de la misma expida el Gobernador del Estado, podrán emitir las normas complementarias que se requieran para la observancia de dichas disposiciones.
 
-La ejecución de las obras públicas con cargo total o parcial a fondos estatales conforme a los convenios entre el Ejecutivo Estatal y los Ayuntamientos, estará sujeta a las disposiciones de esta ley. Para estos efectos se pactará lo conducente en los mencionados convenios, con la participación que, en su caso, corresponda a los grupos sociales beneficiados por las obras.
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
 
-###### ARTICULO 9o.
+###### ARTICULO 7º.
 
-El Gobierno del Estado y los Gobiernos Municipales por conducto de sus órganos competentes formularán un inventario de la maquinaría y equipo de construcción a su cuidado o de su propiedad y lo mantendrán actualizado. Asimismo, llevarán el catálogo y archivos de los estudios y proyectos que realicen sobre las obras públicas.
+Para lleva a cabo los actos relativos a la planeación, el diseño y la construcción de las obras públicas, los titulares de las dependencias y entidades y los ayuntamientos, en el ámbito de sus respectivas competencias, serán responsables de delegar facultades en funcionarios y empleados, de tal manera que los sistemas y procedimientos resulten ágiles y flexibles, a efecto de garantizar mayor oportunidad en la toma de decisiones y flexibilidad de diferenciación en la atención de los asuntos, considerando monto de recursos económicos, complejidad, ocasionalidad y mayor o menor vinculación con las prioridades de dichos asuntos.
+
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
+
+###### ARTICULO 8º.
+
+La ejecución de las obras públicas, con cargo total o parcial a fondos estatales, conforme a los convenios que se celebren entre el Ejecutivo Estatal y los Ayuntamientos, estará sujeta a las normas que, para la ejecución de obras públicas estatales, establecen esta Ley, su Reglamento y las demás disposiciones aplicables.
+
+En los mencionados convenios, se deberá especificar la intervención que les corresponda a las dependencias y entidades respectivas. Asimismo, se pactará, en su caso, la participación de los grupos sociales beneficiados con las obras.
+
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
+
+###### ARTICULO 9º.
+
+Cuando por las condiciones especiales de una obra, se requiera la intervención de dos o más dependencias o entidades, quedará a cargo de cada una de ellas la responsabilidad sobre la ejecución de la parte de la obra que le corresponda, sin perjuicio de la responsabilidad que, en razón de sus atribuciones, tenga la encarga de la planeación y programación de la obra en su conjunto.
+
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
 
 ###### ARTICULO 10.
 
-El Gobierno del Estado y los Gobiernos Municipales por conducto de sus órganos competentes elaborarán un inventario de la obra pública existente, así como del estado que guarda cada una de ellas, para efectos de programación.
+Las dependencias y entidades y los ayuntamientos, por conducto de sus órganos competentes, formularán y mantendrán actualizados los inventarios de maquinaria y equipo de construcción a su cuidado o de su propiedad, así como de las obras públicas existentes y del estado que guarda cada una de ellas. Igualmente, llevarán a catálogo y archivo de los estudios y proyectos que realicen sobre las obras públicas.
+
+En el ámbito estatal, las entidades enviarán la información a que se refiere el párrafo anterior a la dependencia coordinadora del sector correspondiente, a efecto de que ésta integre los respectivos inventarios y catálogos sectoriales, copia de los cuales deberán enviarse periódicamente a la Secretaría, sin perjuicio de las facultades que, en materia de inventarios, correspondan a otra dependencia.
 
 ### CAPITULO II. DE LA PLANEACION, PROGRAMACION Y PRESUPUESTACION DE LAS OBRAS
 
@@ -107,9 +137,13 @@ El Gobierno del Estado y los Gobiernos Municipales por conducto de sus órganos 
 
 En la planeación de las obras públicas los Gobiernos Estatal y Municipales deberán:
 
-I.- Ajustarse a los objetivos y prioridades de sus Planes de Desarrollo y de los Programas Sectoriales, Institucionales, Regionales y Especiales, en su caso, de acuerdo con las estimaciones de recursos y las determinaciones sobre instrumentos y responsables de su ejecución, contenidas en los Planes y Programas mencionados.
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 1986)</small>
 
-II.- Ajustarse a las previsiones contenidas en los programas anuales que se elaboren para la ejecución de los Planes y Programas señalados a que se refiere la fracción anterior.
+I.- Ajustarse a los objetivos, estrategias y prioridades de sus Planes de Desarrollo y de los Programas Sectoriales, Institucionales, Regionales y Especiales, en su caso, de acuerdo con las estimaciones de recursos y las determinaciones sobre instrumentos y responsables de su ejecución, contenidas en los planes y programas mencionados.
+
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 1986)</small>
+
+II.- Ajustarse a las previsiones contenidas en los programas operativos anuales que elaboren para la ejecución del plan y los programas señalados en la fracción anterior.
 
 III.- Ajustarse a los objetivos, metas y previsiones de recursos establecidos en sus respectivos Presupuestos de Egresos.
 
@@ -119,7 +153,13 @@ V.- Respetar las disposiciones legales y reglamentarias y tomar en consideració
 
 VI.- Señalar las unidades responsables de su ejecución.
 
-Asimismo, los Programas y Presupuestos deberán incluir, las acciones y recursos para llevar a cabo el proceso de planeación y de programación y presupuestación de las obras a que se refiere este Capítulo. En el caso de las dependencias y entidades de la Administración Pública Estatal, deberán remitir dichos programas y presupuestos a la Secretaría, en los plazos que ésta determine.
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 1986)</small>
+
+V.- Respetar las disposiciones legales y reglamentarias correspondientes; y
+
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 1986)</small>
+
+VI.- Señalar las unidades responsables de su ejecución.
 
 ###### ARTICULO 12.
 
@@ -141,13 +181,25 @@ VII.- Preferentemente, el empleo de los recursos humanos y la utilización de lo
 
 VIII.- La participación, en su caso, de los grupos sociales para concertar la ejecución de la obra.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
+
 ###### ARTICULO 13.
 
-Serán elementos de la obra pública, las investigaciones, las asesorías y las consultorías especializadas, así como los proyectos, estudios técnicos y de preinversión que requiera su realización.
+Las dependencias y entidades y los ayuntamientos elaborarán los programas globales de obra pública y sus respectivos presupuestos, tomando en consideración lo dispuesto en los artículos 11 y 12 que anteceden. Estos programas y presupuestos, deberán incluir las acciones y recursos para llevar a acabo el proceso de planeación y de programación y presupuestación de las obras.
+
+En el ámbito estatal, las entidades remitirán sus programas de obra pública a la dependencia coordinadora del sector en el que se encuentren agrupadas, en la fecha que ésta señale. Dichas dependencias coordinadoras de sector y, en su caso, las entidades que no se encuentren agrupadas en sector alguno, enviarán a la Secretaría los respectivos programas de obra pública en la fecha que ésta determine, para verificar la relación que guarden dichos programas con los objetivos y prioridades del plan y los programas de desarrollo estatal.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1986)</small>
+
+ARTICULO 13 BIS.- En la programación de las obras públicas, las dependencias y entidades y los ayuntamientos preverán la realización de los estudios y proyectos arquitectónicos y de ingeniería que se requieran, así como las normas y especificaciones de ejecución aplicables.
+
+El programa de la obra pública indicará las fechas previstas de iniciación y terminación de todas sus fases, considerando las acciones previas a su iniciación y las características ambientales, climáticas y geográficas de la región donde deba realizarse.
+
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
 
 ###### ARTICULO 14.
 
-Los programas de obra pública indicarán las fechas previstas de iniciación y terminación de todas sus fases, considerando las acciones previas a su iniciación y las características ambientales, climáticas y geográficas de la región donde deban realizarse.
+Serán elementos de la obra pública, las investigaciones, las asesorías y las consultorías especializadas, así como los proyectos, estudios técnicos y de preinversión que requiera su realización.
 
 ###### ARTICULO 15.
 
@@ -171,9 +223,27 @@ VII.- Las demás previsiones que deban tomarse en consideración según la natur
 
 En el caso de obras cuya ejecución rebase un ejercicio presupuestal, deberá determinarse tanto el presupuesto total de la obra, como el relativo a los ejercicios siguientes.
 
-### CAPITULO III. DE LA EJECUCION DE LAS OBRAS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 1986)</small>
 
-### CAPITULO IV. DE LA VIGILANCIA, INSPECCION Y CONTROL DE LA EJECUCION DE OBRAS PUBLICAS
+### CAPITULO II BIS. DE LOS SERVICIOS RELACIONADOS CON LA OBRA PUBLICA
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1986)</small>
+
+###### ARTICULO 16-A.
+
+Las dependencias y entidades y los ayuntamientos podrían contratar servicios relacionados con las obras públicas, siempre que se trate de servicios profesionales de investigación y consultaría y asesorías especializadas, estudios y proyectos para cualesquiera de las fases de la obra pública, así como de supervisión.
+
+Los contratos a que se refiere este articulo podrán adjudicarse directamente, bajo la responsabilidad de la dependencia, entidad o ayuntamiento contratante, quedando en lo demás sujetos a las disposiciones de esta Ley y a las normas que de ella se deriven.
+
+Las dependencias y entidades y los ayuntamientos que requieran contratar o realizar estudios o proyectos, primero verificarán si en sus archivos o en los de las entidades o dependencias afines, en el caso de la Administración Pública Estatal, existen estudios o proyectos sobre la materia. De resultar positiva la verificación y de comprobarse que el estudio o proyecto localizado satisface los requerimientos de la entidad, dependencia o del ayuntamiento correspondiente, no procederá la contratación.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1986)</small>
+
+###### ARTICULO 16-B.
+
+No quedan comprendidos dentro de los servicios a que se refiere el artículo anterior los que tengan como fin la ejecución de la obra por cuenta y orden de las dependencias o entidades o de los ayuntamientos, por lo que no podrán celebrarse contratos de servicio para tal objeto.
+
+### CAPITULO III. DE LA EJECUCION DE LAS OBRAS
 
 ###### ARTICULO 17.
 
@@ -193,13 +263,17 @@ IV.- Cuando sea necesario, el acuerdo de los beneficiarios directos, determinand
 
 V.- La forma y términos en que se llevará a cabo la administración y el mantenimiento de la obra.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE JUNIO DE 1986)</small>
+
 ###### ARTICULO 19.
 
-Los contratos de obra pública se adjudicarán o llevarán a cabo, a través de licitación pública, mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al estado o a los ayuntamientos las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a lo que establece la presente ley.
+Los contratos de obra pública se adjudicarán, salvo las excepciones expresamente señaladas en este ordenamiento, a través de licitación pública, mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al Estado o a los Ayuntamientos las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a lo que establece la presente Ley.
 
 Se exceptúan de lo dispuesto en el párrafo anterior, aquellos casos en que el contrato sólo pueda celebrarse con una determinada persona, por ser el titular de la o las patentes necesarias para realizar la obra.
 
-En el caso de las dependencias y entidades de la Administración Pública Estatal y en el supuesto que previene el primer párrafo de este articulo, deberán las mismas enviar la convocatoria a la Secretaría y a la Contraloría en el momento en que aquélla sea expedida y remitirán además, los documentos que éstas requieran.
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
+
+Las dependencias, en el supuesto a que se refiere el primer párrafo de este artículo, deberán enviar copia de la convocatoria a la Contraloría en el momento en que aquélla sea expedida, así como lo otros documentos que ésta requiera. Las entidades, además de cumplir con las obligaciones anteriores, deberán remitir dicha documentación a la dependencia coordinadora de sector que corresponda.
 
 ###### ARTICULO 20.
 
@@ -215,9 +289,21 @@ IV.- Información sobre los anticipos.
 
 V.- La fecha límite para la inscripción en el proceso de adjudicación, que deberá fijarse en un plazo no menor de diez días hábiles contados a partir de la fecha de la publicación de la convocatoria.
 
-VI.- El lugar, fecha y hora en que se celebrará el acto de apertura de proposiciones, y
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 1986)</small>
 
-VII.- Los criterios conforme a los cuales se decidirá la adjudicación.
+VI.- El lugar, fecha y hora en que se celebrará el acto de apertura de proposiciones.
+
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 1986)</small>
+
+VII.- Los criterios conforme a los cuales se decidirá la adjudicación; y
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 1986)</small>
+
+VIII.- La especialidad que se requiera parta participar en el concurso, de acuerdo al padrón de contratistas de obras públicas correspondiente.
+
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
+
+En el ejercicio de sus respectivas atribuciones, la Contraloría y las dependencias coordinadoras de sector podrán intervenir en todo el proceso de adjudicación del contrato.
 
 En el ejercicio de sus respectivas atribuciones, la Secretaría y la Contraloría podrán intervenir en todo el proceso de adjudicación del contrato.
 
@@ -251,7 +337,9 @@ Para la cuantificación de los montos a que se refieren los Artículos que antec
 
 Los ayuntamientos y las dependencias y entidades de la Administración Pública Estatal, bajo su responsabilidad, podrán realizar o contratar sin llevar a cabo las licitaciones que establece el Artículo 19, siempre y cuando atiendan a las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez, las obras que se requieran en los supuestos que a continuación se señalan:
 
-I.- Cuando existan condiciones o circunstancias extraordinarias e imprevisibles.
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 1986)</small>
+
+I.- Cuando existan condiciones o circunstancias extraordinarias o impremsibles (sic).
 
 II.- Cuando peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado, como consecuencia de desastres producidos por fenómenos naturales, o por casos fortuitos o de fuerza mayor. En estos casos las dependencias y entidades o los Ayuntamientos se coordinarán, según proceda, con las dependencias competentes.
 
@@ -279,17 +367,19 @@ II.- La correcta inversión de los anticipos que, en su caso, reciban, y
 
 III.- El cumplimiento de los contratos.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
+
 ###### ARTICULO 28.
 
-El Gobernador del Estado establecerá las normas generales a que se sujetarán las garantías que deban constituirse a favor de las dependencias y entidades estatales en los contratos de obras públicas que celebren. Los ayuntamientos realizarán lo conducente en su ámbito de competencia.
+Las garantías que deban otorgar los contratistas de obras públicas y de servicios relacionados con las mismas, se constituirán a favor y a satisfacción de:
 
-Las garantías que deban otorgar los contratistas de obra pública y de servicio relacionados con las mismas, se constituirán:
+I.- La Tesorería General del Estado, por actos o contratos que celebren con las dependencias.
 
-I.- En el ámbito estatal, a favor de la Tesorería General del Estado.
+II.- Las entidades, cuando los actos o contratos se celebren con ellas.
 
-II.- En el ámbito municipal, a favor de las tesorerías municipales respectivas.
+III.- Las tesorerías municipales respectivas, por actos o contratos que celebren con los Ayuntamientos; y
 
-III.- En el supuesto a que se refiere el Artículo 8o. de esta Ley, las garantías se otorgarán a favor de las Tesorerías Municipales que correspondan.
+IV.- Las Tesorerías Municipales, en el supuesto a que se refiere el Artículo 8º de esta Ley.
 
 ###### ARTICULO 29.
 
@@ -335,47 +425,71 @@ El contratista a quien se adjudique el contrato, no podrá hacer ejecutar la obr
 
 Las dependencias y entidades de la Administración Pública Estatal comunicarán a la Secretaría y a la Contraloría la adjudicación y firma de los contratos de obra pública. A la vez dentro de los diez días hábiles siguientes a la fecha de iniciación de los trabajos, ya sea que éstos se realicen por contrato o administración directa, comunicarán tal iniciación a la Secretaría y a la Contraloría.
 
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1986)</small>
+
+En el caso de las entidades, éstas deberán de proporcionar, además, a la dependencia coordinadora de sector que corresponda, la información referida en el párrafo que antecede.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE JUNIO DE 1986)</small>
+
 ###### ARTICULO 34.
 
-Los contratos de obra a que se refiere esta ley se celebrarán a precio alzado o sobre la base de precios unitarios.
+Los contratos de obra a que se refiere esta Ley se celebrarán sobre la base de precios unitarios a precio alzado.
 
-Se entenderá por precio unitario, el importe de la remuneración o pago total que deba cubrirse al contratista por unidad o parte de la obra, realizadas conforme a las especificaciones establecidas en el contrato relativo.
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
+
+Se entenderá por precio unitario, el importe de la remuneración o pago total que debe cubrirse al contratista por unidad de concepto de trabajo terminado, ejecutado conforme al proyecto, a las especificaciones de construcción y a las normas de calidad relativas. Asimismo, se entenderá por precio alzado, el importe de la remuneración o pago total fijo que deba cubrirse al contratista por la obra terminada, ejecutada conforme al proyecto, a las especificaciones de construcción y a las normas de calidad correspondientes.
 
 Formarán parte del contrato la descripción pormenorizado de la obra que se deba ejecutar, así como los proyectos, planos, especificaciones, programas y presupuestos correspondientes.
 
-En los contratos a que se refiere el párrafo anterior, podrán incorporarse las modalidades que tiendan a garantizar al Estado o a los Ayuntamientos, las mejores condiciones de ejecución de la obra.
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
+
+En los contratos a que se refiere este Artículo, podrán incorporarse las modalidades que tiendan a garantizar al Estado o a los Ayuntamientos, las mejores condiciones de ejecución de la obra.
 
 ###### ARTICULO 35.
 
 La ejecución de la obra contratada deberá iniciarse en la fecha señalada, y para ese efecto, las dependencias y entidades de la Administración Pública Estatal o los ayuntamientos contratantes, oportunamente pondrán a disposición del contratista el o los inmuebles en que deba llevarse a cabo.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
+
 ###### ARTICULO 36.
 
-Las dependencias y entidades de la Administración Pública Estatal y los Ayuntamientos podrán, dentro del programa de inversiones aprobado, bajo su responsabilidad y por razones fundadas y explícitas, modificar los contratos de obras públicas o de servicios relacionados con las mismas, mediante convenios, siempre y cuando éstos, considerados conjunta o separadamente, no rebasen el 25% del monto o del plazo pactado en el contrato, ni impliquen variaciones substanciases al proyecto original.
+Las dependencias y entidades de la Administración Pública Estatal y los Ayuntamientos podrán, dentro del programa de inversiones aprobado, bajo su responsabilidad y por razones fundadas y explícitas, modificar los contratos de obras públicas o de servicios relacionados con las mismas, mediante la celebración de contratos adicionales, siempre y cuando éstos, considerados conjunta o separadamente, no rebasen el 25% del monto o del plazo pactado en los contratos originales, ni impliquen variaciones substanciales los proyectos relativos.
 
-> <small>(F. DE E., 23 DE MAYO DE 1985)</small>
-
-Si las modificaciones exceden el porcentaje indicado o varían substancialmente el proyecto, se deberá celebrar, por una sola vez, un convenio adicional entre las partes respecto de las nuevas condiciones, en los términos del Artículo 18. Este convenio adicional deberá ser autorizado por el titular de la dependencia o entidad estatal o los ayuntamientos según corresponda. Dichas modificaciones no podrán, en modo alguno, afectar las condiciones que se refieran a la naturaleza y características esenciales de la obra objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de la ley.
+Si las modificaciones exceden el porcentaje indicado o varían substancialmente el proyecto, se deberá celebrar, por una sola vez, un contrato adicional entre las partes respecto de las nuevas condiciones, en los términos del artículo 18 de eta Ley. Este contrato adicional deberá ser autorizado por el titular de la dependencia o entidad o por los ayuntamientos según corresponda. Dichas modificaciones no podrán, en modo alguno, afectar las condiciones que se refieran a la naturaleza y características esenciales de la obra pública objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de la Ley.
 
 De las modificaciones a que se refiere el párrafo anterior, el titular de la dependencia o entidad informará a la Secretaría y a la Contraloría, en un plazo no mayor de diez días hábiles contados a partir de la fecha en que se hubiere formalizado la modificación.
 
+En el caso de las entidades, éstas deberán de proporcionar, además, a la dependencia coordinadora de sector que corresponda, la información requerida en el párrafo que antecede.
+
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
+
 ###### ARTICULO 37.
 
-Las dependencias y entidades de la Administración Pública Estatal y los Ayuntamientos solamente podrán suspender temporalmente en todo o en parte la obra contratada, por causa justificada.
+Las dependencias y entidades y los ayuntamientos podrán suspender temporalmente, en todo o en parte, la obra contratada, por causa justificada.
 
-El Ejecutivo del Estado y los Ayuntamientos deberán informar de las causas que motivaron la suspensión de la obra al rendir sus cuentas públicas. Para estos efectos, en el ámbito estatal, las dependencias y entidades deberán comunicar a la Secretaría ya la Contraloría tales hechos y en el ámbito municipal, las dependencias y entidades lo comunicarán a la dependencia que el Ayuntamiento respectivo señale.
+El Ejecutivo del Estado y los Ayuntamientos, deberán informar de las causas que motivaron la suspensión de la obra al rendir sus cuentas públicas.
+
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
 
 ###### ARTICULO 38.
 
-Las dependencias y entidades de la Administración Pública Estatal y los Ayuntamientos, podrán rescindir administrativamente los contratos de obra por razones de interés general o por contravención de los términos del contrato o de las disposiciones de esta ley.
+Las dependencias y entidades y los ayuntamientos, podrán rescindir administrativamente los contratos de obra por razones de interés general o por contravención de los términos del contrato, de esta Ley o de las disposiciones que se deriven de ella.
+
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
 
 ###### ARTICULO 39.
 
-En los contratos de obra pública se estipularán las diversas consecuencias de la suspensión y de la rescisión.
+Las dependencias y entidades comunicarán la suspensión o la rescisión del contrato al contratista, a la Secretaría y a la Contraloría. En el caso de las entidades, éstas también deberán informar tales circunstancias a la dependencia coordinadora de sector que corresponda.
+
+En los contratos se estipularán las diversas consecuencias de la suspensión y de la rescisión.
+
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
 
 ###### ARTICULO 40.
 
-Las estimaciones de trabajos ejecutados correspondientes a contratos en ejercicio, se formularán y autorizarán bajo la responsabilidad de la dependencia o entidad contratante. En la Administración Pública Estatal las dependencias y entidades darán aviso a la Secretaría dentro de los diez días hábiles siguientes a la autorización de dichas estimaciones, para efectos de seguimiento y evaluación de la obra pública.
+Las estimaciones de trabajos ejecutados correspondientes a contratos en ejercicio, se formularán y autorizarán bajo la responsabilidad de las dependencias o entidades contratantes.
+
+En el ámbito municipal, los ayuntamientos determinarán cuál de sus dependencias formulará y autorizará las estimaciones a que se refiere este Artículo.
 
 ###### ARTICULO 41.
 
@@ -387,65 +501,91 @@ El contratista comunicará a las dependencias y entidades de la Administración 
 
 La recepción de los trabajos se hará mediante acta pormenorizada dentro de los treinta días hábiles siguientes a la fecha en que se haya constatado la terminación de los trabajos en los términos del párrafo anterior.
 
-Las dependencias o entidades estatales comunicarán a la Secretaría y a la Contraloría la terminación de los trabajos y, con anticipación no menor de diez días hábiles les informarán la fecha señalada para su recepción, a fin de que, si lo estiman conveniente, nombren representante que asista al acto.
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
 
-En la fecha señalada las dependencias y entidades de la Administración Pública Estatal o los Ayuntamientos recibirán los trabajos bajo su responsabilidad y levantarán el acta correspondiente con o sin la comparecencia en el caso de las dependencias o entidades estatales y de los representantes a que se refiere el párrafo anterior. En el ámbito de la Administración Pública Estatal, las dependencias y entidades remitirán copia de dicha acta a la Secretaría y a la Contraloría.
+Las dependencias y entidades comunicarán a la Contraloría la terminación de los trabajos y, con una anticipación no menor de diez días hábiles, le informarán a dicha dependencia la fecha señalada para su recepción a fin de que, si lo estima conveniente, nombre representante que asista al acto. Para los mismos efectos, las entidades, en igual plazo, comunicarán lo anterior a la dependencia coordinadora de sector que corresponda.
+
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
+
+En la fecha señalada, las dependencias y entidades o los ayuntamientos, recibirán los trabajos bajo su responsabilidad y levantarán el acta correspondiente con o sin la comparecencia, en el caso de las dependencias o entidades estatales, de los representantes a que se refiere el párrafo anterior. Las dependencias y entidades remitirán copia de dicha acta a la Contraloría.
 
 ###### ARTICULO 43.
 
 Concluida la obra, no obstante su recepción formal, el contratista quedará obligado a responder de los defectos que resultaron en la misma, de los vicios ocultos, y de cualquiera otra responsabilidad en que hubiere incurrido, en los términos señalados en el contrato respectivo y en el Código Civil del Estado.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
+
 ###### ARTICULO 44.
 
-Los contratos que con base en la presente ley, celebren las dependencias, y entidades de la Administración Pública Estatal y los ayuntamientos, se considerarán de derecho público.
+Los contratos que con base en la presente Ley, celebren las dependencias, las entidades o los ayuntamientos, se considerarán de derecho público.
 
-Las controversias que se susciten con motivo de la interpretación o aplicación de esta ley o de los contratos celebrados, serán resueltas por los Tribunales.
+Las controversias que se susciten con motivo de la interpretación o aplicación de esta Ley, de las disposiciones que se deriven de la misma o de los contratos celebrados, serán resueltas por el Tribunal de lo Contencioso Administrativo del Estado de Sonora.
+
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
 
 ###### ARTICULO 45.
 
-Una vez concluida la obra o parte utilizable de la misma, las dependencias y entidades de la Administración Pública Estatal o los Ayuntamientos según corresponda, vigilarán que la unidad que deba operarla, reciba oportunamente de la responsable de su realización el inmueble en condiciones de operación, los planos autorizados, las normas y especificaciones que fueron aplicadas en la ejecución, así como los manuales e instructivos de operación, conservación y mantenimiento correspondientes, en su caso.
+En los términos del Artículo 17 de esta Ley, las dependencias y entidades y los ayuntamientos podrán ejecutar obras por administración directa; previamente a la ejecución de éstas obras, emitirán el acuerdo respectivo, del cual formarán parte: La descripción pormenorizada de la obra que se desea ejecutar, los proyectos, los planos, las especificaciones, los programas de ejecución y suministro y el presupuesto correspondiente.
+
+Las dependencias y entidades comunicarán periódicamente a la Secretaría el avance físico y financiero de las obras ejecutadas por administración directa y los costos relativos. Además, las entidades deberán remitir a la dependencia coordinadora de sector que corresponda, la información indicada en este párrafo.
+
+En la ejecución de estas obras son aplicables, en lo conducente, las disposiciones contenidas en los artículos 36, 37, 41, 42 y 47 de esta Ley.
+
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
 
 ###### ARTICULO 46.
 
-En los términos del Artículo 17 de esta ley las dependencias y entidades de la Administración Pública Estatal y los Ayuntamientos podrán ejecutar obras por administración directa. Previamente a la ejecución de estas obras se deberá emitir el acuerdo respectivo, mismo que en el ámbito estatal se deberá hacer del conocimiento de la Secretaría y de la Contraloría, comunicándoles periódicamente además, el avance físico, los gastos efectuados y la terminación de las obras.
+Una vez concluida la obra o parte utilizable de la misma, las dependencias, las entidades o los ayuntamientos, vigilarán que la unidad que deba operarla reciba oportunamente de la responsable de su realización, el inmueble en condiciones de operación, los planos actualizados, las normas y especificaciones que fueron aplicadas en la ejecución, así como los manuales e instructivos de operación, conservación y mantenimiento correspondientes en su caso.
 
-Las dependencias y entidades ejecutoras podrán, dentro del programa de inversión aprobado, previa autorización por escrito de la Secretaría o de los Ayuntamientos, según corresponda, modificar los acuerdos de obra por administración directa cuando no impliquen alteraciones en el plazo o en el monto, ni variaciones sustanciales al proyecto.
+> <small>(REFORMADA SU DENOMINACION, B.O. 30 DE JUNIO DE 1986)</small>
 
-### CAPITULO V. DEL PADRON DE CONTRATISTAS DE OBRA PUBLICA DEL ESTADO
+### CAPITULO IV. DEL CONTROL, DE LA INFORMACION Y DE LA VERIFICACION
+
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
 
 ###### ARTICULO 47.
 
-Las dependencias y entidades de la Administración Pública Estatal deberán remitir a la Secretaría y a la Contraloría en la forma y términos que éstas señalen, la información relativa a las obras públicas que realicen o contraten. La Secretaría y la Contraloría podrán solicitar en todo tiempo la documentación completa y específica relativa a cualquier obra.
+Las dependencias y entidades deberán remitir a la Secretaría y a la Contraloría, en la forma y términos que éstas señalen, la información relativa a las obras que realicen o contraten.
+
+Las entidades remitirán, además, a la dependencia coordinadora de sector que corresponda, la información que ésta requiera para el debido cumplimiento de sus atribuciones.
+
+La Secretaría, la Contraloría y, en su caso, las dependencias coordinadoras de sector, podrán solicitar en todo tiempo la documentación completa y específica relativa a cualquier obra, coordinándose en el ejercicio de estas facultades.
+
+Para los efectos del párrafo anterior, las dependencias y entidades conservarán, en forma ordenada y sistemática, toda la documentación relacionada con las obras que realicen o contraten, cuando menos por un lapso de cinco años.
 
 ###### ARTICULO 48.
 
 Las dependencias y entidades de la Administración Pública Estatal controlarán todas las fases de las obras públicas a su cargo. Para estos efectos establecerán los instrumentos y procedimientos de control que se requieran, de acuerdo con las normas que dicte el Gobernador del Estado, a través de la Contraloría.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
+
 ###### ARTICULO 49.
 
-La Secretaría y la Contraloría podrán verificar en cualquier tiempo que las obras y los servicios relacionados con ellas se realicen por las dependencias y entidades de la Administración Pública Estatal conforme a lo establecido en esta ley y a los programas y presupuestos aprobados.
+La Contraloría y las dependencias coordinadoras de sector, en el ejercicio de sus respectivas facultades, podrán verificar en cualquier tiempo que las obras y los servicios relacionados con ellas, se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables y a los programas y presupuestos autorizados.
+
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
 
 ###### ARTICULO 50.
 
-Las dependencias y entidades de la Administración Pública Estatal proporcionarán todas las facilidades necesarias a fin de que la Secretaría, la Contraloría, en el ámbito de sus respectivas competencias, puedan realizar el seguimiento y control de las obras públicas.
+Las dependencias y entidades proporcionarán todas las facilidades necesarias a fin de que la Secretaría, la Contraloría y las dependencias coordinadoras de sector, en el ámbito de sus respectivas competencias, puedan realizar el seguimiento y control de las obras públicas.
 
 ###### ARTICULO 51.
 
-Cuando la Secretaría o la Contraloría tengan conocimiento de que una dependencia o entidad estatal no se hubiere ajustado a las disposiciones de esta ley y demás aplicables, procederá en los siguientes términos:
+(DEROGADO, B.O. 30 DE JUNIO DE 1986)
 
-I.- Solicitará las aclaraciones que estime pertinentes, o les comunicará la existencia de la violación, precisándose en qué consiste. Podrá indicar las medidas que la dependencia deberá tomar para corregirla y fijará el plazo dentro del cual deberá subsanarla.
-
-II.- Dentro del plazo que se hubiere señalado, la responsable dará cuenta a la Secretaría del cumplimiento que hubiere hecho.
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
 
 ###### ARTICULO 52.
 
-La Secretaría y la Contraloría, en el ámbito de sus respectivas atribuciones, podrán realizar las visitas e inspecciones que estimen pertinentes a las dependencias y entidades estatales que realicen obra pública, así como solicitar a los servidores públicos de las mismas y de los contratistas, en su caso, todos los datos e informes relacionados con las obras.
+La Secretaría, la Contraloría y las dependencias coordinadoras de sector, en el ámbito de sus respectivas atribuciones, podrán realizar las visitas e inspecciones que estimen pertinentes a las dependencias y entidades que realicen obra pública, así como solicitar a los servidores públicos de las mismas y de los contratistas, de su caso, todos los datos de informes relacionados con las obras.
 
 ###### ARTICULO 53.
 
 Los Ayuntamientos, con base en las disposiciones de este Capítulo, dictarán las normas sobre vigilancia, inspección y control de las obras públicas que ejecuten sus dependencias y entidades.
 
-### CAPITULO VI. DE LAS INFRACCIONES Y SANCIONES
+> <small>(REFORMADA SU DENOMINACION, B.O. 30 DE JUNIO DE 1986)</small>
+
+### CAPITULO V. DE LOS PADRONES DE CONTRATISTAS DE OBRAS PUBLICAS
 
 ###### ARTICULO 54.
 
@@ -453,13 +593,21 @@ La Administración Pública Estatal, a través de la Secretaría, llevará el pa
 
 La Secretaría hará del conocimiento de las dependencias y entidades de la Administración Pública Estatal y del público en general, las personas registradas en el padrón.
 
-Las dependencias y entidades de la Administración Pública Estatal, sólo podrán celebrar los contratos de obra pública con las personas inscritas en el padrón, cuyo registro esté vigente.
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
+
+Las dependencias y entidades sólo podrán celebrar los contratos de obra pública o de servicios relacionados con la misma, con las personas inscritas en el padrón de contratistas de obras públicas del Estado, cuyo registro esté vigente.
 
 La clasificación a que se refiere este Artículo deberá ser considerada por las dependencias y entidades de la Administración Pública Estatal en la convocatoria y contratación de las obras públicas.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
+
 ###### ARTICULO 55.
 
-Los Ayuntamientos, en razón de las obras públicas que realicen llevarán un padrón de contratistas, el cual se regirá por las disposiciones de este capítulo en cuanto le sean aplicables. Los Ayuntamientos sólo podrán celebrar contrato de obra pública con las personas inscritas en el padrón a que se refiere este Artículo y de no existir éste, la contratación de obras se realizará con las personas inscritas en el padrón estatal que señala esta ley.
+Los Ayuntamientos, en razón de las obras públicas que realicen, llevarán un padrón de contratistas, el cual se regirá por las disposiciones de este Capítulo en cuanto le sean aplicables. Los Ayuntamientos sólo podrán celebrar los contratos de obra publica o de servicios relacionados con la misma, con las personas inscritas en el padrón a que se requiere este Artículo y de no existir éste, la contratación se deberá realizar con las personas inscritas en el Padrón Estatal que señala esta Ley.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1986)</small>
+
+ARTICULO 55 BIS.- Las personas con quienes se contrate la realización de trabajos, en los supuestos previstos por la Fracción II del Artículo 25 de esta Ley, quedan exceptuadas de la obligación de registrarse en los padrones de contratistas de obras públicas a que se refiere este Capítulo.
 
 ###### ARTICULO 56.
 
@@ -477,11 +625,15 @@ V.- Maquinaria y equipos disponibles.
 
 VI.- Escritura constitutiva y reformas.
 
-VII.- Inscripción en el Registro Federal de Causantes.
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 1986)</small>
+
+VII.- Inscripción en el Registro Federal de Contribuyentes.
 
 VIII.- Registro en el Instituto Mexicano del Seguro Social y en el Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
 
-IX.- Registro vigente en la Cámara de la Industria de la Construcción.
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 1986)</small>
+
+IX.- Registro vigente en la Cámara que corresponda;
 
 X.- Los demás documentos e información que la Secretaría o el Ayuntamiento en su caso, consideren pertinentes.
 
@@ -525,7 +677,7 @@ V.- Se le declare incapacitados legalmente para contratar.
 
 Contra las resoluciones que nieguen las solicitudes de inscripción o revalidación, o determinen la suspensión o la cancelación del registro en el padrón de contratistas de obras públicas del Estado o de los Ayuntamientos, el interesado podrá interponer recurso de revocación en los términos de esta ley.
 
-### CAPITULO VII. DE LOS RECURSOS ADMINISTRATIVOS
+### CAPITULO VI. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 62.
 
@@ -572,6 +724,8 @@ La omisión a lo dispuesto en el párrafo anterior será sancionada administrati
 ###### ARTICULO 67.
 
 Los convenios o contratos que las dependencias y entidades de la Administración Pública Estatal y los Ayuntamientos realicen en contravención a lo dispuesto por esta ley, estarán afectados de nulidad absoluta.
+
+### CAPITULO VII. DE LOS RECURSOS ADMINISTRATIVOS
 
 ###### ARTICULO 68.
 
@@ -650,3 +804,15 @@ Dr. Samuel Ocaña G.
 EL SECRETARIO DE GOBIERNO,
 
 Lic. Carlos Gámez Fimbres.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS LEYES DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 30 DE JUNIO DE 1986.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
