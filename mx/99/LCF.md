@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "1982-12-31"
+last_updated: "1983-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 27 de diciembre de 1978.
 
@@ -50,79 +50,113 @@ Cuando en esta Ley se utilice la expresión "entidades", ésta se referirá a lo
 
 La Secretaría de Hacienda y Crédito Público celebrará convenio con los Estados que soliciten adherirse al Sistema Nacional de Coordinación Fiscal que establece esta Ley. Dichos Estados y el Distrito Federal participarán en el total de los impuestos federales, y en los otros ingresos que se mencionarán mediante la distribución de los fondos que a continuación se indican:
 
-I.- El 13.0% de los ingresos totales anuales que obtenga la Federación por concepto de impuestos que constituirá el Fondo General de Participaciones. Este fondo se incrementará con el por ciento que represente, en dichos ingresos de la Federación, la recaudación en un ejercicio de los gravámenes locales o municipales que las entidades convengan en derogar o dejar en suspenso al adherirse al Sistema Nacional de Coordinación Fiscal.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+I.- El 13.0% de los ingresos totales anuales que obtenga la Federación por concepto de impuestos y derechos sobre hidrocarburos por la extracción de petróleo crudo y gas natural y los de minería, que constituirán el Fondo General de Participaciones. Este fondo se incrementará con el porciento que represente, en dichos ingresos de la Federación, la recaudación en un ejercicio de los gravámenes locales o municipales que las entidades convengan en derogar o dejar en suspenso al adherirse al Sistema Nacional de Coordinación Fiscal.
 
-El Fondo General de participaciones se adicionará con 0.5% de los ingresos totales anuales que obtenga la Federación por concepto de impuestos, del cual participarán las Entidades Federativas y sus Municipios, cuando aquéllos se coordinen en materia de derechos.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+El Fondo General de Participaciones se adicionará con un 0.5% de los ingresos totales anuales que obtenga la Federación por concepto de impuestos y derechos sobre hidrocarburos por la extracción de petróleo crudo y gas natural y los de minería. De este 0.5% participarán las entidades federativas y sus municipios, cuando aquéllas se coordinen en materia de derechos.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 Los Estados que estén adheridos al Sistema de Coordinación Fiscal y se encuentren coordinados con la Federación en materia del impuesto sobre adquisición de inmuebles, participarán adicionalmente del 80% de la recaudación que se obtenga en su territorio del impuesto sobre tenencia o uso de vehículos, en la parte que colaboren en la recaudación de dicho impuesto. De esta participación corresponderá, cuando menos, el 20% a los Municipios de la Entidad, que se distribuirá entre ellos en la forma que determine la Legislatura respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-II.- El 0.50% de los ingresos totales anuales que obtenga la Federación por concepto de impuestos, que constituirá el Fondo Financiero Complementario de Participaciones.
+II.- El 0.50% de los ingresos totales anuales que obtenga la Federación por concepto de impuestos y derechos sobre hidrocarburos por la extracción de petróleo crudo y gas natural y los de minería, más el 3% del Fondo General de Participaciones y otra cantidad igual a esta última, con cargo a la Federación, que constituirán el Fondo Financiero Complementario de Participaciones.
 
-Adicionalmente, las entidades participarán en recargos sobre impuestos federales y en las multas por infracción a las leyes federales, que se señalen en los convenios o acuerdos respectivos, en la proporción que en los mismos se establezca.
+Adicionalmente, las entidades participarán en recargos sobre impuestos federales y en las multas por infracción a las leyes federales que se señalen en los convenios o acuerdos respectivos, en la proporción que en los mismos se establezca.
 
 En los productos de la Federación relacionados con bienes o bosques, que las leyes definan como nacionales, ubicados en el territorio de cada entidad, ésta recibirá el 50% de su monto, cuando provenga de venta o arrendamiento de terrenos nacionales o de explotación de tales terrenos o de bosques nacionales.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-No se incluirá entre los ingresos totales anuales que obtenga la Federación, para los efectos de este artículo, los impuestos adicionales de 3% sobre el impuesto general de importación, 3% sobre el impuesto general en exportaciones de petróleo crudo y gas natural y sus derivados, y 2% en las demás exportaciones. A dichos impuestos adicionales se les dará la aplicación a que se refiere el artículo 2o.-A de esta Ley.
+No se incluirán entre los ingresos totales anuales que obtenga la Federación, para los efectos de este artículo, los impuestos adicionales de 3% sobre el impuesto general de importación, del 3% sobre el impuesto general de exportación de petróleo crudo y gas natural y sus derivados que llegare a cobrarse, el 2% en las demás exportaciones y el impuesto del 2.5% sobre el valor base del impuesto general de importación, así como el derecho adicional del 5% sobre el de hidrocarburos que se exporten. A dichas contribuciones, excepto al impuesto del 2.5% sobre el valor base del impuesto general de importación, se les dará la aplicación a que se refiere el artículo 2o.-A de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 2o.-A.
 
-En el rendimiento de los impuestos adicionales a la importación y a la exportación participarán los Municipios, en la forma siguiente:
+En el rendimiento de las contribuciones que a continuación se señalan, participarán los Municipios, en la forma siguiente:
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 I.- 95% de los impuestos adicionales del 3% sobre el impuesto general de importación y 2% sobre el impuesto general de exportación, a aquellos donde se encuentren ubicadas las aduanas fronterizas o marítimas por las que se efectúe la importación o exportación que los causen.
 
-II.- 95% del impuesto adicional de 3% sobre el impuesto general en exportaciones de petróleo crudo y gas natural y sus derivados, a todos los Municipios del país, en la siguiente forma:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+II.- 95% a todos los Municipios del país del derecho adicional sobre hidrocarburos y, en su caso, del impuesto adicional del 3% sobre el impuesto general en exportaciones de petróleo crudo y gas natural y sus derivados, en la siguiente forma:
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 a).- La tercera parte del monto de la participación a que se refiere el párrafo anterior corresponderá:
 
-> <small>(F. DE E., D.O.F. 15 DE ABRIL DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-1.- El 10% a los Municipios donde se encuentren ubicadas las aduanas fronterizas o marítimas por la que se efectúe la exportación que lo cause.
+1.- El 10% a los Municipios donde se encuentran ubicadas las aduanas fronterizas o marítimas por las que se efectúe la exportación.
 
-2.- El 90% se destinará a formar un Fondo de Fomento Municipal que se distribuirá entre los Estados conforme a las mismas reglas aplicables al Fondo Financiero Complementario de Participaciones.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-b).- Las otras dos terceras partes incrementarán el Fondo de Fomento Municipal para ser distribuido conforme a las mismas reglas y en las proporciones que correspondan, entre los Estados que se coordinan en materia de derechos.
+2.- El 90% se destinará a formar un Fondo de Fomento Municipal.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+b).- Las otras dos terceras partes incrementarán dicho Fondo de Fomento Municipal y sólo corresponderá a los estados que se coordinen en materia de derechos.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+El Fondo de Fomento Municipal se distribuirá entre los Estados de modo que cada uno reciba anualmente hasta una cantidad igual a la que le hubiere correspondido en el año inmediato anterior. El incremento que tenga el Fondo de Fomento Municipal en el año para que se haga el cálculo, en relación con el año precedente, se distribuirá entre los Estados con base en las reglas aplicables al Fondo Financiero Complementario de Participaciones. Si el monto del Fondo de Fomento Municipal fuera inferior al del año inmediato anterior, se distribuirá entre los Estados en las mismas proporciones que les hubieran correspondido en ese año.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 Los Estados entregarán íntegramente a sus Municipios las cantidades que reciban del Fondo de Fomento Municipal, de acuerdo con lo que establezcan las legislaturas locales, garantizando que no sea menor a lo recaudado por los conceptos que se dejan de recibir.
 
-> <small>(F. DE E., D.O.F. 15 DE ABRIL DE 1982)</small>
+> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-Si los gobiernos estatales retienen las cantidades a que tenga derecho el municipio, la Federación las entregará directamente descotándolas (sic) del monto total que correspondan al Estado, previa aprobación de la Comisión Permanente de Funcionarios Fiscales.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 Las cantidades que correspondan a los Municipios en los términos de las fracciones I y II inciso a, subinciso 1, se pagarán por la Federación directamente a dichos Municipios.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 3o.
 
-La cantidad que a cada entidad corresponda en el Fondo General de Participaciones se determinará conforme a las reglas siguientes:
+La cantidad que a cada entidad corresponda en el Fondo General de Participaciones, después de deducirle el 3% de su importe para adicionarlo al Fondo Financiero Complementario de Participaciones, se determinará conforme a las reglas siguientes:
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 I.- La entidad recibirá anualmente hasta una cantidad igual a la suma que le hubiere correspondido en el Fondo en el año inmediato anterior.
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
 II.- Adicionalmente percibirá la cantidad que resulte de aplicar el coeficiente que se determine conforme a los incisos siguientes, al monto del incremento que tenga el Fondo General en el año para el que se hace el cálculo en relación con el año precedente:
 
-a).- La suma de las participaciones que correspondan a la entidad, provenientes del Fondo General de Participaciones, en el último año anterior a aquél para el que se efectúe el cálculo, se dividirá entre la recaudación federal obtenida en la entidad en el antepenúltimo año anterior.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-b).- El monto de la recaudación federal obtenido en la entidad en el penúltimo año anterior a aquél para el que se haga el cálculo, se dividirá entre la recaudación federal percibida en todo el país en dicho penúltimo año.
+a).- La suma de las participaciones que correspondan a la entidad, provenientes del Fondo General de Participaciones, en el segundo año anterior a aquél para el que se efectúa el cálculo, se dividirá entre la recaudación federal obtenida en la entidad en el cuarto año anterior, respecto del cual se efectúa el cálculo.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+b).- El monto de la recaudación federal obtenida en la entidad en el tercer año anterior a aquél para el que se haga el cálculo, se dividirá entre la recaudación federal percibida en todo el país en dicho tercer año.
 
 c).- Se multiplicarán entre sí los cocientes obtenidos conforme a los incisos a) y b).
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
 Se sumarán los resultados que se obtengan de acuerdo con el inciso c) calculados para todas las entidades y se determinará el tanto porciento que el resultado que corresponda a cada una de ellas represente en el total. Este tanto porciento será la proporción en que cada entidad participará en el incremento del Fondo General de Participaciones en el año para el que se efectúe el cálculo.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 En todos los casos en que este artículo menciona “recaudación federal”, se entenderá exclusivamente la que se obtenga por impuestos federales cuyo origen por entidades sea plenamente identificable. No se considerará identificable el origen por entidades de los impuestos al comercio exterior.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 4o.
 
-El Fondo Financiero Complementario de Participaciones a que se refiere la fracción II del artículo 2o., se distribuirá entre las entidades de modo de favorecer a aquéllas en las que proporcionalmente hubiera sido menor la erogación por habitante, efectuada por la Federación por concepto de participaciones en impuestos federales y gasto corriente en educación primaria y secundaria y tomando en cuenta, además, la población de cada entidad, conforme al procedimiento que se establezca en el convenio que los Estados celebren con la Federación por conducto de la Secretaría de Hacienda y Crédito Público.
+El Fondo Financiero Complementario de Participaciones a que se refiere la fracción II del artículo 2o., se distribuirá en proporción inversa a la participación por habitante, que tenga cada Entidad, en el Fondo General de Participaciones, en el ejercicio de que se trate.
+
+El dato de población se tomará de la última información oficial que, al iniciarse cada ejercicio, hubiera dado a conocer el Consejo Nacional de Población.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -136,13 +170,17 @@ Los cálculos de participaciones a que se refieren los artículos 2o.-A, 3o. y 4
 
 Las participaciones federales que recibirán los Municipios del total de los Fondos General y Financiero Complementario de Participaciones incluyendo sus incrementos, nunca serán inferiores al 20% de las cantidades que correspondan al Estado, el cual habrá de cubrirselas. Las legislaturas locales establecerán su distribución entre los Municipios mediante disposiciones de carácter general.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-Las entidades federativas informarán y pagarán a cada uno de sus municipios el monto de las participaciones que les correspondan, incluyendo los relativos al Fondo de Fomento Municipal y cualquiera que se otorgue a dichos Municipios, con la misma periodicidad con que la Federación lo haga respecto de aquéllos.
+La Federación entregará las participaciones a los municipios por conducto de los Estados, dentro de los cinco días siguientes a aquel en que el Estado las reciba; el retraso dará lugar al pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones; en caso de incumplimiento la Federación hará la entrega directa a los Municipios descontando la participación del monto que corresponda al Estado, previa opinión de la Comisión Permanente de Funcionarios Fiscales.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-Los Municipios recibirán como mínimo el 20% de la participación que corresponda al Estado en los términos del último párrafo de la fracción I del Artículo 2o. de esta Ley.
+Los Municipios recibirán como mínimo el 20% de la participación que corresponda al Estado en los términos último párrafo de la fracción I del Artículo 2o. de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+Las participaciones serán cubiertas en efectivo, no en obra, sin condicionamiento alguno y no podrán ser objeto de deducciones, salvo lo dispuesto en el artículo 9o. de esta Ley. Los Gobiernos de los Estados publicarán, cuando menos una vez al año, en el Diario Oficial de la entidad, y en uno de los periódicos de mayor circulación de la misma, las participaciones que correspondan, durante un año, a cada uno de sus Municipios.
 
 > <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1979)</small>
 
@@ -152,7 +190,9 @@ Las Participaciones que correspondan a las entidades en los fondos establecidos 
 
 Las entidades dentro del mismo mes en que se realice la afectación mencionada en el párrafo que antecede, recibirán las cantidades que les correspondan conforme a esta Ley, en concepto de anticipos a cuenta de participaciones.
 
-A más tardar dentro de los cinco meses siguientes al cierre de cada ejercicio fiscal de la Federación, ésta determinará la recaudación total por concepto de impuestos que hubiera obtenido en el ejercicio, aplicará las cantidades que hubiera afectado provisionalmente a los fondos y formulará de inmediato las liquidaciones que procedan.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+A más tardar dentro de los cinco meses siguientes al cierre de cada ejercicio fiscal de la Federación, ésta determinará las participaciones que correspondan a la recaudación total por concepto de impuesto y derechos sobre hidrocarburos por la extracción de petróleo crudo y gas natural y los de minería que hubiera obtenido en el ejercicio, aplicará las cantidades que hubiera afectado provisionalmente a los fondos y formulará de inmediato las liquidaciones que procedan.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -166,19 +206,25 @@ Sólo la Federación otorgará estímulos fiscales en relación con los ingresos
 
 La Federación por conducto de la Secretaría de Hacienda y Crédito Público informará bajo los lineamientos que se establezcan, del comportamiento de las participaciones a las partes beneficiadas.
 
-(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981) (F. DE E., D.O.F. 15 DE ABRIL DE 1982)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 9o.
 
-Las participaciones que correspondan a las Entidades y Municipios son inembargables; no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas por las Entidades o Municipios, con autorización de las legislaturas locales e inscritas a petición de dichas Entidades ante la Secretaría de Hacienda y Crédito Público en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, a favor de la Federación, de las Instituciones Nacionales de Crédito, de las Instituciones de Crédito, con concesión para operar en territorio nacional, así como de las personas físicas o morales de nacionalidad mexicana.
+Las participaciones que correspondan a las Entidades y Municipios son inembargables; no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas por las Entidades o Municipios, con autorización de las legislaturas locales e inscritas a petición de dichas Entidades ante la Secretaría de Hacienda y Crédito Público en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, a favor de la Federación, de las Instituciones de Crédito que operen en territorio nacional, así como de las personas físicas o morales de nacionalidad mexicana.
 
-> <small>(F. DE E., D.O.F. 15 DE ABRIL DE 1982)</small>
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981) (F. DE E., D.O.F. 15 DE ABRIL DE 1982)
 
 Las obligaciones de los Municipios se registrarán cuando cuenten con la garantía solidaria del Estado, salvo cuando a juicio de la Secretaría de Hacienda y Crédito Público tengan suficientes participaciones para responder a sus compromisos.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
 La Secretaría de Hacienda y Crédito Público efectuará pagos de las obligaciones garantizadas con afectación de participaciones siguiendo el orden cronológico de su inscripción.
 
-La compensación entre el derecho de las Entidades y de los Municipios a recibir participaciones y las obligaciones que tengan con la Federación, sólo podrán llevarse a cabo si existe acuerdo entre las partes interesadas o cuando esta Ley así lo autorice. Las deudas del Estado derivadas de ajustes en participaciones no están sujetas a lo dispuesto en el primer párrafo de este artículo y serán objeto de compensación.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
+La compensación entre el derecho de las Entidades y de los Municipios a recibir participaciones y las obligaciones que tengan con la Federación, sólo podrán llevarse a cabo si existe acuerdo entre las partes interesadas o cuando, esta Ley así lo autorice. Las deudas del Estado derivadas de ajustes en participaciones no están sujetas a lo dispuesto en el primer párrafo de este artículo y serán objeto de compensación.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 En el reglamento que expida el Ejecutivo Federal se señalarán los requisitos para el registro de las obligaciones de Entidades y Municipios.
 
@@ -298,17 +344,19 @@ Las autoridades fiscales de las entidades que se encuentren adheridas al Sistema
 
 La Secretaría de Hacienda y Crédito Público conservará la facultad de fijar a las entidades y a sus Municipios los criterios generales de interpretación y de aplicación de las disposiciones fiscales y de las reglas de colaboración administrativa que señalen los convenios y acuerdos respectivos.
 
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1979)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 15.
 
-La recaudación de los impuestos federales se hará por las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público o por las oficinas autorizadas por las entidades, según se establezca en los convenios o acuerdos respectivos.
+La recaudación de los ingresos federales se hará por las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público o por las oficinas autorizadas por las entidades, según se establezca en los convenios o acuerdos respectivos.
 
 Cuando la entidad recaude ingresos federales, los concentrará directamente a dicha Secretaría y rendirá cuenta pormenorizada de recaudación. La Secretaría, también directamente, hará el pago a las entidades de las cantidades que les correspondan en los fondos establecidos en el artículo 2o. y pondrá a su disposición la información correspondiente. Se podrá establecer, si existe acuerdo entre las partes interesadas, un procedimiento de compensación permanente.
 
-La falta de entero en los plazos establecidos dará lugar a que se causen, a cargo de la entidad o de la Federación, recargos a la tasa que fije la Ley de Ingresos de la Federación, para el caso de prórroga de créditos fiscales.
+Como excepción a lo dispuesto en el párrafo anterior, las entidades a que se refiere el último párrafo de la fracción I del artículo 2o. de esta Ley, sólo concentrarán a la Secretaría de Hacienda y Crédito Público, el 20% del impuesto sobre tenencia o uso de vehículos que recauden, el que incluirán en su cuenta pormenorizada de recaudación.
 
-La Secretaría de Hacienda y Crédito Público podrá compensar las cantidades no concentradas por la entidad, con las cantidades que a ésta correspondan con los fondos de participaciones establecidos por esta Ley.
+La falta de entero en los plazos establecidos dará lugar a que se causen, a cargo de la entidad o de la Federación, intereses a la tasa de recargos que establezca anualmente el Congreso de la Unión para los casos de autorizaciones de pago a plazos de contribuciones.
+
+La Secretaría de Hacienda y Crédito Público podrá compensar las cantidades no concentradas por la entidad, con las cantidades que a ésta correspondan en los fondos de participaciones establecidos por esta Ley.
 
 ### CAPITULO IV. De los Organismos en Materia de Coordinación
 
@@ -547,3 +595,21 @@ La presente Ley entrará en vigor en toda la República el día 1o. de enero de 
 ARTICULO DECIMOQUINTO.- Se amplía al año de 1982, la vigencia del Artículo Quinto Transitorio de la Ley de Coordinación Fiscal y las participaciones por dicho año se liquidarán en la misma forma como se ha efectuado para los años 1980 y 1981.
 
 A partir del ejercicio de 1983, se aplicará en sus términos la fórmula del artículo 3o. de dicha Ley.
+
+D.O.F. 30 DE DICIEMBRE DE 1983.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1984.
+
+###### ARTICULO TERCERO.
+
+Se amplía al año de 1983 la vigencia del Artículo Quinto Transitorio de la Ley de Coordinación Fiscal y las participaciones por dicho año se liquidarán en la misma forma como se ha efectuado para los años de 1980, 1981 y 1982.
+
+A partir del ejercicio de 1984, se aplicará en sus términos la fórmula del artículo 3o. de dicha ley.
+
+###### ARTICULO CUARTO.
+
+En 1984 los porcentajes a que se refieren los subincisos 1 y 2 del inciso a) de la fracción II del artículo 2o.-A de la Ley de Coordinación Fiscal serán de 30% a los Municipios en donde estén ubicadas las aduanas fronterizas o marítimas por las que se efectúe la exportación y de 70% para el Fondo de Fomento Municipal. A partir de 1985 los porcentajes de distribución serán los que señala dicho artículo.
