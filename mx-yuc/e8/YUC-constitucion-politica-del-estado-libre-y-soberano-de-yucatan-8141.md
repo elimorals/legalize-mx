@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1938-07-04"
+last_updated: "1943-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE JULIO DE 1938.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE OCTUBRE DE 1943.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -34,8 +34,6 @@ Que el H. Congreso del mismo, ha expedido el siguiente
 DECRETO NUM. 3
 
 "(SIC) El XXV Congreso Constitucional del Estado Libre y Soberano de Yucatán, en funciones de Constituyente, a nombre y con la autoridad del pueblo yucateco ha tenido a bien expedir la siguiente:
-
-> <small>N. DE E. EL XXXIV CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN APROBÓ EL DECRETO NÚM. 67 QUE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, MODIFICANDO DE MANERA SUSTANCIAL EL TEXTO QUE A LA FECHA TENÍA DICHO ORDENAMIENTO, PRESENTÁNDOSE POR TAL MOTIVO EL TEXTO APROBADO Y PUBLICADO EN EL DIARIO OFICIAL DEL ESTADO EL 4 DE JULIO DE 1938.</small>
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE YUCATAN
 
@@ -601,7 +599,9 @@ V.- no ser Ministro de ningún culto;
 
 VI.- no estar en servicio activo, en caso de pertenecer al Ejército o Guardia Nacional, noventa días antes de la elección; y
 
-VII.- no ser Secretario General de Gobierno ni Oficial Mayor del mismo, a menos que se separe de su puesto noventa días antes de la elección.
+> <small>(ADICIONADA, D.O. 6 DE OCTUBRE DE 1943)</small>
+
+VIII.- No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 48.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -615,13 +615,11 @@ II.- tener veinticinco años cumplidos; y
 
 III.- no ser Ministro de ningún culto.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 6 DE OCTUBRE DE 1943)</small>
 
 ###### Artículo 48.
 
-El Gobernador Constitucional del Estado entrará en funciones el día primero de febrero y durará en su encargo cuatro años.
-
-Los Gobernadores cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo, podrán volver a ocupar ese cargo ni aún con el carácter de interinos, provisionales, sustitutos o encargados del Despacho.
+El Gobernador Constitucional del Estado, entrará en funciones el día primero de febrero y durará en su encargo seis años. El ciudadano que haya desempeñado el cargo de Gobernador del Estado, electo popularmente, o con el carácter de interino, provisional o substituto, en ningún caso y por ningún motivo podrá volver a desempeñar ese puesto.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -649,15 +647,11 @@ Cuando la falta sea temporal y no exceda de sesenta días, el Secretario General
 
 Si la falta del Gobernador fuere absoluta y faltaren dos años o más para terminar el período constitucional, el Congreso convocará inmediatamente para la elección del Gobernador, la que se verificará dentro de dos meses, y el nuevamente electo ejercerá sus funciones hasta terminar el período constitucional. Si faltaren menos de dos años, el nombrado con el carácter de interino, continuará hasta concluir el cuatrienio.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 6 DE OCTUBRE DE 1943)</small>
 
 ###### Artículo 53.
 
-Nunca podrán ser electos para el periodo inmediato siguiente:
-
-I.- el Gobernador sustituto constitucional, o el designado para concluir un periodo en caso de falta absoluta del Constitucional, aun cuando tenga distinta denominación; y
-
-II.- el Gobernador interino, el provisional o el ciudadano que, bajo cualquier denominación, supla faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del periodo.
+Nunca podrá ser electo para el periodo inmediato siguiente el ciudadano que bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del periodo.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1326,6 +1320,10 @@ Los ciudadanos electos para desempeñar los cargos de Magistrados del Tribunal S
 ###### ARTICULO 6.
 
 Quedan derogadas todas las Leyes que de cualquier modo se opongan a la presente Constitución.
+
+D.O. 6 DE OCTUBRE DE 1943.
+
+Esta Ley comenzará a regir al día siguiente de su publicación en el "Diario Oficial" del Estado.
 
 ###### ARTICULO UNICO.
 
