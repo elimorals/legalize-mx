@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-para-el-estado-de-nuevo-leon-7484"
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-29"
-last_updated: "1984-08-29"
+last_updated: "2000-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY DE EDUCACION PARA EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
+
+N. DE E., EN TERMINOS DEL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EDUCACION, PUBLICADA EN EL PERIODICO OFICIAL EL16 DE OCTUBRE DEL 2000, SE ABROGA LA PRESENTE LEY.
 
 Ley publicada en el Periódico Oficial, miércoles 29 de agosto 1984
 
@@ -690,3 +692,39 @@ EL SECRETARIO DE EDUCACION Y
 CULTURA EN EL ESTADO
 
 ROMEO R. FLORES CABALLERO
+
+P.O. 16 DE OCTUBRE DEL 2000.
+
+LEY DE EDUCACION PARA EL ESTADO
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan la Ley de Educación para el Estado de Nuevo León publicada en el Periódico Oficial del Estado el 29 de agosto de 1984 y la Ley de Funcionamiento de Sociedades de Padres de Familia y Maestros en el Estado de Nuevo León de diciembre de 1950.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones normativas derivadas de las Leyes mencionadas en el Artículo anterior se seguirán aplicando, en lo que no se opongan a la presente Ley, hasta en tanto se expida la normatividad a que se refiere esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Programa Estatal de Educación mencionado en esta Ley se expedirá en un plazo no mayor a noventa días hábiles contados a partir de la fecha de la entrada en vigor de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+Los servicios para la formación de maestros y maestras a cargo de la autoridad educativa estatal tendrán, además de las finalidades previstas en la presente Ley, la de regularizar, con nivel de licenciatura, a maestros y maestras en servicio que por cualquier circunstancia tengan un nivel de estudios distinto del anteriormente mencionado.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos en trámite antes de la entrada en vigor de esta Ley se continuarán desahogando conforme a las disposiciones legales que se abrogan, hasta el término de dicho proceso.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las autoridades competentes se obligan a respetar íntegramente los derechos de los trabajadores de la educación y reconocer la titularidad de las relaciones laborales colectivas de su organización sindical en los términos de su registro vigente y de acuerdo con las disposiciones legales correspondientes al expedir esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Los particulares que impartan educación con autorización o con reconocimiento de validez oficial de estudios, que después de la fecha de la expedición de dicha autorización o reconocimiento, hayan abierto otros planteles educativos sin sujetarse a los requisitos que establece el Artículo 55 fracción II de la Ley General tendrán un plazo no mayor a noventa días naturales, contados a partir de la fecha de entrada en vigor de esta Ley, para obtener la autorización a que se refiere el Artículo 109 de este mismo ordenamiento.
