@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-judicial-del-estado-de-zacatecas-20978"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-04"
-last_updated: "2002-01-12"
+last_updated: "2002-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2002.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril del 2001.
 
@@ -283,7 +283,7 @@ XVII. Ordenar visitas judiciales, ordinarias y extraordinarias, a los juzgados c
 
 XVIII. Examinar los informes y actas levantadas por los visitadores y dictar los acuerdos conducentes;
 
-XIX. Nombrar a los jueces de Primera Instancia y Municipales, mediante concurso de oposición, de acuerdo con su capacidad y tomando en cuenta además, su conducta, honradez, eficiencia y, en su caso, los antecedentes al servicio del Poder Judicial;
+XIX. Nombrar a los jueces de Primera Instancia y Municipales, mediante concurso de oposición, de acuerdo con su capacidad y tomando en cuenta además, su conducta, hónradez, eficiencia y, en su caso, los antecedentes al servicio del Poder Judicial;
 
 XX. Adscribir a los jueces en los juzgados en que deban ejercer su función y cambiarlos de distrito o de juzgado, cuando así se estime necesario;
 
@@ -343,7 +343,7 @@ Atribuciones
 
 El Presidente del Tribunal Superior de Justicia será electo por el Pleno, durará en el ejercicio del cargo tres años, podrá ser reelecto por una sola vez, no integrará sala y ejercerá las atribuciones siguientes:
 
-I. Ser el representante legal del Poder Judicial del Estado;
+I. Ser el representante legal del Poder Judicial del Estado,
 
 II. Vigilar que la administración de justicia sea pronta, expedita y eficaz;
 
@@ -781,15 +781,15 @@ Los jueces mixtos conocerán de los asuntos civiles, familiares, mercantiles y p
 
 ### CAPITULO SEGUNDO. DE LOS JUZGADOS MUNICIPALES
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2002)</small>
+
 ###### Artículo 39.
 
-Número y Materia
+En cada municipio del Estado, funcionará el servicio de atención a los asuntos que correspondan a los juzgados municipales. Tal servicio podrá ser de competencia mixta o especializada, por lo que no necesariamente se instalará un juzgado municipal en cada municipio, sino que, en su caso, se estará a lo dispuesto en los párrafos siguientes de este artículo.
 
-En cada municipio del Estado, funcionará por lo menos un juzgado municipal, de competencia mixta o especializada.
+El Pleno del Tribunal Superior de Justicia, mediante acuerdo general, podrá asignar a un juzgado de Primera Instancia los asuntos que por competencia correspondan al juzgado municipal ubicado en su distrito judicial.
 
-El Pleno del Tribunal Superior de Justicia, mediante acuerdo general, podrá asignar a un juzgado de Primera Instancia los asuntos que por competencia correspondan al juzgado municipal ubicado en la sede del distrito judicial.
-
-Asimismo, mediante acuerdo general, el Pleno del Tribunal Superior de Justicia podrá disponer que un juez funja como titular de dos o más juzgados municipales, atendiendo a las necesidades del servicio, a las condiciones geográficas, económicas, sociales y de vías de comunicación que prevalezcan en los municipios.
+Asimismo, mediante acuerdo general, el Pleno del Tribunal Superior de Justicia podrá disponer que un juez funja como titular de dos o más juzgados municipales, atendiendo a las necesidades del servicio, a las condiciones geográficas, económicas, sociales y de vías de comunicación que prevalezcan en los municipios; de igual forma, un juzgado municipal podrá conocer de asuntos de otro municipio tomando en consideración las circunstancias citadas.
 
 ###### Artículo 40.
 
@@ -1377,7 +1377,7 @@ I. Conocer en forma definitiva e inatacable:
 
 a) Los recursos de inconformidad que se presenten en contra de los cómputos distritales y estatal de la elección de Gobernador del Estado, en los términos de la ley de la materia. Una vez resueltos los que se hubieren interpuesto, realizará el cómputo final, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo, respecto al candidato que hubiere obtenido el mayor número de votos. La decisión que adopte la Sala, será comunicada de inmediato a la Legislatura del Estado para los efectos constitucionales correspondientes;
 
-b) Los recursos de inconformidad encaminados a que se declare la nulidad de las elecciones, o para impugnar, en la elección de Diputados por ambos principios, los resultados consignados en las actas de computo distrital o estatal respectivas, por nulidad de la votación recibida en una o varias casillas o por error aritmético; la declaración de validez de la elección, la expedición de las Constancias de Mayoría o de Asignación, según sea el caso.
+b) Los recursos de inconformidad encaminados a que se declare la nulidad de las elecciones, o para impugnar, en la elección de Diputados por ambos principios, los resultados consignados en las actas de computo distrital o estatal respectivas, por nulidad de la votación recibida en una o varias casillas o por error aritmético; la declaración de validez de la elección, la expedición de las Constancias de Mayoría o de Asignación, según sea el caso;
 
 c) Los recursos de inconformidad encaminados a que se declare nulidad de las elecciones, o para impugnar, en la elección de Ayuntamientos, los resultados consignados en las actas de cómputo municipal o estatal respectivas, por nulidad de la votación recibida en una o varias casillas o por error aritmético; la declaración de validez de la elección, la expedición de las Constancias de Mayoría o de Asignación, según sea el caso;
 
@@ -1397,7 +1397,7 @@ IV. Conceder licencia a los Magistrados Electorales que lo integran, siempre que
 
 V. Proponer a la Comisión de Administración el nombramiento de los servidores públicos, jurídicos y administrativos, que deban auxiliar en sus funciones al Tribunal Estatal Electoral;
 
-VI. Aprobar el reglamento interior y dictar los acuerdos generales en las materias de su competencia;
+VI. Aprobar el reglamento interior y dictar los acuerdos generales en las materias de su competencia.
 
 VII. Fijar los días y horas en que deba sesionar la Sala, tomando en cuenta los plazos electorales;
 
@@ -1960,3 +1960,7 @@ LIC. ARTURO NAHLE GARCIA
 P.O. 12 DE ENERO DE 2002
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 2002
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
