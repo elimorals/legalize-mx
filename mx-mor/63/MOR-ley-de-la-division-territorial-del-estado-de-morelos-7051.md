@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-division-territorial-del-estado-de-morelos-7051"
 country: "mx"
 rank: "ley"
 publication_date: "1932-12-18"
-last_updated: "1956-07-11"
+last_updated: "1956-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DIVISIÓN TERRITORIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 1956.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 1956.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el domingo 18 de diciembre de 1932.
 
@@ -73,11 +73,11 @@ Corresponden a la jurisdicción del Municipio de Coatlán los siguientes centros
 
 Corresponden a la jurisdicción del Municipio de Cuautla, los siguientes centros de población: Otilio Montaño, Calderón, Casasano, Cuautla, Cabecera del Municipio Cuautlixco, Hospital, Puxtla, Gabriel Tepepa, Eusebio Jáuregui y Tetelcingo.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1936)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1956)</small>
 
 ###### Art. 9.
 
-Corresponden a la jurisdicción del Municipio de Cuernavaca, los siguientes centros de población: Acapantzingo, Ahuatepec, Alameda, Amatitlán, Buenavista del Monte, Cantarranas, Cuernavaca Cabecera del Municipio; Chamilpa, Chapultepec, Chipitlán, El Salto, Felipe Neri, Francisco Leyva, Las Huertas, Ocotepec, Pueblo Viejo, Tetela del Monte y Tlaltenango.
+Corresponden a la jurisdicción del Municipio de Cuernavaca, los siguientes Centros de Población: Acapantzingo, Ahuatepec, Alameda, Amatitlán, Buenavista del Monte, Cantarranas, CUERNAVACA, Cabecera del Municipio, Chamilpa, Chapultepec, Chipitlán, El Salto, Felipe Neri, Francisco Leyva, Las Huertas, Ocotepec, Tetela del Monte y Tlaltenango.
 
 ###### Art. 10.
 
@@ -127,11 +127,11 @@ Corresponden a la jurisdicción del Municipio de Ocuituco, los siguientes centro
 
 Corresponden a la jurisdicción del Municipio de Puente de Ixtla, los siguientes centros de población: Ahuehuetzingo, El Coco, El Estudiante, Puente de Ixtla Cabecera del Municipio, La Tigra, Los Algodones, Tilzapotla, Xoxocotla, Vista Hermosa y El Zapote.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 1936)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1956)</small>
 
 ###### Art. 20.
 
-Corresponden a la jurisdicción del Municipio de Temixco, los siguientes centros de población: Acatlipa, Cuentepec, Pueblo Nuevo del Puente, Temixco Cabecera del Municipio y Tetlama.
+Corresponden a la jurisdicción del Municipio de Temixco, los siguientes Centros de Población: Acatlipa, Cuentepec, Pueblo Nuevo del Puente, TEMIXCO, Cabecera del Municipio, Tetlama y Pueblo Viejo.
 
 ###### Art. 21.
 
@@ -286,6 +286,12 @@ P.O. 11 DE JULIO DE 1956.
 PRIMERO.- Remítase el presente Decreto al Ejecutivo del Estado para los efectos de la Fracción I del Artículo 71 de la Constitución Política Local.
 
 SEGUNDO.- El presente Decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 1956.
+
+PRIMERO.- Remítase el presente Decreto al Ejecutivo del Estado, para los efectos a que se refiere la Fracción I del Artículo 71 de la Constitución Política Local.
+
+SEGUNDO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 555.- POR EL QUE SE ADICIONA Y MODIFICA LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
 
