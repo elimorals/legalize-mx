@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1934-08-31"
+last_updated: "1935-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 1934.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 1935.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -2054,31 +2054,29 @@ La cesión producirá sus efectos legales con respecto al deudor desde que le se
 
 Salvo pacto en contrario, el cedente de un crédito mercantil responderá tan solo de la legitimidad del crédito y de la personalidad con que hizo la cesión.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
+
 ### CAPÍTULO II.
 
 Del seguro contra incendios.
 
 ###### Art. 392.
 
-Los contratos de seguros de cualquiera especie, siempre que sean hechos por empresas, serán mercantiles.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 393.
 
-Será nulo todo contrato de seguro:
-
-I. Por mala fe probada de alguna de las partes al tiempo de celebrarse el contrato;
-
-II. Por la inexacta declaración del asegurado, aun hecha de buen fe, siempre que pueda influir en la estimación de los riesgos;
-
-III. Por la omisión ú ocultación por el asegurado, de hechos ó circunstancias que hubieran podido influir en la celebración del contrato.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 394.
 
-El contrato de seguro se consignará por escrito, en póliza ó en otro documento público ó privado suscrito por los contratantes.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ## TITULO SEPTIMO.
 
 DE LOS CONTRATOS DE SEGUROS.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
 
 ### CAPÍTULO III.
 
@@ -2086,33 +2084,17 @@ Del seguro sobre la vida.
 
 ###### Art. 395.
 
-La póliza del contrato de seguro deberá contener:
-
-I. Los nombres del asegurador y asegurado;
-
-II. El concepto en el cual se asegura;
-
-III. La designación y estimación de los objetos asegurados, y las indicaciones que sean necesarias para determinar la naturaleza de los riesgos;
-
-IV. La suma en que se valúen los objetos del seguro, descomponiéndola en sumas parciales, si así lo estipularen los contratantes, según las diferentes clases de los objetos;
-
-V. La cuota ó prima que se obligue á satisfacer el asegurado, la forma y el modo del pago, y el lugar en que deba verificarse;
-
-VI. La duración del seguro;
-
-VII. El día y la hora desde que comienzan los efectos del contrato;
-
-VIII. Los seguros ya existentes sobre los mismos objetos;
-
-IX. Los demás pactos en que hubieren convenido los contratantes.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 396.
 
-Las novaciones que se hagan en el contrato durante el término del seguro, aumentando los objetos asegurados, extendiendo el seguro á nuevos riesgos, reduciendo estos ó la cantidad asegurada, ó introduciendo otra cualquiera modificación esencial, se consignarán precisamente en la póliza del seguro.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 397.
 
-El contrato de seguro se regirá por los pactos lícitos consignados en cada póliza ó documento, y en su defecto, por las reglas contenidas en este título.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
 
 ### CAPÍTULO IV.
 
@@ -2120,153 +2102,117 @@ Del seguro de transporte terrestre.
 
 ###### Art. 398.
 
-Podrá ser materia del contrato de seguro contra incendios, todo objeto mueble ó inmueble que pueda ser destruído ó deteriorado por el fuego.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 399.
 
-Los títulos ó documentos mercantiles, los del Estado ó particulares, billetes de Banco acciones y obligaciones de compañías, piedras y metales preciosos amonedados ó en pasta, y objetos artísticos, quedarán comprendidos en el seguro siempre que así se pactare expresamente determinando en la póliza el valor y circunstancias de dichos objetos.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 400.
 
-En el contrato de seguros contra incendios para que el asegurador quede obligado deberá haber percibido la prima única convenida ó las parciales en los plazos que se hubiesen fijado.
-
-La prima del seguro se pagará anticipadamente, y por el pago la hará suya el asegurado, sea cualquiera la duración del seguro.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 401.
 
-Si el asegurado demorase el pago de la prima, el asegurador podrá rescindir el contrato dentro de las primeras cuarenta y ocho horas, comunicando inmediatamente su resolución al asegurado.
-
-Si no se hiciere uso de este derecho, se entenderá subsistente el contrato, y tendrá acción ejecutiva para exigir el pago de la prima ó primas vencidas, sin otro requisito que el reconocimiento de las firmas de la póliza.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 402.
 
-En caso de total incendio, las sumas en que se valúen los efectos del seguro, las primas satisfechas por el asegurado, las designaciones y las valuaciones contenidas en la póliza, constituirán la prueba de la existencia de los efectos asegurados en el momento y en local en que ocurra el incendio, salvo lo que pudiera probarse en contrario.
-
-El asegurado, en caso de incendio parcial, adminiculará con otra prueba la de la póliza, para fijar el valor que restare después del incendio en el objeto asegurado.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 403.
 
-La sustitución ó cambio de los objetos asegurados por otros de distinto género ó especie, no comprendidos en el seguro, anulará el contrato á contar desde el momento en que se hizo la sustitución.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 404.
 
-La alteración ó la transformación de los objetos asegurados por caso fortuito ó por hecho de tercera persona, darán derecho á cualquiera de las partes para rescindir el contrato.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 405.
 
-El seguro contra incendios, comprenderá la reparación ó indemnización de todos los daños y pérdidas materiales causados por la acción directa del fuego y por las consecuencias inevitables del incendio, y en particular:
-
-I. Los gastos que ocasione al asegurado el transporte de los efectos con el fin de salvarlos;
-
-II. Los menoscabos que sufran estos mismos objetos salvados;
-
-III. Los daños que ocasionen las medidas adoptadas por la autoridad, en lo que sea objeto del seguro para cortar ó extinguir el incendio.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 406.
 
-En los seguros contra accidentes meteorológicos, explosiones de gas ó de aparatos de vapor, el asegurador sólo responderá, de las consecuencias del incendio, si éste tuviere lugar, salvo pacto en contrario.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 407.
 
-El seguro contra incendios no comprenderá salvo pacto en contrario, los perjuicios que puedan seguirse al asegurado por suspensión de trabajos, paralización de industria, suspensión de rendimientos de la finca incendiada ó cualesquiera otras causas análogas que ocasionen pérdidas ó quebrantos.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 408.
 
-El asegurador garantizará al asegurado contra los efectos del incendio, bien se origine de caso fortuito, bien de malquerencia de extraños, ó de negligencia propia ó de las personas de las cuales responde civilmente.
-
-El asegurador, salvo pacto en contrario, no responderá de los incendios ocasionados por el delito del asegurado, ni por fuerza militar en caso de guerra, ni de los que se causen en tumultos populares, así como de los producidos por erupciones, volcanes y temblores de tierra.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 409.
 
-La garantía del asegurador sólo se extenderá á los objetos asegurados y en el sitio en que lo fueron, y en ningún caso excederá su responsabilidad de la suma en que se valuaren los objetos ó se estimaron los riesgos.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 410.
 
-El asegurado deberá dar cuenta al asegurador:
-
-I. De todos los seguros, anterior, simultánea ó posteriormente celebrados;
-
-II. De las modificaciones que hayan sufrido los seguros que se expresaron en la póliza;
-
-III. De los cambios y alteraciones en calidad que hayan sufrido los objetos asegurados y que aumenten los riesgos.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 411.
 
-Los efectos asegurados por todo su valor no podrán serlo por segunda vez, mientras subsista el primer seguro, excepto en el caso en que los nuevos aseguradores garanticen ó afiancen el cumplimiento del contrato celebrado con el primer asegurador.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 412.
 
-Si en diferentes contratos un mismo objeto hubiere sido asegurado por una parte alícuota de su valor, los aseguradores contribuirán á la indemnización á prorrata de las sumas que aseguraron.
-
-El asegurador podrá ceder á otros aseguradores parte ó partes del seguro, pero quedando obligado directa ó exclusivamente con el asegurado.
-
-En los casos de cesión de partes del seguro, ó de reaseguro, los cesionarios que reciban la parte proporcional de la prima quedarán obligados, respecto del primer asegurador á concurrir en igual proporción á la indemnización, asumiendo la responsabilidad, de los arreglos transacciones y pactos en que convinieren el asegurado y el principal ó primer asegurador.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 413.
 
-Por muerte, liquidación ó quiebra del asegurado, y venta ó traspaso de los efectos, no se aumentará el seguro, si fuere inmueble el objeto asegurado.
-
-Por muerte, liquidación ó quiebra del asegurado, y venta ó traspaso de los efectos, si el objeto asegurado fuere mueble, fábrica ó tienda el asegurador podrá rescindir el contrato.
-
-En caso de rescisión, el asegurador deberá hacerlo saber al asegurado ó á sus representantes en el plazo improrrogable de quince días.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 414.
 
-Si el asegurado ó su representante no pusieren en conocimiento del asegurador cualquiera de los hechos enumerados en el párrafo segundo del artículo anterior, dentro del plazo fijado, el contrato se tendrá por nulo desde la fecha en que aquellos hechos hubieren ocurrido.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 415.
 
-Los bienes muebles estarán afectos al pago de la prima del seguro con preferencia al de cualesquiera otros créditos vencidos.
-
-En cuanto á los inmuebles, se estará á lo que disponga el derecho común.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 416.
 
-En caso de siniestro el asegurado deberá participarlo inmediatameute (sic) al asegurador, prestando asimismo ante el juez competente una declaración comprensiva de los objetos existentes al tiempo del siniestro, y de los efectos salvados, así como del importe de las pérdidas sufrida, según su estimación.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 417.
 
-La valuación de los daños causados por el incendio se fijará por peritos, en la forma establecida por la póliza, por convenio que celebren las parte, ó en su defecto con arreglo á lo dispuesto en la ley de Procedimientos Civiles.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 418.
 
-Los peritos decidirán:
-
-I. Sobre las causas del incendio;
-
-II. Sobre el valor real de los objetos asegurados el día del incendio antes de que éste hubiere tenido lugar;
-
-III. Sobre el valor de los mismos objetos después del siniestro, y sobre todo lo demás que se someta á su juicio.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 419.
 
-El asegurador estará obligado á satisfacer la indemnización fijada por los peritos, en los diez días siguientes á su decisión, una vez consentida.
-
-En caso de mora, el asegurador abonará al asegurado el interés legal de la cantidad debida desde el vencimiento del término expresado.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 420.
 
-La decisión de los peritos será título ejecutivo contra el asegurador, si fuere dada ante notario; y sino lo fuere, previa confesión judicial de los peritos, y reconocimiento de sus firmas y de la verdad del documento.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 421.
 
-Dentro de los diez días fijados en el ar (sic) art. 419, el asegurador pagará en numerario el daño sufrido: ó reparará, reedificará ó reemplazará según su género ó especie, en todo (sic) en parte los objetos asegurados y destruídos por el incendio si convinieron en ello.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 422.
 
-El asegurador podrá adquirir para sí los efectos salvados siempre que abone al asegurado el valor real, con sujeción á la tasación de que trata el caso 2°. del artículo 418.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 423.
 
-El asegurador, fijada la indemnización, se subrogará, de pleno derecho en lo del asegurado, así como en las acciones que á éste competan contra todos los autores ó responsables del incendio por cualquier carácter ó título que sea.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 424.
 
-El asegurador después del siniestro, podrá rescindir el contrato para accidentes ulteriores, así como cualquier otro que hubiere hecho con el mismo asegurado, avisando á éste con quince días de anticipación y devolviéndole la parte de prima correspondiente al plazo no transcurrido.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 425.
 
-Los gastos que ocasionen la tasación pericial y la liquidación de la indemnización, serán de cuenta y cargo, por mitad, del asegurado y del asegurador; pero si hubiere exageración manifiesta del daño por parte del asegurado, éste será el único responsable de ellos.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
 
 ### CAPÍTULO V.
 
@@ -2274,87 +2220,69 @@ De las demás clases de seguros.
 
 ###### Art. 426.
 
-El seguro sobre la vida comprenderá todas las combinaciones que puedan hacerse, pactando entregas de primas ó entrega de capital á cambio de disfrute de renta vitalicia, ó hasta cierta edad, ó percibo de capitales, al fallecimiento de persona cierta, en favor del asegurado, su causa habiente ó una tercera persona, y cualquiera otra combinación semejante ó análoga.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 427.
 
-La póliza del seguro sobre la vida contendrá, además de los requisitos que exige el artículo 395, lo siguiente:
-
-I. Expresión de la cantidad que se asegura, en capital ó renta;
-
-II. Expresión de las diminuciones (sic) ó aumentos del capital ó rentas asegurados, y de las fechas desde las cuales deberán contarse aquellos aumentos ó diminuciones (sic).
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 428.
 
-Podrá celebrarse este contrato de seguro por la vida de un individuo ó de varios, sin exclusión de edad, condiciones, sexo ó estado de salud.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 429.
 
-Podrá constituirse el seguro á favor de una tercera persona, expresando en la póliza el nombre, apellido y condiciones del donatario ó persona asegurado ó determinándola de algún otro modo indudable.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 430.
 
-El que asegure á una tercera persona es el obligado á cumplir las condiciones del seguro, siendo aplicable á éste lo dispuesto en los artículos 436 y 440.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 431.
 
-Sólo el que asegure y contrate directamente con la compañía aseguradora estará obligado al cumplimiento del contrato como asegurado y á la entrega consiguiente del capital, ya satisfaciendo la cuota única ya las parciales que se hayan estipulado.
-
-La póliza, sin embargo, dará derecho á la persona asegurada para exigir de la Compañía aseguradora el cumplimiento del contrato.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 432.
 
-Sólo se entenderán comprendidos en el seguro sobre la vida los riesgos que especifica y taxativamente se enumeren en la póliza.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 433.
 
-El seguro para el caso de muerte no comprenderá el fallecimiento si ocurriere en cualquiera de los casos siguientes:
-
-I. Si el asegurado falleciere en duelo ó de resueltas de él;
-
-II. Si se suicidaré;
-
-III. Si sufriere la pena capital por delitos comunes.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 434.
 
-El seguro para el caso de muerte no comprenderá, salvo el pacto en contrario, y el pago correspondiente por el asegurado de la sobreprima exigida por el asegurador:
-
-I. El fallecimiento ocurrido en viajes fuera de la República;
-
-II. El que ocurriere en el servicio militar de mar ó tierra en tiempo de guerra;
-
-III. El que ocurriere en cualquier empresa ó hecho extraordinario y notoriamente temerario ó imprudente.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 435.
 
-El asegurado que demore la entrega del capital ó de la cuota convenida no tendrá derecho á reclamar el importe del seguro ó cantidad asegurada, si sobreviniere el siniestro ó se cumpliere la condición del contrato estando él en descubierto.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 436.
 
-Si el asegurado hubiere satisfecho varias cuotas parciales y no pudiere continuar el contrato, lo avisará al asegurador rebajándose el capital asegurado hasta la cantidad que esté en justa proporción con las cuotas pagadas, con arreglo á los cálculos que aperecieren en las tarifas de la Compañía aseguradora, y habida cuenta de los riesgos corridos por ésta, salvo pacto en contrario.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 437.
 
-El asegurado deberá dar cuenta al asegurador de los seguros sobre la vida que anterior ó simultáneamente celebre con otras compañías aseguradoras.
-
-La falta de este requisito privará al asegurado de los beneficios del seguro asistiéndole sólo el derecho a exigir el valor de la póliza.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 438.
 
-Las cantidades que el asegurador deba entregar á la persona asegurada, en cumplimiento del contrato, serán propiedad de ésta y de sus herederos, aun contra las reclamaciones de los herederos legítimos y acreedores de cualquiera clase del que hubiere hecho el seguro á favor de aquélla.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 439.
 
-El concurso ó quiebra del asegurado no anulará ni rescindirá el contrato de seguro sobre la vida; pero podrá reducirse, á solicitud de los representantes legítimos de la quiebra, ó liquidarse en los términos que fija el art. 436.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 440.
 
-Las pólizas de seguros sobre la vida, una vez entregados los capitales ó satisfechas las cuotas á que se obligó el asegurado, serán endosables, estampándose el endoso en la misma póliza y haciéndose saber á la Compañía aseguradora de una manera auténtica por el endosante y el endosatario.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 441.
 
-El contrato de seguro sobre la vida, á cantidad y plazo determinados, producirá acción ejecutiva en favor de ambos contratantes. Si el asegurado dejase de pagar en los plazos fijados las cantidades determinadas en el contrato, podrá el asegurador exigirle ejecutivamente el pago de las pensiones que adeude, ó rescindir el contrato, devolviendo al asegurado las pensiones que hubiere pagado, comunicando su resolución en un término que no exceda de los veinte días siguientes al vencimiento.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
 
 ### CAPÍTULO I.
 
@@ -2362,35 +2290,29 @@ De la forma, plazos y vencimientos de las letras de cambio.
 
 ###### Art. 442.
 
-Podrán ser objeto del contrato de seguro contra los riesgos de transporte, todos los efectos transportables por los medios propios de la locomoción terrestre.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 443.
 
-Además de los requisitos que debe contener la póliza, según el artículo 395, la de seguro de transporte contendrá:
-
-I. La empresa ó persona que se encargue del transporte;
-
-II. Las calidades específicas de los efectos asegurados, con expresión del número de bultos y de las marcas que tuvieren;
-
-III. La designación del punto en donde se hubieren de recibir los géneros asegurados, y del en que se haya de hacer la entrega.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 444.
 
-Podrán asegurar, no sólo los dueños de las mercancías transportadas, sino todos los que tengan interés ó responsabilidad en su conservación, expresando en la póliza el concepto en que contratan el seguro.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 445.
 
-El contrato de seguro de transportes comprenderá todo género de riesgos, sea cualquiera la causa que los origine; pero el asegurador no responderá de los deterioros originados por vicio propio de la cosa ó por el transcurso natural del tiempo, salvo pacto en contrario.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 446.
 
-En los casos de deterioro por vicio de la cosa ó transcurso del tiempo, el asegurador justificará judicialmente el estado de las mercaderías aseguradas, dentro de las veinticuatro horas siguientes á su llegada al lugar en que deban entregarse.
-
-Sin esta justificación no será admisible la excepción que proponga para eximirse de su responsabilidad como asegurador.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 447.
 
-Los aseguradores se subrogarán, de pleno derecho, en los que competan á los asegurados, para repetir contra los porteadores los daños de que fueren responsables con arreglo á las prescripciones de este Código.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
 
 ### CAPÍTULO II.
 
@@ -2398,7 +2320,7 @@ De la provisión.
 
 ###### Art. 448.
 
-Podrá asimismo ser objeto del contrato de seguro mercantil cualquiera otra clase de riesgos que provengan de casos fortuitos ó accidentes naturales, y los pactos que se consignen deberán cumplirse, siempre que sean lícitos y estén conformes con las prescripciones del capítulo primero de este título.
+(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
@@ -3378,7 +3300,7 @@ De los capitanes.
 
 (DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
-## TITULO DÉCIMO TERCERO.
+## TITULO DECIMO TERCERO.
 
 DE LA MONEDA.
 
@@ -3414,7 +3336,9 @@ Las instituciones de crédito se regirán por una ley especial, y mientras ésta
 
 DEL COMERCIO MARÍTIMO.
 
-## TITULO PRIMERO. DE LAS EMBARCACIONES
+## TITULO PRIMERO.
+
+DE LAS EMBARCACIONES.
 
 ###### Art. 641.
 
@@ -7801,6 +7725,20 @@ Se derogan el Título Segundo del Libro Segundo del Código de Comercio de 15 de
 D.O.F. 31 DE AGOSTO DE 1934.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 31 DE AGOSTO DE 1935.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+DISPOSICIONES FINALES
+
+###### ARTICULO 194.
+
+Esta ley entrará en vigor en la fecha de su publicación.
+
+###### ARTICULO 196.
+
+Se deroga el título VII, del Libro II del Código de Comercio de 15 de septiembre de 1889 y todas las disposiciones legales que se opongan a la presente ley.
 
 ###### ARTICULO 1°.
 
