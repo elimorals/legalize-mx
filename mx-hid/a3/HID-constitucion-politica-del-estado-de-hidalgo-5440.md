@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2003-03-31"
+last_updated: "2003-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2003.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -78,6 +78,16 @@ El Estado podrá, en los términos de Ley, convenir con la federación la asunci
 ###### Artículo 4°.
 
 En el Estado de Hidalgo, todo individuo gozará de las garantías y derechos que otorga esta Constitución y la Constitución Política de los Estados Unidos Mexicanos, las cuales no podrán restringirse ni suspenderse, sino en los casos y condiciones que ella misma establece.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
+
+###### Artículo 4 Bis.
+
+El derecho de petición, será atendido por los Funcionarios y Empleados Públicos, cuando se formule por escrito o por los medios que al efecto prevenga la Ley, de manera pacífica y respetuosa. En materia política, sólo podrán hacer uso de este derecho los Ciudadanos Hidalguenses.
+
+A toda petición, deberá recaer un acuerdo escrito de la Autoridad a quien se haya dirigido, la cual tiene obligación de hacerlo conocer al peticionario en breve término.
+
+Toda persona, tiene derecho a acceder a la información pública, conforme a la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -567,9 +577,9 @@ El Congreso se renovara en su totalidad cada tres años, debiendo de tomar poses
 
 El Congreso tendrá durante el año, dos períodos ordinarios de sesiones, como sigue:
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
-El primero se iniciará el primer día de abril y concluirá a más tardar el último de julio. El segundo comenzará el primer día de octubre y terminará a más tardar el último de diciembre.
+El Primero se iniciará el primer día de abril y concluirá a más tardar el último de julio. El Segundo comenzará el primer día de septiembre y terminará a más tardar el último de diciembre.
 
 Los períodos no podrán prorrogarse más allá de la fecha de su terminación.
 
@@ -2475,7 +2485,7 @@ P.O. 8 DE NOVIEMBRE DE 1948.
 
 DECRETO NUMERO 11, QUE REFORMA LOS ARTICULOS 48, 52, 78 Y 93 DE LA CONSTITUCION.
 
-Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación el en Periódico Oficial del Estado.
 
 P.O. 24 DE FEBRERO DE 1952.
 
@@ -2750,3 +2760,17 @@ UNICO.- Este Decreto entrara en vigor al día siguiente de su publicación en el
 P.O. 31 DE MARZO DE 2003.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado Libre y Soberano de Hidalgo.
+
+P.O. 11 DE AGOSTO DE 2003.
+
+DECRETO NUM. 137, QUE ADICIONA EL ARTICULO 4 BIS DE LA CONSTITUCION.
+
+PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE AGOSTO DE 2003.
+
+DECRETO NUM. 138, QUE REFORMA EL PARRAFO SEGUNDO DEL ARTICULO 38 DE LA CONSTITUCION.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
