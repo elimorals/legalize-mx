@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-5455"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-29"
-last_updated: "2000-12-30"
+last_updated: "2001-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 29 de diciembre de 1990.
 
@@ -307,11 +307,11 @@ IMPUESTO SOBRE ENAJENACIION DE AUTOMOVILES, CAMIONES Y DEMAS VEHICULOS DE MOTOR 
 
 DEL OBJETO:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 17.
 
-Es objeto de este impuesto, la enajenación de automóviles y demás vehículos de motor usados, que se realice dentro del territorio del estado, siempre que no cause el impuesto al valor agregado.
+Es objeto de este impuesto, la adquisición de automóviles y demás vehículos de motor usados, que se realice dentro del territorio del Estado, siempre que no cause el Impuesto al Valor Agregado.
 
 DEL SUJETO:
 
@@ -323,13 +323,13 @@ Son sujetos de este impuesto, quienes por cualquier titulo adquieran el dominio 
 
 DE LA BASE:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 19.
 
-Es base de este impuesto, el valor de la adquisición de automóviles y demás vehículos de motor usados cuya operación y contratación se realice dentro del territorio del Estado.
+Se considera como monto de este Impuesto, lo establecido en el Artículo 20 de esta Ley.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
 DE LA TASA:
 
@@ -347,11 +347,11 @@ Para los efectos de este impuesto, se considerará efectuada la operación dentr
 
 DEL PAGO DEL IMPUESTO:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 22.
 
-El pago de este impuesto, deberá efectuarse en el Centro Regional de Operación Fiscal o sucursal bancaria autorizada, dentro de los quince días siguientes a la celebración de la operación.
+El pago de este Impuesto, deberá efectuarse en las Sucursales Bancarias autorizadas por la Secretaría de Finanzas y Administración, dentro de los quince días siguientes a la celebración de la operación por la que se adquieran los vehículos.
 
 DE LAS OBLIGACIONES:
 
@@ -363,13 +363,11 @@ Para la recaudación de este impuesto, se observarán las siguientes reglas:
 
 I. Las personas que lleven a cabo las operaciones objeto de este impuesto, deberán presentar, en el centro regional de operación fiscal, una manifestación en las formas oficiales aprobadas, a efecto de proporcionar los datos y documentos relativos a la operación;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-II. El Centro Regional de Operación Fiscal, al recibir dicha declaración, expedirá el comprobante respectivo, para hacer constar que el impuesto ha sido cubierto; y
+II. Los Centros Regionales de Operación Fiscal, se cerciorarán que se haya efectuado el pago de este Impuesto mediante la exhibición por parte del contribuyente, del comprobante expedido por la institución Bancaria autorizada.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-III. Las Empresas dedicadas a la compra-venta de vehículos llevarán un libro autorizado por la Secretaría de Finanzas y Administración del Estado, en el que se anotarán en el acto de recibir cada unidad, las características que lo identifiquen, el nombre y domicilio del propietario anterior, el de comitente o consignante.
+III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2001)
 
 ###### ARTICULO 24.
 
@@ -751,9 +749,11 @@ DEL PAGO DEL IMPUESTO:
 
 El pago de este impuesto deberá hacerse bimestralmente, a más tardar el día 15 del mes correspondiente, por los ingresos percibidos en el bimestre inmediato anterior.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 53.
 
-Quienes hagan pagos a contribuyentes de este impuesto, deberán retenerlo y enterarlo en la Oficina Rentística correspondientes, a más tardar el día 15 del mes siguiente en el que se efectúo la retención.
+Los retenedores de este Impuesto deberán enterarlo en la Sucursal Bancaria autorizada, a más tardar el día 15 del mes siguiente en el que se efectuó la retención.
 
 DE LAS OBLIGACIONES:
 
@@ -761,11 +761,13 @@ DE LAS OBLIGACIONES:
 
 Los sujetos de este impuesto están obligados a:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-I. Empadronarse en la Oficina Rentística de su jurisdicción, dentro de los diez días hábiles siguientes a aquel en que se inicien sus actividades, utilizando al efecto las formas aprobadas por la Secretaria de Finanzas y Administración.
+I. Empadronarse en el Centro Regional de Operación Fiscal de su jurisdicción, dentro de los diez días hábiles siguientes a aquel en que se inicien sus actividades, mediante la utilización de las formas aprobadas por la Secretaría de Finanzas y Administración;
 
-II. Dar aviso a la Oficina Rentística en los casos de cambio de domicilio, suspención o cambio de la actividad dentro del mismo plazo señalado en la fracción anterior, contando a partir de la fecha en que ocurran.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
+
+II. Dar aviso al Centro Regional de Operación Fiscal en los casos de cambio de domicilio, suspensión o cambio de la actividad dentro del mismo plazo señalado en la fracción anterior, el que se contará a partir de la fecha en que ocurra;
 
 III. Presentar los avisos, documentos, datos e información que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y lugares señalados al efecto;
 
@@ -835,9 +837,11 @@ IV. Las personas físicas o morales que tengan más de trescientos empleados…�
 
 DEL PAGO DEL IMPUESTO:
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 61.
 
-El impuesto sobre Nóminas, se causará en el momento en que se realicen las erogaciones por el trabajo personal subordinado y se pagará mediante declaraciones que deberán presentar en la Oficina Rentística en que se encuentren empadronados, a más tardar el día veinte del mes de calendario siguiente a la fecha de su causación, en las formas oficiales aprobadas.
+El Impuesto sobre Nóminas, se causará en el momento en que se realicen las erogaciones por el trabajo personal subordinado y se pagará mediante declaraciones que se deberán presentar en la Sucursal Bancaria autorizada, a más tardar el día 20 del mes de calendario siguiente a la fecha de su causación, en las formas oficiales aprobadas por la Secretaría de Finanzas y Administración.
 
 DE LAS OBLIGACIONES:
 
@@ -845,27 +849,29 @@ DE LAS OBLIGACIONES:
 
 Los contribuyentes de este impuesto están obligadas a :
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-I. Registrarse en la Oficina Rentística de su jurisdicción dentro del mes siguiente a la fecha de iniciación de sus operaciones, en las formas aprobadas por la Secretaria de Finanzas y Administración;
+I. Registrarse en el Centro Regional de Operación Fiscal de su jurisdicción, dentro del mes siguiente a la fecha del inició de sus operaciones, en las formas oficiales aprobadas por la Secretaría de Finanzas y Administración;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-II. Presentar las declaraciones y efectuar el pago del impuesto en al oficina rentistica de la jurisdicción en que estén empadronados, inclusive los contribuyentes sujetos a la tasa del 0%, los que deberán presentar declaraciones cuatrimestrales y, en su caso complementarias.
+II. Presentar las declaraciones y efectuar el pago del Impuesto en la Sucursal Bancaria autorizada, inclusive los contribuyentes sujetos a la tasa del 0%, los que deberán presentar declaraciones anuales y en su caso complementarias;
 
-III. Tratándose de personas físicas o morales cuya casa matriz y sucursales se encuentren ubicadas en el territorio del Estado, deberán presentar una sola declaración en la Oficina Rentística correspondiente a la jurisdicción del domicilio de la matriz, acumulando el número de trabajadores que tengan en dichas sucursales.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
+III. En los casos de personas físicas o morales cuya casa matriz y sucursales se encuentren ubicadas en el territorio del Estado, deberán presentar una sola declaración en el Centro Regional de Operación Fiscal correspondiente a la jurisdicción del domicilio de la matriz, en la que acumularán el número de trabajadores que tengan en dichas sucursales;
+
+> <small>(ADICIONADO SEGUNDO PARRAFO, P.O. 27 DE DICIEMBRE DE 1991)</small>
 
 En el caso que el domicilio de la matriz, se encuentre fuera del Estado, y solo existan Sucursales o Distribuidoras en el Estado, deberán presentar una sola declaración en las Oficinas Rentísticas de la Jurisdicción donde se encuentre el domicilio del principal asiento de las actividades que se realicen dentro de la Entidad, acumulando el número de Trabajadores que tengan en todas las Sucursales del Estado.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-IV. Tratándose de personas físicas y morales cuya casa matriz se encuentre ubicada fuera del territorio del estado, las sucursales que realicen sus operaciones dentro de esta entidad federativa, deberán presentar una sola declaración en la oficina rentistica correspondiente, en razón al domicilio fiscal que manifiesten, acumulando el numero de trabajadores que tengan en todas las sucursales citadas.
+IV. En los casos de personas físicas o morales cuya casa matriz se encuentre ubicada fuera del territorio del Estado, las sucursales que realicen sus operaciones dentro de esta Entidad Federativa, deberán presentar una sola declaración en la Sucursal Bancaria autorizada, en razón al domicilio fiscal que manifieste, en la que acumularán el número de trabajadores que tengan en todas las sucursales citadas y
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-V.- Presentar en la oficina rentistica de su jurisdicción, cualquier aviso de movimiento que realice y modifique su inscripción inicial, en las formas aprobadas por la Secretaría de Finanzas y Administración.
+V.- Presentar en el Centro Regional de Operación Fiscal de su jurisdicción cualquier aviso de movimiento que realice y que modifique su inscripción inicial, en las formas aprobadas por la Secretaría de Finanzas y Administración.
 
 ### CAPITULO SEPTIMO.
 
@@ -989,6 +995,8 @@ ARTÍCULO 69 BIS-G.- El ingreso que perciba el Estado proveniente del impuesto a
 
 ### CAPITULO II. DE LAS DEPENDENCIAS DE LA SECRETARIA DE FINANZAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 70.
 
 Los Derechos por la prestación de los servicios del Estado, a través de la Dirección General de Gobierno, se causarán y pagarán de la siguiente forma:
@@ -1036,6 +1044,18 @@ d). Opinión para el uso de explosivos por una sola vez en obras pequeñas de ca
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 VIII. Por la inscripción de la apostilla para certificar la autenticidad de la firma, la calidad en que el signatario del documento haya actuado y, en su caso, la identidad del sello o timbre del documento. 2 salarios mínimos
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTÍCULO 70
+
+BIS.- Los Derechos por la prestación de servicios del Estado, a través de la Dirección General de Protección Civil, se causarán y pagarán de la forma siguiente:
+
+I. Por la supervisión y la elaboración de dictámenes técnicos que se practiquen a establecimientos comerciales, industriales, de espectáculos públicos y de servicio instalados o que pretendan instalarse en el territorio del Estado ..........de 50 a 300 salarios mínimos
+
+II. Por la supervisión y la elaboración de dictámenes técnicos de instalaciones de estructuras, antenas, equipos y maquinaria especiales....... de 50 a 300 salarios mínimos
+
+III. Por la capacitación mediante la impartición de cursos que soliciten personas físicas o morales en forma particular ..........de 10 a 300 salarios mínimos
 
 ###### ARTICULO 71.
 
@@ -1127,9 +1147,9 @@ XIII.- Otros actos inscribibles no previstos..............2 salarios mínimos
 
 XIV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADO, P.O.31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-La cancelación de la reserva de dominio, se pagará al 50% del valor de la inscripción principal.
+Por la cancelación de actos a que se refieren las fracciones VI, VII y X de este Artículo, se pagará el 50% del valor de la inscripción principal.
 
 ADICIONADO, P.O.31 DE DICIEMBRE DE 1999)
 
@@ -1293,9 +1313,13 @@ X.- Por la inscripción de revocación o renuncia de poderes 1 salario mínimo
 
 XI.- Por la inscripción de cualquier otro Título registrable conforme a la Ley ...50% de la tarifa del artículo 88 ter
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-XII.- Por cualquier otro título registrable conforme a la Ley 1 salario mínimo
+XII.- Por la venta, cesión o cualquier acto que signifique transmisión de acciones, se pagará ..........25% de la tarifa del Artículo 88 Ter
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
+
+XIII.- Por cualquier otro título registrable conforme a la Ley 1 salario mínimo
 
 ###### ARTICULO 76.
 
@@ -1373,11 +1397,11 @@ II. Por la expedición de certificados de inscripción, sin datos, o de no inscr
 
 III. Por certificados de no propiedad, por cada 10 años o fracción ..............3 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-IV.- Por la expedición de certificados de libertad o existencia de
+IV.- Por la expedición de certificados de libertad de
 
-gravámenes .......................................................................................................2 salarios mínimos
+gravamen .......................................................................................................2 salarios mínimos
 
 a) (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
@@ -1515,9 +1539,11 @@ IV.- Cuando el valor del acto a inscribir, sea superior a cien salarios mínimos
 
 Para efectos de la cuantificación de los derechos a pagar de acuerdo con la presente tarifa: se deberá determinar el monto de la operación de conformidad con lo dispuesto en el último párrafo del artículo 71 de esta Ley, se ubicará en el parámetro correspondiente y se multiplicará, el número de salarios mínimos, por 365 días con lo que se determinará la cantidad a pagar, a la que se sumarán las cantidades que por adicionales resulten procedentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 89.
 
-Los derechos por la prestación de los servicios del Estado, a través de la Dirección del Registro Familiar, se causarán y pagarán de la siguiente forma:
+Los Derechos por la prestación de los servicios del Estado, a través de la Dirección del Registro del Estado Familiar, se causarán y pagarán de la siguiente forma:
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
@@ -1577,25 +1603,25 @@ II.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1994)
 
 III. De las Licencias para conducir.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-A) Expedición de Licencia de Chofer 4 salarios mínimos
+A) Expedición de Licencia de Chofer 5 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-B) Expedición de Licencia de Automovilista 3 salarios mínimos
+B) Expedición de Licencia de Automovilista 4 salarios mínimos
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-C) Expedición de Licencia de Motociclista 2.5 salarios mínimos
+C) Expedición de Licencia de Motociclista 3 salarios mínimos
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-D) Canje de Licencia de Chofer 3 salarios mínimos
+D) Canje de Licencia de Chofer 4 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-E) Canje de Licencia de Automovilista 2 salarios mínimos
+E) Canje de Licencia de Automovilista 3 salarios mínimos
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
@@ -1611,9 +1637,9 @@ H) El canje extemporáneo de licencias pagará recargos conforme a lo dispuesto 
 
 I).(DEROGADA, P.O. 31 DE DICIEMBRE DE 1993)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-J).- Cambio de licencia de automovilista a chofer 3.5 salarios mínimos
+J).- Cambio de licencia de automovilista a chofer 2 salarios mínimos
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -1647,17 +1673,21 @@ B). Permiso provisional para conducir sin licencia 2 salarios mínimos
 
 Los permisos a que se refieren los incisos de esta fracción serán hasta por 30 días.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-C). Permisos provisionales de carga 8 salarios mínimos
+C). Los permisos provisionales de carga, se expedirán a:
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-1.- Se expedirán a los contribuyentes que se encuentren en las condiciones siguientes:
+1. Los que se encuentren inscritos en la Secretaría de Hacienda y Crédito Público o exhiban su tarjeta de circulación en la que se establezca la actividad a que se dedican, hasta por 1 año...... 8 salarios mínimos.
 
-Los que se encuentren inscritos ante la Secretaría de Hacienda y Crédito Público, que exhiban tarjeta de circulación en la que se establezca el uso a que se dedica, hasta por un año 8 salarios mínimos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-Los que realicen actividades eventuales, que exhiban tarjeta de circulación con uso particular, hasta por 72 horas 1 salario mínimo.
+2. Los que no se encuentren inscritos ante la Secretaría de Hacienda y Crédito Público y no contenga en su tarjeta de circulación la actividad a que se dedican, hasta por 30 días ........ 8 salarios mínimos.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
+
+3. Los que realicen actividades eventuales, hasta por 72 horas .......... 1 salario mínimo.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -1671,161 +1701,7 @@ A) Por la expedición de copias fotostáticas, por cada hoja $ 5.00
 
 B) Por la certificación de copias, por documento $ 10.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-Articulo 90 bis.- Los derechos por la prestación de los servicios del Estado, a través de la Dirección General de Transporte, se causarán y pagarán de la siguiente forma:
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-I. Por el otorgamiento de concesiones para el transporte público de pasajeros en servicio de colectivos de ruta, urbanos o foráneos, se pagarán de acuerdo a la siguiente zonificación de municipios del Estado:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregon, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipan, Huejutla, Tecozautla, y Apan.....................................................60 salarios minimos
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlan, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlan, San Agustín Metzquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocan, San Felipe Orizatlan, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán.....................................................................................................50 salarios minimos
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores.....40 salarios minimos
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-II. Por el otorgamiento de concesiones para el transporte público de pasajeros en servicio individual de taxi o sitio, se pagarán de acuerdo a la siguiente zonificación de municipios del estado:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan.....................................................60 salarios minimos
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán................................................................................................. 50.00 salarios minimos
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-C) Eloxochitlan, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores........30.00 salarios minimos
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-III. Por el otorgamiento de concesiones para el transporte público de pasajeros en servicio especializado, se pagarán de acuerdo a la siguiente zonificación de municipios del Estado:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán De Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla, y Apan............................................... 50 salarios mínimos
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán........................40 salarios mínimos
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores......................30 salarios mínimos
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-IV. Por el otorgamiento de concesiones para el transporte público de bienes en servicio de carga en general, se pagarán de acuerdo a la siguiente zonificación de municipios del Estado:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan.................................................50 salarios minimos
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán.... ................40 salarios minimos
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores.....................................30 salarios minimos
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-V. Por el otorgamiento de concesiones para el transporte público de bienes en servicio de materiales para construcción, se pagarán de acuerdo a la siguiente zonificación de municipios del Estado:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan..................................................... 50 salarios minimos
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán...................................................................................................... 40 salarios minimos
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores..................................... 30 salarios minimos
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-VI. Por el otorgamiento de concesiones para el transporte público de bienes en servicio de arrastre, se pagarán de acuerdo a la siguiente zonificación de municipios del Estado:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-A) Pachuca, Atotonilco El Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan.................................................. 50 salarios minimos
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán..................................................................................................... 40 salarios minimos
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores.................... 30 salarios minimos
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-VII. Por el otorgamiento de concesiones para el transporte publico de bienes en servicio especializado, se pagaran de acuerdo a la siguiente zonificación de municipios del Estado:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlan de Juárez, Tulancingo, Acatlan, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregon, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipan, Huejutla, Tecozautla y Apan....................... ........................... 50 salarios minimos
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlan, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlan, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlan, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlan, San Agustín Mezquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocan, San Felipe Orizatlan, Tlanchinol, Huichapan, Jacala, Nopala y Zimapan.................................................................................................... 40 salarios minimos
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores.................. 30 salarios minimos
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-VIII. Por las ampliaciones de ruta, hasta 5 kilómetros.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-A) Por cada kilómetro......................................8 salarios minimos
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-IX. Por las transferencias:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-A). De las concesiones a que se hace referencia en las fracciones I, II, III, IV, V, VI y VII de este artículo, se causarán y pagarán derechos en un 100% de acuerdo a las tarifas establecidas en los incisos de dichas fracciones según sea el caso; y
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-B). Las derivadas de herencia o por incapacidad física del concesionario, y aquellas que por imposibilidad material o cambio de residencia a que hacen referencia las fracciones I, II, III, IV, V, VI y VII de este artículo, se causarán y pagarán derechos en un 50% de acuerdo a las tarifas establecidas en los incisos de dichas fracciones según sea el caso, y;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-X. Por las renovaciones:
-
-A) De las concesiones a que hace referencia las fracciones I, II, III, IV, V, VI y VII, de este articulo, se causarán y pagarán derechos en un 20% de acuerdo a las tarifas establecidas en los incisos de dichas fracciones, según sea el caso, y;
-
-B) De las concesiones a que hacen referencia las fracciones I, II, III, IV, V, VI, VII, que se hagan extemporáneas se aplicará lo establecido en el articulo 3o. de la Ley de Ingresos del Estado.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-XI. Las modificaciones que se realicen en cualquier tipo de concesiones señaladas en este articulo, pagarán 12 salarios minimos
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-XII. Los registros por regularización de transporte publico de pasajeros, de los municipios de: Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlan de Juárez, Tulancingo, Acatlan, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregon, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipan, Huejutla, Tecozautla y Apan. Podrán ser mixtos y especiales, y se pagaran de acuerdo a la siguiente manera:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-A) Colectivos de ruta urbanos o foráneo...............30 salarios minimos
+Articulo 90 bis.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2001)30 salarios minimos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2047,7 +1923,7 @@ DE LAS DEPENDENCIAS DE LA SECRETARIA DE OBRAS PUBLICAS.
 
 ###### ARTICULO 92.
 
-Los derechos por la prestación de los servicios del Estado, a través de la Dirección General de Ingresos y Auditoría Fiscal, se causarán y pagarán de la siguiente forma:
+Los Derechos por la prestación de los servicios del Estado, a través de la Dirección General de Operación Fiscal, se causarán y pagarán de la siguiente forma:
 
 I. Por la expedición de copias certificadas:
 
@@ -2211,7 +2087,7 @@ B) Por cada hoja excedente $ 5.00
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-### CAPITULO IV. DE LAS DEPENDENCIAS DE LA UNIDAD DE LA CONTRALORIA
+### CAPITULO IV. DE LAS DEPENDENCIAS DE LA SECRETARIA DE CONTRALORIA
 
 ###### ARTÍCULO 94.
 
@@ -2221,7 +2097,7 @@ B) Por cada hoja excedente $ 5.00
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1994)</small>
+((REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2001)
 
 ### CAPITULO IV BIS. DE LAS DEPENDENCIAS DE LA SECRETARIA DE
 
@@ -2269,9 +2145,7 @@ II. Por la inscripción en el padrón de contratistas 7 salarios mínimos
 
 III. Por el refrendo anual al Padrón de contratistas 7 salarios mínimos
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
-
-IV. Por la expedición de Constancia de No Inhabilitación, para desempeñar cargo público 0.5 salarios mínimos.
+IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2001)
 
 V. Por la expedición de copias certificadas de cualquier documento existente en los archivos de esta Dirección General:
 
@@ -2282,6 +2156,14 @@ A) Por la primera hoja 0.5 SALARIOS MINIMOS
 REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
 B) Por cada hoja excedente $ 5.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2001)</small>
+
+Asimismo, los Derechos por la prestación de los servicios del Estado a través de la Dirección General de Inspección y Vigilancia, se causarán y pagarán de la siguiente forma:
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2001)</small>
+
+Los contratistas con quienes se celebren contratos de obra pública y de servicios en los que participe el Estado, pagarán por el servicio de vigilancia, inspección y control que corresponda a la Secretaría: 5 al millar sobre el importe de cada una de las estimaciones de trabajo.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -2311,11 +2193,13 @@ Procuraduria General de Justicia
 
 Articulo 98 BIS.- Los derechos por la prestación de los servicios del Estado, que soliciten los particulares a través de la Dirección de Administración, independientemente de sus funciones de derecho publico contenidas en su ley orgánica respectiva, se causarán y pagarán de la siguiente forma:
 
-I. Por la expedición de copias fotostáticas de documentos que existan en los archivos de esta institución.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-a) Por la primera hoja. $ 5.00
+I. Por la expedición de copias fotostáticas de documentos que existan en los archivos de esta institución................. $0.55
 
-b) Por cada hoja excedente. $ 2.00
+a) (DEROGADA, P.O. 31 DE DICIEMBRE DE 2001)
+
+b) (DEROGADA, P.O. 31 DE DICIEMBRE DE 2001)
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
@@ -2325,17 +2209,17 @@ c) Por la certificación de las mismas. 1 salario mínimo
 
 II. Por la elaboración de peritajes. 2 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-III. Por la práctica de examen antidoping 12.5 salarios mínimos
+III. Por la práctica de examen antidoping 10 salarios mínimos
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 IV. Por la práctica de examen toxicológico. 2 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-V. Por la expedición de certificados de no antecedentes penales. 1 salario mínimo
+V. Por la expedición de certificados de no antecedentes penales. 1.5 salarios mínimos
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -2622,3 +2506,9 @@ PRIMERO.- El presente decreto entrará en vigor el día I° de enero de 2001, pr
 SEGUNDO.- Al entrar en vigor el Código Fiscal del Estado que se contiene en el presente decreto, queda abrogado el Código Fiscal del Estado de Hidalgo publicado el 31 de diciembre de 1981en en Periódico Oficial de la Entidad.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
+
+P.O 31 DE DICIEMBRE DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1° de Enero del año 2002, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
