@@ -4,7 +4,7 @@ identifier: "COL-ley-de-pensiones-civiles-para-el-estado-de-colima-4421"
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-29"
-last_updated: "1968-12-28"
+last_updated: "1970-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PENSIONES CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1970.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 29 de diciembre de 1962.
 
@@ -205,9 +205,17 @@ VI.- Las donaciones, herencias, legados y fideicomisos que se hicieren o constit
 
 VII.- Cualquier otra percepción ya sea de carácter civil o mercantil con la cual resultare beneficio a la Dirección.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1970)</small>
+
 ###### Art. 17.
 
-Se establece como descuento forzoso para los trabajadores acogidos a los beneficios de esta Ley, el cinco por ciento de sus sueldos, honorarios o percepciones, sin tomar en consideración la edad del obligado. El Estado, Organismos e Institutos y Municipios que se acojan deberán aportar el dos y medio por ciento sobre los sueldos de sus empleados y funcionarios. El fondo constituido es inembargable.
+Se establecen como descuentos forzosos para los trabajadores acogidos a los beneficios de esta Ley los siguientes:
+
+I.- El cinco por ciento de sus sueldos honorarios y percepciones, sin tomar en consideración la edad del obligado que se destinará a la constitución del Fondo de la Institución.
+
+II.- El dos por ciento de las mismas percepciones, que se destinará exclusivamente como aportación para los servicios médico-asistenciales de los servidores públicos.
+
+El Estado, Organismos e Institutos y Municipios que se acojan deberán aportar el dos y medio por ciento sobre los sueldos de sus empleados y funcionarios. El fondo constituído es inembargable.
 
 ###### Art. 18.
 
@@ -530,3 +538,7 @@ Este Decreto surtirá sus efectos a partir de su publicación en el Periódico O
 P.O. 28 DE DICIEMBRE DE 1968.
 
 Este Decreto surtirá sus efectos a partir del 1o. de Enero de 1969.
+
+P.O. 28 DE FEBRERO DE 1970.
+
+Este decreto surtirá sus efectos legales a partir de su publicación en el Periódico Oficial del Estado.
