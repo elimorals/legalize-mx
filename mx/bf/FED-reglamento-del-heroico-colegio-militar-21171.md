@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-heroico-colegio-militar-21171"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-16"
-last_updated: "2001-05-16"
+last_updated: "2004-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-05-15"
 
 REGLAMENTO DEL HEROICO COLEGIO MILITAR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2004.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el miércoles 16 de mayo de 2001.
 
@@ -1009,27 +1009,37 @@ El personal de cadetes y clases en instrucción que repruebe un examen especial 
 
 ## TÍTULO SÉPTIMO. De los Reconocimientos Académicos, Premios y Recompensas
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADA], D.O.F. 16 DE AGOSTO DE 2004)</small>
+
+### CAPÍTULO ÚNICO. De los Títulos, Certificados y Patentes
+
+> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2004)</small>
 
 ###### ARTÍCULO 75.
 
 El personal en instrucción del Heroico Colegio Militar que termine satisfactoriamente sus estudios recibirá:
 
-I. Personal Nacional:
+I. Personal nacional:
 
-A. Título de Técnico Superior Universitario;
+A. Certificado de Estudios;
 
-B. Patente correspondiente, y
+B. Título de Técnico Superior Universitario;
 
-C. Certificado de Estudios.
+C. Grado de Subteniente de Infantería, Caballería, Artillería, Arma Blindada, Zapadores, Intendencia o Administración, según corresponda;
 
-II. Personal de Nacionalidad Extranjera:
+D. Patente, y
 
-A. Título de Técnico Superior Universitario;
+E. Gafete distintivo del curso.
 
-B. Certificado de Estudios, y
+II. Personal de nacionalidad extranjera:
 
-C. Diploma.
+A. Certificado de Estudios;
+
+B. Título de Técnico Superior Universitario;
+
+C. Diploma, y
+
+D. Gafete distintivo del curso.
 
 ###### ARTÍCULO 76.
 
@@ -1051,7 +1061,7 @@ V. Exento de presentar examen final ordinario al personal en instrucción que ob
 
 ###### ARTÍCULO 78.
 
-El personal en instrucción que termine satisfactoriamente sus estudios, además de lo establecido en este Reglamento recibirá gafete distintivo del curso correspondiente.
+(DEROGADO, D.O.F. 16 DE AGOSTO DE 2004)
 
 ## TÍTULO OCTAVO. Disposiciones Complementarias
 
@@ -1136,3 +1146,11 @@ SEGUNDO.- Se abrogan los Reglamentos siguientes: del Colegio de Defensa Nacional
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de mayo de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de la Defensa Nacional, Gerardo Clemente Ricardo Vega García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 16 DE AGOSTO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
