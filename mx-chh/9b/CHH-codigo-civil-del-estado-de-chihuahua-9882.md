@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2000-01-26"
+last_updated: "2000-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2000.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -819,7 +819,9 @@ IV.- Los que según los Artículos 325, 326 y 327 pueden continuar o intentar la
 
 135.- Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
-136.- Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. Los Presidentes Municipales pueden conceder dispensa de edad por causas graves y justificadas.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2000)</small>
+
+136.- Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce.
 
 137.- El hijo o hija que no hayan cumplido dieciocho años no pueden contraer matrimonio sin consentimiento de sus padres, si vivieran ambos, o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; o en su defecto se requiere el consentimiento de los abuelos maternos o del que sobreviva.
 
@@ -1707,32 +1709,6 @@ IV.- El Ministerio Público en todos los casos.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
-C) ADOPCION PLENA
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-D) ADOPCION INTERNACIONAL
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
-
-Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
 B) ADOPCION SIMPLE
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
@@ -1786,6 +1762,32 @@ III.- Si incumple con su deber de proporcionar alimentos al adoptante.
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 383 BIS.- La resolución judicial que revoque la adopción, restituye las cosas al estado que guardaban antes de autorizarse aquélla. La resolución se comunicará al Oficial del Registro Civil respectivo para que cancele el acta relativa.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+C) ADOPCION PLENA
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+D) ADOPCION INTERNACIONAL
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
+
+Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
 
 ### CAPITULO I. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LA PERSONA DE LOS HIJOS
 
@@ -10026,3 +10028,7 @@ P.O. 26 DE ENERO DE 2000.
 DECRETO No. 433-00 III P.E.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 15 DE ABRIL DE 2000.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
