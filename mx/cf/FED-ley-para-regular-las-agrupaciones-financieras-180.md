@@ -4,7 +4,7 @@ identifier: "FED-ley-para-regular-las-agrupaciones-financieras-180"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "1996-04-30"
+last_updated: "1996-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRAF"
 
 LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -84,15 +84,15 @@ Se requerirá autorización de la Secretaría de Hacienda y Crédito Público pa
 
 Por su naturaleza, dichas autorizaciones serán intransmisibles.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 7o.
 
-Los grupos a que se refiere la presente Ley estarán integrados por una sociedad controladora y por algunas de las entidades financieras siguientes: almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero, casas de cambio, instituciones de fianzas, instituciones de seguros, sociedades financieras de objeto limitado, casas de bolsa, instituciones de banca múltiple, así como por sociedades operadoras de sociedades de inversión.
+Los grupos a que se refiere la presente Ley estarán integrados por una sociedad controladora y por algunas de las entidades financieras siguientes: almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero, casas de cambio, instituciones de fianzas, instituciones de seguros, sociedades financieras de objeto limitado, casas de bolsa, instituciones de banca múltiple, así como sociedades operadoras de sociedades de inversión y administradoras de fondos para el retiro.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 1996)</small>
 
-El grupo financiero podrá formarse con cuando menos dos tipos diferentes de las entidades financieras siguientes: instituciones de banca múltiple, casas de bolsa e instituciones de seguros. En los casos en que el grupo no incluya a dos de las mencionadas entidades deberá contar por lo menos con tres tipos diferentes de entidades financieras de las citadas en el párrafo anterior, que no sean sociedades operadoras de sociedades de inversión.
+El grupo financiero podrá formarse con cuando menos dos tipos diferentes de las entidades financieras siguientes: instituciones de banca múltiple, casas de bolsa e instituciones de seguros. En los casos en que el grupo no incluya a dos de las mencionadas entidades, deberá contar por lo menos con tres tipos diferentes de entidades financieras de las citadas en el párrafo anterior que no sean sociedades operadoras de sociedades de inversión o administradoras de fondos para el retiro.
 
 La Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general, podrá autorizar que otras sociedades puedan formar parte de estos grupos.
 
@@ -126,9 +126,11 @@ VI. La demás documentación que, en su caso solicite la Secretaría de Hacienda
 
 En el evento de que la controladora pretendiere adquirir acciones de empresas que prestaren servicios complementarios o auxiliares a la propia controladora o a los demás integrantes del grupo, incluyendo inmobiliarias propietarias de bienes destinados a oficinas de la controladora o de los demás integrantes del grupo, también deberán presentar, según corresponda, los proyectos de estatutos de tales empresas, o los estatutos vigentes con el proyecto de sus modificaciones, así como el programa y convenios para la adquisición de las acciones respectivas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 1996)</small>
+
 ###### ARTICULO 10.
 
-La incorporación de una nueva sociedad a un grupo ya constituido, la fusión de dos o más grupos, así como la fusión de dos o más entidades participantes en un mismo grupo, requerirá autorización de la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México, y según corresponda, de las Comisiones Nacionales Bancaria de Valores, y de Seguros y Fianzas.
+La incorporación de una nueva sociedad a un grupo ya constituido, la fusión de dos o más grupos, así como la fusión de dos o más entidades participantes en un mismo grupo, o de una entidad financiera con cualquier sociedad, requerirá autorización de la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y, según corresponda, de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro.
 
 La incorporación o la fusión, según se trate, se llevará a cabo conforme a las bases siguientes:
 
@@ -144,9 +146,11 @@ V. Una vez hecha la inscripción anterior, los acuerdos de incorporación o fusi
 
 VI. Durante los noventa días naturales siguientes a partir de la fecha de publicación, los acreedores de cualquiera de las sociedades, incluso de las demás entidades financieras integrantes del o de los grupos respectivos, podrán oponerse judicialmente, con el único objeto de obtener el pago de sus créditos, sin que esta oposición suspenda la incorporación o la fusión.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 1996)</small>
+
 ###### ARTICULO 11.
 
-La separación de alguno o algunos de los integrantes de un grupo, así como la disolución de este último, deberán ser autorizadas por la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y, según corresponda, de las Comisiones Nacionales Bancaria, de Valores, y de Seguros y Fianzas.
+La separación de alguno o algunos de los integrantes de un grupo, así como la disolución de este último, deberán ser autorizadas por la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y, según corresponda, de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro.
 
 La separación o disolución mencionadas, surtirán efectos a partir de la fecha en que la autorización a que se refiere este artículo, así como los respectivos acuerdos de las asambleas de accionistas, se inscriban en el Registro Público de Comercio. Tratándose de la separación, además será aplicable lo dispuesto en las fracciones V y VI del artículo anterior. Al surtir efectos la separación, las entidades financieras deberán dejar de ostentarse como integrantes del grupo respectivo.
 
@@ -158,9 +162,11 @@ La separación de las entidades financieras se llevará a cabo sin perjuicio de 
 
 La controladora sólo podrá disolverse una vez cumplidas todas las obligaciones contraídas por cada una de las entidades financieras con anterioridad a la disolución del grupo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 1996)</small>
+
 ###### ARTICULO 12.
 
-La Secretaría de Hacienda y Crédito Público, oyendo al Banco de México y, según corresponda, a las Comisiones Nacionales Bancaria, de Valores, y de Seguros y Fianzas, así como a la controladora del grupo financiero afectado, podrá revocar la autorización a que se refiere el artículo 6o. de esta Ley, si la controladora o alguno de los demás integrantes del grupo reiteradamente incumplen lo dispuesto en la presente Ley o en las normas que de ella emanen.
+La Secretaría de Hacienda y Crédito Público, oyendo al Banco de México y, según corresponda, a las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro, así como a la controladora del grupo financiero afectado, podrá revocar la autorización a que se refiere el artículo 6o. de esta ley, si la controladora o alguno de los demás integrantes del grupo incumplen lo dispuesto en la presente ley o en las normas que de ella emanen.
 
 Al revocarse la autorización, los integrantes deberán dejar de ostentarse como miembros del grupo respectivo. Las responsabilidades de la controladora a que se refiere el artículo 28 de esta Ley, subsistirán en tanto no queden totalmente cumplidas todas las obligaciones contraídas por cada una de las entidades financieras que formaban el grupo, con anterioridad a la revocación. La controladora se disolverá en los términos de lo dispuesto por el último párrafo del artículo anterior.
 
@@ -236,11 +242,11 @@ Además, las acciones serie "L" podrán conferir derecho a recibir un dividendo 
 
 Las sociedades podrán emitir acciones no suscritas, que conservarán en tesorería, las cuales no computarán para efectos de determinar los límites de tenencia accionaria a que se refiere esta Ley. Los suscriptores recibirán las constancias respectivas contra el pago total de su valor nominal y de las primas que, en su caso, fije la sociedad.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 19.
 
-Para efectos de lo previsto en la presente Ley, por inversionistas institucionales se entenderá a las instituciones de seguros y de fianzas, únicamente cuando inviertan sus reservas técnicas y para fluctuaciones de valores; a las sociedades de inversión comunes; a los fondos de pensiones o jubilaciones de personal, complementarios a los que establece la Ley del Seguro Social y de primas de antigüedad, que cumplan con los requisitos señalados en la Ley del Impuesto sobre la Renta, así como a los demás inversionistas institucionales que la Secretaría de Hacienda y Crédito Público autorice expresamente, oyendo la opinión de la Comisión Nacional de Valores.
+Para efectos de lo previsto en la presente ley, por inversionistas institucionales se entenderá a las instituciones de seguros y de fianzas, únicamente cuando inviertan sus reservas técnicas; a las sociedades de inversión comunes y a las especializadas de fondos para el retiro; a los fondos de pensiones o jubilaciones de personal, complementarios a los que establece la Ley del Seguro Social y de primas de antigüedad, que cumplan con los requisitos señalados en la Ley del Impuesto sobre la Renta, así como a los demás inversionistas institucionales que la Secretaría de Hacienda y Crédito Público autorice expresamente, oyendo la opinión de la Comisión Nacional Bancaria y de Valores.
 
 Salvo lo previsto en el párrafo siguiente, las instituciones de seguros y de fianzas, actuando como inversionistas institucionales, y en su caso, cualesquiera otros inversionistas institucionales integrantes o controlados directa o indirectamente por participantes de un grupo, no podrán adquirir acciones representativas del capital de la controladora o de los demás integrantes del grupo.
 
@@ -652,7 +658,9 @@ Las intervenciones administrativa y gerencial a que se refieren los artículos 3
 
 Las entidades financieras integrantes de un grupo sólo podrán adquirir acciones representativas del capital de otras entidades financieras, de conformidad con las disposiciones aplicables, y sin exceder del uno por ciento del capital pagado de la emisora; en ningún caso participarán en el capital de los otros integrantes del grupo. Asimismo, los integrantes de un grupo podrán invertir en títulos representativos del capital social de entidades financieras del exterior, previa autorización de la Secretaría de Hacienda y Crédito Público.
 
-No obstante lo dispuesto en el párrafo anterior, las instituciones de seguros y las de fianzas podrán participar, de conformidad con las disposiciones de las respectivas leyes aplicables, en el capital de otras de dichas instituciones.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 1996)</small>
+
+No obstante lo dispuesto en el párrafo anterior, las instituciones de seguros y las de fianzas podrán participar, de conformidad con las disposiciones de las respectivas leyes aplicables, en el capital de otras entidades financieras del mismo tipo. De igual manera, podrán invertir en porcentajes superiores al uno por ciento, las instituciones de crédito, las casas de bolsa y las instituciones de seguros en el capital social de las administradoras de fondos para el retiro, y las instituciones de crédito y casas de bolsa en el capital social de sociedades operadoras de sociedades de inversión.
 
 Los integrantes de un grupo tampoco deberán participar en el capital de las personas morales que, a su vez, sean accionistas de la controladora o de las demás participantes del grupo.
 
@@ -706,9 +714,11 @@ Dichas sociedades responderán por los daños y perjuicios que causen al proporc
 
 Por su parte, las personas que proporcionen información a las sociedades de información crediticia igualmente responderán por los daños y perjuicios que causen al proporcionar dicha información, cuando exista culpa grave, dolo o mala fe.
 
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 1996)</small>
+
 ###### ARTICULO 34.
 
-Las Comisiones Nacionales Bancaria, de Valores, y de Seguros y Fianzas, en el ámbito de sus respectivas competencias, podrán ordenar la suspensión de la publicidad que realicen los grupos financieros, cuando a su juicio ésta implique inexactitud, obscuridad o competencia desleal entre las mismas, o que por cualquier otra circunstancia pueda inducir a error, respecto de sus operaciones y servicios.
+Las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas y del Sistema de Ahorro para el Retiro, en el ámbito de sus respectivas competencias, podrán ordenar la suspensión de la publicidad que realicen los grupos financieros, cuando a su juicio ésta implique inexactitud, obscuridad o competencia desleal entre las mismas, o que por cualquier otra circunstancia pueda inducir a error, respecto de sus operaciones y servicios.
 
 ###### ARTICULO 35.
 
@@ -843,3 +853,15 @@ D.O.F. 30 DE ABRIL DE 1996.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- En tanto la Secretaría de Hacienda y Crédito Público emite las disposiciones de carácter general a que se refiere el párrafo segundo de la fracción I del artículo 15 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, seguirá observándose el texto anteriormente aplicable.
+
+D.O.F. 23 DE MAYO DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto el artículo 76 de la Ley de los Sistemas de Ahorro para el Retiro, que entrará en vigor el día primero de enero de 2001.
+
+###### ARTICULO NOVENO.
+
+Los trabajadores que optaren por pensionarse conforme al régimen establecido en la Ley del Seguro Social vigente hasta el 31 de diciembre de 1996, tendrán el derecho a retirar en una sola exhibición los recursos que se hayan acumulado hasta esa fecha en las subcuentas del seguro de retiro y del Fondo Nacional de la Vivienda, incluyendo los rendimientos que se hayan generado.
