@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "1939-12-30"
+last_updated: "1943-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-12-30"
 
 LEY ORGANICA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1939.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 1943.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -147,9 +147,13 @@ En el caso previsto por el artículo anterior, si a pesar de las medidas tomadas
 
 Transcurrido un año sin que nadie se apersone en el juicio en representación legal del agraviado, se tendrá por no interpuesta la demanda.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1943)</small>
+
 ###### ARTICULO 19.
 
 Las autoridades responsables no pueden ser representadas en el juicio de amparo, pero sí podrán, por medio de simple oficio, acreditar delegados en las audiencias para el sólo efecto de que rindan pruebas, aleguen y hagan promociones en las mismas audiencias.
+
+No obstante lo dispuesto en el párrafo anterior el C. Presidente de la República podrá ser representado en todos los trámites de esta ley por los Secretarios de Despacho y Jefes de Departamentos Administrativos a quienes en cada caso corresponda el asunto, según la distribución de competencias establecidas en la vigente Ley de Secretarías y Departamentos de Estado.
 
 ###### ARTICULO 20.
 
@@ -647,7 +651,7 @@ Cuando el recurrente interponga la revisión ante el juez de Distrito o autorida
 
 Cuando falten total o parcialmente las copias a que se refiere el párrafo anterior, se requerirá al recurrente para que presente las omitidas dentro del término de tres días. Si no las exhibiere, el juez de Distrito o autoridad que corresponda tendrá por no interpuesto el recurso, o lo hará saber a la Suprema Corte de Justicia en el caso de que el recurrente hubiese interpuesto la revisión directamente ante ella.
 
-(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1939) (F. DE. E., D.O.F. 27 DE ENERO DE 1940)
+(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1939) (F. DE E., D.O.F. 27 DE ENERO DE 1940)
 
 Tratándose de amparos civiles en que el recurso de revisión se haya propuesto por particulares en defensa de sus intereses privados, se les tendrá como tácitamente desistidos del recurso si dejan transcurrir cuatro meses sin gestionar por escrito ante la Corte la continuación de la tramitación o la resolución de los mismos.
 
@@ -1560,3 +1564,7 @@ Al C...
 D.O.F. 30 DE DICIEMBRE DE 1939.
 
 UNICO.- Respecto a la primera gestión en los amparos pendientes ante la Suprema Corte, el plazo de cuatro meses que esta Ley señala comenzará a correr treinta días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 20 DE ENERO DE 1943.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
