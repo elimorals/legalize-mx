@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1973-01-31"
+last_updated: "1973-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE ENERO DE 1973
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE JULIO DE 1973.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1339,31 +1339,25 @@ III. Los ministros de cualquier culto.
 
 Los Ayuntamientos desempeñarán dos series de funciones: las de legislación para el régimen, gobierno y administración del Municipio, y las de inspección concernientes al cumplimiento de las disposiciones legislativas que dicten.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1921)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1973)</small>
 
 ###### Art. 143.
 
-Durante los meses de enero y agosto de cada año, el Ayuntamiento se erigirá en funciones legislativas para los efectos siguientes:
+Los Ayuntamientos dictarán todas las normas jurídicas que requieran el régimen, el Gobierno y Administración del Municipio, con las limitaciones que se contengan en la Ley Orgánica Municipal y otros Ordenamientos.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
+Así mismo enviarán al Ejecutivo del Estado antes del 10 de octubre, la iniciativa de la Ley de Ingresos del Municipio que regirá en el año fiscal inmediato, y presentarán el presupuesto de egresos correspondiente.
 
-I.- En el mes de enero para expedir el Bando de Policía y Buen Gobierno, que deberá contener todas las disposiciones que requieran el régimen, el gobierno y la administración del Municipio,
-
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
-
-II.- En el mes de agosto, para formular la iniciativa de la Ley de Ingresos del Municipio que deberán regir en el año fiscal inmediato y que remitirá al Ejecutivo del Estado, antes del día diez de octubre. Igualmente expedirá el Presupuesto de Egresos para el mismo ejercicio fiscal.
-
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1921)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1973)</small>
 
 ###### Art. 144.
 
-Terminado el primer período de sus funciones legislativas, el Ayuntamiento entrará en sus funciones de inspección para cuidar de que se cumplan las disposiciones del Bando de Policía y Buen Gobierno, nombrando al efecto las comisiones necesarias integradas por los miembros que lo constituyan.
+Los Ayuntamientos para cumplir con sus funciones de inspección cuidarán que se cumplan sus acuerdos y las disposiciones legales, nombrando al efecto las comisiones necesarias integradas por los miembros que las constituyan.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1973)</small>
 
 ###### Art. 145.
 
-El Presidente Municipal promulgará el Bando de Policía y Buen Gobierno el cinco de febrero de cada año.
+El Presidente Municipal promulgará y dará publicidad al Bando Municipal y demás normas de carácter general expedidas por el Ayuntamiento.
 
 ###### Art. 146.
 
@@ -1432,6 +1426,10 @@ III. Ser el órgano de comunicación de los Ayuntamientos que presiden con los d
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1972)</small>
 
 IV. Ejecutar con arreglo a las Leyes, las resoluciones dictadas por los Jueces Menores Municipales y los Jueces Populares.
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 1973)</small>
+
+V.- Asumir la representación jurídica del Municipio en los casos señalados por la Ley.
 
 #### SECCION SEXTA. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS MUNICIPALES
 
@@ -2224,6 +2222,12 @@ G.G. 31 DE ENERO DE 1973.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado.
+
+G.G. 4 DE JULIO DE 1973.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
 ###### ARTICULO SEGUNDO.
 
