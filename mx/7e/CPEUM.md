@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1999-06-28"
+last_updated: "1999-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JULIO DE 1999.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1272,11 +1272,11 @@ La Cámara de Senadores se renovará en su totalidad cada seis años.
 
 Por cada senador propietario se elegirá un suplente.
 
-> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 1972)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 1999)</small>
 
 ###### Art. 58.
 
-Para ser senador se requieren los mismos requisitos que para ser diputado, excepto el de la edad, que será de treinta años cumplidos el día de la elección.
+Para ser senador se requieren los mismos requisitos que para ser diputado, excepto el de la edad, que será la de 25 años cumplidos el día de la elección.
 
 > <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
 
@@ -4760,7 +4760,7 @@ Cuando se reclamen actos que tengan o puedan tener como consecuencia privar de l
 
 En los juicios a que se refiere el párrafo anterior no procederán, en perjuicio de los núcleos ejidales o comunales, o de los ejidatarios o comuneros, el sobreseimiento por inactividad procesal ni la caducidad de la instancia, pero uno y otra sí podrán decretarse en su beneficio. Cuando se reclamen actos que afecten los derechos colectivos del núcleo tampoco procederán el desistimiento ni el consentimiento expreso de los propios actos, salvo que el primero sea acordado por la Asamblea General o el segundo emane de ésta.
 
-> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
 III.- Cuando se reclamen actos de tribunales judiciales, administrativos o del trabajo, el amparo sólo procederá en los casos siguientes:
 
@@ -8441,6 +8441,10 @@ D.O.F. 28 DE JUNIO DE 1999.
 DECRETO QUE REFORMA LA FRACCION XXIX-H Y ADICIONA LA FRACCION XXIX-I AL ARTICULO 73.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE JULIO DE 1999.
+
+Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA; VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
