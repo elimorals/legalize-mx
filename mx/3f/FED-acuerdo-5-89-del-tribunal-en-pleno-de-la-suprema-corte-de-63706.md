@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-5-89-del-tribunal-en-pleno-de-la-suprema-corte-de-63706
 country: "mx"
 rank: "acuerdo"
 publication_date: "1989-07-24"
-last_updated: "1990-10-30"
+last_updated: "1994-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63706&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1989-07-04"
 
 ACUERDO No. 5/89, DEL TRIBUNAL EN PLENO DEL DIA CUATRO DE JULIO DE MIL NOVECIENTOS OCHENTA Y NUEVE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE OCTUBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ABRIL DE 1994.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 24 de julio de 1989.
 
@@ -49,7 +49,9 @@ ACUERDO:
 
 PRIMERO.- Con excepción del Presidente, todos los ministros de la Suprema Corte de Justicia están obligados a practicar visitas de inspección.
 
-SEGUNDO.- El ministro inspector, previa autorización del Pleno, podrá encomendar a los magistrados de Circuito la visita de los juzgados de Distrito. El Pleno podrá autorizar, asimismo, que algunas visitas específicas sean practicadas por un ministro distinto del inspector; o por una comisión de ministros.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 4/1994 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 27 DE ABRIL DE 1994)</small>
+
+SEGUNDO.- Para la práctica de visitas ordinarias el ministro inspector podrá designar a un magistrado del Circuito al que pertenezca el juzgado de Distrito. El Pleno podrá autorizar que algunas visitas específicas sean practicadas por un ministro distinto del inspector, o por una comisión de ministros.
 
 TERCERO.- Para los efectos de este acuerdo, los Tribunales Federales de la República Mexicana se agrupan en veinte inspectorías especializadas y veinticinco inspectorías generales.
 
@@ -657,15 +659,85 @@ SEPTIMO.- Las Inspectorías Generales se sortearán en el Tribunal Pleno entre l
 
 OCTAVO.- Las adscripciones de las inspectorías que resulten de los sorteos no serán susceptibles de intercambio entre los ministros, a menos que el Pleno lo autorice expresamente.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO] POR EL PUNTO UNICO DEL ACUERDO NUMERO 4/1994 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 27 DE ABRIL DE 1994)</small>
+
 NOVENO.- Cuando un ministro cambie de Sala de adscripción conservará la Inspectoría General que tenga, pero le corresponderá la Inspectoría Especializada vacante de la Sala de su nueva adscripción, y la Especializada que deje le corresponderá al ministro que lo substituya.
 
+Cuando un ministro supernumerario cambie de Sala le corresponderán las inspectorías a cargo del ministro a quien substituya.
+
 Si un ministro falta temporal o definitivamente sus inspectorías se adscribirán al que lo substituya.
+
+Cuando no se haya designado ministro provisional que substituya alguno de los ministros de una Sala, la Inspectoría Especializada se distribuirá entre los demás ministros de la Sala.
 
 DECIMO.- Las adscripciones que resulten de los sorteos de las Inspectorías Especializadas y Generales durarán tres años, cumplidos los cuales se harán nuevos sorteos, procurando que ningún ministro repita en las mismas inspectorías.
 
 DECIMO PRIMERO.- Los órganos de nueva creación se irán adscribiendo por las Salas y por el Pleno, según corresponda, a los ministros que determinen, respetando la equidad conforme a las reglas anteriores.
 
 DECIMO SEGUNDO.- Los ministros inspectores pueden verificar todas las visitas de inspección que estimen necesarias, pero están obligados a practicar, cuando menos, una visita ordinaria anual a cada órgano de su adscripción, además de las extraordinarias que acuerde el Pleno.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 4/1994 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 27 DE ABRIL DE 1994)</small>
+
+DECIMO TERCERO.- El ministro inspector podrá comunicar al presidente del tribunal colegiado o al titular del tribunal unitario o del juzgado el día y hora de su visita ordinaria, para que se fije en los estrados el aviso respectivo, a fin de que los interesados tengan la posibilidad de exponer sus quejas u observaciones.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 4/1994 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 27 DE ABRIL DE 1994)</small>
+
+DECIMO CUARTO.- En las visitas a los juzgados de Distrito, tribunales unitarios y tribunales colegiados de Circuito se atenderá, a juicio de quien la realice y teniendo en cuenta las particularidades de cada órgano, a las siguientes reglas:
+
+I.- Pedirá la lista del personal para comprobar la asistencia de cada uno de los empleados, y anotará los que hayan faltado a sus labores y las causas que tuvieron para no concurrir a su trabajo;
+
+II.- Se cerciorará de que los valores estén debidamente guardados, ya sea en la caja de seguridad del juzgado o en alguna institución de crédito encargada de su guarda;
+
+III.- Comprobará si los instrumentos y objetos de delito, especialmente las drogas recogidas, se encuentran debidamente aseguradas;
+
+IV.- Revisará, para determinar si se encuentran en orden y contienen todos los datos necesarios, los libros de gobierno correspondientes;
+
+Hará constar el número de asuntos penales y civiles, y de juicios de amparo que hayan ingresado al juzgado en el último año; determinará si los procesados que disfrutan de libertad caucional han cumplido con la obligación de presentarse en los plazos fijados, y si en algún proceso en suspenso transcurrió el término de prescripción de la acción penal, para los efectos legales correspondientes;
+
+V.- Examinará los expedientes formados con motivo de causas penales y civiles que estime conveniente, para verificar si se llevan con arreglo a la ley; si las resoluciones y acuerdos han sido dictados y cumplidos oportunamente; si las notificaciones y diligencias se efectuaron en los plazos legales; si los exhortos y despachos han sido diligenciados; y si se han observado los términos constitucionales y demás garantías que la Constitución otorga a los procesados. Cuando el inspector advierta que en un proceso se venció el término para dictar sentencia, recomendará que se pronuncie ésta a la brevedad posible. En cada uno de los expedientes revisados, se pondrá la constancia respectiva;
+
+VI.- Revisará, en términos de la fracción anterior, los expedientes relativos a los juicios de amparo. Comprobará si las audiencias incidentales y de fondo se fijaron dentro de los términos legales; hará, en su caso, las indicaciones necesarias para que las suspensiones provisionales y definitivas no se prolonguen por más tiempo del que corresponda, conforme a la ley, y verificará si las sentencias, interlocutorias y definitivas, se pronunciaron oportunamente;
+
+VII.- El inspector, separadamente o en compañía del juez, podrá visitar la cárcel pública del lugar a fin de cerciorarse de las condiciones en que se encuentran los reos por delitos federales, tanto por lo que hace a la observancia de las garantías constitucionales, como por lo que atañe al trato y alimentación que reciban en el penal;
+
+VIII.- Podrá llamar a uno o varios de los reos por delitos federales al local del juzgado, para los mismos efectos a que se refiere la fracción anterior;
+
+IX.- Hará las recomendaciones que estime pertinentes, encaminadas a mejorar el despacho de los negocios y el funcionamiento del tribunal federal visitado.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 4/1994 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 27 DE ABRIL DE 1994)</small>
+
+DECIMO QUINTO.- Las visitas que se practiquen a los tribunales de Circuito se entenderán con los magistrados que los integren.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 4/1994 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 27 DE ABRIL DE 1994)</small>
+
+DECIMO SEXTO.- Los magistrados emitirán su opinión, que podrá hacerse constar en el acta, acerca de la actuación de los jueces de Distrito que correspondan a su jurisdicción.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 4/1994 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 27 DE ABRIL DE 1994)</small>
+
+DECIMO SEPTIMO.- De las visitas ordinarias que se practiquen a los tribunales unitarios de Circuito y a los juzgados de Distrito se levantará acta en cinco tantos, que firmarán el magistrado de Circuito o el juez de Distrito, el inspector y el secretario respectivo, en la que se hará constar el resultado de la inspección, así como los datos de eficiencia y conducta de los empleados y las recomendaciones que el inspector haya hecho para el mejor funcionamiento del tribunal visitado.
+
+Uno de los cinco tantos quedará en poder del tribunal o del juzgado, otro conservará el ministro inspector y los otros tres los entregará al Presidente de la Suprema Corte, uno para que se agregue al expediente personal del funcionario visitado, otro para la Dirección General de Recursos Humanos a fin de que se agregue al expediente del tribunal o del juzgado visitado y el último para la Secretaría General de Acuerdos para el seguimiento correspondiente.
+
+De la visita ordinaria que se practique a los tribunales colegiados de Circuito se levantará acta en siete tantos, que firmarán los magistrados de Circuito, el inspector y el secretario respectivo, en la que se hará constar el resultado de la inspección, así como los datos de eficiencia y conducta de los empleados y las recomendaciones que el inspector haya hecho para el mejor funcionamiento del tribunal visitado.
+
+Uno de los siete tantos quedará en poder del tribunal, otro conservará el ministro inspector y los otros cinco los entregará al Presidente de la Suprema Corte, tres para que se agreguen a los expedientes personales de los magistrados, uno para la Dirección General de Recursos Humanos a fin de que se agregue al expediente del tribunal visitado y el último para la Secretaría General de Acuerdos para el seguimiento correspondiente.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 4/1994 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 27 DE ABRIL DE 1994)</small>
+
+DECIMO OCTAVO.- Los expedientes formados con motivo de las quejas relativas a un juzgado o tribunal que vaya a ser objeto de visita, se entregarán al inspector para que al practicarla haga las investigaciones que estime convenientes y, en su caso, informe de su resultado.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 4/1994 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 27 DE ABRIL DE 1994)</small>
+
+DECIMO NOVENO.- Las necesidades y problemas del juzgado o tribunal se harán constar en el acta, a fin de que el Pleno o la Comisión de Gobierno y Administración de la Suprema Corte, resuelvan lo que proceda.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 4/1994 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 27 DE ABRIL DE 1994)</small>
+
+VIGESIMO.- El ministro inspector o el Presidente informarán al Pleno de la Suprema Corte respecto de la actuación de los funcionarios y auxiliares de la administración de justicia cuando exista algún motivo de responsabilidad o alguna irregularidad.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 4/1994 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 27 DE ABRIL DE 1994)</small>
+
+VIGESIMO PRIMERO. Las visitas extraordinarias se practicarán, por acuerdo del Pleno, en los casos y términos que establece el párrafo tercero del artículo 97 constitucional.
+
+El ministro inspector rendirá informe, por escrito, del resultado de la visita; de ese informe, conservará en su poder un tanto, y otros tres entregará al Presidente de la Suprema Corte, uno para que se agregue al expediente personal del funcionario respectivo, otro para la Dirección General de Recursos Humanos a fin de que se guarde en el expediente del tribunal visitado y el último a la Secretaría General de Acuerdos para el seguimiento correspondiente.
 
 TRANSITORIOS:
 
@@ -1376,3 +1448,13 @@ Ministro Felipe López Contreras
 2.- Tribunal Colegiado en Materia Laboral del Tercer Circuito, con residencia en la ciudad de Guadalajara, Jalisco.
 
 Aprobado por el Tribunal Pleno en Sesión celebrada el día miércoles veintidós de agosto de mil novecientos noventa, por unanimidad de dieciocho votos.- El Secretario General de Acuerdos, José Javier Aguilar Domínguez.- Rúbrica.
+
+D.O.F. 27 DE ABRIL DE 1994.
+
+PRIMERO. Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Se abroga el Reglamento de Visitas a los Tribunales Federales del año de mil novecientos sesenta y cinco, adicionado por acuerdo del Tribunal Pleno en su sesión de fecha doce de enero de mil novecientos ochenta y dos.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación.
+
+CUARTO. Hágase del conocimiento del los presidentes de los tribunales Colegiados de Circuito, de los tribunales Unitarios de Circuito y de los juzgados de Distrito.
