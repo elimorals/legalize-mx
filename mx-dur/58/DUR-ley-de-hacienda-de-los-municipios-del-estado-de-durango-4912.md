@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "1999-03-04"
+last_updated: "1999-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -567,17 +567,19 @@ Para los efectos de esta Ley, la Dirección General de Catastro del Estado, tend
 
 SOBRE TRASLACION DE DOMINIO DE BIENES INMUEBLES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 1992)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO , P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 63.
 
-Están obligados al pago del Impuesto sobre Traslación de Dominio de Bienes Inmuebles establecido en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo, o bien, en el suelo y las construcciones adheridas a él, ubicados en el Estado, así como los derechos relacionados con los mismos a que esta Ley se refiere. El valor del inmueble podrá ser el valor de adquisición del mismo deducido el valor que se tomó como base para el pago del impuesto a que se refiere esta Ley al realizarse la última adquisición siempre que ésta se hubiere efectuado dentro de los tres años anteriores a la operación por la que se calcula el impuesto.
+Están obligados al pago del Impuesto sobre Traslación de Dominio de Bienes Inmuebles establecidos en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo, o bien, en el suelo y las construcciones adheridas a él, ubicados en el Estado, así como los derechos relacionados con los mismos a que esta Ley se refiere. El valor del inmueble podrá ser el valor de adquisición del mismo deducido el valor que se tomó como base para el pago del impuesto a que se refiere esta Ley.
 
 Tratándose de fideicomisos irrevocables se cobrará el Impuesto al celebrarse esta operación, con cargo al fideicomitente, en la inteligencia de que al ejecutarse los fines del fideicomiso se reconocerá el pago anterior y por lo tanto no volverá a causarse el Impuesto, salvo que la tasa de éste haya aumentado, en cuyo caso se cobrará la diferencia entre la tasa anterior y la que esté vigente.
 
 Tratándose de fideicomisos revocables se causará con cargo al fideicomitente al otorgarse la escritura de enajenación correspondiente.
 
-En los fideicomisos en garantía sólo se causará el impuesto al transmitirse la propiedad por incumplimiento de la obligación garantizada.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+Tratándose de fideicomisos revocables, deberá garantizarse mediante el pago provisional, el impuesto correspondiente a la traslación de dominio.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1998)</small>
 
@@ -607,11 +609,13 @@ Tratándose de división de la copropiedad o de la disolución de la Sociedad co
 
 Para los efectos del Impuesto sobre Traslación de Dominio, la cesión onerosa, la dación en pago, la donación y la adjudicación se equiparán a la compra-venta, la adjudicación a título de herencia o de legado no causará este impuesto; en el Municipio de Gómez Palacio, Dgo, la adjudicación a titulo de herencia o de legado, causará el pago al Impuesto sobre la Traslación de Dominio.
 
-II.- Por la transmisión de la propiedad o de derechos de copropiedad sobre bienes inmuebles en los casos de constitución o fusión de sociedades civiles o mercantiles y asociaciones civiles, aumentos o reducciones de los capitales, o disolución y liquidación de dichas sociedades y asociaciones.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+II.- Por la transmisión de la propiedad o de los derechos de copropiedad sobre bienes inmuebles en los casos de constitución o fusión de sociedades civiles o mercantiles y asociaciones civiles, aumentos o reducciones de los capitales, o disolución y liquidación de dichas sociedades y asociaciones, escisiones de todo tipo de sociedades, transmisión de acciones y pagos en especie de remanentes de utilidad y de dividendos.
 
 III.- Por la adquisición de la propiedad de bienes inmuebles por prescripción.
 
-IV.- Por adquisición de la propiedad de bienes inmuebles en virtud de una sentencia o de remate judicial o administrativo;
+IV.- Por adquisición de la propiedad de bienes inmuebles en virtud de una sentencia o de remate judicial o administrativo.
 
 V.- Por la readquisición de la propiedad de bienes inmuebles o de los derechos de copropiedad sobre los mismos a consecuencia de la revocación o rescisión voluntaria o por sentencia judicial del contrato traslativo de dominio; pero no se causará el impuesto cuando en este último caso se compruebe que la resolución se refiere a un contrato que no llegó a tener principio de ejecución en cuanto a las obligaciones principales de los contratantes.
 
@@ -639,11 +643,9 @@ En estos casos las declaraciones y pagos del impuesto los hará el fiduciario po
 
 La base gravable del Impuesto sobre traslación de dominio de bienes inmuebles será:
 
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 1993)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-I.- El valor del inmueble conforme a la tabla de valores catastrales para construcción y terreno que anualmente establezca la Dirección General de Catastro en el Estado, o el valor de operación, el que resulte mayor de éstos, con una reducción en la base gravable de ocho (8) veces el salario mínimo general en el Estado de Durango, elevado al año para operaciones que incluyan terreno y construcción.
-
-En operaciones de terreno exclusivamente se aplicará una reducción de cuatro (4) veces el salario mínimo general en el Estado de Durango elevado al año;
+I.- La que resulte mayor entre el valor catastral y el valor de mercado y/o valor de operación.
 
 II.- Tratándose de contratos por los que se transmite la nuda propiedad, el valor mayor que resulte de conformidad con las reglas de la fracción I de este Artículo. En estos casos al transmitirse la nuda propiedad se causará el 75% del importe del impuesto que así resulte y al transmitirse el usufructo el 25% restante de dicho importe;
 
@@ -663,9 +665,9 @@ II.- Durante el lapso comprendido del 1º de Enero al 31 de Diciembre de 1993, s
 
 III.- Del 1º de Enero de 1994 en adelante, se aplicará la tasa del 2%.
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1998)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-IV.- En el Municipio de Gómez Palacio, Dgo., a partir del 1o. de enero de 1999, el Impuesto sobre la Traslación de Dominio será calculado con una tasa del 3%, exceptuando la vivienda de interés social, la cual estará exenta siempre que su valor no exceda de $150,000.00.
+IV.- En el Municipio de Gómez Palacio, Dgo., a partir del 1o. de enero de 1999, el Impuesto sobre la Traslación de Dominio será calculado con una tasa del 3%, exceptuando la vivienda de interés social, la cual estará exenta siempre que su valor no exceda de $150,000.00. El terreno, cubrirá el impuesto que le corresponda.
 
 ###### ARTICULO 68.
 
@@ -1063,9 +1065,11 @@ B).- Ganado porcino por canal 0.040 0.200
 
 C).- Ganado ovicaprino por canal 0.053 0.200
 
-D).- Aves, con excepción de guajolotes por
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-cada una 0.005 0.005
+D).- Aves, con excepción de guajolotes
+
+por cada una 0.0004
 
 E).- Guajolotes por cada uno 0.008 0.080
 
@@ -1629,7 +1633,9 @@ Para dar principio a la construcción de cualquier fraccionamiento, las personas
 
 Los fraccionadores tienen las siguientes obligaciones:
 
-I.- Destinar el 15% de la superficie urbanizada o fraccionadora para las escuelas, parques, y jardines públicos, cediéndose en propiedad al municipio al que corresponda la expresada superficie en la cual no se computará la asignada a calles.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+I.- Destinar la superficie en los términos de la Sección Tercera del Título Quinto, Capítulo I, del Código de Desarrollo Urbano para el Estado de Durango.
 
 II.- Que la dependencia competente, señale con toda precisión la superficie afectable del 15% a que se refiere el punto anterior, localizándose ésta gráficamente en los planos respectivos de los cuales se reservará un ejemplar para la autoridad municipal correspondiente.
 
@@ -2557,7 +2563,7 @@ III.- De 1 a 100 salarios mínimos en los siguientes casos:
 
 9.- A los que se nieguen a proporcionar sin cause (sic) justificada los informes que el Departamento Municipal de Agua Potable y Alcantarillado les pida en relación con el servicio de agua potable.
 
-10.- A los funcionarios o empleados que conceden licencia para construcciones sin que se les presente el comprobante oficial de haber quedado instalada la toma de agua en el predio en que vaya a construir.
+10.- A las funcionarios o empleados que conceden licencia para construcciones sin que se les presente el comprobante oficial de haber quedado instalada la toma de agua en el predio en que vaya a construir.
 
 11.- Al que por emplear mecanismo para succionar agua de las tuberías de distribución ocasione deficiencias en el servicio o desperfectos en las instalaciones.
 
@@ -3538,3 +3544,9 @@ El presente decreto entrará en vigor tres días después de su publicación en 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 1999.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día primero de Enero del año 2000.
