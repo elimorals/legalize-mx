@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2000-12-22"
+last_updated: "2001-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2001.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1861,23 +1861,19 @@ V.- OTRAS INSTITUCIONES DE SEGURIDAD SOCIAL QUE PRESTEN ESTOS SERVICIOS EN LAS D
 
 Tratándose de personas indigentes mayores de sesenta años y personas viudas en situación de indigencia mayores de 50 años, las que comprueben su edad con acta de nacimiento, o bien que se identifiquen con credencial expedida por el Instituto Nacional de la Senectud, la viudez con el acta de defunción del cónyuge, y la indigencia, previo estudio socioeconómico con vigencia anual que realice el Sistema para el Desarrollo Integral de la Familia del Estado. Este mismo Organismo expedirá la constancia para acreditar en el caso de personas discapacitadas, que no son económicamente productivas o que siéndolo, sus ingresos no rebasan el equivalente a 5 veces el salario mínimo y, el estado de discapacidad será acreditado mediante certificado médico, expedido por cualquier Institución Pública de Salud, con domicilio en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 173.
 
-Las exenciones que este Título otorga a los jubilados y pensionados, así como a los discapacitados que realicen alguna actividad económicamente productiva siempre que sus ingresos no excedan de 5 veces el salario mínimo diario general vigente, serán del 50% del monto del crédito fiscal de las contribuciones reguladas en esta Ley, que a continuación se detallan y, se otorgarán dentro de los lineamientos siguientes:
+Las exenciones que este Título otorga a los jubilados y pensionados, así como los discapacitados que realicen alguna actividad económicamente productiva siempre que sus ingresos no excedan de 5 veces el salario mínimo diario general vigente, serán del 50% del monto del crédito fiscal de las contribuciones reguladas en esta Ley, que a continuación se detallan y, se otorgarán dentro de los lineamientos siguientes:
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1991)</small>
 
 I.- IMPUESTO SOBRE COMPRAVENTA Y OPERACIONES SIMILARES que no excedan de un año de salario mínimo vigente en esta zona;
 
-> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2000)</small>
+II.- (DEROGADA, P.O. 9 DE NOVIEMBRE DE 2001)
 
-II.- DERECHOS POR LA PRESTACION DEL SERVICIO PUBLICO DE AGUA PARA USO DOMESTICO EN LOS MUNICIPIOS DE MEXICALI, TECATE, ENSENADA, TIJUANA Y PLAYAS DE ROSARITO, únicamente un inmueble de su propiedad o donde habite;
-
-> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2000)</small>
-
-III.- DERECHOS DE CONEXION AL SISTEMA DE AGUA POTABLE EN LOS MUNICIPIOS DE MEXICALI, TECATE, ENSENADA, TIJUANA Y PLAYAS DE ROSARITO, el contribuyente deberá ser el propietario o posesionario del inmueble en que habite;
+III.- (DEROGADA, P.O. 9 DE NOVIEMBRE DE 2001)
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1991)</small>
 
@@ -2234,3 +2230,9 @@ UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su public
 P.O. 22 DE DICIEMBRE DE 2000.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 9 DE NOVIEMBRE DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Hasta en tanto no se concrete la asunción de facultades y funciones por parte de los Ayuntamientos, se seguirán aplicando las disposiciones legales anteriores a la presente reforma.
