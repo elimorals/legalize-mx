@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1997-01-03"
+last_updated: "1997-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1997.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -519,8 +519,6 @@ Las cantidades que por concepto de primas u otro similar paguen los suscriptores
 
 Las pérdidas acumuladas que registre una institución de seguros deberán aplicarse directamente y en el orden indicado, a los siguientes conceptos: a las utilidades pendientes de aplicación al cierre del ejercicio, siempre y cuando no se deriven de la revaluación por inversión en títulos de renta variable; a las reservas de capital; y al capital pagado. En ningún momento el capital pagado deberá ser inferior al mínimo que determine la Secretaría de Hacienda y Crédito Público y en caso contrario, deberá reponerse o procederse en los términos del artículo 74 de esta Ley;
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
-
 > <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 I Bis.- En razón del origen de los accionistas que suscriban su capital, las instituciones podrán ser:
@@ -578,8 +576,6 @@ h). Las personas que de manera discrecional, autorice la Secretaría de Hacienda
 > <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 i). Las Instituciones Financieras del Exterior, directa o indirectamente, o las Sociedades Controladoras Filiales que adquieran acciones de cualquier serie, conforme a programas aprobados por la Secretaría de Hacienda y Crédito Público, con la finalidad de convertir a la respectiva institución de seguros en una Filial.
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -3211,9 +3207,21 @@ Tratándose de los delitos a que se refieren los artículos 142, fracción I y 1
 
 Las multas previstas en los artículos 141, 142, 143, 145 y 147 de esta Ley, se impondrán a razón de días de salario. Para calcular su importe se tendrá como base el salario mínimo general vigente en el Distrito Federal al momento de realizarse la conducta sancionada.
 
-> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas, dictará disposiciones de carácter general para prevenir y detectar en las instituciones y sociedades mutualistas de seguros, actos u operaciones con recursos, derechos o bienes que procedan o representen el producto de un probable delito. Estas disposiciones deberán ser observadas por los empleados y funcionarios de los citados intermediarios. La violación de las mismas será sancionada con multa equivalente del diez hasta el cien por ciento del monto del acto u operación de que se trate, la cual será impuesta por la Comisión Nacional de Seguros y Fianzas a los intermediarios financieros mencionados.
+La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas, dictará disposiciones de carácter general que tengan como finalidad establecer medidas y procedimientos para prevenir y detectar en las instituciones y sociedades mutualistas de seguros, actos u operaciones, que puedan ubicarse en los supuestos del artículo 400 bis del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, incluyendo la obligación de presentar a esa Secretaría, por conducto de la citada Comisión, reportes periódicos sobre las operaciones y actividades que realicen con sus contratantes, asegurados, beneficiarios y otros usuarios de sus servicios, por los montos y en los supuestos, que en dichas disposiciones de carácter general se establezcan.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+Dichas disposiciones deberán considerar entre otros aspectos, criterios para la adecuada identificación de los clientes y usuarios de la operaciones y servicios de las mencionadas empresas aseguradoras, que consideren sus condiciones específicas y actividad económica o profesional; los montos, frecuencia, tipos y naturaleza de las operaciones e instrumentos monetarios con que las realicen y su relación con las actividades de los clientes o usuarios; las plazas en que operen y las prácticas comerciales, financieras y aseguradoras que priven en las mismas; la debida y oportuna capacitación de su personal; y medidas específicas de seguridad en el manejo de las operaciones de las propias empresas aseguradoras.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+Las disposiciones de carácter general señaladas en el párrafo anterior y las obligaciones previstas en ellas, deberán ser observadas oportunamente por los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de las citadas empresas de seguros; la violación de las mismas será sancionada por la Comisión Nacional de Seguros y Fianzas con multa equivalente del diez al cien porciento del acto u operación de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+Tanto los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional de Seguros y Fianzas, como los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de las empresas de seguros a que se refiere este artículo deberán abstenerse de dar noticia o información de las operaciones previstas en el mismo a personas, dependencias o entidades, distintas de las autoridades competentes expresamente previstas. La violación a estas disposiciones será sancionada en los términos de las leyes correspondientes.
 
 > <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
@@ -3902,3 +3910,9 @@ SÉPTIMO.- A las personas que hubieren cometido infracciones o delitos, con ante
 OCTAVO.- A las instituciones de seguros filiales que se les autorice practicar en la operación de vida los seguros que tengan como base planes de pensiones o de supervivencia derivados de las leyes de seguridad social, no les serán aplicables para dichos seguros los límites de capital individual ni los límites agregados que en su conjunto puedan alcanzar las filiales del mismo tipo, establecidos en los tratados o acuerdos internacionales aplicables.
 
 NOVENO.- Dentro de los ciento ochenta días siguientes a la fecha de la entrada en vigor de este Decreto, las instituciones y sociedades mutualistas de seguros que a esa fecha cuenten con autorización para practicar en seguros la operación de accidentes y enfermedades, o bien, la operación de daños, deberán de someter a la consideración de la Secretaría de Hacienda y Crédito Público, la adecuación de su objeto social para especificar en la operación de accidentes y enfermedades el o los ramos que de esta operación habrán de continuar practicando, así como para incluir en la mención de los ramos de la operación de daños, en su caso, el de terremoto y otros riesgos catastróficos.
+
+D.O.F. 7 DE MAYO DE 1997.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las disposiciones de carácter general que la Secretaría de Hacienda y Crédito Público haya emitido bajo la vigencia de los artículos que se reforman en este decreto, continuarán vigentes hasta en tanto no sean modificadas, abrogadas o derogadas por la misma dependencia.
