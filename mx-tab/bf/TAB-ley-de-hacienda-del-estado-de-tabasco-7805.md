@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-7805"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "1997-12-31"
+last_updated: "1998-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 30 de diciembre de 1992.
 
@@ -503,9 +503,9 @@ Las infracciones al presente capítulo, serán sancionadas de conformidad con lo
 
 ### CAPITULO QUINTO. DEL IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS Y CONCURSOS DE TODA CLASE
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION SEGUNDA. DE LA BASE, CAUSACION, TASA Y PAGO DEL IMPUESTO
+#### SECCION PRIMERA. DEL OBJETO Y DEL SUJETO
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -543,7 +543,7 @@ III. Las personas físicas y jurídicas colectivas que obtengan ingresos o premi
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION PRIMERA. DEL OBJETO Y DEL SUJETO
+#### SECCION SEGUNDA. DE LA BASE, CAUSACION, TASA Y PAGO DEL IMPUESTO
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -579,9 +579,9 @@ IV. Sobre la base gravable, se aplicará la tasa del 6%, quienes entreguen los p
 
 V. Los sujetos obligados al pago del impuesto con responsabilidad directa o solidaria por retención, realizarán el pago a más tardar el día 15 del mes siguiente a aquél al que corresponda el pago, presentándose la declaración aprobada en la Receptoría de Rentas que corresponda. Dicho pago se entenderá definitivo.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION CUARTA. DE LAS EXENCIONES
+#### SECCION TERCERA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -599,7 +599,9 @@ IV. Conservar a disposición de las autoridades fiscales y exhibir cuando se les
 
 V. Cuando los sujetos realicen eventos en varios establecimientos, acumularán la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado.
 
-#### SECCION TERCERA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION CUARTA. DE LAS EXENCIONES
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -611,33 +613,105 @@ No obstante lo anterior, estas instituciones deberán cumplir con la obligación
 
 En ningún caso, se entenderán exentos del pago del impuesto los ingresos o premios obtenidos.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+### CAPITULO SEXTO. DEL IMPUESTO POR LA PRESTACION DE SERVICIO DE HOSPEDAJE
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+#### SECCION PRIMERA. DEL OBJETO, SUJETO Y BASE
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 41 Bis-E.
+
+El objeto de este impuesto, lo constituyen los ingresos por la prestación de servicios de hospedaje.
+
+Se considera servicio de hospedaje, la prestación de alojamiento o albergue temporal de personas, a cambio de una contraprestación dentro de los que quedan comprendidos los servicios prestados por hoteles, moteles, albergues, posadas, hosterías, mesones, haciendas, campamentos, bungalows, casas de huéspedes, paraderos de casas rodantes incluyendo los que presten estos servicios bajo la modalidad de tiempo compartido.
+
+Cuando el servicio de hospedaje incluya servicios accesorios tales como transporte, alimentación, uso de instalaciones y otros similares, y en la documentación comprobatoria no se designen o desagreguen los montos por la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva, corresponde en su totalidad al servicio de hospedaje.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 41 Bis-F.
+
+Son sujetos de este impuesto las personas físicas y jurídicas colectivas que presten el servicio de hospedaje.
+
+El contribuyente trasladará dicho impuesto en forma expresa y por separado a las personas que reciban el servicio de hospedaje.
+
+Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe hacer a dicha persona de un monto equivalente al impuesto establecido en este Capítulo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 41 Bis-G.
+
+Es base de este impuesto el monto total de los ingresos que perciban las personas físicas y jurídicas colectivas, por la prestación de servicios de hospedaje.
+
+Se considera ingresos gravados los pagos totales a que se refiere el artículo 41 Bis-E, incluyendo las cantidades que se carguen o cobren por intereses normales, penas convencionales, mantenimiento por la modalidad de tiempo compartido y cualquier otro concepto que se adicione relacionado con los servicios de hospedaje, incluyendo las devoluciones, descuentos, reducciones y bonificaciones recibidas. El Impuesto al Valor Agregado no se incluirá para el calculo de este gravamen.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+#### SECCION SEGUNDA. TASA Y PAGO DEL IMPUESTO
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 41 Bis-H.
+
+El impuesto se causará, liquidirá (sic) y pagará a la tasa del 2%, sobre los ingresos a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 41 Bis-I.
+
+El pago del impuesto se efectuará mensualmente, a más tardar el día 20 del mes siguiente a aquél en que se haya percibido el ingreso.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 41 Bis-J.
+
+Los contribuyentes presentarán sus declaraciones y pagos en la Receptoría de Rentas correspondiente a su domicilio fiscal, en las formas aprobadas para tal efecto, por la Secretaría de Planeación y Finanzas.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+#### SECCION TERCERA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 41 Bis-K.
+
+Son obligaciones de los contribuyentes de este impuesto:
+
+I. Inscribirse en la Receptoría de Rentas que corresponda a su domicilio fiscal, dentro de los treinta días siguientes al de iniciación de sus actividades, utilizando al efecto, las formas oficiales aprobadas por la Secretaría de Planeación y Finanzas, con los datos que las mismas exijan;
+
+II. Presentar ante las mismas autoridades y dentro del plazo señalado en la fracción anterior, los avisos de cambio de nombre o razón social, domicilio, actividad, suspensión de actividades o clausura;
+
+III. Presentar los avisos, datos, documentos e informes que le soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al respecto; y
+
+IV. Presentar una sola declaración, cuando tengan varios establecimientos dentro del Estado.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+#### SECCION CUARTA. DE LAS EXENCIONES
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 41 Bis-L.
+
+Están exentos del pago de este impuesto de los servicios de hospedaje prestados por los hospitales, clínicas, asilos, conventos, seminarios, internados, orfanatos y casas de beneficencia o asistencia social.
+
+## TITULO TERCERO. DERECHOS
 
 ### CAPITULO PRIMERO
 
 #### SECCIÓN ÚNICA. DISPOSICIONES GENERALES
 
-#### SECCION PRIMERA
-
-#### SECCION SEGUNDA
-
-#### SECCION TERCERA
-
-## TITULO TERCERO. DERECHOS
-
-### CAPITULO SEGUNDO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE GOBIERNO
-
-#### SECCION CUARTA
-
 ###### Artículo 42.
 
 Como contraprestaciones por los servicios de carácter administrativo prestados por los Poderes del Estado, se causarán los derechos previstos en este capítulo. El monto de cobro de cualquier derecho no será inferior a 2 D.S.M.G.V.
 
-### CAPITULO TERCERO. DE LOS SERVICIOS PRESTADO (SIC) POR LA SECRETARIA DE EDUCACION, CULTURA Y RECREACION
+### CAPITULO SEGUNDO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE GOBIERNO
 
-#### SECCION QUINTA
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+#### SECCION PRIMERA
 
 ###### Artículo 43.
 
@@ -647,15 +721,15 @@ I. Por la expedición del FIAT para el ejercicio notarial 90.0 D.S.M.G.V.
 
 II. Por el nombramiento de notarios adscritos o sustitutos 45.0 D.S.M.G.V.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-III. Por la autorización de libros para el protocolo de los Notarios 10.0 D.S.M.G.V.
+III. Por la autorización de libros para el protocolo de los notarios 10.0 D.S.G.V.
 
 IV. Por el registro de sello y firma que utiliza el notario público 9.0 D.S.M.G.V.
 
 V. Por la legalización de exhortos 3.0 D.S.M.G.V.
 
-#### SECCION UNICA
+#### SECCION SEGUNDA
 
 ###### Artículo 44.
 
@@ -667,7 +741,7 @@ II. Por el registro de nacimiento extemporáneo por mandato judicial 3.0 D.S.M.G
 
 III. Por reconocimiento de hijos 3.0 D.S.M.G.V.
 
-#### SECCION UNICA
+#### SECCION TERCERA
 
 ###### Artículo 45.
 
@@ -795,7 +869,7 @@ Los magistrados, jueces y demás funcionarios que expidan copias de sentencias o
 
 Los encargados del Registro Público, en su caso, que expidan documentos, deberán exigir el comprobante de que se ha satisfecho al erario del estado y los derechos correspondientes, anotando el número de recibo oficial; quienes infrinjan esta disposición, serán sancionados conforme al Código Fiscal del Estado, sin perjuicio de la consignación y cese, según la gravedad del caso.
 
-#### SECCION UNICA
+#### SECCION CUARTA
 
 ###### Artículo 51.
 
@@ -803,7 +877,9 @@ Por los servicios prestados por la Dirección de Prevención Social se causarán
 
 I. Carta de antecedentes no penales 1.0 D.S.M.G.V.
 
-#### SECCION UNICA
+#### SECCION QUINTA
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 52.
 
@@ -931,7 +1007,7 @@ IX. Búsqueda de documentos 5.0 D.S.M.G.V.
 
 X. Otros 3.0 D.S.M.G.V.
 
-### CAPITULO CUARTO. POR LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE PLANEACION Y FINANZAS
+### CAPITULO TERCERO. DE LOS SERVICIOS PRESTADO (SIC) POR LA SECRETARIA DE EDUCACION, CULTURA Y RECREACION
 
 #### SECCION UNICA
 
@@ -955,7 +1031,7 @@ V. Incorporación de escuelas particulares 200.0 D.S.M.G.V.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO QUINTO. BUSQUEDA EN LOS ARCHIVOS, LEGALIZACION DE FIRMAS, EXPEDICION DE CERTIFICACIONES Y COPIAS CERTIFICADAS
+### CAPITULO CUARTO. POR LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE PLANEACION Y FINANZAS
 
 #### SECCION UNICA
 
@@ -1051,7 +1127,7 @@ VI.- Por reposición de licencia, permiso o autorización 35.0 D.S.M.G.V.
 
 Cuando no se hayan pagado oportunamente los derechos de revalidación dentro del plazo que establece la Ley que Reglamenta la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco, se pagarán recargos conforme a las disposiciones fiscales vigentes en la entidad.
 
-### CAPITULO SEXTO. DE LOS SERVICIOS PRESTADOS POR LA DIRECCION DE SEGURIDAD PUBLICA
+### CAPITULO QUINTO. BUSQUEDA EN LOS ARCHIVOS, LEGALIZACION DE FIRMAS, EXPEDICION DE CERTIFICACIONES Y COPIAS CERTIFICADAS
 
 #### SECCION UNICA
 
@@ -1125,7 +1201,9 @@ III. Los derechos de registros, la legalización de firmas, expedición de certi
 
 IV. Las certificaciones o copias certificadas que expidan el Registro Público de la Propiedad y del Comercio; a solicitud de las autoridades judiciales para que obren en causas penales o para acreditar la solvencia de fiadores que propongan los procesados o sentenciados, pero en el segundo caso sólo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos económicos.
 
-### CAPITULO UNICO
+### CAPITULO SEXTO. DE LOS SERVICIOS PRESTADOS POR LA DIRECCION DE SEGURIDAD PUBLICA
+
+#### SECCION UNICA
 
 ###### Artículo 60.
 
@@ -1146,6 +1224,8 @@ El pago se deberá efectuar, previamente a la prestación del servicio, si éste
 ## TITULO CUARTO. PRODUCTOS
 
 ### CAPITULO UNICO
+
+#### SECCION UNICA
 
 ###### Artículo 64.
 
@@ -1201,6 +1281,8 @@ Los productos a que se refiere la fracción IV del Artículo anterior, deberán 
 
 ### CAPITULO UNICO
 
+#### SECCION UNICA
+
 ###### Artículo 66.
 
 Quedan comprendidos dentro de este título los ingresos que el Estado perciba por concepto de herencias, legados, donaciones, concesiones de contratos, subsidios, cooperaciones, multas, recargos, gastos de ejecución, reintegros, remates, rezagos e indemnizaciones a favor de la Hacienda Pública Estatal y en general, cualquier otro ingreso no clasificado como impuesto, derecho, producto o participaciones.
@@ -1214,6 +1296,10 @@ Los aprovechamientos se harán efectivos, según proceda en cada caso, atendiend
 Las infracciones y omisiones al presente título, serán sancionadas de conformidad al "Código Fiscal del Estado".
 
 ## TITULO SEXTO. PARTICIPACIONES
+
+### CAPITULO UNICO
+
+#### SECCION UNICA
 
 ###### Artículo 69.
 
@@ -1272,3 +1358,9 @@ P.O. 31 DE DICIEMBRE DE 1997.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 30 DE DICIEMBRE DE 1998.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+Artículo segundo.- Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
