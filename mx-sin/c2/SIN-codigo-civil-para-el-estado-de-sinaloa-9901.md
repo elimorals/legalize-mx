@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1944-04-15"
+last_updated: "1948-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 1948.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -1543,19 +1543,17 @@ Son causas de divorcio los actos inmorales ejecutados por el marido o por la muj
 
 Para que pueda pedirse el divorcio por causa de enajenación mental que se considere incurable, es necesario que hayan transcurrido dos años desde que comenzó a padecerse la enfermedad.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 1948)</small>
+
 ###### Artículo 272.
 
-Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
+Cuando ambos consortes convengan en divorciarse, deberán ocurrir al Juez competente en los términos que ordena el Código de Procedimientos Civiles.
 
-El Oficial del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el Oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la del matrimonio anterior.
-
-El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos, son menores de edad o no han liquidado su sociedad conyugal y entonces aquellos sufrirán las penas que establezca el Código de la materia.
-
-Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al Juez competente en los términos que ordena el Código de Procedimientos Civiles.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 1948)</small>
 
 ###### Artículo 273.
 
-Los cónyuges que se encuentren en el caso del párrafo último del artículo anterior, están obligados a presentar al Juzgado un convenio en que se fijen los siguientes puntos:
+Los cónyuges que se encuentren en el caso de (sic) artículo anterior, están obligados a presentar al Juzgado un convenio en que se fijen los siguientes puntos:
 
 I.- Designación de la persona a quien sean confiados los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
@@ -1563,7 +1561,7 @@ II.- El modo de subvenir a las necesidades de los hijos, tanto durante el proced
 
 III.- La casa que servirá a la mujer de habitación durante el procedimiento;
 
-IV.- La cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento o después de ejecutoriada la sentencia, la forma de hacer el pago y la garantía que debe darse para asegurarlo; o bien la manifestación expresa de que ambos cónyuges quedarán excentos de toda obligación a este respecto, en caso de que así se convenga;
+IV.- La cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento o después de ejecutoriada la sentencia, la forma de hacer el pago y la garantía que debe darse para asegurarlo; o bien la manifestación expresa de que ambos cónyuges quedarán exentos de toda obligación a este respecto, en caso de que así se convenga;
 
 V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. A ese efecto se acompañará un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad.
 
@@ -11945,7 +11943,7 @@ El propietario no puede rehusar como fiador a una persona que reúna los requisi
 
 Si la renta no excede de veinticinco pesos mensuales, es potestativo para el arrendatario dar fianza o substituir esa garantía con el depósito de un mes de renta.
 
-No puede renunciarse anticipadamente el derecho de cobrar la indemnización que conceden los Artículos 2330, 2331 y 2332.
+No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 2331.
 
 ###### Artículo 2334.
 
@@ -14843,6 +14841,8 @@ Tratándose de testamentos ológrafos depositados en el Registro, se observará 
 
 Del Registro de las Informaciones de Dominio.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 1948)</small>
+
 ###### Artículo 2883.
 
 Se inscribirá en el Registro:
@@ -14916,8 +14916,6 @@ En el caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio, 
 No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, aparecer inscritos a la vez en favor de dos o mas personas distintas, a menos que éstas sean copartícipes.
 
 ### CAPITULO V.
-
-De las Inscripciones de Posesión.
 
 ###### Artículo 2891.
 
@@ -15011,7 +15009,7 @@ De la Extinción de las Inscripciones.
 
 ###### Artículo 2904.
 
-El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos, y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1154, por no estar inscrita en el Registro la propiedad de los bienes en favor de persona alguna, podrá demostrar ante el juez competente que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado del Registro Público, que demuestre que los bienes no están inscritos.
+El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos, y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1154, por no estar inscrita en el Registro la propiedad de los bienes en favor de persona alguna, podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado del Registro Público, que demuestre que los bienes no están inscritos.
 
 La información se recibirá con citación del Ministerio Público, del respectivo registrador de la Propiedad y de los colindantes.
 
@@ -15019,39 +15017,29 @@ Los testigos deben ser por lo menos tres de notorio arraigo en el lugar de la ub
 
 No se recibirá la información sin que previamente se haya dado una amplia publicidad por medio de la prensa y de avisos fijados en los lugares públicos, a la solicitud del promovente.
 
-Comprobada debidamente la posesión, el juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción, y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público.
+Comprobada debidamente la posesión, el Juez mandará pretocolizar (sic) las diligencias que resulten en la Notaría que designe el promovente. El testimonio que se expida deberá ser inscrito en el Registo (sic) Público.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE MAYO DE 1948)</small>
 
 ###### Artículo 2905.
 
-El que tenga una posesión apta para prescribir, de bienes inmuebles no inscritos en el Registro en favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el juez competente, ante quien la acredite del modo que fije el Código de Procedimientos Civiles.
-
-La información que se rinda para demostrar la posesión se sujetará a lo dispuesto en los párrafos segundo, tercero y cuarto del artículo que precede.
-
-Las declaraciones de los testigos versarán sobre el hecho de la posesión, sobre los requisitos que deben tener para servir de base a la prescripción adquisitiva y sobre el origen de la posesión.
-
-El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción al concluir el plazo de cinco años, contados desde la misma inscripción.
+(DEROGADO, P.O. 15 DE MAYO DE 1948)
 
 ###### Artículo 2906.
 
-Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones en general y, además las siguientes:
-
-Los nombres de los testigos que hayan declarado; el resultado de las declaraciones, y la resolución judicial que ordene la inscripción.
+(DEROGADO, P.O. 15 DE MAYO DE 1948)
 
 ###### Artículo 2907.
 
-Cualquiera que se crea con derecho a los bienes cuya inscripción se solicite mediante información de posesión, podrá alegarlo ante la autoridad judicial competente.
-
-La interposición de su demanda suspenderá el curso del expediente de información; si estuviere ya concluido y aprobado, deberá el juez ponerlo en conocimiento del registrador para que suspenda la inscripción; y si ya estuviese hecha, para que anote la inscripción de la demanda. Para que se suspenda la tramitación del expediente o de la inscripción, así como para que se haga la anotación de ésta, es necesario que el demandante otorgue fianza de responder de los daños y perjuicios que se originen si su oposición se declara infundada.
-
-Si el opositor deja transcurrir seis meses sin promover en el juicio de oposición, quedará este sin efecto, haciéndose en su caso la cancelación que proceda.
+(DEROGADO, P.O. 15 DE MAYO DE 1948)
 
 ###### Artículo 2908.
 
-Transcurrido el plazo fijado en la parte final del artículo 2905 sin que en el registro aparezca algún asiento que contradiga la posesión inscrita, tiene derecho el poseedor, comprobando este hecho mediante la presentación del certificado respectivo, a que el juez competente declare que se ha convertido en propietario en virtud de la prescripción, y ordene que se haga en el Registro la inscripción de dominio correspondiente.
+(DEROGADO, P.O. 15 DE MAYO DE 1948)
 
 ###### Artículo 2909.
 
-No podrán inscribirse mediante información posesoria, las servidumbre (sic) continuas no aparentes, ni las discontinuas, sean o no aparentes, ni tampoco el derecho hipotecario.
+(DEROGADO, P.O. 15 DE MAYO DE 1948)
 
 ###### Artículo 2910.
 
@@ -15233,10 +15221,14 @@ Artículo Unico.- Este Decreto comenzará a surtir sus efectos a partir de la fe
 
 P.O. 15 DE ABRIL DE 1944.
 
-Artículo Primero.- Todos los contratos de arrendamiento de fincas urbanas para habitación vigentes o vencidos a la fecha de la publicación del presente decreto quedarán prorrogados por el tiempo que dure el actual estado de guerra con los países del Eje.
+Artículo Primero.- (DEROGADO, P.O. 15 DE MAYO DE 1948)
 
-Artículo Segundo.- Los juicios sumarios de desocupación por terminación de contratos de arrendamiento de fincas urbanas para habitación que estén tramitándose a la vigencia de este decreto, quedarán suspensos en su procedimiento hasta que cese el estado actual de emergencia y sin que pare perjuicio al demandante la caducidad de la instancia.
+Artículo Segundo.- (DEROGADO, P.O. 15 DE MAYO DE 1948)
 
-Artículo Tercero.- Quedan congeladas las rentas de fincas urbanas para habitación por el tiempo que dure el estado actual de guerra y en los términos qne (sic) regían a la fecha de la duplicación del presente decreto.
+Artículo Tercero.- (DEROGADO, P.O. 15 DE MAYO DE 1948)
 
 Artículo Cuarto.- Este decreto empezará a surtir sus efectos a partir del día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MAYO DE 1948.
+
+Artículo Unico.- El presente Decreto comenzará a surtir sus efectos a partir de su publicación en el Periódico Oficial del Estado.
