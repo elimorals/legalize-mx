@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-7828"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-01-02"
-last_updated: "1996-10-19"
+last_updated: "1997-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1997.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 2 de enero de 1993.
 
@@ -525,7 +525,11 @@ XXV. Participación Ciudadana;
 
 > <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 1996)</small>
 
-XXVII (SIC). Atención a Discapacitados.
+XXVII (SIC). Atención a Discapacitados;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+XXVIII. Del Instituto de Investigaciones Legislativas.
 
 ### CAPITULO XI. DE LAS SESIONES
 
@@ -964,5 +968,11 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 19 DE OCTUBRE DE 1996.
 
 ###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 15 DE FEBRERO DE 1997.
+
+###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
