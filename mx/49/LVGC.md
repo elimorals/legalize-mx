@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1946-03-14"
+last_updated: "1948-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MARZO DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ENERO DE 1948.
 
-Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
+Ley publicada en la Segunda Sección del Diario Oficial de la Federación el lunes 19 de febrero de 1940.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1234,105 +1234,229 @@ En estas enajenaciones se observará en su caso, lo dispuesto en la ley o leyes 
 
 Los dueños de predios que sean atravesados por los caminos estarán obligados a cercarlos en la parte que limite el derecho de vía correspondiente, y en caso de no hacerlo, la Secretaría de Comunicaciones procederá en los términos del artículo 47 de esta Ley.
 
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 9 DE ENERO DE 1948)</small>
+
 ### CAPITULO II. Explotación de caminos
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
 
 ###### ARTICULO 152.
 
-Para explotar servicios de autotransportes de pasajeros o de carga en los caminos, calles, plazas o calzadas de jurisdicción federal, se requerirá concesión o permiso de la Secretaría de Comunicaciones, del Departamento del Distrito Federal o de los Gobiernos de los Territorios, según el caso, y su otorgamiento se sujetará a las siguientes bases:
+Para el aprovechamiento de los caminos de jurisdicción federal en la explotación de servicios públicos de autotransporte, será necesario obtener concesión de la Secretaría de Comunicaciones y Obras Públicas, y su otorgamiento se sujetará a las siguientes bases:
 
-I.- Los permisos ampararán un solo vehículo y se extenderán a nombre de la sociedades cooperativas o personas físicas;
+I.- Unicamente podrán conferir a mexicanos por nacimiento y a sociedades constituídas por éstos conforme a las leyes del país. En ningún caso podrán conferirse a sociedades cuyo capital este total o parcialmente representado por acciones al portador.
 
-II.- Las personas físicas sólo tendrán derecho a que a su favor se extienda un permiso;
+II.- Se otorgará para cualquiera de los servicios siguientes:
 
-III.- En el otorgamiento de los permisos para explotar servicios de autotransportes, se preferirá a las personas físicas o sociedades cooperativas vinculadas y con domicilio en las regiones o zonas que habrán de abarcar los propios servicios, y
+Transporte de personas:
 
-IV.- En el Distrito Federal se formarán tantas sociedades cooperativas de intervención oficial como rutas para pasajeros o servicios de carga requiera el interés público, y dichas sociedades, se organizarán dentro de una sola Federación.
+a).- Servicio de primera.
 
-Dicha Federación será el único órgano de relación entre el Departamento del Distrito Federal y las cooperativas que la forman.
+b).- Servicio de segunda.
+
+c).- Servicio exclusivo de turismo.
+
+Transporte de carga:
+
+a).- Servicio de carga.
+
+b).- Servicio de express.
+
+Transporte de personas y de carga.
+
+Servicio mixto.
+
+Se entiende por servicio mixto el que se preste, para el transporte de personas y cosas, en un mismo vehículo que satisfaga las características que determine el Reglamento para esta clase de servicio.
+
+La Secretaría de Comunicaciones y Obras Públicas determinará, de acuerdo con el Reglamento respectivo, el número y la extensión de las rutas en que estarán divididos los caminos de jurisdicción federal, así como la clase o clases de servicios que en cada ruta deban operar.
+
+III.- La explotación que se proponga efectuar el solicitante quedará condicionada a la constitución de una sociedad, de las permitidas en este Capítulo, por todos los concesionarios que presten indéntico (sic) servicio, para realizar la explotación conjunta de la misma ruta o tramo y para los demás fines de toda sociedad, salvo el caso de que una ruta pueda ser servida por un concesionario con el número de vehículos que conforme a esta Ley pueda operar.
+
+La Secretaría de Comunicaciones y Obras Públicas podrá autorizar la constitución de una sola sociedad para la explotación de dos o más clases de los servicios de transportes de personas o de cosas que se presten en una ruta, cuando todos los conocesionarios (sic) en la prestación de los servicios de que se trata formulen la solicitud correspondiente.
+
+Para los efectos de esta disposición el servicio mixto se considerará dentro de la categoría del transporte de personas.
+
+En caso de que no se elevaren solicitudes de concesión para prestar el servicio mixto de una determinada ruta o tramo de camino, los concesionarios que efectúen el servicio de segunda en esa ruta y, en su caso la sociedad que constituyan conforme a esta Ley, estarán obligados a destinar el número de vehículos que determine la Secretaría de Comunicaciones y Obras Públicas para la prestación de ese servicio.
+
+Tomando en cuenta las modalidades de los servicios de carga y express que en las diversas rutas deban prestarse, la Secretaría de Comunicaciones y Obras Públicas podrá autorizar la constitución de dos o más sociedades de los concesionarios que realicen el servicio en la misma ruta, pero en todo caso aquellos que presten servicio sujeto a las mismas modalidades, deberán integrar una sola sociedad.
+
+Las concesiones que se expidan especialmente para la prestación del servicio público de transporte de frutas y legumbres o de otros artículos perecederos en carros frigoríficos, autorizarán a los concesionarios a transitar en los diversos caminos de jurisdicción federal.
+
+IV.- Una persona física podrá gozar de una o más concesiones, pero el número de vehículos, cuya explotación se le conceda, no podrá exceder de cinco, ya sea que operen o no, en la misma ruta.
+
+El número máximo de vehículos que podrá amparar la concesión que se otorgue a una sociedad será el que fuere necesario para la explotación de la ruta, si se satisfacen los requisitos siguientes:
+
+a).- Que así lo hubiere pedido la interesada.
+
+b).- Que el capital social permita realizar esa explotación.
+
+c).- Que cada socio hubiere aportado, como máximo, la suma que demande la explotación de cinco vehículos.
+
+Esta sociedad debe tener los mismos fines expresados en la primera parte de la fracción anterior.
+
+Salvo lo dispuesto en las fracciones II y III del Artículo 160, cada socio deberá limitar sus aportaciones a la explotación de cinco vehículos, a lo sumo, sin perjuicio de las sumas que fuere necesario aportar para el establecimiento de los servicios accesorios. La misma limitación deberá observarse durante todo el término de vigencia de la sociedad y, por tanto, ningún socio podrá aumentar su participación social ni adquirir acciones de la sociedad concesionaria en una proporción que exceda a la autorizada de este Artículo.
+
+V.- Se preferirá a los solicitantes que por la calidad del equipo que ofrezcan destinar al servicio, por la instalación de servicios accesorios, tales como terminales, bodegas, estaciones intermedias, o por otras circunstancias similares estén en condiciones de prestar y garantizar un mejor servicio al público. En igualdad de condiciones, se preferirá a las personas físicas o morales vinculadas y con domicilio en las regiones o zonas que habrán de abarcar los servicios y, en su defecto, las concesiones se otorgarán atendiendo al orden en que hubieren sido solicitadas, de conformidad con los datos que arroje el libro de registro público de solicitudes que por duplicado llevará la Secretaría de conformidad con el Reglamento de esta Ley.
+
+Para los efectos de esta fracción las sociedades cooperativas gozarán de la preferencia que les otorguen las Leyes.
+
+VI.- El trámite se sujetará a las disposiciones de esta Ley y su Reglamento, pero con la salvedad de que tanto la solicitud como la concesión se publicarán por una sola vez en el "Diario Oficial" de la Federación y en dos de los periódicos de mayor circulación de la Capital de la República, con el fin de que durante el plazo de treinta días contados a partir de la última publicación, las personas que pudieren resultar afectadas, presenten sus observaciones.
+
+Los interesados deberán ordenar a su costa las publicaciones a que esta Fracción se refiere, en un término que no exceda de diez días a contar de la fecha de presentación de su solicitud.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
 
 ###### ARTICULO 153.
 
-Los permisos a que se refiere el artículo anterior, otorgarán exclusivamente a sociedades cooperativas de intervención oficial o de participación estatal, debidamente registradas ante la Secretaría de la Economía Nacional, o a personas físicas de nacionalidad mexicana por nacimiento que pertenezcan a la clase trabajadora.
+No quedarán comprendidos en el Artículo anterior:
 
-Las personas físicas sólo tendrán derecho a obtener permisos en los casos en que los trabajadores que presten sus servicios en un tramo o caminos determinados no sean en número suficiente para constituir una sociedad cooperativa, debiendo incluirse entre esos trabajadores a todas las personas que realicen actividades de este género, como choferes, mecánicos, despachadores, cobradores, etc.
+I.- El uso de vehículos cuando se trate de establecimientos educacionales, instituciones deportivas y de compañías de navegación acuática o aérea, siempre que se realicen en vehículos contratados o de propiedad de las entidades respectivas y para sus propios fines.
+
+Las empresas de navegación sólo podrán realizar el servicio a que esta Fracción se refiere entre los puertos o aeropuertos y las ciudades o poblaciones a que dichos puertos correspondan.
+
+II.- El transporte de muebles y efectos en uso, aún cuando sea realizado por una empresa, siempre que se limite al servicio de personas o entidades que realicen un cambio efectivo de domicilio o de local.
+
+III.- Los servicios de grúas para el arrastre o transporte de vehículos.
+
+IV.- Los transportes para la distribución del petróleo y sus derivados.
+
+V.- Los transportes que en razón de su reducida importancia o de sus modalidades particulares no constituyan servicios públicos de los que ameriten concesión en los términos de esta Ley, a juicio de la Secretaría de Comunicaciones y Obras Públicas.
+
+En los casos anteriormente mencionados los interesados deberán obtener el premiso correspondiente y la aprobación de las tarifas, si el servicio las requiere.
+
+Los agricultores, mineros, empresas de construcción y los comerciantes e industriales, sean personas físicas o morales podrán, empleando vehículos de su exclusiva propiedad, hacer el tranporte (sic) por las carreteras federales, de los productos o artículos de su propiedad, obteniendo para ello la correspondiente autorización de la Secretaría de Comunicaciones y Obras Públicas, que se otorgará con sujeción al Reglamento respectivo.
+
+En los casos en que temporalmente se presente una demanda extraordinaria de transportes, La Secretaría de Comunicaciones y Obras Públicas podrá conceder permisos eventuales para la satisfacción inmediata de esa demanda, dando preferencia, en igualdad de condiciones a los concesionarios de las líneas regulares establecidas en la ruta; en su defecto, a concesionarios de otras líneas y, en último extremo, a transportadores particulares. En todo caso, las cuotas que se cobren no serán inferiores a las autorizadas para el servicio ordinario.
+
+Entre aquellos puntos en que no exista servicio público autorizado, el transporte de personas será libre entretanto se establecen esos servicios y no estará sujeto a más condiciones que las aplicables en materia de circulación de vehículos.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
 
 ###### ARTICULO 154.
 
-Las personas físicas que por las causas expresadas en el artículo anterior obtengan permisos para explotar servicios de autotransportes en un mismo camino, tramo o ruta, estarán obligadas a integrar una sociedad cooperativa con todas las que intervengan en la explotación del servicio, ya sean trabajadores o permisionarios, tan luego como exista el número de personas que la ley exige para este efecto. En este caso se cancelarán los permisos que se hubieren otorgado a las personas físicas de que se trata y se concederán desde luego a la cooperativa que se forme.
+Las concesiones se otorgarán por un término de diez años que podrá prorrogarse si los concesionarios hubieren cumplido con las disposiciones de esta Ley y su Reglamento y con las obligaciones que específicamente se determinen en el título de la concesión.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
 
 ###### ARTICULO 155.
 
-En los casos a que se refiere el artículo anterior si dentro del plazo de noventa días, contados a partir de la fecha en que pueda ser constituida legalmente la cooperativa, no se organiza ésta, se revocarán los permisos otorgados a las personas que ha juicio de las Secretarías de la Economía Nacional y de Comunicaciones y Obras Públicas, se muestren renuentes a formar parte de la cooperativa, o pongan obstáculos de cualquier índole para la organización de la misma.
+En las concesiones para la explotación de servicios públicos de autotransportes, no tendrá efectos la reversión establecida en el Artículo 89 en lo que se refiere a los vehículos; pero será aplicable en lo que respecta a estaciones terminales y demás instalaciones auxiliares, para cuya explotación el término de la concesión será de cincuenta años.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
 
 ###### ARTICULO 156.
 
-La Secretaría de Comunicaciones estará facultada en todo tiempo para fijar y modificar en cada camino, ruta o tramo, el número, capacidad y demás especificaciones de los vehículos que en ellos deban operar, de acuerdo con el resultado de los estudios de la comisión técnica a que se refiere la fracción VI del artículo 8º.
+Los derechos derivados de las concesiones serán transmisibles en los términos que en seguida se expresan, previa autorización de la Secretaria de Comunicaciones y Obras Públicas, si el interesado en adquirirlos satisface los requisitos establecidos por esta Ley para obtener una concesión:
 
-La propia Secretaría de Comunicación, oyendo previamente la de la Economía Nacional y a la Federación de Cooperativas correspondiente, si la hubiere, determinará los caminos, rutas o tramos que deberán ser explotados por una sola sociedad cooperativa.
+a).- Si transcurridos tres años desde que se inició la explotación del servicio el concesionario hubiere cumplido sus obligaciones.
 
-La misma Secretaría de acuerdo con la de la Economía Nacional, estará facultada para determinar el número de socios que deben integrar las cooperativas que exploten servicios de autotransporte, atendiendo al número de permisos de que disfruten y la capacidad económica del camino, ruta o tramo de que se trate.
+b).- En cualquier tiempo en caso de fallecimiento o de incapacidad física o mental del concesionario.
+
+c).- En todo tiempo para dar cumplimiento a lo prevenido en la fracción III del Artículo 152 los concesionarios convinieren en transmitir el goce o la titularidad de esos derechos a la sociedad que para tal efecto constituyan.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
 
 ###### ARTICULO 157.
 
-La Secretaría de Comunicaciones, de acuerdo con la de la Economía Nacional, al otorgar permisos a una sociedad cooperativa, señalará las condiciones de vigilancia y de dirección técnico-administrativas que a su juicio sean necesarias para el mejor funcionamiento del servicio y de las propias sociedades.
+Los concesionarios estarán obligados:
+
+I.- A aceptar el transporte de las personas y efectos que están obligados a conducir, sin acordar otras preferencias, por razón de tiempo y lugar, que las autorizadas por esta Ley.
+
+II.- A no cobrar por el transporte un precio distinto del establecido en las tarifas aprobadas por la Secretaría de Comunicaciones y Obras Públicas.
+
+III.- A realizar el transporte de toda ruta especificada en la concesión y a efectuar ese recorrido conforme a los horarios aprobados y, tratándose de servicio de carga no sujeto a horario, a las velocidades y dentro de los plazos que señale el Reglamento.
+
+IV.- A emplear en el servicio los vehículos que satisfagan las condiciones de seguridad, higiene, capacidad, peso y demás especificaciones que con relación a cada clase de servicio determine la Secretaría de Comunicaciones y Obras Públicas.
+
+V.- A combinar y coordinar sus servicios con los de otras empresas que exploten vías generales de comunicación de conformidad con las disposiciones que sobre el particular dicte la Secretaría de Comunicaciones y Obras Públicas o de acuerdo con los convenios que, previa la aprobación de la misma Secretaría, celebren los interesados.
+
+VI.- A substituir los vehículos que temporal o permanentemente retiren del servicio, por otros de la misma capacidad y demás características, pudiendo ser de mejor calidad.
+
+VII.- A dar cumplimiento a las disposiciones que dicte la Secretaría de Comunicaciones y Obras Públicas, en orden a lo dispuesto en el Artículo 160.
+
+VIII.- A construir o instalar terminales, bodegas y estaciones intermedias cuando la importancia del servicio así lo requiera a juicio de la Secretaría de Comunicaciones y Obras Públicas.
+
+IX.- A suministrar a la Secretaría de Comunicaciones y Obras Públicas los datos estadísticos que esta requiera, así como los informes sobre los resultados económicos y financieros de la operación del servicio, con las comprobaciones necesarias.
+
+X.- A cumplir las demás prestaciones y abstenciones que les imponen la Ley, los Reglamentos y las que se estipulen y establezcan en los títulos de las concesiones respectivas.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
 
 ###### ARTICULO 158.
 
-La Secretaría de Comunicaciones evitará que se establezcan competencias desleales y ruinosas entre los permisionarios.
+Los servicios de carga y express se prestarán por los concesionarios desde el domicilio de los remitentes hasta el de los destinatarios, si así se hubiere estipulado en la carta de porte, y a falta de estipulación de terminal a terminal estos servicios se realizarán exclusiva y continuadamente por las tripulaciones y en los vehículos de los mismos concesionarios que los lleven a cabo sin perjuicio de lo dispuesto en la Fracción V del Artculo (sic) anterior.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
 
 ###### ARTICULO 159.
 
-Los permisos para operar servicios de autotransportes no podrán ser traspasados o cedidos en ningún caso por las personas físicas o morales a cuyo favor hayan sido expedidos.
+Las sociedades a que se refiere la Fracción II del Artículo 152, se organizarán conforme a las siguientes bases:
+
+I.- Podrán constituirse conforme a las Leyes del país con la excepción que se hace en la Fracción I del Artículo 152.
+
+II.- Sin perjuicio de lo dispuesto en los párrafos segundo y tercero de la Fracción III del mismo Artículo, agruparán a los concesionarios que efectúen la misma clase de servicio en una ruta o tramo.
+
+III.- Tendrán, por objeto, entre otros que estipulen los interesados o que determine la Secretaría de Comunicaciones y Obras Públicas la explotación del servicio o servicios de que se trate, de acuerdo con los itinerarios, tarifas, honorarios, capacidad, forma y demás circunstancias que establezca la misma Secretaría para la mayor eficacia, seguridad, regularidad, permanencia, economía y coordinación del servicio o servicios aludidos.
+
+IV.- Estarán administradas en los términos que estable(sic) la Ley de la materia, pero en todo caso la minoría, que representen cuando menos un 25% de los concesionarios que constituyen la sociedad, tendrá derecho a designar un Consejero.
+
+V.- Los socios tendrán derecho, en proporción a sus respectivas aportaciones, para acordar los aumentos de capital que fueren necesarios, a efecto de dar cumplimiento a lo dispuesto en las Fracciones II y III del Artículo 160 de esta Ley.
+
+VI.- El proyecto de escritura constitutiva deberá ser previamente autorizado por la Secretaría de Comunicaciones y Obras Públicas y una vez extendida la escritura, será inscrita en el registro especial que llevará la misma Secretaría y en los demás que prevengan las Leyes.
+
+Las sociedades cooperativas se constituirán y administrarán en los términos de la Ley de la materia.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
 
 ###### ARTICULO 160.
 
-Los permisos se otorgarán por un plazo de cinco años, que será prorrogable por iguales períodos de tiempo, siempre que las cooperativas a (sic) los permisionarios individuales respectivos hubieren prestado un servicio que satisfaga las condiciones de esta Ley y de sus reglamentos y que no se perjudique el interés público a juicio de la Secretaría de Comunicaciones y Obras Públicas. Tal derecho subsistirá por el tiempo que dure la cooperativa permisionaria y fenecerá por la disolución de la misma. Tratándose de permisionarios individuales el plazo otorgado sólo subsistirá hasta en tanto no estén obligados dichos permisionarios a organizarse en cooperativas.
+La Secretaría de Comunicaciones y Obras Públicas estará facultada, en todo tiempo, para modificar las clases de servicios y el número de vehículos que operen en una ruta o tramo, así como su capacidad, peso y demás especificaciones, tomando en cuenta los dictámenes de la Comisión Técnica Consultiva, a que se refiere la Fracción IV del Artículo 8º. si fuere procedente aumentar el número de vehículos en cualquiera de los servicios a que se refiere la Fracción II del Artículo 152, se observarán las reglas siguientes:
+
+I.- Si el servicio fuere prestado solamente por una persona física, deberá otorgarse a dicha persona la concesión correspondiente, si así lo solicitare y si el número total de vehículos que debiere operar no excediera de cinco.
+
+II.- La sociedad constituída para explotar el servicio de que se trate y la que fuere concesionaria en los términos de la segunda parte de la Fracción IV del Artículo 152, tendrán la obligación a la vez que el derecho, de aumentar, previo el otorgamiento de la concesión correspondiente, el número de vehículos que fuere necesario.
+
+III.- La misma obligación tendrán las sociedades que exploten dos o más servicios cuando la necesidad se presente en la relación con cualquiera de los servicios que proporcionen.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
 
 ###### ARTICULO 161.
 
-Los itinerarios, horarios y tarifas y su elementos de aplicación, clasificación de efectos, etc., se regirán por lo dispuesto en los artículos 50, 51 y 56 de esta Ley.
+Las sociedades que se constituyen conforme al Artículo 159, serán solidariamente responsables con los concesionarios por el cumplimiento de sus obligaciones y en ningún caso podrán eludir o limitar esta responsabilidad.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
 
 ###### ARTICULO 162.
 
-No será motivo de modificación temporal de los horarios, la incapacidad de uno o más vehículos para prestar el servicio. Los permisionarios tienen obligación de substituir temporalmente, con igual número de vehículos autorizados previamente por la Secretaría de Comunicaciones, los que se retiren del servicio. Si no puede hacerse dicha substitución, la Secretaría de Comunicaciones estará facultada para dictar las medidas que estime más pertinentes para evitar perjuicios al servicio.
+Para auxiliar en sus labores a la Comisión Técnica Consultativa de Vías Generales de Comunicación, la Secretaría de Comunicaciones y Obras Públicas creará un cuerpo técnico que se encargará de realizar los estudios económicos generales de las distintas regiones del país, de estudiar las necesidades de transporte en esas mismas zonas y el número de vehículos necesario para satisfacerlos, de determinar las posibilidades de coordinación con otros tipos de transporte, de estudiar y proponer la forma y característica del transporte para cada zona, de concentrar y elaborar los datos estadísticos necesarios para realizar los trabajos mencionados y de los demás estudios que la Comisión y Secretaría de que se trata le encomienden.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
 
 ###### ARTICULO 163.
 
-Los permisos a que se refiere este capítulo se revocarán por las causas siguientes:
+Las concesiones para la explotación de servicios públicos de autotransportes en caminos de jurisdicción federal, caducarán o serán rescindidas por las mismas causas que se establecen en el Capítulo V, Libro Primero de esta Ley, de acuerdo con el procedimiento que la misma y su Reglamento determinen.
 
-I.- Porque la Secretaría de la Economía Nacional retire a la Sociedad Cooperativa la autorización que se le hubiere otorgado para su funcionamiento;
-
-II.- Porque la cooperativa o los permisionarios, en su caso, hagan un servicio distinto del expresado en el permiso o fuera de la ruta que se señale en el mismo;
-
-III.- Porque los permisionarios o la cooperativa suspendan temporal o definitivamente el servicio que deben prestar, sin autorización de la Secretaría de Comunicaciones;
-
-IV.- Porque la cooperativa o los permisionarios, en su caso, reincidan en la falta de cumplimiento de sus horarios y tarifas;
-
-V.- Porque se vendan, traspasen y substituyan los vehículos en circulación, sin autorización de la Secretaría de Comunicaciones;
-
-VI.- Porque no se establezca el servicio dentro del plazo fijado al extenderse el permiso, salvo caso de fuerza mayor a juicio de la Secretaría de Comunicaciones;
-
-VII.- Porque la cooperativa o los permisionarios, en su caso, enajenen los permisos que les hayan sido otorgados;
-
-VIII.- Porque la cooperativa a los permisionarios aumenten o disminuyan sin la autorización correspondiente el número de vehículos en la ruta para la cual se les hubieren otorgado permisos;
-
-IX.- Porque los permisionarios de una ruta se nieguen a constituirse en cooperativa cuando exista el número de personas necesario para organizarlo de acuerdo con la ley de la materia; en este caso se revocarán los permisos de los renuentes en los términos del artículo 154 de esta Ley.
-
-X.- Porque los permisionarios no substituyan los vehículos que hayan retirado del servicio por orden de la Secretaría de Comunicaciones, en los casos en que no satisfagan las condiciones exigidas por esta Ley y sus reglamentos, y
-
-XI.- Porque a juicio de la Secretaría de Comunicaciones, previa consulta a la de la Economía Nacional, una sociedad cooperativa permisionaria deje de reunir los requisitos legales para ser considerada como real; sin que en ningún caso la declaración respectiva produzca otro efecto que el de dicha revocación.
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
 
 ###### ARTICULO 164.
 
-Los servicios de carga y express proporcionados por las empresas de autotransportes comprenderán la prestación de los mismos desde el domicilio de los remitentes hasta el de los destinatarios, si así se estipula en la carta de porte; a falta de estipulaciones, se entenderán de terminal a terminal. Dichos servicios se prestarán exclusiva y continuadamente por las tripulaciones de las mismas empresas de autotransportes que los lleven a cabo.
+En el Reglamento de esta Ley se consignarán las normas a que deberá sujetarse cada uno de los servicios a que se refiere la fracción II del Artículo 152, así como las disposiciones relativas al tránsito de vehículos particulares extranjeros y de los que presten exclusivamente servicio de turismo internacional por los caminos de jurisdicción federal.
+
+La reglamentación del servicio exclusivo de turismo a que se refiere el inciso c) de la Fracción II del Artículo 1552 (sic), se sujetará a las siguientes bases:
+
+a).- Sólo se prestará hacia puntos de interés turístico o entre puntos de ese interés catalogados como tales por la Comisión Nacional de Turismo o por Decreto del Ejecutivo.
+
+b).- Se realizará exclusivamente entre los puntos extremos autorizados en la concesión y, por consiguiente, no se prestará entre poblaciones intermedias o para esos puntos.
+
+c).- Los vehículos que se empleen satisfarán (sic), en cuanto a celeridad, comodidad, seguridad, y operación las características que señale el Reglamento.
+
+d).- Las cuotas que se cobren serán proporcionadas a la calidad del equipo y del servicio, así como a los demás factores atendibles para determinar las tarifas, de acuerdo con las características que la Secretaría de Comunicaciones y Obras Públicas prescriba para la ruta de que se trate.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
 
 ###### ARTICULO 165.
 
-Las terminales de salida y llegada de los vehículos destinados al servicio público de autotransportes, constituirán centros de carácter oficial dependientes de la Secretaría de Comunicaciones y Obras Públicas.
-
-En tanto se construyan esas estaciones de carácter oficial, las terminales de salida y llegada de los vehículos citados serán fijadas libremente por la Secretaría de Comunicaciones, de acuerdo con las necesidades del interés público. Para el establecimiento de estaciones de carga o de pasajeros, así como para otros servicios, que, sin ser indispensables para el tránsito sean incidentales o conexos con el mismo o que tengan por objeto la comodidad o conveniencia de viajeros, remitentes o consignatarios, será necesario permiso de la Secretaría de Comunicaciones, quedando a juicio de esta dependencia la determinación del número y la ubicación de dichos servicios y de las estaciones mencionadas, así como las condiciones y requisitos necesarios para el establecimiento de unos y otras.
-
-La Secretaría de Comunicaciones y Obras Públicas, antes de fijar la ubicación definitiva o temporal de las estaciones terminales, deberán oír la opinión de las autoridades locales correspondientes.
+Las terminales de los vehículos destinados al servicio público de autotransporte y las oficinas de las sociedades de que trata el Artículo 159 y las de los concesionarios, en sus caso, así como las estaciones intermedias y locales de los servicios anexos, serán centros de carácter oficial en los cuales la Secretaría de Comunicaciones y Obras Públicas podrá instalar inspectores que vigilen la observancia de esta Ley y su Reglamento.
 
 ## TITULO TERCERO. Puentes
 
@@ -4151,6 +4275,30 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 D.O.F. 14 DE MARZO DE 1946.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 9 DE ENERO DE 1948.
+
+1º.- Esta Ley entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación y deroga las disposiciones legales que se opongan a ella.
+
+Las disposiciones de la Ley de Vías Generales de Comunicación serán aplicables, en lo conducente a la explotación de los caminos de jurisdicción federal en cuanto no existan disposiciones en contrario en el capítulo especial relativo.
+
+2º.- Las personas físicas y las sociedades cooperativas que al entrar en vigor esta Ley exploten servicios públicos de autotransporte en los caminos de jurisdicción federal, conforme a permisos definitivos otorgados por la Secretaría de Comunicaciones y Obras Públicas, podrán continuar operando hasta la fecha de terminación de sus respectivos permisos, que no serán renovados, de acuerdo con lo dispuesto en el Capítulo II, Título Segundo, Libro Segundo, de la Ley de Vías Generales de Comunicación de 30 de diciembre de 1939, en cuanto se refiere a las obligaciones y derechos de ellos derivados, o bien podrán sujetarse a las prescripciones de esta Ley dentro un plazo de trescientos días a contar del día que entre en vigor, de conformidad con las disposiciones siguientes:
+
+I.- Los permisionarios que se encuentren operando la misma ruta o tramo de camino en la explotación de un servicio público de autotransporte en la misma clase, podrán constituir hasta dos sociedades de las previstas en el Articulo 159 para los efectos a continuar la explotación, pero en todo caso un permisionario no podrá formar parte sino de una sola de esas sociedades.
+
+II.- Darán cumplimiento a las demás prevenciones que en cuanto a la organización de dichas sociedades se establecen en esta Ley.
+
+Satisfechos estos requisitos, los permisionarios tendrán derecho a que se les otorguen las concesiones respectivas en los términos de esta Ley.
+
+3º.- En el caso de que fuere necesario aumentar el número de vehículos que presten el servicio en una ruta cuya explotación se hubiere venido realizando con anterioridad a la vigencia de esta Ley y los permisionarios no se hubieren venido realizando con anterioridad a la vigencia de esta Ley y los permisionarios no se hubieren organizado conforme a lo dispuesto en el Artículo anterior, la Secretaría otorgará concesión en los términos del presente Capítulo para la explotación de esos servicios; si los permisionarios hubieren constituído dos sociedades a cualquiera de estas se otorgará la concesión para el aumento de los vehículos que fueren necesarios, conforme a lo dispuesto en la Fracción V del Artículo 152.
+
+4º.- Se prorrogan, de pleno derecho, por un plazo que no excederá del (sic) trescientos días a que se refiere el Artículo 2°, los permisos cuyo término de duración debiere (sic) concluir antes de la expiración de ese plazo.
+
+5º.- Las personas físicas y las sociedades cooperativas a quienes se hubiere otorgado permiso para operar servicios de autotransporte y que al entrar en vigor esta Ley no hubiere iniciado la prestación de los servicios, perderán el derecho derivado de esos permisos.
+
+6º.- Las personas que al entrar en vigor esta Ley estuvieren tramitando solicitudes de permisos para la explotación de servicios públicos de autotransporte en los caminos de jurisdicción federal, quedarán sujetos al régimen y condiciones establecidos en la misma.
+
+7º.- Entretanto se elabora el Reglamento de esta Ley, la Secretaría de Comunicaciones y Obras Públicas queda facultada para fijar, por acuerdos, las normas de aplicación de los preceptos contenidos en este Capítulo.
 
 ###### ARTICULO 3.
 
