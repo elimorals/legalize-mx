@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-instituciones-y-procedimientos-electorales-del-11901"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-09-20"
-last_updated: "1995-09-20"
+last_updated: "1997-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 1997.
 
 Código publicado en el Periódico Oficial el 20 de Septiembre de 1995.
 
@@ -51,9 +51,11 @@ Las disposiciones de este Código son de orden público y de observancia general
 
 Para el desempeño de sus funciones, las autoridades electorales tendrán el apoyo y la colaboración de las autoridades federales, estatales y municipales. Asimismo, podrán celebrar convenios con autoridades federales para el debido cumplimiento de sus fines.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 3.
 
-La aplicación de las normas de este Código corresponde, en sus respectivos ámbitos de competencia, al Consejo Estatal Electoral, los Consejos Distritales Electorales, Tribunal Estatal Electoral y al Poder Legislativo del Estado.
+La aplicación de las normas de este Código corresponde, en sus respectivos ámbitos de competencia, al Consejo Estatal Electoral, los Consejos Distritales Electorales, Tribunal Electoral del Poder Judicial y al Poder Legislativo del Estado.
 
 ###### Artículo 4.
 
@@ -255,9 +257,11 @@ Los observadores podrán presentar ante la autoridad electoral, informe de sus a
 
 ### CAPITULO I. PRINCIPIOS, NATURALEZA Y OBJETO
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 27.
 
-Los Partidos Políticos Nacionales, son formas típicas de organización política e interés público, constituidos por ciudadanos mexicanos en pleno ejercicio de sus Derechos Políticos, que tienen como fin promover la participación del pueblo en la vida democrática, contribuir a integrar la voluntad política del pueblo y hacer posible el acceso de los ciudadanos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
+Los Partidos Políticos Nacionales, son formas típicas de organización política e interés público, que tienen como fin promover la participación del pueblo en la vida democrática, contribuir a integrar la voluntad política del pueblo y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a los Partidos Políticos.
 
 ###### Artículo 28.
 
@@ -273,9 +277,11 @@ A fin de lograr con eficacia su participación responsable, los Partidos Políti
 
 ### CAPITULO II. ACREDITACION DE REGISTRO
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 31.
 
-Los Partidos Políticos Nacionales, para poder participar en los procesos de elección Estatal y Municipal, deberán inscribirse ante el Consejo Estatal Electoral presentando su certificado de registro expedido por el Instituto Federal Electoral, acompañado de su declaración de principios, programas de acción y estatutos. Esta inscripción tendrá efectos permanentes hasta en tanto no se publique en el Diario Oficial de la Federación la declaración de pérdida o suspensión de su registro ante el Instituto Federal Electoral.
+Los Partidos Políticos Nacionales, para poder participar en los procesos de elección estatal y municipal, y gozar de las prerrogativas que otorga este Código, deberán inscribirse ante el Consejo Estatal Electoral presentando su certificado de registro expedido por el Instituto Federal Electoral, acompañado de su declaración de principios, programas de acción y estatutos. Esta inscripción tendrá efectos permanentes hasta en tanto no se publique en el Diario Oficial de la Federación la declaración de pérdida o suspensión de su registro ante el Instituto Federal Electoral.
 
 ### CAPITULO III. DE LOS DERECHOS
 
@@ -353,7 +359,9 @@ Son prerrogativas de los Partidos Políticos:
 
 I.- Tener acceso permanente a los medios de comunicación del Gobierno del Estado.
 
-II.- Gozar de la exención de impuestos y derechos que por sus actividades causen al Estado y al Municipio, salvo lo previsto en el Artículo 115 fracción IV de la Constitución General de la República.
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 1997)</small>
+
+II.- Gozar del régimen fiscal que se establece en este Código y en las leyes de la materia.
 
 III.- Participar del financiamiento público en los términos del capítulo respectivo de este título.
 
@@ -365,9 +373,11 @@ DEL GOBIERNO DEL ESTADO
 
 Los Partidos Políticos podrán difundir sus principios ideológicos, programas de acción, plataformas electorales, opiniones o propuestas generales sobre asuntos de orden público en los medios de comunicación del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 38.
 
-El Consejo Estatal Electoral, celebrará los convenios con los medios de comunicación del Gobierno del Estado, estableciéndose en dichos convenios las fechas, tiempos, espacios, canales y estaciones que le corresponda a cada partido.
+El Consejo Estatal Electoral, celebrará los convenios con los medios de comunicación del Gobierno del Estado, estableciendo en dichos convenios las fechas, tiempos, espacios, canales y estaciones que le corresponda de manera equitativa a cada partido.
 
 ###### Artículo 39.
 
@@ -379,15 +389,25 @@ Tratándose de concesionarios o permisionarios de radio y televisión particular
 
 ### CAPITULO VII. DEL FINANCIAMIENTO DE LOS PARTIDOS POLITICOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 41.
 
-El régimen de financiamiento de los Partidos Políticos, tendrá las siguientes modalidades:
+El régimen de financiamiento de los Partidos Políticos Nacionales, sin perjuicio de lo dispuesto en la legislación federal, tendrá las siguientes modalidades:
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
 
 1.- El origen del financiamiento podrá ser:
 
-a).- Público; y
+a).- Financiamiento público, que prevalecerá sobre los otros tipos de financiamiento;
 
-b).-Privado;
+b).- Financiamiento por la militancia;
+
+c) Financiamiento de simpatizantes
+
+d) Autofinanciamiento; y
+
+e) Financiamiento por rendimientos financieros, fondos y fideicomisos.
 
 2.- No podrán realizar aportaciones o donativos a los Partidos Políticos, en dinero o en especie, por si o por interpósita persona y bajo ninguna circunstancia:
 
@@ -405,49 +425,117 @@ f) Las personas que vivan o trabajen en el extranjero; y
 
 g) Las empresas mexicanas de carácter mercantil.
 
-3.- Los Partidos Políticos no podrán solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
+3.- Los Partidos Políticos no podrán solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades. Tampoco podrán recibir aportaciones de personas no identificadas, con excepción de las obtenidas mediante colectas realizadas en mítines o en la vía pública.
 
 4.- Las aportaciones que se realicen a los Partidos Políticos, no serán deducibles de impuestos.
 
 5.- Los Partidos Políticos deberán tener un órgano interno encargado de la obtención y administración de sus recursos generales y de campaña, así como de la presentación de los informes a que se refiere el siguiente artículo. Dicho órgano se constituirá en los términos y con las modalidades y características que cada Partido libremente determine.
 
-6.- Para la revisión de los informes que los Partidos Políticos presenten sobre el origen y destino de sus recursos generales y de campaña, la efectuará el Consejo Estatal Electoral.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
 
-### CAPITULO VIII. DEL FINANCIAMIENTO PUBLICO
+6.- Para la revisión de los informes que los Partidos Políticos presenten sobre el origen y destino de sus recursos generales y de campaña, según corresponda, así como para la vigilancia del manejo de sus recursos, se constituirá la Comisión de Fiscalización de los Recursos de los Partidos Políticos, dependiente del Consejo Estatal Electoral. Esta comisión funcionará de manera permanente.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MARZO DE 1997)</small>
+
+### CAPITULO VIII. DEL FINANCIAMIENTO PUBLICO Y PRIVADO
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 42.
 
-Los Partidos Políticos Nacionales, adicionalmente de los ingresos que perciban por las aportaciones de sus afiliados y organizaciones, así como los que corresponden al Financiamiento Público establecido en la Legislación Federal, tendrá derecho al Financiamiento Público Estatal, conforme a las disposiciones siguientes:
+Los Partidos Políticos tendrán derecho al financiamiento público estatal de sus actividades, independientemente de las demás prerrogativas otorgadas en este Código, conforme a las disposiciones siguientes:
 
-I.- Para determinar el monto total del Financiamiento en efectivo, se cuantificará el equivalente a un salario mínimo diario vigente en la fecha de la junta de instalación del Consejo Estatal Electoral, en los términos de este Código, por cada ciudadano inscrito en esa fecha en el Padrón Electoral, y se distribuirá de la siguiente forma:
+I.- Para el sostenimiento de actividades ordinarias permanentes:
 
-II. El 50% del monto total a repartir, se distribuirá en partes iguales a los Partidos Políticos Nacionales inscritos ante el Consejo Estatal Electoral mediante el siguiente procedimiento:
+a).- El Consejo General del Consejo Estatal Electoral determinará anualmente, con base en los estudios que le presente el Consejero Presidente, los costos mínimos de una campaña para diputado, de una para ayuntamiento y para la de Gobernador del Estado, tomando como base los costos aprobados para el año inmediato anterior actualizándolos mediante la aplicación del índice nacional de precios al consumidor, que establezca el Banco de México, así como los demás factores que el propio Consejo Determine. El Consejo General podrá, una vez concluido el proceso electoral ordinario, revisar los elementos o factores conforme a los cuales se hubiesen fijado los costos mínimos de campaña;
 
-a) La primera mitad, en 36 exhibiciones mensuales iguales y consecutivas, siendo la primera el día último de Noviembre del año anterior al de la elección.
+b).- El costo mínimo de una campaña para diputado, será multiplicado por el total de diputados a elegir y por el número de Partidos Políticos con representación en la Legislatura del Estado;
 
-Estos recursos deberán destinarse al Financiamiento de las actividades permanentes de los Partidos Políticos, incluyendo el gasto de operación de sus instalaciones y equipos administrativos, y
+c).- El costo mínimo de una campaña para ayuntamiento, será multiplicado por el total de ayuntamientos a elegir y por el número de Partidos Políticos con representación en todos los ayuntamientos;
 
-b) La segunda mitad, en tres exhibiciones mensuales iguales y consecutivas, la primera el día primero de diciembre del año anterior al de la elección, que se desatinarán al Financiamiento de las campañas políticas de sus candidatos. Para acceder a este Financiamiento, los Partidos deberán inscribir candidatos en por lo menos el 50% de los procesos electorales.
+d).- El costo mínimo de gastos de campaña para Gobernador del Estado, se calculará con base a lo siguiente: El costo mínimo de gastos de campaña para diputado se multiplicará por el total de diputados a elegir por el principio de mayoría relativa, dividido entre los días que dura la campaña para diputado por este principio, multiplicándolo por los días que dura la campaña para Gobernador;
 
-III. El 50% restante del monto total a repartir, se distribuirá entre los Partidos Políticos Nacionales inscritos ante el Consejo Estatal Electoral, de manera proporcional al número de votos que haya obtenido en la elección ordinaria anterior para Diputados de mayoría Relativa y se calendarizará de la siguiente manera:
+e).- La suma del resultado de las operaciones señaladas en los incisos anteriores, según corresponda, constituye el financiamiento público anual a los Partidos Políticos por sus actividades ordinarias permanentes y se distribuirá de la siguiente manera:
 
-a) La primera mitad, de 36 exhibiciones mensuales, siendo la primera el día último de Noviembre del año anterior al de la elección; y
+- El 30% de la cantidad total que resulte, se entregará en forma igualitaria, a los Partidos Políticos con representación en la Legislatura del Estado.
 
-b) La segunda mitad, en tres exhibiciones mensuales iguales y consecutivas, la primera el día primero de diciembre del año anterior al de la elección que se destinarán al Financiamiento de las campañas políticas de sus candidatos.
+- El 70% restante, se distribuirá según el porcentaje de la votación estatal emitida, que hubiese obtenido cada Partido Político con representación en la Legislatura del Estado, en la elección de diputados inmediata anterior.
 
-Para acceder a ese Financiamiento, deberán inscribir candidatos en por lo menos el 50% de los Procesos Electorales.
+f).- El financiamiento a que se refieren las fracciones anteriores se determinará anualmente tomando en consideración el índice nacional de precios al consumidor, que establezca el Banco de México;
 
-Los Partidos Políticos informarán semestralmente al Consejo Estatal Electoral, el empleo del financiamiento público estatal, en los términos que el propio Consejo acuerde.
+g).- Las cantidades que en su caso se determinen para cada Partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente; y
+
+h).- Cada Partido Político deberá destinar anualmente por lo menos el 2 % del financiamiento público que reciba, para el desarrollo de sus fundaciones o institutos de investigación.
+
+II.- Para gastos de campaña:
+
+a).- En el año de la elección, a cada Partido Político se le otorgará para gastos de campaña, un monto equivalente al financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda ese año; y
+
+b).- El monto para gastos de campaña se otorgará a los Partidos Políticos en forma adicional al resto de las prerrogativas.
+
+Para acceder a este financiamiento, deberán inscribir candidatos en por lo menos el 50% de los procesos electorales.
+
+III.- Por actividades específicas como entidades de interés público:
+
+a).- La educación y capacitación política, investigación socioeconómica y política, así como las tareas editoriales de los Partidos Políticos, destinadas al pueblo quintanarroense, podrán ser apoyadas mediante el financiamiento público en los términos del reglamento que expida el Consejo General del Consejo Estatal Electoral;
+
+b).- El Consejo General no podrá acordar apoyos en cantidad mayor al 75% anual, de los gastos comprobados que por las actividades a que se refiere esta fracción hayan erogado los Partidos Políticos en el año inmediato anterior; y
+
+c).- Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones conforme al calendario presupuestal que se apruebe anualmente.
+
+IV.- Los Partidos Políticos que hubieren obtenido su registro con fecha posterior a la última elección y que se hayan acreditado ante el Consejo Estatal Electoral conforme al artículo 31 de este Código, tendrán derecho a que se les otorgue financiamiento público conforme a las siguientes bases:
+
+a).- Se le otorgará a cada Partido Político el 2% del monto que por financiamiento total les corresponda a los Partidos Políticos para el sostenimiento de sus actividades ordinarias permanentes a que se refiere este artículo, así como en el año de la elección una cantidad adicional igual para gastos de campaña.
+
+Estas cantidades serán entregadas por la parte proporcional que corresponda a la anualidad a partir de la fecha en que surta efectos la acreditación del registro y tomando en cuenta el calendario presupuestal aprobado para el año.
+
+b).- Se les otorgará el financiamiento público por sus actividades específicas como entidades de interés público.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 43.
 
-Durante los procesos electorales se otorgará a cada Partido Político con registro financiamiento público adicional al permanente por un monto de un 4% del salario mínimo general vigente multiplicado por el número de electores del padrón respectivo con corte a la fecha de instalación del Consejo Estatal Electoral por cada proceso electoral en el que participe.
+El financiamiento que no provenga del erario público tendrá las siguientes modalidades:
+
+I.- El financiamiento general de los Partidos Políticos y para sus campañas que provenga de la militancia estará conformado por las cuotas obligatorias ordinarias y extraordinarias de sus afiliados, por las aportaciones de sus organizaciones sociales y por las cuotas voluntarias y personales que los candidatos aporten exclusivamente para sus campañas conforme a las siguientes reglas:
+
+a) El órgano interno responsable del financiamiento de cada Partido deberá expedir recibo de las cuotas o aportaciones recibidas, de los cuales deberá conservar una copia para acreditar el monto ingresado;
+
+b).- Cada Partido Político determinará libremente los montos mínimos y máximos y la periodicidad de las cuotas ordinarias y extraordinarias de sus afiliados, así como las aportaciones de sus organizaciones; y
+
+c).- Las cuotas voluntarias y personales que los candidatos aporten exclusivamente para sus campañas tendrán el límite que fije el órgano interno responsable del manejo del financiamiento de cada Partido.
+
+II.- El financiamiento de participantes estará conformado por las aportaciones o donativos, en dinero o en especie, hechas a los Partidos Políticos en forma libre y voluntaria por las personas físicas o morales mexicanas con residencia en el país, que no estén comprendidas en el punto 2 del artículo 41 de este Código. Las aportaciones se deberán sujetar a las siguientes reglas:
+
+a).- Cada Partido Político no podrá recibir anualmente aportaciones en dinero de simpatizantes por una cantidad superior al diez por ciento del total del financiamiento público para actividades ordinarias que corresponda a todos los Partidos Políticos;
+
+b).- De las aportaciones en dinero deberán expedirse recibos foliados por los Partidos Políticos en los que se harán constar los datos de identificación del aportante, salvo que hubieren sido obtenidas mediante colectas realizadas en mítines o en la vía pública, siempre y cuando no impliquen venta de bienes o artículos promocionales. En el caso de colectas, sólo deberá reportarse en el informe correspondiente el monto total obtenido. Las aportaciones en especie se harán constar en un contrato celebrado conforme a las leyes aplicables;
+
+c).- Las aportaciones en dinero que realice cada persona física o moral facultada para ello, tendrán un límite anual equivalente al 0.05% del monto total de financiamiento público para el sostenimiento de actividades ordinarias permanentes otorgado a los Partidos Políticos, en el año que corresponda;
+
+d).- Las aportaciones en dinero podrán realizarse en parcialidades y en cualquier tiempo, pero el monto total aportado durante un año por una persona física o moral no podrá rebasar, según corresponda, los límites establecidos en el inciso anterior; y
+
+e).- Las aportaciones de bienes muebles o inmuebles deberán destinarse únicamente para el cumplimiento del objeto del Partido Político que haya sido beneficiado con la aportación.
+
+III.- El autofinanciamiento estará constituido por los ingresos que los Partidos obtengan de sus actividades promocionales, tales como conferencias, espectáculos, juegos y sorteos, eventos culturales, ventas editoriales, de bienes y de propaganda utilitaria, así como cualquier otra similar que realicen para allegarse fondos, las que estarán sujetas a las leyes correspondientes a su naturaleza. Para efectos de este Código, el órgano interno responsable del financiamiento de cada Partido Político reportará los ingresos obtenidos por estas actividades en los informes respectivos; y
+
+IV.- Para obtener financiamiento por rendimientos financieros, los Partidos Políticos podrán crear fondos o fideicomisos con su patrimonio o con las aportaciones que reciban, adicionalmente a las provenientes de las modalidades del financiamiento señaladas en el presente Capítulo. El financiamiento por rendimientos financieros se sujetará a las siguientes reglas:
+
+a).- A las aportaciones que se realicen, a través de esta modalidad, les serán aplicables las disposiciones contenidas en los puntos 2 y 3 del artículo 41, y en el inciso "c" de la fracción II de este artículo y demás disposiciones aplicables de este Código y las leyes correspondientes, atendiendo al tipo de operación realizada;
+
+b).- Los fondos y fideicomisos que se constituyan serán manejados a través de las operaciones bancarias y financieras que el órgano responsable del financiamiento de cada Partido Político considere conveniente, con excepción de la adquisición de acciones bursátiles; y
+
+c).- Los rendimientos financieros obtenidos a través de esta modalidad deberán destinarse para el cumplimiento de los objetivos de cada Partido Político.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 44.
 
-Los Partidos Políticos deberán rendir adicionalmente un informe anual justificando ante el Consejo Estatal Electoral el origen y destino de los recursos obtenidos por el financiamiento y de los gastos de campaña, anexando los comprobantes respectivos.
+Los Partidos Políticos deberán rendir adicionalmente un informe anual justificando ante la Comisión de Fiscalización de los Recursos de los Partidos Políticos, dependiente del Consejo Estatal Electoral, el origen y destino de los recursos obtenidos por el financiamiento y de los gastos de campaña, anexando los comprobantes respectivos.
 
-El Consejo Estatal Electoral calificará este informe y emitirá un dictamen dentro de los treinta días siguientes a la recepción del mismo
+La Comisión de Fiscalización calificará este informe y emitirá un dictamen dentro de los treinta días siguientes a la recepción del mismo.
 
 ###### Artículo 45.
 
@@ -533,11 +621,13 @@ La cancelación de la inscripción de un Partido Político, no tiene efecto en r
 
 ## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 59.
 
-La organización de las elecciones del Estado de Quintana Roo es una función estatal que se ejerce con la participación de los Partidos Políticos y los ciudadanos en los términos de este Código.
+La organización de las elecciones del Estado de Quintana Roo es una función estatal que se realiza a través de un organismo público autónomo denominado Consejo Estatal Electoral, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Poder Legislativo del Estado, los Partidos Políticos Nacionales y los ciudadanos, en los términos que ordena este Código. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores.
 
-El Estado, los ciudadanos y los Partidos Políticos integrarán a los diversos organismos electorales, en términos del presente Código.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 60.
 
@@ -545,19 +635,19 @@ Son organismos electorales del Estado los siguientes:
 
 I.- El Consejo Estatal Electoral.
 
-II.- El Comité Técnico del Consejo Estatal Electoral.
+II.- Los Consejos Distritales Electorales.
 
-III.- Los Consejos Distritales Electorales y
-
-IV.- Las Mesas directivas de Casilla.
+III.- Las Mesas Directivas de Casilla.
 
 ## TITULO SEGUNDO. DEL CONSEJO ESTATAL ELECTORAL Y SUS ORGANOS
 
 ### CAPITULO I. DEL CONSEJO
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 61.
 
-El Consejo Estatal Electoral es el organismo superior de dirección con carácter público, autónomo, permanente y con personalidad jurídica propia, encargado de vigilar el cumplimiento de las normas constitucionales y legales en materia electoral, y demás disposiciones que garantizan el derecho de organización política de los ciudadanos quintanarroenses, al cual le corresponde la preparación, desarrollo y vigilancia del proceso electoral en las elecciones de Diputados a la Legislatura, Gobernador del Estado y miembros de los Ayuntamientos.
+El Consejo Estatal Electoral, es autoridad en la materia, encargado de vigilar el cumplimiento de las normas constitucionales y legales en materia electoral, y demás disposiciones que garantizan el derecho de organización política de los ciudadanos quintanarroenses, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad y objetividad, guíen todas las actividades del Consejo.
 
 ###### Artículo 62.
 
@@ -591,47 +681,57 @@ VII.- Cumplir y hacer cumplir los principios de certeza, legalidad, equidad, imp
 
 El patrimonio del Consejo Estatal Electoral, se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de sus fines y de aquellas partidas que anualmente se aprueben en el Presupuesto de Egresos del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 66.
 
-El Consejo Estatal Electoral se integra de la siguiente forma:
+El Consejo Estatal Electoral se integra con los siguientes órganos:
 
-a).- Con un Presidente designado por el Ejecutivo del Estado a más tardar, el 27 de septiembre del año anterior al de la elección, quien participará en las sesiones del Consejo Estatal Electoral con voz pero sin voto.
+a).- Con un Consejo General, que será el órgano superior de dirección, integrado con un Consejero Presidente y cuatro Consejeros Electorales, y concurrirán con voz pero sin voto, los consejeros del Poder Legislativo, los representantes de los Partidos Políticos inscritos ante el Consejo Estatal Electoral y un Secretario Ejecutivo:
 
-b).- Con siete Consejeros Ciudadanos propuestos por los Partidos Políticos, quienes participarán en las sesiones del Consejo Estatal Electoral con voz y voto.
+b).- El Comité Técnico del Consejo Estatal Electoral;
 
-c).- Con un representante por cada Partido Político inscrito ante el Consejo Estatal Electoral, quien participará en sus sesiones con voz pero sin voto.
+c).- Los Consejos Distritales Electorales;
 
-Por cada uno de sus representantes los Partidos Políticos nombrarán un suplente.
+d).- Las Mesas Directivas de Casilla.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 67.
 
-Para la elección de los Consejeros Ciudadanos se seguirá el siguiente procedimiento:
+Para la elección del Consejero Presidente y de los Consejeros Electorales del Consejo General, se seguirá el siguiente procedimiento:
 
-a).- Cada Partido Político que participe en la elección hará llegar a la Legislatura o a la Diputación Permanente, la propuesta de tres candidatos a Consejeros Ciudadanos del 25 al 27 de septiembre, inclusive, del año anterior a la elección, acompañando la documentación comprobatoria respectiva y la manifestación bajo protesta de decir verdad de la persona propuesta, de que no se encuentra en los supuestos que señalan las fracciones IV, V, VI y VII del Artículo 69 de este Código.
+a).- El Consejero Presidente será elegido por las dos terceras partes de los miembros presentes de la Legislatura del Estado, de entre las propuestas que formulen los grupos parlamentarios. La designación será realizada conforme a la normatividad y procedimientos aplicables en materia de votación en la Legislatura.
 
-b).- Inmediatamente, la Legislatura o la Diputación Permanente hará del conocimiento público las propuestas que haya recibido mediante fijación en estrados con el objeto de que los Partidos Políticos puedan alegar lo que en derecho proceda.
+b).- El consejero Presidente debe reunir los mismos requisitos que se establecen en el artículo 69 para ser consejero electoral. Durará en su cargo siete años.
 
-c).- Si del análisis de las propuestas resultara que alguna o algunas de ellas no reúnen los requisitos mencionados en este Código, la Legislatura o Diputación Permanente requerirá al proponente a fin de que subsane la omisión o, en su caso, sustituya su propuesta dentro de las veinticuatro horas siguientes contadas a partir del momento en que se practique la notificación.
+c).- Los consejeros del Poder Legislativo serán propuestos por los grupos parlamentarios con afiliación de partido en la Legislatura. Sólo habrá un consejero por cada grupo parlamentario. Los consejeros del Poder Legislativo concurrirán a las sesiones del Consejo General con voz, pero sin voto. Por cada propietario podrá designarse hasta dos suplentes.
 
-d).- La Legislatura o la Diputación Permanente verificará que las propuestas a que se refiere el inciso anterior cumplan con los requisitos que exige el presente Código para desempeñar el cargo de Consejero Ciudadano y resolverá dentro de los cuatro días siguientes a su recepción, debiendo notificar la resolución respectiva a los interesados dentro del término de veinticuatro horas.
+En caso de vacante de los consejeros del Poder Legislativo, el consejero Presidente se dirigirá a la Legislatura, o en su caso a la Diputación Permanente, a fin de que se haga la designación correspondiente.
 
-e).- La Legislatura del Estado o la Diputación Permanente sesionará el 30 de septiembre del año anterior a (sic) de la elección con el objeto de llevar a cabo la insaculación de las propuestas de los Partidos Políticos ya calificadas.
+d).- Los consejeros electorales serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Legislatura, de entre las propuestas que formulen los grupos parlamentarios. Asimismo, se designarán cuatro consejeros electorales suplentes, en orden de prelación. La designación será realizada conforme a la normatividad y procedimientos aplicables en materia de votación en la Legislatura.
 
-f).- La insaculación a que hace referencia el inciso anterior la llevará a cabo la Legislatura o la Diputación Permanente. Los siete primeros insaculados, tendrán el carácter de propietarios y los siete siguientes tendrán el carácter de suplentes; éstos serán llamados a cubrir, en el orden sucesivo en que fueren insaculados, las ausencias definitivas de cualquiera de los propietarios.
+Los consejeros electorales propietarios y suplentes durarán en su cargo siete años. El consejero Presidente y los consejeros electorales no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia no remunerados. La retributación (sic) que perciban el consejero (sic).
 
-h).- Terminado el proceso de insaculación, la Legislatura del Estado o la Diputación Permanente, procederá a designar a los insaculados Consejeros Ciudadanos del Consejo Estatal Electoral.
+De producirse una ausencia definitiva, o en su caso, de incurrir los consejeros propietarios en dos inasistencias consecutivas sin causa justificada, será llamado el suplente que corresponda según el orden de prelación en que fueron designados por la Legislatura del Estado, para que concurra a rendir la protesta de ley.
 
-En caso de que no se alcance el número de ciudadanos insaculables para integrar el Consejo Estatal Electoral, la Legislatura o Diputación Permanente, a propuesta de su Presidente, hará la designación de los Consejeros Ciudadanos faltantes.
+e).- El Secretario Ejecutivo será nombrado y removido por los consejeros electorales del Consejo General a propuesta del consejero Presidente.
 
-En todo caso, se observará lo dispuesto en le (sic) Artículo 69 del presente Código.
+f).- Durante los recesos de la Legislatura, la elección del consejero Presidente y de los consejeros electorales será realizada por la Diputación Permanente, por el voto de las dos terceras partes de sus miembros presentes.
+
+g).- Cada partido político nacional acreditado conforme al artículo 31 de este Código, designará un representante propietario y un suplente, con voz pero sin voto.
+
+h).- Los partidos podrán sustituir en todo tiempo a sus representantes, dando con oportunidad el aviso correspondiente al consejero Presidente.
 
 ###### Artículo 68.
 
 Los Partidos Políticos acreditarán a sus respectivos representantes ante el Consejo Estatal Electoral en los plazos establecidos en el artículo 106 de este Código.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 69.
 
-Los Consejeros Ciudadanos deben reunir los siguientes requisitos:
+Los consejeros electorales deben reunir los siguientes requisitos:
 
 I.- Ser ciudadano quintanarroense con residencia mínima de seis años.
 
@@ -653,41 +753,51 @@ IX.- No encontrarse sujeto a proceso penal o inhabilitado.
 
 X.- No haber desempeñado el cargo de Consejero Ciudadano en los seis años anteriores a la designación.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 70.
 
-El Consejo Estatal Electoral a más tardar el 10 de octubre del año anterior a las elecciones ordinarias, celebrará su sesión de instalación en la cual se hará la declaratoria formal de su instalación
+El Consejo General del Consejo Estatal Electoral, a más tardar el 10 de octubre del año anterior al de las elecciones ordinarias, celebrará su sesión de instalación en la cual se hará la declaratoria formal de su instalación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 71.
 
-A partir de su primera sesión y hasta la terminación del proceso electoral, el Consejo sesionará de manera ordinaria por lo menos dos veces al mes, y de manera extraordinaria en casos de urgencia cuando fuese convocado para el efecto por su Presidente o por cinco Consejeros Ciudadanos.
+A partir de su primera sesión y hasta la terminación del proceso electoral, el Consejo General sesionará de manera ordinaria por lo menos dos veces al mes, y de manera extraordinaria en casos de urgencia cuando fuese convocado para el efecto por el consejero Presidente o por los consejeros electorales.
 
 Son casos urgentes, los que no permiten dilación alguna en su resolución.
 
 Concluido el proceso electoral se reunirá de manera ordinaria cuando menos cada seis meses, y de manera extraordinaria cuando sea convocado en los términos de los párrafos anteriores.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 72.
 
-Para que el Consejo Estatal Electoral pueda sesionar, es necesario que estén presentes la mayoría de sus integrantes, entre los cuales deberá asistir el Presidente y cuando menos cuatro Consejeros Ciudadanos.
+Para que el Consejo General pueda sesionar, es necesario que estén los consejeros electorales y el Consejero Presidente.
 
-Cuando no se reúna la mayoría o no asista el Presidente, el Consejo sesionará dentro de las 24 horas siguientes, con los consejeros y representantes que estén presentes.
+Cuando no asista el consejero Presidente, el Consejo sesionará dentro de las veinticuatro horas siguientes, con los consejeros y representantes que estén presentes.
 
-Todas las resoluciones del Consejo se tomarán por mayoría simple de votos de los Consejeros Ciudadanos presentes, excepto en los casos explícitamente previstos por este Código.
+Todas las resoluciones del Consejo se tomarán por mayoría simple de votos de los consejeros electorales presentes, teniendo el consejero Presidente voto de calidad en caso de empate.
 
-> <small>(F. DE E., P.O. 16 DE OCTUBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 73.
 
-Los Consejeros Ciudadanos podrán ser removidos por la Legislatura del Estado a propuesta de los partidos políticos por causa justificada debidamente acreditada. Las decisiones de la Legislatura que para el efecto se tomen deberán contar con el voto aprobatorio de las dos terceras partes de los Diputados presentes.
+El consejero Presidente será suplido en sus ausencias por el consejero electoral que designen los integrantes del Consejo General.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 74.
 
-El Consejo Estatal Electoral, integrará las Comisiones que considere necesarias para el desempeño de sus atribuciones, con el número de sus miembros que acuerde.
+El Consejo General del Consejo Estatal Electoral, integrará las comisiones que considere necesarias para el desempeño de sus atribuciones, con el número de sus miembros que acuerde. En estas comisiones podrán estar representados los partidos políticos.
 
 En todos los asuntos que se le encomienden, las Comisiones deberán presentar un proyecto de resolución o de dictamen, con mención de los fundamentos legales y en el que se consideren, cuando sea el caso, las opiniones particulares de los Partidos Políticos interesados y las pruebas que se hubiesen presentado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 75.
 
-El Consejo Estatal Electoral tiene las siguientes atribuciones:
+El Consejo General del Consejo Estatal Electoral tiene las siguientes atribuciones:
 
 I.- Vigilar el cumplimiento de las disposiciones constitucionales y las contenidas en este código.
 
@@ -767,9 +877,11 @@ XXXVII.- Todas las demás que le confiera este Código.
 
 ### CAPITULO II. DEL PRESIDENTE DEL CONSEJO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 76.
 
-Son facultades del Presidente del Consejo Estatal Electoral, las siguientes:
+Son facultades del consejero Presidente del Consejo, las siguientes:
 
 I.- Representar legalmente al Consejo Estatal Electoral;
 
@@ -787,23 +899,29 @@ VII.- Las demás que le confiera este Código.
 
 ### CAPITULO III. DEL SECRETARIO TECNICO
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 77.
 
-Para el mejor ejercicio de sus facultades, el Consejo Estatal Electoral contará con una Secretaría Técnica a cargo de un Secretario Técnico designado por el Consejo de preferencia de entre sus miembros, que se encargará de realizar las tareas de carácter profesional y operativo que le encomiende el Presidente del Consejo.
+Para el mejor ejercicio de sus facultades, el Consejo Estatal Electoral contará con una Secretaría Ejecutiva a cargo de un Secretario Ejecutivo designado por el Consejo General a propuesta del consejero Presidente, que se encargará de realizar las tareas de carácter profesional y operativo que le encomiende el consejero Presidente.
 
-El nombramiento del Secretario Técnico deberá recaer preferentemente en personal profesional y con experiencia en el área.
+El Secretario Ejecutivo deberá reunir los mismos requisitos que se exigen para ser consejero electoral, y el nombramiento deberá recaer preferentemente en personal profesional y con experiencia en el área.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 78.
 
-El Secretario Técnico del Consejo Estatal Electoral, tendrá las atribuciones y obligaciones siguientes:
+El Secretario Ejecutivo del Consejo Estatal Electoral, tendrá las atribuciones y obligaciones siguientes:
 
 I.- Coordinar las tareas del Comité Técnico electoral del Estado
 
 II.- Recibir la documentación que le presenten los Partidos Políticos y los ciudadanos; y en su caso turnarla al órgano electoral competente;
 
-III.- Proponer al Consejo el orden del día de sus sesiones, de conformidad con el Presidente del Consejo Electoral y levantar las actas correspondientes con las firmas de los consejeros y representantes asistentes;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 1997)</small>
 
-IV.- Auxiliar al Presidente del Consejo Estatal Electoral, y suplir sus ausencias temporales y justificadas en las sesiones de carácter urgente;
+III.- Proponer al Consejo General el orden del día de sus sesiones, de conformidad con el consejero Presidente y levantar las actas correspondientes con las firmas de los consejeros electorales, consejeros del Poder Legislativo y representantes asistentes.
+
+IV.- (DEROGADA, P.O. 14 DE MARZO DE 1997)
 
 V.- Informar sobre el cumplimiento de los acuerdos del Consejo;
 
@@ -815,25 +933,35 @@ VIII.- Recibir los recursos de apelación e inconformidad y remitirlos al Tribun
 
 IX.- Llevar el libro de registro de los integrantes de los órganos directivos estatales y municipales de los Partidos Políticos y de sus representantes acreditados ante los órganos electorales;
 
-X.- Registrar los nombramientos de los representantes de los Partidos Políticos, que integrarán el Consejo Estatal Electoral;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 1997)</small>
+
+X.- Registrar los nombramientos de los consejeros del Poder Legislativo y de los representantes de los partidos políticos, que integrarán el Consejo General del Consejo Estatal Electoral.
 
 XI.- Llevar el libro de registro de los candidatos a cargos de elección popular;
 
 XII.- Llevar el archivo del consejo;
 
-XIII.- Firmar junto con el Presidente del Consejo todos los acuerdo (sic) y resoluciones que se emitan;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 1997)</small>
 
-XIV.- Dictaminar sobre los requisitos que deben satisfacer los Consejeros Ciudadanos que designe el Consejo Estatal para integrar los Consejos Distritales, conforme al presente Código; y
+XIII.- Firmar junto con el Consejero Presidente todos los acuerdos y resoluciones que se emitan.
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 1997)</small>
+
+XIV.- Dictaminar sobre los requisitos que deben satisfacer los consejeros electorales que designe el Consejo General para integrar los Consejos Distritales, conforme al presente Código; y
 
 XV.- Las demás que le confiera este Código.
 
 ### CAPITULO IV. DEL COMITE TECNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 79.
 
-El Comité Técnico es un órgano ejecutivo del Consejo Estatal Electoral integrado por el secretario técnico, quien fungirá como coordinador general del Comité, y los coordinadores de organización electoral, de administración y de capacitación electoral.
+El Comité Técnico es un órgano ejecutivo del Consejo Estatal Electoral integrado por el Secretario Ejecutivo, quien fungirá como coordinador general de Comité, y los coordinadores de organización electoral, de administración y de capacitación electoral.
 
-Los coordinadores del Comité Técnico Electoral serán designados por el Consejo Estatal Electoral a propuesta de los Consejeros Ciudadanos.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
+Los coordinadores del Comité Técnico serán designados por el Consejo General a propuesta del consejero Presidente.
 
 El nombramiento de los Coordinadores deberá recaer en personal profesional.
 
@@ -851,9 +979,13 @@ IV.- Conformar la propuesta del proyecto de ubicación de casillas, en coordinac
 
 V.- Seleccionar de las listas nominales de electores, de acuerdo con el procedimiento establecido en este Código, a los ciudadanos de cada sección electoral que recibirán el curso de capacitación para funcionarios de casillas;
 
-VI.- Formular y presentar al Consejo Estatal Electoral para su aprobación, el proyecto de topes máximos de gastos de campaña que pueden erogar los Partidos Políticos en las elecciones de Gobernador, de diputados de mayoría relativa y de ayuntamientos, tomando en cuenta para estos dos últimos casos los valores que el Consejo Electoral determine en los términos de este Código;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 1997)</small>
 
-VII.- Disponer lo conducente para la impresión de las boletas y demás documentación aprobada por el Consejo Estatal Electoral;
+VI.- Formular y presentar por conducto del consejero Presidente para su aprobación por el Consejo General, el proyecto de límites máximos de gastos de campaña que pueden erogar los partidos políticos en las elecciones de Gobernador, diputados de mayoría relativa y de ayuntamientos, tomando en cuenta para estos dos últimos casos los factores que el Consejo General determine en los términos de este Código.
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 1997)</small>
+
+VII.- Disponer lo conducente para la impresión de las boletas y demás documentos aprobados por el Consejo General.
 
 VIII.- Recibir las solicitudes de acreditación que se presente en forma personal o a través de las agrupaciones a las que pertenezcan, para participar como observadores durante el proceso electoral conforme a lo dispuesto por este Código;
 
@@ -881,7 +1013,9 @@ III.- Coordinación de Capacitación Electoral.
 
 A cargo de cada una de las coordinaciones del Comité Técnico Electoral, habrá un coordinador.
 
-El coordinador general del Comité Técnico Electoral y los demás coordinadores deberán satisfacer los siguientes requisitos:
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
+Los coordinadores del Comité Técnico deberán satisfacer los siguientes requisitos:
 
 I.- Ser mexicanos por nacimiento y ciudadanos Quintanarroenses;
 
@@ -901,7 +1035,9 @@ La Coordinación de Organización Electoral tendrá las siguientes obligaciones 
 
 I.- Apoyar la instalación y funcionamiento de los Consejos Distritales;
 
-II.- Elaborar los formatos de la documentación electoral para someterlos por conducto del Secretario Técnico a la aprobación del Consejo Estatal Electoral;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 1997)</small>
+
+II.- Elaborar los formatos de la documentación electoral para someterlos por conducto del Secretario Ejecutivo a la aprobación del Consejo General.
 
 III.- Proveer lo necesario para la impresión de las boletas y demás documentos electorales y la elaboración del material autorizado, así como su distribución;
 
@@ -915,7 +1051,9 @@ VI.- Llevar y dar a conocer la estadística de las elecciones, por sección, mun
 
 VII.- Recabar de la Junta Local Ejecutiva del Instituto Federal Electoral la cartografía, listas nominales de electores y demás documentación relativa el (sic) proceso electoral, en los términos del convenio respectivo;
 
-VIII.- Acordar con el Secretario Técnico los asuntos de su competencia; y
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 1997)</small>
+
+VIII.- Acordar con el Secretario Ejecutivo los asuntos de su competencia.
 
 IX.- Las demás que le confiera este Código.
 
@@ -931,7 +1069,9 @@ III.- Establecer y operar los sistemas administrativo (sic) para el ejercicio y 
 
 IV.- Atender las necesidades administrativas de los órganos electorales;
 
-V.- Acordar con el Secretario Técnico los asuntos de su competencia; y
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 1997)</small>
+
+V.- Acordar con el Secretario Ejecutivo los asuntos de su competencia.
 
 VI.- Las demás que le confiera este Código.
 
@@ -949,7 +1089,9 @@ I.- Llevar a cabo los programas de reclutamiento, selección, formación y desar
 
 II.- Elaborar y proponer los programas de capacitación electoral para la debida integración de las mesas directivas de casillas, así como los de educación cívica para la ciudadanía en general;
 
-III.- Acordar con el Secretario Ejecutivo los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 1997)</small>
+
+III.- Acordar con el Secretario Ejecutivo los asuntos de su competencia.
 
 IV.- Coordinar y vigilar el cumplimiento de los programas de capacitación;
 
@@ -959,7 +1101,9 @@ VI.- Orientar a los ciudadanos para el ejercicio de sus derechos y cumplimiento 
 
 VII.- Llevar a cabo programas o acciones necesarias para exhortar a los ciudadanos a que cumplan con las obligaciones establecidas en el presente Código, en particular las relativas a las de inscripción en el Registro Federal de Electores y las del voto; y
 
-VIII.- Las demás que le asigne este Código o el Secretario Técnico.
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 1997)</small>
+
+VIII.- Las demás que le confiera este Código o el Secretario Ejecutivo.
 
 ## TITULO TERCERO. DE LOS CONSEJOS DISTRITALES ELECTORALES Y MESAS
 
@@ -975,29 +1119,19 @@ Los Consejos Distritales Electorales que residan en los distritos electorales cu
 
 En aquellos municipios que comprendan dos o más distritos electorales, la preparación, desarrollo y vigilancia de elecciones de Ayuntamientos recaerá en aquel Consejo Distrital que resida en el distrito electoral de número más bajo.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 88.
 
-Los consejos distritales electorales se integrarán en la siguiente forma:
+Los Consejos Distritales Electorales se integrarán con un consejero Presidente designado por el Consejo General del Consejo Estatal Electoral, dos consejeros electorales y representantes de los partidos políticos nacionales acreditados conforme al artículo 31 de este Código, quienes concurrirán a las sesiones del Consejo Distrital con voz, pero sin voto.
 
-I. Con cinco Consejeros Ciudadanos, quienes participarán en las sesiones con voz y voto, designados por el Consejo Estatal Electoral en los términos de este Código;
+Los consejeros electorales durarán en su cargo siete años y tendrán suplentes que, en su caso, cubrirán las ausencias definitivas de aquéllos de acuerdo con el orden sucesivo con que hayan sido designados.
 
-II. Con un representante por cada Partido Político inscrito ante el Consejo Estatal Electoral quienes participarán en las sesiones con voz, pero sin voto. Por cada representante propietario, el Partido Político correspondiente nombrará a un suplente;
-
-Los Consejeros Ciudadanos tendrán tres suplentes que en su caso, cubrirán las ausencias definitivas de estos de acuerdo con el orden sucesivo con que hayan sido designados por el Consejo Estatal Electoral.
-
-Los Consejeros Ciudadanos elegirán por mayoría de votos, de entre ellos, al Presidente.
-
-El Consejo Distrital Electoral designará un Secretario Técnico de preferencia de entre sus miembros. El nombramiento deberá recaer preferentemente en personal profesional y con experiencia en el área.
-
-> <small>(F. DE E., P.O. 16 DE OCTUBRE DE 1995)</small>
-
-Los Consejeros Ciudadanos, propietarios y suplentes, de los Consejos Distritales Electorales no podrán durar en su cargo más de dos procesos electorales ordinarios y podrán ser removidos por causa justificada por el Consejo Estatal Electoral por el voto de cinco de sus miembros.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 89.
 
-Los Consejeros Ciudadanos de los consejos distritales serán designados por el Consejo Electoral del Estado a más tardar el último día del mes de octubre del año anterior al de la elección.
-
-En la misma fecha el Consejo Estatal Electoral invitará a los Partidos Políticos inscritos para que procedan a nombrar, dentro del plazo previsto en el Artículo 106 de este Código, a sus representantes, propietarios y suplentes, ante cada Consejo Distrital Electoral.
+Los consejeros electorales y sus suplentes de los Consejos Distritales serán designados por el Consejo General del Consejo Estatal Electoral a más tardar el último día del mes de octubre del año anterior al de la elección. En la misma fecha el Consejo General del Consejo Estatal Electoral invitará a los Partidos Políticos inscritos para que procedan a nombrar, dentro del plazo previsto en el artículo 106 de este Código a sus representantes, propietarios y suplentes, ante cada Consejo Distrital Electoral.
 
 > <small>(F. DE E., P.O. 16 DE OCTUBRE DE 1995)</small>
 
@@ -1011,27 +1145,37 @@ Concluido el proceso electoral, sesionará una vez cada seis meses de manera ord
 
 Las sesiones extraordinarias de los Consejos Distritales Electorales podrán ser convocadas por:
 
-a).- El Presidente del Consejo.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
 
-> <small>(F. DE E., P.O. 16 DE OCTUBRE DE 1995)</small>
+a).- El consejero Presidente.
 
-b).- Tres de sus miembros, dos de ellos deberán ser Consejeros Ciudadanos, o
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
 
-c).- El Presidente del Consejo Estatal Electoral.
+b).- Tres de sus miembros, debiendo ser dos de ellos consejeros electorales.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
+c).- El consejero Presidente del Consejero General del Consejo Estatal Electoral.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 92.
 
-Para que los consejos distritales electorales puedan sesionar es necesario la asistencia de la mayoría de sus integrantes entre los que deberá estar el Presidente y cuando menos dos Consejeros Ciudadanos.
+Para que los Consejos Distritales puedan sesionar es necesario la asistencia del consejero Presidente y de los dos consejeros electorales.
 
-Cuando no se reúna la mayoría o no asista el Presidente, el Consejo sesionará dentro de las 24 horas siguientes, con los Consejeros Ciudadanos y representantes que estén presentes.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
+Cuando no se reúna la mayoría o no asista el consejero Presidente, el Consejo sesionará dentro de las veinticuatro horas siguientes, con los consejeros electorales y representantes que estén presentes. En este último caso, los consejeros electorales designarán de entre ellos mismos a un consejero Presidente.
 
 Toda resolución se tomará por mayoría simple de votos.
 
 Las sesiones tendrán lugar previa notificación por escrito a los consejeros y representantes de los Partidos Políticos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 93.
 
-Son requisitos para ser consejeros ciudadanos y secretarios técnico (sic) de los consejos distritales:
+Son requisitos para ser consejero Presidente, consejeros electorales y Secretario Ejecutivo de los Consejos Distritales:
 
 I.- Ser mexicanos por nacimiento y ciudadanos quintanarroenses en pleno uso de sus derechos políticos y civiles;
 
@@ -1139,9 +1283,11 @@ IV.- Velar por el cumplimiento de los acuerdos adoptados por el consejo distrita
 
 V.- Las demás que le confiera este Código.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 97.
 
-El Secretario Técnico del Consejo Distrital Electoral tendrá las atribuciones y obligaciones siguientes:
+El Secretario Ejecutivo del Consejo Distrital Electoral tendrá las atribuciones y obligaciones siguientes:
 
 I.- Coordinar las tareas del consejo distrital electoral;
 
@@ -1271,11 +1417,13 @@ IV.- Las demás que les confiere este Código.
 
 ## TITULO TERCERO (SIC). DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 105.
 
-Los Consejeros Ciudadanos del Consejo Estatal Electoral rendirán protesta ante la Legislatura del Estado.
+El Consejero Presidente y los Consejeros Electorales del Consejo General del Consejo Estatal Electoral rendirán protesta ante la Legislatura del Estado o de su diputación Permanente.
 
-Los Consejeros Ciudadanos Distritales rendirán protesta ante el Consejo Estatal Electoral.
+El consejero Presidente y los consejeros electorales de los Consejos Distritales Electorales rendirán protesta ante el Consejo General del Consejo Estatal Electoral.
 
 > <small>(F. DE E., P.O. 16 DE OCTUBRE DE 1995)</small>
 
@@ -1331,9 +1479,11 @@ II.- Conminar a abandonar el local; y
 
 III.- Solicitar el auxilio de la fuerza pública para restablecer el orden y expulsar a quienes lo hayan alterado.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 111.
 
-Las autoridades estatales y municipales están obligadas a proporcionar a los órganos electorales y al Tribunal Estatal Electoral, a petición de los Presidentes respectivos, los informes, las certificaciones y el auxilio de la fuerza pública necesarios para el cumplimiento de sus funciones y resoluciones.
+Las autoridades estatales y municipales están obligadas a proporcionar a los órganos electorales y al Tribunal Electoral del Poder Judicial del Estado, a petición de los consejeros Presidentes y magistrado Presidente respectivos, los informes, las certificaciones y el auxilio de la fuerza pública necesarios para el cumplimiento de sus funciones y resoluciones.
 
 ###### Artículo 112.
 
@@ -2745,27 +2895,45 @@ Para efecto de las asignaciones de las Regidurías de Representación Proporcion
 
 El Consejo Distrital correspondiente, una vez aplicada la fórmula electoral y concluidas las asignaciones de las regidurías correspondientes, expedirá las constancias de asignación a quienes tenga derecho.
 
-# LIBRO CUARTO. DEL TRIBUNAL ELECTORAL DEL ESTADO
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MARZO DE 1997)</small>
+
+# LIBRO CUARTO. DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO
 
 ## TITULO PRIMERO. DE LA NATURALEZA, OBJETO Y COMPETENCIA
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 237.
 
-El Tribunal Estatal Electoral es el órgano colegiado, autónomo de carácter jurisdiccional en materia electoral. Residirá en la Capital del Estado y tendrá competencia en todo el territorio de la entidad.
+El Poder Judicial del Estado será la máxima autoridad en la materia, y ejercerá esta función jurisdiccional por conducto de un órgano especializado que se denominará Tribunal Electoral, el cual residirá en la Capital del Estado y tendrá competencia en todo el territorio de la entidad.
 
-Las resoluciones que el Tribunal Estatal Electoral dicte en las elecciones de Gobernador del Estado serán obligatorias y solo podrán ser modificadas o revocadas por el Colegio Electoral de la Legislatura que en este caso es la máxima instancia, mediante resolución fundada y motivada que sea aprobada por el voto de las dos terceras partes de sus miembros presentes, cuando de su revisión se advierta que no fueron debidamente admitidas y valoradas las pruebas ofrecidas, cuando el fallo no haya sido suficientemente motivado o cuando éste sea contrario a derecho.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 238.
 
-El Tribunal Estatal Electoral es competente para conocer de los recursos de
+El Tribunal Electoral es competente para conocer de los recursos de revisión e inconformidad previstos en este Código, según sea el caso, para resolver en única instancia y en forma definitiva e inatacable sobre:
 
-a).- Apelación
+I.- Las impugnaciones en las elecciones de diputados y Ayuntamientos;
 
-b).- inconfomidad.
+II.- Las impugnaciones que se presenten sobre la elección de Gobernador del Estado.
+
+El Tribunal realizará el cómputo final de la elección de Gobernador del Estado, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo respecto del candidato que hubiere obtenido el mayor número de votos;
+
+III.- Las impugnaciones de actos y resoluciones de la autoridad electoral estatal, distintas a las señaladas en las dos fracciones anteriores, que violen normas legales;
+
+IV.- Los conflictos o diferencias laborales entre el Tribunal y sus servidores;
+
+V.- Los conflictos o diferencias laborales entre el Consejo Estatal Electoral y sus servidores;
+
+VI.- La determinación e imposición de sanciones en la materia; y
+
+VII.- Las demás que señale la ley.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 239.
 
-El Tribunal Estatal Electoral tiene por objeto, garantizar que los actos y resoluciones de los órganos electorales se sujeten invariablemente a los principios de imparcialidad, objetividad, certeza y legalidad.
+El Tribunal Electoral tiene por objeto garantizar que los actos y resoluciones de los órganos electorales se sujeten invariablemente a los principios de imparcialidad, objetividad, certeza y legalidad.
 
 ## TITULO SEGUNDO
 
@@ -2773,39 +2941,49 @@ DE LA INTEGRACION Y FUNCIONAMIENTO.
 
 ### CAPITULO I. DE LA INTEGRACION
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 240.
 
-El Tribunal Estatal Electoral se integrará por tres magistrados propietarios y hasta tres suplentes, designados por la Legislatura del Estado a propuesta de los Partidos Políticos, de acuerdo al siguiente procedimiento:
+Para el ejercicio de sus atribuciones, el Tribunal Electoral se integrará por un magistrado electoral, para ejercer el cargo por siete años, y con el personal jurídico y administrativo necesario para su adecuado funcionamiento.
 
-a).- En la misma fecha que los Partidos Políticos realicen sus propuestas de consejeros ciudadanos para integrar el Consejo Estatal Electoral, cada Partido Político propondrá a la Legislatura a un candidato para ocupar el cargo de magistrado del Tribunal Estatal Electoral.
+La elección del magistrado electoral se sujetará al siguiente procedimiento:
 
-b).- Si algún candidato propuesto no llenare los requisitos para ser magistrado, la Comisión que dictamine al respecto le notificará al partido proponente, subsane las omisiones o haga una nueva propuesta. Si llenare los requisitos se le admitirá.
+a).- La Legislatura del Estado o en sus recesos la Diputación Permanente, aprobarán o desecharán la propuesta del magistrado electoral que presente el Tribunal Superior de Justicia, por conducto de su Presidente, dentro del improrrogable término de diez días;
 
-c).- En la misma sesión de la Legislatura o la Diputación Permanente serán insaculados quienes ocuparán los cargos de magistrados propietarios y suplentes.
+b).- Si la Legislatura o la Diputación Permanente nada resolvieren dentro del plazo anterior, se tendrá por aprobada la propuesta y el magistrado designado entrará a desempeñar sus funciones;
 
-d).- Los primeros tres insaculados serán los magistrados propietarios del Tribunal Electoral del Estado y los siguientes tendrán el carácter de suplentes, a quienes se les comunicará sus nombramientos, citándolos para que concurran a la sesión de la Legislatura o Diputación Permanente en la que rendirán la protesta de ley.
+c).- En caso de no ser aprobadas dos propuestas sucesivas, el Tribunal Superior hará una tercera que surtirá efectos desde luego como provisional y será sometido a la aprobación de la legislatura en el periodo ordinario de sesiones siguiente;
 
-e) La Legislatura del Estado o la Diputación permanente declarará integrado el Tribunal Estatal Electoral, publicándose la declaratoria en el Periódico Oficial del Gobierno del Estado.
+d).- Dentro de los primeros diez días de sesiones de la Legislatura se deberá aprobar o rechazar el nombramiento; si nada se resuelve, el magistrado electoral designado provisionalmente continuará en sus funciones con el carácter de definitivo; y
 
-En caso de que no se alcance el número necesario de candidatos insaculables para integrar el Tribunal Estatal Electoral, la Legislatura o la Diputación Permanente, hará la designación de los Magistrados faltantes para integrar el Tribunal.
+e) Si la Legislatura desecha la designación, cesará desde luego en sus funciones el magistrado electoral provisional, y el Tribunal Superior someterá nueva propuesta en los términos que se indican en este precepto.
 
-En todo caso, se observará lo dispuesto en el Artículo 247 del presente Código.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 241.
 
-El Tribunal Electoral del Estado será renovado cada dos proceso electorales ordinarios.
+El magistrado electoral durará en su cargo siete años improrrogables. La renuncia, ausencias y licencias del magistrado electoral serán tramitadas, cubiertas y otorgadas en lo conducente, conforme al procedimiento previsto en el artículo anterior.
+
+La administración, vigilancia y disciplina en el Tribunal Electoral corresponderá, en los términos que señalen las leyes a una comisión de magistrados del Tribunal Superior de Justicia.
+
+El personal del Tribunal regirá sus relaciones de trabajo conforme a las disposiciones aplicables al Poder Judicial del Estado y a las reglas especiales y excepciones que señale la ley.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 242.
 
-El Tribunal Estatal Electoral funcionará en cada proceso electoral ordinario o extraordinarios de su ejercicio, iniciando sus funciones en la misma fecha de la instalación del Consejo Estatal Electoral y clausurando al resolver el último recurso presentado en el período electoral correspondiente.
+El Tribunal Electoral funcionará en cada proceso electoral ordinario o extraordinario de su ejercicio, iniciando sus funciones en la misma fecha de instalación del Consejo Estatal Electoral y clausurando al resolver el último recurso presentado en el proceso electoral correspondiente.
 
 ###### Artículo 243.
 
-Para cada proceso electoral ordinario o extraordinario, se elegirá a un Presidente, el que será elegido en la sesión de instalación del propio Tribunal.
+(DEROGADO, P.O. 14 DE MARZO DE 1997)
 
 ###### Artículo 244.
 
 Las sesiones del Tribunal serán públicas y sus resoluciones se tomarán por mayoría de votos y en caso de empate el Presidente tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 245.
 
@@ -2827,11 +3005,17 @@ VIII.- Determinar la fecha y hora de sus sesiones; y
 
 IX.- Aplicar las sanciones pecuniarias y administrativas previstas en este Código;
 
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 1997)</small>
+
+X.- Proponer su presupuesto al Presidente del Tribunal Superior de Justicia para su inclusión en el proyecto de Presupuesto del Poder Judicial del Estado;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 1997)</small>
+
+XI.- Expedir su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento.
+
 ###### Artículo 246.
 
-En caso de ausencias temporales de más de tres sesiones, definitivas o excusa de algún magistrado, entrará en funciones el magistrado suplente designado en primer término, siendo convocado para ello por el Presidente.
-
-De no presentarse el magistrado suplente convocado a la primera sesión posterior a la convocatoria, se llamará al que le siga en orden de insaculación.
+(DEROGADO, P.O. 14 DE MARZO DE 1997)
 
 ### CAPITULO II. DE LOS MAGISTRADOS
 
@@ -2881,17 +3065,23 @@ VI.- Formular voto particular razonado en caso de disentir de un proyecto de res
 
 VII.- Solicitar al secretario de acuerdos asentar en los expedientes en que fueren ponentes, razón o cómputo necesarios, así como las certificaciones y compulsas que se requieran para el mejor trámite de los expedientes.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 249.
 
-Durante los periodos electorales en los que ejerzan sus funciones, los magistrados, funcionarios y demás personal del Tribunal Estatal Electoral recibirán una retribución compensatoria por sus servicios, la que será prevista en el presupuesto de egresos del Estado.
+La retribución que perciban el magistrado electoral durante los períodos electorales en los que ejerza su función, será igual a la prevista para los Magistrados del Tribunal Superior de Justicia del Estado.
+
+Los funcionarios y demás personal del Tribunal Electoral recibirán una retribución por sus servicios, la que será prevista en el presupuestos (sic) de egresos asignado al Tribunal Electoral.
 
 ## TITULO TERCERO. DEL FUNCIONAMIENTO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 250.
 
-El Tribunal Estatal Electoral publicará en el Periódico Oficial del Gobierno del Estado el inicio y clausura de sus actividades.
+El Tribunal Electoral publicará en el Periódico Oficial del Gobierno del Estado el inicio y clausura de sus actividades.
 
 ###### Artículo 251.
 
@@ -2921,7 +3111,9 @@ V.- Vigilar que se cumplan las determinaciones del Pleno;
 
 VI.- Despachar la correspondencia del Tribunal;
 
-VII.- Elaborar y enviar al Ejecutivo del Estado el presupuesto requerido para el funcionamiento del Tribunal.
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 1997)</small>
+
+VII.- Elaborar y proponer el presupuesto del Tribunal Electoral al Presidente del Tribunal Superior de Justicia para su inclusión en el proyecto de Presupuesto del Poder Judicial del Estado;
 
 VIII.- Vigilar que el Tribunal cuente con los recursos humanos, financieros y materiales necesarios para su buen funcionamiento;
 
@@ -2979,9 +3171,11 @@ XIV.- Supervisar las notificaciones por estrados y que se hagan con la anticipac
 
 XV.- Las demás que le encomienden el Tribunal o su Presidente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 255.
 
-El Secretario de Acuerdos del Tribunal Estatal Electoral deberá satisfacer los requisitos siguientes:
+El Secretario de Acuerdos del Tribunal Electoral deberá satisfacer los siguientes requisitos:
 
 I.- Ser mexicano por nacimiento y ciudadano quintanarroense en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -2999,9 +3193,11 @@ El Secretario de Acuerdos tendrá la obligación de guardar absoluta reserva sob
 
 ### CAPITULO IV. DEL PERSONAL AUXILIAR
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 256.
 
-Para ser Actuario del Tribunal Estatal Electoral se deberá reunir los siguientes requisitos:
+Para ser Actuario del Tribunal Electoral se deberá reunir los siguientes requisitos:
 
 I.- Ser mexicano por nacimiento y ciudadano quintanarroense en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -3117,9 +3313,13 @@ I.- Durante la etapa de preparación de la jornada electoral:
 
 a).- Recurso de revisión, que se interpondrá por los Partidos Políticos o candidatos ante el Consejo Estatal Electoral para impugnar los actos o resoluciones de los Consejos Distritales;
 
-b).- Recurso de apelación, que se podrá interponer por los Partidos Políticos ante el Tribunal Estatal Electoral, para impugnar las resoluciones recaídas a los recursos de revisión y en contra de los actos y resoluciones del Consejo Estatal Electoral.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
 
-II.- Después de la jornada electoral: el recurso de inconformidad que podrán interponer los Partidos Políticos ante el Tribunal Estatal Electoral, para impugnar los cómputos electorales de una elección:
+b).- Recurso de apelación, que se podrá interponer por los partidos políticos ante el Tribunal Electoral, para impugnar las resoluciones recaídas a los recursos de revisión y en contra de los actos y resoluciones del Consejo Estatal Electoral.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
+
+II.- Después de la jornada electoral: el recurso de inconformidad que podrán interponer los partidos políticos ante el Tribunal Electoral, para impugnar los cómputos de votos de una elección:
 
 a) Por nulidad de votación recibida en una o varias casillas que sean determinantes en los resultados consignados en las actas de cómputo municipal de la elección de Ayuntamientos;
 
@@ -3261,9 +3461,11 @@ Las autoridades deberán proporcionar oportunamente los informes o documentos a 
 
 INCONFORMIDAD.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 277.
 
-Una vez recibido el recurso de apelación o de inconformidad en el Tribunal Estatal Electoral, será turnado al magistrado electoral en turno, quien tendrá la obligación de revisar que reúna todos los requisitos de procedibilidad señalados en este Título y, particularmente, si el promovente cumplió con los requisitos indicados en el Artículo 273.
+Una vez recibido el recurso de apelación o de inconformidad en el Tribunal Electoral, será turnado al magistrado electoral en turno, quien tendrá la obligación de revisar que reúna todos los requisitos de procedibilidad señalados en este Título y, particularmente, si el promovente cumplió con los requisitos indicados en el Artículo 273.
 
 ###### Artículo 278.
 
@@ -3321,9 +3523,11 @@ En casos extraordinarios, el Presidente del Tribunal podrá ordenar que se reali
 
 Las diligencias que deban practicarse fuera del Tribunal podrán ser realizadas por los Secretarios o el Actuario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 286.
 
-Para hacer cumplir sus determinaciones, mantener el buen orden y exigir que se guarde el respeto y la consideración debida, el Tribunal Estatal Electoral podrá hacer uso discrecionalmente de los medios de apremio y correcciones disciplinarias siguientes:
+Para hacer cumplir sus determinaciones, mantener el buen orden y exigir que se guarde el respeto y la consideración debidas, el Tribunal Electoral podrá hacer uso discrecionalmente de los medios de apremio y correcciones disciplinarias siguientes:
 
 I.- Apercibimiento;
 
@@ -3345,7 +3549,11 @@ Son competentes para resolver los recursos:
 
 I.- El Consejo Estatal Electoral, respecto de los recursos de revisión interpuestos contra actos o resoluciones de los consejos distritales; y
 
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 1997)</small>
+
 II.- El Tribunal Estatal Electoral, respecto de los recursos de apelación interpuestos durante la etapa preparatoria de la elección y de los posteriores a la jornada electoral.
+
+Todo los recursos de apelación, interpuestos dentro de los cinco días previos al de la elección, serán resueltos por el Tribunal Electoral al resolver los recursos de inconformidad con los cuales guarden relación.
 
 Todos los recursos de apelación, interpuestos dentro de los cinco días previos al de la elección, serán resueltos por el Tribunal Estatal Electoral al resolver los recursos de inconformidad con los cuales guarde relación.
 
@@ -3415,15 +3623,19 @@ II.- Al órgano del Consejo cuyo acto o resolución fue impugnado, se les hará 
 
 III.- A los terceros interesados, por correo certificado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 296.
 
-Las resoluciones del Tribunal Estatal Electoral recaídas a los recursos de apelación, serán notificadas a los consejos correspondientes, así como a quien haya interpuesto el recurso y en su caso a los terceros interesados, por correo certificado siempre que no radique en el lugar de ubicación del organismo, por telegrama o personalmente, a más tardar al día siguiente de que se pronuncien.
+Las resoluciones del Tribunal Electoral recaídas a los recursos de apelación, serán notificadas a los Consejos correspondientes, así como a quien haya interpuesto el recurso y en su caso a los terceros interesados, por correo certificado siempre que no radique en el lugar de ubicación del órgano especializado, por telegrama o personalmente, a más tardar el día siguiente al en que se pronuncien.
 
 A los órganos electorales cuyo acto o resolución fue impugnado, junto con la notificación le será enviada copia de la resolución.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 297.
 
-Las resoluciones del Tribunal Estatal Electoral recaídas a los recursos de inconformidad serán notificadas:
+Las resoluciones del Tribunal Electoral recaídas a los recursos de inconformidad, serán notificadas:
 
 I.- Al Partido Político que interpuso el recurso y a los terceros interesados mediante cédula colocada en los estrados del Tribunal a más tardar al día siguiente de que se dicte la resolución; la cédula se acompañará de copia simple de esta última;
 
@@ -3515,7 +3727,9 @@ VI.- Cuando de las constancias que integren el expediente se desprenda que el im
 
 Podrán acumularse los expedientes de aquellos recursos de revisión en que se impugne simultáneamente por dos o más Partidos Políticos el mismo acto o resolución.
 
-El Tribunal Estatal Electoral podrá acumular los expedientes de recursos de inconformidad que a su juicio lo ameriten.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
+El Tribunal Electoral podrá acumular los expedientes de recursos de inconformidad que a su juicio lo ameriten.
 
 Al promoverse el incidente de acumulación el actor señalará la relación que guarde el recurso con otras impugnaciones y así se tratare de aquellas que se promovieron cinco días antes del de la elección.
 
@@ -3551,9 +3765,11 @@ Serán documentales privadas todas las demás actas o documentos que aporten las
 
 Se entiende por prueba presuncional, además de las que pueda deducir el juzgador de los hechos comprobados, las declaraciones que consten en acta levantada ante el fedatario público que las haya recibido directamente de los declarantes siempre y cuando estos últimos estén debidamente identificados y asienten la razón de su dicho.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 308.
 
-Los medios de prueba aportados y admitidos serán valorados por los órganos electorales competentes o por el Tribunal Estatal Electoral, atendiendo a las reglas de la lógica, de la apreciación objetiva y de la experiencia, tomando en cuenta las reglas especiales señaladas en este Artículo.
+Los medios de prueba aportados y admitidos serán valorados por los órganos electorales competentes o por el Tribunal Electoral, atendiendo a las reglas de la lógica, de la apreciación objetiva y de la experiencia, tomando en cuenta las reglas especiales señaladas en este artículo.
 
 Las documentales públicas tendrán valor probatorio pleno, salvo prueba en contrario, respecto de su autenticidad o de la veracidad de los hechos a que se refieran.
 
@@ -3573,21 +3789,27 @@ Ninguna prueba aportada fuera de estos plazos será tomada en cuenta al resolver
 
 Los recursos de revisión deberán ser resueltos en sesiones públicas por mayoría simple de los miembros presentes del Consejo competente, en la primera sesión que celebren después de su presentación.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 311.
 
-Los recursos de apelación serán resueltos por mayoría simple de los integrantes del Tribunal Estatal Electoral dentro de los seis días siguientes a aquel en que se admitan
+Los recursos de apelación serán resueltos por el Tribunal Electoral, dentro de los seis días siguientes a aquél en que se admitan.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 312.
 
-Los recursos de inconformidad serán resueltos por mayoría simple de los integrantes del Tribunal Estatal Electoral, en el orden en que sean listados para cada sesión, en los plazos siguientes:
+Los recursos de inconformidad serán resueltos por el Tribunal Electoral, en el orden en que sean listados para cada sesión, en los plazos siguientes:
 
 I.- Los que versen sobre impugnación en la elección de Gobernador, hasta el día anterior al primer día hábil de la tercera semana siguiente a la de la elección; y,
 
 II.- Los que versen sobre impugnación de la elección de diputados y regidores hasta el primer día hábil de la cuarta semana siguiente a la de la elección.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 313.
 
-Todos los recursos de revisión y apelación interpuestos dentro de los cinco días anteriores a la elección, serán remitidos al Tribunal Estatal Electoral, para que sean resueltos junto con los recursos de inconformidad con los que guarden relación. El recurrente deberá señalar la relación que guarde con el recurso de inconformidad.
+Todos los recursos de revisión y apelación interpuestos dentro de los cinco días anteriores a la elección, serán remitidos al Tribunal Electoral, para que sean resueltos junto con los recursos de inconformidad con los que guarden relación. El recurrente deberá señalar la relación que guarde con el recurso de inconformidad.
 
 Cuando los recursos a que se refiere el párrafo anterior no guarden relación con uno de inconformidad serán archivados como asuntos definitivamente concluidos.
 
@@ -3615,9 +3837,11 @@ Las resoluciones que recaigan a los recursos de revisión y apelación tendrán 
 
 Las resoluciones que recaigan a los recursos de apelación e inconformidad, serán definitivas e inatacables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 316.
 
-Las resoluciones de fondo del Tribunal Estatal Electoral que recaigan a los recursos de inconformidad podrán tener los siguientes efectos:
+Las resoluciones de fondo del Tribunal Electoral que recaigan a los recursos de inconformidad, podrán tener los siguientes efectos:
 
 I.- Confirmar el acto impugnado;
 
@@ -3643,9 +3867,11 @@ Declarada la nulidad de las actas de cómputo estatal para la asignación de dip
 
 ## TITULO TERCERO. DE LAS FALTAS ADMINISTRATIVAS Y DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 318.
 
-Los órganos electorales respectivos y el Tribunal Estatal Electoral, conocerán de las infracciones, respectivamente e impondrán las sanciones respectivas, en los casos en que las autoridades no proporcionen en tiempo y forma, la información que les sea solicitada.
+Los órganos electorales respectivos y el Tribunal Electoral, conocerán de las infracciones e impondrán las sanciones que correspondan, en los casos en que las autoridades no proporcionen en tiempo y forma, la información que les sea solicitada.
 
 Igualmente el Consejo Estatal Electoral conocerá de las infracciones y violaciones que a las disposiciones de este Código cometan los funcionarios electorales, procediendo a su sanción, la que podrá ser amonestación, suspensión, destitución del cargo o multa de hasta cien días de salario mínimo vigente en la entidad.
 
@@ -3723,9 +3949,11 @@ El Consejo Estatal Electoral suspenderá hasta por una elección estatal la insc
 
 Se impondrá a los medios de comunicación, por violaciones a los (sic) dispuesto en éste Código, una multa de hasta cinco mil salarios mínimos vigentes en la entidad.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 326.
 
-Cuando al resolver un asunto el Consejo Estatal Electoral o el Tribunal Estatal Electoral adviertan que el acto o la omisión de los funcionarios electorales o de partidos, fedatarios o candidatos configure un delito electoral dejará expedita la acción penal para que fuere ejercitada por la parte pasiva o afectado; si a juicio del pleno la infracción fuere grave y notoria, denunciará los hechos ante la autoridad competente sin perjuicio de las demás sanciones que haya impuesto en su fallo.
+Cuando al resolver un asunto el Consejo Estatal Electoral o el Tribunal Estatal Electoral adviertan que el acto o la omisión de los funcionarios electorales o de partidos, fedatarios o candidatos configure un delito electoral dejará expedita la acción penal para que fuere excitada por la parte pasiva o afectada; si a su juicio la infracción fuere grave y notoria, denunciará los hechos ante la autoridad competente sin perjuicio de las demás sanciones que haya impuesto en su fallo.
 
 ## TRANSITORIOS
 
@@ -3762,3 +3990,11 @@ ESTADO DE QUINTANA ROO.
 ING. RAFAEL LARA Y LARA.
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITOIROS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 14 DE MARZO DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El financiamiento público previsto en el artículo 42 del Código de Instituciones Política y Procesos Electorales del Estado de Quintana Roo que se reforma mediante el presente Decreto se otorgará a los partidos políticos a partir del 10 de octubre de 1998. En tanto este nuevo esquema es aplicable, los partidos políticos seguirán disfrutando del financiamiento público aprobado con anterioridad a las presentes reformas.
