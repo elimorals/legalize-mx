@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1960-02-20"
+last_updated: "1960-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 1960
-
-(REPUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 1960)
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 1960.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -373,11 +371,13 @@ Los Diputados que no concurran a una sesión sin causa justificada, no tendrán 
 
 ### CAPITULO II. De la instalación y labores del Congreso
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 1960)</small>
 
 ###### Art. 40.
 
-El Congreso se renovará en su totalidad cada tres años y se reunirá para celebrar sus sesiones en la forma y términos que señala esta Constitución.
+Los Diputados al Congreso del Estado, que se elegirán el primer domingo de diciembre de 1960, durarán dos años en su Ejercicio Constitucional.
+
+En lo sucesivo el Congreso de Estado se renovará en su totalidad, cada tres años.
 
 ###### Art. 41.
 
@@ -1784,5 +1784,9 @@ P.O. 30 DE ENERO DE 1957.
 UNICO.- Este Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 20 DE FEBRERO DE 1960. (REPUBLICADO, P.O. 12 DE MARZO DE 1960)
+
+UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE ABRIL DE 1960.
 
 UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
