@@ -4,7 +4,7 @@ identifier: "LFRSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1982-12-31"
-last_updated: "1995-12-12"
+last_updated: "1996-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFRSP"
 
 LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de diciembre de 1982.
 
@@ -484,9 +484,13 @@ XXIV.- La (sic) demás que le impongan las leyes y reglamentos.
 
 Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Secretaría de la Contraloría General, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación a la Secretaría de la Contraloría General, el subalterno podrá practicarla directamente informando a su superior acerca de este acto.
 
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 48.
 
-Para los efectos de esta Ley se entenderá por Secretaría a la Secretaría de la Contraloría General de la Federación.
+Para los efectos de esta ley se entenderá por Secretaría a la Secretaría de Contraloría y Desarrollo Administrativo.
+
+> <small>N. DE E. DE ACUERDO A UNA INVESTIGACION MINUCIOSA REALIZADA, EL PRESENTE PARRAFO AUN SIGUE SIENDO VIGENTE, A PESAR DE QUE LA REFORMA DEL 24 DE DICIEMBRE DE 1996, NO LO CONTEMPLA. EN LA EXPOSICION DE MOTIVOS SI LO PREVE.</small>
 
 Para los mismos efectos, se entenderá por superior jerárquico al titular de la dependencia y, en el caso de las entidades, al coordinador del sector correspondiente, el cual aplicará las sanciones cuya imposición se le atribuya a través de la contraloría interna de su dependencia.
 
@@ -598,19 +602,19 @@ IV.- La Secretaría promoverá los procedimientos a que hacen referencia las fra
 
 V.- La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público, será aplicable por resolución que dicte la autoridad competente, y
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
-VI.- Las sanciones económicas serán aplicadas por el superior jerárquico cuando el monto del lucro obtenido o del daño o perjuicio causado, no exceda de cien veces el salario mínimo mensual vigente en el Distrito Federal, y por la Secretaría cuando sean superiores a dicho monto.
+VI.- Las sanciones económicas serán aplicadas por la contraloría interna de la dependencia o entidad.
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 57.
 
-Todo servidor público deberá denunciar por escrito a la contraloría interna de su dependencia los hechos que, a su juicio, sean causa de responsabilidad administrativa imputables a servidores públicos sujetos a su dirección.
+Todo servidor público deberá denunciar por escrito a la contraloría interna de su dependencia o entidad los hechos que, a su juicio, sean causa de responsabilidad administrativa imputables a servidores públicos sujetos a su dirección.
 
-La contraloría interna de la dependencia determinará si existe o no responsabilidad administrativa por el incumplimiento de las obligaciones de los servidores públicos, y aplicará, por acuerdo del superior jerárquico, las sanciones disciplinarias correspondientes.
+La contraloría interna de la dependencia o entidad determinará si existe o no responsabilidad administrativa por el incumplimiento de las obligaciones de los servidores públicos, y aplicará las sanciones disciplinarias correspondientes.
 
-En lo que respecta a las entidades, la denuncia a que se refiere el primer párrafo de este artículo será recibida por el coordinador sectorial correspondiente.
-
-El superior jerárquico enviará a la Secretaría copia de las denuncias cuando se trate de infracciones graves o cuando, en su concepto y habida cuenta de la naturaleza de los hechos denunciados, la Secretaría deba conocer el caso o participar en las investigaciones.
+El superior jerárquico de la dependencia o entidad respectiva enviará a la Secretaría copia de las denuncias cuando se trate de infracciones graves o cuando, en su concepto, y habida cuenta de la naturaleza de los hechos denunciados, la Secretaría deba, directamente, conocer el caso o participar en las investigaciones.
 
 ###### ARTICULO 58.
 
@@ -620,11 +624,11 @@ La Secretaría aplicará las sanciones correspondientes a los contralores intern
 
 Incurrirán en responsabilidad administrativa los servidores públicos de las contralorías internas que se abstengan injustificadamente de sancionar a los infractores o que, al hacerlo, no se ajusten a lo previsto por esta Ley. La Secretaría informará de ello al Titular de la dependencia y aplicará las sanciones correspondientes.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 60.
 
-La contraloría interna de cada dependencia será competente para imponer, por acuerdo del superior jerárquico, sanciones disciplinarias, excepto las económicas cuyo monto sea superior a doscientas veces el salario mínimo mensual vigente en el Distrito Federal, las que están reservadas exclusivamente a la Secretaría, que comunicará los resultados del procedimiento al titular de la dependencia o entidad. En estos casos, la contraloría interna, previo informe al superior jerárquico, turnará el asunto a la Secretaría.
+La contraloría interna de cada dependencia o entidad será competente para imponer sanciones disciplinarias.
 
 ###### ARTICULO 61.
 
@@ -993,3 +997,19 @@ D.O.F. 12 DE DICIEMBRE DE 1995.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- A los miembros del Consejo de la Judicatura del Distrito Federal en funciones a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones contenidas en el Artículo Primero del mismo, salvo la duración en el cargo, la cual se sujetará a lo previsto en el Artículo Séptimo transitorio del Decreto por el que se reforman diversos artículos de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 31 de diciembre de 1994.
+
+D.O.F. 24 DE DICIEMBRE DE 1996.
+
+PRIMERO.- El presente decreto entrará en vigor el día 1o. de enero de 1997.
+
+SEGUNDO.- Se derogan las disposiciones legales y administrativas que se opongan al presente decreto.
+
+TERCERO.- En tanto el Secretario de Contraloría y Desarrollo Administrativo designa a los titulares de los órganos de control interno, así como a los de sus áreas de auditoría, quejas y responsabilidades, los actuales titulares continuarán en su cargo y ejercerán sus atribuciones en los términos de este decreto.
+
+CUARTO.- Los órganos de control interno de las entidades paraestatales resolverán los procedimientos de responsabilidades administrativas y los recursos de revocación que, a la entrada en vigor del presente decreto, se encuentren en trámite en las Dependencias Coordinadoras de Sector, relativos a asuntos de las citadas entidades, así como los que se inicien por hechos consumados con anterioridad a la entrada en vigor antes mencionada. Dichos procedimientos y recursos continuarán resolviéndose conforme a las disposiciones legales que los rigen.
+
+QUINTO.- La Secretaría de Hacienda y Crédito Público realizará los actos que correspondan a efecto de que, para el ejercicio fiscal de 1997, los recursos financieros destinados al pago de los sueldos y prestaciones de los servidores públicos que por virtud del presente decreto pasarán a depender de la Secretaría de Contraloría y Desarrollo Administrativo, se transfieran a esta última.
+
+Las dependencias y entidades continuarán proporcionando los espacios físicos, los recursos humanos y materiales que requieran los referidos órganos de control interno.
+
+La relación laboral del resto del personal de dichos órganos de control interno no se modifica por la entrada en vigor del presente decreto.
