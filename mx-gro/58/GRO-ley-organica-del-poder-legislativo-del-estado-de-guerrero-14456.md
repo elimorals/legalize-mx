@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "1999-06-11"
+last_updated: "2002-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 286
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -93,7 +93,7 @@ EN EL TITULO SEPTIMO, CAPITULO I, DENOMINADO "DE LAS COMPARECENCIAS", integrado 
 
 EN EL CAPITULO II, DENOMINADO "DE LA RATIFICACION DE NOMBRAMIENTOS", Integrado por los artículos 159, 160 y 161, se establece: la facultad del Congreso del Estado para ratificar los nombramientos de los servidores públicos que someta a la consideración de la Representación Popular el Titular del Poder Ejecutivo Estatal, así como el procedimiento que deberá observarse para la ratificación y la facultad de la Comisión Permanente, a efecto de que durante los períodos de receso del Congreso, ratifique los mismos y la obligación de someterlos a la consideración del Pleno en el siguiente período ordinario de sesiones, para su aprobación definitiva.
 
-EN EL TITULO OCTAVO, DENOMINADO "DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS Y DE LA SUSPENSION DE AYUNTAMIENTOS Y DE SUS INTEGRANTES", CAPITULO I, "DE LAS (sic) SUBSTANCIACION DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS", integrado por los artículos 159 al 163, se establece: el procedimiento para la substanciación de las denuncias o querellas que se presenten en contra de los servidores públicos a que se refieren los artículos 112 y 113 de la Constitución Política del Estado; la obligación de la Oficialía Mayor a efecto de que recibida la denuncia y ratificada dentro de los tres días hábiles siguientes, mediante oficio que se incluirá en el orden del día la haga del conocimiento del Pleno, facultando al Presidente del Congreso para que la turne a la Comisión de Examen Previo para el efecto de analizar la documentación respectiva con el objeto de establecer si procede o no la incoación del procedimiento correspondiente; se establece la forma para la elaboración de los dictámenes de conclusiones emitidos por la Comisión Instructora en las denuncias que se presenten, los cuales deberán ser discutidos en el seno de dicha Comisión, la que deberá tomar los acuerdos correspondientes por mayoría de votos, para ser sometidos con posterioridad a la consideración del Pleno del Congreso para su discusión y aprobación, en su caso.
+EN EL TITULO OCTAVO, DENOMINADO "DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS Y DE LA SUSPENSION DE AYUNTAMIENTOS Y DE SUS INTEGRANTES", CAPITULO I, "DE LAS (SIC) SUBSTANCIACION DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS", integrado por los artículos 159 al 163, se establece: el procedimiento para la substanciación de las denuncias o querellas que se presenten en contra de los servidores públicos a que se refieren los artículos 112 y 113 de la Constitución Política del Estado; la obligación de la Oficialía Mayor a efecto de que recibida la denuncia y ratificada dentro de los tres días hábiles siguientes, mediante oficio que se incluirá en el orden del día la haga del conocimiento del Pleno, facultando al Presidente del Congreso para que la turne a la Comisión de Examen Previo para el efecto de analizar la documentación respectiva con el objeto de establecer si procede o no la incoación del procedimiento correspondiente; se establece la forma para la elaboración de los dictámenes de conclusiones emitidos por la Comisión Instructora en las denuncias que se presenten, los cuales deberán ser discutidos en el seno de dicha Comisión, la que deberá tomar los acuerdos correspondientes por mayoría de votos, para ser sometidos con posterioridad a la consideración del Pleno del Congreso para su discusión y aprobación, en su caso.
 
 EN EL CAPITULO II, DENOMINADO "DE LA SUBSTANCIACION DEL TRAMITE PARA SUSPENDER AYUNTAMIENTOS, DECLARAR SU DESAPARICION Y SUSPENDER O REVOCAR EL MANDATO DE ALGUNO DE SUS MIEMBROS", integrado por el artículo 167, se hace referencia al procedimiento que deberá observarse para tal efecto, el cual se encuentra contemplado específicamente en el Capítulo XI, del Título Segundo, de la Ley Orgánica del Municipio Libre en vigor, integrado por los artículos 94, 95 y 95 Bis.
 
@@ -149,7 +149,7 @@ El ejercicio del Poder Legislativo se deposita en una Cámara de Diputados denom
 
 El Congreso del Estado tiene plena autonomía para el ejercicio de sus facultades y atribuciones, así como para el ejercicio de su presupuesto de egresos y para organizarse administrativamente con apego a lo previsto en la Constitución Política del Estado y a lo que disponga esta Ley. Cada año formulará y aprobará su presupuesto de egresos.
 
-El Congreso ministrará mensualmente a la Contaduría Mayor de Hacienda los recursos aprobados en su presupuesto, para su funcionamiento.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 4.
 
@@ -207,9 +207,15 @@ XVI. Dictar las Leyes necesarias en el ramo de educación pública que no sean d
 
 XVII. Excitar a los Poderes de la Unión a que protejan al Estado en los casos a que hace referencia el artículo 119 de la Constitución General de la República;
 
-XVIII. Examinar, discutir y aprobar, en su caso, anualmente, a iniciativa del Jefe del Ejecutivo, el Presupuesto de Egresos del Estado y expedir la Ley relativa. No podrá dejar de señalar el Congreso la retribución que corresponda a un empleo que esté establecido por la Ley, y en caso de que por cualquier circunstancia se omita fijar dicha remuneración, se tendrá por señalada la que hubiese sido fijada en el presupuesto del año anterior o al de la Ley que estableció el empleo;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
-XIX. Revisar en el segundo período ordinario de sesiones las erogaciones e inversiones de los ingresos públicos estatales del año fiscal anterior, otorgando constancia definitiva de aprobación en su caso o exigiendo las responsabilidades correspondientes;
+XVIII. Examinar, discutir y aprobar, a más tardar en el mes de diciembre de cada año, el Presupuesto de Egresos del Estado y expedir su Ley relativa. El Congreso no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la Ley. En caso de que por cualquier circunstancia se omita fijar dicha remuneración, se tendrá por señalada la que hubiese sido fijada en el presupuesto del año anterior o al de la Ley que estableció el empleo.
+
+En el caso de que el Presupuesto de Egresos propuesto por el Ejecutivo no fuese aprobado, a más tardar el día 31 de diciembre de cada año, seguirá vigente el aprobado el año inmediato anterior;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+XIX. Revisar los ingresos y egresos públicos estatales del cuatrimestre correspondiente, otorgando constancia definitiva de aprobación, en su caso, o exigiendo las responsabilidades a que haya lugar;
 
 XX. Convocar a elecciones extraordinarias para Diputados cuando no se hubieren realizado en el período respectivo o hubiesen sido declaradas nulas las efectuadas, y proveer lo conducente;
 
@@ -249,7 +255,9 @@ XXXIII. Ejercer ante la Suprema Corte de Justicia de la Nación, la representaci
 
 XXXIV. Autorizar al Ejecutivo para negociar empréstitos sobre el crédito del Estado, aprobarlos y decretar la manera de pagar la deuda;
 
-XXXV. Nombrar y remover al Oficial Mayor del Congreso, Contador Mayor de Hacienda, a los Directores de Administración y Comunicación Social del Congreso y al Director del Instituto de Estudios Parlamentarios "Eduardo Neri";
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+XXXV. Nombrar y remover al Oficial Mayor del Congreso, al Auditor General del Estado, a los Directores de Administración y Comunicación Social del H. Congreso del Estado y al Director del Instituto de Estudios Parlamentarios "Eduardo Neri", en los términos que marque la Ley respectiva;
 
 XXXVI. Cambiar la residencia de los Poderes del Estado;
 
@@ -273,9 +281,13 @@ XLV. Autorizar, en su caso, lo previsto en el artículo 28 párrafo sexto de la 
 
 XLVI. Expedir la Ley de Planeación del Estado;
 
-XLVII. Expedir Leyes en materia de fomento al turismo y de regulación de sistemas de tiempo compartido y multipropiedad; y
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
-XLVIII. Expedir las Leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores, así como cualesquiera otras concedidas por la Constitución Política Local a los Poderes del Estado y a los Municipios.
+XLVII. Coordinar y evaluar, sin perjuicio de su autonomía financiera, técnica y de gestión el desempeño de las funciones de la Auditoria General del Estado, en los términos que disponga la Ley;
+
+XLVIII. Expedir Leyes en materia de fomento al turismo y de regulación de sistemas de tiempo compartido y multipropiedad; y
+
+XLIX. Expedir las Leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores, así como cualesquiera otras concedidas por la Constitución Política Local a los Poderes del Estado y a los Municipios.
 
 ## TITULO SEGUNDO. De la Residencia y del Recinto del Congreso del Estado
 
@@ -349,7 +361,9 @@ IV. Citar, por conducto de su Presidente, a los Diputados electos, tres días an
 
 En caso de que a la junta preparatoria no concurra la mayoría de los Diputados electos, se citará para el día siguiente, en términos de lo dispuesto por el artículo 40 de la Constitución Política del Estado;
 
-V. Recibir de la Comisión de Gobierno, de la Oficialía Mayor, de la Dirección de Administración y de la Contaduría Mayor de Hacienda los archivos, bienes muebles e inmuebles que formen el patrimonio y la memoria histórica del Congreso;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+V. Recibir de la Comisión de Gobierno, de la Oficialía Mayor, de la Dirección de Administración y de la Auditoria General del Estado los archivos, bienes muebles e inmuebles que formen el patrimonio y la memoria histórica del H. Congreso del Estado;
 
 VI. Entregar, mediante el acta correspondiente, a la Mesa Directiva electa la totalidad de documentos a que se refiere la fracción I de este artículo, así como, el archivo, los bienes muebles e inmuebles, que formen el patrimonio del Congreso, así como un informe de los trabajos de la Legislatura saliente, y
 
@@ -511,15 +525,15 @@ III. Levantar acta de toda sesión a que se hubiere citado y no se lleve a cabo 
 
 IV. Distribuir, con el auxilio del personal administrativo, el orden del día entre los Diputados y leer ante el Pleno los documentos listados en el mismo, en la secuencia siguiente:
 
-a) Lista de asistencia y declaración de quórum.
+a) Lista de asistencia y declaración de quórum;
 
-b) Acta de la sesión anterior para su discusión y aprobación, en su caso.
+b) Acta de la sesión anterior para su discusión y aprobación, en su caso;
 
-c) Comunicados provenientes del Gobierno Federal, del Poder Ejecutivo, del Poder Judicial, de los Ayuntamientos de la Entidad y de los Poderes de otros Estados.
+c) Comunicados provenientes del Gobierno Federal, del Poder Ejecutivo, del Poder Judicial, de los Ayuntamientos de la Entidad y de los Poderes de otros Estados;
 
-d) Correspondencia de particulares, que sea de interés general para la población.
+d) Correspondencia de particulares, que sea de interés general para la población;
 
-e) Iniciativas de Ley del Ejecutivo, de los Diputados, del Tribunal Superior de Justicia y de los Ayuntamientos o Consejos Municipales, en su caso.
+e) Iniciativas de Ley del Ejecutivo, de los Diputados, del Tribunal Superior de Justicia y de los Ayuntamientos o Consejos Municipales, en su caso;
 
 f) Los proyectos de Ley, y
 
@@ -547,7 +561,7 @@ XIV. Asentar en los expedientes los trámites que se dieren a las proposiciones 
 
 XV. Autorizar la apertura y cierre de libros foliados y verificar que la Oficialía Mayor los administre;
 
-XVI. Expedir, a quien acredite interés jurídico, certificación de los hechos que estén consignados en documentos o expedientes que obren en la Secretaría o en los archivos del Congreso.
+XVI. Expedir, a quien acredite interés jurídico, certificación de los hechos que estén consignados en documentos o expedientes que obren en la Secretaría o en los archivos del Congreso;
 
 Para extender copias certificadas de documentos que tengan el carácter de reservado, será necesario que lo acuerde el Pleno del Congreso, y
 
@@ -687,9 +701,17 @@ XXII. De Asuntos de la Juventud;
 
 XXIII. De Recursos Naturales y Desarrollo Sustentable;
 
-XXIV. De Examen Previo, y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
-XXV. Instructora.
+XXIV. De Examen Previo;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+XXV. Instructora; y
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+XXVI. De Vigilancia y Evaluación de la Auditoria General del Estado.
 
 Las Comisiones anteriormente enunciadas, podrán ser incrementadas a juicio del Congreso, y tendrán a su cargo el trámite y la resolución de los asuntos relacionados con su competencia, así como las que expresamente les delegue el Pleno.
 
@@ -701,7 +723,7 @@ I. De Administración;
 
 II. De Biblioteca e Informática;
 
-III. De Vigilancia de la Contaduría Mayor de Hacienda;
+III. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2002)
 
 IV. De Gestoría, Información y Quejas, y
 
@@ -719,7 +741,9 @@ I. Suscribir acuerdos relativos a los asuntos que se desahoguen en el Pleno, a l
 
 II. Proponer a los integrantes de las Comisiones Ordinarias y Especiales;
 
-III. Proponer al Pleno del Congreso los nombramientos del Oficial Mayor, Contador Mayor de Hacienda, del Director de Administración, del Director de Comunicación Social y del Director del Instituto de Estudios Parlamentarios "Eduardo Neri";
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+III. Proponer al Pleno del H. Congreso los nombramientos del Oficial Mayor, Auditor General del Estado, del Director de Administración, del Director de Comunicación Social y del Director del Instituto de Estudios Parlamentarios "Eduardo Neri";
 
 IV. Elaborar y presentar el anteproyecto de presupuesto de egresos del Congreso, así como establecer los criterios para otorgar apoyo a las fracciones parlamentarias, a las representaciones de partido, a las Comisiones y a los Comités;
 
@@ -789,9 +813,13 @@ I. Los que se relacionen con la aprobación del Presupuesto de Egresos del Estad
 
 II. Lo referente a la aprobación de la Cuenta Pública del Gobierno del Estado correspondiente al año inmediato anterior, debiendo presentar el dictamen respectivo al Pleno del Congreso en los plazos que determinen las disposiciones aplicables;
 
-III. Recibir de la Contaduría Mayor de Hacienda informes sobre el ejercicio del gasto de la administración pública centralizada y paraestatal;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
-IV. Vigilar que los Ayuntamientos presenten en tiempo y forma sus cuentas públicas ante la Contaduría Mayor de Hacienda, para su revisión, y
+III. Recibir de la Auditoria General del Estado, los informes sobre el ejercicio del gasto de la administración pública centralizada y paraestatal, así como los Informes de Resultados de la Revisión de las Cuentas Públicas Estatal y Municipales;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+IV. Gestionar la autorización para requerir a la Secretaría de Finanzas y Administración del Poder Ejecutivo del Estado la retención temporal de recursos financieros que ingresen a la Hacienda Estatal y que corresponda a las dependencias y entidades de la administración pública estatal, cuando en el manejo de dichos recursos se hayan detectado desviaciones a los fines establecidos, con excepción de los recursos contemplados en la Ley de Coordinación Fiscal y los destinados al pago de sueldos y salarios; y
 
 V. Los demás análogos que, a juicio del Presidente del Congreso o de la Comisión Permanente, en su caso, le sean turnados.
 
@@ -1061,47 +1089,61 @@ II. Emitir y presentar al Pleno, las conclusiones acusatorias o inacusatorias de
 
 III. En su caso, erigirse en Organo de acusación ante el Pleno del Congreso.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
 ###### Artículo 77.
+
+La Comisión de Vigilancia y Evaluación de la Auditoria General del Estado le corresponde conocer de los siguientes asuntos:
+
+I. De la vigilancia que las actividades de la Auditoria General del Estado se realicen conforme a lo que dispone la Ley;
+
+II. De la evaluación si la Auditoria General del Estado cumple con las funciones que tiene a su cargo, conforme a la Constitución Política del Estado y la Ley corresponden;
+
+III. Proponer las medidas necesarias para el buen funcionamiento de la Auditoria General del Estado;
+
+IV. Opinar sobre el nombramiento y remoción del personal técnico de la Auditoria General del Estado;
+
+V. Los que se refieran a las iniciativas de reformas, adiciones o derogaciones a la Ley de Fiscalización Superior del Estado;
+
+VI. Vigilar que los Ayuntamientos presenten en tiempo y forma sus cuentas públicas para su revisión ante la Auditoria General del Estado;
+
+VII. Ser el conducto de coordinación entre el Congreso y la Auditoria General del Estado;
+
+VIII. Recibir la comprobación del presupuesto ejercido por la Auditoria General del Estado;
+
+IX. Recibir el proyecto de presupuesto anual de la Auditoria General del Estado para su inclusión en el proyecto de presupuesto de egresos del H. Congreso; y
+
+X. Las demás que establezca la ley de la materia y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+###### Artículo 78.
 
 El Comité de Administración tendrá las siguientes facultades:
 
-I. Evaluar el gasto público del Congreso, apoyándose para el efecto en la Contaduría Mayor de Hacienda;
+I. Evaluar el gasto público del H. Congreso, apoyándose para el efecto en la Auditoria General del Estado;
 
-II. Elaborar los criterios a que se sujetarán los contratos y convenios que el Congreso celebre con terceros en materia de obra pública, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles;
+II. Elaborar los criterios a que se sujetarán los contratos y convenios en materia de obra pública, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles, que el H. Congreso del Estado celebre con terceros;
 
 III. Rendir anualmente al Pleno un informe de las actividades desarrolladas, y
 
 IV. Elaborar el programa para el ejercicio del gasto anual.
 
-El director de Administración será responsable de elaborar un informe anual del ejercicio del gasto del Congreso.
+El Director de Administración será responsable de elaborar un informe anual del ejercicio del gasto del H. Congreso.
 
-###### Artículo 78.
-
-Al Comité de Biblioteca e Informática le corresponden las siguientes facultades:
-
-I. Administrar la biblioteca del Congreso del Estado;
-
-II. Mantener actualizadas las colecciones bibliográficas del Congreso, facilitando a los Diputados, autoridades y público en general su consulta, debiendo elaborar el inventario respectivo;
-
-III. Elaborar y mantener actualizadas las disposiciones relativas al funcionamiento de la biblioteca, y
-
-IV. Establecer los criterios para la instrumentación y operación del sistema integral de informática del Congreso.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 79.
 
-El Comité de Vigilancia de la Contaduría Mayor de Hacienda tendrá las siguientes facultades:
+Al Comité de Biblioteca e Informática le corresponden las siguientes facultades:
 
-I. Vigilar que las actividades de la Contaduría Mayor de Hacienda se realicen conforme a lo que dispone la Ley;
+I. Administrar la biblioteca del H. Congreso del Estado;
 
-II. Proponer las medidas necesarias para el buen funcionamiento de la Contaduría;
+II. Mantener actualizadas las colecciones bibliográficas del H. Congreso, facilitando a los Diputados, autoridades y público en general su consulta, debiendo elaborar el inventario respectivo;
 
-III. Opinar sobre el nombramiento y remoción del personal técnico de la Contaduría;
+III. Elaborar y mantener actualizadas las disposiciones relativas al funcionamiento de la biblioteca, y
 
-IV. Emitir opinión sobre las sanciones administrativas a las que dicho personal se hiciere merecedor, en términos de la legislación aplicable;
-
-V. Los que se refieran a las iniciativas de reformas, adiciones o derogaciones a la Ley Orgánica de la Contaduría Mayor de Hacienda, y
-
-VI. Recibir de la Contaduría Mayor de Hacienda informes sobre la presentación y revisión de las cuentas públicas municipales.
+IV. Establecer los criterios para la instrumentación y operación del sistema integral de informática del H. Congreso.
 
 ###### Artículo 80.
 
@@ -1627,7 +1669,7 @@ c) Cuando lo pida algún integrante del Congreso y así lo apruebe el Pleno, y
 
 d) Cuando se voten en lo general iniciativas de Ley.
 
-La votación nominal empezará por el lado derecho del Presidente, diciendo cada Diputado su apellido al votar y su nombre si puede confundirse con el de otro, expresando si su voto es en pro o en contra. Un Secretario apuntará a los que aprueben, otro a los que reprueben, dando a conocer el Presidente al concluir la votación, el resultado de la misma;
+La votación nominal empezará por el lado derecho del Presidente, diciendo cada Diputado su apellido al votar y su nombre si puede confundirse con el de otro, expresando si su voto es en pro o en contra. Un Secretario apuntará a los que aprueben, otro a los que reprueben, dando a conocer el Presidente al concluir la votación, el resultado de la misma.
 
 III. La votación por cédula tendrá lugar en los siguientes casos:
 
@@ -1685,7 +1727,7 @@ II. Las preguntas que se formulen al compareciente serán distribuidas proporcio
 
 III. El compareciente podrá optar por dar lectura al contenido de su informe o a una síntesis del mismo; concluida la lectura se procederá a la intervención de los Diputados;
 
-IV. Para formular preguntas al compareciente, los Diputados tendrán un tiempo de cinco minutos. El compareciente contará con el tiempo necesario para dar respuesta a las preguntas formuladas. Los Diputados tendrán derecho a réplica por cinco minutos, de acuerdo a las respuestas proporcionadas; en su caso, el Presidente de la Mesa Directiva autorizará al Diputado para formular la contraréplica, por un tiempo de tres minutos, y
+IV. Para formular preguntas al compareciente, los Diputados tendrán un tiempo de cinco minutos. El compareciente contará con el tiempo necesario para dar respuesta a las preguntas formuladas. Los Diputados tendrán derecho a réplica por cinco minutos, de acuerdo a las respuestas proporcionadas; en su caso, el Presidente de la Mesa Directiva autorizará al Diputado para formular la contraréplica (sic), por un tiempo de tres minutos, y
 
 V. Cada una de las fracciones parlamentarias y representaciones de partido contarán con un tiempo de quince minutos para fijar postura respecto de la comparecencia.
 
@@ -1837,9 +1879,11 @@ En los casos en que un Diputado solicite licencia por tiempo definido o indefini
 
 En los casos en que los Diputados se ausenten en forma definitiva del recinto donde sesionen, sin previa autorización de la Presidencia, se considerará falta injustificada.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
 ###### Artículo 178.
 
-Los Diputados estarán obligados a presentar ante la Contaduría Mayor de Hacienda su declaración patrimonial, la que deberá contener la información de aquellas actividades que les proporcionen o puedan proporcionarles ingresos económicos.
+Los Diputados estarán obligados a presentar ante la Auditoria General del Estado su declaración patrimonial, la que deberá contener la información de aquellas actividades que les proporcionen o puedan proporcionarles ingresos económicos.
 
 Dicha declaración deberá formularse en el plazo de sesenta días naturales siguientes a la fecha en que rindan su protesta y asuman la condición de Diputado. Asimismo, deberán presentar su declaración en forma anual y final, en términos de lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Guerrero.
 
@@ -1989,7 +2033,9 @@ El Congreso del Estado, para el cumplimiento de sus atribuciones, dispondrá de 
 
 I. Oficialía Mayor;
 
-II. Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+II. Auditoría General del Estado;
 
 III. Dirección de Administración, y
 
@@ -2035,13 +2081,17 @@ V. Los programas para la capacitación, actualización y desarrollo de los servi
 
 El Congreso del Estado podrá celebrar convenios de coordinación o colaboración con los demás poderes o con instituciones públicas o privadas, con el fin de cumplir con los objetivos del servicio civil de carrera y con el estatuto del personal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
 ###### Artículo 202.
 
-El personal técnico, administrativo y de apoyo de los órganos a que se refiere el artículo 197 de esta Ley, será designado por el Presidente de la Comisión de Gobierno, mediante acuerdo en el que se definirán las respectivas estructuras y plazas. Dicho acuerdo será también suscrito por el Director de Administración y se hará del conocimiento de los integrantes de la Comisión de Gobierno.
+El personal técnico, administrativo y de apoyo de los órganos a que se refieren las fracciones I, III y IV del artículo 197 de esta Ley, será designado por el Presidente de la Comisión de Gobierno, mediante acuerdo en el que se definirán las respectivas estructuras y plazas. Dicho acuerdo será también suscrito por el Director de Administración y se hará del conocimiento de los integrantes de la Comisión de Gobierno.
 
 Las relaciones laborales del Congreso del Estado con sus servidores públicos, se regirán por la Ley de Trabajo de los Servidores Públicos del Estado de Guerrero.
 
-### Capítulo IV. De la Contaduría Mayor de Hacienda
+### Capítulo IV. De la Auditoria General del Estado
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 203.
 
@@ -2069,13 +2119,15 @@ X. Acordar los asuntos de trámite para su archivo, y
 
 XI. Las demás que le encomiende esta Ley, el Pleno o la Comisión Permanente, según corresponda.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
 ### Capítulo V. De la Dirección de Administración
 
 ###### Artículo 204.
 
-La Contaduría Mayor de Hacienda es el órgano técnico del Congreso del Estado, que tiene por objeto el control y fiscalización superior de la administración hacendaria pública, y se encargará de la revisión y análisis de los ingresos, egresos y de la cuenta pública del gobierno del Estado, los municipios, organismos y empresas descentralizadas estatales y municipales, así como de los programas que cuenten con participaciones o aportaciones de recursos estatales y de organismos e instituciones que administren fondos o valores del sector público o reciban subsidios del Estado.
+La Auditoria General del Estado es el órgano técnico auxiliar del Poder Legislativo, que tiene por objeto el control y fiscalización superior de los ingresos, los egresos, el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, de los Municipios y de los Entes Públicos Estatales y Municipales; así como el cumplimiento de los objetivos contenidos en los programas estatales y municipales a través de los informes que se rendirán en los términos que disponga la Ley.
 
-La Contaduría Mayor de Hacienda tendrá una Ley que regule su organización, funcionamiento y le otorgue facultades. El desempeño de sus atribuciones lo realizará bajo el control y supervisión del Comité de Vigilancia de la Contaduría Mayor de Hacienda.
+La Auditoria General del Estado tendrá una Ley que establezca su competencia, organización interna, funcionamiento y procedimientos. El desempeño de sus atribuciones lo realizará bajo el control y supervisión de la Comisión de Vigilancia y Evaluación de la Auditoria General del Estado.
 
 ### Capítulo Unico
 
@@ -2183,6 +2235,8 @@ T R A N S I T O R I O S
 
 La presente Ley entrará en vigor el día de su expedición.
 
+N. DE E., EN TERMINOS DEL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE GUERRERO, SE ABROGA EL TITULO XXI DE LA CONTADURIA MAYOR DE GLOSA A QUE HACE REFERENCIA EL PRESENTE ARTICULO TRANSITORIO, P.O. 6 DE NOVIEMBRE DE 2002.
+
 ###### ARTICULO SEGUNDO
 
 Se abroga la Ley Orgánica del Poder Legislativo del Estado de Guerrero número 181, de fecha treinta y uno de mayo de mil novecientos ochenta y cinco, con excepción de lo que establece el título XXI "De la Contaduría Mayor de Glosa", hasta en tanto no se expida la Ley de la Contaduría Mayor de Hacienda.
@@ -2230,3 +2284,11 @@ Diputada Secretaria.
 C. GUADALUPE GALEANA MARIN.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE NOVIEMBRE DE 2002.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
