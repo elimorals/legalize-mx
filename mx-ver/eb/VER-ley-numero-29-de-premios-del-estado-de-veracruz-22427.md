@@ -1,0 +1,252 @@
+---
+title: "LEY NUMERO 29 DE PREMIOS DEL ESTADO DE VERACRUZ"
+identifier: "VER-ley-numero-29-de-premios-del-estado-de-veracruz-22427"
+country: "mx"
+rank: "ley"
+publication_date: "2001-10-12"
+last_updated: "2001-10-12"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22427&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-ver"
+scjn_id: "22427"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "205"
+reform_count: "9"
+scjn_last_update: "2020-02-27"
+issue_date: "2001-10-11"
+state: "VER"
+---
+# LEY NUMERO 29 DE PREMIOS DEL ESTADO DE VERACRUZ
+
+LEY NÚMERO 29 DE PREMIOS DEL ESTADO DE VERACRUZ
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 12 de octubre de 2001.
+
+Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz-Llave.
+
+Miguel Alemán Velazco, Gobernador del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes sabed:
+
+Que la Honorable Quincuagésima Novena Legislatura del Congreso del Estado se ha servido dirigirme la siguiente Ley para su promulgación y publicación:
+
+Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
+
+LA HONORABLE QUINCUAGÉSIMA NOVENA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE, EN USO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN I Y 38 DE LA CONSTITUCIÓN POLÍTICA LOCAL; 18 FRACCIÓN I Y 47 SEGUNDO PÁRRAFO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; 103 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO, Y EN NOMBRE DEL PUEBLO EXPIDE LA SIGUIENTE:
+
+Ley Número 29
+
+DE PREMIOS DEL ESTADO DE VERACRUZ
+
+## TÍTULO PRIMERO. DE LOS PREMIOS
+
+### Capítulo Primero. Disposiciones Comunes
+
+###### Artículo 1.
+
+La presente Ley es de orden público e interés general, y rige el otorgamiento de la Medalla Veracruz, la Medalla Adolfo Ruíz Cortines y el Premio Veracruz 2025, que los Poderes Ejecutivo y Legislativo del Estado, conceden a las personas, distinguidas por su conducta, actos u obras, en los términos que la misma establece.
+
+### Capítulo Segundo. De la Medalla Veracruz
+
+###### Artículo 2.
+
+La Medalla Veracruz será entregada el día en que se fundó el Estado de Veracruz, o el día que se considere más adecuado para los fines de divulgación de los valores cívicos, en ceremonia pública y solemne.
+
+###### Artículo 3.
+
+El Comité Estatal para el otorgamiento de la Medalla Veracruz, será el órgano colegiado encargado de establecer los lineamientos para su entrega, y tendrá entre sus atribuciones expedir la convocatoria y designar a las personas que deban recibir dicho reconocimiento.
+
+###### Artículo 4.
+
+El Comité se integrará por:
+
+I. Un Presidente Honorario, que será el Gobernador del Estado;
+
+II. Un Presidente Sustituto, que será el Secretario de Gobierno;
+
+III. Un Secretario Técnico, que será el Secretario de Educación y Cultura;
+
+IV. Un Comisario, que será el Contralor General;
+
+V. Vocales:
+
+a) Titulares de las dependencias y entidades, que serán propuestos por el Gobernador del Estado;
+
+b) El Rector de la Universidad Veracruzana.
+
+VI. Un representante que designe el Poder Judicial del Estado;
+
+VII. Un representante que designe el Poder Legislativo del Estado; y
+
+VIII. Representantes de la sociedad, que serán designados por el Gobernador del Estado.
+
+El desempeño de estos cargos será honorífico e indelegable.
+
+El Comité funcionará de conformidad con lo establecido por el Reglamento de la Medalla Veracruz.
+
+###### Artículo 5.
+
+Cuando se trate de designaciones post mortem o la persona esté incapacitada para asistir a la recepción de la Medalla Veracruz, la entrega se hará a quien acredite la representación legal.
+
+###### Artículo 6.
+
+Se entregará la Medalla Veracruz acompañada de un Diploma, un estímulo económico y en su caso, el apoyo adicional que acuerde el Comité.
+
+###### Artículo 7.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Planeación, dispondrá una partida presupuestal para el otorgamiento de los estímulos económicos a que se refiere esta Ley.
+
+###### Artículo 8.
+
+La entrega de la Medalla Veracruz se hará conforme a las siguientes categorías:
+
+I. A la trayectoria Internacional;
+
+II. Al Mérito Ciudadano;
+
+III. A los Servidores Públicos;
+
+IV. A las Ciencias;
+
+V. A las Artes y Humanidades;
+
+VI. A la Juventud;
+
+VII. A la Preservación de las Tradiciones y Cultura Indígena;
+
+VIII. Al Desarrollo Económico; y
+
+IX. Al Deporte.
+
+#### Sección Única. De las Categorías
+
+###### Artículo 9.
+
+La Medalla Veracruz a la Trayectoria Internacional se otorgará a los extranjeros, con el objeto de reconocer su obra, méritos, conducta o trayectoria en beneficio de la humanidad y por cualquier otro mérito que a juicio del Comité deba considerarse para este fin.
+
+###### Artículo 10.
+
+Exceptuado la categoría del artículo anterior, todas las demás se otorgarán a veracruzanos.
+
+###### Artículo 11.
+
+La Medalla Veracruz al Mérito Ciudadano se otorgará a las personas cuya obra, méritos, conducta o trayectoria sea relevante o notable y reporte, preferentemente, un beneficio para la entidad veracruzana.
+
+###### Artículo 12.
+
+La Medalla Veracruz a los Servidores Públicos se otorgará:
+
+I. A los servidores públicos de base o de confianza, cuyas acciones sean de beneficio para la Administración Pública.
+
+II. A los servidores públicos de base o de confianza, cuya antigüedad en el servicio público sea de 40 ó 50 años.
+
+Se otorgará únicamente un Diploma y el estímulo económico que fije el Comité, a quienes cumplan 25 ó 30 años de servicio.
+
+###### Artículo 13.
+
+La Medalla Veracruz a las Ciencias, se otorgará a las personas cuyas producciones o trabajos docentes, de investigación, divulgación o de aplicación, hayan contribuido al progreso científico.
+
+###### Artículo 14.
+
+La Medalla Veracruz a las Artes y Humanidades, se otorgará a las personas cuyas producciones o trabajos docentes, de investigación, divulgación o de aplicación, hayan contribuido al progreso artístico y humanístico.
+
+###### Artículo 15.
+
+La Medalla Veracruz a la Juventud se otorgará a los jóvenes menores de 29 años, que hayan destacado por su conducta o dedicación al estudio, actividades cívicas o culturales.
+
+###### Artículo 16.
+
+La Medalla Veracruz a la Preservación de las Tradiciones y Cultura Indígena se otorgará a las personas que se distingan en cualquier actividad que tenga como consecuencia la preservación de las tradiciones y la contribución al desarrollo regional de las zonas indígenas y al mejoramiento de las condiciones de vida de sus pueblos.
+
+###### Artículo 17.
+
+La Medalla Veracruz al Desarrollo Económico se otorgará a las personas que en las actividades agropecuarias, forestales, pesqueras, artesanales, industriales, comerciales o de la construcción, realicen un esfuerzo extraordinario en beneficio de la sociedad, elevando la productividad, generando empleos o propiciando el desarrollo económico de la Entidad.
+
+###### Artículo 18.
+
+La Medalla Veracruz al Deporte se otorgará a las personas cuya dedicación al deporte en cualquiera de sus ramas pueda considerarse ejemplo estimulante para crear y desarrollar motivos de superación personal.
+
+### Capítulo Tercero. De la Medalla Adolfo Ruíz Cortines
+
+###### Artículo 19.
+
+Esta Medalla la concederá el Congreso del Estado anualmente, a los veracruzanos que se distingan por sus acciones en la participación ciudadana de la sociedad.
+
+###### Artículo 20.
+
+Para el otorgamiento de la Medalla Adolfo Ruíz Cortines, se seguirá el procedimiento siguiente:
+
+I. El Congreso del Estado, en el mes de noviembre de cada año, nombrará una comisión de cinco diputados, que tendrán la obligación de formular la convocatoria para que se proponga a los ciudadanos que se consideren merecedores de la distinción;
+
+II. Las propuestas que se hagan con motivo de la convocatoria, deberán acompañarse de una semblanza y exposición de motivos;
+
+III. Concluido el término de la convocatoria, la comisión seleccionará de entre los ciudadanos propuestos, a tres que a su juicio sean los de mayor mérito a recibir la distinción, razonando y motivando su decisión; y
+
+IV. El Dictamen de la Comisión se someterá a la consideración del Pleno del Congreso, que decidirá a quien se le otorga la Medalla.
+
+###### Artículo 21.
+
+La Medalla Adolfo Ruíz Cortines, se entregará el día que corresponda al del nacimiento del egregio estadista, o el que se considere más adecuado para los fines de divulgación de los valores cívicos.
+
+Así mismo, se entregará al merecedor de la Medalla, un Diploma en el que se expresen las razones por las cuales se confiere esta distinción.
+
+### Capítulo Cuarto. Del Premio Veracruz 2025
+
+###### Artículo 22.
+
+El Premio Veracruz 2025 es el reconocimiento público que otorga el Poder Ejecutivo del Estado a las personas físicas o morales y sociedad en general, que realicen estudios prospectivos de largo plazo y generen propuestas concretas de desarrollo integral de la entidad veracruzana para los próximos veinticinco años.
+
+###### Artículo 23.
+
+Este premio se otorgará anualmente y consistirá en un Diploma, un estímulo económico y en su caso, el apoyo adicional que se determine de conformidad con los lineamientos y bases que al efecto se expidan.
+
+## TÍTULO SEGUNDO. DE LA ROTONDA DE LOS HOMBRES ILUSTRES DEL ESTADO DE VERACRUZ
+
+###### Artículo 24.
+
+En la Rotonda de los Hombres Ilustres del Estado de Veracruz, ubicada en la capital del Estado, se sepultarán los restos de los ciudadanos veracruzanos que en el transcurso de su vida se hayan distinguido por su conducta trascendente, relevante y ejemplar, en beneficio de la sociedad.
+
+Las ceremonias de inhumación en la Rotonda de los Hombres Ilustres serán solemnes.
+
+###### Artículo 25.
+
+Para que los restos de un ciudadano veracruzano, puedan ser sepultados en la Rotonda de los Hombres Ilustres, se requerirá:
+
+I. Solicitud por escrito de un Ayuntamiento o una organización cultural, científica, cívica o política de la Entidad;
+
+II. Que a la solicitud se acompañen las pruebas que acrediten fehacientemente los méritos de la obra del ciudadano al que se pretende honrar; y
+
+III. Decreto del Gobernador del Estado.
+
+###### Artículo 26.
+
+Los trámites a que se refiere el artículo anterior, se llevarán a cabo por conducto de la Secretaría de Gobierno, dependencia que será la responsable de integrar y cuidar la conservación de un Archivo, en el que se contengan todos los datos de quienes hayan sido honrados.
+
+## TRANSITORIOS
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo Segundo. Se abrogan la Ley Número 123 de Premios, Estímulos y Recompensas Civiles de fecha dieciocho de julio de mil novecientos noventa y uno, publicada en la Gaceta Oficial del Estado el día veintitrés del mismo mes y año; la Ley Número 56 que Reforma Diversos Artículos de la Ley de Premios, Estímulos y Recompensas Civiles del Estado, de fecha once de mayo del año dos mil, publicada el día doce del mismo mes y año; y la Ley Número 324 que establece el "Premio al Mérito Cívico Adalberto Tejeda" de fecha cuatro de septiembre de mil novecientos setenta y ocho, publicada el día catorce del mismo mes y año. Asimismo, se derogan todas las disposiciones que se opongan al presente Ordenamiento.
+
+Artículo Tercero. En lo relativo al Premio Estatal de Comunicación Social, previsto en la Ley Número 56, el Ejecutivo del Estado, otorgará para el mes de enero del año 2002, las cantidades correspondientes a cada categoría, a la Asociación de Periodistas, que acredite tener el mayor número de afiliados, en términos de los lineamientos que establezca la Secretaría de Gobierno.
+
+Artículo Cuarto. La Secretaría de Gobierno expedirá una Convocatoria pública en la que se establecerán las bases y requisitos con la finalidad de diseñar las características de la Medalla Veracruz.
+
+Artículo Quinto. El Reglamento de la Medalla Veracruz se expedirá dentro de los treinta días siguientes a la publicación de esta Ley.
+
+Artículo Sexto. El Reglamento del Premio Veracruz 2025 se expedirá dentro de los treinta días siguientes a la publicación de esta Ley. En dicho Reglamento se dispondrá que la Oficina del Programa de Gobierno será la encargada de establecer los lineamientos y bases para su otorgamiento.
+
+DADA EN EL SALÓN DE SESIONES DE LA H. LIX LEGISLATURA DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE XALAPA-ENRÍQUEZ, VERACRUZ, A LOS ONCE DÍAS DEL MES DE OCTUBRE DEL AÑO DOS MIL UNO.
+
+Armando José Raúl Ramos Vicarte, diputado presidente.- Rúbrica. José Luis Salas Torres, diputado secretario.- Rúbrica.
+
+Por lo tanto, en atención a lo dispuesto por los artículos 35, párrafo segundo, y 49, fracción II, de la Constitución Política del Estado, y en cumplimiento del oficio número 003439, de los diputados presidente y secretario de la Quincuagésima Novena Legislatura del Honorable Congreso del Estado, mando se publique, y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los once días del mes de octubre del año dos mil uno.
+
+Atentamente
+
+Sufragio efectivo. No reelección.
+
+Licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
