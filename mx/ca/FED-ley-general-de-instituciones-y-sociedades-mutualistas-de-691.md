@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "2004-01-28"
+last_updated: "2005-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE FEBRERO DE 2005.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -299,7 +299,7 @@ II.- Para los seguros de pensiones, derivados de las leyes de seguridad social, 
 
 III.- Para el ramo de accidentes personales, los contratos de seguro que tengan como base la lesión o incapacidad que afecte la integridad personal, salud o vigor vital del asegurado, como consecuencia de un evento externo, violento, súbito y fortuito;
 
-lV.- Para el ramo de gastos médicos, los contratos de seguro que tengan por objeto cubrir los gastos médicos, hospitalarios y demás que sean necesarios para la recuperación de la salud o vigor vital del asegurado, cuando se hayan afectado por causa de un accidente o enfermedad;
+IV.- Para el ramo de gastos médicos, los contratos de seguro que tengan por objeto cubrir los gastos médicos, hospitalarios y demás que sean necesarios para la recuperación de la salud o vigor vital del asegurado, cuando se hayan afectado por causa de un accidente o enfermedad;
 
 V.- Para el ramo de salud, los contratos de seguro que tengan como objeto la prestación de servicios dirigidos a prevenir o restaurar la salud, a través de acciones que se realicen en beneficio del asegurado;
 
@@ -317,7 +317,7 @@ XI.- Para el ramo de seguro de crédito, el pago de la indemnización de una par
 
 XII.- Para el ramo de diversos, el pago de la indemnización debida por daños y perjuicios ocasionados a personas o cosas por cualquiera otra eventualidad; y
 
-Xlll.- Para el ramo de terremoto y otros riesgos catastróficos, los contratos de seguro que amparen daños y perjuicios ocasionados a personas o cosas como consecuencia de eventos de periodicidad y severidad no predecibles que al ocurrir, generalmente producen una acumulación de responsabilidades para las empresas de seguros por su cobertura.
+XIII.- Para el ramo de terremoto y otros riesgos catastróficos, los contratos de seguro que amparen daños y perjuicios ocasionados a personas o cosas como consecuencia de eventos de periodicidad y severidad no predecibles que al ocurrir, generalmente producen una acumulación de responsabilidades para las empresas de seguros por su cobertura.
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -1903,7 +1903,7 @@ I.- Proveer de fondos al Instituto Mexicano del Seguro Social, previa instrucci�
 
 II.- Apoyar a las instituciones de seguros fideicomitentes que demuestren a satisfacción de la Secretaría de Hacienda y Crédito Público, que no cuentan con los recursos necesarios para hacer frente a sus obligaciones derivadas de los seguros de renta vitalicia o de sobrevivencia a que se refiere la Ley del Seguro Social, por presentarse cualquiera de los supuestos siguientes:
 
-a).- Desviación en la siniestralidad de su mutualidad, respecto de las hipótesis demográficas adoptadas en el cálculo original de las primas que haya cobrado;
+a). Desviación en la siniestralidad de su mutualidad, respecto de las hipótesis demográficas adoptadas en el cálculo original de las primas que haya cobrado;
 
 b).- Desviación generalizada en la siniestralidad del mercado, respecto de las hipótesis demográficas adoptadas en el cálculo de los montos constitutivos;
 
@@ -3671,33 +3671,13 @@ VII.- Si en el juicio respectivo resulta procedente la reclamación, aun cuando 
 
 VIII.- Si la empresa de seguros, dentro de los plazos y términos legales, no cumple con las obligaciones asumidas en el contrato de seguro, la Comisión Nacional de Seguros y Fianzas le impondrá una multa de mil a diez mil días de salario, y en caso de reincidencia se le revocará la autorización correspondiente.
 
-> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 136.
 
-En materia jurisdiccional:
+En materia jurisdiccional, para el cumplimiento de la sentencia ejecutoriada que se dicte en el procedimiento, el Juez de los autos requerirá a la empresa de seguros, si hubiere sido condenada, para que compruebe dentro de las setenta y dos horas siguientes, haber pagado las prestaciones a que hubiere sido condenada y en caso de omitir la comprobación, el Juez lo comunicará a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros a efecto de que ordene el remate de valores invertidos propiedad de la empresa de seguros, para pagar a la persona en cuyo favor se hubiere dictado la sentencia. Dicha Comisión deberá cumplir con la solicitud que al efecto le haga el Tribunal dentro de los quince días hábiles siguientes a la fecha en que la reciba.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-I.- Los tribunales no darán entrada a demanda alguna contra una empresa de seguros si el actor en ella no afirma bajo protesta de decir verdad, que ante la Comisión Nacional de Seguros y Fianzas se agotó el procedimiento conciliatorio a que se refiere la fracción I del artículo anterior.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
-
-En cualquier momento en que aparezca que no se agotó el procedimiento conciliatorio, deberá sobreseerse la instancia e imponer al actor las costas originadas por el procedimiento.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
-
-La omisión del procedimiento conciliatorio en la vía administrativa constituye, además, una excepción dilatoria que puede interponerse por la empresa de seguros demandada;
-
-II.- (DEROGADA, D.O.F. 3 DE ENERO DE 1997)
-
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 1993)</small>
-
-III.- Para el cumplimiento de la sentencia ejecutoria que se dicte en el procedimiento, el juez de los autos requerirá a la empresa de seguros, si hubiere sido condenada para que compruebe dentro de las setenta y dos horas siguientes, haber pagado las prestaciones a que hubiere sido condenada y en caso de omitir la comprobación, el juez lo comunicará a la Comisión Nacional de Seguros y Fianzas a efecto de que imponga sanción en los términos de la fracción VII del artículo 135 de este ordenamiento, sin perjuicio de que ordene a la propia Comisión a que pague a la persona, en cuyo favor se hubiere dictado la sentencia, del monto de la reserva constituida e invertida en los términos del artículo anterior. Si no fuere suficiente la reserva, la Comisión procederá al remate en bolsa de los valores depositados en los términos de esta Ley, y si ellos estuvieren afectos a las reservas de la empresa de seguros, ésta deberá reponerlos en los términos que esta Ley señala para la reconstitución de las reservas. La Comisión deberá cumplir con la solicitud que al efecto le haga el tribunal dentro de los quince días hábiles siguientes a la fecha en que la reciba.
-
-IV.- (DEROGADA, D.O.F. 14 DE ENERO DE 1985)
-
-V.- (DEROGADA, D.O.F. 14 DE ENERO DE 1985)
+La competencia por territorio para demandar en materia de seguros será determinada, a elección del reclamante, en razón del domicilio de cualquiera de las delegaciones de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros. Asimismo será competente el Juez del domicilio de dicha delegación; cualquier pacto que se estipule contrario a lo dispuesto en este párrafo, será nulo.
 
 > <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
@@ -3791,7 +3771,7 @@ b) Cuando las infracciones no puedan determinarse conforme al párrafo anterior,
 
 > <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2002)</small>
 
-VII .- Multa de 100 a 8000 días de salario a la institución de seguros, a sus empleados o a los agentes de seguros que en alguna forma ofrezcan o hagan descuentos o reducción de primas u otorguen algún otro beneficio no estipulado en la póliza, como aliciente para tomar o conservar un contrato de seguro;
+VII.- Multa de 100 a 8000 días de salario a la institución de seguros, a sus empleados o a los agentes de seguros que en alguna forma ofrezcan o hagan descuentos o reducción de primas u otorguen algún otro beneficio no estipulado en la póliza, como aliciente para tomar o conservar un contrato de seguro;
 
 > <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2002)</small>
 
@@ -4938,3 +4918,7 @@ Las disposiciones de este Decreto no serán aplicables a los créditos contratad
 D.O.F. 28 DE ENERO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE FEBRERO DE 2005.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
