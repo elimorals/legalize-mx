@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1989-10-10"
+last_updated: "1990-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 1989
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 1990.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -66,6 +66,8 @@ Diputación Permanente.
 ## TITULO II. De la Instalación del Congreso
 
 ### CAPITULO I. De las Obligaciones de los Diputados
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 1990)</small>
 
 ###### Artículo 4.
 
@@ -135,7 +137,7 @@ Cumplido el requisito de la protesta se tendrá por instalada la Cámara y al ef
 
 ###### Artículo 11.
 
-Es obligación de los Diputados asistir a todas las sesiones que celebre el Congreso. Se entiende que los Diputados que falten a 10 sesiones consecutivas, sin causa justificada o sin previo aviso a la Presidencia, renuncian a concurrir a sesiones hasta el período inmediato, llamándose desde luego a los Suplentes. Los Diputados solamente podrán dejar de concurrir a las sesiones por causas justificadas en los términos del artículo siguiente.
+Es obligación de cada diputado formular y presentar individual o colectivamente, de menos, una iniciativa de Ley, dentro del tiempo que dure su ejercicio; así como asistir a todas las Sesiones que celebre el Congreso. Se entiende que los diputados que falten a 10 Sesiones consecutivas, sin causa justificada o sin previo aviso a la Presidencia, renuncian a concurrir a Sesiones hasta el período inmediato, llamándose desde luego a los suplentes. Los diputados solamente podrán dejar de concurrir a las Sesiones, por causas justificadas, en los términos del artículo siguiente.
 
 ###### Artículo 12.
 
@@ -1652,5 +1654,9 @@ Tercero. Las reformas de los Arts. 182, 185, 186 y 188 de la Ley Reglamentaria d
 P.O. 10 DE OCTUBRE DE 1989
 
 DECRETO QUE REFORMA ART. 90.
+
+Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 10 DE ABRIL DE 1990
 
 Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
