@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-6650"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-11-04"
-last_updated: "2000-05-10"
+last_updated: "2000-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2000.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos el 4 de noviembre de 1992.
 
@@ -839,9 +839,11 @@ VIII.- Mantener y conservar los bienes de propiedad municipal, y
 
 IX.- Las demás atribuciones que esta Ley y los reglamentos aplicables establezcan.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2000)</small>
+
 ###### Artículo 67.
 
-Los auxiliares municipales durarán en su cargo tres años a partir del día primero de agosto del año de la elección ordinaria del Ayuntamiento.
+Los auxiliares municipales durarán en su cargo tres años a partir del día 1º de febrero del año siguiente al de la elección ordinaria del Ayuntamiento.
 
 Por cada auxiliar municipal electo por votación popular directa, habrá un suplente.
 
@@ -857,9 +859,13 @@ Las elecciones de los Intendentes y Ayudantes Municipales se sujetarán a las si
 
 I.- Solamente podrán participar en el proceso de elección los vecinos del municipio que se encuentren inscritos en el padrón municipal;
 
-II.- La elección se llevará a cabo dentro de la primera quincena del mes de julio del año de los comicios para elegir el Ayuntamiento;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2000)</small>
 
-III.- El Ayuntamiento emitirá una convocatoria con treinta días de anticipación al día de la elección, en la que se establecerá:
+II.- La elección se llevará a cabo durante el mes de enero del año siguiente a los comicios para elegir el Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2000)</small>
+
+III.- El Ayuntamiento emitirá una convocatoria con 15 días de anticipación al día de la elección a la que se establecerá:
 
 A) La forma y plazos para la inscripción de los ciudadanos con derecho a voto, a quienes se expedirá la constancia relativa;
 
@@ -2016,3 +2022,11 @@ SEGUNDO.- Por esta única vez, los Presidentes Municipales rendirán su informe 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 CUARTO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 30 DE JUNIO DE 2000.
+
+PRIMERO.- El presente Decreto entrará el día de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Estado.
+
+SEGUNDO.- Por esta única vez, los auxiliares, intendentes y ayudantes municipales, prolongarán sus funciones hasta el 31 del mes de enero del año 2001.
+
+TERCERO.- Remítase el presente decreto, al Titular del Poder Ejecutivo Estatal, para los efectos correspondientes.
