@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2002-06-04"
+last_updated: "2003-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MAYO DE 2003.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 7 de febrero de 1984.
 
@@ -71,6 +71,12 @@ En los términos de esta Ley, es materia de salubridad general:
 I.- La organización, control y vigilancia de la prestación de servicios y de establecimientos de salud a los que se refiere el artículo 34, fracciones I, III y IV, de esta Ley;
 
 II.- La atención médica, preferentemente en beneficio de grupos vulnerables;
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2003)</small>
+
+II bis.- La Protección Social en Salud;
 
 III.- La coordinación, evaluación y seguimiento de los servicios de salud a los que se refiere el artículo 34, fracción II;
 
@@ -280,6 +286,12 @@ VI.- Promover y programar el alcance y las modalidades del Sistema Nacional de S
 
 VII.- Coordinar el Sistema Nacional de Salud;
 
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2003)</small>
+
+VII bis.- Regular, desarrollar, coordinar, evaluar y supervisar las acciones de protección social en salud;
+
 VIII.- Realizar la evaluación general de la prestación de servicios de salud en materia de salubridad general en todo el territorio nacional;
 
 IX.- Ejercer la coordinación y la vigilancia general del cumplimiento de las disposiciones de esta Ley y demás normas aplicables en materia de salubridad general, y
@@ -288,7 +300,11 @@ X.- Las demás que sean necesarias para hacer efectivas las facultades anteriore
 
 B. Corresponde a los gobiernos de las entidades federativas, en materia de Salubridad General, como autoridades locales y dentro de sus respectivas jurisdicciones territoriales:
 
-I.- Organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general a que se refieren las fracciones II, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX y XX del artículo 3o. de esta Ley, de conformidad con las disposiciones aplicables;
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2003)</small>
+
+I.- Organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general a que se refieren las fracciones II, II bis, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX y XX del artículo 3o. de esta Ley, de conformidad con las disposiciones aplicables;
 
 II.- Coadyuvar a la consolidación y funcionamiento del Sistema Nacional de Salud, y planear, organizar y desarrollar sistemas estatales de salud, procurando su participación programática en el primero;
 
@@ -340,7 +356,11 @@ VII bis.- Proponer a las autoridades sanitarias el otorgamiento de reconocimient
 
 VIII.- Analizar las disposiciones legales en materia de salud y formular propuestas de reformas o adiciones a las mismas, y
 
-IX.- Las demás que le correspondan conforme a la fracción XVI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2003)</small>
+
+IX.- Las demás que le correspondan conforme a la fracción XVI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y esta Ley.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -470,11 +490,13 @@ IX.- La promoción del mejoramiento de la nutrición, y
 
 X.- La asistencia social a los grupos más vulnerables.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 28.
 
-Para los efectos del artículo anterior, habrá un Cuadro Básico de Insumos para el primer nivel de atención médica y un Catálogo de Insumos para el segundo y tercer nivel, elaborados por el Consejo de Salubridad General a los cuales se ajustarán las dependencias y entidades que presten servicios de salud, y en los cuales se agruparán, caracterizarán y codificarán los insumos para la salud. Para esos efectos, participarán en su elaboración la Secretaría de Salud, las instituciones públicas de seguridad social y las demás entidades de salud que señale el Ejecutivo Federal.
+Para los efectos del artículo anterior, habrá un Cuadro Básico de Insumos para el primer nivel de atención médica y un Catálogo de Insumos para el segundo y tercer nivel, elaborados por el Consejo de Salubridad General a los cuales se ajustarán las instituciones públicas del Sistema Nacional de Salud, y en los que se agruparán, caracterizarán y codificarán los insumos para la salud. Para esos efectos, participarán en su elaboración: La Secretaría de Salud, las instituciones públicas de seguridad social y las demás que señale el Ejecutivo Federal.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -526,9 +548,15 @@ III.- Servicios sociales y privados, sea cual fuere la forma en que se contraten
 
 IV.- Otros que se presten de conformidad con lo que establezca la autoridad sanitaria.
 
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 35.
 
-Son servicios públicos a la población en general los que se presten en establecimientos públicos de salud a los habitantes del país que así lo requieran, regidos por criterios de universalidad y de gratuidad fundada en las condiciones socioeconómicas de los usuarios.
+Son servicios públicos a la población en general los que se presten en establecimientos públicos de salud a los residentes del país que así lo requieran, regidos por criterios de universalidad y de gratuidad en el momento de usar los servicios, fundados en las condiciones socioeconómicas de los usuarios.
+
+Los derechohabientes de las instituciones de seguridad social podrán acceder a los servicios a que se refiere el párrafo anterior en los términos de los convenios que al efecto se suscriban con dichas instituciones, de conformidad con las disposiciones aplicables.
 
 ###### ARTICULO 36.
 
@@ -746,7 +774,41 @@ En materia de higiene escolar, corresponde a las autoridades sanitarias establec
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias y educativas competentes.
 
-### CAPITULO I. Profesionales, Técnicos y Auxiliares
+### CAPITULO I. Disposiciones Generales
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 1.
+
+Todos los mexicanos tienen derecho a ser incorporados al Sistema de Protección Social en Salud de conformidad con el artículo cuarto de la Constitución Política de los Estados Unidos Mexicanos, sin importar su condición social.
+
+La protección social en salud es un mecanismo por el cual el Estado garantizará el acceso efectivo, oportuno, de calidad, sin desembolso al momento de utilización y sin discriminación a los servicios médico-quirúrgicos, farmacéuticos y hospitalarios que satisfagan de manera integral las necesidades de salud, mediante la combinación de intervenciones de promoción de la salud, prevención, diagnóstico, tratamiento y de rehabilitación, seleccionadas en forma prioritaria según criterios de seguridad, eficacia, costo, efectividad, adherencia a normas éticas profesionales y aceptabilidad social. Como mínimo se deberán contemplar los servicios de consulta externa en el primer nivel de atención, así como de consulta externa y hospitalización para las especialidades básicas de: medicina interna, cirugía general, ginecoobstetricia, pediatría y geriatría, en el segundo nivel de atención.
+
+Las disposiciones reglamentarias establecerán los criterios necesarios para la secuencia y alcances de cada intervención que se provea en los términos de este Título.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY. (ADICIONADO, D.O.F. 15 DE MAYO DE 2003)
+
+###### ARTICULO 77 Bis 2.
+
+Para los efectos de esta Ley, se entenderá por Sistema de Protección Social en Salud a las acciones que en esta materia provean los Regímenes Estatales de Protección Social en Salud.
+
+La Secretaría de Salud coordinará las acciones de los Regímenes Estatales de Protección Social en Salud, los cuales contarán con la participación subsidiaria y coordinada de la Federación, de conformidad con lo dispuesto en este Título.
+
+Para efectos de este Título se entenderá por Regímenes Estatales, a las acciones de protección social en salud de los Estados de la República y del Distrito Federal.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 3.
+
+Las familias y personas que no sean derechohabientes de las instituciones de seguridad social o no cuenten con algún otro mecanismo de previsión social en salud, se incorporarán al Sistema de Protección Social en Salud que les corresponda en razón de su domicilio, con lo cual gozarán de las acciones de protección en salud a que se refiere este Título.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 67.
 
@@ -790,9 +852,117 @@ La Secretaría de Salud coordinará las actividades de las dependencias y entida
 
 La Secretaría de Salud prestará, a través del Consejo Nacional de Población, el asesoramiento que para la elaboración de programas educativos en materia de planificación familiar y educación sexual le requiera el sistema educativo nacional.
 
-### CAPITULO II. Servicio Social de Pasantes y Profesionales
+### CAPITULO II. De los Beneficios de la Protección Social en Salud
 
-### CAPITULO III. Formación, Capacitación y Actualización del Personal
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 7.
+
+Gozarán de los beneficios del Sistema de Protección Social en Salud las familias cuyos miembros en lo individual satisfagan los siguientes requisitos:
+
+I. Ser residentes en el territorio nacional;
+
+II. No ser derechohabientes de la seguridad social;
+
+III. Contar con Clave Única de Registro de Población;
+
+IV. Cubrir las cuotas familiares correspondientes, en los términos establecidos por el artículo 77 Bis 21 de esta Ley, y
+
+V. Cumplir con las obligaciones establecidas en este Título.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 8.
+
+Se considerarán como beneficiarios del Sistema de Protección Social en Salud a las personas a que se refieren los artículos 77 Bis 3 y 77 Bis 4 de esta Ley que satisfagan los requisitos del artículo anterior, previa solicitud de incorporación.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 9.
+
+Para incrementar la calidad de los servicios, la Secretaría de Salud establecerá los requerimientos mínimos que servirán de base para la atención de los beneficiarios del Sistema de Protección Social en Salud. Dichos requerimientos garantizarán que los prestadores de servicios cumplan con las obligaciones impuestas en este Título.
+
+La Secretaría de Salud, los estados y el Distrito Federal, promoverán las acciones necesarias para que las unidades médicas de las dependencias y entidades de la administración pública, tanto federal como local, que se incorporen al Sistema de Protección Social en Salud provean como mínimo los servicios de consulta externa y hospitalización para las especialidades básicas de medicina interna, cirugía general, ginecoobstetricia, pediatría y geriatría, de acuerdo al nivel de atención, y acrediten previamente su calidad.
+
+La acreditación de la calidad de los servicios prestados deberá considerar, al menos, los aspectos siguientes:
+
+I. Prestaciones orientadas a la prevención y el fomento del autocuidado de la salud;
+
+II. Aplicación de exámenes preventivos;
+
+III. Programación de citas para consultas;
+
+IV. Atención personalizada;
+
+V. Integración de expedientes clínicos;
+
+VI. Continuidad de cuidados mediante mecanismos de referencia y contrarreferencia;
+
+VII. Prescripción y surtimiento de medicamentos, y
+
+VIII. Información al usuario sobre diagnóstico y pronóstico, así como del otorgamiento de orientación terapéutica.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 10.
+
+Los Regímenes Estatales de Protección Social en Salud proveerán de manera integral los servicios de salud y los medicamentos asociados, sin exigir cuotas distintas a las establecidas en el Capítulo V de este Título, siempre que los beneficiarios cumplan con sus obligaciones.
+
+Con la finalidad de fortalecer el mantenimiento y desarrollo de infraestructura en salud, los Regímenes Estatales de Protección Social en Salud, a partir de las transferencias que reciban en los términos de este Título, deberán destinar los recursos necesarios para la inversión en infraestructura médica, de conformidad con el plan maestro que para el efecto elabore la Secretaría de Salud.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+
+### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 11.
+
+El Sistema de Protección Social en Salud será financiado de manera solidaria por la Federación, los estados, el Distrito Federal y los beneficiarios en los términos de este Capítulo y el Capítulo V.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 12.
+
+El Gobierno Federal cubrirá anualmente una cuota social por cada familia beneficiaria del Sistema de Protección Social en Salud equivalente a quince por ciento de un salario mínimo general vigente diario para el Distrito Federal. La cantidad resultante se actualizará trimestralmente de acuerdo a la variación del Índice Nacional de Precios al Consumidor.
+
+Esta aportación se hará efectiva a los estados y al Distrito Federal que cumplan con el artículo siguiente.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 13.
+
+Para sustentar el Sistema de Protección Social en Salud, el Gobierno Federal y los gobiernos de los estados y del Distrito Federal efectuarán aportaciones solidarias por familia beneficiaria conforme a los siguientes criterios:
+
+I. La aportación estatal mínima por familia será equivalente a la mitad de la cuota social a que se refiere el artículo anterior, y
+
+II. La aportación solidaria por parte del Gobierno Federal se realizará mediante la distribución del Fondo de Aportaciones para los Servicios de Salud a la Persona de conformidad con la fórmula establecida en las disposiciones reglamentarias de esta Ley. Dicha aportación deberá representar al menos una y media veces el monto de la cuota social que se fija en el artículo anterior.
+
+La fórmula a que hace referencia la fracción II de este artículo incorporará criterios compensatorios con base en el perfil de las necesidades de salud, la aportación económica estatal y el desempeño de los servicios estatales de salud.
+
+La Secretaría de Salud definirá las variables que serán utilizadas para establecer cada uno de los criterios compensatorios y determinará el peso que tendrá cada uno de ellos en la asignación por fórmula. Asimismo, proporcionará la información de las variables utilizadas para el cálculo.
+
+Los términos bajo los cuales se hará efectiva la concurrencia del Gobierno Federal y estatal para cubrir la aportación solidaria se establecerán en los acuerdos de coordinación a que hace referencia el artículo 77 Bis 6 de la Ley.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 72.
 
@@ -840,43 +1010,505 @@ Los padres, tutores o quienes ejerzan la patria potestad de menores, los respons
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
 
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+
+## TITULO TERCERO BIS. De la Protección Social en Salud
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+
+### CAPITULO V. De las Cuotas Familiares
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 4.
+
+La unidad de protección será el núcleo familiar, la cual para efectos de esta Ley se puede integrar de cualquiera de las siguientes maneras:
+
+I. Por los cónyuges;
+
+II. Por la concubina y el concubinario;
+
+III. Por el padre y/o la madre no unidos en vínculo matrimonial o concubinato, y
+
+IV. Por otros supuestos de titulares y sus beneficiarios que el Consejo de Salubridad General determine con base en el grado de dependencia y convivencia que justifiquen su asimilación transitoria o permanente a un núcleo familiar.
+
+Se considerarán integrantes del núcleo familiar a los hijos y adoptados menores de dieciocho años; a los menores de dicha edad que formen parte del hogar y tengan parentesco de consanguinidad con las personas señaladas en las fracciones I a III que anteceden; y a los ascendientes directos en línea recta de éstos, mayores de sesenta y cuatro años, que habiten en la misma vivienda y dependan económicamente de ellos, además de los hijos que tengan hasta veinticinco años, solteros, que prueben ser estudiantes, o bien, discapacitados dependientes.
+
+A las personas de dieciocho años o más se les aplicarán los mismos criterios y políticas que al núcleo familiar.
+
+El núcleo familiar será representado para los efectos de este Título por cualquiera de las personas enunciadas en las fracciones I a III de este artículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 5.
+
+La competencia entre la Federación y las entidades federativas en la ejecución de las acciones de protección social en salud quedará distribuida conforme a lo siguiente:
+
+A) Corresponde al Ejecutivo Federal, por conducto de la Secretaría de Salud:
+
+I. Desarrollar, coordinar, supervisar y establecer las bases para la regulación de los Regímenes Estatales de Protección Social en Salud, para lo cual formulará el plan estratégico de desarrollo del Sistema y aplicará, en su caso, las medidas correctivas que sean necesarias, tomando en consideración la opinión de los estados y el Distrito Federal, a través del Consejo a que se refiere el artículo 77 Bis 33 de esta Ley;
+
+II. Proveer servicios de salud de alta especialidad a través de los establecimientos públicos de carácter federal creados para el efecto;
+
+III. En su función rectora constituir, administrar y verificar el suministro puntual de la previsión presupuestal que permita atender las diferencias imprevistas en la demanda esperada de servicios a que se refiere el artículo 77 Bis 18 y el Fondo de Protección contra Gastos Catastróficos establecido en el artículo 77 Bis 29;
+
+IV. Transferir con puntualidad a los estados y al Distrito Federal las aportaciones que le correspondan para instrumentar los Regímenes Estatales de Protección Social en Salud, en los términos del Capítulo III de este Título;
+
+V. Elaborar el modelo y promover la formalización de los acuerdos de coordinación a que se refiere el artículo 77 Bis 6 de esta Ley;
+
+VI. Establecer el esquema de cuotas familiares que deberán cubrir los beneficiarios del Sistema de Protección Social en Salud, las cuales tendrán un incremento máximo anualizado de acuerdo a la variación del Índice Nacional de Precios al Consumidor;
+
+VII. Diseñar y elaborar los materiales de sensibilización, difusión, promoción y metodología de la capacitación que se utilizarán en la operación del Sistema;
+
+VIII. Definir el marco organizacional del Sistema de Protección Social de Salud en los ámbitos federal, estatal, del Distrito Federal y en su caso, municipal;
+
+IX. Diseñar, desarrollar y suministrar el instrumento para evaluar la capacidad de pago de los beneficiarios para efectos del esquema de cuotas familiares a que se refiere el artículo 77 Bis 21, en los estados y el Distrito Federal;
+
+X. Establecer los lineamientos para la integración y administración del padrón de beneficiarios del Sistema de Protección Social en Salud y validar su correcta integración;
+
+XI. Solicitar al Consejo de Salubridad General el cotejo del padrón de beneficiarios del Sistema de Protección Social en Salud, contra los registros de afiliación de los institutos de seguridad social y otros esquemas públicos y sociales de atención médica;
+
+XII. Establecer la forma y términos de los convenios que suscriban los estados y el Distrito Federal entre sí y con las instituciones públicas del Sistema Nacional de Salud con la finalidad de optimizar la utilización de sus instalaciones y compartir la prestación de servicios;
+
+XIII. A los efectos de intercambiar información y comprobar la situación de aseguramiento, suscribir los convenios oportunos con las entidades públicas de seguridad social;
+
+XIV. Tutelar los derechos de los beneficiarios del Sistema de Protección Social en Salud;
+
+XV. Definir los requerimientos mínimos para la acreditación de los centros públicos prestadores de los servicios inscritos en el Sistema de Protección Social en Salud;
+
+XVI. Definir las bases para la compensación económica entre entidades federativas, el Distrito Federal, instituciones y establecimientos del Sistema Nacional de Salud por concepto de prestación de servicios de salud, y
+
+XVII. Evaluar el desempeño de los Regímenes Estatales de Protección Social en Salud y coadyuvar en la fiscalización de los fondos que los sustenten, incluyendo aquellos destinados al mantenimiento y desarrollo de infraestructura y equipamiento.
+
+B) Corresponde a los gobiernos de los estados y el Distrito Federal, dentro de sus respectivas circunscripciones territoriales:
+
+I. Proveer los servicios de salud en los términos de este Título, disponiendo de la capacidad de insumos y el suministro de medicamentos necesarios para su oferta oportuna y de calidad;
+
+II. Identificar e incorporar beneficiarios al Régimen Estatal de Protección Social en Salud, para lo cual ejercerá actividades de difusión y promoción, así como las correspondientes al proceso de incorporación, incluyendo la integración, administración y actualización del padrón de beneficiarios en su entidad, conforme a los lineamientos establecidos para tal efecto por la Secretaría de Salud;
+
+III. Aplicar de manera transparente y oportuna los recursos que sean transferidos por la Federación y las aportaciones propias, para la ejecución de las acciones de protección social en salud, en función de los acuerdos de coordinación que para el efecto se celebren;
+
+IV. Programar, de los recursos a que se refiere el Capítulo III de este Título, aquellos que sean necesarios para el mantenimiento, desarrollo de infraestructura y equipamiento conforme a las prioridades que se determinen en cada entidad federativa, en congruencia con el plan maestro que se elabore a nivel nacional por la Secretaría de Salud;
+
+V. Recibir, administrar y ejercer las cuotas familiares de los beneficiarios del Régimen Estatal de Protección Social en Salud, así como los demás ingresos que en razón de frecuencia en uso de los servicios o especialidad o para el surtimiento de medicamentos asociados, se impongan de manera adicional en los términos de este Título, de conformidad con el artículo 77 Bis 23 de esta Ley;
+
+VI. Realizar el seguimiento operativo de las acciones del Régimen Estatal de Protección Social en Salud en su entidad y la evaluación de su impacto, proveyendo a la Federación la información que para el efecto le solicite;
+
+VII. Adoptar esquemas de operación que mejoren la atención, modernicen la administración de servicios y registros clínicos, alienten la certificación de su personal y promuevan la certificación de establecimientos de atención médica; para tal efecto podrán celebrar convenios entre sí y con instituciones públicas del Sistema Nacional de Salud con la finalidad de optimizar la utilización de sus instalaciones y compartir la prestación de servicios, en términos de las disposiciones y lineamientos aplicables;
+
+VIII. Proporcionar a la Secretaría de Salud la información relativa al ejercicio de recursos transferidos, así como la correspondiente a los montos y rubros de gasto, y
+
+IX. Promover la participación de los municipios en los Regímenes Estatales de Protección Social en Salud y sus aportaciones económicas mediante la suscripción de convenios, de conformidad con la legislación estatal aplicable.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 6.
+
+El Ejecutivo Federal, por conducto de la Secretaría de Salud, y los gobiernos de los estados y el Distrito Federal celebrarán acuerdos de coordinación para la ejecución del Sistema de Protección Social en Salud. Para esos efectos, la Secretaría de Salud establecerá el modelo nacional a que se sujetarán dichos acuerdos, en los cuales se determinarán, entre otros, los conceptos de gasto, el destino de los recursos, los indicadores de seguimiento a la operación y los términos de la evaluación integral del Sistema.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+
+### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+### CAPITULO VI. Del Fondo de Protección contra Gastos Catastróficos
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 29.
+
+Para efectos de este Título, se considerarán gastos catastróficos a los que se derivan de aquellos tratamientos y medicamentos asociados, definidos por el Consejo de Salubridad General, que satisfagan las necesidades de salud mediante la combinación de intervenciones de tipo preventivo, diagnóstico, terapéutico, paliativo y de rehabilitación, con criterios explícitos de carácter clínico y epidemiológico, seleccionadas con base en su seguridad, eficacia, costo, efectividad, adherencia a normas éticas profesionales y aceptabilidad social, que impliquen un alto costo en virtud de su grado de complejidad o especialidad y el nivel o frecuencia con la que ocurren.
+
+Con el objetivo de apoyar el financiamiento de la atención principalmente de beneficiarios del Sistema de Protección Social en Salud que sufran enfermedades de alto costo de las que provocan gastos catastróficos, se constituirá y administrará por la Federación un fondo de reserva, sin límites de anualidad presupuestal, con reglas de operación definidas por la Secretaría de Salud.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 14.
+
+Cualquier aportación adicional a la establecida en el artículo anterior de los gobiernos de los estados y el Distrito Federal para las acciones de protección social en salud, tendrán que canalizarse directamente a través de las estructuras de los servicios estatales de salud.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 15.
+
+El Gobierno Federal transferirá a los gobiernos de los estados y el Distrito Federal los recursos que por concepto de cuota social y de aportación solidaria le correspondan, con base en los padrones de familias incorporadas, que no gocen de los beneficios de las instituciones de seguridad social, validados por la Secretaría de Salud.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 16.
+
+Los recursos de carácter federal a que se refiere el presente Título, que se transfieran a los estados y al Distrito Federal no serán embargables, ni los gobiernos de los estados podrán, bajo ninguna circunstancia, gravarlos, afectarlos en garantía, ni destinarlos a fines distintos a los expresamente previstos en el mismo.
+
+Dichos recursos se administrarán y ejercerán por los gobiernos de los estados y el Distrito Federal conforme a sus propias leyes y con base en los acuerdos de coordinación que se celebren para el efecto. Los gobiernos de los estados deberán registrar estos recursos como ingresos propios destinados específicamente a los fines establecidos en el presente Título.
+
+El control y supervisión del manejo de los recursos a que se refiere este Capítulo se realizará conforme a los términos establecidos en el Capítulo VII de este Título.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 17.
+
+De la cuota social y de las aportaciones solidarias a que se refieren los artículos 77 Bis 12 y 77 Bis 13, la Secretaría de Salud canalizará anualmente el 8% de dichos recursos al Fondo de Protección contra Gastos Catastróficos establecido en el Capítulo VI de este Título.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 18.
+
+De la cuota social y de las aportaciones solidarias a que se refieren los artículos 77 Bis 12 y 77 Bis 13, la Secretaría de Salud canalizará anualmente el 3% de dichos recursos para la constitución de una previsión presupuestal anual, aplicando dos terceras partes para atender las necesidades de infraestructura para atención primaria y especialidades básicas en los estados con mayor marginación social, y una tercera parte para atender las diferencias imprevistas en la demanda de servicios durante cada ejercicio fiscal, así como la garantía del pago por la prestación interestatal de servicios.
+
+Con cargo a esta previsión presupuestal, que será administrada por la Secretaría de Salud, se realizarán transferencias a los estados conforme a las reglas que fije el Ejecutivo Federal mediante disposiciones reglamentarias.
+
+En caso de que existan remanentes de esta previsión presupuestal al concluir el ejercicio fiscal correspondiente, la Secretaría de Salud canalizará dichos remanentes al Fondo de Protección contra Gastos Catastróficos establecido en el Capítulo VI de este Título.
+
+Al término de cada ejercicio la Secretaría de Salud rendirá al Congreso de la Unión un informe pormenorizado sobre la utilización y aplicación de los recursos del fondo al que se refiere el presente artículo.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 19.
+
+Será causa de responsabilidad administrativa el incumplimiento en tiempo y forma de las obligaciones económicas establecidas en este Capítulo.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+
+### CAPITULO VII. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 20.
+
+El Gobierno Federal establecerá un Fondo de Aportaciones para los Servicios de Salud a la Comunidad, mediante el cual aportará recursos que serán ejercidos por los estados y el Distrito Federal para llevar a cabo las acciones relativas a las funciones de rectoría y la prestación de servicios de salud a la comunidad, conforme a los objetivos estratégicos establecidos en el Plan Nacional de Desarrollo y el Programa Nacional de Salud, y de conformidad con los acuerdos de coordinación que para el efecto se suscriban.
+
+La Secretaría de Salud determinará el monto anual de este fondo así como la distribución del mismo con base en la fórmula establecida para tal efecto en las disposiciones reglamentarias de esta Ley. Dicha fórmula deberá tomar en cuenta la población total de cada estado y un factor de ajuste por necesidades de salud asociadas a riesgos sanitarios y a otros factores relacionados con la prestación de servicios de salud a la comunidad.
+
+La Secretaría de Salud definirá las variables que serán utilizadas en la fórmula de distribución de los recursos del fondo y proporcionará la información utilizada para el cálculo, así como de la utilización de los mismos, al Congreso de la Unión.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+
+### CAPITULO VIII. Del Consejo Nacional de Protección Social en Salud
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 21.
+
+Los beneficiarios del Sistema de Protección Social en Salud participarán en su financiamiento con cuotas familiares que serán anticipadas, anuales y progresivas, que se determinarán con base en las condiciones socioeconómicas de cada familia, las cuales deberán cubrirse en la forma y fechas que determine la Secretaría de Salud, salvo cuando exista la incapacidad de la familia a cubrir la cuota, lo cual no le impedirá incorporarse y ser sujeto de los beneficios que se deriven del Sistema de Protección Social en Salud.
+
+Las disposiciones reglamentarias establecerán los lineamientos para los casos en que por las características socioeconómicas de los beneficiarios éstos no aportarán cuotas familiares.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 22.
+
+Las cuotas familiares se recibirán, administrarán y aplicarán conforme a las disposiciones de esta Ley y serán destinadas específicamente al abasto de medicamentos, equipo y otros insumos para la salud que sean necesarios para el Sistema de Protección Social en Salud.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 23.
+
+Las cuotas familiares y reguladoras, que en su caso se establezcan, serán recibidas, administradas y ejercidas por los Servicios Estatales de Salud, a través de los Regímenes Estatales de Protección Social en Salud, conforme a lo dispuesto por el artículo 77 Bis 22.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 24.
+
+Los Regímenes Estatales de Protección Social en Salud deberán presentar a la Secretaría de Salud, conforme a los lineamientos que la misma establezca, los informes que sean necesarios respecto del destino y manejo de las cuotas familiares.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 25.
+
+Para la determinación de las cuotas familiares se tomarán en cuenta las condiciones socioeconómicas de los beneficiarios, mediante la aplicación de un instrumento estandarizado fijado a nivel nacional por la Secretaría de Salud, el cual permitirá ubicarlos en el estrato adecuado.
+
+Los niveles de las cuotas familiares podrán ser revisados anualmente tomando como base la variación del Índice Nacional de Precios al Consumidor.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 26.
+
+El nivel de ingreso o la carencia de éste, no podrán ser limitantes para el acceso al Sistema de Protección Social en Salud.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 27.
+
+Bajo el principio de solidaridad social, las cuotas familiares no serán objeto de devolución bajo ninguna circunstancia, ni podrán aplicarse a años subsecuentes en el caso de suspensión temporal de los beneficios de la protección social en salud.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 28.
+
+Con el objeto de favorecer el uso responsable de los servicios de salud, el Consejo de Salubridad General podrá establecer, mediante reglas de carácter general, un esquema de cuotas reguladoras para algunos servicios en razón de la frecuencia en su uso o especialidad o para el surtimiento de medicamentos asociados. En dichas reglas deberá considerarse la posibilidad de que aquellos beneficiarios cuya condición socioeconómica así lo justifique, no cubran las cuotas a que se refiere este artículo.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+
+### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 30.
+
+Con el objetivo de fortalecer la infraestructura médica de alta especialidad y su acceso o disponibilidad regional, la Secretaría de Salud, mediante un estudio técnico, determinará aquellas unidades médicas de las dependencias y entidades de la administración pública, tanto federal como local, que por sus características y ubicación puedan convertirse en centros regionales de alta especialidad o la construcción con recursos públicos de nueva infraestructura con el mismo propósito, que provean sus servicios en las zonas que determine la propia dependencia.
+
+Para la determinación a que se refiere el párrafo anterior, la Secretaría de Salud tomará en cuenta los patrones observados de referencia y contrarreferencia, así como la información que sobre las necesidades de atención de alta especialidad le reporten de manera anual los Regímenes Estatales de Protección Social en Salud o a través de los sistemas de información básica que otorguen los servicios estatales de salud.
+
+Los centros regionales recibirán recursos del fondo a que se refiere este Capítulo de conformidad con los lineamientos que establezca la Secretaría de Salud, en las que se incluirán pautas para operar un sistema de compensación y los elementos necesarios que permitan precisar la forma de sufragar las intervenciones que provean los centros regionales.
+
+Con la finalidad de racionalizar la inversión en infraestructura de instalaciones médicas de alta especialidad y garantizar la disponibilidad de recursos para la operación sustentable de los servicios, la Secretaría de Salud emitirá un plan maestro al cual se sujetarán los servicios estatales de salud y los Regímenes Estatales de Protección Social en Salud.
+
+No se considerarán elegibles para la participación en los recursos del fondo que se establezca en los términos del presente Capítulo las instalaciones médicas de alta especialidad que no cuenten con el certificado que para el efecto expida la Secretaría de Salud, en congruencia con el plan maestro a que se refiere el párrafo anterior.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+
+### CAPITULO X. Causas de Suspensión y Cancelación al Sistema de Protección Social en Salud
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 31.
+
+Considerando el financiamiento solidario del Sistema de Protección Social en Salud, la Federación, los estados y el Distrito Federal, en el ámbito de sus respectivas competencias, dispondrán lo necesario para transparentar su gestión de conformidad con las normas aplicables en materia de acceso y transparencia a la información pública gubernamental.
+
+Para estos efectos, tanto la Federación como los Regímenes Estatales de Protección Social en Salud, a través de los servicios estatales de salud, difundirán toda la información que tengan disponible respecto de universos, coberturas, servicios ofrecidos, así como del manejo financiero del Sistema de Protección Social en Salud, entre otros aspectos, con la finalidad de favorecer la rendición de cuentas a los ciudadanos, de manera que puedan valorar el desempeño del Sistema.
+
+Asimismo, los Regímenes Estatales de Protección Social en Salud dispondrán lo necesario para recibir y evaluar las propuestas que le formulen los beneficiarios respecto de los recursos que éstos aporten y tendrán la obligación de difundir, con toda oportunidad, la información que sea necesaria respecto del manejo de los recursos correspondientes.
+
+La Secretaría de Salud presentará al Congreso de la Unión un informe semestral pormenorizado de las acciones que se desarrollen con base en este artículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 32.
+
+El control y supervisión del manejo de los recursos federales a que se refiere este Título quedará a cargo de las autoridades siguientes, en las etapas que se indican:
+
+I. Desde el inicio del proceso de presupuestación, en términos de la legislación presupuestaria federal y hasta la entrega de los recursos correspondientes a los estados y al Distrito Federal, corresponderá a la Secretaría de la Función Pública;
+
+II. Recibidos los recursos federales por los estados y el Distrito Federal, hasta su erogación total, corresponderá a las autoridades de control y supervisión interna de los gobiernos de los estados.
+
+La supervisión y vigilancia no podrán implicar limitaciones, ni restricciones, de cualquier índole, en la administración y ejercicio de dichos recursos;
+
+III. La fiscalización de las cuentas públicas de los estados y el Distrito Federal, será efectuada por el Congreso Local que corresponda, por conducto de su órgano de fiscalización conforme a sus propias leyes, a fin de verificar que las dependencias y entidades del Ejecutivo Local aplicaron dichos recursos para los fines previstos en esta Ley, y
+
+IV. La Auditoría Superior de la Federación al fiscalizar la Cuenta Pública Federal, verificará que las dependencias del Ejecutivo Federal cumplieron con las disposiciones legales y administrativas federales, y por lo que hace a la ejecución de los recursos a que se refiere este Título, la misma se realizará en términos de la Ley de Fiscalización Superior de la Federación.
+
+Cuando las autoridades estatales que en el ejercicio de sus atribuciones de control y supervisión conozcan que los recursos federales señalados no han sido aplicados a los fines que señala la Ley, deberán hacerlo del conocimiento de la Secretaría de la Función Pública en forma inmediata.
+
+Por su parte, cuando el órgano de fiscalización de un Congreso Local detecte que los recursos federales señalados no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento inmediato de la Auditoría Superior de la Federación.
+
+Las responsabilidades administrativas, civiles y penales que deriven de afectaciones a la Hacienda Pública Federal, a las aportaciones estatales y del núcleo familiar en que, en su caso, incurran las autoridades locales exclusivamente por motivo de la desviación de los recursos para fines distintos a los previstos en esta Ley, serán sancionadas en los términos de la legislación federal, por las autoridades federales, en tanto que en los demás casos dichas responsabilidades serán sancionadas y aplicadas por las autoridades locales con base en sus propias leyes.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+
+### CAPITULO I. Profesionales, Técnicos y Auxiliares
+
+###### ARTICULO 77 Bis 33.
+
+Se constituye el Consejo Nacional de Protección Social en Salud como órgano colegiado consultivo de las acciones del Sistema de Protección Social en Salud.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 34.
+
+El Consejo Nacional de Protección Social en Salud estará integrado por los titulares de la (sic) Secretarías de Salud, quien lo presidirá y tendrá voto de calidad, de Desarrollo Social y de Hacienda y Crédito Público; por los titulares del Instituto Mexicano del Seguro Social y del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; por el Secretario del Consejo de Salubridad General; y por los titulares de los servicios estatales de salud de cinco entidades federativas, participantes en el Sistema de Protección Social en Salud y que representen a las distintas regiones del país, a invitación del Secretario de Salud, cuya participación se rotará conforme lo disponga el reglamento de operación de este Consejo. Asimismo, se invitará a las sesiones del Consejo a un representante del Sindicato Nacional de los Trabajadores de la Secretaría de Salud.
+
+El Consejo Nacional de Protección Social en Salud ejercerá las atribuciones que le otorgue su reglamento interior, que será expedido por el Titular del Ejecutivo Federal, en el cual establecerá, asimismo, las reglas para su organización y funcionamiento.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 35.
+
+El Sistema de Protección Social en Salud contará con una Comisión Nacional, como órgano desconcentrado de la Secretaría de Salud, con la estructura y funciones que le asigne su reglamento interno. El titular de la Comisión Nacional será designado por el Presidente de la República a propuesta del Secretario de Salud tras haber recogido las opiniones de los miembros del Consejo a que se refiere este Capítulo, que dispondrá para su operación de los recursos que le asigne la Federación.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+
+### CAPITULO II. Servicio Social de Pasantes y Profesionales
+
+###### ARTICULO 77 Bis 36.
+
+Los beneficiarios del Sistema de Protección Social en Salud tienen derecho a recibir bajo ningún tipo de discriminación los servicios de salud, los medicamentos y los insumos esenciales requeridos para el diagnóstico y tratamiento de los padecimientos, en las unidades médicas de la administración pública, tanto federal como local, acreditados de su elección de los Regímenes Estatales de Protección Social en Salud.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 37.
+
+Los beneficiarios del Sistema de Protección Social en Salud tendrán además de los derechos establecidos en el artículo anterior, los siguientes:
+
+I. Recibir servicios integrales de salud;
+
+II. Acceso igualitario a la atención;
+
+III. Trato digno, respetuoso y atención de calidad;
+
+IV. Recibir los medicamentos que sean necesarios y que correspondan a los servicios de salud;
+
+V. Recibir información suficiente, clara, oportuna y veraz, así como la orientación que sea necesaria respecto de la atención de su salud y sobre los riesgos y alternativas de los procedimientos diagnósticos, terapéuticos y quirúrgicos que se le indiquen o apliquen;
+
+VI. Conocer el informe anual de gestión del Sistema de Protección Social en Salud;
+
+VII. Contar con su expediente clínico;
+
+VIII. Decidir libremente sobre su atención;
+
+IX. Otorgar o no su consentimiento válidamente informado y a rechazar tratamientos o procedimientos;
+
+X. Ser tratado con confidencialidad;
+
+XI. Contar con facilidades para obtener una segunda opinión;
+
+XII. Recibir atención médica en urgencias;
+
+XIII. Recibir información sobre los procedimientos que rigen el funcionamiento de los establecimientos para el acceso y obtención de servicios de atención médica;
+
+XIV. No cubrir cuotas de recuperación específicas por cada servicio que reciban;
+
+XV. Presentar quejas ante los Regímenes Estatales de Protección Social en Salud o ante los servicios estatales de salud, por la falta o inadecuada prestación de servicios establecidos en este Título, así como recibir información acerca de los procedimientos, plazos y formas en que se atenderán las quejas y consultas, y
+
+XVI. Ser atendido cuando se inconforme por la atención médica recibida.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 38.
+
+Los beneficiarios del Sistema de Protección Social en Salud tendrán las siguientes obligaciones:
+
+I. Adoptar conductas de promoción de la salud y prevención de enfermedades;
+
+II. Hacer uso de la credencial que los acredite como beneficiarios como documento de naturaleza personal e intransferible y presentarla siempre que se requieran servicios de salud;
+
+III. Informarse sobre los procedimientos que rigen el funcionamiento de los establecimientos para el acceso y servicios de atención médica;
+
+IV. Colaborar con el equipo de salud, informando verazmente y con exactitud sobre sus antecedentes, necesidades y problemas de salud;
+
+V. Cumplir las recomendaciones, prescripciones, tratamiento o procedimiento general al que haya aceptado someterse;
+
+VI. Informarse acerca de los riesgos y alternativas de los procedimientos terapéuticos y quirúrgicos que se le indiquen o apliquen, así como de los procedimientos de consultas y quejas;
+
+VII. Cubrir oportunamente las cuotas familiares y reguladoras que, en su caso, se le fijen;
+
+VIII. Dar un trato respetuoso al personal médico, auxiliar y administrativo de los servicios de salud, así como a los otros usuarios y sus acompañantes;
+
+IX. Cuidar las instalaciones de los establecimientos de salud y colaborar en su mantenimiento;
+
+X. Hacer uso responsable de los servicios de salud, y
+
+XI. Proporcionar de manera fidedigna la información necesaria para documentar su incorporación al Sistema de Protección Social en Salud y para la definición del monto a pagar por concepto de cuota familiar.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+
+### CAPITULO III. Formación, Capacitación y Actualización del Personal
+
+###### ARTICULO 77 Bis 39.
+
+La cobertura de protección social en salud será suspendida de manera temporal a cualquier familia beneficiaria en los siguientes casos:
+
+I. Cuando no cubra las cuotas familiar o reguladora en la forma y fechas que determine la instancia competente, en su caso, y
+
+II. Cuando el principal sostén de la familia beneficiaria se incorpore a alguna institución de seguridad social federal o estatal.
+
+La cuota familiar amparará a los beneficiarios en el caso de que suceda la suspensión y la reincorporación a los beneficios del Sistema de Protección Social en Salud en un mismo ejercicio presupuestal.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 40.
+
+Se cancelarán los beneficios de la protección social en salud y la posibilidad de reincorporación, cuando cualquier miembro de la familia beneficiaria:
+
+I. Realice acciones en perjuicio de los propósitos que persiguen el Sistema de Protección Social en Salud o afecte los intereses de terceros;
+
+II. Haga mal uso de la identificación que se le haya expedido como beneficiario, y
+
+III. Proporcione información falsa sobre su nivel de ingreso en el estudio socioeconómico para determinar su cuota familiar y sobre su condición laboral o derechohabiencia de la seguridad social.
+
+En la aplicación de este artículo la Secretaría de Salud tomará como base la Ley Federal de Procedimiento Administrativo y demás disposiciones aplicables.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
+###### ARTICULO 77 Bis 41.
+
+En los casos en que se materialicen los supuestos a que se refiere este Capítulo, los interesados conservarán los beneficios del Sistema de Protección Social en Salud hasta por un plazo de sesenta días naturales a partir de la fecha de la suspensión o cancelación. Habiendo transcurrido este plazo, podrán acceder a los servicios de salud disponibles en los términos y condiciones que establece esta Ley.
+
+### CAPITULO UNICO
+
 ## TITULO CUARTO. Recursos Humanos para los Servicios de Salud
 
 ### CAPITULO UNICO
 
-### CAPITULO UNICO
-
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-### CAPITULO I. Disposiciones comunes
-
-### CAPITULO II. Educación para la salud
-
-### CAPITULO III. Nutrición
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-### CAPITULO IV. Efectos del ambiente en la salud
-
-### CAPITULO V. Salud ocupacional
-
-### CAPITULO I. Disposiciones comunes
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-### CAPITULO II. Enfermedades transmisibles
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-### CAPITULO III. Enfermedades no transmisibles
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-### CAPITULO IV. Accidentes
-
-## TITULO QUINTO. Investigación para la Salud
-
-### CAPITULO UNICO
 
 ###### ARTICULO 78.
 
@@ -918,9 +1550,7 @@ Las autoridades educativas competentes proporcionarán a las autoridades sanitar
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este Capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen a su respecto.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO I. Disposiciones comunes
 
 ###### ARTICULO 84.
 
@@ -946,9 +1576,7 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 
 La Secretaría de Salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-### CAPITULO I. Consejo Nacional Contra las Adicciones
-
-> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO II. Educación para la salud
 
 ###### ARTICULO 89.
 
@@ -1004,11 +1632,11 @@ Los aspectos docentes del internado de pregrado y de las residencias de especial
 
 La operación de los programas correspondientes en los establecimientos de salud, se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias competentes.
 
-## TITULO SEXTO. Información para la Salud
+## TITULO QUINTO. Investigación para la Salud
 
-### CAPITULO II. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+### CAPITULO III. Nutrición
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 96.
 
@@ -1086,17 +1714,13 @@ V.- Carta de aceptación de la institución donde se efectúe la investigación 
 
 En el tratamiento de una persona enferma, el médico podrá utilizar nuevos recursos terapéuticos o de diagnóstico, cuando exista posibilidad fundada de salvar la vida, restablecer la salud o disminuir el sufrimiento del paciente, siempre que cuente con el consentimiento por escrito de éste, de su representante legal, en su caso, o del familiar más cercano en vínculo, y sin perjuicio de cumplir con los demás requisitos que determine esta Ley y otras disposiciones aplicables.
 
+## TITULO SEXTO. Información para la Salud
+
+### CAPITULO IV. Efectos del ambiente en la salud
+
 ## TITULO SEPTIMO. Promoción de la Salud
 
-### CAPITULO III. Programa Contra el Tabaquismo
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-## TITULO OCTAVO. Prevención y Control de Enfermedades y Accidentes
-
-### CAPITULO IV. Programa Contra la Farmacodependencia
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO V. Salud ocupacional
 
 ###### ARTICULO 104.
 
@@ -1140,11 +1764,11 @@ La Secretaría de Salud orientará la captación, producción, procesamiento, si
 
 La Secretaría de Salud proporcionará a la Secretaría de Programación y Presupuesto los datos que integren las estadísticas nacionales para la salud que elabore, para su incorporación al Sistema Nacional Estadístico, y formará parte de las instancias de participación y consulta que para esos fines se instituyan.
 
-## TITULO NOVENO. Asistencia Social, Prevención de Invalidez y Rehabilitación de Inválidos
+## TITULO OCTAVO. Prevención y Control de Enfermedades y Accidentes
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO I. Disposiciones comunes
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 110.
 
@@ -1170,7 +1794,9 @@ IV.- Salud ocupacional, y
 
 V.- Fomento sanitario.
 
-### CAPITULO II. Alimentos y Bebidas no Alcohólicas
+### CAPITULO II. Enfermedades transmisibles
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 112.
 
@@ -1188,9 +1814,9 @@ III.- Orientar y capacitar a la población preferentemente en materia de nutrici
 
 La Secretaría de Salud, en coordinación con la Secretaría de Educación Pública y los gobiernos de las entidades federativas, y con la colaboración de las dependencias y entidades del sector salud, formulará, propondrá y desarrollará programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población.
 
-### CAPITULO III. Bebidas Alcohólicas
+### CAPITULO III. Enfermedades no transmisibles
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 114.
 
@@ -1222,7 +1848,7 @@ VII.- Establecer las necesidades nutritivas que deban satisfacer los cuadros bá
 
 VIII.- Proporcionar a la Secretaría de Comercio y Fomento Industrial los elementos técnicos en materia nutricional, para los efectos de la expedición de las normas oficiales mexicanas.
 
-### CAPITULO IV. Medicamentos
+### CAPITULO IV. Accidentes
 
 ###### ARTICULO 116.
 
@@ -1338,9 +1964,7 @@ La Secretaría de Salud y las autoridades federales, estatales y municipales en 
 
 Sin perjuicio de lo que establecen la Ley Federal del Trabajo y sus reglamentos, en relación con labores peligrosas e insalubres, el cuerpo humano sólo podrá ser expuesto a radiaciones dentro de los máximos permisibles que establezca la Secretaría de Salud, incluyendo sus aplicaciones para la investigación médica y de diagnóstico y terapéutica.
 
-### CAPITULO V. Estupefacientes
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 128.
 
@@ -1380,11 +2004,11 @@ La Secretaría de Salud llevará a cabo programas tendientes a prevenir accident
 
 Para los efectos de esta ley se consideran bajo la denominación de establecimientos, los locales y sus instalaciones, dependencias y anexos, estén cubiertos o descubiertos, sean fijos o móviles, sean de producción, transformación, almacenamiento, distribución de bienes o prestación de servicios, en los que se desarrolle una actividad ocupacional.
 
-## TITULO DECIMO. Acción Extraordinaria en Materia de Salubridad General
+## TITULO NOVENO. Asistencia Social, Prevención de Invalidez y Rehabilitación de Inválidos
 
-### CAPITULO VI. Substancias psicotrópicas
+### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 133.
 
@@ -1400,9 +2024,9 @@ III.- Realizar los programas y actividades que estime necesario para la prevenci
 
 IV.- Promover la colaboración de las instituciones de los sectores público, social y privado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, para el óptimo desarrollo de los programas y actividades a que se refieren las fracciones II y III.
 
-### CAPITULO VII. Establecimientos Destinados al Proceso de Medicamentos
+### CAPITULO I. Consejo Nacional Contra las Adicciones
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 134.
 
@@ -1594,11 +2218,13 @@ III.- Vehículo de enfermedades transmisibles al hombre, a través de sus produc
 
 Se prohibe la introducción o el transporte por el territorio nacional de animales que padezcan una enfermedad transmisible al hombre, de cadáveres de aquéllos, así como el comercio con sus productos. Asimismo, se prohibe la introducción o el transporte de animales que provengan de áreas que la autoridad sanitaria considere infectadas.
 
-### CAPITULO VIII
+### CAPITULO II. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
 
-Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
-### CAPITULO IX. Productos de Perfumería y Belleza
+### CAPITULO III. Programa Contra el Tabaquismo
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 158.
 
@@ -1628,9 +2254,13 @@ La Secretaría de Salud coordinará sus actividades con otras dependencias y ent
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO X. Productos de Aseo
+### CAPITULO IV. Programa Contra la Farmacodependencia
 
-### CAPITULO XI. Tabaco
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+### CAPITULO I. Disposiciones Comunes
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 162.
 
@@ -1672,33 +2302,27 @@ La Secretaría de Salud dictará, en el ámbito de su competencia, y sin perjuic
 
 Los servicios de salud que proporcionen las instituciones de seguridad social con motivo de riesgos de trabajo, se regirán por sus propias leyes y las demás disposiciones legales aplicables y se ajustarán a las normas oficiales mexicanas en materia de salud. En este caso, las autoridades sanitarias propiciarán con dichas instituciones la coordinación de acciones en materia de higiene y prevención de accidentes.
 
+## TITULO DECIMO. Acción Extraordinaria en Materia de Salubridad General
+
+### CAPITULO II. Alimentos y Bebidas no Alcohólicas
+
+### CAPITULO III. Bebidas Alcohólicas
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+### CAPITULO IV. Medicamentos
+
+### CAPITULO V. Estupefacientes
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
+
 ## TITULO DECIMO PRIMERO. Programas Contra las Adicciones
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 27 DE MAYO DE 1987)</small>
 
-### CAPITULO XII. Plaguicidas, nutrientes vegetales y
+### CAPITULO VI. Substancias psicotrópicas
 
-substancias tóxicas o peligrosas
-
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
-
-### CAPITULO XII BIS. Productos biotecnológicos
-
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
-
-### CAPITULO XIII. Importación y exportación
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-## TITULO DECIMO SEGUNDO. Control Sanitario de Productos y Servicios y de su Importación y Exportación
-
-### CAPITULO I. Disposiciones comunes
-
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 167.
 
@@ -1800,11 +2424,11 @@ Las autoridades sanitarias y las educativas, en el ámbito de sus respectivas co
 
 La Secretaría de Salud y los gobiernos de las entidades federativas, en coordinación con otras instituciones públicas, promoverán que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas inválidas.
 
-## TITULO DECIMO TERCERO. Publicidad
+## TITULO DECIMO SEGUNDO. Control Sanitario de Productos y Servicios y de su Importación y Exportación
 
-### CAPITULO II. Donación
+### CAPITULO VII. Establecimientos Destinados al Proceso de Medicamentos
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 181.
 
@@ -1838,11 +2462,11 @@ IV.- Utilizar libre y prioritariamente los servicios telefónicos, telegráficos
 
 V.- Las demás que determine la propia Secretaría.
 
-## TITULO DECIMO QUINTO. Sanidad Internacional
+## TITULO DECIMO TERCERO. Publicidad
 
-### CAPITULO III. Trasplantes
+### CAPITULO VIII
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos
 
 ###### ARTICULO 184 Bis.
 
@@ -1850,9 +2474,7 @@ Se crea el Consejo Nacional Contra las Adicciones, que tendrá por objeto promov
 
 La organización y funcionamiento del Consejo se regirán por las disposiciones que expida el Ejecutivo Federal.
 
-### CAPITULO IV. Pérdida de la vida
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+### CAPITULO IX. Productos de Perfumería y Belleza
 
 ###### ARTICULO 185.
 
@@ -1882,13 +2504,9 @@ IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social,
 
 En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará las acciones que se desarrollen contra el alcoholismo y el abuso de bebidas alcohólicas. La coordinación en la adopción de medidas, en los ámbitos federal y local, se llevará a cabo a través de los acuerdos de coordinación que celebre la Secretaría de Salud con los gobiernos de las entidades federativas.
 
-### CAPITULO V. Cadáveres
+### CAPITULO X. Productos de Aseo
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
-
-### CAPITULO I. Disposiciones comunes
-
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+### CAPITULO XI. Tabaco
 
 ###### ARTICULO 188.
 
@@ -1916,7 +2534,11 @@ En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará l
 
 La coordinación en la adopción de medidas en los ámbitos federal y local se llevará a cabo a través de los acuerdos de coordinación que celebre la Secretaría de Salud con los gobiernos de las entidades federativas.
 
-### CAPITULO II. Sanidad en Materia de Migración
+### CAPITULO XII. Plaguicidas, nutrientes vegetales y
+
+substancias tóxicas o peligrosas
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 191.
 
@@ -1938,9 +2560,11 @@ La Secretaría de Salud elaborará un programa nacional contra la farmacodepende
 
 Los profesionales de la salud, al prescribir medicamentos que contengan substancias que puedan producir dependencia, se atendrán a lo previsto en los Capítulos V y VI del Título Decimosegundo de esta Ley, en lo relativo a prescripción de estupefacientes y substancias psicotrópicas.
 
-## TITULO DECIMO SEXTO. Autorizaciones y certificados
+## TITULO DECIMO QUINTO. Sanidad Internacional
 
-### CAPITULO III. Sanidad marítima, aérea y terrestre
+### CAPITULO XII BIS. Productos biotecnológicos
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 194.
 
@@ -2158,7 +2782,9 @@ Los envases y embalajes de los productos a que se refiere este título deberán 
 
 La Secretaría de Salud publicará en el Diario Oficial de la Federación las normas oficiales mexicanas que expida y, en caso necesario, las resoluciones sobre otorgamiento y revocación de autorizaciones sanitarias de medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan, equipos médicos, plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas, así como de las materias primas que se utilicen en su elaboración.
 
-### CAPITULO I. Autorizaciones
+### CAPITULO XIII. Importación y exportación
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 215.
 
@@ -2190,7 +2816,9 @@ La Secretaría de Salud, con base en la composición de los alimentos y bebidas,
 
 Los alimentos o bebidas que se pretendan expender o suministrar al público en presentaciones que sugieran al consumidor que se trate de productos o substancias con características o propiedades terapéuticas, deberán en las etiquetas de los empaques o envases incluir la siguiente leyenda: “Este producto no es un medicamento”, escrito con letra fácilmente legible y en colores contrastantes.
 
-### CAPITULO II. Revocación de autorizaciones sanitarias
+### CAPITULO UNICO
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 217.
 
@@ -2214,7 +2842,9 @@ La Secretaría de Salud, en su caso, publicará en el Diario Oficial de la Feder
 
 En ningún caso y de ninguna forma se podrán expender o suministrar bebidas alcohólicas a menores de edad.
 
-### CAPITULO III. Certificados
+### CAPITULO I. Disposiciones comunes
+
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 221.
 
@@ -2376,9 +3006,9 @@ Los medicamentos de origen biológico de acción inmunológica ostentarán en su
 
 Quedan prohibidos la venta y suministro de medicamentos con fecha de caducidad vencida.
 
-### CAPITULO UNICO
+### CAPITULO II. Donación
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 234.
 
@@ -2490,9 +3120,9 @@ Los citados establecimientos recogerán invariablemente las recetas o permisos, 
 
 Los preparados que contengan acetildihidrocodeína, codeína, destropropoxifeno, dihidrocodeína, etilmorfina, folcodina, nicocodina, corcodeína y propiram, que formen parte de la composición de especialidades farmacéuticas, estarán sujetos, para los fines de su preparación, prescripción y venta o suministro al público, a los requisitos que sobre su formulación establezca la Secretaría de Salud.
 
-### CAPITULO I. Medidas de Seguridad Sanitaria
+### CAPITULO III. Trasplantes
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 244.
 
@@ -2976,7 +3606,9 @@ Los medicamentos que tengan incorporadas substancias psicotrópicas que puedan c
 
 Los envases y empaques de las substancias psicotrópicas, para su expendio llevarán etiquetas que, además de los requisitos que determina el artículo 210 de esta Ley, ostenten los que establezcan las disposiciones aplicables a la materia de este Capítulo.
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO IV. Pérdida de la vida
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 257.
 
@@ -3044,7 +3676,9 @@ VI.- En los establecimientos señalados en la fracción XII, el Consejo de Salub
 
 En los casos en que resulten afectadas, por acción u omisión, la identidad, pureza, conservación, preparación, dosificación o manufactura de los productos, el responsable del establecimiento y el propietario del mismo responderán solidariamente de las sanciones que correspondan en los términos que señalen esta Ley y demás disposiciones legales aplicables.
 
-### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO V. Cadáveres
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 262.
 
@@ -3104,7 +3738,9 @@ Los insumos para la salud comprendidos en el artículo 262 de esta ley no podrá
 
 El proceso de los materiales quirúrgicos, de curación y productos higiénicos, quedará sujeto, en lo conducente, a las disposiciones del Capítulo IV de este Título.
 
-### CAPITULO IV. Recurso de inconformidad
+### CAPITULO I. Disposiciones comunes
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 269.
 
@@ -3130,11 +3766,9 @@ Los productos para adelgazar o engrosar partes del cuerpo o variar las proporcio
 
 En las etiquetas de los envases y empaques en los que se presenten los productos a que se refiere este Capítulo, además de lo establecido en el artículo 210 de esta Ley, en lo conducente, figurarán las leyendas que determinen las disposiciones aplicables.
 
-### CAPITULO V. Prescripción
+### CAPITULO II. Sanidad en Materia de Migración
 
-### CAPITULO VI. Delitos
-
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+### CAPITULO III. Sanidad marítima, aérea y terrestre
 
 ###### ARTICULO 273.
 
@@ -3165,6 +3799,8 @@ IX.- Los demás de naturaleza análoga que determine la Secretaría de Salud.
 ###### ARTICULO 274.
 
 En las etiquetas de los envases y empaques en los que se presenten los productos a que se refiere el artículo anterior, además de lo establecido en el artículo 210 de esta Ley, en lo conducente, figurarán las leyendas que determinen las disposiciones aplicables.
+
+### CAPITULO I. Autorizaciones
 
 ###### ARTICULO 275.
 
@@ -3209,6 +3845,8 @@ En ningún caso y de ninguna forma se podrá expender o suministrar tabaco a men
 Las unidades hospitalarias y clínicas del Sistema Nacional de Salud, deberán contar con áreas en donde se prohiba el consumo de tabaco. Se consideran como tales las de atención médica, auditorios, aulas y zonas de peligro para la seguridad laboral y colectiva, así como los sitios de trabajo de ambiente cerrado.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE MAYO DE 1997)</small>
+
+### CAPITULO II. Revocación de autorizaciones sanitarias
 
 ###### ARTICULO 278.
 
@@ -3270,6 +3908,8 @@ El control sanitario de las substancias a que se refiere el artículo 278, se aj
 
 D.O.F. 7 DE MAYO DE 1997)
 
+### CAPITULO III. Certificados
+
 ###### ARTICULO 282 Bis.
 
 Para los efectos de esta Ley, se consideran productos biotecnológicos, aquellos alimentos, ingredientes, aditivos, materias primas, insumos para la salud, plaguicidas, sustancias tóxicas o peligrosas, y sus desechos, en cuyo proceso intervengan organismos vivos o parte de ellos, modificados por técnica tradicional o ingeniería genética.
@@ -3285,6 +3925,14 @@ Se deberá notificar a la Secretaría de Salud, de todos aquellos productos biot
 ###### ARTICULO 282 Bis 2.
 
 Las disposiciones y especificaciones relacionadas con el proceso, características y etiquetas de los productos objeto de este capítulo, se establecerán en las normas oficiales mexicanas correspondientes.
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+### CAPITULO I. Medidas de Seguridad Sanitaria
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 283.
 
@@ -3424,7 +4072,9 @@ La Secretaría de Salud, mediante acuerdo que publicará en el Diario Oficial de
 
 Cuando se autorice la importación de las substancias mencionadas en el artículo anterior, corresponde a la Secretaría de Salud vigilar y controlar las actividades que con ellas se efectúen, en los términos de las disposiciones aplicables.
 
-## TITULO DECIMO SEPTIMO. Vigilancia Sanitaria
+## TITULO DECIMO SEXTO. Autorizaciones y certificados
+
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 300.
 
@@ -3584,6 +4234,8 @@ TITULO DECIMOCUARTO
 
 Donación, trasplantes y pérdida de la vida
 
+### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
+
 ###### ARTICULO 313.
 
 Compete a la Secretaría de Salud:
@@ -3672,6 +4324,8 @@ Se considerará disposición ilícita de órganos, tejidos, células y cadávere
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE MAYO DE 2000)</small>
 
+### CAPITULO IV. Recurso de inconformidad
+
 ###### ARTICULO 320.
 
 Toda persona es disponente de su cuerpo y podrá donarlo, total o parcialmente, para los fines y con los requisitos previstos en el presente Título.
@@ -3749,6 +4403,8 @@ Sólo en caso de que la pérdida de la vida del donante esté relacionada con la
 El Centro Nacional de Trasplantes hará constar el mérito y altruismo del donador y de su familia, mediante la expedición del testimonio correspondiente que los reconozca como benefactores de la sociedad.
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+### CAPITULO V. Prescripción
 
 ###### ARTICULO 330.
 
@@ -3857,6 +4513,10 @@ El Centro Nacional de Trasplantes, cuya integración y funcionamiento quedará e
 Los centros estatales proporcionarán al Registro Nacional de Trasplantes la información correspondiente a su entidad, y su actualización, en los términos de los acuerdos de coordinación respectivos.
 
 > <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+### CAPITULO VI. Delitos
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 340.
 
@@ -4014,7 +4674,7 @@ Sólo podrá darse destino final a un feto previa expedición del certificado de
 
 Los establecimientos en los que se realicen actos relacionados con cadáveres de seres humanos deberán presentar el aviso correspondiente a la Secretaría de Salud en los términos de esta Ley y demás disposiciones generales aplicables, y contarán con un responsable sanitario que también deberá presentar aviso.
 
-## TITULO DECIMO OCTAVO. Medidas de Seguridad, Sanciones y Delitos
+## TITULO DECIMO SEPTIMO. Vigilancia Sanitaria
 
 ###### ARTICULO 351.
 
@@ -4116,6 +4776,8 @@ La Secretaría de Salud determinará el tipo de servicio médico, medicamentos, 
 
 Las embarcaciones y aeronaves procedentes del extranjero con destino al territorio nacional, así como las que partan del territorio nacional al extranjero, deberán estar provistas de la documentación sanitaria exigida por los tratados y convenciones internacionales a que se refiere el artículo 351 de esta Ley y demás disposiciones generales aplicables.
 
+## TITULO DECIMO OCTAVO. Medidas de Seguridad, Sanciones y Delitos
+
 ###### ARTICULO 368.
 
 La autorización sanitaria es el acto administrativo mediante el cual la autoridad sanitaria competente permite a una persona pública o privada, la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine esta Ley y demás disposiciones generales aplicables.
@@ -4204,13 +4866,11 @@ X.- Las modificaciones a las instalaciones de establecimientos que manejan subst
 
 Los permisos a que se refiere este artículo sólo podrán ser expedidos por la Secretaría de Salud, con excepción de los casos previstos en las fracciones II y V en lo relativo al embalsamamiento.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 376.
 
 Requieren registro sanitario los medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan; equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos y de curación y productos higiénicos; así como los plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas. El registro sólo podrá ser otorgado por la Secretaría de Salud y será por tiempo indeterminado, sin perjuicio de lo establecido en el artículo 378 de esta ley.
-
-> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 376 Bis.
 
@@ -4221,6 +4881,8 @@ El registro sanitario a que se refiere el artículo anterior se sujetará a los 
 I.- En el caso de medicamentos, estupefacientes y psicotrópicos, la clave de registro será única, no pudiendo aplicarse la misma a dos productos que se diferencien ya sea en su denominación genérica o distintiva o en su formulación. Por otra parte, el titular de un registro, no podrá serlo de dos registros que ostenten el mismo principio activo, forma farmacéutica o formulación, salvo cuando uno de éstos se destine al mercado de genéricos. En los casos de fusión de establecimientos se podrán mantener, en forma temporal, dos registros, y
 
 II.- En el caso de los productos que cita la fracción II del artículo 194, podrá aceptarse un mismo número de registro para líneas de producción del mismo fabricante, a juicio de la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 377.
 
@@ -5161,3 +5823,63 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 D.O.F. 4 DE JUNIO DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE MAYO DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor el 1o. de enero del año dos mil cuatro.
+
+SEGUNDO. El Ejecutivo Federal deberá emitir el Reglamento de la Ley General de Salud en Materia de Protección Social en Salud, en un plazo que no excederá de noventa días contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. En un plazo similar al que se refiere la disposición transitoria anterior, el Consejo de Salubridad General deberá emitir las resoluciones que le correspondan como consecuencia de este Decreto.
+
+CUARTO. Para los efectos del artículo 77 Bis 1, dentro de los servicios de salud se incluirán progresivamente todas las intervenciones de manera integral, con exclusión de las intervenciones cosméticas, experimentales y las que no hayan demostrado su eficacia.
+
+QUINTO. Para los efectos del artículo 77 Bis 9, los estados y el Distrito Federal acreditarán gradualmente la calidad de las unidades médicas de la administración pública, tanto federal como local, que se incorporen al Sistema de Protección Social en Salud.
+
+SEXTO. Para efectos del artículo 77 Bis 7, fracción III, la Cédula del Registro Nacional de Población se exigirá en la medida en que dicho medio de identificación nacional se vaya expidiendo a los usuarios de Protección Social en Salud.
+
+SÉPTIMO. Para los efectos del artículo 77 Bis 12 de la Ley, la fecha de inicio para el cálculo de la actualización conforme al Índice Nacional de Precios al Consumidor será el primero de enero de 2004.
+
+OCTAVO. A partir de la entrada en vigor de este Decreto, cada año y de manera acumulativa, se podrán incorporar al Sistema de Protección Social en Salud hasta el equivalente a 14.3% de las familias susceptibles de nueva incorporación, con el fin de alcanzar el 100% de cobertura en el año 2010.
+
+En el ejercicio fiscal 2004 y subsecuentes, podrán adherirse las familias cuya incorporación pueda ser cubierta con cargo a los recursos del Fondo de Aportaciones para los Servicios de Salud a que se refiere la Ley de Coordinación Fiscal, con cargo a los recursos de los programas del Ramo Administrativo 12 Salud del Presupuesto de Egresos de la Federación y, con cargo a los recursos para la función Salud que el Ejecutivo Federal presente para el Sistema de Protección Social en Salud y que la Cámara de Diputados apruebe.
+
+La cobertura de los servicios de protección social en salud iniciará dando preferencia a la población de los dos primeros deciles de ingreso en las áreas de mayor marginación, zonas rurales e indígenas, de conformidad con los padrones que para el efecto maneje el Gobierno Federal.
+
+NOVENO. La aportación solidaria de los gobiernos de los estados y el Distrito Federal en términos del artículo 77 Bis 13, deberá iniciarse en el ejercicio fiscal de su incorporación al Sistema de Protección Social en Salud.
+
+DÉCIMO. Con el objeto de que los programas en materia de salud se ejecuten de manera más eficiente y eficaz, en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2004 y en los años subsecuentes, los recursos aprobados para la función Salud se identificarán con una estrategia integral que sea congruente con el Sistema de Protección Social en Salud.
+
+DÉCIMO PRIMERO. La Secretaría de Salud deberá constituir la previsión presupuestal a que se refiere el artículo 77 Bis 18 en el ejercicio presupuestal siguiente a aquel en que se apruebe y publique este Decreto.
+
+DÉCIMO SEGUNDO. A partir del ejercicio fiscal en que se celebre el acuerdo de coordinación correspondiente, para la entidad federativa suscriptora, el monto total de recursos aprobados del Fondo de Aportaciones para los Servicios de Salud, establecido en la Ley de Coordinación Fiscal, será utilizado para financiar los recursos que el Gobierno Federal debe destinar al Sistema de Protección Social en Salud en los términos de los artículos 77 Bis 13, fracción II y 77 Bis 20 de esta Ley.
+
+Para los efectos del párrafo anterior, las aportaciones solidarias a que se refiere el artículo 77 Bis 13, fracción II, de la Ley, se realizarán en la medida en que se incorporen las familias al Sistema en los términos del artículo transitorio octavo y de los acuerdos de coordinación correspondientes, sin afectar la continuidad de la atención de las familias no aseguradas.
+
+El Sistema de Protección Social en Salud dejará sin efectos, respecto de la entidad federativa que se incorpore al mismo, la aplicación de las disposiciones relativas al Fondo de Aportaciones para los Servicios de Salud establecidas en los artículos 25, fracción II, 29, 30 y 31 de la Ley de Coordinación Fiscal, a partir de la fecha en que suscriba el acuerdo de coordinación correspondiente. Lo anterior, sin perjuicio de la continuidad de la atención de las familias no aseguradas que deberá establecerse en el respectivo acuerdo de coordinación. Los recursos necesarios para dar continuidad a dicha atención serán calculados, sólo para efectos de referencia, con base en lo dispuesto en el artículo 30 de la Ley de Coordinación Fiscal, una vez descontados los recursos federales que se destinarán para financiar a las familias que se incorporen al Sistema.
+
+DÉCIMO TERCERO. Para los efectos de los artículos 77 Bis 13 y 77 Bis 20 de la Ley, la Secretaría de Salud determinará como punto de partida para el primer cálculo, qué montos del Fondo de Aportaciones para los Servicios de Salud a que se refiere la Ley de Coordinación Fiscal se destinó en el ejercicio fiscal de 2003 para la prestación de servicios de salud a la persona y para la prestación de servicios de salud a la comunidad, respectivamente.
+
+DÉCIMO CUARTO. En un plazo que no excederá de noventa días contados a partir de la entrada en vigor de este Decreto, la Federación deberá emitir las reglas a que se sujetará el Fondo de Protección contra Gastos Catastróficos a que se refiere el artículo 77 Bis 29.
+
+Para los efectos de dicho artículo, el fondo incluirá a la entrada en vigor de este Decreto, las siguientes categorías:
+
+I. El diagnóstico y tratamiento del Cáncer, problemas cardiovasculares, enfermedades cerebro-vasculares, lesiones graves, rehabilitación de largo plazo, VIH/SIDA, y
+
+II. Cuidados intensivos neonatales, trasplantes y diálisis.
+
+El Consejo de Salubridad General actualizará periódicamente estas categorías con base en los criterios establecidos en el artículo 77 Bis 29 de la Ley.
+
+DÉCIMO QUINTO. El Ejecutivo Federal deberá emitir el Reglamento del Consejo Nacional de Protección Social en Salud a que se refiere el artículo 77 Bis 33, en un plazo que no excederá de noventa días contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO SEXTO. El programa IMSS-Oportunidades continuará proporcionando servicios de salud a la población no asegurada, con el mismo modelo de atención con el que opera en la actualidad, para lo cual deberá contar con los recursos presupuestales suficientes, provenientes del Presupuesto de Egresos de la Federación, mismos que se canalizarán directamente a través del Instituto Mexicano del Seguro Social. Las familias actualmente atendidas por el programa IMSS-Oportunidades podrán incorporarse al Sistema de Protección Social en Salud. En este caso deberá cubrirse al Programa, a través del Instituto Mexicano del Seguro Social, por cada familia que decida su incorporación a dicho Sistema, la cuota social y la aportación solidaria a cargo del Gobierno Federal; la aportación solidaria a cargo de los estados y la cuota familiar en los términos de la presente Ley. En cualquier caso, el programa IMSS-Oportunidades seguirá siendo administrado por el Instituto Mexicano del Seguro Social y los bienes muebles e inmuebles con que cuenta, más aquellos que en lo sucesivo adquiera, quedan incorporados al patrimonio del Instituto Mexicano del Seguro Social, conforme a la legislación aplicable.
+
+DÉCIMO SÉPTIMO. Para los efectos de la primera integración del Consejo Nacional de Protección Social en Salud a que se refiere el artículo 77 Bis 33, se invitará a los titulares de los servicios estatales de salud de las cinco primeras entidades federativas en suscribir el acuerdo de coordinación para su integración al Sistema de Protección Social en Salud, a que se refiere el artículo 77 Bis 6 de la Ley.
+
+DÉCIMO OCTAVO. El Ejecutivo Federal deberá emitir el reglamento interno de la Comisión Nacional del Sistema de Protección Social en Salud a que se refiere el artículo 77 Bis 35, en un plazo que no excederá de sesenta días a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO NOVENO. La Secretaría de Salud dispondrá lo necesario para dar continuidad a las acciones derivadas del Programa de Salud para Todos en los mismos términos en que se ha desarrollado a la fecha, hasta en tanto se encuentre en operación plena la ejecución del presente Decreto de reformas.
+
+VIGÉSIMO. El Congreso de la Unión en uso de sus facultades legales, podrá a través de sus órganos dar seguimiento al cumplimiento de las normas aprobadas en el presente Decreto.
+
+VIGÉSIMO PRIMERO. El Programa de Desarrollo Humano Oportunidades, continuará operando conforme al modelo de atención establecido en sus reglas de operación. La Secretaría de Desarrollo Social administrará el padrón de beneficiarios de este Programa, y para su operación se coordinará con la Secretaría de Salud, a fin de evitar duplicidades administrativas.
