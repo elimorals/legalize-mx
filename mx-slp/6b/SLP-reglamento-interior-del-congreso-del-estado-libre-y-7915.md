@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-congreso-del-estado-libre-y-7915"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-12-28"
-last_updated: "1993-12-28"
+last_updated: "1997-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 1997.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el 28 de diciembre de 1993.
 
@@ -107,7 +107,9 @@ III.- La sesión de instalación del Congreso se realizará bajo el siguiente or
 
 a).- Lista de asistencia de los Diputados electos propietarios. El quórum legal será de la mitad más uno. En caso de no contar con el quórum legal, la sesión iniciará hasta que se encuentren presentes la mitad más uno de los Diputados propietarios.
 
-b).- Lectura del informe del Colegio Electoral.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1997)</small>
+
+b).- Lectura del informe del Consejo Estatal Electoral.
 
 c).- Toma de protesta.
 
@@ -119,7 +121,9 @@ f).- Designación de las Comisiones de Cortesía.
 
 IV.- Una vez que el Presidente ha tomado posesión, todos se pondrán de pie y éste manifestará:
 
-La ______ Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, se declara legítimamente instalada y en aptitud de ejercer las funciones que le señala el artículo 34 de la Constitución y las leyes afines.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1997)</small>
+
+La ______ Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, se declara legítimamente instalada y en aptitud de ejercer las funciones que le señala el Artículo 57 de la Constitución y las leyes afines.
 
 V.- Como primer acto, después de instalada la Legislatura, el Presidente designará tres Comisiones integradas por dos Diputados cada una, y tendrán las siguientes atribuciones:
 
@@ -187,7 +191,9 @@ XVIII.- Convocar a Sesiones Extraordinarias de acuerdo con los Secretarios cuand
 
 XIX.- Dar curso reglamentario a los asuntos y determinar los trámites que deben hacerse en lo que se de cuenta al Congreso.
 
-XX.- Avisar oportunamente y por escrito al Ejecutivo del Estado, del día y la hora en que se discutirán las iniciativas por él presentadas, o las que haya devuelto conforme a lo dispuesto por los Artículos 42, 43 y 44 de la Constitución.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 1997)</small>
+
+XX.- Avisar oportunamente y por escrito al Ejecutivo del Estado, del día y la hora en que se discutirán las iniciativas por él presentadas, o las que haya devuelto conforme a lo dispuesto por los artículos 67 y 68 de la Constitución.
 
 XXI.- Firmar la correspondencia y las demás comunicaciones del Congreso.
 
@@ -295,7 +301,9 @@ El Congreso del Estado Libre y Soberano de San Luis Potosí habrá de conducirse
 
 I.- En el Primer Período Ordinario de Sesiones que inicia el 15 de septiembre y concluye el 15 de diciembre, se ocupará de preferencia, entre otros asuntos, de examinar y aprobar la Ley de Ingresos del Estado, la Ley del Presupuesto de Egresos del Gobierno del Estado y las Leyes de Ingresos de los Municipios correspondientes al siguiente año.
 
-II.- En el segundo período que se inicia el primero de abril y termina el último día de mayo, con la misma preferencia, examinará, calificará y en su caso aprobará las cuentas de recaudación y distribución de caudales, que el Contador Mayor de Hacienda le presente, relativos al año próximo anterior, y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 1997)</small>
+
+II.- En el segundo período que se inicia el primero de abril y termina el último de junio, con la misma preferencia, examinará, calificará y en su caso aprobará las cuentas de recaudación y distribución de caudales, que el Contador Mayor de Hacienda le presente, relativos al año próximo anterior, y
 
 III.- La Contaduría Mayor de Hacienda en la revisión de la Cuenta Pública relativa al año próximo anterior investigará si las cantidades erogadas corresponden a las partidas aprobadas y comprobará y verificará las especificaciones técnicas de la inversión correspondiente, así como el apego a las disposiciones legales.
 
@@ -455,29 +463,17 @@ II.- El Gobernador del Estado o su representante ocupará su lugar en el lado iz
 
 III.- El Presidente del Supremo Tribunal de Justicia o su representante ocupará su lugar en el lado inmediato del Gobernador.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1997)</small>
+
 ###### ARTICULO 42.
 
-En la Sesión Solemne del informe anual del Gobernador, el Congreso deberá proceder de la siguiente manera:
+En la sesión solemne del Informe del Congreso del Estado, se procederá de la siguiente manera:
 
-I.- El Gobernador del Estado entregará o dará lectura a su informe.
+I.- El Presidente del Congreso del Estado dará lectura al informe;
 
-II.- No se permitirán interrupciones, ni interpelaciones durante el desarrollo del acto del informe.
+II.- No se permitirán interrupciones, ni interpelaciones durante el desarrollo del informe; y
 
-III.- El Congreso nombrará tres Comisiones de dos Diputados cada una, para que acompañen tanto para entrar como al salir del Recinto Oficial al:
-
-a).- Gobernador del Estado.
-
-b).- Presidente del Supremo Tribunal de Justicia del Estado.
-
-c).- Representantes del Poder Ejecutivo Federal.
-
-IV.- Instalados en sus respectivos lugares, el Presidente del Congreso concederá el uso de la palabra al Gobernador para que rinda su informe.
-
-V.- Al concluir el informe del Gobernador, el Presidente del Congreso del Estado dará respuesta en términos claros y generales.
-
-VI.- La Presidencia del Congreso concederá el uso de la palabra al Representante del Poder Ejecutivo Federal, y
-
-VII.- La Sesión será clausurada antes de que el Gobernador, el Presidente o representante del Poder Judicial y el representante del Poder Ejecutivo Federal abandonen el Recinto, citando para la próxima Sesión.
+III.- Concluida la lectura del informe la sesión será clausurada, citando para la próxima sesión.
 
 #### SECCION TERCERA. DE LOS CONCURRENTES A LAS SESIONES
 
@@ -559,9 +555,11 @@ El Congreso instrumentará Comisiones Permanentes, Temporales, de Protocolo y Co
 
 La Gran Comisión propondrá a la inicial Mesa Directiva del Congreso, a quienes integrarían las Comisiones Permanentes de Dictamen Legislativo y de Gestoría y Quejas, así como a las Comisiones Temporales de Vigilancia y la del Poder Legislativo ante el Consejo Estatal Electoral. Las demás Comisiones serán propuestas al Pleno por el Presidente del Congreso.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1997)</small>
+
 ###### ARTICULO 56.
 
-Las elecciones de las Comisiones Permanentes así como la de Vigilancia y la del Poder Legislativo ante el Consejo Estatal Electoral se realizará durante la primera semana, contada a partir de la Protesta de la Legislatura entrante, en votación por cédula por mayoría.
+Las elecciones de las Comisiones Permanentes así como la de Vigilancia, la de (sic) Poder Legislativo ante el Consejo Estatal Electoral y la del Instituto de Investigaciones Legislativas se realizarán durante la primera semana, contada a partir de la protesta de la Legislatura entrante, en votación por cédula por mayoría.
 
 ###### ARTICULO 57.
 
@@ -615,31 +613,31 @@ Si en razón de su competencia es necesario turnar un mismo asunto a dos o más 
 
 #### SECCION TERCERA. DE LAS COMISIONES JURISDICCIONALES
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1997)</small>
+
 ###### ARTICULO 67.
 
-La actuación de las Comisiones Jurisdiccionales se regirá de la siguiente manera:
+La actuación de las Comisiones Jurisdiccionales se regirán de la siguiente manera:
 
-I.- El inicio del juicio político sólo es factible durante el desempeño o Comisión del presunto responsable servidor público, o hasta un año después de haberse separado de sus funciones.
+I.- Estas comisiones deberán conocer, de acuerdo a lo dispuesto por la Constitución Política del Estado, todo lo que se relaciona con las responsabilidades de los funcionarios públicos, por los delitos, faltas u omisiones que hubiesen cometido durante del desempeño de su encargo. Una vez aportada la información del caso, presentarán el dictamen respectivo;
 
-II.- Se actuará, si media denuncia por escrito formulada ante el Congreso, y nunca de oficio.
+II.- El inicio del juicio político sólo es factible llevarse a efecto durante el desempeño o comisión del servidor público presunto responsable o hasta un año después de haberse separado de sus funciones;
 
-III.- Recibida la denuncia a través de la Oficialía Mayor, la Secretaría citará al denunciante para efecto de que la ratifique o rectifique en su caso, en un término de tres días contados desde la fecha en que se dé por recibido la citación, en caso de no ratificarse.
+III.- Se actuará, siempre que medie un escrito formulado ante el Congreso del Estado, y nunca de oficio;
 
-IV.- Ratificada la denuncia deberá de turnarse de inmediato con la documentación correspondiente a la Comisión Jurisdiccional.
+IV.- Recibida la denuncia a través de la Oficialía Mayor, la Secretaría citará al denunciante para efecto de que la ratifique o rectifique en su caso, en un término de tres días, contados desde la fecha en que se dé por recibida la citación, en caso de no ratificarse, será archivada por la Secretaría;
 
-V.- Previo estudio del expediente correspondiente, habrá de redactarse el dictamen, el cual manifestará debidamente fundado, si el inculpado esta comprendido dentro de los supuestos que considera la Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios del Estado.
+V.- Ratificada la denuncia, deberá de turnarse de inmediato con la documentación correspondiente a las Comisiones Unidas de Gobernación y Puntos Constitucionales y de Justicia;
 
-VI.- Una segunda parte del dictamen a que hace referencia la Fracción anterior, comprenderá si la denuncia es procedente y en consecuencia amerita la incoación del procedimiento.
+VI.- Previo estudio del expediente correspondiente, las comisiones señaladas en la fracción anterior, habrán de redactar el dictamen, el cual manifestará, debidamente fundado, si el inculpado se encuentra entre los Servidores Públicos a que se refiere la Constitución Política del Estado y de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí. Asimismo, el mencionado dictamen deberá expresar si la denuncia contiene elementos de prueba que justifiquen que la conducta atribuida corresponda a las enumeradas en el Artículo 12 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí;
 
-VII.- Las denuncias anónimas no tendrán ningún efecto y serán desechadas.
+VII.- Una segunda parte del dictamen, a que hace referencia la fracción anterior, si los propios elementos de prueba permiten presumir la existencia de la infracción y la probable responsabilidad del denunciado y por tanto, amerita la incoación del procedimiento, turnándose a la Comisión Jurisdiccional, para su tramitación, en caso contrario la Comisión desechará la denuncia presentada;
 
-VIII.- Las denuncias, no confirmadas como lo dispone la Fracción III de este precepto, se tendrán por no formuladas.
+VIII.- Las denuncias que no reúnan los requisitos de las fracciones I, II y III del Artículo 15 de la Ley de Responsabilidades de los Servidores Públicos se desecharán por improcedentes;
 
-IX.- Al ser ratificada la denuncia dentro del término estipulado, la Comisión Jurisdiccional notificará el contenido de la denuncia al servidor público, haciéndole saber su garantía de audiencia indicándole que a su elección podrá comparecer personalmente o por conducto de un representante debidamente acreditado, dentro del término de siete días hábiles siguientes a la notificación citada.
+IX.- De ser procedente la denuncia, la Comisión Jurisdiccional realizará todas las diligencias necesarias a efecto de comprobar los hechos motivos de la denuncia, y la instrumentación de juicio político; y
 
-X.- De ser procedente la denuncia, la Comisión Jurisdiccional realizará todas las diligencias necesarias a efecto de comprobar la conducta o los hechos motivo de la denuncia, y
-
-XI.- Supletoriamente para la instrumentación de juicio político, se estará a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+X.- En la instrucción de juicio político se estará a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
 #### SECCION CUARTA. DE LAS COMISIONES ESPECIALES
 
@@ -667,9 +665,11 @@ V.- Deberán guardar silencio y compostura durante las sesiones, y
 
 VI.- Cuando se informe al Congreso que un Diputado se encuentra enfermo, el Presidente del Congreso o si es el caso, el de la Diputación Permanente, designará una Comisión de dos Diputados para que lo visiten periódicamente e informen de su estado de salud.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1997)</small>
+
 ###### ARTICULO 70.
 
-Los Diputados que no concurran a las sesiones sin permiso expreso del Congreso, o el que pueda concederles el Presidente, no gozarán de las dietas que les asigna la ley, salvo que comprueben que la falta fue justificada, a juicio del propio Congreso. Cuando la falta tenga lugar durante más de diez sesiones consecutivas, el Diputado faltista incurrirá en la pena que señala el Artículo 109 de la Constitución y debe llamarse desde luego al Suplente.
+Los Diputados que no concurran a las sesiones sin permiso expreso del Congreso del Estado, o de su Presidente, no gozarán de las dietas que les asigna la ley, salvo que comprueben que la falta fue justificada. Cuando haya faltas injustificadas durante más de diez sesiones consecutivas, el Diputado incurrirá en la pena que señala el párrafo tercero del Artículo 132 de la Constitución y deberá llamarse desde luego al Suplente.
 
 ###### ARTICULO 71.
 
@@ -795,7 +795,17 @@ II.- Tener Título Profesional relacionado con la función y demostrar la capaci
 
 III.- No prestar sus servicios profesionales a la administración pública en cualquiera de los tres niveles a excepción de actividades de carácter docente, ni desempeñar actividades privadas en donde exista conflicto de intereses.
 
-#### SECCION PRIMERA. DE LAS FORMALIDADES DE LAS INICIATIVAS DE LEY
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE MARZO DE 1997)</small>
+
+#### SECCION TERCERA. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 1997)</small>
+
+###### ARTICULO 83 Bis.
+
+El Instituto tendrá como finalidad apoyar al Congreso del Estado, en su tarea de elaborar las normas jurídicas, por medio de la investigación jurídica documental y de campo, y contará con su Reglamento Interior.
+
+El Instituto tiene como órgano supremo de Gobierno, la Comisión designada.
 
 ## TITULO SEXTO
 
@@ -833,7 +843,7 @@ La Diputación Permanente deberá reunirse en sesiones cuando menos una vez a la
 
 Quienes propongan iniciativas de leyes, decretos, acuerdos administrativos o económicos, en uso de las atribuciones que les otorgan la Constitución y la Ley habrán de sujetarse a las formalidades y procedimientos que establece el presente Reglamento.
 
-#### SECCION SEGUNDA. DE LAS FORMALIDADES DE LAS INICIATIVAS DE DECRETOS
+#### SECCION PRIMERA. DE LAS FORMALIDADES DE LAS INICIATIVAS DE LEY
 
 ###### ARTICULO 91.
 
@@ -873,7 +883,7 @@ En la exposición de motivos habrán de explicarse las razones, hechos, argument
 
 La estructura jurídica o cuerpo de ley deberá estar conformada por un orden lógico-jurídico en cada una de sus partes, de lo general a lo particular, como se indica en la Fracción II del Artículo 91 de este Reglamento.
 
-#### SECCION TERCERA. DE LAS FORMALIDADES DE LAS INICIATIVAS DE ACUERDOS ADMINISTRATIVOS
+#### SECCION SEGUNDA. DE LAS FORMALIDADES DE LAS INICIATIVAS DE DECRETOS
 
 ###### ARTICULO 95.
 
@@ -889,7 +899,7 @@ IV.- De tratarse de personas morales, señalará la información necesaria que l
 
 V.- El anteproyecto de Decreto estará conformado por la justificación de la propuesta, la información relativa a los beneficiarios, argumentos, utilidad, consideraciones y conclusiones.
 
-#### SECCION CUARTA. DE LAS FORMALIDADES DE INICIATIVAS DE ACUERDOS ECONOMICOS
+#### SECCION TERCERA. DE LAS FORMALIDADES DE LAS INICIATIVAS DE ACUERDOS ADMINISTRATIVOS
 
 ###### ARTICULO 96.
 
@@ -903,17 +913,19 @@ I.- De tratarse de la creación de un organismo interno del Congreso será neces
 
 II.- La propuesta será por escrito y deberá contener: nombre del organismo, sus objetivos generales, integración, atribuciones, así como recursos humanos y materiales para su operatividad.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1997)</small>
+
 ###### ARTICULO 98.
 
-De no provenir de los legisladores la petición de un Acuerdo Administrativo, el asunto que lo motive deberá estar comprendido entre las atribuciones que otorga la Constitución al Congreso en el Artículo 34 y sujetarse a lo dispuesto en el Artículo 96 de este Reglamento.
+De no provenir de los legisladores la petición de un acuerdo administrativo, el asunto que lo motive deberá estar comprendido entre las atribuciones que otorga la Constitución al Congreso del Estado en el Artículo 57 y debiendo sujetarse a lo dispuesto en el Artículo 96 de este Reglamento.
 
-#### SECCION QUINTA. DEL PROCEDIMIENTO
+#### SECCION CUARTA. DE LAS FORMALIDADES DE INICIATIVAS DE ACUERDOS ECONOMICOS
 
 ###### ARTICULO 99.
 
 El Acuerdo Económico es una resolución para obviar trámites y simplificar procedimientos, que puede ser tomado por el Congreso o la Diputación Permanente.
 
-#### SECCION SEXTA. DE LA APROBACION DE INICIATIVAS DE LEY
+#### SECCION QUINTA. DEL PROCEDIMIENTO
 
 ###### ARTICULO 100.
 
@@ -957,7 +969,7 @@ Para discutir y votar toda iniciativa de ley, decretos y acuerdos administrativo
 
 Para adicionar o reformar la Constitución se requerirá de la aprobación de las dos terceras partes del número total de Diputados y el voto posterior de las tres cuartas partes de los Ayuntamientos.
 
-#### SECCION PRIMERA. DE LOS DICTAMENES
+#### SECCION SEXTA. DE LA APROBACION DE INICIATIVAS DE LEY
 
 ###### ARTICULO 107.
 
@@ -965,7 +977,9 @@ Cuando una iniciativa de ley ha sido aprobada por el Congreso se sujetará al si
 
 I.- Será turnada al Poder Ejecutivo para su sanción y publicación.
 
-II.- El Ejecutivo está facultado para devolver dentro de ocho días hábiles la ley, con las observaciones que considere conducentes.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 1997)</small>
+
+II.- El Ejecutivo está facultado para devolver dentro de diez días hábiles la ley, con las observaciones que considere conducentes.
 
 III.- Al ser devuelta la ley, el Congreso habrá de discutirla nuevamente considerando las observaciones del Ejecutivo.
 
@@ -987,7 +1001,7 @@ Las leyes, decretos, acuerdos administrativos o económicos y reglamentos, sólo
 
 ### CAPITULO UNICO. DE LOS MECANISMOS LEGISLATIVOS
 
-#### SECCION SEGUNDA. DEL TRAMITE DE DISCUSION Y APROBACION
+#### SECCION PRIMERA. DE LOS DICTAMENES
 
 ###### ARTICULO 110.
 
@@ -1013,7 +1027,7 @@ I.- Dictamen definitivo, el que argumente y funde debidamente el punto de vista 
 
 II.- Dictamen suspensivo, todo aquél por el cual la Comisión correspondiente solicita al Pleno del Congreso le conceda prórroga para formular su opinión final.
 
-#### SECCION TERCERA. DE LOS DEBATES
+#### SECCION SEGUNDA. DEL TRAMITE DE DISCUSION Y APROBACION
 
 ###### ARTICULO 113.
 
@@ -1037,7 +1051,7 @@ Cuando menos dos días antes de cada sesión, las copias de los dictámenes que 
 
 Los dictámenes no resueltos por una Legislatura serán presentados en orden de prioridad en la siguiente sesión, conforme a lo dispuesto por este Reglamento.
 
-#### SECCION CUARTA. DE LAS VOTACIONES
+#### SECCION TERCERA. DE LOS DEBATES
 
 ###### ARTICULO 116.
 
@@ -1139,7 +1153,7 @@ Declarado un asunto suficientemente discutido, no se volverá a tomar la palabra
 
 Turnado de nueva cuenta el expediente al Pleno con las correcciones pertinentes, habrá de continuar el debate en la forma indicada hasta su aprobación o rechazo definitivo, por improcedente.
 
-#### SECCION CUARTA (SIC). DE LAS ACTAS
+#### SECCION CUARTA. DE LAS VOTACIONES
 
 ###### ARTICULO 135.
 
@@ -1217,6 +1231,8 @@ IV.- Si al conocerse los resultados de la votación económica, algún Diputado 
 
 Después de aprobarse la iniciativa de ley, decreto, acuerdo administrativo o económico, su expediente pasará a la Comisión de Reglamento, Régimen y Prácticas Parlamentarias y a las Comisiones de origen para que sea revisado el texto aprobado, y una vez realizado lo anterior, se turnará a la Secretaría para enviarlo al Ejecutivo para su promulgación.
 
+#### SECCION CUARTA (SIC). DE LAS ACTAS
+
 ###### ARTICULO 144.
 
 Las actas son los documentos que tendrán que ser redactados al final de las Sesiones y deberán contener una síntesis de lo esencial del desarrollo de la misma:
@@ -1272,3 +1288,11 @@ LIC. HORACIO SANCHEZ UNZUETA.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 LIC. JAIME SUAREZ ALTAMIRANO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE MARZO DE 1997.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
