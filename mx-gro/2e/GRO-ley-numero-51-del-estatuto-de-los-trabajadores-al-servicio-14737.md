@@ -1,0 +1,836 @@
+---
+title: "LEY NUMERO 51 DEL ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO"
+identifier: "GRO-ley-numero-51-del-estatuto-de-los-trabajadores-al-servicio-14737"
+country: "mx"
+rank: "ley"
+publication_date: "1976-04-21"
+last_updated: "1976-04-21"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14737&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-gro"
+scjn_id: "14737"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "16"
+reform_count: "13"
+scjn_last_update: "2026-04-07"
+issue_date: "1976-04-14"
+state: "GRO"
+---
+# LEY NUMERO 51 DEL ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO
+
+LEY NUMERO 51: ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Guerrero, el 21 de abril de 1976.
+
+EL CIUDADANO INGENIERO RUBEN FIGUEROA FIGUEROA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, A LOS HABITANTES DEL MISMO, HACE SABER,
+
+Que por la Secretaría del H. Congreso Local, se me ha comunicado lo siguiente:
+
+EL H. CUADRAGESIMO OCTAVO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA HA TENIDO A BIEN EXPEDIR LA SIGUIENTE LEY NUMERO 51:
+
+ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO.
+
+T I T U L O I.
+
+DISPOSICIONES GENERALES.
+
+###### ARTICULO 1o.
+
+La presente Ley es de observancia general para todas las autoridades, funcionarios y trabajadores de base integrantes de los Poderes Legislativo, Ejecutivo y Judicial; de los Municipios y de los Organismos Públicos Coordinados y Descentralizados del Estado de Guerrero.
+
+###### ARTICULO 2o.
+
+Trabajador del Estado, es toda persona que presta a los Poderes Legislativo, Ejecutivo y Judicial y a los Municipios del Estado de Guerrero, un servicio material, intelectual o de ambos géneros en virtud del nombramiento que le fuere expedido, o por el hecho de figurar en la lista de raya de los trabajadores temporales. Se considerará con igual carácter a los empleados y trabajadores que presten sus servicios en los Organismos Públicos, Coordinados y Descentralizados de carácter estatal.
+
+###### ARTICULO 3o.
+
+La relación jurídica del trabajo reconocida por esta ley, se entiende establecida para todos los efectos legales, entre los trabajadores del Estado y de los Poderes Legislativo, Ejecutivo y Judicial y los Municipios representados por sus titulares.
+
+Esta misma relación jurídica existe en favor de los empleados y trabajadores de los Organismos Públicos, Coordinados y Descentralizados de carácter estatal.
+
+###### ARTICULO 4o.
+
+Para los efectos de esta Ley, los Trabajadores a que se refiere el artículo anterior, se dividen en los siguientes grupos:
+
+I.- Trabajadores de base.
+
+II.- Trabajadores supernumerarios.
+
+III.- Trabajadores de confianza.
+
+###### ARTICULO 5o.
+
+Son trabajadores de confianza:
+
+a).- En general, directores, subdirectores, jefes y subjefes de departamento, oficinas e institutos, todos los empleados de las secretarías particulares autorizados por el presupuesto; tesorero, cajeros y contadores; representantes y apoderados del Estado y municipios, visitadores, inspectores, almacenistas e intendentes; todos los miembros de los cuerpos de policía y de tránsito y cuantos desempeñen funciones análogas.
+
+b).- En el Poder Legislativo:
+
+El Oficial Mayor del Congreso y el Contador Mayor de Glosa.
+
+c).- En el Poder Ejecutivo:
+
+El Secretario General de Gobierno, el Oficial Mayor y todo el personal adscrito presupuestalmente al servicio directo del C. Gobernador y de los funcionarios primeramente citados; el Director de Hacienda y Economía del Estado; agentes fiscales, agentes confidenciales, el Procurador General de Justicia, Subprocuradores, agentes auxiliares, agentes del Ministerio Público, agentes de enlace municipal; Presidente, Secretarios y auxiliares del Tribunal de Arbitraje; Secretario y vocales de la Comisión Agraria Mixta; Recaudadores y subrecaudadores de rentas, Director de la Banda de Música del Gobierno del Estado, delegados del registro civil, jefe de la Oficina Telefónica, Jefe del Periódico Oficial, Secretario de la Dirección de Educación y el jefe de Motociclistas.
+
+d).- En el Poder Judicial:
+
+El Secretario de Acuerdos y Secretarios de Salas y proyectistas del Tribunal Superior de Justicia; los Jueces y Secretarios de los Juzgados de Primera Instancia y Menores.
+
+e).- Los secretarios de los ayuntamientos, tesoreros, oficiales mayores, consultores, administradores de mercados y rastros.
+
+f).- Los empleados y funcionarios de Organismos Públicos Coordinados y descentralizados de carácter estatal, a quienes conforme a su estructura orgánica tengan ese carácter tales como directores, jefes de departamento, contadores, jefes de oficina, consultores, etc.
+
+###### ARTICULO 6o.
+
+Esta Ley solamente es aplicable a los trabajadores de base y supernumerarios de los Poderes del Estado, Municipios y de los Organismos Públicos Coordinados y Descentralizados de carácter estatal. Los empleados de confianza no quedan comprendidos en el presente ordenamiento.
+
+Los trabajadores de nuevo ingreso que cubran alguna plaza vacante serán de base después de seis meses consecutivos de servicio.
+
+###### ARTICULO 7o.
+
+Todos los trabajadores del Estado, deberán ser de nacionalidad mexicana, y sólo podrán ser sustituidos por extranjeros cuando no existan nacionales técnicos que puedan desarrollar eficientemente la comisión de que se trate. La substitución será decidida por el titular del Poder o Municipio u Organismos Públicos Coordinados y Descentralizados de carácter estatal, oyendo al sindicato a (sic) que pertenezca el trabajador.
+
+###### ARTICULO 8o.
+
+En ningún caso serán renunciables las disposiciones de esta Ley que favorezcan a los trabajadores.
+
+T I T U L O II.
+
+DERECHOS Y OBLIGACIONES INDIVIDUALES DE LOS TRABAJADORES.
+
+C A P I T U L O I.
+
+DISPOSICIONES GENERALES.
+
+###### ARTICULO 9o.
+
+Los trabajadores del Estado prestarán sus servicios siempre, mediante nombramiento expedido por la persona que estuviere facultada legalmente para hacerlo, excepto cuando se trate de trabajadores temporales para obra o por tiempo determinado, en cuyo caso el nombramiento podrá ser substituido por la lista de raya correspondiente.
+
+###### ARTICULO 10.
+
+Tendrán capacidad legal para aceptar un nombramiento de trabajadores del Estado, para percibir el sueldo correspondiente y para ejercitar las acciones derivadas de la presente Ley, los menores de edad de uno y otro sexo, que tengan más de 16 años.
+
+###### ARTICULO 11.
+
+Serán condiciones nulas y no obligarán a los trabajadores del Estado aun cuando las admitieran expresamente:
+
+I.- Las que estipulen una jornada que la permitida por esta Ley.
+
+II.- Las que fijen labores peligrosas o insalubres para las mujeres y los menores de 18 años o establezcan para unas y otras el trabajo nocturno.
+
+III.- Las que estipulen trabajos para niños menores de 16 años.
+
+IV.- Las que estipulen una jornada inhumana o notoriamente excesiva o peligrosa para la vida del trabajador.
+
+V.- Las que fijen un salario inferior al mínimo.
+
+VI.- Las que estipulen un plazo mayor de 15 días para el pago de los sueldos.
+
+###### ARTICULO 12.
+
+Los nombramientos de los trabajadores del Estado deberán contener:
+
+I.- Nombre, nacionalidad, edad, sexo, estado civil y domicilio del nombrado.
+
+II.- El servicio o servicios que deban prestarse, los que se determinarán con la mayor claridad posible.
+
+III.- El carácter del nombramiento, definitivo, interino, por tiempo fijo o para obra determinada.
+
+IV.- La duración de la jornada de trabajo.
+
+V.- El sueldo, horarios y asignaciones que habrá de percibir el trabajador.
+
+VI.- El lugar o lugares de adscripción.
+
+###### ARTICULO 13.
+
+Las actuaciones y certificaciones que hubieren de hacerse con motivo de la aplicación de la presente Ley, no causarán impuesto alguno.
+
+###### ARTICULO 14.
+
+El nombramiento aceptado obliga al cumplimiento de las condiciones fijadas conforme a la ley a la buena fe y al uso.
+
+###### ARTICULO 15.
+
+En ningún caso el cambio de funcionarios de los Poderes, Municipios y Organismos Públicos Coordinados y Descentralizados del Estado modificará la situación de los trabajadores de base correspondientes.
+
+C A P I T U L O II.
+
+DE LAS HORAS DE TRABAJO Y DE LOS DESCANSOS LEGALES.
+
+###### ARTICULO 16.
+
+Para los efectos de la presente ley, se considera trabajo diurno el comprendido entre las 6 y 20 horas, y nocturno el comprendido entre las 20 y las 6 horas.
+
+###### ARTICULO 17.
+
+La duración máxima de la jornada diurna no podrá exceder de 8 horas.
+
+###### ARTICULO 18.
+
+Cuando la naturaleza del trabajo así lo exija la jornada máxima podrá reducirse teniendo en cuenta el número de horas que pueda trabajar un individuo normal, sin sufrir quebranto en su salud.
+
+###### ARTICULO 19.
+
+La jornada máxima de trabajo nocturno será de 7 horas.
+
+###### ARTICULO 20.
+
+La jornada mixta comprende períodos de tiempo de las jornadas diurnas y nocturnas, siempre que el período nocturno abarque menos de 3 horas y media, pues en caso contrario se reputará como jornada nocturna. La duración máxima de la jornada mixta será de 7 horas y media.
+
+###### ARTICULO 21.
+
+Cuando por circunstancias especiales deben aumentarse las horas de jornada máxima, este trabajo será considerado como extraordinario y nunca podrá exceder de hora y media diaria ni de 5 días consecutivos.
+
+###### ARTICULO 22.
+
+Por cada 5 días de trabajo disfrutará el trabajador de dos días de descanso con goce de salario íntegro.
+
+###### ARTICULO 23.
+
+Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros dos meses después del mismo. Durante la lactancia tendrán dos descansos extraordinarios por día de media hora cada uno, para amamantar a sus hijos.
+
+###### ARTICULO 24.
+
+Los trabajadores que tengan más de 6 meses consecutivos de servicios, disfrutarán de dos períodos anuales de vacaciones, de 10 días laborables cada uno, en las fechas que se señalen al efecto; pero en todo caso se dejarán guardias para la tramitación de los asuntos urgentes, para los que se utilizarán de preferencia los servicios de quienes no tuvieren derecho a vacaciones.
+
+Cuando un trabajador no pudiere hace (sic) uso de las vacaciones en los períodos señalados, por necesidades del servicio, disfrutará de ellas durante los diez días siguientes a la fecha de que haya desaparecido la causa que impidiere el disfrute de ese descanso, pero en ningún caso los trabajadores que laboren en períodos de vacaciones tendrán derecho a doble pago de sueldo.
+
+###### ARTICULO 25.
+
+Durante las horas de jornada legal, los trabajadores al servicio del Estado, podrán desarrollar las actividades sociales y culturales que fueren compatibles con sus aptitudes, edad y condiciones de salud; pero sin menoscabo de la función específica que tengan asignada.
+
+C A P I T U L O III.
+
+DE LOS SALARIOS.
+
+###### ARTICULO 26.
+
+Salario es la retribución que debe pagarse al trabajador a cambio de los servicios prestados.
+
+###### ARTICULO 27.
+
+El salario será uniforme para cada una de las categorías de los trabajadores de base fijadas en los respectivos presupuestos de egresos. Cualquier modificación que pretenda hacerse al salario fijado se llevará a cabo pubiéndose (sic) oír los puntos de vista del sindicato para el efecto de que opinen en caso de supresión de partidas que afecten a sus representados, qué grupo o grupos de trabajadores deben sufrir el reajuste, haciéndose al efecto los cambios y nombramientos que fueren necesarios.
+
+###### ARTICULO 28.
+
+Los pagos se verificarán en el lugar en que los trabajadores presten sus servicios y deberán hacerse precisamente en moneda del curso legal o en cheques al portador fácilmente cobrables.
+
+###### ARTICULO 29.
+
+No deberán hacerse retenciones, descuentos o deducciones al salario de los trabajadores, sino en los casos siguientes:
+
+I.- Cuando el trabajador contraiga deudas con el Estado por concepto de anticipo de salarios, pagos hechos con exceso, errores o pérdidas.
+
+II.- Cuando se trate de cobro de cuotas sindicales ordinarias o de aportación de fondos para cooperativas de cajas de ahorro, constituidas legalmente o por la voluntad expresa de los trabajadores.
+
+III.- Cuando se trate de descuentos ordenados por la Autoridad Judicial competente.
+
+El monto total de los descuentos no podrá exceder del 30% del importe total del salario excepto el caso a que se refiere la fracción III de este artículo.
+
+###### ARTICULO 30.
+
+Las horas de trabajo extraordinarias se pagarán con un ciento por ciento más del salario asignado para las horas de jornada máxima, salvo cuando se trate de retraso imputable al trabajador de acuerdo con los reglamentos interiores de trabajo.
+
+###### ARTICULO 31.
+
+En los días de descanso obligatorio y semanal y en las vacaciones concedidas por esta ley, los trabajadores recibirán su salario íntegro; cuando el salario se pague por unidad de obra, se promediará el salario del último mes.
+
+###### ARTICULO 32.
+
+En ningún caso los trabajadores del Estado percibirán un salario inferior al mínimo fijado para los trabajadores en general.
+
+C A P I T U L O IV.
+
+DE LAS OBLIGACIONES DE LOS PODERES, MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO CON SUS TRABAJADORES CONSIDERADOS INDIVIDUALMENTE.
+
+###### ARTICULO 33.
+
+Son obligaciones de los Poderes del Estado, Municipios y de los Organismos Públicos Coordinados y Descentralizados del Estado:
+
+I.- Preferir en igualdad de condiciones de competencia y antigüedad a los trabajadores sindicalizados; a los que con anterioridad hubieren prestado satisfactoriamente servicios, y a los que acrediten tener mejores derechos conforme al escalafón.
+
+Para los efectos de la disposición anterior, se procederá de acuerdo con las siguientes bases:
+
+a).- El personal de base adscrito a cada Poder del Estado, de los Municipios y Organismos Públicos Coordinados y Descentralizados del Estado, constituirá una unidad escalafonaria independiente, la cual podrá subdividirse en ramas especiales, tratándose de trabajadores que se dediquen a una misma clase de labores.
+
+b).- En cada unidad o rama se establecerá una graduación jerárquica en la categoría de los trabajadores, de conformidad con las clasificaciones y sueldos establecidos en el presupuesto de agresos (sic).
+
+c).- Los ascensos se considerarán únicamente en los casos de vacantes definitivas y sólo tendrán derecho a participar los trabajadores sindicalizados que pertenezcan a la categoría inmediata inferior. Dichas vacantes y las que tengan una duración de más de 6 meses se pondrán a disposición de la Comisión de Escalafón respectiva a fin de que dictamine a quien corresponde ocuparla.
+
+d).- Tienen derecho a participar en los concursos para ser ascendidos, todos los trabajadores de base con un mínimo de seis meses en la plaza del grado inmediato inferior.
+
+e).- La demostración de competencia en puestos de base para los que se requiere título profesional se hará con la presentación de este y con un informe de la escuela en que haya cursado sus estudios, pero si fueren varios aspirantes concursará sobre su especialidad y presentará tesis sobre problemas del Estado que calificará el titular de cada Poder.
+
+f).- Un trabajador de base podrá ser ascendido a un puesto de confianza previo permiso correspondiente; pero en este caso y mientras conserve esta categoría, quedará suspendido en todos sus derechos y prerrogativas que tuviere conforme a esta ley, así como en sus vínculos con el sindicato a que perteneciere.
+
+La persona que con motivo de un ascenso de esta naturaleza sea designada para ocupar la vacante de última categoría, una vez corrido el escalafón será considerada como provisional, de tal modo que de regresar a su puesto de base el trabajador ascendido al cargo de confianza y corrido el escalafón en forma inversa, dicho trabajador provisional cesará sin responsabilidad para el Estado, salvo que se trate de un trabajador de base en cuyo caso regresará a su puesto anterior.
+
+II.- Proporcionar a sus trabajadores, dentro de sus posibilidades económicas, servicios médicos y farmacéuticos en forma permanente.
+
+III.- Cubrir las indemnizaciones por separación injustificada; por los accidentes que sufran los trabajadores con motivo del trabajo o a consecuencia de él, y por las enfermedades profesionales que contraigan en el trabajo que ejecuten en el ejercicio de la profesión que desempeñen.
+
+IV.- Proporcionar a los trabajadores los útiles; instrumentos y materiales necesarios para ejecutar el trabajo convenido.
+
+V.- Proporcionar, dentro de sus posibilidades económicas, campos deportivos para el desarrollo físico de los trabajadores.
+
+VI.- Hacer las deducciones que solicite el sindicato, siempre que se ajusten a los términos de esta Ley.
+
+VII.- Determinar las condiciones generales de trabajo, expidiendo los reglamentos correspondientes, oyendo la opinión del sindicato. Mientras estos reglamentos no se expidan, se entenderán vigentes las disposiciones anteriores.
+
+VIII.- Cumplir en sus términos los laudos del Tribunal de Arbitraje del Estado.
+
+C A P I T U L O V.
+
+DE LAS OBLIGACIONES DE LOS TRABAJADORES.
+
+###### ARTICULO 34.
+
+Son obligaciones de los trabajadores:
+
+I.- Desempeñar sus labores sujetándose a las leyes y reglamentos que las regulen y a la dirección de sus jefes, con la intensidad, cuidado y esmero apropiados.
+
+II.- Observar buenas costumbres durante el servicio.
+
+III.- Cumplir con las obligaciones que les imponga el Reglamento Interior de Trabajo.
+
+IV.- Guardar reserva en los asuntos de que tengan conocimiento con motivo de su trabajo.
+
+V.- Evitar la ejecución de actos que pongan en peligro su seguridad y la de sus compañeros.
+
+VI.- Asistir puntualmente a sus labores.
+
+VII.- Sustraerse a toda clase de propagandas durante las horas de trabajo.
+
+C A P I T U L O VI.
+
+DE LA SUSPENSION DE LOS EFECTOS DEL NOMBRAMIENTO DE LOS TRABAJADORES.
+
+###### ARTICULO 35.
+
+La suspensión de los efectos del nombramiento de un trabajador al servicio del Estado no significa el cese del trabajador.
+
+Son causas de suspensión temporal las siguientes:
+
+I.- La circunstancia de que el trabajador contraiga alguna enfermedad contagiosa que signifique un peligro para las personas que trabajan con él.
+
+II.- La prisión preventiva del trabajador o el arresto impuesto por autoridad judicial o administrativa, a menos que tratándose de delitos contra la propiedad, contra el Estado o contra las buenas costumbres, el Tribunal de Arbitraje resuelva que debe dictarse el cese del empleado.
+
+III.- La motivada por correcciones disciplinarias que en ningún caso podrán exceder de ocho días y que dictará el titular o el jefe de la oficina por faltas cometidas por violación al artículo anterior, debiendo oírse previamente al trabajador.
+
+C A P I T U L O VII.
+
+DE LA TERMINACION DE LOS EFECTOS DEL NOMBRAMIENTO DE LOS TRABAJADORES.
+
+###### ARTICULO 36.
+
+Ningún trabajador de base al servicio del Estado, Municipios u Organismos Públicos Coordinados y Descentralizados del Estado podrá ser cesado o despedido sino por justa causa. En consecuencia, el nombramiento de dichos trabajadores sólo cesará de surtir efectos sin responsabilidad para el Estado, Municipios u Organismos Públicos Coordinados y Descentralizados del Estado en los siguientes casos:
+
+I.- Por renuncia o abandono de empleo, entendiéndose por éste para los efectos de la presente Ley, cuando el trabajador falta a sus labores sin causa justificada durante tres días hábiles consecutivos o más.
+
+II.- Por conclusión del término o de la obra para el que fue extendido dicho nombramiento.
+
+III.- Por muerte del trabajador.
+
+IV.- Por incapacidad física o mental del trabajador.
+
+V.- Por resolución del Tribunal de Arbitraje en los casos siguientes:
+
+a).- Cuando el trabajador incurriere en falta de probidad y honradez; en actos de violencia, amagos, injurias o malos tratamientos contra sus jefes o compañeros o contra los familiares de unos y otros, ya sea dentro de las horas de servicio, o fuera de él.
+
+b).- Por destruir intencionalmente edificios, obras, maquinarias, instrumentos, materias primas y demás objetos relacionados con el trabajo.
+
+c).- Por cometer actos inmorales durante el trabajo.
+
+d).- Por revelar los asuntos secretos o reservados de que tuviere conocimiento con motivo del trabajo.
+
+e).- Por compdometer (sic) con su imprudencia, descuido o negligencia, la seguridad del taller, oficina o dependencia donde preste sus servicios o de las personas que ahí se encuentren.
+
+f).- Por no obedecer sistemática e injustificadamente las órdenes que reciba de sus superiores.
+
+g).- Por concurrir habitualmente al trabajo en estado de embriguez (sic) o bajo la influencia de algún narcótico o drogas enervantes.
+
+h).- Por falta comprobada de cumplimiento al servicio o por prisión que sea el resultado de una sentencia ejecutoriada.
+
+i).- Por faltar más de tres días consecutivos a sus labores sin causa justificada.
+
+En los casos a que se refiere esta fracción, el trabajador responsable será separado de su empleo, pudiendo, sin embargo, ocurrir dentro de los tres días siguientes al de su separación, ante el Tribunal de Arbitraje, que resolverá en definitiva.
+
+T I T U L O III.
+
+DE LA ORGANIZACION DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES, MUNICIPIOS Y ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO.
+
+C A P I T U L O I.
+
+DEL SINDICATO.
+
+###### ARTICULO 37.
+
+El Sindicato de Trabajadores al Servicio del Estado, Municipios y de los Organismos Públicos Coordinados y Descentralizados del Estado es la asociación de trabajadores estatales, municipales y de los Organismos Públicos Coordinados y Descentralizados del Estado, constituida para el estudio, mejoramiento y defensa de sus intereses comunes. Los trabajadores de confianza no podrán formar parte de este organismo.
+
+###### ARTICULO 38.
+
+En el Estado de Guerrero sólo se reconocerá un sindicato, y admitido un miembro no podrá dejar de formar parte de él, salvo que fuere expulsado, sin que el Estado admita en ningún caso la cláusula de exclusión.
+
+###### ARTICULO 39.
+
+Para la constitución del sindicato y para su reconocimiento, será necesario que esté integrado por una mayoría absoluta.
+
+###### ARTICULO 40.
+
+El sindicato será registrado por el Tribunal de Arbitraje a cuyo efecto remitirá a éste, por duplicado, los siguientes documentos:
+
+I.- Acta de la asamblea constitutiva o copia de ella, autorizada por la directiva de la agrupación.
+
+II.- Los estatutos del sindicato.
+
+III.- El acta de la sesión en que se haya designado la directiva o copia autorizada de aquélla.
+
+IV.- Una lista del número de los miembros de que se componga el sindicato, con expresión del nombre de cada miembro, estado civil, edad, empleo que desempeña, sueldo que perciba y relación pormenorizada de sus antecedentes como trabajador.
+
+El Tribunal de Arbitraje, al recibir la solicitud de registro, comprobará por los medios que estime más prácticos y eficaces, la no existencia de otra asociación sindical dentro de la unidad burocrática constituida por el Gobierno del Estado, los municipios y los Organismos Públicos Coordinados y Descentralizados del Estado, o que la peticionaria cuenta con la mayoría de trabajadores de esa unidad y procederá, en su caso, al registro.
+
+###### ARTICULO 41.
+
+El registro del sindicato se cancelará en caso de disolución del mismo o cuando apareciere diversa agrupación sindical que fuere mayoritaria. La solicitud de cancelación podrá hacerse por cualquier persona interesada, y el Tribunal en los casos de conflicto entre las organizaciones que pretendan ser mayoritarias, ordenará desde luego el recuento correspondiente y resolverá de plano el asunto.
+
+###### ARTICULO 42.
+
+Queda prohibido todo acto de reelección dentro del comité ejecutivo general del sindicato.
+
+###### ARTICULO 43.
+
+El Estado no podrá aceptar en ningún caso la cláusula de exclusión ni la de admisión.
+
+###### ARTICULO 44.
+
+Son obligaciones del Sindicato:
+
+I.- Proporcionar los informes que en cumplimiento de esta Ley solicite el Tribunal de Arbitraje.
+
+II.- Comunicar al Tribunal de Arbitraje, dentro de los diez días siguientes a cada elección los cambios que ocurrieren en su directiva o en su comité ejecutivo, las altas y bajas de sus miembros y las modificaciones que sufran los estatutos.
+
+III.- Facilitar la labor del Tribunal de Arbitraje, en todo lo que fuere necesario, realizando los trabajos que el propio Tribunal le encomiende, relacionados con conflictos del sindicato o de sus miembros, que se ventilen ante el Tribunal.
+
+IV.- Patrocinar y representar a sus miembros ante las autoridades superiores y ante el Tribunal de Arbitraje cuando así le fuere solicitado.
+
+###### ARTICULO 45.
+
+Queda prohibido a los sindicatos:
+
+I.- Hacer Propaganda de carácter religioso.
+
+II.- Ejercer la función de comerciantes.
+
+III.- Usar de la violencia con los trabajadores libres para obligarlos a que se sindicalicen.
+
+IV.- Fomentar actos delictuosos contra personas o propiedades.
+
+V.- Formar parte de organizaciones o centrales campesinas u obreras.
+
+###### ARTICULO 46.
+
+El sindicato podrá disolverse:
+
+I.- Por que haya transcurrido el término de duración fijado en el acta constitutiva o en los estatutos.
+
+II.- Por el voto de las dos terceras partes de los miembros que lo integran.
+
+III.- Por que deje de reunir los requisitos señalados en el artículo 39 de este ordenamiento.
+
+###### ARTICULO 47.
+
+Los gastos que origine el funcionamiento del sindicato serán cubiertos por los miembros del mismo.
+
+###### ARTICULO 48.
+
+El sindicato reconocido y registrado se regirá también por sus estatutos.
+
+###### ARTICULO 49.
+
+Todos los conflictos que surjan entre los miembros del sindicato de no ser solucionados por su representación serán resueltos por el Tribunal de Arbitraje de acuerdo con las presentes disposiciones.
+
+C A P I T U L O II.
+
+DE LAS CONDICIONES GENERALES DEL TRABAJO.
+
+###### ARTICULO 50.
+
+Las condiciones generales del trabajo se fijarán al iniciarse cada período de los funcionarios de los Poderes, Municipios y Organismos Públicos Coordinados y Descentralizados del Estado, oyendo al sindicato.
+
+Mientras no se dicte acuerdo, se entenderá vigente el del período anterior.
+
+###### ARTICULO 51.
+
+En el acuerdo correspondiente se determinará:
+
+I.- Las horas de trabajo.
+
+II.- La intensidad y calidad del trabajo.
+
+III.- Las horas de entrada y salida de los trabajadores.
+
+IV.- Las normas que deben seguirse para evitar la realización de riesgos profesionales, las disposiciones disciplinarias y la forma de aplicarlas.
+
+V.- Las fechas y condiciones en que aquellos trabajadores deban someterse a examen médico previo o periódico.
+
+VI.- Las demás reglas que fueren convenientes para obtener mayor regularidad, seguridad o eficacia en el trabajo.
+
+VII.- Las condiciones generales de trabajo se registrarán en el Tribunal de Arbitraje del Estado.
+
+###### ARTICULO 52.
+
+En caso de que el sindicato objetare substancialmente el acuerdo respectivo a las condiciones generales del trabajo, podrán ocurrir ante el Tribunal de Arbitraje, que resolverá en definitiva.
+
+C A P I T U L O III.
+
+DE LAS HUELGAS.
+
+###### ARTICULO 53.
+
+Huelga es la suspensión temporal del trabajo como resultado de una coalición de trabajadores, decretada en la forma y términos que esta Ley establece.
+
+###### ARTICULO 54.
+
+Declaración de huelga es la manifestación de voluntad de la mayoría de los trabajadores del Estado, de suspender las labores de acuerdo con los requisitos que establece esta Ley, si los poderes del Estado, los municipios o los Organismos Públicos Coordinados y Descentralizados del Estado, no acceden a sus demandas.
+
+###### ARTICULO 55.
+
+La huelga de trabajadores al servicio del Estado puede ser general o parcial.
+
+###### ARTICULO 56.
+
+La huelga general es la que se endereza en contra de todos los funcionarios de los Poderes del Estado, de los Municipios y de los Organismos Públicos Coordinados y Descentralizados del Estado y sólo puede ser motivada por cualquiera de las siguientes causas:
+
+a).- Por falta de pago de salarios consecutivos correspondientes a dos meses de trabajo, salvo el caso de fuerza mayor que calificará el Tribunal de Arbitraje.
+
+b).- Porque la política general del Estado, comprobada con hechos, sea contraria a los derechos fundamentales que esta Ley concede a los trabajadores del Estado, debiendo en tal caso hacer la comprobación respectiva el propio Tribunal.
+
+###### ARTICULO 57.
+
+La huelga parcial es la que se decreta contra un funcionario o grupo de funcionarios de uno de los Poderes, de uno o varios Municipios o de uno de los Organismos Públicos Coordinados y Descentralizados del Estado, por cualquiera de las siguientes causas:
+
+a).- Violaciones repetidas a este estatuto.
+
+b).- Negativas sistemáticas para comparecer ante el Tribunal de Arbitraje.
+
+c).- Desobediencia a las resoluciones del mismo Tribunal.
+
+###### ARTICULO 58.
+
+La huelga no suspende los efectos de los nombramientos de los trabajadores al servicio del Estado, a menos que el fallo del Tribunal sea adverso a éstos.
+
+###### ARTICULO 59.
+
+La huelga deberá limitarse al mero acto de suspensión de trabajo. Los actos violentos de los huelguistas contra las propiedades o las personas sujetarán a los actores a las responsabilidades penales o civiles correspondientes, perdiendo su calidad de trabajadores al servicio del Estado y por consecuencia todos los derechos contenidos en esta Ley.
+
+C A P I T U L O IV.
+
+DEL PROCEDIMIENTO EN MATERIA DE HUELGAS.
+
+###### ARTICULO 60.
+
+Para declarar una huelga se requiere:
+
+I.- Que sea motivada por alguna o algunas de las causas señaladas en los artículos 56 y 57.
+
+II.- Que sea declarada por una mayoría absoluta de los trabajadores al servicio del Estado dentro de las dependencias afectadas si se trata de una huelga parcial y de las dos terceras partes de los trabajadores, si se trata de una huelga general.
+
+###### ARTICULO 61.
+
+Antes de suspender sus labores los trabajadores deberán presentar al Tribunal de Arbitraje su pliego de peticiones con la copia del acta de la asamblea en que se haya declarado en huelga. Dicho Tribunal, una vez recibido el escrito y sus anexos, correrá el traslado con la copia de ellos al funcionario o funcionarios de quienes dependa la concesión de las peticiones para que se resuelvan en el término de diez días, contados a partir de la notificación.
+
+###### ARTICULO 62.
+
+El Tribunal de Arbitraje decidirá dentro de un término de 72 horas computado desde la fecha en que se reciba copia del escrito acordando la huelga, si ésta es legal o ilegal, según que se hayan satisfecho o no los requisitos a que se refieren los artículos 60 y 61. En el primer caso si la huelga es legal, procederá desde luego a la conciliación de las partes, siendo obligatoria la presencia de éstas en las audiencias de advenimiento.
+
+###### ARTICULO 63.
+
+Si la declaración de huelga se considera legal por el Tribunal de Arbitraje, y si transcurrido el plazo de diez días a que se refiere el artículo 61, no se hubiere llegado a un entendimiento entre las partes, los trabajadores podrán suspender sus labores.
+
+###### ARTICULO 64.
+
+Si el Tribunal resuelve que la declaración de huelga es ilegal, prevendrá a los trabajadores que, en caso de suspender las labores, el acto será considerado como abandono de trabajo y dictará las medidas que juzgue necesarias para evitarse esa suspensión.
+
+###### ARTICULO 65.
+
+Si la suspensión de labores se lleva a cabo antes de los diez días de emplazamiento, si practicado el recuento correspondiente resultare que los huelguistas se encuentran en minoría o si no se llenan todos y cada uno de los requisitos señalados en los artículos anteriores, el Tribunal declarará que no existe el estado de huelga; fijará a los trabajadores un plazo de 24 horas para que reanuden sus labores, apercibiéndolos de que si no lo hacen, quedarán cesados sin responsabilidad para el Estado, salvo en los casos de fuerza mayor o de error no imputable a los trabajadores y declarará que el Estado o funcionarios afectados no han incurrido en responsabilidad.
+
+###### ARTICULO 66.
+
+La huelga será declarada ilegal y aún delictuosa cuando la mayoría de los huelguistas ejecuten actos violentos contra las personas o las propiedades o cuando se decrete en los casos del artículo 29 de la Constitución General.
+
+###### ARTICULO 67.
+
+Si el Tribunal de Arbitraje resuelve que una huelga es ilegal, quedarán cesados por ese solo hecho los trabajadores que hubieren realizado la suspensión de labores sin responsabilidad para el Estado.
+
+###### ARTICULO 68.
+
+En tanto que no se declare ilegal, inexistente o terminado el estado de huelga, el Tribunal de Arbitraje y las autoridades civiles y militares correspondientes deberán respetar el derecho que ejerciten los trabajadores dándoles garantías necesarias y prestándoles el auxilio que soliciten.
+
+###### ARTICULO 69.
+
+La huelga terminará:
+
+I.- Por aveniencia (sic) entre las partes en conflicto.
+
+II.- Por resolución de la asamblea de trabajadores o de sus representantes, tomando el acuerdo de la mayoría compuesta de las dos terceras partes.
+
+III.- Por declaración de ilegalidad.
+
+IV.- Por laudo de la persona o Tribunal que, a solicitud de las partes, se avoque al conocimiento del asunto.
+
+###### ARTICULO 70.
+
+Al resolverse que una declaración de huelga es legal, el Tribunal de Arbitraje, a petición de las autoridades correspondientes y tomando en cuenta las pruebas presentadas, fijará el número de trabajadores que los huelguistas están obligados a mantener en el desempeño de sus labores, a fin de que continúen realizándose aquellos servicios cuya suspensión perjudique la estabilidad de las instituciones o a la conservación de las oficinas o talleres o signifiquen un peligro para la salud pública.
+
+T I T U L O IV.
+
+DE LAS PRESCRIPCIONES.
+
+###### ARTICULO 71.
+
+Las acciones que nazcan de esta Ley, el nombramiento otorgado en favor de los trabajadores al servicio del Estado y de los acuerdos que fijen las condiciones generales del trabajo, prescribirán en un año, con excepción de los casos previstos en los artículos siguientes.
+
+###### ARTICULO 72.
+
+Prescribirán en un mes:
+
+I.- Las acciones para pedir nulidad de un nombramiento hecho por error y la nulidad de un nombramiento expedido en contra de lo dispuesto en esta Ley, contando el término a partir del momento en que el error sea conocido.
+
+II.- Las acciones de los trabajadores para volver a ocupar el puesto que hayan dejado por accidente o enfermedad, contando el plazo a partir de la fecha en que estén en aptitud de volver al trabajo.
+
+###### ARTICULO 73.
+
+Prescribirán en cuatro meses:
+
+I.- En caso de despido o suspensión injustificados, las acciones para exigir la reinstalación de su trabajo o la indemnización que la Ley concede, contados a partir del momento en que sea notificado el trabajador, del despido o suspensión.
+
+II.- En supresión de plaza, las acciones para que se les otorgue otra equivalente a la suprimida o la indemnización de Ley, y
+
+III.- Las acciones de los funcionarios para suspender a los trabajadores por causas justificadas y para disciplinar las faltas de éstos, contando el plazo desde el momento en que se dé causa para la separación o de que sean conocidas las faltas.
+
+###### ARTICULO 74.
+
+Prescriben en dos años:
+
+I.- Las acciones de los trabajadores para reclamar indemnizaciones por incapacidades provenientes de riesgos profesionales realizados.
+
+II.- Las acciones de las personas que dependieron económicamente de los trabajadores muertos, con motivo de un riesgo profesional realizado para reclamar la indemnización correspondiente.
+
+III.- Las acciones para ejecutar las resoluciones del Tribunal de Arbitraje desde que sea ejecutable su resolución.
+
+Los plazos para deducir las acciones a que se refieren las fracciones anteriores, correrán respectivamente.
+
+Desde el momento en que se determine la naturaleza de la incapacidad o de la enfermedad contraída; desde la fecha de la muerte del trabajador o desde que el Tribunal haya dictado la resolución definitiva.
+
+T I T U L O V.
+
+DEL TRIBUNAL DE ARBITRAJE PARA LOS TRABAJADORES DEL ESTADO, MUNICIPIOS Y ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO Y DEL PROCEDIMIENTO QUE DEBE SEGUIRSE CON ELLOS.
+
+C A P I T U L O I.
+
+###### ARTICULO 75.
+
+El Tribunal de Arbitraje deberá ser permanente y lo integrarán un Representante del Gobierno que designará el Ejecutivo, previa conformidad de los Poderes Legislativos (sic) y Judicial; un representante del trabajo designado por el sindicato y un tercer árbitro que nombrarán entre si los dos representantes citados. Este último fungirá como Presidente.
+
+###### ARTICULO 76.
+
+El Presidente del Tribunal durará en su cargo seis años y disfrutará de emolumentos iguales a los que perciba el Presidente de la Junta Local de Conciliación y Arbitraje de la ciudad de Chilpancingo y sólo podrá ser removido por haber cometido delitos graves del orden común o federal. Los miembros del Tribunal de Arbitraje serán designados al principio de cada período de Gobierno.
+
+Los integrantes del Tribunal, representantes de los trabajadores y del Estado, podrán ser removidos libremente por quienes los designaron.
+
+###### ARTICULO 77.
+
+Para ser miembro del Tribunal de Arbitraje se requerirá:
+
+I.- Ser mexicano en pleno goce de sus derechos civiles.
+
+II.- Ser mayor de 25 años.
+
+III.- No haber sido condenado por delitos contra la propiedad o sentenciado a sufrir pena mayor de un año de reclusión por cualquier otra clase de delitos.
+
+IV.- El Presidente del Tribunal de Arbitraje debe ser Licenciado en Derecho, con título registrado en la Ley General de Profesiones.
+
+Los representantes del sindicato deberán haber servido a los Poderes, Municipios u Organismos Públicos Coordinados y Descentralizados del Estado por un período no menor de 5 años, precisamente anteriores a la fecha de la designación.
+
+###### ARTICULO 78.
+
+El Tribunal de Arbitraje contará con un Secretario que podrá desempeñar las funciones de actuario, a falta de éste con el personal que se estime necesario para sus labores.
+
+Los empleados del Tribunal estarán sujetos a la presente Ley, pero los conflictos que se sucitaren (sic) con motivo de la aplicación de la misma, serán resueltos por las autoridades locales del trabajo.
+
+###### ARTICULO 79.
+
+Los gastos que origine el funcionamiento del Tribunal de Arbitraje serán cubiertos por el Estado.
+
+C A P I T U L O II.
+
+DE LA COMPETENCIA DEL TRIBUNAL DE ARBITRAJE.
+
+###### ARTICULO 80.
+
+El Tribunal de Arbitraje será competente:
+
+I.- Para resolver en definitiva los conflictos individuales que se suscitaren entre algunos de los Poderes, Municipios u Organismos Públicos Coordinados y Descentralizados del Estado y sus trabajadores.
+
+II.- Para conocer y resolver los conflictos colectivos que surjan entre el Sindicato y los Poderes, Municipios u Organismos Públicos Coordinados y Descentralizados del Estado.
+
+III.- Para conocer y resolver los conflictos intergremiales que se susciten entre los miembros del sindicato.
+
+IV.- Para llevar a cabo el registro del sindicato de trabajadores al servicio del Estado y la cancelación del mismo registro.
+
+V.- Para efectuar el registro de las condiciones generales de trabajo.
+
+C A P I T U L O III.
+
+DEL PROCEDIMIENTO ANTE EL TRIBUNAL DE ARBITRAJE.
+
+###### ARTICULO 81.
+
+El procedimiento para resolver todas las controversias que se someten al Tribunal se reducirá a la presentación de la demanda respectiva que deberá hacerse por escrito o verbalmente por medio de comparecencia. A la respuesta que se dé en cualquiera de las dos formas citadas y a una sola audiencia en la que se presentarán las pruebas y alegatos de las partes y se pronunciará resolución, salvo cuando a juicio del propio Tribunal se requiera la práctica de diligencias posteriores en cuyo caso se ordenará que se lleven a cabo, y una vez efectuadas se dictará la resolución correspondiente.
+
+###### ARTICULO 82.
+
+La demanda deberá contener:
+
+I.- El nombre y el domicilio del demandante.
+
+II.- El nombre y domicilio del demandado.
+
+III.- El objeto de la demanda.
+
+IV.- Una relación de los hechos y de las pruebas que ofrezca.
+
+V.- La indicación del lugar en que puedan obtenerse las pruebas que el declarante no pudiera aportar directamente y que tengan por objeto la verificación de los hechos en que se funde la demanda y las diligencias que con el mismo fin se soliciten que sean practicadas por el Tribunal.
+
+A la demanda se acompañarán las pruebas de que disponga el reclamante y los documentos que acrediten la personalidad del representante, en caso de que aquél no pudiera recurrir personalmente.
+
+VI.- Una copia de los documentos presentados para el traslado.
+
+###### ARTICULO 83.
+
+La contestación de la demanda se presentará en un término que no exceda de cinco días, contados a partir del siguiente a la fecha de su notificación, deberá referirse a todos y cada uno de los hechos que comprenda la demanda, y ofrecer pruebas en los términos de la fracción V del artículo anterior.
+
+Cuando el domicilio del demandado se encuentre fuera del lugar en que radica el Tribunal, se ampliará el término en un día más por cada 40 kms. de distancia o fracción que exceda de la mitad.
+
+###### ARTICULO 84.
+
+El tribunal ordenará correr traslado de la demanda por la vía más expedita y recibida la contestación, o una vez transcurrido el plazo para contestarla, ordenará la práctica de las diligencias que fueren necesarias y citará a las partes, a los testigos y peritos, para la audiencia de las pruebas, alegatos y resolución.
+
+###### ARTICULO 85.
+
+Los trabajadores podrán comparecer por sí o por representantes acreditados mediante simple carta poder.
+
+Los titulares podrán hacerse representar por apoderados que acrediten ese carácter mediante simple oficio.
+
+###### ARTICULO 86.
+
+Cuando el demandado no conteste la demanda dentro del término concedido o si resulta mal representado, se tendrá por contestada la demanda en sentido afirmativo, salvo prueba en contrario.
+
+###### ARTICULO 87.
+
+Los Secretarios Generales o de Conflictos del Sindicato podrán tener el carácter de asesores de los trabajadores, ante el Tribunal. Tratándose de otros miembros del Sindicato necesitarán autorización del interesado.
+
+###### ARTICULO 88.
+
+El Tribunal apreciará en conciencia las pruebas que se presenten sin sujetarse a reglas fijas para su estimación y resolverá los asuntos a verdad sabida y buena fe guardada debiendo expresar en su laudo las consideraciones en que funden su decisión.
+
+###### ARTICULO 89.
+
+Cualquier incidente que se suscite con motivo de la personalidad de las partes o de sus representantes; de la competencia del Tribunal del interés de terceros sobre la nulidad de actuaciones u otros motivos análogos, será resuelto de plano.
+
+###### ARTICULO 90.
+
+Las notificaciones se harán personalmente a los interesados por los actuarios del Tribunal, o mediante oficio enviado con acuse de recibo.
+
+###### ARTICULO 91.
+
+Todos los términos serán de tres días con excepción de aquellos casos que a juicio del Tribunal deba autorizarse plazo mayor; correrán a partir del día siguiente a aquél en que se haga el emplazamiento, citación o notificación y se contará en ellos el día del vencimiento.
+
+###### ARTICULO 92.
+
+Solo para dictar las resoluciones definitivas deberá estar integrado el Tribunal por dos de sus miembros cuando menos, pero tratándose de la práctica de diligencias, acuerdos y resoluciones de mero procedimiento bastará con la presencia del tercer árbitro y el secretario general de acuerdos, entendiéndose que a su resolución se adhieren los representantes ausentes.
+
+###### ARTICULO 93.
+
+Los miembros del Tribunal no podrán ser recusados.
+
+###### ARTICULO 94.
+
+Las resoluciones dictadas por el Tribunal de Arbitraje serán inapelables y deberán ser cumplidas, desde luego por las autoridades y Organismos Públicos Coordinados y Descentralizados correspondientes.
+
+Pronunciado el laudo, el Tribunal lo notificará a las partes.
+
+T I T U L O VI.
+
+DE LOS MEDIOS DE APREMIO Y DE LA EJECUCION DE LOS LAUDOS.
+
+###### ARTICULO 95.
+
+El tribunal, para hacer cumplir sus determinaciones, podrá imponer multas hasta por mil pesos.
+
+###### ARTICULO 96.
+
+Las multas se harán efectivas por la Dirección General de Hacienda y Economía del Estado, para lo cual el Tribunal girará el oficio correspondiente. La Dirección de Hacienda informará al Tribunal de haber hecho efectiva la multa señalando los datos relativos que acrediten su cobro.
+
+###### ARTICULO 97.
+
+El Tribunal tiene la obligación de promover a la eficaz e inmediata ejecución de los laudos y, a ese efecto, dictará todas las medidas necesarias en la forma y términos que a su juicio sean procedentes.
+
+###### ARTICULO 98.
+
+Cuando se pida la ejecución de un laudo, el Tribunal despachará auto de ejecución y comisionará a un actuario para que, asociado de la parte que obtuvo, se constituya en el domicilio de la demandada y la requiera para que cumpla la resolución apercibiéndola de que, de no hacerlo, se procederá conforme a lo dispuesto en los artículos anteriores.
+
+T I T U L O VII.
+
+DE LAS JUBILACIONES.
+
+###### ARTICULO 99.
+
+Los trabajadores al servicio del Estado, Municipios y de los Organismos Públicos Coordinados y Descentralizados del Estado, tendrán derecho a jubilaciones en los términos y condiciones que establezca la Ley de Pensiones y Compensaciones Civiles del Estado.
+
+T R A N S I T O R I O S :
+
+PRIMERO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Queda derogada la Ley No. 12 del Estatuto de los trabajadores al Servicio del Estado y Municipios de 23 de junio de 1945, publicada el 27 del mismo mes y año en el número 26 del Periódico Oficial, así como todas las disposiciones que se opongan a esta Ley.
+
+TERCERO.- Los juicios que estén pendientes de resolución ante la Junta Local de Conciliación y Arbitraje de Chilpancingo, pasarán al Tribunal de Arbitraje al entrar en vigor este Estatuto e integrarse debidamente dicho cuerpo colegiado.
+
+CUARTO.- El Sindicato Unico reconocido legalmente deberá en un término de 90 días después de publicada esta Ley, llevar a cabo la organización total de los trabajadores al Servicio de los Poderes Municipios y Organismos Públicos Coordinados y Descentralizados del Estado.
+
+QUINTO.- El escalafón de cada uno de los Poderes, Municipios y Organismos Públicos Coordinados y Descentralizados del Estado, deberá estar formado en un plazo no mayor de 90 días a partir de la fecha de publicación de esta Ley, y en él se tomará en cuenta la antiguedad (sic) honestidad e ideología revolucionaria de los trabajadores.
+
+SEXTO.- Los reglamentos interiores de trabajo de cada uno de los Poderes, Municipios Públicos Coordinados y Descentralizados del Estado, deberán estar formulados en un plazo de 90 días a partir de la fecha de publicación de esta Ley.
+
+SEPTIMO.- A la mayor brevedad posible deberá designarse el Tribunal de Arbitraje, debiendo formular las reglamentaciones que requiere su propio funcionamiento.
+
+Dado en el Salón de Sesiones del H. Poder Legislativo, a los tres días del mes de abril, del año de mil novecientos setenta y seis.
+
+DIPUTADA PRESIDENTE.
+
+PROFRA. AUREA MA. LUISA CHAVEZ DIRCIO.
+
+DIPUTADO SECRETARIO.
+
+ANTONIO PINTOS CARBALLO.
+
+DIPUTADO SECRETARIO.
+
+J. GUADALUPE SOLIS GALEANA.
+
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Chilpancingo, Gro., abril 14 de 1976.
+
+ING. RUBEN FIGUEROA FIGUEROA.
+
+EL SECRETARIO GRAL. DE GOBIERNO.
+
+ALFONSO SOTOMAYOR.
