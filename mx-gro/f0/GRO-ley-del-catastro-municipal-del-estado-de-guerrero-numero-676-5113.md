@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-catastro-municipal-del-estado-de-guerrero-numero-676-51
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "1990-12-25"
+last_updated: "1997-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DEL CATASTRO MUNICIPAL DEL ESTADO DE GUERRERO NUMERO 676
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -205,6 +205,18 @@ III.- El Director o encargado del área de Catastro Municipal.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
+###### ARTICULO 5
+
+BIS (SIC).- Los H. Ayuntamientos de la Entidad mediante reglas de carácter general, podrán solicitar a la Secretaría de Finanzas y Administración del Gobierno del Estado lo siguiente:
+
+I.- Emitir las normas, lineamientos y procedimientos técnicos a los que se podrá apegar la actividad catastral municipal.
+
+II.- Apoyar a las Direcciones o Areas de Catastro de los Municipios en la determinación de los parámetros valuatorios de terreno y construcción para realizar la valuación de la propiedad raíz.
+
+III.- Establecer los lineamientos de valuación y revaluación, a través del manual de valuación catastral.
+
+IV.- Ejercer las atribuciones cuando los Municipios celebren convenios con el Gobierno del Estado para la administración del impuesto predial.
+
 ###### ARTICULO 6o.
 
 Son funciones y atribuciones del Director o encargado del área del Catastro.
@@ -217,7 +229,9 @@ II.- Practicar los levantamientos de los diferentes planos catastrales así como
 
 III.- Registrar oportunamente los cambios que se operan en la propiedad y pue (sic) por cualquier concepto alteren los datos contenidos en los registros catastrales.
 
-IV.- Proponer los valores unitarios y elaborar los procedimientos para su aplicación, así como la de su actualización permanente; los que una vez aprobados por la autoridad competente, servirán de base para la valuación de la propiedad raíz.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+IV.- Someter a la consideración de las autoridades municipales competentes los valores unitarios, así como su permanente actualización, y una vez aprobados servirán de base para la valuación de la propiedad raíz.
 
 V.- Auxiliar a los organismos, oficinas o instituciones públicas cuyas atribuciones o actividades en materia de planeación, planificación o elaboración y realización de proyectos específicos del desarrollo estatal, requieran de los datos contenidos en el catastro.
 
@@ -231,13 +245,17 @@ IX.- Proponer las reformas necesarias a la legislación catastral tendientes a m
 
 X.- Lo demás que señala esta ley y su reglamento.
 
-### CAPITULO III. De las Operaciones Catastrales
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO IV. De la Valuación Catastral
+### CAPITULO II-BIS. De la Coordinación en Materia de Catastro con el Gobierno del Estado
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+### CAPITULO III. De las Operaciones Catastrales
 
 ###### ARTICULO 7o.
 
-El Presidente Municipal, a través de la Tesorería del Municipio, reglamentará los lineamientos y disposiciones catastrales, los sistemas técnicos y administrativos relacionados con las operaciones catastrales.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 1997)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -249,7 +267,9 @@ I.- Localización y levantamiento de los predios, incluyendo las operaciones nec
 
 II.- Formación y conservación de los padrones catastrales.
 
-III.- Determinar los valores unitarios de terreno y construcción.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+III.- Determinar los valores unitarios de terreno y construcción, en coordinación con la Secretaría de Finanzas y Administración.
 
 IV.- Valuación de predios.
 
@@ -265,11 +285,11 @@ Con base en los elementos físicos del predio y datos obtenidos, se formarán y 
 
 El catastro del municipio se basará en la planificación, medición y avalúo de cada uno de los predios que lo integran auxiliándose en tanto éstos trabajos se ejecutan, con las manifestaciones que conforme a esta ley presenten los contribuyentes.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 11.
 
-La Tesorería Municipal por conducto de la Dirección o área del Catastro y mediante procedimientos que se establezcan en los diferentes instructivos, determinará los parámetros valuatorios para los diferentes tipos de construcción y de terreno.
+La Tesorería Municipal por conducto de la Dirección o Area de Catastro y mediante procedimientos que se establezcan en los diferentes instructivos, podrán determinar en coordinación con la Secretaría de Finanzas y Administración los parámetros valuatorios para los diferentes tipos de construcción y terrenos.
 
 ###### ARTICULO 12.
 
@@ -327,9 +347,7 @@ En caso de afectar a predios colindantes y no se llegara a una conformidad plena
 
 La Dirección o área del Catastro expedirá copias certificadas de los planos y documentos relativos a los predios previo pago de los derechos que determinen la Ley de Ingresos de los Municipios.
 
-### CAPITULO V. De las Obligaciones Catastrales
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+### CAPITULO IV. De la Valuación Catastral
 
 ###### ARTICULO 20.
 
@@ -339,19 +357,19 @@ La valuación catastral tiene por objeto asignar valores a los bienes inmuebles 
 
 Los parámetros valuatorios de terreno y construcción que sirvan de base para la determinación de los valores catastrales, serán actualizados conforme a las disposiciones de esta ley y su reglamento.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 22.
 
-Para determinar el valor catastral de cada predio, se aplicarán los parámetros valuatorios para el terreno y para los diferentes tipos de construcción que al efecto elabore la Dirección o área del Catastro y sean autorizados por el Presidente Municipal.
+Para determinar el valor catastral de cada predio, se aplicarán los parámetros valuatorios para el terreno y para los diferentes tipos de construcción que al efecto elabore la Dirección o Area de Catastro en coordinación con la Secretaría de Finanzas y Administración para que previa discusión y en su caso aprobación sean autorizadas por el H. Cabildo Municipal.
 
 ###### ARTICULO 23.
 
 El valor catastral de los predios determinado técnicamente, se convertirá en valor fiscal de los mismos y deberá considerar invariablemente el valor del terreno, el de las construcciones y obras de mejoramiento ó adicionales que constituyan parte integrante del inmueble; dicho valor podrá ser modificado por las autoridades competentes cuando ocurran las siguientes causas:
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-I.- Cuando el avalúo tenga más de "un año" de antigüedad.
+I.- Cuando el Avalúo tenga más de 1 año de antigüedad, en el caso de predios urbanos, y más de 3 años para predios rústicos.
 
 II.- Cuando en el predio se hagan construcciones, reconstrucciones, o ampliaciones de las construcciones ya existentes.
 
@@ -383,15 +401,21 @@ X.- Cuando se dividan terrenos por la apertura de calles o la realización de ot
 
 La Dirección o área del Catastro en los casos en que no se puede determinar técnicamente el valor catastral de un predio o de aquellos originados por la fusión y división de otros, lo fijará provisionalmente con base en los elementos de que disponga.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 25.
 
-Para efectuar el proceso de valuación de los predios urbanos deberá partirse del parámetro valuatorio por metro cuadrado aplicable, conforme a su localización y en relación con los polos de desarrollo local definidos, o bien a la zona y calle de su ubicación, tomando en consideración las disposiciones que en materia de valuación contenga el reglamento y los instructivos correspondientes.
+Para efectuar el proceso de valuación y revaluación catastral de los predios urbanos deberá partirse del parámetro valuatorio por metro cuadrado aplicable, conforme a su localización y en relación con los polos de desarrollo local definidos, o bien a la zona y calle de su ubicación, tomando en consideración las disposiciones que en materia de valuación y revaluación contenga el reglamento y los instructivos correspondientes.
 
 ###### ARTICULO 26.
 
 Para la determinación de los parámetros valuatorios de la tierra, tratándose de los predios comprendidos en las zonas urbanas, se tomará en cuenta su localización para el caso de su análisis con apoyo en polos locales de desarrollo, o bien el uso predominante de los predios en cada vía y zona respectiva, los servicios urbanos existentes, medios de comunicación y en general todos aquellos factores determinantes en el valor de la tierra, cuando sea aplicable el procedimiento de valores de calle.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+ARTICULO 26 BIS.- Para la valuación y revaluación catastral de cada terreno deberá multiplicarse el valor unitario de suelo aplicable de la zona catastral donde se ubique, por la superficie del terreno y por los factores de demérito o incrementos que correspondan a su ubicación, forma y topografía.
+
+Para la valuación y revaluación catastral de cada construcción deberá multiplicarse el valor unitario de la construcción aplicable a cada tipo de edificación por el área construida y por los factores de demérito o incrementos que correspondan a su antigüedad y grado de conservación.
 
 ###### ARTICULO 26
 
@@ -407,39 +431,41 @@ Los valores de las unidades tipo de terreno en las zonas rústicas se fijarán p
 
 Los valores de las unidades tipo para edificaciones, se determinarán en función de las características de cada uno de los elementos estructurales y arquitectónicos que las integren; y su establecimiento se realizará mediante los cuadros de tipos de edificación o conforme a la implementación matemática de las tablas de clasificaciones constructivas.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 29.
 
-Una vez formuladas las tablas y cuadros de parámetros valuatorios y unidades tipo, se enviarán en calidad de proyecto, por conducto de la Tesorería Municipal al Presidente Municipal, quien las rectificará o autorizará, en la inteligencia de que su decisión será definitiva.
+Una vez formuladas las tablas y cuadros de parámetros valuatorios y unidades tipo, se enviarán en calidad de proyecto, por conducto de la Tesorería Municipal al Presidente Municipal quien a su vez las presentará al H. Cabildo Municipal para su rectificación o autorización correspondiente.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 30.
 
-Las tablas y cuadros de valores por unidades tipo deberán ser del dominio público y, al efecto, se fijarán en lugares visibles en la Tesorería Municipal correspondiente.
+Las tablas y cuadros de valores por unidades tipo deberán ser del dominio público y surtirán efecto a partir de su publicación en la gaceta municipal y en 2 periódicos de mayor circulación en el municipio; en caso de que alguno de los Ayuntamientos de esta Entidad Federativa no cuente con gaceta municipal ni con periódicos locales, su publicación se efectuará únicamente por estrados, que se fijarán en lugares visibles de la Tesorería Municipal y de mayor concurrencia de la población.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
-
-La Dirección o área del Catastro resolverá las dudas que se susciten en lo referente a la aplicación de las tablas de parámetros valuatorios y unidades tipo.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 31.
 
-Aprobadas las tablas y cuadros de parámetros valuatorios y unidades tipo, la Dirección o área del Catastro, procederá a la valuación individual de los predios.
+Aprobadas las tablas y cuadros de parámetros valuatorios y unidades tipo, la Dirección o Area de Catastro, procederá a la valuación y revaluación individual de los predios.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 32.
 
-La valuación catastral de los predios se llevará a efecto, por el sistema de cálculo establecido por la Dirección o área del Catastro, la cual dictará las disposiciones administrativas y técnicas a que deberán sujetarse estos procesos.
+La valuación y revaluación catastral de predios se llevará a efecto, por el sistema de cálculo establecido por las autoridades fiscales municipales en coordinación con la Secretaría de Finanzas y Administración, quienes establecerán las disposiciones técnicas a que deberán sujetarse estos procedimientos.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 33.
 
-La valuación en particular de los predios rústicos y urbanos se hará con aplicación específica de las tablas y cuadros de parámetros valuatorios y unidades tipo, en la forma que determine esta ley y las normas que fije el instructivo de valuación correspondiente.
+La valuación y revaluación catastral en particular de los predios rústicos y urbanos se hará con aplicación específica de las tablas y cuadros de parámetros valuatorios y unidades tipo, en la forma que determine esta Ley y las normas que fije el instructivo de valuación y revaluación correspondiente.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 34.
 
-Los valores unitarios comprendidos en las tablas y cuadros de parámetros valuatorios y unidades tipo, serán objeto de revisión cada año para predios urbanos y de 3 años para predios rústicos. Si al término de estos períodos no se expiden nuevas tablas, continuarán vigentes.
+Los valores unitarios comprendidos en las tablas y cuadros de parámetros valuatorios y unidades tipo serán objeto de actualización cada año para predios urbanos y de 3 años para predios rústicos. Si al término de éstos períodos no se expiden nuevas tablas, continuarán rigiendo las vigentes.
 
 ###### ARTICULO 35.
 
@@ -453,13 +479,21 @@ En los casos de edificaciones construidas bajo los regímenes de condominio, tie
 
 En tales casos, cada localidad se empadronará con número de cuenta y clave catastral por separado, para efectos del pago del impuesto predial, en los términos de la Ley respectiva.
 
-### CAPITULO VI. De los Fraccionamientos y Condominios
+### CAPITULO V. De las Obligaciones Catastrales
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 37.
 
 Todo propietario o poseedor de predios, tiene la obligación de manifestarlo en el primer mes de cada año a la Dirección o Area de Catastro Municipal, en las formas oficiales expedidas al efecto, y deberán anexar los documentos y planos que se indiquen en las mismas.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 37
+
+BIS.- Las personas morales están obligadas a valuar o revaluar sus inmuebles cada 5 años, sirviendo como base el avalúo que practique el perito valuador debidamente autorizado por la Secretaría de Finanzas y Administración, el cual deberá ser presentado dentro de los primeros 60 días del año a que corresponda.
+
+En caso de que las personas morales no presenten la declaración a través de avalúo en la fecha establecida, la autoridad municipal por medio de perito valuador debidamente autorizado que ésta designe, realizará el avalúo cuyo costo estará a cargo del contribuyente.
 
 ###### ARTICULO 38.
 
@@ -529,7 +563,7 @@ De igual manera están obligados a dar aviso del cambio de su domicilio dentro d
 
 Si no lo hicieren se tendrá como legal el que hubieren señalado con anterioridad o el del predio de referencia.
 
-### CAPITULO VII. De las Notificaciones
+### CAPITULO VI. De los Fraccionamientos y Condominios
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -617,19 +651,21 @@ Los notarios y las oficinas del registro público no autorizarán los documentos
 
 En los casos de fraccionamientos que se constituyan total o parcialmente sin la autorización respectiva, la Dirección o Area del Catastro Municipal ante una situación de hecho, procederá tan pronto tenga conocimiento de ello a efectuar las operaciones catastrales correspondientes con carácter provisional, comunicando de inmediato a las autoridades correspondientes, a efecto de que éstas procedan a fincar las responsabilidades penales, civiles o administrativas, en los términos de los ordenamientos relativos, sin perjuicio de aplicar las sanciones fiscales y cobros omitidos.
 
-### CAPITULO VIII. Del Recurso, Administrativo
+### CAPITULO VII. De las Notificaciones
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 54.
 
-La Dirección o Area de Catastro Municipal, notificará a los propietarios, poseedores o a los representantes legales toda clase de citatorios, acuerdos, resoluciones, avalúos y cualesquiera otras operaciones catastrales relacionadas con el inmueble, en el predio objeto de la operación en el caso de que esté construido o en el domicilio señalado por escrito para oír y recibir notificaciones, tratándose de terreno baldío.
+La Dirección o Area del Catastro Municipal, notificará a los propietarios, poseedores o a los representantes legales toda clase de citatorios, acuerdos, resoluciones, avalúos y cualesquiera otras operaciones catastrales relacionadas con el inmueble, en el predio objeto de la operación en el caso de que esté construido o en el domicilio señalado por escrito para oír y recibir notificaciones, tratándose de terreno baldío, exceptuando lo que contempla la fracción I del artículo 23 de esta Ley, en cuyo caso la revaluación, determinada con base en las tablas de valores unitarios para terreno y construcción, surtirá todos sus efectos con la simple publicación de dichas tablas de valores, en los términos que señala el artículo 30 de la presente Ley.
 
 ###### ARTICULO 55.
 
 Las notificaciones a los contribuyentes a que de lugar la aplicación de la presente ley se harán en los términos que señala el Código Fiscal Municipal.
 
-### CAPITULO IX. Disposiciones Generales
+### CAPITULO VIII. Del Recurso, Administrativo
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 56.
 
@@ -655,9 +691,7 @@ V.- Falta de aplicación de los coeficientes de demérito o incremento que estab
 
 VI.- Cualquier otro error u omisión que modifique la valuación del predio, y que el contribuyente considere le afecta a sus intereses.
 
-### CAPITULO X. De los Peritos Valuadores
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
+### CAPITULO IX. Disposiciones Generales
 
 ###### ARTICULO 59.
 
@@ -688,6 +722,10 @@ En los casos de predios no registrados en la Dirección o área del Catastro por
 El Tesorero Municipal autorizará los instructivos necesarios para llevar a cabo los trabajos catastrales a que se refiere esta ley.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+### CAPITULO X. De los Peritos Valuadores
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 64.
 
@@ -725,25 +763,31 @@ III.- Pago de derechos correspondientes al Registro Estatal del ejercicio fiscal
 
 Los trabajos de valuación inmobiliaria formulados por los Peritos Valuadores inscritos en el Registro Estatal, quedan sujetos al control y supervisión de la Secretaría de Finanzas y Administración del Gobierno del Estado, quien de oficio o a petición de los particulares, en cualquier tiempo podrá revisar los avalúos.
 
-En los avalúos para fines fiscales, se utilizarán los formatos que empleen las sociedades nacionales de crédito y los Ayuntamientos, debiendo contener los siguientes datos:
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-I.- Nombre y firma autógrafa del Perito Valuador.
+En los avalúos para fines fiscales se utilizarán los formatos que emplee el Gobierno del Estado, debiendo contener los datos que se establezcan en la reglamentación que la Secretaría de Finanzas y Administración expida para tal efecto.
 
-II.- Número de registro asignado por la Secretaría de Finanzas y Administración.
+I.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1997)
 
-III.- Clave catastral del predio valuado.
+II.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1997)
 
-IV.- Descripción en cuanto a sus características y una de cada una de las edificaciones del inmueble.
+III.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1997)
 
-V.- Croquis de ubicación del predio, con medidas y colindancias.
+IV.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1997)
 
-VI.- Valor catastral o fiscal vigente a la fecha del avalúo.
+V.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1997)
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
+VI.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1997)
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+La Secretaría de Finanzas y Administración asumirá la facultad de autorizar los avalúos para fines fiscales, elaborados por los peritos valuadores inscritos en el registro estatal, así mismo establecerá y emitirá los lineamientos, normas técnicas y reglamentación a las que se sujetarán sus trabajos de valuación inmobiliaria.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 68.
 
-Los valores unitarios de suelo y de construcción que se utilicen en los avalúos comerciales para efectos fiscales, serán aquellos que resulten de la aplicación del método, que por uso ha sido considerado como aceptable y en ningún caso, se aplicarán valores unitarios menores a los catastrales vigentes.
+Los valores unitarios de suelo y de construcción que se utilicen en los avalúos con fines fiscales, serán autorizados por la Secretaría de Finanzas y Administración del Estado mismos que serán elaborados con apoyo del Instituto Mexicano de Valuación que exista en la Entidad y serán objeto de actualización durante el primer mes de cada ejercicio fiscal.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
 
@@ -810,3 +854,13 @@ P.O. 25 DE DICIEMBRE DE 1990.
 PRIMERO.- Todos los Peritos Valuadores que ejerzan dicha actividad en el ámbito Estatal, tienen noventa días para registrarse ante la Secretaría de Finanzas y Administración de Gobierno del Estado, contados a partir de que entra en vigor el presente Decreto.
 
 SEGUNDO.- Este Decreto empezará a surtir sus efectos al día siguiente de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE DICIEMBRE DE 1997.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y ocho.
