@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-estado-de-zacatecas-para-el-ejercicio-36030
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2003-12-31"
-last_updated: "2003-12-31"
+last_updated: "2004-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE INGRESOS DEL ESTADO DE ZACATECAS, PARA EL EJERCICIO FISCAL DEL AÑO 2004
 
-LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL DEL 2004.
+LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL DEL 2004
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL DEL AÑO 2005, PUBLICADA EN EL PERIODICO OFICIAL EL 22 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el Miércoles 31 de Diciembre de 2003.
 
@@ -131,8 +133,18 @@ EL GOBERNADOR DEL ESTADO DE ZACATECAS
 
 DR. RICARDO MONREAL ÁVILA.
 
-EL SECRETARIO GENERAL LA SECRETARIA DE FINANZAS
+EL SECRETARIO GENERAL GOBIERNO
 
-GOBIERNO
+ING. PEDRO DE LEÓN MOJARRO.
 
-ING. PEDRO DE LEÓN MOJARRO. C.P. PATRICIA SALINAS ALATRORRE
+C.P. PATRICIA SALINAS ALATORRE
+
+LA SECRETARIA DE FINANZAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE DICIEMBRE DE 2004.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley de Ingresos del Estado para el año 2004 contenida en el Decreto No. 396, publicada en el tomo CXIII suplemento número 1 al 105 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 31 de Diciembre del año 2003.
