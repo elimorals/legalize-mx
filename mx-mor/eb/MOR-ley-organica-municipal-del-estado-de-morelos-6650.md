@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-6650"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-11-04"
-last_updated: "1992-11-04"
+last_updated: "1993-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 1993.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos el 4 de noviembre de 1992.
 
@@ -327,19 +327,23 @@ Los Ayuntamientos, que se renovarán cada tres años, se integrarán con un Pres
 
 Los Presidentes Municipales, Regidores y Síndicos del Ayuntamiento, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen funciones propias de estos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios no podrán ser electos para el período inmediato, con el carácter de suplentes; pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1993)</small>
+
 ###### Artículo 32.
 
-El número de Regidores que corresponde a cada municipio será de:
+El número de Regidores que corresponde a cada Municipio será de:
 
-I.- Once Regidores: Cuernavaca;
+I.- Quince Regidores: Cuernavaca;
 
-II.- Nueve Regidores: Cuautla y Jiutepec;
+II.- Once Regidores: Cuautla y Jiutepec;
 
-III.- Siete Regidores: Ayala, Jojutla, Temixco y Yautepec;
+III.- Nueve Regidores: Ayala, Jojutla, Temixco y Yautepec;
 
-IV.- Cinco Regidores: Axochiapan, Emiliano Zapata, Puente de Ixtla, Tepalcingo, Tepoztlán, Tlaltizapán, Tlaquiltenango, Xochitepec y Zacatepec; y,
+IV.- Siete Regidores: Emiliano Zapata, Puente de Ixtla, Tlaltizapán, y Zacatepec;
 
-V.- Tres Regidores: Amacuzac, Atlatlahucan, Coatlán del Río, Huitzilac, Jantetelco, Jonacatepec, Mazatepec, Miacatlán, Ocuituco, Temoac, Tetecala, Tetela del Volcán, Tlalnepantla, Tlayacapan, Totolapan, Yecapixtla y Zacualpan.
+V.- Cinco Regidores: Axochiapan, Miacatlán, Tepalcingo, Tepoztlán, Tlaquiltenango, Yecapixtla y Xochitepec
+
+IV.- Tres Regidores: Amacuzac, Atlatlahucan, Coatlán del Río, Huitzilac, Jantetelco, Jonacatepec, Mazatepec, Ocuituco, Temoac, Tetecala, Tetela del Volcán, Tlalnepantla, Tlayacapan, Totolapan, y Zacualpan.
 
 ###### Artículo 33.
 
@@ -1972,3 +1976,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 ALFREDO DE LA TORRE Y MARTINEZ
 
 R ú b r i c a s
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE DICIEMBRE DE 1993.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación el (sic) el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO- Remítase el presente decreto al titular del Poder Ejecutivo Estatal para los efectos constitucionales correspondientes.
