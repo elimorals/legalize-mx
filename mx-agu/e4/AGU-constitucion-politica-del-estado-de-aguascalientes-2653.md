@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1993-06-06"
+last_updated: "1994-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 1993.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 1994.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -365,15 +365,23 @@ IV.- Autorizar al Ejecutivo y a los Ayuntamientos, para celebrar empréstitos so
 
 Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan incremento de los ingresos públicos.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 1994)</small>
 
-V.- Examinar las cuentas que trimestralmente deben presentarle el Gobernador del Estado y los Presidentes Municipales, debiendo comprender dicho examen no sólo la conformidad de las partidas gastadas con los Presupuestos de Egresos, sino también la exactitud y justificación de tales partidas.
+V.- Examinar las cuentas públicas que mensualmente deben presentarle el Gobernador del Estado y los Presidentes Municipales, los primeros diez días de cada mes al Congreso del Estado, y en los recesos de éste, a la Diputación Permanente, turnándolas de inmediato para su revisión a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, debiendo comprender dicha revisión no sólo la conformidad de las partidas gastadas con los Presupuestos de Egresos, sino también la exactitud y justificación de tales partidas.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 La revisión de la cuenta pública tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se han ajustado a los criterios señalados por el Presupuesto y al cumplimiento de los objetivos contenidos en los programas.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
+
 Si del examen que realice el Congreso aparecieren discrepancias entre las cantidades gastadas y las partidas respectivas del Presupuesto, o no existiera exactitud o justificación en los gastos hechos, se determinarán las responsabilidades de acuerdo con la Ley.
 
-La Cuenta Pública será presentada trimestralmente al Congreso del Estado y en su receso a la Diputación Permanente para que en ambos casos se turne de inmediato a la Comisión competente y ésta dictamine sobre la misma y se someta a la aprobación del Congreso al inicio del Período Ordinario de Sesiones o en el Período Extraordinario correspondiente.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1994)</small>
+
+La Cuenta Pública deberá ser aprobada semestralmente por el Honorable Congreso del Estado. La correspondiente al primer semestre del año, en el Primer Período Ordinario de Sesiones; y el segundo semestre en el Segundo Período Ordinario de Sesiones.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 Sólo se podrá ampliar el plazo de presentación de las iniciativas de Leyes de Ingresos y del proyecto de Presupuesto de Egresos del Estado, así como de la cuenta pública del Estado y Municipios cuando medie solicitud del Ejecutivo o del Presidente Municipal respectivo, suficientemente justificada a juicio de la Cámara o de la Diputación Permanente, debiendo comparecer en todo caso el servidor público correspondiente a informar de las razones que lo motiven.
 
@@ -843,7 +851,7 @@ Los Magistrados y Jueces serán inamovibles. Sólo podrán ser privados de sus c
 
 Corresponde al Supremo Tribunal de Justicia:
 
-I.- Conocer en los juicios civiles y penales de las instancias y recursos que sean de su competencia, conforme a las leyes secundarias;
+I.- Conocer en los juicios civiles y penales de las instancias y recursos que sean de su competencia, conforme a las leyes secundarias.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
@@ -857,7 +865,7 @@ III.- Declarar si ha lugar a formación de causa en contra de los Jueces, por il
 
 IV.- Nombrar y remover a los servidores públicos del Poder Judicial. Respecto de los jueces se observarán las prevenciones de los Artículos 55 y 56 de esta Constitución.
 
-V.- Conceder licencia hasta por treinta días a los Magistrados para separarse de sus cargos, y llamar a los Suplentes respectivos. Las solicitudes de licencia que excedan de este término serán acordadas por el Gobernador;
+V.- Conceder licencia hasta por treinta días a los Magistrados para separarse de sus cargos, y llamar a los Suplentes respectivos. Las solicitudes de licencia que excedan de este término serán acordadas por el Gobernador.
 
 VI.- Formar su Reglamento Interior y el de los Juzgados; y
 
@@ -1608,3 +1616,7 @@ P.O. 6 DE JUNIO DE 1993.
 PRIMERO.- En virtud de que esta reforma eleva a rango Constitucional a la Procuraduría de Protección Ciudadana, como organismo expresamente para tutelar los derechos humanos se deja sin efecto el decreto que crea la Comisión Estatal de Derechos Humanos.
 
 SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE FEBRERO DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
