@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2002-07-10"
+last_updated: "2002-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE OCTUBRE DE 2002.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -895,9 +895,11 @@ XLVIII.- Las demás que señalen esta Constitución y sus leyes.
 
 Las Leyes determinarán las relaciones entre las Entidades Paraestatales y el Gobernador y por el funcionario del ramo relativo.
 
-> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2002)</small>
 
-81.- Toda Ley o Decreto será refrendada por el Secretario General de Gobierno y por el Secretario del ramo.
+81.- Los reglamentos, Decretos, Acuerdos y órdenes expedidos por el Gobernador del Estado, deberán, para su validez y observancia, ser refrendados por el Secretario General de Gobierno y por el Secretario del Ramo respectivo; cuando se refieran (sic) asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por todos los titulares de las mismas.
+
+Tratándose de Decretos de publicación de la (sic) Leyes o Decretos expedidos por el Congreso del Estado, solo se requerirá el refrendo del Secretario General.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE DICIEMBRE DE 1993)</small>
 
@@ -2358,3 +2360,9 @@ DECRETO NUMERO 1367.
 ###### ARTÍCULO UNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE OCTUBRE DE 2002.
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
