@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-regula-las-actividades-de-los-23424"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-13"
-last_updated: "2003-01-13"
+last_updated: "2003-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO QUE REGULA LOS ESTABLECIMIENTOS DONDE SE VENDE Y/O CONSUME CERVEZA Y/O BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 de febrero de 2002.
 
@@ -81,9 +81,11 @@ INFRACCION: Es una violación al presente reglamento.
 
 La venta y/o consumo de bebidas alcohólicas y/o cerveza, sólo podrá realizarse en los establecimientos que señale este Reglamento, previa licencia o permiso especial que para tal efecto otorgue la Autoridad Municipal competente, conforme al presente ordenamiento.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 4.
 
-Las licencias otorgadas son personales, y por lo tanto intransferibles, y sólo podrán ser ejercidas por el titular y en el establecimiento autorizado. La persona que aparezca como titular se hará responsable del pago de todos los adeudos fiscales que se ocasionen con motivo de la operación del establecimiento.
+Las licencias otorgadas son personales, y por lo tanto intransferibles, y sólo podrán ser ejercidas por el titular y en el establecimiento autorizado, exceptuando aquellos casos que refiere el presente Ordenamiento. La persona que aparezca como titular se hará responsable del pago de todos los adeudos fiscales que se ocasionen con motivo de la operación del establecimiento.
 
 ###### ARTICULO 5.
 
@@ -115,19 +117,27 @@ VIII. Los Servidores Públicos a quienes se deleguen facultades expresas para la
 
 Son atribuciones del R. Ayuntamiento:
 
-I. Fijar, en el presente Reglamento, los horarios de funcionamiento de los establecimientos atendiendo a su clasificación y giro.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+I. Fijar, en el presente Reglamento, los horarios para la venta y consumo de cerveza y bebidas alcohólicas en los establecimientos atendiendo a su clasificación y giro.
 
 II. Aprobar o rechazar, en su caso, las licencias o permisos a que se refiere este ordenamiento.
 
-III. Autorizar o negar los cambios de domicilio y/o de giro, cumpliendo con los requisitos señalados en este Reglamento.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+III. Autorizar o negar los cambios de titular, domicilio y/o de giro de las licencias, cumpliendo con los requisitos señalados en este Reglamento.
 
 IV. Negar la expedición de licencias o permisos especiales a menores de edad o a quienes no cumplan con los requisitos señalados en este Reglamento.
 
 V. Negar la expedición de licencias o permisos especiales a quien se demuestre haya proporcionado datos falsos para obtener los mismos.
 
-VI. Expedir permisos para eventos especiales en los términos del presente Reglamento, excepto los que serán autorizados por el Presidente Municipal, para eventos sin fines de lucro.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
-VII. Resolver los procedimientos de cancelación de licencias o permisos especiales de acuerdo a lo dispuesto en el presente Ordenamiento.
+VI. Expedir permisos para eventos especiales en los términos del presente Reglamento, excepto los que serán autorizados por el Presidente Municipal para eventos sin fines de lucro.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+VII. Resolver los procedimientos de revocación de licencias o permisos especiales de acuerdo a lo dispuesto en el presente Ordenamiento.
 
 VIII. Autorizar, de manera general o en determinados giros, la ampliación o disminución temporal de los horarios establecidos en este Reglamento cuando así lo considere necesario por existir en la ciudad eventos o circunstancias especiales que a su consideración lo ameriten.
 
@@ -145,15 +155,25 @@ II. Determinar la suspensión de la venta y consumo de bebidas alcohólicas y/o 
 
 III. Autorizar o negar los permisos especiales para eventos sin fines de lucro.
 
-IV. Las demás que le confiere este Reglamento y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+IV. Dictar la revocación de los permisos especiales que otorgue en términos del presente Ordenamiento, cuando el titular de dicho permiso incumpla con alguna disposición expresa en el mismo o cometa una infracción al presente Reglamento.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+V. Las demás que le confiere éste Reglamento y demás disposiciones jurídicas aplicables.
 
 ###### ARTICULO 9.
 
 Son atribuciones de la Secretaría del R. Ayuntamiento:
 
-I. Recibir a través de la Dirección de Inspección y Vigilancia las solicitudes para la expedición de licencias y permisos especiales que hayan cumplido con los requisitos estipulados en el presente ordenamiento y turnarlas a la Comisión de Alcoholes para su estudio, dictamen y posterior aprobación o rechazo, en su caso, por el R. Ayuntamiento.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
-II. Recibir de la Dirección de Inspección y Vigilancia las solicitudes de cambios de domicilio y/o de cambio de giro.
+I. Recibir a través de la Dirección de Inspección y Vigilancia las solicitudes para la expedición de licencias y permisos especiales que hayan cumplido con los requisitos estipulados en el presente ordenamiento y turnarlas a la Comisión de Alcoholes y Espectáculos para su estudio, dictamen y posterior aprobación o rechazo, en su caso, por el R. Ayuntamiento.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+II. Recibir de la Dirección de Inspección y Vigilancia las solicitudes de cambios de titular, domicilio y/o giro de las licencias expedidas por el R. Ayuntamiento.
 
 III. Ordenar visitas de inspección a los establecimientos a que se refiere este ordenamiento.
 
@@ -163,19 +183,29 @@ V. Ordenar el arresto cuando así proceda por violaciones a este ordenamiento.
 
 VI. Ordenar la imposición y reimposición de sellos o símbolos de clausura en caso de violación a los mismos.
 
-VII. Ordenar el retiro de sellos y/o símbolos de clausura una vez que se hayan liquidado las multas y así proceda conforme a derecho o por resolución de autoridad judicial competente.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
-VIII. Enviar dentro del término de 10 días hábiles el expediente relativo a las clausuras definitivas realizadas, por conducto de la Comisión de Alcoholes al R. Ayuntamiento para los efectos de la cancelación, en su caso, de la licencia o permiso especial.
+VII. Ordenar el retiro de sellos y/o símbolos de clausura una vez que se hayan liquidado las multas y así proceda conforme a derecho o por resolución de autoridad judicial o administrativa competente.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+VIII. Enviar dentro del término de 10 días hábiles el expediente relativo a las clausuras definitivas realizadas, por conducto de la Comisión de Alcoholes al R. Ayuntamiento para los efectos de la revocación, en su caso, de la licencia o permiso especial.
 
 IX. Expedir certificados o constancias de licencias o permisos especiales al solicitante, cuando éste reúna los requisitos que fija este ordenamiento.
 
-X. Recibir, tramitar y resolver el recurso de inconformidad en los supuestos de aplicación de este ordenamiento.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+X. Recibir, tramitar y resolver el recurso de inconformidad en términos de este Ordenamiento.
 
 XI. Llevar, a través de la Dirección de Inspección y Vigilancia, el registro de licencias y permisos especiales.
 
-XII. Firmar los permisos especiales y licencias autorizados por el R. Ayuntamiento, y cuidar que en las mismas se incluyan todos los requisitos necesarios para su identificación.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
-XIII. Notificar a la Tesorería Municipal y a la Dirección de Inspección y Vigilancia lo relativo a la expedición de licencias y permisos especiales, así como los cambios de giros o de domicilio, revocaciones o cualquier otro cambio que se autorice, a más tardar dentro de 5 días hábiles con posterioridad a su aprobación.
+XII. Firmar las licencias y los permisos especiales autorizados por el R. Ayuntamiento, y los autorizados por el Presidente Municipal, cuidando que se incluyan todos los requisitos necesarios para su identificación.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+XIII. Notificar a la Tesorería Municipal y a la Dirección de Inspección y Vigilancia lo relativo a la expedición de licencias y permisos especiales, así como los cambios de titular, giro o de domicilio, revocaciones o cualquier otro cambio que se autorice, dicte o decrete por autoridad competente, a más tardar dentro de 5 días hábiles con posterioridad a su aprobación.
 
 XIV. Las demás facultades que le confiere este ordenamiento y las demás disposiciones jurídicas aplicables.
 
@@ -189,7 +219,9 @@ II. Llevar a efecto el cobro por expedición de certificados, autorizaciones, co
 
 III. Cobrar la inscripción al inicio de las actividades de los establecimientos a quienes se les otorga una licencia o permiso especial.
 
-IV. Cobrar el refrendo anual de licencias en términos de la Ley de Hacienda para los Municipios.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+IV. Cobrar el refrendo anual de licencias en términos de la Ley de Hacienda para los Municipios del Estado de Nuevo León.
 
 V. Cobrar las multas y recargos por infracciones impuestas por violación a este ordenamiento.
 
@@ -199,7 +231,9 @@ VII. Tramitar y resolver los recursos administrativos que procedan.
 
 VIII. Decretar la clausura temporal o definitiva en caso de adeudos por concepto de multas por violación a este ordenamiento; por no refrendar la licencia correspondiente, por cualquier otro adeudo o por omitir inscribirse en la Tesorería Municipal.
 
-Las demás atribuciones que le confiere este ordenamiento y las demás disposiciones jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES SEGUNDO PARRAFO], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+IX. Las demás atribuciones que le confiere este Ordenamiento y las demás disposiciones jurídicas aplicables.
 
 ###### ARTICULO 11.
 
@@ -209,27 +243,43 @@ I. Llevar a cabo las labores de inspección y vigilancia en los establecimientos
 
 II. Designar el personal que fungirá a su cargo y al que fungirá como inspector en las labores propias de esa Dirección.
 
-III. Levantar las actas de inspección por conducto de los inspectores comisionados y remitirlas al Secretario del R. Ayuntamiento, con copia al Tesorero Municipal.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+III. Levantar las actas de inspección por conducto de los inspectores comisionados y remitirlas al titular de la Secretaría del R. Ayuntamiento, con copia para la Tesorería Municipal.
 
 IV. Calificar con multa, cuando así proceda, las infracciones impuestas por violación a las disposiciones de este ordenamiento.
 
 V. Asignar un número de folio a los expedientes que se integran con las solicitudes y la información requerida para el trámite de los permisos especiales y licencias que marca este ordenamiento.
 
-VI. Efectuar la inspección del establecimiento para verificar que se cumplan los requisitos de este ordenamiento, en relación con cada solicitud de licencia o permiso especial, y en lo concerniente a cambios de domicilio y/o giro de las licencias o permisos ya autorizados.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
-VII. Devolver al solicitante los documentos que integran el expediente de solicitud de licencia o permiso especial, de cambio domicilio o de giro cuando no cumpla con los requisitos y demás disposiciones establecidas en el presente ordenamiento.
+VI. Efectuar la inspección del establecimiento para verificar que se cumplan los requisitos de este Ordenamiento, en relación con cada solicitud de licencia o permiso especial, y en lo concerniente a cambios de titular, domicilio y/o giro de las licencias ya autorizados.
 
-VIII. Remitir cada 8 días naturales al Secretario del R. Ayuntamiento los expedientes recibidos, debidamente integrados en forma progresiva de acuerdo con su folio.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+VII. Devolver al solicitante los documentos que integran el expediente de solicitud de licencia o permiso especial, de cambio de titular, domicilio o de giro cuando no cumpla con los requisitos y demás disposiciones establecidas en el presente Ordenamiento.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+VIII. Remitir cada 8 días naturales al titular de la Secretaría del R. Ayuntamiento los expedientes recibidos, debidamente integrados en forma progresiva de acuerdo con su folio.
 
 IX. Llevar un registro de licencias y permisos especiales otorgados por la Autoridad Municipal, así como de cualquier cambio o modificación a las licencias y permisos autorizados de conformidad con este Reglamento.
 
-X. Enviar a la Comisión de Alcoholes, a través del Secretario del R. Ayuntamiento opinión sobre los expedientes que deberán ser analizados por el R. Ayuntamiento, respecto al otorgamiento, en su caso, de las licencias y/o permisos especiales u opinión de los casos de solicitud de cambios de domicilio o giro de los establecimientos.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
-XI. Ejecutar la orden de arresto que ordene el Secretario del R. Ayuntamiento.
+X. Enviar a la Comisión de Alcoholes, a través del titular de la Secretaría del R. Ayuntamiento opinión sobre los expedientes que deberán ser analizados por el R. Ayuntamiento, respecto al otorgamiento, en su caso, de las licencias y/o permisos especiales u opinión de los casos de solicitud de cambios de domicilio o giro de los establecimientos.
 
-XII. Ejecutar la imposición y reimposición de sellos o símbolos de clausura en caso de violación a los mismos que ordene el Secretario del R. Ayuntamiento.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
-XIII. Ejecutar el retiro de sellos y/o símbolos de clausura una vez que se hayan liquidado las multas y así proceda conforme a derecho o por resolución de autoridad judicial competente o por el Secretario del R. Ayuntamiento.
+XI. Ejecutar la orden de arresto que ordene el titular de la Secretaría del R. Ayuntamiento.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+XII. Ejecutar la imposición y reimposición de sellos o símbolos de clausura en caso de violación a los mismos que ordene el titular de la Secretaría del R. Ayuntamiento.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+XIII. Ejecutar el retiro de sellos y/o símbolos de clausura una vez que se hayan liquidado las multas y así proceda conforme a derecho o por resolución de autoridad judicial competente o por el titular de la Secretaría del R. Ayuntamiento.
 
 XIV. Las demás que le confiere este ordenamiento y demás disposiciones jurídicas aplicables.
 
@@ -263,9 +313,11 @@ VII. Las demás que señale el presente ordenamiento.
 
 ### CAPITULO III. CLASIFICACION DE ESTABLECIMIENTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 14.
 
-Los establecimientos deberán ser independientes de cualquier casa-habitación y no podrán iniciar operaciones sin autorización previa y por escrito de la autoridad municipal competente, la cual deberá ser solicitada oportunamente por escrito dirigido al Secretario del R. Ayuntamiento en original y copia.
+Los establecimientos deberán ser independientes de cualquier casa-habitación y no podrán iniciar operaciones sin autorización previa y por escrito de la autoridad municipal competente, la cual deberá ser solicitada oportunamente por escrito dirigido al titular de la Secretaria del R. Ayuntamiento en original y copia.
 
 Si el establecimiento se encontrase en el mismo predio de una casa-habitación, el solicitante o titular de la licencia deberá realizar las modificaciones o adecuaciones necesarias relativas a la construcción, a fin de que éste no tenga comunicación con el interior de ésta.
 
@@ -343,7 +395,9 @@ II. Operar únicamente el giro o giros autorizados.
 
 III. Tener en el establecimiento la licencia de operación expedida por la Autoridad Municipal que acredite su legal funcionamiento, o en su caso, copia certificada de la misma.
 
-IV. Contar con instalaciones higiénicas, adecuadas y seguras según el giro, de acuerdo a la Ley General de Salud, Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León, Reglamento de Seguridad e Higiene, Ley Estatal, Reglamento Municipal y los manuales de las bases y tablas técnicas en materia de Protección Civil, y los demás Reglamentos Municipales respectivos. Los establecimientos referidos en el artículo 16, deberán contar con sanitarios separados para hombres y mujeres.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+IV. Contar con instalaciones higiénicas, adecuadas y seguras según el giro, de acuerdo a la Ley General de Salud, Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León, Reglamento de Seguridad e Higiene, el presente Ordenamiento, los Manuales de las Bases y Tablas Técnicas en Materia de Protección Civil y demás disposiciones del tipo legal que les sean aplicables. Los establecimientos referidos en el artículo 16, deberán contar con sanitarios separados para hombres y mujeres.
 
 V. Cerciorarse de que las bebidas que expenden, cuentan con la debida autorización de la autoridad competente, para su venta y consumo; igualmente, deberá servir el tipo y marca de bebida acordado con el cliente.
 
@@ -361,7 +415,9 @@ XI. Retirar de las mesas las bebidas que continúen servidas al término de la h
 
 XII. Abstenerse de utilizar las banquetas, las calles y los estacionamientos para la realización de las actividades propias del giro.
 
-XIII. Notificar el aviso de baja, cancelación, cambio de giro o de domicilio, ante la Dirección y Vigilancia y la Tesorería Municipal. El plazo para dicha notificación, es de 15 días hábiles a partir de la fecha en que se produzca el supuesto.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+XIII. Notificar por escrito la intención de dar de baja y cancelar la licencia y/o permiso especial del cual se es titular, ante la Dirección de Inspección y Vigilancia y la Tesorería Municipal.
 
 XIV. Respetar y mantener los signos y símbolos de clausura impuestos por la Autoridad Municipal hasta en tanto se dicte disposición en contrario.
 
@@ -407,7 +463,9 @@ VIII. Preparar o mezclar bebidas alcohólicas en todas sus presentaciones, para 
 
 IX. Vender bebidas tropicales y otras con contenido alcohólico preparadas para llevar.
 
-X. Ofrecer, vender, comercializar o consumir en envase cerrado o abierto bebidas alcohólicas y/o cerveza en la vía y lugares públicos, así como en los comercios ambulantes, fijo, semifijo, pulgas, tianguis, mercados, mercados rodantes, cuando no cuenten con el permiso especial correspondiente.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+X. Ofrecer, vender, comercializar o consumir bebidas alcohólicas y/o cerveza en la vía y lugares públicos, así como en los comercios ambulantes, fijo, semifijo, pulgas, tianguis, mercados, mercados rodantes y similares, cuando no cuenten con el permiso especial correspondiente.
 
 XI. Surtir para su venta o consumo, bebidas alcohólicas y/o cerveza a los establecimientos que la Autoridad haya sancionado con clausura temporal o definitiva, o aquellos que no cuenten con licencia o permiso especial del R. Ayuntamiento.
 
@@ -419,13 +477,17 @@ XIV. No se permitirá que persona alguna ofrezca el servicio de servicar fuera d
 
 XV. Vender o consumir bebidas alcohólicas fuera del establecimiento tales como patios, traspatios, estacionamientos, pasillos, habitaciones contiguas ó a través de ventanas.
 
-XVI. Intentar vender, ceder, arrendar, transferir o permitir la explotación de un tercero de la licencia o permiso especial.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+XVI. Intentar vender, ceder, arrendar, transferir o permitir la explotación de un tercero de la licencia o permiso especial, con excepción de los casos en que se permita la realización de lo anterior previstos en el presente Ordenamiento.
 
 XVII. Permitir la promoción y venta de productos alcohólicos o cerveza por el personal masculino o femenino fuera del establecimiento.
 
 XVIII. Anunciarse al público por cualquier medio, con un giro distinto al autorizado en su licencia.
 
-XIX. Realizar sus labores o prestar sus servicios en visible estado de ebriedad con aliento alcohólico, consumiendo bebidas alcohólicas o bajo el influjo de drogas enervantes.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+XIX. Realizar sus labores o prestar sus servicios en visible estado de ebriedad con aliento alcohólico, consumiendo bebidas alcohólicas o bajo el influjo de drogas o enervantes.
 
 XX. Causar molestias a los vecinos con sonidos o música a volumen más alto al permitido en el reglamento correspondiente.
 
@@ -441,7 +503,9 @@ XXIV. Las demás que señalen las leyes u ordenamientos.
 
 Queda prohibida la instalación u operación de los giros de Servicar, cantinas, bares, cervecerías, cabarets, centros nocturnos, discotecas, rodeo-discos, depósitos y billares en un radio menor de 200 metros de escuelas de educación básica, contados de predio a predio.
 
-Tomando en cuenta el Plan Municipal de Desarrollo Urbano del Municipio de Monterrey, en las zonas clasificadas como habitacionales H1, H2, H3, H4, H5, H6, y los Corredores Urbano de Barrio y Corredor Carretera Nacional, no podrán operar los siguientes giros: Depósito, Bar, Cantina, Cervecería, Centro Nocturno, Cabaret, Discoteca, Servicar y Rodeo Disco a una distancia menor de 200 mts. contados de predio a predio de Iglesias o Templos, Centros de Salud, Hospitales y de giros iguales a los señalados en el presente párrafo.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+Tomando en cuenta el Plan Municipal de Desarrollo Urbano del Municipio de Monterrey, en las zonas clasificadas como HU, HM, HL, HC, HML, HMM, CBI, CMI, SCU, E, DC y PE no podrán operar los siguientes giros: Depósito, Bar, Cantina, Cervecería, Centro Nocturno, Cabaret, Discoteca, Servicar y Rodeo Disco a una distancia menor de 200 metros contados de predio a predio de Iglesias o Templos, Centros de Salud, Hospitales y de giros iguales a los señalados en el presente párrafo.
 
 ### CAPITULO V. HORARIOS DE VENTA
 
@@ -521,9 +585,11 @@ III.- De lunes a domingo de 12:00 horas a 03:00 horas del día siguiente.
 
 Los horarios señalados en el presente capítulo sólo son aplicables en la venta de bebidas alcohólicas y/o cerveza, más no implica el cierre de los establecimientos. En todos los giros a que se refiere el artículo 16 de este reglamento, se concede una hora más de gracia para el consumo de las bebidas alcohólicas y/o cervezas vendidas dentro del horario permitido, debiendo quedar cerrada la barra del establecimiento dentro del horario de expendio fijado. Se considerará infracción a este reglamento, si se sirve una o más bebidas alcohólicas y/o cerveza en esta hora de gracia o posterior a ella. También se considerará infracción a este reglamento, si se consume o permanecen servidas una o más bebidas alcohólicas después de haber terminado la hora de gracia.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 23.
 
-Cuando se celebre un espectáculo público colectivo, y en el cual se permita la venta de bebidas alcohólicas o cerveza para el consumo inmediato, previa licencia o permiso especial, deberá hacerse en vaso de plástico o cualquier material similar y el horario para la venta de bebidas alcohólicas podrá iniciarse una hora antes de la hora fijada para el inicio del espectáculo principal, hasta la conclusión del mismo, o la que determine el permiso especial.
+Cuando se celebre un espectáculo público colectivo en el cual se permita la venta de bebidas alcohólicas o cerveza para el consumo inmediato, previa licencia o permiso especial, deberá hacerse en vaso de plástico o cualquier material similar y el horario para la venta de bebidas alcohólicas se ajustará a lo que para cada giro establece el presente Ordenamiento o al que determine el permiso especial.
 
 ###### ARTICULO 24.
 
@@ -535,9 +601,11 @@ El R. Ayuntamiento podrá acordar la ampliación o disminución temporal de los 
 
 ### CAPITULO VI. DE LA CONSULTA VECINAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 26.
 
-Tomando en cuenta el Plan Municipal de Desarrollo Urbano del Municipio de Monterrey, en las zonas clasificadas como H1, H2, H3, H4, H5, H6 y los Corredores Urbano de Barrio y Corredor Carretera Nacional, para la expedición de la licencia de operación para los giros de Cantinas, Bares, Cervecerías, Billares, Cabaret, Centros Nocturnos, Discotecas, Rodeo Disco, Servicar y Depósito se deberá allegar constancia de consulta de vecinos del establecimiento, por parte del Juez Auxiliar, indicando cada vecino su nombre, domicilio, firma, teléfono en su caso y sentido de su voluntad de estar en conformidad o no con la operación del establecimiento.
+Tomando en cuenta el Plan Municipal de Desarrollo Urbano del Municipio de Monterrey, en las zonas clasificadas como HU, HM, HL, HC, HML, HMM, CBI, CMI, SCU, E, DC y PE para la expedición de la licencia de operación para los giros de Cantinas, Bares, Cervecerías, Billares, Cabaret, Centros Nocturnos, Discotecas, Rodeo Disco, Servicar y Depósito se deberá allegar constancia de consulta de vecinos del establecimiento, por parte del Juez Auxiliar, indicando cada vecino su nombre, domicilio, firma, teléfono en su caso y sentido de su voluntad de estar en conformidad o no con la operación del establecimiento.
 
 Se deberá consultar a los vecinos de los tres inmuebles ubicados de cada lado del inmueble donde se solicita la licencia, cuatro de la acera de enfrente y un vecino de atrás, estableciendo con toda claridad en la constancia de consulta, el giro que se está solicitando. Los cuatro vecinos de enfrente serán: los dos de los inmuebles de inmediata menor nomenclatura (numeración) a la del inmueble donde se solicita la licencia y los dos de los inmuebles con inmediata mayor nomenclatura al mismo, y el vecino de atrás lo será el del lote posterior con mayor colindancia.
 
@@ -551,15 +619,19 @@ Se cumplirá con el requisito de anuencia de vecinos, cuando la mayoría numéri
 
 ### CAPITULO VII. DE LA EXPEDICIÓN DE LOS PERMISOS Y LICENCIAS
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 27.
 
-El R. Ayuntamiento es la autoridad facultada para otorgar, negar y revocar las licencias y permisos especiales para la venta o consumo de bebidas alcohólicas y/o cerveza, en los términos y condiciones previstas en este Reglamento, salvo en los casos en que el Director de Inspección y Vigilancia está facultado para devolver documentos cuando no se cumpla con los requisitos y demás disposiciones establecidas en el presente ordenamiento.
+El R. Ayuntamiento es la autoridad facultada para otorgar, negar y revocar las licencias y permisos especiales para la venta o consumo de bebidas alcohólicas y/o cerveza, en los términos y condiciones previstas en este Reglamento, teniendo el titular de la Dirección de Inspección y Vigilancia la facultad para devolver documentos cuando no se cumpla con los requisitos y demás disposiciones establecidas en el presente Ordenamiento para la obtención, y por tal, expedición de las licencias y/o permisos especiales.
 
 ###### ARTICULO 28.
 
 Para la expedición de las licencias el solicitante deberá reunir los siguientes requisitos:
 
-I. Solicitud dirigida al Secretario del R. Ayuntamiento que contengan los siguientes datos:
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+I. Entregar a la Dirección de Inspección y Vigilancia solicitud oficial dirigida al titular de la Secretaría del R. Ayuntamiento que contenga los siguientes datos:
 
 a).- Nombre del solicitante, domicilio, teléfono y fotografía.
 
@@ -569,9 +641,9 @@ c).- Giro solicitado.
 
 d).- Área de servicio y/o atención al cliente para venta y/o consumo de bebidas alcohólicas y/o cerveza (m2).
 
-e) Monto de la inversión.
+e).- Monto de la inversión.
 
-f) Números de empleados.
+f).- Números de empleados.
 
 II. Licencia de uso de suelo.
 
@@ -595,29 +667,43 @@ XI. En los giros señalados en los artículos 15 fracción VIII y 16 se requerir
 
 XII. Ser independiente de cualquier otro local o casa-habitación.
 
-XIII. Los demás que de manera expresa establezca el presente Reglamento.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+XIII. Encontrarse el establecimiento en condiciones materiales adecuadas para brindar el servicio con el giro solicitado en términos de los artículos 15 y 16 del presente Ordenamiento, a más tardar a la realización de la inspección a que se refiere el artículo 29 de este Reglamento.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+XIV. Los demás que de manera expresa establezca el presente Reglamento.
 
 En caso de ser extranjero el solicitante deberá anexar documentación con la cual compruebe estar autorizado por la Secretaría de Gobernación para dedicarse a actividades remuneradas en el País.
 
-El solicitante deberá presentar el original y 1 fotocopia de la solicitud y de los documentos mencionados, ante la Dirección de Inspección y Vigilancia. Realizado el cotejo de los documentos, se devolverán los originales.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+El solicitante deberá presentar el original y una fotocopia de la solicitud y de los documentos mencionados, ante la Dirección de Inspección y Vigilancia. Realizado el cotejo de los documentos, se devolverán los originales.
 
 Toda información deberá ser formulada bajo protesta de decir verdad y los trámites deberán realizarse por el interesado o su representante legal, debidamente acreditado.
 
 No se dará trámite alguno a las solicitudes de licencia que no reúnan los requisitos señalados.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 29.
 
-La Dirección de Inspección y Vigilancia recibirá y foliará las solicitudes para integrar un expediente para cada establecimiento. Recibida la solicitud y demás documentos a que se refiere el artículo anterior, el Secretario del R. Ayuntamiento ordenará se realice, a través de la Dirección de Inspección y Vigilancia, una inspección al establecimiento, dentro de un término de ocho días hábiles a partir de la fecha en que se recibió la solicitud, a fin de verificar los datos proporcionados por el solicitante levantándose el acta circunstanciada correspondiente.
+La Dirección de Inspección y Vigilancia recibirá y foliará las solicitudes de licencias y aquellas sobre cambio de titular, domicilio y/o giro de la misma, para integrar un expediente para cada establecimiento. Recibida la solicitud y demás documentos a que se refiere el artículo anterior y 51 del presente Ordenamiento, el titular de la Secretaría del R. Ayuntamiento ordenará se realice, a través de la Dirección de Inspección y Vigilancia, una inspección al establecimiento, dentro de un término de ocho días hábiles a partir de la fecha en que se recibió la solicitud, a fin de verificar los datos proporcionados por el solicitante levantándose el acta circunstanciada correspondiente.
 
-El Director de Inspección y Vigilancia está facultado para devolver al solicitante los documentos que integran el expediente de solicitud, cuando se compruebe que no reúne los requisitos y/o que no cumple con las demás disposiciones establecidas en este ordenamiento, dando por concluido y quedando sin efecto el trámite a la entrega de los mismos.
+El titular de la Dirección de Inspección y Vigilancia está facultado para devolver al solicitante los documentos que integran el expediente de solicitud, cuando se compruebe que no reúne los requisitos y/o que no cumple con las demás disposiciones establecidas en este Ordenamiento, dando por concluido y quedando sin efecto el trámite a la entrega de los mismos.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTICULO 30.
 
-Una vez levantada el acta señalada en el artículo anterior e integrado el expediente de cada solicitud, la Dirección de Inspección y Vigilancia, entregará los expedientes al Secretario del R. Ayuntamiento, con la opinión respectiva para que a su vez sean turnados a la Comisión de Alcoholes del R. Ayuntamiento, ésta elabore el dictamen correspondiente y sea presentado al pleno, para que el R. Ayuntamiento decida en definitiva la aprobación o rechazo de la misma.
+Una vez levantada el acta señalada en el artículo anterior e integrado el expediente de cada solicitud, la Dirección de Inspección y Vigilancia, entregará los expedientes al titular de la Secretaría del R. Ayuntamiento, con la opinión respectiva para que a su vez sean turnados a la Comisión de Alcoholes del R. Ayuntamiento, ésta elabore el dictamen correspondiente y sea presentado al pleno, para que el R. Ayuntamiento decida en definitiva la aprobación o rechazo de la misma.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTICULO 31.
 
-Las licencias otorgadas por el R. Ayuntamiento y entregadas por el Secretario del R. Ayuntamiento al solicitante, deberán contener los siguientes datos:
+Las licencias otorgadas por el R. Ayuntamiento y entregadas por el titular de la Secretaría del R. Ayuntamiento al solicitante, deberán contener los siguientes datos:
 
 I. Nombre y fotografía del titular;
 
@@ -629,7 +715,9 @@ IV. Número de Cuenta Municipal;
 
 V. Número de licencia;
 
-VI. Nombre y Firma del Secretario del R. Ayuntamiento;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+VI. Nombre y Firma del titular de la Secretaría del R. Ayuntamiento;
 
 VII. Sello de la Secretaría del R. Ayuntamiento;
 
@@ -645,13 +733,65 @@ Las licencias y permisos especiales deberán ser inscritos en los registros corr
 
 Para la expedición de los permisos especiales otorgados por el R. Ayuntamiento para la venta de bebidas alcohólicas y/o cerveza en festividades regionales, ferias, verbenas, eventos especiales u ocasionales, el interesado si es persona física; o la empresa promotora si es persona moral, deberán solicitarlo con un mínimo de 30 días naturales de anticipación a la fecha de inicio del evento. Para ello deberá cumplirse con los siguientes requisitos:
 
-I. Presentar ante la Dirección de Inspección y Vigilancia solicitud por escrito dirigida al Secretario del R Ayuntamiento, en la que señale su nombre, domicilio particular, lugar del evento, giro que se va a instalar y constancia de no adeudos municipales.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
-II. Motivo del evento y/o celebración, días de duración, lugares dentro de las instalaciones en donde se lleve a cabo este evento y el horario solicitado para venta de bebidas alcohólicas y/o cerveza. Los lugares a que se refiere este artículo deberán tener las medidas de seguridad que determine la Ley o los Reglamentos correspondientes y, en su caso, las autorizaciones que requieran de las demás Autoridades Municipales.
+I. Presentar solicitud por escrito dirigida al titular de la Secretaría del R. Ayuntamiento que contengan (sic) los siguientes datos:
+
+a).- Nombre del solicitante, domicilio y teléfono.
+
+b).- Lugar del evento.
+
+c).- Giro que se va a instalar.
+
+d).- Área de servicio y/o atención al cliente para venta y/o consumo de bebidas alcohólicas y/o cerveza (m2).
+
+e).- Motivo del evento y/o celebración, días de duración y horario solicitado para la venta de bebidas alcohólicas y cerveza.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+II. Copia de la credencial de elector del solicitante si es persona física o acta constitutiva, si se trata de una persona moral.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+III. Constancia de no adeudos municipales.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+IV. Título de propiedad, promesa de venta, promesa de arrendamiento o contrato de arrendamiento. En estos últimos dos casos deberá contar con el consentimiento del propietario del inmueble.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+V. Acreditar la personalidad.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+VI. Los demás que de manera expresa establezca el presente Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+El lugar a que se refiere el inciso b) de la fracción I de este artículo deberán (sic) tener las medidas de seguridad que determine la Ley o Reglamentos correspondientes y, en su caso, las autorizaciones que requieran de las demás autoridades municipales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+En caso de ser extranjero el solicitante deberá anexar documentación con la cual compruebe estar autorizado por la Secretaría de Gobernación para dedicarse a actividades remuneradas en el País.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+El solicitante deberá presentar la solicitud y una fotocopia de la misma y de los documentos mencionados, ante la Dirección de Inspección y Vigilancia. Realizando el cotejo de los documentos, se devolverán los originales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+No se dará trámite alguno a las solicitudes de permiso especial que no reúnan los requisitos señalados, para lo cual el titular de la Dirección de Inspección y Vigilancia está facultado para devolver al solicitante los documentos que integran el expediente de solicitud, cuando se compruebe que no reúne los requisitos y/o que no cumple con las demás disposiciones establecidas en este Ordenamiento, dando por concluido y quedando sin efecto el trámite a la entrega de los mismos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+Los permisos especiales otorgados por el R. Ayuntamiento contendrán los siguientes datos: evento, nombre de la persona a favor de quien se expide, lugar, días y horas de funcionamiento del establecimiento, firma del titular de la Secretaría del R. Ayuntamiento y del titular de la Dirección de Inspección y Vigilancia y el sello correspondiente que lo autentifique.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTICULO 34.
 
-Recibida la solicitud a que se refiere el artículo anterior, previo estudio y verificación del cumplimiento de los requisitos exigidos por este ordenamiento por el Director de Inspección y Vigilancia, elaborará la opinión correspondiente, la turnará al Secretario del Ayuntamiento, para que a su vez sea turnada a la Comisión de Alcoholes del R. Ayuntamiento, ésta elabore el dictamen correspondiente y sea presentado al pleno, para que el R. Ayuntamiento decida en definitiva la aprobación o rechazo de la misma.
+Recibida la solicitud a que se refiere el artículo anterior, previo estudio y verificación del cumplimiento de los requisitos exigidos por este Ordenamiento por el titular de la Dirección de Inspección y Vigilancia, éste elaborará la opinión correspondiente, la turnará al titular de la Secretaría del Ayuntamiento, para que a su vez sea turnada a la Comisión de Alcoholes del R. Ayuntamiento, ésta elabore el dictamen correspondiente y sea presentado al pleno, para que el R. Ayuntamiento decida en definitiva la aprobación o rechazo de la misma.
 
 ###### ARTICULO 35.
 
@@ -665,9 +805,11 @@ Los permisos especiales otorgados por el C. Presidente Municipal contendrán los
 
 Para obtener la licencia o permiso especial, el interesado deberá haber cumplido con los requisitos y lineamientos fijados en este ordenamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 37.
 
-La Tesorería Municipal y la Secretaría del R. Ayuntamiento a través de la Dirección de Inspección y Vigilancia llevarán un registro de las licencias o permisos; la primera para efectos de control en cuanto al pago de las contribuciones municipales y la segunda para efectos de estadísticas e informática; estos contendrán los requisitos siguientes:
+La Tesorería Municipal y la Secretaría del R. Ayuntamiento a través de la Dirección de Inspección y Vigilancia llevarán un registro de las licencias y permisos; la primera para efectos de control en cuanto al pago de las contribuciones municipales y la segunda para efectos de estadísticas e informática; estos contendrán los requisitos siguientes:
 
 I.- Nombre del titular.
 
@@ -681,13 +823,17 @@ V.- Fecha de expedición de la licencia o permiso.
 
 VI.- Los demás que considere conveniente.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 38.
 
-Las licencias o permisos especiales, no conceden a su titular derechos permanentes ni definitivos. En tal virtud, la Autoridad que la expide podrá en cualquier momento decretar su revocación o cancelación cuando existan causas que lo justifiquen, sin que el titular tenga derecho a devolución de cantidad alguna. Es obligación del titular entregar a la Autoridad Municipal, la licencia original que ha sido revocada.
+Las licencias o permisos especiales, no conceden a su titular derechos permanentes ni definitivos. En tal virtud, la Autoridad correspondiente podrá en cualquier momento decretar su revocación o cancelación cuando existan causas que lo justifiquen, sin que el titular tenga derecho a devolución de cantidad alguna. Es obligación del titular entregar a la Autoridad Municipal, la licencia original que ha sido revocada o cancelada.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTICULO 39.
 
-Cuando el R. Ayuntamiento, en su caso, acuerden (sic) otorgar la licencia o permiso correspondiente y el interesado haya cumplido con todos los requisitos exigidos por este ordenamiento, la entregará al solicitante, previa identificación, a través de la Secretaría del R. Ayuntamiento.
+Cuando el R. Ayuntamiento, en su caso, acuerde otorgar la licencia o permiso correspondiente y el interesado haya cumplido con todos los requisitos exigidos por este ordenamiento, la entregará al solicitante, previa identificación, a través de la Secretaría del R. Ayuntamiento.
 
 ###### ARTICULO 40.
 
@@ -697,13 +843,13 @@ Para el caso de que el titular de la licencia o permiso no opere el establecimie
 
 ### CAPITULO VIII. DE LA PÉRDIDA O EXTRAVÍO DE LA LICENCIA O PERMISO ESPECIAL
 
-(F. DE., P.O. 17 DE MAYO DE 2002)
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTICULO 41.
 
-Si el titular de una licencia o permiso especial por alguna causa la extravía, se la roban o le destruyen la misma, en un plazo no mayor de 10 días hábiles siguientes a que esto ocurra, deberá formular la denuncia ante la Autoridad competente y con la copia de la misma, podrá solicitar al Secretario del R. Ayuntamiento, la reposición a su favor, mediante el escrito correspondiente en el cual señalará bajo protesta de decir verdad, el motivo de dicha pérdida. Al otorgársele la reposición de la licencia o permiso, deberá ser apercibido que en caso de falsedad o mal uso, procederán los trámites de clausura definitiva del establecimiento y revocación de la licencia o permiso especial, debiendo en su caso, además, cumplir con las obligaciones fiscales respectivas. La solicitud con acuse de recibo por la Secretaría del R. Ayuntamiento, facultará al interesado a continuar operando durante el período de 30 días hábiles, con excepción del permiso especial, ya que dicha solicitud con acuse de recibo solo lo facultará a seguir operando hasta el día señalado como término de la vigencia del permiso especial.
+Si el titular de una licencia o permiso especial por alguna causa la extravía, se la roban o le destruyen la misma, en un plazo no mayor de 10 días hábiles siguientes a que esto ocurra, deberá formular la denuncia ante la Autoridad competente y con la copia de la misma, podrá solicitar al titular de la Secretaría del R. Ayuntamiento, la reposición a su favor, mediante el escrito correspondiente en el cual señalará bajo protesta de decir verdad, el motivo de dicha pérdida. El solicitante deberá realizar el pago de los derechos correspondientes previo a la reposición de la licencia o permiso y al otorgarse la misma deberá ser apercibido que en caso de falsedad o mal uso, procederán los trámites de clausura definitiva del establecimiento y revocación de la licencia o permiso especial, debiendo en su caso, además, cumplir con las obligaciones fiscales respectivas. La solicitud con acuse de recibo por la Secretaría del R. Ayuntamiento, facultará al interesado a continuar operando durante el período de 30 días hábiles, con excepción del permiso especial, ya que dicha solicitud con acuse de recibo solo lo facultará a seguir operando hasta el día señalado como término de la vigencia del permiso especial.
 
-El Secretario del R. Ayuntamiento deberá emitir resolución fundada y motivada respecto a la reposición o no de la licencia dentro del término señalado en el párrafo anterior.
+El titular de la Secretaría del R. Ayuntamiento deberá emitir resolución fundada y motivada respecto a la reposición o no de la licencia dentro del término señalado en el párrafo anterior.
 
 ### CAPITULO IX. DEL REFRENDO DE LAS LICENCIAS
 
@@ -717,35 +863,51 @@ II. Efectuar el pago por refrendo que prevé la Ley de Hacienda para los Municip
 
 II. Comprobar que tanto la licencia como el inmueble donde se localice el establecimiento que acredita dicha licencia a refrendar, no guarden adeudos con la Hacienda Pública Municipal sobre cualquier contribución, como lo son los impuestos, derechos, productos y/o aprovechamientos, o en caso de guardar adeudo, que demuestren el haber realizado un convenio con la Tesorería Municipal para efecto de prorrogar el pago de dicho adeudo o cubrirlo en parcialidades, siempre y cuando se esté al corriente en el cumplimiento de dicho convenio.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 43.
 
-Presentados los documentos anteriores, la Tesorería Municipal expedirá el refrendo.
+Cubiertos los requisitos del artículo anterior, la Tesorería Municipal expedirá el refrendo.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTICULO 44.
 
-No procederá la aceptación del pago de refrendo del establecimiento, si no se presenta por el interesado la licencia de funcionamiento y/o copia certificada de la misma.
+No procederá la aceptación del pago de refrendo del establecimiento, si no se presenta por el interesado la licencia de funcionamiento y/o copia certificada de la misma y no se comprueba por aquel lo señalado en las fracciones II y III del artículo 42 de presente Ordenamiento.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTICULO 45.
 
-Las Licencias que no hayan sido refrendadas dentro del plazo a que se refiere el artículo 18 fracción XVI podrán ser revocadas a solicitud expresa de la Tesorería Municipal, dirigida a la Comisión de Alcoholes para que presente dictamen al R. Ayuntamiento, para que resuelva lo conducente.
+Las Licencias que no hayan sido refrendadas dentro del plazo a que se refiere el artículo 18 fracción XVI deberán ser revocadas a solicitud expresa de la Tesorería Municipal, dirigida a la Comisión de Alcoholes y Espectáculos para que presente dictamen al R. Ayuntamiento, para que resuelva lo conducente.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTICULO 46.
 
-La suspensión o terminación de actividades de un establecimiento, deberá de comunicarse por escrito a la Dirección de Inspección y Vigilancia y a la Tesorería Municipal, dentro de los 15 días hábiles siguientes a la fecha en que se produzca el suceso, acompañando la licencia original, para proceder a su cancelación.
+El titular de la licencia podrá solicitar al titular de la Secretaría del R. Ayuntamiento la cancelación de la misma por estar suspendidas o terminadas las actividades de venta de bebidas alcohólicas y/o cerveza en el establecimiento correspondiente. Dicha solicitud deberá hacerse por escrito acompañando la licencia original, o en su caso, la denuncia de robo ante las autoridades competentes, o la manifestación bajo protesta de decir verdad, pasada ante la fe notarial del extravío de la licencia, para proceder a la cancelación, siempre que no guarde, a la fecha de solicitud y/o resolución de cancelación, adeudos con la hacienda pública municipal.
+
+Dicha información deberá realizarla igualmente él o los herederos del titular de la licencia, el comprador o nuevo propietario del inmueble donde se ubica el establecimiento, el arrendador del inmueble terminada la vigencia del contrato de arrendamiento, el arrendatario del inmueble cuando lo rente para un fin distinto al de la licencia correspondiente, o por orden de alguna autoridad judicial o administrativa correspondiente.
 
 ###### ARTICULO 47.
 
 El pago del refrendo o cualquier otro crédito fiscal que se haya generado con motivo de la operación del establecimiento, no convalida la falta de licencia o permiso especial ni autoriza para operar el mismo.
 
-### CAPITULO X. DE LOS CAMBIOS DE DOMICILIO, GIROY (SIC) CANCELACION DE OPERACIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+### CAPITULO X. DE LOS CAMBIOS DE TITULAR, DOMICILIO, GIRO Y CANCELACION DE OPERACIONES
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTICULO 48.
 
-El R. Ayuntamiento podrá autorizar o negar los cambios de domicilio, o de giro, cuando se reúnan los requisitos que señala el presente Reglamento, conforme al supuesto de que se trate.
+El R. Ayuntamiento podrá autorizar o negar los cambios de titular de la licencia, domicilio o de giro, cuando se reúnan los requisitos que señala el presente Reglamento, conforme al supuesto de que se trate
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTICULO 49.
 
-En caso de que el titular de la licencia o permiso transmita el inmueble y/o enseres del establecimiento o por cualquier otro acto intente arrendar, vender, donar, entregar en comodato o ceder la licencia o permiso especial, y que ello implique la explotación de ésta por terceros, dicha trasgresión traerá como consecuencia la revocación de la licencia o del permiso otorgado, y la clausura definitiva del establecimiento.
+En caso de que el titular de la licencia o permiso transmita el inmueble y/o enseres del establecimiento o por cualquier otro acto intente arrendar, vender, donar, entregar en comodato o ceder la licencia o permiso especial, y que ello implique la explotación de ésta por terceros, dicha trasgresión traerá como consecuencia la revocación de la licencia o del permiso otorgado, y la clausura definitiva del establecimiento; con excepción de aquellos casos que refiere el presente Ordenamiento.
 
 ###### ARTICULO 50.
 
@@ -763,7 +925,9 @@ b) Hacer la entrega de la licencia original o, en su caso la denuncia de robo an
 
 II.- Para cambio de giro:
 
-a) Solicitud dirigida al Secretario del R. Ayuntamiento.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+a) Solicitud dirigida al titular de la Secretaría del R. Ayuntamiento.
 
 b) Licencia de uso de suelo.
 
@@ -775,11 +939,75 @@ e) Dictamen de las autoridades competentes en materia de protección civil en lo
 
 f) El Croquis y la constancia a que se refiere el artículo 28 fracciones V, VI y VII.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+Podrá autorizarse por el R. Ayuntamiento el cambio de titular de las licencias otorgadas en términos de la ley cuando:
+
+a) Sea solicitado por los herederos del titular de la licencia comprobado que sea, mediante acta de defunción, el fallecimiento de aquél.
+
+b) Sea solicitado por el comprador o nuevo dueño del inmueble donde se ubica el establecimiento, comprobable con copia certificada por autoridad competente de la escritura de propiedad a favor del solicitante, y siempre que el titular de la licencia no se haya reservado los derechos que le otorga y la facultad de solicitar el cambio de domicilio de la misma.
+
+c) Sea solicitado por el donatario, siempre que el titular de la licencia realice la donación gratuita de la misma y guarde parentesco con el donatario en línea recta hasta el segundo grado en forma ascendente o descendente o se trate de su cónyuge.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+Para la procedencia del cambio de titular de las licencias el solicitante deberá reunir los siguientes requisitos:
+
+a). Entregar en la Dirección de Inspección y Vigilancia solicitud oficial dirigida al titular de la Secretaría del R. Ayuntamiento que contenga los siguientes datos:
+
+I.- Nombre del solicitante, domicilio, teléfono y fotografía.
+
+II.- Domicilio del establecimiento y sus entre calles.
+
+III.- Giro de establecimiento.
+
+b). Copia de la credencial de elector del solicitante si es persona física o acta constitutiva, si se trata de una persona moral.
+
+c). Allegar la licencia original o, en su caso la denuncia de robo ante las autoridades competentes, o la manifestación bajo protesta de decir verdad, pasada ante la fe notarial del extravío de la licencia.
+
+d). Acreditar que el inmueble donde se ubica el establecimiento, no guarda adeudos generados por cualquier contribución municipal.
+
+e) Resolución Judicial que halla (sic) causado ejecutoria en donde se designe heredero de los derechos de la licencia respectiva para el caso del inciso a) del segundo párrafo de este artículo; Título de propiedad del inmueble donde se ubica el establecimiento para el caso del inciso b) del segundo párrafo de este artículo, o contrario de donación para el caso del inciso c) del segundo párrafo de este artículo, allegando así mismo para el presente caso los documentos públicos suficientes con los que demuestre el donatario el entronque con el donante.
+
+f). Acreditar la personalidad.
+
+g). En los giros señalados en los artículos 15 fracción VIII y 16 se requerirá al solicitante acompañe un dictamen de factibilidad de operación emitido por la dependencia competente de Protección Civil en el que conste que reúne las condiciones de seguridad necesarias para continuar operando el establecimiento.
+
+h). Ser independiente el inmueble donde se ubica el establecimiento de cualquier otro local o casa-habitación.
+
+i). Los demás que de manera expresa establezca el presente Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+En caso de ser extranjero el solicitante deberá anexar documentación con la cual compruebe estar autorizado por la Secretaría de Gobernación para dedicarse a actividades remuneradoras en el País.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+El solicitante deberá presentar el original y una fotocopia de la solicitud y de los documentos mencionados, ante la Dirección de Inspección y Vigilancia. Realizado el cotejo de los documentos, se devolverán los originales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+Toda información deberá ser formulada bajo protesta de decir verdad y los trámites deberán realizarse por el interesado o su representante legal, debidamente acreditado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+No se dará trámite alguno a las solicitudes de cambio de titular, domicilio y/o giro que no reúnan los requisitos señalados, para lo cual el titular de la Dirección de Inspección y Vigilancia está facultado para devolver al solicitante los documentos que integran el expediente de solicitud, cuando se compruebe que no reúne los requisitos y/o que no cumple con las demás disposiciones establecidas en este Ordenamiento, dando por concluido y quedando sin efecto el trámite a la entrega de los mismos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+Para el caso en que la resolución a que se refiere el inciso e) del tercer párrafo del presente artículo, se nombren dos o más herederos, éstos deberán allegar con la solicitud oficial un documento escrito en el cual convengan quien realizará la solicitud de interés y a favor de quien de ellos deba de emitirse la licencia correspondiente. En caso de no ser así se actuará conforme a lo establecido en el párrafo inmediato anterior. Igual trámite deberá hacerse en caso de ser dos o mas los compradores o nuevos dueños del inmueble donde se ubique el establecimiento o dos o más los donatarios de dicha licencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+El titular de la Secretaría del R. Ayuntamiento entregará al solicitante la nueva licencia, previa identificación y entrega de la licencia original de la que deriva la nueva o, en su caso, la denuncia de robo ante las autoridades competentes, o la manifestación bajo protesta de decir verdad, pasada ante la fe notarial del extravío de la licencia.
+
 ### CAPITULO XI. DE LA INSPECCION Y VIGILANCIA
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTICULO 52.
 
-Es facultad del Secretario del R. Ayuntamiento llevar a efecto la vigilancia e inspección sobre el cumplimiento del presente ordenamiento, a través de la Dirección de Inspección y Vigilancia e Inspectores adscritos a dicha dependencia.
+Es facultad del titular de la Secretaría del R. Ayuntamiento llevar a efecto la vigilancia e inspección sobre el cumplimiento del presente ordenamiento, a través de la Dirección de Inspección y Vigilancia e Inspectores adscritos a dicha dependencia.
 
 ###### ARTICULO 53.
 
@@ -833,9 +1061,11 @@ II. Por intentar vender, ceder, prestar, arrendar, gravar, permutar, transferir 
 
 III. Cuando se decrete la clausura definitiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 58.
 
-El Secretario del R. Ayuntamiento impondrá las sanciones por violación al presente ordenamiento y pueden consistir en:
+El titular de la Secretaría del R. Ayuntamiento impondrá las sanciones por violación al presente Ordenamiento y pueden consistir en:
 
 I. Multa.
 
@@ -847,9 +1077,11 @@ IV. Arresto hasta por 36 horas.
 
 Cuando se presuma que los hechos revisten carácter delictivo, se procederá a la denuncia ante el C. Agente del Ministerio Público correspondiente.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 59.
 
-Corresponde a la Tesorería Municipal o al Director de Ingresos el cobro de la infracción cuando su calificación consista en multa.
+Corresponde a la Tesorería Municipal o a la Dirección de Ingresos el cobro de la infracción cuando su calificación consista en multa.
 
 ###### ARTICULO 60.
 
@@ -963,6 +1195,10 @@ IV. Por operar con giro distinto al autorizado.
 
 V. Por permitir la entrada a menores de edad a los establecimientos descritos en las fracciones V, VI, VII, VIII, IX, X, XI, XII y XIII del artículo 16, en la inteligencia de que por lo que se refiere a los establecimientos descritos en la fracción X y XIII del artículo ya mencionado, únicamente se admitirá la entrada de menores acompañados de sus padres o tutores.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+VI. Por no permitirse el acceso a los inspectores adscritos a la Dirección de Inspección y Vigilancia a los establecimientos a que se refiere este Ordenamiento, por los propietarios, administradores y encargados de aquellos, siempre que los inspectores acudan a desarrollar las facultades que les confiere el presente Reglamento.
+
 La clausura temporal no podrá ser menor de veinticuatro horas ni superior a quince días hábiles.
 
 ###### ARTICULO 65.
@@ -973,11 +1209,19 @@ I. Por cometer infracciones de las previstas en este ordenamiento en cinco o má
 
 II. Por quebrantamiento de sellos o símbolos de clausura temporal por segunda ocasión, en cuyo caso, se podrá ordenar además el arresto del propietario, representante legal o encargado del establecimiento, hasta por 36 horas.
 
-III. Por operar el establecimiento sin licencia o permiso especial del R. Ayuntamiento, o permiso especial otorgado por el Presidente Municipal.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
-IV. Por infringir el Artículo 19 Fracciones XII, XXI y XXIII.
+III. Por operar el establecimiento sin licencia o permiso especial otorgado por el R. Ayuntamiento, o permiso especial otorgado por el Presidente Municipal.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+IV. Por infringir el Artículo 19 Fracciones XII, XXI, XXII y XXIII.
 
 V. Por la comisión de los supuestos contemplados en el Artículo 49 de este reglamento.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+VI. Cuando la autoridad se cerciore de que un establecimiento con licencia otorgada por el R. Ayuntamiento no es independiente de otro local o casa habitación.
 
 ###### ARTICULO 66.
 
@@ -999,13 +1243,17 @@ A) Pasado el plazo para impugnar la clausura definitiva, si no existe tal impugn
 
 B) Cuando el resultado de la impugnación referida sea contra los intereses del titular de la licencia.
 
-C) El titular se allane con la sanción de clausura definitiva.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+C) Cuando el titular se allane con la sanción de clausura definitiva.
 
 ###### ARTICULO 68.
 
 La imposición de las sanciones de mulla, clausura temporal y clausura definitiva del establecimiento, por las causas previstas en este Reglamento, se sujetarán al procedimiento siguiente:
 
-Recibida el acta de inspección, el Secretario del R. Ayuntamiento, por conducto de la Dirección de Inspección y Vigilancia, desahogará la audiencia de pruebas y alegatos con o sin la asistencia de la parte interesada, calificará la infracción, y ordenará, en su caso, la imposición de la multa, enviándose copia al Tesorero Municipal para el cobro de la misma a través del procedimiento correspondiente.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+Recibida el acta de inspección, el titular de la Secretaría del R. Ayuntamiento, por conducto de la Dirección de Inspección y Vigilancia, desahogará la audiencia de pruebas y alegatos con o sin la asistencia de la parte interesada, calificará la infracción, y ordenará, en su caso, la imposición de la multa, enviándose copia al Tesorero Municipal para el cobro de la misma a través del procedimiento correspondiente.
 
 La clausura temporal o clausura definitiva se impondrá cuando se presenten los supuestos de los artículos 64 y 65 del presente Reglamento. Las multas que sean liquidadas por el infractor dentro de los 20 días siguientes a su calificación no serán contabilizadas para los efectos del artículo 64 fracción I y 65 fracción l.
 
@@ -1021,9 +1269,11 @@ Contra los actos emitidos por las Autoridades Municipales, con motivo de la apli
 
 El recurso de Inconformidad tiene por objeto que la Secretaría del R. Ayuntamiento examine el acto que se reclama a fin de constatar si existe violación al respecto, pudiendo confirmarlo, modificarlo o revocarlo.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 71.
 
-El recurso de Inconformidad se interpondrá por escrito ante la Secretaría del R. Ayuntamiento dentro de un plazo de 10 días naturales contados a partir de la fecha de su notificación o conocimiento.
+El recurso de inconformidad, se interpondrá por escrito ante la Secretaría del R. Ayuntamiento, dentro de un plazo de 10 días naturales contados a partir de la fecha de la notificación o conocimiento de la resolución o acto sobre el cual versa la inconformidad.
 
 ###### ARTICULO 72.
 
@@ -1097,11 +1347,15 @@ VI. Que haya sido impugnado ante una diversa Autoridad a la que emitió el acto 
 
 La suspensión del acto impugnado, cuando se trate de impuestos, derechos, multas y cualquier crédito fiscal, solo procederá en tanto se resuelva el recurso previa constancia de garantía otorgada a satisfacción de la Tesorería Municipal, mediante fianza, hipoteca, depósito en efectivo o bajo protesta.
 
-### CAPITULO XIII (SIC). DE REVISIÓN Y CONSULTA
+> <small>(REFORMADO EN SU NUMERACION, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+### CAPITULO XIV. DE LA REVISION Y CONSULTA
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTICULO 80.
 
-Para la revisión y consulta del presente ordenamiento, la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Alcoholes del R. Ayuntamiento, argumentando las razones que la sustentan. La Comisión deberá en un plazo no mayor a 30 días hábiles, analizar, valorar y responder por escrito al promovente. En caso de considerarse procedente la reforma, se hará del conocimiento del Republicano Ayuntamiento para su consideración y resolución.
+Para la revisión y consulta del presente ordenamiento, la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Alcoholes y Espectáculos del R. Ayuntamiento, argumentando las razones que la sustentan. La Comisión deberá en un plazo no mayor a 30 días hábiles, analizar, valorar y responder por escrito al promovente. En caso de considerarse procedente la reforma, se hará del conocimiento del Republicano Ayuntamiento para su consideración y resolución.
 
 ## TRANSITORIOS
 
@@ -1119,7 +1373,7 @@ QUINTO.- Los establecimientos cuyas licencias fueron otorgadas con anterioridad 
 
 SEXTO.- (DEROGADO, P.O. 13 DE ENERO DE 2003)
 
-> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
 SÉPTIMO.- La sustanciación de los procedimientos, así como los medios de defensa ejercidos por los particulares, que se iniciaron durante la vigencia del abrogado Reglamento de Alcoholes, se sujetaran a las disposiciones contenidas en el mismo hasta su total conclusión.
 
@@ -1134,3 +1388,9 @@ El C. Presidente Municipal a través de la Secretaria del R. Ayuntamiento deber�
 ###### ARTICULO SEGUNDO.
 
 El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y deberá publicarse en la Gaceta Municipal de Monterrey.
+
+P.O. 26 DE SEPTIEMBRE DE 2003.
+
+Artículo primero. El C. Presidente Municipal a través de la Secretaría del R. Ayuntamiento deberá turnar para su publicación la presente modificación al Ordenamiento municipal, tanto a la Gaceta Municipal como al Periódico Oficial del Estado. Lo anterior de conformidad con lo establecido en el artículo 27, fracción V, y 167 de la Ley Orgánica de la Administración Pública Municipal, y 76 fracción VI del Reglamento Interior del R. Ayuntamiento de la Ciudad de Monterrey.
+
+Artículo segundo. El presente Ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
