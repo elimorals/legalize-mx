@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1990-04-10"
+last_updated: "1991-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1991.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -495,11 +495,17 @@ VI. Concesión de amnistía.
 
 Corresponde a la Comisión de Inspección, el conocimiento de los asuntos que se relacionen:
 
-I. Con el examen y aprobación de la cuenta pública del Estado y de los Municipios;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1991)</small>
 
-II. Con el control y vigilancia de la Contaduría Mayor de Hacienda, proponiendo las medidas para su eficaz funcionamiento; y
+I. Con el examen y aprobación de la Cuenta Pública del Estado y de los Municipios; para lo cual deberá presentar a la Asamblea los dictámenes correspondientes durante el año siguiente al en que se concluya el ejercicio contable objeto de las mismas;
 
-III.Con el nombramiento y la remoción de los empleados de la Contaduría Mayor de Hacienda y la proposición de sanciones administrativas a que se hagan éstos acreedores.
+II. Con el control y vigilancia de la Contaduría Mayor de Hacienda, proponiendo las medidas para su eficaz funcionamiento;
+
+III. Con el nombramiento y la remoción de los empleados de la Contaduría Mayor de Hacienda y la proposición de sanciones administrativas a que se hagan éstos acreedores; y
+
+IV.(ADICIONADA, P.O. 9 DE ABRIL DE 1991)
+
+Con la formulación del Reglamento Interior de la Contaduría Mayor de Hacienda.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
 
@@ -915,6 +921,8 @@ La dispensa de trámites consistirá en la omisión de las lecturas preceptuadas
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1991)</small>
+
 ###### Artículo 101.
 
 Los Diputados son inviolables por la manifestación de sus ideas, en el ejercicio de sus funciones.
@@ -1101,33 +1109,59 @@ Toda minuta de ley o de decreto se iniciará con las siguientes palabras: "El Co
 
 ###### Artículo 141.
 
-La Contaduría Mayor de Hacienda es la dependencia del Congreso que desempeña las labores de revisión de las cuentas públicas del Estado y de los Ayuntamientos, bajo la vigilancia de la Comisión de Inspección del propio Congreso. De igual manera, tiene las atribuciones que en materia de presupuestos, le señala su Ley Orgánica.
+La Contaduría Mayor de Hacienda es el Organo Técnico del Congreso del Estado que, bajo la vigilancia de la Comisión de Inspección, auxilia al Congreso para la fiscalización y control de la gestión financiera y revisión de las cuentas públicas del Gobierno del Estado y de los Ayuntamientos, de sus organismos descentralizados y de las empresas de participación estatal y/o Municipal, así como de todos aquellos organismos que manejen fondos o valores del Estado, de los Municipios, o reciban algún subsidio de los Gobiernos Estatal o Municipal, conforme a las Leyes aplicables.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1991)</small>
 
 ###### Artículo 142.
 
-La Contaduría Mayor de Hacienda tendrá las siguientes obligaciones:
+La Contaduría Mayor de Hacienda tendrá las siguientes obligaciones y atribuciones:
 
-I. Llevar un libro de registro del nombramiento de los empleados de todas las dependencias del Gobierno del Estado, con expresión de los cargos que desempeñen y el registro de las altas y bajas que
+I. Revisar las Cuentas Públicas del Estado y de los Municipios, dentro del año siguiente al ejercicio de que se trate, sin menoscabo de revisiones parciales que practique en el mismo año del ejercicio fiscal;
 
-causen.
+II. Revisar los cortes de caja de los Municipios y del Estado, cuidando que se ajusten a los presupuestos autorizados por el Congreso, y por los Cabildos
 
-II. Revisar escrupulosamente los cortes de caja de los Municipios y del Estado, los que deben ajustarse a los presupuestos autorizados por el Congreso y aprobarlos cuando corresponda;
+III. Revisar las nóminas, recibos y documentos de pago que elabore y expida la Secretaría de Finanzas del Estado, conforme al Presupuesto de Egresos vigente;
 
-III. Glosar y revisar las nóminas, recibos y documentos de pago que haga la Tesorería General del Estado, conforme al Presupuesto de Egresos en vigor;
+IV. Verificar y revisar que la contabilidad de la Hacienda Pública del Estado, se lleve conforme a las técnicas contables establecidas y se ajuste a los principios de contabilidad generalmente aceptados;
 
-IV. Llevar la contabilidad de la hacienda pública del Estado en libros especiales;
+V. Practicar visitas periódicas de inspección a las Tesorerías Municipales conforme a lo previsto en el Reglamento Interior, y cuando se lo ordene el Congreso por conducto de la Comisión de Inspección;
 
-V. Registrar en libros especiales los ingresos y egresos de los Municipios;
+VI. Revisar la contabilidad de todas las dependencias del Estado, organismos descentralizados e instituciones en las que se manejen fondos del Estado;
 
-VI. Practicar visitas periódicas de inspección a las Tesorerías Municipales cuando lo ordene el Congreso;
+VII. Revisar que todos los recibos impresos para cobro de ingresos tanto del Estado como de los Ayuntamientos, se expidan de acuerdo con las disposiciones del Reglamento Interior;
 
-VII. Revisar la contabilidad de todas aquellas dependencias del Estado o Instituciones Descentralizadas en las que se manejen fondos del Estado;
+VIII. Revisar la contabilidad, así como los Estados financieros, del sector paraestatal, incluyendo las empresas privadas con capital del Estado o de los municipios de la entidad;
 
-VIII. Visar que todos los recibos impresos para cobro de ingresos tanto del Estado como de los Ayuntamientos se hagan de acuerdo con las disposiciones de la Ley Orgánica de la Contaduría Mayor de Hacienda;
+IX. Establecer las normas y procedimientos de auditoría generalmente aceptados, así como su alcance, para la revisión de las cuentas públicas, y para el cumplimiento de sus atribuciones;
 
-IX. Llevar el archivo de los documentos glosados, de los cortes de caja y en general, de todos los documentos cuya revisión tenga a su cargo;
+X. Fiscalizar los subsidios otorgados por el Gobierno del Estado y sus Municipios a las entidades y a particulares, cualquiera que sean los fines de su destino, así como verificar si su aplicación es acorde a los objetivos y metas fijados a cada entidad, respetando las limitaciones impuestas por las leyes respectivas;
 
-X. Las que se deriven de la Ley Orgánica de la Contaduría Mayor de Hacienda y su Reglamento.
+XI. Practicar auditorías, visitas, inspecciones, informes, revisar libros y documentos a las entidades, y analizar su contenido incluyendo las obras que realicen los fideicomisos y, en general, donde se involucren fondos o valores públicos del Estado y los Municipios, y realizar las investigaciones necesarias para el cumplimiento de sus atribuciones;
+
+XII. Evaluar si las instituciones realizaron sus actividades financieras de acuerdo a lo establecido por las Leyes y sus Reglamentos, tanto en lo general como en lo particular;
+
+XIII. Verificar, en las entidades que tengan funciones de recaudación, si éstas se han llevado a cabo de acuerdo con lo previsto por las Leyes de Ingresos correspondientes;
+
+XIV. Revisar el ejercicio correcto y estricto de los presupuestos de acuerdo con los programas aprobados en todas las entidades;
+
+XV. Verificar y evaluar el ejercicio de los programas en las entidades de conformidad con los montos y partidas aprobadas, así como en la aplicación de los recursos provenientes de financiamiento, de acuerdo con los plazos y términos convenidos;
+
+XVI. Verificar en las entidades que, quienes manejen fondos y valores públicos, caucionen su manejo y que las cauciones sean otorgadas suficientemente, en cuanto al monto y al plazo;
+
+XVII. Verificar que al realizase la adquisición o enajenación de inmuebles, toda erogación esté debidamente autorizada, comprobada y justificada;
+
+XVIII. Supervisar la impresión, custodia y distribución de las formas valoradas y recibos para cobro de ingresos, tanto de la Hacienda Pública Estatal como de los ayuntamientos y cuidar que las formas valoradas y recibos no utilizados por los municipios, durante el ejercicio fiscal correspondiente, sean concentrados en la Contaduría Mayor de Hacienda, para su cancelación o revalidación;
+
+XIX. Elaborar y rendir a la Comisión de Inspección, los informes preliminares sobre las cuentas públicas, mismos que, de manera enunciativa, deberán contener un análisis en base a lo que pa4ra ello establezca el Reglamento Interior de la Contaduría Mayor de Hacienda.
+
+XX. Elaborar y rendir al Congreso del Estado, por conducto de la Comisión de Inspección, los dictámenes e informes sobre los resultados de la revisión de las cuentas públicas del Gobierno del Estado y de los Ayuntamientos y demás entidades, dentro del año siguiente del ejercicio de que se trate. La Comisión de Inspección podrá ampliar dicho plazo, por causas justificadas; previa aprobación de la Asamblea;
+
+XXI. Promover ante las autoridades competentes el fincamiento de responsabilidades, resultantes de las revisiones efectuadas a las entidades fiscalizadas;
+
+XXII. Extender los finiquitos de las cuentas públicas aprobadas por el Congreso del Estado, previa su publicación en el Periódico Oficial El Estado de Jalisco; y
+
+XXIII. Todas las demás que le correspondan, de acuerdo con esta Ley, y disposiciones que dicte el Congreso del Estado, y lo establecido en sus reglamentos.
 
 ## TITULO VIII. De la Secretaría del Congreso
 
@@ -1660,3 +1694,9 @@ Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 10 DE ABRIL DE 1990
 
 Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 9 DE ABRIL DE 1991
+
+Artículo Primero. Se deroga la Ley Orgánica de la Contaduría Mayor de Hacienda y su Reglamento, expedidos por el congreso del Estado de Jalisco el 22 de julio de 1972, mediante Decretos números 8844 y 8845, y publicados en el Periódico Oficial El Estado de Jalisco los días 12 y 15 de agosto de 1972, respectivamente, en lo que se opongan al presente Decreto, y en tanto se expida el Reglamento Interior.
+
+Artículo Segundo. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
