@@ -4,7 +4,7 @@ identifier: "LCS"
 country: "mx"
 rank: "ley"
 publication_date: "1935-08-31"
-last_updated: "1966-01-05"
+last_updated: "2002-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2591&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCS"
 
 LEY SOBRE EL CONTRATO DE SEGURO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 1966.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE ENERO DE 2002.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -260,11 +260,13 @@ En caso de que se convenga el pago de la prima en forma fraccionada, cada uno de
 
 En los seguros por un solo viaje, tratándose de transporte marítimo, terrestre o aéreo y de accidentes personales, así como en los seguros de riesgos profesionales, no se podrá convenir el pago fraccionado de la prima.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1966)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 40.
 
-Si no hubiere sido pagada la prima o la fracción de ella en los casos de pago en parcialidades, dentro de los 30 días naturales siguientes a la fecha de su vencimiento, los efectos del contrato cesarán automáticamente a las doce horas del último día de este plazo.
+Si no hubiese sido pagada la prima o la primera fracción de ella, en los casos de pago en parcialidades, dentro del término convenido, el cual no podrá ser inferior a tres días ni mayor a treinta días naturales siguientes a la fecha de su vencimiento, los efectos del contrato cesarán automáticamente a las doce horas del último día de ese plazo. En caso de que no se haya convenido el término, se aplicará el mayor previsto en este artículo.
+
+Salvo pacto en contrario, el término previsto en el párrafo anterior no será aplicable a los seguros obligatorios a que hace referencia el artículo 150 Bis de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1966)</small>
 
@@ -302,9 +304,11 @@ Si el riesgo deja de existir después de la celebración del contrato, éste se 
 
 Cualquiera omisión o inexacta declaración de los hechos a que se refieren los artículos 8, 9 y 10 de la presente ley, facultará a la empresa aseguradora para considerar rescindido de pleno derecho el contrato, aunque no hayan influido en la realización del siniestro.
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 48.
 
-La empresa aseguradora comunicará en forma auténtica al asegurado la rescisión del contrato, dentro de los quince días siguientes a la fecha en que el mismo asegurador conozca la omisión o inexacta declaración.
+La empresa aseguradora comunicará en forma auténtica al asegurado o a sus beneficiarios, la rescisión del contrato dentro de los treinta días naturales siguientes a la fecha en que la propia empresa conozca la omisión o inexacta declaración.
 
 > <small>(F. DE E., D.O.F. 13 DE SEPTIEMBRE DE 1935)</small>
 
@@ -642,6 +646,10 @@ La empresa podrá liberarse en todo o en parte de sus obligaciones, si la subrog
 
 Si el daño fué indemnizado sólo en parte, el asegurado y la empresa aseguradora concurrirán a hacer valer sus derechos en la proporción correspondiente.
 
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2002)</small>
+
+El derecho a la subrogación no procederá en el caso de que el asegurado tenga relación conyugal o de parentesco por consanguinidad o afinidad hasta el segundo grado o civil, con la persona que le haya causado el daño, o bien si es civilmente responsable de la misma.
+
 ###### ARTICULO 112.
 
 En caso de quiebra o concurso del asegurado, la masa le sucederá en el contrato, siendo aplicables las disposiciones relativas al cambio de propietario.
@@ -802,9 +810,21 @@ El asegurado no tendrá obligación de avisar la enajenación de la cosa asegura
 
 ### CAPITULO V. Seguro contra la responsabilidad
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 145.
 
-En el seguro contra la responsabilidad, la empresa se obliga a pagar la indemnización que el asegurado deba a un tercero a consecuencia de un hecho que cause un daño previsto en el contrato de seguro.
+En el seguro contra la responsabilidad, la empresa se obliga hasta el límite de la suma asegurada a pagar la indemnización que el asegurado deba a un tercero a consecuencia de un hecho que cause un daño previsto en el contrato de seguro.
+
+Tratándose de los seguros obligatorios a que hace referencia el artículo 150 Bis de esta Ley, la empresa estará obligada a cubrir hasta la suma asegurada que se establezca en las disposiciones legales respectivas o en las que deriven de las mismas, vigentes al celebrarse el contrato.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2002)</small>
+
+###### ARTICULO 145 Bis.
+
+En el seguro contra la responsabilidad, podrá pactarse que la empresa aseguradora, se responsabilice de las indemnizaciones que el asegurado deba a un tercero por hechos ocurridos durante la vigencia y dentro de los dos años anteriores a la misma, sólo si la reclamación por esos hechos se formula al asegurado o a la empresa durante la vigencia y dentro de los dos años siguientes a su terminación.
+
+Será nulo cualquier convenio que pretenda reducir los plazos a que se refiere el párrafo anterior, pero podrán ampliarse expresamente mediante pacto.
 
 ###### ARTICULO 146.
 
@@ -832,6 +852,14 @@ Si el tercero es indemnizado en todo o en parte por el asegurado, éste deberá 
 
 El aviso sobre la realización del hecho que importe responsabilidad deberá darse tan pronto como se exija la indemnización al asegurado. En caso de juicio civil o penal, el asegurado proporcionará a la empresa aseguradora todos los datos y pruebas necesarios para la defensa.
 
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2002)</small>
+
+###### ARTICULO 150 Bis.
+
+Los seguros de responsabilidad que por disposición legal tengan el carácter de obligatorios, no podrán cesar en sus efectos, rescindirse, ni darse por terminados con anterioridad a la fecha de terminación de su vigencia.
+
+Cuando la empresa pague por cuenta del asegurado la indemnización que éste deba a un tercero a causa de un daño previsto en el contrato y compruebe que el contratante incurrió en omisiones o inexactas declaraciones de los hechos a que se refieren los artículos 8o., 9o., 10 y 70 de la presente Ley, o en agravación esencial del riesgo en los términos de los artículos 52 y 53 de la misma, estará facultada para exigir directamente al contratante el reembolso de lo pagado.
+
 ###### ARTICULO 151.
 
 El contrato de seguro sobre las personas comprende todos los riesgos que puedan afectar a la persona del asegurado en su existencia, integridad personal, salud o vigor vital.
@@ -840,15 +868,19 @@ El contrato de seguro sobre las personas comprende todos los riesgos que puedan 
 
 El seguro de personas puede cubrir un interés económico de cualquier especie, que resulte de los riesgos de que trata este Título, o bien dar derecho a prestaciones independientes en absoluto de toda pérdida patrimonial derivada del siniestro.
 
-> <small>(ADICIONADO, D.O.F. 15 DE ABRIL DE 1946)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2002)</small>
 
-En el seguro sobre las personas, la empresa aseguradora no podrá subrogarse en los derechos del asegurado o del beneficiario contra terceros en razón del siniestro.
+En el seguro sobre las personas, la empresa aseguradora no podrá subrogarse en los derechos del asegurado o del beneficiario contra los terceros en razón del siniestro, salvo cuando se trate de contratos de seguro que cubran gastos médicos o la salud.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2002)</small>
+
+El derecho a la subrogación no procederá en caso de que el asegurado o el beneficiario, tengan relación conyugal o parentesco por consanguinidad o afinidad hasta el segundo grado o civil, con la persona que les haya causado el daño, o bien si son civilmente responsables de la misma.
 
 ###### ARTICULO 153.
 
 La póliza del seguro sobre las personas, además de los requisitos del artículo 20 de la presente ley, deberá contener los siguientes:
 
-I.- El nombre completo y fecha de nacimiento de la persona o personas sobre quienes recaiga el seguro.
+I.- El nombre completo y fecha de nacimiento de la persona o personas sobre quienes recaiga el seguro;
 
 II.- El nombre completo del beneficiario si hay alguno determinado;
 
@@ -910,7 +942,7 @@ I.- Cuando a consecuencia de la indicación inexacta de la edad, se pagare una p
 
 II.- Si la empresa aseguradora hubiere satisfecho ya el importe del seguro al descubrirse la inexactitud de la indicación sobre la edad del asegurado, tendrá derecho a repetir lo que hubiera pagado de más conforme al cálculo de la fracción anterior, incluyendo los intereses respectivos;
 
-III.- Si a consecuencia de la inexacta indicación de la edad, se estuviere pagando una prima más elevada que la correspondiente a la edad real, la empresa estará obligada a reembolsar la diferencia entre la reserva existente y la que habría sido necesaria para la edad real del asegurado en el momento de la celebración del contrato. Las primas ulteriores deberán reducirse de acuerdo con esta edad.
+III.- Si a consecuencia de la inexacta indicación de la edad, se estuviere pagando una prima más elevada que la correspondiente a la edad real, la empresa estará obligada a reembolsar la diferencia entre la reserva existente y la que habría sido necesaria para la edad real del asegurado en el momento de la celebración del contrato. Las primas ulteriores deberán reducirse de acuerdo con esta edad;
 
 > <small>(ADICIONADA, D.O.F. 15 DE ABRIL DE 1946)</small>
 
@@ -1125,3 +1157,7 @@ Las disposiciones actualmente en vigor continuarán rigiendo para los contratos 
 ###### ARTICULO TERCERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 2 DE ENERO DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
