@@ -4,7 +4,7 @@ identifier: "LFEP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1986-05-14"
-last_updated: "1992-07-24"
+last_updated: "1996-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=292&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFEP"
 
 LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 14 de mayo de 1986.
 
@@ -536,11 +536,17 @@ II. Los Directores Generales definirán las políticas de instrumentación de lo
 
 III. Los demás servidores públicos del organismo responderán dentro del ámbito de sus competencias correspondientes sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 62.
 
-Los órganos internos de control serán parte integrante de la estructura del organismo descentralizado. Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión del organismo; desarrollarán sus funciones conforme a los lineamientos que emita la Secretaría de la Contraloría General de la Federación, y de acuerdo a las siguientes bases:
+Los órganos de control interno serán parte integrante de la estructura de las entidades paraestatales. Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión de la entidad; desarrollarán sus funciones conforme a los lineamientos que emita la Secretaría de Contraloría y Desarrollo Administrativo, de la cual dependerán los titulares de dichos órganos y de sus áreas de auditoría, quejas y responsabilidades de acuerdo a las bases siguientes:
 
-I.- Dependerán del Director General del Organismo;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+I.- Recibirán quejas, investigarán y, en su caso, por conducto del titular del órgano de control interno o del área de responsabilidades, determinarán la responsabilidad administrativa de los servidores públicos de la entidad e impondrán las sanciones aplicables en los términos previstos en la ley de la materia, así como dictarán las resoluciones en los recursos de revocación que interpongan los servidores públicos de la entidad respecto de la imposición de sanciones administrativas.
+
+Dichos órganos realizarán la defensa jurídica de las resoluciones que emitan ante los diversos Tribunales Federales, representando al Titular de la Secretaría de Contraloría y Desarrollo Administrativo;
 
 II. Realizarán sus actividades de acuerdo a reglas y bases que les permitan cumplir su cometido con autosuficiencia y autonomía; y
 
@@ -619,3 +625,19 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 24 DE JULIO DE 1992.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE DICIEMBRE DE 1996.
+
+PRIMERO.- El presente decreto entrará en vigor el día 1o. de enero de 1997.
+
+SEGUNDO.- Se derogan las disposiciones legales y administrativas que se opongan al presente decreto.
+
+TERCERO.- En tanto el Secretario de Contraloría y Desarrollo Administrativo designa a los titulares de los órganos de control interno, así como a los de sus áreas de auditoría, quejas y responsabilidades, los actuales titulares continuarán en su cargo y ejercerán sus atribuciones en los términos de este decreto.
+
+CUARTO.- Los órganos de control interno de las entidades paraestatales resolverán los procedimientos de responsabilidades administrativas y los recursos de revocación que, a la entrada en vigor del presente decreto, se encuentren en trámite en las Dependencias Coordinadoras de Sector, relativos a asuntos de las citadas entidades, así como los que se inicien por hechos consumados con anterioridad a la entrada en vigor antes mencionada. Dichos procedimientos y recursos continuarán resolviéndose conforme a las disposiciones legales que los rigen.
+
+QUINTO.- La Secretaría de Hacienda y Crédito Público realizará los actos que correspondan a efecto de que, para el ejercicio fiscal de 1997, los recursos financieros destinados al pago de los sueldos y prestaciones de los servidores públicos que por virtud del presente decreto pasarán a depender de la Secretaría de Contraloría y Desarrollo Administrativo, se transfieran a esta última.
+
+Las dependencias y entidades continuarán proporcionando los espacios físicos, los recursos humanos y materiales que requieran los referidos órganos de control interno.
+
+La relación laboral del resto del personal de dichos órganos de control interno no se modifica por la entrada en vigor del presente decreto.
