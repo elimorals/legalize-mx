@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salvaguarda-del-patrimonio-urbanistico-16125"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-13"
-last_updated: "2000-04-13"
+last_updated: "2001-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16125&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-03-14"
 
 LEY DE SALVAGUARDA DEL PATRIMONIO URBANISTICO ARQUITECTONICO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE SEPTIEMBRE DE 2001.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de abril de 2000.
 
@@ -304,7 +304,9 @@ II. Jardines: Jardín Centenario;
 
 III. Panteones: Jardín, de los Remedios, de San Lorenzo Tezonco, Civil de Dolores, Francés de la Piedad, Español, San José, Xoco, el Calvario, San Isidro, Santa Lucía, Santa Apolonia, Monte Sinaí, Israelita, Pueblo de Atzacoalco "Pueblo Antiguo";
 
-IV. Parques urbanos: Chapultepec, Alameda Central, Alameda de Santa María, Felipe Xicoténcatl, Miguel Alemán, Revolución, San Lorenzo, Tlacoquemécatl, Francisco Villa (de los Venados), San Martín (México), España, Luis G. Urbina (Hundido), Bosque de Tlalpan, Las Américas, Lira, María del Carmen Industrial, Parque Nacional del Tepeyac, Parque Nacional Cerro de la Estrella y Parque de los Cocodrilos;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 20 DE SEPTIEMBRE DE 2001)</small>
+
+IV. Parques Urbanos: Chapultepec, Alameda Central, Alameda de Santa María, Felipe Xicoténcatl, Miguel Alemán, Revolución, San Lorenzo, Tlacoquemécatl, Francisco Villa (de los Venados), San Martín (México), España, Luis G. Urbina (Hundido), Bosque de Tlalpan, Las Américas, Lira, María del Carmen Industrial, Parque Nacional del Tepeyac, Parque Nacional Cerro de la Estrella, Parque de los Cocodrilos y Parque Ramón López Velarde.
 
 V. Paseos: Reforma, Bucareli, Horacio (Paseo de los Cedros), Tlalpan, Tacuba, Mazatlán, Durango, Insurgentes, Oaxaca, Veracruz, Amsterdam, Miguel Ángel de Quevedo, Los Misterios, Guadalupe, Paseo del Pedregal;
 
@@ -376,7 +378,7 @@ XI. De infraestructura: Estaciones de tren, de tranvía, acueductos, fuentes, la
 
 XII. Mixto: Habitación-comercio, habitación-oficina, convento y similares;
 
-XIV (sic). Vernáculo:Aquella edificación que por su importancia sociocultural, sea producto de la expresión y participación de una comunidad, aplicando conocimientos adquiridos, arraigados y transmitidos consuetudinariamente en cuanto a las tecnologías constructivas, el uso de materiales propios del lugar, y la concepción espacial y formal estrechamente ligada con su contexto y medio ambiente, en respuesta a sus necesidades, valores, tradiciones, economía y forma de vida.
+XIV (sic). Vernáculo: Aquella edificación que por su importancia sociocultural, sea producto de la expresión y participación de una comunidad, aplicando conocimientos adquiridos, arraigados y transmitidos consuetudinariamente en cuanto a las tecnologías constructivas, el uso de materiales propios del lugar, y la concepción espacial y formal estrechamente ligada con su contexto y medio ambiente, en respuesta a sus necesidades, valores, tradiciones, economía y forma de vida.
 
 ###### Artículo 18.
 
@@ -1227,3 +1229,13 @@ Quinto. Se abrogan todas las disposiciones del Distrito Federal que se opongan a
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a 30 de diciembre de mil novecientos noventa y nueve.- POR LA MESA DIRECTIVA.- DIP. RENE BALDOMERO RODRIGUEZ RUIZ, PRESIDENTE.- DIP. YOLANDA TELLO MONDRAGON, SECRETARIO.- DIP. JOSE LUIS BENITEZ GIL, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación v observancia, expido el presente Decreto Promulgatorio. en la Residencia Oficial de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los catorce días del mes de marzo de dos mil.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, ROBERTO EIBENSCHTZ HARTMAN.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONOMICO, FRANCISCO CANO ESCALANTE.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, CLARA JUSIDMAN RAPOPORT.- FIRMAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 20 DE SEPTIEMBRE DE 2001.
+
+Primero: El Jefe de Gobierno del Distrito Federal con facultad que le confiere la fracción V del artículo 22 de la Ley de Salvaguarda del Patrimonio Urbanístico Arquitectónico del Distrito Federal, declara en un lapso de 30 días posteriores a la entrada en vigor del presente decreto la declaratoria de espacio abierto monumental al parque Ramón López Velarde, ubicado en la Delegación Cuauhtémoc.
+
+Segundo: La Delegación Cuauhtémoc, en coordinación con la Secretaría de Desarrollo Social del Gobierno del Distrito Federal, tomará las previsiones necesarias a fin de cumplir con las medidas para que dicho parque cumpla con las condiciones dignas que lo hacen espacio abierto monumental del Distrito Federal.
+
+Tercero: El presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
