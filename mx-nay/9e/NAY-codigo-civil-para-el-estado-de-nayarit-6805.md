@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "1996-08-07"
+last_updated: "1997-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 1997.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -5991,7 +5991,7 @@ La servidumbre de acueducto no obsta para que el dueño del predio sirviente pue
 
 Cuando para el mejor aprovechamiento del agua de que se tiene derecho de disponer fuera necesario constituir una presa y el que haya de hacerlo no sea dueño del terreno en que se necesite apoyarla, puede pedir que se establezca la servidumbre en un estribo de presa, previa la indemnización correspondiente.
 
-### CAPITULO VIII. Derechos y obligaciones de los propietarios de los predios entre los que está constituída alguna servidumbre voluntaria
+### CAPITULO VIII. Derechos y obligaciones de los propietarios de los predios entre los que está constituida alguna servidumbre voluntaria
 
 ###### Artículo 1081.
 
@@ -11107,7 +11107,7 @@ III.- El objeto de la sociedad;
 
 IV.- El importe del capital social y la aportación con que cada socio debe contribuir.
 
-Si falta alguno de estos requisitos se aplicará lo que dispone el artículo 2062.
+Si falta alguno de estos requisitos se aplicará lo que dispone el artículo 2,062.
 
 ###### Artículo 2065.
 
@@ -12265,6 +12265,14 @@ El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en
 
 Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor ni de registro. La hipoteca constituida, para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
 
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 1997)</small>
+
+Las Instituciones de Crédito del Sistema Financiero Mexicano e Instituciones de Seguridad Social, podrán ceder sus derechos, con garantía hipotecaria sin necesidad de notificación al deudor, ni de inscripción en el Registro, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, deberá notificar por escrito al deudor, la cesión realizada obligará al nuevo cesionario a inscribirla en el Registro Público de la Propiedad.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 1997)</small>
+
+En los supuestos previstos en los párrafos anteriores, la inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor de él o los cesionarios referidos en tales párrafos, quienes tendrán todos los derechos y acciones derivados de ésta.
+
 ###### Artículo 2298.
 
 La hipoteca generalmente durará por todo el tiempo que subsista la obligación que garantice, y cuando ésta no tuviere término para su vencimiento, la hipoteca no podrá durar más de diez años.
@@ -12925,7 +12933,9 @@ No se recibirá la información sin que previamente se haya dado una amplia publ
 
 Comprobada debidamente la posesión, el juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción, y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público.
 
-### CAPITULO II. De la capacidad para testar
+### CAPITULO II
+
+De la capacidad para testar.
 
 ###### Artículo 2395.
 
@@ -14063,7 +14073,7 @@ Testamento Público Simplificado.
 
 > <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
-Artículo 2683 BIS.- Testamento público simplificado es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente en la misma escritura que consigne su adquisición o en la que contenga la regularización de un inmueble que lleven a cabo los organismos descentralizados del Gobierno del Estado o Municipios, o cualquier dependencia o Entidad de la Administración Pública Federal, o en acto posterior, de conformidad con lo siguiente:
+Artículo 2683 BIS.- Testamento público simplificado es aquél que se otorga ante el notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente en la misma escritura que consigne su adquisición o en la que contenga la regularización de un inmueble que lleven a cabo los organismos descentralizados del Gobierno del Estado o Municipios, o cualquier dependencia o Entidad de la Administración Pública Federal, o en acto posterior, de conformidad con lo siguiente:
 
 I.- Que el precio del inmueble o su valor de avalúo no exceda de la cantidad que resulte de multiplicar 9,125 por el importe del salario mínimo general diario vigente en el Estado de Nayarit; al momento de la adquisición.
 
@@ -14363,13 +14373,13 @@ La omisión de esta formalidad por el testador sólo afecta a la validez de las 
 
 El testador hará por duplicado su testamento ológrafo e imprimirá en cada ejemplar su huella digital.
 
-El original, dentro de un sobre cerrado y lacrado, será depositado en la sección correspondiente del Registro Público, y el duplicado, también encerrado en un sobre lacrado y con la nota en la cubierta, de que se hablará después, será devuelto al testador. Este podrá poner en los sobres que contengan los testamentos los sellos, señales o marcas que estime necesarios para evitar violaciones.
+El original, dentro de un sobre cerrado y lacrado, será depositado en la sección correspondiente del Registro Público, y el duplicado, también encerrado en un sobre lacrado y con la nota en la cubierta, de que se hablará después, será devuelto al testador. Este podrá poner en los sobres que contengan los testamentos los sellos, señales o marcas que estime necesarias para evitar violaciones.
 
 ###### Artículo 2688.
 
 El depósito en el Registro Público se hará personalmente por el testador, quien, si no es conocido del encargado de la oficina, debe presentar dos testigos que lo identifiquen. En el sobre que contenga el testamento original el testador, de su puño y letra, pondrá la siguiente constancia:
 
-"Dentro de este sobre se contiene mi testamento." A continuación se expresará el lugar y la fecha en que se hace el depósito. La constancia será firmada por el testador y por el encargado de la oficina. En caso de que intervengan testigos de identificación, también firmarán.
+"Dentro de este sobre se contiene mi testamento". A continuación se expresará el lugar y la fecha en que se hace el depósito. La constancia será firmada por el testador y por el encargado de la oficina. En caso de que intervengan testigos de identificación, también firmarán.
 
 ###### Artículo 2689.
 
@@ -15506,3 +15516,17 @@ P.O. 7 DE AGOSTO DE 1996 SE ADICIONA ARTICULO 1692
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 19 DE FEBRERO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los asuntos tramitados con la normatividad anterior, continuarán en su trámite con las nuevas disposiciones en cuanto no afecten los intereses de las partes y el interés público.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que contraríen la observancia de las presentes reformas y adiciones.
