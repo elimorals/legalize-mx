@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2002-08-16"
+last_updated: "2002-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE AGOSTO DE 2002.
 
 Ley publicada de la Segunda a Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
@@ -4581,5 +4581,9 @@ TERCERO.- El arancel establecido en el artículo 1o. de este Decreto para las fr
 CUARTO.- El arancel establecido en el artículo 1o. de este Decreto para las fracciones arancelarias 8471.60.03, 8471.60.05 y 8471.60.08, estará vigente hasta el 31 de diciembre de 2002. A partir del 1o. de enero de 2003, dichas fracciones arancelarias estarán sujetas al pago de un arancel de 4%.
 
 D.O.F. 16 DE AGOSTO DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE AGOSTO DE 2002.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
