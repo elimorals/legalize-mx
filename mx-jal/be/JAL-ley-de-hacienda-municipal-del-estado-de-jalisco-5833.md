@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2002-02-12"
+last_updated: "2002-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -181,9 +181,9 @@ III. El Tesorero Municipal;
 
 IV. Los delegados y agentes municipales;
 
-> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2000)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2002)</small>
 
-V. Los organismos descentralizados municipales o intermunicipales que operan y administran los servicios de agua potable y alcantarillado, en cuanto a las atribuciones que por delegación les confieren en esta materia los decretos que crean estos organismos, exceptuándose la facultad económica-coactiva, la cuál solo ser ejercida por los funcionarios encargados de las tesorerías municipales o por los servidores públicos que determine cada municipio;
+V. Los organismos descentralizados municipales o intermunicipales que operan y administran los servicios de agua potable y alcantarillado, en cuanto a las atribuciones que por delegación les confieren en esta materia los acuerdos o convenios que crean estos organismos, exceptuándose la facultad económica-coactiva, la cual solo podrán ejercerla cuando el Congreso del Estado mediante Ley les otorgue el carácter de Organismo Fiscal Autónomo, fuera de estos casos sólo podrá ser ejercida por los funcionarios encargados de las tesorerías municipales o por los servidores públicos que determine cada municipio; y
 
 > <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
@@ -3285,7 +3285,7 @@ P.O. 25 DE JULIO DE 2000.
 
 P.O. 23 DE ENERO DE 2001.
 
-ÚNICO.- Este decreto entrará en vigor a los 60 sesenta días siguientes su publicación en el Periódico Oficial "El Estado de Jalisco".
+ÚNICO.- Este decreto entrará en vigor a los 60 sesenta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 3 DE FEBRERO DE 2001.
 
@@ -3310,3 +3310,7 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO.- Para el ejercicio fiscal del 2002, el Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, será convocado de inmediato, para que a más tardar el 31 de marzo del 2002, evalúe las percepciones aprobadas en los presupuestos respectivos, sin que esta evaluación pueda afectar las prestaciones ya aprobadas.
+
+P.O. 21 DE MAYO DE 2002.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
