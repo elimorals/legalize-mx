@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-federalismo-hacendario-del-estado-de-puebla-11372"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-28"
-last_updated: "1998-01-28"
+last_updated: "2000-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL FEDERALISMO HACENDARIO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 1988.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el miércoles 28 de enero de 1998.
 
@@ -107,9 +107,7 @@ Todo lo anteriormente señalado justifica plenamente que los poderes del Estado 
 
 Las Comisiones Unidas de Gobernación, Justicia y Puntos Constitucionales; y de Hacienda Pública y Patrimonio Estatal y Municipal, consideraron que de ser aprobada, esta Ley sienta las bases para que el Estado ejerza sus facultades para atender las necesidades de su población y dar el marco jurídico que regule las bases en que los Ayuntamientos fundamentarán la recepción, manejo y comprobación de los ingresos estatales del ramo 33, destinados a los Municipios; define los instrumentos para lograr el fortalecimiento de las haciendas públicas municipales y la distribución equitativa de los recursos públicos, que permita a los Municipios que presentan mayor rezago social superar en el menor tiempo posible las carencias que los afectan y lograr así una auténtica justicia social.
 
-III. CONTENIDO DE LA INICIATIVA Y CAMBIOS REALIZADOS POR LAS
-
-COMISIONES UNIDAS DICTAMINADORAS
+III. CONTENIDO DE LA INICIATIVA Y CAMBIOS REALIZADOS POR LAS COMISIONES UNIDAS DICTAMINADORAS
 
 La Ley consta de seis títulos, 104 artículos y seis transitorios. Los títulos que la conforman son: disposiciones generales; de la planeación y la participación social; del fortalecimiento y la equidad municipal; de la coordinación hacendaria; de los fondos de aportaciones federales y de las responsabilidades y sanciones. Las comisiones dictaminadoras consideraron modificar la iniciativa para quedar en 98 artículos y seis transitorios, con el mismo número de títulos. A continuación se hace referencia al contenido general de cada uno de ellos.
 
@@ -317,7 +315,9 @@ Los recursos que la Federación transfiera al Estado derivados de programas fede
 
 Los recursos a que se refiere esta Ley, formarán parte del ingreso y del gasto estatal y su ejercicio deberá ser incorporado en la rendición de las Cuentas de las Haciendas Públicas Estatal y Municipales al H. Congreso del Estado.
 
-El Ejecutivo Estatal será el responsable de administrar, distribuir, ejercer y supervisar que los recursos materia de esta Ley se apliquen a los fines aprobados. Para ello, el Estado promoverá las acciones necesarias que garanticen la transparente y oportuna asignación de dichos recursos de conformidad con esta Ley y sin menoscabo de la libertad municipal. Asimismo, a través de sus dependencias y entidades competentes, llevará a cabo la asignación y distribución de los recursos de aportaciones para la educación básica y normal; de aportaciones para los servicios de salud; infraestructura social estatal; de aportaciones múltiples, con apego tanto a los programas establecidos por la Federación, como a los estatales, regionales y sociales que se instrumenten y que se aprueben en el seno del órgano de planeación.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2000)</small>
+
+El Ejecutivo Estatal será el responsable de administrar, distribuir, ejercer y supervisar que los recursos materia de esta Ley se apliquen a los fines aprobados. Para ello, el Estado promoverá las acciones necesarias que garanticen la transparente y oportuna asignación de dichos recursos de conformidad con esta Ley y sin menoscabo de la libertad municipal. Asimismo, a través de sus dependencias y entidades competentes, llevará a cabo la asignación y distribución de los recursos de aportaciones para la educación básica y normal; de aportaciones para los servicios de salud; infraestructura social estatal; de aportaciones múltiples, de aportaciones para la educación tecnológica y de adultos y de aportaciones para la seguridad pública del Estado, con apego tanto a los programas establecidos por la Federación, como a los estatales, regionales y sociales que se instrumenten y que se aprueben en el seno del órgano de planeación.
 
 ###### ARTICULO 9.
 
@@ -503,7 +503,9 @@ El Fondo de Desarrollo Municipal se integrará con el 20% de las participaciones
 
 El Fondo para Incentivar y Estimular la Recaudación Municipal se integrará con el cien por ciento del Fondo de Fomento Municipal establecido en la Ley de Coordinación Fiscal que será entregado por el Estado a los municipios.
 
-###### ARTICULO 38.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE FEBRERO DE 2000)</small>
+
+###### ARTÍCULO 38.
 
 El Fondo de Desarrollo Municipal se distribuirá entre los municipios de la siguiente forma:
 
@@ -511,13 +513,187 @@ I. El 50% se distribuirá en proporción directa al número de habitantes de cad
 
 II. El 50% restante, se distribuirá tomando en cuenta los elementos siguientes:
 
-a) Garantía: que asegura al municipio recibir recursos financieros en términos nominales iguales a los del ejercicio fiscal inmediato anterior, recibidos por el criterio de marginación.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2000)</small>
 
-b) Equidad y Marginación: que distribuye el aumento nominal directo del ejercicio fiscal inmediato anterior, de este componente del Fondo de Desarrollo Municipal, para los 217 municipios, con base en lo establecido en el artículo 71 de esta Ley.
+A) Garantía: que asegura al municipio recibir recursos financieros en términos nominales iguales a los del ejercicio fiscal inmediato anterior, recibidos por el criterio de marginación.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2000)</small>
+
+B) Equidad y Marginación: que distribuye el aumento nominal directo del ejercicio fiscal inmediato anterior, de este componente del Fondo de Desarrollo Municipal, para los 217 municipios, con base en la siguiente fórmula:
+
+a) 25% del total de los recursos se repartirá en partes iguales entre los 217 Municipios, y
+
+b) El 75% restante, conforme a la fórmula establecida en el presente artículo, la cual toma en cuenta las necesidades básicas y ponderadores siguientes:
+
+Necesidad Básica Ponderador
+
+Ingresos por persona 55.0%
+
+Rezago educativo 15.0%
+
+Espacio de la vivienda 7.5%
+
+Disponibilidad de
+
+electricidad 15.0%
+
+Disponibilidad
+
+de drenaje 7.5%
+
+Los factores asociados a cada una de estas necesidades, son definidos en una escala que guarda una métrica similar, a efecto de poder ser combinados en un solo índice. Para este fin, la métrica se definió con base en indicadores con valores en el rango de 0 a 1. Así, valores cercanos a 0 indican un déficit mínimo en atención de la necesidad en cuestión, mientras que a medida que los valores se aproximen a 1, será indicativo de un grado de carencia más acentuado.
+
+La conformación de los indicadores para cada una de las necesidades definidas, son las que a continuación se describen:
+
+- Ingresos.
+
+El indicador se construye estableciendo la relación entre la población ocupada con ingresos hasta de un salario mínimo, y el total de la población ocupada en el Municipio en estudio:
+
+N1i= Poi0+Poi50SM+PoiM1SM+Poi1SM
+
+POi
+
+Donde:
+
+N1i = Indicador de pobreza para ingresos en el i-ésimo Municipio;
+
+POi0 = Población ocupada que no recibe ingresos del i-ésimo Municipio;
+
+POi50SM= Población ocupada que recibe hasta el 50% de un salario mínimo del i-ésimo Municipio;
+
+POiM1SM = Población ocupada que recibe más del 50% y menos de un salario mínimo del i-ésimo Municipio;
+
+POi1SM = Población ocupada que recibe un salario mínimo del i-ésimo Municipio;
+
+POi= Población ocupada del i-ésimo Municipio.
+
+Educación.
+
+Este indicador representa la proporción de la población mayor de 15 años sin primaria completa, respecto del total de la población mayor de 15 años del Municipio en cuestión:
+
+N2i= PSIi+PPIi
+
+PSIi+PPIi+PPCi
+
+Donde:
+
+N2= Indicador de pobreza para educación en el i-ésimo Municipio;
+
+PSIi= Población de 15 años y más sin instrucción, del i-ésimo Municipio;
+
+PPIi= Población de 15 años y más con primaria incompleta, del i-ésimo Municipio;
+
+PPCi= Población de 15 años y más con primaria completa, del i-ésimo Municipio.
+
+- Vivienda.
+
+Para la conformación de este indicador, se tomará en cuenta el promedio de ocupantes por cuarto en viviendas particulares de cada uno de los Municipios de la entidad. Para este fin, el procedimiento empleado es una interpolación lineal, resultando la siguiente expresión:
+
+N3i= POCVi-POCVm
+
+POCVM-POCVm
+
+Donde:
+
+N3i = Indicador de pobreza para vivienda en el i-ésimo Municipio;
+
+POCVi= Promedio de ocupantes por cuarto en viviendas particulares, del i-ésimo Municipio;
+
+POCVm = Mínimo de los promedios municipales de ocupantes por cuarto en viviendas particulares, de los Municipios de la entidad. Asume un valor constante igual a 1.15, en el Municipio de Sta. Catarina Tlaltempan;
+
+POCVM = Máximo de los promedios municipales de ocupantes por cuarto en viviendas particulares, de los Municipios de la entidad. Asume un valor constante igual a 3.16, en el Municipio de Tepetzintla.
+
+Electrificación.
+
+Este indicador se traduce en la relación entre las viviendas particulares sin energía eléctrica y las viviendas particulares habitadas en el Municipio en estudio:
+
+N4i=VTHi-VEEi
+
+VPHi
+
+Donde:
+
+N4i= Indicador de pobreza para electrificación en el i-ésimo Municipio;
+
+VPHi= Viviendas particulares habitadas del i-ésimo Municipio;
+
+VEEi= Viviendas particulares con energía eléctrica, del i-ésimo Municipio.
+
+- Drenaje.
+
+El indicador de carencia en materia de drenaje se constituye estableciendo la relación entre las viviendas particulares sin drenaje y las viviendas particulares habitadas del Municipio en estudio:
+
+N5i=VPHi-VDi
+
+VPHi
+
+Donde:
+
+N5i= Indicador de pobreza para drenaje en el i-ésimo Municipio;
+
+VPHi= Viviendas particulares habitadas del i-ésimo Municipio;
+
+VDi= Viviendas particulares con drenaje, del i-ésimo Municipio.
+
+Una vez determinados los cinco indicadores, éstos deben ponderarse, combinarse entre sí y producir un valor índice antes de elevarse a la a, lo que servirá para acentuar las carencias significativas entre los Municipios. El resultado de esta expresión, se denomina Índice Integrador de Déficit Social para el i-ésimo Municipio:
+
+IIDi = (0.55N1i + 0.15N2i + 0.075N3i + 0.15N4i + 0.075N5i)a
+
+Donde:
+
+IIDi= Índice Integrador de Déficit Social para el i-ésimo Municipio;
+
+Nji= Indicadores definidos para cada una de las cinco necesidades consideradas en el i-ésimo Municipio (j = 1, ..., 5);
+
+a= Parámetro que expresa la preocupación social hacia la pobreza. Asume el valor de 2, para atribuir mayor peso al índice definido.
+
+Después de calcular el IID del Municipio observado, se incorpora la variable poblacional multiplicando dicho índice por la población total municipal. Este paso se realiza para obtener elementos comunes en un parámetro con valor relativo, que permitan llevar a cabo la etapa de agregación como se muestra a continuación:
+
+DSRi = IIDi * Ti
+
+Donde:
+
+DSRi = Déficit Social Relativo del i-ésimo Municipio;
+
+IIDi = Indice Intregador de Déficit Social del i-ésimo Municipio;
+
+Ti = Total de la población del i-ésimo Municipio.
+
+Una vez determinada la situación de pobreza en el Municipio, se define la del Estado mediante la suma de los Déficits Sociales Relativos de los Municipios que lo integran, como se expresa a continuación:
+
+217
+
+DSE= E DSRi
+
+i1
+
+Donde:
+
+DSE= Déficit Social Estatal;
+
+DSRi= Déficit Social Relativo del i-ésimo Municipio.
+
+Cada uno de los Déficits Sociales Relativos municipales se divide entre el Déficit Social Estatal para determinar la aportación porcentual que le corresponde a cada Municipio, como lo indica la siguiente fórmula:
+
+AMi= DSRi*100
+
+DSE
+
+Donde:
+
+AMi= Aportación porcentual del i-ésimo Municipio;
+
+DSRi= Déficit Social Relativo del i-ésimo Municipio;
+
+DSE= Déficit Social Estatal.
+
+Con esta transformación a déficits relativos se traduce el fenómeno a una misma expresión estatal y así la asignación se sujeta a los mismos criterios, es decir, en función de la magnitud de la pobreza de cada Municipio.
+
+Para fines de aplicación de esta fórmula, los datos estadísticos se tomarán de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática al iniciarse cada ejercicio. En tanto que los estratos de marginalidad municipal se obtendrán a partir de los últimos índices de marginalidad elaborados por el Consejo Nacional de Población con base en la información del Instituto Nacional de Estadística, Geografía e Informática, que al inicio de cada ejercicio fiscal se encuentre vigente.
 
 La fórmula para la aplicación de los recursos a que se refiere la fracción II de este artículo es la siguiente:
 
-PM it = PM i (t-I) +A PM t
+PMit = PMi(t-1) + PMi
 
 Donde:
 
@@ -525,11 +701,11 @@ i = Son los municipios del Estado (1,2,3,….,217);
 
 t = Año para el cual se está realizando el cálculo del ejercicio;
 
-PM it = Participaciones municipales por criterio de equidad del i-ésimo Municipio;
+PMit = Participaciones municipales por criterio de equidad del i-ésimo Municipio;
 
-PM i (t-I) = Participaciones municipales con criterio de equidad del i-ésimo municipio del ejercicio fiscal inmediato anterior;
+PMi (t-1) = Participaciones municipales con criterio de equidad del i-ésimo municipio del ejercicio fiscal inmediato anterior;
 
-A PM t = Incremento nominal directo del ejercicio fiscal inmediato anterior de las participaciones municipales por criterio de equidad, distribuido entre los municipios conforme lo establece el inciso b) del presente artículo.
+PMt = Incremento nominal directo del ejercicio fiscal inmediato anterior de las participaciones municipales por criterio de equidad, distribuido entre los Municipios conforme lo establece el inciso B) de la fracción II de este artículo.
 
 Si el monto recibido de los recursos a que se refiere esta fracción es igual o menor al del ejercicio fiscal inmediato anterior, éste será distribuido aplicando el coeficiente de participación relativa del citado ejercicio.
 
@@ -537,7 +713,7 @@ Si el monto recibido de los recursos a que se refiere esta fracción es igual o 
 
 El Fondo para Incentivar y Estimular la Recaudación Municipal se distribuirá al cien por ciento, considerando la recaudación del impuesto predial que capten los Municipios y los cobros de agua potable que capten los mismos o sus organismos operadores conforme a la siguiente fórmula:
 
-Ci,t =Ni,t
+Ci,t=Ni,t
 
 217
 
@@ -547,7 +723,7 @@ i=t
 
 donde:
 
-Ni,t = Ci, (t-1) * Ri, (t-1)
+Ni,t=Ci,(t-1)*Ri,(t-1)
 
 Ri,(t-2)
 
@@ -663,9 +839,17 @@ II. De Aportaciones para los Servicios de Salud;
 
 III. De Aportaciones para la Infraestructura Social;
 
-IV. De Aportaciones para el Fortalecimiento de los Municipios; y
+IV. De Aportaciones para el Fortalecimiento de los Municipios;
 
-V. De Aportaciones Múltiples.
+V. De Aportaciones Múltiples;
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2000)</small>
+
+VI. Fondo de Aportaciones para la Educación Tecnológica y de Adultos, y
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2000)</small>
+
+VII. Fondo de Aportaciones para la Seguridad Pública del Estado.
 
 ###### ARTICULO 54.
 
@@ -841,193 +1025,25 @@ I. Fondo para la Infraestructura Social Estatal; y
 
 II. Fondo para la Infraestructura Social Municipal.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2000)</small>
+
 ###### ARTICULO 71.
 
-Los recursos del Fondo para la Infraestructura Social Estatal serán ejercidos por el Gobierno del Estado, atendiendo fundamentalmente a criterios de equilibrio regional. El Comité de Planeación para el Desarrollo del Estado, como órgano de participación social, será el encargado de analizar y seleccionar las obras a realizar con los recursos de este fondo. Para tal efecto, el Estado distribuirá entre los Municipios de alta y muy alta marginalidad estos recursos de conformidad con la siguiente fórmula:
+Los recursos del Fondo para la Infraestructura Social Estatal, formarán parte del Fondo Concursable, se ejercerán por el Gobierno del Estado y serán destinados a la realización de obras de infraestructura social y acciones de impacto regional o intermunicipal que beneficien a sectores que se encuentran en condiciones de rezago social y que logren un desarrollo regional equilibrado; para estos efectos, el Estado convendrá con los Municipios las acciones a realizar.
 
-a) 25 % del total de los recursos se repartirá en partes iguales entre el total de los Municipios de alta y muy alta marginación de la entidad; y
+El Comité de Planeación para el Desarrollo del Estado de Puebla, analizará y validará las obras intermunicipales aprobadas en el Fondo Concursable.
 
-b) el 75 % restante, conforme a la fórmula establecida en el presente artículo, la cual toma en cuenta las necesidades básicas y ponderadoras siguientes:
-
-Necesidad Básica Ponderador
-
-Ingresos por persona 55.0%
-
-Rezago educativo 15.0%
-
-Espacio de la vivienda 7.5%
-
-Disponibilidad
-
-de electricidad 15.0%
-
-Disponibilidad
-
-de drenaje 7.5%
-
-Las necesidades básicas establecidas anteriormente tendrán ponderador cero para los Municipios que no se encuentren en los estratos de marginalidad alta y muy alta.
-
-Los factores asociados a cada una de estas necesidades, son definidos en una escala que guarda una métrica similar, a efecto de poder ser combinados en un solo índice. Para este fin, la métrica se definió con base en indicadores con valores en el rango de 0 a 1. Así, valores cercanos a 0 indican un déficit mínimo en atención de la necesidad en cuestión, mientras que a medida que los valores se aproximen a 1, será indicativo de un grado de carencia más acentuado.
-
-La conformación de los indicadores para cada una de las necesidades definidas, son las que a continuación se describen:
-
-a) Ingresos.
-
-El indicador se constituye estableciendo la relación entre la población ocupada con ingresos hasta de un salario mínimo, y el total de la población ocupada en el Municipio en estudio:
-
-N1i = POi0+PO150SM+PO1M1SM+POi1SM
-
-POi
-
-Donde:
-
-N1i = Indicador de pobreza para ingresos en el i-ésimo Municipio;
-
-POi0 = Población ocupada que no recibe ingresos del i-ésimo Municipio;
-
-POi50SM = Población ocupada que recibe hasta el 50% de un salario mínimo del i-ésimo Municipio;
-
-POiM1SM = Población ocupada que recibe más del 50% y menos de un salario mínimo del i-ésimo Municipio;
-
-POi1SM = Población ocupada que recibe un salario mínimo del i-ésimo Municipio;
-
-Poi = Población ocupada del i-ésimo Municipio.
-
-b) Educación.
-
-Este indicador representa la proporción de la población mayor de 15 años sin primaria completa, respecto al total de la población mayor de 15 años del Municipio en cuestión:
-
-N2i= PSIi+PPIi
-
-PSIi+PPIi+PPCi
-
-Donde:
-
-N2 = Indicador de pobreza para educación en el i-ésimo Municipio;
-
-PSIi = Población de 15 años y más sin instrucción, del i-ésimo Municipio;
-
-PPIi = Población de 15 años y más con primaria incompleta, del i-ésimo Municipio;
-
-PPCi = Población de 15 años y más con primaria completa, del i-ésimo Municipio.
-
-c)Vivienda.
-
-Para la conformación de este indicador, se tomará en cuenta el promedio de ocupantes por cuarto en viviendas particulares de cada uno de los Municipios de la entidad. Para este fin, el procedimiento empleado es una interpolación lineal, resultando la siguiente expresión:
-
-N3i= POCVi-POCVm
-
-POCVM-POCVm
-
-Donde:
-
-N3i= Indicador de pobreza para vivienda en el i-ésimo Municipio;
-
-POCVi = Promedio de ocupantes por cuarto en viviendas particulares, del i-ésimo Municipio;
-
-POCVm = Mínimo de los promedios municipales de ocupantes por cuarto en viviendas particulares, de los Municipios de la entidad. Asume un valor constante igual a 1.15, en el Municipio de Sta. Catarina Tlaltempan;
-
-POCVM = Máximo de los promedios municipales de ocupantes por cuarto en viviendas particulares, de los Municipios de la entidad. Asume un valor constante igual a 3.16, en el Municipio de Tepetzintla.
-
-d) Electrificación.
-
-Este indicador se traduce en la relación entre las viviendas particulares sin energía eléctrica y las viviendas particulares habitadas en el Municipio en estudio:
-
-N4i= VPHi-VEEi
-
-VPHI
-
-Donde:
-
-N4i = Indicador de pobreza para electrificación en el i-ésimo Municipio;
-
-VPHi = Viviendas particulares habitadas del i-ésimo Municipio;
-
-VEEi= Viviendas particulares con energía eléctrica, del i-ésimo Municipio.
-
-d) Drenaje.
-
-El indicador de carencia en materia de drenaje se constituye estableciendo la relación entre las viviendas particulares sin drenaje y las viviendas particulares habitadas del Municipio en estudio:
-
-N5i= VPHi-VDi
-
-VPHi
-
-Donde:
-
-N5i= Indicador de pobreza para drenaje en el i-ésimo Municipio;
-
-VPHi= Viviendas particulares habitadas del i-ésimo Municipio;
-
-VDi= Viviendas particulares con drenaje, del i-ésimo Municipio.
-
-Una vez determinados los cinco indicadores, éstos deben ponderarse, combinarse entre sí y producir un valor índice antes de elevarse a la a, lo que servirá para acentuar las carencias significativas entre los Municipios. El resultado de esta expresión, se denomina Indice Integrador de Déficit Social para el i-ésimo Municipio:
-
-IIDi = (0.55N1i + 0.15N2i + 0.075N3i + 0.15N4i + 0.075N5i)a
-
-Donde:
-
-IIDi= Índice Integrador de Déficit Social para el i-ésimo Municipio;
-
-Nji= Indicadores definidos para cada una de las cinco necesidades consideradas en el i-ésimo Municipio (j = 1..5).
-
-a= Parámetro que expresa la preocupación social hacia la pobreza. Asume el valor de 2, para atribuir mayor peso al índice definido.
-
-Después de calcular el IID del Municipio observado, se incorpora la variable poblacional multiplicando dicho índice por la población total municipal. Este paso se realiza para obtener elementos comunes en un parámetro con valor relativo, que permitan llevar a cabo la etapa de agregación como se muestra a continuación:
-
-DSRi = IIDi * Ti
-
-Donde:
-
-DSRi= Déficit Social Relativo del i-ésimo Municipio;
-
-IIDi= Indice Intregador de Déficit Social del i-ésimo Municipio;
-
-Ti= Total de la población del i-ésimo Municipio.
-
-Una vez determinada la situación de pobreza en el Municipio, se define la del Estado mediante la suma de los Déficits Sociales Relativos de los Municipios que lo integran, como se expresa a continuación:
-
-217
-
-DSE = E DSRi
-
-I1
-
-Donde:
-
-DSE= Déficit Social Estatal;
-
-DSRi= Déficit Social Relativo del i-ésimo Municipio.
-
-Cada uno de los Déficits Sociales Relativos municipales se divide entre el Déficit Social Estatal para determinar la aportación porcentual que le corresponde a cada Municipio, como lo indica la siguiente fórmula:
-
-Ami=DSRi*100
-
-DSE
-
-Donde:
-
-AMi= Aportación porcentual del i-ésimo Municipio;
-
-DSRi= Déficit Social Relativo del i-ésimo Municipio;
-
-DSE= Déficit Social Estatal.
-
-Con esta transformación a déficits relativos se traduce el fenómeno a una misma expresión estatal y así la asignación se sujeta a los mismos criterios, es decir, en función de la magnitud de la pobreza de cada Municipio.
-
-Para fines de aplicación de esta fórmula, los datos estadísticos se tomarán de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática al iniciarse cada ejercicio. En tanto que los estratos de marginalidad municipal se obtendrán a partir de los últimos índices de marginalidad que al inició de cada ejercicio fiscal dé a conocer oficialmente la Secretaría de Desarrollo Social con base en la información del Instituto Nacional de Estadística, Geografía e Informática.
-
-La distribución de los recursos de este fondo entre los municipios deberá publicarse en el Periódico Oficial del Estado a más tardar el 31 de enero de cada ejercicio fiscal.
+El monto de los recursos del Fondo de Infraestructura Social Estatal, a que se refiere este artículo, se publicará anualmente en el Periódico Oficial del Estado.
 
 ###### ARTICULO 72.
 
 La distribución de los recursos del Fondo para la Infraestructura Social Municipal, se hará de conformidad con lo establecido en los artículos 34 y 35 de la Ley de Coordinación Fiscal.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2000)</small>
+
 ###### ARTICULO 73.
 
-El Gobierno del Estado ministrará en forma mensual a los municipios una cantidad igual para ser administrada por los Ayuntamientos; dichos recursos serán destinados exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones, que beneficien directamente a sectores de su población que se encuentren en condiciones de rezago social y de pobreza extrema.
-
-Para tales efectos, previamente los municipios presentarán al Gobierno del Estado, sus programas de obras y acciones aprobadas en el seno de los comités de planeación para el desarrollo municipal.
+El Gobierno del Estado ministrará a los Municipios mensualmente en los primeros diez meses por partes iguales una cantidad igual para ser administrada por los Ayuntamientos; dichos recursos serán destinados exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones, que beneficien directamente a sectores de su población que se encuentren en condiciones de rezago social y de pobreza extrema.
 
 ###### ARTICULO 74.
 
@@ -1177,25 +1193,83 @@ El Gobierno del Estado programará y presupuestará los recursos a que se refier
 
 El Gobierno del Estado, de manera coordinada con los municipios, ejercerá las acciones relativas a la edificación, mantenimiento y equipamiento de la totalidad de los espacios educativos, para atender los rezagos existentes y adecuarse a las necesidades locales.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2000)</small>
+
+### CAPITULO VII. DEL FONDO DE APORTACIONES PARA LA EDUCACION TECNOLOGICA Y DE ADULTOS
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 95.
 
-Las infracciones en que incurran los servidores públicos estatales o municipales a las disposiciones de esta Ley y su reglamentación, se sancionarán por los órganos de control y supervisión del Estado de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, Ley Orgánica y Reglamentaria de la Contaduría Mayor de Hacienda del Congreso del Estado de Puebla y demás ordenamientos estatales aplicables.
+Los recursos que integran este fondo se considerarán como complementarios para la prestación de servicios de educación tecnológica y de educación para adultos, cuya operación asuma el Gobierno del Estado, de conformidad con los convenios de coordinación suscritos con el Ejecutivo Federal para la transferencia de recursos humanos, materiales y financieros necesarios para la prestación de dichos servicios.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 96.
 
-El Gobierno del Estado podrá suspender a los Ayuntamientos las ministraciones de los recursos a que se refieren las fracciones III y IV del artículo 53 de esta Ley, si éstos no justifican en forma y tiempos establecidos el avance y aplicación de los mismos, o si se canalizan a fines distintos a los aprobados en los órganos de planeación.
+Una vez que la Federación determine y distribuya los recursos de este fondo conforme lo señalan los artículos 42 y 43 de la Ley de Coordinación Fiscal, el Gobierno del Estado los recibirá y ejercerá de acuerdo con lo dispuesto en esta Ley y en los convenios que para estos efectos suscriba con la Federación.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2000)</small>
+
+### CAPITULO VIII. DEL FONDO DE APORTACIONES PARA LA SEGURIDAD PUBLICA DEL ESTADO
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 97.
 
-En caso de que los Ayuntamientos no ministren los recursos que conforme a esta Ley les corresponden a sus Juntas Auxiliares, el Gobierno del Estado los liquidará directamente.
+Los recursos del Fondo de Aportaciones para la Seguridad Pública del Estado que sean determinados y distribuidos por la Federación conforme lo señala el artículo 44 de la Ley de Coordinación Fiscal, serán recibidos y ejercidos por el Estado, y deberán destinarse exclusivamente para:
+
+a) Reclutar, seleccionar, depurar, evaluar y formar los recursos humanos vinculados con tareas de seguridad pública;
+
+b) Complementar las dotaciones de los Agentes del Ministerio Público, los policías judiciales o sus equivalentes y los peritos de la Procuraduría de Justicia del Estado, de los policías preventivos o de custodia de los centros penitenciarios y de menores infractores;
+
+c) Equipar las policías preventivas y judiciales o sus equivalentes, los peritos, los ministerios públicos y custodios de centros penitenciarios y de menores infractores;
+
+d) Establecer y operar la red nacional de telecomunicaciones e informática para la seguridad pública y el servicio telefónico nacional de emergencia, y
+
+e) Construir, mejorar o ampliar las instalaciones para la procuración e impartición de justicia, de los centros de readaptación social y de menores infractores, así como las instalaciones de los cuerpos de seguridad pública y sus centros de capacitación, y al seguimiento y evaluación de los programas señalados.
+
+Lo anterior sin perjuicio de lo que en su momento pudieran convenir el Estado con la Federación.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 98.
 
-Las autoridades estatales y municipales que incurran en responsabilidades civiles y penales con motivo de la desviación de los recursos a que se refiere esta Ley, serán sancionados en términos de la legislación aplicable.
+La aplicación de los recursos que integran el Fondo de Aportaciones para la Seguridad Pública del Estado, se realizará por las dependencias de la Administración Pública del Estado, de conformidad con los programas estatales de seguridad pública derivados del programa Nacional de Seguridad Pública, acordados por el Consejo Nacional de Seguridad Pública de acuerdo a la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública así como en los acuerdos, resoluciones, convenios y anexos específicos que al respecto emita o suscriba la Federación con el Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2000)</small>
+
+###### ARTICULO 99.
+
+El Gobierno del Estado proporcionará a la Federación, por conducto de la Secretaría de Gobernación, la información financiera, operativa y estadística que le sea requerida.
 
 ## TITULO SEXTO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2000)</small>
+
+###### ARTICULO 100.
+
+Las infracciones en que incurran los servidores públicos estatales o municipales a las disposiciones de esta Ley y su reglamentación, se sancionarán por los órganos de control y supervisión del Estado de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, Ley Orgánica y Reglamentaria de la Contaduría Mayor de Hacienda del Congreso del Estado de Puebla y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2000)</small>
+
+###### ARTICULO 101.
+
+El Gobierno del Estado podrá suspender a los Ayuntamientos las ministraciones de los recursos a que se refieren las fracciones III y IV del artículo 53 de esta Ley, si éstos no justifican en forma y tiempos establecidos el avance y aplicación de los mismos, o si se canalizan a fines distintos a los aprobados en los órganos de planeación.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2000)</small>
+
+###### ARTICULO 102.
+
+En caso de que los Ayuntamientos no ministren los recursos que conforme a esta Ley les corresponden a sus Juntas Auxiliares, el Gobierno del Estado los liquidará directamente.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2000)</small>
+
+###### ARTICULO 103.
+
+Las autoridades estatales y municipales que incurran en responsabilidades civiles y penales con motivo de la desviación de los recursos a que se refiere esta Ley, serán sancionados (sic) en términos de la legislación aplicable.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -1214,3 +1288,15 @@ SEXTO.- Se derogan las disposiciones que se opongan a lo dispuesto por la presen
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veintisiete días del mes de enero del mil novecientos noventa y ocho. Diputada Presidenta.- BLANCA ALCALA RUIZ.- Rúbrica.- Diputado Secretario.- JOSE LUIS MARQUEZ MARTINEZ.- Rúbrica.- Diputado Secretario.- BERNABE FELIX FORTUNATO MARMOLEJO OREA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Ciudad de Puebla de Zaragoza, a los veintisiete días del mes de enero de mil novecientos noventa y ocho.- El Gobernador Constitucional del Estado.- LICENCIADO MANUEL BARTLETT DIAZ.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS MANUEL MEZA VIVEROS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE FEBRERO DE 2000.
+
+PRIMERO.- Para efectos de lo previsto en el artículo 97 de la presente Ley, las dependencias estatales encargadas de la programación y ejecución de los recursos, deberán considerar que los recursos para complementar las dotaciones de los Agentes del Ministerio Público, los policías judiciales o sus equivalentes, los policías preventivos y de custodia y los peritos de la Procuraduría General de Justicia del Estado, tendrán el carácter de no regularizables para los Presupuestos de Egresos de la Federación de ejercicios subsecuentes, considerando que las responsabilidades laborales que deriven de tales recursos estarán a cargo del Gobierno del Estado.
+
+SEGUNDO.- Para efectos del artículo 71 de esta Ley, el Gobierno del Estado y los Municipios publicarán en el Periódico Oficial del Estado, el monto de los recursos invertidos en las obras y acciones realizadas, así como su ubicación y beneficiarios.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
