@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1980-04-10"
+last_updated: "1981-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE ABRIL DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE MARZO DE 1981.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -653,15 +653,23 @@ XLIII.- Las demás que señalen esta Constitución y sus leyes.
 
 81.- Toda ley o decreto será refrendada por el Secretario General de Gobierno y por el funcionario del ramo relativo.
 
-> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 1976)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE MARZO DE 1981)</small>
 
-82.- Para ser Secretario General de Gobierno, Secretario de Desarrollo y Oficial Mayor se requiere:
+82.- Para ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo y Oficial Mayor se requiere:
+
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
 
 I.- Ser ciudadano sudcaliforniano;
 
-II.- Tener 30 años de edad como mínimo;
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 1981)</small>
+
+II.- Tener 25 años de edad como mínimo.
+
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
 
 III.- Tener modo honesto de vivir y
+
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
 
 IV.- No haber sido condenado por delito del fuero común, intencionales u oficiales.
 
@@ -717,13 +725,9 @@ II.- Intervenir en la forma y términos que la ley disponga, en los juicios que 
 
 III.- Defender los intereses del Estado ante los Tribunales.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 21 DE DICIEMBRE DE 1976)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE MARZO DE 1981)</small>
 
-86.- Para ser Secretario de Finanzas se requiere: ser ciudadano sudcaliforniano, tener 30 años de edad como mínimo y un modo honesto de vivir.
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 21 DE DICIEMBRE DE 1976)</small>
-
-Son facultades y obligaciones del Secretario de Finanzas:
+86.- Son facultades y obligaciones del Secretario de Finanzas:
 
 I.- Recaudar los ingresos del erario conforme a las leyes en vigor, ordenando las medidas necesarias para hacerlos efectivos, así como revisar todas las resoluciones que dicten las oficinas fiscales del Estado, en el procedimiento administrativo de ejecución;
 
@@ -1442,3 +1446,9 @@ El Ayuntamiento de La Paz, ejercerá sus atribuciones en el Municipio que se cre
 ###### ARTICULO 6o.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 25 DE MARZO DE 1981.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado.
