@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1937-12-30"
+last_updated: "1940-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 1937.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 1940.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -115,11 +115,11 @@ De su elección e instalación.
 
 El Congreso del Estado se compondrá de representantes electos directamente en su totalidad cada tres años por ciudadanos campechanos y en los términos que disponga la Ley Electoral del Estado.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1931)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1940)</small>
 
 ###### Art. 19.
 
-Se elegirá un Diputado Propietario y un Suplente por cada 12,000 habitantes o por cada fracción que pase de 6,000. Los Municipios Libres que en toda su circunscripción no alcancen esta última cifra elegirán sin embargo un Diputado Propietario y un Suplente.
+Se eligirá (sic) un Diputado Propietario y un Suplente por cada 17,000 habitantes o por cada fracción que pase de ocho mil. Los Municipios Libres que en toda su circunscripción no alcancen esta última cifra, elegirán sin embargo un Diputado Propietario y un Suplente, pero siempre que cuenten cuando menos con cuatro mil habitantes, pues, en caso contrario, quedarán unidos para los efectos de la elección, al Municipio inmediatamente colindante que tenga menos número de habitantes.
 
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1933)</small>
 
@@ -1016,3 +1016,7 @@ Unico.- El presente decreto entrará en vigor el mismo día de su publicación e
 P.O. 30 DE DICIEMBRE DE 1937.
 
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+
+P.O. 27 DE ENERO DE 1940.
+
+UNICO. La presente reforma entrará en vigor tres días después de publicada en el Periódico Oficial del Gobierno del Estado, a efecto de que las elecciones de Diputados al H. Congreso del mismo, que deberán efectuarse el domingo 2 de junio del año en curso, se lleven a cabo con sujeción a la misma reforma.
