@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-agrupaciones-de-productores-de-papa-en-el-estado-de-1054
 country: "mx"
 rank: "ley"
 publication_date: "1939-08-31"
-last_updated: "1949-09-01"
+last_updated: "2004-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE AGRUPACIONES DE PRODUCTORES DE PAPA EN EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 1949.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO TERCERO DEL DECRETO NUMERO 112, PUBLICADO EN EL PERIODICO OFICIAL EL 27 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 31 de agosto de 1939.
 
@@ -320,3 +322,7 @@ Consecuentemente de lo anterior, es de observancia el artículo 37 de la Ley de 
 ###### ARTICULO TERCERO.
 
 Se condona a las Asociaciones de Productores de Papa los impuestos originados por el Decreto que se deroga, solo por cuanto hace al Ciclo Agrícola del presente año, a condición de que paguen su adeudo anterior en un plazo de quince días, contado a partir de la publicación de este Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2004.
+
+Artículo Único.- El presente Decreto entrará en vigor a los 90 noventa días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
