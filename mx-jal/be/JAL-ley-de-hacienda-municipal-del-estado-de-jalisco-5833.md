@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1999-02-25"
+last_updated: "1999-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 1999.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1087,13 +1087,15 @@ Si del informe apareciese algún crédito fiscal insoluto, la autoridad retendr�
 
 ### CAPITULO VII. Impuesto sobre Transmisiones Patrimoniales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1999)</small>
 
 ###### Art. 112.
 
-Es objeto de este impuesto, las transmisión o adquisición de la propiedad o de derechos de copropiedad de bienes inmuebles, por cualquier acto o contrato, ya sea que comprendan el suelo, las construcciones o el suelo y las construcciones adheridas a él, incluyendo los accesorios y las instalaciones especiales que pertenezcan al inmueble, siempre que se ubique en el territorio de los municipios que comprende el Estado, y que una misma operación no se grave dos veces.
+Es Objeto de este impuesto, el traslado del dominio, de la propiedad o de los derechos de copropiedad sobre bienes inmuebles, por cualquier hecho, acto o contrato, ya sea que comprendan el suelo, o el suelo y las construcciones adheridas a él, incluyendo los accesorios y las instalaciones especiales que pertenezcan al inmueble, siempre que se ubique en el territorio de los municipios que comprende el Estado, y que una misma operación no se grave dos veces.
 
-Para los efectos de este artículo, se entiende por transmisión o adquisición de la propiedad o Derechos de copropiedad de bienes inmuebles:
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1999)</small>
+
+Para efectos de este artículo se entiende que existe traslado de dominio o de derechos de propiedad o copropiedad de bienes inmuebles siempre que se realice:
 
 I. Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituirse la copropiedad o la sociedad conyugal;
 
@@ -1153,9 +1155,11 @@ XV. Cualquier otro acto o contrato por el que se transmitan bienes inmuebles o d
 
 Tratándose de permutas, se considerará que se efectúan dos adquisiciones.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1999)</small>
+
 ###### Art. 113.
 
-Son sujetos de este impuesto las personas físicas o morales que realicen cualquiera de los supuestos señalados en el artículo anterior.
+Es sujeto de este impuesto la persona física o jurídica que, como resultado de cualquiera de los actos jurídicos o contratos a que se refiere el artículo inmediato anterior, adquiera el dominio, derechos de propiedad, copropiedad o cualquier derecho real sobre uno o más bienes inmuebles.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
@@ -1211,13 +1215,17 @@ El pago de este impuesto deberá efectuarse ante la tesorería municipal respect
 
 Para los efectos del pago del impuesto en caso de escrituras, adjudicaciones o contratos que se celebren fuera del Estado, de bienes ubicados en el municipio, el adquirente, dentro del término establecido en el párrafo anterior, dará aviso por escrito, acompañando copia de la adquisición o contrato, a las autoridades fiscales competentes, en cuya jurisdicción se encuentren ubicados los inmuebles.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1999)</small>
 
 ###### Art. 117.
 
-Quedan exentos del pago de este impuesto:
+Quedan exentos del pago de este impuesto y en su caso de la responsabilidad solidaria:
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 I. La Federación, el Estado y sus Municipios, respecto de la trasmisión o adquisición de bienes afectos al pago de este impuesto;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 II. Los Estados extranjeros por la adquisición de inmuebles, en caso de reciprocidad.
 
@@ -3000,5 +3008,9 @@ P.O. 31 DE DICIEMBRE DE 1998.
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 25 DE FEBRERO DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 1 DE ABRIL DE 1999.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
