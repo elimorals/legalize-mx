@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1932-08-27"
+last_updated: "1933-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE AGOSTO DE 1932.
-
-> <small>N. DE E. COMO CONSECUENCIA DEL ESTUDIO DEL PROCESO LEGISLATIVO DEL DECRETO QUE MODIFICA EL PRESENTE CODIGO, SE DESPRENDE LA DEROGACION DE LOS TITULOS Y CAPITULOS COMPRENDIDOS DENTRO DEL ARTICULADO DEROGADO POR EL LEGISLADOR, YA QUE EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO FUE OMISO AL NO INDICAR ESTOS.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MAYO DE 1933.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -264,7 +262,7 @@ Los comerciantes podrán llevar los libros por sí mismos ó por personas á qui
 
 Si el comerciante no llevaré los libros por sí mismo, se presumirá concedida la autorización al que los lleve, salvo prueba en contrario.
 
-Art . 36. Los libros de los comerciantes se llevarán en idioma español, con claridad, por orden progresivo de fechas y operaciones, sin dejar huecos, y en manera alguna podrán ser alterados. Los errores que en ellos se cometan, se salvarán por nuevo asiento relacionado con la partida errada.
+Art .36. Los libros de los comerciantes se llevarán en idioma español, con claridad, por orden progresivo de fechas y operaciones, sin dejar huecos, y en manera alguna podrán ser alterados. Los errores que en ellos se cometan, se salvarán por nuevo asiento relacionado con la partida errada.
 
 ###### Art. 37.
 
@@ -290,7 +288,7 @@ Seguirán después día por día, y según el orden en que se vayan haciendo, to
 
 Cuando las operaciones sean numerosas, cualquiera que sea su importancia, ó cuando hayan tenido lugar fuera del domicilio, podrán anotarse un solo asiento las que se refieran á cada cuenta y se hayan verificado en cada día; pero guardando en la expresión de ellas cuando se detallen, el orden mismo en que se hayan verificado.
 
-Se anotarán, asimismo, en la fecha en que las retire de caja, las cantidades que el comerciante tome á su cargo, y se llevarán á una cuenta especial que al intento se abrirá en el libro mayor.
+Se anotarán, asimismo, en la fecha en que las retire de caja, las cantidades que el comerciante tome á su cargo, y se llevarán á una cuenta especial que al intento se abrirá en el libro mayor .
 
 ###### Art. 40.
 
@@ -814,7 +812,7 @@ El socio industrial, ni por cuenta propia ni por ajena, podrá ocuparse en negoc
 
 ###### Art. 113.
 
-La administración de la sociedad puede confiarse en la escritura pública á uno ó más socios. Habiendo socio ó socios especialmente encargados de la administración, los demás no podrán contrariar ni entorpecer las gestiones de aquéllos, ni impedir sus efectos. Si la administración no se hubiere limitado por un acto especial á alguno de los socios, todos tendrán la facultad de concurrir á la dirección y manejo de los negocios comunes, y los socios presentes se pondrán de acuerdo para todo contrato ú obligación que interese á la sociedad.
+La administración de la sociedad puede confiarse en la escritura pública á uno ó más socios. Habiendo socio ó socios especialmente encargados de la administración, los demás no podrán contraria ni entorpecer las gestiones de aquéllos, ni impedir sus efectos. Si la administración no se hubiere limitado por un acto especial á alguno de los socios, todos tendrán la facultad de concurrir á la dirección y manejo de los negocios comunes, y los socios presentes se pondrán de acuerdo para todo contrato ú obligación que interese á la sociedad.
 
 ### CAPÍTULO V.
 
@@ -874,7 +872,7 @@ En el reparto de las ganancias ó pérdidas se observarán las reglas siguientes
 
 I. Si se ha hecho pacto expreso sobre el modo de repartir las ganancias y las pérdidas, se observará estrictamente;
 
-II. Cuando solo se haya fijado la parte que cada socio debe tener en las ganancias, se entenderá que la misma, debe reportar en las pérdidas, y viceversa;
+II. Cuando solo se haya fijado la parte que cada socio debe tener en las ganancias, se entenderá que la misma, debe reportar en las pérdidas, y vice versa;
 
 III. Si no se hubiere pactado el modo de repartir las ganancias y pérdidas, la distribución se hará entre los socios capitalistas, proporcionalmente á sus capitales;
 
@@ -886,7 +884,7 @@ El socio que no reclame la división social en el término de sesenta días cont
 
 ###### Art. 128.
 
-Se tendrán por nulas en los contratos de sociedad todas las condiciones á cuya virtud uno ó más socios queden excluidos de la participación de las ganancias.
+Se tendrán por nulas en los contratos de sociedad todas las condiciones á cuya virtud uno ó más socios queden excluídos de la participación de las ganancias.
 
 ###### Art. 129.
 
@@ -914,7 +912,7 @@ VI. Por no prestar los servicios personales que deba á la sociedad, sin comprob
 
 ###### Art. 132.
 
-El socio excluido de la compañía, en cualquiera de los casos del artículo anterior, es responsable de la parte de pérdidas que le corresponda, y los otros socios pueden retener la parte de capital y utilidades de aquél hasta concluir las operaciones pendientes al tiempo de la rescisión, debiéndose hacer hasta entonces la liquidación de la sociedad.
+El socio excluído de la compañía, en cualquiera de los casos del artículo anterior, es responsable de la parte de pérdidas que le corresponda, y los otros socios pueden retener la parte de capital y utilidades de aquél hasta concluir las operaciones pendientes al tiempo de la rescisión, debiéndose hacer hasta entonces la liquidación de la sociedad.
 
 ###### Art. 133.
 
@@ -1110,15 +1108,15 @@ Después de la denominación de la sociedad se agregarán las palabras "Sociedad
 
 ###### Art. 166.
 
-La sociedad anónima puede constituirse de dos maneras: por suscrición pública ó por medio de la comparecencia de dos ó más personas que suscriban la escritura social, que contenga todos los requisitos necesarios para su validez.
+La sociedad anónima puede constituirse de dos maneras: por suscripción pública ó por medio de la comparecencia de dos ó más personas que suscriban la escritura social, que contenga todos los requisitos necesarios para su validez.
 
 ###### Art. 167.
 
-Cuando la sociedad haya de constituirse por suscrición pública, será necesario:
+Cuando la sociedad haya de constituirse por suscrición (sic) pública, será necesario:
 
 I. La publicación del programa;
 
-II. La suscrición del capital;
+II. La suscrición (sic) del capital;
 
 III. La celebración de la Asamblea general que apruebe y ratifique la constitución de la sociedad;
 
@@ -1130,7 +1128,7 @@ El programa, redactado y suscrito por los fundadores, debe contener íntegros el
 
 ###### Art. 169.
 
-La suscrición de las acciones debe recogerse en uno ó varios ejemplares del programa de los fundadores, y debe indicar el nombre y apellido, ó la razón social y el domicilio de quien suscribe las acciones, el número con todas sus letras de las acciones suscritas, la fecha de la suscrición, y expresar claramente la declaración de que el suscritor conoce y acepta el proyecto de Estatutos, todo certificado por dos testigos.
+La suscrición (sic)de las acciones debe recogerse en uno ó varios ejemplares del programa de los fundadores, y debe indicar el nombre y apellido, ó la razón social y el domicilio de quien suscribe las acciones, el número con todas sus letras de las acciones suscritas, la fecha de la suscrición(sic), y expresar claramente la declaración de que el suscritor (sic) conoce y acepta el proyecto de Estatutos, todo certificado por dos testigos.
 
 ###### Art. 170.
 
@@ -1220,7 +1218,9 @@ IV. La mención de las acciones depositadas como garantía de la gestión de los
 
 La propiedad de las acciones nominativas se prueba por la inscripción en el registro de que habla el artículo anterior.
 
-La cesión tiene lugar por medio de la declaración hecha en el registro, fechada y firmada por el cedente y el cesionario ó sus respectivos apoderados. La sociedad podrá dar certificados de estas inscripciones á quienes lo soliciten.
+La cesión tiene lugar por medio de la declaración hecha en el registro, fechada y firmada por el cedente y el cesionario ó sus respectivos apoderados.
+
+La sociedad podrá dar certificados de esta inscripciones á quienes lo soliciten.
 
 La cesión de las acciones al portador se verifica por la sola tradición del título.
 
@@ -1454,11 +1454,11 @@ Cuando uno ó varios administradores sean nombrados liquidadores, la cuenta de q
 
 ###### Art. 221.
 
-Si la liquidación dura más de un año, los liquidadores formarán el balance anual conforme á las disposiciones de la ley y de los Estatutos.
+Si la liquidación durá más de un año, los liquidadores formarán el balance anual conforme á las disposiciones de la ley y de los Estatutos.
 
 ###### Art. 222.
 
-Terminada la liquidación, los liquidadores formarán el balance final indicando la parte que á cada acción corresponda en la repartición del activo social, y aquél se publicará treinta días seguidos en uno ó más periódicos del domicilio de la sociedad. Los accionistas, en los quince días siguientes al último de la publicación, podrán presentar sus reclamaciones á los liquidadores, las cuales se resolverán en una Asamblea que se convocará al efecto, por mayoría de votos, gozando de un voto cada acción.
+Terminada la liquidación, los liquidadores formarán el final indicando la parte que á cada acción corresponda en la repartición del activo social, y aquél se publicará treinta días seguidos en uno ó más periódicos del domicilio de la sociedad. Los accionistas, en los quince días siguientes al último de la publicación, podrán presentar sus reclamaciones á los liquidadores, las cuales se resolverán en una Asamblea que se convocará al efecto, por mayoría de votos, gozando de un voto cada acción.
 
 ###### Art. 223.
 
@@ -1514,7 +1514,7 @@ Por lo menos un mes antes de la celebración de las asambleas, estarán á dispo
 
 ###### Art. 235.
 
-Las acciones de los socios comanditados jamás podrán ser al portador.
+Las acciones de los socios comanditados jamás podrán ser al portador .
 
 ###### Art. 236.
 
@@ -1524,121 +1524,99 @@ Salva disposición contraria de los Estatutos, la sociedad se disuelve por la mu
 
 Las disposiciones de los artículos del 187 al 200 y fracción III del artículo 216, no son aplicables á las sociedades en comandita por acciones.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR LA LEY DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)</small>
+
 ### CAPÍTULO VIII.
 
 De la fusión de las sociedades.
 
 ###### Art. 238.
 
-La sociedad cooperativa es aquella que por su propia naturaleza se compone de socios cuyo número y capital social son variables.
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
 ###### Art. 239.
 
-Las acciones de las sociedades cooperativas serán siempre nominativas, y jamás podrán ser cedidas á un tercero, á no ser con expreso consentimiento de la Asamblea general, dado en los mismos términos prescritos respectivamente para la separación y admisión de un nuevo socio.
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
 ###### Art. 240.
 
-Los socios de las sociedades cooperativas pueden pactar en sus Estatutos que su responsabilidad es solidaria é ilimitada, ó que ella está limitada á una suma determinada, menor, igual ó mayor que el capital social.
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
 ###### Art. 241.
 
-La sociedad cooperativa carece de razón social, y se la designa por una denominación particular que debe ser distinta de la de cualquiera otra sociedad.
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
 ###### Art. 242.
 
-Después de la denominación de la sociedad se agregarán siempre las palabras "Sociedad cooperativa," cada vez que sea necesario hacer uso de aquella denominación, expresando además el grado de responsabilidad de los accionistas.
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
 ###### Art. 243.
 
-Además de los requisitos de que habla el art. 95, la escritura pública en que se haga constar la constitución de una sociedad cooperativa, expresará:
-
-I. Las condiciones de admisión, separación y exclusión de los socios;
-
-II. Las condiciones bajo las cuales pueden entregar ó retirar de la sociedad el capital con que hubieren contribuído;
-
-III. Los derechos atribuídos á los socios, la manera de convocar las asambleas, la mayoría requerida para la validez de las deliberaciones y el modo de votación.
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
 ###### Art. 244.
 
-A falta de disposición sobre los puntos que indica el artículo anterior, se observarán las reglas siguientes:
-
-I. Los socios pueden retirarse de la sociedad, pueden ser excluídos de ella por falta de cumplimiento del contrato, pero la Asamblea será quien decrete la admisión ó exclusión y quien autorice la separación;
-
-II. El importe de la acción ó acciones de los socios podrá ser entregado por abonos semanarios, y el socio que se separe ó fuere excluido, recibirá su parte tal como resulte del balance anterior á su separación o exclusión y en la misma forma en que fue entregada;
-
-III. Todos los socios pueden votar en las Asambleas generales; las convocatorias se publicarán en uno ó más periódicos de los de más circulación; las resoluciones se tomarán á mayoría absoluta de votos, siempre que esté representada más de la mitad del capital social, y las votaciones serán económicas, á menos que tres socios pidan que sean nominales.
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
 ###### Art. 245.
 
-Toda sociedad cooperativa debe tener un registro autorizado por su director, que contendrá:
-
-I. Los Estatutos de la sociedad;
-
-II. Los nombres, ocupación y domicilios de los socios;
-
-III. La fecha de su admisión y la de su separación ó exclusión;
-
-IV. La cuenta de las cantidades que hubiere entregado ó retirado de la sociedad.
-
-La cuenta de las cantidades que un socio hubiese retirado debe estar firmada por él.
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
 ###### Art. 246.
 
-La admisión de un socio, después de la aprobación de la Asamblea, se hará constar por medio de su firma, precedida de la fecha, enfrente de su nombre, en el registro de que habla el artículo anterior.
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
-Art. 247 Cuando los socios tengan derecho de retirarse, no podrán hacerlo sino en los primeros seis meses del año social.
+###### Art. 247.
+
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
 ###### Art. 248.
 
-La separación de los socios se hará constar en la misma forma y de la misma manera que la admisión.
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
 ###### Art. 249.
 
-La exclusión de un socio se hará constar por medio de una acta suscrita por el presidente de la Asamblea y el gerente de la sociedad: El acta debe referir los hechos que demuestren que la exclusión ha tenido un lugar con arreglo á los Estatutos, y una copia autorizada de ella deberá enviarse en pliego certificado al socio exluído.
-
-La exclusión deberá anotarse en el registro de la sociedad.
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
 ###### Art. 250.
 
-El socio que se separa ó que es excluido de la sociedad, no puede provocar la liquidación de ella; no obstante, tiene el derecho de recibir el capital con que hubiere contribuido á la sociedad en los términos de la fracción II del art. 244, ó según lo determinado por los Estatutos.
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
 ###### Art. 251.
 
-En caso de muerte, quiebra ó interdicción de un socio, sus herederos, acreedores o representantes tienen el derecho de recobrar la parte del capital que les corresponda en la forma y manera de que habla el artículo anterior.
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
 ###### Art. 252.
 
-Todo socio que se separe ó fuere excluido de la sociedad, queda responsable, en la parte en que estaba obligado, de todas las operaciones pendientes en el momento de su separación ó exclusión. Dicha responsabilidad durará un año.
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
 ###### Art. 253.
 
-Las acciones á que se refiere el art. 239, serán tomadas de libros talonarios y llevarán la denominación de la sociedad, el nombre, apellido, ocupación y domicilio del socio, la fecha de su admisión, y serán firmadas por el gerente de la sociedad y por el socio á quien le pertenezcan.
-
-En el reverso de las acciones se harán constar, por orden de fechas, las exhibiciones que los socios hubieren hecho ó las sumas que hubieren retirado de la sociedad.
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
 ###### Art. 254.
 
-Los acreedores personales de los socios no pueden embargar más que los intereses ó dividendos que les correspondan, ó la parte del capital á que tengan derecho cuando haya sido decretada la disolución de la sociedad, salvo lo que disponga el derecho común tratándose de alimentos.
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
 ###### Art. 255.
 
-La sociedad cooperativa debe ser administrada por uno ó varios socios gerentes directores, ya sea que pertenezcan ó no á la sociedad, pero siempre temporales y revocables.
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
 ###### Art. 256.
 
-Las facultades, obligaciones y responsabilidades del gerente son las mismas que á los consejos de administración de las sociedades anónimas imponen los artículos del 189 al 196.
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
 ###### Art. 257.
 
-Los gerentes de las sociedades cooperativas deberán dar una fianza cuyo importe será determinado por los Estatutos de la sociedad.
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
 ###### Art. 258.
 
-Son aplicables á la sociedad cooperativa las disposiciones de los artículos 231, 232, 233 y 234.
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
 ###### Art. 259.
 
-Las prescripciones que rigen la convocación, facultades y resoluciones de las asambleas generales, así como la disolución de las sociedades anónimas, son aplicables á las sociedades cooperativas; pero las facultades que en ellas se atribuyen al consejo de administración y á los comisarios, serán desempeñadas respectivamente por el gerente y por el consejo de vigilancia.
+(DEROGADO POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933)
 
 ### CAPÍTULO IX.
 
@@ -2030,7 +2008,7 @@ Cuando los depósitos de numerario se constituyan sin especificación de moneda,
 
 ###### Art. 337.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 338.
 
@@ -2038,7 +2016,7 @@ Siempre que con asentimiento del depositante dispusiese el depositario de las co
 
 ###### Art. 339.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
@@ -2052,11 +2030,11 @@ Del préstamo mercantil en general.
 
 ###### Art. 341.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 342.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 343.
 
@@ -2064,39 +2042,39 @@ Del préstamo mercantil en general.
 
 ###### Art. 344.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 345.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 346.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 347.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 348.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 349.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 350.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 351.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 352.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 353.
 
@@ -2112,7 +2090,7 @@ Del préstamo mercantil en general.
 
 ###### Art. 356.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 357.
 
@@ -2172,7 +2150,7 @@ De la compraventa.
 
 ###### Art. 365.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 366.
 
@@ -2470,7 +2448,7 @@ En cuanto á los inmuebles, se estará á lo que disponga el derecho común.
 
 ###### Art. 416.
 
-En caso de siniestro el asegurado deberá participarlo inmediatamente al asegurador, prestando asimismo ante el juez competente una declaración comprensiva de los objetos existentes al tiempo del siniestro, y de los efectos salvados, así como del importe de las pérdidas sufrida, según su estimación.
+En caso de siniestro el asegurado deberá participarlo inmediatameute (sic) al asegurador, prestando asimismo ante el juez competente una declaración comprensiva de los objetos existentes al tiempo del siniestro, y de los efectos salvados, así como del importe de las pérdidas sufrida, según su estimación.
 
 ###### Art. 417.
 
@@ -2498,7 +2476,7 @@ La decisión de los peritos será título ejecutivo contra el asegurador, si fue
 
 ###### Art. 421.
 
-Dentro de los diez días fijados en el art. 419, el asegurador pagará en numerario el daño sufrido: ó reparará, reedificará ó reemplazará según su género ó especie, en todo ó en parte los objetos asegurados y destruídos por el incendio si convinieron en ello.
+Dentro de los diez días fijados en el ar (sic) art. 419, el asegurador pagará en numerario el daño sufrido: ó reparará, reedificará ó reemplazará según su género ó especie, en todo (sic) en parte los objetos asegurados y destruídos por el incendio si convinieron en ello.
 
 ###### Art. 422.
 
@@ -2580,7 +2558,7 @@ El asegurado que demore la entrega del capital ó de la cuota convenida no tendr
 
 ###### Art. 436.
 
-Si el asegurado hubiere satisfecho varias cuotas parciales y no pudiere continuar el contrato, lo avisará al asegurador rebajándose el capital asegurado hasta la cantidad que esté en justa proporción con las cuotas pagadas, con arreglo á los cálculos que aperccieren (sic) en las tarifas de la Compañía aseguradora, y habida cuenta de los riesgos corridos por ésta, salvo pacto en contrario.
+Si el asegurado hubiere satisfecho varias cuotas parciales y no pudiere continuar el contrato, lo avisará al asegurador rebajándose el capital asegurado hasta la cantidad que esté en justa proporción con las cuotas pagadas, con arreglo á los cálculos que aperecieren en las tarifas de la Compañía aseguradora, y habida cuenta de los riesgos corridos por ésta, salvo pacto en contrario.
 
 ###### Art. 437.
 
@@ -2928,11 +2906,13 @@ De la intervención en la aceptación y pago.
 
 ###### Art. 508.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 509.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
 ### CAPÍTULO IX.
 
@@ -2940,43 +2920,45 @@ De las acciones que competen al portador de una letra de cambio.
 
 ###### Art. 510.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 511.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 512.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 513.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 514.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 515.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 516.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 517.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 518.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 519.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
 ### CAPÍTULO X.
 
@@ -2984,31 +2966,33 @@ Del recambio y resaca.
 
 ###### Art. 520.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 521.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 522.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 523.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 524.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 525.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 526.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
 ### CAPÍTULO I.
 
@@ -3016,43 +3000,45 @@ De las libranzas, vales y pagarés.
 
 ###### Art. 527.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 528.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 529.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 530.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 531.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 532.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 533.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 534.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 535.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 536.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
 ### CAPÍTULO II.
 
@@ -3060,39 +3046,43 @@ De los cheques.
 
 ###### Art. 537.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 538.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 539.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 540.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 541.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 542.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 543.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 544.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
 ## TITULO NOVENO.
 
 DE LAS LIBRANZAS, VALES, PAGARÉS, CHEQUES Y CARTAS DE CRÉDITO.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
 ### CAPÍTULO III.
 
@@ -3100,31 +3090,33 @@ De las cartas de crédito.
 
 ###### Art. 545.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 546.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 547.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 548.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 549.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 550.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 551.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
 ### CAPÍTULO I.
 
@@ -3132,51 +3124,53 @@ Del contrato mercantil de trasporte terrestre.
 
 ###### Art. 552.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 553.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 554.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 555.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 556.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 557.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 558.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 559.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 560.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 561.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 562.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 563.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
 ### CAPÍTULO I.
 
@@ -3184,51 +3178,51 @@ De los efectos al portador.
 
 ###### Art. 564.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 565.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 566.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 567.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 568.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 569.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 570.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 571.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 572.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 573.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 574.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 575.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ## TITULO DECIMO.
 
@@ -3308,7 +3302,7 @@ La omisión de alguna de las circunstancias requeridas en el artículo 581 no in
 
 ###### Art. 586.
 
-Las cartas de porte ó billetes en los casos de trasporte de viajeros por ferrocarriles u otras empresas sujetas á tarifas, podrán ser diferentes, unos para las personas y otros para los equipajes; pero todos contendrán la indicación del porteador, la fecha de la expedición, los puntos de salida y llegada, el precio, y en lo tocante á equipajes, el número y peso de los bultos, con las demás indicaciones que se crean necesarias para su fácil identificación.
+Las cartas de porte ó billetes en los casos de transporte de viajeros por ferrocarriles u otras empresas sujetas á tarifas, podrán ser diferentes, unos para las personas y otros para los equipajes; pero todos contendrán la indicación del porteador, la fecha de la expedición, los puntos de salida y llegada, el precio, y en lo tocante á equipajes, el número y peso de los bultos, con las demás indicaciones que se crean necesarias para su fácil identificación.
 
 ###### Art. 587.
 
@@ -3466,57 +3460,63 @@ Si los efectos depositados en los almacenes de la empresa durasen en ellos el t�
 
 Si después del plazo á que alude el artículo anterior, el cargador ó su representante se presentaren á exigir la devolución de las mercancías, quedará libre la empresa de toda responsabilidad y de toda ulterior contestación, poniendo de manifiesto el certificado mandado expedir por la autoridad judicial á cuya disposición se hayan puesto.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
+
 ## TITULO UNDECIMO.
 
 DE LA PRENDA MERCANTIL.
 
 ###### Art. 605.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 606.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 607.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 608.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 609.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 610.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 611.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 612.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 613.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 614.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 615.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
 ## TITULO DECIMO SEGUNDO.
 
 DE LOS EFECTOS AL PORTADOR Y DE LA FALSEDAD, ROBO, HURTO Ó EXTRAVÍO DE LOS MISMOS.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
 ### CAPÍTULO I.
 
@@ -3524,15 +3524,17 @@ De los navieros.
 
 ###### Art. 616.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 617.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 618.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
 ### CAPÍTULO II.
 
@@ -3540,67 +3542,67 @@ De los capitanes.
 
 ###### Art. 619.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 620.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 621.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 622.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 623.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 624.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 625.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 626.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 627.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 628.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 629.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 630.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 631.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 632.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 633.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 634.
 
-(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ## TITULO DECIMO TERCERO.
 
@@ -3644,7 +3646,7 @@ DE LAS EMBARCACIONES.
 
 ###### Art. 641.
 
-Los buques mercantes constituirán una propiedad que se podrá adquirir indistintamente por toda persona que no tenga incapacidad legal para ello. Las embarcaciones se adquirirán por los mismos modos prescritos en derecho para adquirir el dominio de las cosas comerciales.
+Los buques mercantes constituirán una propiedad que se podrá adquirir indistintamente por todo persona que no tenga incapacidad legal para ello. Las embarcaciones se adquirirán por los mismos modos prescritos en derecho para adquirir el dominio de las cosas comerciales.
 
 Cualquiera que sea el modo con que se haga la traslación de dominio de una nave, ha de constar por escritura pública ó por póliza ante corredor.
 
@@ -3684,13 +3686,13 @@ V. Los sueldos que se deban al capitán y salarios de la tripulación de la nave
 
 VI. Las deudas inexcusables que en su último viaje haya contraído el capitán en utilidad de la nave, en cuyo caso se comprende el reembolso de los efectos de su cargamento que hubiese vendido con el mismo objeto;
 
-VII. Lo que se deba por los materiales y mano de obra de la construcción de la nave, cuando no hubiere hecho viaje alguno; y si hubiere navegado, la parte del precio que aun no esté satisfecha á su último vendedor; y las deudas que se hubieren contraído para repararla, aparejarla y aprovisionarla par el último viaje;
+VII. Lo que se deba por los materiales y mano de obra de la construcción de la nave, cuando no hubiere hecho viaje alguno; y si hubiere navegado, la parte del precio que aun no esté satisfecha á su último vendedor; y las deudas que se hubieren contraído para repararla, aparejarla y aprovicionarla par el último viaje;
 
 VIII. Las hipotecas y cantidades tomadas á la gruesa sobre el casco, quilla, aparejos, pertrechos, armamento, apresto y máquina de vapor antes de la última salida de la nave;
 
 IX. El premio de los seguros hechos para el último viaje sobre el casco, quilla, aparejos, pertrechos, máquina de vapor, armamento y apresto de la nave;
 
-X. La indemnización que se deba á los cargadores, por valor de los géneros cargados en la nave que no se hubieren entregado á los consignatarios y la indemnización que les corresponda por las averías de que sea responsable la nave.
+X. La indemnización que se deba á los cargadores, por valor de los géneros cargados en la nave que no se hubieren entregado á los consignatorios y la indemnización que les corresponda por las averías de que sea responsable la nave.
 
 ###### Art. 647.
 
@@ -3756,11 +3758,11 @@ Siempre que se haga embargo de una nave se inventariarán detalladamente todos l
 
 ###### Art. 657.
 
-Ninguna nave puede rematarse en venta judicial sin que haya sido subastada públicamente por término de treinta días, renovándose cada diez días los carteles en que se anuncie la venta.
+Ninguna nave puede rematarse en venta judicial sin que haya sido subastada públicamente por término de treinta días , renovándose cada diez días los carteles en que se anuncie la venta.
 
 Los carteles se fijarán en los sitios acostumbrados para los demás anuncios en el puerto donde se haga la venta, y en su jurisdicción; y además se fijará un cartel en la entrada de la capitanía del puerto y otro en el palo mayor ó costado de la embarcación.
 
-La venta se anunciará también en todos los periódicos que se publiquen en la jurisdicción del puerto y se hará constar en el expediente de subasta el cumplimiento de ésta y las demás formalidades prescritas. En los remates se procederá con las solemnidades y en la forma en que está dispuesto por el derecho común para las ventas judiciales.
+La venta se anunciará también en todos los periódicos que se publiquen en la jurisdicción del puerto y se hará constar en el expediente de subasta el cumplimiento de ésta y las demás formalidades prescritas. En los remates se procederá con las solemnidades y en la forma en que está dispuesto por el derecho común para las ventas judiciales .
 
 ###### Art. 658.
 
@@ -3788,7 +3790,7 @@ Cuando la nave necesite reparación será suficiente que uno solo de los copart�
 
 ###### Art. 664.
 
-Para todos los efectos legales sobre que no se haya hecho modificación ó restricción por las leyes de este Código, guardarán las embarcaciones la condición de bienes muebles.
+Para todos los efectos legales sobre que no se haya hecho modificación ó restricción por la leyes de este Código, guardarán las embarcaciones la condición de bienes muebles.
 
 ###### Art. 665.
 
@@ -3902,7 +3904,7 @@ Para atender á las á las obligaciones mencionadas en el artículo anterior, el
 
 I. Pidiéndolos á los consignatarios del buque ó corresponsales del naviero;
 
-II. Acudiendo á los consignatarios de la carga ó á los interesados en ella;
+II. Acudiendo á los consignatorios de la carga ó á los interesados en ella;
 
 III. Librando sobre el naviero;
 
@@ -3930,9 +3932,9 @@ En el tercer libro titulado "De cargamentos," anotará la entrada y salida de to
 
 IV. Hacer, antes de recibir carga, con los oficiales de la tripulación y dos peritos, si lo exigieren los cargadores y los pasajeros, un reconocimiento del buque para conocer si se halla estanco con el aparejo y máquinas en buen estado y con los pertrechos necesarios para una buena navegación, conservando certificación del acta de esta visita firmada por todos los que la hubieren hecho, bajo su responsabilidad.
 
-Los peritos serán nombrados, uno por el capitán del buque y otro por los que pidan su reconocimiento, y en caso de discordia nombrará un tercero la autoridad de marina del puerto;
+Los peritos serán acento nombrados, uno por el capitán del buque y otro por los que pidan su reconocimiento, y en caso de discordia nombrará un tercero la autoridad de marina del puerto;
 
-V. Permanecer constantemente en su buque con la tripulación mientras se recibe á bordo la carga y vigilar cuidadosamente su estiba; no consentir que se embarque ninguna mercancía ó materias de carácter peligroso, como las substancias inflamables o explosivas sin las precauciones que están recomendadas para sus envases y manejo y aislamiento; no permitir que se lleve sobre cubierta carga alguna que por su disposición volumen ó peso, dificulten las maniobras marineras y pueda comprometer la seguridad de la nave; y en el caso de que la naturaleza de las mercancías, la índole especial de la expedición y principalmente de la estación favorable en que aquélla se emprenda permitieran conducir sobre cubierta alguna carga deberá oir la opinión de los oficiales del buque y contar con la anuencia de los cargadores y del naviero;
+V. Permanecer constantemente en su buque con la tripulación mientras se recibe á bordo la carga y vigilar cuidadosamente su estiva (sic); no consentir que se embarque ninguna mercancía ó materias de carácter peligroso, como las substancias inflamables o explosivas sin las precauciones que están recomendadas para sus envases y manejo y aislamiento; no permitir que se lleve sobre cubierta carga alguna que por su disposición volumen ó peso, dificulten las maniobras marineras y pueda comprometer la seguridad de la nave; y en el caso de que la naturaleza de las mercancías, la índole especial de la expedición y principalmente de la estación favorable en que aquélla se emprenda permitieran conducir sobre cubierta alguna carga deberá oir la opinión de los oficiales del buque y contar con la anuencia de los cargadores y del naviero;
 
 VI. Pedir práctico á costa del buque en todas las circunstancias que lo requieran las necesidades de la navegación, y más principalmente cuando haya de entrar en puerto, canal ó río, ó tomar una rada ó fondeadero que ni él ni los oficiales y tripulantes del buque conozcan;
 
@@ -4102,9 +4104,9 @@ I. Para poder ser embarcado como maquinista naval formando parte de la dotación
 
 II. Cuando existan dos ó más maquinistas embarcados en un buque, hará uno de ellos de jefe y estarán á sus órdenes los demás maquinistas y todo el personal de las máquinas: tendrá además á su cargo el aparato motor, las piezas de respeto, instrumentos y herramienta que al mismo conciernen, el combustible, las materias lubricadoras, y cuanto, en fin, constituye á bordo el cargo del maquinista;
 
-III. Mantendrá las máquinas y calderas en buen estado de conservación y limpieza, y dispondrá lo conveniente, á fin de que estén siempre dispuestas para funcionar con regularidad, siendo responsables de los accidentes ó averías que por su descuido ó impericia se causen al aparato motor, al buque y al cargamento, sin perjuicio de la responsabilidad criminal á que hubiere lugar, si resultase probado haber mediado delito ó falta;
+III. Mantendrá las maqninco (sic) y calderas en buen estado de conservación y limpieza, y dispondrá lo conveniente, á fin de que estén siempre dispuestas para funcionar con regularidad, siendo responsables de los accidentes ó averías que por su descuido ó impericia se causen al aparato motor, al buque y al cargamento, sin perjuicio de la responsabilidad criminal á que hubiere lugar, si resultase probado haber mediado delito ó falta;
 
-IV. No emprenderá ninguna modificación en el aparato motor, ni procederá á remediar las averías que hubiese notado en el mismo, ni alterará el régimen normal de su marcha, sin la autorización previa del capitán, al cual, si se opusiera á que se verificasen le expondrá las observaciones convenientes en presencia de los demás maquinistas ú oficiales; y si á pesar de esto el capitán insistiese en su negativa, el maquinista jefe hará la oportuna protesta, consignándola en el cuaderno de máquinas y obedecerá al capitán que será el único responsable de las consecuencias de su disposición;
+IV. No emprenderá ninguna modificación en el aparato motor, ni procederá á remediar las averías que hubiese notado en el mismo, ni alterará el régimen normal de su marcha, sin la autorización previa del capitán, alcual (sic), si se opusiera á que se verificasen le expondrá las observaciones convenientes en presencia de los demás maquinistas ú oficiales; y si á pesar de esto el capitán insistiese en su negativa, el maquinista jefe hará la oportuna protesta, consignándola en el cuaderno de máquinas y obedecerá al capitán que será el único responsable de las consecuencias de su disposición;
 
 V. Dará cuenta al capitán de cualquier avería que ocurra en el aparato motor, y le avisará cuando haya que parar las máquinas por algún tiempo ú ocurra algún accidente en su departamento, del que deba tener noticia inmediata el capitán enfrentándole además con frecuencia acerca del consumo de combustible y materias lubricadoras;
 
@@ -4162,7 +4164,7 @@ Podrá, no obstante el capitán, antes de emprender el viaje y sin expresar raz�
 
 Esta indemnización saldrá de la masa de los fondos del buque si el capitán hubiera obrado por motivos de prudencia y en interés de la seguridad y buen servicio de aquél. No siendo así será de cargo particular del capitán.
 
-Comenzada la navegación durante ésta y hasta concluido el viaje, no podrá el capitán abandonar á hombre alguno de su tripulación en tierra ni en mar á menos de que como reo de algún delito proceda su prisión y entrega á la autoridad competente en el primer puerto de arribada, caso para el capitán obligatorio.
+Comenzada la navegación durante ésta y hasta concluído el viaje, no podrá el capitán abandonar á hombre alguno de su tripulación en tierra ni en mar á menos de que como reo de algún delito proceda su prisión y entrega á la autoridad competente en el primer puerto de arribada, caso para el capitán obligatorio.
 
 ###### Art. 713.
 
@@ -4204,7 +4206,7 @@ V. La inhabilitación del buque para navegar;
 
 Si después de emprendido el viaje ocurriere alguna de la tres primeras causas expresadas en el artículo anterior, serán pagados los hombres de mar en el puerto adonde (sic) el capitán creyere conveniente arribar en beneficio del buque y cargamento, según el tiempo que hayan servido en él; pero si el buque hubiera de continuar su viaje, podrán el capitán y la tripulación exigir mutuamente el cumplimiento del contrato;
 
-En caso de ocurrir la causa cuarta, se continuará pagando á la tripulación la mitad de su haber, si el ajuste hubiere sido por meses; pero si la detención excediere de tres, quedará rescindido el empeño abonando á los tripulantes la cantidad que les habría correspondido percibir, según su contrato, concluido el viaje. Y si el ajuste hubiere sido por un tanto el viaje, deberá cumplirse el contrato en los términos convenidos.
+En caso de ocurrir la causa cuarta, se continuará pagando á la tripulación la mitad de su haber, si el ajuste hubiere sido por meses; pero si la detención excediere de tres, quedará rescindido el empeño abonando á los tripulantes la cantidad que les habría correspondido percibir, según su contrato, concluído el viaje. Y si el ajuste hubiere sido por un tanto el viaje, deberá cumplirse el contrato en los términos convenidos.
 
 En el caso quinto la tripulación no tendrá más derecho que el de cobrar los salarios devengados; mas si la inhabilitación del buque procediere de descuido ó impericia del capitán, del maquinista ó del piloto, indemnizarán á la tripulación de los perjuicios sufridos salva siempre la responsabilidad criminal á que hubiere lugar.
 
@@ -4234,7 +4236,7 @@ Si el ajuste hubiere sido á un tanto por viaje, le corresponderá la mitad de l
 
 Y si el ajuste hubiere sido á la parte y la muerte hubiere ocurrido después de emprendido el viaje se abonará á los herederos toda la parte correspondiente al hombre de mar; pero habiendo éste fallecido antes de salir el buque del puerto, no tendrán los herederos derecho á reclamación alguna.
 
-Si la muerte hubiera ocurrido en defensa del buque, el hombre de mar será considerado vivo, y se abonará á sus herederos concluido el viaje, la totalidad de los salarios ó la parte íntegra de utilidades que le correspondieren como á los demás de su clase.
+Si la muerte hubiera ocurrido en defensa del buque, el hombre de mar será considerado vivo, y se abonará á sus herederos concluído el viaje, la totalidad de los salarios ó la parte íntegra de utilidades que le correspondieren como á los demás de su clase.
 
 En igual forma se considerará presente al hombre de mar apresado defendiendo el buque, para gozar de los mismos beneficios que los demás; pero habiendo sido por descuido ú otro accidente sin relación con el servicio, sólo percibirá los salarios devengados hasta el día de su apresamiento.
 
@@ -4318,7 +4320,7 @@ Si se recibiere el cargamento sin haber firmado la póliza el contrato se entend
 
 ###### Art. 729.
 
-Las pólizas de fletamento contratado con intervención del corredor que certifique la autenticidad de las firmas de los contratantes por haberse puesto en su presencia, harán prueba plena en juicio, y si resultare entre ellas discordancia, se estará á la que concuerde con la que el corredor deberá conservar en su registro si éste estuviere con arreglo á derecho. También harán fe las pólizas, aun cuando no haya intervenido corredor, siempre que los contratantes reconozcan como suyas las firmas puestas en ellas.
+Las pólizas de fletamento contratado con intervención del corredor que certifique la autenticidad de las firmas de los contratantes por haberse puesto en su presencia, harán prueba plena en juicio, y si resultare entre ellas discordancia, se estará á la que concuerde con la que el corredor deberá conservar en su registro si éste estuviere con arreglo á derecho. También harán fe la pólizas, aun cuando no haya intervenido corredor, siempre que los contratantes reconozcan como suyas las firmas puestas en ellas.
 
 No habiendo intervenido corredor en el fletamento ni reconociéndose las firmas, se decidirán las dudas por lo que resulte del conocimiento, y á falta de éste, por las pruebas que suministren las partes.
 
@@ -4428,7 +4430,7 @@ Si el dueño de la parte embarcada le procurase carga á los mismos precios y co
 
 ###### Art. 746.
 
-Cargadas las tres quintas partes del buque, el fletante no podrá, sin consentimiento de los fletadores ó cargadores, substituir con otro el designado en el contrato, so pena de constituirse por ello responsable de todos los daños y perjuicios que sobrevengan durante el viaje al cargamento de los que no hubieren consentido la sustitución.
+Cargadas la tres quintas partes del buque, el fletante no podrá, sin consentimiento de los fletadores ó cargadores, substituir con otro el designado en el contrato, so pena de constituirse por ello responsable de todos los daños y perjuicios que sobrevengan durante el viaje al cargamento de los que no hubieren consentido la sustitución.
 
 ###### Art. 747.
 
@@ -4440,9 +4442,9 @@ Serán de cuenta del fletante todos los perjuicios que sobrevengan al fletador p
 
 ###### Art. 749.
 
-Si el fletador llevase al buque más carga que la contratada, podrá admitírsele el exceso de flete con arreglo al precio estipulado en el contrato, pudiendo colocarse con buena estiba sin perjudicar á los demás cargadores; pero si para colocarla hubiere de faltarse á las buenas condiciones de estiba, deberá el capitán rechazarla ó desembarcarla á costa del propietario.
+Si el fletador llevase al buque más carga que la contratada, podrá admitírsele el exceso de flete con arreglo al precio estipulado en el contrato, pudiendo colocarse con buena estiva (sic) sin perjudicar á los demás cargadores; pero si para colocarla hubiere de faltarse á las buenas condiciones de estiva (sic), deberá el capitán rechazarla ó desembarcarla á costa del propietario.
 
-Del mismo modo el capitán podrá antes de salir del puerto echar en tierra las mercaderías introducidas á bordo clandestinamente ó portearlas si pudiere hacerlo con buena estiba, exigiendo por razón de flete el precio más alto que hubiere pactado en aquel viaje.
+Del mismo modo el capitán podrá antes de salir del puerto echar en tierra las mercaderías introducidas á bordo clandestinamente ó portearlas si pudiere hacerlo con buena estiva (sic), exigiendo por razón de flete el precio más alto que hubiere pactado en aquel viaje.
 
 ###### Art. 750.
 
@@ -4498,11 +4500,11 @@ Si el fletador, sin concurrir alguno de los casos de fuerza mayor expresados en 
 
 ###### Art. 760.
 
-En los fletamentos á carga general, cualquiera de los cargadores podrá descargar las mercaderías antes de emprender su viaje, pagando medio flete, el gasto de estribar y reestibar, y cualquiera otro perjuicio que por esta causa se origine á los demás cargadores.
+En los fletamentos á carga general, cualquiera de los cargadores podrá descargar las mercaderías antes de emprender su viaje, pagando medio flete, el gasto de estribar y reestribar, y cualquiera otro perjuicio que por esta causa se origine á los demás cargadores.
 
 ###### Art. 761.
 
-Hecha la descarga y puesto el cargamento á disposición del consignatario éste deberá pagar inmediatamente al capitán el flete devengado y los demás gastos de que fuere responsable dicho cargamento.
+hecha la descarga y puesto el cargamento á disposición del consignatario éste deberá pagar inmediatamente al capitán el flete devengado y los demás gastos de que fuere responsable dicho cargamento.
 
 La capa deberá satisfacerse en la misma proporción y tiempo que los fletes rigiendo en cuanto á ella todas las alteraciones y modificaciones á que éstos estuvieren sujetos.
 
@@ -4642,7 +4644,9 @@ En caso de muerte de un pasajero durante el viaje, el capitán estará autorizad
 
 ### CAPÍTULO VIII.
 
-De los seguros marítimos.- De la forma de este contrato.
+De los seguros marítimos.
+
+De la forma de este contrato.
 
 ###### Art. 781.
 
@@ -4654,7 +4658,7 @@ II. El del capitán y su domicilio;
 
 III. El puerto de carga y el de descarga;
 
-IV. El nombre del cargador;
+IV. El nombre del cargador ;
 
 V. El nombre del consignatario, si el conocimiento fuere nominativo;
 
@@ -4808,11 +4812,11 @@ Se procederá de igual manera con los efectos tomados á préstamo sino se hubie
 
 ###### Art. 803.
 
-El préstamo que el capitán tomaré en el punto de residencia de los propietarios del buque sólo afectará á la parte de éste que pertenezca al capitán, si no hubieren dado su autorización expresa ó intervenido en la operación los demás propietarios ó sus apoderados.
+El préstamo que el capitán tomaré en el punto de residencia de los propietarios del buque sólo afectará á la parte de éste que pertenezca al capitán, si no hubieren dado su autorización expresa ó intervenido en la operación los demás propietarios ó sus apoderados .
 
 Si alguno ó algunos de los propietarios fueren requeridos para que entreguen la cantidad necesaria á la reparación ó aprovisionamiento del buque y no lo hicieren dentro de veinticuatro horas la parte que los negligentes tengan en la propiedad quedará afecta en la debida proporción á la responsabilidad del préstamo.
 
-Fuera de la residencia de los propietarios el capitán podrá tomar préstamos conforme á lo dispuesto en el artículo 685.
+Fuera de la residencia de los propietarios el capitán podrá tomar préstamos conforme á lo dispuesto en el artículo 6-5(sic).
 
 ###### Art. 804.
 
@@ -4832,11 +4836,11 @@ Las acciones correspondientes al prestador se extinguirán con la pérdida absol
 
 ###### Art. 807.
 
-Los prestadores á la gruesa soportarán á prorrata de su interés respectivo las averías comunes que ocurran en las cosas sobre las que se hizo el préstamo. En las averías simples, á falta de convenio expreso de los contratantes, contribuirá también por su interés respectivo el prestador á la gruesa, no perteneciendo á las especies de riesgos exceptuados en el artículo anterior.
+Los prestadores á la gruesa soportarán á prorrata de su interés respectivo las avería comunes que ocurran en las cosas sobre las que se hizo el préstamo. En las averías simples, á falta de convenio expreso de los contratantes, contribuirá también por su interés respectivo el prestador á la gruesa, no perteneciendo á las especies de riesgos exceptuados en el artículo anterior.
 
 ###### Art. 808.
 
-No habiéndose fijado en el contrato el tiempo por el cual el mutuante correrá el riesgo durará en cuanto al buque, máquinas, aparejo y pertrechos, desde el momento de hacerse éste á la mar hasta el de fondear en el puerto de su destino; y en cuanto á las mercaderías, desde que se carguen en la playa ó muelle del puerto de la expedición hasta descargarlas en el de consignación.
+No habiéndose fijado en el contrato el tiempo por el cual el mutuante correrá el riesgo durará en cuanto al buque, máquinas, aparejo y pertrechos, desde el momento de hacerse éste á la mar hasta el de fondear en el puerto de su destino; y en cuanto á las mercaderías, desde que se carguen el la playa ó muelle del puerto de la expedición hasta descargarlas en el de consignación.
 
 ###### Art. 809.
 
@@ -4988,7 +4992,7 @@ En este caso y en el del artículo anterior, habrá de descontarse del seguro el
 
 ###### Art. 827.
 
-La suscrición de la póliza creará una presunción legal de que los aseguradores admitieron como exacta la valuación hecha en ella de los efectos asegurados salvo los casos de fraude ó malicia.
+La suscrición (sic) de la póliza creará una presunción legal de que los aseguradores admitieron como exacta la valuación hecha en ella de los efectos asegurados salvo los casos de fraude ó malicia.
 
 Si apareciere exagerada la evolución se procederá según las circunstancias del caso, á saber:
 
@@ -5050,7 +5054,7 @@ Los contratantes podrán estipular las excepciones que se tengan por conveniente
 
 ###### Art. 831.
 
-No responderán los aseguradores de los daños y perjuicios que sobrevengan á las cosas aseguradas por cualquiera de las causas siguientes, aunque no se hayan excluido en la póliza:
+No responderán los aseguradores de los daños y perjuicios que sobrevengan á las cosas aseguradas por cualquiera de las causas siguientes, aunque no se hayan excluído en la póliza:
 
 I. Cambio voluntario de derrotero de viaje, ó de buque, sin expreso consentimiento de los aseguradores;
 
@@ -5102,7 +5106,7 @@ Si por conveniencia del asegurado las mercaderías se descargaren en un puerto m
 
 ###### Art. 839.
 
-Se entenderán comprendidas en el seguro, si expresamente no se hubieren excluido en la póliza, las escalas que por necesidad se hicieren para la conservación del buque ó de su cargamento.
+Se entenderán comprendidas en el seguro, si expresamente no se hubieren excluído en la póliza, las escalas que por necesidad se hicieren para la conservación del buque ó de su cargamento.
 
 ###### Art. 840.
 
@@ -5240,7 +5244,7 @@ El asegurado no sea libertará de pagar los premios íntegros á los diferentes 
 
 ###### Art. 859.
 
-El seguro hecho con posterioridad á la pérdida, avería ó feliz arribo del objeto asegurado, al puerto de destino, será nulo siempre que pueda presumirse racionalmente que la noticia de lo uno ó de lo otro había llegado á conocimiento de alguno de los contratantes.
+El seguro hecho con posterioridad á la pérdida, avería ó feliz arribo del objeto asegurado, al puerto de destino, será nulo siempre que pueda presumirse racionalmente que la noticia de lo uno ó de la otro (sic) había llegado á conocimiento de alguno de los contratantes.
 
 Existirá esta presunción cuando se hubiere publicado la noticia en una plaza, mediando el tiempo necesario para comunicarlo por el correo ó el telégrafo al lugar donde se contrato el seguro, sin perjuicio de las demás pruebas que puedan practicar las partes.
 
@@ -5294,13 +5298,13 @@ Verificándose la rehabilitación del buque, sólo responderán los aseguradores
 
 ###### Art. 866.
 
-En los casos de naufragio y apresamiento, el asegurado tendrá la obligación de hacer por sí las diligencias que aconsejen las circunstancias para salvar ó recobrar los efectos perdidos, sin perjuicio del abandono que le competa hacer á su tiempo; y el asegurador habrá de reintegrarle de los gastos legítimos que para el salvamento hiciese hasta la concurrencia del valor de los efectos salvados, sobre los cuales se harán efectivos en defecto de pago.
+En los casos de naufragio y apresamiento, el asegurado tendrá la obligación de hacer por sí las diligencias que aconsejen las circunstancias para salvar ó recobrar los efectos perdidos, sin perjuicio del abandono quo (sic) le competa hacer á su tiempo; y el asegurador habrá de reintegrarle de los gastos legítimos que para el salvamento hiciese hasta la concurrencia del valor de los efectos salvados, sobre los cuales se harán efectivos en defecto de pago.
 
 ###### Art. 867.
 
 Si el buque quedare absolutamente inhabilitado para navegar, el asegurado tendrá obligación de dar de ello aviso al asegurador, telegráficamente siendo posible, y si no, por el primer correo siguiente al recibo de la noticia.
 
-Los interesados en la carga que se hallaren presentes, ó en su ausencia el capitán, practicarán todas las diligencias posibles para conducir el cargamento al puerto de su destino con arreglo á lo dispuesto en este Código, en cuyo caso correrán por cuenta del asegurador los riesgos y gastos de descarga, almacenaje, reembarque ó trasbordo, excedente de flete y todos los demás, hasta que se alijen los efectos asegurados en el punto designado en la póliza.
+Los interesados en la carga que se hallaren presentes, ó en su ausencia el capitán , practicarán todas las diligencias posibles para conducir el cargamento al puerto de su destino con arreglo á lo dispuesto en este Código, en cuyo caso correrán por cuenta del asegurador los riesgos y gastos de descarga, almacenaje, reembarque ó trasbordo, excedente de flete y todos los demás, hasta que se alijen los efectos asegurados en el punto designado en la póliza.
 
 ###### Art. 868.
 
@@ -5468,7 +5472,7 @@ Si los interesados en la carga, estando en el buque no fueren oídos, no contrib
 
 ###### Art. 889.
 
-El acuerdo adoptado para causar los daños que constituyen avería común habrá de extenderse necesariamente en el libro de navegación, expresando los motivos y razones en que se apoyó, los votos en contrario y el fundamento de la disidencia, si existiere y las causas irresistibles y urgentes á que obedeció el capitán, si obró por sí.
+El acuerdo adoptado para causar los daños que constituyen avería común habrán de extenderse necesariamente en el libro de navegación, expresando los motivos y razones en que se apoyó, los votos en contrario y el fundamentos de la disidencia, si existiere y las causas irresistibles y urgentes á que obedeció el capitán, si obró por sí.
 
 En el primer caso, el acta se firmará por todos los presentes que supieren hacerlo, á ser posible, antes de proceder á la ejecución; y cuando no lo sea, en la primera oportunidad. En el segundo por el capitán y los oficiales del buque.
 
@@ -5488,7 +5492,7 @@ Para que puedan imputarse en la avería gruesa y tengan derecho á indemnizació
 
 ###### Art. 892.
 
-Si aligerando el buque por causa de tempestad, para facilitar su entrada en el puerto ó rada, se trasbordase á lanchas ó barcas alguna parte del cargamento y se perdiere, el dueño de esta parte tendrá el derecho á la indemnización como origina la pérdida de avería gruesa, distribuyéndose su importe entre la totalidad del buque y el cargamento de que proceda.
+Si aligerando el buque por causa de tempestad, para facilitar su entrada en el puerto ó rada, se trasbordase á lanchas ó barcas alguna parte del cargamento y se perdiere, el dueño de esta parte tendrá el derecho á la indemnización como origina la la (sic) pérdida de avería gruesa, distribuyéndose su importe entre la totalidad del buque y el cargamento de que proceda.
 
 Si por el contrario, las mercaderías trasbordadas se salvaren y el buque pereciere, ninguna responsabilidad podrá exigirse al salvamento.
 
@@ -5570,7 +5574,7 @@ En los casos expresados quedan á salvo la acción civil del naviero contra el c
 
 ###### Art. 905.
 
-Si un buque abordare á otro por causa fortuita ó de fuerza mayor, cada nave y su carga soportará sus propios daños.
+Si un buque abordare á otro por causa fortuita ó de fuerza mayor, cada nave y su carga soportará sus propio daños.
 
 ###### Art. 906.
 
@@ -5606,7 +5610,7 @@ Cuando el valor del buque y sus pertenencias no alcanzaré á cubrir todas las r
 
 ###### Art. 914.
 
-Si el abordaje tuviere lugar entre buques mexicanos en aguas extranjeras, ó si verificándose en aguas libres los buques arribaren á puerto extranjero, el cónsul de México en aquel puerto instruirá la correspondiente averiguación del suceso, enviando el expediente al capitán del puerto mexicano más inmediato para su remisión á la autoridad competente.
+Si el abordaje tuviere lugar entre buques mexicanos en aguas extranjeras, ó si verificándose en aguas libres los buques arribaren á puerto extranjero, el cónsul de México en aquel puerto instruirá la correspondiente averiguacióa (sic) del suceso, enviando el expediente al capitán del puerto mexicano más inmediato para su remisión á la autoridad competente.
 
 ### CAPÍTULO II.
 
@@ -5716,11 +5720,11 @@ Respecto á las mercaderías, si la avería fuere perceptible á la simple vista
 
 ###### Art. 929.
 
-La evaluación de los objetos que hayan de contribuir á la avería gruesa, y la de los que constituyen la avería, se sujetará á las reglas siguientes:
+La evaluación de los objetos que hayan de contribuir á la avería gruesa, y la de los que constituyen la avería, se sujetará á las regla siguientes:
 
 I. Las mercaderías salvadas que hayan de contribuir al pago de la avería gruesa, se valuarán al precio corriente en el puerto de descarga, deducidos fletes, derechos de aduanas y gastos de desembarque, según lo que aparezca de la inspección material de las mismas, prescindiendo de lo que resulte de los conocimientos, salvo pacto en contrario;
 
-II. Si hubiere de hacerse la liquidación en el puerto de salida, el valor de las mercaderías cargadas se fijará por el precio de compra con los gastos hasta ponerlas á bordo, excluido el premio del seguro;
+II. Si hubiere de hacerse la liquidación en el puerto de salida, el valor de las mercaderías cargadas se fijará por el precio de compra con los gastos hasta ponerlas á bordo, excluído el premio del seguro;
 
 III. Si las mercaderías estuvieren averiadas, se apreciarán por su valor real;
 
@@ -5848,7 +5852,7 @@ La cesión de bienes hecha por un comerciante ante los tribunales civiles hará 
 
 ###### Art. 948.
 
-La quiebra de una sociedad colectiva ó de una cooperativa con responsabilidad ilimitada y solidaria, importa la de todos sus miembros, y la de una sociedad en comandita solamente la de los comanditados. En todas las demás sociedades, la quiebra no afecta á sus miembros en particular.
+La quiebra de una sociedad colectiva ó de una cooperativa con responsabilidadilimitada(sic) y solidaria, importa la de todos sus miembros, y la de una sociedad en comandita solamente la de los comanditados. En todas las demás sociedades, la quiebra no afecta á sus miembros en particular.
 
 ###### Art. 949.
 
@@ -5908,11 +5912,11 @@ VI. Si no conservase las cartas que se le hubiesen dirigido con relación á sus
 
 VII. Si hubiere dado fianzas ó contraído por cuenta ajena obligaciones desproporcionadas con la situación de su fortuna, sin tomar valores equivalentes en garantía de su responsabilidad;
 
-VIII. Si hubiere recibido el préstamo, con ó sin intereses, alguna cantidad en mercancías por un precio mayor que el de plaza, alguna suma de dinero con un tipo mayor en un uno por ciento más mensual que el corriente, en los seis meses anteriores á su quiebra;
+VIII. Si hubiere recibido el préstamo, con ó sin interé (sic), alguna cantidad en mercancías por un precio mayor que el de plaza, alguna suma de dinero con un tipo mayor en un uno por ciento más mensual que el corriente, en los seis meses anteriores á su quiebra;
 
 IX. Si dentro de los tres días siguientes á la suspensión de pago no hiciere la manifestación respectiva; si refiriéndose ésta á una sociedad no contuviese el nombre de todos y cada uno de los socios solidarios, ó si hubiere en inexactitud en la relación de los hechos;
 
-X. Si no estando legítimamente impedido no se presentare personalmente al juzgado ó á los síndicos en los casos en que tenga obligación de hacerlo;
+X. Si no estando legítimamente impedido no se presentare personalmente al juzgado ó á los síndicos en los casos en que tenga obligación de hacerlo.
 
 XI. Si constare que en el período trascurrido desde el último inventario hasta la declaración de la quiebra, hubo tiempo en que el quebrado debía, por obligación directa, doble cantidad del haber líquido que le resultaba en el inventario.
 
@@ -5926,7 +5930,7 @@ II. Si hubiere omitido la inscripción de los documentos que consigna el art. 21
 
 III. Si fuere declarado en quiebra por segunda vez sin haber cumplido las obligaciones que hubiere contraído por un convenio precedente;
 
-IV. Si hubiere otorgado escrituras públicas ó documentos privados en que se constituyere deudor sin expresar la causa de deber ó valor determinado, á no ser que el uno y el otro aparezcan comprobados así en sus libros como en el movimiento de los fondos de la negociación;
+IV. Si hubiere otorgado escrituras públicas ó documentos privados en que se constituyere deudor sin expresar la causa de deber ó valor determinado, á no ser que el uno y el otro aparezcan comprobados así en su libros como en el movimiento de los fondos de la negociación;
 
 V. Si hubiere ocultado dinero, efectos, créditos ú otros bienes, de cualquiera naturaleza que sean;
 
@@ -5954,7 +5958,7 @@ XVI. Si con posterioridad á las diligencias promovidas sobre el estado de quieb
 
 XVII. Si teniendo el fallido posibilidad de cubrir puntualmente las partidas de su pasivo se presentare en quiebra con intención de negociar los crédito de su cargo á fin de obtener alguna utilidad en su descuento;
 
-XVIII. Si después del último inventario y dos meses antes de la declaración de quiebra, apareciere, en el pasivo con relación al activo un exceso de un veinticinco por ciento sin haberse hecho la manifestación relativa al estado de quiebra;
+XVIII. Si después del último inventario y dos meses antes de la declaración de quiebra, apareciere, en el pasivo con relación al activo un exceso de un veinticinco por ciento sin haberse hecho la manifestación relativa la estado de quiebra;
 
 XIX. Si no hubiere hecho inventarios en las épocas prevenidas en este Código, en las fijadas en los estatutos sociales ó en los contratos que sobre el particular se estipularen;
 
@@ -6130,7 +6134,7 @@ Siempre que se decrete la devolución de cualquier objeto ó cantidad, se entend
 
 ###### Art. 982.
 
-Salvo lo dispuesto en el art. 949, la declaración de quiebra pronunciada en país extranjero no puede invocarse contra los acreedores que el fallido tenga en la República, ni para disputarles los derechos que pretendan tener sobre los bienes existentes dentro del territorio, ni para anular los contratos que hayan celebrado con el fallido.
+Salvo lo dispuesto en el art. 949, la declaración de quiebra pronunciada en país extranjero no puede invocarse contra los acreedores que el fallido tenga en la República, ni para disputarles los derechos que pretendan tener sobre los bienes existentes dentro del territorio, ni para anular los contratos que hayan celebrado con el fallido .
 
 ###### Art. 983.
 
@@ -6166,7 +6170,7 @@ En todos los casos puede modificarse la época de la quiebra según las constanc
 
 De la rehabilitación.
 
-Art. 1,009. El juez que haya conocido en el juicio sobre quiebra, puede conceder rehabilitación al fallido mediante las condiciones que expresan los artículos siguientes.
+Art. 1,009. El juez que haya cenocido (sic) en el juicio sobre quiebra, puede conceder rehabilitación al fallido mediante las condiciones que expresan los artículos siguientes.
 
 Art. 1,010. Los fallidos de primera clase serán rehabilitados protestando en forma legal atender al pago de sus deudas insolutas tan luego como su situación se los permita.
 
@@ -6258,7 +6262,7 @@ Art. 1,020. Si los socios comanditarios ó de compañías anónimas no hubieren 
 
 Art. 1,021. Los socios comanditarios, los de sociedades anónimas y los de cuentas en participación, que á la vez sean acreedores de la quiebra, no figurarán en el pasivo de la misma, más que por la diferencia que resulte á su favor después de cubiertas las cantidades que estuvieren obligados á poner en el concepto tales socios.
 
-Art. 1,022. El convenio, en la quiebra de sociedades anónimas que no se hayan en liquidación, podrán tener por objeto la continuación ó el traspaso de la empresa con las condiciones que se fijen en el mismo convenio.
+Art. 1,022. El convenio, en la quiebra de sociedades anónimas que no se hayan en liquidación, podrán tener por objeto la continuación ó el traspaso de la empresa con la condiciones que se fijen en el mismo convenio.
 
 Art. 1,023. Las compañías estarán representadas durante la quiebra según lo hubieren previsto para este caso los Estatutos; en su defecto, por los directores, gerentes, administradores ó liquidadores, y á falta de todo estos por un agente del Ministerio público, distinto del designado para representar acreedores ausentes.
 
@@ -6284,7 +6288,7 @@ IV. Los bienes y efectos que el quebrado tuviere en depósito, administración, 
 
 V. Las mercaderías que el quebrado tuviere en su poder, por comisión de compra, venta, tránsito ó entrega;
 
-VI. Las letras de cambio ó pagares que sin endoso ó expresión que trasmitiere su propiedad, se hubieren remitido para su cobranza al quebrado, y las que hubiere adquirido por cuenta de otro, libradas ó endosadas directamente en favor del comitente;
+VI. Las letras de cambio ó pagares que sin endoso ó expresión que transmitiore (sic) su propiedad, se hubieren remitido para su cobranza al quebrado, y las que hubiere adquirido por cuenta de otro, libradas ó endosadas directamente en favor del comitente;
 
 VII. Los caudales remitidos fuera de cuenta corriente al quebrado y que éste tuviere en su poder para entregar á persona determinada en nombre y por cuenta del comitente ó para satisfacer obligaciones que hubieren de cumplirse en el domicilio de aquél;
 
@@ -6342,7 +6346,7 @@ I. Los acreedores con derecho real, en los términos y por el orden que establec
 
 II. Los acreedores singularmente privilegiados y demás enumerados en el artículo anterior, por el orden establecido en el mismo artículo.
 
-Art. 1,004. Las sumas que los acreedores hipotecarios percibieren de los bienes muebles, realizados que sean, serán abonadas en cuenta de lo que hubieren de percibir por la venta de inmuebles, y si hubiesen percibido el total de su crédito, se tendrá por saldado y se pasará á pagar al que siga por orden de fechas.
+Art. 1,004. La sumas (sic) que los acreedores hipotecarios percibieren de los bienes muebles, realizados que sean, serán abonadas en cuenta de lo que hubieren de percibir por la venta de inmuebles, y si hubiesen percibido el total de su crédito, se tendrá por saldado y se pasará á pagar al que siga por orden de fechas.
 
 Art. 1,005. Con excepción de los hipotecarios, los acreedores percibirán sus créditos, sin distinción de fechas, á prorrata dentro de cada clase y con sujeción al orden establecido en los artículos 1,002 y 1,003.
 
@@ -6360,7 +6364,7 @@ De las quiebras de las compañías y empresas de ferrocarriles y demás obras p�
 
 Art. 1,026. Las compañías y empresas de ferrocarriles y demás obras de servicio público general, local ó municipal, que se hallaren en la imposibilidad de saldar sus obligaciones, podrán presentarse al juez en estado de suspensión de pagos.
 
-También podrá hacerse la declaración de suspensión de pagos á instancia de uno ó más acreedores legítimos, entendiéndose por tales, para los efectos de este artículo, los que hayan obtenido mandamiento de ejecución y en el embargo no encuentren bienes libres bastantes para el pago, o los que acrediten que estas empresas o compañías han suspendido de una manera general el pago corriente de sus obligaciones.
+También podrá hacerse la declaración de suspensión de pagos á instancia de uno ó más acreedores legítimos, entendiéndose por tales, para los efectos de este artículo, los que hayan obtenido mandamiento de ejecución y en el embargo no encuentren bienes libres bastantes para el pago, o los que acrediten que estas empresas o compañías han suspendido de una manera general el pago corriente de sus obligaciones .
 
 Art. 1,027. Por ninguna acción judicial podrán interrumpirse el servicio de explotación de ferrocarriles ni de ninguna otra obra pública.
 
@@ -6522,7 +6526,7 @@ VIII. Las acciones que tengan por objeto exigir la indemnización de los daños 
 
 Art. 1,044. Se prescribirán en tres años:
 
-I. (DEROGADA POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+I. (DEROGADA POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 II. Las acciones derivadas del contrato de préstamo á la gruesa.
 
@@ -6740,7 +6744,7 @@ Art. 1,113. Para decretar la cancelación de un registro, cuando la acción que 
 
 Art. 1,114. La parte que promueva una competencia, cuando haga uso de la inhibitoria, excitará por medio de un escrito en que exponga las razones legales en que la funde, la jurisdicción y el juez que en su concepto sea el competente, pidiéndole que declare serlo, y se avoque el conocimiento del negocio.
 
-Art. 1,115. El juez dentro de tres días perentorios, decidirá estableciendo ó negando su competencia. La resolución negativa es apelable en ambos efectos, y el tribunal superior respectivo, sin más trámite que la vista, en la que informaran las partes, si quisieren, confirmará ó revocará la sentencia en los términos que previene el art. 1,342.
+Art. 1,115. El juez dentro de tres días perentorios, decidirá estableciendo ó negando su competencia. La resolución negativa es apelable en ambos efectos, y el tribunal superior respectivo, sin más trámite que la vista, en la que informaran las partes, si quisieren, confirmará ó revocará la sentencia en los término que previene el art. 1,342.
 
 Art. 1,116. La sentencia de segunda instancia causará ejecutoria, y de ella no habrá más recurso que el de responsabilidad.
 
@@ -6766,7 +6770,7 @@ Art. 1,126. El juez que no remita el informe prevenido en el artículo anterior,
 
 Art. 1,127. Recibidos los autos de competencia en el tribunal que deba decidirla, se pasarán al Ministerio público por el término de tres días, y devueltos por él, la sala mandará ponerlos en la secretaría á la vista de las partes, por tres días á cada uno.
 
-Art. 1,128. Concluido el término señalado en la parte final del artículo anterior, se citará día para la visita, que deberá verificarse á más tardar dentro de seis días.
+Art. 1,128. Concluído el término señalado en la parte final del artículo anterior, se citará día para la visita, que deberá verificarse á más tardar dentro de seis días.
 
 Art. 1,129. En la vista informará el representante del Ministerio público, si quisiere, y lo hará precisamente si no lo hubiere hecho por escrito, pudiendo hacerlo también las partes ó sus abogados.
 
@@ -6910,7 +6914,7 @@ Art. 1,162. Promovido el juicio y en término de prueba, el juez á petición de
 
 Art. 1,163. Si el tenedor del documento ó cosa mueble fuere el mismo á quien se va á demandar, y sin causa alguna se negaré á exhibirlos, se le apremiará por los medios legales; y si aun así resistiere la exhibición, ó destruyere, deteriorare ú ocultare aquéllos, ó con dolo ó malicia dejare de poseerlos, satisfará todos los daños y perjuicios que se hayan seguido, quedando, además, sujetos á la responsabilidad criminal en que hubiere incurrido.
 
-Art. 1,164. Si el tenedor de quien se habla en el artículo precedente alegare alguna causa para no exhibirlos, se dará vista por tres días á la otra parte de la oposición formulada: con lo que ésta exponga, si se considerare necesario, se recibirá en incidente á prueba por cinco días improrrogables: concluido este termino se citará á las partes para que dentro de tres días aleguen lo que á su derecho convenga en vista de las pruebas rendidas, y pronunciará la sentencia dentro de otros tres días improrrogables.
+Art. 1,164. Si el tenedor de quien se habla en el artículo precedente alegare alguna causa para no exhibirlos, se dará vista por tres días á la otra parte de la oposición formulada: con lo que ésta exponga, si se considerare necesario, se recibirá en incidente á prueba por cinco días improrrogables: concluído este termino se citará á las partes para que dentro de tres días aleguen lo que á su derecho convenga en vista de las pruebas rendidas, y pronunciará la sentencia dentro de otros tres días improrrogables.
 
 Art. 1,165. Contra la resolución que se dicte en el caso del artículo anterior, será admisible la apelación en ambos efectos, si fuere apelable la sentencia definitiva en el juicio que se prepara.
 
@@ -6970,9 +6974,9 @@ Art. 1,187. La persona contra quien se haya dictado una providencia precautoria,
 
 Art. 1,188. Igualmente puede reclamar la providencia precautoria un tercero, cuando sus bienes hayan sido objeto del secuestro. Esta reclamación se sustanciará por cuaderno separado y conforme á los artículos siguientes.
 
-Art. 1,189. Reclamada la providencia, el juez citará á una junta que deberá verificarse dentro de tres días: si en ella se promoviere prueba se recibirá ésta dentro de los diez días siguientes.
+Art. 1,189. Reclamada la provideucia (sic), el juez citará á una junta que deberá verificarse dentro de tres días: si en ella se promoviere prueba se recibirá ésta dentro de los diez días siguientes.
 
-Art. 1,190. Dentro de los tres días que siguen á la celebración de la junta, ó dentro de igual término después de concluido el de la prueba, el juez ó tribunal oirá los alegatos de los interesados y fallará en la misma audiencia.
+Art. 1,190. Dentro de los tres días que siguen á la celebración de la junta, ó dentro de igual término después de concluído el de la prueba, el juez ó tribunal oirá los alegatos de los interesados y fallará en la misma audiencia.
 
 Art. 1,191. Si atendido el interés del negocio hubiere lugar á la apelación, ésta se admitirá sólo en el efecto devolutivo. Si la sentencia levanta la providencia precautoria, no se ejecutará sino previa fianza que dé la parte que obtuvo. La sentencia de segunda instancia causará ejecutoria. Cuando la providencia precautoria hubiere sido dictada en segunda instancia, la sentencia no admitirá recurso alguno.
 
@@ -7120,7 +7124,7 @@ Art. 1,245. Sólo pueden reconocer un documento privado, el que lo firma, el que
 
 Art. 1,246. Los instrumentos auténticos expedidos por las autoridades federales, hacen fe en toda la República, sin necesidad de legalización.
 
-Art. 1,247. Los instrumentos expedidos por autoridades locales, serán legalizados por los Gobernadores de los Estados ó del Distrito federal, ó por los Jefes políticos de los Territorios.
+Art. 1,247. Los instrumentos expedidos por autoridades locales, serán legalizadas por los Gobernadores de los Estados ó del Distrito federal, ó por los Jefes políticos de los Territorios.
 
 Art. 1,248. Los instrumentos que vienen del extranjero necesitan, para hacer fe en los Estados, en el Distrito y en los Territorios estar legalizados por el ministro ó cónsul de la República residentes en el territorio de su otorgamiento; y si no los hubiere, por el ministro ó cónsul de la nación que tenga tratado de amistad con la República.
 
@@ -7368,7 +7372,7 @@ Art. 1,312. El juez nunca repelerá de oficio al testigo; si éste se encuentra 
 
 Art. 1,313. No es admisible la prueba testimonial para tachar á los testigos que hayan declarado en el incidente de tachas.
 
-Art. 1,314. La petición de tachas se hará saber desde luego al colitigante, ya para que use de igual derecho dentro de la veinticuatro horas, ya para que asista á la protesta de los nuevos testigos, que se recibirán dentro del término que falte para concluir el señalado en el negocio principal ó dentro de cinco días si aquél hubiere concluido.
+Art. 1,314. La petición de tachas se hará saber desde luego al colitigante, ya para que use de igual derecho dentro de la veinticuatro horas, ya para que asista á la protesta de los nuevos testigos, que se recibirán dentro del término que falte para concluir el señalado en el negocio principal ó dentro de cinco días si aquél hubiere concluído.
 
 Art. 1,315. En las pruebas de tachas se observarán las reglas que en las comunes.
 
@@ -7376,7 +7380,7 @@ Art. 1,316. Trascurrido el término concedido para probar las tachas, las prueba
 
 Art. 1,317. Las tachas deben contraerse únicamente á las personas de los testigos; los vicios que hubiere en los dichos ó en la forma de las declaraciones, serán objeto del alegato de buena prueba.
 
-Art. 1,318. En los mismos términos señalados en el artículo 1,307, podrá alegarse la falsedad de los documentos presentados hasta entonces, observándose las disposiciones relativas del Código de Procedimientos Penales respectivo.
+Art. 1,318. En los mismos términos señalados en el artículo 1,307, podrá alegarse la falsedad de los documentos presentados hasta entonces, observándose las disposiciones relativas del Código de Procedimientos penales respectivo.
 
 Art. 1,319. Si los documentos se presentan después de la publicación de las pruebas en los casos en que la ley lo permite, el juez correrá traslado de ellos á la parte contraria para que use de sus derechos en un término que no exceda de cinco días. Si ésta los arguyere de falsos, se observará lo prevenido en el final del artículo anterior.
 
@@ -7500,7 +7504,7 @@ Art. 1,356. Si ninguna de las partes hubiere pedido prueba, se procederá como p
 
 Art. 1,357. En los juicios ejecutivos se observará lo dispuesto en el art. 1,414.
 
-Art. 1,358. En los incidentes criminales que surjan en negocios civiles, se observará lo dispuesto en el Código de Procedimientos Penales respectivo.
+Art. 1,358. En los incidentes criminales que surjan en negocios civiles, se observará lo dispuesto en el Código de Procedimientos penales respectivo.
 
 ### CAPÍTULO XXIX.
 
@@ -7556,7 +7560,7 @@ I. A instancias del deudor, ya sea que solicite liquidación judicial, ó ya que
 
 II. Por solicitud de uno o varios acreedores, conforme á las fracciones I, II y IV del art. 952.
 
-Art. 1,416. En cualquiera de los dos casos previstos en el artículo anterior, el juez que conozca de la quiebra proveerá sobre la conservación de los bienes de la masa, nombrando al efecto un síndico provisional y un interventor.
+Art. 1,416. En cualquiera de los dos casos previstos en el artículo anterior, el juez que conozca de la quiebra proveerá sobre la conservación de los bienes de la masa, nombrando al efecto un sindico provisional y un interventor.
 
 Art. 1,417. El nombramiento del interventor y de síndico provisionales debe recaer en persona de notoria honradez y respetabilidad, y que sean, ó abogados con título oficial, ó comerciantes con matrícula en el respectivo Registro de Comercio.
 
@@ -7566,7 +7570,7 @@ Art. 1,419. El síndico provisional se limitará á recibir la negociación con 
 
 Art. 1,420. Si el síndico provisional comprendiere que hay necesidad de realizar algunos efectos ó valores porque pudieran perderse, disminuir su precio ó que se perjudicara de cualquiera otra manera la negociación que está á su cargo, podrá verificar los contratos correspondientes con autorización del juez, quien la dará previa audiencia del Ministerio público en el plazo que le señale según la urgencia del caso.
 
-Art. 1,421. Ni el sindico ni el interventor provisionales podrán ser removidos antes de que así lo acuerde la junta general de acreedores en la siguiente á la de rectificación de créditos.
+Art. 1,421. Ni el sindico ni el interventor provisionales podrán ser removidos antes de que así lo acuerde la junta general de acreedores en la siguiente á la de rectificación de créditos .
 
 Art. 1,422. Las atribuciones del interventor serán: vigilar la conducta del síndico, dando cuenta al juez de todos los actos en que puedan resultar perjudicados los intereses de los acreedores ó los derechos que las leyes les conceden, y cuidando de que nunca deje el síndico pasar los términos que para cualquiera de sus funciones haya establecido la ley; asistir á la formación del inventario consecutivo al aseguramiento de bienes y ser oído en el caso previsto en el artículo 1,420 y cuando el síndico decida entablar judicialmente alguna acción. El interventor definitivo tendrá además, el encargo de dictaminar sobre el crédito del síndico cuando éste sea acreedor de la masa.
 
@@ -7606,7 +7610,7 @@ Art. 1,431. El ejecutor asentará en los autos la razón de haberse practicado l
 
 Art. 1,432. Si el deudor tuviere sucursales ó establecimientos fuera del Territorio ó partido jurisdiccional del juez de la quiebra, se practicarán por medio de exhortos las diligencias prevenidas en el artículo 1,430.
 
-Art. 1,433. Al día siguiente de puestos los sellos, el síndico comenzará á hacer el inventario, previa citación del interventor y del deudor, y ante el escribano de los autos ó quien haga sus veces. Si en inventariar los bienes de una pieza fuere preciso emplear más de un día concluidas las horas hábiles, se volverán á sellar las puertas, asentándose siempre razón, por principio de diligencia, del estado en que se encuentre el sello que haya habido necesidad de levantar.
+Art. 1,433. Al día siguiente de puestos los sellos, el síndico comenzará á hacer el inventario, previa citación del interventor y del deudor, y ante el escribano de los autos ó quien haga sus veces. Si en inventariar los bienes de una pieza fuere preciso emplear más de un día concluídas las horas hábiles, se volverán á sellar las puertas, asentándose siempre razón, por principio de diligencia, del estado en que se encuentre el sello que haya habido necesidad de levantar.
 
 Art. 1,434. Si al practicar el inventario se encontrase alguno de los efectos mencionados en el artículo 1,420, se procederá como allí se determina. Si se encontraren algunos objetos no susceptibles de embargo, se entregarán al deudor.
 
@@ -7634,7 +7638,7 @@ Art. 1,383. Según la naturaleza y calidad del negocio, el juez fijará el térm
 
 Art. 1,384. Estando dentro del término concedido, la parte que pretenda su prórroga pedirá al juez que cite á la contraria á su presencia, y el juez lo hará así mandando poner razón de ello en los autos. En vista de lo que las partes alegaren se concederá ó denegará la prórroga. Si al pedirla se acompañare el consentimiento por escrito de la contraria, se otorgará la prórroga por todo el plazo que las partes convengan, no excediendo del legal.
 
-Art. 1,385. Concluido el término probatorio, desde luego y sin otro trámite, se mandará hacer la publicación de probanzas.
+Art. 1,385. Concluído el término probatorio, desde luego y sin otro trámite, se mandará hacer la publicación de probanzas.
 
 Art. 1,386. No impedirá que se lleve á efecto la publicación de pruebas el hecho de hallarse pendientes algunas de las diligencias promovidas. El juez si lo cree conveniente podrá mandar concluirlas dando en tal caso conocimiento de ellas á las partes.
 
@@ -7650,7 +7654,7 @@ Art. 1,390. Dentro de los quince días siguientes á la citación para sentencia
 
 De la rectificación de créditos.
 
-Art. 1,437. Concluido el inventario y sin necesidad de gestión del síndico, el juez proveerá auto mandado que se le presenten los justificantes de los créditos dentro de diez días, si residen los acreedores á menos de 200 kilómetros del lugar del juicio; de veinte si residen á menos de 400; y de treinta si residen á mayor distancia, dentro de la República.
+Art. 1,437. Concluído el inventario y sin necesidad de gestión del síndico, el juez proveerá auto mandado que se le presenten los justificantes de los créditos dentro de diez días, si residen los acreedores á menos de 200 kilómetros del lugar del juicio; de veinte si residen á menos de 400; y de treinta si residen á mayor distancia, dentro de la República.
 
 Art. 1,438. A los que residan en la América del Norte ó en las Antillas, se les concederán dos meses; á los que residan en Europa ó en la América Central, tres meses; á los que residan en la América Meridional, cuatro meses; y cinco á los que residan en cualquiera otra parte.
 
@@ -7678,11 +7682,11 @@ Art. 1,448. El juez convocará todas las juntas que sean necesarias para la cali
 
 Art. 1,449. Los créditos admitidos como legítimos, se anotarán en sus títulos, en estos términos: "N; admitido al pasivo de N; por la cantidad de ...." Esta nota se firmará por el juez y por los síndicos.
 
-Art. 1,450. Al acreedor cuyo crédito sea excluido se le devolverán sus títulos para los usos que le convengan.
+Art. 1,450. Al acreedor cuyo crédito sea excluído se le devolverán sus títulos para los usos que le convengan.
 
 Art. 1,451. En la resolución de la junta de que trata el artículo 1,447 se observará lo dispuesto en el artículo 1,444.
 
-Art. 1,452. En caso de reclamación por cualquier acreedor contra el acuerdo de la junta en que se declare reconocido un crédito, serán de su cargo los gastos del procedimiento; pero si judicialmente se declara excluido el crédito, le serán abonados íntegramente por la masa, mediante su cuenta justificada.
+Art. 1,452. En caso de reclamación por cualquier acreedor contra el acuerdo de la junta en que se declare reconocido un crédito, serán de su cargo los gastos del procedimiento; pero si judicialmente se declara excluído el crédito, le serán abonados íntegramente por la masa, mediante su cuenta justificada.
 
 Art. 1,453. Pasados diez días después de la celebración de la junta en que el crédito que se reclama fue admitido ó desechado, no se admitirá instancia alguna contra lo acordado en la junta, ni en ningún caso ni tiempo podrá hacerla un acreedor contra la resolución que haya sido conforme á su voto.
 
@@ -7718,7 +7722,7 @@ De la liquidación judicial.
 
 Art. 1,466. Todo comerciante que de hecho haya suspendido sus pagos, puede solicitar, dentro de los tres días siguientes, el beneficio de la liquidación judicial.
 
-Art. 1,467. Con la demanda respectiva acompañará el deudor un estado en que manifieste exacta y especificadamente su activo y su pasivo, el nombre y domicilio de sus acreedores y los motivos que le obligaron á suspender los pagos.
+Art. 1,467. Con la demanda respectiva acompañará el deudor un estado en que manifieste exacta y específicadamente su activo y su pasivo, el nombre y domicilio de sus acreedores y los motivos que le obligaron á suspender los pagos.
 
 Art. 1,468. Con vista de la demanda del deudor, el juez de plano proveerá un auto en términos del artículo 1,429, y se observarán todas las prevenciones contenidas en el capítulo anterior hasta dejar cerrado el examen de reconocimiento de créditos.
 
@@ -7726,7 +7730,7 @@ Art. 1,469. Dentro de los diez días siguientes á haberse cerrado el examen de 
 
 Art. 1,470. Si los acreedores y el deudor se convencionaren y en la convención se observan todos y cada uno de los requisitos prescritos por las leyes, la liquidación judicial quedará terminada y el deudor puesto de nuevo al frente de su giro y en libre posesión de sus bienes en los términos del propio convenio.
 
-Art. 1,471. Si no se convinieren el deudor y los acreedores, se seguirán los procedimientos de la quiebra hasta la liquidación y pago de los créditos.
+Art. 1,471. Si no se convencionaren el deudor y los acreedores, se seguirán los procedimientos de la quiebra hasta la liquidación y pago de los créditos.
 
 Los acreedores, á pluralidad de votos nombrarán, síndico é interventor definitivos.
 
@@ -7766,7 +7770,7 @@ IX. En los demás casos expresamente determinados en este Código.
 
 Art. 1,476. En los casos especificado en el artículo anterior, el juez hará desde luego la declaración del estado de quiebra y se procederá con arreglo á lo dispuesto en el capítulo II de este título.
 
-Art. 1,477. En los demás casos en que alguno ó algunos de los acreedores pidan la declaración de estado de quiebra, el juez mandará correr traslado por tres días al deudor, y si éste ofreciese pruebas, se señalará un término para recibirlas que no pase de quince días, concluido el cual se resolverá sobre la declaración de estado de quiebra. Esta decisión solo será apelable en el efecto devolutivo.
+Art. 1,477. En los demás casos en que alguno ó algunos de los acreedores pidan la declaración de estado de quiebra, el juez mandará correr traslado por tres días al deudor, y si éste ofreciese pruebas, se señalará un término para recibirlas que no pase de quince días, concluído el cual se resolverá sobre la declaración de estado de quiebra. Esta decisión solo será apelable en el efecto devolutivo.
 
 Art. 1,478. Si se hiciese la declaración de estado de quiebra en los casos que determina el art. 1,475, el comerciante ó sociedad que sean objeto de ella podrán pedir que se revoque, dentro de los tres días siguientes á dicha declaración, siguiéndose en ese caso por cuerda separada los trámites que marca el artículo anterior.
 
@@ -7786,7 +7790,7 @@ Art. 1,484. Ejecutoriada la declaración de estado de quiebra, se procederá con
 
 De la administración de la quiebra.
 
-Art. 1,485. No convencionándose el deudor y sus acreedores, el síndico, ayudado del interventor, administrará en los términos de este Libro y del anterior, los bienes del deudor común, procediendo á la liquidación de los mismos bienes y á la graduación de los créditos.
+Art. 1,485. No convecionándose el deudor y sus acreedores, el síndico, ayudado del interventor, administrará en los términos de este Libro y del anterior, los bienes del deudor común, procediendo á la liquidación de los mismos bienes y á la graduación de los créditos.
 
 Art. 1,486. Dentro del mes siguiente á la fecha en que se sepa que no hay convenio entre los acreedores y el deudor, el síndico procurará la venta de toda la negociación, y si esto no fuese posible, de los bienes que la constituyan pudiendo en uno y otro caso hacer la venta hasta con un quebranto de veinticinco por ciento del valor que tengan en los últimos inventarios; y si no los hubiere, del avalúo que se haga por un corredor de primera clase nombrado por el juez; ó si no lo hubiere por uno de inferior clase, ó un comerciante acreditado á falta de corredores.
 
@@ -7896,7 +7900,7 @@ Art. 1,398. Los términos fijados en el artículo anterior, se contarán desde l
 
 Art. 1,399. Dentro de los tres días siguientes al embargo podrá el deudor oponer la excepción acompañando el instrumento en que se funde ó promoviendo la confesión ó reconocimiento judicial. De otra manera no será admitida.
 
-Art. 1,400. Si el ejecutante objetare el instrumento á que el artículo anterior se refiere, y ofreciere prueba, se señalará un término que no pase de diez días. Concluido este término el juez citará una audiencia verbal que se verificará dentro de tres días, y fallará dentro de cinco. La citación para la audiencia produce los efectos de citación para sentencia.
+Art. 1,400. Si el ejecutante objetare el instrumento á que el artículo anterior se refiere, y ofreciere prueba, se señalará un término que no pase de diez días. Concluído este término el juez citará una audiencia verbal que se verificará dentro de tres días, y fallará dentro de cinco. La citación para la audiencia produce los efectos de citación para sentencia.
 
 Art. 1,401. Si se tratare de letras de cambio se observará lo dispuesto en el artículo 535 de este Código.
 
@@ -7924,11 +7928,11 @@ IX. Novación de contrato.
 
 Las excepciones comprendidas desde la fracción VI á la IX, sólo serán admisibles en juicio ejecutivo, si se fundaren en prueba documental.
 
-Art. 1,404. No verificando el deudor el pago dentro de tres días después si hecha la traba, ni oponiendo excepción contra la ejecución, á pedimento del actor y previa citación de las partes, se pronunciará sentencia de remate, mandando proceder á la venta de los bienes embargados y que de su producto se haga pago al acreedor.
+Art. 1,404. No verificando el deudor el pago dentro de tres días después si hecha la traba, ni oponiendo excepción contra la ejecución , á pedimento del actor y previa citación de las partes, se pronunciará sentencia de remate, mandando proceder á la venta de los bienes embargados y que de su producto se haga pago al acreedor.
 
 Art. 1,405. Si el deudor se opusiere á la ejecución expresando las excepciones que le favorecen y el negocio exigiere prueba, se concederá para ésta un término que no exceda de quince días.
 
-Art. 1,406. Concluido el término de prueba, y sentada razón de ello, se mandará hacer publicación de probanzas y se entregarán los autos, primero al actor y luego al reo, por cinco días á cada uno, para que aleguen de su derecho.
+Art. 1,406. Concluído el término de prueba, y sentada razón de ello, se mandará hacer publicación de probanzas y se entregarán los autos, primero al actor y luego al reo, por cinco días á cada uno, para que aleguen de su derecho.
 
 Art. 1,407. Presentados los alegatos ó trascurrido el término para hacerlo, previa citación y dentro del término de ocho días, se pronunciará la sentencia.
 
@@ -7985,6 +7989,10 @@ A falta de disposiciones de este Código, serán aplicables á los actos de come
 Quedan abrogados los artículos 337, 339, 340 al 357, 365 al 370, 449 al 575, 605 al 634, y 1044, fracción I, del Código de Comercio de 15 de septiembre de 1889, y las Leyes de 29 de noviembre de 1897 y de 4 de junio de 1902.
 
 Se derogan todas las demás leyes y disposiciones que se opongan a la presente.
+
+D.O.F. 30 DE MAYO DE 1933.
+
+UNICO.- Esta Ley entrará en vigor el día primero de junio del presente año.
 
 ###### ARTICULO 1°.
 
