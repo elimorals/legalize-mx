@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "1993-06-16"
+last_updated: "1996-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1996.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -3110,6 +3110,10 @@ Si el crédito estuviere garantizado con prenda o hipoteca, se trabará la ejecu
 ###### Art. 589.
 
 Cuando el crédito está garantizado con hipoteca, el acreedor puede intentar el juicio hipotecario, el ejecutivo o el ordinario.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+En caso de que el acreedor hipotecario exija la satisfacción de su derecho a través de juicio ejecutivo, el acta de embargo tendrá los mismos efectos que una cédula hipotecaria, además de los que le son propios, con relación al bien o bienes hipotecados.
 
 ###### Art. 590.
 
@@ -7114,3 +7118,9 @@ P.O. 16 DE JUNIO DE 1993.
 Primero.- Este presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales que se opongan a lo previsto en el presente decreto.
+
+P.O. 28 DE DICIEMBRE DE 1996.
+
+Primero.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente Decreto.
