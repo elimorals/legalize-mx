@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-131-de-division-territorial-del-estado-de-23614"
 country: "mx"
 rank: "ley"
 publication_date: "1988-07-14"
-last_updated: "1988-07-14"
+last_updated: "1989-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE DIVISION TERRITORIAL DEL ESTADO DE VERACRUZ-LLAVE, PARA LA ELECCION DEL PODER LEGISLATIVO DEL MISMO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE ABRIL DE 1989.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 14 de julio de 1988.
 
@@ -53,11 +53,15 @@ Para los efectos de esta Ley, se entiende por Distrito Electoral Uninominal, la 
 
 El Estado de Veracruz se divide en veinticuatro distritos electorales uninominales. La Jurisdicción y Cabecera de cada uno de dichos Distritos, será la siguiente:
 
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 1989)</small>
+
 PRIMER DISTRITO
 
 CABECERA: PANUCO
 
 Municipios:
+
+El Higo
 
 Ozuluama
 
@@ -479,6 +483,8 @@ Tlalixcoyan
 
 Veracruz (área rural)
 
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 1989)</small>
+
 DECIMO NOVENO DISTRITO
 
 CABECERA: COSAMALOAPAN
@@ -504,6 +510,8 @@ Tierra Blanca
 Tlacojalpan
 
 Tlacotalpan
+
+Tres Valles
 
 Tuxtilla
 
@@ -589,17 +597,23 @@ Las Choapas
 
 Minatitlán
 
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 1989)</small>
+
 VIGESIMO CUARTO DISTRITO
 
 CABECERA: COATZACOALCOS
 
 Municipios:
 
+Agua Dulce
+
 Coatzacoalcos
 
 Ixhuatlán del Sureste
 
 Moloacan
+
+Nanchital de Lázaro Cárdenas del Río.
 
 ## TRANSITORIOS
 
@@ -620,3 +634,9 @@ FERNANDO GUTIERREZ BARRIOS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 DANTE DELGADO RANNAURO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 1 DE ABRIL DE 1989.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
