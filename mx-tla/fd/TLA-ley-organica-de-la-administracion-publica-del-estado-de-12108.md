@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-de-la-administracion-publica-del-estado-de-12108"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-07"
-last_updated: "1998-04-07"
+last_updated: "1998-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TLAXCALA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 1998.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 7 de abril de 1998.
 
@@ -127,9 +127,11 @@ Oficialía Mayor de Gobierno.
 
 Contraloría.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 12.
 
-Los Secretarios, el Procurador General de Justicia, el Oficial Mayor de Gobierno, el Contralor y los Coordinadores, tendrán igual rango y entre ellos no habrá preeminencia alguna; ejerciendo las funciones de su competencia por acuerdo del Gobernador del Estado.
+Los Secretarios, el Procurador General de Justicia, el Oficial Mayor de Gobierno, el Contralor y los Coordinadores, tendrán igual rango, y entre ellos no habrá preeminencia alguna, ejerciendo las funciones de su competencia en los términos de la presente Ley, y de sus respectivos Reglamentos Interiores.
 
 ###### ARTICULO 13.
 
@@ -852,3 +854,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los treinta y un días del mes de Marzo de mil novecientos noventa y ocho.
 
 EL GOBERNADOR DEL ESTADO.- JOSE ANTONIO CRUZ ALVAREZ LIMA.- Rúbrica.- EL SECRETARIO DE GOBIERNO.- CARLOS HERNANDEZ GARCIA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE SEPTIEMBRE DE 1998.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
