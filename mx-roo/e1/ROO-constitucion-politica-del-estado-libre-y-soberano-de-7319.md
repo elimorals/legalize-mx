@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1975-01-12"
+last_updated: "1977-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1977.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -397,9 +397,11 @@ No podrán reunirse dos o más de estos poderes en una persona o corporación ni
 
 #### SECCION PRIMERA. De la Elección e Instalación de la Legislatura
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE NOVIEMBRE DE 1977)</small>
+
 ###### ARTICULO 52.
 
-La Legislatura del Estado de Quintana Roo se integra con 7 diputados electos en su totalidad cada tres años por votación directa, secreta, mayoritaria relativa y uninominaal(sic) por distritos electorales, complementada con diputados de partido, apegándose en ambos casos, a lo dispuesto por la Ley Electoral. En cuanto a los diputados de partido regirán, además, las siguientes reglas:
+La Legislatura del Estado de Quintana Roo, se integra con 8 diputados electos en su totalidad cada tres años por votación directa, secreta, mayoritaria, relativa y uninominal por distritos electorales, complementada con diputados de partido, apegándose en ambos casos, a lo dispuesto por la Ley Electoral. En cuanto a los diputados de partido regirán, además, las siguientes reglas:
 
 I.- Todo partido político registrado conforme a lo dispuesto en la Ley Electoral, al obtener el 1.5 por ciento de la votación total en la elección respectiva, tendráderecho(sic) a que se acredite, de sus candidatos, a un diputado.
 
@@ -1221,15 +1223,23 @@ La hacienda de los municipios del Estado, se formará con las percepciones que e
 
 El ayuntamiento es el órgano de gobierno municipal a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1977)</small>
+
 ### CAPITULO V. Del Gobierno Municipal
 
 Concepto e Integración
 
 ###### ARTICULO 145.
 
-Los ayuntamientos se integran con un presidente, un síndico y cinco regidores, electos por sufragio universal, directo, libre y secreto de los ciudadanos quintanarroenses en ejercicio de sus derechos.
+Los ayuntamientos se integran de la siguiente forma:
 
-Se elegirá un suplente para el síndico y uno por cada regidor.
+I. En los municipios de Othón P. Blanco y Benito Juárez, con un presidente, un síndico y 7 regidores.
+
+II. En los municipios de Felipe Carrillo Puerto, José Ma. Morelos, Cozumel, Lázaro Cárdenas e Isla Mujeres, con un presidente, un síndico y 5 regidores.
+
+Los miembros de los ayuntamientos son electos por sufragio universal, directo, libre y secreto de los ciudadanos quintanarroenses en ejercicio de sus derechos.
+
+Se elegirá un suplente para el síndico y uno para cada regidor.
 
 ###### ARTICULO 146.
 
@@ -1532,3 +1542,15 @@ Dada en el Salón de Sesiones de la Legislatura Constituyente en la Ciudad de Ch
 Diputado Presidente: Pedro Joaquín Coldwell. Diputado Vicepresidente: Gilberto Pastrana. Diputado Secretario: Abraham Martínez Ross. Diputados Propietarios: Sebastián Estrella Pool, Mario Ramírez Canul, José Flota Valdez y Alberto Villanueva Sansores.
 
 Por tanto para que se imprima, circule y publique por bando solemne en todo el Estado de Quintana Roo, y para su debido cumplimiento y observancia expido el presente Decreto en la residencia del Poder Ejecutivo del Estado de Quintana Roo, a los once días del mes de enero de mil novecientos setenta y cinco. El Gobernador Provisional del Estado de Quintana Roo: David Gustavo Gutiérrez Ruiz.- Rúbrica.- El Secretario General de Gobierno: Dionisio Vera Casanova.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+P.O. 10 DE NOVIEMBRE DE 1977.
+
+###### ARTICULO 1º.
+
+Las presentes reformas y adiciones entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO 2º.
+
+Se derogan todas las disposiciones que se contrapongan al presente Decreto.
