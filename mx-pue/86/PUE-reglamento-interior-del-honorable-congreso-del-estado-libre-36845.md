@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-368
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-19"
-last_updated: "2003-12-19"
+last_updated: "2004-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en la Séptima Sección del Periódico Oficial del Estado de Puebla, el viernes 19 de diciembre de 2003.
 
@@ -221,9 +221,13 @@ a) El marco jurídico que regule las comunicaciones y transportes en la Entidad,
 
 b) Las demás que le confiera la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, las leyes aplicables o le asigne el Presidente.
 
-VI.- SALUD Y GRUPOS CON CAPACIDAD DISMINUIDA:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
-a) La normatividad en el área de salud, asistencia social y grupos con capacidad disminuida; y
+VI.- SALUD Y GRUPOS CON CAPACIDAD DIFERENCIADA:
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+a) La normatividad en el área de salud, asistencia social y grupos con capacidad diferenciada; y
 
 b) Las demás que le confiera la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, las leyes aplicables o le asigne el Presidente.
 
@@ -1187,7 +1191,7 @@ Asimismo, la Secretaria General contará con una Unidad de Relaciones Públicas,
 
 ###### ARTÍCULO 143.
 
-La Secretaría General tendrá a su cargo el Archivo y Biblioteca del Congreso, con las siguientes funciones:
+La Secretaria General tendrá a su cargo el Archivo y Biblioteca del Congreso, con las siguientes funciones:
 
 I.- Actualizar el catálogo de los libros de la biblioteca, anotando cada mes los nuevos libros o acervo bibliográfico que se reciban;
 
@@ -1974,3 +1978,19 @@ Se abroga el Reglamento Interior del Honorable Congreso del Estado Libre y Sober
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de diciembre de dos mil tres.- Diputado Presidente.- HUMBERTO VÁZQUEZ ARROYO.- Rúbrica.- Diputada Vicepresidenta.- MARÍA LEONOR A. POPÓCATL GUTIÉRREZ.- Rúbrica.- Diputado Secretario.- ELISEO PÉREZ SÁNCHEZ.- Rúbrica.- Diputado Secretario.- DANIEL ANTELIZ MAGAÑA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+De los asuntos que se encuentran en trámite en la Comisión de Salud y Grupos con Capacidad Disminuida, seguirá conociendo la Comisión de Salud y Grupos con Capacidad Diferenciada, para su resolución correspondiente, la que continuará funcionando con los mismos integrantes de la Comisión que se menciona al principio de este artículo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
