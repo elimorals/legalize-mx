@@ -4,7 +4,7 @@ identifier: "CAM-ley-que-crea-el-premio-estatal-de-periodismo-3629"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-11"
-last_updated: "1984-04-11"
+last_updated: "2004-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3629&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY QUE CREA EL PREMIO ESTATAL DE PERIODISMO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL PREMIO ESTATAL DE PERIODISMO DEL ESTADO DE CAMPECHE, PUBLICADA EN EL PERIODICO OFICIAL EL16 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el miércoles 11 de abril de 1984.
 
@@ -90,3 +92,13 @@ Dado en el Palacio del Poder Legislativo del Estado de Campeche, a los diez día
 Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado de Campeche, a los diez días del mes de Abril del año de mil novecientos ochenta y cuatro.- El Gobernador Constitucional del Estado, INGENIERO EUGENIO ECHEVERRIA CASTELLOT.- El Secretario de Gobierno, LIC. PABLO GONZALEZ LASTRA.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 16 DE DICIEMBRE DE 2004.
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se abroga la Ley que Crea el Premio Estatal de Periodismo expedida por decreto número 76 de la LI Legislatura del Congreso del Estado, de fecha 10 de abril de 1984 publicada el 11 de abril del mismo año.
+
+TERCERO: Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
