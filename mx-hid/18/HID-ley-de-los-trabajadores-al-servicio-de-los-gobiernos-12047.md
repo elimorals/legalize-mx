@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "1987-12-31"
+last_updated: "2004-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASI COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -108,6 +108,10 @@ Los trabajadores no incluídos en la relación que antecede serán considerados 
 ###### ARTICULO 4o.
 
 Los trabajadores de base serán inamovibles después de seis meses de servicio ininterrumpido sin nota desfavorable en su expediente.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2004)</small>
+
+El proceso de contratación que lleven a cabo los sujetos reglamentados por la presente Ley, será tal que asegure la equidad de oportunidades entre los aspirantes a un mismo puesto, quedando terminantemente prohibido el hacer discriminación de persona atendiendo a su origen étnico, social, orientación sexual, capacidades distintas, o género así como tratándose de aspirantes del sexo femenino, a su posible estado de embarazo al momento de llevar a cabo la selección del personal a contratar. El resultado del proceso de contratación únicamente obedecerá a la capacidad técnica, cultural e idoneidad que el o la aspirante demuestren para ocupar el puesto ofertado.
 
 ###### ARTICULO 5o.
 
@@ -1152,3 +1156,11 @@ Por lo tanto mando se imprima, publique y circule para su debido cumplimiento el
 Dado en el Palacio del Poder Ejecutivo de la ciudad de Pachuca de Soto, Estado de Hidalgo a los treinta y un días del mes de Diciembre de mil novecientos ochenta y siete.
 
 El Gobernador Constitucional del Estado.- LIC. ADOLFO LUGO VERDUZCO.- El Secretario de Gobernación.- LIC. ERNESTO GIL ELORDUY.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE JUNIO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
