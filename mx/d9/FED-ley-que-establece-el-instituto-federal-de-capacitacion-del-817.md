@@ -4,7 +4,7 @@ identifier: "FED-ley-que-establece-el-instituto-federal-de-capacitacion-del-817"
 country: "mx"
 rank: "ley"
 publication_date: "1944-12-30"
-last_updated: "1944-12-30"
+last_updated: "1951-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=817&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1944-12-26"
 
 LEY QUE ESTABLECE EL INSTITUTO FEDERAL DE CAPACITACION DEL MAGISTERIO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1951.
 
-Ley publicada en el Diario Oficial de la Federación el sábado 30 de diciembre de 1944.
+Ley publicada en el Diario Oficial de la Federación, el sábado 30 de diciembre de 1944.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -149,10 +149,16 @@ A medida que se vayan ordenando los datos estadísticos que sirvan de base para 
 
 ###### ARTICULO 4o.
 
-En tanto esta Ley esté en vigor, se autoriza al C. Secretario de Educación Pública para designar y remover sin limitación alguna, al personal del Instituto Federal de Capacitación del Magisterio, dentro de las capacidades presupuestales; en consecuencia, por el mismo lapso, quedan en suspenso, para los efectos de la aplicación de esta Ley, cualesquiera otros ordenamientos que se opongan a la disposición contenida en el presente artículo.
+(DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1951)
 
 ###### ARTICULO 5o.
 
 Desde la fecha de la vigencia de esta Ley, quedan derogadas las leyes, reglamentos, acuerdos y cualesquiera otras disposiciones, que se opongan a su cumplimiento, expresa o tácitamente.
 
 Dada en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D.F., a los veintiséis días del mes de diciembre de mil novecientos cuarenta y cuatro.- Manuel Avila Camacho.- Rúbrica.- El Secretario de Estado y del Despacho de Educación Pública, Jaime Torres Bodet.- Rúbrica.- El Procurador General de Justicia de la Nación, José Aguilar y Maya.- Rúbrica.- Al C. Lic. Miguel Alemán, Secretario de Gobernación.- Presente.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 26 DE DICIEMBRE DE 1951.
+
+Este Decreto entrará en vigor, a partir de la fecha de su publicación en el "Diario Oficial".
