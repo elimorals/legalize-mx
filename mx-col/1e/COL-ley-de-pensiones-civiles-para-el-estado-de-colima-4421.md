@@ -4,7 +4,7 @@ identifier: "COL-ley-de-pensiones-civiles-para-el-estado-de-colima-4421"
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-29"
-last_updated: "1966-12-17"
+last_updated: "1968-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PENSIONES CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1966.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 1968.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 29 de diciembre de 1962.
 
@@ -261,11 +261,11 @@ Los préstamos a que se contrae el artículo anterior podrán ser autorizados ha
 
 Los préstamos serán, en cuanto a su monto, de tal manera que los abonos para reintegrar la cantidad pedida y sus intereses sumados a los descuentos que deban hacerse por cualquier otro adeudo a favor de la Dirección, no excedan del cincuenta por ciento de los sueldos del interesado.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1966)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1968)</small>
 
 ###### Art. 29.
 
-El plazo para la devolución de la cantidad prestada y sus accesorios será hasta de veinticuatro quincenas, salvo el caso de los créditos sobre fondo de garantía que no podrán concederse a más de dieciséis quincenas.
+El plazo para la devolución de la cantidad prestada y sus accesorios será hasta de treinta quincenas, salvo el caso de los créditos sobre fondo de garantía que no podrán concederse a más de dieciséis quincenas.
 
 ###### Art. 30.
 
@@ -512,5 +512,9 @@ P.O. 29 DE MAYO DE 1965.
 UNICO.- Este Decreto empezará a surtir sus efectos a partir del día siguiente de su publicación en el Periódico Oficial.
 
 P.O. 17 DE DICIEMBRE DE 1966.
+
+Este Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MAYO DE 1968.
 
 Este Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
